@@ -23,7 +23,7 @@ title: 长篇
             {% if node.title != null and node.long_novels == longnovel %}
                 <li>
                     <div class="col-md-10" style="margin: 0; padding: 0">
-                        <a href="{{ site.baseurl}}{{ post.url }}"> {{ node.title }}</a>
+                        <a href="{{ site.baseurl}}{{ node.url }}"> {{ node.title }}</a>
                     </div>
                     <div class="col-md-2" style="margin: 0; padding: 0">
                         <span class="post-date">
