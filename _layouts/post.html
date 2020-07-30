@@ -8,7 +8,12 @@ layout: default
         {% assign date_format = site.date_format.title %}
         {{ page.date | date: date_format }}
     </span>
-    
+    &nbsp;
+    <span class="wordcount-style">
+        字数：{{ page.content | strip_html | strip_newlines | number_of_words: "auto" }}
+    </span>
+    &nbsp;
+
     {{ page.content }}
 
 </div>
