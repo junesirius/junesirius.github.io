@@ -89,6 +89,37 @@ layout: default
     </ul>
     {% endunless %}
 
+    <!-- characters after post -->
+    {% unless page.characters == null %}
+    <ul class="list-unstyled list-inline">
+      <li class="icon-img-style"><i class="icon-user"></i></li>
+      {% assign characters_list = page.characters %}
+      {% if characters_list.first[0] == null %}
+        {% for character in characters_list %}
+            {% assign charcter_count = 0 %}
+            {% for node in site.posts %}
+                {% for node_character in node.characters %}
+                    {% if node_character == character %}
+                        {% assign character_count = character_count | plus: 1 %}
+                        {% break %}
+                    {% endif %}
+                {% endfor %}
+            {% endfor %}
+            <li class="icon-style">
+                <a href="{{ site.baseurl }}/characters.html">{{ character }} ({{ character_count }})</a>{% unless forloop.last %},{% endunless %}
+            </li>
+            {% assign character_count = 0 %}
+        {% endfor %}
+      {% else %}
+        {% for character in characters_list %}
+            <li class="icon-style">
+                <a href="{{ site.baseurl }}/characters.html">{{ character[0] }} ({{ character[1].size }})</a>{% unless forloop.last %},{% endunless %}
+            </li>
+        {% endfor %}
+      {% endif %}
+      {% assign characters_list = nil %}
+    </ul>
+    {% endunless %}
 
     </div>
 </div>
