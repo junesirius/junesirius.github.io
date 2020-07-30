@@ -27,6 +27,12 @@ layout: default
     &nbsp;
     {% endunless %}
 
+    {% unless page.origin == null %}
+    <span class="origin-style">
+        首发位置：{{ page.origin }}
+    </span>
+    {% endunless %}
+
     {{ page.content }}
 
 </div>
