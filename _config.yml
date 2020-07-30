@@ -1,0 +1,29 @@
+# Jekyll configuration
+
+name: 六月的天狼星
+name_en: June Sirius
+
+# url is currently only used for the RSS feed in feed.xml
+url: https://junesirius.github.io
+baseurl: ""
+
+## default date_format
+date_format: 
+  title: "%m-%d-%Y"
+  archive: "%m-%d"
+  categories: "%m-%d-%Y"
+  tags: "%m-%d-%Y"
+
+# Language
+lan: "cn" 
+
+paginate: 10
+
+highlighter: rouge
+markdown: kramdown
+gems: ['jekyll-paginate']
+plugins: ['jekyll-paginate']
+
+exclude: ['README.md', 'LICENSE', "*.bak"]
+
+permalink: /:year/:month/:day/:title
