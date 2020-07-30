@@ -40,9 +40,32 @@ layout: default
         <p class="author"><a href="{{ site.baseurl }}{{ page.url }}{{ site.isso_suffix }}#isso-thread">Comments</a></p>
         {% endif %}
     {% endif %}
-    
+
     <hr style="border-top:1px solid #28323C;"/>
     {{ page.content }}
     <hr style="border-top:1px solid #28323C;"/>
 
+    <div class="post-content">
+    <!-- categories under post -->
+    {% unless page.categories == null %}
+    <ul class="list-unstyled list-inline">
+      <li class="icon-img-style"><i class="icon-folder-open"></i></li>
+      {% assign categories_list = page.categories %}
+      {% if categories_list.first[0] == null %}
+        {% for category in categories_list %} 
+            <li class="icon-style">
+                <a href="{{ site.baseurl }}/categories.html#{{ category }}">{{ category }} ({{ site.categories[category].size }})</a>{% unless forloop.last %},{% endunless %}
+            </li>
+        {% endfor %}
+      {% else %}
+        {% for category in categories_list %} 
+            <li class="icon-style">
+                <a href="{{ site.baseurl }}/categories.html#{{ category }}">{{ category[0] }} ({{ category[1].size }})</a>{% unless forloop.last %},{% endunless %}
+            </li>
+        {% endfor %}
+      {% endif %}
+    </ul>
+    {% endunless %}
+
+	</div>
 </div>
