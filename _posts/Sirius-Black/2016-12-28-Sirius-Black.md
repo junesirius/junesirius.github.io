@@ -1,4 +1,13 @@
-18:19
+---
+layout: post
+title: 【Sirius Black】期末复习
+date: 2016-12-28 18:19
+categories: HP
+characters: ["Sirius Black", "James Potter", "Remus Lupin", "Peter Pettigrew"]
+tags: ["亲世代"]
+pov: 第一人称
+origin: 名人朋友圈
+---
 
 又是一个阳光明媚的冬日上午。斜躺在温暖的草坪上还算舒服。虽然有点冷，但我们都不想回那个吵吵嚷嚷的休息室。
 

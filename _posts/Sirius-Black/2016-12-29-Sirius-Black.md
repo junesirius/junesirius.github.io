@@ -1,4 +1,13 @@
-18:51
+---
+layout: post
+title: 【Sirius Black】期末考试
+date: 2016-12-29 18:51
+categories: HP
+characters: ["Sirius Black", "James Potter", "Remus Lupin", "Peter Pettigrew"]
+tags: ["亲世代"]
+pov: 第一人称
+origin: 名人朋友圈
+---
 
 期末考试前的最后一天课，上午的变形课一如既往的有难度，我和James很快就掌握了，剩下的时间都在帮Remus和Peter练习。在课上我就发现了，今天的Peter特别的郁郁寡欢，还不是因为那个“鼻涕虫”老在嘲讽他那刺猬变成的茶壶在叉子靠近时还会吓得卷起来。
 
