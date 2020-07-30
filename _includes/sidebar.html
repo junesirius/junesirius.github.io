@@ -64,3 +64,19 @@
     {% endfor %}
 </div>
 
+<!-- 长篇连载 -->
+<div class="sidebar well">
+    <h1>{{ trans.top_posts }}</h1>
+    <ul>
+        {% assign long_novel_posts = site.posts | where_exp:"post", "post.long_novels != null" %}
+        {% assign long_novel_names = "" | split: "" %}
+        {% for post in long_novel_posts %}
+            {% unless long_novel_names contains post.long_novels %}
+                {% assign long_novel_names = long_novel_names | push: post.long_novels %}
+                <li>
+                    <a href="{{ site.baseurl}}/longnovels.html#{{ post.long_novels }}"> {{ post.long_novels }}</a>
+                </li>
+            {% endunless %}
+        {% endfor %}
+    </ul>
+</div>
