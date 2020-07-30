@@ -1,0 +1,41 @@
+---
+layout: default
+title: 首页
+---
+{% assign trans = site.data.values[site.lan] %}
+{% for post in paginator.posts %}
+<div class="well article">
+
+    <span class="post-date">
+        {% assign date_format = site.date_format.title %}
+        {{ post.date | date: date_format }}
+    </span>
+    
+    <h2>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </h2>
+    
+    <div class="post-description">
+      {% if post.description == null %}
+        {{ post.content | strip_html | strip_newlines | truncate: 150 }}
+      {% else %}
+        {{ post.description }}
+      {% endif %}
+    </div>
+    
+</div>
+{% endfor %}
+
+<div class="pagination">
+  {% if paginator.previous_page %}
+      {% if paginator.previous_page == 1 %}
+        <a class="btn btn-default" href="{{ site.baseurl}}/index.html" class="previous">{{ trans.newer_page }}</a>
+      {% else %}
+        <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.previous_page }}" class="previous">{{ trans.newer_page }}</a>
+      {% endif %}
+  {% endif %}
+  <span class="page_number ">{{ trans.page }}: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+  {% if paginator.next_page %}
+    <a class="btn btn-default" href="{{ site.baseurl}}/page{{ paginator.next_page }}" class="next">{{ trans.older_page }}</a>
+  {% endif %}
+</div>
