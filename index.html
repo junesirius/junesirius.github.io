@@ -2,27 +2,14 @@
 layout: default
 title: 首页
 ---
-{% assign trans = site.data.values[site.lan] %}
-{% for post in paginator.posts %}
 <div class="well article">
 
-    <span class="post-date">
-        {% assign date_format = site.date_format.title %}
-        {{ post.date | date: date_format }}
-    </span>
-    
-    <h2>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </h2>
-    
-    <div class="post-description">
-      {% if post.description == null %}
-        {{ post.content | strip_html | strip_newlines | truncate: 150 }}
-      {% else %}
-        {{ post.description }}
-      {% endif %}
-    </div>
+<ul>
+    {% for post in site.posts %}
+        <a href="{{ post.url }}">{{ post.title }}</a>
+    {% endfor %}
+</ul>
     
 </div>
-{% endfor %}
+
 

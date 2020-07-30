@@ -4,18 +4,7 @@ layout: default
 {% assign trans = site.data.values[site.lan] %}
 <div class="well article">
     <h2><a href="{{ site.baseurl}}{{ page.url }}">{{ page.title }}</a></h2>
-    <span class="post-date">
-        {% assign date_format = site.date_format.title %}
-        {{ page.date | date: date_format }}
-    </span>
-    &nbsp;
-    <span class="wordcount-style">
-        word: {{ page.content | strip_html | strip_newlines | number_of_words: "auto" }}
-    </span>
-    &nbsp;
 
+    {{ page.content }}
 
-    <hr style="border-top:1px solid #28323C;"/>
-    {{ content }}
-    <hr style="border-top:1px solid #28323C;"/>
 </div>
