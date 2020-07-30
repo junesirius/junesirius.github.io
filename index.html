@@ -2,6 +2,7 @@
 layout: default
 title: 首页
 ---
+{% assign trans = site.data.values[site.lan] %}
 {% for post in site.posts %}
 <div class="well article">
     <span class="post-date">
@@ -12,7 +13,14 @@ title: 首页
     <h2>
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </h2>
-    
+ 
+    <div class="post-description">
+      {% if post.description == null %}
+        {{ post.content | strip_html | strip_newlines | truncate: 150 }}
+      {% else %}
+        {{ post.description }}
+      {% endif %}
+    </div>
 </div>
 {% endfor %}
 
