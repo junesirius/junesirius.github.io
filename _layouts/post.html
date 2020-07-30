@@ -67,5 +67,28 @@ layout: default
     </ul>
     {% endunless %}
 
-	</div>
+    <!-- tags under post -->
+    {% unless page.tags == null %}
+    <ul class="list-unstyled list-inline">
+      <li class="icon-img-style"><i class="icon-tags"></i></li>
+      {% assign tags_list = page.tags %}
+      {% if tags_list.first[0] == null %}
+        {% for tag in tags_list %} 
+            <li class="icon-style">
+                <a href="{{ site.baseurl }}/tags.html#{{ tag }}">{{ tag }} ({{ site.tags[tag].size }})</a>{% unless forloop.last %},{% endunless %}
+            </li>
+        {% endfor %}
+      {% else %}
+        {% for tag in tags_list %} 
+            <li class="icon-style">
+                <a href="{{ site.baseurl }}/tags.html#{{ tag }}">{{ tag[0] }} ({{ tag[1].size }})</a>{% unless forloop.last %},{% endunless %}
+            </li>
+        {% endfor %}
+      {% endif %}
+      {% assign tags_list = nil %}
+    </ul>
+    {% endunless %}
+
+
+    </div>
 </div>
