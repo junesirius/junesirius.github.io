@@ -42,3 +42,25 @@
     {% endfor %}
 </div>
 
+<!-- 热门圈子 -->
+<div class="sidebar well">
+    <h1>{{ trans.hot_categories }}</h1>
+    {% assign max_category_count = 0 %}
+    {% for category in site.categories %}
+        {% if category[1].size > max_category_count %}
+            {% assign max_category_count = category[1].size %}
+        {% endif %}
+    {% endfor %}
+
+    {% assign sortedcategories = site.categories | sort %}
+    {% for i in (1..max_category_count) reversed limited: 5 %}
+        {% for category in sortedcategories %}
+            {% if category[1].size == i %}
+                <li>
+                    <a href="{{ site.baseurl }}/categories.html#{{ category[0] }}">{{ category[0] }} ({{ category[1].size }})</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+</div>
+
