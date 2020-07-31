@@ -141,14 +141,14 @@ layout: default
 
 <div class="pagination" style="width: 100%">
     <div class="col-md-6" style="text-align: left">
-    {% if page.next %}
-    <a class="btn btn-default" href="{{ site.baseurl}}{{ page.next.url }}" class="next">{{ trans.newer_post }}</a> {{ page.next.title }}
+    {% if page.previous %}
+    <a class="btn btn-default" href="{{ site.baseurl}}{{ page.previous.url }}" class="previous">{{ trans.newer_post }}</a> {{ page.previous.title }}
     {% endif %}
     </div>
 
     <div class="col-md-6" style="text-align: right">
-    {% if page.previous %}
-    <a class="btn btn-default" href="{{ site.baseurl}}{{ page.previous.url }}" class="previous">{{ trans.older_post }}</a> {{ page.previous.title }}
+    {% if page.next %}
+    <a class="btn btn-default" href="{{ site.baseurl}}{{ page.next.url }}" class="next">{{ trans.older_post }}</a> {{ page.next.title }}
     {% endif %}
     </div>
 </div>
