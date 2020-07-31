@@ -19,8 +19,10 @@ layout: default
         视角：{{ page.pov }}
         {%- if page.pov == "第一人称" and page.characters.size > 0 -%}
             {%- for character in page.characters -%}
-                （{{ character }}）
-                {% break %}
+                {% unless character == "白起" %}
+                    （{{ character }}）
+                    {% break %}
+                {% endunless %}
             {%- endfor -%}
         {%- endif -%}
     </span>
