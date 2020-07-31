@@ -34,20 +34,15 @@
     {% assign tag_display_count = 0 %}
     {% for i in (1..max_tag_count) reversed %}
         {% for tag in sortedtags %}
-            {% assign tag_display_flag = false %}
             {% if tag[1].size == i %}
                 <li>
                     <a href="{{ site.baseurl }}/tags.html#{{ tag[0] }}">{{ tag[0] }} ({{ tag[1].size }})</a>
-                    {% assign tag_display_flag = true %}
-                    {% break %}
+                    {% assign tag_display_count = tag_display_count | plus: 1 %}
                 </li>
             {% endif %}
         {% endfor %}
-        {% if tag_display_flag == true %}
-            {% assign tag_display_count = tag_display_count | plus: 1 %}
-            {% if tag_display_count == 5 %}
-                {% break %}
-            {% endif %}
+        {% if tag_display_count >= 5 %}
+            {% break %}
         {% endif %}
     {% endfor %}
 </div>
@@ -66,21 +61,16 @@
     {% assign category_display_count = 0 %}
     {% for i in (1..max_category_count) reversed %}
         {% for category in sortedcategories %}
-            {% assign category_display_flag = false %}
             {% if category[1].size == i %}
                 <li>
                     <a href="{{ site.baseurl }}/categories.html#{{ category[0] }}">{{ category[0] }} ({{ category[1].size }})</a>
-                    {% assign category_display_flag = true %}
-                    {% break %}
+                    {% assign category_display_count = category_display_count | plus: 1 %}
                 </li>
             {% endif %}
         {% endfor %}
-            {% if category_display_flag == true %}
-                {% assign category_display_count = category_display_count | plus: 1 %}
-                {% if category_display_count == 5 %}
-                    {% break %}
-                {% endif %}
-            {% endif %}
+        {% if category_display_count >= 5 %}
+            {% break %}
+        {% endif %}
     {% endfor %}
 </div>
 
