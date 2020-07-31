@@ -110,7 +110,7 @@ layout: default
                 {% endfor %}
             {% endfor %}
             <li class="icon-style">
-                <a href="{{ site.baseurl }}/characters.html">{{ character }} ({{ character_count }})</a>{% unless forloop.last %},{% endunless %}
+                <a href="{{ site.baseurl }}/characters.html#{{ character }}">{{ character }} ({{ character_count }})</a>{% unless forloop.last %},{% endunless %}
             </li>
             {% assign character_count = 0 %}
         {% endfor %}
