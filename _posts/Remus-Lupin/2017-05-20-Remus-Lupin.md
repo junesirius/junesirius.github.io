@@ -9,9 +9,9 @@ pov: 第一人称
 origin: 名人朋友圈
 ---
 
-<br>
-*退缩，不，振作自己*<br>
-*Back up, no, I’ll hold myself*
+退缩，不，振作自己
+
+Back up, no, I’ll hold myself
 <br><br>
 
 客厅里短暂的宁静被院里夜骐的尖锐呼啸声和嘈杂人声所打破，只是我没有想到，在这之后，再也不会有我们的最后一组小分队。

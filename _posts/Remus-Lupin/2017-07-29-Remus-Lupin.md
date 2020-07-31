@@ -9,9 +9,9 @@ pov: 第一人称
 origin: 名人朋友圈
 ---
 
-<br>
-*剩下的故事让别人来讲*<br>
-*Let the rest be to tell they tale*
+剩下的故事让别人来讲
+
+Let the rest be to tell they tale
 <br><br>
 
 绿光闪过，身体变得轻盈起来，慢慢上升。时间和空间似乎都在眼前优雅地展开，第一次得以从这样的视角审视这个世界，回望过往逝去的时光。
