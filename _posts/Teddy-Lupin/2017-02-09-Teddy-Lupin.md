@@ -5,7 +5,7 @@ date: 2017-02-09 01:46
 categories: HP
 characters: ["Teddy Lupin", "Remus Lupin"]
 tags: ["孙世代", "亲世代"]
-pov: 第一视角
+pov: 第一人称
 origin: 名人朋友圈
 ---
 

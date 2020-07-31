@@ -5,7 +5,7 @@ date: 2017-05-31 08:29
 categories: HP
 characters: ["Teddy Lupin", "Harry Potter"]
 tags: 孙世代
-pov: 第一视角
+pov: 第一人称
 origin: 名人朋友圈
 ---
 

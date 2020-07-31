@@ -5,7 +5,7 @@ date: 2017-02-01 05:26
 categories: HP
 characters: ["Teddy Lupin"]
 tags: ["孙世代", "卢唐"]
-pov: 第一视角
+pov: 第一人称
 origin: 名人朋友圈
 ---
 
