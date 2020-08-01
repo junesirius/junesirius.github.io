@@ -1,0 +1,32 @@
+---
+layout: post
+title: 
+date: 
+categories: ["原创"]
+characters: 
+tags: ["人类观察日记"]
+pov: 第一人称
+origin: github.io
+long_novels: 【原创】人类观察日记
+published: false
+---
+
+（无限长篇）
+
+Chap 0后
+就这样到了地球
+
+Chap 1
+领取身份 (PhD学生）
+
+每天/星期/……都有新的关于人类的新的认知，或好或坏，that's human.
+
+
+（结局）
+很久很久几乎可以持续永远的chapter经历之后终于得出结论——
+
+有1%的人类基因，我为这1%和余下的99%的自己骄傲。
+
+（爱情线的结果还没到所以不能提前激活……）
+
+（结局也可以考虑跟开头呼应一下）
