@@ -59,4 +59,4 @@ Two, one.
 Zero.
 
 <br><br>
-![](/assets/images/mrpyq/2017-07-22-Remus-Lupin.jpg)
+![](/assets/images/mrpyq/2017-07-22-Lyrics.jpg)

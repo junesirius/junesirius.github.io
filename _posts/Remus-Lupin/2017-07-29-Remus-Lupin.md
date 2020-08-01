@@ -30,4 +30,4 @@ Let the rest be to tell they tale
 死后还能感受到疼痛吗？如果不能，此刻想到这些，心中撕裂般的疼痛如何解释？为了深爱的校园，为了用生命去爱的妻子和儿子，为了曾经发誓同生死的凤凰社同僚战友，此刻的我漂浮在这片伤痕累累的土地上空，只能想象别人口中我的故事，他们会怎么评价我呢？希望没有辜负格兰芬多的期冀吧！
 
 <br><br>
-![](/assets/images/mrpyq/2017-07-29-Remus-Lupin.jpg)
+![](/assets/images/mrpyq/2017-07-29-Lyrics.jpg)
