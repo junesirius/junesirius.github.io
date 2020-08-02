@@ -20,33 +20,6 @@
     </ul>
 </div>
 
-<!-- 热门标签 -->
-<div class="sidebar well">
-    <h1>{{ trans.hot_tags }}</h1>
-    {% assign max_tag_count = 0 %}
-    {% for tag in site.tags %}
-        {% if tag[1].size > max_tag_count %}
-            {% assign max_tag_count = tag[1].size %}
-        {% endif %}
-    {% endfor %}
-
-    {% assign sortedtags = site.tags | sort %}
-    {% assign tag_display_count = 0 %}
-    {% for i in (1..max_tag_count) reversed %}
-        {% for tag in sortedtags %}
-            {% if tag[1].size == i %}
-                <li>
-                    <a href="{{ site.baseurl }}/tags.html#{{ tag[0] }}">{{ tag[0] }} ({{ tag[1].size }})</a>
-                    {% assign tag_display_count = tag_display_count | plus: 1 %}
-                </li>
-            {% endif %}
-        {% endfor %}
-        {% if tag_display_count >= 5 %}
-            {% break %}
-        {% endif %}
-    {% endfor %}
-</div>
-
 <!-- 热门圈子 -->
 <div class="sidebar well">
     <h1>{{ trans.hot_categories }}</h1>
@@ -69,6 +42,33 @@
             {% endif %}
         {% endfor %}
         {% if category_display_count >= 5 %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+</div>
+
+<!-- 热门标签 -->
+<div class="sidebar well">
+    <h1>{{ trans.hot_tags }}</h1>
+    {% assign max_tag_count = 0 %}
+    {% for tag in site.tags %}
+        {% if tag[1].size > max_tag_count %}
+            {% assign max_tag_count = tag[1].size %}
+        {% endif %}
+    {% endfor %}
+
+    {% assign sortedtags = site.tags | sort %}
+    {% assign tag_display_count = 0 %}
+    {% for i in (1..max_tag_count) reversed %}
+        {% for tag in sortedtags %}
+            {% if tag[1].size == i %}
+                <li>
+                    <a href="{{ site.baseurl }}/tags.html#{{ tag[0] }}">{{ tag[0] }} ({{ tag[1].size }})</a>
+                    {% assign tag_display_count = tag_display_count | plus: 1 %}
+                </li>
+            {% endif %}
+        {% endfor %}
+        {% if tag_display_count >= 5 %}
             {% break %}
         {% endif %}
     {% endfor %}
