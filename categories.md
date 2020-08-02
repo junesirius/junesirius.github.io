@@ -7,7 +7,7 @@ title: 分类
 {% assign sortedcategories = site.categories | sort %}
 {% for category in sortedcategories %}
     <a id="{{ category[0] }}" style="position: relative; top: -50px"></a>
-    <h2>{{ category[0] }}</h2>
+    <h2><a href="{{ site.baseurl }}/categories-detail.html#{{ category[0] }}-detail">{{ category[0] }}</a></h2>
     <ul>
     {% assign pages_list = category[1] %}
     <!-- Find tags and characters under the category -->
