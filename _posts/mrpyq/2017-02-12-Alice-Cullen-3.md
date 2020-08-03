@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 【暮光xHP】霍格沃茨的吸血鬼（三）交友
+title: 【暮光×HP】霍格沃茨的吸血鬼（三）交友
 date: 2017-02-12 23:42
 categories: ["暮光之城", "HP"]
 characters: ["Alice Cullen", "Luna Lovegood"]
 tags: ["Crossover"]
 pov: 第一人称
 origin: 名人朋友圈
-long_novels: 【暮光xHP】霍格沃茨的吸血鬼
+long_novels: 【暮光×HP】霍格沃茨的吸血鬼
 ---
 
 循着画像的指示走上西边最高的塔楼，在一扇高门前停下脚步，打量着这道没有钥匙孔的门，说实话如果没有雕饰精良的鹰状把手，它看上去更像是一块废弃的木板。

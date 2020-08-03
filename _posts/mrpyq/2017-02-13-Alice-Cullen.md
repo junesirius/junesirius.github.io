@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 【暮光xHP】霍格沃茨的吸血鬼（四）黑魔法防御课
+title: 【暮光×HP】霍格沃茨的吸血鬼（四）黑魔法防御课
 date: 2017-02-13 00:22
 categories: ["暮光之城", "HP"]
 characters: ["Alice Cullen", "Luna Lovegood", "Remus Lupin"]
 tags: ["Crossover"]
 pov: 第一人称
 origin: 名人朋友圈
-long_novels: 【暮光xHP】霍格沃茨的吸血鬼
+long_novels: 【暮光×HP】霍格沃茨的吸血鬼
 ---
 
 翻了翻课表，拉文克劳今天下午有第一节黑魔法防御课，室内上。好极了，不用请假，心中充满了期待。
