@@ -92,6 +92,41 @@ title: 统计
 
 <div class="well article">
     <h2>长篇</h2>
+    <!-- Look for the name list of all long-novels -->
+    {% assign long_novel_posts = site.posts | where_exp:"post", "post.long_novels != null" %}
+    {% assign long_novel_list = "" | split: "" %}
+    {% for post in long_novel_posts %}
+        {% unless long_novel_list contains post.long_novels %}
+            {% assign long_novel_list = long_novel_list | push: post.long_novels %}
+        {% endunless %}
+    {% endfor %}
+    {% assign long_novel_list = long_novel_list | sort %}
+    <!-- Look for count of each longnovel -->
+    {% assign long_novel_count_list = "" | split: "" %}
+    {% for long_novel in long_novel_list %}
+        {% assign long_novel_count = 0 %}
+        {% for post in long_novel_posts %}
+            {% if post.long_novels == long_novel %}
+                {% assign long_novel_count = long_novel_count | plus: 1 %}
+            {% endif %}
+        {% endfor %}
+        {% assign long_novel_count_list = long_novel_count_list | push: long_novel_count %}
+        {% assign long_novel_count = 0 %}
+    {% endfor %}
+    <!-- Look for max longnovel count -->
+    {% assign long_novel_num = long_novel_list | size %}
+    {% assign long_novel_num_minus = long_novel_num | minus: 1 %}
+    {% assign sorted_long_novel_count = long_novel_count_list | sort | reverse %}
+    {% assign max_long_novel_count = sorted_long_novel_count[0] %}
+    {% for long_novel_index in (1..max_long_novel_count) reversed %}
+        {% for i in (0..long_novel_num_minus) %}
+            {% if long_novel_count_list[i] == long_novel_index %}
+                <li>
+                    <a href="{{ site.baseurl }}/longnovels.html#{{ long_novel_list[i] }}">{{ long_novel_list[i] }} ({{ long_novel_count_list[i] }})</a>
+                </li>
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
 </div>
 
 <div class="well article">

@@ -76,7 +76,7 @@
 
 <!-- 长篇连载 -->
 <div class="sidebar well">
-    <h1>{{ trans.top_posts }}</h1>
+    <h1>{{ trans.longnovel_posts }}</h1>
     <ul>
         {% assign long_novel_posts = site.posts | where_exp:"post", "post.long_novels != null" %}
         {% assign long_novel_names = "" | split: "" %}
