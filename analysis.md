@@ -3,6 +3,7 @@ layout: default
 title: 统计
 ---
 <div class="well article">
+    <a id="{{ category-analysis }}" style="position: relative; top: -50px"></a>
     <h2>圈子</h2>
     <!-- Find the max category count -->
     {% assign sorted_categories = site.categories | sort %}
@@ -25,6 +26,7 @@ title: 统计
 </div>
 
 <div class="well article">
+    <a id="{{ tag-analysis }}" style="position: relative; top: -50px"></a>
     <h2>标签</h2>
     <!-- Find the max tag count -->
     {% assign sorted_tags = site.tags | sort %}
@@ -47,6 +49,7 @@ title: 统计
 </div>
 
 <div class="well article">
+    <a id="{{ character-analysis }}" style="position: relative; top: -50px"></a>
     <h2>人物</h2>
     <!-- Look for the name list of all characters -->
     {% assign character_list = "" | split: "" %}
@@ -91,6 +94,7 @@ title: 统计
 </div>
 
 <div class="well article">
+    <a id="{{ longnovel-analysis }}" style="position: relative; top: -50px"></a>
     <h2>长篇</h2>
     <!-- Look for the name list of all long-novels -->
     {% assign long_novel_posts = site.posts | where_exp:"post", "post.long_novels != null" %}
@@ -133,6 +137,7 @@ title: 统计
 </div>
 
 <div class="well article">
+    <a id="{{ date-analysis }}" style="position: relative; top: -50px"></a>
     <h2>日期</h2>
     {%for post in site.posts %}
         <!-- Display year -->
