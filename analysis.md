@@ -118,6 +118,8 @@ title: 统计
     {% assign long_novel_num_minus = long_novel_num | minus: 1 %}
     {% assign sorted_long_novel_count = long_novel_count_list | sort | reverse %}
     {% assign max_long_novel_count = sorted_long_novel_count[0] %}
+    <!-- Begin display -->
+    <ul>
     {% for long_novel_index in (1..max_long_novel_count) reversed %}
         {% for i in (0..long_novel_num_minus) %}
             {% if long_novel_count_list[i] == long_novel_index %}
@@ -127,8 +129,58 @@ title: 统计
             {% endif %}
         {% endfor %}
     {% endfor %}
+    </ul>
 </div>
 
 <div class="well article">
     <h2>日期</h2>
+    {%for post in site.posts %}
+        <!-- Display year -->
+        {% if post.next == nil %}
+            <h3>{{ post.date | date: '%Y' }}</h3>
+            {% assign year_count = 0 %}
+        {% else %}
+            {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+            {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+            {% if year != nyear %}
+                <h3>{{ post.date | date: '%Y' }}</h3>
+                {% assign year_count = 0 %}
+            {% endif %}
+        {% endif %}
+        <!-- Analysis month -->
+        {% if post.previous != nil %}
+            {% capture month %}{{ post.date | date: '%B' }}{% endcapture %}
+            {% if post.next == nil %}
+                {% assign month_count = 0 %}
+            {% else %}
+                {% capture nmonth %}{{ post.next.date | date: '%B' }}{% endcapture %}
+                {% if month != nmonth %}
+                    {% assign month_count = 0 %}
+                {% endif %}
+            {% endif %}
+            {% assign month_count = month_count | plus: 1 %}
+            {% capture pmonth %}{{ post.previous.date | date: '%B' }}{% endcapture %}
+            {% if month != pmonth %}
+                {{ month }} ({{ month_count }})
+                &nbsp;|&nbsp;
+                {% assign year_count = year_count | plus: month_count %}
+                {% assign month_count = 0 %}
+                <!-- Display year count -->
+                {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+                {% capture pyear %}{{ post.previous.date | date: '%Y' }}{% endcapture %}
+                {% if year != pyear %}
+                    <b>总数：{{ year_count }}</b>
+                {% endif %}
+            {% endif %}
+        {% else %}
+            {% assign month_count = month_count | plus: 1 %}
+            {{ month }} ({{ month_count }})
+            {% assign year_count = year_count | plus: month_count %}
+            {% assign month_count = 0 %}
+            <!-- Display year count -->
+            &nbsp;|&nbsp;
+            <b>总数：{{ year_count }}</b>
+            {% assign year_count = 0 %}
+        {% endif %}
+    {% endfor %}
 </div>
