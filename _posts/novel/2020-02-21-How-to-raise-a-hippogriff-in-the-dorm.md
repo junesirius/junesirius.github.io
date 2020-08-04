@@ -3,7 +3,7 @@ layout: post
 title: 【HP】怎样在宿舍里养一只鹰头马身有翼兽：饲养手则（英文）
 date: 2020-02-21 03:58
 categories: ["HP"]
-characters: ["鹰头马身有翼兽"]
+characters: ["Hippogriff"]
 pov: 第一人称
 origin: Dashew Center投稿
 ---
