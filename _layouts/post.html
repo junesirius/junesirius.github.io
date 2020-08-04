@@ -33,8 +33,18 @@ layout: default
     <span class="origin-style">
         首发位置：{{ page.origin }}
     </span>
+    &nbsp;
     {% endunless %}
 
+    <!-- Count reader number -->
+    <span class="origin-style">
+        <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+        <span id="busuanzi_container_page_pv">
+            本文阅读量：<span id="busuanzi_value_page_pv"></span>次
+        </span>
+    </span>
+
+    <!-- Begin post content -->
     <hr style="border-top:1px solid #28323C;"/>
     <div style="text-indent: 2em">
         {{ page.content }}
