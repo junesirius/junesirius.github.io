@@ -189,3 +189,17 @@ title: 统计
         {% endif %}
     {% endfor %}
 </div>
+
+<div class="well article">
+    <a id="{{ total-analysis }}" style="position: relative; top: -50px"></a>
+    <h2>总数</h2>
+    <ul>
+        <li>总文章数：{{ site.posts | size }}</li>
+        {% assign total_word_count = 0 %}
+        {% for post in site.posts %}
+            {% assign post_word_count = post.content | strip_html | strip_newlines | size %}
+            {% assign total_word_count = total_word_count | plus: post_word_count %}
+        {% endfor %}
+        <li>总字数：{{ total_word_count }}</li>
+    </ul>
+</div>
