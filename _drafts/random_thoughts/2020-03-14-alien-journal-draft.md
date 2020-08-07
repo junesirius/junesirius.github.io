@@ -1,14 +1,13 @@
 ---
 layout: post
-title: 
-date: 
+title: 【原创】人类观察日记（草稿）
+date: 2020-03-14
 categories: ["原创"]
 characters: 
-tags: ["人类观察日记"]
+tags: ["人类", "社会", "生活"]
 pov: 第一人称
 origin: github.io
 long_novels: 【原创】人类观察日记
-published: false
 ---
 
 （无限长篇）
