@@ -6,6 +6,6 @@ categories: ["中土", "RPS"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]
 tags: ["VO", "Crossover", "CA"]
 pov: 第三人称
-origin: Lofter
+origin: 《白城日报》21年合志
 long_novels: 【VO】向上坠落
 ---
