@@ -127,9 +127,17 @@ title: 统计
     {% for long_novel_index in (1..max_long_novel_count) reversed %}
         {% for i in (0..long_novel_num_minus) %}
             {% if long_novel_count_list[i] == long_novel_index %}
+                {% assign long_novel_wordcount = 0 %}
+                {% for post in long_novel_posts %}
+                    {% if post.long_novels == long_novel_list[i] %}
+                        {% assign post_wordcount = post.content | strip_html | strip_newlines | size %}
+                        {% assign long_novel_wordcount = long_novel_wordcount | plus: post_wordcount %}
+                    {% endif %}
+                {% endfor %}
                 <li>
-                    <a href="{{ site.baseurl }}/longnovels.html#{{ long_novel_list[i] }}">{{ long_novel_list[i] }} ({{ long_novel_count_list[i] }})</a>
+                    <a href="{{ site.baseurl }}/longnovels.html#{{ long_novel_list[i] }}">{{ long_novel_list[i] }}</a>：{{ long_novel_count_list[i] }}篇，{{ long_novel_wordcount }}字
                 </li>
+                {% assign long_novel_wordcount = 0 %}
             {% endif %}
         {% endfor %}
     {% endfor %}
