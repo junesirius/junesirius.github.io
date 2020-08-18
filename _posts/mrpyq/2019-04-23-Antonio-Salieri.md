@@ -4,7 +4,7 @@ title: 【莫萨】灵魂
 date: 2019-04-23 05:28
 categories: ["音乐剧"]
 characters: ["Antonio Salieri", "Wolfgang Amadeus Mozart"]
-tags: ["法扎", "萨莫/莫萨"]
+tags: ["法扎", "莫萨"]
 pov: 第一人称
 origin: 名人朋友圈
 ---

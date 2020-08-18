@@ -4,7 +4,7 @@ title: 【莫萨】沃尔夫冈
 date: 2019-04-22 05:22
 categories: ["音乐剧"]
 characters: ["Antonio Salieri", "Wolfgang Amadeus Mozart"]
-tags: ["法扎", "萨莫/莫萨"]
+tags: ["法扎", "莫萨"]
 pov: 第一人称
 origin: 名人朋友圈
 ---
