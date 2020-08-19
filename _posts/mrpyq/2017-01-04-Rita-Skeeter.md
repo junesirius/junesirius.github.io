@@ -3,7 +3,7 @@ layout: post
 title: 【预言家日报】采访格林德沃
 date: 2017-01-04 19:00
 categories: ["HP"]
-characters: ["Rita Skeeter", "Gellert Grindelward", "Albus Dumbledore"]
+characters: ["Rita Skeeter", "Gellert Grindelwald", "Albus Dumbledore"]
 tags: ["预言家日报", "GGAD"]
 pov: 第一人称
 origin: 名人朋友圈
