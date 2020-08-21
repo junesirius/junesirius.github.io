@@ -90,7 +90,7 @@ title: 统计
             {% endif %}
         {% endfor %}
     {% endfor %}
-    <span><b>人物总数：{{ character_num }}</b></span>
+    <span><b>人物个数：{{ character_num }}</b></span>
 </div>
 
 <div class="well article">
