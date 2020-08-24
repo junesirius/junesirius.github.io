@@ -187,7 +187,7 @@ title: 统计
             {% endif %}
         {% else %}
             {% assign month_count = month_count | plus: 1 %}
-            {{ month }} ({{ month_count }})
+            {{ pmonth }} ({{ month_count }})
             {% assign year_count = year_count | plus: month_count %}
             {% assign month_count = 0 %}
             <!-- Display year count -->
