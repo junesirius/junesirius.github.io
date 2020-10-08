@@ -1,12 +1,13 @@
 ---
 layout: post
-title: 【VO】维也纳往事（草稿）
+title: 【VO】维也纳往事（草稿大纲）
 date: 2020-10-06 21:12
 categories: ["中土", "RPS"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]
 tags: ["VO"]
 pov: 第三人称
 origin: Lofter
+published: false
 ---
 
 #### 《危险方法》里的
