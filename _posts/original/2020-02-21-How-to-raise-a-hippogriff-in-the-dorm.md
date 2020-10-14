@@ -5,7 +5,7 @@ date: 2020-02-21 03:58
 categories: ["HP"]
 characters: ["Hippogriff"]
 tags: ["英文"]
-pov: 第一人称
+pov: 第一人称视角
 origin: Dashew Center投稿
 ---
 
