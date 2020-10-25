@@ -2,9 +2,9 @@
 layout: post
 title: 【暮光×HP】霍格沃茨的吸血鬼（五）遇见卢平
 date: 2017-02-13 00:53
-categories: ["暮光之城", "HP"]
+categories: ["Crossover"]
 characters: ["Alice Cullen", "Remus Lupin"]
-tags: ["Crossover"]
+tags: ["Crossover", "暮光之城", "HP"]
 pov: 第一人称
 origin: 名人朋友圈
 long_novels: 【暮光×HP】霍格沃茨的吸血鬼

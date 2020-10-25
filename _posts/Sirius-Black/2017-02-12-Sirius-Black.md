@@ -2,9 +2,9 @@
 layout: post
 title: 【HP×神夏】哈德森太太
 date: 2017-02-12 06:04
-categories: ["HP"]
-characters: ["Sirius Black"]
-tags: ["亲世代", "Crossover"]
+categories: ["Crossover"]
+characters: ["Sirius Black", "Mrs. Hudson"]
+tags: ["Crossover", "HP", "神夏", "凤凰社"]
 pov: 第一人称
 origin: 名人朋友圈
 ---
