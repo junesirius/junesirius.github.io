@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【情感】王子与吟游诗人（待扩充）
+title: 【童话】王子与吟游诗人（待扩充）
 date: 2020-10-05 00:21
 categories: ["原创"]
 characters: 
-tags: ["情感"]
+tags: ["情感", "童话"]
 pov: 第三人称
 origin: github.io
 ---
