@@ -8,6 +8,7 @@ tags: ["VO"]
 pov: 第三人称
 origin: github.io
 long_novels: 【VO】最好的电影
+published: false
 ---
 
 设定：艺术家V x 刚毕业的大学生O 
