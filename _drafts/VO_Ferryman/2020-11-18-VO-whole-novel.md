@@ -1,3 +1,16 @@
+---
+layout: post
+title: 【VO】摆渡人（全文）
+date: 2020-11-18 01:10
+categories: ["中土", "RPS"]
+characters: ["Viggo Mortensen", "Orlando Bloom"]
+tags: ["VO"]
+pov: 第三人称
+origin: 《白城日报》21年合志
+long_novels: 【VO】摆渡人
+published: false
+---
+
 【VO】荒原之上（摆渡人AU）（题目未定）
 
 （预警：局部有较压抑的心理与行为描写，可能引起抑郁倾向或不适感。VO RPS，开局双死，结局HE！HE！HE！是真的糖！）
