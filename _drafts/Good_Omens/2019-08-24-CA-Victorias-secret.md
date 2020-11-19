@@ -13,6 +13,19 @@ origin: 名人朋友圈
 
 （没错我就是私心想看老蛇走模特步，想想那腰那腿，肯定超级妖艳美丽）
 
+（在后台争夺带大翅膀上台的机会
+
+（黑白的翅膀
+
+（最好的搭档、伙伴、恋人
+
+<br>
+![](/assets/images/mrpyq/2019-08-24-CA-Victorias-secret-1.jpg)
+
+<br>
+![](/assets/images/mrpyq/2019-08-24-CA-Victorias-secret-2.jpg)
+
+
 提问：维密秀是天堂的发明还是地狱的发明？
 
 老蛇的TODO list：诱惑更多的天使加入维密秀，纯天然翅膀才会更好看

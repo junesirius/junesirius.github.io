@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 【CA】（记梗）
-date: 2019-08-28 23:19
+title: 【CA】
+date: 2020-05-
 categories: 好兆头
 characters: ["Crowley", "Aziraphale"]
 tags: ["CA"]
@@ -9,6 +9,7 @@ pov: 第三人称
 origin: 名人朋友圈
 ---
 
-《天使往上，恶魔往下》
+（老蛇穿军装混上军舰做手脚
 
-《双城记》
+<br>
+![](/assets/images/mrpyq/2020-05-13-CA-Marine-admiral.jpg)

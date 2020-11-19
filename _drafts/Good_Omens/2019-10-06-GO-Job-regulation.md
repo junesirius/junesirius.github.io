@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【好兆头衍生】工作手则
+title: 【好兆头衍生】工作守则
 date: 2019-10-06 22:14
 categories: 好兆头
 characters: ["Crowley", "Aziraphale"]

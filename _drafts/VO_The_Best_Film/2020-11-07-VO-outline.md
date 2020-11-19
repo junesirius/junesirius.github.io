@@ -14,7 +14,7 @@ published: true
 设定：艺术家V x 刚毕业的大学生O 
 
 <br>
-![](/assets/images/lofter/2020-11-15-VO.jpg)
+![](/assets/images/lofter/2020-11-15-VO-The-best-film.jpg)
 
 （特点是剧本套剧本，主要用蒙太奇画面；软科幻背景的文艺片）
 

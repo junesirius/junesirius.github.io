@@ -3,8 +3,8 @@ layout: post
 title: 【CA】撒旦家的园丁和保姆
 date: 2019-09-22 15:40
 categories: 好兆头
-characters: ["Crowley", "Aziraphale"]
-tags: ["CA"]
+characters: ["Crowley", "Aziraphale", "Satan"]
+tags: ["CA", "SC"]
 pov: 第三人称
 origin: 名人朋友圈
 ---
@@ -15,4 +15,4 @@ origin: 名人朋友圈
 
 
 
-*微借鉴《德古拉》
+\*微借鉴《德古拉》
