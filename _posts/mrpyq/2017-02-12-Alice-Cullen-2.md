@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 【暮光×HP】霍格沃茨的吸血鬼（二）分院
+title: 【暮光+HP】霍格沃茨的吸血鬼（二）分院
 date: 2017-02-12 20:44
 categories: ["Crossover"]
 characters: ["Alice Cullen", "Albus Dumbledore"]
 tags: ["Crossover", "暮光之城", "HP"]
 pov: 第一人称
 origin: 名人朋友圈
-long_novels: 【暮光×HP】霍格沃茨的吸血鬼
+long_novels: 【暮光+HP】霍格沃茨的吸血鬼
 ---
 
 “哦天哪，邓布利多接纳了一个小吸血鬼！”我听到旁边的画像议论纷纷，“真不知道这一年学校又要出多少事了。”“是啊是啊，邓布利多一定是疯了。”“我觉得还是应该表示一下欢迎才好。”“免得她生气了吸了我们的血？哦不，我都忘了自己还有没有血了。”……

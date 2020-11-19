@@ -7,7 +7,7 @@ characters: ["Viggo Mortensen", "Orlando Bloom", "Aziraphale", "Crowley"]
 tags: ["VO", "Crossover", "CA", "RPS", "好兆头"]
 pov: 第三人称
 origin: Lofter
-long_novels: 【VO×CA】向上坠落
+long_novels: 【VO|CA】向上坠落
 published: false
 ---
 
