@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 【CA】
-date: 2020-05-
+title: 【CA】海军上将
+date: 2020-05-13 22:41
 categories: 好兆头
 characters: ["Crowley", "Aziraphale"]
 tags: ["CA"]
