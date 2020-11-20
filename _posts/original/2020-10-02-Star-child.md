@@ -4,7 +4,7 @@ title: 【童话】星星做成的孩子
 date: 2020-10-02 15:12
 categories: ["原创"]
 characters: 
-tags: ["情感", "童话"]
+tags: ["情感", "童话", "小说"]
 pov: 第一人称
 origin: Lofter、微信公众号
 ---

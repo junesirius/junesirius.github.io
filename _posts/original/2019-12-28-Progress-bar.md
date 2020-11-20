@@ -4,7 +4,7 @@ title: 【心理】进度条
 date: 2019-12-28 00:37
 categories: ["原创"]
 characters: 
-tags: ["心理"]
+tags: ["心理", "小说"]
 pov: 第一人称
 origin: 微信公众号
 ---

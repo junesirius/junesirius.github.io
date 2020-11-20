@@ -3,7 +3,7 @@ layout: post
 title: 【原创】The Alien says, Kill Those Without Self-Consciousness（英文）
 date: 2020-02-21 01:01
 categories: ["原创"]
-tags: ["哲学", "心理", "英文"]
+tags: ["哲学", "心理", "英文", "小说"]
 pov: 第三人称
 origin: Dashew Center投稿
 ---

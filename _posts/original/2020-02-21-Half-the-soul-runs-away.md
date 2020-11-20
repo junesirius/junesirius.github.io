@@ -4,7 +4,7 @@ title: 【原创】Half the Soul Runs Away（英文）
 date: 2020-02-21 01:48
 categories: ["原创"]
 characters: 
-tags: ["心理", "英文"]
+tags: ["心理", "英文", "小说"]
 pov: 第一人称
 origin: Dashew Center投稿
 ---

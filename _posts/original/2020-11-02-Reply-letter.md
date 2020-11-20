@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【记梗】给过去的自己写回信
+title: 【随记】给过去的自己写回信
 date: 2020-11-02 01:07
 categories: ["原创"]
 characters: 
-tags: ["随记", "记梗"]
+tags: ["随记", "灵感"]
 pov: 第一人称
 origin: Lofter
 ---
