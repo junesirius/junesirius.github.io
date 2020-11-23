@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 【暮光+HP】霍格沃茨的吸血鬼（五）遇见卢平
+title: 【暮光×HP】霍格沃茨的吸血鬼（五）遇见卢平
 date: 2017-02-13 00:53
 categories: ["Crossover"]
 characters: ["Alice Cullen", "Remus Lupin"]
 tags: ["Crossover", "暮光之城", "HP"]
 pov: 第一人称
 origin: 名人朋友圈
-long_novels: 【暮光+HP】霍格沃茨的吸血鬼
+long_novels: 【暮光×HP】霍格沃茨的吸血鬼
 ---
 
 同学们陆陆续续出去了，教室里很快安静下来，沉默包围了我，和站在我不远处的卢平教授，给我带来一种本能的警惕和战斗准备，潜意识里对狼人的敌意没有因为他作为老师的身份而有所减弱。

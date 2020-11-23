@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 【暮光+HP】霍格沃茨的吸血鬼（六）Cedric or Edward?（已坑）
+title: 【暮光×HP】霍格沃茨的吸血鬼（六）Cedric or Edward?（已坑）
 date: 2017-02-13 01:45
 categories: ["Crossover"]
 characters: ["Alice Cullen", "Edward Cullen", "Cedric Diggory", "Albus Dumbledore"]
 tags: ["Crossover", "暮光之城", "HP"]
 pov: 第一人称
 origin: 名人朋友圈
-long_novels: 【暮光+HP】霍格沃茨的吸血鬼
+long_novels: 【暮光×HP】霍格沃茨的吸血鬼
 ---
 
 （三强争霸赛）
