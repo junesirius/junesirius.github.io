@@ -4,7 +4,7 @@ title: 【亚梅】异乡的王子（大纲文）
 date: 2020-11-22 01:22
 categories: 梅林传奇
 characters: ["Merlin", "Arthur"]
-tags: ["亚梅"]
+tags: ["亚梅", "脑洞", "大纲文"]
 pov: 第三人称
 origin: Lofter
 ---

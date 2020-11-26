@@ -4,7 +4,7 @@ title: 【Brolin】狼人布×吸血鬼科（脑洞）
 date: 2020-11-01 17:34
 categories: 梅林传奇
 characters: ["Colin Morgan", "Bradley James"]
-tags: ["Brolin"]
+tags: ["Brolin", "脑洞"]
 pov: 第三人称
 origin: google doc
 ---
