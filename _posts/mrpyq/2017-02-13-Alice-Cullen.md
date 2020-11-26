@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【暮光×+HP】霍格沃茨的吸血鬼（四）黑魔法防御课
+title: 【暮光×HP】霍格沃茨的吸血鬼（四）黑魔法防御课
 date: 2017-02-13 00:22
 categories: ["Crossover"]
 characters: ["Alice Cullen", "Luna Lovegood", "Remus Lupin"]
