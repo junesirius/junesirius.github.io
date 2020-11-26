@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【加勒比】重逢
+title: 【加勒比海盗】重逢
 date: 2019-03-04 08:03
-categories: 加勒比海盗
+categories: ["其他"]
 characters: ["Jack Sparrow", "Angelica Teach"]
-tags: ""
+tags: ["加勒比海盗"]
 pov: 第一人称
 origin: 名人朋友圈
 ---

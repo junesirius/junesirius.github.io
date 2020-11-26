@@ -2,9 +2,9 @@
 layout: post
 title: 【暮光】黑夜无尽
 date: 2019-05-21 06:00
-categories: ["暮光之城"]
+categories: ["其他"]
 characters: ["Edward Cullen", "Isabella Swan"]
-tags: ["Lyrics"]
+tags: ["Lyrics", "暮光之城"]
 pov: 第一人称
 origin: 名人朋友圈
 ---

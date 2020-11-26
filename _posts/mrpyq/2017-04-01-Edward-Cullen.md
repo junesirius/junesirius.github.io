@@ -2,9 +2,9 @@
 layout: post
 title: 【暮光】愚人节
 date: 2017-04-01 02:04
-categories: ["暮光之城"]
+categories: ["其他"]
 characters: ["Edward Cullen", "Isabella Swan"]
-tags: ""
+tags: ["暮光之城"]
 pov: 第一人称
 origin: 名人朋友圈
 ---

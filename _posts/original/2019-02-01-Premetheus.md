@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 【衍生】普罗米修斯
+title: 【神话衍生】普罗米修斯
 date: 2019-02-01 20:52
-categories: ["希腊神话"]
+categories: ["其他"]
 characters: ["普罗米修斯", "宙斯"]
+tags: ["希腊神话"]
 pov: 第三人称
 origin: 微信公众号
 ---

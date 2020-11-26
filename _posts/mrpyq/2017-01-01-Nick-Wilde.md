@@ -2,9 +2,9 @@
 layout: post
 title: 【疯狂动物城】信
 date: 2017-01-01 09:01
-categories: ["疯狂动物城"]
+categories: ["其他"]
 characters: ["Nick Wilde", "Judy Hoppes"]
-tags: ["狐兔"]
+tags: ["狐兔", "疯狂动物城"]
 pov: 第一人称
 origin: 名人朋友圈
 ---
