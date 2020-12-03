@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【亚梅】天使亚瑟&恶魔梅林（大纲文）
+title: 【亚梅】天使亚瑟&amp;恶魔梅林（大纲文）
 date: 2020-11-22 01:52
 categories: 梅林传奇
 characters: ["Merlin", "Arthur"]
