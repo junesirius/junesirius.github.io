@@ -11,7 +11,9 @@ long_novels: 【VO】最好的电影
 published: true
 ---
 
-设定：艺术家V x 刚毕业的大学生O 
+设定：艺术家V x 刚毕业的大学生O
+
+（O的专业：天文物理，≈Queen的Brian May）
 
 <br>
 ![](/assets/images/lofter/2020-11-15-VO-The-best-film.jpg)
