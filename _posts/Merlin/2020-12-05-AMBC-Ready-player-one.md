@@ -4,7 +4,7 @@ title: 【亚梅科布】头号玩家+黑客帝国AU（大纲文）
 date: 2020-12-05 01:40
 categories: 梅林传奇
 characters: ["Merlin", "Arthur", "Colin Morgan", "Bradley James"]
-tags: ["亚梅", "Brolin", "科布", "布科", "脑洞", "大纲文"]
+tags: ["亚梅", "Brolin", "科布", "布科", "AMBC", "脑洞", "大纲文"]
 pov: 第三人称
 origin: Lofter
 ---
