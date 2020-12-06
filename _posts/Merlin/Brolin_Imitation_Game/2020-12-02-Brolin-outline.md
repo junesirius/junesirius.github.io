@@ -2,7 +2,7 @@
 layout: post
 title: 【Brolin】模仿游戏（大纲）
 date: 2020-12-02 01:50
-categories: 梅林传奇
+categories: ["梅林传奇", "RPS"]
 characters: ["Bradley James", "Colin Morgan"]
 tags: ["Brolin", "科布", "布科", "脑洞", "大纲文"]
 pov: 第三人称

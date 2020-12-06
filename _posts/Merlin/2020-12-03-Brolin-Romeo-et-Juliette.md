@@ -2,7 +2,7 @@
 layout: post
 title: 【Brolin】罗密欧和朱丽叶
 date: 2020-12-03 23:30
-categories: 梅林传奇
+categories: ["梅林传奇", "RPS"]
 characters: ["Bradley James", "Colin Morgan"]
 tags: ["Brolin", "科布", "布科", "法罗朱"]
 pov: 第三人称

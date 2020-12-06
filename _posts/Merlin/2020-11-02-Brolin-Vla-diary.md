@@ -2,7 +2,7 @@
 layout: post
 title: 【Brolin】Vla日记（脑洞）
 date: 2020-11-03 15:12
-categories: 梅林传奇
+categories: ["梅林传奇", "RPS"]
 characters: ["Colin Morgan", "Bradley James", "Alexander Vlahos"]
 tags: ["Brolin", "脑洞"]
 pov: 第三人称

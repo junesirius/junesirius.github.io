@@ -2,7 +2,7 @@
 layout: post
 title: 【Brolin】法罗朱Crossover（脑洞草稿）
 date: 2020-12-03 23:20
-categories: 梅林传奇
+categories: ["梅林传奇", "RPS"]
 characters: ["Bradley James", "Colin Morgan"]
 tags: ["Brolin", "科布", "布科", "法罗朱", "脑洞"]
 pov: 第三人称
