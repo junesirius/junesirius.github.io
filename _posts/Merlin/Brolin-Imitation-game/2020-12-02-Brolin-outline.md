@@ -1,12 +1,13 @@
 ---
 layout: post
-title: 【Brolin】模仿游戏AU（大纲）
+title: 【Brolin】模仿游戏（大纲）
 date: 2020-12-02 01:50
 categories: 梅林传奇
 characters: ["Bradley James", "Colin Morgan"]
 tags: ["Brolin", "科布", "布科", "脑洞", "大纲文"]
 pov: 第三人称
 origin: google doc
+long_novels: 【Brolin】模仿游戏
 ---
 
 天才数学家、密码学专家科 x 英国陆军指挥官布
