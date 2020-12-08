@@ -4,7 +4,7 @@ title: 【亚梅】时间宝石设定（脑洞）
 date: 2020-12-07 18:43
 categories: 梅林传奇
 characters: ["Merlin", "Arthur"]
-tags: ["亚梅"]
+tags: ["亚梅", "脑洞"]
 pov: 第三人称
 origin: Lofter
 ---
