@@ -4,7 +4,7 @@ title: 【童话】鹿和鱼（未完）
 date: 2020-10-02 00:21
 categories: ["原创"]
 characters: 
-tags: ["情感", "童话"]
+tags: ["情感", "童话", "小说"]
 pov: 第三人称
 origin: github.io
 ---

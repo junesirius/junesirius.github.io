@@ -3,7 +3,7 @@ layout: post
 title: 【随记】关于睡眠
 date: 2019-02-19 07:38
 categories: ["原创"]
-characters: ""
+characters: 
 tags: ["随记"]
 pov: 第一人称
 origin: 名人朋友圈

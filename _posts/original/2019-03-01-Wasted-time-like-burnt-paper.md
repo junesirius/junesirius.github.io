@@ -3,7 +3,7 @@ layout: post
 title: 【随记】荒废时间
 date: 2019-03-01 21:09
 categories: ["原创"]
-characters: ""
+characters: 
 tags: ["随记"]
 pov: 第一人称
 origin: github.io
