@@ -3,8 +3,8 @@ layout: post
 title: 【随记】星空和海
 date: 2020-05-18 01:40
 categories: ["原创"]
-characters: ""
-tags: ["随记"]
+characters: 
+tags: ["随记", "思维宫殿", "心理"]
 pov: 第一人称
 origin: 红豆日记
 ---

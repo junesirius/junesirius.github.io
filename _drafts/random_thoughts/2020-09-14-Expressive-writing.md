@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【随记】Expressive Writing（英文）
+title: 【心理】Expressive Writing（英文）
 date: 2020-09-14 12:57
 categories: ["原创"]
-characters: "" 
-tags: ["随记", "英文"]
+characters: 
+tags: ["随记", "英文", "心理"]
 pov: 第一人称
 origin: HCI user study
 ---

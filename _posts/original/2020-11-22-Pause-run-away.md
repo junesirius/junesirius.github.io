@@ -4,7 +4,7 @@ title: 【心理】Run away
 date: 2020-11-22 23:05
 categories: ["原创"]
 characters: 
-tags: ["心理"]
+tags: ["心理", "英文"]
 pov: 第一人称
 origin: Lofter
 ---

@@ -3,7 +3,7 @@ layout: post
 title: 【随记】支配时间的小人
 date: 2020-03-05 02:53
 categories: ["原创"]
-characters: ""
+characters: 
 tags: ["随记"]
 pov: 第一人称
 origin: 

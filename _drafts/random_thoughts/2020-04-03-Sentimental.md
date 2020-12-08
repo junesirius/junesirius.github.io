@@ -3,7 +3,7 @@ layout: post
 title: 【随记】音乐
 date: 2020-04-03 01:50
 categories: ["原创"]
-characters: ""
+characters: 
 tags: ["随记"]
 pov: 第一人称
 origin: 

@@ -4,7 +4,7 @@ title: 【心理】批判者、安慰者、反抗者和没有名字的人
 date: 2020-02-18 01:56
 categories: 原创
 characters: 
-tags: ["心理"]
+tags: ["心理", "思维宫殿"]
 pov: 第一人称
 origin: github.io
 ---

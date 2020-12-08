@@ -3,7 +3,7 @@ layout: post
 title: 【练笔】以“我想起了”开头
 date: 2020-09-13 01:55
 categories: ["原创"]
-tags: ["练笔", "回忆"]
+tags: ["练笔", "回忆", "随记"]
 pov: 第一人称
 origin: Lofter
 ---
