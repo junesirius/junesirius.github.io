@@ -27,4 +27,4 @@ social relationship mode: off
 
 happy/sad mode: default (auto)
 
-shut-down mode: on (until manual turn off)
+shut-down mode: on (until manually end)
