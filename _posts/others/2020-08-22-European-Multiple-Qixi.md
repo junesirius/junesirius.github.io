@@ -4,7 +4,7 @@ title: 【欧美群像】七夕危机
 date: 2020-08-22 18:08
 categories: ["欧美群像"]
 characters: ["Gellert Grindelwald", "Albus Dumbledore", "Erik Lehnsherr", "Charles Xavier", "Sherlock Holmes", "John Watson", "Thor", "Loki", "Crowley", "Aziraphale", "Arthur", "Merlin", "Aragorn", "Legolas"]
-tags: ["GGAD", "EC", "福华", "锤基", "CA", "亚梅", "AL"]
+tags: ["GGAD", "EC", "福华", "锤基", "CA", "亚梅", "AL", "HP", "X战警", "神夏", "漫威", "好兆头", "梅林传奇"]
 pov: 第三人称
 origin: Lofter
 ---

@@ -4,7 +4,7 @@ title: 【欧美乱炖】比剑
 date: 2020-08-19 11:16
 categories: ["欧美群像"]
 characters: ["Aragorn", "Legolas", "Arthur", "Merlin", "Godric Gryffindor", "Salazar Slytherin", "Aziraphale", "Crowley"]
-tags: ["AL", "亚梅", "四巨头", "CA"]
+tags: ["AL", "亚梅", "四巨头", "CA", "中土", "梅林传奇", "HP", "好兆头"]
 pov: 第三人称
 origin: Lofter
 ---
