@@ -4,7 +4,7 @@ title: 【综欧美】两个世界（脑洞）
 date: 2020-10-27 15:32
 categories: ["欧美群像"]
 characters: ["Merlin", "Arthur", "Colin Morgan", "Bradley James", "Aragorn", "Legolas", "Viggo Mortensen", "Orlando Bloom", "Hannibal Lector", "Will Graham", "Mads Mikkelsen", "Hugh Dancy"]
-tags: ["亚梅", "Brolin", "AMBC", "AL", "VO", "ALVO", "拔杯", "麦休", "脑洞", "中土", "梅林传奇", "汉尼拔"]
+tags: ["亚梅", "Brolin", "AMBC", "AL", "VO", "ALVO", "拔杯", "麦休", "脑洞", "中土", "梅林传奇", "汉尼拔", "RPS"]
 pov: 第三人称
 origin: Lofter
 ---
