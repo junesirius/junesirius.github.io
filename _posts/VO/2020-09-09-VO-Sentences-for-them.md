@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 【VO】适合他们的句子（记梗）
+title: 【VO】适合他们的句子（摘录）
 date: 2020-09-09 20:35
 categories: ["中土", "RPS"]
-characters: ["Viggo Mortensen", "Orlando Bloom"]
+characters: ["Viggo Mortensen", "Orlando Bloom", "摘录"]
 tags: ["VO"]
 pov: 第三人称
-origin: 名人朋友圈
+origin: Lofter
 ---
 
 1. 若多年之后我们重逢，我将如何致意，以沉默，以泪水。（拜伦《春逝》）
