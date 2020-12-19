@@ -2278,7 +2278,7 @@ Orlando不需要问完那个问题了。
 
 
 
-最后：
+最后，再附一首V诗：
 
 There they go, over the lesser blue.
 
