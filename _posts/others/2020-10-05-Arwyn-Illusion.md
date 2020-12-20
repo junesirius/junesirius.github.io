@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 【Arwyn】泪
+title: 【Arwyn】幻觉
 date: 2020-10-05
 categories: ["中土"]
 characters: ["Arwen", "Eowyn"]
 tags: ["情感", "心理", "Arwyn"]
 pov: 第三人称
-origin: github.io
+origin: Lofter
 ---
 
 王女参加暮星和国王的婚礼
