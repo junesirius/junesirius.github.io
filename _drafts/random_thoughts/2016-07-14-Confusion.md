@@ -49,7 +49,7 @@ I tend to do what I'm supposed to do, rather than what I'd like to do, which mak
 
 It reminds me of a sentence from one of my friends last year before graduation: 
 
-'You are being cage, 
+'You are being caged, 
 
 for your feathers are too bright.'
 
