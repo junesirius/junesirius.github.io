@@ -4,7 +4,7 @@ title: 【随记】文字榨汁机
 date: 2020-12-24 23:31
 categories: ["原创"]
 characters: 
-tags: ["随记", "想象", "灵感", "脑洞"]
+tags: ["随记", "想象", "灵感"]
 pov: 第一人称
 origin: github.io
 ---
