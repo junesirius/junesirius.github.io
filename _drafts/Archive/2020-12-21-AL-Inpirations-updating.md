@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【AL】记梗
-date: 2020-12-20
+date: 2020-12-21
 categories: 中土
 characters: ["Aragorn", "Legolas"]
 tags: ["AL", "记梗"]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【Brolin】记梗
-date: 2020-12-20
+date: 2020-12-22
 categories: ["梅林传奇", "RPS"]
 characters: ["Bradley James", "Colin Morgan"]
 tags: ["Brolin", "科布", "布科", "记梗"]
