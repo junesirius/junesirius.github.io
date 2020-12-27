@@ -9,7 +9,7 @@ pov: 第三人称
 origin: 名人朋友圈
 ---
 
-（时空的循环就跟老蛇一样
+（时空的循环就跟蛇一样首尾相连
 
 <br>
 ![](/assets/images/mrpyq/2020-04-04-Scale-circle.jpg)

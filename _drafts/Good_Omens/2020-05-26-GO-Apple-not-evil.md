@@ -13,5 +13,7 @@ origin: 名人朋友圈
 
 （人类用苹果来汲取营养，用炎剑来互相残杀
 
+（有种“塞翁失马焉知非福”的感觉）
+
 <br>
 ![](/assets/images/mrpyq/2020-05-26-GO-Apple-not-evil.jpg)

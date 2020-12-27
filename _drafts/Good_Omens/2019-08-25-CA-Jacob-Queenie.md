@@ -4,7 +4,7 @@ title: 【CA】神奇动物Crossover
 date: 2019-08-25 11:01
 categories: ["Crossover"]
 characters: ["Crowley", "Aziraphale", "Jacob Kowalski", "Gueenie Goldstain"]
-tags: ["CA", "Crossover", "神奇动物在哪里", "好兆头"]
+tags: ["CA", "Crossover", "神奇动物在哪里", "好兆头", "面包组"]
 pov: 第三人称
 origin: 名人朋友圈
 ---
