@@ -4,7 +4,7 @@ title: 【亚梅】房间里的大象（小甜饼）
 date: 2020-12-24 22:32
 categories: 梅林传奇
 characters: ["Merlin", "Arthur"]
-tags: ["亚梅"]
+tags: ["亚梅", "小甜饼"]
 pov: 第三人称
 origin: Lofter
 ---
