@@ -6,7 +6,7 @@ categories: ["中土", "RPS"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]
 tags: ["VO", "大纲文"]
 pov: 第三人称
-origin: github.io
+origin: Lofter
 ---
 
 （特点是剧本套剧本；软科幻背景的文艺片）
