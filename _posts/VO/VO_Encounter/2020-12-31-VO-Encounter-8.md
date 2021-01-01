@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【VO】邂逅（八）
-date: 2020-12-29 01:04
+date: 2020-12-31 22:31
 categories: ["中土", "RPS"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]
 tags: ["VO"]
