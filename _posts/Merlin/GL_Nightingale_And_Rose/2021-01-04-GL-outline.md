@@ -3,8 +3,8 @@ layout: post
 title: 【高兰】夜莺与玫瑰（大纲）
 date: 2021-01-04 01:13
 categories: 梅林传奇
-characters: ["Gwaine", "Lancelot"]
-tags: ["高兰", "大纲文"]
+characters: ["Gwaine", "Lancelot", "Arthur", "Merlin", "Freya", "Vivian", "Guinevere", "Percival", "Leon"]
+tags: ["高兰", "亚梅", "大纲文"]
 pov: 第三人称
 origin: Lofter
 long_novels: 【高兰】夜莺与玫瑰

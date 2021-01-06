@@ -3,8 +3,8 @@ layout: post
 title: 【高兰】夜莺与玫瑰（目录）
 date: 2021-01-05 21:37
 categories: 梅林传奇
-characters: ["Gwaine", "Lancelot"]
-tags: ["高兰"]
+characters: ["Gwaine", "Lancelot", "Arthur", "Merlin"]
+tags: ["高兰", "亚梅"]
 pov: 第三人称
 origin: Lofter
 long_novels: 【高兰】夜莺与玫瑰
