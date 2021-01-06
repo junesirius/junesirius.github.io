@@ -3,8 +3,8 @@ layout: post
 title: 【VO】适合他们的句子（摘录）
 date: 2020-09-09 20:35
 categories: ["中土", "RPS"]
-characters: ["Viggo Mortensen", "Orlando Bloom", "摘录"]
-tags: ["VO"]
+characters: ["Viggo Mortensen", "Orlando Bloom"]
+tags: ["VO", "摘录"]
 pov: 第三人称
 origin: Lofter
 ---
