@@ -7,7 +7,6 @@ characters: ["Alice Cullen", "Luna Lovegood", "Remus Lupin"]
 tags: ["Crossover", "暮光之城", "HP"]
 pov: 第一人称
 origin: 名人朋友圈
-long_novels: 【暮光×HP】霍格沃茨的吸血鬼
 ---
 
 翻了翻课表，拉文克劳今天下午有第一节黑魔法防御课，室内上。好极了，不用请假，心中充满了期待。

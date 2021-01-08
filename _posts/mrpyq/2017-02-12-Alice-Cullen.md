@@ -7,7 +7,6 @@ characters: ["Alice Cullen", "Albus Dumbledore"]
 tags: ["Crossover", "暮光之城", "HP"]
 pov: 第一人称
 origin: 名人朋友圈
-long_novels: 【暮光×HP】霍格沃茨的吸血鬼
 ---
 
 局促不安地坐在校长办公室，眼前银白胡子的老人正在阅读一封长长的信，边看边提问。
