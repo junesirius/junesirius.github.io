@@ -6,7 +6,7 @@ categories: ["原创"]
 characters: 
 tags: ["心理", "情感", "想象"]
 pov: 第一人称
-origin: github.io
+origin: Lofter
 ---
 
 我在月光下看见一个少女的背影。
