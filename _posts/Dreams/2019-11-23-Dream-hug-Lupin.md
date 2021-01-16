@@ -3,7 +3,7 @@ layout: post
 title: 【梦记】拥抱卢平
 date: 2019-11-23
 categories: ["梦记"]
-characters: ["Remus Lupin"]
+characters: ["Remus Lupin", "John Watson"]
 tags: ["梦记", "HP"]
 pov: 第一人称视角
 origin: Lofter
