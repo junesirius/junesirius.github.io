@@ -217,3 +217,15 @@ HP世界观的双面镜发明者也是梅林
 （梗来自莱昂和帕壮的[采访视频](https://www.youtube.com/watch?v=4Zm4rQhyzXk&feature=youtu.be)）
 
 “Leon would be a prefect, a A+ student at Camelot school” “he follows the book”
+
+（微仿HP）
+
+### 47. 中学/大学校园AU
+
+（原梗在科布地方）
+
+校队队长亚瑟，校园杂志摄影师梅林
+
+### 48. 【主高兰】传说向（相爱相杀）
+
+亚瑟判格温火刑，高担心会正面打兰而特意避开，兰劫法场误杀高的兄弟，高气愤要为兄弟复仇。高和兰决斗，高受了致命伤，临死前请求兰帮亚瑟打莫，兰同意了。高死于兰之手。
