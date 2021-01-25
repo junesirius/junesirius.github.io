@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【VO】记梗
+title: 【VO】记梗（持续更新）
 date: 2020-12-21
 categories: ["中土", "RPS"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]

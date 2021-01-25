@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【亚梅】记梗
+title: 【亚梅】记梗（持续更新）
 date: 2020-12-22
 categories: 梅林传奇
 characters: ["Arthur", "Merlin"]

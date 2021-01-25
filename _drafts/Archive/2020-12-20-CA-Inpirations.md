@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【CA】记梗
+title: 【CA】记梗（持续更新）
 date: 2020-12-20
 categories: 好兆头
 characters: ["Aziraphale", "Crowley"]
