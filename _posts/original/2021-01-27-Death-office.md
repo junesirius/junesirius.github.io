@@ -255,6 +255,6 @@ origin: Lofter、微信公众号
 
 注：
 
-[1] 死神形象参考法语音乐剧《伊丽莎白》中的死神（Máté Kamarás版）。
+[1] 死神形象参考法语音乐剧《伊丽莎白》中的死神（Mate Kamaras版）。
 
 [2] 最后一段告别时的话引自《神秘博士》2014圣诞特辑《Last Christmas》中Danny对Clara的一段话。
