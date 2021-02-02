@@ -558,3 +558,48 @@ V：嗯，我也一样，强尼……
 
 我不需要这个世界，我需要你。——强尼
 
+### 33. 环太平洋AU
+
+V和强尼的神经一起接入装甲，用一副身体两套意识一起操控，打遍天下无敌手
+
+### 34. 好兆头AU
+
+天使V+恶魔强尼（=老蛇）
+
+天使V也跟Azi一样表面平平无奇，其实动作戏战斗力爆表
+
+强尼戴墨镜耍酷、渣等等，非常恶魔（“I probably shouldn't do it. Maybe I should, I'm a demon after all.”）
+
+V: “No, actually you are not, they made a mistake, and now you can go back to heaven”
+
+Johnny: “Why would I? Go back to be constraint? Thanks, I'm happy where I was.”
+
+V: “But you will die. The heaven will eventually win, and the hell will vanish. It's written in the Great Plan.”
+
+Johnny: “It's never gonna happen. There will always be a Hell, even when Heaven disappears, Hell will always be there. Can't you see? Chaos and evil is permanent, order and rules are not. We can never find freedom, but freedom is forever somewhere. Even if sometimes it's just the desire towards the freedom.”
+
+V: “That I can't argue.”
+
+### 35. 基努的（伪）水仙梗
+
+crossover：强尼、尼奥（黑客帝国）、约翰·威克（疾速追杀）
+
+世界观：黑客帝国+赛博朋克2077
+
+（双世界梗也有点像阿凡达）
+
+尼奥是男主/救世主，可以在赛博世界（设定跟黑客帝国的matrix母体世界一样）和现实世界之间切换。强尼的意识体住在他脑子里，在现实世界只能与尼奥对话，在赛博世界能像其他正常人一样行动，也是战斗力爆表的类型（在赛博世界里还能开开演唱会啥的）。强尼的意识体与尼奥的身体产生排斥反应，尼奥如果不能想出办法把强尼分出去他俩就都得死。
+
+约翰是现实世界的顶级杀手，为了复仇（尼奥以前for greater good的时候牺牲掉了约翰的妻子？）要杀死尼奥，尼奥发现自己在现实里很难是约翰的对手，就想办法把约翰拐到赛博世界，叫强尼跟他一起帮忙二对一打约翰。
+
+然后强尼反水了（毕竟是个混蛋，而且尼奥也没给他太多好处，如果尼奥的意识体在赛博世界死了他就能占用这具身体），在尼奥跟约翰打架的时候只是装装样子完全没出力（两边都没帮忙，看戏.jpg，事不关己高高挂起）。尼奥其实预判了约翰的反水，叫他一起打约翰其实也是一种试探，想看他到底对自己是什么态度。
+
+然后尼奥在赛博世界的战斗力比约翰强太多，快要把约翰弄死的时候强尼替约翰挡了一枪（俩都重伤没死），然后尼奥就出赛博世界了。强尼看准机会从尼奥的脑子里出来进入了约翰的身体，然后帮他赛博化，重启救活了约翰。（尼奥以为把两个人都解决了就去搞事业线/爱情线了）
+
+然后大结局，强尼+约翰打尼奥，边打边聊自己的生存理念，然后发现其实几乎一致的，都是想把赛博世界和现实世界都搞好，于是就达成了统一协议，尼奥改革赛博世界，强尼+约翰改革现实世界。
+
+于是都进入新世纪。
+
+### 36. 神奇女侠1984AU
+
+许愿石，V许愿让强尼拥有身体/复活，于是强尼就通过其他人的身体回来了，代价是V在六个月后会死。
