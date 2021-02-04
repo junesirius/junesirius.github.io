@@ -572,6 +572,8 @@ V：嗯，我也一样，强尼……
 
 还记得你在垃圾场刚醒过来吗？他现在也一样——带着“世界我去你的”的心态重生了。——强尼
 
+（How's life in my body?）Well, most things're either too big or too small. Not to mention the clusterfuck that're your hormones. And the lag between sight and touch - infuriating. When you take a bite of pizza, takes ages before I know you fuckin' burned the roof of your mouth. Plus, used to be five minutes wouldn't pass 'fore I had a fresh cig in my hand, now I'm itchin' for nicotine. Gettin' used to it, I guess, but its' no fuckin' picnic.——V
+
 ### 33. 环太平洋AU
 
 V和强尼的神经一起接入装甲，用一副身体两套意识一起操控，打遍天下无敌手
