@@ -572,7 +572,7 @@ V：嗯，我也一样，强尼……
 
 还记得你在垃圾场刚醒过来吗？他现在也一样——带着“世界我去你的”的心态重生了。——强尼
 
-（How's life in my body?）Well, most things're either too big or too small. Not to mention the clusterfuck that're your hormones. And the lag between sight and touch - infuriating. When you take a bite of pizza, takes ages before I know you fuckin' burned the roof of your mouth. Plus, used to be five minutes wouldn't pass 'fore I had a fresh cig in my hand, now I'm itchin' for nicotine. Gettin' used to it, I guess, but its' no fuckin' picnic.——V
+（How's life in my body?）Well, most things're either too big or too small. Not to mention the clusterfuck that're your hormones. And the lag between sight and touch - infuriating. When you take a bite of pizza, takes ages before I know you fuckin' burned the roof of your mouth. Plus, used to be five minutes wouldn't pass 'fore I had a fresh cig in my hand, now I'm itchin' for nicotine. Gettin' used to it, I guess, but its' no fuckin' picnic.——强尼（延迟的感知，无法及时保护，会心疼，迟到的保护欲）
 
 ### 33. 环太平洋AU
 
