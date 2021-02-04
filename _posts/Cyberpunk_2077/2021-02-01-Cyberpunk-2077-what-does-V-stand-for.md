@@ -15,7 +15,7 @@ Where... am I...?
 
 Welcome back. What do you remember?
 
-It's like... a dream. I remember... a word, just one character, "V". I want to tatoo it on my skin so I wouldn't forget, but I still can't remember what it means. What does V stand for?
+It's like... a dream. I remember... a word, just one character, "V". I want to tattoo it on my skin so I wouldn't forget, but I still can't remember what it means. What does V stand for?
 
 What do you think?
 
@@ -147,7 +147,7 @@ laugh on top of the world.
 
 <br>
 
-We burn with vengeace,
+We burn with vengeance,
 
 body is vulnerable,
 
