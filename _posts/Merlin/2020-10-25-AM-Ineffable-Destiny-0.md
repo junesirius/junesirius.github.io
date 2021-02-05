@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 【亚梅】不可言喻的命运（预告）
+title: 【亚梅】不可言喻的命运（长篇预告）
 date: 2020-10-25 01:00
 categories: ["Crossover"]
 characters: ["Merlin", "Arthur", "Aziraphale", "Crowley"]
 tags: ["亚梅", "Crossover", "CA", "好兆头", "梅林传奇"]
 pov: 第三人称
 origin: Lofter
-long_novels: 【AM|CA】不可言喻的命运
 ---
 
 亚瑟和梅林不知道他们的圆桌骑士之一Aziraphale是个天使。
