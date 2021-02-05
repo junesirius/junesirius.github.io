@@ -200,6 +200,8 @@ V：我估计是好不了了吧。
 
 强尼（悄声）：告诉他你有个守护天使。
 
+（可用于宗教AU）
+
 ### 15. 恶魔结局（摘抄）
 
 你的未来就是他的未来，反之亦然。——米斯蒂
@@ -212,33 +214,31 @@ V：我估计是好不了了吧。
 
 今天，科学技术填补了宗教曾经许诺下的空白——新闻（→宗教AU/美国众神AU（？））
 
-### 16. 失忆梗（原作延伸）
-
-（来自恶魔结局）
+### 16. 失忆梗（恶魔结局 延伸）
 
 “你会永远失去一部分记忆，其他的会慢慢恢复”
 
-（微仿初代虫绿，高甜的失忆绿）
+#### （1）（微仿初代虫绿，高甜的失忆V）
 
-（1）
+（可以继续保留六个月生命的设定）
 
-V忘记了关于强尼的部分，然后在路上重新遇见了强尼→“重新开始，重新爱上你”的戏码，直到有一天想起了与强尼之间的羁绊（多半是在强尼遇到危险的时候，然后想起了从前强尼救过她，然后记起了曾经强尼在她意识中的生活）→HE
+V忘记了关于强尼的部分（但是经常梦到？），然后在路上重新遇见了强尼（重生梗？）→“重新开始，重新爱上你”的戏码，直到有一天想起了与强尼之间的羁绊（多半是在强尼遇到危险的时候，然后想起了从前强尼救过她，然后记起了曾经强尼在她意识中的生活）→HE
 
-（2）（写得不好）
+（重新想起强尼的时候V的六个月生命也快到尽头了：）“Johnny, I missed you. I remember you now.”
 
-（微仿剧作课同学的脑洞）
+“Thanks for being here, on my last journey”
+
+强尼：“You are gonna die. Not now. Not in front of me”
+
+（“Happy ending doesn't have to be happy ever after”）
+
+#### （2）（微仿剧作课同学的脑洞）（写得不好）
 
 V在手术醒来后忘记了强尼，但是仍然经常会梦到，但是梦中的人模样模糊不清，只是经常表现出对她的关心，很担心她，希望她作为自己好好活。V非常努力想要想起这是谁，在梦里开始看到更多细节，但是无论如何都看不清脸，只看见银手。她去搜集关于银手的信息查到了50年前强尼的那些新闻，但是觉得无论如何都不可能是强尼出现在她的记忆里（周围的朋友都要么被处理了要么统一地不在她面前提起）→然后某一天在听到荒坂的人在侮辱强尼时下意识地替强尼辩护，然后才意识到自己梦中的人真的就是强尼，而且那些不是梦而是强尼的记忆，然后才想起之前的这段羁绊，意识到自己在手术之后其实也一直在按照强尼的理念生活，然后知道了自己才是那个真正完全杀死强尼的人，后悔了自己曾经的选择，因为她发现自己其实是认同强尼的，而且经过了这么久（调查+梦中回溯记忆）的羁绊已经爱上了他。所以是V杀死了自己的爱人，然后按他的方式继续生活下去。
 
-（3）
+（杀死吾爱梗）
 
-（仍然是失忆+梦境梗）
-
-V经常梦到强尼和他的过去，然后某天在街上重新遇到了强尼（重生梗？），（后面没想好）
-
-### 17. 词语联想测试梗（原作衍生）
-
-（来自恶魔结局）
+### 17. 词语联想测试梗（恶魔结局 延伸）
 
 “根据关键词做出应答，说出最先想到的词”
 
@@ -276,7 +276,7 @@ It's ok to die, but before that, love the life, don't be afraid of it.
 
 “杰克热爱生活，浑身是胆。他心胸坦荡，从来不会瞻前顾后，一向说干就干。”——V
 
-### 19. “V”代表什么
+### ~~19. “V”代表什么（已写完）~~
 
 （暂无梗）
 
@@ -339,18 +339,6 @@ It's ok to die, but before that, love the life, don't be afraid of it.
 跟强尼一起solo打荒坂，连入神舆；身体跟V的意识体不兼容，支线可选，如果身体让给强尼则回到节制结局，如果V回到身体里则回到太阳结局（区别在于没人死），成为来生的Queen；进入太空准备干翻水晶宫。（跟强尼高甜！）
 
 （留言里的牌面同太阳结局）
-
-### 21. 恶魔结局后续
-
-怎么度过那六个月生命的
-
-“Happy ending doesn't have to be happy ever after”
-
-（重新想起强尼的时候自己的六个月生命也到尽头了：）“Johnny, I missed you. I remember you now.”
-
-“Thanks for being here, on my last journey”
-
-强尼：“You are gonna die. Not now. Not in front of me”
 
 ### 22. 土拨鼠日AU
 
@@ -422,17 +410,29 @@ Good luck, V, be free.——米丝蒂
 
 “你刚刚去看的人。他死了很久了？”“是她。也没有很久。”“你想她吗？”“是啊，有一点儿。”
 
-### 26. 节制结局后续+精分梗
+### 26. 节制结局后续+精分/幻觉梗
 
 强尼习惯性地还会跟V说话（尤其在对着镜子的时候），好像V仍然活着一样。（其实是精分了）
 
 然后有一天V/V的意识体真的又回来/短暂回来了，强尼完全没有表现出惊讶，V才知道强尼的幻觉中她其实一直没有离开过（而且明确不是生物芯片的影响）
 
-### 27. 节制结局罗格短信后续
+### 27. 节制结局 强尼与V旧友的关系（摘抄）
 
 （强尼放弃吉他和音乐，放弃一切离开夜之城之后）
 
-罗格：Got your message. Johnny, look, I've been around long enough to know anything is possible in your fucked-up world, but I never imagined this, even from you. You must made a pretty big impression on V for getting her onboard, so hands off. I was just wondering how you feel about that Johnny -- another person give their life for you. Especially when you spent all night in cheap tequila, laughing at how stupid she was. Or has your conscience finally learned it's a lesson -- that is, if you even got one. Good luck out there, Johnny. And don't ever come back to Night City.
+（语音留言：）
+
+朱迪：Pick up, pick up, pick- Fuck! V.. I - I don't know where we went wrong... maybe something happened, or you needed to lay low... If you can... just give me s-some kinda signal that... that you're alive and everything's OK... please... And if you ever need help, you know I'm here for you, right? Always. Stay safe... and call me when you hear this.
+
+帕南：Really? You're just gonna avoid me? Of course you would, you fucking coward. Here's a bit of advice for you, Johnny. Enjoy your new lease on life. 'Cause it's not gonna last long. I'm serious. Believe me when I say I'm going to find you, you fucking psychopath - wherever you're hiding. And when I do, I'm gonna rip V out of your head. Don't ask me how, but so far I'm counting on sheer will. You know what you are, Johnny? A parasite. A fucking tapeworm! You hear me?! Enjoy the little time you have left. Ptoo!
+
+克里：Hey, V, it's me again. Still not pickin' up, huh? Can't stand uncomfortable convos? Hmph... coward. You know, I've been through my fair share of shitty breakups. Guy once dumped me by text, cause another balls deep in some other piece of ass... But what YOU went and pulled... vanishing into thin air, not answerin' calls, no letters, pretendin' nothin' happened between us... just - wow. You've really set the bar low. So congrats. You really are one-of-a-kind after all. 
+
+瑞弗：V, hey. So I've been to every precinct in the city, every hospital, emergency room, every single ripperdoc... nobody knows what happened to you. It's like you're a ghost. If that job went sour then I guess... I guess that's it, then. But if everythin' went like it was supposed to, V... if you're alive... just call me, please. You owe me that much. Anyway, uh... Bye, I guess.
+
+维克多：Hey, V. I know you're a free bird and all, you're gonna do what you want, when you want... But you could at least let me know you're alive, you know? I - I don't wanna say anything, but you missed your last checkup, and like I told you a million times... Ugh... Just call when you can, OK? See ya.
+
+罗格：Got your message. Johnny, look - I've been around long enough to know anything is possible in your fucked up world... but I never imagined this, even from you. You must've made a pretty big impression on V for getting her on board with this, so hats off. I'm just wondering how you feel about that, Johnny - havin' another person give their life for you. Specially when you're probably just back to all-nighters and cheap tequila, laughing at how stupid she was? Or has your conscience finally learned its lesson - that is, if you've even got one... Good luck out there, Johnny. And don't ever come back to Night City.
 
 你的信息我收到了。强尼，听着，我早就知道，在你那个变态的世界里，一切都有可能……但我真没想到有人能做出这种事，哪怕是你。V一定是对你死心塌地，这才会同意。真是够了不起的啊。我就想知道你内心是什么感觉，强尼——让又一个人为了你失去生命。尤其是在你通宵鬼混，喝着便宜的龙舌兰的时候，说不定还会笑她脑子不好使是不是？或者你终于能够良心发现——如果你还有良心的话……祝你好运，强尼。再也别回夜之城了。
 
@@ -528,7 +528,7 @@ V：你看，这里真的很美。
 
 V：嗯，我也一样，强尼……
 
-### 31. 强尼曾经也天真过
+### 31. 强尼也曾天真过
 
 在变成现在这副愤世嫉俗模样之前，强尼最初也是天真过的
 
@@ -537,6 +537,10 @@ V：嗯，我也一样，强尼……
 （逆转时间回到最初那个“让强尼变成强尼”的时间点，然后发现之后的事情会被更加fuck up，于是知道了从宇宙角度强尼现在的模样才是唯一最好的模样）
 
 （微仿终结者？）
+
+（答案：战争，详见cyberpunk 2077 wiki）
+
+（可以接梗41？）
 
 ### 32. 其他支线（摘抄）
 
@@ -598,11 +602,13 @@ V: “That I can't argue.”
 
 ### 35. 基努的（伪）水仙梗
 
-crossover：强尼、尼奥（黑客帝国）、约翰·威克（疾速追杀）
+crossover：强尼、尼奥（黑客帝国）、约翰·威克（疾速追杀）、康斯坦丁（地狱神探）
 
 世界观：黑客帝国+赛博朋克2077
 
 （双世界梗也有点像阿凡达）
+
+#### （1）
 
 尼奥是男主/救世主，可以在赛博世界（设定跟黑客帝国的matrix母体世界一样）和现实世界之间切换。强尼的意识体住在他脑子里，在现实世界只能与尼奥对话，在赛博世界能像其他正常人一样行动，也是战斗力爆表的类型（在赛博世界里还能开开演唱会啥的）。强尼的意识体与尼奥的身体产生排斥反应，尼奥如果不能想出办法把强尼分出去他俩就都得死。
 
@@ -616,6 +622,10 @@ crossover：强尼、尼奥（黑客帝国）、约翰·威克（疾速追杀）
 
 于是都进入新世纪。
 
+#### （2）
+
+###### （TODO）
+
 ### 36. 神奇女侠1984AU
 
 许愿石，V许愿让强尼拥有身体/复活，于是强尼就通过其他人的身体回来了，代价是V在六个月后会死。
@@ -623,3 +633,34 @@ crossover：强尼、尼奥（黑客帝国）、约翰·威克（疾速追杀）
 ### 37. 强尼不喜欢看恐怖片
 
 会害怕（反差萌x）
+
+### 38. 战地故事+前世今生梗
+
+###### （TODO）
+
+### 39. 男女V是姐弟（狗血故事）
+
+姐姐Valerie/弟弟Vincent
+
+###### （TODO）
+
+### 40. 《Two Step from Hell》
+
+章节标题候选：
+
+（Album name:）Invincible, Illusions, Demon's Dance, SkyWorld, Miracles, Legacy, Vanquish, Unleashed, Impossible, Dragon, Humanity, Shadows and Nightmares, Dynasty, Nemesis, Legend, Ashes, Power of Darkness, Illumina, Burn, Amaria, Empire, Catch Me, Daybreak
+
+（Single name:）Heart of Courage, Protectors of the Earth, Winterspell, Victory, Blackhear, El Dorado, Strength of a Thousand Men, Northern Pastures, After the Fall, Love & Loss, Birth of a Hero, Never Back Down, Secret Melody, Unleashed, Flight of the Silverbird, Freedom Fighters, For the Win, Breathe, Black Blade, Invincible, Pegasus, Archangel, Riders, Compass, Into Darkness, You Are Light, In Orbit
+
+### 41. 盗梦梗
+
+V在天台决定要怎么做出最后选择的时候，选择了叫朱迪帮忙。强尼表示不能理解为什么一个超梦剪辑师能帮他们打败荒坂，然后V到了朱迪地方，朱迪没有帮她戴上一个超梦装置而是帮她取下了一个，于是V就在现实里醒来了，原来之前的一切都是超梦的一部分，没人死，现实还是2008年，马上就是强尼和武侍乐队的演出（后续可自由发展x
+
+（可以接梗31？）
+
+### 42. 双活之后的同居小日常
+
+某天V突然流鼻血，强尼直接relic malfunction PTSD手忙脚乱以为V的身体又出问题了
+
+V：淡定，强尼，真的只是流鼻血而已
+
