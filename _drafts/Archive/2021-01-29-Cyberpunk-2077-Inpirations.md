@@ -276,10 +276,6 @@ It's ok to die, but before that, love the life, don't be afraid of it.
 
 “杰克热爱生活，浑身是胆。他心胸坦荡，从来不会瞻前顾后，一向说干就干。”——V
 
-### ~~19. “V”代表什么（已写完）~~
-
-（暂无梗）
-
 ### 20. 各结局汇总整理
 
 **通用牌面：**
