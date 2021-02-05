@@ -206,7 +206,13 @@ V：我估计是好不了了吧。
 
 你的未来就是他的未来，反之亦然。——米斯蒂
 
+Same drive (to live) that kept Silverhand goin' his whole life. That drive and two thoughts - never look back, never look to those around you. Just keep movin', look ahead, stare Death straight in the eye.（V: You're not the only rebel around here.）And I'm not the only one to have missed the bigger picture. We're a tangled web, you and me - one and the same. So if you're here to tell me somethin', it's 'cause you need to hear it yourself.——强尼
+
 我们犹如一张交织的网，早已合二为一。——强尼
+
+They're cuttin' a piece of us out, and that'll leave a hole. Forever.——强尼
+
+（V: What choice did I have?）Stay true to yourself? Give a thought to a tiny concept called loyalty? It's not about Arasake. Not even about life and death. （V: Then what's it all about, Johnny? Enlighten me.）The principle, V. It's always about the principle. Swap meat for chrome, live a BD fantasy, whatever - but at the end of it all, it's the code you live by that defines who you are. Ever get lost, it shows you the way home. Bust up into pieces, it puts you back together again.（V: That Rockerboy Silverhand's credo, words he lived by?）Somethin' Johnny picked up from V - the old V.——强尼
 
 一个灵魂如何选择自己的人生，这是一幅值得期许的景象。时而可怜，时而可笑，也有美妙而新奇的时刻。在大多数情况下，灵魂都是根据前世的习惯做出的选择。——大脑测试时的阅读片段
 
@@ -538,7 +544,7 @@ V：嗯，我也一样，强尼……
 
 （可以接梗41？）
 
-### 32. 其他支线（摘抄）
+### 32. 其他摘抄
 
 人生因为孤独，而变得没有意义。——帕南
 
@@ -660,3 +666,32 @@ V在天台决定要怎么做出最后选择的时候，选择了叫朱迪帮忙�
 
 V：淡定，强尼，真的只是流鼻血而已
 
+### 43. 隐藏结局 改写【书签】
+
+V蹒跚到神舆前时突然改变主意决定不把强尼赶出去了，觉得现在这样也很好，强尼在旁边骂她发什么疯，试图争夺对身体的掌控然后把她的身体连到神舆上
+
+把奥特喊出来问如果不连会怎么样，奥特承认了本来打算一连上就用soulkiller把他们的意识体分开，然后扫描了身体告诉他们现在发现就算分开，V就算回去也活不过六个月，而强尼不想独自回去
+
+于是两个人达成共识啥也没干地又回去了（但是奥特把神舆炸了）
+
+然后类似接自杀结局，但是提前给自己举办了葬礼（微仿《相约星期二》）
+
+“Me and you, until the end.”
+
+“Thanks for being here, on my last journey”
+
+“I'm not afraid anymore. You taught me how to live, what is life. And most of all, what is love.”
+
+“Thank you, Johnny.”
+
+“I love you too, V.”
+
+A last kiss. Flatline on the hospital machine. All the friends around. Has properly said farewell to everyone.
+
+### 44. 他从来不止是一个摇滚小子，他是个军人
+
+He's never just a rockerboy, he's a soldier. From beginning to the end.
+
+But he runs away from the battlefield.
+
+It's just he didn't fight to the compo. He fights for what he believes, and stays loyal.
