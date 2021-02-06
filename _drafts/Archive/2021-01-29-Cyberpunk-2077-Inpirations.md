@@ -18,7 +18,7 @@ published: false
 
 强尼看着V的（灵魂的）睡颜在想什么
 
-### 2. 思维宫殿梗【长草稿】
+### 2. 思维宫殿梗【《失真》长草稿】
 
 （微仿拔杯/福莫的思维宫殿梗，梗源Lyra）
 
@@ -640,6 +640,12 @@ crossover：强尼、尼奥（黑客帝国）、约翰·威克（疾速追杀）
 
 ###### （TODO）
 
+强尼刚刚换上银手时候的暴躁崩溃适应期
+
+“I promise you it's just the same”
+
+“It's not the same! It's never gonna be the same! How can you not understand? Metal hit string and flesh hit string, the sound is never gonna be same”
+
 ### 39. 男女V是姐弟（狗血故事）
 
 姐姐Valerie/弟弟Vincent
@@ -695,3 +701,20 @@ He's never just a rockerboy, he's a soldier. From beginning to the end.
 But he runs away from the battlefield.
 
 It's just he didn't fight to the compo. He fights for what he believes, and stays loyal.
+
+### 45. 《魔鬼的委托》（杀死吾爱梗）
+
+（有一点点仿《夜雨与晨曦》）
+
+V接了个委托，对方把她引到一个酒店房间（强尼这个时候还是电子幽灵），里面是个类似博格特的东西，变成强尼的模样蛊惑V准备偷袭V，V必须杀死这个“强尼”才能活下来
+
+（可以跟康斯坦丁联动）
+
+### 46. 吸血鬼梗
+
+对方具有读心能力（比如阿罗/莱斯特？），能看见V头脑里的强尼，直接进入头脑跟他们俩同时对话
+
+委托的内容是击败吸血鬼，然后发现委托人是狼人，搞明白两边的打架原因之后决定反水跟吸血鬼合作，搞掉狼人窝点
+
+（可以藏Jonathan Harker彩蛋）
+
