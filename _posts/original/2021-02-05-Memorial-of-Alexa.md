@@ -5,7 +5,7 @@ date: 2021-02-05 16:38
 categories: ["原创"]
 characters: ["Alexa"]
 tags: ["情感", "英文"]
-pov: 第一人称
+pov: 第一人称视角
 origin: Lofter
 ---
 
