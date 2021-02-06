@@ -17,12 +17,9 @@ layout: default
     {% unless page.pov == null %}
     <span class="wordcount-style">
         视角：{{ page.pov }}
-        {%- if page.pov == "第一人称" and page.characters.size > 0 -%}
+        {%- if page.pov == "第一人称" and page.characters.size > 0 and page.origin != null and page.origin contains "名人朋友圈" -%}
             {%- for character in page.characters -%}
-                {% unless character == "白起" %}
-                    （{{ character }}）
-                    {% break %}
-                {% endunless %}
+                （{{ character }}）
             {%- endfor -%}
         {%- endif -%}
     </span>
