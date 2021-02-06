@@ -2,12 +2,12 @@
 layout: post
 title: 【VO】向上坠落（草稿大纲）
 date: 2020-07-19 21:27
-categories: ["Crossover"]
-characters: ["Viggo Mortensen", "Orlando Bloom", "Aziraphale", "Crowley"]
-tags: ["VO", "Crossover", "CA", "RPS", "好兆头"]
+categories: ["中土", "RPS"]
+characters: ["Viggo Mortensen", "Orlando Bloom"]
+tags: ["VO", "草稿"]
 pov: 第三人称
 origin: Lofter
-long_novels: 【VO|CA】向上坠落
+long_novels: 【VO】向上坠落
 published: false
 ---
 
