@@ -126,7 +126,17 @@ Same drive (to live) that kept Silverhand goin' his whole life. That drive and t
 
 They're cuttin' a piece of us out, and that'll leave a hole. Forever.——强尼
 
-（V: What choice did I have?）Stay true to yourself? Give a thought to a tiny concept called loyalty? It's not about Arasake. Not even about life and death. （V: Then what's it all about, Johnny? Enlighten me.）The principle, V. It's always about the principle. Swap meat for chrome, live a BD fantasy, whatever - but at the end of it all, it's the code you live by that defines who you are. Ever get lost, it shows you the way home. Bust up into pieces, it puts you back together again.（V: That Rockerboy Silverhand's credo, words he lived by?）Somethin' Johnny picked up from V - the old V.——强尼
+V：What choice did I have?
+
+强尼：Stay true to yourself? Give a thought to a tiny concept called loyalty? It's not about Arasake. Not even about life and death. 
+
+V：Then what's it all about, Johnny? Enlighten me.
+
+强尼：The principle, V. It's always about the principle. Swap meat for chrome, live a BD fantasy, whatever - but at the end of it all, it's the code you live by that defines who you are. Ever get lost, it shows you the way home. Bust up into pieces, it puts you back together again.
+
+V：That Rockerboy Silverhand's credo, words he lived by?
+
+强尼：Somethin' Johnny picked up from V - the old V.
 
 一个灵魂如何选择自己的人生，这是一幅值得期许的景象。时而可怜，时而可笑，也有美妙而新奇的时刻。在大多数情况下，灵魂都是根据前世的习惯做出的选择。——大脑测试时的阅读片段
 
@@ -282,11 +292,11 @@ Good luck, V, be free.——米丝蒂
 
 （把子弹挂坠送回到墓地：）你知道，不能再这样下去了。沉湎于过去不好，人不能总活在回忆里。反正我想忘也忘不掉你了，一照镜子就都是你的脸。我不知道还有谁有胆量，做出这样的决定……不知道还有谁。谢谢你……嗯，所做的一切。我想明白了很多事，不会再走错了。所以这是再见。——强尼
 
-（珍惜V的身体：戒烟）我已经戒了。对身体不好。对灵魂更不好。——强尼
+（珍惜V的身体：戒烟）我已经戒了。对身体不好。对灵魂更不好。——强尼（→《小王子》“水对灵魂也是有好处的”“It's good to have a friend, even when you're going to die.”）
 
 “你刚刚去看的人。他死了很久了？”“是她。也没有很久。”“你想她吗？”“是啊，有一点儿。”
 
-### 27. 节制结局 强尼与V旧友的关系（摘抄）
+### 27. 节制结局 强尼与V旧友的关系
 
 （强尼放弃吉他和音乐，放弃一切离开夜之城之后）
 
@@ -368,14 +378,6 @@ V：嗯，我也一样，强尼……
 
 艺术是容器，是情绪的开关。而超梦就是最纯粹的情感表现形式。——朱迪
 
-听着，我知道我把很多事都搞得稀巴烂。要么让朋友们失望，要么耗尽他们的信任。以前我就是个自私的人渣，但现在不会了。我不想搞臭你我之间的关系，来之不易。——强尼
-
-我把某些人当朋友看，但他们连跟我待在同一间屋子里都受不了。你离我这么近，7*24小时形影不离。但……你似乎一点也不讨厌我的做派。——强尼
-
-有时候我醒过来，会觉得自己回来很久了。就像这身体本来就是我的，我是自由的。短短几秒后， 我就会觉得好像丢了什么——某些非常重要的东西。然后我会意识到你还在，一直都在。于是一种巨大到愚蠢的放松感就会淹没我。——强尼
-
-有时我做过类似的梦。梦里你从没死去，而我就是你。和我在想“强尼会怎么做”的时候不一样。更像是，我做了一件事，然后就觉得……真tm爽。就好像我终于开始融入了这个世界。——V
-
 我不需要这个世界，我需要你。——强尼
 
 （V：我以为跟克里一起演出对你很重要。）是很重要。但是没有你重要。克里的人生又活了，接下来该想想你的人生要怎么走了。——强尼
@@ -384,13 +386,221 @@ V：嗯，我也一样，强尼……
 
 睡着的时候觉得自己很特别，醒来发现你什么都不是。也就只有这儿了。——强尼
 
-有没有觉得在这座城市里根本没有选择？要么焚烧殆尽，要么就根本没你这个人。——克里
-
-我本来以为怕被别人觉得自己是公司的奴隶。其实我怕的是再次笼罩在别人的阴影里。——克里
-
-每天起床都是同一个念头——我总有一天会被这座城市吞没，永远地消失在它的乌烟瘴气里。夜之城就是一座充满阴影的城市。这么多年来，我费尽心思想要摆脱它们，靠。——克里
+有没有觉得在这座城市里根本没有选择？要么焚烧殆尽，要么就根本没你这个人。……我本来以为怕被别人觉得自己是公司的奴隶。其实我怕的是再次笼罩在别人的阴影里。……每天起床都是同一个念头——我总有一天会被这座城市吞没，永远地消失在它的乌烟瘴气里。夜之城就是一座充满阴影的城市。这么多年来，我费尽心思想要摆脱它们，靠。——克里
 
 还记得你在垃圾场刚醒过来吗？他现在也一样——带着“世界我去你的”的心态重生了。——强尼
 
 （How's life in my body?）Well, most things're either too big or too small. Not to mention the clusterfuck that're your hormones. And the lag between sight and touch - infuriating. When you take a bite of pizza, takes ages before I know you fuckin' burned the roof of your mouth. Plus, used to be five minutes wouldn't pass 'fore I had a fresh cig in my hand, now I'm itchin' for nicotine. Gettin' used to it, I guess, but its' no fuckin' picnic.——强尼（延迟的感知，无法及时保护，会心疼，迟到的保护欲）
+
+### 33. 墓地高甜对话（遍历各种支线）
+
+强尼：So that's how it is. Nothing here at all.
+
+V：What'd you expect? Headston, flag and flowers?
+
+强尼：Nah, I... I dunno. A marker? Something, anything.
+
+V：Really need symbolic, empty gestures?
+
+强尼：Guess I do. Thought I'd feel like I'd closed a chaper here. Like I'd said goodbye to the old Silverhand, hello to the new.
+
+V：And how *do* you feel?
+
+强尼：Like I never even was. Or like I was still inside Mikoshi.
+
+V：We'll figure something out. [Inscribe Johnny's initials] Better now?
+
+强尼：A bit. But let's say it was my real grave - what would you write? "Here lies Johnny Silverhand -- "
+
+#### （1）摇滚小子
+
+V："Relentless Rockerboy Who Never Surrendered." Not even in death.
+
+强尼：Thanks. But what's that do for me now? What'd I achieve fighting Arasaka? So many dead - and those suits're still on top.
+
+(1.1)
+
+V：Won't win this war goin' solo. Might be a good thing we're in this together.
+
+强尼：That's just it. Don't wanna drag you down into this swamp with me.
+
+(1.2)
+
+V：Just feeling sorry for yourself.
+
+强尼：No. Just finally thinking clearly.
+
+(1.3)
+
+V：What's gotten into you all of a sudden? Where's Johnny I'm-the-fuckin'-greatest Silverhand? Don't even recognize you.
+
+强尼：Maybe I'm done pretending.
+
+#### （2）夜之城传奇
+
+V："Night City Legend."
+
+强尼：Sounds good. But what does it really mean? What did I achieve, shouting "Chippin' In" to a bunch of angry, pimply kids?
+
+(2.1)
+
+V：Ya gave those kids hope. That the suits couldn't buy everything.
+
+强尼：I remember what I thought on stage. That even if they all died for their ideals, it'd be worth it. But when I look at you...
+
+#### （3）恐怖分子
+
+V："Terrorist and Raging Asshole."
+
+强尼：Harsh. But if I saw a headstone like that, I'd wanna meet the guy.
+
+V：Didn't mean that as a compliment.
+
+强尼：I know. 
+
+#### （4）救了我的人
+
+V："The Guy who Saved My Life."
+
+强尼：V... You don't know how much I want that to be true.
+
+——————
+
+强尼：Listen, I realize I fucked up a lotta things. Either let down or used every last person who gave me their trust. Blind, selfish bastard that I was. But I've managed one thing for now. Not to fuck this up, what we have.（听着，我知道我把很多事都搞得稀巴烂。要么让朋友们失望，要么耗尽他们的信任。以前我就是个自私的人渣，但现在不会了。我不想搞臭你我之间的关系，来之不易。）
+
+（1）
+
+V：Been a long, bumpy road, but we made it.
+
+（2）
+
+V：No, Johnny. You fucked that up, too. You used me, lied to me... Can't trust you at all.
+
+强尼：Ahem, is it too late to ask for a second chance?
+
+（2.1）
+
+V：Too late. This was your second chance. You died, came back and still had no idea what to do with it all.
+
+强尼：Think you're right.
+
+（2.2）
+
+V：What d'you want from me?
+
+（3）
+
+V：No need to confess all your wrongs to me, Johnny.
+
+强尼：I know. But maybe I want to.
+
+——————
+
+强尼：Most people I thought were my friends, they couldn't even stand to be in the same room with. You're fuckin' closest to me by a long shot. There twenty-four seven. And yet... you don't seem to hate my living guts.（我把某些人当朋友看，但他们连跟我待在同一间屋子里都受不了。你离我这么近，7*24小时形影不离。但……你似乎一点也不讨厌我的做派。）
+
+（1）
+
+强尼：At least so it seemed... till now.
+
+(1.1)
+
+V：OK. But as second chances go, this is your last. I refuse to be that naive.
+
+强尼：I'll try damned hard.
+
+（1.2）
+
+V：Don't hate you... just had enough. Look at you - still trying to manipulate me.
+
+强尼：Shit. I really fucked up.
+
+（2.1）
+
+V：You were a real dickwipe at first.
+
+强尼：You sorta deserved it. Remember wakin' up at Viktor's, not knowin' about me? "I'm seeing things, I'm scared." Then moanin' at Misty's 'bout how you didn't wanna die?
+
+V：Remeber you whinin' for smokes in the middle of the night, complainin' about not bein' able to kill me.
+
+强尼：Never thought we'd make it this far.
+
+（2.2）
+
+V：Too bad we didn't talk like this earlier. Wouda made things easier.
+
+强尼：Never found the right moment.
+
+——————
+
+（1）
+
+V：Still feel like you can't breathe in here?
+
+强尼：Nah. Not sayin' it's great, but it's different.
+
+强尼：Sometimes when I wake up, feels like I'm back for a while. Like I got this body to myself. Like I'm free. Seconds later, feels like I'm missing something - something really important. Then I realize you're there, always were, and this stupid wave of relief washes over me. （有时候我醒过来，会觉得自己回来很久了。就像这身体本来就是我的，我是自由的。短短几秒后， 我就会觉得好像丢了什么——某些非常重要的东西。然后我会意识到你还在，一直都在。于是一种巨大到愚蠢的放松感就会淹没我。）
+
+V：Have similar dreams sometimes. That you never died, that I'm you. Not like I think, "What would Johnny do?" It's more I do something and I feel... fuckin' great. Like I've finally started to fit into this world.（有时我做过类似的梦。梦里你从没死去，而我就是你。和我在想“强尼会怎么做”的时候不一样。更像是，我做了一件事，然后就觉得……真tm爽。就好像我终于开始融入了这个世界。）
+
+——————
+
+V：Worth comin' out all the same?
+
+强尼：Absolutely. Thanks, V. Of all the heads I coulda popped in, hella glad it was yours.
+
+### 34. 关于死亡
+
+V：Fuck...!
+
+强尼：That was your ticker. Sit and rest. Don't need you flatlinin' while we got a job to do.
+
+V：Blah blah blah, fuck Arasaka, blah blah, smash Mikoshi.
+
+强尼：You really are turnin' into me.
+
+V：Ugh. Might be right.
+
+强尼：We're bickering like a shriveled old married couple. It's time we let up, let a little trust take hold.
+
+V：You can be a charming guy - just make the effort, charisma flows. Then I remember that nuke you detonated downtown without a second thought and no hint of later remorse. 
+
+强尼：It was Mikoshi I was after, wanted to destroy it. Gave 'Sake ample time to clear the building.
+
+V：You knew countless people would die. Don't kid yourself.
+
+强尼：Take lives aplenty yourself. See scale as a problem?
+
+V：Whatever, won't argue. All I'm sayin' is you're unpredictable.
+
+强尼：You pot, me kettle. Remeber where you used to be, then think what you've done lately. Path clear, see where you're goin'?
+
+V：Got no idea where I'm goin'... Be a living legend - that's all I wanted. Feels like I'm barely survivin'.
+
+强尼：Test of a person's true value? Death - facing it, staring it down. You still got a chance to be somebody.
+
+V：Yeah... maybe. What was it like? When you died?
+
+强尼：Was on top of the world. Failure - not an option, not a thought... till it happened. Death feels real now, it's only now I know it.
+
+V：Now? Had half a century to come to terms.
+
+强尼：Mikoshi felt... I dunno, like sleep? Lacked awarenenss, had no sense of passing time, didn't mark it.
+
+强尼：Did what they wanted to me. I just remember... cold, a black void, fear. Or -- or was that *your* death?
+
+V：Well, think I got why you detest the place.
+
+强尼：Shouldn't exist. Of all the destruction and pain corps wreak 'round the world, what happens at Mikoshi is worst. Know why?
+
+V：Eternity - it lasts forever. / You're denied the right to die. / They can change you into somebody else. / They experiment on the human psyche.
+
+强尼：Worst thing's when they switch up your identity and you never even know you've become someone else.
+
+强尼：Corps've already taken the world for their own, now they're comin' for us.
+
+V：Realize what you're doin' to me is what Arasaka's doin' at Mikoshi?
+
+强尼：Yeah, I know... That's why I'm gonna fix it.
+
+
 
