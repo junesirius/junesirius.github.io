@@ -534,6 +534,14 @@ V：Too bad we didn't talk like this earlier. Wouda made things easier.
 
 （1）
 
+V：When you said you let your friends down, did you mean Rogue?
+
+强尼：Rogue, Alt, Kerry, Santiago.
+
+（后接罗格支线）
+
+（2）
+
 V：Still feel like you can't breathe in here?
 
 强尼：Nah. Not sayin' it's great, but it's different.
@@ -549,6 +557,8 @@ V：Worth comin' out all the same?
 强尼：Absolutely. Thanks, V. Of all the heads I coulda popped in, hella glad it was yours.
 
 ### 34. 关于死亡
+
+（从赫尔曼地方出来）
 
 V：Fuck...!
 
@@ -592,9 +602,9 @@ V：Well, think I got why you detest the place.
 
 强尼：Shouldn't exist. Of all the destruction and pain corps wreak 'round the world, what happens at Mikoshi is worst. Know why?
 
-V：Eternity - it lasts forever. / You're denied the right to die. / They can change you into somebody else. / They experiment on the human psyche.
+V：Eternity - it lasts forever. / You're denied the right to die. / **They can change you into somebody else.** / They experiment on the human psyche.
 
-强尼：Worst thing's when they switch up your identity and you never even know you've become someone else.
+强尼：Yep... Goddamn right. Worst thing's when they switch up your identity and you never even know you've become someone else.
 
 强尼：Corps've already taken the world for their own, now they're comin' for us.
 
