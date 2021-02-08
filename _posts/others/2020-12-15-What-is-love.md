@@ -3,7 +3,7 @@ layout: post
 title: 【欧美群像】爱是什么
 date: 2020-12-15 13:50
 categories: 欧美群像
-characters: ["Merlin", "Arthur", "Steve Rogers", "Bucky Barns", "Tony Stark", "Peggy Carter", "Hannibal Lector", "Will Graham", "Gellert Grindelwald", "Albus Dumbledore", "Leo", "Trinity"]
+characters: ["Merlin", "Arthur", "Steve Rogers", "Bucky Barns", "Tony Stark", "Peggy Carter", "Hannibal Lector", "Will Graham", "Gellert Grindelwald", "Albus Dumbledore", "Neo", "Trinity"]
 tags: ["亚梅", "盾冬", "盾铁", "盾佩", "拔杯", "GGAD", "梅林传奇", "漫威", "汉尼拔", "HP", "黑客帝国", "短评"]
 pov: 第三人称
 origin: Lofter
@@ -35,7 +35,7 @@ origin: Lofter
 
 （这里似乎还要再加上对于婚姻的理解，但这就稍微太复杂了一些，在看完《模仿游戏》时以及在写给家里的长信里都略有提过一些，这里就不展开了。）
 
-还有最后这一点，“在你和世界之间，我选择你”，总是特别好嗑也好哭，也常常被看做最深刻的对于爱的宣告，比如梅林为了亚瑟不惜放弃魔法被接纳的可能，盾为了冬不惜被全世界通缉，小茶杯为了拔叔不惜一起变成逃犯，《黑客帝国》的Leo不救整个世界而救Trinity等等。GGAD或许算是一个特例，但在FB5出来之前究竟真相如何似乎也不好下定论，粉丝猜测了这许多年，也不知罗姨最后是否会给个痛快。
+还有最后这一点，“在你和世界之间，我选择你”，总是特别好嗑也好哭，也常常被看做最深刻的对于爱的宣告，比如梅林为了亚瑟不惜放弃魔法被接纳的可能，盾为了冬不惜被全世界通缉，小茶杯为了拔叔不惜一起变成逃犯，《黑客帝国》的Neo不救整个世界而救Trinity等等。GGAD或许算是一个特例，但在FB5出来之前究竟真相如何似乎也不好下定论，粉丝猜测了这许多年，也不知罗姨最后是否会给个痛快。
 
 ——————
 
