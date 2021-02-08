@@ -392,6 +392,8 @@ V：嗯，我也一样，强尼……
 
 （How's life in my body?）Well, most things're either too big or too small. Not to mention the clusterfuck that're your hormones. And the lag between sight and touch - infuriating. When you take a bite of pizza, takes ages before I know you fuckin' burned the roof of your mouth. Plus, used to be five minutes wouldn't pass 'fore I had a fresh cig in my hand, now I'm itchin' for nicotine. Gettin' used to it, I guess, but its' no fuckin' picnic.——强尼（延迟的感知，无法及时保护，会心疼，迟到的保护欲）
 
+（My memories - what do they... feel like? Aside from what you see and hear, I mean. You process or experience any feelings?）Anger, regret, bitterness, fear. Though honestly, can't tell if they're yours or mine.——强尼
+
 ### 33. 墓地高甜对话（遍历各种支线）
 
 强尼：So that's how it is. Nothing here at all.
