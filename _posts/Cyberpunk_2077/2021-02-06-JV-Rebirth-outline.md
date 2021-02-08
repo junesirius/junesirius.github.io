@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【银V】战地故事+前世今生梗（大纲文）
+title: 【银V】浴火（大纲文）
 date: 2021-02-06 02:51
 categories: ["赛博朋克2077"]
 characters: ["Johnny Silverhand", "V", "Female V"]
