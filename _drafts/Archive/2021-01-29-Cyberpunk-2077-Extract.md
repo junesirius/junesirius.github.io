@@ -368,7 +368,7 @@ V：你看，这里真的很美。
 
 V：嗯，我也一样，强尼……
 
-### 32. 其他摘抄
+### 32. 其他零碎的摘抄
 
 人生因为孤独，而变得没有意义。——帕南
 
@@ -386,15 +386,19 @@ V：嗯，我也一样，强尼……
 
 睡着的时候觉得自己很特别，醒来发现你什么都不是。也就只有这儿了。——强尼
 
+### 33. 克里支线（TODO）
+
 有没有觉得在这座城市里根本没有选择？要么焚烧殆尽，要么就根本没你这个人。……我本来以为怕被别人觉得自己是公司的奴隶。其实我怕的是再次笼罩在别人的阴影里。……每天起床都是同一个念头——我总有一天会被这座城市吞没，永远地消失在它的乌烟瘴气里。夜之城就是一座充满阴影的城市。这么多年来，我费尽心思想要摆脱它们，靠。——克里
 
 还记得你在垃圾场刚醒过来吗？他现在也一样——带着“世界我去你的”的心态重生了。——强尼
+
+### 34. 跟强尼的对话（很甜）（TODO）
 
 （How's life in my body?）Well, most things're either too big or too small. Not to mention the clusterfuck that're your hormones. And the lag between sight and touch - infuriating. When you take a bite of pizza, takes ages before I know you fuckin' burned the roof of your mouth. Plus, used to be five minutes wouldn't pass 'fore I had a fresh cig in my hand, now I'm itchin' for nicotine. Gettin' used to it, I guess, but its' no fuckin' picnic.——强尼（延迟的感知，无法及时保护，会心疼，迟到的保护欲）
 
 （My memories - what do they... feel like? Aside from what you see and hear, I mean. You process or experience any feelings?）Anger, regret, bitterness, fear. Though honestly, can't tell if they're yours or mine.——强尼
 
-### 33. 墓地高甜对话（遍历各种支线）
+### 35. 墓地高甜对话（遍历各种支线）
 
 强尼：So that's how it is. Nothing here at all.
 
@@ -558,7 +562,7 @@ V：Worth comin' out all the same?
 
 强尼：Absolutely. Thanks, V. Of all the heads I coulda popped in, hella glad it was yours.
 
-### 34. 关于死亡
+### 36. 关于死亡（同强尼的对话）
 
 （从赫尔曼地方出来）
 
@@ -614,5 +618,28 @@ V：Realize what you're doin' to me is what Arasaka's doin' at Mikoshi?
 
 强尼：Yeah, I know... That's why I'm gonna fix it.
 
+### 37. 壁龛前路人的对话
 
+（来自巴里的支线任务“当你凝视深渊时”）
 
+父亲：因为妈妈病得很重，不得不离开。但我知道她一直在天上看着你，她非常爱你。
+
+孩子：普勒斯顿说他爸爸死了，但他还是能看见，也能随时和他说话。
+
+父亲：因为普勒斯顿的爸爸……他没有和你妈妈一样去天堂。
+
+孩子：普勒斯顿说他爸爸在荒坂，那里比天堂更好。他还说，如果我们有钱，妈妈也能去荒坂，就不用去天堂了。这样的话我们就能每天去看她了。
+
+父亲：亲爱的，我很抱歉……
+
+### 38. 蜘蛛墨菲的日记
+
+（来自“魔法书”支线）
+
+2021年05月07日
+
+巴特莫斯错了。所有人都错了。
+
+网络只是一面镜子，反应了我们的思维和梦想，我们的生活。巴特莫斯把它摔成碎片，以为这样就够了。可就算是这样，你依然能在每块碎片中看到自己的倒影。如今一面镜子被打碎，却多出了几千面。
+
+现在每个公司、政府和帮派都有了自己的网络，他们不受任何约束，用铁腕统治着那里。监控没有消失。在那些支配我们的人手里，它变得更加恶劣。他们就像当代的命运女神，把我们人生的光缆缠在自己义体做的手指上，随时准备临时通知我们之后把它一刀剪断。他们听见了我们的沮丧，看着我们徒劳的反抗，发出捧腹的大笑，就连整个世界的核心都为之震颤。
