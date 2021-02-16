@@ -12,7 +12,7 @@ published: false
 
 [TOC]
 
-### 1. S1E09
+### S01E09 路西法对上帝的控诉
 
 You, you cruel, manipulative bastard!
 
@@ -62,7 +62,8 @@ What's the bloody point?
 
 这一切又有什么意义？
 
+### S01E10 daddy issue
 
+永远会戳到我的topic
 
-
-
+或许也是路西法的故事之所以这么抓住我的心的原因（之一）了
