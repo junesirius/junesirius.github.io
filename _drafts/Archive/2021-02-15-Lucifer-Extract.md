@@ -4,7 +4,7 @@ title: 【路西法】摘抄（持续更新）
 date: 2021-02-15
 categories: ["其他"]
 characters: ["Lucifer Morningstar", "上帝"]
-tags: ["Lucifer", "路西法", "宗教"]
+tags: ["Lucifer", "路西法", "宗教", "摘抄"]
 pov: 第三人称
 origin: github.io
 published: false
