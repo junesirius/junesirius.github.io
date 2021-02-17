@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ### 【记梗】（持续更新）
+title: 【记梗】（持续更新）
 date: 2017-01-31 01:47
 categories: ["其他"]
 characters: 
