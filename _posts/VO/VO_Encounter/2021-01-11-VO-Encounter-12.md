@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【VO】邂逅（十二）
+title: 【VO】邂逅（十二）（TBC）
 date: 2021-01-11 21:15
 categories: ["中土", "RPS"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]
