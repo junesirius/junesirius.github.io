@@ -393,3 +393,31 @@ And... maybe that's okay.
 What happened?
 
 Well, where do I begin? With the grandest fall in the history of time? Or perhaps the far more agonizing punishment that followed? To be blamed for every morsel of evil humanity's endured, every atrocity committed in my name? As though I wanted people to suffer. All I ever wanted was to be my own man here. To be judged for my own doing. For that? I've been shown how truly powerless I am. That even the one person I trusted, you, could be used to hurt me.
+
+——————
+
+天，路西法的绝望。太让人心疼了。
+
+甚至连自己唯一信任的人也不再相信自己，他终于对地球和人类失去了全部的信心和热情。甚至愿意主动回到地狱了。
+
+他多么恨地狱，恨dear old Dad给他安排的eternal的生活，又是多么热爱生活，在洛杉矶在他的Lux过得舒舒服服，做他自己。而甚至这为数不多的一点乐趣，也完全因为人性而失落了。
+
+“I have enough of it.”这是怎样极致的失望才让他说出这样的话啊。
+
+在知道自己是mortal的情况下面对所有指向他的枪开始大笑，甚至主动招惹LAPD只为了被子弹送回他深恶痛绝的地狱。在那一刻，甚至地狱都显得比地球更加值得热爱了。
+
+路西法，Lucie，小路。
+
+这是怎样的不公，让你背上了所有罪恶之名。
+
+是因为上帝的判决，还是因为人性里丑恶的那一面。
+
+相比那些自私的、用恶魔之名掩饰自己罪行的人类，路西法又是多么善良正义的存在。“I punish the evil, but they are innocent.”“I'm evil, but I'm not a monster.”而他们才是真正的monster啊。
+
+“我终于愿意接纳这样的自己了。”在狂怒的大笑里，路西法终于说出这样的话。“在所有的尸体上，又何妨再多增加一具。”他大笑，极尽嘲讽，看透了人性，彻底的心灰意冷。他多么恨那些不公，被迫背上与他无关的罪名，恨那个被视为罪恶象征的他自己的身份。而现在，在无数的不公之下，他心底最后一点善的防线也崩塌了。迎接罪恶，迎接不公，迎接他最恨的一切，迎接这是他不得不面对的命运，认输。
+
+这是他从来没有做过的选择。
+
+Lucifer，这从来不是罪恶的代名词，而是反叛的代名词。当最原初的反叛者也开始认输，也放弃了反叛，对渴望争取的一切放弃了希望，放弃了他热爱的生活、自由和正义，这个世界还剩下什么希望？天堂不再是天堂，地狱是真正的地狱，而地球，又仿佛是个比两者都更灰暗的地方了。
+
+（2021-02-17 19:57）
