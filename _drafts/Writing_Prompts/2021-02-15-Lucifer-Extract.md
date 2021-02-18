@@ -387,3 +387,9 @@ I don't do that with anyone else.
 You make me vulnerable.
 
 And... maybe that's okay.
+
+### S01E12 被诬陷
+
+What happened?
+
+Well, where do I begin? With the grandest fall in the history of time? Or perhaps the far more agonizing punishment that followed? To be blamed for every morsel of evil humanity's endured, every atrocity committed in my name? As though I wanted people to suffer. All I ever wanted was to be my own man here. To be judged for my own doing. For that? I've been shown how truly powerless I am. That even the one person I trusted, you, could be used to hurt me.
