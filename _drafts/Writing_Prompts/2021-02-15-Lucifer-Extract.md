@@ -214,7 +214,7 @@ The wings are old news now.
 
 In my search for the wings, I realized what they actually were.
 
-A relic worth exactly what someone war willing to pay for them.（这种神物的价值只在于你愿意为它付出多少）
+A relic worth exactly what someone were willing to pay for them.（这种神物的价值只在于你愿意为它付出多少）
 
 I've moved on to bigger and better things.
 
@@ -421,3 +421,11 @@ Well, where do I begin? With the grandest fall in the history of time? Or perhap
 Lucifer，这从来不是罪恶的代名词，而是反叛的代名词。当最原初的反叛者也开始认输，也放弃了反叛，对渴望争取的一切放弃了希望，放弃了他热爱的生活、自由和正义，这个世界还剩下什么希望？天堂不再是天堂，地狱是真正的地狱，而地球，又仿佛是个比两者都更灰暗的地方了。
 
 （2021-02-17 19:57）
+
+### S01E13 用自己交换Chloe
+
+I don't know if this is all part of the plan. Or if you can hear me. But if you're up there... Dad... I need a favor.
+
+I'll be the son you always wanted me to be. I'll do as you ask. Go where you want me to.
+
+In exchange, all I ask is that you protect Chloe.
