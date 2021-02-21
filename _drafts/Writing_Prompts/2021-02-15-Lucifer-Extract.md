@@ -490,3 +490,12 @@ a new feeling, a feeling he never felt before: guilt
 
 Whose fault is it then?
 
+### S02E07
+
+\- How do you know what (job) feels right?
+
+\- You just know.
+
+——————
+
+The last person I opened up to, I hurt. A lot. Let alone how I've hurt my own flesh and blood. It's all I seem to be able to do.
