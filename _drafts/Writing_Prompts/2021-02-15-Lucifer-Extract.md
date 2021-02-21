@@ -429,3 +429,43 @@ I don't know if this is all part of the plan. Or if you can hear me. But if you'
 I'll be the son you always wanted me to be. I'll do as you ask. Go where you want me to.
 
 In exchange, all I ask is that you protect Chloe.
+
+### S02E03 Why do you punish people
+
+No one chooses to be a sin-eater (=punisher).
+
+No one wants to to be custodian of the world's filth.
+
+Why would they? Absorbing the worst humanity has to offer, day in and day out. Changes you.
+
+\- So you think it's the job's fault that they started to punish?
+
+People don't arrive broken. They start with passion and yearning till something comes along that disabuses them of those notions.
+
+————————
+
+Why are you a punisher? I understand the longing for justice or the joy of sweet revenge, but no one's forcing you to do this, so why would you take it upon yourself?
+
+\- Because I couldn't take it anymore. All that evil is constantly spreading. I had to do something. I had to punish them.
+
+You are wrong. You didn't *have to* do anything. You *wanted* to punish them.
+
+You started with impulsive, but then you got a taste for blood, and it felt good, didn't it?
+
+\- I was doing my part.
+
+You had big plans to go on vengeance quest until we came nipping at your heels, at which point poor woman took the fall.
+
+We both know you can't stop because you love it! Just like the people you punished.
+
+\- I don't... I do. I like seeing them beg for forgiveness.
+
+You see, the difference between us is that you became part of the problem. Someone deserving punishment
+
+——————
+
+So you are going to punish me anyway?
+
+\- I am, indeed. And not because I've been brainwashed by dad or I'm trying to prove anything. I punish because I'm good at it. I like giving people their due. Makes me happy.
+
+Which brings me to your sentence: you shall remain right here on Earth amongst the creatures you so despise as one of them.
