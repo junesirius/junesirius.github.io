@@ -478,3 +478,15 @@ You know that's not what your Father wanted.
 
 \- Dad showed me an open door. Does that mean I was meant to take you back to Hell, or was he insinuating that Hell was getting drafty? Nobody bloody knows because the selfish bastard won't just tell us! And I'm sick of it. No more. No more.
 
+### S02E06 self-destruction
+
+looking for punishment
+
+wanted to be punished for what he had done
+
+even though it's not his fault
+
+a new feeling, a feeling he never felt before: guilt
+
+Whose fault is it then?
+
