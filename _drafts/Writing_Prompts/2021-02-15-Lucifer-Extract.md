@@ -469,3 +469,12 @@ So you are going to punish me anyway?
 \- I am, indeed. And not because I've been brainwashed by dad or I'm trying to prove anything. I punish because I'm good at it. I like giving people their due. Makes me happy.
 
 Which brings me to your sentence: you shall remain right here on Earth amongst the creatures you so despise as one of them.
+
+### S02E05 What does the God want
+
+You know that's not what your Father wanted.
+
+\- Do I?! Everyone thinks they know what he wants. Amenadiel did when he first got here, now Uriel does. Human wars have been waged because of it. 
+
+\- Dad showed me an open door. Does that mean I was meant to take you back to Hell, or was he insinuating that Hell was getting drafty? Nobody bloody knows because the selfish bastard won't just tell us! And I'm sick of it. No more. No more.
+
