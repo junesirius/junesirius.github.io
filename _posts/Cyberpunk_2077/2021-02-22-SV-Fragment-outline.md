@@ -6,7 +6,7 @@ categories: ["赛博朋克2077"]
 characters: ["Johnny Silverhand", "V", "Female V"]
 tags: ["银V", "强尼/V", "强尼/女V", "恶魔结局", "草稿", "大纲文", "脑洞"]
 pov: 第三人称
-origin: github.io
+origin: Lofter
 ---
 
 【银V】碎片/裂痕/破碎/玻璃先生（标题未定）

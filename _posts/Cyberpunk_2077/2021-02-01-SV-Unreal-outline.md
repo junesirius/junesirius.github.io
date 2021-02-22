@@ -7,6 +7,7 @@ characters: ["Johnny Silverhand", "V", "Female V"]
 tags: ["银V", "强尼/V", "强尼/女V", "节制结局", "大纲文"]
 pov: 第三人称
 origin: github.io
+published: true
 ---
 
 一开始是高甜的日常，每天都很美好，生活井然有序，夜之城是个治安良好的城市，V在公司上班，下班在酒吧遇到杰克罗格，周末去看朱迪帕南维克多米丝蒂玩等等，简而言之就是一个最最完美的生活
