@@ -4,7 +4,7 @@ title: 【银V】失真（接节制结局，大纲文）
 date: 2021-02-01 04:05
 categories: ["赛博朋克2077"]
 characters: ["Johnny Silverhand", "V", "Female V"]
-tags: ["银V", "强尼/V", "强尼/女V", "大纲文"]
+tags: ["银V", "强尼/V", "强尼/女V", "节制结局", "大纲文"]
 pov: 第三人称
 origin: github.io
 ---

@@ -4,7 +4,7 @@ title: 【银V】What does V stand for
 date: 2021-02-01 15:27
 categories: ["赛博朋克2077"]
 characters: ["Johnny Silverhand", "V", "Female V"]
-tags: ["银V", "强尼/V", "强尼/女V", "英文", "诗"]
+tags: ["银V", "强尼/V", "强尼/女V", "节制结局", "英文", "诗"]
 pov: 第一人称
 origin: Lofter
 ---
