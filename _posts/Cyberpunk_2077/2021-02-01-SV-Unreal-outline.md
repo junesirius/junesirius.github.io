@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【银V】失真（大纲文）
+title: 【银V】失真（接节制结局，大纲文）
 date: 2021-02-01 04:05
 categories: ["赛博朋克2077"]
 characters: ["Johnny Silverhand", "V", "Female V"]

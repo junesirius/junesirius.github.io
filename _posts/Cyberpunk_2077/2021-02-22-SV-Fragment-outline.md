@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【银V】碎片（草稿）
+title: 【银V】碎片（接恶魔结局，草稿）
 date: 2021-02-22 04:32
 categories: ["赛博朋克2077"]
 characters: ["Johnny Silverhand", "V", "Female V"]
