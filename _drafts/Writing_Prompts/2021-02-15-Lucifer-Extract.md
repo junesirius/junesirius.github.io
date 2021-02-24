@@ -499,3 +499,34 @@ Whose fault is it then?
 ——————
 
 The last person I opened up to, I hurt. A lot. Let alone how I've hurt my own flesh and blood. It's all I seem to be able to do.
+
+### S02E13
+
+How pitiful.
+
+Stuck in the very Hell you once ruled.
+
+Trapped by your own guilt.
+
+——————
+
+好燃！！！！！！
+
+为了你，我能付出一切
+
+我的内疚，我的生命，我在地狱的地位和权势，跟从我的恶魔，我的母亲，我的兄弟
+
+我放弃了一切为了站到你的身边
+
+而所有爱我的人都与我同在
+
+我从不孤独
+
+所有人都爱我，所有人都爱你
+
+这才是上帝真正的安排
+
+不是操纵你，或者我，而是让所有人围绕爱，站到一起
+
+只有爱能够做到这一点
+
