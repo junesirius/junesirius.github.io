@@ -530,3 +530,15 @@ Trapped by your own guilt.
 
 只有爱能够做到这一点
 
+### S02E15
+
+Dad set a trap for me, but Mum was the one who made sure that I fell into... She was the one that made sure that I felt... that I... that I felt things that I don't want to feel anymore.
+
+\- That right there, that what you stopped yourself from feeling, that's exactly what you need to feel.
+
+What, the anger? Oh, I feel it.
+
+\- Not the anger. The pain. That's what you've been suppressing. All the pain and heartbreak that you have over what happened with your mother. And Chloe.
+
+\- I know it's difficult. But the only way to get over that pain... is to go through it.
+
