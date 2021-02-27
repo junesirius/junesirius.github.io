@@ -557,3 +557,8 @@ It was then that I realized he was so full of self-loathing, void of any self-re
 老路，你何必又用这种伤人的话语试图推开任何靠近你的人，你的detective，你的brother，你的doctor，你又在推开他们，试图用伤害和恶毒来证明你从来没有变好。你想要找回原来的自己，by embracing the old devilish self，哪怕曾经的你拒绝那时的自己，而现在的你也在拒绝接受现在的自己。
 
 拒绝接纳自己，huh，那不也完全就是我自己一直以来对自己的态度。我又有什么立场去说老路呢。
+
+### S03E08
+
+What's stupid about thinking someone deserves to be loved for who they really are?
+
