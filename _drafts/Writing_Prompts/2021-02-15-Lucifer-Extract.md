@@ -634,3 +634,11 @@ Maze-夏洛特：撩
 
 于是又想起S02E13老路回地狱那时了，Maze说了“Demons don't have soul. When I die, I vanish. Maze out.”真正的灰飞烟灭烟消云散，就像小美人鱼的泡沫。这也是为什么demons要真正地生活在当下，要纵情声色犬马享受生命。因为这是他们唯一的机会，而且无需考虑后果。谁又能说那不是一种好的生活方式呢？毕竟在他们活的时候，他们真正地活着。
 
+### S03E21
+
+\- Why don't just tell her how you feel?
+
+Because, I was afraid.
+
+Afraid she wouldn't love you back.
+
