@@ -642,3 +642,37 @@ Because, I was afraid.
 
 Afraid she wouldn't love you back.
 
+### S03E23
+
+Well done, Detective. And, uh, point taken. Well, you put away not one, but two bad guys today. All without my help. So it's become very clear that you... well, you don't need me.
+
+That's ok, Detective, because with that realization came another.
+
+If you don't need me, then we've been working together all this time because you want to. Because you choose to. You did choose me.
+
+You were right. I've been trying to go back to the way things were. You know, playing our greatest hits, because I've been avoiding dealing with things in the present like... how I feel about you.
+
+I was afraid. Afraid... that you'd want me 'cause you've only see certain sides of me. That if you saw all of me... knew all of me, you would run away.
+
+\- Lucifer...
+
+Detective, it's true.
+
+\- No.
+
+The other side of me is... it's bad. It's monstrous, even. But you wanted the truth, and you deserve the truth. Right now, I can't show it to you, so I'm just gonna have to tell you.
+
+Detective... Chloe... I am the Devil.
+
+\- No, you're not. Not to me.
+
+——————
+
+三季了，老路终于说出来了，说出了他的真实想法，叫出了Chloe这个名字。求求了，老路和Chloe终于应该能甜了吧。
+
+所有这害怕不被接受的面，终究还是因为自己不能接受自己。害怕自己的另一面，讨厌那一面，厌恶那样的自己，觉得自己不值得被爱。逃避，拖延，互相折磨。
+
+Human emotion sucks.
+
+但也正是那些broken moments，让happy moments更美好，更珍贵。
+
