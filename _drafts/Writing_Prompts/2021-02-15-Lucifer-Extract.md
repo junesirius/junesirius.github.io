@@ -789,3 +789,35 @@ I will.
 PPS：关于伊甸园的那个苹果，话说，老路你要不要跟Crowley对峙一下到底是谁的功劳？x
 
 PPPS：虽然真的很心疼，但是莫名真的好喜欢看老路战损，第三季结尾那个沾血的翅膀真实帅炸，这里捂着腹部弹孔也好看，还有被台球杆捅穿前胸，还有前面被枪直接在手里击穿了一个洞以后血肉模糊地徒手拦车。不得不说，战损美人，真的太可了呜呜呜又心疼又想要多来一点x（？你不对劲
+
+### S04E08
+
+This all his fault. 
+
+\- What is?
+
+Every bad thing that ever happened. With Eve. With the Detective. Dear old Dad has back up to his old plan of manipulating me. Using these two women to... tear me apart.
+
+\- Do you really believe that?
+
+Oh I'll be fine if I might be. But I also know it's a lie, a grand deception I've been telling myself... since before I came to...
+
+\- Why do you think you've been lying yourself all this time?
+
+Because the truth is so much harder to face.
+
+\- What is the truth?
+
+My devil face, my devil wings, everything that is happening to me is my own bloody fault. I brought that about myself. How's that about for starters?
+
+\- Don't you see? This is progress. Genuine progress. Unravelling these patterns of denial is the first step of resolving these issues.
+
+No, Doctor, this isn't progress. Because if I'm doing it to myself, then the real truth is...
+
+\- Is what? Is what? Come on, Lucifer. This will weigh on you unless you face it head on. The real truth is what?
+
+There is something rotten inside of me. I found it near impossible to drawn out the constant cacophony of voices whispering in my ear telling me "I am evil".
+
+I'm drowning, Doctor!
+
+And I can't stop asking myself: Why do I hate myself so much?
