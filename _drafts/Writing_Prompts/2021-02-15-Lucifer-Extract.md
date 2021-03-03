@@ -821,3 +821,31 @@ There is something rotten inside of me. I found it near impossible to drawn out 
 I'm drowning, Doctor!
 
 And I can't stop asking myself: Why do I hate myself so much?
+
+——————
+
+What do I hate myself so much?
+
+Why, why.
+
+I want to know why too.
+
+I may not be evil, I'm definitely not the devil (or, am I?)
+
+But I hate myself just as much as Lucifer.
+
+And I certainly made everything relate to myself, just like Lucifer. Is that the same problem as his? The denial, because I'm stalling to face my real problem? which is too painful to handle?
+
+The truth is, I do hate myself. All the time. Nothing I do will be good enough. No goal, no achievement is good enough for the whispering cacophony whispering in my ears.
+
+I blame others. I blame the childhood experience. I tried to modify my memory, use reasonable mind to convince the emotion, use writing to fake, use all the possible ways to pretend I'm normal. Pretend as someone I'm not.
+
+I'm just like Lucifer, in every single aspect.
+
+I really really want to know how he dealt with his problem. Because I definitely did a bad job in dealing with mine.
+
+It's really really painful. And buried too deep down for someone else to help with it. The therapists and little white pills are not helping. Maybe just stabilize a little bit, to calm down a bit, but that's just it. I'm still broken. Too damn broken and rotten.
+
+Please, tell me. How can I fix me. Like sewing a broken doll.
+
+Or, Lucifer, maybe we can do this together. You and I, dealing with these drowning whispers, together. 
