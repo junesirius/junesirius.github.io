@@ -790,7 +790,7 @@ PPS：关于伊甸园的那个苹果，话说，老路你要不要跟Crowley对�
 
 PPPS：虽然真的很心疼，但是莫名真的好喜欢看老路战损，第三季结尾那个沾血的翅膀真实帅炸，这里捂着腹部弹孔也好看，还有被台球杆捅穿前胸，还有前面被枪直接在手里击穿了一个洞以后血肉模糊地徒手拦车。不得不说，战损美人，真的太可了呜呜呜又心疼又想要多来一点x（？你不对劲
 
-### S04E08
+### S04E08 Self-hatrad
 
 This all his fault. 
 
@@ -849,3 +849,45 @@ It's really really painful. And buried too deep down for someone else to help wi
 Please, tell me. How can I fix me. Like sewing a broken doll.
 
 Or, Lucifer, maybe we can do this together. You and I, dealing with these drowning whispers, together. 
+
+### S04E09 How to forgive myself
+
+I know why I hate myself, because everything I touch, I ruin. From rebellion against Dad, to now. Look what I put you through. 
+
+I hate that I am poison for anyone who dares to care about me. Especially you.
+
+\- Lucifer. This isn't about me. I'm ok. I haven't crumbled into a million pieces. I'm still here. And I'm fine.
+
+If I turn around, will you be fine or will you look away in horror?
+
+\- It doesn't matter.
+
+'Cause it does, Detective.
+
+\- No, it doesn't. Because it isn't about me. This is about you. I'm not gonna let you use me as an excuse to avoid dealing with what is behind all of this.
+
+\- You always talk about how much you hate about being blamed for humanity's sins. You know, "the devil made me do it." And I think I know why you hated it so much, because deep down, you blame yourself just as much, if not more.
+
+\- You have to stop taking responsibility for things you can't control. 
+
+\- Lucifer, you need to forgive yourself.
+
+I can't. 
+
+\- Why?
+
+I don't know how to.
+
+I don't even know where to begin.
+
+But... I want to.
+
+\- Lucifer, I think you just took the first step.
+
+——————
+
+So did I...
+
+I can't. I don't know how to. I don't even know where to begin.
+
+But... I want to.
