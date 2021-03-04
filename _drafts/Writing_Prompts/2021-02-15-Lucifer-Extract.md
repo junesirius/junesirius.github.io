@@ -891,3 +891,17 @@ So did I...
 I can't. I don't know how to. I don't even know where to begin.
 
 But... I want to.
+
+### S04E10 神仙打架
+
+好喜欢这集的神仙打架！！帅惨了，终于所有的celestial beings能好好打一架了，老路也有西装打架的画面了。而且最关键的是！！！！他终于为了Chloe展现出King of the Hell的那种姿态了！！（虽然是unwillingly）
+
+但是真的，“kneel before your king”的那一幕，终于重新想起了他是Lucifer。有个devil做男朋友，该帅的时候也真的必须帅一帅了x
+
+以及突然被提醒了，为了不让demon在地狱称王，King of Hell必须是天使，所以真的，Lucifer成为King of Hell看起来真的不一定就像他一开始理解的那样是对他的一种惩罚。真的可能只是一种job，一个需要他才能完成的艰难任务。而且这种，God只能委托his favorite son。所以这真的是一种gesture of trust，一种belief。所以就像第一季里Linda就已经说过了，说不定那不是God lose faith in you, it's you lose faith in him。
+
+以及这集里的Ella也说了，关于The big guy，或许我们不应该因为经历的一些事就动摇我们的信仰，It's not their job to punish the evil, but to support us to go through it. “I never felt lonely before, because I know I have The big guy with me.” We believe in them, so we would not feel lonely, or desperate, when we have to face some bad things. Terrible things even.
+
+第四季真的可以算是我看到现在最喜欢的一季了，从devil face的回归，到越来越深的self-hatred, self-punishment，所有的confusion, doubt, 不知道自己究竟是谁，应该怎么做、怎么选择、怎么生活，怎么知道什么是爱，怎么应对来自爱的人的背叛和伤害，又怎么避免反过来伤害他们。然后直到最后一个镜头，老路的angel wing又回来了！！（果然还是更喜欢angel wing啊，不管他多么想说他讨厌天堂，讨厌所有他身上的天使痕迹，显得更像天使而不是更像devil总归是更让人欢喜和喜爱的。或许之前说的厌恶也只是因为他被剥夺了那些吧，于是用厌恶来表达对这些失去的东西的不在乎，来掩饰自己的受伤。但老路一直还是想要变成a better self的，而天使，naturally在很大程度上就是这种“好”的代名词了——虽然我们到现在也知道了，这并不是necessarily true。“好”和“坏”的界限变得模糊，if you look for some漏洞，you can always find some, but you will know what's good or bad, deep down. So, listen to it.）
+
+这一季的心路历程，也实在非常非常能让我共情了，所以其实严格来说，把这一季当做剧终季其实也不失为一种好的结束。Dan终于放下了第三季结尾开始带来的夏洛特的心伤，Ella跟The big guy重归于好，Eve看清了她又一次犯下的错误然后要去重新找回她自己，Maze……仍然是一个人，但至少在Eve地方体验到了心动的感觉，Linda和Amanedial划了一季的水，不过至少也happy ending了。而Lucifer，虽然很难判断他究竟多大程度上原谅了他自己，但至少，他认为他原谅了，而且Detective说出了那三个字，让他知道他这四季付出的感情不是白费，不是单方面的，不是没有结果，但恐怕只有离开才是对他们最好的结局。况且如果不这样，哪怕真正能在地球长久地留下来，immortal的Lucifer和mortal human，到时候的心碎，恐怕也只会多不会少（虽然潜在可能的HE方式已经在S04E05的观后感里设想过了）。所以说真的，作为剧终真的已经很满足了（当然在common people看起来这最终结局看起来大概是BE了，所以大概这就是为什么还会有最后的第五季和第六季，以及从期待值和完成度来看，或许不一定会比用第四季作为剧终更好。Anyhow，有更多的Lucifer is on the way总还是让人快乐的！！）
