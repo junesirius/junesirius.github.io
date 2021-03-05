@@ -12,24 +12,6 @@ published: false
 
 [TOC]
 
-### S03E24
-
-老路带血的翅膀太帅了啊啊啊啊！！！！！
-
-翅膀的存在终于有了用武之地了。
-
-第一次知道自己可以用翅膀来保护心爱的人，老路应该终于能感觉开心了吧QAQ
-
-但是devil face为什么又回来了呜呜呜，好不容易第二季做了个好事，第三季又变得天使了，第四季又要回归恶魔了呜
-
-如果devil face代表的是罪恶感内疚感这些折磨老路几千年的来自地狱的东西，我真的也很想知道老路最后能怎么样真的完全接纳自己，全部的自己，不管是恶魔的一面还是天使的一面，顺从的一面还是反抗的一面。
-
-Chloe能接纳完整的他，他什么时候能接纳完整的自己呢？
-
-真的不是一件很容易的事，确实，切身体验过。也真的很需要一些好的建议了。
-
-所以Lucie, we work on it together, alright?
-
 ### S03E26
 
 God: Choice is a funny thing. Give someone different options, different circumstances, will they themselves end up different?
