@@ -12,14 +12,6 @@ published: false
 
 [TOC]
 
-### S03E21
-
-\- Why don't just tell her how you feel?
-
-Because, I was afraid.
-
-Afraid she wouldn't love you back.
-
 ### S03E23
 
 Well done, Detective. And, uh, point taken. Well, you put away not one, but two bad guys today. All without my help. So it's become very clear that you... well, you don't need me.
