@@ -12,16 +12,6 @@ published: false
 
 [TOC]
 
-### S01E11
-
-I can let my guard down with you.
-
-I don't do that with anyone else.
-
-You make me vulnerable.
-
-And... maybe that's okay.
-
 ### S01E12 被诬陷
 
 What happened?
