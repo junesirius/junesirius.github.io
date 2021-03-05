@@ -12,48 +12,6 @@ published: false
 
 [TOC]
 
-### S04E09 How to forgive myself
-
-I know why I hate myself, because everything I touch, I ruin. From rebellion against Dad, to now. Look what I put you through. 
-
-I hate that I am poison for anyone who dares to care about me. Especially you.
-
-\- Lucifer. This isn't about me. I'm ok. I haven't crumbled into a million pieces. I'm still here. And I'm fine.
-
-If I turn around, will you be fine or will you look away in horror?
-
-\- It doesn't matter.
-
-'Cause it does, Detective.
-
-\- No, it doesn't. Because it isn't about me. This is about you. I'm not gonna let you use me as an excuse to avoid dealing with what is behind all of this.
-
-\- You always talk about how much you hate about being blamed for humanity's sins. You know, "the devil made me do it." And I think I know why you hated it so much, because deep down, you blame yourself just as much, if not more.
-
-\- You have to stop taking responsibility for things you can't control. 
-
-\- Lucifer, you need to forgive yourself.
-
-I can't. 
-
-\- Why?
-
-I don't know how to.
-
-I don't even know where to begin.
-
-But... I want to.
-
-\- Lucifer, I think you just took the first step.
-
-——————
-
-So did I...
-
-I can't. I don't know how to. I don't even know where to begin.
-
-But... I want to.
-
 ### S04E10 神仙打架
 
 好喜欢这集的神仙打架！！帅惨了，终于所有的celestial beings能好好打一架了，老路也有西装打架的画面了。而且最关键的是！！！！他终于为了Chloe展现出King of the Hell的那种姿态了！！（虽然是unwillingly）
