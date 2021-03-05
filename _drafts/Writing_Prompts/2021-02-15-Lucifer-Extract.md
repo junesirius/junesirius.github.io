@@ -12,14 +12,6 @@ published: false
 
 [TOC]
 
-### S01E13 用自己交换Chloe
-
-I don't know if this is all part of the plan. Or if you can hear me. But if you're up there... Dad... I need a favor.
-
-I'll be the son you always wanted me to be. I'll do as you ask. Go where you want me to.
-
-In exchange, all I ask is that you protect Chloe.
-
 ### S02E03 Why do you punish people
 
 No one chooses to be a sin-eater (=punisher).
