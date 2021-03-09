@@ -3,7 +3,7 @@ layout: post
 title: 【银V】蜜罐（大纲文）
 date: 2021-02-18 17:05
 categories: ["赛博朋克2077"]
-characters: ["Johnny Silverhand", "V", "Female V"]
+characters: ["Johnny Silverhand", "V", "Female V", "Alt Cunningham", "Rogue Amendiares", "Saburo Arasaka", "Yorinobu Arasaka"]
 tags: ["银V", "强尼/V", "强尼/女V", "节制结局", "大纲文"]
 pov: 第三人称
 origin: github.io

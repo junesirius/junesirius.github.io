@@ -3,7 +3,7 @@ layout: post
 title: 【银V/V帕南】一个狗血肥皂剧故事（大纲文）
 date: 2021-02-06 03:53
 categories: ["赛博朋克2077"]
-characters: ["Johnny Silverhand", "V", "Female V", "Male V"]
+characters: ["Johnny Silverhand", "V", "Female V", "Male V", "Panam Palmer"]
 tags: ["银V", "强尼/V", "强尼/女V", "男V/帕南", "大纲文", "脑洞"]
 pov: 第三人称
 origin: Lofter
