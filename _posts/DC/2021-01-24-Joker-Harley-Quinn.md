@@ -2,9 +2,9 @@
 layout: post
 title: 【丑哈】杀死吾爱（大纲）
 date: 2021-01-24 02:52
-categories: ["其他"]
+categories: ["DC"]
 characters: ["Joker", "Harley Quinn"]
-tags: ["DC宇宙", "丑哈", "自杀小队", "大纲文"]
+tags: ["观后感", "丑哈", "自杀小队", "大纲文", "脑洞"]
 pov: 第三人称
 origin: Lofter
 ---
