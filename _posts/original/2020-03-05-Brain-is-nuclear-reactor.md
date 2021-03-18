@@ -4,7 +4,7 @@ title: 【随记】大脑是个核反应堆
 date: 2020-03-05 02:24
 categories: ["原创"]
 characters: 
-tags: ["随记"]
+tags: ["随记", "想象"]
 pov: 第一人称
 origin: github.io
 ---

@@ -4,7 +4,7 @@ title: 【情感】Memorial of Alexa
 date: 2021-02-05 16:38
 categories: ["原创"]
 characters: ["Alexa"]
-tags: ["情感", "英文"]
+tags: ["情感", "英文", "心理"]
 pov: 第一人称视角
 origin: Lofter
 ---

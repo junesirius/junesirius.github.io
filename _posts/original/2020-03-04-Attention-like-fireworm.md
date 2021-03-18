@@ -4,7 +4,7 @@ title: 【随记】注意力
 date: 2020-03-04 09:58
 categories: ["原创"]
 characters: 
-tags: ["随记"]
+tags: ["随记", "想象"]
 pov: 第一人称
 origin: github.io
 ---

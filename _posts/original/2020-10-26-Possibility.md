@@ -4,7 +4,7 @@ title: 【心理】胶片
 date: 2020-10-26 22:35
 categories: ["原创"]
 characters: 
-tags: ["心理", "生活", "想象"]
+tags: ["心理", "生活", "想象", "迷茫"]
 pov: 第一人称
 origin: Lofter、微信公众号
 ---
