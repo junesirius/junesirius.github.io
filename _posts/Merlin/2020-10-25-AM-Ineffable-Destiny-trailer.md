@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【亚梅】不可言喻的命运（长篇预告）
+title: 【亚梅】不可言喻的命运（预告）
 date: 2020-10-25 01:00
 categories: ["Crossover"]
 characters: ["Merlin", "Arthur", "Aziraphale", "Crowley"]
