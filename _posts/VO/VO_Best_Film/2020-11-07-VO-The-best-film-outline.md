@@ -7,6 +7,7 @@ characters: ["Viggo Mortensen", "Orlando Bloom"]
 tags: ["VO", "大纲文"]
 pov: 第三人称
 origin: Lofter
+long_novels: 【VO】最好的电影
 ---
 
 （特点是剧本套剧本；软科幻背景的文艺片）
