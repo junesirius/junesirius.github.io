@@ -8,9 +8,8 @@ tags: ["人类", "社会", "生活", "小说"]
 pov: 第一人称
 origin: github.io
 published: false
+long_novels: 【原创】人类观察日记
 ---
-
-（注：真的认真开始写了以后加上标签：long_novels: 【原创】人类观察日记）
 
 Chap 0：引言→就这样到了地球
 
