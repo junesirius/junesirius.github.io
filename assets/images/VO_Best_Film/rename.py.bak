@@ -1,0 +1,19 @@
+# magick convert -density 700 HW.pdf -quality 100 VO_best_film.png
+
+from os import getcwd, listdir, rename
+
+dirname = getcwd()
+prefix = 'VO_best_film-'
+
+for filename in listdir(dirname):
+    newname = ''
+    if len(filename) == 18:
+        newname = prefix + '00' + filename[13:]
+    elif len(filename) == 19:
+        newname = prefix + '0' + filename[13:]
+    elif len(filename) == 20:
+        newname = filename
+
+    if len(newname) == 20 and newname != filename:
+        rename(filename, newname)
+        print(newname)
