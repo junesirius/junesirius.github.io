@@ -8,6 +8,7 @@ tags: ["小说", "回忆", "生活", "心理", "草稿", "大纲"]
 pov: 第三人称
 origin: github.io
 published: false
+long_novels: 【原创】独自生活一整年
 ---
 
 [TOC]
