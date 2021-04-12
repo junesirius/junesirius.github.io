@@ -6,7 +6,7 @@ categories: 梅林传奇
 characters: ["Merlin", "Arthur"]
 tags: ["亚梅", "脑洞", "大纲文"]
 pov: 第三人称
-origin: github.io
+origin: 亚梅合志
 ---
 
 （午夜巴黎AU，略有借鉴DW壁炉女孩、复联四）
