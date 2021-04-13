@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【读后感】关于预兆（牧羊少年奇幻之旅）
+title: 【读后感】《牧羊少年奇幻之旅》（关于预兆）
 date: 2020-12-09 18:31
 categories: 读后感
 characters: 

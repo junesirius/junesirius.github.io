@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【读后感】关于天命（牧羊少年奇幻之旅）
+title: 【读后感】《牧羊少年奇幻之旅》（关于天命）
 date: 2020-12-09 01:34
 categories: 读后感
 characters: 
