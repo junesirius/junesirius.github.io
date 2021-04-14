@@ -14,7 +14,7 @@ title: 关于
 
 <!-- Count reader number -->
 <br>
-<span class="origin-style" style="color: #0000; text-align: right;">
+<span class="wordcount-style" style="color: #0000; text-align: right;">
     <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
     <span id="busuanzi_container_page_pv" style="display: none">
         本文阅读量：<span id="busuanzi_value_page_pv"></span>次
