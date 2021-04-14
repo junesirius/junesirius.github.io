@@ -58,7 +58,7 @@
 
 ### [feed.xml](https://github.com/junesirius/junesirius.github.io/blob/master/feed.xml)
 
-在“https://junesirius.github.io/feed.xml”中集成显示所有文章信息。本文档无需改动。
+在“[https://junesirius.github.io/feed.xml](https://junesirius.github.io/feed.xml)”中集成显示所有文章信息。本文档无需改动。
 
 ### [LICENSE](https://github.com/junesirius/junesirius.github.io/blob/master/LICENSE)
 
