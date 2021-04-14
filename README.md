@@ -223,4 +223,4 @@
 5. 在命令行中运行`jekyll server --drafts`可将`_drafts`中文章也展示在本地编译的个站中；
 6. 在命令行中运行`jekyll server --port xxxx`可将默认`4000`端口修改为任意端口的`localhost: xxxx`；
 7. gemlock最新一次自动更新后，`jekyll`命令可能失效，可使用`bundle exec jekyll`命令作为替代，`--port`和`--drafts`用法仍同上；
-8. 详细的jekyll文档参见：https://jekyllrb.com/docs/。
+8. 详细的jekyll文档参见：[https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)。
