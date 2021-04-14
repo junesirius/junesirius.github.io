@@ -8,7 +8,38 @@
 
 ## 目录
 
-[TOC]
+- [基本信息设置文件](#基本信息设置文件)
+  * [\_config.yml](#_configyml)
+  * [\_data/description.yml](#_datadescriptionyml)
+  * [feed.xml](#feedxml)
+  * [LICENSE](#license)
+  * [robots.txt](#robotstxt)
+- [排版布局相关文件](#排版布局相关文件)
+  * [\_layouts](#_layouts)
+    + [default.html](#defaulthtml)
+    + [post.html](#posthtml)
+  * [\_includes](#_includes)
+    + [header.html](#headerhtml)
+    + [footer.html](#footerhtml)
+    + [sidebar.html](#sidebarhtml)
+  * [\_sass](#_sass)
+    + [theme.scss](#themescss)
+    + [custom\_color.scss](#custom_colorscss)
+    + [syntax.scss](#syntaxscss)
+- [网站主要界面](#网站主要界面)
+  * [index.html（首页）](#indexhtml首页)
+  * [categories.md（分类页）](#categoriesmd分类页)
+  * [categories-detail.md（分类细节）](#categories-detailmd分类细节)
+  * [tags.md（标签页）](#tagsmd标签页)
+  * [characters.md（人物页）](#charactersmd人物页)
+  * [longnovels.md（长篇小说页）](#longnovelsmd长篇小说页)
+  * [archive.md（归档页）](#archivemd归档页)
+  * [404.md（报错页）](#404md报错页)
+- [存文相关文件](#存文相关文)
+  * [\_posts](#_posts)
+  * [\_drafts](#_drafts)
+  * [assets](#assets)
+- [本地调试基本步骤](#本地调试基本步骤)
 
 ## 基本信息设置文件
 
@@ -72,28 +103,28 @@
 - 在\<head\>的\<link rel="icon"\>标签下设置本站的图标，图标存储位置为[favicon.jpg](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/favicon.jpg)
 - 设置导航栏固定在窗口顶部，不随页面下滑而改变位置
 - 导航栏按钮包括：
-  - 左上角笔名、“首页”：自动跳转至本站首页
-  - “分类”：跳转至categories.html
-  - “标签”：跳转至tags.html
-  - “人物”：跳转至characters.html
-  - “长篇”：跳转至longnovels.html
-  - “归档”：跳转至archive.html
+  - 左上角笔名、**首页**：自动跳转至本站首页
+  - **分类**：跳转至categories.html
+  - **标签**：跳转至tags.html
+  - **人物**：跳转至characters.html
+  - **长篇**：跳转至longnovels.html
+  - **归档**：跳转至archive.html
 
 #### [footer.html](https://github.com/junesirius/junesirius.github.io/tree/master/_includes/footer.html)
 
-- 版权：所有者为本站作者（同时标注中文及英文笔名），时间为当前年份。
-- 致谢：致谢者信息及链接存储于[\_data/thanks.yml](https://github.com/junesirius/junesirius.github.io/blob/master/_data/thanks.yml)。
+- **版权**：所有者为本站作者（同时标注中文及英文笔名），时间为当前年份。
+- **致谢**：致谢者信息及链接存储于[\_data/thanks.yml](https://github.com/junesirius/junesirius.github.io/blob/master/_data/thanks.yml)。
 
 #### [sidebar.html](https://github.com/junesirius/junesirius.github.io/tree/master/_sidebar.html)
 
 依次显示：头像、个签、最近更新、热门圈子、热门标签、长篇连载
 
-- 头像：图片与本站图标相同（也可选择不同图片），存储于[favicon.jpg](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/favicon.jpg)，显示为圆形。
-- 个签：文字居中排列，内容存储于[\_data/description.yml](https://github.com/junesirius/junesirius.github.io/blob/master/_data/description.yml)。
-- 最近更新：从所有更新的文章中自动选取最新的五篇，按从新到旧顺序显示标题并提供跳转链接。显示文章数量可进行更改。
-- 热门圈子：统计所有`categories`标签，选取文章数量最多的五个分类，按从多到少顺序显示类别名称及对应文章数量，点击链接可跳转至`categories.html`中对应分类的位置。显示的热门分类数量可进行更改。
-- 热门标签：统计所有`tags`标签，选取文章数量最多的五个标签，按从多到少顺序显示标签名称及对应文章数量，点击链接可跳转至`tags.html`中对应标签的位置，查看拥有该标签的所有文章。显示的热门标签数量可进行更改。
-- 长篇连载：按字母顺序显示所有长篇小说标题，点击链接可跳转至`longnovels.html`中对应位置。
+- **头像**：图片与本站图标相同（也可选择不同图片），存储于[favicon.jpg](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/favicon.jpg)，显示为圆形。
+- **个签**：文字居中排列，内容存储于[\_data/description.yml](https://github.com/junesirius/junesirius.github.io/blob/master/_data/description.yml)。
+- **最近更新**：从所有更新的文章中自动选取最新的五篇，按从新到旧顺序显示标题并提供跳转链接。显示文章数量可进行更改。
+- **热门圈子**：统计所有`categories`标签，选取文章数量最多的五个分类，按从多到少顺序显示类别名称及对应文章数量，点击链接可跳转至`categories.html`中对应分类的位置。显示的热门分类数量可进行更改。
+- **热门标签**：统计所有`tags`标签，选取文章数量最多的五个标签，按从多到少顺序显示标签名称及对应文章数量，点击链接可跳转至`tags.html`中对应标签的位置，查看拥有该标签的所有文章。显示的热门标签数量可进行更改。
+- **长篇连载**：按字母顺序显示所有长篇小说标题，点击链接可跳转至`longnovels.html`中对应位置。
 
 ### [\_sass](https://github.com/junesirius/junesirius.github.io/tree/master/_sass)
 
@@ -117,7 +148,7 @@
 
 ### [index.html（首页）](https://github.com/junesirius/junesirius.github.io/blob/master/index.html)
 
-在index.html按时间顺序由新到旧显示文章日期、标题、缩略内容。每页文章数由`\_config.yml`中`paginator`后的数值进行调整，本站采用每页7篇文章。
+在`index.html`按时间顺序由新到旧显示文章日期、标题、缩略内容。每页文章数由[\_config.yml](https://github.com/junesirius/junesirius.github.io/blob/master/_config.yml)中`paginator`后的数值进行调整，本站采用每页7篇文章。
 
 每篇文章的缩略内容由各文章页台头`description`标签后内容确定，若该标签为空，则截取除空格外的前150字符（该数值可调整）。
 
@@ -125,35 +156,35 @@
 
 ### [categories.md（分类页）](https://github.com/junesirius/junesirius.github.io/blob/master/categories.md)
 
-在categories.html页面按字母顺序依序排列所有出现过的文章分类（台头的`categories`），在每个分类下按字母顺序列举所有属于该分类的文章中出现过的标签及人物。
+在`categories.html`页面按字母顺序依序排列所有出现过的文章分类（台头的`categories`），在每个分类下按字母顺序列举所有属于该分类的文章中出现过的标签及人物。
 
 点击各标签可跳转至`tags.html`页面的对应标签位置，点击各人物可跳转至`characters.html`页面的对应位置，点击分类的标题可跳转至`categories-detail.html`页面的对应位置。
 
 ### [categories-detail.md（分类细节）](https://github.com/junesirius/junesirius.github.io/blob/master/categories-detail.md)
 
-在categories-detail.html页面按字母顺序依序排列所有出现过的文章分类（台头的`categories`），在每个分类下按时间顺序从新到旧列举所有属于该分类的文章。点击文章标题可进入文章页。
+在`categories-detail.html`页面按字母顺序依序排列所有出现过的文章分类（台头的`categories`），在每个分类下按时间顺序从新到旧列举所有属于该分类的文章。点击文章标题可进入文章页。
 
 ### [tags.md（标签页）](https://github.com/junesirius/junesirius.github.io/blob/master/tags.md)
 
-在tags.html页面按字母顺序依序排列所有出现过的标签（台头的`tags`），在每个标签下按时间顺序从新到旧列举所有注有该标签的文章。点击文章标题可进入文章页。
+在`tags.html`页面按字母顺序依序排列所有出现过的标签（台头的`tags`），在每个标签下按时间顺序从新到旧列举所有注有该标签的文章。点击文章标题可进入文章页。
 
 ### [characters.md（人物页）](https://github.com/junesirius/junesirius.github.io/blob/master/characters.md)
 
-在characters.html页面按字母顺序依序排列所有出现过的人物（台头的`characters`），在每个人物下按时间顺序从新到旧列举所有出现该人物的文章。点击文章标题可进入文章页。
+在`characters.html`页面按字母顺序依序排列所有出现过的人物（台头的`characters`），在每个人物下按时间顺序从新到旧列举所有出现该人物的文章。点击文章标题可进入文章页。
 
 ### [longnovels.md（长篇小说页）](https://github.com/junesirius/junesirius.github.io/blob/master/longnovels.md)
 
-在longnovels.html页面按字母顺序依序排列所有出现过的长篇小说（台头的`long_novels`），在每个长篇小说标题下按时间顺序从新到旧列举所有属于该长篇系列的连载文章。点击文章标题可进入文章页。
+在`longnovels.html`页面按字母顺序依序排列所有出现过的长篇小说（台头的`long_novels`），在每个长篇小说标题下按时间顺序从新到旧列举所有属于该长篇系列的连载文章。点击文章标题可进入文章页。
 
 ### [archive.md（归档页）](https://github.com/junesirius/junesirius.github.io/blob/master/archive.md)
 
-在archive.html页面按时间顺序从新到旧列举所有文章标题，并在右侧标注发表时间。点击文章标题可进入文章页。
+在`archive.html`页面按时间顺序从新到旧列举所有文章标题，并在右侧标注发表时间。点击文章标题可进入文章页。
 
 ### [404.md（报错页）](https://github.com/junesirius/junesirius.github.io/blob/master/404.md)
 
-当无法在主站根目录下找到对应页面时自动跳转到404.html页面，显示“404 未找到页面 Page not found”。本页较为简陋，可进行更多设计。
+当无法在主站根目录下找到对应页面时自动跳转到`404.html`页面，显示“404 未找到页面 Page not found”。本页较为简陋，可进行更多设计。
 
-*一个冷知识*：当直接输入404.html时显示的“未找到页面”是一句谎言，因为实际已找到这个404.html网页，否则不会出现这句提示。
+*一个冷知识*：当直接输入404.html时显示的“未找到页面”是一句谎言，因为实际已找到这个`404.html`网页，否则不会出现这句提示。
 
 ## 存文相关文件
 
@@ -163,7 +194,7 @@
 
 文章台头需被包含在两行`---`之间，有以下内容：
 
-- layout: post
+- layout: `post`，不用修改
 - title: 文章标题，需小心特殊字符可能无法被html语言编译，例如`&`需用`&amp;`代替。
 - date: 发表时间，格式为`年-月-日 分:秒`。不可早于真实时间，否则无法编译成功。
 - categories: 文章所属分类，同一篇文章可属于多个分类，由`["分类1", "分类2"]`的格式进行区分，注意此处的引号和逗号都必须是英文字符。
@@ -171,9 +202,9 @@
 - tags: 文章标签，拥有多个标签时用`["标签1", "标签2"]`的格式进行区分。
 - pov: 文章写作视角，可写`第一/二/三人称`。此项可省略。
 - origin: 文章首发位置，未向外发表的文章可省略此项或写`github`。
-- long_novels: 同一篇长篇连载小说的各文章的此项需统一，这样才能在longnovels.html页面被归类在同一个长篇标题下。
-- description: 文章简介，用于展示在首页，字数不限。若省略，则在首页自动展示文章前150字（该字数可在index.html页调整）。
-- published: `true`/`false`。此项默认为`true`，若填写`false`，则该文章不会出现在个站首页，即使本地调试时使用“draft”选项也不会出现。
+- long_novels: 同一篇长篇连载小说的各文章的此项需统一，这样才能在`longnovels.html`页面被归类在同一个长篇标题下。
+- description: 文章简介，用于展示在首页，字数不限。若省略，则在首页自动展示文章前150字（该字数可在`index.html`页调整）。
+- published: `true`/`false`。此项默认为`true`，若填写`false`，则该文章不会出现在个站首页，即使本地调试时使用`--drafts`选项也不会出现。
 
 ### [\_drafts](https://github.com/junesirius/junesirius.github.io/blob/master/_drafts)
 
