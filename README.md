@@ -148,7 +148,7 @@
 
 ### [index.html（首页）](https://github.com/junesirius/junesirius.github.io/blob/master/index.html)
 
-在`index.html`按时间顺序由新到旧显示文章日期、标题、缩略内容。每页文章数由[\_config.yml](https://github.com/junesirius/junesirius.github.io/blob/master/_config.yml)中`paginator`后的数值进行调整，本站采用每页7篇文章。
+在`index.html`页面按时间顺序由新到旧显示文章日期、标题、缩略内容。每页文章数由[\_config.yml](https://github.com/junesirius/junesirius.github.io/blob/master/_config.yml)中`paginator`后的数值进行调整，本站采用每页7篇文章。
 
 每篇文章的缩略内容由各文章页台头`description`标签后内容确定，若该标签为空，则截取除空格外的前150字符（该数值可调整）。
 
@@ -156,35 +156,35 @@
 
 ### [categories.md（分类页）](https://github.com/junesirius/junesirius.github.io/blob/master/categories.md)
 
-在`categories.html`页面按字母顺序依序排列所有出现过的文章分类（台头的`categories`），在每个分类下按字母顺序列举所有属于该分类的文章中出现过的标签及人物。
+用于自动生成`categories.html`静态页面，按字母顺序依序排列所有出现过的文章分类（提取自各文章台头的`categories`信息），在每个分类下按字母顺序列举所有属于该分类的文章中出现过的标签及人物。
 
 点击各标签可跳转至`tags.html`页面的对应标签位置，点击各人物可跳转至`characters.html`页面的对应位置，点击分类的标题可跳转至`categories-detail.html`页面的对应位置。
 
 ### [categories-detail.md（分类细节）](https://github.com/junesirius/junesirius.github.io/blob/master/categories-detail.md)
 
-在`categories-detail.html`页面按字母顺序依序排列所有出现过的文章分类（台头的`categories`），在每个分类下按时间顺序从新到旧列举所有属于该分类的文章。点击文章标题可进入文章页。
+用于自动生成`categories-detail.html`静态页面，按字母顺序依序排列所有出现过的文章分类（提取自各文章台头的`categories`信息），在每个分类下按时间顺序从新到旧列举所有属于该分类的文章。点击文章标题可进入文章页。
 
 ### [tags.md（标签页）](https://github.com/junesirius/junesirius.github.io/blob/master/tags.md)
 
-在`tags.html`页面按字母顺序依序排列所有出现过的标签（台头的`tags`），在每个标签下按时间顺序从新到旧列举所有注有该标签的文章。点击文章标题可进入文章页。
+用于自动生成`tags.html`静态页面，按字母顺序依序排列所有出现过的标签（提取自各文章台头的`tags`信息），在每个标签下按时间顺序从新到旧列举所有注有该标签的文章。点击文章标题可进入文章页。
 
 ### [characters.md（人物页）](https://github.com/junesirius/junesirius.github.io/blob/master/characters.md)
 
-在`characters.html`页面按字母顺序依序排列所有出现过的人物（台头的`characters`），在每个人物下按时间顺序从新到旧列举所有出现该人物的文章。点击文章标题可进入文章页。
+用于自动生成`characters.html`静态页面，按字母顺序依序排列所有出现过的人物（提取自各文章台头的`characters`信息），在每个人物下按时间顺序从新到旧列举所有出现该人物的文章。点击文章标题可进入文章页。
 
 ### [longnovels.md（长篇小说页）](https://github.com/junesirius/junesirius.github.io/blob/master/longnovels.md)
 
-在`longnovels.html`页面按字母顺序依序排列所有出现过的长篇小说（台头的`long_novels`），在每个长篇小说标题下按时间顺序从新到旧列举所有属于该长篇系列的连载文章。点击文章标题可进入文章页。
+用于自动生成`longnovels.html`静态页面，按字母顺序依序排列所有出现过的长篇小说（提取自各文章台头的`long_novels`信息），在每个长篇小说标题下按时间顺序从新到旧列举所有属于该长篇系列的连载文章。点击文章标题可进入文章页。
 
 ### [archive.md（归档页）](https://github.com/junesirius/junesirius.github.io/blob/master/archive.md)
 
-在`archive.html`页面按时间顺序从新到旧列举所有文章标题，并在右侧标注发表时间。点击文章标题可进入文章页。
+用于自动生成`archive.html`静态页面，按时间顺序从新到旧列举所有文章标题，并在右侧标注发表时间。点击文章标题可进入文章页。
 
 ### [404.md（报错页）](https://github.com/junesirius/junesirius.github.io/blob/master/404.md)
 
-当无法在主站根目录下找到对应页面时自动跳转到`404.html`页面，显示“404 未找到页面 Page not found”。本页较为简陋，可进行更多设计。
+用于自动生成`404.html`静态页面。当无法在主站根目录下找到指定页面时自动跳转至`404.html`页面，显示“404 未找到页面 Page not found”。本页较为简陋，可进行更多设计。
 
-*一个冷知识*：当直接输入404.html时显示的“未找到页面”是一句谎言，因为实际已找到这个`404.html`网页，否则不会出现这句提示。
+*一个冷知识*：当直接在网址栏寻找页面`404.html`时显示的“未找到页面”是一句谎言，因为实际已找到这个`404.html`网页，否则不会出现这句提示。
 
 ## 存文相关文件
 
