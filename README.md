@@ -115,7 +115,7 @@
 - **版权**：所有者为本站作者（同时标注中文及英文笔名），时间为当前年份。
 - **致谢**：致谢者信息及链接存储于[\_data/thanks.yml](https://github.com/junesirius/junesirius.github.io/blob/master/_data/thanks.yml)。
 
-#### [sidebar.html](https://github.com/junesirius/junesirius.github.io/tree/master/_sidebar.html)
+#### [sidebar.html](https://github.com/junesirius/junesirius.github.io/tree/master/_includes/sidebar.html)
 
 依次显示：头像、个签、最近更新、热门圈子、热门标签、长篇连载
 
