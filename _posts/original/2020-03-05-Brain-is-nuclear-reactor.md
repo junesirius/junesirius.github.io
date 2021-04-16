@@ -6,7 +6,7 @@ categories: ["原创"]
 characters: 
 tags: ["随记", "想象"]
 pov: 第一人称
-origin: github.io
+origin: 个站
 ---
 
 大脑是个核反应堆，聚变或者裂变，释放巨大的能量，能量多到几乎要爆炸，但如果真的让它肆意爆炸，那么之后剩下的就会只剩下废墟

@@ -6,7 +6,7 @@ categories: ["原创"]
 characters: 
 tags: ["随记", "情感"]
 pov: 第一人称
-origin: github.io
+origin: 个站
 ---
 
 \- 说出真相并不会让现实变得更加难以忍受

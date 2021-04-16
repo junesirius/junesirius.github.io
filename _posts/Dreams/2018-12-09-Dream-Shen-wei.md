@@ -6,7 +6,7 @@ categories: ["梦记"]
 characters: ["沈巍"]
 tags: ["梦记", "镇魂"]
 pov: 第一人称视角
-origin: github.io
+origin: 个站
 ---
 
 我走在一个伯克利的校园里，校园里的地势倾角比真实的要平坦得多。我路过了一个花园，里面还在喷水。

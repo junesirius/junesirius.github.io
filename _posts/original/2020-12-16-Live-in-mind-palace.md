@@ -6,7 +6,7 @@ categories: ["原创"]
 characters: 
 tags: ["心理", "生活", "思维宫殿", "失真感", "失控感", "想象"]
 pov: 第一人称
-origin: github.io
+origin: 个站
 ---
 
 这整个世界都是我的思维宫殿。

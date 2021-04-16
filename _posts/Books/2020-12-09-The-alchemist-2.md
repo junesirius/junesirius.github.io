@@ -6,7 +6,7 @@ categories: 读后感
 characters: 
 tags: ["读后感", "命运", "选择", "牧羊少年奇幻之旅", "吸引力法则", "死亡", "德米安"]
 pov: 第一人称
-origin: github.io
+origin: 个站
 ---
 
 预兆，天命，选择。

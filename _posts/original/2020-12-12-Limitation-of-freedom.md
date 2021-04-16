@@ -6,7 +6,7 @@ categories: ["原创"]
 characters: 
 tags: ["随记", "生活", "心理", "自由", "读后感", "旅行", "回忆", "失控感"]
 pov: 第一人称
-origin: github.io
+origin: 个站
 ---
 
 在这个世界，自由的极限是普朗克常数除以4π。

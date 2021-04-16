@@ -6,7 +6,7 @@ categories: ["原创"]
 characters: 
 tags: ["随记", "心理"]
 pov: 第一人称
-origin: github.io
+origin: 个站
 ---
 
 总感觉宇宙又在通过各种方式回答我的提问和迷茫了。比如眼前的这一个，恋与里的台词，仿佛又试图在提醒我，提点我，启示我。

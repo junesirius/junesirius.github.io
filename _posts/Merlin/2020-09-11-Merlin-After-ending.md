@@ -6,7 +6,7 @@ categories: 梅林传奇
 characters: ["Merlin", "Arthur"]
 tags: ["亚梅", "脑洞", "黑化"]
 pov: 第三人称
-origin: github.io
+origin: 个站
 ---
 
 最后一个画面，活了千年的老梅林在现代仍然日日地去阿瓦隆湖边等待他的亚瑟，替他守着他的王国。这实在是创造了太多/更多的故事和可能性。

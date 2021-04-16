@@ -6,7 +6,7 @@ categories: ["梦记"]
 characters: ["Andrew Garfield", "Merlin"]
 tags: ["梦记", "音乐剧", "法亚瑟"]
 pov: 第一人称视角
-origin: github.io
+origin: 个站
 ---
 
 加菲（Andrew Garfield）脸的梅林叫我们准备一下去外面餐馆吃饭，在我的认知中我知道他是我的父亲。他的模样有点像是法亚瑟的梅林（不是梅林传奇的梅林），年龄比较大，发型介于法亚瑟梅林的灰白长发和加菲原本的黑发之间。

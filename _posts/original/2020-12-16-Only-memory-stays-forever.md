@@ -6,7 +6,7 @@ categories: ["原创"]
 characters: 
 tags: ["情感", "心理", "回忆", "死亡"]
 pov: 第二人称
-origin: Lofter、github.io
+origin: Lofter、个站
 ---
 
 是什么，来了就永远不会走，只要停留过就会永远留下来。

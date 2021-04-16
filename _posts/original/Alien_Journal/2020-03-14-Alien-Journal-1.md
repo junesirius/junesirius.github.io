@@ -6,7 +6,7 @@ categories: ["原创"]
 characters: 
 tags: ["人类", "社会", "生活", "小说"]
 pov: 第一人称
-origin: github.io
+origin: 个站
 long_novels: 【原创】人类观察日记
 ---
 

@@ -6,7 +6,7 @@ categories: ["原创"]
 characters: 
 tags: ["随记"]
 pov: 第一人称
-origin: github.io
+origin: 个站
 ---
 
 或许所有人都曾想过拥有时间控制的能力，即使不能逆转时间，暂停整个世界的时间等自己把所有任务完成然后继续让时间前进也是在deadline到来之前经常会有的想法。

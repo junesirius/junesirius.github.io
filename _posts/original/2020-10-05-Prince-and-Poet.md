@@ -6,7 +6,7 @@ categories: ["原创"]
 characters: 
 tags: ["情感", "童话", "小说", "待扩充"]
 pov: 第三人称
-origin: github.io
+origin: 个站
 ---
 
 王子坐在他黑暗的宫殿里看月亮。然后听到了一个小心翼翼的敲门声：“我能进来吗？”

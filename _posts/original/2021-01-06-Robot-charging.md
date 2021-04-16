@@ -6,7 +6,7 @@ categories: 原创
 characters: 
 tags: ["心理", "抑郁", "想象"]
 pov: 第一人称
-origin: github.io
+origin: 个站
 ---
 
 一个机器人必须在电量耗尽前把自己送回插座上，而如果他返程得太迟，就会在路上没电，然后永远回不去了。这就是机器人的死亡。
