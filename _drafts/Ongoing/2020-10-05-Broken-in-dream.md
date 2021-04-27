@@ -6,7 +6,7 @@ categories: 原创
 characters: 
 tags: ["情感", "心理"]
 pov: 第三人称
-origin: github.io
+origin: 个站
 ---
 
 陶瓷做成的孩子

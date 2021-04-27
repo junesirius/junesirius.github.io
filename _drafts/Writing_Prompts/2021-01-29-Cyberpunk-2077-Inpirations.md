@@ -6,7 +6,7 @@ categories: ["赛博朋克2077"]
 characters: ["Johnny Silverhand", "V"]
 tags: ["记梗", "强尼/V", "强尼/女V", "强尼/男V"]
 pov: 第三人称
-origin: github.io
+origin: 个站
 published: false
 ---
 

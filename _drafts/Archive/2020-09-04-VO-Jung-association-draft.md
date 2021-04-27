@@ -6,7 +6,7 @@ categories: ["中土", "RPS"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]
 tags: ["VO", "心理"]
 pov: 第三人称
-origin: github.io
+origin: 个站
 ---
 
 [TOC]

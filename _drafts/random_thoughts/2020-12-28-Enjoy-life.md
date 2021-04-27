@@ -6,7 +6,7 @@ categories: 原创
 characters: 
 tags: ["随记"]
 pov: 第一人称
-origin: github.io
+origin: 个站
 ---
 
 13:42

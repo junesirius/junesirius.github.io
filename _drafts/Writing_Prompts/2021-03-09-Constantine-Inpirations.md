@@ -6,7 +6,7 @@ categories: ["DC"]
 characters: ["John Constantine", "Lucifer Morningstar"]
 tags: ["记梗", "路康", "康路", "脑洞"]
 pov: 第三人称
-origin: github.io
+origin: 个站
 published: false
 ---
 

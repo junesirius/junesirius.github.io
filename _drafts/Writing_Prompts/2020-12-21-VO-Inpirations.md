@@ -6,7 +6,7 @@ categories: ["中土", "RPS"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]
 tags: ["VO", "记梗"]
 pov: 第三人称
-origin: google doc
+origin: 手机备忘录
 published: false
 ---
 

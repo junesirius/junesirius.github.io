@@ -6,7 +6,7 @@ categories: 中土
 characters: ["Aragorn", "Legolas"]
 tags: ["AL", "记梗"]
 pov: 第三人称
-origin: google doc
+origin: 手机备忘录
 published: false
 ---
 

@@ -6,7 +6,7 @@ categories: 原创
 characters: 
 tags: ["情感", "心理", "小说"]
 pov: 第三人称
-origin: github.io
+origin: 个站
 ---
 
 一个收集眼泪的人

@@ -6,7 +6,7 @@ categories: ["其他"]
 characters: 
 tags: ["记梗"]
 pov: 第三人称
-origin: 名人朋友圈、贴吧、github.io
+origin: 名人朋友圈、贴吧、个站
 published: false
 ---
 

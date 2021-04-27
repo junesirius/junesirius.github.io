@@ -6,7 +6,7 @@ categories: ["梅林传奇"]
 characters: ["Arthur", "Merlin"]
 tags: ["亚梅", "情感"]
 pov: 第三人称
-origin: github.io
+origin: 个站
 ---
 
 梅林在湖边等了亚瑟千年

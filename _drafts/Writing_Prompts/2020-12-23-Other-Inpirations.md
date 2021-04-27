@@ -6,7 +6,7 @@ categories: ["其他"]
 characters: 
 tags: ["记梗"]
 pov: 第三人称
-origin: github.io
+origin: 个站
 published: false
 ---
 

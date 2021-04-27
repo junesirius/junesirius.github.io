@@ -6,7 +6,7 @@ categories: ["神秘博士"]
 characters: ["Cyberman"]
 tags: ["情感", "心理"]
 pov: 第三人称
-origin: github.io
+origin: 个站
 ---
 
 （Cyberman，把情感剔除，自己亲手把情感剥离出去，因为疼

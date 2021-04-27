@@ -4,7 +4,7 @@ title: 【欧美群像】一切终将结束，即使不以现在的方式（草�
 date: 2020-08-14 22:39
 tags: ["欧美群像"]
 pov: 第三人称
-origin: github.io
+origin: 个站
 description: （全是巨刀预警，负能太多，非常压抑和黑暗，不建议看）
 ---
 
