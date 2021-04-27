@@ -4,7 +4,7 @@ title: 【心理】杀死想象中的自己
 date: 2021-04-16 05:40
 categories: 原创
 characters: 
-tags: ["心理", "死亡", "想象"]
+tags: ["心理", "死亡", "想象", "血"]
 pov: 第一人称
 origin: 个站
 ---
