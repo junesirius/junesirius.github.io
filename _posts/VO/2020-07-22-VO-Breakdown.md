@@ -4,7 +4,7 @@ title: 【VO】心理崩溃
 date: 2020-07-22 20:47
 categories: ["中土", "RPS"]
 characters: ["Orlando Bloom", "Viggo Mortensen"]
-tags: ["VO", "心理", "死亡"]
+tags: ["VO", "心理", "死亡", "抑郁"]
 pov: 第三人称
 origin: Lofter
 description: （一个乱七八糟心理崩溃时候乱码的片段，人物只是借用名字，写的心理都是我自己的。）
