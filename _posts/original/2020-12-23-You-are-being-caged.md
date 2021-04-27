@@ -4,7 +4,7 @@ title: 【心理】You are being caged, for your feathers are too bright
 date: 2020-12-23 22:22
 categories: ["原创"]
 characters: 
-tags: ["心理", "回忆", "自由", "束缚感"]
+tags: ["心理", "回忆", "自由", "束缚感", "受困感"]
 pov: 第一人称
 origin: 个站
 ---
