@@ -4,7 +4,7 @@ title: 【随记】美丽的幻觉
 date: 2020-12-16 03:06
 categories: ["原创"]
 characters: 
-tags: ["随记", "情感"]
+tags: ["随记", "情感", "逃避"]
 pov: 第一人称
 origin: 个站
 ---

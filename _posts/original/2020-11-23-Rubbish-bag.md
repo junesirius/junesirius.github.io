@@ -4,7 +4,7 @@ title: 【心理】垃圾袋
 date: 2020-11-23 01:41
 categories: ["原创"]
 characters: 
-tags: ["心理", "想象"]
+tags: ["心理", "想象", "自我厌恶"]
 pov: 第一人称
 origin: Lofter
 ---

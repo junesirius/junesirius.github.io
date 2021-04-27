@@ -4,7 +4,7 @@ title: 【童话】血玫瑰
 date: 2021-04-15 06:10
 categories: 原创
 characters: 
-tags: ["情感", "心理", "想象", "童话", "小说"]
+tags: ["情感", "心理", "想象", "童话", "小说", "血"]
 pov: 第三人称
 origin: Lofter
 ---

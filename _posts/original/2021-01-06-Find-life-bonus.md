@@ -4,7 +4,7 @@ title: 【随记】触发人生彩蛋
 date: 2021-01-06 23:15
 categories: 原创
 characters: 
-tags: ["随记", "想象"]
+tags: ["随记", "想象", "生活"]
 pov: 第一人称
 origin: 个站
 ---
