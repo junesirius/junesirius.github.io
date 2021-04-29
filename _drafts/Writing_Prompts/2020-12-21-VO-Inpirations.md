@@ -160,14 +160,6 @@ O去V的画展，第一次见，远远悄悄地互相打听，双向暗恋
 
 （来源：V的画，“seems a long time ago”被划掉，改成了“seems such a short time ago, life has just begun.”）
 
-### 26. 名字
-
-见面先聊天，过了很久要告别的时候才想起来一直没问名字
-
-（来源：自己）
-
-（准备用到圣诞联文里）
-
 ### 27. 《The furthest distance in the world》
 
 歌词，每句都能套上
