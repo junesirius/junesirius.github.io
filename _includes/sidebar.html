@@ -36,7 +36,7 @@
         {% for category in sortedcategories %}
             {% if category[1].size == i %}
                 <li>
-                    <a href="{{ site.baseurl }}/categories.html#{{ category[0] }}">{{ category[0] }} ({{ category[1].size }})</a>
+                    <a href="{{ site.baseurl }}/categories#{{ category[0] }}">{{ category[0] }} ({{ category[1].size }})</a>
                     {% assign category_display_count = category_display_count | plus: 1 %}
                 </li>
             {% endif %}
@@ -63,7 +63,7 @@
         {% for tag in sortedtags %}
             {% if tag[1].size == i %}
                 <li>
-                    <a href="{{ site.baseurl }}/tags.html#{{ tag[0] }}">{{ tag[0] }} ({{ tag[1].size }})</a>
+                    <a href="{{ site.baseurl }}/tags#{{ tag[0] }}">{{ tag[0] }} ({{ tag[1].size }})</a>
                     {% assign tag_display_count = tag_display_count | plus: 1 %}
                 </li>
             {% endif %}
@@ -89,7 +89,7 @@
         {% assign sorted_longnovel = long_novel_names | sort %}
         {% for longnovel in sorted_longnovel %}
             <li>
-                <a href="{{ site.baseurl}}/longnovels.html#{{ longnovel }}"> {{ longnovel }}</a>
+                <a href="{{ site.baseurl}}/longnovels#{{ longnovel }}"> {{ longnovel }}</a>
             </li>
         {% endfor %}
     </ul>
