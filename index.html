@@ -6,44 +6,44 @@ title: 首页
 {% for post in paginator.posts %}
 <div class="well article">
 
-    <span class="post-date">
-        {% assign date_format = site.date_format.title %}
-        {{ post.date | date: date_format }}
-    </span>
-    
-    <h2>
-        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-    </h2>
-    
-    <div class="post-description">
-      {% if post.description == null %}
-        {{ post.content | strip_html | strip_newlines | truncate: 150 }}
-      {% else %}
-        {{ post.description }}
-      {% endif %}
-    </div>
-    
+        <span class="post-date">
+                {% assign date_format = site.date_format.title %}
+                {{ post.date | date: date_format }}
+        </span>
+        
+        <h2>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </h2>
+        
+        <div class="post-description">
+            {% if post.description == null %}
+                {{ post.content | strip_html | strip_newlines | truncate: 150 }}
+            {% else %}
+                {{ post.description }}
+            {% endif %}
+        </div>
+        
 </div>
 {% endfor %}
 
 <div class="pagination" style="width: 100%;">
-  <div class="col-md-3" style="text-align: left;">
-  {% if paginator.previous_page %}
-      {% if paginator.previous_page == 1 %}
-        <a class="btn btn-default" href="{{ site.baseurl }}" class="previous">{{ trans.newer_page }}</a>
-      {% else %}
-        <a class="btn btn-default" href="{{ site.baseurl }}/page{{ paginator.previous_page }}" class="previous">{{ trans.newer_page }}</a>
-      {% endif %}
-  {% endif %}
-  </div>
-  
-  <div class="col-md-6" style="text-align: center;">
-  <span class="page_number ">{{ trans.page }}: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-  </div>
-  
-  <div class="col-md-3" style="text-align: right;">
-  {% if paginator.next_page %}
-    <a class="btn btn-default" href="{{ site.baseurl }}/page{{ paginator.next_page }}" class="next">{{ trans.older_page }}</a>
-  {% endif %}
-  </div>
+    <div class="col-md-3" style="text-align: left;">
+    {% if paginator.previous_page %}
+            {% if paginator.previous_page == 1 %}
+                <a class="btn btn-default" href="{{ site.baseurl }}" class="previous">{{ trans.newer_page }}</a>
+            {% else %}
+                <a class="btn btn-default" href="{{ site.baseurl }}/page{{ paginator.previous_page }}" class="previous">{{ trans.newer_page }}</a>
+            {% endif %}
+    {% endif %}
+    </div>
+    
+    <div class="col-md-6" style="text-align: center;">
+    <span class="page_number ">{{ trans.page }}: {{ paginator.page }} of {{ paginator.total_pages }}</span>
+    </div>
+    
+    <div class="col-md-3" style="text-align: right;">
+    {% if paginator.next_page %}
+        <a class="btn btn-default" href="{{ site.baseurl }}/page{{ paginator.next_page }}" class="next">{{ trans.older_page }}</a>
+    {% endif %}
+    </div>
 </div>
