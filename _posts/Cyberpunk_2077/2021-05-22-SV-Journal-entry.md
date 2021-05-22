@@ -25,6 +25,8 @@ So you've decided to find the chick who put on this first-class shitshow. She ha
 
 If I've learned one thing from joyhouses, it's to quit while the going's good. Stare at those fake smiles too long, and all you'll see is misery. As far as clubs go they're all pretty pathetic, but at least it's in their own way. You know the chances of finding Evelyn are close to zilch, right? Like that's gonna change your mind... Anyway, let's go pay a visit to this so-called Fingers. But if we don't find Parker, you owe me a drink.
 
+逛窑子这种事情我有经验，讲究的是爽完了拉倒。她们脸上的假笑看多了，你就会觉得特别悲催。只要是夜总会，那就全都一个样，无非是各人有各人的凄惨。找到艾芙琳的可能性约等于零，这你应该知道吧？反正你也不会改主意……好了，咱们去会会这个所谓的指头哥。不过要是找不着帕克，那你就得请我喝酒。
+
 ## Disasterpiece 祸不单行
 
 Every city's got its shady neighborhoods and "no-go" zones. Stepping into these areas in Night City is like wading into the abyss and feeling it stare back through your soul. Anyone with an ounce of sense avoids these haunts altogether. Your average gonk's usually seen limping out, bleeding from one or more places. And you, V? Just make sure you come out intact.
@@ -32,6 +34,8 @@ Every city's got its shady neighborhoods and "no-go" zones. Stepping into these 
 ## Double Life 两生花
 
 There's nothing you can't take away from a person - you just gotta look hard enough. When all options are exhausted, you've still got a body that can be harvested, skills that can be put to good use... Oh, and let's not forget "dignity" - that's a classic. Hell, I'm starting to think I could've done worse than end up on this little Relic of yours.
+
+一个人的身上没有什么东西是不能夺走的。就看你有没有开动脑筋。哪怕什么都没了，不是还有身体可以出卖，还有看家的本事可以利用吗? 哦，当然也别忘了“尊严”，那可是压轴戏。哼，我都开始觉得，要不是困在了你的这个Relic里，我的下场说不定会更惨。
 
 ## M'ap Tann Pèlen
 
@@ -46,6 +50,10 @@ I'm sick of this Placide motherfucker as much as you, but at least the fog has l
 You get nightmares, don't you V? The stubborn kind that keep coming back, night after night, like they wanna make sure you never forget a single detail, sight or touch? The kind where you can barely breathe because you know what comes next?
 
 You ever get those? I know you do. So here - welcome to mine.
+
+V，你会做噩梦吗? 那种挥之不去的噩梦，一个晚上接着一个晚上不停地重复，就好像它想让你记住每一个细节、每一个眼神、每一次碰触。在梦里你几乎无法呼吸，因为你知道接下来会发生什么。
+
+你做过这种梦吗? 我知道你做过。好了：欢迎进入我的梦。
 
 ## Ghost Town 死城【赫尔曼】
 
@@ -97,17 +105,25 @@ Well I'll be a corporat on a stick. Yorinobu tried to take out the entire Arasak
 
 I was gonna say that this time you'd have to go it alone, but it looks like the Aldecaldos've got some fight in them after all. Wonder what you see in them: a partner? Friend? Family? Something tells me sooner or later you're gonna have to choose one of the above, especially if it's thanks to them you get into Mikoshi.
 
+我本来以为这次你只能靠自己了，可没想到阿德卡多还插有爷们儿的。不知道你怎么看他们: 伙伴? 朋友? 还是家人? 我有种预感，你迟早会从中做出选择。特别是多亏了他们把你弄进神舆之后。
+
 ### Forward to Death 期待死亡【帕南】
 
 Last stop on the line. Little does the corp know that this train's not going back. It's a shame I won't be there with you, 'cuz it's looking to be one helluva ride. But hey, that's what family's for, right? Anyway, once you get to the Arasaka sublevels, that crater filled with chrome and concrete, just take a second to remember that Johnny was there. Then mow down anyone in your way and get to Mikoshi.
+
+“终点站到了，终点站到了。”公司里没几个人知道这是条单程线。只可惜我没法一起参加，因为路上肯定很过瘾。不过，谁叫你们是一家人呢，对吧? 总之，你进入荒坂地下层的时候，就是那个尽是义体和混凝土的弹坑，一定别忘了，强尼以前也来过。然后把所有挡路的都干掉，直接杀进神舆。
 
 ### Belly of the Beast 野兽之腹【帕南】
 
 You're almost there, V. In the heart of fucking darkness. Can you feel it? You're so close to the moment of goddamn truth. And I'm right there with you. Still. Always. Even if I'm just a blacked-out passenger in the backseat. Whatever you do, do it for us. At the very least, that's what I'm fucking counting on.
 
+快了，V。你能感受到吗? 就在这团操蛋的黑暗中央。你就快他妈接近真相了。而我会和你同在。仍然会。一直会。哪怕我只是个晕在后座的乘客。不管你做什么，把我那份也算上。最最起码，我他妈是这么指望的。
+
 ### All Along the Watchtower 沿着瞭望塔【帕南】
 
 So you decided to ditch the City of Dreams - start anew, start fresh. I went through a few fresh starts in my life, too. And you know what? Don't regret a damn thing. You won't either. Give my regards to the South. And when you hear Johnny's voice, go ahead and smile, but don't bother to answer. It'll just be a voice on the radio recorded long ago, a fading reproduction, a flickering memory. You'll be someone completely different. Take care, V.
+
+这么说你决定逃离逐梦之城。重新开始，展望新生。我也经历过几次新生。知道我学到什么了吗? 千万别他妈后悔。当然你也不会后悔。替我向南边问个好。当你听到强尼的声音时，一定要保持微笑向前看，甭费心思多想。那就是很久以前电台里录的，一道淡去的回声，一段闪现的回忆。你会成为一个完全不同的人。保重，V。
 
 ## 节制结局
 
@@ -117,7 +133,9 @@ Every story has its end. And let me tell you V, I never thought yours would mean
 
 If you're out there somewhere - and I think you are - take a look at me now.
 
-牺牲。这个字眼完全不足以形容发生在神舆里的事。然而为了一个罪有应得的人而献出自己的生命，你又该怎么去形容？事实真相是：这副身体如今有了新主人，要是这人敢有一点对不起它，那他就该直接下地狱。你都听见了吗，V？妈的，不知怎么，我总觉得你并没有离我而去……
+每个故事都有它的结局。实话告诉你吧，V，我从没想过你的结局会和我有什么关系，我的也一样。可是……我就在这里。仍然活蹦乱跳的。这还是漫长的五十年来头一次。
+
+如果你在什么地方，我一直觉得你在，请你现在看看我。
 
 # （3）支线任务
 
@@ -213,6 +231,8 @@ The Peter Pan case is done and closed, so you do know you never have to see this
 
 Something about corpses draws you to their unfinished biz, V. First, it was me... now Scorpion. Mitch wants you to fulfill his final request. Gotta admit it's got my curiosity piqued, but hey, as a dead guy, I'm biased.
 
+你这个人啊，一看见尸体就想帮他们完成未了的心事。先是我……现在又是蝎子。米契要你去实现蝎子的遗愿。我得承认，这激起了我的好奇心。不过你也不能怪我，毕竟大家都是死人嘛。
+
 ### KOLD MIRAGE 冰柜里的神迹【巴特莫斯】
 
 Always somethin' interesting to be found at the dump. Take a half-dead, half-brain merc with an experimental chip in their head for example. Or, in this case, a freezer from 2020... a glimpse into the past.
@@ -236,6 +256,8 @@ Here you thought your old ride was totaled for good - yet here you are now. Like
 ### With a Little Help from My Friends 举手之劳【帕南】
 
 The great nomad saga continues: Panam's up to something. That girl just doesn't know when to quit - and my God, I love her for it. You don't seem to know either, considering you wanna go back out there. Maybe you could save us all some time, pitch a tent out in the desert? Think we both know this isn't just about the job anymore.
+
+伟大的流浪者传奇继续上演：帕南又不知道在打些什么鬼主意。这姑娘真是一刻都不得闲。要命，我爱死她了。你不是想回去吗？我看你也跟她差不多。要么干脆别浪费大家时间了，在沙漠里扎个帐篷岂不是更好？我想咱们都清楚，醉翁之意不在酒。
 
 ## City Center
 
@@ -491,6 +513,8 @@ Whenever we go see Wakako and walk into that pachinko salon of hers, I get this 
 
 Well, whaddaya know. This corpo-slut from the crucifixion BD wants you to come back to give her star a pep talk, massage his fucking shoulders and whatnot. Normally I'd tell you to drop it, find something more fun to do, but... I dunno, seems like this Jesus freak could really use your help.
 
+你猜怎么着？那个拍十字架超梦的公司婊想让你过去给她的小明星打打气，替他捏捏肩膀，嘬嘬老二。正常情况下，我会跟你说这活儿别接了，找点其它有意思的干干，不过呢……我也吃不准，看样子这个耶稣怪胎真的需要你帮忙。
+
 # （4）委托
 
 ## 目击赛博精神病
@@ -601,9 +625,11 @@ You know, there are some days when anything that can go wrong, will. Some days y
 
 Seems Sandra was a bit of a partier, but lost her cash flow when she lost her job. See, V? Better not run the EDGE of financial solvency. So - how bout we check out the car she left in the corpo lot?
 
-## Reported Crime: Smoking Kills
+## Reported Crime: Smoking Kills 吸烟有害健康
 
 Smoking used to get a bad rap, but smokers can breathe easy this day and age. Lung cancer? Buy a new lung. Throat cancer? Again, buy a new throat. Male performance problems? Mr. Stud will turn that dangle upside down. Turns out, however, the addiction itself can still lead to death. If someone nasty's keeping track of where and when you step out for a cig, well... Maybe it was better to kick the habit after all.
+
+以前吸烟可不是个好习惯，但现如今，老烟枪们可算是翻身把歌唱。肺癌? 那就买个新的肺。吃癌? 一样，买个新喉哆。男性功能障碍? 大钢炮帮你重振雄风。不过呢，到头来烟瘾本身还是会把人害死。要是有人不怀好意，把你习惯出门抽烟的时间地点都记了下来……那我看，还是戒了的好。
 
 ## Reported Crime: Honey, Where are You?
 
