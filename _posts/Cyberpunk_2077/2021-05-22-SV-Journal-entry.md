@@ -13,23 +13,23 @@ origin: 个站
 
 ## （1）主线
 
-### Playing for time
+### Playing for time 黑梦
 
 Don't trust that Takemura. Meet with him, sure, check him out, but keep your eyes open. He's a corporat, meaning he's looking to use you.
 
-### Automatic Love
+### Automatic Love 高级动物
 
 So you've decided to find the chick who put on this first-class shitshow. She had a job and you took it 'cause there was no one else to knock some sense into your gonk head. I'm here now, but so what? This search and rescue bullshit's a dead end, but that's not about to stop you. Maybe Evelyn will, who knows? Sure seems like she doesn't wanna be found. 
 
-### The Space in Between
+### The Space in Between 垃圾场
 
 If I've learned one thing from joyhouses, it's to quit while the going's good. Stare at those fake smiles too long, and all you'll see is misery. As far as clubs go they're all pretty pathetic, but at least it's in their own way. You know the chances of finding Evelyn are close to zilch, right? Like that's gonna change your mind... Anyway, let's go pay a visit to this so-called Fingers. But if we don't find Parker, you owe me a drink.
 
-### Disasterpiece
+### Disasterpiece 祸不单行
 
 Every city's got its shady neighborhoods and "no-go" zones. Stepping into these areas in Night City is like wading into the abyss and feeling it stare back through your soul. Anyone with an ounce of sense avoids these haunts altogether. Your average gonk's usually seen limping out, bleeding from one or more places. And you, V? Just make sure you come out intact.
 
-### Double Life
+### Double Life 两生花
 
 There's nothing you can't take away from a person - you just gotta look hard enough. When all options are exhausted, you've still got a body that can be harvested, skills that can be put to good use... Oh, and let's not forget "dignity" - that's a classic. Hell, I'm starting to think I could've done worse than end up on this little Relic of yours.
 
@@ -37,55 +37,55 @@ There's nothing you can't take away from a person - you just gotta look hard eno
 
 Well, we know the Voodoo Boys were behind all this, so that's one step forward. Problem is, now we have to reach them somehow - two steps back. There are a lot of things to be found in Pacifica, just usually not what you're looking for. Good news is you already got your fixer: a man without a face to help you find this fart in the wind. Sounds like a fun fuckin' delight.
 
-### I Walk the Line
+### I Walk the Line 勇往直前
 
 I'm sick of this Placide motherfucker as much as you, but at least the fog has lifted, the goal is clear. You find a netrunner in the GIM and the Voodoo goons will set up a meet-n-greet with their queen. Pros? Maybe I'll actually get to see a legit netrunner, 'cause it's sure starting to feel like an extinct species these days. Someone who's got the guts to square off against the Voodoos has given me some hope, at least. But the cons? Damn near any minute your brain could start dripping out your ears. Afraid we won't have time to make pilgrimmages to the monuments of Pacifica's Golden Age.
 
-### Never Fade Away
+### Never Fade Away 永不消逝【强尼】
 
 You get nightmares, don't you V? The stubborn kind that keep coming back, night after night, like they wanna make sure you never forget a single detail, sight or touch? The kind where you can barely breathe because you know what comes next?
 
 You ever get those? I know you do. So here - welcome to mine.
 
-### Ghost Town
+### Ghost Town 死城【赫尔曼】
 
 Wanna track down Hellman? Start at the Afterlife. Sure, the place has changed over the years, but one thing never will: you got a question you just can't shake, head to The Afterlife. Always someone there to whisper the answer in your ear... for the right price. And if that someone's Rogue – shit, I wouldn't miss this meet for the world.
 
 Just when you think you've solved your problem, your solution goes and starts making fucking demands. Looks like Panam'll only scratch your back if you scratch hers. Could've expected that, coming from a nomad. Know what, though? I've got a good feeling about this sand-swept desert dame. Let's see where our newfound friendship takes us. Preferably to that weasely fuck, Hellman.
 
-### Lightning Breaks
+### Lightning Breaks 拉闸【赫尔曼】
 
 Panam Palmer. Gotta say, I like her. Girl's got a pair - and clearly a plan, too. Let's see if it's enough to grab Hellman. Honestly, V, never thought I'd ride with the nomads again. I know, I know she left the Aldecaldos, but you can feel it too, can't you? Clan's in her blood and bones. In her heart. Don't think she'll let us down.
 
-### Down on the Street
+### Down on the Street 荒街老友【竹村】
 
 If someone told me I'd be taking calls from Saburo Arasaka's fucking bodyguard, I'd have laughed in their face. And now we're supposed to meet with some Takemura? Hand over all our detes? I'm not even gonna pretend like this is a good idea. But fuck it - sometimes you just gotta go all in.
 
-### Gimme Danger
+### Gimme Danger 危险游戏【竹村】
 
 Our crazed ronin shows no signs of slowing his roll. We barely get intel from Wakako about the parade and Takemura's already hatching some hairbraned scheme in Japantown. He wants to meet at the market? Fine, let's parley, but you already know where I stand. Don't let him strong-arm you into anything. Who knows how many loose screws are bouncing around that skull at this points...
 
-### Play It Safe
+### Play It Safe 虎口拔牙【竹村】
 
 Since I wasn't invited to Saburo Arasaka's funeral, I guess this sad little parade will have to do - I'm just missing confetti. But in all seriousness, Takemura must have a death wish. He's just gonna jump onto Hanako's platform? Be my fucking guest - we'll deal with the snipers. Meanwhile, keep an eye out for an escape route. This gonna go all kinds of wrong - I can feel it.
 
-### Search and Destroy
+### Search and Destroy 303号房【竹村】
 
 Know what my downside is? No matter how much I might want to, I don't fucking make mistakes. Lo and behold! Our factory-reset ronin, hounded by every single Arasaka soldier in Night City for KIDNAPPING Saburo Arasaka's daughter. Kudos to him - I couldn't've fucked this plan up better myself. And after all this he STILL wants you to drop by? I don't know who's more whacked - him or us. Just remember to knock four times. His head, preferably - against a fucking table.
 
 ## （2）结局
 
-### Nocturne Op55N1
+### Nocturne Op55N1 夜曲OP55N1
 
 We both knew this time would come. If we don't think of something quick, you will die - and I'll go with you. It's time for our final meeting.
 
 ### 恶魔结局
 
-#### Last Caress
+#### Last Caress 最后的温情【华子】
 
 That's all, folks! Little Johnny can go to sleep while the grown-ups fix their big ol' mess. All I know's that you cut a deal with Arasaka - you help Hanako knock Yorinobu off his pedestal in return for help with the Relic. You already know where I stand. You've got better things to dream about than a rockerboy's mad ravings. Just make sure this little dream of yours doesn't turn into a nightmare.
 
-#### Totalimmortal
+#### Totalimmortal 手足相残【华子】
 
 Go to hell, V. You're on your own, got that? Stage is all yours. I'll just stand in the wings and watch you meet certain death, 'cause that's how this little coup against Yorinobu is gonna end. That is, unless our porcelain doll's got any aces up her sleeve. But if things go south, just jump out the window. Don't give them the satisfaction - don't let the fuckers take you alive.
 
@@ -93,25 +93,25 @@ Well I'll be a corporat on a stick. Yorinobu tried to take out the entire Arasak
 
 ### 星星结局
 
-#### We Gotta Live Together
+#### We Gotta Live Together 风暴前夕【帕南】
 
 I was gonna say that this time you'd have to go it alone, but it looks like the Aldecaldos've got some fight in them after all. Wonder what you see in them: a partner? Friend? Family? Something tells me sooner or later you're gonna have to choose one of the above, especially if it's thanks to them you get into Mikoshi.
 
-#### Forward to Death
+#### Forward to Death 期待死亡【帕南】
 
 Last stop on the line. Little does the corp know that this train's not going back. It's a shame I won't be there with you, 'cuz it's looking to be one helluva ride. But hey, that's what family's for, right? Anyway, once you get to the Arasaka sublevels, that crater filled with chrome and concrete, just take a second to remember that Johnny was there. Then mow down anyone in your way and get to Mikoshi.
 
-#### Belly of the Beast
+#### Belly of the Beast 野兽之腹【帕南】
 
 You're almost there, V. In the heart of fucking darkness. Can you feel it? You're so close to the moment of goddamn truth. And I'm right there with you. Still. Always. Even if I'm just a blacked-out passenger in the backseat. Whatever you do, do it for us. At the very least, that's what I'm fucking counting on.
 
-#### All Along the Watchtower
+#### All Along the Watchtower 沿着瞭望塔【帕南】
 
 So you decided to ditch the City of Dreams - start anew, start fresh. I went through a few fresh starts in my life, too. And you know what? Don't regret a damn thing. You won't either. Give my regards to the South. And when you hear Johnny's voice, go ahead and smile, but don't bother to answer. It'll just be a voice on the radio recorded long ago, a fading reproduction, a flickering memory. You'll be someone completely different. Take care, V.
 
 ### 节制结局
 
-#### New Dawn Fades
+#### New Dawn Fades 镜子中
 
 Every story has its end. And let me tell you V, I never thought yours would mean anything but mine, too. But... here I am. Still alive and still kicking. For the first time in fifty long, long years.
 
@@ -121,7 +121,7 @@ If you're out there somewhere - and I think you are - take a look at me now.
 
 ## （3）支线任务
 
-### 黑拳
+### 拳霸
 
 #### Beat on the Brat: The Glen
 
@@ -147,7 +147,7 @@ Don't overthink this one. You have to defeat the champion of Kabuki. You know th
 
 You're gettin' noticed, V. People can sense that hunger in you - one that can't be satiated. You want everything right now, and if you don't it...  you fight for it. You're a warrior, V. And the warrior's place is in the ring. Show 'em what you're made of. Knock the bolts off this training bot. And then, well... we'll see.
 
-### 赛车
+### 心中困兽【克莱尔】
 
 #### The Beast in Me: Badlands
 
@@ -169,7 +169,7 @@ What now, V? Gonna help Claire stick it to the corpos who offed her husband? Or 
 
 No one in Night City is only one layer deep. Take Claire for example - an Afterlife bartender who likes to burn rubber in illegal street races when she's on break. If you get the itch for a little adrenaline, I think you can snatch it at her garage.
 
-### 德拉曼找车
+### 回家的路【德拉曼】
 
 #### Epistrophy: Badlands
 
@@ -205,41 +205,41 @@ Cars didn't talk back in my day, and now this one wants to give you a job? What 
 
 ### Badlands
 
-#### Following the River
+#### Following the River 爱似河【瑞弗】
 
 The Peter Pan case is done and closed, so you do know you never have to see this badge again... right? OK, fine, I get it, you crawled through shit and fire together, and now you wanna kick back and celebrate your victory. But a family dinner? Fuckin' seriously? Can't just find a decent dive to grab a tequila or ten? Smash the bottle over some corpocunt's face? You're getting soft, V.
 
-#### I'll Fly Away
+#### I'll Fly Away 飞翔鸟【蝎子】
 
 Something about corpses draws you to their unfinished biz, V. First, it was me... now Scorpion. Mitch wants you to fulfill his final request. Gotta admit it's got my curiosity piqued, but hey, as a dead guy, I'm biased.
 
-#### KOLD MIRAGE
+#### KOLD MIRAGE 冰柜里的神迹【巴特莫斯】
 
 Always somethin' interesting to be found at the dump. Take a half-dead, half-brain merc with an experimental chip in their head for example. Or, in this case, a freezer from 2020... a glimpse into the past.
 
-#### Meetings Along The Edge
+#### Meetings Along The Edge 麻木的迷醉【禅学大师】
 
 Ok, this Zen master guy of yours is literally everywhere. He's gonna fall ass first out of your fridge tomorrow. This meditation's doing the trick for you? Listen, if it's the whole poetic aspect of it, I understand. But in that case just throw on one of my albums, dig into the lyrics, and leave this scam artist out of it.
 
-#### Pyramid Song
+#### Pyramid Song 金字塔之歌【朱迪】
 
 Everyone knows you can't just count on yourself in this goddamn city. You always gotta have a few chooms who owe you a favor. And a few you've got dirt on too. But when you've got the kind of choom who starts asking you for weirder and weirder shit? That's when problems start.
 
-#### Riders on the Storm
+#### Riders on the Storm 冲破风暴【帕南】
 
 OK, this must actually be pretty serious. Tough chick like Panam wouldn't call you up for some chump chore. Must be something important. Wouldn't waste any time on this one if I were you. To the Aldecaldos' camp we go.
 
-#### These Boots Are Made for Walkin'
+#### These Boots Are Made for Walkin' 失而复得
 
 Here you thought your old ride was totaled for good - yet here you are now. Like a phoenix from the ashes, it lives again. But how? Why now? You'd already closed that chapter of kickin' up sand with nomads out in the desert... But I mean, it'd be stupid if you didn't check it out... right? You never can underestimate the past. Because it sure as shit likes to take revenge.
 
-#### With a Little Help from My Friends
+#### With a Little Help from My Friends 举手之劳【帕南】
 
 The great nomad saga continues: Panam's up to something. That girl just doesn't know when to quit - and my God, I love her for it. You don't seem to know either, considering you wanna go back out there. Maybe you could save us all some time, pitch a tent out in the desert? Think we both know this isn't just about the job anymore.
 
 ### City Center
 
-#### Boat Drinks
+#### Boat Drinks 火与酒【克里】
 
 The marina, huh? Wonder what Kerry's got up his sleeve this time. Maybe he wants to get rid of someone - toss their body parts in the bay. Or maybe he just wants an audience while he waxes poetic about yachts over shrimp cocktails. Oh well, he's your problem now. Not mine.
 
@@ -247,21 +247,21 @@ The marina, huh? Wonder what Kerry's got up his sleeve this time. Maybe he wants
 
 Looks like there's some justice in the world after all. My little merc wants to play dress-up like a corpo, then all the sudden a cyberpsycho kicks down the shop's door. Coincidence? Sure, probably, but a fuckin' delightful one. I hope you learn a valuable lesson today. That is, if you survive 'til the end of it.
 
-#### Imagine
+#### Imagine 想象【禅学大师】
 
 In Night City, there's no shortage of gonks, hustlers and just plain assholes. And if you stopped to talk to each one, you might just cross the last of your wires, too. But if that's what your gut's tellin' you to do, by all means. Just watch for sticky fingers.
 
 ### Heywood
 
-#### Don't Lose Your Mind
+#### Don't Lose Your Mind/I Can See Clearly Now 不要迷失自我【德拉曼】
 
 Your buddy Delamain appears to be having some personal issues. How else do you explain his cabs standing in the middle of the road and blocking traffic? better give him a call. Besides, you're short on friends (present imaginary company excluded).
 
-#### Heroes
+#### Heroes 再见杰克【杰克】
 
 I don't usually give advice, but... fuck it, here goes. Don't make the same mistake I made - say goodbye to the people you love. You know what I mean, right? Jackie Welles was your best choom, and you don't find a lot of straight-up peeps like that in NC. Best thing you can is remember them. Oh, and one more thing. If anyone asks, I didn't just say all that to you. Got it?
 
-#### I Fought the Law
+#### I Fought the Law 向法律宣战【杰佛逊】
 
 Initial entry:
 Look, if a job starts like a classic whodunit - some femme fatale calls you up, refuses to give deets and just calls a meet - one of three things is going down: you're dreaming, you're scrollin' a shit BD or someone's hazing you good. Think you can scratch the first two.
@@ -272,15 +272,15 @@ First rule of working with politicians - don't do it.
 First rule of contacting the police - avoid it.
 And what do you do? Break 'em all at once. Gotta say, V, I'm a little impressed.
 
-#### Only Pain
+#### Only Pain 愧而为人
 
 "To serve and protect..." Funny, would've thought "To extort and torture" might fit better. Not sure what this guy's beef is with badges, but if you don't step in, they'll be scrapin' him off the sidewalk. Once they smear him there first, of course. But I dunno... maybe it's for the best? After all, no one's in Night City's dyin' an innocent soul.
 
-#### Raymond Chandler Evening
+#### Raymond Chandler Evening 外遇
 
 Usually it's the customers spillin' the ugly personal stories to the bartender, yet there we were, seeing it the other way around. Pepe thinks his wife is cheating on him and he's looking for someone to confirm his worst suspicions. Classic. A cuckold, a beautiful woman, a city shrouded in darkness... Get the feeling I've read this story before.
 
-#### The Hunt
+#### The Hunt 猎杀【瑞弗】
 
 NCPD boy in blue gives you a holler and you come runnin' like an obedient dog? This ain't gonna become a habit is it? Well, whatever - sounds like he's got an errand for you, real personal kind. Least it's better than chasing dead politicians. Just do me a favor - don't get used to it.
 
@@ -289,47 +289,47 @@ So some depraved maniac's kidnapping boys, and lo and behold, your badge is caug
 
 ### Pacifica
 
-#### Love Rollercoaster
+#### Love Rollercoaster 我爱过山车
 
 And they say Pacificans don't like strangers... These kids must be an exception to the rule. They found themselves a good vantage point and it'd only be better if that got that old roller coaster runnin'. At least, that's what I'd try.
 
 ### Santo Domingo
 
-#### A Day In The Life
+#### A Day In The Life 平常的一天
 
 Gonna sound like my gramps for a sec, but you know, in my time, being a punk meant something different. People fought against the system whatever way they could, frying the biggest fish they could catch, tearing down palaces brick by brick. Now every random gonk-brain fool thinks they're a hero for flatlining an unarmed normie. This isn't your beef, I get it... But are you sure don't wanna teach those worms a lesson?
 
-#### Ezekiel Saw the Wheel
+#### Ezekiel Saw the Wheel 见义勇为
 
 Here's a joke for you: V walks into a bar... and gets robbed. The end.
 
 Jesus, you and your shit luck. You better figure something out quick or our epic story's about to get cut short in the stupidest way imaginable. Accidental deaths don't jive too well with me. Or with the birth of legends.
 
-#### Gun Music
+#### Gun Music 火上浇油
 
 The Aldecaldos must really be desperate. To come this close to the city, and deal with scavs no less... Risky move. Sounds like they could use a hand.
 
-#### Rebel! Rebel!
+#### Rebel! Rebel! 反抗！反抗！【克里】
 
 Look, I don't know if Kerry's just having a real late-life crisis, or whether his shrink's got him some on some sweet new meds, but I do know one thing: this gon' be good. Just meet with the guy. Won't be bored, I guarantee it. And Kerry needs some help. Always did. I got nothing against it, either. A friend in need is a friend indeed, and I've never been jealous of that second fiddle in my life.
 
-#### Sex On Wheels
+#### Sex On Wheels 爱车一族
 
 Who ever said no to a free car? Not to mention it's a Quadra Turbo Fuckin' R. So quit picking your nose, head down to Rancho Coronado and get behind that wheel.
 
-#### Sinnerman
+#### Sinnerman 罪与罚【约书亚】
 
 You're right about one thing - this job from Wakako stinks to high heaven. Besides, you're above doing plain ol' hit jobs. Probably no harm in talking to Bill Jablonsky and seeing what his deal is. But if I were you? I'd take a hard pass.
 
-#### Space Oddity
+#### Space Oddity 天外奇物
 
 Every bum in this town dreams someday they'll hit the jackpot on something they dug up in a dumpster and it'll transform their life. A briefcase stuffed with eddies, a shard holding big company secrets, a cuttin' edge implant that'll pawn for a few dozen Gs. Problem is, usually whoever "misplaced" the thing to begin with is still lookin' for it - and they ain't in a good mood. Do these poor street rats a favor and take this case off their hands. Before the previous owner shows up and decides to make target practice out of 'em.
 
-#### Stadium Love
+#### Stadium Love 信仰是一颗子弹
 
 Hey, if you wanna crash that party, I can respect that. Sometimes those parties kick the most ass. Just watch yourself - this ain't your uncle's birthday barbecue. One wrong word, one false step... there could be blood.
 
-#### The Highwayman
+#### The Highwayman 情比金坚
 
 There's a still of some young guy in the garage - the heartbreaker type. Emails on the computer are from a certain James - don't have to be a genius to connect the dots. Might be worth looking for our Romeo - especially in Japantown. Got a feeling the still was snapped there. Wouldn't surprise me - kids go on dates there all the time. Shit... it always starts off so cute, doesn't it? Rarely ever ends that way.
 
@@ -339,61 +339,61 @@ Josie... Pretty name. Cute girl. Ugly end. This Tyger from the still... better h
 
 Another mystery, another missing person in Night City. Used to be the cops would put out a search for people like her. Today, her fate's in your hands.
 
-#### There Is A Light That Never Goes Out
+#### There Is A Light That Never Goes Out 皆是恩旨【约书亚】
 
 I love these WTF situations. A guy hires you to off some other guy, and then that first guy dies, but then the second guy hires you to go somewhere with him for who the fuck knows what. But hey, it's not like you're short on work. Just don't fuck this one up, OK? I know you wanna know how this all plays out.
 
 ### Watson
 
-#### A Cool Metal Fire
+#### A Cool Metal Fire 金属狂人
 
 Now, I don't ask you for much, but I gotta zero Smasher myself. That motherfucker thinks he's invincible. Worse, so does Rogue. All these years, Arasaka Tower's been haunting her. Enough's enough. I'm taking control this one time, I'm finding him, I'm wiping Adam Smasher off the face of the earth.
 
-#### Big in Japan
+#### Big in Japan 东瀛第一等
 
 Find the package, and deliver it from A to B. Simple job, huh? But then why not just book some delivery guy? And why not go through a fixer? Something smells off about this one, V.
 
-#### Blistering Love
+#### Blistering Love 梦缠绕的时候【罗格】
 
 Can't even remember why Rogue and I were always at each other's throats. All I remember is the good times - and how few of them there were. Now I've got one night to make it up to her. Yeah, a movie date sounds boring, but hell, we never did normal, boring things. Better late than never, right?
 
-#### Both Sides, Now
+#### Both Sides, Now 幻灭
 
 You ever hear the saying "No good deed goes unpunished"? You hold your hand out to someone, you get bitten. You help a poor soul in need, you get fleeced for all you're worth. Save someone's life? Fill in the blank.
 
-#### Burning Desire
+#### Burning Desire/Night Moves 火在裆下/夜间行动
 
 That's the great thing about Night City - no chance you'll ever get bored here. Where else could you have some dude with a smoking crotch jump into your car askin' to hitch a ride? Come on, V, show some sympathy. Get this guy to a ripper before his dick explodes all over your dashboard.
 
-#### Chippin' In
+#### Chippin' In 插管【强尼】
 
 This is it, Rogue's in for the kill - she's ready to stop running from her past and catch Smasher. And when we catch the bastard, I wanna be the one to pull the trigger. But for now - you're in charge. Happy hunting!
 
-#### Every Breath You Take
+#### Every Breath You Take 你的每一寸呼吸【蓝月】
 
 Blue Moon has a problem. One that a publicist, an agent, or even an entourage can't solve. That's 'cause this is a problem with some actual meat on it, one that calls for somebody with a half-decent brain on their shoulders and some hot iron in their holster. Someone really loves her - or loves to hate her. You gotta find this guy and take him out. For most, an opportunity to help a big-time pop icon like her only happens once in a... well, you get it.
 
-#### Fool on the Hill
+#### Fool on the Hill 山丘上的愚者【米丝蒂】
 
 Maybe these strange images that you're seein' really do exist. Or maybe the biochip's already turned your brain into scop and salmon casserole. Whatever the case, spotting these symbols in unexpected places feels like a mystery beggin' to be solved. In your shoes, I'd have a word with Viktor of that chakra chick about these. Should interest at least one of 'em.
 
-#### Fortunate Son
+#### Fortunate Son 换肾
 
 Kidney failure. In the city, nothing that a stack of eddies and a few minutes won't solve. But in the Badlands... a death sentence. That is, unless a gentle soul somewhere feels like playin' guardian angel. Someone that'll get him the implant he needs before it's too late. Well, V? Think there 's anyone out there like that?
 
-#### Full Disclosure
+#### Full Disclosure 大曝光
 
 Sandra Dorsett... that chick you pulled out of a scavs' nest? Man, give someone an inch and they take a mile... This databank must be pretty special to her if she ain't even willing to go through a fixer. Well, damn... now I'm kinda curious. Gonna help out - or play by the rules of the game?
 
-#### Happy Together
+#### Happy Together 当你凝视深渊时【巴里】
 
 Seems like the PD's taken an interest in a neighbor of yours. Even sounded like they knew each other. Will you assume the mantle of a concerned, responsible citizen and ask what's going on? I mean, if you got a potential psycho for a neighbor, wouldn't you want to know?
 
-#### Human Nature
+#### Human Nature 机械与人格
 
 When a person dies, the world keeps chugging along without skipping a beat. Eventually, all traces of that person fade into nothing. Long story short, that's why your wheels were towed. Want my opinion? The best way to convince the world you're alive and kicking is to get your wheels back. Hell, maybe it's not the most ambitious goal, but for a minor-league merc like you, at least it's a start.
 
-#### Machine Gun
+#### Machine Gun 四季宝
 
 So, what, You're giving Skippy to Regina? Too bad. Not everyday find a gun you can share your deepest and darkest with. And have it reciprocate, that is. On the other hand, I get you... Already got enough voices in your head, amirite?
 
@@ -401,89 +401,85 @@ So, what, You're giving Skippy to Regina? Too bad. Not everyday find a gun you c
 
 I don't know many rippers who'd install Kiroshi optics on credit and faith. In fact, I only know one - Viktor. Maybe once you're on top you don't forget about the old guy, yeah? Pay the man what he's due.
 
-#### Psycho Killer
+#### Psycho Killer 变态杀手
 
 Looks like Regina wants to turn you into a one-woman/man army in the fight against cyberpsychosis. Understandable, seeing as most of our heroic badges seem to vanish from the scene at the mention of "cyberpsycho."
 
 One thing I still don't get - why does she want them alive?
 
-#### Sacrum Profanum
+#### Sacrum Profanum/Losing my Religion 全金属和尚/破戒
 
 Among the handful of things that really piss me off, I'd say pickin' on the little guy for funsies is pretty high on my list. If I could save this monk and scrap a few tinboy Maelstromers along the way, I'd say sign me up. If you feel the same - and hurry your ass up - maybe you can even still save the guy.
 
-#### Shoot To Thrill
+#### Shoot To Thrill 弹无虚发
 
 A shooting range competition? Ho-ho, wonder what fun prizes are up for grabs. Giant teddy bear? Inflatable sword? Tiny plastic football? Whatever it is, enjoy yourself, 'cause I'm sittin' this one out. Don't much like it when people treat weapons like toys.
 
-#### Spellbound
+#### Spellbound 魔法秘典【巴特莫斯】
 
 A job from Nix? Should be interesting. Guy's got a rep for being an expert on antique tech, pre-Krash hardware. Decks, mag disks, yada yada yada. Some people'll tell you it's all as useful as a typewriter, a record player, a pile of dried cat shit. But me... I wouldn't be so sure about that.
 
-#### Talkin' 'bout a Revolution
+#### Talkin' 'bout a Revolution 让我们在云顶撒点野【朱迪】
 
 There's no such thing as a free lunch, V. If someone invites you to a chow-down, someone's gonna pay. Who knows, maybe the bad guys'll saddle up - answer for all the bad shit they've done. But you know what I think? I think you're the one who's paying. And that check's well on its way.
 
-#### The Prophet's Song
+#### The Prophet's Song 先知之歌【先知盖瑞】
 
 A clandestine meeting of reptilians at midnight? V, we're not missing this. If you want answers to questions plaguing humankind for eons, this might be your only shot. Is there life in the cosmos? Is there anyone pulling the strings? If so, why? And why the fuck do they let all this evil shit happen? And to think the Universe's greatest secrets could be found in some old factory in our humble little Night City...
 
-#### Tune Up
+#### Tune Up 理赔
 
 Fender benders are a dime a dozen in Night City. A Delamain though? A first, I'm guessing. But now he wants to hand out compensation for damages? That's just downright suspect. Way I see it, he's got a the AI equivalent of a gun pointed at his head, and this message is nothing but a coded cry for help. Nobody, and I mean nobody, doles out compensation for a little chipped paintwork. Go and see what this is about - worst case you come out a little richer.
 
-#### Venus in Furs
+#### Venus in Furs 穿皮草的维纳斯【斯科特】
 
 Meredith Stout invited you over to her room at the No-Tell Motel? Shit, V, don't know whether to give you props or talk you out of it... Either way, you're telling me your secret for picking up corpo chicks.
 
-#### Violence
+#### Violence 一万次的悲伤【利琪·薇兹】
 
 Unknown number, anonymous client, a secret hotel meet-up... The aura of mystery 'round this one's so thick I need a machete to hack my way through it. Wonder what'll happen next... and what that means for you.
 
 ### Westbrook
 
-#### Coin Operated Boy
+#### Coin Operated Boy/Spray Paint 有求必应/禁止涂鸦【布兰登】
 
 All right, so I'm feeling like a sucker for this story. Do you really think Brendan is just spitting out the sentences is was programmed for? The stuff some marketing guru thinks customers want to hear? That'd be pretty fucked even by Night City standards. In any case, we won't know until you find him.
 
-#### Dream On
+#### Dream On 美梦继续【杰佛逊】
 
 Well, well, special favors for politicians. You think you've got any clout here? The Peralezes might seem like decent and down-to-earth folk - not sitting snug in the corps' pockets like the rest. But they're still part of the ruling elite, V. If they gotta step over you to get to the top, they won't hesitate. Don't believe even for a second that they're any different.
 
-#### Holdin' On
+#### Holdin' On 没有理想不伤心【克里】
 
 The whole time I was flat on my digital ass in Mikoshi, Kerry was out there forging his glittering solo career. He'd better be real fucking chill after all these years, right? But something tells me deep down, he's still the same. Anyway, come on, guy's gonna shit himself when he sees me.
 
-#### I Can See Clearly Now（TBA）
-
-#### Off the Leash
+#### Off the Leash 挣脱束缚【克里】
 
 You know, Kerry's whole escapade makes me think. People do change. He did, I mean - he made it to a crossroads, and now I can see his rockerboy heart pushing him down the right path. The problem, you ask? Kerry might've changed, but the city hasn't. And I think he knows it. Hell, so do you.
 
-#### Pisces
+#### Pisces 千人千面【朱迪】
 
 What's worse than a corpo? A wannabe corpo.
 
 You know what? I'm not even surprised you let yourself get talked into this little uprising. Hey, back in my day I would've bum rushed the riot shields in the name of joytoys' freedom or whatever... But this Maiko chick? I've got a bad feeling about her.
 
-#### Poem Of The Atoms
+#### Poem Of The Atoms 原子之诗【禅学大师】
 
 You really enjoy this meditation thing? Calms your nerves, does it? 'Cause it somehow reminds me of those black-tie musicians they stick next to the towels and mouthwash in monochromer joints so you can get taste of culture after you let out a shit. But hey, to each their own.
 
-#### Send in the Clowns
+#### Send in the Clowns 易燃易爆炸
 
 Ozob... Quite the name. Don't know why, but the sound of it gets creepy circus music stuck in my head. Maybe the dude was an acrobat or lion tamer or some shit. Never know in this city. And we won't know till we call him and find out.
 
-#### Spray Paint（TBA）
-
-#### Stairway To Heaven
+#### Stairway To Heaven 通往天国的阶梯【禅学大师】
 
 Look at that, your Zen master has reappeared. Some advertising shtick, no doubt. Thing is, I don't know fuck all about what he's trying to sell you. Stay sharp around characters like him.
 
-#### Sweet Dreams
+#### Sweet Dreams 白日春梦
 
 Everyone knows the most gut-twisting, brain-blitzing, 'dorph-jacking braindances aren't bought in stores or feeders, but on the streets, outside normal circulation. Take our fine man Stefan, here, as proof. Seems he's got the rawest BDs in the city - not for the faint of heart. Whaddaya say? Wanna take that rush to the next level?
 
-#### **The Ballad of Buck Ravers**
+#### **The Ballad of Buck Ravers** 巴克·拉弗斯情歌
 
 Don't think I've gone all sentimental or anything. Honestly, I couldn't give a shit if I've got any fans left in this city. If someone hears one of my tracks and they get the itch to take to the streets, then that's fucking nova, but those old recordings don't matter anymore. Find 'em, listen to 'em, I don't care. Although while we're on the subject... Wonder how thing are over at Rainbow Cadenza...
 
@@ -491,7 +487,7 @@ Don't think I've gone all sentimental or anything. Honestly, I couldn't give a s
 
 Whenever we go see Wakako and walk into that pachinko salon of hers, I get this weird, like, tingling feeling on the back of my neck. I dunno, V, she's all knots of weird. Anyway, she promised a special reward for this job with Sandra Dorsett. All we have to do is go see her on Jig-Jig Street.
 
-#### They Won't Go When I Go
+#### They Won't Go When I Go 上帝保佑【约书亚】
 
 Well, whaddaya know. This corpo-slut from the crucifixion BD wants you to come back to give her star a pep talk, massage his fucking shoulders and whatnot. Normally I'd tell you to drop it, find something more fun to do, but... I dunno, seems like this Jesus freak could really use your help.
 
