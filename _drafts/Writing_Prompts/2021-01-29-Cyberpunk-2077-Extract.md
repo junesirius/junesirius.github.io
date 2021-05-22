@@ -1334,7 +1334,193 @@ Well, whaddaya know. This corpo-slut from the crucifixion BD wants you to come b
 
 #### （4）委托
 
-##### 赛博精神病（TODO）
+##### 赛博精神病
+
+###### Cyberpsycho Sighting: Bloody Ritual
+
+Not everyone's made for Maelstrom. Some - surprise, surprise - don't take to well to having half their face chopped off. They start hearing voices, seeing and imagining things. Then, it's enough to get their hands on a gun, and... that recipe for disaster's ready to serve.
+
+###### Cyberpsycho Sighting: Demons of War
+
+Usually, when a corpo gets his walking papers, he loses all his implants too. They dig those synth organs and cyber eyes right out of his body. But sometimes, the chrome's so far ingrown, it can't be removed safely. Even if someone really, really wants it...
+
+###### Cyberpsycho Sighting: Discount Doc
+
+Working on a construction site has its perks: breeze on your face, sun on your shoulders, no creepy corpo smell and tangible results you can show off to the world. It's good, honest work. 'Course Night City's always got a way of fucking things up.
+
+###### Cyberpsycho Sighting: House on a Hill
+
+Shots were heard on the outskirts of NC - rare given the seemingly peaceful area. We oughta go and take a closer look. Why wait for the clean-up crew when there could still be lives that need saving?
+
+###### Cyberpsycho Sighting: Letter of the Law
+
+I have a bad feeling about this. A real bad feeling.
+
+###### Cyberpsycho Sighting: Lex Talionis
+
+The underpass near GIM is like NC's Bermuda Triangle for the homeless. Sound like a piece of cake? In the heart of Pacifica, nothing ever is.
+
+Enter at your own risk.
+
+###### Cyberpsycho Sighting: Lt. Mower
+
+WARNING! CYBERPSYCHO DETECTED. MILITECH HAS LOCKED DOWN THE AREA. KEEP AWAY!
+
+###### Cyberpsycho Sighting: On Deaf Ears
+
+Hey V! Watch out. Whoever left those bodies is still hanging around.
+
+###### Cyberpsycho Sighting: Phantom of Night City
+
+Ghosts? Ghosts don't exist, V. The dead can tell you that.
+
+###### Cyberpsycho Sighting: Seaside Cafe
+
+Whoever killed them was packing a lot of hate, a lot of rage. And those feelings don't fade quickly. Be careful.
+
+###### Cyberpsycho Sighting: Second Chances
+
+Everyone deserves a second chance, V. I know that better than most. But who's granting that chance and who's getting it are important questions that oughta be asked.
+
+###### Cyberpsycho Sighting: Six Feet Under
+
+Maelstrom certainly has its own unique recruitment and retention methods. Ranks getting too thin? Well, just kidnap a few Valentinos, knock 'em out cold and bolt on some new faceplates. What could possibly go wrong with that? everything, that's what.
+
+###### Cyberpsycho Sighting: Smoke on the Water
+
+If it weren't for the all the screaming, dead Scavs and that wreck of a car, be a pretty nice place. But hey, that's life. Wanna go check it out, see what went down? Try the pier first.
+
+###### Cyberpsycho Sighting: The Wasteland
+
+Does a cyclone of dust and sand stirred up by a dash cyberpsychosis sound exciting? Then I do I have some good news for you.
+
+###### Cyberpsycho Sighting: Ticket to the Major Leagues
+
+Not all people cope the same way when those first symptoms of cyberpsychosis show up. Some throw themselves off a bridge. Others hand themselves over to the cops. And most of the rest try to self-treat with sedatives - as many as they can get their hands on. No matter the cost.
+
+###### Cyberpsycho Sighting: Under the Bridge
+
+V, you don't have anywhere else to be? Only thing you'll stir up here is trouble. I'd beat it, but... you do you.
+
+###### Cyberpsycho Sighting: Where the Bodies Hit the Floor
+
+There are few certainties in Night City... Super-sketch stomach-melting streetfood, politicians choked by corporate leashes and the echo of screams heard coming from the Totentanz club. Oh wait, and one more thing: if you step foot down the wrong alley, your head will probably roll out the other end.
+
+##### 其他
+
+###### Gig: Goodbye, Night City
+
+Sometimes you need a friend to lean on. Sometimes you need a friend to break you out of an immigrant detention center at the Night City-SoCal border.
+
+Smuggler Bruce Welby required the latter.
+
+Bruce tried to cross the state line with hot cargo in tow, but it didn't work out as planned and now he's been chained up by Militech border security already several days. His buddy (and Militech employee), Archibald Crane, found out about the situation through the grapevine. I'll be damned if that cuckoo corpo actually decided to help his friend instead of towing the corpo line. He contacted me to get Bruce out of his cage.
+
+You're the missing element in this friendship triangle. Find to Bruce, break him out, and escort him to his combatta, Archie. And let's make sure Militech doesn't notice a thing, OK? Get to it.
+
+One more thing - Archie says not to kill any corpos. So, what can I say? The client's always right.
+
+#### （5）NCPD
+
+##### Reported Crime: Blood in the Air
+
+Looks like this choomba wanted to climb the turbine to fix something. Militech didn't want him to. 1 determined person + 1 unhappy corp = 1 dead dude. Easy math.
+
+##### Reported Crime: Comrade Red
+
+Soviets in the American desert. If that doesn't sound like a good spy story to you, go swap those ears! and check out the stash they were writing about.
+
+##### Reported Crime: Extremely Loud and Incredibly Close
+
+See, V? Not everyone finds a new best friend in the dump. That samurai's not waking up anytime soon.
+
+##### Reported Crime: I Don't Like Sand
+
+You know, there are some days when anything that can go wrong, will. Some days you burn your toast and forget your keys, other days... Militech comes and fucks you up for losing a car in a sandstorm.
+
+##### Reported Crime: Turn Off the Tap
+
+Seems Sandra was a bit of a partier, but lost her cash flow when she lost her job. See, V? Better not run the EDGE of financial solvency. So - how bout we check out the car she left in the corpo lot?
+
+##### Reported Crime: Smoking Kills
+
+Smoking used to get a bad rap, but smokers can breathe easy this day and age. Lung cancer? Buy a new lung. Throat cancer? Again, buy a new throat. Male performance problems? Mr. Stud will turn that dangle upside down. Turns out, however, the addiction itself can still lead to death. If someone nasty's keeping track of where and when you step out for a cig, well... Maybe it was better to kick the habit after all.
+
+##### Reported Crime: Honey, Where are You?
+
+Looks like Night City punishes love, betrayal, or indifference. Maybe all three. What we can say is there's a dead guy with a car somewhere in town. A car full of eddies.
+
+##### Reported Crime: Roadside Picnic
+
+Her name was Nina. And she died alone, terrified. You'll fill in the rest of the story, V.
+
+##### Reported Crime: A Stroke of Luck
+
+The dead don't talk, but their money sure does. Check out the house on Mallagra. Mr. skunky scuba over here sure won't be needing those eddies anymore.
+
+##### Reported Crime: Disloyal Employee
+
+HR in Night City is brutal. I mean, just look at how he left that exit interview! And the guy only stole tidbits of intel. Eh, well... No use crying over spilled milk. Wanna check out his stash? Let's see how much he managed to scrape together from his little side job.
+
+##### Reported Crime: Justice Behind Bars
+
+Looks like the prison guard was in 6th Street's pocket. Surprised? Me neither. But clearly something way bigger was being planned here. Wonder what went wrong.
+
+##### Reported Crime: Supply Management
+
+Another poor choom just trying to get by. All he wanted was to undercut the corps a little, make a few eds off a few boosters. Well, didn't do much for his health. Know what would give us a boost, though? A little peek at what he left behind.
+
+##### Reported Crime: Welcome to Night City
+
+Our Wraith dealer here chose the wrong market. He made, as they say, a deadly misstep. But now you can get something out of it, right V? Just check his stash.
+
+##### Reported Crime: Dangerous Currents
+
+Excise duty, audits, taxes, bribes, queues... If you want to transport something legally, you have to jump through a lot of hoops. So it shouldn't come as a surprise that many take shortcuts. Though as we all know, shortcuts can be dangerous...
+
+##### Reported Crime: Don't Forget the Parking Brake!
+
+Parking on a hill? Don't forget the parking brake. Otherwise, your car might start rolling downhill... Along with that valuable cargo in the trunk.
+
+##### Reported Crime: Dredged Up
+
+Dark, damp and the stench is enough to make you add to the muck... But there's always something interesting down there. Know what this place is? You'll find out soon enough. But before you do, better check what's in that container, see what really went down here first.
+
+##### Reported Crime: Needle in a Haystack
+
+Thing about containers is, they're all the same. Usually not a problem, but... Well, now you got no idea which one's got the thing you want. And that's when the plot thickens.
+
+##### Reported Crime: One Thing Led to Another
+
+Ah, the irony. Those gangoons installed a gadget to track the cops... And now the cops can track them right back. Technology servers no man, it seems. Zero loyalty!
+
+##### Reported Crime: Paranoia
+
+The homeless in Night City are frequent decenders into madness - in part because they live in perpetual fear, povery and hunger, but also due to seeing things that shouldn't be seen. The shard you just found... It could be the ravings of just another lunatic. Or perhaps something more...
+
+##### Reported Crime: Protect and Serve
+
+Well, well, well. This comp proves the gangoons are buying off cops right and left! We gotta do something! Like, say, grab that Tyger Claw scratch just sitting there, waiting for the police. No eddies, no corruption, right? Look at us, cleaning up these mean Night City streets.
+
+##### Reported Crime: Worldly Possessions
+
+Say what you will, but you ever see a stiff, it's never a bad idea to do a little rummaging. People rarely die for no reason. There's usually a bone to pick that eventually gets picked. Take, for example, some gonk who's neck deep in debt. Maybe instead of payin' it off they decide to keep it safe someplace...
+
+##### Reported Crime: Another Circle of Hell
+
+Choom wanted to grab someone's data, got himself burned. Clear? BURNED. But seriously - it could be worth checking the coords from his gear. Chooms like him usually have some nice toys.
+
+##### Reported Crime: Lost and Found
+
+Dealer torn up by hungry junkies. It happens. So, what'll it be, V? Wanna see what they got in that stash of theirs? Might just get something outta this.
+
+##### Reported Crime: Table Scraps
+
+Gotta have a permit to even pick through these rich assholes' sloppy seconds. Jalapeño Joe didn't, that's why he had to go. And who did him? Some fucking corpo buttlickers. Tellin' ya, the sooner we burn this city, the better.
+
+##### Reported Crime: You Play with Fire...
+
+Smell that, V? Another scorched runner. Wonder what he said right before he sizzled.
 
 ### 45. 子弹项链在各种结局的下落
 
