@@ -75,7 +75,7 @@ Know what my downside is? No matter how much I might want to, I don't fucking ma
 
 ## （2）结局
 
-### Nocturne Op55N1 夜曲OP55N1
+### Nocturne Op55N1 夜曲
 
 We both knew this time would come. If we don't think of something quick, you will die - and I'll go with you. It's time for our final meeting.
 
@@ -121,85 +121,85 @@ If you're out there somewhere - and I think you are - take a look at me now.
 
 ## （3）支线任务
 
-### 拳霸
+### 黑拳
 
-#### Beat on the Brat: The Glen
+#### Beat on the Brat: The Glen 谷地区
 
 Time for another rumble - this time in the Glen. I'd put money on their champ being a Valentino. Yeah, I can see him now: two golden fists and a machete across his back... y'know, in case things get dicey and take a turn for the unsportsmanlike.
 
-#### Beat on the Brat: Pacifica
+#### Beat on the Brat: Pacifica 太平州
 
 A throwdown in Pacifica, huh? Wonder who you're up again. I'd say a Haitian, though I guess that much is probably obvious. Careful, those Pacificans don't fight for first blood - they fight for last blood.
 
-#### Beat on the Brat: Arroyo
+#### Beat on the Brat: Arroyo 河谷
 
 Heard somewhere the champ of Arroyo is a grade-A prick. Good news - should make beatin' his ass all the more fun.
 
-#### Beat on the Brat: Rancho Coronado
+#### Beat on the Brat: Rancho Coronado 科罗纳多农场
 
 A fight in an Animals' club? Oof... feel sorry for you, I do. These guys play hard, V. It won't be easy... and it won't be fun.
 
-#### Beat on the Brat: Kabuki
+#### Beat on the Brat: Kabuki 歌舞伎区
 
 Don't overthink this one. You have to defeat the champion of Kabuki. You know the stakes, you know the place. Now get your ass over there and win.
 
-#### Beat on the Brat
+#### Beat on the Brat 拳霸
 
 You're gettin' noticed, V. People can sense that hunger in you - one that can't be satiated. You want everything right now, and if you don't it...  you fight for it. You're a warrior, V. And the warrior's place is in the ring. Show 'em what you're made of. Knock the bolts off this training bot. And then, well... we'll see.
 
 ### 心中困兽【克莱尔】
 
-#### The Beast in Me: Badlands
+#### The Beast in Me: Badlands 恶土
 
 So, you're waiting for a date with Claire and her turbo-charged pet, Beast, away from all the city's hustle and bustle. I wonder how many bodies have been left to the bake in the Badlands sun after these races? Just do a me a favor and don't become one. Watch out for tumbleweeds, bumpy patches... armored Wraith trucks... Y'know, the usual.
 
-#### The Beast in Me: City Center
+#### The Beast in Me: City Center 市政中心
 
 It's time to find out what really revs Claire's engine, huh? First face of the circuit takes you through the heart of Night City. Back in my time, people who won races like this could count on free drinks for a lifetime. So, y'know... not real long. But still.
 
-#### The Beast in Me: Santo Domingo
+#### The Beast in Me: Santo Domingo 圣多明戈
 
 Ah, Santo Domingo! The eternal fountain of shit where the only sure thing was you'd eventually step on the toes of some hot-blooded jarhead with "6th Street" tatooed on his ass. You win this race, V, you show them who's in charge around here. You got a good shot too - I don't see this Claire slowing down until she reaches the finals.
 
-#### The Beast in Me: The Big Race
+#### The Beast in Me: The Big Race 生死大赛
 
 What now, V? Gonna help Claire stick it to the corpos who offed her husband? Or are you just hunting for that top spot on the podium? You know what I'd do if it were my call, but it's your hands on the wheel, not mine. You know... Claire's not so bad, after all. Kinda feel sorry for her actually. But like I said - your call. Good luck out there, turbo.
 
-#### The Beast In Me
+#### The Beast In Me 心中困兽
 
 No one in Night City is only one layer deep. Take Claire for example - an Afterlife bartender who likes to burn rubber in illegal street races when she's on break. If you get the itch for a little adrenaline, I think you can snatch it at her garage.
 
 ### 回家的路【德拉曼】
 
-#### Epistrophy: Badlands
+#### Epistrophy: Badlands 恶土
 
 Over the mountains, through the woods, nestled on the hills beyond North Oak - that's where your pal Delamain lost one of his cabs. He's a goddamn talking car himself and, apparently, has more cars of his own. I dunno, but I just say we continue this little fairy tale, find that cab, save the princess and claim half the kingdom.
 
-#### Epistrophy: The Glen
+#### Epistrophy: The Glen 谷地区
 
 Ahh, the Glen. You know this used to be a college campus? Some thought that taking out colossal loans and enrolling in a biotech degree would make their lives better. Then the harsh reality kicked in - it was easier to throw yourself off a bridge than get into a corporate research lab. Makes you wonder why our rogue Delamain cab chose this place of all places.
 
-#### Epistrophy: Wellsprings
+#### Epistrophy: Wellsprings 美泉区
 
 Head to Wellsprings to find one of Delamain's missing vehicles. Or go save yourself from impending death. Up to you.
 
-#### Epistrophy: Coastview
+#### Epistrophy: Coastview 海景区
 
 Ever been to Coastview? Not too shabby. Had an output from there once. Sure, maybe she liked to wheeze, jab, pop and snort a little too much, but who wasn't in those days? Her name was Amanda or Amelie or something, I don't remember. Remind me to tell you the shooting range story sometime.
 
-#### Epistrophy: Rancho Coronado
+#### Epistrophy: Rancho Coronado 科罗纳多农场
 
 Never been a fan of Rancho Coronado, personally. If you really gotta find a cab out there, just do it quick and get back into the city, OK?
 
-#### Epistrophy: Northside
+#### Epistrophy: Northside 北区
 
 I kinda like this Delamain. He's comfortable in his own code, not ashamed to be a talking car. He's asked you to find one of his rides in Northside, so I say we do him a favor.
 
-#### Epistrophy: North Oak
+#### Epistrophy: North Oak 北巷区
 
 A taxi in distress calls for a hero like you, V. If you want to become a legend, set out on this quest for ultimate glory. The Afterlife awaits!
 
-#### Epistrophy
+#### Epistrophy 回家的路
 
 Cars didn't talk back in my day, and now this one wants to give you a job? What a time to be alive... What're you waiting for?
 
@@ -243,7 +243,7 @@ The great nomad saga continues: Panam's up to something. That girl just doesn't 
 
 The marina, huh? Wonder what Kerry's got up his sleeve this time. Maybe he wants to get rid of someone - toss their body parts in the bay. Or maybe he just wants an audience while he waxes poetic about yachts over shrimp cocktails. Oh well, he's your problem now. Not mine.
 
-#### Bullets
+#### Bullets 砧板上的肉
 
 Looks like there's some justice in the world after all. My little merc wants to play dress-up like a corpo, then all the sudden a cyberpsycho kicks down the shop's door. Coincidence? Sure, probably, but a fuckin' delightful one. I hope you learn a valuable lesson today. That is, if you survive 'til the end of it.
 
@@ -361,7 +361,7 @@ Can't even remember why Rogue and I were always at each other's throats. All I r
 
 You ever hear the saying "No good deed goes unpunished"? You hold your hand out to someone, you get bitten. You help a poor soul in need, you get fleeced for all you're worth. Save someone's life? Fill in the blank.
 
-#### Burning Desire/Night Moves 火在裆下/夜间行动
+#### Burning Desire/Night Moves 活在裆下/夜间行动
 
 That's the great thing about Night City - no chance you'll ever get bored here. Where else could you have some dude with a smoking crotch jump into your car askin' to hitch a ride? Come on, V, show some sympathy. Get this guy to a ripper before his dick explodes all over your dashboard.
 
@@ -393,7 +393,7 @@ Seems like the PD's taken an interest in a neighbor of yours. Even sounded like 
 
 When a person dies, the world keeps chugging along without skipping a beat. Eventually, all traces of that person fade into nothing. Long story short, that's why your wheels were towed. Want my opinion? The best way to convince the world you're alive and kicking is to get your wheels back. Hell, maybe it's not the most ambitious goal, but for a minor-league merc like you, at least it's a start.
 
-#### Machine Gun 四季宝
+#### Machine Gun 四季宝/随身小宝
 
 So, what, You're giving Skippy to Regina? Too bad. Not everyday find a gun you can share your deepest and darkest with. And have it reciprocate, that is. On the other hand, I get you... Already got enough voices in your head, amirite?
 
@@ -483,7 +483,7 @@ Everyone knows the most gut-twisting, brain-blitzing, 'dorph-jacking braindances
 
 Don't think I've gone all sentimental or anything. Honestly, I couldn't give a shit if I've got any fans left in this city. If someone hears one of my tracks and they get the itch to take to the streets, then that's fucking nova, but those old recordings don't matter anymore. Find 'em, listen to 'em, I don't care. Although while we're on the subject... Wonder how thing are over at Rainbow Cadenza...
 
-#### The Gig
+#### The Gig 买卖
 
 Whenever we go see Wakako and walk into that pachinko salon of hers, I get this weird, like, tingling feeling on the back of my neck. I dunno, V, she's all knots of weird. Anyway, she promised a special reward for this job with Sandra Dorsett. All we have to do is go see her on Jig-Jig Street.
 
@@ -493,81 +493,81 @@ Well, whaddaya know. This corpo-slut from the crucifixion BD wants you to come b
 
 ## （4）委托
 
-### 赛博精神病
+### 目击赛博精神病
 
-#### Cyberpsycho Sighting: Bloody Ritual
+#### Cyberpsycho Sighting: Bloody Ritual 血腥仪式
 
 Not everyone's made for Maelstrom. Some - surprise, surprise - don't take to well to having half their face chopped off. They start hearing voices, seeing and imagining things. Then, it's enough to get their hands on a gun, and... that recipe for disaster's ready to serve.
 
-#### Cyberpsycho Sighting: Demons of War
+#### Cyberpsycho Sighting: Demons of War 事出反常必有妖
 
 Usually, when a corpo gets his walking papers, he loses all his implants too. They dig those synth organs and cyber eyes right out of his body. But sometimes, the chrome's so far ingrown, it can't be removed safely. Even if someone really, really wants it...
 
-#### Cyberpsycho Sighting: Discount Doc
+#### Cyberpsycho Sighting: Discount Doc 打折的医生
 
 Working on a construction site has its perks: breeze on your face, sun on your shoulders, no creepy corpo smell and tangible results you can show off to the world. It's good, honest work. 'Course Night City's always got a way of fucking things up.
 
-#### Cyberpsycho Sighting: House on a Hill
+#### Cyberpsycho Sighting: House on a Hill 山林小屋
 
 Shots were heard on the outskirts of NC - rare given the seemingly peaceful area. We oughta go and take a closer look. Why wait for the clean-up crew when there could still be lives that need saving?
 
-#### Cyberpsycho Sighting: Letter of the Law
+#### Cyberpsycho Sighting: Letter of the Law 有法必依
 
 I have a bad feeling about this. A real bad feeling.
 
-#### Cyberpsycho Sighting: Lex Talionis
+#### Cyberpsycho Sighting: Lex Talionis 同态复仇
 
 The underpass near GIM is like NC's Bermuda Triangle for the homeless. Sound like a piece of cake? In the heart of Pacifica, nothing ever is.
 
 Enter at your own risk.
 
-#### Cyberpsycho Sighting: Lt. Mower
+#### Cyberpsycho Sighting: Lt. Mower 莫厄尔中尉
 
 WARNING! CYBERPSYCHO DETECTED. MILITECH HAS LOCKED DOWN THE AREA. KEEP AWAY!
 
-#### Cyberpsycho Sighting: On Deaf Ears
+#### Cyberpsycho Sighting: On Deaf Ears 充耳不闻
 
 Hey V! Watch out. Whoever left those bodies is still hanging around.
 
-#### Cyberpsycho Sighting: Phantom of Night City
+#### Cyberpsycho Sighting: Phantom of Night City 夜之城魅影
 
 Ghosts? Ghosts don't exist, V. The dead can tell you that.
 
-#### Cyberpsycho Sighting: Seaside Cafe
+#### Cyberpsycho Sighting: Seaside Cafe 海滨咖啡馆
 
 Whoever killed them was packing a lot of hate, a lot of rage. And those feelings don't fade quickly. Be careful.
 
-#### Cyberpsycho Sighting: Second Chances
+#### Cyberpsycho Sighting: Second Chances 人生重来
 
 Everyone deserves a second chance, V. I know that better than most. But who's granting that chance and who's getting it are important questions that oughta be asked.
 
-#### Cyberpsycho Sighting: Six Feet Under
+#### Cyberpsycho Sighting: Six Feet Under 入土为安
 
 Maelstrom certainly has its own unique recruitment and retention methods. Ranks getting too thin? Well, just kidnap a few Valentinos, knock 'em out cold and bolt on some new faceplates. What could possibly go wrong with that? everything, that's what.
 
-#### Cyberpsycho Sighting: Smoke on the Water
+#### Cyberpsycho Sighting: Smoke on the Water 水上的烟雾
 
 If it weren't for the all the screaming, dead Scavs and that wreck of a car, be a pretty nice place. But hey, that's life. Wanna go check it out, see what went down? Try the pier first.
 
-#### Cyberpsycho Sighting: The Wasteland
+#### Cyberpsycho Sighting: The Wasteland 荒原
 
 Does a cyclone of dust and sand stirred up by a dash cyberpsychosis sound exciting? Then I do I have some good news for you.
 
-#### Cyberpsycho Sighting: Ticket to the Major Leagues
+#### Cyberpsycho Sighting: Ticket to the Major Leagues 跟大哥们混的资格
 
 Not all people cope the same way when those first symptoms of cyberpsychosis show up. Some throw themselves off a bridge. Others hand themselves over to the cops. And most of the rest try to self-treat with sedatives - as many as they can get their hands on. No matter the cost.
 
-#### Cyberpsycho Sighting: Under the Bridge
+#### Cyberpsycho Sighting: Under the Bridge 大桥下
 
 V, you don't have anywhere else to be? Only thing you'll stir up here is trouble. I'd beat it, but... you do you.
 
-#### Cyberpsycho Sighting: Where the Bodies Hit the Floor
+#### Cyberpsycho Sighting: Where the Bodies Hit the Floor 兔死狗烹
 
 There are few certainties in Night City... Super-sketch stomach-melting streetfood, politicians choked by corporate leashes and the echo of screams heard coming from the Totentanz club. Oh wait, and one more thing: if you step foot down the wrong alley, your head will probably roll out the other end.
 
 ### 其他
 
-#### Gig: Goodbye, Night City
+#### Gig: Goodbye, Night City 再见，夜之城
 
 Sometimes you need a friend to lean on. Sometimes you need a friend to break you out of an immigrant detention center at the Night City-SoCal border.
 
