@@ -17,9 +17,13 @@ origin: 个站
 
 Don't trust that Takemura. Meet with him, sure, check him out, but keep your eyes open. He's a corporat, meaning he's looking to use you.
 
+不要相信那个竹村。见他可以，去摸摸他的底，但一定要小心。他是条公司狗，说明他打算利用你。
+
 ## Automatic Love 高级动物
 
-So you've decided to find the chick who put on this first-class shitshow. She had a job and you took it 'cause there was no one else to knock some sense into your gonk head. I'm here now, but so what? This search and rescue bullshit's a dead end, but that's not about to stop you. Maybe Evelyn will, who knows? Sure seems like she doesn't wanna be found. 
+So you've decided to find the chick who put on this first-class shitshow. She had a job and you took it 'cause there was no one else to knock some sense into your gonk head. I'm here now, but so what? This search and rescue bullshit's a dead end, but that's not about to stop you. Maybe Evelyn will, who knows? Sure seems like she doesn't wanna be found.
+
+这么说，你决定去找那个导演这出蹩脚戏的小姐。本来是人家的工作，你却非要抢过接力棒，就因为没人来跟你这个木头脑袋讲讲道理。对，还有我在，可是有什么用？这趟千里大营救根本没戏，但即便是这样也阻止不了你。也许艾半琳会，谁知道呢？我看她就是不想让别人找到。
 
 ## The Space in Between 垃圾场
 
@@ -31,19 +35,29 @@ If I've learned one thing from joyhouses, it's to quit while the going's good. S
 
 Every city's got its shady neighborhoods and "no-go" zones. Stepping into these areas in Night City is like wading into the abyss and feeling it stare back through your soul. Anyone with an ounce of sense avoids these haunts altogether. Your average gonk's usually seen limping out, bleeding from one or more places. And you, V? Just make sure you come out intact.
 
+每座城市都有那么一块三不管的地界。在夜之城，闯进去就等于是踏进深渊，而且深渊还会凝视着你的灵魂。但凡有一丝理智的人都会躲得远远地。脑子不那么灵光的家伙呢，要么缺胳膊少腿，要么就是身上不止一个窟窿在往外冒血。至于你，V，你可要给我完完整整地出来。
+
 ## Double Life 两生花
 
 There's nothing you can't take away from a person - you just gotta look hard enough. When all options are exhausted, you've still got a body that can be harvested, skills that can be put to good use... Oh, and let's not forget "dignity" - that's a classic. Hell, I'm starting to think I could've done worse than end up on this little Relic of yours.
 
 一个人的身上没有什么东西是不能夺走的。就看你有没有开动脑筋。哪怕什么都没了，不是还有身体可以出卖，还有看家的本事可以利用吗? 哦，当然也别忘了“尊严”，那可是压轴戏。哼，我都开始觉得，要不是困在了你的这个Relic里，我的下场说不定会更惨。
 
-## M'ap Tann Pèlen
+## M'ap Tann Pèlen 猎物何时来
 
 Well, we know the Voodoo Boys were behind all this, so that's one step forward. Problem is, now we have to reach them somehow - two steps back. There are a lot of things to be found in Pacifica, just usually not what you're looking for. Good news is you already got your fixer: a man without a face to help you find this fart in the wind. Sounds like a fun fuckin' delight.
+
+OK，我们知道都是巫毒帮在背后搞鬼，这算是往前走了一步。可问题在于，现在还得想办法找他们，等于又倒回去两步。在太平洲这地方找东西，跟粪里挑蛆差不多。还好你的中间人已经到位了：能有一个神头鬼脸的人帮你顺着这些蛆的屎味找他们，听着就他妈带劲。
 
 ## I Walk the Line 勇往直前
 
 I'm sick of this Placide motherfucker as much as you, but at least the fog has lifted, the goal is clear. You find a netrunner in the GIM and the Voodoo goons will set up a meet-n-greet with their queen. Pros? Maybe I'll actually get to see a legit netrunner, 'cause it's sure starting to feel like an extinct species these days. Someone who's got the guts to square off against the Voodoos has given me some hope, at least. But the cons? Damn near any minute your brain could start dripping out your ears. Afraid we won't have time to make pilgrimmages to the monuments of Pacifica's Golden Age.
+
+我和你一样受不了普拉西德这个王八蛋，但至少现在目标已经明确了。你去大帝国商场找一个黑客，巫毒帮的崽子们就会替你搭桥，去拜见他们的女王。往好了看？搞不好我真能见到一个正儿八经的网络黑客，因为这年头他们都快死绝了。起码人家有种跟巫毒帮叫板，要我说有前途。不过往坏了看呢？你的脑浆子随时都可能从耳朵里淌出来。恐怕我们没时间去太平洲的黄金岁月纪念碑朝圣了。
+
+## Transmission 电波（TBA）
+
+事情还真他妈办成了。和巫毒帮、布丽奇特合作……直接就能带我们找到奥特。孩子，看来你的倒霉日子要结束了。我向你保证，对奥特来说，修好你的脑绕就是小菜一碟。眼下你就按照布丽奇特说的做，其它的交给我。
 
 ## Never Fade Away 永不消逝【强尼】
 
@@ -61,31 +75,49 @@ Wanna track down Hellman? Start at the Afterlife. Sure, the place has changed ov
 
 Just when you think you've solved your problem, your solution goes and starts making fucking demands. Looks like Panam'll only scratch your back if you scratch hers. Could've expected that, coming from a nomad. Know what, though? I've got a good feeling about this sand-swept desert dame. Let's see where our newfound friendship takes us. Preferably to that weasely fuck, Hellman.
 
+想找赫尔曼？先从来生开始找起吧。没错，这些年来那地方变化不小，但有一件事永远不会变：碰上挥之不去的难题，就去来生。那儿总有人能够在你耳边说
+出答案……当然，价钱得合适。而如果这个人是罗格，操，那我说什么也要去见她一面。
+
+你刚以为问题解决了，解决方案又开始呼鼻子上脸。看来你不帮帕南，她也不会帮你。你也是流浪者，早该想到这一点。不过你猜怎么着？我觉得这位满面风沙的大漠女郎挺靠谱。看看这段新建立的友谊能够发展出什么结果来吧。要是能帮有我们找到赫尔曼那个滑头，那就再好不过。
+
 ## Lightning Breaks 拉闸【赫尔曼】
 
 Panam Palmer. Gotta say, I like her. Girl's got a pair - and clearly a plan, too. Let's see if it's enough to grab Hellman. Honestly, V, never thought I'd ride with the nomads again. I know, I know she left the Aldecaldos, but you can feel it too, can't you? Clan's in her blood and bones. In her heart. Don't think she'll let us down.
+
+帕南·帕尔默。我承认，我挺喜欢她。那姑娘有种，而且也知道自己要干嘛。那咱们就瞧瞧这样能不能抓住赫尔曼。老实说，V，真没想到我还会再次跟流浪者合作。我知道，我知道她离开了阿德卡多，但你、也能感觉到吧？她骨子里流着部族的血。还有她的心里。我觉得她不会让我们失望。
 
 ## Down on the Street 荒街老友【竹村】
 
 If someone told me I'd be taking calls from Saburo Arasaka's fucking bodyguard, I'd have laughed in their face. And now we're supposed to meet with some Takemura? Hand over all our detes? I'm not even gonna pretend like this is a good idea. But fuck it - sometimes you just gotta go all in.
 
+如果有人跟我说，我他妈会接荒坂三郎的保镖打来的电话，我非把牙给笑掉不可。结果现在我们得去见什么竹村? 还要把手里的底牌都交出去? 这戏我都不知道怎么陪你演。可是呢，妈的，有时候你还就只能梭哈。
+
 ## Gimme Danger 危险游戏【竹村】
 
 Our crazed ronin shows no signs of slowing his roll. We barely get intel from Wakako about the parade and Takemura's already hatching some hairbraned scheme in Japantown. He wants to meet at the market? Fine, let's parley, but you already know where I stand. Don't let him strong-arm you into anything. Who knows how many loose screws are bouncing around that skull at this points...
+
+那个不要命的浪人根本没有消停的意思。我们好不容易从和歌子那儿拿到祭典的消息，竹村就已经在盘算日本街的馊主意了。他想在市场见面？行啊，跟他谈，但我的态度你是知道的。别因为他嗓门儿大就什么事都答应。谁知道眼下他脑子里搭错了几根弦…… 
 
 ## Play It Safe 虎口拔牙【竹村】
 
 Since I wasn't invited to Saburo Arasaka's funeral, I guess this sad little parade will have to do - I'm just missing confetti. But in all seriousness, Takemura must have a death wish. He's just gonna jump onto Hanako's platform? Be my fucking guest - we'll deal with the snipers. Meanwhile, keep an eye out for an escape route. This gonna go all kinds of wrong - I can feel it.
 
+显然不会有人邀请我参加荒坂三郎的葬礼，那就用这破祭典将就吧。他们怎么也不请人来撒个纸钱？不过说正经的，竹村肯定是活腻味了。他打算就这么跳上华子的山车? 随他妈的便，我们去解决狙击手。同时你也别忘了找个退路。我感觉得出来，这事儿肯定得砸。
+
 ## Search and Destroy 303号房【竹村】
 
 Know what my downside is? No matter how much I might want to, I don't fucking make mistakes. Lo and behold! Our factory-reset ronin, hounded by every single Arasaka soldier in Night City for KIDNAPPING Saburo Arasaka's daughter. Kudos to him - I couldn't've fucked this plan up better myself. And after all this he STILL wants you to drop by? I don't know who's more whacked - him or us. Just remember to knock four times. His head, preferably - against a fucking table.
+
+知道我的缺点是什么吗？无论我有多努力，可就是他妈犯不了错。瞧一瞧看一看了啊! 这儿有位恢复出厂设置的浪人，绑架了芝坂三郎他闺女，夜之城所有的
+荒坂土兵都追在屁股后头呢。真该给他点个大大的赞，这么臭的点子你是打着灯笼都找不着。而且都这样了，他还要你过去？我都不知道谁更有病，他还是我们。别忘了门要敲四下响的。要是能用他的脑袋往桌面儿上招呼，那更他妈脆。
 
 # （2）结局
 
 ## Nocturne Op55N1 夜曲
 
 We both knew this time would come. If we don't think of something quick, you will die - and I'll go with you. It's time for our final meeting.
+
+我们都知道早晚会有这么一天。如果不赶紧想出办法，你就会死，我会跟你一起完蛋。该安排安排见家属了。
 
 ## 恶魔结局
 
@@ -98,6 +130,16 @@ That's all, folks! Little Johnny can go to sleep while the grown-ups fix their b
 Go to hell, V. You're on your own, got that? Stage is all yours. I'll just stand in the wings and watch you meet certain death, 'cause that's how this little coup against Yorinobu is gonna end. That is, unless our porcelain doll's got any aces up her sleeve. But if things go south, just jump out the window. Don't give them the satisfaction - don't let the fuckers take you alive.
 
 Well I'll be a corporat on a stick. Yorinobu tried to take out the entire Arasaka board in one fell swoop. I'd buy the gonk a beer if I could. No doubt, the sight of Arasakas lunging at each other's throat is a thing of beauty, but it kinda throws a wrench in our plans. Now you gotta take care of Yorinobu on Hanako's terms. Looks like Lil Sis is done playing around - crazy Big Bro's gonna give up Arasaka tower one way or the other. Still, isn't it weird that we're not allowed to hurt a hair on his pretty little head after he marked her for DEATH? Maybe Hanako wants to "neutralize" him herself? One thing's for sure - the path to Yorinobu's office leads through a lot of levels... and a LOT of bodies.
+
+## 太阳结局
+
+### Knockin' On Heaven's Door 敲响天堂之门【罗格】（TBA）
+
+最难的部分已经过去了。我敢说，罗格抖得比公司的狗杂种全加起来都要厉害。可她最后还是答应了。我们要回到荒坂塔，而这一次……我们要有始有终。我们会把奥特放到大楼的系统里，让她带我们去神舆。操，真希望你也能看到！
+
+## For Whom the Bell Tolls 丧钟为谁而鸣【罗格】（TBA）
+
+V？不知道你能不能听见。我甚至不确定你是不是清楚发生了什么。我只知道你确实有胆量，才能作出这样的决定。我发誓，这次我一定不会搞砸。我会说服罗格，再闯一次荒坂塔。
 
 ## 星星结局
 
@@ -161,6 +203,8 @@ A fight in an Animals' club? Oof... feel sorry for you, I do. These guys play ha
 
 Don't overthink this one. You have to defeat the champion of Kabuki. You know the stakes, you know the place. Now get your ass over there and win.
 
+这事儿你别多想。你得打败歌舞伎区的冠军。你知道规矩，也知道地方。现在赶紧过去，把比赛赢下来。
+
 ### Beat on the Brat 拳霸
 
 You're gettin' noticed, V. People can sense that hunger in you - one that can't be satiated. You want everything right now, and if you don't it...  you fight for it. You're a warrior, V. And the warrior's place is in the ring. Show 'em what you're made of. Knock the bolts off this training bot. And then, well... we'll see.
@@ -193,39 +237,57 @@ No one in Night City is only one layer deep. Take Claire for example - an Afterl
 
 Over the mountains, through the woods, nestled on the hills beyond North Oak - that's where your pal Delamain lost one of his cabs. He's a goddamn talking car himself and, apparently, has more cars of his own. I dunno, but I just say we continue this little fairy tale, find that cab, save the princess and claim half the kingdom.
 
+越过群山，穿过树林，在那北橡区的小山上，你的老朋友德拉曼丢了一辆车。他妈的这车会说话，而且显然不止自己一辆。我也搞不懂。不过要我说，咱们就把这个童话故事编下去。找到出租车，救出公主，半个王国就是你的了。
+
 ### Epistrophy: The Glen 谷地区
 
 Ahh, the Glen. You know this used to be a college campus? Some thought that taking out colossal loans and enrolling in a biotech degree would make their lives better. Then the harsh reality kicked in - it was easier to throw yourself off a bridge than get into a corporate research lab. Makes you wonder why our rogue Delamain cab chose this place of all places.
+
+啊，谷地区。知道吗？以前这里是大学园区。总有人觉得借笔巨额助学贷款，拿一个生物技术的学位就可以飞黄腾达了。迎接他们的是残酷的现实; 要想进公司的研究实验室，还不如站桥上跳河容易呢。于是你就不禁要想了：我们这辆离家出走的德拉曼出租为什么偏偏挑了这么个地方？
 
 ### Epistrophy: Wellsprings 美泉区
 
 Head to Wellsprings to find one of Delamain's missing vehicles. Or go save yourself from impending death. Up to you.
 
+去美泉区找其中一辆德拉曼失踪的车子。或者救自己的命，摆脱即将到来的死亡。你自己决定。
+
 ### Epistrophy: Coastview 海景区
 
 Ever been to Coastview? Not too shabby. Had an output from there once. Sure, maybe she liked to wheeze, jab, pop and snort a little too much, but who wasn't in those days? Her name was Amanda or Amelie or something, I don't remember. Remind me to tell you the shooting range story sometime.
+
+你去过海景区没有？地方不算太糟。我以前有个女朋友就是那儿的。是，粉啊丸啊药啊烟啊她样样齐，不过那会儿谁不是呢？叫阿曼达还是艾米丽什么的，我不记得了。下次提醒我给你讲打靶场的故事啊。
 
 ### Epistrophy: Rancho Coronado 科罗纳多农场
 
 Never been a fan of Rancho Coronado, personally. If you really gotta find a cab out there, just do it quick and get back into the city, OK?
 
+就个人而言，我一向不喜欢科罗纳多农场。如果你真要去那儿找出租车，那就快去快回，OK？
+
 ### Epistrophy: Northside 北区
 
 I kinda like this Delamain. He's comfortable in his own code, not ashamed to be a talking car. He's asked you to find one of his rides in Northside, so I say we do him a favor.
 
-### Epistrophy: North Oak 北巷区
+我有点喜欢这个德拉曼。大大方方，不会因为自己是一辆会说话的车就觉得丢人。他让你去北区找自己的一辆车，要我说，这忙我们得帮。
+
+### Epistrophy: North Oak 北橡区
 
 A taxi in distress calls for a hero like you, V. If you want to become a legend, set out on this quest for ultimate glory. The Afterlife awaits!
+
+有辆出租车遇难，他正在呼唤你这样的英雄，V。如果你想要成为传奇，那就踏上这段历险的旅程，追求无上的荣耀。来生正在等着你！
 
 ### Epistrophy 回家的路
 
 Cars didn't talk back in my day, and now this one wants to give you a job? What a time to be alive... What're you waiting for?
+
+在我那个年代，车子不会回嘴，可这辆车居然还要交给你一个任务？真是生在了好时候呀……所以你还等什么呢？
 
 ## Badlands
 
 ### Following the River 爱似河【瑞弗】
 
 The Peter Pan case is done and closed, so you do know you never have to see this badge again... right? OK, fine, I get it, you crawled through shit and fire together, and now you wanna kick back and celebrate your victory. But a family dinner? Fuckin' seriously? Can't just find a decent dive to grab a tequila or ten? Smash the bottle over some corpocunt's face? You're getting soft, V.
+
+彼得·潘的案子已经结了，以后就再也不用跟这个条子见面了对吧? OK，行，我懂。你们一起上刀山下火海，现在想放松一下庆祝庆祝。但是家庭聚餐？你他妈是当真的吗？就不能找个还过得去的场子，灌几杯来动的，把酒瓶子往公司狗的脸上拍？V，你的骨气哪儿去了？
 
 ### I'll Fly Away 飞翔鸟【蝎子】
 
@@ -245,9 +307,13 @@ Ok, this Zen master guy of yours is literally everywhere. He's gonna fall ass fi
 
 Everyone knows you can't just count on yourself in this goddamn city. You always gotta have a few chooms who owe you a favor. And a few you've got dirt on too. But when you've got the kind of choom who starts asking you for weirder and weirder shit? That's when problems start.
 
+大家都知道，在这座操蛋城市里，光靠自己可不行。总得有几个欠你人情的伙计，还有几个被你抓住把柄的。不过当你的朋友提的要求开始越来越离谱的时候，那麻烦也就不远了。
+
 ### Riders on the Storm 冲破风暴【帕南】
 
 OK, this must actually be pretty serious. Tough chick like Panam wouldn't call you up for some chump chore. Must be something important. Wouldn't waste any time on this one if I were you. To the Aldecaldos' camp we go.
+
+好吧，看来问题一定很严重。帕南这种铁娘儿们，不到万不得已绝对不会开口求你。肯定是大事。我建议你动作快点。赶紧去阿德卡多营地。
 
 ### These Boots Are Made for Walkin' 失而复得
 
@@ -283,6 +349,8 @@ Your buddy Delamain appears to be having some personal issues. How else do you e
 
 I don't usually give advice, but... fuck it, here goes. Don't make the same mistake I made - say goodbye to the people you love. You know what I mean, right? Jackie Welles was your best choom, and you don't find a lot of straight-up peeps like that in NC. Best thing you can is remember them. Oh, and one more thing. If anyone asks, I didn't just say all that to you. Got it?
 
+我通常不太给别人提建议，但是……妈的，我要说说你。别走我以前的老路，要跟你爱的人说再见。你知道我这话是什么意思吧？杰克·威尔斯是你最好的兄弟。在夜之城，这么正直的人不多了。你能做的，就是把它们记在心里面。哦，还有，要是有人问起来，别说这些话是我说的。明白吗？
+
 ### I Fought the Law 向法律宣战【杰佛逊】
 
 Initial entry:
@@ -294,6 +362,14 @@ First rule of working with politicians - don't do it.
 First rule of contacting the police - avoid it.
 And what do you do? Break 'em all at once. Gotta say, V, I'm a little impressed.
 
+接下“绝密”任务的第一条规矩：别去接。
+
+和政客合作的第一条规矩：别合作。
+
+跟警察接触的第一条规矩：别接触。
+
+可是你呢？把它们全违反了。必须承认，V，你真够可以的。
+
 ### Only Pain 愧而为人
 
 "To serve and protect..." Funny, would've thought "To extort and torture" might fit better. Not sure what this guy's beef is with badges, but if you don't step in, they'll be scrapin' him off the sidewalk. Once they smear him there first, of course. But I dunno... maybe it's for the best? After all, no one's in Night City's dyin' an innocent soul.
@@ -302,12 +378,19 @@ And what do you do? Break 'em all at once. Gotta say, V, I'm a little impressed.
 
 Usually it's the customers spillin' the ugly personal stories to the bartender, yet there we were, seeing it the other way around. Pepe thinks his wife is cheating on him and he's looking for someone to confirm his worst suspicions. Classic. A cuckold, a beautiful woman, a city shrouded in darkness... Get the feeling I've read this story before.
 
+### Small Man, Big Mouth 有钱大家赚【柯克】（TBA）
+
+柯克打电话说有活儿要给你干？说这次肯定万无一失？绝对安全、零风险、高收益？那你还等啥呢？听着一点错都不会有啊!
+
 ### The Hunt 猎杀【瑞弗】
+
+So some depraved maniac's kidnapping boys, and lo and behold, your badge is caught up in the middle of it. Gotta be honest, this doesn't look good. Peter Pan's just another manifestation of this fucked up city - probably already ended those poor brats. But on the off-chance Randy's still alive... If I were you, I'd go save him. Especially if "breaking the law" is involved.
 
 NCPD boy in blue gives you a holler and you come runnin' like an obedient dog? This ain't gonna become a habit is it? Well, whatever - sounds like he's got an errand for you, real personal kind. Least it's better than chasing dead politicians. Just do me a favor - don't get used to it.
 
-Upon completion:
-So some depraved maniac's kidnapping boys, and lo and behold, your badge is caught up in the middle of it. Gotta be honest, this doesn't look good. Peter Pan's just another manifestation of this fucked up city - probably already ended those poor brats. But on the off-chance Randy's still alive... If I were you, I'd go save him. Especially if "breaking the law" is involved.
+所以有个灭绝人性的疯子到处绑架男孩，然后不好意思，你这位警察也搅了进去。我说实话，情况看着不妙。彼得·潘不过是这座操蛋城市的又一个代表人物，我看那些倒霉小鬼已经被他做掉了。但万一里的万一兰迪还活着……换做是我，我就会去救他。特别是跑这么一趟还得“违法乱纪”。
+
+那个穿警服的 NCPD 一个电话，你就像条哈巴狗一样跑过去？你该不会养成习惯吧？哼，随便你。听起来他有个跑腿的活儿要交给你，特别私人的那种。至少比追查送命的政客要强。帮我个忙，千万别养成习惯。
 
 ## Pacifica
 
@@ -327,6 +410,10 @@ Here's a joke for you: V walks into a bar... and gets robbed. The end.
 
 Jesus, you and your shit luck. You better figure something out quick or our epic story's about to get cut short in the stupidest way imaginable. Accidental deaths don't jive too well with me. Or with the birth of legends.
 
+给你说个笑话：V 走进酒吧……然后被抢了。结束。
+
+老天，你这叫什么狗屎运。最好赶紧想办法，否则咱俩的史诗冒险就会以最蠢的方式提前结束。意外死亡这种事情不大适合我。跟诞生传奇更是浑身不搭界。
+
 ### Gun Music 火上浇油
 
 The Aldecaldos must really be desperate. To come this close to the city, and deal with scavs no less... Risky move. Sounds like they could use a hand.
@@ -339,9 +426,13 @@ Look, I don't know if Kerry's just having a real late-life crisis, or whether hi
 
 Who ever said no to a free car? Not to mention it's a Quadra Turbo Fuckin' R. So quit picking your nose, head down to Rancho Coronado and get behind that wheel.
 
+天上白白掉下来一辆车，谁会不要？更不用说还他妈是古德拉Turbo R了。别傻站着了，赶紧去科罗纳多农场把它开走。
+
 ### Sinnerman 罪与罚【约书亚】
 
 You're right about one thing - this job from Wakako stinks to high heaven. Besides, you're above doing plain ol' hit jobs. Probably no harm in talking to Bill Jablonsky and seeing what his deal is. But if I were you? I'd take a hard pass.
+
+有件事你是对的，和歌子的这个任务猫腻大了去了。再说，你这种档次的不至于单纯为了钱杀人。不妨去和和比尔·贾布隆斯基谈谈，看看到底是怎么回事。但如果我是你，这活儿我压根就不接。
 
 ### Space Oddity 天外奇物
 
@@ -365,31 +456,45 @@ Another mystery, another missing person in Night City. Used to be the cops would
 
 I love these WTF situations. A guy hires you to off some other guy, and then that first guy dies, but then the second guy hires you to go somewhere with him for who the fuck knows what. But hey, it's not like you're short on work. Just don't fuck this one up, OK? I know you wanna know how this all plays out.
 
+我就喜欢这种莫名其妙的事情。一个人雇你去干掉另一个人，然后第一个人死了，第二个人又雇你和他去一个地方，也不知道是为什么。不过这样也好，不缺活干。就是别搞砸了，好吗？我知道，你也想弄清楚到底是怎么一回事。
+
 ## Watson
 
 ### A Cool Metal Fire 金属狂人
 
 Now, I don't ask you for much, but I gotta zero Smasher myself. That motherfucker thinks he's invincible. Worse, so does Rogue. All these years, Arasaka Tower's been haunting her. Enough's enough. I'm taking control this one time, I'm finding him, I'm wiping Adam Smasher off the face of the earth.
 
+现在我对你所求不多，但我要亲手干掉重锤。那混蛋以为自己所向披摩。更糟的是，罗格也这么想。这么多年，荒坂塔一直困扰着她。真是够了。这次我要主动出击，我要找到他，我要让亚当·重锤这张脸从地球上消失。
+
 ### Big in Japan 东瀛第一等
 
 Find the package, and deliver it from A to B. Simple job, huh? But then why not just book some delivery guy? And why not go through a fixer? Something smells off about this one, V.
+
+找到包裹，然后从A点送到B点。很简单是吧？可为什么不找个送快递的干呢？为什么不通过中间人呢？V，我觉得这里有猫腻。
 
 ### Blistering Love 梦缠绕的时候【罗格】
 
 Can't even remember why Rogue and I were always at each other's throats. All I remember is the good times - and how few of them there were. Now I've got one night to make it up to her. Yeah, a movie date sounds boring, but hell, we never did normal, boring things. Better late than never, right?
 
+我都不记得为什么我和罗格总是吵架了。我只记得那些好时候，以及那样的时候并不多。现在，我有一个晚上的时间来弥补她。对，约会看电影听着是无聊，但是妈的，我们就从来没干过这些普通的无聊事。现在为时还不晚，对吧？
+
 ### Both Sides, Now 幻灭
 
 You ever hear the saying "No good deed goes unpunished"? You hold your hand out to someone, you get bitten. You help a poor soul in need, you get fleeced for all you're worth. Save someone's life? Fill in the blank.
 
-### Burning Desire/Night Moves 活在裆下/夜间行动
+没听过这么一句话吗？“好人没好报”。斗米恩，升米仇。向别人伸出援手，结果被反咬一口。要是救别人一命呢？下半句自己琢磨。
+
+### Burning Desire/Night Moves 火在裆下/夜间行动
 
 That's the great thing about Night City - no chance you'll ever get bored here. Where else could you have some dude with a smoking crotch jump into your car askin' to hitch a ride? Come on, V, show some sympathy. Get this guy to a ripper before his dick explodes all over your dashboard.
+
+夜之城好就好在这儿：永远不无聊。你去哪儿能碰到这么个裤裆冒烟的家伙，跳上车来求你搭他一段的？行了，V，有点同情心。赶紧送他去看义体医生，省得回头他那根小兄弟一炸开，全糊你仪表盘上。
 
 ### Chippin' In 插管【强尼】
 
 This is it, Rogue's in for the kill - she's ready to stop running from her past and catch Smasher. And when we catch the bastard, I wanna be the one to pull the trigger. But for now - you're in charge. Happy hunting!
+
+罗格总算是来真的了。她已经做好了准备，不再逃避自己的过去。她要抓住重锤。等那个王八蛋落在我们手里，我要亲自宰了他。不过现在嘛，这具身体还是你说了算。祝你打猎愉快！
 
 ### Every Breath You Take 你的每一寸呼吸【蓝月】
 
@@ -403,25 +508,35 @@ Maybe these strange images that you're seein' really do exist. Or maybe the bioc
 
 Kidney failure. In the city, nothing that a stack of eddies and a few minutes won't solve. But in the Badlands... a death sentence. That is, unless a gentle soul somewhere feels like playin' guardian angel. Someone that'll get him the implant he needs before it's too late. Well, V? Think there 's anyone out there like that?
 
+肾脏衰竭。在城里，花点钱，等上几分钟，什么都能解决。但是在恶士……这等于是判了死刑。也就是说，除非有个慷慨大方的善人愿意发慈悲，趁现在还来得及，给他装上植入体。怎么样，V？你觉得有这样的人吗?
+
 ### Full Disclosure 大曝光
 
 Sandra Dorsett... that chick you pulled out of a scavs' nest? Man, give someone an inch and they take a mile... This databank must be pretty special to her if she ain't even willing to go through a fixer. Well, damn... now I'm kinda curious. Gonna help out - or play by the rules of the game?
+
+桑德拉·多塞特……就是你从清道夫的老窝里捞出来的那个妞？妈呀，真是得寸进尺……她连中间人都不找，说明这个数据银行对她来说一定非常特别。哎呀， 真要命……我都有点好奇了。你是打算去帮她呢，还是要按规矩来?
 
 ### Happy Together 当你凝视深渊时【巴里】
 
 Seems like the PD's taken an interest in a neighbor of yours. Even sounded like they knew each other. Will you assume the mantle of a concerned, responsible citizen and ask what's going on? I mean, if you got a potential psycho for a neighbor, wouldn't you want to know?
 
+看来警察对你的一个邻居很感兴趣。而且听上去他们好像还认识。能不能请你做一个热心负责的好市民，去问问是怎么回事？我是说，万一咱邻居是个变态呢，你就不想知道吗?
+
 ### Human Nature 机械与人格
 
 When a person dies, the world keeps chugging along without skipping a beat. Eventually, all traces of that person fade into nothing. Long story short, that's why your wheels were towed. Want my opinion? The best way to convince the world you're alive and kicking is to get your wheels back. Hell, maybe it's not the most ambitious goal, but for a minor-league merc like you, at least it's a start.
+
+人死之后，地球照样转，一秒钟都不会耽搁。最终这个人曾经存在的所有痕迹都会消失殆尽。长话短说，这就是为什么你的车子会被拖走。知道我是怎么想的吗？要让这个世界明白你还活蹦乱跳地，最好的办法就是把自己的车拿回来。哎，也许这算不上什么远大的抱负，但对于你这样一个三脚猫的雇佣兵来说，至少是一个开始。
 
 ### Machine Gun 四季宝/随身小宝
 
 So, what, You're giving Skippy to Regina? Too bad. Not everyday find a gun you can share your deepest and darkest with. And have it reciprocate, that is. On the other hand, I get you... Already got enough voices in your head, amirite?
 
-### Paid in Full
+### Paid in Full 全额偿还
 
 I don't know many rippers who'd install Kiroshi optics on credit and faith. In fact, I only know one - Viktor. Maybe once you're on top you don't forget about the old guy, yeah? Pay the man what he's due.
+
+愿意赊账帮人安装歧路司义眼的义体大夫我认识的没几个。事实上，我只认识这么一个：维克多。等你哪天发家了也别忘了他老人家，行吗？把你欠这位好大夫的两万一付了。
 
 ### Psycho Killer 变态杀手
 
@@ -441,9 +556,13 @@ A shooting range competition? Ho-ho, wonder what fun prizes are up for grabs. Gi
 
 A job from Nix? Should be interesting. Guy's got a rep for being an expert on antique tech, pre-Krash hardware. Decks, mag disks, yada yada yada. Some people'll tell you it's all as useful as a typewriter, a record player, a pile of dried cat shit. But me... I wouldn't be so sure about that.
 
+尼克斯的委托？应该挺有意思的。那人是古董设备的专家，专门研究大崩溃以前的硬件。接入仓、硬盘……诸如此类。有人可能会说，这些东西的用处跟打字机、电唱机，还有一堆干猫屎没什么两样。但我吧……我可不这么觉得。
+
 ### Talkin' 'bout a Revolution 让我们在云顶撒点野【朱迪】
 
 There's no such thing as a free lunch, V. If someone invites you to a chow-down, someone's gonna pay. Who knows, maybe the bad guys'll saddle up - answer for all the bad shit they've done. But you know what I think? I think you're the one who's paying. And that check's well on its way.
+
+V，天下没有免费的午餐。有人请你搓一顿，那就一定有人要付账。谁知道呢，也许坏人会良心发现，为自己干过的坏事负责。但你知道我怎么想吗？我觉得你会是那个付账的。而且账单已经在路上了。
 
 ### The Prophet's Song 先知之歌【先知盖瑞】
 
@@ -453,13 +572,19 @@ A clandestine meeting of reptilians at midnight? V, we're not missing this. If y
 
 Fender benders are a dime a dozen in Night City. A Delamain though? A first, I'm guessing. But now he wants to hand out compensation for damages? That's just downright suspect. Way I see it, he's got a the AI equivalent of a gun pointed at his head, and this message is nothing but a coded cry for help. Nobody, and I mean nobody, doles out compensation for a little chipped paintwork. Go and see what this is about - worst case you come out a little richer.
 
+在夜之城，小磕小碰都是稀松平常的事情。但是德拉曼居然也会撞车？我估计还是破天荒头一遭。现在他居然还愿意赔钱？这就见了鬼了。要我看，他的Al相当于被人用枪顶着脑门，人家这是在喊救命呢。没有人，我是说没有任何人，会因为蹭掉了一点漆就赔礼道歉的。去看看这是怎么一回事，最起码你也有笔钱说不是吗？
+
 ### Venus in Furs 穿皮草的维纳斯【斯科特】
 
 Meredith Stout invited you over to her room at the No-Tell Motel? Shit, V, don't know whether to give you props or talk you out of it... Either way, you're telling me your secret for picking up corpo chicks.
 
+梅瑞德斯·斯托特在守口如瓶汽车旅馆开了房请过去？操，V，我真不知道是该给你打气呢还是劝你别去……不管怎么说，你倒是也教教我怎么泡公司的妞啊。
+
 ### Violence 一万次的悲伤【利琪·薇兹】
 
 Unknown number, anonymous client, a secret hotel meet-up... The aura of mystery 'round this one's so thick I need a machete to hack my way through it. Wonder what'll happen next... and what that means for you.
+
+未知号码，匿名客户，去酒店秘密见面……气氛搞得这么神秘，我都起鸡皮疙瘩了。不知道接下来会发生什么……对你又会产生怎样的影响。
 
 ## Westbrook
 
@@ -471,9 +596,13 @@ All right, so I'm feeling like a sucker for this story. Do you really think Bren
 
 Well, well, special favors for politicians. You think you've got any clout here? The Peralezes might seem like decent and down-to-earth folk - not sitting snug in the corps' pockets like the rest. But they're still part of the ruling elite, V. If they gotta step over you to get to the top, they won't hesitate. Don't believe even for a second that they're any different.
 
+哎哟，政治家专门找你帮忙。你该不会以为是因为自己面子大吧？佩拉雷斯一家看着正派亲民，不像其他人那样打着公司的旗号作威作福。可他们依然是精英统治阶级，V。如果要踩着你才能爬上去，人家一点都不会犹豫。别以为他们就有什么不一样。
+
 ### Holdin' On 没有理想不伤心【克里】
 
 The whole time I was flat on my digital ass in Mikoshi, Kerry was out there forging his glittering solo career. He'd better be real fucking chill after all these years, right? But something tells me deep down, he's still the same. Anyway, come on, guy's gonna shit himself when he sees me.
+
+我被关在神舆出不来的时候，克里在外面经营自己辉煌的单飞生涯。这么多年过去了，他肯定已经牛逼到爆了吧？不过在我的内心深处，他还是从前的那个克里。好了，快点，那家伙见到我非吓得拉裤子不可。
 
 ### Off the Leash 挣脱束缚【克里】
 
@@ -485,6 +614,10 @@ What's worse than a corpo? A wannabe corpo.
 
 You know what? I'm not even surprised you let yourself get talked into this little uprising. Hey, back in my day I would've bum rushed the riot shields in the name of joytoys' freedom or whatever... But this Maiko chick? I've got a bad feeling about her.
 
+什么东西比公司狗更可恶？公司的二鬼子。
+
+你知道吗？你会被煽乎着掺和到这场小小的造反里去，我一点也不奇怪。嘿，想当年，我会打着解放性偶之类的幌子带人往防爆盾牌上冲……但是舞子这妞，我对她有种不详的预感。
+
 ### Poem Of The Atoms 原子之诗【禅学大师】
 
 You really enjoy this meditation thing? Calms your nerves, does it? 'Cause it somehow reminds me of those black-tie musicians they stick next to the towels and mouthwash in monochromer joints so you can get taste of culture after you let out a shit. But hey, to each their own.
@@ -492,6 +625,8 @@ You really enjoy this meditation thing? Calms your nerves, does it? 'Cause it so
 ### Send in the Clowns 易燃易爆炸
 
 Ozob... Quite the name. Don't know why, but the sound of it gets creepy circus music stuck in my head. Maybe the dude was an acrobat or lion tamer or some shit. Never know in this city. And we won't know till we call him and find out.
+
+奥佐布……这名字有点意思。不知道为什么，一听到这名字我脑子总会响起诡异的马戏团音乐。也许这家伙是个玩杂技的或者驯狮子的。没听说过城里还有这么一号。我们打个电话过去问问不就知道了？
 
 ### Stairway To Heaven 通往天国的阶梯【禅学大师】
 
@@ -504,6 +639,8 @@ Everyone knows the most gut-twisting, brain-blitzing, 'dorph-jacking braindances
 ### **The Ballad of Buck Ravers** 巴克·拉弗斯情歌
 
 Don't think I've gone all sentimental or anything. Honestly, I couldn't give a shit if I've got any fans left in this city. If someone hears one of my tracks and they get the itch to take to the streets, then that's fucking nova, but those old recordings don't matter anymore. Find 'em, listen to 'em, I don't care. Although while we're on the subject... Wonder how thing are over at Rainbow Cadenza...
+
+别以为我这是多愁善感。老实说，我才不在乎这座城市里还有没有我的粉丝。要是有人听了我某一首歌，忍不住想要走上街头，那他妈敢情好。只不过那些老唱片已经不再重要了。你想把它们找出来听一听，我无所谓。不过，既然说到这个……不知道七色华彩的事情是怎么解决的……
 
 ### The Gig 买卖
 
@@ -523,7 +660,7 @@ Well, whaddaya know. This corpo-slut from the crucifixion BD wants you to come b
 
 Not everyone's made for Maelstrom. Some - surprise, surprise - don't take to well to having half their face chopped off. They start hearing voices, seeing and imagining things. Then, it's enough to get their hands on a gun, and... that recipe for disaster's ready to serve.
 
-### Cyberpsycho Sighting: Demons of War 事出反常必有妖
+### Cyberpsycho Sighting: Demons of War 兔死狗烹
 
 Usually, when a corpo gets his walking papers, he loses all his implants too. They dig those synth organs and cyber eyes right out of his body. But sometimes, the chrome's so far ingrown, it can't be removed safely. Even if someone really, really wants it...
 
@@ -539,15 +676,23 @@ Shots were heard on the outskirts of NC - rare given the seemingly peaceful area
 
 I have a bad feeling about this. A real bad feeling.
 
+我有种不好的预感。非常非常不好。
+
 ### Cyberpsycho Sighting: Lex Talionis 同态复仇
 
 The underpass near GIM is like NC's Bermuda Triangle for the homeless. Sound like a piece of cake? In the heart of Pacifica, nothing ever is.
 
 Enter at your own risk.
 
+大帝国商场边上的地下通道就是夜之城流浪汉的百幕大三角。听上去很轻松？在太平洲的中心地带，没什么是轻松。
+
+你可想好了再去。
+
 ### Cyberpsycho Sighting: Lt. Mower 莫厄尔中尉
 
 WARNING! CYBERPSYCHO DETECTED. MILITECH HAS LOCKED DOWN THE AREA. KEEP AWAY!
+
+警告！侦测到赛博精神病。军用科技已封锁该地区。禁止入内！
 
 ### Cyberpsycho Sighting: On Deaf Ears 充耳不闻
 
@@ -569,6 +714,8 @@ Everyone deserves a second chance, V. I know that better than most. But who's gr
 
 Maelstrom certainly has its own unique recruitment and retention methods. Ranks getting too thin? Well, just kidnap a few Valentinos, knock 'em out cold and bolt on some new faceplates. What could possibly go wrong with that? everything, that's what.
 
+漩涡帮招兵买马显然有他们自己的一套。人手不够了？好办，抓几个瓦伦蒂诺的，把人弄晕，焊些新脸板上去。这也能算事儿吗？事儿大了去了。
+
 ### Cyberpsycho Sighting: Smoke on the Water 水上的烟雾
 
 If it weren't for the all the screaming, dead Scavs and that wreck of a car, be a pretty nice place. But hey, that's life. Wanna go check it out, see what went down? Try the pier first.
@@ -577,17 +724,23 @@ If it weren't for the all the screaming, dead Scavs and that wreck of a car, be 
 
 Does a cyclone of dust and sand stirred up by a dash cyberpsychosis sound exciting? Then I do I have some good news for you.
 
+如果你觉得赛博精神病狂飙扬起的沙尘龙卷风听上去很刺激，那我有个好消息要告诉你。
+
 ### Cyberpsycho Sighting: Ticket to the Major Leagues 跟大哥们混的资格
 
 Not all people cope the same way when those first symptoms of cyberpsychosis show up. Some throw themselves off a bridge. Others hand themselves over to the cops. And most of the rest try to self-treat with sedatives - as many as they can get their hands on. No matter the cost.
+
+赛博精神病的初步症状显现时，人们的反应各有不同。有人选择跳桥自杀。有些人向警察局自首。而剩下的绝大多数会尝试用镇静剂自我治疗，能用多少就用多少。不计代价。
 
 ### Cyberpsycho Sighting: Under the Bridge 大桥下
 
 V, you don't have anywhere else to be? Only thing you'll stir up here is trouble. I'd beat it, but... you do you.
 
-### Cyberpsycho Sighting: Where the Bodies Hit the Floor 兔死狗烹
+### Cyberpsycho Sighting: Where the Bodies Hit the Floor 事出反常必有妖
 
 There are few certainties in Night City... Super-sketch stomach-melting streetfood, politicians choked by corporate leashes and the echo of screams heard coming from the Totentanz club. Oh wait, and one more thing: if you step foot down the wrong alley, your head will probably roll out the other end.
+
+夜之城有几条定律……街头苍蝇馆子的小吃会把你的胃烧个洞，政客都是公司养的狗，死亡之舞俱乐部里天天都回荡着惨叫。哦对了，还有一条：要是不小心走错了巷子，可能就只有脑袋能从胡同口滚出来了。
 
 ## 其他
 
@@ -659,33 +812,47 @@ Another poor choom just trying to get by. All he wanted was to undercut the corp
 
 Our Wraith dealer here chose the wrong market. He made, as they say, a deadly misstep. But now you can get something out of it, right V? Just check his stash.
 
-## Reported Crime: Dangerous Currents
+## Reported Crime: Dangerous Currents 暗潮汹涌
 
 Excise duty, audits, taxes, bribes, queues... If you want to transport something legally, you have to jump through a lot of hoops. So it shouldn't come as a surprise that many take shortcuts. Though as we all know, shortcuts can be dangerous...
 
-## Reported Crime: Don't Forget the Parking Brake!
+有消费税、审计、税务、贿赂、排队……如果想合法地运点东西，你要经历九九八十一难。所以难怪很多人会选择走捷径。但是我们都清楚，走捷径可能会很危险……
+
+## Reported Crime: Don't Forget the Parking Brake! 别忘了拉手刹！
 
 Parking on a hill? Don't forget the parking brake. Otherwise, your car might start rolling downhill... Along with that valuable cargo in the trunk.
 
-## Reported Crime: Dredged Up
+要在山上停车？那千万别忘了手着。否则，你的车多半会溜坡……后备箱里还装着值钱的货呢。
+
+## Reported Crime: Dredged Up 疏通下水道
 
 Dark, damp and the stench is enough to make you add to the muck... But there's always something interesting down there. Know what this place is? You'll find out soon enough. But before you do, better check what's in that container, see what really went down here first.
 
-## Reported Crime: Needle in a Haystack
+黑暗、潮湿、臭气熏天，能让你把隔夜饭都吐出来……但那里常常有意外的收获。知道这是什么地方吗？你很快就会知道了。不过动身之前，最好先检查一下箱子里的东西，好知道这儿一开始到底出了什么事。
+
+## Reported Crime: Needle in a Haystack 大海捞针
 
 Thing about containers is, they're all the same. Usually not a problem, but... Well, now you got no idea which one's got the thing you want. And that's when the plot thickens.
 
-## Reported Crime: One Thing Led to Another
+箱子麻烦就麻烦在，它们看上去全都一个样。换做平常，这不算什么大问题，但是……唉，现在你就搞不清楚到底哪个里面有你要的东西。这么一来，情况不就复杂了吗。
+
+## Reported Crime: One Thing Led to Another 有因就有果
 
 Ah, the irony. Those gangoons installed a gadget to track the cops... And now the cops can track them right back. Technology servers no man, it seems. Zero loyalty!
 
-## Reported Crime: Paranoia
+啊，真是讽刺。那些帮派混混装了个小玩意儿来追踪条子……结果反过来被穿制服的给找上了。看来技术可不管你是哪头的。它不跟你讲义气！
+
+## Reported Crime: Paranoia 捕风捉影
 
 The homeless in Night City are frequent decenders into madness - in part because they live in perpetual fear, povery and hunger, but also due to seeing things that shouldn't be seen. The shard you just found... It could be the ravings of just another lunatic. Or perhaps something more...
 
-## Reported Crime: Protect and Serve
+夜之城的流浪汉常常会陷入疯狂，部分是因为他们一直生活在恐惧、贫穷和饥俄之中，也因为他们看到了不该看的东西。你刚刚找到的分离芯片……可能是疯子的胡言乱语。也可能另有深意……
+
+## Reported Crime: Protect and Serve 保护市民，服务城市
 
 Well, well, well. This comp proves the gangoons are buying off cops right and left! We gotta do something! Like, say, grab that Tyger Claw scratch just sitting there, waiting for the police. No eddies, no corruption, right? Look at us, cleaning up these mean Night City streets.
+
+哎呀呀。这台电脑上说道上兄弟们已经买通了各处的条子！ 我们得做点什么！ 比如，把虎爪帮的钱抢来，然后我们从在这里，等警察上门。没钱还怎么贪污，对吧？瞧瞧咱们，这是在给夜之城清理门户呢。
 
 ## Reported Crime: Worldly Possessions
 
@@ -695,13 +862,17 @@ Say what you will, but you ever see a stiff, it's never a bad idea to do a littl
 
 Choom wanted to grab someone's data, got himself burned. Clear? BURNED. But seriously - it could be worth checking the coords from his gear. Chooms like him usually have some nice toys.
 
-## Reported Crime: Lost and Found
+## Reported Crime: Lost and Found 失物招领
 
 Dealer torn up by hungry junkies. It happens. So, what'll it be, V? Wanna see what they got in that stash of theirs? Might just get something outta this.
 
-## Reported Crime: Table Scraps
+饿疯了的瘾君子干掉了毒贩。这种事不奇怪。那接下来呢，V？想不想看看他们都藏了些什么货？也许会有收获也说不定。
+
+## Reported Crime: Table Scraps 残羹剩饭
 
 Gotta have a permit to even pick through these rich assholes' sloppy seconds. Jalapeño Joe didn't, that's why he had to go. And who did him? Some fucking corpo buttlickers. Tellin' ya, the sooner we burn this city, the better.
+
+就算想要去这帮有钱王八蛋的屁眼子里舔点没消化的，你也得先获得他们的允许。但是火爆辣椒乔没有，所以他必须死。那么是谁动的手？几条公司养的狗腿子。我告诉你，这座城市早烧早好。
 
 ## Reported Crime: You Play with Fire...
 
