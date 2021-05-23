@@ -78,9 +78,11 @@ V的野外生存技能
 
 两个人在镜头外偷偷腻歪
 
-### 11. 一方是AI
+### ~~11. 一方是AI~~
 
 （微仿《她》、《超验骇客》、《C语言修仙》里想象的那个电影（一个人飘在太空的教授和他的智能计算机）、贾尼、《AI》）
+
+（VO外卖AI的互动小说/游戏已经在做了）
 
 ### 12. 幽灵和画像
 
@@ -164,9 +166,47 @@ O去V的画展，第一次见，远远悄悄地互相打听，双向暗恋
 
 ### 27. 《The furthest distance in the world》
 
-歌词，每句都能套上
+（虐，每句都能套上）
 
-（微虐）
+The furthest distance in the world
+
+Is not between life and death
+
+But when I stand in front of you
+
+Yet you don’t know that I love you
+
+ 
+
+The furthest distance in the world
+
+Is not when I stand in front of you
+
+Yet you can’t see my love
+
+But when undoubtedly knowing the love from both
+
+Yet cannot be together
+
+ 
+
+The furthest distance in the world
+
+Is not being apart while being in love
+
+But when plainly cannot resist the yearning
+
+Yet pretending you have never been in my heart
+
+ 
+
+The furthest distance in the world
+
+Is not but using one’s indifferent heart
+
+To dig an uncrossible river
+
+For the one who loves you
 
 ### 28. 《魔力月光》
 
