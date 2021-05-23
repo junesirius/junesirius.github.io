@@ -750,6 +750,14 @@ There are few certainties in Night City... Super-sketch stomach-melting streetfo
 
 # （5）犯罪举报
 
+### Reported Crime: A Stroke of Luck
+
+The dead don't talk, but their money sure does. Check out the house on Mallagra. Mr. skunky scuba over here sure won't be needing those eddies anymore.
+
+### Reported Crime: Another Circle of Hell
+
+Choom wanted to grab someone's data, got himself burned. Clear? BURNED. But seriously - it could be worth checking the coords from his gear. Chooms like him usually have some nice toys.
+
 ### Reported Crime: Blood in the Air
 
 Looks like this choomba wanted to climb the turbine to fix something. Militech didn't want him to. 1 determined person + 1 unhappy corp = 1 dead dude. Easy math.
@@ -758,57 +766,15 @@ Looks like this choomba wanted to climb the turbine to fix something. Militech d
 
 Soviets in the American desert. If that doesn't sound like a good spy story to you, go swap those ears! and check out the stash they were writing about.
 
-### Reported Crime: Extremely Loud and Incredibly Close
-
-See, V? Not everyone finds a new best friend in the dump. That samurai's not waking up anytime soon.
-
-### Reported Crime: I Don't Like Sand
-
-You know, there are some days when anything that can go wrong, will. Some days you burn your toast and forget your keys, other days... Militech comes and fucks you up for losing a car in a sandstorm.
-
-### Reported Crime: Turn Off the Tap
-
-Seems Sandra was a bit of a partier, but lost her cash flow when she lost her job. See, V? Better not run the EDGE of financial solvency. So - how bout we check out the car she left in the corpo lot?
-
-### Reported Crime: Smoking Kills 吸烟有害健康
-
-Smoking used to get a bad rap, but smokers can breathe easy this day and age. Lung cancer? Buy a new lung. Throat cancer? Again, buy a new throat. Male performance problems? Mr. Stud will turn that dangle upside down. Turns out, however, the addiction itself can still lead to death. If someone nasty's keeping track of where and when you step out for a cig, well... Maybe it was better to kick the habit after all.
-
-以前吸烟可不是个好习惯，但现如今，老烟枪们可算是翻身把歌唱。肺癌? 那就买个新的肺。吃癌? 一样，买个新喉哆。男性功能障碍? 大钢炮帮你重振雄风。不过呢，到头来烟瘾本身还是会把人害死。要是有人不怀好意，把你习惯出门抽烟的时间地点都记了下来……那我看，还是戒了的好。
-
-### Reported Crime: Honey, Where are You?
-
-Looks like Night City punishes love, betrayal, or indifference. Maybe all three. What we can say is there's a dead guy with a car somewhere in town. A car full of eddies.
-
-### Reported Crime: Roadside Picnic
-
-Her name was Nina. And she died alone, terrified. You'll fill in the rest of the story, V.
-
-### Reported Crime: A Stroke of Luck
-
-The dead don't talk, but their money sure does. Check out the house on Mallagra. Mr. skunky scuba over here sure won't be needing those eddies anymore.
-
-### Reported Crime: Disloyal Employee
-
-HR in Night City is brutal. I mean, just look at how he left that exit interview! And the guy only stole tidbits of intel. Eh, well... No use crying over spilled milk. Wanna check out his stash? Let's see how much he managed to scrape together from his little side job.
-
-### Reported Crime: Justice Behind Bars
-
-Looks like the prison guard was in 6th Street's pocket. Surprised? Me neither. But clearly something way bigger was being planned here. Wonder what went wrong.
-
-### Reported Crime: Supply Management
-
-Another poor choom just trying to get by. All he wanted was to undercut the corps a little, make a few eds off a few boosters. Well, didn't do much for his health. Know what would give us a boost, though? A little peek at what he left behind.
-
-### Reported Crime: Welcome to Night City
-
-Our Wraith dealer here chose the wrong market. He made, as they say, a deadly misstep. But now you can get something out of it, right V? Just check his stash.
-
 ### Reported Crime: Dangerous Currents 暗潮汹涌
 
 Excise duty, audits, taxes, bribes, queues... If you want to transport something legally, you have to jump through a lot of hoops. So it shouldn't come as a surprise that many take shortcuts. Though as we all know, shortcuts can be dangerous...
 
 有消费税、审计、税务、贿赂、排队……如果想合法地运点东西，你要经历九九八十一难。所以难怪很多人会选择走捷径。但是我们都清楚，走捷径可能会很危险……
+
+### Reported Crime: Disloyal Employee
+
+HR in Night City is brutal. I mean, just look at how he left that exit interview! And the guy only stole tidbits of intel. Eh, well... No use crying over spilled milk. Wanna check out his stash? Let's see how much he managed to scrape together from his little side job.
 
 ### Reported Crime: Don't Forget the Parking Brake! 别忘了拉手刹！
 
@@ -821,6 +787,28 @@ Parking on a hill? Don't forget the parking brake. Otherwise, your car might sta
 Dark, damp and the stench is enough to make you add to the muck... But there's always something interesting down there. Know what this place is? You'll find out soon enough. But before you do, better check what's in that container, see what really went down here first.
 
 黑暗、潮湿、臭气熏天，能让你把隔夜饭都吐出来……但那里常常有意外的收获。知道这是什么地方吗？你很快就会知道了。不过动身之前，最好先检查一下箱子里的东西，好知道这儿一开始到底出了什么事。
+
+### Reported Crime: Extremely Loud and Incredibly Close
+
+See, V? Not everyone finds a new best friend in the dump. That samurai's not waking up anytime soon.
+
+### Reported Crime: Honey, Where are You?
+
+Looks like Night City punishes love, betrayal, or indifference. Maybe all three. What we can say is there's a dead guy with a car somewhere in town. A car full of eddies.
+
+### Reported Crime: I Don't Like Sand
+
+You know, there are some days when anything that can go wrong, will. Some days you burn your toast and forget your keys, other days... Militech comes and fucks you up for losing a car in a sandstorm.
+
+### Reported Crime: Justice Behind Bars
+
+Looks like the prison guard was in 6th Street's pocket. Surprised? Me neither. But clearly something way bigger was being planned here. Wonder what went wrong.
+
+### Reported Crime: Lost and Found 失物招领
+
+Dealer torn up by hungry junkies. It happens. So, what'll it be, V? Wanna see what they got in that stash of theirs? Might just get something outta this.
+
+饿疯了的瘾君子干掉了毒贩。这种事不奇怪。那接下来呢，V？想不想看看他们都藏了些什么货？也许会有收获也说不定。
 
 ### Reported Crime: Needle in a Haystack 大海捞针
 
@@ -846,19 +834,19 @@ Well, well, well. This comp proves the gangoons are buying off cops right and le
 
 哎呀呀。这台电脑上说道上兄弟们已经买通了各处的条子！ 我们得做点什么！ 比如，把虎爪帮的钱抢来，然后我们从在这里，等警察上门。没钱还怎么贪污，对吧？瞧瞧咱们，这是在给夜之城清理门户呢。
 
-### Reported Crime: Worldly Possessions
+### Reported Crime: Roadside Picnic
 
-Say what you will, but you ever see a stiff, it's never a bad idea to do a little rummaging. People rarely die for no reason. There's usually a bone to pick that eventually gets picked. Take, for example, some gonk who's neck deep in debt. Maybe instead of payin' it off they decide to keep it safe someplace...
+Her name was Nina. And she died alone, terrified. You'll fill in the rest of the story, V.
 
-### Reported Crime: Another Circle of Hell
+### Reported Crime: Smoking Kills 吸烟有害健康
 
-Choom wanted to grab someone's data, got himself burned. Clear? BURNED. But seriously - it could be worth checking the coords from his gear. Chooms like him usually have some nice toys.
+Smoking used to get a bad rap, but smokers can breathe easy this day and age. Lung cancer? Buy a new lung. Throat cancer? Again, buy a new throat. Male performance problems? Mr. Stud will turn that dangle upside down. Turns out, however, the addiction itself can still lead to death. If someone nasty's keeping track of where and when you step out for a cig, well... Maybe it was better to kick the habit after all.
 
-### Reported Crime: Lost and Found 失物招领
+以前吸烟可不是个好习惯，但现如今，老烟枪们可算是翻身把歌唱。肺癌? 那就买个新的肺。吃癌? 一样，买个新喉哆。男性功能障碍? 大钢炮帮你重振雄风。不过呢，到头来烟瘾本身还是会把人害死。要是有人不怀好意，把你习惯出门抽烟的时间地点都记了下来……那我看，还是戒了的好。
 
-Dealer torn up by hungry junkies. It happens. So, what'll it be, V? Wanna see what they got in that stash of theirs? Might just get something outta this.
+### Reported Crime: Supply Management
 
-饿疯了的瘾君子干掉了毒贩。这种事不奇怪。那接下来呢，V？想不想看看他们都藏了些什么货？也许会有收获也说不定。
+Another poor choom just trying to get by. All he wanted was to undercut the corps a little, make a few eds off a few boosters. Well, didn't do much for his health. Know what would give us a boost, though? A little peek at what he left behind.
 
 ### Reported Crime: Table Scraps 残羹剩饭
 
@@ -866,7 +854,18 @@ Gotta have a permit to even pick through these rich assholes' sloppy seconds. Ja
 
 就算想要去这帮有钱王八蛋的屁眼子里舔点没消化的，你也得先获得他们的允许。但是火爆辣椒乔没有，所以他必须死。那么是谁动的手？几条公司养的狗腿子。我告诉你，这座城市早烧早好。
 
+### Reported Crime: Turn Off the Tap
+
+Seems Sandra was a bit of a partier, but lost her cash flow when she lost her job. See, V? Better not run the EDGE of financial solvency. So - how bout we check out the car she left in the corpo lot?
+
+### Reported Crime: Welcome to Night City
+
+Our Wraith dealer here chose the wrong market. He made, as they say, a deadly misstep. But now you can get something out of it, right V? Just check his stash.
+
+### Reported Crime: Worldly Possessions
+
+Say what you will, but you ever see a stiff, it's never a bad idea to do a little rummaging. People rarely die for no reason. There's usually a bone to pick that eventually gets picked. Take, for example, some gonk who's neck deep in debt. Maybe instead of payin' it off they decide to keep it safe someplace...
+
 ### Reported Crime: You Play with Fire...
 
 Smell that, V? Another scorched runner. Wonder what he said right before he sizzled.
-
