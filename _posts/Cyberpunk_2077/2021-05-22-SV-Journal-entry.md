@@ -131,15 +131,17 @@ Go to hell, V. You're on your own, got that? Stage is all yours. I'll just stand
 
 Well I'll be a corporat on a stick. Yorinobu tried to take out the entire Arasaka board in one fell swoop. I'd buy the gonk a beer if I could. No doubt, the sight of Arasakas lunging at each other's throat is a thing of beauty, but it kinda throws a wrench in our plans. Now you gotta take care of Yorinobu on Hanako's terms. Looks like Lil Sis is done playing around - crazy Big Bro's gonna give up Arasaka tower one way or the other. Still, isn't it weird that we're not allowed to hurt a hair on his pretty little head after he marked her for DEATH? Maybe Hanako wants to "neutralize" him herself? One thing's for sure - the path to Yorinobu's office leads through a lot of levels... and a LOT of bodies.
 
+### Where is My Mind? 梦安眠于九霄（TBA）
+
 ## 太阳结局
-
-### Knockin' On Heaven's Door 敲响天堂之门【罗格】（TBA）
-
-最难的部分已经过去了。我敢说，罗格抖得比公司的狗杂种全加起来都要厉害。可她最后还是答应了。我们要回到荒坂塔，而这一次……我们要有始有终。我们会把奥特放到大楼的系统里，让她带我们去神舆。操，真希望你也能看到！
 
 ### For Whom the Bell Tolls 丧钟为谁而鸣【罗格】（TBA）
 
 V？不知道你能不能听见。我甚至不确定你是不是清楚发生了什么。我只知道你确实有胆量，才能作出这样的决定。我发誓，这次我一定不会搞砸。我会说服罗格，再闯一次荒坂塔。
+
+### Knockin' On Heaven's Door 敲响天堂之门【罗格】（TBA）
+
+最难的部分已经过去了。我敢说，罗格抖得比公司的狗杂种全加起来都要厉害。可她最后还是答应了。我们要回到荒坂塔，而这一次……我们要有始有终。我们会把奥特放到大楼的系统里，让她带我们去神舆。操，真希望你也能看到！
 
 ## 星星结局
 
@@ -166,6 +168,10 @@ You're almost there, V. In the heart of fucking darkness. Can you feel it? You'r
 So you decided to ditch the City of Dreams - start anew, start fresh. I went through a few fresh starts in my life, too. And you know what? Don't regret a damn thing. You won't either. Give my regards to the South. And when you hear Johnny's voice, go ahead and smile, but don't bother to answer. It'll just be a voice on the radio recorded long ago, a fading reproduction, a flickering memory. You'll be someone completely different. Take care, V.
 
 这么说你决定逃离逐梦之城。重新开始，展望新生。我也经历过几次新生。知道我学到什么了吗? 千万别他妈后悔。当然你也不会后悔。替我向南边问个好。当你听到强尼的声音时，一定要保持微笑向前看，甭费心思多想。那就是很久以前电台里录的，一道淡去的回声，一段闪现的回忆。你会成为一个完全不同的人。保重，V。
+
+## 隐藏结局
+
+### (Don't Fear) The Reaper 以我残躯化烈火【强尼】（TBA）
 
 ## 节制结局
 
@@ -586,6 +592,8 @@ Unknown number, anonymous client, a secret hotel meet-up... The aura of mystery 
 
 未知号码，匿名客户，去酒店秘密见面……气氛搞得这么神秘，我都起鸡皮疙瘩了。不知道接下来会发生什么……对你又会产生怎样的影响。
 
+### War Pigs 战猪（TBA）
+
 ## Westbrook
 
 ### Coin Operated Boy/Spray Paint 有求必应/禁止涂鸦【布兰登】
@@ -652,9 +660,7 @@ Well, whaddaya know. This corpo-slut from the crucifixion BD wants you to come b
 
 你猜怎么着？那个拍十字架超梦的公司婊想让你过去给她的小明星打打气，替他捏捏肩膀，嘬嘬老二。正常情况下，我会跟你说这活儿别接了，找点其它有意思的干干，不过呢……我也吃不准，看样子这个耶稣怪胎真的需要你帮忙。
 
-# （4）委托
-
-## 目击赛博精神病
+# （4）目击赛博精神病
 
 ### Cyberpsycho Sighting: Bloody Ritual 血腥仪式
 
@@ -742,21 +748,7 @@ There are few certainties in Night City... Super-sketch stomach-melting streetfo
 
 夜之城有几条定律……街头苍蝇馆子的小吃会把你的胃烧个洞，政客都是公司养的狗，死亡之舞俱乐部里天天都回荡着惨叫。哦对了，还有一条：要是不小心走错了巷子，可能就只有脑袋能从胡同口滚出来了。
 
-## 其他
-
-### Gig: Goodbye, Night City 再见，夜之城
-
-Sometimes you need a friend to lean on. Sometimes you need a friend to break you out of an immigrant detention center at the Night City-SoCal border.
-
-Smuggler Bruce Welby required the latter.
-
-Bruce tried to cross the state line with hot cargo in tow, but it didn't work out as planned and now he's been chained up by Militech border security already several days. His buddy (and Militech employee), Archibald Crane, found out about the situation through the grapevine. I'll be damned if that cuckoo corpo actually decided to help his friend instead of towing the corpo line. He contacted me to get Bruce out of his cage.
-
-You're the missing element in this friendship triangle. Find to Bruce, break him out, and escort him to his combatta, Archie. And let's make sure Militech doesn't notice a thing, OK? Get to it.
-
-One more thing - Archie says not to kill any corpos. So, what can I say? The client's always right.
-
-# （5）NCPD
+# （5）犯罪举报
 
 ### Reported Crime: Blood in the Air
 
