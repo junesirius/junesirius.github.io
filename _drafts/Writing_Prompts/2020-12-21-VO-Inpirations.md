@@ -108,6 +108,46 @@ V的野外生存技能
 
 （微黑豹即视感）
 
+“Does that mean you are my soldier?”
+
+“How can a king fear a soldier?”——西语歌《Debate de 4》by Romeo Santos
+
+（歌的其他部分：）
+
+Only a king, could make this happen.
+
+Be a hero, romantically
+
+I have come here from far away, to a debate to fight for you
+
+Come tell me please, who will it be?
+
+Am I your king?
+
+...
+
+You have me crazy in love
+
+Where there is fire the temptation stays
+
+Come tell me now, decide now!
+
+I have brought flowers, my guitar, and a bottle
+
+To get drunk and sing to you beautiful
+
+...
+
+I don't want to be alone anymore!
+
+How can a king, fear soldiers?
+
+I don't fear anything
+
+And in this battle I am the winner.
+
+Stop this game and don't make me wait so long!
+
 ### 16. 《Mute》
 
 （来源：V的画；隔了数年之后的再创作）
