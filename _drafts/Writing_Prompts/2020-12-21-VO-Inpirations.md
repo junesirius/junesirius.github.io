@@ -94,9 +94,9 @@ V的野外生存技能
 
 画像的第一人称
 
-和/或，一个活着，同画像的对话，排解思念
+（and/or）一个活着，同画像的对话，排解思念
 
-（可能虐）
+（虐）
 
 ### 14.（现实向）O特意飞去戒3补拍现场
 
@@ -118,7 +118,51 @@ V的野外生存技能
 
 （——泰戈尔）
 
-O变成花
+（O变成花，影子落在树下看书的V身上）
+
+（其他参考：《一棵开花的树》by席慕蓉）
+
+如何让你遇见我
+
+在我最美丽的时刻
+
+为这
+
+我已在佛前求了五百年
+
+求佛让我们结一段尘缘
+
+
+
+佛于是把我化作一棵树
+
+长在你必经的路旁
+
+阳光下
+
+慎重地开满了花
+
+朵朵都是我前世的盼望
+
+
+
+当你走近
+
+请你细听
+
+那颤抖的叶
+
+是我等待的热情
+
+而当你终于无视地走过
+
+在你身后落了一地的
+
+朋友啊
+
+那不是花瓣
+
+那是我凋零的心
 
 ### 18. 一起看流星雨，许愿
 
@@ -150,7 +194,7 @@ O去V的画展，第一次见，远远悄悄地互相打听，双向暗恋
 
 微仿《午夜巴塞罗那》《王尔德的情人》
 
-（可以用到我的《最好的电影》里）
+（可以用到《最好的电影》里）
 
 ### 23. 纪录片摄影师V x 野生动物O
 
@@ -159,6 +203,8 @@ O去V的画展，第一次见，远远悄悄地互相打听，双向暗恋
 作为纪录片理论上是不能进行干预，但是仍然互相依恋关心，互相产生影响
 
 （原型来源：推送，男人和小章鱼；微仿小王子和狐狸）
+
+（类似画面感可以用到《最好的电影》里）
 
 ### 25. Life is long? It’s short.
 
@@ -176,7 +222,7 @@ But when I stand in front of you
 
 Yet you don’t know that I love you
 
- 
+//
 
 The furthest distance in the world
 
@@ -188,7 +234,7 @@ But when undoubtedly knowing the love from both
 
 Yet cannot be together
 
- 
+//
 
 The furthest distance in the world
 
@@ -198,7 +244,7 @@ But when plainly cannot resist the yearning
 
 Yet pretending you have never been in my heart
 
- 
+//
 
 The furthest distance in the world
 
