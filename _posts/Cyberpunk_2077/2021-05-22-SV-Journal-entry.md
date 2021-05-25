@@ -124,9 +124,13 @@ We both knew this time would come. If we don't think of something quick, you wil
 
 That's all, folks! Little Johnny can go to sleep while the grown-ups fix their big ol' mess. All I know's that you cut a deal with Arasaka - you help Hanako knock Yorinobu off his pedestal in return for help with the Relic. You already know where I stand. You've got better things to dream about than a rockerboy's mad ravings. Just make sure this little dream of yours doesn't turn into a nightmare.
 
+今天的节目就到这里！小强尼快去睡觉，天大的烂摊子让大人们来收拾。我只知道你和荒坂做了交易：你帮华子把赖宣拉下马，华子帮你解决Relic。至于我怎么想的你也不是不明白。与其听摇滚小子混不着调地逼逼叨，你还有很多美梦要做。只不过千万要当心，当心做的其实是个噩梦。
+
 ### Totalimmortal 手足相残【华子】
 
 Go to hell, V. You're on your own, got that? Stage is all yours. I'll just stand in the wings and watch you meet certain death, 'cause that's how this little coup against Yorinobu is gonna end. That is, unless our porcelain doll's got any aces up her sleeve. But if things go south, just jump out the window. Don't give them the satisfaction - don't let the fuckers take you alive.
+
+去死吧，V。老子不伺候了，听见没有？舞台让给你。我就站一边，看着你作死，这就是你跟赖宣抢班夺权的下场。也就是说，除非咱们这瓷娃娃袖子里藏着什么王牌。不过万一出了岔子，我建议你赶紧跳楼。别让他们得逞，别让那帮王八蛋抓活的。
 
 Well I'll be a corporat on a stick. Yorinobu tried to take out the entire Arasaka board in one fell swoop. I'd buy the gonk a beer if I could. No doubt, the sight of Arasakas lunging at each other's throat is a thing of beauty, but it kinda throws a wrench in our plans. Now you gotta take care of Yorinobu on Hanako's terms. Looks like Lil Sis is done playing around - crazy Big Bro's gonna give up Arasaka tower one way or the other. Still, isn't it weird that we're not allowed to hurt a hair on his pretty little head after he marked her for DEATH? Maybe Hanako wants to "neutralize" him herself? One thing's for sure - the path to Yorinobu's office leads through a lot of levels... and a LOT of bodies.
 
