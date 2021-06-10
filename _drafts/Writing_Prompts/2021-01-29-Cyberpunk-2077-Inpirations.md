@@ -620,3 +620,202 @@ V因为接任务等等经常跟罗格接触，一来二去产生感情，但是�
 
 （故事开局可以是老维的困惑：没有芯片，没有什么需要被取出来的东西，但是V说她听到了声音）
 
+### 85. Lyrics
+
+#### （1）《Lucifer》by XOV
+
+I want him to meet his maker
+
+I used to be a lover, now I'm a hater
+
+My passion to succeed is watching him bleed
+
+Oh Lord, what have become of me?
+
+//
+
+Once upon a time, I was a fool
+
+Too cool for school
+
+Gangster cruel
+
+Blood in, blood out, put the trigger, no doubt
+
+Lucky motherfucker, you don't know what I'd do to you
+
+I used to kick it with Lucifer
+
+And he still lingers in the dark
+
+Lucifer, you better watch out
+
+//
+
+The evil within has never been greater
+
+My soul has been seized and he's the dictator
+
+I've been dragged through the mud
+
+I can still taste the blood
+
+Oh Lord, what have become of me?
+
+//...
+
+Sometimes I feel like seeking him down just for the hell of it
+
+Look for his face around town
+
+Smack, smack, just a bit
+
+Lucky motherfucker, got away with my cash
+
+I built you up and I'ma tear you down, down
+
+Just like that
+
+//...
+
+Lucifer
+
+Devil's been an angel
+
+Even the Devil's been an angel
+
+#### （2）《Comfortably Dumb》
+
+Hello? (Hello? Hello? Hello?)
+
+Is there anybody in there?
+
+Just nod if you can hear me
+
+Is there anyone home?
+
+Come on now
+
+I hear you're feeling down
+
+Well I can ease your pain
+
+Get you on your feet again
+
+Relax
+
+I'll need some information first
+
+Just the basic facts
+
+Can you show me where it hurts?
+
+//
+
+There is no pain you are receding
+
+A distant ship smoke on the horizon
+
+You are only coming through in waves
+
+Your lips move but I can't hear what you're saying
+
+When I was a child I had a fever
+
+My hands felt just like two balloons
+
+Now I've got that feeling once again
+
+I can't explain you would not understand
+
+This is not how I am
+
+I have become comfortably numb
+
+//
+
+Okay (okay, okay, okay)
+
+Just a little pinprick
+
+There'll be no more
+
+But you may feel a little sick
+
+Can you stand up?
+
+I do believe it's working, good
+
+That'll keep you going through the show
+
+Come on it's time to go
+
+//...
+
+When I was a child
+
+I caught a fleeting glimpse
+
+Out of the corner of my eye
+
+I turned to look but it was gone
+
+I cannot put my finger on it now
+
+The child is grown
+
+The dream is gone
+
+I have become comfortably numb
+
+#### （3）《I want to break free》
+
+I want to break free
+
+I want to break free from your lies
+
+You're so self satisfied I don't need you
+
+I've got to break free
+
+God knows, God knows I want to break free.
+
+//
+
+I've fallen in love
+
+I've fallen in love for the first time
+
+And this time I know it's for real
+
+God knows, God knows I've fallen in love.
+
+//
+
+It's strange but it's true
+
+I can't get over the way you love me like you do
+
+But I have to be sure
+
+When I walk out that door
+
+Oh how I want to be free
+
+//
+
+But life still goes on
+
+I can't get used to, living without, living without,
+
+Living without you by my side
+
+I don't want to live alone, hey
+
+God knows, got to make it on my own
+
+So baby can't you see
+
+I've got to break free
+
+I want to break free
