@@ -4,7 +4,7 @@ title: 【VO】向上坠落（预告）
 date: 2020-07-20 00:59
 categories: ["中土", "RPS"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]
-tags: ["VO"]
+tags: ["VO", "预告"]
 pov: 第三人称
 origin: Lofter
 long_novels: 【VO】向上坠落
