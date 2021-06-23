@@ -136,9 +136,9 @@
 
 自定义主题色。
 
-- <span style="color: #28323c;">main-color（主题色）：用于页眉、页脚、侧边栏的背景色，及文章正文字体颜色，建议使用深色。本站使用色号为：![#28323c](https://via.placeholder.com/15/36165a/000000?text=+)`#28323c`</span>
+- <span style="color: #28323c;">main-color（主题色）：用于页眉、页脚、侧边栏的背景色，及文章正文字体颜色，建议使用深色。本站使用色号为：![#28323c](https://via.placeholder.com/15/28323c/000000?text=+)`#28323c`</span>
 - <span style="color: #9d98fc">second-color（悬浮色）：当鼠标悬浮在超链接上时显示的颜色，建议使用浅色。本站使用色号为：![#9d98fc](https://via.placeholder.com/15/9d98fc/000000?text=+)`#9d98fc`</span>
-- <span style="color=#36165a;">third-color（标题色）：首页及各文章页显示的文章标题颜色，建议选择深色。本站使用色号为：![#36165a](https://via.placeholder.com/15/36165a/000000?text=+)`#36165a`</span>
+- <span style="color: #36165a;">third-color（标题色）：首页及各文章页显示的文章标题颜色，建议选择深色。本站使用色号为：![#36165a](https://via.placeholder.com/15/36165a/000000?text=+)`#36165a`</span>
 
 #### [syntax.scss](https://github.com/junesirius/junesirius.github.io/tree/master/_sass/syntax.scss)
 
