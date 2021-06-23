@@ -80,7 +80,7 @@ Lilith在康里出现，跟路地方的Lilith剧情可以crossover
 
 路：现在你的血管里流的都有我的血了，下次用清理咒的时候最好记得这件事，我可不想下回要去filthy Hell来找你。
 
-康：yeah, yeah, I'm condemned, I'm all yours, et al, et al. I know all that stuff.（用康的口音念这段）
+康：yeah, yeah, I'm condemned, I'm all yours, et cetera, et cetera. I know all that stuff.（用康的口音念这段）
 
 路：知道就好。
 
