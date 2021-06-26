@@ -219,8 +219,9 @@
 1. 安装ruby：可使用[RubyInstaller](https://rubyinstaller.org/)；
 2. 安装并更新gem：`gem update`；
 3. 安装jekyll：`gem install jekyll bundler`；
-4. 进入个站所在文件夹，在命令行中运行`jekyll server`，在`localhost: 4000`查看本地编译的个站，可通过终端报错信息帮助debug（因为git page的编译报错信息中提示信息通常较少）；
-5. 在命令行中运行`jekyll server --drafts`可将`_drafts`中文章也展示在本地编译的个站中；
-6. 在命令行中运行`jekyll server --port xxxx`可将默认`4000`端口修改为任意端口的`localhost: xxxx`；
-7. gemlock最新一次自动更新后，`jekyll`命令可能失效，可使用`bundle exec jekyll`命令作为替代，`--port`和`--drafts`用法仍同上；
-8. 详细的jekyll文档参见：[https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)。
+4. 进入个站所在文件夹，在命令行中运行`bundle exec jekyll server`，在`localhost: 4000`查看本地编译的个站，可通过终端报错信息帮助debug（因为git page的编译报错信息中提示信息通常较少）；
+5. 在命令行中增加选项`--drafts`可将`_drafts`中文章也展示在本地编译的个站中；
+6. 在命令行中增加选项`--port xxxx`可将默认`4000`端口修改为任意端口的`localhost: xxxx`；
+7. 在命令行中增加选项`--future`可将`_posts`中输入时间晚于当前时间的文章也显示在本地编译的个站中；
+8. gemlock最新一次自动更新后，`jekyll`命令可能失效，可使用`bundle exec jekyll`命令作为替代，`--port`和`--drafts`用法仍同上；
+9. 详细的jekyll文档参见：[https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)。
