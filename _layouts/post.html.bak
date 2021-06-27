@@ -10,7 +10,7 @@ layout: default
     </span>
     &nbsp;
     <span class="wordcount-style">
-        字数：{{ page.content | strip_html | strip_newlines | size }}
+        字数：{{ page.content | strip_html | strip_newlines | number_of_words: "auto" }}
     </span>
     &nbsp;
 
@@ -19,10 +19,8 @@ layout: default
         视角：{{ page.pov }}
         {%- if page.pov == "第一人称" and page.characters.size > 0 -%}
             {%- for character in page.characters -%}
-                {% unless character == "白起" %}
-                    （{{ character }}）
-                    {% break %}
-                {% endunless %}
+                （{{ character }}）
+                {% break %}
             {%- endfor -%}
         {%- endif -%}
     </span>
@@ -33,22 +31,19 @@ layout: default
     <span class="origin-style">
         首发位置：{{ page.origin }}
     </span>
-    &nbsp;
     {% endunless %}
+    
 
-    <!-- Count reader number -->
-    <span class="origin-style">
-        <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-        <span id="busuanzi_container_page_pv" style="display: none">
-            本文阅读量：<span id="busuanzi_value_page_pv"></span>次
-        </span>
-    </span>
-
-    <!-- Begin post content -->
+    {% if site.comments and page.comments %}
+        {% if site.disqus != '' %}
+        <p class="author"><a href="#disqus_thread" data-disqus-identifier="{{ page.url | slugify }}">Comments</a></p>
+        {% elsif site.isso != '' %}
+        <p class="author"><a href="{{ site.baseurl }}{{ page.url }}{{ site.isso_suffix }}#isso-thread">Comments</a></p>
+        {% endif %}
+    {% endif %}
+    
     <hr style="border-top:1px solid #28323C;"/>
-    <div style="text-indent: 2em">
-        {{ page.content }}
-    </div>
+    {{ page.content }}
     <hr style="border-top:1px solid #28323C;"/>
 
     <div class="post-content">
@@ -112,7 +107,7 @@ layout: default
                 {% endfor %}
             {% endfor %}
             <li class="icon-style">
-                <a href="{{ site.baseurl }}/characters.html#{{ character }}">{{ character }} ({{ character_count }})</a>{% unless forloop.last %},{% endunless %}
+                <a href="{{ site.baseurl }}/characters.html">{{ character }} ({{ character_count }})</a>{% unless forloop.last %},{% endunless %}
             </li>
             {% assign character_count = 0 %}
         {% endfor %}
@@ -129,18 +124,28 @@ layout: default
 
     </div>
 
+    {% if page.comments %}
+        {% if site.disqus != '' %}
+    <div id="disqus_thread">
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+    </div>
+        {% elsif site.isso != '' %}
+        <section id="isso-thread"></section>
+        {% endif %}
+    {% endif %}
 </div>
 
 <div class="pagination" style="width: 100%">
     <div class="col-md-6" style="text-align: left">
-    {% if page.previous %}
-    <a class="btn btn-default" href="{{ site.baseurl}}{{ page.previous.url }}" class="previous">{{ trans.newer_post }}</a> {{ page.previous.title }}
+    {% if page.next %}
+    <a class="btn btn-default" href="{{ site.baseurl}}{{ page.next.url }}" class="next">{{ trans.newer_post }}</a> {{ page.next.title }}
     {% endif %}
     </div>
 
     <div class="col-md-6" style="text-align: right">
-    {% if page.next %}
-    <a class="btn btn-default" href="{{ site.baseurl}}{{ page.next.url }}" class="next">{{ trans.older_post }}</a> {{ page.next.title }}
+    {% if page.previous %}
+    <a class="btn btn-default" href="{{ site.baseurl}}{{ page.previous.url }}" class="previous">{{ trans.older_post }}</a> {{ page.previous.title }}
     {% endif %}
     </div>
 </div>

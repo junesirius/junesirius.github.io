@@ -17,7 +17,7 @@ title: 首页
         
         <div class="post-description">
             {% if post.description == null %}
-                {{ post.content | truncatewords: 50 }}
+                {{ post.content | truncate: 150 }}
             {% else %}
                 {{ post.description }}
             {% endif %}
