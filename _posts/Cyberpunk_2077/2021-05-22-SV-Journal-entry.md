@@ -372,6 +372,8 @@ In Night City, there's no shortage of gonks, hustlers and just plain assholes. A
 
 Your buddy Delamain appears to be having some personal issues. How else do you explain his cabs standing in the middle of the road and blocking traffic? better give him a call. Besides, you're short on friends (present imaginary company excluded).
 
+你的哥儿们德拉曼看来有些私人问题。要不然怎么解释他的出租车停在路当间拦着交通？最好还是给他打个电话吧。另外，你的朋友也太少了（脑子里的这位可不算）。
+
 ### Heroes 再见杰克【杰克】
 
 I don't usually give advice, but... fuck it, here goes. Don't make the same mistake I made - say goodbye to the people you love. You know what I mean, right? Jackie Welles was your best choom, and you don't find a lot of straight-up peeps like that in NC. Best thing you can is remember them. Oh, and one more thing. If anyone asks, I didn't just say all that to you. Got it?
