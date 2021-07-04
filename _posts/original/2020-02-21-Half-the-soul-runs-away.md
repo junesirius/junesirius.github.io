@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【原创】Half the Soul Runs Away（英文）
+title: 【小说】Half the Soul Runs Away（英文）
 date: 2020-02-21 01:48
 categories: ["原创"]
 characters: 

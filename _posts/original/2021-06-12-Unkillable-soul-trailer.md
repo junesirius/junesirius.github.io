@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【原创】Unkillable Soul（脑洞）
+title: 【小说】Unkillable Soul（脑洞）
 date: 2021-06-12 05:54
 categories: ["原创"]
 characters: 
