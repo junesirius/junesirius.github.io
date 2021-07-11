@@ -1,6 +1,6 @@
 {% assign trans = site.data.values[site.lan] %}
 <div class="footer">
-    <p>Copyright &copy;{{ site.time | date: '%Y' }} {{ site.name }} {{ site.name_en }}. All rights reserved.
+    <p>Copyright &copy;2016-{{ site.time | date: '%Y' }} {{ site.name }} {{ site.name_en }}. All rights reserved.
     {{ trans.thanks }}
     {% for thank in site.data.thanks %}
         <!-- not the last, output a ',' -->
