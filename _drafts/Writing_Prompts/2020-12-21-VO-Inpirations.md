@@ -773,7 +773,7 @@ O穿越到V青年时期
 
 （画面略可参考《Imagine Me & You》）
 
-### 63. 《The Sound of Silence》Lyrics
+### 63.《The Sound of Silence》Lyrics
 
 Hello darkness, my old friend
 
@@ -853,3 +853,62 @@ And tenement halls"
 
 And whispered in the sound of silence
 
+### 64.《Love of My Life》lyrics
+
+Love of my life, you've hurt me
+
+You've broken my heart, and now you leave me
+
+Love of my life, can't you see?
+
+Bring it back, bring it back
+
+Don't take it away from me
+
+Because you don't know
+
+What it means to me
+
+//
+
+Love of my life, don't leave me
+
+You've taken my love, and now desert me
+
+Love of my life, can't you see?
+
+Bring it back, bring it back
+
+Don't take it away from me
+
+Because you don't know
+
+What it means to me
+
+//
+
+You will remember
+
+When this is blown over
+
+And everything's all by the way
+
+When I grow older
+
+I will be there at your side to remind you
+
+How I still love you (I still love you)
+
+//
+
+Back, hurry back
+
+Please, bring it back home to me
+
+Because you don't know
+
+What it means to me
+
+//
+
+Love of my life
