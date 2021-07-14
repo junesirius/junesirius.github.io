@@ -4,7 +4,7 @@ title: 【随记】Love is Destruction（英文）
 date: 2021-07-14 14:24
 categories: 原创
 characters: 
-tags: ["随记", "英文", "爱情"]
+tags: ["随记", "英文", "爱情", "死亡"]
 pov: 第二人称
 origin: Lofter
 ---
