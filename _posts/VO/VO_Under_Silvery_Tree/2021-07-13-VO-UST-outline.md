@@ -11,7 +11,11 @@ long_novels: 【VO】在如银的树下
 published: false
 ---
 
+《Under the Silvery Tree: Once More》
+
 [TOC]
+
+## 草稿
 
 ### Summary
 
@@ -60,7 +64,7 @@ VO二搭拍了一部改编自他们过去经历的电影。
 
    描写场景：V生日会+一起看电影、《那些吻中的一个》+化妆镜、2003.12NZ首映+酒店夜袭
 
-   对话带过：银蕨林、月亮河、冲浪、~~翻船~~、~~掉河~~
+   对话带过：银蕨林、月亮河、冲浪、翻船、掉河
 
 3. 冷静：“明知爱到痴迷，却装作毫不在意”（主语：O）（取景：LA）
 
@@ -90,7 +94,7 @@ The true reality: 都是V的梦
 
 正文的Part 1234都与电影&过去经历一一对应，前序后序分别对应二搭电影开拍之前和结束之后，都是完全跟电影无关而只有现实VO的部分。现实部分高甜，结局时用戒指暗示VO复合。
 
-剧本的climax在Scene 10分手戏，现实的climax在Postlude复合戏，真正的climax在Epilogue彩蛋揭示真相（致敬《旺达幻视》）
+剧本的climax在Scene 9分手戏，现实的climax在Postlude复合戏，真正的climax在Epilogue彩蛋揭示真相（致敬《旺达幻视》）
 
 ### 暗线
 
@@ -103,7 +107,7 @@ The true reality: 都是V的梦
 1. V.O.=Voice Over
 2. 建议改标题（Postlude）
 3. 不属实的剧本内容（Scene 2）
-4. 剧本revision颜色：白、蓝、粉、黄、绿、玫瑰红、浅黄、粉橙、樱桃红、黄褐色（Scene 10）
+4. 剧本revision颜色：白、蓝、粉、黄、绿、玫瑰红、浅黄、粉橙、樱桃红、黄褐色（Scene 9）
 
 ## 目录
 
@@ -139,7 +143,7 @@ The true reality: 都是V的梦
 
 #### Scene 2 内景 — 化妆车 — 中午
 
-<!-- （相知相熟）聊天聊兴趣爱好聊身世（O额外加的）；慢慢靠近 -->
+<!-- （相知相熟）聊天聊兴趣爱好聊身世（O额外加的）；慢慢接近 -->
 
 <!-- 铺垫：V固有对LA的看法（源自过去经历） -->
 
@@ -217,7 +221,7 @@ The true reality: 都是V的梦
 
 #### Scene 9 内/外景 — 门边 — 傍晚
 
-<!-- （分手）O生日会+《River》分手场景（revised page）；剧烈分歧，冲动分手 -->
+<!-- （分手）O生日会+《River》雨夜分手场景（revised page）；剧烈分歧，冲动分手 -->
 
 <!-- 扣题：（银色）雨；《River》 -->
 
@@ -243,7 +247,7 @@ The true reality: 都是V的梦
 
 #### Scene 11 分屏：内景 — 休息室 / 内景 — 家 — 夜晚
 
-<!-- O百老汇《罗朱》消瘦（V未去，朋友代）+剪发+醉酒后给V打过电话；反悔想要复合（被推开） -->
+<!-- O百老汇《罗朱》消瘦（V未去，朋友代）+剪发+醉酒后给V打电话；反悔想要复合（被推开） -->
 
 <!-- 对话带过：南极（银色） -->
 
@@ -273,9 +277,10 @@ The true reality: 都是V的梦
 
 ### Notes
 
-[1] 配合文章食用的BGM：《Come Dream With Me》。
+\* 配合文章食用的BGM：《Come Dream With Me》。
 
-[2] 每章节诗句引自《The Furthest Distance in the World》。
+\* 每章节诗句引自《The Furthest Distance in the World》。
 
-[3] 文章分多幕Act的形式取材自舞台剧，各个Scene的画面又模仿了剧本格式。
+\* 文章分多幕Act的形式取材自舞台剧，各个Scene的画面又模仿了剧本格式。
 
+\* 文中设计的剧本很大程度上学习模仿了伍迪艾伦的《安妮霍尔》，尤其结局部分。
