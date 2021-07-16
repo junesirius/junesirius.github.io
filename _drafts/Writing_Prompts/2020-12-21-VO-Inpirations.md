@@ -962,3 +962,72 @@ V在大雨里修好电阀，准备拉闸重启电网了，叫O远离所有电网
 VO在无法决定他们的未来选择之后被给予了一次机会询问未来探听预言，女巫告诉他们答案就写在面前的卡牌背面，只要翻过来就能看到他们想要探问的未来。O伸手想要翻看，V摁住了他的手让他再想想，难道这就是他们想要做的吗，把他们的选择机会放弃，让命运来主宰他们的未来？O：我以为最先投降的是你。VO又开始了一轮讨论（女巫默默离场，把选择和决定留给他们）
 
 讨论到最后两人终于达成共识，还是要自己去做选择，然后承担无论什么后果。于是他们没看预言就走出了女巫帐篷。身后，女巫翻开了卡牌，卡牌上是一片空白。
+
+### 67.《Autumn in New York》soundtrack
+
+Let's fall in love
+
+Why shouldn't we fall in love?
+
+Our hearts are in need of it
+
+Let's take a chance
+
+Why be afraid of it?
+
+Let's close our eyes
+
+And make our own paradise
+
+Little we know of it
+
+Still we can try
+
+To make a go of it
+
+We might have been made for each other
+
+To be or not to be
+
+Let our hearts discover
+
+Let's fall in love
+
+Why shouldn't we fall in love?
+
+Now is the time for it
+
+While we are young
+
+Let's fall in love
+
+//
+
+When we wanna work, we work
+
+When we wanna play, we play
+
+In a happy setting
+
+We're getting some fun out of life
+
+Maybe we do the right thing
+
+May we do the wrong
+
+Spending each day
+
+Wending our way along
+
+But when we want to sing, we sing
+
+When we want to dance, we dance
+
+You can do your betting
+
+We're getting some fun out of life
+
+
+
+
+
