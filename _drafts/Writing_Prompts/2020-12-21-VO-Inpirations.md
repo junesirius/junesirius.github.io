@@ -1013,7 +1013,7 @@ We're getting some fun out of life
 
 Maybe we do the right thing
 
-May we do the wrong
+Maybe we do the wrong
 
 Spending each day
 

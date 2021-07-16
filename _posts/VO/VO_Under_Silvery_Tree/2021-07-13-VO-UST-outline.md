@@ -78,7 +78,7 @@ VO二搭拍了一部改编自他们过去经历的电影。
    
    对话带过：2008.7 O剪发、《I See You》、O醉酒后给V打过电话
 
-（每个部分3个scene←有点太僵硬死板？节奏是否会太plain？）
+~~（每个部分3个scene←有点太僵硬死板？节奏是否会太plain？）~~
 
 ### 正文剧情（2014，HE）
 
@@ -139,15 +139,21 @@ The true reality: 都是V的梦
 
 <!-- （初见）自我介绍（V带剑O带箭）；一见钟情，双向暗恋 -->
 
-<!-- 现实：“I don't remember you being so clumsy.” “You have no idea how nervous I am.” “Have I ever told you I'm just as nervous as you are.” “No way.” “Yes I am, at the very first sight of you.” -->
+<!-- 对话片段：“I don't remember you being so clumsy.” “You have no idea how nervous I am.” “Have I ever told you I'm just as nervous as you are.” “No way.” “Yes I am, at the very first sight of you.” -->
+
+
 
 #### Scene 2 内景 — 化妆车 — 中午
 
 <!-- （相知相熟）聊天聊兴趣爱好聊身世（O额外加的）；慢慢接近 -->
 
-<!-- 铺垫：V固有对LA的看法（源自过去经历） -->
+<!-- 铺垫：V固有对LA的看法（源自过去经历）→Scene 7-12回收 -->
+
+<!-- 对话铺垫：调侃“You are incapable of trying anything new.”（铺垫Scene 9/12） -->
 
 <!-- 现实：《Lunch》 -->
+
+
 
 #### Scene 3 外景 — 野外，树林边 — 夜晚
 
@@ -156,6 +162,8 @@ The true reality: 都是V的梦
 <!-- 暗线：食指戒指 -->
 
 <!-- 扣题：（银色）场景在月光下（仿AL场景） -->
+
+
 
 ### ACT II
 
@@ -177,13 +185,19 @@ The true reality: 都是V的梦
 
 <!-- 暗线：无名指戒指 -->
 
+<!-- 铺垫：看的电影是《纽约的秋天》（爱情片，男主48，女主22，上映时间2000.8.11，非常好代）（关于复合→Scene 10回收；关于NY vs LA→Scene 7/8/9/12回收） -->
+
+
+
 #### Scene 5 外景 — 海滩边 — 白天
 
 <!-- （片场/约会）冲浪+摄影绘画音乐+聊理想；互相影响，高甜同居日常 -->
 
-<!-- 铺垫：用于Scene 12闪回 -->
+<!-- 铺垫：V没有手机（Scene 12回收） -->
 
 <!-- 对话带过：银蕨林、月亮河 -->
+
+
 
 #### Scene 6 内景 — 旅馆房间 — 夜晚
 
@@ -191,7 +205,11 @@ The true reality: 都是V的梦
 
 <!-- 扣题：银色月光 -->
 
+<!-- 铺垫：强调卷发（Scene 11回收） -->
+
 <!-- 对话带过：化妆镜上的照片 -->
+
+
 
 ### ACT III
 
@@ -213,17 +231,31 @@ The true reality: 都是V的梦
 
 <!-- 对话带过：酒店夜袭 -->
 
+
+
 #### Scene 8 内景 — 酒吧 — 夜晚
 
-<!-- （异地期）酒吧热舞+Billy演奏会“偶遇”；渐行渐远 -->
+<!-- （异地期）O酒吧热舞+Billy演奏会“偶遇”；渐行渐远 -->
+
+<!-- 铺垫回收：关于LA（呼应Scene 2/4） -->
 
 <!-- 暗线：戒指变成尾戒 -->
+
+
 
 #### Scene 9 内/外景 — 门边 — 傍晚
 
 <!-- （分手）O生日会+《River》雨夜分手场景（revised page）；剧烈分歧，冲动分手 -->
 
+<!-- 回收铺垫：呼应scene 4的V生日；呼应Scene 2 “新事物” -->
+
 <!-- 扣题：（银色）雨；《River》 -->
+
+<!-- 对话带过：LA一月无雨（O拉了时间线） -->
+
+<!-- 主要分手理由：不同世界的人（尝试新事物、去LA发展前途） -->
+
+
 
 ### ACT IV
 
@@ -241,25 +273,35 @@ The true reality: 都是V的梦
 
 <!-- V《The Road》消瘦+“When I wake up in the morning, I think of death”采访+几乎retire；痛苦思念（但不联系） -->
 
-<!-- 对话带过：V疯狂写诗出诗集如《I See You》《Give You》 -->
+<!-- 对话带过：V疯狂写诗出诗集如《I See You》《Give You》；O其实都有关注了解 -->
+
+<!-- 回收铺垫：Scene 4关于电影里复合片段的观影评价（不复合，所以硬忍住）←对话提及：但O还是希望来联系的（过渡到Scene 11） -->
 
 <!-- 暗线：《Secrets》和里面的戒指 -->
+
+
 
 #### Scene 11 分屏：内景 — 休息室 / 内景 — 家 — 夜晚
 
 <!-- O百老汇《罗朱》消瘦（V未去，朋友代）+剪发+醉酒后给V打电话；反悔想要复合（被推开） -->
 
-<!-- 对话带过：南极（银色） -->
+<!-- 回收铺垫：Scene 6的sex scene -->
+
+<!-- 对话带过：南极（银色）；revision page（现实没答应，O初稿写答应，V同意出演，O改回没答应） -->
+
+
 
 #### Scene 12 外景 — 好莱坞大道 — 白天
 
 <!-- （最后一次见面）O好莱坞大道颁星致谢，V主动到场庆贺（证明分开正确）；和平结束 -->
 
-<!-- 结束前回收铺垫：Scene 3-6的高糖闪回 -->
+<!-- 回收铺垫：V有了手机（呼应Scene 2/9）；蒙太奇手法Scene 3-6的高糖闪回 -->
 
 <!-- 暗线：O把戒指交还给V -->
 
-<!-- 对话带过：O霍杀青买酒（我变成了你）、采访“all love”（释怀），V《Purgatorio》（原谅） -->
+<!-- 对话带过：O霍杀青买酒（我变成了你）、采访“all love”（释怀），V《Purgatorio》（原谅），V有了手机（互相影响互相改变） -->
+
+
 
 ### Postlude
 
@@ -268,6 +310,8 @@ The true reality: 都是V的梦
 <!-- 暗线：戒指放回掌心 -->
 
 <!-- 对话：改标题 -->
+
+
 
 ### Epilogue
 
@@ -283,4 +327,4 @@ The true reality: 都是V的梦
 
 \* 文章分多幕Act的形式取材自舞台剧，各个Scene的画面又模仿了剧本格式。
 
-\* 文中设计的剧本很大程度上学习模仿了伍迪艾伦的《安妮霍尔》，尤其结局部分。
+\* 文中设计的剧本很大程度上学习模仿了伍迪艾伦的《安妮霍尔》和《纽约的秋天》~~，尤其结局部分~~。
