@@ -1,3 +1,16 @@
+---
+layout: post
+title: 【VO】在如银的树下（心理trigger）
+date: 2021-07-25 22:36
+categories: ["中土", "RPS"]
+characters: ["Viggo Mortensen", "Orlando Bloom"]
+tags: ["VO", "心理", "情感"]
+pov: 第三人称
+origin: 2021上海cp29漫展
+long_novels: 【VO】在如银的树下
+published: false
+---
+
 主要情绪状态：绝望
 
 也有恐慌和焦虑，但主要是绝望和惶恐
