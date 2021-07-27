@@ -71,3 +71,73 @@ O：你怎么知道？
 
 V：以防万一没人告诉过你，你在发光。（In case no one told you, you are glowing.）
 
+#### Scene 2（相知相熟）
+
+《Lunch》
+
+he sat down across from me and said he was in love
+
+that he just wanted to enjoy it for as long as it lasted
+
+that he didn't want to judge the feeling
+
+compare it to other times with other partners
+
+all that did was rob you of time better spent in those new arms, he said
+
+there wasn't anything for me to say
+
+I listened and imagined the memorable summer he was having
+
+felt how easily his breathing came
+
+he seemed stronger than I remembered
+
+it was pleasant to be with him
+
+I was left staring out the plate glass at the lushness of a willow
+
+long after he'd hurried home to her
+
+I forgot about my work, my family, the weather, everything
+
+I almost forgot to pay the check
+
+walking slowly across the park, in no hurry to get back to the office
+
+I couldn't think of anything except his hands
+
+
+
+他在我的对面坐下，告诉我他陷入了爱河
+
+说他只是想去享受当下，直到它结束
+
+说他不想用理智去评判自己的情感
+
+或者拿它与过去同其他伴侣的经历作比较
+
+这么做只会剥夺了你本可以投入那新的怀抱的美好时光，他说
+
+我没有什么可以回答的
+
+我听着，想象着他那时拥有过的令人难忘的夏天
+
+感受到他的呼吸是那么轻松
+
+他似乎比我记得的要强壮一些
+
+同他在一起很愉快
+
+在他匆匆赶回家奔向她很久之后
+
+我一直透过玻璃窗盯着郁郁葱葱的柳树
+
+我忘记了我的工作，我的家人，天气，所有的一切
+
+我差点忘了付我的账单
+
+慢慢地穿过公园走回去，不急着回办公室
+
+我什么都想不起来，除了他的手
+
