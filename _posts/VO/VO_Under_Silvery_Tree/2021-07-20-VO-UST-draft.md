@@ -141,3 +141,14 @@ I couldn't think of anything except his hands
 
 我什么都想不起来，除了他的手
 
+#### Scene 3（表白）
+
+AL看月亮对话（LOTR3 29分16秒）：
+
+L：星光被阴影遮住。
+
+L：东方有什么在蠢蠢欲动。
+
+L：一股永不歇息的邪恶力量。
+
+L：敌人的邪眼在移动。
