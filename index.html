@@ -17,7 +17,7 @@ title: 首页
         
         <div class="post-description">
             {% if post.description == null %}
-                {{ post.content | truncate: 150 }}
+                {{ post.content | newline_to_br | strip_newline | replace: '<br />', '\n' | strip_html | truncate: 150 | replace: '\n', '<br>' | strip }}
             {% else %}
                 {{ post.description }}
             {% endif %}
