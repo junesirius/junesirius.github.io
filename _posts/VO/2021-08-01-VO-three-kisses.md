@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【VO】无题
+title: 【VO】神明跪在他的信徒面前
 date: 2021-08-01 15:50
 categories: ["中土", "RPS"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]
-tags: ["VO"]
+tags: ["VO", "片段"]
 pov: 第三人称
 origin: Lofter
 ---
