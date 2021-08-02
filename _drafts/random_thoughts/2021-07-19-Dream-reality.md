@@ -4,7 +4,7 @@ title: 【心理】自杀文学
 date: 2021-07-19 22:12
 categories: 原创
 characters: 
-tags: ["心理", "死亡"]
+tags: ["心理", "死亡", "血", "失真感", "思维宫殿", "想象", "自毁"]
 pov: 第一人称
 origin: 个站
 ---
