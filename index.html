@@ -17,7 +17,8 @@ title: 首页
         
         <div class="post-description">
             {% if post.description == null %}
-                {{ post.content | newline_to_br | strip_newline | replace: '<br />', '\n' | strip_html | truncate: 150 | replace: '\n', '<br>' | strip }}
+                {{ post.content | newline_to_br | strip_newline | replace: '<br />', '\n' | strip_html | truncate: 150 | replace: '\n', '<br>' | replace: '<br>
+<br>', '<br>' | replace: '<br><br>', '<br>' | strip }}
             {% else %}
                 {{ post.description }}
             {% endif %}
@@ -30,7 +31,7 @@ title: 首页
     <div class="col-md-3" style="text-align: left;">
     {% if paginator.previous_page %}
             {% if paginator.previous_page == 1 %}
-                <a class="btn btn-default" href="{{ site.baseurl }}" class="previous">{{ trans.newer_page }}</a>
+                <a class="btn btn-default" href="{{ site.baseurl }}/" class="previous">{{ trans.newer_page }}</a>
             {% else %}
                 <a class="btn btn-default" href="{{ site.baseurl }}/page{{ paginator.previous_page }}" class="previous">{{ trans.newer_page }}</a>
             {% endif %}
