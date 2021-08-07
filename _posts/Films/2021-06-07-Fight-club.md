@@ -3,7 +3,7 @@ layout: post
 title: 【观后感】《搏击俱乐部》（关于死亡、生活和自毁）
 date: 2021-06-07 06:03
 categories: 观后感
-characters: ["Brad Pitt"]
+characters: ["Brad Pitt", "David Fincher"]
 tags: ["观后感", "革命", "反抗", "死亡", "理想", "生活", "自毁", "英文", "摘录", "搏击俱乐部", "精分"]
 pov: 第三人称
 origin: 个站
