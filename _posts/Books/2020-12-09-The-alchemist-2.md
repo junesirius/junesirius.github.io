@@ -3,7 +3,7 @@ layout: post
 title: 【读后感】《牧羊少年奇幻之旅》（关于预兆）
 date: 2020-12-09 18:31
 categories: 读后感
-characters: 
+characters: ["保罗·柯艾略"]
 tags: ["读后感", "命运", "选择", "牧羊少年奇幻之旅", "吸引力法则", "死亡", "德米安"]
 pov: 第一人称
 origin: 个站

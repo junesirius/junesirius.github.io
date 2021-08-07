@@ -3,7 +3,7 @@ layout: post
 title: 【摘录】《沙与沫》
 date: 2021-05-03 00:41
 categories: 读后感
-characters: 
+characters: ["纪伯伦"]
 tags: ["摘录", "沙与沫", "生命", "死亡", "世界", "自我厌恶", "情感", "灵魂"]
 pov: 第一人称
 origin: 个站、Lofter
