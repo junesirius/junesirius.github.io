@@ -5,7 +5,7 @@ date: 2021-08-07 03:56
 categories: 读后感
 characters: ["Dome"]
 tags: ["读后感", "摘录", "想象", "失真感", "佛兰德镜子"]
-pov: 第一人称
+pov: 第三人称
 origin: 个站
 ---
 
