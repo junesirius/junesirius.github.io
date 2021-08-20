@@ -4,7 +4,7 @@ title: 【随记】音乐是一剂药
 date: 2016-04-18
 categories: ["原创"]
 characters: 
-tags: ["随记"]
+tags: ["随记", "想象"]
 pov: 第一人称
 origin: 微信公众号
 ---

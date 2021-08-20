@@ -3,9 +3,9 @@ layout: post
 title: 【心理】迷宫前的背影
 date: 2021-01-09 00:19
 categories: ["原创"]
-characters: 
+characters: ["尼尔·盖曼"]
 tags: ["心理", "情感", "想象"]
-pov: 第一人称
+pov: 第一人称视角
 origin: Lofter
 ---
 
@@ -25,4 +25,4 @@ origin: Lofter
 
 <br>
 
-（画面感部分来自《高能预警》）
+\* 注：画面感部分来自尼尔·盖曼的《高能预警》。

@@ -3,7 +3,7 @@ layout: post
 title: 【小说】艺术家的秘密
 date: 2021-07-20 00:39
 categories: ["原创"]
-characters: 
+characters: ["奥斯卡·王尔德"]
 tags: ["心理", "小说", "想象", "血", "死亡", "艺术"]
 pov: 第三人称
 origin: Lofter
@@ -93,3 +93,6 @@ origin: Lofter
 
 可直到画框上积满了灰尘，这艺术厅也鲜有人至，无人问津。
 
+<br>
+
+\* 注：结局风格学习自奥斯卡·王尔德的《星孩》。

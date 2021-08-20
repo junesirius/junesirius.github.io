@@ -4,7 +4,7 @@ title: 【小说】Red Giant Tree
 date: 2021-07-04 08:48
 categories: ["原创"]
 characters: 
-tags: ["小说", "寓言", "想象", "梦想", "信念", "牧羊少年奇幻之旅"]
+tags: ["小说", "寓言", "想象", "梦想", "信念", "牧羊少年奇幻之旅", "九号秘事"]
 pov: 第三人称
 origin: Lofter
 ---
