@@ -4,7 +4,7 @@ title: 【心理】林与火
 date: 2021-04-28 18:29
 categories: ["原创"]
 characters: 
-tags: ["心理", "想象", "迷茫", "恐慌"]
+tags: ["心理", "想象", "迷茫", "恐慌", "恐惧"]
 pov: 第一人称
 origin: Lofter
 ---
