@@ -173,14 +173,14 @@ title: 统计
             {% endif %}
             {% assign month_count = month_count | plus: 1 %}
             {% capture pmonth %}{{ post.previous.date | date: '%B' }}{% endcapture %}
-            {% if month != pmonth %}
+            {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+            {% capture pyear %}{{ post.previous.date | date: '%Y' }}{% endcapture %}
+            {% if month != pmonth or year != pyear %}
                 {{ month }} ({{ month_count }})
                 &nbsp;|&nbsp;
                 {% assign year_count = year_count | plus: month_count %}
                 {% assign month_count = 0 %}
                 <!-- Display year count -->
-                {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-                {% capture pyear %}{{ post.previous.date | date: '%Y' }}{% endcapture %}
                 {% if year != pyear %}
                     <b>总数：{{ year_count }}</b>
                 {% endif %}
