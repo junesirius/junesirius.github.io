@@ -1,3 +1,16 @@
+---
+layout: post
+title: 【VO】在如银的树下（大纲）
+date: 2021-07-13
+categories: ["中土", "RPS"]
+characters: ["Viggo Mortensen", "Orlando Bloom"]
+tags: ["VO", "草稿", "大纲"]
+pov: 第三人称
+origin: 2021上海cp29漫展
+long_novels: 【VO】在如银的树下
+published: false
+---
+
 **《在如银的树下》**
 
 《Under the Silvery Tree: Once More》
