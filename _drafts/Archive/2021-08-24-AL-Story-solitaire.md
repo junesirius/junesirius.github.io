@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 【AL】耳坠（传文）
+title: 【AL】耳坠（故事接龙）
 date: 2021-08-24
 categories: ["中土"]
 characters: ["Aragorn", "Legolas"]
-tags: ["AL", "传文"]
+tags: ["AL", "故事接龙"]
 pov: 第三人称
-origin: 群聊、个站
+origin: 群聊
 ---
 
 银色的圣白树枝条缠绕了一缕精灵的金发，阿拉贡轻轻挡下精灵想要自己整理的手，用手指细细拨开柔滑的发丝，将耳饰整好。
