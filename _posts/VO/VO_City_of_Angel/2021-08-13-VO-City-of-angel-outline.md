@@ -7,6 +7,7 @@ characters: ["Viggo Mortensen", "Orlando Bloom"]
 tags: ["VO", "草稿", "大纲"]
 pov: 第三人称
 origin: Lofter
+long_novels: 【VO】天使之城
 published: false
 ---
 
