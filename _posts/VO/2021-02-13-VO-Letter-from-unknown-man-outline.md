@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【VO】未见之人（草稿大纲）
+title: 【VO】未见之人（大纲）
 date: 2021-02-13 20:00
 categories: ["中土", "RPS"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]
-tags: ["VO", "草稿"]
+tags: ["VO", "草稿", "大纲"]
 pov: 第三人称
 origin: Lofter
 published: false

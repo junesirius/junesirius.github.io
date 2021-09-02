@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【VO】天使之城（草稿大纲）
+title: 【VO】天使之城（大纲）
 date: 2021-08-13 17:00
 categories: ["中土", "RPS"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]

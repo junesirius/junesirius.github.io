@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【VO】吸血鬼恋人（草稿大纲）
+title: 【VO】吸血鬼恋人（大纲）
 date: 2021-04-11 23:22
 categories: ["中土", "RPS"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]
-tags: ["VO", "草稿"]
+tags: ["VO", "草稿", "大纲"]
 pov: 第三人称
 origin: 个志
 published: false

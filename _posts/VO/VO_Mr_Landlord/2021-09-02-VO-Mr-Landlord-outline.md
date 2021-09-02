@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【VO】房东先生（草稿大纲）
+title: 【VO】房东先生（大纲）
 date: 2021-09-02 11:18
 categories: ["中土", "RPS"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]
-tags: ["VO"]
+tags: ["VO", "草稿", "大纲"]
 pov: 第三人称
 origin: Lofter
 long_novels: 【VO】房东先生

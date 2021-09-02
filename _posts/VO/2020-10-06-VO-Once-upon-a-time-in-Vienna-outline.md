@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【VO】维也纳往事（草稿大纲）
+title: 【VO】维也纳往事（大纲）
 date: 2020-10-06 21:12
 categories: ["中土", "RPS"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]
-tags: ["VO"]
+tags: ["VO", "草稿", "大纲"]
 pov: 第三人称
 origin: Lofter
 published: false

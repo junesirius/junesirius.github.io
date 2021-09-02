@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【VO】邂逅（草稿大纲）
-date: 2020-12-24 01:04
+title: 【VO】邂逅（大纲）
+date: 2020-12-23 23:04
 categories: ["中土", "RPS"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]
-tags: ["VO"]
+tags: ["VO", "草稿", "大纲"]
 pov: 第三人称
 origin: Lofter
 long_novels: 【VO】邂逅
