@@ -167,3 +167,10 @@ published: false
 155. You look into the mirror but you see no one. You panic but then you see yourself still sitting down, reading, Your reflection then notices you. “Ah dammit!” She hastily goes to match you but she knows it's futile. “Uhm. Just forget about that okay?” she asks.（想过，很有意思，《镜中人》）
 156. You're closing up the tea shop, when suddenly a ghostly figure floats through the door. “Who are you?!” you shriek. “Apologies, you're normally gone by now. I'm the manager of the night shift.”（很可爱，童话风/儿文风）
 157. You are a small dragon, the size of a cat, with a mighty hoard which you proudly guard. However, your treasure consists not of gold and gens but, instead, various kinds of stickers.（有点可爱）
+158. For months you've had a recurring dream of dating a Demon Queen. Just a silly dream that you joke with your friends about at lunch. Until today when you see her in the cafeteria glaring right at you, and making a bee line for your table.（有点有趣，可以写成百合文）
+159. You're a time traveler who can't control your powers and keep accidentally slipping through time. Thankfully, you have an immortal friend who keeps you up to date whenever you appear.（甜虐，有点刀河的感觉）
+160. Everyone is born with a fixed amount of luck that cannot be refilled. You are an assassin that specialized in using up a person's luck so it can't save them from death.
+161. A retired assassin places a hit on himself to test the new generation's abilities.（动作片）
+162. It was a simple gesture. You held open a door for a little old lady. The following day you're having lunch at a 5-star restaurant with the local supervillain who wants to repay you for being nice to their mother. And they won't let you leave until you decide how they can repay you.（《哥谭》，谜鹅？）
+163. Sentenced to life: As you die, you wake up and find yourself strapped to a chair. Wires and tubes have been attached to your body and numerous shadowy figures walk up to you. "That was life sentence 24," one of them says, "Only 356 sentences left."
+164. 
