@@ -4,7 +4,7 @@ title: 【银V】You Are My Heart（大纲文）
 date: 2021-03-09 01:31
 categories: ["赛博朋克2077"]
 characters: ["Johnny Silverhand", "V", "Female V"]
-tags: ["银V", "强尼/V", "强尼/女V", "大纲文", "恶魔结局", "大纲文"]
+tags: ["银V", "强尼/V", "强尼/女V", "大纲文", "恶魔结局"]
 pov: 第三人称
 origin: Lofter
 ---
