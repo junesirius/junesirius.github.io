@@ -7,7 +7,7 @@ characters: ["Menena Cottin", "Rosana Faria", "Elisa Amado"]
 tags: ["读后感", "摘录", "英文"]
 pov: 第三人称
 origin: 个站
-published: false
+published: true
 ---
 
 It's a book about how to use all the sensings to describe and feel colors without vision. Colors can be sensed by hearing, tasting, smelling, and touching.
