@@ -16,9 +16,9 @@ It's a book about how to use all the sensings to describe and feel colors withou
 
 Yellow tastes like mustard, but is as soft as a baby chick's feathers. (braille floating feathers)
 
-Red is sour like unripe strawberries and as sweet as watermelon. It hurts when he finds it on his scraped knee. (braille big strawberries)
+Red is sour like unripe strawberries and as sweet as watermelon. It hurts when you find it on your scraped knee. (braille big strawberries)
 
-Brown crunches under his feet like fall leaves. Sometimes it smells like chocolate, and other times it stinks. (braille falling leaves)
+Brown crunches under your feet like fall leaves. Sometimes it smells like chocolate, and other times it stinks. (braille falling leaves)
 
 Blue is the color of the sky when kites are flying and the sun is beating hot on his head. (braille kites)
 
@@ -30,9 +30,9 @@ Without the sun, water doesn't amount to much. It has no color, no taste, no sme
 
 Green tastes like lemon ice cream and smells like grass that's just been cut. (braille tall lawn with flying cut grass)
 
-But black is the king of all the colors. It is as soft as silk when his mother hugs him and her hair falls in his face. (braille curly hairs that look like both waves and silk)
+But black is the king of all the colors. It is as soft as silk when your mother hugs you and her hair falls in your face. (braille curly hairs that look like both waves and silk)
 
-We like all the colors because we can hear them and smell them and touch them and taste them. (braille cutting grass with strawberries, flowers, and a cricket, like spring)
+You would like all the colors because you can hear them and smell them and touch them and taste them. (braille cutting grass with strawberries, flowers, and a cricket, like spring)
 
 (Braille Alphabet is attached)
 
