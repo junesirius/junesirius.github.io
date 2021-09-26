@@ -128,16 +128,25 @@ title: 统计
         {% for i in (0..long_novel_num_minus) %}
             {% if long_novel_count_list[i] == long_novel_index %}
                 {% assign long_novel_wordcount = 0 %}
+                {% assign long_novel_finished = false %}
                 {% for post in long_novel_posts %}
                     {% if post.long_novels == long_novel_list[i] %}
                         {% assign post_wordcount = post.content | strip_html | strip_newlines | size %}
                         {% assign long_novel_wordcount = long_novel_wordcount | plus: post_wordcount %}
+                        {% if post.tags contains "已完结" %}
+                            {% assign long_novel_finished = true %}
+                        {% endif %}
                     {% endif %}
                 {% endfor %}
                 <li>
-                    <a href="{{ site.baseurl }}/longnovels#{{ long_novel_list[i] }}">{{ long_novel_list[i] }}</a>：{{ long_novel_count_list[i] }}篇，{{ long_novel_wordcount }}字
+                    {% if long_novel_finished == true %}
+                        <a href="{{ site.baseurl }}/longnovels#{{ long_novel_list[i] }}">{{ long_novel_list[i] }}（已完结）</a>：{{ long_novel_count_list[i] }}篇，{{ long_novel_wordcount }}字
+                    {% else %}
+                        <a href="{{ site.baseurl }}/longnovels#{{ long_novel_list[i] }}">{{ long_novel_list[i] }}</a>：{{ long_novel_count_list[i] }}篇，{{ long_novel_wordcount }}字
+                    {% endif %}
                 </li>
                 {% assign long_novel_wordcount = 0 %}
+                {% assign long_novel_finished = false %}
             {% endif %}
         {% endfor %}
     {% endfor %}
