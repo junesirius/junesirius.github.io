@@ -4,7 +4,7 @@ title: 【VO】在如银的树下（Epilogue）尾声
 date: 2021-08-15 21:31
 categories: ["中土", "RPS"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]
-tags: ["VO"]
+tags: ["VO", "已完结"]
 pov: 第三人称
 origin: 2021上海cp29漫展
 long_novels: 【VO】在如银的树下
