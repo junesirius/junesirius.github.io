@@ -4,7 +4,7 @@ title: 【VO】摆渡人（心理trigger）
 date: 2020-11-09 16:57
 categories: ["中土", "RPS"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]
-tags: ["VO", "心理"]
+tags: ["VO", "心理", "自我厌恶", "自我怀疑", "自我否定", "冒充者综合征", "自我批判", "愧疚", "自我惩罚", "自毁"]
 pov: 第三人称
 origin: 《白城日报》21年合志
 long_novels: 【VO】摆渡人
