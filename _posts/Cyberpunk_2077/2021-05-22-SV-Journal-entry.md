@@ -14,6 +14,10 @@ origin: 个站
 
 # （1）主线
 
+### Love Like Fire 我心如火
+
+It often happens that our memories are superseded by people's stories. Someone presents us a beginning, middle and an end, and soon enough we start believing that we really were there - that WE did all those things. But who we are is built on the past, and the past is built on lies. In 2023 Johnny Silverhand carried out an attack on Arasaka Tower. Fifty years later, those events becomes the memories of a certain V.
+
 ### Playing for time 黑梦
 
 Don't trust that Takemura. Meet with him, sure, check him out, but keep your eyes open. He's a corporat, meaning he's looking to use you.
@@ -109,6 +113,10 @@ Since I wasn't invited to Saburo Arasaka's funeral, I guess this sad little para
 Know what my downside is? No matter how much I might want to, I don't fucking make mistakes. Lo and behold! Our factory-reset ronin, hounded by every single Arasaka soldier in Night City for KIDNAPPING Saburo Arasaka's daughter. Kudos to him - I couldn't've fucked this plan up better myself. And after all this he STILL wants you to drop by? I don't know who's more whacked - him or us. Just remember to knock four times. His head, preferably - against a fucking table.
 
 知道我的缺点是什么吗？无论我有多努力，可就是他妈犯不了错。瞧一瞧看一看了啊! 这儿有位恢复出厂设置的浪人，绑架了芝坂三郎他闺女，夜之城所有的荒坂土兵都追在屁股后头呢。真该给他点个大大的赞，这么臭的点子你是打着灯笼都找不着。而且都这样了，他还要你过去？我都不知道谁更有病，他还是我们。别忘了门要敲四下响的。要是能用他的脑袋往桌面儿上招呼，那更他妈脆。
+
+### Tapeworm 裂头蚴【强尼】
+
+看来“认识自己”是笔买一送一的买卖。如果我们真的要合二为一，那我建议咱俩说话得开诚布公。对了，我很乐意向你解释，为什么你活下来的唯一机会就是让自己完好无缺地去神舆。其实你也是在帮我一个大忙。毕竟要是你不愿意好好听指挥，那我就只能继承你留下来的皮囊了。
 
 # （2）结局
 
@@ -345,6 +353,10 @@ Here you thought your old ride was totaled for good - yet here you are now. Like
 The great nomad saga continues: Panam's up to something. That girl just doesn't know when to quit - and my God, I love her for it. You don't seem to know either, considering you wanna go back out there. Maybe you could save us all some time, pitch a tent out in the desert? Think we both know this isn't just about the job anymore.
 
 伟大的流浪者传奇继续上演：帕南又不知道在打些什么鬼主意。这姑娘真是一刻都不得闲。要命，我爱死她了。你不是想回去吗？我看你也跟她差不多。要么干脆别浪费大家时间了，在沙漠里扎个帐篷岂不是更好？我想咱们都清楚，醉翁之意不在酒。
+
+### 广而告之
+
+在夜游鬼的地盘拍广告？有想法。毕竟枪林弹雨的场面能卖大价钱。你是没见过我们开演唱会那会儿，超级地下，宣传全靠街坊邻居口头传达……总之，看起来他们打算拍段片子，给破布标个高价卖出去。不过至少某些公司狗还算有种，找了这么一辆好车把家当全给运了过来。
 
 ## City Center
 
