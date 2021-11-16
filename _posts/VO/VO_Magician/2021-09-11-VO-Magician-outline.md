@@ -7,6 +7,8 @@ characters: ["Viggo Mortensen", "Orlando Bloom"]
 tags: ["VO", "大纲文"]
 pov: 第三人称
 origin: 个站
+long_novels: 【VO】魔术师
+published: false
 ---
 
 O是年轻的街头魔术师（热情活跃，有点人来疯）。在一次表演的时候V在围观群众里，非常捧场配合，带头鼓掌，让O得到各种赞誉。O很感激，想邀请V喝咖啡表示感谢，V提醒他这样可能会被当做托，O表示不在意（“I don't mind if you don't”，可能因为过几天就要换个城市表演了）。
