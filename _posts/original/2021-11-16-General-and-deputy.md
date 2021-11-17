@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【小说】将军和副官
-date: 2021-10-27
+date: 2021-11-16 22:45
 categories: ["原创"]
 characters: 
 tags: ["想象", "小说", "心理", "焦虑", "恐慌"]
