@@ -89,8 +89,20 @@
         {% assign sorted_longnovel = long_novel_names | sort %}
         {% for longnovel in sorted_longnovel %}
             <li>
-                <a href="{{ site.baseurl}}/longnovels#{{ longnovel }}"> {{ longnovel }}</a>
+                <a href="{{ site.baseurl}}/longnovels#{{ longnovel }}">{{ longnovel }}</a>
             </li>
         {% endfor %}
     </ul>
+</div>
+
+<!-- 相关链接 -->
+<div class="sidebar well">
+    <h1>{{ trans.related_links }}</h1>
+    <u>
+        {% for link in site.data.related_sites %}
+            <li>
+                <a href="{{ site.baseurl }}/{{ link.url }}" target="_blank">{{ link.title }}</a>
+            </li>
+        {% endfor %}
+    </u>
 </div>
