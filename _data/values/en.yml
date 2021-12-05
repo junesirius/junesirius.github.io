@@ -1,17 +1,18 @@
-recent_posts: Recent Posts
-hot_tags: Popular Tags
-hot_categories: Popular Categories
-home: Home
-tags: Tags
-archive: Archive
-categories: Categories
-characters: Characters
-longnovels: Long Novels
-about: About
+recent_posts: "Recent Posts"
+hot_tags: "Popular Tags"
+hot_categories: "Popular Categories"
+longnovel_posts: "Long Novels"
+related_links: "Related Links"
+home: "Home"
+tags: "Tags"
+archive: "Archive"
+categories: "Categories"
+characters: "Characters"
+longnovels: "Long Novels"
+about: "About"
 thanks: "Powered by"
-page: Page
-newer_post: Newer Post
-older_post: Older Post
-newer_page: Newer Page
-older_page: Older Page
-longnovel_posts: Top Posts
+page: "Page"
+newer_post: "Newer Post"
+older_post: "Older Post"
+newer_page: "Newer Page"
+older_page: "Older Page"

@@ -1,6 +1,8 @@
-recent_posts: 最近更新
+recent_posts: "最近更新"
 hot_tags: "热门标签"
 hot_categories: "热门圈子"
+longnovel_posts: "长篇小说"
+related_links: "相关链接"
 home: "首 页"
 tags: "标 签"
 archive: "归 档"
@@ -9,9 +11,8 @@ characters: "人 物"
 longnovels: "长 篇"
 about: "关 于"
 thanks: "Powered by "
-page: 页数
-newer_post: 前一篇
-older_post: 后一篇
-newer_page: 前一页
-older_page: 后一页
-longnovel_posts: 长篇小说
+page: "页数"
+newer_post: "前一篇"
+older_post: "后一篇"
+newer_page: "前一页"
+older_page: "后一页"
