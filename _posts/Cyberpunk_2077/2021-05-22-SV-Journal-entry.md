@@ -82,6 +82,8 @@ Just when you think you've solved your problem, your solution goes and starts ma
 
 想找赫尔曼？先从来生开始找起吧。没错，这些年来那地方变化不小，但有一件事永远不会变：碰上挥之不去的难题，就去来生。那儿总有人能够在你耳边说出答案……当然，价钱得合适。而如果这个人是罗格，操，那我说什么也要去见她一面。
 
+罗格在来生过得活蹦乱跳的。这一点我倒是不奇怪。可她为什么要介绍你认识一个自身都难保的前流浪者呢？罗格肯定有自己的打算，只是我也猜不透。妈的，或许是我想多了。要么就是罗格没说谎：眼下你也就付得起帕南的价钱。好吧，找她聊聊，看看赫尔曼在哪儿。没必要在阴谋论上浪费时间。
+
 你刚以为问题解决了，解决方案又开始呼鼻子上脸。看来你不帮帕南，她也不会帮你。你也是流浪者，早该想到这一点。不过你猜怎么着？我觉得这位满面风沙的大漠女郎挺靠谱。看看这段新建立的友谊能够发展出什么结果来吧。要是能帮有我们找到赫尔曼那个滑头，那就再好不过。
 
 ### Lightning Breaks 拉闸【赫尔曼】
@@ -614,6 +616,12 @@ I don't know many rippers who'd install Kiroshi optics on credit and faith. In f
 Looks like Regina wants to turn you into a one-woman/man army in the fight against cyberpsychosis. Understandable, seeing as most of our heroic badges seem to vanish from the scene at the mention of "cyberpsycho."
 
 One thing I still don't get - why does she want them alive?
+
+听说过一个叫瑞吉娜·琼斯的中间人吗？跟德克斯特不是一挂的，但她一定听说过你，所以才会要你单枪匹马去跟赛博精神病干。这也难怪，谁让那些英勇的警察一听到“赛博精神病”这几个字就立刻开溜呢。
+
+别搞砸了。名声这种东西，一传十十传百。
+
+不过我还是不懂瑞吉娜为什么非得抓活的。估计来生就是这样，爬得越高，接的单子就越奇怪。
 
 ### Sacrum Profanum/Losing my Religion 全金属和尚/破戒
 
