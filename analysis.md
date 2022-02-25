@@ -143,11 +143,21 @@ title: 统计
                     {% endif %}
                 {% endfor %}
                 <li>
-                    {% if long_novel_finished == true %}
-                        <a href="{{ site.baseurl }}/longnovels#{{ long_novel_list[i] }}">{{ long_novel_list[i] }}（已完结）</a>：{{ long_novel_count_list[i] }}篇，{{ long_novel_wordcount }}字，{{ long_novel_update_time | date: site.date_format.tags }}
-                    {% else %}
-                        <a href="{{ site.baseurl }}/longnovels#{{ long_novel_list[i] }}">{{ long_novel_list[i] }}</a>：{{ long_novel_count_list[i] }}篇，{{ long_novel_wordcount }}字，{{ long_novel_update_time | date: site.date_format.tags }}
-                    {% endif %}
+                    <div class="col-md-4" style="margin: 0; padding: 0">
+                        {% if long_novel_finished == true %}
+                            <a href="{{ site.baseurl }}/longnovels#{{ long_novel_list[i] }}">{{ long_novel_list[i] }}（已完结）</a>
+                        {% else %}
+                            <a href="{{ site.baseurl }}/longnovels#{{ long_novel_list[i] }}">{{ long_novel_list[i] }}</a>
+                        {% endif %}
+                    </div>
+                    <div class="col-md-6" style="margin: 0; padding: 0">
+                        {{ long_novel_count_list[i] }}篇，{{ long_novel_wordcount }}字
+                    </div>
+                    <div class="col-md-2" style="margin: 0; padding: 0">
+                        <span class="post-date">
+                            {{ long_novel_update_time | date: site.date_format.tags }}
+                        </span>
+                    </div>
                 </li>
                 {% assign long_novel_wordcount = 0 %}
                 {% assign long_novel_finished = false %}
