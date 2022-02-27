@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【观后感】《Mozart and Salieri Vibes At A Public Piano》（关于才华、偶遇、灵魂的交流）
+title: 【观后感】《Mozart and Salieri Vibes At A Public Piano》（关于才华、偶遇）
 date: 2022-01-25 09:51
 categories: ["观后感"]
 characters: ["Brendan Kavanagh", "Dr. K", "Antonio Salieri", "Wolfgang Amadeus Mozart"]
