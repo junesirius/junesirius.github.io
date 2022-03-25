@@ -1069,24 +1069,24 @@ published: false
 3. 嘴上会说你是垃圾，眼神像在看垃圾
 4. 嘴上会说你是垃圾，真的没觉得你是垃圾
 
-### 迈尔斯-布里格斯性格分类量表16种
+### 迈尔斯-布里格斯（MBTI）性格分类量表16种
 
-1. INTJ
-2. INTP
-3. ENTJ
-4. ENTP
-5. INFJ
-6. INFP
-7. ENFJ
-8. ENFP
-9. ISTJ
-10. ISFJ
-11. ESTJ
-12. ESFJ
-13. ISTP
-14. ISFP
-15. ESTP
-16. ESFP
+1. INTJ: I'm not selfish, I just don't care about you.
+2. INTP: Don't waste my time.
+3. ENTJ: Just get your shit togeth- WAIT. You did what!? (ENTJs scare me.)
+4. ENTP: I'm about to end this man's career. (it was too tempting sorry)
+5. INFJ: Don't you get what I'm saying?
+6. INFP: Oh, it was only a dream.
+7. ENFJ: Shut up and trust me. (he might be rude and overconfident, but don't worry, he's nice.)
+8. ENFP: Sorry, I got distracted...
+9. ISTJ: Please, can we get straight to the point?
+10. ISFJ: Don't worry about it, I can get it. (oh wow, I struggled to get a quote for ISFJ :( )
+11. ESTJ: It's more efficient the way it always was.
+12. ESFJ: What, you need a friend? But I've been yours from the beginning. (\*wink wink\*)
+13. ISTP: Just because I don't care doesn't mean I don't understand.
+14. ISFP: It will be okay, just go with the flow. (It's what I do.)
+15. ESTP: You're just mad because you know you're wrong.
+16. ESFP: Heyy! Ready for a party?
 
 （4个维度介绍，来自维基）
 
