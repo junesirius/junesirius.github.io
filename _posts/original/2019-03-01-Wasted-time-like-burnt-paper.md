@@ -4,7 +4,7 @@ title: 【随记】荒废时间
 date: 2019-03-01 21:09
 categories: ["原创"]
 characters: 
-tags: ["随记", "想象"]
+tags: ["随记", "想象", "句子"]
 pov: 第一人称
 origin: 个站
 ---

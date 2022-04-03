@@ -4,7 +4,7 @@ title: 【随记】等礼物的小孩
 date: 2020-12-02 15:26
 categories: ["原创"]
 characters: 
-tags: ["随记"]
+tags: ["随记", "句子"]
 pov: 第一人称
 origin: Lofter
 ---

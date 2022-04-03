@@ -4,7 +4,7 @@ title: 【随记】大脑的清理程序
 date: 2021-05-31 01:58
 categories: ["原创"]
 characters: 
-tags: ["随记"]
+tags: ["随记", "才华", "写作"]
 pov: 第一人称
 origin: 个站
 ---

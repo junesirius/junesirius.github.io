@@ -4,7 +4,7 @@ title: 【随记】问作家
 date: 2020-10-05 00:23
 categories: ["原创"]
 characters: 
-tags: ["随记"]
+tags: ["随记", "句子", "写作"]
 pov: 第一人称
 origin: Lofter
 ---

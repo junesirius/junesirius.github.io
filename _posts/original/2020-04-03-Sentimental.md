@@ -4,7 +4,7 @@ title: 【随记】音乐
 date: 2020-04-03 01:50
 categories: ["原创"]
 characters: 
-tags: ["随记"]
+tags: ["随记", "句子"]
 pov: 第一人称
 origin: 个站
 ---

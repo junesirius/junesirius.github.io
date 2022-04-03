@@ -4,7 +4,7 @@ title: 【随记】意识流的周六下午
 date: 2020-09-19 16:20
 categories: ["原创"]
 characters: 
-tags: ["随记", "生活", "哲学", "回忆"]
+tags: ["随记", "生活", "哲学", "回忆", "意识流"]
 pov: 第一人称
 origin: Lofter, 微信公众号
 ---

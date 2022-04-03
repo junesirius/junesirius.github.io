@@ -4,7 +4,7 @@ title: 【随记】作家用痛苦写作
 date: 2021-01-06 17:34
 categories: 原创
 characters: 
-tags: ["随记", "痛苦"]
+tags: ["随记", "痛苦", "写作"]
 pov: 第一人称
 origin: Lofter
 ---

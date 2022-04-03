@@ -4,7 +4,7 @@ title: 【随记】压缩还是延展
 date: 2020-12-23 22:45
 categories: ["原创"]
 characters: 
-tags: ["随记"]
+tags: ["随记", "时间"]
 pov: 第一人称
 origin: 个站
 ---
