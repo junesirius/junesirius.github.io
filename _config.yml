@@ -8,7 +8,7 @@ name_en: June Sirius
 url: https://junesirius.github.io
 baseurl: ""
 
-## default date_format
+# default date_format
 date_format: 
   title: "%m-%d-%Y"
   archive: "%m-%d"
@@ -18,7 +18,9 @@ date_format:
 # Language
 lan: "cn" 
 
+# constant setups
 paginate: 7
+sidebar_len: 7
 
 highlighter: rouge
 markdown: kramdown
