@@ -26,7 +26,11 @@ def check_and_auto_update():
     file_changed = []
 
     for file in file_list:
-        if file.endswith(".md") and Path(file).exists():
+        if (
+            file.endswith(".md")
+            and not file.endswith("whole-novel.md")
+            and Path(file).exists()
+        ):
             file = Path(file)
             print(f"Checking {colored(file, 'yellow')} ...", end="")
             with file.open("r", encoding="utf-8") as f:

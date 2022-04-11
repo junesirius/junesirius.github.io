@@ -1,17 +1,4 @@
----
-layout: post
-title: 【高兰】夜莺与玫瑰（全文）
-date: 2021-01-05 21:37
-categories: 梅林传奇
-characters: ["Gwaine", "Lancelot", "Arthur", "Merlin"]
-tags: ["高兰", "亚梅"]
-pov: 第三人称
-origin: Lofter
-long_novels: 【高兰】夜莺与玫瑰
-published: false
----
-
-【高兰】夜莺与玫瑰
+**【高兰】夜莺与玫瑰**
 
 （标题含义：与王尔德童话同名，暗指对于王尔德和波西的借鉴，以及像雄夜莺一样用自己的血浇灌玫瑰）
 

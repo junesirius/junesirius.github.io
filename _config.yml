@@ -27,6 +27,6 @@ markdown: kramdown
 plugins: ['jekyll-paginate']
 google_analytics: G-7049S50VTD
 
-exclude: ['README.md', 'LICENSE', "*.bak"]
+exclude: ['README.md', 'LICENSE', "*.bak", "*whole-novel.md"]
 
 permalink: /:year/:month/:day/:title
