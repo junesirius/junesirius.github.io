@@ -1,4 +1,4 @@
-【VO】Encounter 邂逅
+**【VO】Encounter 邂逅**
 
 [TOC]
 
