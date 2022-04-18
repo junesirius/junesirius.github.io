@@ -1,15 +1,4 @@
----
-layout: post
-title: 【VO】最好的电影（草稿）
-date: 2020-11-07 04:21
-categories: ["中土", "RPS"]
-characters: ["Viggo Mortensen", "Orlando Bloom"]
-tags: ["VO", "草稿"]
-pov: 第三人称
-origin: 个站
-published: false
-long_novels: 【VO】最好的电影
----
+**【VO】最好的电影**
 
 设定：艺术家V x 刚毕业的大学生O 
 
