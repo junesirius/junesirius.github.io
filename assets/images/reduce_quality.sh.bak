@@ -1,0 +1,6 @@
+#!/bin/bash
+for name in *.png; do
+    magick convert "$name" -quality 75 -density 72 "${name%.png}".jpg;
+    rm "$name";
+    mv "${name%.png}".jpg "$name";
+done
