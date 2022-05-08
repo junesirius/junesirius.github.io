@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【随记】Love is Destruction（英文）
+title: 【随记】Love is Destruction
 date: 2021-07-14 14:24
 categories: 原创
 characters: 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【小说】The Alien says, Kill Those Without Self-Consciousness（英文）
+title: 【小说】The Alien says, Kill Those Without Self-Consciousness
 date: 2020-02-21 01:01
 categories: ["原创"]
 tags: ["哲学", "心理", "英文", "小说"]
