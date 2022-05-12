@@ -1,12 +1,13 @@
 ---
 layout: post
-title: 【心理】自杀文学
+title: 【心理】I want to do it
 date: 2021-08-01 16:46
-categories: 原创
+categories: ["原创"]
 characters: 
-tags: ["心理", "死亡", "血", "英文"]
+tags: ["心理", "死亡", "血", "英文", "自毁"]
 pov: 第一人称
 origin: 个站
+published: false
 ---
 
 I want to do it. I want to do it so badly.

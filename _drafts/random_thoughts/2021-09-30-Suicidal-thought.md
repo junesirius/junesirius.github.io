@@ -1,12 +1,13 @@
 ---
 layout: post
-title: 【心理】自杀文学
+title: 【心理】生而为人，我很抱歉
 date: 2021-09-30 01:54
-categories: 原创
+categories: ["原创"]
 characters: 
 tags: ["心理", "死亡"]
 pov: 第一人称
 origin: Lofter
+published: false
 ---
 
 really really want to die
