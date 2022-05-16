@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【原创】 Kill myself everyday
+title: 【原创】Kill myself everyday（待扩充）
 date: 2020-04-30 04:31
 categories: 原创
 characters: 
-tags: 
+tags: ["想象", "死亡", "待扩充"]
 pov: 第一人称
 origin: 
 ---

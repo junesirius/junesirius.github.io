@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【原创】我将如何度过永恒的第一秒
+title: 【原创】我将如何度过永恒的第一秒（待扩充）
 date: 2020-06-28 16:47
 categories: 原创
 characters: 
-tags: 
+tags: ["想象", "待扩充"]
 pov: 第一人称
 origin: 
 ---

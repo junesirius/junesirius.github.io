@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【心理】批判者、安慰者、反抗者和没有名字的人
+title: 【心理】批判者、安慰者、反抗者和没有名字的人（待扩充）
 date: 2020-02-18 01:56
 categories: 原创
 characters: 
-tags: ["心理", "思维宫殿"]
+tags: ["心理", "思维宫殿", "待扩充"]
 pov: 第一人称
 origin: 个站
 ---
@@ -15,7 +15,7 @@ origin: 个站
 
 ……（TBC）
 
-
+<br>
 
 注：
 
@@ -23,7 +23,7 @@ origin: 个站
 
 [2] 彩蛋：《雷神3》的梗，“mutual dumping”
 
-
+<br>
 
 草稿：
 

@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 【原创】被大脑控制
+title: 【原创】被大脑控制（待扩充）
 date: 2020-04-28 16:22
 categories: 原创
 characters: 
-tags: 
+tags: ["心理", "待扩充"]
 pov: 第一人称
 origin: 
 ---
 
-
+<br>
 
 hijacked by my brain，所以应该如何反过来hijack my brain（HPMOR 022-037 P93, 注意困惑→noticing confusion, thought challenging；可以有一些剧情，后面的反抗部分是用情感进行对大脑的反抗，怎样才能surprise my mind，怎样才能自己在自己的大脑最没有预期的时候控制自己做出最不可能最令自己意外的行动。Try me, Beyonce. Surprise myself.→有点像悖论，但在实际中怎么实现的（除了失忆醉酒等无意识状态下）
 
