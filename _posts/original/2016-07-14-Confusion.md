@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【心理】confusion（英文）
+title: 【心理】confusion
 date: 2016-07-14 10:04
 categories: ["原创"]
 characters: 
-tags: ["心理", "英文"]
+tags: ["心理", "英文", "迷茫", "受困感", "自由", "自我压抑"]
 pov: 第一人称
 origin: 微信朋友圈
 ---
