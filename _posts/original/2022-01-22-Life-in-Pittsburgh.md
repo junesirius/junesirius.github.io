@@ -4,7 +4,7 @@ title: 【随记】生活在匹兹堡
 date: 2022-01-22 19:55
 categories: ["原创"]
 characters: 
-tags: ["生活", "随记", "孤独"]
+tags: ["生活", "随记", "孤独", "匹兹堡"]
 pov: 第一人称
 origin: Lofter
 ---
