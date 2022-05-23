@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【心理】屏蔽
+title: 【心理】屏蔽（关于写作）
 date: 2020-12-15 14:38
 categories: 原创
 characters: 
-tags: ["心理"]
+tags: ["心理", "写作"]
 pov: 第一人称
 origin: 个站
 ---

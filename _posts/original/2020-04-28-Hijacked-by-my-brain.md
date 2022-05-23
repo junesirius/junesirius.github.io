@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【原创】被大脑控制（待扩充）
+title: 【原创】被大脑劫持（待扩充）
 date: 2020-04-28 16:22
 categories: 原创
 characters: 

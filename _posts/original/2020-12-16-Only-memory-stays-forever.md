@@ -4,7 +4,7 @@ title: 【情感】唯一不会离开的东西
 date: 2020-12-16 14:17
 categories: ["原创"]
 characters: 
-tags: ["情感", "心理", "回忆", "死亡"]
+tags: ["情感", "心理", "回忆", "记忆", "死亡"]
 pov: 第二人称
 origin: Lofter、个站
 ---
