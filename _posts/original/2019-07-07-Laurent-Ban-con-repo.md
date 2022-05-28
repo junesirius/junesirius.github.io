@@ -4,7 +4,7 @@ title: 【日志】班con repo
 date: 2019-07-07
 categories: ["音乐剧"]
 characters: ["Laurent Ban"]
-tags: ["音乐会", "追星"]
+tags: ["音乐会", "追星", "日志"]
 pov: 第一人称视角
 origin: 微博
 ---
