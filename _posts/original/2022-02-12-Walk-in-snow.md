@@ -4,7 +4,7 @@ title: 【随记】如在雪地跋涉
 date: 2022-02-12 00:45
 categories: ["原创"]
 characters: 
-tags: ["随记", "写作"]
+tags: ["随记", "写作", "想象"]
 pov: 第一人称
 origin: Lofter
 ---

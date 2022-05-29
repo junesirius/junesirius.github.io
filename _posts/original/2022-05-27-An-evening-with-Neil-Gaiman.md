@@ -4,7 +4,7 @@ title: 【日志】An Evening with Neil Gaiman
 date: 2022-05-27 02:45
 categories: ["原创"]
 characters: ["Neil Gaiman"]
-tags: ["日志", "追星", "写作"]
+tags: ["日志", "追星", "写作", "故事", "阅读"]
 pov: 第一人称视角
 origin: Lofter
 ---
