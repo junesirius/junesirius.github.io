@@ -4,7 +4,7 @@
 
 \# 梗：相爱相杀、失忆梗、轮回梗、hurt & comfort
 
-\# 第二人称女杀手
+\# 第二人称女杀手（雇佣兵）
 
 [TOC]
 
@@ -43,7 +43,7 @@ Your pet grown very quickly. He seems start to take shape in more humanoid form.
 
 Though his shape is not perfect, people might notice him sooner or later. You'll have to be careful. He start speaking to me like as if he is a human instead of gurgling noise and refer himself as 'Hector'.
 
-He grow an affection towards sweets. He said something aabout like to eat sweets with his 'human mouth'. Where he can taste the sweets and sugars. He also said it taste different than eating it with his 'other mouth'. You can't really understand what he meant but you think you'll start buying extra sweets everytime you stop by the groceries since he has been a very good boy.
+He grow an affection towards sweets. He said something about like to eat sweets with his 'human mouth'. Where he can taste the sweets and sugars. He also said it taste different than eating it with his 'other mouth'. You can't really understand what he meant but you think you'll start buying extra sweets everytime you stop by the groceries since he has been a very good boy.
 
 - 150≤Fp<250（阶段3）
 - Hp≥100（嗜糖）
@@ -120,7 +120,7 @@ Now you don't have to think how to carry the body to him. Because he can immedia
 
 He start speaking to me like as if he is a human instead of gurgling noise and refer himself as 'Hector'. As long as he eats the bodies and leave no evidence behind, he can refer himself whatever he want.
 
-Not only that, he also mannered like a human. He is very well-mannered that you don't think anyone would even put a slight suspicion that he might be not human. He has helped you in couple mission as distraction as he is pretty good to keep a conversation with people. Unexpectedly, you two make a pretty good team.
+Not only that, he also mannered like a human. He is very well-mannered that you don't think anyone would even put a slight suspicion that he might be not human. <u>He has helped you in couple mission as distraction as he is pretty good to keep a conversation with people. Unexpectedly, you two make a pretty good team.</u>
 
 - Fp≥250（阶段4）
 - Hp<100（不嗜糖）
@@ -353,7 +353,17 @@ You two have a good tiramisu.
 
 ## 原作剧情
 
-1. 
+1. ~~C：他开始像人一样对我说话而不是发出咯咯的声音，他称自己为“赫克托”~~
+2. ~~C：他喜欢用他“人类的嘴”来吃甜食，来品尝它们。他说这跟用他“别的嘴”吃起来味道不一样~~
+3. D：你已经很久没有正常的人际交往了
+4. E：甜食可以让他平静下来。他吃甜食的时候总是很慢很慢地舔，让糖在他的舌头上融化。而他吃肉的时候会直接打开胸腔上的嘴来一次性吃掉（胸腔里的空间看起来比外面大，他是四维生物？）
+5. F2：他总是很饿，像是本能想要吃更多的东西来保持体型来自我保护，是一种防御机制。这很烦人。所以直到他冷静下来，你把他藏在了谷仓里，这样清理那些血和肉会容易一点，他总是吃得乱七八糟
+6. G：他表现得像个人类，举止优雅，让人完全不会怀疑他不是人类。在几次任务中，他都帮你分散别人注意力因为他很擅长跟人搭话。很出人意外的，你们俩组成了一个很好的团队
+7. H：他很黏人，一起出任务时候很话痨，很喜欢没话找话
+8. H：他很容易饿，想问你能不能多出猎几次来满足他对肉的欲望。你不想多接任务因为这很麻烦，你试着给他喂甜食作为替代，~~因为**上一次**这是奏效的，所以**这次**一定也可以~~
+9. I：他很容易饿，你怀疑他可能偷偷背着你在杀戮。虽然你不想让非目标也变成一滩肉因为这很麻烦——好在他什么都会自己处理好。~~当然，你训斥了他，因为失踪人口也会让当局警觉，让当前任务变得更难。他看上去理解了，跟你说他会去捕猎一些替代品来满足食欲。~~~~你建议他去捕猎动物。周围的熊和野猪不是很多，但是老鼠和野猫还是很多的。~~
+10. J：
+
 
 ## 大纲
 
@@ -361,25 +371,50 @@ You two have a good tiramisu.
 
 （谁是真的Hector？）
 
+### 人设性格
+
+#### 你
+
+#### Hector
+
+### 世界观设定
+
+#### 地理位置
+
+你住的地方偏僻，靠近树林，熊和野猪很少，老鼠和野猫很多（原作剧情9）。
+
+#### 世界观
+
+#### 当局
+
+#### 任务/目标
+
+（什么任务？）
+
 ### 剧情线
 
 1. 相遇：任务出错，心动留下
 2. 第一次变成失控的树（中间经历了从小家伙到狗狗到植物的阶段，很多日常；后期控制欲极强时刻监视，Ending N）：不想灭世界不得不灭了它（和当局谈判无果），双方都同意，杀死它，挖心脏重新养（格鲁特一样），死前最后一句“想要提拉米苏”
-3. 第二次变成不太走得出去的人样（内向但是饥饿，Ending I/F2）：主人因为愧疚（觉得自己不是好主人）所以没有很亲近，也不太喂糖，总是很饿，甚至偶尔想过要攻击主人但是都忍住了。但是有一次还是本性使然把主人弄伤了，很愧疚（觉得自己是邪恶的不值得被主人关心）而且觉得主人不在乎自己所以跑出去了，然后把自己弄得半死不活（致命弱点是火），找到时候才知道他是帮忙清除危险去了，然后再次取心重新来，最后愿望是希望下一次对他好一点
+3. 第二次变成不太走得出去的人样（内向但是饥饿，Ending I/F2）：你因为愧疚（觉得自己不是好主人）所以没有很亲近，也不太喂糖。他总是很饿，甚至偶尔想过要攻击你但是都忍住了。但是有一次还是本性使然把你弄伤了，很愧疚（觉得自己是邪恶的不值得被你关心）而且觉得你不在乎他所以跑出去了，然后把自己弄得半死不活（致命弱点是火），找到时候才知道他是帮忙清除危险去了，然后再次取心重新来，最后愿望是希望下一次对他好一点
 4. 第三次变成裹成木乃伊样子的人样（外向，Ending G）：合作执行任务非常顺利，日常生活几乎像是和正常人相处，几乎忘记可能会有的危险，但是仍然因为某些意外能感觉到他不如之前那么强大，喂食也没法彻底解决，开始产生怀疑但是没有确认。遭遇绑架，互相成为对方的弱点，试图互相保护，因为挡刀又死了
 5. 下一次再次变成小一点的树（Ending L）：突然觉得其实灭世界也没什么不好的，只要有他在，不管什么形态都没关系。灭世界统治世界了，但是他仍然从一开始的占领世界变得越来越虚弱枯萎，这时候才告知他的重生次数是有限的，已经用完了（暗示第一次见面以前也是见过的），这是最后一次了。这次为了扩张生长消耗得太厉害，已经在衰败阶段了，想要安慰说植物本来就会有这样生死周期的，还是很难过。
 6. 结局：抱着剩下的心等着他重生，在旁边睡着了，梦到蹭自己的小狗状态的他（暗示第一次见到的时候就已经不是第一次了，以为失忆的是他其实是自己）
 
 ### 日常风内容
 
-- 第一次开口说话
+- 第一次开口说话（原作剧情1）
 - 教/学习语言（无法表达的时候呜咽样子；用动作或意念表达）
-- 第一次吃冰淇淋舔舔舔
+- 第一次吃冰淇淋舔舔舔；吃和品尝的区别（不同的嘴/舌有不同敏感感官？）（原作剧情2）
 - 尝试烘焙时候烫到自己
 - 万圣节
 - 第一次说谎
 - 第一次受伤，完全不知道怎么救治
 - 一起读《小王子》，猴面包树和玫瑰，反复隐喻，以为自己是狐狸或者玫瑰，然后意识到其实是猴面包树，到最后结局才说是小王子
+- 你记得他上一次的喜好所以试着投其所好（比如甜食种类），他果然还是没变（原作剧情8）
+- 发现他偷偷捕猎杀戮，被当局上门询问失踪人口的事，应付过去了但是转身训斥了他一顿（原作剧情9）
+- 食欲是性欲的隐喻（开车时的过渡）
+- 看见他偷抓老鼠和野猫充饥，心疼了（原作剧情9）
+- 被离间出现罅隙（？，某个时刻下意识去救无辜人类，被挑拨，“她果然还是更关心她的同类，不过这也没什么奇怪的”“这不是真的”）
 
 ## 正文
 
