@@ -7,6 +7,7 @@ characters: ["Phileas Fogg"]
 tags: ["观后感", "八十天环游地球", "爱情"]
 pov: 第一人称视角
 origin: 个站
+description: "看这集的时候脑内总会响起Queen的《Love of my life》。爱，时间，错过。怯懦，遗憾。<br>“All the time in the world.”<br>一句话就落下泪来。<br>“All the time in the world”，如果可以永生，我会把永生的所有时间也全都交给你。听你讲述你的生命，听我错过的所有一切。如果是小十，他或许真的做得出这样的事。"
 ---
 
 看这集的时候脑内总会响起Queen的《Love of my life》。爱，时间，错过。怯懦，遗憾。
