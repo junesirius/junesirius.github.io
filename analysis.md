@@ -143,14 +143,14 @@ title: 统计
                     {% endif %}
                 {% endfor %}
                 <li>
-                    <div class="col-md-4" style="margin: 0; padding: 0">
+                    <div class="col-md-6" style="margin: 0; padding: 0">
                         {% if long_novel_finished == true %}
                             <a href="{{ site.baseurl }}/longnovels#{{ long_novel_list[i] }}">{{ long_novel_list[i] }}（已完结）</a>
                         {% else %}
                             <a href="{{ site.baseurl }}/longnovels#{{ long_novel_list[i] }}">{{ long_novel_list[i] }}</a>
                         {% endif %}
                     </div>
-                    <div class="col-md-6" style="margin: 0; padding: 0">
+                    <div class="col-md-4" style="margin: 0; padding: 0">
                         {{ long_novel_count_list[i] }}篇，{{ long_novel_wordcount }}字
                     </div>
                     <div class="col-md-2" style="margin: 0; padding: 0">
