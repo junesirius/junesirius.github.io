@@ -7,6 +7,7 @@ characters:
 tags: ["随记", "生活", "世界", "社会", "平权", "女权", "女性主义", "Ni Una Menos"]
 pov: 第二人称
 origin: Lofter
+description: "人类，想象你生活的世界不只有“人类”这一种智慧生物，想象有另一种存在也活跃在地球上，生活在我们之间。从外貌上几乎完全无法分辨，但他们远比我们强壮，迅捷，比如吸血鬼，比如变种人。如果他们愿意，他们可以轻易地杀死我们。"
 ---
 
 人类，想象你生活的世界不只有“人类”这一种智慧生物，想象有另一种存在也活跃在地球上，生活在我们之间。从外貌上几乎完全无法分辨，但他们远比我们强壮，迅捷，比如吸血鬼，比如变种人。如果他们愿意，他们可以轻易地杀死我们。
@@ -60,7 +61,7 @@ origin: Lofter
 
 然后甚至开始自我怀疑，难道这个世界真的已经没救成这个样子了吗？在此刻之前，在把所有“人”看做“男人”和“女人”之前，我甚至忘了自己究竟是如何做到拥有足够的勇气每日地走到马路上，走到人群中间的？
 
-只有在这个时候，关于the system的awareness才终于重新慢慢出现在大脑里。是关于the system的trust让我们拥有了一点点安全感，是这种trust而非对道德的naïve hope让我们得以在这个世界上行走。是the system，让我们生活的世界不至于沦为完全以力量和速度为丛林法则的brutal wild land。而现在，在那片土地上，关于the system的trust正在飞速流失，而这才是真正可怕的。构建一种trust需要很久很久，毁掉它却足够简单。
+只有在这个时候，关于the system的awareness才终于姗姗地出现在大脑里。是关于the system的trust让我们拥有了一点点安全感，是这种trust而非对道德的naïve hope让我们得以在这个世界上行走。是the system，让我们生活的世界不至于沦为完全以力量和速度为丛林法则的brutal wild land。而现在，在那片土地上，关于the system的trust正在飞速流失，而这才是真正可怕的。构建一种trust需要很久很久，毁掉它却足够简单。
 
 也正是这种流失的trust，is pushing me away。可仍然，我甚至连自己都没有意识到，I still care。Otherwise, I wouldn't see, I wouldn't hear, I wouldn't be angry and sad, I wouldn't write, I wouldn't speak out, I wouldn't want to shout out for attention. I'll just be indifferent, as if it's none of my business.
 
