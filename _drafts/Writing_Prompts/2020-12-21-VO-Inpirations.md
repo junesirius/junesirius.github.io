@@ -398,7 +398,7 @@ The End.
 
 （类似设定准备用给科布了）
 
-### 44. 《卡罗尔》
+### 44. 《卡罗尔》代餐
 
 （完整改编/代，背景1950s，禁忌的爱）
 
@@ -412,11 +412,9 @@ The End.
 
 看完“the return of king”（AL），“find me special”（VO）
 
-### 46. 西部片风格
+### 46. 虎豹小霸王AU
 
-（AL或VO或ALVO）
-
-（可微仿《虎豹小霸王》等）
+（西部片风格）
 
 （剧情待细化，两个都是outlaw的西部牛仔，边躲通缉令边还要抢银行（还是很通情达理彬彬有礼的那种抢法，能不杀人就不杀人但是被惹毛了枪法超级准的那种））
 
@@ -911,7 +909,7 @@ VO在无法决定他们的未来选择之后被给予了一次机会询问未来
 
 胖胖：“Let's... let's just think about it again.”向后退坐回椅子上，叹气，捂脸】
 
-### 67.《Autumn in New York》soundtrack
+### 67.《Autumn in New York》Lyrics
 
 Let's fall in love
 
@@ -1133,6 +1131,8 @@ O拖到实在不能再拖才终于狠狠心含着泪按了EMP大红按钮，与�
 
 （灵感来自漫威《What if》的僵尸末日）
 
+（TODO：等看完生化危机全部来补充）
+
 ### 79. 飞机上的偶遇
 
 （又是初遇故事；来自个人经历）
@@ -1236,3 +1236,15 @@ VO一起讨论设计的剧本就是他们当时正在发生的一切
 然后O发现V的真实身份，开始为CIA干活来挖掘真相，然后V发现O在背叛他，然后在被迫需要杀死对方保全自己时候都下不了手（又是相爱相杀梗）
 
 （诟病/问题：感觉光是描述就缺失了很多喜剧元素和原作精彩的地方，比如完整环形结构，而且这部电影中的双主角情感，友情会比爱情更合适，所以可能不适合直接改编套用）
+
+### 89. 环太平洋AU
+
+keep your mind completely open to another person是一件非常sexually appealing and arousing的事；hand yourself over to another person, body and mind
+
+V对O（及其他所有人）一开始一直潜意识地keep him out，然后慢慢互相熟悉，开始emotionally地trust and accept，然后等到终于invite him in，the whole brand new world inside让O非常amazed
+
+V不肯open的原因可以是因为觉得自己有些需要suppress的东西（可以跟之前写过的思维宫殿梗稍微结合），觉得自己大脑里有些过于活跃、燃烧过头、野性的、wild and violent（in an artistic way）的东西如果不suppress下去可能会带来危险，出现攻击性，害怕失控等
+
+（非常喜欢压抑克制这个点）
+
+然后O让他愿意open了，开始释放那种wildness
