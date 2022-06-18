@@ -1248,3 +1248,10 @@ V不肯open的原因可以是因为觉得自己有些需要suppress的东西（�
 （非常喜欢压抑克制这个点）
 
 然后O让他愿意open了，开始释放那种wildness
+
+### 90. The Wedding Present AU
+
+（原文故事在尼尔盖曼的《烟与镜》前言里）
+
+现实的VO结婚幸福事业成功等等各种高甜，一直有一页纸写着另一种他们的生活，各种miserable不幸痛苦渐行渐远失去爱。然后V去世，纸上的他们还是继续miserable，O一个人望着火炉发呆，“He stared into the fire for some time, thinking about what he had in his life, and what he had given up; and whether it would be worse to love someone who was no longer there, or not to love someone who was.”
+
