@@ -29,6 +29,7 @@ def check_and_auto_update():
         if (
             file.endswith(".md")
             and not file.endswith("whole-novel.md")
+            and not "_drafts" in file
             and Path(file).exists()
         ):
             file = Path(file)
@@ -49,6 +50,8 @@ def check_and_auto_update():
                 with file.open("w", encoding="utf-8") as f:
                     f.write(content)
             print(colored("Done.", "green"))
+        else:
+            print(f"Skip checking {colored(file, 'yellow')}")
 
     if file_changed:
         print("\nChanged files: ")
