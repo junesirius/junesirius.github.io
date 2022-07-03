@@ -1,4 +1,4 @@
-**【Homegrown Pet】小王子**
+**【人外】小王子**
 
 \# 预警：R18、graphic depiction of violence、角色死亡、人外
 
