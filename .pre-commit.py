@@ -34,6 +34,8 @@ def check_and_auto_update():
         ):
             file = Path(file)
             print(f"Checking {colored(file, 'yellow')} ...", end="")
+
+            # Check empty paragraphs
             with file.open("r", encoding="utf-8") as f:
                 content = f.read()
             if "\n" * 4 in content:
@@ -49,6 +51,32 @@ def check_and_auto_update():
                 content = content.replace("\n" * 4, "\n\n<br>\n\n")
                 with file.open("w", encoding="utf-8") as f:
                     f.write(content)
+
+            # Check line not ends with space
+            with file.open("r", encoding="utf-8") as f:
+                lines = f.readlines()
+            file_need_change = False
+            new_lines = []
+            for line in lines:
+                if line.endswith(" \n"):
+                    file_need_change = True
+                    new_lines.append(line.replace("\n", "").rstrip(" ") + "\n")
+                else:
+                    new_lines.append(line)
+            if file_need_change:
+                if file not in file_changed:
+                    file_changed.append(file)
+                    print(
+                        colored(
+                            "\n\tNote: Line ends with space found!"
+                            "\n\tWarning: Starting to edit file content...",
+                            "red",
+                        ),
+                        end="",
+                    )
+                with file.open("w", encoding="utf-8") as f:
+                    for line in new_lines:
+                        f.write(line)
             print(colored("Done.", "green"))
         else:
             print(f"Skip checking {colored(file, 'yellow')}")

@@ -16,6 +16,6 @@ fi
 
 if [ $? != 0 ]; then
     echo "git status:"
-    git status
+    git status --untracked-files=no
     exit 1
 fi
