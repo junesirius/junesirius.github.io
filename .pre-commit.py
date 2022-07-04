@@ -56,8 +56,17 @@ def check_and_auto_update():
             with file.open("r", encoding="utf-8") as f:
                 lines = f.readlines()
             file_need_change = False
+            is_front_format = True
             new_lines = []
-            for line in lines:
+            for idx, line in enumerate(lines):
+                # skip checking front format
+                if idx == 0:
+                    continue
+                if line == "---\n":
+                    is_front_format = False
+                if is_front_format:
+                    continue
+
                 if line.endswith(" \n"):
                     file_need_change = True
                     new_lines.append(line.replace("\n", "").rstrip(" ") + "\n")
@@ -66,14 +75,14 @@ def check_and_auto_update():
             if file_need_change:
                 if file not in file_changed:
                     file_changed.append(file)
-                    print(
-                        colored(
-                            "\n\tNote: Line ends with space found!"
-                            "\n\tWarning: Starting to edit file content...",
-                            "red",
-                        ),
-                        end="",
-                    )
+                print(
+                    colored(
+                        "\n\tNote: Line ends with space found!"
+                        "\n\tWarning: Starting to edit file content...",
+                        "red",
+                    ),
+                    end="",
+                )
                 with file.open("w", encoding="utf-8") as f:
                     for line in new_lines:
                         f.write(line)
