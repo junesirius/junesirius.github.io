@@ -67,7 +67,7 @@ def check_and_auto_update():
                 if is_front_format:
                     continue
 
-                if line.endswith(" \n"):
+                if line.endswith(" \n") and line != "> \n":
                     file_need_change = True
                     new_lines.append(line.replace("\n", "").rstrip(" ") + "\n")
                 else:
