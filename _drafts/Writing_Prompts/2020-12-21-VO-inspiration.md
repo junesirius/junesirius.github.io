@@ -1255,3 +1255,6 @@ V不肯open的原因可以是因为觉得自己有些需要suppress的东西（�
 
 现实的VO结婚幸福事业成功等等各种高甜，一直有一页纸写着另一种他们的生活，各种miserable不幸痛苦渐行渐远失去爱。然后V去世，纸上的他们还是继续miserable，O一个人望着火炉发呆，“He stared into the fire for some time, thinking about what he had in his life, and what he had given up; and whether it would be worse to love someone who was no longer there, or not to love someone who was.”
 
+### 91. 达芬奇密码AU
+
+关于secret message的故事，有点像达芬奇密码那种但是把画改成音乐。比如V把隐密的信息藏在了他的音乐里，只有过滤特定的频率或者进行一些特定的解密操作才能听到，这个信息一直被传言认为是有某种特殊意义和价值或者财富的信息，很多方势力都在争夺寻找，然后O也被他所在的组织赋予了去寻找信息的任务，然后在经历了很多波折以后破解出来发现不是他们以为的信息只是一条不敢说出的爱的信息。
