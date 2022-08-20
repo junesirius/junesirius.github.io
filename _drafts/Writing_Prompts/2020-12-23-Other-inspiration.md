@@ -925,3 +925,9 @@ double date的原本配对是安姐跟路西，康康跟牌牌，结果路西跟
 救世的方舟沉入海底。
 
 水天一色。
+
+### 86.【DW&睡魔】Time Lord & Dream Lord
+
+《When Time Lord meets Dream Lord》
+
+Time是Endless的一员吗？失散的/未名的/long lost的一员？
