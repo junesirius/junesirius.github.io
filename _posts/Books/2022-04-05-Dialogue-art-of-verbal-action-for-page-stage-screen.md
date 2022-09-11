@@ -51,6 +51,8 @@ published: false
 
 # CHAPTER 03 表达I：内容
 
+组合对白时把角色设计想象成三个同心球：<u>最内核=说不出口的，中间层=控制着没说出来的，外层=说出的话语</u>。
+
 # CHAPTER 04 表达II：形式
 
 # CHAPTER 05 表达III：技巧
