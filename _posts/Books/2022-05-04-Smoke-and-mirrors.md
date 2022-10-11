@@ -7,7 +7,7 @@ characters: ["尼尔·盖曼"]
 tags: ["读后感", "摘录"]
 pov: 
 origin: 个站
-published: false
+published: true
 ---
 
 [TOC]
@@ -26,9 +26,7 @@ A few of them were written to amuse myself or, more precisely, to get an idea or
 
 ## The Wedding Present
 
-Belinda stared into the fire for some time, thinking about what she had in her life, and what she had given up; and whether it would be worse to love someone who was no longer there, or not to love someone who was.
-
-<br>
+Belinda stared into the fire for some time, thinking about what she had in her life, and what she had given up; and <u>whether it would be worse to love someone who was no longer there, or not to love someone who was</u>.
 
 Belinda sat back in her chair, and closed her eyes, and waited for the scar to blossom on her cheek.
 
