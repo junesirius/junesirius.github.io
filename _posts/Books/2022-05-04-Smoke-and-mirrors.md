@@ -30,3 +30,6 @@ Belinda stared into the fire for some time, thinking about what she had in her l
 
 Belinda sat back in her chair, and closed her eyes, and waited for the scar to blossom on her cheek.
 
+<br>
+
+Sometimes the only way I would know that a story had finished was when there weren't any more words to be written down.
