@@ -3,7 +3,7 @@ layout: post
 title: 【心理】迷宫前的背影
 date: 2021-01-09 00:19
 categories: ["原创"]
-characters: ["尼尔·盖曼"]
+characters: ["Neil Gaiman"]
 tags: ["心理", "情感", "想象"]
 pov: 第一人称视角
 origin: Lofter
