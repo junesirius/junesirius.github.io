@@ -1,4 +1,15 @@
 ---
+layout: post
+title: 【摘录】《对白：文字、舞台、银幕的言语行为艺术》
+date: 2022-04-05
+categories: 读后感
+characters: ["罗伯特·麦基"]
+tags: ["摘录", "剧本", "写作"]
+pov: 第三人称
+origin: 个站
+description: 
+published: true
+---
 
 [TOC]
 
