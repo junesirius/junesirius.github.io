@@ -13,7 +13,7 @@ published: true
 
 You're finding out something as you read that will be vitally important for making your way in the world. And it's this:
 
-**THE WORLD DOESN'T HAVE TO BE LIKE THIS.**
+**<u>The world doesn't have to be like this.</u>**
 
 **Things can be different.**
 
@@ -29,11 +29,11 @@ Fiction is the lie that tells the truth.
 
 We all have an obligation to daydream.
 
-We have an obligation to IMAGINE.
+We have an obligation to **<u>imagine</u>**.
 
 It is easy to pretend that nobody can change anything, that society is huge and the individual is less than nothing.
 
-BUT THE TRUTH is, individuals make the future, and they do it by **IMAGINING THAT THINGS CAN BE DIFFERENT**.
+<u>But the truth</u> is, individuals make the future, and they do it by **<u>imagining that things can be different</u>**.
 
 <br>
 
@@ -59,21 +59,21 @@ write an episode of Doctor Who
 
 ... and so on.
 
-**I didn't have a career. I just did the next thing on the list.**
+**<u>I didn't have a career. I just did the next thing on the list.</u>**
 
 <br>
 
-If you have an idea of what you want to make, what you were put here to do, **THEN JUST GO AND DO THAT**.
+If you have an idea of what you want to make, what you were put here to do, <u>then just go and do that</u>.
 
 And that's much harder than it sounds and, sometimes in the end, so much easier than you might imagine.
 
 <br>
 
-The problems of failure are problems of discouragement, of hopelessness, of hunger. You want EVERYTHING TO HAPPEN and you WANT IT NOW, and things go wrong.
+The problems of failure are problems of discouragement, of hopelessness, of hunger. You want *<u>everything to happen</u>* and you *<u>want it now</u>*, and things go wrong.
 
 <br>
 
-DON'T WRITE BOOKS JUST FOR THE MONEY.
+**Don't write books just for the money.**
 
 If you didn't get the money, then you didn't have anything. If I did work I was proud of, and I didn't get the money, at least I'd have the work.
 
@@ -87,20 +87,20 @@ The problems of success.
 
 They're real, and with luck you'll experience them. The point where you stop saying yes to everything, because now the bottles you threw in the ocean are all coming back.
 
-And have to learn to say NO.
+And have to learn to say **NO**.
 
 <br>
 
 Life is sometimes hard. Things go wrong, in life, and in love and in business and in friendship and in health and in all the other ways that life can go wrong. And when things get tough, this is what you should do...
 
-MAKE GOOD ART.
+**<u>Make good art.</u>**
 
 <br>
 
-While you're at it, make YOUR art. Do the stuff that only YOU can do.
+While you're at it, make **<u>YOUR</u>** art. Do the stuff that only **<u>YOU</u>** can do.
 
-The one thing that you have that nobody else has is YOU.
+The one thing that you have that nobody else has is **<u>YOU</u>**.
 
-Your voice, your mind, your story, your vision. So write and draw and build and play and dance and LIVE as only YOU can.
+Your voice, your mind, your story, your vision. So write and draw and build and play and dance and **live** as only **<u>YOU</u>** can.
 
-The moment that you feel that, just possibly, **YOU'RE WALKING DOWN THE STREET NAKES**, exposing too much of your heart and your mind and what exists on the inside, showing TOO MUCH OF YOURSELF. That's the moment you may be STARTING TO GET IT RIGHT.
+The moment that you feel that, just possibly, **<u>you're walking down the street naked</u>**, exposing too much of your heart and your mind and what exists on the inside, showing **<u>too much of yourself</u>**. That's the moment you may be <u>starting to get it right</u>.
