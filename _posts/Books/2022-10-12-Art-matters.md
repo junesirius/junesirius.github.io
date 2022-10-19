@@ -6,13 +6,10 @@ categories: 读后感
 characters: ["Neil Gaiman"]
 tags: ["摘录", "英文", "写作", "创作"]
 pov: 
+description: "Fiction is the lie that tells the truth.<br>We all have an obligation to daydream.<br>We have an obligation to imagine.<br>It is easy to pretend that nobody can change anything, that society is huge and the individual is less than nothing.<br>But the truth is, individuals make the future, and they do it by imagining that things can be different."
 origin: 个站
 published: true
 ---
-
-[TOC]
-
-# Why our future depends on libraries, reading and daydreaming
 
 You're finding out something as you read that will be vitally important for making your way in the world. And it's this:
 
@@ -38,11 +35,11 @@ It is easy to pretend that nobody can change anything, that society is huge and 
 
 BUT THE TRUTH is, individuals make the future, and they do it by **IMAGINING THAT THINGS CAN BE DIFFERENT**.
 
-# Making a chair
+<br>
 
 Today I intended to begin to write. *Stories are waiting like distant thunderstorms grumbling and flickering on the grey horizon.*
 
-# Make good art
+<br>
 
 Looking back, I've had a remarkable ride. I'm not sure I can call it a career, because a career implies that I had some kind of career plan, and I never did.
 
