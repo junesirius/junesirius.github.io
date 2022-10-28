@@ -24,12 +24,22 @@ published: true
 
 A few of them were written to amuse myself or, more precisely, to get an idea or an image out of my head and pinned safely down on paper; which is as good a reason for writing as I know: releasing demons, letting them fly.
 
+<br>
+
+Sometimes the only way I would know that a story had finished was when there weren't any more words to be written down.
+
 ### 《The Wedding Present》
 
 Belinda stared into the fire for some time, thinking about what she had in her life, and what she had given up; and <u>whether it would be worse to love someone who was no longer there, or not to love someone who was</u>.
 
 Belinda sat back in her chair, and closed her eyes, and waited for the scar to blossom on her cheek.
 
-<br>
+### 《Don't Ask Jack》
 
-Sometimes the only way I would know that a story had finished was when there weren't any more words to be written down.
+And then the child would touch the catch, and the lid would open, <u>slow as a sunset</u<, and the music would begin to play, and Jack came out.
+
+### 《The Goldfish Pool and Other Stories》
+
+It was raining when I arrived in L.A., and I felt myself surrounded by a hundred old movies.
+
+Smooth and dark, her voice was, like an Irish coffee.
