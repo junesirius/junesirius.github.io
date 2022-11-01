@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【VO】The Ring（草稿）
+title: 【VO】The Ring
 date: 2022-10-24 23:42
 categories: ["中土", "RPS"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]
-tags: ["VO", "草稿"]
+tags: ["VO", "片段"]
 pov: 第三人称
 origin: Lofter
 ---
