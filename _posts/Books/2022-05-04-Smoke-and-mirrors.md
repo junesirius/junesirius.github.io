@@ -4,7 +4,7 @@ title: 【摘录】《烟与镜》
 date: 2022-05-04
 categories: 读后感
 characters: ["Neil Gaiman"]
-tags: ["摘录", "英文", "读后感", "写作", "烟与镜"]
+tags: ["摘录", "英文", "读后感", "写作", "烟与镜", "失真感"]
 pov: 
 origin: 个站
 published: true
@@ -93,3 +93,32 @@ The car was waiting for me, by the hotel lobby. It was a thirty-minute drive to 
 最后一个想说的很喜欢的地方是，故事中的故事。盖曼在这个故事中想写的剧本Sons of Man，和两个并未完成的有关魔术师的技法的短故事，本身本都可以单独作为故事，可又融合在这个故事里成为嵌套的一部分，也变得更有意思了。尤其是The Artist's Dream，那个艺术家的梦变成故事中的“我”的梦（这个部分倒是终于可以确定大概不会是真的了，但仍然让人信服），铺垫了很久的女星June Lincoln在这时变成魔术技法中画布上走下的女孩，那关于不要放弃的对话也几乎如出一辙，于是甚至可以说，故事中的“我”没有写出的The Artist's Dream的故事，正是现在这个我正在读的故事，于是便证明了这个“我”正是作者盖曼本人，而故事中的其他部分或许也完全是他所亲身经历过的。这种嵌套感、层次感于是又重新与真实感（偶尔是失真感）、沉浸感融合在了一起，真是让人不能不读得兴致盎然。
 
 真想学会盖曼塑造故事——尤其是让结尾举重若轻回味悠长——的能力啊。
+
+### 《Changes》
+
+In Thailand and Mongolia it was reported that boys were being forcibly rebooted into girls to increase their worth as prostitutes.
+
+In China newborn girls were rebooted to boys: families would save all they had for a single dose. The old people died of cancer as before. The subsequent birthrate crisis was not perceived as a problem until it was too late, the proposed drastic solutions proved difficult to implement and led, in their own way, to the final revolution.
+
+Amnesty International reported that in several of the Pan-Arabic countries men who could not easily demonstrate that they had been born male and were not, in face, women escaping the veil were being imprisoned and, in many cases, raped and killed. Most Arab leaders denied that either phenomenon was occurring or had ever occurred.
+
+犀利而真实，文字的刀锋划破了现实的面具，政治的伪装。如果世界上有一种能治愈癌症同时转换性别的药物，泰国，中国，阿拉伯，大概或许真的就会像故事里这样吧，prosititution, new born girls, old people dies of cancer as before, men and women who can't self prove, imprison, rape, and the denial of the leaders。短短几句，轻描淡写，文字不尖锐，不咄咄逼人，作为一篇科幻，它甚至都可以否认它在反讽事实，可它确实毫无疑问是皇帝的新装里的孩子。
+
+更有趣的是，中文译作中“恰巧”删去了这最赤裸裸划破真实的段落，让最后一句“denied that either phenomenon was occurring or had ever occurred”正好完完全全成为了现实，颇有此地无银三百两的喜剧效果了。
+
+作为被直指的国家的一员，倒是没有offensive的感觉，因为知道那是实话，而真相无罪。只是更多地感到shame吧，没有想到那些被“我们”奋力粉饰的现实，在所有不曾一叶障目者的眼里早已昭然若揭，而所有徒劳的遮掩和否认，只是让“我们”显得愈发像小丑。
+
+承认事实永远不会让事实变得更糟。
+
+<br>
+
+这也是一个双重叙事的故事：“真实”发生的事，和拍成的传记电影。一边讲述着电影里的角色或者演员如何再现过去的故事，一边讲述着“真实”发生的故事，与电影里略有相似又大不相同的故事，让电影和“现实”都变得极为真实。加上犀利又剧烈的与现实的撞击，完全模糊了真假的边界，带来完美的沉浸感和真实感。
+
+### 《The Daughter of Owls》
+
+这个故事的写法显得有些show-off了，尝试的新的spelling不是特别容易读，有时候也有些干扰沉浸感和阅读顺畅性（比如所有用“&”代替and的地方），不过也确实看得出是一种创新的尝试了，也算是有些意思。
+
+有些特别的spelling确实很有复古的感觉：比如i和y的替换（wives→wyves，their→theyr，day→dai，noise→noyse，afraid→afrayd），在单词里加e（owl→owle，woman→woeman，townfolk→townefolke，hurt→hurte，mischief→mischiefe），增加重叠字母（on→onn，met→mett，not→nott），把ed变成t（blocked→blockt）等等。
+
+尤其是i和y的替换部分，wyves和theyr这几个词特别有复古感，感觉像在读莎士比亚或者更早的古英语，倒确实让整个故事自然带上一种历史感，让这个本就像民间传说一样的故事更加有种口耳相传然后由随便哪个粗野村民或是偶然路过的旅行者记载下来的感觉，非常随意（体现在各种手写缩写和可能只是拼写错误的spelling上），但流传长久，便很有些真实感。
+
