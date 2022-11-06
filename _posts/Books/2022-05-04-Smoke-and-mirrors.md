@@ -7,7 +7,7 @@ characters: ["Neil Gaiman"]
 tags: ["摘录", "英文", "读后感", "写作", "烟与镜", "失真感"]
 pov: 
 origin: 个站
-published: true
+description: "Writing is flying in dreams.<br>When you remember. When you can. When it works.<br>It's that easy."
 ---
 
 [TOC]
@@ -22,55 +22,60 @@ published: true
 >
 > —— Author's Notebook, February 1992
 
-A few of them were written to amuse myself or, more precisely, to get an idea or an image out of my head and pinned safely down on paper; which is as good a reason for writing as I know: releasing demons, letting them fly.
+> A few of them were written to amuse myself or, more precisely, to get an idea or an image out of my head and pinned safely down on paper; which is as good a reason for writing as I know: releasing demons, letting them fly.
+>
 
-<br>
-
-Sometimes the only way I would know that a story had finished was when there weren't any more words to be written down.
+> Sometimes the only way I would know that a story had finished was when there weren't any more words to be written down.
+>
 
 ### 《The Wedding Present》
 
-Belinda stared into the fire for some time, thinking about what she had in her life, and what she had given up; and <u>whether it would be worse to love someone who was no longer there, or not to love someone who was</u>.
+> Belinda stared into the fire for some time, thinking about what she had in her life, and what she had given up; and <u>whether it would be worse to love someone who was no longer there, or not to love someone who was</u>.
+>
 
-Belinda sat back in her chair, and closed her eyes, and waited for the scar to blossom on her cheek.
+> Belinda sat back in her chair, and closed her eyes, and waited for the scar to blossom on her cheek.
+>
 
 ### 《Chivalry》
 
-She paid her five pence for the novel, and put the lamp back where she had found it, in the back of the shop. After all, Mrs. Whitaker reflected, as she walked home, it wasn't as if she had anywhere to put it.
+> She paid her five pence for the novel, and put the lamp back where she had found it, in the back of the shop. After all, Mrs. Whitaker reflected, as she walked home, it wasn't as if she had anywhere to put it.
+>
 
 ### 《Troll Bridge》
 
-*Fol rol de ol rol.*
-
-I'm just going to stay here, in the darkness under the arch. I can hear you all out there, trip-trapping, trip-trapping over my bridge.
-
-Oh yes, I can hear you.
-
-But I'm not coming out.
+> *Fol rol de ol rol.*
+>
+> I'm just going to stay here, in the darkness under the arch. I can hear you all out there, trip-trapping, trip-trapping over my bridge.
+>
+> Oh yes, I can hear you.
+>
+> But I'm not coming out.
+>
 
 ### 《Don't Ask Jack》
 
-And then the child would touch the catch, and the lid would open, <u>slow as a sunset</u>, and the music would begin to play, and Jack came out.
+> And then the child would touch the catch, and the lid would open, <u>slow as a sunset</u>, and the music would begin to play, and Jack came out.
+>
 
 ### 《The Goldfish Pool and Other Stories》
 
-It was raining when I arrived in L.A., and I felt myself surrounded by a hundred old movies.
+> It was raining when I arrived in L.A., and I felt myself surrounded by a hundred old movies.
+>
 
-Smooth and dark, her voice was, like an Irish coffee.
+> Smooth and dark, her voice was, like an Irish coffee.
+>
 
-I tried to write "The Artist's Dream" some more, and failed miserably. The characters were frozen. They seemed unable to breathe, or move, or talk.
+> I tried to write "The Artist's Dream" some more, and failed miserably. The characters were frozen. They seemed unable to breathe, or move, or talk.
+>
 
-<br>
-
-I stopped by the pool for the last time, to say good-bye to Pious Dundas, and to Hollywood.
-
-Three ghost white carp drifted, fins flicking minutely, through the eternal present of the pool.
-
-I remembered their names: Buster, Ghost, and Princess; but there was no longer any way that anyone could have told them apart.
-
-The car was waiting for me, by the hotel lobby. It was a thirty-minute drive to the airport, and already I was starting to forget.
-
-<br>
+> I stopped by the pool for the last time, to say good-bye to Pious Dundas, and to Hollywood.
+>
+> Three ghost white carp drifted, fins flicking minutely, through the eternal present of the pool.
+>
+> I remembered their names: Buster, Ghost, and Princess; but there was no longer any way that anyone could have told them apart.
+>
+> The car was waiting for me, by the hotel lobby. It was a thirty-minute drive to the airport, and already I was starting to forget.
+>
 
 这里的每一个故事，结尾的后劲都很足。每一个故事都适合念出来，就像给一个孩子读睡前故事，只是此时听众只有我自己。而读到结尾时总忍不住放轻声音，放慢语速，用近乎无声的呢喃念出最后的那个句子，最后的那几个字，让人无法不竖起耳朵集中全部注意力去听，然后让那最后几个音节静悄悄地落下来。
 
@@ -96,11 +101,12 @@ The car was waiting for me, by the hotel lobby. It was a thirty-minute drive to 
 
 ### 《Changes》
 
-In Thailand and Mongolia it was reported that boys were being forcibly rebooted into girls to increase their worth as prostitutes.
-
-In China newborn girls were rebooted to boys: families would save all they had for a single dose. The old people died of cancer as before. The subsequent birthrate crisis was not perceived as a problem until it was too late, the proposed drastic solutions proved difficult to implement and led, in their own way, to the final revolution.
-
-Amnesty International reported that in several of the Pan-Arabic countries men who could not easily demonstrate that they had been born male and were not, in face, women escaping the veil were being imprisoned and, in many cases, raped and killed. Most Arab leaders denied that either phenomenon was occurring or had ever occurred.
+> In Thailand and Mongolia it was reported that boys were being forcibly rebooted into girls to increase their worth as prostitutes.
+>
+> In China newborn girls were rebooted to boys: families would save all they had for a single dose. The old people died of cancer as before. The subsequent birthrate crisis was not perceived as a problem until it was too late, the proposed drastic solutions proved difficult to implement and led, in their own way, to the final revolution.
+>
+> Amnesty International reported that in several of the Pan-Arabic countries men who could not easily demonstrate that they had been born male and were not, in face, women escaping the veil were being imprisoned and, in many cases, raped and killed. Most Arab leaders denied that either phenomenon was occurring or had ever occurred.
+>
 
 犀利而真实，文字的刀锋划破了现实的面具，政治的伪装。如果世界上有一种能治愈癌症同时转换性别的药物，泰国，中国，阿拉伯，大概或许真的就会像故事里这样吧，prosititution, new born girls, old people dies of cancer as before, men and women who can't self prove, imprison, rape, and the denial of the leaders。短短几句，轻描淡写，文字不尖锐，不咄咄逼人，作为一篇科幻，它甚至都可以否认它在反讽事实，可它确实毫无疑问是皇帝的新装里的孩子。
 
@@ -112,7 +118,7 @@ Amnesty International reported that in several of the Pan-Arabic countries men w
 
 <br>
 
-这也是一个双重叙事的故事：“真实”发生的事，和拍成的传记电影。一边讲述着电影里的角色或者演员如何再现过去的故事，一边讲述着“真实”发生的故事，与电影里略有相似又大不相同的故事，让电影和“现实”都变得极为真实。加上犀利又剧烈的与现实的撞击，完全模糊了真假的边界，带来完美的沉浸感和真实感。
+另一个很喜欢的点是，这也是一个双重叙事的故事：“真实”发生的事，和拍成的传记电影。一边讲述着电影里的角色或者演员如何再现过去的故事，一边讲述着“真实”发生的故事，与电影里略有相似又大不相同的故事，让电影和“现实”都变得极为真实。加上犀利又剧烈的与现实的撞击，完全模糊了真假的边界，带来完美的沉浸感和真实感。
 
 ### 《The Daughter of Owls》
 
