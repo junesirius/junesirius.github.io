@@ -1342,3 +1342,13 @@ BGM：[《I See You》](https://www.youtube.com/watch?v=3YDz-ftqr1g)（阿凡达
 （当前时间线现实向，自身心理投射；有点暗影《超脱（Detachment）》的感觉）
 
 被忽视的人，浮于表面或渐行渐远的朋友家人，孤独感，感到无法“被看见”的苦闷，直到遇见能“看见”他的人
+
+### 102. You made me love you, I didn't want to do it
+
+来自尼尔盖曼《Smoke and Mirrors》里的《Queen of Knives》
+
+### 103. 暴风雪被困宜家相遇
+
+（来自新闻“27人丹麦暴风雪被困宜家”；初遇梗）
+
+![新闻图](https://pbs.twimg.com/media/FFmhGI9WQAc1xGm?format=png&name=small)
