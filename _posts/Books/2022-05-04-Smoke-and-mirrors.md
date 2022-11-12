@@ -1,11 +1,11 @@
 ---
 layout: post
-title: 【摘录】《烟与镜》
+title: 【读后感】《烟与镜》
 date: 2022-05-04
 categories: 读后感
 characters: ["Neil Gaiman"]
 tags: ["摘录", "英文", "读后感", "写作", "烟与镜", "失真感"]
-pov: 
+pov: 第三人称
 origin: 个站
 description: "Writing is flying in dreams.<br>When you remember. When you can. When it works.<br>It's that easy."
 ---
