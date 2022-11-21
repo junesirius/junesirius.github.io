@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【原创】人类观察日记（一）（TBC）
+title: 【原创】人类观察日记（序章）（TBC）
 date: 2020-03-14 02:03
 categories: ["原创"]
 characters: 
