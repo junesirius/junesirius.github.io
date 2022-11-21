@@ -1352,3 +1352,9 @@ BGM：[《I See You》](https://www.youtube.com/watch?v=3YDz-ftqr1g)（阿凡达
 （来自新闻“27人丹麦暴风雪被困宜家”；初遇梗）
 
 ![新闻图](https://pbs.twimg.com/media/FFmhGI9WQAc1xGm?format=png&name=small)
+
+### 104. 被通缉的V x 赏金猎人O
+
+赛博朋克背景
+
+仿《新神榜：杨戬》、《阿丽塔：战斗天使》
