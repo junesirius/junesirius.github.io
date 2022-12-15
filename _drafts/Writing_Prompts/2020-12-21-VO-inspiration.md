@@ -1358,3 +1358,9 @@ BGM：[《I See You》](https://www.youtube.com/watch?v=3YDz-ftqr1g)（阿凡达
 赛博朋克背景
 
 仿《新神榜：杨戬》、《阿丽塔：战斗天使》
+
+### 105. The worst part is not losing him, is losing me
+
+分开后找不到自己
+
+灵感来源：[视频](https://www.youtube.com/watch?v=vNoKguSdy4Y)
