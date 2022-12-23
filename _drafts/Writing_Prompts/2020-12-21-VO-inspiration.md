@@ -1376,3 +1376,37 @@ BGM：[《I See You》](https://www.youtube.com/watch?v=3YDz-ftqr1g)（阿凡达
 分开后找不到自己
 
 灵感来源：[视频](https://www.youtube.com/watch?v=vNoKguSdy4Y)
+
+### 106. 圣诞颂歌/Ghost in Christmas Eve
+
+（借鉴柠檬的GGAD圣诞颂歌）
+
+DW风格+TSO音乐会剧情，梦境/闪回，有点卖火柴的小女孩感
+
+### 107. DW The Last Christmas AU
+
+圣诞夜嵌套着出不来的梦，刀糖混合
+
+### 108. 雪夜列车
+
+东方快车谋杀案+爱在三部曲风格，文风可以仿一点《佛兰德镜子》
+
+雪夜被困无名小镇，和陌生人一起过圣诞 → 不再是陌生人，不再是一个人
+
+关于孤独的故事
+
+### 109. 救援队V x 探险队O
+
+《十三条命》的V
+
+茨威格小说（《人类群星闪耀时》？）里的那种雪山环境setting
+
+### 110. DND改写
+
+设定：real life DND，可借用《勇敢者游戏》设定，可以掺一点点AL但是不要多也不要太明显
+
+V（Tiefling; Paladin, noble background）+O（Rogue; Assassin）+D（Half-Orc; Barbarian）
+
+三关（岩浆地竞速+迷宫+合作打会复活的怪），有点像三强争霸赛的感觉但是尽量不要往那边跑偏
+
+只有最后一击者才是赢家，逐渐发现法师（主持者）的阴谋但是太迟，最后一击V本来有机会但是让给了O，O获胜离开，V被下咒，相信O会有办法进来救
