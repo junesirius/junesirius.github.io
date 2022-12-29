@@ -128,3 +128,24 @@ description: "Writing is flying in dreams.<br>When you remember. When you can. W
 
 尤其是i和y的替换部分，wyves和theyr这几个词特别有复古感，感觉像在读莎士比亚或者更早的古英语，倒确实让整个故事自然带上一种历史感，让这个本就像民间传说一样的故事更加有种口耳相传然后由随便哪个粗野村民或是偶然路过的旅行者记载下来的感觉，非常随意（体现在各种手写缩写和可能只是拼写错误的spelling上），但流传长久，便很有些真实感。
 
+### 《We Can Get Them for You Wholesome》
+
+> That was when the noises started.
+>
+> Odd cries from across the street. A catfight? Foxes probably. He hoped someone would throw a shoe at them. Then, from the corridor outside his flat, he heard a muffled clumping, as if someone were dragging something very heavy along the floor. It stopped. Someone knocked on his door, twice, very softly.
+>
+> Outside his window the cries were getting louder. Peter sat in his chair, knowing that somehow, somewhere, he had missed something. Something important. The knocking redoubled. He was thankful that he always locked and chained his door at night.
+>
+> *They'd been ready for a long time, but they had to be asked ...*
+>
+> When the things cam through the door, Peter started screaming, but he really didn't scream for very long.
+
+虽然从一开始就猜到了故事的走向大概很可能失控（毕竟当hired killer开始有批发价了这走向也只能是变成order越来越多的人头来达到批发量hhh），但看到最后居然仍然有被惊吓到。“We've been ready for a long time. But we had to be asked.”这句对话简直是全文惊悚度的高峰，突然就感觉可以想象到透过电话传过来的声音瞬间卸下所有伪装，变成一种非人的声线，用一种近乎欣喜和感激的尖锐声音说出这句话。
+
+这部分剧情设置成电话对白也很巧妙，相比之前几次铺垫在脏酒馆的面对面商议，这次的午夜电话让故事中和故事外的人都没法知晓那些神秘的可怕的人究竟在这个行动开始时刻露出了怎样的真面貌，于是剩下的所有世界毁灭画面就都任凭想象力填充。整个故事都极其容易被visualize，可偏偏到结局高潮时，所有的视觉性描述被刻意削减，观众和主角一样抱着头缩在房间角落，只能听见街上的尖叫和楼道里沉重的像什么大东西被拖动的声音，格格不入的温柔礼貌的敲门声，和最后一个黑影遮盖整个画面的镜头，电影在主角（和被吓坏的观众）的尖叫声中戛然而止。
+
+这种奇妙的惊悚感，来自未知的只能用想象填充的怪物，大片留白的毁灭过程，跟《Click Clack the Rattle Bag》的讲故事风格和结局惊人得一致，也好像那种经典的小时候的怪物故事，比如床底或者衣橱里的怪物，只要有阴影就会有幻想的怪物，于是完全不用在故事里展开怪物的模样，只要提供一片阴影，就能讲好一个惊悚故事了。想来很多惊悚电影和Doctor Who其实也正是这样的。
+
+但是真的很喜欢这个故事里的世界毁灭描写，用墨不多，声音丰富，听觉被无限放大，剩下的就全交给想象力了。我的homegrown pet的故事大概也可以试试这种手法。
+
+以及不知道为什么，虽然那怪物明明可以被想象成任意样子，我想象的画面却几乎是deterministic的，无论是在这个故事还是别的类似的没有具象化描写怪物的故事里，当无形的大boss怪物出现时我总是想象着something like克苏鲁，总感觉是因为对《A Study in Emerald》印象太深刻了！（虽然也可能只是单纯喜欢克苏鲁，毕竟我对Homegrown Pet的热情很大一部分也是被那种克苏鲁状的外形吸引吧。）
