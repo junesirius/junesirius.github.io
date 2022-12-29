@@ -149,3 +149,61 @@ description: "Writing is flying in dreams.<br>When you remember. When you can. W
 但是真的很喜欢这个故事里的世界毁灭描写，用墨不多，声音丰富，听觉被无限放大，剩下的就全交给想象力了。我的homegrown pet的故事大概也可以试试这种手法。
 
 以及不知道为什么，虽然那怪物明明可以被想象成任意样子，我想象的画面却几乎是deterministic的，无论是在这个故事还是别的类似的没有具象化描写怪物的故事里，当无形的大boss怪物出现时我总是想象着something like克苏鲁，总感觉是因为对《A Study in Emerald》印象太深刻了！（虽然也可能只是单纯喜欢克苏鲁，毕竟我对Homegrown Pet的热情很大一部分也是被那种克苏鲁状的外形吸引吧。）
+
+### 《One Life, Furnished in Early Moorcock》
+
+> The classroom was large, filled with wooden desks. Each desk was carved and scored and ink-stained by its occupant, an important process.
+
+这个故事从一开始就过于真实过于容易共情，十二岁的孩子，幻想的世界和热爱的英雄，以及现实的刻满符号涂鸦的黑板和教室，甚至连寄宿的学校、集体的澡堂、日落时分靠在学校砖瓦墙旁边站着看书、被别的孩子拉着一起去打球时都要带上书，每一个细节都好像直接从记忆里拽出来的，可以无比清楚地看到红色砖瓦墙的纹理，看到球场上高过膝的杂草，看到日落时太阳和远处云的颜色，看到故事里人看的故事和当时的我在看的故事，这个故事里的故事和我当初的故事里的故事，三四重画面全都重叠到一起，就好像把不同的透明画面叠到一起，线条和色彩互相交织但又不显得杂乱，把我和我的记忆，和记忆中的我自己一起织进了正在读的这个故事里，这就是好的文字和故事所能做得到的事吗？
+
+> Inside the temple Richard found a life waiting for him, all ready to be worn and lived, and inside that life, another. Each life he tried on, he slipped into and it pulled him farther in, farther away from the world he came from; one by one, existence following existence, rivers of dreams and fields of stars, a hawk with a sparrow clutched in its talon flies low above the grass, and here are tiny intricate people waiting for him to fill their heads with life, and thousands of years pass and he is engaged in strange work of great importance and sharp beauty, and he is loved, and he is honored, and then a pull, a sharp tug, and it's...
+>
+> ... it was like coming up from the bottom of the deep end of a swimming pool. Stars appeared above him and dropped away and dissolved into blues and greens, and it was with a deep sense of disappointment that he became Richard Grey and cam to himself once more, filled with an unfamiliar emotion. The emotion was a specific one, so specific that he was surprised, later, to realize that it did not have its own name: a feeling of disgust and regret at having to return to something he had thought long since done with and abandoned and forgotten and dead.
+
+好喜欢这两段描写，一段完全地一头栽进幻想的世界，一段被从那个世界重新拉出来。虽然第一段那些“existence after existence”其实很有点像大纲文的写法，“经历了很多事情之后”诸如此类，但鉴于这个故事中这也不过是几秒钟里大脑幻想的世界，这样的概括描述倒也符合实际。第二段从失真感中被拉拽出来时的失落感，发现自己重新回到了现实中的自己身上，发现曾以为被抛弃在身后的生活和世界又重新追上了自己，那种失落和遗憾也是描写得极为真实，非常容易共情了。
+
+> He was the boy with the book. Always and forever.
+
+It's me.
+
+> "Mac? What do you want to be when you grow up?"
+>
+> The event was warm, and the grass was dry and comfortable.
+>
+> "I don't know. A writer, maybe. Like Michael Moorcock. Or T. H. White. How about you?"
+>
+> Richard sat and thought. The sky was a violet-gray, and a ghost moon hung high in it, like a sliver of a dream. He pulled up a blade of grass and slowly shredded it between his fingers, bit by bit. He couldn't say "A writer" as well now. It would seem like he was copying. And he didn't want to be a writer. Not really. There were other things to be.
+>
+> "When I grow up," he said, pensively, eventually, "I want to be a wolf."
+>
+> "It'll never happen," said MacBride.
+>
+> "Maybe not," said Richard. "We'll see."
+>
+> The lights went on in the school windows, one by one, making the violet sky seem darker than it was before, and the summer evening was gentle and quiet. At that time of year, the day lasts forever, and the night never really comes.
+>
+> "I'd like to be a wolf. Not all the time. Just sometimes. In the dark. I would run through the forests as a wolf at night," said Richard, mostly to himself. "I'd never hurt anyone. Not that kind of wolf. I'd just run and run forever in the moonlight, through the trees, and never get tired or out of breath, and never have to stop. That's what I want to be when I grow up..."
+>
+> He pulled up another long stalk of grass, expertly stripped the blades from it, and slowly began to chew the stem.
+>
+> And the two children sat alone in the gray twilight, side by side, and waited for the future to start.
+
+I didn't see it coming.
+
+I'm actually crying.
+
+It's so touching.
+
+It's exactly what I want. I know exactly what he meant when he said "I want to be a wolf." That's exactly what I have said and what I wanted most. Running and running in the wood and on the grass, under the moonlight, never get tired, never out of breath, just runn forever.
+
+This is the first time ever I saw someone understand me so well, paint someone so vividly like me, so extremely like me as if painting a portrait of me, but Neil doesn't even know me. But perhaps, it's himself that he's painting, and it's the twelve-year-old himself that I see so much resemblance.
+
+这个故事，就像这本书里太多其他故事一样，叙事缓慢，温柔，一点一点地铺垫起来，沿着时间慢慢讲，就像陪着一个孩子长大，陪着游客慢慢欣赏一个新的景点，一幅画一幅画地看一座博物馆，就像在日落时海边散步。讲故事的口吻安静，但绝不无聊，偶尔用一些看起来出格的对话来刺激一下注意力，就像在海边散步时时不时被贝壳戳一下脚心，或许有些人喜欢，但我倒是反而会被分散一下注意力，不过很快也能重新回到那种静谧的氛围中去。
+
+然后我就会想，要是像这本书里的其他故事那样，这种静谧的氛围大概是在慢慢为某种大角度转折做铺垫吧，或许会突然毁掉这些，或许故事里的男孩会突然变成另一种样子，如果是这些，我大概已经做好心理准备了。已经被这样那样的惊喜惊吓折腾过将近十遍，这次不管出现什么应该都吓不到我了。
+
+可是这次，不，它仍然做到了给我一击。不管怎样做好了准备，都仍然没法提前看到结局的走势。只要一个新的场景，只要一个极其巧妙的对话，它仍然touch到了我的心脏，触碰到了温柔的柔软的深处的地方。只要精准的一个词，“wolf”，盖曼仿佛早就透过纸页看到了我，从纸页间伸出手就轻易地触碰到了我，让我泪流满面。
+
+读这本书的过程，已经几乎变成了一场攻守游戏。每一次开始一个新的故事，我都会有种错觉，似乎在读过了之前所有故事之后我掌握了所谓套路，我已经做好了心理准备，已经竖起了盾牌，在道路即将急转弯前已经准备好了转向灯和转向，但每一次，毫不例外的每一次，当结局到来时，狡黠的作者仍然能精准地扔出长矛穿过盾牌的缝隙刺中我，道路仍然用一种新的意想不到的方式转弯或者变道把我的车甩出去。我永远没法在盖曼面前为一个故事做好心理准备，没法提前看到结局coming。这要怎样的功底怎样的创造力和想象力才能做到这一点啊。所有的故事早就已经白纸黑字写了下来，而每一场阅读的攻守游戏我仍然会输给它们。这场故事的较量，永远只能甘拜下风自叹不如。
+
+大概这也是为什么，我absolutely最爱盖曼的故事。如果之前只是因为那些巧思那些故事，现在便要加上一颗被触碰过的心了。第一次知道，原来竟可以通过一个故事，明白自己是可以被理解的。
