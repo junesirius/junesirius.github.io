@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【CA】放错的染色剂（可能微玻璃渣）
+title: 【CA】放错的染色剂（可能微玻璃渣）（脑洞）
 date: 2019-09-21 02:17
 categories: 好兆头
 characters: ["Crowley", "Aziraphale"]
-tags: ["CA"]
+tags: ["CA", "脑洞"]
 pov: 第三人称
 origin: 名人朋友圈
 ---
