@@ -194,7 +194,7 @@ I'm actually crying.
 
 It's so touching.
 
-It's exactly what I want. I know exactly what he meant when he said "I want to be a wolf." That's exactly what I have said and what I wanted most. Running and running in the wood and on the grass, under the moonlight, never get tired, never out of breath, just runn forever.
+It's exactly what I want. I know exactly what he meant when he said "I want to be a wolf." That's exactly what I have said and what I wanted most. Running and running in the wood and on the grass, under the moonlight, never get tired, never out of breath, just run forever.
 
 This is the first time ever I saw someone understand me so well, paint someone so vividly like me, so extremely like me as if painting a portrait of me, but Neil doesn't even know me. But perhaps, it's himself that he's painting, and it's the twelve-year-old himself that I see so much resemblance.
 
@@ -207,3 +207,39 @@ This is the first time ever I saw someone understand me so well, paint someone s
 读这本书的过程，已经几乎变成了一场攻守游戏。每一次开始一个新的故事，我都会有种错觉，似乎在读过了之前所有故事之后我掌握了所谓套路，我已经做好了心理准备，已经竖起了盾牌，在道路即将急转弯前已经准备好了转向灯和转向，但每一次，毫不例外的每一次，当结局到来时，狡黠的作者仍然能精准地扔出长矛穿过盾牌的缝隙刺中我，道路仍然用一种新的意想不到的方式转弯或者变道把我的车甩出去。我永远没法在盖曼面前为一个故事做好心理准备，没法提前看到结局coming。这要怎样的功底怎样的创造力和想象力才能做到这一点啊。所有的故事早就已经白纸黑字写了下来，而每一场阅读的攻守游戏我仍然会输给它们。这场故事的较量，永远只能甘拜下风自叹不如。
 
 大概这也是为什么，我absolutely最爱盖曼的故事。如果之前只是因为那些巧思那些故事，现在便要加上一颗被触碰过的心了。第一次知道，原来竟可以通过一个故事，明白自己是可以被理解的。
+
+### 《Murder Mysteries》
+
+> At night Los Angeles is all lights. And shadows.
+
+夜晚的洛杉矶，或许我们只会记得灯光，记得从格里菲斯往下望去时主街上的流光溢彩，but there are shadows.
+
+> I was not hungry. I did not want alcohol. I did not want to read or talk. I was scared of walking too far, in case I became lost, bedeviled by the repeating motifs of Los Angeles, spun around and sucked in so I could never find my way home again. Central Los Angeles sometimes seems to me to be nothing more than a pattern, like a set of repeating blocks: a gas station, a few homes, a mini-mall (doughnuts, photo developers, Laundromats, fast foods), and repeat until hypnotized; and the tiny changes in the mini-malls and the houses only serve to reinforce the structure.
+
+The pattern, the repeating blocks，相似的建筑，循环的小路，一座让人迷路的城市，就像那所有迷路的梦，让人陷在里面，get lost, get stuck, like a cage, like a not so enjoyable dream.
+
+> "'That was not right,' he said, 'That was not just.' He was crying; wet tears ran down his face. Perhaps Saraquael was the first to love, but Lucifer was the first to shed tears. I will never forget that.
+
+> "'Lucifer must brood on the unfairness of Saraquael's destruction. And that - amongst other things - will precipitate him into certain actions. Poor sweet Lucifer. His way will be the hardest of all my children; for there is a part he must play in the drama that is to come, and it is a grand role.'
+
+"Lucifer was the first to shed tears", Lucifer has a grand role to play, a big part in the Plan, "hardest of all the children"，路西，poor sweet路西，路西可真是盖曼故事的宠儿。银色之城的大天使，最受宠爱的孩子，总是拥有所有的视线，出现在所有提到天使恶魔的故事里，总是要么银色的发光的漂亮模样，带着一颗好奇的怀疑的叛逆的心，要么红黑色的在硫磺与火中站在恶魔的中间，仍然是统领者，仍然拥有威望地位，仍然美丽，只是更愤怒，更不甘。路西，堕落天使，一个人占满了一个故事所需要的所有戏剧冲突，让人如何不爱。
+
+> "Eventually I wound up here. They used to say no one's ever originally from L.A. True as Hell in my case."
+
+"No one's ever originally from L.A."，你只会wound up here，不知不觉漂泊到这里，呆上一阵，然后被另一阵风吹到新的地方。没有人属于那个地方，仿佛没有人出生在那里，往来匆匆只有过客。
+
+> I felt strange - lack of sleep had forced me into that miserable state in which everything seems flat and of equal importance; when nothing matters, and in which reality seems scraped thin and threadbare.
+
+缺乏睡眠时的感受，过于真实，几乎想要把这描写偷走以备自己表达困意时使用了。
+
+> Staring down at the clouds is one of the things I have always liked best about flying. That, and the proximity one feels to one's death.
+
+Same for me, right on both.
+
+<br>
+
+一个天使犯罪故事，如果不用这种发生在LA的故事中的故事作为嵌套的方式讲述出来，或许犯罪故事本身的趣味性也会下降许多了。
+
+Los Angeles, the city of angels，洛杉矶，天使之城，好喜欢这种双关，于是洛杉矶顺理成章成为了这个故事最好的发生地。而且好巧，天使之城，恶魔之城，我也仍然为LA这座城市的天使恶魔性所着迷，她美丽，诱人，又危险，致命，但那种危险性与拉斯维加斯不同，拉斯维加斯的致命性像毒蛇，是被咬之后十步之内七窍流血，但LA，她的危险完全被美丽所遮掩起来，就像沼泽地里开满了百合，香气四溢，永远是春天，可步入其中，只会让人一步步不知不觉地下陷，等到意识到时已经走得太深，来不及再把自己拉出来了。可即便早就知道她的危险，即便在自己的笔下也曾反反复复写过她的危险，那些危险之处也绝不会让人敬而远之，只会更加觉得她迷人，更加情难自已地想要靠近，想要触碰，想要在禁忌的边界线上跳舞，在平淡无聊之中勾起些血脉偾张心潮激荡。
+
+而且这座城市的气息，太容易地就能沾染到任何过客身上，不需要逗留太久，身上便会留下LA的痕迹，至此无论走到哪里，便都带了LA的气息。而两年，完全足够也让我带上那座城市的气息了，无论走到哪里，总会忍不住把新的城市与她做比较。哪怕在被问起时会说离开她是因为厌倦了那里日复一日的阳光，因为不喜欢那里的心浮气躁，可终究，就好像谈起一个仍爱着的前女友，无法在现任面前说她的好，可夜深人静回忆起来，总数不尽她的美丽可人之处。这大概就叫做白月光了。于是盖曼的故事里，那所有发生在LA的故事，就毫不意外成为我最爱的、印象最深刻的故事。不过单就这个故事而言，倒还是比不上goldfish pool那么惊艳，那么回味悠长。
