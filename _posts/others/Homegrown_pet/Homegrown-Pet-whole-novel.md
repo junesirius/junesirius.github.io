@@ -387,7 +387,7 @@ You two have a good tiramisu.
 
 （主要增加的设定：寿命梗；吃尸体时能感受到他们的记忆）
 
-（谁是真的Hector？~~失忆前的爱人？青梅竹马的好友？父母？~~养父）
+（谁是真的Hector？失忆前的爱人？青梅竹马的好友？父母？养父？以前的宠物？以前的物件？书？童年的imaginary friend？guardian angle？）
 
 ### 人设性格
 
