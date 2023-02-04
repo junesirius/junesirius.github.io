@@ -6,7 +6,7 @@ categories: 原创
 characters: 
 tags: ["想象", "待扩充"]
 pov: 第一人称
-origin: 
+origin: 个站
 ---
 
 曾经有位国王问一个牧童：“永恒有几秒？”

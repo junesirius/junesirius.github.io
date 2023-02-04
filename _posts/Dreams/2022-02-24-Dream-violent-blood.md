@@ -4,10 +4,9 @@ title: 【梦记】暴力，血
 date: 2022-02-24 08:05
 categories: ["梦记"]
 characters: 
-tags: ["梦记"]
+tags: ["梦记", "血"]
 pov: 第一人称视角
 origin: 个站
-published: false
 ---
 
 “These violent delights have violent ends.”

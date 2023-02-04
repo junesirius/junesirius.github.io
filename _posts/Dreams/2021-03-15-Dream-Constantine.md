@@ -7,7 +7,6 @@ characters: ["John Constantine"]
 tags: ["梦记", "康斯坦丁"]
 pov: 第一人称视角
 origin: 个站
-published: false
 ---
 
 （闹鬼又惊悚，但是意外地香，非常有康斯坦丁的画风）

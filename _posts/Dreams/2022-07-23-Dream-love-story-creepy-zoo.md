@@ -3,11 +3,10 @@ layout: post
 title: 【梦记】爱情故事，恐怖动物园
 date: 2022-07-23 13:47
 categories: ["梦记"]
-characters: 
-tags: ["梦记", "Eddie Ryan", "Funny Girl"]
+characters: ["Eddie Ryan"]
+tags: ["梦记", "Funny Girl"]
 pov: 第一人称视角
 origin: 个站
-published: false
 ---
 
 男主是Eddie，百老汇《Funny Girl》的男配，女主从小的玩伴，一个很瘦的黑人男孩子，人很聪明（其实醒着的时候完全没到喜欢的程度，在梦里甚至两个人说了“I love you”“I love you too”，但是忘了是在哪说的）。

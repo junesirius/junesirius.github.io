@@ -4,10 +4,9 @@ title: 【梦记】救一条很大的鱼
 date: 2022-01-10 08:30
 categories: ["梦记"]
 characters: 
-tags: ["梦记"]
+tags: ["梦记", "画面感"]
 pov: 第一人称视角
 origin: 个站
-published: false
 ---
 
 （只记得醒来之前的最后一个画面）

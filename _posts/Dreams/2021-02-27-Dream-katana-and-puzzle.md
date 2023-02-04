@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 【梦记】武士刀和谜语
+title: 【梦记】武士刀和谜语（草稿）
 date: 2021-02-27 14:39
 categories: ["梦记"]
 characters: 
-tags: ["梦记"]
+tags: ["梦记", "草稿"]
 pov: 第一人称视角
 origin: 个站
-published: false
 ---
 
 摩托车飙车，急转弯，认识的路，高架旁小弄堂，怕车被偷

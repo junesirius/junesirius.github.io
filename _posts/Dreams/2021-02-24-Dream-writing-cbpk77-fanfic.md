@@ -7,7 +7,6 @@ characters: ["荒坂赖宣", "Yorinobu Arasaka", "V", "Female V"]
 tags: ["梦记", "赛博朋克2077"]
 pov: 第一人称视角
 origin: 个站
-published: false
 ---
 
 当着全班念2077同人文

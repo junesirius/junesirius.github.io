@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 【情感】Letter to Argentina Boy
+title: 【情感】Letter to You
 date: 2022-03-15 01:27
 categories: ["原创"]
 characters: ["Viggo Mortensen"]
 tags: ["情感", "爱情", "书信", "阿根廷", "英文"]
 pov: 第二人称
 origin: 个站
-published: false
 ---
 
 All going to die

@@ -7,8 +7,8 @@ characters:
 tags: ["梦记", "迷路"]
 pov: 第一人称视角
 origin: 个站
-published: false
 ---
+
 （迷路）
 
 （草稿：敌人开枪，找本子，迷路赤脚找房子）

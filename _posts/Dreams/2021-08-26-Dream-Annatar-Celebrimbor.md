@@ -4,10 +4,9 @@ title: 【梦记】安牌
 date: 2021-08-26 07:08
 categories: ["梦记"]
 characters: ["Annatar", "Celebrimbor"]
-tags: ["梦记", "精灵宝钻"]
+tags: ["梦记", "精灵宝钻", "好故事"]
 pov: 第一人称视角
 origin: 个站
-published: false
 ---
 
 安姐要给牌牌弹吉他唱歌，然后我自我代入了牌牌。

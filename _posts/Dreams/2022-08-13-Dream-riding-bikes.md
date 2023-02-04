@@ -7,7 +7,6 @@ characters: ["Isak Valtersen", "Jonas Noah Vasquez"]
 tags: ["梦记", "阿根廷", "Skam"]
 pov: 第一人称视角
 origin: 个站
-published: false
 ---
 
 和那个阿根廷男孩子以及三个Skam里的男孩子（Isak、Jonas和他们小团体的另一个人）一起在骑车。

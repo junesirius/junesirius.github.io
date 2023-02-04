@@ -7,7 +7,6 @@ characters: ["Nymphadora Tonks"]
 tags: ["梦记", "追杀", "焦虑", "卢唐"]
 pov: 第一人称视角
 origin: 个站
-published: false
 ---
 
 有人/鬼要追杀我，有一只鬼还一路走一路滴水说明是溺水身亡的，我满脑子都在想dripping water这个词，另一个是灭霸，沿路乱开枪。我不停地躲，躲到有很多自己人的楼里，躲在书桌边等等，牺牲了好多想保护我的朋友。

@@ -6,7 +6,7 @@ categories: 原创
 characters: 
 tags: ["心理", "待扩充"]
 pov: 第一人称
-origin: 
+origin: 个站
 ---
 
 <br>

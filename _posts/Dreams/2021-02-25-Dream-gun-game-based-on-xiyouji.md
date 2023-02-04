@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 【梦记】基于西游记的枪战游戏
+title: 【梦记】基于西游记的枪战游戏（草稿）
 date: 2021-02-25 13:05
 categories: ["梦记"]
 characters: 
-tags: ["梦记"]
+tags: ["梦记", "草稿"]
 pov: 第一人称视角
 origin: 个站
-published: false
 ---
 
 湿滑的台阶，白色褪色的病态皮肤

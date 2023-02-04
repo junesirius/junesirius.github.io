@@ -7,7 +7,6 @@ characters: ["Reece Shearsmith", "Steve Pemberton"]
 tags: ["梦记"]
 pov: 第一人称视角
 origin: 个站
-published: false
 ---
 
 在街角一家咖啡馆一样的地方，只有一两层楼高，里面的布置是一间很昏暗的教室，我在大概靠门第四列第三排的位置放了书包围巾等东西。爸妈让我等着，说他们一会儿就回来。 我等了很久之后耐不住性子跑到外面去等了。

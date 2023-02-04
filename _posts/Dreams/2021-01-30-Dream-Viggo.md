@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 【梦记】Viggo
+title: 【梦记】Viggo（草稿）
 date: 2021-01-30 12:03
 categories: ["梦记"]
 characters: ["Viggo Mortensen"]
-tags: ["梦记"]
+tags: ["梦记", "草稿"]
 pov: 第一人称视角
 origin: 个站
-published: false
 ---
 
 排队，出去了一下，后面的人（朋友wrl）不让回来

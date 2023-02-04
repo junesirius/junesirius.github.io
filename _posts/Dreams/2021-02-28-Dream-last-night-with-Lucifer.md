@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 【梦记】同路西法的最后一夜
+title: 【梦记】同路西法的最后一夜（草稿）
 date: 2021-02-28 16:01
 categories: ["梦记"]
 characters: ["Lucifer Morningstar"]
-tags: ["梦记", "哈利波特", "路西法"]
+tags: ["梦记", "哈利波特", "路西法", "草稿"]
 pov: 第一人称视角
 origin: 个站
-published: false
 ---
 
 帮路西法逃走，替他挡刀，左手一刀擦伤，右手挡了他肩上一刀，腿伤

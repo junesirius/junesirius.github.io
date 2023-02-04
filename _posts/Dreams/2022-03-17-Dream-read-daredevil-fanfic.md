@@ -4,10 +4,9 @@ title: 【梦记】看DD同人
 date: 2022-03-17 07:48
 categories: ["梦记"]
 characters: ["Matt Murdock", "Daredevil", "Charlie Cox", "Dinah Madani"]
-tags: ["梦记", "夜魔侠"]
+tags: ["梦记", "夜魔侠", "好故事"]
 pov: 第一人称视角
 origin: 个站
-published: false
 ---
 
 在看DD的文，还特别具体，连情节文风都还记得。

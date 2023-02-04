@@ -7,7 +7,6 @@ characters: ["Andrew Garfield"]
 tags: ["梦记"]
 pov: 第一人称视角
 origin: 个站
-published: false
 ---
 
 （加菲，关系亲密，肢体接触）

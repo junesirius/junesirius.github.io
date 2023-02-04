@@ -7,7 +7,6 @@ characters:
 tags: ["梦记", "反乌托邦", "政治"]
 pov: 第一人称视角
 origin: 个站
-published: false
 ---
 
 梦到我所在的国家面临政治风云，前任领导人卸任，我成为了新的Leader（非常明确记得出现了leader这个称呼，就像nation state里那样，整个梦也都有点受nation state影响的味道）。

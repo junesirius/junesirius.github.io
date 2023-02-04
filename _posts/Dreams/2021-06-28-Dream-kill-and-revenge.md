@@ -7,7 +7,6 @@ characters: ["Mazikeen (Maze)"]
 tags: ["梦记", "死亡", "谋杀", "路西法", "黑镜"]
 pov: 第一人称视角
 origin: 个站
-published: false
 ---
 
 我和另外两个姑娘到一户豪宅里偷东西，撞上主人（一个身材很高很魁梧的男人）。主人手里有把银色很小巧的枪（黑镜502），扭打一番之后对我开枪了，子弹都像是很细很小的针管，全都钻到皮下了（黑镜机械狗那集），对方：“you won't have an instant death, but a long, slow and painful death.”（黑镜503），然后走了不管我了。

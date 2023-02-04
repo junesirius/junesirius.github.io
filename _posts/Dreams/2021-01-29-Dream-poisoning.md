@@ -1,13 +1,12 @@
 ---
 layout: post
-title: 【梦记】下毒
+title: 【梦记】下毒（草稿）
 date: 2021-01-29 12:18
 categories: ["梦记"]
 characters: 
-tags: ["梦记"]
+tags: ["梦记", "草稿"]
 pov: 第一人称视角
 origin: 个站
-published: false
 ---
 
 （数学课）

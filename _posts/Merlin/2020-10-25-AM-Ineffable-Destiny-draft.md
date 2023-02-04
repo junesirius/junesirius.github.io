@@ -6,8 +6,7 @@ categories: ["Crossover"]
 characters: ["Merlin", "Arthur", "Aziraphale", "Crowley"]
 tags: ["亚梅", "Crossover", "CA", "好兆头", "梅林传奇", "草稿"]
 pov: 第三人称
-origin: 
-published: false
+origin: 个站
 ---
 
 梅林传奇&好兆头 crossover

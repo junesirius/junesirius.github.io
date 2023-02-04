@@ -7,7 +7,6 @@ characters:
 tags: ["梦记"]
 pov: 第一人称视角
 origin: 个站
-published: false
 ---
 
 （数学课，电子云，还不错）

@@ -7,7 +7,6 @@ characters:
 tags: ["梦记", "血"]
 pov: 第一人称视角
 origin: 个站
-published: false
 ---
 
 （水淹，挤狭窄的洞）
