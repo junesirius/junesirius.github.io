@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【观后感】发现女巫S02E06（跨越时空的重逢）
+title: 【观后感】发现女巫 S02E06（跨越时空的重逢）
 date: 2022-06-01 20:16
 categories: 观后感
 characters: ["Ysabeau de Clermont", "Philippe de Clermont", "Emily Mather", "Sarah Bishop", "Kit Marlowe"]
