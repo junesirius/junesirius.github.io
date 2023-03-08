@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【原创】Armageddon（诗）
+title: 【政治】Armageddon（诗）
 date: 2022-10-30 04:16
 categories: ["原创"]
 characters: 

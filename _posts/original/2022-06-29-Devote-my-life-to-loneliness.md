@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【情感】我将把此生献给孤独
+title: 【情感】我将把此生献给孤独（诗）
 date: 2022-06-29 9:47
 categories: ["原创"]
 characters: 

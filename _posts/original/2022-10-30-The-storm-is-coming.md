@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【原创】The Storm is Coming（诗）
+title: 【政治】The Storm is Coming（诗）
 date: 2022-10-30 03:23
 categories: ["原创"]
 characters: 
