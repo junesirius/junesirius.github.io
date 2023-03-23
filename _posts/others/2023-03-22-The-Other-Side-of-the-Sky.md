@@ -6,6 +6,7 @@ categories: ["其他"]
 characters: ["Maya Patel", "Harper Blackwood"]
 tags: ["AI", "ChatGPT", "英文", "小说", "想象", "草稿"]
 pov: 第三人称
+description: "A story that has wizard intrusion, alien attack, snow in summer, and missing a friend that hasn't seen in a long time."
 origin: 个站
 ---
 
