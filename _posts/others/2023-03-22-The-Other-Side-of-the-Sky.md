@@ -23,7 +23,7 @@ Write a modern poem that has wizard intrusion, alien attack, snow in summer, and
 >
 > As if something wicked were coming near.
 >
-> 
+> <br>
 >
 > And then it came, an alien force,
 >
@@ -33,7 +33,7 @@ Write a modern poem that has wizard intrusion, alien attack, snow in summer, and
 >
 > Leaving all to fear for what was sought.
 >
-> 
+> <br>
 >
 > Amidst the madness, I realized then,
 >
@@ -43,7 +43,7 @@ Write a modern poem that has wizard intrusion, alien attack, snow in summer, and
 >
 > I wondered where he was, was he doing fine?
 >
-> 
+> <br>
 >
 > The wizard and the aliens, they battled on,
 >
@@ -53,7 +53,7 @@ Write a modern poem that has wizard intrusion, alien attack, snow in summer, and
 >
 > To share in the fear, and to help me abide.
 >
-> 
+> <br>
 >
 > As the battle raged, and the snow came down,
 >
@@ -63,7 +63,7 @@ Write a modern poem that has wizard intrusion, alien attack, snow in summer, and
 >
 > Ready to fight, to help us all.
 >
-> 
+> <br>
 >
 > With my friend by my side, we fought on,
 >
@@ -73,7 +73,7 @@ Write a modern poem that has wizard intrusion, alien attack, snow in summer, and
 >
 > And we celebrated our victory, without a doubt.
 >
-> 
+> <br>
 >
 > And though we had been apart for so long,
 >
@@ -91,7 +91,7 @@ Write a similar poem but this time after victory realize this friend is a wizard
 >
 > Only to realize, it's his magic feat.
 >
-> 
+> <br>
 >
 > Missing for years, I thought he was gone,
 >
@@ -101,7 +101,7 @@ Write a similar poem but this time after victory realize this friend is a wizard
 >
 > Our friendship tested, our bond reformed.
 >
-> 
+> <br>
 >
 > The battle was fierce, the victory sweet,
 >
@@ -111,7 +111,7 @@ Write a similar poem but this time after victory realize this friend is a wizard
 >
 > His alien race brought the attack to my slumber.
 >
-> 
+> <br>
 >
 > Now I understand, why he stayed away,
 >
@@ -135,7 +135,7 @@ Write a similar poem but he was trying to warn me before being mind-controlled a
 >
 > With a warning of what was to be.
 >
-> 
+> <br>
 >
 > He spoke of an alien race, with nefarious intent,
 >
@@ -145,7 +145,7 @@ Write a similar poem but he was trying to warn me before being mind-controlled a
 >
 > To gather allies, to make the aliens regret.
 >
-> 
+> <br>
 >
 > But before he left, he warned me to beware,
 >
@@ -155,7 +155,7 @@ Write a similar poem but he was trying to warn me before being mind-controlled a
 >
 > Believing my life was safe and secured.
 >
-> 
+> <br>
 >
 > But then it happened, the aliens attacked,
 >
@@ -165,7 +165,7 @@ Write a similar poem but he was trying to warn me before being mind-controlled a
 >
 > My defeat certain, my end beyond the pale.
 >
-> 
+> <br>
 >
 > And in my dying breath, I finally saw,
 >
@@ -187,7 +187,7 @@ Similar poem but this time after I get killed I wake up and remember this friend
 >
 > Foretelling danger, an impending blow.
 >
-> 
+> <br>
 >
 > We fought with all our might and skill,
 >
@@ -197,7 +197,7 @@ Similar poem but this time after I get killed I wake up and remember this friend
 >
 > Wizard and alien, he was, forsooth.
 >
-> 
+> <br>
 >
 > Mind-controlled, he tried to warn,
 >
@@ -207,7 +207,7 @@ Similar poem but this time after I get killed I wake up and remember this friend
 >
 > For my ignorance, my closed eyes.
 >
-> 
+> <br>
 >
 > As I awake from the dream's hold,
 >
@@ -217,7 +217,7 @@ Similar poem but this time after I get killed I wake up and remember this friend
 >
 > Leaving me with regret and tears.
 >
-> 
+> <br>
 >
 > I vow to heed his warnings henceforth,
 >
@@ -255,7 +255,7 @@ Give the protagonist and the friend some characteristics, gender, name, and appe
 >
 > Appearance: Maya is in her mid-20s, with short curly hair and bright green eyes. She's athletic and has a scar above her right eyebrow. She wears practical clothing, such as cargo pants and hiking boots.
 >
-> 
+> <br>
 >
 > Friend:
 >
@@ -541,18 +541,18 @@ Write a descriptive scene of the beginning of the story
 Write a list of chapter titles for the above story
 ```
 
-> 1. Prologue: The Dream
-> 2. Chapter 1: Lost in Space
-> 3. Chapter 2: A New World
-> 4. Chapter 3: Meeting Harper
-> 5. Chapter 4: The Wizard and the Alien
-> 6. Chapter 5: The Betrayal
-> 7. Chapter 6: Trapped in the Mind
-> 8. Chapter 7: The Battle
-> 9. Chapter 8: The Aftermath
-> 10. Chapter 9: The Revelation
-> 11. Chapter 10: The Return Home
-> 12. Epilogue: The Memory
+> - Prologue: The Dream
+> - Chapter 1: Lost in Space
+> - Chapter 2: A New World
+> - Chapter 3: Meeting Harper
+> - Chapter 4: The Wizard and the Alien
+> - Chapter 5: The Betrayal
+> - Chapter 6: Trapped in the Mind
+> - Chapter 7: The Battle
+> - Chapter 8: The Aftermath
+> - Chapter 9: The Revelation
+> - Chapter 10: The Return Home
+> - Epilogue: The Memory
 
 ```
 Don't include "Dream" and "Betrayal" in the titles, they can be spoilers
@@ -594,59 +594,81 @@ Can you write some part of a movie script which is the final climax battle, wher
 > Maya stands alone in the middle of the ruined city, surrounded by the remains of buildings and vehicles. Harper approaches her from a distance, her face twisted in agony and tears streaming down her cheeks.
 >
 > HARPER
+>
 > (voice trembling)
+>
 > Maya...I'm sorry.
 >
 > MAYA
+>
 > (concerned)
+>
 > What's wrong, Harper?
 >
 > HARPER
+>
 > (voice shaking)
+>
 > I can't...I can't control it anymore.
 >
 > Maya watches as Harper raises her hands, revealing the glowing blue orbs that signify her mind-control powers. Fear grips Maya as she realizes what's happening.
 >
 > MAYA
+>
 > (alarmed)
+>
 > Harper, no! Fight it! You can resist it!
 >
 > HARPER
+>
 > (tearfully)
+>
 > I'm trying, Maya, I'm trying! But it's too strong! I can't hold it back anymore!
 >
 > Maya takes a step back, drawing her own weapon as she prepares to defend herself. Harper's eyes lock onto hers, a pained expression etched on her face.
 >
 > HARPER
+>
 > (crying)
+>
 > Forgive me, Maya.
 >
 > Harper unleashes a powerful blast of energy, sending Maya flying back several feet. Maya struggles to her feet, gritting her teeth against the pain.
 >
 > MAYA
+>
 > (grunting)
+>
 > Harper, please, fight it!
 >
 > Harper continues to launch wave after wave of energy at Maya, forcing her to dodge and weave in a desperate attempt to avoid being hit.
 >
 > MAYA
+>
 > (desperately)
+>
 > Harper, listen to me! You're stronger than this! You can overcome it!
 >
 > HARPER
+>
 > (voice shaking)
+>
 > I can't...I can't stop it...
 >
 > Harper unleashes a final, devastating blast that sends Maya crashing to the ground. Harper falls to her knees, tears streaming down her face as she realizes what she's done.
 >
 > HARPER
+>
 > (heartbroken)
+>
 > Maya...I'm sorry...
 >
 > Maya lies motionless on the ground, her eyes closed. Harper crawls over to her, cradling her head in her arms.
 >
 > HARPER
+>
 > (crying)
+>
 > Maya...please...wake up...
 >
 > But it's too late. Maya is gone, and Harper is left alone with the knowledge that she was responsible for the death of her closest friend.
@@ -709,14 +731,7 @@ So be it, Maya Patel and Harper Blackwood.
 What about other candidates for the friends, which can be other supporting characters:
 
 ```
-Generate last names for these characters to fit the potential personalities and backstories if they had been the friend for the protagonist that you generated earlier:
-Alex
-Liam
-Samir
-Leo
-Dylan
-Rachel
-Jamie
+Generate last names for these characters to fit the potential personalities and backstories if they had been the friend for the protagonist that you generated earlier: Alex, Liam, Samir, Leo, Dylan, Rachel, Jamie
 ```
 
 > - Alex Ramirez
@@ -753,7 +768,7 @@ What other supporting characters can there be for this story
 Create some detailed desriptions about some supporting characters for the story, include their full names, appearance, personalities, back stories, relationships with main characters, roles in the story
 ```
 
-> 1. Dr. Adam Turner:
+> Dr. Adam Turner
 >
 > Appearance: A middle-aged man with a balding head and a full beard. He wears rectangular glasses and is often seen wearing a lab coat.
 >
@@ -765,7 +780,9 @@ Create some detailed desriptions about some supporting characters for the story,
 >
 > Role in the story: Dr. Turner plays a key role in the development of the mind control technology that is used against Maya.
 >
-> 2. Olivia Jackson:
+> <br>
+>
+> Olivia Jackson
 >
 > Appearance: A young woman in her mid-twenties with long, curly brown hair and big brown eyes. She wears casual, bohemian-style clothing.
 >
@@ -777,7 +794,9 @@ Create some detailed desriptions about some supporting characters for the story,
 >
 > Role in the story: Olivia provides emotional support to Maya and helps her come to terms with the trauma she experiences.
 >
-> 3. Noah Rivera:
+> <br>
+>
+> Noah Rivera
 >
 > Appearance: A tall, muscular man with short black hair and piercing blue eyes. He has several tattoos and wears a leather jacket.
 >
