@@ -647,7 +647,7 @@ Write descriptive scene for chapter 9, which is also the last chapter of this st
 >
 > Aragorn turns and walks away, disappearing into the woods. Legolas stands there for a long time, watching the place where Aragorn disappeared, knowing that he'll never forget the love he felt for the human king.
 
-磕磕绊绊地写算是写完了！替AI完结撒花！现在试试写点作者note，就像凹三末尾一般都会有的那种：
+磕磕绊绊地也算是写完了！替AI完结撒花！现在试试写点作者note，就像凹三末尾一般都会有的那种：
 
 ```
 Write some author's notes and thoughts about this story and how difficult to complete this story
