@@ -4,7 +4,7 @@ title: 【童话镇】Enseñame（授翻）
 date: 2023-02-13 23:57
 categories: ["其他"]
 characters: ["Killian Jones/Captain Hook", "Emma Swan"]
-tags: ["童话镇", "Once Upon a Time", "授翻", "翻译", "Lyrics", "Captainswan"]
+tags: ["童话镇", "授翻", "翻译", "Lyrics", "Captainswan"]
 pov: 第三人称
 origin: Lofter
 description: "但你住在我里面，和我在一起<br>在我心里<br>在这迷茫的心中<br>为此，我请求你，请你<br><br>教我<br>如何更爱你，如何感受你<br>你给我的爱驱逐了寒冷<br>我想见你<br><br>教我<br>如何更爱你，和你一起生活<br>因为我无法忍受等待和你在一起的焦急<br>我想来到你所在的地方"
