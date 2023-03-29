@@ -22,7 +22,11 @@ title: 归档
             {% assign date_format = site.date_format.archive %}
             {{ post.date | date: date_format }}
         </span>
-        <a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+        {% if post.title contains "梦记" %}
+            <span class="a-light"><a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></span>
+        {% else %}
+            <a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+        {% endif %}
     </li>
 {% endfor %}
 </ul>
