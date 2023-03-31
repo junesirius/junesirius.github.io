@@ -14,7 +14,9 @@ published: false
 
 ### 1. A Neil Gaiman-style story
 
-> Write a story in the style of Neil Gaiman
+```
+Write a story in the style of Neil Gaiman
+```
 
 Once upon a time, in a world of shadows and dreams, there was a city known as the City of Stories. This was a place where all of the tales and legends of the world came to life, and where anything was possible if you had the courage and the imagination to believe.
 
@@ -32,7 +34,9 @@ In the end, Jack emerged victorious, and the City of Stories was saved. And as h
 
 ### 2. Woody Allen-style movie
 
-> Make a movie in the style of Woody Allen
+```
+Make a movie in the style of Woody Allen
+```
 
 The movie, titled "Midnight in the City," is a romantic comedy set in a bustling metropolis. The protagonist, a neurotic and awkward young man named Charlie, is struggling to make sense of his chaotic love life.
 
@@ -47,6 +51,10 @@ Sofia is everything that Charlie has been looking for in a partner. She is smart
 In the end, Charlie and Sofia overcome the obstacles and challenges that stand in their way, and they live happily ever after. The movie ends with a montage of them walking hand in hand through the city, smiling and laughing as they enjoy their newfound love and happiness.
 
 ### 3. Oscar Wilde-style sad story
+
+```
+Write a sad story in the style of Oscar Wilde.
+```
 
 Once upon a time, in a land of beauty and splendor, there lived a young woman named Eliza. She was known throughout the kingdom for her grace and elegance, and many suitors came to her seeking her hand in marriage.
 
