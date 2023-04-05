@@ -3,7 +3,7 @@ layout: post
 title: 【夜魔侠】父亲的孩子
 date: 2022-03-01 04:33
 categories: ["漫威"]
-characters: ["Daredevil", "Matt Murdock"]
+characters: ["Matt Murdock/Daredevil"]
 tags: ["夜魔侠", "观后感", "孤独"]
 pov: 第三人称
 origin: Lofter
