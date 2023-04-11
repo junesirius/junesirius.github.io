@@ -94,7 +94,7 @@ O：“我该怎么原谅你，如果我从来没有怪罪过你？（How can I 
 
 Happy ever after\~
 
-到结尾接近真相大白做解释的时候，O问V他跟D到底怎么回事（怎么结仇/他们的过去），V半真半假讲了一个隐喻故事，也是希腊神话背景，有老师和两个学生（都编了看起来很严肃的名字）等等，O一开始以为V是真的在讲他自己事情但是听着听着发现不对，V还是在开玩笑（虽然也确实有那么一些真实成分）O气笑：“I thought we said no more lies”拿枕头之类的打他，V玩闹地求饶然后讲了其实他之前确实已经大略有了对付D的计划。O：“所以这些全都在你的计划之类？”V：“基本上，除了你。遇见你/爱上你从来不是计划的一部分。”（改编自《英国病人》）
+到结尾接近真相大白做解释的时候，O问V他跟D到底怎么回事（怎么结仇/他们的过去），V半真半假讲了一个隐喻故事，也是希腊神话背景，有老师和两个学生（都编了看起来很严肃的名字）等等，O一开始以为V是真的在讲他自己事情但是听着听着发现不对，V还是在开玩笑（虽然也确实有那么一些真实成分）O气笑：“I thought we said no more lies”拿枕头之类的打他，V玩闹地求饶然后讲了其实他之前确实已经大略有了对付D的计划。O：“所以这些全都在你的计划之类？”V：“基本上，除了你。遇见你从来不是计划的一部分。”（改编自《英国病人》）
 
 收尾剧情：VO浪漫主题表演，未来无限可能充满希望，倒计时新年快乐（可参考《纽约的秋天》《西雅图不眠夜》）
 
@@ -1484,7 +1484,7 @@ Viggo笑着看着他：“难道不是吗？”
 
 <!-- O猜出了D邀请他其实只是想偷V的技法，暗自觉得好笑但是表面上仍然装出天真纯良什么都不懂的样子，说V也不肯把核心机密告诉他，总是说些D已经知道了的东西，D软磨硬泡用尽各种法子也没法撬开O的嘴偷到V的机密，吐槽“他到底用什么法子蛊得你这么忠心”（O内心os：“彻头彻尾是V的人”（致敬邓布利多））。O白天跟D打太极，利用D的社交圈暗自仍然在找V的下落。 -->
 
-<!-- D在O身边趁机想挑拨离间VO关系，用的话术包括：“他是个魔术师，lying/cheating is technically what he do for a living”，你怎么知道这一切不是他给你制造的大型幻觉，你也不是没见过what he's capable of（暗示催眠等），O：“I know what's real, and he is as real as life can possibly be. In fact, 他的出现 was probably the most real thing ever happened to me.”（改编自《西部世界》） -->
+<!-- D在O身边趁机想挑拨离间VO关系，用的话术包括：“他是个魔术师，lying and cheating are technically what he does for a living”（骗人technically是他吃饭的本事），你怎么知道这一切不是他给你制造的大型幻觉，你也不是没见过what he's capable of（暗示催眠等），O：“I know what's real, and he is as real as life can possibly be. In fact, 他的出现 was probably the most real thing ever happened to me.”（改编自《西部世界》） -->
 
 <!-- （铺垫：O在跟着D表演的时候有时会感觉观众里有目光紧紧注意着他，直觉是V在附近但是又找不到） -->
 
