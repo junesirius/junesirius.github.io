@@ -4,7 +4,7 @@ title: 【AI小说】《Beyond the Horizon》（草稿大纲）
 date: 2023-01-17 22:52
 categories: ["其他"]
 characters: ["Ava Reyes", "Cassius Ravenwood", "Lena Vega", "Cynthia Blaze"]
-tags: ["AI", "ChatGPT", "英文", "小说", "想象", "草稿"]
+tags: ["AI", "ChatGPT", "英文", "小说", "想象", "草稿", "女同"]
 pov: 第三人称
 description: "A story about trust, sacrifice, and redemption. And it's in a post-apocalyptic world."
 origin: 个站

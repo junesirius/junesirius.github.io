@@ -4,7 +4,7 @@ title: 【AI小说】《The Other Side of the Sky》（草稿大纲）
 date: 2023-03-22 20:17
 categories: ["其他"]
 characters: ["Maya Patel", "Harper Blackwood"]
-tags: ["AI", "ChatGPT", "英文", "小说", "想象", "草稿"]
+tags: ["AI", "ChatGPT", "英文", "小说", "想象", "草稿", "女同"]
 pov: 第三人称
 description: "A story that has wizard intrusion, alien attack, snow in summer, and missing a friend that hasn't seen in a long time."
 origin: 个站
