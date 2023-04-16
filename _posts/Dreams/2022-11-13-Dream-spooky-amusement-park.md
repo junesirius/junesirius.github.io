@@ -4,7 +4,7 @@ title: 【梦记】雪天，公交站，儿童游乐场
 date: 2022-11-13 13:30
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "惊悚", "血"]
+tags: ["梦记", "惊悚", "血", "好故事"]
 pov: 第一人称视角
 origin: 个站
 ---

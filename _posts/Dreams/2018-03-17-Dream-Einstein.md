@@ -4,7 +4,7 @@ title: 【梦记】爱因斯坦先生
 date: 2018-03-17
 categories: ["梦记"]
 characters: ["Albert Einstein"]
-tags: ["梦记"]
+tags: ["梦记", "好故事"]
 pov: 第一人称视角
 origin: 微信公众号
 ---
