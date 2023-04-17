@@ -4,7 +4,7 @@ title: 【梦记】女巫追捕
 date: 2019-08-25
 categories: ["梦记"]
 characters: ["Brian"]
-tags: ["梦记", "好兆头"]
+tags: ["梦记", "好兆头", "救世主情结"]
 pov: 第一人称视角
 origin: 个站
 ---

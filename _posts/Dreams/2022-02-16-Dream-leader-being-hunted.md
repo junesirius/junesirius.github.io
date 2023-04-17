@@ -4,7 +4,7 @@ title: 【梦记】领袖气质，被追杀
 date: 2022-02-16 08:19
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "追杀"]
+tags: ["梦记", "追杀", "救世主情结"]
 pov: 第一人称视角
 origin: 个站
 ---

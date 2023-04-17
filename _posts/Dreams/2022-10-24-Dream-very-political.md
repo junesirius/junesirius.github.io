@@ -4,7 +4,7 @@ title: 【梦记】政治
 date: 2022-10-24 08:48
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "反乌托邦", "政治"]
+tags: ["梦记", "反乌托邦", "政治", "救世主情结"]
 pov: 第一人称视角
 origin: 个站
 ---
