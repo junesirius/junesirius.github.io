@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【记梗】ChatGPT创作的故事（持续更新）
+title: 【记梗】ChatGPT创作的短故事（持续更新）
 date: 2022-12-14 23:15
 categories: ["其他"]
 characters: 

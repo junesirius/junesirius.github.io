@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【赛博朋克2077】记梗（持续更新）
+title: 【记梗】赛博朋克2077（持续更新）
 date: 2021-01-29
 categories: ["赛博朋克2077"]
 characters: ["Johnny Silverhand", "V"]

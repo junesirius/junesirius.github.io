@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【赛博朋克2077】摘抄（持续更新）
+title: 【摘抄】赛博朋克2077（持续更新）
 date: 2021-01-29
 categories: ["赛博朋克2077"]
 characters: ["Johnny Silverhand", "V"]
