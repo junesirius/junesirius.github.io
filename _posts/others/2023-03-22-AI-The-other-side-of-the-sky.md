@@ -840,3 +840,13 @@ If there is a final boss villain behind the scene in this story, who could that 
 Since the whole main story will be Maya's dream, there should be no more other villains except for Maya's dark side, which could take into any form, and in this case, maybe Viktor is just the right one. He could be the chief engineer of the world's best and biggest mind-control-centered enterprise and research center. He could be very determined that he is developing and experimenting for greater good, others just can't see his vision. Which could actually be Maya's secret unrealized ambition since the beginning.
 
 The alien and wizarding settings can also just turn out to be an illusion created by the mind-control technology. And that realization might make them (and the readers) think they finally find the "final" secret, but that's never the final biggest one.
+
+<br><br>
+![](/assets/images/AI_Generated_Images/2023-03-22-Maya-1.png)
+
+(Maya Patel: A beautiful young woman in her mid-20s, with short curly hair and bright green eyes. She's athletic and has a scar above her right eyebrow. She wears practical clothing, such as cargo pants and hiking boots.)
+
+<br><br>
+![](/assets/images/AI_Generated_Images/2023-03-22-Harper-3.png)
+
+(Harper Blackwood: A young woman, tall and slender with dark hair that falls over her forehead. Has sharp features and light blue eyes. Wears stylish clothing.)
