@@ -611,16 +611,16 @@ Write an interesting summary that not focus on any plot detail but more about th
 > A story about trust, sacrifice, and redemption. It explores the themes of human nature, power, and hope in a post-apocalyptic world, where a group of unlikely heroes must navigate their own beliefs and prejudices to save their city from destruction. Along the way, they must confront their deepest fears and confront the question of what it means to truly live.
 
 <br><br>
-![](/assets/images/AI_Generated_Images/2023-01-17-Ava-2.png)
+![](/assets/images/AI_Generated_Images/2023-01-17-Ava-2.jpg)
 
 (Ava Reyes: A tall and slender young woman, with short, curly hair. Has a tattoo on her face. Has a determined and curious look in her eyes, with a hint of sadness. Wears practical, durable clothing, such as a leather jacket, cargo pants and combat boots.)
 
 <br><br>
-![](/assets/images/AI_Generated_Images/2023-01-17-Lena-1.png)
+![](/assets/images/AI_Generated_Images/2023-01-17-Lena-1.jpg)
 
 (Lena Vega: A beautiful and strong-willed young woman with long, curly hair, a natural and wild look. Has a warm and empathetic face with smile. Wears practical and comfortable clothing, like a leather jacket and cargo pants. Carries a crossbow, with a built-in flashlight.)
 
 <br><br>
-![](/assets/images/AI_Generated_Images/2023-01-17-Cynthia-2.png)
+![](/assets/images/AI_Generated_Images/2023-01-17-Cynthia-2.jpg)
 
 (Cynthia Blaze: A cold and calculating young woman, with short, sleek hair, with a severe and polished look. Has a sharp and angular face, with a hint of a sneer. Wears expensive and fashionable clothing, like a power suit. Carries a laser gun.)

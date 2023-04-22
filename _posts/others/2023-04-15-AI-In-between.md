@@ -33,11 +33,11 @@ Make all these feelings above a part of an emotional journey of a story, create 
 <br>
 
 <br><br>
-![](/assets/images/AI_Generated_Images/2023-04-15-Sofia-3.png)
+![](/assets/images/AI_Generated_Images/2023-04-15-Sofia-2.jpg)
 
 (Sofia Cruz: A young woman in her mid-20s with long, wavy brown hair that falls just past her shoulders. Has hazel eyes, and a few freckles near nose and cheeks. Has a warm and friendly smile. Dresses in comfortable yet stylish clothing, in neutral colors like black, gray, and navy.)
 
 <br><br>
-![](/assets/images/AI_Generated_Images/2023-04-15-Isabella-6.png)
+![](/assets/images/AI_Generated_Images/2023-04-15-Isabella-4.jpg)
 
 (Isabella Alvarez: A strikingly beautiful woman in 30s. Has long, jet-black hair that cascades down her back in loose waves, warm brown eyes, thick, dark lashes. Delicate and symmetrical face, high cheekbones, a straight nose, and full lips in bold red. Stylish fashion cloth)

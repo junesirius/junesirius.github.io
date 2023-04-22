@@ -842,11 +842,11 @@ Since the whole main story will be Maya's dream, there should be no more other v
 The alien and wizarding settings can also just turn out to be an illusion created by the mind-control technology. And that realization might make them (and the readers) think they finally find the "final" secret, but that's never the final biggest one.
 
 <br><br>
-![](/assets/images/AI_Generated_Images/2023-03-22-Maya-1.png)
+![](/assets/images/AI_Generated_Images/2023-03-22-Maya-1.jpg)
 
 (Maya Patel: A beautiful young woman in her mid-20s, with short curly hair and bright green eyes. She's athletic and has a scar above her right eyebrow. She wears practical clothing, such as cargo pants and hiking boots.)
 
 <br><br>
-![](/assets/images/AI_Generated_Images/2023-03-22-Harper-3.png)
+![](/assets/images/AI_Generated_Images/2023-03-22-Harper-3.jpg)
 
 (Harper Blackwood: A young woman, tall and slender with dark hair that falls over her forehead. Has sharp features and light blue eyes. Wears stylish clothing.)
