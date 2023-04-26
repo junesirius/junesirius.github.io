@@ -4,7 +4,7 @@ title: 【梦记】赛博朋克
 date: 2020-12-20
 categories: ["梦记"]
 characters: 
-tags: ["梦记"]
+tags: ["梦记", "血"]
 pov: 第一人称视角
 origin: 个站
 ---

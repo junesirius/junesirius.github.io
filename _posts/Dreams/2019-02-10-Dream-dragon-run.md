@@ -4,7 +4,7 @@ title: 【梦记】龙&amp;逃跑
 date: 2019-02-10
 categories: ["梦记"]
 characters: ["Lyra"]
-tags: ["梦记", "HP"]
+tags: ["梦记", "HP", "水", "火"]
 pov: 第一人称视角
 origin: 个站
 ---

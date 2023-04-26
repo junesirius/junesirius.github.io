@@ -4,7 +4,7 @@ title: 【梦记】火龙
 date: 2019-02-07
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "HP"]
+tags: ["梦记", "HP", "火"]
 pov: 第一人称视角
 origin: 个站
 ---

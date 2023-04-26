@@ -4,7 +4,7 @@ title: 【梦记】拯救莱戈拉斯
 date: 2021-05-08 15:12
 categories: ["梦记"]
 characters: ["Legolas"]
-tags: ["梦记", "好故事"]
+tags: ["梦记", "好故事", "血"]
 pov: 第一人称视角
 origin: 个站
 ---

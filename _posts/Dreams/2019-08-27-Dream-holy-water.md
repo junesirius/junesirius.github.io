@@ -4,7 +4,7 @@ title: 【梦记】圣水威胁
 date: 2019-08-27
 categories: ["梦记"]
 characters: ["Lyra", "Robert Downey Jr."]
-tags: ["梦记", "好兆头"]
+tags: ["梦记", "好兆头", "水", "火"]
 pov: 第一人称视角
 origin: 个站
 ---

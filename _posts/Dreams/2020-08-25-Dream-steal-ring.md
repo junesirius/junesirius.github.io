@@ -4,7 +4,7 @@ title: 【梦记】偷魔戒
 date: 2020-08-25
 categories: ["梦记"]
 characters: ["Thor", "Loki"]
-tags: ["梦记", "漫威", "中土"]
+tags: ["梦记", "漫威", "中土", "火"]
 pov: 第一人称视角
 origin: Lofter
 ---

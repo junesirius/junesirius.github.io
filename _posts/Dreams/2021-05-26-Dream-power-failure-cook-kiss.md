@@ -4,7 +4,7 @@ title: 【梦记】停电，做饭，接吻
 date: 2021-05-26 16:00
 categories: ["梦记"]
 characters: ["Bruce Wayne"]
-tags: ["梦记", "Skam", "哥谭"]
+tags: ["梦记", "Skam", "哥谭", "火", "吻"]
 pov: 第一人称视角
 origin: 个站
 ---

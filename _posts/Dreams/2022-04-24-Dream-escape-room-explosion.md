@@ -4,7 +4,7 @@ title: 【梦记】一条街的密室，元素周期表，爆炸
 date: 2022-04-24 08:56
 categories: ["梦记"]
 characters: ["Jacob Kowalski"]
-tags: ["梦记", "好故事"]
+tags: ["梦记", "好故事", "爆炸"]
 pov: 第一人称视角
 origin: 个站
 ---

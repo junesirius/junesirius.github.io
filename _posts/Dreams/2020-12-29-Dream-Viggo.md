@@ -4,7 +4,7 @@ title: 【梦记】Viggo
 date: 2020-12-29
 categories: ["梦记"]
 characters: ["Viggo Mortensen"]
-tags: ["梦记"]
+tags: ["梦记", "好故事", "吻"]
 pov: 第一人称视角
 origin: Lofter
 ---

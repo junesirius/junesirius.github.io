@@ -4,7 +4,7 @@ title: 【梦记】变魔术
 date: 2021-12-19 13:21
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "好故事"]
+tags: ["梦记", "好故事", "魔术"]
 pov: 第一人称视角
 origin: 个站
 ---

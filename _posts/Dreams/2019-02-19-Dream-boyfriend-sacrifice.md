@@ -4,7 +4,7 @@ title: 【梦记】男友牺牲
 date: 2019-02-19
 categories: ["梦记"]
 characters: ["白起", "周棋洛"]
-tags: ["梦记", "恋与制作人"]
+tags: ["梦记", "恋与制作人", "血"]
 pov: 第一人称视角
 origin: 个站
 ---

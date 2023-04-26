@@ -4,7 +4,7 @@ title: 【梦记】西部世界VO
 date: 2021-11-13 13:11
 categories: ["梦记"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]
-tags: ["梦记", "VO", "西部世界", "好故事"]
+tags: ["梦记", "VO", "西部世界", "好故事", "血", "牙齿"]
 pov: 第一人称视角
 origin: 个站
 ---

@@ -4,7 +4,7 @@ title: 【梦记】Evak
 date: 2021-01-01
 categories: ["梦记"]
 characters: ["Isak Valtersen", "Even Bech Næsheim"]
-tags: ["梦记", "Evak", "Skam", "羞耻"]
+tags: ["梦记", "Evak", "Skam", "羞耻", "洪水", "水"]
 pov: 第一人称视角
 origin: Lofter
 ---

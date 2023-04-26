@@ -4,7 +4,7 @@ title: 【梦记】古生物病毒
 date: 2020-10-29
 categories: ["梦记"]
 characters: 
-tags: ["梦记"]
+tags: ["梦记", "病毒"]
 pov: 第一人称视角
 origin: 个站
 ---

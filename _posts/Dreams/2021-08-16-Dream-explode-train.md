@@ -4,7 +4,7 @@ title: 【梦记】炸火车
 date: 2021-08-16 15:58
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "恐慌", "焦虑"]
+tags: ["梦记", "恐慌", "焦虑", "爆炸", "血"]
 pov: 第一人称视角
 origin: 个站
 ---

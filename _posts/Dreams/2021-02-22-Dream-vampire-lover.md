@@ -4,7 +4,7 @@ title: 【梦记】吸血鬼恋人
 date: 2021-02-22 14:36
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "好故事"]
+tags: ["梦记", "好故事", "吸血鬼", "血"]
 pov: 第一人称视角
 origin: 个站
 ---
