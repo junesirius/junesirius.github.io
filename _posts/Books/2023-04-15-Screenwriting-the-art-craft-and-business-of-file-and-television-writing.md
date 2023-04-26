@@ -7,7 +7,6 @@ characters: ["理查德·沃尔特"]
 tags: ["摘录", "剧本", "写作"]
 pov: 第三人称
 origin: 个站
-published: false
 ---
 
 [TOC]
