@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【生活】杀死一只贝果
+title: 【随记】杀死一只贝果
 date: 2023-04-26 01:35
 categories: ["原创"]
 characters: 
-tags: ["生活", "想象"]
+tags: ["随记", "想象"]
 pov: 第二人称
 origin: Lofter
 ---
