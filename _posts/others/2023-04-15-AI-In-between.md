@@ -791,7 +791,11 @@ Change the last sentence to "the women must decide whether to take a leap of fai
 
 > "In Between" is a story about two women, Sofia and Isabella, who come from different worlds and struggle with their sense of identity. Sofia is unsure about her sexuality and immigration status, while Isabella grapples with her Catholic faith and guarded heart. As they navigate their way through life in New York City, they find themselves drawn to each other in unexpected ways. Now, standing at the Mexican border, the women must decide whether to take a leap of faith and start a new life together or risk losing everything they have ever known.
 
-(I'll just manually fix the previous one and replace the last sentence then.)
+(I'll just manually fix the previous one and replace the last sentence then.
+
+The whole story or title or summary, all not as good as I would hope for, but let's call it a day. AI is probably already doing its best. If I wish to read something I would like to see, might still have to write it myself. No AI could replace my feelings and emotions and the express of them. The process of expressing them is exactly why art matters.)
+
+<br>
 
 (Try again with appearance for painting AI to give them some portraits.)
 
