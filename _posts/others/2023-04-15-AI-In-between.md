@@ -362,17 +362,15 @@ Where is Luca from? (create one yourself) (know that his native language is Span
 
 > Luca is from the fictional country of Castellano, a charming coastal nation in Europe known for its colorful architecture and rich culinary tradition. Castellano is a small but proud country, and its people are fiercely loyal to their heritage and traditions. Luca grew up in a close-knit community where everyone knows each other, and his family has a long history of producing skilled artisans and craftsmen. As a native Spanish speaker, Luca effortlessly blends in with the vibrant and diverse culture of New York City, where he now lives and works.
 
-(Not too bad, but also, randomly create character isn't that easy to make it wrong.
+(Not too bad, but also, randomly created character isn't that easy to make it wrong.
 
-"effortless blends in": this emphasize seems suspicious, those two bounty hunters (Boba Ffeter)) could start enjoy the cake and food before others arrive, and place more with cats if we want.
+"effortlessly blends in": this emphasize seems suspicious, feel a little to deliberate.
 
 ```
 Suggest some more names for them including first name and last name, all better to have some meaningful meanings and reflective of their origins and maybe personalities.
 ```
 
-(Full space searching, trying to get all the combination and having guards all looking at the stage.)
-
-
+(Full space searching, trying to get all the combination and find some good names.)
 
 <br>
 
