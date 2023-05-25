@@ -795,22 +795,6 @@ Change the last sentence to "the women must decide whether to take a leap of fai
 
 The whole story or title or summary, all not as good as I would hope for, but let's call it a day. AI is probably already doing its best. If I wish to read something I would like to see, might still have to write it myself. No AI could replace my feelings and emotions and the express of them. The process of expressing them is exactly why art matters.)
 
-<br>
-
-(Try again with appearance for painting AI to give them some portraits.)
-
-```
-What does Sofia look like?
-```
-
-> Sofia is a young woman in her mid-20s with long, wavy brown hair that falls just past her shoulders. She has hazel eyes that seem to change color in different lighting, and a few freckles dotting her nose and cheeks. She's of average height and has a slender build. Sofia has a warm and friendly smile that lights up her face when she's happy, but her eyes sometimes betray a hint of sadness or uncertainty. She usually dresses in comfortable yet stylish clothing, preferring neutral colors like black, gray, and navy.
-
-```
-What does Isabella look like?
-```
-
-> Isabella is a woman in her mid-to-late thirties with a striking appearance. She has long, jet-black hair that cascades down her back in loose waves, and her warm brown eyes are framed by thick, dark lashes. Isabella's facial features are delicate and symmetrical, with high cheekbones, a straight nose, and full lips that are often painted in a bold shade of red. She has a slender build and stands at an average height, carrying herself with poise and confidence. Isabella's fashion sense is impeccable, and she is always dressed in stylish, tailored outfits that accentuate her figure and complement her striking beauty.
-
 <br><br>
 ![](/assets/images/AI_Generated_Images/2023-04-15-Sofia-2.jpg)
 
