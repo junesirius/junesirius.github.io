@@ -4,7 +4,7 @@ title: 【心理】Honesty in words
 date: 2022-08-06 23:25
 categories: ["原创"]
 characters: 
-tags: ["心理", "写作", "压抑", "英文"]
+tags: ["心理", "写作", "压抑", "英文", "诚实"]
 pov: 第一人称
 origin: 个站
 ---
