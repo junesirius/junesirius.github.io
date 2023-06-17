@@ -2,9 +2,9 @@
 layout: post
 title: 【福茉】花吐症（糖）
 date: 2017-01-30 07:35
-categories: ["神夏"]
+categories: ["其他"]
 characters: ["Molly Hooper", "Sherlock Holmes"]
-tags: ["福茉"]
+tags: ["福茉", "神探夏洛克"]
 pov: 第一人称
 origin: 名人朋友圈
 ---

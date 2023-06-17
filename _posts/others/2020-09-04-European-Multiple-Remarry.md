@@ -4,7 +4,7 @@ title: 【欧美群像】重婚（脑洞）
 date: 2020-09-04 02:45
 categories: ["欧美群像"]
 characters: ["Aragorn", "Legolas", "Jack Sparrow", "William Turner", "Gellert Grindelwald", "Albus Dumbledore", "Sherlock Holmes", "John Watson", "Tony Stark", "Peter Parker", "Saruman", "Gandalf","Erik Lehnsherr", "Charles Xavier"]
-tags: ["AL", "船铁", "GGAD", "福华", "铁虫", "萨甘", "EC", "中土", "加勒比海盗", "HP", "神夏", "漫威", "脑洞"]
+tags: ["AL", "船铁", "GGAD", "福华", "铁虫", "萨甘", "EC", "中土", "加勒比海盗", "HP", "神探夏洛克", "漫威", "脑洞"]
 pov: 第三人称
 origin: Lofter
 ---

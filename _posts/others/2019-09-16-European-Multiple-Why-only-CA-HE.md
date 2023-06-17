@@ -4,7 +4,7 @@ title: 【欧美群像】为什么欧美群像唯有Azi和老蛇是纯糖？（�
 date: 2019-09-16 05:20
 categories: ["欧美群像"]
 characters: ["Crowley", "Aziraphale", "Erik Lehnsherr", "Charles Xavier", "Gellert Grindelwald", "Albus Dumbledore", "Steve Rogers", "Tony Stark", "Sherlock Holmes", "John Watson"]
-tags: ["CA", "EC", "GGAD", "盾铁", "福华", "好兆头", "X战警", "HP", "漫威", "神夏"]
+tags: ["CA", "EC", "GGAD", "盾铁", "福华", "好兆头", "X战警", "HP", "漫威", "神探夏洛克"]
 pov: 第三人称
 origin: 名人朋友圈
 ---
