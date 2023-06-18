@@ -438,3 +438,19 @@ Hook被她的话完全僵住了，她看得出来他几乎停止了呼吸。
 最近有点上头童话镇，尤其是这个黑眼线小海盗，这么old school的teenager boy式追女孩子，突然重新爱上了这种懵懂羞怯纯情状态，为了讨一个吻整整琢磨了半季，到了第四季过半也才刚刚牵手，好喜欢。当然中间还有好多次差点就要以为再也见不到对方了但即便如此也要克制地只是说一声goodbye就转身离开，痛又克制，充满脆弱感，真的很想从屏幕里拎出来抱一抱，心柔软得一塌糊涂。这家伙，平时大大咧咧没脸没皮，偏生在爱这件事上毫不含糊，毫不吝啬拿出整条命来爱他认定的人，于是有时候真的看着剧里眉眼深情的他就忍不住想要掉下泪来，原来真正的爱是这样的吗，原来真的会有人可以爱另一个人到这个程度吗。原来真正的爱情还是存在的啊。
 
 情人节快乐！
+
+***
+
+（附上给作者原文留的评论：）
+
+I love this story so much, also cried really hard. The best Hook I have ever read. His vulnerability, his pain, his past, his trauma and the countless walls, his trust and love, his suppression of his own emotions and unreserved love and caring, oh how I love this man. How I wish I can be loved like this, but it also pains me to know even if I'm in Emma's position, I won't do any better than she did, I won't be able to make him feel any better or love him the way he would love. He just always offers everything he has, and still worries that it might not be enough. "You deserve more than a single-handed pirate with a drinking problem", things like this "you deserve better than me" always break my heart so hard. So is "don't lock me out", here I am, reading in the middle of night, all tears because of the vibe, how I hope I wouldn't understand it so deeply but I do, all my life, all the childhood and family issue and all those past I want to throw away, if taught me anything, is to lock myself up. I know how hard it is for Emma and Hook to open up, because I know how hard it is for me to truly open up to someone, anyone. I can't even imagine I would ever find someone I trust so much that I could open up to talk about everything, and Hook, given his several hundred years of past, could only be harder, the wall can only be thicker and higher and harder to break or find a way in.
+
+From my own writing and reading, I slowly realize all those people who seem chill and cool and doesn't care much of the life as if there is nothing to be afraid and nothing to lose, are always the exact kind that have too much to hide behind the wall, to put up a careless and unruly face as a self-protection. And that's exactly what Hook is doing all the time. Or most of time, considering this story. Which makes those vulnerable moments tremendously valuable to peak inside their heart, though these peaks might be heartbroken (and love them more).
+
+Another thing I noticed, it always amazes me how calling people by different names would express emotion and thoughts so differently. Like when Hook calls Emma, usually by "Swan", most times "love" or "dear", and when Emma calls him, most times "Hook", but only in those moments where their hearts are close to each other, "Killian." Every time I heard or read about Emma calling him "Killian", my heart has some kind of small extra beat out of nowhere, it feels so intimate, as if saying "by calling your real name, I see you as your true self, I see you without your trauma or vengeance or hook or mask, only you as a person, a soul, a vivid existence, raw and complete, and I care about you." It warms me and touches me so much.
+
+Again, marvelous work!!! I can re-read this story a hundred times and still get touched and cry every time. This is definitely the very best work I've read in quite a long time. Really looking forward to more of your stories! Undoubtedly love it!!
+
+（又一些想法：）
+
+虎克是怎么学会爱的，不曾被爱过的人学不会真正的爱，那么他一定是被爱过的。他是真正懂得爱的人，或者单纯是用最简单的方式去爱，用毫无保留地付出的方式。Charming和Snow学会爱和open up显然有父母作为榜样学会的，虎克，难道是哥哥？于是也终于能从本质上理解为什么虎克永远不可能成为Charming那样的人，不可能像他一样去处理问题，不可能像Charming和Snow一样open up，那么坦诚直白straightforwardly善良。他也善良，但是他有wall，他需要自我保护，需要面具，因为从小没有安全感。
