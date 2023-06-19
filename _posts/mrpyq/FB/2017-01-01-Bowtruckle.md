@@ -2,9 +2,9 @@
 layout: post
 title: 【神奇动物1】元旦日常
 date: 2017-01-01 08:34
-categories: ["神奇动物在哪里"]
+categories: HP
 characters: ["Bowtruckle", "Newt Scamander"]
-tags: ""
+tags: ["神奇动物在哪里"]
 pov: 第一人称
 origin: 名人朋友圈
 ---
