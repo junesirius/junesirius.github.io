@@ -6,7 +6,7 @@ categories: ["原创"]
 characters: 
 tags: ["随记", "想象", "句子"]
 pov: 第一人称
-origin: 个站
+origin: Lofter
 ---
 
 窗前飞过的一只鸟，像夏日一片飞雪。
