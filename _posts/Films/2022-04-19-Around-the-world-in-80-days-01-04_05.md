@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【观后感】八十天环游地球 S01E04-05（关于自我认知、自由、孤独）
+title: 【观后感】八十天环游地球 S01E04-05（关于自我认知、自由、孤独）（观后感）
 date: 2022-04-19 21:21
 categories: 观后感
 characters: ["Phileas Fogg"]

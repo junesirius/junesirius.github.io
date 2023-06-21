@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【观后感】八十天环游地球 S01E08（关于爱情、错过）
+title: 【观后感】八十天环游地球 S01E08（关于爱情、错过）（观后感）
 date: 2022-04-21 22:56
 categories: 观后感
 characters: ["Phileas Fogg"]

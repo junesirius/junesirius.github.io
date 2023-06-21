@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【观后感】八十天环游地球 S01E01-03（关于飞、自我认可）
+title: 【观后感】八十天环游地球 S01E01-03（关于飞、自我认可）（观后感）
 date: 2022-04-18 23:40
 categories: 观后感
 characters: ["Phileas Fogg"]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【观后感】八十天环游地球 S01E06-07（关于信任、背叛和错过）
+title: 【观后感】八十天环游地球 S01E06-07（关于信任、背叛和错过）（观后感）
 date: 2022-04-20 23:56
 categories: 观后感
 characters: ["Phileas Fogg"]
