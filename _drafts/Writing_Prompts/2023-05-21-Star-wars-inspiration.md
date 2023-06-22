@@ -12,7 +12,7 @@ published: false
 
 [TOC]
 
-### 1.《What Have You Done》Lyrics
+### 1.【obikin】《What Have You Done》Lyrics
 
 (by Within Temptation)
 
@@ -107,3 +107,13 @@ What have you done?
 I will not fall, won't let it go
 
 We will be free when it ends
+
+### 2.【obikin】冬天怕冷的小安
+
+（梗源生活，在夏天被冷到了然后想到的）
+
+小安是沙漠星球出生的，容易怕冷不怕热（虽然也有昼夜温差）
+
+脑了一个在科洛桑的冬天冷到了然后被师父用厚被子裹起来的小孩
+
+（当然也有可能被师父拎出去冰天雪地让他练习用原力御寒，小孩冷到牙齿打颤，欧比旺非常努力地在心里跟自己说要严厉一点才可能教得好，但是硬忍了一会儿终于还是没忍住，把小孩抱回来了
