@@ -4,7 +4,7 @@ title: 【随记】公交站随想
 date: 2023-05-27 14:59
 categories: ["原创"]
 characters: 
-tags: ["随记", "想象", "思维宫殿"]
+tags: ["随记", "想象", "思维宫殿", "年龄"]
 pov: 第一人称
 origin: Lofter
 ---
