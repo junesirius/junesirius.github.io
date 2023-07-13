@@ -4,7 +4,7 @@ title: 【银V】公司狗
 date: 2023-07-12 22:27
 categories: ["赛博朋克2077"]
 characters: ["Johnny Silverhand", "V", "Female V"]
-tags: ["银V", "强尼/V", "强尼/女V", "工作", "愤怒", "PUA", "受困感"]
+tags: ["银V", "强尼/V", "强尼/女V", "工作", "愤怒", "PUA", "受困感", "心理"]
 pov: 第三人称
 origin: 个站
 ---
