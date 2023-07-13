@@ -6,7 +6,7 @@ categories: ["赛博朋克2077"]
 characters: ["Johnny Silverhand", "V", "Female V"]
 tags: ["银V", "强尼/V", "强尼/女V", "工作", "愤怒", "PUA", "受困感", "心理"]
 pov: 第三人称
-origin: 个站
+origin: Lofter
 ---
 
 “Fuck, fuck, fuck!”V气得狠狠一脚踢在路边的铁皮罐上。坏主意，现在不仅仍然气得发疯，脚趾也开始痛了。
