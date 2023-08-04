@@ -1468,3 +1468,11 @@ V被举报家里有书，O去烧书，V表示行动开始，VO跟D对峙，O烧�
 O=女主，V=男主
 
 二战背景，O死在V怀里，BE
+
+### 116. 时间管理局AU
+
+时间/生命=财富
+
+O?: There is never enough time.
+
+V: It has to be.
