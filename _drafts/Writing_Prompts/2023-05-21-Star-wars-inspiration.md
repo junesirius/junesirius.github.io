@@ -487,3 +487,9 @@ Your feeble heart is breaking, your soul reduced to ash
 Pictures racing through your mind
 
 Dearest memories from not so long ago
+
+### 24.【obikin】《绝地这两个字代表着什么》
+
+书信/日记体，第一人称obikin双视角，ep1-6时间线
+
+（主要包含两个人在不同年龄段/成长过程中对绝地的理解
