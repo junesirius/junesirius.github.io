@@ -509,3 +509,155 @@ obikin套用《触摸不到的爱》里的梦的设定，安纳金中了梦的�
 （阿索卡也可以一起进去？安妮在某个时刻已经认识到了这里是梦但是不肯第二次离开母亲，欧比旺不得不再次让他经历他最糟糕的噩梦，“我恨你”。安妮可能需要自己打破一些东西才能救下真实的阿索卡/欧比旺）
 
 （可以增加一些设定，梦里待的时间越长安妮越危险，对身体有害或者越难打破诅咒离开）
+
+### 27.【Anakin】《Wrong Side of Heaven》Lyrics
+
+(by five finger death punch)
+
+I spoke to God today and She said that 
+
+She's ashamed
+
+What have I become?
+
+What have I done?
+
+I spoke to the devil today and he swears he's not to blame
+
+And I understood 'cause I feel the same
+
+
+
+Arms wide open
+
+I stand alone
+
+I'm no hero and I'm not made of stone
+
+Right or wrong
+
+I can hardly tell
+
+I'm on the wrong side of Heaven and the righteous side of hell
+
+The wrong side of Heaven and the righteous side
+
+The righteous side of hell
+
+
+
+I heard from God today and She sounded just like me
+
+What have I done, and who have I become?
+
+I saw the devil today and he looked a lot like me
+
+I looked away, I turned away
+
+### 28.【Anakin中心】《Remember Everything》Lyrics
+
+（人称换掉就行，Mother不变，Sister换成帕德梅，Brother换成欧比旺，Father换成奎刚）
+
+(by five finger death punch)
+
+Oh, Dear Mother, I love you
+
+I'm sorry I wasn't good enough
+
+Dear Father, forgive me
+
+'Cause in your eyes, I just never added up
+
+
+
+In my heart, I know I failed you
+
+But you left me here alone
+
+If I could hold back the rain, would you numb the pain?
+
+'Cause I remember everything
+
+If I could help you forget, would you take my regrets?
+
+'Cause I remember everything
+
+
+
+Oh, Dear Brother, just don't hate me
+
+For never standing by you or being by your side
+
+Dear Sister, please don't blame me
+
+I only did what I thought was truly right
+
+
+
+It's a long and lonely road
+
+When you know you walk alone
+
+
+
+I feel like running away
+
+I'm still so far from home
+
+You say that I'll never change
+
+But what the fuck do you know?
+
+I'll burn it all to the ground before I let you in
+
+Please forgive me; I can't forgive you now
+
+I remember everything
+
+
+
+It all went by so fast
+
+I still can't change the past
+
+I always will remember everything
+
+If we could start again
+
+Would that have changed the end?
+
+We remember everything
+
+Everything
+
+### 29.【obikin】《Walk Away》Lyrics
+
+(by Five Finger Death Punch)
+
+I'm sorry for the demon I've become
+
+You should be sorry for the angel you are not
+
+I apologize for the cruel things that I did
+
+But I don't regret one single word I said
+
+
+
+Just walk away, make it easy on yourself
+
+Just walk away, please release me from this hell
+
+Just walk away, there's just nothing left to feel
+
+Just walk away, pretend that none of this is real
+
+
+
+Forgive me if I told you that I cared
+
+Would you be sorry if I swore that I'd be there
+
+Please forgive me for laughing when you fall
+
+I'm so sorry but I never cared at all
