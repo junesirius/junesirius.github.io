@@ -725,3 +725,7 @@ Joel=欧比旺，Ellie=安纳金
 （来自ep1，可能是个现代AU初遇梗）
 
 结局最后一句要是：“You are a Jedi too? Pleased to meet you.”
+
+### 35.【obikin】编头发
+
+又在脑二十多岁的老王给十岁的小安编学徒辫，被两个人都要萌出血了
