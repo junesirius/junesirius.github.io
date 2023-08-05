@@ -353,3 +353,28 @@ We shouldn't have fought this war of lies
 After years of closing our eyes the war had to end
 
 We've never reached our land of the free
+
+### 19.【Anakin个人向】《F.T.L.》Lyrics
+
+(by Keldian)
+
+As the engines start to spin
+
+Childhood dreams from deep within
+
+
+
+My mind is so clear
+
+Stand fast show no fear
+
+Engage
+
+
+
+Heavier than a star, no place is too far
+
+Not even space and time can touch this ship of mine
+
+Split second darkness and the blaze of a foreign sun
+
