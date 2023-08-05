@@ -799,3 +799,9 @@ AO在b612上清理猴面包树种子
 并排坐着看日落
 
 （好童话风，好可爱）
+
+### 41.【obikin】《波西米亚狂想曲》Lyrics
+
+(by Queen)
+
+Mama I killed a man today
