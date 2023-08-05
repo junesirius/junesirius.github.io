@@ -180,13 +180,176 @@ We will be free when it ends
 
 （脑完才看到《穆斯塔法没有星星》，设定有点重合）
 
-### 9. 维达带娃
+### 9.【走天父子】维达带娃
 
 维达带娃AU下卢克上小学，然后大家都知道他爸是维达，都很害怕不敢跟他玩，然后卢克小学第一天回家很难过不想再去了
 
-### 10. Captainswan代餐
+### 10.【obikin】Captainswan代餐
 
 欧比旺不敢爱因为爱的人都失去了
 
 安纳金：I'm a survivor
 
+### 11.【走天兄妹】卢克莱娅
+
+（吃沙剧有感）
+
+就算安妮没陪儿子女儿一起长大，如果卢克和莱娅是一起长大的，会怎么样
+
+卢克肯定会是个妹宠
+
+有哥哥顶着，莱娅可能会更皮x
+
+### 12. HP AU
+
+On his 11th birthday, they had an unexpected guest. "Anakin Skywalker, you are a wizard." the stranger told him.
+
+### 13. 霍比特人AU
+
+In a quiet corner of the galaxy, in the remote planet of Tatooine, there lived a young man named Anakin Skywalker. He was an unassuming individual, content with his simple life in the desert town of Mos Espa. Anakin had never ventured far from the sandy dunes and twin sunsets that colored his days. Little did he know that his life was about to take an unexpected turn, and he would embark on a journey that would test his courage and change the course of history.
+
+One fine evening, as Anakin sat outside his humble abode, gazing up at the endless expanse of stars, a shadowy figure approached him. It was a mysterious old wizard known as Obi-Wan Kenobi, clad in tattered robes and carrying a staff that glowed with an otherworldly light.
+
+"Anakin Skywalker," the wizard spoke, his voice filled with a hint of urgency, "I bring tidings of great importance. Your presence is requested in the distant realm of the Jedi Council."
+
+Anakin's eyes widened with astonishment. He had heard tales of the Jedi Knights, revered warriors who harnessed the power of the Force to maintain peace and justice. Never did he imagine that he would be summoned by such legendary figures.
+
+"But I am but a simple farmer, Master Kenobi," Anakin replied, his voice tinged with uncertainty. "What purpose could the Jedi Council have for someone like me?"
+
+Obi-Wan Kenobi smiled, his eyes twinkling with a mixture of wisdom and mischief. "Ah, my dear Skywalker, there is more to you than meets the eye. The Force flows strong within you, and a great destiny awaits you. You possess the power to bring balance to the galaxy."
+
+Anakin's heart swelled with a mix of fear and excitement. He had always yearned for something more, a life beyond the confines of Tatooine. This was his chance to embark on an adventure, to discover his true potential.
+
+"Will you join me on this perilous journey, Anakin Skywalker?" Obi-Wan Kenobi asked, extending his weathered hand.
+
+Anakin hesitated for a moment, the weight of his decision pressing upon him. But deep down, he knew that his path lay beyond the boundaries of his desert home. With a determined resolve, he grasped the wizard's hand, sealing his fate.
+
+"I will accompany you, Master Kenobi," Anakin declared, his voice filled with newfound determination. "Together, we shall face whatever trials await us and bring hope to a galaxy in need."
+
+And so, under the shimmering starry sky, Anakin Skywalker bid farewell to his familiar world, embarking on an extraordinary journey that would test his courage, forge unbreakable bonds, and reveal the hero within. As he stepped into the unknown, he had no idea of the incredible adventures, strange creatures, and epic battles that awaited him. The galaxy was vast and filled with wonders, and Anakin Skywalker, the unlikely hero from Tatooine, was about to become a legend in his own right.
+
+### 14.【走天家】黑化卢克，走天家混乱相爱相杀
+
+突然想看卢克为了保护妹妹黑化杀了ppt然后父子统治银河系，也是一种HE呢！
+
+然后，莱娅带着反抗军杀过来
+
+卢克：我是你哥哥
+
+安妮：我是你爸爸
+
+莱娅：……
+
+然后莱娅去学原力（突然发现，尤达和老王这时候都走了，她还能跟谁学？跟幽灵老王吧就），学成回来对峙卢克和安妮
+
+本来绝对没可能赢的但是因为他俩都太爱她了所以双双被莱娅杀了
+
+死前三个人泪汪汪表真心
+
+安妮：对不起，我本来可以给你一个家的
+
+安妮对卢克：I failed you
+
+蕾娅对卢克安妮：I hate you
+
+卢克对蕾娅：I failed you
+
+蕾娅对卢克：It's not your fault
+
+（啊好痛，想看
+
+### 15.【obikin】AI/机器人安妮
+
+AI AU/西部世界AU，机器人安妮
+
+慢慢被老王注入情感
+
+调试多了以后，突然有天自己琢磨出了爱
+
+老王：我没给你输入过这个呀
+
+安妮：可是我学会了
+
+### 16. 希腊神话AU
+
+（来自维基：“生于塔图因的安纳金也被称作“太阳之子”（Son of the suns）”）
+
+安纳金：阿波罗之子
+
+可以走特洛伊AU？
+
+### 17.【obikin】环太平洋AU
+
+精神连接打架时候趁机颅内聊天
+
+安妮：边打架边在想各种奇怪事情
+
+老王：你专心点！（但是忍不住/被迫跟着看那些奇怪事情）
+
+然后脑着脑着安妮就开始想老王了
+
+老王被迫看着在他颅内的自己hhhh
+
+老王：别想了，我就在这里
+
+老王：你脑子里天天在想什么啊！！！！！
+
+### 18.【obikin】《Heavenly Hell》Lyrics
+
+(by Instanzia)
+
+Here's a story of a dream gone bad
+
+A tale of hate surrounded love
+
+In this dream I believed a new world 
+
+would come to me
+
+
+
+So many nice thoughts, so futile
+
+I felt so full of faith
+
+In this dream I believed a new world 
+
+would come to me
+
+
+
+Then the whole world shifted shapes and hate made its way
+
+Their twisted minds kept telling evil lies
+
+Then I tried to keep believing love's stronger than hate
+
+I hoped we'd reach our land of the free
+
+
+
+Deep in my mind I knew that it was bound to fail
+
+Some moments of illusion kept it alive
+
+
+
+There's so much I regret, all the things I could have done
+
+I have been blind all that time
+
+But now I know I should have followed my heart
+
+Out of this Heavenly Hell
+
+
+
+From the first day the battle was lost 
+
+'cause narrow minds never surrender
+
+We shouldn't have fought this war of lies
+
+After years of closing our eyes the war had to end
+
+We've never reached our land of the free
