@@ -719,3 +719,9 @@ Joel=欧比旺，Ellie=安纳金
 （突然共情到爆哭，在成长的很多阶段都听到过这句话，“这并不是容易的事，读博的生活是十分艰难的”
 
 （安妮：“But I want to do it.”
+
+### 34.【obikin】初遇梗？
+
+（来自ep1，可能是个现代AU初遇梗）
+
+结局最后一句要是：“You are a Jedi too? Pleased to meet you.”
