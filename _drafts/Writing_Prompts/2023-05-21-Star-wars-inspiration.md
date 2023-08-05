@@ -393,3 +393,53 @@ ep4维达着急杀欧比旺那天，他的一双儿女差点都在垃圾池子�
 ### 21.【obikin】captainswan《Ensename》代餐
 
 喝醉的心烦意乱的安纳金摘了假手抱怨这让他残肢末端发疼，欧比旺这才开始意识到他在Geonosis之后就没见过他在他面前摘下过机械假手，残肢让他心疼，安纳金也很少露出这样脆弱的一面
+
+### 22.【Anakin个人】《Dragonslayer》Lyrics
+
+(by Dragony)
+
+Living under shadows
+
+Beneath the wings of blackest night
+
+A chosen one of fire comes
+
+To stand up to the fight
+
+The lion of our vengeance
+
+A saviour in the sun
+
+Bearing sword of legacy
+
+The Chosen One has come
+
+
+
+Raise the eye of the storm today
+
+Ride the wings of the night!
+
+Lift the curse of the dark dismay
+
+Chosen one to the fight!
+
+
+
+Lionheart
+
+Not saved by poem nor prayer
+
+Bind the night
+
+You are the Dragonslayer
+
+
+
+Firelight
+
+Is guiding the way of the strayer
+
+And blind the night
+
+He is the Dragonslayer
