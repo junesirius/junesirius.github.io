@@ -443,3 +443,47 @@ Is guiding the way of the strayer
 And blind the night
 
 He is the Dragonslayer
+
+### 23.【obikin】《Eden》Lyrics
+
+（特别适配穆斯塔法）
+
+(by Battle Beast)
+
+I see the darkness in your eyes
+
+I feel the spark of life go weaker in your restless soul
+
+I can hear your fading cries
+
+A relentless wail now going on
+
+And on
+
+
+
+When the tears are in your eyes
+
+You sing a drunken lullaby
+
+And the weight of the world
+
+Comes crashing on your spine
+
+Now remember what's inside
+
+The warmth that made you smile
+
+And rise up high
+
+Towards the golden sky
+
+
+
+Blood is gushing from your palms
+
+Your feeble heart is breaking, your soul reduced to ash
+
+Pictures racing through your mind
+
+Dearest memories from not so long ago
