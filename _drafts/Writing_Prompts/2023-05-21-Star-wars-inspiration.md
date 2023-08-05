@@ -200,11 +200,11 @@ We will be free when it ends
 
 有哥哥顶着，莱娅可能会更皮x
 
-### 12. HP AU
+### 12.【重写SW】HP AU
 
 On his 11th birthday, they had an unexpected guest. "Anakin Skywalker, you are a wizard." the stranger told him.
 
-### 13. 霍比特人AU
+### 13.【重写SW】霍比特人AU
 
 In a quiet corner of the galaxy, in the remote planet of Tatooine, there lived a young man named Anakin Skywalker. He was an unassuming individual, content with his simple life in the desert town of Mos Espa. Anakin had never ventured far from the sandy dunes and twin sunsets that colored his days. Little did he know that his life was about to take an unexpected turn, and he would embark on a journey that would test his courage and change the course of history.
 
@@ -270,7 +270,7 @@ AI AU/西部世界AU，机器人安妮
 
 安妮：可是我学会了
 
-### 16. 希腊神话AU
+### 16.【群像】希腊神话AU
 
 （来自维基：“生于塔图因的安纳金也被称作“太阳之子”（Son of the suns）”）
 
@@ -671,3 +671,18 @@ obikin两个人都是这么能打的人，在末日AU里也很容易活下来的
 ### 31.【obikin】《The Last of Us》代餐
 
 Joel=欧比旺，Ellie=安纳金
+
+### 32.【obikin】《流泪的大理石像》
+
+![](assets/images/Star_Wars/2023-06-16-anakin.jpg)
+
+绝地圣殿里长久地放着一尊大理石像。
+
+……
+
+（啊但是现在好忙没空写下来
+
+（有点道林格雷的画像那种感觉，适合写成有点王尔德风格的故事，也可以偷学柠檬写过的68尊石像的故事
+
+（反正结局是欧比旺亲吻了大理石像的额头，等他走了之后，石像在流泪
+
