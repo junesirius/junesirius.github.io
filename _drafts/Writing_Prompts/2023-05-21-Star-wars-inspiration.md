@@ -661,3 +661,13 @@ Would you be sorry if I swore that I'd be there
 Please forgive me for laughing when you fall
 
 I'm so sorry but I never cared at all
+
+### 30.【obikin】末日AU
+
+末日AU，僵尸世界大战那种，或者生化危机，或者The last of us（还没看但是看简介感觉很容易代）
+
+obikin两个人都是这么能打的人，在末日AU里也很容易活下来的吧
+
+### 31.【obikin】《The Last of Us》代餐
+
+Joel=欧比旺，Ellie=安纳金
