@@ -204,6 +204,14 @@ We will be free when it ends
 
 On his 11th birthday, they had an unexpected guest. "Anakin Skywalker, you are a wizard." the stranger told him.
 
+**《论魔戒、星战、HP的适配度》**
+
+可以排列组合写开局片段：
+
+- 魔戒AU的星战、HP AU的星战
+- 星战AU的魔戒、HP AU的魔戒
+- 星战AU的HP、魔戒AU的HP
+
 ### 13.【重写SW】霍比特人AU
 
 In a quiet corner of the galaxy, in the remote planet of Tatooine, there lived a young man named Anakin Skywalker. He was an unassuming individual, content with his simple life in the desert town of Mos Espa. Anakin had never ventured far from the sandy dunes and twin sunsets that colored his days. Little did he know that his life was about to take an unexpected turn, and he would embark on a journey that would test his courage and change the course of history.
