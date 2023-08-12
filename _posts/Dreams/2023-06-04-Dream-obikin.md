@@ -5,7 +5,7 @@ date: 2023-06-04 11:49
 categories: ["梦记"]
 characters: ["Obi-Wan Kenobi", "Anakin Skywalker"]
 tags: ["梦记", "obikin", "星球大战", "好故事"]
-pov: 第一人称视角
+pov: 第一人称
 origin: 个站
 ---
 
