@@ -1476,3 +1476,9 @@ O=女主，V=男主
 O?: There is never enough time.
 
 V: It has to be.
+
+### 117. 星战AU
+
+绝地Ox西斯V
+
+V到最后时刻反水洗白，其实一直是间谍之类的身份（有点东方承诺的感觉）
