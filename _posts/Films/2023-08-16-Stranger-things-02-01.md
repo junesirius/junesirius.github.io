@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【观后感】怪奇物语 S02E01
+title: 【观后感】怪奇物语 S02E01（Mileven）（弹幕）
 date: 2023-08-16 21:09
 categories: 观后感
 characters: ["Eleven", "Mike Wheeler", "Jim Hopper"]
-tags: ["观后感", "怪奇物语", "弹幕"]
+tags: ["观后感", "怪奇物语", "弹幕", "Mileven"]
 pov: 第一人称视角
 origin: 个站
 ---

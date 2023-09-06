@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【观后感】怪奇物语 S01E02
+title: 【观后感】怪奇物语 S01E02（惊悚元素）（弹幕）
 date: 2023-08-09 21:50
 categories: 观后感
-characters: ["Eleven", "Mike Wheeler"]
-tags: ["观后感", "怪奇物语", "弹幕"]
+characters: ["Eleven", "Mike Wheeler", "Jim Hopper"]
+tags: ["观后感", "怪奇物语", "弹幕", "Mileven"]
 pov: 第一人称视角
 origin: 个站
 ---

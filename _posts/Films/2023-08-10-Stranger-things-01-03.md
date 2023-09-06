@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【观后感】怪奇物语 S01E03
+title: 【观后感】怪奇物语 S01E03（弹幕）
 date: 2023-08-10 21:33
 categories: 观后感
 characters: ["Joyce Byers"]

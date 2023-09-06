@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【观后感】怪奇物语 S02E02
+title: 【观后感】怪奇物语 S02E02（弹幕）
 date: 2023-08-16 22:13
 categories: 观后感
 characters: ["Eleven", "Jim Hopper"]
