@@ -14,39 +14,37 @@
 
 \* 标题私心：LA又称天使之城，但也有人称它为恶魔之城。
 
-
-
 ## 设定
 
 （黑镜304圣朱妮佩诺AU）
 
-现实中的V是个80岁的老人，已经经历过完整的满足的一生，有过妻儿（妻子Christine结婚49年，2年前去世，儿子39岁时去世）。自己也大限将近，癌细胞蔓延全身，行动受限，被养老院提供了虚拟现实“天使之城”，出于好奇地进行尝试。
+现实中的V是个80岁的老人，已经经历过完整的满足的一生，有过妻儿（妻子Christine结婚49年，2年前去世，儿子Henry39岁时去世）。自己也大限将近，癌细胞蔓延全身，行动受限，被养老院提供了虚拟现实“天使之城”，出于好奇地进行尝试。
 
 现实中的O年龄61岁，从21岁的意外坠楼之后就卧床，只能通过虚拟现实“天使之城”来活动，重度依赖。
 
-（当前时间2038年）
+（当前时间2038年，O出生1977，V出生1958）
 
 虚拟现实中的O21岁，V27岁。
 
 ## 大纲
 
-梗概：文章结构情节布局完全按照304来走，前半篇文完全描写是虚拟现实中的交互方式但是要写得看不出破绽，互相倾心，V一开始还有所保留，但O想要尽兴，V想到这全是虚拟的就也同意了。直到V要求去现实里拜访O，然后跟O结婚帮他安乐死，实现常住在虚拟现实。O想要V为他留下来，但V不愿意，直到O失去希望之后突然出现，The End.
+梗概：文章结构情节布局完全按照304来走，前半篇文完全描写是虚拟现实中的交互方式但是要写得看不出破绽（但是也有铺垫），互相倾心，V一开始还有所保留，但O想要尽兴，V想到这全是虚拟的就也同意了。直到V要求去现实里拜访O，然后跟O结婚帮他安乐死，实现常住在虚拟现实。O想要V为他留下来，但V不愿意，直到O失去希望之后突然出现，The End.
 
 
 
-V第一次到天使之城，有点小心翼翼，在酒吧“光之吧”看见很多复古游戏机，喝低度数酒精饮料。看见O在舞池里跳舞，然后被一个女孩（Miranda）纠缠开始躲，躲到V旁边让他帮忙配合一下，两人搭上话。O想要进一步推进了解，V反撩，都心动。但是因为时间关系当天没有太多机会继续更进一步。（时间1986年）
+V第一次到天使之城，有点小心翼翼，在酒吧“光之吧”看见很多复古游戏机，喝低度数酒精饮料。看见O在舞池里跳舞，然后被一个女孩（Miranda）纠缠开始躲，躲到V旁边让他帮忙配合一下，两人搭上话。O想要进一步推进了解，V反撩，都心动。但是因为时间关系当天没有太多机会继续更进一步。（时间1986年《星战》）
 
 第二周，O在见面之前精心打扮。V进来看见O在跟另一个金发年轻男人聊天，O看见他之后借口脱身。两人迅速升温，试探，跳舞，亲吻。O提到自己要结婚了（Katy）。（提到“泥潭”）
 
 第三周，V开始躲O，O去泥潭找。被人提醒可以去不同时间找。
 
-第四周（1969《虎豹小霸王》）没找到。O去了V家，也没找到。
+第四周（1969《虎豹小霸王》）没找到。
 
-第五周（1958《控方证人》）没找到
+第五周（1953《罗马假日》）没找到。O去了V家，也没找到。
 
-第六周（1940《乱世佳人》，好莱坞黄金时代）没找到
+第六周（1940《乱世佳人》，好莱坞黄金时代）没找到。
 
-第七周（1999）找到了，O问V为什么躲，两人谈话，有矛盾，V谈到自己身世家庭。V提出见面。（相信什么不相信什么，这是不相信的；什么是永远）
+第七周（1998，O瘫痪时间）找到了，O问V为什么躲，两人谈话，有矛盾，V谈到自己身世家庭。V提出见面。（相信什么不相信什么，这是不相信的；什么是永远）
 
 现实，V去找O，看见O瘫痪，从护士Katy地方知道了O想要用结婚安乐死。进入虚拟现实求婚，帮助安乐死。
 
@@ -58,11 +56,347 @@ V墓地，享年80，和妻儿葬在一起。
 
 O开车去V家，V从家里出来上了O的车。一起驶向天使之城。
 
-“天使之城”的服务器里两个相近的圆环。
+“光之吧”系统，“天使之城”的服务器里两个相近的圆环。
+
+## 剧本摘录
+
+### A little lively for dead people; I'm done with attachments
+
+Kelly: How many girls you think there are in San Junipero? Hundreds? Thousands?
+
+Wes: I don't care --
+
+Kelly: I'm saying there's plenty of other girls for you Wes. Ones you could actually settle down with.
+
+Wes: The locals, they're like dead people --
+
+Kelly: A little lively for dead people --
+
+Wes: I don't want some boring romance like, Jesus, put us in the retirement home, deal --
+
+...
+
+Kelly: I'm done with attachments. I went down that road. For a long time. And it's -- I can't do that again. No roots.
+
+Kelly: We had fun. I'm sorry. Enjoy the town for God's sake.
+
+### When did you know you liked women?
+
+Yorkie: When did you know? That you liked women?
+
+Kelly: Uh, I like men too. Equal rights!
+
+Yorkie: Okay. But when did you know? Did you always... know?
+
+Kelly: I was married to a guy. A long time I was married. I always "knew", I mean, I would be attracted to other girls, co-workers, friends. Some waitress who'd serve me... There were crushes. My God were there crushes.
+
+Kelly: Never acted on any of it. Never did anything. I was in love with him. I really was in love with him.
+
+Kelly: But he chose not to stick around.
+
+Kelly: So now it's me. And I'm passing through. And before I leave I'll have a good time. I'm just gonna have a good time.
+
+### Maybe you should feel bad, or at least feel something
+
+Yorkie: You hid from me.
+
+Kelly: 1) I did not, 2) I owe you zero and 3) see point 2.
+
+Yorkie: It's not about who owes who, it's about manners.
+
+Kelly: Hah!
+
+Yorkie: You don't know who I am. You don't know what this means.
+
+Kelly: This means fun. Or it should do. And *this*. This is not fun. Okay. This is not fun.
+
+Kelly: Okay. Look. Don't.
+
+Yorkie: So you don't feel bad?
+
+Yorkie: Maybe you should feel bad. Or at least feel something.
+
+### I don't want to like anyone, you've been totally inconveinent
+
+Yorkie: How many of them are dead? Like what percentage?
+
+Kelly: As in full timers? Eighty. Eighty-five.
+
+Kelly: I'm sorry.
+
+Yorkie: I'm not gonna jump --
+
+Kelly: I know, I'm sorry whatever. It's -- in the time I've been here -- I'm just visiting, you know? And it's -- I didn't want to... I said I wouldn't -- I don't know -- "do"... feelings... You freaked me out.
+
+Kelly: I don't want to "like" anyone. So you've been... just totally fucking inconvenient. Is that -- I mean --
+
+Kelly: I don't know how long there is, and I can't -- I -- I wasn't prepared for this, for you, for wanting something so --
+
+### Let me come visit you, I wanna say hi
+
+Yorkie: Can't believe I'm getting married next week.
+
+Kelly: Next week? To "nice" Greg. Sure you're going through with that?
+
+Yorkie: I have to.
+
+Kelly: You have to?
+
+Yorkie: He really is a good guy. I mean my family don't approve but they can't stop us. I know he pities me, that pisses me off, and that's not fair...
+
+Kelly: Shhh. (Kelly kisses her cheek.)
+
+Yorkie: You said you didn't know how long there is. Back on the roof. "I don't know how long there is". What was that?
+
+Kelly: They tell me three months. It's spread basically everywhere. They've said three months before, six months ago, so y'know, what do they know?
+
+Kelly (looks at the cigarette in her fingers): Doesn't even taste of anything.
+
+Yorkie: So -- you're gonna stay here? Pass over, go full time?
+
+Kelly: No. When I'm done, I am done.
+
+Yorkie: But that's -- I mean why --?
+
+Kelly: Richard -- that's -- my husband's name was Richard -- he died just two years ago. So he had the opportunity to stay in San Junipero, pass over. Didn't take it. Didn't *want* to take it.
+
+Yorkie: Why wouldn't anyone take it?
+
+Kelly: He -- we both -- he had his viewpoint. There were things he believed, and things he didn't believe *in*, and this place was one of them. Wouldn't even visit, take the trial run.
+
+Yorkie: Shit, I wasn't sure I wanted to try it out, but -- like without this place I'd <u>never</u> have met someone like you --
+
+Kelly: Yeah you could have --
+
+Yorkie: I wouldn't --
+
+Kelly: We could've met outside all this --
+
+Yorkie: You would not have got me at all. At all. It you really met me, I mean if you REALLY met me, you wouldn't like me --
+
+Kelly: Try me.
+
+Yorkie: -- or you wouldn't -- you wouldn't spend time with me -- you'd --
+
+Kelly: Try me.
+
+Yorkie: There's no point. Where are you? Houston...
+
+Kelly: Carson City. Nevada.
+
+Kelly: So come one, I "showed you mine". Where are you? I can just look it up --
+
+Yorkie: Santa Rosa. CA.
+
+Kelly: That's no distance --
+
+Yorkie: It's, what, 200 miles --
+
+Kelly: I like to travel. When they let me, which is not often.
+
+Yorkie: So they won't let you anyway and --
+
+Kelly: Oh I'll <u>make</u> them let me --
+
+Yorkie: I don't want you to. I don't want you to see me. I mean I'm scared --
+
+Kelly: And I'm dying. I am dying. Whatever you are can't scare me. Let me come visit. I wanna say hi.
+
+### She's passing over?; Uploaded to clouds, sounds like heaven
+
+Greg: You know I think it's great you came in person before she passes over; I mean even her folks don't visit no more so --
+
+Elder Kelly (shocked): She's *passing over*?
+
+Greg: She didn't tell you.
+
+Elder Kelly: No. No she did not. Said she was just visiting.
+
+Greg: More like sampling the trial version.
+
+Greg: I mean I only known her the past three years. We talk on the combox. She told you how she ended up quadriplegic? And how long she's been that way?
+
+(Kelly's face says no, she didn't.)
+
+Greg: So one night, she's 21 -- comes out to her folks. They're a little "uptight" about it you might say. Tell her they don't want a gay daughter. It's not natural and so forth. They fight, she gets in her car, runs it off the road. Boom.
+
+Elder Kelly: When she was 21?
+
+Greg: More'n 40 years back. It's been her whole lifetime basically. So the whole San Junipero system's been a big deal for her. The biggest deal.
+
+Greg: The hospital didn't have a subscription -- some of us held a crowd-sourcing campaign. Took us a year but we got the money. Course till she passes over, goes permanent, she's got the five-hour weekly limit - but I guess you're the same.
+
+Elder Kelly: They ration it out. They don't trust us with more.
+
+Greg: I mean they say you go crazy if you have too much. Never leave your seat, disassociate your body from your mind...
+
+Elder Kelly: Like that doesn't happen in every senior home already. System's there for therapeutic reasons, officially, at my place. "Immersive Nostalgia Therapy". "Plunge you into a world of memories"; helps with Alzheimer's. That's what they say. That's not my problem incidentally.
+
+Greg: Small mercies.
+
+Elder Kelly: So. This "marriage"...?
+
+Greg: State's got a triple-lock on euthanasia cases. You gotta have sign off from the doc, the patient, and a family member. Stops people passing over just 'cause they prefer San Junipero flat out.
+
+Elder Kelly (sardonically): Who'd want to leave all this wonder?
+
+Greg: Heh. Anyhow Yorkie's family? Big time religious. Don't come fuckin' see her -- pardon my tongue -- but they're big time religious. And they won't sign.
+
+Elder Kelly: But a spouse can override that. Hence the wedding bells.
+
+Greg: You got it. Got a pastor coming in tomorrow A.M., she's scheduled to pass tomorrow afternoon.
+
+Elder Kelly: "Scheduled to pass". Let's just call it dying.
+
+Greg: If you <u>can</u> call it dying.
+
+Elder Kelly: Uploaded to the cloud. Sounds like heaven.
+
+### Wanna marry me instead?
+
+Kelly: So I spoke to Greg.
+
+Yorkie: Uh-huh.
+
+Kelly: You're passing over tomorrow.
+
+Yorkie: Couple hours after the wedding. So I guess technically I'm honeymooning here. Forever. I'm sorry I didn't tell y--
+
+Kelly: I'm gonna say something crazy.
+
+Yorkie: Okay.
+
+Kelly (goes down on one knee. right there) Wanna marry me instead?
+
+Yorkie: (looks stunned)
+
+Kelly: Just -- Greg seems great, but -- why not someone you've... Connected with...?
+
+Yorkie: (drops down, and kisses her)
+
+Kelly: That a yes?
 
 
 
+Pastor: .. to be your lawfully wedded wife, to have and to hold, in sickness and in health, in good times and woe, for richer or poorer...
 
+### this fucking graveyard you're so in love with
+
+Yorkie (looks up at the moon, and back out at the lights): Looks so real.
+
+Yorkie (raps on the hood): Feels so real.
+
+Yorkie: (turns around and kisses Kelly. Then jumps off the hood and starts dancing in the dirt)
+
+Kelly (laughing): What are you *doing*?
+
+Yorkie: I love it! I just -- (she does a cartwheel and ends up looking out into the night. The wind blowing through her hair) I love it.
+
+Kelly: You've been here before.
+
+Yorkie: Yeah but now I *live* here.
+
+Yorkie (turns to look at Kelly, smiling): Be with me.
+
+Kelly: I'm with you now.
+
+Yorkie: That's not what I mean.
+
+(Kelly tenses up.)
+
+Yorkie: Pass over. When you're ready, when it's your time. Pass over.
+
+Kelly: Yorkie --
+
+Yorkie: Stay here, with me --
+
+Kelly: Can we just enjoy tonight --
+
+Yorkie (checking watch): It's ten to midnight, you're out of here in ten and we gotta wait a week to meet again.
+
+Kelly: You know, I'm just a visitor --
+
+Yorkie: For how long? Couple months? Then what?
+
+Kelly: We're not discussing this --
+
+Yorkie: Then you'll be gone, just *gone*. You could have forever.
+
+Kelly: Forever, who can even make sense of forever --
+
+Yorkie: However long you want then, you can remove yourself like that -- (click fingers) It's not a trap, it's -- look at it. (gestures around. raps the hood of the car again, insistently.) Touch it.
+
+Kelly (gets off the car, starts heading for the driver's door): I'm going.
+
+Yorkie (grabs her arms, turns her around. takes Kelly's hands and puts them on Yorkie's face) It's real. This is real. And this. (holds gestures to the wedding ring on her finger, smiling) Uh-huh?
+
+Kelly: C'mon, you know that's a gesture --
+
+Yorkie: You married me --
+
+Kelly: To help you pass over, as a... kindness --
+
+Yorkie: Not so kind to leave.
+
+Kelly breaks off.
+
+Yorkie: Look, I'm sorry but -- I've got this chance, we got this chance -- I want to share it with you.
+
+Kelly (heading back to the car): I said I made my choice.
+
+Yorkie: What is it? What, you feel bad 'cause your husband isn't here?
+
+Kelly: Don't.
+
+Yorkie: Well that was <u>his</u> choice. He <u>chose</u> to turn this down --
+
+Kelly: Please --
+
+Yorkie: It's like he left you. I mean he could've passed over here but, no -- he left you.
+
+(That makes Kelly instantly angry. Hard to control it.)
+
+Kelly: You don't know what you're saying.
+
+Yorkie: You should be mad at him, not whipping yourself with guilt -- (Yorkie goes to take her hand again)
+
+Kelly: Get off me.
+
+Yorkie (tries to pull her back): You can't see it - what he did, it was selfish, actually --
+
+(Kelly slaps her. Yorkie holds her cheek, shocked.)
+
+Kelly (angry): Forty nine years. I was with him for <u>forty nine</u> years. You can't *begin* to imagine -- you can't know --
+
+Kelly: The bond. The commitment. The boredom. The yearning. The laughter. The love of it. The fucking love. You just cannot *know*. Everything we sacrificed. The years I gave him, the years he gave me. Did you think to ask? Did it occur to you to ask?
+
+Kelly: We had a daughter. Alison. Always difficult, always beautiful. Died at 39 years old, bless her heart, and Richard and I, we felt that heartbreak as *one*. You think you're the only person ever suffered, go fuck yourself.
+
+Yorkie: I didn't know --
+
+Kelly: Didn't think to. Y'know when he was dying Rich said to me -- when they offered him this, to pass over, pass through, serve eternity in this fucking graveyard you're so in love with -- he said how can I? When <u>she</u> missed out, how can I? And so he went.
+
+Kelly: And I wish I could believe he's with her now, they're together, but I don't. I believe they're nowhere. Like you said, gone. Just gone.
+
+(Yorkie goes to embrace her, but Kelly physically pushes her away.)
+
+Kelly: No. I pitied you and that's the truth. I pitied you. And now you give me some sales pitch about how fuckin' peachy "forever" could be ..
+
+Yorkie (moves closer): I'm sorry --
+
+Kelly: You want to spend forever somewhere nothing matters? End up like Wes; all those... lost fucks at the Quagmire, trying anything just to feel something? Go ahead. But I'm out. I'm gone.
+
+### Well okay then, all things considered I guess I'm ready
+
+Elder Kelly sits outside, watching the sun set. She seems at peace.
+
+Elder Kelly: Well okay then.
+
+Elder Kelly: All things considered I guess I'm ready.
+
+Laura: For what?
+
+Elder Kelly: For the rest of it.
 
 ## 格式
 
@@ -72,7 +406,7 @@ O开车去V家，V从家里出来上了O的车。一起驶向天使之城。
 
 \# 黑镜S03E04圣朱妮佩诺AU，剧情几乎完全照搬
 
-\# 这是一个关于虚幻、真实和永恒的故事。
+\# **这是一个关于虚幻、真实和永恒的故事。**
 
 （正文）
 
