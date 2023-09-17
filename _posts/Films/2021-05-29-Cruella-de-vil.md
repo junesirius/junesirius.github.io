@@ -4,7 +4,7 @@ title: 【观后感】《Cruella de Vil》（关于自我认知）
 date: 2021-05-29 03:28
 categories: ["观后感"]
 characters: ["Cruella de Vil"]
-tags: ["观后感", "摘录", "迪士尼", "黑白魔女库伊拉", "内疚", "才华", "精分", "黑暗面", "美", "自我认知", "自我惩罚", "自我保护", "善恶", "痛苦"]
+tags: ["观后感", "摘录", "迪士尼", "黑白魔女库伊拉", "内疚", "才华", "精分", "黑暗面", "美", "自我认知", "自我惩罚", "自我保护", "善恶", "痛苦", "剧本"]
 pov: 第三人称
 origin: 个站
 ---
@@ -193,9 +193,9 @@ PPS：这大片的红色，镜头和服饰的色彩运用美丽到让人窒息�
 ![](/assets/images/Cruella/10-10.png)
 <br>
 
-> They say there are five stages of grief: denial, anger, bargaining, depression, and acceptance. 
+> They say there are five stages of grief: denial, anger, bargaining, depression, and acceptance.
 > 
-> Well, I'd like to add one more: revenge. 
+> Well, I'd like to add one more: revenge.
 
 只是，她挥霍自己的才华仿佛有钱人挥霍他们的财富，才华成为了她复仇的工具，而非用以表达痛苦，创造艺术和瑰宝。她同样达到了震惊世界的目的，只是，不是这个世界一开始期盼的那种方式。不过话说回来，像Cruella这样的人，又有什么时候做过预期内的事呢。
 
@@ -245,7 +245,7 @@ PS：这一段石头姐的表演其实平心而论，总觉得有些过分浮夸
 > 
 > Her status.
 > 
-> Her confidence. 
+> Her confidence.
 
 Cruella的复仇宣言。莫名特别喜欢，就单独截出来了。
 
@@ -387,7 +387,7 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 > 
 > Everything's going... so well, mom.
 > 
-> I'm really trying to be the Estella that you wanted. Mostly. 
+> I'm really trying to be the Estella that you wanted. Mostly.
 > 
 > It's working.
 > 
@@ -415,17 +415,17 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 ![](/assets/images/Cruella/3-3-7.png)
 <br>
 
-> This was a confusing day. 
+> This was a confusing day.
 > 
-> My nemesis, is my real mother, and she killed my other mother. 
+> My nemesis, is my real mother, and she killed my other mother.
 > 
 > I guess you are always scared, won't you, that I'd be a psycho, like my real mom. humm?
 > 
-> That explains all the toning down, try and fit in stuff. 
+> That explains all the toning down, try and fit in stuff.
 > 
 > Love me into shape, I suppose was the plan.
 > 
-> **I tried, I really, I tried**, because... I loved you. 
+> **I tried, I really, I tried**, because... I loved you.
 > 
 > But the thing is, I'm not the sweet Estella, tried though it may. I never was.
 > 
@@ -551,7 +551,7 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 ![](/assets/images/Cruella/11-4-7.png)
 <br>
 
-> Here is to me. 
+> Here is to me.
 > 
 > Who the hell else would I drink to?
 > 
@@ -637,7 +637,7 @@ Artie之于Cruella大概就是这种一眼投缘的朋友吧，毕竟他们的�
 > 
 > \- Hmm, what do I get?
 > 
-> \- A night of fabulousness and mayhem, and possible death. 
+> \- A night of fabulousness and mayhem, and possible death.
 > 
 > \- Check, check, not quite sure about the death though.
 > 
@@ -663,7 +663,7 @@ Artie之于Cruella大概就是这种一眼投缘的朋友吧，毕竟他们的�
 
 > After what we all have done for her, what happened to that cute little girl crying on the bench?
 > 
-> She's gone. 
+> She's gone.
 
 朋友，是那个纵使不了解你的一切，无法认同你的所作所为，也仍然会全心全意支持你的人。
 
@@ -920,7 +920,7 @@ Estella VS Cruella：到底哪一个才是她真正的自我？
 
 But... what if that's the real me. That monster, is the real me, is who I really am.
 
-Can I accept it? Would I love it? Would I love myself for who I really am? Should I set it loose? 
+Can I accept it? Would I love it? Would I love myself for who I really am? Should I set it loose?
 
 那么是否，把它解放出来，让破坏欲释放出来，才是对我自己最有好处的方式？哪怕要成为一个反派，要成为一个残忍的人，至少，我不用再一直试图压抑一只囚禁不住的兽，不用再固执地克制着，忍耐着，自我厌恶着，又厌恶着这种自我厌恶……
 
