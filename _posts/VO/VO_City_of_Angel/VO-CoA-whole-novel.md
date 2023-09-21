@@ -718,7 +718,9 @@ Viggo看着秒针一格一格地跳转过去，Orlando紧紧盯着他，完全�
 
 1）《壮志凌云》上映时间为1986年
 
-2）《You Give Love A Bad Name》发布时间也为1986年。
+2）《You Give Love A Bad Name》发布时间也为1986年
+
+3）歌词有剧情暗示
 
 ### （二）
 
