@@ -4,7 +4,7 @@ title: 【梦记】颜色标记追杀目标
 date: 2023-09-17 13:30
 categories: ["梦记"]
 characters: ["Dustin Henderson"]
-tags: ["梦记", "怪奇物语"]
+tags: ["梦记", "怪奇物语", "追杀"]
 pov: 第一人称视角
 origin: 个站
 ---
