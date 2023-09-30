@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【梦记】灼烧变异的手臂（糟糕）
+title: 【梦记】灼烧变异的手臂（触感真实，糟糕）
 date: 2023-06-18 03:50
 categories: ["梦记"]
 characters: 
-tags: ["梦记"]
+tags: ["梦记", "触感"]
 pov: 第一人称视角
 origin: 个站
 ---

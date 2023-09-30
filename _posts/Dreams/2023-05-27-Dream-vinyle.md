@@ -4,7 +4,7 @@ title: 【梦记】黑胶（碎片）
 date: 2023-05-27 12:30
 categories: ["梦记"]
 characters: 
-tags: ["梦记"]
+tags: ["梦记", "碎片"]
 pov: 第一人称视角
 origin: 个站
 ---

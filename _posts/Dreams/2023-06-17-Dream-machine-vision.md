@@ -3,8 +3,8 @@ layout: post
 title: 【梦记】机器视觉
 date: 2023-06-17 01:30
 categories: ["梦记"]
-characters: 
-tags: ["梦记"]
+characters: ["Merlin"]
+tags: ["梦记", "工作"]
 pov: 第一人称视角
 origin: 个站
 ---

@@ -3,8 +3,8 @@ layout: post
 title: 【梦记】最深的恐惧（要记住它）
 date: 2023-06-07 01:58
 categories: ["梦记"]
-characters: 
-tags: ["梦记", "恐惧", "政治", "文革", "好故事"]
+characters: ["Lyra"]
+tags: ["梦记", "恐惧", "政治", "文革", "好故事", "原神"]
 pov: 第一人称视角
 origin: 个站
 ---

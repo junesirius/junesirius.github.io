@@ -4,7 +4,7 @@ title: 【梦记】火烈鸟，大象，和权力压迫（还不错）
 date: 2023-09-09 14:00
 categories: ["梦记"]
 characters: 
-tags: ["梦记"]
+tags: ["梦记", "奥兰多", "末日"]
 pov: 第一人称视角
 origin: 个站
 ---

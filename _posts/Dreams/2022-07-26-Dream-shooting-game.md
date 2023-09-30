@@ -4,7 +4,7 @@ title: 【梦记】第一人称沉浸式射击游戏
 date: 2022-07-26 08:57
 categories: ["梦记"]
 characters: 
-tags: ["梦记"]
+tags: ["梦记", "原神"]
 pov: 第一人称视角
 origin: 个站
 ---

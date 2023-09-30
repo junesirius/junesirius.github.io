@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【梦记】邀请出任推特CTO，和糖醋排骨
+title: 【梦记】邀请出任推特CTO，糖醋排骨
 date: 2023-08-05 10:05
 categories: ["梦记"]
 characters: ["Elon Musk"]

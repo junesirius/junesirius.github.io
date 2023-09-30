@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【梦记】爱书人的天堂
+title: 【梦记】爱书人的天堂（画面感）
 date: 2023-06-06 07:58
 categories: ["梦记"]
 characters: 

@@ -4,7 +4,7 @@ title: 【梦记】过山车和巧克力
 date: 2023-08-06 11:59
 categories: ["梦记"]
 characters: 
-tags: ["梦记"]
+tags: ["梦记", "原神"]
 pov: 第一人称视角
 origin: 个站
 ---
