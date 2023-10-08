@@ -966,4 +966,58 @@ obikin本来已经在一起了安已经把欧比永久标记了，然后两个�
 
 “既然选择走出我的生活，就不要再回来了啊”
 
-### 53.
+### 53.【obikin】《Chosen One》Lyrics
+
+（By Dreamtale）
+
+A journey through my mind
+
+Beyond the wheel of time
+
+To the darkness behind my eyes
+
+All those years in vain I fled
+
+My fate I tried to escape
+
+Lost my cause from the start
+
+
+
+Falling freely
+
+On wings of will
+
+My fate was sealed from the start
+
+
+
+Crying my pain
+
+For your sake
+
+For love that never fades away
+
+
+
+Mindless, like a pawn
+
+Misleaded by darkness
+
+Shadows, mere memories
+
+Of time that could have been
+
+Silently I face you
+
+Believing once again
+
+In my fate - chosen one
+
+### 54.【obi/vader】探监
+
+帝国崛起没多久就被搞塌了，维达被抓被关起来变成阶下囚，欧比旺还活着去探监
+
+（有点拔杯探监的味道）
+
+### 55.
