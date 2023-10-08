@@ -454,8 +454,6 @@ He is the Dragonslayer
 
 ### 23.【obikin】《Eden》Lyrics
 
-（特别适配穆斯塔法）
-
 (by Battle Beast)
 
 I see the darkness in your eyes
@@ -495,6 +493,12 @@ Your feeble heart is breaking, your soul reduced to ash
 Pictures racing through your mind
 
 Dearest memories from not so long ago
+
+（特别适配穆斯塔法）
+
+（可以代吃沙安+ep1混剪的O视角，更合适的是穆斯塔法没有星星安
+
+（drunken lullaby空耳能听成dragon lullaby，更好代了
 
 ### 24.【obikin】《绝地这两个字代表着什么》
 
