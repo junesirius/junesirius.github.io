@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【梦记】电影院（还行）
+title: 【梦记】电影院（还不错）
 date: 2023-06-11 14:59
 categories: ["梦记"]
 characters: 

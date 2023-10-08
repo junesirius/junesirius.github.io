@@ -4,7 +4,7 @@ title: 【梦记】国民党追捕
 date: 2023-07-23 11:28
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "追杀", "选择"]
+tags: ["梦记", "追杀", "选择", "政治"]
 pov: 第一人称视角
 origin: 个站
 ---

@@ -4,7 +4,7 @@ title: 【梦记】阿索卡，欧比旺，失控火车
 date: 2023-09-22 08:09
 categories: ["梦记"]
 characters: ["Ahsoka Tano", "Obi-Wan Kenobi"]
-tags: ["梦记", "阿索卡", "奥兰多"]
+tags: ["梦记", "阿索卡", "奥兰多", "失控感", "星球大战"]
 pov: 第一人称视角
 origin: 个站
 ---

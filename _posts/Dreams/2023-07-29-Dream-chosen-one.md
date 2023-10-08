@@ -4,7 +4,7 @@ title: 【梦记】Chosen One（还不错）
 date: 2023-07-29 11:00
 categories: ["梦记"]
 characters: ["Anakin Skywalker", "Harry Potter", "Hermione Granger"]
-tags: ["梦记", "Chosen One", "好故事", "怀孕"]
+tags: ["梦记", "Chosen One", "好故事", "怀孕", "救世主情结"]
 pov: 第一人称视角
 origin: 个站
 ---
