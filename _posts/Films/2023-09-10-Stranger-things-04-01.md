@@ -49,6 +49,14 @@ DND跟球赛混剪那里还是剪挺好的，前面Jonathan跟Nancy那里也是�
 
 哎，但是小十一信里还是假装一切都很好，只有Will知道她过得有多难，好心疼，她还是应该跟他们一起在Hawkins高中的QAQ 会好过很多，至少有朋友
 
+突然想起来Hopper如果没死的话，受尽委屈的小十一突然重新看见Hopper扑上去抱住……感觉又要哭了
+
+<br>
+
+Vecna当初屠城了但是居然没杀papa
+
+（可能他也just want papa to watch and see吧，就像他后来和小十一说的just want her to watch
+
 <br>
 
 查了一下才知道Max居然是The Whale的Ellie！完全没认出，小孩演技超棒的！而且非常娴熟演叛逆小女孩hh 好有前途啊童星出道已经有这么多高质量作品了
