@@ -936,4 +936,10 @@ Let us ride into the night
 
 Collie the fire of the chosen ones, and spellbind us all
 
-### 50.
+### 50.【obikin】自我惩罚的欧比旺
+
+脑了一个欧比旺自我惩罚因为他没忍住跟安纳金doi了，每天晚上没忍住诱惑，每天早上又觉得这样不对要自我惩罚减轻罪恶感
+
+这个安可能是个西斯安，混在圣殿学徒里了
+
+### 51.
