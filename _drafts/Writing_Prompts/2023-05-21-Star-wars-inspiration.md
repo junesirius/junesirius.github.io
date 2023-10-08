@@ -917,3 +917,23 @@ Mama I killed a man today
 结局俩人一起逃走了浪迹天涯，耶
 
 （居然直接嘴了个三部曲，有那么一点想写，但是感觉又会是一个大纲就超级长的玩意儿
+
+### 49.【obikin】《Time is Gone》Lyrics
+
+（by Breitenhold）
+
+Time is gone, for us all, for eternity
+
+Wat's the force beyond this prophecy?
+
+Enlighten us, friend! Tell the truth
+
+
+
+Open wide - gates of light
+
+Let us ride into the night
+
+Collie the fire of the chosen ones, and spellbind us all
+
+### 50.
