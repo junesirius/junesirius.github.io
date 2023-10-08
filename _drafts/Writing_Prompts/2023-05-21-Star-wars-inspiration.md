@@ -1020,4 +1020,26 @@ In my fate - chosen one
 
 （有点拔杯探监的味道）
 
-### 55.
+### 55.【obikin】欧比旺失控杀安纳金（喜欢，想写）
+
+（来源：
+
+That, and the fact he had nearly decapitated Bail Organa.
+
+It cannot happen again. I must not let that happen again. They can seal the light side away from me, but the Sith must never turn me to the dark. They must not make of me an instrument of murder.
+
+Better that he did die than permit that to happen.
+
+——《Wild Space》）
+
+突然想看夺魂的欧比旺真的杀了安纳金，like，literally把光剑捅进安纳金胸口了，然后清醒过来以后安纳金还剩一口气，旁边人都告诉他安纳金那时候完全可以躲可以反抗的但是他都没有，安纳金太相信欧比旺了，相信他无论如何不会伤害他的，他也知道安纳金那时候但凡反抗要杀他都是能做到的，要自我保护绰绰有余的，但是他的单纯小孩都没做，只是傻傻地站在他面前想要唤醒他，只在光剑真的捅进胸口时候才低头看一眼露出一点惊讶表情然后倒下去了。然后欧比旺清醒过来跪在安纳金身边泣不成声I'm sorry，安纳金还要劝他it's ok, it's not your fault。然后小孩闭上眼睛死了，从此欧比旺夜夜的噩梦都是安纳金死在他自己面前。（然后欧比旺就可以要么自杀要么进入黑暗面了）（安纳金么……可以安排一个见到奎刚然后变成原力鬼天天烦得要死继续跟着欧比旺晃来晃去赶也赶不走了）
+
+（如果想要甜的话就，捅完救回来了（奎刚你先等一下），安纳金在病床上：你看我不是没事呢么（躺床上还会开玩笑的）
+
+（欧比旺：下次再这样你该跑就跑，该杀我就杀我
+
+（安纳金：还有下次吗
+
+下次互砍可不就是……穆斯塔法了，嗯，还真的说到做到该杀就杀了呢你这次可真听话
+
+### 56.
