@@ -11,3 +11,9 @@ long_novels: 【原创】人类观察日记
 ---
 
 路边的花和种花的人
+
+<br><br>
+![](/assets/images/Alien_Journal/2022-08-11-Flower-1.jpg)
+<br>
+![](/assets/images/Alien_Journal/2022-08-11-Flower-2.jpg)
+<br>

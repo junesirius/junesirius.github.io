@@ -11,3 +11,7 @@ long_novels: 【原创】人类观察日记
 ---
 
 从头到脚都是粉色的女人
+
+<br><br>
+![](/assets/images/Alien_Journal/2023-10-10-Pink.jpg)
+<br>
