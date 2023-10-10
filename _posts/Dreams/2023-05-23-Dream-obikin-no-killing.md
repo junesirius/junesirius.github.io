@@ -4,7 +4,7 @@ title: 【梦记】欧比旺阻止安纳金杀人（碎片）
 date: 2023-05-23 07:41
 categories: ["梦记"]
 characters: ["Anakin Skywalker", "Obi-Wan Kenobi"]
-tags: ["梦记", "obikin", "星球大战", "碎片", "杀人"]
+tags: ["梦记", "obikin", "星球大战", "碎片", "杀人", "工作"]
 pov: 第一人称视角
 origin: 个站
 ---
