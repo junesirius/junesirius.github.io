@@ -1046,4 +1046,60 @@ Better that he did die than permit that to happen.
 
 下次互砍可不就是……穆斯塔法了，嗯，还真的说到做到该杀就杀了呢你这次可真听话
 
-### 56.
+### 56.【obikin】《Cry Out for a Hero》Lyrics
+
+（by Beast in Black）
+
+On this godforsaken planet
+
+Smoke and death in the opal mines
+
+Nuclear war-torn cities fill your sight
+
+Oh, it's a world of sadistic killers
+
+Men are tortured as they die
+
+
+
+Is there a savior
+
+Who can turn the tide
+
+
+
+All our lives are on the line
+
+We need a hero - Hero!
+
+Unknown avenger from afar
+
+He's the chosen one
+
+The savior of the people - Hero!
+
+From sorrow's land our bleeding hearts
+
+Cry out for a hero
+
+
+
+In the heat of revolution
+
+Blood runs everywhere
+
+For a brighter future's sake
+
+We dream and dare
+
+It is the hour of retribution
+
+End of dark despair
+
+
+
+Godsent avenger
+
+Electrifies the air
+
+### 57.
