@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【原创】人类观察日记（17）粉色谋杀案
+title: 【原创】人类观察日记（18）粉色谋杀案
 date: 2023-10-10 17:11
 categories: ["原创"]
 characters: 
