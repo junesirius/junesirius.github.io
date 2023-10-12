@@ -4,7 +4,7 @@ title: 【梦记】时间转换（还不错）
 date: 2023-05-28 12:30
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "时间逆转"]
+tags: ["梦记", "时间逆转", "普通故事"]
 pov: 第一人称视角
 origin: 个站
 ---

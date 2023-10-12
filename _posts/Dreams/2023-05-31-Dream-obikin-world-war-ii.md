@@ -4,7 +4,7 @@ title: 【梦记】二战AU的obikin（很好代）
 date: 2023-05-31 07:55
 categories: ["梦记"]
 characters: ["Anakin Skywalker", "Obi-Wan Kenobi", "Luke Skywalker"]
-tags: ["梦记", "obikin", "走天父子", "星球大战", "好故事"]
+tags: ["梦记", "obikin", "走天父子", "星球大战", "好故事", "改编"]
 pov: 第一人称视角
 origin: 个站
 ---

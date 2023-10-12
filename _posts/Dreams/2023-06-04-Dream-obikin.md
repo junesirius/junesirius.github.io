@@ -4,7 +4,7 @@ title: 【梦记】原力真空区的obikin（适合改编）
 date: 2023-06-04 11:49
 categories: ["梦记"]
 characters: ["Obi-Wan Kenobi", "Anakin Skywalker"]
-tags: ["梦记", "obikin", "星球大战", "好故事"]
+tags: ["梦记", "obikin", "星球大战", "好故事", "改编"]
 pov: 第一人称
 origin: 个站
 ---

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【梦记】阿加莎小说风格
+title: 【梦记】阿加莎小说风格（还可以）
 date: 2022-08-14 15:58
 categories: ["梦记"]
 characters: ["Agatha Christie"]
-tags: ["梦记"]
+tags: ["梦记", "普通故事"]
 pov: 第一人称视角
 origin: 个站
 ---

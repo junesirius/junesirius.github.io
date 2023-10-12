@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【梦记】自我牺牲
+title: 【梦记】自我牺牲（精彩，惊险）
 date: 2021-08-04 12:49
 categories: ["梦记"]
 characters: 
@@ -8,8 +8,6 @@ tags: ["梦记", "自我牺牲", "好故事"]
 pov: 第一人称视角
 origin: 个站
 ---
-
-（精彩，惊险）
 
 场景1：第三人称视角
 

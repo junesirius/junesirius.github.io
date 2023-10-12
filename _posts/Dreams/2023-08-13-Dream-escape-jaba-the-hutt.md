@@ -4,7 +4,7 @@ title: 【梦记】逃亡Jaba the Hutt的追杀（还可以）
 date: 2023-08-13 10:45
 categories: ["梦记"]
 characters: ["Jaba the Hutt", "提纳里", "雷电将军"]
-tags: ["梦记", "星球大战", "原神"]
+tags: ["梦记", "星球大战", "原神", "追杀", "逃亡", "普通故事"]
 pov: 第一人称视角
 origin: 个站
 ---

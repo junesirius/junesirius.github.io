@@ -4,7 +4,7 @@ title: 【梦记】obikin（唯美，选择，很好改编）
 date: 2023-05-29 01:30
 categories: ["梦记"]
 characters: ["Obi-Wan Kenobi", "Anakin Skywalker"]
-tags: ["梦记", "obikin", "星球大战", "欧比旺·克诺比", "好故事", "选择", "多元宇宙", "原神"]
+tags: ["梦记", "obikin", "星球大战", "欧比旺·克诺比", "好故事", "选择", "多元宇宙", "原神", "画面感", "改编"]
 pov: 第一人称
 origin: 个站
 ---

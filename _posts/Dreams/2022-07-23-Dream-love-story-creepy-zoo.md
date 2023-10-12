@@ -4,7 +4,7 @@ title: 【梦记】爱情故事，恐怖动物园
 date: 2022-07-23 13:47
 categories: ["梦记"]
 characters: ["Eddie Ryan"]
-tags: ["梦记", "Funny Girl", "惊悚"]
+tags: ["梦记", "Funny Girl", "惊悚", "普通故事"]
 pov: 第一人称视角
 origin: 个站
 ---

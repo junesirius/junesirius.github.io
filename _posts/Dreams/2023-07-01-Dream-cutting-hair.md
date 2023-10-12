@@ -4,7 +4,7 @@ title: 【梦记】理发时适合暗杀（适合改编）
 date: 2023-07-01 14:03
 categories: ["梦记"]
 characters: ["Loki"]
-tags: ["梦记"]
+tags: ["梦记", "改编", "相爱相杀"]
 pov: 第一人称视角
 origin: 个站
 ---

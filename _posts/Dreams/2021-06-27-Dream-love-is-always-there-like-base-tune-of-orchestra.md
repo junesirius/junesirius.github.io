@@ -4,7 +4,7 @@ title: 【梦记】Love is always there, like base tune of orchestra
 date: 2021-06-27 11:29
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "草稿"]
+tags: ["梦记", "草稿", "普通故事"]
 pov: 第一人称视角
 origin: 个站
 ---

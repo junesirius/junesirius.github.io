@@ -4,7 +4,7 @@ title: 【梦记】猩红女巫，灵魂球（有点意思）
 date: 2022-07-17 14:25
 categories: ["梦记"]
 characters: ["Scarlet Witch", "Wanda Maximoff"]
-tags: ["梦记", "爆炸", "精分"]
+tags: ["梦记", "爆炸", "精分", "好故事"]
 pov: 第一人称视角
 origin: 个站
 ---

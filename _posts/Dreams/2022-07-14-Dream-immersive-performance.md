@@ -4,7 +4,7 @@ title: 【梦记】沉浸式表演（还可以）
 date: 2022-07-14 15:02
 categories: ["梦记"]
 characters: 
-tags: ["梦记"]
+tags: ["梦记", "普通故事"]
 pov: 第一人称视角
 origin: 个站
 ---

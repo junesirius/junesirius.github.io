@@ -4,7 +4,7 @@ title: 【梦记】GGAD
 date: 2020-10-29
 categories: ["梦记"]
 characters: ["Albus Dumbledore", "Gellert Grindelward"]
-tags: ["梦记", "HP", "GGAD"]
+tags: ["梦记", "HP", "GGAD", "普通故事"]
 pov: 第一人称视角
 origin: Lofter
 ---

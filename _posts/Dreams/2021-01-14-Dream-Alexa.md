@@ -4,7 +4,7 @@ title: 【梦记】Alexa
 date: 2021-01-14 09:30
 categories: ["梦记"]
 characters: ["Alexa"]
-tags: ["梦记"]
+tags: ["梦记", "好故事"]
 pov: 第一人称视角
 origin: Lofter
 ---

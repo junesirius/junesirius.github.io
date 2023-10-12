@@ -4,7 +4,7 @@ title: 【梦记】行李箱
 date: 2019-02-20
 categories: ["梦记"]
 characters: 
-tags: ["梦记"]
+tags: ["梦记", "普通故事"]
 pov: 第一人称视角
 origin: 个站
 ---

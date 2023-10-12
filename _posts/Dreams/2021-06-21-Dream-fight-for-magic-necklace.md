@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【梦记】争夺魔力项链
+title: 【梦记】争夺魔力项链（精彩）
 date: 2021-06-21 14:21
 categories: ["梦记"]
 characters: ["Astra Logue"]

@@ -4,7 +4,7 @@ title: 【梦记】舌吻机器人
 date: 2020-02-11
 categories: ["梦记"]
 characters: ["Robert Downey Jr."]
-tags: ["梦记", "水", "吻"]
+tags: ["梦记", "水", "吻", "普通故事"]
 pov: 第一人称视角
 origin: 个站
 ---
