@@ -4,7 +4,7 @@ title: 【心理】Death Office
 date: 2021-01-27 03:47
 categories: ["原创"]
 characters: ["死神"]
-tags: ["心理", "情感", "死亡", "小说", "英文"]
+tags: ["心理", "情感", "死亡", "小说", "英文", "翻译"]
 pov: 第三人称
 origin: 个站
 ---

@@ -1,0 +1,34 @@
+---
+layout: post
+title: 【心理】Crazy Rabbit
+date: 2023-10-11 18:12
+categories: ["原创"]
+characters: ["Delirium"]
+tags: ["心理", "发泄", "发疯文学", "想象", "迷失感", "受困感", "束缚感", "自由", "冒充者综合征", "痛苦", "血", "英文", "翻译"]
+pov: 第一人称视角
+origin: 个站
+---
+
+I put on my bunny clothes and walked along the middle of the road, going against the direction of the traffic. Incoming cars honked and evaded. I heard people on the roadside talking about me. I knew they were staring and pointing at me without having to look. I’ve finally gone crazy, I thought. That thought strangely brought me some relief. I began to wonder if I should bring a backpack, put on a pocket watch, and murmur about Alice all the way. But it would seem like I’m just imitating and not myself. So I just continued to walk forward against the traffic, wondering how long it would take for the police to arrive, and what they would do to a crazy rabbit.
+
+Going crazy meant I could finally do so many things I’d always wanted to do. I started to feel happy. I ran through the red light, rushed onto the train track when the railings were lowering, and jumped out from the other side as the wind from the front of the train roared towards me. I got into the bus, grabbed the safety hammer by the window and hit hard on the glass. I watched the spider web-like cracks unfold from the contact point of the knock. Oh my god, I have wanted to do this for so long. I walked into an apartment, smashed the glass of the fire alarm box, and pulled the handle inside. A sharp fire alarm sounded in the building. I heard footsteps in the corridor and the sound of doors opening and closing. This too, god knows how much I want to do this every time I see an alarm box. I pretended to be a normal human being, mixed in with the queue and boarded the plane. The plane took off smoothly. I looked at the clouds outside through the window, and then got up pretending to go to the restroom. The safety manual said there were emergency exits on both sides of the wings. I found the wheel-shaped handle, turned it with some effort, and opened an exit in the belly of the plane. The air flow rushed into the cabin, the plane tilted and shook, the passengers began to scream. I was swept out by the wind and fell freely downward in the air. I closed my eyes and spread out my arms to feel the wind passing through my body. This is something I have wanted to do for a long time.
+
+They would rush up and surround me with electric batons, or they might shoot me directly on spot. I stood in the center of their surrounding circle, screaming and laughing, wanting to dye my hair green. I really felt free there and then. I don’t care about death, I don’t care about prison, I don’t care about the future or consequences, or anything. I was thinking about the Joker, Harley Quinn, and Bellatrix, and how their piercing laughter are actually genuine joy. Suddenly, like never before, I began to understand them. It wasn’t a crime that I wanted, no, it wasn’t a crime that they were doing, they were just looking for things that would make them happy, like children. I want to rob a bank, but not for money at all. I want to open the deepest vault and throw all the gold along the street. No, it’s not for money, it’s not to show off the intelligence or criminal mind, or to provoke someone, or to hurt or kill (although it might cause harm to someone along the way, but that’s just collateral damage). Just because I want to, just because I could, so I would do it. Just because there is no reason not to, I would enjoy the freedom, disregard of the worldly morality, and unlock a lock in the back of my mind.
+
+I went home to three rabbits, one mushroom, and one yellow scarf, all sitting by the dining table waiting for me to join the dinner, a braised lion is on the table. I felt thirsty, so I ate the mushroom, and strangled all the rabbits with the scarf. The scarf turned blue, and shed red tears. I finished eating the lion with tears and blood, and began to feel drunk, as if I had eaten an impressionism painting.
+
+I went out for a walk. The crickets in the grass were so noisy that my head hurt. I dug a hole in the ground. The crickets dare not to chirp anymore. The grass began to grow wildly, soon was taller than the trees. I couldn’t find anything to bury, so I reached out and buried all the stars I can see. The ground turned into a shiny bulge. I drew a cross on it and wrote “Tomb of the Stars.”
+
+I walked to the river. The stars were gone, so the river was black. I was angry why the fish stopped shining, so I threw stones at the river. The fish’s house collapsed, they had no place to live, so they grew legs , ran towards the shore. I held my head, sat down on the shore, and sighed. The fish sat next to me and stretched its fins to pat my back. The wind came and told the fish to run away. I guess the wind told the fish what I had done before. The fish hugged me and climbed up the tree. I would have invited them to dinner tomorrow if they had stayed a little longer, and promised not to eat them.
+
+So I was alone again, I continued walking along the river. The revere meandered uneasily, the path twisted and turned like an electrocardiography. It was nervous, I realized, I found it funny. I was going to the zoo, not like I’m going to follow it all the way home. I felt my hair was tangled, so I reached out and found a crab. I grabbed it and turned it into a spider. It became much bigger than before. The legs were too hairy, so I turned it into a hydrangea and threw back into the river. The river turned in the corner and went in another direction.
+
+I walked into the zoo. The iron gate was rusty, giraffe's neck was knotted, ice was in the reptile house, bear was in the bird house, three men living in the baboon room. I stood in the middle of the park and started screaming, the moon fell. Oh my god, oh my god, what have I done. Why are ants green. Why are snakes flying in the sky. I held the moon and kissed its ravines, tears streaming down my face. The night sky was red, split in half from the middle, like a burned out match.
+
+I'm going crazy, I'm going crazy, but how can someone crazy know they went crazy, like how can a dreamer know they are dreaming. I can't find the rabbit's ears, I can't find the fish's feet, I can't find the star's tentacles. Were they there before, I don't remember. From the moment I woke up, the world seemed to be like this. There are two suns in the sky, one red and one blue. The sea can talk and people can go crazy. Tears become mosquitoes, flowers become feathers.
+
+What am I doing, what am I doing. I laughed loudly. Who am I, what am I. I just wanted to be a mushroom, why did I become a rabbit now.
+
+<br><br>
+![](/assets/images/others/2023-10-11.jpg)
+<br>
