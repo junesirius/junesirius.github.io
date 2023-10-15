@@ -61,10 +61,12 @@ def check_and_auto_update():
             for idx, line in enumerate(lines):
                 # skip checking front format
                 if idx == 0:
+                    new_lines.append(line)
                     continue
                 if line == "---\n":
                     is_front_format = False
                 if is_front_format:
+                    new_lines.append(line)
                     continue
 
                 if line.endswith(" \n") and line != "> \n":
