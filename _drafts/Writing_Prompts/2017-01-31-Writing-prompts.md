@@ -3777,7 +3777,7 @@ published: false
 19. Cosmonaut：宇航员，太空人
 20. Crush：短暂地，热恋地，但又羞涩的爱恋
 21. Culanccino：一杯冰水放在桌子上的水印
-22. Denounment：故事的最终落幕
+22. Denouement：故事的最终落幕
 23. Dissipation：挥霍，浪费，放荡，纵情纵欲
 24. Doodle：涂鸦，心烦意乱地乱涂乱画
 25. Downpour：倾盆大雨
