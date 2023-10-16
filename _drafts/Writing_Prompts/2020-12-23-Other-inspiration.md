@@ -125,3 +125,11 @@ double date的原本配对是安姐跟路西，康康跟牌牌，结果路西跟
 《When Time Lord meets Dream Lord》
 
 Time是Endless的一员吗？失散的/未名的/long lost的一员？
+
+### 14.【Cain/John Wick】罚夜AU
+
+疾速追杀4看完就代了罚夜，想出来可以写的梗了，可以就按照罚夜会有的走势写
+
+甚至梗概都想好了：“One would think a bullet in the head means death, right? And John Wick never miss. Well, not this time.”（而且明显是凹三风格的梗概）
+
+Cain是妻女只剩下女儿所以被抓把柄，罚叔是妻女都被杀了才变成惩罚者的，所以可以直接把Cain女儿写死，然后他就能完全进入罚叔路线开始疯狂复仇了
