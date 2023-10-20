@@ -4,7 +4,7 @@ title: 【原创】独自生活一整年（草稿大纲）
 date: 2021-03-20 21:22
 categories: ["原创"]
 characters: 
-tags: ["小说", "回忆", "生活", "心理", "草稿", "大纲"]
+tags: ["小说", "回忆", "生活", "心理", "草稿", "大纲", "成长"]
 pov: 第三人称
 origin: 个站
 published: false
