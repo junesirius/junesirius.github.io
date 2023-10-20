@@ -3,7 +3,7 @@ layout: post
 title: 【梦记】徒步环球逃难（还可以）
 date: 2023-07-22 08:50
 categories: ["梦记"]
-characters: ["Sheev Palpatine"]
+characters: ["Sheev Palpatine", "柠檬"]
 tags: ["梦记", "逃难", "记忆", "普通故事"]
 pov: 第一人称视角
 origin: 个站
