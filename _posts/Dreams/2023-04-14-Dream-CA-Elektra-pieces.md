@@ -4,7 +4,7 @@ title: 【梦记】CA，Elektra（很多碎片）
 date: 2023-04-14 07:58
 categories: ["梦记"]
 characters: ["Aziraphale", "Crowley", "Elektra"]
-tags: ["梦记", "碎片", "画面感", "好兆头", "夜魔侠", "工作"]
+tags: ["梦记", "碎片", "画面感", "好兆头", "夜魔侠", "工作", "开车"]
 pov: 第一人称视角
 origin: 个站
 ---
