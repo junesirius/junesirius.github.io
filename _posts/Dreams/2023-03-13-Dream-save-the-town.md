@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【梦记】救世主情结，拯救小镇（很精彩）
+title: 【梦记】救世主情结，拯救小镇（很精彩！）
 date: 2023-03-13 12:36
 categories: ["梦记"]
 characters: ["Morpheus/Dream", "Melinda"]
