@@ -4,7 +4,7 @@ title: 【梦记】数学考试
 date: 2020-08-29
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "水", "洪水"]
+tags: ["梦记", "水", "洪水", "数学"]
 pov: 第一人称视角
 origin: 个站
 ---
