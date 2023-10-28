@@ -4,7 +4,7 @@ title: 【梦记】极温柔的吻
 date: 2022-10-24 08:47
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "画面感", "吻"]
+tags: ["梦记", "画面感", "触感", "吻"]
 pov: 第一人称视角
 origin: 个站
 ---
