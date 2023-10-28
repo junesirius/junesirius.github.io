@@ -4,7 +4,7 @@ title: 【梦记】混乱，羞耻
 date: 2021-08-22 14:59
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "羞耻"]
+tags: ["梦记", "羞耻", "图书馆"]
 pov: 第一人称视角
 origin: 个站
 ---

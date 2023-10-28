@@ -4,7 +4,7 @@ title: 【梦记】爱书人的天堂（画面感）
 date: 2023-06-06 07:58
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "画面感"]
+tags: ["梦记", "画面感", "图书馆"]
 pov: 第一人称视角
 origin: 个站
 ---
