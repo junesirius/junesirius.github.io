@@ -133,3 +133,11 @@ Time是Endless的一员吗？失散的/未名的/long lost的一员？
 甚至梗概都想好了：“One would think a bullet in the head means death, right? And John Wick never miss. Well, not this time.”（而且明显是凹三风格的梗概）
 
 Cain是妻女只剩下女儿所以被抓把柄，罚叔是妻女都被杀了才变成惩罚者的，所以可以直接把Cain女儿写死，然后他就能完全进入罚叔路线开始疯狂复仇了
+
+### 15.【Rumple x Morpheus】梦境相遇
+
+（童话镇&睡魔crossover）
+
+Rumple通过梦境找儿子（“这不是我第一次找人了”），Dark One在梦境世界的无力感，在其他人梦里看见第三人称的自己，看见自己儿子梦里的自己（画面感和剧情都可参考睡魔）
+
+### 16.
