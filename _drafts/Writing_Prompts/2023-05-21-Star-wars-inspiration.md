@@ -1102,4 +1102,54 @@ Godsent avenger
 
 Electrifies the air
 
-### 57.
+### 57.【obikin】《You Better Believe》Lyrics
+
+(by Train)
+
+I wish that I had all the answers
+
+And I could walk you down your road
+
+For all the times, those times you feel like you don't matter
+
+There's just one thing you gotta know
+
+<br>
+
+You better believe, you better believe that my ~~father~~ master said to me
+
+Just give it some time, look for a sign
+
+And you'll be just fine
+
+<br>
+
+They say that nothing last forever
+
+They say that good times fade away
+
+And I know, I know that sometimes it ain't easy
+
+But I know, you'll be okay
+
+<br>
+
+One day I'll see you in the future
+
+You'll have a family of your own
+
+I will be there, I will be there to be your teacher
+
+You better believe, you better believe you're not alone
+
+<br>
+
+It's true that nothing lasts forever
+
+We all become a memory
+
+But I know, I know one day we'll be together
+
+Together again
+
+### 58.
