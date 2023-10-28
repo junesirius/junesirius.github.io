@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【梦记】刘谦，图书管理员（还不错）
-date: 2023-11-06 14:20
+date: 2022-11-06 14:20
 categories: ["梦记"]
 characters: 
 tags: ["梦记", "图书馆", "哭", "普通故事"]
