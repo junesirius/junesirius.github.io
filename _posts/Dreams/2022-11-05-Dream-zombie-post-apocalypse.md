@@ -44,3 +44,31 @@ origin: 个站
 （我其实好想知道我们前面在走廊和地下室碰到的红色箭头指示的敌人到底是什么，但是都没看见，应该不是僵尸吧，直觉感觉可能是竞争部队之类的。
 
 （好多僵尸层层叠叠扑在铁丝网上那个画面我觉得是因为被昨天看的《和平使者》trigger了《僵尸世界大战》的记忆。
+
+<br>
+
+（英文版本：）
+
+It was a game-like zombie post-apocalypse.
+
+We arrived at a deserted school, everything looks super old, the walls were collapsing, the iron bars were rusted, no living thing in sight.
+
+We investigated and searched very carefully and cautiously, as if we knew there would still be some enemies. At one point, I could see a red arrow at the edge of my eyesight (just like some game interface), indicating direction of unseen enemies. We didn't engage, just silently and secretly ran away, so I still didn't know if they were zombies or just other troops or something.
+
+Outside of the school building was a lawn with a small trail in the middle. The lawn was just like any lawn without attendance, trees and bushes and grass grew very tall. On the both sides of the trail, there were high wire fences, obviously was trying to keep zombies out for human to run away from the trail.
+
+There was a blue exclamation mark on my eyesight on a mini-map at the corner of my eyesight, indicating the position for a new mission location. So I walked on the trail towards that direction. Nothing special on the trail at the first part, but I still walked very stealthly with a rifle ready in hand. And then I saw zombies on the outside of the wire fence, not moving, but keeping their posture of leaning on the fence trying to reach their hands towards inside.
+
+I was worried they might come back to active again once they saw me but they didn't, I intuitively felt some magic or nuclear explosion had stopped them but I couldn't be 100% sure whether they would move again or not.
+
+The farther I walked the more zombies were outside of the wire fence, they looked like mostly were infected teachers and students, layers and layers pushing themselves towards the fence. At one point I was just so curious that I had to use the gun to poke at one of the dead zombies that was closest to me and its arms were through the wire fence's holes. And then a large part of fence just fell down, I obviously forgot the fence was also ages old and rusty, it was just merely standing, any touch or shake would make them fall down.
+
+Now I was face to face with tons of dead zombies, just inches away, still not 100% sure if they would come to attack me. I got super intense, still rifle ready and be prepared, but they didn't move. Looks like whatever happened here before has neutralized them for good.
+
+And then I arrived at the mission location. There was a large tilestone with school map and badge and motto carved on it. On the right top corner of it, there were three big red buttons, each with an action item, and now I knew this was the mission option. The first button said "destroy the school", the third one was "destroy the world" (don't remember the second one, probably something in between).
+
+I knew I was supposed to press one of the buttons. There was another guy who I knew we arrived together as a team standing besides me right now, looked at me, waiting for me to press the button and finish the mission.
+
+I hesitated, I knew it's likely there was nothing left in the school to be reluctant for, all living thing must have all died, but somehow I had some nostalgia feeling about the school (I think it is my school, which explains why I know all the building structure and secret paths so well). And I reasonified to myself by thinking that we haven't examined the whole school in and out, we didn't actually know if there was anything or anyone left.
+
+So I just couldn't do it, couldn't really press the button to destroy the school even if it's all dead zombies now. My finger was suspending on the button, and I just said "I can't."
