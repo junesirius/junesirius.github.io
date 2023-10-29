@@ -4,7 +4,7 @@ title: 【梦记】刘谦，图书管理员（还不错）
 date: 2022-11-06 14:20
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "图书馆", "哭", "普通故事"]
+tags: ["梦记", "图书馆", "哭", "普通故事", "英文"]
 pov: 第一人称视角
 origin: 个站
 ---
@@ -30,3 +30,29 @@ origin: 个站
 我又问那我有什么自由度吗，他说也是有的，我可以自己决定同一排的书怎么放，可以按照喜欢的颜色或者标题或者厚度，可以把厚的书放在两头让它们不要倒下来，这些都是可以变的（就像我调整我自己家里书架上的书顺序一样，会按主题归类然后按标题首字母排序，然后把厚的放两头）。
 
 然后我看见了好多神经生物学和编程书，就暗暗记下了它们位子，想着有空了可以来看。
+
+<br>
+
+（英文版本：）
+
+I was watching my favorite living Magician's street performance. He said something about a marine academy school in my hometown, asked "Didn't they have a programing class?"
+
+I first nodded then shrugged, meaning I know that school but no idea about their curriculum. He saw my reaction and directly talked to me and asked again. I was a bit nervous and excited as he was talking to me, and I repeated again what I meant.
+
+He held out his palm showing me some soil, said these were soil taken from that school, so it was soil from my hometown. I touched the soil and tears actually came out in the dream, I said "I haven't been back for three years, this is the first time in three years I touch the soil from home."
+
+Then he performed some magic tricks, though most of them looks like he was just showing us how to properly re-plant some succulent plants. One of the container he used was like a sandglass without the two ends, only had the curve part and tiny connect part. He planted a "two-ended succulent plants" in their, it's called two-ended because both the bud and root would grow (in different direction) and blossom. Usually people tend to place it straight, so the flower from the root would be facing towards the ground, he showed us how to plant with 45-60 degrees, used some soil to make the ground a slope, put the sandglass on it, so flowers from both ends would have some slope, wouldn't be hidden and overall looks better.
+
+I wanted to keep watching him but then someone called me saying I need to be at the job position, so I had to go. My working place was a super big library, and I was a librarian (actually one of my childhood dream job).
+
+I went to bookshelves but I couldn't figure out how the books were ordered. This was my first day as a librarian, each book had 4-5 fields for its classification, and I didn't know which one I should use.
+
+I opened the first one, it was a thick hardcover neurology book, the title was carved beautifully on the cover. I opened the book initially was trying to find more helpful classification info, then just ended up standing by the shelf reading the book.
+
+Then I got shouted at by the leader, another young but strict-looking woman, not very tall, looks like the policewoman from "Peacemaker" series that I just finished watching yesterday. She said I wasn't supposed to reading during the work, next time she found me reading I'll be in trouble. That made me a bit sad, I thought the best thing about librarian was they can read from library anytime.
+
+Then another colleague librarian came to help and comforted me, a kind overweighted middle-age man (it's the tech guy in Peacemaker), said "Don't mind her", and helped me put books back to shelf.
+
+I asked about the 4-5 fields on book cover that confused me, one of them was "JCL", I asked what it's short for, he explained (and I forget again once wake up). I also asked whether there is any freedom to order the books, he said yes, even with these classification numbers, I can still change the order on the same level of bookshelf as I like.
+
+Then I kept working, particularly interested in neurology and programming books, remembered thinking I can borrow and read them off work.
