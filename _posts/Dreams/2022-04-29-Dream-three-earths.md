@@ -4,7 +4,7 @@ title: 【梦记】寂静地球，欢庆地球，幻想与现实，公平正义�
 date: 2022-04-29 08:03
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "平等", "好故事"]
+tags: ["梦记", "平等", "好故事", "英文"]
 pov: 第一人称视角
 origin: 个站
 ---
@@ -34,3 +34,23 @@ origin: 个站
 （感觉梦到多元宇宙是因为睡前看了奇异2相关的预告和推送，剩下的很正的三观是因为这两天在重温Skam）
 
 （真的真的好喜欢我是“幻梦/幻想”这个点，尤其考虑到我就是在梦里看到这些的。真的觉得这个讨论这些事真的发生过了！那条走廊是高维度空间的具象化代表了。超喜欢这个梦。）
+
+<br>
+
+（英文版本：）
+
+At the start of the dream, I leaned on a wall, was listening to the other side of the wall, and it was all silence, so I said "I can't hear anything outside of our world, it's an empty silent void out there." Then the wall suddenly got loosen, I fell into another world. It looked exactly the same as our world except it was completely silent, not a sound, that's why I couldn't hear anything when I was on the other side of the wall.
+
+And then there was another wall in this world, and I fell out of it again. The third world was also very similar to our world, except it was super noisy, all the music and sound and people's talking were extremely loud, as if everyone at any time was partying. And then I fell out of this world too, landed in a normal but long and dark corridor, with three identical earths floating in front of me, then I suddenly understood the left one was my world, the middle one was "the Silent Earth", the right one was "the Noisy Earth", and I just gone through them one by one.
+
+I thought I was alone in that corridor, and I was very carefully observing these three earths, and then my subconsciousness felt there was another person also just fell out of his earth and landed on the corridor, but he was hiding from me, and I had the feeling that he was my opponent, everything about him was the opposite of me. When he tried to approach and possibly attack me, I turned around and looked at him, and called his name "Reality", and he called me "Dream." Now I understood why we were opponents, because dream and reality normally couldn't coexist, so we should be very careful not to touch each other, otherwise both of us might be destroyed.
+
+And then more people fell out of the three worlds, they just looked like people from all kinds of places and origins. We sat in a circle, "Reality" sat at the far end across me, besides him was lady "Justice" from a different world. We were discussing about how to fulfill our duty. I was mostly just listening to the discussion, and then suddenly a guy at my right side stood up and pointed at me, said I shouldn't be there, my job would jeopardize theirs, they should kick me out, because I am "Dream", I make people dream, which does no good to the reality. And I'm Asian. I don't know why it would matter but he said it in a very unfriendly way.
+
+So I was sad, I said I cared about justice and equality and reality too, I also wanted everyone to be treated equally, including myself. And that guy said, "How come you hope for equality when you're completely different from us?" I was super sad by his words since he was the discriminated one. Then "Reality" stood up to support me, he said he knew me, because we were from the same world; I did help him achieve the goal of justice and equality by giving people hope in dreams; and the very existence of people like him (the discriminative guy) was the reason why justice and equality was still a dream instead of reality. And the lady "Justice" also said she thought I was great, I helped people to dream about these things, the pursuit in dream was also a pursuit; all the big achievements normally started from dreams and then gradually became reality; even being a "dream", I was still a lot better than that discriminative guy.
+
+Then I woke up, and realized I *AM* the "Dream".
+
+(It's so interesting, I really like the "silent earth" and "noisy earth" part. The three floating big blue globes in front of me, I really want to draw them down -- but I don't know how to paint.)
+
+(That discussion about equality and everything is also super realistic and logical, and reasonable, doesn't even look like a dream conversation.)
