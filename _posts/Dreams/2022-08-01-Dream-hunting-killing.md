@@ -4,7 +4,7 @@ title: 【梦记】追杀和逃亡（精彩！）
 date: 2022-08-01 08:51
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "追杀", "逃亡", "好故事", "杀人", "血"]
+tags: ["梦记", "追杀", "逃亡", "好故事", "杀人", "血", "英文"]
 pov: 第一人称视角
 origin: 个站
 ---
@@ -39,3 +39,22 @@ origin: 个站
 
 （The End）
 
+<br>
+
+（英文版本：）
+
+Me and J were two really clever and strong supernatural beings, and because of that, human beings were afraid of us and there was a special organization that was specialized to hunt people like us.
+
+They had weapons and a lot of trained people chasing us. We tried to run and hide and negotiate but nothing worked, they just wanted to capture us and do experiment on us.
+
+We were wounded and one of them (a woman) found us, pointed gun at us. I said "We surrender, don't hurt us and we won't hurt you." I meant it in a real and kind way, I didn't want anyone get hurt. But she just laughed, said she can't trust us, and shoot J in front of me, killed him. I was so angry and grieved that I jumped forward and killed her with a dagger, cut her neck. I remembered it was not easy, the muscle on the neck was difficult to cut through, she was alive for a while when I was cutting, but she couldn't say anything because her trachea was cut already. After I was sure she was dead, I hid her body and J's body in a very clever place, I knew those people would come and try to find them, so I hoped by hiding them in a place difficult to find would buy me some time.
+
+Then I continued running, I could feel blood coming out from my wound but I was still running in the city, randomly picked small roads and buildings to turn around.
+
+There was a nice clothing store, I went into there and asked for clothes to help disguise, but nothing really suited me. So I asked if they knew any law company nearby, I wanted to make a notarization about my bank account, that if I get caught or killed, all my money would automatically send to my dad. I told the woman in store that I felt bad I never sent any money to him since I started working, I hoped this would at least make sure my money wouldn't be taken away by people who hunt me or the authorization.
+
+The woman said they could offer the service, asked me to fill out a form with my credit card number and after some process said it was done. I was appreciated and thought now I feel it's ok to be caught, I was too tired and wounded to continue running. Then I realized something weird about the woman, she looked really nervous and kept looking at the window. I got suspicious that she was with them, and she admitted. She said they knew I would come here looking for clothes and law firm, so she was just arranged to be here waiting for me to fall into the trap. I didn't know how they predicted my route since I ran into this store totally randomly. I got so angry and sad again, but this time I didn't kill the woman in store because I knew it wasn't her fault.
+
+I just continued to run. I knew I would keep running for the rest of my life until I got caught or killed.
+
+(End of dream)
