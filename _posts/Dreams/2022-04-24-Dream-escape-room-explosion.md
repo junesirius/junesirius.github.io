@@ -4,7 +4,7 @@ title: 【梦记】一条街的密室，元素周期表，爆炸
 date: 2022-04-24 08:56
 categories: ["梦记"]
 characters: ["Jacob Kowalski"]
-tags: ["梦记", "好故事", "爆炸", "密室", "解谜"]
+tags: ["梦记", "好故事", "爆炸", "密室", "解谜", "英文"]
 pov: 第一人称视角
 origin: 个站
 ---
@@ -24,3 +24,19 @@ origin: 个站
 然后这个时候另外一个组的人也找过来了，他们找到的道具有马有枪，而且枪里有真实的子弹可以用来射击，而且他们真的可以对我们开枪（不确定这是游戏规则还是他们以游戏为借口在追杀我们），所以我和Jacob又很快地跑进了教堂，躲在了一块作为围栏的木板下面。然后听见他们跟着进了教堂开始搜，我当时担心了一下我的书包就挂在外面可能会被他们搜，外面之前找到的一些线索和纸就放在里面，可能会被他们发现和拿走。然后他们就骑着马对着木板开枪了（我就没空继续担心我的书包了），我们抱着头躲在木板下面，我很担心木板会被打穿但是并没有。过了一会儿能听到他们搜完走了。
 
 站起来以后看见我的书包还挂在衣帽杆上，然后我们又走到外面，已经看不到他们了。我们刚刚松了口气，然后就看见远处（这条街以外，被一些树遮住了所以看不清到底多远）发生了爆炸，火光冲天（就像新蝙蝠侠最后谜语人设置的爆炸那样），然后就知道我们失败了，我们解码出了爆炸物的名字但是没有及时找到这些爆炸物阻止爆炸（然后就醒了）
+
+<br>
+
+（英文版本：）
+
+The place was kind of like a escape room, but it was more than just a room, it was a whole street.
+
+People were competing in teams, me and Jacob (from Fantastic Beast) were a team, all other people were another team. The other team had real gun and they could actually shoot us. We hid behind some wood boards in case they saw us, and I could hear them shooting at the woods, sounded like I could get shot at any moment.
+
+Then we found a creepy church, the flower pot beside it had a burnt human hand skeleton holding something. I thought it was a clue so I opened that hand and found a ring and a screw driver. There were also some shell-like creature in the pot with long disgusting tentacles and crawling worms when I reached for that hand.
+
+There was a place on the ring where the screw driver could reach inside and turn, and it would open it, like using a key to open a lock. After opening it, it showed an empty slice, carved with numbers, some numbers that I could remember are like 40 12 16 3 86 129 44. So I thought those numbers must represent the Periodic table of chemist elements, like CaCO3 (Calcium Carbonate) and some other stuffs.
+
+So I recited the table and found all the stuffs according to the number, and found almost all the substance were explosible, indicating there might be some explosion. At the exact moment when I figured it out, I saw the church was exploded, saw the fire and heard the sound of explosion. Then I woke up.
+
+Actually when really thinking about that, those escape-room-like clues and explosions really looks like the work by the Riddler (from Batman movie).
