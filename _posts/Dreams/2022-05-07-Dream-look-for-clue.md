@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【梦记】找线索（不错的故事）
+title: 【梦记】找死因线索（不错的故事）
 date: 2022-05-07 13:48
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "水", "好故事"]
+tags: ["梦记", "水", "好故事", "死亡", "英文", "密室"]
 pov: 第一人称视角
 origin: 个站
 ---
@@ -24,3 +24,21 @@ origin: 个站
 （之后好像还有一点水下的剧情但是我忘了，然后就醒了。希望我们找到了正确的交接人。）
 
 （带着尸体回去这个点有点像塞德里克，落叶很厚的山有点像哈七或者惩罚者里的画面）
+
+<br>
+
+（英文版本：）
+
+A group of us was forced to play a game. We were transported to a mountain, we had one hour to find a dead body and six clues to find out the cause of his death, and then had to gather in another transport circle which would be activated only once precisely when the hour ended. So anyone who didn't make it to the transport location in time would be left behind forever.
+
+The only tool we had were two light bulbs which could be turned on and held in hand (without extra electricity), but if it was turned on for too long, it would become extremely hot and impossible to hold. And if we drop the light when it's hot, it would ignite the falling leaves on the round, potentially burn the whole mountain.
+
+Fortunately, all six of people in my group were clever people, we found clues really quick, but unfortunately, the mountain area was so large, we couldn't find the end transport circle, and carrying a dead body slowed us down a lot.
+
+When we finally found the transport circle, we only had several seconds left, and I was the one at the last of the team. The circle was on top of the hill. They all stood in the circle waiting and shouting at me, I was running towards them, there was also a large count-down somewhere. I really thought I wouldn't make it, but I made it, at the last second.
+
+As soon as I stepped into the circle, time was up, it was activated and we were transported to another place that looked like an aquarium museum. I could see shrimps and coral in the closest tank. Many visitors and staff were walking around. The new task was to find more clues in the museum to know among those people, who was trustworthy and who were not. We needed to find the trustworthy person to give him the body and tell him the cause of death that we found. If we told the wrong person, we were screwed.
+
+We suspected some of the clues might be inside of these tanks under water, so I jumped into the water and looked for clues. Corals didn't like to be disturbed, they started to move and grow towards me and chase me, I heard someone shouting about swimming with a specific posture to run away from them, so I did as told, and it worked and I swam away.
+
+(Can't remember what happened next, I'd rather believe we find the right guy and win, instead of finding the wrong guy and died. End of story/end of dream.)
