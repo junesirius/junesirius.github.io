@@ -4,12 +4,12 @@ title: 【梦记】核爆炸（还不错）
 date: 2022-05-17 08:33
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "爆炸", "核污染", "普通故事"]
+tags: ["梦记", "爆炸", "核污染", "普通故事", "英文"]
 pov: 第一人称视角
 origin: 个站
 ---
 
-梦到教学楼里发生了核爆炸。我和很多人都在教学楼里，爆炸发生前几分钟已经得到消息了，大家都很慌张地往外跑，也有人不信的留着观望。
+教学楼里发生了核爆炸。我和很多人都在教学楼里，爆炸发生前几分钟已经得到消息了，大家都很慌张地往外跑，也有人不信的留着观望。
 
 我和一些朋友在教学楼三，我的书包离我隔了三个桌子，我想过去拿但是因为人太多挤不过去，只能跟着往外跑。然后闻到硫磺味道，隐约看见黑色的烟，教学楼二炸了，但是没有声音。这两幢楼是连着的，但是教学楼三有个很大的转角，我们一开始在那个转角后面所以炸的第一时间还不知道，然后转过那个弯看见了黑烟、蘑菇云和火光。
 
@@ -26,3 +26,11 @@ origin: 个站
 然后一时半会儿还没有立刻的反应，恐慌完了索性自暴自弃，反正正反也基本上完了，我还是要去楼里拿书包（所以书包里到底有什么让我这么执念）。
 
 然后就进去了，包在桌子底下，旁边桌子上还有些书和生活用品什么的，我很想拿走，然后楼里有些别的人正在往外走，说规定是不能把任何东西带出去，避免辐射传播污染。我就只能蹲在那里翻东西，还是悄悄想把一些小的生活用品（牙膏什么的）趁没人看见放口袋里。那些桌椅倒是金属框架都还在没有全部被爆炸和腐蚀毁掉，上面落了厚厚一层灰。然后我感觉有人站在我左边，不知道是谁（然后就醒了）
+
+<br>
+
+（英文版本：）
+
+Dreamed about a nuclear explosion. I was in a teaching building with a lot of people. Several minutes before the explosion, we already got the news and people started fleeing in panic. My bag was three desks away from me and I really wanted to reach it, but there were too many people running around and I was pushed outside. And then the explosion happened, I was pushed forward and almost flied for several inches, pretty much everyone behind me didn't make it out, the building was a black ruin with a lot of dust now.
+
+But even those of us who escaped couldn't go anywhere, people outside locked down the playground to prevent nuclear pollution spread. Even if we escaped from the explosion, we were radio exposed, and kind of just had to stay in the playground and wait for death.
