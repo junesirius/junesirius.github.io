@@ -5,7 +5,7 @@ date: 2023-10-23 11:29
 categories: 读后感
 characters: ["三毛"]
 tags: ["读后感", "撒哈拉的故事", "自由"]
-pov: 第一人称
+pov: 第一人称视角
 origin: 空间
 ---
 
