@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【梦记】上帝的信使正在死去（喜欢的句子
+title: 【梦记】上帝的信使正在死去（喜欢的句子）
 date: 2022-05-22 13:09
 categories: ["梦记"]
 characters: ["God"]
