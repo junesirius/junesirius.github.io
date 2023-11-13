@@ -3,7 +3,7 @@ layout: post
 title: 【Peter Pettigrew】忏悔
 date: 2020-05-26 06:20
 categories: ["HP"]
-characters: ["Peter Pettigrew", "Remus Lupin", "James Potter", "Sirius Potter"]
+characters: ["Peter Pettigrew", "Remus Lupin", "James Potter", "Sirius Black"]
 tags: ["亲世代"]
 pov: 第一人称
 origin: 名人朋友圈
