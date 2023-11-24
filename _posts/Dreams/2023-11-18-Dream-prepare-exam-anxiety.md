@@ -4,7 +4,7 @@ title: 【梦记】高考复习冲刺（焦虑）
 date: 2023-11-18 10:33
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "焦虑"]
+tags: ["梦记", "焦虑", "数学"]
 pov: 第一人称视角
 origin: 个站
 ---
