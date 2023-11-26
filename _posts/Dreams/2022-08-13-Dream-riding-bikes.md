@@ -4,7 +4,7 @@ title: 【梦记】一起骑车（温馨）
 date: 2022-08-13 15:10
 categories: ["梦记"]
 characters: ["Isak Valtersen", "Jonas Noah Vasquez"]
-tags: ["梦记", "阿根廷", "Skam", "英文"]
+tags: ["梦记", "阿根廷", "Skam", "羞耻", "英文"]
 pov: 第一人称视角
 origin: 个站
 ---

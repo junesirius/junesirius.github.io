@@ -4,7 +4,7 @@ title: 【梦记】隐身衣，被追杀（精彩）
 date: 2022-03-13 09:02
 categories: ["梦记"]
 characters: ["11th Doctor", "Doctor Who", "Albus Dumbledore", "Gellert Grindelwald", "Elektra", "Stick"]
-tags: ["梦记", "GGAD", "夜魔侠", "好故事", "追杀"]
+tags: ["梦记", "GGAD", "夜魔侠", "好故事", "追杀", "改编"]
 pov: 第一人称视角
 origin: 个站
 ---
@@ -54,3 +54,7 @@ origin: 个站
 我在很羞愧地挨骂而且知道他们说得对（有点像哈三HP穿隐身衣去霍格莫德回来被卢平骂那里）（然后就醒了）
 
 （这篇在最初记录时候是完全的倒叙式，写的时候其实也可以用倒叙式）
+
+<br>
+
+（这个梦已改编引用到《塞维利亚夜谈》一文中了。
