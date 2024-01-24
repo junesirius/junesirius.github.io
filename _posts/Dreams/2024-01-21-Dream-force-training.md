@@ -4,7 +4,7 @@ title: 【梦记】原力训练（喜欢）
 date: 2024-01-21 09:15
 categories: ["梦记"]
 characters: ["Anakin Skywalker"]
-tags: ["梦记", "星球大战", "救世主情结", "普通故事", "爆炸"]
+tags: ["梦记", "星球大战", "救世主情结", "普通故事", "数学", "爆炸"]
 pov: 第一人称
 origin: 个站
 ---
