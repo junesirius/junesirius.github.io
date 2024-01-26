@@ -3,7 +3,7 @@ layout: post
 title: 【梦记】沈巍
 date: 2018-08-22
 categories: ["梦记"]
-characters: ["沈巍", "白翊"]
+characters: ["沈巍", "白翊", "Priest"]
 tags: ["梦记", "镇魂", "恋与制作人"]
 pov: 第一人称视角
 origin: 个站

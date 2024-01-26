@@ -3,8 +3,8 @@ layout: post
 title: 【俊哲】半兽化梗（大纲文）
 date: 2021-04-25 3:14
 categories: ["RPS"]
-characters: ["张哲瀚", "龚俊"]
-tags: ["俊哲", "大纲文"]
+characters: ["张哲瀚", "龚俊", "Priest"]
+tags: ["俊哲", "大纲文", "山河令", "天涯客"]
 pov: 第三人称
 origin: Lofter
 ---

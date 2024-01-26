@@ -3,7 +3,7 @@ layout: post
 title: 【梦记】沈巍
 date: 2018-12-09
 categories: ["梦记"]
-characters: ["沈巍"]
+characters: ["沈巍", "Priest"]
 tags: ["梦记", "镇魂"]
 pov: 第一人称视角
 origin: 个站
