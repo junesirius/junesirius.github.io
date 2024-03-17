@@ -4,7 +4,7 @@ title: 【梦记】古文明的火箭，会动的雕塑（有点意思）
 date: 2024-03-08 10:45
 categories: ["梦记"]
 characters: ["Isak Valtersen", "Killian Jones/Captain Hook"]
-tags: ["梦记", "普通故事", "Skam", "羞耻", "童话镇"]
+tags: ["梦记", "普通故事", "Skam", "羞耻", "童话镇", "博物馆"]
 pov: 第一人称视角
 origin: 个站
 ---

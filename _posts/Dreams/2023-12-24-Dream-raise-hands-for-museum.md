@@ -4,7 +4,7 @@ title: 【梦记】想去博物馆的举手（还行）
 date: 2023-12-24 09:00
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "普通故事"]
+tags: ["梦记", "普通故事", "博物馆"]
 pov: 第一人称视角
 origin: 个站
 ---
