@@ -4,7 +4,7 @@ title: 【梦记】魔术表演和婚礼策划
 date: 2024-01-28 09:00
 categories: ["梦记"]
 characters: ["Lyra"]
-tags: ["梦记", "魔术"]
+tags: ["梦记", "魔术", "原神"]
 pov: 第一人称视角
 origin: 个站
 ---
