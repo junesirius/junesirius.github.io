@@ -4,7 +4,7 @@ title: 【心理】尖叫的大脑
 date: 2024-02-06 22:48
 categories: ["原创"]
 characters: 
-tags: ["心理", "崩溃"]
+tags: ["心理", "崩溃", "哭", "痛苦"]
 pov: 第一人称
 origin: 空间
 ---
@@ -46,3 +46,4 @@ origin: 空间
 > You are a piece of lovely candy
 >
 > Sweet and shining
+
