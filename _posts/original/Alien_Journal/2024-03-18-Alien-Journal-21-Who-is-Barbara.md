@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【原创】人类观察日记（20）Who is Barbara
+title: 【原创】人类观察日记（21）Who is Barbara
 date: 2024-03-18 05:34
 categories: ["原创"]
 characters: ["Barbara"]
