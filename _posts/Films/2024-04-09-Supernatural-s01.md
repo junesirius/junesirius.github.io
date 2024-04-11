@@ -31,6 +31,4 @@ Dean的一句话很是触动，他对Sam说：“You and dad are always willing 
 
 <br>
 
-PS：赌一毛这个黄眼睛demon应该是地狱里很有头有脸的恶魔，说不定就是路西法本人。
-
-PPS（看完S02E01）：果然猜对了John要下线了啊
+PS：赌一毛这个黄眼睛demon应该是地狱里很有头有脸的恶魔，说不定就是路西法本人
