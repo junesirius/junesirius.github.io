@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SPN】Angel Siege the Pit
+title: 【SPN】Angels Siege the Pit
 date: 2024-04-24 23:14
 categories: ["SPN"]
 characters: ["Dean Winchester", "Castiel"]
