@@ -44,7 +44,7 @@ S04E16Cass说了Dean被拖下地狱之后天使siege the Pit, but they are not f
 
 （see more in S04E16-17观后感）
 
-### 4.【destiel】S05E04末日僵尸AU
+### 4.【destiel】S05E04末日僵尸AU（R级）
 
 那条未来Dean的时间线，可以和《The Last of Us》crossover，让那些感染病毒的人真的变成僵尸
 
@@ -60,7 +60,7 @@ Cass被snap走的时候发生了什么，为什么每次重新出现在镜头前
 
 （see more in S05E08观后感）
 
-### 6.【destiel】S05E12灵魂交换梗
+### 6.【destiel】S05E12灵魂交换梗（R级）
 
 如果是Dean和Sam换了灵魂，或者Dean和Cass（跟天使换魂这件事风险似乎很大的样子），第一件事说不定（对Dean来说99.999%的肯定）会先探索自己的身体，然后，咳，如果是凹三同人的话就可以直接开始吃肉了///（然后就会发现好像很难区分到底是D/C还是C/D了，对那些介意前后顺序的洁癖来说大概会是最麻烦的AU了）
 
@@ -78,4 +78,10 @@ Cass被snap走的时候发生了什么，为什么每次重新出现在镜头前
 
 （see more in S05E13观后感）
 
-### 8.
+### 8.【destiel】S05E14被放大的欲望（R级）
+
+如果Cass和Dean都确实对彼此有些克制住的念想，而Famine激活和放大了那些hunger/desire，于是他们陷在无休无止的翻云覆雨的欲望里了。而最初的那一步是Cass迈出的，因为他更容易地就受到了影响。
+
+（see more in S05E14观后感）
+
+### 9.
