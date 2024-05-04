@@ -52,6 +52,20 @@ S04E16Cass说了Dean被拖下地狱之后天使siege the Pit, but they are not f
 
 R级：主动爬床献身的Cass，随时随地吃一口的Dean，召之即来挥之即去的两个人，Cass以为他可能会是认真的但Dean说只是玩玩，“now you're ruining all the fun”，于是Cass也变成花天酒地乱玩orgy的hippie状态，Dean在不同女人的房间里过夜，但其实两个人都感觉到了肉体上互相都最适合彼此，于是就算有时候还在赌气也可以来一发，或者很自然的angry sex，“fearless leader”惩戒下属直到脱力的Cass被弄得一团糟，dirty talk
 
+看transcript又get到一段：
+
+> Dean: Torture? Oh, so, we're -- we're torturing again.
+>
+> (2014!Dean looks at Dean.)
+>
+> Dean: No, that's -- that's good. Classy.
+>
+> (2014!Castiel laughs. 2014!Dean looks at him.)
+>
+> 2014!Castiel: What? I like past you.
+
+“I like past you”：吃自己的醋梗+3p直接可以安排上了
+
 （see more in S05E04观后感）
 
 ### 5.【Cass】S05E08电视剧AU
