@@ -10,7 +10,7 @@ origin: 名人朋友圈
 ---
 
 > 退缩，不，振作自己
-> 
+>
 > Back up, no, I’ll hold myself
 
 <br>

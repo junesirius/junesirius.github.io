@@ -56,11 +56,11 @@ origin: 个站
 但是奇怪的是，这样的她居然还能交到Anita这样的朋友。从入学的第一天开始就莫名的好感，然后就是互相保护——虽然大部分时候看起来只是Cruella在保护Anita。或许这也说明了这个时候的Cruella也并不是完全本性的那个cruel的她，她还是（在一定程度上）记住了Catherine的教导：
 
 > What do you say to Cruella when she tries to get better of you?
-> 
+>
 > Thank you for coming, but you may go now.
-> 
+>
 > Good, now say goodbye to her.
-> 
+>
 > Goodbye, Cruella.
 
 于是这也让我想到了我的黑暗面，我的Cruella，那个愤怒的、批判的、咆哮的声音，那个充满破坏欲的永远折磨我的声音，所以我是不是也能用“Thank you for coming, but you may go now.”来驱逐它呢？只是这个声音，从来不会安安静静地消失，我不确定这种礼貌的逐客令对它是否有效，还是另一场战争和辩论才是它更喜欢和习惯的方式。又或者，我，就像那个时候的Cruella一样，也无法确定那个我是否才是真正的我。
@@ -124,7 +124,7 @@ origin: 个站
 特别喜欢她握着酒瓶看着橱窗里的模特时说的那两句话：
 
 > I just can't leave you looking like that.
-> 
+>
 > Be cruel.
 
 而在橱窗里醒来之后看见自己“杰作”的第一句话是：
@@ -134,8 +134,6 @@ origin: 个站
 带着一点点疯癫和痴狂，是那种“不疯魔不成活”式的痴迷，对自己生活和前途不管不顾，只是为了自己爱的东西，为了艺术，为了美，可以完全地把自己投入进去。太喜欢这种活着的状态了，甚至于只是想到这些、写下这几句话，便又要落下泪来。
 
 以及，这橱窗真的好美。Really, how much better. 也难怪可以吸引到男爵夫人，只凭着它就得以进入男爵夫人的服装设计师行列了。
-
-——————
 
 ### 步入正轨
 
@@ -154,8 +152,6 @@ origin: 个站
 > She killed her. Like she was nothing.
 
 太痛了。
-
-——————
 
 ### Cruella的华丽出场
 
@@ -194,14 +190,12 @@ PPS：这大片的红色，镜头和服饰的色彩运用美丽到让人窒息�
 <br>
 
 > They say there are five stages of grief: denial, anger, bargaining, depression, and acceptance.
-> 
+>
 > Well, I'd like to add one more: revenge.
 
 只是，她挥霍自己的才华仿佛有钱人挥霍他们的财富，才华成为了她复仇的工具，而非用以表达痛苦，创造艺术和瑰宝。她同样达到了震惊世界的目的，只是，不是这个世界一开始期盼的那种方式。不过话说回来，像Cruella这样的人，又有什么时候做过预期内的事呢。
 
 从决定复仇的这一刻起，Estella不再，这就是Cruella完全成为主体的一刻。所以或许，Estella的葬礼，该纪念这一个时刻才对。
-
-——————
 
 ### 舆论力量的作用
 
@@ -225,8 +219,6 @@ PS：这一段石头姐的表演其实平心而论，总觉得有些过分浮夸
 
 不过想想这是迪士尼，倒也确实挺符合迪士尼的浮夸童话风格了。
 
-——————
-
 ### 复仇宣言
 
 <br>
@@ -240,11 +232,11 @@ PS：这一段石头姐的表演其实平心而论，总觉得有些过分浮夸
 <br>
 
 > I was going to take the things she loved most.
-> 
+>
 > Her business.
-> 
+>
 > Her status.
-> 
+>
 > Her confidence.
 
 Cruella的复仇宣言。莫名特别喜欢，就单独截出来了。
@@ -254,8 +246,6 @@ Cruella的复仇宣言。莫名特别喜欢，就单独截出来了。
 不单单是创造痛苦，而是创造痛苦的根源，让一切结束之后，她能永远被投入痛苦的深渊。
 
 （突然觉得自己也很有做反派的潜质了呢。大概是因为哥谭看多了，毕竟谜语人想要复仇、想要真正摧毁企鹅人的时候也是这样的思考方式。）
-
-——————
 
 ### 火的意象
 
@@ -281,8 +271,6 @@ Cruella，在火焰中诞生，在火焰中灭亡。
 
 但显然，这太不迪士尼了。这不够童话，也不够狗血，所以又有了后续，但总觉得，从这里开始，故事的质量完全没有之前那么精彩了，时尚、才华、梦想这许多元素都停步了，像是被这场火一起燃尽了，只剩下犯罪，还有与朋友的和解、整个团队的合作。纵然这很美好很童话，但这也局限于此了，迪士尼，成也童话，败也童话。
 
-——————
-
 ### 结局
 
 <br>
@@ -304,15 +292,15 @@ Cruella，在火焰中诞生，在火焰中灭亡。
 <br>
 
 > Estella would die like her mother did, but not quite.
-> 
+>
 > The good thing about evil people is that you can always trust them to do something... evil.
-> 
+>
 > She'd go to prison for throwing someone off the cliff. Wrong someone, but something about the poetic justice is that it's just so... poeteic.
-> 
+>
 > Goodbyre, Estella.
-> 
+>
 > I'll take it from here.
-> 
+>
 > And I call that a happy ending.
 
 太喜欢结局的处理方式了：去为母亲复仇的是Estella而非Cruella，埋葬了那个伪装成好孩子的自己，拥抱了自己的阴暗面，真实面，疯狂，高傲，才华横溢。
@@ -333,11 +321,7 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 
 所以关于结局，终究是很难判断这究竟是一个happy ending还是bad ending，Estella被埋葬，而Cruella拥抱了充满毁灭欲的她自己。But happy ending doesn't have to be happy ever after.现在这样，就已经足够好了。
 
-<br>
-
-——————
-
-<br>
+<br><br>
 
 ## 其他一些很有感触的点
 
@@ -356,9 +340,9 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 <br>
 
 > Mom, I got my chance. The one I always wanted.
-> 
+>
 > Trust me, I'm gonna keep my heads down and make it.
-> 
+>
 > Cheers.
 
 面前是两杯茶，和一直陪伴着她的Buddy。
@@ -382,15 +366,15 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 <br>
 
 > I made this.
-> 
+>
 > The Baroness said she think I'm SOMETHING. I think that's good.
-> 
+>
 > Everything's going... so well, mom.
-> 
+>
 > I'm really trying to be the Estella that you wanted. Mostly.
-> 
+>
 > It's working.
-> 
+>
 > Just wish you are here to see it.
 
 自豪。为自己的成就，也为自己伪装成功的这个Estella身份。她知道这不是真正的她，她也知道这是正确的做法，所以她这么去做了，也做得很好。而她做这一切，伪装这个身份，正是为了母亲。只是，她的母亲看不到。
@@ -416,27 +400,27 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 <br>
 
 > This was a confusing day.
-> 
+>
 > My nemesis, is my real mother, and she killed my other mother.
-> 
+>
 > I guess you are always scared, won't you, that I'd be a psycho, like my real mom. humm?
-> 
+>
 > That explains all the toning down, try and fit in stuff.
-> 
+>
 > Love me into shape, I suppose was the plan.
-> 
+>
 > **I tried, I really, I tried**, because... I loved you.
-> 
+>
 > But the thing is, I'm not the sweet Estella, tried though it may. I never was.
-> 
+>
 > **I'm Cruella. Born brilliant, born bad, and a little bit mad.**
-> 
+>
 > I'm not like her. I'm better.
-> 
+>
 > Anyway, must dash. Much to avenge, revenge, and destroy.
-> 
+>
 > But I do love you.
-> 
+>
 > Always.
 
 太痛了，这段的镜头语言，倾斜，摇晃，破碎，满是不堪重负的疼痛。从“I tried, I really, I tried”开始难过，到“I'm Cruella. Born brilliant, born bad, and a little bit mad”完全忍不住眼泪。
@@ -446,8 +430,6 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 但她也同样继续知道自己的边界，“I am better”，这是她对自己的定位。她给自己划了一条不会跨越的边界，于是这便决定了她不会为了什么而不择手段，她懂得什么是爱，所以她比男爵夫人更好。
 
 “Always.”
-
-——————
 
 ### 男爵夫人的人物塑造
 
@@ -498,7 +480,7 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 <br>
 
 > If you need to talk about power, you don't have it.
-> 
+>
 > 如果你需要谈论权力，这就表示你没有权力。
 
 而正是因为没有，所以才要去谈论。
@@ -510,7 +492,7 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 <br>
 
 > Gratitude is for losers.
-> 
+>
 > 失败者才需要表达感谢。
 
 这一条让我想起了关于research汇报PPT应该怎么做的一条建议：不要在PPT里写“Thank you”。
@@ -526,7 +508,7 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 <br>
 
 > Really, you can own the alley?
-> 
+>
 > Alleys, designs, people, their souls. Check out the employment contract.
 
 资本家的言论出现了。
@@ -552,22 +534,20 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 <br>
 
 > Here is to me.
-> 
+>
 > Who the hell else would I drink to?
-> 
+>
 > You can't care about anyone else, everyone else is an obstacle. You care about what obstacle wants or feels, you are dead. If I cared about anyone or thing, I might have died, like so many brilliant women withdrawn, full of unseen genius and a heart full of sad bitterness.
-> 
+>
 > You have the talent for your own label, whether you have the killer instinct is the big question.
 
 > \- I guess you must hate her.
-> 
+>
 > \- Honestly? I'm conflicted. She is good, bold and brilliant. But she has to made it "Me or Her", and I choose Me.
 
 傲慢，极端，自私，冷漠，但……似乎也确实说出了一定程度上的真相。这是一种自我保护，能让人更容易地往上爬，而不在情感上受到太多distraction，受到伤害。但这最多只能是充分条件，而非必要条件，甚至于可能连充分条件都算不上。
 
 这些情感能让人软弱，关注身边的人可能让人受到更多的疼痛和伤害，但也正是这些软弱伤害和疼痛，让人强大而真实。
-
-——————
 
 ### 一些很好看的时装设计图
 
@@ -595,8 +575,6 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 
 这张是她的代表作，连男爵夫人都被这件的美丽而折服：“I did it again.”金色的点缀，夺目的闪光，让男爵夫人甚至不惜用保鲜库来珍藏这份美丽，直到……没有人能想到，这美丽背后还酝酿着更庞大的计划。
 
-——————
-
 ### Artie
 
 <br>
@@ -610,13 +588,13 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 又是一个非常有意思的人物，对艺术的品味与Cruella如出一辙。同样的疯狂，热忱，标新立异，不在乎世人的眼神。
 
 > \- Wow, you look incredible.
-> 
+>
 > \- Yeah, hear it all day. So, I guess it's true.
-> 
+>
 > \- How does that look go on the streets?
-> 
+>
 > \- Some abuse and insults of course, but I'd like to say, normal is the cruellest insult of them all, and at least I never get that.
-> 
+>
 > \- I couldn't agree more.
 
 > \- You and I are going to be VERY good friends, Artie.
@@ -628,26 +606,24 @@ Artie之于Cruella大概就是这种一眼投缘的朋友吧，毕竟他们的�
 于是又想起了Purgatorio里那句“When a woman seeks revenge, she digs two graves.”总感觉就算Cruella能够在这一部分的故事里成功利用她的天赋和才智在与男爵夫人的斗争中获得胜利，这个她亲手开始挖掘的坟墓已经逐渐成型，如果没有更多更有力的朋友拉住她，她迟早会被埋葬进她自己构筑的坟墓里。
 
 > \- Small point, aren't you dead?
-> 
+>
 > \- I am, yes. Sad, really, but also helpful. Now, Artie, I have a plan.
-> 
+>
 > \- Of course you do.
-> 
+>
 > \- And you are going to help me with it.
-> 
+>
 > \- Hmm, what do I get?
-> 
+>
 > \- A night of fabulousness and mayhem, and possible death.
-> 
+>
 > \- Check, check, not quite sure about the death though.
-> 
+>
 > \- It won't be you.
-> 
+>
 > \- Hm, I'll get my coat.
 
 又是一段非常可爱的对话，Artie似乎才是那个永远可以不问目的动机只为了艺术本身和朋友不管不顾做任何事的人。似乎每一次Cruella去找他，他都不会有任何拒绝，Cruella与他的交流方式也是一种完全不同于其他人的可爱的语言风格。哪怕是在Cruella最暴露真面目的cruel状态下，她对Artie也仍然是友好的，Artie也并非没有见过她和Jasper他们争执闹得家里鸡飞狗跳的状态，但他不在乎，似乎并没有觉得无理或是别的什么问题，于是大概这更加证明了他们两人才是最深层次的知己。
-
-——————
 
 ### 关于朋友
 
@@ -662,7 +638,7 @@ Artie之于Cruella大概就是这种一眼投缘的朋友吧，毕竟他们的�
 <br>
 
 > After what we all have done for her, what happened to that cute little girl crying on the bench?
-> 
+>
 > She's gone.
 
 朋友，是那个纵使不了解你的一切，无法认同你的所作所为，也仍然会全心全意支持你的人。
@@ -672,8 +648,6 @@ Artie之于Cruella大概就是这种一眼投缘的朋友吧，毕竟他们的�
 （甚至连Alfred和Bruce那种从小立誓会守护在他身边的人，也可能因为被伤透了心而不再对他有求必应。（突然串一秒哥谭））
 
 这对话，也多么熟悉。梅林和盖爹：“What happened to that boy?”“He grew up.”成长，仿佛就是不断地抛下过去的自己，杀死过去的自己。只是这杀死，这抛下，是彻底的丢弃和忘记，还是藏匿和融合；是成为了后来的自己的一部分，还是随着时间逝去真正被丢失，被自己埋葬。这似乎不是一个容易回答的问题，也没有太多人能真正分清吧。
-
-——————
 
 ### Buddy的眼神
 
@@ -694,8 +668,6 @@ Artie之于Cruella大概就是这种一眼投缘的朋友吧，毕竟他们的�
 Buddy真的是Cruella从小的朋友啊。在所有重要的时刻，它都在她身边，哪怕被忽视，哪怕Cruella变得无情而残忍，它也一直在那里，用那种受伤的或是关切的眼神望着她。它不会说话，但它的陪伴从未缺失。当Cruella得知男爵夫人杀了自己母亲的时候，当Cruella埋头自己的复仇大计的时候，当Cruella甚至允许男爵夫人的恶犬侵占自己舒服小窝的时候，当盛会结束但Cruella并没有出现在它视野里的时候，当最后一役前夜Cruella独自在阳台沉思远眺的时候……
 
 Buddy从未缺席，带着湿漉漉的眼神看着她，望着她，满目的期待，仿佛还在寻找当年那个在垃圾堆里捡到它的小女孩。它不会说话，甚至不怎么叫，于是也没什么人注意它，心疼它，怜爱它，就像Jasper和Horace的一个投射，一个光彩照人的主角身边黯然无光却又无可或缺的陪衬，一个归属。
-
-——————
 
 ### Cruella的那些绝美着装
 
@@ -793,8 +765,6 @@ The Future.
 
 不是去改变，不是去否认，而是完全的接纳。爱一个人，便也包括了爱她的黑暗面。只可惜，太多的人不能理解，太多的人做不到，太多的悲剧就是这样产生的。相爱的人分崩离析，相行渐远。哥谭里就有太多这样的例子。
 
-——————
-
 ### 关于父母和孩子
 
 <br>
@@ -805,9 +775,9 @@ The Future.
 ![](/assets/images/Cruella/18-3.png)
 
 > It all makes sense now. That you are so extraordinary. Of course, you are mine.
-> 
+>
 > I've longed for someone in my life who was as good as me.
-> 
+>
 > You are not here for revenge, you are here because you are a brilliant designer and a wicked genius, and you need to be among your own kind -- me.
 
 “难怪你这么优秀，因为你是我的”，但她不是，她从来跟男爵夫人没有一点关系，她的优秀和才华都是她自己的，来自她的苦难，她的过往，她的痛苦。
@@ -870,8 +840,6 @@ The Future.
 >
 > 因为他爱那飞出的箭，也爱了那静止的弓。
 
-——————
-
 ### **关于精分和自我认知**
 
 Estella VS Cruella：到底哪一个才是她真正的自我？
@@ -893,9 +861,9 @@ Estella VS Cruella：到底哪一个才是她真正的自我？
 <br>
 
 > Cruella gets things done.
-> 
+>
 > Estella does not.
-> 
+>
 > And I have things to do.
 
 这里看得好难过。
@@ -930,11 +898,7 @@ How I wish there would be a day when I would be proud of being bad.
 
 Because then I would know, that's also the day when I really accept who I am, love the whole me completely, including the good part and the bad part, the bright side and the dark side.
 
-<br>
-
-——————
-
-<br>
+<br><br>
 
 ## 更多的碎碎念
 
@@ -945,8 +909,6 @@ Because then I would know, that's also the day when I really accept who I am, lo
 羡慕这种自恋，羡慕这种能够如此热爱自己的人，他们看起来是全心全意地热爱自己的一切，从外貌到处世方式。能够这样完全地接纳自己，那感觉一定非常好吧。
 
 不过……“子非鱼安知鱼之乐”，也或许看起来的与实际的并不相同。隐约记得似乎在哪里看见过另一句话，“越是自傲的人，心底越是自卑”，于是是否也能稍微同理可得一下，这些自恋的人也注定有些什么地方是自我厌恶的。于是这种内心的冲突就又能变成一个或痛苦或精彩或戏剧或寻常的故事了。
-
-——————
 
 ### 两难选择
 
@@ -963,19 +925,19 @@ Because then I would know, that's also the day when I really accept who I am, lo
 剧情中倒是也显露出了一点点端倪，比如Cruella在埋头工作而Jasper表示想同她谈谈时的那番对话：
 
 > You know we all have bad things happening to us. Me, him, you, but we've always been there for each other.
-> 
+>
 > That's all I'm asking. Is it so hard to back me up?
-> 
+>
 > No, for Estella, that's easy. But to help Cruella? It's a nightmare. (That's an understatement thing you do.)
 
 沉迷复仇的Cruella已经非常接近逼走两位朋友了，直到她用家人牌把两个人又劝了回来。其实也很喜欢那段两人从监狱出来之后不愿意上Cruella的车那段戏：
 
 > Want a ride?
-> 
+>
 > We'll walk, thanks. I have enough being treated like a dog. Thank you.
-> 
+>
 > You'll get caught, by the cops.
-> 
+>
 > We do fine before you showed up, we'll do fine without you. (Exactly.)
 
 能看得出把两位朋友的人物特性也塑造得特别立体真实。他们都是有尊严的，哪怕相处了十年，哪怕从小一起互相支持着存活、长大，他们的尊严也不能任凭蹂躏。受够了之后，他们就会离开。这才是真实的。
@@ -983,8 +945,6 @@ Because then I would know, that's also the day when I really accept who I am, lo
 所以假设这里在交待了自己身世和更多的复仇计划之后，两位朋友仍然没有原谅她，又或者，她面临某个更加紧急的二选一局面，要么复仇，要么朋友，比如她面临唯一的复仇机会，如果不去就再也不能曝光男爵夫人，但同时两位朋友又出现危难，如果去救他们她就会错失复仇机会，她会怎么选？
 
 这个选择就又让我想到谜鹅了，鹅与母亲的关系几乎比Estella与母亲还要密切，而鹅的复仇心也几乎是他在哥谭五季唯一最坚定的做事动机，但当面临救谜还是复仇这个选择时，他几乎想也没想地选择了谜。所以类比过来的话，大概率Cruella也会选择朋友的吧。
-
-——————
 
 ### 人物塑造
 
@@ -1012,8 +972,6 @@ Anita的个性其实也是从一开始就很鲜明。毕竟在一个所有人都
 
 她面对男爵夫人的不卑不亢也是她的自信表现。她或许不想男爵夫人或者Cruella那么闪光，但她也从来不觉得自己比她低一等。当男爵夫人质问她笔袋为什么有除了黑白以外的颜色时，正常人在她的那个位置或许已经被男爵夫人的气焰吓到了，但她还是很不卑不亢地做出回答。在被侮辱和offence之后也并没有太多的委屈，眼里也有一种反抗的意味。或许这也是为什么她其实从一开始就和Cruella站在了同一立场，想跟Cruella一起把男爵夫人从她的垄断兼统治地位上拉下来。
 
-——————
-
 ### 男爵夫人的深度挖掘
 
 其实有些好奇，男爵夫人的这种过分到极端的自私、自恋和霸权只是因为对控制欲和权力的极度渴望么？还是因为她曾经也受过伤，而这种控制欲就变成了她默认的自我保护机制，直到“面具长到了肉里”，连她自己也不再能分清？
@@ -1023,8 +981,6 @@ Anita的个性其实也是从一开始就很鲜明。毕竟在一个所有人都
 之所以产生这种联想是因为，在电影的最后，当Cruella走进曾经属于男爵和男爵夫人的大宅，那副得势的模样让我感到说不定男爵夫人曾经也做过这些完全类似的事，也曾跟她一样为了自己的生存和理想而挣扎着除掉了上一个统领者，然后自己坐到了时尚界的王座上。她感受到了这种权力和力量，就再也不愿松手，于是为了守护这些东西，她不择手段，用尽方法排挤身边一个个向上爬的人，直到把她们逐一推下了属于她们的悬崖。
 
 所以我在想，what if Cruella只是走上了她生母的老路呢？What if 她只是做了她血液里就注定会去做的这种反抗、然后慢慢变成被反抗的那一方，那么现在的这所有斗争，又还有什么意义？Cruella不过只是另一个男爵夫人，这个故事的结局，不过只是另一个“忒修斯之船”。
-
-——————
 
 ### 发现的一些小彩蛋和音乐
 
@@ -1051,58 +1007,56 @@ Anita的个性其实也是从一开始就很鲜明。毕竟在一个所有人都
 尤其是片尾字幕时的那首《Call Me Cruella》，好听到几乎有些震撼，一上来的那串低音从头到尾都在背景音里，烟嗓的女音简直让我腰软，歌词也非常戳。
 
 > Cruella De Vil
-> 
+>
 > She's born to be bad
-> 
+>
 > So run for the hills
-> 
+>
 > **Who wants to be nice?**
-> 
+>
 > **Who wants to be tame?**
-> 
+>
 > All of your good guys
-> 
+>
 > They all seem the same
-> 
+>
 > Original, criminal, dressed to kill
-> 
+>
 > Just call me Cruella De Vil
-> 
+>
 > Call me crazy, call me insane
-> 
+>
 > But you're stuck in the past
-> 
+>
 > And I'm ahead of the game
-> 
+>
 > **A life lived in penance, it just seems a waste**
-> 
+>
 > And the devil has much better taste
-> 
+>
 > **And I tried to be sweet, I tried to be kind**
-> 
+>
 > **But I feel much better now that I'm out of my mind**
-> 
+>
 > There's always a line at the gates of Hell
-> 
+>
 > But I go right to the front 'cause I dress this well
-> 
+>
 > Rip it up, leave it all in tatters
-> 
+>
 > **Beauty is the only thing that matters**
-> 
+>
 > The fabric of your little world is torn
-> 
+>
 > **Embrace the darness and be reborn**
-> 
+>
 > The fear on your face
-> 
+>
 > It gives me a thrill
 
 It gives me a thrill too.
 
 And I smile like a villain.
-
-——————
 
 ### 色彩运用
 
@@ -1113,8 +1067,6 @@ And I smile like a villain.
 <br>
 
 整部电影主色调都是黑白红，明明只有不多的几种颜色搭配方式，但是被美术组硬是做出了无数个美到极致的画面，形成各种剧烈的视觉冲击，连片尾都不放过。随着石头姐名字出现的画面，这个跌落的画面，这身飘起的红衣，血色，明明有死亡的暗示但丝毫感觉不出绝望或是灭亡这类东西，反而因为飘逸的红色看到了希望，看到生命，不过这生命里也有太多的疼痛，就像生产过程，生与死的交替。
-
-——————
 
 ### 电影拍摄相关
 

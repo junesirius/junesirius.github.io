@@ -9,8 +9,8 @@ pov: 第一人称
 origin: 名人朋友圈
 ---
 
-> I wake up alone, with only daylight between us. 
-> 
+> I wake up alone, with only daylight between us.
+>
 > ——《Fiction》
 
 <br>

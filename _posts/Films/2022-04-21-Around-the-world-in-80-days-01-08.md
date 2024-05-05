@@ -53,7 +53,7 @@ description: "看这集的时候脑内总会响起Queen的《Love of my life》�
 One tiny step, and the whole life would have been different.
 
 > “The world is beautiful.”
-> 
+>
 > “I see it now.”
 
 当Estella说“It's not too late”的时候，他抬头时闪烁的希望也是多么让人心痛。他真的仍然抱着希望，如果现在仍然不是太晚，如果他们还能继续拥有剩下的时间，剩下的未来，是否还有补救的机会。
@@ -81,7 +81,7 @@ Estella.
 <br>
 
 > “I loved you, Estella. Never, never doubt that.”
-> 
+>
 > “I never have.”
 
 “never never doubt that”，这语言风格，又想到小十了。爱和孤独，永恒的主题。为了不再孤独而去寻求爱，因为爱而变得更加孤独。

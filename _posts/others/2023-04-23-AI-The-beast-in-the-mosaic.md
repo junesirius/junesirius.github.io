@@ -137,7 +137,7 @@ Is there other more standviews from each group that you can think of?
 > 7. Evolvers are responsible for their own suffering because they chose to undergo genetic modification.
 >
 > Possible standpoints from Evolvers:
-> 
+>
 > 6. Evolvers are superior to Vanillas in every way, including morally and intellectually.
 >
 > 7. Evolvers should use their powers to create a separate society where they can thrive without interference from Vanillas.
