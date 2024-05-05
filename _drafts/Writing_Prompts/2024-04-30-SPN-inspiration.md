@@ -12,7 +12,13 @@ published: false
 
 [TOC]
 
-### 1.【Cass】S04E20发生了什么
+### 1.【destiel】S04E18 反乌托邦AU
+
+Cass明明一开始过来的时候就已经想到要把那个“先知头顶有大天使罩着”的信息透露给他了吧，还非得等到Dean气得转身要走的时候才说，边说还边警惕朝天上看，大天使的监察也真是太可怕了吧，总是要弄得这么打哑谜身不由己。给完了tip还要再强调强调“now you know why I can't help/intervene”，但是真正想说的是临走前的“good luck”和关切的小眼神，总之这种口是心非说反话也真是很香了。（好像很适合去搞1984AU或者那几个类似的反乌托邦AU，华氏451AU或许也不是不可以）
+
+（see more in S04E18观后感）
+
+### 2.【Cass】S04E20 发生了什么
 
 Cass想要告诉Dean什么，看着像是想要警告他一些关于大天使的事，就算在Dean的梦境里时候也非常紧张地看着天上。等到Dean赶到仓库的时候看起来已经是天使们打过一架之后的一片狼藉废墟，只剩下Cass的皮囊倒在地上，Cass自己被抓回了天堂。等Cass重新回来的时候对Dean的态度180°转变，冷漠得好像没有经历过之前20集的同甘共苦，张口就是一句“I serve Heaven and angels, not humans, certainly not you.”甚至还把Anna也抓回天堂了。
 
@@ -24,7 +30,7 @@ Cass想要告诉Dean什么，看着像是想要警告他一些关于大天使的
 
 （see more in S04E20-21观后感、S05E13观后感）
 
-### 2.【Cass】S04E22发生了什么
+### 3.【Cass】S04E22 发生了什么
 
 为了帮Dean拖时间，在先知Chuck家直面大天使的降临。在Dean临走前只说了一句“I'll hold them off, I'll hold them all off”。等到Dean再回到先知家里的时候只看见又一片天使打架之后的废墟，和Chuck转述的Cass就像“soup in the balloon”一样地爆炸了。
 
@@ -34,7 +40,7 @@ Cass想要告诉Dean什么，看着像是想要警告他一些关于大天使的
 
 （see more in S04E22-S05E02观后感）
 
-### 3.【destiel】S04E01发生了什么
+### 4.【destiel】S04E01 发生了什么
 
 S04E16Cass说了Dean被拖下地狱之后天使siege the Pit, but they are not fast enough, 以及之前就说过的“I was the one grab you tight and raised you from the perdition.”
 
@@ -44,7 +50,7 @@ S04E16Cass说了Dean被拖下地狱之后天使siege the Pit, but they are not f
 
 （see more in S04E16-17观后感）
 
-### 4.【destiel】S05E04末日僵尸AU（R级）
+### 5.【destiel】S05E04 末日僵尸AU（R级）
 
 那条未来Dean的时间线，可以和《The Last of Us》crossover，让那些感染病毒的人真的变成僵尸
 
@@ -68,13 +74,13 @@ R级：主动爬床献身的Cass，随时随地吃一口的Dean，召之即来�
 
 （see more in S05E04观后感）
 
-### 5.【Cass】S05E08电视剧AU
+### 6.【Cass】S05E08 电视剧AU
 
 Cass被snap走的时候发生了什么，为什么每次重新出现在镜头前面的时候就会变得更加伤痕累累一点，加百列把他扔到哪里去了（“He will live. Maybe”），也许是另一个电视剧AU的框架里？但是更加brutal更加monstrous，更加难以分清现实和AU，比如让他出现幻觉，或者用虚假的Dean外形的怪来困住他，只有伤害Dean才能打破那个框架，而在他犹豫的时刻他就会挨打受伤？他是怎么找到Dean他们的？也许在很多频道中间穿梭一个个地old way地找？每个不同频道里会有些不同的阻碍，要对付怪也要尽量避免被加百列发现，感觉也可以顺手把DW里出现过的一些设定搬过来套给他用。
 
 （see more in S05E08观后感）
 
-### 6.【destiel】S05E12灵魂交换梗（R级）
+### 7.【destiel】S05E12 灵魂交换梗（R级）
 
 如果是Dean和Sam换了灵魂，或者Dean和Cass（跟天使换魂这件事风险似乎很大的样子），第一件事说不定（对Dean来说99.999%的肯定）会先探索自己的身体，然后，咳，如果是凹三同人的话就可以直接开始吃肉了///（然后就会发现好像很难区分到底是D/C还是C/D了，对那些介意前后顺序的洁癖来说大概会是最麻烦的AU了）
 
@@ -82,7 +88,7 @@ Cass被snap走的时候发生了什么，为什么每次重新出现在镜头前
 
 （see more in S05E11-12观后感）
 
-### 7.【destiel】S05E13时间隧道
+### 8.【destiel】S05E13 时间隧道
 
 穿越到过去，降落之后Cass颓坐着吐血晕过去了，但仍然说“it's better than I expected”，他到底expect了什么啊，直接can't make it死在穿越的路上掉进时间缝隙吗，还是降落的时候自己已经失去意识没法把他们带回去了？还是剩下的力气全都为了保护他们两个然后自己是全身上下残破不堪鲜血淋漓地降落的？
 
@@ -92,16 +98,20 @@ Cass被snap走的时候发生了什么，为什么每次重新出现在镜头前
 
 （see more in S05E13观后感）
 
-### 8.【destiel】S05E14被放大的欲望（R级）
+### 9.【destiel】S05E14 被放大的欲望（R级）
 
 如果Cass和Dean都确实对彼此有些克制住的念想，而Famine激活和放大了那些hunger/desire，于是他们陷在无休无止的翻云覆雨的欲望里了。而最初的那一步是Cass迈出的，因为他更容易地就受到了影响。
 
 （see more in S05E14观后感）
 
-### 9.【destiel】新衣服
+### 10.【destiel】新衣服
 
 感觉Cass的风衣好像很容易弄脏弄破损，S05E13吐血的时候第一反应就在想“糟了风衣要弄脏了”，S04E01一见面也是直接当胸一枪，Cass人没事但是风衣怕是破了吧。不知道会是用天使力补衣服还是手动补？感觉两个都很好笑很可爱。
 
 脑了一个Dean带着Cass逛商场买新衣服（突然变成小情侣日常），虽然很可能“新”衣服也只是新的二手衣服，比如在thrift store之类的地方淘白菜价的质量不错的二手服装。
 
-### 10.
+### 11.【Cass】天使之死
+
+Cass死了很多次，S04E22里“exploded like a water ballon of chunky soup”，S05E22里“explodes in a rain of blood and chunks of meat”。关于死亡瞬间的体验，还有复活是什么感觉，或许可以写一写。
+
+### 12.
