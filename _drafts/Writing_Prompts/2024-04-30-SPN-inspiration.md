@@ -114,4 +114,14 @@ Cass被snap走的时候发生了什么，为什么每次重新出现在镜头前
 
 Cass死了很多次，S04E22里“exploded like a water ballon of chunky soup”，S05E22里“explodes in a rain of blood and chunks of meat”。关于死亡瞬间的体验，还有复活是什么感觉，或许可以写一写。
 
-### 12.
+### 12.【Cass】S04E10 关于堕天的疼痛
+
+> Pamela: She fell to earth, became human.
+>
+> Sam: So, angels can just become human?
+>
+> Anna: It kind of hurts. Try cutting your kidney out with a butter knife. That kind of hurt. I ripped out my grace.
+
+严格来说S05的Cass慢慢向人类转变的过程和Anna的直接剥除grace的堕天不完全一样，但仍然想要借用一下这段“cutting your kidney out with a butter knife”式的疼痛，what if他的battery draining过程也是伴随疼痛的，what if it hurts and he never says, until one day Dean finds out。
+
+### 13.
