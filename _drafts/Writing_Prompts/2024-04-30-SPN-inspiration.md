@@ -124,4 +124,16 @@ Cass死了很多次，S04E22里“exploded like a water ballon of chunky soup”
 
 严格来说S05的Cass慢慢向人类转变的过程和Anna的直接剥除grace的堕天不完全一样，但仍然想要借用一下这段“cutting your kidney out with a butter knife”式的疼痛，what if他的battery draining过程也是伴随疼痛的，what if it hurts and he never says, until one day Dean finds out。
 
-### 13.
+### 13.【Lucifer】S06E01 被复活的Sam
+
+这个谜底揭晓是soulless Sam的存在，在猜测他的身份的时候有过很多想法，其中一个是：What if this *is* Lucifer，只不过是被抹掉了天使成分和记忆的路西，作为punishment and a lesson。所以才会这样守序中立偏邪恶，没什么道德感，但本能地对哥哥仍然很好。What will he do, what does he think, how does he perceive the human world，等到捡回记忆的时候又会对人类世界有什么改观的看法。感觉也有很多可以poke的故事。What will happen, who will he meet, how would he change.然后发现好像有点像是走向剧版路西的道路了x，希望还是不要重复那条路线吧。
+
+（see more in S06E01-07观后感）
+
+### 14.【Cass】S06E03 heaven civil war
+
+单纯想看Cass在heaven civil war主战场上的样子，两队天使开战，Cass进入true form跟Raphael对抗，两边打得天昏地暗的样子。似乎不是我的文笔可以描绘出来的画面，但至少可以让大脑想象一下热闹一下了。战场上的Cass会超级帅吧！别的不说，那大翅膀还是要展开一下才能让人满足的x
+
+（see more in S06E01-07观后感）
+
+### 15.
