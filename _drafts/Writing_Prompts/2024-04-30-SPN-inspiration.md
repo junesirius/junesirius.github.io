@@ -136,4 +136,18 @@ Cass死了很多次，S04E22里“exploded like a water ballon of chunky soup”
 
 （see more in S06E01-07观后感）
 
-### 15.
+### 15.【destiel】S06E10 porn（R级）
+
+剧情里都直接已经出现让Cass看porn和有boner反应了（确实也是越来越human的一个表现），所以不能怪我脑Dean按照porn风格给Cass一些sex教学。
+
+（see more in S06E10-11观后感）
+
+### 16.【destiel&sastiel】S06E11 “go ask your boyfriend”
+
+Balthazar直接脱口而出称呼Cass是Sam的boyfriend了，Sam甚至也极自然地就应下去了。甜度高得有点一下子不适应被齁到了。
+
+所以难道这就是Cass在天堂的名声了吗，连自己的好buddy都这么乱传谣说他在地面上有人类boyfriend了？想象了一下又确实被笑到了，看Cass对自己身边传起来的谣言一无所知但是其他天使开始对他为什么对人类这么热心这件事做恍然大悟状。关系好的天使对他表示理解，敌意的天使冷嘲热讽。Cass花了好一会儿才catch up他们在流传什么，想要一本正经纠正但是没人真的信他，然后他开始怀疑自己是不是对boyfriend这个词的理解出了什么错，然后下来问Dean（或者Sam）boyfriend的定义，然后被Dean一阵笑话然后再慢慢地教他人类对这个概念的定义，然后Cass会发现他们好像符合了每一条定义，然后Dean越说越感觉不对劲（这个时候好像如果不真的答应一下很难收场了呢）。
+
+（see more in S06E10-11观后感）
+
+### 17.
