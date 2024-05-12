@@ -150,4 +150,32 @@ Balthazar直接脱口而出称呼Cass是Sam的boyfriend了，Sam甚至也极自�
 
 （see more in S06E10-11观后感）
 
-### 17.
+### 17.【destiel&sastiel】天使猫猫
+
+就像尼尔盖曼那篇他家黑猫其实是天使的故事，Cass可以是温家天使猫，keep the monsters outside，但是把自己弄得伤痕累累。
+
+### 18.【destiel】S06E18 Dean hunt黑化Cass
+
+> Rachel: Castiel, I've been hearing things. Things I don't want to believe. Just tell me if it's true.
+>
+> Cass: If what's true?
+>
+> Rachel: You know. Your dirty little secret.
+>
+> Cass: I have to defeat Raphael.
+>
+> Rachel: Not this way, Castiel.
+>
+> Cass: Rachel.
+>
+> Rachel: We put our faith in you, and... look what you're turning into.
+>
+> Cass: I don't have a choice.
+
+“not this way”“look what you're turning into”，到现在还不知道Cass到底做了什么，but it can't be good，想到的最糟的事情可能会是在planning massivee massacre来批量收集人类灵魂。想到了Dean很久之前对喝血的Sam说过的“If I don't know you, I'd want to hunt you”，想象这种情况或许也可以用在黑化或者夺魂版的Cass身上，让Dean hunt him down。
+
+### 19.【sastiel】S06E21 Cass从Cage救Sam
+
+Cass提到了是他把soulless Sam从关Michael & Lucifer的Cage里捞上来的，所以他是怎么做到的呢，冒险进到Cage里的时候会不会被Michael和Lucifer打一顿？还要在把Sam捞出来的同时阻止Michael和Lucifer出去，他自己都说了难度超级大的，所以到底发生了什么，怎么做到的，他自己是不是也受了不轻的伤才做到的但是把过程都一句话带过了。
+
+### 20.
