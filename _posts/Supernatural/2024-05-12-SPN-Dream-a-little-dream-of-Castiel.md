@@ -39,12 +39,12 @@ There was no sign of darkness in his pure white wings yet, but for how long? Whe
 
 "You are willing to fall for me?" I would have said "in my lure", but now I realized it wasn't my lure that led him here, it never was. He came to my room, prepared, knowing what it means, and made his moves like the champion in the chess matches.
 
-Now I'm certain he's smiling, almost laughing, but only showing that in the eyes. I had told him smile didn't really suit him, it made him look like ... I don't know look like what but at least unlike him. But I could tell the glimmer is in his eyes now.
+Now I'm certain he's smiling, almost laughing, but only showing that in the eyes. I had told him smile didn't really suit him, it made him look like ... I don't know look like what exactly but at least unlike him. But I could tell the glimmer was in his eyes now.
 
 "Come here." He said, holding his arms. I couldn't resist huddling in his embrace, so warm and safe like nowhere else in the whole world (heaven and hell included).
 
 "There was nothing else I would be willing to fall for." That was all he said, and that was all I ever needed.
 
-But wouldn't that hurt? The burning of the wings in the holy fire until it became black? Broken maybe, so that he might become a human, just like me? I was thinking them but never asked any, not like they matter, not like he would answer anything differently other than what he already told me. That's more than enough for me.
+But wouldn't that hurt? The burning of the wings in the holy fire until it became black? Broken maybe, so that he might fall and become a human, just like me? I was thinking them but never asked any, not like they matter, not like he would answer anything differently than what he already told me. That's more than enough for me.
 
-I guess he didn't know the full power of virgin blood, actually, and I never intended to tell him: it bounded heart together.
+I guess he didn't know the full power of virgin blood, actually, and I never intended to tell him: it bounded hearts together.
