@@ -4,7 +4,7 @@ title: 【SPN】Dream a Little Dream of Castiel
 date: 2024-05-12 17:07
 categories: ["SPN"]
 characters: ["Castiel"]
-tags: ["观后感", "Supernatural", "Castiel梦女", "性", "亲密关系", "英文"]
+tags: ["Supernatural", "Castiel梦女", "性", "亲密关系", "英文"]
 pov: 第一人称视角
 origin: 个站
 ---
