@@ -174,8 +174,18 @@ Balthazar直接脱口而出称呼Cass是Sam的boyfriend了，Sam甚至也极自�
 
 “not this way”“look what you're turning into”，到现在还不知道Cass到底做了什么，but it can't be good，想到的最糟的事情可能会是在planning massivee massacre来批量收集人类灵魂。想到了Dean很久之前对喝血的Sam说过的“If I don't know you, I'd want to hunt you”，想象这种情况或许也可以用在黑化或者夺魂版的Cass身上，让Dean hunt him down。
 
-### 19.【sastiel】S06E21 Cass从Cage救Sam
+（see more in S06E17-22观后感）
+
+### 19.【Cass】S06E20 自白的自我厌恶
+
+那么多动摇，那么多怀疑自己是否做的是对的，很多时候明明自己也知道那些是肮脏的、糟糕的，but he has to，因为另一个选项更加糟糕得无法承担后果。所以在做那些举动的时候，跟demon合作，being their whore，do what they ask，他是那样厌恶不得不这样做的自己，他甚至不愿意再出现在Dean和Sam面前了。他无法面对他们，知道他们有questions he can't answer，知道这样的自己只会disappoint他们。他害怕，害怕他们不再把他当做朋友，害怕他们用怀疑的仇恨的眼神看他，把他当做朋友。这样自我厌弃的Cass，又会做出多少无人知晓的自我伤害的事以求让自己的内心好受些呢？
+
+（see more in S06E17-22观后感）
+
+### 20.【sastiel】S06E21 Cass从Cage救Sam
 
 Cass提到了是他把soulless Sam从关Michael & Lucifer的Cage里捞上来的，所以他是怎么做到的呢，冒险进到Cage里的时候会不会被Michael和Lucifer打一顿？还要在把Sam捞出来的同时阻止Michael和Lucifer出去，他自己都说了难度超级大的，所以到底发生了什么，怎么做到的，他自己是不是也受了不轻的伤才做到的但是把过程都一句话带过了。
 
-### 20.
+（see more in S06E17-22观后感）
+
+### 21.
