@@ -182,14 +182,28 @@ Balthazar直接脱口而出称呼Cass是Sam的boyfriend了，Sam甚至也极自�
 
 （see more in S06E17-22观后感）
 
-### 20.【sastiel】S06E21 Cass从Cage救Sam
+### 20.【Cass】S06E20 Cass的自杀倾向
+
+Cass的天堂是“the eternal Tuesday afternoon of an autistic man who drowned in a bathtub in 1953”，尤其是结合那一段的画面，空中的风筝，后院草地，隔着屏幕感觉得到的微风——很平静，很忧伤，很孤独，也很有死亡气息。而这竟然是Cass的天堂。Cass和这位autistic man之间有些什么联系呢，还是因为Cass自己也有类似的自杀倾向？倒是可以解释每一次这么着急自我牺牲了。
+
+感觉可以写一段心理咨询室的故事。
+
+（see more in S06E17-22观后感）
+
+### 21.【sastiel】S06E21 Cass从Cage救Sam
 
 Cass提到了是他把soulless Sam从关Michael & Lucifer的Cage里捞上来的，所以他是怎么做到的呢，冒险进到Cage里的时候会不会被Michael和Lucifer打一顿？还要在把Sam捞出来的同时阻止Michael和Lucifer出去，他自己都说了难度超级大的，所以到底发生了什么，怎么做到的，他自己是不是也受了不轻的伤才做到的但是把过程都一句话带过了。
 
 （see more in S06E17-22观后感）
 
-### 21.【DW x SPN】S07E03 Amy Pond
+### 22.【DW x SPN】S07E03 Amy Pond
 
 需要吸食人类下丘脑的狐妖Amy Pond crossover DW的Amy Pond，于是很容易把DW和SPN融合到一起来了。博士这种外星人对温家兄弟来说也是supernatural吧，他们会擦出什么样的火花呢？一起联手拯救世界才对吧。
 
-### 22.
+### 23.【sastiel】S07E17 转移幻觉路西
+
+幻觉路西的存在不是因为灵魂多了一块路西，而是因为灵魂在折磨中被破碎损毁了（Cass说过他的灵魂摸上去就像被活剥了一层皮的），所以路西的存在是一种空洞、一种缺失。所以Cass把“路西”从Sammy大脑里转移到自己身上的时候，其实不是把存在的多出来的这块路西转移到自己身上了，而是更像把自己的灵魂一部分转移到了Sammy身上，把路西制造出来的碎片和空洞填补上了，而自己灵魂开始出现了漏洞，所以他也开始看见幻觉路西了。
+
+（see more in S07E17观后感）
+
+### 24.
