@@ -250,7 +250,7 @@ Cass逃避争执不知道能做什么的时候就用游戏来平静自己内心�
 
 ### 28.【Cass】S07E21 地球的边界守望者
 
-> Castiel: They're from the Garrison – my old Garrison. Looks like Hester's taken over. <u>We were assigned to watch the earth. Often, it was boring. The wars were very boring and the sex – you know, the repetition.</u> Anyway, I was, uh... I was their captain. Isn't that strange?
+> Castiel: They're from the Garrison - my old Garrison. Looks like Hester's taken over. <u>We were assigned to watch the earth. Often, it was boring. The wars were very boring and the sex - you know, the repetition.</u> Anyway, I was, uh... I was their captain. Isn't that strange?
 
 地球的边界守望者，有时会开始感到无聊，突然想看他在上面看特洛伊战争，边看边吐槽，想必也是会被他归到无聊一类里了。想看他统领他的边防部队，在必要的时候下指令，但几千年了都没有派天使降临到地球上的需要，直到S04E01他亲自下来了。（突然想到不知道帕梅拉第一次偷看Cass的时候Cass是在做什么呢，如果是正好衣冠不整比如在盥洗室时候的尴尬时刻，好像也不能指责他burn her eyes呢，毕竟谁会喜欢不提前约好时间的video meeting）
 
@@ -396,4 +396,26 @@ Cass：和失去你相比，失去我的grace不算什么。
 
 S12E15结尾Cass决定回天堂了，Dean不管怎么打电话都打不通全自动转入语音信箱，S12E19开头突然重新出现在bunker偷colt准备执行Joshua的计划去杀Kelly，这期间在天堂发生了什么？他回天堂一定不会受到什么好眼色看。会一声不响回到自己那间破旧的小屋吗，只有一张单人床和乱糟糟的被褥？但是就算被别的天使羞辱也一心想着只要自己这样容忍下来Dean就不用被迫做出艰难选择而坚持下来了。
 
-### 43.
+### 43.【destiel】《In the Shadows》Lyrics，恶魔丁
+
+（by Beyond the Black）
+
+It's so hard to kill the demons
+
+When they live inside your heart
+
+### 44.【destiel/sastiel】S12每一个可以用pray请求Cass帮助而Dean忘了的时刻
+
+- S12E01 解决完God/Darkness危机准备回家时
+- S12E02 Sam被困时
+- S12E09 被总统/特勤局抓住时
+- S12E11 失忆
+- S12E21 被锁在bunker里几乎窒息死去时
+
+### 45.【Cass梦女】我的身份
+
+- Charlie Bradbury
+- Winchester家的小妹妹
+- Woman of Letters
+
+### 46.
