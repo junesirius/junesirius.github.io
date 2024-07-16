@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【SPN】Five Nights at Freddy's
+title: 【SPN】Five Nights at Freddy's（crossover）
 date: 2024-07-11 01:57
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester"]
-tags: ["观后感", "Supernatural", "温家兄弟"]
+tags: ["Supernatural", "温家兄弟", "Crossover"]
 pov: 第一人称
 origin: 名人朋友圈
 ---
@@ -117,4 +117,4 @@ PS：梗题记录
 >
 > 天赐良机！你的朋友送给了你一张时下最热门鬼屋的门票，以真实故事为灵感的设定成功引起了你的好奇，那么试着推开大门去看看里面到底有什么吧？
 >
-> 该信封任务：记录游玩感想——请描述你作为【游客】时的所见所闻，可以记录在鬼屋中的游玩探索过程，也可以讲述通过监控摄像头查看“鬼”的活动轨迹 与它们斗智斗勇的故事。
+> 该信封任务：记录游玩感想——请描述你作为【游客】时的所见所闻，可以记录在鬼屋中的游玩探索过程，也可以讲述通过监控摄像头查看“鬼”的活动轨迹与它们斗智斗勇的故事。

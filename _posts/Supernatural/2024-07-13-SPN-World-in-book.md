@@ -4,7 +4,7 @@ title: 【SPN】World in Book
 date: 2024-07-13 02:54
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester", "Rowena MacLeod"]
-tags: ["观后感", "Supernatural", "温家兄弟"]
+tags: ["Supernatural", "温家兄弟"]
 pov: 第一人称
 origin: 名人朋友圈
 ---

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【SPN】终结的炽天使
+title: 【SPN】终结的炽天使（crossover）
 date: 2024-07-14 03:59
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester", "Castiel"]
-tags: ["观后感", "Supernatural", "温家兄弟", "destiel", "sastiel"]
+tags: ["Supernatural", "温家兄弟", "destiel", "sastiel", "Crossover"]
 pov: 第一人称
 origin: 名人朋友圈
 ---
