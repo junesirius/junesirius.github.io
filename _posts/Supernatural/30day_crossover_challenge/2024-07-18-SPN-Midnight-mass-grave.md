@@ -1,12 +1,13 @@
 ---
 layout: post
-title: 【SPN】夜闯乱葬岗（Crossover）
+title: 【SPN】夜闯乱葬岗（crossover）
 date: 2024-07-18 05:27
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester"]
 tags: ["Supernatural", "温家兄弟", "Crossover"]
 pov: 第一人称
 origin: 名人朋友圈
+long_novels: 【SPN】三十天crossover挑战
 ---
 
 “Dean！这边！不不，那边！见鬼，我看不见它们！它们太快了，到处都是！”我大喊，惊慌失措，手电的光来回摇晃寻找，光柱照亮的地方，带翅膀的黑影飞进飞出，比它们本身看起来大得多。

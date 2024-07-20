@@ -7,6 +7,7 @@ characters: ["Sam Winchester", "Dean Winchester"]
 tags: ["Supernatural", "温家兄弟", "Crossover"]
 pov: 第一人称
 origin: 名人朋友圈
+long_novels: 【SPN】三十天crossover挑战
 ---
 
 当Dean走进房间的时候我刚好挂下电话：“好的，当然，我们会去看一看的，谢谢你。Bye.”

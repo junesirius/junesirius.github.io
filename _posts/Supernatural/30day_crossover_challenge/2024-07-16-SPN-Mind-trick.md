@@ -7,6 +7,7 @@ characters: ["Sam Winchester", "Lucifer"]
 tags: ["Supernatural", "温家兄弟", "Crossover"]
 pov: 第一人称
 origin: 名人朋友圈
+long_novels: 【SPN】三十天crossover挑战
 ---
 
 峡谷越往里走，雾气越浓重，潮湿，冰凉，有股腐朽的气味。前面的路越来越难以分辨。头顶的光线愈发昏暗，周围的一切很快就变得好像一张掉进水里的印象派画，大片的昏黑是岩壁和地面，被沉沉的白雾浸湿，渗透，边缘开始摇晃，模糊，销蚀。

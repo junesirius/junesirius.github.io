@@ -7,6 +7,7 @@ characters: ["Sam Winchester", "Dean Winchester", "Gabriel"]
 tags: ["Supernatural", "温家兄弟"]
 pov: 第一人称
 origin: 名人朋友圈
+long_novels: 【SPN】三十天crossover挑战
 ---
 
 “No, no, no, no, no.”我捶打着该死的门，充满挫败感。已经记不清这是第几次回到这同一扇房门前，不管我朝哪个方向走，这幢房子都像迷宫一样有办法让我回到这里，我刚醒来时看见的房间。

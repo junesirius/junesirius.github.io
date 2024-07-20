@@ -1,12 +1,13 @@
 ---
 layout: post
-title: 【SPN】仙古游戏世界（Crossover）
+title: 【SPN】仙古游戏世界（crossover）
 date: 2024-07-17 04:34
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester", "John Winchester"]
 tags: ["Supernatural", "温家兄弟", "Crossover"]
 pov: 第一人称
 origin: 名人朋友圈
+long_novels: 【SPN】三十天crossover挑战
 ---
 
 （1995年）

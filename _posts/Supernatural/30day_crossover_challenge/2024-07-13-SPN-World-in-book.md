@@ -7,6 +7,7 @@ characters: ["Sam Winchester", "Dean Winchester", "Rowena MacLeod"]
 tags: ["Supernatural", "温家兄弟"]
 pov: 第一人称
 origin: 名人朋友圈
+long_novels: 【SPN】三十天crossover挑战
 ---
 
 背后的书架持续不断发出低低的震动声，我从正沉迷其中的古代传说书中被打断思路。

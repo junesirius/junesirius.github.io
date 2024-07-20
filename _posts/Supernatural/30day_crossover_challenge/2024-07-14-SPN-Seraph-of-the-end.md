@@ -7,6 +7,7 @@ characters: ["Sam Winchester", "Dean Winchester", "Castiel"]
 tags: ["Supernatural", "温家兄弟", "destiel", "sastiel", "Crossover"]
 pov: 第一人称
 origin: 名人朋友圈
+long_novels: 【SPN】三十天crossover挑战
 ---
 
 “你在读什么？”当Dean的声音从我背后冒出来的时候我用了最快的速度盖住面前的画本。但仍然不够快。

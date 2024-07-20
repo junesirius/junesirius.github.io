@@ -7,6 +7,7 @@ characters: ["Sam Winchester", "Mary Winchester", "John Winchester", "Castiel"]
 tags: ["Supernatural", "温家兄弟", "时间旅行"]
 pov: 第一人称
 origin: 名人朋友圈
+long_novels: 【SPN】三十天crossover挑战
 ---
 
 “嘿，Cass，嗯……”我抬手轻敲Cass的房门，天使正在看书。

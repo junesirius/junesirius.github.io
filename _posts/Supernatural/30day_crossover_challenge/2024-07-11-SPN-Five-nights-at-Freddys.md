@@ -7,6 +7,7 @@ characters: ["Sam Winchester", "Dean Winchester"]
 tags: ["Supernatural", "温家兄弟", "Crossover"]
 pov: 第一人称
 origin: 名人朋友圈
+long_novels: 【SPN】三十天crossover挑战
 ---
 
 “Dude，认真的吗？”我目瞪口呆地望着地上巨大的玩偶服，罪魁祸首明显在享受这个时刻。
