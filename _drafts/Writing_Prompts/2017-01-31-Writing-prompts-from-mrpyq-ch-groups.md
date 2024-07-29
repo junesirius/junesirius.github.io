@@ -532,7 +532,6 @@ published: false
      3. 跳楼机：失重感
      4. 旋转木马：追随某人的脚步/某个目标
      5. 繁星夜空馆：逐渐变好的日子
-
 130. 对父亲的回忆
 131. 作为他人的向导
 132. 信物：若你需要为某人留下一个东西，你会选择留下什么好让对方想起自己？或者你不会留下任何东西？你有收到过别人的信物吗？
@@ -540,6 +539,7 @@ published: false
 134. 救下的人：你是否救过一个令你印象深刻的人？对方是谁？
 135. 无法开口：你是否会在某件事情上保持沉默？你为什么不愿意提起那件事？是因为感到心痛，遗憾，后悔，还是憎恨？
 136. 歌词“I am your sick and twisted ghost, I'm an animal at most.” Animal at most - SAFIA
+137. 歌词“I'll love you till the day that I die.” Birds of a feather - Billie Eilish
 137. 
 
 ### **欧专周梗区**
