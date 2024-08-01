@@ -9,7 +9,7 @@ pov: 第三人称
 origin: AO3
 ---
 
-\# AO3 tags: "suicidal Castiel", "depressed Castiel", "triggering", "angst", "hurt no comfort", "torture", "but for a good reason", "pain", "a lot of pain", "a lot of tears", "no one dies but sad ending", "hopeful ending maybe", "sequal maybe", "post S15E02", "S14E18", "S14E20", "S08E10", "Crowley is alive", "Crowley is a big help", "Rowena is a big help", "Sam is a big help", "Everyone is a big help", "Dean Winchester is a dick"
+\# AO3 tags: "suicidal Castiel", "depressed Castiel", "triggering", "angst", "hurt no comfort", "torture", "but for a good reason", "pain", "a lot of pain", "a lot of tears", "no one dies but sad ending", "sequal maybe", "post S15E02", "S14E18", "S14E20", "S08E10", "Sam is a big help", "Rowena is a big help", "Everyone is a big help", "Dean Winchester is a dick", "Enochian"
 
 \# Summary: Dean is a dick. Cass needs saving.
 
@@ -17,11 +17,9 @@ origin: AO3
 
 I want to punish Dean for being such a dick, so I tortured Cass to torture him. So the title is also from me to Cass, "I'm sorry, Cass."
 
-I had this story idea after I watched S15E02, and then when I was still planning it, I watched S15E03, and I regretted not writing this down sooner. I want to un-see it. The breakup scene and the sacrifice of Rowena hurt me so badly that I forgot half the juicy content I was initially imagining for this story. Dean needs to apologize to me.
+I had this story idea after I watched S15E02, and then when I was still planning it, I watched S15E03, and I regretted not writing this down sooner. The breakup scene and the sacrifice of Rowena hurt me so badly that I forgot half the juicy content I was initially imagining for this story. Dean needs to apologize to me.
 
-For anyone who gets hurt by reading this story, the title is my apology to you too.
-
-There might be some sequel(s) to this, but I haven't decided yet. Not unless enough people want to see it.
+For anyone who gets hurt by reading this story, the title is my apology to you too. If it's any comfort, the ending is not beyond repair. There could be some sequel(s) to fix this, but I haven't decided yet. Not unless enough people want to see it.
 
 <br>
 
@@ -515,7 +513,7 @@ Castiel tilts his head while observing him, the same way a kid observes ants thr
 
 Dean lets out a short harsh breath, trying to manage a weak smile but fail completely. He stands up and steps back from the bed, says, "No. Let's keep it that way. Do you remember who you are?"
 
-The angel answers smoothly, "I'm Castiel, an angel of the Lord."
+The angel answers easily, "I'm Castiel, an angel of the Lord."
 
 Dean gives him a quick nod, says, "Good." And he heads out of the room in a beeline.
 
@@ -545,17 +543,17 @@ Sam sighs, letting the silence fall between them and simmer for a few minutes be
 
 "Why?" Sam frowns, "I mean, I know you guys don't always agree and sometimes it hurts..."
 
-"Hurts?" Dean looks at him unbelievably through the red eyes, "Sam, it's not just hurt, I *destroyed* him. Cass was so devastated that he decided to not just kill himself but wipe his entire existence! So yeah, point taken, this time better he doesn't know me, at least then I won't kill him again. He'd be happier that way. And safer."
+"Hurts?" Dean looks at him unbelievably through the red eyes, "Sam, it's not just hurt, I *destroyed* him. Cass was so devastated that he decided to not just kill himself but wipe his entire existence! So yeah, point taken, this time better he doesn't know me, at least then I won't kill him again. He'd be happier this way. And safer."
 
 "Shouldn't he be the one makes the call?" Sam suggests.
 
-"He did, at the moment he pressed the delete button." Dean takes another mouthful of drink.
+"He did, at the moment he pressed the delete button." Dean takes another mouthful of drink. "Trust me, he wouldn't want to have anything to do with me again. No one does."
 
-Sam sighs again. "What about you?" he turns, concerned, "Are you ever going to be happy again? I see how you..."
+Sam sighs loudly again. He gives up, shifts the concern, "What about you? Are you ever going to be happy again? I see how you..."
 
 "I'll be fine." Dean cuts him off quickly, closing his eyes, "I'll... I deserve it. Knowing he's well and alive is good enough for me, a blessing even, I can't ask for more."
 
-Sam looks at his brother in his sad doggy eyes, and Dean refuses to talk any more.
+Sam lowers his sad doggy eyes.
 
 "So this is it?"
 
