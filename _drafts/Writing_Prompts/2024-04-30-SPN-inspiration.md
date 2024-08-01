@@ -407,7 +407,7 @@ When they live inside your heart
 ### 44.【destiel/sastiel】S12每一个可以用pray请求Cass帮助而Dean忘了的时刻
 
 - S12E01 解决完God/Darkness危机准备回家时
-- S12E02 Sam被困时
+- S12E02 Sam被BMOL抓住时
 - S12E09 被总统/特勤局抓住时
 - S12E11 失忆
 - S12E21 被锁在bunker里几乎窒息死去时
@@ -415,7 +415,19 @@ When they live inside your heart
 ### 45.【Cass梦女】我的身份
 
 - Charlie Bradbury
-- Winchester家的小妹妹
-- Woman of Letters
+- 另一个Winchester家的孩子（格式模仿《另一个波琳家的女孩》）
+- Woman of Letters（模仿很喜欢的那篇凹三中的OC Luca）
 
-### 46.
+### 46.【destiel】S13E23 双天使丁卡
+
+Dean被米迦勒附身之后展开了大翅膀，跟S04E01的卡第一次展开翅膀时候一样壮观美丽，还有慢动作的慢慢展开的镜头。很想看丁卡都有翅膀前提下的初见和恋爱剧情，卡一开始不知道Dean也有翅膀，看见居然是比自己更加美丽强大的翅膀时突然梗住被震撼。
+
+### ~~47.【destiel】S14E18 心碎杀死天使（《I'm Sorry》里用了）~~
+
+（仿魔戒设定“杀死精灵的两件东西：心碎和火”）
+
+天使刃和圣火可以把天使送去虚无，而心碎，可以彻底毁灭一个天使。
+
+Dean的“you're dead to me”，可以真正地杀死Cass。
+
+### 48.
