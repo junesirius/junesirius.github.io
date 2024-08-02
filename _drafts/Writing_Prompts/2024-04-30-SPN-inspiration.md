@@ -436,4 +436,10 @@ Dean被米迦勒附身之后展开了大翅膀，跟S04E01的卡第一次展开�
 
 Dean的“you're dead to me”，可以真正地杀死Cass。
 
-### 48.
+### 48.【destiel】S15E09 Monster Ending
+
+该隐之印让Cass发疯，Dean不得不把他关到Ma'lak Box里。
+
+想写Cass发疯的时候发生了什么，可以用到S10E18上一次Dean有该隐之印的时候暴揍Dean的那一顿作为参考，他会黑化失控，但是会做到什么地步。会家暴Dean，这是肯定要有的，也许差点杀掉了他。但是最后是怎么被连哄带劝地关进Ma'lak Box的。
+
+### 49.
