@@ -71,7 +71,7 @@ Dean's voice answers, impatiently, "Nothing. Why the hell do you make it sound l
 
 Dean murmurs something under his breath, Cass can't quite make it out from the distance. The sound is followed by empty glass hitting the table, the refrigerator door opening and closing, and a bottle lid flying open. Castiel hesitates whether this would be a good moment to walk in, when Dean starts talking again. So he waits.
 
-"He needs to earn it." Dean says, fiercely, not difficult to imagine how his teeth must clench, "The trust, the respect, all of it. He ruined them too damn many times he'll have to build it from ground zero again."
+"He needs to earn it." Dean says, fiercely, sound squeezed out from between clenched teeth, "The trust, the respect, all of it. He ruined them too damn many times he'll have to build it from ground zero again."
 
 Castiel flinches in pain, feeling his heart get stung by countless needles right through the center. He knows he messed up, but he never knows for sure how Dean really sees it -- see him -- and now he gets the cruel answer: Dean stops respecting him, stops trusting him, like he said himself, he's dead to him. Castiel closes his eyes, breathing long and slowly, trying to ease the pain, but nothing helps. He can almost see his heart -- or his Grace, whatever metaphorical spiritual central core that bears the weight of feelings and emotions -- curls up to a small blob, the way a human huddles themselves to the smallest for self-defense.
 
@@ -433,7 +433,7 @@ But the eyes are dull, the dazzling bright blue that it used to carry and Dean u
 
 And with angel's eyes open, Dean finds it even harder now to continue doing what has to be done. Strength is drawn from every part of his body, he has never felt so exhausted before in his whole life.
 
-"Cass, come on, come back to me. I'm sorry." He begs, voices husky and broken, hands on his shoulder shaking the angel's body lightly, before forcing himself to turn the pole on his forehead again.
+"Cass, come on, come back to me. I'm sorry." He begs, his voice husky and broken, hands on his shoulder shaking the angel's body lightly, before forcing himself to turn the pole on his forehead again.
 
 "Pah-deh-rah." Castiel starts talking. It takes Dean a second to realize he's speaking Enochian.
 
