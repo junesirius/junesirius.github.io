@@ -469,7 +469,7 @@ Dean pulls angel's strengthless body towards him, holding him tightly, pressing 
 
 The side of his temple nuzzles against angel's, unintentionally touching one of the drill picks. Castiel speaks again, "Lah-peh zer-doh noh-koh gi, ay-see-ak."
 
-Dean doesn't let go or look back.
+Dean doesn't let go or look up.
 
 Crowley hesitates. Sam eyes him, giving him a look that says "Spill, now!"
 
@@ -493,7 +493,7 @@ If the reset button is still in there somewhere, this is it.
 
 Hands still holding Castiel's body so that he can look into angel's unfocused eyes, desperately wishing to reach inside, Dean weeps, "Listen to me, Cass. Listen very carefully. I don't deserve you, ok? I see that now, you're too good and bright and kind and loyal for me." his voice breaks but he forces himself to keep going, "I don't deserve any of it, and you don't deserve to die, to - to perish, because of an asshole like me. If I'm the reason why your entire existence is going to cease to exist, then delete me. Delete all the memory of me and everything that causes you pain if this is what you want. Just, just restore to the time when you are unharmed, in peace, happy. Complete. When you are still complete. Please, for once, do this one thing for yourself."
 
-Dean leans forward, gives the angel one more tight grip, murmurs something only he can hear by his ear, and waits for the warmth to linger and words to soak for a beat. Then he starts to disassemble the metal contraption.
+Dean leans forward, gives the angel one more tight grip, murmurs something only he can hear by his ear, and waits for the warmth to linger and words to sink for a beat. Then he starts to carefully disassemble the metal contraption.
 
 Putting the device aside, Dean sits back by Castiel's side, holding his hands, studying his face, and just waiting. Patiently, silently waiting. Like a reef by the shore waiting for a ship to sail back.
 
@@ -523,7 +523,7 @@ Crowley and Sam look at his back, exchanging a look. Sam follows him out.
 
 Sam finds him in the kitchen, with an open bottle of whiskey. Unsurprisingly.
 
-"How are you doing?" Sam asks.
+"How you holding up?" Sam asks.
 
 Dean doesn't answer. His eyes lose focus and blankly stare at the bottle. He doesn't seem to hear his words.
 
@@ -545,13 +545,13 @@ Sam sighs, letting the silence fall between them and simmer for a few minutes be
 
 "Hurts?" Dean looks at him unbelievably through the red eyes, "Sam, it's not just hurt, I *destroyed* him. Cass was so devastated that he decided to not just kill himself but wipe his entire existence! So yeah, point taken, this time better if he doesn't know me, at least then I won't kill him again. He'd be happier this way. And safer."
 
-"Shouldn't he be the one who makes the call?" Sam suggests.
+"Shouldn't he be the one making the call?" Sam suggests.
 
 "He did, at the moment he pressed the delete button." Dean takes another mouthful of drink. "Trust me, he wouldn't want to have anything to do with me again. No one does."
 
 Sam sighs loudly again. He gives up, shifting the concern, "What about you? Are you ever going to be happy again? I see how you..."
 
-"I'll be fine." Dean cuts him off quickly, closing his eyes, "I'll... I deserve it. Knowing he's well and alive is good enough for me, a blessing even, I can't ask for more."
+"I'll be fine." Dean cuts him off quickly, shutting his eyes, "I'll... I deserve it. Knowing he's well and alive is good enough for me, a blessing even, I can't ask for more."
 
 Sam lowers his sad doggy eyes.
 
