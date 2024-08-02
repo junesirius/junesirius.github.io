@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SPN】I'm sorry
+title: 【SPN】I'm Sorry
 date: 2024-07-29 02:45
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester", "Castiel", "Crowley", "Rowena MacLeod"]
