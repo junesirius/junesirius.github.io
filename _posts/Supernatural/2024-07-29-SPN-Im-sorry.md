@@ -327,7 +327,7 @@ Rowena increases her volume, "And what are you planning to do with the demons in
 
 "Don't know, don't care." Dean says plainly, but the voice is steady now, not the broken sobbing voice Sam heard earlier. "I'll just kill my way in, I guess. Not the first time doing that."
 
-"Bullocks!" Rowena sighs loudly, "Alright, alright, come back you idiot. There is someone who can help us. We didn't want to tell you before but..."
+"Bollocks!" Rowena sighs loudly, "Alright, alright, come back you idiot. There is someone who can help us. We didn't want to tell you before but..."
 
 Sam squints at her, "'We'? Rowena, what didn't you tell us?"
 
