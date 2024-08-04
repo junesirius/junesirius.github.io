@@ -383,6 +383,8 @@ Rowena shrugs. Crowley puts down his snapping hand, and quickly puts on an over-
 
 "Thanks." Sam mutters, and then hurries towards the infirmary to look for Dean.
 
+<br>
+
 Dean already sets the metal contraption on Cass's head, the wires tightly surround his skull, the holes spread evenly around the circle. He also puts Cass into a sitting position, making it easier for both of them.
 
 Dean holds one drilling pick in the right hand, looking down at the unconscious angel, biting his lips so hard it starts bleeding. The tough soldier mask he used to put on his face is cracking, he is trying hard to hold back the wetness in his eyes. Sam dashes in and jolts to a stop by the door.
@@ -415,7 +417,7 @@ The metal pierces through the thin layer of skin. Cass gives a higher pitch of p
 
 He leans forward to wipe the tear away from the corner of Castiel's eye with his thumb. His movement is so gentle as if he's afraid to break the angel if he presses any harder. Sam watches him.
 
-The third metal pick goes to the right temple. Dean stands up to use the whole forearm of his left arm to hold Castiel's head, and uses the right hand to press the drill in. More tears gush out from angel's closed eyes, the mouth opens once but no sound comes out, as if the pain is so tremendous that his body forgets how to scream, forgets how to use the voice to ease the pain, because there is no way of easing it.
+The third metal pick goes to the right temple. Dean leans in to use the whole forearm of his left arm to hold Castiel's head, and uses the right hand to press the drill in. More tears gush out from angel's closed eyes, the mouth opens once but no sound comes out, as if the pain is so tremendous that his body forgets how to scream, forgets how to use the voice to ease the pain, because there is no way of easing it.
 
 Dean's own tears are also uncontrollably coming out just by watching Castiel in pain. He throws his arms around Cass's thin back, holding him like that for a beat, hoping again this can make the pain go away a little bit. But when he pulls away from the hug, Dean realizes he's the one that needs it.
 
@@ -515,7 +517,7 @@ Dean lets out a short harsh breath, trying to manage a weak smile but failing co
 
 The angel answers easily, "I'm Castiel, an angel of the Lord."
 
-Dean gives him a quick nod, and says, "Good." And he heads out of the room in a beeline.
+Dean gives him a quick nod, "Good." And he heads out of the room in a beeline.
 
 Crowley and Sam look at his back, exchanging a look. Sam follows him out.
 
