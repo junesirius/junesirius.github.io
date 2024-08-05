@@ -900,6 +900,8 @@ published: false
 
 ### 罕见又有趣的给孩子的礼物
 
+（更多来自：https://www.zhihu.com/question/36882377/answer/3402507496）
+
 1. 漂亮且安全的矿石标本
 2. 合法销售的化石标本
 3. 水晶簇
@@ -988,7 +990,6 @@ published: false
 86. 天然盐矿晶体
 87. 小鸟形状、指甲钳大小的手动榨汁机
 88. 用玉石雕刻而成的小小莲蓬挂件
-89. _posts/Supernatural/, _drafts/Writing_Prompts/*SPN*
 
 ### 绘画构成13题
 

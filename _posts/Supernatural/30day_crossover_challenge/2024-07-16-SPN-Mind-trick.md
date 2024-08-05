@@ -4,7 +4,7 @@ title: 【SPN】心魔
 date: 2024-07-16 01:45
 categories: ["SPN"]
 characters: ["Sam Winchester", "Lucifer"]
-tags: ["Supernatural", "温家兄弟", "Crossover"]
+tags: ["Supernatural", "温家兄弟", "crossover"]
 pov: 第一人称
 origin: 名人朋友圈
 long_novels: 【SPN】三十天crossover挑战

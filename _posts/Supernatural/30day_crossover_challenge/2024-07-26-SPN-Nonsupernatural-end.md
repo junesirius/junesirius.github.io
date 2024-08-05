@@ -4,7 +4,7 @@ title: 【SPN】非超自然末日（crossover）
 date: 2024-07-26 05:05
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester", "Castiel"]
-tags: ["Supernatural", "温家兄弟", "destiel", "Crossover"]
+tags: ["Supernatural", "温家兄弟", "destiel", "crossover"]
 pov: 第一人称
 origin: 名人朋友圈
 long_novels: 【SPN】三十天crossover挑战

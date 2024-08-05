@@ -4,7 +4,7 @@ title: 【亚梅】不可言喻的命运（预告）
 date: 2020-10-25 01:00
 categories: ["Crossover"]
 characters: ["Merlin", "Arthur", "Aziraphale", "Crowley"]
-tags: ["亚梅", "Crossover", "CA", "好兆头", "梅林传奇"]
+tags: ["亚梅", "crossover", "CA", "好兆头", "梅林传奇"]
 pov: 第三人称
 origin: Lofter
 ---

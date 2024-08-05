@@ -4,7 +4,7 @@ title: 【SPN】食物怪（crossover）
 date: 2024-07-30 05:31
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester"]
-tags: ["Supernatural", "温家兄弟", "Crossover"]
+tags: ["Supernatural", "温家兄弟", "crossover"]
 pov: 第一人称
 origin: 名人朋友圈
 long_novels: 【SPN】三十天crossover挑战

@@ -2,9 +2,9 @@
 layout: post
 title: 【CA】神夏Crossover
 date: 2020-05-13 22:13
-categories: Crossover
+categories: ["Crossover"]
 characters: ["Crowley", "Aziraphale", "Sherlock Holmes", "John Watson"]
-tags: ["CA", "好兆头", "福华", "神夏", "Crossover"]
+tags: ["CA", "好兆头", "福华", "神夏", "crossover"]
 pov: 第三人称
 origin: 名人朋友圈
 ---

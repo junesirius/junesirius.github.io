@@ -4,7 +4,7 @@ title: 【SPN】猎人执照考试（crossover）
 date: 2024-07-27 04:25
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester", "Mary Winchester", "Mick Davies"]
-tags: ["Supernatural", "温家兄弟", "Crossover"]
+tags: ["Supernatural", "温家兄弟", "crossover"]
 pov: 第一人称
 origin: 名人朋友圈
 long_novels: 【SPN】三十天crossover挑战

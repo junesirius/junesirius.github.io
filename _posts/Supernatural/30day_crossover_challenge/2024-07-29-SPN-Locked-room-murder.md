@@ -4,7 +4,7 @@ title: 【SPN】密室杀人案（crossover）
 date: 2024-07-29 05:20
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester"]
-tags: ["Supernatural", "温家兄弟", "Crossover"]
+tags: ["Supernatural", "温家兄弟", "crossover"]
 pov: 第一人称
 origin: 名人朋友圈
 long_novels: 【SPN】三十天crossover挑战

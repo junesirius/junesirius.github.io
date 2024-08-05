@@ -4,7 +4,7 @@ title: 【SPN】说话的猫（crossover）
 date: 2024-08-02 04:55
 categories: ["SPN"]
 characters: ["Sam Winchester", "Castiel"]
-tags: ["Supernatural", "sastiel", "Crossover"]
+tags: ["Supernatural", "sastiel", "crossover"]
 pov: 第一人称
 origin: 名人朋友圈
 long_novels: 【SPN】三十天crossover挑战
