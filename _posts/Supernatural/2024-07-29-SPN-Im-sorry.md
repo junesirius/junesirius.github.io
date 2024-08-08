@@ -483,7 +483,7 @@ The next words coming out of the unconscious angel's mouth leave the room in ult
 
 That doesn't need translation anymore.
 
-The sound is strange, likely still in Enochian, but the name is non-mistaken.
+The sound is strange, still in Enochian, but the name is non-mistaken.
 
 *For I am the servant of you, Dean Winchester.*
 
@@ -493,7 +493,7 @@ If there is one way to say love in Enochian, this is it.
 
 If the reset button is still in there somewhere, this is it.
 
-Hands still holding Castiel's body so that he can look into angel's unfocused eyes, desperately wishing to reach inside, Dean weeps, "Listen to me, Cass. Listen very carefully. I don't deserve you, ok? I see that now, you're too good and bright and kind and loyal for me." his voice breaks but he forces himself to keep going, "I don't deserve any of it, and you don't deserve to die, to - to perish, because of an asshole like me. If I'm the reason why your entire existence is going to cease to exist, then delete me. Delete all the memory of me and everything that causes you pain if this is what you want. Just, just restore to the time when you are unharmed, in peace, happy. Complete. When you are still complete. Please, for once, do this one thing for yourself."
+Hands still holding Castiel's body so that he can look into angel's unfocused eyes, desperately wishing to reach inside, Dean weeps, "Listen to me, Cass. Listen very carefully. I don't deserve you, ok? I see that now, you're too good and bright and kind and loyal for me." his voice breaks but he forces himself to keep going, "I don't deserve any of it, and you don't deserve to die, to - to perish, because of an asshole like me. If I'm the reason why your entire existence is going to end, then delete me. Delete all the memory of me and everything that causes you pain if it's what you want. Just, just return to the time when you are unharmed, in peace, happy. Complete. When you are still complete. Before meeting me. Please, for once, do this one thing for yourself."
 
 Dean leans forward, gives the angel one more tight grip, murmurs something only he can hear by his ear, and waits for the warmth to linger and words to sink for a beat. Then he starts to carefully disassemble the metal contraption.
 
