@@ -4,7 +4,7 @@ title: 【SPN】食物怪（crossover）
 date: 2024-07-30 05:31
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester"]
-tags: ["Supernatural", "温家兄弟", "Crossover"]
+tags: ["Supernatural", "温家兄弟", "crossover"]
 pov: 第一人称
 origin: 名人朋友圈
 long_novels: 【SPN】三十天crossover挑战
@@ -78,3 +78,7 @@ PS：梗题记录
 > 2. 辣椒怪兽（战斗力☆☆☆☆）：源源不断地释放辣味气体，时而还会喷出火焰
 > 3. 可乐喷泉（战斗力☆☆）：面前的大型喷泉好像有问题？向四面八方喷射进攻的居然是可乐……
 > 4. 西瓜球（战斗力☆☆☆☆☆）：别看它个头小，但战斗力爆表。骨碌碌地在你脚边旋转，绊你一个大跟头不是问题。
+
+PPS：文末Notes
+
+越来越困倦而懒得好好写了

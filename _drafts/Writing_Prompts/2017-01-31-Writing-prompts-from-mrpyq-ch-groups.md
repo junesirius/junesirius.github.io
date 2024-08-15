@@ -361,7 +361,7 @@ published: false
 
 ### **欧专月梗**/月度茶话会
 
-（@Winter Soldier 1007，每一个“你”都是指你的角色，last update: 2024/07/05）
+（@Winter Soldier 1007，每一个“你”都是指你的角色，last update: 2024/08/08）
 
 1. About her：关于她的快乐/悲伤回忆
 2. 如果可以穿越时间：如果你有十分钟能回到过去的某一个瞬间，你会对她说什么话？是后悔没说出口的道歉，是感谢她一直以来的陪伴，还是什么也不说，只想安安静静地看着她？
@@ -540,6 +540,11 @@ published: false
 135. 无法开口：你是否会在某件事情上保持沉默？你为什么不愿意提起那件事？是因为感到心痛，遗憾，后悔，还是憎恨？
 136. 歌词“I am your sick and twisted ghost, I'm an animal at most.” Animal at most - SAFIA
 137. 歌词“I'll love you till the day that I die.” Birds of a feather - Billie Eilish
+137. 水边派对：参加一次水边的派对！海滩，泳池，或者瀑布，尽情发挥！
+137. 降温：你战斗时的制服是否很闷热？盛夏战斗时会不会出很多汗？你又是怎样对付这种炎热的，会直接抛弃原版制服、轻装上阵吗？如果制服并不闷热，那会带小风扇吗？
+137. 你值得听到：你最应该听见什么样的话？一句感谢，一句告白，一句道歉，还是一次坦白？
+137. 紧张感：你是否需要处理紧张的气氛（比如两名队友发生争吵、需要有人拉架），你处理得熟练吗？还是，你反而是导致气氛紧张的人？
+137. 歌词“Let the tides carry you back to me.” Telomeres - Sleep Token
 137. 
 
 ### **欧专周梗区**

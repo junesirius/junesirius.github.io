@@ -4,7 +4,7 @@ title: 【亚梅】魔法史（大纲文）
 date: 2021-04-11 05:59
 categories: ["Crossover"]
 characters: ["Merlin", "Arthur", "Godric Gryffindor", "Salazar Slytherin", "Rowena Ravenclaw", "Helga Hufflepuff", "Albus Dumbledore", "Gellert Grindelwald"]
-tags: ["亚梅", "梅林传奇", "HP", "Crossover", "大纲文", "四巨头", "GGAD", "为了更伟大的利益"]
+tags: ["亚梅", "梅林传奇", "HP", "crossover", "大纲文", "四巨头", "GGAD", "为了更伟大的利益"]
 pov: 第三人称
 origin: Lofter
 ---

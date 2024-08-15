@@ -4,7 +4,7 @@ title: 【SPN】猎人执照考试（crossover）
 date: 2024-07-27 04:25
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester", "Mary Winchester", "Mick Davies"]
-tags: ["Supernatural", "温家兄弟", "Crossover"]
+tags: ["Supernatural", "温家兄弟", "crossover"]
 pov: 第一人称
 origin: 名人朋友圈
 long_novels: 【SPN】三十天crossover挑战
@@ -172,3 +172,7 @@ PPS：其他有趣的梗题选项：
 > 正值夏季，咖啡厅除了咖啡果冻还有其他富有地区特色的甜品，或许你在店内还能看见插着小鲤鱼旗的刨冰和烤酸奶等等。咖啡厅很受附近学生的喜爱，目前正在持续招收店员中，除了品尝甜品还可以前去兼职。
 >
 > 请以“咖啡厅/甜品鉴赏”的故事为主题进行创作。
+
+P3S：文末Notes
+
+写得我好饿，我也想吃Winchester Surprise。今天不打怪，只做饭。猎魔期间也该吃点好吃的。

@@ -4,7 +4,7 @@ title: 【SPN】童话扮演（crossover）
 date: 2024-07-28 05:34
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester"]
-tags: ["Supernatural", "温家兄弟", "Crossover"]
+tags: ["Supernatural", "温家兄弟", "crossover"]
 pov: 第一人称
 origin: 名人朋友圈
 long_novels: 【SPN】三十天crossover挑战
@@ -97,3 +97,7 @@ PS：梗题记录
 > - 国王【√】
 > - 领主
 > - 赌徒
+
+PPS：文末Notes
+
+好困，好困，好困……又通宵了，我为什么要写，我为什么不在睡觉。

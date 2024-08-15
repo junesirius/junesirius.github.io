@@ -4,7 +4,7 @@ title: 【SPN】六葬菩萨庙（crossover）
 date: 2024-07-24 02:45
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester"]
-tags: ["Supernatural", "温家兄弟", "Crossover"]
+tags: ["Supernatural", "温家兄弟", "crossover"]
 pov: 第一人称
 origin: 名人朋友圈
 long_novels: 【SPN】三十天crossover挑战
@@ -127,3 +127,7 @@ PS：梗题记录
 > - 一个棒球：看起来好像眼球哦
 > - 斩煞刀：掌管六老太爷脑袋的神
 > - 吃了一半的香蕉：好像已经有点发臭了
+
+PPS：文末Notes
+
+灵异恐怖解谜游戏AU什么的，跟SPN的适配度还是很好的，虽然国风向的恐怖其实不算很喜欢（稍微了解了一下故事背景也仍然觉得没什么兴趣），借题发挥码个短打还是可以的。

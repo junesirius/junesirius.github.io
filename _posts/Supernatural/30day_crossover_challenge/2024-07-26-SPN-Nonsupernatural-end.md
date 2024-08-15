@@ -4,7 +4,7 @@ title: 【SPN】非超自然末日（crossover）
 date: 2024-07-26 05:05
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester", "Castiel"]
-tags: ["Supernatural", "温家兄弟", "destiel", "Crossover"]
+tags: ["Supernatural", "温家兄弟", "destiel", "crossover"]
 pov: 第一人称
 origin: 名人朋友圈
 long_novels: 【SPN】三十天crossover挑战
@@ -95,3 +95,7 @@ PS：梗题记录
 > 1. 利用时空黑洞，去寻找环境保护的方法
 > 2. 利用任意门这个道具，前往你所要清理的任务地点
 > 3. 如果世界末日真的来临，你会在有限的现在，做出什么环保举措改变既定事实
+
+PPS：文末Notes
+
+感觉写得有点跑题，末日确实是末日了，但是没拯救也没做任何环保措施，光是三个人围着桌子开讨论会了。但是也写得很开心，虽然环保主题有点无趣，难得crossover过来玩一玩还是能编出点东西的。

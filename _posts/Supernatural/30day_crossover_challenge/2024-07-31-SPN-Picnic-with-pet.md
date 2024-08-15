@@ -4,7 +4,7 @@ title: 【SPN】和动物一起野餐（crossover）
 date: 2024-07-31 05:03
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester"]
-tags: ["Supernatural", "温家兄弟", "Crossover"]
+tags: ["Supernatural", "温家兄弟", "crossover"]
 pov: 第一人称
 origin: 名人朋友圈
 long_novels: 【SPN】三十天crossover挑战
@@ -57,3 +57,7 @@ PS：梗题记录
 > 爱与伙伴是这个世界最重要的成分之一，有一群伙伴，比什么都浪漫！夏日到了，你找到与你合拍的伙伴了吗？在与伙伴同游的过程中，在这宁静而生机盎然的天地间，放下繁忙，感受大自然的脉搏，聆听风的呢喃，和小动物们相约共赴一场别开生面的野餐吧！
 >
 > 请以【和小动物一起野餐！】为题创作。
+
+PPS：文末Notes
+
+终于完全写不动了开始短字数的糊弄……然后因为太困了开始出现乱码……

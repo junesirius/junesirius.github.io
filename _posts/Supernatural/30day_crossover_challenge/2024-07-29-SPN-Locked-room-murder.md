@@ -4,7 +4,7 @@ title: 【SPN】密室杀人案（crossover）
 date: 2024-07-29 05:20
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester"]
-tags: ["Supernatural", "温家兄弟", "Crossover"]
+tags: ["Supernatural", "温家兄弟", "crossover"]
 pov: 第一人称
 origin: 名人朋友圈
 long_novels: 【SPN】三十天crossover挑战
@@ -89,3 +89,7 @@ PS：梗题记录
 > 案件3：这是一起交通肇事案
 >
 > 深夜的郊区马路上，有醉汉躺倒在马路上，被开快车的司机压过去了，司机第一时间报了警，当段路线无监控，现场查证后按交通事故做出处理。几个月后，警方逮捕了肇事司机和醉汉妻子。
+
+PPS：文末Notes
+
+每一天当我以为自己坚持不下去了的时候一不小心就又写完了，而且还不短，时间倒是越来越快了。所以其实要坚持一个习惯也还是很容易的。

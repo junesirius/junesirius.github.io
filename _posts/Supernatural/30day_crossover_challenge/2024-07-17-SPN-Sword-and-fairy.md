@@ -4,7 +4,7 @@ title: 【SPN】仙古游戏世界（crossover）
 date: 2024-07-17 04:34
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester", "John Winchester"]
-tags: ["Supernatural", "温家兄弟", "Crossover"]
+tags: ["Supernatural", "温家兄弟", "crossover"]
 pov: 第一人称
 origin: 名人朋友圈
 long_novels: 【SPN】三十天crossover挑战
@@ -203,3 +203,7 @@ PS：梗题记录
 > 1. 掉头离开→前路未知，保命要紧
 > 2. 去左前方探索→鸟语花香，苗疆少女，与蝶嬉戏→你选择【交流】/【离开】
 > 3. 去右前方冒险→恶灵叫嚣，魔修现世，尸横遍野→你选择【战斗】/【离开】
+
+PPS：文末Notes
+
+我尽力了，要把仙古游戏跟SPN crossover……光是设定的前情就用了1k+，然后才成功把梗融进去（虽然本质是我废话比较多），但是写得还挺爽，半夜写文就这点好，不太要动脑子，写下去就完事了

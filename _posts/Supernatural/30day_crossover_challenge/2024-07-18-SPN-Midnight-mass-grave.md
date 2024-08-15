@@ -4,7 +4,7 @@ title: 【SPN】夜闯乱葬岗（crossover）
 date: 2024-07-18 05:27
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester"]
-tags: ["Supernatural", "温家兄弟", "Crossover"]
+tags: ["Supernatural", "温家兄弟", "crossover"]
 pov: 第一人称
 origin: 名人朋友圈
 long_novels: 【SPN】三十天crossover挑战
@@ -171,3 +171,9 @@ PS：梗题记录
 > 宋土盛行斗促织，僧俗皆好。听闻在开封城外，后山乱葬岗有促织中的王者黑头将军墨蛉出没，贵者可值数金。促织生性孤僻，昼伏夜出。欲擒此等王者，须夜访乱坟岗。月黑风高，乱葬岗阴森恐怖。为了捕获黑头将军，诚邀四方朋友，午夜时分前往一探究竟。
 >
 > 活动要求：以夜闯乱葬岗抓促织为梗写戏。
+
+PPS：文末Notes
+
+又熬了一天夜，感觉很快就要真的坚持不住了，写到最后已经大脑混沌进入做梦状态不知道在胡言乱语什么了……明天再proofread一遍
+
+果然还是因为没有时间……
