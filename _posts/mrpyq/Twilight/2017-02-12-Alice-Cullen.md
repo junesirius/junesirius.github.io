@@ -4,7 +4,7 @@ title: 【暮光×HP】霍格沃茨的吸血鬼（一）见校长
 date: 2017-02-12 07:33
 categories: ["Crossover"]
 characters: ["Alice Cullen", "Albus Dumbledore"]
-tags: ["Crossover", "暮光之城", "HP"]
+tags: ["crossover", "暮光之城", "HP"]
 pov: 第一人称
 origin: 名人朋友圈
 ---

@@ -4,7 +4,7 @@ title: 【好兆头衍生】莫扎特之死
 date: 2019-10-19 05:20
 categories: ["Crossover"]
 characters: ["Crowley", "Wolfgang Amadeus Mozart"]
-tags: ["Crossover", "好兆头", "法扎", "死亡"]
+tags: ["crossover", "好兆头", "法扎", "死亡"]
 pov: 第一人称
 origin: 名人朋友圈
 ---

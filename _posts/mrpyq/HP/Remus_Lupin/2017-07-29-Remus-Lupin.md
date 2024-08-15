@@ -10,7 +10,7 @@ origin: 名人朋友圈
 ---
 
 > 剩下的故事让别人来讲
-> 
+>
 > Let the rest be to tell they tale
 
 <br>

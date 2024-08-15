@@ -32,15 +32,15 @@ Two of the main characters are Aragorn, a ranger and long lost human king, and L
 简单让它熟悉一下主角
 
 > Aragorn is a rugged and experienced ranger, who has spent many years wandering the wilds of Middle Earth. He is a skilled warrior and tracker, and he is known for his bravery and strength.
-> 
+>
 > But Aragorn is also a man of great mystery, for he is the long-lost king of the human realm of Gondor. He has spent his life in hiding, trying to avoid those who would seek to use his royal heritage for their own gain.
-> 
+>
 > Legolas, on the other hand, is a young and impetuous elf prince, who has spent his life in the sheltered halls of his father's kingdom. He is curious and adventurous, and he longs to explore the world and see all that it has to offer.
-> 
+>
 > Despite their many differences, Aragorn and Legolas become fast friends, united by their love of adventure and their desire to defend Middle Earth against the darkness that threatens to consume it. Together, they embark on a quest to save their world, facing countless dangers and challenges along the way.
-> 
+>
 > As they journey through Middle Earth, Aragorn and Legolas learn from each other and grow as individuals. Aragorn learns to embrace his royal heritage and to lead with wisdom and courage, while Legolas learns to overcome his impetuous nature and to think before he acts.
-> 
+>
 > In the end, they emerge as powerful and respected leaders, respected and admired by all who know them. And as they stand together, looking out over the land they have helped to save, they know that they have found a true and enduring friendship that will last for all of time.
 
 喂！怎么就直接开始进入true and enduring friendship的纯友谊了！不行不行，要手动喂一点剧情调教一下
@@ -52,15 +52,15 @@ Provide a story arc for a fantasy romance story set in the Middle Earth where Ar
 非常明确地表示想要看到他们之间的箭头但是压抑着并不逾越
 
 > In the beginning of the story, Aragorn and Legolas meet and quickly become friends. They share a love of adventure and a desire to defend Middle Earth against the darkness that threatens it.
-> 
+>
 > As they spend more time together, Aragorn and Legolas begin to realize that they have feelings for each other. But they are both afraid of acting on their feelings, for they fear that their love could bring trouble for them and for their country.
-> 
+>
 > So they suppress their feelings and maintain nothing more than a friendship, even as their love for each other continues to grow. They focus on their quest to save Middle Earth, facing countless dangers and challenges along the way.
-> 
+>
 > But as the darkness grows stronger and the stakes become higher, Aragorn and Legolas find it increasingly difficult to deny their feelings for each other. They struggle to balance their love with their duty to their country, and they are torn between their desire for each other and their fear of what might happen if they act on their feelings.
-> 
+>
 > Finally, after much inner turmoil and conflict, Aragorn and Legolas make the decision to embrace their love for each other. They know that it will not be easy, and that they will face many challenges and obstacles, but they are determined to make it work.
-> 
+>
 > In the end, Aragorn and Legolas overcome all obstacles and emerge victorious, their love for each other stronger than ever. They are hailed as heroes, and they rule over Middle Earth as a powerful and loving couple, their bond unbreakable and their love unending.
 
 说好的不逾越呢！这个AI怎么就一头冲进HE直接让他们变成happily ever after了！这可不是我一开始说的！再喂一点提示，叫它试着重写结局
@@ -72,13 +72,13 @@ Rewrite the ending of the story arc to make it a sad story, where Aragorn passed
 永生x有限生命梗，这应该能保证sad story了吧
 
 > In the end, despite their best efforts, Aragorn and Legolas are unable to overcome the obstacles in their way. Aragorn, as a mortal man, succumbs to his wounds and passes away, leaving Legolas, an immortal elf, to bear the grief of his loss.
-> 
+>
 > Legolas is devastated by the loss of his beloved, and he struggles to come to terms with his newfound loneliness. He tries to carry on, to continue their quest to save Middle Earth, but he finds it difficult to go on without Aragorn by his side.
-> 
+>
 > As the years pass, Legolas remains alone, unable to find solace or comfort in the company of others. He is tormented by his memories of Aragorn, and he lives out his days in sorrow and regret, longing for the love that he has lost.
-> 
+>
 > In the end, Legolas passes away, his immortal life ending in grief and despair. He is buried beside Aragorn, the love of his life, and the two of them are united in death as they were never able to be in life.
-> 
+>
 > Their story is one of love and loss, of hope and heartache, and it serves as a reminder of the power of love and the pain of its loss.
 
 AI：不行，就算是永生x有限生命也要强行拉到双死即HE，看不见lonely forever，一定要轴死了然后葬在一起
@@ -94,15 +94,15 @@ Rewrite the plot in the story arc that Aragorn and Legolas never expressed their
 这下看你怎么写HE
 
 > In the beginning of the story, Aragorn and Legolas meet and quickly become friends. They share a love of adventure and a desire to defend Middle Earth against the darkness that threatens it.
-> 
+>
 > As they spend more time together, Aragorn and Legolas begin to realize that they have feelings for each other. But they are both afraid of acting on their feelings, for they fear that their love could bring trouble for them and for their country.
-> 
+>
 > So they suppress their feelings and maintain nothing more than a friendship, even as their love for each other continues to grow. They focus on their quest to save Middle Earth, facing countless dangers and challenges along the way.
-> 
+>
 > But as the darkness grows stronger and the stakes become higher, Aragorn and Legolas find it increasingly difficult to deny their feelings for each other. They struggle to balance their love with their duty to their country, and they are torn between their desire for each other and their fear of what might happen if they act on their feelings.
-> 
+>
 > Finally, after much inner turmoil and conflict, Aragorn and Legolas make the decision to keep their feelings to themselves. They know that it will not be easy, and that they will always carry the burden of their unspoken love, but they are determined to put their duty to their country first.
-> 
+>
 > In the end, Aragorn and Legolas emerge victorious, their love for each other still strong but hidden deep within their hearts. They are hailed as heroes, but they are left with a sense of regret and longing.
 
 胜利，但悲伤；成为了英雄，但充满了遗憾和渴望。终于是我想要的味道了。让我们问问AI这个故事可以取一个什么标题？
@@ -166,17 +166,17 @@ Provide a detailed outline of chapter 1 of this story
 现在终于让我们开始扩写一下第一章大纲了
 
 > Chapter 1: The Meeting
-> 
+>
 > The chapter opens with Aragorn riding through the wilds of Middle Earth on his horse, Roheryn. He has been traveling for days, on a mission to defend his homeland against the dark forces that seek to destroy it.
-> 
+>
 > As he rides, Aragorn comes across a group of orcs, and he engages them in battle, using his sword and his skill as a ranger to defeat them. As he emerges victorious, he is approached by Legolas, who has been tracking the orcs for some time.
-> 
+>
 > Legolas introduces himself as a prince of the elven kingdom of Lórien, and he thanks Aragorn for his help in defeating the orcs. The two of them strike up a conversation, and they quickly realize that they have much in common, including a love of adventure and a desire to defend Middle Earth against the darkness that threatens it.
-> 
+>
 > As they continue to talk, they are joined by Gimli, a dwarf who has been tracking the orcs as well. Gimli is initially wary of Aragorn and Legolas, but they quickly win him over with their bravery and their loyalty to Middle Earth.
-> 
+>
 > Together, the three of them decide to continue their quest to save Middle Earth, and they set off on their journey, united in their goal and their friendship. As they ride into the sunset, they are joined by Gandalf, who has been watching over them from afar and is impressed by their bravery and their determination.
-> 
+>
 > The chapter ends with the four of them setting off on their quest, their friendship strong and their determination unwavering.
 
 这可真是非常不会出错的大纲，杀奥克路上相遇，好像还挺原著，让我们看看你还能不能把这个大纲继续扩写

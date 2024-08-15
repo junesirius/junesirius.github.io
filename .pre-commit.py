@@ -69,7 +69,7 @@ def check_and_auto_update():
                     new_lines.append(line)
                     continue
 
-                if line.endswith(" \n") and line != "> \n":
+                if line.endswith(" \n"):
                     file_need_change = True
                     new_lines.append(line.replace("\n", "").rstrip(" ") + "\n")
                 else:

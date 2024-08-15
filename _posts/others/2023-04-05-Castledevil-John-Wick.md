@@ -4,7 +4,7 @@ title: 【罚夜】John Wick Crossover（片段）
 date: 2023-04-05 02:14
 categories: ["Crossover"]
 characters: ["Matt Murdock/Daredevil", "Frank Castle/Punisher", "John Wick", "Caine"]
-tags: ["Crossover", "Marvel", "Castledevil", "罚夜", "John Wick/Caine", "疾速追杀", "夜魔侠", "惩罚者", "脑洞", "片段"]
+tags: ["crossover", "Marvel", "Castledevil", "罚夜", "John Wick/Caine", "疾速追杀", "夜魔侠", "惩罚者", "脑洞", "片段"]
 pov: 第三人称
 origin: Lofter
 ---

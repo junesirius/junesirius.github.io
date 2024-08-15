@@ -97,7 +97,7 @@ origin: 个站
 >
 > You'll carry me
 >
-> 
+>
 >
 > That's how it could be
 >
@@ -173,13 +173,13 @@ origin: 个站
 
 就像另一个男主似乎只是无意中提起的故事，但用在这里显得寓意极为合适：
 
-> This friend of mine had a kid, and it was a home birth, so he was there helping out and everything. 
+> This friend of mine had a kid, and it was a home birth, so he was there helping out and everything.
 >
 > And he said at that profound moment of birth, he was watching this child, experiencing for the first time, trying to take its first breath, all he could think about was that, he was looking at something that was gonna die someday.
 >
 > He just couldn't get it out of his head.
 >
-> I think that's so true. 
+> I think that's so true.
 >
 > Everything is so finite.
 >
