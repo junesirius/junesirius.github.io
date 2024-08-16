@@ -11,7 +11,8 @@ layout: null
 		{% for post in site.posts %}
 			<item>
 				<title>{{ post.title }}</title>
-				<description>{{ post.content | xml_escape }}</description>
+				<description>{{ post.content | xml_escape | newline_to_br | strip_newline | replace: '<br />', '\n' | strip_html | truncate: 150 | replace: '\n', '<br>' | replace: '<br>
+<br>', '<br>' | replace: '<br><br>', '<br>' | strip }}</description>
 				<tag>{{ post.tags | join: ", " }}</tag>
 				<category>{{ post.categories | join: ", " }}</category>
 				<character>{{ post.characters | join: ", " }}</character>
