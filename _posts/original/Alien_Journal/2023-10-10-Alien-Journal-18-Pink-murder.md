@@ -13,5 +13,5 @@ long_novels: 【原创】人类观察日记
 从头到脚都是粉色的女人
 
 <br><br>
-![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Alien_Journal/2023-10-10-Pink.jpg)
+![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Alien_Journal/2023-10-10-Pink.jpg)
 <br>

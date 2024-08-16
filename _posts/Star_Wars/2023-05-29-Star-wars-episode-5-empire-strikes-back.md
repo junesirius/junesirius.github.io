@@ -24,7 +24,7 @@ origin: 个站
 哈哈哈哈哈尤达跟R2抢东西，笑死
 
 <br>
-![ep5-1](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode5-1.jpg)
+![ep5-1](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode5-1.jpg)
 
 这个姿势，跟当年一模一样没变诶
 
@@ -35,7 +35,7 @@ origin: 个站
 （欧比旺：爆哭！！！！PPT你拐我爱徒
 
 <br>
-![ep5-2](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode5-2.jpg)
+![ep5-2](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode5-2.jpg)
 
 欧比旺计数器+1（没人提起的时候他自己突然提到的
 
@@ -52,9 +52,9 @@ origin: 个站
 （所以我说真的，安妮真的肯定特别宠孩子
 
 <br>
-![ep5-3](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode5-3.jpg)
+![ep5-3](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode5-3.jpg)
 <br>
-![ep5-4](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode5-4.jpg)
+![ep5-4](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode5-4.jpg)
 
 > 欧比旺：If you choose to face Vader, you will do it alone. I cannot interfere.
 
@@ -63,7 +63,7 @@ origin: 个站
 （他都死了，怎么干涉
 
 <br>
-![ep5-5](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode5-5.jpg)
+![ep5-5](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode5-5.jpg)
 
 说真的，安妮应该没什么机会吃这么高档下午茶点心吧
 
@@ -74,12 +74,12 @@ origin: 个站
 但是兴致没有了！
 
 <br>
-![ep5-6](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode5-6.jpg)
+![ep5-6](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode5-6.jpg)
 
 虽然但是，这个酷刑椅……长得像牙医躺椅……
 
 <br>
-![ep5-7](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode5-7.jpg)
+![ep5-7](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode5-7.jpg)
 
 哎哟，Boba要开枪被维达拦下来了
 
@@ -116,7 +116,7 @@ origin: 个站
 欧比旺计数器+1
 
 <br>
-![ep5-8](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode5-8.jpg)
+![ep5-8](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode5-8.jpg)
 
 哈哈哈哈虽然但是，这句说得好嘚瑟
 
@@ -149,7 +149,7 @@ origin: 个站
 安妮被卢克撞下去之前那声闷哼，突然有点（）
 
 <br>
-![ep5-9](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode5-9.jpg)
+![ep5-9](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode5-9.jpg)
 
 打第二轮时候安妮终于双手了诶，第一轮都是单手打的，升级了！
 
@@ -182,12 +182,12 @@ R2一边开门一边在跟3PO聊天哈哈哈哈
 如果能把R2说的话都转录出来感觉能笑死
 
 <br>
-![ep5-10](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode5-10.jpg)
+![ep5-10](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode5-10.jpg)
 
 突然发现……这个看上去很高级的电脑上的图……好像高考几何大题哦，给交点求解抛物线解析式什么的
 
 <br>
-![ep5-11](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode5-11.jpg)
+![ep5-11](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode5-11.jpg)
 
 打第三轮时候终于有点压迫感了
 
@@ -208,7 +208,7 @@ R2一边开门一边在跟3PO聊天哈哈哈哈
 而且肩下面是自己皮肤……难得打到的地方还是真的有痛觉的部位呢，毕竟这么大一副盔甲底下，真的血肉的部分其实也不多……
 
 <br>
-![ep5-12](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode5-12.jpg)
+![ep5-12](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode5-12.jpg)
 
 呜呜呜呜
 

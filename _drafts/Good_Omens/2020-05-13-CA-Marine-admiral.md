@@ -12,4 +12,4 @@ origin: 名人朋友圈
 （老蛇穿军装混上军舰做手脚
 
 <br>
-![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2020-05-13-CA-Marine-admiral.jpg)
+![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2020-05-13-CA-Marine-admiral.jpg)

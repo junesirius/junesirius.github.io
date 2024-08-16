@@ -1281,16 +1281,16 @@ So, don't rely on AI to write any story anymore, unless all you want to create i
 The AI story, just taste like metal, like industry, like plastic, like things that don't have life. The art created by AI has no soul. Same for novels, same for paintings. They are dead, they are like robots, like clones without personality. You wouldn't cry for their loss. They are not like human. They have no soul.)
 
 <br><br>
-![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/AI_Generated_Images/2023-04-23-Emily-2.jpg)
+![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/AI_Generated_Images/2023-04-23-Emily-2.jpg)
 
 (Emily White: A cool beautiful woman in late 20s, short black hair, wears combat boots, a bartender, has military background)
 
 <br><br>
-![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/AI_Generated_Images/2023-04-23-Zara-2.jpg)
+![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/AI_Generated_Images/2023-04-23-Zara-2.jpg)
 
 (Zara Khan: A young woman, long curly hair, wears a lot of red and gold, has a nose ring, is art-major student and aspiring artist)
 
 <br><br>
-![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/AI_Generated_Images/2023-04-23-Carmen-2.jpg)
+![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/AI_Generated_Images/2023-04-23-Carmen-2.jpg)
 
 (Carmen Martinez: A beautiful young woman, Spanish, shy, tall and lanky, wears a hoodie and sweatpants, has a tattoo of a dragon on her arm, smile a little, under the sunshine, is a mechanic)

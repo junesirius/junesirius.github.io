@@ -12,4 +12,4 @@ origin: 名人朋友圈
 （讨论宇宙讨论到饿，这很Aziraphale，然后就开始想吃核桃，然后就完全注意力跑偏
 
 <br>
-![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2020-04-04-Universe-in-shell.jpg)
+![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2020-04-04-Universe-in-shell.jpg)

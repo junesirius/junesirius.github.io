@@ -14,7 +14,7 @@ origin: 名人朋友圈
 （天使蛇？
 
 <br>
-![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2020-05-13-CA-A-handful-of-star-1.jpg)
+![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2020-05-13-CA-A-handful-of-star-1.jpg)
 
 <br>
-![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2020-05-13-CA-A-handful-of-star-2.jpg)
+![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2020-05-13-CA-A-handful-of-star-2.jpg)

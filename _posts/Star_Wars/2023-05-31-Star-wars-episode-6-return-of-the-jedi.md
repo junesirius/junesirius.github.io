@@ -46,7 +46,7 @@ ep5和6之间有什么小说吗，肯定有吧！解释6开头为什么突然又
 （他真的很好说话，很善良一维卿
 
 <br>
-![ep6-1](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode6-1.jpg)
+![ep6-1](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode6-1.jpg)
 
 这位我总觉得像龙妈
 
@@ -151,7 +151,7 @@ ep6皇帝到死星了以后总算指挥的事情都是皇帝在管了，他只�
 （这老板应该扔下去的，太坏了，为民除害了属于是
 
 <br>
-![ep6-2](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode6-2.jpg)
+![ep6-2](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode6-2.jpg)
 
 后知后觉地意识到，这个镜头跟ep1好呼应啊
 
@@ -180,7 +180,7 @@ ep6皇帝到死星了以后总算指挥的事情都是皇帝在管了，他只�
 安妮听完后面走的几步路都是一副被伤到的样子
 
 <br>
-![ep6-3](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode6-3.jpg)
+![ep6-3](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode6-3.jpg)
 
 这个突然感觉好像……
 
@@ -209,9 +209,9 @@ ep6皇帝到死星了以后总算指挥的事情都是皇帝在管了，他只�
 还是硬生生往死里电要杀卢克的电法，那可不得把安妮逼疯
 
 <br>
-![ep6-4](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode6-4.jpg)
+![ep6-4](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode6-4.jpg)
 <br>
-![ep6-5](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode6-5.jpg)
+![ep6-5](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode6-5.jpg)
 
 安妮：儿子在说话呢，还提到我了呢，要认真看着儿子
 
@@ -270,7 +270,7 @@ ep6皇帝到死星了以后总算指挥的事情都是皇帝在管了，他只�
 老王计数器已经放弃了【欧比旺x7】
 
 <br>
-![ep6-6](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode6-6.jpg)
+![ep6-6](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode6-6.jpg)
 
 安妮是在这个时候才知道自己有女儿的吗
 
@@ -279,7 +279,7 @@ ep6皇帝到死星了以后总算指挥的事情都是皇帝在管了，他只�
 老王计数器这才十分钟已经三连了【欧比旺x8】
 
 <br>
-![ep6-7](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode6-7.jpg)
+![ep6-7](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode6-7.jpg)
 
 卢克这里打得好凶真的
 
@@ -288,7 +288,7 @@ ep6皇帝到死星了以后总算指挥的事情都是皇帝在管了，他只�
 （但是毫无章法也是真的x
 
 <br>
-![ep6-8](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode6-8.jpg)
+![ep6-8](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode6-8.jpg)
 
 真的感觉砍完手以后安妮倒在地上时候卢克在那个瞬间是起过杀心的
 
@@ -297,7 +297,7 @@ ep6皇帝到死星了以后总算指挥的事情都是皇帝在管了，他只�
 成为ppt学徒这件事真的是，永远是用死在迭代……
 
 <br>
-![ep6-9](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode6-9.jpg)
+![ep6-9](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode6-9.jpg)
 
 呜呜安妮的左手在用徒手做自我保护的手势呜呜
 
@@ -324,26 +324,26 @@ ep6皇帝到死星了以后总算指挥的事情都是皇帝在管了，他只�
 呜呜呜呜卢克仍然承认他爹是绝地，卢克真好
 
 <br>
-![ep6-10](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode6-10.jpg)
+![ep6-10](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode6-10.jpg)
 
 好伤……好伤……
 
 <br>
-![ep6-11](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode6-11.jpg)
+![ep6-11](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode6-11.jpg)
 
 才发现，电出x片了都
 
 （电卢克只是电电身子，电维达直接电脑子了，这还能活吗……
 
 <br>
-![ep6-12](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode6-12.jpg)
+![ep6-12](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode6-12.jpg)
 
 说好的不会哭的还是哭了……
 
 安妮本来就是个伤成那样的残废的只能靠机械盔甲活着的人……
 
 <br>
-![ep6-13](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode6-13.jpg)
+![ep6-13](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode6-13.jpg)
 
 头盔都这么严重磨损了……
 
@@ -362,7 +362,7 @@ ep6皇帝到死星了以后总算指挥的事情都是皇帝在管了，他只�
 卢克真是好孩子
 
 <br>
-![ep6-14](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode6-14.jpg)
+![ep6-14](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode6-14.jpg)
 
 卢克也在哭
 
@@ -373,7 +373,7 @@ ep6皇帝到死星了以后总算指挥的事情都是皇帝在管了，他只�
 还是在想为什么火葬安妮的时候莱娅不在……
 
 <br>
-![ep6-15](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode6-15.jpg)
+![ep6-15](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode6-15.jpg)
 
 ep3是火，ep6也是火……
 
@@ -394,7 +394,7 @@ ep6也太BE了吧明明……
 太伤了，堪比ep3的伤
 
 <br>
-![ep6-16](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode6-16.jpg)
+![ep6-16](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/Star_Wars/episode6-16.jpg)
 
 哭疯
 

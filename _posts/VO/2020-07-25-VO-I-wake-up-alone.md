@@ -50,4 +50,4 @@ origin: 名人朋友圈
 于是从明天起，我将独自醒来，在生活和心灵缺失的那个位置，不停歇地用想象一遍遍地描摹你的模样。你用了一个黄昏离开，我们被晨曦相隔，只愿在黑夜的梦境里重逢。
 
 <br><br>
-![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2020-07-25-Lyrics.jpg)
+![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2020-07-25-Lyrics.jpg)

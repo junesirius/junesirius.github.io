@@ -12,5 +12,5 @@ origin: 个站
 影子干涸在墙上。
 
 <br><br>
-![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/others/2023-05-02.jpg)
+![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/others/2023-05-02.jpg)
 <br>

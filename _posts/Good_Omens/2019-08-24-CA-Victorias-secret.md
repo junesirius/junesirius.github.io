@@ -20,10 +20,10 @@ origin: 名人朋友圈
 （最好的搭档、伙伴、恋人
 
 <br>
-![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2019-08-24-CA-Victorias-secret-1.jpg)
+![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2019-08-24-CA-Victorias-secret-1.jpg)
 
 <br>
-![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2019-08-24-CA-Victorias-secret-2.jpg)
+![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2019-08-24-CA-Victorias-secret-2.jpg)
 
 
 提问：维密秀是天堂的发明还是地狱的发明？

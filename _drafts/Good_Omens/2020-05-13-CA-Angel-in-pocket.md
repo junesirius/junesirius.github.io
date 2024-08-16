@@ -10,7 +10,7 @@ origin: 名人朋友圈
 ---
 
 <br>
-![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2020-05-13-CA-Angel-in-pocket-1.jpg)
+![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2020-05-13-CA-Angel-in-pocket-1.jpg)
 
 <br>
-![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2020-05-13-CA-Angel-in-pocket-2.jpg)
+![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2020-05-13-CA-Angel-in-pocket-2.jpg)
