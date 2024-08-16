@@ -27,6 +27,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Clear disk space
+        run: |
+          sudo rm -rf /usr/share/dotnet
+          sudo rm -rf /opt/ghc
+          sudo rm -rf "/usr/local/share/boost"
+          sudo rm -rf "$AGENT_TOOLSDIRECTORY"
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Ruby
