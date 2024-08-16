@@ -20,10 +20,10 @@ origin: 名人朋友圈
 
 
 <br>
-![](/assets/images/mrpyq/2020-05-13-CA-Create-star-1.jpg)
+![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2020-05-13-CA-Create-star-1.jpg)
 
 <br>
-![](/assets/images/mrpyq/2020-05-13-CA-Create-star-2.jpg)
+![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2020-05-13-CA-Create-star-2.jpg)
 
 <br>
-![](/assets/images/mrpyq/2020-05-13-CA-Create-star-3.jpg)
+![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2020-05-13-CA-Create-star-3.jpg)

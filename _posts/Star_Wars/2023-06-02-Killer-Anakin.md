@@ -38,19 +38,19 @@ origin: Lofter、名人朋友圈
 可目之所及只剩一道远去的背影。
 
 <br>
-![1](/assets/images/Star_Wars/2023-06-02-anakin-1.jpg)
+![1](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/2023-06-02-anakin-1.jpg)
 <br>
-![2](/assets/images/Star_Wars/2023-06-02-anakin-2.jpg)
+![2](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/2023-06-02-anakin-2.jpg)
 
 （这个样子是在谈判桌上，但是谈判桌在床上，他知道自己好看也是筹码所以非常善于利用这个，被他这么一勾基本没有谈不下来的（反正再谈不下来就掏枪了））
 
 <br>
-![3](/assets/images/Star_Wars/2023-06-02-anakin-3.jpg)
+![3](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/2023-06-02-anakin-3.jpg)
 
 （平时开会就是这个样子漂漂亮亮戴着黑手套靠在上位座椅旁边，边走来走去边说话，从来不好好坐着）
 
 <br>
-![4](/assets/images/Star_Wars/2023-06-02-anakin-4.jpg)
+![4](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/2023-06-02-anakin-4.jpg)
 
 （突然感觉有点像疾速追杀4的高桌会那位金发男孩子，那就必须安排一点异域口音了）
 

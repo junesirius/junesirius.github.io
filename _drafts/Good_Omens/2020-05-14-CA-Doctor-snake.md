@@ -14,10 +14,10 @@ origin: 名人朋友圈
 （“I don't want to go.”
 
 <br>
-![](/assets/images/mrpyq/2020-05-14-CA-Doctor-snake-1.jpg)
+![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2020-05-14-CA-Doctor-snake-1.jpg)
 
 <br>
-![](/assets/images/mrpyq/2020-05-14-CA-Doctor-snake-2.jpg)
+![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2020-05-14-CA-Doctor-snake-2.jpg)
 
 <br>
-![](/assets/images/mrpyq/2020-05-14-CA-Doctor-snake-3.jpg)
+![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2020-05-14-CA-Doctor-snake-3.jpg)

@@ -15,13 +15,13 @@ description: "实在是非常喜欢这部剧了，看了两集哭了两次，总
 第一集的热气球，“它应该属于天空”，关于飞的梦不应该留在这里积灰，应该让它飞起来，像鸟，像天使。
 
 <br>
-![1-1](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-1-1.png)
+![1-1](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-1-1.png)
 <br><br>
-![1-2](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-1-2.png)
+![1-2](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-1-2.png)
 <br><br>
-![1-3](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-1-3.png)
+![1-3](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-1-3.png)
 <br><br>
-![1-4](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-1-4.png)
+![1-4](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-1-4.png)
 <br>
 
 飞。
@@ -77,7 +77,7 @@ And I still don't know the answer.
 在这样的音乐面前，任何情绪都变得脆弱，任凭音符操控。
 
 <br><br>
-![3-1](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-3-1.png)
+![3-1](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-3-1.png)
 <br>
 
 衰老也可以是优雅、美丽、自由、充满爱的。

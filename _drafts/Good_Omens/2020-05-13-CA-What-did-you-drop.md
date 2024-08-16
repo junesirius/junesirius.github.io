@@ -21,4 +21,4 @@ Aziraphale：我掉过一个甜甜圈，后来变成了土星大光环；掉过�
 Crowley：我掉过天堂，后来他还是在天上。我掉过一个男朋友，后来他回来了。
 
 <br>
-![](/assets/images/mrpyq/2020-05-13-CA-What-did-you-drop.jpg)
+![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2020-05-13-CA-What-did-you-drop.jpg)

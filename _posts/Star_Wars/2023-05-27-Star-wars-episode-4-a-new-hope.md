@@ -38,7 +38,7 @@ origin: 个站
 维达来了耶，就那种感觉，突然非常安心（？）（这个人真的投靠帝国了现在
 
 <br>
-![ep4-1](/assets/images/Star_Wars/episode4-1.jpg)
+![ep4-1](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode4-1.jpg)
 
 维达第一次走进来的时候，居然还是叉着腰的
 
@@ -47,7 +47,7 @@ origin: 个站
 （哈哈哈，维达：师父不让
 
 <br>
-![ep4-2](/assets/images/Star_Wars/episode4-2.jpg)
+![ep4-2](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode4-2.jpg)
 
 ！！！小公主你这是在跟你爸说话
 
@@ -58,7 +58,7 @@ origin: 个站
 谁当年77年看这部电影的时候，能知道这件事啊hh
 
 <br>
-![ep4-3](/assets/images/Star_Wars/episode4-3.jpg)
+![ep4-3](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode4-3.jpg)
 
 安妮！不要这么凶！这是你女儿！
 
@@ -95,7 +95,7 @@ QAQ，安妮在船上居然没见到3PO和R2D2
 他这是在thank anakin！
 
 <br>
-![ep4-4](/assets/images/Star_Wars/episode4-4.jpg)
+![ep4-4](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode4-4.jpg)
 
 哎哟，这不是老王传106他最后送给他的那个飞船模型吗
 
@@ -104,14 +104,14 @@ QAQ，安妮在船上居然没见到3PO和R2D2
 （是啊
 
 <br>
-![ep4-5](/assets/images/Star_Wars/episode4-5.jpg)
+![ep4-5](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode4-5.jpg)
 
 啊啊这是ep123留下的痕迹吧
 
 【2023-07-11补充：还有整个clone war】
 
 <br>
-![ep4-6](/assets/images/Star_Wars/episode4-6.jpg)
+![ep4-6](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode4-6.jpg)
 
 > 3PO: and not very good at telling stories
 
@@ -132,7 +132,7 @@ QAQ，安妮在船上居然没见到3PO和R2D2
 帝国进行曲也太上头了（开始洗脑循环
 
 <br>
-![ep4-7](/assets/images/Star_Wars/episode4-7.jpg)
+![ep4-7](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode4-7.jpg)
 
 突然发现欧文这句话也好有深意啊
 
@@ -147,12 +147,12 @@ QAQ，安妮在船上居然没见到3PO和R2D2
 （有点浪漫
 
 <br>
-![ep4-8](/assets/images/Star_Wars/episode4-8.jpg)
+![ep4-8](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode4-8.jpg)
 
 哈哈哈原来这里第一句也是hello there
 
 <br>
-![ep4-9](/assets/images/Star_Wars/episode4-9.jpg)
+![ep4-9](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode4-9.jpg)
 
 突然发现跟老王传有冲突了hh
 
@@ -181,7 +181,7 @@ QAQ，安妮在船上居然没见到3PO和R2D2
 （老王：不想演了
 
 <br>
-![ep4-10](/assets/images/Star_Wars/episode4-10.jpg)
+![ep4-10](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode4-10.jpg)
 
 莱娅这个地方后退一步正好靠在安妮胸前诶（侧面图更明显
 
@@ -196,7 +196,7 @@ QAQ，安妮在船上居然没见到3PO和R2D2
 来了来了
 
 <br>
-![ep4-11](/assets/images/Star_Wars/episode4-11.jpg)
+![ep4-11](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Star_Wars/episode4-11.jpg)
 
 哈哈哈哈哈索罗伸手rua Chewie头
 

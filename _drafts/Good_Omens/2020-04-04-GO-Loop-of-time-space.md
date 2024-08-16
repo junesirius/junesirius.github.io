@@ -12,4 +12,4 @@ origin: 名人朋友圈
 （时空的循环就跟蛇一样首尾相连
 
 <br>
-![](/assets/images/mrpyq/2020-04-04-Scale-circle.jpg)
+![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2020-04-04-Scale-circle.jpg)

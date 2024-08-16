@@ -48,7 +48,7 @@ Love.
 我也很需要。
 
 <br><br>
-![4-1](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-4-1.png)
+![4-1](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-4-1.png)
 <br>
 
 > “这么长时间来我一直独自一人。”

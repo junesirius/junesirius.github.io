@@ -13,9 +13,9 @@ description: "看这集的时候脑内总会响起Queen的《Love of my life》�
 看这集的时候脑内总会响起Queen的《Love of my life》。爱，时间，错过。怯懦，遗憾。
 
 <br><br>
-![8-1](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-1.png)
+![8-1](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-1.png)
 <br><br>
-![8-2](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-2.png)
+![8-2](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-2.png)
 <br>
 
 “All the time in the world.”
@@ -29,13 +29,13 @@ description: "看这集的时候脑内总会响起Queen的《Love of my life》�
 而哪怕只是此时此刻，即使I want to give you all the time in the world，把赌约和所有的一切抛在脑后，我们也早已running out of time now。
 
 <br><br>
-![8-3](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-3.png)
+![8-3](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-3.png)
 <br><br>
-![8-4](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-4.png)
+![8-4](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-4.png)
 <br><br>
-![8-5](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-5.png)
+![8-5](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-5.png)
 <br><br>
-![8-6](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-6.png)
+![8-6](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-6.png)
 <br>
 
 “Really? You thought that?”
@@ -73,11 +73,11 @@ Estella.
 星星一样美丽，遥远，永恒。只能成为念想。
 
 <br><br>
-![8-9](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-9.png)
+![8-9](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-9.png)
 <br><br>
-![8-10](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-10.png)
+![8-10](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-10.png)
 <br><br>
-![8-11](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-11.png)
+![8-11](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-11.png)
 <br>
 
 > “I loved you, Estella. Never, never doubt that.”
@@ -95,13 +95,13 @@ We have nothing but love.
 We have love, but nothing else. Not time, not life, not the world.
 
 <br><br>
-![8-7](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-7.png)
+![8-7](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-7.png)
 <br><br>
-![8-8](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-8.png)
+![8-8](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-8.png)
 <br><br>
-![8-12](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-12.png)
+![8-12](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-12.png)
 <br><br>
-![8-13](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-13.png)
+![8-13](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-13.png)
 <br>
 
 钟下的拥抱。
@@ -111,7 +111,7 @@ We have love, but nothing else. Not time, not life, not the world.
 拥抱真是世间最美好的东西。
 
 <br><br>
-![8-14](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-14.png)
+![8-14](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-14.png)
 <br>
 
 阿加莎！真是非常惊喜了。
@@ -119,7 +119,7 @@ We have love, but nothing else. Not time, not life, not the world.
 （但是看了眼设定的时间，似乎有时间轴操作了。故事发生在1872，而阿加莎出生在1890。）
 
 <br><br>
-![8-15](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-15.png)
+![8-15](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-15.png)
 <br>
 
 又是一个惊喜彩蛋了！无疑是鹦鹉螺号了，是不是能期待一下剧版《海底两万里》了呢。更贪心一点，甚至想要一个凡尔纳宇宙了。
@@ -127,7 +127,7 @@ We have love, but nothing else. Not time, not life, not the world.
 也不是完全不可能吧！
 
 <br><br>
-![8-16](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-16.png)
+![8-16](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-8-16.png)
 <br>
 
 最后一个空镜。

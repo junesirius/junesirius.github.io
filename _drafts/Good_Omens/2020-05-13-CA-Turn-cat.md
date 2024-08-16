@@ -12,9 +12,9 @@ origin: 名人朋友圈
 （用爪子家里羽绒被里的羽毛全都抓出来丢得满天都是，营造一种被天使包围的感觉
 
 <br>
-![](/assets/images/mrpyq/2020-05-13-CA-Turn-cat-1.jpg)
+![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2020-05-13-CA-Turn-cat-1.jpg)
 
 或
 
 <br>
-![](/assets/images/mrpyq/2020-05-13-CA-Turn-cat-2.jpg)
+![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2020-05-13-CA-Turn-cat-2.jpg)

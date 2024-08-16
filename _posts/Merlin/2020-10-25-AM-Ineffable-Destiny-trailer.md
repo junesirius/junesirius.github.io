@@ -34,7 +34,7 @@ origin: Lofter
 关于结局的一点hint：有CA的地方怎么会不是HE呢？[wink.gif]
 
 <br>
-![](/assets/images/lofter/2020-10-25-AM-CA-1.jpg)
+![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/lofter/2020-10-25-AM-CA-1.jpg)
 
 <br>
-![](/assets/images/lofter/2020-10-25-AM-CA-2.jpg)
+![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/lofter/2020-10-25-AM-CA-2.jpg)

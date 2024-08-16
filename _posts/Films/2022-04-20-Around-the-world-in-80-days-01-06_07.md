@@ -13,17 +13,17 @@ description: "继续美得像壁纸。<br>停不下截图的手。<br>第六集�
 继续美得像壁纸。
 
 <br>
-![6-1](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-6-1.png)
+![6-1](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-6-1.png)
 <br><br>
-![6-2](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-6-2.png)
+![6-2](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-6-2.png)
 <br><br>
-![6-3](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-6-3.png)
+![6-3](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-6-3.png)
 <br><br>
-![6-4](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-6-4.png)
+![6-4](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-6-4.png)
 <br><br>
-![6-5](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-6-5.png)
+![6-5](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-6-5.png)
 <br><br>
-![6-6](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-6-6.png)
+![6-6](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-6-6.png)
 <br>
 
 停不下截图的手。
@@ -45,11 +45,11 @@ description: "继续美得像壁纸。<br>停不下截图的手。<br>第六集�
 纽约。
 
 <br>
-![7-1](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-7-1.png)
+![7-1](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-7-1.png)
 <br><br>
-![7-2](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-7-2.png)
+![7-2](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-7-2.png)
 <br><br>
-![7-3](/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-7-3.png)
+![7-3](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/Around_the_World_in_80_days/Around-the-world-in-80-days-7-3.png)
 <br>
 
 这里也是非常触动。

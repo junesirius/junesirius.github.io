@@ -30,5 +30,5 @@ I'm going crazy, I'm going crazy, but how can someone crazy know they went crazy
 What am I doing, what am I doing. I laughed loudly. Who am I, what am I. I just wanted to be a mushroom, why did I become a rabbit now.
 
 <br><br>
-![](/assets/images/others/2023-10-11.jpg)
+![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/others/2023-10-11.jpg)
 <br>

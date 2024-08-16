@@ -12,7 +12,7 @@ origin: 名人朋友圈
 （末日之后各自换成对方符号戴着
 
 <br>
-![](/assets/images/mrpyq/2020-05-13-CA-Tail-ring-1.jpg)
+![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2020-05-13-CA-Tail-ring-1.jpg)
 
 <br>
-![](/assets/images/mrpyq/2020-05-13-CA-Tail-ring-2.jpg)
+![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2020-05-13-CA-Tail-ring-2.jpg)

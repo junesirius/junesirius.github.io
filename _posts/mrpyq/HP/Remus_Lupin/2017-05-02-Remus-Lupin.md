@@ -32,4 +32,4 @@ origin: 名人朋友圈
 悄无声息地陪伴着他，目睹着他有些跌跌撞撞地走向终点。这是结束，这也是开始。
 
 <br><br>
-![](/assets/images/mrpyq/2017-05-02-Remus-Lupin.jpg)
+![](https://github.com/junesirius/junesirius.github.io/tree/master/assets/images/mrpyq/2017-05-02-Remus-Lupin.jpg)
