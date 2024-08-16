@@ -52,7 +52,7 @@ jobs:
       with:
         source: ./
         destination: ./_site
-        future: true
+        future: false
         build_revision: ${{ github.sha }}
         verbose: true
         token: ${{ secrets.GITHUB_TOKEN }}
