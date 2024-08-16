@@ -100,7 +100,7 @@
 #### [header.html](https://github.com/junesirius/junesirius.github.io/tree/master/_includes/header.html)
 
 - 在\<head\>的\<title\>标签下确定各页面标题显示为：“文章标题 | 作者笔名”
-- 在\<head\>的\<link rel="icon"\>标签下设置本站的图标，图标存储位置为[favicon.jpg](https://github.com/junesirius/junesirius.github.io/blob/master/assets/favicon.jpg)
+- 在\<head\>的\<link rel="icon"\>标签下设置本站的图标，图标存储位置为[favicon.jpg](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/favicon.jpg)
 - 设置导航栏固定在窗口顶部，不随页面下滑而改变位置
 - 导航栏按钮包括：
   - 左上角笔名、**首页**：自动跳转至本站首页
@@ -119,7 +119,7 @@
 
 依次显示：头像、个签、最近更新、热门圈子、热门标签、长篇连载
 
-- **头像**：图片与本站图标相同（也可选择不同图片），存储于[favicon.jpg](https://github.com/junesirius/junesirius.github.io/blob/master/assets/favicon.jpg)，显示为圆形。
+- **头像**：图片与本站图标相同（也可选择不同图片），存储于[favicon.jpg](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/favicon.jpg)，显示为圆形。
 - **个签**：文字居中排列，内容存储于[\_data/description.yml](https://github.com/junesirius/junesirius.github.io/blob/master/_data/description.yml)。
 - **最近更新**：从所有更新的文章中自动选取最新的五篇，按从新到旧顺序显示标题并提供跳转链接。显示文章数量可进行更改。
 - **热门圈子**：统计所有`categories`标签，选取文章数量最多的五个分类，按从多到少顺序显示类别名称及对应文章数量，点击链接可跳转至`categories.html`中对应分类的位置。显示的热门分类数量可进行更改。
@@ -130,7 +130,7 @@
 
 #### [theme.scss](https://github.com/junesirius/junesirius.github.io/tree/master/_sass/theme.scss)
 
-包含大部分自定义的css格式，包括页眉、页脚、侧边栏、文章页的主要格式。设置个站背景纹理图片为[canvas_bg.jpg](https://github.com/junesirius/junesirius.github.io/blob/master/assets/canvas_bg.jpg)。
+包含大部分自定义的css格式，包括页眉、页脚、侧边栏、文章页的主要格式。设置个站背景纹理图片为[canvas_bg.jpg](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/canvas_bg.jpg)。
 
 #### [custom\_color.scss](https://github.com/junesirius/junesirius.github.io/tree/master/_sass/custom_color.scss)
 
