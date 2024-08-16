@@ -10,4 +10,4 @@ origin: 名人朋友圈
 ---
 
 <br>
-![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2020-05-13-CA-Colour-of-halo.jpg)
+![](/assets/images/mrpyq/2020-05-13-CA-Colour-of-halo.jpg)

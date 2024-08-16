@@ -12,4 +12,4 @@ origin: 名人朋友圈
 （要亲亲才能变回来
 
 <br>
-![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2020-05-13-CA-Frog-prince.jpg)
+![](/assets/images/mrpyq/2020-05-13-CA-Frog-prince.jpg)

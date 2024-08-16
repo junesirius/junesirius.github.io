@@ -66,4 +66,4 @@ Funny thing，都以为时间领主有重生这种欺骗死神的方式，我还
 小十重生时没有人在他身旁，但整个宇宙都在为他歌唱。
 
 <br><br>
-![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2020-03-20-DW.jpg)
+![](/assets/images/mrpyq/2020-03-20-DW.jpg)

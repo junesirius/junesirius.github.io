@@ -28,4 +28,4 @@ origin: 名人朋友圈
 回到自己的房间，我的眼前依然是她安睡的模样。月光刚爬过我的钢琴，真是一个无尽的黑夜。
 
 <br><br>
-![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2019-05-21-Lyrics.jpg)
+![](/assets/images/mrpyq/2019-05-21-Lyrics.jpg)

@@ -14,4 +14,4 @@ origin: 名人朋友圈
 “哎，你往这边来一点，不对不对，再过去一点，这样就刚刚好，摆一个酷一点的表情或者姿势嘛”
 
 <br>
-![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2020-05-13-CA-Wing-wall.jpg)
+![](/assets/images/mrpyq/2020-05-13-CA-Wing-wall.jpg)

@@ -16,4 +16,4 @@ origin: 名人朋友圈
 （b.梗源短漫
 
 <br>
-![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2020-05-13-CA-Ring-of-prisoner.jpg)
+![](/assets/images/mrpyq/2020-05-13-CA-Ring-of-prisoner.jpg)

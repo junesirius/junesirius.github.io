@@ -24,4 +24,4 @@ origin: 名人朋友圈
 （一半上帝视角一半老蛇视角
 
 <br>
-![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2020-05-13-CA-Tear-of-demon.jpg)
+![](/assets/images/mrpyq/2020-05-13-CA-Tear-of-demon.jpg)

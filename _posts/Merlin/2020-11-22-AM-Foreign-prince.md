@@ -32,4 +32,4 @@ origin: Lofter
 于是大团圆结局：亚梅大婚，两个国家和平。
 
 <br>
-![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/lofter/2020-11-22-AM-Foreign-prince.jpg)
+![](/assets/images/lofter/2020-11-22-AM-Foreign-prince.jpg)

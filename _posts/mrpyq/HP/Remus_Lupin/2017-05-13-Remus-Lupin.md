@@ -130,4 +130,4 @@ origin: 名人朋友圈
 只有童话才拥有真正快乐的结局。从童话走向现实，从梦境中醒来，所有我能做的大概也只有接受已经发生的事。去詹姆和彼得的墓前献个花圈，去阿兹卡班远远望一眼那个已近乎疯狂的身影，把欢愉的记忆深深埋下，转身，孑立孤身，独自上路。
 
 <br><br>
-![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2017-05-13-Lyrics.jpg)
+![](/assets/images/mrpyq/2017-05-13-Lyrics.jpg)

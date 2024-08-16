@@ -46,4 +46,4 @@ origin: 名人朋友圈
 就要因为黑暗退缩么？不，想想那些离开的人不能无辜地流血，不能白白地牺牲，都振作起来！即使被黑暗包围，即使领路人一个一个地倒下，也要像丹柯一样高举自己燃烧得像火把一样的心脏，像一只真正的狮子一样，让那种赤忱和勇气，引领自己和战友一起，战胜前方的迷雾！
 
 <br><br>
-![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2017-05-20-Lyrics.jpg)
+![](/assets/images/mrpyq/2017-05-20-Lyrics.jpg)

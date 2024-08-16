@@ -26,14 +26,14 @@ origin: 名人朋友圈
 脑洞来源：老蛇在考虑逃跑计划时翻开的天文学巨作，其实是他的一叠房产证
 
 <br>
-![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2020-05-13-CA-House-certificate-1.jpg)
+![](/assets/images/mrpyq/2020-05-13-CA-House-certificate-1.jpg)
 
 <br>
-![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2020-05-13-CA-House-certificate-2.jpg)
+![](/assets/images/mrpyq/2020-05-13-CA-House-certificate-2.jpg)
 
 <br>
-![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2020-05-13-CA-House-certificate-3.jpg)
+![](/assets/images/mrpyq/2020-05-13-CA-House-certificate-3.jpg)
 
 <br>
-![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2020-05-13-CA-House-certificate-4.jpg)
+![](/assets/images/mrpyq/2020-05-13-CA-House-certificate-4.jpg)
 

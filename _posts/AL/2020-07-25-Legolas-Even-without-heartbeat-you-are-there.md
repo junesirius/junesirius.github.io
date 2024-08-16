@@ -22,4 +22,4 @@ origin: 名人朋友圈
 坐在白树下，身旁是阿拉贡常坐的石块，头顶是曾经照亮过我们的月光，耳畔还能听见他的哼唱，闭上眼睛就能看见他背着粗布行囊抽着烟斗的模样。埃斯泰尔，阿拉贡，大步侠，伊力萨王，我的爱人，只要记忆存在，与我而言，他便与永生无异。
 
 <br><br>
-![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2020-07-25-Lyrics.jpg)
+![](/assets/images/mrpyq/2020-07-25-Lyrics.jpg)

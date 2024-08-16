@@ -68,4 +68,4 @@ origin: 名人朋友圈
 离开教室的时候，我的脑海里还是那个银色的守护神，跟詹姆一样的守护神。大概，这才是守护神真正的含义吧，来自父亲对孩子的守护，不管是在天堂，还是在孩子身边。
 
 <br><br>
-![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2018-10-14-Remus-Lupin.jpg)
+![](/assets/images/mrpyq/2018-10-14-Remus-Lupin.jpg)

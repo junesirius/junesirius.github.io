@@ -14,4 +14,4 @@ origin: 名人朋友圈
 （当伪装彻底变成自己的一部分，你怎么知道你是谁了
 
 <br>
-![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2020-05-13-CA-Undercover.jpg)
+![](/assets/images/mrpyq/2020-05-13-CA-Undercover.jpg)

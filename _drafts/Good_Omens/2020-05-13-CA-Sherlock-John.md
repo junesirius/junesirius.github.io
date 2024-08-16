@@ -20,4 +20,4 @@ origin: 名人朋友圈
 CA在福华的案子中捣乱，用奇迹捣鼓出夏洛克无论如何破不出的案，然后CA大推手让福华HE
 
 <br>
-![](https://github.com/junesirius/junesirius.github.io/blob/master/assets/images/mrpyq/2020-05-13-CA-Sherlock-John.jpg)
+![](/assets/images/mrpyq/2020-05-13-CA-Sherlock-John.jpg)
