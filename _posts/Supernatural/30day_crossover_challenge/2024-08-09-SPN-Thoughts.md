@@ -4,7 +4,7 @@ title: 【SPN】夏日印象 思绪万千
 date: 2024-08-09 05:30
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester", "Castiel"]
-tags: ["Supernatural", "温家兄弟"]
+tags: ["Supernatural", "温家兄弟", "已完结"]
 pov: 第一人称
 origin: 名人朋友圈
 long_novels: 【SPN】三十天crossover挑战
