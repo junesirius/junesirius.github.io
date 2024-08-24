@@ -484,4 +484,86 @@ src: [pinterest](https://www.pinterest.com/pin/199706564717793443)
 
 丁拉着卡在翅膀墙前拍照合影，彩色翅膀，可以衍生成坚持要看翅膀的真实样子
 
-### 53.
+### 53.【destiel】《Forgiven》（Lyrics）
+
+Couldn't save you from the start
+
+Love you so it hurts my soul
+
+Can you forgive me for trying again
+
+Your silence makes me hold my breath
+
+Oh time has passed you by
+
+<br>
+
+You were looking for the great escape
+
+To chase your demons away
+
+You couldn't face the freedom on your own
+
+And here I am left in silence
+
+### 54.【destiel】《Bye Bye Beautiful》（Lyrics）
+
+They used to love having so much to lose
+
+Blink your eyes just once and see everything in ruins
+
+Did you ever hear what I told you?
+
+Did you ever read what I wrote you?
+
+Did you ever listen to what we played?
+
+Did you ever let in what the world said?
+
+Did we get this far just to feel your hate?
+
+Did we play to become only pawns in the game?
+
+How blind can you be, don't you see?
+
+You chose the long road but we'll be waiting
+
+I need to die to feel alive
+
+### 55.【destiel】《Stairway to the skies》（Lyrics）
+
+Seven seconds till the rise
+
+Can't believe I'm still alive
+
+And heaven was waiting for me
+
+I thought this would be the end
+
+But I know you'll understand
+
+All that is keeping me here
+
+I dream of a stairway to the skies
+
+My angel is coming down from heaven to take me
+
+I reach out but then you fade away
+
+Whenever you call for me
+
+Know that I'm only one step behind
+
+I'm torn and the hate's still aching
+
+Is it a curse or a virtue?
+
+Have I been blinded by regret?
+
+Perdition awaits my soul is at stake
+
+Will I find a stairway to the skies
+
+In the end?
+
+### 56.
