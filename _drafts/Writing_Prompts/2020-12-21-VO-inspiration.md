@@ -1341,7 +1341,7 @@ V改编拍摄O的小说，把O只能用文字表达的脑海中的画面exactly�
 
 ### 99.《Exile》Lyrics
 
-I think I've seen this file before
+I think I've seen this film before
 
 And I didn't like the ending
 
