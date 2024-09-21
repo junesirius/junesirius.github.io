@@ -15,7 +15,7 @@ origin: 个站
 
 ### Summary
 
-Win/Kill Count: 10 (angel), 3 (demon), 1 (archangel), 2 (others)
+Win/Kill Count: 11 (angel), 3 (demon), 1 (archangel), 2 (others)
 
 Lose/Hurt Count: 2 (angel), 2 (demon), 3 (archangel), 1 (others)
 
@@ -33,7 +33,7 @@ Death/Near death Count: 2 (Raphael), 1 (Lucifer)
 
 ### S04E20（+2 demon）
 
-（demon）附身在Amelia身上的恶魔：输；开枪射伤Jimmy到濒死（卡不在Jimmy的vessel上）
+（demon）附身在Amelia身上的恶魔：输；开枪射伤Jimmy到濒死（卡不在Jimmy的vessel上，不算）
 
 （demon）想杀Claire的恶魔跟班：赢；smite（卡在Claire身上）
 
@@ -83,11 +83,19 @@ Death/Near death Count: 2 (Raphael), 1 (Lucifer)
 
 （archangel）Lucifer：输；被路西法一个响指炸碎（explodes, “barely even gory chunks, mostly red mist”——剧本）
 
-### S06E03（1 angel）
+### S06E03（+1 angel）
 
 （angel）Raphael手下跟踪卡偷听到武器库天使名字的天使跟班：平手；互相拿天使刀过招几下，从楼上窗口一起摔出去砸车上，跑了
 
-（angel）Raphael手下跟着卡追到Balthazar房间的天使跟班：赢；天使刀扔过去扎进胸口
+（angel）Raphael手下跟着卡追到Balthazar房间的天使跟班：赢；天使刀扔过去扎进胸口杀死
+
+### S06E15
+
+（angel）现实AU的Misha被Raphael手下武器库守门天使Virgil用刀捅死：输；死的是AU里的Misha，不算
+
+### S06E18（+1 angel）
+
+（angel）卡自己副官Rachel：赢；用天使刀打了几个回合，自己被捅了一刀，杀死Rachel
 
 ## Mistake/deal Count
 
@@ -107,7 +115,11 @@ Sam frees Lucifer (manipulated by Ruby&Lilith)
 
 ### S05E22
 
-Sam says yes to Lucifer, jumps into the Cage. Cas gets soulless Sam back.
+Sam says yes to Lucifer, jumps into the Cage. Cass gets soulless Sam back.
+
+### S06E11
+
+Death helps get Sam's soul back, puts a wall in his mind (didn't ask for anything in return, just ask Dean to keep digging)
 
 ## Enochians
 
