@@ -15,11 +15,11 @@ origin: 个站
 
 ### Summary
 
-Win/Kill Count: 11 (angel), 3 (demon), 1 (archangel), 2 (others)
+Win/Kill Count: 12 (angel), 10 (demon), 2 (archangel), 14 (others)
 
-Lose/Hurt Count: 2 (angel), 2 (demon), 3 (archangel), 1 (others)
+Lose/Hurt Count: 2 (angel), 2 (demon), 4 (archangel), 2 (others)
 
-Death/Near death Count: 2 (Raphael), 1 (Lucifer)
+Death/Near death Count: 2 (Raphael), 1 (Lucifer), 2 (Leviathan)
 
 ### S04E10（-1 demon）
 
@@ -97,6 +97,42 @@ Death/Near death Count: 2 (Raphael), 1 (Lucifer)
 
 （angel）卡自己副官Rachel：赢；用天使刀打了几个回合，自己被捅了一刀，杀死Rachel
 
+### S06E19（+12 others, -1 others）
+
+（vampire）帮温双定位Eve的好吸血鬼Lenoir：赢；Lenoir请求他们杀她，Sam不想，卡从背后smite
+
+（Jefferson Starship）被铐住时候被一只混种vamp+wraith攻击：输；Dean及时赶到，用刀砍头
+
+（Jefferson Starship）救攻击Bobby的一只混种vamp+wraith：赢；从背后用刀削掉半个头
+
+（Jefferson Starship）Eve死后在餐馆攻击他们的至少10+怪物：赢；开掌心炮AOE群杀
+
+### S06E20（+6 demon）
+
+（demon）demon dispatcher Bobby-equivalent Ellsworth和两个跟班恶魔：赢；轻松smite
+
+（archangel）阻止天启之后在天堂面见Raphael：输；被Raphael开掌心炮从办公室扔出去丢到自己的天堂，流鼻血吐血
+
+（demon）Crowley's best demons，三个恶魔偷袭温双Bobby：赢；轻松smite
+
+### S06E21（+1 demon）
+
+（demon）挣脱Dean的demon trap掐住Dean要杀他的恶魔：赢；从背后轻松smite
+
+### S06E22（+1 angel，+1 archangel）
+
+（angel）Balthazar：赢；从背后偷袭用天使刀捅了
+
+（archangel）Raphael：赢；升级成帝卡之后打响指把Raphael用522路西炸卡的方式炸掉了
+
+### S07E01（+>50 angel）（skip）
+
+（注：帝卡时期kill count太难精确计算，暂时先不计入summary的kill count）
+
+（angel）Raphael's followers：赢；帝卡杀死所有Raphael的部下，不知具体有多少天使，可能成百上千，从图里能看到死掉的翅膀印的就有50+
+
+（human）恐同教会，200+宗教领袖，3K党，白人至上组织，出版社，有神论议员办公室
+
 ## Mistake/deal Count
 
 ### S02E01
@@ -115,11 +151,19 @@ Sam frees Lucifer (manipulated by Ruby&Lilith)
 
 ### S05E22
 
-Sam says yes to Lucifer, jumps into the Cage. Cass gets soulless Sam back.
+Sam says yes to Lucifer, jumps into the Cage. Cass gets soulless Sam back (leaving the soul behind on purpose to use him to look for Purgatory).
 
 ### S06E11
 
 Death helps get Sam's soul back, puts a wall in his mind (didn't ask for anything in return, just ask Dean to keep digging)
+
+### S06E22
+
+Cass opens the Purgatory, devours all souls of monsters and Leviathans, becomes the new God.
+
+### S07E01
+
+God-Cass kills all Raphael's follower angels.
 
 ## Enochians
 
