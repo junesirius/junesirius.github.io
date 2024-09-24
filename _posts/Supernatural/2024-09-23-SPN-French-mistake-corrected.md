@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 【SPN】French Mistake Corrected
-date: 2024-09-23
+date: 2024-09-23 23:52
 categories: ["SPN", "RPS"]
 characters: ["Castiel", "Jensen Ackles", "Misha Collins", "Jack Kline"]
-tags: ["Supernatural", "Cockles"]
+tags: ["Supernatural", "Cockles", "英文"]
 pov: 第三人称
 origin: AO3
 ---
