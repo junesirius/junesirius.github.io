@@ -15,9 +15,9 @@ origin: 个站
 
 ### Summary
 
-Win/Kill Count: 12 (angel), 10 (demon), 2 (archangel), 14 (others)
+Win/Kill Count: 12 (angel), 15 (demon), 2 (archangel), 15 (others)
 
-Lose/Hurt Count: 2 (angel), 2 (demon), 4 (archangel), 2 (others)
+Lose/Hurt Count: 3 (angel), 2 (demon), 4 (archangel), 2 (others)
 
 Death/Near death Count: 2 (Raphael), 1 (Lucifer), 2 (Leviathan)
 
@@ -129,9 +129,23 @@ Death/Near death Count: 2 (Raphael), 1 (Lucifer), 2 (Leviathan)
 
 （注：帝卡时期kill count太难精确计算，暂时先不计入summary的kill count）
 
-（angel）Raphael's followers：赢；帝卡杀死所有Raphael的部下，不知具体有多少天使，可能成百上千，从图里能看到死掉的翅膀印的就有50+
+（angel）Raphael's followers：赢；帝卡杀死所有Raphael的部下，不知具体有多少天使，可能成百上千，从图里能看到死掉的翅膀印的就有50+，从后面对话可知至少上千
 
 （human）恐同教会，200+宗教领袖，3K党，白人至上组织，出版社，有神论议员办公室
+
+### S07E17（+5 demon）
+
+（demon）Sam医院外面守门恶魔4个：赢；失忆状态下边smite边恢复记忆
+
+（demon）电击折磨Sam的恶魔：赢；从背后轻松smite
+
+### S07E21（-1 angel）
+
+（angel）天使Hester，从前同一个garrison，要带走先知Kevin：输；毫不还手地被打了一顿，差点被杀，Meg从背后用天使刀捅死解围
+
+### S08E05（+1 other）
+
+（Leviathan）在炼狱攻击的勒维坦：赢；正面轻松smite
 
 ## Mistake/deal Count
 
