@@ -15,7 +15,7 @@ origin: 个站
 
 ### Summary
 
-Win/Kill Count: 12 (angel), 15 (demon), 2 (archangel), 15 (others)
+Win/Kill Count: 13 (angel), 16 (demon), 2 (archangel), 15 (others)
 
 Lose/Hurt Count: 3 (angel), 2 (demon), 4 (archangel), 2 (others)
 
@@ -146,6 +146,14 @@ Death/Near death Count: 2 (Raphael), 1 (Lucifer), 2 (Leviathan)
 ### S08E05（+1 other）
 
 （Leviathan）在炼狱攻击的勒维坦：赢；正面轻松smite
+
+### S08E07（+1 demon）
+
+（demon）救Kevin时外面的巡逻恶魔：赢；正面费力smite
+
+### S08E10（+1 angel）
+
+（angel）Samandriel：赢；被Naomi洗脑下令用天使刀捅死
 
 ## Mistake/deal Count
 
@@ -299,7 +307,71 @@ Cass定位咒语找Balthazar：
 
 翻译（直译+字幕组翻译咒语用词，[ref](https://sacred-texts.com/pag/enoch1.txt)）：“Show thou whose wings stir stings.”
 
-## Latin spells
+### S08E10
+
+Samandriel被Crowley折磨时的胡言乱语：
+
+> VA TE CA RA（vah-teh-kah-rah）
+
+翻译（[ref](https://monicawoe.livejournal.com/107878.html)）：“work, arise abide”（This fits because it is when the bush catches fire）
+
+> SAL-(VL)-D（sal-voch-tay）
+
+翻译according to Castiel：“obay”
+
+（[ref](https://monicawoe.livejournal.com/107878.html)）：“wonders”
+
+> Z BALIT（zoh-bah-leh-ta）
+>
+> SA TVLE（sah-teh-voch-leh）
+
+翻译according to Crowley：“you, celestial being, have been created to be an angel of the lord”
+
+（[ref](https://monicawoe.livejournal.com/107878.html)）：They (are) righteous, remain also the last (or remain until the end)
+
+> VOHIM PATRALX（voh-meh-pah-rah-less）
+
+翻译according to Crowley：“protecting tablet”
+
+（[ref](https://monicawoe.livejournal.com/107878.html)）：“Hundred stones”
+
+> ZOL (TA)FA（zod-leh-fah）
+
+翻译according to Crowley：“demon tablet”
+
+（[ref](https://monicawoe.livejournal.com/107878.html)）：“Hands of poison”
+
+> BN(G) SA I, AR DS EFE, PAID RA（bah-nah-sah-ee ar-doh-zah-feh pah-deh-rah）
+
+翻译according to Crowley：“angel tablet”
+
+（[ref](https://monicawoe.livejournal.com/107878.html)）：“Remains guarded by, those who reign, always and forever”
+
+### S08E12
+
+Henry Winchester施咒时间穿越时的咒语应该是以诺语：
+
+> CNILA PVGO CNILA（kah-nee-lah poo-goh kah-nee-lah）
+
+翻译according to Henry：“blood leads to blood”
+
+（[ref](https://monicawoe.livejournal.com/107878.html)）：“Blood unto blood”
+
+Henry施咒催眠hunter's magical shop店员：
+
+> BRGDO（bah-rah-gah-doh）
+
+翻译（[ref](https://sacred-texts.com/pag/enoch1.txt)）：“Sleep”
+
+### S08E14
+
+Trial 1杀了地狱犬之后Dean念的咒语（听起来是以诺语）：
+
+> CANA(L) OM DAR(BS)（kah-nuh-ahm-dahr）
+
+翻译（[ref](https://monicawoe.livejournal.com/107878.html)）：“Workmen understand, obey”
+
+## Latin spells (angel-related)
 
 ### S04E10
 
@@ -311,7 +383,7 @@ Alastair念的天使驱逐咒：
 >
 > Potestas inferna, me confirma.
 
-翻译：“Hell power, strengthen me.”
+翻译（[ref](https://supernatural.fandom.com/wiki/Angelic_Exorcism)）：“Hell power, strengthen me.”
 
 ### S04E16
 
