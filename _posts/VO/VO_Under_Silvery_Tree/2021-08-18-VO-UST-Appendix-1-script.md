@@ -4,7 +4,7 @@ title: 【VO】在如银的树下（Appendix）附录1 剧本样稿
 date: 2021-08-18 04:35
 categories: ["中土", "RPS"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]
-tags: ["VO"]
+tags: ["VO", "剧本"]
 pov: 第三人称
 origin: 2021上海cp29漫展
 long_novels: 【VO】在如银的树下
