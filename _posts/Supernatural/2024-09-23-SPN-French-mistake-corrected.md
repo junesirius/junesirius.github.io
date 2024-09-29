@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SPN】French Mistake Corrected
+title: 【Cockles】French Mistake Corrected
 date: 2024-09-23 23:52
 categories: ["SPN", "RPS"]
 characters: ["Castiel", "Jensen Ackles", "Misha Collins", "Jack Kline"]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【童话镇】After Life
+title: 【Captainswan】After Life
 date: 2023-02-23 03:13
 categories: ["其他"]
 characters: ["Killian Jones/Captain Hook", "Emma Swan"]

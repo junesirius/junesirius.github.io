@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【童话镇】Lost Princess（待扩充）
+title: 【Captainswan】Lost Princess（待扩充）
 date: 2023-02-23 02:26
 categories: ["其他"]
 characters: ["Emma Swan", "Killian Jones/Captain Hook"]

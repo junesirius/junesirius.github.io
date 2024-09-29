@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SPN】Sex Hair
+title: 【Destiel】Sex Hair
 date: 2024-09-12 17:21
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Jimmy Novak"]

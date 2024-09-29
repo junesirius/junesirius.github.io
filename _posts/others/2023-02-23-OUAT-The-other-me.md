@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【童话镇】The Other Me（草稿）
+title: 【Captainswan】The Other Me（草稿）
 date: 2023-02-23 02:32
 categories: ["其他"]
 characters: ["Killian Jones/Captain Hook", "Emma Swan"]
