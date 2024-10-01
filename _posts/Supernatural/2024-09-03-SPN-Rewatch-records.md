@@ -15,9 +15,9 @@ origin: 个站
 
 ### Summary
 
-Win/Kill Count: 13 (angel), 16 (demon), 2 (archangel), 15 (others)
+Win/Kill Count: 14 (angel), 20 (demon), 2 (archangel), 16 (others)
 
-Lose/Hurt Count: 3 (angel), 2 (demon), 4 (archangel), 2 (others)
+Lose/Hurt Count: 3 (angel), 3 (demon), 4 (archangel), 2 (others)
 
 Death/Near death Count: 2 (Raphael), 1 (Lucifer), 2 (Leviathan)
 
@@ -155,21 +155,45 @@ Death/Near death Count: 2 (Raphael), 1 (Lucifer), 2 (Leviathan)
 
 （angel）Samandriel：赢；被Naomi洗脑下令用天使刀捅死
 
-## Mistake/deal Count
+### S08E17（+4 demon）（skip a few）
+
+（demon）登报的被杀的恶魔至少三四个：赢；都是smite（没有在镜头前出现，暂时不算）
+
+（demon）攻击Sam的恶魔：赢；从背后轻松smite
+
+（demon）被审讯的恶魔：赢；正面用天使刀捅死
+
+（demon）找知道angel tablet的人质时候外面看押的两个恶魔：赢；轻松smite
+
+### S08E21（-1 demon，+1 angel）
+
+（demon）被Crowley审讯逼供天使tablet位置：输（挨打）；被正面开枪腹部中弹，子弹是天使刀融化做的，伤口漏光
+
+（angel）天使Ion，Naomi手下，被Crowley买通看管受伤的Cass：赢；抠出腹部子弹作为武器按进Ion眼窝杀死
+
+### S08E22（+1 other）
+
+（Nephilim）地球上最后一个Nephilim，正要掐死Metatron：赢；从背后用天使刀杀
+
+## Mistake/deal/big twist records
 
 ### S02E01
 
-Dean is dying (Azazel's plan, killed by demon), John trade with Azazel: Dean's life for Colt+John's
+Dean is dying (Azazel's plan, killed by demon), John trade with Azazel: Dean's life for Colt+John's.
 
 ### S02E22
 
-Sam is dead (Azazel's plan, killed by Jake), Dean deal with crossroad demon: Sam's life for Dean's in one year
+Sam is dead (Azazel's plan, killed by Jake), Dean deal with crossroad demon: Sam's life for Dean's in one year.
 
-Jake opens the Hell's Gate, they close it
+Jake opens the Hell's Gate, they close it.
+
+### S03E16
+
+Hell hound drags Dean to Hell.
 
 ### S04E22
 
-Sam frees Lucifer (manipulated by Ruby&Lilith)
+Sam frees Lucifer (manipulated by Ruby&Lilith).
 
 ### S05E22
 
@@ -177,7 +201,7 @@ Sam says yes to Lucifer, jumps into the Cage. Cass gets soulless Sam back (leavi
 
 ### S06E11
 
-Death helps get Sam's soul back, puts a wall in his mind (didn't ask for anything in return, just ask Dean to keep digging)
+Death helps get Sam's soul back, puts a wall in his mind (didn't ask for anything in return, just ask Dean to keep digging).
 
 ### S06E22
 
@@ -187,7 +211,31 @@ Cass opens the Purgatory, devours all souls of monsters and Leviathans, becomes 
 
 God-Cass kills all Raphael's follower angels.
 
-## Enochians
+### S07E23
+
+Dick's explosion brings Dean & Cass to Purgatory.
+
+### S08E01
+
+Dean comes back from Purgatory, Cass insists on staying in there. Naomi orders angels to save Cass, brainwashes him.
+
+### S08E10
+
+Naomi brainwashes Cass to kill Samandriel.
+
+### S08E17
+
+Naomi brainwashes Cass to (almost) kill Dean and take angel tablet.
+
+Sam&Dean learns from demon tablet that they can close hell gate by taking three trials.
+
+### S08E23
+
+Sam almost finishes three trials and almost dying.
+
+Cass is cheated by Metatron (and disbelieve Naomi), the spell casts all angels fall to Earth. Cass' grace is taken by Metatron.
+
+## Enochian
 
 ### S05E02
 
@@ -363,9 +411,9 @@ Henry施咒催眠hunter's magical shop店员：
 
 翻译（[ref](https://sacred-texts.com/pag/enoch1.txt)）：“Sleep”
 
-### S08E14
+### S08E14、S08E17
 
-Trial 1杀了地狱犬之后Dean念的咒语（听起来是以诺语）：
+Trial 1杀了地狱犬之后Dean&Sam念的咒语、Trial 2救完Bobby之后Sam念的咒语：
 
 > CANA(L) OM DAR(BS)（kah-nuh-ahm-dahr）
 
