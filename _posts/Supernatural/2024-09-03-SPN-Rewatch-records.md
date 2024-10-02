@@ -15,11 +15,11 @@ origin: 个站
 
 ### Summary
 
-Win/Kill Count: 14 (angel), 20 (demon), 2 (archangel), 16 (others)
+Win/Kill Count: 16 (angel), 20 (demon), 2 (archangel), 16 (others)
 
-Lose/Hurt Count: 3 (angel), 3 (demon), 4 (archangel), 2 (others)
+Lose/Hurt Count: 4 (angel), 3 (demon), 4 (archangel), 3 (others)
 
-Death/Near death Count: 2 (Raphael), 1 (Lucifer), 2 (Leviathan)
+Death/Near death Count: 2 (Raphael), 1 (Lucifer), 2 (Leviathan), 1 (reaper)
 
 ### S04E10（-1 demon）
 
@@ -174,6 +174,18 @@ Death/Near death Count: 2 (Raphael), 1 (Lucifer), 2 (Leviathan)
 ### S08E22（+1 other）
 
 （Nephilim）地球上最后一个Nephilim，正要掐死Metatron：赢；从背后用天使刀杀
+
+### S09E01（-1 angel，+1 angel）
+
+（angel）刚堕天变成人类时遇到的天使Hael：输；不设防被从背后偷袭用木板敲晕
+
+（angel）Hael威胁曝光卡的位置想要附身他：赢；当胸用天使刀捅死
+
+### S09E03（+1 angel, -1 other）
+
+（angel）追杀人类卡的某个普通堕天天使：赢；被划伤手臂之后用天使刀当胸捅死
+
+（reaper）追杀他的reaper April：输；人类状态下被用天使刀当胸捅死
 
 ## Mistake/deal/big twist records
 
