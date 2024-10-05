@@ -17,7 +17,7 @@ Jared reacts first, bursting out into laughter, "That is good. Really good, Gen,
 
 Jensen relaxes a little too, a faint smile starting to show at the corner of the tightened lip line. "Yeah, almost-gave-me-a-heart-attack good." he gives her a thumb up, "Bob would love to see it tomorrow, great delivery of the line."
 
-Genevieve stares at both of them, her expression unbelievable and torn apart, "What?! No! Fuck the line, Misha is really dead!"
+Genevieve stares back at both of them, her expression unbelievable and torn apart, "What?! No! Fuck the line, Misha is really dead!"
 
 <br>
 
