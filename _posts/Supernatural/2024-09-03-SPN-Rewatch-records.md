@@ -15,7 +15,7 @@ origin: 个站
 
 ### Summary
 
-Win/Kill Count: 16 (angel), 20 (demon), 2 (archangel), 16 (others)
+Win/Kill Count: 22 (angel), 20 (demon), 2 (archangel), 16 (others)
 
 Lose/Hurt Count: 4 (angel), 3 (demon), 4 (archangel), 3 (others)
 
@@ -187,6 +187,16 @@ Death/Near death Count: 2 (Raphael), 1 (Lucifer), 2 (Leviathan), 1 (reaper)
 
 （reaper）追杀他的reaper April：输；人类状态下被用天使刀当胸捅死
 
+### S09E06（+1 angel）
+
+（angel）“hands of mercy”仁慈天使Ephraim：赢；人类状态下挨打差点被smite，及时接住丁温滑过来的天使刀正面捅死
+
+### S09E09（+5 angel）
+
+（angel）Malachi's hit man天使Theo：赢；人类状态下偷袭用天使刀划开喉咙吸收grace后smite
+
+（angel）Malachi的地牢守卫4个：赢；没有正面镜头但是Malachi下地牢时候路上有4个都被捅死了的天使尸体
+
 ## Mistake/deal/big twist records
 
 ### S02E01
@@ -246,6 +256,18 @@ Sam&Dean learns from demon tablet that they can close hell gate by taking three 
 Sam almost finishes three trials and almost dying.
 
 Cass is cheated by Metatron (and disbelieve Naomi), the spell casts all angels fall to Earth. Cass' grace is taken by Metatron.
+
+### S09E01
+
+Gadreel tricked Dean to believe he is Ezekiel and let him inside Sam to try to fix Sam.
+
+### S09E09
+
+Gadreel is tricked by Metatron, killed Kevin, left with Sam's body.
+
+### S09E11
+
+In order to kill Abaddon, Crowley tricked Dean to take the Mark of Cain (both not know the consequence).
 
 ## Enochian
 
@@ -430,6 +452,18 @@ Trial 1杀了地狱犬之后Dean&Sam念的咒语、Trial 2救完Bobby之后Sam�
 > CANA(L) OM DAR(BS)（kah-nuh-ahm-dahr）
 
 翻译（[ref](https://monicawoe.livejournal.com/107878.html)）：“Workmen understand, obey”
+
+### S09E06
+
+> rit zien
+
+翻译（according to Castiel）：“hands of mercy”
+
+### S09E10
+
+> Zir noco iad Gadreel  (zi-ra no-co iad Gadreel)
+
+翻译（字幕组+according to Castiel）：“my name is Gadreel”
 
 ## Latin spells (angel-related)
 
