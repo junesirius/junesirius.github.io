@@ -102,7 +102,7 @@ Cass被snap走的时候发生了什么，为什么每次重新出现在镜头前
 
 但回去的路，比来的时候还要糟糕。在1978休息了五天，醒醒睡睡，意识浮浮沉沉，然后终于恢复了些力气。他感觉到了米迦勒降临，也知道两兄弟已经被完好无损地送回去了，于是放下心来，然后又在新的一阵眩晕里昏睡过去。终于能够再支撑自己的身体皮囊站起来的时候他就走上回去的路了，但是这时的自己面对那些虎视眈眈的时间的兽，还是太过虚弱了。他本来以为是因为残余的天使之力所剩无几，用尽力气打退几只才反应过来大概是因为两兄弟不在自己身边。这次不是为了他们，只是为了自己，于是似乎爆发不出那样强大的保护欲了，于是也没有足够力量对抗那些兽和这条路上的其他障碍了。这次他真的以为自己做不到了，力竭之后被兽群拖走撕咬，他已经闭上眼睛要放弃希望放弃抵抗了。然后大脑的一个角落浮出Dean的声音，跟他说他们还在原来的时间点等他回来，他们还需要他，于是他继续挣扎地往前。他完全不知道自己是怎么回到2010的，摇摇晃晃，踉踉跄跄回到两兄弟待的旅馆降落在Sam身后，虚弱得气若游丝（“I did it? I'm actually surprised.”他本来是真的以为自己回不来了），被两兄弟一人一边地接住，知道自己安全了，于是意识一放松又晕过去了。
 
-（see more in S05E13观后感）
+（see more in S05E13观后感+prompt 76）
 
 ### 9.【destiel】S05E14 被放大的欲望（R级）
 
@@ -575,3 +575,166 @@ In the end?
 ### 57.【destiel】西部世界AU
 
 （AL梗17，直接可以搬过来用）
+
+### 58.【destiel】S02E07《Date》
+
+Dean: "My name is Dean Winchester. I'm an Aquarius. I enjoy sunsets, long walks on the beach, and frisky women"
+
+### 59.【destiel】S04E02 sleep-watching
+
+《sleep-watching kink》
+
+《What if everything happened in the next 12 years is a long dream》
+
+《You should show me some respect》
+
+### 60.【destiel】S04E03 allergic to straight answer
+
+《Angel is my shotgun》
+
+《Allergic to straight answers》
+
+### 61.【destiel】S04E06 coward Dean
+
+when coward Dean met Cass
+
+### 62.【destiel】S04E10 junkless
+
+《Angels are all powerful and perfect》
+
+Dean: “angels are junkless down there, like a Ken doll” <- How did you know
+
+Cass -> first time fight in front of Dean and failed
+
+### 63.【Cass】why can't him remember being on earth
+
+“angel walking the earth for the first time in 2000 years” because every time he did, the memory is wiped (confirmed by Naomi in ~S08E19)
+
+### 64.【destiel】S05E18 “last person look at me like that, I got laid”
+
+Dean: “Cas, not for nothing, but the last person who looked at me like that…I got laid.”
+
+Cass's fierce look is hot
+
+### 65.【Cass】S05E22 get Sam out of Cage
+
+How did Cass get Sam out of the Cage, how did he handle Lucifer/Michael/Adam, how to explain to Adam he has to leave him behind, how he decide to leave Sam's soul behind
+
+### 66.【Cass】S06E15 find weapons
+
+How Bal & Cass finally find/get weapons while keep an eye on Sam/Dean
+
+### 67.【destiel】S06E17 accidental come out by Bal
+
+Bal: “You have me confused with the other angel - you know, the one in the dirty trenchcoat who's in love with you.” Bal knows how much Cass love Dean and this is his effort to help Cass open up/confess/come out.
+
+How Bal find out, or Cass confessed to him and made him promise not to tell anyone, but of course Bal won't keep the promise seeing how much the unspoken love tortured him, just to help his good buddy out. Dean gets serious (or not), Cass gets furious about Bal.
+
+### 68.【Cass】S06E20 《Don't step on the fish》
+
+《Don't step on that fish》：I remember being at a shoreline, watching a little grey fish heave itself up on the beach and an older brother saying, "don't step on that fish, Castiel. Big plans for that fish."
+
+《Tower of Babel》：I remember the Tower of Babel...All 37 feet of it, which I suppose was impressive at the time. And when it fell, they howled 'divine wrath'. But come on - dried dung can only be stacked so high.
+
+I remember Cain and Abel... David and Goliath... Sodom and Gomorrah.
+
+### 69.【destiel】S07E17 Emmanuel hears something
+
+Emmanuel (amnesia Cass) can hear longing/prayer but doesn't know what it is until he meets Dean.
+
+(old reddit prompt about someone who thinks they're just imagining the voice until one day they hear "turn around" and see the other person)
+
+### 70.【destiel】When the first pie is made【in progress】
+
+《Best creation ever》
+
+Cass time travels with Dean to when the first pie is made
+
+~like DW10&Rose in Rome
+
+### 71.【destiel】Phatom Opera AU
+
+Cass doesn't want Dean see his true face because he thinks he's ugly
+
+(not very canon, Cass is actually proud of his true form, he's a little ego to brag about his height before and he still thinks angels are more superior than human after all these years)
+
+### 72.【destiel】S09E06《Chinese Chair》
+
+reel gag Dean: “If she has a Chinese Chair, you call me”
+
+### 73.【destiel】Ice Age AU
+
+《Dean Winchester is a squirrel》
+
+Dean is (transformed to) a squirrel, Sam a moose, Cass a bird, all in the Ice Age
+
+who did this? Crowley/Gaberiel?
+
+### 74.【destiel】S06E20《Superman》
+
+“Superman turns dark”
+
+destiel watch "Batman vs Superman" movie together
+
+### 75.【destiel】S08E12《Angel feather in the trunk》
+
+Henry stole the angel feather in the trunk
+
+where is that angel feather come from in the first place
+
+### 76.【destiel】S08E12《A pinch of sand of time》
+
+ingredients for time travel include: a pinch of sand of time
+
+so time is sand, use it for S05E13 when Cass is badly wounded and passed out from time travel (see prompt 8)
+
+### 77.【destiel】S08E17 sober during brainwash session
+
+Cass' brainwash testing session, having to kill Dean over and over again to convince Naomi in order to get away, what if he's all the time sober and know what he's doing, he can tell the difference but still painful, but can't show any sign, which makes it even worse and more difficult to bear. Surrender to the brainwash could make it easier to bear, but he can't do that.
+
+### 78.【Cass】S08E21《First borns in Egypt》
+
+Naomi: “There was that day, back in Egypt, not so long ago, where we slew every first-born infant whose door wasn't splashed with lamb's blood. And that was just PR.”
+
+Cass: “I wasn't there.”
+
+Naomi: “You were there. You just don't remember it.”
+
+How Cass secretly saved some first borns, hide and protect them from rest of angels. How Cass get all his memory back after S15E20.
+
+### 79.【destiel】S08E23 what if Metatron is not lying
+
+what if Metatron is not lying, Cass shut heaven's door and locked himself upstairs, tortured and almost killed by the angry angels, and the gang fight continued upstairs, then what? Dean knows nothing about Cass' situation, but eventually he had to know and had to help. Maybe after Cass is dying or dead again.
+
+what if Sam also refused to let go and continue the trial and successfully shut the hell's door. Then what? Where is Sam, heaven or hell or veil?
+
+Where does that leave Dean? All alone, losing Sam and Cass at the same time. Lisa is not an option, Bobby is dead. He's really alone this time.
+
+### 80.【Cass】S09E03 What if April is just a human
+
+What if April is really just a sweet little girl, not a reaper, and Cass didn't take protection: child-raising story for mortal Cass?
+
+### 81.【Dean/impala】impala is a lady
+
+impala becomes a real lady (=Tardis becomes a girl, DW S06E04)
+
+Dean try to figure out who she is and where is his car, Dean had sex with her? "All the time you're in me, how is this different now?"
+
+### 82.【Dean】What if Ben is Dean's own
+
+What if Lisa lied and Ben *is* Dean's own. Post-621, they have no memory of Dean, but Ben is dying of natural mortal disease (for some reason angels aren't there or can't fix either, maybe during S9 when Cass is human?), need transplant, Dean is the only fit and he finds out
+
+### 83.【destiel】Happy Prince AU
+
+Wilde's Happy Prince AU
+
+Cass is the happy prince sculpture, can give up some part of his body to grant some wish to help people
+
+everything comes for a price, a finger to save a poor woman, a hand for a family, eyes for something, heart for Dean because Dean said "I need you", nothing left for himself
+
+### 84.【Cass】S09E03 during mortal death
+
+what happened during that ~3 min when Cass actually died as a human and went to heaven, saw Metatron and what to tell him, then dragged back, resurrected by Gadreel, how pissed Metatron must be
+
+### 85.
+
