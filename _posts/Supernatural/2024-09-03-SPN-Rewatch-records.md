@@ -15,7 +15,7 @@ origin: 个站
 
 ### Summary
 
-Win/Kill Count: 22 (angel), 20 (demon), 2 (archangel), 16 (others)
+Win/Kill Count: 23 (angel), 20 (demon), 2 (archangel), 16 (others)
 
 Lose/Hurt Count: 4 (angel), 3 (demon), 4 (archangel), 3 (others)
 
@@ -196,6 +196,10 @@ Death/Near death Count: 2 (Raphael), 1 (Lucifer), 2 (Leviathan), 1 (reaper)
 （angel）Malachi's hit man天使Theo：赢；人类状态下偷袭用天使刀划开喉咙吸收grace后smite
 
 （angel）Malachi的地牢守卫4个：赢；没有正面镜头但是Malachi下地牢时候路上有4个都被捅死了的天使尸体
+
+### S09E14（+1 angel）
+
+（angel）Bartholomew：赢；拒绝内讧不还手地任打，差点被杀才自卫反击轻松制服，Bar仍然不死心想背刺被反手夺刀用天使刀捅腹杀了
 
 ## Mistake/deal/big twist records
 
@@ -455,15 +459,33 @@ Trial 1杀了地狱犬之后Dean&Sam念的咒语、Trial 2救完Bobby之后Sam�
 
 ### S09E06
 
-> rit zien
+Cass介绍仁慈天使的名字：
+
+> RIT ZIEN
 
 翻译（according to Castiel）：“hands of mercy”
 
+（[ref](https://sacred-texts.com/pag/enoch1.txt)）：RIT=mercy, ZIEN=hands
+
 ### S09E10
 
-> Zir noco iad Gadreel  (zi-ra no-co iad Gadreel)
+Gadreel附身的Sam被Crowley用针钻Sam大脑时逼出来的话：
+
+> ZIR NOCO IAD GADREEL  (zi-ra no-co iad Gadreel)
 
 翻译（字幕组+according to Castiel）：“my name is Gadreel”
+
+（[ref](https://sacred-texts.com/pag/enoch1.txt)）：“I am God's servant Gadreel”
+
+### S09E17
+
+impala车上上Abaddon刀刻的enochian给Crowley的留言：
+
+（配图TBA）
+
+> BEAFRIAD YOURQUEE(N)
+
+翻译（according to Crowley）：“Be afraid, your queen”
 
 ## Latin spells (angel-related)
 
