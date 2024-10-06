@@ -4,7 +4,7 @@ title: 【Destiel】I'm Sorry
 date: 2024-07-29 02:45
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester", "Castiel", "Crowley", "Rowena MacLeod"]
-tags: ["观后感", "Supernatural", "温家兄弟", "destiel", "英文", "自毁"]
+tags: ["Supernatural", "温家兄弟", "destiel", "英文", "自毁"]
 pov: 第三人称
 origin: AO3
 ---
