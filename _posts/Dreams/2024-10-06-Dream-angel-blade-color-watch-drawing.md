@@ -4,7 +4,7 @@ title: 【梦记】天使之刃抛光上色，看人画画（碎片）
 date: 2024-10-06 23:09
 categories: ["梦记"]
 characters: ["Castiel", "Dean Winchester", "Sam Winchester", "Crowley"]
-tags: ["梦记", "Supernatural"]
+tags: ["梦记", "Supernatural", "碎片"]
 pov: 第一人称视角
 origin: 个站
 ---
