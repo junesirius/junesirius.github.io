@@ -15,7 +15,7 @@ origin: 个站
 
 ### Summary
 
-Win/Kill Count: 23 (angel), 20 (demon), 2 (archangel), 16 (others)
+Win/Kill Count: 26 (angel), 21 (demon), 2 (archangel), 16 (others)
 
 Lose/Hurt Count: 4 (angel), 3 (demon), 4 (archangel), 3 (others)
 
@@ -201,6 +201,18 @@ Death/Near death Count: 2 (Raphael), 1 (Lucifer), 2 (Leviathan), 1 (reaper)
 
 （angel）Bartholomew：赢；拒绝内讧不还手地任打，差点被杀才自卫反击轻松制服，Bar仍然不死心想背刺被反手夺刀用天使刀捅腹杀了
 
+### S09E20（+2 angel）
+
+（angel）面见Gadreel招安时跟过来的Metatron的2个跟班天使：赢；一打二轻松用天使刀杀
+
+### S10E01（+1 angel）
+
+（angel）和Hannah一起追的两个rogue angel之一Daniel：赢；在Daniel即将杀死Hannah的时候不情愿地从背后用天使刀捅死
+
+### S10E14（+1 demon）
+
+（demon）审问一个小恶魔关于该隐的下落：赢；审完之后当胸捅死
+
 ## Mistake/deal/big twist records
 
 ### S02E01
@@ -269,9 +281,19 @@ Gadreel tricked Dean to believe he is Ezekiel and let him inside Sam to try to f
 
 Gadreel is tricked by Metatron, killed Kevin, left with Sam's body.
 
+Cass took Theo's grace to become angel again.
+
 ### S09E11
 
 In order to kill Abaddon, Crowley tricked Dean to take the Mark of Cain (both not know the consequence).
+
+### S09E22
+
+Dean killed Tessa, Cass lost his army for him.
+
+### S09E23
+
+Metatron killed Dean, Dean revived by the Mark of Cain and became a demon.
 
 ## Enochian
 
@@ -433,9 +455,9 @@ Samandriel被Crowley折磨时的胡言乱语：
 
 （[ref](https://monicawoe.livejournal.com/107878.html)）：“Remains guarded by, those who reign, always and forever”
 
-### S08E12
+### S08E12、S09E20
 
-Henry Winchester施咒时间穿越时的咒语应该是以诺语：
+Henry Winchester施咒时间穿越时的咒语、Abaddon带Crowley儿子Gavin时间穿越时的咒语：
 
 > CNILA PVGO CNILA（kah-nee-lah poo-goh kah-nee-lah）
 
