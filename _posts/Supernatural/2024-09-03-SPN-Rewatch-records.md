@@ -17,7 +17,7 @@ origin: 个站
 
 Win/Kill Count: 26 (angel), 21 (demon), 2 (archangel), 16 (others)
 
-Lose/Hurt Count: 4 (angel), 3 (demon), 4 (archangel), 3 (others)
+Lose/Hurt Count: 5 (angel), 3 (demon), 4 (archangel), 3 (others)
 
 Death/Near death Count: 2 (Raphael), 1 (Lucifer), 2 (Leviathan), 1 (reaper)
 
@@ -212,6 +212,10 @@ Death/Near death Count: 2 (Raphael), 1 (Lucifer), 2 (Leviathan), 1 (reaper)
 ### S10E14（+1 demon）
 
 （demon）审问一个小恶魔关于该隐的下落：赢；审完之后当胸捅死
+
+### S10E18（-1 angel）
+
+（angel）跟着Metatron找grace时候被一个丘比特攻击：输；被压在地上差点被杀，Metatron从背后用天使刀捅了救下
 
 ## Mistake/deal/big twist records
 
