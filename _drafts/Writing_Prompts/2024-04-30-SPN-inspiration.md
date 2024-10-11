@@ -736,5 +736,8 @@ everything comes for a price, a finger to save a poor woman, a hand for a family
 
 what happened during that ~3 min when Cass actually died as a human and went to heaven, saw Metatron and what to tell him, then dragged back, resurrected by Gadreel, how pissed Metatron must be
 
-### 85.
+### 85.【Bobby】S10E17 Bobby's retelling of Heaven's events
 
+Rewrite S10E17-S15E20 from Bobby's perspective, when he's locked away for helping Cass get into Heaven and burst Metatron out, what's happening in Heaven after that, Metatron did something, Lucifer did something, Darkness come once, Empty come once, Heaven is short of power, Bobby can hear everything but do nothing from Heaven't jail but relatively safe, talking with other angel inmates and guards? find a way to get out? witness Cass & Jack rebuild Heaven
+
+### 86.
