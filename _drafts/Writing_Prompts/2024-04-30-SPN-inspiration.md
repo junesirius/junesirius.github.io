@@ -740,4 +740,46 @@ what happened during that ~3 min when Cass actually died as a human and went to 
 
 Rewrite S10E17-S15E20 from Bobby's perspective, when he's locked away for helping Cass get into Heaven and burst Metatron out, what's happening in Heaven after that, Metatron did something, Lucifer did something, Darkness come once, Empty come once, Heaven is short of power, Bobby can hear everything but do nothing from Heaven't jail but relatively safe, talking with other angel inmates and guards? find a way to get out? witness Cass & Jack rebuild Heaven
 
-### 86.
+### 86.【destiel】饥饿游戏AU
+
+可以用炼狱丁卡直接代
+
+### 87.【destiel】铁血战士AU
+
+可以用炼狱丁卡直接代
+
+### 88.【destiel】“Why can't I see your true form”
+
+frustrated Dean, comforting Cass
+
+established relationship?
+
+### 89.【all】What if 601-1520 all in Sam's brain only
+
+What if that's all Sam's imagination from his craziness, he's still in Cage
+
+### 90.【Cass&Jimmy】S10E20 What if 419-1520 all in Jimmy's brain only
+
+What if these are all Cass's explanation to Jimmy for copential consequence to let him think thoroughly about saying yes: 1020 Claire's blaim, Amelia's vision/dream, their pain, Dean's "because of Jimmy's sacrifice, Cass get to save world"
+
+### 91.【Cass】S06E22 What if he stopped and they let Rafael win
+
+just has to stop Armageddon all over again
+
+### 92.【destiel】S10E23 What if Dean accept Death's offer
+
+What will happen if in alternative multiverse, Dean accepted Death's offer, killed Sam (sent him to heaven to continue the work), get sent to far away universe
+
+Cass & Sam will continue searching for him, trying to save him anyway, wherever they are.
+
+### 93.【drowley】S10E23 Crowley's love
+
+What if Crowley has to find the one he loved to cast the spell: find out to be Dean
+
+### 94.【destiel】S10E23 Cass's love
+
+What if Cass has to cast the spell: he knows it's Dean, he will never kill him no matter what
+
+What if we told him killing Dean and making him a demon again is the only way to let the spell work and save him, then he might would agree
+
+### 95.
