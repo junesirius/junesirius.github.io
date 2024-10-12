@@ -766,20 +766,22 @@ What if these are all Cass's explanation to Jimmy for copential consequence to l
 
 just has to stop Armageddon all over again
 
-### 92.【destiel】S10E23 What if Dean accept Death's offer
+### 92.【destiel】S10E22 “I'm the one who will have to watch you murder the world.”
+
+### 93.【destiel】S10E23 What if Dean accept Death's offer
 
 What will happen if in alternative multiverse, Dean accepted Death's offer, killed Sam (sent him to heaven to continue the work), get sent to far away universe
 
 Cass & Sam will continue searching for him, trying to save him anyway, wherever they are.
 
-### 93.【drowley】S10E23 Crowley's love
+### 94.【drowley】S10E23 Crowley's love
 
 What if Crowley has to find the one he loved to cast the spell: find out to be Dean
 
-### 94.【destiel】S10E23 Cass's love
+### 95.【destiel】S10E23 Cass's love
 
 What if Cass has to cast the spell: he knows it's Dean, he will never kill him no matter what
 
 What if we told him killing Dean and making him a demon again is the only way to let the spell work and save him, then he might would agree
 
-### 95.
+### 96.
