@@ -714,7 +714,7 @@ Where does that leave Dean? All alone, losing Sam and Cass at the same time. Lis
 
 What if April is really just a sweet little girl, not a reaper, and Cass didn't take protection: child-raising story for mortal Cass?
 
-### 81.【Dean/impala】impala is a lady
+### 81.【Dean/impala】S11E04 impala is a lady
 
 impala becomes a real lady (=Tardis becomes a girl, DW S06E04)
 
@@ -784,4 +784,8 @@ What if Cass has to cast the spell: he knows it's Dean, he will never kill him n
 
 What if we told him killing Dean and making him a demon again is the only way to let the spell work and save him, then he might would agree
 
-### 96.
+### 96.【destiel】S04E01 glass cut hand
+
+(from behind-scene) Dean's palms are cut by the exploded glass in the convenience store, Cass is guilty
+
+### 97.
