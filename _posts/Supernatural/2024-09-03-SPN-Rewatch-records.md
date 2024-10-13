@@ -15,7 +15,7 @@ origin: 个站
 
 ### Summary
 
-Win/Kill Count: 26 (angel), 21 (demon), 2 (archangel), 16 (others)
+Win/Kill Count: 28 (angel), 21 (demon), 2 (archangel), 16 (others)
 
 Lose/Hurt Count: 5 (angel), 3 (demon), 4 (archangel), 3 (others)
 
@@ -217,6 +217,10 @@ Death/Near death Count: 2 (Raphael), 1 (Lucifer), 2 (Leviathan), 1 (reaper)
 
 （angel）跟着Metatron找grace时候被一个丘比特攻击：输；被压在地上差点被杀，Metatron从背后用天使刀捅了救下
 
+### S11E02（+2 angel）
+
+（angel）在卡中了疯狗咒向天使祈祷之后拷打折磨他的天使Efrem、Jonah：赢；看见他们暴打Hannah之后爆发用天使刀杀死他们
+
 ## Mistake/deal/big twist records
 
 ### S02E01
@@ -279,25 +283,43 @@ Cass is cheated by Metatron (and disbelieve Naomi), the spell casts all angels f
 
 ### S09E01
 
-Gadreel tricked Dean to believe he is Ezekiel and let him inside Sam to try to fix Sam.
+Gadreel tricks Dean to believe he is Ezekiel and let him inside Sam to try to fix Sam.
 
 ### S09E09
 
 Gadreel is tricked by Metatron, killed Kevin, left with Sam's body.
 
-Cass took Theo's grace to become angel again.
+Cass takes Theo's grace to become angel again.
 
 ### S09E11
 
-In order to kill Abaddon, Crowley tricked Dean to take the Mark of Cain (both not know the consequence).
+In order to kill Abaddon, Crowley tricks Dean to take the Mark of Cain (both not know the consequence).
 
 ### S09E22
 
-Dean killed Tessa, Cass lost his army for him.
+Dean kills Tessa, Cass loses his army for him.
 
 ### S09E23
 
-Metatron killed Dean, Dean revived by the Mark of Cain and became a demon.
+Metatron kills Dean, Dean is revived by the Mark of Cain and becomes a demon.
+
+### S10E11
+
+Sam finds the mention of the Book of the Damned.
+
+### S10E18
+
+Charlie finds the Book of the Damned.
+
+### S10E21
+
+Sam asks Charlie and Rowena to decode the Book of the Damned. Charlie is killed by the Stan Family because of the Book.
+
+### S10E23
+
+Dean kills the Death.
+
+Sam forces Rowena use the spell from the Book of the Damned to release the Mark of Cain from Dean, unleashing the Darkness.
 
 ## Enochian
 
