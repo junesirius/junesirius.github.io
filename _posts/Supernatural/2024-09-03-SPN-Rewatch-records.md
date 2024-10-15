@@ -321,6 +321,10 @@ Dean kills the Death.
 
 Sam forces Rowena use the spell from the Book of the Damned to release the Mark of Cain from Dean, unleashing the Darkness.
 
+### S11E10
+
+Cass believes Lucifer can beat the Darkness and agrees to be his vessel.
+
 ## Enochian
 
 ### S05E02
