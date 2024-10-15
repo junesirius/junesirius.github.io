@@ -800,4 +800,9 @@ Dean teach Cass how to ride a bike.
 
 Cass killed Dean in order to pass the curse to himself, his desire shows up as Dean and almost kills him, real Dean saves him
 
-### 99.
+### 99.【destiel】S11E11-23 Cass inside his brain
+
+Cass's view when he's hidden in his brain (in bunker kitchen), doesn't know Lucifer is controling the body, doesn't notice the outside world but slowly realizes something is off (like Wandavision), slowly knows what's happening but chooses not to go back out.
+
+### 100.
+
