@@ -486,6 +486,8 @@ src: [pinterest](https://www.pinterest.com/pin/199706564717793443)
 
 ### 53.【destiel】《Forgiven》（Lyrics）
 
+（by Within Temptation）
+
 Couldn't save you from the start
 
 Love you so it hurts my soul
@@ -507,6 +509,8 @@ You couldn't face the freedom on your own
 And here I am left in silence
 
 ### 54.【destiel】《Bye Bye Beautiful》（Lyrics）
+
+（by Nightwish）
 
 They used to love having so much to lose
 
@@ -530,7 +534,9 @@ You chose the long road but we'll be waiting
 
 I need to die to feel alive
 
-### 55.【destiel】《Stairway to the skies》（Lyrics）
+### 55.【destiel】《Stairway to The Skies》（Lyrics）
+
+（by Within Temptation）
 
 Seven seconds till the rise
 
@@ -804,5 +810,132 @@ Cass killed Dean in order to pass the curse to himself, his desire shows up as D
 
 Cass's view when he's hidden in his brain (in bunker kitchen), doesn't know Lucifer is controling the body, doesn't notice the outside world but slowly realizes something is off (like Wandavision), slowly knows what's happening but chooses not to go back out.
 
-### 100.
+### 100.【destiel】S05E04 Dean's dream
 
+When Cass goes into Dean's dream trying to reach out to him to tell him something (like in S04E19), and finds out Dean is dreaming about S05E04 endverse Cass.
+
+### 101.【destiel】《Misplaced Among The Angels》（Lyrics）
+
+（by Avantasia）
+
+He can take me away
+
+I'm misplaced among the angels
+
+Save me, I'm in need of you
+
+When real life bleeds through
+
+That frail veneer of reason
+
+Bleeding away
+
+Misplaced among the angels
+
+I'm in need of you
+
+When real life bleeds through
+
+The dark beneath the frail veneer of reason
+
+
+
+A sweet embrace, a dying dream
+
+Craving lit up by belief
+
+On the side of angels, dead in need
+
+### 102.【destiel】《You Will Never be Our God》（Lyrics）
+
+（by Xandria）
+
+I've been in Hell for many years
+
+And all the time is lost for me, for eternity
+
+I try to take back what was mine
+
+A prison they have made my mind, my enemy
+
+
+
+"March in line", "The end of time"
+
+You will never be our savior
+
+I won't die terrorized
+
+You will never be our god
+
+No more hate disguised by grace
+
+
+
+They tried to break my will to live
+
+Another life where I can be
+
+Can be myself
+
+
+
+Why?
+
+Is this the only way for us?
+
+Turn your eyes away
+
+But all the pain will stay
+
+### 103.【destiel】《Wish I had an Angel》（Lyrics）
+
+（by Nightwish）
+
+I wish I had an angel
+
+For one moment of love
+
+I'm in love with my lust
+
+Burning angelwings to dust
+
+
+
+Deep into a dying day
+
+I took a step outside an innocent heart
+
+Prepare to hate me fall when I may
+
+This night will hurt you like never before
+
+
+
+Old loves they die hard
+
+Old lies they die harder
+
+
+
+Last dance, first kiss
+
+Your touch my bliss
+
+Beauty always comes with dark thoughts
+
+### 104.【destiel】sleep over
+
+（梗源生活）
+
+invite him over because he said he doesn't have a bed at home, and it's actually only really just a very good night's sleep
+
+### 105.【destiel】Cass is a DW weeping angel
+
+卡中了哭泣天使咒，触碰会让人回溯时间，被注视会无法移动
+
+### 106.【Dean】S07E03 Amy Pond's son
+
+everyone forgets about him but he grows up, takes revenge on Dean years after S15E19
+
+### 107.
