@@ -586,3 +586,17 @@ Alastair念的天使驱逐咒：
 > Lord expel (him),
 >
 > God send (him) back to the Empyrean!
+
+### S11E18
+
+Dean念的召唤路西法的咒语：
+
+> In nomine magni, dei nostri Satanas,
+>
+> introibo ad altare, Domini Inferi.
+
+翻译（自译+谷歌翻译）：
+
+> In the name of the great, our Lord Satan,
+>
+> Enter the altar, Lord of Hell
