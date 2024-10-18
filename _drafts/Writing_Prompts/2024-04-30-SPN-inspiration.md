@@ -938,4 +938,8 @@ invite him over because he said he doesn't have a bed at home, and it's actually
 
 everyone forgets about him but he grows up, takes revenge on Dean years after S15E19
 
-### 107.
+### 107.【destiel】S04E01 plant a Dean in spring, grow a tree in fall
+
+why Cass buried Dean again after pieced his body together: when he's small, Gabe tricked him into believing everything can be saved again after planted, if you plant a Dean in spring (May), you'll grow a tree of Dean in the fall (September)
+
+### 108.
