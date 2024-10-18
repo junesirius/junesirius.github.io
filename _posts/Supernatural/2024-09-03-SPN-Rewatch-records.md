@@ -495,6 +495,8 @@ Henry Winchester施咒时间穿越时的咒语、Abaddon带Crowley儿子Gavin时
 
 （[ref](https://monicawoe.livejournal.com/107878.html)）：“Blood unto blood”
 
+<br>
+
 Henry施咒催眠hunter's magical shop店员：
 
 > BRGDO（bah-rah-gah-doh）
@@ -538,6 +540,34 @@ impala车上上Abaddon刀刻的enochian给Crowley的留言：
 > BEAFRIAD YOURQUEE(N)
 
 翻译（according to Crowley）：“Be afraid, your queen”
+
+### S11E21
+
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/SPN/S11/2024-06-24-SPN-1121-10.jpg)
+
+字符对应：
+
+> BEHOLD THE FACE OF GOD
+
+翻译according to Donatello：“Behold the face of God”
+
+<br>
+
+Metatron松绑Lucifer时尝试的咒语：
+
+> ISRO, MAD SAID（Eeroh, mah-day say-tah）
+>
+> CA TOL MAD TOR(GI)（kah-toh mah-day tay-roh）
+>
+> (GRO)SB TELOCH（sah-boh tay-lah）
+
+翻译（[自译](https://sacred-texts.com/pag/enoch1.txt)，doesn't make much sense）：
+
+> Promise, God wonder
+>
+> therefore with God rise
+>
+> sting death
 
 ## Latin spells (angel-related)
 
