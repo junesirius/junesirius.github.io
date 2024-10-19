@@ -942,4 +942,18 @@ everyone forgets about him but he grows up, takes revenge on Dean years after S1
 
 why Cass buried Dean again after pieced his body together: when he's small, Gabe tricked him into believing everything can be saved again after planted, if you plant a Dean in spring (May), you'll grow a tree of Dean in the fall (September)
 
-### 108.
+### 108.【destiel】what is love
+
+Angel doesn't know what is love.
+
+Is love happiness, how do you know what you like, angels don't have preference, is that something that makes you happy, is love = Endorphin
+
+### 109.【destiel】S11E23 what if God dies, soul bomb works
+
+What if the original plan works out, Chuck dies, Dean triggers the soul bomb and takes Amara, how would the world go from there, Sam is shattered, Cass takes care of Sam, Dean's funeral with Black Sabbath, no ash but put tomb in the place he loved, life carry on
+
+### 110.【destiel】S12E01 Mary talks to Cass about destiel
+
+Mary assumes they're in relationship, mother-son-in-law talk
+
+### 111.
