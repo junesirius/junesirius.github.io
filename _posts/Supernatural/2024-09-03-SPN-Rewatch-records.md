@@ -17,7 +17,7 @@ origin: 个站
 
 Win/Kill Count: 28 (angel), 21 (demon), 2 (archangel), 16 (others)
 
-Lose/Hurt Count: 5 (angel), 3 (demon), 4 (archangel), 3 (others)
+Lose/Hurt Count: 5 (angel), 3 (demon), 4 (archangel), 4 (others)
 
 Death/Near death Count: 2 (Raphael), 1 (Lucifer), 2 (Leviathan), 1 (reaper)
 
@@ -220,6 +220,10 @@ Death/Near death Count: 2 (Raphael), 1 (Lucifer), 2 (Leviathan), 1 (reaper)
 ### S11E02（+2 angel）
 
 （angel）在卡中了疯狗咒向天使祈祷之后拷打折磨他的天使Efrem、Jonah：赢；看见他们暴打Hannah之后爆发用天使刀杀死他们
+
+### S12E01（-1 other）
+
+（human）和Dean一起二打一一个British Men of Letters的女人：输；被刻了字符的铜knuckle徒手揍得吐血，差点被开枪，靠Mary从背后用天使刀捅了解决
 
 ## Mistake/deal/big twist records
 
@@ -561,13 +565,21 @@ Metatron松绑Lucifer时尝试的咒语：
 >
 > (GRO)SB TELOCH（sah-boh tay-lah）
 
-翻译（[自译](https://sacred-texts.com/pag/enoch1.txt)，doesn't make much sense）：
+翻译（[自译](https://sacred-texts.com/pag/enoch1.txt)，doesn't make much sense, can't find proper vocabulary）：
 
-> Promise, God wonder
+> promise, God wonder
 >
 > therefore with God rise
 >
 > sting death
+
+### S12E02
+
+Rowena tried to send Lucifer back to cage (but doesn't work):
+
+> VPAAH FARZM（wah tay, fay roh lah）
+
+翻译（自译, doesn't sound right but the meaning makes sense, think of it as Rowena's accent）：“wings lifted”
 
 ## Latin spells (angel-related)
 
