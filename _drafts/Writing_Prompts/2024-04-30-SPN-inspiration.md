@@ -956,4 +956,10 @@ What if the original plan works out, Chuck dies, Dean triggers the soul bomb and
 
 Mary assumes they're in relationship, mother-son-in-law talk
 
-### 111.
+### 111.【destiel】S11E18 "slapped by a girl wearing a zorro mask"【R级】
+
+Dean: There's times I want to get slapped during sex by a girl wearing a Zorro mask, that doesn't make it a good idea.
+
+maybe totally a good idea Cass can try
+
+### 112.
