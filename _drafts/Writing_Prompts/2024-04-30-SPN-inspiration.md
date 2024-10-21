@@ -962,4 +962,12 @@ Dean: There's times I want to get slapped during sex by a girl wearing a Zorro m
 
 maybe totally a good idea Cass can try
 
-### 112.
+### 112.【Charlie/Dorothy】S09E04+S10E11 Oz（F/F）
+
+How's Charlie's adventurous life with Dorothy in Oz? Crossover with Once Upon a Time?
+
+### 113.【Charlie/Gilda】S08E11 Fairy land（F/F）
+
+What if Charlie follows Gilda to fairy land
+
+### 114.
