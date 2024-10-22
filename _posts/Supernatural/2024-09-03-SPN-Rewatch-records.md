@@ -15,11 +15,11 @@ origin: 个站
 
 ### Summary
 
-Win/Kill Count: 28 (angel), 21 (demon), 2 (archangel), 16 (others)
+Win/Kill Count: 29 (angel), 21 (demon), 2 (archangel), 17 (others)
 
-Lose/Hurt Count: 5 (angel), 3 (demon), 4 (archangel), 4 (others)
+Lose/Hurt Count: 5 (angel), 4 (demon), 5 (archangel), 4 (others)
 
-Death/Near death Count: 2 (Raphael), 1 (Lucifer), 2 (Leviathan), 1 (reaper)
+Death/Near death Count: 2 (Raphael), 2 (Lucifer), 2 (Leviathan), 1 (reaper), 1 (Ramiel)
 
 ### S04E10（-1 demon）
 
@@ -225,6 +225,22 @@ Death/Near death Count: 2 (Raphael), 1 (Lucifer), 2 (Leviathan), 1 (reaper)
 
 （human）和Dean一起二打一一个British Men of Letters的女人：输；被刻了字符的铜knuckle徒手揍得吐血，差点被开枪，靠Mary从背后用天使刀捅了解决
 
+### S12E07（-1 archangel）
+
+（archangel）打附身Vince Vicente的Lucifer跟温双争取时间：输；挨揍，做好被路西法杀死的准备了
+
+### S12E09（+1 other）
+
+（reaper）准备reap温家人的reaper Billie：赢；从背后用天使刀捅死
+
+### S12E10（+1 angel）
+
+（angel）准备杀Lily Sunders的天使Ishim：赢；消耗grace治愈Ishim之后被Ishim暴揍一顿，在Ishim准备杀Lily Sunders的时候从背后用天使刀捅死
+
+### S12E12（-1 demon）
+
+（demon）Prince of Hell, Ramiel：输；被Ramiel用Lance of Michael刺中腹部濒死，幸亏Crowley折断Lance打破魔法救下
+
 ## Mistake/deal/big twist records
 
 ### S02E01
@@ -328,6 +344,16 @@ Sam forces Rowena use the spell from the Book of the Damned to release the Mark 
 ### S11E10
 
 Cass believes Lucifer can beat the Darkness and agrees to be his vessel.
+
+### S12E08
+
+Lucifer possesses Jefferson Rooney (US president), has sex with Kelly Kline, makes her pregnant.
+
+When Winchesters+Castiel+Rowena+Crowley send Lucifer back to Cage together, Crowley alters the spell and sends Lucifer to his old vessel Nick.
+
+### S12E09
+
+Dean+Sam get captured by US Army, make a deal with Billie to get out with a cost of one Winchester die permanently by midnight, bound in blood, consequence on a comic scale. Castiel kills Billie to break the deal.
 
 ## Enochian
 
@@ -489,9 +515,9 @@ Samandriel被Crowley折磨时的胡言乱语：
 
 （[ref](https://monicawoe.livejournal.com/107878.html)）：“Remains guarded by, those who reign, always and forever”
 
-### S08E12、S09E20
+### S08E12、S09E20、S12E13
 
-Henry Winchester施咒时间穿越时的咒语、Abaddon带Crowley儿子Gavin时间穿越时的咒语：
+Henry Winchester施咒时间穿越时的咒语、Abaddon带Crowley儿子Gavin时间穿越时的咒语、Sam施咒把Gavin送回去：
 
 > CNILA PVGO CNILA（kah-nee-lah poo-goh kah-nee-lah）
 
@@ -580,6 +606,26 @@ Rowena tried to send Lucifer back to cage (but doesn't work):
 > VPAAH FARZM（wah tay, fay roh lah）
 
 翻译（自译, doesn't sound right but the meaning makes sense, think of it as Rowena's accent）：“wings lifted”
+
+### S12E08
+
+Rowena send Lucifer back to cage:
+
+> （mah tay, ez loh, say-tah）
+
+翻译（自译）：TBA
+
+### S12E10
+
+Benjamin calls for help before being killed:
+
+> （Oh-law zeer ah tee-loh-kah）
+>
+> （Yar-ree fee-fee-suh, pie neez）
+>
+> （Nuh-nah-ee-luh zee-rum ah-duh-fantuh）
+
+翻译（自译）：TBA
 
 ## Latin spells (angel-related)
 
