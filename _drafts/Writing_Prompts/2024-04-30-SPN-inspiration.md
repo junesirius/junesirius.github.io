@@ -974,4 +974,8 @@ What if Charlie follows Gilda to fairy land
 
 What if Crowley didn't figure it out how to break the spell or too late, Cass died, Dean blamed Mary for the rest of the time, who's gonna take care of Jack, Jack's new father
 
-### 115.
+### 115.【TFW日常】Davie Jones' 
+
+case related to lore, ref: Pirates of Caribbean
+
+### 116.
