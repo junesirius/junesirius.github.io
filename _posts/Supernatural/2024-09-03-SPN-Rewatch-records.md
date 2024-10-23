@@ -611,21 +611,27 @@ Rowena tried to send Lucifer back to cage (but doesn't work):
 
 Rowena send Lucifer back to cage:
 
-> （mah tay, ez loh, say-tah）
+> MAD OLZ, SATAN（mah tay, ez loh, say-tah）
 
-翻译（自译）：TBA
+翻译（自译）："God Almighty, Satan"
 
 ### S12E10
 
 Benjamin calls for help before being killed:
 
-> （Oh-law zeer ah tee-loh-kah）
+> OL ZIR TELOCH（Oh-law zeer ah tee-loh-kah）
 >
-> （Yar-ree fee-fee-suh, pie neez）
+> AFFA NAZPS（Yar-ree fee-fee-suh, pie neez）
 >
-> （Nuh-nah-ee-luh zee-rum ah-duh-fantuh）
+> NA-NA-E-EL ZIRN ADGT（Nuh-nah-ee-luh zee-rum ah-duh-fan-tuh）
 
-翻译（自译）：TBA
+翻译（自译）：
+
+> Of him, I am dying
+>
+> empty sword (vessel)
+>
+> pouring wonders can
 
 ## Latin spells (angel-related)
 
