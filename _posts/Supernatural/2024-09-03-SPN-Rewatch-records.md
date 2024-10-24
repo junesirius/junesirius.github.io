@@ -355,6 +355,10 @@ When Winchesters+Castiel+Rowena+Crowley send Lucifer back to Cage together, Crow
 
 Dean+Sam get captured by US Army, make a deal with Billie to get out with a cost of one Winchester die permanently by midnight, bound in blood, consequence on a comic scale. Castiel kills Billie to break the deal.
 
+### S12E15
+
+Cass is persuaded by an angel Kelvin to go back to Heaven to talk with Joshua, tries to kill Kelly Kline and Jack to earn his way back to Heaven and get angels' forgiveness.
+
 ## Enochian
 
 ### S05E02
