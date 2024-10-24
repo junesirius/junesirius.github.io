@@ -992,5 +992,18 @@ Cass: AI is like angel, or the other way round
 
 Dean: AI is artificial intelligence, you are not artificial
 
-### 
+### 118.【destiel】S12E09 consequence at a cosmic scale
 
+What can it be that is different from 1518, something actually happened
+
+### 119.【destiel】"Karma is a bitch"
+
+Karma is a bitch, as in, like, a real existing bitch.
+
+### 120.【destiel】S06E17 Destiny sisters
+
+Power play in 1518 involves Destiny sisters, also takes a part in the fight against Chuck and learns the free will.
+
+Everyone around Winchesters keep starting to pick up free will and usually to their favor, e.g. Crowley, Rowena, Balthazar, Mick Davies, Charlie, why not add Destiny sisters to the list
+
+### 121.
