@@ -974,8 +974,23 @@ What if Charlie follows Gilda to fairy land
 
 What if Crowley didn't figure it out how to break the spell or too late, Cass died, Dean blamed Mary for the rest of the time, who's gonna take care of Jack, Jack's new father
 
-### 115.【TFW日常】Davie Jones' 
+### 115.【TFW日常】Davie Jones' chest
 
 case related to lore, ref: Pirates of Caribbean
 
-### 116.
+### 116.【destiel】S12E16 What if Claire didn't survive reversion
+
+What if the reversion therapy to transition Claire back to human from werewolf doesn't work, either she remains a werewolf or dies. Cass finds out after he comes back from Heaven, confronts Dean of what he did.
+
+### 117.【destiel】Alexa
+
+modern setting or Cockles or post-1518
+
+destiel add Alexa to bunker, Cass learns new tech (doesn't trust it)
+
+Cass: AI is like angel, or the other way round
+
+Dean: AI is artificial intelligence, you are not artificial
+
+### 
+
