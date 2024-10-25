@@ -1006,4 +1006,30 @@ Power play in 1518 involves Destiny sisters, also takes a part in the fight agai
 
 Everyone around Winchesters keep starting to pick up free will and usually to their favor, e.g. Crowley, Rowena, Balthazar, Mick Davies, Charlie, why not add Destiny sisters to the list
 
-### 121.
+### 121.【destiel】Jellyfish
+
+（来自生活）
+
+doi come的时候卡脱口而出（以诺语？）说的是各种random words，一次是jellyfish，另一次是（）（忘了，另一个词，也是类似组成结构的美丽事物，starlight? starfish? something old and beautiful and bright），丁刨根问底想知道出处是怎么来的
+
+为了找答案假装不经意地去水世界（顺便是案子？）看水母，最后刨出答案是这是ancient and beautiful的事物，算是卡给丁的昵称（丁：感动，但是，jellyfish? seriously?）（又一个卡的otherworldly表现，丁likes it, regardless of complaints）
+
+### 122.【destiel】About apocalypse
+
+Another time when Dean feels guilty about jump started Apocalypse, Cass finds the perfect rebuttal reasoning: just check the Apocalypse world, the Apocalypse will start with or without Dean, but it will not end without him. So stop the self-blame.
+
+### 123.【destiel】human Cass' first Christmas
+
+（源自童年记忆的圣诞礼物）
+
+人类卡的第一次圣诞，丁给卡床脚准备了圣诞礼物，坚称圣诞老人是真的，卡本来很确定圣诞老人不存在，但是丁看起来太认真了他真的有点动摇然后信了
+
+丁：Santa Claus is real only when you're a human
+
+卡：Even if it's true, thought he's only for kid
+
+丁：He can't tell the difference between new (angel-turned) human and kid, both only been human for couple years
+
+哪怕后来卡知道了这是玩笑也仍然最爱这个圣诞礼物（时间线可以从s5开始拉到s9再到s15），非常温暖可爱的回忆
+
+### 124.
