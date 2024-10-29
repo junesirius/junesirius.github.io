@@ -1032,4 +1032,70 @@ Another time when Dean feels guilty about jump started Apocalypse, Cass finds th
 
 哪怕后来卡知道了这是玩笑也仍然最爱这个圣诞礼物（时间线可以从s5开始拉到s9再到s15），非常温暖可爱的回忆
 
-### 124.
+### 124.【destiel】松果
+
+（来自生活）
+
+Cass grows into habit of bringing back a pine cone every time he goes for a walk in the woods (or when walk the dog Miracle). He says because they're beautiful, and smells like oil. Like a squirrel. So cute and adorable Dean can't stand. Dean fake whines and complains but actually it's just too much adorability he doesn't know how to handle. (post-1520)
+
+### 125.【destiel】"Please come pick up your boyfriend"
+
+("Why always me making the call""He's your boyfriend")
+
+Every time Dean is sulky and miserable, Sam prays for Cas to take him away for a while, go somewhere, like humans do to take a walk to take mind off (until Dean starts to find pattern and protests, and the said sulkiness is related to Cas)
+
+(prompt comes when half-way reading "When Charlie met Cas" and/or "Put up your Dukes", or basically any story about Dean being Dean and can't take his head out of his ass and being totally emotionally constipated)
+
+### 126.【destiel】《Dorky or not dorky》
+
+Cas sometimes pretends to be dorky and misunderstands references even if he understands, to make Dean laugh, because he knows he likes it and enjoyes being mocked by him when he looks at him with smile
+
+### 127.【destiel】《A Case at A Time》
+
+"A Case at A Time": could be a AO3 new series name
+
+short stories, dailies, TFW日常，可以按照梗表往下写
+
+句式模仿"one day at a time", "one hour at a time"
+
+### 128.【destiel】5维空间（星际穿越观影体）
+
+TFW watch *Interstellar* (real time: 2014/10/5, after S10E05)
+
+Cas comments on 5D explanation: "5D visualiztion is actually quite accurate, but not what happened in black hole" then talk about physics equations, Sam follows, Dean: "English please", Cas: "Easier if I just show you"
+
+relative prompt: "The feeling of being watched is your dying self look back on your life", in 5D plane Cas accompanies Dean to witness his whole life and all possibilities (Dean: "like a scientific way to explain to me God and destiny is not supernatural"), Cas is there with Dean in every important moment, even and especially the last. Regardless of how Dean dies, in all these scenarios Cas is with him (including the actual one in S15E20)
+
+Real timeline comes to S15E18: Dean painful: "It's not supposed to be like this" he's supposed to die before Cas and not alone, Cas is not supposed to die, Cas post-confess smile: "It only means one thing - I'll come back to you, one way or another, don't lose hope, but for now, goodbye" and then S15E20 Cas does come back and does witness Dean's actual dying moment, and in that moment, revisit his whole life again, and meets the younger themselves in the 5D plane (need前面铺垫) and solves the confusion. The circle completes. The equation is solved. The universe is harmonious. Dean Winchester stops breathing.
+
+(They will reunite in Heaven later, of course. But probably no chance to see the universe from there, the perk only belongs to angel or human when they are on Earth. Don't forget Cas is "multidimensional" celestrial being, has to make use of the "multi-dimensionality" (physics) and the "celestrial-ity" (astronomy).)
+
+### 129.【destiel】Supernatural is not super-natural
+
+Everything is actually - *natural*. Why are they called "supernatural". It's like science and technology are called magic back in history.
+
+(prompt comes half way writing prompt 128) Destiny and possibilities lie within 5D plane, the choices and life trajectory is in different dimension and that is physics, so that is nature. Everything else is actually quite natural. Why is werewolf considered less natural than wolf? Monsters are part of the nature. Maybe the most un-natural super-natural thing is human.
+
+Cas explains theory of evolution? He witnesses the first fish and homo sapiens and Neanderthals, but also Noah's Ark and Tower of Babel, how do those combine together in human history? Winchesters ask questions, Cas answers, like a natural history class.
+
+(include examples when debating with friends: koala, female hyena)(conversation heavy, could be triggered when watching nature channel)
+
+### 130.【destiel】Time is fluid 刀河梗
+
+(prompt from S04E03/S05E13 "Time is fluid", AO3 story "A turn of the earth", DW刀河梗, recent "Agatha All Along"S01E07)
+
+Cas can't control where to land in time stream (a curse?), has to pop in time in reverse order, remember things in reverse order with Dean but still manages to fall in love. Both keeps journal to keep up, always run short in time.
+
+"The First time I meet you is the last time you meet me"
+
+"You'll see me again, but I'll never see you again"
+
+### 131.【destiel】wear a bell【R级?】
+
+Cas keeps randomly popping in and scares them, Dean makes him new rule: can't fly in within X feet (like a block away, a corridor away), has to walk the rest of the way to them like humans do, either that or Cas wearing a bell (Cas rolls his eyes) (but which one he'll choose? bell becomes punishment when he fails the first rule? sexual punishment?)
+
+### 132.【destiel】S13E04 睡觉恐惧
+
+因为在虚无中入睡就代表永远醒不过来，回不到丁身边，所以就算回来了，就算到后来真的需要睡眠（1503-1518之间，or私设1520之后），不管多困多累，卡也不敢睡
+
+### 133.
