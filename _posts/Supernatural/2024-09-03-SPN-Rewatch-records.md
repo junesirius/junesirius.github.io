@@ -17,7 +17,7 @@ origin: 个站
 
 Win/Kill Count: 29 (angel), 22 (demon), 2 (archangel), 17 (others)
 
-Lose/Hurt Count: 7 (angel), 4 (demon), 6 (archangel), 4 (others)
+Lose/Hurt Count: 7 (angel), 5 (demon), 6 (archangel), 4 (others)
 
 Death/Near death Count: 2 (Raphael), 3 (Lucifer), 2 (Leviathan), 1 (reaper), 1 (Ramiel), 1 (Dagon)
 
@@ -249,9 +249,11 @@ Death/Near death Count: 2 (Raphael), 3 (Lucifer), 2 (Leviathan), 1 (reaper), 1 (
 
 （archangel）Lucifer：输；用天使刀捅了Lucifer一刀但是路西没死，路西跟着从天启世界回来，从背后用天使刀捅死了卡西
 
-### S13E07 （-2 angel）
+### S13E07 （-2 angel，-1 demon）
 
 （angel）找天使Dumah想要问失踪的Jack信息结果是天使陷阱，被Dumah和另一个天使一起攻击：输；被Dumah用天使刀架在脖子上威胁，被正好赶到的Lucifer救
+
+（demon）Asmodeus：输；跟路西法一起被Asmodeus打飞关起来
 
 ## Mistake/deal/big twist records
 
@@ -379,13 +381,17 @@ Cass steals Colt from Dean, meant to kill Kelly but ends up deciding to save Jac
 
 Cass is killed by Lucifer, Mary and Lucifer are trapped in Apocalypse World, Jack is born.
 
-### S12E03
+### S13E03
 
 Jack wakes Cass up from Empty.
 
-### S12E05
+### S13E05
 
 Cass is revived again and meets Winchesters and Jack.
+
+### S13E09
+
+Jack goes into Apocalypse World with Kia's help.
 
 ## Enochian
 
