@@ -1098,4 +1098,22 @@ Cas keeps randomly popping in and scares them, Dean makes him new rule: can't fl
 
 因为在虚无中入睡就代表永远醒不过来，回不到丁身边，所以就算回来了，就算到后来真的需要睡眠（1503-1518之间，or私设1520之后），不管多困多累，卡也不敢睡
 
-### 133.
+### 133.【destiel】S13E05 Right in time for funeral
+
+Cass刚从Empty复活，Dean为了鬼魂自杀那个案子没能从Billy地方回来，Cass回到bunker时候正好赶上Dean的葬礼
+
+### 134.【destiel】S13E07 “我也想见你，越快越好”
+
+Cas: “I would like to see you too, the sooner the better”
+
+丁来不及回应，卡的电话就被路西抢走挂断了，卡自己也被抓走了，等到回来以后都以为两个人都忘了，其实丁没忘，等到两个人终于又有时间单独相处的时候丁问起来了，卡脸红，说不定这时候就能戳破窗户纸了，不过有可能丁下意识又会后退否认自己的内心，两个人的感情又要拉扯一会儿才能袒露
+
+### 135.【destiel】S13E12 “I'm in love”
+
+Dean中两个小女巫的爱情魔咒的时候Cass正好刚从Asmodeus地方出来，回到bunker时候看见的是Dean陷入爱情的样子，就认为他对自己的样子不是爱情的样子，更加压抑自己的感情了，说不定也会有点酸？而Dean脱离魔咒之后反而意识到了自己对卡其实就是爱情
+
+### 136.【Claire/Kia】S13E09 Claire日记
+
+Claire的初恋（想给两个姑娘多写点什么）
+
+### 137.
