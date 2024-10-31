@@ -17,7 +17,7 @@ origin: 个站
 
 Win/Kill Count: 29 (angel), 22 (demon), 2 (archangel), 17 (others)
 
-Lose/Hurt Count: 7 (angel), 5 (demon), 6 (archangel), 4 (others)
+Lose/Hurt Count: 7 (angel), 5 (demon), 7 (archangel), 5 (others)
 
 Death/Near death Count: 2 (Raphael), 3 (Lucifer), 2 (Leviathan), 1 (reaper), 1 (Ramiel), 1 (Dagon)
 
@@ -255,6 +255,14 @@ Death/Near death Count: 2 (Raphael), 3 (Lucifer), 2 (Leviathan), 1 (reaper), 1 (
 
 （demon）Asmodeus：输；跟路西法一起被Asmodeus打飞关起来
 
+### S13E13（-1 archangel）
+
+（archangel）刚吸了Anael一部分grace的Lucifer：输；被Lucifer一用力打飞出去，凯奇及时赶到扔炸弹让Lucifer不得不飞走
+
+### S13E14（-1 other）
+
+（other）古迦南石头人：输；拿着天使之刃对打，打不过，被扔出去摔在地上差点正面当胸一刀，Dean及时打完他应对的那个之后从背后捅了一刀杀死
+
 ## Mistake/deal/big twist records
 
 ### S02E01
@@ -391,7 +399,11 @@ Cass is revived again and meets Winchesters and Jack.
 
 ### S13E09
 
-Jack goes into Apocalypse World with Kia's help.
+Dean threatens Kia with a gun to force her to help them. Jack goes into Apocalypse World with Kia's help.
+
+### S13E14
+
+Donatello is corrupted by the Demon Tablet because of no soul, Cass forces information out of his brain and makes him brain dead.
 
 ## Enochian
 
@@ -678,6 +690,22 @@ Apocalypse world Kevin Tran uses spell to open gate between worlds:
 > （Mah ray, fay doh, em lah）
 >
 > （kah day, em lah）
+
+翻译（自译）：TBA
+
+### S13E14
+
+Cass念以诺语咒语召唤两个古迦南石头人：
+
+> （Zoh nah ray nah rah jah）
+>
+> （Koh rax oh）
+>
+> （ee zee zoh pah）
+>
+> （ma ah）
+>
+> （ee vee gee）
 
 翻译（自译）：TBA
 
