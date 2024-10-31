@@ -804,7 +804,7 @@ Dean teach Cass how to ride a bike.
 
 ### 98.【destiel】S11E13 deepest darkest desire
 
-Cass killed Dean in order to pass the curse to himself, his desire shows up as Dean and almost kills him, real Dean saves him
+Cass kissed Dean in order to pass the curse to himself, his desire shows up as Dean and almost kills him, real Dean saves him
 
 ### 99.【destiel】S11E11-23 Cass inside his brain
 
@@ -1116,4 +1116,16 @@ Dean中两个小女巫的爱情魔咒的时候Cass正好刚从Asmodeus地方出�
 
 Claire的初恋（想给两个姑娘多写点什么）
 
-### 137.
+### 137.【destiel】S13E15 What if someone steals impala
+
+Sam: What will you do if someone steals impala
+
+Dean: Murder. Torture, make them suffer, then murder
+
+Cas (for some reason) steals impala. What does Dean really do.
+
+### 138.【destiel】S04E14 Cass' Siren becomes Dean
+
+First time Cass ever confess and kiss Dean, but it's Siren and wanted him to kill Sam
+
+### 139.
