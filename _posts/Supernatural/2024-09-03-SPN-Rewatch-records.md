@@ -709,6 +709,22 @@ Cass念以诺语咒语召唤两个古迦南石头人：
 
 翻译（自译）：TBA
 
+### S13E17
+
+MOL1925年召唤异世界神Yokoth（拉丁语？）：
+
+> Insanidox Koth Munto
+
+Sam开天启世界门：
+
+> Koth Munto Notox
+
+### S13E18
+
+Gabriel写了满墙的以诺语讲过去十年是怎么过来的，不确定是否真的有意义或者能读，注意阅读方向，中间一面墙可能是竖着读的，两边两面墙是横读。
+
+（图TBA）
+
 ## Latin spells (angel-related)
 
 ### S04E10
