@@ -1128,4 +1128,14 @@ Cas (for some reason) steals impala. What does Dean really do.
 
 First time Cass ever confess and kiss Dean, but it's Siren and wanted him to kill Sam
 
-### 139.
+### 139.【destiel】S13E18 what if Dean didn't come back after 24h
+
+Sam&Cass go on rescue mission, Dean continues looking for Mom, maybe encounters Michael and/or Jack
+
+### 140.【destiel】S13E18 why Cass didn't go to Apocalypse world after Dean
+
+Cass knows Dean is in Apocalyase world and rift is still open, why he stays behind for Gabe instead of going there after Dean.
+
+Dean accuses him choosing angel over him afterwards, could be a big fight and/or cold war again.
+
+### 141.
