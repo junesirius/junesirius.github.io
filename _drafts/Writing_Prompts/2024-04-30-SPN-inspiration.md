@@ -450,7 +450,7 @@ Dean的“you're dead to me”，可以真正地杀死Cass。
 
 （灵感部分参考柠檬的《幻痛》和五觉）
 
-### 50.【destiel】1518 coda/fix-it《The Empty》
+### 50.【destiel】1518 coda/fix-it《The Empty》【in progress 3】
 
 丁后悔，疯狂努力要救回卡
 
@@ -650,7 +650,7 @@ Emmanuel (amnesia Cass) can hear longing/prayer but doesn't know what it is unti
 
 (old reddit prompt about someone who thinks they're just imagining the voice until one day they hear "turn around" and see the other person)
 
-### 70.【destiel】When the first pie is made【in progress】
+### 70.【destiel】When the first pie is made【in progress 1】
 
 《Best creation ever》
 
@@ -720,7 +720,7 @@ Where does that leave Dean? All alone, losing Sam and Cass at the same time. Lis
 
 What if April is really just a sweet little girl, not a reaper, and Cass didn't take protection: child-raising story for mortal Cass?
 
-### 81.【Dean/impala】S11E04 impala is a lady
+### 81.【Dean/impala】S11E04 impala is a lady【in progress 2】
 
 impala becomes a real lady (=Tardis becomes a girl, DW S06E04)
 
@@ -1138,4 +1138,12 @@ Cass knows Dean is in Apocalyase world and rift is still open, why he stays behi
 
 Dean accuses him choosing angel over him afterwards, could be a big fight and/or cold war again.
 
-### 141.
+### 141.【destiel】梦境=Matrix梗
+
+（梗改编自2024-08-16梦记）
+
+醒来=退出，类似Matrix，只有出来的人是得救的，温双一直不肯下线所以一直被困在里面，卡下线出来了以后才意识到活着的人才是被困在那个世界里的，想尽办法要给Matrix里的传消息想让温双出来，所以表现得好像是想用各种方法杀他们。自我牺牲的部分可能是因为外面世界有危险不得不主动下线但是又因为Matrix规则里可能有不能直接自杀的限制，只能用牺牲来代替自杀实现目的。
+
+（可以把开局的卡写得好像反派，到后面揭晓反转）
+
+### 142.
