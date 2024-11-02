@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【Destiel】Angelic Black Death
-date: 2024-11-01
+date: 2024-11-01 01:51
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
 tags: ["Supernatural", "destiel", "英文"]
@@ -9,7 +9,7 @@ pov: 第三人称
 origin: AO3
 ---
 
-(Note: post-S11 pre-S12 timeline, minus British Men of Letters and Mary)
+(Note: post-S11 pre-S12 timeline, minus British Men of Letters and Mary. It starts as a one-shot idea, but then get stretched up -- it stretched itself up to full length -- and now becomes practically a S12 rewrite.)
 
 <br>
 
@@ -181,3 +181,42 @@ Sam studies them both. Like how things have always been between them.
 
 "Nothing we don't have in the bunker." Cass heads towards one of the stock room by the library, Sam and Dean follow him closely.
 
+<br>
+
+(Draft:
+
+Dean: We don't know jack about the angel biology, how are we gonna play doctor?
+
+Sam: How about we stick to the basics, work with what we know, do the research, just like it's just another case?
+
+Dean: A case, fan-freaking-tastic. Do you remember our job used to be beheading vampires? Not babysitting or feeding them with soup when they get sick? (hold a hand) Don't give me the look, tell me you don't think angels are just monsters with good PR.
+
+Sam (sighs): I don't like them more than you do, I mean, obviously except Cass. But that doesn't mean I want them all dead, who knows what will happen if Heaven runs out of angels. I'd rather help them out once, instead of dealing with billions of spirits in vail if Heaven is on lock down. So yeah, I'm fine with this. And maybe, if they own us one, next time they show up, we won't have to kill each other.
+
+Dean (grumble): I'd hope they never show up again. But ok, points taken. Where do we start?
+
+Sam: Start with what we know, about Cass.
+
+Dean (frown): First of all, he's probably the least typical of an angel by now, with all the resurrection -- not that I complain -- and hanging around on earth with us all this time. And B, what are you gonna do about him? Anatomy? He's not a guinea pig for you to learn biology in college class. He's Cass.
+
+Sam (roll eyes): I know that, of course I know. I just mean, research. (gesture to books) So will you just shut up and start reading, please?
+
+Dean: Super. I'll grab some beer first.
+
+<br>
+
+Dean (growl): You know this is gonna kill you and you did it anyway?
+
+Cass (weakly): No. (stare) Yes? Maybe? I don't know how bad it will be, alright? I just saw there might be a shot and I took it.
+
+Dean (worried, annoyed): Ok new rule, from now on, every time you need to make a move, tell us everything you know, capiche? Man, we should have this rule like forever ago.
+
+Cass (widened eyes, grumble): I capiche.
+
+Dean: Good, now back to square one.
+
+<br>
+
+Sam: I find something! Hmm, maybe.
+
+Dean: Aren't you a scholarship boy. What do we have?
