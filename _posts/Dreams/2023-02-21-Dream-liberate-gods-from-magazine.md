@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【梦记】翻杂志解放神明（还可以）
+title: 【梦记】翻杂志解放神明（还可以，可以改编）
 date: 2023-02-21 04:44
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "普通故事"]
+tags: ["梦记", "普通故事", "改编"]
 pov: 第一人称视角
 origin: 个站
 ---

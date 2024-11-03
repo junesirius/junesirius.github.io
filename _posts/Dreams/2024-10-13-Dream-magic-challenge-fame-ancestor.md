@@ -4,7 +4,7 @@ title: 【梦记】魔法挑战，名门望族（好故事，喜欢）
 date: 2024-10-13 10:55
 categories: ["梦记"]
 characters: ["Charlie Bradbury", "Kate"]
-tags: ["梦记", "HP", "原神", "开车", "失控感", "Supernatural", "好故事"]
+tags: ["梦记", "HP", "原神", "开车", "失控感", "Supernatural", "好故事", "通关"]
 pov: 第一人称视角
 origin: 个站
 ---

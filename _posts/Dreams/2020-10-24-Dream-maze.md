@@ -4,7 +4,7 @@ title: 【梦记】迷宫
 date: 2020-10-24
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "迷宫", "血"]
+tags: ["梦记", "迷宫", "血", "通关"]
 pov: 第一人称视角
 origin: 个站
 ---

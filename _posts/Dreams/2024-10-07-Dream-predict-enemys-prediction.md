@@ -3,7 +3,7 @@ layout: post
 title: 【梦记】预判敌人的预判（碎片）
 date: 2024-10-07 07:48
 categories: ["梦记"]
-characters: 
+characters: ["Sister Sage"]
 tags: ["梦记", "The Boys", "碎片"]
 pov: 第一人称视角
 origin: 个站

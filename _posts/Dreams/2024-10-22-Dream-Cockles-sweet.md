@@ -4,7 +4,7 @@ title: 【梦记】詹莎（很甜很可爱）
 date: 2024-10-22 06:30
 categories: ["梦记"]
 characters: ["Jensen Ackles", "Misha Collins", "Lyra"]
-tags: ["梦记", "Cockles", "RPS", "Supernatural", "西班牙", "好故事", "数学"]
+tags: ["梦记", "Cockles", "RPS", "Supernatural", "西班牙", "好故事", "数学", "解谜"]
 pov: 第一人称视角
 origin: 个站
 ---
