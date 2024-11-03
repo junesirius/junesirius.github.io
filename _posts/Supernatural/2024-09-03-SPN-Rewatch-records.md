@@ -15,9 +15,9 @@ origin: 个站
 
 ### Summary
 
-Win/Kill Count: 29 (angel), 22 (demon), 2 (archangel), 17 (others)
+Win/Kill Count: 30 (angel), 22 (demon), 2 (archangel), 18 (others)
 
-Lose/Hurt Count: 7 (angel), 5 (demon), 7 (archangel), 5 (others)
+Lose/Hurt Count: 7 (angel), 6 (demon), 7 (archangel), 5 (others)
 
 Death/Near death Count: 2 (Raphael), 3 (Lucifer), 2 (Leviathan), 1 (reaper), 1 (Ramiel), 1 (Dagon)
 
@@ -263,6 +263,18 @@ Death/Near death Count: 2 (Raphael), 3 (Lucifer), 2 (Leviathan), 1 (reaper), 1 (
 
 （other）古迦南石头人：输；拿着天使之刃对打，打不过，被扔出去摔在地上差点正面当胸一刀，Dean及时打完他应对的那个之后从背后捅了一刀杀死
 
+### S13E22（+1 angel）
+
+（angel）天启世界的自己：赢；正面用天使刀当胸捅死
+
+### S13E23（+1 other）
+
+（vampire）一只路人吸血鬼：赢；caught him off-guard，正面用天使刀捅死
+
+### S14E01（-1/7 demon）
+
+（demon）被7+恶魔围殴：输；肉搏打不过，被围殴抓住捆起来了
+
 ## Mistake/deal/big twist records
 
 ### S02E01
@@ -404,6 +416,10 @@ Dean threatens Kia with a gun to force her to help them. Jack goes into Apocalyp
 ### S13E14
 
 Donatello is corrupted by the Demon Tablet because of no soul, Cass forces information out of his brain and makes him brain dead.
+
+### S13E23
+
+Apocalypse World Michael and Lucifer come through to this world. Michael wants world end, Jack beats him, Lucifer steals Jack's grace and takes Jack and Sam away and ready to end the world. Dean says yes to Michael, kills Lucifer, gets double-crossed and fully possessed by Michael.
 
 ## Enochian
 
