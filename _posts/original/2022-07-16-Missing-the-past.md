@@ -4,7 +4,7 @@ title: 【情感】拥有一切的瞬间
 date: 2022-07-16 00:09
 categories: ["原创"]
 characters: ["Lyra"]
-tags: ["回忆", "记忆", "情感"]
+tags: ["回忆", "情感"]
 pov: 第一人称视角
 origin: Lofter
 ---

@@ -4,7 +4,7 @@ title: 【回忆】莲子汤
 date: 2023-09-20 23:35
 categories: ["原创"]
 characters: 
-tags: ["随记", "回忆", "记忆"]
+tags: ["随记", "回忆"]
 pov: 第一人称
 origin: Lofter
 ---

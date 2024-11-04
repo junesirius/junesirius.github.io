@@ -4,7 +4,7 @@ title: 【练笔】我记得（VO《房东先生》素材）
 date: 2023-11-05 16:32
 categories: ["原创"]
 characters: 
-tags: ["练笔", "回忆", "记忆", "洛杉矶"]
+tags: ["练笔", "回忆", "洛杉矶"]
 pov: 第一人称
 origin: 个站
 ---
