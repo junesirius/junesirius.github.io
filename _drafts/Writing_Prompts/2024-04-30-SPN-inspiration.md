@@ -262,7 +262,7 @@ Cass逃避争执不知道能做什么的时候就用游戏来平静自己内心�
 
 （see more in S07E21-23观后感）
 
-### 29.【destiel】S08E02 炼狱的时间流速
+### 29.【destiel】S08E02 炼狱的时间流速【in progress 4】
 
 在看见Dean说“Nice peach fuzz”的时候突然有了个脑洞，在想之前从来没在天使身上看见过这样明显的时间流逝痕迹，总是well-shaved、发型着装总是同一个模样。于是忍不住想，这络腮胡的出现，是否说明炼狱里时间终于开始在天使身上流逝？如果胡须毛发开始生长，那么身体的其他部分也一定正在出现自然的生理变化，而对这具人类身体来说，出现生理变化就意味着衰老，意味着向死亡进发。所以或许炼狱对天使来说，最可怕的地方不是怪物，是时间开始流动？而如果增加一个设定说这样的时间流逝带来的变化是不可逆的，那么很快就会出现一个衰老梗了。Dean在炼狱显然没有遭遇同样速度的时间流动（胡子没有长那么长就是一个证据），所以炼狱的不同位置或者对不同物种的流逝速度是不同的？对天使这样的永生生物，它的流速反而极快，于是哪怕永生也很快就要看见末尾了。想象Dean在重新遇到Cass的时候Cass已经垂垂老矣，Dean不知道这只是vessel的衰老还是天使确实就这样极速衰老了，就像《孤独的心》里的贝拉，就像S05E07男巫那一集本杰明巴顿AU的Dean，就像圣诞小镇的小十一或者被法师诅咒了衰老的小十（突然这才意识到DW对衰老梗好像非常情有独钟）。他们朝出口走，走得越近，Cass身上的衰老速度也越快。炼狱试图用时间为代价阻止天使出去，而这奏效了。等到他们离出口足够近了，Cass也虚弱衰亡到再无法前进一步的程度了。“你们走，不要管我了。”他会说。Dean会暴怒地拒绝，想要把他背起来抱起来或者拖着也要带他走出炼狱。但衰老带来的死亡已经追上了天使，Dean听见薄如蝉翼的皮肤下面衰朽的骨骼的吱嘎声，他的面前只有一个老人，不再有他的天使Cass。再然后，连这个老人也没有了，他扑簌地碎去，变成光的粉末，再变成上升的烟雾。Dean的面前空无一人，好像Cass从来没有在那里过。
 
@@ -1154,8 +1154,22 @@ Sam在天启世界短暂死亡期间，在被吸血鬼杀死之后、被路西�
 
 天启世界黑卡仍然用的是Jimmy的皮囊，这个版本的卡是torture高手（主世界其实也是？），是怎么让Jimmy同意的？这个版本没经历过422所以Jimmy有没有死？黑卡被杀之前让Jimmy上身的话主世界卡是不是就会犹豫不杀他因为愧疚，所以自己陷入危险？
 
-### 144.【destiel】《Bunker never has angel warding》
+### 144.【destiel】S13E23《Bunker never has angel warding》
 
-（某个时间点，天使还是大威胁的时候）Sam想要给bunker加angel warding，Dean坚决不同意，说bunker也是卡的家，已经把卡赶出去过一次不能再这么干一次了，两个人争吵，卡其实在墙角听见了。卡再出现在bunker的时候表现虚弱，Dean问怎么了卡不肯说，其实偷偷在bunker画warding了，一边画一边擦嘴角血，被Dean抓住了一次，强制擦掉他正在画的那个，把卡抱出bunker，问他为什么这么干。卡在外面休息恢复，答不能因为他让他们陷入危险，bunker是地球上最安全的地方，是他们的家，Dean：也是你的家。
+（某个时间点，天使/路西/Naomi/Metatron/Michael还是大威胁的时候）Sam想要给bunker加angel warding，Dean坚决不同意，说bunker也是卡的家，已经把卡赶出去过一次不能再这么干一次了，两个人争吵，卡其实在墙角听见了。卡再出现在bunker的时候表现虚弱，Dean问怎么了卡不肯说，其实偷偷在bunker画warding了，一边画一边擦嘴角血，被Dean抓住了一次，强制擦掉他正在画的那个，把卡抱出bunker，问他为什么这么干。卡在外面休息恢复，答不能因为他让他们陷入危险，bunker是地球上最安全的地方，是他们的家，Dean：也是你的家。
 
-### 145.
+（看到S13E23路西米迦自由进出bunker想到）
+
+### 145.【destiel/TFW】魂穿二代TFW同名三个小孩子
+
+Sam&Cass are brothers and Garth's kids, Dean is real Sam's kid, all three stuck in kids' bodies, probably because three kids get together in the future and messed up with some magic in some cases, the three of them (from past) have to figure out the situation, pretend to be the kids, while still being themselves
+
+Dean & Cass still have the same mutual pining feelings
+
+Dean: How come Sam is still the one with a big brother?
+
+and Cass' turn to be in a family
+
+(kid fic, fluffy?)
+
+### 146.
