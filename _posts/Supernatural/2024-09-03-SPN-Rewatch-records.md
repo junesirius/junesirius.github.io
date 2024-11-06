@@ -419,7 +419,11 @@ Donatello is corrupted by the Demon Tablet because of no soul, Cass forces infor
 
 ### S13E23
 
-Apocalypse World Michael and Lucifer come through to this world. Michael wants world end, Jack beats him, Lucifer steals Jack's grace and takes Jack and Sam away and ready to end the world. Dean says yes to Michael, kills Lucifer, gets double-crossed and fully possessed by Michael.
+Apocalypse World Michael and Lucifer come through to this world. Michael wants world end, Jack beats him, Lucifer steals Jack's grace (which makes him dying as human) and takes Jack and Sam away and ready to end the world. Dean says yes to Michael, kills Lucifer, gets double-crossed and fully possessed by Michael.
+
+### S14E08
+
+Cass makes deal with the Shadow to save Jack.
 
 ## Enochian
 
@@ -629,7 +633,7 @@ Gadreel附身的Sam被Crowley用针钻Sam大脑时逼出来的话：
 
 ### S09E17
 
-impala车上上Abaddon刀刻的enochian给Crowley的留言：
+impala车身上Abaddon刀刻的enochian给Crowley的留言：
 
 （配图TBA）
 
@@ -740,6 +744,32 @@ Sam开天启世界门：
 Gabriel写了满墙的以诺语讲过去十年是怎么过来的，不确定是否真的有意义或者能读，注意阅读方向，中间一面墙可能是竖着读的，两边两面墙是横读。
 
 （图TBA）
+
+### S14E08
+
+Lily Sunders念咒语复活Jack：
+
+> （oh-doh oh oh-zah-zuhm-ah）
+>
+> （oh-ee, ah-oh-ee-vee）
+>
+> （...oh oh, oh-doh...）
+
+翻译（自译）：TBA
+
+Jack念的咒语燃烧灵魂变成grace：
+
+> （oh, koh-nuh-ga-ma fuh-luh-guh）
+>
+> （ah-oh-ee-vee-ah-ee）
+>
+> （ee-duh-luh-vah）
+>
+> （oh-ee-vee-ah-ee）
+>
+> （ee-duh-luh-vah-juh-ah-um kah-dah）
+
+翻译（自译）：TBA
 
 ## Latin spells (angel-related)
 
