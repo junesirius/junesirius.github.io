@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【梦记】丁卡互相保护自愿牺牲（喜欢，可以改编）
-date: 2024-08-16 06:42
+date: 2024-08-16 09:42
 categories: ["梦记"]
 characters: ["Castiel", "Dean Winchester"]
 tags: ["梦记", "Supernatural", "destiel", "碎片", "好故事", "改编", "自我牺牲", "西班牙语"]
