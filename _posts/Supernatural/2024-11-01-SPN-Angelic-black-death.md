@@ -11,7 +11,7 @@ origin: AO3
 
 (Note: post-S11 pre-S12 timeline, minus British Men of Letters and Mary. It starts as a one-shot idea, but then get stretched up -- it stretched itself up to full length -- and now becomes practically a S12 rewrite.)
 
-(TODO: separate into chapters, one chapter: "Rock Never Dies")
+(TODO: separate into chapters?)
 
 <br>
 
@@ -537,15 +537,15 @@ The next book talks about perceived hierarchy and social structure of Heaven and
 
 The next is about angelic occupational division, followed by experimentations with angel feathers, and then more. Okay Dean decides to take his words back, it stops feeling entertaining long ago, now he'd rather go out punch something. The only thing that keeps him continue scrambling the pages is the thought that he might learn more about bits and pieces about angels -- about Cass -- that might come handy later down the road.
 
-By the time he clears out all the books piled on his left side, Dean can barely recognize the word "angel" again. So in his brain, the meaning of the word becomes equal to, "Cass".
+By the time he clears out all the books piled on his left side, Dean can barely recognize the word "angel". In his brain, the meaning of that word gets auto-translated to, "Cass".
 
-Right around the time when Dean wonders if he can sneak out of the room without the rest two of them noticing, Sam shouts out his eureka: "I find something! Hmm, maybe. I think."
+Right around the time when Dean wonders if he can sneak out of the room without the rest two of them noticing, Sam shouts out his eureka, "I find something! Hmm, maybe. I think."
 
-"Aren't you a scholarship boy." Dean appreciatedly lays down the book that might has more than a thousand pages and gets up, "What do you get?"
+"Aren't you a scholarship boy." Dean appreciatedly lays down the book that might has more than a thousand pages and gets up quickly, "What do you get?"
 
-Dean and Cass gathers around him, each taking half the handle of the chair.
+Dean and Cass gathers around him, each taking a side of the chair and sitting on the armrest.
 
-Sam fingers the line he's reading. It's in Enochian. Apparently Sam learns to read Enochian secretly and Dean is the only one blinking blankly.
+Sam fingers the line he's reading. It's in Enochian. Apparently Sam learns to read Enochian some time secretly and Dean is the only one in the room blinking blankly right now.
 
 Cass translates for them, "You can't have shadow without light. The purest of all light can purify darkness."
 
@@ -555,9 +555,9 @@ Dean leans closer, "'Darkness cannot drive out darkness, only light can do that.
 
 Sam answers, "Martin Luther King Jr., the guy is a genius."
 
-"And that's connected to our problem how?" Dean frowns, "Please don't tell me it's the Darkness problem again."
+"And that's connected to our problem how?" Dean frowns, "Please don't tell me it's the Darkness problem again." Flash memory of Amara appears in front of him again, he moves his feet uneasily.
 
-"Sort of. I think." Sam explains, "I have a theory, what if, this angel black death is actually a leftover symptom from getting too close to the Darkness? Angels' true forms are like lights, right? Light gets covered by the darkness, so with the opposite of the light, the lack of light in their system, they can't recover the light, so they're dying. It sort of makes sense."
+"Sort of. I think." Sam explains, "I have a theory, what if, this angel black death is actually a leftover symptom from getting too close to the Darkness? Angels' true forms are like lights, right? Light gets covered by the darkness, so with the opposite of the light, the lack of light, in their system, they can't recover, so they're dying. It sort of makes sense."
 
 "And the cure is more light?" Dean manages to catch up.
 
@@ -575,23 +575,29 @@ And Dean goes, "Ca -- Chuck."
 
 They look at each other, swallow at the names.
 
-Sam breaks the silence first, "Chuck is out of reach, so that leaves exactly two options. And we just need them to, hmm --" he reads the small texts below the Enochian line, his brow raised high, "-- give away their light willingly. The cost of purification will take away all the light from the source. And only a determined mind can last enough to not interrupt the purification process."
+Sam breaks the silence first, "Chuck is out of reach, so that leaves exactly two options. And we just need them to, hmm --" he reads the small texts below the Enochian line, his brow raised high, "-- give away their light willingly. The cost of purification will take away all the light from the source. And only a determined mind can last long enough to not interrupt the purification process."
 
-Cass adds thoughtfully, "We might actually need both of them. The infection comes from Amara, we would have needed Chuck in this. Now that we can only get archangels, one doesn't seem enough."
+Cass adds thoughtfully, "We might actually need both of them. The infection comes from Amara, we would have needed Chuck to cure this. Now that we can only get archangels, one doesn't seem quite enough."
 
 Dean steps back slowly to lean on the table. "Wait so, let me get this straight, the solution is to let Michael *and* Lucifer to what, willingly sacrifice themselves to save all angels and humans? Yeah not happening."
 
-Sam thinks about it for a second, "I don't know, we get Chuck and Lucifer work together once, and then Chuck and Amara. That makes two archangels seem easier."
+Sam thinks about it for a second, "I don't know, I mean, we get God and Devil work together once, and then God and Darkness. That makes two archangels seem easier."
 
 "We might as well put up a sign in front of the bunker: 'Celestial family drama counseling office', subtitle: 'For free once a year, if doesn't work, feel free to end the world'. Nice plan, Dr. Phil." Dean waves his hands in the air, gesturing the imaginary signs.
 
 "You get a better one?" Sam raises his brows.
 
-Dean stammers, looking at Cass for support, and in return the angel only gestures to Sam, very clearly saying "you know Sam is right" without actually saying it.
+Dean stammers, looking at Cass for support, and in return the angel only gestures to Sam, very clearly saying "You know Sam is right" without actually saying it.
 
-Dean sighs annoyedly, "When can we get out of this we'll-end-the-world-or-the-world-will-end crap? That's not in the job description!"
+Dean sighs annoyedly, "When can we get out of this we'll-end-the-world-or-the-world-will-end crap? Shit just never stop hitting fans!"
 
-Sam chucks shortly, "Crappy career coach, huh?"
+Cass gives him a upset smile.
+
+And Sam sighs a soft "Yeah".
+
+<br>
+
+### Chapter X: "Rock Never Dies"
 
 <br>
 
