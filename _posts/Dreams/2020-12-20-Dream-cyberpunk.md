@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【梦记】赛博朋克
+title: 【梦记】赛博朋克（好故事）
 date: 2020-12-20
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "血"]
+tags: ["梦记", "血", "好故事"]
 pov: 第一人称视角
 origin: 个站
 ---

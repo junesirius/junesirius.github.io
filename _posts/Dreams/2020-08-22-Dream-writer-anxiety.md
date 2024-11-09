@@ -4,7 +4,7 @@ title: 【梦记】写作焦虑
 date: 2020-08-22
 categories: ["梦记"]
 characters: 
-tags: ["梦记"]
+tags: ["梦记", "焦虑", "写作", "dreamwalk"]
 pov: 第一人称视角
 origin: 个站
 ---

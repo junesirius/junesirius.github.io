@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【梦记】庭审和连环杀手
+title: 【梦记】庭审和连环杀手（适合改编）
 date: 2022-02-05 12:02
 categories: ["梦记"]
 characters: ["Claire Temple"]
-tags: ["梦记", "普通故事", "改编"]
+tags: ["梦记", "好故事", "改编"]
 pov: 第一人称视角
 origin: 个站
 ---

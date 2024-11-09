@@ -4,7 +4,7 @@ title: 【梦记】沙地解谜游戏（好故事）
 date: 2024-10-05 15:03
 categories: ["梦记"]
 characters: ["Sana Bakkoush", "芙宁娜", "那维莱特", "钟离", "神里绫华"]
-tags: ["梦记", "解谜", "原神", "Skam", "羞耻", "好故事", "通关"]
+tags: ["梦记", "解谜", "原神", "Skam", "羞耻", "好故事", "通关", "dreamwalk"]
 pov: 第一人称视角
 origin: 个站
 ---

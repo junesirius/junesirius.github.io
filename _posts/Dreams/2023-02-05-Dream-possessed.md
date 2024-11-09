@@ -4,7 +4,7 @@ title: 【梦记】被附身（还不错）
 date: 2023-02-05 12:38
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "触感", "普通故事"]
+tags: ["梦记", "触感", "普通故事", "dreamwalk"]
 pov: 第一人称视角
 origin: 个站
 ---

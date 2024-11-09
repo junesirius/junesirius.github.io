@@ -4,7 +4,7 @@ title: 【梦记】“朋友”等于“我爱你”
 date: 2021-06-15 12:36
 categories: ["梦记"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]
-tags: ["梦记", "VO", "好故事", "血"]
+tags: ["梦记", "VO", "好故事", "血", "dreamwalk"]
 pov: 第一人称视角
 origin: 个站
 ---

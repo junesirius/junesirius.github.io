@@ -4,7 +4,7 @@ title: 【梦记】求合影，爆炸（还可以）
 date: 2023-10-12 06:30
 categories: ["梦记"]
 characters: ["Sabine Wren", "Shin Hati"]
-tags: ["梦记", "阿索卡", "星球大战", "漫展", "爆炸", "火", "逃亡", "普通故事"]
+tags: ["梦记", "阿索卡", "星球大战", "漫展", "爆炸", "火", "逃亡", "普通故事", "dreamwalk"]
 pov: 第一人称视角
 origin: 个站
 ---

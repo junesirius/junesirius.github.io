@@ -4,7 +4,7 @@ title: 【梦记】拯救大提提（喜欢）
 date: 2024-01-26 07:10
 categories: ["梦记"]
 characters: ["David Tennant", "Shirley Anne Bingham"]
-tags: ["梦记", "原神", "神秘博士", "爆炸", "拯救", "好故事"]
+tags: ["梦记", "原神", "神秘博士", "爆炸", "拯救", "好故事", "dreamwalk"]
 pov: 第一人称视角
 origin: 个站
 ---

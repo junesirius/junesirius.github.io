@@ -4,7 +4,7 @@ title: 【梦记】保护豚鼠
 date: 2019-03-16
 categories: ["梦记"]
 characters: ["Lyra"]
-tags: ["梦记"]
+tags: ["梦记", "愤怒", "平权"]
 pov: 第一人称视角
 origin: 个站
 ---

@@ -4,7 +4,7 @@ title: 【梦记】关于死亡
 date: 2021-01-22 11:30
 categories: ["梦记"]
 characters: ["Colin Farrell"]
-tags: ["梦记", "死亡"]
+tags: ["梦记", "死亡", "dreamwalk", "普通故事"]
 pov: 第一人称视角
 origin: Lofter
 ---

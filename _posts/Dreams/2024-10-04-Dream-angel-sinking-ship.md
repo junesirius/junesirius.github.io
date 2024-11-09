@@ -4,7 +4,7 @@ title: 【梦记】天使和将沉的渡轮（还不错）
 date: 2024-10-04 06:18
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "Supernatural", "普通故事", "碎片", "水"]
+tags: ["梦记", "Supernatural", "普通故事", "碎片", "水", "dreamwalk"]
 pov: 第一人称视角
 origin: 个站
 ---

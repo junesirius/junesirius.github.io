@@ -4,7 +4,7 @@ title: 【梦记】I'm losing control
 date: 2021-06-26 08:40
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "精分", "失控感", "恐慌", "好故事"]
+tags: ["梦记", "精分", "失控感", "恐慌", "好故事", "梦中梦", "dreamwalk"]
 pov: 第一人称视角
 origin: 个站
 ---

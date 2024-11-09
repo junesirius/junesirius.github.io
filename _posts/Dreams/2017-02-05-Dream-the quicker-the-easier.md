@@ -4,7 +4,7 @@ title: 【梦记】The quicker, the easier
 date: 2017-02-05
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "哲理", "好故事", "水", "速度恐惧"]
+tags: ["梦记", "哲理", "好故事", "水", "速度恐惧", "dreamwalk"]
 pov: 第一人称视角
 origin: 微信公众号
 ---

@@ -4,7 +4,7 @@ title: 【梦记】英雄挑战赛（超级精彩）
 date: 2024-11-02 13:01
 categories: ["梦记"]
 characters: ["死神", "Death", "Dean Winchester", "Castiel", "Sister Sage", "Lyra", "Jimmy Novak"]
-tags: ["梦记", "通关", "解谜", "死亡", "女巫阿加莎", "好故事", "destiel", "Supernatural", "记忆", "亲密关系", "原神", "迷宫", "心结"]
+tags: ["梦记", "通关", "解谜", "死亡", "女巫阿加莎", "好故事", "destiel", "Supernatural", "记忆", "亲密关系", "原神", "迷宫", "心结", "dreamwalk"]
 pov: 第一人称视角
 origin: 个站
 ---

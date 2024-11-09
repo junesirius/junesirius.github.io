@@ -4,7 +4,7 @@ title: 【梦记】考场作文
 date: 2020-09-05
 categories: ["梦记"]
 characters: 
-tags: ["梦记"]
+tags: ["梦记", "写作"]
 pov: 第一人称视角
 origin: 个站
 ---
