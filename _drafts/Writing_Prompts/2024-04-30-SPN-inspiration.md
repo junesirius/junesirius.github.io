@@ -1172,4 +1172,8 @@ and Cass' turn to be in a family
 
 (kid fic, fluffy?)
 
-### 146.
+### 146.【destiel】S14E13 wish pearl: heart's deepest desire
+
+Dean thought his biggest desire is Michael out of his head, but actually he desires Cass. The pearl gives him what he wants even if he doesn't know he wants.
+
+### 147.
