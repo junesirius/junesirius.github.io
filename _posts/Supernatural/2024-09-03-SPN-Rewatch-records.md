@@ -17,7 +17,7 @@ origin: 个站
 
 Win/Kill Count: 30 (angel), 22 (demon), 2 (archangel), 18 (others)
 
-Lose/Hurt Count: 7 (angel), 6 (demon), 7 (archangel), 5 (others)
+Lose/Hurt Count: 7 (angel), 6 (demon), 8 (archangel), 5 (others)
 
 Death/Near death Count: 2 (Raphael), 3 (Lucifer), 2 (Leviathan), 1 (reaper), 1 (Ramiel), 1 (Dagon)
 
@@ -275,6 +275,10 @@ Death/Near death Count: 2 (Raphael), 3 (Lucifer), 2 (Leviathan), 1 (reaper), 1 (
 
 （demon）被7+恶魔围殴：输；肉搏打不过，被围殴抓住捆起来了
 
+### S14E09（-1 archeangel）
+
+（Michael）被天启世界米迦勒打：输；肉搏被揍得将死，被reaper救
+
 ## Mistake/deal/big twist records
 
 ### S02E01
@@ -424,6 +428,10 @@ Apocalypse World Michael and Lucifer come through to this world. Michael wants w
 ### S14E08
 
 Cass makes deal with the Shadow to save Jack.
+
+### S14E10
+
+Dean locks Michael in his mind. Jack burns off his soul to kill Michael's monsters.
 
 ## Enochian
 
@@ -768,6 +776,36 @@ Jack念的咒语燃烧灵魂变成grace：
 > （oh-ee-vee-ah-ee）
 >
 > （ee-duh-luh-vah-juh-ah-um kah-dah）
+
+翻译（自译）：TBA
+
+### S14E12
+
+Man carve Enochian on victim's body
+
+（图片TBA）
+
+翻译（according to Sam）：“I am the Word”
+
+翻译（自译）：TBA
+
+<br>
+
+Tony's tattoo
+
+（图片TBA）
+
+翻译（according to Sam）：“The Word”
+
+<br>
+
+Donatello's words in coma：
+
+> （boh ray, kah lah teh nee hoh）
+>
+> （rah may, lah ray kee doh）
+
+翻译（according to Castiel）：“I will strike down the firstborn in the land of Egypt. I will execute judgement.”
 
 翻译（自译）：TBA
 
