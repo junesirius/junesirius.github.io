@@ -701,6 +701,36 @@ And Sam sighs a soft "Yeah".
 
 ## Draft:
 
+(purest→brightest
+
+“devilishly handsome face”
+
+Dumah coughs
+
+She's voice breaks, if she's in a vessel now, it'll look like she's choking on blood in her throat
+
+Heaven drawing him in
+
+clumsy landing: like he's hustled down
+
+Cass: With their damaged half-full grace, we may need both of them.
+
+Sam: Or we help them recover, get them on top of their power and then do the rest.
+
+Dean: That's your idea? That's dumbest idea in a pool of dumb idea you've ever come up with.
+
+<br>
+
+Outline: get Lucifer→help Lucifer recover (Lucifer suggest get Michael but they refuse)→daily episode with ghost&demon(+surprise reunions+troubles)→(Cass+situation get worse, Heaven can't wait longer) get Michael→help them make peace→they align to destroy world→S/D say yes, kill each other, Cass is saved, thought they died, go to Heaven/vail to find them, let them decide if they want back→TFW back together, problem solved, heaven on their command
+
+Surprise reunion: John/Mary, Jimmy/Amelia/Claire, Bobby/Ellen/Jo/Ash, Charlie
+
+tag: AU - canon divergent
+
+last chapter name: "Inherit the World"
+
+<br>
+
 Metallica lyrics: Chasing Light "down and out as darkness falls, shakes the cage in deep withdrawals, without darkness there’s no light, but he is someone’s little boy"
 
 System of a Down: "angels deserve to die" (Cass: Do I deserve to die? Do they?)
@@ -730,3 +760,23 @@ Dean: What's that, take away that metal crap will you? (Heard first lyrics) Wait
 Dean: it’s like putting two nuclear together and hope they don’t explode! What’s the odds?
 
 They all agree Dean should get nowhere close to Michael and same goes for Sam and Lucifer, so Sam and Rowena go to Michael, Dean and Cass go to Lucifer
+
+M/L counseling session: Do you remember the time when...
+
+<br>
+
+(Cass is also infected, symptom starts with can't heal, pain, weak (try to hide but found out by Dean))
+
+Dean: Don't tell me you're infected
+
+Cass doesn't answer.
+
+Dean's heart sinks: you are, aren't you? Why don't you tell me?
+
+(To save Cass, S/D has to become M/L)
+
+Dean: Sonofabitch, yes! I say, yes!
+
+Cass: Dean, don't!
+
+Dean: I have to, I can't let you die, I just can't.
