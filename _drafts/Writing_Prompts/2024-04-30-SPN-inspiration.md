@@ -1176,4 +1176,18 @@ and Cass' turn to be in a family
 
 Dean thought his biggest desire is Michael out of his head, but actually he desires Cass. The pearl gives him what he wants even if he doesn't know he wants.
 
-### 147.
+### 147.【destiel】S12E19 “it's like herding a cat”
+
+Dean: (要哄卡做什么事实在太难了) it's like herding a cat
+
+Cass becomes a cat? actually herding a cat
+
+### 148.【destiel】socks are the best gift
+
+（from myself）
+
+Cass loves soft warm socks, would love to have new ones for gift every holiday
+
+human Cass? (maybe Metatron used all his grace and none left so he stays human)
+
+### 149.
