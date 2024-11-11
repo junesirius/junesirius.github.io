@@ -17,7 +17,7 @@ origin: 个站
 
 Win/Kill Count: 30 (angel), 22 (demon), 2 (archangel), 18 (others)
 
-Lose/Hurt Count: 7 (angel), 6 (demon), 8 (archangel), 5 (others)
+Lose/Hurt Count: 7 (angel), 6 (demon), 8 (archangel), 6 (others)
 
 Death/Near death Count: 2 (Raphael), 3 (Lucifer), 2 (Leviathan), 1 (reaper), 1 (Ramiel), 1 (Dagon)
 
@@ -279,6 +279,14 @@ Death/Near death Count: 2 (Raphael), 3 (Lucifer), 2 (Leviathan), 1 (reaper), 1 (
 
 （Michael）被天启世界米迦勒打：输；肉搏被揍得将死，被reaper救
 
+### S14E12
+
+（human）穿越过来的2003卡揍温双：输/赢；肉搏，几乎掐死Dean，被Sam用angel banish sigil炸飞（不是主世界卡，不算）
+
+### S14E14（-1 other）
+
+（gorgon）跟怪物gorgon肉搏：输；被吻到，下了蛇毒被麻痹，将死，被Jack烧灵魂发动能力救回来
+
 ## Mistake/deal/big twist records
 
 ### S02E01
@@ -432,6 +440,10 @@ Cass makes deal with the Shadow to save Jack.
 ### S14E10
 
 Dean locks Michael in his mind. Jack burns off his soul to kill Michael's monsters.
+
+### S14E14
+
+Dean gets serious brain concussion when fighting Gorgon, causing Michael break loose. Jack burns off more of his soul to save Cass.
 
 ## Enochian
 
