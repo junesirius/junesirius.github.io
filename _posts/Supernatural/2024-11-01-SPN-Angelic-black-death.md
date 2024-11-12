@@ -3,15 +3,15 @@ layout: post
 title: 【Destiel】Angelic Black Death
 date: 2024-11-01 01:51
 categories: ["SPN"]
-characters: ["Castiel", "Dean Winchester", "Sam Winchester", "Michael", "Lucifer", "Vince Vincente", "Rowena", "Crowley", "Adam Milligan"]
+characters: ["Castiel", "Dean Winchester", "Sam Winchester", "Michael", "Lucifer", "Vince Vincente", "Rowena MacLeod", "Crowley", "Adam Milligan", "Bobby Singer", "Charlie Bradbury", "Jimmy Novak", "Claire Novak"]
 tags: ["Supernatural", "destiel", "michifer", "温家兄弟", "英文"]
 pov: 第三人称
 origin: AO3
 ---
 
-(Note: post-S11 pre-S12 timeline, minus British Men of Letters and Mary. It starts as a one-shot idea, but then get stretched up -- it stretched itself up to full length -- and now becomes practically a S12 rewrite.)
+(Note: post-S11E23 timeline, minus British Men of Letters and Mary. It starts as a one-shot idea, but then get stretched up -- it stretched itself up to full length -- and ends up turning into practically a complete S12 rewrite. I didn't see that coming either.)
 
-(TODO: make Dean (and Cass)'s emotion reaction more subtle!!)
+(Tag: AU - canon divergent)
 
 [TOC]
 
@@ -67,7 +67,7 @@ Something is wrong.
 
 Something is always wrong, as they often say, with them being Winchesters. But this feels... not really *wrong* wrong, but *off*.
 
-"I don't know how to tell you, Sammy, it's like my hair is in the wrong direction, or... or spider sense gets triggered or something." Dean is a little irritated, hands flying everywhere trying vainly to compensate for the lack of accurate words. "My gut says so, okay? And I know better than ignoring a hunter's intuition. Something is definitely off but I don't know what."
+"I don't know how to tell you, Sammy, it's like my hair is in the wrong direction, or... or spider sense gets triggered or something." Dean is a little irritated, hands flying everywhere trying vainly to compensate for the lack of accurate words. "My gut says so, okay? And I know better than ignoring a hunter's instin. Something is definitely off but I don't know what."
 
 Sam presses his palms on the forehead. They shouldn't have this conversation before they even have their first cup of coffee of the day. And this definitely shouldn't be how the second day after saving the universe starts. But here they are.
 
@@ -641,7 +641,7 @@ Dean and Cass gathers around him, each taking a side of the chair and sitting on
 
 Sam fingers the line he's reading. It's in Enochian. Apparently Sam learns to read Enochian some time secretly and Dean is the only one in the room blinking blankly right now.
 
-Cass translates for them, "You can't have shadow without light. The purest of all light can purify darkness."
+Cass translates for them, "You can't have shadow without light. The brightest of all light can purify darkness."
 
 Sam points at a short line of hand-written notes in the margin right by the Enochian, "I'm actually reading this note."
 
@@ -657,7 +657,7 @@ Sam answers, "Martin Luther King Jr., the guy is a genius."
 
 "I don't think we can get Chuck or Amara back to fix this -- even if we can, to be honest, I don't really want to see them again so soon." Sam says, "So the only option is just this --"
 
-"The purest of all light." Cass finishes his sentence. "But what does that mean? Who, or what, has the brightest purest light?"
+"The brightest of all light." Cass finishes his sentence. "But what does that mean? Who, or what, has the brightest light?"
 
 Realization hits all of them at the same time. Though it comes with a different name.
 
@@ -691,45 +691,11 @@ And Sam sighs a soft "Yeah".
 
 <br>
 
-### Chapter: Rock never dies
+### Chapter 3: Rock Never Dies
 
-(TBC)
+**(outline: look for Lucifer, Lucifer holds rock concert/metal festival in LA, a big fuss and fight like in show, reuse Vince/Ladyheart part plot, bring Lucifer in in Vince's vessel, help Lucifer recover)**
 
-<br>
-
-<br>
-
-## Draft:
-
-(purest→brightest
-
-“devilishly handsome face”
-
-Dumah coughs
-
-She's voice breaks, if she's in a vessel now, it'll look like she's choking on blood in her throat
-
-Heaven drawing him in
-
-clumsy landing: like he's hustled down
-
-Cass: With their damaged half-full grace, we may need both of them.
-
-Sam: Or we help them recover, get them on top of their power and then do the rest.
-
-Dean: That's your idea? That's dumbest idea in a pool of dumb idea you've ever come up with.
-
-<br>
-
-Outline: get Lucifer→help Lucifer recover (Lucifer suggest get Michael but they refuse)→daily episode with ghost&demon(+surprise reunions+troubles)→(Cass+situation get worse, Heaven can't wait longer) get Michael→help them make peace→they align to destroy world→S/D say yes, kill each other, Cass is saved, thought they died, go to Heaven/vail to find them, let them decide if they want back→TFW back together, problem solved, heaven on their command
-
-Surprise reunion: John/Mary, Jimmy/Amelia/Claire, Bobby/Ellen/Jo/Ash, Charlie
-
-tag: AU - canon divergent
-
-last chapter name: "Inherit the World"
-
-<br>
+#### draft notes
 
 Metallica lyrics: Chasing Light "down and out as darkness falls, shakes the cage in deep withdrawals, without darkness there’s no light, but he is someone’s little boy"
 
@@ -753,15 +719,85 @@ A prison they have made my mind, my enemy"
 
 Dean: What's that, take away that metal crap will you? (Heard first lyrics) Wait, they might on to something.
 
-(Reuse Vince Vincent's and Ladyheart part of plot, TFW go to LA, rock and metal festival, chapter name remains: rock never dies)
+Lucifer: "devilishly handsome face"
 
 <br>
+
+### Chapter 4: The Roadhouse
+
+**(outline: souls in heaven starts getting out of control, TFW thinks it's a case but run into Jo/Ellen/Ash/Bobby)**
+
+<br>
+
+### Chapter 5: The Winchesters
+
+**(outline: Heaven gets even more loose, John/Mary get down, Winchesters happy reunion dinner, like in show)**
+
+<br>
+
+### Chapter 6: The Novaks
+
+**(outline: Jimmy/Amelia get down, reunite with Claire, Jimmy/Cass tension)**
+
+<br>
+
+### Chapter 7: Evil Never Rests
+
+**(outline: Charlie comes down and reunite, demons know Heaven is dying, go out for a Carnival, Crowley headache, calls for TFW help)**
+
+<br>
+
+### Chapter 8: You're Up, Dr. Phil
+
+(outline: From Chap 3-7 quietly describe Cass' getting worse, souls go wild in vail, has to take Lucifer's advice to release Michael, get Rowena to help, Winchester counseling time for Michael/Lucifer)
+
+<br>
+
+#### draft notes
+
+Cass: With their damaged half-full grace, we may need both of them.
+
+Sam: Or we help them recover, get them on top of their power and then do the rest.
+
+Dean: That's your idea? That's dumbest idea in a pool of dumb idea you've ever come up with.
 
 Dean: it’s like putting two nuclear together and hope they don’t explode! What’s the odds?
 
 They all agree Dean should get nowhere close to Michael and same goes for Sam and Lucifer, so Sam and Rowena go to Michael, Dean and Cass go to Lucifer
 
 M/L counseling session: Do you remember the time when...
+
+### Chapter 9: King's Cross
+
+**(outline: to stop Michael/Lucifer and save Cass/Heaven, Sam/Dean says yes, get dirty, take back control, sacrifice each other; Cass go to find them, try to save them again, find in King's Cross like in HP, one way to heaven/John/Mary, one way to earth/Cass, choose Cass and back)**
+
+<br>
+
+### Chapter 10: The Brightest Light
+
+**(outline: Cass uses up his power, is still dying, angel/Dumah comes to explain+offer Heaven in their command, Dean's soul is the brightest light, Dean can save him but only if he let himself be honest with his feelings, Dean uses his soul to touch Cass and purify/save Cass, don't need to say love but so much more than love, there is no word for them even "love", all HE)**
+
+#### draft notes
+
+Dean: You fixed me so many times, it's my turn now.
+
+<br>
+
+## Draft Notes
+
+Complete Outline: get Lucifer→help Lucifer recover (Lucifer suggest get Michael but they refuse)→daily episode with ghost&demon(+surprise reunions+troubles)→(Cass+situation get worse, Heaven can't wait longer) get Michael→help them make peace→they align to destroy world→S/D say yes, kill each other, heaven is saved, Cass thought they died, go to Heaven/vail to find them, let them decide if they want back→TFW back together, heaven on their command, thought problem solved, Cass is still dying→Dean use his soul power heal Cass, soul-grace dance, Cass is saved, TFW HE
+
+<br>
+
+Chap 2 edit note:
+
+Dumah coughs (that's how Cass get infected)
+
+She's voice breaks, if she's in a vessel now, it'll look like she's choking on blood in her throat
+
+Heaven drawing him in
+
+clumsy landing: like he's hustled down
 
 <br>
 
@@ -772,6 +808,8 @@ Dean: Don't tell me you're infected
 Cass doesn't answer.
 
 Dean's heart sinks: you are, aren't you? Why don't you tell me?
+
+<br>
 
 (To save Cass, S/D has to become M/L)
 
