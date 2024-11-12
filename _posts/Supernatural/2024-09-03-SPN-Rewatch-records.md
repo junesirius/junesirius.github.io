@@ -443,7 +443,9 @@ Dean locks Michael in his mind. Jack burns off his soul to kill Michael's monste
 
 ### S14E14
 
-Dean gets serious brain concussion when fighting Gorgon, causing Michael break loose. Jack burns off more of his soul to save Cass.
+Dean gets serious brain concussion when fighting Gorgon, causing Michael break loose. Michael possesses Rowena and kills most hunters in the bunker.
+
+Jack burns off more of his soul to save Cass, burns all of soul to kill Michael.
 
 ## Enochian
 
