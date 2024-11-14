@@ -49,7 +49,7 @@ His fingers did an air quote and Dean finds his eyes automatically get distracte
 
 Dean hums an acknowledgement, takes another drink slowly, then asks thoughtfully, "Don't you think, after the sun was gone and then came back, shouldn't the time be reset or something? Like, it's a new day or whatever? Hell, it's probably a whole new era when future historians look back. We got a BC/AD two thousand years ago, about time for another one. What should we call it? BD/AG, Before-Darkness and After-God era?"
 
-Sam lets out a short chuck, "Wow, Aristotle, I'll leave you to think about that." He stands up and pats his brother on the shoulder briefly, nods at Cass on his way out, and then disappears outside of the kitchen door.
+Sam lets out a short chuckle, "Wow, Aristotle, I'll leave you to think about that." He stands up and pats his brother on the shoulder briefly, nods at Cass on his way out, and then disappears outside of the kitchen door.
 
 Dean and Cass look at the direction where Sam took off, taking gulps of drink almost simultaneously, enjoying the comfortable lazy silence between them for a while longer.
 
@@ -333,7 +333,7 @@ Dean bites the food absent-mindedly and doesn't answer. But by the night of the 
 
 "Wake me up if anything happens. Anything." Dean presses, warningly.
 
-"Yes, yes, Jeez." Sam rolls his eyes, "Now go! Before I drag your ass to the car."
+"Yes, yes, Jesus." Sam rolls his eyes, "Now go! Before I drag your ass to the car."
 
 Dean lies down on the back seat of the Impala and immediately falls asleep.
 
@@ -597,19 +597,19 @@ Castiel didn't connect the dots together then, but he does now. That incident of
 
 "Then how am I still alive, not even infected?" Cass rushes his questions, "I should have symptoms just like everyone else."
 
-The clump of light and energy that is Dumah contracts and shifts, sounding actually happy now. "You... you remember now." Her rusty voice chokes and coughs. "That's why... why I'm so glad you're here now, Castiel. You are special... you are the only one who can save us."
+The clump of light and energy that is Dumah contracts and shifts, sounding actually happy now. "You... you remember now." Her rusty voice chokes. "That's why... why I'm so glad you're here now, Castiel. You are special... you are the only one who can save us."
 
 "But I don't know how --" Cass feels uneasy and shameful.
 
-"I believe you will find out." Dumah's voice barely there.
+"I believe you will find out." Dumah's voice barely there, breaking and gasping, it's like human coughing violently. Black shapes and spots splash from the light around her core, like flying ash and coal from an overburnt fireplace.
 
-And then she starts chanting, "*And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness.*"
+And then she starts chanting, breathlessly, like a swan song, "*And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness.*"
 
 "I wish I share your belief." Cass murmurs sadly, "But I'm sorry, I'm dying too, I don't even think I can leave this place any more than you do."
 
-Dumah *looks through* him with the last remaining flash of her light, "Yes you can, Castiel. Now go, and save us! Save all the remaining ones before it's too late." Her voice breaks. If she's in a vessel now, it's like she's choking on blood in her throat.
+Dumah *looks through* him with the last remaining flash of her light, "You will, Castiel. Now go, and save us! Save all the remaining ones before it's too late." Her voice breaks. If she's in a vessel now, it's like she's choking on blood in her throat.
 
-Castiel senses two forces pushing at him at this very same moment as she finishes speaking. The Heaven unleashes ever more power onto him, undeniably irresistibly drawing him in. Castiel can see the space and dimension around them get twisted so contorted that the exit is just like the pinpoint in the eye of a furious hurricane. Dumah burns up the very last peck of power she has left and hustles Castiel out. He falls through the portal.
+Castiel senses two forces pushing at him at this very same moment as she stops speaking. The Heaven unleashes ever more power onto him, undeniably irresistibly drawing him in. Castiel can see the space and dimension around them get twisted so contorted that the exit is just like the pinpoint in the eye of a furious hurricane. Dumah burns up the very last peck of power she has left and hustles Castiel out. He falls through the portal.
 
 <br>
 
@@ -655,7 +655,7 @@ Dean returns a warmthless smile to that, "Super. I'll grab some more beer first.
 
 <br>
 
-#### Act 10
+#### Act 10 [TBA editing]
 
 It turns out, that the researching and heavy reading part of the job is actually not as boring as one might presume. It would be easier if there is some kind of catalogue to indicate what each book is about, but the perk of not having one is that you get to run into things you totally wouldn't expect to read and ends up might actually learning something or even enjoying the reading time.
 
@@ -663,13 +663,13 @@ Like the one Dean is currently reading, "Ethereal Archetypes and Terrestrial Man
 
 The book says the angels might adopt their ways of manifestation by learning all animal behaviors, including but not limited to the man kind, examples including the way they tilt heads to look at target object comes from birds, most likely pigeons, they can be protective like dogs, cunning like cats, and show great connection and closeness with creatures that last as long as they do, so they may guard jellyfish and bees as closely as humans.
 
-The more Dean reads, the more he feels like he has to introduce Cass to whoever writes this book, it is almost as if they are literally describing Cass back to him. But pitifully, the behavioral descriptions are not giving enough information or indication about how exactly can they cure a sick angel. So Dean tosses the book aside, putting a note in his head thinking he might ask Cass some day about what's the deal with the jellyfish.
+The more Dean reads, the more he feels like he has to introduce Cass to whoever writes this book, it is almost as if they are literally describing Cass back to him. But pitifully, the behavioral descriptions are not giving enough information or indication about how exactly can they cure a sick angel. So Dean tosses the book aside, putting a note in his head thinking he might ask Cass some day about what's the deal with jellyfish.
 
 The next book talks about perceived hierarchy and social structure of Heaven and Hell and their resemblance, which leads to its religious and cultural meaning. But Dean already notices some mistakes in the book, since he seriously doubts if any of the writers have ever run into any Prince of Hell or Knight of Hell. He might as well run a fact check with Cass about these things.
 
-The next is about angelic occupational division, followed by experimentations with angel feathers, and then more. Okay, Dean decides, he wants to take his words back, it stops feeling entertaining long ago, now he'd rather go out punch something. The only thing that keeps him continue scrambling the pages is the thought that he might learn more about bits and pieces about angels -- about Cass -- that might come handy later down the road.
+The next is about angelic occupational division, followed by experimentations with angel feathers, and then more. Okay, Dean decides, he wants to take his words back, it stops being entertaining a long ago, now he'd rather go out get some stretch or maybe punch something. The only thing that keeps him continue scrambling the pages is the thought that he might learn more about bits and pieces about angels -- about Cass -- that might come handy later down the road.
 
-By the time he clears out all the books piled on his left side, Dean can barely recognize the word "angel." In his brain, the meaning of that word gets rewired to -- "Cass".
+By the time he clears out all the books piled on his left side, Dean can barely recognize the word "angel". His brain has already rewired the meaning of that word into -- "Cass".
 
 Right around the time when Dean wonders if he can sneak out of the room without the rest two of them noticing, Sam shouts out his eureka, "I find something! Hmm, maybe. I think."
 
@@ -689,13 +689,13 @@ Sam answers enthusiastically, "Martin Luther King Jr., guy is a genius, like Gan
 
 "And that's connected to our problem how?" Dean frowns, letting go for once to not mock at Sam's obsession with these historical figures that he can never understand.
 
-"I *think*," Sam toughs through his idea, "if ABD is a leftover symptom from getting too close to the Darkness, and Angels' true forms are like flowing lights, it means *literally* Light is getting consumed by the darkness, so with the opposite of light -- the absence of light -- in their system, angels can't recover, so they're dying, and eventually ends up dead. It sort of makes sense."
+"I *think*," Sam grooms through his idea, "if ABD is a leftover symptom caught from getting too close to the Darkness, and Angels' true forms are like flowing lights, then it's practically *literally* saying 'Light is getting consumed by the Darkness'. With the opposite of light -- the absence of light -- in their system, angels can't recover, that's why they're dying, and eventually all lights gone and they end up dead. It sort of makes sense."
 
-"And the cure is more light?" Dean manages to catch up, guessing between lines.
+"And the cure is... giving them more light?" Dean manages to catch up, guessing between lines.
 
-"I don't think we can get Chuck or Amara back to fix this -- even if we can, to be honest, I don't really want to see them again so soon." Sam ponders, "So the only option is just this --"
+"Yeah, it's either that or... but I don't think we can get Chuck or Amara back to fix this -- even if we can, to be honest, I don't really want to see them again so soon." Sam ponders, "So the only option is just this --"
 
-"-- The brightest of all light." Cass finishes his sentence. "But what does that mean? Who, or what, has the brightest light?"
+"-- the brightest of all light." Cass finishes his sentence. "But what does that mean? Who, or what, has the brightest light?"
 
 Realization hits all of them at the same time. Though it comes with a different name.
 
@@ -707,29 +707,29 @@ Dean blinks once, then goes, "Cass."
 
 Sam turns to Cass, "What?"
 
-Dean turns to Sam, "Seriously?"
+Dean eyes Sam, "Seriously?"
 
 Cass looks at Dean, "Yes?"
 
-Dean stutters, "No, not calling you. Just thought you have pretty bright light, buddy, so bright it almost burned my eyes off the other day. Pretty sure it's the brightest *I*'ve ever seen."
+Dean stutters, "No, not calling you. Just thought you get pretty bright light, buddy, so bright it almost burned my eyes off, like, yesterday. Pretty sure it's the brightest *I*'ve ever seen."
 
-Cass lowers his head sheepishly, "I'm flattered, Dean. If it's true, I have no problem giving away any and all of the light I have to save the angels. But sadly it's not, I'm hardly bright at all from angel standard right now, with all the extraction and revival."
+Castiel lowers his head sheepishly, "I'm flattered, Dean. If it's true, I have no problem giving away any and all of the light I have to save the angels. But sadly it is not, I'm hardly bright at all from angel standard right now, with all the extraction and revival."
 
 Dean can't help breathing out a short relief, not sure if he should feel glad or sorry for it. He murmurs a quick "Sorry" under the breath.
 
-Sam is still staring at Cass. "Michael?" his brows raised.
+Sam is still staring at Cass. "Michael?" his brows fly to the sky.
 
 Cass turns to him to answer, "Yes, as far as I know, Michael is the first-born, strongest and the most powerful among all angels and archangels, I would guess that would also indicate the brightest."
 
-Sam nods but retorts, "Doesn't Lucifer also have a name called 'Morningstar'? I thought before the Fall, he was believed the brightest by many according to the lore. I mean, isn't that's why Michael and Lucifer fight in the first place? Fighting for the title of 'brightest' and 'God's favorite', it's like the Heaven's version of Golden Apple Contest, and Armageddon is exactly like Trojan War."
+Sam nods but still, "Doesn't Lucifer also have a name called 'Morningstar'? I thought before the Fall, he was believed to be the brightest by many according to the lore. I mean, isn't that's why Michael and Lucifer fight in the first place? Fighting for the title of 'brightest' and 'God's favorite', it's like the Heaven's version of Golden Apple Contest, and Armageddon is exactly like Trojan War."
 
-"Jeez, when can we ever break free from these two bastards." Dean whines loudly before Cass can answer, then asks, "Say we have two candidates, what's next?"
+"Jesus, when can we ever break free from these two bastards." Dean whines loudly before Cass can answer, then asks, "Say we have two candidates, what's next?"
 
-"We need them to, uhh --" Sam reads through the small texts below the Enochian line, his brows raises higher, "-- give away their light willingly. The cost of purification will take away as much as all the light from the source. And only a determined mind can last long enough to not interrupt the purification process."
+"We need them to, uhh --" Sam reads through the small texts below the Enochian line, his brows raises higher if even possible, "huh -- give away their light willingly. The cost of purification will take away as much as all the light from the source. And only a determined mind can last long enough to not interrupt the purification process."
 
-Dean steps away from the armchair slowly to lean on the table. "Wait so, let me get this straight, the solution is to let Michael *or* Lucifer to what, willingly sacrifice themselves to save all angels and humans? Yeah not happening."
+Dean steps away from the armchair slowly to lean on the table. "Wait so, let me get this straight, the solution is to let Michael *or* Lucifer to what, willingly sacrifice themselves to save all angels and humans? Right, not happening."
 
-Sam thinks about it for a second, "I don't know Dean, I mean, we got God and Devil work together once, and then God and Darkness. That makes two archangels seem easier."
+Sam thinks about it for a second, "I don't know Dean, I mean, we got God himself -- and Devil,  and Darkness, even Death -- talking to us face to face, and persuaded them to do the right thing, and most of times, they end up listening to us."
 
 "We might as well put up a sign in front of the bunker: 'Celestial family drama counseling office', subtitle: 'For free once a year, if doesn't work, feel free to end the world'. Nice plan, Dr. Phil." Dean waves his hands in the air, gesturing the imaginary signs.
 
@@ -831,9 +831,23 @@ They all agree Dean should get nowhere close to Michael and same goes for Sam an
 
 M/L counseling session: Do you remember the time when...
 
+M/L deciding not saving angels: There is no darkness without light, so if they're all gone, so is the disease. Problem solved.
+
 ### Chapter 9: King's Cross
 
 **(outline: to stop Michael/Lucifer and save Cass/Heaven, Sam/Dean says yes, get dirty, take back control, sacrifice each other; Cass go to find them, try to save them again, find in King's Cross like in HP, one way to heaven/John/Mary, one way to earth/Cass, choose Cass and back)**
+
+#### draft notes
+
+Michael to Dean: I know it's too easy to give your own life for the angel you care, but are you willing to give your brother's life for him too?
+
+(To save Cass, S/D has to become M/L)
+
+Dean: Sonofabitch, yes! I say, yes!
+
+Cass: Dean, don't!
+
+Dean: I have to, I can't let you die, I just can't.
 
 <br>
 
@@ -869,10 +883,14 @@ Dean's heart sinks: you are, aren't you? Why don't you tell me?
 
 <br>
 
-(To save Cass, S/D has to become M/L)
+Cass is constantly headache, at first they all thought it’s because of angel radio. Every now and then it gets so bad that he has to hold on to something to not fall. His view goes black, from several seconds to minutes. Dean always lend him a shoulder if he’s within range.
 
-Dean: Sonofabitch, yes! I say, yes!
+Dean watches closely, worried: You want to tune that down a bit, pal?
 
-Cass: Dean, don't!
+Cass: I can’t, I won’t. They’re suffering and dying up there, the least I can do is to not forget that.
 
-Dean: I have to, I can't let you die, I just can't.
+Dean: Yeah, not like you can ever forget easily.
+
+What he means is *I hate to see you suffer*, but he doesn’t say it.
+
+(The headache is just the first symptom of infection, they just didn’t know yet)
