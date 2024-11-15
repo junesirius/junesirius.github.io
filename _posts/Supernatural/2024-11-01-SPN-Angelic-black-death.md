@@ -537,17 +537,17 @@ Cass sighs, "And there is more."
 
 Castiel searches corridors after corridors between souls' heavenly cells, looking for angel survivors. But he doesn't have any luck.
 
-The place spreads and unfolds endlessly, and his body as a human is tiring out and dragging him back fast. His feet sore and heavy, his mouth dry and burning, he staggers, but keeps moving, though now he has to lean on the wall to keep himself upwards. A traveler lost in the middle of desert might look better than he is right now, one thread of his mind floats away to the time when he sees Antoine de Saint-Exupéry wandering in the desert, finishing his beautiful work of *Le Petit Prince*. His soul is somewhere around here too, if he remembers correctly.
+The place spreads and unfolds endlessly, and his body as a human is tiring out and dragging him back fast. His feet sore and heavy, his mouth dry and burning, he staggers, but keeps moving, though now he has to lean on the wall to keep himself upwards. A traveler lost in the middle of desert might look better than he is right now, one thread of his mind floats away to the time when he saw that French writer pilot Antoine de Saint-Exupéry wandering in the desert, finishing his beautiful work of *Le Petit Prince*. His soul is somewhere around here too, if he remembers correctly.
 
-He can feel cracks of wounds popping up on his face and lips, on the back of his hands, and spreading on every part of the body, like a nut shell right before it gets crushed and explodes into pieces. Blood soaking through the white shirt, he doesn't know how much time he has or how far he can keep going. This whole place, the Heaven, is folding around him, grabbing its child in its embrace like a mother to her new-born child. It is his birth place, but it's not the place he would call home right now, and certainly not a place he wants to stay at this moment. But he also doesn't think he can make it to the portal again.
+He can feel cracks of wounds popping up on his face and lips, on the back of his hands, and spreading on every part of the body, like a nut shell right before it gets crushed and explodes into pieces. Blood soaking through the white shirt, he doesn't know how much time he has or how far he can keep going. This whole place, the Heaven, is folding around him, grabbing its child in its embrace like a mother to her new-born child. It is his birth place, but it's not the place he would call home right now, and certainly not the place he wants to stay at this moment. But he also doesn't think he can make it to the portal again.
 
-"Castiel? Is that you?" An angel calls to him from around next corridor. The sound is weak and sick, but almost hopeful and joyful at his approach.
+"Castiel? Is that you?" An angel calls to him from around next corridor. The sound is weak and sick, but picks up sparks of hope at his approach.
 
 Cass fights his way towards the call.
 
 But the Heaven pushes harder, the force around him pressing heavily, like a hurricane blowing and surging over a pitiful leaf attached to a tree, pulling him towards the wall, towards a soul room manifested only for him, moving along with him, trying to absorb him in.
 
-The wall becomes too dangerous to hold on to, but as soon as he leaves the hold, Cass' legs give way. He hisses as the body hits the ground and sharp pain spreads all over. He'll die here, Cass thinks, becoming a permanent resident of Heaven, locked away in one of those billions of rooms and never see Dean again. He should have hugged him before leaving and said a better farewell.
+The wall becomes too dangerous to hold on to, but as soon as he leaves the hold, Cass' legs give way. He hisses as the human body hits the ground and sharp pain spreads all over. He'll die here, Cass thinks, becoming a permanent resident of Heaven, locked away in one of those billions of rooms and never see Dean again. He should have hugged him before leaving and said a better farewell.
 
 "Castiel --" The other angel calls again.
 
@@ -555,17 +555,17 @@ The wall becomes too dangerous to hold on to, but as soon as he leaves the hold,
 
 Crawling ahead desperately with the last bit of his strength, Cass arrives at the turn of that corridor. Dumah is there, in her true form, shining faintly and fading. Black shades and dark spots get its hold on to her like every single other angel he sees in the Heaven. Judging by the density of the black, she doesn't have long.
 
-Pain and grief tear Castiel's heart apart. The last time he felt so powerless and useless is when he has to watch Dean Winchester being tortured and sliced in the Pit while his garrison still has miles of demons to clear. He doesn't quite understand that sensation of worry and fear back then, but after spending almost a decade on Earth, he realizes now that the fear is because he's afraid that he may be too late. The same fear comes back now.
+Pain and grief tears Castiel's heart apart. The last time he felt so powerless and useless is when he has to watch Dean Winchester being tortured and sliced in the Pit while his garrison still has miles of demons to clear. He doesn't quite understand that sensation of worry and fear back then, but after spending near a decade on Earth, he realizes now that the fear is because he's afraid that he may be too late. The same fear comes back now.
 
-"Castiel, I'm so glad you find me." Dumah telepaths the words into his mind.
+"Castiel, I'm glad you are here." Dumah telepaths the words into his mind.
 
-"Why -- what's happening here? What's this?" Cass frowns deeply, ignoring his own wounds cutting deeper and more blood losing from his body.
+"Why -- what is happening here? What is this?" Cass frowns deeply, ignoring his own wounds cutting deeper and more blood losing from his body.
 
 "The Darkness." Dumah's consciousness is thinning away, so is her life force. Her words can barely form apprehensible meanings through the transmission, but she is trying, holding herself together as long as she can.
 
 Cass leans in to grab at the answer that is surfacing slowly, "But how? She had left this universe. This shouldn't happen."
 
-"The damage was already done when she invaded Heaven last time. All angels were already infected back then, the symptoms only show later. The lower ranks died first, Cherubs, Cupids, the higher ranks come later, Seraphs too, no exception. Everyone in the Heaven will die eventually. Every. Single. One. Of. Us."
+"The damage was already done when she invaded Heaven last time. All angels were already infected back then, the symptoms only show later. The lower ranks died first, Cherubs, Cupids, the higher ranks came later, Seraphs too, no exception. Everyone in the Heaven will die eventually. Every. Single. One. Of. Us."
 
 "Is that why I'm not infected? I wasn't in the Heaven at that time?" Cass can't help asking.
 
@@ -595,21 +595,21 @@ Castiel didn't connect the dots together then, but he does now. That incident of
 
 #### Act 8
 
-"Then how am I still alive, not even infected?" Cass rushes his questions, "I should have symptoms just like everyone else."
+"Then how am I still alive, not infected?" Cass rushes his questions, "I should have symptoms just like everyone else."
 
-The clump of light and energy that is Dumah contracts and shifts, sounding actually happy now. "You... you remember now." Her rusty voice chokes. "That's why... why I'm so glad you're here now, Castiel. You are special... you are the only one who can save us."
+The cluster of light and energy that is Dumah contracts and shifts, sounding lighter by each word. "You... you remember." Her rusty voice chokes, breaking and catching, "Lucifer must ward you off. That's why... why I'm hoping you can fix this, Castiel. Use that power, save us, save the Heaven."
 
 "But I don't know how --" Cass feels uneasy and shameful.
 
-"I believe you will find out." Dumah's voice barely there, breaking and gasping, it's like human coughing violently. Black shapes and spots splash from the light around her core, like flying ash and coal from an overburnt fireplace.
+"You will find out." Dumah's voice barely there, breaking and gasping, it's like human coughing violently. Black shapes and spots splash from the light around her core, like flying ash and coal from an overburnt fireplace.
 
-And then she starts chanting, breathlessly, like a swan song, "*And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness.*"
+And then she starts chanting, breathlessly, like the dying song of a thorn bird, "*And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness.*"
 
 "I wish I share your belief." Cass murmurs sadly, "But I'm sorry, I'm dying too, I don't even think I can leave this place any more than you do."
 
-Dumah *looks through* him with the last remaining flash of her light, "You will, Castiel. Now go, and save us! Save all the remaining ones before it's too late." Her voice breaks. If she's in a vessel now, it's like she's choking on blood in her throat.
+Dumah *looks through* him with the remaining flicker of her light that is barely there, "You will, Castiel. You are the one starts it all, you will fix this. And quickly, save all the remaining ones before it's too late." Her voice breaks into agonizing scratching sound. If she's in a vessel now, it's like she's choking on blood in her throat.
 
-Castiel senses two forces pushing at him at this very same moment as she stops speaking. The Heaven unleashes ever more power onto him, undeniably irresistibly drawing him in. Castiel can see the space and dimension around them get twisted so contorted that the exit is just like the pinpoint in the eye of a furious hurricane. Dumah burns up the very last peck of power she has left and hustles Castiel out. He falls through the portal.
+Castiel senses two forces pushing at him at this very same moment as she stops speaking. The Heaven unleashes ever more power onto him, undeniably irresistibly drawing him in. Castiel can see the space and dimension around them get twisted so contorted that the exit is just like the pinpoint in the eye of a furious hurricane. And Dumah, explodes from the very last peck of power she has left in the center of the light, the wave throws Castiel across the corridor that was never really a corridor and hustles him out towards the gate. He falls right through the portal.
 
 <br>
 
@@ -635,7 +635,7 @@ Sam clears his throat, suggesting in an over-optimistic voice that sounds far to
 
 "A case," Dean snorts loudly, "Fan-freaking-tastic."
 
-He takes a large gulp of beer that's been staying idly for too long and getting heated by the room temperature and tasting bitter, before saying, "Do you remember our job used to be beheading vampires and werewolves? Not babysitting or feeding them with soup when they get sick?" He holds out a finger just in time to stop Sam from arguing, "Don't give me that look, tell me you don't think angels are just monsters with good PR? No offence, Cass." He flashes a quick eye at Cass. A slow nerve at the back of his head somewhere tells him that's a really asshole comment spitting in front of his only and best angel friend. But with the brain mostly affected by the light drowsiness coming from the beer, Dean waves the uneasy feeling off not knowing where it comes from or why.
+He takes a large gulp of beer that's been staying idly for too long and getting heated by the room temperature and tasting bitter, before saying, "Do you remember our job used to be beheading vampires and werewolves? Not babysitting or feeding them with soup when they get sick?" He holds out a finger just in time to stop Sam from arguing, "Don't give me that look, tell me you don't think angels are just monsters with good PR? No offence, Cass." He flashes a quick eye at Cass. A slow nerve at the back of his head somewhere tickles and tells him that's a really asshole comment spitting in front of his only and best angel friend. But with the brain mostly affected by the light drowsiness coming from the beer, Dean waves the uneasy feeling off not knowing where it comes from or why.
 
 Castiel barely moves his lips, "None taken."
 
@@ -651,11 +651,11 @@ Cass hums a soft agreement to that obvious accurate comment.
 
 Sam rolls his eyes at his brother, "I know that, Dean, thanks for reminding. I just mean, research --" He gestures to the mountain of books around them, "-- so will you just shut up and start reading, please?"
 
-Dean returns a warmthless smile to that, "Super. I'll grab some more beer first."
+Dean returns a cheerless smile to that, "Super. I'll grab some more beer first."
 
 <br>
 
-#### Act 10 [TBA editing]
+#### Act 10
 
 It turns out, that the researching and heavy reading part of the job is actually not as boring as one might presume. It would be easier if there is some kind of catalogue to indicate what each book is about, but the perk of not having one is that you get to run into things you totally wouldn't expect to read and ends up might actually learning something or even enjoying the reading time.
 
@@ -673,11 +673,11 @@ By the time he clears out all the books piled on his left side, Dean can barely 
 
 Right around the time when Dean wonders if he can sneak out of the room without the rest two of them noticing, Sam shouts out his eureka, "I find something! Hmm, maybe. I think."
 
-"Aren't you a scholarship boy." Dean gratefully lays down the book that must have more than a thousand pages and gets up promptly, "What do you get?"
+"Aren't you a scholarship boy." Dean gratefully lays down the book in his hands that must have more than a thousand pages with packed tiny fonts and without any picture, and gets up promptly, "What do you get?"
 
-Dean and Cass gather around him, each taking a side of the chair and sitting on the armrest.
+Dean and Cass gather around him, each taking a side of the chair and leaning on the armrest.
 
-Sam fingers the line he's reading. It's in Enochian. Apparently Sam learns to read Enochian some time ago secretly and Dean is the only one in the room blinking blankly right now.
+Sam fingers the line he's reading. It's Enochian. Apparently Sam must have learnt to read Enochian some time ago secretly and Dean is the only one in the room blinking blankly right now.
 
 Cass translates, "*The brightest of all light can purify darkness.*"
 
@@ -685,19 +685,19 @@ Sam points at a short line of hand-written notes in the margin right by the Enoc
 
 Dean leans closer, "'*Darkness cannot drive out darkness, only light can do that.*' Why does that sound so familiar?"
 
-Sam answers enthusiastically, "Martin Luther King Jr., guy is a genius, like Gandhi."
+Sam answers enthusiastically, "Martin Luther King Jr., guy is a legend, like Gandhi."
 
 "And that's connected to our problem how?" Dean frowns, letting go for once to not mock at Sam's obsession with these historical figures that he can never understand.
 
-"I *think*," Sam grooms through his idea, "if ABD is a leftover symptom caught from getting too close to the Darkness, and Angels' true forms are like flowing lights, then it's practically *literally* saying 'Light is getting consumed by the Darkness'. With the opposite of light -- the absence of light -- in their system, angels can't recover, that's why they're dying, and eventually all lights gone and they end up dead. It sort of makes sense."
+"I'm thinking," Sam grooms through his idea, "if ABD is a symptom when angels get in too close contact with darkness, and angels' true forms are like flowing lights, then it's practically *literally* saying 'Light is getting consumed by the Darkness'. With the opposite of light -- the absence of light -- in their system, angels can't recover, that's why they're dying, and eventually all lights gone and they end up dead. It sort of makes sense."
 
-"And the cure is... giving them more light?" Dean manages to catch up, guessing between lines.
+"And the cure is... giving them more light?" Dean catches up, connecting the lines and dots.
 
 "Yeah, it's either that or... but I don't think we can get Chuck or Amara back to fix this -- even if we can, to be honest, I don't really want to see them again so soon." Sam ponders, "So the only option is just this --"
 
-"-- the brightest of all light." Cass finishes his sentence. "But what does that mean? Who, or what, has the brightest light?"
+"-- the brightest of all light." Cass finishes his sentence. "But what does that mean? Who has -- or, what *is* -- the brightest light?"
 
-Realization hits all of them at the same time. Though it comes with a different name.
+Realization hits all three of them at the same time. Though it comes with different names.
 
 Sam stuns and breathes, "Lucifer."
 
@@ -715,7 +715,7 @@ Dean stutters, "No, not calling you. Just thought you get pretty bright light, b
 
 Castiel lowers his head sheepishly, "I'm flattered, Dean. If it's true, I have no problem giving away any and all of the light I have to save the angels. But sadly it is not, I'm hardly bright at all from angel standard right now, with all the extraction and revival."
 
-Dean can't help breathing out a short relief, not sure if he should feel glad or sorry for it. He murmurs a quick "Sorry" under the breath.
+Dean can't help breathing out a short relief, not sure if he should feel glad or sorry for it. He murmurs a quick "Sorry" under his breath.
 
 Sam is still staring at Cass. "Michael?" his brows fly to the sky.
 
@@ -725,13 +725,13 @@ Sam nods but still, "Doesn't Lucifer also have a name called 'Morningstar'? I th
 
 "Jesus, when can we ever break free from these two bastards." Dean whines loudly before Cass can answer, then asks, "Say we have two candidates, what's next?"
 
-"We need them to, uhh --" Sam reads through the small texts below the Enochian line, his brows raises higher if even possible, "huh -- give away their light willingly. The cost of purification will take away as much as all the light from the source. And only a determined mind can last long enough to not interrupt the purification process."
+"We need them to, uhh --" Sam reads through the small texts below the Enochian line, his brows raises higher if it's even possible, "huh -- give away their light willingly. The cost of purification can take away as much as all the light from the source. And only a determined mind can last long enough to not disrupt the purification process before complete."
 
-Dean steps away from the armchair slowly to lean on the table. "Wait so, let me get this straight, the solution is to let Michael *or* Lucifer to what, willingly sacrifice themselves to save all angels and humans? Right, not happening."
+Dean steps away from the armchair slowly to lean on the table. "Wait so, let me get this straight, the solution is to let Michael *or* Lucifer to what, willingly sacrifice themselves to save all angels and humans? You ever met those two? Don't think it's gonna happen."
 
-Sam thinks about it for a second, "I don't know Dean, I mean, we got God himself -- and Devil,  and Darkness, even Death -- talking to us face to face, and persuaded them to do the right thing, and most of times, they end up listening to us."
+Sam thinks about it for a second, "I don't know Dean, I mean, we got God himself -- and Devil,  and Darkness, even Death -- talking to us, and persuaded them to do the right thing, and most of times, they end up listening to us."
 
-"We might as well put up a sign in front of the bunker: 'Celestial family drama counseling office', subtitle: 'For free once a year, if doesn't work, feel free to end the world'. Nice plan, Dr. Phil." Dean waves his hands in the air, gesturing the imaginary signs.
+"We might as well put up a sign in front of the bunker: 'Celestial family drama counseling office', subtitle: 'For free once a year, if it doesn't work, feel free to end the world'. Nice plan, Dr. Phil." Dean waves his hands in the air, gesturing the imaginary signs.
 
 "You get a better one?" Sam raises his brows.
 
@@ -741,7 +741,7 @@ Dean sighs annoyedly, "When can we get out of this we'll-end-the-world-or-the-wo
 
 Cass gives him a upset smile.
 
-And Sam sighs a soft "Yeah".
+Sam sighs a soft "Yeah" and falls to silence.
 
 <br>
 
@@ -749,11 +749,31 @@ And Sam sighs a soft "Yeah".
 
 **(outline: look for Lucifer, Lucifer holds rock concert/metal festival in LA, a big fuss and fight like in show, reuse Vince/Ladyheart part plot, bring Lucifer in in Vince's vessel, help Lucifer recover)**
 
-#### Act 1 [TBC]
+#### Act 1
 
 Vince Vincente is not having a good day.
 
-<br>
+The show tonight was actually great, Tommy and the rest of the band were excited, the crowd was noisy. Though honestly, he doesn't see the point of having a regroup for the Ladyheart, he's just doing those old friends a favor.
+
+"They are hosting the biggest rock metal festival on the planet and they invited us." Tommy told him on the phone when he was driving half way across the country. He didn't bother to ask who are "they" but just listened.
+
+"I think it would be nice to have a reprise, you know? Get a few concerts for some practice run, find the old feelings like we are still twenties." Tommy talked faster and faster, undoubtedly taken away by the thought.
+
+"And then in the festival, bang, we show, we sing, we might go back on top again. Who knows, it can be another 1985 Live Aid again, you might regret the rest of your life if you turn this down. So what do you say? You in it with us, Vince?" Tommy urged him.
+
+"Okay then." Vince answered plainly, uninterested but he knew better than disappointing the only few friends he still had.
+
+"Oh and, one more thing," Tommy added slightly hesitantly, "it's gonna be in LA, you ok with that?"
+
+He is not ok with it. Not at all. He said "sure" back then in the phone just to make Tommy's life easier, but it's making his life back to Hell again.
+
+"Jen." Vince sits down in front of the makeup mirror, looking at the photo of the woman he loved and lost thirty years ago.
+
+This place, Los Angeles, it's where everything between them started and ended. He has been avoiding the place for thirty years, but now he's back again.
+
+Memory devours him like rising tide devouring a novice surfer. Vince can't really breath, his chest is clenched tight.
+
+#### [TBC]
 
 <br>
 
