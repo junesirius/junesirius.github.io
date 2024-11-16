@@ -15,9 +15,9 @@ origin: 个站
 
 ### Summary
 
-Win/Kill Count: 30 (angel), 22 (demon), 2 (archangel), 18 (others)
+Win/Kill Count: 32 (angel), 24 (demon), 2 (archangel), 19 (others)
 
-Lose/Hurt Count: 7 (angel), 6 (demon), 8 (archangel), 6 (others)
+Lose/Hurt Count: 7 (angel), 7 (demon), 8 (archangel), 6 (others)
 
 Death/Near death Count: 2 (Raphael), 3 (Lucifer), 2 (Leviathan), 1 (reaper), 1 (Ramiel), 1 (Dagon)
 
@@ -287,6 +287,30 @@ Death/Near death Count: 2 (Raphael), 3 (Lucifer), 2 (Leviathan), 1 (reaper), 1 (
 
 （gorgon）跟怪物gorgon肉搏：输；被吻到，下了蛇毒被麻痹，将死，被Jack烧灵魂发动能力救回来
 
+### S14E19（+1 angel）
+
+（angel）Dumah：赢；被用温双父母要挟，出其不意地正面用天使刀捅死
+
+### S15E03（+2 demon，-1 demon）
+
+（demon）Malfayan：赢；在地狱遇见，正面用天使刀捅死
+
+（demon）Ardat：输；肉搏，被掐住脖子，被Belphegor从背后用天使刀捅死
+
+（demon）Belphegor：赢；正面smite，痛苦烧毁了Jack的身体
+
+### S15E06（+1 other）
+
+（jinn）一个jinn警长：赢；用天使刀反复当胸捅了六七刀
+
+### S15E08（-1 demon）
+
+（demon）在地狱见Rowena之前丁米卡跟三个恶魔一打一：输；肉搏，被压在地上，用天使刀抵着脖子，被及时出现的Rowena喝退
+
+### S15E11（+1 angel）
+
+（angel）准备杀刚复活的Jack的死亡天使：赢；用天使刀捅死
+
 ## Mistake/deal/big twist records
 
 ### S02E01
@@ -446,6 +470,18 @@ Dean locks Michael in his mind. Jack burns off his soul to kill Michael's monste
 Dean gets serious brain concussion when fighting Gorgon, causing Michael break loose. Michael possesses Rowena and kills most hunters in the bunker.
 
 Jack burns off more of his soul to save Cass, burns all of soul to kill Michael.
+
+### S14E17
+
+Jack uses his power to kill Nick, save Sam, then explodes and kills Mary.
+
+### S14E20
+
+Chuck comes back, kills Jack, manipulates Winchesters. Sam shoots Chuck with the Equalizer, pisses Chuck off. Chuck creates the Rupture to release souls from the Hell, throws a zombie apocalypse at them.
+
+### S15E09
+
+Sam loses hope, Chuck is free to full power.
 
 ## Enochian
 
@@ -820,6 +856,36 @@ Donatello's words in coma：
 > （rah may, lah ray kee doh）
 
 翻译（according to Castiel）：“I will strike down the firstborn in the land of Egypt. I will execute judgement.”
+
+翻译（自译）：TBA
+
+### S15E03
+
+藏horn的盒子上刻字，Castiel念的部分：
+
+> （oh-ah-kuh-ree-me ah-tay loh-kuh vah-veem noh-ruh）
+>
+> （oh rah-moh-ray-dah ah-boh-dah tay-da-ba）
+>
+> （va-veem-noh-ruh lahp tee-ah toh-ruht-sool ohl-ah-oh）
+>
+> （toh-luh-ah ay-kuh-ree-me juh-uhz-hay oh-ruh-suh ee-yahd）
+>
+> （ah ee-yahd day toh-lah-hah-mee）
+>
+> （toh-lah-dah...）
+
+翻译（according to Castiel）：a song of praise to Lucifer, the verses
+
+翻译（自译）：TBA
+
+### S15E09
+
+Cass念咒语制作攻击Chuck的武器，taking the Mark of Cain：
+
+> （zee loh-dah-rup ah-lahr zee-zohp）
+>
+> （ah-bah-rah-muh-jzh ahm-ee-zuh-pee）
 
 翻译（自译）：TBA
 
