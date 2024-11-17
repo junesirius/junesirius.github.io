@@ -19,7 +19,7 @@ Win/Kill Count: 32 (angel), 24 (demon), 2 (archangel), 19 (others)
 
 Lose/Hurt Count: 7 (angel), 7 (demon), 8 (archangel), 6 (others)
 
-Death/Near death Count: 2 (Raphael), 3 (Lucifer), 2 (Leviathan), 1 (reaper), 1 (Ramiel), 1 (Dagon)
+Death/Near death Count: 2 (Raphael), 3 (Lucifer), 2 (Leviathan), 1 (reaper), 1 (Ramiel), 1 (Dagon), 1 (Death), 1 (Empty)
 
 ### S04E10（-1 demon）
 
@@ -311,7 +311,13 @@ Death/Near death Count: 2 (Raphael), 3 (Lucifer), 2 (Leviathan), 1 (reaper), 1 (
 
 （angel）准备杀刚复活的Jack的死亡天使：赢；用天使刀捅死
 
-## Mistake/deal/big twist records
+### S15E18（-2 other）
+
+（Death）Billie：输；被死骑Billie追杀，跟Dean一起逃
+
+（Empty）Empty：输/死；为了救Dean，召唤Empty带走自己
+
+## Mistake/deal/big plot twists
 
 ### S02E01
 
@@ -482,6 +488,22 @@ Chuck comes back, kills Jack, manipulates Winchesters. Sam shoots Chuck with the
 ### S15E09
 
 Sam loses hope, Chuck is free to full power.
+
+### S15E18
+
+Chuck destroys other worlds and starts killing everyone, TFW think it's Billie, Dean/Cass go to kill Billie and piss her off, Billie comes for them, Cass confesses and summons Empty to save Dean.
+
+Everyone else in the world except Dean/Sam/Jack are killed.
+
+### S15E19
+
+Dean/Sam/Jack beat Chuck. Jack becomes the new God.
+
+### S15E20
+
+Dean gets killed in a daily job vampire-hunt and goes to Heaven, gets told by Bobby that Jack fixes the Heaven with Cass' help.
+
+Sam lives a normal life and has a son named Dean, and dies peacefully at an old age, reunites with Dean in the Heaven.
 
 ## Enochian
 
@@ -691,9 +713,7 @@ Gadreel附身的Sam被Crowley用针钻Sam大脑时逼出来的话：
 
 ### S09E17
 
-impala车身上Abaddon刀刻的enochian给Crowley的留言：
-
-（配图TBA）
+impala车身上Abaddon刀刻的enochian给Crowley的留言（配图TBA）：
 
 > BEAFRIAD YOURQUEE(N)
 
@@ -765,85 +785,83 @@ Benjamin calls for help before being killed:
 
 Apocalypse world Kevin Tran uses spell to open gate between worlds:
 
-> （Mah ray, fay doh, em lah）
+> MA-OF-FAS EL（Mah ray, fay doh, em lah）
 >
-> （kah day, em lah）
+> ZACAR EL（kah day, em lah）
 
-翻译（自译）：TBA
+翻译（自译）：“Not to be measured first, move first”
 
 ### S13E14
 
 Cass念以诺语咒语召唤两个古迦南石头人：
 
-> （Zoh nah ray nah rah jah）
+> ZONRENSG（Zoh nah ray nah rah jah）
 >
-> （Koh rax oh）
+> CORAXO（Koh rax oh）
 >
-> （ee zee zoh pah）
+> IZIZOP（ee zee zoh pah）
 >
-> （ma ah）
+> AMMA（ma ah）
 >
-> （ee vee gee）
+> MOLVI（ee vee gee）
 
-翻译（自译）：TBA
-
-### S13E17
-
-MOL1925年召唤异世界神Yokoth（拉丁语？）：
-
-> Insanidox Koth Munto
-
-Sam开天启世界门：
-
-> Koth Munto Notox
+翻译（自译）：“delivered, thunders, highest vessels, cursed, surges”
 
 ### S13E18
 
-Gabriel写了满墙的以诺语讲过去十年是怎么过来的，不确定是否真的有意义或者能读，注意阅读方向，中间一面墙可能是竖着读的，两边两面墙是横读。
-
-（图TBA）
+Gabriel写了满墙的以诺语讲过去十年是怎么过来的，不确定是否真的有意义或者能读，注意阅读方向，中间一面墙可能是竖着读的，两边两面墙是横读。（图TBA）
 
 ### S14E08
 
 Lily Sunders念咒语复活Jack：
 
-> （oh-doh oh oh-zah-zuhm-ah）
+> ODO OZAZM（oh-doh-oh oh-zah-zuhm-ah）
 >
-> （oh-ee, ah-oh-ee-vee）
+> OI AAO VIV（oh-ee, ah-oh ee-vee）
 >
-> （...oh oh, oh-doh...）
+> ODO（...oh oh, oh-doh...）
 
-翻译（自译）：TBA
+翻译（自译）：“open, make, this amongst second... open...”
 
 Jack念的咒语燃烧灵魂变成grace：
 
-> （oh, koh-nuh-ga-ma fuh-luh-guh）
+> O GONO CAMMAH OLLOG（oh, koh-nuh ga-ma fuh-luh-guh）
 >
-> （ah-oh-ee-vee-ah-ee）
+> AAO VIV OI（ah-oh ee-vee ah-ee）
 >
-> （ee-duh-luh-vah）
+> IAD VAUL（ee-duh luh-vah）
 >
-> （oh-ee-vee-ah-ee）
+> VI-VI-LV（oh-ee-vee-ah-ee）
 >
-> （ee-duh-luh-vah-juh-ah-um kah-dah）
+> IAD VAUL DLUGAM（ee-duh luh-vah juh-ah-um kah-dah）
 
-翻译（自译）：TBA
+翻译（自译）：
+
+> faith trussed men
+>
+> amongst second this
+>
+> god work
+>
+> second angle
+>
+> god work given
 
 ### S14E12
 
-Man carve Enochian on victim's body
+Man carve Enochian on victim's body（图片TBA），字样：
 
-（图片TBA）
+> ZIRDO LOGAE H...
 
 翻译（according to Sam）：“I am the Word”
 
-翻译（自译）：TBA
+翻译（自译）：“I am (?)”
 
 <br>
 
-Tony's tattoo
+Sam展示给黑化先知家属的图（图片TBA）、Tony's tattoo（图片TBA），字样：
 
-（图片TBA）
+> RTOAGAOL
 
 翻译（according to Sam）：“The Word”
 
@@ -851,13 +869,13 @@ Tony's tattoo
 
 Donatello's words in coma：
 
-> （boh ray, kah lah teh nee hoh）
+> BRIN CACRG NOROMI（boh ray, kah lah teh nee hoh）
 >
-> （rah may, lah ray kee doh）
+> RSAM L LONDOH （rah may, lah ray kee doh）
 
 翻译（according to Castiel）：“I will strike down the firstborn in the land of Egypt. I will execute judgement.”
 
-翻译（自译）：TBA
+翻译（自译）：“have until sons, admiration first kingdoms”
 
 ### S15E03
 
@@ -883,11 +901,15 @@ Donatello's words in coma：
 
 Cass念咒语制作攻击Chuck的武器，taking the Mark of Cain：
 
-> （zee loh-dah-rup ah-lahr zee-zohp）
+> Z LONDOH ALAR ZIZOP（zee loh-dah-rup ah-lahr zee-zohp）
 >
-> （ah-bah-rah-muh-jzh ahm-ee-zuh-pee）
+> ABARAMIG AMIPZI（ah-bah-rah-muh-jzh ahm-ee-zuh-pee）
 
-翻译（自译）：TBA
+翻译（自译）：
+
+> the kingdoms settled (in) vessels
+>
+> prepared, fastened
 
 ## Latin spells (angel-related)
 
@@ -950,3 +972,17 @@ Dean念的召唤路西法的咒语：
 > In the name of the great, our Lord Satan,
 >
 > Enter the altar, Lord of Hell
+
+### S13E17
+
+MOL1925年召唤异世界神Yokoth：
+
+> Insanidox Koth Munto
+
+翻译（自译+谷歌）：“insane Yokoth, clean”
+
+Sam开天启世界门：
+
+> Koth Munto Notox
+
+翻译（自译）：“Yokoth, clean, open”
