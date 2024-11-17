@@ -676,6 +676,8 @@ Dean is (transformed to) a squirrel, Sam a moose, Cass a bird, all in the Ice Ag
 
 who did this? Crowley/Gaberiel?
 
+≈151
+
 ### 74.【destiel】S06E20《Superman》
 
 “Superman turns dark”
@@ -1190,4 +1192,30 @@ Cass loves soft warm socks, would love to have new ones for gift every holiday
 
 human Cass? (maybe Metatron used all his grace and none left so he stays human)
 
-### 149.
+### 149.【TFW】S14E20 the world in reverse
+
+Chuck's "boring" AU, mirrored world, space/time/entropy in reverse
+
+### 150.【TFW】S14E20 the world without yellow
+
+Chuck's "boring" AU
+
+perceived yellow or constructive yellow?
+
+human eyes can't received yellow's wavelength or light frequency doesn't exist in yellow's wavelength
+
+### 151.【TFW】S14E20 the world that's all squirrel
+
+Chuck's "boring" AU
+
+≈73
+
+### 152.【destiel】斯坦福监狱实验
+
+丁作为犯人，卡作为狱卒
+
+卡反抗了监狱实验的pattern，选择了帮丁
+
+（灵感来自《So Says the Sword》）
+
+### 153.
