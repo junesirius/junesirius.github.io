@@ -541,7 +541,7 @@ The place spreads and unfolds endlessly, and his body as a human is tiring out a
 
 He can feel cracks of wounds popping up on his face and lips, on the back of his hands, and spreading on every part of the body, like a nut shell right before it gets crushed and explodes into pieces. Blood soaking through the white shirt, he doesn't know how much time he has or how far he can keep going. This whole place, the Heaven, is folding around him, grabbing its child in its embrace like a mother to her new-born child. It is his birth place, but it's not the place he would call home right now, and certainly not the place he wants to stay at this moment. But he also doesn't think he can make it to the portal again.
 
-"Castiel? Is that you?" An angel calls to him from around next corridor. The sound is weak and sick, but picks up sparks of hope at his approach.
+"Castiel? Is that you?" An angel calls to him from around next corridor. The sound is weak and sick and only echoes its existence in his mind, but picks up sparks of hope at his approach.
 
 Cass fights his way towards the call.
 
@@ -557,7 +557,7 @@ Crawling ahead desperately with the last bit of his strength, Cass arrives at th
 
 Pain and grief tears Castiel's heart apart. The last time he felt so powerless and useless is when he has to watch Dean Winchester being tortured and sliced in the Pit while his garrison still has miles of demons to clear. He doesn't quite understand that sensation of worry and fear back then, but after spending near a decade on Earth, he realizes now that the fear is because he's afraid that he may be too late. The same fear comes back now.
 
-"Castiel, I'm glad you are here." Dumah telepaths the words into his mind.
+"Castiel, I'm glad you are here." Dumah sends the words into his mind.
 
 "Why -- what is happening here? What is this?" Cass frowns deeply, ignoring his own wounds cutting deeper and more blood losing from his body.
 
@@ -579,15 +579,15 @@ Castiel doesn't remember much about anything when Lucifer walked him around. The
 
 He managed to find a TV and a place with the best signal in his head -- the bunker kitchen where he shared so many beers and so much laughter and jokes with the Winchesters -- and that's about it. Hours after hours, he just kept his eyes locked on the screen, which is not that different from watching bees. Tiny digital characters moving around on the screen was just like bees flying, even the buzzing sounds were familiar. Castiel didn't really mind if he had to watch them for eons without doing anything.
 
-But then he does start to remember that day when Lucifer visited the Heaven. The same day that the Darkness visited. The little TV he held close to his chest had worse signal than ever, images froze a lot, sound track was terribly delayed. It wasn't an easy day inside his own brain, but he decided he didn't really want to know what's happening out there. So he stayed in there, just staring at the snowy laggy TV screen.
+But then he does start to remember that day when Lucifer visited the Heaven. The same day the Darkness visited. The little TV he held close to his chest had worse signal than ever, images froze a lot, sound track was terribly delayed. It wasn't an easy day inside his own brain, but he decided he didn't really want to know what was happening out there. So he stayed in there, just staring at the snowy laggy TV screen.
 
 And then, it happened.
 
-The table was shaking, cabinets and shelves slipping around on the kitchen floor, crashing against the wall and falling to the ground. All the cups and glasses and things shattered to pieces. Cracks showed up on the luminous screen, fragments of glass shattering everywhere. He was afraid the TV might explode, and if does, how would he kill the rest of the time he'd spent in here -- which is probably, possibly, *forever*.
+The table was shaking, cabinets and shelves slipping around on the kitchen floor, crashing against the wall and falling to the ground. All the cups and glasses and things shattered to pieces. Cracks showed up on the luminous screen, fragments of glass shattering everywhere. He was afraid the TV might explode, and he briefly wondered, if it does break, how would he kill the rest of the time he'd spent in here -- which is probably, possibly, *forever*.
 
-And then all the lights went out completely at the same time. The whole room fell into pure darkness, and the floor just continued shaking like it's an earthquake. The gravity direction shifted quickly, changing from downwards to sidewards then upwards. Cass got thrown across room, hitting the wall next to the door, and then got mercilessly thrown onto the ceiling of the room, crashing onto the ceiling lamp by his back bone, feeling glass and metals stabbed into his skin, and finally ended up with all fours on the ground again, bloodied and motion-sickened.
+And then all the lights went out completely at the same time. The whole room fell into pure darkness, and the floor just continued shaking like an earthquake. The gravity direction shifted quickly, changing from downwards to sidewards then upwards. Cass got thrown across room, hitting the wall next to the door, and then got mercilessly thrown onto the ceiling of the room, crashing onto the ceiling lamp by his back bone, feeling glass and metals stabbed into his skin, and finally ended up with all fours on the ground again, bloodied and motion-sickened.
 
-He sort of expected Lucifer might show up after that, bragging about what he did today, his cocky voice floating around. But no, the Devil didn't show that day. Actually he didn't even see him for quite a while after that. Lucifer must be busy, busy saving the world, he hoped, but even if he didn't keep his promise, Castiel was sure Sam and Dean would figure something out. They always do, and Castiel only hope this archangel weapon he secured by his body could make that task easier for them.
+He sort of expected Lucifer might show up after that, bragging about what he did today, his cocky voice floating around, filling the space. But no, the Devil didn't show that day. Actually he didn't even see him for quite a while after that. Lucifer must be busy, busy saving the world as he promised, Castiel distantly hoped, but even if he didn't keep his promise, he was sure Sam and Dean would figure something out. They always do, and Castiel only hope this archangel weapon he secured by his body could make that task easier for them.
 
 Castiel didn't connect the dots together then, but he does now. That incident of mere seconds, must be the exact time when the Darkness invaded the Heaven and blew everyone up, Lucifer included.
 
@@ -607,7 +607,7 @@ And then she starts chanting, breathlessly, like the dying song of a thorn bird,
 
 "I wish I share your belief." Cass murmurs sadly, "But I'm sorry, I'm dying too, I don't even think I can leave this place any more than you do."
 
-Dumah *looks through* him with the remaining flicker of her light that is barely there, "You will, Castiel. You are the one starts it all, you will fix this. And quickly, save all the remaining ones before it's too late." Her voice breaks into agonizing scratching sound. If she's in a vessel now, it's like she's choking on blood in her throat.
+Dumah looks *through* him with the remaining flicker of her light that is barely there, "You will, Castiel. You are the one starts it all, you will fix this. And quickly, save all the remaining ones before it's too late." Her voice breaks into agonizing scratching sound. If she's in a vessel now, it's like she's choking on blood in her throat.
 
 Castiel senses two forces pushing at him at this very same moment as she stops speaking. The Heaven unleashes ever more power onto him, undeniably irresistibly drawing him in. Castiel can see the space and dimension around them get twisted so contorted that the exit is just like the pinpoint in the eye of a furious hurricane. And Dumah, explodes from the very last peck of power she has left in the center of the light, the wave throws Castiel across the corridor that was never really a corridor and hustles him out towards the gate. He falls right through the portal.
 
@@ -689,9 +689,9 @@ Sam answers enthusiastically, "Martin Luther King Jr., guy is a legend, like Gan
 
 "And that's connected to our problem how?" Dean frowns, letting go for once to not mock at Sam's obsession with these historical figures that he can never understand.
 
-"I'm thinking," Sam grooms through his idea, "if ABD is a symptom when angels get in too close contact with darkness, and angels' true forms are like flowing lights, then it's practically *literally* saying 'Light is getting consumed by the Darkness'. With the opposite of light -- the absence of light -- in their system, angels can't recover, that's why they're dying, and eventually all lights gone and they end up dead. It sort of makes sense."
+"I'm thinking," Sam grooms through his thoughts, "if ABD is a symptom when angels get in too close contact with darkness, and angels' true forms are like flowing lights, then it's practically *literally* saying 'Light is getting consumed by the Darkness'. With the opposite of light -- the absence of light -- in their system, angels can't recover, that's why they're dying, and eventually all lights gone and they end up dead. It sort of makes sense."
 
-"And the cure is... giving them more light?" Dean catches up, connecting the lines and dots.
+"And so the cure is... giving them more light?" Dean catches up, connecting the lines and dots.
 
 "Yeah, it's either that or... but I don't think we can get Chuck or Amara back to fix this -- even if we can, to be honest, I don't really want to see them again so soon." Sam ponders, "So the only option is just this --"
 
@@ -707,7 +707,7 @@ Dean blinks once, then goes, "Cass."
 
 Sam turns to Cass, "What?"
 
-Dean eyes Sam, "Seriously?"
+Dean eyes Sam, "Really?"
 
 Cass looks at Dean, "Yes?"
 
@@ -717,19 +717,19 @@ Castiel lowers his head sheepishly, "I'm flattered, Dean. If it's true, I have n
 
 Dean can't help breathing out a short relief, not sure if he should feel glad or sorry for it. He murmurs a quick "Sorry" under his breath.
 
-Sam is still staring at Cass. "Michael?" his brows fly to the sky.
+Sam is still staring at Cass. "Michael?" his tone incredulous.
 
-Cass turns to him to answer, "Yes, as far as I know, Michael is the first-born, strongest and the most powerful among all angels and archangels, I would guess that would also indicate the brightest."
+Cass turns to him to answer, "Yes, as far as I know, Michael is the first archangel God's created, strongest and the most powerful among all angels and archangels, it wouldn't be a surprise if he is also the brightest."
 
-Sam nods but still, "Doesn't Lucifer also have a name called 'Morningstar'? I thought before the Fall, he was believed to be the brightest by many according to the lore. I mean, isn't that's why Michael and Lucifer fight in the first place? Fighting for the title of 'brightest' and 'God's favorite', it's like the Heaven's version of Golden Apple Contest, and Armageddon is exactly like Trojan War."
+Sam nods slightly but still not fully convinced, "Doesn't Lucifer also have a name called 'Morningstar'? I thought before the Fall, he was believed to be the brightest by many according to the lore. I mean, isn't that's why Michael and Lucifer fight in the first place? Fighting for the title of 'brightest' and 'God's favorite', it's like the Heaven's version of Golden Apple Contest, and Armageddon is exactly like Trojan War."
 
 "Jesus, when can we ever break free from these two bastards." Dean whines loudly before Cass can answer, then asks, "Say we have two candidates, what's next?"
 
 "We need them to, uhh --" Sam reads through the small texts below the Enochian line, his brows raises higher if it's even possible, "huh -- give away their light willingly. The cost of purification can take away as much as all the light from the source. And only a determined mind can last long enough to not disrupt the purification process before complete."
 
-Dean steps away from the armchair slowly to lean on the table. "Wait so, let me get this straight, the solution is to let Michael *or* Lucifer to what, willingly sacrifice themselves to save all angels and humans? You ever met those two? Don't think it's gonna happen."
+Dean steps away from the armchair slowly to lean on the table. "Wait so, let me get this straight, the solution is to let Michael *or* Lucifer to -- what? Willingly sacrifice themselves to save all angels and humans? You ever met those two? Don't think it's gonna happen."
 
-Sam thinks about it for a second, "I don't know Dean, I mean, we got God himself -- and Devil,  and Darkness, even Death -- talking to us, and persuaded them to do the right thing, and most of times, they end up listening to us."
+Sam thinks about it for a second, "I don't know Dean, I mean, we got God himself -- and Devil, Darkness, even Death -- talking to us, and persuaded them to do the right thing, and most of times, they end up listening to us."
 
 "We might as well put up a sign in front of the bunker: 'Celestial family drama counseling office', subtitle: 'For free once a year, if it doesn't work, feel free to end the world'. Nice plan, Dr. Phil." Dean waves his hands in the air, gesturing the imaginary signs.
 
@@ -753,7 +753,7 @@ Sam sighs a soft "Yeah" and falls to silence.
 
 Vince Vincente is not having a good day.
 
-The show tonight was actually great, Tommy and the rest of the band were excited, the crowd was noisy. Though honestly, he doesn't see the point of having a regroup for the Ladyheart, he's just doing those old friends a favor.
+The show tonight was actually great, Tommy and the rest of the band were excited, the crowd was loud. Though honestly, he doesn't see the point of having a regroup for the Ladyheart, he's just doing those old friends a favor.
 
 "They are hosting the biggest rock metal festival on the planet and they invited us." Tommy told him on the phone when he was driving half way across the country. He didn't bother to ask who are "they" but just listened.
 
@@ -855,7 +855,7 @@ M/L deciding not saving angels: There is no darkness without light, so if they'r
 
 ### Chapter 9: King's Cross
 
-**(outline: to stop Michael/Lucifer and save Cass/Heaven, Sam/Dean says yes, get dirty, take back control, sacrifice each other; Cass go to find them, try to save them again, find in King's Cross like in HP, one way to heaven/John/Mary, one way to earth/Cass, choose Cass and back)**
+**(outline: to stop Michael/Lucifer and save Cass/Heaven, Sam/Dean says yes, get dirty, take back control, sacrifice each other, explodes and kills M/L (in heaven), purifies angels in heaven; Cass go to find them, try to save them again, find in King's Cross like in HP, one way to heaven/John/Mary, one way to earth/Cass, choose Cass and back)**
 
 #### draft notes
 
@@ -868,6 +868,10 @@ Dean: Sonofabitch, yes! I say, yes!
 Cass: Dean, don't!
 
 Dean: I have to, I can't let you die, I just can't.
+
+<br>
+
+The Sam/Dean stabbing happens in heaven, after Michael/Lucifer flies to heaven together. So when they stab, the purification happens only on heaven, explains why Cass is not cured.
 
 <br>
 
@@ -884,6 +888,12 @@ Dean: You fixed me so many times, it's my turn now.
 ### Epilogue: Inherit the World
 
 **(outline: heaven in their command, earth seems fine, TFW go to beach finally, with matching shirts and toes in the sands like Dean always imagined)**
+
+<br>
+
+### Bonus: Jellyfish
+
+**(explicit content)**
 
 <br>
 
