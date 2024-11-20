@@ -5,7 +5,7 @@ date: 2024-11-18 09:04
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
 tags: ["Supernatural", "destiel", "读后感"]
-pov: 第三人称
+pov: 第一人称视角
 origin: 空间
 ---
 
