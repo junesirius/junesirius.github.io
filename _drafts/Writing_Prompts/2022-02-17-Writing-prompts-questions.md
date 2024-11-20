@@ -3522,6 +3522,47 @@ A: Dean, B: Sam, C: Castiel, D: Jack, E: Claire
 
 ## X
 
+### 戏剧模式36种
+
+（19世纪戏剧家乔治·普罗蒂提出的“36种戏剧模式”理论）
+
+1. Supplication (哀求、恳求、祈愿)
+2. Deliverance（释放、意见、判决）
+3. Vengeance of a crime（复仇）
+4. Vengeance taken for kindred upon kindred（家族之间的复仇）
+5. Pursuit（追击）
+6. Disaster（灾难、天灾、灾祸）
+7. Falling prey to cruelty or misfortune（陷入残忍不幸的折磨之中）
+8. Revolt （反抗、起义、反叛）
+9. Daring enterprise（大胆的计划）
+10. Abduction （诱拐、诱导）
+11. The Enigma （迷、不可思议的东西）
+12. Obtaining （获得）
+13. Enmity of kinsmen （同族之间的敌意）
+14. Rivalry of kinsmen（同族之间的竞争）
+15. Murderous adultery（危险的通奸行为）
+16. Madness（疯狂、愚蠢的行为）
+17. Fatal imprudence （致命的轻率行为）
+18. Involuntary crimes of love（不自觉的陷入罪恶的爱）
+19. Slaying of a kinsman unrecognised （承认杀害同族者）
+20. Self-sacrificing for an ideal （为理想献身）
+21. Self-sacrifice for kindred（为族人献身）
+22. All sacrificed for a passion （为激情供奉一切）
+23. Necessity of sacrificing loved ones （为所爱的人献身）
+24. Rivalry of superior and inferior （上下级之间的竞争）
+25. Adultery （通奸）
+26. Crimes of love （罪恶的爱）
+27. Discovery of the dishonour of a loved one（被自己爱的人拒绝）
+28. Obstacles to love（爱情的阻碍）
+29. An enemy loved （对敌人的爱）
+30. Ambition （野心）
+31. Conflict with a god （与神冲突）
+32. Mistaken jealousy （错误的嫉妒）
+33. Erroneous judgement （错误的判断）
+34. Remorse（懊悔、自责、同情、怜悯）
+35. Recovery of a lost one（寻找到寻找中的人）
+36. Loss of loved ones（失去爱人）
+
 ### 细微的表情14题
 
 1. 假笑被看穿
