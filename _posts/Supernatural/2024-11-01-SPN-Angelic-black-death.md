@@ -7,6 +7,7 @@ characters: ["Castiel", "Dean Winchester", "Sam Winchester", "Michael", "Lucifer
 tags: ["Supernatural", "destiel", "michifer", "温家兄弟", "英文"]
 pov: 第三人称
 origin: AO3
+published: fa
 ---
 
 (Note: post-S11E23 timeline, minus British Men of Letters and Mary. It starts as a one-shot idea, but then get stretched up -- it stretched itself up to full length -- and ends up turning into practically a complete S12 rewrite. I didn't see that coming either.)
