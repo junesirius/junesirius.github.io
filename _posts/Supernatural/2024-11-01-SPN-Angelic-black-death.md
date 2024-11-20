@@ -109,7 +109,7 @@ Dean gives him a glance, not at all guilty of not thinking straight, "Good idea.
 
 He turns the door knob, and the door opens obediently. Dean deliberately ignores Sam's look on the back of his head.
 
-Cass is in the room, sitting by his clean and clearly not-slept-on bed, hands pressed firmly on the temple, eyes shut tight, looking too concentrated that it looks very close to pain.
+Cass is in the room, sitting by his clean unslept-in bed, hands pressed firmly on the temple, eyes shut tight, looking too concentrated that it looks very close to pain.
 
 Dean dashes inside, holding him around the shoulder, shaking slightly, "Hey, hey Cass, buddy, what's wrong? What happened?"
 
@@ -871,7 +871,35 @@ Dean: I have to, I can't let you die, I just can't.
 
 <br>
 
-The Sam/Dean stabbing happens in heaven, after Michael/Lucifer flies to heaven together. So when they stab, the purification happens only on heaven, explains why Cass is not cured.
+(The Sam/Dean stabbing happens in heaven, after Michael/Lucifer flies to heaven together. So when they stab, the purification happens only on heaven, explains why Cass is not cured.)
+
+<br>
+
+Cass: Dean, don’t. I didn’t ask for you to do this. I would never.
+
+Dean: You don’t need to, I offered.
+
+Cass: And Sam’s life too? You can’t ask this of him.
+
+Sam: He didn’t. Dean’s right, you’re family, we do everything for our family, whatever it takes.
+
+Dean squeeze a smile: Hey don’t be a damper, we might win, you know. Sammy beats Lucifer once, who said we can’t do it again, both of us, together.
+
+Cass: Michael and Lucifer won’t allow a second times, it’s near zero chance.
+
+Sam: Near zero,  not absolute zero. We still have chance.
+
+Dean: Don’t worry, everything will be fine. Just take a nap, we’ll probably be back before you know it.
+
+Cass: Or you can be gone for good, you won’t even be in Heaven.
+
+Dean: Let’s not think about that for now, okay? Besides, I heard Heaven isn’t a paradise with lullaby, don’t think I’m a big fan anyway.
+
+Dean pats his shoulder, staying there for a few minutes. They just look at each other in silence for several extended seconds. And Dean departs.
+
+When Dean is at the door, Cass says behind him, quietly: Come back to me, please.
+
+Dean pauses and nods briefly but didn’t look back. He’s afraid he might not have the courage again to walk out of that room if he did.
 
 <br>
 
@@ -924,3 +952,35 @@ Dean: Yeah, not like you can ever forget easily.
 What he means is *I hate to see you suffer*, but he doesn’t say it.
 
 (The headache is just the first symptom of infection, they just didn’t know yet)
+
+<br>
+
+Castiel coughs. Once. Then twice. At the third times, Dean’s brows arch. Castiel wants to pretend it’s just a normal clearing of throat, but obviously not very successful.
+
+Dean: You got a cold or something?
+
+His eyes scrutinize up and down his shirt and suit jacket along with the trench coat.
+
+Dean: Those clothes, too hot, too cold, want the AC on?
+
+His tone is not unkind, but Castiel is uneasy.
+
+Cass: Temperature does not concern me.
+
+He hesitates, silently suppress another round of urge to cough again. Dean does not miss that, the twist in his brows deepens.
+
+Dean: You sure about that? That looks exactly like the cold Sammy used to have every year around fall winter time.
+
+Cass manages to get his breathes right: I’m fine.
+
+Sam comes in: Is everything ok?
+
+Cass: Yes, Dean and I were just talking about how ailing you were as a child.
+
+Sam shoots a questioning look at Dean: That’s not true. I ran a lot so I don’t get sick and he’s the one that whines a lot.
+
+Dean: I don’t whine.
+
+Sam: Uh no offense, but yes you do.
+
+Cass quietly slips out of the room and leaves them arguing.
