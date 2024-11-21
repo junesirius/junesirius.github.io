@@ -51,6 +51,10 @@ jobs:
         shell: sh
         if: runner.os == 'Linux'
         run: |
+          chmod -c -R +rX "$INPUT_PATH" |
+          while read line; do
+            echo "::warning title=Invalid file permissions automatically fixed::$line"
+          done
           echo ::group::Archive artifact
           tar \
             --dereference --hard-dereference \
