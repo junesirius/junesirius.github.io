@@ -31,6 +31,6 @@ exclude:
   - "pre-commit.sh"
   - "*.bak"
   - "*whole-novel.md"
-  - "assets/images/*/"
+  - "assets/images/**/*"
 
 permalink: /:year/:month/:day/:title
