@@ -23,5 +23,5 @@ origin: 名人朋友圈
 
 （一半上帝视角一半老蛇视角
 
-<br>
-![](/assets/images/mrpyq/2020-05-13-CA-Tear-of-demon.jpg)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-13-CA-Tear-of-demon.jpg)

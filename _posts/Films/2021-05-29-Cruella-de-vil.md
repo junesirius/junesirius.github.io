@@ -82,7 +82,7 @@ origin: 个站
 于是她遇到了新的朋友，而这两位朋友，就是她新的家庭。但是对他们两人来说，他们从一开始遇见的，就是Estella。于是这也解释了为了在结局的葬礼时，他们会这么难过，因为他们确实告别了他们曾经熟悉的、一起长大的那个Estella，而除了他们的记忆，Estella仿佛从未真实存在过一般，被Cruella彻底替代，就像蛇褪下的一层空壳，而他们埋葬了这层温和漂亮的外壳。
 
 <br><br>
-![](/assets/images/Cruella/1.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/1.png)
 <br>
 
 很喜欢这里时间跳转时运用的镜头转换方式。趁着染发的一个低头一个抬头，直接变成了十年后。其实很难想象三个流浪小孩是怎么做到互相支持着拉扯着长大，但仍然很庆幸他们长大了，哪怕靠偷靠各种不见光的方法。但对他们来说，活着就已经很好了。
@@ -90,11 +90,11 @@ origin: 个站
 这个镜头切换过来之后第一眼看到的石头姐可真是漂亮。明明只是非常plain的模样，没有太多的妆容服饰修饰，但仍然能看出美，大概是那双眼睛灵动到带起了所有的生命力吧。
 
 <br><br>
-![](/assets/images/Cruella/2-1.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/2-1.png)
 <br>
-![](/assets/images/Cruella/2-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/2-2.png)
 <br>
-![](/assets/images/Cruella/2-3.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/2-3.png)
 <br>
 
 虽然生活艰难，他们居然也形成了一条有模有样的犯罪流水线：设计-偷盗-设计-偷盗-……就像Cruella自己说的“能做自己喜欢的事，还能赚钱”，生活其实也挺不错的。
@@ -115,10 +115,10 @@ origin: 个站
 
 直到希望被现实浇灭。只是作为一个梦想天堂的清洁工都没法继续在这个地方呆下去。这个时候就需要一些戏剧化的、童话般的机遇来助她一臂之力了。
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/4-1.png)
 <br>
-![](/assets/images/Cruella/4-1.png)
-<br>
-![](/assets/images/Cruella/4-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/4-2.png)
 <br>
 
 特别喜欢她握着酒瓶看着橱窗里的模特时说的那两句话：
@@ -139,10 +139,10 @@ origin: 个站
 
 当事业、生活、梦想都仿佛慢慢走上正轨，当Estella的脸上开始出现笑容，残忍的现实才仿佛终于完成了所有的铺垫，拉开了真相的序幕。这真相，过于血淋淋。
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/9-1.png)
 <br>
-![](/assets/images/Cruella/9-1.png)
-<br>
-![](/assets/images/Cruella/9-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/9-2.png)
 <br>
 
 男爵夫人对她母亲的不屑，轻飘的只言片语，无心的侮辱，这是刺痛和扎醒Cruella的第一刀。她尊敬男爵夫人，爱戴她，就像她寄托了女孩所有关于理想和才华的幻想。但这一切的前提，是绝不能触碰她的伤口。关于母亲，关于爱，关于童年的痛苦和内疚，关于失去和不幸，这种痛是远在才华、理想、事业这些东西之上的。
@@ -155,22 +155,22 @@ origin: 个站
 
 ### Cruella的华丽出场
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/10-1.png)
 <br>
-![](/assets/images/Cruella/10-1.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/10-2.png)
 <br>
-![](/assets/images/Cruella/10-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/10-3.png)
 <br>
-![](/assets/images/Cruella/10-3.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/10-4.png)
 <br>
-![](/assets/images/Cruella/10-4.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/10-5.png)
 <br>
-![](/assets/images/Cruella/10-5.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/10-6.png)
 <br>
-![](/assets/images/Cruella/10-6.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/10-7.png)
 <br>
-![](/assets/images/Cruella/10-7.png)
-<br>
-![](/assets/images/Cruella/10-8.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/10-8.png)
 <br>
 
 Cruella的第一次正式登场就惊艳非凡，虽然在反反复复的预告片里已经看到过无数遍，仍然觉得百看不厌。一把火点燃纯白兜帽，殷红、疯狂、华丽的内里扑面而来，从火中诞生，像一只新生的火凤凰。这把火，仿佛也烧尽了她曾经的外壳，曾经的甜美伪装，这是Estella退场的信号，是Cruella挣脱束缚，开始肆意放纵自己的才华，把整个世界踩在脚下的开端。
@@ -183,10 +183,10 @@ PS：在二刷的时候才注意到，她用以作为兜帽的布料，那个在
 
 PPS：这大片的红色，镜头和服饰的色彩运用美丽到让人窒息，真真切切地感受到了“美”这种虚无的概念有了实体，能让人产生物理的窒息感，真的像文字里常常写的那样，“被这种过分惊艳的美攫住了呼吸”。这部电影里所有的时尚设计，绝对是奥斯卡级别的了，绝对打赌明年的奥斯卡里有它。迪士尼爸爸果然永远是你大爷，好莱坞第一把交椅的地位屹立不倒。
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/10-9.png)
 <br>
-![](/assets/images/Cruella/10-9.png)
-<br>
-![](/assets/images/Cruella/10-10.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/10-10.png)
 <br>
 
 > They say there are five stages of grief: denial, anger, bargaining, depression, and acceptance.
@@ -199,16 +199,16 @@ PPS：这大片的红色，镜头和服饰的色彩运用美丽到让人窒息�
 
 ### 舆论力量的作用
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-1-1.png)
 <br>
-![](/assets/images/Cruella/13-1-1.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-1-2.png)
 <br>
-![](/assets/images/Cruella/13-1-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-1-3.png)
 <br>
-![](/assets/images/Cruella/13-1-3.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-1-4.png)
 <br>
-![](/assets/images/Cruella/13-1-4.png)
-<br>
-![](/assets/images/Cruella/13-1-5.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-1-5.png)
 <br>
 
 同Anita合作大概是Cruella最聪明的决策（之一）了。
@@ -221,14 +221,14 @@ PS：这一段石头姐的表演其实平心而论，总觉得有些过分浮夸
 
 ### 复仇宣言
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/14-1.png)
 <br>
-![](/assets/images/Cruella/14-1.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/14-2.png)
 <br>
-![](/assets/images/Cruella/14-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/14-3.png)
 <br>
-![](/assets/images/Cruella/14-3.png)
-<br>
-![](/assets/images/Cruella/14-4.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/14-4.png)
 <br>
 
 > I was going to take the things she loved most.
@@ -249,16 +249,16 @@ Cruella的复仇宣言。莫名特别喜欢，就单独截出来了。
 
 ### 火的意象
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/17-1.png)
 <br>
-![](/assets/images/Cruella/17-1.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/17-2.png)
 <br>
-![](/assets/images/Cruella/17-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/17-3.png)
 <br>
-![](/assets/images/Cruella/17-3.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/17-4.png)
 <br>
-![](/assets/images/Cruella/17-4.png)
-<br>
-![](/assets/images/Cruella/17-5.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/17-5.png)
 <br>
 
 哭了。
@@ -273,22 +273,22 @@ Cruella，在火焰中诞生，在火焰中灭亡。
 
 ### 结局
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/19-1.png)
 <br>
-![](/assets/images/Cruella/19-1.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/19-2.png)
 <br>
-![](/assets/images/Cruella/19-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/19-3.png)
 <br>
-![](/assets/images/Cruella/19-3.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/19-4.png)
 <br>
-![](/assets/images/Cruella/19-4.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/19-5.png)
 <br>
-![](/assets/images/Cruella/19-5.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/19-6.png)
 <br>
-![](/assets/images/Cruella/19-6.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/19-7.png)
 <br>
-![](/assets/images/Cruella/19-7.png)
-<br>
-![](/assets/images/Cruella/19-8.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/19-8.png)
 <br>
 
 > Estella would die like her mother did, but not quite.
@@ -333,10 +333,10 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 
 第二次是Jasper给她弄到了Liberty百货的录取通知书，她的人生仿佛终于出现了转机。
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/3-1-1.png)
 <br>
-![](/assets/images/Cruella/3-1-1.png)
-<br>
-![](/assets/images/Cruella/3-1-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/3-1-2.png)
 <br>
 
 > Mom, I got my chance. The one I always wanted.
@@ -351,18 +351,18 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 
 第三次，她的设计作品得到了男爵夫人的肯定。她骄傲地带着画册跑到喷泉边，就像每一个希望得到父母称赞的小孩。
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/3-2-1.png)
 <br>
-![](/assets/images/Cruella/3-2-1.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/3-2-2.png)
 <br>
-![](/assets/images/Cruella/3-2-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/3-2-3.png)
 <br>
-![](/assets/images/Cruella/3-2-3.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/3-2-4.png)
 <br>
-![](/assets/images/Cruella/3-2-4.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/3-2-5.png)
 <br>
-![](/assets/images/Cruella/3-2-5.png)
-<br>
-![](/assets/images/Cruella/3-2-6.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/3-2-6.png)
 <br>
 
 > I made this.
@@ -383,20 +383,20 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 
 第五次，也是最后一次。知道了自己的身世，知道了真相，彻彻底底变回了Cruella。
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/3-3-1.png)
 <br>
-![](/assets/images/Cruella/3-3-1.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/3-3-2.png)
 <br>
-![](/assets/images/Cruella/3-3-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/3-3-3.png)
 <br>
-![](/assets/images/Cruella/3-3-3.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/3-3-4.png)
 <br>
-![](/assets/images/Cruella/3-3-4.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/3-3-5.png)
 <br>
-![](/assets/images/Cruella/3-3-5.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/3-3-6.png)
 <br>
-![](/assets/images/Cruella/3-3-6.png)
-<br>
-![](/assets/images/Cruella/3-3-7.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/3-3-7.png)
 <br>
 
 > This was a confusing day.
@@ -435,14 +435,14 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 
 从最初出场时的人物特性，到后期越来越暴露本性的残忍，也可以看出一条人物曲线（character curve）。尽管，严格来说，如果联系几十年前想要杀死自己亲生女儿和为了自己身份权力不惜杀了无数挡路的人这一点来看，男爵夫人大概从来都是那样的一个人，从未变过。就像她自己说的，“我们可以像毁了其他人那样毁了她”，所以后期的那种残忍状态，或许才是她的常态罢了。
 
-<br>
-![](/assets/images/Cruella/5-1.png)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/5-1.png)
 <br>
 
 第一次出场。经典的拍摄手法，从刚刚下车的一双高跟鞋开始拍起，镜头向上移动营造出一种咄咄逼人的气场，加上周围人的紧张等待阵势，没有记错的话《穿普拉达的女王》里也是类似的入场了。
 
-<br>
-![](/assets/images/Cruella/5-2.png)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/5-2.png)
 <br>
 
 不小心把她的手腕割破却指着一抹殷红想要找同样的颜色作为自己设计中的用色。Cruel，没有同理心，为了自己事业不择手段，但是对于艺术执着到疯狂，这种残忍在被应用到创造上时又显得那么难得而可贵（如果不对周围人造成伤害就更好了），所以自带一种疯狂的吸引力，让人一边害怕憎恶，一边又不由自主地敬佩仰慕，甚至如果她不是那么黑化，也真的让人非常愿意跟随在她的身边了。
@@ -451,10 +451,10 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 
 但是可惜假设不成立，这里有一条线，一条不能伤害别人的线，如果跨过了这条线，这种痴狂就变成了过分的残忍，变成了罪恶。
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/5-3.png)
 <br>
-![](/assets/images/Cruella/5-3.png)
-<br>
-![](/assets/images/Cruella/5-4.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/5-4.png)
 <br>
 
 这一段乍一眼看起来单纯只以为就像《穿普拉达的女王》里那样，反应了男爵夫人多么不重视人，不尊重才华，对天才的Estella只像个女仆一般指使，还挑剔到简直让人难以忍受，但看到后面那句“Finally, someone competent”，才终于有点理解，这或许是一种考验，看一个人是不是真的能做事，会做事，知道怎么把一件事做到极致。
@@ -463,8 +463,8 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 
 从Estella视角，她看见了男爵夫人是怎么一个人怼走两个百货商店装模作样的管事。两人都在对方身上看到了自己喜爱的、尊重的特性，但事实上，倒更像是两人都从对方身上看到了更多的自己，或者自己想要成为的模样，都是同一种强势的、完美的、对艺术追求到极致的模样。就像某一条评论里说的，这部电影“all in the name of female enpowerment”，或许这也是这部电影特别吸引到我的又一个原因吧。
 
-<br>
-![](/assets/images/Cruella/5-5.png)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/5-5.png)
 <br>
 
 在车后座上时假装无意的提点，在专业问题上突然非常平易近人，又很有《穿普拉达的女王》既视感了。但下一个细节又是她随手把吃完的午餐盒扔出窗外，只要一个镜头、一秒就能描摹出她的粗鲁，对她好不容易涨起来的好感度又唰地掉了回去。
@@ -475,8 +475,8 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 
 虽然不都正确（其实大部分非常偏颇极端），但仍然不可否认它们很多都非常有价值，有一种很傲慢的提点作用。而傲慢这种东西，正是我在某种程度上非常需要的、可以用来平衡我心底那种low self-esteem的东西，也是我在现在生活的环境里常常看到却又仍然没法习惯和适应的东西。
 
-<br>
-![](/assets/images/Cruella/11-1.png)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/11-1.png)
 <br>
 
 > If you need to talk about power, you don't have it.
@@ -487,8 +487,8 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 
 要治一个傲慢的人，只有用更傲慢的方式吸引她的注意。
 
-<br>
-![](/assets/images/Cruella/11-2.png)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/11-2.png)
 <br>
 
 > Gratitude is for losers.
@@ -501,10 +501,10 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 
 不要对别人说“Thank you”，因为你需要用一种“能听到你的讲演是他们的幸运”的态度，而这种态度，究竟该被称作自信还是傲慢其实已经很难界定了。
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/11-3-1.png)
 <br>
-![](/assets/images/Cruella/11-3-1.png)
-<br>
-![](/assets/images/Cruella/11-3-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/11-3-2.png)
 <br>
 
 > Really, you can own the alley?
@@ -517,20 +517,20 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 
 没有什么是他们不能占有的。所以被雇佣时，几乎也像是被买走了灵魂。只有非常非常小心，才能把自己的灵魂从他们手里夺回来，保护起来。
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/11-4-1.png)
 <br>
-![](/assets/images/Cruella/11-4-1.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/11-4-2.png)
 <br>
-![](/assets/images/Cruella/11-4-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/11-4-3.png)
 <br>
-![](/assets/images/Cruella/11-4-3.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/11-4-4.png)
 <br>
-![](/assets/images/Cruella/11-4-4.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/11-4-5.png)
 <br>
-![](/assets/images/Cruella/11-4-5.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/11-4-6.png)
 <br>
-![](/assets/images/Cruella/11-4-6.png)
-<br>
-![](/assets/images/Cruella/11-4-7.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/11-4-7.png)
 <br>
 
 > Here is to me.
@@ -551,38 +551,38 @@ Cruella的性格注定了她的命运将是疯狂、悲剧但精彩的，她的�
 
 ### 一些很好看的时装设计图
 
-<br>
-![](/assets/images/Cruella/7-1.png)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/7-1.png)
 <br>
 
 这是男爵夫人在车上给她无心指点时她正在画的设计图。
 
-<br>
-![](/assets/images/Cruella/7-2.png)
-<br>
-![](/assets/images/Cruella/7-3.png)
 <br><br>
-![](/assets/images/Cruella/7-4.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/7-2.png)
+<br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/7-3.png)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/7-4.png)
 <br>
 
 这张让她获得了男爵夫人“I think you are... something”的赞誉，让女孩骄傲地跑到母亲（的象征）面前去微笑着展示：“看，这是我设计的。”
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/7-5.png)
 <br>
-![](/assets/images/Cruella/7-5.png)
-<br>
-![](/assets/images/Cruella/7-6.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/7-6.png)
 <br>
 
 这张是她的代表作，连男爵夫人都被这件的美丽而折服：“I did it again.”金色的点缀，夺目的闪光，让男爵夫人甚至不惜用保鲜库来珍藏这份美丽，直到……没有人能想到，这美丽背后还酝酿着更庞大的计划。
 
 ### Artie
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/6-1.png)
 <br>
-![](/assets/images/Cruella/6-1.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/6-2.png)
 <br>
-![](/assets/images/Cruella/6-2.png)
-<br>
-![](/assets/images/Cruella/6-3.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/6-3.png)
 <br>
 
 又是一个非常有意思的人物，对艺术的品味与Cruella如出一辙。同样的疯狂，热忱，标新立异，不在乎世人的眼神。
@@ -627,14 +627,14 @@ Artie之于Cruella大概就是这种一眼投缘的朋友吧，毕竟他们的�
 
 ### 关于朋友
 
-<br>
-![](/assets/images/Cruella/8-1.png)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/8-1.png)
 <br>
 
 朋友，就是那个知道你伤心难过的时候会去哪里默默流泪的人。
 
-<br>
-![](/assets/images/Cruella/8-2.png)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/8-2.png)
 <br>
 
 > After what we all have done for her, what happened to that cute little girl crying on the bench?
@@ -651,18 +651,18 @@ Artie之于Cruella大概就是这种一眼投缘的朋友吧，毕竟他们的�
 
 ### Buddy的眼神
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/12-1.png)
 <br>
-![](/assets/images/Cruella/12-1.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/12-2.png)
 <br>
-![](/assets/images/Cruella/12-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/12-3.png)
 <br>
-![](/assets/images/Cruella/12-3.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/12-4.png)
 <br>
-![](/assets/images/Cruella/12-4.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/12-5.png)
 <br>
-![](/assets/images/Cruella/12-5.png)
-<br>
-![](/assets/images/Cruella/12-6.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/12-6.png)
 <br>
 
 Buddy真的是Cruella从小的朋友啊。在所有重要的时刻，它都在她身边，哪怕被忽视，哪怕Cruella变得无情而残忍，它也一直在那里，用那种受伤的或是关切的眼神望着她。它不会说话，但它的陪伴从未缺失。当Cruella得知男爵夫人杀了自己母亲的时候，当Cruella埋头自己的复仇大计的时候，当Cruella甚至允许男爵夫人的恶犬侵占自己舒服小窝的时候，当盛会结束但Cruella并没有出现在它视野里的时候，当最后一役前夜Cruella独自在阳台沉思远眺的时候……
@@ -679,84 +679,84 @@ Cruella挑衅那男爵夫人时设计的那些着装，用时尚来说话，真�
 
 于是又想起了过去听过看过的各种关于艺术家的故事，当他们看到了极致的美，看到了世间难有的精妙绝伦，然后自惭形秽，知道自己永远达不到那样的高度，甚至觉得自己都不配看到这样的美，自己这双眼睛在看过这样的美之后便再没有遗憾了，于是在光芒四射的天神般的杰作和美本身面前，自残双目，让这种惊世的美成为最后停留在他们视网膜前的存在。当然不是说我会做出这种极端的事，但至少，我也终于能理解他们为什么会做出这样的事了。有些美，确实拥有让人为之癫狂的能力。（虽然这么联想似乎有些破坏前后文意境，但似乎突然意识到了我大概是在哪里看到过这类剧情的，毕竟这种故事剧情在武侠小说中似乎也不算罕见。）
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-2-1.png)
 <br>
-![](/assets/images/Cruella/13-2-1.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-2-2.png)
 <br>
-![](/assets/images/Cruella/13-2-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-2-3.png)
 <br>
-![](/assets/images/Cruella/13-2-3.png)
-<br>
-![](/assets/images/Cruella/13-2-4.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-2-4.png)
 <br>
 
 The Future.
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-3-1.png)
 <br>
-![](/assets/images/Cruella/13-3-1.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-3-2.png)
 <br>
-![](/assets/images/Cruella/13-3-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-3-3.png)
 <br>
-![](/assets/images/Cruella/13-3-3.png)
-<br>
-![](/assets/images/Cruella/13-3-4.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-3-4.png)
 <br>
 
 将男爵夫人踩在脚下。
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-4-1.png)
 <br>
-![](/assets/images/Cruella/13-4-1.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-4-2.png)
 <br>
-![](/assets/images/Cruella/13-4-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-4-3.png)
 <br>
-![](/assets/images/Cruella/13-4-3.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-4-4.png)
 <br>
-![](/assets/images/Cruella/13-4-4.png)
-<br>
-![](/assets/images/Cruella/13-4-5.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-4-5.png)
 <br>
 
 从垃圾车里翻滚出来的裙摆，从裙摆中站起来的Cruella，身上用写满Cruella名字的报纸作为陪衬。一新一旧，极尽嘲讽之意。
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/15-1.png)
 <br>
-![](/assets/images/Cruella/15-1.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/15-2.png)
 <br>
-![](/assets/images/Cruella/15-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/15-3.png)
 <br>
-![](/assets/images/Cruella/15-3.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/15-4.png)
 <br>
-![](/assets/images/Cruella/15-4.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/15-5.png)
 <br>
-![](/assets/images/Cruella/15-5.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/15-6.png)
 <br>
-![](/assets/images/Cruella/15-6.png)
-<br>
-![](/assets/images/Cruella/15-7.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/15-7.png)
 <br>
 
 > It's stunning.
 
 用金蛹织成的衣裳，精美到极致。而在孵化之后仓库里飞出的成群的飞蛾更是精彩到后背发毛，直接把蕴含的深意完完全全揭示出来了，衣服变得残破不堪，仓库里所有其他时装也都被摧毁，但那种孵化，那种变成新的力量，破茧而出，学会飞翔的状态，又一次表达了破坏和新生共存、互相转化的寓意，也正是完美代表了那个时刻Cruella的状态。
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-5-1.png)
 <br>
-![](/assets/images/Cruella/13-5-1.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-5-2.png)
 <br>
-![](/assets/images/Cruella/13-5-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-5-3.png)
 <br>
-![](/assets/images/Cruella/13-5-3.png)
-<br>
-![](/assets/images/Cruella/13-5-4.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-5-4.png)
 <br>
 
 最后的狂欢和挑衅，假装谋害了男爵夫人的爱犬。而这之后，就是Cruella的自食其果了。
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-6.png)
 <br>
-![](/assets/images/Cruella/13-6.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-7.png)
 <br>
-![](/assets/images/Cruella/13-7.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-8.png)
 <br>
-![](/assets/images/Cruella/13-8.png)
-<br>
-![](/assets/images/Cruella/13-9.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/13-9.png)
 <br>
 
 再放几张严格来说不属于这个小标题但是因为石头姐太美所以停不下截图的手所以混进来的图吧。这是另外一些零零散散的Cruella造型。或是在最后一役前的些许迷茫无助，或是在最后一役战场上大仇即将得报的沉着又带了一点小小的狡黠，或是大仇得报后的扬眉吐气，或是在最终一切尘埃落定时的新的希冀和一点点迷茫。The Queen comes home.
@@ -767,12 +767,12 @@ The Future.
 
 ### 关于父母和孩子
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/18-1.png)
 <br>
-![](/assets/images/Cruella/18-1.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/18-2.png)
 <br>
-![](/assets/images/Cruella/18-2.png)
-<br>
-![](/assets/images/Cruella/18-3.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/18-3.png)
 
 > It all makes sense now. That you are so extraordinary. Of course, you are mine.
 >
@@ -854,10 +854,10 @@ Estella VS Cruella：到底哪一个才是她真正的自我？
 
 一切原本可以一直这样保持着表面上的平静美好持续下去，Estella能够被这个世界所接受，甚至连她自己都愿意以Estella的模样生存下去，因为她知道这也是母亲希望看见的她的模样，如果……不是因为真相逼迫她重新直视自己作为Cruella的那一面：
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/16-1.png)
 <br>
-![](/assets/images/Cruella/16-1.png)
-<br>
-![](/assets/images/Cruella/16-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/16-2.png)
 <br>
 
 > Cruella gets things done.
@@ -984,16 +984,16 @@ Anita的个性其实也是从一开始就很鲜明。毕竟在一个所有人都
 
 ### 发现的一些小彩蛋和音乐
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/20-1.png)
 <br>
-![](/assets/images/Cruella/20-1.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/20-2.png)
 <br>
-![](/assets/images/Cruella/20-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/20-3.png)
 <br>
-![](/assets/images/Cruella/20-3.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/20-4.png)
 <br>
-![](/assets/images/Cruella/20-4.png)
-<br>
-![](/assets/images/Cruella/20-5.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/20-5.png)
 <br>
 
 要不是最后一幕Cruella把男爵大宅门上的“Hellman Hall”改成了“Hell Hall”，我说不定还不一定能注意到这个点。
@@ -1060,10 +1060,10 @@ And I smile like a villain.
 
 ### 色彩运用
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/21-1.png)
 <br>
-![](/assets/images/Cruella/21-1.png)
-<br>
-![](/assets/images/Cruella/21-2.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/21-2.png)
 <br>
 
 整部电影主色调都是黑白红，明明只有不多的几种颜色搭配方式，但是被美术组硬是做出了无数个美到极致的画面，形成各种剧烈的视觉冲击，连片尾都不放过。随着石头姐名字出现的画面，这个跌落的画面，这身飘起的红衣，血色，明明有死亡的暗示但丝毫感觉不出绝望或是灭亡这类东西，反而因为飘逸的红色看到了希望，看到生命，不过这生命里也有太多的疼痛，就像生产过程，生与死的交替。
@@ -1082,8 +1082,8 @@ And I smile like a villain.
 
 想要试着用剧本课学过的那些起承转合知识点来套用研究一下这部电影，总感觉在好莱坞电影已经达到如此高工业化的时候，迪士尼电影也大概会是公式化产出了：
 
-<br>
-![](/assets/images/Cruella/three_act_structure.png)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Cruella/three_act_structure.png)
 <br>
 
 - 电影正片（不算片尾和彩蛋）全长124分钟，是非常标准的120页剧本容量了

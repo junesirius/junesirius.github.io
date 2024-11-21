@@ -9,8 +9,7 @@ pov: 第三人称
 origin: 名人朋友圈
 ---
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-13-CA-Uncontrollable-emotion-1.jpg)
 <br>
-![](/assets/images/mrpyq/2020-05-13-CA-Uncontrollable-emotion-1.jpg)
-
-<br>
-![](/assets/images/mrpyq/2020-05-13-CA-Uncontrollable-emotion-2.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-13-CA-Uncontrollable-emotion-2.jpg)

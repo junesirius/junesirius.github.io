@@ -14,8 +14,8 @@ long_novels: 【VO】最好的电影
 
 艺术家V x 刚毕业的大学生O
 
-<br>
-![](/assets/images/lofter/2020-11-15-VO-The-best-film.jpg)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/lofter/2020-11-15-VO-The-best-film.jpg)
 
 （V40出头，一个人带着十多岁的Henry；O刚毕业还没决定自己未来职业方向，学的专业是天文物理，≈皇后乐队的Brian，兼职是酒吧常驻乐队的吉他手）
 

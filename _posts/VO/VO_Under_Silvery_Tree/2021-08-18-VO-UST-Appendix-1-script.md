@@ -8,20 +8,20 @@ tags: ["VO", "剧本"]
 pov: 第三人称
 origin: 2021上海cp29漫展
 long_novels: 【VO】在如银的树下
-description: "<img src='https://junesirius.github.io/assets/images/VO_UST/VO_UST-0.jpg' style='height: 200px; width: auto; object-fit: scale-down;'><img src='https://junesirius.github.io/assets/images/VO_UST/VO_UST-1.jpg' style='height: 200px; width: auto; object-fit: scale-down;'><img src='https://junesirius.github.io/assets/images/VO_UST/VO_UST-2.jpg' style='height: 200px; width: auto; object-fit: scale-down;'><img src='https://junesirius.github.io/assets/images/VO_UST/VO_UST-4.jpg' style='height: 200px; width: auto; object-fit: scale-down;'><img src='https://junesirius.github.io/assets/images/VO_UST/VO_UST-5.jpg' style='height: 200px; width: auto; object-fit: scale-down;'>"
+description: "<img src='https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/VO_UST/VO_UST-0.jpg' style='height: 200px; width: auto; object-fit: scale-down;'><img src='https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/VO_UST/VO_UST-1.jpg' style='height: 200px; width: auto; object-fit: scale-down;'><img src='https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/VO_UST/VO_UST-2.jpg' style='height: 200px; width: auto; object-fit: scale-down;'><img src='https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/VO_UST/VO_UST-4.jpg' style='height: 200px; width: auto; object-fit: scale-down;'><img src='https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/VO_UST/VO_UST-5.jpg' style='height: 200px; width: auto; object-fit: scale-down;'>"
 published: true
 ---
 
+<br><br>
+![UST-0](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/VO_UST/VO_UST-0.jpg)
 <br>
-![](/assets/images/VO_UST/VO_UST-0.jpg)
+![UST-1](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/VO_UST/VO_UST-1.jpg)
 <br>
-![](/assets/images/VO_UST/VO_UST-1.jpg)
+![UST-2](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/VO_UST/VO_UST-2.jpg)
 <br>
-![](/assets/images/VO_UST/VO_UST-2.jpg)
+![UST-3](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/VO_UST/VO_UST-3.jpg)
 <br>
-![](/assets/images/VO_UST/VO_UST-3.jpg)
+![UST-4](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/VO_UST/VO_UST-4.jpg)
 <br>
-![](/assets/images/VO_UST/VO_UST-4.jpg)
-<br>
-![](/assets/images/VO_UST/VO_UST-5.jpg)
+![UST-5](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/VO_UST/VO_UST-5.jpg)
 <br>

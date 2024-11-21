@@ -31,5 +31,5 @@ origin: Lofter
 
 于是大团圆结局：亚梅大婚，两个国家和平。
 
-<br>
-![](/assets/images/lofter/2020-11-22-AM-Foreign-prince.jpg)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/lofter/2020-11-22-AM-Foreign-prince.jpg)

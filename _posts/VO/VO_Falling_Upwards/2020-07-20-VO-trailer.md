@@ -15,8 +15,8 @@ description: (设定：堕天使V x 天使O，好兆头世界观，与CA有联�
 
 （备注：文中主要人物Viggo、Orlando、Aziraphale、Crowley及他们使用的其他名字都用英文，其他人物如上帝、梅塔特隆、加百列、米迦勒等都用中文。）
 
-<br>
-![](/assets/images/lofter/2020-07-20-VO-Falling-upwards.jpg)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/lofter/2020-07-20-VO-Falling-upwards.jpg)
 
 ——————
 

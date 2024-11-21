@@ -11,5 +11,5 @@ origin: 名人朋友圈
 
 （老蛇穿军装混上军舰做手脚
 
-<br>
-![](/assets/images/mrpyq/2020-05-13-CA-Marine-admiral.jpg)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-13-CA-Marine-admiral.jpg)

@@ -13,11 +13,9 @@ origin: 名人朋友圈
 
 （“I don't want to go.”
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-14-CA-Doctor-snake-1.jpg)
 <br>
-![](/assets/images/mrpyq/2020-05-14-CA-Doctor-snake-1.jpg)
-
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-14-CA-Doctor-snake-2.jpg)
 <br>
-![](/assets/images/mrpyq/2020-05-14-CA-Doctor-snake-2.jpg)
-
-<br>
-![](/assets/images/mrpyq/2020-05-14-CA-Doctor-snake-3.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-14-CA-Doctor-snake-3.jpg)

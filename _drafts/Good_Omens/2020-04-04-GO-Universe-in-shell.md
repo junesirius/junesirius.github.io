@@ -11,5 +11,5 @@ origin: 名人朋友圈
 
 （讨论宇宙讨论到饿，这很Aziraphale，然后就开始想吃核桃，然后就完全注意力跑偏
 
-<br>
-![](/assets/images/mrpyq/2020-04-04-Universe-in-shell.jpg)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-04-04-Universe-in-shell.jpg)

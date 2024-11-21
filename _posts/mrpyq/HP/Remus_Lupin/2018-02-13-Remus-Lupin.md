@@ -26,4 +26,4 @@ origin: 名人朋友圈
 更不用说这种被误解被孤立的心情，我血液中流淌的污秽和毒性让我自幼就体验过，而且尚没有完全脱离。这就让我更能切身地想象出他此时暗自神伤时的内心折磨，也拥有了更多去信任的习惯。纵使曾经相信过错的人，纵使曾经付出过失去挚友的痛苦代价，但我总觉得，只有怀疑才是最大的伤害。即使到了最后一刻，我还是会选择相信你，西弗勒斯。
 
 <br><br>
-![](/assets/images/mrpyq/2018-02-13-Remus-Lupin.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2018-02-13-Remus-Lupin.jpg)

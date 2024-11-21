@@ -34,5 +34,5 @@ published: true
 
 HE大团圆结局。
 
-<br>
-![](/assets/images/lofter/2020-12-02-Brolin-Imitation-game-au.jpg)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/lofter/2020-12-02-Brolin-Imitation-game-au.jpg)

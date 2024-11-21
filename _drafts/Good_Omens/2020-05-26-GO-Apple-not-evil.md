@@ -15,5 +15,5 @@ origin: 名人朋友圈
 
 （有种“塞翁失马焉知非福”的感觉）
 
-<br>
-![](/assets/images/mrpyq/2020-05-26-GO-Apple-not-evil.jpg)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-26-GO-Apple-not-evil.jpg)

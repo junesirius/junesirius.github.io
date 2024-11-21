@@ -11,11 +11,9 @@ origin: 名人朋友圈
 
 （模特：天使抱着小耶稣
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-13-CA-Madonna-portrait-1.jpg)
 <br>
-![](/assets/images/mrpyq/2020-05-13-CA-Madonna-portrait-1.jpg)
-
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-13-CA-Madonna-portrait-2.jpg)
 <br>
-![](/assets/images/mrpyq/2020-05-13-CA-Madonna-portrait-2.jpg)
-
-<br>
-![](/assets/images/mrpyq/2020-05-13-CA-Madonna-portrait-3.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-13-CA-Madonna-portrait-3.jpg)

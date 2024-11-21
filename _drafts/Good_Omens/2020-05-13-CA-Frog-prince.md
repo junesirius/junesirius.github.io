@@ -11,5 +11,5 @@ origin: 名人朋友圈
 
 （要亲亲才能变回来
 
-<br>
-![](/assets/images/mrpyq/2020-05-13-CA-Frog-prince.jpg)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-13-CA-Frog-prince.jpg)

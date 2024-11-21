@@ -25,6 +25,12 @@ highlighter: rouge
 markdown: kramdown
 google_analytics: G-7049S50VTD
 
-exclude: ["README.md", "LICENSE", "pre-commit.sh", "*.bak", "*whole-novel.md", "assets/images/SPN"]
+exclude:
+  - "README.md"
+  - "LICENSE"
+  - "pre-commit.sh"
+  - "*.bak"
+  - "*whole-novel.md"
+  - "assets/images/*/"
 
 permalink: /:year/:month/:day/:title

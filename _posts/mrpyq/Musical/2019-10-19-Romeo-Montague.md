@@ -31,4 +31,4 @@ origin: 名人朋友圈
 你的罗密欧
 
 <br><br>
-![](/assets/images/mrpyq/2019-10-19-Lyrics.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2019-10-19-Lyrics.jpg)

@@ -19,11 +19,9 @@ origin: 名人朋友圈
 \*注：为了修bug增加的设定，否则如果宇宙的黑色是地狱所染，而伊甸之蛇在第一次时已堕落，便不存在伊甸之蛇创造星辰这样的情节了，除非……除非这部分星辰本该由地狱负责，征用地狱的新人或囚徒进行苦力劳动，他们被要求打造灰冷苍白一片死寂的白矮星和其他燃烧殆尽化为粉尘的破碎星辰，但伊甸之蛇不肯，他秀美的指尖只能绘出半人马座阿尔法星那样美丽的星辰，即使是以恶魔的身份。
 
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-13-CA-Create-star-1.jpg)
 <br>
-![](/assets/images/mrpyq/2020-05-13-CA-Create-star-1.jpg)
-
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-13-CA-Create-star-2.jpg)
 <br>
-![](/assets/images/mrpyq/2020-05-13-CA-Create-star-2.jpg)
-
-<br>
-![](/assets/images/mrpyq/2020-05-13-CA-Create-star-3.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-13-CA-Create-star-3.jpg)

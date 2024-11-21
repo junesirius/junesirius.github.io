@@ -74,8 +74,8 @@ long_novels: 【VO】摆渡人
 
 第十二章终点前的吻来自《摆渡人》原剧情，结尾处两人的一墙之隔致敬了《神秘博士》的刀玫。（太喜欢那一幕以至于忍不住想放个图↓）
 
-<br>
-![](/assets/images/lofter/2020-11-18-10Rose.jpg)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/lofter/2020-11-18-10Rose.jpg)
 
 <br>
 

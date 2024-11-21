@@ -13,5 +13,5 @@ origin: 名人朋友圈
 
 （天使建桥，死神收割，CA轮流守护
 
-<br>
-![](/assets/images/mrpyq/2020-05-13-CA-Golden-bridge.jpg)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-14-CA-Golden-bridge.png)

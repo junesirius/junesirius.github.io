@@ -22,4 +22,4 @@ origin: 名人朋友圈
 但是内心微毫的动摇仍未停下关于这是否是一个正确抉择的质疑，不知道怎样才对她、对我们是最好的结局……
 
 <br><br>
-![](/assets/images/mrpyq/2017-07-08-Lyrics.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2017-07-08-Lyrics.jpg)

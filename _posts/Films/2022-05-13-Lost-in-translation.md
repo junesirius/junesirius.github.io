@@ -36,7 +36,7 @@ origin: 个站
 身处人群中央不会让孤独的人感到任何一点不孤独。
 
 <br><br>
-![](/assets/images/others/2022-05-13-Lost-in-Translation.png)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/others/2022-05-13-Lost-in-Translation.png)
 <br>
 
 > Let's never come here again, because it would never be as much fun.

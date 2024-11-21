@@ -13,5 +13,5 @@ long_novels: 【原创】人类观察日记
 公交上的小丑女
 
 <br><br>
-![](/assets/images/Alien_Journal/2022-08-18-Harley-Quinn.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Alien_Journal/2022-08-18-Harley-Quinn.jpg)
 <br>

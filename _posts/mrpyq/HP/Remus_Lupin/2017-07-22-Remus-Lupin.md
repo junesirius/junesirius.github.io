@@ -64,4 +64,4 @@ Two, one.
 Zero.
 
 <br><br>
-![](/assets/images/mrpyq/2017-07-22-Lyrics.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2017-07-22-Lyrics.jpg)

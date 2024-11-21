@@ -30,5 +30,5 @@ origin: 个站
 我在做什么，我在做什么。我高声大笑。我是谁，我是什么。我只是想做一只蘑菇啊，可为什么到最后变成了一只兔子。
 
 <br><br>
-![](/assets/images/others/2023-10-11.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/others/2023-10-11.jpg)
 <br>

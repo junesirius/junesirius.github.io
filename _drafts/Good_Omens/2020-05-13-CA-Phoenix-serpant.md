@@ -13,9 +13,8 @@ origin: 名人朋友圈
 
 天使是凤凰，老蛇是密室里的蛇怪，在密室相遇时凤凰没有啄瞎蛇怪的眼睛，反而，他们相恋了，霍格沃茨震惊
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-13-CA-Phoenix-serpant-1.jpg)
 <br>
-![](/assets/images/mrpyq/2020-05-13-CA-Phoenix-serpant-1.jpg)
-
-<br>
-![](/assets/images/mrpyq/2020-05-13-CA-Phoenix-serpant-2.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-13-CA-Phoenix-serpant-2.jpg)
 

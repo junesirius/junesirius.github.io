@@ -18,4 +18,4 @@ origin: 名人朋友圈
 无论是你，还是你的音乐，终将，全部属于我。
 
 <br><br>
-![](/assets/images/mrpyq/2019-07-13-Lyrics.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2019-07-13-Lyrics.jpg)

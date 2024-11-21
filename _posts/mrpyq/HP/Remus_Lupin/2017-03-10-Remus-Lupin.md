@@ -23,4 +23,4 @@ origin: 名人朋友圈
 (b. 已经不知道自己的时间轴和私设变成什么样了orz)
 
 <br><br>
-![](/assets/images/mrpyq/2017-03-10-Remus-Lupin.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2017-03-10-Remus-Lupin.jpg)

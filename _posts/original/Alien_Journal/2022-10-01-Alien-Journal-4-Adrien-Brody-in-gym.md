@@ -19,7 +19,7 @@ Oktoberfest
 大厨，调酒师女伴，健身教练
 
 <br><br>
-![](/assets/images/Alien_Journal/2022-10-01-Adrien-Brody-1.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Alien_Journal/2022-10-01-Adrien-Brody-1.jpg)
 <br>
-![](/assets/images/Alien_Journal/2022-10-01-Adrien-Brody-2.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Alien_Journal/2022-10-01-Adrien-Brody-2.jpg)
 <br>

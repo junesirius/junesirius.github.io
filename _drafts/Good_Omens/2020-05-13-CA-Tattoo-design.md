@@ -35,5 +35,5 @@ Azi随手点了一个：我喜欢这个
 
 老蛇看也不看：好那就这个了，然后放在鬓角显摆了六千年
 
-<br>
-![](/assets/images/mrpyq/2020-05-13-CA-Tattoo-design.jpg)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-13-CA-Tattoo-design.jpg)

@@ -16,5 +16,5 @@ origin: 名人朋友圈
 
 （我抬头看月亮的时候总觉得那上面有目光在盯着我，所以肯定是你
 
-<br>
-![](/assets/images/mrpyq/2020-05-13-CA-About-moon.jpg)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-13-CA-About-moon.jpg)

@@ -480,7 +480,7 @@ Jack/米：（也震惊）所以你什么都没有给他？那他怎么……？
 
 src: [pinterest](https://www.pinterest.com/pin/199706564717793443)
 
-![](/assets/images/mrpyq/2024-08-21-Cass-wing-wall.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2024-08-21-Cass-wing-wall.jpg)
 
 丁拉着卡在翅膀墙前拍照合影，彩色翅膀，可以衍生成坚持要看翅膀的真实样子
 

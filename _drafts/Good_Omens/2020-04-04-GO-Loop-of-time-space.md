@@ -11,5 +11,5 @@ origin: 名人朋友圈
 
 （时空的循环就跟蛇一样首尾相连
 
-<br>
-![](/assets/images/mrpyq/2020-04-04-Scale-circle.jpg)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-04-04-Scale-circle.jpg)

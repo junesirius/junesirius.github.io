@@ -15,8 +15,7 @@ origin: 名人朋友圈
 
 （潇洒只是内心受伤的掩饰
 
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-13-CA-Lower-cup-edge-1.jpg)
 <br>
-![](/assets/images/mrpyq/2020-05-13-CA-Lower-cup-edge-1.jpg)
-
-<br>
-![](/assets/images/mrpyq/2020-05-13-CA-Lower-cup-edge-2.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-13-CA-Lower-cup-edge-2.jpg)

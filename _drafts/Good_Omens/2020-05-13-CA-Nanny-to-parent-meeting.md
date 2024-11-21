@@ -13,5 +13,5 @@ origin: 名人朋友圈
 
 （b.梗源空间流传的“如果你是你嗑的cp家孩子，你考试不及格或者在学校跟人打架了，你会让谁去参加家长会”
 
-<br>
-![](/assets/images/mrpyq/2020-05-13-CA-Nanny-to-parent-meeting.jpg)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-13-CA-Nanny-to-parent-meeting.jpg)

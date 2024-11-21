@@ -18,5 +18,5 @@ origin: 名人朋友圈
 （舞会：加百列&别西卜，米迦勒&利古尔/结束后交换手机号，上帝&路西法，小天使和小恶魔们的牵手）
 （礼物）
 
-<br>
-![](/assets/images/mrpyq/2020-05-13-CA-Heaven-hell-socialable.jpg)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-13-CA-Heaven-hell-socialable.jpg)

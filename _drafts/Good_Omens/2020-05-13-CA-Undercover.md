@@ -13,5 +13,5 @@ origin: 名人朋友圈
 
 （当伪装彻底变成自己的一部分，你怎么知道你是谁了
 
-<br>
-![](/assets/images/mrpyq/2020-05-13-CA-Undercover.jpg)
+<br><br>
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2020-05-13-CA-Undercover.jpg)

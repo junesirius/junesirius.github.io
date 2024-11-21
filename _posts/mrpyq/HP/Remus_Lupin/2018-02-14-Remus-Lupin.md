@@ -36,4 +36,4 @@ origin: 名人朋友圈
 不得不说这真是一次奇妙的体验，即使只是作为痛苦中间一点小小的解脱，我已感激不尽；即使两次遭受变形带来的撕裂感，我仍然感谢它带来的全新体验和回忆。更何况有好兄弟们的陪伴，还有什么更幸福的呢？
 
 <br><br>
-![](/assets/images/mrpyq/2018-02-14-Lyrics.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2018-02-14-Lyrics.jpg)
