@@ -10,7 +10,6 @@
     </div>
 </div>
 
-<!-- 最近更新 -->
 <div class="sidebar well">
     <h1>{{ trans.recent_posts }}</h1>
     <ul>
@@ -20,7 +19,6 @@
     </ul>
 </div>
 
-<!-- 热门圈子 -->
 <div class="sidebar well">
     <h1>{{ trans.hot_categories }}</h1>
     {% assign max_category_count = 0 %}
@@ -47,7 +45,6 @@
     {% endfor %}
 </div>
 
-<!-- 热门标签 -->
 <div class="sidebar well">
     <h1>{{ trans.hot_tags }}</h1>
     {% assign max_tag_count = 0 %}
@@ -74,7 +71,6 @@
     {% endfor %}
 </div>
 
-<!-- 长篇连载 -->
 <div class="sidebar well">
     <h1>{{ trans.longnovel_posts }}</h1>
     <ul>
@@ -85,7 +81,6 @@
                 {% assign long_novel_names = long_novel_names | push: post.long_novels %}
             {% endunless %}
         {% endfor %}
-        <!-- Begin display -->
         {% for longnovel in long_novel_names limit: site.sidebar_len %}
             <li>
                 <a href="{{ site.baseurl}}/longnovels#{{ longnovel }}">{{ longnovel }}</a>
@@ -94,14 +89,11 @@
     </ul>
 </div>
 
-<!-- 相关链接 -->
 <div class="sidebar well">
     <h1>{{ trans.related_links }}</h1>
     <u>
         {% for link in site.data.related_sites %}
-            <li>
-                <a href="{{ site.baseurl }}/{{ link.url }}" target="_blank">{{ link.title }}</a>
-            </li>
+            <li><a href="{{ site.baseurl }}/{{ link.url }}" target="_blank">{{ link.title }}</a></li>
         {% endfor %}
     </u>
 </div>

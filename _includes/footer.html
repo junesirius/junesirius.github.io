@@ -3,14 +3,12 @@
     <p>Copyright &copy;2016-{{ site.time | date: '%Y' }} {{ site.name }} {{ site.name_en }}. All rights reserved.
     {{ trans.thanks }}
     {% for thank in site.data.thanks %}
-        <!-- not the last, output a ',' -->
         {% if forloop.last == false %}
             <a href="{{ thank.url }}">{{ thank.title }}</a>, 
         {% else %}
             <a href="{{ thank.url }}">{{ thank.title }}</a>.
         {% endif %}
     {% endfor %}
-
     </p>
 </div>
 
