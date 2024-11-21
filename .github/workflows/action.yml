@@ -48,16 +48,20 @@ jobs:
           source: ./
           destination: ./_site
       - name: Remove empty lines from HTML files
+        shell: sh
+        if: runner.os == 'Linux'
         run: |
-          find ./_site -name '*.html' -exec sed -i '/^\s*$/d' {} +
+          sudo chmod -c -R +rwX "$INPUT_PATH" |
+          while read line; do
+            echo "::warning title=Invalid file permissions automatically fixed::$line"
+          done
+          sudo find "$INPUT_PATH" -name '*.html' -exec sed -i '/^\s*$/d' {} +
+        env:
+          INPUT_PATH: ./_site
       - name: Archive Artifact
         shell: sh
         if: runner.os == 'Linux'
         run: |
-          chmod -c -R +rX "$INPUT_PATH" |
-          while read line; do
-            echo "::warning title=Invalid file permissions automatically fixed::$line"
-          done
           echo ::group::Archive artifact
           tar \
             --dereference --hard-dereference \
