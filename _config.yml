@@ -19,12 +19,10 @@ date_format:
 lan: "cn" 
 
 # constant setups
-paginate: 7
 sidebar_len: 7
 
 highlighter: rouge
 markdown: kramdown
-plugins: ["jekyll-paginate"]
 google_analytics: G-7049S50VTD
 
 exclude: ["README.md", "LICENSE", "pre-commit.sh", "*.bak", "*whole-novel.md", "assets/images/SPN"]

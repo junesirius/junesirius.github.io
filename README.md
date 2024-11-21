@@ -49,7 +49,7 @@
 - name_en: 作者英文笔名（此项可空）
 - url: 个站链接
 - baseurl: 个站根目录（当根目录即为个站链接时，此项可空）
-- paginate: 首页的每页文章数量
+- paginate: 首页的每页文章数量（2024/11后取消分页）
 - permalink: 文章自动生成的网址链接格式
 
 ### [\_data/description.yml](https://github.com/junesirius/junesirius.github.io/blob/master/_data/description.yml)
@@ -148,7 +148,7 @@
 
 ### [index.html（首页）](https://github.com/junesirius/junesirius.github.io/blob/master/index.html)
 
-在`index.html`页面按时间顺序由新到旧显示文章日期、标题、缩略内容。每页文章数由[\_config.yml](https://github.com/junesirius/junesirius.github.io/blob/master/_config.yml)中`paginator`后的数值进行调整，本站采用每页7篇文章。
+在`index.html`页面按时间顺序由新到旧显示文章日期、标题、缩略内容。每页文章数由[\_config.yml](https://github.com/junesirius/junesirius.github.io/blob/master/_config.yml)中`sidebar_len`后的数值进行调整，本站采用每页7篇文章。
 
 每篇文章的缩略内容由各文章页台头`description`标签后内容确定，若该标签为空，则截取除空格外的前150字符（该数值可调整）。
 

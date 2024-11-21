@@ -3,14 +3,13 @@ layout: default
 title: 首页
 ---
 {% assign trans = site.data.values[site.lan] %}
-{% for post in paginator.posts %}
+{% for post in site.posts limit: site.sidebar_len %}
 <div class="well article">
-
         <span class="post-date">
                 {% assign date_format = site.date_format.title %}
                 {{ post.date | date: date_format }}
         </span>
-        
+
         <h2>
                 <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         </h2>
@@ -26,25 +25,3 @@ title: 首页
         
 </div>
 {% endfor %}
-
-<div class="pagination" style="width: 100%;">
-    <div class="col-md-3" style="text-align: left;">
-    {% if paginator.previous_page %}
-            {% if paginator.previous_page == 1 %}
-                <a class="btn btn-default" href="{{ site.baseurl }}/" class="previous">{{ trans.newer_page }}</a>
-            {% else %}
-                <a class="btn btn-default" href="{{ site.baseurl }}/page{{ paginator.previous_page }}" class="previous">{{ trans.newer_page }}</a>
-            {% endif %}
-    {% endif %}
-    </div>
-    
-    <div class="col-md-6" style="text-align: center;">
-    <span class="page_number ">{{ trans.page }}: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-    </div>
-    
-    <div class="col-md-3" style="text-align: right;">
-    {% if paginator.next_page %}
-        <a class="btn btn-default" href="{{ site.baseurl }}/page{{ paginator.next_page }}" class="next">{{ trans.older_page }}</a>
-    {% endif %}
-    </div>
-</div>
