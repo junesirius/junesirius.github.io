@@ -4,7 +4,7 @@
     {{ trans.thanks }}
     {% for thank in site.data.thanks %}
         {% if forloop.last == false %}
-            <a href="{{ thank.url }}">{{ thank.title }}</a>, 
+            <a href="{{ thank.url }}">{{ thank.title }}</a>,&nbsp;
         {% else %}
             <a href="{{ thank.url }}">{{ thank.title }}</a>.
         {% endif %}

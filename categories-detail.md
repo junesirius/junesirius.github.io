@@ -29,5 +29,5 @@ title: 标签
         {% endfor %}
         {% assign pages_list = nil %}
     </ul>
-{% endfor %}    
+{% endfor %}
 </div>

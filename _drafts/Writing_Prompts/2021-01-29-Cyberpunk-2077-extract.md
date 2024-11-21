@@ -128,7 +128,7 @@ They're cuttin' a piece of us out, and that'll leave a hole. Forever.——强�
 
 V：What choice did I have?
 
-强尼：Stay true to yourself? Give a thought to a tiny concept called loyalty? It's not about Arasake. Not even about life and death. 
+强尼：Stay true to yourself? Give a thought to a tiny concept called loyalty? It's not about Arasake. Not even about life and death.
 
 V：Then what's it all about, Johnny? Enlighten me.
 
@@ -306,7 +306,7 @@ Good luck, V, be free.——米丝蒂
 
 帕南：Really? You're just gonna avoid me? Of course you would, you fucking coward. Here's a bit of advice for you, Johnny. Enjoy your new lease on life. 'Cause it's not gonna last long. I'm serious. Believe me when I say I'm going to find you, you fucking psychopath - wherever you're hiding. And when I do, I'm gonna rip V out of your head. Don't ask me how, but so far I'm counting on sheer will. You know what you are, Johnny? A parasite. A fucking tapeworm! You hear me?! Enjoy the little time you have left. Ptoo!
 
-克里：Hey, V, it's me again. Still not pickin' up, huh? Can't stand uncomfortable convos? Hmph... coward. You know, I've been through my fair share of shitty breakups. Guy once dumped me by text, cause another balls deep in some other piece of ass... But what YOU went and pulled... vanishing into thin air, not answerin' calls, no letters, pretendin' nothin' happened between us... just - wow. You've really set the bar low. So congrats. You really are one-of-a-kind after all. 
+克里：Hey, V, it's me again. Still not pickin' up, huh? Can't stand uncomfortable convos? Hmph... coward. You know, I've been through my fair share of shitty breakups. Guy once dumped me by text, cause another balls deep in some other piece of ass... But what YOU went and pulled... vanishing into thin air, not answerin' calls, no letters, pretendin' nothin' happened between us... just - wow. You've really set the bar low. So congrats. You really are one-of-a-kind after all.
 
 瑞弗：V, hey. So I've been to every precinct in the city, every hospital, emergency room, every single ripperdoc... nobody knows what happened to you. It's like you're a ghost. If that job went sour then I guess... I guess that's it, then. But if everythin' went like it was supposed to, V... if you're alive... just call me, please. You owe me that much. Anyway, uh... Bye, I guess.
 
@@ -462,7 +462,7 @@ V："Terrorist and Raging Asshole."
 
 V：Didn't mean that as a compliment.
 
-强尼：I know. 
+强尼：I know.
 
 #### （4）救了我的人
 
@@ -578,7 +578,7 @@ V：Ugh. Might be right.
 
 强尼：We're bickering like a shriveled old married couple. It's time we let up, let a little trust take hold.
 
-V：You can be a charming guy - just make the effort, charisma flows. Then I remember that nuke you detonated downtown without a second thought and no hint of later remorse. 
+V：You can be a charming guy - just make the effort, charisma flows. Then I remember that nuke you detonated downtown without a second thought and no hint of later remorse.
 
 强尼：It was Mikoshi I was after, wanted to destroy it. Gave 'Sake ample time to clear the building.
 
@@ -831,7 +831,7 @@ V：Realize what you're doin' to me is what Arasaka's doin' at Mikoshi?
 唉，不要问，‘那是什么？’
 让我们快点去做客。
 
-——《普鲁弗洛克的情歌》T. S. 艾略特；查良铮 译 
+——《普鲁弗洛克的情歌》T. S. 艾略特；查良铮 译
 
 #### （2）罗格线
 

@@ -35,5 +35,5 @@ title: 长篇
             {% endif %}
         {% endfor %}
     </ul>
-{% endfor %}    
+{% endfor %}
 </div>

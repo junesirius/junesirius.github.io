@@ -5,23 +5,17 @@ title: 首页
 {% assign trans = site.data.values[site.lan] %}
 {% for post in site.posts limit: site.sidebar_len %}
 <div class="well article">
-        <span class="post-date">
-                {% assign date_format = site.date_format.title %}
-                {{ post.date | date: date_format }}
-        </span>
-
-        <h2>
-                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-        </h2>
-        
-        <div class="post-description">
-            {% if post.description == null %}
-                {{ post.content | newline_to_br | strip_newline | replace: '<br />', '\n' | strip_html | truncate: 150 | replace: '\n', '<br>' | replace: '<br>
-<br>', '<br>' | replace: '<br><br>', '<br>' | strip }}
-            {% else %}
-                {{ post.description }}
-            {% endif %}
-        </div>
-        
+    <span class="post-date">
+        {% assign date_format = site.date_format.title %}
+        {{ post.date | date: date_format }}
+    </span>
+    <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+    <div class="post-description">
+        {% if post.description == null %}
+            {{ post.content | newline_to_br | strip_newline | replace: '<br />', '\n' | strip_html | truncate: 150 | replace: '\n', '<br>' | replace: '<br><br>', '<br>' | replace: '<br><br>', '<br>' | strip }}
+        {% else %}
+            {{ post.description }}
+        {% endif %}
+    </div>
 </div>
 {% endfor %}

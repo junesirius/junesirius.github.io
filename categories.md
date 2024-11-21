@@ -36,7 +36,7 @@ title: 分类
                     <a href="{{ site.baseurl }}/tags#{{ tag }}">{{ tag }}</a>
                 </span>
                 {% unless forloop.last %}
-                &nbsp;|&nbsp; 
+                &nbsp;|&nbsp;
                 {% endunless %}
             {% endfor %}
     </li>
@@ -52,7 +52,7 @@ title: 分类
                     <a href="{{ site.baseurl }}/characters#{{ character }}">{{ character }}</a>
                 </span>
                 {% unless forloop.last %}
-                &nbsp;|&nbsp; 
+                &nbsp;|&nbsp;
                 {% endunless %}
             {% endfor %}
     </li>

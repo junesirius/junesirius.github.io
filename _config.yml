@@ -9,14 +9,14 @@ url: https://junesirius.github.io
 baseurl: ""
 
 # default date_format
-date_format: 
+date_format:
   title: "%m-%d-%Y"
   archive: "%m-%d"
   categories: "%m-%d-%Y"
   tags: "%m-%d-%Y"
 
 # Language
-lan: "cn" 
+lan: "cn"
 
 # constant setups
 sidebar_len: 7

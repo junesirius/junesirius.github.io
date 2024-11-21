@@ -310,7 +310,7 @@ Here's a story of a dream gone bad
 
 A tale of hate surrounded love
 
-In this dream I believed a new world 
+In this dream I believed a new world
 
 would come to me
 
@@ -320,7 +320,7 @@ So many nice thoughts, so futile
 
 I felt so full of faith
 
-In this dream I believed a new world 
+In this dream I believed a new world
 
 would come to me
 
@@ -352,7 +352,7 @@ Out of this Heavenly Hell
 
 
 
-From the first day the battle was lost 
+From the first day the battle was lost
 
 'cause narrow minds never surrender
 
@@ -526,7 +526,7 @@ obikin套用《触摸不到的爱》里的梦的设定，安纳金中了梦的�
 
 (by five finger death punch)
 
-I spoke to God today and She said that 
+I spoke to God today and She said that
 
 She's ashamed
 

@@ -38,5 +38,5 @@ title: 人物
             {% endfor %}
         {% endfor %}
     </ul>
-{% endfor %}    
+{% endfor %}
 </div>

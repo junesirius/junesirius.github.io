@@ -6,7 +6,7 @@ categories: ["神秘博士"]
 characters: 
 tags: ["记梗"]
 pov: 第一人称
-origin: 
+origin: 个站
 ---
 
 假如我有属于我的Tardis，我会停在时空涡流的什么地方？过去还是未来？地球还是太空？去见哪些人？

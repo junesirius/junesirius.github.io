@@ -1,13 +1,9 @@
 {% assign trans = site.data.values[site.lan] %}
 <div class="sidebar well">
     <header class="sidebar-header" role="banner">
-        <a href="{{ site.baseurl }}/">
-            <img src="{{ site.baseurl }}/assets/images/favicon.jpg" class="img-circle" height="100%" width="100%" />
-        </a>
+        <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/assets/images/favicon.jpg" class="img-circle" height="100%" width="100%" /></a>
     </header>
-    <div class="description-style">
-        {{ site.data.description }}
-    </div>
+    <div class="description-style">{{ site.data.description }}</div>
 </div>
 
 <div class="sidebar well">
@@ -34,8 +30,8 @@
         {% for category in sortedcategories %}
             {% if category[1].size == i %}
                 <li>
-                    <a href="{{ site.baseurl }}/categories#{{ category[0] }}">{{ category[0] }} ({{ category[1].size }})</a>
-                    {% assign category_display_count = category_display_count | plus: 1 %}
+                <a href="{{ site.baseurl }}/categories#{{ category[0] }}">{{ category[0] }} ({{ category[1].size }})</a>
+                {% assign category_display_count = category_display_count | plus: 1 %}
                 </li>
             {% endif %}
         {% endfor %}
@@ -60,8 +56,8 @@
         {% for tag in sortedtags %}
             {% if tag[1].size == i %}
                 <li>
-                    <a href="{{ site.baseurl }}/tags#{{ tag[0] }}">{{ tag[0] }} ({{ tag[1].size }})</a>
-                    {% assign tag_display_count = tag_display_count | plus: 1 %}
+                <a href="{{ site.baseurl }}/tags#{{ tag[0] }}">{{ tag[0] }} ({{ tag[1].size }})</a>
+                {% assign tag_display_count = tag_display_count | plus: 1 %}
                 </li>
             {% endif %}
         {% endfor %}
@@ -82,9 +78,7 @@
             {% endunless %}
         {% endfor %}
         {% for longnovel in long_novel_names limit: site.sidebar_len %}
-            <li>
-                <a href="{{ site.baseurl}}/longnovels#{{ longnovel }}">{{ longnovel }}</a>
-            </li>
+            <li><a href="{{ site.baseurl}}/longnovels#{{ longnovel }}">{{ longnovel }}</a></li>
         {% endfor %}
     </ul>
 </div>

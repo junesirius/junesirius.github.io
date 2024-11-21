@@ -5,13 +5,11 @@ layout: default
 <div class="well article">
     <h2><a href="{{ site.baseurl}}{{ page.url }}">{{ page.title }}</a></h2>
     <span class="post-date">
-        {% assign date_format = site.date_format.title %}
-        {{ page.date | date: date_format }}
+    {% assign date_format = site.date_format.title %}
+    {{ page.date | date: date_format }}
     </span>
     &nbsp;
-    <span class="wordcount-style">
-        字数：{{ page.content | strip_html | strip_newlines | size }}
-    </span>
+    <span class="wordcount-style">字数：{{ page.content | strip_html | strip_newlines | size }}</span>
     &nbsp;
 
     {% unless page.pov == null %}
@@ -30,25 +28,19 @@ layout: default
     {% endunless %}
 
     {% unless page.origin == null %}
-    <span class="origin-style">
-        首发位置：{{ page.origin }}
-    </span>
+    <span class="origin-style">首发位置：{{ page.origin }}</span>
     &nbsp;
     {% endunless %}
 
     <!-- Count reader number -->
     <span class="origin-style">
         <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-        <span id="busuanzi_container_page_pv" style="display: none">
-            本文阅读量：<span id="busuanzi_value_page_pv"></span>次
-        </span>
+        <span id="busuanzi_container_page_pv" style="display: none">本文阅读量：<span id="busuanzi_value_page_pv"></span>次</span>
     </span>
 
     <!-- Begin post content -->
     <hr style="border-top:1px solid #28323C;"/>
-    <div style="text-indent: 2em">
-        {{ page.content }}
-    </div>
+    <div style="text-indent: 2em">{{ page.content }}</div>
     <hr style="border-top:1px solid #28323C;"/>
 
     <div class="post-content">
@@ -58,16 +50,12 @@ layout: default
       <li class="icon-img-style"><i class="icon-folder-open"></i></li>
       {% assign categories_list = page.categories %}
       {% if categories_list.first[0] == null %}
-        {% for category in categories_list %} 
-            <li class="icon-style">
-                <a href="{{ site.baseurl }}/categories.html#{{ category }}">{{ category }} ({{ site.categories[category].size }})</a>{% unless forloop.last %},{% endunless %}
-            </li>
+        {% for category in categories_list %}
+            <li class="icon-style"><a href="{{ site.baseurl }}/categories.html#{{ category }}">{{ category }} ({{ site.categories[category].size }})</a>{% unless forloop.last %},{% endunless %}</li>
         {% endfor %}
       {% else %}
-        {% for category in categories_list %} 
-            <li class="icon-style">
-                <a href="{{ site.baseurl }}/categories.html#{{ category }}">{{ category[0] }} ({{ category[1].size }})</a>{% unless forloop.last %},{% endunless %}
-            </li>
+        {% for category in categories_list %}
+            <li class="icon-style"><a href="{{ site.baseurl }}/categories.html#{{ category }}">{{ category[0] }} ({{ category[1].size }})</a>{% unless forloop.last %},{% endunless %}</li>
         {% endfor %}
       {% endif %}
     </ul>
@@ -79,16 +67,12 @@ layout: default
       <li class="icon-img-style"><i class="icon-tags"></i></li>
       {% assign tags_list = page.tags %}
       {% if tags_list.first[0] == null %}
-        {% for tag in tags_list %} 
-            <li class="icon-style">
-                <a href="{{ site.baseurl }}/tags.html#{{ tag }}">{{ tag }} ({{ site.tags[tag].size }})</a>{% unless forloop.last %},{% endunless %}
-            </li>
+        {% for tag in tags_list %}
+            <li class="icon-style"><a href="{{ site.baseurl }}/tags.html#{{ tag }}">{{ tag }} ({{ site.tags[tag].size }})</a>{% unless forloop.last %},{% endunless %}</li>
         {% endfor %}
       {% else %}
-        {% for tag in tags_list %} 
-            <li class="icon-style">
-                <a href="{{ site.baseurl }}/tags.html#{{ tag }}">{{ tag[0] }} ({{ tag[1].size }})</a>{% unless forloop.last %},{% endunless %}
-            </li>
+        {% for tag in tags_list %}
+            <li class="icon-style"><a href="{{ site.baseurl }}/tags.html#{{ tag }}">{{ tag[0] }} ({{ tag[1].size }})</a>{% unless forloop.last %},{% endunless %}</li>
         {% endfor %}
       {% endif %}
       {% assign tags_list = nil %}
@@ -111,16 +95,12 @@ layout: default
                     {% endif %}
                 {% endfor %}
             {% endfor %}
-            <li class="icon-style">
-                <a href="{{ site.baseurl }}/characters.html#{{ character }}">{{ character }} ({{ character_count }})</a>{% unless forloop.last %},{% endunless %}
-            </li>
+            <li class="icon-style"><a href="{{ site.baseurl }}/characters.html#{{ character }}">{{ character }} ({{ character_count }})</a>{% unless forloop.last %},{% endunless %}</li>
             {% assign character_count = 0 %}
         {% endfor %}
       {% else %}
         {% for character in characters_list %}
-            <li class="icon-style">
-                <a href="{{ site.baseurl }}/characters.html">{{ character[0] }} ({{ character[1].size }})</a>{% unless forloop.last %},{% endunless %}
-            </li>
+            <li class="icon-style"><a href="{{ site.baseurl }}/characters.html">{{ character[0] }} ({{ character[1].size }})</a>{% unless forloop.last %},{% endunless %}</li>
         {% endfor %}
       {% endif %}
       {% assign characters_list = nil %}
@@ -128,5 +108,4 @@ layout: default
     {% endunless %}
 
     </div>
-
 </div>
