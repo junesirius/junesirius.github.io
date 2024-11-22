@@ -1218,4 +1218,14 @@ Chuck's "boring" AU
 
 （灵感来自《So Says the Sword》）
 
-### 153.
+### 153.【destiel】S10E17 language made of color
+
+> Castiel: Because you can hear everyone's thoughts.
+>
+> Pryce: Well, not yours. All I'm getting from you is... colors. 
+
+Cass' brain/thought is all color-based, because thought process or his language system (true enochian?) is made of color
+
+DW10/14: a species communicate only with eyebrow (60th anniversary 3rd ep, similar idea)
+
+### 154.

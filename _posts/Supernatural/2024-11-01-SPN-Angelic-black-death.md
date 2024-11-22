@@ -934,7 +934,7 @@ Complete Outline: get Lucifer→help Lucifer recover (Lucifer suggest get Michae
 
 (Cass is also infected, symptom starts with can't heal, pain, weak (try to hide but found out by Dean))
 
-Dean: Don't tell me you're infected
+Dean: Don't tell me you're infected.
 
 Cass doesn't answer.
 
