@@ -686,7 +686,7 @@ Joel=欧比旺，Ellie=安纳金
 
 ### 32.【obikin】《流泪的大理石像》
 
-![](assets/images/Star_Wars/2023-06-16-anakin.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Star_Wars/2023-06-16-anakin.jpg)
 
 绝地圣殿里长久地放着一尊大理石像。
 
@@ -744,7 +744,7 @@ Joel=欧比旺，Ellie=安纳金
 
 ### 36.【obikin】黑暗物质AU
 
-![](assets/images/Star_Wars/2023-06-08-obiwan.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/Star_Wars/2023-06-08-obiwan.jpg)
 
 黑暗物质AU或者HP守护神设定，欧比旺的灵魂动物是兔子
 
