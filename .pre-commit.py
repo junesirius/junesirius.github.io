@@ -1,8 +1,9 @@
 #!/usr/bin/python
 # encoding=utf-8
-from pathlib import Path
 import subprocess
 import sys
+from pathlib import Path
+
 from termcolor import colored
 
 # print Chinese characters in terminal
@@ -64,8 +65,14 @@ def check_and_auto_update():
                     ),
                     end="",
                 )
-                content = content.replace("](/assets/images", "](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images")
-                content = content.replace("](assets/images", "](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images")
+                content = content.replace(
+                    "](/assets/images",
+                    "](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images",
+                )
+                content = content.replace(
+                    "](assets/images",
+                    "](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images",
+                )
                 with file.open("w", encoding="utf-8") as f:
                     f.write(content)
 
