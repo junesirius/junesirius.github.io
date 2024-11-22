@@ -29,6 +29,8 @@ exclude:
   - "README.md"
   - "LICENSE"
   - "pre-commit.sh"
+  - ".pre-commit.py"
+  - ".pre-commit-config.yaml"
   - "*.bak"
   - "*whole-novel.md"
   - "assets/images/**/*"
