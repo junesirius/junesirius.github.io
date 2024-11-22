@@ -52,6 +52,23 @@ def check_and_auto_update():
                 with file.open("w", encoding="utf-8") as f:
                     f.write(content)
 
+            # Check if images using relative path
+            if "](/assets/images" in content or "](assets/images" in content:
+                if file not in file_changed:
+                    file_changed.append(file)
+                print(
+                    colored(
+                        "\n\tNote: Images using relative path found!"
+                        "\n\tWarning: Starting to edit file content...",
+                        "red",
+                    ),
+                    end="",
+                )
+                content = content.replace("](/assets/images", "](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images")
+                content = content.replace("](assets/images", "](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images")
+                with file.open("w", encoding="utf-8") as f:
+                    f.write(content)
+
             # Check line not ends with space
             with file.open("r", encoding="utf-8") as f:
                 lines = f.readlines()
