@@ -736,7 +736,7 @@ Sam is still staring at Cass. "Michael?" his tone incredulous.
 
 Cass turns to him to answer, "Yes, as far as I know, Michael is the first archangel God's created, strongest and the most powerful among all angels and archangels, it wouldn't be a surprise if he is also the brightest."
 
-Sam nods slightly but still not fully convinced, "Doesn't Lucifer also have a name called 'Morningstar'? I thought before the Fall, he was believed to be the brightest by many according to the lore. I mean, isn't that's why Michael and Lucifer fight in the first place? Fighting for the title of 'brightest' and 'God's favorite', it's like the Heaven's version of Golden Apple Contest, and Armageddon is exactly like Trojan War."
+Sam nods slightly but still not fully convinced, "Doesn't Lucifer also have a name called 'Morningstar'? I thought before the Fall, he was believed to be the brightest by many according to the lore. I mean, isn't that's why Michael and Lucifer fight in the first place? Fighting for the title of 'brightest' and 'God's favorite', it's like Heaven's version of Golden Apple Contest, and Armageddon is exactly like Trojan War. And he indeed warded you off when Amara was in Heaven last time."
 
 "Jesus, when can we ever break free from these two bastards." Dean whines loudly before Cass can answer, then asks, "Say we have two candidates, what's next?"
 
@@ -754,7 +754,7 @@ Dean stammers, looking at Cass for support, and in return the angel only gesture
 
 Dean sighs annoyedly, "When can we get out of this we'll-end-the-world-or-the-world-will-end crap? Shit just never stop hitting fans!"
 
-Cass gives him a upset smile.
+Cass gives him an upset smile.
 
 Sam sighs a soft "Yeah" and falls to silence.
 
@@ -762,7 +762,7 @@ Sam sighs a soft "Yeah" and falls to silence.
 
 ### Chapter 3: Rock Never Dies
 
-**(outline: look for Lucifer, Lucifer holds rock concert/metal festival in LA, a big fuss and fight like in show, reuse Vince/Ladyheart part plot, bring Lucifer in in Vince's vessel, help Lucifer recover)**
+**(outline: look for Lucifer, Lucifer holds rock concert/metal festival in LA, a big fuss and fight like in show, reuse Vince/Ladyheart part plot, bring Lucifer in in Vince's vessel, help Lucifer recover; Cass show initial negligible sign of sickness, heal slow, maybe tired)**
 
 #### Act 1
 
@@ -824,31 +824,91 @@ Lucifer: "devilishly handsome face"
 
 ### Chapter 4: The Roadhouse
 
-**(outline: souls in heaven starts getting out of control, TFW thinks it's a case but run into Jo/Ellen/Ash/Bobby)**
+**(outline: souls in heaven starts getting out of control, TFW thinks it's a case but run into Jo/Ellen/Ash/Bobby; Cass slightly sicker, show weaker tired)**
 
 <br>
 
 ### Chapter 5: The Novaks
 
-**(outline: Jimmy/Amelia get down, reunite with Claire, Jimmy/Cass tension; Dean helps handle Cass/Claire relationship)**
+**(outline: Jimmy/Amelia get down, reunite with Claire, Jimmy/Cass tension; Dean helps handle Cass/Claire relationship; Cass more sick, headache)**
 
 <br>
+
+#### draft notes
+
+Cass is constantly headache, at first they all thought it’s because of angel radio. Every now and then it gets so bad that he has to hold on to something to not fall. His view goes black, from several seconds to minutes. Dean always lend him a shoulder if he’s within range.
+
+Dean watches closely, worried: You want to tune that down a bit, pal?
+
+Cass: I can’t, I won’t. They’re suffering and dying up there, the least I can do is to not forget that.
+
+Dean: Yeah, not like you can ever forget easily.
+
+What he means is *I hate to see you suffer*, but he doesn’t say it.
+
+(The headache is just the first symptom of infection, they just didn’t know yet)
 
 ### Chapter 6: The Winchesters
 
-**(outline: Heaven gets even more loose, John/Mary get down, Winchesters happy reunion dinner, like in show; but include Cass as part of family, formally, in front of parents)**
+**(outline: Heaven gets even more loose, John/Mary get down, Winchesters happy reunion dinner, like in show; but include Cass as part of family, formally, in front of parents; Cass sickness worse, cough)**
 
 <br>
+
+#### draft notes
+
+(Chap 4-6 gradually increase intensity between Dean/Cass, more intimate and close as surrounding people become more intimate: friends (Ellen/Jo/Bobby) to daughter (Claire) to parents (John/Mary), Dean introduce Cass to every aspect of his life, vice versa with Claire)
+
+<br>
+
+Castiel coughs. Once. Then twice. At the third times, Dean’s brows arch. Castiel wants to pretend it’s just a normal clearing of throat, but obviously not very successful.
+
+Dean: You got a cold or something?
+
+His eyes scrutinize up and down his shirt and suit jacket along with the trench coat.
+
+Dean: Those clothes, too hot, too cold, want the AC on?
+
+His tone is not unkind, but Castiel is uneasy.
+
+Cass: Temperature does not concern me.
+
+He hesitates, silently suppress another round of urge to cough again. Dean does not miss that, the twist in his brows deepens.
+
+Dean: You sure about that? That looks exactly like the cold Sammy used to have every year around fall winter time.
+
+Cass manages to get his breathes right: I’m fine.
+
+Sam comes in: Is everything ok?
+
+Cass: Yes, Dean and I were just talking about how ailing you were as a child.
+
+Sam shoots a questioning look at Dean: That’s not true. I ran a lot so I don’t get sick and he’s the one that whines a lot.
+
+Dean: I don’t whine.
+
+Sam: Uh no offense, but yes you do.
+
+Cass quietly slips out of the room and leaves them arguing.
 
 ### Chapter 7: Evil Never Rests
 
-**(outline: Charlie comes down and reunite, demons and ghosts of Frankenstein family know Heaven is dying, go out for a Carnival, Crowley headache, calls for TFW help)**
+**(outline: Charlie comes down and reunite, demons and ghosts of Frankenstein family know Heaven is dying, go out for a Carnival, Crowley headache, calls for TFW help; Cass situation getting terrible, cough blood, dying)**
 
 <br>
 
+#### draft notes
+
+(Cass is also infected, symptom starts with can't heal, pain, weak (try to hide but found out by Dean))
+
+Dean: Don't tell me you're infected.
+
+Cass doesn't answer.
+
+Dean's heart sinks: you are, aren't you? Why don't you tell me?!
+
 ### Chapter 8: You're Up, Dr. Phil
 
-(outline: From Chap 3-7 quietly describe Cass' getting worse, souls go wild in vail, has to take Lucifer's advice to release Michael, get Rowena to help, Winchester counseling time for Michael/Lucifer)
+**(outline: From Chap 3-7 quietly describe Cass' getting worse, souls go wild in vail, has to take Lucifer's advice to release Michael, get Rowena to help, Winchester counseling time for Michael/Lucifer)**
 
 <br>
 
@@ -944,60 +1004,4 @@ Dean: You fixed me so many times, it's my turn now.
 
 **<u>Complete Outline</u>**: get Lucifer→help Lucifer recover (Lucifer suggest get Michael but they refuse)→daily episode with ghost&demon(+surprise reunions+troubles)→(Cass+situation get worse, Heaven can't wait longer) get Michael→help them make peace→they align to destroy world→S/D say yes, kill each other, heaven is saved, Cass thought they died, go to Heaven/vail to find them, let them decide if they want back→TFW back together, heaven on their command, thought problem solved, Cass is still dying→Dean use his soul power heal Cass, soul-grace dance, Cass is saved, TFW HE
 
-**<u>destiel relationship arc</u>**: start with destiel best friends, Dean "I need you", Cass already love Dean more than anything including the world → still keep the "love" to be just "love", not partnership love, still friend-family-brotherly love, but make Dean gradually realize what does that mean: no definition, but can be weighed, "everything has a price", Dean figures how much he would be willing to sacrifice to trade for Cass, just as much as his any other family member and more, so even if he doesn't admit, his action is already saying out loud: he is willing to sacrifice anything including the world for Cass (forced verbal confession by the setting)
-
-<br>
-
-(Cass is also infected, symptom starts with can't heal, pain, weak (try to hide but found out by Dean))
-
-Dean: Don't tell me you're infected.
-
-Cass doesn't answer.
-
-Dean's heart sinks: you are, aren't you? Why don't you tell me?
-
-<br>
-
-Cass is constantly headache, at first they all thought it’s because of angel radio. Every now and then it gets so bad that he has to hold on to something to not fall. His view goes black, from several seconds to minutes. Dean always lend him a shoulder if he’s within range.
-
-Dean watches closely, worried: You want to tune that down a bit, pal?
-
-Cass: I can’t, I won’t. They’re suffering and dying up there, the least I can do is to not forget that.
-
-Dean: Yeah, not like you can ever forget easily.
-
-What he means is *I hate to see you suffer*, but he doesn’t say it.
-
-(The headache is just the first symptom of infection, they just didn’t know yet)
-
-<br>
-
-Castiel coughs. Once. Then twice. At the third times, Dean’s brows arch. Castiel wants to pretend it’s just a normal clearing of throat, but obviously not very successful.
-
-Dean: You got a cold or something?
-
-His eyes scrutinize up and down his shirt and suit jacket along with the trench coat.
-
-Dean: Those clothes, too hot, too cold, want the AC on?
-
-His tone is not unkind, but Castiel is uneasy.
-
-Cass: Temperature does not concern me.
-
-He hesitates, silently suppress another round of urge to cough again. Dean does not miss that, the twist in his brows deepens.
-
-Dean: You sure about that? That looks exactly like the cold Sammy used to have every year around fall winter time.
-
-Cass manages to get his breathes right: I’m fine.
-
-Sam comes in: Is everything ok?
-
-Cass: Yes, Dean and I were just talking about how ailing you were as a child.
-
-Sam shoots a questioning look at Dean: That’s not true. I ran a lot so I don’t get sick and he’s the one that whines a lot.
-
-Dean: I don’t whine.
-
-Sam: Uh no offense, but yes you do.
-
-Cass quietly slips out of the room and leaves them arguing.
+**<u>destiel relationship arc</u>**: start with best friends, Dean "I need you", Cass already love Dean more than anything including the world → still keep the "love" to be just "love", not partnership love, still friend-family-brotherly love, but make Dean gradually realize what does that mean: no definition, but can be weighed, "everything has a price", Dean figures how much he would be willing to sacrifice to trade for Cass, just as much as his any other family member and more, so even if he doesn't admit, his action is already saying out loud: he is willing to sacrifice anything including the world for Cass (no need for verbal confession unless vibe feels right)
