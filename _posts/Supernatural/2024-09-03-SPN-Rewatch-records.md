@@ -17,7 +17,7 @@ origin: 个站
 
 Win/Kill Count: 32 (angel), 24 (demon), 2 (archangel), 19 (others)
 
-Lose/Hurt Count: 7 (angel), 7 (demon), 8 (archangel), 6 (others)
+Lose/Hurt Count: 7 (angel), 7 (demon), 8 (archangel), 7 (others)
 
 Death/Near death Count: 2 (Raphael), 3 (Lucifer), 2 (Leviathan), 1 (reaper), 1 (Ramiel), 1 (Dagon), 1 (Death), 1 (Empty)
 
@@ -62,6 +62,10 @@ Death/Near death Count: 2 (Raphael), 3 (Lucifer), 2 (Leviathan), 1 (reaper), 1 (
 ### S05E13（-1 others）
 
 （无人）时间穿越：受伤，吐血，昏迷了五天，穿越回来之后继续昏迷
+
+### S05E17（-1 others）
+
+（the Whore of Babylon）Leah Gideon：输；被念咒攻击痛苦倒地
 
 ### S05E18（+7 angel）
 
