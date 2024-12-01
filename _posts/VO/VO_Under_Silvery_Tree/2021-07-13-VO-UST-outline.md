@@ -77,7 +77,7 @@ VO二搭拍了一部改编自他们过去经历的电影。
 4. 分手：“装作毫不在意，把爱的人推离”（主语：V）（取景：NY）
 
    描写场景：《River》分手场景、2007.7-9《In Celebration》（未去/友代）、2008.2-4《The Road》+“When I wake up in the morning, I think of death”采访
-   
+
    对话带过：2008.7 O剪发、《I See You》、O醉酒后给V打过电话
 
 ~~（每个部分3个scene←有点太僵硬死板？节奏是否会太plain？）~~
@@ -269,3 +269,45 @@ The true reality: 都是V的梦（所以现实部分其实有很多主V视角的
 \* 文章分多幕Act的形式取材自舞台剧，各个Scene的标题又模仿了剧本格式。
 
 \* 文中嵌套设计的剧本很大程度上学习模仿了伍迪·艾伦的《安妮·霍尔》，尤其剧本结局部分。
+
+### 章节标题翻译
+
+Prologue
+
+Act 1
+
+Scene 1 Ext. Outside the Rehearsal Room - Day
+
+Scene 2 Int. Makeup Trailor - Noon
+
+Scene 3 Ext. Wild - Night
+
+Act 2
+
+Scene 4 Int. Lobby - Evening
+
+Scene 5 Ext. Beach - Afternoon
+
+Scene 6 Int. Room - Night
+
+Act 3
+
+Scene 7 Int. Airplane - Day
+
+Scene 8 Int. Bar - Night
+
+Scene 9 Int/Ext. Villa - Dusk
+
+Act 4
+
+Scene 10 Int. Studio - Afternoon
+
+Scene 11 Int. Lounge - Night
+
+Scene 12 Ext. Hollywood Walk of Fame - Day
+
+Postlude
+
+Epilogue
+
+Appendix
