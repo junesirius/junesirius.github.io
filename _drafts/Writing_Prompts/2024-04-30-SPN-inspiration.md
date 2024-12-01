@@ -1230,4 +1230,32 @@ Cass' brain/thought is all color-based, because thought process or his language 
 
 DW10/14: a species communicate only with eyebrow (60th anniversary 3rd ep, similar idea)
 
-### 154.
+### 154.【destiel】《Who Knew》（lyrics）
+
+（by Pink）
+
+If someone said three years from now
+
+You'd be long gone
+
+I'd stand up and punch them out
+
+'Cause they're all wrong
+
+I know better 'cause you said forever, and ever
+
+Who knew?
+
+<br>
+
+Remember when were were such fools
+
+And so convinced and just too cool
+
+I wish I could touch you again
+
+I wish I could still call you a friend
+
+I'd give anything
+
+### 155.
