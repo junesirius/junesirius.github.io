@@ -852,7 +852,7 @@ Vince staggers briefly, takes two steps back before stabling himself.
 
 He opens his eyes and looks into the mirror in the dark.
 
-Two bloody red eyes look at him back.
+Two bloody red eyes look back at him.
 
 #### Act 2
 
