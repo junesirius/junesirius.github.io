@@ -3,7 +3,7 @@ layout: post
 title: 【Destiel】Angelic Black Death
 date: 2024-11-01 01:51
 categories: ["SPN"]
-characters: ["Castiel", "Dean Winchester", "Sam Winchester", "Michael", "Lucifer", "Vince Vincente", "Rowena MacLeod", "Crowley", "Adam Milligan", "Bobby Singer", "Charlie Bradbury", "Jimmy Novak", "Claire Novak"]
+characters: ["Castiel", "Dean Winchester", "Sam Winchester", "Michael", "Lucifer", "Vince Vincente", "Rowena MacLeod", "Fergus MacLeod/Crowley", "Adam Milligan", "Bobby Singer", "Charlie Bradbury", "Jimmy Novak", "Claire Novak"]
 tags: ["Supernatural", "destiel", "michifer", "温家兄弟", "英文"]
 pov: 第三人称
 origin: DCBB
@@ -814,6 +814,8 @@ I try to take back what was mine
 
 A prison they have made my mind, my enemy"
 
+<br>
+
 Dean: What's that, take away that metal crap will you? (Heard first lyrics) Wait, they might on to something.
 
 Lucifer: "devilishly handsome face"
@@ -996,7 +998,7 @@ Dean: You fixed me so many times, it's my turn now.
 
 ### Bonus: Jellyfish
 
-**(outline: explicit content?, normal day, aquarium, maybe a case?)**
+**(outline: normal day, aquarium, maybe a case?)**
 
 <br>
 
