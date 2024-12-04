@@ -150,7 +150,7 @@ Cass shakes off Dean's hands from his shoulder and stands up quickly, steps away
 
 Cass grits his teeth, "In case you forget, *I* happen to also be one of the 'flying monkeys'." The air quotes almost get Dean choked on his own unintended laughter. He has to fight hard to stop the face muscle from twitching.
 
-"They might be ass-butts from time to time, but they are still my brothers and sisters." Castiel says sternly, Dean avoids his glares and can't help but feel hurt. Even if he understands the saying, he really does, but still, the word "brother" might just mean differently sometimes.
+"They might be ass-butts from time to time, but they are still my brothers and sisters." Castiel says sternly, Dean avoids his glares and can't help but feel a sting in the chest. Even if he understands the saying -- believe him, he really does -- still, the word "brother" might just mean differently sometimes.
 
 "So yes, I am going back to Heaven to see what's happening, to save them if I can. Or die trying." Castiel concludes.
 
@@ -162,9 +162,9 @@ Cass' expression gets slightly softer, "No, you can't, Dean. It will kill you, a
 
 "Or ask the sick ones come down here?" Dean suggests hopefully, "So you don't have to be around all those coughing sneezing guys."
 
-"Cass, do we know if this angel sickness can pass on to human?" Sam asks cautiously.
+"Cass, do we know if this angel sickness can pass on to human?" Sam asks carefully.
 
-Cass looks at Sam for the first time after they burst into the room. "I don't think so." he says, "Angels technically don't exist in the same dimension as humans, we only manifest into this dimension when we need to. So whatever this is, I don't think it can cross dimension."
+Cass looks at Sam for the first time after they burst into the room. "I don't think so." he says after some thought, "Angels technically don't exist in the same dimension as humans, we only manifest into this dimension when we need to. So whatever this is, I don't think it can cross dimension."
 
 "Awesome," Dean's whole body loosens up slightly, "good to know humans won't extinct because the flying dudes poke at the wrong place."
 
@@ -174,21 +174,21 @@ Cass looks at Sam for the first time after they burst into the room. "I don't th
 
 "Would you be willing to go to a strange new place, like abroad or the Moon, when you're seriously sick and dying?" Cass squints his eyes.
 
-"Fair point." Sam admits while Dean makes a funny little defeated sound with nose.
+"Fair point." Sam admits while Dean makes a funny little defeated sound with his nose.
 
 "So can we all agree now that I need to go? Alone, and immediately?" Cass sighs, getting noticeably more impatient as time passes by.
 
-Sam opens and closes his mouth a few times, looks like he still tries to object but doesn't know what to say. Dean stares at one far end on the ground past Cass, eyes unfocused, seems to be deep in thought.
+Sam opens and closes his mouth a few times, looks like he still tries to object but doesn't know what to say. Dean stares at one far end on the wall slightly past Cass' shoulder, eyes unfocused, seems to be deep in thought.
 
 Cass walks towards the door.
 
-"What if," Dean holds out a finger, but still locks his eyes on that spot on the floor, not out of the contemplate, "what if you become human?"
+"What if," Dean holds out a finger, but still locks his eyes on that spot, not out of the contemplate, "what if you become human?"
 
-The room falls silent, Dean looks up to meet two x-ray gazes that are so sharp that he almost can feel the cut on his skin. He shifts his feet uncomfortably. "Hear me out, you said humans can't get infected by this angelic black death, right? And you had been back to Heaven before even without or with little of your grace, so I'm guessing the pure human-human is different from the you-human. So think of being a human like having a dose of vaccine, what if we somehow drain your grace to *almost* like a human, keep it safe, you go there, poke around, solve the problem, and come back juicing up again, voila, problem solved."
+The room falls silent, Dean looks up to meet two x-ray gazes that are so sharp that he almost can feel the cut on his skin. He shifts his feet uncomfortably. "Hear me out, you said humans can't get infected by this angelic black death, right? And you had been back to Heaven before even without or with little of your grace, so I'm guessing the pure human-human is different from the you-human. So think of being a human like having a dose of vaccine, what if we somehow drain your grace to *almost* like a human, keep it safe, you go there, do your thing, poke around, solve the problem, and come back juicing up again, voila, problem solved."
 
 "Dean," Sam sighs, "I don't even want to start on how many things can go wrong there."
 
-"I'm not saying I like it." Dean eyes him, then focuses back on the only angel in the room, "Hell, even *I* hate myself for saying that, God knows how tough it is every time see you lose your mojo, but it's still better than deadly sick or die, a thousand times better."
+"I'm not saying I like it." Dean eyes him, then focuses back on the only angel in the room, "Hell, even *I* hate myself for saying that, God knows how tough it is every time see you lose your mojo, but it's still better than deadly sick or die -- a thousand times better."
 
 Castiel considers carefully.
 
@@ -228,7 +228,7 @@ Dean swallows, he doesn't like how the word "drained" sounds like, not at all.
 
 Dean pulls a cheerless smile, "Don't use the word 'execute', will you, buddy? Now I feel like an executioner."
 
-Sam clears his throat behind them to remind the timing.
+Sam clears his throat behind them to remind the time.
 
 Dean turns to the garage. "I'll get Baby ready in five."
 
@@ -274,7 +274,7 @@ He can see the light in the syringe is already getting noticeably thinner, he ca
 
 "Almost there." Cass holds both hands on the edge of the seat to prevent himself from further sliding down, but even his fingers are too weak now to really do anything. His knuckles are white, more sweat pouring down.
 
-Dean sees it all. "Okay we'll call it a day." He decides, gives up waiting for Cass' signal, taking the syringe away and handing to Sam, like he can't bear to hold the damn thing one more second, like it's a criminal evidence that he's hurting Cass.
+Dean sees it all. "Okay I'm calling it." He decides after a few more minutes, gives up waiting for Cass' signal, taking the syringe away and handing to Sam, like he can't bear to hold the damn thing one more second, like it's a criminal evidence that he's hurting Cass.
 
 Cass breathes heavily, his chest rising up and down with rhythms of an uneven tide on the edge of a storm. Dean feels just as shitty and can't stop beating himself in his mind.
 
@@ -286,7 +286,7 @@ Cass tries to climb out of the Impala on his own but staggers so much he almost 
 
 "Think you'll be alright going upstairs and coming back by yourself?" Dean hesitates by the edge when Cass steps onto the sand.
 
-Cass gives him a weak nod. "I'll be back as soon as possible." He says, and then the portal lights up.
+Cass gives him a weak nod. "I'll be back as soon as possible." He says, in a tone of promise, and then the portal lights up.
 
 Sands rise and spin like a mini-sandstorm. Cass lets out a moan that sounds far too close to a suppressed silent scream, as if he is being burnt alive or torn apart by horses running different directions but uses all his power to swallow back that pain so that Dean might miss it. But Dean didn't. Dean yells his name, can't help himself from instantly reaching out a hand and almost stepping on to the sand, trying to drag Cass back down.
 
@@ -324,13 +324,13 @@ Dean tilts his head towards him, shooting him a questioning look.
 
 "Like what?" Sam's voice brings his mind back.
 
-"Like I can never grab anyone's hand tight enough to pull them out of misery and pain, to really save them. They're just, always, slipping from the hold. Taken away. Lost." Dean's voice cracks, his eyes reflected with shiny stars of lights. "All the time."
+"Like I can never grab anyone's hand tight enough to pull them out of misery and pain, to really save them. They're just, always, slipping from the hold. Taken away. Lost." Dean's voice cracks, his eyes reflected with shiny stars of lights, his hands fisting by his sides. "All the time."
 
 He keeps his eyes straight into the dark night, doesn't move for the slightest until the shininess slowly slips away.
 
 "Dean." Sam sighs, putting a hand on his brother's shoulder briefly, "Cass will come back, he promised. He always come back to us, to you."
 
-Dean gives him a small grateful nod. "He better does." he says huskily, "Otherwise I'll go find him myself and kick his ass."
+Dean gives him a small grateful nod. "He better does," he says huskily, "or I'll go find him myself and kick his ass."
 
 Sam lets out a short laugh.
 
@@ -486,7 +486,7 @@ Dean is visibly annoyed, "Okay pal, new rule, from now on, every time you need t
 
 Cass grumbles with widened eyes, "I capiche."
 
-Dean holds back a success grin, "Good." And then, "Now back to square one, what do we know about the situation up there?"
+Dean holds back a success grin, "Good." and then, "Now back to square one, what do we know about the situation up there?"
 
 <br>
 
@@ -538,11 +538,11 @@ Cass breathes heavily. "I can't imagine." he says after a beat.
 
 Dean stammers, "Surely the post-life reward can't be the only thing people do good for."
 
-"Some, maybe, but how many?" Cass sighs, "This angel disease - pandemic - thing, might not directly infect human, it might still destroy the world in the end, if given time."
+"Some, maybe, but how many?" Cass sighs, "This angel disease - pandemic - thing, might not directly infect human, it can still destroy the world in the end, given time."
 
 Dean shares an alarmed look with Sam, "Annual world-ending event, awesome."
 
-Cass sighs, "And there is more."
+Cass quietly adds, "And there is more."
 
 "More to this crap?!" Dean rolls his eyes.
 
@@ -602,7 +602,7 @@ The table was shaking, cabinets and shelves slipping around on the kitchen floor
 
 And then all the lights went out completely at the same time. The whole room fell into pure darkness, and the floor just continued shaking like an earthquake. The gravity direction shifted quickly, changing from downwards to sidewards then upwards. Cass got thrown across room, hitting the wall next to the door, and then got mercilessly thrown onto the ceiling of the room, crashing onto the ceiling lamp by his back bone, feeling glass and metals stabbed into his skin, and finally ended up with all fours on the ground again, bloodied and motion-sickened.
 
-He sort of expected Lucifer might show up after that, bragging about what he did today, his cocky voice floating around, filling the space. But no, the Devil didn't show that day. Actually he didn't even see him for quite a while after that. Lucifer must be busy, busy saving the world as he promised, Castiel distantly hoped, but even if he didn't keep his promise, he was sure Sam and Dean would figure something out. They always do, and Castiel only hope this archangel weapon he secured by his body could make that task easier for them.
+He had expected Lucifer to show up after that, bragging about what he did today, his cocky voice floating around, filling the space. But no, the Devil didn't show that day. Actually he didn't even see him for quite a while after that. Lucifer must be busy, busy saving the world as he promised, Castiel distantly hoped, but even if he didn't keep his promise, he was sure Sam and Dean would figure something out. They always do, and Castiel only hope this archangel weapon he secured by his body could make that task easier for them.
 
 Castiel didn't connect the dots together then, but he does now. That incident of mere seconds, must be the exact time when the Darkness invaded the Heaven and blew everyone up, Lucifer included.
 
@@ -610,17 +610,17 @@ Castiel didn't connect the dots together then, but he does now. That incident of
 
 #### Act 8
 
-"Then how am I still alive, not infected?" Cass rushes his questions, "I should have symptoms just like everyone else."
+"Then how am I still alive, not infected?" Cass can't stop the question from rolling out by itself, "I should have symptoms just like everyone else. I should have died in direct contact."
 
-The cluster of light and energy that is Dumah contracts and shifts, sounding lighter by each word. "You... you remember." Her rusty voice chokes, breaking and catching, "Lucifer must have warded you off. That's why... why I'm hoping you can fix this, Castiel. Use that power, save us, save the Heaven."
+The cluster of light and energy that is Dumah contracts and shifts, voice more sluggish by each word. "You... you remember." her rusty voice chokes, breaking and catching, "Lucifer must have warded you off. That's why... why I'm hoping you can fix this, Castiel. Use that power, save us, save the Heaven."
 
 "But I don't know how --" Cass feels uneasy and shameful.
 
-"You will find out." Dumah's voice barely there, breaking and gasping, it's like human coughing violently, but still somehow fierce and demanding. Black shapes and spots splash from the light around her core, like flying ash and coal from an overburnt fireplace.
+"You will find out." Dumah's voice barely there, breaking and gasping, it's like human coughing violently, but still somehow fierce and demanding. Black shapes and spots splash from the light circling her core, like flying ash and coal from an overburnt fireplace.
 
 And then she starts chanting, breathlessly, like the dying song of a thorn bird, "*And God said, Let there be light: and there was light. And God saw the light, that it was good: and God divided the light from the darkness.*"
 
-"I wish I share your belief." Cass murmurs sadly, "But I'm sorry, I'm dying too, I don't even think I can leave this place any more than you do."
+"I wish I share your belief." Cass murmurs grievingly, "But I'm sorry, I'm dying too, I don't even think I can leave this place any more than you do."
 
 Dumah looks *through* him with the remaining flicker of her light that is barely there, "You will, Castiel. You are the one starts it all, you will fix this. And quickly, save all the remaining ones before it's too late. You own this to us!" Her voice breaks into agonizing scratching sound. If she's in a vessel now, it will look like she's choking on blood in her throat.
 
@@ -674,15 +674,17 @@ Dean returns a cheerless smile to that, "Super. I'll grab some more beer first."
 
 It turns out, that the researching and heavy reading part of the job is actually not as boring as one might presume. It would be easier if there is some kind of catalogue to indicate what each book is about, but the perk of not having one is that you get to run into things you totally wouldn't expect to read and ends up might actually learning something or even enjoying the reading time.
 
-Like the one Dean is currently reading, "Ethereal Archetypes and Terrestrial Manifestation: A Comprehensive Ontological Examination of Transcendent Parallels between Angelic Entities and Biological Life Forms" -- which gets picked up because it has "angel" and "biology" in it -- turns out to be pretty much listing all known animals and pointing out their similarities and differences with an angel. And Dean has to hold back his laughter from time to time, and uses part of the brain to remind himself not looking up at Cass -- who sits just couple feet away from him, buried in his selection of books -- every other pages just because how accurate the description is.
+Like the one Dean is currently reading, "Ethereal Archetypes and Terrestrial Manifestation: A Comprehensive Ontological Examination of Transcendent Parallels between Angelic Entities and Biological Life Forms" -- which gets picked up because it has "angel" and "biology" in it -- turns out to be pretty much listing all known creatures and pointing out their similarities and differences with an angel. And Dean has to hold back his laughter from time to time, and specifically delegates part of his brain to remind himself not looking up at Cass -- who sits just couple feet away from him, buried in his own selection of books -- every other pages just because how accurate the description is.
 
-The book says the angels might adopt their ways of manifestation by learning all animal behaviors, including but not limited to the man kind, examples including the way they tilt heads to look at target object comes from birds, most likely pigeons, they can be protective and loyal like dogs, territorial like wolves, cunning like foxes, distant like cold-bloods, and show great connection and closeness with creatures that last as long as they do, so they may guard jellyfish and bees as closely as humans.
+The book says the angels might adopt their ways of manifestation by learning all animal behaviors, including but not limited to the man kind, examples including the way they tilt heads to examine target objects may come from birds, most likely pigeons; they can be protective and loyal for which canids tend to share the traits, most commonly seem as domestic guarding dogs; territorial aware like wolves, strategic like foxes, emotionally distant like cold-bloods, and show great connection and closeness with creatures that last as long as they do in the history of evolution, so they may guard jellyfish and bees as closely as humans because they exist since Ediacaran billion years ago.
 
 The more Dean reads, the more he feels like he has to introduce Cass to whoever writes this book, it is almost as if they are literally describing Cass back to him. But pitifully, the behavioral descriptions are not giving enough information or indication about how exactly can they cure a sick angel. So Dean tosses the book aside, putting a note in his head thinking he might ask Cass some day about what's the deal with jellyfish.
 
-The next book talks about perceived hierarchy and social structure of Heaven and Hell and their resemblance, which leads to its religious and cultural meaning. But Dean already notices some mistakes in the book, since he seriously doubts if any of the writers have ever run into any Prince of Hell or Knight of Hell. He might as well run a fact check with Cass about these things.
+The next book talks about hierarchy and structure of Heaven and Hell and their resemblance, which leads to deductive religious and cultural meaning. But Dean already notices quite some mistakes in the book with his own first-hand experience to know the book is of no use to him, and he seriously doubts if any of the Men of Letters scholars have ever run into any Prince or Knight of Hell. He might as well run a fact check with Cass about these things.
 
-The next is about angelic occupational division, followed by experimentations with angel feathers, and then more. Okay, Dean decides, he wants to take his words back, it stops being entertaining a long time ago, now he'd rather go out get some stretch or maybe punch something. The only thing that keeps him continue scrambling the pages is the thought that he might learn more about bits and pieces about angels -- about Cass -- that might come handy later down the road.
+The next is about angelic occupational division, followed by magic experimentations and enchantments with angel feathers, and then more. Okay, Dean decides, he wants to take his words back, it stops being entertaining a long time ago, now he'd rather go out get some stretch or maybe punch something, or even wash his car again regardless how clean she already is. The only thing that keeps him locked in the seat and continue scrambling the pages is the tiny bits and pieces of information scattering around the pages about angels -- about Cass -- that makes him feel somehow he gets to know Cass slightly more as he reads. *Could be handy*, he thinks to himself, *later down the road. Maybe just a small thing he learns today could turn out saving Cass' ass some day in the future.*
+
+So he keeps going. The books piling higher from his left to his right.
 
 By the time he clears out all the books piled on his left side, Dean can barely recognize the word "angel". His brain has already rewired the meaning of that word into -- "Cass".
 
@@ -736,23 +738,23 @@ Sam is still staring at Cass. "Michael?" his tone incredulous.
 
 Cass turns to him to answer, "Yes, as far as I know, Michael is the first archangel God's created, strongest and the most powerful among all angels and archangels, it wouldn't be a surprise if he is also the brightest."
 
-Sam nods slightly but still not fully convinced, "Doesn't Lucifer also have a name called 'Morningstar'? I thought before the Fall, he was believed to be the brightest by many according to the lore. I mean, isn't that's why Michael and Lucifer fight in the first place? Fighting for the title of 'brightest' and 'God's favorite', it's like Heaven's version of Golden Apple Contest, and Armageddon is exactly like Trojan War. And he indeed warded you off when Amara was in Heaven last time."
+Sam nods slightly but still not fully convinced, "Doesn't Lucifer also have a name called 'Morningstar'? I thought before the Fall, he was believed to be the brightest by many according to the lore. I mean, isn't that's why Michael and Lucifer fight in the first place? Fighting for the title of 'brightest' and 'God's favorite', it's like Heaven's version of Golden Apple Contest, and Armageddon is exactly like Trojan War. And he did ward you off when Amara was in Heaven last time."
 
 "Jesus, when can we ever break free from these two bastards." Dean whines loudly before Cass can answer, then asks, "Say we have two candidates, what's next?"
 
-"We need them to, uhh --" Sam reads through the small texts below the Enochian line, his brows raises higher if it's even possible, "huh -- give away their light willingly. The cost of purification can take away as much as all the light from the source. And only a determined mind can last long enough to not disrupt the purification process before complete."
+"We need them to, uhh --" Sam reads through the small texts below the Enochian line -- luckily the rest is in English. He scans fast, his brows raises higher if it's even possible, "huh -- give away their light willingly. The cost of purification can take away as much as all the light from the source. And only a determined mind can last long enough to not disrupt the purification process before complete, or all is wasted."
 
 Dean steps away from the armchair slowly to lean his hip on the table. "Wait so, let me get this straight, the solution is to let Michael *or* Lucifer to -- what? Willingly sacrifice themselves to save all angels and humans? You ever met those two? Don't think it's gonna happen."
 
-Sam thinks about it for a second, "I don't know Dean, I mean, we got God himself -- and Devil, and Darkness, and even Death -- talking to us, and persuaded them to do the right thing, and most of times, they ended up listening to us."
+Sam thinks about it for a second, "I don't know Dean, I mean, we got some big guys talking to us, and persuaded them to do the right thing. I'm talking about God himself, and Devil, and Darkness, and even Death -- and most of the times, they ended up listening to us."
 
 "We might as well put up a sign in front of the bunker: 'Celestial family drama counseling office', small print: 'For free once a year, if it doesn't work, feel free to end the world'. Nice plan, Dr. Phil." Dean waves his hands in the air, gesturing the imaginary signs.
 
 "You get a better one?" Sam raises his brows.
 
-Dean stammers, looking at Cass for support, and in return the angel only gestures to Sam, very clearly showing the sign of "You know Sam is right" without actually saying it.
+Dean stammers, turning to Cass for support, and in return the angel only gestures to Sam, very clearly showing the sign of "You know Sam is right" without actually saying it.
 
-Dean sighs annoyedly, "When can we get out of this we'll-end-the-world-or-the-world-will-end crap? Shit just never stop hitting fans!"
+Dean sighs, annoyedly but submissively, "I have a bad feeling. When can we get out of this we'll-end-the-world-or-the-world-will-end crap? Shit just never stop hitting fans!"
 
 Cass gives him an upset smile.
 
@@ -762,7 +764,7 @@ Sam sighs a soft "Yeah" and falls to silence.
 
 ### Chapter 3: Rock Never Dies
 
-**(outline: look for Lucifer, Lucifer holds rock concert/metal festival in LA, a big fuss and fight like in show, reuse Vince/Ladyheart part plot, bring Lucifer in in Vince's vessel, help Lucifer recover; Cass show initial negligible sign of sickness, heal slow, maybe tired)**
+**(outline: look for Lucifer, Lucifer holds rock concert/metal festival in LA, a big fuss and fight like in show, reuse Vince/Ladyheart part plot, bring Lucifer in in Vince's vessel, help Lucifer recover - ask Crowley to rebuild Nick's body to help him strengthen; Cass show initial negligible sign of sickness, heal slow, easy to get tired, sleepy)**
 
 #### Act 1
 
@@ -770,7 +772,7 @@ Vince Vincente is not having a good day.
 
 The show tonight was actually great, Tommy and the rest of the band were excited, the crowd was loud. Though honestly, he doesn't see the point of having a regroup for the Ladyheart, he's just doing those old friends a favor.
 
-"They are hosting the biggest rock metal festival on the planet and they invited us." Tommy told him on the phone when he was driving half way across the country. He didn't bother to ask who are "they" but just listened.
+"They are hosting the biggest metal music festival on the planet and they invited us." Tommy told him on the phone when he was driving half way across the country. He didn't bother to ask who are "they" but just listened.
 
 "I think it would be nice to have a reprise, you know? Get a few concerts for some practice run, find the old feelings like we are still twenties." Tommy talked faster and faster, undoubtedly taken away by the thought.
 
@@ -778,15 +780,91 @@ The show tonight was actually great, Tommy and the rest of the band were excited
 
 "Okay then." Vince answered plainly, uninterested but he knew better than disappointing the only few friends he still had.
 
-"Oh and, one more thing," Tommy added slightly hesitantly, "it's gonna be in LA, you ok with that?"
+"Oh and, one more thing," Tommy added hesitantly, "it's gonna be in LA, you ok with that?"
 
-He is not ok with it. Not at all. He said "sure" back then in the phone just to make Tommy's life easier, but it's making his life back to Hell again.
+He is not ok with it. Not at all. He said "Sure" back then in the phone just to make Tommy's life easier, but it's making his life back to Hell again.
 
-"Jen." Vince sits down in front of the makeup mirror, looking at the photo of the woman he loved and lost thirty years ago.
+"Jen." Vince sits down in front of the makeup mirror, looking down at the photo of the woman he loved and lost thirty years ago.
 
 This place, Los Angeles, it's where everything between them started and ended. He has been avoiding the place for thirty years, but now he's back again.
 
 Memory devours him like rising tide devouring a novice surfer. Vince can't really breath, his chest is clenched tight.
+
+"Vince--" A woman's voice is calling him, barely audible.
+
+"Jen?" He answers automatically, looking around. He can tell Jen's voice from anywhere.
+
+But he's all alone. Remote chatters and music drifting from outside the door, but inside, he's pretty sure he's all alone. The single light bulb on top of the make-up mirror flickers once.
+
+*Too tired and too messed-up maybe? That he even started hallucinating her voice?* Vince mocks at himself. If it's punishment, he deserves it.
+
+Cold night wind blows into the room, giving him a shiver. It's almost summer time in Los Angeles, even the night time shouldn't be so cold. A thin thread of thought wonders briefly but drops the attention after a blink.
+
+He only glances at the window briefly. White curtains fly up in the wind ominously like a woman's dancing dress. Or a woman's swaying skirt when she is falling from the penthouse.
+
+*Jen has a skirt just like that.* He frantically thinks, panic starts climbing from his spine.
+
+"Vince--" The voice gets louder, the sound of breath gets mixed in the wind.
+
+Vince holds his hands on his head. "Jen, please--" he pleas, tears gathering at the edge of his eyes.
+
+He feels the floor shakes. Once, twice. But is it earthquake or his leg shaking, he cannot tell.
+
+He thinks the lightbulb on the mirror starts flickering again too. More intensely going brighter then darker, and brighter again. Or maybe it's just the tears making the effect.
+
+He swallows hard on the lump in the throat, letting the tears rolling down. "Jen, I'm so so sorry--" he talks into the cold night wind in the middle of the room.
+
+"Why?" The woman asks.
+
+The voice is far too solid to be a hallucination. Vince snaps up his head and stares through his teary eyes.
+
+Undoubtedly, Jen stands right there, in her beautiful white dress, even still wearing her favorite lipstick color, the sparkling pink. He remembers it tastes like strawberry.
+
+Vince breathes heavily. "Is this a dream?" he asks, looking around the room again as if it can give him some answer.
+
+"No, my love," Jen smiles at him, walking closer, "not a dream." The edge of her dress floating around her bare feet.
+
+Vince can't do anything but looks at her movement, taking her in. Jen puts a hand on his jaw, caressing the stubble.
+
+"I'm right here." she smiles gently, looking into his eyes, "but you didn't ask the right question."
+
+"Are you--" Vince stumbles, tilting his head, leaning into her hand. He blinks the tears away to take a proper look at the woman standing inches away from him. He takes another deep breaths, asking shakily, "-- are you really you?"
+
+"No," The woman that looks like Jen answers, her smile not fading but growing warmer, her hands still moving on Vince's face, "better. I'm an angel."
+
+Vince can't tear his gaze away, he can't move his head or body away, he just can't. Everything in her is drawing him in, and he's too tired to think or resist. He leans in more, dropping his head so his lips are almost already ghosting around her skin.
+
+"Angel..." he murmurs under his breaths, his brain fails to register the meaning.
+
+"I can't bring her back," she says as she moves the hand to his scalp, fingers lingering on his hair behind the ear, "but I can make the pain go away."
+
+She tiptoes slightly, her mouth right next to his cheek now, mild airflow flowing by his face, mixed with a faint taste of fruity sweetness. Vince closes his eyes, indulging himself in the memory when Jen did that because she knew how much he loves it.
+
+"As long as you say yes." Jen's voice mingles with the image in the memory. Vince doesn't need to be told twice.
+
+"Yes." he chokes in shaky teary voice, opens his eyes to look into his love's eyes.
+
+"Yes." he says again, eyes closed tight.
+
+The woman's figure dissipates. The lightbulb behind him flickers violently and finally goes out with a loud explosion sound.
+
+Vince staggers briefly, takes two steps back before stabling himself.
+
+He opens his eyes and looks into the mirror in the dark.
+
+Two bloody red eyes look at him back.
+
+#### Act 2
+
+Dean walks into the kitchen in his favorite dead man's robe, rubbing his eyes while yawning.
+
+"Morning." Sam greets him from on top of a plate of spinach omelet.
+
+Cass is sipping a mug of hot coffee, held in both hands, fully concentrated.
+
+Dean regards him, holding back a small smile. "Morning." he says. Cass doesn't look up.
+
+Dean heads directly to the coffee machine. "Any plan for today?" he asks, speaking over his back.
 
 #### [TBC]
 
@@ -821,6 +899,52 @@ Dean: What's that, take away that metal crap will you? (Heard first lyrics) Wait
 Lucifer: "devilishly handsome face"
 
 "We might actually need both of them. The infection comes from Amara, we would have needed Chuck to cure this. Now that we can only get archangels, one doesn't seem quite enough."
+
+<br>
+
+Dean: Remind me again why we're chasing Devil's tail?
+
+Sam: It's either him or Michael--
+
+Dean: --who is in a place we know exactly where, saving all this trouble to run around the town and getting us nothing but vamp blood everywhere.
+
+Sam looks at Cass for help.
+
+Cass: Because Michael is going to be pissed for staying in the Cage for the past six years.
+
+Dean: Oh and Lucifer is not? For being there since the Dawn of everything?
+
+Sam: At least we have dealt with him before, we know what he is -- or was.
+
+Cass: And he might be feeble, after the fight. Hopefully it would make him more... persuasible.
+
+Dean (laugh): Is that even possible? The Devil? Persuasible?
+
+Sam (shrug): Best hope so.
+
+Dean (to Cass): Oh and, don't ever EVER think about saying "Yes" again, you hear me? Under no circumstance. Even if the world's ending next minute.
+
+Cass: Dean--
+
+Dean: Don't. Just-- just don't. I can't go through that again, or you might as well kill me.
+
+Cass (confused): Why would killing you make anything better?
+
+Dean (chuckle): Just, promise me, don't do that again. Whatever reason he tricks you, and boy he knows how to trick.
+
+Cass (faintly nods)
+
+Dean: Not even if I'm dying or whatever and he says that's the only thing to bring me wide.
+
+Cass (widen his eyes): Dean! You can't ask that--
+
+Dean: Cass. Promise?
+
+Cass: You're just being unreasonable. (leaves the room)
+
+Dean (eyes Sam): What? You too! Don't even think about that.
+
+Sam (stops grinning): Fine.
 
 <br>
 
