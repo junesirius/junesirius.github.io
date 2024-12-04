@@ -702,6 +702,8 @@ Cass' brainwash testing session, having to kill Dean over and over again to conv
 
 Why Cass can tell the difference: true Dean has brightest soul, fake/mimic Dean has no soul, Cass can see the soul and never mistake one from another, see the soul not the face, that's why relatively easy to kill to deceive Naomi and resist when being ordered to kill real Dean
 
+(loophole: if Cass can see soul, then S6 no need to touch inside Sam to know he's soulless, unless that's Cass straight lying to their faces again)
+
 ### 78.【Cass】S08E21《First borns in Egypt》
 
 Naomi: “There was that day, back in Egypt, not so long ago, where we slew every first-born infant whose door wasn't splashed with lamb's blood. And that was just PR.”
