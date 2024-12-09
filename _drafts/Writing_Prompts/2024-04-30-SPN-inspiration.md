@@ -1260,4 +1260,16 @@ I wish I could still call you a friend
 
 I'd give anything
 
-### 155.
+### 155.【destiel】S06E18 What if Bobby exploded
+
+Cass is being careful but still not careful enough, Bobby exploded, Dean super pissed at Cass, what happens next?
+
+### 156.【destiel】S06E18 What if boys get lost in western world
+
+Cass refused to risk Bobby (or even if used his soul still not recovered enough), Dean/Sam stays in town for more than 24h and lost to Cass, what happens next?
+
+What happened in the time flux that prevents Cass from locating and reaching Dean however hard he fights for him, what's the consequence of that fight when he's already exhausted because of Rachael's stab? He's more wounded. Raphael is still at his tail, might follow him in the time flux too, fight across time and space and falls in random places.
+
+What happened to the boys when they have to extend their stay in Sunrise Wyoming, what dangers in there? Demons are still wandering around. They might work with Samuel Colt. They might leave message for their future self in the Pentagon railway so they would have noticed at end of S2, changed history slightly maybe?
+
+### 157.
