@@ -53,7 +53,7 @@ published: false
 1. Whenever you are about to die, your main consciousness switches to alternate universe in which you survived. This makes you conscious only of the longest possible life. Upon death, you are shown all the ways you would have died.
 1. When you die, you are given an option - either be judged for your sins, or choose what's behind The Door. The noble and arrogant choose to be judged, the evil and fearful choose The Door. When given the option, you choose to simply turn around and walk away.
 1. You are a multi-billionaire with a lovely wife, who is trying to kill you to inherit your fortune. You love her so much that you just don’t have the heart to tell her you are immortal. （有趣）
-1. You are Death, but in a post-apocaliptic world. Only a few survivors remain, and you’re doing everything you can to help them because if the last human dies, you die as well. The survivors can’t see you, but they feel your presence and noticed your effort. They started to call you Life. （喜欢，可以写GO/路康/丁卡）
+1. **You are Death, but in a post-apocaliptic world. Only a few survivors remain, and you’re doing everything you can to help them because if the last human dies, you die as well. The survivors can’t see you, but they feel your presence and noticed your effort. They started to call you Life.** （喜欢，可以写GO/路康/丁卡）
 1. You discover a library with a biography for everyone on Earth. While reading your own, you notice that whenever someone else is mentioned, there’s a footnote showing where you can find their biography. It’s odd how someone who was only a sentence in your book has a whole chapter for you. （是真实生活，也可以是反过来的）
 1. You have accidentally died. No, no, no, you didn’t die in an accident, you’ve accidentally died, as in, the Grim Reaper has no idea what you’re doing in the underworld. （clumsy的人设，各种迷糊出错，甚至mistakenly进入underworld或者afterworld）
 1. You look up at the reapers face. “You get one question before you go.” You decide to ask “Why a Scythe?” （死神，可以写GO/路康/丁卡）
@@ -64,10 +64,10 @@ published: false
 ### Dreams and Sleep
 
 1. Every time you fall asleep you live a whole other life before waking up. Most people can only remember fragments after waking up but you have photographic memory and can remember all your other lives. （延伸：我有一台可以拿进梦里的照相机，并且拍摄的东西在醒后还能看）
-2. Every night your dreams continue from when you woke up. You have been living a completely different life with a completely different family in your dreams. The past few nights your dream family has started begging you to never leave them and stay with them forever. （是我很喜欢的“破坏幸福才能醒来”的那种设定了，选择梦还是这个现实，像阿凡达、触摸不到的爱、恋与、DW等）
+2. **Every night your dreams continue from when you woke up. You have been living a completely different life with a completely different family in your dreams. The past few nights your dream family has started begging you to never leave them and stay with them forever.** （是我很喜欢的“破坏幸福才能醒来”的那种设定了，选择梦还是这个现实，像阿凡达、触摸不到的爱、恋与、DW等）
 2. For months you've had a recurring dream of dating a Demon Queen. Just a silly dream that you joke with your friends about at lunch. Until today when you see her in the cafeteria glaring right at you, and making a bee line for your table.（有点有趣，可以写成百合文）
-2. The human lifespan is actually only one day long. To adapt, when we go to sleep each night, our mind sends us one dream deeper, where we wake up alive. When we finally die, the experience of our life flashing before our eyes is really just us waking up in each dreams, one at a time.（关于梦境，喜欢）
-2. Two people who are acquainted and regularly lucid dream start seeing each other in their dreams. They develop a strong bond and try to figure out if they are really interacting through their dreams or if it’s all in their head. （爱情故事，偏爱是同性）
+2. **The human lifespan is actually only one day long. To adapt, when we go to sleep each night, our mind sends us one dream deeper, where we wake up alive. When we finally die, the experience of our life flashing before our eyes is really just us waking up in each dreams, one at a time.**（关于梦境，喜欢）
+5. Two people who are acquainted and regularly lucid dream start seeing each other in their dreams. They develop a strong bond and try to figure out if they are really interacting through their dreams or if it’s all in their head. （爱情故事，偏爱是同性）
 2. You don’t sleep. Instead you die every day and 8 hours later you wake up in the body of a person who has 16 hours left to live. （喜欢，是现实，想过类似的设定）
 
 ### Fate and Destiny
@@ -96,7 +96,7 @@ published: false
 ### Heaven and Hell, Angel and Demon
 
 1. After you die, you appear before the pearly gates of Heaven. The problem is, St. Peter is nowhere to be found, the gate is ajar, and paradise is completely empty. （带感，可以写GO/路康/丁卡）
-1. All this time, humans and angels thought that Lucifer was a rebellious angel who turned evil, thus, God put him in hell. Little did they know, Lucifer was the smartest angel among all and God has sent him below for a special mission only he can fulfill. （喜欢！可以写GO/路康/丁卡，有点点像《路西法》）
+1. **All this time, humans and angels thought that Lucifer was a rebellious angel who turned evil, thus, God put him in hell. Little did they know, Lucifer was the smartest angel among all and God has sent him below for a special mission only he can fulfill.** （喜欢！可以写GO/路康/丁卡，有点点像《路西法》）
 2. A magician summons a demon slave, and brings his lawyer to help create the pact. The demon brings his. （关键信息：奴隶的权利，即使这个奴隶是恶魔，像《SPN》）
 2. Armageddon began, and it quickly became apparent that bullets beat swords and claws every single time. Now Heaven and Hell have joined in an uneasy alliance against the humans who have invaded Hell and begun using its endless fires as a power source. （带感，可以写GO/丁卡，人类凭借热武器核武器进攻天堂地狱，并刻意渗透进去变成天使恶魔去攻占，有政治意味如动物庄园、1789等，可以写成长篇）
 2. Demons have to do at least one evil thing every day to survive. This one comes to your bakery everyday to buy bread for the homeless kids and steal exactly one cookie. （好可爱，可以写GO/路康/丁卡）
@@ -104,9 +104,9 @@ published: false
 2. Much like how a desperate human might summon a demon to make a contract for power or immortality, you find yourself summoned in hell by a demon trying to negotiate a contract for what seems to you like mundane advice and aid.（路康/丁温克劳利）
 2. The Anti-Christ came and went, but no one noticed because he wasn’t worse than the current state of the world already is. The rapture followed, but no one went to Heaven, so we didn’t notice that either. We’ve been living in Hell for the last 5 years, and no one has noticed, yet. （现实）
 2. The demonology professor spoke to the class “and if you must sell your soul to a demon, at least bother to summon two and make them bid up the price.”（《SPN》/路康）
-2. The demon stands amid your destroyed kitchen screaming, “How? How were you able to summon me?!” You’re standing in the corner flipping through your grandma’s cookbook as fast as you can, screaming back, “I don’t know!! You were supposed to be chicken soup!” （好可爱，可以是个炸厨房的小女孩和小男孩恶魔，以及甜甜的爱情故事）
+2. **The demon stands amid your destroyed kitchen screaming, “How? How were you able to summon me?!” You’re standing in the corner flipping through your grandma’s cookbook as fast as you can, screaming back, “I don’t know!! You were supposed to be chicken soup!”** （好可爱，可以是个炸厨房的小女孩和小男孩恶魔，以及甜甜的爱情故事）
 2. The Devil appears before you and puts a heavy hand on your shoulder, “Look, we need to talk about you putting me in every Writing Prompt.” （哈哈哈哈哈，可以写GO/路康&同人写手本人/SPN Lucifer+Chuck）
-2. There is a real-life demon inhabiting your basement. It is savage, bloodthirsty, and completely immortal to human means. You have a truce with it only because it is frightened of something in your attic. You have never found anything up there.（盖曼风的故事）
+2. **There is a real-life demon inhabiting your basement. It is savage, bloodthirsty, and completely immortal to human means. You have a truce with it only because it is frightened of something in your attic. You have never found anything up there.**（盖曼风的故事）
 2. This is... awkward to say the least. Your roommate just frantically confessed that they're demonic royalty, and that they need a fiancé to meet their parent, the monarch of Hell, who will be here in under an hour.（魔法学院AU，少年版路康？）
 2. Twenty years ago you summoned a demon. It is super cool and has been your friend for the last two decades, using its vast powers to help you achieve all your dreams. Today though, its bill came due. It needs to return to hell with you – it has dreams too, and it needs your help to achieve them. （可以写GO/路康/丁温克劳利）
 2. When you were a kid, your guardian angle killed a man to save you. The last you ever saw of him was his ethereal form being dragged into hell. Flash forward 15 years and out of desperation, you summon a demon to trade away your soul. Suddenly, your ex-guardian angel appears before you.（路康/丁卡，尤其是丁卡）
@@ -121,8 +121,8 @@ published: false
 
 ### Heroes and Villains
 
-1. A senile, old superhero still goes out to fight crime. None of the younger heroes respect him anymore but all the villains have a soft spot for him. （好喜欢这个，很戳很暖，也可以很虐，老英雄在结局会被younger heroes bully、出意外、可能会受伤乃至致命，然后会在最后被villain救或者反过来拼死救下villain，然后younger heroes和世人只是草草埋葬了他，甚至可能不记得他的名字，villains在暗处为他举办了一场安静庄重的葬礼）
-1. Life has definitely slowed down since retiring at 70 as a super hero. To your surprise, your old evil arch enemy appears at your door, claiming that doctors said he doesn’t have much time left. You two decide to spend a day golfing to reminisce about your glory days one last time. （喜欢这种反派和英雄温馨（但是也可以继续反水）的故事）
+1. **A senile, old superhero still goes out to fight crime. None of the younger heroes respect him anymore but all the villains have a soft spot for him.**（好喜欢这个，很戳很暖，也可以很虐，老英雄在结局会被younger heroes bully、出意外、可能会受伤乃至致命，然后会在最后被villain救或者反过来拼死救下villain，然后younger heroes和世人只是草草埋葬了他，甚至可能不记得他的名字，villains在暗处为他举办了一场安静庄重的葬礼）
+1. **Life has definitely slowed down since retiring at 70 as a super hero. To your surprise, your old evil arch enemy appears at your door, claiming that doctors said he doesn’t have much time left. You two decide to spend a day golfing to reminisce about your glory days one last time.**（喜欢这种反派和英雄温馨（但是也可以继续反水）的故事）
 1. The nearby village simply knows you as the hunter who lives in the forest, but you have a dark secret. You are the former dark Lord. Today you returned from a hunt and found the Hero that defeated you in your hut.（大力环）
 1. The villain in a fantasy world has spent his whole life trying to take over the world. Now he’s finally done it, he finds he’s constantly bored and yearns for his old enemies to return. （对hero同样成立，但对于一个小坏蛋又心软好看的villain，更容易被读者喜欢，比如洛基）
 1. You are a "con-man superhero". You draw the attention of villains, pretend to have powers and keep them occupied until a real hero with real powers arrives on the scene. You are so good at your job, that no one is entirely sure whether you are truly powerless or not.（喜剧风超英片，男主贱贱）
@@ -131,7 +131,7 @@ published: false
 1. You are a superhero who fights with his arch-nemesis on a weekly basis. For the past few weeks, however, you haven't seen him, so you decide to break into his lair, only to find a video-recording, titled for you. Turns out: He died because of terminal cancer.（然后你很生气他为什么从来没有告诉你，因为你的superpower是可以把他revive的，于是你这么做了，你们继续过上了每周打一架的生活）
 1. You are a supervillain who went undercover as a superhero for jokes, only to discover how corrupt the system is in the hero society. The system is so corrupt that you agree to lead a small group of superheroes to rebel against the unjust hero society.（黑袍纠察队）
 1. You are a unimportant background character just trying to survive whatever nonsense the main characters are up to. However you keep finding yourself being drawn into dangerous situations, and to your horror, you realize that you're a fan favorite character, the show is giving more "screen time".（丁卡）
-1. You are a villain famous for "killing" heroes. In reality, heroes come to you to fake their deaths.（啊喜欢这个）
+1. **You are a villain famous for "killing" heroes. In reality, heroes come to you to fake their deaths.**（啊喜欢这个）
 1. You are pretty sure that your roommate is a new villain terrorizing the city and you are conflicted. They cook extra food for you and your other roommates frequently, pay you their share of the bills on time, and even help to clean the apartment. They are the perfect roommate.（犹豫什么，可以选择加入）
 1. You, a supervillain, are very confused as to why your superhero-nemesis is rampaging through your lair screaming something about you kidnapping their girlfriend. Meanwhile your daughter, who has come to visit you, seems very nervous and is anxious to leave your lair.（哈哈哈就爱看这种俗气故事）
 1. You're a "comically incompetent" supervillain for a group of C-list heroes. They are no real threat to you, so you endure their childish speeches. However, when the heroes raid the civilian business you run on the side and injure your employees, you decide to take yourself seriously for once.
@@ -144,7 +144,7 @@ published: false
 ### Monsters and Creatures
 
 1. Dragons horde things. Some dragons horde gold. Some dragons horde magical items. There is a dragon that hordes technology.（哈哈哈，fantasy+sci-fi融合）
-2. Monsters are born when someone is overwhelmed by despair and loses hope. They are mindless, animalistic and driven to consume the people they saw as happier than they were in life. You’ve been hired to put own another one downtown, but when it sees you, this one kneels and begs for your help. （喜欢这个设定，类似抑郁症设定）
+2. **Monsters are born when someone is overwhelmed by despair and loses hope. They are mindless, animalistic and driven to consume the people they saw as happier than they were in life. You’ve been hired to put own another one downtown, but when it sees you, this one kneels and begs for your help.**（喜欢这个设定，类似抑郁症设定）
 2. You are a small dragon, the size of a cat, with a mighty hoard which you proudly guard. However, your treasure consists not of gold and gens but, instead, various kinds of stickers.（有点可爱）
 2. You got a magic rock as a kid that was meant to teach you the "magic words" of please and thank you by reminding you whenever it's appropriate. Now though, it's beginning to recommend whole paragraphs whenever you're in a sticky situation. The best part is following its advice always works out best.
 2. You've curled into bed after an exhausting, chilly day with your typical assortment of pets. Large dogs, cats. You hear a close by growl and snuffle you aren't familiar with, but decide to just shift over, pat the bed and sleepily say "come on, then".（纽特斯卡曼德）
@@ -166,14 +166,14 @@ published: false
 
 ### Special Abilities
 
-1. A close friend of yours can read minds. It was their dream to work for the FBI or CIA to catch bad guys. You accompanied them to their first interview, but instead they walk straight back out. They whisper to you to walk calmly out to the cat and not to say a word or make eye contact, act calm. （带感）
-1. After waking up one day, you suddenly hear your life’s soundtrack. Everything goes well and you merrily live your life, until you notice that whenever you’re around your best friend, a very ominous and scary piece plays. （带感，喜欢设定，源于对BGM的偏爱，拍成电影/情景喜剧会很有趣）
+1. A close friend of yours can read minds. It was their dream to work for the FBI or CIA to catch bad guys. You accompanied them to their first interview, but instead they walk straight back out. They whisper to you to walk calmly out to the cat and not to say a word or make eye contact, act calm.（带感）
+1. After waking up one day, you suddenly hear your life’s soundtrack. Everything goes well and you merrily live your life, until you notice that whenever you’re around your best friend, a very ominous and scary piece plays.（带感，喜欢设定，源于对BGM的偏爱，拍成电影/情景喜剧会很有趣）
 1. Anything you cut with a knife becomes cake.（蛋糕版金手指，童话风）
 1. As an immortal you thought you would be alone for the rest of eternity. Until you find a friend who reincarnates the instant they die. You both see it as a game. Every time they die you have to find them. This time on their death bed they promise to make you really work for it.（很香很经典的同人设，可以写很多永生x有限的cp，亚梅/丁卡/AL）
 1. At the age of twelve you started randomly seeing a green line and a red line appear on the ground. You always followed the green line and have lived a successful and happy life. Ten years later you are on top of the world, but bored. Time to see where the red leads. （是真实的生活选择，红线刺激但走下巅峰，在学完所有需要学的关于如何生活的技巧后两条线都消失了）
 1. A voice in your head whispers the identity and location of dead bodies that have been buried and hidden. You use this dark knowledge to help with police investigations. One day, the voice reveals there’s a body situated in your own back yard. The name the voice utters is your own. （侦探故事，自救和paradox，之前的每一起案件都是为了铺垫最后的这个）
 1. Being invisible has its perks, but you can't exactly sign a lease. As such, you've become quite the expert lockpick to always have a place to sleep. When you settled into the cozy lake cabin to get out of the rain, you hear "We've been expecting you" from the shadows.
-1. Diagnosed with schizophrenia. Since birth, 24/7 you’ve heard the voice and thoughts of a girl that you’ve been told is made up in your head. You’re 37 and hear the voice say “turn around, did I find you?” and you turn to see a real girl who’s heard every thought you’ve ever had and vice versa. （喜欢，甜的，可以是爱情故事）
+1. **Diagnosed with schizophrenia. Since birth, 24/7 you’ve heard the voice and thoughts of a girl that you’ve been told is made up in your head. You’re 37 and hear the voice say “turn around, did I find you?” and you turn to see a real girl who’s heard every thought you’ve ever had and vice versa.**（喜欢，甜的，可以是爱情故事）
 1. Ever since you were born, you had the ability to see a marker on where any item is if people ask you to find it. However, once a friend jokingly asks you if you could find him the holy grail. You both laugh it off, but suddenly a mark appears 5 miles to the north of you. （超能力是找东西，对大部分经典sci-fi来说很有用hhh）
 1. In a world dependent on superpowers, you thought your ability of being immune to direct alterations from other powers was mildly inconvenient. You realize something is up when a friend points out you haven't aged at all in a decade.（时间/衰老是谁的superpower）
 2. In this world everyone is born with superpowers. The catch is that hardly anyone gets to use their ability because nobody knows what theirs is or how to use it. （是现实，突然有个大boss/我/主角/反派发现了激发trigger的方法，与everyone in the world产生的矛盾）
@@ -193,7 +193,7 @@ published: false
 5. You have been told all your life that you have a rare medical condition. It means you need regular special meals that your family has lovingly prepared. You now find out that your “condition” actually requires fresh human flash and your family have become serial killers to keep you alive. （《汉尼拔》？）
 5. ~~You have recently discovered multiversal travel. As it turns out, every universe in which you were never born is a post apocalyptic wasteland. （大主角剧/超英视角，爽文；用在VO文里了；也可以写丁卡）~~
 6. You have weird super power. If you successfully talk someone into doing something, they will succeed, regardless of if the action in question is actually possible. On the other hand, your abilities to actually persuade people are unaltered.
-6. Your entire life, you’ve been told you’re deathly allergic to bees. You’ve always had people protecting you from them, be it your mother or a hired hand. Today, one slips through and lands on your shoulder. You hear a tiny voice say “Your Majesty, what are your orders?” （太可爱了，童话风，很喜欢）
+6. **Your entire life, you’ve been told you’re deathly allergic to bees. You’ve always had people protecting you from them, be it your mother or a hired hand. Today, one slips through and lands on your shoulder. You hear a tiny voice say “Your Majesty, what are your orders?”**（太可爱了，童话风，很喜欢）
 6. You're rather annoyed that your history teacher gave you a "D" on your report about the Aztecs and Incas. Not just because you're certain she doesn't like you, but also because - as an ancient being trying to adapt to modern society - you were LITERALLY there.
 6. Your grandfather told you to never let his clock stop ticking. You ignored him. As the hands come to a halt, you realize two things. First, the clock may have been controlling rather than counting time; and second, your grandfather was a much better inventor that you gave him credit for.（想到了爱丽丝里的钟表匠，电影《雨果》）
 6. Your superpower is Montage, the ability to set a task and then fast-forward through it without aging. You usually use the ability to bypass boring bits, like building things or travelling. After setting a simple goal, you activate the ability and when it finishes, decades have passed.
@@ -204,7 +204,7 @@ published: false
 
 ### Supernatural and Magical
 
-1. A depressed guy moves into a haunted house with 7 demons, each corresponding to a deadly sin. But, they’re all trying to help him get back on his feet: Pride helps with self confidence, Lust helps him get laid, etc. （有点喜欢，7宗罪的正面作用）
+1. **A depressed guy moves into a haunted house with 7 demons, each corresponding to a deadly sin. But, they’re all trying to help him get back on his feet: Pride helps with self confidence, Lust helps him get laid, etc.**（有点喜欢，7宗罪的正面作用）
 1. A fortune teller foretold that twins would be born where one was evil and the other was good. A year later, a woman gave birth to a boy with horns and bat wings, and a girl with angel wings and a halo. The boy was sent away, while she and her husband raised the girl. They kept the wrong one. （有意思，有点像自己想写的天使恶魔小孩）
 1. "Are there any spirits with me in this room right now?" The Ouija board moves to 'Yes.' "Okay good, 'cause rent is due, and you need to fork over your share." The Ouija board spells out, 'F U C K'.（哈哈哈哈，和幽灵做室友也不错）
 1. A vampire has worked at the local 7-11 for the past 5 decades. No one has the heart to call the vampire out or slay them. A little because they're such a good employee, mostly because they think they're doing such a good job hiding the vampirism when they're really not.（感觉是个很可爱的喜剧风的主角）
@@ -262,7 +262,7 @@ published: false
 1. “Did you make a wish?” “No. Stars aren’t good at keeping secrets.” （有点像我的“星星从不背叛”的反面）
 1. Instead of an angel and a demon sitting on your shoulders, one side sits a brash New Yorker and the other a posh British gentleman. Neither are necessarily good or evil, they just make passing comments on your day to day activities.（很有意思的重设我的思维宫殿的方法）
 1. It’s 2050. The Queen is still alive. People are starting to be suspicious. （哈哈哈哈）（现在再看这条突然就开始感到悲伤）
-1. There's a door with a single key hole - it will open regardless of what key is used. All keys open this door, but what's on the other side, however, entirely depends on the key.（有意思，有点喜欢）
+1. **There's a door with a single key hole - it will open regardless of what key is used. All keys open this door, but what's on the other side, however, entirely depends on the key.**（有意思，有点喜欢）
 1. Turns out wishing on a star does work, it just takes about 81000 years for the wish to get to the star and back, and for the future civilizations of Earth, it's pure chaos.
 1. You look into the mirror but you see no one. You panic but then you see yourself still sitting down, reading, Your reflection then notices you. “Ah dammit!” She hastily goes to match you but she knows it's futile. “Uhm. Just forget about that okay?” she asks.（想过，很有意思，《镜中人》，《镇魂》里用过）
 1. Your butler has served you faithfully for twenty years, working hard, offering sage advice and never complaining. One day, you see his bank balance. He’s a millionaire. （迪士尼童话风爱情故事，偏爱同性来免俗，可以写蝠福）
@@ -293,7 +293,7 @@ published: false
 19. When you’re 28, science discovers a drug that stops all effects of aging, creating immortality. Your government decides to give the drug to all citizens under 26, but you and the rest of the “Lost Generations” are deemed too high-risk. When you’re 85, the side effects are finally discovered. （很大想象空间）
 20. You live in a world where your soulmate is unable to hurt you, intentionally or otherwise. You are fighting in a war, when one of the enemy’s knives harmlessly glances off you. （喜欢！爱上对方阵营这种设定总是很带感，比如GGAD）
 21. You lost your sight – along with everyone else on Earth – in the Great Blinding. Two years later, without warning, your sight returns. As you look around, you realize that every available wall, floor and surface has been painted with the same message – Don’t Tell Them You Can See. （带劲，有种1984的感觉了，反乌托邦）
-22. You woke up with a number on your hand. It's the date of your death. Everyone has it. But this isn't dystopic. It's just a personal info in your birth certificate. Society treats it casually. Short lives get social privileges. Death is accepted as a part of life. And funerals are celebrations.（很喜欢，原创故事，可以融合感情故事，不太悲伤的悲剧故事；有点像《The Measure》的设定但是社会已经友好了）
+22. **You woke up with a number on your hand. It's the date of your death. Everyone has it. But this isn't dystopic. It's just a personal info in your birth certificate. Society treats it casually. Short lives get social privileges. Death is accepted as a part of life. And funerals are celebrations.**（很喜欢，原创故事，可以融合感情故事，不太悲伤的悲剧故事；有点像《The Measure》的设定但是社会已经友好了）
 
 ### Weird Things in Normal Life ("What's happening here")
 
