@@ -35,7 +35,7 @@ We used to fight so much, we still do. We can't talk more than two sentences wit
 
 Now it's so easy to understand why I rushed away: the same way Dean Winchester would run away when he sensed any hint of saggy intimate chick-flick moment coming up. Intimacy scares us. Vulnerability panics us.
 
-We didn't even get photos, this birthday. We did every year but just not this year. Alright, ahead tell me, I totally messed it up this time, ain't I?
+We didn't even get photos, this birthday. We did every year but just not this year. Alright, go ahead tell me, I totally messed it up this time, ain't I?
 
 Like I said, the fact that they've been here last time, it's just making things a thousand times more difficult. A thousand times tougher to handle. You would only know what you miss after you lost it. And the pain, the yearning, the missing, the want... it can be unbearable sometimes. I don't know how to handle it, so I handled it the worst way (and the safest, the most familiar and comfortable and cruel way) possible, I push them away and run away again. I guard myself tight so no one can come close again. I hurt those who come close and pains when no one does. I call and show the least when I miss the most. Because that's weak, love and want and tear is weak, and weakness is not allowed. Showing vulnerability is not allowed.
 
