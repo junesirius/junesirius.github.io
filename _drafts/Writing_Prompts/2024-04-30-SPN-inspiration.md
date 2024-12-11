@@ -722,9 +722,15 @@ what if Sam also refused to let go and continue the trial and successfully shut 
 
 Where does that leave Dean? All alone, losing Sam and Cass at the same time. Lisa is not an option, Bobby is dead. He's really alone this time.
 
-### 80.【Cass】S09E03 What if April is just a human
+### 80.【destiel】S09E03 What if April is just a human
 
 What if April is really just a sweet little girl, not a reaper, and Cass didn't take protection: child-raising story for mortal Cass?
+
+or the reaper possessed April got killed but the human April survived and pregnant
+
+Nine months later Cass finds out. (squash timeline a bit) Dean killed Jack (which was evil) but Nephilim warning siren in Heaven is not off cuz there is a second one still running around. Cass' kid is born. What are they gonna do about it? How to raise the kid together? Something has to happen to the mother so the kid is fully Cass' (and Winchesters') custody. Raising a kid in bunker.
+
+(check real timeline: S09E03 is Oct.22 2013, due date around July 15 2014, right between S09E23 and S10E01, demon Dean time -> patch: Cass didn't realize it until S12E23 Jack is born and killed on sight after birth immediately (time: May 18 2017), Cass' kid is 3y old, maybe overgrow a bit too like Jack did, show as a teen
 
 ### 81.【Dean/impala】S11E04 impala is a lady【in progress 2】
 
@@ -1275,3 +1281,4 @@ What happened to the boys when they have to extend their stay in Sunrise Wyoming
 ### 157.【destiel】S06E22 What if Crowley oversmarts everyone and becomes the new God
 
 ### 158.
+
