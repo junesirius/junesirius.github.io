@@ -764,7 +764,7 @@ Sam sighs a soft "Yeah" and falls to silence.
 
 ### Chapter 3: Rock Never Dies
 
-**(outline: look for Lucifer, Lucifer holds rock concert/metal festival in LA, a big fuss and fight like in show, reuse Vince/Ladyheart part plot, bring Lucifer in in Vince's vessel, help Lucifer recover - ask Crowley to rebuild Nick's body to help him strengthen; Cass show initial negligible sign of sickness, heal slow, easy to get tired, sleepy)**
+**(outline: look for Lucifer, Lucifer holds rock music festival in LA, a big fuss and fight like in show, reuse Vince/Ladyheart part plot, bring Lucifer in in Vince's vessel, help Lucifer recover - ask Crowley to rebuild Nick's body to help him strengthen; Cass show initial negligible sign of sickness, heal slow, easy to get tired, sleepy)**
 
 #### Act 1
 
@@ -772,7 +772,7 @@ Vince Vincente is not having a good day.
 
 The show tonight was actually great, Tommy and the rest of the band were excited, the crowd was loud. Though honestly, he doesn't see the point of having a regroup for the Ladyheart, he's just doing those old friends a favor.
 
-"They are hosting the biggest metal music festival on the planet and they invited us." Tommy told him on the phone when he was driving half way across the country. He didn't bother to ask who are "they" but just listened.
+"They are hosting the biggest rock music festival on the planet and they invited us." Tommy told him on the phone when he was driving half way across the country. He didn't bother to ask who are "they" but just listened.
 
 "I think it would be nice to have a reprise, you know? Get a few concerts for some practice run, find the old feelings like we are still twenties." Tommy talked faster and faster, undoubtedly taken away by the thought.
 
@@ -862,9 +862,11 @@ Dean walks into the kitchen in his favorite dead man's robe, rubbing his eyes wh
 
 Cass is sipping a mug of hot coffee, held in both hands, fully concentrated.
 
-Dean regards him, holding back a small smile. "Morning." he says. Cass doesn't look up.
+Dean regards him fondly, holding back a small smile. "Morning." he says. Cass doesn't look up, fully occupied by his coffee.
 
 Dean heads directly to the coffee machine. "Any plan for today?" he asks, speaking over his back.
+
+
 
 #### [TBC]
 
