@@ -1272,4 +1272,6 @@ What happened in the time flux that prevents Cass from locating and reaching Dea
 
 What happened to the boys when they have to extend their stay in Sunrise Wyoming, what dangers in there? Demons are still wandering around. They might work with Samuel Colt. They might leave message for their future self in the Pentagon railway so they would have noticed at end of S2, changed history slightly maybe?
 
-### 157.
+### 157.【destiel】S06E22 What if Crowley oversmarts everyone and becomes the new God
+
+### 158.
