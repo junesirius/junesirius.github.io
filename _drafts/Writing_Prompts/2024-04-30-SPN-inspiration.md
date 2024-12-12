@@ -946,9 +946,15 @@ invite him over because he said he doesn't have a bed at home, and it's actually
 
 卡中了哭泣天使咒，触碰会让人回溯时间，被注视会无法移动
 
-### 106.【Dean】S07E03 Amy Pond's son
+### 106.【Dean】S07E03 Amy Pond's son Jacob
 
 everyone forgets about him but he grows up, takes revenge on Dean years after S15E19
+
+Dean: You have someone you can go to? You ever kill anyone? If you do, I'll kill you.
+
+Jacob: The only person I'm gonna kill is you.
+
+Dean: Well look me up in a few years, assuming I live up that long.
 
 ### 107.【destiel】S04E01 plant a Dean in spring, grow a tree in fall
 
