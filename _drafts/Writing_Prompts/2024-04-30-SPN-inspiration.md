@@ -1286,5 +1286,10 @@ What happened to the boys when they have to extend their stay in Sunrise Wyoming
 
 ### 157.【destiel】S06E22 What if Crowley oversmarts everyone and becomes the new God
 
-### 158.
+### 158.【destiel】丁用灵魂碎片把卡拼回来复活
 
+卡为了救大家牺牲了，丁和很多跟他们亲近的重要的人（米、Bobby、Charlie、Jody、Claire、Jack？）一起围起来做仪式，每个人给自己灵魂切片来把卡拼起来复活了。复活的卡没有记忆，要是想起来就会碎掉又会死，而且没法再被拼回来（死神给的tip）。复活的卡又要爱上丁了但是所有人都在拼命阻拦，丁也要为了保护卡疯狂克制。
+
+（详见2024-12-11 梦记）
+
+### 159.
