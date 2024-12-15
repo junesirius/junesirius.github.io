@@ -6,7 +6,7 @@ categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Sam Winchester", "Michael", "Lucifer", "Vince Vincente", "Rowena MacLeod", "Fergus MacLeod/Crowley", "Adam Milligan", "Bobby Singer", "Charlie Bradbury", "Jimmy Novak", "Claire Novak"]
 tags: ["Supernatural", "destiel", "michifer", "温家兄弟", "英文"]
 pov: 第三人称
-origin: DCBB
+origin: 2025 DCBB
 published: false
 ---
 
