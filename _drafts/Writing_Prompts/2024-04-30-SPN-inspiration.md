@@ -1130,7 +1130,7 @@ Cas: “I would like to see you too, the sooner the better”
 
 Dean中两个小女巫的爱情魔咒的时候Cass正好刚从Asmodeus地方出来，回到bunker时候看见的是Dean陷入爱情的样子，就认为他对自己的样子不是爱情的样子，更加压抑自己的感情了，说不定也会有点酸？而Dean脱离魔咒之后反而意识到了自己对卡其实就是爱情
 
-### 136.【Claire/Kia】S13E09 Claire日记
+### 136.【Claire/Kia】S13E09 Claire日记（F/F）
 
 Claire的初恋（想给两个姑娘多写点什么）
 
@@ -1296,4 +1296,12 @@ What happened to the boys when they have to extend their stay in Sunrise Wyoming
 
 Instead of Meg staying behind to take care of Cass, Dean stays. Demons and Leviathans will come, more of reason to stay behind for him.
 
-### 160.
+### 160.【destiel】S07E10《Blood》
+
+Balthazar: “You need the blood of your father, but your father needn't be blood.”
+
+Spell/magic has loose definition for father/blood, what other can non-blood blood be used to?
+
+replace "father" with "brother", Dean considers Cass as brother, so for some spell that literally requires "blood of your brother", would that work? Official approval of really actually being "brother"/"family"?
+
+### 161.
