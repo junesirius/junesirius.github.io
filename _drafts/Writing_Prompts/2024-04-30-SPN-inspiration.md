@@ -1292,4 +1292,8 @@ What happened to the boys when they have to extend their stay in Sunrise Wyoming
 
 （详见2024-12-11 梦记）
 
-### 159.
+### 159.【destiel】S07E17 Dean stays to take care of mad!Cass
+
+Instead of Meg staying behind to take care of Cass, Dean stays. Demons and Leviathans will come, more of reason to stay behind for him.
+
+### 160.
