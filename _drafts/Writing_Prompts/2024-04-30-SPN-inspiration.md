@@ -1304,4 +1304,26 @@ Spell/magic has loose definition for father/blood, what other can non-blood bloo
 
 replace "father" with "brother", Dean considers Cass as brother, so for some spell that literally requires "blood of your brother", would that work? Official approval of really actually being "brother"/"family"?
 
-### 161.
+### 161.【destiel】S06E05 Dean gets killed when he's still vampire 【in progress 5】
+
+Dean gets killed when he's still vampire so he goes directly to purgatory, meets Benny there (?), fights together, tries to come back but neither can go through human portal
+
+(Sam still soulless the whole time)
+
+Cass goes desperate, blames himself, pushes Crowley/Alphas even further to find purgatory, finds rogue reaper Ajay, turns himself to monster (disturbing form, distorting wings etc.), challenges Raphael with death wish, gets killed as he wants, goes to purgatory, finds Dean (both not recognize the other at first, fight a bit, almost kill each other, until recognize too familiar habits/catch phrase e.g. "son of a bitch"), waits for Ajay to pick up but Ajay killed by Crowley/Alpha, confesses all secrets he's hiding this year
+
+Cass sees leviathans and everything, only way out is he juice up, so in order to bring Dean back, Cass absorbs souls in purgatory (tries best to avoid leviathans so stay sane mostly), blows up a hole in purgatory to push Dean out (heal him too, human again), tries to stay behind to keep everything in purgatory not escape by using his body as patch to the hole (and guilty for leaving Sam's soul behind, self-punish)
+
+Dean insists him out too or else he'll jump back in & they'll help fix Cass's leviathan problem, Cass complies finally, drooping leviathan ooze occasionally but mostly can hold them back, goes to hell, steals Sam's soul back and fixes him, fights Raphael with his leviathan part ("rock beats scissor, leviathan beats angel"), cancels out both problems (explodes, Dean freaks out, Cass survives), problem solved, world in peace again
+
+### 162.【destiel】S08E02 “Too much hearts is always Castiel's problem”
+
+Sammandriel: Too much hearts is always Castiel's problem
+
+it's literal, Cass has too much hearts
+
+his true form can be terrifying, disturbing
+
+Dean amazed
+
+### 163.
