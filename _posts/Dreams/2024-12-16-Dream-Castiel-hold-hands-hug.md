@@ -39,4 +39,4 @@ origin: 个站
 
 <br>
 
-（很快很快地跑、腿部肌肉酸痛、整个人很累、一开始厕所的桥段：因为这一觉是痛经中睡过去的，吃了止痛片仍然很累很痛就这么梦进去了，但就算这么难受也还是在想帮卡；Cass没能量：因为最近一直在看的《You can keep holding on》里Cass没能量）
+（很快很快地跑、腿部肌肉酸痛、整个人很累、一开始厕所的桥段：因为这一觉是痛经中睡过去的，吃了止痛片仍然很累很痛就这么梦进去了，但就算这么难受也还是在想帮卡；Cass没能量：因为最近一直在看的《You can keep holding on》里Cass没能量；厕所的式样是地上一个洞没有座位：因为最近三刷的SPN里又到了S07E12听到Dean说的“Describe "semi-functional" and do not use the words "hole in the floor"”以及和朋友R一起二刷镇魂时候突然从剧里的厕所镜头聊到过具体式样问题）
