@@ -1330,4 +1330,26 @@ Dean amazed
 
 Sam is just a human and almost finishes the trials. Cass becomes human, thinks he made big mistake and wants to make it up by going through the same three hell's trials again as Sam did to actually shut Hell's gate. Cass goes to look for Hell's hound and kills it alone, goes to hell and free Kevin/Ellen/Jo (?)'s soul to heaven, becomes very sick/weak like Sam was, goes back to bunker because they still has Crowley in the basement and it's his third trial. Cass doesn't care he'll die, only that he needs to make at least one thing right. Cass tries to comfort Dean he's been ok all these previous times and gets resurrected and this time will be the same, no one is better at "not keeping dead" than he was. Dean gets distracted to take care of sick Sam, Cass succeeds at third trial and hell's gate shuts, Cass gets dragged down. Dean has to crush open the gate to drag his ass back, because "we don't leave family behind".
 
-### 164.
+### 164.【destiel】S09E03 Cass&April's kid become new Death (the horseman)《Reapers are dying (but my kid can help)》
+
+看903总算慢慢搞明白reaper还真是天使的一个分支（之前也怀疑是但是一直没太搞明白这件事），但是平时不在天上所以全体天使堕天时候没被影响到，能被天使刀杀掉或者折磨（或者被女巫干掉），被刀划了以后也是放白光，要在地球上显形也是跟别的正常天使一样需要附身人类而且要人类consent，但是职能汇报的顶头上司是死骑
+
+然后如果变成rogue reaper的话干什么的都有，能变成赏金猎人for hire，能想去炼狱就去炼狱。但是，如果rogue reaper这种天使能随便上下炼狱，为什么正常天使不行
+
+感觉好像，天使跟reaper是同一种prototype的生物分别分配给死骑和God了，本质是一样的，但是听命不一样，后续发展出来就会稍微有点不一样，但是这样的话，已知“死骑死了的情况下死掉的reaper会变成死骑”可得“God死了的情况下死掉的angel会变成God”，已知“God没死的情况下死掉的angel会去Empty”可得“死骑没死的情况下死掉的reaper大概率也是去Empty”，于是可得，卡在Empty也可能会碰到April……
+
+继续已知“天使可以被驱逐咒pia飞、能被圣火和天使刀杀”和“reaper能被天使刀杀”可得“大概率reaper也可以被驱逐咒pia飞、能被圣火杀”。突然意识到，后期他们死了被reaper追着的时候，要把reaper干掉还是很容易的……
+
+然后还有，已知“除了God没什么别的可以创造新的天使”可得“除了死骑没什么别的可以创造新的reaper”，已知“天使数量在卡变成God和一系列事故之后大幅下降”可得“reaper数量在整个系列里应该也是持续下降”
+
+已知“Jack变成新God之后新捏了一些天使”，但是大结局之后没有新的死骑，所以reaper数量这是一直没得到补充，到大结局也没解决这个问题诶！既然God都已经是自己人顶上去干了，也应该加塞一个自己人去当死骑才对
+
+已知“天使跟人类的孩子比天使能力强而且可以接近God程度”，推测“reaper跟人类的孩子比reaper能力强而且可以接近死骑程度”，然后唯一场上已知发生过的reaper跟人类的doi是April和卡，可得……如果卡和April的孩子出生了可以顶上新死骑的空缺……
+
+天使和reaper都是SPN的消耗品……后面Rowena为了把死骑激怒来谈条件，还是连成片地屠reaper。无人关心，但是reaper真的在变少。天使恶魔至少大家了解那个系统，还可以知道怎么运作的，reaper和死骑这个系统，真是数量下降了也没人知道没人管。温双都没管，因为温双身边没关系足够好的reaper亲友！其实有一个帮过好几次忙的Tessa，但是后来天使内战时候也叛变去帮天使那边了，然后就被丁温捅死了
+
+A story about Dean helps raise Cass's kid (given birth by April the reaper who gets killed by who?) and finds out the kid can fix a lot of problems and becomes the new reaper after Dean iced the previous Death. The kid will have near-Death power, how does the kid officially become Death? Absorb old Death's power? Needs to die? Dean/Cass have to kill him?
+
+That kid might/should have good relationship with Jack, so new God and new Death are in good balance, same age, same family, same parenting. New creator of the new world, don't know who's older, tell others they may reap each other some day but Dean/Cass know that won't happen, they'll keep each other company.
+
+### 165.
