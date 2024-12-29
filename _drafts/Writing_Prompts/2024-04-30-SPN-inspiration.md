@@ -1352,4 +1352,8 @@ A story about Dean helps raise Cass's kid (given birth by April the reaper who g
 
 That kid might/should have good relationship with Jack, so new God and new Death are in good balance, same age, same family, same parenting. New creator of the new world, don't know who's older, tell others they may reap each other some day but Dean/Cass know that won't happen, they'll keep each other company.
 
-### 165.
+### 165.【destiel】S06E21 “In for a penny, in for a pound”
+
+Balthazar's words, reuse it in casino setting? destiel was just having fun gambling? or another gambler case like S05E07
+
+### 166.
