@@ -1356,4 +1356,10 @@ That kid might/should have good relationship with Jack, so new God and new Death
 
 Balthazar's words, reuse it in casino setting? destiel was just having fun gambling? or another gambler case like S05E07
 
-### 166.
+### 166.【crowstiel】S09E10 Crowley/Cas both human
+
+after S09E01 Cas becomes human, Crowley gets addicted to human blood and kidnapped into the bunker, it's not impossible to continue inject him with purified human blood and after long enough he does get fully converted into pure human and ends up getting out the devil's trap by himself
+
+want to see Crowley and Cas as two pure human hanging around hunting, still bickering a lot like they did in S09E10, kinda like two real hunters but still kinda like angel/demon, and of course at the end of the story they both regain their unearthly power and maybe has to fight again, but surely won't want to kill each other so much like they might do after S06E22
+
+### 167.
