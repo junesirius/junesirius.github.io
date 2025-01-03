@@ -1362,4 +1362,20 @@ after S09E01 Cas becomes human, Crowley gets addicted to human blood and kidnapp
 
 want to see Crowley and Cas as two pure human hanging around hunting, still bickering a lot like they did in S09E10, kinda like two real hunters but still kinda like angel/demon, and of course at the end of the story they both regain their unearthly power and maybe has to fight again, but surely won't want to kill each other so much like they might do after S06E22
 
-### 167.
+### 167.【destiel】S06E22 side affect of becoming God: amnesia
+
+Chuck takes precaution for anyone closer to God's ability, as soon as Cass juice up and ganks Raphael, he forgets who he is and that he has God power. He flies away on instinct, not knowing why and how. He finds out he has power, probably uses a few to help people, freaks out a bit, Raphael's men hunt him down and get killed, takes long time but wanders back to bunker. (Then what?)
+
+(A bit inspired by 《Heard from your mother》)
+
+### 168.【Gabstiel】S09E18 Gabe and porn and Cass
+
+head canon ver of Cass was raised by Gabe from angel baby to adule seraph
+
+Gabe loves sex and porn, Cass never sees porn until S06E10 and never has sex until S09E03, how does that happen
+
+How does Gabe hide all from baby angel? prevent from being run into? embarrassed (or not?) and don't know how to explain or go ahead explain in plain words?
+
+(might be a cute little kid-raising story, gabstiel pairing but no slash)
+
+### 169.
