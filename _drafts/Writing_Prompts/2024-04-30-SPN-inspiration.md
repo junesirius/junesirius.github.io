@@ -1378,4 +1378,12 @@ How does Gabe hide all from baby angel? prevent from being run into? embarrassed
 
 (might be a cute little kid-raising story, gabstiel pairing but no slash)
 
-### 169.
+### 169.【全员】S09E20 Godfather monster-version
+
+Chicago, five monster families start gang fighting
+
+Winchesters get pulled out of town because Cass finds leads on Metatron, and say they'll put other hunters in it, what hunter can possibly handle five big monster families?
+
+TFW come back to clean up Chicago situation after things peace out (after S11E23 maybe?)
+
+### 170.
