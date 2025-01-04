@@ -1386,4 +1386,10 @@ Winchesters get pulled out of town because Cass finds leads on Metatron, and say
 
 TFW come back to clean up Chicago situation after things peace out (after S11E23 maybe?)
 
-### 170.
+### 170.【destiel】S09E21 “commander”【R级】
+
+Dean teases Cass "Commander" when his men call him that -> Dean call him commander on bed
+
+also S09E22, Cass: "They like to hear me say their names", Dean: "I know a couple of women like that" -> Dean certainly likes that too and Cass is good at it
+
+### 171.
