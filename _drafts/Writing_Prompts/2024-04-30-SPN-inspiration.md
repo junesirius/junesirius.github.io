@@ -1396,6 +1396,12 @@ also S09E22, Cass: "They like to hear me say their names", Dean: "I know a coupl
 
 Dean: "Knife me, smite me, throw me into the freakin' sun, whatever. And don't let Sam get in the way, because he'll try. I can't go down that road again, man. I can't be that thing again."
 
-What if after S10E18 Dean does go down that road and be that thing again and Cass has to keep his promise and try to kill him in all the ways he can think of, tried with knifing, smiting, throwing into the sun, but nothing works. The mark of Cain keeps Dean resurrected whatever Cass does, and every try kills Cass more than Dean, and Sam will always try to get in the way. Until Cass can't take anymore and want to give up, let Dean kill him instead so he won't have to watch. Dean gets his mind back before killing Cass, like how Cass fights brain wash in S08E17.
+What if after S10E22 Dean does go down that road and be that thing again and Cass has to keep his promise and try to kill him in all the ways he can think of, tried with knifing, smiting, throwing into the sun, but nothing works. The mark of Cain keeps Dean resurrected whatever Cass does, and every try kills Cass more than Dean, and Sam will always try to get in the way. Until Cass can't take anymore and want to give up, let Dean kill him instead so he won't have to watch. Dean gets his mind back before killing Cass, like how Cass fights brain wash in S08E17.
 
-### 172.
+### 172.【destiel】S09E11 what if Cass gets Mark of Cain
+
+what if the first time round, instead of Dean getting Mark of Cain, Cass gets it instead
+
+borrow something from S15 Cass gets mark (briefly) and Chuck's what-if future of "Cass gets crazy and Dean has to lock him up in Malaak Box"
+
+### 173.
