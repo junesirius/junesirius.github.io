@@ -1404,4 +1404,11 @@ what if the first time round, instead of Dean getting Mark of Cain, Cass gets it
 
 borrow something from S15 Cass gets mark (briefly) and Chuck's what-if future of "Cass gets crazy and Dean has to lock him up in Malaak Box"
 
-### 173.
+### 173.【destiel】found missing wings before found angel
+
+（来自路西剧）
+
+Dean在沙滩上发现一对掉落的烧焦黑色翅膀，第一反应觉得是路西的，后来发现是卡的，一开始不相信卡是天使，慢慢变熟。每次看见翅膀都会心疼
+
+### 174.
+
