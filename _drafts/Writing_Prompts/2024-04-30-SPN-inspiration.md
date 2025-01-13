@@ -996,7 +996,7 @@ What if Charlie follows Gilda to fairy land
 
 What if Crowley didn't figure it out how to break the spell or too late, Cass died, Dean blamed Mary for the rest of the time, who's gonna take care of Jack, Jack's new father
 
-### 115.【TFW日常】Davie Jones' chest
+### 115.【TFW case fic/xover】Davie Jones' chest
 
 case related to lore, ref: Pirates of Caribbean
 
@@ -1382,7 +1382,7 @@ How does Gabe hide all from baby angel? prevent from being run into? embarrassed
 
 (might be a cute little kid-raising story, gabstiel pairing but no slash)
 
-### 169.【全员】S09E20 Godfather monster-version
+### 169.【all】S09E20 Godfather monster-version
 
 Chicago, five monster families start gang fighting
 
@@ -1446,4 +1446,20 @@ Dean在沙滩上发现一对掉落的烧焦黑色翅膀，第一反应觉得是�
 
 what if卡也在这个案子里，也中了自杀诅咒，呼应S08E08卡的“I might kill myself”，看见自己又杀了这么多天使人类和S08E17洗脑时候杀的丁，拿天使刀准备自杀，已经开始捅了，丁醒过来想摇醒他但是做不到，抢刀抢不下来，无助绝望开始爆发表白卡活着对他有多重要，开始祈祷，卡听见祈祷醒过来听见了丁爱他
 
-### 178.
+### 178.【Cas/destiel】S11E21 十字架
+
+inspired by: 路西被Amara钉成十字架
+
+what if Jesus's time, Cass offered to replace him, 被钉在十字架上
+
+有点像兆，AC旁观biblical时期各种事件
+
+### 179.【all】S11E22 What if they killed Darkness, what's end-of-reality bad
+
+initial reasoning of why can't kill Darkness: Yin and Yang, Darkness and Light, light without dark, consequence is "end-of-reality bad"
+
+they always try to prevent something bad happening to make a rush decision of something terrible, what if not killing Darkness is also one of these situations
+
+what if imbalanced universe isn't as bad as they thought it would be
+
+### 180.
