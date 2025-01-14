@@ -974,6 +974,12 @@ Is love happiness, how do you know what you like, angels don't have preference, 
 
 What if the original plan works out, Chuck dies, Dean triggers the soul bomb and takes Amara, how would the world go from there, Sam is shattered, Cass takes care of Sam, Dean's funeral with Black Sabbath, no ash but put tomb in the place he loved, life carry on
 
+Without both God and Darkness, the world is still in balance and move on
+
+Dean, after death, like Billie promised, Billie ensures he is in Empty where no one come back. Sam and Cas are devastated, like how Jack wants Cas back and wakes him, so is Cas' want and pray, powerful enough to wake Dean up in Empty. Cas would have checked Heaven (shut down by angels already) and look for Dean but can't find him.
+
+Dean would bargain his way out of Empty like Cas did in 1305, or Cas would get suicidal and died and ended up in Empty too, and the already waken-up Dean find Cas in the Empty, bust both of them out.
+
 ### 110.【destiel】S12E01 Mary talks to Cass about destiel
 
 Mary assumes they're in relationship, mother-son-in-law talk
@@ -1463,3 +1469,4 @@ they always try to prevent something bad happening to make a rush decision of so
 what if imbalanced universe isn't as bad as they thought it would be
 
 ### 180.
+
