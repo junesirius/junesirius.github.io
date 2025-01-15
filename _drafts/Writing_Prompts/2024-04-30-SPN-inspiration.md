@@ -1468,5 +1468,15 @@ they always try to prevent something bad happening to make a rush decision of so
 
 what if imbalanced universe isn't as bad as they thought it would be
 
-### 180.
+### 180.【destiel】what if Cas is a reaper
+
+reaper is a kind of angel, what if Cas is a reaper, meets Dean first time when he is reaping him (S01E12 Faith), or S04E01 when angels siege the pit and it's an all hands on deck situation so they ask for volunteers and reapers helped so Cas is in the siege team
+
+Cas being reaper would probably freak Dean out more than he being an angel already is, dagger in heart but doesn't do him any harm
+
+Cas rebel to Death to protect Dean when he needs to be reaped, Death more understanding than God (or not, like Billie)
+
+could rewrite S4 to finale
+
+### 181.
 
