@@ -1478,5 +1478,14 @@ Cas rebel to Death to protect Dean when he needs to be reaped, Death more unders
 
 could rewrite S4 to finale
 
-### 181.
+### 181.【Cas/Jimmy?destiel?】2077 AU
 
+Johnny Silverhand/V=Cas/Jimmy
+
+both are possession-body relationship
+
+Cas is the angelic relic from biblical old age
+
+or to make it destiel, make Cas possess Dean
+
+### 182.
