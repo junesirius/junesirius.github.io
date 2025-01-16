@@ -77,7 +77,7 @@ Jensen has a plan. He is going to do what he has been doing for about five years
 
 "Your black credit card, the one Sam and Dean maxed out buying the bone of Saint and whatever. Everything in the script happened, that must happened too." Jensen reasons.
 
-Jared stutters, "I... I must ordered it when I was drunk or something. Or maybe it's Gen, I'll ask her."
+Jared stutters, "I... I must have ordered it when I was drunk or something. Or maybe it's Gen, I'll ask her."
 
 Jensen raises one eyebrow. "So it's true. Come on! I thought you'd believe in facts."
 
@@ -115,7 +115,7 @@ Jensen shoots him a shattered disappointed look. "Fine."
 
 <br>
 
-The show doesn't just teach him how to be a better actor, it turns out it also did a fairly good job to prepare him to be a good hunter.
+The show doesn't just teach him how to be a better actor, it turns out it also did a fairly good job of preparing him to be a good hunter.
 
 And Jensen already knows by heart that the first step of working a (hunting) job, is to do the research, and know what you're dealing with. In this case, angels from a different universe.
 
@@ -149,17 +149,17 @@ Jensen prays to Castiel, days and nights, desperately, painfully, full-heartedly
 
 This is exactly what those prayer-slash-curses are, distress calls.
 
-"Cass, you son of a bitch," Jensen thinks loudly, "Misha died for your bullshitting great cause and grand plan. The least you can do is to pop in and bring him back. Don't say this world isn't yours so you don't care. Don't be a dick. Please! I'm begging you!"
+"Castiel, you son of a bitch," Jensen thinks loudly, "Misha died for your bullshitting great cause and grand plan. The least you can do is to pop in and bring him back. Don't say this world isn't yours so you don't care. Don't be a dick. Please! I'm begging you!"
 
 His heart always bleeds hard at those moments, as if he has to watch Misha bleed out from the stabbing wound in front of him all over again. And again. And again.
 
-Jensen figures if the angels can come and go once, there is no reason why they can't do it twice. But none of them come back again, not Cass, not any of the other douchebag angels.
+Jensen figures if the angels can come and go once, there is no reason why they can't do it twice. But none of them come back again, not Castiel, not any of the other douchebag angels.
 
 It would have been a good thing in any other circumstances, but not when he really, really needed to get on hold of one of them.
 
-Jensen also considers the possibility that Cass may be dead in the other world. That could explain why he can't come by. But Sera writes Cass back to the show, so if it means anything, he has to believe Cass is still there, and maybe, just maybe, there is the tiniest chance his soul-phone signal could reach that far.
+Jensen also considers the possibility that Castiel may be dead in the other world. That could explain why he can't come by. But Sera writes him back to the show, so if it means anything, he has to believe the angel to blame is still there, and maybe, just maybe, there is the tiniest chance his soul-phone signal could reach that far.
 
-For that tiniest possibility, he even endures watching the new guy acting as Cass's new vessel, playing the role and saying the lines that should have been Misha's. Everything is just so wrong.
+For that tiniest possibility, he even endures watching the new guy acting as Castiel's new vessel, playing the role and saying the lines that should have been Misha's. Everything is just so wrong.
 
 <br>
 
@@ -167,7 +167,7 @@ Days and years pass by. Time doesn't mean anything now. Nothing does.
 
 Jensen buries himself in acting and experimenting with whatever new spells he can find. He has been to all the oldest archaeological sites, looking for mysterious drawings and languages no one can recognize. His house can be used as the shooting set for the Man of Letters bunker library just as is. He probably knows more about any ancient language than any other human being on Earth.
 
-But nothing helps. Angels didn't come. The dead remain dead.
+But nothing helps. Angels didn't come. The dead remains dead.
 
 Jensen has moved the ring from the left ring finger to the right ring finger. Some closest friends noticed. Their look would fall on the ring finger, shoot him a questioning look, receive a "don't ask" look in return, and look away with a sigh.
 
@@ -209,13 +209,13 @@ Jensen stirs around so quickly that his head spins dizzy.
 
 Jack stands there behind him. Next to him, Castiel. Looks just like his Misha, young, charming, unraveling hair, clean trench coat, but a teeny tiny bit more solemn that tells him this is the angel Castiel, not his Misha.
 
-Jensen widens his eyes, choking on his voice. "Cass." he breathes.
+Jensen widens his eyes, choking on his voice. "Cas." he breathes.
 
 Jack starts to explain the change in the universe, some effort he is going through to correct some wrongs, and that there are so many worlds that Chuck mistreated and angels messed around, that it's nearly impossible to figure out what has been going on in each of them and how to set it right. "People in those worlds, they're hurt too." Jack says, sincerely, "And these emotions, the pain and longing and love, they are all real. All the worlds are real, so I have to fix them."
 
 Jensen can barely focus on what he's saying.
 
-Castiel steps towards Jensen. The weathered man looks at this face that is so much alike to the face he thinks and dreams every night but still so subtly different, he doesn't know if he wants to punch it or kiss it, so he just looks at him.
+Castiel steps towards Jensen. The weathered man looks at this face that is so much alike to the face he thinks and dreams about every night but still so subtly different, he doesn't know if he wants to punch it or kiss it, so he just looks at him.
 
 Castiel can't bear the amount of pain in his eyes. The angel looks away, shameful and regretful. "I'm sorry, Dea - Jensen. I really am."
 

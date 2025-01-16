@@ -11,11 +11,11 @@ origin: AO3
 
 \# AO3 tags: "suicidal Castiel", "depressed Castiel", "triggers", "angst", "hurt no comfort", "torture", "but for a good reason", "pain", "a lot of pain", "a lot of tears", "no one dies but sad ending", "sequal maybe", "post S15E02", "S14E18", "S14E20", "S08E10", "Sam is a big help", "Rowena is a big help", "Everyone is a big help", "Dean Winchester is a dick", "Enochian"
 
-\# Summary: Dean is a dick. Cass needs saving.
+\# Summary: Dean is a dick. Cas needs saving.
 
 \# Notes:
 
-I want to punish Dean for being such a dick, so I tortured Cass to torture him. So the title is also from me to Cass, "I'm sorry, Cass."
+I want to punish Dean for being such a dick, so I tortured Cas to torture him. So the title is also from me to Cas, "I'm sorry, Cas."
 
 I had this story idea after I watched S15E02, and then when I was still planning it, I watched S15E03, and I regretted not writing this down sooner. The breakup scene and the sacrifice of Rowena hurt me so badly that I forgot half the juicy content I initially imagined for this story. Dean needs to apologize to me.
 
@@ -29,21 +29,21 @@ Leading the way down the stairs towards the main hall, Sam says, with a relieved
 
 "Yeah she's damn awesome lately," Dean agrees, with a small approval smile, "with the rupture to the hell and the door to the other world and all that, I'll give you that."
 
-Cass follows them, nodding, "I'm glad she's on our side now, her powers are being very useful."
+Cas follows them, nodding, "I'm glad she's on our side now, her powers are being very useful."
 
 "Certainly more useful than you are recently." Dean says abruptly.
 
-Cass stuns, stopping in the middle of the stairs, choked, eyes wide.
+Cas stuns, stopping in the middle of the stairs, choked, eyes wide.
 
 "Dude!" Sam snaps, looking back to stare at his brother, frowning, "What's that about?"
 
-Dean holds the stare, not looking at Cass' gaze on him, speaking in a matter-of-fact tone as if the angel's not even there, "What? Just telling the fact, Rowena built the crystal, Jack-slash-Belphegor closed the rupture, we were busy killing ghosts and soothing people, what did he do? Let me see. Oh, he told the family what happened to the wife so that two other civilians could sneak in and get themselves attacked and almost die. Nice work!" He shoots a stern glance at Cass, continuing the smooth movement of shoving the gear bag underneath the table, taking off his jacket, and ready to grab a drink.
+Dean holds the stare, not looking at Cas' gaze on him, speaking in a matter-of-fact tone as if the angel's not even there, "What? Just telling the fact, Rowena built the crystal, Jack-slash-Belphegor closed the rupture, we were busy killing ghosts and soothing people, what did he do? Let me see. Oh, he told the family what happened to the wife so that two other civilians could sneak in and get themselves attacked and almost die. Nice work!" He shoots a stern glance at Cas, continuing the smooth movement of shoving the gear bag underneath the table, taking off his jacket, and ready to grab a drink.
 
-Cass stutters weakly, voice hurt, "I-I thought that's for their best. They deserve to know... I didn't mean to... "
+Cas stutters weakly, voice hurt, "I-I thought that's for their best. They deserve to know... I didn't mean to... "
 
-"Yeah, not so much. Probably next time don't think, just ask. Apparently your judgment of what's best is never right." Dean cuts him off harshly without looking at him, already heading towards the kitchen before even finishing his sentence, leaving only his back to Cass.
+"Yeah, not so much. Probably next time don't think, just ask. Apparently your judgment of what's best is never right." Dean cuts him off harshly without looking at him, already heading towards the kitchen before even finishing his sentence, leaving only his back to Cas.
 
-Cass stares at his back, thinking about following into the kitchen, but on second thought, he stops. Just standing in the middle of the empty hall, staring at the map on the center table, not knowing what to do.
+Cas stares at his back, thinking about following into the kitchen, but on second thought, he stops. Just standing in the middle of the empty hall, staring at the map on the center table, not knowing what to do.
 
 *You are useless to us.*
 
@@ -63,21 +63,21 @@ There don't seem to be many reasons to continue hanging around anymore. Castiel 
 
 Maybe go tell the brothers one last farewell before taking off? Castiel considers, just so that they won't think he decides to bail on them or random MIA like the other times that he got abducted. He walks slowly towards the kitchen, thinking about the words he's gonna say to them, not purposefully keeping the footsteps quiet, but stops by the corridor when he hears the arguments and his name from the kitchen.
 
-Sam's soft voice is saying, "What's wrong with you two? Really no need to be so mean to Cass."
+Sam's soft voice is saying, "What's wrong with you two? Really no need to be so mean to Cas."
 
 Dean's voice answers, impatiently, "Nothing. Why the hell do you make it sound like my fault? I'm not the one started ghost-zombie-pocalypse."
 
-"Neither is Cass!" Sam counters, speaking quickly, "You've been blaming him for everything, for Mom, for Jack, for Chuck. Dude's been doing nothing but giving his everything to us since the beginning, I don't even want to think about how many times he had died for us, don't you think he deserves at least a little respect?"
+"Neither is Cas!" Sam counters, speaking quickly, "You've been blaming him for everything, for Mom, for Jack, for Chuck. Dude's been doing nothing but giving his everything to us since the beginning, I don't even want to think about how many times he had died for us, don't you think he deserves at least a little respect?"
 
-Dean murmurs something under his breath, Cass can't quite make it out from the distance. The sound is followed by empty glass hitting the table, the refrigerator door opening and closing, and a bottle lid flying open. Castiel hesitates whether this would be a good moment to walk in, when Dean starts talking again. So he waits.
+Dean murmurs something under his breath, Cas can't quite make it out from the distance. The sound is followed by empty glass hitting the table, the refrigerator door opening and closing, and a bottle lid flying open. Castiel hesitates whether this would be a good moment to walk in, when Dean starts talking again. So he waits.
 
 "He needs to earn it." Dean says, fiercely, sound squeezed out from between clenched teeth, "The trust, the respect, all of it. He ruined them too damn many times he'll have to build it from ground zero again."
 
 Castiel flinches in pain, feeling his heart get stung by countless needles right through the center. He knows he messed up, but he never knows for sure how Dean really sees it -- see him -- and now he gets the cruel answer: Dean stops respecting him, stops trusting him, like he said himself, he's dead to him. Castiel closes his eyes, breathing long and slowly, trying to ease the pain, but nothing helps. He can almost see his heart -- or his Grace, whatever metaphorical spiritual central core that bears the weight of feelings and emotions -- curls up to a small blob, the way a human huddles themselves to the smallest for self-defense.
 
-"You're just impossible to reason with when you are in this you-are-pissed-because-the-whole-world-owes-you mood, you know that?" Even Sam's voice is hitching now, cold anger slowly bubbling up but still in control. "Cass. Is. Family. Cass is our brother." Sam says slowly, word by word, syllable by syllable, emphasized. "In case you forget, he's the one who pulled you from Hell."
+"You're just impossible to reason with when you are in this you-are-pissed-because-the-whole-world-owes-you mood, you know that?" Even Sam's voice is hitching now, cold anger slowly bubbling up but still in control. "Cas. Is. Family. Cas is our brother." Sam says slowly, word by word, syllable by syllable, emphasized. "In case you forget, he's the one who pulled you from Hell."
 
-"Now that you mention it, I've been thinking about that too." Dean's voice pierces through the corridor, coldly puncturing into the angel's ear, tearing apart an already wounded heart. "You see, God planned all those shit, right? So it can be any angel to fetch me, he just so happened to send Cass. But it doesn't have to be him, so whatever 'bond' we shared, it's just all random shit that the asshole maybe suddenly come up with when he's using the toilet. As far as I can tell, we are all just pawns, and the only family I really have is you."
+"Now that you mention it, I've been thinking about that too." Dean's voice pierces through the corridor, coldly puncturing into the angel's ear, tearing apart an already wounded heart. "You see, God planned all those shit, right? So it can be any angel to fetch me, he just so happened to send Cas. But it doesn't have to be him, so whatever 'bond' we shared, it's just all random shit that the asshole maybe suddenly come up with when he's using the toilet. As far as I can tell, we are all just pawns, and the only family I really have is you."
 
 "Ok, you know what, that's enough. I have enough of your bullshit for one day." Sam says wearily. There is the sound of chair legs moving on the floor. "I'm gonna get back to my room. Feel free to knock yourself out."
 
@@ -85,11 +85,11 @@ Some mumbles and the sound of glass moving on the desk are all Dean's answers.
 
 The corridor is empty by the time Sam walks out of the kitchen. So is the hall or the library or the war room.
 
-"Cass?" Sam calls out for a few times, but the angel is nowhere to be found.
+"Cas?" Sam calls out for a few times, but the angel is nowhere to be found.
 
-Maybe he went out for some air or me time, Sam thinks to himself, can't blame the guy for not wanting to stay under the same roof with Dean after taking so much of his bullshit. If Cass wants some time away, he can totally understand.
+Maybe he went out for some air or me time, Sam thinks to himself, can't blame the guy for not wanting to stay under the same roof with Dean after taking so much of his bullshit. If Cas wants some time away, he can totally understand.
 
-Slightly concerned but too tired to think, Sam decides to put off any problem for the next day. He simply texts Cass, asking "you ok?" and goes to bed. He blacks out almost instantly, without waiting for an answer. This has been a long day for him.
+Slightly concerned but too tired to think, Sam decides to put off any problem for the next day. He simply texts Cas, asking "you ok?" and goes to bed. He blacks out almost instantly, without waiting for an answer. This has been a long day for him.
 
 Dean's day ends in a few hours with more empty bottles and a dizzy mushy head banging onto the table.
 
@@ -129,7 +129,7 @@ Idaho isn't the best place to bid farewell, but it ain't the worst either. Casti
 
 It's been three days and Sam starts to worry. Dialing for the hundredth time while pacing up and down the library, Sam frowns at the floor. Dean walks in when Sam hangs up the phone again.
 
-Dean reads his face, "Calling Cass?"
+Dean reads his face, "Calling Cas?"
 
 "Yeah, still no answer," Sam says, grumpily, throwing the phone onto the desk, "goes directly to the voicemail. Every time."
 
@@ -137,11 +137,11 @@ Dean doesn't comment, just walks silently towards the other end of the desk, sit
 
 Sam squints at him, "Tell me you are not at all worried?"
 
-"Why bother," Dean says, with a static poker face and plain tone, eyes locking on the laptop screen that he just opened, "that's the problem with these friggin' angels, they always just fly around --" he breaks off, apparently suddenly remembers Cass has lost his wings ages ago and never get it back, he swallows unnoticeably, "or drive around -- whatever, and gone MIA. He'll come back when he wants, right now he's probably just sitting on his angelic bed in his angelic bedroom in Heaven..." he pauses, not really know what Cass usually do alone, and realizes he's just babbling rubbish now, "...watching his angel TV." He finishes, opens the beer bottle and takes a gulp.
+"Why bother," Dean says, with a static poker face and plain tone, eyes locking on the laptop screen that he just opened, "that's the problem with these friggin' angels, they always just fly around --" he breaks off, apparently suddenly remembers Cas has lost his wings ages ago and never get it back, he swallows unnoticeably, "or drive around -- whatever, and gone MIA. He'll come back when he wants, right now he's probably just sitting on his angelic bed in his angelic bedroom in Heaven..." he pauses, not really know what Cas usually do alone, and realizes he's just babbling rubbish now, "...watching his angel TV." He finishes, opens the beer bottle and takes a gulp.
 
 Sam scowls at him, walking several steps towards him, voice dead serious, "Do I have to remind you of what happened the last time he's gone missing, or the time before that? Those times that he's locked in Asmodeus' jail, or Heaven's cell, or mind-controlled by Naomi, or killed by Leviathan and lost his memory? All those times that he nearly died and we don't even know?"
 
-He stands right in front of his brother now, hands grasping him by the collar, forcing him to look back, "I've lost enough, Dean. Cass is still my friend, I'm not gonna lose him too just because of whatever anger control or shitty grief coping issue you got. I'm gonna find him and get him back home. If you don't want to help, suit yourself. Just don't bury yourself in bottles again like last time when we had to burn his body."
+He stands right in front of his brother now, hands grasping him by the collar, forcing him to look back, "I've lost enough, Dean. Cas is still my friend, I'm not gonna lose him too just because of whatever anger control or shitty grief coping issue you got. I'm gonna find him and get him back home. If you don't want to help, suit yourself. Just don't bury yourself in bottles again like last time when we had to burn his body."
 
 Sam storms out of the room. Dean raises his head, gazing in the direction where his brother just left, the frowns cutting deep furrows on his forehead.
 
@@ -153,7 +153,7 @@ Sam walks towards him, making sure he hears his footsteps. Dean turns around, Sa
 
 Dean averts his eyes, palm touching the back of his neck uncomfortably. "Figured you might have a point." He admits.
 
-"Which point? The point that you're being an asshole or that Cass is family?" Sam throws his bag into the trunk, walking towards the shotgun seat.
+"Which point? The point that you're being an asshole or that Cas is family?" Sam throws his bag into the trunk, walking towards the shotgun seat.
 
 "I'm still pissed, alright?" Dean growls, slamming the trunk shut, "Just want to be sure he's ok. He can sulk all he wants, but in here, in the bunker, with us, not out there somewhere." Alone. And maybe in danger. He thinks, but lets those slide from his tongue.
 
@@ -175,7 +175,7 @@ They can see why this place is called "Ghost Town" now. They haven't seen a huma
 
 The driving trail ends several feet away, and the remaining path upwards leading to those houses needs some climbing. The two of them don't even have to ask whether the other would want to take some rest in the car for the night first, they are already stepping outside at the same time.
 
-Both of them are quiet on their way up. Sam doesn't know if it's because of the tiredness from the long driving or the uneasy gut feeling that's building up underneath the skin for both of them. He knows Cass is here, somehow, with great certainty, not just because the GPS says so or they vaguely recognize his truck dumped in the woods, but a celestial feeling, a sad -- devastated even -- feeling floating in the air. He thinks he is certainly imagining things now, but this silent sadness almost already feels like mourning, like the moment of silence at a funeral, the wind is like quiet wailing. It is as if there are invisible angel tears and angel feathers flying around them, whispering that they are too late. Leaves fall down from a nearby tree, like a sign of life passing. His heart clenches at the thought, he hurries some more steps to catch up. Dean is already ten or more steps ahead of him, apparently anxious and eager with the same gut.
+Both of them are quiet on their way up. Sam doesn't know if it's because of the tiredness from the long driving or the uneasy gut feeling that's building up underneath the skin for both of them. He knows Cas is here, somehow, with great certainty, not just because the GPS says so or they vaguely recognize his truck dumped in the woods, but a celestial feeling, a sad -- devastated even -- feeling floating in the air. He thinks he is certainly imagining things now, but this silent sadness almost already feels like mourning, like the moment of silence at a funeral, the wind is like quiet wailing. It is as if there are invisible angel tears and angel feathers flying around them, whispering that they are too late. Leaves fall down from a nearby tree, like a sign of life passing. His heart clenches at the thought, he hurries some more steps to catch up. Dean is already ten or more steps ahead of him, apparently anxious and eager with the same gut.
 
 There is no ghost in the place, the EMF is quiet, but there is a sense of residue everywhere they see. It's like the memory of people's existence is still here, engraved into the houses, the trees, the ground, long after they're gone; like their breaths are still here, mixed in the wind.
 
@@ -189,7 +189,7 @@ It's the last house at the edge of the town, the place is covered in shadow, so 
 
 "Not good," Dean says, in the same broken voice Sam has heard so many times whenever they lost someone, making his heart skip a beat. *No.* "Sammy, not good."
 
-Sam has to carefully bend down to get inside the place without hitting the ceiling. On the remnant of what looks like a bed, there is Cass. The angel lies on his back, hands holding together placed on his abdomen, the whole body is as still as a marble statue. His eyes are closed, his face looks like it has been going through everything and then self-hypnotized into a distant calming state, like a crumbled paper that gets smoothed out to the best of his effort. The only part of him that looks still full of life is his same old unkempt dark hair. His trenchcoat and suit are folded neatly by his feet, so is the tie, as if saying he doesn't need them anymore where he's going.
+Sam has to carefully bend down to get inside the place without hitting the ceiling. On the remnant of what looks like a bed, there is Cas. The angel lies on his back, hands holding together placed on his abdomen, the whole body is as still as a marble statue. His eyes are closed, his face looks like it has been going through everything and then self-hypnotized into a distant calming state, like a crumbled paper that gets smoothed out to the best of his effort. The only part of him that looks still full of life is his same old unkempt dark hair. His trenchcoat and suit are folded neatly by his feet, so is the tie, as if saying he doesn't need them anymore where he's going.
 
 "Is he...?" Sam's voice chokes.
 
@@ -199,15 +199,15 @@ There is no blood or visible wound. That's a good sign, right? Maybe they're not
 
 Dean continues, voice shattered, "...but I can't wake him up. He's fading, I know it, I can feel it, and he's already too far away I can't grab him."
 
-"Cass, come on, wake up, look at me." He begs, reaching out to gently clap angel's face and squeeze his fingers. But there is no reaction, no motion, no twitch of eyelid or fingertip, no nothing. Cass just lies there, stock-still, more like an object, a sculpture, than a living being.
+"Cas, come on, wake up, look at me." He begs, reaching out to gently clap angel's face and squeeze his fingers. But there is no reaction, no motion, no twitch of eyelid or fingertip, no nothing. Cas just lies there, stock-still, more like an object, a sculpture, than a living being.
 
-Like a ship already sails towards the sea, Sam's mind wanders, remembering the last page of the Lord of the Rings, and they are just waving their hands by the shore. Whatever they do, the ship is not coming back. Like Cass already set foot on a long solo expedition towards the end, and they are not invited to be a part together. He too has this strong feeling that they might already be too late, but he can't say it. He can't. Not when Dean is like this.
+Like a ship already sails towards the sea, Sam's mind wanders, remembering the last page of the Lord of the Rings, and they are just waving their hands by the shore. Whatever they do, the ship is not coming back. Like Cas already set foot on a long solo expedition towards the end, and they are not invited to be a part together. He too has this strong feeling that they might already be too late, but he can't say it. He can't. Not when Dean is like this.
 
 "Hey, hey, we'll find a way." Sam puts his hands on his brother's shoulder, giving him a small squeeze, swallowing through the bump in the throat, "We'll save him, like we always do. Now, let's get him home first."
 
-One hand holding the back and the other below the knees, Dean carries angel's body out, walking steadily towards the car. Sam doesn't bother to argue, just picking up Cass's clothes and following them down the hill.
+One hand holding the back and the other below the knees, Dean carries angel's body out, walking steadily towards the car. Sam doesn't bother to argue, just picking up Cas's clothes and following them down the hill.
 
-Cass is so much lighter than he'd expected. He's never carried him like this before so he won't really know, but Dean knows it can't be right. Neither the human body nor the contained angel grace should be this light. Cass is merely like a feather in his arms, like the last leaf that falls down in the wind when winter comes, like a snowflake, as if he's going to disappear the moment they're not watching. And that's because he wasn't watching, not listening, not caring, Dean kicks himself in his mind.
+Cas is so much lighter than he'd expected. He's never carried him like this before so he won't really know, but Dean knows it can't be right. Neither the human body nor the contained angel grace should be this light. Cas is merely like a feather in his arms, like the last leaf that falls down in the wind when winter comes, like a snowflake, as if he's going to disappear the moment they're not watching. And that's because he wasn't watching, not listening, not caring, Dean kicks himself in his mind.
 
 Angel's face is pale, but not worse than the times when he's human and lost a lot of blood, or that time when he got stabbed by Michael's Lance. He looks calm, actually, now that Dean's able to see more clearly under the bright moonlight. Long eyelashes cast shadows on the closed eyes, almost like he's just in a deep dream, maybe sweet even. But he's not sleeping, Dean can feel it, he *knows* it, the angel is fading. And there is nothing he can do.
 
@@ -215,7 +215,7 @@ Angel's face is pale, but not worse than the times when he's human and lost a lo
 
 The drive home feels unbearably longer than the one heading out. After almost another whole day, when the sun starts to set, they are back. The brothers haven't had much rest the whole two days, but neither of them can care about that right now.
 
-Dean puts Cass on the infirmary bed, and takes two steps back, just looking at him, frowning, silently allowing pain to slowly eat him up. Now that they're all home, things gotta be getting better, right? Nothing bad can happen in this safest place on earth, right? Dean folds his arms, feeling a bit cold. Maybe because he no longer has the angel in his embrace now.
+Dean puts Cas on the infirmary bed, and takes two steps back, just looking at him, frowning, silently allowing pain to slowly eat him up. Now that they're all home, things gotta be getting better, right? Nothing bad can happen in this safest place on earth, right? Dean folds his arms, feeling a bit cold. Maybe because he no longer has the angel in his embrace now.
 
 "Staring won't get him any better, you know." The familiar Scottish accent alarms him a bit, Dean looks up. Rowena walks into the room. Dean isn't very surprised.
 
@@ -225,13 +225,13 @@ Dean puts Cass on the infirmary bed, and takes two steps back, just looking at h
 
 "To help, of course, Luv." Rowena gives him an accusing look, "With so many celestial beings in my attendance, I'm obviously the best angel doctor you and your brother can find."
 
-Sam follows into the room, giving Dean a sheepish quick smile, "I called her. Thought last time she examined Jack, maybe she could figure out whatever's happening to Cass too. Or maybe even fix him."
+Sam follows into the room, giving Dean a sheepish quick smile, "I called her. Thought last time she examined Jack, maybe she could figure out whatever's happening to Cas too. Or maybe even fix him."
 
-Dean doesn't say anything, just locking his eyes back on Cass again. Rowena studies him, reaching out her palms hovering over Cass's forehead. "May I?" She asks.
+Dean doesn't say anything, just locking his eyes back on Cas again. Rowena studies him, reaching out her palms hovering over Cas's forehead. "May I?" She asks.
 
 Dean tilts his head and gives a small nod.
 
-Bright purple light gathers in her fingertips, like electric sparks, connecting Cass's temple with her palms. Rowena looks up towards the sky, her pupils are the same magical purple now, as if reading through a large obscure book floating in the sky. Or too many books, by the way her head suddenly shifts violently from left to right and back.
+Bright purple light gathers in her fingertips, like electric sparks, connecting Cas's temple with her palms. Rowena looks up towards the sky, her pupils are the same magical purple now, as if reading through a large obscure book floating in the sky. Or too many books, by the way her head suddenly shifts violently from left to right and back.
 
 Dean looks at her, his back unconsciously uptight, fingers clawed into a tight fist with clenched bedsheets in the middle.
 
@@ -243,7 +243,7 @@ Rowena holds one finger out to mean "give me a minute", and the other hand by he
 
 "What have *I* done?" Dean takes aback, shifting in the chair uneasily, exchanging a quick look with Sam, "Why, what happened, can you fix him?"
 
-Rowena casts that same sympathetic look back at Cass, reaching out to stroke his hair, as if a mother comforting her sick baby, she murmurs, "You poor thing."
+Rowena casts that same sympathetic look back at Cas, reaching out to stroke his hair, as if a mother comforting her sick baby, she murmurs, "You poor thing."
 
 "Rowena?" Sam raises his voice, "What is it?"
 
@@ -275,11 +275,11 @@ Dean crumples into the chair by the bed, palms covering his eyes and forehead, b
 
 What has he done, what has he done. He has killed his best friend, that's what he has done. He rubs roughly at his burning-hot eyes, the wetness refuses to stop. He looks up at the body on the bed. The angel still lies there, not moving an inch, not hearing anything in his fucked-up mind, not knowing the outside world, because this time, he is actually really going to be gone. And this is all because Dean is an asshole, and idiot, and fucking stupid coward that feels taking out on him is easier than any other way. Oh God. Look what he's done to him. He once yelled at him "You break everything you touch", but look at this, it's all so clear that this poisonous person is Dean.
 
-He hates himself so much, disgusts and despises his own existence, like he did when he just returned from Hell -- when he just got saved by Cass. He remembers all too clearly the first sight of the angel, the brightness of his existence burns his eyes, just like the tears are doing right now. How can he forget how beautiful and powerful and bright Cass was -- is. Cass never changes, not even when he does something wrong or goes to Hell and back or get thrown into Purgatory, doing exactly as he was told that night ten years ago, "don't ever change". He adapts, sure, but just to be more like them, like the Winchesters, like a hunter, like a human. He realizes Cass is even more human than most humans, than himself. Cass has a big heart, so big that Dean takes it for granted and forgets the one fact about the heart: they are strong, but they also break easily. Dean holds Castiel's hands in his, holding them so tight that he might break his bones, as if hoping this touch can allow him to reach into Cass. He knows he is just hopelessly wishing for any miracle to happen. But all is in vain.
+He hates himself so much, disgusts and despises his own existence, like he did when he just returned from Hell -- when he just got saved by Cas. He remembers all too clearly the first sight of the angel, the brightness of his existence burns his eyes, just like the tears are doing right now. How can he forget how beautiful and powerful and bright Cas was -- is. Cas never changes, not even when he does something wrong or goes to Hell and back or get thrown into Purgatory, doing exactly as he was told that night ten years ago, "don't ever change". He adapts, sure, but just to be more like them, like the Winchesters, like a hunter, like a human. He realizes Cas is even more human than most humans, than himself. Cas has a big heart, so big that Dean takes it for granted and forgets the one fact about the heart: they are strong, but they also break easily. Dean holds Castiel's hands in his, holding them so tight that he might break his bones, as if hoping this touch can allow him to reach into Cas. He knows he is just hopelessly wishing for any miracle to happen. But all is in vain.
 
-"I'm sorry, I'm so sorry, Cass." He weeps, tears dropping on their intertwined hands. He bends over to kiss on the back of Castiel's hand. But still no, no miracle, no fairytale-style sudden gasp and wake up. This reality is cruel, and far too real, as if a direct punishment for him to doubt about what is real in this world.
+"I'm sorry, I'm so sorry, Cas." He weeps, tears dropping on their intertwined hands. He bends over to kiss on the back of Castiel's hand. But still no, no miracle, no fairytale-style sudden gasp and wake up. This reality is cruel, and far too real, as if a direct punishment for him to doubt about what is real in this world.
 
-Dean frantically considers all the possible means they have tried before to break the law of death, he thinks about deals, or bargains, or exchanging one life for another. Hell, if he can kill himself to bring Cass back, he will, he swears. But there is no one to deal with, not Death, not Empty, no one. This time, the one that decides to go out for good, is Cass himself. Right now, Cass has made up his final mind that he doesn't want to be brought back. He is so utterly shattered that he would want to remove his whole existence to make the pain stop. This realization is killing Dean, eating him alive.
+Dean frantically considers all the possible means they have tried before to break the law of death, he thinks about deals, or bargains, or exchanging one life for another. Hell, if he can kill himself to bring Cas back, he will, he swears. But there is no one to deal with, not Death, not Empty, no one. This time, the one that decides to go out for good, is Cas himself. Right now, Cas has made up his final mind that he doesn't want to be brought back. He is so utterly shattered that he would want to remove his whole existence to make the pain stop. This realization is killing Dean, eating him alive.
 
 There has to be a way to fix it. It has to. Dean stumbles out, shouting for the witch, "Rowena!"
 
@@ -303,7 +303,7 @@ Apparently, Dean is too far away from them to hear about this nonsense so he doe
 
 "Aye, so?"
 
-"So what if we can hack it." Sam swallows, hating himself for bringing it up already, but this might be their only shot at saving Cass.
+"So what if we can hack it." Sam swallows, hating himself for bringing it up already, but this might be their only shot at saving Cas.
 
 "What you're saying is..." Rowena's eyes flicker with the light of realization.
 
@@ -343,7 +343,7 @@ Dean stares down at the king of Hell, still standing in the middle of the steps 
 
 The corner of Sam's lip twitches upwards a little bit, though disappears equally fast given everything in his mind right now, he looks at Crowley and says sincerely, "Welcome back."
 
-"Why don't you want us to know you're back?" Dean asks, and quickly cuts himself off, "You know what, doesn't matter. Cass is still dying. Where do you keep that mind-hacking device?"
+"Why don't you want us to know you're back?" Dean asks, and quickly cuts himself off, "You know what, doesn't matter. Cas is still dying. Where do you keep that mind-hacking device?"
 
 Crowley raises his eyebrows, "Why do I...? Are you kidding me? Exactly because something like this, you want my help, I give it to you, and a few more times later, you need my life to help, and I'll give it too. Honestly I don't want to die again, but apparently mommy dear still inevitably drags me back into the game."
 
@@ -385,17 +385,17 @@ Rowena shrugs. Crowley puts down his snapping hand, and quickly puts on an over-
 
 <br>
 
-Dean already sets the metal contraption on Cass's head, the wires tightly surround his skull, the holes spread evenly around the circle. He also puts Cass into a sitting position, making it easier for both of them.
+Dean already sets the metal contraption on Cas's head, the wires tightly surround his skull, the holes spread evenly around the circle. He also puts Cas into a sitting position, making it easier for both of them.
 
 Dean holds one drilling pick in the right hand, looking down at the unconscious angel, biting his lips so hard it starts bleeding. The tough soldier mask he used to put on his face is cracking, he is trying hard to hold back the wetness in his eyes. Sam dashes in and jolts to a stop by the door.
 
-With his left hand holding the back of Cass's head to steady him, Dean pierces the first metal pick through the center hole, stabbing right through the center of Castiel's forehead. A stream of blood flows out between his eyes, the angel lets out an unconscious scream of pain. Tears fall down uncontrollably from Dean's eyes.
+With his left hand holding the back of Cas's head to steady him, Dean pierces the first metal pick through the center hole, stabbing right through the center of Castiel's forehead. A stream of blood flows out between his eyes, the angel lets out an unconscious scream of pain. Tears fall down uncontrollably from Dean's eyes.
 
 "I'm sorry, I'm sorry." Dean murmurs to his angel, again and again.
 
-He can't continue, instead, he moves his hands to hold Castiel's chin, cupping it around the neck, as if it could be of some comfort, but knowing far too clearly that Cass wouldn't know anything about the reality now. Not even the pain, it is the basic instinct and subconsciousness that is reacting. To save him, he has to continue. To save him, he has to hurt him.
+He can't continue, instead, he moves his hands to hold Castiel's chin, cupping it around the neck, as if it could be of some comfort, but knowing far too clearly that Cas wouldn't know anything about the reality now. Not even the pain, it is the basic instinct and subconsciousness that is reacting. To save him, he has to continue. To save him, he has to hurt him.
 
-Dean bites on his lips with more force than before, blood begins to ooze from the wound. He doesn't care. This pain is nothing compared to the pain he has caused Castiel, compared to the pain that he is still bringing to him, compared to the pain inside his own heart. If anything, he's actually glad this can be some punishment to himself, for all the wrongs he's done to Cass, as his penance, his atonement for hurting Cass. And this is far from enough.
+Dean bites on his lips with more force than before, blood begins to ooze from the wound. He doesn't care. This pain is nothing compared to the pain he has caused Castiel, compared to the pain that he is still bringing to him, compared to the pain inside his own heart. If anything, he's actually glad this can be some punishment to himself, for all the wrongs he's done to Cas, as his penance, his atonement for hurting Cas. And this is far from enough.
 
 He screws the drill slightly, forcing it to go deeper, but hoping the process might be slow enough that it could cause less pain. But it's just idle hope. Castiel screams again, louder and more intense, with eyes still shut tight and unconscious.
 
@@ -405,13 +405,13 @@ Sam covers his ears with his hands, walking into the room to be closer to his br
 
 "I get this." Dean peeks at him quickly.
 
-"I know." Sam says, looking at him, the only word that is spelling out itself on Dean's face is 'pain', "Just want to be here for you, for Cass. Remind you this is the right thing, we're doing our best, in case you forget because of other things, the self-blame and all that. We are sometimes very easily to forget."
+"I know." Sam says, looking at him, the only word that is spelling out itself on Dean's face is 'pain', "Just want to be here for you, for Cas. Remind you this is the right thing, we're doing our best, in case you forget because of other things, the self-blame and all that. We are sometimes very easily to forget."
 
 Dean's lip twitches at the corner, and he gives Sam a weak nod as his response.
 
-Swallowing hard, he picks the second drill and starts working it into Cass's left temple. He holds the pick close to the skin, and he can feel the slight resistance from the skin, this thin warm layer is the only thing between the cold iron and whatever lies inside and it is so powerless compared to the force that is hurting him. Powerless, just like how Dean feels now and every time he lost no control of the situation.
+Swallowing hard, he picks the second drill and starts working it into Cas's left temple. He holds the pick close to the skin, and he can feel the slight resistance from the skin, this thin warm layer is the only thing between the cold iron and whatever lies inside and it is so powerless compared to the force that is hurting him. Powerless, just like how Dean feels now and every time he lost no control of the situation.
 
-The metal pierces through the thin layer of skin. Cass gives a higher pitch of painful scream, and a drop of tear appears at the corner of his closed eyes. Dean hates himself so much, he should be the one being tortured, beaten, cut, skinned, he should be thrown back to the deepest of Hell and get captive there for the rest of eternity. And even then, he can still not redeem what he has done to Cass. There is just absolutely nothing in the world that could let him fix the harm that is already done. The hurt is done, and more hurt is coming, and he has to continue.
+The metal pierces through the thin layer of skin. Cas gives a higher pitch of painful scream, and a drop of tear appears at the corner of his closed eyes. Dean hates himself so much, he should be the one being tortured, beaten, cut, skinned, he should be thrown back to the deepest of Hell and get captive there for the rest of eternity. And even then, he can still not redeem what he has done to Cas. There is just absolutely nothing in the world that could let him fix the harm that is already done. The hurt is done, and more hurt is coming, and he has to continue.
 
 "I'm so, so sorry." He whispers, under his breath. This is the only thing he can think of to say. But he knows well enough that this doesn't mean anything, doesn't fix anything.
 
@@ -419,23 +419,23 @@ He leans forward to wipe the tear away from the corner of Castiel's eye with his
 
 The third metal pick goes to the right temple. Dean leans in to use the whole forearm of his left arm to hold Castiel's head, and uses the right hand to press the drill in. More tears gush out from angel's closed eyes, the mouth opens once but no sound comes out, as if the pain is so tremendous that his body forgets how to scream, forgets how to use the voice to ease the pain, because there is no way of easing it.
 
-Dean's own tears are also uncontrollably coming out just by watching Castiel in pain. He throws his arms around Cass's thin back, holding him like that for a beat, hoping again this can make the pain go away a little bit. But when he pulls away from the hug, Dean realizes he's the one that needs it.
+Dean's own tears are also uncontrollably coming out just by watching Castiel in pain. He throws his arms around Cas's thin back, holding him like that for a beat, hoping again this can make the pain go away a little bit. But when he pulls away from the hug, Dean realizes he's the one that needs it.
 
-*Their brains are like delicate instruments*, he remembers Crowley's words from earlier, *elegant, fragile, you have to tune it extremely carefully to find the portion you are looking for without destroying anything, let alone maneuver it. It needs years of experience.* And now, with zero experience and only a heart full of bitterness and regret, he's operating on Cass -- the angel, the living being that is most important to him in the whole world apart from his own family.
+*Their brains are like delicate instruments*, he remembers Crowley's words from earlier, *elegant, fragile, you have to tune it extremely carefully to find the portion you are looking for without destroying anything, let alone maneuver it. It needs years of experience.* And now, with zero experience and only a heart full of bitterness and regret, he's operating on Cas -- the angel, the living being that is most important to him in the whole world apart from his own family.
 
 He starts to tweak and turn the poles that he just planted in. The scream starts again, and goes on and up endlessly, despite that the voice is already hoarse. The mirror at the corner of the room blasts into pieces, the edge of the bed sheet catches fire, the light in the room and by the corridor flickers. The pitch rises sharper as Dean digs deeper, trembling and wavering with each wave of agony, shifting erratically into piercing, anguished shrieks.
 
-Dean has to bite on his own fist to steady himself once in a while. He gives up trying to dry the tears running down on his or Cass's face. He feels his heart burns like a piece of paper torched in fire, crinkled and curled, shrinking and warping, and quickly disintegrating into only charred fragments and ashes. He can't do this anymore. This keeps reminding him of his time in Hell when he has to torture the souls, only millions of times worse now that the one he is torturing is Cass. It reminds him of the worst of himself.
+Dean has to bite on his own fist to steady himself once in a while. He gives up trying to dry the tears running down on his or Cas's face. He feels his heart burns like a piece of paper torched in fire, crinkled and curled, shrinking and warping, and quickly disintegrating into only charred fragments and ashes. He can't do this anymore. This keeps reminding him of his time in Hell when he has to torture the souls, only millions of times worse now that the one he is torturing is Cas. It reminds him of the worst of himself.
 
 And then, as suddenly as it starts, the scream stops, Castiel's eyes snap open. Dean's heart stops for a second, and then pounds twice as fast with joy and hope.
 
-"Cass?" He cries out with a shaking voice, holding the angel's shoulder.
+"Cas?" He cries out with a shaking voice, holding the angel's shoulder.
 
 But the eyes are dull, the dazzling bright blue that it used to carry and Dean used to secretly indulge in during their stare is now dead water without light. Castiel is still lost in a trance, unconsciously staring ahead, eyes unfocused.
 
 And with angel's eyes open, Dean finds it even harder now to continue doing what has to be done. Strength is drawn from every part of his body, he has never felt so exhausted before in his whole life.
 
-"Cass, come on, come back to me. I'm sorry." He begs, his voice husky and broken, hands on his shoulder shaking the angel's body lightly, before forcing himself to turn the pole on his forehead again.
+"Cas, come on, come back to me. I'm sorry." He begs, his voice husky and broken, hands on his shoulder shaking the angel's body lightly, before forcing himself to turn the pole on his forehead again.
 
 "Pah-deh-rah." Castiel starts talking. It takes Dean a second to realize he's speaking Enochian.
 
@@ -453,7 +453,7 @@ Dean looks up at the Crowley, who stands by the door, hands in hiw pockets. "Fea
 
 Dean twists the metal drill in the center carefully again.
 
-"Zir ah-mah." Cass speaks plainly, emotionlessly, "Yal-por tay-lo-ah."
+"Zir ah-mah." Cas speaks plainly, emotionlessly, "Yal-por tay-lo-ah."
 
 Everyone's eyes shift between the angel on the bed and the demon by the door.
 
@@ -463,7 +463,7 @@ Crowley mumbles, "Not everything has any meaning, you know. Sometimes it's like 
 
 Crowley looks away, using his palm to smooth his already over-neat suit. "'I am curse, the burning death.' That's what. If you ask me, this is probably the delete button you just found."
 
-"No, no, no! Cass, no, you're not." Dean wails, clapping angel's face softly, "No, Cass, don't do this to me. Please!"
+"No, no, no! Cas, no, you're not." Dean wails, clapping angel's face softly, "No, Cas, don't do this to me. Please!"
 
 Castiel shows no sign of hearing any of his words. His body shakes involuntarily with Dean's movement.
 
@@ -487,13 +487,13 @@ The sound is strange, still in Enochian, but the name is non-mistaken.
 
 *For I am the servant of you, Dean Winchester.*
 
-Shocked and stunned, Dean closes his eyes in unimaginable agony, letting the whole existence of himself shatter into pieces. Cass had once told him there are very few vocabulary in Enochian that express emotions and feelings, because angels don't have them and won't need them. So they don't have words for "love", or "hate", or "sorry", or "loyal". But apparently Cass managed to find the closest thing he could get, and carved it into the core of his existence, rewiring the built-in dedication to God into the unceasing following for Dean. And the asshole whose name is Dean managed to crunch everything, ruin it all.
+Shocked and stunned, Dean closes his eyes in unimaginable agony, letting the whole existence of himself shatter into pieces. Cas had once told him there are very few vocabulary in Enochian that express emotions and feelings, because angels don't have them and won't need them. So they don't have words for "love", or "hate", or "sorry", or "loyal". But apparently Cas managed to find the closest thing he could get, and carved it into the core of his existence, rewiring the built-in dedication to God into the unceasing following for Dean. And the asshole whose name is Dean managed to crunch everything, ruin it all.
 
 If there is one way to say love in Enochian, this is it.
 
 If the reset button is still in there somewhere, this is it.
 
-Hands still holding Castiel's body so that he can look into angel's unfocused eyes, desperately wishing to reach inside, Dean weeps, "Listen to me, Cass. Listen very carefully. I don't deserve you, ok? I see that now, you're too good and bright and kind and loyal for me." his voice breaks but he forces himself to keep going, "I don't deserve any of it, and you don't deserve to die, to - to perish, because of an asshole like me. If I'm the reason why your entire existence is going to end, then delete me. Delete all the memory of me and everything that causes you pain if it's what you want. Just, just return to the time when you are unharmed, in peace, happy. Complete. When you are still complete. Before meeting me. Please, for once, do this one thing for yourself."
+Hands still holding Castiel's body so that he can look into angel's unfocused eyes, desperately wishing to reach inside, Dean weeps, "Listen to me, Cas. Listen very carefully. I don't deserve you, ok? I see that now, you're too good and bright and kind and loyal for me." his voice breaks but he forces himself to keep going, "I don't deserve any of it, and you don't deserve to die, to - to perish, because of an asshole like me. If I'm the reason why your entire existence is going to end, then delete me. Delete all the memory of me and everything that causes you pain if it's what you want. Just, just return to the time when you are unharmed, in peace, happy. Complete. When you are still complete. Before meeting me. Please, for once, do this one thing for yourself."
 
 Dean leans forward, gives the angel one more tight grip, murmurs something only he can hear by his ear, and waits for the warmth to linger and words to sink for a beat. Then he starts to carefully disassemble the metal contraption.
 
@@ -505,9 +505,9 @@ Crowley spreads his hands, telling him "Who knows" without saying it.
 
 That is when Castiel starts to blink slowly and breathe heavier, chest rising and falling. He looks around, puzzled.
 
-Dean is startled, tentatively calling the name of his best friend, his angel, "Cass?"
+Dean is startled, tentatively calling the name of his best friend, his angel, "Cas?"
 
-Castiel locks his eyes on the man by his side, light flowing in his astonishingly blue pupil like spring water that reflects the sky. Looking down, he notices their clasped hands, he draws his hands back. Dean withdraws his, rubbing his palm unconsciously with fingers where Cass's skin touched moments ago.
+Castiel locks his eyes on the man by his side, light flowing in his astonishingly blue pupil like spring water that reflects the sky. Looking down, he notices their clasped hands, he draws his hands back. Dean withdraws his, rubbing his palm unconsciously with fingers where Cas's skin touched moments ago.
 
 Castiel tilts his head while observing him, the same way a kid observes ants through a microscope lens. The way his eyes wander around him, it is so certain that he is looking at a total stranger. Dean swallows hard in his gaze.
 
@@ -545,7 +545,7 @@ Sam sighs, letting the silence fall between them and simmer for a few minutes be
 
 "Why?" Sam frowns, "I mean, I know you guys don't always agree and sometimes it hurts..."
 
-"Hurts?" Dean looks at him unbelievably through the red eyes, "Sam, it's not just hurt, I *destroyed* him. Cass was so devastated that he decided to not just kill himself but wipe his entire existence! So yeah, point taken, this time better if he doesn't know me, at least then I won't kill him again. He'd be happier this way. And safer."
+"Hurts?" Dean looks at him unbelievably through the red eyes, "Sam, it's not just hurt, I *destroyed* him. Cas was so devastated that he decided to not just kill himself but wipe his entire existence! So yeah, point taken, this time better if he doesn't know me, at least then I won't kill him again. He'd be happier this way. And safer."
 
 "Shouldn't he be the one making the call?" Sam suggests.
 

@@ -15,7 +15,7 @@ I looked at him so focused, I'm sure he realized my gaze, but he didn't look bac
 
 "Castiel," I called him.
 
-He turned to look at me immediately, a little too fast, a little alert, concerned. He knew every time I called him "Castiel" instead of "Cass", something was not right. But he didn't ask what was wrong, just waited. He was always that patient, just waiting for me to talk, to move, to take action. Sometimes he even made me feel like he was some large predator, silent, patient, but deadly. But not now. Now he was just a man, like any human after the fierce satisfying movement, taking the time to slow down the breath, to calm down the impulsion of taking another bite. Because that's exactly what I was, something tasty for him to bite on. I knew it, and I knew he knew it.
+He turned to look at me immediately, a little too fast, a little alert, concerned. He knew every time I called him "Castiel" instead of "Cas", something was not right. But he didn't ask what was wrong, just waited. He was always that patient, just waiting for me to talk, to move, to take action. Sometimes he even made me feel like he was some large predator, silent, patient, but deadly. But not now. Now he was just a man, like any human after the fierce satisfying movement, taking the time to slow down the breath, to calm down the impulsion of taking another bite. Because that's exactly what I was, something tasty for him to bite on. I knew it, and I knew he knew it.
 
 "I have a confession to make." I said, enjoying observing the change of expression on his face -- his face, but mostly his eyes -- a little too much.
 
