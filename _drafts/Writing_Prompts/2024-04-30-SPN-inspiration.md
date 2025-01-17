@@ -1488,4 +1488,12 @@ Cas is the angelic relic from biblical old age
 
 or to make it destiel, make Cas possess Dean
 
-### 182.
+### 182.【destiel?】S12E08 驱逐附身体的金蛋
+
+BMOL的金蛋“Hyperbolic Pulse Generator”可以驱逐各种附身体，恶魔、天使、大天使
+
+卡也是一个附身体，也能被驱逐
+
+what if丁在S4就拿到了这个道具，用在Jimmy身上把卡驱逐出去了，what will happen next
+
+### 183.
