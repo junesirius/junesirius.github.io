@@ -1496,4 +1496,9 @@ BMOL的金蛋“Hyperbolic Pulse Generator”可以驱逐各种附身体，恶�
 
 what if丁在S4就拿到了这个道具，用在Jimmy身上把卡驱逐出去了，what will happen next
 
-### 183.
+### 183.【destiel】《The day the saucers came》
+
+整首诗完整改编/改
+
+### 184.
+
