@@ -10,7 +10,7 @@ origin: 2025 DCBB
 published: false
 ---
 
-(Note: post-S11E23 timeline, minus British Men of Letters and Mary. It starts as a one-shot idea, but then get stretched up -- it stretched itself up to full length -- and ends up turning into practically a complete S12 rewrite. I didn't see that coming either.)
+(Note: post-S11 timeline, minus British Men of Letters and Mary. It starts as a one-shot idea, but then get stretched up -- it stretched itself up to full length -- and ends up turning into practically a complete S12 rewrite. I didn't see that coming either.)
 
 (AO3 Tag: AU - canon divergent)
 
@@ -18,7 +18,7 @@ published: false
 
 ### Chapter 1: Here We Go, Again
 
-#### Act 1
+#### Act 1 INT. bunker's kitchen - night (Cas, Dean, Sam)
 
 They're celebrating. Just the three of them in the bunker's kitchen, Sam, Dean, and Cas, with several dozens of beer and a full table of (now almost empty) pizza boxes. But nevertheless, it's a big celebration.
 
@@ -64,7 +64,7 @@ As if on cue, Castiel finishes the glass in front of him on one long gulp. He wi
 
 "You learned from the best." Dean comments, satisfactorily, searching for more bottles that are not emptied on the desk.
 
-They continue chatting. They talk and laugh. They share old funny stories. Dean doesn't consider himself nostalgia, usually, so this must be alcohol's fault that everything is getting dizzy and light-headed that he just wants to keep this moment longer. This moment when he knows everything is safe and sound, everyone he cares about are home and comfortable, Sammy in bed, just as if he is still an eight-year-old chubby kid that needs to go to bed by nine, and his best friend right by his side. A lingering reasonable sense is whispering to him that this might just be the postmortem affect of adrenaline rising too high and haven't come back to normal level yet. The other part of him only wants *this* longer -- his swimming brain can't really name properly what *this* is exactly, but the peace and quiet is just right and comfortable as it is, so he decides he likes it, indulges himself in *this* longer, wills *this* to last longer, before anything else disrupts. So Dean reaches for the next drink, and keeps talking.
+They continue chatting. They talk and laugh. They share old funny stories. Dean doesn't consider himself nostalgia, usually, so this must be alcohol's fault that everything is getting dizzy and light-headed that he just wants to keep this moment longer. This moment when he knows everything is safe and sound, everyone he cares about are home and comfortable, Sammy in bed, just as if he is still an eight-year-old chubby kid that needs to go to bed by nine, and his best friend right by his side. A lingering rational mind is whispering to him that this might just be the postmortem affect of adrenaline rising too high and haven't come back to normal level yet. The other part of him only wants *this* longer -- his swimming brain can't really name properly what *this* is exactly, but the peace and quiet is just right and comfortable as it is, so he decides he likes it, indulges himself in *this* longer, wills *this* to last longer, before anything else disrupts. So Dean reaches for the next drink, and keeps talking.
 
 After god knows how long, Dean loses sense of time long ago, and Cas finally tears himself away from his drink and presses a palm on top of an open glass to prevent it from being raised to meet Dean's lips again.
 
@@ -82,7 +82,7 @@ Cas turns off the light, lingering by the door in the dark for two seconds too l
 
 <br>
 
-#### Act 2
+#### Act 2 INT. bunker Cas' room - day (Dean, Sam, Cas)
 
 Something is wrong.
 
@@ -208,7 +208,7 @@ Sam watches them both, turning his head back and forth.
 
 <br>
 
-#### Act 3
+#### Act 3 INT. bunker stock room - day (Cas, Dean, Sam)
 
 Cas rummages through the drawers in the stock room, making all kinds of noises as random items get moved around.
 
@@ -234,7 +234,7 @@ Dean turns to the garage. "I'll get Baby ready in five."
 
 <br>
 
-#### Act 4
+#### Act 4 EXT. heaven's gate - day (Dean, Sam, Cas)
 
 The gate is not guarded by any angel. The whole playground is totally empty, no sign of any human or angel. Considering most of the angels are busy tendering their new disease outburst, it's more or less expected.
 
@@ -298,7 +298,7 @@ Dean feels their fingers might have touched for a split second, but immediately 
 
 ### Chapter 2: Heaven on Edge
 
-#### Act 1
+#### Act 1 EXT. heaven's gate - day/night (Dean, Sam)
 
 Dean walks back to the Impala with a gloomy face, bending over the roof with fingers folded, frowning so hard into the deep space as if he can use the bare stare to tear open the air and squeeze himself into Heaven to help.
 
@@ -338,7 +338,7 @@ The air feels more breathable now.
 
 <br>
 
-#### Act 2
+#### Act 2 EXT. heaven's gate - night (Dean, Sam, dream!Cas)
 
 They wait and wait. Night turns to day, Sam leaves temporarily on the second day to grab some food and comes back finding Dean sitting on the bench closest to the sand, never leaves his eyes from the portal, as if he's afraid he might miss the angel if he even blinks.
 
@@ -400,7 +400,7 @@ Dean nods, and sits back on the bench by the Heaven's gate, silently taking the 
 
 <br>
 
-#### Act 3
+#### Act 3 EXT. heaven's gate - night (Cas, Dean, Sam)
 
 Cas comes back at the night of the fourth day.
 
@@ -490,7 +490,7 @@ Dean holds back a success grin, "Good." and then, "Now back to square one, what 
 
 <br>
 
-#### Act 4
+#### Act 4 INT. heaven - day (Cas, angels)
 
 It is bad.
 
@@ -520,7 +520,7 @@ If the mixed painful voices in the angel radio were heartbroken, being in the He
 
 <br>
 
-#### Act 5
+#### Act 5 INT. bunker - night (Cas, Dean, Sam)
 
 "Okay, that's vivid enough." Dean cuts him off uncomfortably, "I get it, bad, real bad, horrifying ass-level bad. About right?"
 
@@ -548,7 +548,7 @@ Cas quietly adds, "And there is more."
 
 <br>
 
-#### Act 6
+#### Act 6 INT. heaven - day (Cas, Dumah)
 
 Castiel searches corridors after corridors between souls' heavenly cells, looking for angel survivors. But he doesn't have any luck.
 
@@ -588,7 +588,7 @@ Cas leans in to grab at the answer that is surfacing slowly, "But how? She had l
 
 <br>
 
-#### Act 7
+#### Act 7 flashback: INT. bunker kitchen - night (Cas)
 
 Castiel doesn't remember much about anything when Lucifer walked him around. The memory is all fuzzy and vague, the image and sound from the outside world was just a low buzzing white noise signal like the one refrigerators would usually make.
 
@@ -608,7 +608,7 @@ Castiel didn't connect the dots together then, but he does now. That incident of
 
 <br>
 
-#### Act 8
+#### Act 8 INT. heaven - day (Cas, Dumah)
 
 "Then how am I still alive, not infected?" Cas can't stop the question from rolling out by itself, "I should have symptoms just like everyone else. I should have died in direct contact."
 
@@ -622,13 +622,13 @@ And then she starts chanting, breathlessly, like the dying song of a thorn bird,
 
 "I wish I share your belief." Cas murmurs grievingly, "But I'm sorry, I'm dying too, I don't even think I can leave this place any more than you do."
 
-Dumah looks *through* him with the remaining flicker of her light that is barely there, "You will, Castiel. You are the one starts it all, you will fix this. And quickly, save all the remaining ones before it's too late. You own this to us!" Her voice breaks into agonizing scratching sound. If she's in a vessel now, it will look like she's choking on blood in her throat.
+Dumah looks *through* him with the remaining flicker of her light that is barely there, "You will, Castiel. You are the one starts it all, you will fix this. And quickly, save all the remaining ones before it's too late. You own this to us!" Her voice breaks into agonizing scratching sound. If she's in a vessel now, it would look like she's choking on blood in her throat.
 
 Castiel doesn't have time to respond when he senses two forces pushing at him at this very same moment as she stops speaking. The Heaven unleashes ever more power onto him, undeniably irresistibly drawing him in. Castiel can see the space and dimension around them get twisted so contorted that the exit is just like the pinpoint in the eye of a furious hurricane. And Dumah, explodes from the very last peck of power she has left in the center of the light, the wave throws Castiel across the corridor that was never really a corridor and hustles him out towards the gate. He falls right through the portal.
 
 <br>
 
-#### Act 9
+#### Act 9 INT. bunker library - night (Cas, Dean, Sam)
 
 "The next thing I know, I'm on Earth again." Cas wraps up his telling.
 
@@ -668,9 +668,11 @@ Sam rolls his eyes at his brother, "I know that, Dean, thanks for reminding. I j
 
 Dean returns a cheerless smile to that, "Super. I'll grab some more beer first."
 
+"Some coffee for me would be nice, while you're at it." Sam calls after him.
+
 <br>
 
-#### Act 10
+#### Act 10 INT. bunker library - night/day (Dean, Cas, Sam)
 
 It turns out, that the researching and heavy reading part of the job is actually not as boring as one might presume. It would be easier if there is some kind of catalogue to indicate what each book is about, but the perk of not having one is that you get to run into things you totally wouldn't expect to read and ends up might actually learning something or even enjoying the reading time.
 
@@ -764,9 +766,9 @@ Sam sighs a soft "Yeah" and falls to silence.
 
 ### Chapter 3: Rock Never Dies
 
-**(outline: look for Lucifer, Lucifer holds rock music festival in LA, a big fuss and fight like in show, reuse Vince/Ladyheart part plot, bring Lucifer in in Vince's vessel, help Lucifer recover - ask Crowley to rebuild Nick's body to help him strengthen; Cas show initial negligible sign of sickness, heal slow, easy to get tired, sleepy)**
+**(outline: look for Lucifer, Lucifer holds rock music festival in LA, a big fuss and fight like in show, reuse Vince Vincente/Ladyheart part plot, bring Lucifer in in Vince's vessel, help Lucifer recover - ask Crowley to rebuild Nick's body to help him strengthen; Cas show initial negligible sign of sickness, heal slow, easy to get tired, sleepy)**
 
-#### Act 1
+#### Act 1 INT. show dressing room - night (Vince, Jen!Lucifer)
 
 Vince Vincente is not having a good day.
 
@@ -854,7 +856,7 @@ He opens his eyes and looks into the mirror in the dark.
 
 Two bloody red eyes look back at him.
 
-#### Act 2
+#### Act 2 INT. bunker kitchen - day (Dean, Cas, Sam)
 
 Dean walks into the kitchen in his favorite dead man's robe, rubbing his eyes while yawning.
 
@@ -874,7 +876,9 @@ Dean heads directly to the coffee machine. "Any plan for today?" he asks, speaki
 
 #### draft notes
 
-Metallica lyrics: Chasing Light "down and out as darkness falls, shakes the cage in deep withdrawals, without darkness there’s no light, but he is someone’s little boy"
+(To fix plot hole: rock festival but has metal bands & songs, Dean: That's devil's proof right there)
+
+Metallica lyrics: Chasing Light "down and out as darkness falls, shakes the cage in deep withdrawals, without darkness there's no light, but he is someone's little boy"
 
 System of a Down: "angels deserve to die" (Cas: Do I deserve to die? Do they?)
 
@@ -952,7 +956,7 @@ Sam (stops grinning): Fine.
 
 ### Chapter 4: The Roadhouse
 
-**(outline: souls in heaven starts getting out of control, TFW thinks it's a case but run into Jo/Ellen/Ash/Bobby; Cas slightly sicker, show weaker tired)**
+**(outline: souls in heaven starts getting out of control, TFW thinks it's a case but run into Jo/Ellen/Ash/Bobby; Cas slightly sicker, show weaker, easily tired, can't heal quickly)**
 
 <br>
 
@@ -964,17 +968,17 @@ Sam (stops grinning): Fine.
 
 #### draft notes
 
-Cas is constantly headache, at first they all thought it’s because of angel radio. Every now and then it gets so bad that he has to hold on to something to not fall. His view goes black, from several seconds to minutes. Dean always lend him a shoulder if he’s within range.
+Cas is constantly headache, at first they all thought it's because of angel radio. Every now and then it gets so bad that he has to hold on to something to not fall. His view goes black, from several seconds to minutes. Dean always lend him a shoulder if he's within range.
 
 Dean watches closely, worried: You want to tune that down a bit, pal?
 
-Cas: I can’t, I won’t. They’re suffering and dying up there, the least I can do is to not forget that.
+Cas: I can't, I won't. They're suffering and dying up there, the least I can do is to not forget that.
 
 Dean: Yeah, not like you can ever forget easily.
 
-What he means is *I hate to see you suffer*, but he doesn’t say it.
+What he means is *I hate to see you suffer*, but he doesn't say it.
 
-(The headache is just the first symptom of infection, they just didn’t know yet)
+(The headache is just the first symptom of infection, they just didn't know yet)
 
 ### Chapter 6: The Winchesters
 
@@ -988,7 +992,7 @@ What he means is *I hate to see you suffer*, but he doesn’t say it.
 
 <br>
 
-Castiel coughs. Once. Then twice. At the third times, Dean’s brows arch. Castiel wants to pretend it’s just a normal clearing of throat, but obviously not very successful.
+Castiel coughs. Once. Then twice. At the third times, Dean's brows arch. Castiel wants to pretend it's just a normal clearing of throat, but obviously not very successful.
 
 Dean: You got a cold or something?
 
@@ -1004,15 +1008,15 @@ He hesitates, silently suppress another round of urge to cough again. Dean does 
 
 Dean: You sure about that? That looks exactly like the cold Sammy used to have every year around fall winter time.
 
-Cas manages to get his breathes right: I’m fine.
+Cas manages to get his breathes right: I'm fine.
 
 Sam comes in: Is everything ok?
 
 Cas: Yes, Dean and I were just talking about how ailing you were as a child.
 
-Sam shoots a questioning look at Dean: That’s not true. I ran a lot so I don’t get sick and he’s the one that whines a lot.
+Sam shoots a questioning look at Dean: That's not true. I ran a lot so I don't get sick and he's the one that whines a lot.
 
-Dean: I don’t whine.
+Dean: I don't whine.
 
 Sam: Uh no offense, but yes you do.
 
@@ -1020,13 +1024,49 @@ Cas quietly slips out of the room and leaves them arguing.
 
 ### Chapter 7: Evil Never Rests
 
-**(outline: Charlie comes down and reunite, demons and ghosts of Frankenstein family know Heaven is dying, go out for a Carnival, Crowley headache, calls for TFW help; Cas situation getting terrible, cough blood, dying)**
+**(outline: Charlie comes down and reunite, demons and ghosts of Frankenstein family know Heaven is dying, go out for a Carnival, Crowley headache, calls for TFW help; Cas situation getting terrible, cough blood, fingertips going darker, dying)**
 
 <br>
 
 #### draft notes
 
 (Cas is also infected, symptom starts with can't heal, pain, weak (try to hide but found out by Dean))
+
+Dean (quick glance and notice): You might want to wash your hands.
+
+Cas (blink blankly): Why would I want to do that?
+
+Dean (tilt his head towards where Cas' fingers are): You were playing mud or something?
+
+Cas (glance down at his fingertips, inspect them, a little surprised, quiet for a bit)
+
+Dean (observe him): You alright?
+
+Cas: Yes. Thanks for letting me know, I'll wash it clean.
+
+Dean (amused): Yeah no problem.
+
+(Some time later Dean slipped it to Sam)
+
+Sam (grim face): Angels don't need to wash hands.
+
+Dean (stare at him): I'm pretty sure they get dirty sometimes. Remember that time when he's just back from purgatory?
+
+Sam: Yeah I hope it's that.
+
+Dean: What else can it be?
+
+Sam (rotate laptop screen to him, black fingertip photo from Black Death patients)
+
+Dean (frown, look away): Take that away, will ya? It's not that.
+
+Sam: Dean…
+
+Dean: If it is, he'll let us know, okay? He'll let us know, and let us help. He will.
+
+Sam (sigh): You know him for the first day?
+
+<br>
 
 Dean: Don't tell me you're infected.
 
@@ -1046,9 +1086,11 @@ Cas: With their damaged half-full grace, we may need both of them.
 
 Sam: Or we help them recover, get them on top of their power and then do the rest.
 
-Dean: That's your idea? That's dumbest idea in a pool of dumb idea you've ever come up with.
+Dean: ~~That's your idea? That's dumbest idea in a pool of dumb idea you've ever come up with.~~ Wow, I can't even decide which one is dumber.
 
-Dean: it’s like putting two nuclear together and hope they don’t explode! What’s the odds?
+Dean: Come on, it's like putting two nuclear together and hope they don't explode! What's the odds?
+
+<br>
 
 They all agree Dean should get nowhere close to Michael and same goes for Sam and Lucifer, so Sam and Rowena go to Michael, Dean and Cas go to Lucifer
 
@@ -1078,31 +1120,47 @@ Dean: I have to, I can't let you die, I just can't.
 
 <br>
 
-Cas: Dean, don’t. I didn’t ask for you to do this. I would never.
+Cas to Dean: You'll never risk your brother.
 
-Dean: You don’t need to, I offered.
+Dean: But you think I'll risk you? There is a chance I can get you back, I won't grasp it?
 
-Cas: And Sam’s life too? You can’t ask this of him.
+Cas: (bite his lips) Dean-- you don't have to--
 
-Sam: He didn’t. Dean’s right, you’re family, we do everything for our family, whatever it takes.
+Dean (cut): You're right, I don't have to, I *want* to. Never think you're anything less in this family, Cas. I know you would do same for me or Sam, and Sam do same for you or me. So just, for once, shut up and let me save your ass, alright?
 
-Dean squeeze a smile: Hey don’t be a damper, we might win, you know. Sammy beats Lucifer once, who said we can’t do it again, both of us, together.
+Cas: (watery eyes, nod)
 
-Cas: Michael and Lucifer won’t allow a second times, it’s near zero chance.
+Dean: (wipe Cas' eyes with back of his hand, whisper mockingly quietly) Princess.
+
+Cas: (quietly chuckle, smile but still saddest smile with big blue eyes) Thank you.
+
+**OR:**
+
+Cas: Dean, don't. I didn't ask for you to do this. I would never.
+
+Dean: You don't need to, I offered.
+
+Cas: And Sam's life too? You can't ask this of him.
+
+Sam: He didn't. Dean's right, you're family, we do everything for our family, whatever it takes.
+
+Dean squeeze a smile: Hey don't be a damper, we might win, you know. Sammy beats Lucifer once, who said we can't do it again, both of us, together.
+
+Cas: Michael and Lucifer won't allow a second times, it's near zero chance.
 
 Sam: Near zero,  not absolute zero. We still have chance.
 
-Dean: Don’t worry, everything will be fine. Just take a nap, we’ll probably be back before you know it.
+Dean: Don't worry, everything will be fine. Just take a nap, we'll probably be back before you know it.
 
-Cas: Or you can be gone for good, you won’t even be in Heaven.
+Cas: Or you can be gone for good, you won't even be in Heaven.
 
-Dean: Let’s not think about that for now, okay? Besides, I heard Heaven isn’t a paradise with lullaby, don’t think I’m a big fan anyway.
+Dean: Let's not think about that for now, okay? Besides, I heard Heaven isn't a paradise with lullaby, don't think I'm a big fan anyway.
 
 Dean pats his shoulder, staying there for a few minutes. They just look at each other in silence for several extended seconds. And Dean departs.
 
 When Dean is at the door, Cas says behind him, quietly: Come back to me, please.
 
-Dean pauses and nods briefly but didn’t look back. He’s afraid he might not have the courage again to walk out of that room if he did.
+Dean pauses and nods briefly but didn't look back. He's afraid he might not have the courage again to walk out of that room if he did.
 
 <br>
 
@@ -1124,7 +1182,7 @@ Dean: You fixed me so many times, it's my turn now.
 
 ### Bonus: Jellyfish
 
-**(outline: normal day, aquarium, maybe a case?)**
+**(outline: normal day, aquarium, maybe a case? "What is it with the jellyfish?")**
 
 <br>
 
@@ -1132,4 +1190,4 @@ Dean: You fixed me so many times, it's my turn now.
 
 **<u>Complete Outline</u>**: get Lucifer→help Lucifer recover (Lucifer suggest get Michael but they refuse)→daily episode with ghost&demon(+surprise reunions+troubles)→(Cas+situation get worse, Heaven can't wait longer) get Michael→help them make peace→they align to destroy world→S/D say yes, kill each other, heaven is saved, Cas thought they died, go to Heaven/vail to find them, let them decide if they want back→TFW back together, heaven on their command, thought problem solved, Cas is still dying→Dean use his soul power heal Cas, soul-grace dance, Cas is saved, TFW HE
 
-**<u>destiel relationship arc</u>**: start with best friends, Dean "I need you", Cas already love Dean more than anything including the world → still keep the "love" to be just "love", not partnership love, still friend-family-brotherly love, but make Dean gradually realize what does that mean: no definition, but can be weighed, "everything has a price", Dean figures how much he would be willing to sacrifice to trade for Cas, just as much as his any other family member and more, so even if he doesn't admit, his action is already saying out loud: he is willing to sacrifice anything including the world for Cas (no need for verbal confession unless vibe feels right)
+**<u>destiel relationship arc</u>**: start with best friends, Dean "I need you" "family/brother", Cas already love Dean more than anything including the world → still keep the "love" to be just friendship/family love, not romantic love, still friend-family-brotherly love, but make Dean gradually realize what does that mean: no definition, but can be weighed, "everything has a price", Dean figures how much he would be willing to sacrifice to trade/sacrifice for Cas, just as much as his any other family member and more, so even if he doesn't admit, his action is already saying out loud: he is willing to sacrifice anything including Sam and his own life and the world for Cas (no need for verbal confession unless vibe feels right)
