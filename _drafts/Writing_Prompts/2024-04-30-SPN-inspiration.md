@@ -156,7 +156,7 @@ Balthazar直接脱口而出称呼Cass是Sam的boyfriend了，Sam甚至也极自�
 
 （see more in S06E10-11观后感）
 
-### 17.【destiel&sastiel】天使猫猫
+### 17.【destiel】天使猫猫
 
 就像尼尔盖曼那篇他家黑猫其实是天使的故事，Cass可以是温家天使猫，keep the monsters outside，但是把自己弄得伤痕累累。
 
@@ -262,7 +262,7 @@ Cass逃避争执不知道能做什么的时候就用游戏来平静自己内心�
 
 （see more in S07E21-23观后感）
 
-### 29.【destiel】S08E02 炼狱的时间流速【WIP 4】
+### **29.【destiel】S08E02 炼狱的时间流速**
 
 在看见Dean说“Nice peach fuzz”的时候突然有了个脑洞，在想之前从来没在天使身上看见过这样明显的时间流逝痕迹，总是well-shaved、发型着装总是同一个模样。于是忍不住想，这络腮胡的出现，是否说明炼狱里时间终于开始在天使身上流逝？如果胡须毛发开始生长，那么身体的其他部分也一定正在出现自然的生理变化，而对这具人类身体来说，出现生理变化就意味着衰老，意味着向死亡进发。所以或许炼狱对天使来说，最可怕的地方不是怪物，是时间开始流动？而如果增加一个设定说这样的时间流逝带来的变化是不可逆的，那么很快就会出现一个衰老梗了。Dean在炼狱显然没有遭遇同样速度的时间流动（胡子没有长那么长就是一个证据），所以炼狱的不同位置或者对不同物种的流逝速度是不同的？对天使这样的永生生物，它的流速反而极快，于是哪怕永生也很快就要看见末尾了。想象Dean在重新遇到Cass的时候Cass已经垂垂老矣，Dean不知道这只是vessel的衰老还是天使确实就这样极速衰老了，就像《孤独的心》里的贝拉，就像S05E07男巫那一集本杰明巴顿AU的Dean，就像圣诞小镇的小十一或者被法师诅咒了衰老的小十（突然这才意识到DW对衰老梗好像非常情有独钟）。他们朝出口走，走得越近，Cass身上的衰老速度也越快。炼狱试图用时间为代价阻止天使出去，而这奏效了。等到他们离出口足够近了，Cass也虚弱衰亡到再无法前进一步的程度了。“你们走，不要管我了。”他会说。Dean会暴怒地拒绝，想要把他背起来抱起来或者拖着也要带他走出炼狱。但衰老带来的死亡已经追上了天使，Dean听见薄如蝉翼的皮肤下面衰朽的骨骼的吱嘎声，他的面前只有一个老人，不再有他的天使Cass。再然后，连这个老人也没有了，他扑簌地碎去，变成光的粉末，再变成上升的烟雾。Dean的面前空无一人，好像Cass从来没有在那里过。
 
@@ -354,7 +354,7 @@ Dean捡到了一个神灯，擦三下冒出来的神灯精灵穿着件卡其色�
 
 要杀丁才能救自己，卡选择宁可自己化成泡沫
 
-### 39.【destiel】S12E10 时间旅行的Dean遇上1901年的女体Cass（R级）
+### 39.【destiel】S12E10 时间旅行的Dean遇上1901年的女体Cass（R级）【WIP - bang】
 
 《傲慢与偏见》AU，DW的刀河代
 
@@ -454,7 +454,7 @@ Dean的“you're dead to me”，可以真正地杀死Cass。
 
 （灵感部分参考柠檬的《幻痛》和五觉）
 
-### 50.【destiel】1518 coda/fix-it《The Empty》【WIP 3】
+### **50.【destiel】1518 coda/fix-it《The Empty》**
 
 丁后悔，疯狂努力要救回卡
 
@@ -654,7 +654,7 @@ Emmanuel (amnesia Cass) can hear longing/prayer but doesn't know what it is unti
 
 (old reddit prompt about someone who thinks they're just imagining the voice until one day they hear "turn around" and see the other person)
 
-### 70.【destiel】When the first pie is made【WIP 1】
+### 70.【destiel】When the first pie is made【WIP - bang】
 
 《Best creation ever》
 
@@ -668,11 +668,11 @@ Cass doesn't want Dean see his true face because he thinks he's ugly
 
 (not very canon, Cass is actually proud of his true form, he's a little ego to brag about his height before and he still thinks angels are more superior than human after all these years)
 
-### 72.【destiel】S09E06《Chinese Chair》
+### 72.【destiel】S09E06《Chinese Chair》（R级）
 
 reel gag Dean: “If she has a Chinese Chair, you call me”
 
-### 73.【destiel】Ice Age AU
+### 73.【destiel】Ice Age AU【WIP - bang】
 
 《Dean Winchester is a squirrel》
 
@@ -736,7 +736,7 @@ Nine months later Cass finds out. (squash timeline a bit) Dean killed Jack (whic
 
 (check real timeline: S09E03 is Oct.22 2013, due date around July 15 2014, right between S09E23 and S10E01, demon Dean time -> patch: Cass didn't realize it until S12E23 Jack is born and killed on sight after birth immediately (time: May 18 2017), Cass' kid is 3y old, maybe overgrow a bit too like Jack did, show as a teen
 
-### 81.【Dean/impala】S11E04 impala is a lady【WIP 2】
+### **81.【Dean/impala】S11E04 impala is a lady**（R级？）
 
 impala becomes a real lady (=Tardis becomes a girl, DW S06E04)
 
@@ -946,7 +946,7 @@ Beauty always comes with dark thoughts
 
 invite him over because he said he doesn't have a bed at home, and it's actually only really just a very good night's sleep
 
-### 105.【destiel】Cass is a DW weeping angel
+### 105.【destiel】Cass is a DW weeping angel【WIP - bang】
 
 卡中了哭泣天使咒，触碰会让人回溯时间，被注视会无法移动
 
@@ -1286,7 +1286,7 @@ I'd give anything
 
 Cass is being careful but still not careful enough, Bobby exploded, Dean super pissed at Cass, what happens next?
 
-### 156.【destiel】S06E18 What if boys get lost in western world
+### 156.【destiel】S06E18 What if boys get lost in western world【WIP - bang】
 
 Cass refused to risk Bobby (or even if used his soul still not recovered enough), Dean/Sam stays in town for more than 24h and lost to Cass, what happens next?
 
@@ -1295,6 +1295,8 @@ What happened in the time flux that prevents Cass from locating and reaching Dea
 What happened to the boys when they have to extend their stay in Sunrise Wyoming, what dangers in there? Demons are still wandering around. They might work with Samuel Colt. They might leave message for their future self in the Pentagon railway so they would have noticed at end of S2, changed history slightly maybe?
 
 ### 157.【destiel】S06E22 What if Crowley oversmarts everyone and becomes the new God
+
+如题
 
 ### 158.【destiel】丁用灵魂碎片把卡拼回来复活
 
@@ -1314,7 +1316,7 @@ Spell/magic has loose definition for father/blood, what other can non-blood bloo
 
 replace "father" with "brother", Dean considers Cass as brother, so for some spell that literally requires "blood of your brother", would that work? Official approval of really actually being "brother"/"family"?
 
-### 161.【destiel】S06E05 Dean gets killed when he's still vampire 【WIP 5】
+### 161.【destiel】S06E05 Dean gets killed when he's still vampire 【WIP - bang】
 
 Dean gets killed when he's still vampire so he goes directly to purgatory, meets Benny there (?), fights together, tries to come back but neither can go through human portal
 
@@ -1396,7 +1398,7 @@ Winchesters get pulled out of town because Cass finds leads on Metatron, and say
 
 TFW come back to clean up Chicago situation after things peace out (after S11E23 maybe?)
 
-### 170.【destiel】S09E21 “commander”【R级】
+### 170.【destiel】S09E21 “commander”（R级）
 
 Dean teases Cass "Commander" when his men call him that -> Dean call him commander on bed
 
