@@ -3,7 +3,7 @@ layout: post
 title: 【梦记】和Cas互相保护（很喜欢）
 date: 2025-01-20 06:30
 categories: ["梦记"]
-characters: ["Castiel", "Dean Winchester"]
+characters: ["Castiel", "Dean Winchester", "Sam Winchester"]
 tags: ["梦记", "好故事", "改编", "Supernatural", "触感", "Castiel梦女", "自我牺牲", "西班牙语", "追杀", "逃亡", "血"]
 pov: 第一人称视角
 origin: 个站
