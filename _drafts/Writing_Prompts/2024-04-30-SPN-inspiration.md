@@ -1502,5 +1502,15 @@ what if丁在S4就拿到了这个道具，用在Jimmy身上把卡驱逐出去了
 
 整首诗完整改编/改
 
-### 184.
+### 184.【destiel】S10E03 Roadkill
+
+看到S12E15 Sam调侃Dean的“You smell like roadkill”，想起来S10E03 Crowley说Cas快死的时候“Look at you. Talk about roadkill.”
+
+what if Cas（本体？）真的是一只（差点被）roadkill的小鸟，被温双捡到了带回去救下来，或者是小鸟但是有很多条命所以被roadkill了之后能复活？可能第一次被impala撞了之后丁感到愧疚，第二次差点又撞了开始感觉诡异，swear这是同一只小鸟
+
+卡也可能是别的动物，鹿或者猫？更喜欢小鸟因为有翅膀，可以掺wing kink
+
+可能会童话风，或者SPN早期日常风
+
+### 185.
 
