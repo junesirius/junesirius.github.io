@@ -3,7 +3,7 @@ layout: post
 title: 【想象】重建
 date: 2023-10-29 14:58
 categories: ["原创"]
-characters: ["Carol", "Tristan"]
+characters: ["Carol Elevens", "Tristan the Raven"]
 tags: ["想象", "思维宫殿", "OC"]
 pov: 第一人称
 origin: Lofter

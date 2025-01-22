@@ -3,7 +3,7 @@ layout: post
 title: 【梦记】OC姓名（碎片）
 date: 2023-08-22 07:23
 categories: ["梦记"]
-characters: ["Merlin", "Arthur", "Tristan", "Carol"]
+characters: ["Merlin", "Arthur", "Tristan the Raven", "Carol Elevens"]
 tags: ["梦记", "亚梅", "OC", "碎片"]
 pov: 第一人称视角
 origin: 个站
