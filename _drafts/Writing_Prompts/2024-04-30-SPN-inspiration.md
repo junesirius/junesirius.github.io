@@ -1512,5 +1512,16 @@ what if Cas（本体？）真的是一只（差点被）roadkill的小鸟，被�
 
 可能会童话风，或者SPN早期日常风
 
-### 185.
+### 185.【destiel】S10E23 Death's condition is Cas
 
+what if Death's condition is asking Dean to kill Cas (not Sam) because Death knows Cas would do anything (more than Sam) to get Dean back, so he's the bigger threat to the deal
+
+Sam wouldn't say yes to Lucifer to save Dean, Cas would. Sam confessed he wouldn't trade everything to get Dean back, Cas would. So what if Death's condition is about Cas.
+
+### 186.【destiel】S10E23 trick Death
+
+what if Dean manages to fake Sam's death (tricks the Death) and gets sent to the Sun with both Sam&Cas alive. Sam kills Death, Cas fights to get Dean back, Sam thinks logically and wants to stop Cas, Cas knocks Sam out, works solo to get to Dean (some bad choices along the way)
+
+even if Cas can't bring Dean back, he would go there and stay in the Sun with him, whatever it would do to his bod. He wouldn't let him stay there for eternity, alone.
+
+### 187.
