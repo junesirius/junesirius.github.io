@@ -27,7 +27,7 @@ Cas squints at the tree in front of him. He can hear the hesitation, the same wa
 
 "Look, man, I know it must sound silly," Sam's voice sounds... is that embarrassment? "But it's Dean's birthday tomorrow, it'd be nice if you could swing by."
 
-Cas thinks about today's date, does the math, and calculates the cycles of the sun and the moon again to double-check. "No, I don't think it is." he says.
+Cas thinks about today's date, does the math, and calculates the cycles of the sun and the moon again to double-check. "No, I don't think it is," he says.
 
 Sam's chuckle passes through the phone line. "Yeah I know, it's not, but it is now. And yesterday was mine, the day before yesterday was Thanksgiving, and we had Christmas last Friday."
 
@@ -169,7 +169,7 @@ Sam and Jack echo the same quick, quiet "Happy birthday".
 
 "Cas --" Dean calls after him, hurries around the table to stand in his way out.
 
-He looks into Cas's eyes, holds there, the look so intense it might break into spark.
+He looks into Cas's eyes, holds there, the look so intense it might break into sparks.
 
 Dean gives out a long sigh eventually, pulling Cas into a clumsy hug and murmurs a small "I'm sorry, Cas" barely inches away from his ear.
 
@@ -177,7 +177,7 @@ Dean gives out a long sigh eventually, pulling Cas into a clumsy hug and murmurs
 
 Cas holds him tight. "Yes, you do, Dean." he tells him. "You do."
 
-Dean has to close his eyes tight to squeeze the wetness out. "Thank you." he says, then a second time, "Thank you, Cas, for the gift and everything." For being here all the time, birthday or not. He thinks loud.
+Dean has to close his eyes tight to squeeze the wetness out. "Thank you." he says, then a second time, "Thank you, Cas, for the gift and everything." For being here all the time, birthday or not. He thinks aloud.
 
 <br>
 
