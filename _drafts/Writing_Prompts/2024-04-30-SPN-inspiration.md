@@ -1528,5 +1528,12 @@ even if Cas can't bring Dean back, he would go there and stay in the Sun with hi
 
 到1510我们知道了bunker重启之后望远镜能看多元宇宙（说不定不重启本来也能看只是他们没去看，或者保留必须重启也可以）但是因为当时没有别的多元宇宙了所以什么也看不见，what if在别的多元宇宙都还在也都正常运转的时候出现了Mrs Butters这个案子，他们知道了功效也开始看那些宇宙里的事，会怎么样。看见别的世界出现悲剧或者看见别的版本的他们自己，如果无论如何过不去的话是不是会觉得像是观影体，三个人坐着看热闹犀利评价。如果是在S12E23之前，是在Jack出生、知道多元宇宙真的能过得去之前，会不会觉得望远镜里的不同版本只是魔法创造的多元可能的幻觉，就当成电影娱乐看了。
 
-### 188.
+### 188.【all】what if Mary is not dead
 
+What if in the night Sam gets fed demon blood, Mary is not in his room, not running into Azazel
+
+Sam still has demon blood, but Mary is there raising them up, John is not obsessed with revenge, the boys are not trained to be hunters (maybe still has some basic training, but not raised like that)
+
+The whole series get re-written.
+
+### 189.
