@@ -1034,7 +1034,9 @@ Power play in 1518 involves Destiny sisters, also takes a part in the fight agai
 
 Everyone around Winchesters keep starting to pick up free will and usually to their favor, e.g. Crowley, Rowena, Balthazar, Mick Davies, Charlie, why not add Destiny sisters to the list
 
-### 121.【destiel】Jellyfish
+### ~~121.【destiel】Jellyfish~~
+
+（可能会用在《Angel Black Death》里）
 
 （来自生活）
 
@@ -1118,7 +1120,7 @@ Cas can't control where to land in time stream (a curse?), has to pop in time in
 
 "You'll see me again, but I'll never see you again"
 
-### 131.【destiel】wear a bell【R级?】
+### 131.【destiel】wear a bell（R级?）
 
 Cas keeps randomly popping in and scares them, Dean makes him new rule: can't fly in within X feet (like a block away, a corridor away), has to walk the rest of the way to them like humans do, either that or Cas wearing a bell (Cas rolls his eyes) (but which one he'll choose? bell becomes punishment when he fails the first rule? sexual punishment?)
 
@@ -1296,15 +1298,13 @@ What happened to the boys when they have to extend their stay in Sunrise Wyoming
 
 ### 157.【destiel】S06E22 What if Crowley oversmarts everyone and becomes the new God
 
-如题
-
 ### 158.【destiel】丁用灵魂碎片把卡拼回来复活
 
 卡为了救大家牺牲了，丁和很多跟他们亲近的重要的人（米、Bobby、Charlie、Jody、Claire、Jack？）一起围起来做仪式，每个人给自己灵魂切片来把卡拼起来复活了。复活的卡没有记忆，要是想起来就会碎掉又会死，而且没法再被拼回来（死神给的tip）。复活的卡又要爱上丁了但是所有人都在拼命阻拦，丁也要为了保护卡疯狂克制。
 
 （详见2024-12-11 梦记）
 
-### 159.【destiel】S07E17 Dean stays to take care of mad!Cass
+### 159.【destiel】S07E17 Dean stays to take care of broken!Cass
 
 Instead of Meg staying behind to take care of Cass, Dean stays. Demons and Leviathans will come, more of reason to stay behind for him.
 
@@ -1536,4 +1536,10 @@ Sam still has demon blood, but Mary is there raising them up, John is not obsess
 
 The whole series get re-written.
 
-### 189.
+### 189.【destiel】S13E01 what if angels took Cas's body
+
+What if by the time Dean Sam came back to cabin after picking up Jack, angels have taken Cas's body
+
+Dean will be furious, declare real war to angels to get Cas's body back, even though he knows he's already gone and the body is just body, he can't leave the last part of Cas to angels
+
+### 190.
