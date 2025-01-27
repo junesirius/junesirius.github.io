@@ -111,7 +111,9 @@ Death last words: Don't forget what I said...
 
 # Main
 
-## Act 1
+**Summary**: "Revenge triumphs over death; love slights it; honor aspireth to it; grief flieth to it; fear pre-occupateth it" -- Francis Bacon "*Of Death*"
+
+## Act 1 - Fear pre-occupateth it
 
 ### Chap 1. Daphne
 
@@ -123,7 +125,7 @@ Death last words: Don't forget what I said...
 
 ### Chap 5. Henry
 
-## Act 2
+## Act 2 - Love slights it
 
 ### Chap 6. Theda
 
@@ -135,7 +137,7 @@ Death last words: Don't forget what I said...
 
 ### Chap 10. Elias
 
-## Act 3
+## Act 3 - Honor aspireth to it
 
 ### Chap 11. Hesitation (Suspicion)
 
@@ -147,7 +149,7 @@ Death last words: Don't forget what I said...
 
 ### Chap 15. Nadir (Farewell)
 
-## Act 4
+## Act 4 - Grief flieth to it
 
 ### Chap 16. Empty (Price)
 
