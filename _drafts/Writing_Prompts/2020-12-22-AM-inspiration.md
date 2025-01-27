@@ -126,6 +126,8 @@ Summary/设定：梅林的大脑里本体和黑化梅同时存在，黑化梅想
 
 “复仇战胜死亡，爱情蔑视死亡，荣誉渴望死亡，悲哀奔赴死亡，忧惧抢占死亡。”——《培根随笔》
 
+“Revenge triumphs over death; love slights it; honor aspireth to it; grief flieth to it; fear pre-occupateth it”—— Francis Bacon "*Of Death*"
+
 复仇是莫德雷德，荣誉是亚瑟，悲哀是梅林，忧惧是莫甘娜。
 
 至于爱情？
