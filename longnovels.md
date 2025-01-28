@@ -19,8 +19,9 @@ title: 长篇
     <a id="{{ longnovel }}" style="position: relative; top: -50px"></a>
     <h2>{{ longnovel }}</h2>
     <ul>
-        {% for node in site.posts reversed %}
-            {% if node.title != null and node.long_novels == longnovel %}
+        {% assign curr_long_novel_list = site.posts | where: "long_novels", longnovel %}
+        {% for node in curr_long_novel_list reversed %}
+            {% if node.title != null %}
                 <li>
                     <div class="col-md-10" style="margin: 0; padding: 0">
                         <a href="{{ site.baseurl}}{{ node.url }}"> {{ node.title }}</a>

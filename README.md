@@ -49,7 +49,7 @@
 - name_en: 作者英文笔名（此项可空）
 - url: 个站链接
 - baseurl: 个站根目录（当根目录即为个站链接时，此项可空）
-- paginate: 首页的每页文章数量（2024/11后取消分页）
+- paginate: 首页的每页文章数量（2024/11后取消总站翻页，2025/01后保留长篇翻页）
 - permalink: 文章自动生成的网址链接格式
 
 ### [\_data/description.yml](https://github.com/junesirius/junesirius.github.io/blob/master/_data/description.yml)

@@ -107,5 +107,36 @@ layout: default
     </ul>
     {% endunless %}
 
+  </div>
+</div>
+
+{% unless page.long_novels == null %}
+<div class="pagination" style="width: 100%">
+    {% assign same_long_novel_posts = site.posts | where: "long_novels", page.long_novels %}
+    <div class="col-md-6" style="text-align: left">
+    {% assign previous_post = nil %}
+    {% for post in same_long_novel_posts %}
+        {% if post.date < page.date %}
+            {% assign previous_post = post %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+    {% if previous_post %}
+    <a class="btn btn-default" href="{{ site.baseurl }}{{ previous_post.url }}" class="previous">{{ trans.newer_post }}</a> {{ previous_post.title }}
+    {% endif %}
+    </div>
+
+    <div class="col-md-6" style="text-align: right">
+    {% assign next_post = nil %}
+    {% for post in same_long_novel_posts reversed %}
+        {% if post.date > page.date %}
+            {% assign next_post = post %}
+            {% break %}
+        {% endif %}
+    {% endfor %}
+    {% if next_post %}
+    <a class="btn btn-default" href="{{ site.baseurl }}{{ next_post.url }}" class="next">{{ trans.older_post }}</a> {{ next_post.title }}
+    {% endif %}
     </div>
 </div>
+{% endunless %}
