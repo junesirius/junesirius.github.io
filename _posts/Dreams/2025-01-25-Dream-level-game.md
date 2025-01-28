@@ -4,7 +4,7 @@ title: 【梦记】通关游戏（喜欢）
 date: 2025-01-25 13:45
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "好故事", "通关", "Supernatural", "迷路", "复仇"]
+tags: ["梦记", "好故事", "通关", "Supernatural", "迷路", "复仇", "dreamwalk"]
 pov: 第一人称视角
 origin: 个站
 ---
