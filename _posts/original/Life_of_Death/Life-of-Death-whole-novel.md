@@ -20,15 +20,15 @@ origin: 个站
 - Elena Vale: leading woman, 30y, tough, resourceful, ex-military, hostile against Death first (~Ellen)
 - Daphne Vale: kid, hopeful, sick/dying (dying so can see Death)
 - Henry Carter: mechanic, old guy, sour bitter, disbelieve, suicidal, too willing to self-sacrifice (~Bobby)
-- Theseus Drake: engineer, tech nerd (~Lin Jing)
-- Dr. Aria Hawthorn: doctor/researcher/scientist, love interest to Elena? (~Christine Palmer)
+- Theseus "Theo" Drake: engineer, tech nerd (~Lin Jing)
+- Dr. Aria Hawthorn: doctor, ~~unreciprocated love interest to Elena?~~ (~Christine Palmer)
 - Lucky: a cat (can see Death)
 - Finnick "Finn" Ralder: a funny guy, comedian/performer, music (~Crowley)
 
-encounter later, selfish bastards/liars/bad weak humanity:
+encounter later, selfish bastards/liars/humanity flaw:
 
 - Father Elias "Eli" Marlow: priest, charismatic, mistaken for Life for a bit, deliberately mislead people to believe it once realize the benefit, "God helps those who help themselves" (~Gilderoy Lockhart)
-- Ivy Crowe: writer/journalist, dying, saved, join group, accept Death well (~Luna Lovegood)
+- Ivy Crowe: writer/journalist, dying, saved (or died?), join group, accept Death well (~Luna Lovegood)
 
 ## Events/side plots
 
@@ -43,8 +43,7 @@ encounter later, selfish bastards/liars/bad weak humanity:
 
 ### Major twists (Chap 6)
 
-- Elena dying -> Death sacrifices a piece to save, weakens and start humanize but still with power
-- start call Life
+- Elena dying -> Death sacrifices a piece to save, weakens and start humanize but still with power (when dying can see Death too)
 
 ### Death as human (Act 2, Chap 6-10)
 
@@ -52,29 +51,29 @@ encounter later, selfish bastards/liars/bad weak humanity:
 
 - side plots: people teach Death normal small human life joy, music, small game, etc., campfire dance trade story, Death talk about memorable life in the past, historical figures, biblical events, etc.
 
-- side plots: human aspects troubles Death, small things, starve, sensation
+- side plots: human aspects troubles Death, small things, hungry, thirsty, pain, sensation(, sexual?)
 
 - side plots: meet a few more people, see good/bad humanity
 
-### Twists (Act 3, Chap 11-15)
+### Complications (Act 3, Chap 11-15)
 
 - realize own existence endanger humans -> cause hostility against her
 
 - Elena defend her -> dispute inside group, danger of split (Elena, Daphne, Henry, Iva; Aria, Theseus, Finnick)
 
-- Aria (someone, lead arguer) hurt more in quarrel -> Death save again, weaken again
+- Aria (lead arguer, who?) hurt seriously in post-quarrel -> Death save again, weaken again
 
-- Death try go self-sacrifice -> saved by Elena
+- Death try go self-sacrifice (all in when saving?) -> saved/stopped by Elena
 
-- some small intimate moments between Elena/Death (Death give her her scythe, tool allow her have temp power of death, use only she absolutely sure wants to see her again)
+- some small intimate moments between Elena/Death (Death give her her scythe, tool allow her have temp power of death, use only she's absolutely sure wants to see her again)
 
 - kid die -> Death say thank you and I love you, exchange life to save them, die finally (used up power, essence is in kid now)
 
-- human test out theory, no one die again even if mortal wound -> human grow bigger
+- human test out theory, no one die again even if mortal wound -> human start postpering
 
 ### Postlude (Act 4, Chap 16-18)
 
-- jump time: survived apocalypse but human population too much, not having Death makes unbalanced universe -> Elena become new Death (cost is to reap her kid first), the two become one, reaping and saving together, both half Death half human/Life (story of Hades&Persephone) (reveal Theda=Death so they're one now, union: "Death with Life" never happen before)
+- jump time: survived apocalypse but human population too much, not having Death makes imbalanced universe -> Elena become new Death (cost is to reap her kid first), the two become one, reaping and saving together, both half Death half human/Life (story of Hades&Persephone) (reveal Theda=Death so they're one now, union: "Death with Life" never happen before)
 
 ## Death setting
 
@@ -97,7 +96,7 @@ encounter later, selfish bastards/liars/bad weak humanity:
 
 ## draft notes
 
-Elena: You are NOT gonna kill yourself, you hear that? I don't care what bad omen or whatever --
+Elena: You are NOT gonna kill yourself, you hear me? I don't care what bad omen or whatever --
 
 someone: (cough) Excuse me, not just bad omen, she is literally *Death*.
 
@@ -113,46 +112,96 @@ Death last words: Don't forget what I said...
 
 **Summary**: "Revenge triumphs over death; love slights it; honor aspireth to it; grief flieth to it; fear pre-occupateth it" -- Francis Bacon "*Of Death*"
 
+复仇战胜死亡，爱情蔑视死亡，荣誉渴望死亡，悲哀奔赴死亡，忧惧抢占死亡
+
 ## Act 1 - Fear pre-occupateth it
 
 ### Chap 1. Daphne
 
+**(outline: kid's innocent view of the post world, barren, sick, sense/see/hear Death, relationship with Elena/cat/Henry; Death comfort she's gonna be ok, kid tells Elena, doesn't believe)**
+
 ### Chap 2. Elena
+
+**(outline: leader's view, head to the Henry, go out look for food/water (Death helped water in rain), grab kid/cat, start moving, Death help the shade/temperature, give sign, keep kid awake)**
 
 ### Chap 3. Aria
 
+**(outline: Elena follow sign to med/hospital, find Aria, Aria help kid, Elena share food/water, Death talk to cat?, Death kill virus/gem in meds/food)**
+
 ### Chap 4. Theseus
 
+**(outline: get to Henry's, find Theseus&Henry, build shelter, Death help strengthen; kid talk about Death, Theseus make something, verbal communicate in burning words on surface? way of talk)**
+
 ### Chap 5. Henry
+
+**(outline: Elena wants keep moving, argue in group, Henry wander into wood, Death lead him back, give him dream to peace out; fix/hold broken bridge; Theseus fixed car, move kid in car)**
 
 ## Act 2 - Love slights it
 
 ### Chap 6. Theda
 
+**(outline: Elena dying (hunting wound?), can see Death; Death sacrifice a piece to save, touch her, touching life weakens death, start humanize but still have power, wander into group, taken in; human side confuse/trouble her, hungry/sensation)**
+
 ### Chap 7. Lucky
+
+**(outline: cat can recognize her, show friendly, accepted by kid fast, people evaluating her, she's unfamiliar/unhuman, keep going back to cat for comfort, start getting use to; Elena observe but trust kid/cat)**
 
 ### Chap 8. Iva
 
+**(outline: group find Iva, Theda weakening/saving, group suspect but happy; Elena contemplate, already figured out)**
+
 ### Chap 9. Finnick
 
+**(outline: side plot relaxing moments, human show Theda singing/dancing/joy, campfire moment, trade story; Elena love see Theda try new human thing, official love)**
+
 ### Chap 10. Elias
+
+**(outline: group run into Elias, Theda meet first? deceived, Eli pretend life, against Theda, Theda awkward, Elena strong support her, find out truth, him get own consequence)**
 
 ## Act 3 - Honor aspireth to it
 
 ### Chap 11. Hesitation (Suspicion)
 
+**(outline: some accident, Theda hurt someone, humans realize she's death, her existence endanger humans, subtle hospitality)**
+
 ### Chap 12. Upheaval (Rupture)
+
+**(outline: confront, Elena defend her, dispute inside group, split: Elena/Daphne/Henty/Iva, Aria/Theseus/Finnick)**
+
+#### draft notes
+
+Aria: If you choose her, you're choosing against us.
+
+Finn/Aria: The very touch of hers corrupts. You're corrupted the moment she touched you.
+
+Elena: Look at her! She's no less human than you, or me, or any of us!
 
 ### Chap 13. Mending (Redemption)
 
+**(outline: lead arguer/Aria hurt after separate way, Theda find and save and weaken again; want to self-sacrifice but stopped/saved by Elena)**
+
 ### Chap 14. Attachment (Intimacy)
 
+**(outline: Elena/Theda intimate moment, share last human sensation, give gift of scythe, share secret: tool allow her have temp power of life/death, can move life force, use only when absolutely sure and no other way, no way back)**
+
 ### Chap 15. Nadir (Farewell)
+
+**(outline: kid die, Theda say thank you and I love you, exchange life to save the kid, die finally, used up all power, last essence in kid now; human test theory, no one die again however wounded, can still miserable)**
 
 ## Act 4 - Grief flieth to it
 
 ### Chap 16. Empty (Price)
 
-### Chap 17. Need (Truth)
+**(outline: fast-forward, human prospering but population too huge, new problem, need to die again or Earth will break; thinking about solution, debates the cost, objected by other leaders)**
+
+### Chap 17. Nostalgia (Truth)
+
+**(outline: flashback when Death exists, good old time, discuss with kid, agreed)**
 
 ### Chap 18. Death (Unity)
+
+**(outline: start doing it, thwarted by others, did it, become new Death, reunion again, new balance, new life)**
+
+#### draft notes
+
+After Elena becomes new Death, she's one with Theda, the two reunion scene; reaping and saving together. Because new Death comes from life, so half life half death, no restriction in power of no healing, so can start healing too. Officially get called by other humans "Life", depicted as white scythe etc. insisted to add Theda's profile too
