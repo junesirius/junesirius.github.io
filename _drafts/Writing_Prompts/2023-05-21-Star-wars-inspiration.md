@@ -870,7 +870,7 @@ Mama I killed a man today
 
 （好像所有安牌梗都能给obikin用一遍）
 
-### 48.【obikin】杀手机器人安
+### 48.【obikin】2049AU 杀手机器人安
 
 （图片参考assets/images/Star_Wars/2023-06-02-anakin-\*.jpg的那四张）
 
