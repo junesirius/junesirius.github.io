@@ -23,12 +23,12 @@ origin: 个站
 - Theseus "Theo" Drake: engineer, tech nerd (~Lin Jing)
 - Dr. Aria Hawthorn: doctor, ~~unreciprocated love interest to Elena?~~ (~Christine Palmer)
 - Lucky: a cat (can see Death)
-- Finnick "Finn" Ralder: a funny guy, comedian/performer, music (~Crowley)
+- Finnick "Finn" Ralder: a funny guy, comedian/performer, music (~Crowley (SPN))
 
 encounter later, selfish bastards/liars/humanity flaw:
 
 - Father Elias "Eli" Marlow: priest, charismatic, mistaken for Life for a bit, deliberately mislead people to believe it once realize the benefit, "God helps those who help themselves" (~Gilderoy Lockhart)
-- Ivy Crowe: writer/journalist, dying, saved (or died?), join group, accept Death well (~Luna Lovegood)
+- Ivy Crowe: writer/journalist, dying, saved, join group, accept Death well (~Luna Lovegood)
 
 ## Events/side plots
 
@@ -82,29 +82,25 @@ encounter later, selfish bastards/liars/humanity flaw:
 - teleport
 - invisible
 - strength
-- psychic: tell truth/lie, mind-reading
+- psychic: ~~tell truth/lie, mind-reading~~, sense strong emotion (especially sadness, hopelessness), go into dream
 - control climate/weather
 - control death of virus/creature/anything alive
-- accelerate aging
+- accelerate aging in life/decay in object/fossilization in stone
+- entropy-surge chaos: things drop often, fire outburst, mysterious air flow
+
+root: fast-forward regional time flow speed (explains weather control: just fast-forward cloud moving etc.; kill=fast-forward until it dies)
+
+principle: increase entropy (Life decrease entropy), that's why can't heal and when do heal, hurt itself (entropy reduced)
 
 ### Limit
 
 "Goes against rule/job description"
 
-- Can't heal (unless give away itself)
+- Can't heal/slow down self-heal (unless give away itself)
 - Can't bring back life (unless sacrifice)
+- small things: can't bring life so can't grow plants, can't fix things (broken things stay broken, bad mechanics)
 
-## draft notes
-
-Elena: You are NOT gonna kill yourself, you hear me? I don't care what bad omen or whatever --
-
-someone: (cough) Excuse me, not just bad omen, she is literally *Death*.
-
-Elena: *I DON'T CARE!* She's not gonna die, neither does any of us!
-
-<br>
-
-Death last words: Don't forget what I said...
+## Notes
 
 (small design in titles: acrostic for each act: death, life, human, end)
 
@@ -118,29 +114,29 @@ Death last words: Don't forget what I said...
 
 ### Chap 1. Daphne
 
-**(outline: kid's innocent view of the post world, barren, sick, sense/see/hear Death, relationship with Elena/cat/Henry; Death comfort she's gonna be ok, kid tells Elena, doesn't believe)**
+**(outline: kid's innocent view of the post world, barren, sick, sense/see/hear Death, relationship with Elena/cat/Henry; Death comfort she's gonna be ok, kid tells Elena, doesn't believe; Death care about kid)**
 
 ### Chap 2. Elena
 
-**(outline: leader's view, head to the Henry, go out look for food/water (Death helped water in rain), grab kid/cat, start moving, Death help the shade/temperature, give sign, keep kid awake)**
+**(outline: Elena's view, head to the Henry's, go out look for food/water (Death helped water in rain), grab kid/cat, start moving; kid get worse, Death help the shade/temperature, give sign, keep kid awake; Death care about Elena, Elena start sensing)**
 
 ### Chap 3. Aria
 
-**(outline: Elena follow sign to med/hospital, find Aria, Aria help kid, Elena share food/water, Death talk to cat?, Death kill virus/gem in meds/food)**
+**(outline: Elena follow sign to med/hospital, find Aria, Aria help kid, Elena share food/water, Death talk to cat?, Death kill virus/gem in meds/food; Death happy when it works & kid get better (Death's emotion), Elena know Death exist, Aria/kid call Life)**
 
 ### Chap 4. Theseus
 
-**(outline: get to Henry's, find Theseus&Henry, build shelter, Death help strengthen; kid talk about Death, Theseus make something, verbal communicate in burning words on surface? way of talk)**
+**(outline: get to Henry's, find Theseus&Henry building shelter, Death help strengthen; kid talk about Death, Theseus make some tool/verbal communicate in burning words on surface? way of talk with Death; show Elena is necessary lead for the group, bring them together; Death hold broken bridge for them; Theseus fixed car, move kid in car; Death/Elena more communicate)**
 
 ### Chap 5. Henry
 
-**(outline: Elena wants keep moving, argue in group, Henry wander into wood, Death lead him back, give him dream to peace out; fix/hold broken bridge; Theseus fixed car, move kid in car)**
+**(outline: Elena wants keep moving, argue in group, Henry wander into wood, encounter danger, Elena go search, Death go together, try protect both (Elena wounded by poisonous mushroom), lead him back, give him dream to peace out; Death/Elena more help/save)**
 
 ## Act 2 - Love slights it
 
 ### Chap 6. Theda
 
-**(outline: Elena dying (hunting wound?), can see Death; Death sacrifice a piece to save, touch her, touching life weakens death, start humanize but still have power, wander into group, taken in; human side confuse/trouble her, hungry/sensation)**
+**(outline: Elena dying, can see Death; Death sacrifice a piece to save, touch her, touching life weakens death, start humanize but still have power, wander into group, taken in; human side confuse/trouble her, hungry/sensation)**
 
 ### Chap 7. Lucky
 
@@ -148,21 +144,21 @@ Death last words: Don't forget what I said...
 
 ### Chap 8. Iva
 
-**(outline: group find Iva, Theda weakening/saving, group suspect but happy; Elena contemplate, already figured out)**
+**(outline: group find Iva, Theda weaken/save, group suspect but happy; Elena observe/think/sense, already figured out)**
 
 ### Chap 9. Finnick
 
-**(outline: side plot relaxing moments, human show Theda singing/dancing/joy, campfire moment, trade story; Elena love see Theda try new human thing, official love)**
+**(outline: side plot relaxing moments, human show Theda singing/dancing/joy, campfire moment, trade story; Elena love see Theda try new human thing, official mutual love)**
 
 ### Chap 10. Elias
 
-**(outline: group run into Elias, Theda meet first? deceived, Eli pretend life, against Theda, Theda awkward, Elena strong support her, find out truth, him get own consequence)**
+**(outline: group run into Elias, Theda meet first? deceived, Eli pretend Life, against Theda, Theda awkward, Elena strong support her, find out truth, Eli get own consequence)**
 
 ## Act 3 - Honor aspireth to it
 
 ### Chap 11. Hesitation (Suspicion)
 
-**(outline: some accident, Theda hurt someone, humans realize she's death, her existence endanger humans, subtle hospitality)**
+**(outline: some accident, Theda hurt someone, rest of group realize she's death, her existence endanger humans, member subtle hospitality)**
 
 ### Chap 12. Upheaval (Rupture)
 
@@ -180,6 +176,14 @@ Elena: Look at her! She's no less human than you, or me, or any of us!
 
 **(outline: lead arguer/Aria hurt after separate way, Theda find and save and weaken again; want to self-sacrifice but stopped/saved by Elena)**
 
+#### draft notes
+
+Elena: You are NOT gonna kill yourself, you hear me? I don't care what bad omen or whatever --
+
+someone: (cough) Excuse me, not just bad omen, she is literally *Death*.
+
+Elena: *I DON'T CARE!* She's not gonna die, neither does any of us!
+
 ### Chap 14. Attachment (Intimacy)
 
 **(outline: Elena/Theda intimate moment, share last human sensation, give gift of scythe, share secret: tool allow her have temp power of life/death, can move life force, use only when absolutely sure and no other way, no way back)**
@@ -187,6 +191,10 @@ Elena: Look at her! She's no less human than you, or me, or any of us!
 ### Chap 15. Nadir (Farewell)
 
 **(outline: kid die, Theda say thank you and I love you, exchange life to save the kid, die finally, used up all power, last essence in kid now; human test theory, no one die again however wounded, can still miserable)**
+
+#### draft notes
+
+Theda last words: Don't forget what I said...
 
 ## Act 4 - Grief flieth to it
 
