@@ -1542,4 +1542,14 @@ What if by the time Dean Sam came back to cabin after picking up Jack, angels ha
 
 Dean will be furious, declare real war to angels to get Cas's body back, even though he knows he's already gone and the body is just body, he can't leave the last part of Cas to angels
 
-### 190.
+### 190.【destiel】S12E23 chances of when the timing of door close changes
+
+what if the door/rift to the apocalypse world is closed at different time of all the different times when someone is in the other worlds, what will happen:
+
+- Cas in other world (the very first time go in there); Dean Sam Mary Lucifer in original world
+- Dean Sam Cas in other world (first time Dean Sam see the rift and go explore); Mary Lucifer in original world
+- Dean Sam Lucifer in other world (trick Lucifer into there trying to kill/trap him); Cas Mary in orginal world
+- Dean Sam Cas Lucifer in other world (brief moment when Cas dashing in, before Dean Sam come back); Mary in original world
+- Cas Lucifer in other world (Cas go in there check in on Dean Sam and try kill Lucifer)' Dean Sam Mary in original world
+
+### 191.
