@@ -82,11 +82,11 @@ encounter later, selfish bastards/liars/humanity flaw:
 - teleport
 - invisible
 - strength
-- psychic: ~~tell truth/lie, mind-reading~~, sense strong emotion (especially sadness, hopelessness), go into dream
+- psychic (?): ~~tell truth/lie, mind-reading~~, sense strong emotion (especially sadness, hopelessness), go into dream
 - control climate/weather
 - control death of virus/creature/anything alive
 - accelerate aging in life/decay in object/fossilization in stone
-- entropy-surge chaos: things drop often, fire outburst, mysterious air flow
+- entropy-surge chaos: things drop often, fire outburst, mysterious air flow, water activity/flood, fierce/extreme weather, sudden cold/hot temperature change
 
 root: fast-forward regional time flow speed (explains weather control: just fast-forward cloud moving etc.; kill=fast-forward until it dies)
 
@@ -114,7 +114,83 @@ principle: increase entropy (Life decrease entropy), that's why can't heal and w
 
 ### Chap 1. Daphne
 
-**(outline: kid's innocent view of the post world, barren, sick, sense/see/hear Death, relationship with Elena/cat/Henry; Death comfort she's gonna be ok, kid tells Elena, doesn't believe; Death care about kid)**
+**(outline: kid's innocent view of the post-apocalypse world, barren, sick, sense/see/hear Death, relationship with Elena/cat/Henry; Death comfort she's gonna be ok, kid tells Elena, doesn't believe; Death care about kid)**
+
+The wall in front of her was spotted, plasters peeling off, dark grey and white here and there. Pencil inks were added to the painting, shallow marks tracing the circles and lines, adding eyes to the white and limbs to the grey.
+
+Daphne traced her finger along the edge of the gaps from the falling plasters, thinking and imagining. She slept on her left side, and this wall was the first and only thing she could see, and she liked looking at it.
+
+A bout of coughing hit her suddenly. The tiny hand of hers retracted back under the thin blanket she huddled into, grabbing her own chest. The air became too sharp for the lung, she coughed long and shaky, her small body quivering with each wave of the cough.
+
+The night was long.
+
+She waited for the coughing to pass, and turned to lie on her back when it finally did. The ceiling looked similar to the wall, though slightly further away out of the reach so she couldn't draw on it. The mottled paint was probably once snow white, now all look dark yellow, and grey, and black.
+
+Mostly black. Because there was barely any light, the shadow covered most of the ceiling, like the way it covered most of the room. But Daphne had looked at the ceiling too many times that she didn't really need much light to make out all the cracks and rifts.
+
+But the heat in the head was making her eyes hard to focus, and somewhere inside the body there was also something uncomfortable. She turned over again to the other side, the other wall alongside the bed mattress.
+
+The air flowed slowly and dusty, she coughed again, pressing the mouth on the inside of the blanket, sound muffled, echoed by the trembling sound inside her chest.
+
+The shadow in the room shifted, as if materializing into something real, furry and fluffy on the edge, warm and soft on the inside. It slipped from the loose end of the blanket, squeezing inside her arms.
+
+"Lucky!" Daphne mumbled surprisingly and cheerfully once her breath was eased, tightened her arms around the small warm creature.
+
+The black cat found the way out from underneath the blanket, and poked a nose out, rubbing against girl's chin, its body pressed against hers.
+
+The small arms wrapping around the cat loosened a little as the owner gradually closed her eyes in the slow humming purring sound. The cat closed the eyes too, keeping the paws around the human.
+
+<br>
+
+The next time when Daphne woke up again, the room was still covered by shadow and chill, but she was already getting used to it. It was like this every day, all the time now. Not like any more light could come in, not like there was any more light anywhere anyway, but it didn't bother her much.
+
+Lucky jumped out of her embrace after she started turning over again, but didn't leave the room. She couldn't see it, but she could hear the quiet breathing, sense the warmth of her body radiating through the whole room and beyond like a small sun. She liked it staying here.
+
+The dizziness from heat eased slightly from the head and body. Daphne stretched her small arms and legs a little, happily finding out she could do most of the movements on the bed without having to frown or moan quietly.
+
+She picked a short pencil from by the pillow that was made from a wrapped jumper, sat up and added some more facial expressions to a plain face on the wall that only had a white circle for face and two thin lines as eyes.
+
+She was excited at her small painting project, but got tired fast. She had to lay down again shortly, the face still wasn't finished. The ceiling came back into the view.
+
+The darkness on the ceiling fluctuated slightly again, the cat didn't do anything. Daphne stared at it hard, trying to make out what it was but couldn't quite tell the shadow apart from the darkness.
+
+And then there was something.
+
+Daphne opened her eyes wide at the shape by her bed. It was a human figure, she thought, but humans wouldn't be so... she couldn't find a word, she was only almost ten-year-old anyhow. The shadow wavered and wandered.
+
+"Who are you?" She asked in a small voice.
+
+The shadow answered with silence, but looked like it was coming closer. Daphne could make out a hooded long trench coat now, Aunty Elena had one looked just like that but not as long, and it wasn't so utterly dark and black.
+
+The girl swallowed, feeling the throat work but the sore and dry feeling at the bottom of the throat was still there.
+
+"Are you... Death?" she asked timidly.
+
+The shadow came another step closer to her, the girl retreated to the far corner of the room, arms around herself, holding it together. Her eyes were like a frightened sparrow with wounded wings, so terrified and wanting to leave, but the wounds on the wings constrained it to the ground, only flapping the hurt wings pointlessly trying to fly away.
+
+"Yes." the shadow -- Death -- signed, and spoke, in a voice not much louder than the kid's own.
+
+"Yes, but don't worry, Daphne," Death told her, another step closer. Close enough for her to see the whole figure now. "I'm not here to take you."
+
+Death held a hand towards her as if a mother trying to soothe a sick baby. The little girl curled up on the bed, shivered. Death took the hand back.
+
+Daphne stared at the hand, then tracing the arms up, looked into the empty dark face under the hood where a face was supposed to be, but she could find nothing.
+
+#### [TBA]
+
+
+
+
+
+"Daphne, sweetie, how are you feeling?" A woman's voice sounded out from the other side of the door.
+
+
+
+
+
+
+
+
 
 ### Chap 2. Elena
 
@@ -158,7 +234,7 @@ principle: increase entropy (Life decrease entropy), that's why can't heal and w
 
 ### Chap 11. Hesitation (Suspicion)
 
-**(outline: some accident, Theda hurt someone, rest of group realize she's death, her existence endanger humans, member subtle hospitality)**
+**(outline: some accident/Father's words induce suspicion, Theda hurt someone, rest of group realize she's death, her existence endanger humans, member subtle hospitality)**
 
 ### Chap 12. Upheaval (Rupture)
 
