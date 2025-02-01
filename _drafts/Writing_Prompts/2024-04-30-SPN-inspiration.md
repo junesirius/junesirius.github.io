@@ -1006,6 +1006,8 @@ What if Crowley didn't figure it out how to break the spell or too late, Cass di
 
 case related to lore, ref: Pirates of Caribbean
 
+(≈prompt 196)
+
 ### 116.【destiel】S12E16 What if Claire didn't survive reversion
 
 What if the reversion therapy to transition Claire back to human from werewolf doesn't work, either she remains a werewolf or dies. Cass finds out after he comes back from Heaven, confronts Dean of what he did.
@@ -1552,4 +1554,50 @@ what if the door/rift to the apocalypse world is closed at different time of all
 - Dean Sam Cas Lucifer in other world (brief moment when Cas dashing in, before Dean Sam come back); Mary in original world
 - Cas Lucifer in other world (Cas go in there check in on Dean Sam and try kill Lucifer)' Dean Sam Mary in original world
 
-### 191.
+### 191.【all? destiel?】S04E18《Wincheste Gospel》
+
+Cas: "One day, these books – they'll be known as the Winchester gospel."
+
+want to see for whatever reason, Dean (/Sam) fastforward into future where Winchester Gospel is a real thing, people are reading, reciting, honoring these
+
+### 192.【Jack】time travel to save Lucifer《Grandfather Paradox》
+
+post-1518 after Jack becomes God and time travels back to before he's born, during the time Dean/Sam/Cas are fighting Lucifer and very close to actually permanently kill Lucifer, Jack has to save Lucifer otherwise time conflict and he won't be born, so from Dean/Sam/Cas's view, this kid comes from nowhere claiming to be God and helps Lucifer, that's gonna leave a bad first impression, they're gonna fight. Clean their memory in the end to be canon-converged? or return memory "so this is you??!"
+
+### 193.【destiel】Dean time travel to save 1518 Cas 《Trolley Problem》
+
+post-1518, to save Cas, Dean researchs and figures out how to time travel (Henry/MOL knows how, they have angel feather and ingredients), goes back different points in their encounter trying to change things so Cas won't end up in 1518. Every time doesn't work, go back further
+
+- change 1418/1503 not fighting
+- 1409 prevent Cas from making the deal with Empty (Jack dies)
+- 1223 prevent Cas from getting killed (to not go to Empty) (Lucifer kill all of them, they all die)
+- 1209 stop Cas from killing Billie (Mary dies =1418, Billie not become Death)
+- 1023 not kill old Death (Billie not become Death) -> later changes: more change Dean's action than Cas's
+- 823 not let Cas go alone to ruin wings (so 1518 can fly them out) (if leave Sam with Cas, Sam dies)
+- 623/701 stop Cas become God so won't try so hard for redemption in 823 ()
+- 401 try to not let Cas bring him back (when in Hell, stay stronger longer; or struggle to prevent Cas save him) but Cas still bring him back and profound bond again
+- realize only way is to not make the deal in 222 and let Sam die
+
+so conclusion, to save Cas: either Mary die or Sam die -> Dean, trolley problem, who are you gonna choose to save?
+
+### 194.【destiel】玫瑰杀人案【WIP】
+
+（情人节联文）
+
+《埃拉加巴卢斯的玫瑰》
+
+case fic
+
+### 195.【destiel】拔杯xover
+
+case fic，以为是怪物，追踪案件发现拔杯
+
+### 196.【denny】"On the high seas"
+
+SPN CH Feb. 2025 Challenge
+
+Dean&Benny - vampirate
+
+Pirates of Caribbean xover? (≈prompt 115)
+
+### 197.
