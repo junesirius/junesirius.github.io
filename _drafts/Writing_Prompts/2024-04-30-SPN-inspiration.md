@@ -1600,4 +1600,12 @@ Dean&Benny - vampirate
 
 Pirates of Caribbean xover? (≈prompt 115)
 
-### 197.
+### 197.【destiel】not soulmate
+
+soulmate AU
+
+destiel are not destined soulmate (tattoo doesn't have each other's name), but love each other deep enough they ignore the soulmate setting and choose each other, break the curse (?), the setting actually challenging to break them apart but they hold strong
+
+(~Black Mirror 404 "Hang the DJ")
+
+### 198.
