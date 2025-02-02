@@ -454,7 +454,7 @@ Dean的“you're dead to me”，可以真正地杀死Cass。
 
 （灵感部分参考柠檬的《幻痛》和五觉）
 
-### **50.【destiel】1518 coda/fix-it《The Empty》**
+### **50.【destiel】1518 coda/fix-it《The Empty》**【WIP - bang】
 
 丁后悔，疯狂努力要救回卡
 
@@ -984,7 +984,7 @@ Dean would bargain his way out of Empty like Cas did in 1305, or Cas would get s
 
 Mary assumes they're in relationship, mother-son-in-law talk
 
-### 111.【destiel】S11E18 "slapped by a girl wearing a zorro mask"【R级】
+### 111.【destiel】S11E18 "slapped by a girl wearing a zorro mask"（R级）
 
 Dean: There's times I want to get slapped during sex by a girl wearing a Zorro mask, that doesn't make it a good idea.
 
@@ -1608,4 +1608,8 @@ destiel are not destined soulmate (tattoo doesn't have each other's name), but l
 
 (~Black Mirror 404 "Hang the DJ")
 
-### 198.
+### 198.【destiel】S12E19 the mixtape
+
+post-1518 after Cas's gone, Dean manages to keep the emotions under control and pretends life going on the same as before, until one day he accidentally puts the mixtape "Dean's top 13 Zepp Traxx" on and play zepline and remembers this is the tape he gives Cas and Cas didn't bring it with at the end day, that's when Dean totally breaks down and cries out of breath
+
+### 199.
