@@ -236,7 +236,7 @@ Cass怎么在昏迷中用尽力气才把自己灵魂拼起来，至少可以醒�
 
 想象他走在自己思维宫殿里，原本排列整齐的图书馆知识库现在是一片狂风过境的书的废墟。漂亮古典高耸到建筑穹顶的书架仍然立着，但所有的书四散在地上，堆得一团糟，书页四散飞舞。他已经用了最大的努力把这个图书馆重新拼凑让四壁树立起来，让书架回到它们原本的位置，但那些书，那些四散的纸页，要把这里的所有东西都归位实在需要太多太长的时间了。他已经在努力了，东一本西一本地捡地上的书，读出纸页上的字，费劲地想要搞明白那些东西原本都应该放在哪里，但没有了索引没有了页码，要把他们重新按顺序放回去实在太难了。当他在自己的思维宫殿里念出那些纸页上的内容时，外面的那个他也会忍不住把那些句子大声地说出来，于是他就被所有人认为疯了，认为broken，but they really should take a tour inside, see what he's dealing with, see how hard he already works, see how good he already is and how rare it is。
 
-（see more in S07E21-23观后感）
+（see more in S07E21-23观后感；~梗158，->梗201）
 
 ### 26.【Cass】S07E21/23 失控的Cass在害怕崩溃中时间穿越
 
@@ -389,6 +389,8 @@ Cass发现怀了之后，Dean：“I didn't know it's possible.”Cass：“Neit
 ### 40.【destiel】S12E11 失忆Dean忘记Cass一百遍
 
 《恋恋笔记本》？
+
+（~梗201）
 
 ### 41.【destiel】唇上的诅咒
 
@@ -789,6 +791,8 @@ What if these are all Cass's explanation to Jimmy for copential consequence to l
 ### 91.【Cass】S06E22 What if he stopped and they let Rafael win
 
 just has to stop Armageddon all over again
+
+(-> prompt 200)
 
 ### 92.【destiel】S10E22 “I'm the one who will have to watch you murder the world.”
 
@@ -1296,23 +1300,29 @@ Cass is being careful but still not careful enough, Bobby exploded, Dean super p
 
 ### 156.【destiel】S06E18 What if boys get lost in western world【WIP - bang】
 
-Cass refused to risk Bobby (or even if used his soul still not recovered enough), Dean/Sam stays in town for more than 24h and lost to Cass, what happens next?
+Cass refused to risk Bobby (or even if used his power still not recovered enough to time travel, or Cass didn't wake up in time), Dean/Sam stays in town for more than 24h and lost to Cass, what happens next?
 
 What happened in the time flux that prevents Cass from locating and reaching Dean however hard he fights for him, what's the consequence of that fight when he's already exhausted because of Rachael's stab? He's more wounded. Raphael is still at his tail, might follow him in the time flux too, fight across time and space and falls in random places.
 
 What happened to the boys when they have to extend their stay in Sunrise Wyoming, what dangers in there? Demons are still wandering around. They might work with Samuel Colt. They might leave message for their future self in the Pentagon railway so they would have noticed at end of S2, changed history slightly maybe?
 
+(~Legends of Tomorrow)
+
 ### 157.【destiel】S06E22 What if Crowley oversmarts everyone and becomes the new God
+
+(-> prompt 200)
 
 ### 158.【destiel】丁用灵魂碎片把卡拼回来复活
 
 卡为了救大家牺牲了，丁和很多跟他们亲近的重要的人（米、Bobby、Charlie、Jody、Claire、Jack？）一起围起来做仪式，每个人给自己灵魂切片来把卡拼起来复活了。复活的卡没有记忆，要是想起来就会碎掉又会死，而且没法再被拼回来（死神给的tip）。复活的卡又要爱上丁了但是所有人都在拼命阻拦，丁也要为了保护卡疯狂克制。
 
-（详见2024-12-11 梦记）
+（详见2024-12-11 梦记；~梗25，->梗201）
 
 ### 159.【destiel】S07E17 Dean stays to take care of broken!Cass
 
 Instead of Meg staying behind to take care of Cass, Dean stays. Demons and Leviathans will come, more of reason to stay behind for him.
+
+（-> prompt 201）
 
 ### 160.【destiel】S07E10《Blood》
 
@@ -1496,7 +1506,7 @@ Cas is the angelic relic from biblical old age
 
 or to make it destiel, make Cas possess Dean
 
-### 182.【destiel?】S12E08 驱逐附身体的金蛋
+### 182.【destiel?/CasJimmy?】S12E08 驱逐附身体的金蛋
 
 BMOL的金蛋“Hyperbolic Pulse Generator”可以驱逐各种附身体，恶魔、天使、大天使
 
@@ -1630,4 +1640,32 @@ TFW: "We'll lock you up."
 
 Malak box? Mark of Cain? similar to locking Darkness from Empty
 
-### 200.
+### 200.【all】those who have become God
+
+God competition? who has been the best God:
+
+- Chuck
+- Cas (701)
+- Metatron (S9)
+- Lucifer (S14)
+- Jack (1520)
+
+what if:
+
+- Crowley (623 what if, ~prompt 157)
+- Raphael (623 what if, ~prompt 91)
+- Dean (1323 what if, ~prompt 202)
+
+### **201.【destiel】S12E11失忆丁+S07E17失忆卡**
+
+双失忆梗，S07E02-17时间线（~梗40、159、25/158）
+
+丁中了巫师失忆咒，遇到刚从河里出来的失忆卡，米这时候在被路西弄疯住院，Bobby是鬼魂，外面都是Leviathan
+
+初遇时候丁给卡衣服，让他同车，想找米不记得回去路，卡治愈丁无果。Meg找到丁卡，介绍卡是丁男朋友，丁卡吃惊但是认了。丁每次忘记卡都要重新介绍，对丁耐心，丁卡真的男朋友状态一段时间，两个失忆但是都爱上对方了（掺一个别的case fic slow burn? 各种小情侣温馨片段，闲聊未来etc）。Meg指路巫师，丁无意说觉得这样也挺好，Meg警告卡如果恢复记忆丁想起卡他们可能没法保持这样，卡私心动摇想让丁保持这样。丁开始忘记呼吸走路濒死，卡不能看着丁死，找到杀了巫师逆转咒语让丁恢复记忆。丁恢复之后第一眼看见卡马上退开保持距离表现痛苦抗拒，卡难受知道他们结束了，Meg催丁让卡恢复记忆，丁私心动摇想让卡保持这样，自己承担痛苦。（这部分S07E17原作向）米濒死，丁告诉卡真相，卡杀恶魔恢复记忆但是保留了跟丁真的是男朋友部分桥段，失落差距更加难受，但是压抑住了。卡救米，自己疯，疯时期分不清现实记忆觉得丁跟他仍然是男朋友，不理解丁要离开丢下他，破碎濒死。丁留下来照顾卡，进入卡梦境/记忆帮卡把碎片拼起来救卡。卡拼起来醒来，不确定丁对他现在态度和他们关系，含蓄表达丁还是爱他的，互相都是，hopeful ending：两个人准备好一起去找米和杀Leviathan拯救世界了，together
+
+### 202.【destiel】S13E23 what if Dean becomes the new God
+
+what if Dean takes Michael's power, kills Lucifer, takes Lucifer's/Jack's power, banishes Michael, becomes the new God
+
+### 203.
