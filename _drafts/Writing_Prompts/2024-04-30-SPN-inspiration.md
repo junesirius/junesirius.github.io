@@ -472,6 +472,8 @@ Jack/米：（也震惊）所以你什么都没有给他？那他怎么……？
 
 丁在1520死之前一直在想卡的时候，念念不忘，然后像1520一样死了，但是死之后上不了天堂，灵魂变成鬼魂，因为有unfinished business，卡就是他的unfinished business。为了让丁灵魂解放，米召唤Jack/new God（或者这个很早就试过了），但是Jack也做不到，虚无独立于上帝力量之外。丁无望地痛苦，感觉内心有缺失空洞，空洞越来越大，然后因为内心的空洞就是一种empty，所以他的灵魂也进入Empty了（文字游戏）。在虚无里见到卡，唤醒卡（可能卡本来就没睡），回应卡的感情，于是虚无不再虚无，内心被填满，用情感充满了虚无，于是让他们俩不再虚无，虚无也就对他们没有掌控能力了，所以他们得以一起逃脱虚无（简单俗气地说就是用爱打败了反派）。回来以后卡重新变成天使，丁灵魂上天堂，俩人在天堂重逢继续快乐生活。（卡也许也会提议让丁再次复活，但是丁可能拒绝了，地球反正还会有卡和米保护的，他想要休息了，he earned it）
 
+1323丁想要的退休海边生活他说过这是他earn的但是从来没得到过，也许可以作为这里的结局
+
 ### 51.【destiel】slave Cass
 
 （灵感来自《夜雨与晨曦》+TCW中slave Anakin/Ahsoka那集+飓风营救）
@@ -1002,7 +1004,9 @@ What if Charlie follows Gilda to fairy land
 
 What if Crowley didn't figure it out how to break the spell or too late, Cass died, Dean blamed Mary for the rest of the time, who's gonna take care of Jack, Jack's new father
 
-### 115.【TFW case fic/xover】Davie Jones' chest
+### 115.【all】Davie Jones' chest
+
+(case fic/crossover)
 
 case related to lore, ref: Pirates of Caribbean
 
@@ -1222,11 +1226,11 @@ Cass loves soft warm socks, would love to have new ones for gift every holiday
 
 human Cass? (maybe Metatron used all his grace and none left so he stays human)
 
-### 149.【TFW】S14E20 the world in reverse
+### 149.【all】S14E20 the world in reverse
 
 Chuck's "boring" AU, mirrored world, space/time/entropy in reverse
 
-### 150.【TFW】S14E20 the world without yellow
+### 150.【all】S14E20 the world without yellow
 
 Chuck's "boring" AU
 
@@ -1234,7 +1238,7 @@ perceived yellow or constructive yellow?
 
 human eyes can't received yellow's wavelength or light frequency doesn't exist in yellow's wavelength
 
-### 151.【TFW】S14E20 the world that's all squirrel
+### 151.【all】S14E20 the world that's all squirrel
 
 Chuck's "boring" AU
 
@@ -1432,7 +1436,7 @@ Dean在沙滩上发现一对掉落的烧焦黑色翅膀，第一反应觉得是�
 
 （难点：设计上会非常烧脑，除非完全照搬
 
-### 175.【destiel/TFW】彗星来的那一夜AU
+### 175.【destiel/all】彗星来的那一夜AU
 
 （借用设定）
 
@@ -1526,7 +1530,7 @@ what if Dean manages to fake Sam's death (tricks the Death) and gets sent to the
 
 even if Cas can't bring Dean back, he would go there and stay in the Sun with him, whatever it would do to his bod. He wouldn't let him stay there for eternity, alone.
 
-### 187.【TFW日常】S15E10 bunker望远镜
+### 187.【TFW/all】S15E10 bunker望远镜
 
 到1510我们知道了bunker重启之后望远镜能看多元宇宙（说不定不重启本来也能看只是他们没去看，或者保留必须重启也可以）但是因为当时没有别的多元宇宙了所以什么也看不见，what if在别的多元宇宙都还在也都正常运转的时候出现了Mrs Butters这个案子，他们知道了功效也开始看那些宇宙里的事，会怎么样。看见别的世界出现悲剧或者看见别的版本的他们自己，如果无论如何过不去的话是不是会觉得像是观影体，三个人坐着看热闹犀利评价。如果是在S12E23之前，是在Jack出生、知道多元宇宙真的能过得去之前，会不会觉得望远镜里的不同版本只是魔法创造的多元可能的幻觉，就当成电影娱乐看了。
 
@@ -1554,7 +1558,7 @@ what if the door/rift to the apocalypse world is closed at different time of all
 - Dean Sam Cas Lucifer in other world (brief moment when Cas dashing in, before Dean Sam come back); Mary in original world
 - Cas Lucifer in other world (Cas go in there check in on Dean Sam and try kill Lucifer)' Dean Sam Mary in original world
 
-### 191.【all? destiel?】S04E18《Wincheste Gospel》
+### 191.【destiel/all】S04E18《Wincheste Gospel》
 
 Cas: "One day, these books – they'll be known as the Winchester gospel."
 
@@ -1612,4 +1616,18 @@ destiel are not destined soulmate (tattoo doesn't have each other's name), but l
 
 post-1518 after Cas's gone, Dean manages to keep the emotions under control and pretends life going on the same as before, until one day he accidentally puts the mixtape "Dean's top 13 Zepp Traxx" on and play zepline and remembers this is the tape he gives Cas and Cas didn't bring it with at the end day, that's when Dean totally breaks down and cries out of breath
 
-### 199.
+### 199.【destiel/all】S13E23 what if Lucifer becomes God and reshapes world as promised
+
+If Dean doesn't say yes to Michael (or Michael has been killed by Jack/Lucifer before that, or Lucifer doesn't take Jack/Sam with him so Dean is not as motivated), then Lucifer gets God/Jack's power and becomes God and destroys/rebuilds the world as he likes. Lucifer kills Sam/Dean/Jack and all humans (~S15 Chuck kill everyone), who go to Heaven, and Lucifer doesn't like them still living in Heaven, so kill them again so they end up in Empty. Lucifer kills Cas too, so TFW reunite in Empty.
+
+Lucifer controls the world/whole universe and all realities, so the only place out of his reach is the Empty (God has no power in the Empty). Now that TFW all in the Empty (find a way to wake them up and find each other in that darkness, maybe Empty helps), they can start plotting about how to come back and beat Lucifer from there and revive the world.
+
+TFW: "If you kill us again and we end up in the Empty, we'll just come back again."
+
+Lucifer: "And what are you gonna do to me? If you kill me, I'll just be there too."
+
+TFW: "We'll lock you up."
+
+Malak box? Mark of Cain? similar to locking Darkness from Empty
+
+### 200.
