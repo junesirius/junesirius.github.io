@@ -1626,6 +1626,8 @@ destiel are not destined soulmate (tattoo doesn't have each other's name), but l
 
 post-1518 after Cas's gone, Dean manages to keep the emotions under control and pretends life going on the same as before, until one day he accidentally puts the mixtape "Dean's top 13 Zepp Traxx" on and play zepline and remembers this is the tape he gives Cas and Cas didn't bring it with at the end day, that's when Dean totally breaks down and cries out of breath
 
+(or similarly, Dean doesn't dare to go into Cas's room after he's gone, one day for whatever reason he has to go in, and sees the tape on the desk, that's when he breaks down)
+
 ### 199.【destiel/all】S13E23 what if Lucifer becomes God and reshapes world as promised
 
 If Dean doesn't say yes to Michael (or Michael has been killed by Jack/Lucifer before that, or Lucifer doesn't take Jack/Sam with him so Dean is not as motivated), then Lucifer gets God/Jack's power and becomes God and destroys/rebuilds the world as he likes. Lucifer kills Sam/Dean/Jack and all humans (~S15 Chuck kill everyone), who go to Heaven, and Lucifer doesn't like them still living in Heaven, so kill them again so they end up in Empty. Lucifer kills Cas too, so TFW reunite in Empty.
@@ -1668,4 +1670,8 @@ what if:
 
 what if Dean takes Michael's power, kills Lucifer, takes Lucifer's/Jack's power, banishes Michael, becomes the new God
 
-### 203.
+### 203.【destiel】fix Cas's wings
+
+canon Dean/Sam never even think about fixing Cas's wings, don't even realize it's a problem they need fixing, let alone researching any solution or asking for any superier power to help. Cas never raise any request regarding himself, so if they don't notice and mention to help, he'd never ask. But it's a part of his body, no different from human losing limbs, they should notice, he should ask, they should help to at least try to fix the issue, even if they end up not finding any solution
+
+### 204.
