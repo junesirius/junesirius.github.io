@@ -456,7 +456,7 @@ Dean的“you're dead to me”，可以真正地杀死Cass。
 
 （灵感部分参考柠檬的《幻痛》和五觉）
 
-### **50.【destiel】1518 coda/fix-it《The Empty》**【WIP - bang】
+### **50.【destiel】1518 fix-it《The Empty》**【WIP - bang】
 
 丁后悔，疯狂努力要救回卡
 
@@ -1304,9 +1304,25 @@ Cass refused to risk Bobby (or even if used his power still not recovered enough
 
 What happened in the time flux that prevents Cass from locating and reaching Dean however hard he fights for him, what's the consequence of that fight when he's already exhausted because of Rachael's stab? He's more wounded. Raphael is still at his tail, might follow him in the time flux too, fight across time and space and falls in random places.
 
-What happened to the boys when they have to extend their stay in Sunrise Wyoming, what dangers in there? Demons are still wandering around. They might work with Samuel Colt. They might leave message for their future self in the Pentagon railway so they would have noticed at end of S2, changed history slightly maybe?
+What happened to the boys when they have to extend their stay in Sunrise, Wyoming, what dangers in there? Demons are still wandering around. They might work with Samuel Colt. They might leave message for their future self in the Pentagon railway so they would have noticed at end of S2, changed history slightly maybe?
 
 (~Legends of Tomorrow)
+
+Outline:
+
+Dean&Sam gets phoenix's ash by noon, bell rings, but Cas doesn't come, they can't get back. Some more time passes, they realize something must have happened to Cas and now they get stuck in the frontierland and have to figure out what to do. They start living like the locals, blend in as cowboys, get used to it, Dean is the town sheriff.
+
+Cas passes out for longer than in canon, when he comes to it's past 24h and he's super weak and wounded. He doesn't want to risk Bobby's soul and can't leave the boys behind, but also like he mentioned, now they are lost to him, so he'd have to fight hard in the time flux to find them. He's in no condition to time travel but he worries about Dean too much so he risks flying into the time flux in his wounded state, leaving bloody trace behind. His trace exposes him, Raphael follows him into the time flux, so he has to escape the chase while tries to locate Dean, Cas crash lands in Sunrise Wyoming but Dean's not there.
+
+Dean prays to Cas but doesn't get answer, they figure Cas said they're lost to him, so their idea is to do something "noisy" (big enough to get some notice from the future but not too big to disturb the history) so that their existence might be like some beacon in the timeline, hopefully making it easier for Cas to locate them. They leave Sunrise Wyoming, Dean quits sheriff, the two boys ride horses, wear bandana, wrap blanket, "roadtrip in wild west" (as the art show). They play cards in inns, provoke gun fights and win, occasionally deliberately act like bandits and rob gold mine owners, distribute gold to other poorer people, gets a fame of western Robin Hood and best gunner for themselves.
+
+Cas is too wounded to fly again and can't risk using his power in case he gets noticed by Raphael (still scouting in time flux), so he lives in the town like a human, also tries his best to blend in. After a while when he recovers slightly, he asks around if anyone has seen the brothers based on his description but no one does. The town looks relatively new, not so crappy, he asks time and realizes why. To stay in the town for longer and not raise suspicion, Cas starts working in a ranch just to continue pretending to be a normal human. Cas is still weak and low in power, but as time goes by, he's growing back.
+
+Dean & Sam go back to Sunrise Wyoming, get jump attacked by a stranger, very obviously trying to kill them and very good at fighting, and after a few rounds they realize he's not human. It's Castiel, the original 1860s timeline version, receives order that they're disturbing the timeline and comes to eliminate them. Dean almost gets killed, prays desperately instinctively again to his Cas, and gets saved when this Castiel gets blown away by power. His Cas is there, cowboy looking, dirty from ranch work, totally blend in and human-like, faceful of "I finally found you".
+
+Dean: "Where have you been?" Cas: "When." Dean: "Wh-- how long have you been here?" Cas: "Twenty years. I landed too early, so I have to wait for you to catch up, wait for time to pass in the slow old way." Dean: "I prayed to you." Cas: "I know." He can hear all the time but can't get to Dean.
+
+Cas flies them home, back to the same day they leave for the phoenix's ashes. Bobby is still there, exactly the same as before, everything the same.
 
 ### 157.【destiel】S06E22 What if Crowley oversmarts everyone and becomes the new God
 
@@ -1674,4 +1690,8 @@ what if Dean takes Michael's power, kills Lucifer, takes Lucifer's/Jack's power,
 
 canon Dean/Sam never even think about fixing Cas's wings, don't even realize it's a problem they need fixing, let alone researching any solution or asking for any superier power to help. Cas never raise any request regarding himself, so if they don't notice and mention to help, he'd never ask. But it's a part of his body, no different from human losing limbs, they should notice, he should ask, they should help to at least try to fix the issue, even if they end up not finding any solution
 
-### 204.
+### 204.【destiel】S08E01《Glimpses in Tears》【WIP - bang】
+
+> Castiel leaves purgatory through the portal with Dean, but since Cas is in a vessel without a soul the human portal has unexpected consequences and Castiel is stuck in a spliced form of his true form and human vessel. Cas is stuck between dimensions and keeps fighting to get back to the same plane as Dean, and the process of reappearing creates omens that Dean can trace to find him when he does briefly appear in his giant form.
+
+### 205.
