@@ -1694,4 +1694,12 @@ canon Dean/Sam never even think about fixing Cas's wings, don't even realize it'
 
 > Castiel leaves purgatory through the portal with Dean, but since Cas is in a vessel without a soul the human portal has unexpected consequences and Castiel is stuck in a spliced form of his true form and human vessel. Cas is stuck between dimensions and keeps fighting to get back to the same plane as Dean, and the process of reappearing creates omens that Dean can trace to find him when he does briefly appear in his giant form.
 
-### 205.
+### 205.【Charlie/Kara】S14E06 bakery in Chicago（F/F）
+
+apocalypse world Charlie mentions she had a life and a love of her life, before, she's a programmer at Richard Roman Enterprise, Kara owned a bakery outside of Chicago, cupcakes, smell like peaches, just like story book
+
+"guess she never met Kara"
+
+what if main world Charlie also meet Kara the bakery owner girl
+
+### 206.
