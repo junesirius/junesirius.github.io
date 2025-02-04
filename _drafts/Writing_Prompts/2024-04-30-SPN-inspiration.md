@@ -12,6 +12,52 @@ published: false
 
 [TOC]
 
+### 0. case fic standard formula
+
+(cite: qzone, original: julia-beans) early season per-episode case formula:
+
+```
+random person: *dies*
+cut to Sam and Dean eating on the impala outside a food truck
+Sam: so get this a random person across the country died
+Dean: ok but it's probably not our thing
+*it is their thing*
+Scene change: Dean and Sam walking outside
+Dean/Sam: hey do you really think we should be taking this case, considering the season's overarching plot line?
+Dean/Sam: we've got no leads so I've got to work or I'll go crazy
+Dean: hello sheriff pay no attention to the fact we look like supermodels, have ridiculous names on these clearly fake FBI badges and my brother has the same hair style as Jackie Kennedy and give us all the info on this case
+random sheriff: this case? Why you FBI boys are wasting your time. There isn't a case here.
+Visibly shaken white woman holding baby: this isn't like (random person) I just can't believe it
+Dean: did you hear or smell anything weird? Sulfur? Cold spots? These are very official FBI questions.
+Visibly shaken white woman holding baby: Of course, agents. Look I've told you everything I know, except for this mysterious hint.
+*Sam swallows and looks at Dean*
+*Scene change*
+*Impala pulls into motel*
+*research*
+Sam: I think it's this thing
+*it's not that thing*
+Sam: get this, I think we're dealing with this thing
+Dean: That's great Sammy but I think I know where the thing is going to be
+Monster: attacks visibly shaken white woman holding baby
+*Sam and Dean arrive just before visibly shaken white woman holding baby passes out*
+Monster: *chokes Sam*
+*Camera shot of Sam's face as he is being chocked*
+If only Sam could reach the phone/knife/gun!!
+Sam: *eyes roll back into head*
+Dean: arrives in the nick of time and kills monster
+Visibly shaken white woman hugs baby, she is teary-eyes: "so you're telling me monsters are real?? Thank you for saving us!! If only you could have saved that random person. I guess I'll have to move on now."
+*Scene change, Sam and Dean in impala*
+Dean/Sam: that was the right thing to do
+Dean/Sam: but was it?
+Dean/Sam: sometimes you can't save everyone
+*implication that story of random person is the same as Sam/Dean's season plot line issue*
+Dean and Sam look at each other
+Sam is clearly nervous
+Dean is stoic
+Impala drives into rain
+Fade to black
+```
+
 ### 1.【destiel】S04E18 反乌托邦AU
 
 Cass明明一开始过来的时候就已经想到要把那个“先知头顶有大天使罩着”的信息透露给他了吧，还非得等到Dean气得转身要走的时候才说，边说还边警惕朝天上看，大天使的监察也真是太可怕了吧，总是要弄得这么打哑谜身不由己。给完了tip还要再强调强调“now you know why I can't help/intervene”，但是真正想说的是临走前的“good luck”和关切的小眼神，总之这种口是心非说反话也真是很香了。（好像很适合去搞1984AU或者那几个类似的反乌托邦AU，华氏451AU或许也不是不可以）
