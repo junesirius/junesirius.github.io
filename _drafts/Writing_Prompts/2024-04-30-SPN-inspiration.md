@@ -1734,9 +1734,33 @@ what if Dean takes Michael's power, kills Lucifer, takes Lucifer's/Jack's power,
 
 canon Dean/Sam never even think about fixing Cas's wings, don't even realize it's a problem they need fixing, let alone researching any solution or asking for any superier power to help. Cas never raise any request regarding himself, so if they don't notice and mention to help, he'd never ask. But it's a part of his body, no different from human losing limbs, they should notice, he should ask, they should help to at least try to fix the issue, even if they end up not finding any solution
 
-### 204.【destiel】S08E01《Glimpses in Tears》【WIP - bang】
+### 204.【destiel】S08E01《Glimpses》【WIP - bang】
 
 > Castiel leaves purgatory through the portal with Dean, but since Cas is in a vessel without a soul the human portal has unexpected consequences and Castiel is stuck in a spliced form of his true form and human vessel. Cas is stuck between dimensions and keeps fighting to get back to the same plane as Dean, and the process of reappearing creates omens that Dean can trace to find him when he does briefly appear in his giant form.
+
+Dean comes back from purgatory, thinking it's his fault he let go and leaves Cas behind, blames himself, guilty. Dean goes to find Sam, Sam is living with Amelia happily, Dean decides not pull him out of apple pie life again, goes to hunt on his own.
+
+pieces:
+
+- rings/eyes
+- wing/feather
+- trench coat/tie/cloth fabric
+- lights/grace
+
+case fic (actually all Cas):
+
+- yeti/big foot: only see footprint (~3m)
+- Godzilla: biggest ~300m
+- Cthulhu: humanoid, tentacles, otherworldly god, hundreds of meters
+- Mega-Kaiju: (Pacific Rim) biggest ~100m
+
+Cas true form: multidimensional wavelength celestial being, size of Chrysler Building (319m, ~1k feet)
+
+(why giant: true form wavelength gets twisted at the edge of dimension, think of as how light get refracted on different media interface e.g. water-air surface; Dean: "Cas, English" Cas: "going through portal makes me giant"; Dean: "Who's dragging you away?" Cas: "Law of physics"; Dean: "Are you saying you're here, but the other part of you is still in \<somewhere\>" Cas: "As a manner of speak, yes" Dean: "How can I get you back, the whole complete you, not pieces of glimpses here and there" Cas: "I don't know")
+
+(solution: needs to separate true form from vessel, expel him then bound him again, reversed banishing spell?)
+
+(ominous feeling ~HP3 Sirius Black bad omen black dog)
 
 ### 205.【Charlie/Kara】S14E06 bakery in Chicago（F/F）
 
