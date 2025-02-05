@@ -23,7 +23,7 @@ origin: 个站
 - Theseus "Theo" Drake: engineer, tech nerd (~Lin Jing)
 - Dr. Aria Hawthorn: doctor, ~~unreciprocated love interest to Elena?~~ (~Christine Palmer)
 - Lucky: a cat (can see Death)
-- Finnick "Finn" Ralder: a funny guy, comedian/performer, music (~Crowley (SPN))
+- Finnick "Finn" Ralder: a funny guy, comedian/performer, music (~Crowley MacLeod)
 
 encounter later, selfish bastards/liars/humanity flaw:
 
@@ -69,7 +69,7 @@ encounter later, selfish bastards/liars/humanity flaw:
 
 - kid die -> Death say thank you and I love you, exchange life to save them, die finally (used up power, essence is in kid now)
 
-- human test out theory, no one die again even if mortal wound -> human start postpering
+- human test out theory, no one die again even if mortal wound -> human start prospering
 
 ### Postlude (Act 4, Chap 16-18)
 
@@ -176,7 +176,7 @@ Death held a hand towards her as if a mother trying to soothe a sick baby. The l
 
 Daphne stared at the hand, then tracing the arms up, looked into the empty dark face under the hood where a face was supposed to be, but she could find nothing.
 
-#### [TBA]
+#### [TBA: invite Elena in earlier, take care of kid, add kid's dream mumbling earlier, Elena sees nothing but has tiny sense]
 
 
 
