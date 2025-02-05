@@ -1656,9 +1656,7 @@ post-1518, to save Cas, Dean researchs and figures out how to time travel (Henry
 
 so conclusion, to save Cas: either Mary die or Sam die -> Dean, trolley problem, who are you gonna choose to save?
 
-### 194.【destiel】玫瑰杀人案【WIP】
-
-（情人节联文）
+### 194.【destiel】玫瑰杀人案
 
 《埃拉加巴卢斯的玫瑰》
 
@@ -1748,4 +1746,12 @@ apocalypse world Charlie mentions she had a life and a love of her life, before,
 
 what if main world Charlie also meet Kara the bakery owner girl
 
-### 206.
+### 206.【all】Winchester is the nightmare story mother monsters tell baby monsters
+
+可爱风小故事？童话风？
+
+不记得是原剧台词还是哪里看到过的了
+
+凶神恶煞温双（+卡）让monster baby瑟瑟发抖其实对不作恶小monster网开一面，对帮助人类的monster还能有机会收纳进自己圈子，跟妈妈故事里讲的不一样
+
+### 207.
