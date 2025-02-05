@@ -1364,11 +1364,11 @@ Dean prays to Cas but doesn't get answer, they figure Cas said they're lost to h
 
 Cas is too wounded to fly again and can't risk using his power in case he gets noticed by Raphael (still scouting in time flux), so he lives in the town like a human, also tries his best to blend in. After a while when he recovers slightly, he asks around if anyone has seen the brothers based on his description but no one does. The town looks relatively new, not so crappy, he asks time and realizes why. To stay in the town for longer and not raise suspicion, Cas starts working in a ranch just to continue pretending to be a normal human. Cas is still weak and low in power, but as time goes by, he's growing back.
 
-Dean & Sam go back to Sunrise Wyoming, get jump attacked by a stranger, very obviously trying to kill them and very good at fighting, and after a few rounds they realize he's not human. It's Castiel, the original 1860s timeline version, receives order that they're disturbing the timeline and comes to eliminate them. Dean almost gets killed, prays desperately instinctively again to his Cas, and gets saved when this Castiel gets blown away by power. His Cas is there, cowboy looking, dirty from ranch work, totally blend in and human-like, faceful of "I finally found you".
+Dean & Sam go back to Sunrise Wyoming, get jump attacked by a stranger, very obviously trying to kill them and very good at fighting, and after a few rounds they realize he's not human. It's Castiel, the original 1860s timeline version, receives order that they're disturbing the timeline and comes to eliminate them (Castiel: "You pray too loud. I really don't know why you act like we are familiar" Dean: "I almost forget how big of an asshole you were before"). Dean almost gets killed, prays desperately instinctively again to his Cas, and gets saved when this Castiel gets blown away by power. His Cas is there, cowboy looking, dirty from ranch work, totally blend in and human-like, faceful of "I finally found you".
 
 Dean: "Where have you been?" Cas: "When." Dean: "Wh-- how long have you been here?" Cas: "Twenty years. I landed too early, so I have to wait for you to catch up, wait for time to pass in the slow old way." Dean: "I prayed to you." Cas: "I know." He can hear all the time but can't get to Dean.
 
-Cas flies them home, back to the same day they leave for the phoenix's ashes. Bobby is still there, exactly the same as before, everything the same.
+Cas flies them home, back to the same day they leave for the phoenix's ashes. Bobby is still there, exactly the same as before, everything the same. (Or not exactly, Dean's western fame gets kept in history, legends of himself becomes a cowboy story, exaggerated but he's amused)
 
 ### 157.【destiel】S06E22 What if Crowley oversmarts everyone and becomes the new God
 
@@ -1750,8 +1750,12 @@ what if main world Charlie also meet Kara the bakery owner girl
 
 可爱风小故事？童话风？
 
-不记得是原剧台词还是哪里看到过的了
+不记得是原剧台词还是哪里看到过的了，大致印象画面是有人跟温双说他们是”the nightmare story mother monsters tell baby monsters“
 
-凶神恶煞温双（+卡）让monster baby瑟瑟发抖其实对不作恶小monster网开一面，对帮助人类的monster还能有机会收纳进自己圈子，跟妈妈故事里讲的不一样
+凶神恶煞温双（+卡）让monster baby瑟瑟发抖其实对不作恶小monster网开一面，对帮助人类的monster还能有机会收纳进自己圈子，（好）baby monster发现他们跟妈妈故事里讲的不一样
 
-### 207.
+### 207.【Cas】S09E03 human Cas lose memory
+
+卡变成人类之后因为人类大脑结构承载不了这么巨大的天使记忆容量，所以只能保留住了有限的一部分，记忆力受损，记不住几千万年天使时期的事情。卡在变成人类初期就意识到了，对自己记忆变差这件事接受不太良好，但是想着恢复天使之后应该就能恢复记忆所以保有希望也没有表现出来，但是在S10E18卡拿回grace之后发现失去的记忆没有回归，失去的就是失去了，突然难受了
+
+### 208.
