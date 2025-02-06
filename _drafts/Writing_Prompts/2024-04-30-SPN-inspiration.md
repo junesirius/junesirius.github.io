@@ -1738,27 +1738,34 @@ canon Dean/Sam never even think about fixing Cas's wings, don't even realize it'
 
 > Castiel leaves purgatory through the portal with Dean, but since Cas is in a vessel without a soul the human portal has unexpected consequences and Castiel is stuck in a spliced form of his true form and human vessel. Cas is stuck between dimensions and keeps fighting to get back to the same plane as Dean, and the process of reappearing creates omens that Dean can trace to find him when he does briefly appear in his giant form.
 
-Dean comes back from purgatory, thinking it's his fault he let go and leaves Cas behind, blames himself, guilty. Dean goes to find Sam, Sam is living with Amelia happily, Dean decides not pull him out of apple pie life again, goes to hunt on his own.
+Dean comes back from purgatory, thinks it's his fault he let go and leaves Cas behind, blames himself, guilty, wants to go back there save Cas again. Dean goes to find Sam, Sam is living with Amelia happily, Dean decides not pull him out of apple pie life again, goes to hunt on his own, actively looks for monster/Leviathan.
 
-pieces:
+Dean finds case of yeti in snow mountain, people witness bigfoot trace, but not bare foot, dress shoe trace, witness says seeing trench coat piece but must be hallucination, Dean raises hope, starts searching, finds tear of dimension and bloody coat fabric in it (too big), believes Cas is out there. (finds monster/werewolf but already killed? tear leaks/devours energy) [+Cas POV: dark, confused, chaotic, stumble foot print in snow, pulled away]
 
-- rings/eyes
-- wing/feather
-- trench coat/tie/cloth fabric
-- lights/grace
+Dean follows giant monster witness report, some say Godzilla in northern mountain. Dean drives there, gets spooked, feels being watched but no one around, thinks he sees shape of giant Cas in night black but disappear in blink, thinks he's going crazy, finds another tear of dimension and bloody feather in it (too big) (almost gets killed by some other monster/Leviathan and gets saved by Cas?) (Cas wants to talk but only in true voice and too loud, breaks glasses, but Dean is sure by now it's Cas) [+Cas POV: can't talk, can't stay, watch Dean from the other side, see him hurt and fight to force through to save, weakened by each attempt]
 
-case fic (actually all Cas):
+Dean goes to Missouri, Pamela's seance had witnessed Cas's true form in multidimension then so can Missouri (use feather/coat fabric as medium), Dean gets info hint that Cas's true form and vessel are spliced and he's stuck, determined to find/help him. (~~reference: Interstellar (not on yet)~~) [+Cas POV: meet with Missouri in seance/spirit dimension, can talk/see, hesitant to come back cuz say not want to continue tear dimension]
+
+Dean drives around, keeps getting spooky feeling of continuously being watched, midnight driving in deserted road, surround/chased/attacked by angels/Naomi/ghosts, giant Cas manifests right in front of impala to fight them/save him, Dean almost crash car, terrified then in awe, sees rings/eyes/lights/grace/wings/whole thing, Cas worries his reaction at first, Dean needs a min to react and takes well (?), sees him for real now. Cas gets weaker fighting against natural order to see him, less power and more human, so can stay longer, can talk. [both POV, Cas upset thinking Dean fear him now]
+
+Dean's solution: expel him and immediately summon him back, let Cas possess him as vessel temporarily, use his own power fix his vessel, jumps back into his body. Cas didn't want to mention expel cuz not want to go back heaven, still hesitant.
+
+Ritual works, Cas in Dean but both awake, Cas fixes body and ready to go, Dean mentally apologize and tell his true form is awesome before Cas goes back. Problem solved, "Welcome back."
+
+**monster case fic (actually all Cas)**:
 
 - yeti/big foot: only see footprint (~3m)
 - Godzilla: biggest ~300m
 - Cthulhu: humanoid, tentacles, otherworldly god, hundreds of meters
 - Mega-Kaiju: (Pacific Rim) biggest ~100m
 
+tear of dimension: leave power/energy surge/draining, break wall between spaces, free traveling around
+
 Cas true form: multidimensional wavelength celestial being, size of Chrysler Building (319m, ~1k feet)
 
 (why giant: true form wavelength gets twisted at the edge of dimension, think of as how light get refracted on different media interface e.g. water-air surface; Dean: "Cas, English" Cas: "going through portal makes me giant"; Dean: "Who's dragging you away?" Cas: "Law of physics"; Dean: "Are you saying you're here, but the other part of you is still in \<somewhere\>" Cas: "As a manner of speak, yes" Dean: "How can I get you back, the whole complete you, not pieces of glimpses here and there" Cas: "I don't know")
 
-(solution: needs to separate true form from vessel, expel him then bound him again, reversed banishing spell?)
+(solution: needs to separate true form from vessel, expel him then bound him again, banishing+summoning spell+holy fire circle)
 
 (ominous feeling ~HP3 Sirius Black bad omen black dog)
 
@@ -1786,6 +1793,14 @@ what if main world Charlie also meet Kara the bakery owner girl
 
 The other timeline version Dean/Cas/Sam's life: 2003!Dean hunts on his own and keeps doing so and become the wanted criminal, 2003!Sam continue Stanford and becomes annoying flatulent lawyer and goes to TED talk, 2003!John is missing because he gets pulled into 2019, 2003!Cas notices "disturbance in the force" and goes to 2019 and finds 2019!Dean/Sam variation, fight them and almost kill them but get blown back to 2003 with memory of what's gonna happen
 
-2003!Cas know 2003!John shouldn't come back otherwise this version of Dean the criminal is going to disappear and he knows it's not right (from order? or he *knows* it's not right from the way 2019!Dean looks at him and sees him and he starts doubt?) So Cas fights hard to prevent John come back (the phone call John thought he made to Dean doesn't actually go through, he's still not back where he was, Cas traps him in a dream loop?), knows that version of Dean, Sam never comes back hunting, Dean still manage to stop apocalypses on his own (with Cas) -> epic length canon rewrites
+2003!Cas knows 2003!John shouldn't come back otherwise this version of criminal!Dean is going to disappear and he knows it's not right (from order? or he *knows* it's not right from the way 2019!Dean looks at him and sees him and calls him "Cas" and pleads, he starts doubt?) So Cas fights hard to prevent John come back (the phone call John thought he made to Dean didn't actually go through, he's still not back where he was, Cas traps him in a dream loop?) to protect that version of Dean
+
+2003!Sam never comes back hunting, 2003!Dean still manage to stop apocalypses on his own (with Cas), so Sam is not the necessity for world saving, lack of John is -> epic length canon-divergent rewrites
+
+2003!Cas still wears Jimmy as vessel, so Jimmy has been devout since at least 6 years before 401 to say yes to Cas
+
+important: 2003!Cas=current Cas at 2003, it's the exactly same Cas as he was
+
+so it's gonna be a 2003-2019 16 season story of Dean&Cas hunting things, saving world, without Sam and John
 
 ### 209.
