@@ -1782,4 +1782,10 @@ what if main world Charlie also meet Kara the bakery owner girl
 
 卡变成人类之后因为人类大脑结构承载不了这么巨大的天使记忆容量，所以只能保留住了有限的一部分，记忆力受损，记不住几千万年天使时期的事情。卡在变成人类初期就意识到了，对自己记忆变差这件事接受不太良好，但是想着恢复天使之后应该就能恢复记忆所以保有希望也没有表现出来，但是在S10E18卡拿回grace之后发现失去的记忆没有回归，失去的就是失去了，突然难受了
 
-### 208.
+### 208.【destiel】S14E13 the other timeline
+
+The other timeline version Dean/Cas/Sam's life: 2003!Dean hunts on his own and keeps doing so and become the wanted criminal, 2003!Sam continue Stanford and becomes annoying flatulent lawyer and goes to TED talk, 2003!John is missing because he gets pulled into 2019, 2003!Cas notices "disturbance in the force" and goes to 2019 and finds 2019!Dean/Sam variation, fight them and almost kill them but get blown back to 2003 with memory of what's gonna happen
+
+2003!Cas know 2003!John shouldn't come back otherwise this version of Dean the criminal is going to disappear and he knows it's not right (from order? or he *knows* it's not right from the way 2019!Dean looks at him and sees him and he starts doubt?) So Cas fights hard to prevent John come back (the phone call John thought he made to Dean doesn't actually go through, he's still not back where he was, Cas traps him in a dream loop?), knows that version of Dean, Sam never comes back hunting, Dean still manage to stop apocalypses on his own (with Cas) -> epic length canon rewrites
+
+### 209.
