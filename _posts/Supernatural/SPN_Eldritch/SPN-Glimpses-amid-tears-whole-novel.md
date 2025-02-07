@@ -111,3 +111,26 @@ core curve: Cas needs to really decide on the answer to "What are you, angel or 
 
 ## Main
 
+### Chap. 1 (Back+Yeti)
+
+***Outline:** Dean comes back from purgatory, witnesses Cas get torn apart the moment he pass through the portal and disappears, doesn't know if Cas is killed in the process, determined to find Cas if he's not (self-comfort: maybe he's just pulled away, like angel-banishing spell). Dean goes to find Sam, Sam is living with Amelia happily, Dean decides not pull him out of apple pie life again, goes to hunt/search on his own, actively looks for monster/Leviathan/angel sign*
+
+***Outline:** Dean finds case of yeti in snow mountain (Rocky Mountain, Colorado), rumor says bigfoot trace but not bare foot, dress shoe trace, witness says seeing trench coat fabric but must be hallucination, Dean raises hope, starts searching, finds tear of dimension and bloody coat fabric in it (too big), believes Cas is out there (keep feeling being watched). finds actual Yeti escaped from purgatory, Yeti-Troll fights, Dean gets in between and almost gets killed, saved by angelic light but can't see Cas; the grace light weave into tear, sends monsters back and fix the hole, Cas gets pulled away as it closes [+Cas POV: dark, confused, chaotic, stumble foot print in snow, pulled away before manifest]*
+
+### Chap. 2 (Harpy)
+
+***Outline:** Dean follows giant monster witness report, rumor says Archaeopteryx (ancient first bird fossil) in place with huge tall trees (Redwood, California). Dean drives there, gets spooked, feels being watched but no one around, thinks he sees shape of giant Cas's wings in night black but disappear in blink (only get a glimpse), thinks he's going crazy, finds another tear of dimension and bloody feather in it (too big). almost gets killed by Greek creature Harpy (half-human half-bird, eat human, decapitation) and gets saved by Cas, protected by six huge black wings (Cas wants to talk but only in true voice and too loud, breaks glasses, but Dean is sure by now it's Cas), Cas gets pulled away again as the tear closes [+Cas POV: can't talk, can't stay, self-aware weird shape, watch Dean from the other side, see him hurt and fight to force through to save, weakened by each attempt]*
+
+### Chap. 3 (Missouri)
+
+***Outline:** Dean goes to Missouri, Pamela's seance had witnessed Cas's true form in multidimension then so can Missouri (use feather/coat fabric as medium), Dean gets info hint that Cas's true form and vessel are spliced and he's stuck, swears to find&help him. [+Cas POV: meet with Missouri in seance/spirit dimension, can talk/see, hesitant to come back because not want to continue tear dimension to endanger reality&Dean]*
+
+### Chap. 4 (Cthulhu)
+
+***Outline:** Dean drives around, keeps getting spooky feeling of continuously being watched, hears local legend of Cthulhu (humanoid, huge, tentacle, hundreds of meters tall) in Alaska, sees weird/astonishing aurora lights on sky, drives there. midnight, empty road, tear opens, sees giant Cas manifest in full size right in front of impala, wings+rings with eyes+trench coat, leviathans also come through the tear. Dean shocked/terrified/in awe then busy fighting, giant Cas kills them (easier than normal size but easily tired). Dean&Cas grab a few moments to talk/sync, Cas worries his reaction at first, Dean needs time to adjust, sees him for real now, not react/communicate well. Cas sensitive, feel rejected/upset, afraid Dean disgust/fear his true form now, self-aware being monster. Cas gets weaker quickly for staying in this dimension talking for long, fighting against natural order, and with the tear more leviathans coming through. For Dean's safety and Cas's own exhaustion, Cas gets pulled back and tear closes. [both POV, Cas upset, self-aware]*
+
+### Chap. 5 (Ritual+reunion)
+
+***Outline:** Dean's idea (convey through pray): expel him (S04E16 Alastair's spell; separate true form with body) and immediately summon him back (S06E21 angel summoning spell; avoid true form going into heaven), let Cas possess him as vessel temporarily, use his own power fix his vessel's size, jump back into his body. talk through Ouija Board, Cas hesitates for risk of hurting Dean (possession+tear open with monsters coming) and he won't be there protecting him, doesn't mention also afraid of getting expelled and not summoned in time make him end up in Heaven, "might kill himself"*
+
+***Outline:** Dean insists trying, ritual works, Cas shares Dean's body but both awake, Cas use mojo to fix vessel (Dean witnesses, amazed, "so this is how it's like, internally" "that sounds so wrong but whatever") and ready to go back into it (Cas all the time quiet), Dean mentally apologize and tell him his true form is awesome before Cas goes back (talk in Dean's brain, both normal: "You really think that?" "Yeah, I do"). Cas leaves Dean's body, vessel remains lifeless for a bit, Dean worries, then Cas back. Reunion, hug, problem solved, "Welcome back."*
