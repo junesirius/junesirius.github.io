@@ -1794,4 +1794,14 @@ case fic
 
 详见梦记2025-01-12改编
 
-### 211.
+### 211.【destiel】S08E07 “I did not leave you”
+
+Dean: "I did everything I could to get you out -- everything! I did not leave you"
+
+it is important, remember that, whatever he does, he does not leave people behind
+
+"I did not leave you", that's the abandonment issue talking, he gets left behind by so many others, so it is important that whatever happens, he needs to let Cas know, he does not and will not leave him
+
+make it cute small everyday episode? TFW go to mall, go around, get separated/lost, Dean: "I did not leave you"
+
+### 212.
