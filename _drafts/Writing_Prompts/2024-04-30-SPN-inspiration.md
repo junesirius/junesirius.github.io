@@ -1022,6 +1022,8 @@ Angel doesn't know what is love.
 
 Is love happiness, how do you know what you like, angels don't have preference, is that something that makes you happy, is love = Endorphin
 
+(+ prompt 135)
+
 ### 109.【destiel】S11E23 what if God dies, soul bomb works
 
 What if the original plan works out, Chuck dies, Dean triggers the soul bomb and takes Amara, how would the world go from there, Sam is shattered, Cass takes care of Sam, Dean's funeral with Black Sabbath, no ash but put tomb in the place he loved, life carry on
@@ -1194,9 +1196,13 @@ Cas: “I would like to see you too, the sooner the better”
 
 丁来不及回应，卡的电话就被路西抢走挂断了，卡自己也被抓走了，等到回来以后都以为两个人都忘了，其实丁没忘，等到两个人终于又有时间单独相处的时候丁问起来了，卡脸红，说不定这时候就能戳破窗户纸了，不过有可能丁下意识又会后退否认自己的内心，两个人的感情又要拉扯一会儿才能袒露
 
-### 135.【destiel】S13E12 “I'm in love”
+### 135.【destiel】S13E12 “I'm in love”【WIP - event】
+
+《Dean Winchester Says He's in Love》
 
 Dean中两个小女巫的爱情魔咒的时候Cass正好刚从Asmodeus地方出来，回到bunker时候看见的是Dean陷入爱情的样子，就认为他对自己的样子不是爱情的样子，更加压抑自己的感情了，说不定也会有点酸？而Dean脱离魔咒之后反而意识到了自己对卡其实就是爱情
+
+(+prompt 108)
 
 ### 136.【Claire/Kia】S13E09 Claire日记（F/F）
 
@@ -1688,6 +1694,8 @@ post-1518 after Cas's gone, Dean manages to keep the emotions under control and 
 
 (or similarly, Dean doesn't dare to go into Cas's room after he's gone, one day for whatever reason he has to go in, and sees the tape on the desk, that's when he breaks down)
 
+(-> prompt 209)
+
 ### 199.【destiel/all】S13E23 what if Lucifer becomes God and reshapes world as promised
 
 If Dean doesn't say yes to Michael (or Michael has been killed by Jack/Lucifer before that, or Lucifer doesn't take Jack/Sam with him so Dean is not as motivated), then Lucifer gets God/Jack's power and becomes God and destroys/rebuilds the world as he likes. Lucifer kills Sam/Dean/Jack and all humans (~S15 Chuck kill everyone), who go to Heaven, and Lucifer doesn't like them still living in Heaven, so kill them again so they end up in Empty. Lucifer kills Cas too, so TFW reunite in Empty.
@@ -1803,4 +1811,18 @@ important: 2003!Cas=current Cas at 2003, it's the exactly same Cas as he was
 
 so it's gonna be a 2003-2019 16 season story of Dean&Cas hunting things, saving world, without Sam and John
 
-### 209.
+### 209.【destiel】Cas's possessions
+
+(extended from prompt 198)
+
+1518之后丁要整理卡的东西，收拾bunker里他的房间，帮他洗车。卡没有多少属于自己的东西，为数不多有的那些也几乎全是丁给他的，比如磁带，也可能有别的礼物，Steve时期的洗漱用品，牙刷牙膏睡衣睡袋，1003没能量快死时期的睡袍，疯狗咒时期的毯子。丁一边整理一边回忆，一边崩溃
+
+（高虐）
+
+### 210.【all】把普通人误当做女巫
+
+case fic
+
+详见梦记2025-01-12改编
+
+### 211.
