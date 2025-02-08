@@ -1804,4 +1804,16 @@ it is important, remember that, whatever he does, he does not leave people behin
 
 make it cute small everyday episode? TFW go to mall, go around, get separated/lost, Dean: "I did not leave you"
 
-### 212.
+### 212.【destiel】S14E18 what if it's Cas that gets killed when Jack unleashes
+
+what if instead of Mary going with Jack, it's Cas in that situation, and when Jack unleashes the power, Cas is right in front of him and gets vaporized
+
+Jack freaks out, runs away, tries to fix it, goes after Rowena trying to bring Cas back
+
+Dean finds out when comes back
+
+no funeral for Cas because no body
+
+someone prays hard enough to wake Cas up in the Empty again?
+
+### 213.
