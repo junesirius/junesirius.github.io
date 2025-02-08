@@ -1816,4 +1816,11 @@ no funeral for Cas because no body
 
 someone prays hard enough to wake Cas up in the Empty again?
 
-### 213.
+### 213.【destiel】S14E20 what if Dean fires equalizer hits Cas
+
+When Dean tries to use Chuck's equalizer gun to hit Jack but Cas jumps in front of Jack and it hits him, so now Dean and Cas's lives are bound, a piece of Dean's soul is in Cas, they can see each other's view (more connected than ever)
+
+now they need to protect themselves better and don't always think about self-sacrifice because if they hurt themselves they hurt each other <- actually healthier than ever
+
+### 214.
+
