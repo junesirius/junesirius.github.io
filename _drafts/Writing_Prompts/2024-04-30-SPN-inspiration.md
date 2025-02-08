@@ -1822,5 +1822,12 @@ When Dean tries to use Chuck's equalizer gun to hit Jack but Cas jumps in front 
 
 now they need to protect themselves better and don't always think about self-sacrifice because if they hurt themselves they hurt each other <- actually healthier than ever
 
-### 214.
+### 214.【all】S14E20 after Chuck says "welcome to The End" they wake up at the pilot
 
+Chuck's End punishment is to throw them back into 101 Pilot timeline, with what they know but don't know which is real which is dream, the 14y may be dream or the new 101 beginning may be dream
+
+the punishment is trying to make the point that, even with what they know, even if they try to change things from the beginning, the story is still going to go the way it is and lead to 1420 with nothing significantly changed, those who die still die or never come back alive
+
+epic length total rewrite, they may go through first few seasons faster, knowing what they knew, but needs to work around many other things to avoid running into events that used to involve Chuck's intervention like many times Cas's resurrection (S04E22) as first major turning point. If Cas doesn't (or Dean doesn't let him) help prevent Lucifer back (he's back S05E01 anyway, "we have killed him once, more than once, we can do that again"), and S05E22 preventing apocalypse, so maybe the world straight into apocalypse world version
+
+### 215.
