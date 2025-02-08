@@ -1830,4 +1830,22 @@ the punishment is trying to make the point that, even with what they know, even 
 
 epic length total rewrite, they may go through first few seasons faster, knowing what they knew, but needs to work around many other things to avoid running into events that used to involve Chuck's intervention like many times Cas's resurrection (S04E22) as first major turning point. If Cas doesn't (or Dean doesn't let him) help prevent Lucifer back (he's back S05E01 anyway, "we have killed him once, more than once, we can do that again"), and S05E22 preventing apocalypse, so maybe the world straight into apocalypse world version
 
-### 215.
+### 215.【all】cereal convention
+
+case fic, from Sandman
+
+stumble into a serial killer convention, where there is demon
+
+horror genre?
+
+### 216.【all】whole planet is the monster
+
+梗源：索拉里斯星AU+DW S07E08 The Long Song那集
+
+case fic? 穿梭宇宙级别的案子
+
+### 217.【all】怪奇物语xover
+
+进怪奇物语世界观杀怪
+
+### 218.
