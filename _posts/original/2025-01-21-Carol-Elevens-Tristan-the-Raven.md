@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【随记】OC's full names
+title: 【OC】Full names
 date: 2025-01-21 23:58
 categories: ["原创"]
 characters: ["Carol Elevens", "Tristan the Raven", "Doctor Who", "Eleven", "11th Doctor"]
