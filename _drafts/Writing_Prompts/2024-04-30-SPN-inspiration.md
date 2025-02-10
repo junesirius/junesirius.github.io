@@ -1878,4 +1878,14 @@ modify to: mirrors can reflect soul (?)
 
 case fic? use mirror to capture spirit to help the case, or to check the soul (so first time actually see the soul, some soul-related case in S06)
 
-### 221.
+### 221.【destiel】time travel 1973 Zeppelin live
+
+(~DW S14E02 Beatles live)
+
+knowing Cas can time travel anywhere, Dean wouldn't miss the chance to witness Zeppelin live at least once
+
+(can't do that everyday because it's probably still demanding on Cas's energy)
+
+case fic, Dean gets to save Zeppelin for once, ends up showing up in one of their songs (change lyrics in "Stairway to Heaven" because they witnessed Cas)
+
+### 222.
