@@ -1352,31 +1352,13 @@ Cass is being careful but still not careful enough, Bobby exploded, Dean super p
 
 ### 156.【destiel】S06E18 What if boys get lost in western world【WIP - bang】
 
-Cass refused to risk Bobby (or even if used his power still not recovered enough to time travel, or Cass didn't wake up in time), Dean/Sam stays in town for more than 24h and lost to Cass, what happens next?
+Cas refused to risk Bobby (or even if used his power still not recovered enough to time travel, or Cas didn't wake up in time), Dean/Sam stays in town for more than 24h and lost to Cas, what happens next?
 
-What happened in the time flux that prevents Cass from locating and reaching Dean however hard he fights for him, what's the consequence of that fight when he's already exhausted because of Rachael's stab? He's more wounded. Raphael is still at his tail, might follow him in the time flux too, fight across time and space and falls in random places.
+What happened in the time flux that prevents Cas from locating and reaching Dean however hard he fights for him, what's the consequence of that fight when he's already exhausted because of Rachael's stab? He's more wounded. Raphael is still at his tail, might follow him in the time flux too, fight across time and space and falls in random places.
 
 What happened to the boys when they have to extend their stay in Sunrise, Wyoming, what dangers in there? Demons are still wandering around. They might work with Samuel Colt. They might leave message for their future self in the Pentagon railway so they would have noticed at end of S2, changed history slightly maybe?
 
 (~Legends of Tomorrow)
-
-working title:《Long Way Home》
-
-Outline:
-
-Dean&Sam gets phoenix's ash by noon, bell rings, but Cas doesn't come, they can't get back. Some more time passes, they realize something must have happened to Cas and now they get stuck in the frontierland and have to figure out what to do. They start living like the locals, blend in as cowboys, get used to it, Dean is the town sheriff.
-
-Cas passes out for longer than in canon, when he comes to it's past 24h and he's super weak and wounded. He doesn't want to risk Bobby's soul and can't leave the boys behind, but also like he mentioned, now they are lost to him, so he'd have to fight hard in the time flux to find them. He's in no condition to time travel but he worries about Dean too much so he risks flying into the time flux in his wounded state, leaving bloody trace behind. His trace exposes him, Raphael follows him into the time flux, so he has to escape the chase while tries to locate Dean, Cas crash lands in Sunrise Wyoming but Dean's not there.
-
-Dean prays to Cas but doesn't get answer, they figure Cas said they're lost to him, so their idea is to do something "noisy" (big enough to get some notice from the future but not too big to disturb the history) so that their existence might be like some beacon in the timeline, hopefully making it easier for Cas to locate them. They leave Sunrise Wyoming, Dean quits sheriff, the two boys ride horses, wear bandana, wrap blanket, "roadtrip in wild west" (as the art show). They play cards in inns, provoke gun fights and win, occasionally deliberately act like bandits and rob gold mine owners, distribute gold to other poorer people, gets a fame of western Robin Hood and best gunner for themselves.
-
-Cas is too wounded to fly again and can't risk using his power in case he gets noticed by Raphael (still scouting in time flux), so he lives in the town like a human, also tries his best to blend in. After a while when he recovers slightly, he asks around if anyone has seen the brothers based on his description but no one does. The town looks relatively new, not so crappy, he asks time and realizes why. To stay in the town for longer and not raise suspicion, Cas starts working in a ranch just to continue pretending to be a normal human. Cas is still weak and low in power, but as time goes by, he's growing back.
-
-Dean & Sam go back to Sunrise Wyoming, get jump attacked by a stranger, very obviously trying to kill them and very good at fighting, and after a few rounds they realize he's not human. It's Castiel, the original 1860s timeline version, receives order that they're disturbing the timeline and comes to eliminate them (Castiel: "You pray too loud. I really don't know why you act like we are familiar" Dean: "I almost forget how big of an asshole you were before"). Dean almost gets killed, prays desperately instinctively again to his Cas, and gets saved when this Castiel gets blown away by power. His Cas is there, cowboy looking, dirty from ranch work, totally blend in and human-like, faceful of "I finally found you".
-
-Dean: "Where have you been?" Cas: "When." Dean: "Wh-- how long have you been here?" Cas: "Twenty years. I landed too early, so I have to wait for you to catch up, wait for time to pass in the slow old way." Dean: "I prayed to you." Cas: "I know." He can hear all the time but can't get to Dean.
-
-Cas flies them home, back to the same day they leave for the phoenix's ashes. Bobby is still there, exactly the same as before, everything the same. (Or not exactly, Dean's western fame gets kept in history, legends of himself becomes a cowboy story, exaggerated but he's amused)
 
 ### 157.【destiel】S06E22 What if Crowley oversmarts everyone and becomes the new God
 
@@ -1406,9 +1388,7 @@ replace "father" with "brother", Dean considers Cass as brother, so for some spe
 
 working title:《Rock Beats Scissor, Leviathan Beats Angel》（S07E21 quote）
 
-Dean gets killed when he's still vampire so he goes directly to purgatory, meets Benny there (?), fights together, tries to come back but neither can go through human portal
-
-(Sam still soulless the whole time)
+Dean gets killed when he's still vampire so he goes directly to purgatory, meets Benny there (?), fights together, tries to come back but neither can go through human portal (Sam still soulless the whole time)
 
 Cass goes desperate, blames himself, pushes Crowley/Alphas even further to find purgatory, finds rogue reaper Ajay, tries to go purgatory as angel but fail to leviathan (Naomi: took a lot angels to fetch Cas) decide to go as monster, turns himself to monster (disturbing form, distorted wings etc.), challenges Raphael with death wish, gets killed as he wants, goes to purgatory, finds Dean (both not recognize the other at first, fight a bit, almost kill each other, until recognize too familiar habits/catch phrase e.g. "son of a bitch"), waits for Ajay to pick up but Ajay is killed by Crowley/Alpha/Raphael, confesses all secrets he's hiding this year
 
