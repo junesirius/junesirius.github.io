@@ -114,13 +114,13 @@ principle: increase entropy (Life decrease entropy), that's why can't heal and w
 
 ### Chap 1. Daphne
 
-**(outline: kid's innocent view of the post-apocalypse world, barren, sick, sense/see/hear Death, relationship with Elena/cat/Henry; Death comfort she's gonna be ok, kid tells Elena, doesn't believe; Death care about kid)**
+> **outline:** kid's innocent view of the post-apocalypse world, barren, sick, sense/see/hear Death, relationship with Elena/cat/Henry; Death comfort she's gonna be ok, kid tells Elena, doesn't believe; Death care about kid)
 
-The wall in front of her was spotted, plasters peeling off, dark grey and white here and there. Pencil inks were added to the painting, shallow marks tracing the circles and lines, adding eyes to the white and limbs to the grey.
+The wall in front of her was spotted, plasters peeling off, dark grey and white here and there. Pencil inks were added to the painting, shallow marks tracing the natural trails of circles and lines, adding eyes to the white and limbs to the grey, becoming tiny human figures and creatures.
 
-Daphne traced her finger along the edge of the gaps from the falling plasters, thinking and imagining. She slept on her left side, and this wall was the first and only thing she could see, and she liked looking at it.
+Daphne traced her fingers along the edge of the gaps from the falling plasters, thinking and imagining. She slept on her left side, and this wall was the first and only thing she could see. She liked looking at it.
 
-A bout of coughing hit her suddenly. The tiny hand of hers retracted back under the thin blanket she huddled into, grabbing her own chest. The air became too sharp for the lung, she coughed long and shaky, her small body quivering with each wave of the cough.
+A bout of coughing hit her hard and suddenly. The tiny hand of hers retracted back under the thin blanket she huddled into, grabbing her own chest. The air became too sharp for the lung, she coughed long and shaky, her small body quivering with each wave of the cough.
 
 The night was long.
 
@@ -128,7 +128,7 @@ She waited for the coughing to pass, and turned to lie on her back when it final
 
 Mostly black. Because there was barely any light, the shadow covered most of the ceiling, like the way it covered most of the room. But Daphne had looked at the ceiling too many times that she didn't really need much light to make out all the cracks and rifts.
 
-But the heat in the head was making her eyes hard to focus, and somewhere inside the body there was also something uncomfortable. She turned over again to the other side, the other wall alongside the bed mattress.
+The heat in the head was making her eyes hard to focus, and somewhere inside the body there was also something uncomfortable. She turned over again to the other side, the other wall alongside the bed mattress.
 
 The air flowed slowly and dusty, she coughed again, pressing the mouth on the inside of the blanket, sound muffled, echoed by the trembling sound inside her chest.
 
@@ -136,21 +136,21 @@ The shadow in the room shifted, as if materializing into something real, furry a
 
 "Lucky!" Daphne mumbled surprisingly and cheerfully once her breath was eased, tightened her arms around the small warm creature.
 
-The black cat found the way out from underneath the blanket, and poked a nose out, rubbing against girl's chin, its body pressed against hers.
+The black cat found the way out from underneath the blanket, and poked a nose out, rubbing against the girl's chin, its body pressed against hers.
 
-The small arms wrapping around the cat loosened a little as the owner gradually closed her eyes in the slow humming purring sound. The cat closed the eyes too, keeping the paws around the human.
+The small arms wrapping around the cat loosened a little as the owner gradually closed her eyes in the slow humming purring sound. The cat closed the eyes too, keeping the paws around the small human.
 
 <br>
 
 The next time when Daphne woke up again, the room was still covered by shadow and chill, but she was already getting used to it. It was like this every day, all the time now. Not like any more light could come in, not like there was any more light anywhere anyway, but it didn't bother her much.
 
-Lucky jumped out of her embrace after she started turning over again, but didn't leave the room. She couldn't see it, but she could hear the quiet breathing, sense the warmth of her body radiating through the whole room and beyond like a small sun. She liked it staying here.
+Lucky jumped out of her embrace after she started turning over again, but didn't leave the room. She couldn't see it, but she could hear the quiet breathing, sense the warmth of her body radiating through the whole room and beyond like a small furnace. She liked it staying here.
 
-The dizziness from heat eased slightly from the head and body. Daphne stretched her small arms and legs a little, happily finding out she could do most of the movements on the bed without having to frown or moan quietly.
+The dizziness from heat eased slightly from the head and body. Daphne stretched her small arms and legs a little, happily finding out she could do most of the movements without having to frown or moan.
 
-She picked a short pencil from by the pillow that was made from a wrapped jumper, sat up and added some more facial expressions to a plain face on the wall that only had a white circle for face and two thin lines as eyes.
+She picked a short pencil up by the pillow that was made from a wrapped jumper, added some more facial expressions to a plain face on the wall that only had a white circle for face and two thin lines as eyes.
 
-She was excited at her small painting project, but got tired fast. She had to lay down again shortly, the face still wasn't finished. The ceiling came back into the view.
+She was excited at her small painting project, but got tired fast. She had to let go the pencil again shortly, arms resting on the mattress. The face on the wall still wasn't finished. The ceiling came back into the view.
 
 The darkness on the ceiling fluctuated slightly again, the cat didn't do anything. Daphne stared at it hard, trying to make out what it was but couldn't quite tell the shadow apart from the darkness.
 
@@ -164,81 +164,149 @@ The shadow answered with silence, but looked like it was coming closer. Daphne c
 
 The girl swallowed, feeling the throat work but the sore and dry feeling at the bottom of the throat was still there.
 
-"Are you... Death?" she asked timidly.
+The shadow figure didn't look like the human anymore as it moved closer. The hood covered the place where the face should be, so it looked like it didn't have a face at all.
 
-The shadow came another step closer to her, the girl retreated to the far corner of the room, arms around herself, holding it together. Her eyes were like a frightened sparrow with wounded wings, so terrified and wanting to leave, but the wounds on the wings constrained it to the ground, only flapping the hurt wings pointlessly trying to fly away.
+Daphne curled up beneath the blanket into a smaller ball than she already was. Fingers grabbed tight around the fabric.
 
-"Yes." the shadow -- Death -- signed, and spoke, in a voice not much louder than the kid's own.
+She wanted to call for Aunty Elena -- she knew she must be just outside, somewhere. But something about this shadow, this person, this... thing, made her unable to let the sound out.
 
-"Yes, but don't worry, Daphne," Death told her, another step closer. Close enough for her to see the whole figure now. "I'm not here to take you."
+She shivered, out of fear or cold she couldn't tell.
 
-Death held a hand towards her as if a mother trying to soothe a sick baby. The little girl curled up on the bed, shivered. Death took the hand back.
+A thought came to her.
 
-Daphne stared at the hand, then tracing the arms up, looked into the empty dark face under the hood where a face was supposed to be, but she could find nothing.
+"Are you... Death?" Daphne asked timidly, gathering up this little amount of courage she could manage to find.
 
-#### [TBA: invite Elena in earlier, take care of kid, add kid's dream mumbling earlier, Elena sees nothing but has tiny sense]
+Aunty Elena had been so worried all this time, she remembered, and it wasn't so hard to put everything together and understood what might be wrong about herself. She's a clever girl.
 
+<br>
 
+The shadow came another step closer to her, the girl retreated to the far corner of the room, arms around herself, holding it together. Her eyes were like a frightened sparrow with wounded wings, so terrified and wanting to leave, but the wounds on the wings constrained it to the ground, only flapping the hurt wings pointlessly in the attempt of flying away.
 
+"Yes." The shadow -- Death -- spoke. But it wasn't like how a human would speak, the voice was light but deep, as if it was passed directly into her mind without going through the ears, as if there was no sound at all but she could hear it all the same.
 
+The kid blinked, once, twice. She wasn't going to cry, she thought to herself. She was just staring.
 
-"Daphne, sweetie, how are you feeling?" A woman's voice sounded out from the other side of the door.
+"... but don't be afraid, Daphne," Death told her, another step closer. Close enough for her to see the whole figure now. "I'm not here to take you."
 
+Death held a hand towards her as if a mother soothing a sick baby. The little girl curled up on the bed, shivering. Death took the hand back before it reached her.
 
+Daphne stared at the hand, then tracing up along the arms, looked into the empty dark space under the hood where a face was supposed to be, but she could find nothing.
 
+"I need you to be strong for me." Death told her. "It's important for you, and more important for me. Do you understand?"
 
+The kid nodded, even though she didn't quite understand. She uncurled a little bit underneath the blanket.
 
+"Now go back to your sweet dream." A hand hovered on top of her forehead, and she closed her eyes.
 
+<br>
 
+A warm soft touch on her face woke her up. Lucky huddled by her feet, a hand was testing her temperature on her forehead.
 
+A woman's voice sounded up right by her side before she opened her eyes. "Daphne, sweetie, how are you feeling?"
+
+"Good, I think," she answered, meeting Aunty Elena's eyes.
+
+"The heat got better, finally." Elena told her, giving her a small relieved smile. "Anywhere still hurts?"
+
+Daphne stretched out her arms, they had some energy now, she realized, not much but some, something hadn't happened for a long time. She told Elena that.
+
+"That's good to hear, must be all the resting and food we managed to find." Elena said, standing up now and ready to head out.
+
+"Where are you going?" Daphne bent up her upper body, eyes following Elena.
+
+"If you're well enough, we'd better get on the road soon." Elena said, half-way towards the door, leaving only her back to the kid. "We might get to Old Henry's in a few days if we hurry."
+
+She paused by the limpy doorframe briefly, looking back at the kid, adding, "We can't stay here for too long. Not safe, and we need more food and water. So chop, chop."
+
+<br>
+
+They were on the road shortly. Daphne had a small schoolbag with the jumper that was used as the pillow and a few other clothes. Elena had a bigger backpack with the blanket and some tins and cans.
+
+Daphne managed to walk a few steps on her own, but started tumbling on the rocky road. Elena held her hands, steadying the kid. Lucky walked several steps in front of them, sniffing and scouting.
+
+Bricks and rocks from the fell-down buildings made the land difficult to walk. Elena held her up sometimes, if they were too high to climb up. Other times she pulled herself up, trying hard to keep up, panting.
+
+There wasn't many buildings still left standing on either sides, but the road was still roughly recognizable as a road. They headed south.
+
+The trees and bushes were all grey and leafless, just like the buildings, not many of them still standing. The ones that did, the branches looked so fragile and lifeless that it looked a single touch would make all of them ashes and fall to the ground.
+
+Daphne looked at them, the buildings and trees and the ground, wondering what had happened. She didn't remember if they looked like that before she was sick, but there were surely more people on the road, and mom was there. And then it almost like a bad dream that couldn't wake up.
+
+She remembered that dream with the shadow last night. It had to be a dream.
+
+She shook the hand being held by Elena, catching her attention. "I had a funny dream last night." she told her.
+
+"Oh yeah?" Elena answered, eyes still looking ahead, paying attention to where they are going next.
+
+"There was this, this shadow," Daphne frowned to herself, starting at the rugged ground, trying to remember what she saw. "It's Death."
+
+There was a pause in Elena's steps, but only briefly. She kept walking, but glancing at Daphne now. "How do you know?"
+
+"It said yes when I asked." the kid answered lightly, like it was so obvious. "It has the whole outfit like the books used to draw, a big black cloak and the hood without face."
+
+The clench of hand tightened. Elena's eyes were intense on her. "Did it try to reap you?"
+
+"No, actually." Daphne told her, almost cheerfully. "It's actually quite nice. A little terrifying at first, but didn't try to do anything to me. And it told me to not be afraid."
+
+"It talked to you?" Elena's eyes widened a little.
+
+"Yeah, but I can't really remember." Daphne wrung her brows. "I think it also said something important, but I'm sorry, Aunty Elena, I can't remember what else it said."
+
+Elena stopped, lowering down to look at her in the eyes. "It's just a dream." she told her, eyes glaring. "But next time you dreamed about it, try waking up, or running away, or something. Ask it to come for me, if you have to. Just don't let it grab you, you hear me?"
+
+Daphne nodded solemnly.
+
+Elena patted her shoulder gently, stood up, shot a quick glance at the sky. "Now let's keep moving, daylight is burning up fast."
+
+Daphne looked at the sky too. It was shadowy and grey. Thick dusty clouds covered the sky. There was not much daylight any time anyway.
 
 ### Chap 2. Elena
 
-**(outline: Elena's view, head to the Henry's, go out look for food/water (Death helped water in rain), grab kid/cat, start moving; kid get worse, Death help the shade/temperature, give sign, keep kid awake; Death care about Elena, Elena start sensing)**
+> **outline:** Elena's view, head to the Henry's, go out look for food/water (Death helped water in rain), grab kid/cat, start moving; kid get worse, Death help the shade/temperature, give sign, keep kid awake; Death care about Elena, Elena start sensing)
 
 ### Chap 3. Aria
 
-**(outline: Elena follow sign to med/hospital, find Aria, Aria help kid, Elena share food/water, Death talk to cat?, Death kill virus/gem in meds/food; Death happy when it works & kid get better (Death's emotion), Elena know Death exist, Aria/kid call Life)**
+> **outline:** Elena follow sign to med/hospital, find Aria, Aria help kid, Elena share food/water, Death talk to cat?, Death kill virus/gem in meds/food; Death happy when it works & kid get better (Death's emotion), Elena know Death exist, Aria/kid call Life)
 
 ### Chap 4. Theseus
 
-**(outline: get to Henry's, find Theseus&Henry building shelter, Death help strengthen; kid talk about Death, Theseus make some tool/verbal communicate in burning words on surface? way of talk with Death; show Elena is necessary lead for the group, bring them together; Death hold broken bridge for them; Theseus fixed car, move kid in car; Death/Elena more communicate)**
+> **outline:** get to Henry's, find Theseus&Henry building shelter, Death help strengthen; kid talk about Death, Theseus make some tool/verbal communicate in burning words on surface? way of talk with Death; show Elena is necessary lead for the group, bring them together; Death hold broken bridge for them; Theseus fixed car, move kid in car; Death/Elena more communicate)
 
 ### Chap 5. Henry
 
-**(outline: Elena wants keep moving, argue in group, Henry wander into wood, encounter danger, Elena go search, Death go together, try protect both (Elena wounded by poisonous mushroom), lead him back, give him dream to peace out; Death/Elena more help/save)**
+> **outline:** Elena wants keep moving, argue in group, Henry wander into wood, encounter danger, Elena go search, Death go together, try protect both (Elena wounded by poisonous mushroom), lead him back, give him dream to peace out; Death/Elena more help/save)
 
 ## Act 2 - Love slights it
 
 ### Chap 6. Theda
 
-**(outline: Elena dying, can see Death; Death sacrifice a piece to save, touch her, touching life weakens death, start humanize but still have power, wander into group, taken in; human side confuse/trouble her, hungry/sensation)**
+> **outline:** Elena dying, can see Death; Death sacrifice a piece to save, touch her, touching life weakens death, start humanize but still have power, wander into group, taken in; human side confuse/trouble her, hungry/sensation)
 
 ### Chap 7. Lucky
 
-**(outline: cat can recognize her, show friendly, accepted by kid fast, people evaluating her, she's unfamiliar/unhuman, keep going back to cat for comfort, start getting use to; Elena observe but trust kid/cat)**
+> **outline:** cat can recognize her, show friendly, accepted by kid fast, people evaluating her, she's unfamiliar/unhuman, keep going back to cat for comfort, start getting use to; Elena observe but trust kid/cat)
 
 ### Chap 8. Iva
 
-**(outline: group find Iva, Theda weaken/save, group suspect but happy; Elena observe/think/sense, already figured out)**
+> **outline:** group find Iva, Theda weaken/save, group suspect but happy; Elena observe/think/sense, already figured out)
 
 ### Chap 9. Finnick
 
-**(outline: side plot relaxing moments, human show Theda singing/dancing/joy, campfire moment, trade story; Elena love see Theda try new human thing, official mutual love)**
+> **outline:** side plot relaxing moments, human show Theda singing/dancing/joy, campfire moment, trade story; Elena love see Theda try new human thing, official mutual love)
 
 ### Chap 10. Elias
 
-**(outline: group run into Elias, Theda meet first? deceived, Eli pretend Life, against Theda, Theda awkward, Elena strong support her, find out truth, Eli get own consequence)**
+> **outline:** group run into Elias, Theda meet first? deceived, Eli pretend Life, against Theda, Theda awkward, Elena strong support her, find out truth, Eli get own consequence)
 
 ## Act 3 - Honor aspireth to it
 
 ### Chap 11. Hesitation (Suspicion)
 
-**(outline: some accident/Father's words induce suspicion, Theda hurt someone, rest of group realize she's death, her existence endanger humans, member subtle hospitality)**
+> **outline:** some accident/Father's words induce suspicion, Theda hurt someone, rest of group realize she's death, her existence endanger humans, member subtle hospitality)
 
 ### Chap 12. Upheaval (Rupture)
 
-**(outline: confront, Elena defend her, dispute inside group, split: Elena/Daphne/Henty/Iva, Aria/Theseus/Finnick)**
+> **outline:** confront, Elena defend her, dispute inside group, split: Elena/Daphne/Henty/Iva, Aria/Theseus/Finnick)
 
 #### draft notes
 
@@ -250,7 +318,7 @@ Elena: Look at her! She's no less human than you, or me, or any of us!
 
 ### Chap 13. Mending (Redemption)
 
-**(outline: lead arguer/Aria hurt after separate way, Theda find and save and weaken again; want to self-sacrifice but stopped/saved by Elena)**
+> **outline:** lead arguer/Aria hurt after separate way, Theda find and save and weaken again; want to self-sacrifice but stopped/saved by Elena)
 
 #### draft notes
 
@@ -262,11 +330,11 @@ Elena: *I DON'T CARE!* She's not gonna die, neither does any of us!
 
 ### Chap 14. Attachment (Intimacy)
 
-**(outline: Elena/Theda intimate moment, share last human sensation, give gift of scythe, share secret: tool allow her have temp power of life/death, can move life force, use only when absolutely sure and no other way, no way back)**
+> **outline:** Elena/Theda intimate moment, share last human sensation, give gift of scythe, share secret: tool allow her have temp power of life/death, can move life force, use only when absolutely sure and no other way, no way back)
 
 ### Chap 15. Nadir (Farewell)
 
-**(outline: kid die, Theda say thank you and I love you, exchange life to save the kid, die finally, used up all power, last essence in kid now; human test theory, no one die again however wounded, can still miserable)**
+> **outline:** kid die, Theda say thank you and I love you, exchange life to save the kid, die finally, used up all power, last essence in kid now; human test theory, no one die again however wounded, can still miserable)
 
 #### draft notes
 
@@ -276,15 +344,15 @@ Theda last words: Don't forget what I said...
 
 ### Chap 16. Empty (Price)
 
-**(outline: fast-forward, human prospering but population too huge, new problem, need to die again or Earth will break; thinking about solution, debates the cost, objected by other leaders)**
+> **outline:** fast-forward, human prospering but population too huge, new problem, need to die again or Earth will break; thinking about solution, debates the cost, objected by other leaders)
 
 ### Chap 17. Nostalgia (Truth)
 
-**(outline: flashback when Death exists, good old time, discuss with kid, agreed)**
+> **outline:** flashback when Death exists, good old time, discuss with kid, agreed)
 
 ### Chap 18. Death (Unity)
 
-**(outline: start doing it, thwarted by others, did it, become new Death, reunion again, new balance, new life)**
+> **outline:** start doing it, thwarted by others, did it, become new Death, reunion again, new balance, new life)
 
 #### draft notes
 
