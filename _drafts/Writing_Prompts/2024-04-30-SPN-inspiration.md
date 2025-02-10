@@ -1360,6 +1360,8 @@ What happened to the boys when they have to extend their stay in Sunrise, Wyomin
 
 (~Legends of Tomorrow)
 
+working title:《Long Way Home》
+
 Outline:
 
 Dean&Sam gets phoenix's ash by noon, bell rings, but Cas doesn't come, they can't get back. Some more time passes, they realize something must have happened to Cas and now they get stuck in the frontierland and have to figure out what to do. They start living like the locals, blend in as cowboys, get used to it, Dean is the town sheriff.
@@ -1402,13 +1404,15 @@ replace "father" with "brother", Dean considers Cass as brother, so for some spe
 
 ### 161.【destiel】S06E05 Dean gets killed when he's still vampire 【WIP - bang】
 
+working title:《Rock Beats Scissor, Leviathan Beats Angel》（S07E21 quote）
+
 Dean gets killed when he's still vampire so he goes directly to purgatory, meets Benny there (?), fights together, tries to come back but neither can go through human portal
 
 (Sam still soulless the whole time)
 
-Cass goes desperate, blames himself, pushes Crowley/Alphas even further to find purgatory, finds rogue reaper Ajay, turns himself to monster (disturbing form, distorting wings etc.), challenges Raphael with death wish, gets killed as he wants, goes to purgatory, finds Dean (both not recognize the other at first, fight a bit, almost kill each other, until recognize too familiar habits/catch phrase e.g. "son of a bitch"), waits for Ajay to pick up but Ajay killed by Crowley/Alpha, confesses all secrets he's hiding this year
+Cass goes desperate, blames himself, pushes Crowley/Alphas even further to find purgatory, finds rogue reaper Ajay, tries to go purgatory as angel but fail to leviathan (Naomi: took a lot angels to fetch Cas) decide to go as monster, turns himself to monster (disturbing form, distorted wings etc.), challenges Raphael with death wish, gets killed as he wants, goes to purgatory, finds Dean (both not recognize the other at first, fight a bit, almost kill each other, until recognize too familiar habits/catch phrase e.g. "son of a bitch"), waits for Ajay to pick up but Ajay is killed by Crowley/Alpha/Raphael, confesses all secrets he's hiding this year
 
-Cass sees leviathans and everything, only way out is he juice up, so in order to bring Dean back, Cass absorbs souls in purgatory (tries best to avoid leviathans so stay sane mostly), blows up a hole in purgatory to push Dean out (heal him too, human again), tries to stay behind to keep everything in purgatory not escape by using his body as patch to the hole (and guilty for leaving Sam's soul behind, self-punish)
+Cass sees leviathans and everything, only way out is he juice up, so in order to bring Dean back, Cass absorbs souls in purgatory (tries best to avoid leviathans so stay sane mostly), blows up a hole in purgatory to push Dean out (heal him too, transform back to human again), tries to stay behind to keep everything in purgatory not escape by using his body as patch to the hole (and guilty for leaving Sam's soul behind, self-punish)
 
 Dean insists him out too or else he'll jump back in & they'll help fix Cass's leviathan problem, Cass complies finally, drooping leviathan ooze occasionally but mostly can hold them back, goes to hell, steals Sam's soul back and fixes him, fights Raphael with his leviathan part ("rock beats scissor, leviathan beats angel"), cancels out both problems (explodes, Dean freaks out, Cass survives), problem solved, world in peace again
 
@@ -1848,4 +1852,30 @@ case fic? 穿梭宇宙级别的案子
 
 进怪奇物语世界观杀怪
 
-### 218.
+### 218.【all】S01E04 saying "Christo" is more reliable than holy water
+
+first time Dean wants to use holy water to check demon but Sam says saying "Christo" is a more reliable way, but down the road, they mostly only use holy water (except for the time with Jack and necromancer girl)
+
+rewrite one of the times with demon that holy water doesn't work but saying "Christo" would do?
+
+with Knight of Hell maybe? demon knife can't kill them, maybe holy water won't to (S12E12)
+
+case fic
+
+### 219.【all】S01E05 "six hundred years of bad luck"
+
+Dean&Sam break all the mirrors in the shop, Dean: "This has got to be like... what? 600 years of bad luck?"
+
+down the road in the episode with God of Luck (S15E11), they may realize it's all because of this case 15 years ago
+
+some case fic about realizing that saying is actually true
+
+### 220.【all】S01E05 mirrors can capture spirit
+
+Dean: old superstition that says mirrors can capture spirit
+
+modify to: mirrors can reflect soul (?)
+
+case fic? use mirror to capture spirit to help the case, or to check the soul (so first time actually see the soul, some soul-related case in S06)
+
+### 221.
