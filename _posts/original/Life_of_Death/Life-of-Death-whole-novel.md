@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【原创】The Life of Death
+title: 【原创】Life of Death
 date: 2025-01-27
 categories: ["原创"]
 characters: ["Death", "Theda/Death"]
@@ -114,7 +114,7 @@ principle: increase entropy (Life decrease entropy), that's why can't heal and w
 
 ### Chap 1. Daphne
 
-> **outline:** kid's innocent view of the post-apocalypse world, barren, sick, sense/see/hear Death, relationship with Elena/cat/Henry; Death comfort she's gonna be ok, kid tells Elena, doesn't believe; Death care about kid)
+> **outline:** kid's innocent view of the post-apocalypse world, barren, sick, sense/see/hear Death, him relationship with Elena/cat/Henry; Death comfort she's gonna be ok, kid tells Elena, doesn't believe; Death care about kid
 
 The wall in front of her was spotted, plasters peeling off, dark grey and white here and there. Pencil inks were added to the painting, shallow marks tracing the natural trails of circles and lines, adding eyes to the white and limbs to the grey, becoming tiny human figures and creatures.
 
@@ -158,7 +158,7 @@ And then there was something.
 
 Daphne opened her eyes wide at the shape by her bed. It was a human figure, she thought, but humans wouldn't be so... she couldn't find a word, she was only almost ten-year-old anyhow. The shadow wavered and wandered.
 
-"Who are you?" She asked in a small voice.
+"Who are you?" she asked in a small voice.
 
 The shadow answered with silence, but looked like it was coming closer. Daphne could make out a hooded long trench coat now, Aunty Elena had one looked just like that but not as long, and it wasn't so utterly dark and black.
 
@@ -176,7 +176,7 @@ A thought came to her.
 
 "Are you... Death?" Daphne asked timidly, gathering up this little amount of courage she could manage to find.
 
-Aunty Elena had been so worried all this time, she remembered, and it wasn't so hard to put everything together and understood what might be wrong about herself. She's a clever girl.
+Aunty Elena had been so worried all this time, she remembered, and it wasn't so hard to put everything together and understand what might be wrong about herself. She's a clever girl.
 
 <br>
 
@@ -206,11 +206,11 @@ A woman's voice sounded up right by her side before she opened her eyes. "Daphne
 
 "Good, I think," she answered, meeting Aunty Elena's eyes.
 
-"The heat got better, finally." Elena told her, giving her a small relieved smile. "Anywhere still hurts?"
+"The heat got better, finally." Elena told her, giving her a small, relieved smile. "Anywhere still hurts?"
 
 Daphne stretched out her arms, they had some energy now, she realized, not much but some, something hadn't happened for a long time. She told Elena that.
 
-"That's good to hear, must be all the resting and food we managed to find." Elena said, standing up now and ready to head out.
+"That's good to hear, must be all the rest and food we managed to get." Elena said, standing up now and ready to head out.
 
 "Where are you going?" Daphne bent up her upper body, eyes following Elena.
 
@@ -226,7 +226,7 @@ Daphne managed to walk a few steps on her own, but started tumbling on the rocky
 
 Bricks and rocks from the fell-down buildings made the land difficult to walk. Elena held her up sometimes, if they were too high to climb up. Other times she pulled herself up, trying hard to keep up, panting.
 
-There wasn't many buildings still left standing on either sides, but the road was still roughly recognizable as a road. They headed south.
+There weren't many buildings still left standing on either sides, but the road was still roughly recognizable as a road. They headed south.
 
 The trees and bushes were all grey and leafless, just like the buildings, not many of them still standing. The ones that did, the branches looked so fragile and lifeless that it looked a single touch would make all of them ashes and fall to the ground.
 
@@ -246,95 +246,95 @@ There was a pause in Elena's steps, but only briefly. She kept walking, but glan
 
 The clench of hand tightened. Elena's eyes were intense on her. "Did it try to reap you?"
 
-"No, actually." Daphne told her, almost cheerfully. "It's actually quite nice. A little terrifying at first, but didn't try to do anything to me. And it told me to not be afraid."
+"No, actually." Daphne told her, almost cheerfully. "It's actually quite nice. A little terrifying at first, but didn't try to do anything to me. And it told me not to be afraid."
 
 "It talked to you?" Elena's eyes widened a little.
 
 "Yeah, but I can't really remember." Daphne wrung her brows. "I think it also said something important, but I'm sorry, Aunty Elena, I can't remember what else it said."
 
-Elena stopped, lowering down to look at her in the eyes. "It's just a dream." she told her, eyes glaring. "But next time you dreamed about it, try waking up, or running away, or something. Ask it to come for me, if you have to. Just don't let it grab you, you hear me?"
+Elena stopped, lowering down to look at her in the eyes. "It's just a dream." she told her, eyes glaring. "But next time you dream about it, try waking up, or running away, or something. Ask it to come for me, if you have to. Just don't let it grab you, you hear me?"
 
 Daphne nodded solemnly.
 
 Elena patted her shoulder gently, stood up, shot a quick glance at the sky. "Now let's keep moving, daylight is burning up fast."
 
-Daphne looked at the sky too. It was shadowy and grey. Thick dusty clouds covered the sky. There was not much daylight any time anyway.
+Daphne looked at the sky too. It was shadowy and grey. Thick dusty clouds covered the sky. There was not much daylight to start with.
 
 ### Chap 2. Elena
 
-> **outline:** Elena's view, head to the Henry's, go out look for food/water (Death helped water in rain), grab kid/cat, start moving; kid get worse, Death help the shade/temperature, give sign, keep kid awake; Death care about Elena, Elena start sensing)
+> **outline:** Elena's view, head to Henry's, go out look for food/water (Death help with rain for water), grab kid/cat, start moving; kid get worse, Death help the shade/temperature, give sign, keep kid awake; Death care about Elena, Elena start sensing
 
 ### Chap 3. Aria
 
-> **outline:** Elena follow sign to med/hospital, find Aria, Aria help kid, Elena share food/water, Death talk to cat?, Death kill virus/gem in meds/food; Death happy when it works & kid get better (Death's emotion), Elena know Death exist, Aria/kid call Life)
+> **outline:** Elena follow sign to med/hospital, find Aria, Aria help kid, Elena share food/water, Death talk to cat?, Death kill virus/gem in meds/food; Death happy when it works & kid get better (Death grow emotion), Elena know Death exist, Aria/kid call it Life
 
 ### Chap 4. Theseus
 
-> **outline:** get to Henry's, find Theseus&Henry building shelter, Death help strengthen; kid talk about Death, Theseus make some tool/verbal communicate in burning words on surface? way of talk with Death; show Elena is necessary lead for the group, bring them together; Death hold broken bridge for them; Theseus fixed car, move kid in car; Death/Elena more communicate)
+> **outline:** get to Henry's, find Theseus&Henry building shelter, Death help strengthen; kid talk about Death, Theseus make some tool/verbal communicate in burning words on surface(?), way of talk with Death; show Elena is necessary leader for the group, bring them together, help survive; Death hold broken bridge for them; Theseus fix car, move kid in car; Death/Elena more communicate
 
 ### Chap 5. Henry
 
-> **outline:** Elena wants keep moving, argue in group, Henry wander into wood, encounter danger, Elena go search, Death go together, try protect both (Elena wounded by poisonous mushroom), lead him back, give him dream to peace out; Death/Elena more help/save)
+> **outline:** Elena wants to keep moving, argue in group, Henry wander into wood, encounter danger, Elena go search, Death go together, try protect both (Elena wounded by poisonous mushroom?), lead him back, give him dream to peace out; Death/Elena more help/save
 
 ## Act 2 - Love slights it
 
 ### Chap 6. Theda
 
-> **outline:** Elena dying, can see Death; Death sacrifice a piece to save, touch her, touching life weakens death, start humanize but still have power, wander into group, taken in; human side confuse/trouble her, hungry/sensation)
+> **outline:** Elena dying, can see Death; Death sacrifice a piece to save, touch her, touching life weakens death, start humanizing but still have some power, wander into group, taken in, self-name "Theda" (anagram of Death); human side confuse/trouble her, e.g. hunger/sensation
 
 ### Chap 7. Lucky
 
-> **outline:** cat can recognize her, show friendly, accepted by kid fast, people evaluating her, she's unfamiliar/unhuman, keep going back to cat for comfort, start getting use to; Elena observe but trust kid/cat)
+> **outline:** cat can recognize her, show friendly, accepted by kid fast, people evaluate her, she's unfamiliar/unhuman, keep going back to cat for comfort, start getting use to; Elena observe but trust kid/cat
 
 ### Chap 8. Iva
 
-> **outline:** group find Iva, Theda weaken/save, group suspect but happy; Elena observe/think/sense, already figured out)
+> **outline:** group find Iva, Theda weaken/save, group suspect but happy; Elena observe/think/sense, already figured out Theda's identity
 
 ### Chap 9. Finnick
 
-> **outline:** side plot relaxing moments, human show Theda singing/dancing/joy, campfire moment, trade story; Elena love see Theda try new human thing, official mutual love)
+> **outline:** side plot relaxing moments, human show Theda singing/dancing/joy, campfire moment, trade story (memorable lives in history, biblical events); Elena love see Theda try new human things, official mutual love
 
 ### Chap 10. Elias
 
-> **outline:** group run into Elias, Theda meet first? deceived, Eli pretend Life, against Theda, Theda awkward, Elena strong support her, find out truth, Eli get own consequence)
+> **outline:** group run into Father Elias, Theda meet first, deceived, Eli pretend to be Life, against Theda, Theda awkward, Elena strongly support her, Elena confirm/find out true identity, Eli bite own consequence
 
 ## Act 3 - Honor aspireth to it
 
 ### Chap 11. Hesitation (Suspicion)
 
-> **outline:** some accident/Father's words induce suspicion, Theda hurt someone, rest of group realize she's death, her existence endanger humans, member subtle hospitality)
+> **outline:** some accident/Father's words induce suspicion, Theda hurt someone, rest of group realize she's Death, her existence endanger humans, members subtle hostility
 
 ### Chap 12. Upheaval (Rupture)
 
-> **outline:** confront, Elena defend her, dispute inside group, split: Elena/Daphne/Henty/Iva, Aria/Theseus/Finnick)
+> **outline:** confront, Elena defend Death, dispute inside group, split: Elena/Daphne/Henty/Iva, Aria/Theseus/Finnick
 
 #### draft notes
 
 Aria: If you choose her, you're choosing against us.
 
-Finn/Aria: The very touch of hers corrupts. You're corrupted the moment she touched you.
+Finn/Aria: The very touch of her corrupts. You're corrupted the moment she touched you.
 
 Elena: Look at her! She's no less human than you, or me, or any of us!
 
 ### Chap 13. Mending (Redemption)
 
-> **outline:** lead arguer/Aria hurt after separate way, Theda find and save and weaken again; want to self-sacrifice but stopped/saved by Elena)
+> **outline:** lead arguer(Aria?) hurt after separate way, Theda find and save and weaken again; want to self-sacrifice but stopped/saved by Elena
 
 #### draft notes
 
 Elena: You are NOT gonna kill yourself, you hear me? I don't care what bad omen or whatever --
 
-someone: (cough) Excuse me, not just bad omen, she is literally *Death*.
+someone: (cough) Excuse me, not just bad omen, she is literally *Death*...
 
-Elena: *I DON'T CARE!* She's not gonna die, neither does any of us!
+Elena: *I DON'T CARE!* She's not gonna die, neither is any of us!
 
 ### Chap 14. Attachment (Intimacy)
 
-> **outline:** Elena/Theda intimate moment, share last human sensation, give gift of scythe, share secret: tool allow her have temp power of life/death, can move life force, use only when absolutely sure and no other way, no way back)
+> **outline:** Elena/Theda intimate moment, share last human sensation, give gift of scythe, share secret: tool allow her have temp power of life/death, can move life force, use only when absolutely sure and no other way, no way back
 
 ### Chap 15. Nadir (Farewell)
 
-> **outline:** kid die, Theda say thank you and I love you, exchange life to save the kid, die finally, used up all power, last essence in kid now; human test theory, no one die again however wounded, can still miserable)
+> **outline:** kid die, Theda say thank you and I love you, exchange life to save the kid, die finally, use up all power, last essence in kid now; human test theory, no one die again however wounded, can still miserable
 
 #### draft notes
 
@@ -344,16 +344,14 @@ Theda last words: Don't forget what I said...
 
 ### Chap 16. Empty (Price)
 
-> **outline:** fast-forward, human prospering but population too huge, new problem, need to die again or Earth will break; thinking about solution, debates the cost, objected by other leaders)
+> **outline:** fast-forward, human prospering but population too huge, new problem, need to die again or Earth will break/everyone live miserable; Elena think about solution (have new Death), debates the cost (reap kid first), objected by others
 
 ### Chap 17. Nostalgia (Truth)
 
-> **outline:** flashback when Death exists, good old time, discuss with kid, agreed)
+> **outline:** flashback when Death exist/live, good old time with Theda, discuss with kid, agree
 
 ### Chap 18. Death (Unity)
 
-> **outline:** start doing it, thwarted by others, did it, become new Death, reunion again, new balance, new life)
-
-#### draft notes
-
-After Elena becomes new Death, she's one with Theda, the two reunion scene; reaping and saving together. Because new Death comes from life, so half life half death, no restriction in power of no healing, so can start healing too. Officially get called by other humans "Life", depicted as white scythe etc. insisted to add Theda's profile too
+> **outline:** Elena start doing it, thwarted by others, did it, become new Death, reap and save, reunion again, united, new balance, new life; "Death with life": never happened before
+>
+> After Elena becomes new Death, she's one with Theda, the two reunion scene; reaping and saving together. Because new Death comes from life, so half life half death, no restriction in power of no healing, so can start healing too. Officially get called by other humans "Life", depicted as white scythe etc. insisted to add Theda's profile too
