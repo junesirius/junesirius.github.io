@@ -3,8 +3,8 @@ layout: post
 title: 【SPN】Dean Winchester Says He's in Love
 date: 2025-02-11 21:12
 categories: ["SPN"]
-characters: ["Castiel", "Dean Winchester"]
-tags: ["Supernatural", "destiel"]
+characters: ["Castiel", "Dean Winchester", "Sam Winchester"]
+tags: ["Supernatural", "destiel", "英文"]
 pov: 第三人称
 origin: AO3
 ---
@@ -31,7 +31,7 @@ Cas looks at him. "Oh," he says, and pauses, taken aback.
 
 Dean looks down at the uncovered book, sinking dreamily into his memory. "I mean, I'm like, I can't believe it can actually happen to me, you know? The love of my life, love at the first sight, Romeo and Juliet story, I thought those were like fairytales, but it's all real! Jamie, she's beautiful, she's sweet, she's so kind, I mean, she's just perfect. I just find my soul mate."
 
-Cas listens to him talking, looking. Just looking at Dean's face with all his attention, eyes wide and deep blue. Dean looks so happy. Cas watches in total silent. He swallows.
+"Jamie." Cas chews on the name, listens to him talking, looking. Just looking at Dean's face with all his attention, eyes wide and deep blue. Dean looks so happy. Cas watches in total silent. He swallows.
 
 "Do you trust her?" he asks.
 
@@ -61,7 +61,7 @@ At that, Cas squints, starts standing up. "Wait, that's a powerful magic book." 
 
 "Dean, Dean, slow down." Cas reaches him now, grabbing Dean by shoulder. "Maybe you want to think about it --"
 
-"Life is short, Cas, no time to waste, especially for love like this. I can't bear another minute not being with her." Dean looks at him, eyes intense with longing.
+"Life is too short, Cas, no time to waste, especially for love like this. I can't bear another minute not being with her." Dean looks at him, eyes intense with longing.
 
 Cas winces, retreating his hand. "Ok," he manages, voice tight. "I'll come with you then. Didn't you say you want to introduce her?"
 
@@ -111,13 +111,25 @@ Cas charges the few steps in a blink, yanks Dean away, and grabs the key back fr
 
 "But I love her too much!" Dean yells back, struggling from the wrestle for freedom, hitting Cas's head and abdomen by his elbow. Cas didn't expect that, his head hit the ground, a small stream of blood dripping from the skull.
 
-"Why don't you do me another favor, lover boy?" Jamie bends down a little, enjoying the view closing, before making sure the eye contact with Dean and telling him in a sticky sweet voice: "Kill him."
+"Why don't you do me another favor, lover boy?" Jamie bends down a little, enjoying the view closer, before making sure the eye contact with Dean and telling him in a sticky sweet voice: "Kill him."
 
 "Dean, don't!" A small strike of panic rises in his stomach. Cas wants to check on Dean but Dean's action already starts getting more violent. He is forced to have some small self-defense instead.
 
-The two girls giggle again, before the younger one urges to leave -- the older one still have a hammer in her hand. They jump into the silver car they were leaning against before and drive away.
+Dean's fists falling onto his cheek, Cas can feel something broken in this body of his, but the pain is dull. He grabs Dean's wrists. That's when Dean spots the glinting of the angel blade hidden in his sleeve.
 
-"Wait! Don't go! Don't leave me!" Even between hitting Cas's head to the ground, Dean manages to look at the way the car leaves, crying out desparately.
+"NO!" Cas gasps. Dean gets hold of the angel blade, swinging at him, pinning him down on the ground.
+
+The sky is blue and bright, and Dean's face covered in blood stain and wounds. Cas belatedly thinks this view feel so familiar, and the other times the blade falls inches away from his skull. He wonders how this time it would end.
+
+Dean raises the blade high above head, the other hand clenches his tie, pupils dilating and contracting, as if he's been shifting between in focus and out of focus.
+
+"Cas?" For a brief moment, it seems Dean's back. He looks at Cas, then at the blade, confused, the indulging smile of obsession drops. He lowers the hand, the hand on Cas's throat loosens.
+
+But next moment, his grips tighten again.
+
+The two girls giggle so hard they are almost out of breath, before the younger one urges to leave -- the older one still have a hammer in her hand. They jump into the silver car they were leaning against before and drive away.
+
+"Wait! Don't go! Don't leave me!" Even between hitting Cas's head to the ground, Dean manages to look at the direction the car leaves, crying out desperately.
 
 Cas catches the breath, putting a finger on Dean's forehead. Dean's body falls limp onto the ground, fast asleep.
 
@@ -139,9 +151,9 @@ Cas stands up suddenly, the chair stumbles back onto the ground. He snatches som
 
 Dean holds up two hands, giving the peace gesture and a weak smile. "Easy, tiger, it's just me."
 
-"Dean." Cas breathes out, almost looking ashamed, eyes moving down again.
+"Dean." Cas breathes out, almost looking ashamed, eyes moving down again. "How are you feeling?"
 
-Dean puts down his hands, steps closer, reading his face. "What happened? You ok?"
+"Good, I guess." Dean puts down his hands, steps closer, reading his face. "What happened? You ok?"
 
 "I'm fine." Cas says, not looking at him. "It's two witches -- three actually, if you count the zombie mom. I took care of them."
 
@@ -157,7 +169,7 @@ Dean almost jumps at the sight of it, "What the hell? You didn't burn it?"
 
 "The witches were dead, the spell should already lifted in your sleep. I don't see the necessity to burn it." Cas says, in a matter-of-fact tone.
 
-"But it's still witchy stuff, man!" Dean eyes it cautiously, walking around it as if it's contaminating the air in its three-feet surrounding, "I don't know, maybe if someone trips over it and gets hexed again or something?"
+"But it's still witchy stuff, man!" Dean eyes it cautiously, walking around it as if it's contaminating the air in its three-feet surrounding, "I don't know, just in case someone trips over it and gets hexed again or something?"
 
 Cas answers with a light "Hmm", with his eyes locked on it. Deep in thought.
 
@@ -177,7 +189,7 @@ Dean rolls his eyes, "Wha-- did you hit your head?"
 
 Cas squints. "As a matter of fact, it's you --"
 
-"No, never mind," Dean shakes his head, stands up, starts walking in circles in the small kitchen. "Why? It's a curse, why would you *ever* want to try it on yourself? And for no reason? Not like this could give us some solution or whatever."
+"No, never mind," Dean shakes his head, stands up, starts walking in circles in the small kitchen. "Why? It's a curse, why would you *ever* want to try it on yourself? And for no good reason? Not like this could give us some solution or whatever."
 
 Cas looks at him, answering quietly, "I want to know how it feels like."
 
@@ -201,7 +213,7 @@ Cas's eyes get watery for a second, before he breaks the stare, looking down on 
 
 Dean has to lean on the edge of the table, hands holding his own weight, closing his eyes. Taking a long breath in, giving a long breath out.
 
-In the darkness behind his eyelid, he sees Cas. He sees Cas storming into that barn, staring him down with the holy power from the upstairs; he sees Cas frowning, sitting on the bench telling him something he wouldn't tell any other being exist; he sees Cas pinning him on the wall of the green room, eyes stern and pointy, right before he volunteers to face the anger of an archangel; he sees Cas spitting blood, Cas laughing with him outside that brothel, the drunk Cas, the gluttony Cas, the... the rain of flesh and blood when Lucifer kills him, then the Leviathans kill him, the purgatory, the fallen angel, the Mark of Cain.
+In the darkness behind his eyelid, he sees Cas. He sees Cas storming into that barn, staring him down with the holy power from the Divine; he sees Cas frowning, sitting on the bench telling him something he wouldn't tell any other being ever existed; he sees Cas pinning him on the wall of the green room, eyes stern and pointy, right before he volunteers to face the anger of an archangel; he sees Cas spitting blood, Cas laughing with him outside that brothel, the drunk Cas, the gluttony Cas, the... the rain of flesh and blood when Lucifer kills him, then the Leviathans kill him, the purgatory, the fallen angels, the Mark of Cain...
 
 Dean draws in a sharp breath. It wasn't even six months ago when he had to burn his body, thinking this time Cas wouldn't come back. What gets burned stays dead. But he always come back, he's always there. And here he is, sitting right across the dining table, in their home, telling him he has to be sure, because... because a stupid love spell tells him love is a moron chasing after a blonde instead of...
 
@@ -211,7 +223,7 @@ Dean blinks the wetness away. He chokes out, "It is."
 
 Cas blinks, blank. "What is?"
 
-Words completely fail him. Dean marches to him, dragging Cas up from the chair, into a hug. Just like the one they had before he heads out to take out Darkness with the soul boom, like the one Cas dragged him into when he came back to bunker from the supposed soul boom, like the one he dragged Cas into when Cas came back from the Empty. Except, this time, no one is dying. Or just recently coming back from being dead, for that matter.
+Words completely fail him. Dean marches to him, dragging Cas up from the chair, into a hug. Just like the one they had before he heads out to take out Darkness with the soul boom, like the one Cas dragged him into when he came back to bunker from the supposed soul boom explosion, like the one he dragged Cas into when Cas came back from the Empty. Except, this time, no one is dying. Or just recently coming back from being dead, for that matter.
 
 "Love." Dean closes his eyes again, holding the comforting warmth and weight in his arms tight to his body, not letting go.
 
@@ -227,29 +239,29 @@ Cas gives him a look, corner of the eyes dropping, looking sad and regretful and
 
 Dean regrets immediately for asking, fingers tracing his cheeks, palms holding his face, gentling shushing and rushing the words. "I'm sorry, I'm sorry, Cas. Whatever I did, all the harm I did to you all these years, I'm so, so sorry... I would never do any of that again, promise."
 
-But Cas is shaking his head. Dean hesitantly starts pulling his hands away, only get grabbed by Cas's hands to hold them there, leaning into them deeper.
+But Cas is shaking his head. Dean hesitantly starts pulling his hands away, only get grabbed by Cas's hands to hold them there, cheek leaning into them firmer.
 
 "It's not you, it's me." Cas tells him, eyes closed, hints of tears catching sight at the corner. His face looks more painful than all these times when demons or angels or British's hurt him, Dean thinks. He wants to do everything to make that look not show up there ever again.
 
 Cas looks as though having to take all the effort to push the words out. Dean squeezes his hands, hoping that's enough hint.
 
-Cas continues, "You just said it yourself, *can't love without trust*. And I think -- I thought -- I have already lost all of that. Back when you told me you wished it changed anything, when... when you *trusted* me and I ruined everything..."
+Cas continues, "You just said it yourself, '*can't love without trust*'. And I think -- I thought -- I have already lost all of that. Back when you told me you wished it changed anything, when... when you *trusted* me and I ruined everything..."
 
 *I wish this changed anything.* That sounds oddly familiar, where is it from? Dean thinks, wondering, before all of that memory floods back through him. The time when he had to trap Cas in the holy fire circle, when they are... when they are enemy, almost. When things were bad, really, really bad. And then, Cas died. It seemed to be the only unchanging theme in all his memory -- seeing Cas die in all kinds of different ways, not knowing if he'd seen him again.
 
-Part of his brains wanders far, thinking if that was the last time he'd ever seen Cas, how'd he feel. His mind hasn't came up with a thought, his heart already clenches hard, bleeding and breaking, the pain so sharp that he actually gasps, thinking he might have a heart attack right then and there.
+Part of his brains wanders far, thinking if that *was* the last time he'd ever seen Cas, how'd he feel. His mind hasn't came up with a thought, his heart already clenches hard, bleeding and breaking, the pain so sharp that he actually gasps, thinking he might have a heart attack right then and there.
 
 "That was, what, almost seven years ago now?" Dean chokes out.
 
 Cas gives a bitter smile. "Angels have good memory." Then, "so now you can understand why..." Tentatively, Cas is trying to draw his hand back, only to be held tight again.
 
-"It is forgiven." Dean tells him, looking in the eyes and saying it again. "I forgave you, of course I forgave you, long ago. You hear me? So no more self-beaten up crap now, we all good?"
+"It is forgiven." Dean tells him, looking in the eyes and saying it again. "I forgave you, of course I forgave you, long time ago. You hear me? So no more self-beaten up crap now, we all good?"
 
 At that, Cas nods and finally lets the grimace leave, a little bit at a time, gradually eased.
 
 "Alright, enough chick-flick moment." Dean pats him gently on the shoulder, wiping his own eyes and face clean, standing up. "Where's Sam gone again? Library run can't possibly take this long."
 
-"I'm gonna go check if there's missed phone call or anything." Dean walks towards kitchen door, when an afterthought hits him halfway. He turns, rubbing his forehead with one hand, pointing at the red hex bag that still lies on the table with the other. "And Cas? Do me a favor and burn that thing, will you? Don't need another reminder of this afternoon, and never tell anyone what happened, promise?"
+"I'm gonna go check if there's missed phone call or anything." Dean walks towards kitchen door, when an afterthought hits him halfway. He turns, rubbing his forehead with one hand, pointing at the red hex bag that still lies on the table with other cups and plates. "And Cas? Do me a favor and burn that thing, will you? Don't need another reminder of this afternoon, and never tell anyone what happened, deal?"
 
 Cas actually starts grinning a little. Tiny curve sprouts on the tip of his lips, the way how his grin usually starts. "Not even Sam?"
 
@@ -259,9 +271,9 @@ Cas actually starts grinning a little. Tiny curve sprouts on the tip of his lips
 
 Sam comes back several more hours later. Probably right after library closes.
 
-Dean hears his footsteps creeping down the front stairs. He hums a soft tune, grinning to himself while flipping through a book in front of him.
+Dean hears his footsteps creeping down the front stairs. Dean hums a soft tune, grinning to himself while flipping through a book in front of him.
 
-Sam walks into the room, eyeing him. "You're in a good mood, any good news?"
+Sam walks into the room, eyeing him. "You're in a good mood. Any good news?"
 
 Dean looks up from the book, eyes sparkling with joy, smile wide, "I'm in love."
 
@@ -275,18 +287,20 @@ Dean wipes the smile from his face, frowning. "What, I can't use the word '*love
 
 Sam actually laughs with a scoff, lowering the gun but still holding it in the hands. "Have you met yourself, like, ever?"
 
-Dean considers, and shrugs. "Fair, but --" The smile blooms back on his face. "-- I'm telling you, this time it's the real deal. I'm not just saying it, I'm in it."
+Dean considers, and shrugs. "Fair, but --" The smile blooms back on his face. "-- I'm telling you, this time it's the real deal. I'm not just saying it, I'm *in* it."
 
-He stretches his arms towards the sky, posing as if poets singing verses, and goes. "Love, what a wonderful word."
+He stretches his arms towards the sky, posing as if poets singing verses, doing a 360 degree spinning, and goes. "Love, what a wonderful word."
 
-"That's enough," Sam stuffs the gun back to the belt, laughing. "You don't have to do that just to make me sick, jerk."
+"That's enough," Sam stuffs the gun back to the belt, laughing. "You don't have to do things just to make me sick, Jerk."
 
 "Bitch." Dean replies in knee-jump reflection.
 
-"So who is it then, this lucky one you're so '*in love*' with?" Sam stretches his voice on the emphasis, mimicking Dean's voice.
+"So who is it then, this lucky one you're so '*in love*' with?" Sam stretches his voice on the emphasis, mocking Dean's voice.
 
-Cas walks into the room right this moment.
+Cas walks into the room precisely this moment.
 
 Dean thumbs over his shoulder at him, grinning. "This dude."
 
-Sam breathes out a relieved laughter. "Finally."
+Sam breathes out a relieved laughter.
+
+"Finally."
