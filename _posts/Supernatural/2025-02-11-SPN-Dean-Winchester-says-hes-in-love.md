@@ -199,7 +199,7 @@ Cas squints. "As a matter of fact, it was you --"
 
 Cas looks at him, answering quietly, "I want to know how it feels."
 
-That makes Dean's steps dead on halt. "How *what* feels like?" He already knows the answer before asking.
+That makes Dean's steps dead on halt. "How *what* feels?" He already knows the answer before asking.
 
 "Love," Cas says, plain and straight.
 
@@ -273,11 +273,11 @@ At that, Cas nods and finally lets the grimace fade, a little bit at a time, gra
 
 "And Cas? Do me a favor and burn that thing, will you? Don't need another reminder of this afternoon. And never tell anyone what happened. Deal?"
 
-Cas actually starts grinning a little. A tiny curve sprouts at the tip of his lips, the way how his grin usually starts. "Not even Sam?"
+Cas actually starts grinning a little. A tiny curve tugs at the tip of his lips, the way his grin usually starts. "Not even Sam?"
 
 "Especially Sam!" Dean rolls his eyes.
 
-Cas giggles.
+Cas chuckles.
 
 <br>
 
