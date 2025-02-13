@@ -1868,4 +1868,16 @@ knowing Cas can time travel anywhere, Dean wouldn't miss the chance to witness Z
 
 case fic, Dean gets to save Zeppelin for once, ends up showing up in one of their songs (change lyrics in "Stairway to Heaven" because they witnessed Cas)
 
-### 222.
+### 222.【Ash&Charlie】技术宅聊天
+
+都是super good at tech stuff，交流一下技术？
+
+在天堂碰面？Ash日常跑出自己房间，Charlie帮忙改进他的弦理论以诺语电台？
+
+### 223.【destiel】S01E12+S07E17 Emmanuel is the faith healer
+
+丁电击心脏病之后米找到的faith healer其实是失忆卡，real deal，可能是被天堂扔下来作为惩罚的？早两年认识，跟着一起学hunt，认识自己身份
+
+（稍微有点借鉴《Heard from your mother》）
+
+### 224.
