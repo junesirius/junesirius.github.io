@@ -31,7 +31,7 @@ Jim Elkins at the Slick Jim's Saloon (been here longer than God) <= Cas meets hi
 
 ## Main
 
-### Act 1
+### Act 1 (Dean stuck in Sunrise)
 
 > **Outline:** Dean&Sam gets phoenix's ash by noon, bell rings, but Cas doesn't come, they can't get back. Some more time passes, they realize something must have happened to Cas and now they get stuck in the Frontierland and have to figure out what to do. They start living like the locals, blend in as cowboys, get used to it, Dean is the town sheriff.
 
@@ -199,7 +199,7 @@ Sam swallows, giving Dean a quick glance, a little sheepishly, "So is it time we
 
 Dean stares at him, face grim, brows knitted tight. Eventually he sighs, giving in the stare, licking his lips. "Ok, yeah, you might be right. Can't put all the burden on the man, he might even need our help back home."
 
-### Act 2-1
+### Act 2-1 (Cas wake up)
 
 > **Outline:** Cas passes out for longer than in canon, when he comes to it's past 24h and he's super weak and wounded. He doesn't want to risk Bobby's soul and can't leave the boys behind, but also like he mentioned, now they are lost to him, so he'd have to fight hard in the time flux to find them.
 
@@ -311,7 +311,7 @@ With that, and a disturbance of wind flow in the room, Castiel is gone.
 
 "What--" Bobby takes two steps ahead, right next to where the angel was, but it is so clear there is nothing left there anymore.
 
-### Act 2-2
+### Act 2-2 (Dean leave Sunrise)
 
 > **Outline:** Dean prays to Cas but doesn't get answer, they figure Cas said they're lost to him, so their idea is to do something "noisy" (big enough to get some notice from the future but not too big to disturb the history) so that their existence might be like some beacon in the timeline, hopefully making it easier for Cas to locate them.
 
@@ -429,7 +429,7 @@ How many of these kinds of gangsters has he seen before, Dean finds himself wond
 
 "Well, Hell sends regards." Elkins's steps are right in front of the table. Dean risks a glimpse, catching the sight of black eyes.
 
-"Demons!" He warns Sam, at the same time of ducking into a gap between the stools, exactly when the desk he was hiding behind gets shot a gun hole around the place where his heart would have been.
+"Demon!" He warns Sam, at the same time of ducking into a gap between the stools, exactly when the desk he was hiding behind gets shot a gun hole around the place where his heart would have been.
 
 "Where are they coming from?" Sam moves closer to him, looking at a different direction.
 
@@ -461,7 +461,7 @@ The demon possessing the bartender lets out a raspy laughter. "You will die, Cli
 
 A bucket rolls towards him, soaked inside out with alcohol. Dean jumps out of the place, right after firing at the bucket, turning the whole place into a big pile of flame and smoke. Demons hiss furiously inside.
 
-The two boys unleash the horses by the stable, galloping out of the town, heading east.
+The two boys unleash the horses by the stable, galloping out of the town, heading west.
 
 <br>
 
@@ -481,7 +481,9 @@ Sam looks up at the sky. The night is falling, the stars are incredibly bright o
 
 The whole wild west ahead of them, free to explore.
 
-### Act 2-3
+Dean isn't anywhere near lying in the pool of ecstasy. It's just too damn far away from home.
+
+### Act 2-3 (Cas time travel)
 
 > **Outline:** Cas's in no condition to time travel but he worries about Dean too much so he risks flying into the time flux in his wounded state, leaving bloody trace behind. His trace exposes him, Raphael follows him into the time flux, so he has to escape the chase while tries to locate Dean, Cas crash lands in Sunrise Wyoming but Dean's not there.
 
