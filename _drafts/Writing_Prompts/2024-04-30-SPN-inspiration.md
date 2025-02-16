@@ -1016,13 +1016,13 @@ Dean: Well look me up in a few years, assuming I live up that long.
 
 why Cass buried Dean again after pieced his body together: when he's small, Gabe tricked him into believing everything can be saved again after planted, if you plant a Dean in spring (May), you'll grow a tree of Dean in the fall (September)
 
-### 108.【destiel】what is love
+### ~~108.【destiel】what is love【done】~~
 
 Angel doesn't know what is love.
 
 Is love happiness, how do you know what you like, angels don't have preference, is that something that makes you happy, is love = Endorphin
 
-(+ prompt 135)
+(prompt 135 used)
 
 ### 109.【destiel】S11E23 what if God dies, soul bomb works
 
@@ -1092,7 +1092,7 @@ Power play in 1518 involves Destiny sisters, also takes a part in the fight agai
 
 Everyone around Winchesters keep starting to pick up free will and usually to their favor, e.g. Crowley, Rowena, Balthazar, Mick Davies, Charlie, why not add Destiny sisters to the list
 
-### ~~121.【destiel】Jellyfish~~
+### 121.【destiel】Jellyfish
 
 （可能会用在《Angel Black Death》里）
 
@@ -1196,7 +1196,7 @@ Cas: “I would like to see you too, the sooner the better”
 
 丁来不及回应，卡的电话就被路西抢走挂断了，卡自己也被抓走了，等到回来以后都以为两个人都忘了，其实丁没忘，等到两个人终于又有时间单独相处的时候丁问起来了，卡脸红，说不定这时候就能戳破窗户纸了，不过有可能丁下意识又会后退否认自己的内心，两个人的感情又要拉扯一会儿才能袒露
 
-### 135.【destiel】S13E12 “I'm in love”【WIP - event】
+### ~~135.【destiel】S13E12 “I'm in love”【done】~~
 
 《Dean Winchester Says He's in Love》
 
