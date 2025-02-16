@@ -1880,4 +1880,14 @@ case fic, Dean gets to save Zeppelin for once, ends up showing up in one of thei
 
 （稍微有点借鉴《Heard from your mother》）
 
-### 224.
+### 224.【destiel】《Stars are bad at keeping secrets (because they hear you)》
+
+儿童文风，梗源reddit writing prompt
+
+向星星许愿梗
+
+小孩子丁温
+
+其实星星是卡，卡全都听见了
+
+### 225.
