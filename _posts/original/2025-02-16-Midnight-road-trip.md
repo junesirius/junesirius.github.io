@@ -4,7 +4,7 @@ title: 【随记】Midnight Road Trip
 date: 2025-02-16 00:55
 categories: ["原创"]
 characters: ["Dean Winchester", "Castiel"]
-tags: ["随记", "开车", "Supernatural"]
+tags: ["随记", "开车", "Supernatural", "想象"]
 pov: 第一人称视角
 origin: 个站
 ---
