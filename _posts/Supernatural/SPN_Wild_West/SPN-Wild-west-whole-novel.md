@@ -486,6 +486,8 @@ But Dean isn't anywhere near ecstasy. It's just too damn far away from home.
 ### Act 2-3 (Cas time travel)(Time flux, Cas&Raphael)
 
 > **Outline:** Cas's in no condition to time travel but he worries about Dean too much so he risks flying into the time flux in his wounded state, leaving bloody trace behind. His trace exposes him, Raphael follows him into the time flux, so he has to escape the chase while tries to locate Dean, Cas crash lands in Sunrise Wyoming but Dean's not there.
+>
+> (EDIT: more depiction of Cas's true form early in the Act?)
 
 "This is stupid, even for you." The thundering voice sounds up above him. Cas doesn't need to look up to know who has found him.
 
@@ -557,15 +559,19 @@ Disregardless of still answerless to any of his questions, his feet land on the 
 
 Wind blows, the sand rises around him. The vessel coughs, more blood dripping, not just from his mouth.
 
-Cas only gets time to see the wooden sign saying "Sunrise, WYO." before the world turns total black.
+Cas only gets time to see a wooden sign with a clean carving saying "Sunrise, WYO." before the world turns total black.
 
 ### Act 3
 
-> **Outline:** They leave Sunrise Wyoming (cuz demons find them), Dean quits sheriff, the two boys ride horses, wear bandana, wrap blanket, "roadtrip in wild west" (as the art show). They play cards in inns, provoke gun fights and win, occasionally deliberately act like bandits and rob gold mine owners, distribute gold to other poorer people, gets a fame of western Robin Hood and best gunner for themselves. (Dean pray to Cas every night)
+> **Outline:** They leave Sunrise Wyoming (cuz demons find them), Dean quits sheriff, the two boys ride horses, wear bandana, wrap blanket, "roadtrip in wild west" (as the art show). They play cards in inns, provoke gun fights and win, occasionally deliberately act like bandits and rob gold mine owners, distribute gold to other poorer people, gets a fame of western Robin Hood and best gunner for themselves. (Dean pray to Cas every night, bad feeling)
+>
+> (start Act scene with Dean get caught by Sam while praying, start anxious about Cas hurt)
 
 ### Act 4
 
 > **Outline:** Cas is too wounded to fly again and can't risk using his power in case he gets noticed by Raphael (still scouting in time flux), so he lives in the town like a human, also tries his best to blend in. After a while when he recovers slightly, he asks around if anyone has seen the brothers based on his description but no one does. The town looks relatively new, not so crappy, he asks time and realizes why. To stay in the town for longer and not raise suspicion, Cas starts working in a ranch just to continue pretending to be a normal human. Cas is still weak and low in power, but as time goes by, he's growing back.
+>
+> (start Act scene with Cas waking up with wounds, vessel has vertical cutting in the middle back, almost cut in half, bleeding in shoulder blade, old one from Rachel, internal organ bleeding, fingers gnarled; heal in human way, low in grace and can't risk checking how much left, can't risk using it to self-heal)
 
 ### Act 5
 
