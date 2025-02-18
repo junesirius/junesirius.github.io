@@ -1890,4 +1890,50 @@ case fic, Dean gets to save Zeppelin for once, ends up showing up in one of thei
 
 其实星星是卡，卡全都听见了
 
-### 225.
+### 225.【destiel】《Boy and the ghost》（lyrics）
+
+(by Tarja)
+
+Wake up, wake up:
+
+There's an Angel in the snow.
+
+Look up, look up:
+
+It's a frightened dead boy
+
+With so much hate, such bad dreams.
+
+He could have seen
+
+The toy's the key, but no one saw, no one saw
+
+<br>
+
+All he wanted was a toy
+
+All he needed was a bleeding heart
+
+To lead him through the dark
+
+Boy and the ghost
+
+Despero, solitas, debilis, desolo.
+
+<br>
+
+When there's nowhere left to fall.
+
+Nowhere to hide
+
+The silence is hurting
+
+Inside it's cold. Sleep or die.
+
+Nowhere to go,
+
+Nowhere to hide.
+
+His light went out.
+
+### 226.
