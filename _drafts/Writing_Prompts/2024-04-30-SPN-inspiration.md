@@ -1640,7 +1640,7 @@ post-1518, to save Cas, Dean researchs and figures out how to time travel (Henry
 - 1209 stop Cas from killing Billie (Mary dies =1418, Billie not become Death)
 - 1023 not kill old Death (Billie not become Death) -> later changes: more change Dean's action than Cas's
 - 823 not let Cas go alone to ruin wings (so 1518 can fly them out) (if leave Sam with Cas, Sam dies)
-- 623/701 stop Cas become God so won't try so hard for redemption in 823 ()
+- 623/701 stop Cas become God so won't try so hard for redemption in 823
 - 401 try to not let Cas bring him back (when in Hell, stay stronger longer; or struggle to prevent Cas save him) but Cas still bring him back and profound bond again
 - realize only way is to not make the deal in 222 and let Sam die
 
@@ -1936,4 +1936,16 @@ Nowhere to hide.
 
 His light went out.
 
-### 226.
+### 226.【destiel】S15E03 what if Belphegor becomes almost-God
+
+if Cas doesn't stop Bel, follow the initial plan like Dean wants, Bel the demon (wearing Jack's body) becomes the almost-God, Rowena closes the rupture as planned, Cas gets trapped in the closed Hell, Chuck still the God
+
+what now? trick them to let Bel handle Chuck?
+
+### 227.【destiel】S15E03 what if Cas replace Bel to sound the horn
+
+Cas smites Bel/Jack's body, has to continue use the horn to suck all souls into Hell and finish Rowena's spell, the rupture closes, Cas gets almost-God power (again), trapped in the closed Hell temporarily? vessel breaking down again? (almost S07E01 again)
+
+Cas uses the power to go against Chuck & Billie
+
+### 228.
