@@ -7,7 +7,7 @@ characters: ["Castiel", "Dean Winchester", "Jack Kline", "Sam Winchester"]
 tags: ["Supernatural", "destiel", "英文"]
 pov: 第三人称
 origin: 2025 DCRB
-long_novels: 【Destiel】The Empty
+long_novels: 【Destiel】The Tear, The Hole, The Empty
 published: false
 ---
 
