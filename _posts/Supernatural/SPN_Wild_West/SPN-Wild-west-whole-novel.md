@@ -291,7 +291,7 @@ Bobby tilts his head, having a bad feeling but has to defend himself. "Well, you
 
 Cas looks like he was about to snap, but decides at the last minute to turn it into a sigh. "You might just put both of us in extreme danger, me, especially. Since Raphael might already hear it and find where I am, or at least close enough. I could be dead any minute by now if it's not still shielding me."
 
-Defeated, Bobby steps back half a step, giving Cas some space as he tries to give another attempt to stand up. "Well, I'm sorry. I guess. Was really out of option there."
+Defeated, Bobby takes half a step back, giving Cas some space as he tries to give another attempt to stand up. "Well, I'm sorry. I guess. Was really out of option there."
 
 "How long was I unconscious?" Cas leaves the sofa, walking shakily toward the desk.
 
