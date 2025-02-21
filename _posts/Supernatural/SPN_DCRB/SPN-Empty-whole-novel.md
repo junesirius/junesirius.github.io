@@ -465,11 +465,129 @@ Dean didn't notice when Sam had left too, along with his own old body. The room 
 
 He walks outside. The sun pierces through him, casting onto the ground without shadow. He examines his translucent hands and body, looking back at the no-shadow.
 
-"Got work to do." He sighs, casting a quick glimpse upward automatically, as if sensing a gaze from the place that exists out of his reach, as if picking up something in other wavelength from his new spiritual form.
+"Got work to do." He sighs, casting a quick glimpse upward automatically, as if sensing a gaze from the place that exists out of his reach, as if picking up something in other wavelength from his new spiritual form without recognizing.
 
 ### Act 3
 
 > **Outline:**  To free Dean's spirit and to save Cas, they call Jack to help (or maybe they have tried this earlier), but God has no power in Empty, so it's up to themselves. Dean is painful and hopeless and keeps letting the *emptiness* in his heart eat him up, after long enough, his heart is so *empty* that he goes in the Empty too. Cas catches him as he falls in, they find each other, Dean responds to Cas's confession, so now his heart is no longer *empty*, it's filled with feelings. And so the Empty is no longer empty, which is unbearable to the Empty and it loses control of them. So they use this feeling as their connection back to the earth and escape the Empty.
+
+*No. This is not happening. Dean can't possibly be this stupid...*
+
+Cas feels his hearts clutching and squeezing. Or is it the Empty pulling and poking it, almost it snapping it out of his chest?
+
+"Enjoying the show?" the voice sounds up behind him. Cas grimaces.
+
+"This is not real." he glares at the entity. This has to be a lie, just to... to what? Make him give up? Surely Dean can't really make *that* decision? With all he knows, still decided to stay behind?
+
+The Empty laughs. "But it is. As real as you and me -- or, just me."
+
+The sensation from his body is nothing compared to what is in his mind now. The desperation and sorrow comes stronger than ever, and then, there is anger. The anger of himself not being there, the anger of Dean making stupid decisions like he always do, the anger of the world and the Empty that keep teasing them, playing them with no end.
+
+The bitterness, the sour, the pain, the angst. Every feeling mixed together like a big bowl of emotion soup. The black ether of emptiness pokes into his brain, churning at these, scooping them.
+
+"But don't worry," the Empty smiles even more merrily. "The show is not over yet, you can take your time."
+
+<br>
+
+Sam is outrageous.
+
+It takes Dean six months to figure out how to gather some of his strength and finally shows up as a semi-transparent form. Sam almost shoots him with a rock salt gun.
+
+"What the Hell, Dean?" Sam growls at him, putting the gun down.
+
+Dean tries to give him a smile but doesn't quite carry. "I had to."
+
+"You *had to*?" Sam raises his brows. "What, like something here is keeping you so you can't go? Or some unfinished business?"
+
+Dean doesn't want to make it so obvious, but his head just tilts enough of an angle to give it all away.
+
+Sam breathes out. "It's about Cas, isn't it? You still believe you can bring him back?" Dean gives a silent ghosty nod. "It's been five years, Dean! There is no proof or anything giving us any sign that Cas can still *be* brought back! You can't possibly make yourself a vengeful spirit just for such a long shot."
+
+"But it's still a shot. I'll just keep trying." Dean says, not listening to other things his brother has said. Guess Death is right, being a ghost also limits your attention range, you can only think about one thing. And for Dean, that's enough.
+
+Sam smiles sadder than he saw him that time when they were trying half a dozen pies at the Pie Fest.
+
+"Don't you dare salt-and-burn me now." Dean reads his facing, knowing what's in his mind. "I just need a bit more time, that's all."
+
+"Except I already did." Sam gives him a glance before looking away again. "So if there is nothing else attaching you here, I'd guess thinking straight and accepting the truth would be only way to be free."
+
+*But I am accepting the truth.* Dean thinks. *Just not the truth they think they know.*
+
+Cas's look at him that night, at the bunker. Cas's tears, Cas's smile, and then... Cas's confession. The big secret truth.
+
+It took him one second to realize it *is* the truth -- has been, for both of them, for the longest time either can remember. But it only took the Empty half a second to be summoned and took Cas away.
+
+Too slow, too little, too late.
+
+So he can't give up, can't let go, can't move on. Dean decides. He just can't.
+
+<br>
+
+Dean doesn't expect to see Jack so soon in the bunker again. Sam leads him to the dinner table.
+
+"I, uh, prepared too much dinner. Thought you might want a family dinner once in a while, you know." Sam puts an empty plate in front of the kid, scooping him a large spoon of mashed potato. The kid looks like just a kid again, especially when he's sitting in the bunker dining table, eating homemade mashed potato with chicken and sprouts -- Sam's specialty.
+
+"Thank you, Sam." Jack tells him, enjoying the spoon. Sam watches him, across the table, fisting around a spoon far too tight, putting the saddest smile. Corner of his eyes gathering something wet.
+
+Jack sees his face, putting down the spoon slowly. "Sam?"
+
+"It's just really good to see you again." Sam manages, forcing a spoon of whatever food he was holding down the pipe, swallowing it down.
+
+"I'm sorry about Dean." Jack says. All-knowingly. With a lower voice than usual.
+
+Sam looks up fast. "So you know."
+
+"Of course, I know. I'm the God, remember?"
+
+"Yes, yeah. Umm," Sam pauses, glancing around, as if waiting for someone to join them. He doesn't see Dean's jittering spiritual reflection. "Do you think there is any chance you can get Dean out of that ghost phase? Please?"
+
+Jack follows his eyes, checking around, also not seeing Dean, but he must have checked more than just the bunker's dining room. "I can." the young God says. "But is that also what Dean wants?"
+
+Sam puts down the fork, almost snapping but controlling the volume at the last minute. "Dean doesn't know what he's doing! He didn't think straight in the last few years ever since Cas was gone, he's certainly not in the right mood to make the decision of staying like a ghost!"
+
+"I heard he's been praying, to Cas, all the time." Jack is not affected by Sam's suddenly raised voice.
+
+Sam lowers his head sheepishly. "I think so too. I mean, I didn't hear it all the time, he didn't always say the words, but yeah, wouldn't be surprised if he did."
+
+"And you don't think it would work?" Jack asks him, in a completely neutral tone.
+
+Sam looks around. "Five years should be enough if it could work, isn't it? But Cas is still not here. Guess it says a lot by itself."
+
+"Maybe it needs ten years, or longer." Dean pops up not far from them, leaning in the doorframe. ghosting shape blinks for a second before stabilizing into his shape. "You ever heard of that shepherd's boy's story? The bird that sharpens its beak on the diamond mountain every hundred years?"
+
+"Hello, Dean." Jack turns to him, smiling a little. Dean nods at him.
+
+"But you won't stay as a ghost for five more years and still in your own mind, Dean! You wouldn't even remember your own name, who you are, what you have been through." Sam rushes desperately.
+
+"But I'd still remember the one thing that keeps me here." Dean states calmly. "That I have to bring Cas home."
+
+Sam gives a raspy breathing out, turning back to Jack. "Jack, please, he wouldn't listen to me, maybe he'll listen to you."
+
+Jack focuses on Dean's shape, only the tiniest twitch on his face showing it's not as stoic as he was trying to maintain. "Do you really think you can bring Cas back? Do this one thing I can't do?"
+
+Dean meets the kid's eyes, finding it as earnest as he'd found back when he was indeed just a new-born looking for his father, the very raw and bare look of a son. Dean can't help swallowing.
+
+"Yes," he tells him. "At least I will try really really hard, because like you said, we all want him back really really badly."
+
+"Okay then," Jack nods and smiles, turning back to Sam. "I think it's okay then."
+
+The kid wants Cas back probably just as strong as Dean, no wonder. Sam only then realizes that, and more than ever realizes the fact the new God is actually just Jack, a three-year kid that loves Castiel like his father.
+
+Jack flies away after the dinner, after hanging around for a moment to help the dishes and feed the dog.
+
+Dean pops out as well, shortly after.
+
+<br>
+
+Ghosts can't drive cars, not exactly -- except for that one time a ghost decides to *possess* the Baby, that was unforgivable. So hanging out in the Impala is not an option anymore.
+
+But popping in and out can do the trick too, Dean decides. Not as accurate, and it exhausts him to the extent that he would fade from behind the vail by so long that he almost forgets about what he was doing. But still, it's the closest thing he ever get that is remotely similar to having an angel's wing or just, know how to teleport. He gets excited at the idea.
+
+The very first place he pops to is the graveyard he dragged himself out from the soil and ground, bones and metals blasted away from the central explosion point -- the place where he climbs out from the under.
+
+That land is still deserted, the yard
+
+
 
 ### Act 4
 
