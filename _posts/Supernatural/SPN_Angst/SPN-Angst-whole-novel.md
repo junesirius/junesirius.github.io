@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 【Destiel】Rock Beats Scissor, Leviathan Beats Angel
+title: 【Destiel】Red and Black
 date: 2025-02-10
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
 tags: ["Supernatural", "destiel", "英文"]
 pov: 第三人称
 origin: 2025 Destiel Angst Bang
-long_novels: 【Destiel】Rock Beats Scissor, Leviathan Beats Angel
+long_novels: 【Destiel】Red and Black
 published: false
 ---
 
