@@ -1948,4 +1948,50 @@ Cas smites Bel/Jack's body, has to continue use the horn to suck all souls into 
 
 Cas uses the power to go against Chuck & Billie
 
-### 228.
+### 228.【all/destiel】精分丁
+
+（inspired by 《My Bloody Valentine》）
+
+case fic? witch's spell?
+
+Dean hallucinate some killer/monster in town, insist on hunting; the others can't see but there are deaths/missing people in town, they investigate
+
+truth is it's Dean killing/abducting people but he doesn't know, it's witch's spell
+
+they caught Dean in camera/in action, can't snap him out of it, worry it's demon possession or demon!Dean or Mark of Cain!Dean, worry they'll have to kill him
+
+they find the witch/proof of there is a witch, hunt them down, snap Dean out of it, save him and others (in some cave/underground/abandoned house, alive)
+
+### 229.【destiel】S15E20 souls been to Hell can't go to Heaven
+
+souls went to hell can't go to heaven -> 1520 after Dean's death, he thought he's in heaven but actually it's Hell's private room Rowena gave him (the best they can offer given the situation)
+
+he saw Bobby, Sam, Cas in his "heaven", seems normal at first, but realize something wrong/off in this world later (not exactly like a dream but not like them either, something OOC in Bobby/Sam/others?), leave the private room, go out, see it's actually Hell. demons don't hurt him, he meets Rowena, who tells him truth
+
+Rowena: Your boy Jack tried, but rule is rule, it's natural cosmic rule, not even Jack can break it
+
+Dean: Bobby gets out, my dad too
+
+Rowena: Chuck kill universe for fun, can't really use that as a reference, don't you think?
+
+Dean: So the Bobby and Sam I saw in there?
+
+Rowena: Some of my best actors I put in there
+
+Dean: Cas too?
+
+Rowena: Oh that one, he just can't take a no to drop by (Rowena's all knowing smile/wink.gif)
+
+Cas comes out of that Hell's private room to meet him
+
+Cas: Sorry Dean, I can't bring you to Heaven
+
+Dean: Yeah I heard, if Jack can't do anything, figured you can't either, but why come inside
+
+Cas: Can't leave you there alone with the demons, can I?
+
+Rowena: I'll leave you two to it then (extract all other demons out)
+
+Dean: Looks like it's just you and me now
+
+### 230.
