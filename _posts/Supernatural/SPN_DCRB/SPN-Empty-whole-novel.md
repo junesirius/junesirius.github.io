@@ -35,6 +35,26 @@ Jack/米：（也震惊）所以你什么都没有给他？那他怎么……？
 
 1323丁想要的退休海边生活他说过这是他earn的但是从来没得到过，也许可以作为这里的结局
 
+### Edit notes
+
+(overall) restrain "think" V.O., more descriptive scenes, "show it, don't tell it", less adj., more n./v.
+
+(Act 2-3) make Cas's pain more descriptive/detailed, not just generalize as "pain and torture"
+
+(Act 2-3) make Dean's motive to be ghost stronger:
+
+Dean ask Death if he can toss him to Empty bc Billie threatened to do so once
+
+Death: Billie. I can see why Billie would say that. Tempting, isn't it? Funny how threat could turn into a last hope. But that's what it is, threat.
+
+Death: Especially after Heaven. You will have peace, trouble like this will leave you.
+
+Dean: I'll forget about Cas?
+
+Death: In time, yes.
+
+(Dean decides not go)
+
 ## Main
 
 ### Act 0
@@ -143,7 +163,7 @@ The kid -- that is barely three years old and practically knows nothing about ho
 
 How indeed.
 
-Dean turns around, can't bare their eyes one more seconds. Can't bare the thoughts crawling inside himself one more seconds.
+His stomach roils and lurches. Dean turns around, can't bare their eyes one more seconds. Can't bare the thoughts crawling inside himself one more seconds.
 
 *Cas doesn't deserve this. He doesn't deserve Cas's...*
 
@@ -337,7 +357,7 @@ He chews his own word, considering, saying it again. "I'm already happy enough, 
 
 "We got ourselves a shapeshifter case today. I hate him so much. He read my mind and... and... and he turned into you. Sammy had to take him down because I couldn't. I'm sorry, Cas. I know he's not you, but... it's been so long. I still can't. I'm sorry... I..."
 
-"Sam doesn't know why we had a birthday cake for dinner today, and I ordered extra champagne -- I drank your share by the way, it's top shelf stuff. I just realized, with everything going on, we never get chance to decide a birthday or something for you. So, if no objection from you, I think I'll take the liberty and announce today your birthday. It's September 18th, Cas. You don't think I'd forget the time we first met, do you? Man, did I ever tell you that day when you walking in, Jesus, you are just... poof... you know. The light, the sound, the wind, it's crazy. It's... it's kinda awesome, I ever told you that? Sorry, getting bubbly now, probably too much of that... umm... I'll get another, I'll just --"
+"Sam doesn't know why we had a birthday cake for dinner today, and I ordered extra champagne -- I drank your share by the way, it's top shelf stuff. I just realized, with everything going on, we never get chance to decide a birthday or something for you. So, if no objection from you, I think I'll take the liberty and announce today your birthday. It's September 18th, Cas. You don't think I'd forget the time we first met, do you? Man, did I ever tell you that day when you walking in, Jesus, you are just... poof... you know. The light, the sound, the wind, it's crazy. It's... it's kinda awesome, I ever told you that? Sorry, rambling now, probably too much of that... umm... I'll get another, I'll just --"
 
 "Cas, I think there is no more angel or heaven or Empty-related book I haven't read in the world. Sam helped too, but I read them all, just to be sure. So is all the magic and lore and people with power we can seek help from, but... there is nothing. I can't believe it, there is just nothing about how to bring you back. But I'll keep trying, alright? I swear, if this is the only thing I'll do before light out, I'll do it right and bring you back."
 
