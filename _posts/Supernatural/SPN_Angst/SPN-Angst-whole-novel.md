@@ -33,7 +33,7 @@ There are bodies without head all the way from the stairs leading to the main ha
 
 Sam glances that the separated heads rolling around on the floor, seeing fangs with dripping blood. None of them move an inch anymore.
 
-Samuel sees the same, catching his grandson's eyes, nodding at the only entrance towards the larger opening. Both of them walking fast and quiet, trained hunter steps. With machetes tight in hands, just in case.
+Samuel sees the same, catching his grandson's eyes, nodding at the only entrance towards the larger opening. Both of them walking fast and quiet, trained hunter steps. With machetes tight in hands, dead man's blood in the back pocket, just in case.
 
 The place is quiet. Too quiet. Even their silent footsteps might become the source of an echo.
 
@@ -45,19 +45,19 @@ Dean is covered in blood, his own or others they do not know. The bigger vampire
 
 Sam hesitates. Samuel eyes him.
 
-"Don't want to hurt Dean." Sam says, not moving ahead, not helping.
+"Don't want to hurt Dean." Sam whispers, not moving ahead, not throwing himself into the vampire fight.
 
-Dean gets wrestled and tripped by the other vampire, legs entangled, can't move easily. He's apparently so much stronger than he is. And by the look of fighting, six hundred years of living isn't teaching him nothing.
+Dean gets wrestled and tripped by the other vampire, legs entangled, can't move easily. That monster is so much stronger than he is. And by the look of fighting, several hundred years of living isn't teaching him nothing.
 
 Dean can't breathe, fingers fumbling on the face of the bigger man, scratching his eye socket, leaving bloody fingernail marks, but the other man does not move away. Dean's movement gets slacker, arms slumping to the ground.
 
-The other vampire lets the grip loose, Sam catches the break and marches forward, but he's two steps too far away when the vampire dives to the silver knife Dean left behind, cuts his head off in clean move. Sam's machete slides through his throat right in the next second.
+The other vampire lets the grip loose, Sam catches the break and marches forward, but he's still two steps too far away when the vampire dives to the silver knife Dean left behind, cuts his head off in clean move. Sam's machete slides through his throat right in the next second.
 
-Two heads roll away from their bodies, blood spilling everywhere.
+Two heads roll away from their bodies, blood spilling everywhere, mostly on Sam's face.
 
 Sam flinches, staring at his brother's head, gasping loud. "Dean!"
 
-Dean's eyes are still wide open, green, reflecting the colors on the reflective carving glass over head. And then the lights go out. The fangs still out, ugly, covering his own teeth.
+Dean's eyes are still wide open, green, reflecting the colors on the reflective carving glass on the high ceiling. And then the lights go out. The fangs still out, ugly, covering his own teeth.
 
 "Oh my God!" Sam kneels down by his brother's body, hands on his shoulder, inhaling heavily.
 
@@ -73,9 +73,9 @@ He burns his brother's body on a pyre. And then drives away in his car.
 
 The town is left behind in the rear mirror.
 
-Soon, the whole Illinois is left behind miles away.
+Soon, the whole state of Illinois is left behind miles away.
 
-The vampire nest was set to fire before they left. Any other bodies or signs of life burn to the ashes.
+The vampire nest was set to fire before they left. Any other bodies or signs of life burned to the ashes.
 
 <br>
 
@@ -83,23 +83,25 @@ Dean wakes up in a gasp, touching his neck reflectively. The skin on the neck co
 
 "What the hell?" He looks around. The sky grey, the trees all half dying around him. The whole place creeps him out, but the most creepy thing is, he seems still alive.
 
-He touches his upper gum. The fangs are still pointy there.
+He touches his upper gum. The fangs are still pointy there, mostly hidden, for now.
 
-"Okay? So not dying, but still a vamp." He says to himself, disgusted. Eyeing around again, his fingers fumbles on the back of his belt, but he can't find a weapon.
+"Okay? So not dead, but still a fucking vamp." He says to himself, disgusted. Eyeing around again, his fingers fumble to the back of his belt, but fail to find a weapon.
 
-Hunter's instinct kicks in just in time, his body moves before his ears catch the sound. Something jumps on him from the back, Dean rushes around, elbowing it in the face, arms wrapping its neck until it stops moving. Dean drops the body and recognizes the face of a young boy -- the young vampire body he sure as hell cuts the head off no more than few hours ago, before he somehow gets transmitted into this weird land.
+Hunter's instinct kicks in just in time, his body moves before his ears catch the sound. Something jumps on him from the back, Dean rushes around, elbowing it in the face, arms wrapping its neck until it stops moving. Dean drops the body and recognizes the face of a young boy -- the young vampire boy he sure as hell cuts the head off no more than a few hours ago, before he somehow gets transmitted into this weird land.
 
-"You're dead." Dean frowns at the motionless -- probably just temporarily passed out -- body, thinking aloud. Realization dawns on him. "Which means I'm dead too. God dammit!"
+"You're dead." Dean frowns at the motionless -- probably just passed out -- body, thinking aloud. Realization dawns on him. "Which means I'm dead too. God dammit!"
 
-Dean kicks on the trunk of a tree closest to him with all his force, frustratingly. "Fuck!"
+Dean kicks on the trunk of a tree closest to him with all his force, frustratedly. "Fuck!"
 
-He kicks again, as if it can make him feel better. "So what? This is some monsterland the dead vamp would go and I'm stuck here?"
+It's just a vampire case, very everyday job. He does not expect to check out just like that. Not today. But apparently he did.
+
+He kicks again, as if it can make him feel better. "So what? This is some monsterland the dead vamp would go and I'm stuck here forever?"
 
 No one answers his question, except for some more creatures lurking closer because of his noise.
 
 Looks like more than vampires then, Dean concludes, thinking he sees something that definitely look like a werewolf and another like wendigo. Every freaking monster he and his brother and every hunter has ever killed would be here then. And if they remember him in the whatever afterlife memory thing they still have, they sure as hell would be thrilled to see him hanging around with them. Dean realizes.
 
-That's when he picks a direction, and starts running into the creepy woods. The growls and howling of every kind of monsters sounding around him like the most dedicated freaky monster symphony.
+That's when he picks a direction, and starts running into the creepy woods. The growls and howling of every kind of monsters that ever existed sounding around him like the most dedicated freaky monster symphony.
 
 He has nothing but his hands and feet. And his fangs. Almost like a weird comfort now, come to think of it.
 
@@ -115,7 +117,7 @@ The case looks like an angelic weapon case. Sam tells him, people dying because 
 
 Cas flies away and back in two seconds. Nothing angelic in the town. He tells him.
 
-Sam makes a snort. "Where did you look?"
+Sam snorts. "Where did you look?"
 
 "Everywhere." Cas looks him in the eyes, then looks around. It's a single bed motel room, the bedsheet on the only bed unruffled. One duffel bag on the ground.
 
@@ -131,7 +133,7 @@ Cas opens his mouth, unbelievable, wetting his lips, but not saying anything. He
 
 "How?" His voice low and grave.
 
-"Vampires." Sam deadpans. "It's a vampire nest, we went in there too late, Dean killed most of them but got taken down by the largest one. I killed it."
+"Vampires." Sam deadpans. "It's a vampire nest, we went in there too late, Dean killed most of them but got taken down by the largest one. I killed it, after."
 
 "You let Dean go into a vampire nest all by himself? Without backup?" Cas turns around, furious.
 
@@ -151,13 +153,13 @@ Sam goes back to the case.
 
 <br>
 
-Heaven is heavily guarded, nowadays. By Raphael's troops and his loyalists. Cas's army is on the far periphery of the Heaven, still gathering around but far too few in number and in power. Going in the private chamber area where the souls are secured is no less than suicide mission. He goes anyway.
+Heaven is heavily guarded, nowadays. By Raphael's troops and his loyalists. Cas's army is on the far periphery of the Heaven, still gathering around but far too few in number and in power. Going into the private chamber area where the souls are secured is no less than suicide mission. He goes anyway.
 
 Sneaking into the white corridor reflected by too bright light from all four directions, he looks for the names on the doors. With everyone that has a last name "Winchester", he finds John and Mary, he finds Henry, their distant cousins from other branches, people not related but has the same last name. But there is no Dean. In all the human history with all the human named "Winchester", there is no "Dean" in the Heaven, born 1979, died 2010. Not in John and Mary's chamber, not anywhere.
 
 "What's the matter, lost your little human pet?" A patrol angel notices him, approaching. Raphael's man.
 
-Cas slides his Angel Blade into grip, ready to fight. The angel throws himself at him, young and unexperienced. Cas throws his blade out, right into his chest. The angel burst into bright light and lumps into nothing but a pile of vessel.
+Cas slides his angel blade into grip, ready to fight. The angel throws himself at him, young and unexperienced. Cas throws his blade out, right into his chest. The angel bursts into bright light and lumps into nothing but a pile of vessel.
 
 Cas sighs, eyeing the corridor that doesn't have the person he came looking for, picking up the Blade and rushing to the other side.
 
@@ -171,9 +173,9 @@ Crowley is not happy to see him, not at all, to say the least.
 
 "I need to find the Purgatory. NOW!" Cas sterns.
 
-"Great! That makes the two of us." Crowley makes his voice sounds cheerful. "Then why don't you go ahead with your whatever quest and bring me more Alphas, we'll figure that out soon."
+"Great! That makes the two of us." Crowley makes his voice sound cheerful. "Then why don't you go ahead with your whatever quest and bring me more Alphas, we'll figure that out soon."
 
-Castiel takes two steps ahead, right in front of Crowley, almost growling into his face. "You don't understand. Soon is not enough, I need it NOW!"
+Castiel takes two steps ahead, right in front of Crowley, almost nose to nose growling into his face. "You don't understand. Soon is not enough, I need it NOW!"
 
 Crowley eyes him. "What's the rush? Already the check-mate time upstairs?"
 
@@ -185,7 +187,7 @@ Cas shifts uneasily, moving further away, fluttering. "No."
 
 "My my, can't be one of them already gone there, can they?" Crowley makes an exaggerated tsk. "No wonder you can't wait a single second. Always too fond of those two you can't focus on anything now, are you?"
 
-Cas glares at him, snaps. "Yes! Dean's there! Okay? Satisfied?"
+Cas glares at him, snapping. "Yes! Dean's there! Okay? Satisfied?"
 
 The demon hums, almost does sound enjoying himself too much. "All the more reasons to poke around the Alphas, don't you think? Chop, chop, Feathers, don't want to make your boyfriend wait down there for too long."
 
@@ -205,23 +207,27 @@ Crowley puffs out a laugh. "Talking about motivations."
 >
 > Cas finds rogue reaper Ajay, tries to go purgatory as angel but fail to leviathans (Naomi: took a lot angels to fetch Cas)
 
-Dean is so tired. He doesn't know the days and months, there is no sun and moon, there is no time. There is just hunting and hunted, killing and killed. His mind blurred with the repetition of the same movement -- being attacked from all directions, individually or in group, then his body goes into autopilot mode to fight. He doesn't even need to think much about any movement, and given time, the monsters would all become a pile of flesh and blood in his feet. Sometimes even himself is surprised that he's the last one left standing. But call it survival instinct or whatever, he's fighting his way out.
+Dean is so tired. His body does not weary, but his mind is way too overloaded.
+
+He doesn't know the days and nights, there is no sun or moon, there is no time. There is just hunting and hunted, chasing and chased, killing and killed.
+
+His mind blurred with the repetition of the same movement -- being attacked from all directions, individually or in group, at once or in turn, then his body goes into autopilot mode to fight. He doesn't even need to think much about any movement, and given time, the monsters would all become a pile of flesh and blood by his feet. Sometimes even himself is surprised that he's the last one left standing. But call it survival instinct or whatever, he's fighting his way out.
 
 There must be a way out. Dean tells himself.
 
-If the past thirty years of living this life teaches him anything, it's the fact that any problem can have a solution. And now he has a problem -- stuck in this monsterland afterlife as a vampire, so he just got to find the solution to leave here and fix himself. And hopefully, fix Sam too.
+If the past thirty years of living this life teaches him anything, it's the fact that any problem can have a solution. And now he has a problem -- stuck in this monsterland afterlife as a vampire, so he just get to find the solution to leave here and fix himself. And hopefully, fix Sam too.
 
 The last glint of memory flashes by and he sees Sam's face twitching as he was bitten, and later, as he was being killed.
 
-And fix Cas too, now that he really think about it. There is something wrong with Cas too, without seeing him for almost a year, the things he said about not having the luxury of caring about torturing a kid, whatever angel civil war thing that is going on, they'll figure that out too, together. Once he's back.
+And fix Cas too, now that he really think about it. There is something wrong with Cas too, without seeing him for almost a year, the things he said about not having the luxury of caring about torturing a kid, or caring about anything, it seems. Whatever angel civil war thing that is going on, they'll figure that out too, together. Once he's back.
 
 God, so many problems.
 
-Dean waves the new bone blade he just grabbed from a dead vampire, feeling its weight in his hands. Having a real weapon gives him such a huge comfort.
+Dean waves the new bone blade he just grabbed from a dead vampire, feeling its weight in his hands, sensing some comfort for having a real weapon finally.
 
 "Okay," He tells himself. "One thing at a time then."
 
-He spots a stream at the edge of the wood, and starts following it moving downstream.
+He spots a stream at the edge of the woods, and starts following it, moving downstream.
 
 <br>
 
@@ -249,35 +255,37 @@ The man has a strong built, decent suits and outfits, at the first sight he can 
 
 But Cas's patience is wearing out fast. He takes a few steps closer. "Would you believe if I say it's actually to save a friend? Who gets turned into one of you?"
 
-The thought of Dean being a vampire hurts just as much as knowing he's in the Purgatory. Cas thinks, almost winces by just thinking it, but it doesn't show. He shuts that train of thoughts off. They'll figure that out later, once he find the entrance and find him.
+The thought of Dean being a vampire hurts just as much as knowing he's in the Purgatory. Cas thinks, almost winces by just thinking it, but he makes sure it doesn't show. He shuts that train of thoughts off. They'll figure that out later, once he finds the place and finds him.
 
-"Dean Winchester, is it?" The Alpha studies his face. Cas maintains his expression straight, even if there is any uneasiness of being scrutinized, he does not show.
+"Dean Winchester, is it?" The Alpha studies his face. Cas maintains his expression straight, even if there is any uneasiness of being scrutinized, he makes them blank.
 
 "So you know him." He says as an answer.
 
-"Not just know him, I see through his mind as he see through mine." The vampire states it factually.
+"Not just know him, I see through his mind as he sees through mine." The vampire states it factually.
 
 That makes Cas squints. He tilts his head. "What do you mean?"
 
-The Alpha Vampire smiles. "Our minds, think of it as a hive. I can feel all of my children, no matter where they are, and they can feel mine. So when Dean was one of us, he did too."
+The Alpha Vampire smiles. "Our minds, think of it as a hive. I can feel all of my children, no matter where they are, and they can feel mine. So when Dean was one of us, he was no exception."
 
 "Was?" Cas can't help noticing.
 
 "Purgatory isn't exactly the signal cover zone, you may say."
 
-Cas swallows, pushing down hard at the thoughts that Dean might be dead even in the afterlife, pushing away the pondering of where he would go next. He raises the Angel Blade higher, more menacingly. "Do you know how to get there?"
+Cas swallows, pushing down hard at the thoughts that Dean might be dead that's why the connection breaks, dead even in the afterlife, pushing away the pondering of where he would go next. He doesn't have time for this twisting and sick feeling curling low in his stomach now. He pushes them all down to the bottom.
 
-"I do." The vampire says, unshifted by the look in Cas's eyes or his blade, knowing far too well about the negotiation and leverage.
+Cas raises the angel blade higher, more menacingly. "Do you know how to get there?"
 
-"And?" Cas tries hard not to swallow again but fails.
+"I might." The vampire says, unshifted by the look in Cas's eyes or his blade, knowing far too well about how negotiation or leverage usually work.
 
-"And while I can't take you there personally, I know someone who can." The vampire looks at him in the eyes, grinning wider. "Now, shall we talk terms?"
+"And?" Cas tries hard not to sound too desperate but fails.
+
+"And while I can't take you there personally, I know someone who can. It's no problem." The vampire looks at him in the eyes, grinning wider. "Now, shall we talk terms?"
 
 It is not a good deal, technically. Cas knows it far too clear, so does the Alpha Vampire. But he gets what needs, so he gives the monster what he asks too -- not to hurt any other vampires like he did before, to exchange for a name that hopefully is a real deal and knows the pathway to the Purgatory.
 
 Cas gives him his words. "But I can't promise other hunters would do the same, the vampires would still get killed."
 
-The Alpha shrugs. "A few of you kill some of us, some of us feed on a few of you, that's called balance. Only what you were doing, wiping out the board to get to me, that's something I can't allow. I have to protect my children, that you must understand."
+The Alpha shrugs. "A few of you kill some of us, some of my children feed on a few of humans, that's called balance. That's nature. Only what you were doing, wiping out the board to get to me, that's something I can't allow. I have to protect my children, that you must understand."
 
 Cas nods at that.
 
@@ -295,9 +303,9 @@ The man looks at him. "You know my name."
 
 "What, you want a ride?" Ajay glances back, hinting at the "taxi" sign on top of the vehicle.
 
-"A ride, yes, but going down." Cas says. "To Purgatory. I know reapers have way, and rogue ones do that for a profit like you."
+"A ride, yes, but going down." Cas says. "To Purgatory. I know reapers have way, and rogue ones do that for a profit. Like you."
 
-Ajay walks out of the car, looking him up and down. "And why would an angel want to go to the Purgatory?"
+Ajay steps out of the car, looking him up and down. "And why would an angel want to go to the Purgatory?"
 
 "That is my business." Cas states, blankly.
 
@@ -319,7 +327,7 @@ It's not a large vial, to be honest, but still, losing grace -- trading it -- is
 
 But Dean is waiting. Cas's mental image shifts. Dean has been in the Purgatory for so long, and if he doesn't get to him soon, if he's too late then... the death in the afterlife, would that mean forever gone?
 
-Cas grabs the vial and uses the Angel Blade to cut his left forearm. The sparkling light of grace flow out of the wound, filling into the small glass container. Cas's human body inhales in the pain from the cut. He covers the wound with the other palm, the wound is healed when he removes the palm, but the loss of grace still makes him feel weaker, as if legs can't exactly hold his whole body's weight or the head is too heavy.
+Cas grabs the vial and uses the angel blade to cut his left forearm. The sparkling light of grace flow out of the wound, filling into the small glass container. Cas's human body inhales in the pain from the cut. He covers the wound with the other palm, the wound is healed when he removes the palm, but the loss of grace still makes him stumble slightly, as if the legs can't exactly hold his whole body's weight for a moment, or the head becomes too heavy and dizzy.
 
 He hands the vial back, ignoring the uncomfortable feeling.
 
@@ -329,19 +337,19 @@ He hands the vial back, ignoring the uncomfortable feeling.
 
 The end of stream leads to an opening. The woods are sparse. The water looks clean.
 
-Dean drops to his knees to scoop up some of the clear liquid to drink. The coolness washes down the dirt in his gullet, he breathes easier. He washes his face too, but doesn't bother cleaning all the other blood stains on his cloth or skin.
+Dean drops to his knees to scoop up some of the clear liquid to drink. The coolness washes down the dirt in his gullet, he breathes easier. He washes his face and hands too, but doesn't bother cleaning all the other blood stains on his cloth or skin.
 
-In the reflection, Dean sees a face he can barely realize, with the stubble covering his jaw, the black circle around his eyes, and the fangs, the ugly uneven fangs pointing out, visible whenever he opens the mouth, refusing to contract however hard he demands his body to. Dean claps on the surface to break the image, to not have to look at that face again.
+In the reflection, Dean sees a face he can barely recognize, with the stubble covering his jaw, the dark bag around his eyes, bruises and cuts here and there. And the fangs, the ugly uneven fangs pointing out, visible whenever he opens the mouth, refusing to contract however hard he demands his body to. Dean claps on the surface to break the image, to not have to look at that face again.
 
-He leaves the water side, heading towards the middle of the opening where, according to some of the old creatures he killed earlier, there would sometimes be some disturbance of air flow, no one in here knows where the stir comes from, but if they have to guess, this is where the vail is the weakest.
+He leaves the water side, heading towards the middle of the opening where, according to some of the old creatures he killed earlier, there would sometimes be some disturbance of air flow, no one in here knows where the stir comes from, but if Dean has to guess, this is where the vail is the weakest.
 
 If long shot is all he can get then Dean would take it. He walks towards the said position. Waving his blade at the nothingness in the air, observing, thinking, waiting. The air is unmoved, but his gut is giving him a drag, hair on the back of his head straighten up, expecting something or someone approaching.
 
-Dean stares at the middle of the ground hard, blade in hand, counting his own bumping heart. Waiting.
+Dean stares at the middle of the ground hard, blade in hand, counting his own bumping heartbeat. Waiting.
 
 <br>
 
-The back alley where the taxi is parked is connected right to a small opening surrounded by four painted walls. The drawings are wild and over colorful, dizzying and frantic. Looking at them for too long might make one's head ache if they are human. Cas looks at them and then looks away.
+The back alley where the taxi is parked is connected right to a small opening surrounded by four painted walls. The drawings are wild and over colorful, dizzying and frantic. Looking at them for too long might make one's head ache if they are human. Cas looks at them for a moment and then looks away.
 
 "You'll have thirty minutes. I'll see you where I drop you. Don't miss the ride, alright?" Ajay gives him a sly grin, starting the ritual without waiting for an answer.
 
@@ -351,7 +359,7 @@ The next blink, the surrounding shifts. The walls and streets disappear into ble
 
 It's not really in the distance.
 
-Black smoke dropping to the grounds around him like crashing comets. Creatures with no face but all teeth surround him and the circle is shrinking.
+Black smoke dropping to the ground around him like debris of an asteroid crashing onto a planet. Creatures with no face but all teeth emerges from the smoke, surrounding him and shrinking the circle.
 
 "What?--" That is the only syllable Cas can make before the attacking begins.
 
@@ -359,11 +367,11 @@ They are fast, and strong. So strong even as an angel he can't compete their str
 
 "We are Leviathans." One of them enjoy too much in its feast on him they actually bother answering his question.
 
-Castiel gasps in disbelief. The prebiblical monster that would devour every living thing that ever exists, devour the whole planet and world if given the chance, God has to create the whole Purgatory to lock them away, and now, he's in the middle of their dinner table.
+Castiel gasps in disbelief. The prebiblical monster that would devour every living thing that ever exists, devour the whole planet and world if given the chance, God has to create the whole Purgatory to lock them away. He has heard of them like a story baby angels would heard from guardian angels as a bedside story. And now, he's in the middle of their dinner table.
 
 For a split of second, Cas thinks this might be his way of dying -- his true and final death. Becoming shared food of the Leviathans, without having a chance of finding Dean or saving him from this place. His internal twists. Cas focuses all his attention on the scrape of grace he still have left, trying -- thinking -- about exploding himself one last time just to get rid of these filthy creatures that live in the same dimension as Dean. That is when he feels the grips and teeth on his body loosens.
 
-Flashes of metal blade shines in front him, the teethy head flying up before dropping to the ground, rolling a few steps.
+Flashes of a blade shines in front him, the teethy head flying up before dropping to the ground, rolling a few steps away, leaving black liquid mark in its trace.
 
 Castiel drags himself up, looking at the figure fighting the creatures that are now starting to surround --
 
@@ -371,17 +379,17 @@ Castiel drags himself up, looking at the figure fighting the creatures that are 
 
 "Cas?" Dean answers automatically, looking in his direction, over joyfully, eyes sparkling.
 
-But just that blinks of distraction, the Leviathan he was fighting with gets the jump on him, the three layers of teeth opening up, angling itself to bite on Dean's shoulder. Dean is pinned to the ground, immobilized.
+But just that blinks of distraction leaves enough of a fatal gap, the Leviathan he was fighting with gets the jump on him, the three layers of teeth opening up, angling itself to bite on Dean's shoulder. Dean is pinned to the ground, immobilized.
 
-"NO!!" Castiel rages, eyes blaring bright. "Close your eyes!" He manages to shout at the last moment, can't see if Dean gets cover or not, pouring his power onto that Leviathan that is going to hurt Dean. Castiel can't think or see anything else.
+"NO!!" Castiel rages, eyes blaring bright. "Close your eyes!" He manages to shout at the last moment, can't see if Dean has covered his eyes or not, pouring his power onto that Leviathan that is going to hurt Dean. Castiel can't think or see anything else.
 
 When the light is out, Dean pants. The Leviathans are still there, even more than before. The one baring Cas's angelic power backs off a few steps, but it doesn't seem to hurt, not fatally anyway. It widens the ugly mouth, laughing. It's voice as sharp as its teeth, and it says, smirkingly, "Rock beats scissor, Leviathans beat angel."
 
-There is no way they can win them, no way to even get a head start to get away from them long enough to get back to the ride Ajay promised.
+There is no way they can win them, no way to even get a head start to run away from them long enough to reach back to the ride the rogue reaper promised.
 
 "Dean!" Cas is desperate, don't even have time to check if Dean is hurt. His vision blocked by more apparently irritated Leviathans attracted from the light show. There is no way he can make it out alive, but Dean, if Dean can make it to the rendezvous point, then maybe --
 
-"Dean! You have to go! I'll distract them! The -- the ride is coming soon --" The attacks already start again, the angel blade is doing very little, more teeth and black goos sinking into his flesh and bones, he screams in his true voice.
+"Dean! You have to go! I'll distract them! The -- the ride is coming soon --" The attacks already restart, the angel blade is doing very little, more teeth and black goo sinking into his flesh and bones, he screams in his true voice.
 
 <br>
 
@@ -393,35 +401,41 @@ Cutting his way through the surrounding circle, he sees Cas. Being tearing apart
 
 Cas.
 
-For that blink of time, emotions pour into him so quick Dean's almost dizzy with feelings, his steps pause for the briefest instant, then immediately aiming the blade towards the closest uglyass.
+For that blink of time, emotions pour into him so quick Dean's almost dizzy with feelings, his steps stumble for the briefest instant, then immediately aiming the blade towards the closest uglyass thing.
 
-Adrenaline pumping in his temple, blade raising, head falling, it almost becomes mechanic.
+Adrenaline pumping in his temple, blade raising and falling, heads falling, black blood spluttering, it almost becomes mechanic.
 
-"Cas." Dean breathes out the name, looking him up and down, overturned by the joy of seeing him. But there is no time for catching up, no time for a single words to say how extremely brightened up he is to see him, but also how pissed he is that these uglyass things seem only appear when he appears and now they seem to be in a bigger trouble than handling wolves and vamps.
+"Cas." Dean breathes out the name, looking him up and down, overturned by the joy of seeing him. But there is no time for catching up, no time for a single word to say how extremely brightened up he is to see him, but also how pissed he is that these uglyass things seem only appear when he appears and now they seem to be in a bigger trouble than handling wolves and vamps.
 
-When he is pinned to the ground, watching the black goos dripping onto his face and teeth of the monster ready to take a bite on him, with the last bit of strength, Dean throws the last glimpse at Cas, who actually seem okay. Despite the new wounds and cuts on the limbs and body, he straightens up and walks over, looking alive and concerned. Cas is okay. Dean tries to pull a smile at him, only to see his eyes filled with the familiar bright color. He shuts his eyes off. The pressure on top of him releases.
+When he is pinned to the ground, watching the black goo dripping onto his face and teeth of the monster ready to take a bite on him, with the last bit of strength, Dean throws the last glimpse at Cas, who actually seems okay and meets him in the eyes. Despite the new wounds and cuts on the face and body, he can still straighten up and walk over, looking alive and concerned. Cas is okay. Dean tries to pull a smile at him, only to see his eyes filled with the familiar bright color. He shuts his eyes off. The pressure on top of him releases.
 
-But it is not over. The monsters back away, but they do not leave. Immune to angel power even, if he has to guess. They took the hit as if a stone throw on their heads.
+But it is not over. The monsters back away, but they do not leave. Immune to angel power even, if he has to guess. They took the hit like a bear to a rock thrown onto its head.
 
 Circling around them only to look for the next opportunity to attack. There is no way the both of them can get out of here alive. And he's not going to let Cas "be the distraction" as he said.
 
-The air in the opening brightens up not too far away from them. Or the full circle of the Leviathan thing.
+The air in the opening brightens up not too far away from them. Even closer to the full circle of the Leviathans.
 
 "Dean! You HAVE to go now!" Cas's voice is mixed with the shrieking high pitch of unrecognizable frequency and human words.
 
 "I'm not leaving without you!" Dean shouts back, fighting his way towards the angel.
 
-The blade cuts through the monsters, leaving the one that still having its teeth in Cas's leg but the body falls sideways.
+The blade cuts through the monsters, leaving bodies tumbling around them. The one that still has its teeth on Cas's leg, Dean makes sure it gets chopped into even smaller pieces, kicking its body far sideways.
 
-"Come on!" He drags Cas up, holding his arms on his shoulder, rushing towards the lit exit.
+"Come on! I got you!" He drags Cas up, holding his arms on his shoulder, rushing towards the lighted exit.
 
-And then he stumbles, feeling the pull on his leg, a monster is dragging him back. Dean loses balance and drops to the ground, but they're so close now. Within two steps to the exit at most, he shoves Cas forward.
+And then he stumbles, feeling the pull on his own legs, a monster is dragging him back. Dean loses balance and drops to the ground, but they're so close now. Within two steps to the exit at most, he shoves Cas forward.
 
-"No, Dean!" That is last of Cas's voice he catches before the lights are out. No more exits.
+"You go ahead and you take care of Sammy for me." He yells.
+
+"No, Dean!" That is the last of Cas's voice he catches before the lights are out. No more exits.
 
 He lets out a long breath. At least one of them are out.
 
-Turning back to the monsters on his tails, Dean raises his long sharp bone blade. "Game time?"
+Turning over to face the monsters on his tail, Dean raises his bone blade that is as long and sharp as their teeth.
+
+Dean creeps a smile. "Game time?"
+
+<br>
 
 ### Chap. 2
 
