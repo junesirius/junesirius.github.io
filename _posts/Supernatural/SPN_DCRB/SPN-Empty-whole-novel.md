@@ -55,6 +55,8 @@ Death: In time, yes.
 
 (Dean decides not go)
 
+(name ref:) change some of "the Empty" to "the Shadow"
+
 ## Main
 
 ### Act 0
