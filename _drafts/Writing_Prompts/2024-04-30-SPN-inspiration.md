@@ -1994,4 +1994,20 @@ Rowena: I'll leave you two to it then (extract all other demons out)
 
 Dean: Looks like it's just you and me now
 
-### 230.
+### 230.【Cas中心/destiel】天启世界黑卡勒维坦化
+
+在天启世界的正式天启期间那个世界的黑卡接了米迦的指示去打开炼狱，想借用炼狱力量打路西，结果卡把勒维坦都吞了以后自己能量大爆发升级成帝卡，直接把天启打成三方阵营，或者直接一己之力同时炸掉米迦和路西，把整个宇宙变成帝卡宇宙，或者米迦和路西不得不联手来打帝卡，温双进来的时候黑卡正在一打二状态。
+
+米迦/路西：The bitch went crazy.
+
+路西：He's your man, you solve your mess.
+
+米迦：I sent him because of you! If it's not for you fighting so hard --
+
+路西：What? So you're making it my problem now?
+
+（一不小心就会掺一些米路，但是主要还是卡中心）
+
+（卡疯起来就没他俩什么事了）
+
+### 231.
