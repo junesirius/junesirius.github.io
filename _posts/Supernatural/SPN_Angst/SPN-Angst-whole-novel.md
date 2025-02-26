@@ -13,7 +13,7 @@ published: false
 
 [TOC]
 
-(tag: S06E05, canon divergent, angst, vampire Dean, (almost) leviathan Cas, soulless Sam, graphic depiction of violence, purgatory, temporary main character death, bloody and ugly, suicidal Cas, morally ambiguous Cas)
+(tag: S06E05, canon divergent, angst, vampire Dean, (almost) leviathan Cas, soulless Sam, graphic depiction of violence, purgatory, temporary main character death, bloody and ugly, a lot of blood, suicidal Cas, morally ambiguous Cas)
 
 ## Draft
 
@@ -581,23 +581,41 @@ Bobby turns the stare to him, unbelievable. "Great, that makes me the weird one 
 
 He leaves the room, heading for the kitchen, probably.
 
-Cas eyes Sam, "You actually think it's a good plan?"
+<br>
 
-"Yeah, why not? I mean, like you said, anything to get Dean back, right?"
+The three main ingredients on the list: demon blood, monster blood, and unholy man's blood -- the mixed blood that is so blasphemous that can turn an angel to a monster.
 
-"Even the ingredients, it doesn't bother you?"
+Cas goes to fetch demon blood and monster blood, Sam says he'd take care of the last one.
 
-The three main ingredients on the list: demon blood, unholy man's blood, and monster blood -- the mixed blood that is so blasphemous that can turn an angel to a monster.
+They meet back at Bobby's in a few hours, each have jars of blood in hands. Bobby eyes them, both more bloodier than before heading out.
 
-"You mean to ask if killing some dirty creatures would bother me?"
+"Do I even want to know how did you get that human blood?" Bobby glances at Sam but looks away shortly.
 
-"The unholy man is still a human, isn't it?"
+"Probably not." Sam says, too easily.
 
-Sam thinks for a second, like he's actually thinking about, visualizing killing a man, and then, "Not really, no, actually."
+Cas frowns. "Did you kill a man?"
 
-Cas pauses, looking into Sam, nailing deep into him, thinking, examining, searching.
+Sam just hands him the jar. "Like I said, you probably don't want to know."
 
-*You go ahead and you take care of Sammy for me.* It's not like these are Dean's last words or anything, he has to remind himself, Dean's not dead, he's just... in another place. But those words still get branded into his brain. And Dean asks him to take care of his little brother.
+"But I do, Sam." *You go ahead and you take care of Sammy for me.* Cas closes his eyes for a brief moment, opens it again, looking at Sam in his eyes. "Who is it?"
+
+"Some priest in the jail, I don't know, sexual assault or something, figured that should be unholy enough." Sam breaks the look, walking further away, sitting down on the couch. "There, happy?"
+
+"No." Cas follows him, frowning deeper. "What happened to you?"
+
+"I don't know! I swear to God if anyone ask me that again I'm gonna punch them in the face." Sam gnaws.
+
+*You go ahead and you take care of Sammy for me.* These are not Dean's last words, Castiel has to remind himself, Dean's not dead, he's just... in a different place. But still, it does feel deeply utterly like some will.
+
+Cas swallows. If Dean's here, he'd want him figuring out what's wrong with Sam and help him. Take care of him like Dean would.
+
+"I'm doing this for Dean." Castiel tells him, right before he poking an arm into Sam's chest, searching for a soul, but only find a vast blank cavity where the soul should be.
+
+Sam screams in agony, Cas has to shove down the feeling again, some ponderings of if it is his fault, some impressions of it is a problem that he needs to fix. He stops that train of thought again, redirecting them back to the bleak trees and sky and Dean running in between, blade in hands, Leviathans not far behind.
+
+One problem at a time.
+
+
 
 
 
