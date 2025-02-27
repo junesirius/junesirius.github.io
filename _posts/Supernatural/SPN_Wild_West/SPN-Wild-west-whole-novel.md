@@ -555,7 +555,7 @@ The thought makes his heart thumps hard.
 
 Did he lose all the grace just coming for them? How's he gonna take the boys home now?
 
-Disregardless of still answerless to any of his questions, his feet land on the solid ground again. Castiel tumbles ahead, dropping on his all fours, spitting blood onto the sandy ground in front of him. The view is swimming, the ground is  floating up and down as if he's being washed away by the tide. He has to focus very hard to not let the cold, shaky limbs give way here and now.
+Disregardless of still answerless to any of his questions, his feet land on the solid ground again. Castiel tumbles ahead, dropping on his all fours, spitting blood onto the sandy ground in front of him. The view is swimming, the ground is floating up and down as if he's being washed away by the tide. He has to focus very hard to not let the cold, shaky limbs give way here and now.
 
 Wind blows, the sand rises around him. The vessel coughs, more blood dripping, not just from his mouth.
 
