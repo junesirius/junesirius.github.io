@@ -13,7 +13,7 @@ published: false
 
 [TOC]
 
-(tag: S06E05, canon divergent, angst, extremely angst, vampire Dean, leviathan Cas, monster Cas, soulless Sam, graphic depiction of violence, purgatory, temporary main character death, bloody and ugly, a lot of blood, a lot of pain, suicidal Cas, morally ambiguous Cas, morally ambiguous Sam, beheading, body horror, grotesque)
+(tag: S06E05, canon divergent, angst, extremely angst, vampire Dean, leviathan Cas, monster Cas, god Cas, soulless Sam, graphic depiction of violence, purgatory, temporary main character death, bloody and ugly, a lot of blood, a lot of pain, suicidal Cas, morally ambiguous Cas, morally ambiguous Sam, beheading, body horror, grotesque)
 
 (warning: graphic depiction of violence, main character death)
 
@@ -579,9 +579,9 @@ At that, Cas looks up. "Well, technically, I do. It would turn me into a monster
 
 Cas stares back. "I don't know! I don't know what Dean would want because he's not here! Why don't you let me do this so I can ask him myself?"
 
-Bobby snaps with more exhaustion. "How on earth did Winchesters get that issue infected to you too? Just can't wait to sacrifice yourself for one another, you're just like their third brother now, you know that?"
+Bobby snaps with more exhaustion. "How on earth did the Winchesters get that issue infected to you too? Just can't wait to sacrifice yourself for one another, you're just like their third brother now, you know that?"
 
-Cas looks down at their hands. "I have to." is all he says.
+Cas looks down at his hands. "I have to." is all he says.
 
 Bobby loosens the grip, turning back to Sam. "You want to help me out there?"
 
@@ -657,7 +657,7 @@ And then the shape changes, the dark crimson color of blood crawls from his back
 
 The screaming and yelling of pain dies down slowly, the sound pitch grow lower, less like human voice, more like wounded monster moaning in pained growl.
 
-As the wings fold and twist, they no longer hold the weight of the body. Castiel crashes back down, landing on all fours. Claws and scales grow from fingers and skins. A mixed shape of a hundred different wild animals but no name for what Castiel looks like now.
+As the wings fold and twist, they no longer hold the weight of the body. Castiel crashes back down, landing on all fours. Claws and scales grow from fingers and skins, face unrecognizable. A mixed shape of a hundred different wild animals but no name for what Castiel looks like now.
 
 Bobby takes another step back, reaching for his gun. Sam reaching for the machete.
 
@@ -697,13 +697,95 @@ He closes his eyes.
 
 There is sound of metal cutting through flesh, and then something heavy falls to the ground.
 
-A set of footstep on the ground that is more wet than before.
+A set of footstep heading back on the ground that is more muddy wet than before.
 
 Bobby shakes his head hard. "Cas you stupid love-blind idjit."
 
 ### Chap. 3
 
-> **Outline:** Cas falls to Purgatory, finds Dean. Both not recognize the other at first, fight, almost kill each other. Dean&Cas recognize each other because of slipping habits/catch phrase that's too familiar (e.g. "son of a bitch"). Cas confesses all secrets he's hiding this year, Dean gets pissed, decides to go back outside first together
+> **Outline:** Cas falls to Purgatory, finds Dean. Dean doesn't recognize him, monster Cas can't talk, too weak to change back. The two support/survive in Purgatory for a while, Cas eats souls to grow stronger and can heal. In an accident, Dean thinks monster Cas is gonna turn on him and attack, so he attacks Cas, hurt him, Cas turn back to normal shape the same time, they talk. Cas confesses all secrets he's hiding this year, Dean gets pissed, decides to go back outside first together
+>
+> (joke ref Beauty & Beast: Dean's kiss can break Cas's spell, making him back to normal form, purify the dirty blood in his system) (joke ref Twilight: Dean as vamp sucks the bad blood out from Cas's system)
+
+Dean lingers not far from the same opening that he saw Cas for the briefest moment. Sometimes by the stream, sometimes on the edge of the closest woods, most of the times, just in the plain middle of the opening, without cover. It is a bad idea, actually, the worst one possible, to not move swiftly in a place like this.
+
+Purgatory is the monster hunting ground, and stay put means food.
+
+But Dean stays around there anyway. If the monsters come, he kills them. If the door opens again, he goes home. The logic simplifies to the simplest, Dean distantly wonders if his brain would degenerate for lack of use, but soon pushes it aside.
+
+Leviathans still emerge once in a while, dropping in here and again like a recurring termite problem in an old house, though not as many as when Cas was here. Their faces shift between human vessel and the teethy face, decapitation is still the best solution Dean can manage. Not like there is many research book or anything else in the Purgatory he can use any way.
+
+He would have lost the concept of time entirely if it's not for his watch still ticking and running. But he doesn't know if it's a good thing or bad thing. Watching the watch fingers tick one second, then another second, slowly crawling forward, Dean thinks going lunatic is just a matter of time if he can't figure something out soon.
+
+But he can't figure anything out.
+
+The air never disturbs in a way like when a portal opens, there is not brightened up exit, no jail visitor or bail release.
+
+Sometimes, Dean even considers not killing some monsters on his way, keeping one as a pet, to at least have something to look at and talk to, however ugly they are. He understands why Robinson keeps Friday on that island now.
+
+And then, in the day that he loses count of which day, he is attacked by a dozen vampires in the same time. Sarcastically, he knows them all. From that nasty nest that started all this and sent him here.
+
+He fights and kills and struggles and swings, taking down as many as he can but a small portion of him already knows how this will, that piece of mind is floating above him, viewing the scene unfold like a Deja vu.
+
+"I killed you once, I don't mind kill you again." The big boss vamp grins at him, knocking him down. Dean loses grip on the blade, pinned to the ground, all too similar to the first time.
+
+Where does the monsters go after they die in the Purgatory? It's not the first time he wonders this, but this time he might actually go check it out himself.
+
+And then, that vamp loses its head. Its body freezes, its hold on his throat loosens, and it falls frigidly down, not moving an inch anymore.
+
+Dean looks up.
+
+A large monster still has the bit-off vampire head in between its teeth, the cutting edge where the neck should connect to the body is dripping blood between the creature's teeth. It sees him, hesitates, as if can't decide whether to spit that bloody head out or swallow it. It ends up swallowing it down in a gulp.
+
+Dean jumps to his feet, blade ready, pointing at this new thing.
+
+It's a huge creature, leaving long and expanding shadow on the ground as it walks, larger than Leviathans even. Dean has never seen anything like this before, has furs and scales and fangs all at once, a hybrid of so many different things. Large, but broken. Confusing, but powerful.
+
+He steps back slowly as the monster walks towards him, also slowly, looking at him, opening its mouth. The teeth glinting with fresh blood. On its back, black twisted parts stretched out, looking more like broken horns than wings.
+
+Dean frowns at this thing, hunter's instinct kicking in, pulling and dragging him in two different directions. The blade is still dripping blood from the things he killed minutes ago, the instinct of continuing the action he's growing increasingly familiar with washes over his blood. It would be so easy, with such a twisted clumsy body and weird biological structure, he bets it couldn't move as fast as he does.
+
+But then, there is something else in it that makes him pause. Looking. Observing. Asking question first and shooting second. Something about this monster, maybe it's the black wing-like structure on its back, maybe it's the slightly tan-colored body and the white blue front, or just the way it approaches him, somehow he thinks it's not going to hurt him. It can be trusted. He thinks he must already lost his minds to think that for a whole new level of freak.
+
+Dean circles it, checking out its side, its back, its shape. It stops, letting him, purring and moaning in a low grave sound. Not menacing, more like sad.
+
+Dean notices it's wounded, badly, not fatal, probably, but surely hurt like hell. There are teeth shaped wounds on its leg bleeding black and a round hole on its shoulder bleeding dark red. When it walks, the left paw steps shallower than the rest, he'd guess there are cuts there too.
+
+The vampire part of him is still functioning. The metallic smell of blood too strong that there is no way of ignore. And the most confusing part is, the blood doesn't smell right. Human blood smells fragrant, vampire blood is dull and dead, demon blood sour, Leviathan's bitter. But this thing, it's like a drug store, with all kinds of bad smell mixed together flowing inside its vein, covering what was originally there.
+
+"What are you?" Dean can't help asking.
+
+The monster answers him in a low set of monstrous mumbling, presumably telling him things about itself but he hasn't the faintest idea of monster language.
+
+"Alright, chill, pal." Dean tells it, walking two more steps closer to it, cautiously.
+
+It's about within its attack range now, if it desires. Dean maintains the eye contact, waiting for a killer blow, thinking if the blade should target to its paw or head first if that happens.
+
+But nothing happens. It holds the stare, looking back, looking straight. It barely blinks.
+
+The feeling is strangely familiar.
+
+"Okay, this is just getting weird." Dean chuckles, lowering the blade, shaking his head. "You just remind me of my best friend."
+
+It purrs louder, voice tight and urgent.
+
+Dean raises his brows. Then he tells it, "No, uh-huh, no way, I'm not gonna name you 'Cas' just because you want me too. What do you think Cas would feel if he knows?"
+
+He ends up still naming the creature "Cas."
+
+*Cas might just find it hilarious, it would be good to see him laugh.* Dean reasons to himself, patting the creature gently on the back.
+
+<br>
+
+
+
+
+
+
+
+(Outline: The two support/survive in Purgatory for a while, Cas eats souls to grow stronger and can heal. In an accident, Dean thinks monster Cas is gonna turn on him and attack, so he attacks Cas, hurt him, Cas turn back to normal shape the same time, they talk. Cas confesses all secrets he's hiding this year, Dean gets pissed, decides to go back outside first together)
+
+(joke ref Beauty & Beast: Dean's kiss can break Cas's spell, making him back to normal form, purify the dirty blood in his system) (joke ref Twilight: Dean as vamp sucks the bad blood out from Cas's system)
 
 ### Chap. 4
 
@@ -712,6 +794,8 @@ Bobby shakes his head hard. "Cas you stupid love-blind idjit."
 ### Chap. 5
 
 > **Outline:** Dean insists him out too or else he'll jump back in & they'll help fix Cas's leviathan problem, Cas complies finally, drooping leviathan ooze occasionally but mostly can hold them back, goes to hell, steals Sam's soul back and fixes him
+>
+> (god Cas has power to save Sam's soul)
 >
 > (they finds out Sam's soulless only after Dean's back)
 
