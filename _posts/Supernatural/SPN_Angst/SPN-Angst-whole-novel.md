@@ -13,7 +13,7 @@ published: false
 
 [TOC]
 
-(tag: S06E05, canon divergent, angst, extremely angst, vampire Dean, leviathan Cas, monster Cas, soulless Sam, graphic depiction of violence, purgatory, temporary main character death, bloody and ugly, a lot of blood, a lot of pain, suicidal Cas, morally ambiguous Cas, morally ambiguous Sam, beheading)
+(tag: S06E05, canon divergent, angst, extremely angst, vampire Dean, leviathan Cas, monster Cas, soulless Sam, graphic depiction of violence, purgatory, temporary main character death, bloody and ugly, a lot of blood, a lot of pain, suicidal Cas, morally ambiguous Cas, morally ambiguous Sam, beheading, body horror, grotesque)
 
 (warning: graphic depiction of violence, main character death)
 
@@ -699,7 +699,7 @@ There is sound of metal cutting through flesh, and then something heavy falls to
 
 A set of footstep on the ground that is more wet than before.
 
-Bobby shakes his head hard. "Cas you love-blinded idjit."
+Bobby shakes his head hard. "Cas you stupid love-blind idjit."
 
 ### Chap. 3
 
