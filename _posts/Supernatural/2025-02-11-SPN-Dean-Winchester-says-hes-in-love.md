@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SPN】Dean Winchester Says He's in Love
+title: 【Destiel】Dean Winchester Says He's in Love
 date: 2025-02-11 21:12
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Sam Winchester"]

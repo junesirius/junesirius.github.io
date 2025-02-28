@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【SPN】Happy Birthday, Dean Winchester
+title: 【Destiel】Happy Birthday, Dean Winchester
 date: 2025-01-24 01:11
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Sam Winchester"]
-tags: ["Supernatural", "destiel"]
+tags: ["Supernatural", "destiel", "英文"]
 pov: 第三人称
 origin: AO3
 ---

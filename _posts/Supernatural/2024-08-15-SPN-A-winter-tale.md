@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SPN】《A Winter's Tale》（读后感）
+title: 【Destiel】《A Winter's Tale》（读后感）
 date: 2024-08-15 09:27
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]

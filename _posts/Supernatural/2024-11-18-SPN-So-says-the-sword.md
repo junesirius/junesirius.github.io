@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SPN】《So Says the Sword》（读后感）
+title: 【Destiel】《So Says the Sword》（读后感）
 date: 2024-11-18 09:04
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
