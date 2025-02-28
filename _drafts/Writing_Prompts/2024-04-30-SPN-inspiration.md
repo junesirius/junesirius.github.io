@@ -2032,4 +2032,32 @@ Dean: he's just jealous.
 
 (Death & Empty's dates, title inspired by 《When Harry met Sally》)
 
-### 232.
+### 232.【destiel】S09E22 what if Cas doesn't give up the army
+
+what if they manage to find a way to prevent Dean from killing Tessa, Cas doesn't have to give up the army, he can use the army to fight Metatron, Dean wouldn't be killed and become demon Dean (yet), they beat Metatron without Dean dead, lock him up
+
+Cas would still die slowly of the borrowed grace, Dean would kill angel to save him (like Crowley did)
+
+Dean would kill Metatron or force him to return Cas's grace (S10E18 moved forward)
+
+Dean probably would still die of some random reason (move one of his later death forward), they still need to handle demon Dean or the Mark problem
+
+potential solution: let Cas take the Mark, rotate the carrying (who said Mark has to stay with one person? they can take turns being Darkness's prison guard, but the guard is also the prisoner)
+
+### 233.【destiel】S10E18 堂吉诃德AU/引用/xover
+
+“What's the maddest thing a man can do”“let himself die”
+
+but they all have done this maddest thing so many times already
+
+都已经出现直接引用了，必须来一次AU
+
+### 234.【destiel】仲夏夜之梦AU
+
+（尼尔盖曼睡魔版本）
+
+丁卡婚礼？出现各方神圣各种妖魔鬼怪仙子
+
+（需要重温莎剧原版和睡魔版）
+
+### 235.
