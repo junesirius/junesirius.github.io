@@ -2010,4 +2010,26 @@ Dean: Looks like it's just you and me now
 
 （卡疯起来就没他俩什么事了）
 
-### 231.
+### 231.【destiel】《When Death Meets Empty》Dean=Death, Cas=Empty
+
+A new ending, post-death, post-1520
+
+Jack becomes new God, Dean becomes new Death (after 1520 his human death), Cas becomes new Empty (after 1518 his angel death)
+
+Empty can't go to Earth so Cas can't tell Dean what happened after he's taken away and Dean thought he's dead. Dean has the option to become new Death because he has taken the job once (for a day) and no other reaper has interest in the position, so Dean thinks why not.
+
+Death can go to the Empty, so that's the first he does after he takes the new job. He sees Cas, initially thought it's the old Empty taking his form, but Cas tells him he manages beat the old Empty and takes over. He releases the angels and demons that shouldn't be there (so before Dean's death he probably would run into a few? knows something happened in the Empty but doesn't know what, didn't think it's possible), but now still stuck in the place
+
+Dean: it's okay, I can pay you visit once in a while, hell, I can stay here if you want
+
+Cas: don't you have a job to do? you know, reaping people?
+
+Dean shrugs: the world runs fine with Death trapped underground for two thousand years, it will do just fine
+
+Sam (at some point): so I'm the only one that still human
+
+Dean: he's just jealous.
+
+(Death & Empty's dates, title inspired by 《When Harry met Sally》)
+
+### 232.
