@@ -13,7 +13,7 @@ published: false
 
 [TOC]
 
-(tag: S06E05, canon divergent, angst, extremely angst, vampire Dean, leviathan Cas, monster Cas, god Cas, soulless Sam, graphic depiction of violence, purgatory, temporary main character death, bloody and ugly, a lot of blood, a lot of pain, suicidal Cas, morally ambiguous Cas, morally ambiguous Sam, beheading, body horror, grotesque)
+(tag: S06E05, canon divergent, angst, extremely angst, vampire Dean, leviathan Cas, monster Cas, god Cas, soulless Sam, graphic depiction of violence, purgatory, temporary main character death, bloody and ugly, a lot of blood, a lot of pain, suicidal Cas, suicidal Dean, morally ambiguous Cas, morally ambiguous Sam, beheading, body horror, grotesque)
 
 (warning: graphic depiction of violence, main character death)
 
@@ -647,15 +647,15 @@ Castiel drops the syringe and screams. His body collapses to the floor, eyes wid
 
 The sensation is so intense that the Leviathans' attacks in Purgatory are like nothing but tickles. It's not just pain, it's the transformation, it's like his blood wants to melt down his bone and flash, turning his inside out, mashing his gut and brain to mud.
 
-Castiel squirms violently on the floor, yelling in a mixed sound of high pitch and all kinds of human languages, switching from one dead tongue to another, like a computer frantically blooding out random error messages under a virus attack.
+Castiel squirms violently on the floor, yelling in a mixed sound of high pitch and all kinds of human languages, switching from one dead tongue to another, like a computer frantically flooding out random error messages under a virus attack.
 
 His eyes and mouth lighten up, bright lights starts to flow but instead of leaving the body, the lights blink, on and off, on and off, until it dims, like a broken light bulb trying its best to lighten up one last time before it blows. The light is captured back inside the body, the same way they can't escape a black hole. Not even any grace can escape the change.
 
-Sam stands by him, watching. Bobby rushes back in at the sound. But none of them can do anything or has any idea what is happening.
+Sam stands by him, watching. Bobby rushes back in at the sound. But none of the men can do anything or has any idea what is happening.
 
 And that is only the beginning.
 
-Castiel's body rises slowly in the air, his eyes half closed, as if half passing out, half dream walking. The lights in the room shakes, sounds of thunder rolling from above the ceiling. In the shadow of the flickering lights, there are the black wings, expanding from his shoulder blade, long and stretched, filling the whole room and beyond. The feathers on the wings shines black, the color of the night sky.
+Castiel's body rises slowly in the air, his eyes half closed, looks half passed out, half dream walking. The lights in the room shakes, sounds of thunder rolling from above the ceiling. In the shadow of the flickering lights, there are the black wings, expanding from his shoulder blade, long and stretched, filling the whole room and beyond. The feathers on the wings shine black, the color of the night sky.
 
 "Holy." Bobby gasps, taking a step back in awe. Sam stares.
 
@@ -677,11 +677,11 @@ They watch intensely. And Castiel whines, then, nods once, slowly.
 
 Bobby breathes out. "Good to know, thank God you're not dead in that whole --" he waves a hand to vaguely refer to whatever happened just now in place for a word he can never find. He clicks the safety bolt back on.
 
-"Yet." Sam says.
+"Yet." Sam deadpans.
 
 "What?"
 
-"Not dead, yet." Sam keeps his hunter's gait, hands still on the machete -- the same one he carried with into the vampire nest where Dean was killed. "Cas still needs to be dead to go to the Purgatory, remember?"
+"Not dead, *yet*." Sam keeps his hunter's gait, hands still on the machete -- the same one he carried into that vampire nest where Dean was beheaded. "Cas still needs to be dead to go to the Purgatory, remember?"
 
 Bobby swallows, falling to silence. After a beat, "And you want to do the honor?"
 
@@ -695,7 +695,7 @@ The monster that was -- is -- Cas nods.
 
 "This is absolutely the shittiest plan I've ever seen, and that includes two apocalypses." Bobby sighs deeply, looking at Cas truly apologetically, "I'm sorry." Then to Sam, "Just, don't do it in here, will ya?"
 
-Sam nods once, gloomily.
+Sam nods once, heading out. Castiel follows.
 
 <br>
 
@@ -711,11 +711,9 @@ One set of footstep head back, stepping on the ground that is more muddy wet tha
 
 Bobby shakes his head hard. "Cas you stupid love-blind idjit."
 
-### Chap. 3
+### Chap. 3-1
 
-> **Outline:** Cas falls to Purgatory, finds Dean. Dean doesn't recognize him, monster Cas can't talk, too weak to change back. The two support/survive in Purgatory for a while, Cas eats souls to grow stronger and can heal. In an accident, Dean thinks monster Cas is gonna turn on him and attack, so he attacks Cas, hurt him, Cas turn back to normal shape the same time, they talk. Cas confesses all secrets he's hiding this year, Dean gets pissed, decides to go back outside first together
->
-> (joke ref Beauty & Beast: Dean's kiss can break Cas's spell, making him back to normal form, purify the dirty blood in his system) (joke ref Twilight: Dean as vamp sucks the bad blood out from Cas's system)
+> **Outline:** Cas falls to Purgatory, finds Dean. Dean doesn't recognize him, monster Cas can't talk, too weak to change back. The two support/survive in Purgatory for a while, Cas eats souls to grow stronger and can heal.
 
 Dean lingers not far from the same opening that he saw Cas for the briefest moment. Sometimes by the stream, sometimes on the edge of the closest woods, most of the times, just in the plain middle of the opening, without cover. It is a bad idea, actually, the worst one possible, to not move swiftly in a place like this.
 
@@ -741,25 +739,25 @@ He fights and kills and struggles and swings, taking down as many as he can but 
 
 Where does the monsters go after they die in the Purgatory? It's not the first time he wonders this, but this time he might actually go check it out himself.
 
-And then, that vamp loses its head. Its body freezes, its hold on his throat loosens, and it falls frigidly down, not moving an inch anymore.
+And then, that vamp loses its head. Its body freezes, its hold on his throat loosens, and it falls frigidly down, not moving an inch anymore. Not attached with a head.
 
 Dean looks up.
 
-A large monster has the bit-off vampire head in between its teeth, the cutting edge where the neck should connect to the body is dripping blood between the creature's teeth. It sees him, hesitates, as if can't decide whether to spit that bloody head out or swallow it. It ends up swallowing it down in a gulp.
+A large monster has the bit-off vampire head in between its teeth, the cutting edge where the neck should connect to the body is dripping blood between the creature's teeth. It sees him, hesitating, as if can't decide whether to spit that bloody head out or swallow it. It ends up swallowing it down in a gulp. Lights brighten in its eyes as the head moves through its throat, moments later, lights dim again. It still stares at Dean, not even blinking.
 
 Dean jumps to his feet, blade ready, pointing at this new thing.
 
-It's a huge creature, leaving long and stretching shadow on the ground as it walks, larger than Leviathans even. Dean has never seen anything like this before, dead or alive, has furs and scales and fangs all at once, a hybrid of so many different things. Large, but broken. Confusing, but powerful.
+It's a huge creature, leaving long and stretched shadow on the ground as it moves, larger than most of the creatures around here, larger than most of the Leviathans even. Dean has never seen anything like this before, dead or alive, with furs and scales and fangs all at once, a hybrid of so many different things. Large, but broken. Confusing, but powerful. Troubling, but not ugly, not exactly.
 
-He steps back slowly as the monster walks towards him, also slowly, looking at him, opening its mouth. The teeth glinting with fresh blood. On its back, black twisted parts stood out, looking more like broken horns than wings.
+He steps back slowly as the monster moves towards him, equally prudently. It must be stronger than him, way stronger. Judging by how it bites off that vampire's head, it can probably kill Dean in a blink without shredding a sweat. Then why is it just looking at him, doing nothing? Its fangs point out behind the closed mouth, still glinting with fresh blood. On its back, black twisted parts stood out, looking more like broken horns than wings.
 
-Dean frowns at this thing, hunter's instinct kicking in, pulling and dragging him in two different directions. The blade is still dripping blood from the vamps he killed minutes ago, the instinct of continuing the action he's growing increasingly familiar with washes over his blood. It would be so easy, with such a twisted clumsy body and weird biological structure, he bets it couldn't move as fast as he does.
+Dean frowns at this thing, hunter's instinct kicking in, pulling and dragging him in two different directions. The blade is still dripping blood from the vamps he killed minutes ago, the instinct of continuing the action he's growing increasingly familiar with washes over his blood. It might be strong, but Dean is fast. If he's lucky, he might get a chance to its weak spot if it has any -- with such a twisted clumsy body and weird biological structure, he bets it couldn't move as fast as he does.
 
 But then, there is something else in it that makes him pause. Looking. Observing. Asking question first and shooting second. Something about this monster, maybe it's the black wing-like structure on its back, maybe it's the slightly tan-colored body and the white blue front, or just the way it approaches him, the way it bites off the head of the vamp that almost killed him again, somehow he thinks it's not going to hurt him. It can be trusted. He thinks he must already lost his minds to think that for a whole new level of freak.
 
-Dean circles it, checking out its side, its back, its shape. It stops, letting him, purring and moaning in a low grave sound. Not menacing, more like sad.
+Dean circles it, checking out its side, its back, its shape. It stops the move, standing still, letting him check, allowing him move behind it where it can't see, purring and moaning in a low grave sound. Not menacing, more like sad. More trusting than anything else he met in here or out there.
 
-Dean notices it's wounded, badly. Not fatal, probably, but surely hurt like hell. There are teeth shaped wounds on its legs bleeding black and a round bullet shaped hole on its shoulder bleeding dark red. When it walks, the left paw steps shallower than the rest, he'd guess there are cuts there too.
+Dean notices it's wounded, badly. Not fatal, probably, but surely hurt like hell. There are teeth shaped wounds on its legs bleeding black and a round bullet shaped hole on its shoulder bleeding crimson red. When it moves, the left paw steps shallower than the rest, he'd guess there are cuts there too.
 
 The vampire part of him is still functioning. The metallic smell of blood too strong there is no way of ignoring. He sniffs. And the most confusing part is, the blood doesn't smell right. Human blood smells fragrant, vampire blood dull and dead, demon blood sour, Leviathans bitter. But this thing, it's like a drug store, with all kinds of bad smell mixed together flowing inside its vein, covering what was originally there.
 
@@ -775,23 +773,156 @@ But nothing happens. It holds the stare, looking back, looking straight. It bare
 
 The feeling is strangely familiar.
 
+Dean thinks he even sees the familiar shades of blue. He must be hallucinating now.
+
 "Okay, this is just getting weird." Dean chuckles, lowering the blade, shaking his head. "You just remind me of my best friend."
 
 It purrs louder, voice tight and urgent.
 
-Dean raises his brows. Then he tells it, "No, uh-uh, no way, I'm not gonna name you 'Cas' just because you want me to. What do you think Cas would feel if he knows?"
+Dean raises his brows. Then he tells it, "No, uh-uh, no way, I'm not gonna name you 'Cas' just because you want me to. What do you think my angel buddy would feel if he knows?"
 
-He ends up naming the creature "Cas."
+He still ends up naming the creature "Cas."
 
-*Cas might just find it hilarious, it would be good to see him laugh.* Dean reasons to himself, patting the creature gently on the back where the scales cover.
+*Cas might just find it hilarious, it would be good to see him smile.* Dean reasons to himself, patting the creature gently on the back where the scales cover. It feels cold and sticky.
+
+He takes the hand back.
+
+### Chap. 3-2
+
+> **Outline:** monster Cas's POV
+>
+> monster Cas pov, can see the world in floating colors, only shapes of colors, no thoughts, no words, light and dark, other monster souls are lights that he can eat, in the center, there is the brightest light, the brightest soul. He approaches, gets too attracted but intimated by the intensity and heat, like wild animal circling camper's bonfire, ghosting at the edge of the shadow, tempted but feared. The more souls he eats, the vision gets clearer, he recognizes Dean. But it only makes him hesitant more, he looks at his claws, making sure Dean doesn't see him. Only go into his view when seeing he's in danger and he has to.
+
+The world is a pool of shapes and colors, floating and swimming, emerging and diverging. Some shapes and colors move closer, some further. Some red and its approach burns, some black and tearing and cold, the others vague and grey, passing by without extra sensation.
+
+There is no thought, no words. Light or dark, chromatic or bleak. That's all there is.
+
+It takes a while to realize the small blinking lights are edible, and those feel good -- making the colors looking brighter and shapes sharper. Almost like the view is getting clearer, but still the same forms.
+
+It takes a longer while to realize those lights are souls, and absorbing them can bring strength back, making wounds heal -- even just slightly.
+
+Castiel wanders in the land, fumbling, searching. Not knowing where he is, not knowing where he's heading.
+
+He opens his mouth, growls echoing as the vocal cords vibrates. He sinks teeth, blood seeping out from the things in his bite, twitching the body, then not moving. The light that rested inside of it shifts and moves along with the blood, moving into him. He swallows them, then moves away.
+
+The creatures and monsters crowd around this place like rabbits in the summer prairie. Led by instincts, he hunts and eats and moves, chasing one sparkling light to another, knowing all of them are nothing more than food and source of strength.
+
+And then he sees it. In the center of the opening, the brightest light shades everything else, dulling up all the other creatures. The light of the soul that is like the beacon on the sea, the North Star of the starry sky, the crackling burning fire in the polar night, the Sun in the dark space. It's so bright that the lumination and heat almost scorch him from this distance.
+
+But he steps towards it. He can't stop staring it and he can't stop himself from moving towards it. The bright, the light, the heat, the beacon. The center of the universe is there. The brightest soul that he's ever seen.
+
+Even without the clear view, even without the clear mind with all the past memory and knowledge, he would know this is what he's looking for -- even if he doesn't remember what it is, or what himself is.
+
+He approaches, the attraction uncontrollable, but also unavoidably intimated. The intensity and the heat, the light itself, the soul that is so strong, it appeals to him and terrifies him in the same way wild animals getting attracted and frightened by the camper's bonfire in the same time.
+
+Castiel circles around the light, hiding himself in the woods, letting the shadow cover his trace. Tempted, but intimated. Staying in the place where he can see it, but not close enough to be seen.
+
+Days and nights pass, he hunts and eats and devours and waits. The power from the souls of the small creatures and monsters accumulates, the vision gets clearer. So is the mind.
+
+Name is the first thing coming back, language the second.
+
+"Dean." He can see through the shape now, the light of his soul still blinding. The man's name emerges in his beast's mind. Castiel almost makes a long gnarl, but he restrains himself -- Dean might hear him, and then he wouldn't know what to do.
+
+Looking down, he sees his claws on the dusty ground, distained by the dirt and blood. In the reflection of the stream, he sees his own face and he moves back immediately, not wanting to see the hideous figure ever again.
+
+He makes sure Dean wouldn't either.
+
+The woods provide enough of cover, even with his size. He wanders far enough to hunt and grow strength, but not too far to lose Dean's bright lighted soul out of view -- in the end, how can one lose sight of the Sun in the sky?
+
+But then, there are the attackers. The vampires edging and crowding Dean, there are too damn many of them. The bright light of the soul starts getting overshadowed, the threat of fangs and paws on the body's neck, the danger that is too strong to conquer, and worst of all, the light itself is willingly going out.
+
+Castiel can't have it. For all his existence, this is the thing he cannot allow happen, whatever the cost.
+
+So there is the emerge, and there is the attacking and biting and eating just out of instinct.
+
+The metallic bloody smell assail the nostril, the vampire's head between the teeth, it is only then does Castiel realize this is the time when Dean would raise the blade and bury it inside his body.
+
+He freezes, widening the eyes.
+
+The vision clears, the face shows in front of him. Dean. It's really Dean. As human as he can be, the face, the body, every inch of the existence so familiar. And his blade high and ready.
+
+"Dean." He calls his name, desperate. The only sound rolling out of his throat is the monster's roar.
+
+Castiel thinks this is the end of it. The end of him, anyway. With all his efforts, at least the very last thing -- very last person -- in his view is Dean. He shouldn't complain too much.
+
+He looks into the man's eyes, really looking. Like the mermaid being taken away the voice, the eyes and looks are all he has. He sees the familiar amber green in the man's eyes, the exhaustion, the anger, the confusion. And something else.
+
+He pleads silently. "Please see me, Dean."
+
+The blade is lowered.
+
+Dean is always so full of surprise.
+
+### Chap. 3-3
+
+> **Outline:** In an accident, Dean thinks monster Cas is gonna turn on him and attack, so he attacks Cas, hurt him, Cas turn back to normal shape the same time, they talk. Cas confesses all secrets he's hiding this year, Dean gets pissed, decides to go back outside first together
+>
+> (joke ref Beauty & Beast: Dean's kiss can break Cas's spell, making him back to normal form, purify the dirty blood in his system) (joke ref Twilight: Dean as vamp sucks the bad blood out from Cas's system)
+
+Dean barely sleeps. In a place like this, he can't even blink his eyes too slow, let alone closing it. He doesn't know how the body works in the place, whether it really need sleep or eat or any of the usual human crap his brain was still used to as a living human, but now he's neither living nor human.
+
+But Cas nudges him to rest -- at least he thinks it's what it means.
+
+When his watch points to night time, Cas leads them to a place in between woods. The trunk looks decent as a resting place. Cas stands by it, getting down on its belly, looking at him.
+
+Dean checks the trunk -- nothing special, then looks at Cas, amused. "What? You want to take a nap?"
+
+The monster shakes its head, nudges his side slightly, almost pushing him to the ground.
+
+"Alright, alright, I get it." Dean sits down by the trunk, then curls by its root, resting his head on his arms. "You happy?"
+
+The creature hums a low purring sound, not too different from a cat's purr after a full meal. Dean chuckles, propping his head up slightly, running right into the pair of eyes that are staring at him.
+
+"Dude, stop watch a guy sleeping like that!" he complains, and that sense of familiarity rises again. He flutters, "But, uh, wake me up if there's anything happening alright?"
+
+He gets another low mumble of confirmation. Dean thinks his monster language is improving.
+
+Dean gets a few hours of closed eyes.
+
+The sky still looks the same when he wakes up. Cas doesn't seem to move an inch. Somehow he does feel better, his body not so intense, his mind getting back online.
+
+Dean sits up slowly, glimpsing the creature he named Cas from the corner of his eyes. That thing is doing the same, as if taking that comment of "don't stare" seriously.
+
+"Hey," Dean says. It meets his eyes immediately. Dean pulls the tip of his lips up slightly, facsimile of a smile. "Thanks for watching out for me." He tells it. The monster purrs something that definitely means "don't mention it."
 
 <br>
 
+The life improves with Cas hanging around -- though there is never a life to begin with in a place like this. But still, each second passes slightly faster than before, so is each minute. At least that is how Dean feels like.
+
+The best part is, at least he has someone -- something -- to talk with. Not like this Cas would really answer back, but from the way it looks at him, the way lights shift in its starry eyes, he thinks it understands. If it can speak human language, it would just talk.
+
+And sometimes, he thinks he can just understand its purrs and mumbles and low growls from deep under the throat. The unsaid tongues without words.
+
+"Sometimes I would really think about just lying down, you know, I'm so tired. Not exactly giving up, but just not fighting back the faith so hard again. I mean, look at us, what's the point of all this? I'm a vampire and you're... some monster, and we are in the Purgatory." Once, Dean tells it. They just finished a fight, it was a pack of wolves, the first one was a pure blood, violent and unbelievably strong, even Cas had to struggle with it several rounds before biting into its neck and stopping it for good. Dean was left aside handling a handful on his own. They are both panting and exhausted.
+
+Cas growls. Dean drops his look to the ground, wandering inside his own head. "I just can't see there is any way of getting out, even if we do, what then? I don't even know how much time passed here, or on Earth, if the time even pass the same. Forty years in Hell is four months on Earth, what if a month here is a hundred years on Earth? Sam could already gone, and Cas... I don't even know where Cas is or how's his war and everything..."
+
+Dean whimpers. The monster he named Cas moves closer, lowering its body, leaning its body onto Dean's side. The twisted bones on its back twitches, looking like at an attempt to reach out, to touch him.
+
+Dean shakes his head. "You're not even real Cas, I don't know why I even keep calling you that, I don't even know why I didn't kill you like I killed all the other monsters. I must be losing my mind. Sometimes maybe I was even hoping if I'm ended by some monster here or by you, then I can stop thinking about all those, things can really end."
+
+The creature's eyes meet his, larger and glaring than ever, bluer and sadder than ever, getting watery on edge even. It makes some sounds from deep below the throat, low and wet, like sobbing. Dean swallows, touching its side, pressing his head on its scale to let the cool sensation pass through his forehead. He sighs, taking a long breathe. "Sorry." Not sure if it's to make the creature or himself feel better.
+
+He wipes his face with the back of his hands. "Okay then, guess it's not for nothing, at least there's still you -- whatever you are -- still want me kicking around, right, buddy?"
+
+He pats its shoulder twice, a little higher than the shoulder blade where the wing stretches out -- he's starting to get to know where is safe to touch that wouldn't make a pained sound from the creature.
+
+"Let's keep rolling then, you and me, Thelma and Louise, monster version. Who knows, maybe one day we'll reach the cliff and maybe that's the way out."
+
+They keep moving.
+
+<br>
+
+The monster is healing. Dean can't help noticing.
 
 
 
+#### NOTES:
 
+(action sequence, kill other monsters together, Cas eats them, grow visibly stronger the more he eats, wounds healing, shape reverting)
+Dean: we make quite a good team, eh?
 
+Dean: you're actually adorable, can't believe I said that
 
 (Outline: The two support/survive in Purgatory for a while, Cas eats souls to grow stronger and can heal. In an accident, Dean thinks monster Cas is gonna turn on him and attack, so he attacks Cas, hurt him, Cas turn back to normal shape the same time, they talk. Cas confesses all secrets he's hiding this year, Dean gets pissed, decides to go back outside first together)
 
