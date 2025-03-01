@@ -893,13 +893,15 @@ The best part is, at least he has someone -- something -- to talk with. Not like
 
 And sometimes, he thinks he can just understand its purrs and mumbles and low growls from deep under the throat. The unsaid tongues without words.
 
-"Sometimes I would really think about just lying down, you know, I'm so tired. Not exactly giving up, but just not fighting back the faith so hard again. I mean, look at us, what's the point of all this? I'm a vampire and you're... some monster, and we are in the Purgatory." Once, Dean tells it. They just finished a fight, it was a pack of wolves, the first one was a pure blood, violent and unbelievably strong, even Cas had to struggle with it several rounds before biting into its neck and stopping it for good. Dean was left aside handling a handful on his own. They are both panting and exhausted.
+"Sometimes I would really think about just lying down, you know, I'm so tired. Not exactly giving up, but just not fighting back the faith so hard again. I mean, look at us, what's the point of all this? I'm a vampire and you're... some monster, and we are in the Purgatory. If whatever shitty Destiny wants me end up here, fine, I guess, why bother going anywhere else." Once, Dean tells it.
 
-Cas growls. Dean drops his look to the ground, wandering inside his own head. "I just can't see there is any way of getting out, even if we do, what then? I don't even know how much time passed here, or on Earth, if the time even pass the same. Forty years in Hell is four months on Earth, what if a month here is a hundred years on Earth? Sam could already gone, and Cas... I don't even know where Cas is or how's his war and everything..."
+They just finished a fight, it was a pack of werewolves, the first one was a pure blood, violent and unbelievably strong, even Cas had to struggle with it several rounds before biting into its neck and stopping it for good. Dean was left aside handling a handful on his own. They are both panting and exhausted.
+
+Cas growls. Dean drops his look to the ground, wondering aloud in his own head. "I just can't see there is any way of getting out, even if we do, what then? I don't even know how much time passed here, or on Earth, if the time even pass the same. Forty years in Hell is four months on Earth, what if a month here is a hundred years on Earth? Sam could be long gone, and Cas... I don't even know where Cas is or how's his war and everything... Everything might already be too late. God, I don't even get time to tell them anything."
 
 Dean whimpers. The monster he named Cas moves closer, lowering its body, leaning its body onto Dean's side. The twisted bones on its back twitches, looking like at an attempt to reach out, to touch him.
 
-Dean shakes his head. "You're not even real Cas, I don't know why I even keep calling you that, I don't even know why I didn't kill you like I killed all the other monsters. I must be losing my mind. Sometimes maybe I was even hoping if I'm ended by some monster here or by you, then I can stop thinking about all those, things can really end."
+Dean shakes his head. "You're not even real Cas, I don't know why I even keep calling you that, I don't even know why I didn't kill you like I killed all the other monsters. I must be losing my mind. Sometimes maybe I was even hoping if I'm ended by some monster here -- maybe could even be you -- then I can stop thinking about all those, things can finally end for good. Talking about peace, eh?"
 
 The creature's eyes meet his, larger and glaring than ever, bluer and sadder than ever, getting watery on edge even. It makes some sounds from deep below the throat, low and wet, like sobbing. Dean swallows, touching its side, pressing his head on its scale to let the cool sensation pass through his forehead. He sighs, taking a long breathe. "Sorry." Not sure if it's to make the creature or himself feel better.
 
@@ -907,13 +909,73 @@ He wipes his face with the back of his hands. "Okay then, guess it's not for not
 
 He pats its shoulder twice, a little higher than the shoulder blade where the wing stretches out -- he's starting to get to know where is safe to touch that wouldn't make a pained sound from the creature.
 
-"Let's keep rolling then, you and me, Thelma and Louise, monster version. Who knows, maybe one day we'll reach the cliff and maybe that's the way out."
+"Let's keep rolling then, you and me, Thelma and Louise, monster version. Who knows, maybe one day we'll reach the cliff and maybe the jump is the way out."
 
 They keep moving.
 
 <br>
 
-The monster is healing. Dean can't help noticing.
+Cas is healing. Dean can't help noticing.
+
+Every time it swallows a monster's head or heart, its eyes would lighten up, and after that, some wounds and cuts would heal up -- even just slightly. After a while, the gash on its leg becomes only a shallow scar, which goes away with the death of a pack of djinns.
+
+"Why don't we go hunting some bigger things? Bet they'll do you real nice and comfy." Wiping away the blood on his blade using the sleeve, Dean considers and asks.
+
+Cas narrows its eyes, questioning.
+
+Dean goes, "Eating makes man stronger, I get that. Souls or lives or whatever, you need them, don't you? I mean, I don't have many things on my calendar at this time of the year, and we mostly just wait for attacks to get to them. I was thinking, you obviously could get better a lot faster if you eat more, why don't we raid some monster nest and get them for you? Surely dine in tastes better than delivery?"
+
+Cas hesitates, not looking very fancy of the idea.
+
+Dean studies him, his eyes or whatever way he chooses to express himself lately, the way his head tilt or his paw moves. "You get what I'm saying?"
+
+Cas nods once, but the muscle on his face furrows, closest thing to a human frown.
+
+"Why? You don't like it?"
+
+Cas looks up towards the distance, some other creatures are howling, and looks back at Dean, eyes flowing with concern.
+
+"You're worrying about me." Realization hits him, Dean huffs a laugh, twisting his wrist to show off how he could juggle the blade around to kill whatever would stand in their ways.
+
+He pats the monster on the shoulder. "Don't worry, I'm a damn good hunter. 'Sides, I have you in my back, don't I?"
+
+Dean starts moving towards where the howling is the loudest.
+
+Cas follows him closely behind.
+
+<br>
+
+They hit a shapeshifter nest, the nasty things are still the trickiest even after they're in the Purgatory, changed shape into people he knows. The family of the shapeshifters turn into his own family, Sam, Cas, Bobby, Jess, Mom, Dad, even himself, in a clean flannel.
+
+"Hate the shifters." Dean murmurs under his breath, chopping the closest one's head off, which happened to be himself.
+
+Cas bites off the shifter-Sam and shifter-Cas's heads, they take down the rest before they even get a chance to change again or run away.
+
+"Buddy, you left one behind." Dean reminds him, kicking the shifter-himself's head to Cas. Not sure if this is the very shifter he managed to kill years ago in St. Louis. If it is, then Fate is definitely a bitch that loves joking around and this bastard definitely has a crash on using his face.
+
+Cas moves towards it, still hesitant.
+
+Dean watches him. "What's the matter? Don't have the heart to take a snack because it looks like me?" Cas gives him a look. Dean chuckles. "You do know it's not me, right? I'm cool with you eating it -- me -- whatever, so what's your problem? Too shy to eat when I watch?"
+
+Cas makes a voice that sounds awful lot like complain to Dean's ears, and finally absorbs the shifter head with Dean's face. Dean watches blue white lights filling its eyes and dimming gradually, the wing bone on its back spreading a small angle from its folded twisted position, some scales dropped, showing smooth skin underneath.
+
+Dean grins. "See? Told you, feel good, right?"
+
+Cas murmurs something, might be a "Thank you." Even that voice sounds lighter and brighter, less monstrous than minutes ago, less incomprehensive to the extent Dean can guess the meaning from the syllables.
+
+"Come on, we might have enough time to find you a second dinner before heading back."
+
+Things are looking good.
+
+<br>
+
+### Chap. 3-4
+
+Things are never good or easy or anywhere remotely like that in their whole lives. Dean should know.
+
+
+
+
 
 
 
