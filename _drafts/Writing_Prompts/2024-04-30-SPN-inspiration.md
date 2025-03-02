@@ -842,6 +842,18 @@ just has to stop Armageddon all over again
 
 ### 92.【destiel】S10E22 “I'm the one who will have to watch you murder the world.”
 
+demon Dean & angel Cas
+
+both immortal
+
+Dean murders the world, Cas has to be there watch, try to save the people *and* save Dean, but still wouldn't want to kill Dean
+
+morally deprived Dean so he can be with Cas without burden, can more openly show his fondness and flirtation, and Cas indulges him
+
+messed up twisted romantic love relationship, but there is still love
+
+(inspiration from rupertgayes "where everybody knows" S4 demon Dean/angel Cas)
+
 ### 93.【destiel】S10E23 What if Dean accept Death's offer
 
 What will happen if in alternative multiverse, Dean accepted Death's offer, killed Sam (sent him to heaven to continue the work), get sent to far away universe
