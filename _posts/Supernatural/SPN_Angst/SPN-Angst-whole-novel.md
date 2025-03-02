@@ -13,13 +13,31 @@ published: false
 
 [TOC]
 
-(tag: S06E05, canon divergent, angst, extremely angst, the most angst thing I've ever written, vampire Dean, leviathan Cas, monster Cas, god Cas, soulless Sam, graphic depiction of violence, purgatory, temporary main character death, multiple main character death, bloody and ugly, a lot of blood, a lot of pain, all the painfullest thing I can ever think of, suicidal Cas, suicidal Dean, morally ambiguous Cas, morally ambiguous Sam, beheading, body horror, grotesque, eating Leviathan, eating monsters, eating all kinds of things metaphorically and literally for a good reason)
+(tag: S06E05, canon divergent, angst, extremely angst, the most angst thing I've ever written, vampire Dean, leviathan Cas, monster Cas, god Cas, soulless Sam, graphic depiction of violence, purgatory, temporary main character death, multiple main character death, bloody and ugly, a lot of blood, a lot of pain, all the painfullest thing I can ever think of, suicidal Cas, suicidal Dean, morally ambiguous Cas, morally ambiguous Sam, decapitation, body horror, grotesque, eating Leviathan, eating monsters)
 
 (warning: graphic depiction of violence, main character death)
 
 ## Draft
 
-after Dean's back, knowing what did: What?!! Am I the only moral compass in the room now?
+Rating: Mature
+
+(because of the violence)
+
+### summary
+
+Dean dies as a vampire and wakes up in Purgatory, trapped in the never-ending fight of killing and killed, hunting and hunted. Story of his life.
+
+Cas is getting desperate. Going to the demons and monsters and reapers, willing to sacrifice anything to get down there and bring him back -- even if the cost is himself and there's no turning back. He turns himself into a monster and dies to go to Purgatory.
+
+They find each other, and that's all they have in the relentless monsterland, being monsters themselves. They'll have to crawl their way out the ugly way, whatever the cost -- and Cas has to turn himself into something even worse.
+
+### visual element
+
+The color is mainly red and black, Dean covered in red, Cas in black. They're in a roughly built nest in Purgatory, Cas lies down, eyes closed, in a sleeping coma, clothes torn, wounds covered all over, broken wings on his back. Dean, with vampire fangs and bloodstains all over, leans in kissing him. There might be remains of other dead monsters or Leviathan goo around them on the ground.
+
+### edit notes
+
+After Dean's back, knowing what did (Sam killed Cas and "unholy man", Cas killed a lot): What?!! Am I the only moral compass in the room now?
 
 ## Main
 
