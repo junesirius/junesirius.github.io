@@ -1153,19 +1153,19 @@ Dean presses the heel of his palms on his eyes, feeling it hot and wet. Hopeless
 
 Eyes closed, he leans in, kissing the chapped lips, gentle. No soul to feed this time, just the touch.
 
-He doesn't even know why he does that, his own body pulls him forward, leading the motion, and it offers him comfort. And hope. As if saying if he can still do this, then there is still way. His heartbeat soothes just as his lips caressing Cas's.
+He doesn't even know why he does that, his own body pulls him forward, leading the motion, and it offers him comfort. And hope. As if saying if he can still do this, then there is still way out, way forward. His heartbeat soothes just as his lips caressing Cas's.
 
 That is when he feels the lips shift. There is a startled gasp, an immediate pull away, and a dumb punch in the face.
 
 Dean jumps back, looking up.
 
-Cas is awake, pulled back from where he's lying, back pressed to the wall of the place Dean calls "home base" nowadays. Eyes panicked and shaky.
+Cas is awake, pulled back from where he's lying, back pressed to the wall of the place Dean calls "home base" nowadays. Eyes panicked and shaky. Wings hidden away.
 
 Dean doesn't know what is that feeling in his gut, is that joy or hurt, or both, maybe.
 
 "Cas, Cas, it's me, it's okay." he rushes, holding out a hand like when he needs to calm a startled animal. "You're safe, it's just me."
 
-The blue eyes falls on him, recognition rises. "Dean." He breathes out. The voice hoarse from lack of use, but it's human words. He looks around the place, looks down on himself, checking the fingers and behind his back, then looking Dean up and down. Eyes shining with unbelief.
+The blue eyes falls on him, recognition rises. "Dean." He breathes out. The voice hoarse from lack of use, but it's human words. He looks around the place, looks down on himself, checking the fingers and behind his back, then looking Dean up and down. Eyes shining with disbelief.
 
 Dean manages a smile. "Yeah, buddy. It's me. Welcome back."
 
@@ -1189,7 +1189,7 @@ Cas closes his mouth, lowering his eyes. "Yes, we can just leave it like that." 
 
 Cas looks up, guilt written all over his face. "Everything."
 
-"Well, if you mean punching me in the face for waking you up, there's indeed better ways to say thank you." Dean swallows the feeling that is rising in his gut seeing the way Cas's eyes look, but he can't parse any of them.
+"Well, if you mean punching me in the face for waking you up, there's indeed better ways to say thank you." Dean swallows the feeling that is rising in his gut seeing the way Cas's eyes look, but he can't parse any of the meanings.
 
 "Not just that." Cas hesitates, but still, reaching a hand with two fingers pointed out, reaching for his cheek that is slightly getting swollen from the punch. "May I?"
 
@@ -1197,7 +1197,7 @@ Dean holds his gaze, putting his hands down, nodding once.
 
 The heated sensation on the cheek goes away, so is the other small pain and wounds all over the body he doesn't realize he has.
 
-Looking back in the angel's briefly brightened up eyes, he gives him a small smile. "Thanks Cas, good to have you back."
+Looking back in the angel's briefly brightened up eyes, he gives him another small smile. "Thanks Cas, good to have you back."
 
 <br>
 
