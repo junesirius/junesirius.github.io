@@ -2084,4 +2084,10 @@ but they all have done this maddest thing so many times already
     - 要么这就是天堂刚刚重建好的样子，看起来好像都是自然发展出来的其实就是卡给他们安排的样子，那就说明丁看见的整个天堂的样子都是卡专门在他上天堂之前的瞬间搭出来的只是为了他的
 - 更有可能的是，Bobby说谎了，卡没有真的回来，这么说只是为了让丁安心让他在天堂可以有peace，这也解释了为什么丁来了以后一直没看见卡，因为卡一直还在虚无，在丁死的时候“but he's not”也成立：那么就能写丁在天堂始终没看见卡，周围人总是在搪塞，终于慢慢意识到卡其实没真的回来，于是后面又要开启去虚无救卡的行动了 
 
-### 236.
+### 236.【destiel】S03E08 “one for me, one for my baby”
+
+originally from S03E08 Sam's Christmas gift for Dean: candy bar and oil, Dean: "fuel for me, and fuel for my baby"
+
+make destiel Christmas, Sam give Cas suggestion of what to give Dean, Cas always make sure there is one for Dean one for the baby so he'd be always be happy
+
+### 237.
