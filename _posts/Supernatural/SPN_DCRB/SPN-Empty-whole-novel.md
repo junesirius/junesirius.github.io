@@ -599,7 +599,7 @@ Dean pops out as well, shortly after.
 
 ### Act 3-2
 
-> **Outline:** Dean is painful and hopeless and keeps letting the *emptiness* in his heart eat him up, after long enough, his heart is so *empty* that he goes in the Empty too. Cas catches him as he falls in, they find each other, Dean responds to Cas's confession, so now his heart is no longer *empty*, it's filled with feelings. And so the Empty is no longer empty, which is unbearable to the Empty and it loses control of them. So they use this feeling as their connection back to the earth and escape the Empty.
+> **Outline:** Dean is painful and hopeless and keeps letting the *emptiness* in his heart eat him up, after long enough, his heart is so *empty* that he goes in the Empty too. Cas catches him as he falls in, they find each other.
 
 Ghosts can't drive cars, not exactly -- except for that one time a ghost decides to *possess* the Baby, that was unforgivable. So hanging out in the Impala is not an option anymore.
 
@@ -665,7 +665,7 @@ He watches Dean falling apart, falling through, falling into the Empty where he 
 
 For a brief moment, Castiel doesn't realize what is happening. No one does.
 
-The opening view over his head that the Shadow shows him tear open. Lights of the living world and existence pouring through, along with the broken figure of one Dean Winchester.
+The opening view over his head that the Shadow shows him tear open. Lights of the living world and physical existence pouring through, along with the broken figure of one Dean Winchester.
 
 Cas reaches for him, desperate, out of instinct. The tentacles from the black ether is still onto him, dragging and pulling, tightening and locking, he might tear himself in half if he stretches too far, but nothing matters.
 
@@ -681,11 +681,13 @@ There is no word. Except for one. The only syllable on tip of their tongue that'
 
 "Dean."
 
-The universe restarts, the singularity point is nothing more than that.
+The universe restarts, the singularity point of big bang is nothing more than that.
 
 <br>
 
-### Act. 3-3
+### Act 3-3
+
+> **Outline:** Dean responds to Cas's confession, so now his heart is no longer *empty*, it's filled with feelings. And so the Empty is no longer empty, which is unbearable to the Empty and it loses control of them. So they use this feeling as their connection back to the earth and escape the Empty.
 
 The shapes stabilize, the lights around them glare more blindingly.
 
@@ -701,15 +703,43 @@ Cas is the same, there is no stopping the stream down his face. "I thought so to
 
 That creates seconds of silence. Dean freezes in the words, but he can't let go. In sobbing sounds, he gasps, "You knew? You see me...?"
 
-Cas is smiling again, the tears tangling, the same watery smile that he had last time they saw each other, but truly happy one. "Yes," he tell him. "I see everything, I see you, all the time. And I hear everything. It's supposed to be my punishment, but being able to see you, it's no punishment at all." He glances overhead. The opening is closed now, there is nothing to see because Dean is already here.
+Cas is smiling again, the tears tangling, the same watery smile that he had last time they saw each other, but truly happy one. "Yes," he tells him. "You had waken me up. I see you, all the time. And I hear you, everything. It's supposed to be my eternal punishment, but being able to see you, it's no punishment at all." He glances overhead. The opening is closed now, there is nothing to see because Dean is already here.
 
+Dean pulls back from the hug, eventually, after a long, long while. Half a step back, he takes Cas in, up and down, down and up. Registering him, memorizing him, branding his figure into the deepest of his soul and brain.
 
+He takes a breathe, voice shuddering. "Cas," he says, sound so broken that he can barely continue, but he pushes through, looking him in the eyes, more tears flooding. "I *have to* see you, because I *have to* let you hear this --"
 
+"I love you too."
 
+Now, the smile on Cas's face *now*, *that* is the real true happiness he should have, not the shattered teary one back in the bunker.
 
+Cas smiles, his eyes glitter with brightest light, his whole existence beams with happiness. He parts his lips, he answers, with one word that covers everything that all the languages in the universe and all the history that have ever been and would ever be invented have to say --
 
+"Dean."
 
-（memo: Dean responds to Cas's confession, so now his heart is no longer *empty*, it's filled with feelings. And so the Empty is no longer empty, which is unbearable to the Empty and it loses control of them. So they use this feeling as their connection back to the earth and escape the Empty.)
+And that is all Dean needs to hear. And he hears them all.
+
+*There,* he thinks, *now he's okay if the universe ends, or starts, or grows into a million other different versions. He's okay with anything now.*
+
+The hole in his heart grows back, the tear and the wound healed, filled with so much things that it's stuffed too big to even fit his chest. It overflows, turning into more tears and wider smiles and happiness and relief and all the things he doesn't know words for. He lets them flow through him, washed through in all of them, feeling the brightness shining from the beating heart, the lightheaded sensation at the back of his head, the hope and joy and content and everything running inside his vain. He looks at Cas in front of him, feeling new and reborn.
+
+"The one thing you want," he reaches for Cas's hand, pressing it onto his own chest, heart beating fast and eager under, and then under his lips. He tells him, "is something you already have -- me."
+
+Cas breathes out, happy. All the happiness the world has ever seen adding together would have no match for the happiness at this moment, on his face, in his eyes.
+
+<br>
+
+They are definitely not empty anymore. They become the opposite of empty, they are full, they are complete. The feelings and emotions overflow from them, leaking into their surrounding, shining the space like rising Sun on the sky. Bright and brilliant, blinding and dazzling.
+
+The Shadow materializes itself behind them, covering its eyes, pained by the rainbow and sunshine, deafened by the exploding sound of tears dropping and hearts beating. It grimaces and twitches, dying, in their presence. "What have you done!" it growls and struggles.
+
+Dean looks at it, grinning. "Nothing, just some natural, healthy expression of feelings." He exchanges a knowing, meaningful look with Cas, their hands still holding together.
+
+That's when Cas realizes it. "You can't bear it. The love and happiness, our feelings fill the Empty so full that they're tearing it apart."
+
+In the Shadow's glare, a cracking opens by their feet.
+
+They jump in without a second thought, hands held, eyes locked, hearts full. Leaving the Empty behind.
 
 ### Act 4
 
