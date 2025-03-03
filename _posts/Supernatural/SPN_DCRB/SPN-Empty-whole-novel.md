@@ -329,6 +329,8 @@ Cas lets the sensation of pain and agony resting at the periphery of his mind, l
 
 He chews his own word, considering, saying it again. "I'm already happy enough, Dean. Now it's your turn. You should find your true happiness without me."
 
+<br>
+
 ### Act 2
 
 > **Outline:** Then Dean dies as 15.20 canon shows in an everyday vampire job, but after the death he can't go to heaven because he has unfinished business (he hasn't saved Cas yet, Cas is his unfinished business) so he becomes a ghost.
@@ -485,6 +487,8 @@ He walks outside. The sun pierces through him, casting onto the ground without s
 
 "Got work to do." He sighs, casting a quick glimpse upward automatically, as if sensing a gaze from the place that exists out of his reach, as if picking up something in other wavelength from his new spiritual form without registering.
 
+<br>
+
 ### Act 3-1
 
 > **Outline:**  To free Dean's spirit and to save Cas, they call Jack to help, but God has no power in Empty, so it's up to themselves.
@@ -503,7 +507,7 @@ The sensation from his body is nothing compared to what is in his mind now. The 
 
 The bitterness, the sour, the pain, the angst. Every feeling mixed together like a big bowl of emotion soup. The black ether of emptiness pokes into his brain, churning at these, scooping them.
 
-"But don't worry," the  smiles even more merrily. "The show is not over yet, you can take your time."
+"But don't worry," the Shadow smiles even more merrily. "The show is not over yet, you can take your time."
 
 <br>
 
@@ -727,9 +731,13 @@ The hole in his heart grows back, the tear and the wound healed, filled with so 
 
 Cas breathes out, happy. All the happiness the world has ever seen adding together would have no match for the happiness at this moment, on his face, in his eyes.
 
+Not too slow, not too little, not too late. Not this time. Not again.
+
 <br>
 
-They are definitely not empty anymore. They become the opposite of empty, they are full, they are complete. The feelings and emotions overflow from them, leaking into their surrounding, shining the space like rising Sun on the sky. Bright and brilliant, blinding and dazzling.
+They are definitely *not empty* anymore.
+
+They become the opposite of empty, they are full, they are complete. The feelings and emotions overflow from them, leaking into their surrounding, shining the space like rising Sun on the sky. Bright and brilliant, blinding and dazzling.
 
 The Shadow materializes itself behind them, covering its eyes, pained by the rainbow and sunshine, deafened by the exploding sound of tears dropping and hearts beating. It grimaces and twitches, dying, in their presence. "What have you done!" it growls and struggles.
 
@@ -740,6 +748,8 @@ That's when Cas realizes it. "You can't bear it. The love and happiness, our fee
 In the Shadow's glare, a cracking opens by their feet.
 
 They jump in without a second thought, hands held, eyes locked, hearts full. Leaving the Empty behind.
+
+<br>
 
 ### Act 4
 
