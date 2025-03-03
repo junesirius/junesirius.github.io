@@ -737,7 +737,7 @@ Not too slow, not too little, not too late. Not this time. Not again.
 
 They are definitely *not empty* anymore.
 
-They become the opposite of empty, they are full, they are complete. The feelings and emotions overflow from them, leaking into their surrounding, shining the space like rising Sun on the sky. Bright and brilliant, blinding and dazzling.
+They become the opposite of empty, they are full, they are complete, they are whole. The feelings and emotions overflow from them, leaking into their surrounding, shining the space like rising Sun on the sky. Bright and brilliant, blinding and dazzling.
 
 The Shadow materializes itself behind them, covering its eyes, pained by the rainbow and sunshine, deafened by the exploding sound of tears dropping and hearts beating. It grimaces and twitches, dying, in their presence. "What have you done!" it growls and struggles.
 
@@ -790,5 +790,7 @@ Cas smiles, nodding without doubt. "Yes. He did. Everything."
 "And be *together*." Dean amends, emphasizing. This is important.
 
 They share looks, smiling, understanding. Happy.
+
+Full.
 
 So it is decided. It is how the life is going to be like -- there will be a *life*, finally.
