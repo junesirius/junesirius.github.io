@@ -2090,4 +2090,30 @@ originally from S03E08 Sam's Christmas gift for Dean: candy bar and oil, Dean: "
 
 make destiel Christmas, Sam give Cas suggestion of what to give Dean, Cas always make sure there is one for Dean one for the baby so he'd be always be happy
 
-### 237.
+### 237.【Charlie/Jo/Claire】S10E20/21 Amelia&Charlie don't have to die (F/F)【WIP - bang】
+
+age: Charlie (1985-2015) 30y S10, Claire (1997) 18y S10, Jo (1985.4.7-2009.11.19) 30y S10
+
+pairing: Charlie/Jo, Charlie/Claire, Charlie & Claire & Jo
+
+*canon:*
+
+- Charlie: knows monster/leviathan since S7E20 (27y), obsessed and build monster app before S8E20 (28y), S08E11 LARP (28y), S08E20 djinn horror game (29y), S09E04 Dorothy (29y), S10E11 good/bad Charlie (30y), S10E18 book of damned (30y), S10E21 die (30y)
+- Claire: knows about demons & Amelia run away for Jimmy & Jimmy died since S4E20 (12y), look for mom between S4E20-S10E20 (12-18y), appearance S10E09/10/20, S11E12, S12E16, S13E10
+- Jo: roadhouse exist before 1983, knows hunting since born, father dies 1995.5.16 & start training (10y), first hunt 2003.4.10 (18y), first on-screen hunt S02E06 (22y), S02E14 working in bar meets demon Sam (22y), S05E02 War's town (25y), S05E10 hellhound (25y)
+
+*divergent:*
+
+Charlie & Ash hacker online meet S1, Charlie visit roadhouse & meet Jo S1, Charlie Jo relationship S1-5
+
+Claire run into roadhouse S4, meet Jo S4 (never meet Randy like S10E09)
+
+Jo train Charlie S1-5, train Claire S4-5, the three go to hunt (S2E6/14 case), Charlie Claire mourn Jo after S5E10
+
+Charlie & Claire together S5-10 (practically raised her 13-18y, ~Winchesters, case fic occasionally, train+fun things), S07E20 Claire help Charlie with leviathan case, S10E20 Claire's emergency contact goes to Charlie, Amelia not dead, S10E21 Claire arrive in time to save Charlie
+
+Claire main motivation: find mom, Charlie helps; Charlie main/hidden motivation: revenge drunk driver for parents
+
+Charlie help Claire be less angry, Claire after 18y want to be with Charlie (both les), Charlie hesitates, Claire: "what's the matter? thought you like girls, and you like me", Charlie: "not like that", Claire: "how do you know" -> maybe together, maybe kiss?
+
+### 238.
