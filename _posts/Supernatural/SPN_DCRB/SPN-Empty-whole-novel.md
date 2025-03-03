@@ -265,11 +265,11 @@ He chooses a direction, and starts walking.
 
 "Aren't you that annoying little bug, buzzing in my head again?" Not very surprised this time, the shadowy "friendly neighborhood cosmic entity" that is the personalization of the Empty takes shape several steps behind him -- the shape of himself.
 
-Cas turns to it, looking at the Empty that is so alike to his own reflection but also nothing close.
+Cas turns to it, looking at the Shadow that is so alike to his own reflection but also nothing close.
 
 "Yes," he says, squinting, silently challenging, betting his chance. "It's me again. And I'm awake again."
 
-The Empty makes a truly annoyed sound. Cas wonders if the same trick and bargain could work twice.
+The Shadow makes a truly annoyed sound. Cas wonders if the same trick and bargain could work twice.
 
 "I know what you're thinking." It gloats. "Don't think for a second I'll let you go back again."
 
@@ -281,7 +281,7 @@ The Empty makes a truly annoyed sound. Cas wonders if the same trick and bargain
 
 Castiel thinks hard. "I'll be careful this time." he says solemnly. "Won't disturb you for another eon, I promise."
 
-The Empty scoffs. "That's not the deal we made, remember? The deal was, you summon me, and I *own* you. Permanently, period. No new deal, no nothing. Did you forget, everything comes to the Empty, stays in the Empty? Shouldn't have let you out the first time."
+The Shadow scoffs. "That's not the deal we made, remember? The deal was, you summon me, and I *own* you. Permanently, period. No new deal, no nothing. Did you forget, everything comes to the Empty, stays in the Empty? Shouldn't have let you out the first time."
 
 *So no deal then.* Cas thinks bitterly. What is his chance of scraping for something else?
 
@@ -309,11 +309,11 @@ Cas has to tear his eyes away from the view above. The opening in the Empty does
 
 "Is it real?" he asks, dubiously, redundantly. Dean's voices already tell the answer, but he has to ask.
 
-"Very," the tip of the Empty's lip jerks up. This entity is clearly enjoying itself too much.
+"Very," the tip of the Shadow's lip jerks up. This entity is clearly enjoying itself too much.
 
 "Why? Why show me all this, but not let me go back?"
 
-"Because I want to punish you!" The Empty scolds. "You're loud, you're annoying, and bad boys get punished. So consider this your eternal punishment. Hey, on the bright side, you get to watch your boyfriend from here for eternity -- oh wait, only until he dies -- while you, I assure you, going back to sleep would simply be a far better option for you."
+"Because I want to punish you!" The Shadow scolds. "You're loud, you're annoying, and bad boys get punished. So consider this your eternal punishment. Hey, on the bright side, you get to watch your boyfriend from here for eternity -- oh wait, only until he dies -- while you, I assure you, going back to sleep would simply be a far better option for you."
 
 At that, he starts to feel the pain in his body and mind. Black ether of emptiness shapes and wraps around him, acting like ropes and whips and knives. Everywhere it touches, the existence does not. Cutting him, piercing him, drilling holes then reaching through the wounds, reaching deep inside. And when it retreats temporarily, Cas finds himself healed, wounds filled with fresh-grown newly-materialized bones and flesh -- only to be cut open and drilled and minced, again, and again. Like the Prometheus and the Greek eagle, with the repeatedly eaten and regrown liver. Trapped and punished for eternity.
 
@@ -497,13 +497,13 @@ Cas feels his hearts clutching and squeezing. Or is it the Empty pulling and pok
 
 "This is not real." he glares at the entity. This has to be a lie, just to... to what? Make him give up? Surely Dean can't really make *that* decision? With all he knows, still decided to stay behind?
 
-The Empty laughs. "But it is. As real as you and me -- or, just me."
+The Shadow laughs. "But it is. As real as you and me -- or, just me."
 
 The sensation from his body is nothing compared to what is in his mind now. The desperation and sorrow comes stronger than ever, and then, there is anger. The anger of himself not being there, the anger of Dean making stupid decisions like he always do, the anger of the world and the Empty that keep teasing them, playing them with no end.
 
 The bitterness, the sour, the pain, the angst. Every feeling mixed together like a big bowl of emotion soup. The black ether of emptiness pokes into his brain, churning at these, scooping them.
 
-"But don't worry," the Empty smiles even more merrily. "The show is not over yet, you can take your time."
+"But don't worry," the  smiles even more merrily. "The show is not over yet, you can take your time."
 
 <br>
 
