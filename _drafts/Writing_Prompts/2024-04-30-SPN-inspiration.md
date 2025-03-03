@@ -502,7 +502,7 @@ Dean的“you're dead to me”，可以真正地杀死Cas。
 
 （灵感部分参考柠檬的《幻痛》和五觉）
 
-### **50.【destiel】1518 fix-it《The Empty》**【WIP - bang】
+### ~~50.【destiel】1518 fix-it《The Empty》【done】~~
 
 丁后悔，疯狂努力要救回卡
 
