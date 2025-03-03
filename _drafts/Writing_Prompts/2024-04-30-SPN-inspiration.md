@@ -2092,6 +2092,8 @@ make destiel Christmas, Sam give Cas suggestion of what to give Dean, Cas always
 
 ### 237.【Charlie/Jo/Claire】S10E20/21 Amelia&Charlie don't have to die (F/F)【WIP - bang】
 
+title: Wayward Girls, It's a Cruel World (But I got you)
+
 age: Charlie (1985-2015) 30y S10, Claire (1997) 18y S10, Jo (1985.4.7-2009.11.19) 30y S10
 
 pairing: Charlie/Jo, Charlie/Claire, Charlie & Claire & Jo
@@ -2101,14 +2103,14 @@ tag: canon rewrites (not canon-divergent)
 *canon:*
 
 - Charlie: knows monster/leviathan since S7E20 (27y), obsessed and build monster app before S8E20 (28y), S8E11 LARP (28y), S8E20 djinn horror game (29y), S9E4 Dorothy (29y), S10E11 good/bad Charlie (30y), S10E18 book of damned (30y), S10E21 die (30y)
-- Claire: knows about demons & Amelia run away for Jimmy & Jimmy died since S4E20 (12y), look for mom between S4E20-S10E20 (12-18y), appearance S10E09/10/20, S11E12, S12E16, S13E10
+- Claire: knows about demons & Amelia run away for Jimmy & Jimmy died since S4E20 (12y), look for mom between S4E20-S10E20 (12-18y), S10E09/10 Randy/Dean, S10E20 Grigori for Amelia, S11E12 vampire w/ Jody, S12E16 werewolf w/ Mick Davies, S13E10 Kaia
 - Jo: roadhouse exist before 1983, knows hunting since born, father dies 1995.5.16 & start training (10y), first hunt 2003.4.10 (18y), first on-screen hunt S2E6 (22y), S2E14 working in bar meets demon Sam (22y), S5E2 War's town (25y), S5E10 hellhound (25y)
 
 *divergent:*
 
-Charlie & Ash hacker online meet S1, Charlie visit roadhouse & meet Jo S1, Charlie Jo relationship S1-5
+Charlie & Ash hacker online meet S1, Charlie visit roadhouse & meet Jo S1, Charlie Jo relationship S1-5 (dating + training/hunting)
 
-Claire run into roadhouse S4, meet Jo S4 (never meet Randy like S10E09)
+Claire run into roadhouse S4, meet Jo S4 (never meet Randy like S10E09, never go to Jody after S10E20)
 
 Jo train Charlie S1-5, train Claire S4-5, the three go to hunt (S2E6/14 case), Charlie Claire mourn Jo after S5E10 (they didn't go because backup/Claire too young, Charlie stay with Claire, listen to Bobby/Ellen's phone)
 
