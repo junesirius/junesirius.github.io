@@ -781,9 +781,9 @@ Cas smiles, nodding without doubt. "Yes. He did. Everything."
 
 <br>
 
-"So, what now?" Sam is the one asks.
+"So, what now? You want to keep hunting? Or retired or something?" Sam is the one asks.
 
-Dean shrugs. "Now we just, live. After everything we fought for, we never get to really *live* this world, enjoy the life as promised, with all the peace and freedom and happiness. I mean, isn't it about the time? The paradise on Earth?"
+"Anything, hell, all of that." Dean shrugs. "Now we just, *live*. After everything we fought for, we never get to really *live* this world, enjoy the life as promised, with all the peace and freedom and happiness. I mean, isn't it about the time? The paradise on Earth?"
 
 "The paradise on Earth," Cas echoes, eyes gleaming. "Like the one Jack showed me long time ago." he turns to the kid, realization dawns. "You never said it will be perfect, or Heaven-like, or monster-free, but it will be a world we can live and love and just, *be*."
 
