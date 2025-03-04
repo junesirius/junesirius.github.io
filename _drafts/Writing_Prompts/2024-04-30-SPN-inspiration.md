@@ -1012,6 +1012,8 @@ invite him over because he said he doesn't have a bed at home, and it's actually
 
 ### 105.【destiel】Cas is a DW weeping angel【WIP - bang】
 
+《Do Not Blink》
+
 卡中了哭泣天使咒，触碰会让人回溯时间，被注视会无法移动
 
 ### 106.【Dean】S07E03 Amy Pond's son Jacob
@@ -2148,4 +2150,12 @@ human Dean + ghost Cas -> freaked out for a bit (horror/suspension at beginning 
 
 恐怖电影风格，黑镜机器黑狗集+寂静之地
 
-### 242.
+### 242.【destiel】DW怪“寂静”
+
+只有在注视着的时候才能记住的怪
+
+在手上画道作为提醒
+
+horror
+
+### 243.
