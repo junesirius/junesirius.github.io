@@ -2120,4 +2120,12 @@ Claire main motivation: find mom, Charlie helps (S10E20); Charlie main/hidden mo
 
 Charlie help Claire be less angry, Claire after 18y want to be with Charlie (both les), Charlie hesitates, Claire: "what's the matter? thought you like girls, and you like me", Charlie: "not like that", Claire: "how do you know" -> maybe together, maybe kiss?
 
-### 238.
+### 238.【destiel】S08E17 克隆Dean替身梗
+
+（同时有西部世界AU和黑镜AU的感觉，替身梗，inspired by rupertgayes《Less Than Ghosts》《where everybody knows》）
+
+卡在817见过那么多丁克隆体，卡自己也是最了解怎么修复和复制丁身体的，当他觉得他不能拥有丁之后他离开给自己造了个丁一起过，真丁吃醋
+
+（1503离婚期canon divergent？那时的God也不在，算是短暂平静期）
+
+### 239.
