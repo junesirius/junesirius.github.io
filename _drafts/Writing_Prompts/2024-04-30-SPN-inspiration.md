@@ -1960,7 +1960,7 @@ Cas smites Bel/Jack's body, has to continue use the horn to suck all souls into 
 
 Cas uses the power to go against Chuck & Billie
 
-### 228.【all/destiel】精分丁
+### 228.【all/destiel】精分丁+serial killer丁
 
 （inspired by 《My Bloody Valentine》）
 
@@ -2128,4 +2128,24 @@ Charlie help Claire be less angry, Claire after 18y want to be with Charlie (bot
 
 （1503离婚期canon divergent？那时的God也不在，算是短暂平静期）
 
-### 239.
+### 239.【destiel】S04E17 Dean Smith + haunting Cas
+
+(canon-divergent? pre-S04E17->post-S04E17)
+
+normal human non-hunter Dean (parents Bobby/Ellen, sister Jo), move into new apartment which is haunted by ghost that turned out to be Cas
+
+human Dean + ghost Cas -> freaked out for a bit (horror/suspension at beginning before turn out to reveal it's Cas), then ~domestic life -> Dean know about ghost & supernatural is real, help Cas revenge his death (whole family Jimmy/Amelia/Claire killed by someone? Nick?), finish his unfinished business (Dean thought) but Cas still not ghost, Dean puzzled (new unfinished business bc of Dean) -> S04E17 event, Cas help figure out the spirit, Dean get rid of it without Sam -> Zach confront, Dean Smith: "I'm not a fighter, I'm a lover"
+
+### 240.【destiel】trapped in memory
+
+“两句话恐怖故事” 14（from “2020-12-23-Writing-prompts-from-walls-bots”）
+
+> 人们说你去世之后会继续活在他人的记忆中。
+>
+> 但人们从来没有说过一旦你被困在里面时怎么逃出来。
+
+### 241.【destiel】寂静之地AU
+
+恐怖电影风格，黑镜机器黑狗集+寂静之地
+
+### 242.
