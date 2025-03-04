@@ -4,7 +4,7 @@ title: 【梦记】湖畔考察，怪物种类（略感惊悚焦虑又悲伤）
 date: 2024-12-09 09:11
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "惊悚", "记忆", "焦虑", "Supernatural", "普通故事"]
+tags: ["梦记", "惊悚", "记忆", "焦虑", "Supernatural", "普通故事", "悲伤"]
 pov: 第一人称视角
 origin: 个站
 ---
