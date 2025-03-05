@@ -622,7 +622,7 @@ Cas only gets time to see a wooden sign with a clean carving saying "Sunrise, WY
 >
 > (start Act scene with Dean get caught by Sam while praying, start anxious about Cas hurt)
 >
-> (Raphael find them? cuz thinking Cas should be there, that's how Dean would know Cas is in bad shape, so from now on their goal become looking for Cas in the wild land) (Raphael takes Sam away? so it can be only Dean alone?)
+> (Butch &  Sundance: horse chasing, bank robbery, train robbery; Legends of the Fall: native Indian, bear fighting)
 
 ### Act 4
 
