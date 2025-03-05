@@ -1844,6 +1844,8 @@ case fic? 穿梭宇宙级别的案子
 
 ### 217.【all】怪奇物语xover
 
+season-long case fic
+
 进怪奇物语世界观杀怪
 
 ### 218.【all】S01E04 saying "Christo" is more reliable than holy water
@@ -1852,7 +1854,7 @@ first time Dean wants to use holy water to check demon but Sam says saying "Chri
 
 rewrite one of the times with demon that holy water doesn't work but saying "Christo" would do?
 
-with Knight of Hell maybe? demon knife can't kill them, maybe holy water won't to (S12E12)
+with Knight of Hell maybe? demon knife can't kill them, maybe holy water won't too (S12E12)
 
 case fic
 
@@ -2130,13 +2132,17 @@ Charlie help Claire be less angry, Claire after 18y want to be with Charlie (bot
 
 （1503离婚期canon divergent？那时的God也不在，算是短暂平静期）
 
-### 239.【destiel】S04E17 Dean Smith + haunting Cas
+### 239.【destiel】S04E17 Dean Smith + ghost Cas【WIP - bang】
 
 (canon-divergent? pre-S04E17->post-S04E17)
 
-normal human non-hunter Dean (parents Bobby/Ellen, sister Jo), move into new apartment which is haunted by ghost that turned out to be Cas
+(tag: ghost Cas, S04E17, Dean Smith)
 
-human Dean + ghost Cas -> freaked out for a bit (horror/suspension at beginning before turn out to reveal it's Cas), then ~domestic life -> Dean know about ghost & supernatural is real, help Cas revenge his death (whole family Jimmy/Amelia/Claire killed by someone? Nick?), finish his unfinished business (Dean thought) but Cas still not ghost, Dean puzzled (new unfinished business bc of Dean) -> S04E17 event, Cas help figure out the spirit, Dean get rid of it without Sam -> Zach confront, Dean Smith: "I'm not a fighter, I'm a lover"
+normal human non-hunter Dean (parents Bobby/Ellen, sister Jo, went to Stanford, sales director, 3 weeks in Sandover Bridge & Iron Inc.), move into new apartment which is haunted by ghost that turned out to be Cas
+
+human Dean + ghost Cas -> freaked out for a bit (horror/suspension at beginning before turn out to reveal it's Cas), then ~domestic life -> Dean know about ghost & supernatural is real, help Cas revenge his death (whole family Jimmy/Amelia/Claire killed by Nick), finish his unfinished business (Dean thought) but Cas still ghost, Dean puzzled (new unfinished business bc of Dean) -> S04E17 event, Cas help figure out the spirit, Dean get rid of it without Sam -> Zach confront, Dean Smith: "I'm not a fighter, I'm a lover"
+
+(more fluff than horror)
 
 ### 240.【destiel】trapped in memory
 
@@ -2156,6 +2162,6 @@ human Dean + ghost Cas -> freaked out for a bit (horror/suspension at beginning 
 
 在手上画道作为提醒
 
-horror
+horror genre
 
 ### 243.
