@@ -4,7 +4,7 @@ title: 【梦记】感染的脸，Claire唱歌（微惊悚触感，碎片）
 date: 2025-03-05 09:07
 categories: ["梦记"]
 characters: ["Claire Novak"]
-tags: ["梦记", "Supernatural", "触感", "攀岩", "音乐剧", "碎片"]
+tags: ["梦记", "Supernatural", "触感", "攀岩", "音乐剧", "碎片", "惊悚"]
 pov: 第一人称视角
 origin: 个站
 ---
