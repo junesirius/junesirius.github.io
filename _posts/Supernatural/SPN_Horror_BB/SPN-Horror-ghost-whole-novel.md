@@ -6,7 +6,7 @@ categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
 tags: ["Supernatural", "destiel", "英文"]
 pov: 第三人称
-origin: 2025 SPN Horror Big Bang
+origin: 2026 SPN Horror Big Bang
 long_novels: 【Destiel】Rent Overdue
 ---
 
@@ -24,6 +24,10 @@ human Dean + ghost Cas -> freaked out for a bit (horror/suspension at beginning 
 
 (more fluff than horror)
 
+### Edit notes
+
+Introduce/sneak in introduction of Zachariah (disguised as normal human but use appearance description as hint), senior director or current business VP, checking in on Dean
+
 ## Main
 
 ### Act 1
@@ -32,21 +36,29 @@ human Dean + ghost Cas -> freaked out for a bit (horror/suspension at beginning 
 
 "The place is good enough, close to the office, good view, but no compete with California of course," Dean talks on the phone, pacing in front of the large floor-to-ceiling window that has the view of a running river right down below. The penthouse view. "But at least the rent is decent -- not crazy, in this economy -- says a lot already."
 
-"Not like you need to worry about the rent." Jo laughs on the other side of the line.
+"Not like you need to worry about the rent." Jo laughs on the other side of the line. "Why don't you just buy it?"
 
-"Hey, money is money." Dean paces back to the kitchen, grabbing the bottle of Master Cleanse and drinking a gulp. The taste still makes him frown, but at lease it's good for health.
+"Hey, money is money. Think of it as trial time." Dean paces back to the kitchen, grabbing the bottle of Master Cleanse and drinking a gulp. The taste still makes him frown, but at lease it's good for health.
 
 "Like all businessmen say."
 
-"Yeah why am I not surprised, the whole industry says that -- hell, the whole world says that, that's how we make money, am I right?" He laughs into the phone.
+"Yeah why am I not surprised, the whole industry says that -- hell, the whole world says that, that's how we make money, am I right?" He grins into the phone.
 
 "I wouldn't know." Jo's voice unimpressed. "Not like I'm going to be business major or anything."
 
 "How's school? Everything okay there?" Dean's voice gets more straight now, dropping the teasing tone.
 
-"Why, if I get bullied, you'd dash in here kicking their asses?"
+"Why, if I get bullied, you'll dash in here kicking their asses?"
 
-"I might worry more about the other guy, you know, call the ambulance before you kill them or do something worse. But yeah, got to look out for my little sister."
+"I might worry more about the other guy, you know, call an ambulance before you kill them or do something worse."
+
+"Am I that bad?"
+
+"You've been hitting dudes in the nose since like twelve, Jo. I would know."
+
+"That's because they're all jerks."
+
+"No argument there, but still, I got to look out for my little sister."
 
 Jo snorts a laugh. "Bye Dean. Oh and, mom and dad said congrats on your new job."
 
@@ -54,7 +66,7 @@ Dean raises his eyebrows. "There's no shame to congratulate me yourself, you kno
 
 "Oh I know." Jo chuckles, hanging up the phone.
 
-*What a pain in the ass.* Dean amuses, putting the phone back into the back pocket, walking back to the center of the living room.
+*What a pain in the ass.* Dean amuses, putting the phone back into the pocket, walking back to the center of the living room.
 
 The place was furnitured when he moved in, the sofa, the TV stand, the bed, all included and in good shape. And not the cheap stuff, he can tell.
 
@@ -68,15 +80,15 @@ Dean Smith feels good about the life.
 
 <br>
 
-*Probably it's just because it's the first night, in a new room, on a new bed.* Dean tells himself, trying the yoga breathing.
+*Probably just because it's the first night, in a new room, on a new bed.* Dean tells himself, trying the yoga breathing.
 
 He's still turning and rolling over in the middle of the night, feeling uneasy.
 
 He opens up eyes, staring at the ceiling. The alarm clock on the bedstand shows around two now. He only has another four hours before having to get up for the first day in office. He wouldn't want to be late for the first day.
 
-The sleepiness is there, he can feel it, the head heavy from the usual biological clock, but something is disturbing his gut. The feeling of being watched by something unseen in the dark.
+The sleepiness is there, hiding behind the eyelids, he can feel it, his head and eyes heavy from the usual biological clock, but something is disturbing his gut. The feeling of being watched by something unseen in the dark.
 
-Dean widens his eyes, trying to scan the room. There is nothing there, of course. The quiet night. So quiet he thinks he can even imagine neighbor's light snoring.
+Dean forces his eyes widen, trying to scan the room. There is nothing there, of course. The quiet night. So quiet he thinks he can even imagine neighbor's light snoring.
 
 He closes eyes, trying hard, again, to hypnotizing himself into sleep.
 
@@ -90,7 +102,7 @@ It's as fresh clean as any new bathroom can be. No dirt on toilet lid, no stain 
 
 Dean glances at the walls, can't see anything except just feeling some chillness seeping through his nightgowns, making his feet cold. The temperature is lower than he expects. He sees condensed moisture forming some wetness on the wall, a thin layer of frost. Guess April is still not a warm season then.
 
-He gets back to the bed.
+He lays back to the bed.
 
 The sound of dripping water continues.
 
@@ -108,9 +120,9 @@ He prepares his own dinner and finishes it in front of TV.
 
 Dishes done, trashes taken out, he sits down with a book, and that's when he notices that prickling feeling is back, the feeling from last night that he almost already forget or would think of it as a dream. The feeling that he's not alone. The feeling of being watched, being observed, being analyzed. The feeling of a prey right before the predator jumps on them. The feeling of a sitting duck.
 
-Dean shifts in his ergonomic office chair, trying to ignore the strange sensation. Two pages passed with no idea what he's reading, he has to put down the book and walks around the room, scouting.
+Dean shifts in his ergonomic office chair, trying to ignore the strange sensation, mentally telling the standing hair on the back of the neck to ease. Two pages passed with no idea what he's reading, he has to put down the book and walks around the room, scouting.
 
-He turns on all the light in the room, every corner bright and lit-up. He walks from one corner to another, inspecting the places where he already inspected during apartment tour. There is nothing there. And of course there is no *one* there.
+He turns on all the light in the room, every corner bright and lit-up. He walks from one corner to another, inspecting the places where he already inspected during the apartment tour. There is nothing there. And of course there is no *one* there, either.
 
 Dean laughs at himself. "Since when did you become a paranoid?"
 
@@ -154,11 +166,11 @@ The night does not go by easily.
 
 Dean snaps out of the dream in a gasp, his chest heavy with weight. His hands clenching the chest, panting. He already can't remember the dream, just the lingering feeling of the weight on the chest, the breathlessness, the sweat on his back still remind him of a rough night.
 
-He checks the clock, it still has twenty minutes before his usual clock. He gets up anyway, showering away the sticky feeling.
+He checks the clock, it still has twenty minutes before his usual hour. He gets up anyway, washing away the sticky feeling.
 
-The shower water is freezing cold, for quite a while. He has to wait there, shuddering, cursing. And eventually it turns up, leaving the whole bathroom steaming with the hot steam. The mirror covered by the steam.
+The shower water is freezing cold, for quite a while. He has to wait there, shuddering, cursing. And eventually it turns up, leaving the whole bathroom steaming with the hot vapor. The mirror covered by the steam.
 
-Dean is wiping his hair, when he has a glance at the mirror. And that freezes him cold. The steam on the mirror has four capital letters, unmistakably read: "DEAD."
+Dean is wiping his hair, when he has a glance at the mirror. And that freezes him dead on spot. The steam on the mirror has four capital letters, unmistakably read: "DEAD."
 
 He flees out of his apartment as fast as he can.
 
@@ -184,7 +196,7 @@ The water tap turns on by itself in front of him, steam covering the mirror from
 
 Dean yells in terror and runs out of the apartment.
 
-He sleeps in the office that day. And the next.
+He sleeps in a hotel that day. And the next.
 
 <br>
 
@@ -194,19 +206,19 @@ He sleeps in the office that day. And the next.
 
 "I'm telling you, I can feel it! And apparently, with all those Death Notebook memo, I'm given an early warning notice, and I'm not gonna ignore it!" Dean rubs at his eyes, feeling the temples throbbing. The lack of sleep is tearing him apart atom by atom.
 
-"You will still have to pay all the rent for the rest of the year as well as the deposit money. It is written under section twenty-six of the rent release, stating the situation where early termination is unavoidable." The robot tone tells him flatly. Too smooth.
+"You will still have to pay all the rent for the rest of the year as well as the deposit money, if you end up deciding to move out early. It is written under section twenty six of the rent release, stating the situation where early termination is unavoidable." The robot tone tells him flatly. Too smooth.
 
 Damn it. Yeah, he knows the clause. He frowned at it before signing, but it's kind of standard protocol.
 
-"I could have been dead! Or might will be! The threating message is pretty straightforward." He tries again.
+"I could have been dead! Or might will be! The threat message is pretty straightforward." He tries again.
 
-"The terms for death of tenant is covered in section thirty three. You will only need to give two months' written notice and continue the payment until then."
+"The terms for death of tenant is covered in section thirty three. You or your representative will only need to give two months' written notice and continue the payment until then."
 
 Dean snaps the phone shut, cursing.
 
 <br>
 
-He goes back to the apartment, eventually, before the week is over. *This is ridiculous,* he thinks to himself, *what he sees can't be real.* Keeping distance between the troublesome source, sometimes the situation would just look more optimistic by itself. Same for the calming time before quarreling couples go into divorce.
+He goes back to the apartment, eventually, before the week is over. *This is ridiculous,* he thinks to himself, *what he thinks he sees can't be real.* Keeping distance between the troublesome source, sometimes the situation would just look more optimistic by itself. Same for the calming time before quarreling couples go into divorce.
 
 Dean's courage grows back.
 
@@ -218,17 +230,17 @@ The coffee machine and the blender turns on by themselves, motors and blades hum
 
 He can hear the tabs turning on, water overflowing in the bathtub and sinks, flooding to the floor.
 
-His desk printer starts printing automatically, eating blank papers and spitting ones with letters. At a glimpse, he can see it repeats the same message over and over -- "DEAD".
+His desk printer starts printing automatically, eating blank papers and spitting ones with letters. At a glimpse, he can see it repeats the same message over and over: a lot of D's, E's, and A's.
 
 Dean jumps on his heels, turning around to try the door knobs, desperate. It holds still under his grip.
 
-He shouts "Help" and pounds on the door -- no one comes to him. He reaches his phone for an emergency call -- the phone has no bar.
+He shouts "Help" and pounds on the door -- no one comes to him. He reaches his phone for an emergency call -- the phone has no signal.
 
-The temperature is dropping, his breath forms to white fog. He glances back, white smoke swirls and flutters in the center of the room, forming into some shape.
+The air temperature is dropping, his breath condensed into white fog. He glances back, white smoke swirls and flutters in the center of the room, forming into some shape.
 
 His throat already starts to get hoarse from the vain yelling for help, his hands and feet freezing cold.
 
-Dean Smith thinks he is two seconds away from having a heart attack -- the kind that commonly known as: "scared to death."
+Dean Smith thinks he is two seconds away from having a heart attack -- the kind that commonly known as: "scared to death".
 
 <br>
 
