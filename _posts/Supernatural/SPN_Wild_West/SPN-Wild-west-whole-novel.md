@@ -82,6 +82,12 @@ Just how many gangsters has he run into before? Dean finds himself wondering.
 
 "Eastwood. Clint Eastwood. Best gunner in the western world," Dean tells him.
 
+### Edit note
+
+Saloon has room (sign "room" by the side) -> find an excuse to not spend the night in Saloon (prostitutes?)
+
+play cards -> play poker
+
 ## Main
 
 ### Act 1 (Dean stuck in Sunrise)(Sunrise, 1861, Dean&Sam) Chap. 1
@@ -622,7 +628,21 @@ Cas only gets time to see a wooden sign with a clean carving saying "Sunrise, WY
 >
 > (start Act scene with Dean get caught by Sam while praying, start anxious about Cas hurt)
 >
-> (Butch &  Sundance: horse chasing, bank robbery, train robbery; Legends of the Fall: native Indian, bear fighting)
+> (Butch &  Sundance: horse chasing, bank robbery, train robbery; Legends of the Fall: native Indian, bear fighting) can be outlaw or bounty hunter hunting cowboys
+
+#### draft notes
+
+(bear fighting)
+
+Dean: could be a quick way to get some noise, how hard can a bear be? we used to fight werewolves before breakfast
+
+Sam: you crazy? you can die!
+
+Dean: welcome to wild west, Sammy, you can die any time anywhere. you see those men? anyone can just draw a gun and start massive shooting if they want
+
+Sam: you're mistaken reality from movie
+
+Dean: art comes from life. I'm going. Don't feel sorry for the bear.
 
 ### Act 4
 
