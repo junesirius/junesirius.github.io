@@ -13,7 +13,9 @@ published: false
 
 [TOC]
 
-(tag: S15E18, confession, reciprocation, canon-divergent, fix-it, temporary MCD but we all know it's like in SPN, angst, mutual pining)
+(tag: S15E18, confession, reciprocation, canon-divergent, fix-it, temporary MCD but we all know it's like in SPN, angst, mutual pining, Dean/Cas Reverse Bang)
+
+(collection: dcrb2025)
 
 ## Draft
 
