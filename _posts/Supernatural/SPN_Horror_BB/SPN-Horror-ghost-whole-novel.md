@@ -24,9 +24,29 @@ human Dean + ghost Cas -> freaked out for a bit (horror/suspension at beginning 
 
 (more fluff than horror)
 
+### Script reading notes
+
+Dean's apartment -> Dean's loft
+
+main revelation: "You'll be who you're supposed to be, they're supposed to be together"
+
+morning routine: prepare latte with organic rice milk on cappuccino machine, while reading today's Wall Street Journal
+
+kitchen description: a well-appointed kitchen. sub-zero fridge, sparkling chrome Viking appliances, granite, Williams Sonoma crap, the works
+
+Mr. Adler/Zachariah (50s, casually commanding demeanor), Dean big respectful grin
+
+Mr. Adler's promise: senior VP, eastern great lakes division, eight to ten years
+
 ### Edit notes
 
-Introduce/sneak in introduction of Zachariah (disguised as normal human but use appearance description as hint), senior director or current business VP, checking in on Dean
+Introduce/sneak in introduction of Mr. Adler/Zachariah (disguised as normal human but use appearance description as hint), senior director or current business VP, checking in on Dean
+
+rattle the doorknob
+
+breath comes out in a cold puff
+
+temperature plummet, their breath issuing in a puff
 
 ## Main
 
