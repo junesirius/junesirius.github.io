@@ -13,7 +13,7 @@ published: false
 
 [TOC]
 
-(tag: S15E18, confession, canon-divergent, fix-it, temporary MCD but we all know it's just going to a different place, angst)
+(tag: S15E18, confession, reciprocation, canon-divergent, fix-it, temporary MCD but we all know it's like in SPN, angst, mutual pining)
 
 ## Draft
 
@@ -40,6 +40,10 @@ Jack/米：（也震惊）所以你什么都没有给他？那他怎么……？
 (overall) restrain "think" V.O., more descriptive scenes, "show it, don't tell it", less adj., more n./v.
 
 (overall) change some of the "Empty" to "Shadow"
+
+(pace) after Dean goes into the Empty, the pace is a little rushed, need reread to follow -> make what happened clearer
+
+(plot) after they reunite, could make it more emotional, more than hug, maybe a little first kiss (pending), some soul-grace entanglement maybe, make it more intense to balance out the angst
 
 ## Main
 
