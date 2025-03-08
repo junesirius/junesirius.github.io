@@ -1502,7 +1502,9 @@ borrow something from S15 Cas gets mark (briefly) and Chuck's what-if future of 
 
 （来自路西剧）
 
-Dean在沙滩上发现一对掉落的烧焦黑色翅膀，第一反应觉得是路西的，后来发现是卡的，一开始不相信卡是天使，慢慢变熟。每次看见翅膀都会心疼
+Dean在沙滩上发现一对硬生生撕下来的烧焦黑色翅膀，第一反应觉得是路西的，后来发现是卡的，一开始不相信卡是天使，慢慢变熟。每次看见翅膀都会心疼
+
+（可以跟梗244融合）
 
 ### 174.【destiel】恐怖游轮AU
 
@@ -2164,4 +2166,28 @@ human Dean + ghost Cas -> freaked out for a bit (horror/suspension at beginning 
 
 horror genre
 
-### 243.
+### 243.【destiel】S05E03 “because you're the only one that helps me”
+
+S05E03 Cas to Dean: "I ask for *your* help, because *you* are the only one that helps me", Cas doesn't have anyone else but Dean, Dean's the only one he has
+
+and Cas is the only angel that saves Dean from Hell and helps him
+
+all they have is each other, and it's always been like this
+
+so S15E03 when Cas leaves, he has no one and nothing
+
+homeless orphan AU? two poor kids lean on each other and raise each other in this cruel world?
+
+### 244.【destiel】《Phantom Wings》
+
+(title inspired by 《Phantom Pain》, visual inspired by 《Captain America 4》)
+
+Cas's wing is raw ripped from him in whole by (Raphael/Lucifer/...?), thrown onto Earth, leaving him bleeding out
+
+(some angel falling to earth movie reference? the wound on the shoulder blade, wing-like)
+
+Dean finds his wing?
+
+(-> can be combined with prompt 173)
+
+### 245.
