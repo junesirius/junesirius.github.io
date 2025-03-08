@@ -1,0 +1,191 @@
+---
+layout: post
+title: 【Destiel】Rent Overdue（2）
+date: 2025-03-08 03:01
+categories: ["SPN"]
+characters: ["Castiel", "Dean Winchester"]
+tags: ["Supernatural", "destiel", "英文"]
+pov: 第三人称
+origin: 2026 SPN Horror Big Bang
+long_novels: 【Destiel】Rent Overdue
+---
+
+Dean is actually surprised that he still manages to stand on his two feet, not collapsing, yet. He stares at the white fog that is continuously changing shapes, dispersing and gathering, like a swarm of bees dancing, like something that might have some consciousness but not entirely sure yet. Like a bad old-time TV trying to receive the signal, making the snowflake image clearer.
+
+In his gaze, the shape slowly settles, assembling into figure of a man. Human-like, almost, if not considering the flickering transparent color. Young, about his age, Dean observes. Casual business clothing but disheveled, tie and suit tousy, the trench coat splattered in red. He looks disoriented, his face as confused as a traveler lost in the woods.
+
+Dean's hands are still gripped tight on the doorknob, but he forgets rattling it. He just stares at the figure that is most definitely a ghost -- fits every single ghost story in common urban legend, minus the whooping and chasing after him and killing part.
+
+The ghost settles finally -- as stable as the old-time black-and-white TV can be, receiving its best signal already.
+
+Dean swallows, leaning his back on the door. "Who are you?"
+
+His brain almost starts mocking at him the moment his throat works. *Try starting a small conversation with a freaking ghost? What's he thinking?*
+
+The figure shatters slightly, as if thinking and processing his words are taking too much of his energy that he can't focus on keeping the appearance. His eyes fall on Dean, intense, frowning. He's thinking hard, Dean realizes. But he still can't remember much.
+
+"I -- don't really know." The ghost answers, hesitant, voice low, looking even more confused than moments ago.
+
+The lights and noises around them start quieting out. Lights stabler, blender spinning slower, water tubs closing.
+
+Dean gives a quick glimpse over the surroundings. No permanent damage done.
+
+"This is you?" He uses his eyes to refer the rest of the home. The ghost gets the notion.
+
+"I... guess so." Still hesitant, still slow and low. Looking slightly embarrassed, if Dean parses the dropping eyes correctly.
+
+"Huh, Hell of an entrance." Dean huffs.
+
+"Sorry." The ghost looks truly apologetic. "I didn't mean to. I don't even know I can..."
+
+Then things go back to normal. The printer spits out the last paper, the blinking LED signal dies down, then it falls to silence. So does the coffee machine and blender and everything else.
+
+Dean is taking these in, slowly, his brain still processing "he's talking with a real ghost that is haunting his loft" part of new information.
+
+"Hmm, you're new? In this haunting thing?" Words roll out of his tongue without permission.
+
+"I'm not sure about that either." This is probably the hundredth time tonight he hears the ghost say the same thing.
+
+"What *do* you remember, then? A name, address, cause of death, anything?" Dean doesn't really know how, but somehow, he feels bad for the ghost. He tries to shake away the feeling, because -- that's just weird, isn't it?
+
+The ghost looks down on himself, as if he's also just starting to take himself in, the hands, the cloth, the place he stands. He looks at his own transparent hands, then looks back at Dean. He says, quietly, "I'm dead."
+
+<br>
+
+Dean almost laughs. But he knows he shouldn't. Bad manner even for socializing with a ghost.
+
+He holds back the pull in the lips, feeling the tight muscle on the shoulders start loosening. His hands leaving the doorknob long since. He forgets to check if the door is still locked or not.
+
+"Yeah, I can see that." A pause, then adds. "Sorry about that."
+
+The ghost tilts his head slightly, in appreciation. "It's ok." He says, gentle, "It's not your fault."
+
+Dean is truly amused, this time. He walks into the room by a few steps, turning on the dining room light, taking a better look at the ghost.
+
+He looks pale, not sure if he was like this all along or being a ghost would simply have the decoloring effect. His lips thin and tight, puckering into a sad line. His hair unraveling, his eyes bright blue, not shadowed even by the ghosty dim. The splattering blood stain on his trench coat can't help grasping for attention.
+
+Dean gestures the proof of disaster or crime scene on his clothes, remarking. "That doesn't look good. Quite a lot of blood you got there, looks like some really bad tragedy to me."
+
+The ghost nods, seriously. "I think so too." As if they're talking about some other people's tragedy on newspaper. His eyes lingering on Dean more than anywhere else.
+
+Dean finds it hard to ignore his eyes even if he tries to, as if the most heavy thing this ghost has, is the weight of his stare. Dean swallows, suddenly realizing. "That's you hanging around, haunting me the last few days? Dude, it's freaking creepy! I got insomnia, and... and headache and all."
+
+The ghost looks ashamed, shifting eyes then shifting the whole shape, his figure flickering violently as if he's going to disappear just because of the shame he's bearing and radiating. "Sorry." then, "I truly didn't mean to make you comfortable." The color of the white fog that forms him start dimming, slowly showing the trend of sinking into invisible transparency.
+
+Dean doesn't realize he steps towards him automatically, reaching out a hand as if trying to grab a person, "Hey, wait. Don't go." Then he realizes the tip of fingers only sensing some chillness around that shape. He draws back his hands like he touches the electrical line.
+
+The ghost frowns deeper, but his shape stabilizes. He stays.
+
+"I thought..."
+
+Dean touches the back of his neck. Uneasy. "I mean, you'll still be here even if I can't see you, right? Might as well stay."
+
+The ghost contemplates on it. "I guess, but I wouldn't know if I can't sense my own existence, which leads to a philosophical question: what is *being*?"
+
+"Can't we not go into metaphysics and philosophy? Reading those always make my head hurt, and I only do them because of college credits." Dean protests. The ghost complies in silence, lips compressed together.
+
+"I can use some company too, not like I have many people to talk to outside of work." He gives another quick glance around the loft. This is a big place. Big, and full of empty space.
+
+"I'm happy to stay." The ghost says. "Not like I have anywhere else to go."
+
+Dean raises an eyebrow. "You can't leave this place? At all?" He gestures towards the door.
+
+"Invisible walls like a prison cell." The ghost answers.
+
+Dean huffs in sympathy. "Sounds no fun. Did you try 'Beetlejuice'?"
+
+The ghost quirks his head, blank look. "I don't understand that reference."
+
+Dean makes a short laughing sound. "Bad joke, sorry. A fun weird movie though, watched it when I was nine. But guess Tim Burton can't be a reliable ghost 101 guide."
+
+"Then what is?"
+
+"Real-life experiment, and research."
+
+Dean makes a gesture that almost looks like he wants to pat someone on the shoulder, only to remember again and retract at the last minute.
+
+<br>
+
+"I never know there are so many people writing about ghosts all the time. Do they really know something about something or are they just keep making things up?" Dean frowns at his laptop screen, too many webpage opened, cramming the view, images and texts all over. The ghost stays a step away from him, looking from the side.
+
+"Maybe both?" The ghost answers, half-heartedly.
+
+"Wouldn't they get exposed lying if someone really tested their theories?" Dean throws a glance at the ghost, seeing his solemn look, eyes locked on the screen.
+
+The light from the laptop shines bright, almost piercing through the foggy color the ghost is in, making him more transparent and pale than before. But somehow Dean thinks he can see him more clear this way, maybe it's the distance. He can see the five o'clock stubble covering his jaw, the skin tanned and covered with pole and hair, not the smoothened blank sheet that makes him like a two-dimensional illustration the ghosting glare makes him look. There was a real person there, before the ghost, underneath the ghost, maybe there still is. Dean blinks, taking a deep breath in then breathing it out.
+
+"Then maybe there aren't so many ghosts around for them to be tested." The ghost says, thinking. "-- which makes me a weird one."
+
+"Or a lucky one." Dean says quickly. "You never know."
+
+The ghost turns his look from the screen back to himself, taking in his own bloody shape, then looking at Dean. "Doesn't feel like one."
+
+Dean grimaces. "Point taken."
+
+<br>
+
+The suggestions from Ghostbusters are not exactly realistic, but the ones from Ghostfacers look like doable.
+
+Dean checks their website and resumes. Their experiences seem to have a solid track records, with dates and locations and hows and whys.
+
+Dean clicks open one of their headline videos titling "ghost introduction". The unprofessional -- in his businessman's customary mind -- unshaped opening lines delivered by the two boys that look barely out of school make him almost want to close the page five seconds in, but curiosity makes him stay. Besides, the ghost that is right by his side looks highly concentrated on what they're going to say.
+
+Dean does not make any remark and keeps watching.
+
+"The first step in any supernatural fight:" they say, then a lot more loudly together with the same words blink huge and brightly on the center of the screen -- "Figure out what you're up against."
+
+Dean pauses the video, murmuring, "I never said I want a 'fight' or an 'up-against'." He checks his ghost, realizing he's glancing at him too.
+
+"Thanks," he answers, eyes sad and loppy, "but still, it would be nice to know what I am or who I am."
+
+Dean finds his heart twitch at the look on his face. "Don't worry, we'll find out." He tells him, saying it like a promise.
+
+<br>
+
+They work with what they know, which isn't a lot, but -- "Even the smallest hint can be a major lead sometimes, Holmes." says Dean, as he grabs a fresh new blank paper, start listing everything they know:
+
+*\- You are dead -> the only thing you can remember*
+
+("Wait, so, is that why you were writing the word 'dead' all over my mirror and printer? Because you can't think of anything else?" "Like I said..." "Yeah I get that, limited vocabulary resource, like the baby can only say one word.")
+
+*\- You are a ghost -> fact by now, kinda undead then*
+
+("So you're dead, but not dead enough? Like zombies. Do we know if we want to make you deader or undeader?" "How's that going to help?" "I don't know, just doing a little divergent thinking here, might give us some idea.")
+
+*\- Can't leave house -> died inside this loft?*
+
+("Got the idea from 'Beetlejuice' again, sorta make sense." "I told you, Dean, I don't understand..." "It's okay, I can stream it for you later.")
+
+*\- suit, tie, trench coat -> tax accountant? sales? businessman?*
+
+("Anything ring a bell?" "Not particularly.")
+
+*\- a lot of blood -> murder? natural disaster? more than one man's blood?*
+
+("Any idea how did you die or where are the wounds?" "Not really." "Can ghosts feel pain?" "I hope not.")
+
+"Come over here." Dean waves him over, tuning the floor lamp to the maximum lumination, scrutinizing the blood stains more closely, studying their distribution and shape and quantity.
+
+His brain does the automatic analysis -- cutting which vein could cause splatter like this, a broken artery can pump the spluttering blood as high as ceiling, a vena usually drip downwards instead of upwards unless they are close to heart atrium. The amount of blood and shape and direction of the splatter means...
+
+The mind process startles Dean even himself. *How on earth does he know of all those things?*
+
+"Looks like more than one victim to me," he finds his lips moving, giving the verdict of a conclusion. "And the weapon might be something sharp, blade maybe? Stabbed right into the heart."
+
+He hesitates there. The ghost meets his gaze. "What?"
+
+"The thing is, it's not your blood. You were there when those other people were killed, then the question, how did you die?" He narrows his eyes.
+
+"Other people?" The ghost echoes, sounding even more hurt and sad than realizing that himself is dead, voice broken. Then he realizes the meaning in Dean's eyes. His eyes widens, "You don't think I'm the one that killed them, then suicide or something, do you?"
+
+"I don't know what to think." Dean says, looking away, looking down at his own hand, looking at the screen that is still too bright and hurts his eyes, looking everywhere but where the ghost is. Then, his gut speaks, "No, I don't think it's you. I don't think it's in you."
+
+The ghost looks relieved at hearing that.
+
+Dean stares at the list, drafting lines and circles mindlessly on the written words, then suddenly realizes, drawing two circles and a line connecting them between "inside the loft" and "multiple murder", another arrow leading to: "cheap rent".
+
+Dean breathes out long, relaxed like he just finished the Saturday's crosswords in The New York Times.
+
+"What does that have to with anything?" The ghost shifts closer, pointing at the new words he just wrote down. The temperature near him drops a few degrees.
+
+"Everything." He grins.

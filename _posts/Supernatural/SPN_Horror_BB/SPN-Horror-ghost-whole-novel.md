@@ -3,7 +3,7 @@ layout: post
 title: 【Destiel】Rent Overdue
 date: 2025-03-04
 categories: ["SPN"]
-characters: ["Castiel", "Dean Winchester"]
+characters: ["Castiel", "Dean Winchester", "Jo Harvelle"]
 tags: ["Supernatural", "destiel", "英文"]
 pov: 第三人称
 origin: 2026 SPN Horror Big Bang

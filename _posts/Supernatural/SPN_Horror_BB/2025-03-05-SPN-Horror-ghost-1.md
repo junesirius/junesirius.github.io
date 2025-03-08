@@ -3,7 +3,7 @@ layout: post
 title: 【Destiel】Rent Overdue（1）
 date: 2025-03-05 02:18
 categories: ["SPN"]
-characters: ["Castiel", "Dean Winchester"]
+characters: ["Castiel", "Dean Winchester", "Jo Harvelle"]
 tags: ["Supernatural", "destiel", "英文"]
 pov: 第三人称
 origin: 2026 SPN Horror Big Bang
@@ -208,4 +208,4 @@ The temperature is dropping, his breath forms to white fog. He glances back, whi
 
 His throat already starts to get hoarse from the vain yelling for help, his hands and feet freezing cold.
 
-Dean Smith thinks he is two seconds away from having a heart attack -- the kind that commonly known as: "scared to death."
+Dean Smith thinks he is two seconds away from having a heart attack -- the kind that commonly known as: "scared to death".
