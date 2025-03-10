@@ -12,7 +12,7 @@ long_novels: 【Destiel】Rent Overdue
 
 [TOC]
 
-(tag: ghost Cas, S04E17, Dean Smith, canon-divergent, MCD (sort of), minor MCD)
+(tag: ghost Cas, S04E17, Dean Smith, canon-divergent, MCD (sort of), minor MCD, hint of violence)
 
 ## Draft
 
@@ -202,7 +202,7 @@ They tell him there is nothing wrong with his apartment, the maintenance guys, a
 
 Dean has to gather up enough courage to go back into this place that is his new home for merely two days and he is already thinking about moving out.
 
-*Jo would never let it go and it will forever be a troll.* Dean grimaces, slumping down on the chair.
+*Jo would never stop taunting him with that.* Dean grimaces, slumping down on the chair.
 
 They tell him the mirror is clean, but it might be a previous prank someone draw on it, leaving slight trace of skin oil or something, that's why the words show up. They try heating up and steaming again, but no words this time. "Probably nothing." They say.
 
@@ -308,11 +308,11 @@ Dean is taking these in, slowly, his brain still processing "he's talking with a
 
 "Hmm, you're new? In this haunting thing?" Words roll out of his tongue without permission.
 
-"I'm not sure about that either." This is probably the hundredth time tonight he hears the ghost say the same thing.
+"I'm not sure about that either." This is probably the hundredth time tonight he hears the ghost say the same thing and there will be hundred times more.
 
 "What *do* you remember, then? A name, address, cause of death, anything?" Dean doesn't really know how, but somehow, he feels bad for the ghost. He tries to shake away the feeling, because -- that's just weird, isn't it?
 
-The ghost looks down on himself, as if he's also just starting to take himself in, the hands, the cloth, the place he stands. He looks at his own transparent hands, then looks back at Dean. He says, quietly, "I'm dead."
+The ghost looks down on himself, as if he's also just starting to take himself in, the hands, the cloth, the place he stands. He looks at his own transparent palms, then looks back at Dean. He says, quietly, a little sadly, "I'm dead."
 
 <br>
 
@@ -336,7 +336,7 @@ Dean finds it hard to ignore his eyes even if he tries to, as if the most heavy 
 
 The ghost looks ashamed, shifting eyes then shifting the whole shape, his figure flickering violently as if he's going to disappear just because of the shame he's bearing and radiating. "Sorry." then, "I truly didn't mean to make you comfortable." The color of the white fog that forms him start dimming, slowly showing the trend of sinking into invisible transparency.
 
-Dean doesn't realize he steps towards him automatically, reaching out a hand as if trying to grab a person, "Hey, wait. Don't go." Then he realizes the tip of fingers only sensing some chillness around that shape. He draws back his hands like he touches the electrical line.
+Dean doesn't realize it before he steps towards him automatically, reaching out a hand as if trying to grab a person, "Hey, wait. Don't go." Then he realizes the tip of fingers only sensing some chillness around that shape. He draws back his hands like he touches the electrical line.
 
 The ghost frowns deeper, but his shape stabilizes. He stays.
 
@@ -360,7 +360,7 @@ Dean huffs in sympathy. "Sounds no fun. Did you try 'Beetlejuice'?"
 
 The ghost quirks his head, blank look. "I don't understand that reference."
 
-Dean makes a short laughing sound. "Bad joke, sorry. A fun weird movie though, watched it when I was nine. But guess Tim Burton can't be a reliable ghost 101 guide."
+Dean makes a short laughing sound. "Bad joke, sorry. A weird old movie though, watched it when I was maybe ten. But guess Tim Burton can't be a reliable ghost 101 guide."
 
 "Then what is?"
 
@@ -376,9 +376,9 @@ Dean makes a gesture that almost looks like he wants to pat someone on the shoul
 
 "Wouldn't they get exposed lying if someone really tested their theories?" Dean throws a glance at the ghost, seeing his solemn look, eyes locked on the screen.
 
-The light from the laptop shines bright, almost piercing through the foggy color the ghost is in, making him more transparent and pale than before. But somehow Dean thinks he can see him more clear this way, maybe it's the distance. He can see the five o'clock stubble covering his jaw, the skin tanned and covered with pole and hair, not the smoothened blank sheet that makes him like a two-dimensional illustration the ghosting glare makes him look. There was a real person there, before the ghost, underneath the ghost, maybe there still is. Dean blinks, taking a deep breath in then breathing it out.
+The light from the laptop shines bright, almost piercing through the foggy color the ghost is in, making him more transparent and pale than before. But somehow Dean thinks he can see him more clear this way, maybe it's the distance. He can see the five o'clock stubble covering his jaw, lips dry and chapped, the skin tanned and covered with poles and hairs, not the smoothened blank sheet that is no different from a two-dimensional illustration the ghosting glare makes him look. There was a real person there, before the ghost, underneath the ghost, maybe there still is. Dean blinks, taking a deep breath in then breathing it out.
 
-"Then maybe there aren't so many ghosts around for them to be tested." The ghost says, thinking. "-- which makes me a weird one."
+"Maybe there aren't so many ghosts around for them to be tested." The ghost says, thinking. "-- which makes me a weird one."
 
 "Or a lucky one." Dean says quickly. "You never know."
 
@@ -410,9 +410,9 @@ They work with what they know, which isn't a lot, but -- "Even the smallest hint
 
 *\- You are dead -> the only thing you can remember*
 
-("Wait, so, is that why you were writing the word 'dead' all over my mirror and printer? Because you can't think of anything else?" "Like I said..." "Yeah I get that, limited vocabulary resource, like the baby can only say one word.")
+("Wait, so, is that why you were writing the word 'dead' all over my mirror and printer? Because you can't think of anything else?" "Like I said..." "Yeah I get that, limited vocabulary resource, like the little babies can only say one word.")
 
-*\- You are a ghost -> fact by now, kinda undead then*
+*\- You are a ghost, can walk and talk -> facts*
 
 ("So you're dead, but not dead enough? Like zombies. Do we know if we want to make you deader or undeader?" "How's that going to help?" "I don't know, just doing a little divergent thinking here, might give us some idea.")
 
@@ -430,7 +430,7 @@ They work with what they know, which isn't a lot, but -- "Even the smallest hint
 
 "Come over here." Dean waves him over, tuning the floor lamp to the maximum lumination, scrutinizing the blood stains more closely, studying their distribution and shape and quantity.
 
-His brain does the automatic analysis -- cutting which vein could cause splatter like this, a broken artery can pump the spluttering blood as high as ceiling, a vena usually drip downwards instead of upwards unless they are close to heart atrium. The amount of blood and shape and direction of the splatter means...
+His brain does the automatic analysis: cutting which vein could cause splatter like this -- a broken artery can pump the spluttering blood as high as ceiling, a vena usually drip downwards instead of upwards unless they are close to heart atrium. The amount of blood and shape and direction of the splatter means...
 
 The mind process startles Dean even himself. *How on earth does he know of all those things?*
 
@@ -438,7 +438,7 @@ The mind process startles Dean even himself. *How on earth does he know of all t
 
 He hesitates there. The ghost meets his gaze. "What?"
 
-"The thing is, it's not your blood. You were there when those other people were killed, then the question, how did you die?" He narrows his eyes.
+"The thing is, it's not your blood. Because otherwise it would be sputter outwards, not onto the clothes like this. Which means you were there when those other people were killed, then the question is, how did *you* die?" He narrows his eyes.
 
 "Other people?" The ghost echoes, sounding even more hurt and sad than realizing that himself is dead, voice broken. Then he realizes the meaning in Dean's eyes. His eyes widens, "You don't think I'm the one that killed them, then suicide or something, do you?"
 
@@ -460,11 +460,113 @@ Dean breathes out long, relaxed like he just finished the Saturday's crosswords 
 
 > The ghost turn out to be Cas, murdered in the house with his whole family (Jimmy/Amelia/Claire killed by Nick), unfinished business, haunting the place but didn't hurt Dean
 >
-> Dean/Cas (both) start learning about ghost 101 (iron, salt) from daily life accidents, a little bit human/ghost domestic life
+> Dean/Cas (both) start learning about ghost 101 (iron, salt) from introductory video
 >
 > Dean learn about Cas's death cause tragedy, try to help revenge/find peace
 >
 > (start scene tightly continuous to previous Act (both will be same chapter during publish), Dean start researching the cover-up murders in the apartment, no news, but hacked into police coroner report, get the names)
+
+"I would have called my lawyer if it's not this late." Dean checks the time, it is indeed way later than his usual beauty sleep time, but somehow he isn't sleepy at all. In fact, he can practically feel the adrenaline pumping through his veins right this moment. He decides sleeping can wait.
+
+"Or find a private detective or something." Dean thinks aloud, at the same time opening the webpage and starts typing.
+
+"But you seem like knowing what you're doing." The ghost watches his move.
+
+Dean's eyes on the screen, fingers moving automatically. "To be honest I don't know anything, but it's like some kind of muscle memory, my fingers know what to do, so I'm just letting the gut control here for a minute."
+
+His fingers click open the dark net, searching through the pages he never he has access to. The dirty dark side of the world he tends to choose to pretend they're not there and they have nothing to do with his life.
+
+The real state report shows nothing, the history of the place is smooth and clean like a virgin's skin. In fact, if he really thinks about that, it's just way too clean. How can a building never have even a single small accident? Not any elevator malfunction, not one person slipping on the front gate and breaking their legs?
+
+He knew something might be there when he rented the place, but never able to find any dirt. But now, it seems, he's digging into something.
+
+The real state report might be covered, but the police reports and hospital reports are honest and accurate -- at least he hopes so. He searches back dates and months, then years. He doesn't really have to traceback too much before he stops at a coroner's report and photo of the body.
+
+He reads the description, then checks the photo, then reads the report again. Dean swallows, tongues dry, throat tight. He steals a glance at the ghost, the silence between them stretches, but he knows they are both reading the same thing. The same bloody truth in their faces.
+
+"I'm sorry." Dean finally manages, voice low and sorry. He wants to close the page.
+
+The ghost is still reading the same page. With his name, his address, his date of birth and cause of death on it. He reads it, then re-reads it, then re-re-reads it. Dean doesn't know if he's just staring at it by this time or actually still reading it over and over again.
+
+"Castiel." The ghost moves his lips, voice too quietly, barely audible. "My name is Castiel."
+
+Dean nods, quietly.
+
+The coroner's reports have a date of two months ago, with four bodies sending to the coroner's office at the same day, around same time of death, and same cause of death -- Castiel Novak, along with Jimmy Novak, Amelia Novak, and Claire Novak, all stabbed to death by multiple attacks of blade, in their home, in their sleep.
+
+The police report says they have no other relatives to contact with, there are no parents or even any remote cousins or uncles. It is assumed that the Novak family is having a little reunion, Castiel Novak visiting his twin brother's family and staying at their home for the night. That is when the tragedy happens.
+
+A "tragedy" -- that is the term they used in the report, not a crime, not a massive murder, as if it's just something natural but bad happened to land on their head. Dean thinks when he reads.
+
+They say it's a crazy sociopath, a random killer, just randomly picked the house and force entered and committed the crime. Somehow there was some power outage around the area by that time, and none of the surveillance cameras were working. They never find the man, and with the too few leads and no family member to report to, the police just hang the case like a piece of pork on the hanger.
+
+There is no closure. There is no justice. There is no consequence.
+
+Just a pile of blood. Then a pile of ashes.
+
+Their bodies were burned and stored with the city, probably no one would ever ask for.
+
+This is just the worst ending anyone could ever have. Dean thinks, trying to imagine if it is the ending of himself, then can't help feeling the breath is too caught up in his throat he's going to choke.
+
+He turns to the ghost -- it's Castiel now, now that he knows the name. But he doesn't know what to say. He doesn't know if there is even any language that's ever invented for something so tragedy, so sad, so hard to read, let alone accept. And there is even no one to feel sad for them. There probably isn't even a funeral at all.
+
+"Hey," Dean murmurs, checking Castiel's looks. "Are you okay?"
+
+Castiel's ghosty shape flickers, like the last time he tries to process the language or understand the situation or his own existence or the motion. Dean can't help notice the pattern.
+
+"Hey, hey, Castiel. Just, don't wear yourself out. Just, breathe." Dean hurries, then kicking himself in the mind for the stupidity of the suggestion. But it seems Castiel understands his effort.
+
+The shape swings and shakes, the desk lamp blinks, dimming and brightening, Castiel's chest rises and falls, as if air is actually still flowing through his pipe. His shape is still more vague than before, but at least it stabilizes.
+
+"No," Castiel answers, finally, his sound teary, as if he wants to cry but there is no tear can be generated. "No, I'm not okay." He tells Dean, eyes unbelievably big and sad. "I'll never be okay."
+
+"I'm really sorry." Dean feels terrible, and even worse, he doesn't know what to do. Should he comfort the ghost? Should he do something to help the ghost... live better? Or die better? Anything at all?
+
+"They're all dead. Even Claire. She's only ten! Who could have done that?!" Castiel looks at Dean, his eyes piercing into his skull.
+
+Dean swallows hard. "I, I don't know, and it looks like not even the police can do anything to help figure that out."
+
+"So the world just doesn't care that we're dead? Nothing changes? No consequence at all? No one even *knows*?" Castiel's questions fall heavily in the air, making Dean's breathing difficult, making his chest tight like lead.
+
+"No," He finds himself answering. "I know now, and I care. It's not right. Someone should fix it."
+
+"But how? If the police can't find the killer, do you think you can?"
+
+"No, I mean, help you. That must be the reason you stay as a ghost, right?" Dean gestures Castiel's feature. "Even if I can't help find the killer, maybe at least help you move on or something. We only just went through the first step in that video, and we know now who are you. Let's just see what else to learn."
+
+<br>
+
+The second step in a ghost-related situation, according to the legendary Ghostfacers members Ed and Harry, is to kill them.
+
+Dean shifts in the seat uncomfortably. Even the mention of the word "kill" makes his stomach curls. He doesn't want to think about how Castiel would think about it. Who would ever think of *killing* a person twice, for Christ's sake?
+
+But at least he learns something new about the ghosts now -- Salt is like burning acid to the them. Irons dissipates them instantly. And shotguns with fresh rock salt bullets apparently can disperse them extremely effectively. To make the ghosts disappear permanently, burn their remains. In the very rare situations when that's not possible, find their unfinished business that makes them ghosts, try solve them and help them get over and find peace.
+
+They finish the video quietly. Let the screen pause on its own once it finishes. They exchange looks.
+
+Dean finds himself in the stubborn stare contest with Castiel again, can't move his eyes away.
+
+"Ugh," he manages to start, but fails to think of a thing to say next.
+
+"Are you going to burn my remains and make me disappear permanently?" Castiel asks quietly, not showing any sign of anger, just sad.
+
+"No!" Dean blurts out. And it's true. With all the new information he just learned about "how to handle a supernatural ghost situation", he was not remotely thinking about getting rid of the ghost that's hanging around his place, no more than three feet away from him. He finds himself not afraid of him at all, especially with his bright blue eyes locked in him. Castiel looks more human than any ghost he would imagine, except for the rare times when he's apparently having some storm of thoughts and emotions flowing through and his shape flickers, or when Dean forgets he's not human and tries to touch him, that's when he's reminded.
+
+"I think we have a bigger problem than you being a ghost." Dean explains. "I think the world would be a better place if the killer is gone, instead of you. Besides, didn't the report say you and your family are already cremated? So there wouldn't be any remains to burn anyway, you'll just have to hang around here and stuck with me for a bit longer while we figure those out."
+
+Castiel widens his eyes. "You'll do that for me?"
+
+Dean shrugs. "Not like I have anything else to do outside of work."
+
+### Act 2-3
+
+> Dean/Cas (both) start learning about ghost 101 (iron, salt) from daily life accidents, a little bit human/ghost domestic life, start getting close
+>
+> Dean try to help Cas revenge/find peace
+
+The work still comes first though. But at least now that he knows what's -- who's out there in the dark, hanging around and glancing at him once in a while, Dean's sleeping problem is greatly improved.
+
+
 
 ### Act 3
 
@@ -477,3 +579,4 @@ Dean breathes out long, relaxed like he just finished the Saturday's crosswords 
 > Dean help Cas revenge (find Nick), finish his unfinished business (Dean think) but Cas remain ghost, not gone/released, Dean puzzled (new unfinished business bc don't want to leave Dean alone); continue a bit domestic life during the process
 >
 > Dean call Zach to resign, Zach pop in, Dean: has more important things to do, more purpose; Zach makes ghost Cas disappear, Dean freak out, Zach wakes him up
+
