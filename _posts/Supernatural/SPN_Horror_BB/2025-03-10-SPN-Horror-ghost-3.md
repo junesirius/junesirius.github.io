@@ -1,0 +1,103 @@
+---
+layout: post
+title: 【Destiel】Rent Overdue（3）
+date: 2025-03-10 02:10
+categories: ["SPN"]
+characters: ["Castiel", "Dean Winchester"]
+tags: ["Supernatural", "destiel", "英文"]
+pov: 第三人称
+origin: 2026 SPN Horror Big Bang
+long_novels: 【Destiel】Rent Overdue
+---
+
+"I would have called my lawyer if it's not this late." Dean checks the time, it is indeed way later than his usual beauty sleep time, but somehow he isn't sleepy at all. In fact, he can practically feel the adrenaline pumping through his veins right this moment. He decides sleeping can wait.
+
+"Or find a private detective or something." Dean thinks aloud, at the same time opening the webpage and starts typing.
+
+"But you seem like knowing what you're doing." The ghost watches his move.
+
+Dean's eyes on the screen, fingers moving automatically. "To be honest I don't know anything, but it's like some kind of muscle memory, my fingers know what to do, so I'm just letting the gut control here for a minute."
+
+His fingers click open the dark net, searching through the pages he never he has access to. The dirty dark side of the world he tends to choose to pretend they're not there and they have nothing to do with his life.
+
+The real state report shows nothing, the history of the place is smooth and clean like a virgin's skin. In fact, if he really thinks about that, it's just way too clean. How can a building never have even a single small accident? Not any elevator malfunction, not one person slipping on the front gate and breaking their legs?
+
+He knew something might be there when he rented the place, but never able to find any dirt. But now, it seems, he's digging into something.
+
+The real state report might be covered, but the police reports and hospital reports are honest and accurate -- at least he hopes so. He searches back dates and months, then years. He doesn't really have to traceback too much before he stops at a coroner's report and photo of the body.
+
+He reads the description, then checks the photo, then reads the report again. Dean swallows, tongues dry, throat tight. He steals a glance at the ghost, the silence between them stretches, but he knows they are both reading the same thing. The same bloody truth in their faces.
+
+"I'm sorry." Dean finally manages, voice low and sorry. He wants to close the page.
+
+The ghost is still reading the same page. With his name, his address, his date of birth and cause of death on it. He reads it, then re-reads it, then re-re-reads it. Dean doesn't know if he's just staring at it by this time or actually still reading it over and over again.
+
+"Castiel." The ghost moves his lips, voice too quietly, barely audible. "My name is Castiel."
+
+Dean nods, quietly.
+
+The coroner's reports have a date of two months ago, with four bodies sending to the coroner's office at the same day, around same time of death, and same cause of death -- Castiel Novak, along with Jimmy Novak, Amelia Novak, and Claire Novak, all stabbed to death by multiple attacks of blade, in their home, in their sleep.
+
+The police report says they have no other relatives to contact with, there are no parents or even any remote cousins or uncles. It is assumed that the Novak family is having a little reunion, Castiel Novak visiting his twin brother's family and staying at their home for the night. That is when the tragedy happens.
+
+A "tragedy" -- that is the term they used in the report, not a crime, not a massive murder, as if it's just something natural but bad happened to land on their head. Dean thinks when he reads.
+
+They say it's a crazy sociopath, a random killer, just randomly picked the house and force entered and committed the crime. Somehow there was some power outage around the area by that time, and none of the surveillance cameras were working. They never find the man, and with the too few leads and no family member to report to, the police just hang the case like a piece of pork on the hanger.
+
+There is no closure. There is no justice. There is no consequence.
+
+Just a pile of blood. Then a pile of ashes.
+
+Their bodies were burned and stored with the city, probably no one would ever ask for.
+
+This is just the worst ending anyone could ever have. Dean thinks, trying to imagine if it is the ending of himself, then can't help feeling the breath is too caught up in his throat he's going to choke.
+
+He turns to the ghost -- it's Castiel now, now that he knows the name. But he doesn't know what to say. He doesn't know if there is even any language that's ever invented for something so tragedy, so sad, so hard to read, let alone accept. And there is even no one to feel sad for them. There probably isn't even a funeral at all.
+
+"Hey," Dean murmurs, checking Castiel's looks. "Are you okay?"
+
+Castiel's ghosty shape flickers, like the last time he tries to process the language or understand the situation or his own existence or the motion. Dean can't help notice the pattern.
+
+"Hey, hey, Castiel. Just, don't wear yourself out. Just, breathe." Dean hurries, then kicking himself in the mind for the stupidity of the suggestion. But it seems Castiel understands his effort.
+
+The shape swings and shakes, the desk lamp blinks, dimming and brightening, Castiel's chest rises and falls, as if air is actually still flowing through his pipe. His shape is still more vague than before, but at least it stabilizes.
+
+"No," Castiel answers, finally, his sound teary, as if he wants to cry but there is no tear can be generated. "No, I'm not okay." He tells Dean, eyes unbelievably big and sad. "I'll never be okay."
+
+"I'm really sorry." Dean feels terrible, and even worse, he doesn't know what to do. Should he comfort the ghost? Should he do something to help the ghost... live better? Or die better? Anything at all?
+
+"They're all dead. Even Claire. She's only ten! Who could have done that?!" Castiel looks at Dean, his eyes piercing into his skull.
+
+Dean swallows hard. "I, I don't know, and it looks like not even the police can do anything to help figure that out."
+
+"So the world just doesn't care that we're dead? Nothing changes? No consequence at all? No one even *knows*?" Castiel's questions fall heavily in the air, making Dean's breathing difficult, making his chest tight like lead.
+
+"No," He finds himself answering. "I know now, and I care. It's not right. Someone should fix it."
+
+"But how? If the police can't find the killer, do you think you can?"
+
+"No, I mean, help you. That must be the reason you stay as a ghost, right?" Dean gestures Castiel's feature. "Even if I can't help find the killer, maybe at least help you move on or something. We only just went through the first step in that video, and we know now who are you. Let's just see what else to learn."
+
+<br>
+
+The second step in a ghost-related situation, according to the legendary Ghostfacers members Ed and Harry, is to kill them.
+
+Dean shifts in the seat uncomfortably. Even the mention of the word "kill" makes his stomach curls. He doesn't want to think about how Castiel would think about it. Who would ever think of *killing* a person twice, for Christ's sake?
+
+But at least he learns something new about the ghosts now -- Salt is like burning acid to the them. Irons dissipates them instantly. And shotguns with fresh rock salt bullets apparently can disperse them extremely effectively. To make the ghosts disappear permanently, burn their remains. In the very rare situations when that's not possible, find their unfinished business that makes them ghosts, try solve them and help them get over and find peace.
+
+They finish the video quietly. Let the screen pause on its own once it finishes. They exchange looks.
+
+Dean finds himself in the stubborn stare contest with Castiel again, can't move his eyes away.
+
+"Ugh," he manages to start, but fails to think of a thing to say next.
+
+"Are you going to burn my remains and make me disappear permanently?" Castiel asks quietly, not showing any sign of anger, just sad.
+
+"No!" Dean blurts out. And it's true. With all the new information he just learned about "how to handle a supernatural ghost situation", he was not remotely thinking about getting rid of the ghost that's hanging around his place, no more than three feet away from him. He finds himself not afraid of him at all, especially with his bright blue eyes locked in him. Castiel looks more human than any ghost he would imagine, except for the rare times when he's apparently having some storm of thoughts and emotions flowing through and his shape flickers, or when Dean forgets he's not human and tries to touch him, that's when he's reminded.
+
+"I think we have a bigger problem than you being a ghost." Dean explains. "I think the world would be a better place if the killer is gone, instead of you. Besides, didn't the report say you and your family are already cremated? So there wouldn't be any remains to burn anyway, you'll just have to hang around here and stuck with me for a bit longer while we figure those out."
+
+Castiel widens his eyes. "You'll do that for me?"
+
+Dean shrugs. "Not like I have anything else to do outside of work."
