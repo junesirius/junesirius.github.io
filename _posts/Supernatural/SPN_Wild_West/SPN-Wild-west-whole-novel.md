@@ -15,6 +15,8 @@ published: false
 
 (tags: S06E18, Canon Divergent, Time Travel, Wild West, Angst)
 
+(after-word note: reference "Unforgiven", "Butch Cassidy and Sundance Kid", "Tombstone", "Legends of the Fall")
+
 ## Draft
 
 (Sunrise, Wyoming, 1861, Mar. 5)
@@ -82,11 +84,23 @@ Just how many gangsters has he run into before? Dean finds himself wondering.
 
 "Eastwood. Clint Eastwood. Best gunner in the western world," Dean tells him.
 
+### Loophole fix
+
+If Cas is already in Sunrise Wyoming on 1861.3.5, the why he isn't there when Dean prays for him?
+
+(time travel loophole -> learn from HP3 to fix)
+
+Cas POV: Cas backtracks to 20y ago, lives and waits, then 1861.3.5 comes, Cas arrives in saloon earlier than Dean, witnesses Sheriff burned by the phoenix Elias Finch, hiding to prevent paradox, jump attacked & trapped by demons (the one possess Elkins), so can't get to Dean until the day he burns the place down, Cas free but Dean already rides away, Cas try chase him around but can't catch up, find Dean become wanted, join posse to follow him (also persuade people don't shoot him), Dean runaway from posse, until Dean confronted by 1861!Cas, Cas catch up, fight/blast the old self away, use power to heal Dean (wounded by 1861!Cas), low energy again; can't carry both, fly Sam back first, spit blood when fly back to Dean, collapsed, the two stay in ranch waiting for Cas recover (a bit domestic life), 1y later Cas fly them back to the same day
+
+Dean POV: Cas doesn't come after they pray, start messing around making noise, attacked by demon possessed Elkins, burn place down, leave Sunrise Wyoming; help saloon lady from unjust verdict (bounty hunter, "Unforgiven"), rob bank & train ("Butch Sundance"), chased by railway company posse, start running, so never meet Cas; cornered by posse one night, desperately pray to Castiel, 1861!Cas comes, align with Cas POV afterwards
+
+Sam POV: follow Dean around, Cas fly him back first, Dean&Cas follow immediately, thought it's the same moment, but actually time passed for them a lot longer
+
+(the time they're apart -> fast-forward quickly, a quick sketch, only mention what happened in a series of montage (newspaper clips), tell each other once they met again)
+
 ### Edit note
 
 Saloon has room (sign "room" by the side) -> find an excuse to not spend the night in Saloon (prostitutes?)
-
-play cards -> play poker
 
 ## Main
 
@@ -624,17 +638,41 @@ Cas only gets time to see a wooden sign with a clean carving saying "Sunrise, WY
 
 ### Act 3
 
-> **Outline:** They leave Sunrise Wyoming (cuz demons find them), Dean quits sheriff, the two boys ride horses, wear bandana, wrap blanket, "roadtrip in wild west". They play cards in inns, provoke gun fights and win, occasionally deliberately act like bandits and rob gold mine owners, distribute gold to other poorer people, gets a fame of western Robin Hood and best gunner for themselves. (Dean pray to Cas every night, bad feeling)
+> **Outline:** Dean&Sam leave Sunrise, Wyoming, ride horses, wear bandana, wrap blanket, "roadtrip in wild west".
 >
-> (start Act scene with Dean get caught by Sam while praying, start anxious about Cas hurt)
+> ("Unforgiven":) Enter town Thunderhill, Colorado, help saloon prostitutes revenge the cowboy, as bounty hunter, solve the injustice by gun duel
 >
-> (Butch &  Sundance: horse chasing, bank robbery, train robbery; Legends of the Fall: native Indian, bear fighting) can be outlaw or bounty hunter hunting cowboys
+> ("Butch Sundance":) Rob bank in Pinecrest, Utah; rob train in Deadwood, Arizona
+>
+> Start montage/newspaper clips: banks robbed/cowboy killed/robin hood appeared/gold mine robbed in Rattlesnake Bend, Nevada; Cattle Creek, Kansas; Silver Gulch, California ("we were never in Kansas!" "guess that's how story travels") (fast-forward quickly, explain later in flashbacks/catch-ups if need to)
+>
+> In a inn, they hide faces, listen to folks chatting about them, legendary rumors about how they "play poker, enjoy gun fights and win, rob gold mine and distribute gold to poor people", call them Robin Hood, say railway company & mine owner unite together, initiate posse to chase after them, they leave the inn quickly, notice the six horses with lanterns approach, start running
+>
+> (Dean pray to Cas every night, bad feeling)
+
+
 
 #### draft notes
 
-(bear fighting)
+(start scene with Dean get caught by Sam while praying, start anxious about Cas hurt)
 
-Dean: could be a quick way to get some noise, how hard can a bear be? we used to fight werewolves before breakfast
+States they can get to: Wyoming, Colorado, Utah, Arizona, Nevada, California
+
+some town names:
+
+- Redstone Crossing, Wyoming
+- Thunderhill, Colorado
+- Pinecrest, Utah
+- Deadwood, Arizona
+- Rattlesnake Bend, Nevada
+- Cattle Creek, Kansas
+- Silver Gulch, California
+
+
+
+(robbing bank/train)
+
+Dean: could be a quick way to get some noise, how hard can a robbery be? we used to B&E before breakfast
 
 Sam: you crazy? you can die!
 
@@ -642,19 +680,35 @@ Dean: welcome to wild west, Sammy, you can die any time anywhere. you see those 
 
 Sam: you're mistaken reality from movie
 
-Dean: art comes from life. I'm going. Don't feel sorry for the bear.
+Dean: art comes from life. I'm going. Feel free to stay in there, drinking whatever.
 
 ### Act 4
 
-> **Outline:** Cas is too wounded to fly again and can't risk using his power in case he gets noticed by Raphael (still scouting in time flux), so he lives in the town like a human, also tries his best to blend in. After a while when he recovers slightly, he asks around if anyone has seen the brothers based on his description but no one does. The town looks relatively new, not so crappy, he asks time and realizes why. To stay in the town for longer and not raise suspicion, Cas starts working in a ranch just to continue pretending to be a normal human. Cas is still weak and low in power, but as time goes by, he's growing back.
->
-> (start Act scene with Cas waking up with wounds, vessel has vertical cutting in the middle back, almost cut in half, bleeding in shoulder blade, old one from Rachel, internal organ bleeding, fingers gnarled; heal in human way, low in grace and can't risk checking how much left, can't risk using it to self-heal)
+> **Outline:** Cas is too wounded to fly again and can't risk using his power in case he gets noticed by Raphael (still scouting in time flux), so he lives in the town like a human, also tries his best to blend in. After a while when he recovers slightly, he asks around if anyone has seen the brothers based on his description but no one does. The town looks relatively new, not so crappy, he asks time and realizes why. He asks if there is any ranch job available instead. (leave suspension)
+
+#### draft notes
+
+(start scene with Cas waking up with wounds, vessel has vertical cutting in the middle back, almost cut in half, bleeding in shoulder blade, old one from Rachel, internal organ bleeding, fingers gnarled; heal in human way, low in grace and can't risk checking how much left, can't risk using it to self-heal)
+
+(facts but only reveal later in catch-up/flashbacks: To stay in the town for longer and not raise suspicion, Cas starts working in a ranch just to continue pretending to be a normal human. Cas is still weak and low in power, but as time goes by, he's growing back.)
 
 ### Act 5
 
-> **Outline:** Dean & Sam go back to Sunrise Wyoming, get jump attacked by a stranger, very obviously trying to kill them and very good at fighting, and after a few rounds they realize he's not human. It's Castiel, the original 1860s timeline version, receives order that they're disturbing the timeline and comes to eliminate them (Castiel: "You pray too loud. I really don't know why you act like we are familiar" Dean: "I almost forget how big of an asshole you were before"). Dean almost gets killed, prays desperately instinctively again to his Cas, and gets saved when this Castiel gets blown away by power. His Cas is there, cowboy looking, dirty from ranch work, totally blend in and human-like, faceful of "I finally found you".
+> **Outline:** Dean & Sam get chased around by the posse, not realize they're back to Sunrise, Wyoming where it all starts; cornered into the sheriff's office, no escape, too much guns ("are they human or demons?"), Dean desperately pray to Castiel, get jump attacked by a stranger appearing from nowhere, very obviously trying to kill them and very good at fighting, and after a few rounds they realize he's not human. It's Castiel, the original 1860s timeline version, receives order that they're disturbing the timeline and comes to eliminate them (Castiel: "You pray too loud. I really don't know why you act like we are familiar" Dean: "I almost forget how big of an asshole you were before").
 >
-> Dean: "Where have you been?" Cas: "When." Dean: "Wh-- how long have you been here?" Cas: "Twenty years. I landed too early, so I have to wait for you to catch up, wait for time to pass in the slow old way." Dean: "I prayed to you." Cas: "I know." He can hear all the time but can't get to Dean.
+> Dean almost gets killed (heavily wounded), prays desperately instinctively again to his Cas, and gets saved when this Castiel gets blown away by power (fight a few rounds, Cas absorb 1861!Cas's grace, lighten up to show wings, wipe his memory, blast him away -> cruelest to himself, Dean: "Wouldn't that hurt... you? The old yourself?" Cas: "He has plenty time to recover, I don't." it's his own grace anyway). His Cas is there, dirty ncowboy looking (reveal as part of posse), totally blend in and human-like, faceful of "I finally found you".
+>
+> Dean: "Where have you been?" Cas: "When." Dean: "Wh-- how long have you been here?" Cas: "Twenty years. I landed too early, so I have to wait for you to catch up, wait for time to pass in the slow old way." Dean: "I prayed to you." Cas: "I know." He can hear all the time but can't get to Dean. Dean: "What happened?"
+
+### Act 6
+
+> **Outline:** (Cas POV, retell) Cas lands 20y ago, lives and waits, then 1861.3.5 comes, Cas arrives in saloon earlier than Dean, witnesses Sheriff burned by the phoenix Elias Finch, hiding to prevent paradox, jump attacked & trapped by demons (possessing Elkins), so can't get to Dean until the day he burns the place down, Cas free but Dean already rides away, Cas try chase him around but can't catch up
+>
+> Cas finds newspaper & saloon chatter about Dean become wanted, Cas join posse to follow him (also try persuade people don't shoot him), Dean keep running away from posse, until the day confronted by 1861!Cas, Cas catch up, persuade rest of posse to go in there alone, fight/blast the old self away
+
+### Act 7
+
+> **Outline:** Cas heals Dean and himself, Dean caring, Cas only hints the last 20y are tough but not enough detail
 >
 > Cas flies them home, back to the same day they leave for the phoenix's ashes. Bobby is still there, exactly the same as before, everything the same. (Or not exactly, Dean's western fame gets kept in history, legends of himself becomes a cowboy story, exaggerated but he's amused)
 
