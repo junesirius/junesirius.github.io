@@ -124,5 +124,16 @@ Time Turner是我的Mr. Turner小铁匠
 
 两个母语不同、语言不通的人磕磕绊绊地用第三种语言交流，靠比划和猜来交流然后相爱，各自又都偷偷在学对方的语言（稍微有点像Love Always里脸叔那条支线？）
 
-### 15.
+### 15.《Flight that takes off second Sunday of March at two thirty AM》
 
+尼尔盖曼风格
+
+a plane takes off at a time that doesn't exist, goes to an era can't be found, e.g. 庞贝，亚特兰大，玛雅，time (& place) that is hidden from the world -> the places are still there but we think they don't, bc they're not in the time we know （像初中澹那本时间的小说）
+
+就像9 3/4车站
+
+hidden在这个time gap之后的是time travel/time flux的入口？可以直接衔接time travel story or magic school like HP/Wednesday or DW or 明传
+
+（可以跟裂缝那个梗结合，又是一天DST change日，又是一个DST日trigger的想法）
+
+### 16.
