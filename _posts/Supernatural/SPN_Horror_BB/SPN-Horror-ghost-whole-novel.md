@@ -620,7 +620,7 @@ Castiel simply nods.
 
 <br>
 
-Dean drives to the work. Then he has meetings with clients. Then he has meetings with his direct reports. Then he drafts a new quarter plan to be reviewed by his superior. Then he has lunch at the desk. And then more email correspondence. Followed by an unexpected phone call from a fellow colleague from the Finance Department about some new change in the forms.
+Dean Smith drives to the work. Then he has meetings with clients. Then he has meetings with his direct reports. Then he drafts a new quarter plan to be reviewed by his superior. Then he has lunch at the desk. And then more email correspondence. Followed by an unexpected phone call from a fellow colleague from the Finance Department about some new change in the forms.
 
 He spins around the office like a spinning top, the phone and keyboard keep him busy like a bee. But this is just the job.
 
@@ -741,8 +741,18 @@ But he still tries. He watches the footages, he notes down the car plates crossi
 ### Act 3 (Chapter 4)
 
 > S04E17 ghost case, Cas help Dean figure out the spirit (P. T. Sandover, died 1916), get rid of it, protect Dean
+>
+> minor human/ghost domestic life too (burger scene)
+>
+> a little accident with salt/iron
 
 [TBC]
+
+#### draft notes
+
+Dean Smith's life style trajectory change, from healthy extreme sliding towards Dean Winchester's habit, under Cas's influence (S05E14 Cas & red meat); because Cas starts remembering enjoying burger, so Dean orders burger to home, eats "with" him
+
+add an accident where Dean accidentally hits ghost Cas with something iron (an iron pan? kitchen cooking time?), Cas moans & dissipates, Dean panics, rooms feels suddenly too quiet and too empty; Cas comes back the next day, unstable but there: "That w"
 
 ### Act 4
 
@@ -752,3 +762,16 @@ But he still tries. He watches the footages, he notes down the car plates crossi
 >
 > Dean call Zach to resign, Zach pop in, Dean: has more important things to do, more purpose; Zach makes ghost Cas disappear, Dean freak out, Zach wakes him up
 
+#### draft notes
+
+How does Zach blow up his cover
+
+Zach: Why didn't get rid of the at thing in your place?
+
+Dean: What thing? You mean Cas? How did you know? (suspicious) I never told anyone
+
+Zach: You didn't? Pretty sure you did. And you said it's a ghost, isn't it? Same as P. T. Sandovers?
+
+Dean: *He* is not a *thing*. And *his* name is Castiel. (alarmed enough, squint) Who are you? How *do* you know? I absolutely told no one about Cas, not even Jo.
+
+Zach: (smile, touch his head, wake him up)
