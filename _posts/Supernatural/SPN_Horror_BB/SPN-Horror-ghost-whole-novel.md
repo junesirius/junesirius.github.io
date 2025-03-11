@@ -752,7 +752,7 @@ But he still tries. He watches the footages, he notes down the car plates crossi
 
 Dean Smith's life style trajectory change, from healthy extreme sliding towards Dean Winchester's habit, under Cas's influence (S05E14 Cas & red meat); because Cas starts remembering enjoying burger, so Dean orders burger to home, eats "with" him
 
-add an accident where Dean accidentally hits ghost Cas with something iron (an iron pan? kitchen cooking time?), Cas moans & dissipates, Dean panics, rooms feels suddenly too quiet and too empty; Cas comes back the next day, unstable but there: "That w"
+add an accident where Dean accidentally hits ghost Cas with something iron (an iron pan? kitchen cooking time?), Cas moans & dissipates, Dean panics, rooms feels suddenly too quiet and too empty; Cas comes back the next day, unstable but there: "That was unpleasant"
 
 ### Act 4
 
