@@ -6,7 +6,7 @@ categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
 tags: ["Supernatural", "destiel", "英文"]
 pov: 第三人称
-origin: 2026 SPN Horror Big Bang
+origin: 2025 SPN AU Big Bang
 long_novels: 【Destiel】Rent Overdue
 ---
 
