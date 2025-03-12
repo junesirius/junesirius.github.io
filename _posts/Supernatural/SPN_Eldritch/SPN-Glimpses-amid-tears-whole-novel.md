@@ -461,11 +461,11 @@ The leaves of the trees grow wider and larger as he goes south, then thinner and
 
 The laptop search bar has a new frequent search words: "giant monster". It turns out people online tend to report even more witnesses of something huge and monstrous than that of holy or hellish.
 
-Dean picks the roads no one walks or drives, the roads in between trees and on the mountains. The mountains where legends say giant monsters and pre-history creature lives.
+Dean picks the roads no one walks or drives, the roads in between trees and deep in the mountains. The mountains where legends say giant monsters and pre-history creature lives.
 
 He runs into a lone vampire making a living hunting bears, and a goat-masked creature living in the woods that turns out to be a fairy. But not another "yeti" or "bigfoot", certainly no mention at all of any creature with trench coat-colored skin.
 
-The snow starts melting by the road of the Midwest and lake area. It's been months since Colorado, even longer since Purgatory. Leviathans fade into memory of a previous life, demons and Apocalypses are like stories that other people tell.
+The snow starts melting by the road of the Midwest and Lake area. It's been months since Colorado, even longer since Purgatory. Leviathans fade into memory of a previous life, demons and Apocalypses are like stories that other people tell.
 
 Once, in the middle of the night, on his way driving to Montana, Dean finds himself wondering, if this is gonna be the rest of his life. Drifting on the road, searching, alone, not even hunting, not really. Just looking, finding, going after the angel that he lost.
 
@@ -473,7 +473,7 @@ He ponders, what if the next time he sees him is twenty years from now, what if 
 
 Hours condense in the nights like this, moving slowly, minutes by minutes. But days and weeks flash by quick.
 
-He has no answer. And he pushes the questions away. He could think of nothing but finding Cas when he was in Purgatory, and it is no different now. Even if it's going to take the rest of his life.
+He has no answer. So he pushes the questions away. He could think of nothing but finding Cas when he was in Purgatory, and it is no different now. Even if it's going to take the rest of his life.
 
 He wasn't planning on coming back to the life on Earth anyway, back there, before he found Cas. Then he found him.
 
@@ -485,23 +485,63 @@ Cas is not in Montana, either. But he does run into more gods and titans. Zeus a
 
 That is when Artemis tells him the legend of one giant ancient bird. After he asked nicely.
 
-"There is this giant fish, born in the northern sea, the head to tail stretching thousands of miles long. It turns into a giant bird, no one knows how big it is, must be tens of thousands of miles wide. When it flies, its wings spread like the clouds covering the sky. When the winter stirs the sea, it flies to south. Its wings flap on the water, the sea lifts waves of three thousand miles high. It flies upwards, the swirl of its body creates tornados from ninety thousand miles high in the sky. The wind and air is its breath, the blue in the sky might as well be the color of its feathers. Ancient Greek and Chinese all have records of it from thousands of years ago. Is this the giant ancient creature that you're looking for?"
+"There is this giant fish, born in the northern sea, the head to tail stretching thousands of miles long. It turns into a giant bird, no one knows how big it is, must be tens of thousands of miles wide. When it flies, its wings spread like the clouds covering the sky. When the winter stirs the sea, it flies to south. Its wings flap on the water, the sea lifts waves of three thousand miles high. It flies upwards, the swirl of its body creates tornados from ninety thousand miles high in the sky. The wind and air is its breath, the blue in the sky the color of its feathers. Ancient Greek and Chinese all have records of it from thousands of years ago. Is this the giant ancient creature that you're looking for?"
 
 Dean swallows, thinking about the shadow of Castiel's wings on the barn walls the first day they met. "Maybe," he says. "Does this bird has a name?"
 
-"Greeks and Egyptians call it Phoenix, Chinese call it Peng, archeologists call it Archaeopteryx, theologians call it Angel. But does the name matter?"
+"Greeks and Egyptians call it Phoenix, Chinese call it Peng, archeologists call it Archaeopteryx, you're calling it Angel already. Does the name matter?"
 
 Dean shakes his head, dumbly. "And where does it -- he, they -- live and rest? This northern sea it born from and the southern place it flies to, where are they?"
 
-"It only rests on the oldest and tallest tree, thriving from ages of dinosaurs, taking eight thousand years as its spring, and eight thousand more for autumn."
+"It only rests on the oldest and tallest tree, thriving from the age of glacier and dinosaurs, taking eight thousand years as spring, and eight thousand more for autumn."
 
 Dean blinks, blankly.
 
 Artemis lets out a short sigh. "Redwood, California."
 
-"Thank you!" Dean blurts out, "Next time, start with that. Now I can see why Greeks have Minotaur and Sphinx."
+"Thank you!" Dean blurts out, "Next time, start with that! Now I can see why Greeks have Minotaur and Sphinx."
 
 #### Act 2
+
+Artemis wasn't kidding when she said the trees were ancient old. Only has a few digits give or take on the specific age.
+
+The foresters say the oldest redwood in the park should be at least two thousand years old.
+
+Dean walks into the woods.
+
+Surrounded by the trees towering over the land, rising into the sky, no human can avoid to be reminded of how tiny they are. Dean is no exception.
+
+He walks among them, awed and uneasy. He can't shake the feeling there are stares looking down at him from above -- not in the way like Cas's stares, but in a bad way like spiders monitoring preys. But he doesn't know if it's the trees themselves being too loud and alive, or something else perching on the top. The instinct makes the hairs on the back of his neck stand.
+
+The trunks of the redwoods sheer upwards, the crowns cover the sky, leaving the space in between gloomy, with only glitters of sunshine shaking with the shades of leaves on the ground.
+
+Dean walks deeper into the woods, eyeing around, looking for some evidence of one certain giant feathery creature.
+
+Birds fly around in the woods, all the time. Big and small, comes in all kinds of different colors. Dean pays specific attention to those in black.
+
+But none of them are more than a few feet in size.
+
+Maybe legends are just legends, as they should be, remain the mythology stories as they are. Dean thinks, wondering if it's time to head out and where the exit is.
+
+Hours passed, Dean finds himself still frustratingly circling around the place. All the trees look exactly the same. He can't see a sign or man-made trails. Or any other living breathing human tourists.
+
+The sun starts setting. The dull light in the woods in the daytime transition into darker shades as the sun moves west, and then, the night falls.
+
+The utter darkness covers the woods, nocturnal creatures -- and monsters -- start waking up.
+
+Not seeing one in the day time doesn't mean it's safe at night. And with the vision practically blinded entirely -- flashlight barely helps this deep in the woods -- his only help turns to the senses of ears and nose and touch.
+
+That is how the similarity starts seeping into the reality.
+
+It is as if he is back to the Purgatory again.
+
+Dean reaches to the back of his belt, grabbing the blade. Not as big as the bone machete he's used to, but should allow him fights a few rounds if he has to.
+
+The sound of the forest starts getting noisy. The insects in the grass chanting, some small creatures running around, presumably from the family of squirrels. And then there are sounds of wings flutter.
+
+So many and so loud, the wings of too damn many birds flutter. Black figures flying in and out of his flashlight beam.
+
+When he heard the sounds of wings for the first time up close that night, Dean was thrilled. Turning around earnestly, he almost called "Cas" when a big black bird shoots past him, towards the crown of a nearby tree. He can't tell the name of the bird.
 
 
 
