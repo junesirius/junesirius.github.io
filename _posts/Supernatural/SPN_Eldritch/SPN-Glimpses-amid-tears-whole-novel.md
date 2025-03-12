@@ -91,7 +91,11 @@ ominous spooky feeling: ≈P3 Sirius Black bad omen black dog (fearful but funda
 
 high dimension: Interstellar (2014, not released yet; current=)
 
-#### Dean's mental state
+### Easter Egg
+
+Chap. 2, the legends of the giant fish and bird: quote from 庄周《逍遥游》“北冥有鱼，其名为鲲。鲲之大，不知其几千里也；化而为鸟，其名为鹏。鹏之背，不知其几千里也，怒而飞，其翼若垂天之云。”
+
+### Dean's mental state
 
 ≈S08E01-07
 
@@ -101,7 +105,7 @@ he can only save Cas if he lets go of some of that blame/guilt
 
 mission mode, focused on saving mission
 
-#### Cas's mental state
+### Cas's mental state
 
 ≈S08E07-10
 
@@ -321,19 +325,19 @@ Cas turns around, stepping aside. That is when he sees it. A tear in the space, 
 
 Cas is right in front of that huge tear of the dimension now. Bright light start leaking out from him, seeping into the opening, weaving onto it like needles and threads fixing a patch on a piece of cloth, closing it bit by bit.
 
-"Please..." Dean begs, so quiet even himself can barely hear it. Cas's figure starts fade, lights dimming, the hole shrinking. But right before it gets completely sewed up by the bright light of grace, a slicker thread of light flies away from the rest, flying towards Dean.
+"Please..." Dean begs, so quiet even himself can barely hear it. Cas's figure starts fading, lights dimming, the hole shrinking. But right before it gets completely sewed up by the bright light of grace, a slicker thread of light flies away from the rest, flying towards Dean.
 
 Dean watches it, not realizing his eyes are so teary that the light of the grace is all fuzzed and smudged like a piece of soaked art. The thin thread of light fly onto his forehead, touches his skin and immediately sinks into it.
 
-The warmth soaks him from top to bottom, chasing the last hint of coldness from the snow storm out of his body. The exact same feeling whenever Cas touches him and heals him.
+The warmth soaks him from top to bottom, like the best hot water shower he could use at this moment, chasing the last hint of coldness from the snow storm out of his body. The exact same feeling whenever Cas touches him and heals him.
 
 Dean looks up again. At the place where the tear of the space was, it is now a clean smooth stand of sky, and air. There is no nasty thing from other dimension, there is no bright light of needles and threads.
 
 There is no Cas, again. Except for the lingering warmth that still flows in his body.
 
-The snow storm has stopped, he realizes, when the tear is mended.
+The killing snow storm has stopped, he realizes belatedly, when the tear is mended, when Cas is gone.
 
-He stares at the sky that is slowly showing. Blue as crystal.
+He stares at the sky that is clearing. Blue as crystal.
 
 On the ground, in the snow, lies a piece of fabric. Beige color, trench coat texture, blood stained.
 
@@ -427,7 +431,7 @@ I see you.
 
 <br>
 
-Hello, Dean.
+Hello.
 
 I'm sorry.
 
@@ -443,13 +447,71 @@ Don't cry.
 
 Not goodbye.
 
-Just, later. Elsewhere.
-
-Come find me.
-
 ### Chap. 2 (Harpy)
 
 > **Outline:** Dean follows giant monster witness report, rumor says Archaeopteryx (ancient first bird fossil) in place with huge tall trees (Redwood, California). Dean drives there, gets spooked, feels being watched but no one around, thinks he sees shape of giant Cas's wings in night black but disappear in blink (only get a glimpse), thinks he's going crazy, finds another tear of dimension and bloody feather in it (too big). almost gets killed by Greek creature Harpy (half-human half-bird, eat human, decapitation) and gets saved by Cas, protected by six huge black wings (Cas wants to talk but only in true voice and too loud, breaks glasses, but Dean is sure by now it's Cas), Cas gets pulled away again as the tear closes [+Cas POV: can't talk, can't stay, self-aware weird shape, watch Dean from the other side, see him hurt and fight to force through to save, weakened by each attempt]
+
+#### Act 1
+
+He takes two days driving from Colorado to Louisiana, another two days from Louisiana to Michigan.
+
+Dean can't help touching the piece of trench coat in his pocket, as if it's heating up, burning on the skin where his own heart beats. But it's just some clothes.
+
+The leaves of the trees grow wider and larger as he goes south, then thinner and taller again as he heads north.
+
+The laptop search bar has a new frequent search words: "giant monster". It turns out people online tend to report even more witnesses of something huge and monstrous than that of holy or hellish.
+
+Dean picks the roads no one walks or drives, the roads in between trees and on the mountains. The mountains where legends say giant monsters and pre-history creature lives.
+
+He runs into a lone vampire making a living hunting bears, and a goat-masked creature living in the woods that turns out to be a fairy. But not another "yeti" or "bigfoot", certainly no mention at all of any creature with trench coat-colored skin.
+
+The snow starts melting by the road of the Midwest and lake area. It's been months since Colorado, even longer since Purgatory. Leviathans fade into memory of a previous life, demons and Apocalypses are like stories that other people tell.
+
+Once, in the middle of the night, on his way driving to Montana, Dean finds himself wondering, if this is gonna be the rest of his life. Drifting on the road, searching, alone, not even hunting, not really. Just looking, finding, going after the angel that he lost.
+
+He ponders, what if the next time he sees him is twenty years from now, what if Cas gets pulled away soon after that again, and the next time is fifty years later. Or a hundred. What then?
+
+Hours condense in the nights like this, moving slowly, minutes by minutes. But days and weeks flash by quick.
+
+He has no answer. And he pushes the questions away. He could think of nothing but finding Cas when he was in Purgatory, and it is no different now. Even if it's going to take the rest of his life.
+
+He wasn't planning on coming back to the life on Earth anyway, back there, before he found Cas. Then he found him.
+
+So here, now, on the Earth. It has to be easier. It has to.
+
+The road stretches ahead like used tapes roiling back in a cassette player, miles and miles putting behind the wheels.
+
+Cas is not in Montana, either. But he does run into more gods and titans. Zeus and Prometheus die in the same day, and he gets to meet with Artemis, the goddess of his occupation, supposedly the protector of all hunters. It isn't the worst day of his life, all things considered.
+
+That is when Artemis tells him the legend of one giant ancient bird. After he asked nicely.
+
+"There is this giant fish, born in the northern sea, the head to tail stretching thousands of miles long. It turns into a giant bird, no one knows how big it is, must be tens of thousands of miles wide. When it flies, its wings spread like the clouds covering the sky. When the winter stirs the sea, it flies to south. Its wings flap on the water, the sea lifts waves of three thousand miles high. It flies upwards, the swirl of its body creates tornados from ninety thousand miles high in the sky. The wind and air is its breath, the blue in the sky might as well be the color of its feathers. Ancient Greek and Chinese all have records of it from thousands of years ago. Is this the giant ancient creature that you're looking for?"
+
+Dean swallows, thinking about the shadow of Castiel's wings on the barn walls the first day they met. "Maybe," he says. "Does this bird has a name?"
+
+"Greeks and Egyptians call it Phoenix, Chinese call it Peng, archeologists call it Archaeopteryx, theologians call it Angel. But does the name matter?"
+
+Dean shakes his head, dumbly. "And where does it -- he, they -- live and rest? This northern sea it born from and the southern place it flies to, where are they?"
+
+"It only rests on the oldest and tallest tree, thriving from ages of dinosaurs, taking eight thousand years as its spring, and eight thousand more for autumn."
+
+Dean blinks, blankly.
+
+Artemis lets out a short sigh. "Redwood, California."
+
+"Thank you!" Dean blurts out, "Next time, start with that. Now I can see why Greeks have Minotaur and Sphinx."
+
+#### Act 2
+
+
+
+
+
+#### draft notes
+
+Dean drives there, gets spooked, feels being watched but no one around, thinks he sees shape of giant Cas's wings in night black but disappear in blink (only get a glimpse), thinks he's going crazy, finds another tear of dimension and bloody feather in it (too big). almost gets killed by Greek creature Harpy (half-human half-bird, eat human, decapitation) and gets saved by Cas, protected by six huge black wings (Cas wants to talk but only in true voice and too loud, breaks glasses, but Dean is sure by now it's Cas), Cas gets pulled away again as the tear closes
+
+[+Cas POV: can't talk, can't stay, self-aware weird shape, watch Dean from the other side, see him hurt and fight to force through to save, weakened by each attempt]
 
 ### Chap. 3 (Missouri)
 
