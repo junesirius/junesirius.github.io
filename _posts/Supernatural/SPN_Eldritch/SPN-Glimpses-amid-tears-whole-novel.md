@@ -14,7 +14,7 @@ published: false
 
 [TOC]
 
-(tag: canon-divergent, purgatory, giant Cas, misshaped Cas, mutual pining, angst, case fic)
+(tag: canon-divergent, purgatory, giant Cas, misshaped Cas, minor body horror, mutual pining, angst, case fic)
 
 ## Draft
 
