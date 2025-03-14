@@ -361,7 +361,7 @@ Dean picks it up, puts it in the chest pocket closest to his heart.
 
 <br>
 
-#### Act 4
+#### Act 4 (Cas POV)
 
 It is dark.
 
@@ -705,9 +705,9 @@ His hand reaches up, feeling the touch of the feather, leaning into it.
 
 "Did the Purgatory do this to you? Pulling you here and there? Making these whatever weirdass portals all over? God, I have so many questions." Dean feels the twist in his stomach tightens, the tie turning over. He thinks he's gonna be sick.
 
-His voice quieter. "Do you choose to leave, or do you have to, Cas?" He pushes the words out, tasting the edge of them, each as sharp as the knives and blades and the beaks of those birds, cutting his tongue and throat bloody. "I just want you back, want you stay, want you okay. Is that too much to ask?"
+His voice quieter. "Do you choose to leave, or do you have to, Cas?" He pushes the words out, tasting the edge of them, each as sharp as the knives and blades and the beaks of those birds, cutting his tongue and throat bloody. "I fight so hard, just want you back, want you stay, want you okay. Is that too much to ask?"
 
-The shrieking angelic voice that answers him is even more pained than the last one he heard. Dean can't imagine what is it Cas is saying.
+The shrieking angelic voice that answers him is even more pained than the previous one he heard. Dean can't imagine what is it Cas is saying.
 
 The vultures gather back closer as Cas's wings flapping incrementally slower and visibly more exhausted and heavy. One of them land the claws on his wings in the mid sky, more followed. A burst of new smell of copper and iron outburst in the air.
 
@@ -715,7 +715,7 @@ Dean yells, "Cas, watch out!" But there is nothing he can do. Some of the birds 
 
 That is when Cas starts glowing. Not too different from last time on the snow mountain, except a lot more intense. Dean shuts his eyes the moment those lights start brightening up, starting from the outline of the wings.
 
-His head itches to steal a look, to see the wings in light, he imagines it like phoenix reborning in fire (as the legend about the big birds go, not the monster in wild west time), but Cas would definitely be pissed -- pissed at himself, that is -- if he gets his eyes burned out because of the curiosity.
+His head itches to steal a look, to see the wings in light, he imagines it like phoenix reborning in fire (a drastic light show as the legend about that tremendous bird would be like, not the man-like monster back in wild west time), but Cas would definitely be pissed -- pissed at himself, that is -- if Dean gets his eyes burned out because of the curiosity.
 
 The bright light burns the back of his eyelid hot and red, like looking at the sun with closed eyes. He waits, feeling the heart pounding loudly in his chest. He listens, the sounds of wings wane and subside, the warm and soft touch of feather leaves.
 
@@ -731,15 +731,77 @@ Cas's feather.
 
 Dean's fingers caress the feather, ever so softly, so lightly. Just like the way the wings it belonged to touching his cheek mere moments ago. Ever so gently. The touch of a phantom hand, coming from a distant forgotten dream.
 
-He presses the feather onto his lips, then puts next to the piece of trench coat fabric. His heart beats a skin's distance away.
+He presses the feather onto his lips, then puts it next to the piece of trench coat fabric. His heart beats a skin's distance away.
 
-#### Act 4
+#### Act 4 (Cas POV)
 
+The dimension in between is -- for lack of a better word -- confusing. It's kaleidoscopical, it's a meat grinder of light and darkness and everything in between, a blender of color and shape, a garbage disposal of mind and body.
 
+Starting with the darkness, then the lights from other dimensions start flashing in, like stars from other side of the curtain, then brighter than sunshine.
 
-#### draft notes
+It takes I-don't-know-how-long to find the words and thoughts again, find the pieces that belonged to me and put them together. It takes longer to see the lights, then see them growing, and even longer to realize what they are.
 
-[+Cas POV: can't talk, can't stay, self-aware weird shape, watch Dean from the other side, see him hurt and fight to force through to save, weakened by each attempt]
+Prayers can't reach this dimension, yearnings do. The stronger the emotion, the brighter the lights. It starts with brightness of comets, on and off, flickering, blinking; then that of Mercury and Venus, as they're seen from Earth; soon as anchoring and pointy as Polaris in Ursa Minor, as bright and consistent as Orion and Perseus; then, it is supernova explosion.
+
+There is a similarity between here and the deep space in the more familiar dimension.
+
+It feels familiar. It feels home.
+
+It takes a while, but the realization finally dawns: Why are the lights so bright, so calling, so intense that I want nothing but staring into it, going after it, merging into it -- because it's beacon, sent by the one human being that anchors my existence, shines the way back. It is Dean, calling for me.
+
+<br>
+
+The separation that divides the dimensions, is near impossible to tear. It is no cotton fabric of a curtain, it is as steely as a diamond wall hundreds of thousands of miles thick, if its thickness is not infinity.
+
+There is no way through -- none that I can manage by myself.
+
+But I'm not doing it by myself.
+
+I can't hear him, can't really see clear enough of his whereabouts, but the light of emotion radiated from him, directly coming from the beating heart, that is all I ever needed.
+
+When the light burst so bright and desperate, it's like the notes from a thorn bird singing its last song, when the thorn piercing through its chest. The power and intensity so strong and insistent, it can cut through everything just to reach its aim -- me.
+
+It cuts the divides thin, I push it through. There he is, Dean. But dying. Almost always, dying. Even more so, when I'm around.
+
+More so, when the tear is open, and dangers seep through.
+
+I watch myself, stepping over the tear. Hands, feet, cloths; wings, rings, eyes. The vessel, the angel, the monster, the bad luck. Nowadays, it seems, I'm always the combination of all of these. The eye of the disaster storm, the reason why Dean is in danger.
+
+"I'm here now." I want to say. The sound comes out harsh and sharp, too loud for human. Dean's hands cover his ears. I'm hurting him again. It seems, I'm always hurting him, one way or another.
+
+I mute my own sound, ignoring the chanting deep within, repeating Dean's name. Ache. It doesn't matter. I don't matter. It should be about Dean. It's always all about Dean.
+
+"Stay." I hear he say. Half hear from words, half through pray, reaching deep into my core.
+
+"I need you." I hear he think. Don't need to invade his mind, the thoughts are already loud enough.
+
+"What do you need me for, Dean?" I wonder. I heal him. I help him on his feet. I wipe his tears.
+
+I put my wings around him, leaning into the warmth of human body. Greedily. Selfishly.
+
+Taking in his whole existence, grasping the memory, getting prepared.
+
+"I miss you too." I'm thinking. Never told him, probably never going to.
+
+"I'm sorry." I see blood. Then I see tears.
+
+I see danger. And I see pain. The bright light in his soul, never more blinding.
+
+Why is tear both the sad sea water, and the broken wound that never really heal? Because they're, really, the very same thing.
+
+I see the way out, and I see the way to keep Dean safe. The crossroads.
+
+Think carefully, choose wisely.
+
+Except, it is never a decision that need ponder.
+
+Stepping aside, stepping back.
+
+Wound of the dimension, fixed by body of broken -- sounds poetically fair. And perfect for a penance.
+
+I still hear the yelling of his calling.
+
+<br>
 
 ### Chap. 3 (Missouri)
 
@@ -748,6 +810,10 @@ He presses the feather onto his lips, then puts next to the piece of trench coat
 ### Chap. 4 (Cthulhu)
 
 > **Outline:** Dean drives around, keeps getting spooky feeling of continuously being watched, hears local legend of Cthulhu (humanoid, huge, tentacle, hundreds of meters tall) in Alaska, sees weird/astonishing aurora lights on sky, drives there. midnight, empty road, tear opens, sees giant Cas manifest in full size right in front of impala, wings+rings with eyes+trench coat, leviathans also come through the tear. Dean shocked/terrified/in awe then busy fighting, giant Cas kills them (easier than normal size but easily tired). Dean&Cas grab a few moments to talk/sync (the physics theory behind), Cas worries his reaction at first, Dean needs time to adjust, sees him for real now, rings with too many eyes, not react/communicate well. Cas sensitive, feel rejected/upset, afraid Dean disgust/fear his true form now, self-aware being monster. Cas gets weaker quickly for staying in this dimension talking for long, fighting against natural order, and with the tear more leviathans coming through. For Dean's safety and Cas's own exhaustion, Cas gets pulled back and tear closes. [both POV, Cas upset, self-aware]
+
+#### draft notes
+
+tears are form when Dean yearns the most desperately -> first two cases are both when he's dying, third one is just because he's so lonely and missing Cas so much it's also killing him, inferred suicidal thoughts (?)
 
 ### Chap. 5 (Ritual+reunion)
 
