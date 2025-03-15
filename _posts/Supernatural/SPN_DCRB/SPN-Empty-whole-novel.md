@@ -475,7 +475,7 @@ Dean manages a smile, decision made. "Think I'd stay behind for a bit, if that's
 
 "Dean," Death presses, sounds more intimidating now. "You don't want this, becoming a ghost isn't what you think it's like. You can't bring the angel back as a living, why do you think you can achieve that as a ghost?"
 
-Dean gives him a grin. "Well, can't blame a man for trying. For one, think I'd get more time working on that. But I know for sure I don't want to get to whatever afterlife paradise forgetting Cas's still in the Empty."
+Dean gives him a grin. "Well, can't blame a man for trying. For one, think I'd get more time working on that. But I know for sure I don't want to get to whatever afterlife paradise forgetting Cas's still in the Superhell."
 
 "Then guess I don't have to remind you how it always end up with your ghost cases with unfinished business? You'll get obsessive and violent about that unfinished business, at the end of the day, you're the monster to be put down."
 
@@ -595,11 +595,11 @@ Jack focuses on Dean's shape, only the tiniest twitch on his face showing it's n
 
 Dean meets the kid's eyes, finding it as earnest as he'd found back when he was merely a new-born looking for his father, the very raw and bare look of a son, a kid missing his family. Dean can't help swallowing.
 
-"Yes," he tells him. "At least I will try really, really hard, because like you said, we all want him back extremely badly."
+"Yes," he tells him. "At least I will try really damn hard, because like you said, we all want him back extremely badly."
 
 "Okay then," Jack nods and smiles, turning back to Sam. "I think it's okay, then."
 
-*The kid wants Cas back probably just as strong as Dean, no wonder.* Sam only then realizes that, and more than ever realizes the fact the new God is actually just Jack, a three-year kid that loves Castiel like his father.
+*The kid wants Cas back probably just as strong as Dean, no wonder.* Sam only then realizes that, and more than ever realizes the fact the new God is actually still *just* Jack, a three-year kid that loves Castiel like his father.
 
 Jack flies away after the dinner, after hanging around for a moment to help the dishes and feed the dog.
 
@@ -739,13 +739,25 @@ Cas breathes out, happy. All the happiness the world has ever seen adding togeth
 
 Not too slow, not too little, not too late. Not this time. Not again.
 
+Cas's eyes follow Dean's hand, then fall on the place where his own hands get led to, on the place where Dean's lips press. His eyes land on there, then flicker back to Dean's eyes. The blue crystal meets the green amber.
+
+Dean swallows, pulling him over by the hand, the other hand reaching Cas's shoulder, pressing him close. Cas's hands on the back of his head.
+
+His lips fall on Cas's, touching ever so gently. Light like a feather's stroke.
+
+Cas kisses back, chaste. His lips dry and chapped, but warm and real, it's the best sensation in the world.
+
+Dean closes his eyes, moaning lowly in happiness, pressing it deeper.
+
 <br>
 
 They are definitely *not empty* anymore.
 
-They become the opposite of empty, they are full, they are complete, they are whole. The feelings and emotions overflow from them, leaking into their surrounding, shining the space like rising Sun on the sky. Bright and brilliant, blinding and dazzling.
+They become the opposite of empty, they are full, they are complete, they are whole. The feelings and emotions overflow from them, leaking into their surrounding, shining the space like rising sun on the sky. Bright and brilliant, blinding and dazzling.
 
-The Shadow materializes itself behind them, covering its eyes, pained by the rainbow and sunshine, deafened by the exploding sound of tears dropping and hearts beating. It grimaces and twitches, dying, in their presence. "What have you done!" it growls and struggles.
+The Shadow materializes itself behind them, covering its eyes, pained by the rainbow and sunshine, deafened by the exploding sound of tears dropping and hearts beating. It grimaces and twitches, dying, in their presence. "What have you done!" It growls and struggles.
+
+They separate, fingers still entangled.
 
 Dean looks at it, grinning. "Nothing, just some natural, healthy expression of feelings." He exchanges a knowing, meaningful look with Cas, their hands still holding together.
 
@@ -787,7 +799,7 @@ Cas smiles, nodding without doubt. "Yes. He did. Everything."
 
 <br>
 
-"So, what now? You want to keep hunting? Or retired or something?" Sam is the one asks.
+"So, what now? You want to keep hunting? Or retired, an extended vacation by the beach? Or like Bobby used to do, a new commanding center, training newbies?" Sam is the one asks.
 
 "Anything, hell, all of that." Dean shrugs. "Now we just, *live*. After everything we fought for, we never get to really *live* this world, enjoy the life as promised, with all the peace and freedom and happiness. I mean, isn't it about the time? The paradise on Earth?"
 
