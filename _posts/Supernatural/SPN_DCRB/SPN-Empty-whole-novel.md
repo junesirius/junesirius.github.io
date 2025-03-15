@@ -749,15 +749,21 @@ Cas kisses back, chaste. His lips dry and chapped, but warm and real, it's the b
 
 Dean closes his eyes, moaning lowly in happiness, pressing it deeper.
 
+He feels something in his chest expanding, exploding, something can't ever get contained inside his body anymore. Dean doesn't need to open his eyes to sense the light flowing from his own body, radiating the place like how Cas used to lighten up. Is it his soul or just the feelings that are materializing and overflowing?
+
+His fingers sense a touch of vibration, from behind the eyelid, the golden bright light piercing through, humming in electricity and intensity. The power of angel, full and strong, warm and reassuring.
+
+Without hesitation, they embrace, in the forms not even they know possible. But it feels so right, the touch and unison to the core of their existence, entangled to every atom of body and every photon of the light. At this moment, they merge as one.
+
 <br>
 
 They are definitely *not empty* anymore.
 
-They become the opposite of empty, they are full, they are complete, they are whole. The feelings and emotions overflow from them, leaking into their surrounding, shining the space like rising sun on the sky. Bright and brilliant, blinding and dazzling.
+They become the opposite of empty, they are full, they are complete, they are whole. The feelings and emotions overflow from them, leaking into their surrounding, shining the space like rising suns on the sky. Bright and brilliant, blinding and dazzling.
 
-The Shadow materializes itself behind them, covering its eyes, pained by the rainbow and sunshine, deafened by the exploding sound of tears dropping and hearts beating. It grimaces and twitches, dying, in their presence. "What have you done!" It growls and struggles.
+The Shadow materializes itself behind them, covering its eyes, pained by the brightest sunshine, deafened by the exploding sound of tears dropping and hearts beating. It grimaces and twitches, dying, in their presence. "What have you done!" It growls and struggles.
 
-They separate, fingers still entangled.
+They separate, shapes back to human figure, fingers still entangled.
 
 Dean looks at it, grinning. "Nothing, just some natural, healthy expression of feelings." He exchanges a knowing, meaningful look with Cas, their hands still holding together.
 
