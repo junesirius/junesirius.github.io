@@ -13,7 +13,7 @@ published: false
 
 [TOC]
 
-(tag: S15E18, confession, reciprocation, canon-divergent, fix-it, temporary MCD but we all know it's like in SPN, angst, mutual pining, Dean/Cas Reverse Bang)
+(tag: S15E18, confessions, AU: canon divergence, fix-it, temporary MCD but we all know how it's like in SPN, angst, mutual pining, Dean/Cas Reverse Bang)
 
 (collection: dcrb2025)
 
@@ -47,6 +47,10 @@ Jack/米：（也震惊）所以你什么都没有给他？那他怎么……？
 
 ~~(plot) after they reunite, could make it more emotional, more than hug, maybe a little first kiss (pending), some soul-grace entanglement maybe, make it more intense to balance out the angst~~
 
+### Summary
+
+Where does one go, when there is nothing left in them to be taken, when the hole in the heart is so vast that there is no heart remains, when the surrounding and the whole world matter nothing and have no difference to pure dark and black, indistinguishable from the void, when themselves *are* empty. Where do they go?
+
 ## Main
 
 ### Act 0
@@ -61,7 +65,7 @@ Dean feels his body moving forward, reaching out. Lips trembling.
 
 *Cas.*
 
-He cries out his name, matching his gazes. His throat is not working. But he's shouting the angel's name. *Cas, Cas --*
+He cries out his name, matching his gaze. His throat is not working. But he's shouting the angel's name. *Cas, Cas --*
 
 But Castiel does not hear him. His shouts are buried inside. Dean watches the teary smile, pinned frozen by the pained happiness in his eyes. The most hopeless, devastated happiness he's ever seen. And yet, it's happiness that he can see. It's Cas's happiness that he's witnessing, for the first time. And the last.
 
@@ -85,7 +89,7 @@ There is just silence. Dead, empty, hopeless silence all over him. All around hi
 
 No Cas.
 
-No Cas any more.
+No Cas anymore.
 
 Forever. He said. Gone.
 
@@ -117,7 +121,7 @@ Everyone's eyes are full of grief. Everyone for a different reason.
 
 Dean doesn't know if he can say anything, about what happened, or do anything, next. He feels the head dizzy, too heavy, dragging his body down. His whole body feels sick. Numb and sluggish. Shutting down.
 
-*This can't be happening. Cas, the world, any of it.* Worse than the worst nightmare he's ever had. Is it still not the time of snapping out of the bad dream?
+*This can't be happening. Cas, the world, any of it.* Worse than the worst nightmare he's ever had. Is it still not the time to snap out of the bad dream?
 
 "Where is Cas?" Two steps away from them, Jack is the first to ask. Sam looks at him with the same question in his eyes.
 
@@ -131,7 +135,7 @@ He can't look Jack in the eyes. How do you tell a son that his father is gone? G
 
 But he has to say it. Sooner or later.
 
-Dean swallows hard. There are blades in his throat. Every swallow, every syllable, the words are cutting him anew. Bleeding never stop. Wounds that will never heal again.
+Dean swallows hard. There are blades in his throat. Every swallow, every syllable, the words are cutting him anew. Bleeding never stops. Wounds that will never heal again.
 
 They already know the answer. Just by looking at him. The mess he is. But he has to say it. *Cas is... Cas...* He chokes at the thought. *Cas is gone.*
 
@@ -149,7 +153,7 @@ Jack has sparkling tears in his eyes too. Dean only now realizes so belatedly ju
 
 But Jack smiles, looking into Dean's eyes. "But I'm glad," the kid says. "At least before he was gone, you gave him what made him truly happy. What he always wanted. Did you kiss him?"
 
-Dean can't breath. "What?"
+Dean can't breathe. "What?"
 
 Jack blinks, somehow surprised. "Please tell me you at least hugged him?"
 
@@ -165,7 +169,7 @@ His stomach roils and lurches. Dean turns around, can't bear their eyes for one 
 
 He didn't give him *anything*. He didn't even...
 
-Dean forces his stare stay on something in the distance, on the skyline, staring so long without blinking that tears falling down from the corner of the eyes again.
+Dean forces his stare to stay on something in the distance, on the skyline, staring so long without blinking that tears fall down from the corner of his eyes again.
 
 The world is mourning with him. The empty silence in the universe. The vacuum in existence, the tear in reality, the hole in the heart.
 
@@ -249,7 +253,7 @@ Dean just keeps doing what he's determined to do. Thinking, praying, wanting, ye
 
 <br>
 
-The fact is, the emotions *do* get transmitted into the Empty like a laser beam, shining bright into the corner where the sleeping angel lies.
+The fact is, the emotions *do* get transmitted into the Empty like a laser beam, shining brightly into the corner where the sleeping angel lies.
 
 "Cas." Dean's voice knocks at his temple.
 
@@ -267,7 +271,7 @@ He anchors himself to the voice reaching him consistently -- Dean's voice.
 
 Dean's voice that is calling his name, begging and pleading, among other things he's telling him, the random small daily human life things, the coffee, the popcorn, the bacon -- all the things that are on the Earth, with color and shape and texture and taste, all the things that are real enough and certainly *not empty*. He anchors his entire existence on it.
 
-Cas thinks he can see his own body now -- finally solidified. The small amount of space closest to him lit up by some lumination radiated from something inside his chest.
+Cas thinks he can see his own body now -- finally solidified. The small amount of space closest to him lit up by some lumination radiating from something inside his chest.
 
 He chooses a direction, and starts walking.
 
@@ -347,7 +351,7 @@ He chews on his own words, considering, then says it again. "I'm already happy e
 
 "Hey Cas, don't laugh at me, alright? But I might have called your phone way too many times. Remember you still have that ridiculous voicemail message? Yeah, we're so gonna change it when you come back."
 
-"Cas, I know I told Sam I'd turn in early and get some sleep, but... I can't. I keep thinking about the early days when we first met, you know? So many times you'd startle me when I woke up and found you staring at me. Man, it's really creepy to watch people sleep, but uh, I wouldn't mind have that again now."
+"Cas, I know I told Sam I'd turn in early and get some sleep, but... I can't. I keep thinking about the early days when we first met, you know? So many times you'd startle me when I woke up and found you staring at me. Man, it's really creepy to watch people sleep, but uh, I wouldn't mind having that again now."
 
 "Sam dragged me back into hunting again. I didn't want to go, but he insisted. Guess that must be how he felt like when I pulled him out of Stanford. And guess what, it's a ghost, a woman, just like the Woman in White. Sometimes it feels like time and everything is just a whole pile of bad jokes -- nothing's changed in fifteen years except we're getting older. And, uh, we don't have angels on our shoulders now. So Cas, want to pop in and prove me wrong?"
 
@@ -355,7 +359,7 @@ He chews on his own words, considering, then says it again. "I'm already happy e
 
 "We got ourselves a shapeshifter case today. I hate him so much. He read my mind and... and... and he turned into you. Sammy had to take him down because I couldn't. I'm sorry, Cas. I know he's not you, but... it's been so long. I still can't. I'm sorry... I..."
 
-"Sam doesn't know why we had a birthday cake for dinner today, and I ordered extra champagne -- I drank your share, by the way. It's top-shelf stuff. I just realized, with everything going on, we never get a chance to decide a birthday or anything for you. Not even once. So, if no objection from you, I think I'll take the liberty and declare today your birthday. It's September 18th, Cas. You don't think I'd forget the day we first met, do you? Man, did I ever tell you about that day you walked in? Jesus, you were just... poof... you know. The light, the sound, the wind, it was crazy. It's... it's really awesome, I ever tell you that? Sorry, rambling now, probably too much that... umm... I'll get another drink, I'll just --"
+"Sam doesn't know why we had a birthday cake for dinner today, and I ordered extra champagne -- I drank your share, by the way. It's top-shelf stuff. I just realized, with everything going on, we never get a chance to decide a birthday or anything for you. Not even once. So, if no objection from you, I think I'll take the liberty and declare today your birthday. It's September 18th, Cas. You don't think I'd forget the day we first met, do you? Man, did I ever tell you about that day you walked in? Jesus, you were just... poof... you know. The light, the sound, the wind, it was crazy. It's... it's really awesome, I ever told you that? Sorry, rambling now, probably too much that... umm... I'll get another drink, I'll just --"
 
 "Cas, I think there is no more angel or heaven or Empty-related book I haven't read in the world. Sam helped too, but I read them all, just to be sure. So is all the magic and lore and people with power we can seek help from, but... there is nothing. I can't believe it, there is just nothing on how to bring you back. But I'll keep trying, alright? I swear, if this is the only thing I do before the lights go out, I'll do it right and bring you back."
 
@@ -371,7 +375,7 @@ He can see him, and he can hear him. Cas is already satisfied. This isn't even a
 
 It's like listening to a voicemail in real time. You know the other side is right there, talking, but your hand is just too occupied to pick up the phone.
 
-Castiel responds regardless -- in murmurs, or in a choked voice, or in between spitting blood as his insides are twisted and torn. The black ethers reach into him, blending and slicing him like scrambled eggs. He thought the pain would dull over time, but it hasn't. It is still sharp and acute with every touch of the torture.
+Castiel responds regardless -- in murmurs, in a choked voice, or in between spitting blood as his insides are twisted and torn. The black ethers reach into him, blending and slicing him like scrambled eggs. He thought the pain would dull over time, but it hasn't. It is still sharp and acute with every touch of the torture.
 
 But he keeps his focus on the view -- on Dean -- strong enough, he can live with it, forgetting the torture most of the time.
 
@@ -385,7 +389,7 @@ Cas answers the prayers as if Dean can hear him. He always answers Dean's prayer
 
 "Dean, the vampires can be dangerous. Please be careful."
 
-"Dean! Watch out that metal bar behind you!"
+"Dean! Watch out for that metal bar behind you!"
 
 "Dean!!"
 
@@ -405,7 +409,7 @@ Castiel closes his eyes, letting the pain sink in. The physical torture and sens
 
 <br>
 
-Dean breathes shallow, bearing the pain. The metal in his back is probably the only thing holding him together now. Blood is draining fast. He can feel himself fading. His fingers already start to turn cold and feeble. His little brother looks at him in tears.
+Dean breathes shallowly, bearing the pain. The metal in his back is probably the only thing holding him together now. Blood is draining fast. He can feel himself fading. His fingers already start to turn cold and feeble. His little brother looks at him in tears.
 
 "It's okay." Dean smiles back at him, easily, exhaling slowly.
 
@@ -435,15 +439,15 @@ Dean -- his soul, or his consciousness, whatever he is now that still holds his 
 
 "You planned everything all along?" Dean realizes, gasping. "To reap God?"
 
-"Told you God could die too, long time ago, didn't I?" Death gives the faintest hint of a smile, eyes gleaming with approval.
+"Told you God could die too, a long time ago, didn't I?" Death gives the faintest hint of a smile, eyes gleaming with approval.
 
 "So what now?" Dean swallows, steeling himself for an answer that he might not like. Glancing upwards, then down, he wonders where Death will lead him -- to Heaven? Hell?
 
-"I told this to your brother the last time we met, and I'm telling this to you now, Dean Winchester," In his iconic solemn tone, Death tells him. "I try very hard not to pass judgement at times like this, but you..." A pause, he regards him, then, "Well played, my boy."
+"I told this to your brother the last time we met, and I'm telling this to you now, Dean Winchester," In his iconic solemn tone, Death tells him. "I try very hard not to pass judgment at times like this, but you..." A pause, he regards him, then, "Well played, my boy."
 
 Dean blinks. Approval from Death himself, he has to admit he never saw that coming. He nods in appreciation, flattered.
 
-"Now, whenever you're ready." Death half-turns, leading the way to a door that vaguely can be seen floating in the mid-air, glowing with a gentle warm light. Presumably the doorway to the afterlife.
+"Now, whenever you're ready." Death half-turns, leading the way to a door that vaguely can be seen floating in mid-air, glowing with a gentle warm light. Presumably the doorway to the afterlife.
 
 Dean eyes the passage, considering. "Yeah, about that." He hesitates.
 
@@ -505,7 +509,7 @@ He walks outside. The sun pierces through him, casting onto the ground without s
 
 *No. This is not happening. Dean can't possibly be this stupid...*
 
-Cas feels his hearts clutch and squeeze. Or is it the Empty pulling at and poking it, nearly snapping it out of his chest?
+Cas feels his heart clutch and squeeze. Or is it the Empty pulling at and poking it, nearly snapping it out of his chest?
 
 "Enjoying the show?" The voice sounds behind him. Cas grimaces.
 
@@ -575,7 +579,7 @@ Sam looks up fast. "So you know."
 
 Jack follows his gaze, checking around, also not seeing Dean, but he must have checked beyond just the bunker's dining room. "I can," the young God says. "But is that also what Dean wants?"
 
-Sam puts down the food, almost snapping, but forces the voice controlled at the last minute. "Dean doesn't know what he's doing! He can't think straight these last few years ever since Cas was gone, he's certainly not in the right state of mind to make the decision of staying a ghost!"
+Sam puts down the food, almost snapping, but forces the voice controlled at the last minute. "Dean doesn't know what he's doing! He can't think straight these last few years ever since Cas was gone, he's certainly not in the right state of mind to make the decision to stay a ghost!"
 
 "I heard he's been praying... to Cas, all the time." Jack is not affected by Sam's sudden rising voice.
 
@@ -587,7 +591,7 @@ Sam glances around. "Five years should be enough if it could work, right? But Ca
 
 "Maybe it needs ten years. Or longer." Dean pops up not far from them, leaning on the doorframe, his ghostly shape flickering for a second before stabilizing into his figure. "Ever heard of that shepherd's boy and the bird story? The bird that sharpens its beak on the diamond mountain every hundred years?"
 
-"Hello, Dean," Jack turns to him, smiling a little. Dean nods at him in return, same gentle smile.
+"Hello, Dean," Jack turns to him, smiling a little. Dean nods at him in return, the same gentle smile.
 
 "But you won't stay a ghost for five more years and still in your own mind, Dean! You wouldn't even remember your own name, who you are, what you've been through!" Sam rushes desperately.
 
@@ -597,7 +601,7 @@ Sam gives a raspy exhale, turning back to Jack. "Jack, please, he wouldn't liste
 
 Jack fixes his gaze on Dean's form, only the tiniest twitch in his expression showing it's not as stoic as he was trying to maintain. "Do you really think you can bring Cas back? Do this one thing I couldn't do?"
 
-Dean meets the kid's eyes, finding it as earnest as he'd found back when he was merely a new-born looking for his father, the very raw and bare look of a son, a child missing his father. Dean can't help swallowing hard.
+Dean meets the kid's eyes, finding it as earnest as he'd found back when he was merely a newborn looking for his father, the very raw and bare look of a son, a child missing his father. Dean can't help swallowing hard.
 
 "Yes," he tells him. "At least I will try my damn hardest, because, like you said, we all want him back terribly badly."
 
@@ -605,7 +609,7 @@ Dean meets the kid's eyes, finding it as earnest as he'd found back when he was 
 
 *The kid wants Cas back probably just as much as Dean, no wonder.* Sam realizes then, more than ever, that the new God is actually still *just* Jack, a three-year-old who loves Castiel like a father.
 
-Jack flies away after the dinner, after hanging around for a moment to help with the dishes and feed the dog.
+Jack flies away after dinner, after hanging around for a moment to help with the dishes and feed the dog.
 
 Dean pops away as well, shortly after.
 
@@ -615,31 +619,31 @@ Dean pops away as well, shortly after.
 
 > **Outline:** Dean is painful and hopeless and keeps letting the *emptiness* in his heart eat him up, after long enough, his heart is so *empty* that he goes in the Empty too. Cas catches him as he falls in, they find each other.
 
-Ghosts can't drive cars, not exactly -- except for that one time a ghost decided to *possess* Baby, that was unforgivable. So hanging out in the Impala is not an option anymore.
+Ghosts can't drive cars, not exactly -- except for that one time a ghost decided to *possess* Baby, which was unforgivable. So hanging out in the Impala is not an option anymore.
 
-But popping in and out can do the trick too, Dean decides. Not as precise on the landing spot, and it exhausts him to the extent that he would fade behind the vail so long that he nearly forgets what he was doing or where he was going. But still, it's the closest thing he's ever had that is remotely similar to flying. Maybe it's just like having angel wings to fly around. He haunts the idea.
+But popping in and out can do the trick too, Dean decides. Not as precise on the landing spot, and it exhausts him to the extent that he would fade behind the Veil so long that he nearly forgets what he was doing or where he was going. But still, it's the closest thing he's ever had that is remotely similar to flying. Maybe it's just like having angel wings to fly around. He haunts the idea.
 
 The very first place he pops to is the graveyard he dragged himself out of the soil and ground, bones and metals blasted away from the central explosion point -- the place where he climbed out of the Pit.
 
-That land is still deserted, the yard barren. The nearest gas station still has all the broken glass scattered across the floor. The very first place he ever heard Cas's voice, the first place he sensed Cas's existence before knowing anything about angel at all. He hovers around the threshold, then drifts inside through the window -- not like walls or glass can stop him now.
+That land is still deserted, the yard barren. The nearest gas station still has all the broken glass scattered across the floor. The very first place he ever heard Cas's voice, the first place he sensed Cas's existence before knowing anything about angels at all. He hovers around the threshold, then drifts inside through the window -- not like walls or glass can stop him now.
 
-There are dried blood on the floor, cutting by the broken glasses. Must be his when he dodged the blast, trying to hide away from the sound that is so high pitched that made his ears buzzing. He wonders what Cas was saying to him at that time, the very first words he was saying but he couldn't understand. Calling his name, perhaps -- that must be how the syllables of "Dean Winchester" sounds in angel's true voice. Pity that he can't understand, can't hear a thing. He doesn't even ever remember to ask Cas about that time, about what he had to say.
+There is dried blood on the floor, cut by the broken glasses. Must have been his when he dodged the blast, trying to hide away from the sound that was so high-pitched that made his ears buzzing. He wonders what Cas was saying to him at that time, the very first words he was saying but he couldn't understand. Calling his name, perhaps -- that must be how the syllables of "Dean Winchester" sound in the angel's true voice. Pity that he can't understand, can't hear a thing. He doesn't even ever remember to ask Cas about that time, about what he had to say.
 
-It was almost always Cas listening to what *he* has to say, not the other way round.
+It was almost always Cas listening to what *he* had to say, not the other way around.
 
 Dean swallows, feeling worse than before he entered this place.
 
-He can't find anything here anyway, not like Cas has left anything behind in his way here for him to collect. Hanging around for mere minutes, and then he can't remember why he's even here. Just to know that Cas is not, and the place is just a big reminder of *empty* and lost.
+He can't find anything here anyway, not like Cas has left anything behind on his way here for him to collect. Hanging around for mere minutes, and then he can't remember why he's even here. Just to know that Cas is not, and the place is just a big reminder of *empty* and lost.
 
 His memory might just be as scattered as the glass on the ground, his heart bitten away one more piece by the nothingness in the place.
 
-He moves on, hovering and lingering, wondering where and how and why. But nothing gives him answer, nowhere has anything helpful, no one can even give him anything that is remotely any comfort. Just nothing, always nothing, always *empty*, always the feeling of lost.
+He moves on, hovering and lingering, wondering where and how and why. But nothing gives him an answer, nowhere has anything helpful, no one can even give him anything that is remotely any comfort. Just nothing, always nothing, always *empty*, always the lost.
 
-Dean drops by the barn where he first saw him, the bench where they sat close by outside the witch's town, the deserted factory where he was asked to torture Alastair, the warehouse that was decorated as Heaven's green house in California, even the brothel he led Cas into for no more than a handful of hours, among all the other places.
+Dean drops by the barn where he first saw him, the bench where they sat close by outside the witch's town, the deserted factory where he was asked to torture Alastair, the warehouse that was decorated as Heaven's greenroom in California, even the brothel he led Cas into for no more than a handful of hours, among all the other places.
 
-The memory of when he was still a living human indeed fades fast, like Death warned. Soon enough, he can barely remember what they were doing the last year they were still hanging around together, let alone a decade ago. The locations blur together, soon, so are all the people's faces.
+The memory of when he was still a living human indeed fades fast, like Death warned. Soon enough, he can barely remember what they were doing the last year they were still hanging around together, let alone a decade ago. The locations blur together, and soon, so are all the people's faces.
 
-Once, he finds himself wandering outside of the bunker but not knowing where or why he's here. Sam happens to walk out of the door just then. Dean stares at him like a total stranger, like that time when the witch's spell wiped his memory clean, and the very few things he had to force himself to remember when staring at a mirror were: "I am Dean Winchester. Cas is my best friend."
+Once, he finds himself wandering outside of the bunker not knowing where or why he's here. Sam happens to walk out of the door just then. Dean stares at him like a total stranger, like that time when the witch's spell wiped his memory clean, and the very few things he had to force himself to remember when staring at a mirror were: "I am Dean Winchester. Cas is my best friend."
 
 He doesn't think he really needs that first sentence. And the second one could use a little change.
 
@@ -657,7 +661,7 @@ But he still prays. More like mere murmuring and whispering now. The one name, t
 
 Repeating it like it's a charm. A spell. A magic. A solution.
 
-Tying whatever leftover remnants of his existence to it, holding onto it, like a drown man holding onto the floating scrap of wood in the middle of the sea, in the middle of a storm.
+Tying whatever leftover remnants of his existence to it, holding onto it, like a drowning man holding onto the floating scrap of wood in the middle of the sea, in the middle of a storm.
 
 The universe might as well be a hurricane, it makes no difference. Dean Winchester is drowning, fading, falling. Into the despair, into the end, into the utter, ultimate, absolute emptiness he has found in his heart.
 
@@ -681,15 +685,15 @@ For a brief moment, Castiel doesn't realize what is happening. No one does.
 
 The opening view over his head that the Shadow taunts him with tears open. Light from the living world and physical existence pour through, along with the broken figure of one Dean Winchester.
 
-Cas reaches for him, desperate, instinctive. The tentacles from the black ether is still onto him, dragging and pulling, tightening and locking, he might tear himself in half if he stretches too far, but nothing matters.
+Cas reaches for him, desperate, instinctive. The tentacles from the black ether are still on him, dragging and pulling, tightening and locking, he might tear himself in half if he stretches too far, but nothing matters.
 
 Castiel holds his hand, opens his palm, and in the center of the light, Dean falls into him. The essence of the ghost flickers, the last remnant of his soul blinks, this is still Dean, all the same.
 
 He falls, but not into nothing, this time. But into the only existence that has ever mattered.
 
-The light trembles, the shape wavers, then he sees him. And the shape solidifies. Their eyes meet. Their minds register.
+The light trembles, the shape wavers, and then he sees him. And the shape solidifies. Their eyes meet. Their minds register.
 
-There is no word. Except for one. The only syllable on tip of their tongues that has been hovering for so long without a place to land and now it finally does.
+There is no word. Except for one. The only syllable on the tip of their tongues that has been hovering for so long without a place to land and now it finally does.
 
 "*Cas.*"
 
@@ -709,7 +713,7 @@ Dean can't believe it, neither can Castiel. They blink, they gasp, they choke.
 
 They reach out. Their hands touch. Their bodies, cold and warm, tight and pained, but real. They're real.
 
-Dean throws his arms around, and Cas meets him half-way. The embrace is so tight that nothing in the universe could stand in their way, not even the black tentacles of the Empty. They retreat in the dazzling light like wild animals intimated by a camper's bonfire.
+Dean throws his arms around, and Cas meets him halfway. The embrace is so tight that nothing in the universe could stand in their way, not even the black tentacles of the Empty. They retreat in the dazzling light like wild animals intimated by a camper's bonfire.
 
 Dean buries his face in Cas's shoulder, his body shaking, tears shredding free. "I thought I lost you for good."
 
@@ -717,17 +721,17 @@ Cas is the same, there is no stopping the stream down his face. "I thought so to
 
 That creates seconds of silence. Dean stiffens at the words, but he doesn't let go. In sobbing sounds, he gasps, "You knew? You saw me...?"
 
-Cas is smiling again, the tears tangling, the same watery smile that he had last time they saw each other, but truly happy one. "Yes," he tells him. "You woke me up, for a while already. I saw you, all the time. And I heard you, everything. It was supposed to be my eternal punishment, but seeing you... hearing you... it was no punishment at all." He glances overhead. The opening rift is closed now, there is nothing to see because Dean is already here.
+Cas is smiling again, the tears tangling, the same watery smile that he had the last time they saw each other, but a truly happy one. "Yes," he tells him. "You woke me up, for a while already. I see you, all the time. And I hear you, everything. It was supposed to be my eternal punishment, but seeing you... hearing you... it was no punishment at all." He glances overhead. The opening rift is closed now, there is nothing to see because Dean is already here.
 
 Dean pulls back from the hug, eventually, after a long, long while. Half a step back, he takes Cas in, up and down, down and up. Registering him, memorizing him, branding his figure into the deepest of his soul and brain.
 
-He takes a breath, voice shuddering. "Cas," he says, sound so broken that he can barely continue, but he pushes through, looking him in the eyes, more tears spilling over. "I *have to* see you, because I *have to* let you hear this --"
+He takes a breath, his voice shuddering. "Cas," he says, sound so broken that he can barely continue, but he pushes through, looking him in the eyes, more tears spilling over. "I *have to* see you, because I *have to* let you hear this --"
 
 "I love you too."
 
 Now, the smile on Cas's face *now*, *that* is the real true happiness he should have, not the shattered teary one back in the bunker.
 
-Cas smiles, his eyes glitter with brightest light, his whole existence beams with happiness. He parts his lips, he answers, with one word that covers everything that all the languages in the universe and all the history that have ever been and would ever be invented have to say --
+Cas smiles, his eyes glitter with the brightest, the most beautiful light, his whole existence beams with happiness. He parts his lips, he answers, with one word that covers everything that all the languages in the universe and all the history that have ever been and would ever be invented have to say --
 
 "*Dean.*"
 
@@ -735,11 +739,11 @@ And that is all Dean needs to hear. And he hears them all.
 
 *There,* he thinks, *now he's okay if the universe ends, or begins, or grows into a million other different versions. He's okay with anything now.*
 
-The hole in his heart grows back, the tear and the wound healed, filled with so much things that it's stuffed too big to even fit his chest. It overflows, turning into more tears and wider smiles and happiness and relief and all the things he doesn't know words for. He lets them all flow through him, lets them wash over him, feeling the brightness shining from his beating heart, the lightheaded sensation rush in the back of his head, the hope and joy and content and everything racing inside his veins. He looks at Cas in front of him, feeling new and reborn.
+The hole in his heart grows back, the tear and the wound healed, filled with so many things that it's stuffed too big to even fit his chest. It overflows, turning into more tears and wider smiles and happiness and relief and all the things he doesn't know words for. He lets them all flow through him, lets them wash over him, feeling the brightness shining from his beating heart, the lightheaded sensation rush in the back of his head, the hope and joy and content and everything racing inside his veins. He looks at Cas in front of him, feeling new and reborn.
 
 "The one thing you want --" he reaches for Cas's hand, pressing it over his own chest, heart beating fast and eager under, and then presses it to his lips. He tells him, "-- is something you already have -- Me."
 
-Cas breathes out, happy. All the happiness the world has ever seen adding together would have no match for the happiness at this moment, on his face, in his eyes.
+Cas breathes out, happy. All the happiness the world has ever seen added together would have no match for the happiness at this moment, on his face, in his eyes.
 
 Not too slow, not too little, not too late. Not this time. Not again.
 
@@ -757,15 +761,15 @@ Dean closes his eyes, moaning lowly in happiness, pressing in deeper.
 
 He feels something in his chest expanding, exploding, something can't ever get contained inside his body anymore. Dean doesn't need to open his eyes to sense the light flowing from his own body, radiating the place like how Cas used to lighten up and shine. Is it his soul or just the feelings that are materializing and overflowing into something bright?
 
-His fingers sense a touch of vibration. From behind the eyelid, the golden bright light escaping Cas pierces through, humming in electricity and intensity. The power of angel, full and strong, warm and reassuring.
+His fingers sense a touch of vibration. From behind the eyelid, the golden bright light escaping Cas pierces through, humming in electricity and intensity. The power of an angel, full and strong, warm and reassuring.
 
-Without hesitation, they embrace, in the forms not even they know possible. But it feels so right, the touch and unison to the very core of their existence, the soul and the grace, entangled to every atom of the bodies and every photon of the light. In this moment, they merge as one.
+Without hesitation, they embrace, in forms not even they know possible. But it feels so right, the touch and unison to the very core of their existence, the soul and the grace, entangled to every atom of the bodies and every photon of the light. At this moment, they merge as one.
 
 <br>
 
 They are definitely *not empty* anymore.
 
-They become the opposite of empty -- they are full, they are complete, they are whole. The feelings and emotions overflow from them, leaking into their surrounding, shining the space like rising suns on the sky. Bright and brilliant, blinding and dazzling.
+They become the opposite of empty -- they are full, they are complete, they are whole. The feelings and emotions overflow from them, leaking into their surroundings, shining the space like rising suns on the sky. Bright and brilliant, blinding and dazzling.
 
 The Shadow materializes itself behind them, covering its eyes, pained by the brightest sunshine, deafened by the exploding sound of tears dropping and hearts beating. It grimaces and twitches, recoiling and writhing, dying, in their presence. "What have you done?!" It snarls, voice fractured with rage and agony.
 
@@ -789,7 +793,7 @@ The ground is solid, the tree is standing, the sun shines warm on their faces, l
 
 Dean breathes out, "God, it's good to be back."
 
-Castiel closes his eyes, feeling the warmth of sunshine sink into the skin, sniffing the scent of grass in the air.
+Castiel closes his eyes, feeling the warmth of sunshine sink into his skin, sniffing the scent of grass in the air.
 
 "It's real," he murmurs in agreement, still minor unbelievable. "We're back, and alive."
 
@@ -797,23 +801,23 @@ That is when he feels the arms around him, tight. Arms of the kid.
 
 "Jack!" he holds him, patting his back.
 
-"I missed you so much." Jack tells him, not stoic, not god-like, voice trembling even.
+"I missed you so much," Jack tells him, not stoic, not god-like, voice trembling even.
 
-Cas tells him, soft, "Me too." And then, "Dean told me all about you, how everything is going on well while I was away. I'm proud."
+Cas tells him, soft, "Me too." And then, "Dean told me all about you, how everything was going well while I was away. I'm proud."
 
-The kid beams brightly, like all the kids approved by their father. "I did my best." then, his gaze lowers. "Except this one thing I couldn't do, I'm sorry I couldn't bring you back. How did you do that? Or how did Dean...?"
+The kid beams brightly, like all the kids approved by their father. "I did my best." then, his gaze lowers. "Except for this one thing I couldn't do, I'm sorry I couldn't bring you back. How did you do that? Or how did Dean...?"
 
-Cas glances toward Dean, who's standing not far away, sharing a heartfelt reunion hug with his brother now. "The oldest rule of the universe, I think, love can conquer anything."
+Cas glances toward Dean, who's standing not far away, sharing a heartfelt reunion hug with his brother now. "The oldest rule of the universe, I think. Love can conquer anything."
 
 Jack hesitates, but curiosity still makes him wonder aloud, "Did Dean finally give you what you wanted most?"
 
-Cas smiles, nodding without doubt. "Yes. He did. Everything."
+Cas smiles, nodding without a doubt. "Yes. He did. Everything."
 
 <br>
 
-"So, what now? You wanna keep hunting? Or retired, take an extended vacation by the beach? Or like Bobby used to do, a new command center, training newbies?" Sam is the one asks.
+"So, what now? You wanna keep hunting? Or retired, take an extended vacation by the beach? Or like Bobby used to do, a new command center, training newbies?" Sam is the one who asks.
 
-"Anything, hell, all of that." Dean shrugs. "Now we just, *live*. After everything we fought for, we never got to really *live* in this world, to enjoy the life as promised, with all the peace and freedom and happiness. I mean, isn't it about bloody time? The paradise on Earth?"
+"Anything, hell, all of that." Dean shrugs. "Now we just, *live*. After everything we fought for, we never got to really *live* in this world, to enjoy life as promised, with all the peace and freedom and happiness. I mean, isn't it about bloody time? The paradise on Earth?"
 
 "The paradise on Earth," Cas echoes, eyes gleaming. "Like the one Jack showed me a long time ago." He turns to the kid, realization settling in. "You never said it would be perfect, or Heaven-like, or monster-free, but it would be a world we could live, and love, and simply, *be*."
 
@@ -823,4 +827,4 @@ They share looks, smiling, understanding. Happy.
 
 Full.
 
-So it is decided. It is how the life is going to be now -- there will be a *life*, finally.
+So it is decided. It is how life is going to be now -- there will be a *life*, finally.
