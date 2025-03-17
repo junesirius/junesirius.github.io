@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【原创】人类观察日记（22）Angel or Robot
+title: 【原创】人类观察日记（23）Angel or Robot
 date: 2024-11-23 14:44
 categories: ["原创"]
 characters: ["Gadreel"]
