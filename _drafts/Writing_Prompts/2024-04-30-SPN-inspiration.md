@@ -2191,4 +2191,20 @@ Dean finds his wing?
 
 (-> can be combined with prompt 173)
 
-### 245.
+### 245.【destiel】S10E03 demon Dean sees Cas's true form
+
+When Dean was demon, he sees Cas's true form, and on borrowed grace and broken wings, and dying
+
+but he didn't care at the moment because he was demon, but he remembered after turning back and feeling in awe and awful bad for Cas
+
+so after handling the world crisis, start actively help looking for ways to help cure Cas's grace and wings (even if Cas himself want to convince him it doesn't matter, but Dean knows it does)
+
+### 246.【Crowley】S08E21 director Crowley
+
+Crowley: "I'm born directing"
+
+director Crowley AU
+
++S06E15 actor Dean/Sam/Cas AU?
+
+### 247.
