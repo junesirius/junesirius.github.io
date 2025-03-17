@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】Glimpses Amid Tears（Chap.2）（3）
+title: 【Destiel】Glimpses Amid Tears（Chap.2）Into the Woods（3）
 date: 2025-03-14 00:37
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]

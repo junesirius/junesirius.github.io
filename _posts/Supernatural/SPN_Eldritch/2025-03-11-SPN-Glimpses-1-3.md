@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】Glimpses Amid Tears（Chap.1 Act 3）
+title: 【Destiel】Glimpses Amid Tears（Chap.1）On the Mountaintop（3）
 date: 2025-03-11 02:53
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
