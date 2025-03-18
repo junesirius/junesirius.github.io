@@ -2207,4 +2207,22 @@ director Crowley AU
 
 +S06E15 actor Dean/Sam/Cas AU?
 
-### 247.
+### 247.【destiel】S08E01 what if they find angel tablet first
+
+the whole S8's ending, they wouldn't be so screwed if they didn't do the demon trial in the first place, it would be a good year with no consequential disasters (falling angel etc. and everything after that), they would certainly go through the trial if they know it's possible, but what if they don't
+
+demon tablet is found and introduced between S07E23 & S08E01, found by Crowley without showing how and he just grabbed Kevin to decipher it
+
+What if at that time, somewhere between S07E23 & S08E01, the tablet found by Crowley is angel tablet, and Kevin found about the trial to close the Heaven's gate
+
+(angel tablet was warded against angels and stored in Lucifer's crypt, then demon tablet must be warded against demons and stored in some angel's place like St. Michael's church or sth, so Crowley shouldn't have been able to get to it)
+
+so after Dean comes back from Purgatory, find Kevin, find the trials (child of angel&human love, bow of cupid who triggered gay romance, grace of angel who fall in love with human), not so motivated to close angel's door
+
+make it so they wouldn't know the third trial at the end, and once they know, they for sure would know it must be Cas, but no way Dean would want to use Cas's grace and shove him back to Heaven, so they would want to stop the trial. The fun part of the loophole, initially it would be Dean doesn't want to use Cas's grace or shove him back to heaven (S08E23 conversation "ET goes home"), but if it works, Cas without grace would remain on earth, so he wouldn't be shoved back to heaven, they can all still remain on earth. but they also don't realize (/realize too late) once Dean finishes the trial, he'll die and go to Heaven and Heaven's gate would be closed, so it's the other way around -- Dean stuck in Heaven, Cas stuck on Earth. they'll need to figure out from there
+
+or if like S08E23 once Cas find out Dean will be the sacrifice and will die, he'll stop the trial and stop Dean, but Dean will be mortally hurt, Cas will have to find ways to save him (maybe using his own grace, feed into his system to heal) (give up his grace entirely to put into Dean to save him? life for life situation?)
+
+so when Dean comes to, he's healed, Cas's either human like S09 start or fading like S10 start
+
+### 248.
