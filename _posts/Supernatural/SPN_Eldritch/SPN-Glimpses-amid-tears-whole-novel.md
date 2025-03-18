@@ -125,6 +125,8 @@ so every time Cas fights hard to tear through dimension to get to this plane, to
 
 (general, especially Chap. 1) memory from Purgatory use past tense, the rest use present tense
 
+(Chap. 1-4, 2-4) Cas's POV, 1st person view to 3rd person view? but maintain Cas's POV
+
 ## Main
 
 ### Chap. 1 On the Mountaintop (Back+Yeti)
@@ -815,7 +817,7 @@ And beats of his heart.
 
 <br>
 
-### Chap. 3 Amid the Tears (Missouri)
+### Chap. 3 Amid the Tears/Through the Eyes (Missouri)
 
 > **Outline:** Dean goes to Missouri, Pamela's seance had witnessed Cas's true form in multidimension then so can Missouri (use feather&coat fabric as medium), Dean gets info/theory that Cas's true form and vessel are spliced and he's stuck, swears to find&help him.
 >
@@ -907,7 +909,7 @@ Missouri repeats the chanting. Dean prays alongside her voice, as if it's a chan
 
 "Castiel, come to us before this circle."
 
-*Cas, come to me, please.*
+*Cas, come to me.*
 
 "Dean Winchester requests your appearance."
 
@@ -923,13 +925,103 @@ Dean holds his breath.
 
 #### Act 2
 
+Shallow lights flash by, like comets. Clouds of lights expand and shrink, like nebulas. Clusters of lights form and dissipate, like constellations.
+
+Castiel stands in the dimension in between, as if floating in the deep space. Stars and sparkles, here and there. His eyes move from one crowds of lights to the other, checking their brightness. Sad, but not devasted. Longing, but he stays where he stands. Just looking. Looking at the lights like looking at the way home but he can not go. Staring, as if they are the eyes of the person he has profound bond with but he can not seek. Standing still, like a stone sculpture of the guardian angel.
+
+One flicker of light from the distance starts brightening up, catching his attention.
+
+Cas looks up from where he is, wondering what that time or space it would be. The intensity keeps growing, the praying and the longing behind must be aggregating, Cas starts worrying. Dean prays the hardest when he's in great danger.
+
+Cas starts moving toward the light.
+
+It only glows stronger as he approaches, as if sensing his existence. The light is dazzling green now. The color of amber. The color of Dean's pupils. All too familiar. Irresistible.
+
+And then, the voice comes through, like a phone line with bad signal, the sound is cut on and off, but it's Dean's, mixed with a woman's magical chanting, forming a power of pull.
+
+"Come to me." He hears Dean say. Pleading. Like every night when they were in Purgatory. Back then, he would say, "I'll find you" and "We'll go home together".
+
+Castiel feels his heart clutching in the desperate desire to reply. He wants nothing more than tracing the source of the sound, going to him, seeing his smile, embracing him with arms around his back, feeling the warmth and solid. But he can't. He can't.
+
+The thought of bringing monsters to him. The thought of his own very existence being close to Dean would bring him more danger is a torture. But in the face of Dean's safety, everything else could wait. Everything bubbling and stretching and screaming inside his own chest, asking for his own mind's permission, could wait.
+
+Castiel stops himself when he's a few steps away from that bright light. Listening to their voice, holding himself, forcing himself to not move ahead another step. Because if he does, he wouldn't be able to pause at the next step, or the next.
+
+Dean's voice echoes in the dimension.
+
+"Cas." He's calling.
+
+Castiel closes his eyes.
+
+Sinking into the voice. Forcing his body still.
+
+<br>
+
+The blackness behind his eyelid is not pure black, it seems. As the table and the candle lights shake harder, there are glitters of sparkles shining inside like summer night's fireflies.
+
+Dean stares at them hard, widening and squinting his eyes while his eyelids are still closed. He sees the lights moving, wondering if it's his own imagination or the candle lights somehow grow strong enough that it's burning through his eyelids.
+
+Or, is it the mysterious psychic's dimension that Missouri said she could bring him with, where he should go ahead looking for Cas?
+
+He feels light and heavy at the same time.
+
+Dean looks down at himself. There is no body, nothing to control to navigate around the space, like a lazy-designed first person view video game.
+
+All he can do is thinking.
+
+So he thinks hard: "Cas." He focuses on the syllable, thinking how his own tongue and throat would produce the sound, delivering the name.
+
+"Cas --"
+
+"Cas!"
+
+He repeats the name over and over, yelling in his mind like rescue team searching for a lost traveler in the deep wild mountains, wondering if there is any chance the seance could really work, that Cas is really here and can hear him.
+
+The high-pitched voice he heard in Missouri's room earlier sounds muffled now, quieter, lower. Gradually, more human, more recognizable.
+
+And then, he hears Cas's words.
+
+"Dean." Cas is answering his call.
+
+"Where are you?" Dean can't help glancing around. But the closer he closes, the more confusing this space looks. The shapes and figures don't make sense to his human brain, lights and dark shift like looking through kaleidoscope. "Where are we?"
+
+"The dimension in between other dimensions." Cas tells him, the voice comes from all over.
+
+Dean tries to move his eyes around, looking for him, but the view only makes his head dizzy.
+
+"Don't come any closer now." Cas's voice warns him, sound urgent and uneasy. "My true form could burn you. I don't want to make the same mistake as the one with Pamela again."
+
+Dean gives a silent sigh, has to settle with the voice. "You've been here the whole time? After the Purgatory?"
+
+"Most of the times, yes. I don't remember the initial times when the portal tears my mind apart." Cas says, his voice stable, but Dean thinks he hears some undercurrents.
+
+"I'm sorry." Dean finds the words coming out easily.
+
+"It's not your fault." Cas says quickly. "You wouldn't have known the portal would do that."
+
+"How bad is it?"
+
+Cas's voice hesitates. Dean's nerves get tense, "Cas? You still there?"
+
+"Yes." Cas answers.
+
+"So? How bad?"
+
+Cas sighs, sounds resigned. "The portal only works to send pure humans out, so I think it tries to parse out the human part in me to throw out, and keep the rest behind. So my human body, the vessel, and my essence in the true form, they are shattered --"
+
+Dean's breath hitches.
+
+Cas continues. "It's in more pieces earlier, if it's any comfort, already a lot better now. But it seems my vessel and the true form are somehow... spliced, and I can't leave this dimension for long before pulling back."
+
+"So "
+
 
 
 #### draft notes
 
-Pamela's seance had witnessed Cas's true form in multidimension then so can Missouri (use feather&coat fabric as medium), Dean gets info/theory that Cas's true form and vessel are spliced and he's stuck, swears to find&help him.
+Dean gets info/theory that Cas's true form and vessel are spliced and he's stuck, swears to find&help him.
 
-(Cas's POV: meet with Missouri in seance, Dean's spirit into the same dimension, can talk/see, hesitant to come back because not want to continue tear dimension to endanger reality & hurt Dean)
+(Cas's POV: hesitant to come back because not want to continue tear dimension to endanger reality & hurt Dean)
 
 Dean's solution: needs to separate Cas's true form from vessel, expel him then bound him again, banishing+summoning spell+holy fire circle
 
