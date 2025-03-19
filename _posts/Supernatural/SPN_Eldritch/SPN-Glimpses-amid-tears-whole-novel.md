@@ -745,6 +745,8 @@ Dean's fingers caress the feather, ever so softly, so lightly. Just like the way
 
 He presses the feather onto his lips, then puts it next to the piece of trench coat fabric. His heart beats a skin's distance away.
 
+<br>
+
 #### Act 4 (Cas POV)
 
 The dimension in between is -- for lack of a better word -- confusing. It's kaleidoscopical, it's a meat grinder of light and darkness and everything in between, a blender of color and shape, a garbage disposal of mind and body.
@@ -823,7 +825,7 @@ And beats of his heart.
 
 <br>
 
-### Chap. 3 Amid the Tears/Through the Eyes (Missouri)
+### Chap. 3 Amid the Tears (Missouri)
 
 > **Outline:** Dean goes to Missouri, Pamela's seance had witnessed Cas's true form in multidimension then so can Missouri (use feather&coat fabric as medium), Dean gets info/theory that Cas's true form and vessel are spliced and he's stuck, swears to find&help him.
 >
@@ -930,6 +932,8 @@ Missouri repeats the chanting. Dean prays alongside her voice, as if it's a chan
 The candle lights in the center of the table start flickering violently. A high-pitch sound starts quiet and distant, increases its volume rapidly as if the source is approaching, is flying closer. The air vibrates. The table shakes violently.
 
 Dean holds his breath.
+
+<br>
 
 #### Act 2 (Cas POV → duo POV)
 
@@ -1061,7 +1065,7 @@ Cas starts: "My true form is a multidimensional wavelength celestial being, not 
 
 "Going through the human portal, it affects me in all forms. It tears me apart, splices my true form with the vessel, makes me stuck in the dimension in between the planes, deforms me to be giant."
 
-Dean remembers the huge trench coat shape against the snow storm and the wings spreading so wide he can't see the edge taking over all the spaces in the redwoods. *Giant, no kidding.*
+Dean remembers the huge trench coat shape against the snow storm and the wings spreading so wide he can't see the edge taking over all the spaces in the redwoods. *Giant, no kidding. He hasn't got a single full-body shot at Cas ever since Purgatory.*
 
 "What's dragging you away?" He remembers the openings in the mid-air, the edge like a wound of the space, a tear in a fabric; remembers Cas stepping towards it, towards the eye of the tornado where the deadliest things come through most fiercely; then his grace weaving into the tear, gone from the sight. Leaving Dean alone, shaking, with exhaustion and bitter.
 
@@ -1081,23 +1085,23 @@ He tells him, instead: "I'll think of something. We'll figure it out. We always 
 
 <br>
 
-#### Appendix: With the Theory
+#### Appendix: Of the Theory
 
 The theoretical explanations that Dean cuts off but Cas would have explained, if anyone is curious:
 
-Refraction: Think of when you poke a finger into a glass of water and look from the side, the finger looks bended and twisted. It's caused by the different materials being different medium for the light, and they have different speeds of light, thus different wavelengths. It's the same when the angel's true form wavelength passes through the boundary between two dimensions: each dimension is a different media, with unique property and speed for wave to pass. The wavelength gets changed and twisted, that's why Cas's figure becomes stretched and enlarged to a deformed shape.
+**Refraction**: Think of when you poke a finger into a glass of water and look from the side, the finger looks bended and twisted. It's caused by the different materials being different medium for the light, and they have different speeds of light, thus different wavelengths. It's the same when the angel's true form wavelength passes through the boundary between two dimensions: each dimension is a different media, with unique property and speed for wave to pass. The wavelength gets changed and twisted, that's why Cas's figure becomes stretched and enlarged to a deformed shape.
 
-Diffraction: The quantum mechanics effect that if a microcosmic particle passes through a slit that as in the similar order of magnitudes with the particle size, the particle would diffract into uncertain location (Uncertainty Principle) with a mathematical distribution of likelihood where it may end up to. The smaller the slit, the larger range it could potentially end up with. The tear in the space is of similar size of Cas considering the wavelength, so Cas suffers from the Diffraction Effect, that's why he could potentially end up in a very broad range of locations with no control of where he would land, only with a statistical likelihood to estimate.
+**Diffraction**: The quantum mechanics effect that if a microcosmic particle passes through a slit that as in the similar order of magnitudes with the particle size, the particle would diffract into uncertain location (*Uncertainty Principle*) with a mathematical distribution of likelihood where it may end up to. The smaller the slit, the larger range it could potentially end up with. The tear in the space is of similar size of Cas considering the wavelength, so Cas suffers from the Diffraction Effect, that's why he could potentially end up anywhe with no control of where he would land, only with a statistical likelihood to estimate.
 
-Infinity Mirror Effect: If an item is positioned in between two perfectly aligned parallel mirrors, then there will be infinite reflections of the same item inside the mirrors. This is to explain why in the first two chapters, the cases are the strongest snow storm ever and the infinite number of vultures. The items that end up in between the dimension and get infinitely reflected are the most normal, natural things -- one snow flake, and one harmless vulture. But duplicate them by infinity (each of them identical), it would definitely become a disaster. For the story's purpose, also twisted them a little to make them extremely deadly.
+**Infinity Mirror Effect**: If an item is positioned in between two perfectly aligned parallel mirrors, then there will be infinite reflections of the same item inside the mirrors. This is to explain why in the first two chapters, the cases are the strongest snow storm ever and the infinite number of vultures. The items that end up in between the dimension and get infinitely reflected are the most normal, natural things -- one snow flake, and one harmless vulture. But duplicate them by infinity (each of them identical), it would definitely become a disaster. For the story's purpose, also twisted them a little to make them extremely deadly.
 
-Wave-Matter Duality: Angel's true form is a type of wavelength, the human vessel is a physical matter, therefore according to classical physics, there can be some contradiction sometimes. But according to quantum physics, there is Wave-Matter Duality to unify them: every matter is a wave, only differs in the length of the wave and frequency of the matter. Therefore in a sense, the human body is also a wave with limited wavelength, that explains why angel can reside into the body and occupies and moves around in it. Also explains why Jimmy said having an angel inside is like flying with a comet -- the short wavelength of human matter has a difficult time catching up with long wavelength angels.
+**Wave-Matter Duality**: Angel's true form is a type of wavelength, the human vessel is a physical matter, therefore according to classical physics, there can be some contradiction sometimes. But according to quantum physics, there is Wave-Matter Duality to unify them: every matter is a wave, only differs in the length of the wave and frequency of the matter. Therefore in a sense, the human body is also a wave with limited wavelength, that explains why angel can reside into the body and occupies and moves around in it. Also explains why Jimmy said having an angel inside is like flying with a comet -- the short wavelength of human matter has a difficult time catching up with long wavelength angels.
 
 And if we do the reverse calculation, it would mean angel's size as a physical matter would be extremely small according to the long wavelength. That is why angel has to possess human to walk the Earth, otherwise they would simply be too small to be seen.
 
 Taking all that into consideration, it means when Cas said his true form size is as big as the Chrysler Building, that would be referring to his wavelength. Now it's a calculation problem, a wave with a wavelength of about three hundred meters long, it means the frequency is 1MHz, that falls within the range of Medium Frequency (MF) for things like AM radio broadcastings, coast guards, no wonder he can tune in to police radio as well.
 
-Using de Broglie's equation, to have this wavelength, it would mean a proton moving at a $10^{-9}$ m/s or an electron moving at $10^{-6}$ m/s. So if Cas doesn't occupy a body and manifest as a physical existence on the Earth, he would have to be extremely small or extremely slow. Angel or not, he's bounded by the rule of physics.
+Using *de Broglie's equation*, to have this wavelength, it would mean a proton moving at a $10^{-9}$ m/s or an electron moving at $10^{-6}$ m/s. So if Cas doesn't occupy a body and manifest as a physical existence on the Earth, he would have to be extremely small or extremely slow. Angel or not, he's bounded by the rule of physics.
 
 <br>
 
@@ -1111,7 +1115,37 @@ Enjoy Cas's little physics class yet?
 >
 > Dean&Cas grab a few moments to talk, Cas worries his reaction at first, Dean needs time to adjust, sees him for real now, rings with too many eyes, not react/communicate well. Cas sensitive, feel rejected/upset, afraid Dean disgust/fear his true form now, self-aware being monster. Cas gets weaker quickly for staying in this dimension talking for long, fighting against natural order, and with the tear more twisted light & colors, affecting/endanger the sky/air now, increased electricity/magnetism. For Dean's safety and Cas's own exhaustion, Cas almost gets pulled back again (almost give up fighting), Dean starts ritual before tear closes. [both POV, Cas upset, self-aware]
 
+#### Act 1
+
+Dean spends the night at Missouri's place, then he bids her goodbye first thing in the morning.
+
+The psychic scrutinizes his face, asking in a caring, motherly voice, "What are you going to do?"
+
+Dean dodges her eyes, hating the pity in it. "What I always do, drive around, look for signs, look for him. I'll come up with something."
+
+"Think you'll be alright?" Missouri opens the front door for him.
+
+"Ain't I always?" He gets a smile dangling on the lips, leaning in to give her a thankful farewell hug.
+
+He leaves Lawrence, Kansas miles behind him when the sun rises.
+
+<br>
+
+He goes back to Whitefish, Montana for a few days. Rufus's cabin has become the closest place he can get to a home base nowadays. He crashes a few hours of sleep once in a while, all the rest of the time spent on searching, looking up for information, anything about angels or any angel-related creatures, about how do they handle the "opposite situation to a confliction" between the true form and the vessel.
+
+Most of the men, after they figure out the question, would look down, giggling with a shit-eating smile. 
+
+(assuming they're husbands)
+
+
+
 #### draft notes
+
+outlines: Dean drives around, keeps getting spooky feeling of continuously being watched, hears local legend of Cthulhu (otherworldly god-like, humanoid, huge, tentacle, incomprehensible, hundreds of meters tall) in Alaska, sees weird/astonishing aurora lights on sky (abnormalcy is massive light & color in sky, beautiful, astonishing), drives there. midnight, empty road, tear opens, sees giant Cas manifest in full size right in front of impala, wings+rings with eyes+trench coat. Dean shocked/terrified/in awe.
+
+Dean&Cas grab a few moments to talk, Cas worries his reaction at first, Dean needs time to adjust, sees him for real now, rings with too many eyes, not react/communicate well. Cas sensitive, feel rejected/upset, afraid Dean disgust/fear his true form now, self-aware being monster. Cas gets weaker quickly for staying in this dimension talking for long, fighting against natural order, and with the tear more twisted light & colors, affecting/endanger the sky/air now, increased electricity/magnetism. For Dean's safety and Cas's own exhaustion, Cas almost gets pulled back again (almost give up fighting), Dean starts ritual before tear closes. [both POV, Cas upset, self-aware]
+
+<br>
 
 tears are form when Dean yearns the most desperately -> first two cases are both when he's dying, third one is just because he's so lonely and missing Cas so much it's also killing him, the danger is inferred suicidal thoughts (?)
 
