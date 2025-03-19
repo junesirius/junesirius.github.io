@@ -24,7 +24,7 @@ published: false
 
 > Castiel leaves purgatory through the portal with Dean, but since Cas is in a vessel without a soul the human portal has unexpected consequences and Castiel is stuck in a spliced form of his true form and human vessel. Cas is stuck between dimensions and keeps fighting to get back to the same plane as Dean, and the process of reappearing creates omens that Dean can trace to find him when he does briefly appear in his giant form.
 
-### Outline
+### Outline (1st draft)
 
 time: October 2012
 
@@ -1047,45 +1047,41 @@ Bits and pieces. All Cas's. All shattered. God knows how many more are not even 
 
 "Cas," Dean grits his teeth, asking, slowly, "the human part and angel part... It's not just talking about the body and the wings, isn't it?"
 
-The emotions and feelings and doubts, those are definitely things only human minds love to produce. And then there must be some memories and knowledge only belongs to angel. Then separating them apart would mean...
+The emotions and feelings and doubts, those are definitely things only human minds tend to produce. And then there must be some memories and knowledge only belongs to angel. Then separating them apart would mean...
 
 "It is not." Cas says gloomily, "But it's okay --"
 
-"No, it's not." Dean cuts his words. "Cas, damn it, stop saying you're okay when you're not. But we're in this together, alright? I promised I'd get you home, so I will. Getting your ass out of Purgatory didn't turn out well, let's just fix whatever this shitty dimension's problem is, and get over it. But I can't help if I don't know where to start. Why don't you give me a 101 go-over on the multidimension thing, and we'll see how to fix the problem? What do you say, Angel?"
+"No, it's not." Dean cuts his words off. "Cas, damn it, stop saying you're okay when you're not. But we're in this together, alright? I promised I'd get you home, so I will. Getting your ass out of Purgatory didn't turn out well, let's just fix whatever this shitty dimension's problem is, and get over it. But I can't help if I don't know where to start. Why don't you give me a 101 go-over on the multidimension thing, and we'll see how to fix the problem? What do you say, Angel?"
 
-There is a sound of cloth and wings rustling behind him. Dean has a surge of urge to look around at Cas, looking him in the eyes to see him nod, even if it would burn his eyes out. And right then, he hears Cas saying "Okay". Dean breathes out, echoing a same, long, relieved "Okay".
+There is a sound of cloth and wings rustling behind him. Dean has a surge of urge to look around at Cas, looking him in the eyes to see him nod, even if it would burn his eyes out. And right then, he hears Cas murmuring "Okay". Dean breathes out, echoing a same, long, relieved "Okay".
 
-Cas starts: "My true form is a multidimensional celestial wavelength, not bound to the Earth, while my body is made of atomic vibration and electron cloud in the material plane. Think of it as the Wave-Particle Duality in the quantum physics you humans discovered a hundred years ago. I believe I'm currently suffering from the *Diffraction and Refraction Effect*. And the boundary of this place has *Infinity Mirror Effect* when it interacts with any other dimensions. There are wave functions to better explain --"
+Cas starts: "My true form is a multidimensional wavelength celestial being, not bound to the Earth, while my body is made of atomic vibration and electron cloud in the material plane. Think of it as the Wave-Particle Duality in the quantum physics you humans discovered a hundred years ago. I believe I'm currently suffering from the *Refraction and Diffraction Effect*. And the boundary of this dimension has *Infinity Mirror Effect* when it interacts with any other dimensions. There are wave functions to better explain --"
 
 "Jesus, Cas, aim lower!" Dean rolls his eyes as if they are standing face to face talking in their usual forms. "I said 101, not top advanced high confidential science lecture. I dropped out of high school, for Christ sake. Any chance I can get that in English again?"
 
-""
+"Going through the human portal, it affects me in all forms. It tears me apart, splices my true form with the vessel, makes me stuck in the dimension in between the planes, deforms me to be giant."
 
+Dean remembers the huge trench coat shape against the snow storm and the wings spreading so wide he can't see the edge taking over all the spaces in the redwoods. *Giant, no kidding.*
 
+"What's dragging you away?" He remembers the openings in the mid-air, the edge like a wound of the space, a tear in a fabric; remembers Cas stepping towards it, towards the eye of the tornado where the deadliest things come through most fiercely; then his grace weaving into the tear, gone from the sight. Leaving Dean alone, shaking, with exhaustion and bitter.
 
-#### draft notes
+"Law of physics?" Cas offers.
 
-Cas explains the physics theory behind the misform & giantness:
+There is no visible deadbeat badass being in this space, now that they have been here, so long, talking. No other evil beings cutting them through, no one (hopefully) listening in. No one running the place except for the natural order. *Huh.*
 
-Why giant: true form wavelength gets twisted at the edge of dimension, think of as how light get refracted on different media interface e.g. water-air surface; or quantum physics, wave-particle duality, wave become longer (=shape larger) after passing through smaller slit (=tears), *Diffraction Effect*
+The easiest and toughest rule to break, then.
 
-Why massive snow storm & countless vulture: anything touches the tear gets duplicated infinitely, like the item in between two parallel mirrors get infinite reflections, *Infinity Mirror Effect*
+"Cas," he steadies his spinning thought, asking the most important question, the only question echoing in his mind every day and night since Purgatory, since before that. "How can I get you back? The whole, complete, normal, you. Not bits and pieces of glimpses here and there."
 
-Dean: "Cas, English" Cas: "going through portal makes me giant"
+Cas falls quiet. After a long while, his voice finally echoes on top of Dean's head again: "I don't know."
 
-Dean: "Who's dragging you away?" Cas: "Law of physics"
+*Don't know if it's possible, if they can find a way, or don't know if he really wants to come back?* Dean decides not to ask.
 
-Dean: "How can I get you back, the whole normal complete you, not pieces of glimpses here and there" Cas: "I don't know" don't know if it's even possible, or if he really wants considering the risks on Dean
+He tells him, instead: "I'll think of something. We'll figure it out. We always do. Hang in there tight, Cas, I get you."
 
 <br>
 
-Dean's solution: needs to separate Cas's true form from vessel, expel him then bound him again, banishing+summoning spell+holy fire circle
-
-Dean's idea: expel him (S04E16 Alastair's spell; separate true form with body) and immediately summon him back (S06E21 angel summoning spell; avoid true form going into heaven), let Cas possess him as vessel temporarily, use his own power fix his vessel's size, jump back into his body. Cas hesitates for risk of hurting Dean (possession+tear open with monsters coming) and he won't be there protecting him, doesn't mention also afraid of getting expelled and not summoned in time make him end up in Heaven, "might kill himself"
-
-first step: needs find Cas in real world again
-
-#### End of story notes (Appendix: With the Theory)
+#### Appendix: With the Theory
 
 The theoretical explanations that Dean cuts off but Cas would have explained, if anyone is curious:
 
@@ -1099,7 +1095,13 @@ Wave-Matter Duality: Angel's true form is a type of wavelength, the human vessel
 
 And if we do the reverse calculation, it would mean angel's size as a physical matter would be extremely small according to the long wavelength. That is why angel has to possess human to walk the Earth, otherwise they would simply be too small to be seen.
 
-Enjoy Cas's little quantum physics 301 class yet?
+Taking all that into consideration, it means when Cas said his true form size is as big as the Chrysler Building, that would be referring to his wavelength. Now it's a calculation problem, a wave with a wavelength of about three hundred meters long, it means the frequency is 1MHz, that falls within the range of Medium Frequency (MF) for things like AM radio broadcastings, coast guards, no wonder he can tune in to police radio as well.
+
+Using de Broglie's equation, to have this wavelength, it would mean a proton moving at a $10^{-9}$ m/s or an electron moving at $10^{-6}$ m/s. So if Cas doesn't occupy a body and manifest as a physical existence on the Earth, he would have to be extremely small or extremely slow. Angel or not, he's bounded by the rule of physics.
+
+<br>
+
+Enjoy Cas's little physics class yet?
 
 <br>
 
@@ -1115,6 +1117,8 @@ tears are form when Dean yearns the most desperately -> first two cases are both
 
 ### Chap. 5 Inside the Mind (Ritual+reunion)
 
-> **Outline:** Dean's idea: expel him (S04E16 Alastair's spell; separate true form with body) and immediately summon him back (S06E21 angel summoning spell; avoid true form going into heaven), let Cas possess him as vessel temporarily, use his own power fix his vessel's size, jump back into his body. Cas hesitates for risk of hurting Dean (possession+tear open with monsters coming) and he won't be there protecting him, doesn't mention also afraid of getting expelled and not summoned in time make him end up in Heaven, "might kill himself"
+> **Outline:** Dean's solution: needs to separate Cas's true form from vessel, expel him then bound him again, banishing+summoning spell+holy fire circle
+>
+> Dean's idea: expel him (S04E16 Alastair's spell; separate true form with body) and immediately summon him back (S06E21 angel summoning spell; avoid true form going into heaven), let Cas possess him as vessel temporarily, use his own power fix his vessel's size, jump back into his body. Cas hesitates for risk of hurting Dean (possession+tear open with monsters coming) and he won't be there protecting him, doesn't mention also afraid of getting expelled and not summoned in time make him end up in Heaven, "might kill himself"
 >
 > Dean insists trying, ritual works, Cas shares Dean's body but both awake, Cas use mojo to fix vessel (Dean witnesses, amazed, "so this is how it's like, internally" "that sounds so wrong but whatever") and ready to go back into it (Cas all the time quiet), Dean mentally apologize and tell him his true form is awesome before Cas goes back (talk in Dean's brain, both normal: "You really think that?" "Yeah, I do"). Cas leaves Dean's body, vessel remains lifeless for a bit, Dean worries, then Cas back. Reunion, hug, problem solved, "Welcome back."
