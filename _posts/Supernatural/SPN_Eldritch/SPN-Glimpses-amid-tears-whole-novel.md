@@ -73,7 +73,7 @@ Tear of dimension: leave power/energy surge/draining, break wall between spaces,
 
 Cas's true form: multidimensional wavelength celestial being, size of Chrysler Building (319m, ~1k feet)
 
-Why giant: true form wavelength gets twisted at the edge of dimension, think of as how light get refracted on different media interface e.g. water-air surface; or quantum physics, wave-particle dualism, wave longer after passing through smaller slit, diffraction effect
+Why giant: true form wavelength gets twisted at the edge of dimension, think of as how light get refracted on different media interface e.g. water-air surface; or quantum physics, wave-particle duality, wave longer after passing through smaller slit, diffraction effect
 
 Dean: "Cas, English" Cas: "going through portal makes me giant"
 
@@ -126,6 +126,12 @@ so every time Cas fights hard to tear through dimension to get to this plane, to
 (general, especially Chap. 1) memory from Purgatory use past tense, the rest use present tense
 
 (Chap. 1-4, 2-4) Cas's POV, 1st person view to 3rd person view? but maintain Cas's POV
+
+wings flutter -> rustle
+
+(general) change all the bad analogies to the proper ones with references Dean would use, e.g. remove all Disney movies & fairy tales & princesses & Anderson's Little Match Girl, replace with old classic movies & rock bands & western movies
+
+(Chap. 3) Dean has no body but only eyes, "like the one painted on Missouri's round table"
 
 ## Main
 
@@ -377,7 +383,7 @@ Confusing.
 
 Everything is pieces.
 
-Just pieces.
+Then they are not.
 
 Floating.
 
@@ -745,9 +751,9 @@ The dimension in between is -- for lack of a better word -- confusing. It's kale
 
 Starting with the darkness, then the lights from other dimensions start flashing in, like stars from other side of the curtain, then brighter than sunshine.
 
-It takes I-don't-know-how-long to find the words and thoughts again, find the pieces that belonged to me and put them together. It takes longer to see the lights, see them growing and glowing, and even longer to realize what they are.
+It takes I-don't-know-how-long to find the words and thoughts again, find the pieces that belonged to me and put them together. It takes longer to see the lights, see them glowing and shining, and even longer to realize what they are.
 
-Prayers can't reach this dimension, yearnings do. The stronger the emotion, the brighter the lights. It starts with brightness of comets, on and off, flickering, blinking, flying by; then that of Mercury and Venus, as they're seen from Earth; soon as anchoring and pointy as Polaris in Ursa Minor, as bright and consistent as Orion and Perseus; until, it is supernova explosion.
+Prayers can't reach this dimension, yearnings do. The stronger the emotion, the brighter the lights. It starts with sparkles, brightness of comets, on and off, flickering, blinking, flying by; then that of Mercury and Venus, as they're seen from Earth; soon as anchoring and pointy as Polaris in Ursa Minor, as bright and consistent as Orion and Perseus; until, it is supernova explosion.
 
 There is a similarity between here and the deep space in the more familiar dimension.
 
@@ -763,9 +769,9 @@ There is no way through -- none that I can manage by myself.
 
 But I'm not doing it by myself.
 
-I can't hear him, can't really see clear enough of his whereabouts, but the light of emotion radiated from him, directly coming from the beating heart, that is all I ever needed.
+I can't hear him, can't really see clear enough of his whereabouts, but the light of emotion radiated from him, directly coming from the beating heart, that is all I ever need.
 
-When the light bursts so bright and desperate, it shines red and bloody, like the bleeding hole on the chest of a thorn bird, the sonorous melody when it sings its last song while the thorn piercing through its heart. The power and intensity so strong and insistent, it can cut through everything just to reach its aim -- me.
+When the light bursts so bright and desperate, it changes colors, it shines red and bloody, like a wound of this place. Like the bleeding mark on the chest of a thorn bird, sound of a sonorous melody echoes, when it sings its last song as the sharpest thorn piercing through its heart. The power and intensity so strong and insistent, it can cut through everything.
 
 It cuts the divide thin, I push it through. There he is, Dean. But dying. Almost always, dying. Even more so, when I'm around.
 
@@ -787,7 +793,7 @@ I put my wings around him, leaning into the warmth of the human body. Greedily. 
 
 Taking in his whole existence, grasping the memory, getting prepared.
 
-"I miss you too." I'm thinking. Never told him, probably never going to.
+"I miss you too." I'm thinking. Never told him, never going to.
 
 "I'm sorry." I see blood. Then I see tears.
 
@@ -811,7 +817,7 @@ Wound of the dimension, fixed by body of broken -- sounds poetically fair. And p
 
 I'm back where I was. The tearing, confusing place. The dimension in between.
 
-I still hear the yelling of his calling.
+I still hear the crying, his calling.
 
 And beats of his heart.
 
@@ -829,63 +835,65 @@ And beats of his heart.
 
 #### Act 1
 
-Dean parks the car by the road side, sitting behind the wheel for a moment longer, chewing on the words he might need later. The yard with fence and the painted house looks the same as the last time he saw them.
+Dean parks the car by the road side, sitting behind the wheel for a moment too long, chewing on the words he might need later. The yard with fence and the painted house looks the same as the last time he saw them, years ago.
 
 He checks through the curtained window, wondering if the owner is in the house now.
 
-The front door opens in his stare, a woman has her hands on hips, looking straight at him through the Impala's window: "Are you going to come in or not?"
+He raises a hand, the front door opens before he reaches it.
 
-*Psychics.* Dean gives a silenced laughter in puff, leaving the car.
+"Dean Winchester." The woman regards him, a small smile showing.
 
-"Missouri." He walks closer, spreading his arms to give a polite hug.
+"Missouri." Dean returns the smile, leaning in to give her a hug.
 
-"Dean Winchester. It's been so long." Missouri regards him with the eyes that are always too sharp, then gives him a knowing, compassionate look. "I'm sorry about the angel."
+"It's been so long." Her hands pat his back gently, then pulls away. Her eyes are sharp and pointed, but now covered with a knowing, compassionate look. "I'm sorry about the angel."
 
 Dean raises his eyebrows.
 
 "You're just thinking about him," Missouri eases into the room, leading him in. "In fact, I think that is all that you can think about. Am I right?"
 
-Dean swallows, lowering his eyes to the floor, letting his foot lead himself into the room. "Yeah, uh, yeah, he's the reason why I... Sorry I didn't visit earlier."
+Dean swallows, lowering his eyes to the floor, letting his foot lead himself through the place automatically. "Yeah, uh, yeah, he's the reason why I... Sorry I didn't visit earlier."
 
-Missouri puts a cup of coffee in front of him. "Eight years isn't short time, but I understand." She tells him, sitting at the opposite side of the sofa. "Your father sit at that very spot after your mom passed, and I told him what he needed to know. How can I help you, Dean?"
+Missouri puts a cup of coffee in front of him. "Eight years isn't short time, but I understand." She tells him, sitting on the couch at the opposite side across the small coffee table. "Your father sit at that very spot right after that accident, and I told him what he needed to know. How can I help you, Dean?"
 
-Dean's mind wavers for a second by that, old memories of his Dad and Mom and the haunted old house flood back in, but he gives a long exhale and pushes them down. "Cas is not dead." he says, defensive. "I just need some help to bring him back, that's all."
+Dean's mind wavers for a second by that, old memories of his Dad and Mom and the haunted old house flood back in, but he gives a long exhale and pushes them down. "Cas is not dead," he says, defensive. Not like Mom. And he's not his Dad. "I just need some help to bring him back, that's all."
 
 Missouri nods once, silent, eyes hinting him to continue.
 
-"There was an old friend a few years ago, a really good real-deal psychic." Dean remembers Pamela's bright flirtatious smiles, then the burned-out eyes and bleeding-out wounds in the stomach. He has to force a flinch down. "That was way before we know anything about angels, and she set up this seance, calling something, demanding Cas to show. It didn't end well," he swallows again, "but it worked, I think Cas actually showed up and talked to her in some psychic spiritual dimension."
+"There was an old friend a few years ago, a really good real-deal psychic." Dean remembers Pamela's bright flirtatious smiles, then the burned-out eye sockets, then bleeding stab wounds in the stomach. He has to force a flinch down. "That was way before we know anything about angels, and she set up this seance, demanding Cas to show. It didn't end well," he swallows again, "but it worked, I think Cas actually showed up and talked to her in some psychic spiritual dimension."
 
 "And you're wondering if I can do something similar and let you talk to Castiel in the same way." Missouri finishes the sentence for him.
 
 Dean nods quietly, "Can you do that?" He tries to not let the desperation and hope seeping all over in his sounds, but Missouri probably knows them all.
 
-The psychic considers, eyes searching his face. And whatever she finds there, it seems to satisfy a question she didn't ask.
+She considers, eyes searching his face. And whatever she finds there, it seems to satisfy a question she didn't ask.
 
 "Yes, I suppose." She says, Dean lets out a long breath. "There will be risks, but it is doable. It would be easier if there is something I can use as a medium."
 
 "Medium?" Dean echoes.
 
-"Things from the angel. Things he can identify as his own, guiding his way to us." Missouri explains.
+"Things from the angel. Things he can identify as his own, guiding his way to the call." Missouri explains.
 
-Dean reaches inside the inner pocket, putting the piece of trench coat fabric and blood stained black feather on the table between them, fingers lingering the edge of the feather, not leaving. Both still have the same temperature from his body.
+That rings a bell. Dean automatically touches the handprint on his left shoulder across the jacket, knowing the red mark is still there. Back then, that mark was all they had that has a direct link with the angel, but now, he has more.
 
-"I have these." He tells Missouri. "Cas left them behind when, emm, last two times we saw each other, right before he disappeared. Would them work?"
+Dean reaches into his inner chest pocket, putting the piece of trench coat fabric and blood stained black feather on the table between them, fingers lingering the edge of the feather, not leaving. Both still have the same temperature from his body.
 
-Missouri reaches out to touch the fabric, Dean's fingers twitch involuntarily like he wants to reach out to take it back, but he holds the hands where they are.
+"I have these." He tells Missouri. "Cas left them behind when, emm, last two times we saw each other, right before he disappeared. Would they work?"
 
-"I believe so." Missouri stands up from the couch. Dean follows the action. The woman eyes his eagerness. "A seance would require some preparation, I would have said I'd let you know when it's ready, but I think you couldn't stand just sitting here drinking your coffee, so might as well come help set it up."
+Missouri reaches out to touch the cloth, Dean's fingers twitch involuntarily like he has the strongest urge to take it back, to not allow anyone but himself to touch it, to even see it, but he holds the hands where they should be.
 
-Dean nods appreciatedly.
+"I believe so." Missouri stands up from the couch. Dean follows the action without thinking. The woman eyes his eagerness. "A seance requires certain preparations, I would have said I'd let you know when it's ready, but I think you couldn't stand just sitting here drinking your coffee, so might as well come over and help set it up."
 
-They move a round table to the center, Dean watches Missouri paints a pentagon that covers the whole thing, then Enochian and some loosely familiar symbols on four sides, with the last side a painted opening eye. Dean looks at it, having a weird feeling it's looking back at him.
+"Yes, Ma'am." Dean nods appreciatedly.
 
-"What do those symbols mean?" He can't help asking.
+They use the round dining table for the work, Dean watches Missouri paints a pentagon that covers the whole surface, then Enochian symbols and some loosely familiar marks on four ends, with the last end a painted opening eye. Dean looks at it, having a weird feeling it's looking back at him.
 
-Missouri lights up five candles in the center while answering. "The air, the earth, the fire, the water. All the basic stuffs. The seance is actually quite simple, the difficult part is to find him and talk to him, if he is willing to show."
+"What do those symbols mean?" He can't help asking. Call it occupational habit.
+
+Missouri lights up five candles in the center matching each corner while answering. "The air, the earth, the fire, the water. All the basic elements. And this is your door." She points the eye. "The seance is actually quite simple, the difficult part is to find him and talk to him, if he is willing to show."
 
 "That reminds me, the accident last time, Cas's true form burned that friend of mine's eyes out." Dean admits, a little guiltily, looking at the symbol of the eye again, remembering Pamela's scream and the fire bursting out of her sockets. "Probably don't look at him directly then."
 
-But still, somehow, his mind wanders afar, wondering what it is that Pamela really saw -- a figure as tall as the Chrysler Building like Cas once so casually mentioned? A light as bright and burning hot as the sun so no human should face it directly? If there has to have one good thing from that blindness, he hopes Pamela at least had the chance to see the most bright and beautiful thing in the whole universe before losing the sight.
+But still, somehow, his mind wanders afar, wondering what it is that Pamela really saw -- a figure as tall as the Chrysler Building like Cas once so casually slipped? A light as bright and burning hot as the sun which is why no human should face him directly? If there has to have one good thing from that blindness, he hopes Pamela at least had the chance to see the most bright and beautiful thing in the whole universe before losing the sight.
 
 "Good to know." Missouri replies, tone flat, "But I'm not going to be the one looking, you are."
 
@@ -895,7 +903,7 @@ But still, somehow, his mind wanders afar, wondering what it is that Pamela real
 
 "How does it work? Some kind of out-of-body spirit-walking experience?" Dean frowns.
 
-"Only your mind will travel." Missouri answers briefly, as if it is enough to understand how the Psychics work.
+"Only your mind will travel." Missouri answers briefly, as if it is enough to understand how the psychics work.
 
 They sit by the table, holding hands. The trench coat fragment in their held hands on Dean's left side, the feather on right.
 
@@ -909,7 +917,7 @@ Missouri repeats the chanting. Dean prays alongside her voice, as if it's a chan
 
 "Castiel, come to us before this circle."
 
-*Cas, come to me.*
+*Cas, come to me, please.*
 
 "Dean Winchester requests your appearance."
 
@@ -919,33 +927,39 @@ Missouri repeats the chanting. Dean prays alongside her voice, as if it's a chan
 
 *I need you. Please.*
 
-The candle lights in the center of the table start flickering violently. A high-pitch sound starts quiet and distant, increases its volume rapidly as if the source is approaching, is flying closer. The air vibrates. The table shakes.
+The candle lights in the center of the table start flickering violently. A high-pitch sound starts quiet and distant, increases its volume rapidly as if the source is approaching, is flying closer. The air vibrates. The table shakes violently.
 
 Dean holds his breath.
 
-#### Act 2
+#### Act 2 (Cas POV → duo POV)
 
-Shallow lights flash by, like comets. Clouds of lights expand and shrink, like nebulas. Clusters of lights form and dissipate, like constellations.
+Blinks of shallow lights flash by then disappear like comets. Clouds of lights expand and shrink like nebulas. Clusters of lights form and dissipate like constellations.
 
-Castiel stands in the dimension in between, as if floating in the deep space. Stars and sparkles, here and there. His eyes move from one crowds of lights to the other, checking their brightness. Sad, but not devasted. Longing, but he stays where he stands. Just looking. Looking at the lights like looking at the way home but he can not go. Staring, as if they are the eyes of the person he has profound bond with but he can not seek. Standing still, like a stone sculpture of the guardian angel.
+Castiel stands in the dimension in between, floating, as if he's in the deep space. Stars and sparkles, here and there. He views the crowds of lights from one cluster to another, checking their brightness, the warmth, the color. Guessing, wondering.
 
-One flicker of light from the distance starts brightening up, catching his attention.
+His eyes sad, but not devasted. Longing, but he stays where he stands. Just looking, always looking. Looking at the lights like looking at the way home but he cannot go. Staring, as if they are the eyes of the person he has profound bond with but he cannot follow. Standing still, like a stone sculpture of guardian angel which he once so deeply believed he was, he still wishes to believe.
 
-Cas looks up from where he is, wondering what that time or space it would be. The intensity keeps growing, the praying and the longing behind must be aggregating, Cas starts worrying. Dean prays the hardest when he's in great danger.
+One flicker of light from the distance starts brightening up quick, catching his attention.
+
+Cas looks up from where he is, wondering what that time and space would be. The intensity keeps growing, the praying and the yearning behind must be aggregating, Cas starts worrying. Dean prays the hardest when he's in great danger.
 
 Cas starts moving toward the light.
 
-It only glows stronger as he approaches, as if sensing his existence. The light is dazzling green now. The color of amber. The color of Dean's pupils. All too familiar. Irresistible.
+It only glows stronger as he approaches, as if it senses him and reacts frantically -- which can't possibly happen. The closer he gets, the clearer it shows. With its color, its shape, and all the emotions of the human behind that light of yearning.
 
-And then, the voice comes through, like a phone line with bad signal, the sound is cut on and off, but it's Dean's, mixed with a woman's magical chanting, forming a power of pull.
+The light is dazzling green now. The color of emerald, of deepest forest, of bottled absinthe. The color of Dean's pupils. All too familiar. Irresistible.
 
-"Come to me." He hears Dean say. Pleading. Like every night when they were in Purgatory. Back then, he would say, "I'll find you" and "We'll go home together".
+And then, the voice comes through, like a phone line with bad signal, the sound is cut, on and off, but it's Dean's for certain, mixed with a woman's magical chanting, forming a power of pull.
 
-Castiel feels his heart clutching in the desperate desire to reply. He wants nothing more than tracing the source of the sound, going to him, seeing his smile, embracing him with arms around his back, feeling the warmth and solid. But he can't. He can't.
+"Come to me." He hears Dean's prayer. Near begging. Like every night when they were in the Purgatory. Back then, he would say, "I'll find you" and "We'll go home together".
 
-The thought of bringing monsters to him. The thought of his own very existence being close to Dean would bring him more danger is a torture. But in the face of Dean's safety, everything else could wait. Everything bubbling and stretching and screaming inside his own chest, asking for his own mind's permission, could wait.
+Castiel feels his heart clutching in the desperate desire to reply. He wants nothing more than tracing the source of the sound, going to him, seeing his smile, embracing him with arms around his back, tight, feeling the warmth and solid. But he can't. He can't.
 
-Castiel stops himself when he's a few steps away from that bright light. Listening to their voice, holding himself, forcing himself to not move ahead another step. Because if he does, he wouldn't be able to pause at the next step, or the next.
+He had leviathans on his tails back then. And now, the cracks when he crosses the border, it seems they always tears the space apart and keeps leaking dangers and evil into the world, with Dean at the forefront. He barely managed to protect him and stop the damage last two times, he doesn't know if he can do it again, or if he wants.
+
+The thought of bringing monsters to him. The thought of his own very existence being close to Dean would bring him more danger is a torture near unbearable. But in the face of Dean's safety, everything else could wait. Everything bubbling and stretching and screaming inside his own chest, asking for his own mind's permission, could wait.
+
+Castiel stops himself when he's a few steps away from that bright light. Listening to the voices, holding himself, forcing himself to not move ahead another step. Because if he does, he wouldn't be able to pause at the next step, or the next.
 
 Dean's voice echoes in the dimension.
 
@@ -953,23 +967,23 @@ Dean's voice echoes in the dimension.
 
 Castiel closes his eyes.
 
-Sinking into the voice. Forcing his body still.
+Sinking into the voice. Forcing his body still. Breathing out long and shakily.
 
 <br>
 
-The blackness behind his eyelid is not pure black, it seems. As the table and the candle lights shake harder, there are glitters of sparkles shining inside like summer night's fireflies.
+The blackness behind his eyelid is not pure black anymore, it seems. As the table and the candle lights shake harder, there are glitters of sparks shining inside the black curtain like summer night's fireflies, like splashed sparks after gunshot.
 
 Dean stares at them hard, widening and squinting his eyes while his eyelids are still closed. He sees the lights moving, wondering if it's his own imagination or the candle lights somehow grow strong enough that it's burning through his eyelids.
 
 Or, is it the mysterious psychic's dimension that Missouri said she could bring him with, where he should go ahead looking for Cas?
 
-He feels light and heavy at the same time.
+He feels light and heavy at the same time. His vision blurred and cleared. He's not sure if his eyes are open or closed anymore.
 
-Dean looks down at himself. There is no body, nothing to control to navigate around the space, like a lazy-designed first person view video game.
+Dean glances down at himself. There is no body, nothing to control to navigate around the space, only the view ahead. Like a lazy-designed first person view video game.
 
-All he can do is thinking.
+All he can do is looking, and thinking.
 
-So he thinks hard: "Cas." He focuses on the syllable, thinking how his own tongue and throat would produce the sound, delivering the name.
+So he thinks hard: "Cas." He focuses on the syllables, thinking how his own tongue and throat would produce the sound, delivering the name.
 
 "Cas --"
 
@@ -979,63 +993,81 @@ He repeats the name over and over, yelling in his mind like rescue team searchin
 
 The high-pitched voice he heard in Missouri's room earlier sounds muffled now, quieter, lower. Gradually, more human, more recognizable.
 
-And then, he hears Cas's words.
+Until, he hears Cas's words.
 
-"Dean." Cas is answering his call.
+"Dean." Cas is answering his call. But he can't pin his sound.
 
-"Where are you?" Dean can't help glancing around. But the closer he closes, the more confusing this space looks. The shapes and figures don't make sense to his human brain, lights and dark shift like looking through kaleidoscope. "Where are we?"
+"Where are you?" Dean can't help glancing around. But the closer he looks, the more confusing he gets. His brain can't make sense of the shapes and figures his eyes received, light and shade shift like looking through kaleidoscope. He catches sight of a blue loose thread, a button, a feather, then something seemingly metal. Then an eye, floating, blinking, staring at him, not connected to a body.
 
-"The dimension in between other dimensions." Cas tells him, the voice comes from all over.
+What is this, space dumpster in some horror movie? *Interstellar* but B-rated version? Dean muses, more taken aback than dread.
 
-Dean tries to move his eyes around, looking for him, but the view only makes his head dizzy.
+"This is the dimension in between other dimensions." Cas answers him, his voice comes from all over, echoing in the space that doesn't seem to have a boundary.
 
-"Don't come any closer now." Cas's voice warns him, sound urgent and uneasy. "My true form could burn you. I don't want to make the same mistake as the one with Pamela again."
+Dean tries to move his eyes around, looking for him, but the view only makes his mind dizzy.
 
-Dean gives a silent sigh, has to settle with the voice. "You've been here the whole time? After the Purgatory?"
+"Don't look back, please." Cas's voice turns into an anxious warning, coming from behind him. Dean doesn't have a body to turn around. He can't see him, but somehow, he thinks, he can sense that weight of existence looming over. Like the weight of wings are wrapped around him. And he knows instantly, it is Cas, right there behind him, just out of his view.
 
-"Most of the times, yes. I don't remember the initial times when the portal tears my mind apart." Cas says, his voice stable, but Dean thinks he hears some undercurrents.
+"You shouldn't come any closer, you shouldn't even come here at all, Dean." Cas's voice tired and uneasy, over the back of his head. "My form here can hurt you, just by existing in the same plane. I don't want to make the same mistake as the one with Pamela Barnes again."
 
-"I'm sorry." Dean finds the words coming out easily.
+Dean gives a silent sigh, has to settle with the voice-only facetime. "How are you, Cas?"
+
+"Fine." Cas answers plainly.
+
+Dean manages to deliver the expression of "raising his eyebrows" through the thought. *Of course.*
+
+"You've been here the whole time? After the Purgatory?"
+
+"Most of the times that I can remember, yes. I don't remember the times at the beginning when the portal tears my mind apart, along with everything else." Cas tells him, his voice stable, but Dean knows the undercurrents he heard from the voice isn't his imagination.
+
+"I'm sorry." Dean finds the words coming through the mind easily.
 
 "It's not your fault." Cas says quickly. "You wouldn't have known the portal would do that."
 
 "How bad is it?"
 
-Cas's voice hesitates. Dean's nerves get tense, "Cas? You still there?"
+Cas hesitates. Dean's nerves get tense, "Cas? You still there?"
 
-"Yes." Cas answers.
+"Yes." Cas answers from behind him, somewhere high.
 
 "So? How bad?"
 
-Cas sighs, sounds resigned. "The portal only works to send pure humans out, so I think it tries to parse out the human part in me to throw out, and keep the rest behind. So my human body, the vessel, and my essence in the true form, they are shattered --"
+Cas sighs, sound resigned. "The portal only works to send pure humans out, so I think it tries to parse out the human part of me to throw out, and keep the rest behind. So my human body, the vessel, and my essence in the true form, they are shattered --"
 
 Dean's breath hitches.
 
-Cas continues. "It's in more pieces earlier, if it's any comfort, already a lot better now. But it seems my vessel and the true form are somehow... spliced, and I can't leave this dimension for long before pulling back."
+Cas continues, "Every sense of me are in pieces earlier, at the beginning, it's even more difficult than --" He pauses briefly there, as if trying to decide whether he wants to tell the whole story, then he's decided. "-- more difficult than the time when I took over Sam's madness, and had to rebuild everything in my mind."
 
-"So "
+"Cas..." Dean starts, but doesn't know what to say after that, doesn't know if there is any word existed in the world that could mean anything here, or could express the clutching, squeezing feeling that is growing in him.
+
+"But it's already a lot better now, if it's any comfort." Cas makes his voice light, Dean only tastes bitter from the words.
+
+The blue thread is from the tie, the button from the shirt, the feather from the wings, the eye from the body. The things he saw in this space earlier suddenly makes sense now.
+
+Bits and pieces. All Cas's. All shattered. God knows how many more are not even visible.
+
+"Cas," Dean grits his teeth, asking, slowly, "the human part and angel part... It's not just talking about the body and the wings, isn't it?"
+
+The emotions and feelings and doubts, those are definitely things only human minds love to produce. And then there must be some memories and knowledge only belongs to angel. Then separating them apart would mean...
+
+"It is not." Cas says gloomily, "But it's okay --"
+
+"No, it's not." Dean cuts his words. "Cas, damn it, stop saying you're okay when you're not. But we're in this together, alright? I promised I'd get you home, so I will. Getting your ass out of Purgatory didn't turn out well, let's just fix whatever this shitty dimension's problem is, and get over it. But I can't help if I don't know where to start. Why don't you give me a 101 go-over on the multidimension thing, and we'll see how to fix the problem? What do you say, Angel?"
+
+There is a sound of cloth and wings rustling behind him. Dean has a surge of urge to look around at Cas, looking him in the eyes to see him nod, even if it would burn his eyes out. And right then, he hears Cas saying "Okay". Dean breathes out, echoing a same, long, relieved "Okay".
+
+Cas starts: "My true form is a multidimensional celestial wavelength, not bound to the Earth, while my body is made of atomic vibration and electron cloud in the material plane. Think of it as the Wave-Particle Duality in the quantum physics you humans discovered a hundred years ago. I believe I'm currently suffering from the *Diffraction and Refraction Effect*. And the boundary of this place has *Infinity Mirror Effect* when it interacts with any other dimensions. There are wave functions to better explain --"
+
+"Jesus, Cas, aim lower!" Dean rolls his eyes as if they are standing face to face talking in their usual forms. "I said 101, not top advanced high confidential science lecture. I dropped out of high school, for Christ sake. Any chance I can get that in English again?"
+
+""
 
 
 
 #### draft notes
 
-Dean gets info/theory that Cas's true form and vessel are spliced and he's stuck, swears to find&help him.
+Cas explains the physics theory behind the misform & giantness:
 
-(Cas's POV: hesitant to come back because not want to continue tear dimension to endanger reality & hurt Dean)
-
-Dean's solution: needs to separate Cas's true form from vessel, expel him then bound him again, banishing+summoning spell+holy fire circle
-
-Dean's idea: expel him (S04E16 Alastair's spell; separate true form with body) and immediately summon him back (S06E21 angel summoning spell; avoid true form going into heaven), let Cas possess him as vessel temporarily, use his own power fix his vessel's size, jump back into his body. Cas hesitates for risk of hurting Dean (possession+tear open with monsters coming) and he won't be there protecting him, doesn't mention also afraid of getting expelled and not summoned in time make him end up in Heaven, "might kill himself"
-
-first step: needs find Cas in real world again
-
-<br>
-
-theory:
-
-Dean can't see (without get eyes burned) but can talk/sync, Cas explains the physics theory behind the misform & giantness:
-
-Why giant: true form wavelength gets twisted at the edge of dimension, think of as how light get refracted on different media interface e.g. water-air surface; or quantum physics, wave-particle dualism, wave become longer (=shape larger) after passing through smaller slit (=tears), *Diffraction Effect*
+Why giant: true form wavelength gets twisted at the edge of dimension, think of as how light get refracted on different media interface e.g. water-air surface; or quantum physics, wave-particle duality, wave become longer (=shape larger) after passing through smaller slit (=tears), *Diffraction Effect*
 
 Why massive snow storm & countless vulture: anything touches the tear gets duplicated infinitely, like the item in between two parallel mirrors get infinite reflections, *Infinity Mirror Effect*
 
@@ -1044,6 +1076,32 @@ Dean: "Cas, English" Cas: "going through portal makes me giant"
 Dean: "Who's dragging you away?" Cas: "Law of physics"
 
 Dean: "How can I get you back, the whole normal complete you, not pieces of glimpses here and there" Cas: "I don't know" don't know if it's even possible, or if he really wants considering the risks on Dean
+
+<br>
+
+Dean's solution: needs to separate Cas's true form from vessel, expel him then bound him again, banishing+summoning spell+holy fire circle
+
+Dean's idea: expel him (S04E16 Alastair's spell; separate true form with body) and immediately summon him back (S06E21 angel summoning spell; avoid true form going into heaven), let Cas possess him as vessel temporarily, use his own power fix his vessel's size, jump back into his body. Cas hesitates for risk of hurting Dean (possession+tear open with monsters coming) and he won't be there protecting him, doesn't mention also afraid of getting expelled and not summoned in time make him end up in Heaven, "might kill himself"
+
+first step: needs find Cas in real world again
+
+#### End of story notes (Appendix: With the Theory)
+
+The theoretical explanations that Dean cuts off but Cas would have explained, if anyone is curious:
+
+Refraction: Think of when you poke a finger into a glass of water and look from the side, the finger looks bended and twisted. It's caused by the different materials being different medium for the light, and they have different speeds of light, thus different wavelengths. It's the same when the angel's true form wavelength passes through the boundary between two dimensions: each dimension is a different media, with unique property and speed for wave to pass. The wavelength gets changed and twisted, that's why Cas's figure becomes stretched and enlarged to a deformed shape.
+
+Diffraction: The quantum mechanics effect that if a microcosmic particle passes through a slit that as in the similar order of magnitudes with the particle size, the particle would diffract into uncertain location (Uncertainty Principle) with a mathematical distribution of likelihood where it may end up to. The smaller the slit, the larger range it could potentially end up with. The tear in the space is of similar size of Cas considering the wavelength, so Cas suffers from the Diffraction Effect, that's why he could potentially end up in a very broad range of locations with no control of where he would land, only with a statistical likelihood to estimate.
+
+Infinity Mirror Effect: If an item is positioned in between two perfectly aligned parallel mirrors, then there will be infinite reflections of the same item inside the mirrors. This is to explain why in the first two chapters, the cases are the strongest snow storm ever and the infinite number of vultures. The items that end up in between the dimension and get infinitely reflected are the most normal, natural things -- one snow flake, and one harmless vulture. But duplicate them by infinity (each of them identical), it would definitely become a disaster. For the story's purpose, also twisted them a little to make them extremely deadly.
+
+Wave-Matter Duality: Angel's true form is a type of wavelength, the human vessel is a physical matter, therefore according to classical physics, there can be some contradiction sometimes. But according to quantum physics, there is Wave-Matter Duality to unify them: every matter is a wave, only differs in the length of the wave and frequency of the matter. Therefore in a sense, the human body is also a wave with limited wavelength, that explains why angel can reside into the body and occupies and moves around in it. Also explains why Jimmy said having an angel inside is like flying with a comet -- the short wavelength of human matter has a difficult time catching up with long wavelength angels.
+
+And if we do the reverse calculation, it would mean angel's size as a physical matter would be extremely small according to the long wavelength. That is why angel has to possess human to walk the Earth, otherwise they would simply be too small to be seen.
+
+Enjoy Cas's little quantum physics 301 class yet?
+
+<br>
 
 ### Chap. 4 At the World's Edge (aurora lights)
 
