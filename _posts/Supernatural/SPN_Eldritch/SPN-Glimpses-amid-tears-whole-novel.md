@@ -469,7 +469,7 @@ Back, dark, torn, away.
 
 Don't cry.
 
-Not goodbye.
+Goodbye.
 
 ### Chap. 2 Into the Woods (Birds)
 
@@ -1091,7 +1091,7 @@ The theoretical explanations that Dean cuts off but Cas would have explained, if
 
 **Refraction**: Think of when you poke a finger into a glass of water and look from the side, the finger looks bended and twisted. It's caused by the different materials being different medium for the light, and they have different speeds of light, thus different wavelengths. It's the same when the angel's true form wavelength passes through the boundary between two dimensions: each dimension is a different media, with unique property and speed for wave to pass. The wavelength gets changed and twisted, that's why Cas's figure becomes stretched and enlarged to a deformed shape.
 
-**Diffraction**: The quantum mechanics effect that if a microcosmic particle passes through a slit that as in the similar order of magnitudes with the particle size, the particle would diffract into uncertain location (*Uncertainty Principle*) with a mathematical distribution of likelihood where it may end up to. The smaller the slit, the larger range it could potentially end up with. The tear in the space is of similar size of Cas considering the wavelength, so Cas suffers from the Diffraction Effect, that's why he could potentially end up anywhe with no control of where he would land, only with a statistical likelihood to estimate.
+**Diffraction**: The quantum mechanics effect that if a microcosmic particle passes through a slit that as in the similar order of magnitudes with the particle size, the particle would diffract into uncertain location (*Uncertainty Principle*) with a mathematical distribution of likelihood where it may end up to. The smaller the slit, the larger range it could potentially end up with. The tear in the space is of similar size of Cas considering the wavelength, so Cas suffers from the Diffraction Effect, that's why he could potentially end up anywhere with no control of where he would land, only with a statistical likelihood to estimate.
 
 **Infinity Mirror Effect**: If an item is positioned in between two perfectly aligned parallel mirrors, then there will be infinite reflections of the same item inside the mirrors. This is to explain why in the first two chapters, the cases are the strongest snow storm ever and the infinite number of vultures. The items that end up in between the dimension and get infinitely reflected are the most normal, natural things -- one snow flake, and one harmless vulture. But duplicate them by infinity (each of them identical), it would definitely become a disaster. For the story's purpose, also twisted them a little to make them extremely deadly.
 
@@ -1109,7 +1109,7 @@ Enjoy Cas's little physics class yet?
 
 <br>
 
-### Chap. 4 At the World's Edge (aurora lights)
+### Chap. 4 At the World's End (aurora lights)
 
 > **Outline:** Dean drives around, keeps getting spooky feeling of continuously being watched, hears local legend of Cthulhu (otherworldly god-like, humanoid, huge, tentacle, incomprehensible, hundreds of meters tall) in Alaska, sees weird/astonishing aurora lights on sky (abnormalcy is massive light & color in sky, beautiful, astonishing), drives there. midnight, empty road, tear opens, sees giant Cas manifest in full size right in front of impala, wings+rings with eyes+trench coat. Dean shocked/terrified/in awe.
 >
@@ -1135,19 +1135,45 @@ He goes back to Whitefish, Montana for a few days. Rufus's cabin has become the 
 
 Most of the men, after they figure out the question, would look down, giggling with a shit-eating smile. 
 
-(assuming they're husbands)
+
 
 
 
 #### draft notes
 
-outlines: Dean drives around, keeps getting spooky feeling of continuously being watched, hears local legend of Cthulhu (otherworldly god-like, humanoid, huge, tentacle, incomprehensible, hundreds of meters tall) in Alaska, sees weird/astonishing aurora lights on sky (abnormalcy is massive light & color in sky, beautiful, astonishing), drives there. midnight, empty road, tear opens, sees giant Cas manifest in full size right in front of impala, wings+rings with eyes+trench coat. Dean shocked/terrified/in awe.
+(assuming they're husbands)
 
-Dean&Cas grab a few moments to talk, Cas worries his reaction at first, Dean needs time to adjust, sees him for real now, rings with too many eyes, not react/communicate well. Cas sensitive, feel rejected/upset, afraid Dean disgust/fear his true form now, self-aware being monster. Cas gets weaker quickly for staying in this dimension talking for long, fighting against natural order, and with the tear more twisted light & colors, affecting/endanger the sky/air now, increased electricity/magnetism. For Dean's safety and Cas's own exhaustion, Cas almost gets pulled back again (almost give up fighting), Dean starts ritual before tear closes. [both POV, Cas upset, self-aware]
+(Dean gets the idea of expel+summon from a random demon he runs into in a diner -> make it a slightly detailed case)
+
+Life continues more or less the same, roads and bad diner food and cold coffees, nights and dreams and nightmares.
+
+**order of events**: djinn's case (Topeka, Kansas) -> nightmare, illusions -> crossroad demon -> Meg -> visit Sam & Lisa & Jody in a distance one last time, quiet farewells -> get the info & method & location, go to Alaska to get Cas
+
+(a lot of quiet angst scenes, best part) Dean doesn't know if it's better or worse, now that he has learned where Cas is, but it's not helping if he can't get to him.
+
+Dean's illusion, seeing Cas everywhere like S08E07
+
+Dean's dream/nightmare about Cas's deformed figures and pieces in the other dimension, elements from the shapes he saw
+
+djinn case (S08E20, the pac-man one with Charlie, about fear), the person he sees is Cas, he has to let him go and let the fear go to leave the djinn world, Dean gets messed up after that, stays awake the whole night after that, staring at the starry sky. The nightmares get worse after that, like something in his brain gets triggered sickly.
+
+Dean goes to crossroads want to make deal to ask demons to help, but changes mind to trap one and expel+separate the forms. Angels are more like demons than humans in the sense that they too need to possess bodies to walk the Earth. Dean gets the idea of expel+summon combo as a solution. But need extra help of how to expel angel from body without banishing them away altogether (so angel banishing spell is out of option) -> this part can be in the passing line
+
+how does Dean know the angel expel spell: Meg tells Dean, the spell expels angel's true form without blasting them away, bc Alastair has done that (S04E16); how does Dean find Meg: tortured crossroad demons, (Meg in random place e.g. gas'n'sip) Meg willing to help bc she does love Cas too; what's the catch: he can die -> still need to fix that tear once Cas comes through, and makes a place to host Cas, *death is an infinite vessel* (S15E03); why Alaska: world's end, veil thinnest (Meg: "Try Ushuaia or Norway if you want, but figured Alaska would be the closest to you")
+
+Dean visited Sam's place at the end of summer, it's almost one year after he came back from Purgatory now
+
+Sam looks happy with Amelia, there is a dog called Dog. Dean smiles when he goes on a running with the Dog by his side, sees the girl's brightened up smile when she opens the door for him and they hug like they haven't seen each other for a year. Dean leaves quietly without saying hi.
+
+Sam added a large iron lock on the garage door, hinting he did notice impala was missing, but Dean doesn't know what he'd done with it, doesn't know if he'd panicked for a bit but decides it doesn't matter
+
+tears are form when Dean yearns the most desperately -> first two cases are both when he's dying, third one is just because he's so lonely and missing Cas so much it's also killing him, the danger is inferred suicidal/self-sacrifice thoughts
 
 <br>
 
-tears are form when Dean yearns the most desperately -> first two cases are both when he's dying, third one is just because he's so lonely and missing Cas so much it's also killing him, the danger is inferred suicidal thoughts (?)
+outlines: Dean drives around, keeps getting spooky feeling of continuously being watched, hears local legend of Cthulhu (otherworldly god-like, humanoid, huge, tentacle, incomprehensible, hundreds of meters tall) in Alaska, sees weird/astonishing aurora lights on sky (abnormalcy is massive light & color in sky, beautiful, astonishing), drives there. midnight, empty road, tear opens, sees giant Cas manifest in full size right in front of impala, wings+rings with eyes+trench coat. Dean shocked/terrified/in awe.
+
+Dean&Cas grab a few moments to talk, Cas worries his reaction at first, Dean needs time to adjust, sees him for real now, rings with too many eyes, not react/communicate well. Cas sensitive, feel rejected/upset, afraid Dean disgust/fear his true form now, self-aware being monster. Cas gets weaker quickly for staying in this dimension talking for long, fighting against natural order, and with the tear more twisted light & colors, affecting/endanger the sky/air now, increased electricity/magnetism. For Dean's safety and Cas's own exhaustion, Cas almost gets pulled back again (almost give up fighting), Dean starts ritual before tear closes. [both POV, Cas upset, self-aware]
 
 ### Chap. 5 Inside the Mind (Ritual+reunion)
 
@@ -1156,3 +1182,7 @@ tears are form when Dean yearns the most desperately -> first two cases are both
 > Dean's idea: expel him (S04E16 Alastair's spell; separate true form with body) and immediately summon him back (S06E21 angel summoning spell; avoid true form going into heaven), let Cas possess him as vessel temporarily, use his own power fix his vessel's size, jump back into his body. Cas hesitates for risk of hurting Dean (possession+tear open with monsters coming) and he won't be there protecting him, doesn't mention also afraid of getting expelled and not summoned in time make him end up in Heaven, "might kill himself"
 >
 > Dean insists trying, ritual works, Cas shares Dean's body but both awake, Cas use mojo to fix vessel (Dean witnesses, amazed, "so this is how it's like, internally" "that sounds so wrong but whatever") and ready to go back into it (Cas all the time quiet), Dean mentally apologize and tell him his true form is awesome before Cas goes back (talk in Dean's brain, both normal: "You really think that?" "Yeah, I do"). Cas leaves Dean's body, vessel remains lifeless for a bit, Dean worries, then Cas back. Reunion, hug, problem solved, "Welcome back."
+
+#### Act 1
+
+###### End
