@@ -3,7 +3,7 @@ layout: post
 title: 【原创】Life of Death
 date: 2025-01-27
 categories: ["原创"]
-characters: ["Death", "Theda/Death", "死神"]
+characters: ["Death", "Theda/Death", "死神", "Elena Vale", "Daphne Vale", "Henry Carter", "Theseus Drake", "Aria Hawthorn", "Finnick Ralder", "Elias Marlow", "Ivy Crowe"]
 tags: ["小说", "死亡", "女同", "英文", "自我牺牲"]
 pov: 第三人称
 origin: 个站
