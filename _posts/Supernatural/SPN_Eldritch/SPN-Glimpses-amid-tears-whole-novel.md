@@ -1325,11 +1325,37 @@ The Gas'n'Sip rings a small bell when the door is pushed open. The store is empt
 
 A man approaches her from behind, a blade jabbed at her back, hidden by a jacket, voice low. "We need to talk."
 
-Meg snorts a laughter, without looking back. "Dean. Nice to see you too. Aren't you going to buy my some dinner first?"
+Meg snorts a laughter, doesn't bother looking back. "Dean. Nice to see you too. Aren't you going to buy me some dinner first?"
 
-They end up 
+"Sure, the drink will be holy water." Dean's tone flat, "Now, walk."
 
+They end up stopping by a deserted factory.
 
+"I got to ask, Dean, how did you even find me?" Meg asks, genuinely curious. "Thought I laid low enough."
+
+"A little bird told me." Dean says, stoic.
+
+"You mean you tortured a demon." Meg reads his face. "Just to find me? You do know how to flatter a girl."
+
+Dean ignores her. "What do you know about angel expel spell?"
+
+"Angelic exorcism? Why, trouble in paradise?" Meg looks truly intrigued now. "Cas pissed you off so mad you're gonna banish him to Heaven? That's surely more fascinating than Saturday night soup opera."
+
+"Not like that." The thought of Cas leaving for Heaven makes him uneasy. Dean shifts his feet.
+
+"Care to elaborate?" Meg raises her eyebrows.
+
+"Not your business." Dean bites out.
+
+"Fine," Meg looks away, dropping the smile. "So I learned a thing or two during my time with yellow-eyes, Azazel never used it, but Alastair can't stop showing off. But I heard the only time he tried the spell was right before he got burned clean once and for all."
+
+Dean looks at her intensely. "Which angel did he use the spell on?" Memory of the day Alastair died was still all too clear. That's also the devastating day of knowing he was the one who jump started the apocalypse, the day Sam killed the demon just by his freaking mind.
+
+"Your beloved Castiel, of course." Meg says lightly. Dean only feels sick.
+
+"Just, tell me the words." He tries hard to push away the image of Alastair holding his dirty demon hand on Cas's forehand, incantating the angel exorcism spell. Cas's eyes would probably shine bright and white, his grace and essence would fly upwards until they reach the Heaven, if Heaven still wants him in. He can't imagine how the first apocalypse would have ended if Cas wasn't there for him.
+
+"*Omnipotentis Dei potestatem invoco!* ..." Meg recites. Dean tries his best, and memorizes the whole thing.
 
 
 
