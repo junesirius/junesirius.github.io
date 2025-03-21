@@ -47,6 +47,8 @@ Jack/米：（也震惊）所以你什么都没有给他？那他怎么……？
 
 ~~(plot) after they reunite, could make it more emotional, more than hug, maybe a little first kiss (pending), some soul-grace entanglement maybe, make it more intense to balance out the angst~~
 
+tentacles -> tendrils
+
 ### Summary
 
 Where does one go, when there is nothing left in them to be taken, when the hole in the heart is so vast that there is no heart remains, when the surrounding and the whole world matter nothing and have no difference to pure dark and black, indistinguishable from the void, when themselves *are* empty. Where do they go?
