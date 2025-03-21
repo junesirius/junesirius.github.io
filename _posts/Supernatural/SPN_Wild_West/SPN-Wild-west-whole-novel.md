@@ -19,7 +19,9 @@ published: false
 
 ## Draft
 
-(Sunrise, Wyoming, 1861, Mar. 5)
+(past: Sunrise, Wyoming, 1861, Mar. 5)
+
+(real time: 2011, Apr. 22)
 
 Fake identity:
 
@@ -98,13 +100,27 @@ Sam POV: follow Dean around, Cas fly him back first, Dean&Cas follow immediately
 
 (the time they're apart -> fast-forward quickly, a quick sketch, only mention what happened in a series of montage (newspaper clips), tell each other once they met again)
 
+### Wild west road trip cases
+
+states to go: Wyoming, Colorado, Utah, Arizona, Nevada, California
+
+some town names:
+
+- Redstone Crossing, Wyoming
+- Thunderhill, Colorado
+- Pinecrest, Utah
+- Deadwood, Arizona
+- Rattlesnake Bend, Nevada
+- Cattle Creek, Kansas
+- Silver Gulch, California
+
 ### Edit note
 
 keep Sam out of picture from beginning, only Dean travel alone and make noise, Sam stay at Samuel's place all the time
 
 ## Main
 
-### Act 1 (Dean stuck in Sunrise)(Sunrise, 1861, Dean&Sam) Chap. 1
+### Chap.1-1 (Dean stuck in Sunrise)(Sunrise, 1861, Dean+Sam)
 
 > **Outline:** Dean&Sam gets phoenix's ash by noon, bell rings, but Cas doesn't come, they can't get back. Some more time passes, they realize something must have happened to Cas and now they get stuck in the Frontierland and have to figure out what to do. They start living like the locals, blend in as cowboys, get used to it, Dean is the town sheriff.
 
@@ -284,7 +300,7 @@ Dean stares at him, face grim, brows knitted tight. Eventually he sighs, giving 
 
 <br>
 
-### Act 2-1 (Cas wake up)(Bobby's, 2011, Bobby&Cas)
+### Chap.1-2 (Cas wake up)(Bobby's, 2011, Bobby POV+Cas)
 
 > **Outline:** Cas passes out for longer than in canon, when he comes to it's past 24h and he's super weak and wounded. He doesn't want to risk Bobby's soul and can't leave the boys behind, but also like he mentioned, now they are lost to him, so he'd have to fight hard in the time flux to find them.
 
@@ -396,7 +412,7 @@ With that, and a disturbance of wind flow in the room, Castiel is gone.
 
 "What does that --" Bobby takes two steps ahead, right next to where the angel was, but it is so clear there is nothing left there anymore.
 
-### Act 2-2 (Dean leave Sunrise)(Sunrise, 1861, Dean) Chap. 2
+### Chap.2-1 (Dean leave Sunrise)(Sunrise, 1861, Dean)
 
 > **Outline:** Dean prays to Cas but doesn't get answer, they figure Cas said they're lost to him, so the idea is to do something "noisy" (big enough to get some notice from the future but not too big to disturb the history) so that their existence might be like some beacon in the timeline, hopefully making it easier for Cas to locate.
 >
@@ -550,7 +566,7 @@ Even with the Colt he hasn't really had won any advantage over that many demons 
 
 "You are some big name, boy?" The demon in Elkins smirks.
 
-"That's the goal." Dean answers absent-mindedly, while tightens the grip on the pistol, silently counting the number of bullets he has left. A bit low on ammo already, he shifts the grip slightly, he has to figure a way out fast.
+"That's the goal." Dean answers absent-mindedly, while tightens the grip on the pistol, silently counting the number of bullets he has left. *A bit low on ammo already,* he shifts the grip slightly, thinking, *he has to figure a way out fast*.
 
 The exit door are two tables' distance away, with the three lady demons in between, but the side window is only one table away, with buckets of alcohols within range. He calculates his route.
 
@@ -598,7 +614,7 @@ The whole wild west ahead of him, free to explore.
 
 But Dean isn't anywhere near ecstasy. It's just too damn far away from home.
 
-### Act 2-3 (Cas time travel)(Time flux, Cas&Raphael)
+### Chap.2-2 (Cas time travel)(Time flux, Cas+Raphael)
 
 > **Outline:** Cas's in no condition to time travel but he worries about Dean too much so he risks flying into the time flux in his wounded state, leaving bloody trace behind. His trace exposes him, Raphael follows him into the time flux, so he has to escape the chase while tries to locate Dean, Cas crash lands in Sunrise Wyoming but Dean's not there.
 
@@ -638,65 +654,81 @@ Cas resets his rings and wings, swirling backwards.
 
 "You do know it is pointless to fight or hide from me, do you?" Raphael mocks, turning around as well, following him two wings' distance away.
 
-"How do you find me?" Cas asks, hoping vainly that the talks might distract the archangel for at least a split of heartbeat time, while widening all the eyes he has to scan through the time flux. It's been a while since he has to fight in the time dimension in his true form, even longer to have to find a soul in here, if ever.
+"How do you find me?" Cas asks, hoping vainly that the talks might distract the archangel for a split of heartbeat time for a break, while widening all the eyes he has to scan through the time flux. It's been a while since he has to fight in the time dimension in his true form, even longer to have to find a soul in here, if ever.
 
-But surely the familiarity and the profound bound should make it slightly easier? Cas starts getting anxious, finding the time flux all look the same rapid and more confusingly dazzling than he remembers. Something disturbing is going on in these western times, but he doesn't know what, and Dean is there, going through the weird time and history on his own, without wings and without protection.
+But surely the familiarity and the profound bound should make it easier? Cas starts getting anxious, finding the time flux all look the same rapid and more confusingly dazzling than he remembers. Something disturbing is going on in these western times, but he doesn't know what, and Dean is there, going through the weird time and history on his own, without wings and without protection.
 
 Cas flaps his wings more rapidly, bearing all the tearing sensation in the rings and wings. Not caring that the more rapid he goes, the faster the grace is bleeding and losing, spilling from his true form like dripping blood along the way.
 
 Then for the second time, the disturbance in the air hits him sharp from the center, he almost falls directly into the time flux below.
 
-The archangel didn't even unleash his supernova-explosion-level grace, just using the tip of his wings that are as sharp as any metal in the universe that can ever be, almost cutting him in half.
+The archangel didn't even unleash his supernova-explosion-level grace, just using the tips of his wings that are as sharp as any metal in the universe that can ever be, almost cutting him in half.
 
 Castiel screams in pain in his true voice. The time dimension echoes his sound. Raphael laughs behind him in satisfaction.
 
-"I can smell your bleeding grace from two galaxies away, Castiel." Raphael tells him, the satisfying tone is still there. "Let alone that human you hang out with, gave us a loud and clear coordinate. So give up, Castiel, you can't hide from me in any time or space. I will always find you, and I will always destroy you."
+"I can smell your bleeding grace from two galaxies away, Castiel." Raphael tells him, tone satisfying. "Let alone that human you hang out with, gave us a loud and clear coordinate. So give up, Castiel, you can't hide from me in any time or space. I will always find you, and I will always destroy you."
 
 The second swing of cutting comes from the other side, Cas hears it coming before it hits him, he ducks sideways. The archangel's feathers are like natural angel blades, they scratch his innermost ring, missing the heart of his essence by mere inches.
 
-He could be killed any minute now. Cas thinks bitterly. And then Dean and Sam would be trapped in the western wasteland in the past, forever. They won't even reach the time when the first Impala was ever produced when they die of old age -- if they die of old age. They won't ever come back home again.
+He might be killed any minute now. Cas thinks bitterly. And then Dean and Sam would be trapped in the western wasteland in the past, forever. They won't even reach the time when the first Impala was ever produced when they die of old age -- *if* they die of old age. They won't ever come back home again.
 
 Cas blinks his eyes hard, opening all his wings again, wounded or not, shooting upwards. Directly into Raphael from below. The rings around his essence spin fast and urgent, like a rapidly beating heart.
 
 Raphael doesn't expect the change of direction in his moves. He has no time of diverting.
 
-Castiel uses his whole existence as bullet, the momentum as the fuel, hitting Raphael in his most vulnerable ring -- the same part in Cas that is beating and rotating glaringly, the innermost ring around the essence. Raphael is pushed out of balance, for a split of heartbeat time, out of control of where he's heading.
+Castiel uses his whole existence as bullet, the momentum as the fuel, hitting Raphael in his most vulnerable ring -- the same part in Cas that is beating and spinning glaringly, the innermost ring around the essence. Raphael is pushed out of balance, for a split of heartbeat time, out of control of where he's heading.
 
 Castiel catches the blink of opportunity when Raphael does not have eyes on him, diving straight into the time flux below him.
 
-The time dimension swirls and spins around him, sucking him into the point he chooses. The speed of rotation makes his rings twist and deform. No wonder every time he pops Dean in and out, he'd complain about motion sickness. This must be the exact dizziness a human would feel if he doesn't have any grace left.
+The time dimension swirls and rotates around him, sucking him into the point he chooses. The speed of rotation makes his rings twist and deform. No wonder every time he pops Dean in and out, he'd complain about motion sickness. This must be the exact dizziness a human would feel if he doesn't have any grace left.
 
 The thought makes his heart thumps hard.
 
-Did he lose all the grace just coming for them? How's he gonna take the boys home now?
+*Did he lose all the grace just to reach them? How is he gonna take them home now?*
 
 Without any answer to any of the questions, his feet land on the solid ground again. Castiel tumbles ahead, dropping on his all fours, spitting blood onto the sandy ground in front of him. The view is swimming, the ground is floating up and down as if he's being washed away by the tide. He has to focus very hard to not let the cold, shaky limbs give way here and now.
 
-Wind blows, the sand rises around him. The vessel coughs, more blood dripping, not just from his mouth.
+Wind blows, the sand rises around him. The vessel coughs, more blood dripping, from everywhere, not just from his mouth.
 
-Cas only gets time to see a wooden sign with a clean carving saying "Sunrise, WYO." before the world turns total black.
+Cas only gets time to see a wooden sign with a neat carving saying "Sunrise, WYO." before the world turns total black.
 
-### Act 3
+### Chap.3 (Dean's western life)(Wild west, 1861, Dean)
 
-> **Outline:** Dean&Sam leave Sunrise, Wyoming, ride horses, wear bandana, wrap blanket, "roadtrip in wild west".
+> **Outline:** Dean leave Sunrise Wyoming, ride horse, wear bandana, wrap blanket, "roadtrip in wild west".
 >
 > ("Unforgiven":) Enter town Thunderhill, Colorado, help saloon prostitutes revenge the cowboy, as bounty hunter, solve the injustice by gun duel
 >
 > ("Butch Sundance":) Rob bank in Pinecrest, Utah; rob train in Deadwood, Arizona
 >
-> Start montage/newspaper clips: banks robbed/cowboy killed/robin hood appeared/gold mine robbed in Rattlesnake Bend, Nevada; Cattle Creek, Kansas; Silver Gulch, California ("we were never in Kansas!" "guess that's how story travels") (fast-forward quickly, explain later in flashbacks/catch-ups if need to)
+> Start montage/newspaper clips: banks robbed/cowboy killed/robin hood appeared/gold mine robbed in Rattlesnake Bend, Nevada; Cattle Creek, Kansas; Silver Gulch, California ("I was never in Kansas!" "guess that's how story travels") (fast-forward quickly, explain later in flashbacks/catch-ups if need to)
 >
-> In a inn, they hide faces, listen to folks chatting about them, legendary rumors about how they "play poker, enjoy gun fights and win, rob gold mine and distribute gold to poor people", call them Robin Hood, say railway company & mine owner unite together, initiate posse to chase after them, they leave the inn quickly, notice the six horses with lanterns approach, start running
+> In a inn, he hide faces, listen to folks chatting about them, legendary rumors about how he "play poker, enjoy gun fights and win, rob gold mine and distribute gold to poor people", call him Robin Hood, say railway company & mine owner unite together, initiate posse to chase after them, he leave the inn quickly, notice the six horses with lanterns approach, start running
 >
 > (Dean pray to Cas every night, bad feeling)
 
 
 
+
+
+
+
+###### [TBA]
+
 #### draft notes
 
-(start scene with Dean get caught by Sam while praying, start anxious about Cas hurt)
+(start scene with Dean pray, start anxious about Cas hurt, bad feeling)
 
-States they can get to: Wyoming, Colorado, Utah, Arizona, Nevada, California
+("Unforgiven":) Enter town Thunderhill, Colorado, help saloon prostitutes revenge the cowboy, as bounty hunter, solve the injustice by gun duel
+
+("Butch Sundance":) Rob bank in Pinecrest, Utah; rob train in Deadwood, Arizona
+
+**Start montage/newspaper clips:** banks robbed/cowboy killed/robin hood appeared/gold mine robbed in Rattlesnake Bend, Nevada; Cattle Creek, Kansas; Silver Gulch, California ("I was never in Kansas!" "guess that's how story travels") (fast-forward quickly, explain later in flashbacks/catch-ups if need to)
+
+In a inn, he hide faces, listen to folks chatting about them, legendary rumors about how he "play poker, enjoy gun fights and win, rob gold mine and distribute gold to poor people", call him Robin Hood, say railway company & mine owner unite together, initiate posse to chase after them, he leave the inn quickly, notice the six horses with lanterns approach, start running
+
+<br>
+
+states to go: Wyoming, Colorado, Utah, Arizona, Nevada, California
 
 some town names:
 
@@ -708,21 +740,21 @@ some town names:
 - Cattle Creek, Kansas
 - Silver Gulch, California
 
-
+(passing line: Dean hates he can't use cellphone)
 
 (robbing bank/train)
 
 Dean: could be a quick way to get some noise, how hard can a robbery be? we used to B&E before breakfast
 
-Sam: you crazy? you can die!
+someone: you crazy? you can die!
 
 Dean: welcome to wild west, Sammy, you can die any time anywhere. you see those men? anyone can just draw a gun and start massive shooting if they want
 
-Sam: you're mistaken reality from movie
+someone: you're mistaken reality from movie
 
 Dean: art comes from life. I'm going. Feel free to stay in there, drinking whatever.
 
-### Act 4
+### Chap.4 (Cas's western life)(Sunrise, 1841, Cas)
 
 > **Outline:** Cas is too wounded to fly again and can't risk using his power in case he gets noticed by Raphael (still scouting in time flux), so he lives in the town like a human, also tries his best to blend in. After a while when he recovers slightly, he asks around if anyone has seen the brothers based on his description but no one does. The town looks relatively new, not so crappy, he asks time and realizes why. He asks if there is any ranch job available instead. (leave suspension)
 
@@ -732,27 +764,31 @@ Dean: art comes from life. I'm going. Feel free to stay in there, drinking whate
 
 (facts but only reveal later in catch-up/flashbacks: To stay in the town for longer and not raise suspicion, Cas starts working in a ranch just to continue pretending to be a normal human. Cas is still weak and low in power, but as time goes by, he's growing back.)
 
-### Act 5
+### Chap.5 (Dean meet Cas)(Sunrise, 1861, Dean+Cas)
 
-> **Outline:** Dean & Sam get chased around by the posse, not realize they're back to Sunrise, Wyoming where it all starts; cornered into the sheriff's office, no escape, too much guns ("are they human or demons?"), Dean desperately pray to Castiel, get jump attacked by a stranger appearing from nowhere, very obviously trying to kill them and very good at fighting, and after a few rounds they realize he's not human. It's Castiel, the original 1860s timeline version, receives order that they're disturbing the timeline and comes to eliminate them (Castiel: "You pray too loud. I really don't know why you act like we are familiar" Dean: "I almost forget how big of an asshole you were before").
+> **Outline:** Dean get chased around by the posse, not realize he's chased back to Sunrise, Wyoming where it all starts; get cornered into the sheriff's office, no escape, too much guns ("are they human or demons?"), Dean desperately pray to Castiel, get jump attacked by a stranger appearing from nowhere, very obviously trying to kill them and very good at fighting, and after a few rounds they realize he's not human. It's Castiel, the original 1860s timeline version, receives order that they're disturbing the timeline and comes to eliminate them (Castiel: "You pray too loud. I really don't know why you act like we are familiar" Dean: "I almost forget how big of an asshole you were before").
 >
-> Dean almost gets killed (heavily wounded), prays desperately instinctively again to his Cas, and gets saved when this Castiel gets blown away by power (fight a few rounds, Cas absorb 1861!Cas's grace, lighten up to show wings, wipe his memory, blast him away -> cruelest to himself, Dean: "Wouldn't that hurt... you? The old yourself?" Cas: "He has plenty time to recover, I don't." it's his own grace anyway). His Cas is there, dirty ncowboy looking (reveal as part of posse), totally blend in and human-like, faceful of "I finally found you".
+> Dean almost gets killed (heavily wounded), prays desperately instinctively again to his Cas, and gets saved when this Castiel gets blown away by power (fight a few rounds, Cas absorb 1861!Cas's grace, lighten up to show wings, wipe his memory, blast him away -> cruelest to himself, Dean: "Wouldn't that hurt... you? The old yourself?" Cas: "He has plenty time to recover, I don't." it's his own grace anyway). His Cas is there, dirty cowboy looking (reveal as part of posse), totally blend in and human-like, faceful of "I finally found you".
 >
 > Dean: "Where have you been?" Cas: "When." Dean: "Wh-- how long have you been here?" Cas: "Twenty years. I landed too early, so I have to wait for you to catch up, wait for time to pass in the slow old way." Dean: "I prayed to you." Cas: "I know." He can hear all the time but can't get to Dean. Dean: "What happened?"
 
-### Act 6
+#### draft notes
+
+### Chap.6 (Cas look for Dean)(Wild west, 1861, Cas POV+Dean)
 
 > **Outline:** (Cas POV, retell) Cas lands 20y ago, lives and waits, then 1861.3.5 comes, Cas arrives in saloon earlier than Dean, witnesses Sheriff burned by the phoenix Elias Finch, hiding to prevent paradox, jump attacked & trapped by demons (possessing Elkins), so can't get to Dean until the day he burns the place down, Cas free but Dean already rides away, Cas try chase him around but can't catch up
 >
 > Cas finds newspaper & saloon chatter about Dean become wanted, Cas join posse to follow him (also try persuade people don't shoot him), Dean keep running away from posse, until the day confronted by 1861!Cas, Cas catch up, persuade rest of posse to go in there alone, fight/blast the old self away
 
-### Act 7
+#### draft notes
 
-> **Outline:** Cas heals Dean and himself, Dean caring, Cas only hints the last 20y are tough but not enough detail
+### Chap.7 (reunion, go home)(Sunrise+Bobby's, 1861+2011, Dean+Cas)
+
+> **Outline:** Cas heals Dean and himself, Dean caring, Cas only hints the last 20y are tough but not enough detail (some talk, Dean's imagined ranch life with Cas)
 >
-> Cas flies them home, back to the same day they leave for the phoenix's ashes. Bobby is still there, exactly the same as before, everything the same. (Or not exactly, Dean's western fame gets kept in history, legends of himself becomes a cowboy story, exaggerated but he's amused)
+> Cas flies them home (pick Sam up), back to the same day they leave for the phoenix's ashes. Bobby is still there, exactly the same as before, everything the same. (Or not exactly, Dean's western fame gets kept in history, legends of himself becomes a cowboy story, exaggerated but he's amused, secretly really love it)
 
-#### draft note
+#### draft notes
 
 Dean/Cas don't actually spend another year of ranch life in the past, but Dean does think/imagine that life and find himself doesn't mind it (contrast with beginning when he has to stay but he finds it unbearable), even look forward to it (but it seems to only exist in parallel world now)
 
