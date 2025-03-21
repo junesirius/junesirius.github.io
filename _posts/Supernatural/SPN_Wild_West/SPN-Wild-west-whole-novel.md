@@ -15,7 +15,7 @@ published: false
 
 (tags: S06E18, Canon Divergent, Time Travel, Wild West, Angst)
 
-(after-word note: reference "Unforgiven", "Butch Cassidy and Sundance Kid", "Tombstone", "Legends of the Fall")
+(after-word note: reference "Unforgiven", "Butch Cassidy and Sundance Kid", "Tombstone", "Legends of the Fall", "The Outlaw Josey Wales")
 
 ## Draft
 
@@ -86,7 +86,7 @@ Just how many gangsters has he run into before? Dean finds himself wondering.
 
 ### Loophole fix
 
-If Cas is already in Sunrise Wyoming on 1861.3.5, the why he isn't there when Dean prays for him?
+If Cas is already in Sunrise Wyoming on 1861.3.5, then why he isn't there when Dean prays for him?
 
 (time travel loophole -> learn from HP3 to fix)
 
@@ -100,7 +100,7 @@ Sam POV: follow Dean around, Cas fly him back first, Dean&Cas follow immediately
 
 ### Edit note
 
-Saloon has room (sign "room" by the side) -> find an excuse to not spend the night in Saloon (prostitutes?)
+keep Sam out of picture from beginning, only Dean travel alone and make noise, Sam stay at Samuel's place all the time
 
 ## Main
 
@@ -164,13 +164,19 @@ The saloon has some bar food too, they use them as the dinner.
 
 The night soon falls on them. There is still no sign of Cas.
 
-"You want to, umm," Sam shifts in the stool next to him. "Find a place for the night?"
+"You want to, umm," Sam shifts in the stool next to him, "-- get a room for the night?" He nods toward the wooden "Room" sign below the saloon's signboard.
 
 Dean checks his watch. It's been ten hours.
 
-He empties the glass and stands up. "Yeah ok, let's go."
+He empties the glass and stands up. "Yeah ok, let's go." Then adds, "But not here."
 
-There is no motel or anything similar in the town, of course -- apparently they don't get many outsiders. But the sheriff's office is empty. With both the sheriff and the deputy down, that place is just a whole big empty room waiting to be claimed.
+"What's wrong with here?"
+
+Dean's eyes sweep through the saloon girls gathering and giggling around the base of the staircase, sounds of cheap bed shaking are remotely audible. His eyes land back on Sam's, raising the eyebrows that can speak by themselves: *Serious?*
+
+Sam hums. "Good point."
+
+They go back to the sheriff's office. With both the sheriff and the deputy down, that place is just a whole big empty room waiting to be claimed.
 
 Dean leads them back in there. The deputy's charred skeleton is still behind the bar, the air burnt flesh. Dean decides to not think about that for now. He wanders around the place, looking for anything available to claim for their use.
 
@@ -268,7 +274,11 @@ Sam's chuckle stops. The silence makes Dean glance back.
 
 The glass bottle of phoenix ash is still tucked under his jacket, just in case if he has to be pulled away in a hurry, he'd make sure the reason why they're here in the first place wouldn't get lost.
 
-Sam swallows, giving Dean a quick glance, a little sheepishly, "So is it time we finally start talking about what to do if Cas never come, if he just can't, and we might have to figure out our own way back?"
+Sam swallows, giving Dean a quick glance, a little sheepishly, "So is it time we finally start talking?"
+
+"About what?"
+
+"About what to do if Cas never come, if he just can't, and we might have to figure out our own way back?"
 
 Dean stares at him, face grim, brows knitted tight. Eventually he sighs, giving in the stare, licking his lips. "Ok, yeah, you might be right. Can't put all the burden on the man, he might even need our help back home."
 
@@ -284,7 +294,7 @@ Bobby paces the living room, a few steps in front of the sofa where a bleeding o
 
 The countdown on the clock is running out fast. Cas doesn't show any sign of waking up.
 
-Bobby frowns deep, throwing looks between the clock and Cas every second.
+Bobby frowns deep, throwing looks between the clock and Cas every other second.
 
 Cas crashed into the kitchen little more than three hours ago, leaving a bloody sigil on the fridge door, and practically went straight into the coma. No explanation.
 
@@ -316,9 +326,9 @@ Glancing at the bloody sigil with Cas's fingerprint that is visibly gradually dr
 
 "Whatever angel out there," he says, grumpily, can't decide whether to keep the eyes open or shut, settled with squinting, "uh, hope you're on our side. Could use a little help here."
 
-The sigil on the fridge door brightens up, burning into a lit-up golden color, as bright as the silvery light leaking from inside Cas, then dying out slowly. The pattern seems a little shallower than before, muffled, Bobby observes, not knowing what it means.
+The sigil on the fridge door brightens up, burning into a lit-up golden color, as bright as the light leaking from inside Cas, then dying out slowly. The pattern seems a little shallower than before, muffled, Bobby observes, not sure what it means.
 
-No angel shows up. Not sure if it's good or bad news.
+No angel shows up. Not sure if it's good or bad news, either.
 
 Bobby turns back to the books for help.
 
@@ -328,7 +338,7 @@ Bobby doesn't close his eyes in the first night. The letters on the pages start 
 
 Castiel is still not responding to anything. Face pale, body cold.
 
-Bobby examines his wound -- while murmuring "I don't have a goddamn PhD in angel medics, just so you know" -- the cut is deep, the leaking light is blinding, but Bobby decides it's not as blinding as yesterday. Not sure if it's hopeful thinking or his eyes are just getting adjusted to angel grace.
+Bobby examines his wound -- while murmuring "I don't have a goddamn PhD in angel medics, just so you know" -- the cut is deep, the leaking light is blinding, but Bobby decides it's not as blinding as yesterday. Could be hopeful thinking though, or his eyes are just getting adjusted to angel grace.
 
 He sighs long and deep. "Should have talked them out of this, told you it's a bad idea, but who'd listen?"
 
@@ -352,11 +362,11 @@ Castiel tears open the bandage, palm covering the wound. The light and human blo
 
 "Should see the other guy, right?" Bobby tries putting a light tone there.
 
-Castiel probably doesn't get the reference, he answers anyway. "Rachel, she was killed. But I was wounded. Need to use some safety, so... thank you."
+Castiel probably doesn't get the reference, he answers anyway. "Rachel -- I had to kill her. But I was wounded. Need to use some safety, so... thank you."
 
-"You mean that finger painting?" Bobby eyes the sigil that he has stared for so many times over the past few day. It's barely visible now. Only a smudged bloody stain.
+"You mean that finger painting?" Bobby eyes the sigil that he has stared for so long over the past few days that he'd already memorized the thing. It's barely visible now. Only a smudged blood stain.
 
-Cas follows his eyes, frowning deeper. "Is there any other angels coming around this place while I was out?" he glares at Bobby.
+Cas follows his eyes, frowning deeper. "Is there any other angels coming around this place while I was unconscious?" he glares at Bobby.
 
 Bobby shrugs. "Not that I know of."
 
@@ -364,9 +374,9 @@ Cas looks into him, voice graver. "Did you... pray to them?"
 
 Bobby tilts his head, having a bad feeling but has to defend himself. "Well, you're out, boys need a ride home, what else was I supposed to do? So yeah, distress call."
 
-Cas looks like he was about to snap, but decides at the last minute to turn it into a sigh. "You might just put both of us in extreme danger -- me, especially. Since Raphael might already hear it and find where I am, or at least close enough. I could be dead any minute by now if it's not still shielding me."
+Cas looks like he was about to snap, but decides at the last minute to turn it into a sigh. His lips thin into a line. "You might just put both of us in extreme danger -- me, especially. Since Raphael might already hear it and find where I am, or at least close enough. I could be dead any minute by now if it's not still shielding me."
 
-Defeated, Bobby takes half a step back, acting as if trying to give Cas some space as he gives another attempt to stand up. "Well, I'm sorry. I guess. Was really out of option there."
+Defeated, Bobby takes half a step back, trying to give Cas some space as he gives another attempt to stand up. "Well, I'm sorry. I guess. Was really out of option there."
 
 "How long was I unconscious?" Cas leaves the sofa, walking shakily toward the desk.
 
@@ -386,21 +396,23 @@ With that, and a disturbance of wind flow in the room, Castiel is gone.
 
 "What does that --" Bobby takes two steps ahead, right next to where the angel was, but it is so clear there is nothing left there anymore.
 
-### Act 2-2 (Dean leave Sunrise)(Sunrise, 1861, Dean&Sam) Chap. 2
+### Act 2-2 (Dean leave Sunrise)(Sunrise, 1861, Dean) Chap. 2
 
-> **Outline:** Dean prays to Cas but doesn't get answer, they figure Cas said they're lost to him, so their idea is to do something "noisy" (big enough to get some notice from the future but not too big to disturb the history) so that their existence might be like some beacon in the timeline, hopefully making it easier for Cas to locate them.
+> **Outline:** Dean prays to Cas but doesn't get answer, they figure Cas said they're lost to him, so the idea is to do something "noisy" (big enough to get some notice from the future but not too big to disturb the history) so that their existence might be like some beacon in the timeline, hopefully making it easier for Cas to locate.
+>
+> Dean goes ahead start doing the reckless noisy things, Sam stay behind at Samuel Colt's place continue researching (time travel spell: angel feather, sands of time, tears of a dragon)
 
 "Get out of my house." Samuel Colt grumbles, without bothering lifting his head. His colt on the desk by his hand -- a normal one, not the special one he'd already given to them.
 
-"I'm really sorry to bother you again," Sam steps gingerly ahead, Dean follows him a few feet behind. "I wouldn't bother you if it's not absolute urgent."
+"I'm really sorry to bother you again," Sam steps gingerly ahead, Dean follows him a few steps behind. "I wouldn't bother you if it's not absolute urgent."
 
-"Thought I already did my share of help." he eyes them. "Don't tell me the Colt didn't work on the creature you're hunting."
+"Thought I already did my share of help." He eyes them. "Don't tell me the Colt didn't work on the creature you're hunting."
 
 "No, it's not that." Dean chimes in, "It worked, but uh... it's something else we can use a little help there."
 
-"Which part of *I'm retired* failed you?"
+"What part of *I'm retired* failed you?"
 
-*Jeez, Samuel is clearly not an easy one to approach.* Dean thinks quietly, eyebrow raised a few inches.
+*Jesus, Samuel is clearly not an easy one to work with.* Dean thinks quietly, eyebrow raised a few inches.
 
 "Like I said, in our time, you're sort of a really big deal, the most famous hunter -- " Sam manages a tight smile, as friendly as he can pull.
 
@@ -438,51 +450,73 @@ Sam jerks his head up, eyes bright with understanding, "And he also told us this
 
 "Which means we are totally lost to him by now and no way home without the wings." Dean says bitterly.
 
-"No, Dean!" Sam jumps to his feet, over excited. "I think that's exactly our solution! This book here also said something similar, quite many are saying the same thing actually, I just didn't realize they might be literal, thought it's more metaphorical."
+"No, Dean!" Sam jumps to his feet. "That might be the idea! This book here also said something similar, quite many are saying the same thing actually, I just didn't realize they might be literal, thought it's more metaphorical."
 
-He slides the book over with some illustration of river on it, "Imagine the time is like river or something, fluid, rapid turbulence flow of some kind, and each of us is like a floating leaf. Cas can bend the waterway so it becomes non-chronological, the downstream touches the upstream, that's how we land here. And folding some part off would be to fast-forward into the future. But if we stay here for too long, we are like the leaves washed away by the flow by too far, that's probably why he can't find us, because he doesn't know where we are in the time flux anymore."
+He slides the book over with some illustration that looks like a river with sand banks on its sides, "Imagine the time is like river or something, fluid, rapid turbulence flow of some kind, and each of us is like a floating leaf. Cas can bend the waterway so it becomes non-chronological, the downstream touches the upstream, that's how we land here. And folding some part off would be to fast-forward into the future. But if we stay here for too long, we are like the leaves washed away by the flow by too far, that's probably why he can't find us, because he doesn't know where we are in the time flux anymore."
 
-Dean's brows tie into a knot. "So... what's our way out again?"
+Dean's brows knit into a knot. "So... If we make some noise, *splash!* Fish jump out of water, we can make ourselves stand out in this timeline river somehow, so he can find us."
 
-"We just need to make some *noise*, like splashes on the surface, like fish jumping out of the water, making us stand out in the timeline so he can find us, sending out some temporal beacons -- assuming he's out there looking for us." Sam's voice gets quieter at the last clause.
+"Like temporal beacons. It might work -- assuming Cas is still out there looking for us." Sam's voice gets quieter at the last clause.
 
-"He's out there." Dean nods firmly, almost reflexively.
+"He's out there." Dean says reflexively. Sam doesn't look convinced.
 
-"Ok." he considers again, starting a minor smile. "Sounds like a plan to me. What kind of noise are we talking about?"
+Dean gives the river picture a second look-over, thinking it over again, a minor smile starts showing. "Sounds like a plan to me. What kind of noise are we talking about?"
 
-Sam looks a little caught by the question, shrugging unsurely. "What do I know? Something big enough to get some notice in the future, I'd guess? I would definitely notice if your face show up in some old western posters, guess you can finally make a name for yourself in this era like you always wanted, huh?"
+Sam looks a little caught by the question, shrugging unsurely. "How would I know? Something big enough to get some notice in the future, I guess? I would definitely notice if your face show up in some old western posters, guess you can finally make a name for yourself in this era, like you always wanted, huh?"
 
 Sam throws a half smile in his brother's direction, knowing him too well.
 
 Dean's eyes glints. "Any catch I need to know before messing up the time?"
 
-Tip of Sam's mouth twitches. "Just like you said but... don't mess up the time too much?"
+Tip of Sam's mouth twitches. "Just like you said but, eh... don't mess up the time too much? Butterfly effect, remember? We just came back from the Titanic world like, last week?"
 
-Dean returns the look. "Let me, umm, just try one more time, just to be sure."
+Dean returns an unimpressed look. "Let me, umm, just try one more time, just to be sure."
 
 Glancing up, he prays hard and loud, "Castiel, Angel of the Lord, if you have your ears on, come pick us up here, alright? Or we're gonna do something that *possibly* could break the history, you hear me?"
 
 He waits. One second. Two seconds. Three seconds. No stir of air, no wings, no feathered angel. No Cas.
 
-Dean breathes out. "Ok then, let's do this."
+Dean breathes out. "Okay then, let's do this, make some noise! Fun time!"
+
+"Umm," Sam has a look of reluctance, slowly sitting back down.
+
+Dean narrows his eyes. "You're not coming with me."
+
+Sam spreads his hands wide, empty palms facing up -- all they have is a big pile of nothing. Resigned, he says, "Look, Dean, I know how much faith you have on Cas, I really hope I do too, but we just don't know. We could break the history and timeline and everything, and Cas might never come, and we would still be stuck here. I'm gonna find another way, a spell or something, things we can do *by ourselves*, swim our way back if we can."
+
+"And you'll just stay here the whole time, researching?" Dean throws a quick glance at the stairs leading out of the cellar. "Samuel here doesn't look like he welcomes any guest, let alone long-term tenant."
+
+"Not too different from Bobby?" Sam curls up his lips a little.
+
+Dean considers, huffing a quiet laughter. "Yeah, right, we are professionals in handling half-retired grumpy old drunk hunters."
+
+They exchange an agreeing look. So it is decided.
+
+Dean stands up, moving around the table, leaning in to give his brother a half-hug.
+
+"See you around then, Sammy." He pats his back slightly before pulling back. "I'll drop by picking you up after I find Cas."
+
+"And how do I find you, if I find the spell?" Sam asks.
+
+Dean smiles. "Read the newspaper."
 
 <br>
 
-"So, you boys finally decided to move on?" Elkins eyes their looks.
+"So, you finally decide to move on?" Elkins gives him a once-over. "Where's your brother?"
 
-Dean has a red bandana wrapped around his mouth, Sam a black one. They've changed into new shirts and pants -- new for them, old for the clothes -- dirt and stains making them look exactly like the rest of the folks in the place.
+Dean has a red bandana wrapped around his mouth. He changed into new shirt and pant -- new for him, old for the clothes -- dirt and stains making him look exactly like the rest of the folks in the place.
 
 *The look of a pilgrim,* Dean realizes.
 
-He doesn't nod or shake. Just strides straight into the room, heading directly for the bartender they've grown familiar with over the past few days. Dean lets out a breath, tasting a tad of bitterness lingering on the tip of his tongue.
+He doesn't answer. Just strides straight into the room, heading directly for the bartender they've grown familiar with over the past couple of days. Dean lets out a breath, tasting a tad of bitterness lingering on the tip of his tongue.
 
-Drawing the pistol from the holster at his waist in a smooth swing, he fires three shots into the ceiling. Some girls scream behind him, he knows Sam must also have his gun drawn, aimed somewhere.
+Drawing the pistol from the holster at his waist in a smooth swing, he fires three shots into the ceiling. Some girls scream behind him.
 
-Elkins looks at him, reaching for something underneath the bar stand. Supposedly a shotgun.
+Elkins looks at him, reaching for something hidden underneath the bar stand. Supposedly a shotgun.
 
-"I wouldn't suggest that." Dean shifts his aim toward him. The bartender stops moving, hands slowly rising.
+"I wouldn't recommend that." Dean shifts his aim toward him. The bartender stops moving, hands slowly rising.
 
-"What's this about?" The old man is still surprisingly calm, not even showing much curiosity.
+"What's this about?" The old man is still surprisingly chill, not even showing much curiosity.
 
 *Just how many gangsters has he run into before?* Dean finds himself wondering.
 
@@ -490,71 +524,77 @@ Elkins looks at him, reaching for something underneath the bar stand. Supposedly
 
 "At least leave me a name to pass your story along?" Elkins reaches for a side drawer. The gold he offers includes some of the very pieces they paid for their meals over the past few days. Dean has to push down the unease.
 
-"Eastwood. Clint Eastwood. Best gunner in the western world," Dean tells him.
+"Eastwood. Clint Eastwood. Best gunner in the western world," Dean tells him, with a mocking smile.
 
-"We'll see about that." Three gunshots are released at almost the same second. Not Dean's this time. He dives behind an overturned dining table. A bullet narrowly misses his cheek.
+"We'll see about that." Three gunshots are released within the next second. Not Dean's this time. He dives behind an overturned dining table. A bullet narrowly misses his cheek, air squeaks sharp.
 
 "Son of a bitch!" He shouts out. Dirt on the ground flies into air, the room is hazy for a second. He can't see much.
 
-"Sam!" Dean looks left and right, trying to figure out what now.
+Dean blinks hard, looking left and right, trying to figure out what now.
 
-"I'm ok!" Sam yells back, somewhere behind him, probably using a different table as shelter.
-
-"What the hell?" he thinks out loud. Guess the first show probably isn't always very successful even for bonafide western gangsters, is it?
+"What the hell?" he thinks out loud. Guess the first rodeo isn't always very successful even for bonafide western gangsters.
 
 "Well, *Hell* sends regards." Elkins' steps are right in front of the table. Dean risks a glimpse, catching the sight of black eyes.
 
-"Demon!" He warns Sam, at the same time of ducking into a gap between the stools, exactly when the desk he was hiding behind gets shot a gun hole around the place where his heart would have been.
+"Freaking demon!" He growls, at the same time of ducking into a gap between the stools, exactly when the table he was hiding behind gets shot a gun hole around the place where his heart would have been.
 
-"Where are they coming from?" Sam moves closer to him, looking at a different direction.
+A second gun shot is fired from behind him. Damnnit, *demons*, plural. A whackload of them, it seems.
 
-"They?" Dean alerts.
+He hears giggling from the same direction where the gunshot comes, the place where the saloon ladies usually gather. If they are all possessed, he counts four already.
 
-"The ladies at the back." Sam rushes the explanation. "Darla and at least two others, already counting four here."
-
-Even with the Colt they haven't really had won any advantage with that many demons all at once, and god knows how many more might crawling in as they speak.
+Even with the Colt he hasn't really had won any advantage over that many demons all at once, and god knows how many more might crawling in as they speak.
 
 "Surprised to see us?" Elkins' voice sounds harsh and edgy, nothing like what he sounded like when he spoke with them in the past. "We kill everyone close to Samuel Colt, just so you know."
 
 "Huh, usually the other way around," Dean amuses. "So this is how it's like to have someone more famous than us around."
 
-Sam spares him a glare, "Not funny, Dean! And not the time!"
+"You are some big name, boy?" The demon in Elkins smirks.
 
-"Right," Dean tightens the grip on the pistol, silently counting the number of bullets he has left, "a little low on ammo here, any idea?"
+"That's the goal." Dean answers absent-mindedly, while tightens the grip on the pistol, silently counting the number of bullets he has left. A bit low on ammo already, he shifts the grip slightly, he has to figure a way out fast.
 
-Sam shares a look with him while nodding at the exit door. Dean gives him a thumb up, finger drawing a circle and then pointing at himself. Sam nods in understanding.
+The exit door are two tables' distance away, with the three lady demons in between, but the side window is only one table away, with buckets of alcohols within range. He calculates his route.
 
-From the sound of their surrounding footsteps, demons are circling closer.
+The demons circle closer. Their footsteps heavy, dresses of the ladies rustled relentlessly.
 
-"Bullet can kill us but we can't kill you, a little unfair, isn't it?" Dean raises his voice from behind the hideout. Tone teasing.
+Dean risks another look from the edge of his hideout. All of them has a gun in their hands. Since when do demons kill human with guns? Western cowboy demons? He teases the thought, finding it not as unpleasant as he thought.
 
 The demon possessing the bartender lets out a raspy laughter. "You will die, Clint Eastwood."
 
 "Huh, it's actually nice hearing people say that, you know. Leaving the name behind is sorta the point." Dean estimates the timing and the distance, swinging a stool at the foot of the closest demon girl, diving side way. Darla, the saloon girl cornered him the first day, yells angrily, eyes turning black, swooping for him.
 
-"Sorry about that." Dean says, apologetically. Then, "Sam! Now!"
+"Sorry about that." Dean says, a bit apologetically. Then dives for the bucket stack, kicking them loose.
 
-A bucket rolls towards him, soaked inside out with alcohol. Dean jumps out of the place, right before firing at the bucket, turning the whole place into a big pile of flame and smoke. Demons hiss furiously inside.
+A bucket rolls toward the center of the saloon, alcohol leaking from a crack, leaving a wet trail as it goes. The second one follows, making the trail a pool, soaking the next one inside out.
 
-The two boys unleash the horses by the stable, galloping out of the town, heading west.
+Dean leaps out of the place through the window right before the demons shoot the spot he was in. Bullets and sparks catch the alcohol, the whole place turns into a big pile of flame and smoke in seconds. Demons hiss furiously inside.
+
+The second floor crashes down in the flame. Dean only then realizes he forgets to check if there is any human up there, but it's too late already.
+
+He unleashes the horse by the stable, galloping out of the town, heading west without looking back.
 
 <br>
 
-They don't slow down until the burning hut is completely out of view. The sun is setting ahead of them on the horizon. They ease the rein, letting the horses stroll.
+He doesn't slow down until the burning hut is completely out of view. The sun is setting ahead of him on the horizon. He eases the rein, letting the horse stroll.
 
-Dean glances back at the wild plain territory behind them, barely anything to see. Barren and wild, no sign of civilization.
+Dean glances back at the wild plain territory behind him, barely anything to see. Barren and wild, no sign of civilization.
 
-"Guess no coming back to Sunrise, Wyoming now." He sighs, patting at the duffel bag and roll of bedding wrapped tightly on the back of the horse, letting out a long breath, removing the Sheriff's pin on his shirt. "Didn't expect the first gig would end up like that."
+"No coming back to Sunrise, Wyoming now." He sighs, patting the duffel bag and roll of blanket wrapped tightly on the back of the horse, the same way he'd check the Impala's trunk has everything he needs for the road.
 
-"The robbing part or the demon part?" Sam eyes him sideways.
+Dean removes the Sheriff's pin from his shirt. "Didn't expect the first gig end up like that, goddamn demons always ruin the day."
 
-Dean considers, almost laughing, "You know what, the worst part is I don't know which is worse. But you think it's big enough of a stress signal to Cas now?"
+He strokes the neck of the horse gently, speaking to her as much as to himself, "What do you think, it's a loud enough distress call to Cas or not?"
 
-Sam looks up at the sky. The night is falling, the stars are incredibly bright above these lands. Pure universe hanging on top of them like a gigantic globe hull, celestial, but not in a biblical way. "Probably not." he murmurs.
+He looks up at the sky. The night is falling slowly, the color transitions from dark blue to deep purple. Some stars that are incredibly bright already start shining and blinking above these lands. Light pollution isn't a thing yet.
 
-"Yeah." Dean has to agree, them not being home already is proof by itself. "Come on then, let's head west and make some more noise, he'd have to hear one of them. Good thing all the land between here and sea are free to go."
+Pure universe hanging on top of him like a gigantic globe hull, celestial, but not in a biblical way.
 
-The whole wild west ahead of them, free to explore.
+Dean lets his fingers combing through horse's hair, feeling the creature's muscle rise and fall as it jogs. "Yeah, I know." He says quietly, "Probably not."
+
+Him not being home already is proof by itself.
+
+"Looks like just you and me and the whole wild west now, Baby." He pats the horse. "Come on then, let's head west and make some more noise, he'd have to hear one of them. Good thing all the land between here and the ocean are free to go."
+
+The whole wild west ahead of him, free to explore.
 
 But Dean isn't anywhere near ecstasy. It's just too damn far away from home.
 
@@ -711,5 +751,11 @@ Dean: art comes from life. I'm going. Feel free to stay in there, drinking whate
 > **Outline:** Cas heals Dean and himself, Dean caring, Cas only hints the last 20y are tough but not enough detail
 >
 > Cas flies them home, back to the same day they leave for the phoenix's ashes. Bobby is still there, exactly the same as before, everything the same. (Or not exactly, Dean's western fame gets kept in history, legends of himself becomes a cowboy story, exaggerated but he's amused)
+
+#### draft note
+
+Dean/Cas don't actually spend another year of ranch life in the past, but Dean does think/imagine that life and find himself doesn't mind it (contrast with beginning when he has to stay but he finds it unbearable), even look forward to it (but it seems to only exist in parallel world now)
+
+When Sam jokingly says "What took you so long", Dean jokingly replies "Spent a year in a ranch after you're gone", Sam believes and startles, Dean: "I wish." (write in a way to make it not clear whether it's true?)
 
 ###### End
