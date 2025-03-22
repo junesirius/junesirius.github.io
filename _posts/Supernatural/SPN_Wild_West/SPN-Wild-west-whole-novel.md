@@ -468,7 +468,7 @@ Sam jerks his head up, eyes bright with understanding, "And he also told us this
 
 "No, Dean!" Sam jumps to his feet. "That might be the idea! This book here also said something similar, quite many are saying the same thing actually, I just didn't realize they might be literal, thought it's more metaphorical."
 
-He slides the book over with some illustration that looks like a river with sand banks on its sides, "Imagine the time is like river or something, fluid, rapid turbulence flow of some kind, and each of us is like a floating leaf. Cas can bend the waterway so it becomes non-chronological, the downstream touches the upstream, that's how we land here. And folding some part off would be to fast-forward into the future. But if we stay here for too long, we are like the leaves washed away by the flow by too far, that's probably why he can't find us, because he doesn't know where we are in the time flux anymore."
+He slides the book over with some illustration that looks like a river with sand banks on its sides, "Imagine the time is like river or something, fluid, rapid turbulence flow of some kind, and each of us is like a floating leaf. Cas can bend the waterway so it becomes non-chronological, the downstream touches the upstream, that's how we landed here. And folding some part off would be to fast-forward into the future. But if we stay here for too long, we are like the leaves washed away by the flow by too far, that's probably why he can't find us, because he doesn't know where we are in the time flux anymore."
 
 Dean's brows knit into a knot. "So... If we make some noise, *splash!* Fish jump out of water, we can make ourselves stand out in this timeline river somehow, so he can find us."
 
@@ -488,7 +488,7 @@ Tip of Sam's mouth twitches. "Just like you said but, eh... don't mess up the ti
 
 Dean returns an unimpressed look. "Let me, umm, just try one more time, just to be sure."
 
-Glancing up, he prays hard and loud, "Castiel, Angel of the Lord, if you have your ears on, come pick us up here, alright? Or we're gonna do something that *possibly* could break the history, you hear me?"
+Glancing up, he prays hard and loud, "Castiel, Angel of the Lord, if you have your ears on, come pick us up here, alright? Or we're gonna do something that can *possibly* break the history, you hear me?"
 
 He waits. One second. Two seconds. Three seconds. No stir of air, no wings, no feathered angel. No Cas.
 
@@ -530,7 +530,7 @@ Drawing the pistol from the holster at his waist in a smooth swing, he fires thr
 
 Elkins looks at him, reaching for something hidden underneath the bar stand. Supposedly a shotgun.
 
-"I wouldn't recommend that." Dean shifts his aim toward him. The bartender stops moving, hands slowly rising.
+"I suggest not." Dean shifts his aim toward him. The bartender stops moving, hands slowly rising.
 
 "What's this about?" The old man is still surprisingly chill, not even showing much curiosity.
 
@@ -538,11 +538,11 @@ Elkins looks at him, reaching for something hidden underneath the bar stand. Sup
 
 "What every outlaw around here wants," he says, aiming for a deep, grave voice. "You got any hidden treasure around here? Gold would do too."
 
-"At least leave me a name to pass your story along?" Elkins reaches for a side drawer. The gold he offers includes some of the very pieces they paid for their meals over the past few days. Dean has to push down the unease.
+"At least leave me a name to pass your story along?" Elkins slowly reaches for a side drawer in his gaze. The gold he offers includes some of the very pieces they paid for their meals over the past few days. Dean has to push down the unease.
 
 "Eastwood. Clint Eastwood. Best gunner in the western world," Dean tells him, with a mocking smile.
 
-"We'll see about that." Three gunshots are released within the next second. Not Dean's this time. He dives behind an overturned dining table. A bullet narrowly misses his cheek, air squeaks sharp.
+"We'll see about that." Three gunshots are released within the next second. Not Dean's this time. He dives behind an overturned dining table. A bullet narrowly misses his cheek, air squeaks sharp and heated.
 
 "Son of a bitch!" He shouts out. Dirt on the ground flies into air, the room is hazy for a second. He can't see much.
 
@@ -562,43 +562,43 @@ Even with the Colt he hasn't really had won any advantage over that many demons 
 
 "Surprised to see us?" Elkins' voice sounds harsh and edgy, nothing like what he sounded like when he spoke with them in the past. "We kill everyone close to Samuel Colt, just so you know."
 
-"Huh, usually the other way around," Dean amuses. "So this is how it's like to have someone more famous than us around."
+"Huh, usually the other way around," Dean amuses. "So this is how it's like to hanging around with a big name."
 
 "You are some big name, boy?" The demon in Elkins smirks.
 
 "That's the goal." Dean answers absent-mindedly, while tightens the grip on the pistol, silently counting the number of bullets he has left. *A bit low on ammo already,* he shifts the grip slightly, thinking, *he has to figure a way out fast*.
 
-The exit door are two tables' distance away, with the three lady demons in between, but the side window is only one table away, with buckets of alcohols within range. He calculates his route.
+The exit door is two tables' distance away, with the three lady demons in between, but the side window is only one table away, with buckets of alcohols within range. He calculates his route.
 
-The demons circle closer. Their footsteps heavy, dresses of the ladies rustled relentlessly.
+The demons circle closer. Their footsteps heavy, dresses of the ladies rustle relentlessly.
 
-Dean risks another look from the edge of his hideout. All of them has a gun in their hands. Since when do demons kill human with guns? Western cowboy demons? He teases the thought, finding it not as unpleasant as he thought.
+Dean risks another look from the edge of his hideout. All of them have a gun in their hands. Since when do demons kill human with guns? Western cowboy demons? He teases the thought, finding it not as unpleasant as he thought.
 
 The demon possessing the bartender lets out a raspy laughter. "You will die, Clint Eastwood."
 
-"Huh, it's actually nice hearing people say that, you know. Leaving the name behind is sorta the point." Dean estimates the timing and the distance, swinging a stool at the foot of the closest demon girl, diving side way. Darla, the saloon girl cornered him the first day, yells angrily, eyes turning black, swooping for him.
+"Huh, it's actually nice hearing people say that, you know. Sorta the point, could be a line for the movies." Dean estimates the timing and the distance, swinging a stool at the foot of the closest demon girl, diving side way. Darla, the saloon girl cornered him the first day, yells angrily, eyes turning black, swooping for him.
 
 "Sorry about that." Dean says, a bit apologetically. Then dives for the bucket stack, kicking them loose.
 
-A bucket rolls toward the center of the saloon, alcohol leaking from a crack, leaving a wet trail as it goes. The second one follows, making the trail a pool, soaking the next one inside out.
+A bucket rolls into the center of the saloon, alcohol leaking from a crack, leaving a wet trail as it goes. The second one follows, making the trail a pool, soaking the next one inside out.
 
 Dean leaps out of the place through the window right before the demons shoot the spot he was in. Bullets and sparks catch the alcohol, the whole place turns into a big pile of flame and smoke in seconds. Demons hiss furiously inside.
 
-The second floor crashes down in the flame. Dean only then realizes he forgets to check if there is any human up there, but it's too late already.
+The second floor crumbles down in the flame. Dean only then realizes he forgets to check if there is any human up there, but it's too late already.
 
 He unleashes the horse by the stable, galloping out of the town, heading west without looking back.
 
 <br>
 
-He doesn't slow down until the burning hut is completely out of view. The sun is setting ahead of him on the horizon. He eases the rein, letting the horse stroll.
+He doesn't slow down until the burning hut is completely out of the view. The sun is setting ahead of him on the horizon. He eases the rein, letting the horse stroll.
 
-Dean glances back at the wild plain territory behind him, barely anything to see. Barren and wild, no sign of civilization.
+Dean glances back at the wild plain territory behind him, barely anything to see. Barren and wild, cactus and weed growing from sand, no sign of civilization.
 
 "No coming back to Sunrise, Wyoming now." He sighs, patting the duffel bag and roll of blanket wrapped tightly on the back of the horse, the same way he'd check the Impala's trunk has everything he needs for the road.
 
 Dean removes the Sheriff's pin from his shirt. "Didn't expect the first gig end up like that, goddamn demons always ruin the day."
 
-He strokes the neck of the horse gently, speaking to her as much as to himself, "What do you think, it's a loud enough distress call to Cas or not?"
+He strokes the neck of the horse gently, speaking to her as much as to himself, "What do you think, that's a loud enough distress call to Cas or not?"
 
 He looks up at the sky. The night is falling slowly, the color transitions from dark blue to deep purple. Some stars that are incredibly bright already start shining and blinking above these lands. Light pollution isn't a thing yet.
 
@@ -706,21 +706,97 @@ Cas only gets time to see a wooden sign with a neat carving saying "Sunrise, WYO
 >
 > (Dean pray to Cas every night, bad feeling)
 
+The life on road on horseback and the life on road in car has more similarity than Dean has ever realized. Like the quietness in the night, the road and space all dark, when it seems the whole world dissolves, leaving only him and the Baby floating in the space.
+
+Except, with the black horse, with its rising and falling rhythm of muscle, the feeling of being accompanied by some live breathing thing is somehow so very soothing.
+
+Dean presses his palms on the horse's back, just to feel its heartbeat. Then slowly feeling his own heartbeat calming down.
+
+He looks up at the starry sky, closing his eyes, exhaling deep, smelling the sand and wood. *Where are you, man?* He can't help thinking, not even sure if that's a prayer or just a haunting thought keep replaying itself in his mind.
+
+He lets the horse decide the road for him, leaving his own mind wandering -- that's another similar yet different experience as driving, one he can actually taking eyes off the road long enough and doesn't have to worry about crushing into another incoming vehicle.
+
+When the night is deep into the dark and cold hour, he lets the horse rest. Finding a relatively soft spot on the sandy lands, wrapping himself in the blanket, he rests his own eyes for a handful of hours. Then moves on again before the sun fully rises.
+
+Dean thinks about that illustration image of the time flux all the time. The shape of a river, and a floating leave flowing down the stream. He feels exactly like that floating leave now.
+
+There are towns scattered here and there on the western lands like stars in the night sky. Without a map, Dean doesn't know how he can find one, but the horse knows the earth better than he does.
+
+She leads them into a small town, its name reads Thunderhill, Colorado, according to the wood flank swinging outside of the town.
+
+The place looks like a replication of Sunrise, Wyoming, except the road through the town slightly wider. Men in fine and well suits come and go on horsebacks, ladies in delicate, laborious dresses. The view is actually somewhat pleasant to enjoy, but Dean is not here for sightseeing.
+
+He goes into the saloon -- at least this has to be universal in all times and all places, there must always be a saloon in each western town.
+
+The girls are more enthusiastic and younger here than Elkins' place. Dean meets their eyes -- they are old-time good-looking, mostly. They grins at him in professional smiles, Dean walks toward the owner of the place and asks for a room.
+
+"You want to pick one you like?" The skinny man behind the counter asks meaningfully, nodding at the girls.
+
+Dean glances back, finding their eyes intensely on his back. He gives a short chuckle, "Nah, just for sleeping."
+
+"Your loss." The man makes a face, pointing him the stairway.
+
+He should probably start planning his grand criminal plan some time soon. Dean thinks as he drags his steps up the stairs, feeling his bones and muscles complaining about sleeping on the wild ground for too many nights in a row, it's making his joints and neck stiff and wrecking like a beat-up car. He has to have at least one decent night before thinking about some big history-breaking movements.
+
+Dean throws himself on the bed that smells something suspicious, but probably wouldn't be too different from those cheap motels he has been used to for his whole life. Dean falls asleep like that without bothering taking his clothes off.
+
+He is waken up by some loud crying and yelling by the next door. A man is angrily shouting "Whore" and cursing, and a girl is screaming helplessly. Something is thrown to the floor, crashing to pieces.
+
+Dean jumps to his feet, dashing out to the next room without thinking.
+
+A man twice bigger than him is standing on the lone bed in the center of the room, all naked and hairy, holding a knife in his hand high above head.
+
+The girl curls at the corner of the bed like a startled little creature, wrapping herself up in arms, covering the face with fingers. Unclothed and crying loudly, screaming for her life. Blood streaming from between her fingers.
+
+Dean recognizes her from the group of saloon ladies that greeted him when he arrived.
+
+He approaches the man carefully, eyeing the knife, shortening their distances, tone demanding, "Why don't you put the knife down and let's talk?"
+
+The man glances back at him for a split second, grumbles, "Go away. None of your business."
+
+"It's my business because I was waken up." Dean takes another step ahead, barely a dive's distance away from him now. He tries to hint the girl to get away while the man's distracted, but the girl is just busy crying. He can't tell where that blood comes from and it worries him.
+
+"Very well." The man gnarls. "I'll deal with you once I kill the bitch."
+
+"Can't let you do that." Dean marches the remaining two steps in a heartbeat, arms dragged around the man's waist, pulling him off balance and falling off the bed. The knife is still in his hand.
+
+The man struggles violently and gets loose from Dean's hold, fumbling on to his feet, throwing himself at him.
+
+Dean gets pinned to the ground by the weight, wrestling with all the fighting skills he has picked up over the years, but the battle techniques for creatures are not as useful on a pissed off cowboy.
+
+The man fights like a gorilla, ending up straddling him with one hand pressing on Dean's chest, stopping him from attempts of getting away, the other hand pressing the tip of the knife on his cheek. "You should keep your nose clean." He grits the yellow teeth.
+
+The knife feels cold against his skin. Dean wonders how much he can move his head before it stabs through his skull.
+
+"Cleaner than yours." Dean barks back, staring the man in the eyes deadly focused as if they're in a gun duel. He moves suddenly, so quick that the other doesn't have time to react, and Dean already breaks his hands free from grasp. He twists his wrist in a way that the man has to loose the hold of the knife, and next second, the knife lands in Dean's hand.
+
+Just in a blink's time, their positions shift. Dean holds the knife an inch away from the man's neck, but already close enough to deliver the idea. The man stills.
+
+Dean demands, "Now you want to explain what's the matter with the lady?"
+
+Right this second, three men dashes into the room, all in uniforms, with a sheriff's pin on the chest of the leading aged man.
+
+"Put down your knife! For Christ's sake." Three shotguns point at him. The Sheriff steps closer, solemnly, eyes moving between both him and the man in his compliance.
+
+Dean knows better than carrying a knife to a gun fight with three cowboy law enforcements.
+
+He lets his hand fall and tied behind his back by a rough rope. The other guy tied to the same wooden stake on the ground.
+
+The Sheriff glares between them. "Now, talk!"
+
+Dean purses his mouth. 
 
 
 
-
-
-
-###### [TBA]
+\* End of story notes: reference of the cowboy stories get inspired and fused from *Unforgiven (1992)*
 
 #### draft notes
-
-(start scene with Dean pray, start anxious about Cas hurt, bad feeling)
 
 ("Unforgiven":) Enter town Thunderhill, Colorado, help saloon prostitutes revenge the cowboy, as bounty hunter, solve the injustice by gun duel
 
 ("Butch Sundance":) Rob bank in Pinecrest, Utah; rob train in Deadwood, Arizona
+
+(start scene with Dean pray, start anxious about Cas hurt, bad feeling)
 
 **Start montage/newspaper clips:** banks robbed/cowboy killed/robin hood appeared/gold mine robbed in Rattlesnake Bend, Nevada; Cattle Creek, Kansas; Silver Gulch, California ("I was never in Kansas!" "guess that's how story travels") (fast-forward quickly, explain later in flashbacks/catch-ups if need to)
 
