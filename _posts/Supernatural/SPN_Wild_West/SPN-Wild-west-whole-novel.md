@@ -3,8 +3,8 @@ layout: post
 title: 【Destiel】Long Way Home
 date: 2025-02-10
 categories: ["SPN"]
-characters: ["Castiel", "Dean Winchester"]
-tags: ["Supernatural", "destiel", "英文"]
+characters: ["Castiel", "Dean Winchester", "Samuel Colt", "Bobby Singer", "Butch Cassidy"]
+tags: ["Supernatural", "destiel", "英文", "Butch Cassidy and the Sundance Kid"]
 pov: 第三人称
 origin: 2025 DeanCas Wild West Fest
 long_novels: 【Destiel】Long Way Home
@@ -117,6 +117,8 @@ some town names:
 ### Edit note
 
 keep Sam out of picture from beginning, only Dean travel alone and make noise, Sam stay at Samuel's place all the time
+
+passing line: Dean hates he can't use cellphone, really want to have a call to make sure people he care about are sa
 
 ## Main
 
@@ -1010,7 +1012,7 @@ Dean relaxes his muscles, leaning back to the back of the seat. "I'm not like an
 
 "Then why don't you go back to her?" Butch asks, not in a manner of probing privacy, but genuine wondering like a friend would do.
 
-Dean decides there is no point of correcting the pronoun, just to not complicate things. "I'm on my way." He says. "We get separated, so now I need to figure out my way to home."
+Dean decides there is no point of correcting the pronoun, just to not complicate things. "I'm on my way." He says, as much of a fact as he can offer. "We get separated, so now I need to figure out my way to home."
 
 "You have a home to go back to." Butch looks surprised. "Most people around here don't, that's why we move all the time."
 
@@ -1018,7 +1020,7 @@ Dean hums, taking another sip, not really tasting the flavor of the liquid, wond
 
 "You alright?" Butch reads his face.
 
-Dean hates it when people around him seem always can read his thoughts on his face. "Yeah," he finishes the drink, leaving the glass on the bar and standing up. "Need some sleep now, see you in the morning. Have a good night."
+Dean hates it when people around him seem always can read his thoughts on his face. "Yeah," he finishes the drink, leaving the glass on the bar and standing up. "Can use some sleep now, see you in the morning. Have a good night."
 
 Butch nods, and wishes him a good night.
 
@@ -1026,19 +1028,71 @@ Dean lies in the saloon bed for hours, listening to the folk music continuing de
 
 <br>
 
- 
+They keep an eye on the newspaper and posters while moving around. It's always good to know what the lawmen know about them. And for Dean, he certainly can use a good indication of how big of a noise in the era that he has made.
 
+The newspapers aren't always accurate -- as they have forever been. But at least the big titles usually get their names right, some included their sketches similar to the wanted posters, others tell an over-detailed story of their robbery:
 
+"Bank robbed in Rattlesnake Bend, Nevada" -- with a photo of empty case where the gold is supposed to be.
+
+"Cowboy killed in Cattle Creek, Kansas, Clint Eastwood's new headcount" -- with paragraphs after paragraphs of some witness saying how legendary he is, but not in the coldblooded way, only charming and attractive, and that dead cowboy was a bully in the town.
+
+Dean is amused at that one. "We were never even in Kansas!"
+
+And Butch answers with: "That's just how the story travels."
+
+"Silver Gulch, California: Robinhood appears" -- the small secondary title: "Mine robbed, Gold for the whole town". A pissed off mine owner's curses take over most of the report.
+
+"Well, that one we might can actually try." Dean says.
+
+Butch hums. Dean's not sure if it means agreement or the opposite.
+
+They have a debate over whether to go to California or New Mexico next when they reach the far south of Arizona.
+
+They end up turning east.
+
+"Would be good to see those mines." Dean mumbles.
+
+"That's just rumor and daydreams." Butch answers.
+
+<br>
+
+The wanted posters with their faces already reach New Mexico ahead of them. Dean has grown beards ever since he saw the first poster in Utah, but the features are probably still recognizable.
+
+They lay low and only sit in the corner seats of the inn.
+
+Dean makes sure his cowboy hat is low enough when he drinks the beer and glances around, staying in the shade. Butch Cassidy and the Sundance Kid sit in the next table, the rest of the gangs scattered around in the town.
+
+The folks sitting by the table next to his chat loudly. He hears the name "Clint Eastwood" occurs in their talks, so he can't help listening in with all the attention.
+
+"You heard about the new rising star of a cowboy?" One of the folks say, "Name Clint Eastwood."
+
+"How big of a name is he?" Another asks, "Louder than Jeremiah Johnson?"
+
+There are laughter in that table. "Bear fighting isn't news anymore, Eastwood is. Rumor says he moves with Hall-in-the-Wall gangs, shooting quicker than the Sundance Kid. But he doesn't shoot unless the guy has it coming. He plays poker, robs banks, puts on a good old gun duel and never loses. Best of all, not like other gangs, he doesn't take the gold and cash for himself, he gives them to people in need. Poor people, folks like you and me."
+
+"A savior and a saint." Someone mocks in laughter. "Exactly what we need nowadays."
+
+"Robin Hood, more like." They say.
+
+"But it doesn't matter how much folks love him, the companies and states sure as hell hate him. I heard Union Pacific Flyer already gathered a posse after the gang, Eastwood, Cassidy and the Sundance Kid are all on their kill-at-sight list. They must decide can't afford to have more trains robbed like that."
+
+Dean finishes the rest of his drink in one pull and leaves the place quickly enough.
+
+The rumor is surely not an ungrounded chatter. Under the night sky, hundreds of miles away on the land to their west, there are a dozen lights as small as fireflies in the summer night moving up and down, in the same pace of horses' running. The night covers the figures, but the hunter's instinct already kicks in, he moves toward his horse.
+
+Butch and the Sundance Kid are right after him when he leaves the place.
+
+"Whatever they're selling, I ain't buying." Butch says.
+
+They dash out of the town, then out of the state, heading north.
+
+<br>
 
 \* End of chapter notes: references of the cowboy stories are inspired and fused from *Unforgiven (1992)*, *Butch Cassidy and the Sundance Kid (1969)*, *The Outlaw Josey Wales (1976)*.
 
-#### draft notes
-
-**Start montage/newspaper clips:** banks robbed/cowboy killed/robin hood appeared/gold mine robbed in Rattlesnake Bend, Nevada; Cattle Creek, Kansas; Silver Gulch, California ("I was never in Kansas!" "guess that's how story travels") (fast-forward quickly, explain later in flashbacks/catch-ups if need to)
-
-In a inn, he hide faces, listen to folks chatting about them, legendary rumors about how he "play poker, enjoy gun fights and win, rob gold mine and distribute gold to poor people", call him Robin Hood, say railway company & mine owner unite together, initiate posse to chase after them, he leave the inn quickly, notice the six horses with lanterns approach, start running
-
 <br>
+
+#### draft notes
 
 states to go: Wyoming, Colorado, Utah, Arizona, Nevada, California
 
@@ -1051,8 +1105,6 @@ some town names:
 - Rattlesnake Bend, Nevada
 - Cattle Creek, Kansas
 - Silver Gulch, California
-
-(passing line: Dean hates he can't use cellphone)
 
 (robbing bank/train)
 
