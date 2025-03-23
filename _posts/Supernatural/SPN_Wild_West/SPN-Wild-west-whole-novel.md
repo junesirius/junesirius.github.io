@@ -910,7 +910,7 @@ Butch doesn't notice his pause, just shrugs. "There will be more once we finish 
 
 Dean laughs and nods, drinking the alcohol in the glass. It's not beer, and it tastes better than Elkins' stock.
 
-"You have job in this town?" Three drinks later, Dean asks. With poker cards in his hands, the Sundance Kid is dealing.
+"You have job in this town?" Three drinks later, Dean asks. With poker cards in his hands, Sundance is dealing.
 
 "Right down the road, the new bank has only two guards and closes at sunset." Butch tells him. Dean wonders curiously how come no one in the place hears their loud discussion of a robbery and not raise an alarm. But glancing around, judging by how drunk most forks are and it's still in the bright afternoon, the answer isn't too difficult to realize.
 
@@ -918,7 +918,7 @@ Dean laughs and nods, drinking the alcohol in the glass. It's not beer, and it t
 
 Dean looks at his cards, pretending he's thinking about what to play next. "Sure." He says, picking two cards and throwing on top of the ones Butch just played.
 
-"Kid can cover you if things go bad." Butch says in a light tone, no sign of worry or concern.
+"Sundance can cover you if things go bad." Butch says in a light tone, no sign of worry or concern.
 
 "I'm relieved." Dean answers with a smile.
 
@@ -926,7 +926,7 @@ They leave the saloon about half an hour before the sunset. Not all of them can 
 
 The robbery goes smoothly.
 
-"The money isn't yours, life is. The company will pay the loss, don't try to be a hero." Butch tells the people in the bank, with a gun in his hand. Dean and the Sundance Kid by his side.
+"The money isn't yours, life is. The company will pay the loss, don't try to be a hero." Butch tells the people in the bank, with a gun in his hand. Dean and Sundance by his side.
 
 The guards don't even try to keep up a fight. Dean lock them inside the safety chamber and take the case with gold and cash out, passing to Butch.
 
@@ -944,7 +944,7 @@ They keep moving south.
 
 <br>
 
-Dean notices a poster of his own face outside the bank in a town in Arizona during scouting. Next to the ones of Butch and the Sundance Kid. Headlining the price of wanted. The name under his sketch is "Clint Eastwood", at least that makes he smile a little.
+Dean notices a poster of his own face outside the bank in a town in Arizona during scouting. Next to the ones of Cassidy and Sundance. Headlining the price of wanted. The name under his sketch is "Clint Eastwood", at least that makes he smile a little.
 
 He goes back to Butch and says it might not be a good idea to rob here again, the guards can probably recognize them easily enough.
 
@@ -1074,13 +1074,13 @@ There are laughter in that table. "Bear fighting isn't news anymore, Eastwood is
 
 "Robin Hood, more like." They say.
 
-"But it doesn't matter how much folks love him, the companies and states sure as hell hate him. I heard Union Pacific Flyer already gathered a posse after the gang, Eastwood, Cassidy and the Sundance Kid are all on their kill-at-sight list. They must decide can't afford to have more trains robbed like that."
+"But it doesn't matter how much folks love him, the companies and states sure as hell hate him. I heard Union Pacific Flyer already gathered a posse after the gang, Eastwood, Cassidy and Sundance are all on their kill-at-sight list. They must decide can't afford to have more trains robbed like that."
 
 Dean finishes the rest of his drink in one pull and leaves the place quickly enough.
 
 The rumor is surely not an ungrounded chatter. Under the night sky, hundreds of miles away on the barren, open land to their west, there are a dozen lights as small as fireflies in the summer night moving up and down, in the same pace of horses' running. The night covers the figures, but the hunter's instinct already kicks in, he moves toward his horse.
 
-Butch and the Sundance Kid are right after him when he leaves the place.
+Butch and Sundance are right after him when he leaves the place.
 
 "Whatever they're selling, I ain't buying." Butch says.
 
@@ -1088,7 +1088,7 @@ They dash out of the town, then out of the state, heading north.
 
 <br>
 
-\* End of chapter notes: references of the cowboy stories are inspired by and fused from *Unforgiven (1992)*, *Butch Cassidy and the Sundance Kid (1969)*, *The Outlaw Josey Wales (1976)*.
+\* End of chapter notes: references of the cowboy stories are inspired by and fused from *Unforgiven (1992)*, *Butch Cassidy and the Sundance Kid (1969)*, and *The Outlaw Josey Wales (1976)*.
 
 <br>
 
@@ -1226,7 +1226,7 @@ Cas is too wounded to fly again and can't risk using his power in case he gets n
 
 (facts but only reveal later in catch-up/flashbacks: To stay in the town for longer and not raise suspicion, Cas starts working in a ranch just to continue pretending to be a normal human. Cas is still weak and low in power, but as time goes by, he's growing back.)
 
-### Chap.5 (Dean meet Cas)(Sunrise, 1861, Dean+Cas)
+### Chap.5 (Dean meet Cas)(Sunrise, 1861, Dean POV+Cas)
 
 > **Outline:** Dean get chased around by the posse, not realize he's chased back to Sunrise, Wyoming where it all starts; get cornered into the sheriff's office, no escape, too much guns ("are they human or demons?"), Dean desperately pray to Castiel, get jump attacked by a stranger appearing from nowhere, very obviously trying to kill them and very good at fighting, and after a few rounds they realize he's not human. It's Castiel, the original 1860s timeline version, receives order that they're disturbing the timeline and comes to eliminate them (Castiel: "You pray too loud. I really don't know why you act like we are familiar" Dean: "I almost forget how big of an asshole you were before").
 >
@@ -1258,9 +1258,9 @@ Butch pats his back. "Take care, brother."
 
 Dean gives him a cowboy salute.
 
-So is the Sundance Kid.
+Same with the Sundance Kid.
 
-Dean keeps going north. He doesn't keep track of Butch and the Sundance Kid. They head east now, probably. Kansas is worth a visit and they can probably do those things the papers said they did but they haven't got chance to. Dean thinks, urging the horse to keep up the pace again.
+Dean keeps going north. He doesn't keep track of where Butch and Sundance are going. They might head east now, likely. Kansas is worth a visit and they can probably do those things the papers said they did but they haven't got chance to. Dean thinks, urging the horse to keep up the pace again.
 
 There are more than half a dozen of the posse following him, by the count of the shaky lanterns.
 
@@ -1354,17 +1354,17 @@ His eyes still have glaring angelic lights, his palm pressed on the head of his 
 
 Then the process finishes. Cas leaves that soldier's vessel on the ground. There is no sign of an angel in that nerveless body, no showing of whether the Castiel from this timeline is still in that body or if he's still alive.
 
-Dean stares at him, "Cas?" He gasps, finding his throat choked. "Did you just... kill yourself?"
+Dean stares at him, "Cas?" He gasps, finding his throat choked. "Did you just... kill the other you?"
 
 "No," Cas meets his gaze, and holds it. The familiar stare between them, the one that is soothing and anchoring. "I just absorbed the grace I needed, and wiped the memory to avoid any paradox."
 
 Dean gestures the lifeless body uncertainly. "Wouldn't that hurt... you? The old you?"
 
-And Cas answers, tone flat, "He has plenty time to recover, I don't. I can use some grace of my own."
+And Cas answers, tone flat, "He has plenty time to recover, I don't."
 
-"God, you're cruel to yourself." Dean wipes the corner of his eyes, closing the distance between them, wrapping his arms around Cas tight. "Thank goodness."
+"God, you're cruel to yourself." Dean wipes the corner of his eyes, closing the distance between them, wrapping his arms around Cas tight, his chin pressed on his shoulder. "Thank goodness you're here. So good to see you again."
 
-Cas puts his arms around Dean's back, and presses him hard. He swallows, and says quietly, "I finally found you."
+Cas puts his arms around Dean's back, and presses him hard. He swallows, and says quietly, "Hello Dean."
 
 There is something in his voice gives Dean a shivering chill. He pulls back, still keeping a hand on Cas's shoulder. By the sheer light leaking into the place from outside, he checks Cas up and down, frowning at his farmer's shirt and cowboy's pants. So uncomfortably blended in and human look. He looks more disheveled than Dean ever remembers, dirt and dust cover his face and clothes like he's been on the road for so long that the sand from the wild west has already carved into his skin. The look that belongs to all the cowboys from this era.
 
@@ -1578,15 +1578,127 @@ The gun is pressed to his thigh, still feeling hot. Cas wonders if Dean would ha
 
 #### Act 3
 
+The town in California is also a fool's errand. The mine that is said to be robbed, they never has any gold to begin with. Upon Cas's very persuasive query, the mine owner admits it's just a way to keep the miners' mind in peace.
 
+"Clint Eastwood is just a convenient name to put." The man murmurs.
 
-\* End of chapter notes: references of the ranch life are inspired by and fused from *Legends of the Fall (1994)*.
+"And why is that?"
 
-#### draft notes
+"Oh because he's gonna die soon, we can just say the gold is gone with him." The mine owner shrugs. "The railway companies have been recruiting the best men to join a posse to go after him and his gang. They have the best trackers that can find any man in the whole world like a rabbit in a hole. Think the railway can't take any more robbery loss now."
 
-"Silver Gulch, California: Robinhood appears" -- the small secondary title: "Mine robbed, Gold for the whole town". A pissed off mine owner's curses take over most of the report.
+Cas scowls at the news and lets the man go. "Where can I find this posse?"
 
-Cas finds newspaper & saloon chatter about Dean become wanted, Cas join posse to follow him (also try persuade people don't shoot him), Dean keep running away from posse, until the day confronted by 1861!Cas, Cas catch up, persuade rest of posse to go in there alone, fight/blast the old self away
+"Try Thunderhill, Colorado. Heard the sheriff there volunteered. Probably a personal grudge."
+
+The town name rings a bell. Didn't that skinny bartender and saloon owner say he's from the same place?
+
+Cas rushes the horse as he rides across the land toward Colorado, wondering just how much trouble Dean has got himself into back in Colorado.
+
+<br>
+
+Cas finds the posse the night before they head out. The town sheriff Little Bill is counting the head. They are one person short of a dozen, so Cas makes to the last spot.
+
+Little Bill tells them a story at the saloon many months ago, and how ruthless Clint Eastwood was when he murders men and humiliates women. The story sounds nothing like Dean, but everyone in the posse gets so inspired they all shouts damnation to this Clint Eastwood they've never met and eager to head out hunting the man down.
+
+Cas wants nothing but yell at these men, telling them how wrong they are and how misleading those stories are. But then he would for sure get kicked out of the posse with no way of finding Dean again, all while a group of cowboys hunting him down like hounds chasing hares.
+
+He bites on his own lips to not show any sign of disapproval.
+
+"You with us, Novak? Hunt the man down and kill him by all means?" Little Bill stares at him when he doesn't jump up and down like the others.
+
+Cas forces a quick smile and nods. "Yes, by all means."
+
+<br>
+
+The Indian trackers are indeed exceptional in keeping up with the tracks.
+
+Sometimes when there are absolutely no track to his eyes, both his human eyes and true eyes, the Indians can still give them clear directions to go.
+
+They pick up the days old trace from Nevada, moving to south east, then following all the way to New Mexico.
+
+Cas thinks he catches a glimpse at three horses on top of the mountain, hundreds of miles away. One of the figures is so familiar that his heart skips a beat. But when they reach that spot, the men are another hundreds of miles away again, like a flyaway mirage.
+
+Cas wonders if he's hallucinating their figures.
+
+They keep moving. So are them.
+
+When they are back to Colorado, the Indians tell Little Bill the traces are split into two ways.
+
+The sheriff curses. "They must separated."
+
+Cas asks, "Which way has less people?"
+
+The Indians point the way to the north.
+
+Cas urges his horse toward the pointed direction. "I'm going that way." He states, quietly hoping the group could also split, and that less would choose to follow Dean.
+
+Which, of course, turns out one's wish is never granted, as their luck always go.
+
+<br>
+
+As the hint of winter closing in, they follow the trace to the town in Wyoming.
+
+Cas recognizes the town the moment they roll in. Sunrise, Wyoming, where all the messes start. He never thought he'd be back here again. The saloon house has been rebuilt in the past months. No sign to show the old one has been burnt down in a fire.
+
+Dean gets cornered in the sheriff's office. Flickering lights show his silhouette on and off, switching between windows. Cas watches him, thinking this is the closest they've ever been since last time they were both in this town.
+
+Dean's prayer reaches him, pained and desperate, asking for him. With the distance so close, they can probably hear each other if they just speak loud enough.
+
+Cas gets off the horse, and tells the sheriff he'll go in there first. Alone.
+
+Little Bill eyes him. "He'll shoot you like a walking sieve."
+
+Cas answers plainly. "Maybe he will, maybe he won't."
+
+Little Bill regards him closely, up and down, as if taking his shabby clothing and his look in for the first time. "You know him, don't you? That's why you want to join, probably never even thought about killing him for once. A lover?"
+
+Cas keeps his face stoic, standing still. Keeping his eyes on the sheriff's office. Dean's prayer continues, so half his attention is taken away from the conversation before him.
+
+The man smirks, reaching for his gun, swinging casually at him. "Maybe you're just making all our lives easier, we can lure him out without a fight."
+
+The rest of the posse starts moving toward him. The men and the horses circle around him.
+
+"Don't." Cas warns them, jaws tights, eyes flashing between them and where Dean is.
+
+They laugh, shrinking the circle, facing away from the sheriff's office.
+
+There is a sudden burst of glaring light from inside the sheriff's office, the air vibrates with electricity. At the very same moment, guns go off, and Dean's prayer hitches.
+
+Cas turns around sharp, drawing his gun at the posse. They draw theirs, firing at the same time.
+
+Bullets hit him, back and leg and arm, warm blood streaming down, but Cas keeps standing, continues the shooting. The other men are surprised, soon terrified. Some of them see the wounds that would for sure kill a man but not even slow him down, they rise to the horses and want to run. Cas shoots their legs and they fall to the ground in loud moaning, until no men leaves standing.
+
+Little Bill falls from his horse too, crawling desperately with a wounded leg, as Cas walks toward him, pointing a gun to his face. The man widens his eyes in horror. Cas pulls the trigger, he flinches violently. But the gun is blank. Cas pulls it again, he flinches again. For three times, Cas watches the horror growing in the man, he throws the empty gun at him, then hurries toward the sheriff's office.
+
+The barricaded door is easy to break, the light inside the room is blinding to any human. But for Cas, the shapes are familiar. One belongs to Dean, the other his old self.
+
+Dean is on the ground, backing up, holding himself, both of the guns in his hand are out of bullets. His old self is preparing for a deadly strike.
+
+Cas tears him away from Dean, unfolding his own true forms. The wings are barely healed, the new bullet wounds slow his vessel down, but Dean is here. If he loses, it would mean his old self, if keep following the order as he knew he would, is going to kill Dean. *He*, would be the one who causes Dean's death. And Cas can't allow that happen.
+
+He fights like there is no future, and his old self is no match. Drinking in his own grace, he knows his past self would be wounded for decades maybe centuries, but he's here, now, no memory of this encounter, which means there is no consequence that is too severe to bear. He drains his past self and wipes the memory, sending him back to Heaven.
+
+Like he tells Dean, his past self has the luxury of healing slowly, he doesn't.
+
+The new grace he absorbed heal himself well, both the body and the true form grow strong and complete.
+
+Cas turns to Dean, finally. Finally.
+
+*It's been a long time.* He thinks, breathing out long and relieved. *You have no idea how long it has been. And I finally find you.*
+
+He says none of that, only to hold the man tight, with all his forces but careful enough not to break him.
+
+Dean's breath is uneven over his shoulder. They hold each other like that, just to breathe together, in the same space, in the same time, one hundred and fifty years too early, hundreds of thousand of miles too far. And yet, they are at ease.
+
+Breathing in, breathing out. The warm and solid touch under the hands. The bone, the muscle, the skin; the hair, the stubble, the freckles.
+
+Cas scrutinizes him once they pull apart. The face and look that is all so familiar, but the long beard and the new wrinkles crimpled by the western sand and wind make the face new and mature. The eyes trained on his, sparkling with glitters.
+
+Eventually, Cas decides, all he can say is just, "Hello, Dean."
+
+<br>
+
+\* End of chapter notes: references of the ranch life are inspired by and fused from *Legends of the Fall (1994)*, the cowboy stories are consistent with the previous chapters and continuously inspired by *Unforgiven (1992)*, and *Butch Cassidy and the Sundance Kid (1969)*.
 
 ### Chap.7 (reunion, go home)(Sunrise+Bobby's, 1861+2011, Dean+Cas)
 
