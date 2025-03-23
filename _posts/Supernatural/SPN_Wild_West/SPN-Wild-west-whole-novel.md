@@ -516,7 +516,7 @@ Dean stands up, moving around the table, leaning in to give his brother a half-h
 
 "And how do I find you, if I find the spell?" Sam asks.
 
-Dean smiles. "Read the newspaper."
+Dean grins. "Read the newspaper."
 
 <br>
 
@@ -1730,7 +1730,7 @@ Cas nods quietly.
 
 They are sitting by the sheriff's desk now, pulling the two chairs close, their knees touching. Dean's fingers absent-mindedly fumble with the sheriff's pin on the desk.
 
-"But somehow also a simple one." He says, remembering the vast landscape in front of him, infinite. The edge of the ocean can't be seen from there. On the horseback, on this land, he is free.
+"But also a simple one." He says, remembering the vast landscape in front of him, infinite. The edge of the ocean can't be seen from there. On the horseback, on this land, he is free.
 
 "The life in the ranch is also simple." Cas says. "Quiet. Too quiet you might find it boring. That's probably why old Ludlow's second son has to go into the woods looking for bears to fight."
 
@@ -1742,7 +1742,9 @@ Quietness fall between them again. Calm and comfortable. They just sit there, wi
 
 They're not eager to go anywhere, or any time. They've spent too long to get to this point, at least earned a moment to take a breath.
 
-Dean's mind wanders to the ranch in Cas's words. He doesn't need to see the place to know it must be something Cas would enjoy. The livestock and the wild lives, the creatures and the woods. The growing up kids, girls and boys growing to be become fine ladies and gentlemen -- or wild girls and uncivilized hunters, if they choose to. They can own a small hut of their own, takes possession of a small corner of the ranch. They can attend to the ranch then watches sunset from the porch. The air would smell like wood and grass, their hands gnarled from farm work instead of gun shot. Dean blinks hard, thinking, that doesn't even sound half bad. Sam is welcome to stay, or find another ranch of his own with someone he enjoys to spend time with. They can just live normal, quiet lives, and probably die of boredom, or old age, or too much healthy natural food, some time around the corner of the twentieth century. He finds himself doesn't mind that they would not even live to the day that Impala is produced or the day Led Zeppelin starts their touring. With Cas, and Sam, safe and happy and with him, there isn't much else to ask for. Dean smiles.
+Dean's mind wanders to the ranch in Cas's words. He doesn't need to see the place to know it must be something Cas would enjoy. The livestock and the wild lives, the creatures and the woods. The growing up kids, girls and boys growing to be become fine ladies and gentlemen -- or wild girls and uncivilized hunters, if they choose to.
+
+They can live there, own a small hut of their own, take possession of a small corner of the ranch. They can attend to the ranch then watch sunset from the porch. The air would smell like wood and grass, their hands gnarled from farm work instead of gun shot. Dean blinks hard, thinking, *that doesn't even sound half bad*. Sam is welcome to stay, or find another ranch of his own with someone he enjoys to spend time with. They can just live normal, quiet lives, and probably die of boredom, or old age, or too much healthy natural food, some time around the corner of the twentieth century. He finds himself doesn't mind that they would not even live to the day that Impala is produced or the day Led Zeppelin starts their touring. With Cas, and Sam, safe and happy and with him, there isn't much else to ask for. Dean smiles.
 
 "What are you thinking?" Cas breaks the silence.
 
@@ -1792,7 +1794,9 @@ Dean relieves, turning to hug Bobby so tight that makes the old hunter grumbles.
 
 "Oh." Dean stills, remembering that's true for him.
 
-Bobby looks exactly the same as before, as he should. So is this room, or the state, or the world. Except for them, Bobby takes them in -- Dean has long, cowboy's beard and wrinkles from dry and sand, Sam changes the least, only with longer and messier hair, and Cas, almost totally a new different being, with his over human-like ranch and cowboy clothing. Bobby squints at them, "You have to tell me everything."
+Bobby looks exactly the same as before, as he should. So is this room, or the state, or the world. Except for them.
+
+Bobby takes them in -- Dean has long, cowboy's beard and wrinkles from dry wind and sand; Sam changes the least, only with longer and messier hair; and Cas, almost totally a new different being, with his over human-like ranch and cowboy clothing, and the deep look on his face. Bobby squints at them, "You have to tell me everything."
 
 So they do.
 
@@ -1808,7 +1812,7 @@ A life in the past, can be their future.
 
 And in the end, in the very, very end, when all is done, that is indeed, exactly, what he gets.
 
-They have a banjo, Cas has a harp. The music is beautiful, so is the dance. They are happy, content.
+They have a banjo, Cas has a harp. The music is beautiful, so is the dance. They are happy, content. Home.
 
 Dean decides, he wants nothing more.
 
