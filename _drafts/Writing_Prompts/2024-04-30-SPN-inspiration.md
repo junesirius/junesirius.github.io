@@ -4,7 +4,7 @@ title: 【SPN】记梗（持续更新）
 date: 2024-04-30
 categories: ["SPN"]
 characters: ["Dean Winchester", "Sam Winchester", "Castiel"]
-tags: ["记梗", "Supernatural", "温家兄弟", "destiel"]
+tags: ["记梗", "Supernatural", "温家兄弟", "destiel", "Cockles", "Jenmish"]
 pov: 第三人称
 origin: 个站
 published: false
