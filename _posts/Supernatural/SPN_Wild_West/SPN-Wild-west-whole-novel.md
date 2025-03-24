@@ -116,9 +116,15 @@ some town names:
 
 ### Edit note
 
-keep Sam out of picture from beginning, only Dean travel alone and make noise, Sam stay at Samuel's place all the time
+~~keep Sam out of picture from beginning, only Dean travel alone and make noise, Sam stay at Samuel's place all the time~~
 
-passing line: Dean hates he can't use cellphone, really want to have a call to make sure people he care about are safe
+~~passing line: Dean hates he can't use cellphone, really want to have a call to make sure people he care about are safe~~ (give the line to Cas)
+
+Chap.7: Major rewrites, don't like it, too emotionally remote and abrupt, and spoil the future events -> pretend only knows so far until S06E18, but give hopeful ending that *maybe* when all is done, that's the thing they can have, in the end
+
+(phrasing) saloon girls: "with practiced cheer"
+
+Add an epilogue? follow-up of Butch Sundance, potential change to the movie? a passing line that mentioned "Eastwood"? Butch's POV? destiel's movie night and that's how they find out? Dean finds his own sketch in the movie? follow-up of Little Bill? to show they didn't make much disturbance to the history but Dean did make a name for himself as cowboy and he liked it
 
 ## Main
 
