@@ -2235,4 +2235,15 @@ ten years ago, Misha running the hill and almost died but saved by the water com
 
 ten years later, the fire again, lake being drained to save fighter. not in danger, not purified, only sadness, only the runner in these hills
 
-### 249.
+### 249.【jenmish/human destiel】Junk Mail
+
+(inspired by Misha's poem "Junk Mail")
+
+domestic life or long distance miscommunication
+
+one version is Neil Gaiman style, the marriage proposal story, reading the junk mail describing a life never had
+
+different version is two living far apart and received junk mail but thought it's real, angst, mutual pining
+
+### 250.
+
