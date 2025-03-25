@@ -2225,4 +2225,14 @@ or if like S08E23 once Cas find out Dean will be the sacrifice and will die, he'
 
 so when Dean comes to, he's healed, Cas's either human like S09 start or fading like S10 start
 
-### 248.
+### 248.【jenmish/destiel】firefighter AU
+
+(inspired by Misha's poem "Fire and Water")
+
+ten years ago and later, LA fire
+
+ten years ago, Misha running the hill and almost died but saved by the water coming from the helicopter, god-given like
+
+ten years later, the fire again, lake being drained to save fighter. not in danger, not purified, only sadness, only the runner in these hills
+
+### 249.
