@@ -14,9 +14,7 @@ published: false
 
 [TOC]
 
-(tag: canon-divergent, purgatory, giant Cas, misshaped Cas, minor body horror, mutual pining, angst, loosely S8-tied, slow burn, wings, true form Cas, canon-level violence, happy ending)
-
-(warning: graphic depiction of violence)
+(tag: canon-divergent, purgatory, giant Cas, misshaped Cas, minor body horror, mutual pining, angst, loosely S8-tied, slow burn, wings, true form Cas, canon-level violence, happy ending, hurt/comfort)
 
 ## Draft
 
@@ -101,6 +99,8 @@ Chap. 2, the legends of the giant fish and bird: quote from 庄周《逍遥游�
 
 Chap. 2, how does Dean know about the names of the trees, plants, creatures and birds: apparently Cas has dragged him to watch Nature channel together more than once, and he actually paid attention. Especially the bird part, he doesn't even realize he has a thing for them until much later and also in here, he realizes he does memorized those things and names he watched, while thinking about Cas's wings. But still, even when they were watching together and when he was definitely thinking about Cas's wings, he never really asked, so he never know Cas's wings true color or there are three pairs of them. (could potentially add an epilogue of watching bird Nature channel together or go back to the Redwood again with Cas guiding and introducing the creatures/plants, and Dean's knowledge surprise Cas too)
 
+Chapter titles "In your eyes" "Inside my minds": "your" and "my" mean both of them
+
 ### Dean's mental state
 
 ≈S08E01-07
@@ -125,7 +125,7 @@ so every time Cas fights hard to tear through dimension to get to this plane, to
 
 (general, especially Chap. 1) memory from Purgatory use past tense, the rest use present tense
 
-(Chap. 1-4, 2-4) Cas's POV, 1st person view to 3rd person view? but maintain Cas's POV
+~~(Chap. 1-4, 2-4) Cas's POV, 1st person view to 3rd person view? but maintain Cas's POV~~
 
 wings flutter -> rustle
 
@@ -133,13 +133,17 @@ wings flutter -> rustle
 
 (Chap. 3) Dean has no body but only eyes, "like the one painted on Missouri's round table"
 
+(during posting, on AO3) posting Chap 1 Act 1,2,3 as Chap 1-1, Act 4 as Chap 1-2 (second AO3 chapter but same my chapter title); same for Chap 2; Chap 3's Appendix put at the very last, after last chap, then Chap 3's after-work notes link to appendix (once published and have link)
+
 ## Main
 
-### Chap. 1 On the Mountaintop (Back+Yeti)
+### Chap. 1 On the Mountaintop (Back+Snow storm)
 
 > **Outline:** Dean comes back from purgatory, witnesses Cas get torn apart the moment he pass through the portal and disappears, doesn't know if Cas is killed in the process, determined to find Cas if he's not (self-comfort: maybe he's just pulled away, like angel-banishing spell). Dean goes to find Sam, Sam is living with Amelia happily (Kermit, Texas), Dean decides not pull him out of apple pie life again, goes to hunt/search on his own, actively looks for monster/Leviathan/angel sign
 >
-> Dean finds case of yeti in snow mountain (Rocky Mountain, Colorado), rumor says bigfoot trace but not bare foot, dress shoe trace, witness says seeing trench coat fabric but must be hallucination, Dean raises hope, starts searching, finds tear of dimension and bloody coat fabric in it (too big), believes Cas is out there (keep feeling being watched). finds actual Yeti escaped from purgatory, Yeti-Troll fights, Dean gets in between and almost gets killed, saved by angelic light but can't see Cas; the grace light weave into tear, sends monsters back and fix the hole, Cas gets pulled away as it closes [+Cas POV: dark, confused, chaotic, torn apart, pieces, stumble foot print in snow, pulled away before manifest]
+> Dean finds case of yeti in snow mountain (Rocky Mountain, Colorado), rumor says bigfoot trace but not bare foot, dress shoe trace, witness says seeing trench coat fabric but must be hallucination, Dean raises hope, starts searching, finds tear of dimension and bloody coat fabric in it (too big), believes Cas is out there (keep feeling being watched). finds actual Yeti escaped from purgatory, Yeti-Troll fights, Dean gets in between and almost gets killed, saved by angelic light but can't see Cas; the grace light weave into tear, sends monsters back and fix the hole, Cas gets pulled away as it closes
+>
+> [+Cas POV: dark, confused, chaotic, torn apart, pieces, stumble foot print in snow, pulled away before manifest]
 
 #### Act 1
 
@@ -175,7 +179,7 @@ Dean punches the wheel, swearing, cursing. The first hint of the sunrise emerges
 
 Dean wipes his eyes with the back of his hands. The wetness mixes with the dirt and dried blood stains that still cover his hands, making a mess. He presses the accelerator pad harder, urging the vehicle forwards, as if he's rushing to a destination, as if he knows where to go, or where to find Cas.
 
-"You are not dead, Cas." Dean growls at the empty road ahead of him. "You're not gone, I know that. Just blown away by the portal or something. I'll get you back, Cas, I promise. I can find you in the Purgatory, I'll find you again."
+"You are not dead, Cas." Dean growls at the empty road ahead of him. "You're not gone, I know that. Just blown away by the portal or something. I'll get you back, Cas, I promise. I can find you in the Purgatory, I'll find you again."  # FIXME: make it shorter
 
 The car rolls ahead in a louder engine moan, speeding on the road that is slowly lightened up by the newborn sun.
 
@@ -269,7 +273,7 @@ Hector stutters. "Chill, man. Just some story time. I was telling the ladies the
 
 Dean lets him go. "And you say he's on top of the mountain in a snow storm like this one?"
 
-"*He*?" Hector flattens his wrinkled clothes, laughing, "Yeah, sure, on the highest top, standing by a big pile of fire with cooked human meat, dancing with other female yetis!" The group of tourists burst into a huge outburst of laughter.
+"*He*?" Hector flattens his wrinkled clothes, laughing, "Yeah, sure, on the highest top, standing by a big pile of fire with cooked human meat, dancing with other lady yetis!" The group of tourists burst into a huge outburst of laughter.
 
 Dean turns around, walking straight towards the door.
 
@@ -473,7 +477,9 @@ Goodbye.
 
 ### Chap. 2 Into the Woods (Birds)
 
-> **Outline:** Dean follows giant monster witness report, rumor says Archaeopteryx (ancient first bird fossil) in place with huge tall trees (Redwood, California). Dean drives there, gets spooked, feels being watched but no one around, thinks he sees shape of giant Cas's wings in night black but disappear in blink (only get a glimpse), thinks he's going crazy, finds another tear of dimension and bloody feather in it (too big). almost gets killed by Greek creature Harpy (half-human half-bird, eat human, decapitation) and gets saved by Cas, protected by six huge black wings (Cas wants to talk but only in true voice and too loud, breaks glasses, but Dean is sure by now it's Cas), Cas gets pulled away again as the tear closes [+Cas POV: can't talk, can't stay, self-aware weird shape, watch Dean from the other side, see him hurt and fight to force through to save, weakened by each attempt]
+> **Outline:** Dean follows giant monster witness report, rumor says Archaeopteryx (ancient first bird fossil) in place with huge tall trees (Redwood, California). Dean drives there, gets spooked, feels being watched but no one around, thinks he sees shape of giant Cas's wings in night black but disappear in blink (only get a glimpse), thinks he's going crazy, finds another tear of dimension and bloody feather in it (too big). almost gets killed by Greek creature Harpy (half-human half-bird, eat human, decapitation) and gets saved by Cas, protected by six huge black wings (Cas wants to talk but only in true voice and too loud, breaks glasses, but Dean is sure by now it's Cas), Cas gets pulled away again as the tear closes
+>
+> [+Cas POV: can't talk, can't stay, self-aware weird shape, watch Dean from the other side, see him hurt and fight to force through to save, weakened by each attempt]
 
 #### Act 1
 
@@ -829,11 +835,9 @@ And beats of his heart.
 
 > **Outline:** Dean goes to Missouri, Pamela's seance had witnessed Cas's true form in multidimension then so can Missouri (use feather&coat fabric as medium), Dean gets info/theory that Cas's true form and vessel are spliced and he's stuck, swears to find&help him.
 >
-> (Cas's POV: meet with Missouri in seance, Dean's spirit into the same dimension, can talk/see, hesitant to come back because not want to continue tear dimension to endanger reality & hurt Dean)
+> [+Cas's POV: meet with Missouri in seance, Dean's spirit into the same dimension, can talk, can't see, Cas hesitant to come back because not want to continue tear dimension to endanger reality & hurt Dean (self blame, guilty)]
 >
-> Dean's solution: needs to separate Cas's true form from vessel, expel him then bound him again, banishing+summoning spell+holy fire circle
->
-> first step: needs find Cas in real world again
+> first step: determined to find Cas in real world again
 
 #### Act 1
 
@@ -885,7 +889,7 @@ Dean reaches into his inner chest pocket, putting the piece of trench coat fabri
 
 Missouri reaches out to touch the cloth, Dean's fingers twitch involuntarily like he has the strongest urge to take it back, to not allow anyone but himself to touch it, to even see it, but he holds the hands where they should be.
 
-"I believe so." Missouri stands up from the couch. Dean follows the action without thinking. The woman eyes his eagerness. "A seance requires certain preparations, I would have said I'd let you know when it's ready, but I think you couldn't stand just sitting here drinking your coffee, so might as well come over and help set it up."
+"I believe so." Missouri stands up from the couch. Dean follows the action without thinking. The woman eyes his eagerness. "A seance requires certain preparations, I would have said I'd let you know when it's ready, but I think you couldn't stand just sitting here drinking your coffee, so might as well come over and make yourself useful. Help me set it up."
 
 "Yes, Ma'am." Dean nods appreciatedly.
 
@@ -937,7 +941,7 @@ Dean holds his breath.
 
 <br>
 
-#### Act 2 (Cas POV → duo POV)
+#### Act 2 (Cas POV → both POV)
 
 Blinks of shallow lights flash by then disappear like comets. Clouds of lights expand and shrink like nebulas. Clusters of lights form and dissipate like constellations.
 
@@ -1003,7 +1007,7 @@ Until, he hears Cas's words.
 
 "Dean." Cas is answering his call. But he can't pin his sound.
 
-"Where are you?" Dean can't help glancing around. But the closer he looks, the more confusing he gets. His brain can't make sense of the shapes and figures his eyes received, light and shade shift like looking through kaleidoscope. He catches sight of a blue loose thread, a button, a feather, then something seemingly metal. Then an eye, floating, blinking, staring at him, not connected to a body. Blue.
+"Where are you?" Dean can't help glancing around. But the closer he looks, the more confused he gets. His brain can't make sense of the shapes and figures his eyes received, light and shade shift like looking through kaleidoscope. He catches sight of a blue loose thread, a button, a feather, then something seemingly metal. Then an eye, floating, blinking, staring at him, not connected to a body. Blue.
 
 What is this, space dumpster in some horror movie? *Interstellar* but B-rated version? Dean muses, more taken aback than dread.
 
@@ -1111,11 +1115,13 @@ Enjoy Cas's little physics class yet?
 
 <br>
 
-### Chap. 4 At the World's End (aurora lights)
+### Chap. 4 At the World's End (Lights)
 
-> **Outline:** Dean drives around, keeps getting spooky feeling of continuously being watched, hears local legend of Cthulhu (otherworldly god-like, humanoid, huge, tentacle, incomprehensible, hundreds of meters tall) in Alaska, sees weird/astonishing aurora lights on sky (abnormalcy is massive light & color in sky, beautiful, astonishing), drives there. midnight, empty road, tear opens, sees giant Cas manifest in full size right in front of impala, wings+rings with eyes+trench coat. Dean shocked/terrified/in awe.
+> **Outline:** Dean drive around, get djinn case nightmare of losing Cas in loop, forced to let Cas go to leave the djinn vision, get totally messed up and incredible amount of nightmare (has seen Cas in seance only make nightmares worse). desperate enough to try demon deal, get idea of expel+summon to bound, need more details to exec the idea. Dean find Meg, get angel exorcism spell, know the catch is his own sacrifice. Dean goes on his own quiet farewell trip to Sam etc., then go to Alaska to find Cas.
 >
-> Dean&Cas grab a few moments to talk, Cas worries his reaction at first, Dean needs time to adjust, sees him for real now, rings with too many eyes, not react/communicate well. Cas sensitive, feel rejected/upset, afraid Dean disgust/fear his true form now, self-aware being monster. Cas gets weaker quickly for staying in this dimension talking for long, fighting against natural order, and with the tear more twisted light & colors, affecting/endanger the sky/air now, increased electricity/magnetism. For Dean's safety and Cas's own exhaustion, Cas almost gets pulled back again (almost give up fighting), Dean starts ritual before tear closes. [both POV, Cas upset, self-aware]
+> In Alaska (world's end), keeps getting spooky feeling of continuously being watched, hears local legend of Cthulhu (otherworldly god-like, humanoid, huge, tentacle, incomprehensible, hundreds of meters tall), sees weird/astonishing aurora lights on sky (abnormalcy is massive light & color in sky, beautiful, astonishing), drives to the most north end point of the map. midnight, empty road, tear opens, sees giant Cas manifest in full size right in front of impala, wings+rings with eyes+trench coat everything. Dean shocked/terrified/in awe.
+>
+> [+Cas POV, upset, self-aware]
 
 #### Act 1
 
@@ -1139,7 +1145,7 @@ Dean crashes a few hours of sleep once in a while, usually wakes in a start and 
 
 He still runs into cases, now that not only searching for witnesses of angels and giant creatures, but also extreme natural disasters and weird behaviors of wild animals. He finds a nest of vampires at the report of unprecedentedly wild giant bats, and ghosts of a whole family at the place where locals say the fog is always too thick and cold. Most of the times, they are just pranks and fake reports and actual natural events, he drives to the said locations anyway, just to be sure.
 
-A victim reports in Kansas catches his eyes somewhere around April, the keyword "blue handprint" and "internal organs liquified" poking at his nerves. His reasonable mind knows it can't be angels, can't be Cas, if anything. But there is no way when the word "blue" (just like Cas's eyes) and "handprint" (just like the one marked on his shoulder) are put together and he would let it slip away.
+A victim reports in Kansas catches his eyes somewhere around April, the keyword "blue handprint" and "internal organs liquified" poking at his nerves. His reasonable mind knows it can't be angels, can't be Cas, if anything. But his brain reads the word "blue" (just like Cas's eyes) and "handprint" (just like the one marked on his shoulder), and the next thing he knows, he's on the Highway 50 heading west.
 
 Dean drives into the town of Topeka, Kansas two hours later.
 
@@ -1205,7 +1211,7 @@ Dean covers his mouth with his hands, choking down the petrified yell in the thr
 
 It has been forever since he has to experience a sense of fear like this. The last time is when his Mom burning on the ceiling.
 
-And then, like time reverses itself, Cas is put back. Fingernails back onto fingertips, fingers to hands, hands to arms, arms to the body. The invisible hand pieces him together like placing puzzle pieces, returning Cas to him. But with things here and there off. The two hands are switched, the legs are in odd angles, the left eye is in the place where the mouth should be, mouth at ear's.
+And then, like time reverses itself, Cas is put back. Nails back onto fingertips, fingers to hands, hands to arms, arms to the body. The invisible hand pieces him together like placing puzzle pieces, returning Cas to him. But with things here and there off. The two hands are switched, the legs are in odd angles, the left eye is in the place where the mouth should be, mouth at ear's.
 
 Dean gasps in terror. His throat can't squeeze a single syllable of word out, not even it is "Cas" that he wants to say.
 
@@ -1269,7 +1275,7 @@ He jams on the brake when he thinks the sight of Cas is walking alongside the ro
 
 Cas is in the dimension in between, not here. Dean reminds himself, but he doesn't know if that seance, that brief meeting time is making it better or worse. Now that he has learned where Cas is, but he still can't find him or get to him, it is not helping anything at all except for scratching his heart like a bloody hand.
 
-The nightmares are getting worse too after that, like something in his brain gets triggered sickly, creating imagination he never has and never needs. In the rare times he dozes off, the dreams become increasingly vivid and disturbing. Always with Cas being hurt one way or another, in one place or another. He dreams about his wings broken and burn, twisted and torn, feathers dropping out and floating everywhere, his body split to pieces, then splice back wrong. The Cas in his dream, whatever shape he's in, he still always, always hold that pair of bright blue eyes, looking at him. So he would know, it is Cas that is being deformed in all the ways, but whatever the change, it is still him, and he is still in there, able to feel and sense everything. It only makes the view a million times worse. Unnerving. Horrifying.
+The nightmares are getting worse too after that, like some dam in his brain torn down, creating imagination he never has and never needs. In the rare times he dozes off, the dreams become increasingly vivid and disturbing. Always with Cas being hurt one way or another, in one place or another. He dreams about his wings broken and burn, twisted and torn, feathers dropping out and floating everywhere, his body split to pieces, then splice back wrong. The Cas in his dream, whatever shape he's in, he still always, always hold that pair of bright blue eyes, looking at him. So he would know, it is Cas that is being deformed in all the ways, but whatever the change, it is still him, and he is still in there, able to feel and sense everything. It only makes the view a million times worse. Unnerving. Horrifying.
 
 <br>
 
@@ -1345,7 +1351,7 @@ Dean ignores her. "What do you know about angel expel spell?"
 
 "Care to elaborate?" Meg raises her eyebrows.
 
-"Not your business." Dean bites out.
+"Not your business." Dean bites out. "Now, spell." He waves the demon knife in a way that makes his point clear.
 
 "Fine," Meg looks away, dropping the smile. "So I learned a thing or two during my time with yellow-eyes, Azazel never used it, but Alastair can't stop showing off. But I heard the only time he tried the spell was right before he got burned clean once and for all."
 
@@ -1365,9 +1371,9 @@ Angels are more like demons than humans in the sense that they too need to posse
 
 how does Dean know the angel expel spell: Meg tells Dean, the spell expels angel's true form without blasting them away, bc Alastair has done that (S04E16)
 
-how does Dean find Meg: tortured crossroad demons, (Meg in random place e.g. gas'n'sip) Meg willing to help bc she does love Cas too
+why Meg willing to help: she does love Cas too (S08E17)
 
-what's the catch: he can die -> still need to fix that tear once Cas comes through, and makes a place to host Cas, *death is an infinite vessel* (S15E03)
+what's the catch: he'll die -> still need to fix that tear once Cas comes through, and makes a place to host Cas, *death is an infinite vessel* (S15E03)
 
 why Alaska: world's end, veil thinnest (Meg: "Try Ushuaia or Norway if you want, but figured Alaska would be the closest to you")
 
@@ -1379,22 +1385,38 @@ Sam looks happy with Amelia, there is a dog called Dog. Dean smiles when he goes
 
 Sam added a large iron lock on the garage door, hinting he did notice impala was missing, but Dean doesn't know what he'd done with it, doesn't know if he'd panicked for a bit but decides it doesn't matter
 
-tears are form when Dean yearns the most desperately -> first two cases are both when he's dying, third one is just because he's so lonely and missing Cas so much it's also killing him, the danger is inferred suicidal/self-sacrifice thoughts
+In Alaska (world's end), keeps getting spooky feeling of continuously being watched, hears local legend of Cthulhu (otherworldly god-like, humanoid, huge, tentacle, incomprehensible, hundreds of meters tall), sees weird/astonishing aurora lights on sky (abnormalcy is massive light & color in sky, beautiful, astonishing), drives to the most north end point of the map. midnight, empty road, tear opens, sees giant Cas manifest in full size right in front of impala, wings+rings with eyes+trench coat everything. Dean shocked/terrified/in awe.
 
-<br>
+[+Cas POV, upset, self-aware]
 
-outlines: Dean drives around, keeps getting spooky feeling of continuously being watched, hears local legend of Cthulhu (otherworldly god-like, humanoid, huge, tentacle, incomprehensible, hundreds of meters tall) in Alaska, sees weird/astonishing aurora lights on sky (abnormalcy is massive light & color in sky, beautiful, astonishing), drives there. midnight, empty road, tear opens, sees giant Cas manifest in full size right in front of impala, wings+rings with eyes+trench coat. Dean shocked/terrified/in awe.
+(tears are form when Dean yearns the most desperately -> first two cases are both when he's dying, third one is just because he's so lonely and missing Cas so much it's also killing him, the danger is inferred suicidal/self-sacrifice thoughts)
 
-Dean&Cas grab a few moments to talk, Cas worries his reaction at first, Dean needs time to adjust, sees him for real now, rings with too many eyes, not react/communicate well. Cas sensitive, feel rejected/upset, afraid Dean disgust/fear his true form now, self-aware being monster. Cas gets weaker quickly for staying in this dimension talking for long, fighting against natural order, and with the tear more twisted light & colors, affecting/endanger the sky/air now, increased electricity/magnetism. For Dean's safety and Cas's own exhaustion, Cas almost gets pulled back again (almost give up fighting), Dean starts ritual before tear closes. [both POV, Cas upset, self-aware]
+### Chap. 5 Through Your Eyes (I see you)
 
-### Chap. 5 Inside the Mind (Ritual+reunion)
-
-> **Outline:** Dean's solution: needs to separate Cas's true form from vessel, expel him then bound him again, banishing+summoning spell+holy fire circle
+> **Outline:** Dean&Cas grab a few moments to talk, Cas worries his reaction at first, Dean needs time to adjust, sees him for real now, rings with too many eyes (first time), not react/communicate well (spooked/startled). Cas sensitive, feel rejected/upset, afraid Dean disgust/fear his true form now, self-aware being monster.
 >
-> Dean's idea: expel him (S04E16 Alastair's spell; separate true form with body) and immediately summon him back (S06E21 angel summoning spell; avoid true form going into heaven), let Cas possess him as vessel temporarily, use his own power fix his vessel's size, jump back into his body. Cas hesitates for risk of hurting Dean (possession+tear open with monsters coming) and he won't be there protecting him, doesn't mention also afraid of getting expelled and not summoned in time make him end up in Heaven, "might kill himself"
+> Discuss Dean's plan: A lot of argue, disagreement, intense quarrel, tension, Dean wants Cas back, Cas refuse Dean's sacrifice. Cas hates it can hurt Dean (possession+tear open with things coming+death vessel)
 >
-> Dean insists trying, ritual works, Cas shares Dean's body but both awake, Cas use mojo to fix vessel (Dean witnesses, amazed, "so this is how it's like, internally" "that sounds so wrong but whatever") and ready to go back into it (Cas all the time quiet), Dean mentally apologize and tell him his true form is awesome before Cas goes back (talk in Dean's brain, both normal: "You really think that?" "Yeah, I do"). Cas leaves Dean's body, vessel remains lifeless for a bit, Dean worries, then Cas back. Reunion, hug, problem solved, "Welcome back."
+> Cas gets weak quickly for staying in this dimension talking for long, fighting against natural order, and with the tear more twisted light & colors, affecting/endanger the sky/air now, increased electricity/magnetism/plasma. For Dean's safety and Cas's own exhaustion, Cas almost gets pulled back again (almost give up fighting), Dean starts ritual before tear closes (regardless Cas protest).
+>
+> [+Cas POV, upset, self-aware; angry/sad Dean's sacrifice plan; deliberately didn't mention what if he's sent to Heaven (expelled but not summoned in time) he might kill himself]
 
 #### Act 1
+
+#### draft notes
+
+### Chap. 6 Inside My Mind (Ritual+reunion)
+
+> **Outline:** Dean actually start rituals: angel exorcism to banish (S04E16 Alastair's expel spell; separate true form with vessel), immediately summon him back (S06E21 angel summoning spell; avoid true form going into heaven), use holy fire to bound (avoid leaving); let Cas possess him as vessel temporarily, use his own power fix his vessel's size, jump back into his body.
+>
+> Dean insists trying, ritual works, Cas shares Dean's body but both awake, Cas use mojo to fix vessel (Dean witnesses, amazed, "so this is how it's like, internally" "that sounds so wrong but whatever") and ready to go back into it (Cas all the time quiet), Dean mentally apologize and tell him his true form is awesome before Cas goes back (talk in Dean's brain, both normal: "You really think that?" "Yeah, I do"). Cas leaves Dean's body, own body remains lifeless for a bit, Dean worries, then Cas back. Reunion, hug, problem solved, "Welcome back."
+>
+> use half Dean's soul+half Cas's grace to fix the tear, so Dean won't die & Cas's won't be gone/fall
+>
+> *"Death is an infinite vessel, so is love."*
+
+#### Act 1
+
+#### draft notes
 
 ###### End
