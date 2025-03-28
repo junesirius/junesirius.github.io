@@ -14,7 +14,7 @@ published: false
 
 [TOC]
 
-(tag: canon-divergent, purgatory, giant Cas, misshaped Cas, minor body horror, mutual pining, angst, loosely S8-tied, slow burn, wings, true form Cas, canon-level violence, happy ending, hurt/comfort)
+(tag: canon-divergent, purgatory, giant Cas, misshaped Cas, minor body horror, mutual pining, angst, loosely S8-tied, slow burn, wings, true form Cas, canon-level violence, canon-level suicidal thought, happy ending, hurt/comfort)
 
 ## Draft
 
@@ -99,6 +99,8 @@ Chap. 2, the legends of the giant fish and bird: quote from 庄周《逍遥游�
 
 Chap. 2, how does Dean know about the names of the trees, plants, creatures and birds: apparently Cas has dragged him to watch Nature channel together more than once, and he actually paid attention. Especially the bird part, he doesn't even realize he has a thing for them until much later and also in here, he realizes he does memorized those things and names he watched, while thinking about Cas's wings. But still, even when they were watching together and when he was definitely thinking about Cas's wings, he never really asked, so he never know Cas's wings true color or there are three pairs of them. (could potentially add an epilogue of watching bird Nature channel together or go back to the Redwood again with Cas guiding and introducing the creatures/plants, and Dean's knowledge surprise Cas too)
 
+Chap. 4, "did he dream about purgatory when he's outside, or did he dream about outside when he's still in purgatory" is like 庄周梦蝶蝶梦庄周
+
 Chapter titles "In your eyes" "Inside my minds": "your" and "my" mean both of them
 
 ### Dean's mental state
@@ -128,6 +130,8 @@ so every time Cas fights hard to tear through dimension to get to this plane, to
 ~~(Chap. 1-4, 2-4) Cas's POV, 1st person view to 3rd person view? but maintain Cas's POV~~
 
 wings flutter -> rustle
+
+anchoring -> grounding
 
 (general) change all the bad analogies to the proper ones with references Dean would use, e.g. remove all Disney movies & fairy tales & princesses & Anderson's Little Match Girl, replace with old classic movies & rock bands & western movies
 
@@ -795,15 +799,15 @@ I mute my own sound, ignoring the chanting deep within, repeating Dean's name. A
 
 "I need you." I hear him think. Don't need to invade his mind, the thoughts are already loud enough.
 
-"What do you need me for, Dean?" I wonder. I heal him. I help him on his feet. I wipe his tears.
+*What do you need me for, Dean?* I wonder. I heal him. I help him on his feet. I wipe his tears.
 
 I put my wings around him, leaning into the warmth of the human body. Greedily. Selfishly.
 
 Taking in his whole existence, grasping the memory, getting prepared.
 
-"I miss you too." I'm thinking. Never told him, never going to.
+*I miss you too.* I'm thinking. Never told him, never going to.
 
-"I'm sorry." I see blood. Then I see tears.
+*I'm sorry.* I see blood. Then I see tears.
 
 I see danger. And I see pain. The bright light in his soul, never more blinding.
 
@@ -841,7 +845,7 @@ And beats of his heart.
 
 #### Act 1
 
-Dean parks the car by the road side, sitting behind the wheel for a moment too long, chewing on the words he might need later. The yard with fence and the painted house look the same as the last time he saw them, years ago.
+Dean parks the car by the road side, sitting behind the wheel for a moment too long, chewing on the words he might need later. The yard with fence and the painted house look the same as the last time he saw them, almost a decade ago.
 
 He checks through the curtained window, wondering if the owner is in the house now.
 
@@ -881,11 +885,11 @@ She considers, eyes searching his face. And whatever she finds there, it seems t
 
 "Things from the angel. Things he can identify as his, guiding his way to the call." Missouri explains.
 
-That rings a bell. Dean automatically touches the handprint on his left shoulder across the jacket, knowing the red mark is still there. Back then, that mark was all they had that has a direct link with the angel, but now, he has more.
+That rings a bell. Dean automatically touches the handprint on his left shoulder underneath the jacket, knowing the red mark is still there. Back then, that mark was all they had that has a direct link with the angel, but now, he has more.
 
-Dean reaches into his inner chest pocket, putting the piece of trench coat fabric and blood stained black feather on the table between them, fingers lingering at the edge of the feather, not leaving. Both of them still have the same temperature from his body warmth.
+Dean reaches into his inner chest pocket, putting the piece of trench coat fragment and blood stained black feather on the table between them, fingers lingering at the edge of the feather, not leaving. Both of them still have the same temperature from his body warmth.
 
-"I have these." He tells Missouri. "Cas left them behind when, emm, last two times we saw each other, right before he disappeared. Would they work?"
+"I have these." He tells Missouri. "Cas left them behind when, emm, last two times we saw each other, right before he disappeared. Will they work?"
 
 Missouri reaches out to touch the cloth, Dean's fingers twitch involuntarily like he has the strongest urge to take it back, to not allow anyone but himself to touch it, to even see it, but he holds the hands where they should be.
 
@@ -899,7 +903,7 @@ They use the round dining table for the work, Dean watches Missouri paints a pen
 
 Missouri lights up five candles in the center matching each corner while answering. "The air, the earth, the fire, the water. All the basic elements. And this is your door." She points at the eye. "The seance is actually quite simple, the difficult part is to find him and talk to him, if he is willing to show."
 
-"That reminds me, the accident last time, Cas's true form burned that friend of mine's eyes out." Dean admits, a little guiltily, looking at the symbol of the eye again, remembering Pamela's scream and the fire bursting out of her sockets. "Probably don't look at him directly then."
+"That reminded me, the accident last time, Cas's true form burned that friend of mine's eyes out." Dean admits, a little guiltily, looking at the symbol of the eye again, remembering Pamela's scream and the fire bursting out of her sockets, the fake white eyeballs she had to use later. "Probably don't look at him directly then."
 
 But still, somehow, his mind wanders afar, wondering what it is that Pamela really saw -- a figure as tall as the Chrysler Building like Cas once so casually slipped? A light as bright and burning hot as the sun which is why no human should face him directly? If there has to have one good thing from that blindness, he hopes Pamela at least had the chance to see the most bright and beautiful thing in the whole universe before losing the sight.
 
@@ -947,7 +951,7 @@ Blinks of shallow lights flash by then disappear like comets. Clouds of lights e
 
 Castiel stands in the dimension in between, floating, as if he's in the deep space. Stars and sparkles, here and there. He views the crowds of lights from one cluster to another, checking their brightness, the warmth, the color. Guessing, wondering.
 
-His eyes sad, but not devasted. Longing, but he stays where he stands. Just looking, always looking. Looking at the lights like looking at the way home but he cannot go. Staring, as if they are the eyes of the person he has profound bond with but he cannot follow. Standing still, like a stone sculpture of guardian angel which he once so deeply believed he was, he still wishes to believe.
+His eyes are sad, but not devasted. Longing, but he stays where he stands. Just looking, always looking. Looking at the lights like looking at the way home but he cannot go. Staring, as if they are the eyes of the person he has profound bond with but he cannot follow. Standing still, like a stone sculpture of guardian angel which he once so deeply believed he was, he still wishes to believe.
 
 One flicker of light from the distance starts brightening up quick, catching his attention.
 
@@ -987,7 +991,7 @@ Dean stares at them hard, widening and squinting his eyes while his eyelids are 
 
 Or, is it the mysterious psychic's dimension that Missouri said she could bring him with, where he should go ahead looking for Cas?
 
-He feels light and heavy at the same time. His vision blurred and cleared. He's not sure if his eyes are open or closed anymore.
+He feels light and heavy at the same time. His vision blurs and clears. He's not sure if his eyes are open or closed anymore.
 
 Dean glances down at himself. There is no body, nothing to control to navigate around the space, only the view ahead. Like a lazy-designed first person view video game.
 
@@ -1007,7 +1011,7 @@ Until, he hears Cas's words.
 
 "Dean." Cas is answering his call. But he can't pin his sound.
 
-"Where are you?" Dean can't help glancing around. But the closer he looks, the more confused he gets. His brain can't make sense of the shapes and figures his eyes received, light and shade shift like looking through kaleidoscope. He catches sight of a blue loose thread, a button, a feather, then something seemingly metal. Then an eye, floating, blinking, staring at him, not connected to a body. Blue.
+"Where are you?" Dean can't help glancing around. But the closer he looks, the more confused he gets. His brain can't make sense of the shapes and figures his eyes receives, light and shade shift like looking through kaleidoscope. He catches sight of a blue loose thread, a button, a feather, then something glittering metal. Then an eye, floating, blinking, staring at him, not connected to a body. Blue.
 
 What is this, space dumpster in some horror movie? *Interstellar* but B-rated version? Dean muses, more taken aback than dread.
 
@@ -1045,7 +1049,7 @@ Cas sighs, sounds resigned. "The portal only works to send pure humans out, so I
 
 Dean's breath hitches.
 
-Cas continues, "Every sense of me are in pieces earlier, at the beginning, it's even more difficult than --" He pauses briefly there, as if trying to decide whether he wants to tell the whole story, then he's decided. "-- more difficult than the time when I took over Sam's madness, and had to rebuild everything in my head."
+Cas continues, "Every sense of me are in pieces earlier, at the beginning, it's even more difficult than --" He pauses briefly there, as if debating whether he wants to tell the whole story, then he's decided. "-- more difficult than the time when I took over Sam's madness, and had to rebuild everything in my head."
 
 "Cas..." Dean starts, but doesn't know what to say after that, doesn't know if there is any word existed in the world that could mean anything here, or could express the clutching, squeezing feeling that is growing in him.
 
@@ -1065,11 +1069,11 @@ The emotions and feelings and doubts, those are definitely things human minds te
 
 There is a sound of cloth and wings rustling behind him. Dean has a surge of urge to look around at Cas, looking him in the eyes to see him nod, even if it would burn his eyes out. And right then, he hears Cas murmuring "Okay". Dean breathes out, echoing a same, long, relieved "Okay".
 
-Cas starts: "My true form is a multidimensional wavelength celestial being, not bound to the Earth, while my body is made of atomic vibration and electron cloud in the material plane. Think of it as the Wave-Particle Duality in the quantum physics you humans discovered a hundred years ago. I believe I'm currently suffering from the *Refraction and Diffraction Effect*. And the boundary of this dimension has *Infinity Mirror Effect* when it interacts with any other dimensions. There are wave functions to better explain --"
+Cas starts: "My true form is a multidimensional wavelength celestial being, not bound to the Earth, while my body is made of atomic vibration and electron cloud in the material plane. Think of it as the *Wave-Particle Duality* in the quantum physics you humans discovered a hundred years ago. I believe I'm currently suffering from the *Refraction and Diffraction Effect*. And the boundary of this liminal dimension has *Infinity Mirror Effect* when it interacts with any other dimensions. There are wave functions to better explain --"
 
 "Jesus, Cas, aim lower!" Dean rolls his eyes as if they are standing face to face talking in their usual forms. "I said 101, not top advanced high confidential science lecture. I dropped out of high school, for Christ sake. Any chance I can get that in English again?"
 
-"Going through the human portal, it affects me in all forms. It tears me apart, splices my true form with the vessel, makes me stuck in the dimension in between the planes, deforms me to be giant."
+"Going through that portal, it affects me in all forms. It tears me apart, sending me into the dimension in between the planes." Cas sighs frustratedly, "I have tried to put myself together, but this dimension throttles the effort, splicing my true form with the vessel, deforming me to be misshaped and giant."
 
 Dean winces, remembering the huge trench coat shape against the snow storm and the wings spreading so wide he can't see the edge taking over all the spaces in the redwoods. *Giant, no kidding. He hasn't got a single full-body shot of Cas ever since Purgatory.*
 
@@ -1129,7 +1133,7 @@ Dean spends that night at Missouri's place, then he bids her goodbye first thing
 
 The psychic scrutinizes his face, asking in a caring, motherly voice, "What are you going to do?"
 
-Dean dodges her eyes, hating the pity in it. "What I always do, drive around, look for signs, look for him. I'll come up with something."
+Dean dodges her eyes, hating the pity in it. "What I always do, driving around, looking for signs, looking for him. I'll come up with something."
 
 "Think you'll be alright?" Missouri opens the front door for him.
 
@@ -1141,15 +1145,15 @@ He leaves Lawrence, Kansas miles behind him when the sun rises.
 
 Life continues more or less the same, roads and bad diner food and cold coffee, nights and dreams and nightmares. Alone, with the Baby being the only company.
 
-Dean crashes a few hours of sleep once in a while, usually wakes in a start and sweat streaming down the spine. He finds it difficult to tell apart the blackness from the night sky and the memory of that splitting dimension in between he went in during the seance. He would just continue driving, to let the cold night wind dry the wetness on his skin and corner of his eyes. Soon, the night wind is not even cold anymore, he doesn't notice since when the spring is already around the corner.
+Dean crashes a few hours of sleep once in a while, usually wakes in a start with sweat streaming down the spine. He finds it difficult to tell apart the blackness from the night sky and the memory of that splitting dimension he went in during the seance. He would just continue driving, to let the cold night wind dry the wetness on his skin and corner of his eyes. Soon, the night wind is not even cold anymore, he doesn't notice since when the spring is already around the corner.
 
-He still runs into cases, now that not only searching for witnesses of angels and giant creatures, but also extreme natural disasters and weird behaviors of wild animals. He finds a nest of vampires at the report of unprecedentedly wild giant bats, and ghosts of a whole family at the place where locals say the fog is always too thick and cold. Most of the times, they are just pranks and fake reports and actual natural events, he drives to the said locations anyway, just to be sure.
+He still runs into cases, now that not only searching for witnesses of angels and giant creatures, but also extreme natural disasters and weird behaviors of wild animals. He finds a nest of vampires at the report of unprecedentedly wild giant bats, and ghosts of a whole family at the place where locals say the fog is always too thick and cold. Most of the times, they are just pranks and fake reports and actual natural events, he drives to the said locations anyway, just to be sure. He almost gets caught in the middle of a twin tornado, then a volcano explosion.
 
-A victim reports in Kansas catches his eyes somewhere around April, the keyword "blue handprint" and "internal organs liquified" poking at his nerves. His reasonable mind knows it can't be angels, can't be Cas, if anything. But his brain reads the word "blue" (just like Cas's eyes) and "handprint" (just like the one marked on his shoulder), and the next thing he knows, he's on the Highway 50 heading west.
+A victim reports in Kansas catches his eyes somewhere around April, the keyword "blue handprint" and "internal organs liquified" poking at his nerves. His reasonable mind knows it can't be angels, can't be Cas, if anything. But his brain reads the word "blue" (just like Cas's eyes) and "handprint" (just like the one marked on his shoulder), and the next thing he knows, he's on the US-50 heading west.
 
 Dean drives into the town of Topeka, Kansas two hours later.
 
-The coroner is not the most collaborative person to work with, and getting caught in the middle of the night in the coroner's office searching empty cases where the bodies should have been is certainly not helping his luck.
+The coroner is not the most collaborative person to work with, and getting caught in the middle of the night in the coroner's office searching the empty morgue where the bodies should have been is certainly not helping his luck.
 
 The djinn blinks her eyes blue while he gets tied hand behind body on a chair. That flashing electrical blue is the last thing he sees before sinking into the view of Purgatory.
 
@@ -1175,9 +1179,11 @@ Dean nods, then, "Are you?"
 
 But he is not. The real Cas is not. Dean remembers, and he knows every second he stays in this nasty djinn's illusion, is one second closer to his own death, let alone Cas's since he's still stuck in a different dimension.
 
-"We have to get out of here." He says automatically, looking for the way to the portal. Cas follows him.
+"We have to get out of here." He says automatically, looking for the way to the portal. Cas follows him quietly.
 
-There are monsters and leviathans following them as well. There are a large bone blade in his hand. They seem to keep targeting Cas to attack more than having interest in him. Dean pulls Cas behind him, killing them all, not really thinking about why the change of behavior.
+There are monsters and leviathans following them tightly after. There are a large bone blade in his hand.
+
+The monsters seem to keep targeting Cas for attack, showing far more interest in the angel than Dean. Dean pulls Cas behind him, killing them all, not really thinking about why the change of behavior.
 
 He checks on Cas the moment these monsters are cleared out. "You okay?"
 
@@ -1201,17 +1207,17 @@ Instantly, he looks at Cas.
 
 Cas is still by his side, but his shape is deforming like a terrible animation clip showing a character made of rubber being stretched and squeezed, pulling apart.
 
-"Dean." Cas's mouth moves, all the while his head starts moving away from the body, involuntarily, so are the arms and legs. His body is stretched thin and long, then the limbs are torn from the torso. Wings stretching out from his shoulder blades, only to be torn down one after another, feathers flying. His eyes blinks confusedly, not showing pain, just confused, looking at Dean like that's the only thing he can think of doing.
+"Dean." Cas's mouth moves, all the while his head starts moving away from the body, involuntarily, so are the arms and legs. His body is stretched thin and long, then the limbs are torn from the torso. Wings stretching out from his shoulder blades, only to be torn down one after another, feathers flying. His eyes blinks confusedly, not showing pain, just confused, looking at Dean like that's the only thing he can think of doing. Still deep blue.
 
-"No, no, no, no, Cas! No --" Dean reaches for the pieces that would have made the whole Cas, grasping a feather or a fragment, but each piece is just splitting into smaller units right in front of his eyes. He can do nothing but to watch this horror show unfolding, watching Cas slowly, structurally, becomes a big pile of flesh and bones and feathers and fabric.
+"No, no, no, no, Cas! No --" Dean reaches for the pieces that would have made the whole Cas, grasping a feather or a cloth fragment, but each piece is just splitting into smaller units right in front of his eyes. He can do nothing but to watch this horror show unfolding, watching Cas slowly, structurally, becomes a big pile of flesh and bones and feathers and fabric.
 
 Never has he ever seen a more terrifying horror movie.
 
 Dean covers his mouth with his hands, choking down the petrified yell in the throat. Cold sweat streaming down his forehead, his lips and throat too dry and tight, he can't breathe.
 
-It has been forever since he has to experience a sense of fear like this. The last time is when his Mom burning on the ceiling.
+It has been forever since he has to experience a sense of fear like this. The last time is when Sam having a fresh deep stab on his back then lying lifelessly on the ground, the time before is when his Mom burning on the ceiling.
 
-And then, like time reverses itself, Cas is put back. Nails back onto fingertips, fingers to hands, hands to arms, arms to the body. The invisible hand pieces him together like placing puzzle pieces, returning Cas to him. But with things here and there off. The two hands are switched, the legs are in odd angles, the left eye is in the place where the mouth should be, mouth at ear's.
+And then, like time reverses itself, Cas is put back. Nails back onto fingertips, fingers to hands, hands to arms, arms to the body. Some invisible force pieces him together like placing puzzle pieces, returning Cas to him. But with things here and there off. The two hands are switched, the legs are in odd angles, the left eye is in the place where the mouth should be, mouth at ear's.
 
 Dean gasps in terror. His throat can't squeeze a single syllable of word out, not even it is "Cas" that he wants to say.
 
@@ -1219,7 +1225,7 @@ Dean gasps in terror. His throat can't squeeze a single syllable of word out, no
 
 "No." Dean says, without thinking. "Never."
 
-"Dean, listen to me." Cas's shape gradually return back to normal, the familiar look, the familiar face, the familiar focused blue eyes locked on Dean's. "This place isn't real, I'm not real. But you are. Let me go, that's your only way to wake up, to be safe. Or you will die." His eyes big and sad.
+"Dean, listen to me." Cas's shape gradually returns back to normal, getting fixed. The familiar look, the familiar face, the familiar focused blue eyes locked on Dean's. "This place isn't real, I'm not real. But you are. Let me go, that's your only way to wake up, to be safe. Or you will die." His eyes big and sad.
 
 Dean swallows hard, knowing he's right, but, "I can't." He says, and he knows it as a fact, "I don't know how to."
 
@@ -1243,7 +1249,7 @@ Dean eyes the monsters around them, looking back at the angel in front of him, v
 
 "I'm not afraid of the monsters." Dean states.
 
-"But you're afraid of losing me." Cas smiles understandingly, reaching out a hand to stroke his cheek, then lets the hand fall. He says it again, quietly but firmly, "Let me go. It's okay. I'll be okay. The real me outside will be okay too."
+"But you're afraid of losing me." Cas smiles understandingly, reaching out a hand to stroke his cheek, then lets the hand fall. He says it again, quietly but firmly, "Let me go. It's okay. I'll be fine. The real me outside will be fine too."
 
 "God..." Dean wipes the corner of his eyes, pulling Cas into a tight hug, exhaling over his shoulder, pressing his lips on the side of his cheek.
 
@@ -1251,7 +1257,7 @@ He runs towards the portal alone, not looking back. He hears the growl of the mo
 
 Dean forces his eyes to not look back, wills his legs to not stop on the horrifying sounds, and jumps through the portal.
 
-He wakes up, and he kills the djinns trapping him.
+He wakes up, and he kills the djinns that traps him.
 
 Corner of his eyes still wet. He breathes out long and unsteady. Dropping the silver blade on the floor.
 
@@ -1259,13 +1265,13 @@ Corner of his eyes still wet. He breathes out long and unsteady. Dropping the si
 
 #### Act 2
 
-Dean stays awake the whole night driving away from Topeka, Kansas, heading as far away as possible. But the memory of that messed-up illusion world doesn't take it easy on him because of the distance.
+Dean stays awake the whole night driving away from Topeka, Kansas, running as far away as possible. But the memory of that messed-up illusion world doesn't take it easy on him because of the distance.
 
-The distortion and deformation of Cas's body, of his wings, haunts in his view. The stretch of the road ahead of him barely lit by the car's headlamp, in all the places that are dark, he sees the view replaying itself at the periphery of his eyes. The figures disappear the moment he moves his head and wants to look properly.
+The distortion and deformation of Cas's body, of his wings, haunts in his view. The stretch of the road ahead of him barely lit by the car's headlamp. In all the unlit dark places, he sees the illusion replaying itself at the periphery of his eyes. One version after another, all figures of Cas, always troubled, always torn and broken, always wounded and helpless, stand in his view, disappear the moment he moves his head toward them and wants to look properly. They are never there.
 
 He hears Cas's voice too, now that the fake world just reminded him of that grave deep voice he doesn't realize how much he misses. The sound takes root in his brain, speaking at his ear, sometimes from afar, other times as if he's right next to him, sitting on the shotgun, reading a piece of news on some paper.
 
-Dean has to turn his head to the shotgun half a dozen times to see the seat is empty.
+Dean has to turn his head to the shotgun half a dozen times to see the seat empty.
 
 The lack of sleep only makes it worse.
 
@@ -1273,7 +1279,7 @@ Dean distantly wonders if it is how it's like, back when Sam or Cas gets that cr
 
 He jams on the brake when he thinks the sight of Cas is walking alongside the road, too vivid, but only in a flash. He stares out of the window for a whole storming night, because for a blink of time, he swears Cas stands right there. He almost crashes the car when he thinks there is a bloody figure wrapped in trench coat lying in the middle of the road. But the figure disappears when he blinks hard.
 
-Cas is in the dimension in between, not here. Dean reminds himself, but he doesn't know if that seance, that brief meeting time is making it better or worse. Now that he has learned where Cas is, but he still can't find him or get to him, it is not helping anything at all except for scratching his heart like a bloody hand.
+Cas is in the dimension in between, not here. Dean reminds himself, but he doesn't know if that seance, that brief meeting time is making it better or worse. Now that he has learned where Cas is, but he still can't find him or get to him, it is not helping anything at all except for clutching his heart like a bloody hand.
 
 The nightmares are getting worse too after that, like some dam in his brain torn down, creating imagination he never has and never needs. In the rare times he dozes off, the dreams become increasingly vivid and disturbing. Always with Cas being hurt one way or another, in one place or another. He dreams about his wings broken and burn, twisted and torn, feathers dropping out and floating everywhere, his body split to pieces, then splice back wrong. The Cas in his dream, whatever shape he's in, he still always, always hold that pair of bright blue eyes, looking at him. So he would know, it is Cas that is being deformed in all the ways, but whatever the change, it is still him, and he is still in there, able to feel and sense everything. It only makes the view a million times worse. Unnerving. Horrifying.
 
