@@ -436,6 +436,8 @@ Cas发现怀了之后，Dean：“I didn't know it's possible.”Cas：“Neithe
 
 《恋恋笔记本》？
 
+（反向的失忆卡每24小时忘记Dean一次：《[Muscle Memory](https://archiveofourown.org/works/3795211)》）
+
 （~梗201）
 
 ### 41.【destiel】唇上的诅咒
