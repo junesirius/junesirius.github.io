@@ -2247,12 +2247,16 @@ one version is Neil Gaiman style, the marriage proposal story, reading the junk 
 
 different version is two living far apart and received junk mail but thought it's real, angst, mutual pining
 
-### 250.【Gabe中心】《You need better friend》【WIP】
+### 250.【Gabe中心】《You need better friends》【WIP】
 
 Gabe/Loki, Gabe/Rowena, Gabe/Kali, Gabe&Luci
 
 Gabe&Sam, Gabe&Dean, Gabe&Cas
 
 who's his friend & family and he died for
+
+memoir style, at the end turn out it's Gabe reliving his whole life before stabbed to death in the Apocalypse world, thinking back (a bit sad)
+
+Dean: "You need better friends" Gabe: "I'm protecting the ones I have" (reuse the dialogue with Cas)
 
 ### 251.
