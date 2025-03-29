@@ -2259,4 +2259,20 @@ memoir style, at the end turn out it's Gabe reliving his whole life before stabb
 
 Dean: "You need better friends" Gabe: "I'm protecting the ones I have" (reuse the dialogue with Cas)
 
-### 251.
+### 251.【cockles】Jensen call Misha "Dimitri" on bed（R级）
+
+Russian accent kink, name kink
+
+right on edge, call him "Dimitri", in that low hoarse sex tone, makes him come at once
+
+then too many times like that, get used to the pattern, then in the public, comic con, call him "Dimitri" in the public, immediate boner
+
+### 252.【destiel】S15E18 break his happiness to protect him
+
+Cas is happy after the confession
+
+Dean's only move is to break his happiness, make him miserable, so Empty's deal is voided, that's how he make Cas stay, and live
+
+they'll figure out the truth later, once safe
+
+### 253.
