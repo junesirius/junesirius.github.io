@@ -14,7 +14,7 @@ published: false
 
 [TOC]
 
-(tag: canon-divergent, purgatory, giant Cas, misshaped Cas, minor body horror, minor grotesque, mutual pining, angst, loosely S8-tied, wings, true form Cas, canon-level violence, canon-level suicidal thought, happy ending)
+(tag: canon-divergent, purgatory, giant Cas, misshaped Cas, minor body horror, minor grotesque, mutual pining, angst, loosely S8-tied, wings, true form Cas, canon-level violence, canon-level suicidal thought, Dean Winchester uses actual words, happy ending)
 
 (pairing: Cas/Dean, Sam/Amelia)
 
@@ -1582,9 +1582,9 @@ More colors emerge, soon. There is so much more than green. The globe of the sky
 
 Dean doesn't realize his cheek is wet until tears drop from his jaw. The grand magnificence catches his breath. The thought and prayer finally crawls their way out of his throat. The silent plead becomes low murmur, and Dean is saying: "Cas. Please. Come to me."
 
-The crackling sound turns to louder sputtering, as if every particle in the air has been charged with electricity, and any movement of wind is sending power down its way. Dean feels his skin prickles with the electricity. He wonders how long it would take, for all the air from earth to sky to be so charged, that a smallest movement would turn a friction into a spark, just like in a gas station but millions times stronger, and the sky would turn into literal sea of the flame, devouring any men in between.
+The crackling sound turns to louder sputtering, as if every particle in the air has been charged with electricity, and any movement of wind is sending power down its way. Dean feels his skin prickles with the electricity. He wonders how long it would take, for all the air from earth to sky to be so charged, that a smallest movement would turn a friction into a spark, just like in a gas station but millions times stronger, and the sky would turn into literal sea of flame, devouring any men in between.
 
-He wraps the fingers on the demon blade, moving it in front of him, the tip close to the chest, not touched yet.
+He wraps the fingers on the demon blade, moving it in front of him. The tip close to the chest, not touching yet.
 
 The air in front of him shakes violently. Dean holds his breath, watching it tear open from the other side, becoming a large black scar hanging vertically in the mid-air.
 
@@ -1602,7 +1602,7 @@ why Alaska: world's end, veil thinnest (Meg: "Try Ushuaia or Norway if you want,
 
 ### Chap. 5 Through Your Eyes (I see you)
 
-> **Outline:** Immediately after previous scene, Dean see Cas's full size true form+body, shocked/terrified/in awe. Dean&Cas grab a few moments to talk, Cas worries his reaction at first, Dean needs time to adjust, sees him for real now, rings with too many eyes (first time), not react/communicate well (spooked/startled). Cas sensitive, feel rejected/upset, afraid Dean disgust/fear his true form now, self-aware being monster.
+> **Outline:** Dean see Cas's full size true form+body, shocked/terrified/in awe. Dean&Cas grab a few moments to talk, Cas worries his reaction at first, Dean needs time to adjust, sees him for real now, rings with too many eyes (first time), not react/communicate well (spooked/startled). Cas sensitive, feel rejected/upset, afraid Dean disgust/fear his true form now, self-aware being monster.
 >
 > Discuss Dean's plan: A lot of argue, disagreement, intense quarrel, tension, Dean wants Cas back, Cas refuse Dean's sacrifice. Cas hates it can hurt Dean (possession+tear open with things coming+death vessel)
 >
@@ -1612,7 +1612,55 @@ why Alaska: world's end, veil thinnest (Meg: "Try Ushuaia or Norway if you want,
 
 #### Act 1
 
+All the eyes on all the rings blink at the same time. So does the one on the giant human shaped body, shining white lights in the pupil.
+
+Dean is shaken out of the freeze by the piercing lines of eye sight coming from all directions. His breath hitches, his knees give way. His body takes a step back, can't hold still.
+
+He looks up, his neck sore from crooked angle. He looks into the pair of eyes on Cas's face, the lights are too dazzling and bright to see, they make his eyes hurt, but he holds the gaze. The astonishing color and light of aurora borealis behind Cas loses their attraction in comparison.
+
+The eyes of Castiel's true form follow Dean's move. As he takes the step back, they move to follow him, then blink slowly. Cas lifts a foot up, also taking a slow step back. A step closer to the opening tear.
+
+"No!" Dean finds his voice again, shaky and broken. Panic rises. He runs toward the misshaped form of Castiel.
+
+Castiel stops where he stands. The spinning speed of the rings slows down. Still all-eyes staring.
+
+Dean swallows at the weight of the eyes, has to remind his own brain to ignore them.
+
+"You are, afraid of me." Cas says, slowly, testing the sound and volume. It is still so much louder than human voice, but not as deafening as angel's true voice.
+
+"No!" Dean almost reaches right in front of Cas now. And he realizes, the distance has made the size and shape deceivable, even if just for several feet. Now that he can almost touches this form of Cas's, Dean finds out, even if he reaches as tall as he can, he can barely touch anywhere above the heel of Cas's shoe. He stands there, looking up, thinking if it's how ant's view of a human would be like.
+
+"Yes," Dean hesitates, answering carefully, voice tight. "But not what you're thinking."
+
+"Tell me." Cas says, in pained voice, the light in his eyes dimming. *Tell me how horrifying and dangerous I am now, tell me how distorted and undignified this shape is. Tell me your disgust and terror, and you'll leave me in between the dimensions as I was.*
+
+And Dean tells him, through choked sound: "It's beautiful, Cas. You're beautiful. In any form, in all the forms." He pauses, letting the words sink in, then, "I'm not afraid of you, Cas. I never will. I'm afraid of losing you."
+
+The lingering touch of the Cas in the djinn's Purgatory comes back to him. So is that pair of eyes with the glistening tears. Dean can't help wipe his face with his hands, finding the barely dried places are wet again. It feels so easy to admit it, to say it, as if he has practiced for a thousand times -- with the djinn world and his nightmares being rehearsals, that might as well be true.
+
+And just like the nightmare replay, Cas sighs heavily, and then says, "But you have to let me go. Me being here, my existence and the tear, it's breaking the dimension, it might break the whole reality! I don't want to hurt you! I will never hurt you!"
+
+He glances at the sky. The lights of the aurora borealis intensify into more powerful bright lights. The sky is almost bright now, but not like the day-time bright, it is from the flowing curtain shaped, mixed from green, blue, and red. The colors transit fast and violently, the whole sky is like a boiling cauldron with floating mysterious colors of witch's potions. 
+
+"I know, Cas! I know." Dean yells from the top of his volume. "But I have a way!"
+
+<br>
+
+"No, this is too dangerous." Cas snaps, once Dean finishes his grand plan explanation.
+
+
+
 #### draft notes
+
+("I won't be able to protect you in that form" "What about, for once, make it my turn to protect you?")
+
+Outline: Dean shocked/terrified/in awe
+
+Discuss Dean's plan: A lot of argue, disagreement, intense quarrel, tension, Dean wants Cas back, Cas refuse Dean's sacrifice. Cas hates it can hurt Dean (possession+tear open with things coming+death vessel)
+
+Cas gets weak quickly for staying in this dimension talking for long, fighting against natural order, and with the tear more twisted light & colors, affecting/endanger the sky/air now, increased electricity/magnetism/plasma. For Dean's safety and Cas's own exhaustion, Cas almost gets pulled back again (almost give up fighting), Dean starts ritual before tear closes (regardless Cas protest).
+
+[+Cas POV, upset, self-aware; angry/sad Dean's sacrifice plan; deliberately didn't mention what if he's sent to Heaven (expelled but not summoned in time) he might kill himself]
 
 ### Chap. 6 Inside My Mind (Ritual+reunion)
 
