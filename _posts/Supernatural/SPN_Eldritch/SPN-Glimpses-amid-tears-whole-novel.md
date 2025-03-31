@@ -1540,7 +1540,7 @@ That is when his fingers feel a piece of paper inside the pocket.
 
 He fishes it out. The paper is torn in a hurry from some old newspaper, the scratchy handwriting at the blank edge reads: "Try Alaska, World's End, thinnest veil. Go get my unicorn."
 
-Dean huffs a short laughter, remembering Meg's last almost-pat.
+Dean huffs a short laughter, remembering Meg's last almost-pat. He says, "Son of a bitch." With a small smile.
 
 <br>
 
@@ -1640,7 +1640,7 @@ The lingering touch of the Cas in the djinn's version of Purgatory comes back to
 
 And just like the nightmare replay, Cas sighs heavily, and then says, "But you have to let me go. Me being here, my existence and the tear, it's breaking the dimension, it might break the sky and the whole world. I don't want to hurt you. I will never hurt you."
 
-He glances at the sky. The lights of the aurora borealis intensify into more powerful glaring lights. The sky is almost bright now, but not like the day-time bright, it is from the flowing curtain-shaped aurora, mixed from green, blue, and red. The colors transit fast and violently, the whole sky is like a boiling cauldron with floating mysterious colors of witch's potions. 
+He glances at the sky. The lights of the aurora borealis intensify into more powerful glaring lights. The sky is almost bright now, but not like the day-time bright, it is from the flowing curtain-shaped aurora, mixed from green, blue, and red. The colors transit fast and violently, the whole sky is like a boiling cauldron with floating mysterious colors of witch's potions.
 
 "I know, Cas, I know!" Dean yells from the top of his volume. "But I have a way."
 
