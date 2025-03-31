@@ -1498,7 +1498,7 @@ Sam laughs, genuinely happy. Even from across the street, even as he stands back
 
 "You want to name him something else?" he hears Sam answer, then sees him reaching out to the woman, holding her waist, pulling her into a hug and a light kiss, as if they haven't seen each other for a year, instead of less than a morning.
 
-The woman wraps her arms around Sam's back, holding him there. Dean can see her hands clenching at Sam's flannel as she holds him. She must have murmured something funny by Sam's ear, Sam barks out a laughter again. They finally walk into the house after that.
+The woman wraps her arms around Sam's back, holding him there. Dean can see her hands clenching at Sam's flannel as she holds him. She must have murmured something funny by Sam's ear, Sam barks out a louder laughter again. They finally walk into the house after that.
 
 The clean painted door closes behind them.
 
@@ -1608,7 +1608,7 @@ why Alaska: world's end, veil thinnest (Meg: "Try Ushuaia or Norway if you want,
 >
 > Cas gets weak quickly for staying in this dimension talking for long, fighting against natural order, and with the tear more twisted light & colors, affecting/endanger the sky/air now, increased electricity/magnetism/plasma. For Dean's safety and Cas's own exhaustion, Cas almost gets pulled back again (almost give up fighting), Dean starts ritual before tear closes (regardless Cas protest).
 >
-> [+Cas POV, upset, self-aware; angry/sad Dean's sacrifice plan; deliberately didn't mention what if he's sent to Heaven (expelled but not summoned in time) he might kill himself]
+> ~~[+Cas POV, upset, self-aware; angry/sad Dean's sacrifice plan; deliberately didn't mention what if he's sent to Heaven (expelled but not summoned in time) he might kill himself]~~
 
 #### Act 1
 
@@ -1698,13 +1698,9 @@ It's a debate neither of them can win or ever persuade the other. Dean knows far
 
 "Cas." He calls the angel, holding the stare one last time, as determined as he can be. The decision is already made.
 
-"*Omnipotentis Dei potestatem invoco!*" Dean starts.
+"*Omnipotentis Dei potestatem invoco!*" Dean starts, just as Cas about to take the last step.
 
 <br>
-
-#### draft notes
-
-[+Cas POV, upset, self-aware; angry/sad Dean's sacrifice plan; deliberately didn't mention what if he's sent to Heaven (expelled but not summoned in time) he might kill himself]
 
 ### Chap. 6 Inside My Mind (Ritual+reunion)
 
@@ -1718,6 +1714,80 @@ It's a debate neither of them can win or ever persuade the other. Dean knows far
 
 #### Act 1
 
+Lights in Castiel's eyes brighten up immediately in Dean's chanting, then through his mouth. Then through every single eye spread on the three spinning rings.
+
+The lights are so bright that the sun would be ashamed of its dimness. Dean doesn't want to close his eyes, not this time. *If it burns, then let it burn.* He decides.
+
+He keeps looking at Castiel, at his body that is too giant, at his face that is too high above in the mid-air, at the wings, at the rings. He takes them all in as if those are going to be the last things his eyes might ever see again -- which might be true. But he needs to see it, to time it right.
+
+Cas's grace is expelled from his body by the incantation, as expected. The flowing lights shift in the air, swirling as if they have life of their own, twisting and floating, like the way solar winds blow in the space, like the dazzling shape of aurora lights shifting on the firmament. They circle around Cas's body, tentative about leaving, then they start moving upward, toward the direction of Heaven.
+
+Dean is already moving toward the impala as he chants the angel exorcism, by the time the last bit of Cas's grace leaves his body, he has the car trunk wide open, the bowl with mixture of ingredients for the angel summoning spell setting on the drawing is ready to go. He throws the lighter into the bowl, watching the flame jumps high around the mixture.
+
+Outside, Cas's grace starts moving back, lowering from the sky.
+
+Dean holds his breath and waits. Part of his brain never stops wandering off, panicking about what if the summoning doesn't work and Cas's grace ends up at the door of the Heaven, where other angels spot him and kill him again. He doesn't realize he starts praying again, just repeatedly thinking, *Please, Cas. Please, work. Please, come back.*
+
+As Cas's grace flies away and hovers back, his body collapses down as if a mountain falls. Without control of a living mind, the legs slump, the body drops, the wings crash, the rings splash. The ground shakes like an earthquake. The sound of avalanche.
+
+Dean is startled, he is terrified. Dean only belatedly realizes he forgets to consider how to prevent this giant body from hitting the ground hard, from being hurt by the collision. Though, with his tiny shape, he doubts there is anything he could have done. *Please.* He can only hope.
+
+The only fortunate thing is, this is Alaska. For miles, there is no human sighting. No one will ever get to witness, no one will get collateral damage.
+
+Dean runs toward where the giant body lies. Where the Chrysler Tower falls to the ground. The sight of the landfall and avalanche of Castiel.
+
+There is something else he realizes not working as expected. The body and the rings -- the vessel and the true form -- they are not separating by themselves. The problem is not solved automatically -- they never do.
+
+And now, with the grace hovering over the lifeless body that is still too giant, the splicing problem remains.
+
+Dean forces himself to think fast. He looks at the light cloud of the grace, as if looking into Cas's eyes. He can feel his own brain operating like a computer with too hot CPU, dizzy from the light and the thinking.
+
+"Okay, emm, okay, we just need to, ugh," Dean puts a hand on the edge of the giant trench coat that is now spread on the ground, and as far as he reaches, he can only put a palm on the corner. "We need to get you a vessel first, we can fix this later."
+
+The thought comes like a flash, so is the answer. There is no second option in sight, so it is actually an obvious answer.
+
+"Yes." Dean says quickly, seeking the light of Cas's grace. "Cas, I said yes."
+
+The grace floats toward him, circling around his body, but doesn't move into him like he expects it to be. It's almost like Cas is considering, hesitating, refusing.
+
+"You'll never hurt me, I promise." Dean looks at the grace. "I trust you." He reaches a hand, and touches the grace, finding it warm and soft, like a feather's touch.
+
+The light reacts to his touch, twining on his finger, then moving along his skin until it reaches his mouth. It swarms into him.
+
+The sensation of being possessed isn't exactly welcoming. It's like intrusion, and his brain panics automatically. But Dean forces his mind focused on the only thought of "This is Cas", and his heartbeat slowly calms.
+
+The view of the world brightens up when all the grace infuses into him, it's like setting the brightness and contrast level of a TV display to a thousand or more. Everything so dazzling and blinding, Dean thinks his eyes might hurt from looking at the world like this for too long, but then quickly realizes the eyes are actually quite used to it -- the eyes that are not entirely his own right now.
+
+"Cas?" Dean whispers, tentatively, toward the empty road ahead of him. Cas's body is still slumping on the ground, but this is not what he means.
+
+Inside of him, the stir of another existence emerges. Dean closes his eyes, searching inside.
+
+At the corner of his head, he finds him. Cas looks exactly the same as he remembers him by, the trench coat, the blue tie, the disheveled hair, the bright blue eyes. He stands in the corner of his mind like a shy kid hiding himself at the very end of the room at the prom.
+
+Dean rushes to him, "There you are."
+
+For all his concern, Cas looks well. In this current form as he is, whatever that form is called. He looks a little tired, and a little -- a lot -- worried, with the tight burrow between his eyebrows. But all things considered, he looks great.
+
+Dean spreads his arms and pulls Cas into a mental hug. His brain produces the sensation of warmth and solidness of a body for him, even if he knows nothing is physical now.
+
+Cas reluctantly raises his arms and wraps them around Dean. Then he doesn't let go. Nor does Dean.
+
+"Hello, Dean." He says, in his gravel voice.
+
+Dean exhales a happy huff.
+
+
+
 #### draft notes
+
+ritual works, Cas shares Dean's body but both awake, Cas use mojo to fix vessel (Dean witnesses, amazed, "so this is how it's like, internally" "that sounds so wrong but whatever") and ready to go back into it (Cas all the time quiet), Dean mentally apologize and tell him his true form is awesome before Cas goes back (talk in Dean's brain, both normal: "You really think that?" "Yeah, I do"). Cas leaves Dean's body, own body remains lifeless for a bit, Dean worries, then Cas back. Reunion, hug, problem solved, "Welcome back."
+
+(when Cas is inside Dean, add Cas POV or let him talk real thoughts, or Dean sees from Cas's POV: Cas upset, self-aware the monstrous form; see his own pieces in dimension; see Dean as only an eye during seance; angry/sad Dean's sacrifice plan; deliberately didn't mention what if he's sent to Heaven (expelled but not summoned in time) he might kill himself; memory of consequence after god!Cas and crazy!Cas time, how broken he was, how sorry he was)
+
+ritual: let Cas possess him as vessel temporarily, use his own power fix his vessel's size, jump back into his body
+
+use half Dean's soul+half Cas's grace to fix the tear, so Dean won't die & Cas's won't be gone/fall (or sacrifice a Meg? or use love to solve it? or Dean actually die once, but Cas resurrect him just quickly enough?)
+
+*"Death is an infinite vessel, so is love."*
 
 ###### End
