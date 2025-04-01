@@ -110,6 +110,8 @@ Chap. 4-3 The joke Amelia says by Sam's ear is: "I hope you won't name our kid '
 
 Chapter titles "In your eyes" "Inside my minds": "your" and "my" mean both of them
 
+Chap. 6 the shrinking body, the lost mass becomes energy, that's the mass-energy equivalence
+
 ### Dean's mental state
 
 ≈S08E01-07
@@ -1720,7 +1722,9 @@ The lights are so bright that the sun would be ashamed of its dimness. Dean does
 
 He keeps looking at Castiel, at his body that is too giant, at his face that is too high above in the mid-air, at the wings that spread wide and cast long shadows, at the rings that reflect silvery and spin like stars on orbits. Dean looks at Castiel as he is, in all the forms that he is, as a whole. He takes everything that is Castiel all in as if those are going to be the last things his eyes might ever see again -- which might be true. But he needs to see him, to time it right.
 
-Cas's grace is expelled from his body by the incantation, as expected. The flowing lights shift in the air, swirling as if they have life of their own, twisting and floating, like the way solar winds blow in the space, like the dazzling shape of aurora lights shifting on the firmament. They circle around Cas's body, hesitant about leaving. Then they start moving upward, toward the direction of Heaven.
+The lights start cover the wings, and the rings reflect as brightly, as though these angelic parts all start melting together into the grace.
+
+Slowly and surely, Cas's grace is expelled from his body by the incantation, as the spell works its magic. The flowing lights shift in the air, swirling as if they have life of their own, twisting and floating, like the way solar winds blow in the space, like the dazzling shape of aurora lights shifting on the firmament. They circle around Cas's body, hesitant about leaving. Then they start moving upward, toward the direction of Heaven.
 
 Dean is already moving toward the impala as he chants the angel exorcism, by the time the last piece of Cas's grace leaves his body, he has the car trunk wide open, the bowl with mixture of ingredients for the angel summoning spell setting on the drawing is pre-prepared and ready to go. He throws the lighter into the bowl, watching the flame jumps high around the mixture.
 
@@ -1728,7 +1732,7 @@ Outside, Cas's grace starts moving back, lowering from the sky.
 
 Dean holds his breath and waits. Part of his brain never stops wandering off, panicking about what if the summoning doesn't work and Cas's grace ends up at the door of the Heaven, where other angels spot him and kill him again. He doesn't realize he starts praying again, just repeatedly thinking, *Please, Cas. Please, work. Please, come back.*
 
-As Cas's grace flies away and hovers back, his body collapses down as if a mountain falls. Without control of a living mind, the legs slump, the body drops, the wings limp, the rings crash. The ground shakes like an earthquake. The sound of avalanche.
+As Cas's grace flies away and hovers back, his body collapses down as if a mountain falls. Without control of a living mind, the legs slump, the body drops, the arms limp, the shoulder crashes. The ground shakes like an earthquake. The sound of avalanche.
 
 Dean is startled, he is petrified. Dean only belatedly realizes he forgets to consider how to prevent this giant body from hitting the ground hard, from being hurt by the collision. Though, with his tiny shape, he doubts there is anything he could have done. He hates the thought that Cas's form might be injured in the process by the slightest because of his carelessness. *Please.* He can only hope.
 
@@ -1736,15 +1740,15 @@ The only fortunate thing is, this is Alaska. For miles, there is no human sighti
 
 Dean runs toward where the giant body lies. Where the Chrysler Tower falls to the ground. The sight of the landfall and avalanche of Castiel.
 
-There is something else he realizes not working as expected. The body and the rings -- the vessel and the true form -- they are not separating by themselves. The problem is not solved automatically -- they never do.
+There is something else he realizes not working as expected. The body is still too big -- as it was. Somehow in his thought, in his plan, he imagines it shrink back to the normal size the moment the angelic parts are separated, somehow things will correct themselves and problems get solved automatically -- they never do.
 
-And now, with the grace hovering over the lifeless body that is still too giant, the splicing problem remains.
+And now, with the grace hovering over the lifeless body that is still too giant, the problem remains.
 
-Dean forces himself to think fast. He looks at the cloud of the light, as if looking into Cas's eyes. He can feel his own brain operating like a computer with too hot CPU, dizzy from the light and the thinking.
+Dean forces himself to think fast. He looks at the cloud of the light, as if looking into Cas's eyes. He can feel his own brain operating like a computer with too hot CPU, dizzy from the light and too hard thinking.
 
 "Okay, emm, okay, we just need to, ugh," Dean puts a hand on the edge of the giant trench coat that is now spread on the ground. And as far as he reaches, he can only put a palm on the corner, no further than the first edge stitch. *He's too tiny, too weak, too helpless.* The shape and size keep reminding him. *He's just a human. How can he ever imagine fixing an angel that is so grand and beautiful?*
 
-Dean clenches his fingers around that corner of the fabric he can get, forcing his mind away from that train of thought. This is about Cas, not about him.
+Dean clenches his fingers around that corner of the fabric he can get, forcing his mind away from that train of thought. *This is about Cas, not about him.*
 
 The lights float closer to him than to the body on the ground, but still high in the air, out of reach.
 
@@ -1808,27 +1812,29 @@ He pats Cas on the shoulder. The touch is still warm and solid. Real.
 
 <br>
 
-Dean opens his eyes again. He is still alone on the cold road of Alaska, at the World's End, with no more road to go and a large clump of lifeless figure collapsed in front of him on the ground. But for once, he feels good. For once, he is not really alone -- maybe he never is.
+#### Act 2
+
+Dean opens his eyes again. He is still alone on the cold roadside of Alaska, at the World's End, with no more road to go and a large clump of lifeless figure collapsed in front of him on the ground. But for once, he feels good. For once, he is not really alone -- maybe he never is.
 
 The sensation of Cas's existence tugs slightly in his mind. Dean tucks him in, feeling oddly like hens tucking chickens under their wings. All the while the angel's body is still an enormous hill in front of him. Dean laughs at the humor of the scene. He hears Cas mumbles a small unhappiness at the back of his head.
 
-And Dean has to restrains his smile a little. "Sorry buddy, no, not laughing at the body, I swear." He comforts the angel. "Just thinking how extremely like a black satire movie this is. Would make a master piece as some art, instead of, you know, as life."
+And Dean has to restrains his smile a little. "Sorry buddy, no, not laughing at the body, I swear." He comforts the angel. "Just thinking how extremely like a black satire movie this is. Would make a master piece as art, instead of, you know, as life."
 
 Cas chuckles softly.
 
-Dean gets better used to the too brightened view now. He widens his eyes in curiosity. The view of the world is so abundant with colors and clarity that he has never known. The air is not transparent empty, instead, tiniest particles charged with electricity shooting around, bumping into each other, transferring the powers. That must be where all the low buzzing and humming noises come from, and the small prickling feeling on the skin as if touching the low charged power line.
+Dean gets better used to the too brightened view now. He widens his eyes in curiosity. The view of the world is so abundant with colors and clarity that he has never known. And he realizes the glinting stars constantly shining in his view aren't really stars, that's air, for what air really is. The air is not transparent empty, instead, tiniest particles charged with electricity shooting around, bumping into each other, transferring the power and energy. That must be where all the low buzzing and humming noises come from, and the small prickling feeling on the skin as if touching the low charged power line.
 
-"The whole Earth's electric and magnetic field is being affected by this tear." Cas explains in the backseat of his head. "Because of the infinite plasma. The aurora borealis is just the phenomenon."
+"The whole Earth's electric and magnetic field is being affected by the tear this time." Cas explains in the backseat of his head. "Because of the infinite plasma. The aurora borealis is just the phenomenon."
 
-Dean looks up at the sky. He knows what Cas means now. It looks nothing like what his human eyes witnessed before. Well, in a way, it might still be the same scenery, the mixed dazzling colors, the shapes that are like flowing curtains and snakes and flames sweeping across the sky. Except, there are so much more details fitting in the blanks now.
+Dean looks up at the sky. He knows what Cas means now. It looks nothing like what his human eyes witnessed before. Well, in a way, it might still be the same scenery, the mixed dazzling colors, the shapes that are like flowing curtains and snakes and flames sweeping across the sky. Except, there are so much more details fitting in the blanks.
 
 Now he can see more than light, more than color, more than sky. He sees the world as it is, he sees plasma punching into the ionosphere, he sees electrons jumping in and out of the excited atoms, he sees oxygens glaring red and nitrogen beaming green. The particles dance in the sky, drawing colors like tails of dragon, wings of phoenix, eyes of thunderbird. The palette of the universe, so big and so small at the same time. A world that no human eyes witness, and now he is showered with its beauty and magnificence. Because he has an angel inside him.
 
 He doesn't realize tears are streaming down his face until he hears Cas's low soothing sound: "I'm sorry, Dean. Is it too much? I can restrain the eyesight, and other sensations..."
 
-"No, no." Dean breathes, wiping away his tears in a hurry. Tears that are not coming from sorrow, or grieve, or worry, or joy, or any emotion really. It's the body reacting to the view, being taken by the grandiosity.
+"No, no." Dean breathes, wiping away his tears in a hurry. Tears that are not coming from sorrow, or grieve, or worry, or joy, or any emotion really. It's the body reacting to the view, being taken by the grandiosity, overwhelmed by the shared sensation with an angel.
 
-The magic is broken for a minute by the move. He tears his eyes away from above, having the sunk feeling that he may not see something like this again in his life, not after Cas leaves. He wants to remember this. Is this what Cas means when he said he can only taste molecules when he tries sandwiches? Because to angel's eyes, the whole world is too generously and selfishly only showing its fundamentals all the time, as particles? The view, the sound, the taste, the touch. Everything as they fundamentally are, as their smallest components. The smallest, and sometimes the biggest. Knowing too much, and sometimes feeling too little.
+The magic is broken for a minute by the move. He tears his eyes away from above, having the sunk feeling knowing that he may not see anything like this again in his life, not after Cas leaves him. He wants to remember this. Is this what Cas means when he said he can only taste molecules when he tries food? Because to angel's eyes and senses, the whole world is too generously and selfishly only showing its fundamentals all the time, as particles? The view, the sound, the taste, the touch. Everything as they fundamentally are, as their smallest components. The smallest, and sometimes the biggest. Knowing too much, and sometimes feeling too little.
 
 And he hears Cas answering, quietly, a little sad. "Yes. Sometimes."
 
@@ -1836,21 +1842,45 @@ Though Dean didn't really ask the question.
 
 <br>
 
-His eyes land on Cas's figure next. The giant figure with tower-size trench coat and wings as grand as the legends say.
+He sees the world as it is. Then he sees Cas as he is. And he sees himself as he is.
+
+His eyes land on Cas's body next. The giant body dressed with tower-size clothes that is most human yet furthest from human. The body looks slimmer without the wings, but it's still a mountainous presence.
+
+"The vessel is made of atoms and electrons in the material plane." Dean remembers his words again, the theoretics that Cas tried to explain to him but he had to cut him off because he couldn't understand. And this time, now, he doesn't just understand it, he sees it now.
+
+The hand of the vessel limps alongside the body, lying loosely on the middle of the road, fingers curved, as tall as houses. Dean walks to them. It takes a few minutes.
+
+Everything is in so much details. Every grain on the skin, every line in the palm, every hair and scar. He sees a hand, then he sees flesh and blood and bone, at last he sees the atoms and electrons, vibrating and humming with energy as all particles do.
+
+Dean presses his own palm on the edge of this giant palm of Cas's body, it feels like touching a wall. But they touch. And he finds them the same. The same particles that form everything in this universe, in all the bodies, in Dean's and Cas's vessel, in flesh and blood, in planets and dust. The things that are as old as stars, and as new as buds. In the material plane, they are the same. But Cas is not.
+
+Cas is not physical, not really. Cas does not come from this dimension, but he chooses here, he comes here. He resides in a body, and he walks the Earth. And now, he is inside Dean. He drops the grand form, and he curls up in that small corner of Dean's brain. And he doesn't complain. He stands there, and he says, "Dean." As if it's the only place he'd rather be.
+
+For the first time, Dean thinks, maybe this is for the first time, he finally starts to have a glimpse of understanding what it means to be an angel. A real angel in all their forms, from their views. Not just the vessel, not just a piece. Not just, a fragment of trench coat, a thread of blue tie, a flying feather, a floating eye, or a silvery slice of the ring -- the pieces he saw in the dimension in between, during the seance, the pieces giving him nightmares nights after nights. Oddly, Dean finds himself feeling a tiny little bit of appreciation for what that dimension shows him. As much nightmare as it gives him, he finally gets to understand, Cas is magnificent and giant and beautiful, beyond his imagination. For the first time.
+
+Dean clenches his fingers, putting his weight on the hands, holding himself there. At that minute, he wants nothing more than to really hold that hand, hold Cas. So he turns back to inside his head.
+
+Cas meets him in the manifestation of Bobby's place. Sunshine seeping through the window doesn't shift, time doesn't move here. The bright sunlight shines half of Cas's figure, dying his black hair golden brown.
+
+And Dean reaches for his hands, squeezing, looking him in the eyes. And Dean says: "Never ever say you don't deserve."
+
+And Cas swallows, and smiles, and nods slightly. His eyJust like any human.
+
+<br>
+
+#### Act 3
+
+
 
 
 
 #### draft notes
 
-he sees Cas as he is. and he sees himself as he is
-
-For the first time, Dean thinks, maybe this is for the first time, he finally starts to have a glimpse of understanding what it means to be an angel. A real angel in all its forms, from their views. Not just the vessel, not just a piece. Not just, a fragment of trench coat, a thread of blue tie, a flying feather, a floating eye, a silvery slice of the ring -- like all the pieces he saw in the dimension in between, during the seance. Oddly, Dean finds himself even feeling a tiny little bit of appreciation for what that dimension shows him. As much nightmare as it gives him, he finally gets to see Cas for real now. For the first time.
-
 Cas use mojo to fix vessel (Dean witnesses, amazed, "so this is how it's like, internally" "that sounds so wrong but whatever") and ready to go back into it (Cas all the time quiet), Cas leaves Dean's body, own body remains lifeless for a bit, Dean worries, then Cas back. Reunion, hug, problem solved, "Welcome back."
 
 (when Cas is inside Dean, Dean sees from Cas's POV: Cas upset, self-aware the monstrous form; see his own pieces in dimension; see Dean as only an eye during seance; angry/sad Dean's sacrifice plan; deliberately didn't mention what if he's sent to Heaven (expelled but not summoned in time) he might kill himself; memory of consequence after god!Cas and Leviathan and crazy!Cas and Purgatory time, how broken he was, how sorry he was, need to fix it too)
 
-use half Dean's soul+half Cas's grace to fix the tear, so Dean won't die & Cas's won't be gone/fall (or sacrifice a Meg? or use love to solve it? or Dean actually die once, but Cas resurrect him just quickly enough?)
+use half Dean's soul+half Cas's grace to fix the tear, so Dean won't die & Cas's won't be gone/fall (or sacrifice a Meg? or use love to solve it? or Dean actually die once, but Cas resurrect him just quickly enough?) (mass-energy equivalence, the law of physics solves itself)
 
 *"Death is an infinite vessel, so is love."*
 
