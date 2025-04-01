@@ -1864,7 +1864,7 @@ Cas meets him in the manifestation of Bobby's place. Sunshine seeping through th
 
 And Dean reaches for his hands, squeezing, looking him in the eyes. And Dean says: "Never ever say you don't deserve."
 
-And Cas swallows, and smiles, and nods slightly. His eyJust like any human.
+And Cas swallows, and smiles, and nods slightly. His eyes shining. Just like any human.
 
 <br>
 
@@ -1876,11 +1876,13 @@ And Cas swallows, and smiles, and nods slightly. His eyJust like any human.
 
 #### draft notes
 
-Cas use mojo to fix vessel (Dean witnesses, amazed, "so this is how it's like, internally" "that sounds so wrong but whatever") and ready to go back into it (Cas all the time quiet), Cas leaves Dean's body, own body remains lifeless for a bit, Dean worries, then Cas back. Reunion, hug, problem solved, "Welcome back."
+Cas use mojo to fix vessel (Dean witnesses, amazed, "so this is how it's like, internally" "that sounds so wrong but whatever") and ready to go back into it
 
-(when Cas is inside Dean, Dean sees from Cas's POV: Cas upset, self-aware the monstrous form; see his own pieces in dimension; see Dean as only an eye during seance; angry/sad Dean's sacrifice plan; deliberately didn't mention what if he's sent to Heaven (expelled but not summoned in time) he might kill himself; memory of consequence after god!Cas and Leviathan and crazy!Cas and Purgatory time, how broken he was, how sorry he was, need to fix it too)
+(when Cas is inside Dean and Dean uses grace to fix the vessel, Dean sees from Cas's POV: Cas upset, self-aware the monstrous form; see his own pieces in dimension; see Dean as only an eye during seance; angry/sad Dean's sacrifice plan; deliberately didn't mention what if he's sent to Heaven (expelled but not summoned in time) he might kill himself; memory of consequence after god!Cas and Leviathan and crazy!Cas and Purgatory time, how broken he was, how sorry he was, need to fix it too)
 
 use half Dean's soul+half Cas's grace to fix the tear, so Dean won't die & Cas's won't be gone/fall (or sacrifice a Meg? or use love to solve it? or Dean actually die once, but Cas resurrect him just quickly enough?) (mass-energy equivalence, the law of physics solves itself)
+
+Cas leaves Dean's body, own body remains lifeless for a bit, Dean worries, then Cas back. Reunion, hug, problem solved, "Welcome back."
 
 *"Death is an infinite vessel, so is love."*
 
