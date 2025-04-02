@@ -4,7 +4,7 @@ title: 【梦记】Castiel在Caltech（很多记忆碎片）
 date: 2024-08-11 14:25
 categories: ["梦记"]
 characters: ["Castiel", "Lyra"]
-tags: ["梦记", "Supernatural", "记忆", "碎片"]
+tags: ["梦记", "Supernatural", "记忆", "碎片", "食物"]
 pov: 第一人称视角
 origin: 个站
 ---

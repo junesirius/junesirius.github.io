@@ -4,7 +4,7 @@ title: 【梦记】与Viggo的情侣日常
 date: 2021-07-29 09:58
 categories: ["梦记"]
 characters: ["Viggo Mortensen"]
-tags: ["梦记", "血", "好故事", "亲密关系", "梦中梦"]
+tags: ["梦记", "血", "好故事", "亲密关系", "梦中梦", "食物"]
 pov: 第一人称视角
 origin: 个站
 ---

@@ -4,7 +4,7 @@ title: 【梦记】宾馆自选早餐（碎片）
 date: 2024-02-23 08:15
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "碎片", "纽约"]
+tags: ["梦记", "碎片", "纽约", "食物"]
 pov: 第一人称视角
 origin: 个站
 ---

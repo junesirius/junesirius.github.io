@@ -4,7 +4,7 @@ title: 【梦记】打疫苗（恐慌）
 date: 2021-08-07 13:28
 categories: ["梦记"]
 characters: 
-tags: ["梦记"]
+tags: ["梦记", "食物"]
 pov: 第一人称视角
 origin: 个站
 ---

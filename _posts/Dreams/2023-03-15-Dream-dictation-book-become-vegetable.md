@@ -4,7 +4,7 @@ title: 【梦记】错过午饭，听写本变成蔬菜
 date: 2023-03-15 12:34
 categories: ["梦记"]
 characters: ["Frank Castle/Punisher"]
-tags: ["梦记", "惩罚者", "普通故事"]
+tags: ["梦记", "惩罚者", "普通故事", "食物"]
 pov: 第一人称视角
 origin: 个站
 ---

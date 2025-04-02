@@ -4,7 +4,7 @@ title: 【梦记】邀请出任推特CTO，糖醋排骨
 date: 2023-08-05 10:05
 categories: ["梦记"]
 characters: ["Elon Musk"]
-tags: ["梦记", "工作"]
+tags: ["梦记", "工作", "食物"]
 pov: 第一人称视角
 origin: 个站
 ---

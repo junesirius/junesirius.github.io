@@ -4,7 +4,7 @@ title: 【梦记】有一点点VO
 date: 2021-08-21 16:11
 categories: ["梦记"]
 characters: ["Orlando Bloom", "Viggo Mortensen", "Elijah Wood", "Dominique Monagh", "Billy Boyd", "Lyra"]
-tags: ["梦记", "VO"]
+tags: ["梦记", "VO", "食物"]
 pov: 第一人称视角
 origin: 个站
 ---

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【梦记】Viggo
+title: 【梦记】Viggo（很爱）
 date: 2021-01-14 04:00
 categories: ["梦记"]
 characters: ["Viggo Mortensen"]
-tags: ["梦记", "亲密关系"]
+tags: ["梦记", "亲密关系", "食物"]
 pov: 第一人称视角
 origin: Lofter
 ---

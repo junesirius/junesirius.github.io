@@ -4,7 +4,7 @@ title: 【梦记】买面包、画画（碎片）
 date: 2021-06-25 12:27
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "碎片", "绘画"]
+tags: ["梦记", "碎片", "绘画", "食物"]
 pov: 第一人称视角
 origin: 个站
 ---

@@ -4,7 +4,7 @@ title: 【梦记】死神
 date: 2020-09-19
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "死亡"]
+tags: ["梦记", "死亡", "食物"]
 pov: 第一人称视角
 origin: Lofter
 ---

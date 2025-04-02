@@ -4,7 +4,7 @@ title: 【梦记】家庭自助餐（有丁卡）
 date: 2024-12-26 04:33
 categories: ["梦记"]
 characters: ["Castiel", "Dean Winchester", "Sam Winchester"]
-tags: ["梦记", "碎片", "普通故事", "Supernatural", "destiel"]
+tags: ["梦记", "碎片", "普通故事", "Supernatural", "destiel", "食物"]
 pov: 第一人称视角
 origin: 个站
 ---
