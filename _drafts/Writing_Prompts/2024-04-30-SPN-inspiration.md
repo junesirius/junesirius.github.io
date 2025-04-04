@@ -1982,6 +1982,8 @@ they caught Dean in camera/in action, can't snap him out of it, worry it's demon
 
 they find the witch/proof of there is a witch, hunt them down, snap Dean out of it, save him and others (in some cave/underground/abandoned house, alive)
 
+OR: it's self-unaware amnesic serial killer Cas, thinking he's helping the Winchesters on case, actually he's the one committing it, he doesn't even know -> Dean feel betrayed again? trust issue like 619 between destiel again?
+
 ### 229.【destiel】S15E20 souls been to Hell can't go to Heaven
 
 souls went to hell can't go to heaven -> 1520 after Dean's death, he thought he's in heaven but actually it's Hell's private room Rowena gave him (the best they can offer given the situation)
