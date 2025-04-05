@@ -2285,4 +2285,20 @@ similar setting but different story：飞来的天使是S4/5时期的卡，卡�
 
 （心理阴影治愈部分灵感来自北麻《Into the Fire》）
 
-### 254.
+### 254.【Benny/Garth】S15E09 where is Benny
+
+After S8 Benny get sent back to Purgatory, what happened to him. not dead. but why when S15E09 Dean asked about him in Purgatory, the monsters/vampires said so, must have lied, but why. Benny actually get power in Purgatory? like how Rowena rule the Hell, would be nice to have Benny rule Purgatory, but he isn't really the ruler type, power isn't what he want, did he find Andrea? is there sea in Purgatory where they can continue being vampirate? would he be disappointed/upset about Andrea turn on him back on Earth so move on from her? find Garth instead after Garth died of old age as werewolf?
+
+### 255.【Crowley】S09E11 search the ocean for first blade
+
+ocean is salty water, demon Crowley get sting and wounded by the sea?
+
+(inspired by 2025-04-05 dream)
+
+### 256.【Crowley】S08E02 Hell claim Moon
+
+(inspired by Northern Sparrow's《Into the Fire》)
+
+how is it like to claim the moon? is there a fight between Heaven/Hell over the moon? Is that why all the dips and pits on moon? marks of the angel/demon fight? Is that why moon keeps looking at the Earth on one side, because demons rest on the other side?
+
+### 257.
