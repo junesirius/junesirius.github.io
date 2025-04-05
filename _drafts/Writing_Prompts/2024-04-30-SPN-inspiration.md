@@ -2277,4 +2277,12 @@ Dean's only move is to break his happiness, make him miserable, so Empty's deal 
 
 they'll figure out the truth later, once safe
 
-### 253.
+### 253.【destiel】14卡+天使丁
+
+14丁卡时间线，卡说过天使都飞走了（所以他失去了所有能量），what if 突然飞来一只同世界线未来的天使，是天使丁，但是失忆，忘记了自己是怎么“变成”天使的，可能觉得自己一直都是天使（其实因为是同时间线，是14丁演化成的）。但是对卡来说但凡有天使来了他就能慢慢恢复，所以能量开始慢慢回来了。然后卡要帮未来丁想起来他发生了什么，要搞明白路西米后来怎么样了，僵尸世界怎么救，14卡怎么治愈，丁卡心理阴影都要很久才能治愈，原时间线14丁在天使丁来的时候去哪了（可以double date式互换？进入天使丁对应的未来卡时间点？或者同时也在）
+
+similar setting but different story：飞来的天使是S4/5时期的卡，卡帮自己？（可以用失忆解决时间线paradox问题）
+
+（心理阴影治愈部分灵感来自北麻《Into the Fire》）
+
+### 254.
