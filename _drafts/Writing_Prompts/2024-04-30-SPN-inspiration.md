@@ -1202,17 +1202,19 @@ Cas can't control where to land in time stream (a curse?), has to pop in time in
 
 Cas keeps randomly popping in and scares them, Dean makes him new rule: can't fly in within X feet (like a block away, a corridor away), has to walk the rest of the way to them like humans do, either that or Cas wearing a bell (Cas rolls his eyes) (but which one he'll choose? bell becomes punishment when he fails the first rule? sexual punishment?)
 
-### 132.【destiel】S13E04 睡觉恐惧【WIP】
+### ~~132.【destiel】S13E04/S15E18 睡觉恐惧【done】~~
 
-《Sleepphobia》
+《Fear of Sleep》
 
-post-1518/1520，HE
+tag: angst, HE, S15E18
 
-因为在虚无中入睡就代表永远醒不过来，回不到丁身边，所以就算回来了，就算到后来真的需要睡眠（1503-1518之间，or私设1520之后），不管多困多累，卡也不敢睡
+因为在虚无中入睡就代表永远醒不过来，回不到丁身边，所以就算回来了，就算到后来真的需要睡眠（私设1520回来之后），不管多困多累，卡也不敢睡
 
 安静的深夜，不敢睡觉的时候，会怎么做，失眠看书听音乐喝咖啡
 
-私设一开始还是天使时期，倒也可以不睡，后期是人类时期了，硬撑着不睡，像疯米时期一样快把自己搞疯了，不得不睡着了，每次都会惊慌，丁怎么把他哄好，怎么给他安全感
+私设一开始还是天使时期（1304-1520），倒也可以不睡；后期是人类时期了，硬撑着不睡，像疯米时期一样快把自己搞疯了，不得不睡着了，每次都会惊慌，丁怎么把他哄好，怎么给他安全感
+
+一起睡，闪回曾经是卡翅膀mantle丁让他不做噩梦，现在是丁这样让卡能安心（在一起了？不重要）
 
 ### 133.【destiel】S13E05 Right in time for funeral
 
