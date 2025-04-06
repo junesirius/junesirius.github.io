@@ -536,7 +536,7 @@ Jack/米：（也震惊）所以你什么都没有给他？那他怎么……？
 
 src: [pinterest](https://www.pinterest.com/pin/199706564717793443)
 
-![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2024-08-21-Cas-wing-wall.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/mrpyq/2024-08-21-Cass-wing-wall.jpg)
 
 丁拉着卡在翅膀墙前拍照合影，彩色翅膀，可以衍生成坚持要看翅膀的真实样子
 
@@ -724,13 +724,15 @@ Cas doesn't want Dean see his true face because he thinks he's ugly
 
 reel gag Dean: “If she has a Chinese Chair, you call me”
 
-### 73.【destiel】Ice Age AU【WIP - bang】
+### 73.【destiel】Ice Age AU
 
 《Dean Winchester is a squirrel》
 
 Dean is (transformed to) a squirrel, Sam a moose, Cas a bird, all in the Ice Age
 
-who did this? Crowley/Gaberiel?
+multiverse version?
+
+who did this? Crowley/Gabriel/Chuck/Rowena?
 
 ≈151
 
@@ -788,7 +790,9 @@ Nine months later Cas finds out. (squash timeline a bit) Dean killed Jack (which
 
 (check real timeline: S09E03 is Oct.22 2013, due date around July 15 2014, right between S09E23 and S10E01, demon Dean time -> patch: Cas didn't realize it until S12E23 Jack is born and killed on sight after birth immediately (time: May 18 2017), Cas' kid is 3y old, maybe overgrow a bit too like Jack did, show as a teen
 
-### **81.【Dean/impala】S11E04 impala is a lady**（R级？）
+### **81.【Dean/impala】S11E04 impala is a lady**（R级）
+
+《Hunter's Baby》
 
 impala becomes a real lady (=Tardis becomes a girl, DW S06E04)
 
@@ -1198,9 +1202,17 @@ Cas can't control where to land in time stream (a curse?), has to pop in time in
 
 Cas keeps randomly popping in and scares them, Dean makes him new rule: can't fly in within X feet (like a block away, a corridor away), has to walk the rest of the way to them like humans do, either that or Cas wearing a bell (Cas rolls his eyes) (but which one he'll choose? bell becomes punishment when he fails the first rule? sexual punishment?)
 
-### 132.【destiel】S13E04 睡觉恐惧
+### 132.【destiel】S13E04 睡觉恐惧【WIP】
+
+《Sleepphobia》
+
+post-1518/1520，HE
 
 因为在虚无中入睡就代表永远醒不过来，回不到丁身边，所以就算回来了，就算到后来真的需要睡眠（1503-1518之间，or私设1520之后），不管多困多累，卡也不敢睡
+
+安静的深夜，不敢睡觉的时候，会怎么做，失眠看书听音乐喝咖啡
+
+私设一开始还是天使时期，倒也可以不睡，后期是人类时期了，硬撑着不睡，像疯米时期一样快把自己搞疯了，不得不睡着了，每次都会惊慌，丁怎么把他哄好，怎么给他安全感
 
 ### 133.【destiel】S13E05 Right in time for funeral
 
