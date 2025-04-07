@@ -1206,7 +1206,7 @@ Cas keeps randomly popping in and scares them, Dean makes him new rule: can't fl
 
 《Fear of Sleep》
 
-tag: angst, HE, S15E18
+tag: angst, HE, S15E18, canon divergent, pos
 
 因为在虚无中入睡就代表永远醒不过来，回不到丁身边，所以就算回来了，就算到后来真的需要睡眠（私设1520回来之后），不管多困多累，卡也不敢睡
 
@@ -2319,4 +2319,14 @@ how is it like to claim the moon? is there a fight between Heaven/Hell over the 
 
 詹反复重温手机上录的卡表白录像，其实是詹反复想听米沙说爱他，是詹的不安全感在作祟
 
-### 258.
+### 258.【destiel】S06E17 White Russia
+
+(should be mostly destiel, but maybe some minor hint/inspired from jenmish)
+
+When Cas brings Dean/Sam away to protect them from Atropos, his first instinct is to fly them to White Russia. Why White Russia? anything to do with Misha's connection with Russia?
+
+accent kink? (Jen's kink, can project to Dean)
+
+(slightly inspired by a fic where there is a line of Cas saying goodnight to Dean in Russia)
+
+### 259.
