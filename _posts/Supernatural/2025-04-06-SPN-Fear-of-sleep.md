@@ -6,7 +6,7 @@ categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
 tags: ["Supernatural", "destiel", "英文"]
 pov: 第三人称
-origin: AO3 
+origin: 5k by 5 May
 ---
 
 Sleeping has always been a human thing, angels don't need to sleep, but they can, if they want. Dean knows, so does Cas.
