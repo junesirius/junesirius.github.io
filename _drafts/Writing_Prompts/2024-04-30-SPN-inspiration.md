@@ -2315,4 +2315,8 @@ ocean is salty water, demon Crowley get sting and wounded by the sea?
 
 how is it like to claim the moon? is there a fight between Heaven/Hell over the moon? Is that why all the dips and pits on moon? marks of the angel/demon fight? Is that why moon keeps looking at the Earth on one side, because demons rest on the other side?
 
-### 257.
+### 257.【jenmish】confession
+
+詹反复重温手机上录的卡表白录像，其实是詹反复想听米沙说爱他，是詹的不安全感在作祟
+
+### 258.
