@@ -1018,7 +1018,7 @@ invite him over because he said he doesn't have a bed at home, and it's actually
 
 ### 105.【destiel】Cas is a DW weeping angel【WIP - bang】
 
-《Do Not Blink》
+《Do Not Blink》/《The Angels Take Manhattan》/《Look At Me》
 
 卡中了哭泣天使咒，触碰会让人回溯时间，被注视会无法移动
 
@@ -2309,11 +2309,13 @@ ocean is salty water, demon Crowley get sting and wounded by the sea?
 
 (inspired by 2025-04-05 dream)
 
-### 256.【Crowley】S08E02 Hell claim Moon
+### 256.【Crowley/all】S08E02 Hell claim Moon
 
 (inspired by Northern Sparrow's《Into the Fire》)
 
 how is it like to claim the moon? is there a fight between Heaven/Hell over the moon? Is that why all the dips and pits on moon? marks of the angel/demon fight? Is that why moon keeps looking at the Earth on one side, because demons rest on the other side?
+
+Dean/Sam/Cas need to go to moon to exorcise/free moon from demons?
 
 ### 257.【jenmish】confession
 
