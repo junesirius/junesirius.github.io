@@ -2331,4 +2331,84 @@ accent kink? (Jen's kink, can project to Dean)
 
 (slightly inspired by a fic where there is a line of Cas saying goodnight to Dean in Russia)
 
-### 259.
+### 259.【destiel】《Always Will Be》（lyrics）
+
+(by Hammerfall)
+
+Our sun is set, our day is done
+
+I'm left here wondering
+
+Is this the end? My final words to you
+
+Day turned to night
+
+Now you're gone, I'm left here pondering
+
+Can this be true? Are we really through?
+
+
+
+You were the wind beneath my wings
+
+Taught me how to fly
+
+With you I lived among the kings
+
+How could this ever die?
+
+
+
+So I say farewell, I'm yours forever
+
+And I always will be
+
+We were one, we were all, we were the only
+
+Future full of hope, nothing could stand in our way
+
+But dreams can change, visions fall, I feel so lonely
+
+I would walk through fire for just one more day
+
+
+
+You were the angel of my life
+
+Taught me to be free
+
+Now, I'm a stranger in your eyes
+
+Walls are closing in on me
+
+
+
+So I say farewell, I'm yours forever
+
+And I always will be
+
+Missing you in my heart, you are the one
+
+And you always will be
+
+
+
+When I turn to the east, I see no dawn
+
+But after darkness comes the light
+
+When I turn to the west, the slight night hides all
+
+Where is the light that shines so bright?
+
+（14丁卡，卡视角）
+
+### 260.【destiel】Castiel is not a who, he is a day, a land
+
+he is time, he is a day, he *is* Thursday (inspired by 《[suddenly, all at once](https://archiveofourown.org/works/1554563)》summary: "Dean falls in love on a Thursday")
+
+he is space, he is a land, he *is* a place (inspired by Neil Gaiman "Sandman" The Greenland)
+
+he is anything but human, he doesn't have vessel, how do you fall in love with time and space? and expect the time and space love you back?
+
+### 261.
