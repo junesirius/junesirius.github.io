@@ -1348,7 +1348,7 @@ Cas' brain/thought is all color-based, because thought process or his language s
 
 DW10/14: a species communicate only with eyebrow (60th anniversary 3rd ep, similar idea)
 
-### 154.【destiel】《Who Knew》（lyrics）
+### 154.【destiel】《Who Knew》（Lyrics）
 
 （by Pink）
 
@@ -1924,7 +1924,7 @@ case fic, Dean gets to save Zeppelin for once, ends up showing up in one of thei
 
 其实星星是卡，卡全都听见了
 
-### 225.【destiel】《Boy and the ghost》（lyrics）
+### 225.【destiel】《Boy and the ghost》（Lyrics）
 
 (by Tarja)
 
@@ -2331,7 +2331,7 @@ accent kink? (Jen's kink, can project to Dean)
 
 (slightly inspired by a fic where there is a line of Cas saying goodnight to Dean in Russia)
 
-### 259.【destiel】《Always Will Be》（lyrics）
+### 259.【destiel】《Always Will Be》（Lyrics）
 
 (by Hammerfall)
 
@@ -2411,4 +2411,178 @@ he is space, he is a land, he *is* a place (inspired by Neil Gaiman "Sandman" Th
 
 he is anything but human, he doesn't have vessel, how do you fall in love with time and space? and expect the time and space love you back?
 
-### 261.
+### 261.【micifer】Michael killed Lucifer but he didn't mean to, and he wants to fix it
+
+or the other way round
+
+(inspired by *[Into the Fire](https://archiveofourown.org/works/4080676)* and *[Exceptional Circumstances](https://archiveofourown.org/works/341760/chapters/568924)*, and all the codependence parallel between Winchesters)
+
+Michael/Lucifer = Dean/Sam parallel, they want to follow the script and fight but actually also love each other and not really want the other die
+
+the four archangels are probably close, S05E19 Lucifer doesn't want to kill Gabriel and when he did, he's actually sad about it
+
+what if they actually manage to have the apocalypse as they wish and they fight, but they intended to send the other away (e.g. to Pit), but end up accidentally kill the other for real, the realization terrifies the living one, wants to tear the world apart to bring the other back, or to find God to resurrect the other; maybe go look for help from TFW?
+
+or use the apocalypse world version, where Michael indeed killed Lucifer and left alone in a trashed world, he finds the world meaningless, that's the real reason why he wants to travel to other worlds, the ones Lucifer is still alive (and his AU self isn't in the way) -> except he has to fight him again, he doesn't want to kill him either this round, thought Dean wouldn't be strong enough to achieve that, get surprised Dean succeed in killing Lucifer, the world is without Lucifer again, this Michael is left alone again, none of his brother alive, his experiments with monsters to wipe clean the human, is it because so there will be no human soul for heaven/hell, all become monster and go to purgatory, that's the only way he can actually shut down heaven/hell and end it all?
+
+### 262.【destiel】《Burn With Me》（Lyrics）
+
+(by Amaranthe)
+
+You are gone to the highest bidder
+
+Now you're with a man that is God's worst sinner
+
+Well no, don't care about me
+
+I am just the man meant to set you free
+
+I tried to make you a part of me
+
+I even told you what would happen theoretically
+
+There is this something that I need to know
+
+Why am I the only one that lost it all?
+
+
+
+But every day and every time I turn around
+
+Searching for a place that I have left behind
+
+And all I wanna believe
+
+That you could bleed so
+
+
+
+Burn with me
+
+I'm just an empty shell
+
+Another's friend
+
+Transformed to someone else
+
+Take your seat
+
+I cast a spell
+
+So you'll be less like you
+
+And more like someone else
+
+
+
+（401 Lazarus rising; demon Dean+angel Cas）
+
+### 263.【destiel】《Mystery of a Blood Red Rose》（Lyrics）
+
+(by Avantasia)
+
+We've played our roles in our passion plays
+
+They've imposed on us right from the cradle
+
+No matter what you dream
+
+Beware of what you say
+
+Until the cogwheel's out of control
+
+To burst out of place
+
+
+
+No time to breathe
+
+Don't have no time to waste
+
+Bring on the night
+
+Seize every drop of life away
+
+
+
+Slice a tasty hour off from
+
+Or in a blink it will be gone
+
+A stranding future bring it on
+
+
+
+（2014 endverse destiel）
+
+### 264.【destiel】《Phantom Divine》（Lyrics）
+
+(by Kamelot)
+
+I am all you ever wanted
+
+I'm a new dimension
+
+Immortality perfected, phantomized
+
+Expansion of life
+
+Generation of light
+
+Finding every deviation
+
+Just to keep the future alive
+
+
+
+Under a phantom divine
+
+Touched by the light
+
+The ambrosial grace
+
+No applause for the old pantomime
+
+In the shadows of our dreams
+
+A phantom divine
+
+
+
+I'm the face of the selected
+
+I'm your chain reaction
+
+I'm mortally rejected
+
+I am the empire connecting the mind
+
+And I'll die just to keep you alive
+
+### 265.【destiel】《Die Another Day》（Lyrics）
+
+(by Noctura)
+
+Believe me
+
+Never meant to make you feel this way
+
+Forgive me
+
+Before I die another day
+
+
+
+I can't erase
+
+The things I said that made you go away
+
+Give me just one chance and hear me say
+
+I'm sorry
+
+
+
+（S1503-09 big fight divorce time, Dean: "I'm sorry"）
+
+### 266.
