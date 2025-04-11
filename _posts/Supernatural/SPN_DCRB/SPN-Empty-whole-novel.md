@@ -53,6 +53,16 @@ tentacles -> tendrils
 
 Where does one go, when there is nothing left in them to be taken, when the hole in the heart is so vast that there is no heart remains, when the surrounding and the whole world matter nothing and have no difference to pure dark and black, indistinguishable from the void, when themselves *are* empty. Where do they go?
 
+### Arts
+
+#### Banner
+
+![](https://64.media.tumblr.com/ea8f25c0cd76a110602b4601064fabd2/b45dce5a45c284d7-47/s2048x3072/3cb17828bdb037400d87045a979449e3e09566d0.jpg)
+
+#### Art
+
+![](https://64.media.tumblr.com/b42f3cef141d862ff07051ea0d351849/85a72de20f873c33-9e/s2048x3072/c4ee45fa763d3e5fd4a63afb6cefe31b3891d1db.jpg)
+
 ## Main
 
 ### Act 0
