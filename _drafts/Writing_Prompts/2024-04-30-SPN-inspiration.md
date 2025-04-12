@@ -194,7 +194,7 @@ Cas死了很多次，S04E22里“exploded like a water ballon of chunky soup”�
 
 （see more in S06E10-11观后感）
 
-### 16.【destiel&sastiel】S06E11 “go ask your boyfriend”
+### 16.【destiel&sastiel】S06E11 "go ask your boyfriend"
 
 Balthazar直接脱口而出称呼Cas是Sam的boyfriend了，Sam甚至也极自然地就应下去了。甜度高得有点一下子不适应被齁到了。
 
@@ -672,7 +672,7 @@ Cas -> first time fight in front of Dean and failed
 
 “angel walking the earth for the first time in 2000 years” because every time he did, the memory is wiped (confirmed by Naomi in ~S08E19)
 
-### 64.【destiel】S05E18 “last person look at me like that, I got laid”
+### 64.【destiel】S05E18 "last person look at me like that, I got laid"
 
 Dean: “Cas, not for nothing, but the last person who looked at me like that…I got laid.”
 
@@ -826,7 +826,7 @@ Rewrite S10E17-S15E20 from Bobby's perspective, when he's locked away for helpin
 
 可以用炼狱丁卡直接代
 
-### 88.【destiel】“Why can't I see your true form”
+### 88.【destiel】"Why can't I see your true form"
 
 frustrated Dean, comforting Cas
 
@@ -846,7 +846,7 @@ just has to stop Armageddon all over again
 
 (-> prompt 200)
 
-### 92.【destiel】S10E22 “I'm the one who will have to watch you murder the world.”
+### 92.【destiel】S10E22 "I'm the one who will have to watch you murder the world."
 
 demon Dean & angel Cas
 
@@ -1226,7 +1226,7 @@ Cas: “I would like to see you too, the sooner the better”
 
 丁来不及回应，卡的电话就被路西抢走挂断了，卡自己也被抓走了，等到回来以后都以为两个人都忘了，其实丁没忘，等到两个人终于又有时间单独相处的时候丁问起来了，卡脸红，说不定这时候就能戳破窗户纸了，不过有可能丁下意识又会后退否认自己的内心，两个人的感情又要拉扯一会儿才能袒露
 
-### ~~135.【destiel】S13E12 “I'm in love”【done】~~
+### ~~135.【destiel】S13E12 "I'm in love"【done】~~
 
 《Dean Winchester Says He's in Love》
 
@@ -1298,7 +1298,7 @@ and Cas' turn to be in a family
 
 Dean thought his biggest desire is Michael out of his head, but actually he desires Cas. The pearl gives him what he wants even if he doesn't know he wants.
 
-### 147.【destiel】S12E19 “it's like herding a cat”
+### 147.【destiel】S12E19 "it's like herding a cat"
 
 Dean: (要哄卡做什么事实在太难了) it's like herding a cat
 
@@ -1426,7 +1426,7 @@ Cas sees leviathans and everything, only way out is he juice up, so in order to 
 
 Dean insists him out too or else he'll jump back in & they'll help fix Cas's leviathan problem, Cas complies finally, drooping leviathan ooze occasionally but mostly can hold them back, goes to hell, steals Sam's soul back and fixes him, fights Raphael with his leviathan part ("rock beats scissor, leviathan beats angel"), cancels out both problems (explodes, Dean freaks out, Cas survives), problem solved, world in peace again
 
-### 162.【destiel】S08E02 “Too much hearts is always Castiel's problem”
+### 162.【destiel】S08E02 "Too much hearts is always Castiel's problem"
 
 Sammandriel: Too much hearts is always Castiel's problem
 
@@ -1462,7 +1462,7 @@ A story about Dean helps raise Cas's kid (given birth by April the reaper who ge
 
 That kid might/should have good relationship with Jack, so new God and new Death are in good balance, same age, same family, same parenting. New creator of the new world, don't know who's older, tell others they may reap each other some day but Dean/Cas know that won't happen, they'll keep each other company.
 
-### 165.【destiel】S06E21 “In for a penny, in for a pound”
+### 165.【destiel】S06E21 "In for a penny, in for a pound"
 
 Balthazar's words, reuse it in casino setting? destiel was just having fun gambling? or another gambler case like S05E07
 
@@ -1496,13 +1496,13 @@ Winchesters get pulled out of town because Cas finds leads on Metatron, and say 
 
 TFW come back to clean up Chicago situation after things peace out (after S11E23 maybe?)
 
-### 170.【destiel】S09E21 “commander”（R级）
+### 170.【destiel】S09E21 "commander"（R级）
 
 Dean teases Cas "Commander" when his men call him that -> Dean call him commander on bed
 
 also S09E22, Cas: "They like to hear me say their names", Dean: "I know a couple of women like that" -> Dean certainly likes that too and Cas is good at it
 
-### 171.【destiel】S10E09 “throw me into the freakin' sun”
+### 171.【destiel】S10E09 "throw me into the freakin' sun"
 
 Dean: "Knife me, smite me, throw me into the freakin' sun, whatever. And don't let Sam get in the way, because he'll try. I can't go down that road again, man. I can't be that thing again."
 
@@ -1538,7 +1538,35 @@ Dean在沙滩上发现一对硬生生撕下来的烧焦黑色翅膀，第一反�
 
 （难点：要设计各种不同AU版本人设）
 
-### 176.【destiel】DW壁炉女孩AU
+### 176.【destiel】DW204 壁炉女孩AU
+
+> Reinette: The monsters and the Doctor. It seems you cannot have one without the other.
+>
+> Reinette: One may tolerate a world of demons for the sake of an angel.
+>
+> Reinette: Those screams, is that my future? Then I must take the slower path.
+>
+> Reinette: The Doctor is worth the monsters.
+
+> Reinette: In saving me, you trapped yourself. Did you know that would happen?
+>
+> Doctor: Hmm, pretty much.
+>
+> Reinette: Yet still you came.
+>
+> Doctor: Yeah I did, didn't I? Catch me doing that again.
+>
+> Reinette: So here you are, my lonely angel. Stuck on the slow path with me.
+>
+> Doctor: Yeah, the slow path. Here's to the slow path.
+>
+> Reinette: It's a pity. I think I would have enjoyed the slow path.
+>
+> Doctor: Well, I'm not going anywhere.
+>
+> Reinette: Oh, aren't you?
+
+> Dear Doctor, the path has never seemed more slow and yet I fear am nearing its end. Reason tells me you and I are unlikely to meet again, but I think I shall not listen to reason. I have seen the world inside your head and know that all things are possible. Hurry, though, my love. My days grow shorter now and I am so very weak. Godspeed, my lonely angel.
 
 时间流速不同，≈梗29，≈DW912 Amy/Rory飞船里那段
 
@@ -1810,7 +1838,7 @@ case fic
 
 详见梦记2025-01-12改编
 
-### 211.【destiel】S08E07 “I did not leave you”
+### 211.【destiel】S08E07 "I did not leave you"
 
 Dean: "I did everything I could to get you out -- everything! I did not leave you"
 
@@ -2109,7 +2137,7 @@ but they all have done this maddest thing so many times already
     - 要么这就是天堂刚刚重建好的样子，看起来好像都是自然发展出来的其实就是卡给他们安排的样子，那就说明丁看见的整个天堂的样子都是卡专门在他上天堂之前的瞬间搭出来的只是为了他的
 - 更有可能的是，Bobby说谎了，卡没有真的回来，这么说只是为了让丁安心让他在天堂可以有peace，这也解释了为什么丁来了以后一直没看见卡，因为卡一直还在虚无，在丁死的时候“but he's not”也成立：那么就能写丁在天堂始终没看见卡，周围人总是在搪塞，终于慢慢意识到卡其实没真的回来，于是后面又要开启去虚无救卡的行动了 
 
-### 236.【destiel】S03E08 “one for me, one for my baby”
+### 236.【destiel】S03E08 "one for me, one for my baby"
 
 originally from S03E08 Sam's Christmas gift for Dean: candy bar and oil, Dean: "fuel for me, and fuel for my baby"
 
@@ -2185,7 +2213,7 @@ human Dean + ghost Cas -> freaked out for a bit (horror/suspension at beginning 
 
 horror genre
 
-### 243.【destiel】S05E03 “because you're the only one that helps me”
+### 243.【destiel】S05E03 "because you're the only one that helps me"
 
 S05E03 Cas to Dean: "I ask for *your* help, because *you* are the only one that helps me", Cas doesn't have anyone else but Dean, Dean's the only one he has
 
@@ -2585,4 +2613,48 @@ I'm sorry
 
 （S1503-09 big fight divorce time, Dean: "I'm sorry"）
 
-### 266.
+### 266.【destiel】DW912 Cas has to wipe Dean's memory to save him
+
+mimic DW912 way of storytelling
+
+show as if it's Dean forgetting, Cas telling the story → twist: it's Cas forgetting
+
+something huge happened, the only way to save Dean's life is Cas wipe Dean's memory of him (otherwise angels can use his memory of Cas to find him?), Dean eavesdrop and know what Cas is about to do, reverse the polarity of the device, Dean/Cas take a bet of whether or not it worked, turns out Cas's memory wiped, but "lost memory become story"
+
+### 267.【destiel】DW204壁炉女孩 memory reading
+
+> Doctor: If there is anything you don't want me to see, just imagine a door and close it. I won't look.
+>
+> Reinette: Lonely then and lonelier now. How can you bear it?
+>
+> Doctor: How did you do that?
+>
+> Reinette: A door once opened may be stepped through in either direction.
+
+Cas read Dean's memory, but door can be stepped either direction, Dean start reading Cas's memory (startled Cas)
+
+### 268.【destiel】S04E01 Dean lobotomize Cas in Hell during angel rescue
+
+(inspired by a comment under my tumblr post mentioning Cas 0817 is lobotomized)
+
+start scene as if normal hospital operation scene, Dean enter in Doctor coat, acting operation on patient, they scream, turn out it's lobotomy, Dean enjoys the process and thinks he's doing the right thing (write in a way as if it's just a Doctor AU, but actually canon-divergent; unnoticeably knowing Azazel&Dean interaction, Dean trusts him, Azazel showing him tricks and Dean outskills him, Azazel=father figure)
+
+turn out this is in Hell, except not even Dean realizes that, he thinks he's doing the right thing, those people need that, so he's doing that to them, he knows it's causing them pain, but he thinks it's a good thing, he feels good about himself (calm tone, not angsty, easy at torturing); when some patient fight back, he constrain them with force, still think it's what's best for them
+
+(the visual of pocket room of Hell, everyone's individual Hell: inspired by *Lucifer*)
+
+then angels come to rescue, Cas is the first/only angel fights off all the demons outside his pocket-Hell and enter the operation room, get force transformed into human vessel form in there, Dean thinks he's just another soul to operate on, Cas try to reason with him, but rule one of save, Dean needs to agree to leave to be saved, but Dean doesn't even realize this is hell so he wouldn't want to leave, and he just thinks Cas is another patient trying to fight/talk his way out; Dean force Cas down (win their fight, cuz Cas hold back, doesn't want to hurt the Righteous Man) to the operation table, lobotomize Cas, Cas forget why he's down here, that he's an angel and he's coming to save Dean, now Cas thinks he's same as Dean so hang around in the room, be his assistent
+
+Cas without memory/knowledge, slow learner, but pick up the tools, operate on others like Dean show him, Dean start get interested in him (tho initially think he's just weird and need punish), fond of him, start trusting him; demons know he's angel, come in (in human form) try to take Cas away, Dean instinctively protect Cas, kill demons
+
+Azazel (in doctor director costume) come in to try to take Cas away/kill him on sight, Dean doesn't let him, Azazel commands Dean kill Cas or he'd be disappointed at him (father figure), Dean hesitates, acts as if intend to kill Cas (Cas frightened) but ends up didn't, instead rebels to Azazel, leaves the operation room and takes Cas with him to outside, see real Hell, shocked, Cas remembers he has wing (reminded by Balthazar?/Dean, Dean believes what he said before lobotomy is true now, tell him back what he initially said), use wing to protect Dean, demons attack, Cas purely muscle memory fight (still vessel shape, still doesn't remember other things before lobotomy), hand on Dean's shoulder (burns Dean, yell) and flies him out ("Dean Winchester is saved")
+
+Cas go back to heaven to regain a copy of memory (backuped before fight/standard version for all angels) from Naomi (hint potential memory messed up again), back in time to meet Dean in barn again
+
+### 269.【micifer+destiel】Michael!Dean + Lucifer!Cas（R级）
+
+can be R18+
+
+Michael/Lucifer doi using Dean/Cas body, very disturbing, probably considered as non-con
+
+### 270.
