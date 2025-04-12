@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SPN】Fear of Sleep
+title: 【Destiel】Fear of Sleep
 date: 2025-04-06 13:12
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
