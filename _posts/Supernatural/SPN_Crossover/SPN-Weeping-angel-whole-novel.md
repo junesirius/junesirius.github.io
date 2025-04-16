@@ -125,6 +125,8 @@ put Amy/Rory in background but not emphasize? otherwise three pairs in focus, to
 
 Dean: "what? you save the universe but only save the UK part, fly across galaxy is close enough but USA is too far away? this isn't your jurisdiction or something? Pal, not I'm saying, you did a terrible job in protecting the earth, in case you didn't notice, it at least trashed twice if we didn't ..." Doctor: "All due respect, who's behind that? Also, USA almost trashed twice doesn't mean..." River: "Don't mind him, London gets trashed every Christmas, there's a pattern"
 
+Cas save the day by using all his eyes in his true form to stare at all sculptures all at once so none of them can move again, so the sacrifice is he can't move either? Dean has to stare at Cas too without blinking? stare save the day
+
 ## Plot
 
 Dean back from Purgatory through portal, Cas back later saved by angels (remembered angel's war, concerned, not brainwashed ← foreshadow) (Sam with Amelia, undisturbed)
