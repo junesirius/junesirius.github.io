@@ -4,7 +4,7 @@ title: 【梦记】遗忘的女孩（碎片，喜欢）
 date: 2025-04-11 06:00
 categories: ["梦记"]
 characters: ["Castiel", "Misha Collins"]
-tags: ["梦记", "dreamwalk", "梦", "情感", "亲密关系", "爱", "碎片", "工作", "Supernatural"]
+tags: ["梦记", "dreamwalk", "梦", "情感", "亲密关系", "爱", "碎片", "工作", "Supernatural", "追杀", "逃亡"]
 pov: 第一人称视角
 origin: 个站
 ---
