@@ -1276,7 +1276,7 @@ Sam在天启世界短暂死亡期间，在被吸血鬼杀死之后、被路西�
 
 天启世界黑卡仍然用的是Jimmy的皮囊，这个版本的卡是torture高手（主世界其实也是？），是怎么让Jimmy同意的？这个版本没经历过422所以Jimmy有没有死？黑卡被杀之前让Jimmy上身的话主世界卡是不是就会犹豫不杀他因为愧疚，所以自己陷入危险？
 
-### 144.【destiel】S13E23《Bunker never has angel warding》
+### **144.【destiel】S13E23《Bunker never has angel warding》**
 
 （某个时间点，天使/路西/Naomi/Metatron/Michael还是大威胁的时候）Sam想要给bunker加angel warding，Dean坚决不同意，说bunker也是卡的家，已经把卡赶出去过一次不能再这么干一次了，两个人争吵，卡其实在墙角听见了。卡再出现在bunker的时候表现虚弱，Dean问怎么了卡不肯说，其实偷偷在bunker画warding了，一边画一边擦嘴角血，被Dean抓住了一次，强制擦掉他正在画的那个，把卡抱出bunker，问他为什么这么干。卡在外面休息恢复，答不能因为他让他们陷入危险，bunker是地球上最安全的地方，是他们的家，Dean：也是你的家。
 
@@ -2291,7 +2291,7 @@ one version is Neil Gaiman style, the marriage proposal story, reading the junk 
 
 different version is two living far apart and received junk mail but thought it's real, angst, mutual pining
 
-### 250.【Gabe中心】《You need better friends》
+### 250.【Gabe】《You need better friends》
 
 Gabe/Loki, Gabe/Rowena, Gabe/Kali, Gabe&Luci
 
@@ -2302,6 +2302,18 @@ who's his friend & family and he died for
 character study: memoir style, at the end turn out it's Gabe reliving his whole life before stabbed to death in the Apocalypse world, thinking back (a bit sad)
 
 Dean: "You need better friends" Gabe: "I'm protecting the ones I have" (reuse the dialogue with Cas)
+
+### 250.5【Gabe/Loki】wear your face
+
+title potential: 《The faces we wear》(reuse), 《In the mirror》
+
+Gabe/Loki has had a thing going on between them back when Gabe saves Loki (hang out a bit, very similar, same vibe, get together, kiss/sex/etc.), then asks for Loki's help. Letting Gabe wear Loki's face is Loki's kink (≈ego, Loki gives Gabe half his own real body) which Gabe also enjoys, initially start as more sensational/sexual, but gradually find more common ground and gets to romantic but neither recognize it
+
+after breakup/Gabe leave (S5 to save apocalypse), Gabe can change face but still choose to keep Loki's (excuse is witness protection but actually sentimental, wants to see him in the mirror, kiss mirror tho self-disgust?), 519 still pretend as Loki (Loki can blow his cover but doesn't, Gabe gets triggered nostalgia in 519 in front of Odin/Baldur)
+
+after 519 thought Gabe is dead, Loki depressed for a bit (pretend as if mourn Odin/Baldor, actually for Gabe), (according to 1320) Gabe go back to Loki, Loki pissed at him, want to punish him, sell him to Asmodeus, not realize Asmodeus's torture, thought archangel can handle it, genuinely surprised when a heartbroken/hatred Gabe come to kill him for revenge, Gabe hate him for betrayal, neither can't clarify/confess/communicate properly cuz Winchesters are there, Gabe heartbroken and hate himself but kill Loki
+
+but Loki isn't dead (trickster professional fake death, same way Gabe fakes his own death), just that half body is destroyed (as long as one of them is alive, the other can't die, can resurrect/regenerate to whole from half), essence is with Gabe (but wounded/asleep) when he gets to AU world, wake up take control/share mojo when Gabe fight Michael, kill Michael/Lucifer, come back this world together, communicate, still both pissed (legitimate, killed my father and my sons; Loki: "figure I'd have to make more", Gabe: "ever think of maybe not the horse or wolf or those creatures again? time to civilize", Loki: "you say Nephilim isn't allowed because it's half human, but I'm not human"), but can somehow work it out
 
 ### 251.【cockles】Jensen call Misha "Dimitri" on bed（R级）
 

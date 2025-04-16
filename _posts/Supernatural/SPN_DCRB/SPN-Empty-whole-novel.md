@@ -517,7 +517,7 @@ He walks outside. The sun pierces through him, casting onto the ground without s
 
 ### Act 3-1
 
-> **Outline:**  To free Dean's spirit and to save Cas, they call Jack to help, but God has no power in Empty, so it's up to themselves.
+> **Outline:** To free Dean's spirit and to save Cas, they call Jack to help, but God has no power in Empty, so it's up to themselves.
 
 *No. This is not happening. Dean can't possibly be this stupid...*
 
