@@ -158,6 +158,8 @@ canopy of twinkling stars
 
 dislocated
 
+croak, rasp
+
 (general) change all the bad analogies to the proper ones with references Dean would use, e.g. remove all Disney movies & fairy tales & princesses & Anderson's Little Match Girl, replace with old classic movies & rock bands & western movies
 
 (Chap. 3) Dean has no body but only eyes, "like the one painted on Missouri's round table"
