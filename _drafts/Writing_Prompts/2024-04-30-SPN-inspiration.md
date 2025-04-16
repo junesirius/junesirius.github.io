@@ -2291,7 +2291,7 @@ one version is Neil Gaiman style, the marriage proposal story, reading the junk 
 
 different version is two living far apart and received junk mail but thought it's real, angst, mutual pining
 
-### 250.【Gabe中心】《You need better friends》【WIP】
+### 250.【Gabe中心】《You need better friends》
 
 Gabe/Loki, Gabe/Rowena, Gabe/Kali, Gabe&Luci
 
@@ -2299,7 +2299,7 @@ Gabe&Sam, Gabe&Dean, Gabe&Cas
 
 who's his friend & family and he died for
 
-memoir style, at the end turn out it's Gabe reliving his whole life before stabbed to death in the Apocalypse world, thinking back (a bit sad)
+character study: memoir style, at the end turn out it's Gabe reliving his whole life before stabbed to death in the Apocalypse world, thinking back (a bit sad)
 
 Dean: "You need better friends" Gabe: "I'm protecting the ones I have" (reuse the dialogue with Cas)
 
@@ -2657,4 +2657,10 @@ can be R18+
 
 Michael/Lucifer doi using Dean/Cas body, very disturbing, probably considered as non-con
 
-### 270.
+### 270.【sabriel】S03E11 groundhog day because Gabe wants Sam notice him
+
+groundhog day where the whole worlds repeat around Sam, everyone else only lives that day once and doesn't remember, but Gabe is always in there with Sam, drinking the same drink every morning, observe him, be with him; so Gabe traps himself in the loop with Sam as well, he's patient as an archangel, but after thousands of times of drinking the same drink, he finally gets bored of it so that morning he orders a different drink, that's how Sam finds out
+
+(sabriel thought:) Gabe knows the only way for Sam to think of anything other than his brother is when Dean is gone, so this is Gabe's version of taking Dean out of chess board to interact with Sam alone. So that Wednesday after the looping Tuesday where Dean is dead, for months, all Sam can think about is to revenge and capture Gabe, this is the only time Sam is wholeheartedly thinking about Gabe (even if it's hate), Gabe finally has his attention (as this is what Gabe wants: be noticed ← he's proud of his ability to hideout in the human crowd and not get noticed, but once a while he also wants to get noticed and feel good about it, so this is Gabe's messed-up love-hate version of getting someone (Sam)'s full attention, because growing up this is something Gabe never gets)
+
+### 271.
