@@ -2058,7 +2058,7 @@ Rowena: I'll leave you two to it then (extract all other demons out)
 
 Dean: Looks like it's just you and me now
 
-### 230.【Cas中心/destiel】天启世界黑卡勒维坦化
+### 230.【Cas/destiel】天启世界黑卡勒维坦化
 
 在天启世界的正式天启期间那个世界的黑卡接了米迦的指示去打开炼狱，想借用炼狱力量打路西，结果卡把勒维坦都吞了以后自己能量大爆发升级成帝卡，直接把天启打成三方阵营，或者直接一己之力同时炸掉米迦和路西，把整个宇宙变成帝卡宇宙，或者米迦和路西不得不联手来打帝卡，温双进来的时候黑卡正在一打二状态。
 
@@ -2303,7 +2303,7 @@ character study: memoir style, at the end turn out it's Gabe reliving his whole 
 
 Dean: "You need better friends" Gabe: "I'm protecting the ones I have" (reuse the dialogue with Cas)
 
-### 250.5【Gabe/Loki】wear your face
+### **250.5【Gabe/Loki】wear your face**
 
 title potential: 《The faces we wear》(reuse), 《In the mirror》
 
@@ -2339,7 +2339,7 @@ similar setting but different story：飞来的天使是S4/5时期的卡，卡�
 
 （心理阴影治愈部分灵感来自北麻《Into the Fire》）
 
-### 254.【Benny/Garth】S15E09 where is Benny
+### 254.【Benny/Garth】S15E09 where is Benny【WIP】
 
 After S8 Benny get sent back to Purgatory, what happened to him. not dead. but why when S15E09 Dean asked about him in Purgatory, the monsters/vampires said so, must have lied, but why. Benny actually get power in Purgatory? like how Rowena rule the Hell, would be nice to have Benny rule Purgatory, but he isn't really the ruler type, power isn't what he want, did he find Andrea? is there sea in Purgatory where they can continue being vampirate? would he be disappointed/upset about Andrea turn on him back on Earth so move on from her? find Garth instead after Garth died of old age as werewolf?
 
@@ -2668,6 +2668,10 @@ Cas go back to heaven to regain a copy of memory (backuped before fight/standard
 can be R18+
 
 Michael/Lucifer doi using Dean/Cas body, very disturbing, probably considered as non-con
+
+after Michael/Lucifer leave, Dean/Cas freak out, fumbling around sexual tension and emotion, angsty, mutual pining (standard soap opera drama)
+
+OR, Michael/Lucifer one kill the other, doesn't matter who kill who, when they leave/banished, Dean/Cas one of them remember kill the other with his own hand, gonna be massively messed up, freak out, grieving widower period, suicidal, etc. (standard mourning drama)
 
 ### 270.【sabriel】S03E11 groundhog day because Gabe wants Sam notice him
 
