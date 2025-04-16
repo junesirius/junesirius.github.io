@@ -838,7 +838,9 @@ What if that's all Sam's imagination from his craziness, he's still in Cage
 
 ### 90.【Cas&Jimmy】S10E20 What if 419-1520 all in Jimmy's brain only
 
-What if these are all Cas's explanation to Jimmy for copential consequence to let him think thoroughly about saying yes: 1020 Claire's blaim, Amelia's vision/dream, their pain, Dean's "because of Jimmy's sacrifice, Cas get to save world"
+What if these are all Cas's explanation to Jimmy for potential consequence to let him think thoroughly about saying yes: 1020 Claire's blame, Amelia's vision/dream, their pain, Dean's "because of Jimmy's sacrifice, Cas get to save world"
+
+then rewind back to 401, let Jimmy make informed decision (← fully informational, base of consent)
 
 ### 91.【Cas】S06E22 What if he stopped and they let Rafael win
 
@@ -1268,13 +1270,13 @@ Dean accuses him choosing angel over him afterwards, could be a big fight and/or
 
 （可以把开局的卡写得好像反派，到后面揭晓反转）
 
-### 142.【Sam/Lucifer?】S13E22 天启世界的天堂
+### 142.【samcifer/micifer】S13E22 天启世界的天堂
 
-Sam在天启世界短暂死亡期间，在被吸血鬼杀死之后、被路西法复活之前，他在哪里？天堂还是vail？天启世界的天堂可能已经空了，所有（/大部分）天使都在地上参战。天堂的话，有没有可能遇见天启世界已经上天堂了的人（/天启世界没出现过的人），比如John、Ellen、Jo、Ash？（每个世界的天堂应该是不连通的）天启世界的Gaberiel在哪里？劝天启世界的死骑帮忙参战？在天堂提前跟天启世界米迦勒打了照面然后正要被杀的时候被路西拉回来了？路西有没有personally跑到天堂去拉Sam？说不定也在那被米迦打了一顿，但是刚复活的Sam没有那段记忆所以不记得了。
+Sam在天启世界短暂死亡期间，在被吸血鬼杀死之后、被路西法复活之前，他在哪里？天堂还是vail？天启世界的天堂可能已经空了，所有（/大部分）天使都在地上参战。天堂的话，有没有可能遇见天启世界已经上天堂了的人（/天启世界没出现过的人），比如John、Ellen、Jo、Ash？（每个世界的天堂应该是不连通的）天启世界的Gabriel在哪里？劝天启世界的死骑帮忙参战？在天堂提前跟天启世界米迦勒打了照面然后正要被杀的时候被路西拉回来了？路西有没有personally跑到天堂去拉Sam？说不定也在那被米迦打了一顿，但是刚复活的Sam没有那段记忆所以不记得了。
 
-### 143.【Cas/Jimmy?】S13E22 天启世界的黑卡
+### 143.【Cas/Jimmy】S13E22 天启世界的黑卡
 
-天启世界黑卡仍然用的是Jimmy的皮囊，这个版本的卡是torture高手（主世界其实也是？），是怎么让Jimmy同意的？这个版本没经历过422所以Jimmy有没有死？黑卡被杀之前让Jimmy上身的话主世界卡是不是就会犹豫不杀他因为愧疚，所以自己陷入危险？
+天启世界黑卡仍然用的是Jimmy的皮囊，这个版本的卡是torture高手（主世界其实也是），是怎么让Jimmy同意的？这个版本没经历过422所以Jimmy有没有死？黑卡被杀之前让Jimmy上身的话主世界卡是不是就会犹豫不杀他因为愧疚，所以自己陷入危险？
 
 ### **144.【destiel】S13E23《Bunker never has angel warding》**
 
@@ -1478,7 +1480,7 @@ Chuck takes precaution for anyone closer to God's ability, as soon as Cas juice 
 
 (A bit inspired by 《Heard from your mother》)
 
-### 168.【Gabstiel】S09E18 Gabe and porn and Cas
+### 168.【gabstiel】S09E18 Gabe and porn and Cas
 
 head canon ver of Cas was raised by Gabe from angel baby to adule seraph
 
@@ -1608,7 +1610,7 @@ Cas rebel to Death to protect Dean when he needs to be reaped, Death more unders
 
 could rewrite S4 to finale
 
-### 181.【Cas/Jimmy?destiel?】2077 AU
+### 181.【CasJimmy?destiel?】2077 AU
 
 Johnny Silverhand/V=Cas/Jimmy
 
@@ -2303,7 +2305,7 @@ character study: memoir style, at the end turn out it's Gabe reliving his whole 
 
 Dean: "You need better friends" Gabe: "I'm protecting the ones I have" (reuse the dialogue with Cas)
 
-### **250.5【Gabe/Loki】wear your face**
+### **250.5【Gabe/Loki】wear your face**（R级）
 
 title potential: 《The faces we wear》(reuse), 《In the mirror》
 
@@ -2679,4 +2681,20 @@ groundhog day where the whole worlds repeat around Sam, everyone else only lives
 
 (sabriel thought:) Gabe knows the only way for Sam to think of anything other than his brother is when Dean is gone, so this is Gabe's version of taking Dean out of chess board to interact with Sam alone. So that Wednesday after the looping Tuesday where Dean is dead, for months, all Sam can think about is to revenge and capture Gabe, this is the only time Sam is wholeheartedly thinking about Gabe (even if it's hate), Gabe finally has his attention (as this is what Gabe wants: be noticed ← he's proud of his ability to hideout in the human crowd and not get noticed, but once a while he also wants to get noticed and feel good about it, so this is Gabe's messed-up love-hate version of getting someone (Sam)'s full attention, because growing up this is something Gabe never gets)
 
-### 271.
+### 271.【Charlie/Alicia】Transcendence/AI ver（F/F）
+
+Charlie has been uploading her brain info to bunker computer, basically turns herself into a big AI with her own memory & intelligence built-in (inspired by *Transcendence*), but not waken yet (after 1022 unexpected death, her initial plan is to wake it by herself to test/have fun/help boys around the bunker) (←TFW find Charlie's journal/notebook)
+
+Alicia Banes is a twig/twine doll after 1220, live like that for three years (post-1520) but can't bear it (burned/fiercely wounded, dying? Max's magic exhausted?), so go to bunker look for help, start reading archives but lose patience, hope the bunker computer has easy archive, go poke, find out it's manually recently modified, go digging, restart, trigger Charlie's conscious awake, start talking in bunker, startle TFW (subtly indicate Cas is still around & destiel); TFW talk to Charlie for a bit, miss her, guilty, this version is uploaded before the event, so she doesn't know, it never happens to her (TFW still guilty but relieved) (has to leave bunker for a while? out hunting some small things but leave bunker to them)
+
+(discussion about life form, whether Charlie is actually dead, Cas to confirm her soul is indeed in Heaven, with all memories but can't create new ones, this AI version is better, more alive; to make the life form more proper, Cas agree to hope to Heaven ask if her soul is okay with that, Charlie: "if I know anything about my own soul" even just for curiosity, know she'd come down)
+
+both are basically consciousness in wrong/no body (philosophic discussion of "what is life"), held together by tech/magic, just need to figure out a normal-ish body (inspired by *Cyberpunk 2077*) to become human again. Charlie suggests to make herself a twig/twine doll body too but everyone vote it down. Alicia suggests to upload her own brain to bunker computer (since Charlie already know how to do it), good for backup too in case twig stop working, seem no reason not to, so start the process
+
+Alicia enter Charlie's sci-fi version world (visual from 2077), two-girl time, talk in AI-type wavelength-only human-incomprehensible pitch (inspired from that post in qzone), TFW+Max amazed, continue digging books, they digging in ebook; because of isolated and bored, talking more, getting close, start have desire, want to touch physically
+
+Max reuse Rowena's spell, throw Witch's ring in for full power, create two bodies for them; upload data to the body, initially accidentally swapped, make cute fun remarks (still kiss, hug, can't wait); re-upload, hold hand, "that's so much better"
+
+"Hi" "Hi" "I'm Charlie" "Alicia" "Nice to meet you, for the first time"
+
+### 272.
