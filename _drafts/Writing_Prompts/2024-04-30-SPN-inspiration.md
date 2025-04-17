@@ -2697,4 +2697,12 @@ Max reuse Rowena's spell, throw Witch's ring in for full power, create two bodie
 
 "Hi" "Hi" "I'm Charlie" "Alicia" "Nice to meet you, for the first time"
 
-### 272.
+### 272.【destiel】1973 Zeppelin Live
+
+time travel date
+
+Cas bring Dean to his fav 1973 Zeppelin Live, Dean super happy
+
+or case fic, timeline monster/rogue angel? like DW Beetles Live episode
+
+### 273.
