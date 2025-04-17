@@ -154,3 +154,35 @@ timeline reset, everyone back to 2012, Doctor confirm time flux explosion kill m
 ## Editing notes
 
 # Main
+
+## Act 1
+
+> Dean back from Purgatory through portal, Cas back later saved by angels (remembered angel's war, concerned, not brainwashed ← important hint) (Sam with Amelia, undisturbed)
+>
+> Dean&Cas find case in Manhattan: statue moving, people disappearing & sudden aging, tomb with wrong dates (death earlier than birth) → go investigate
+
+## Act 2
+
+> Dean&Cas first notice Rory zapped away, run into Doctor/Amy (self-intros, Doctor/Cas discuss time flux), Doctor has River's book (mentioned Dean/Cas sacrifice+Amy/Rory farewell (keep it vague), River's broken wrist, gives specific time location), Cas fly 4 of them to 1938, too many weeping angels there, everyone in danger, Cas power limited because of all the angel/temporal energy
+
+## Act 3
+
+> Dean/Amy volunteer to check Rory, Dean protect Amy & zapped away to Winter Quay, meet Rory; Dean/Rory try to find exit, surrounded by angels, back away in corridor, notice familiar angel face (Tasha, Samandriel), realize infection pattern
+
+## Act 4
+
+> River break wrist (fail to change future), Doctor/River's love talk, Cas hear & cure River; Amy use Doctor's device to locate Dean/Rory, 4 of them go save, see room names, all witness old Dean die (Cas uneasy); River/Amy's love talk (Dean/Cas both hear)
+
+## Act 5
+
+> weeping angel besiege attack, all escape to roof, Statue of Liberty attack, Cas show true form, stare all directions with all eyes, everyone shut eyes (Rory/Amy love talk, Dean/Cas hear), but Cas can't keep doing that, eventually can't maintain true form in this plane; Statue of Liberty almost touch Dean/Rory, Cas jump in front of him, get turned into statue too, Dean/all stare at him, Cas can't move
+>
+> Liberty continue attack, all think no way out, Dean trust Cas, ask them for all faith, look away from Cas for a sec, Cas disappear, Liberty & other statues disappear, Cas move back, still statue
+
+## Act 6
+
+> Doctor wants to sonic beam Cas, Dean furious, think Doctor wants to hurt/destroy him, but actually to link his time energy to call Tardis, can bring them all back to 2012; Dean ask River about paradox (River talk about how it's like to love Doctor, observable, related), get confirm if he dies now he create paradox, maybe can save Cas; a few deliberate blink scene sequence, Cas move to him, want to hug but can't, weeping/crying, Dean jump the building
+
+## Act 7
+
+> timeline reset, everyone back to 2012, Doctor confirm time flux explosion kill most weeping angels, Dean worry about *most* may not include Cas, but Cas show up, actually weeping (not sculpture) because he overjoy Dean is alive but hate to see him die for him; Doctor/River bicker (book), Amy/Rory resign (farewell), Dean/Cas confession, HE
