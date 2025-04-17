@@ -14,7 +14,7 @@ published: false
 
 (pairing: Castiel/Dean Winchester, Doctor Who/River Song, Amy Pond/Rory Williams)
 
-(tag: crossover)
+(tag: crossover, time travel, case fic, mutual pining, happy ending)
 
 # Draft
 
@@ -101,44 +101,56 @@ weeping angel is a kind of angel disease, purgatory virus, leviathan triggered
 
 angels invading purgatory to save Cas, get infected, become mutated angels
 
-petrify to sculpture shape with uncontrollable time travel ability and quantum-lock
+petrify to sculpture shape with uncontrollable time travel ability and quantum-lock, can't move if stared at
 
 spread infection by touching other angels
 
+human get touched get zapped back in time
+
 ## Ideas
 
-Cas/other angels infected with weeping angel (curse? purgatory virus?), people get touched get zapped back in time, "quantum-locked", can't move if looked at
+Cas is infected when trying to save people (Winchesters/Ponds), self-sacrifice
 
-Is Cas infected or is he there to save people (Winchesters/Ponds)? Is he infected by hostile fellow angel, or self-sacrifice to save them?
+Doctor/River save destiel, destiel save Amy/Rory
 
-Do destiel save themselves or saved by Doctor?
+Doctor want to kill weeping Cas and stopped by Dean
 
-Doctor/River save destiel, destiel save Amy/Rory?
+Cas is a "good" weeping angel with them → deliberately turn off the light and/or close their eyes, and let Cas be free and move, Doctor/etc. freak out, Cas take care of other bad angels, Dean win the bet because he has faith (BAMF Cas)
 
-\*!\* Doctor want to kill weeping Cas and stopped by Dean?
+Cas buy them time by using all his eyes in his true form to stare at all sculptures all at once so none of them can move again, so the sacrifice is he can't move either (not a solution, so give up)
 
-weeping Cas is the one sent Amy Rory back, Dean Sam tried to help prevent it?
+Dean has to stare at Cas too when Cas is weeping angel. Not blinking, stare save the day
 
-\*!\* a "good" weeping angel with them → deliberately turn off the light and/or close their eyes, and let Cas be free and move, Doctor/etc. freak out, Cas take care of other bad angels, Dean win the bet because he has faith (BAMF cas?)
+~~put Amy/Rory in background but not emphasize? otherwise three pairs in focus, too many people? don't reverse Amy/Rory's glorious heartbreaking grand exit? death means something, that's the only way to make life mean something → what's written in stone is unchangeable, creating another paradox will rip the universe apart~~
 
-put Amy/Rory in background but not emphasize? otherwise three pairs in focus, too many people? don't reverse Amy/Rory's glorious heartbreaking grand exit? death means something, that's the only way to make life mean something → what's written in stone is unchangeable, creating another paradox will rip the universe apart
+Dean: "what? you save the universe but only save the UK part, fly across galaxy is close enough but USA is too far away? this isn't your jurisdiction or something? Pal, not I'm saying, you did a terrible job in protecting the earth, in case you didn't notice, it at least trashed twice if we didn't ..." Doctor: "All due respect, who's behind that? Also, USA almost trashed twice doesn't mean..." River: "Don't mind him, London gets trashed every Christmas, it's a Doctor and Monster thing." Dean/Cas: "You can say that again"
 
-Dean: "what? you save the universe but only save the UK part, fly across galaxy is close enough but USA is too far away? this isn't your jurisdiction or something? Pal, not I'm saying, you did a terrible job in protecting the earth, in case you didn't notice, it at least trashed twice if we didn't ..." Doctor: "All due respect, who's behind that? Also, USA almost trashed twice doesn't mean..." River: "Don't mind him, London gets trashed every Christmas, there's a pattern"
-
-Cas save the day by using all his eyes in his true form to stare at all sculptures all at once so none of them can move again, so the sacrifice is he can't move either? Dean has to stare at Cas too without blinking? stare save the day
+Dean distrust Doctor at first: "Wat? I'm supposed to just trust him like that? He's an alien with two hearts!" Cas: "I'm a celestial being with too many ideas and no body." Dean choked: "Which side are you?"
 
 ## Plot
 
-Dean back from Purgatory through portal, Cas back later saved by angels (remembered angel's war, concerned, not brainwashed ← foreshadow) (Sam with Amelia, undisturbed)
+Dean back from Purgatory through portal, Cas back later saved by angels (remembered angel's war, concerned, not brainwashed ← important hint) (Sam with Amelia, undisturbed)
 
 Dean&Cas find case in Manhattan: statue moving, people disappearing & sudden aging, tomb with wrong dates (death earlier than birth) → go investigate
 
-Dean&Cas first notice Rory zapped away, run into Doctor/Amy (self-intro, Doctor/Cas discuss time flux)
+Dean&Cas first notice Rory zapped away, run into Doctor/Amy (self-intros, Doctor/Cas discuss time flux), Doctor has River's book (mentioned Dean/Cas sacrifice+Amy/Rory farewell (keep it vague), River's broken wrist, gives specific time location), Cas fly 4 of them to 1938, too many weeping angels there, everyone in danger, Cas power limited because of all the angel/temporal energy
 
-【Then?】
+Dean/Amy volunteer to check Rory, Dean protect Amy & zapped away to Winter Quay, meet Rory; Dean/Rory try to find exit, surrounded by angels, back away in corridor, notice familiar angel face (Tasha, Samandriel), realize infection pattern
+
+River break wrist (fail to change future), Doctor/River's love talk, Cas hear & cure River; Amy use Doctor's device to locate Dean/Rory, 4 of them go save, see room names, all witness old Dean die (Cas uneasy); River/Amy's love talk (Dean/Cas both hear)
+
+weeping angel besiege attack, all escape to roof, Statue of Liberty attack, Cas show true form, stare all directions with all eyes, everyone shut eyes (Rory/Amy love talk, Dean/Cas hear), but Cas can't keep doing that, eventually can't maintain true form in this plane; Statue of Liberty almost touch Dean/Rory, Cas jump in front of him, get turned into statue too, Dean/all stare at him, Cas can't move
+
+Liberty continue attack, all think no way out, Dean trust Cas, ask them for all faith, look away from Cas for a sec, Cas disappear, Liberty & other statues disappear, Cas move back, still statue
+
+Doctor wants to sonic beam Cas, Dean furious, think Doctor wants to hurt/destroy him, but actually to link his time energy to call Tardis, can bring them all back to 2012; Dean ask River about paradox (River talk about how it's like to love Doctor, observable, related), get confirm if he dies now he create paradox, maybe can save Cas; a few deliberate blink scene sequence, Cas move to him, want to hug but can't, weeping/crying, Dean jump the building
+
+timeline reset, everyone back to 2012, Doctor confirm time flux explosion kill most weeping angels, Dean worry about *most* may not include Cas, but Cas show up, actually weeping (not sculpture) because he overjoy Dean is alive but hate to see him die for him; Doctor/River bicker (book), Amy/Rory resign (farewell), Dean/Cas confession, HE
 
 ## Summary
 
 ## Visual Element
+
+## Editing notes
 
 # Main
