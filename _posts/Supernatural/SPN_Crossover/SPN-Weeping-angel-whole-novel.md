@@ -123,9 +123,9 @@ Dean has to stare at Cas too when Cas is weeping angel. Not blinking, stare save
 
 ~~put Amy/Rory in background but not emphasize? otherwise three pairs in focus, too many people? don't reverse Amy/Rory's glorious heartbreaking grand exit? death means something, that's the only way to make life mean something → what's written in stone is unchangeable, creating another paradox will rip the universe apart~~
 
-Dean: "what? you save the universe but only save the UK part, fly across galaxy is close enough but USA is too far away? this isn't your jurisdiction or something? Pal, not I'm saying, you did a terrible job in protecting the earth, in case you didn't notice, it at least trashed twice if we didn't ..." Doctor: "All due respect, who's behind that? Also, USA almost trashed twice doesn't mean..." River: "Don't mind him, London gets trashed every Christmas, it's a Doctor and Monster thing." Dean/Cas: "You can say that again"
+Dean: "Let me get this straight. You save the universe but only save the UK part, fly across galaxy is close enough but USA is too far away? This isn't your jurisdiction or something? Pal, not I'm saying, you did a terrible job in protecting the earth, in case you didn't notice, it at least trashed twice if we didn't ..." Doctor: "All due respect, who's behind that? Also, USA almost trashed twice doesn't mean..." River: "Don't mind him, London gets trashed every Christmas, it's a Doctor and Monster thing." Dean/Cas: "You can say that again."
 
-Dean distrust Doctor at first: "Wat? I'm supposed to just trust him like that? He's an alien with two hearts!" Cas: "I'm a celestial being with too many ideas and no body." Dean choked: "Which side are you?"
+Dean distrust Doctor at first: "What? I'm supposed to just trust him like that? He's an alien with two hearts!" Cas: "I'm a celestial being with too many eyes and no body." Dean choked: "Which side are you?"
 
 ## Plot
 
@@ -163,15 +163,37 @@ timeline reset, everyone back to 2012, Doctor confirm time flux explosion kill m
 
 ## Act 2
 
-> Dean&Cas first notice Rory zapped away, run into Doctor/Amy (self-intros, Doctor/Cas discuss time flux), Doctor has River's book (mentioned Dean/Cas sacrifice+Amy/Rory farewell (keep it vague), River's broken wrist, gives specific time location), Cas fly 4 of them to 1938, too many weeping angels there, everyone in danger, Cas power limited because of all the angel/temporal energy
+> Dean&Cas first notice Rory zapped away, run into Doctor/Amy (self-intros, Doctor/Cas discuss time flux), Doctor has River's book (mentioned Dean/Cas sacrifice+Amy/Rory farewell (keep it vague), River's broken wrist, gives specific time location)
+>
+> Cas fly 4 of them to 1938, too many weeping angels there, everyone in danger, Cas power limited because of all the angel/temporal energy
+
+### draft notes
+
+Dean: "Let me get this straight. You save the universe but only save the UK part, fly across galaxy is close enough but USA is too far away? This isn't your jurisdiction or something? Pal, not I'm saying, you did a terrible job in protecting the earth, in case you didn't notice, it at least trashed twice if we didn't ..." Doctor: "All due respect, who's behind that? Also, USA almost trashed twice doesn't mean..." River: "Don't mind him, London gets trashed every Christmas, it's a Doctor and Monster thing." Dean/Cas: "You can say that again."
+
+Dean distrust Doctor at first: "What? I'm supposed to just trust him like that? He's an alien with two hearts!" Cas: "I'm a celestial being with too many eyes and no body." Dean choked: "Which side are you?"
+
+Doctor: "People assume that time is a strict progression of cause to effect, but actually, from a non-linear, non-subjective viewpoint, it's more like a big ball of wibbly-wobbly, timey-wimey stuff." (DW310) (Dean: "That's just so British")
+
+Doctor: "Fascinating race, the weeping angels. The only psychopath in the universe to kill you nicely. No mess, no fuss, they just zap you into the past and let you live to death, the rest of your life used up and blown away in the blink of an eye. You die in the past and in the present, they consume the energy of all the days you might have had. All your stolen moments. They're creatures of the abstract, they live off *potential* energy." ("timey-wimey detector" Dean: "I made a better hand-made EMF than that when I was ten.")
 
 ## Act 3
 
-> Dean/Amy volunteer to check Rory, Dean protect Amy & zapped away to Winter Quay, meet Rory; Dean/Rory try to find exit, surrounded by angels, back away in corridor, notice familiar angel face (Tasha, Samandriel), realize infection pattern
+> Dean/Amy volunteer to check Rory, Dean protect Amy & zapped away to Winter Quay, meet Rory
+>
+> Dean/Rory try to find exit, surrounded by angels, back away in corridor, notice familiar angel face (Tasha, Samandriel), realize infection pattern
 
 ## Act 4
 
 > River break wrist (fail to change future), Doctor/River's love talk, Cas hear & cure River; Amy use Doctor's device to locate Dean/Rory, 4 of them go save, see room names, all witness old Dean die (Cas uneasy); River/Amy's love talk (Dean/Cas both hear)
+
+### draft notes
+
+Doctor/River: "Why did you lie to me?" "When one's in love with an ageless God who insists on the face of a 12-year-old, one does one's best to hide the damage" "It must hurt. Come here." "Yes. The wrist is pretty bad, too" "That was a stupid waste of regeneration energy. Nothing is gained by you being a sentimental idiot."
+
+River/Amy: "okay, why did you lie?" "Never let him see the damage. And never, ever, let him see you age. He doesn't like endings."
+
+Amy: "Husband, run!" River: "Husband, shut up!" Dean: (swallow) others: (amused, glimpse at Dean/Cas) Dean: (blush)
 
 ## Act 5
 
@@ -179,10 +201,24 @@ timeline reset, everyone back to 2012, Doctor confirm time flux explosion kill m
 >
 > Liberty continue attack, all think no way out, Dean trust Cas, ask them for all faith, look away from Cas for a sec, Cas disappear, Liberty & other statues disappear, Cas move back, still statue
 
+### draft notes
+
+Cas buy them time by using all his eyes in his true form to stare at all sculptures all at once so none of them can move again, so the sacrifice is he can't move either (not a solution, so give up)
+
+Dean has to stare at Cas too when Cas is weeping angel. Not blinking, stare save the day
+
+Cas is a "good" weeping angel with them (same as when with normal asshole angels) → deliberately turn off the light and/or close their eyes, and let Cas be free and move, Doctor/etc. freak out, Cas take care of other bad angels, Dean win the bet because he has faith (BAMF Cas)
+
 ## Act 6
 
-> Doctor wants to sonic beam Cas, Dean furious, think Doctor wants to hurt/destroy him, but actually to link his time energy to call Tardis, can bring them all back to 2012; Dean ask River about paradox (River talk about how it's like to love Doctor, observable, related), get confirm if he dies now he create paradox, maybe can save Cas; a few deliberate blink scene sequence, Cas move to him, want to hug but can't, weeping/crying, Dean jump the building
+> Doctor wants to sonic beam Cas, Dean furious, think Doctor wants to hurt/destroy him, but actually to link his time energy to call Tardis, can bring them all back to 2012
+>
+> Dean ask River about paradox (River talk about how it's like to love Doctor, observable, related), get confirm if he dies now he create paradox, maybe can save Cas
+>
+> a few deliberate blink scene sequence, Cas move to him, want to hug but can't, weeping/crying, Dean jump the building
 
 ## Act 7
 
-> timeline reset, everyone back to 2012, Doctor confirm time flux explosion kill most weeping angels, Dean worry about *most* may not include Cas, but Cas show up, actually weeping (not sculpture) because he overjoy Dean is alive but hate to see him die for him; Doctor/River bicker (book), Amy/Rory resign (farewell), Dean/Cas confession, HE
+> timeline reset, everyone back to 2012, Doctor confirm time flux explosion kill most weeping angels, Dean worry about *most* may not include Cas, but Cas show up, actually weeping (not sculpture) because he overjoy Dean is alive but hate to see him die for him
+>
+> Doctor/River bicker (book), Amy/Rory resign (farewell), Dean/Cas confession, HE
