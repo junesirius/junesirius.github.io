@@ -135,7 +135,7 @@ Dean&Cas find case in Manhattan: statue moving, people disappearing & sudden agi
 
 Dean&Cas first notice Rory zapped away, run into Doctor/Amy (self-intros, Doctor/Cas discuss time flux), Doctor has River's book (mentioned Dean/Cas sacrifice+Amy/Rory farewell (keep it vague), River's broken wrist, gives specific time location), Cas fly 4 of them to 1938, too many weeping angels there, everyone in danger, Cas power limited because of all the angel/temporal energy
 
-Dean/Amy volunteer to check Rory, Dean protect Amy & zapped away to Winter Quay, meet Rory; Dean/Rory try to find exit, surrounded by angels, back away in corridor, notice familiar angel face (Tasha, Samandriel), realize infection pattern
+Dean/Amy volunteer to check Rory, Dean protect Amy & zapped away to Winter Quay, meet Rory; Dean/Rory try to find exit, surrounded by angels, back away in corridor, notice familiar angel face (Tessa, Samandriel), realize infection pattern
 
 River break wrist (fail to change future), Doctor/River's love talk, Cas hear & cure River; Amy use Doctor's device to locate Dean/Rory, 4 of them go save, see room names, all witness old Dean die (Cas uneasy); River/Amy's love talk (Dean/Cas both hear)
 
@@ -181,7 +181,7 @@ Doctor: "Fascinating race, the weeping angels. The only psychopath in the univer
 
 > Dean/Amy volunteer to check Rory, Dean protect Amy & zapped away to Winter Quay, meet Rory
 >
-> Dean/Rory try to find exit, surrounded by angels, back away in corridor, notice familiar angel face (Tasha, Samandriel), realize infection pattern
+> Dean/Rory try to find exit, surrounded by angels, back away in corridor, notice familiar angel face (Tessa, Samandriel), realize infection pattern
 
 ## Act 4
 
