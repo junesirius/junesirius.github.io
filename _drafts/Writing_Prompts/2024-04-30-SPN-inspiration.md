@@ -2307,6 +2307,8 @@ character study: memoir style, at the end turn out it's Gabe reliving his whole 
 
 Dean: "You need better friends" Gabe: "I'm protecting the ones I have" (reuse the dialogue with Cas)
 
+(30min Gabe collection clip: https://www.youtube.com/watch?v=3E6DdhOkU3s)
+
 ### **250.5【Gabe/Loki】wear your face**（R级）
 
 title potential: 《The faces we wear》(reuse), 《In the mirror》《Wear Your Face》
@@ -2649,7 +2651,7 @@ something huge happened, the only way to save Dean's life is Cas wipe Dean's mem
 
 Cas read Dean's memory, but door can be stepped either direction, Dean start reading Cas's memory (startled Cas)
 
-### 268.【destiel】S04E01 Dean lobotomize Cas in Hell during angel rescue
+### **268.【destiel】S04E01 Dean lobotomize Cas in Hell during angel rescue**
 
 (inspired by a comment under my tumblr post mentioning Cas 0817 is lobotomized)
 
