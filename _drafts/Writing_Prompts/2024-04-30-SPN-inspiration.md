@@ -2711,4 +2711,13 @@ Cas bring Dean to his fav 1973 Zeppelin Live, Dean super happy
 
 or case fic, timeline monster/rogue angel? like DW Beetles Live episode
 
-### 273.
+### 273.【destiel】addict to angel blood
+
+parallel to S4 Sam addicted to demon blood or S9 Crowley addicted to human blood
+
+imagine drinking angel blood has similar affect, gives Dean angel power, easy to get addicted
+
+parallel to Sam&Ruby, Dean has Cas to ease the addiction, Cas wants to help him control the addiction, but Dean can't help himself, Cas doesn't have the heart to force him quit
+
+### 274.
+
