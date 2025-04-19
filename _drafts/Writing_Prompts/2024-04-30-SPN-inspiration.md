@@ -284,7 +284,7 @@ Cas怎么在昏迷中用尽力气才把自己灵魂拼起来，至少可以醒�
 
 （see more in S07E21-23观后感；~梗158，->梗201）
 
-### 26.【Cas】S07E21/23 失控的Cas在害怕崩溃中时间穿越
+### 26.【Cas】S07E21/23 失控的Cas在害怕崩溃中时间穿越【WIP - bang】
 
 谁知道一只崩溃失控的天使会做什么？也许会毁灭世界，也许会杀光所有恶魔甚至人类，也许会害怕得逃走，逃到时间流里，穿越到了不知道什么时代，Dean和Sam又怎么样才能重新找到他？只靠Meg坐在病床旁边看杂志又能起到什么效果？
 
@@ -292,7 +292,9 @@ Cas怎么在昏迷中用尽力气才把自己灵魂拼起来，至少可以醒�
 
 （see more in S07E21-23观后感）
 
-### 27.【Cas】S07E21/23 为什么破碎的Cas这么害怕争执
+### 27.【Cas/Gabe】S07E21/23 为什么破碎的Cas这么害怕争执【WIP - bang】
+
+《Sunday Dinner》
 
 突然似乎理解了他为什么会这么害怕争端，一被吼就很不高兴地瞬移跑走了，缩在角落里一个人玩游戏来缓解心情：这简直完全就是一个从小被家暴的孩子的模样，这样的争端和大声说话让他想起糟糕的过往回忆（童年回忆？）。重新想到了加百列说过的Armageddon只是他们家的Sunday dinner，不想再看他们争吵的加百列离家出走了，那么一直待在那里的小孩子们呢？比加百列小的Cas，是不是总是缩在餐桌角落看哥哥们暴力地吵架打架，或者在隔壁的儿童桌旁边背对哥哥们堵着耳朵不想听，但是家具玻璃摔碎的声音还是隔着手指传进来？害怕自己会变成哥哥们的出气筒，害怕这样的闹剧会让这个家分崩离析。然后在这样的环境里长大，变成一个decent的炽天使，把那些糟糕的童年记忆都埋下去，甚至连Dean这样亲密的（唯一的）朋友都没有告诉。他以为自己已经长大了，已经度过了那种因为争端而陷入惊慌恐惧的年龄段，直到这灵魂碎片又把这一切都重新带了回来。在那些最糟糕的时候，他好像又变成了当初的刚诞生不久的小天使，瑟缩在餐桌角落，或者偶尔躲回自己的房间，假装玩游戏，强迫自己把注意力放在面前的玩具和游戏上，希望这样就能听不见外面越来越响的争吵声。这就是为什么争端这件事突然变得如此triggering。
 
@@ -706,7 +708,7 @@ Emmanuel (amnesia Cas) can hear longing/prayer but doesn't know what it is until
 
 (old reddit prompt about someone who thinks they're just imagining the voice until one day they hear "turn around" and see the other person)
 
-### 70.【destiel】When the first pie is made【WIP - bang】
+### 70.【destiel】When the first pie is made
 
 《Best creation ever》
 
@@ -1392,7 +1394,7 @@ What happened to the boys when they have to extend their stay in Sunrise, Wyomin
 
 (~Legends of Tomorrow)
 
-### 157.【destiel】S06E22 What if Crowley oversmarts everyone and becomes the new God
+### 157.【destiel】S06E22 What if Crowley outsmarts everyone and becomes the new God
 
 (-> prompt 200)
 
@@ -1480,7 +1482,7 @@ Chuck takes precaution for anyone closer to God's ability, as soon as Cas juice 
 
 (A bit inspired by 《Heard from your mother》)
 
-### 168.【gabstiel】S09E18 Gabe and porn and Cas
+### 168.【gabstiel】S09E18 Gabe and porn and Cas（R级）
 
 head canon ver of Cas was raised by Gabe from angel baby to adule seraph
 
@@ -2147,7 +2149,7 @@ make destiel Christmas, Sam give Cas suggestion of what to give Dean, Cas always
 
 ### 237.【Charlie/Jo/Claire】S10E20/21 Amelia&Charlie don't have to die (F/F)【WIP - bang】
 
-title: Wayward Girls, It's a Cruel World (But I got you)
+title: 《Wayward Girls》《It's a Cruel World (But I got you)》
 
 age: Charlie (1985-2015) 30y S10, Claire (1997) 18y S10, Jo (1985.4.7-2009.11.19) 30y S10
 
@@ -2307,7 +2309,7 @@ Dean: "You need better friends" Gabe: "I'm protecting the ones I have" (reuse th
 
 ### **250.5【Gabe/Loki】wear your face**（R级）
 
-title potential: 《The faces we wear》(reuse), 《In the mirror》
+title potential: 《The faces we wear》(reuse), 《In the mirror》《Wear Your Face》
 
 Gabe/Loki has had a thing going on between them back when Gabe saves Loki (hang out a bit, very similar, same vibe, get together, kiss/sex/etc.), then asks for Loki's help. Letting Gabe wear Loki's face is Loki's kink (≈ego, Loki gives Gabe half his own real body) which Gabe also enjoys, initially start as more sensational/sexual, but gradually find more common ground and gets to romantic but neither recognize it
 
@@ -2681,17 +2683,19 @@ groundhog day where the whole worlds repeat around Sam, everyone else only lives
 
 (sabriel thought:) Gabe knows the only way for Sam to think of anything other than his brother is when Dean is gone, so this is Gabe's version of taking Dean out of chess board to interact with Sam alone. So that Wednesday after the looping Tuesday where Dean is dead, for months, all Sam can think about is to revenge and capture Gabe, this is the only time Sam is wholeheartedly thinking about Gabe (even if it's hate), Gabe finally has his attention (as this is what Gabe wants: be noticed ← he's proud of his ability to hideout in the human crowd and not get noticed, but once a while he also wants to get noticed and feel good about it, so this is Gabe's messed-up love-hate version of getting someone (Sam)'s full attention, because growing up this is something Gabe never gets)
 
-### 271.【Charlie/Alicia】Transcendence/AI ver（F/F）【WIP】
+### 271.【Charlie/Alicia】Transcendence/AI（F/F）
+
+《What Is Life》
 
 Charlie has been uploading her brain info to bunker computer, basically turns herself into a big AI with her own memory & intelligence built-in (inspired by *Transcendence*), but not waken yet (after 1022 unexpected death, her initial plan is to wake it by herself to test/have fun/help boys around the bunker) (←TFW find Charlie's journal/notebook)
 
-Alicia Banes is a twig/twine doll after 1220, live like that for three years (post-1520) but can't bear it (burned/fiercely wounded, dying? Max's magic exhausted?), so go to bunker look for help, start reading archives but lose patience, hope the bunker computer has easy archive, go poke, find out it's manually recently modified, go digging, restart, trigger Charlie's conscious awake, start talking in bunker, startle TFW (subtly indicate Cas is still around & destiel); TFW talk to Charlie for a bit, miss her, guilty, this version is uploaded before the event, so she doesn't know, it never happens to her (TFW still guilty but relieved) (has to leave bunker for a while? out hunting some small things but leave bunker to them)
+Alicia Banes is a twig/twine doll after 1220, live like that for three years (post-1520) but can't bear it (burned/fiercely wounded, dying? Max's magic exhausted?), so go to bunker look for help, start reading archives but lose patience, hope the bunker computer has easy archive, go poke, find out it's manually recently modified, go digging, restart, trigger Charlie's conscious awake, start talking in bunker, startle TFW (subtly indicate Cas is still around & destiel); TFW talk to Charlie for a bit, miss her, guilty, this version is uploaded before the event, so she doesn't know, it never happens to her (TFW still guilty but relieved) (has to leave bunker for a while? out hunting some small things but leave bunker to them←take them out of story)
 
-(discussion about life form, whether Charlie is actually dead, Cas to confirm her soul is indeed in Heaven, with all memories but can't create new ones, this AI version is better, more alive; to make the life form more proper, Cas agree to hope to Heaven ask if her soul is okay with that, Charlie: "if I know anything about my own soul" even just for curiosity, know she'd come down)
+(discussion about life form, whether Charlie should be considered dead/revived, what's this form vs soul living form, Cas to confirm her soul is indeed still in Heaven, with all memories but can't create new ones, this AI version is more alive/living; to make AI!Charlie more legit, Cas go to Heaven ask if her original soul is okay with that, soul!Charlie: "if I know anything about myself" she's ok with it, even just for curiosity about the experiment←hint for ending)
 
 both are basically consciousness in wrong/no body (philosophic discussion of "what is life"), held together by tech/magic, just need to figure out a normal-ish body (inspired by *Cyberpunk 2077*) to become human again. Charlie suggests to make herself a twig/twine doll body too but everyone vote it down. Alicia suggests to upload her own brain to bunker computer (since Charlie already know how to do it), good for backup too in case twig stop working, seem no reason not to, so start the process
 
-Alicia enter Charlie's sci-fi version world (visual from 2077), two-girl time, talk in AI-type wavelength-only human-incomprehensible pitch (inspired from that post in qzone), TFW+Max amazed, continue digging books, they digging in ebook; because of isolated and bored, talking more, getting close, start have desire, want to touch physically
+Alicia enter Charlie's sci-fi version world (visual from 2077/San Junipero), two girl time, talk in AI-type wavelength-only human-incomprehensible pitch (inspired from that post in qzone), TFW+Max amazed, continue digging books, they digging whole internet; because of isolated and bored, talking more, getting close, start have desire, want to touch physically
 
 Max reuse Rowena's spell, throw Witch's ring in for full power, create two bodies for them; upload data to the body, initially accidentally swapped, make cute fun remarks (still kiss, hug, can't wait); re-upload, hold hand, "that's so much better"
 
