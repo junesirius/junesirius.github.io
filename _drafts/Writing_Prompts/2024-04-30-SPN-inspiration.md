@@ -2763,5 +2763,17 @@ whenever one goes bad, the other keep balance, they're the only one powerful eno
 
 what if both of them come up with a bad boy joke (just like all teen boys) and go for it, make a terrible mistake, the parents (TFW) get pissed, save the world together again
 
-### 278.
+### 278.【Michean/Micifer】S05E01 Michael goes gentle/friendly on Dean
+
+Dean would never say yes or submissive to torture/force, but he'd be agreeable if he's treated kindly, like it's for sure he wouldn't reject if Cas needs to go into him
+
+(inspired by Frank Castle/Matt Murdock, something nice would work a hell better than bad forceful ways)
+
+Lucifer goes easy/gentle on Nick/Vince, pretend to be their loved ones, promise to be good to them; Michael only act harshly like a dick he is, but what if he realizes that, and know Dean would say yes if he behaves like that, so he mimics Cas, help them, be kind to them, even if in the beginning is just to pretend, has to force down his own pride, but later gradually, just like Cas, he learns the beauty of humanity and start genuinely care for human, and to fight Lucifer isn't just a mission, but a way to protect humanity, then even more compassion, he wants to save Lucifer not to kill him
+
+Dean/TFW also tries their best to turn Michael, make him less of a dick (the decade with Adam proves Michael can indeed be changed), then Dean says yes, Michael!Dean saves the world
+
+Even better, if Lucifer experience the similar curve, Luci corrupts because of Cain's Mark, so if it's fixable, he gets better/fixed. Or better, he doesn't get better, but they still accept him again. Michael takes him back in. Luci actually kinda likes humanity stuff too, even if he doesn't admit (proof with Jack his son, he can care, even if in the beginning just pretend to be)
+
+### 279.
 
