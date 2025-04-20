@@ -170,7 +170,7 @@ croak, rasp
 
 (all Chaps) examine first/third person view in *thoughts* with/without POVs
 
-(Chap. 5/6) balance chap. 5/6 length, can move Chap.6-1/2 to Chap.5-2/3, depend on how long Chap.6 end up with once finished
+~~(Chap. 5/6) balance chap. 5/6 length, can move Chap.6-1/2 to Chap.5-2/3, depend on how long Chap.6 end up with once finished~~
 
 ## Main
 
@@ -1844,7 +1844,7 @@ Cas chuckles softly.
 
 Dean gets better used to the too brightened view now. He widens his eyes in curiosity. The view of the world is so abundant with lights and colors, casting clarity that he has never known. And he realizes the glinting stars constantly shining in his view aren't really stars, that's air, for what air really is. The air is not transparent empty, instead, tiniest particles charged with electricity shooting around, bumping into each other, transferring the power and energy. That must be where all the low buzzing and humming noises come from, and the small prickling electrical feeling on the skin as if touching the low charged power line.
 
-"The whole Earth's electric and magnetic field is being affected by the tear this time." Cas explains in the backseat of his head, deeply worried. "Because of the infinite plasma. The aurora borealis is just the first phenomenon."
+"The whole Earth's electric and magnetic field is being affected by the tear this time." Cas explains in the backseat of his head, deeply worried. "Because of the infinite plasma. The aurora borealis is just the first phenomenon. Soon, the Earth will draw the Moon and itself off the orbit, then affect solar activity so much that the whole solar system will collapse off balance, we don't have long."
 
 Dean looks up at the sky. It looks nothing like what his human eyes witnessed before. Well, in a way, it might still be the same scenery, the mixed dazzling colors, the shapes that are like flowing curtains and snakes and flames sweeping across the sky. Except, there are so much more details fitting in the blanks.
 
@@ -1998,13 +1998,13 @@ Dean blinks. The view changes completely.
 
 A sudden chilly air blows to his body, Dean shivers in the drop of temperature. It is different from the icy wind in Alaska though, more like... Dean glances around on instinct, and finds an open window with thin flying curtain. He looks around, bewildered. The view seems somewhat familiar, but he can't quite place it immediately.
 
-The wall is white, so is the single small bed in the center of the room, with protect bars on both sides. It's an infirmary bed. He's in a hospital, of some sort.
+The wall is white, so is the single small bed in the center of the room, with protection bars on four sides. It's an infirmary bed. He's in a hospital, of some sort.
 
-Dean looks down at himself, and he freezes. He's in hospital clothing, soft white shirt and pants. The same hospital dressing he sees Cas wore near the end of last year, and the whole time when he was in the Purgatory. Dean has to put the trench coat over him to cover the sick feeling at the sight and reminder of the meaning of that hospital dressing, but he sees it all the time anyway. His right wrist has a blue paper loop.
+Dean looks down at himself, and he freezes. He's in hospital clothing, soft white shirt and pants. The same hospital dressing he sees Cas wore near the end of last year on Earth, and the whole time when he was in the Purgatory. Dean has to put the trench coat over him to cover the sick feeling at the sight and reminder of the meaning of that hospital dressing, but he sees it all the time anyway. His right wrist has a blue paper loop.
 
 "Cas?" Dean frowns hard at his hand in his view -- the hand that is undoubtedly belonged to Cas, whispering. "Is this... your memory?"
 
-Cas's voice passes into his mind slowly, surprised as well, a slight "Oh", then, "I think it might be because of my grace. Some memory is too deep entangled with the grace, when you channel them, they go past your soul. The process may affect your perceptions, as if seeing through my eyes."
+Cas's voice passes into his mind slowly, surprised as well, a slight "Oh", then, "I think it might be because of my grace. Some memory is too deeply entangled with the grace, when you channel them, they go past your soul. The process may affect your perceptions, as if seeing through my eyes."
 
 He pauses, hesitating.
 
@@ -2014,7 +2014,7 @@ He pauses, hesitating.
 
 "You lived through those, didn't you?" Dean says, not waiting for an answer. "Surely it can't hurt me like the past has hurt you. The least I can do is to learn how bad it is."
 
-Cas falls silent for a moment, then says very quietly. "Dean, they're really bad."
+Cas falls silent for a moment, then says very quietly. "Dean, some of them are really bad."
 
 And Dean answers him, "Close your eyes then, if you don't want to relive them. Hold my hand if you want." They're not really face to face in the mental living room any more, so really, that's just a metaphorical speaking. But Cas gets it. He doesn't argue. As if he sits back to Bobby's sofa with a still slightly tensed back.
 
@@ -2034,9 +2034,9 @@ But when Dean looks closely, he notices the shelves are not all empty. The ones 
 
 "What's this place?" Dean asks. Cas doesn't answer.
 
-Instead, Dean finds his body kneel down to the floor, reaching for a page -- not *his* body, Dean mentally corrects himself, it's Cas's memory, it's Cas's body now. His fingers touch a page closest to him, and his eyes start reading it. There is an illustration of a cat on the page, a lazy tabby lying on the page, holding its tongue out, long and pink, staring at him. The text below reads "*Sharp spines or papillae can be found in a cat's tongue, there are five types of papillae...*" along with some other notes and facts about cats.
+Instead, Dean finds his body kneel down to the floor, reaching for a page -- not *his* body, Dean mentally corrects himself, it's Cas's memory, it's Cas's body for the moment. His fingers touch a page closest to him, and his eyes start reading it. There is an illustration of a cat on the page, a lazy tabby lying on the page, holding its tongue out, long and pink, staring at him. The text below reads "*Sharp spines or papillae can be found in a cat's tongue, there are five types of papillae...*" along with some other notes and facts about cats.
 
-His finger turns the page over. On the back side, it is a different section about some other knowledge of cats, and it starts talking about "*Felines, especially domestic cats, are well known for having penile spines, which is needed to stimulate the female cat into ovulation...*"
+His finger turns the page over. On the back side, there is a different section about some other knowledge of cats, and it starts talking about "*Felines, especially domestic cats, are well known for having penile spines, which is needed to stimulate the female cat into ovulation...*"
 
 He hears a low sigh in his throat, fingers touching the word "female cat" and his voice saying "*I know for a fact the females were not consulted about that.*" The vision shifts between the library and hospital briefly as the voice comes through, like the owner of the voice is talking to someone in the different place. The view from the hospital is more like a translucent ripple overlay, but Dean sees a glimpse of himself and Sam standing, face worried and annoyed.
 
@@ -2058,67 +2058,159 @@ Broken.
 
 Torn apart.
 
-Like tornado sweeping through the library, all the knowledge are still here, but so scattered, so broken, that he had to put them back, piece by piece, page by page, reading each one of them, putting them back in order, then looking at the next. Each piece can be from a far too different topic, a different book, a different area of the brain. He takes the page, walks to the correct shelf, puts them in between the book cover, then walks back, and does the same again for the next piece.
+Like tornado sweeping through the library, all the knowledge are still here, but so scattered, so broken, that he had to put them back, piece by piece, page by page, reading each one of them, putting them back in order, then look at the next. Each piece can be from a far too different topic, a different book, a different area of the brain. He takes the page, walks to the correct shelf, puts them in between the book cover, then walks back, and does the same again for the next piece.
 
-"*It took everything to get me here.*" Cas had already told him, back then, in the hospital, hadn't he? But Dean didn't listen, he just, couldn't understand. Dean winces, wondering what he was distracted by at that time, that he could let that statement slip through without really asking "*What had happened*". Then he remembers, he was angry, back then, so angry that all he can think of is snapping at Cas, telling him "button up his coat and help them take down the Leviathans", because he was thinking, that was all his fault. All the while Cas is in here, inside his own head, going round and round, piecing himself together, piece by piece.
+"*It took everything to get me here.*" Cas had already told him, back then, in the hospital, hadn't he? But Dean didn't listen, he just, couldn't understand. Dean winces, wondering what he was distracted by at that time, that he could let that statement slip through without really asking "*What happened*". Then he remembers, he was angry, back then, so angry that all he can think of is snapping at Cas, telling him "button up his coat and help them take down the Leviathans", because he was thinking, that was all his fault. All the while Cas is in here, inside his own head, going round and round, piecing himself together, piece by piece.
 
 "I'm sorry." says Cas.
 
 His voice startles Dean.
 
-"What?" Dean asks. He means, *Why are you apologizing? I should be the one. I should have known things are difficult, so difficult. You're already doing your best, you're always doing your best. Whatever the result, you tried, you tried so damn hard. I should have known. I should have at least asked...*
+"What?"
+
+He means, *Why are you apologizing? I should be the one. I should have known things are difficult, so difficult. You're already doing your best, you're always doing your best. Whatever the result, you tried, you tried so damn hard. I should have known. I should have at least asked...*
 
 And Cas says again, "I'm sorry. I'm sorry I destroyed everything. I'm sorry I was afraid I would destroy everything again. I'm sorry about all the mess and..."
 
 "Cas," Dean stops him, he can barely find his own voice. "I'm sorry, too. And I forgive you, Cas. I forgave you long time ago."
 
-But Cas is still saying, "I'm sorry..." As if his mind is back on that old self, looped like a cassette tape, playing the only message it can keep focus on. His body picks another page, and another. He reads them, and puts them into the right places. His thought passes through, *He needs to piece himself together, he needs to piece himself together because there is something important outside that needs fix, because there is someone important outside that is waiting for him, because they also have too many important things to fix...*
+But Cas is still saying, "I'm sorry..." As if his mind is back on that old self, looped like a cassette tape, playing the only message it can maintain the focus on. His body picks another page, and another. He reads them, and puts them into the right places. His thought passes through the head, *I'm sorry I was broken. I'm sorry I'm broken again. I need to piece myself together, I need to put myself together because there is something important outside that needs fix, because there is someone important outside that is waiting for me, because we also have too many important things to fix...*
 
-"Hey, hey, Cas." Dean nudges him mentally, thinking hard to focus back onto the view of Bobby's living room, the sunshine on the carpet through the curtain.
+"Hey, hey, Cas, Cas." Dean nudges him mentally, thinking to take control back, focusing back onto the view of Bobby's living room, the sunshine on the carpet through the window.
 
-And he is steered back into that warm bright sunshine and lazy afternoon that they never had. Cas is slump in the sofa, curled small, eyes unfocused, as if trying to hold himself together. As if he's still broken. His lips murmur over and over again, "I'm sorry."
+And he is steered back into that warm bright sunshine and lazy afternoon that they never had. Cas slumps in the corner of the sofa where the sunshine can't reach, curling small, arms tight around knees, as if trying to hold himself together the best he can. As if he really is still broken. His eyes unfocused, his lips murmur over and over again, "I'm sorry."
 
-Dean puts a hand on his shoulder. Cas is startled. The loop is broken. His lips are still moving, but no sound comes out.
+Dean puts a hand on his shoulder. Cas is startled. The loop is broken. His lips are still moving, but no sound comes out. His eyes fragile.
 
-Dean lowers himself in front of the sofa. His eyes level with Cas's.
+Dean lowers himself in front of the sofa, edging to his side, wrapping the arm around him in a gesture to pull the angel toward him. His eyes level with Cas's.
 
-"Listen to me," he starts, then pauses, his mind wandering back to Cas's library. The grand, beautiful hall, the ancient shelves, the countless books. What would it look like when Cas is not broken? When everything is ancient and elegant? Must be breath-taking. Must be as spectacular and beautiful as everything that Cas is. Dean tells him, "You're forgiven, Cas." And, "I'll fix you. I'm fixing you."
+"Listen to me," he starts, then pauses, his mind wandering back to Cas's library. The grand, beautiful hall, the ancient shelves, the countless books. What would it look like when Cas is not broken? When everything is ancient and elegant? Must be breath-taking. Must be as spectacular and beautiful as everything that Cas is. Dean tells him, firmly, "You're forgiven, Cas." And, "You're not broken. Even if you are, I can help fix, I'm good at it. Don't worry. We'll figure it out."
 
 Cas's ocean-blue eyes focuses on Dean's. The look of broken and pieces is still lingering in that deep blue ocean water, like shattered glasses floating on the wave. But he nods, small.
 
 There is still so much glistening in those eyes, so much pain and guilt and regret and apology floating in there like a dark fog ghosting on the sea. But he tries to straighten up slightly on the sofa, all the while keeping the gaze on Dean, and he says, after a while, quietly, "Thank you."
 
-So Dean continues.
+He leans into the arms wrapped around him, returning the hold.
 
-In the outside world, more lights and grace flow through his palm, layering onto the giant vessel, coating the body like a blanket made of light. The body becomes visibly smaller now, from the shape of a huge mountain and height of a skyscraper, to the size of a hill and possibly height of the highest cathedral and library in the world. But the lights fill in the gaps, as if it's not shrinking, just dissolving into a different form.
+Dean grips him tight, hands caressing his backs gently in a soothing mode. Like those huge wings once did.
 
 <br>
 
 #### Act 2
 
+So Dean continues.
+
+In the outside world, more lights and grace flow through his palms, layering onto the giant vessel, coating the body like a blanket made of light. The body becomes visibly smaller now, from the shape of a huge mountain and height of a skyscraper, to the size of a hill and possibly height of the highest cathedral and library in the world. But the lights fill in the gaps, as if it's not shrinking, just dissolving into a different form.
+
 There probably shouldn't have been that much lights. Dean thinks, eyes following the wave of lights, wondering how the physics of the grace works, and decides, if that triggers another physics lecture with all the terminologies from Cas, he'll have to skip the class.
 
 But really, the grace is pouring out from him and into Cas's body, not just channeling from the center of the palm, it expands to his whole hand, then whole arm, then, without needing to look down on himself, Dean knows his whole body is lightened up by the grace, and the light of the grace is continuing flowing out unstoppingly.
 
-Should he start worrying? Dean feels a pull of panic start accumulating at the bottom of his gut again. Will it eventually drain Cas's grace? But really, is all the light come from Cas's grace? The brightness and the way they flow around, swirling and thickening, it almost looks like the lights are regenerating, multiplying, growing on themselves like nuclear reaction.
+Should he start worrying? Dean feels a pull of panic start accumulating at the bottom of his gut again. Will it eventually drain Cas's grace? But really, is all the light coming from Cas's grace? The brightness and the way they flow around, swirling and thickening, it almost looks like the lights are regenerating, multiplying, growing on themselves like nuclear reaction.
 
 Now that he thinks about it, that theory seems increasingly plausible. "Cas, am I going to explode into light or something?" Dean hushes.
 
 "I don't think so," Cas answers, but the voice doesn't sound convincing. "I hope not."
 
-That is when a great surge of grace dash out of Dean right near his heart, brushing hard on some core essence of his internal. The warmth from the grace skyrockets to a burning sensation, making Dean let out an uncontrollable yell that is close to pain. *Damn, is it how it feels to be soul-touched?*
+That is when a great surge of grace dash out of Dean right near his heart, brushing hard on some core essence of his internal. The warmth from the grace skyrockets to a near burning sensation, making Dean let out an uncontrollable yell that is bouldering pain. Not exactly unpleasant, more surprised. *The Hell is that? Feel like my soul just get touched or something.*
 
-*Sorry.* Cas's thought comes through as soon as Dean's own thought forms. *I'm afraid it might indeed be a chain reaction. I'm so sorry, I didn't know, I would never...*
+*Yes. Sorry.* Cas's thought comes through as soon as Dean's own thought forms. *I'm afraid it might indeed be a chain reaction. I'm so sorry, I didn't know, I would never...*
 
-*I know, Cas. So now just, buckle up for hell of a roller coaster trip, huh?* Dean huffs, pressing his hands on the body harder, as if he knows, whatever is coming, he would need a steady hold to not fall. Especially when there is someone else on the passenger seat.
+*I know, Cas. So now just, buckle up for hell of a roller coaster trip, huh?* Dean huffs, pressing his hands on the body harder. By the ways the light and power and electricity pouring out, he knows as a fact, whatever is coming, he would need a steady hold to not fall. Especially when there is someone else on the passenger seat.
 
 <br>
 
-The view ripples and shakes so much that Dean loses sense of the reality minutes later.
+The view ripples and shakes so violently that Dean loses sense of the reality seconds later. The movies and images in front of his eyes shift so extremely rapidly like a tape player uncontrollably rewind and replay at random places.
 
-Blackness replaces the brightness to hang over the world. The sudden withdraw of the light blinds his eyes as much as the sudden glaring.
+He sees grey sky and ominous shades of trees swaying, monsters eying covetously. Dean sees his own back, from Cas's view, holding the bone blade, slashing the attacking leviathans and all other monsters. Cas dodges and ducks and strikes back too, for the ones that jump him, but all the while, Dean notices, his own figure is always, always remain in the view. Every time he's slightly overwhelmed, Cas comes to his side.
 
-Dean blinks hard, and by each blink, the surrounding looks clearer one more bit. And when his eyes land on the grey sky and the ominous trees and dead monster bodies on the ground, he knows exactly where he is.
+He thinks back to his own experience, and the view shifts along with his train of thought. He's killing the monsters, fierce and ruthless. He glares at the ones that are coming to him, and he watches out for the ones coming to Cas. He glances at Cas's hand that usually would hold an angel blade but not this time, he itches to hand the angel his blade. Instead, he jumps in front of him, blocking the hideous looks those surrounding leviathans throw at him. He kills them before they can reach within an arm's distance to Cas.
+
+*Oh.* Dean hears Cas's quiet voice murmur at the view from the back of the head, knowing he's watching the same scene replayed from the different angle for the first time.
+
+*Yeah, fun time.* Dean shoots him a thought. *Nice teamwork.*
+
+*It is truly great teamwork.* Cas agrees.
+
+Then the swirly blue-white portal comes into the sight. At first glimpse Dean isn't sure whose memory it is, then he knows it's Cas's, because the steps become more unstable and shaky than he remembers for himself. The portal gets closer by each step, but Cas's steps are slower and more sluggish by each step, but it's not from exhaustion. His own voice sounds from the memory, yelling over the monsters' growling and wind: "Come on, Cas, come on!" He sees his own eyes glancing back, checking on Cas, worried but hopeful, at least the way out is right in front of them now. Then there is Cas's thought replaying from the memory, *I should be left behind. I don't deserve to be saved.*
+
+Dean blurts out at that, "You sound just like me when we first met, you remember that?"
+
+Surprised, Cas stutters. There is a sound that is exactly like swallowing. Then, slowly, "Yes, I remember. And I can finally understand now."
+
+"And you remember what you said to me back then?"
+
+"Yes."
+
+"Tell me."
+
+"I told you, back then, good things do happen. You deserve to be saved."
+
+Dean really wants to hold the stare with Cas's eyes at this moment, but he thinks Cas gets the idea. "You mean that, and you believe that?"
+
+"Of course, Dean. For you, always." Cas answers earnestly.
+
+"Then remember, same for you. Alright?" Dean tells him firmly.
+
+*Even if my mistakes are way worse and more beings are devastated?* Cas doesn't put it into words but Dean receives the thought anyway.
+
+The view now is composed of flashes of bloody scenes on Earth and even more horrifying scenes of dead angels butchered on the ground of Heaven. Burned out wings from dead angels stain the meadow for miles, there must be hundreds if not thousands of angels there. Cas stands in the center of the site, looking down on them, announcing his coronation and verdict as the new God.
+
+Cas makes a terrified, sick sound at the view as if he's about to throw up.
+
+Dean remembers the basement that night, the look on Cas's face, the despise in his eyes when he said they are all but insects to him. He was about to kneel down before him, his heart thumped in so much agony he couldn't breathe. Dean wasn't resentful, no, he was mourning the Cas that was his friend, and this being with the same face was not Cas anymore, because he has said already, "Cas you know is gone." Then he remembers the blood dripping down Cas's mouth, leviathans twisting his face. The floating, bloody trench coat in the water.
+
+The view shifts to that lakeside, and the only thing in sight, is that damp trench coat, washed up and down by the water.
+
+Everything is so hard to think, even harder to say it. But he has to tell Cas this. "Yes, even with that. Hell, who says yours is worse anyway. I jump started Apocalypse, that doesn't stop you from saving me, so yeah, no, wouldn't stop me whatsoever."
+
+*Even if I betrayed you and hurt Sam?* This thought comes through extremely hard, as if it is literally cutting Cas open and tearing him apart again just by thinking it, blood would drip at the edge of the thought. But it is also so obvious he never really stops thinking it, never stops beating himself up for it.
+
+Dean stumbles on that, but swallows and steadies himself. "Just, just don't do that again."
+
+*I'm sorry.*
+
+"I know. Cas. I know." Dean takes a long, shagged breath. "I forgave you."
+
+The flashing images from the memory slow down in the view, the broken pieces, the dazzling light, the confusing scenes in the dimension in between, the long and ugly past, the hell, the purgatory. Some are Cas's, others are Dean's, many times, they find the pieces mixed together. One by one, they pick them up, sort them out, as if cleaning the floor where all the glassware and chinaware have been shattered, and they are working together to put them back together. The edges are sharp, the broken pieces are tiny, but they work together. One by one, piece by piece, just like Cas puts the torn book pages in his memory library back onto the shelves, just like they float in the dimension in between and put the pieces of cloth fabric and feather together to make a Picasso-style form turn to a Leonardo da Vinci art.
+
+"There, you're the new Mona Lisa now. Fresh and new." After the last piece of aching memory piece flashed by and settled down, the view shifts back to the comfortable corner in Dean's head, back to Bobby's house. Dean pats fondly on Cas's shoulder, half-joking. *You're more beautiful than Mona Lisa.* His thought amends uncontrollably.
+
+Cas tilts his head to him, a small grin. "You know I can hear that too."
+
+Dean flushes slightly. "Can't stop a man from thinking the truth."
+
+His arms are still wrapped around Cas, the posture unchanged since all the roller coaster started. And now, finally, it feels like they land somewhere.
+
+Cas uncurls his body, turning slightly on the sofa, facing Dean. His eyes locked on Dean's, unblinking.
+
+Dean finds his own eyes attracted like magnetic. He can see himself from Cas's eyes. The intensity makes his head dizzy, the whole surrounding disappears. He drowns in the blue, thinking, *Nothing in the world is more perfect.*
+
+And an echoing thought returns, *Yes, there is, you.*
+
+Dean blinks, eyes widened slightly, face flushed hotter.
+
+Cas's eyes sweeps down, over his cheek, land on his lips, then moves back to his eyes.
+
+Dean catches every movement of his eyes, swallows, then leans in carefully.
+
+Cas pulls him in, closing the remaining distance between their lips.
+
+Dean closes his eyes, sinking in the feeling. His heart warm and swelling.
+
+<br>
+
+#### Act 3
+
+
+
+
+
+"Did we settle all the pieces? Fix everything inside and outside?" Dean checks on Cas.
+
+"I think so." Cas answers. There is still a small sound deep down somewhere whispering something about worthiness and deserve and those shitty things that have been tripping them over, pulling Cas away and back, but the voice hasn't formed a full thought yet, so Dean considers it's okay for now. Cas agrees in silence.
+
+
 
 
 
@@ -2127,21 +2219,23 @@ Dean blinks hard, and by each blink, the surrounding looks clearer one more bit.
 (Cas's memory of edge of purgatory+in between dimension -> move to shift quickly between scenes)
 
 - in between dimension: self-aware the monstrous form, own pieces, upset, worried; see Dean in seance, only an eye, talking
-- purgatory memory: watch Dean from back, thinking to leave behind, but doesn't want to harm his feeling, agree to go, but torn apart; the pain and the knowledge that glad to redeem, the regret
+- ~~purgatory memory: watch Dean from back, thinking to leave behind, but doesn't want to harm his feeling, agree to go, but torn apart; the pain and the knowledge that glad to redeem, the regret~~
 - know Dean's sacrifice plan, angry, sad
-- God!Cas time memory: devastated heaven, vaporized thousands of angels, killed humans, bloodbath; might kill himself (+flashback of Dean's plan, deliberately not mention as one of the "danger" if expelled but not summoned in time) => passing lines, quick
+- ~~God!Cas time memory: devastated heaven, vaporized thousands of angels, killed humans, bloodbath; might kill himself (+flashback of Dean's plan, deliberately not mention as one of the "danger" if expelled but not summoned in time) => passing lines, quick~~
 - ~~mad!Cas time memory: piecing his own mind together, hospital scene; pieces, again~~
-- 620 big divorce moment, Dean's heartbroken eyes about his betrayal; 619 witness Dean with Lisa and leave: want Dean happy
+- ~~620 big divorce moment, Dean's heartbroken eyes about his betrayal; 619 witness Dean with Lisa and leave: want Dean happy~~
 - show how broken he was, how sorry he was, how deep he believe Dean wouldn't forgive him or want him back again, want to be left behind again, need to fix it too
 
-Cas let Dean use his grace to fix the vessel (Dean: "so this is how it feels like"), all the memories from Cas's POVs, for Dean to help piece him back (this is also the piece back/fix process, though neither knows)
+Cas let Dean use his grace to fix the vessel, all the memories from Cas's POVs, for Dean to help piece him back (this is also the piece back/fix process, though neither knows)
 
-use half Dean's soul+half Cas's grace to fix the tear, so Dean won't die & Cas's won't be gone/fall (or sacrifice a Meg? or use love to solve it? or Dean actually die once, but Cas resurrect him just quickly enough?) (mass-energy equivalence, the law of physics solves itself? feel fitting) (E=mc^2 + power of soul/grace (a bit soul/grace dance, chain reaction), actually power of love)
+How to fix the tear: mass-energy equivalence, the law of physics solves itself; grace/soul channel together, amplifying/catalyzing the mass-energy conversion, E=mc^2, when the giant body shrinks, the missing matters turn to energy, turn to chain reaction, energies fix the tear
+
+(but the energy isn't infinite, so actually it's power of love)
 
 Cas leaves Dean's body, own body remains lifeless for a bit, Dean worries, then Cas back. Reunion, hug, "Welcome back.", then solve the tear problem
 
-danger: Soon, the Earth will draw the Moon and itself off the orbit, then affect solar activity so much that the whole solar system will collapse after, we don't have long. Seven minutes, to be exact.
-
 *"Death is an infinite vessel, so is love."* (Cas knows, but he doesn't believe it's true so doesn't think it's possible) (hinted requited love both ways but don't need to write it out)
+
+~~use half Dean's soul+half Cas's grace to fix the tear, so Dean won't die & Cas's won't be gone/fall (or sacrifice a Meg? or use love to solve it? or Dean actually die once, but Cas resurrect him just quickly enough?) (mass-energy equivalence, the law of physics solves itself? feel fitting) (E=mc^2 + power of soul/grace (a bit soul/grace dance, chain reaction), actually power of love)~~
 
 ###### End
