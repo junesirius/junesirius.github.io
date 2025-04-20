@@ -2735,4 +2735,33 @@ what if downing the whole bottle is too much for him, he downs the whole bottle 
 
 (too serious stuff, probably would never write this)
 
-### 275.
+### 275.【Cas】S07E01 what if God!Cas brainwash angels against him
+
+instead of kill humans he don't like and angels against him, what if Cas brainwashes them, make them memory loss, humans become good (remove the bad/corruptive thoughts), angels obedient to him
+
+he ends up making them loyal to *him*, not to *God*
+
+so when he's not God, they still follow him, Castiel's fan group, kinda annoys him, still make him guilty, but so much easier than knowing he killed all of them
+
+### 276.【Jack】what if God!Jack turn bad
+
+"Power corrupts, absolute power corrupts absolutely."
+
+we're glad Jack is good for now so we're okay with him becoming God, but that's still a lot and absolute power, and given time, with that much power, he might potentially still turn bad
+
+what if by that time Dean/Sam already in heaven, Cas as angel is assisting God!Jack and notice things are off, he has enough morality to notice some decisions are turning grey (even if Jack says he's gonna be hand off, gradually slightly he'd still be involved, so there always will be some decisions need made, always some chance to be grey/black)
+
+Cas goes to Dean/Sam in heaven about the issue, but this time not like Chuck, they can't kill Jack, he's their son still, no matter what, they need to find a way
+
+there should be a way to build the system without god, or make a balance
+
+### 277.【Jack/Jesse】S05E06 anti-Christ keeps balance with God
+
+demon's son & devil's son, Jack finds Jesse in Australia, bring him back to his family, the two become besties, hang out together, enjoy the life
+
+whenever one goes bad, the other keep balance, they're the only one powerful enough for the other
+
+what if both of them come up with a bad boy joke (just like all teen boys) and go for it, make a terrible mistake, the parents (TFW) get pissed, save the world together again
+
+### 278.
+
