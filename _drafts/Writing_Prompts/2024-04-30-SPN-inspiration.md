@@ -2721,5 +2721,18 @@ imagine drinking angel blood has similar affect, gives Dean angel power, easy to
 
 parallel to Sam&Ruby, Dean has Cas to ease the addiction, Cas wants to help him control the addiction, but Dean can't help himself, Cas doesn't have the heart to force him quit
 
-### 274.
+### 274.【destiel】S05E17 accidental OD on pain killer
 
+> Cas: How many should I take?
+>
+> Dean: You? You should probably just down the whole bottle.
+
+but even angel has a drug tolerance, or maybe just sensitive to specific chemical that happen to be in pain killer
+
+Cas can be affected by alcohol when he takes in too much, means drugs like pain killer can actually get to him too
+
+what if downing the whole bottle is too much for him, he downs the whole bottle and serious drug consequence comes immediately after, Dean freak out, Cas dying (again)
+
+(too serious stuff, probably would never write this)
+
+### 275.
