@@ -1140,11 +1140,11 @@ The theoretical explanations that Dean cuts off but Cas would have explained, if
 
 **Refraction**: Think of when you poke a finger into a glass of water and look from the side, the finger looks bended and twisted. It's caused by the different materials being different medium for the light, and they have different speeds of light, thus different wavelengths. It's the same when the angel's true form wavelength passes through the boundary between two dimensions: each dimension is a different media, with unique property and speed for wave to pass. The wavelength gets changed and twisted, that's why Cas's figure becomes stretched and enlarged to a deformed shape.
 
-**Diffraction**: The quantum mechanics effect that if a microcosmic particle passes through a slit that as in the similar order of magnitudes with the particle size, the particle would diffract into uncertain location (*Uncertainty Principle*) with a mathematical distribution of likelihood where it may end up to. The smaller the slit, the larger range it could potentially end up with. The tear in the space is of similar size of Cas considering the wavelength, so Cas suffers from the Diffraction Effect, that's why he could potentially end up anywhere with no control of where he would land, only with a statistical likelihood to estimate.
+**Diffraction**: The quantum mechanics effect that if a microcosmic particle passes through a slit that is in the similar order of magnitudes with the particle size, the particle would diffract into uncertain location (*Uncertainty Principle*) with a mathematical distribution of likelihood where it may end up to. The smaller the slit, the larger range it could potentially end up with. The tear in the space is of similar size of Cas in the form of wavelength, so Cas suffers from the Diffraction Effect, that's why he could potentially end up anywhere with no control of where he would land, only with a statistical likelihood to estimate.
 
-**Infinity Mirror Effect**: If an item is positioned in between two perfectly aligned parallel mirrors, then there will be infinite reflections of the same item inside the mirrors. This is to explain why in the first two chapters, the cases are the strongest snow storm ever and the infinite number of vultures. The items that end up in between the dimension and get infinitely reflected are the most normal, natural things -- one snow flake, and one harmless vulture. But duplicate them by infinity (each of them identical), it would definitely become a disaster. For the story's purpose, also twisted them a little to make them extremely deadly.
+**Infinity Mirror Effect**: If an item is positioned in between two perfectly aligned parallel mirrors, then there will be infinite reflections of the same item inside the mirrors. This is to explain the phenomenon they witness when a tear is opened to the dimension in between, explains why the cases are the strongest snow storm ever, the infinite number of vultures, and the craziest aurora borealis. The items that end up in between the dimension and get infinitely reflected are the most normal, natural things -- one snow flake, one harmless bird, one plasma particle. But duplicate them by infinity (each of them identical), it would definitely become a disaster. For the story's purpose, also twisted them a little to make them extremely deadly.
 
-**Wave-Matter Duality**: Angel's true form is a type of wavelength, the human vessel is a physical matter, therefore according to classical physics, there can be some contradiction sometimes. But according to quantum physics, there is Wave-Matter Duality to unify them: every matter is a wave, only differs in the length of the wave and frequency of the matter. Therefore in a sense, the human body is also a wave with limited wavelength, that explains why angel can reside into the body and occupies and moves around in it. Also explains why Jimmy said having an angel inside is like flying with a comet -- the short wavelength of human matter has a difficult time catching up with long wavelength angels.
+**Wave-Matter Duality**: Angel's true form is a type of wave, the human vessel is a physical matter, therefore according to classical physics, they are fundamentally different forms and no way to find a grand unification to integrate them well. But according to quantum physics, there is Wave-Matter Duality to unify them: every matter is a wave, only differs in the length of the wave and frequency of the matter. Therefore in a sense, the human body is also a wave with limited wavelength, that explains why angel can reside into the body and occupies and moves around in it. Also explains why Jimmy said having an angel inside is like flying with a comet -- the short wavelength of human matter has a difficult time catching up with long wavelength angels.
 
 And if we do the reverse calculation, it would mean angel's size as a physical matter would be extremely small according to the long wavelength. That is why angel has to possess human to walk the Earth, otherwise they would simply be too small to be seen.
 
@@ -1152,21 +1152,23 @@ Taking all that into consideration, it means when Cas said his true form size is
 
 Using *de Broglie's equation*, to have this wavelength, it would mean a proton moving at a $10^{-9}$ m/s or an electron moving at $10^{-6}$ m/s. So if Cas doesn't occupy a body and manifest as a physical existence on the Earth, he would have to be extremely small or extremely slow. Angel or not, he's bounded by the rule of physics.
 
-**Mass-Energy Equation**: According to the Einstein's equation $E=mc^2$, the mass can be converted to energy, with multiplied speed of light. So the process of shrinking the giant body the size of Chrysler Tower to a normal human form, would produce approximately () amount of energy, equivalent to (). Let's just say this much energy is enough to fix a hole in the dimension.
+**Mass-Energy Equivalence**: According to the famous Einstein's equation $E=mc^2$, the mass can be converted to energy in equivalence, with multiplied vacuum speed of light. So the process of shrinking Cas's spliced giant body from the size of Chrysler Building to Jimmy Novak's height, considering the height ratio creating increased mass proportionally in three dimensions, would eventually produce approximately $3.85*10^{25}$ Joules of energy, which is about 600 millions times more powerful than the Tsar Bomba, the most powerful nuclear bomb ever detonated. We wouldn't want to have him anywhere near downtown area, so it's glad all the occurrences of the cases are all quite remote, and Alaska is so very ideal, second only to totally desolated deserts. Let's just say this much energy is enough to feed a hole and patch a tear in the dimension.
 
-**The dimension in between**: The "dimension in between" is not any dimension, not a higher or lower dimension, not fifth dimension or tenth dimension. It's a concept where other dimensions are flattened, including the time and space dimension. It's like two and a half dimension, or three and a half, or all the other in-between dimensions put together.
+**The dimension in between**: The "dimension in between" is not any *single* dimension, not a higher or lower dimension, not fifth dimension or tenth dimension. It's a concept where other dimensions are flattened, including the time and space dimension. It's like two and a half dimension, or three and a half, or all the other in-between dimensions put together.
 
-In there, all the world in all the time and all the space would be equivalent, as if they are all happening in the same time same place. That is why when Cas was in there, when he notices the lights conjured from Dean's yearnings, he would wonder when and where that is. Because they can be from any time, any where, Cas wouldn't be able to tell the difference. He may tear one hole to find a 26-year-old Dean, another to 40-year-old Dean. That is also why it is very real fear that Dean worries "what if the next time you show up it's 20 years later, then 50 years after".
+In there, all the world in all the time and all the space would be equivalent, as if they are all happening in the same time same place. That is why when Cas is in there, when he notices the lights conjured from Dean's yearnings, he would wonder when and where that is. Because they can be from any time, any where, Cas wouldn't be able to tell the difference. He may tear one hole to find a 26-year-old Dean, another to 40-year-old Dean. That is also why it is a very real fear that Dean worries "what if the next time you show up it's 20 years later, then 50 years after". This can happen very easily, if not the now-Dean yearns the hardest.
 
-That is also why the infinite future can actually fill the hole and close the dimension in between: the future and the past are equivalent in there. The moment they realize this is possible, all the infinite possibilities become solid reality in there, it's like infinite versions of multiverse. No wonder that can definitely 
+That is also why the infinite future can actually fill the hole and close the dimension in between: the future and the past are equivalent in there. The moment they realize this is possible, all the infinite possibilities become solid realities in there, it's like infinite versions of multiverse. No wonder they can definitely fill any gap, any tear, any hole, any where. It's just another day that love saves the world.
 
 <br>
 
 Enjoy Cas's little physics class yet?
 
+That class could use a curriculum textbook titled something like *"Theoretical Physics in Magic and Fantasy World"*.
+
 <hr>
 
-Cas: You have no idea what I'm talking about from the first sentence, don't you?
+Cas: You have no idea what I'm talking about since the first sentence, don't you?
 
 Dean: No, but I love it when you talk abstruse, it turns me on. So, don't stop.
 
@@ -2130,7 +2132,7 @@ That is when a great surge of grace dash out of Dean right near his heart, brush
 
 *I don't know.* Cas is deeply worried, making a mental move as if he's about to leave Dean's body.
 
-*Hell no, you don't jump the car when it's racing out of control.* Dean keeps his hold on Cas steady, mentally and physically. *You buckle up for hell of a roller coaster trip, alright? We sail through the storm, together.* Dean huffs, pressing his hands on the body harder. By the ways the light and power and electricity pouring out, he knows as a fact, whatever is coming, he would need a steady hold to not fall. Especially when there is someone else on the passenger seat.
+*Hell no, you don't jump the car when it's racing out of control.* Dean keeps his hold on Cas steady, mentally and physically. *You buckle up for hell of a roller coaster trip, you hear me? We sail through the storm, together.* Dean huffs, pressing his hands on the body harder. By the ways the light and power and electricity pouring out, he knows as a fact, whatever is coming, he would need a steady hold to not fall. Especially when there is someone else on the passenger seat.
 
 <br>
 
@@ -2254,7 +2256,7 @@ Dean pushes down the bubbling sense of emptiness, forcing the attention onto the
 
 The new swarm of light has all flowed inside the body, Dean assumes that means Cas with all his existence has moved into the new home now. He reaches back for Cas's hand, waiting for a twitch in the fingers or a blink of eyes, anything.
 
-Dean holds his breath waiting, until his body protests. He resumes the breath, but Cas's body still doesn't show any sign of life. No chest rising falling, no breath, no heartbeat, no pulse.
+Dean holds his breath waiting, until his body protests. He resumes the breath, sharp and uneven, Cas's body still doesn't show any sign of life. No chest rising falling, no breath, no heartbeat, no pulse.
 
 *You miss the timing, you're stuck with a corpse.* That was what Meg has warned him.
 
@@ -2262,11 +2264,11 @@ Dean holds his breath waiting, until his body protests. He resumes the breath, b
 
 He doesn't hear Cas's answer, only the louder and louder sound of electricity blending together from all directions, like biggest thunders the world has ever seen.
 
-After Cas leaves, the view and all senses return to the human level, dumbed and limited, but he has pretty good guesses of what's happening. The sky is boiling with colors, all the red and purple and green dancing relentlessly, merging and separating, forming shapes beyond imagination. The whole sky looks like it's going to tear open and pour down, just to making more space to host more of the colors and lights. The plasmas must be reaching some extreme threshold now. His heart drops to the bottom, to the abyss.
+After Cas leaves, the view and all senses return to the human level, dumbed and limited, but he has pretty good guesses of what's happening. The sky is boiling with colors, all the red and purple and green dancing relentlessly, merging and separating, forming shapes beyond imagination. The whole sky looks like it's going to tear open an entrance to the universe and pour everything down through the hole, just to make more space to host more of the colors and lights. The plasmas must be reaching some extreme threshold now. His heart drops to the lowest abyss.
 
 "Can't believe it's still gonna end like this." Dean murmurs bitterly, letting go of Cas's hand, fumbling on the ground for the demon blade he dropped earlier, turning to face the tear of the space.
 
-*Right when he thinks he can have what he wanted, everything is gonna end again. Classic.* Dean almost laughs, at his own naiveness that things will just be fine, at the joke the world and fate throws on him.
+*Right when he thought he could have what he wanted for once, everything is gonna go to wreck again. Classic.* Dean almost laughs, at his own naiveness that things will just be fine, at the joke the world and fate throws on him.
 
 "Here goes nothing." Dean grits his teeth, aiming the tip of the blade at his heart, closing his eyes. "*Death is an infinite vessel.*"
 
@@ -2278,11 +2280,11 @@ Dean snaps open his eyes. There he is. Cas. Beautiful, glaring, bright, furious.
 
 "Oh that," Dean pulls back from the hug, rubbing his nose, looking like a child caught stealing from piggy bank.
 
-"Yes, that! Thought we're over this self-sacrifice to save the world routine." Cas snaps.
+"Yes, that! Thought we're over this self-sacrifice-to-save-the-world routine." Cas snaps.
 
 "You have a better idea fixing that? 'Cause I don't really want to condemn the world again." Dean challenges.
 
-"Actually, I do, I just didn't think it's something I could use until very recently."
+"Actually, I do, I just didn't think it's something I could have until very recently."
 
 Dean raises eyebrows waiting for an elaboration.
 
@@ -2290,7 +2292,7 @@ Cas glances at the lights that are still hanging around on the ground, giant-bod
 
 "It needs energy to fuel the patch, then needs something infinite to actually close it." Cas starts, Dean nods, half understanding, half encouraging in anticipation.
 
-"Angel grace is a lot of energy as a good starting point," he pauses, and levels Dean a look. "And I supplied it with millions of years of knowledge and memory I had for the last two times. It's not infinite, but with all the things I saw and I knew, all the history of universe, all the people I witnessed and memorized, all the emotions I felt. Everything in my brain, it was enough to keep the tears closed for long enough until you're safe. That was my initial plan for this time too."
+"Angel grace is a lot of energy as a good starting point," he pauses, and levels Dean a look. "And I supplied it with millions of years of knowledge and memory I had for the last two times. It's not infinite, but with all the things I saw and I knew, all the history of universe from the beginning of the time, all the people I witnessed and memorized, all the emotions I felt. Everything in my brain, it was enough to keep the tears closed for long enough until you're safe. That was my initial plan for this time too."
 
 Dean makes a gesture as if he's going to argue, but Cas presses his hand down, just continues. "But now we have something better, so much better. We have the free energy," he gestures to the residue light on the ground, "the energy converted from the disappearing mass from the shrinking body, the beautiful physics rule of Mass-Energy Conversion. I have to admit even I forgot to take it into account."
 
@@ -2304,7 +2306,7 @@ He looks at Cas, almost expecting he picks up his thought already. Then he remem
 
 Cas smiles. "Yes, it is indeed very poe..."
 
-Dean doesn't let him finish, already pulling him in to close the very small remaining distance, and presses his lips on the opened ones of Castiel's.
+Dean doesn't let him finish, he can't wait anymore, already pulling him in to close the very small remaining distance, and presses his lips on the opened ones of Castiel's.
 
 He feels the dry and chapped lips, the warm and soft sensation, Cas's hands in his hair, his in Cas's. The sensations he misses when they were both in his head. Guess brain just can't imagine everything, and this, this is so much better.
 
@@ -2312,9 +2314,9 @@ And he can't wait to see the infinite possibilities of the future, like Cas says
 
 Cas grunts a groan under his lips, complaining about his distraction. Dean makes a chuckling sound in his throat, putting his full attention back to Cas, ignoring the world now.
 
-Cas's body is warm and solid in his touch, his tongue soft and gentle, his dark hairs intertwined with his fingers, reminding Dean of the time when his fingers were winded up with Cas's astonishingly beautiful starry-black wings and feathers. He tastes the clean earthy taste in Cas's mouth, reminded of the wet fresh air after a hot summer afternoon downpour. He hears his heartbeat, his small moaning sound. Dean uses all his senses to feel Cas, wondering if he still can share Cas's angelic senses, if he would feel him differently, if Cas feels him differently.
+Cas's body is warm and solid in his touch, his tongue soft and gentle, his dark hairs intertwined with his fingers, reminding Dean of the time when his fingers were winded up with Cas's astonishingly beautiful starry-black wings and feathers. He tastes the clean earthy taste in Cas's mouth, reminded of the wet fresh air after a hot summer afternoon downpour. He feels the vibration from his heartbeat through the skin, he hears his small moaning sound in the throat. Dean uses all his senses to feel Cas, wondering if he would feel him differently if he could have angelic senses just for a minute for this, if Cas feels him differently.
 
-The world is forgotten at moments like this, all Dean can think of is Cas, and their future. And Cas, by the calm happy look on his face, the eyelashes quivering like butterfly's wings, is the same.
+The world is forgotten at moments like this, all Dean can think of is Cas, and those infinite literally world-saving earth-turning futures ahead of them. And Cas, by the calm happy look on his face, the eyelashes quivering like butterfly's wings, is thinking the same.
 
 The kiss is not broken until way after the world falls silent.
 
@@ -2328,7 +2330,7 @@ Dean pants a little, leaning his forehead on Cas's, tilting his head slightly to
 
 There is no sound of electricity, no charged air, no prickling feeling on the skin. Just the wind, the leaves, the normal natural sound.
 
-They look up at the sky. The aurora borealis is still displaying on the canopy, but it's also returning to what it used to be. Quiet colors of red and green taking turns, moving as the blowing wind moves the air. The view is still breath-taking, but no longer earth-shakenly worrying.
+They look up at the sky. The aurora borealis is still displaying on the canopy, but it's returning to what it used to be, what it should be. Quiet colors of red and green taking turns, moving as the blowing wind moves the air. The view is still breath-taking, but no longer earth-shakenly disturbing.
 
 "Think that means the world is not gonna end any time soon?" Dean beams.
 
@@ -2336,7 +2338,7 @@ Cas nods, happy.
 
 They go back for another peck of kiss, then head toward the impala.
 
-The Earth resumes the normal spinning, and the infinite future, just start growing from here.
+The world moves on, and the infinite future, just start growing from here.
 
 <br><br>
 
