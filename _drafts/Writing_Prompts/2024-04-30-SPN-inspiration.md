@@ -2775,5 +2775,27 @@ Dean/TFW also tries their best to turn Michael, make him less of a dick (the dec
 
 Even better, if Lucifer experience the similar curve, Luci corrupts because of Cain's Mark, so if it's fixable, he gets better/fixed. Or better, he doesn't get better, but they still accept him again. Michael takes him back in. Luci actually kinda likes humanity stuff too, even if he doesn't admit (proof with Jack his son, he can care, even if in the beginning just pretend to be)
 
-### 279.
+### 279.【destiel】《You shouldn't kiss me like this》（Lyrics）
+
+(by Toby Keith)
+
+You shouldn't kiss me like this, unless you mean it like that
+
+'Cause I'll just close my eyes and I won't know where I'm at
+
+We'll get lost on this dance floor, spinnin' around
+
+And around and around and around
+
+
+
+They're all watching us now, they think we're fallin' in love
+
+They'd never believe we're just friends
+
+When you kiss me like this, I think you mean it like that
+
+If you do, baby, kiss me again
+
+### 280.
 
