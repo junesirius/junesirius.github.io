@@ -114,6 +114,8 @@ Chapter titles "In your eyes" "Inside my minds": "your" and "my" mean both of th
 
 Chap. 6 the shrinking body, the lost mass becomes energy, that's the mass-energy equivalence
 
+Chap. 6 the infinite past and future possibilities: inspired by DW the long song episode
+
 ### Dean's mental state
 
 ≈S08E01-07
@@ -1150,6 +1152,14 @@ Taking all that into consideration, it means when Cas said his true form size is
 
 Using *de Broglie's equation*, to have this wavelength, it would mean a proton moving at a $10^{-9}$ m/s or an electron moving at $10^{-6}$ m/s. So if Cas doesn't occupy a body and manifest as a physical existence on the Earth, he would have to be extremely small or extremely slow. Angel or not, he's bounded by the rule of physics.
 
+**Mass-Energy Equation**: According to the Einstein's equation $E=mc^2$, the mass can be converted to energy, with multiplied speed of light. So the process of shrinking the giant body the size of Chrysler Tower to a normal human form, would produce approximately () amount of energy, equivalent to (). Let's just say this much energy is enough to fix a hole in the dimension.
+
+**The dimension in between**: The "dimension in between" is not any dimension, not a higher or lower dimension, not fifth dimension or tenth dimension. It's a concept where other dimensions are flattened, including the time and space dimension. It's like two and a half dimension, or three and a half, or all the other in-between dimensions put together.
+
+In there, all the world in all the time and all the space would be equivalent, as if they are all happening in the same time same place. That is why when Cas was in there, when he notices the lights conjured from Dean's yearnings, he would wonder when and where that is. Because they can be from any time, any where, Cas wouldn't be able to tell the difference. He may tear one hole to find a 26-year-old Dean, another to 40-year-old Dean. That is also why it is very real fear that Dean worries "what if the next time you show up it's 20 years later, then 50 years after".
+
+That is also why the infinite future can actually fill the hole and close the dimension in between: the future and the past are equivalent in there. The moment they realize this is possible, all the infinite possibilities become solid reality in there, it's like infinite versions of multiverse. No wonder that can definitely 
+
 <br>
 
 Enjoy Cas's little physics class yet?
@@ -1162,7 +1172,7 @@ Dean: No, but I love it when you talk abstruse, it turns me on. So, don't stop.
 
 Instead of another lecture, he gets a kiss instead.
 
-But that is all long, long time after.
+Or actually, more than just that.
 
 <br>
 
@@ -1882,7 +1892,7 @@ Dean presses his own palm on the edge of this giant palm of Cas's body, it feels
 
 Cas is not physical, not really. Cas does not come from this dimension, but he chooses here, he comes here. He resides in a body, and he walks the Earth. And now, he is inside Dean. He drops the grand form, and he curls up the whole multidimensional wavelength in that small corner of Dean's brain. And he doesn't complain about claustrophobia. He stands there, and he says, "Dean." As if all that he wants to say can be condensed into one word. As if this place, of all, it's the only place he'd rather be.
 
-For the first time, Dean thinks, maybe this is for the first time, he finally starts to have a glimpse of understanding what it means to be an angel. A real angel in all their forms, from their views. Not just the vessel, not just a piece. Not just, a fragment of trench coat, a thread of tie fabric, a flying feather, a floating eye, or a silvery slice of the ring -- the pieces he saw in the dimension in between, the pieces giving him nightmares nights after nights. Oddly, Dean finds himself feeling a tiny little bit of appreciation for what that dimension shows him. As many nightmares as it gives him, he finally gets to understand, Cas is magnificent and giant and beautiful, beyond his imagination. For the first time, for real.
+For the first time, Dean thinks, maybe this is for the first time, he finally starts to have a glimpse of understanding what it means to be an angel. A real angel in all their forms, from their views. Not just the vessel, not just a thread of light, not just a part of a whole. Not just, a fragment of trench coat, a thread of tie fabric, a flying feather, a floating eye, or a silvery slice of the ring -- the pieces he saw in the dimension in between, the pieces giving him nightmares nights after nights. Oddly, Dean finds himself feeling a tiny little bit of appreciation for what that dimension shows him. As many nightmares as it gives him, he finally gets to understand, Cas is magnificent and giant and beautiful, beyond his imagination. For the first time, for real.
 
 Dean clenches his fingers, putting his weight on the hands, holding himself there. At that minute, he wants nothing more than to really hold that hand, hold Cas. So he turns back to inside his head.
 
@@ -1926,13 +1936,13 @@ They stare at each other, nose to nose, inches away, falling into sudden silence
 
 For both of them, one of their hands is clenched into fist in exhaustion, the other... Dean realizes in sudden fascination that he's still holding Cas's hand. And Cas seems to realize at the same moment. He makes a small attempt to pull the hand back, but Dean doesn't let him. So Cas gives up trying.
 
-Dean has the vague gut feeling as if the moment he lets the hand slip, Cas will be gone again. Just like the millions of times of the memory replay and nightmare haunting, the moment the palm slip and the weight lightens, Castiel would disappear. It happened in Purgatory, and it feel like it had happened and would happen for so many more times. Dean just can't take more.
+Dean has the vague gut feeling as if the moment he lets the hand slip, Cas will be gone again. Just like the millions of times of the memory replay and nightmare haunting, the moment the palms slip and the weight lightens, Castiel would disappear. It happened in Purgatory, and it feel like it had happened and would happen for so many more times. Dean just can't take more.
 
 His voice hoarse. Cas decidedly keeps his eyes on their hands now, not meeting his eyes.
 
 Dean asks him, gentle, this time, "I only ask this one thing, then, just this one time. But I want you absolutely honest with me, alright, Cas? If you say no, then I'll stop arguing."
 
-He pauses there for a moment, and Cas nods. His eyes drop even lower than where they focus on to. As if the bottom of the sea suddenly sinks, even lower than Mariana Trench, and the color of all the oceans deepens so many degrees that it shows in Castiel's eyes.
+He pauses there for a moment, and Cas nods. His eyes drop even lower than where they focused on to. As if the bottom of the sea suddenly sinks, even lower than Mariana Trench, and the color of all the oceans deepens so many degrees that it shows in Castiel's eyes.
 
 And Dean asks him: "Do you *want* to come back? To Earth?" He hesitates for a second, then adds, quieter. "To me?"
 
@@ -2038,7 +2048,7 @@ Instead, Dean finds his body kneel down to the floor, reaching for a page -- not
 
 His finger turns the page over. On the back side, there is a different section about some other knowledge of cats, and it starts talking about "*Felines, especially domestic cats, are well known for having penile spines, which is needed to stimulate the female cat into ovulation...*"
 
-He hears a low sigh in his throat, fingers touching the word "female cat" and his voice saying "*I know for a fact the females were not consulted about that.*" The vision shifts between the library and hospital briefly as the voice comes through, like the owner of the voice is talking to someone in the different place. The view from the hospital is more like a translucent ripple overlay, but Dean sees a glimpse of himself and Sam standing, face worried and annoyed.
+He hears a low sigh in his throat, fingers touching the word "female cat" and his voice saying "*I know for a fact the females were not consulted about that.*" The vision shifts between the library and hospital briefly as the voice comes through, like the owner of the voice is talking to someone in the different place. The view from the hospital is more like a translucent ripple overlay, but Dean catches a glimpse of himself and Sam standing, face worried and annoyed.
 
 The view focuses back to the library. His body stands up, and puts the page inside one of the books on the shelf to the right of him. The cover says "*Anatomy of the Cat*", and it's about half the thickness as the book is supposed to be, according to the spine width, all the pages loosen. And with a glance, Dean realizes all the other books on the shelves are all in a similar condition -- worn, torn, pages loosen, but Cas is putting them back in.
 
@@ -2080,11 +2090,11 @@ But Cas is still saying, "I'm sorry..." As if his mind is back on that old self,
 
 And he is steered back into that warm bright sunshine and lazy afternoon that they never had. Cas slumps in the corner of the sofa where the sunshine can't reach, curling small, arms tight around knees, as if trying to hold himself together the best he can. As if he really is still broken. His eyes unfocused, his lips murmur over and over again, "I'm sorry."
 
-Dean puts a hand on his shoulder. Cas is startled. The loop is broken. His lips are still moving, but no sound comes out. His eyes fragile.
+Dean puts a hand on his shoulder. Cas is startled. The loop is broken. His lips are still trembling, but no sound comes out. His eyes fragile.
 
 Dean lowers himself in front of the sofa, edging to his side, wrapping the arm around him in a gesture to pull the angel toward him. His eyes level with Cas's.
 
-"Listen to me," he starts, then pauses, his mind wandering back to Cas's library. The grand, beautiful hall, the ancient shelves, the countless books. What would it look like when Cas is not broken? When everything is ancient and elegant? Must be breath-taking. Must be as spectacular and beautiful as everything that Cas is. Dean tells him, firmly, "You're forgiven, Cas." And, "You're not broken. Even if you are, I can help fix, I'm good at it. Don't worry. We'll figure it out."
+"Listen to me," he starts, then pauses, his mind wandering back to Cas's library. The grand, beautiful hall, the ancient shelves, the countless books. All the knowledge and memory he had, all the millions of years he lived through. What would it look like when Cas is not broken? When everything is ancient and elegant? Must be breath-taking. Must be as spectacular and beautiful as everything that Cas is. Dean tells him, firmly, "You're forgiven, Cas." And, "You're not broken. Even if you are, I can help fix, I'm good at it. Don't worry. We'll figure it out."
 
 Cas's ocean-blue eyes focuses on Dean's. The look of broken and pieces is still lingering in that deep blue ocean water, like shattered glasses floating on the wave. But he nods, small.
 
@@ -2092,7 +2102,7 @@ There is still so much glistening in those eyes, so much pain and guilt and regr
 
 He leans into the arms wrapped around him, returning the hold.
 
-Dean grips him tight, hands caressing his backs gently in a soothing mode. Like those huge wings once did.
+Dean grips him tight, hands caressing his backs gently in a soothing move. Like those huge wings once did.
 
 <br>
 
@@ -2104,7 +2114,7 @@ In the outside world, more lights and grace flow through his palms, layering ont
 
 There probably shouldn't have been that much lights. Dean thinks, eyes following the wave of lights, wondering how the physics of the grace works, and decides, if that triggers another physics lecture with all the terminologies from Cas, he'll have to skip the class.
 
-But really, the grace is pouring out from him and into Cas's body, not just channeling from the center of the palm, it expands to his whole hand, then whole arm, then, without needing to look down on himself, Dean knows his whole body is lightened up by the grace, and the light of the grace is continuing flowing out unstoppingly.
+But really, the grace is pouring out from him and into Cas's body, not just channeling from the center of the palm, it expands to his whole hand, then whole arm, then, without needing to look down on himself, Dean knows his whole body is lightened up by the grace, and the light of the grace is continuing flowing out non-stoppingly.
 
 Should he start worrying? Dean feels a pull of panic start accumulating at the bottom of his gut again. Will it eventually drain Cas's grace? But really, is all the light coming from Cas's grace? The brightness and the way they flow around, swirling and thickening, it almost looks like the lights are regenerating, multiplying, growing on themselves like nuclear reaction.
 
@@ -2112,11 +2122,15 @@ Now that he thinks about it, that theory seems increasingly plausible. "Cas, am 
 
 "I don't think so," Cas answers, but the voice doesn't sound convincing. "I hope not."
 
-That is when a great surge of grace dash out of Dean right near his heart, brushing hard on some core essence of his internal. The warmth from the grace skyrockets to a near burning sensation, making Dean let out an uncontrollable yell that is bouldering pain. Not exactly unpleasant, more surprised. *The Hell is that? Feel like my soul just get touched or something.*
+That is when a great surge of grace dash out of Dean right near his heart, brushing hard on some core essence of his internal. The warmth from the grace skyrockets to a near burning sensation. Dean let out an uncontrollable yell that is bouldering pain. Though not exactly unpleasant, more surprised. *The Hell is that? Feel like my soul just get touched or something.*
 
-*Yes. Sorry.* Cas's thought comes through as soon as Dean's own thought forms. *I'm afraid it might indeed be a chain reaction. I'm so sorry, I didn't know, I would never...*
+*Yes. Sorry.* Cas's thought comes through as soon as Dean's own thought forms. *I'm afraid it might indeed be a chain reaction, somehow your soul is outputting energy along with my grace. I'm so sorry, I didn't know it's possible, I would never harm you...*
 
-*I know, Cas. So now just, buckle up for hell of a roller coaster trip, huh?* Dean huffs, pressing his hands on the body harder. By the ways the light and power and electricity pouring out, he knows as a fact, whatever is coming, he would need a steady hold to not fall. Especially when there is someone else on the passenger seat.
+*I know, Cas. How do we stop a nuclear explosion?*
+
+*I don't know.* Cas is deeply worried, making a mental move as if he's about to leave Dean's body.
+
+*Hell no, you don't jump the car when it's racing out of control.* Dean keeps his hold on Cas steady, mentally and physically. *You buckle up for hell of a roller coaster trip, alright? We sail through the storm, together.* Dean huffs, pressing his hands on the body harder. By the ways the light and power and electricity pouring out, he knows as a fact, whatever is coming, he would need a steady hold to not fall. Especially when there is someone else on the passenger seat.
 
 <br>
 
@@ -2124,7 +2138,7 @@ The view ripples and shakes so violently that Dean loses sense of the reality se
 
 He sees grey sky and ominous shades of trees swaying, monsters eying covetously. Dean sees his own back, from Cas's view, holding the bone blade, slashing the attacking leviathans and all other monsters. Cas dodges and ducks and strikes back too, for the ones that jump him, but all the while, Dean notices, his own figure is always, always remain in the view. Every time he's slightly overwhelmed, Cas comes to his side.
 
-He thinks back to his own experience, and the view shifts along with his train of thought. He's killing the monsters, fierce and ruthless. He glares at the ones that are coming to him, and he watches out for the ones coming to Cas. He glances at Cas's hand that usually would hold an angel blade but not this time, he itches to hand the angel his blade. Instead, he jumps in front of him, blocking the hideous looks those surrounding leviathans throw at him. He kills them before they can reach within an arm's distance to Cas.
+He thinks back to his own experience, and the view shifts along with his train of thought. He's killing the monsters, fierce and ruthless. He glares at the ones that are coming to him, and he watches out for the ones coming to Cas. He glances at Cas's hand that usually would hold an angel blade but empty this time, he itches to hand him his blade. Instead, he throws himself in front of Cas, blocking the hideous looks those surrounding leviathans shoot at him. He kills them before they can reach within an arm's distance to Cas.
 
 *Oh.* Dean hears Cas's quiet voice murmur at the view from the back of the head, knowing he's watching the same scene replayed from the different angle for the first time.
 
@@ -2132,11 +2146,11 @@ He thinks back to his own experience, and the view shifts along with his train o
 
 *It is truly great teamwork.* Cas agrees.
 
-Then the swirly blue-white portal comes into the sight. At first glimpse Dean isn't sure whose memory it is, then he knows it's Cas's, because the steps become more unstable and shaky than he remembers for himself. The portal gets closer by each step, but Cas's steps are slower and more sluggish by each step, but it's not from exhaustion. His own voice sounds from the memory, yelling over the monsters' growling and wind: "Come on, Cas, come on!" He sees his own eyes glancing back, checking on Cas, worried but hopeful, at least the way out is right in front of them now. Then there is Cas's thought replaying from the memory, *I should be left behind. I don't deserve to be saved.*
+Then the swirly blue-white portal comes into the sight. At first glimpse Dean isn't sure whose memory it is, then he knows it's Cas's, because the steps become more unstable and shaky than he remembers for himself. The portal gets closer by each step, Cas's steps are slower and more sluggish by each step, but it's not from exhaustion. His own voice sounds up from the memory, yelling over the monsters' growling and wind: "Come on, Cas, come on!" He sees his own eyes glancing back, checking on Cas, worried but hopeful, at least the way out is right in front of them now. Then there is Cas's thought replaying from the memory, *I should be left behind. I don't deserve to be saved.*
 
 Dean blurts out at that, "You sound just like me when we first met, you remember that?"
 
-Surprised, Cas stutters. There is a sound that is exactly like swallowing. Then, slowly, "Yes, I remember. And I can finally understand now."
+Surprised, Cas stutters. He makes a sound that is like nothing other than swallowing. Then, slowly, "Yes, I remember. And I can finally understand now."
 
 "And you remember what you said to me back then?"
 
@@ -2158,11 +2172,11 @@ The view now is composed of flashes of bloody scenes on Earth and even more horr
 
 Cas makes a terrified, sick sound at the view as if he's about to throw up.
 
-Dean remembers the basement that night, the look on Cas's face, the despise in his eyes when he said they are all but insects to him. He was about to kneel down before him, his heart thumped in so much agony he couldn't breathe. Dean wasn't resentful, no, he was mourning the Cas that was his friend, and this being with the same face was not Cas anymore, because he has said already, "Cas you know is gone." Then he remembers the blood dripping down Cas's mouth, leviathans twisting his face. The floating, bloody trench coat in the water.
+Dean remembers the basement that night, the look on Cas's face, the despise in his eyes when he said they are all but ants to him. He was about to kneel down before him, his heart thumped in so much agony he couldn't breathe. Dean wasn't resentful, no, he was mourning the Cas that was his friend was gone, and this being with the same face was not Cas anymore, because he has said so already, "the Castiel you know is gone." Then he remembers the blood dripping down Cas's mouth, leviathans twisting his face. The floating, bloody trench coat in the water.
 
 The view shifts to that lakeside, and the only thing in sight, is that damp trench coat, washed up and down by the water.
 
-Everything is so hard to think, even harder to say it. But he has to tell Cas this. "Yes, even with that. Hell, who says yours is worse anyway. I jump started Apocalypse, that doesn't stop you from saving me, so yeah, no, wouldn't stop me whatsoever."
+Everything is so hard to see, to think, even harder to say it. But he has to tell Cas this. "Yes, even with that. Hell, who says yours is worse anyway. I jump started Apocalypse, that doesn't stop you from saving me, so yeah, no, wouldn't stop me whatsoever."
 
 *Even if I betrayed you and hurt Sam?* This thought comes through extremely hard, as if it is literally cutting Cas open and tearing him apart again just by thinking it, blood would drip at the edge of the thought. But it is also so obvious he never really stops thinking it, never stops beating himself up for it.
 
@@ -2172,17 +2186,17 @@ Dean stumbles on that, but swallows and steadies himself. "Just, just don't do t
 
 "I know. Cas. I know." Dean takes a long, shagged breath. "I forgave you."
 
-The flashing images from the memory slow down in the view, the broken pieces, the dazzling light, the confusing scenes in the dimension in between, the long and ugly past, the hell, the purgatory. Some are Cas's, others are Dean's, many times, they find the pieces mixed together. One by one, they pick them up, sort them out, as if cleaning the floor where all the glassware and chinaware have been shattered, and they are working together to put them back together. The edges are sharp, the broken pieces are tiny, but they work together. One by one, piece by piece, just like Cas puts the torn book pages in his memory library back onto the shelves, just like they float in the dimension in between and put the pieces of cloth fabric and feather together to make a Picasso-style form turn to a Leonardo da Vinci art.
+The flashing images from the memory slow down in the view, the broken pieces, the dazzling light, the confusing scenes of the dimension in between, the long and ugly past, the hell, the purgatory. Some are Cas's, others are Dean's, many times, they find the pieces mixed together. One by one, they pick them up, sort them out, as if cleaning the floor where all the glassware and chinaware have been shattered, and they are working together to put them back, glue them together. The edges are sharp, the broken pieces are tiny, but they work together. One by one, piece by piece, just like Cas puts the torn book pages in his memory library back onto the shelves, just like Dean's djinn dream of the dimension in between and they put the pieces of cloth fabric and feather together to make a Picasso-style form turn to a Leonardo da Vinci art.
 
 "There, you're the new Mona Lisa now. Fresh and new." After the last piece of aching memory piece flashed by and settled down, the view shifts back to the comfortable corner in Dean's head, back to Bobby's house. Dean pats fondly on Cas's shoulder, half-joking. *You're more beautiful than Mona Lisa.* His thought amends uncontrollably.
 
 Cas tilts his head to him, a small grin. "You know I can hear that too."
 
-Dean flushes slightly. "Can't stop a man from thinking the truth."
+Dean flushes slightly. "Can't blame a man thinking the truth."
 
-His arms are still wrapped around Cas, the posture unchanged since all the roller coaster started. And now, finally, it feels like they land somewhere.
+His arms are still wrapped around Cas, the posture unchanged since all the roller coaster twists and turns started. And now, finally, it feels like they land somewhere.
 
-Cas uncurls his body, turning slightly on the sofa, facing Dean. His eyes locked on Dean's, unblinking.
+Cas uncurls his body, turning slightly on the sofa, facing Dean. His eyes locked on Dean's, unblinking, watery.
 
 Dean finds his own eyes attracted like magnetic. He can see himself from Cas's eyes. The intensity makes his head dizzy, the whole surrounding disappears. He drowns in the blue, thinking, *Nothing in the world is more perfect.*
 
@@ -2198,13 +2212,7 @@ Cas pulls him in, closing the remaining distance between their lips.
 
 Dean closes his eyes, indulging himself in the feeling. His heart warm and swelling.
 
-*I need you.*
-
-*I'm here.*
-
-*I...*
-
-*I know. So do I, Dean.*
+Cas is not the only one getting pieced together here.
 
 <br>
 
@@ -2212,11 +2220,13 @@ Dean closes his eyes, indulging himself in the feeling. His heart warm and swell
 
 "Thank you for saving me." Cas says, once they finally pull apart.
 
-"Any time." Dean grins, "You can thank me when we get you back into your body."
+"Any time." Dean grins, "You can thank me when we get you back into your body. Then we can do this properly."
 
 They almost forget they're still only half-way done.
 
-"Did we settle all the pieces?" Dean checks on Cas, "Everything inside and outside? Angel and human part?"
+And the world is probably still on the edge of ending.
+
+"We settled all the pieces?" Dean checks on Cas, "Everything inside and outside, angel and human? Fixed everything?"
 
 Cas nods. "I think so."
 
@@ -2224,43 +2234,49 @@ There is still a small sound deep down somewhere humming something depressing, i
 
 They shift the attention back to the outside. Reality sinks back in.
 
-Dean checks on Cas's body immediately. The lights and flowing grace have been more dazzling than ever. The whole ground where the giant body once occupied is like a field made of light and energy. In the center of all the light, Dean is kneeling besides Cas's body, hands held. The body, made of flesh and blood, is returned to the normal human size now.
+Dean checks on Cas's body immediately. The lights and flowing grace have been more dazzling than ever. The whole ground where the giant body once occupied is like a field made of light and energy. In the center of all the light, Dean is kneeling besides Cas's body, hands held together. The body -- Cas's body, made of flesh and blood like any human -- is returned to the normal human size now.
 
-The buzzing sound of the charged air is louder than ever, the electricity in the air makes hairs stand. Any friction feels like can trigger a spark. Dean spares split of a second glancing at the tear in the space and the crazily darting aurora lights in the sky. The Earth feels like on the edge of overcharging and about to explode at any minute. Dean returns the attention back to Cas, hoping they still have at least a minute or two.
+The buzzing sound of the charged air is louder than ever, the electricity in the air makes all hairs stand. Any friction feels like able to trigger a spark. Dean spares split of a second glancing at the tear in the space and the crazily darting aurora lights in the sky. The Earth feels like on the edge of overcharging and about to explode and burn like the Sun at any minute. Dean returns the attention back to Cas, hoping they still have at least a minute or two.
 
-Dean separates their hands, lights stop pouring out from him, but still surround the body. He regards the face of the body, the closed eyes, the crumpled coat. The body looks just like an empty shell, there is no expression on that face. Not like a sleeping person, more like a house with no one inside. He shifts uneasily.
+Dean separates their hands, lights stop pouring out from him, the ones already out there still surround the body. He regards the face of the body, the closed eyes, the crumpled coat. The body looks just like an empty shell, a doll, there is no expression on that face, no similarity to a life. Nothing like a man sleeping, more like a house with no one inside. He shifts uneasily.
 
 "Want to try the first ride now?" Dean asks, trying to hide the nervousness.
 
-*Honestly, not really. I'm spoiled in here.* Cas stretches mentally, his grace already unfurling as he sends the last thought.
+*Honestly, not really. I'm spoiled in here.* Cas stretches mentally, his grace already start unfurling as he sends the last thought.
 
-"I know, buddy. That's on me." Dean can't help laughing, the worry dies down slightly.
+"I know, buddy. That's on me." Dean can't help chuckling, the worry dies down slightly.
 
-The warm sensation of Cas's grace dancing around his soul lingers just slightly longer, then Cas flies out. Dean watches the light flying out of his mouth, moving into the vessel's, already missing the company inside the head. That corner of the brain where Cas occupied, the side of the sofa where the sunshine didn't reach, that spot feels too empty now.
+He squeezed Cas's hand in the mental image one last time, and reluctantly lets his hand slip. Cas puts his palms on Dean's cheek, touching one last time, then stands up from the sofa. Then his human form turns into three spinning rings with three pairs of wings, covered by bright silvery blue lights. Dean watches the light fly up, out of his mind's eyes.
 
-Dean pushes down the bubbling sense of emptiness, forcing the attention onto the body.
+The warm sensation of Cas's grace dancing around his soul lingers just one moment longer, then Cas flies out. Dean watches the light flowing out of his mouth, moving into the vessel's, already missing the company inside the head. That corner of the brain where Cas occupied, the side of the sofa where the sunshine doesn't reach, that spot feels too empty now.
+
+Dean pushes down the bubbling sense of emptiness, forcing the attention onto the body, onto Cas.
 
 The new swarm of light has all flowed inside the body, Dean assumes that means Cas with all his existence has moved into the new home now. He reaches back for Cas's hand, waiting for a twitch in the fingers or a blink of eyes, anything.
 
-Dean holds his breath waiting, until his body protests, he resumes the breath, but Cas's body still doesn't show any sign of life.
+Dean holds his breath waiting, until his body protests. He resumes the breath, but Cas's body still doesn't show any sign of life. No chest rising falling, no breath, no heartbeat, no pulse.
+
+*You miss the timing, you're stuck with a corpse.* That was what Meg has warned him.
 
 "No, no, no, Cas! Wake up, buddy." Dean starts panicking, he pats Cas's face, shaking his shoulder. His voice shuddered and broken. "What did I do wrong? Don't do this to me, Cas."
 
-He doesn't hear Cas's answer, only the louder and louder sound of electricity muffling together, like thunders. After Cas leaves, the view and all senses return to the human level, dumbed and limited, but he has pretty good guesses of what's happening. The sky is boiling with colors, the plasmas must be reaching some extreme threshold now. His heart drops to the bottom, to the abyss.
+He doesn't hear Cas's answer, only the louder and louder sound of electricity blending together from all directions, like biggest thunders the world has ever seen.
 
-"Can't believe it still gonna end like this." Dean murmurs bitterly, letting go of Cas's hand, fumbling on the ground for the demon blade he dropped earlier, turning to face the tear of the space.
+After Cas leaves, the view and all senses return to the human level, dumbed and limited, but he has pretty good guesses of what's happening. The sky is boiling with colors, all the red and purple and green dancing relentlessly, merging and separating, forming shapes beyond imagination. The whole sky looks like it's going to tear open and pour down, just to making more space to host more of the colors and lights. The plasmas must be reaching some extreme threshold now. His heart drops to the bottom, to the abyss.
+
+"Can't believe it's still gonna end like this." Dean murmurs bitterly, letting go of Cas's hand, fumbling on the ground for the demon blade he dropped earlier, turning to face the tear of the space.
 
 *Right when he thinks he can have what he wanted, everything is gonna end again. Classic.* Dean almost laughs, at his own naiveness that things will just be fine, at the joke the world and fate throws on him.
 
 "Here goes nothing." Dean grits his teeth, aiming the tip of the blade at his heart, closing his eyes. "*Death is an infinite vessel.*"
 
-His hands start adding force onto the hold of the blade, but the expected piercing pain on the chest does not come. Instead, he feels his wrists are gripped tight, and a gravel voice growls, "Dean."
+His hands start adding force onto the hold of the blade, but the expected piercing pain through the chest does not come. Instead, he feels his wrists are gripped tight, and a gravel voice growls, "Dean."
 
 Dean snaps open his eyes. There he is. Cas. Beautiful, glaring, bright, furious. He snatches the blade from Dean's hand, Dean can't find strength to resist. He can only throw the arms around Cas and hold him tight, breathing out shakily. "Thank God, Cas. I thought it didn't work."
 
-"It took longer than I expected to settle everything down in here. But I did not expect to see I'm almost too late again the minute I come back." Cas still sounds pissed.
+"It took longer than I expected to settle everything down in here. But I did not expect to see I'm almost too late *again* the minute I come back." Cas still sounds pissed.
 
-"Oh that," Dean pulls back from the hug, rubbing his nose, looks like a child caught stealing from piggy bank.
+"Oh that," Dean pulls back from the hug, rubbing his nose, looking like a child caught stealing from piggy bank.
 
 "Yes, that! Thought we're over this self-sacrifice to save the world routine." Cas snaps.
 
@@ -2268,41 +2284,63 @@ Dean snaps open his eyes. There he is. Cas. Beautiful, glaring, bright, furious.
 
 "Actually, I do, I just didn't think it's something I could use until very recently."
 
-Dean raises eyebrows waiting for the answer.
+Dean raises eyebrows waiting for an elaboration.
 
 Cas glances at the lights that are still hanging around on the ground, giant-body shaped, as if the phantom giant still hasn't left, then at the tear, then back to Dean.
 
-"It needs energy to fuel the patching, then needs something infinite to actually close it." Cas starts, Dean nods, half understanding, half anticipation.
+"It needs energy to fuel the patch, then needs something infinite to actually close it." Cas starts, Dean nods, half understanding, half encouraging in anticipation.
 
-"Angel grace is a lot of energy as a good starting point," he pauses, and levels Dean a look. "And I supplied it with millions of years of knowledge and memory I have. It's not infinite, but with all the things I saw and I knew, all the history of universe, all the people I witnessed and memorized, all the emotions I felt. Everything in my brain, it is enough to keep the tears closed for long enough until you're safe. That was my initial plan."
+"Angel grace is a lot of energy as a good starting point," he pauses, and levels Dean a look. "And I supplied it with millions of years of knowledge and memory I had for the last two times. It's not infinite, but with all the things I saw and I knew, all the history of universe, all the people I witnessed and memorized, all the emotions I felt. Everything in my brain, it was enough to keep the tears closed for long enough until you're safe. That was my initial plan for this time too."
 
-Dean makes a gesture as if he's going to argue, but Cas pulls his hand down, just continues. "But now we have something better, so much better. We have the free energy," he gestures to the residue light on the ground, "the energy converted from the disappearing mass from the shrinking body, the beautiful physical rule of Mass-Energy Conversion. I have to admit even I forgot to take it into account."
+Dean makes a gesture as if he's going to argue, but Cas presses his hand down, just continues. "But now we have something better, so much better. We have the free energy," he gestures to the residue light on the ground, "the energy converted from the disappearing mass from the shrinking body, the beautiful physics rule of Mass-Energy Conversion. I have to admit even I forgot to take it into account."
 
 "And the infinite thing?"
 
-"You see, Dean. Death is not the only infinite thing, and there is this other thing, so much grander and abundant than the past, so easy to forget the potential -- the future." Cas squeezes Dean's hands, pulling him closer, almost talking directly into his breath. "The future is limitless, countless, endless. With you, between us, now there is infinite possibilities of where the future can go. The *possibilities* of where the future branching of the timeline can be, that is superfluous even for a different dimension."
+"You see, Dean. Death is not the only infinite thing, and there is this other thing, so much more abundant and tremendous than the past, so easy to forget the potential -- the future." Cas squeezes Dean's hands, pulling him closer, almost talking directly into his breath. Dean can't tear his eyes away from the Angel. "The future is limitless, countless, endless. With you, between us, now there are infinite possibilities of where the future can go. The *possibilities* of what the whole world can become because of us, that is superfluous even for a different dimension."
 
-"Wow," Dean says, amused. *That is the hottest thing I've heard. Poetic, too.*
+"Wow," Dean gasps, truly amused, heartquaken. *That is the hottest thing I've ever heard of. Poetic, too.*
 
-He looks at Cas, almost expecting he picks up his thought already. Then he remembers they are not sharing the body anymore. So instead, he sends the message in prayer.
+He looks at Cas, almost expecting he picks up his thought already. Then he remembers they are not sharing body anymore. So instead, he sends the message through prayer.
 
 Cas smiles. "Yes, it is indeed very poe..."
 
-Dean doesn't let him finish, already pulling him in for the very small remaining distance, and presses his lips on the still talking ones of Castiel's.
+Dean doesn't let him finish, already pulling him in to close the very small remaining distance, and presses his lips on the opened ones of Castiel's.
 
 He feels the dry and chapped lips, the warm and soft sensation, Cas's hands in his hair, his in Cas's. The sensations he misses when they were both in his head. Guess brain just can't imagine everything, and this, this is so much better.
 
-And he can't wait to see the infinite possibilities of the future, like Cas says, given that the world doesn't end before that. Dean chances a look at the nasty tear of the dimension, the energy from the body-fixing is already flying toward the gap. Like the first he witnessed, the edge of the tear starts patching up from bottom up.
+And he can't wait to see the infinite possibilities of the future, like Cas says, given that the world doesn't end before that. Dean chances a look at the nasty tear of the dimension, the energy converted from the shrunk body mass is flying toward the gap. The edge of the tear starts patching up from bottom to top, like the times he watched Cas's grace snitching them up on the Rocky Mountain and in the Redwoods.
 
-And there is flowing light taking action again, a new thread of light floating to the closing crack, another thread to wrap around Jack. From where their lips touch, small surge of energy leaking out, and Cas sends it to the tear as well.
+Cas grunts a groan under his lips, complaining about his distraction. Dean makes a chuckling sound in his throat, putting his full attention back to Cas, ignoring the world now.
 
-They do not break the kiss on any account.
+Cas's body is warm and solid in his touch, his tongue soft and gentle, his dark hairs intertwined with his fingers, reminding Dean of the time when his fingers were winded up with Cas's astonishingly beautiful starry-black wings and feathers. He tastes the clean earthy taste in Cas's mouth, reminded of the wet fresh air after a hot summer afternoon downpour. He hears his heartbeat, his small moaning sound. Dean uses all his senses to feel Cas, wondering if he still can share Cas's angelic senses, if he would feel him differently, if Cas feels him differently.
 
-The Earth turns back to normal, so are all the planets within discovery range.
+The world is forgotten at moments like this, all Dean can think of is Cas, and their future. And Cas, by the calm happy look on his face, the eyelashes quivering like butterfly's wings, is the same.
 
-The world continues spinning, and they just continue, living into the future.
+The kiss is not broken until way after the world falls silent.
 
-*Death is not the only one infinite vessel. So is freedom. So is love.*
+"Listen." Cas manages, after forever. The time must have paused for them, the world must have stopped spinning for them.
+
+Dean pants a little, leaning his forehead on Cas's, tilting his head slightly to do what he asked.
+
+"I don't hear anything." He says. The surrounding is quiet, only the sound of pine leaves shuffling in the light breeze.
+
+"Exactly." Cas smiles.
+
+There is no sound of electricity, no charged air, no prickling feeling on the skin. Just the wind, the leaves, the normal natural sound.
+
+They look up at the sky. The aurora borealis is still displaying on the canopy, but it's also returning to what it used to be. Quiet colors of red and green taking turns, moving as the blowing wind moves the air. The view is still breath-taking, but no longer earth-shakenly worrying.
+
+"Think that means the world is not gonna end any time soon?" Dean beams.
+
+Cas nods, happy.
+
+They go back for another peck of kiss, then head toward the impala.
+
+The Earth resumes the normal spinning, and the infinite future, just start growing from here.
+
+<br><br>
+
+*Death is not the only infinite vessel. So is freedom. So is love.*
 
 <br>
 
@@ -2326,7 +2364,7 @@ How to fix the tear: mass-energy equivalence, the law of physics solves itself; 
 
 Cas leaves Dean's body, own body remains lifeless for a bit, Dean worries, then Cas back. Reunion, hug, "Welcome back.", then solve the tear problem
 
-*"Death is an infinite vessel, so is love."* (Cas knows, but he doesn't believe it's true so doesn't think it's possible) (hinted requited love both ways but don't need to write it out)
+*"Death is an infinite vessel, so is love."* (Cas knows, but he doesn't believe it's true so doesn't think it's possible) ~~(hinted requited love both ways but don't need to write it out)~~
 
 ~~use half Dean's soul+half Cas's grace to fix the tear, so Dean won't die & Cas's won't be gone/fall (or sacrifice a Meg? or use love to solve it? or Dean actually die once, but Cas resurrect him just quickly enough?) (mass-energy equivalence, the law of physics solves itself? feel fitting) (E=mc^2 + power of soul/grace (a bit soul/grace dance, chain reaction), actually power of love)~~
 
