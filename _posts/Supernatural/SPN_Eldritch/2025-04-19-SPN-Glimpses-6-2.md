@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】Glimpses Amid Tears（6）Inside My Mind（2）
+title: 【Destiel】Glimpses Amid Tears（Chap.6）Inside My Mind（2）
 date: 2025-04-19 23:46
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]

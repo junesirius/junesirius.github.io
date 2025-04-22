@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】Glimpses Amid Tears（4）At the World's End（1）
+title: 【Destiel】Glimpses Amid Tears（Chap.4）At the World's End（1）
 date: 2025-03-19 23:29
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]

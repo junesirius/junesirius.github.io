@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】Glimpses Amid Tears（5）Through Your Eyes（1）
+title: 【Destiel】Glimpses Amid Tears（Chap.5）Through Your Eyes（1）
 date: 2025-03-31 01:59
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
