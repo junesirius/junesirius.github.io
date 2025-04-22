@@ -147,9 +147,13 @@ Doctor wants to sonic beam Cas, Dean furious, think Doctor wants to hurt/destroy
 
 timeline reset, everyone back to 2012, Doctor confirm time flux explosion kill most weeping angels, Dean worry about *most* may not include Cas, but Cas show up, actually weeping (not sculpture) because he overjoy Dean is alive but hate to see him die for him; Doctor/River bicker (book), Amy/Rory resign (farewell), Dean/Cas confession, HE
 
-## Summary
+## Claim Summary
+
+Canon-divergent to both SPN and DW, post-Purgatory before SPN S08E01 and closely follow plotline in DW S07E05, Dean and Cas come back to Earth after Purgatory, notice people missing and things weird in Manhattan, think it's a case, they go there investigating. They run into Doctor and Amy, find out Rory is the latest victim who gets zapped to the past, and weeping angel is the cause/monster. They fly back in time to 1938 to fix the problem and save people, only to find actually weeping angel sculptures are angels infected by Purgatory disease. The whole Manhattan in 1938 is in danger. All six of them have to find a way to fix the angels and humans and save the world together. There are a lot of sacrifices and realizations, the relationships between Doctor/River and Amy/Rory are very educational and relatable for Cas/Dean.
 
 ## Visual Element
+
+On the roof of a very tall building, Cas is a weeping angel sculpture, his wings spread out all big and wide in a protective posture, protecting Dean Amy Rory from a very terrifying, huge, overwhelming Statue of Liberty that's threatening and attacking them. The 11th Doctor is also holding out his arms in a very similar protective gesture, trying to protect the humans they care. Amy and Rory are hugging. Dean stands on the edge of the building, ready to (or already) jumping out.
 
 ## Editing notes
 
