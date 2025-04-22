@@ -1134,7 +1134,7 @@ He tells him this, instead: "I'll think of something. We'll figure it out. We al
 
 <br>
 
-#### Appendix: About the Theory
+#### Appendix: About the Physics
 
 The theoretical explanations that Dean cuts off but Cas would have explained, if anyone is curious:
 
