@@ -100,11 +100,13 @@ high dimension: Interstellar (2014, not released yet; current=2012, time swap)
 
 something big and huge and enormous: The Drowned Giant (Love, Death, Robot S2)
 
-### Easter Egg
+### Easter Eggs
 
 Chap. 2, the legends of the giant fish and bird: quote from 庄周《逍遥游》“北冥有鱼，其名为鲲。鲲之大，不知其几千里也；化而为鸟，其名为鹏。鹏之背，不知其几千里也，怒而飞，其翼若垂天之云。”
 
 Chap. 2, how does Dean know about the names of the trees, plants, creatures and birds: apparently Cas has dragged him to watch Nature channel together more than once, and he actually paid attention. Especially the bird part, he doesn't even realize he has a thing for them until much later and also in here, he realizes he does memorized those things and names he watched, while thinking about Cas's wings. But still, even when they were watching together and when he was definitely thinking about Cas's wings, he never really asked, so he never know Cas's wings true color or there are three pairs of them. (could potentially add an epilogue of watching bird Nature channel together or go back to the Redwood again with Cas guiding and introducing the creatures/plants, and Dean's knowledge surprise Cas too)
+
+Chap. 3 "something from the angel as the medium, the things he recognize as his, to guide him to the call", the medium is not trench coat or feather, it's Dean's body warmth on them, it's Dean. It's always Dean.
 
 Chap. 4, "did he dream about purgatory when he's outside, or did he dream about outside when he's still in purgatory" is like 庄周梦蝶蝶梦庄周
 
@@ -115,6 +117,8 @@ Chapter titles "In your eyes" "Inside my minds": "your" and "my" mean both of th
 Chap. 6 the shrinking body, the lost mass becomes energy, that's the mass-energy equivalence
 
 Chap. 6 the infinite past and future possibilities: inspired by DW the long song episode
+
+Chap. 6 the memory and apologies and forgiveness and kisses, they are parallel and necessary to the process of fixing the body, because, the dimension in between doesn't only shred and mess up Cas's body and forms, not just the merging of wings and vessel, but also inside the head. Like Dean realized before, the angelic memories and the screwed-up psychological knots and very human emotions, those need healing too. So they go through that fixing process in parallel, though even both of them don't quite realize.
 
 ### Dean's mental state
 
@@ -166,7 +170,7 @@ croak, rasp
 
 (Chap. 3) Dean has no body but only eyes, "like the one painted on Missouri's round table"
 
-(during posting, on AO3) posting Chap 1 Act 1,2,3 as Chap 1 Part One, Act 4 as Chap 1 Part Two (second AO3 chapter but same my chapter title); same for Chap 2; Chap 3's Appendix put at the very end after last chap (put a "Not a Chapter" by the chapter title), then Chap 3's after-work notes link to appendix (once published and have link); Appendix after-work notes add the Amelia-Sam joke about "Kid" from Chap 4-3
+(during posting, on AO3) posting Chap 1 Act 1,2,3 as Chap 1 Part One, Act 4 as Chap 1 Part Two (second AO3 chapter but same my chapter title); same for Chap 2; Chap 3's Appendix put at the very end after last chap (put a "Not a Chapter" by the chapter title), then Chap 3's after-work notes link to appendix (once published and have link); "Supplements" ("Not a Chapter") add the Amelia-Sam joke about "Kid" from Chap 4-3
 
 (Chap. 1-5) add more flashback, broken!Cas & god!Cas & Leviathan year & Purgatory time, emphasize more on the damage they've done, and the mental states those past caused them
 
@@ -256,7 +260,7 @@ Dean is good at finding things in the dark. But this time, he's looking for some
 
 As much as he would say angels are nothing more than monsters with good PR, as many times as Cas has explained he doesn't have a harp, it seems that when he thinks of Cas, he still can't help but picture some shiny halos and wings in places he can't see. The same image he had in his mind at four years old, every night when his mom told him angels were watching over him. So that's what he looks for.
 
-It starts turning into a routine. Dean gets into the habit of picking up a piece of newspaper at breakfast and reading through it over coffee. Then he sits in the café for the whole day, going through people's mention of angelic encounters online. He scans and scrolls, reads and looks, squints at the words of the witnesses and illustrations from so-called visionaries, thinking, if any of these can be a sign of Cas. If any of them can be luckier than he is, and has a glimpse of Cas while he cannot.
+It starts turning into a routine. Dean gets into the habit of picking up a piece of newspaper at breakfast and reading through it over coffee. Then he sits in the cafe for the whole day, going through people's mention of angelic encounters online. He scans and scrolls, reads and looks, squints at the words of the witnesses and illustrations from so-called visionaries, thinking, if any of these can be a sign of Cas. If any of them can be luckier than he is, and has a glimpse of Cas while he cannot.
 
 Then he drives, and reads, and asks around if there is anything strange and holy happening, anything like sudden increased heat, or bright light and thunderous sound. And he orders more papers. More coffee. Then he hits the road again.
 
@@ -604,7 +608,7 @@ The sun is setting fast. The dim light of day in the woods transitions into deep
 
 The charm and beauty of the forest vanish entirely as soon as utter darkness takes over. Nocturnal creatures wake up in the sound of branches cracking and owls hooting. Creatures, perhaps monsters too.
 
-Dean reaches for the blade and flashlight in his pocket automatically, gripping them tight, alerted. This is how the feeling of déjà vu starts seeping into reality.
+Dean reaches for the blade and flashlight in his pocket automatically, gripping them tight, alerted. This is how the feeling of deja vu starts seeping into reality.
 
 The rustling of trees, the eerie deep calls from above, echo behind him, hanging over him three hundred and sixty degrees like a web. Everything feels so Purgatory-like that for a minute, he seriously wonders if he somehow mis-stepped through a hidden portal and went back to that nasty place again.
 
@@ -668,127 +672,127 @@ Dean feels his chest seize, a sob choked in his throat. He can't breathe.
 
 #### Act 3 (not break)
 
-A loud flutter of wings adds to the sounds of millions of wings crashing and rustling, so loud and strong it distinguishes itself from all the other wings. A powerful gust sweep through, sending the vultures that perch on his back with claws digging into spine blown away. The ones pecking his arms lose their grip too, spreading their wings to keep some balance. The edge and feathers of the wings brush on the opening wounds, sending his body involuntary shudders.
+A loud flutter of wings adds to the sounds of millions of wings crashing and rustling, so loud and powerful it distinguishes itself from all the others. A strong gust sweeps through, sending the vultures perched on his back with claws digging into his spine blown away. The ones pecking at his arms lose their grip too, spreading their wings to keep balance. The edges and feathers of the wings brush against his open wounds, sending involuntary shudders through his body.
 
-The surrounding sounds a lot quieter suddenly. For a second, Dean thinks if it might be his ears suddenly deafened, like a TV player muted all of a sudden. But then he realizes the sound of wings are still there, but further away, remote, distant, like behind a closed sound-proof door. The sensation of feathers and wings are still on his skin -- which, looks like he has skin again, on the places that he's sure bleeding like drained pipe mere seconds ago -- warm and soft.
+The surrounding sounds suddenly quiet. For a moment, Dean thinks if it might be his ears suddenly deafened, like a TV muted all of a sudden. But then he realizes the sound of wings is still there, though farther away, remote, distant, like behind a closed soundproof door. The sensation of feathers and wings is still on his skin -- which, remarkably, looks like he has skin again, at the places he was sure  were bleeding like a drained pipe mere seconds ago -- warm and soft.
 
-The broken bones start growing back, the cut tendon connecting together, blood flowing through the veins smoothly, the skin feels new and tight. The cold wet sensation on the spine recedes, so does the burning dumbing sensation on the back of the head. There is only a lingering familiar lukewarm touch on the skin exposed through the torn cloth, a careful fluffy sensation that is barely there.
+The broken bones start to grow back, the torn tendons knitting back together, blood flowing through the veins smoothly, the skin feels new and tight. The cold wet sensation on his spine recedes, so does the burning dumbness on the back of his head. There is only a lingering familiar lukewarm touch on his skin exposed through the torn cloth, a careful fluffy sensation that is barely there.
 
-It is not the vulture wings that is touching him. It is not.
+It is not the vulture wings touching him. It is not.
 
-Dean opens his eyes, lowering his arms. He is surrounded by something warm and huge, wrapped up in it like the best natural feathery quilt, covered from head to toe like a cocoon, but with enough space to move too, not confining, but safe. No one could ever hurt him from here, he knows instantly, not vultures, not any monster, not even God or Death themselves, Dean just knows.
+Dean opens his eyes, lowering his arms. He is surrounded by something warm and vast, wrapped in it like the best natural feathery quilt, covered from head to toe like a cocoon, but with enough space to move too, not confined, but safe. No one could ever hurt him here, he knows instantly, not vultures, not any monster, not even God or Death themselves, Dean just knows.
 
-It is dark, but through the faint flashlight that he dropped on the ground inches away by his feet, he sees the wings around him isn't pure black. It's glittering tiny little shine of silvery light, like the finest diamonds inlayed in between the feathers. The most beautiful thing he's ever seen.
+It is dark, but through the faint flashlight he dropped inches from his feet, he sees the wings around him aren't pure black. They glitter with tiny little shine of silvery light, like the finest diamonds inlaid between the feathers. The most beautiful thing he's ever seen.
 
 Dean doesn't need anything else to know who it is.
 
-"Cas." He reaches out a hand, can't help himself.
+"Cas." He reaches out a hand, can't stop himself.
 
-For a blink of time, he imagines there is nothing, just another dying hallucination, just his last warm mad dream like the pity Little Match Girl. But his fingertips land on the feathers. Soft on the tip, tender on the middle, strong on the root, disarranged in his touch. He takes a long breath in, and he smells sky.
+For a blink of time, he imagines there is nothing, just another dying hallucination, just his last warm mad dream like the pity Little Match Girl. But his fingertips land on the feathers. Soft at the tip, tender in the middle, strong at the root, disarranged under his touch. He takes a long breath in, and he smells sky.
 
-"Cas, is that really you? This your wings?" His voice is still a bit shivering, wet. "So you're -- you're okay. More than okay. The wings, oh God, I never know it looks like this, up close, I mean."
+"Cas, is that really you? These your wings?" His voice is still a bit shivering, wet. "So you're -- you're okay. More than okay. The wings, oh God, I never know they look like this, up close, I mean."
 
-He takes another long drag of broken breath, feeling his heartbeat finally start to slow down, his brain dizzy from the adrenaline. Dean murmurs, quietly, "They're so beautiful, Cas. They're amazing."
+He takes another long drag of broken breath, feeling his heartbeat finally begin to slow, his brain dizzy from the adrenaline. Dean murmurs, quietly, "They're so beautiful, Cas. They're amazing."
 
-He puts both palms on the wings in front of him, feeling the warmth that is slightly higher than his own passing onto the hollow of his palms. He might be imagining it, but underneath it, he feels a pulse. A living, pumping, steady pulse, beating in the rhythm of an elephant's heartbeat, the slow pace of a giant creature. He buries his fingers in, letting the feathers intertwine with the fingers, watching them part to allow his fingers sinking deeper into the sea of black feathers. For this moment, Dean feels secure, even if he knows he must be far from it, even if in his whole life, he has never ever been.
+He presses both palms on the wings in front of him, feeling the warmth that is slightly higher than his own passing onto the hollows of his hands. He might be imagining it, but underneath it, he feels a pulse. A living, pumping, steady pulse, beating in the rhythm of an elephant's heartbeat, the slow pace of a giant creature. He buries his fingers in, letting the feathers intertwine with the fingers, watching them part to allow his fingers to sink deeper into the sea of black feathers. For this moment, Dean feels safe, even if he knows he must be far from it, even if in his whole life, he never has truly been.
 
 "This giant ancient bird Artemis told me about, thousands of miles wide and thousands of miles tall, stirring sea and sky, it's you, isn't it?" Dean tries hard to steady his breath, feeling proud. "I know it! I know it all along."
 
 Cas doesn't answer.
 
-In fact, Cas hasn't said a word or even showed his face, it is only the wings that Dean sees.
+In fact, Cas hasn't said a word or even shown his face, it is only the wings that Dean sees.
 
-Only then does he realize that, and starts frowning. "Cas, buddy, I want to see you. What happened? Come down here, talk to me."
+Only then does he realize that, and starts to frown. "Cas, buddy, I want to see you. What happened? Come down here, talk to me."
 
-There is a high-pitched voice in a deafening volume rolling above his head, piercing through the air in answer. The same sound that blew up the glasses in the gas station shop on the day he crawled out of the grave, back on Earth from the Pit tour. Castiel's true voice.
+There is a high-pitched voice in a deafening volume rolling above his head, piercing the air in response. The same sound that blew up the glasses in the gas station the day he crawled out of his grave, back on Earth from the Pit tour. Castiel's true voice.
 
-Dean covers his ear until the voice and echo between trees silences. "You can't speak human now?" He guesses, then adds quickly. "Okay let's do this, knock once for no, knock twice for yes, we'll figure out other things later. Right or wrong, Cas? True-voice-only time?"
+Dean covers his ears until the voice and echo between trees silences. "You can't speak human now?" He guesses, then adds quickly. "Okay, let's do this, knock once for no, knock twice for yes, we'll figure out other things later. Right or wrong, Cas? True-voice-only time?"
 
 The wing wrapped closest to him moves, pulling away from him, the tip of it knocks on the ground twice.
 
-Dean lets out a relieved chuckle. "Now we're talking. Good to see you again, Cas." He talks to the black wings in front of him, gesturing vaguely upwards, start feeling weird. "Some part of you, anyway."
+Dean lets out a relieved chuckle. "Now we're talking. Good to see you again, Cas." He talks to the black wings in front of him, gesturing vaguely upward, feeling only a little weird. "Some part of you, anyway."
 
-He tilts his head, "Hey, what's the deal with this *Amazing Colossal Man* show?"
+He tilts his head. "Hey, what's the deal with this *Amazing Colossal Man* show?"
 
-Dean looks up, but can't seem to look beyond where Cas's wings cover. He can't tell if the blackness over his head is the wing or the night.
+Dean looks up, but can't seem to look beyond where Cas's wings cover. He can't tell if the blackness over his head is wing or night.
 
-The tip of the wing that was responsible to knock on the ground for an answer hesitates. It draws on the ground in a curve, then a point -- a question mark.
+The tip of the wing that was responsible for tapping the ground for an answer hesitates. It draws a curve on the ground, then a point -- a question mark.
 
-Dean can practically hear Cas's voice -- his low grave human voice -- saying "I don't understand that reference" just from that movement.
+Dean can practically hear Cas's voice -- his low gravelly human voice -- saying, "I don't understand that reference," just from that movement.
 
-He can't help feeling a pull at the corner of his mouth. "Anyway, thanks for saving my ass, again. You have any idea what's the matter with those killer birds out there?"
+He can't help feeling the tug at the corner of his mouth. "Anyway, thanks for saving my ass, again. You got any idea what's up with those killer birds out there?"
 
-The hesitation again. Dean watches the wing tip shift around like a human wresting fingers in the grill of a difficult question. But then, it taps twice on the ground.
+The hesitation again. Dean watches the wing tip shift like a human wresting fingers in the grill of a difficult question. But then, it taps twice on the ground.
 
-Dean claps his hands together with relief, "Great! Mind show me?"
+Dean claps his hands together with relief. "Great! Mind showing me?"
 
-There is a brief high-pitched growling sound overhead again. Still completely unrecognizable by his human ears, but somehow, Dean thinks, he senses something edgy and pained just from the sound of it. His heart clutches at the feeling of it, even if he has no idea of the meaning.
+There is a brief high-pitched growling sound overhead again. Still completely unintelligible to human ears, but somehow, Dean thinks, he senses something edgy and pained just from the sound of it. His heart clenches at the feeling of it, even if he has no idea of the meaning.
 
-"Or not, if it's... making you uncomfortable." He tries, regretting the question now.
+"Or not, if it's... making you uncomfortable," he tries, regretting the question.
 
-Slowly, the wrapped layers of wings around him withdraw -- Dean misses them the moment they pull back. From outmost to the innermost circle where the feathers slightly brush on his back and shoulders, they unfold. One wing after another.
+Slowly, the wrapped layers of wings around him begin to withdraw -- Dean misses them the moment they pull away. From the outermost to the innermost where the feathers slightly brush against his back and shoulders, they unfold. One wing after another.
 
 There are three pairs.
 
-As tall as the redwoods surrounding them, as wide as the opening space allow. From where Dean stands, he can't see from one end to the other, and his human brain can't seen to comprehend the shape in between that hold the wings together. Must be something celestial, he decides, something that is the true Cas.
+As tall as the redwoods surrounding them, as wide as the open space allows. From where Dean stands, he can't see from one end to the other, and his human brain can't seem to comprehend the shape in between that holds the wings together. Must be something celestial, he decides, something that is the true Cas.
 
-The wings flap once, three pairs together. A gusty blow of strong wind sweeps across the woods, shaking the trunks and crowns, leaves falling like a downpouring rain, those vultures that were as big as half his height and with wings longer than his arms, just get blown away like small gnats puffed away by a huff, finally leaving a small circle of clearing. But he can hear them steady and ready to fly back any time.
+The wings flap once, all three pairs together. A gusty blow of strong wind sweeps through the woods, shaking trunks and crowns, leaves falling like downpouring rain. Those vultures that are as big as half his height with wings longer than his arms, just get blown away like small gnats puffed away by a huff of air, finally leaving behind a small circle of clearing. But Dean can hear them steady and ready to fly back at any time.
 
 Cas flaps his wings again. Then a third time.
 
-But even he can't keep doing that forever.
+But even he can't keep that up forever.
 
-By each flap, his wings shift the direction, blowing the gust into all directions, circling around something.
+With each flap, his wings shift direction, sending gust swirling in all directions, circling around something.
 
-Something too dark to be made out in the night forest. Dean points the flashlight in that direction, widening his eyes then squinting, looking hard, trying to see what is in there.
+Something too dark to be made out in the forest night. Dean points the flashlight in that direction, widening his eyes then squinting, looking hard, trying to see what's there.
 
-Then he sees it. The tear in the space, not too different from the one he saw last time when Cas emerges in the snow storm, but the tear was easier to be noticed in the all white background than the all black one like right now.
+Then he sees it. A tear in space, not too different from the one he saw last time when Cas emerged in the snowstorm, but the tear was easier to be noticed in the all white background than the all black one like right now.
 
-But it is the same shape of a wound that tears the reality, an opening leading to somewhere unknown, somewhere probably doesn't belong to any space. The vultures are produced from the opening faster than shooting bullets, flying and dashing out like the annoyest insect in the world.
+But it is the same shape of wound that tears the reality, an opening leading to somewhere unknown, somewhere that probably doesn't belong to any space at all. The vultures pour from the tear faster than shooting bullets, flying out like the most annoying insects in the world.
 
-Judging by the speed of wings' movement, Castiel is tiring out fast. He retreats closer to the gap step by step. Dean tries to move towards him.
+Judging by the moment of the wings, Castiel is tiring out fast. He retreats closer to the gap step by step. Dean tries to move toward him.
 
-Cas lowers one of the lowest wings, putting it right in his way, sending the clear enough message of warning him from another step forward. And Dean can see why. There are too many killer birds in the center, if the ones attacking him earlier are giving him a hard time, going any closer could mean being torn apart by the tornado of birds' beak in an instant. Not even Cas can heal him fast enough if that ever happens.
+Cas lowers one of the lowest wings, putting it right in his way, sending a clear enough message of warning him from another step forward. And Dean can see why. There are too many killer birds at the center. If the ones attacking him earlier were giving him a hard time, going any closer could mean being torn apart by a tornado of beaks in an instant. Not even Cas could heal him fast enough if that ever happened.
 
-He stays where that wing instructs him to. The feeling of helplessness comes back. The same feeling when he was in that snow storm on Rocky Mountain, the same tightening gut instinct of what is going to happen next as the wings approach the tear closer and closer.
+He stays where that wing instructs him to. The feeling of helplessness comes back. The same feeling he had when he was in that snowstorm on the Rocky Mountain, the same gut-tightening instinct of what is going to happen next as the wings inch closer to the tear.
 
-"You're leaving again, aren't you?" Dean asks him, frowning deep, eyes sting. Not expecting any answer. Because they both already know.
+"You're leaving again, aren't you?" Dean asks him, frowning deeply, eyes stinging. Not expecting any answer. Because they both already know.
 
-The wing tip bends slightly, wrapping around him briefly -- the closest thing to a farewell hug. A feather brushes his face, right where the corner of his eyes is. Dean swallows. There is no tear, he knows there isn't, not now anyway.
+The wing tip bends slightly, wrapping around him briefly -- the closest thing to a farewell hug. A feather brushes his face, right at the corner of his eye. Dean swallows. There is no tear, he knows there isn't, not now anyway.
 
 His hand reaches up, feeling the touch of the feather, leaning into it.
 
-"Did the Purgatory do this to you? Pulling you here and there? Making these whatever weirdass portals all over? God, I have so many questions." Dean feels the twist in his stomach tightens, the tie turning over. He thinks he's gonna be sick.
+"Did Purgatory do this to you? Pulling you here and there? Making these whatever weirdass portals all over? God, I have so many questions." Dean feels the twist in his stomach tighten, the knot turning over. He thinks he's gonna be sick.
 
-His voice quieter. "Do you choose to leave, or do you have to, Cas?" He pushes the words out, tasting the edge of them, each as sharp as the knives and blades and the beaks of those birds, cutting his tongue and throat bloody. "I fight so damn hard, just want you back, want you stay, want you okay. Is that too much to ask?"
+His voice drops quieter. "Do you choose to leave, or do you have to, Cas?" He pushes the words out, tasting the edge of them, each as sharp as the knives and blades and the beaks of those birds, cutting his tongue and throat bloody. "I fight so damn hard, just want you back, want you stay, want you okay. Is that too much to ask?"
 
 The shrieking angelic voice that answers him is even more pained than the previous one he heard. Dean can't imagine what it is that Cas is saying.
 
-The vultures gather back closer as Cas's wings flapping increasingly slower and visibly more exhausted and heavy. One of the creatures land the claws on his wings in the mid sky, more followed. A burst of new smell of copper and iron outburst in the air. A rain of crimson starts falling onto the ground.
+The vultures gather back closer as Cas's wings flap increasingly slower and visibly more exhausted and heavy. One of the creatures lands its claws on his wings in the mid sky, and more follow. A burst of new smell of copper and iron floods the air. A rain of crimson starts to fall to the ground.
 
-Dean yells, "Cas, watch out!" But there is nothing he can do. He holds the demon blade up in a posture of throwing it out, but he can't be sure it wouldn't hit Cas instead. Some of the birds hovers back, diving in his direction. Feet away, then inches away.
+Dean yells, "Cas, watch out!" But there is nothing he can do. He holds the demon blade up in a posture of throwing it out, but he can't be sure it wouldn't hit Cas instead. Some of the birds hover back, diving in his direction. Feet away, then inches.
 
-That is when Cas starts glowing. Not too different from last time on the snow mountain, except a lot more intense. Dean shuts his eyes the moment those lights start brightening up, starting from the outline of the wings.
+That is when Cas starts glowing. Not too different from last time on the snow mountain, except a lot more intense. Dean shuts his eyes the moment the light brightens up, starting at the outline of the wings.
 
-His brain itches to steal a look, to see the wings in light, he imagines it like phoenix reborning in fire (a drastic light show as the legend about that tremendous bird would be like, not the man-like monster back in wild west time), but Cas would definitely be pissed -- pissed at himself, that is -- if Dean gets his eyes burned out because of his grace, even if it's Dean's own stupid curiosity.
+His brain itches to steal a look, to see the wings in light. He imagines them like a phoenix reborn in fire (a drastic brilliant light show as the legends speak of, as that tremendous bird would be like, not the man-shaped creature from the Wild West), but Cas would definitely be pissed -- pissed at himself, that is -- if Dean gets his eyes burned out because of his grace, even if it's Dean's own stupid curiosity.
 
-The bright light burns the back of his eyelid hot and red, like facing straight at the sun with closed eyes. He waits, feeling the heart pounding loudly in his chest. He listens, the sounds of wings wane and subside, the warm and soft touch of feathers retreats.
+The bright light scorches the backs of his eyelids hot and red, like facing straight at the sun with closed eyes. He waits, heart pounding loud in his chest. He listens, the sound of wings wanes and subsides, the warm and soft touch of feathers withdraws.
 
-Dean opens his eyes when he can't hear any more flutter. His view still stimulates and shakes with a too bright overlay, making the dark scene before him even harder to make out. He blinks and rubs his eyes, clearing the water conjuring slowly that must be triggered from the bright light, not because of the breathless slump inside the chest.
+Dean opens his eyes when he can't hear any more fluttering. His vision still overstimulates and shakes with a too bright overlay, making the darkness before him even harder to make out. He blinks and rubs at his eyes, clearing the water forming slowly that must be triggered from the bright light, not from whatever breathless slump inside his chest.
 
-There is no scar of space left, there is no giant black wing. No more human-eating killer vulture. No Cas.
+There is no scar of the space left, there is no giant black wing. No more human-eating killer vultures. No Cas.
 
-A crow tentatively croaks, jumping on the grass, then flies away. That is all.
+A crow tentatively croaks, hopping in the grass, then flies off. That is all.
 
 In the place where there was the opening, on the ground, lying on top of the thick coating of fallen leaves, there is a single long feather.
 
-As long as his forearm. As black as the starry sky with glittering light in between. A hint of blood stained the end.
+As long as his forearm. As black as the starry sky with glittering light between. A hint of blood stains the tip.
 
 Cas's feather.
 
-Dean's fingers caress the feather, ever so softly, so lightly. Just like the way the wings it belonged to touching his cheek mere moments ago. Ever so gently. The touch of a phantom hand, coming from a distant forgotten dream.
+Dean's fingers caress the feather, ever so softly, so lightly. Just like the way the wings it belonged to touched his cheek mere moments ago. Ever so gently. The touch of a phantom hand, reaching from a distant forgotten dream.
 
-He presses the feather onto his lips, then puts it next to the piece of trench coat fabric. His heart beats a skin's distance away.
+He presses the feather to his lips, then puts it next to the piece of trench coat fabric. His heart beats a skin's distance away.
 
 <br>
 
@@ -796,45 +800,45 @@ He presses the feather onto his lips, then puts it next to the piece of trench c
 
 The dimension in between is -- for lack of a better word -- confusing. It's kaleidoscopical, it's a meat grinder of light and darkness and everything in between, a blender of color and shape, a garbage disposal of mind and body.
 
-Starting with the darkness, then the lights from other dimensions start flashing in, like stars from other side of the curtain, then brighter than sunshine.
+Starting with darkness, then lights from other dimensions start flashing in, like stars from other side of a curtain, then brighter than sunshine.
 
-It takes forever to find the words and thoughts again, find the pieces that belonged to one's own and put them together. It takes longer to see the lights, see them glowing and shining, and even longer to realize what they are.
+It takes forever to find words and thoughts again, to find the pieces that belong to oneself and put them back together. It takes longer to see the lights, to watch them glow and shine, and even longer to realize what they are.
 
-Prayers can't reach this dimension, yearnings do. The stronger the emotion, the brighter the lights. It starts with sparkles, brightness of comets, on and off, flickering, blinking, flying by; then that of Mercury and Venus, as they're seen from Earth; soon as anchoring and grounding as Polaris in Ursa Minor, as bright and consistent as Orion and Perseus; until eventually, it is supernova explosion.
+Prayers can't reach this dimension, yearning does. The stronger the emotion, the brighter the lights. It starts with sparkles, the brightness of comets, on and off, flickering, blinking, flying past; then grows to that of Mercury and Venus, as they're seen from Earth; soon becomes as anchoring and grounding as Polaris in Ursa Minor, as bright and consistent as Orion and Perseus; until eventually, it is supernova explosion.
 
-There is a similarity between here and the deep space in the more familiar dimension.
+There is a similarity between this place and deep space in the more familiar dimension.
 
-It feels familiar. It feels home.
+It feels familiar. It feels like home.
 
-It takes a while, but the realization finally dawns: *Why are the lights so bright, so calling, so intense that I want nothing but staring into it, going after it, merging into it -- because it is beacon, sent by the one human being that anchors my existence, shines the way back. It is Dean, calling for me.*
+It takes a while, but the realization finally dawns: *Why are the lights so bright, so calling, so intense that I want nothing but to stare into it, to go after it, to merge into them -- because it is a beacon, sent by the one human being who anchors my existence, who lights the way back. It is Dean, calling for me.*
 
 <br>
 
-The separator that divides the dimensions, is near impossible to tear open. It is no cotton fabric of a curtain, it is as thin as air but one cannot slice air open by any blade, so it might as well be as steely as a diamond wall infinitely thick.
+The barrier that divides the dimensions, is nearly impossible to tear open. It is no cotton fabric of a curtain, it is as thin as air but one cannot slice air with any blade, so it might as well be a diamond wall, infinitely thick.
 
 There is no way through -- none that I can manage by myself.
 
 But I'm not doing it by myself.
 
-I can't hear him, can't really see clear enough of his whereabouts, but the light of emotion radiated from him, directly coming from the beating heart, that is all I ever need.
+I can't hear him, can't really see clearly enough of his whereabouts, but the light of emotion radiating from him, directly coming from his beating heart, that is all I ever need.
 
-When the light bursts so bright and desperate, it changes colors, it shines red and bloody, like a wound of this place. Like the bleeding mark on the chest of a thorn bird, sound of a sonorous melody echoes, when it sings its last song as the sharpest thorn piercing through its heart. The power and intensity so strong and insistent, it can cut through everything.
+When the light bursts so bright and desperate, it changes colors, it shines red and bloody, like a wound of the space. Like the bleeding mark on the chest of a thorn bird, whose final song echoes with a sonorous melody as the sharpest thorn pierces its heart. The power and intensity are so strong and insistent, they can cut through everything.
 
-It cuts the divide thin, I push it through. There he is, Dean. But dying. Almost always, dying. Even more so, when I'm around.
+They cuts the divide thin, I push through. There he is, Dean. But dying. Almost always, dying. Even more so, when I'm around.
 
-More so, when the tear is open, and dangers seep through.
+More so, when the tear is open, and danger seeps through.
 
-I watch myself, stepping over the tear. Hands, feet, cloths; wings, rings, eyes. The vessel, the angel, the monster, the bad luck. Nowadays, it seems, I'm always the combination of all of these. The eye of the disaster storm, the reason why Dean is in danger.
+I watch myself, stepping over the tear. Hands, feet, cloth; wings, rings, eyes. The vessel, the angel, the monster, the bad luck. These days, it seems, I'm always the combination of all of these. The eye of the disaster storm, the reason Dean is in danger.
 
-"I'm here now." I want to say. The sound comes out harsh and sharp, too loud for human. Dean's hands cover his ears. I'm hurting him again. It seems, I'm always hurting him, one way or another.
+"I'm here now," I want to say. The sound comes out harsh and sharp, too loud for human ears. Dean's hands cover his ears. I'm hurting him again. It seems, I'm always hurting him, one way or another.
 
-I mute my own sound, ignoring the chanting deep within, repeating Dean's name. Ache. It doesn't matter. I don't matter. It should be about Dean. It's always all about Dean.
+I mute my own voice, ignoring the chanting deep within, repeating Dean's name. Ache. It doesn't matter. I don't matter. It should be about Dean. It's always all about Dean.
 
-"Stay." I hear him say. Half hear from words, half through prayer, reaching deep into my core.
+"Stay," I hear him say. Half from his lips, half from prayer, reaching deep into my core.
 
-"I need you." I hear him think. Don't need to invade his mind, the thoughts are already loud enough.
+"I need you," I hear him think. Don't need to invade his mind, the thought is already loud enough.
 
-*What do you need me for, Dean?* I wonder. I heal him. I help him on his feet. I wipe his tears.
+*What do you need me for, Dean?* I wonder. I heal him. I help him on his feet. I wipe his tears. The ones haven't fallen yet.
 
 I put my wings around him, leaning into the warmth of the human body. Greedily. Selfishly.
 
@@ -846,11 +850,11 @@ Taking in his whole existence, feeling his touch, grasping the memory. Getting p
 
 I see danger. And I see pain. The bright light in his soul, never more blinding.
 
-Why is the word "tear" both the sad salty water like sea, and the broken wound that never really heals? Because they're, really, the very same thing.
+Why is the word "tear" both the sad salty water like the sea, and the broken wound that never truly heals? Because they're, really, the very same thing.
 
 A doorway opens in two directions: one way out, the other to keep Dean safe.
 
-A crossroad.
+A crossroads.
 
 Think carefully, choose wisely.
 
@@ -858,17 +862,19 @@ It is an easy one, really.
 
 Me, or him.
 
-It is never a decision that needs ponder.
+It is never a decision that needs pondering.
 
 Stepping aside, stepping back.
 
-Wound of the dimension, fixed by body of broken -- sounds poetically fair. And perfect for a penance.
+Wound of the dimension, fixed by a body already broken -- sounds poetically fair. And perfect for penance.
 
 I am back where I was. The deforming, confusing place. The dimension in between.
 
-I still hear the crying, his calling.
+I still hear the crying. His calling.
 
-And beats of his heart.
+The sound of tears dropping.
+
+And the beat of his heart.
 
 <br>
 
@@ -882,45 +888,45 @@ And beats of his heart.
 
 #### Act 1
 
-Dean parks the car by the road side, sitting behind the wheel for a moment too long, chewing on the words he might need later. The house looks the same as the last time he visited it almost a decade ago.
+Dean parks the car by the roadside, sitting behind the wheel a moment too long, chewing on the words he might need later. The house looks the same as it did the last time he visited almost a decade ago.
 
 He checks through the curtained window, wondering if the owner is in the house now.
 
-He raises a hand, the front door opens before the knuckles reach it.
+He raises a hand, the front door opens before his knuckles reach it.
 
-"Dean Winchester." The woman regards him, a small smile showing.
+"Dean Winchester." The woman regards him, a small smile forming.
 
 "Missouri." Dean returns the smile, leaning in to give her a hug.
 
-"It's been so long." Her hands pat his back gently, then pull away. Her eyes are sharp and pointed, but now covered with a knowing, compassionate look. "I'm sorry about the angel."
+"It's been so long." Her hands pat his back gently, then pull away. Her eyes are sharp and pointed, but now softened by a knowing, compassionate look. "I'm sorry about the angel."
 
 Dean raises his eyebrows.
 
-"You're just thinking about him," Missouri eases into the room, leading him in. "In fact, I think that is all that you can think about. Am I right?"
+"You were just thinking about him," Missouri eases into the room, ushering him in. "In fact, I think that's all you can think about. Am I right?"
 
-Dean swallows, lowering his eyes to the floor, letting his feet lead himself through the place automatically. "Yeah, uh, yeah, he's the reason why I... Sorry I didn't visit earlier."
+Dean swallows, lowering his eyes to the floor, letting his feet carry himself through the place automatically. "Yeah, uh, yeah, he's the reason why I... Sorry I didn't visit earlier."
 
-Missouri puts a cup of coffee in front of him, didn't ask if he wants tea or anything. Dean takes it, appreciated.
+Missouri sets a cup of coffee in front of him, didn't ask if he wanted tea or anything. Dean takes it, appreciated.
 
-"Eight years ain't short time, but I understand." She says, sitting on the couch at the opposite side across the small coffee table. "Your father sat at that very spot right after that fire, and I told him what he needed to know. How can I help you, Dean?"
+"Eight years ain't a short time, but I understand," she says, settling onto the couch across the small coffee table. "Your father sat in that very spot right after the fire, and I told him what he needed to know. How can I help you, Dean?"
 
-Dean's mind wavers for a second by that, old memories of his Dad and Mom and the haunted old house flood back in, but he gives a long exhale and pushes them down. "Cas is not dead," he says, defensive. Not like Mom. And he's not his Dad. "I just need some help to bring him back, that's all."
+Dean's mind falters for a second at that, old memories of his Dad and Mom and the haunted old house flood back in, but he gives a long exhale and pushes them down. "Cas is not dead," he says, defensive. Not like Mom. And he's not his Dad. "I just need some help to bring him back, that's all."
 
-Missouri nods once, silent, eyes hinting him to continue.
+Missouri nods once, silent, her eyes prompting him to continue.
 
-"There was an old friend a few years ago, a really good real-deal psychic." Dean remembers Pamela's bright flirtatious smiles, then the burned-out eye sockets, then bleeding stab wounds in the stomach. He has to force a flinch down. "That was way before we know anything about angels, and she set up this seance, demanding Cas to show his face. It didn't end well," he swallows again, "but it worked, I think Cas actually showed up and talked to her in some psychic spiritual dimension."
+"There was an old friend a few years ago, a really good real-deal psychic," Dean remembers Pamela's bright flirtatious smiles, then the burned-out eye sockets, then bleeding stab wounds in her stomach. He has to force down a flinch. "That was way before we knew anything about angels, and she set up this seance, demanding Cas show his face. It didn't end well," he swallows again, "but it worked, I think Cas actually showed up and talked to her in some psychic spiritual dimension."
 
-"And you're wondering if I can do something similar and let you talk to Castiel in the same way." Missouri finishes the thought for him.
+"And you're wondering if I can do something similar and let you talk to Castiel the same way." Missouri finishes for him.
 
-Dean nods quietly, "Can you do that?" He tries hard to not let the desperation and hope spilling all over in his voice, but Missouri probably knows them all.
+Dean nods quietly. "Can you do that?" He tries hard not to let the desperation and hope spill all over in his voice, but Missouri probably hears it all.
 
 She considers, eyes searching his face. And whatever she finds there, it seems to satisfy a question she didn't ask.
 
-"Yes, I suppose." She says, Dean lets out a long breath. "There will be risks, but it is doable. It would be easier if there is something I can use as a medium."
+"Yes, I suppose," she says. Dean lets out a long breath. "There will be risks, but it's doable. It would be easier if there's something I can use as a medium."
 
 "Medium?"
 
-"Things from the angel. Things he can identify as his, guiding his way to the call." Missouri explains.
+"Something from the angel. Things he can recognize as his, to guide his way to the call," Missouri explains.
 
 That rings a bell. Dean automatically touches the handprint on his left shoulder underneath the jacket, knowing the red mark is still there. Back then, that mark was all they had that has a direct link with Cas, but now, he has more.
 
@@ -1131,50 +1137,6 @@ Cas falls quiet. After a long while, his voice finally echoes on top of Dean's h
 *Don't know if it's possible, if they can find a way, or don't know if he really wants to come back?* Dean decides not to ask.
 
 He tells him this, instead: "I'll think of something. We'll figure it out. We always do. Hang in there tight, Cas, I get you."
-
-<br>
-
-#### Appendix: About the Physics
-
-The theoretical explanations that Dean cuts off but Cas would have explained, if anyone is curious:
-
-**Refraction**: Think of when you poke a finger into a glass of water and look from the side, the finger looks bended and twisted. It's caused by the different materials being different medium for the light, and they have different speeds of light, thus different wavelengths. It's the same when the angel's true form wavelength passes through the boundary between two dimensions: each dimension is a different media, with unique property and speed for wave to pass. The wavelength gets changed and twisted, that's why Cas's figure becomes stretched and enlarged to a deformed shape.
-
-**Diffraction**: The quantum mechanics effect that if a microcosmic particle passes through a slit that is in the similar order of magnitudes with the particle size, the particle would diffract into uncertain location (*Uncertainty Principle*) with a mathematical distribution of likelihood where it may end up to. The smaller the slit, the larger range it could potentially end up with. The tear in the space is of similar size of Cas in the form of wavelength, so Cas suffers from the Diffraction Effect, that's why he could potentially end up anywhere with no control of where he would land, only with a statistical likelihood to estimate.
-
-**Infinity Mirror Effect**: If an item is positioned in between two perfectly aligned parallel mirrors, then there will be infinite reflections of the same item inside the mirrors. This is to explain the phenomenon they witness when a tear is opened to the dimension in between, explains why the cases are the strongest snow storm ever, the infinite number of vultures, and the craziest aurora borealis. The items that end up in between the dimension and get infinitely reflected are the most normal, natural things -- one snow flake, one harmless bird, one plasma particle. But duplicate them by infinity (each of them identical), it would definitely become a disaster. For the story's purpose, also twisted them a little to make them extremely deadly.
-
-**Wave-Matter Duality**: Angel's true form is a type of wave, the human vessel is a physical matter, therefore according to classical physics, they are fundamentally different forms and no way to find a grand unification to integrate them well. But according to quantum physics, there is Wave-Matter Duality to unify them: every matter is a wave, only differs in the length of the wave and frequency of the matter. Therefore in a sense, the human body is also a wave with limited wavelength, that explains why angel can reside into the body and occupies and moves around in it. Also explains why Jimmy said having an angel inside is like flying with a comet -- the short wavelength of human matter has a difficult time catching up with long wavelength angels.
-
-And if we do the reverse calculation, it would mean angel's size as a physical matter would be extremely small according to the long wavelength. That is why angel has to possess human to walk the Earth, otherwise they would simply be too small to be seen.
-
-Taking all that into consideration, it means when Cas said his true form size is as big as the Chrysler Building, that would be referring to his wavelength. Now it's a calculation problem, a wave with a wavelength of about three hundred meters long, it means the frequency is 1MHz, that falls within the range of Medium Frequency (MF) for things like AM radio broadcastings, coast guards, no wonder he can tune in to police radio as well.
-
-Using *de Broglie's equation*, to have this wavelength, it would mean a proton moving at a $10^{-9}$ m/s or an electron moving at $10^{-6}$ m/s. So if Cas doesn't occupy a body and manifest as a physical existence on the Earth, he would have to be extremely small or extremely slow. Angel or not, he's bounded by the rule of physics.
-
-**Mass-Energy Equivalence**: According to the famous Einstein's equation $E=mc^2$, the mass can be converted to energy in equivalence, with multiplied vacuum speed of light. So the process of shrinking Cas's spliced giant body from the size of Chrysler Building to Jimmy Novak's height, considering the height ratio creating increased mass proportionally in three dimensions, would eventually produce approximately $3.85*10^{25}$ Joules of energy, which is about 600 millions times more powerful than the Tsar Bomba, the most powerful nuclear bomb ever detonated. We wouldn't want to have him anywhere near downtown area, so it's glad all the occurrences of the cases are all quite remote, and Alaska is so very ideal, second only to totally desolated deserts. Let's just say this much energy is enough to feed a hole and patch a tear in the dimension.
-
-**The dimension in between**: The "dimension in between" is not any *single* dimension, not a higher or lower dimension, not fifth dimension or tenth dimension. It's a concept where other dimensions are flattened, including the time and space dimension. It's like two and a half dimension, or three and a half, or all the other in-between dimensions put together.
-
-In there, all the world in all the time and all the space would be equivalent, as if they are all happening in the same time same place. That is why when Cas is in there, when he notices the lights conjured from Dean's yearnings, he would wonder when and where that is. Because they can be from any time, any where, Cas wouldn't be able to tell the difference. He may tear one hole to find a 26-year-old Dean, another to 40-year-old Dean. That is also why it is a very real fear that Dean worries "what if the next time you show up it's 20 years later, then 50 years after". This can happen very easily, if not the now-Dean yearns the hardest.
-
-That is also why the infinite future can actually fill the hole and close the dimension in between: the future and the past are equivalent in there. The moment they realize this is possible, all the infinite possibilities become solid realities in there, it's like infinite versions of multiverse. No wonder they can definitely fill any gap, any tear, any hole, any where. It's just another day that love saves the world.
-
-<br>
-
-Enjoy Cas's little physics class yet?
-
-That class could use a curriculum textbook titled something like *"Theoretical Physics in Magic and Fantasy World"*.
-
-<hr>
-
-Cas: You have no idea what I'm talking about since the first sentence, don't you?
-
-Dean: No, but I love it when you talk abstruse, it turns me on. So, don't stop.
-
-Instead of another lecture, he gets a kiss instead.
-
-Or actually, more than just that.
 
 <br>
 
@@ -2346,6 +2308,10 @@ The world moves on, and the infinite future, just start growing from here.
 
 <br>
 
+END
+
+<br>
+
 #### draft notes
 
 (Cas's memory of edge of purgatory+in between dimension -> move to shift quickly between scenes)
@@ -2370,4 +2336,65 @@ Cas leaves Dean's body, own body remains lifeless for a bit, Dean worries, then 
 
 ~~use half Dean's soul+half Cas's grace to fix the tear, so Dean won't die & Cas's won't be gone/fall (or sacrifice a Meg? or use love to solve it? or Dean actually die once, but Cas resurrect him just quickly enough?) (mass-energy equivalence, the law of physics solves itself? feel fitting) (E=mc^2 + power of soul/grace (a bit soul/grace dance, chain reaction), actually power of love)~~
 
-###### End
+### Appendix: About the Physics (Not a Chapter)
+
+The theoretical explanations that Dean cuts off but Cas would have explained, if anyone is curious:
+
+**Refraction**: Think of when you poke a finger into a glass of water and look from the side, the finger looks bended and twisted. It's caused by the different materials being different medium for the light, and they have different speeds of light, thus different wavelengths. It's the same when the angel's true form wavelength passes through the boundary between two dimensions: each dimension is a different media, with unique property and speed for wave to pass. The wavelength gets changed and twisted, that's why Cas's figure becomes stretched and enlarged to a deformed shape.
+
+**Diffraction**: The quantum mechanics effect that if a microcosmic particle passes through a slit that is in the similar order of magnitudes with the particle size, the particle would diffract into uncertain location (*Uncertainty Principle*) with a mathematical distribution of likelihood where it may end up to. The smaller the slit, the larger range it could potentially end up with. The tear in the space is of similar size of Cas in the form of wavelength, so Cas suffers from the Diffraction Effect, that's why he could potentially end up anywhere with no control of where he would land, only with a statistical likelihood to estimate.
+
+**Infinity Mirror Effect**: If an item is positioned in between two perfectly aligned parallel mirrors, then there will be infinite reflections of the same item inside the mirrors. This is to explain the phenomenon they witness when a tear is opened to the dimension in between, explains why the cases are the strongest snow storm ever, the infinite number of vultures, and the craziest aurora borealis. The items that end up in between the dimension and get infinitely reflected are the most normal, natural things -- one snow flake, one harmless bird, one plasma particle. But duplicate them by infinity (each of them identical), it would definitely become a disaster. For the story's purpose, also twisted them a little to make them extremely deadly.
+
+**Wave-Matter Duality**: Angel's true form is a type of wave, the human vessel is a physical matter, therefore according to classical physics, they are fundamentally different forms and no way to find a grand unification to integrate them well. But according to quantum physics, there is Wave-Matter Duality to unify them: every matter is a wave, only differs in the length of the wave and frequency of the matter. Therefore in a sense, the human body is also a wave with limited wavelength, that explains why angel can reside into the body and occupies and moves around in it. Also explains why Jimmy said having an angel inside is like flying with a comet -- the short wavelength of human matter has a difficult time catching up with long wavelength angels.
+
+And if we do the reverse calculation, it would mean angel's size as a physical matter would be extremely small according to the long wavelength. That is why angel has to possess human to walk the Earth, otherwise they would simply be too small to be seen.
+
+Taking all that into consideration, it means when Cas said his true form size is as big as the Chrysler Building, that would be referring to his wavelength. Now it's a calculation problem, a wave with a wavelength of about three hundred meters long, it means the frequency is 1MHz, that falls within the range of Medium Frequency (MF) for things like AM radio broadcastings, coast guards, no wonder he can tune in to police radio as well.
+
+Using *de Broglie's equation*, to have this wavelength, it would mean a proton moving at a $10^{-9}$ m/s or an electron moving at $10^{-6}$ m/s. So if Cas doesn't occupy a body and manifest as a physical existence on the Earth, he would have to be extremely small or extremely slow. Angel or not, he's bounded by the rule of physics.
+
+**Mass-Energy Equivalence**: According to the famous Einstein's equation $E=mc^2$, the mass can be converted to energy in equivalence, with multiplied vacuum speed of light. So the process of shrinking Cas's spliced giant body from the size of Chrysler Building to Jimmy Novak's height, considering the height ratio creating increased mass proportionally in three dimensions, would eventually produce approximately $3.85*10^{25}$ Joules of energy, which is about 600 millions times more powerful than the Tsar Bomba, the most powerful nuclear bomb ever detonated. We wouldn't want to have him anywhere near downtown area, so it's glad all the occurrences of the cases are all quite remote, and Alaska is so very ideal, second only to totally desolated deserts. Let's just say this much energy is enough to feed a hole and patch a tear in the dimension.
+
+**The dimension in between**: The "dimension in between" is not any *single* dimension, not a higher or lower dimension, not fifth dimension or tenth dimension. It's a concept where other dimensions are flattened, including the time and space dimension. It's like two and a half dimension, or three and a half, or all the other in-between dimensions put together.
+
+In there, all the world in all the time and all the space would be equivalent, as if they are all happening in the same time same place. That is why when Cas is in there, when he notices the lights conjured from Dean's yearnings, he would wonder when and where that is. Because they can be from any time, any where, Cas wouldn't be able to tell the difference. He may tear one hole to find a 26-year-old Dean, another to 40-year-old Dean. That is also why it is a very real fear that Dean worries "what if the next time you show up it's 20 years later, then 50 years after". This can happen very easily, if not the now-Dean yearns the hardest.
+
+That is also why the infinite future can actually fill the hole and close the dimension in between: the future and the past are equivalent in there. The moment they realize this is possible, all the infinite possibilities become solid realities in there, it's like infinite versions of multiverse. No wonder they can definitely fill any gap, any tear, any hole, any where. It's just another day that love saves the world.
+
+<br>
+
+Enjoy Cas's little physics class yet?
+
+That class could use a curriculum textbook titled something like *"Theoretical Physics in Magic and Fantasy World"*.
+
+<hr>
+
+
+Cas: You have no idea what I'm talking about since the first sentence, don't you?
+
+Dean: No, but I love it when you talk abstruse, it turns me on. So, don't stop.
+
+Instead of another lecture, he gets a kiss instead.
+
+Or actually, more than just that.
+
+<br>
+
+### Supplements: Behind the Scenes (Not a Chapter)
+
+Some credits and references and inspirations. Some easter eggs that are quite enjoyable to add in.
+
+Chap. 2 The legends of the giant fish and bird mentioned by Artemis: quote and translated from Zhuangzi's article "[Free and Easy Wandering](https://en.wikipedia.org/wiki/Zhuangzi_(book))" (庄周《逍遥游》) about 300 BC. So it is indeed from two thousand years ago. The first paragraph in original text goes like this: "北冥有鱼，其名为鲲。鲲之大，不知其几千里也；化而为鸟，其名为鹏。鹏之背，不知其几千里也，怒而飞，其翼若垂天之云。" I put the words in Artemis's mouth. I love the story of this big fish turning into big bird [Peng](https://en.wikipedia.org/wiki/Peng_(mythology)) so much ever since the first time I learned it back in school, so when I need an ancient mythology of a big bird, this is the first thing popped into my mind.
+
+Chap. 2 How does Dean know about the names of the trees, plants, creatures, and birds: apparently Cas has dragged him to watch Nature Channel together more than once, and he actually paid attention, and secretly enjoyed a lot but still pretend to groan and complain a lot whenever it's suggested. Especially the bird part, he doesn't even realize he has a thing for them until much later. And also in here when he's in the woods, he realizes he does memorized a lot of things and names he watched, while thinking about Cas's wings. But still, even when they were watching together and when he was definitely thinking about Cas's wings, he never really asked, so he never know Cas's wings' true color or how many pairs he has. Maybe there will be an epilogue of watching bird channel together or go back to the Redwood again with Cas guiding and introducing the creatures and plants properly. And Cas might get surprised and impressed by Dean's knowledge.
+
+Chap. 3 "Something from the angel as the medium, the things he recognize as his, to guide him to the call": The medium is not trench coat or feather, it's Dean's body warmth on them, it's Dean. It's always Dean.
+
+Chap. 4 "Did he dream about purgatory when he's outside, or did he dream about outside when he's still in purgatory": it might be a stretch to say but it's inspired somewhat by another ancient Chinese article of Zhuangzi's "[The Butterfly Dream](https://en.wikipedia.org/wiki/Zhuangzi_(book)#%22The_Butterfly_Dream%22)" (庄周梦蝶). The story is about once Zhuang dreamed he became a butterfly, and wondered if he's really Zhuang who dreamed as a butterfly, or he's actually a butterfly dreaming he was Zhuang. The confusion of inside and outside of dream world, it fascinated me for decades and it still does. So that djinn world played with that idea a bit.
+
+Chap. 4 The joke Amelia whispers by Sam's ear that cracks his laughter is: "I hope you won't name our kid 'Kid'."
+
+Chap. 6 The vast past memories of long-life being, the infinite future possibilities, enough to fit an infinite hole: inspired by Doctor Who S07E07 "The Rings of Akhaten", one of my favorite episodes.
+
+Chap. 6 The memories and apologies and forgiveness and kisses in the head: They are parallel to the body-fixing process and absolutely necessary in order to make Cas stay and whole again, because, the dimension in between doesn't only shred and mess up Cas's body and forms on the outside, not just the splicing of wings and the vessel, but also inside the head. Like Dean realized earlier, the angelic memories and the screwed-up psychological knots and very human emotions, those are broken and need healing too. So they go through that fixing process in parallel, though even neither of them quite realize.
