@@ -144,7 +144,7 @@ so every time Cas fights hard to tear through dimension to get to this plane, to
 
 wings flutter -> rustle
 
-anchoring -> grounding
+~~anchoring -> grounding~~
 
 wince/grimace -> cringe
 
