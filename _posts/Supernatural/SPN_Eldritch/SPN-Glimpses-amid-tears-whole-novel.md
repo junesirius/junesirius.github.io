@@ -182,7 +182,9 @@ magnificent
 
 ### Summary
 
+Cas had mentioned too damn many times they had no idea if the portal would allow an angel to pass, but they'd agreed to try, together. And they did. Their hands held tight, no one let go. But just like every other long shot in their bloody lives -- the bleak hopes, the only plans -- it didn't work. They never do.
 
+It's a human portal, after all. It only works on pure humans, so it should be no surprise that it would try to parse out any human part to throw out Purgatory, leaving the rest behind. When an angel in a vessel has both, it means tearing him apart. Literally.
 
 ### Arts
 
