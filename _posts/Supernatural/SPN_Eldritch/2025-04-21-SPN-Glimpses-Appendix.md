@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【Destiel】Glimpses Amid Tears（Appendix）About the Physics（completed）
+title: 【Destiel】Glimpses Amid Tears（Appendix）About the Physics
 date: 2025-04-21 02:49
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
-tags: ["Supernatural", "destiel", "英文", "物理", "已完结"]
+tags: ["Supernatural", "destiel", "英文", "物理"]
 pov: 第三人称
 origin: 2025 SPN Eldritch Reverse Bang
 long_novels: 【Destiel】Glimpses Amid Tears
