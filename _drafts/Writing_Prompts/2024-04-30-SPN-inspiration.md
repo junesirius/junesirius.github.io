@@ -286,6 +286,8 @@ Cas怎么在昏迷中用尽力气才把自己灵魂拼起来，至少可以醒�
 
 （see more in S07E21-23观后感；~梗158，->梗201）
 
+（思维宫殿的部分在204《Glimpse》里用了）
+
 ### 26.【Cas】S07E21/23 失控的Cas在害怕崩溃中时间穿越【WIP - bang】
 
 谁知道一只崩溃失控的天使会做什么？也许会毁灭世界，也许会杀光所有恶魔甚至人类，也许会害怕得逃走，逃到时间流里，穿越到了不知道什么时代，Dean和Sam又怎么样才能重新找到他？只靠Meg坐在病床旁边看杂志又能起到什么效果？
@@ -1792,7 +1794,7 @@ what if Dean takes Michael's power, kills Lucifer, takes Lucifer's/Jack's power,
 
 canon Dean/Sam never even think about fixing Cas's wings, don't even realize it's a problem they need fixing, let alone researching any solution or asking for any superier power to help. Cas never raise any request regarding himself, so if they don't notice and mention to help, he'd never ask. But it's a part of his body, no different from human losing limbs, they should notice, he should ask, they should help to at least try to fix the issue, even if they end up not finding any solution
 
-### 204.【destiel】S08E01《Glimpses》【WIP - bang】
+### ~~204.【destiel】S08E01《Glimpses》【done】~~
 
 Cas stuck between dimensions and true form & vessel and become giant, haunts Dean, tries to find his way back
 
