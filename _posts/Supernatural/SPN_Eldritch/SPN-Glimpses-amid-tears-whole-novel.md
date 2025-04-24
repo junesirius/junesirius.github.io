@@ -340,7 +340,7 @@ Dean turns around, walking straight toward the door.
 
 "Sir, it's too dangerous to go outside in this weather!" One of the staff members calls after him.
 
-Dean doesn't look back. "I'm going," He says.
+Dean doesn't look back. "I'm going," he says.
 
 <br>
 
@@ -2409,7 +2409,6 @@ Enjoy Cas's little physics class yet?
 That class could use a curriculum textbook titled something like *"Theoretical Physics in a World of Magic and Fantasy"*.
 
 <hr>
-
 
 Cas: You have no idea what I've been talking about since the first sentence, do you?
 

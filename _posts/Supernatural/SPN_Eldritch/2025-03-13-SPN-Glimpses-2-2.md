@@ -10,94 +10,92 @@ origin: 2025 SPN Eldritch Reverse Bang
 long_novels: 【Destiel】Glimpses Amid Tears
 ---
 
-Artemis wasn't kidding when she said the trees were ancient old. Only has a few digits give or take on the specific age.
+Artemis wasn't kidding when she said the trees were ancient. Only a few digits off, give or take, on the specific age.
 
-The foresters say the oldest redwood in the park should be at least two thousand years old.
+The foresters say the oldest redwood in the park is at least two thousand years old.
 
 Dean walks into the woods.
 
-Surrounded by the trees towering over the land, rising into the sky, no human can avoid to be reminded of how tiny they are. Dean is no exception.
+Surrounded by the trees towering over the land, rising into the sky, no human can avoid being reminded of how tiny they are. Dean is no exception.
 
-He walks among them, awed and uneasy. He can't shake the feeling there are stares looking down at him from above -- not in the way like Cas's stares, but in a bad way like spiders monitoring preys. But he doesn't know if it's the trees themselves being too loud and alive, or something else perching on the top. The instinct makes the hairs on the back of his neck stand.
+He walks among them, awed and uneasy, taking it in slowly. He can't shake the feeling that eyes are looking down at him from above -- not like Cas's stares, but more like walking into a cobweb watched by massive spiders sitting in the center enjoying the view in silence. He doesn't know if it's the trees themselves, being too loud and alive, or something else perching on top. The instinct makes the hairs on the back of his neck stand up. He tries to slow his breath.
 
-The trunks of the redwoods sheer upwards, chapped and crannied, too thick to be encircled by probably a dozen of grown men. The crowns cover the sky, leaving the space in between gloomy, with only glitters of sunshine shaking with the shades of leaves on the ground.
+The trunks of the redwoods sheer upward, chapped and crannied, too thick to be encircled by probably a dozen grown men. The crowns block out the sky, leaving the space beneath them dim and gloomy, with only flecks of sunlight flickering through the shifting leaves.
 
-Dean walks deeper into the woods, eyeing around prudently, looking for some evidence of one certain giant feathery creature that is his friend.
+Dean walks deeper into the woods, eyeing around prudently, looking for any sign of one particular giant, feathery creature that is his friend.
 
-Birds fly in and out between the trunks, all the time. Big and small, red and white, chirping and humming. Woodhackers knocking on the bark, hummingbird lingering in the middle of air. Dean pays specific attention to those in black -- though, upon thinking about that, he doesn't really know the color of Cas's wings. He's only shown the shadow after all. He still imagines them shine starry black like the night sky.
+Birds dart between the trunks, all the time. Big and small, red and white, chirping and humming. Woodhackers knock against the bark, hummingbirds linger in midair. Dean pays special attention to the ones in black -- though, when he thinks about it, he doesn't actually know the color of Cas's wings. He's only ever shown the shadow of them after all. Still, he imagines them shining a starry black, like the night sky.
 
 Ravens and crows croak and squawk, soaring and gliding.
 
-But none of them are more than a few feet in size. And none of them have a celestial vibe in them.
+But none of them are more than a few inches in size. And none of them have a celestial vibe in them.
 
-Maybe legends are just legends, remain the mythology stories as they should be. There is no giant ancient bird, there might never have been. Dean sighs, bitterly, not entirely surprised but still feels the punch in the stomach. He wonders if it's time to admit his defeat in this phantom chase and call it a day.
+Maybe legends are just legends, meant to stay as mythological stories as they should be. There is no giant ancient bird, maybe there never was. Dean sighs, bitterly, not entirely surprised but still feels like a punch in the gut. He wonders if it's time to admit defeat in this phantom chase and call it a day. He starts looking for the way out.
 
-Hours passed, Dean finds himself still frustratingly circling round and round in the place. All the goddamn trees look exactly the same, tall and straight, featureless and faceless. He can't see a sign or man-made trail. Or any other living breathing human being in sight.
+Hours pass, Dean finds himself frustratingly circling round and round in the same spot. All the goddamn trees look exactly the same, tall and straight, featureless and faceless. He can't see a sign or a man-made trail. Or any other living breathing human being in sight.
 
-The sun is setting fast. The dull light in the woods in the daytime transitions into darker shades as the sun moves west, and then, the night falls.
+The sun is setting fast. The dim light of day in the woods transitions into deepening shadows as the sun moves west. And then, night falls.
 
-The charm and beauty of the woods fade away as soon as the utter darkness takes over. Nocturnal creatures wake up in the sounds of branches cracking and owls hooting. Creatures, perhaps monsters too.
+The charm and beauty of the forest vanish entirely as soon as utter darkness takes over. Nocturnal creatures wake up in the sound of branches cracking and owls hooting. Creatures, perhaps monsters too.
 
-Dean reaches for the blade and flashlight in his pocket automatically, grabbing tight, alerted. This is how the feeling of Deja Vu starts seeping into the reality.
+Dean reaches for the blade and flashlight in his pocket automatically, gripping them tight, alerted. This is how the feeling of deja vu starts seeping into reality.
 
-The rustling of trees, the eerie deep calls from above, echoed behind, hanging over him three hundred and sixty degree like a net. Everything so Purgatory-y that for a minute, he does seriously wonder if he somehow misstepped over the portal and has gone back to that nasty place again.
+The rustling of trees, the eerie deep calls from above, echo behind him, hanging over him three hundred and sixty degrees like a web. Everything feels so Purgatory-like that for a minute, he seriously wonders if he somehow mis-stepped through a hidden portal and went back to that nasty place again.
 
-The giveaway is the sounds of tiny small lives. Insects chanting clamorously in the grass, under the layers of fallen leaves and soil. Something small and nimble running and jumping around, climbing along the tree trunks, the sound of their clip-clops finely like rats on the floor, but it's probably squirrels or wild rodents. Purgatory doesn't have that many lives, all it has is monsters with fangs and claws and an appetite for fresh meat.
+The giveaway is the sound of tiny small lives. Insects chanting clamorously in the grass, under thick layers of fallen leaves and soil. Something small and nimble runs and jumps around, climbing tree trunks, the sound of their clip-clops fine like rats on the floor, but it's probably squirrels or wild rodents. Purgatory doesn't have that much live, all it has is monsters with fangs and claws and an appetite for fresh meat.
 
-Dean adjusts his gait, moving gingerly, trained and bridled. The light from the torch reaches no more than a few inches in front of him, before the light is eaten by the blackness and a thin white mist that is swiftly turning into thick dense fog.
+Dean adjusts his gait, moving gingerly, trained and bridled. The light from the torch reaches no more than a few feet in front of him, before being swallowed by blackness and a thin white mist that is quickly thickening into dense fog.
 
-And then there are sounds of wings fluttering. Air stirred, forming swirls of winds.
+And then there is the sound of wings fluttering. The air stirs, forming swirls of winds.
 
-For the tiniest moment, without thinking, Dean is thrilled. Turning around earnestly, he calls "Cas!"
+For the briefest moment, without thinking, Dean is thrilled. Turning on his heels earnestly, he calls, "Cas!"
 
-A big black bird crashes into the beam of his flashlight, wings so close to his face that they almost give him a slap. It's startled, flapping the wings hard and shoots past him, flying towards the tree crowns, melting into the darkness of the night.
+A big black bird crashes into the beam of his flashlight, its wings so close to his face they nearly give him a slap. Startled by the light, it flaps the wings hard and shoots past him, flying toward the treetops, melting into the darkness of the night.
 
-Dean noticed its crooked beak had a tear of fresh meat, still dripping blood. Must be a vulture, he thinks, enjoying its dinner in the wild wood.
+Dean notices its crooked beak held a shred of fresh meat, still dripping blood. *Must be a vulture,* he thinks, *enjoying its dinner in the wild woods.*
 
-Nothing supernatural, just the wild life, the *natural* rule of food chain. He warns himself. Could be just a dead animal from *natural* death, or the predator that is *also* just a *normal* wild animal killed and ate them.
+Nothing supernatural, just wildlife, the *natural* rule of the food chain. He warns himself. Could be just a dead animal from *natural* causes, or killed and eaten by a larger predator that's *also* just a *normal* wild animal.
 
-He points the flashlight upwards, squinting at the blackness, thinking where the bird has gone. The light dims before it reaches the closest tree. Beyond the illuminated range, Dean thinks he sees the shape of some huge dark wings, spreading out across and in between the trees, as big as the story says. He blinks, and the darkness is still just all black, no lines or shapes to see. He shakes his head, distrusting his own eyes.
+He points the flashlight upward, squinting into the blackness, wondering where the bird went. The light fades into the night before it reaches the closest tree. Beyond the illuminated range, Dean thinks he has a glimpse of the silhouette of some huge dark wings, spreading out across and in between the trees, as huge and wide as the legend claims. He blinks, and the darkness is still just all black, no lines or shapes stand out. He shakes his head, distrusting his own eyes.
 
-"Must be wishful thinking." He murmurs quietly, doesn't want to be heard by whatever is out there in the dark.
+"Must be wishful thinking," he murmurs quietly, not wanting to be heard by whatever might be out there in the dark.
 
-He walks in the direction where the vulture comes from. The copper smell of blood permeates the air.
+He walks in the direction the vulture came from. The coppery smell of blood gradually thickens, slowly saturating the air.
 
-Taking in a slow breathe and holding it, Dean flashes the light to the ground. Two human bodies lay there, long dead. Their bodies have become a wild animal bouquet, chest cut open, gut flow out, dragged across the land, leaving bloody trace on the fallen leaves and grass. Their eyes pecked away from the socket, leaving two dark empty spots.
+Taking in a slow breath and holding it, Dean shines the light on the ground. Two human bodies lie there, long dead. Their bodies have become a wild animal buffet, chests torn open, guts spilled, dragged across the earth, leaving a bloody trail through the leaves and grass. Their eyes have been pecked out, leaving two dark empty sockets.
 
-"God damn it!" Dean covers his nose with the hand holding the flashlight, following the bloody trace.
+"God damn it!" Dean covers his nose with the hand holding the flashlight, and follows the bloody trail.
 
-Another swing of black shadow of wings past him, barely out of the light but judging by the shape and size, it's a second vulture.
+Another shadow of black wings sweeps past him, barely beyond the light, but judging by its shape and size, it's a second vulture.
 
 Then a third.
 
 Then another.
 
-Another dozen.
+Another dozen, another hundred, another thousand.
 
-Another hundred.
+The farther he walks, the more he runs into. Wild wings flap around him like bats disturbed in a cave. Those raptors are practically bumping into each other now, whooshing and wheezing, pecking and jabbing, clutching and scraping. They are like bees from a shattered hive, moths drawn to flame, ducks startled in a pond, filling the space between the trees in a frenzied swarm. They fly around him, then at him. Beaks and claws strike, sharp as knives and blades, hard as iron hooks.
 
-Another thousand.
+Something is definitely not right. Dean doesn't watch the Nature Channel as much as Cas, but with what common sense he does have about wild creatures -- plus the few times that he gave up opposing and ended up watching with Cas in some motel -- vultures aren't supposed to attack living things, and they definitely don't travel in this large number of crowds. Scavengers eat leftovers, not hunting for fresh takeout, kinda like ghouls.
 
-The further ahead he walks, the more he runs into. Wild wings flapping around him like bats disturbed in the cave, the raptors are practically bumping into each other now. Whooshing and wheezing, pecking and jabbing, clutching and scraping, they are like bees from a fallen hive, moths around fire, ducks startled in the ponds, covering all the space in between the woods. They fly around him, then towards him. Beaks and claws attacking, sharp like knives and blades, hard like iron hook.
+And how the hell are there suddenly so many of them and so very deadly, and no one ever mentioned or noticed it?
 
-Something is definitely not right. Dean doesn't watch the Nature Channel as much as Cas, but with the common sense knowledge that he does have about the wild creatures -- plus the few times that he does give up opposing and end up watching them with Cas in the motel -- vultures don't attack living things, and certainly do not travel in this large number of crowd. Scavengers eat leftovers, not looking for fresh takeout, kinda like ghouls.
+Dean waves the blade at the few getting too close to his face, shouting loudly to shoo them away. But it is in vain, doesn't even remotely scare them. The ones hit by his blade flinch back, but more immediately fill their place, coming at him fiercely, claws cutting into his skin, beaks mere inches from pecking his eyes out.
 
-And how the hell there are suddenly so many of them and so very deadly, and no one ever mentioned.
+He covers his face with his arms, feeling his jacket and shirt on the outer side of his arms and back ripped quickly, skin torn and pulled, flesh gouged, blood streaming hot. His hand still grips the demon blade, but he has no idea what good one blade does against a thousand wild human-killing flesh-eating vultures. He doesn't even have a single chance to outrun them. The bloody things have wings.
 
-Dean covers his face with arms, feeling the jacket and shirt on the outer side of his arms and back being ripped quickly, skin torn and pulled, flesh gouged, blood streaming hot. His hand still fastens on the demon blade, but he has no idea what's the good of one blade in the face of a thousand wild human-killing flesh-eating vultures. He doesn't even have a single chance to outrun them. The bloody things have wings.
+Dean had done his fair share of research before entering the woods, just to be sure. As eager as Dean was to come into the place searching, he knows how to do his job, so he came prepared -- the best he could, just in case the story of the giant bird turned out to be something in his wheelhouse and needs to be killed. Bird-like flying thing with wings, it could be an angel, *the* angel, but it could also be a Harpy (a half-human half-bird creature from Greek myth), or Thoth (god of moon with a head of an ibis from Egypt), or a Valravn (a magical supernatural big raven from Danish folklore), or one of several other options. From what he read, silver knives and iron blades for decapitation should work well on most of them, while some others could use a stab to the heart to stop the kicking. He memorized the incantations for the very rare ones that needed spellwork to cast away. He had walked into this forest of redwoods with confidence.
 
-He did his valid share of research before entering the woods, just to be sure. As much as Dean is eager to come into the place searching, he knows how to do his job, so he comes prepared -- the best he can, just in case the story of the giant bird is something in his expertise and needs to be killed. Bird-like flying thing with wings, it can be angel, but it also can be Harpy (half-human half-bird creature from Greek), Thoth (god of moon with a head of ibis from Egypt), Valravn (magical supernatural big raven from Danish), or a few other options. From what he reads, knives and blades for decapitation should work well enough for most of them, so he walks into this forest of redwoods.
+He never thought it would be this. Nothing really too supernatural, if not counting the sheer number, it's just freaking wild animals. Vultures. Countless of them. *Really should be careful what you wish for.*
 
-He never thinks it would be this. Nothing really too supernatural, if not counting the number, it's just freaking wild animals. Vultures. Countless of them.
+In the frantic sound of wings flapping, in the middle of being devoured and eaten alive, Dean thinks of the bug case all those years ago. The one with the Native American curse, one of the very few where he and Sam never really solved the root of the problem. They helped the family live through the day, wear through the night; all they could do was manage not die, wait out until the sun rose, nothing but to wait for the bugs to retreat on their own. The curse from the native Americans, the nature did all the bidding and revenge -- they could do absolutely nothing to fight it. And Dean could have died at the age of twenty-six, because of bugs.
 
-In the frantic sound of wings flapping, in the middle of being devoured and eaten alive, Dean thinks of the bug case all those years ago. The case with Indian curse, the very few case he and Sam never really solved. They helped the family live through the day, wear through the night until the sun rise, and the bugs retreated to where they were. The curse from the native Indians, the nature does the revenge -- they could do absolutely nothing to fight the nature, and he could have died at the age of twenty-six, because of the bugs.
+And now, here he is. After the archangels, after the leviathans, and vampires, and werewolves, after all the monsters Purgatory could come up with and throw at him and he walked out fine and intact, *this* is the thing that gets him finally. He doesn't have the faintest idea how to possibly fight back against mother nature that throws a thousand vultures on him.
 
-And now, here he is. After the archangels, after the leviathans, and vampires, and werewolves, after all the monsters the Purgatory could come up with and throw on him and he walked out fine and intact, *this* is the thing that gets him finally, and he don't even remotely have any idea how to possibly fight the mother nature.
+Dean lowers his body, curling up instinctively, trying to protect his internal organs. He can barely feel the pain from where the beaks pierce -- he might not have much skin left to pass the sense of pain to the brain. He can feel those bloody birds cutting through his flesh like knives through butter, peeling and pulling his skin, gouging and poking his scalp, wrenching and dragging tendons, digging and jabbing as deep as bones.
 
-Dean lowers his body, curling up instinctively, trying to protect his internals. He can barely feel the pain from the places the beaks peck, probably because he might not have much skin left to pass the sense of pain to the brain. He can feel the bloody birds cutting through his flesh like knives on butter, peeling and pulling his skin, gouging and poking his scalp, wrenching and dragging tendons, digging and jabbing as deep as bones.
+He doesn't feel much pain, gradually. He only feels hot and warm across his skull, cold and wet on his back. He smells blood and flesh, he hears the sound of his own flesh being pulled away from his body bit by bit. A vulture flies off with its trophy and the next one dives in for their turn of bite at the buffet. He thinks of those two corpses he saw earlier, knowing far too clearly he has witnessed his own future already.
 
-He doesn't feel pain. He feels hot and warm on the skull, cold and wet on the back. He smells blood and flesh, he hears the sound of his own flesh being pulled away from his body, and there is a vulture flies away with its trophy and the next one comes for their turn of bite.
+"I'm going to die," he shuts his eyes tight, thinking, miserably. "I'm going to die like an old dog in the wild, eaten clean by some birds. Not even any bone left behind. God, no one will even know how. Sam might find the car, and Cas... Oh Cas..."
 
-"I'm going to die." He shut his eyes tight, thinking, miserably. "I'm going to die like an old dog in the wild, eaten clean by some birds, without any bone left. God, no one would even know. Sam might find the car, and Cas... Oh Cas."
-
-Dean feels his chest tight, a sob choked in the throat, hard to breath.
+Dean feels his chest seize, a sob choked in his throat. He can't breathe.

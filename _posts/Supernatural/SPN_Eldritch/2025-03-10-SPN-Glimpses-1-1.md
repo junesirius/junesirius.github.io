@@ -10,56 +10,62 @@ origin: 2025 SPN Eldritch Reverse Bang
 long_novels: 【Destiel】Glimpses Amid Tears
 ---
 
-Dean slams on the gas hard, the stolen car roars in exhaustion, kicking up the dirt along the way. Dean rolls the window down, not caring the dirt flowing in and out. Not like they could make his face any dirtier than he already is. Not like there is any place on Earth can get any dirtier than the place he just came back from.
+Dean slams on the gas hard. The stolen car roars in exhaustion, kicking up dirt along the way. He rolls the window down, not caring about the dust flowing in and out. Not like it could make his face any dirtier than it already is. Not like any place on Earth can get any dirtier than the place he just came back from.
 
-The night road stretches, ahead, and broad on both sides. Empty. No sight of another human being, not a single passing car. The frogs shout loudly in the bushes along the road.
+The night road stretches ahead, wide on both sides. Empty. No sight of another human being, not a single passing car. Frogs croak loudly in the fields along the road.
 
-Dean just stares at the road, and drives. Like it's the only thing he can think of. It's the only thing he can still trust himself to do, without causing any harm.
+Dean just stares at the road, and drives. Like it's the only thing he can think of. It's the only thing he can still trust himself to do, without breaking anything, or losing anything, again.
 
-He drives on the freeway from the 100-miles wilderness in Maine, to west, to south, to anywhere the road leads him to. He drives, so he doesn't need to think, or talk, or eat, or sleep. As if it can just last so long, that all the things he left behind, all the things he just lost, would never catch up.
+He drives on the freeway from the hundred-mile wilderness in Maine, to west, to south, to anywhere the road leads him to. He drives, so he doesn't need to think, or talk, or eat, or sleep. As if, if the road can continue stretching and the driving can last long, then all the things he left behind, all the things he just lost, might never catch up.
 
 <br>
 
-They still catch up. Of course they do. The images and sounds and smells of that filthy place. The memory of everything happened in the past year. They catch up to him and roll him over, like a snake coils around his prey before devouring the food in whole when they are still alive. Dean is the food and prey of the anaconda conjured by his own brain, made up of this bitter bloody thing called "memory".
+They still catch up. Of course they do. The images and sounds and smells of that filthy place. The memories of everything that happened in the past year. They catch up to him, close in around him, like a snake coiling its prey before swallowing it whole while it's still alive. Dean is the prey, the meal of a serpent conjured by his own brain, made from that bitter, bloody thing called "memory".
 
-"Dean --" He remembers Cas calling his name. Desperate. His eyes on him. His hands in his. His whole life and trust and everything he carries, all put in the hands they held together. Dean saw them all in Cas's eyes, heard them all in his voice. Dean grasped him tight, and didn't let go.
+"Dean --" He remembers Cas calling his name. Desperate. His eyes on him. His hands in his. His whole life and trust and everything he carried, all put in the hands they held together. Dean saw it all in Cas's eyes, heard it all in his voice. Dean grasped him tight, and didn't let go.
 
-The palms were slippery with blood and sweat. Every inch of his muscle in arms and backs pained with the stress. Cas's whole weight leaned onto him. And Dean held him tight, just as desperate, like the whole world was on the hands he held, because it might as well is.
+Their palms were slick with blood and sweat. Every inch of his muscle in Dean's arms and back screamed in stretched strain, the stress sharpened into pain quickly, but he didn't let go. He didn't. Cas's full weight leaned on him, depended on him. So Dean held him tight, just as desperate, as if the whole world rested in the hand he held, because it might as well was.
 
-And then, it stopped. The weight disappeared. The hands loosened. They stepped over the portal together, Dean fell onto the solid ground of the sweet Earth, and two feet besides him where Cas was, it was just a blast of bright light, and then, there was nothing.
+And then, it stopped. The weight disappeared. The hands loosened. They stepped over the portal together, Dean remembered agonizingly clearly, he fell onto the solid ground of sweet Earth, and two feet besides him where Cas should be, there was only a blast of bright light, and then, there was nothing.
 
-He heard Cas's scream, whether it's his human voice pitching too high or it's his shrieking angel voice, he already couldn't tell. All he saw was the silvery light of Cas's grace exploded in front of him, his last voice broken and painful. He yelled for him for the last time, then he was not there anymore. Nowhere to be found.
+He heard Cas scream, whether it's his human voice pitched too high or his angel voice shrieking, he couldn't tell. All he saw was the silver flare of Cas's grace exploding in front of him, torn apart at the moment of passing. His final cry broken, his last sound painful. He yelled for him one last time, then he was not there anymore. Nowhere to be found.
 
-Dean yelled the angel's name, he would have torn the reality a hole right then and there if he knew how, just to tear open the portal again, to see if Cas fell back into the Monsterland. He would jump back into the place to get Cas back, he swore, just like he had told him, the bottom line is, they are going home together, and he wouldn't leave if Cas is not here with him.
+Cas had mentioned too damn many times they had no idea if the portal would allow an angel to pass, but they'd agreed to try, together. And they did. But just like every other long shot in their bloody lives -- the bleak hopes, the only plans -- it didn't work. They never do.
+
+Dean yelled Cas's name, shouted until his throat hoarse. He would have torn reality a hole right then and there if he knew how, just to tear open the portal again, to see if Cas had fallen back into the Monsterland. He would've jumped back into the place to get Cas back, he swore, just like he had told him, the bottom line was, they were going home together, and he wouldn't leave if Cas is not here with him.
 
 But promises are empty, swears fall into nothing. He is here, and Castiel is not.
 
-Dean stares hard at the front of the windshield, staring at the road so hard and rigid without blinking that it almost starts making his eyes watery. Cas should be here, by his side, sitting in the shotgun. And they should go home, together.
+Dean stares hard at the front of the windshield, gazing at the road so hard and rigid without blinking that it starts making his eyes watery. Cas should be here, by his side, riding shotgun. They should be going home, together.
 
-Dean punches the wheel, swearing and cursing. The first hint of the sunrise emerges from the end of the road, piercing right into his eyes. He blinks in the sudden light, the golden color looks nothing like Castiel's grace but light is light. Dean blinks again, the dried eyes finally condense enough moisture at the corner that threatens to drop.
+Dean punches the wheel, swearing, cursing. The first hint of sunrise emerges at the end of the road, piercing right into his eyes. He blinks at the sudden light, the golden color looks nothing like Castiel's grace, but light is light. Dean blinks again, the dry eyes finally gather enough moisture at the corner that tears threaten to fall.
 
-Dean wipes the eyes with the back of his hands. The wetness mixes with the dirt and dried blood stains that still cover his hands, making a mess. He presses the accelerator pad harder, urging the vehicle forwards, as if he's rushing to a destination where he knows where to go.
+Dean wipes his eyes roughly with the back of his hand. The dampness mixes with the dirt and dried blood still caked on his skin, making a mess. He presses harder on the gas, urging the car forward, as if he's rushing toward a destination, as if he knows where to go, or where to find Cas.
 
-"You are not dead, Cas." Dean growls at the empty road ahead of him. "You're not gone, I know that. Just blown away by the portal or something. I'll get you back, Cas, I promise. I can find you in the Purgatory, I'll find you again."
+"You are not dead, Cas." Dean growls at the empty road ahead. He's not gone, he *knows* that. Just blown away by the portal, or something like that. *I'll get you back.* Dean promises. *I found you in Purgatory, I'll find you again.*
 
-The car rolls ahead in a louder engine moan, speeding on the road that is lightened up by the newborn sun.
+The car rumbles forward in a loud engine moan, speeding down the road that is slowly lighting up under the newborn sun.
 
 <br>
 
-All of Sam's cellphones are offline, Dean tries every single one that he can remember, but pretty much always get a robotic voice telling him empty service or empty number, barely even any having Sam's recorded voice played out, asking for a voicemail. He tries his own old cells too, no difference.
+All of Sam's cellphones are offline. Dean tries every single one that he can remember, but pretty much always gets a robotic voice telling him empty service or empty number, barely even any having Sam's recorded message playing out, asking for a voicemail. He tries his own old cells too, no difference.
 
-It takes three days to track Sam down again. The patterns and old habits die hard, traces scattered around like bread crumbs. He rolls into the small town of Kermit, Texas, parking in front of the white fence house.
+It takes three days to track Sam down again. Patterns and old habits die hard, traces scattered around like breadcrumbs. He rolls into the small town of Kermit, Texas, parking in front of a white-fenced house.
 
-Thin white curtain with laces half covers the room. He glances inside.
+Thin white curtains with laces half cover the room. He glances inside.
 
-Sam stands by a woman, holding her close. The two of them are kissing, gently. The rest of the time, they are just holding each other together, his hands on her shoulder, hers on his waist, simply having their foreheads pressed together, breathing each other's breathe, as if dancing to an old classic waltz.
+Sam stands with a woman, holding her close. The two of them are kissing, gently. Most of the time, they are simply holding each other, his hands on her shoulders, hers around his waist, their foreheads pressed together, breathing each other's breath, like  people slow dancing to an old classic waltz.
 
-The white-fence apple-pie life they had talked about, sometimes dreamed out, never once really believed can be theirs.
+Dean looks at this white-picket-fence apple-pie life they used to joke about, sometimes dream about, never once truly believed could be theirs.
 
-Dean drives away, leaving the house in his rearview. They even have flowers with small purple blossoms in the garden, poking out between the fence, in the early winter chillness of October.
+He drives away. Leaving the house in his rearview.
 
-Dean leaves the town after the midnight -- but not before he sneaks into the garage and drives away with his canvas-covered impala. The keys hang by the garage door.
+They even have flowers with small purple blossoms in the garden, poking out between the fences, oblivious to the early winter chill of October.
 
-*You get a home now, at least let me have mine.* Dean thinks, wondering for a minute how long it would even take before Sam notices the impala isn't where it was. For a brief moment, he wonders if this is exactly how Sam feels, when he spent time with Lisa right when he came back from the Cage.
+Dean leaves town after midnight -- but not before he sneaks into the garage and drives away in his Impala. The Baby was covered under a neat canvas. The keys hung by the garage door.
 
-He leaves the town under the starry sky, the road empty and vast like it always is these days.
+*You get a home now, at least let me have mine.* Dean thinks as he settles into the familiar driver's seat, reversing onto the road, wondering for a minute how long it will even take before Sam notices the Impala isn't where it was. For a brief moment, he wonders if this is exactly how Cas felt, seeing him with Lisa right when he was knee-deep in trouble but not having the heart to knock on that freshly painted door.
+
+You don't knock on a door like that, not with hands that can never wash clean of layered, dried bloodstains.
+
+He leaves the town under a starry sky, the road empty and vast, like it always is these days.

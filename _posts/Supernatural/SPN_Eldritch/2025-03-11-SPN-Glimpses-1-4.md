@@ -20,11 +20,13 @@ Cutting.
 
 Confusing.
 
-Everything is pieces.
+Everything is in pieces.
 
-Just pieces.
+Then they are not.
 
 Floating.
+
+Swimming.
 
 Chaotic.
 
@@ -32,35 +34,35 @@ The dimension in between.
 
 <br>
 
-It takes time, really long time to find the pieces together.
+It takes time, a really long time, to find the pieces together.
 
-But what is time, when time is not a dimension.
+But what is time, when time is not a dimension?
 
-When time, can also be torn apart, like everything else, in this dimension.
+When time, can also be torn apart, like everything else in here.
 
 Words are difficult to find, with characters and syllables.
 
-Mind and body and grace and existence.
+Mind and body and grace and existence alike.
 
-Which is the right place, for which piece of puzzle, floating by.
+Which is the right place, for which piece of the puzzle, floating by.
 
-Woven, with the pain and bitter and guilt and penance.
+Woven, with pain and bitterness and guilt and penance.
 
-Kneading, into every fabric.
+Kneaded, into every fabric.
 
 Every fabric of the dimension.
 
-Of my existence.
+Every fabric of one existence.
 
-Who is building me up this time?
+*Who is building me up this time?*
 
-Not God. Me.
+*Not God. Me.*
 
-I'm putting me together.
+*I'm putting me together.*
 
-But, then, Theseus's Ship,
+*But, then, Theseus's Ship,*
 
-Who am I?
+*Who am I?*
 
 <br>
 
@@ -72,9 +74,11 @@ Lights are out.
 
 Tear it down.
 
-The voice says.
+No,
 
-Tear it open, the light is on the other side.
+Tear it open.
+
+The light is on the other side.
 
 <br>
 
@@ -84,14 +88,24 @@ Snow and cold.
 
 Pain and real.
 
+Torn and broken.
+
+*I see you.*
+
 <br>
 
-Hello.
+*Hello.*
 
-Sorry.
+*I'm sorry.*
 
 The lights are out again.
 
 The curtain is drawn back.
 
-Good night.
+Too quick, too short.
+
+Back, dark, torn, away.
+
+*Don't cry.*
+
+*Goodbye.*
