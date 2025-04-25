@@ -13,7 +13,7 @@ published: false
 
 [TOC]
 
-(tags: S06E18, Canon Divergent, Time Travel, Wild West, Angst, mutual pining, canon-typical violence, western-typical violence, classic old western movie references, true form Castiel, Butch Cassidy and Sundance Kid, Tombstone, Clint Eastwood, time flux, Dean's western life, Cas's western life, road trip on horseback)
+(tags: S06E18, Canon Divergent, Time Travel, Wild West, Angst, mutual pining, canon-typical violence, western-typical violence, classic old western movie references, true form Castiel, Butch Cassidy and Sundance Kid, Tombstone, Clint Eastwood, Dean's western life, Cas's western life, road trip on horseback)
 
 (Rating: Mature)
 
@@ -90,7 +90,29 @@ Just how many gangsters has he run into before? Dean finds himself wondering.
 
 **Updated posting preview snippet**
 
-<u>**[TBA]**</u>
+"So, you finally decide to move on?" Elkins gives him a once-over.
+
+Dean has a red bandana wrapped around his mouth. He's changed into a new shirt and pants -- new for him, old for the clothes -- dirt and stains making him look exactly like the rest of the folks in the place.
+
+*The look of a pilgrim,* Dean realizes.
+
+He doesn't answer. Just strides straight into the room, heading directly for the bartender they've grown familiar with over the past couple of days. Dean lets out a breath, tasting a tad of bitterness lingering on the tip of his tongue.
+
+Drawing the pistol from the holster at his waist in a smooth swing, he fires three shots into the ceiling. Some girls scream behind him.
+
+Elkins looks at him, reaching for something hidden beneath the bar stand. Supposedly a shotgun.
+
+"I suggest not." Dean shifts his aim toward him. The bartender stops moving, hands slowly rising.
+
+"What's this about?" The old man is still surprisingly chill, not even showing much curiosity.
+
+*Just how many gangsters has he run into before?* Dean finds himself wondering.
+
+"What every outlaw around here wants," he says, aiming for a deep, grave voice. "You got any hidden treasure around here? Gold would do too."
+
+"At least leave me a name to pass your story along?" Elkins slowly reaches for a side drawer in his gaze. The gold he offers includes some of the very pieces they paid for their meals over the past few days. Dean has to push down the unease.
+
+"Eastwood. Clint Eastwood. Best gunner in the western world," Dean tells him, with a mocking smile.
 
 ### Loophole fix
 
@@ -126,7 +148,7 @@ some town names:
 
 ~~passing line: Dean hates he can't use cellphone, really want to have a call to make sure people he care about are safe~~ (give the line to Cas)
 
-Chap.7: Major rewrites, don't like it, too emotionally remote and abrupt, and spoil the future events → pretend only knows so far until S06E18, but give hopeful ending that *maybe* when all is done, that's the thing they can have, in the end
+~~Chap.7: Major rewrites, don't like it, too emotionally remote and abrupt, and spoil the future events → pretend only knows so far until S06E18, but give hopeful ending that *maybe* when all is done, that's the thing they can have, in the end~~
 
 (phrasing) saloon girls: "with practiced cheer"
 
@@ -532,9 +554,9 @@ Dean grins. "Read the newspaper."
 
 <br>
 
-"So, you finally decide to move on?" Elkins gives him a once-over. "Where's your brother?"
+"So, you finally decide to move on?" Elkins gives him a once-over. "Where's the other tall guy?"
 
-Dean has a red bandana wrapped around his mouth. He changed into new shirt and pant -- new for him, old for the clothes -- dirt and stains making him look exactly like the rest of the folks in the place.
+Dean has a red bandana wrapped around his mouth. He's changed into a new shirt and pants -- new for him, old for the clothes -- dirt and stains making him look exactly like the rest of the folks in the place.
 
 *The look of a pilgrim,* Dean realizes.
 
@@ -542,7 +564,7 @@ He doesn't answer. Just strides straight into the room, heading directly for the
 
 Drawing the pistol from the holster at his waist in a smooth swing, he fires three shots into the ceiling. Some girls scream behind him.
 
-Elkins looks at him, reaching for something hidden underneath the bar stand. Supposedly a shotgun.
+Elkins looks at him, reaching for something hidden beneath the bar stand. Supposedly a shotgun.
 
 "I suggest not." Dean shifts his aim toward him. The bartender stops moving, hands slowly rising.
 
@@ -1782,8 +1804,6 @@ Cas breathes out, waiting for a furious blow. Only to find Dean's look intense, 
 
 <br>
 
-So they do.
-
 They find Sam in Samuel's place, the two of them are adding extra sigils to the hut. They argue a lot, just like all the familiar bickering with Bobby. The squabbles are sour and bitter, but funny in its own way. Their heads leaning close over a sigil on one of the books, immediately start arguing the correct interpretation. They paint the symbol together, doing some ritual and magical experiments. Unsurprised to see it not working. Then they move on to test the next theory. The bottle of whiskey on Samuel's writing desk is emptied, there are two glasses there.
 
 Sam hates to leave as much as back when he was still at school and Dean or their dad had to tell him they're moving again.
@@ -1850,6 +1870,6 @@ He falls into sleep with a quiet smile.
 
 (Or not exactly, Dean's western fame gets kept in history, legends of himself becomes a cowboy story, exaggerated but he's amused, secretly really love it)
 
-Major rewrites!! don't like it, too emotionally remote and abrupt, and spoil the future events → pretend only knows so far until S06E18, but give hopeful ending that *maybe* when all is done, that's the thing they can have, there will be peace in the end
+~~Major rewrites!! don't like it, too emotionally remote and abrupt, and spoil the future events → pretend only knows so far until S06E18, but give hopeful ending that *maybe* when all is done, that's the thing they can have, there will be peace in the end~~
 
 ###### End
