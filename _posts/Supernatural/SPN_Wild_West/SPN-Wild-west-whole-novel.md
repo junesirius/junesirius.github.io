@@ -170,11 +170,11 @@ Add an epilogue? follow-up of Butch Sundance, potential change to the movie? a p
 
 > **Outline:** Dean&Sam gets phoenix's ash by noon, bell rings, but Cas doesn't come, they can't get back. Some more time passes, they realize something must have happened to Cas and now they get stuck in the Frontierland and have to figure out what to do. They start living like the locals, blend in as cowboys, get used to it, Dean is the town sheriff.
 
-Eyes unblinking, gun raised, not for a split second does Dean think he might be too slow. Then the sound of gunshot echoes, the phoenix burns with bright golden light, and turns into a pile of ashes.
+Eyes unblinking, gun raised, not for a split second does Dean think he might be too slow. Then the sound of the gunshot echoes, the phoenix burns with bright golden light, and turns into a pile of ashes.
 
 He still gets this. Dean beams to himself.
 
-The clock bells the tone of high noon. The sound shaking him out of the mist of contentment.
+The clock bells the tone of high noon, the sound shaking him out of the mist of contentment.
 
 "Dean! The ashes!" Sam yells behind him, following by several steps.
 
@@ -234,7 +234,7 @@ He empties the glass and stands up. "Yeah ok, let's go." Then adds, "But not her
 
 "What's wrong with here?"
 
-Dean's eyes sweep through the saloon girls gathering and giggling around the base of the staircase, the sounds of cheap bed shaking are remotely audible. His gaze lands back on Sam, raising his eyebrows that can speak by themselves: *Serious?*
+Dean's eyes sweep through the saloon girls gathering and giggling around the base of the staircase, the sounds of cheap beds shaking are remotely audible from upstairs. His gaze lands back on Sam, raising his eyebrows that can speak by themselves: *Serious?*
 
 Sam hums. "Good point."
 
@@ -264,7 +264,7 @@ Dean breaks the gaze, impatient. "So what? You think Cas's just gonna dump us in
 
 "What? No!" Sam raises an eyebrow. Dean is muted for a second, frowning at him. "Yeah? I mean -- not like this!"
 
-He trails off, giving their surroundings a closer look. The bars, the officer's wooden desk, a couple of lousy chairs, the walls with peeling paper, some random jacket and whip or something scattered around, rifles and shotguns standing at the corner. The air smells of dust and horse.
+He trails off, giving their surroundings a closer look. The bars, the officer's wooden desk, a couple of lousy chairs, the walls with peeling paper, some random jacket and whip or something scattered around, rifles and shotguns standing in the corner. The air smells of dust and horse.
 
 "Not like this." He lands on it, going back to check the drawers under the desk. "Cas will come, I assure you. Just give him a bit of time. He'll come. He always does."
 
@@ -312,7 +312,7 @@ The horses Elkins pointed them to belong to the late Judge and old Sheriff. One 
 
 "Dean, I don't think she'd ever known you," Sam snorts.
 
-Dean gives him a stern look. "You don't know that." He shifts the attention back to the beauty, its muscle strong and warm under his palm. "We might have met in our previous lives or something. Tell me she's not exactly like Baby to you?"
+Dean gives him a stern look. "You don't know that." He shifts the attention back to the beauty, its muscles strong and warm under his palm. "We might have met in our previous lives or something. Tell me she's not exactly like Baby to you?"
 
 Sam tilts his head, regarding the horse, the tip of his lips curling. "Hmm." he has to agree.
 
@@ -320,7 +320,7 @@ The other tan-brown horse with a white stripe on its nose decides to throw a tem
 
 <br>
 
-They don't really have anywhere in mind to go, with the horses. But they are still over delighted to have them. Dean, especially.
+They don't really have anywhere in mind to go, with the horses. But they are still overdelighted to have them. Dean, especially.
 
 Days later, when he's grooming the Baby -- of course he has to name her after the real Baby -- Sam tells him, chuckling, "You have any idea how much it's like watching you wash the car?"
 
@@ -334,7 +334,7 @@ Sam's chuckle fades. The silence makes Dean glance back warily.
 
 "Since March the fifth," Dean says for him. "Since the day the phoenix died and Cas was supposed to meet us. Yeah I remember. Kinda hard to forget, don't you think?"
 
-The glass bottle of phoenix ash is still tucked under his jacket, just in case if he has to be pulled away in a hurry, he'd make sure the reason why they're here in the first place wouldn't get lost.
+The glass bottle of phoenix ash is still tucked under his jacket, just in case he has to be pulled away in a hurry, he'd make sure the reason why they're here in the first place wouldn't get lost.
 
 Sam swallows, giving Dean a quick glance, a little sheepishly. "So is it time we finally start talking?"
 
@@ -376,11 +376,11 @@ Bobby runs out of ideas.
 
 There might be a spell or something useful in the books. Bobby jumps back into the familiar realm, diving into the lore and magic, looking for something that may remotely give some hope, of either bringing the boys home himself or waking up the angel.
 
-He had wrapped a bandage around Cas's abdomen, trying vainly to stop the angelic bleeding. Not gonna do anything to the celestial creature in his true form, sure, Bobby figured that, but maybe healing the vessel might just help him recover a little faster? With a jack pile of nothing by hand, all he can do is hope.
+He had wrapped a bandage around Cas's abdomen, trying vainly to stop the angelic bleeding. Not gonna do anything to the celestial creature in his true form, sure, Bobby figured that, but maybe healing the vessel might just help him recover a little faster? With jack squat by hand, all he can do is hope.
 
 And pray.
 
-He has to pray for all of them now. But if not to Cas, to who?
+He has to pray for all of them now. But if not to Cas, to whom?
 
 Glancing at the bloody sigil with Cas's fingerprint that is visibly gradually drying out, it can be a big mistake. Bobby downs a glass of whiskey before doing that.
 
@@ -412,13 +412,13 @@ He slams Castiel's collar, shaking him much more violently. "You gotta wake up, 
 
 Cas lets out a pained groan.
 
-Bobby loosens the grip, easing him backdown. "Cas?"
+Bobby loosens the grip, easing him back down. "Cas?"
 
 Exhaling sharply, Castiel wakes up. Eyes opening slowly, staring straight into the space in front of him, blank, then onto Bobby's screwed-up face, confused.
 
 He frowns deep, trying to pull himself up from the sofa but wobbling so much that he crashes back down the second he puts weight on his legs.
 
-"There he is." Bobby breathes out, not exactly relieved but at least lighter than the past seventy something hours. He lends a hand to help Cas balance. "What happened?"
+"There he is." Bobby breathes out, not exactly relieved but at least lighter than the past seventy-something hours. He lends a hand to help Cas balance. "What happened?"
 
 Castiel tears open the bandage, palm covering the wound. Light and human blood mix together, seeping out from between his fingers. Grimacing, he tells Bobby with a furrowed frown, "I was, uh... I was attacked. Betrayed by one of our own."
 
@@ -428,13 +428,13 @@ Castiel probably doesn't get the reference, he answers anyway. "Rachel -- I had 
 
 "You mean that finger painting? What's with the artwork?" Bobby eyes the sigil that he has stared at for so long these past few days that he'd already memorized the thing. It's barely visible now. Barely anything more than a smudged bloodstain.
 
-Cas follows his gaze, his frowns deeper. "Is there any other angels coming around this place while I was unconscious?" he glares at Bobby.
+Cas follows his gaze, his frown deepening. "Is there any other angels coming around this place while I was unconscious?" he glares at Bobby.
 
 Bobby shrugs. "Not that I know of."
 
 Cas looks into him, voice graver. "Did you... pray to them?"
 
-Bobby tilts his head, having a bad feeling but has to defend himself. "Well, you were out, boys need a ride home, what else was I supposed to do? So yeah, distress call."
+Bobby tilts his head, having a bad feeling yet has to defend himself. "Well, you were out, boys need a ride home, what else was I supposed to do? So yeah, distress call."
 
 Cas looks like he was about to snap, but decides at the last second to turn it into a sigh. His lips thin into a line. "You might've just put both of us in extreme danger -- me especially. Raphael might've already heard it and find where I am, could already be closing in. I could be dead any minute now if it's not still shielding me."
 
