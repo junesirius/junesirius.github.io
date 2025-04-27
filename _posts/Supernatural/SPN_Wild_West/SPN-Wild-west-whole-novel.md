@@ -1178,7 +1178,7 @@ A middle-aged madam enters the room. "Wouldn't move if I were you," she says, pu
 
 "Where am I?" Cas frowns.
 
-"Slick Jim's Saloon," the woman answers, her back facing him as she fumbles with something. "Deputy found you unconscious just outside town and brought you him. Thought you'd be dead with all those wounds and blood, but look at you, still breathing. What happened?"
+"Slick Jim's Saloon," the woman answers, her back facing him as she fumbles with something. "Deputy found you unconscious just outside town and brought you in. Thought you'd be dead with all those wounds and blood, but look at you, still breathing. What happened?"
 
 "I was... in a fight." The memory of the time dimension surfaces. The wingspan of Raphael that covered half the space, casting glooming shadows over him, still gives his thoughts a shudder of uneasiness. It must have been when he fell into the time flux and got carried here.
 
@@ -1186,7 +1186,7 @@ A middle-aged madam enters the room. "Wouldn't move if I were you," she says, pu
 
 "He won't follow me here," Cas tells her. Which is true, more or less, until he uses his grace and Raphael finds the traces and catches up again, eventually. Cas wonders how much time he can have before that happens, and more importantly, if he can find Dean and Sam first. The thought of them floating lost in history makes him grimace, distracted from the physical wounds for a brief moment.
 
-The woman must has mistaken his grimace for pain, leaning over to lower the blanket and check the bandages. "You got a name?"
+The woman must have mistaken his grimace for pain, leaning over to lower the blanket and check the bandages. "You got a name?"
 
 Cas thinks for a second. "Clarence," he tells her. "Clarence Novak."
 
@@ -1200,9 +1200,9 @@ The layers of bandages come off, the pieces closest to his skin are soaked in bl
 
 "That enemy of yours pretty much cut you in half," Alice comments.
 
-"I believe that was his intent, yes," Cas agrees in murmur.
+"I believe that was his intent, yes," Cas agrees in a murmur.
 
-She helps cleaning up all the wounds and the fresh new blood seeping through the stitches, then rises to fetch more bandages.
+She helps clean up all the wounds and the fresh new blood seeping through the stitches, then rises to fetch more bandages.
 
 "I don't think I'd need those," Cas turns down the offer when he sees what she's about to do.
 
@@ -1228,7 +1228,7 @@ Alice comes back with food on a plate. Cas thanks her for it.
 
 <br>
 
-Strength comes back to him as time passes. Cas manages to get out of bed after about ten days, which is also time when Jim Elkins, owner of the saloon and bartender, starts asking when he's ready to pay for the room.
+Strength comes back to him as time passes. Cas manages to get out of bed after about ten days, which is also about thetime when Jim Elkins, owner of the saloon and bartender, starts asking when he's ready to pay for the room.
 
 The cuts are still deep, the muscles around the wounds contract uncomfortably at each shift of movement, the pain from the injuries is numbed but not gone. Cas puts on an old shirt and pants that Alice found for him and steps downstairs.
 
