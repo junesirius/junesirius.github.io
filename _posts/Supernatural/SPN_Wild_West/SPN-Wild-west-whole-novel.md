@@ -1446,9 +1446,9 @@ Dean asks, squeezing his shoulder, trying to steady himself. "What happened?"
 
 #### Act 1
 
-The ranch they pointed him to belongs to the Ludlow family. The father raises three boys, and there are a family of Native Americans as helpers.
+The ranch they pointed him to belongs to the Ludlow family. The father raises three boys, and there is a family of Native Americans as helpers.
 
-Cas learns the way of ranch life fast enough, and spends most of his time with the livestock. They ask if he needs a better place to spend the night, and he tells them he will be fine. He needed some sleep like humans do for the first two or three years, and then it's just long, dark nights after nights, alone, outside the helper's hut, staring at the sky, thinking, wondering. He might has accidentally fallen asleep once in a long while, but the body's need of sleep diminishes as his grace recovers slowly -- agonizingly slow, but he doesn't have anything else to do.
+Cas learns the way of ranch life fast enough, and spends most of his time with the livestock. They ask if he needs a better place to spend the night, and he tells them he will be fine. He needed some sleep like humans do for the first two or three years, and then it's just long, dark nights after nights, alone, outside the helper's hut, staring at the sky, thinking, wondering. He might have accidentally fallen asleep once in a long while, but the body's need for sleep diminishes as his grace recovers slowly -- agonizingly slow, but he doesn't have anything else to do.
 
 The wings heal slower than the rest of the body, and he can't risk using his grace to help -- not like there is enough of healing power left anyway -- in case the archangel is still scouting the time flux and watching out for the light reflecting from his standout existence that doesn't belong to this era.
 
@@ -1458,19 +1458,19 @@ The little Native American girl grows from a child to a young woman, then comes 
 
 Time is a funny thing. It feels one way when they as angels watch mankind evolve from the top of the clouds and thousands of years pass in a snap, and becomes so utterly a different thing as it flows and moves forward one day after another, then one year after another.
 
-The old man of the Ludlow family passes away at the fifteenth year after Cas joins the ranch. They host a proper funeral in the traditional way. By nightfall, the oldest son plays harper and the youngest one sings a beautiful song. The second son isn't with them, he's probably in the woods again, looking for bears to fight.
+The old man of the Ludlow family passes away at the fifteenth year after Cas joins the ranch. They host a proper funeral in the traditional way. By nightfall, the oldest son plays the harp and the youngest one sings a beautiful song. The second son isn't with them, he's probably in the woods again, looking for bears to fight.
 
 Cas sits at the corner, away from the bonfire and the family, thinking absent-mindedly that the scene feels too familiar. He thinks about Dean, in moments like this. He wonders where Dean is and if he's safe. He checks the time, then the date, then the year. There are still five years to wait, until 1861 comes.
 
 For the whole year of 1860, Cas is restless. He attends to the cows, feeds the chickens and pigs, cleans the stable, brushes the horses, and then, with all the work done, he goes into the woods for a walk. That's what he tells the Ludlows.
 
-He doesn't just take a walk in the woods, he goes far deep east. Across the east side of the state line, he goes to South Dakota. He goes to the land where the town of Sioux Falls will be, and he goes to the place where Bobby's house and yard will stand. The place they leave behind, and the place that hasn't been built. The land is undeveloped yet. Cas just stay there, standing in the spot his memory tells him should be the right spot, lowering the body, touching the sand and dirt on the ground, wondering if those exact dirt remains the same for the whole one hundred and fifty years into the future. The solid ground gives him a tiny sense of comfort. But the human heart in his body still beats restlessly, he knows the rings in his true form would be spinning with a similar uneasy speed.
+He doesn't just take a walk in the woods, he goes deep east. Across the east side of the state line, he goes to South Dakota. He goes to the land where the town of Sioux Falls will be, and he goes to the place where Bobby's house and yard will stand. The place they leave behind, and the place that hasn't been built. The land is undeveloped yet. Cas just stays there, standing in the spot his memory tells him should be the right spot, lowering the body, touching the sand and dirt on the ground, wondering if those exact dirt remains the same for the whole one hundred and fifty years into the future. The solid ground gives him a tiny sense of comfort. But the human heart in his body still beats restlessly, he knows the rings in his true form would be spinning with a similar uneasy speed.
 
 He goes back to the ranch after that. The sun of the new day hasn't risen yet. He goes back to check the stable and the fences, the family in the house, and the Native American family in the helper's hut. The next day is no different.
 
 And then, finally, the year 1861 comes, and March arrives. On the day of March the fourth, 1861, the day he knows Dean and Sam will be in Sunrise, Wyoming, because he would -- had -- dropped them here. Cas goes back to the town, waiting, out of their sight -- things that would have happened to the brothers, Cas doesn't know what will happen if the time flow is disturbed twice, so he decides, it should be safer to avoid the whole paradox by showing up only when he is supposed to.
 
-He goes into the saloon, before the noon of the fourth. The bartender Jim Elkins regards him as he walks in. The young man he once was turned aged and bearded, but the eyes are still sharp. The place smells like horse dung and hay now.
+He goes into the saloon, before noon on the fourth. The bartender Jim Elkins regards him as he walks in. The young man he once was has turned aged and bearded, but the eyes are still sharp. The place smells like horse dung and hay now.
 
 "I remember you," he tells Cas. "You look exactly the same as twenty years ago."
 
@@ -1482,11 +1482,11 @@ Cas books a room with the ranch salary he earned over the past years, with all t
 
 He stays on the second floor and decides not to leave the room until high noon on the fifth.
 
-When the footsteps of Dean and Sam walk into the place, when their voices pass to the second floor, it takes him everything to not rushing downstairs to meet them.
+When the footsteps of Dean and Sam walk into the place, when their voices pass to the second floor, it takes him everything not to rush downstairs to meet them.
 
 Cas sits on the bed, closing his eyes, breathing in and out, deep, counting his own heartbeat. He hears Dean complaining about the drink, and saying his own name being "Clint Eastwood." Cas clenches his fist, pinning his body down, reminding himself, *He has waited twenty years, he can wait another day*.
 
-The Judge yells in pain when the phoenix creature burns him live and the saloon girl screams. The Winchester brothers dash to the second floor. Cas snaps open his eyes. Dean's voice is right next door to his room. He's hidden from his angelic eyes, and the wall blocks his human sight. Cas can't see him, but every atom in his body and every photon in his true form vibrates in anticipation. Dean is *right there*.
+The Judge yells in pain when the phoenix creature burns him alive and the saloon girl screams. The Winchester brothers dash to the second floor. Cas snaps open his eyes. Dean's voice is right next door to his room. He's hidden from his angelic eyes, and the wall blocks his human sight. Cas can't see him, but every atom in his body and every photon in his true form vibrates in anticipation. Dean is *right there*.
 
 Cas thinks he might break the bones in his fist if he clenches any harder.
 
@@ -1498,11 +1498,11 @@ The night comes and goes. When the sun rises, a sense of unease starts crawling 
 
 Elkins enters his room without knocking, and Cas sees the demon's face behind the vessel.
 
-Cas rushes up, manifesting his angel blade into the palm. Two more demons crowd into the room, both taking the form of saloon ladies, another two wait in the hallway.
+Cas rushes up, manifesting his angel blade into his palm. Two more demons crowd into the room, both taking the form of saloon ladies, another two wait in the hallway.
 
-He swings the blade at the one possessing the poor bartender, the demon smirks harshly. "Careful, don't want to hurt the good old man in here, he's still awake." The eyes of the demon flash back to human for a second, the bartender looks at him in frantic confusion and panic, and then the eyes switch back to demon's black eyes.
+He swings the blade at the one possessing the poor bartender, the demon smirks harshly. "Careful, don't want to hurt the good old man in here, he's still awake." The eyes of the demon flash back to human for a second, the bartender looks at him in frantic confusion and panic, and then the eyes switch back to the demon's black eyes.
 
-Fighting demons while trying to not harm the possessed human is like disarming a bomb tied to a beating heart.
+Fighting demons while trying not to harm the possessed human is like disarming a bomb tied to a beating heart.
 
 Cas hides the angel blade away in the pocket dimension, maneuvering between the demons, while murmuring the exorcism in Latin. It's been a while since he last saw a demon, let alone fighting one. The easy pace of ranch life has made him slack. The words stumble and the demons catch him off guard.
 
@@ -1514,7 +1514,7 @@ He hears Dean's voice, talking with Sam.
 
 He hears the sound of the gunshot, and the phoenix burning to ashes.
 
-And he hears the clock belling the tone of the high noon.
+And he hears the clock bells tolling the tone of high noon.
 
 Cas struggles, but the trap and sigils render him powerless.
 
@@ -1522,7 +1522,7 @@ Dean's voice comes through in prayer, calling his name, for the many days that f
 
 He breaks free when a fire tears down the whole place. The flames catch his clothes, threatening to burn his vessel. Cas manages to jump out of the window, landing in some bushes. Leaving only scratches on his skin.
 
-The road has a fresh track of horse hooves. The way Dean left. Leading to a place Cas doesn't know where.
+The road has a fresh track of horse hooves. The way Dean left. Leading to a place Cas doesn't know.
 
 Cas finds a horse with no owner, and follows the track toward the west.
 
@@ -1530,13 +1530,13 @@ Cas finds a horse with no owner, and follows the track toward the west.
 
 #### Act 2
 
-More than ever, Cas misses the human invention of phones. He doesn't like many of the things they call advanced techniques of the last century, but the existence of phone does make one's life so much easier.
+More than ever, Cas misses the human invention of phones. He doesn't like many of the things they call advanced techniques of the last century, but the existence of a phone does make one's life so much easier.
 
-Especially when it comes to finding people hidden from all angels.
+Especially when it comes to finding people hidden from all the angels.
 
 Cas would follow the tracks to where the horse marks disappear into water or bushes, and search the land for hours after hours with no outcome.
 
-Then Dean's prayer would come through, echoing in his brain like a one-direction phone line where he can only listen but has no way to answer.
+Then Dean's prayer would come through, echoing in his brain like a one-directional phone line where he can only listen but has no way to answer.
 
 He misses the times when he could simply dial his number and ask, "Dean, where are you?"
 
@@ -1550,7 +1550,7 @@ A wanted poster with a sketch of Dean's profile is newly attached outside the ba
 
 Cas stands there staring at the image. The sketch isn't accurate, the stubbles and freckles are wrong, but the eyes are vivid. He looks into the eyes, having a weird feeling that the eyes have their own lives and can see through him, knowing all the dirty little secrets that are eating him up.
 
-Cas shifts uneasily, but he can't take his eyes away. His gaze follows the jawline of his figure, and the shape of his nose, before landing back onto the eyes that are black and white on the image. He thinks about the emerald color of his eyes.
+Cas shifts uneasily, but he can't take his eyes away. His gaze follows the jawline of his figure, and the shape of his nose, before landing back onto the eyes that are black and white in the image. He thinks about the emerald color of his eyes.
 
 One of the bank guards walks out, asking if he has seen the man.
 
@@ -1568,31 +1568,31 @@ Cas tears down the poster when no one is looking, and takes it with him.
 
 He learns to check the newspapers to find new updates about "Clint Eastwood" and his gang.
 
-Though after a while he realizes they are always either outdated or fake.
+Though after a while, he realizes they are always either outdated or fake.
 
 A bank is reported to be robbed in Rattlesnake Bend, Nevada. Cas rides into the town, but the town is safe and sound from any robbery for over a month.
 
 He doubts Dean would ever kill anyone if they're not monsters, but when the newspaper says Clint Eastwood has shown up in Cattle Creek, Kansas with a body count, he still goes there to check it out, just in case.
 
-It is near the end of summer, Kansas is still hot and dry. People in the town wears ridiculously large cowboy hats to shield themselves from the sun. The saloon is called Skinny's Saloon. The man behind the bar counter is exactly as the name suggests.
+It is near the end of summer, Kansas is still hot and dry. People in the town wear ridiculously large cowboy hats to shield themselves from the sun. The saloon is called Skinny's Saloon. The man behind the bar counter is exactly as the name suggests.
 
 Cas approaches him to ask if a cowboy with his height and green eyes has ever visited. Skinny raises a pistol at him as soon as he hears the question.
 
-Cas tilts his head at the man's reaction, wondering what is it that he's done wrong.
+Cas tilts his head at the man's reaction, wondering what it is that he's done wrong.
 
-"Who are you?" Skinny demands, "His friend or enemy?" He holds the pistol in the right hand, the left hand hanging limp and shaky by his side, that side of shoulder twitching uncontrollably.
+"Who are you?" Skinny demands, "His friend or enemy?" He holds the pistol in the right hand, the left hand hanging limp and shaky by his side, that side of his shoulder twitching uncontrollably.
 
 Cas considers, and he says, "Nobody. I just want to find him." At the man's doubtful gaze, Cas manages to add, "He is wanted, isn't he? There are posters about him."
 
-Skinny lowers his gun and huffs a laughter, "Ah, bounty hunter."
+Skinny lowers his gun and huffs a laugh, "Ah, bounty hunter."
 
 Cas nods at that, "So? Is he here or not?"
 
-Skinny says, with much disappointment. "He's not. I'd hoped he'd come visit once he saw the paper, but he never does. Only dumbasses like you popping up."
+Skinny says, with much disappointment. "He's not. I'd hoped he'd come visit once he saw the paper, but he never did. Only dumbasses like you popping up."
 
 "You want to trick him here? Why?" Cas squints. This man is not a demon, but who says demons have to come from hell.
 
-Skinny points at his wounded left shoulder. "Thunderhill, Colorado. That bastard put a bullet in here." He grinds the teeth. "Ever heard about a cowboy's revenge? This ain't over until he's dead."
+Skinny points at his wounded left shoulder. "Thunderhill, Colorado. That bastard put a bullet in here." He grinds his teeth. "Ever heard about a cowboy's revenge? This ain't over until he's dead."
 
 "You're going to kill him?" Cas tenses.
 
@@ -1616,7 +1616,7 @@ His fingers hover at the edge of the gun, his eyes locked straight on the skinny
 
 For a second, Cas feels bad for him, but the next second, he remembers his venomous tone of hatred when he said, "Sure I do," about killing Dean.
 
-Cas's eyes turn cool as ice. He draws the gun and shoots the man in the chest. The man barely has chance to draw his gun and already falls to the ground, dead.
+Cas's eyes turn cool as ice. He draws the gun and shoots the man in the chest. The man barely has a chance to draw his gun and already falls to the ground, dead.
 
 Cas puts the gun back to the holster. Not liking the way the crowd looks at him, as if he's some kind of hero. He just killed a man, he thinks bitterly, though he has no choice.
 
@@ -1646,7 +1646,7 @@ Cas urges the horse onward as he rides across the land toward Colorado, wonderin
 
 <br>
 
-Cas finds the posse the night before they head out. The town sheriff, Little Bill, is counting heads. They are one person short of a dozen, so Cas makes to the last spot.
+Cas finds the posse the night before they head out. The town sheriff, Little Bill, is counting heads. They are one person short of a dozen, so Cas makes it to the last spot.
 
 Little Bill tells them a story at the saloon many months ago, and how ruthless Clint Eastwood was when he murdered men and humiliated women. The story sounds nothing like Dean, but everyone in the posse gets so motivated that they all shout damnation to this Clint Eastwood they've never met and eager to head out hunting the man down.
 
@@ -1662,9 +1662,9 @@ Cas forces a quick smile and nods. "Yes, by all means."
 
 The Indian trackers are indeed exceptional at keeping up with the trail.
 
-Sometimes when there are absolutely no track to his eyes, both his human eyes and true eyes, the Indians can still give them clear directions to go.
+Sometimes when there are absolutely no tracks to his eyes, both his human eyes and true eyes, the Indians can still give them clear directions to go.
 
-They pick up the days old trace from Nevada, moving southeast, then follow all the way to New Mexico.
+They pick up the day-old trace from Nevada, moving southeast, then follow all the way to New Mexico.
 
 Cas thinks he catches a glimpse of three horses on top of a mountain, hundreds of miles away. One of the figures is so familiar that his heart skips a beat. But when they reach that spot, the men are another hundred miles away again, like a fleeting mirage.
 
@@ -1682,7 +1682,7 @@ The Indians point the way to north.
 
 Cas urges his horse in that pointed direction. "I'm going that way." He states, quietly hoping the group will also split, and that fewer will choose to follow Dean.
 
-Which, of course, turns out one's wish is never granted, as their luck always go.
+Which, of course, turns out one's wish is never granted, as their luck always goes.
 
 <br>
 
@@ -1692,7 +1692,7 @@ Cas recognizes the town the moment they roll in -- Sunrise, Wyoming, where all t
 
 Dean is cornered in the sheriff's office. Flickering lights show his silhouette on and off, switching between windows. Cas watches him, thinking this is the closest they've ever been since the last time they were both in this town.
 
-Dean's prayer reaches him, pained and desperate, asking for him. With the distance so close, they can probably hear each other if they just spoke loud enough.
+Dean's prayer reaches him, pained and desperate, asking for him. With the distance so close, they can probably hear each other if they just speak loudly enough.
 
 Cas gets off his horse, and tells the sheriff he'll go in there first. Alone.
 
@@ -1724,9 +1724,9 @@ The barricaded door is easy to break through, the light inside the room is blind
 
 Dean is on the ground, backing up, holding himself, both of the guns in his hand are out of bullets. His old self is preparing for a deadly strike.
 
-Cas tears him away from Dean, unfolding his own true forms. The wings are barely healed, the new bullet wounds slow his vessel down, but Dean is here. If he loses, it would mean his old self -- if he keeps following the orders as he knows he would -- is going to kill Dean. *He*, would be the one who causes Dean's death. And Cas can't allow that to happen.
+Cas tears him away from Dean, unfolding his own true form. The wings are barely healed, the new bullet wounds slow his vessel down, but Dean is here. If he loses, it would mean his old self -- if he keeps following the orders as he knows he would -- is going to kill Dean. *He*, would be the one who causes Dean's death. And Cas can't allow that to happen.
 
-He fights like there is no future, and his old self is no match. Drinking in his own grace, he knows his past self would be wounded for decades maybe centuries, but he's here now, with no memory of this encounter, which means there is no consequence too severe to bear. He drains his past self and wipes the memory, sending him back to Heaven.
+He fights like there is no future, and his old self is no match. Drinking in his own grace, he knows his past self would be wounded for decades, maybe centuries, but he's here now, with no memory of this encounter, which means there is no consequence too severe to bear. He drains his past self and wipes the memory, sending him back to Heaven.
 
 Like he told Dean, his past self has the luxury of healing slowly, he doesn't.
 
@@ -1738,11 +1738,11 @@ Cas turns to Dean, finally. Finally.
 
 He says none of that, only to hold the man tight, with all his strength but careful enough not to break him.
 
-Dean's breath is uneven over his shoulder. They hold each other like that, just breathing together, in the same space, in the same time, one hundred and fifty years too early, hundreds of thousand of miles too far. And yet, they are at ease.
+Dean's breath is uneven over his shoulder. They hold each other like that, just breathing together, in the same space, in the same time, one hundred and fifty years too early, hundreds of thousands of miles too far. And yet, they are at ease.
 
 Breathing in, breathing out. The warm and solid touch under his hands. The bone, the muscle, the skin; the hair, the stubble, the freckles.
 
-Cas scrutinizes him once they pull apart. The face and look that are all so familiar, but the long beard and new wrinkles creased by the western sand and wind make the face new and mature. The eyes trained on his, sparkling with glitters.
+Cas scrutinizes him once they pull apart. The face and look that are all so familiar, but the long beard and new wrinkles creased by the western sand and wind make the face new and mature. The eyes trained on his, sparkling with glitter.
 
 Eventually, Cas decides, that all he can say is just, "Hello, Dean."
 
@@ -1758,131 +1758,133 @@ Eventually, Cas decides, that all he can say is just, "Hello, Dean."
 >
 > Cas flies them home (pick Sam up), back to the same day they leave for the phoenix's ashes. Bobby is still there, exactly the same as before, everything the same. (Or not exactly, Dean's western fame gets kept in history, legends of himself becomes a cowboy story, exaggerated but he's amused, secretly really love it)
 
-The sound of his last question dangles in the air, floating there for a few extended seconds, then falling gradually to the ground like a flying feather drifting down.
+The sound of his last question dangles in the air, floating there for a few extended seconds, before falling gradually to the ground like a flying feather drifting down.
 
-*What happened, Cas?* Dean's eyes match his, can't help wondering how many things these eyes have seen in the last twenty years -- how many beautiful things, and how many ugly things.
+*What happened, Cas?* Dean's eyes meet his, can't help wondering how many things these eyes have seen in the last twenty years -- how many beautiful things, and how many ugly things.
 
 Cas is quiet. Too quiet. With the eyes too deep and blue, swirling like ocean water.
 
 *Tell me, please.* Dean thinks hard, seeing Cas's eyes widen slightly, realizing the thought must have been conveyed through the prayer accidentally.
 
-"It's... not easy." Cas murmurs, voice husky and reluctant. "But it's gone now, so it doesn't matter." His eyes flicker to outside of the door. Some outlines of dead and wounded men can be seen from where they stand. Moon light is bright tonight.
+"It's... not easy," Cas murmurs, his voice husky and reluctant. "But it's gone now, so it doesn't matter." His eyes flicker to outside of the door. Some outlines of dead and wounded men can be seen from where they stand. The moonlight is bright tonight.
 
-"No, it matters." Dean tells him, voice adamant. "It matters to me."
+"No, it matters," Dean tells him, his voice adamant. "It matters to me."
 
-It's a long telling. From the day they left Bobby's place till now. It almost feels like a life time ago. That life where they fight another apocalypse and asshole demons and archangels, feels like a long dream that is slowly fading in the memory while this one, the wild lands, the gang Dean befriended with for months, the ranch Cas worked in for years, this feels so real now.
+It's a long tale. From the day they left Bobby's place until now. It almost feels like a lifetime ago. That life where they fought another apocalypse and asshole demons and archangels, feels like a long dream that is slowly fading in the memory while this one, the wild lands, the gang Dean befriended over months, the ranch Cas worked in for years, this feels so real now.
 
-Cas finishes his story, and Dean finishes telling him his. They let the aftertaste stretch on the tip of the tongue.
+Cas finishes his story, and Dean finishes telling his. They let the aftertaste linger, stretching on the tip of the tongue.
 
-"It's a difficult life." Dean says slowly.
+"It's a difficult life," Dean says slowly.
 
 Cas nods quietly.
 
-They are sitting by the sheriff's desk now, pulling the two chairs close, their knees touching. Dean's fingers absent-mindedly fumble with the new sheriff's pin on the desk -- whoever it belongs now.
+They are sitting by the sheriff's desk now, pulling the two chairs close, their knees touching. Dean's fingers absent-mindedly fumble with the new sheriff's pin on the desk -- whoever it belongs to now.
 
-"But also a simple one." He says, remembering the vast landscape in front of him, infinite. The edge of the ocean can't be seen from there. On the horseback, on this land, he is free.
+"But also a simple one," Dean adds, remembering the vast landscape in front of him, infinite. The edge of the ocean can't be seen from there. On horseback, on this land, he is free.
 
-"The life in the ranch is also simple." Cas says. "Quiet. Too quiet you might find it boring. That's probably why old Ludlow's second son has to go into the woods looking for bears to fight."
+"The life on the ranch is also simple," Cas admits. "Quiet. Too quiet you might find it boring. That's probably why old Ludlow's second son has to go into the woods looking for bears to fight."
 
-Dean chuckles, "Sounds like someone I'd like to meet."
+Dean chuckles. "Sounds like someone I'd like to meet."
 
-Cas smiles with him, "Yes, I think you'll like him. You'll like all of them."
+Cas smiles with him. "Yes, I think you'll like him. You'll like all of them."
 
-Quietness fall between them again. Calm and comfortable. They just sit there, with only moonlight filtering through broken windows and the door.
+Silence falls between them again. Calm and comfortable. They just sit there, with only moonlight filtering through broken windows and the door.
 
-They're not eager to go anywhere, or any time. They've spent too long to get to this point, at least earned a moment to take a breath.
+They're not eager to go anywhere, or any time. They've spent too long getting to this point, at least they've earned a moment to catch their breath.
 
-Dean's mind wanders to the ranch in Cas's words. He doesn't need to see the place to know it must be something Cas would enjoy. The livestock and the wild lives, the creatures and the woods. The growing up kids, girls and boys growing to be become fine ladies and gentlemen -- or wild girls and uncivilized hunters, if they choose to.
+Dean's mind wanders to the ranch in Cas's words. He doesn't need to see the place to know it must be something Cas would enjoy. The livestock and the wild lives, the creatures and the woods. The growing kids, girls and boys growing to become fine ladies and gentlemen -- or wild girls and uncivilized hunters, if they choose to.
 
-They can live there, own a small hut of their own, take possession of a small corner of the ranch. They can attend to the ranch then watch sunset from the porch. The air would smell like wood and grass, their hands gnarled from farm work instead of gun shot. Dean blinks hard, thinking, *that doesn't even sound half bad*. Sam is welcome to stay, or find another ranch of his own with someone he enjoys to spend time with. They can just live normal, quiet lives, and probably die of boredom, or old age, or too much healthy natural food, some time around the corner of the twentieth century. He finds himself doesn't mind that they would not even live to the day that Impala is produced or the day Led Zeppelin starts their touring. With Cas, and Sam, safe and happy and with him, there isn't much else to ask for. Dean smiles.
+They could live there, own a small hut of their own, take possession of a small corner of the ranch. They could tend to the land and watch the sunset from the porch. The air would smell like wood and grass, their hands weathered from farm work instead of gunfire. Dean blinks hard, thinking, *that doesn't even sound half bad*. Sam is welcome to stay, or find another ranch of his own with someone he enjoys spending time with. They could just live normal, quiet lives, and probably die of boredom, old age, or too much healthy natural food, sometime around the turn of the twentieth century. Dean finds himself wouldn't mind that they would not even live to the day that the Impala is produced or the day Led Zeppelin starts their touring. With Cas, and Sam, safe and happy with him, there isn't much else to ask for. Dean smiles.
 
 "What are you thinking?" Cas breaks the silence.
 
-"I might miss this place." Dean tells him.
+"I might miss this place," Dean tells him.
 
-"We don't have to go." Cas offers, genuinely.
+"We don't have to go," Cas offers, genuinely.
 
 "I know." But Dean already starts standing up from the seat, holding out a hand to pull Cas to his feet too.
 
-He reaches for the glass of phoenix's ash that has been tucked inside his inner pocket. Shaking it to show the content, making his point clear. "We came here for this, and we got it. The world back home still needs saving. Don't want to keep Bobby waiting for too long, do we?"
+He reaches for the glass of phoenix ash that has been tucked inside his inner pocket. Shaking it to show the contents, making his point clear. "We came here for this, and we got it. The world back home still needs saving. Don't want to keep Bobby waiting for too long, do we?"
 
-Cas nods, then chews his tongue. Dean eyes him. Cas sighs deep, "There is something I should have let you know a long time ago. I have twenty years to think it over, and time does have the magic to clear one's mind."
+Cas nods, then chews his tongue. Dean watches him. Cas sighs deeply. "There is something I should have let you know a long time ago. I've had twenty years to think it over, and time does have the magic to clear one's mind."
 
-The wild land of the west is plain and straightforward, so it is how it makes them. No more lies, no more secrets. No more hide and seek, no more chase and run.
+The wild land of the West is plain and straightforward, so it is how it makes them. No more lies, no more secrets. No more hide and seek, no more chase and run.
 
-Cas confesses, the deal with the demon, the war with the archangel, the messy things among angels, the friends and enemies, all the concerns and worries, all the things he thought he can contain in his head, they flood out under the moonlight in the wild west land, in front of Dean's eyes.
+Cas confesses -- the deal with the demon, the war with the archangel, the messy things among angels, the friends and enemies, all the concerns and worries, all the things he thought he could contain in his head -- They flood out under the moonlight in the Wild West, in front of Dean's eyes.
 
-The wind and sand hear them, the night is long and quiet.
+The wind and sand hear them. The night is long and quiet.
 
 Cas breathes out, waiting for a furious blow. Only to find Dean's look intense, but not angry.
 
-"We'll figure this out, together." He says. Then, "Now lets pick Sam up and go home first."
+"We'll figure this out, together. Later." Dean says. Then, "Now lets pick up Sam and go home."
 
 <br>
 
-They find Sam in Samuel's place, the two of them are adding extra sigils to the hut. They argue a lot, just like all the familiar bickering with Bobby. The squabbles are sour and bitter, but funny in its own way. Their heads leaning close over a sigil on one of the books, immediately start arguing the correct interpretation. They paint the symbol together, doing some ritual and magical experiments. Unsurprised to see it not working. Then they move on to test the next theory. The bottle of whiskey on Samuel's writing desk is emptied, there are two glasses there.
+They find Sam at Samuel's place, as expected. The two of them are adding extra sigils to the hut. They argue a lot, just like all the familiar bickering with Bobby. The squabbles are sour and bitter, but funny in their own way. Their heads lean close over a sigil on one of the books, immediately starting to argue about the correct interpretation. They paint the symbol together, trying some ritual and magical experiments, unsurprised to see them not working. Then they move on to test the next theory. The bottle of whiskey on Samuel's writing desk is emptied, there are two glasses there.
 
-Sam hates to leave as much as back when he was still at school and Dean or their dad had to tell him they're moving again.
+Sam hates to leave as much as back when he was still in school and Dean or their Dad had to tell him they were moving again.
 
-Sam pouts his mouth as his protest, patting Samuel on the shoulder at the time of farewell.
+Sam pouts his lips in protest, patting Samuel on the shoulder at their farewell.
 
 The old legendary hunter pats him back on the same spot. Not saying anything, but standing by the hut's door, waving.
 
 Dean almost feels bad for him.
 
-They are back at Bobby's place in a blink. Landing on the date of April the twenty fifth, 2011. Minutes after Cas woke up from Bobby's couch and flew away from the place.
+<br>
 
-"So the time dimension this round, it's easy to fly?" Dean murmurs low and only Cas can hear, as their feet touch the ground again.
+They are back at Bobby's place in the blink of an eye. Landing on the date of April the twenty fifth, 2011, precisely. Minutes after Cas woke up from Bobby's couch and flew away from the place.
 
-"Yes." Cas nods small by his side, steadying his stumbling footstep from the landing.
+"So the time dimension this round, it's easy to fly?" Dean murmurs low, low enough for only Cas to hear, as their feet touch the ground again.
+
+"Yes." Cas nods slightly by his side, steadying his stumbling footsteps from the landing.
 
 Dean squints at him, checking him over. There is a fresh new tear on the back of his trench coat, but no sight of blood or wound.
 
-Dean raises an eyebrow at the tear while Sam strides to hug and greet Bobby. Cas murmurs under the breath, "It is not of import. I'm fine, Dean, Raphael missed, I'm faster this time. We're safe, for now."
+Dean raises an eyebrow at the tear while Sam strides over to hug and greet Bobby. Cas murmurs under his breath, "It is not of import. I'm fine, Dean, Raphael missed, I'm faster this time. We're safe, for now."
 
-Dean is relieved slightly, turning to hug Bobby so tight that makes the old hunter grumbles.
+Dean is relieved slightly, turning to hug Bobby so tightly that the old hunter grumbles.
 
-"Alright, alright, sappy," Bobby pats his back a few times, "no need to grow girl parts, it's just three days."
+"Alright, alright, sappy," Bobby pats his back a few times. "No need to grow girl parts, it's just three days."
 
-"Oh." Dean stills, remembering that's true for him.
+"Oh," Dean stills, remembering that's true for him.
 
-Bobby looks exactly the same as before, as he should. So is this room, or the state, or the world. Except for them.
+Bobby looks exactly the same as before, as he should. So does this room, or the state, or the world. Except for them.
 
-Bobby takes them in -- Dean has long, cowboy's beard and wrinkles from dry wind and sand; Sam changes the least, only with longer and messier hair; and Cas, almost totally a new different being, with his over human-like ranch and cowboy clothing, and the weather-beaten look in his eyes. Bobby squints at them, "You better tell me everything."
+Bobby takes them in -- Dean has his long cowboy beard and wrinkles from dry wind and sand; Sam changes the least, only with longer and messier hair; and Cas, almost totally a new different being, in his overhuman-like ranch and cowboy clothing, and a weather-beaten look in his eyes. Bobby squints at them. "You better tell me everything."
 
 So they do.
 
 <br>
 
-Then, the old life comes back. The old demon-hunting, monster-killing life Dean's grown up with. They make plans, they hunt down Eve, they deal with Crowley, they handle Raphael. They work on saving the world every other Tuesdays.
+Then, the old life comes back. The old demon-hunting, monster-killing life that Dean's grown up with. They make plans, they hunt down Eve, they deal with Crowley, they handle Raphael. They work on saving the world every other Tuesday.
 
-Sam jumps right back into the old routine as if the months in the Wild West have never left a mark in his memory, but Dean thinks, in between the monster-hunting and the world-saving, when he exchanges the looks with Cas, he knows something is never the same ever again.
+Sam jumps right back into the old routine as if the months in the Wild West never left a mark on his memory. But Dean thinks, in between the monster-hunting and world-saving, when he exchanges a glance with Cas, he knows something will never be the same ever again.
 
-Sometimes in the night, when he lies in the motel bed, staring at the ceiling, wide awake, he finds it easy to imagine the current life a dream, the memory a reality. They could have all still been in the Wild West, and the whole world-saving thing is just one long dream to wake up from.
+Sometimes at night, when he lies in a motel bed, staring at the ceiling, wide awake, he finds it easy to imagine the current life a dream, the memory a reality. They could all still be in the Wild West, and the whole world-saving thing is just one long dream to wake up from.
 
-He might as well be laying in a saloon room in an old town, cowboys on horses noisy down the floor, the smell of animal feces mixed with saloon ladies' perfumes filling the air, music passing through the thin wooden walls.
+He might as well be lying in a saloon room in an old town, cowboys on horseback stomping noisily down the floor, the smell of animal dung mixed with saloon ladies' perfumes filling the air, music drifting through the thin wooden walls.
 
-He could still feel the wind from the old western time blows his hair, the land vast and the world open to explore. Dean allows himself imagine the life they never have: Cas in the ranch, busy and happy, wearing a cowboy hat; they sit at the corner of a saloon on Friday nights, listening to town folks playing the old time music, dancing and singing, happy and peaceful. All the time, Cas by his side. He breathes, feeling the air calm and easy, the smell of dust is the taste of raw nature and freedom.
+He could still feel the wind from the old western time blows through his hair, the land vast, the world open to explore. Dean allows himself imagine the life they never had: Cas on the ranch, busy and happy, wearing a cowboy hat. They sit in the corner of a saloon on Friday nights, listening to the town folks playing old-time music, dancing and singing, happy and peaceful. All the while Cas by his side. Dean breathes, feeling the air calm and easy, the smell of dust is the taste of raw nature and freedom.
 
-A life they never have, but an option always open. That night, in the moonlight, in the quiet moment, when he looks Cas in the eyes, Dean knows the answer to an unasked question, would be yes. He knows.
+A life they never had, but an option always open. That night, under the moonlight, in the quiet moment, when he looks Cas in the eyes, Dean knows the answer to an unasked question, would be yes. He knows.
 
 *What if we just, stay. Here and now. Us.*
 
-A life in the past, can be their future.
+A life in the past, could be their future.
 
 The one thing they really want, is the one thing they could have.
 
-Dean breathes slow and deep, closing his eyes in the quiet night.
+Dean breathes slow and deeply, closing his eyes in the quiet night.
 
 Maybe they will, *one day*. When all is done, maybe they will.
 
-They will have a banjo, Cas will have a harp. The music will be beautiful, so is the dance. People will be laughing, they will be holding each other close, enjoying the moment. The comfortable wind of the Wild West flow gently by. They will hold each other's eyes, so close they could see their own reflections. Cas will look at him like there is nothing else in the world, the way he always did. Dean thinks his own eyes might just be the same.
+They will have a banjo, Cas will have a harp. The music will be beautiful, so will the dance. People will be laughing, they will be holding each other close, enjoying the moment. The comfortable wind of the Wild West flow gently by. They will hold each other's gaze, so close they could see their own reflections. Cas will look at him like there is nothing else in the world, the way he always did. Dean thinks his own eyes might just be the same.
 
-They will be happy, content. Home.
+They will be happy. Content. Home.
 
 Dean decides, he wants nothing more.
 
-He falls into sleep with a peaceful smile.
+He falls asleep with a peaceful smile.
 
 <br>
 
