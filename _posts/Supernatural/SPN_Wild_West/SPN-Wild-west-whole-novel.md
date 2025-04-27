@@ -464,79 +464,79 @@ With that, and a disturbance of wind flow in the room, Castiel is gone.
 >
 > Dean goes ahead start doing the reckless noisy things, Sam stay behind at Samuel Colt's place continue researching (time travel spell: angel feather, sands of time, tears of a dragon)
 
-"Get out of my house." Samuel Colt grumbles, without bothering lifting his head. His colt on the desk by his hand -- a normal one, not the special one he'd already given to them.
+"Get out of my house." Samuel Colt grumbles, without bothering to lift his head. His colt on the desk by his hand -- a normal one, not the special one he'd already given them.
 
-"I'm really sorry to bother you again," Sam steps gingerly ahead, Dean follows him a few steps behind. "I wouldn't bother you if it's not absolute urgent."
+"I'm really sorry to bother you again," Sam steps gingerly ahead, Dean follows him a few steps behind. "I wouldn't bother you if it's not absolutely urgent."
 
 "Thought I already did my share of help." He eyes them. "Don't tell me the Colt didn't work on the creature you're hunting."
 
-"No, it's not that." Dean chimes in, "It worked, but uh... it's something else we can use a little help there."
+"No, it's not that," Dean chimes in. "It worked, but uh... it's something else we could use a little help here."
 
 "What part of *I'm retired* failed you?"
 
-*Jesus, Samuel is clearly not an easy one to work with.* Dean thinks quietly, eyebrow raised a few inches.
+*Jesus, Samuel is clearly not an easy one to work with.* Dean thinks quietly, eyebrows raised a few inches higher.
 
-"Like I said, in our time, you're sort of a really big deal, the most famous hunter -- " Sam manages a tight smile, as friendly as he can pull.
+"Like I said, in our time, you're sort of a really big deal, the most famous hunter -- " Sam manages a tight smile, as friendly as he can muster.
 
 "Heard you the first time."
 
-"So we figure you'd be the best supernatural researcher around here too." Dean pulls an puffery grin with his best effort.
+"So we figured you'd be the best supernatural researcher around here too." Dean pulls a puffery grin with his best effort.
 
-"Please, we are not asking you to hunt with us or anything," Sam continues. "Just need a little help in research."
+"Please, we are not asking you to hunt with us or anything," Sam continues. "Just need a little help with research."
 
 <br>
 
-It turns out their guess isn't too far off. Samuel has as big of a book collection as Bobby's or Campbell's, right downstairs in the place where a cellar should be, but with tons more additional traps and sigils painted on every inch of floor and walls.
+It turns out their guess isn't too far off. Samuel has as big a book collection as Bobby or the Campbells, tucked right downstairs in the place where a cellar should be, but with tons more additional traps and sigils painted over every inch of the floor and walls.
 
-Panic room *and* library, nice. *Classic.* Dean looks around, thinking how *fun* it must be to be able to spending all the time reading while hiding out here.
+Panic room *and* library, nice. *Classic.* Dean looks around, thinking how *fun* it must be to be able to spend all the time reading while hiding out here.
 
-Sam nudges him, eyeing the rows of books. He nods back.
+Sam nudges him, eyeing the rows of books. Dean nods back.
 
 Research time.
 
 <br>
 
-"Don't you think if there's a way to pull it off here and now, someone would have done that already?" Dean puts a book down after god knows how many hours, wiping his face by his hands, giving his brain some break. "Then why didn't we ever run into people time-traveled from the past all the time?"
+"Don't you think if there were a way to pull it off here and now, someone would have done that already?" Dean puts a book down after god knows how many hours, wiping his face with his hands, giving his brain a break. "Then why didn't we ever run into people time-traveled from the past all the time?"
 
-Sam doesn't move his eyes away from whatever he's scanning. "They don't know what we know." he deadpans.
+Sam doesn't move his eyes away from whatever he's scanning. "They don't know what we know," he deadpans.
 
 *But they don't know much about this time thing, either.* Dean thinks. It's always just Cas swinging them around, or some other douchebag angels occasionally. Just popping in and out, not really much theory or science to learn about.
 
-Should probably have asked a few more questions about how time flux thing works. He realizes belatedly. But after all, not everyone is as nerdy as Sam.
+Should've probably asked a few more questions about how the time flux thing works. He realizes belatedly. But after all, not everyone is as nerdy as Sam.
 
-"I just remember Cas said once that time travel isn't easy but not impossible," Dean thinks hard, poking some corner of old memories, the time when he met mom and dad when they were younger than his age, the other time when they were trying to stop the yellow-eyed demon but still failed utterly, even the time when he got flipped to the messed-up five years into the zombie land future that turns out never would come. What did Cas tell him during those short talks?
+"I just remember Cas said once that time travel isn't easy but not impossible," Dean thinks hard, poking into some corner of old memories, the time when he met Mom and Dad when they were younger than his was, the other time when they tried to stop the yellow-eyed demon but still failed miserably, even the time when he got flipped to the messed-up five years into the zombie land future that turned out never would come to pass. What did Cas tell him during those short talks?
 
 "He said that time is fluid, it's not easy, but apparently the angels have no problem bending it once in a while."
 
-Sam jerks his head up, eyes bright with understanding, "And he also told us this time before we left, that the further back he sent us, the harder it becomes to retrieve us, that's why he said we can't stay for more than twenty four hours, or we'd be lost to him."
+Sam jerks his head up, eyes bright with understanding, "And he also told us this time before we left, that the further back he sent us, the harder it becomes to retrieve us, that's why he said we couldn't stay more than twenty four hours, or we'd be lost to him."
 
-"Which means we are totally lost to him by now and no way home without the wings." Dean says bitterly.
+"Which means we are totally lost to him by now and no way home without the wings," Dean says bitterly.
 
-"No, Dean!" Sam jumps to his feet. "That might be the idea! This book here also said something similar, quite many are saying the same thing actually, I just didn't realize they might be literal, thought it's more metaphorical."
+"No, Dean!" Sam jumps to his feet. "That might be the idea! This book here also says something similar, quite many are saying the same thing actually, I just didn't realize they might be literal, thought it's more metaphorical."
 
-He slides the book over with some illustration that looks like a river with sand banks on its sides, "Imagine the time is like river or something, fluid, rapid turbulence flow of some kind, and each of us is like a floating leaf. Cas can bend the waterway so it becomes non-chronological, the downstream touches the upstream, that's how we landed here. And folding some part off would be to fast-forward into the future. But if we stay here for too long, we are like the leaves washed away by the flow by too far, that's probably why he can't find us, because he doesn't know where we are in the time flux anymore."
+He slides the book over with some illustration that looks like a river with sandbanks on its sides. "Imagine time is like a river or something, fluid, a rapid turbulence flow of some kind, and each of us is like a floating leaf. Cas can bend the waterway so it becomes non-chronological, the downstream touches the upstream, that's how we landed here. And folding some part off would be to fast-forward into the future. But if we stay here too long, we are like the leaves washed too far downstream by the flow, that's probably why he can't find us, because he doesn't know where we are in the time flux anymore."
 
-Dean's brows knit into a knot. "So... If we make some noise, *splash!* Fish jump out of water, we can make ourselves stand out in this timeline river somehow, so he can find us."
+Dean's brows knit into a knot. "So... if we make some noise, *splash!* Fish jump out of the water, we can make ourselves stand out in this timeline river somehow, so he can find us."
 
-"Like temporal beacons. It might work -- assuming Cas is still out there looking for us." Sam's voice gets quieter at the last clause.
+"Like temporal beacons. It might work -- assuming Cas is still out there looking for us." Sam's voice gets quieter at the last part.
 
-"He's out there." Dean says reflexively. Sam doesn't look convinced.
+"He's out there," Dean says reflexively. Sam doesn't look convinced.
 
-Dean gives the river picture a second look-over, thinking it over again, a minor smile starts showing. "Sounds like a plan to me. What kind of noise are we talking about?"
+Dean gives the river drawing another look, thinking it over again, a minor smile starts creeping onto his face. "Sounds like a plan to me. What kind of noise are we talking about?"
 
-Sam looks a little caught by the question, shrugging unsurely. "How would I know? Something big enough to get some notice in the future, I guess? I would definitely notice if your face show up in some old western posters, guess you can finally make a name for yourself in this era, like you always wanted, huh?"
+Sam looks a little caught by the question, shrugging uncertainly. "How would I know? Something big enough to get some notice in the future, I guess? I would definitely notice if your face showed up in some old western posters, guess you can finally make a name for yourself in this era, like you always wanted, huh?"
 
-Sam throws a half smile in his brother's direction, knowing him too well.
+Sam throws a half-smile in his brother's direction, knowing him too well.
 
-Dean's eyes glints. "Any catch I need to know before messing up the time?"
+Dean's eyes glint. "Any catch I need to know before messing up the time?"
 
 Tip of Sam's mouth twitches. "Just like you said but, eh... don't mess up the time too much? Butterfly effect, remember? We just came back from the Titanic world like, last week?"
 
-Dean returns an unimpressed look. "Let me, umm, just try one more time, just to be sure."
+Dean returns an unimpressed look. "Let me, umm, just try one more time before any big moves, just to be sure."
 
-Glancing up, he prays hard and loud, "Castiel, Angel of the Lord, if you have your ears on, come pick us up here, alright? Or we're gonna do something that can *possibly* break the history, you hear me?"
+Glancing up, he prays hard and loud, "Castiel, Angel of the Lord, if you have your ears on, come pick us up here, alright? Or we're gonna do something that can *possibly* break history, you hear me?"
 
-He waits. One second. Two seconds. Three seconds. No stir of air, no wings, no feathered angel. No Cas.
+He waits. One second. Two seconds. Three seconds. No stir of air, no fluttering wings, no feathered angel. No Cas.
 
 Dean breathes out. "Okay then, let's do this, make some noise! Fun time!"
 
@@ -544,19 +544,19 @@ Dean breathes out. "Okay then, let's do this, make some noise! Fun time!"
 
 Dean narrows his eyes. "You're not coming with me."
 
-Sam spreads his hands wide, empty palms facing up -- all they have is a big pile of nothing. Resigned, he says, "Look, Dean, I know how much faith you have on Cas, I really hope I do too, but we just don't know. We could break the history and timeline and everything, and Cas might never come, and we would still be stuck here. I'm gonna find another way, a spell or something, things we can do *by ourselves*, swim our way back if we can."
+Sam spreads his hands wide, empty palms facing up -- all they have is a big pile of nothing. Resigned, he says, "Look, Dean, I know how much faith you have in Cas, I really hope I do too, but we just don't know. We could break history and the timeline and everything, and Cas might never come, and we would still be stuck here. I'm gonna find another way, a spell or something, things we can do *by ourselves*, swim our way back if we can."
 
-"And you'll just stay here the whole time, researching?" Dean throws a quick glance at the stairs leading out of the cellar. "Samuel here doesn't look like he welcomes any guest, let alone long-term tenant."
+"And you'll just stay here the whole time, researching?" Dean throws a quick glance at the stairs leading out of the cellar. "Samuel here doesn't look like he welcomes guests, let alone long-term tenants."
 
 "Not too different from Bobby?" Sam curls up his lips a little.
 
-Dean considers, huffing a quiet laughter. "Yeah, right, we are professionals in handling half-retired grumpy old drunk hunters."
+Dean considers, huffing a quiet laugh. "Yeah, right, we are professionals in handling half-retired grumpy old drunk hunters."
 
 They exchange an agreeing look. So it is decided.
 
 Dean stands up, moving around the table, leaning in to give his brother a half-hug.
 
-"See you around then, Sammy." He pats his back slightly before pulling back. "I'll drop by picking you up after I find Cas."
+"See you around then, Sammy." He pats his back slightly before pulling away. "I'll drop by to pick you up after I find Cas."
 
 "And how do I find you, if I find the spell?" Sam asks.
 
@@ -576,167 +576,167 @@ Drawing the pistol from the holster at his waist in a smooth swing, he fires thr
 
 Elkins looks at him, reaching for something hidden beneath the bar stand. Supposedly a shotgun.
 
-"I suggest not." Dean shifts his aim toward him. The bartender stops moving, hands slowly rising.
+"I suggest not," Dean shifts his aim toward him. The bartender stops moving, hands slowly rising.
 
 "What's this about?" The old man is still surprisingly chill, not even showing much curiosity.
 
 *Just how many gangsters has he run into before?* Dean finds himself wondering.
 
-"What every outlaw around here wants," he says, aiming for a deep, grave voice. "You got any hidden treasure around here? Gold would do too."
+"What every outlaw around here wants," he says, aiming for a deep, grave voice. "You got any hidden treasure around here? Gold would do just fine."
 
-"At least leave me a name to pass your story along?" Elkins slowly reaches for a side drawer in his gaze. The gold he offers includes some of the very pieces they paid for their meals over the past few days. Dean has to push down the unease.
+"At least leave me a name to pass your story along?" Elkins slowly reaches toward a side drawer in his gaze. The gold he offers includes some of the very pieces they paid for their meals over the past few days. Dean has to push down the unease.
 
 "Eastwood. Clint Eastwood. Best gunner in the western world," Dean tells him, with a mocking smile.
 
-"We'll see about that." Three gunshots are released within the next second. Not Dean's this time. He dives behind an overturned dining table. A bullet narrowly misses his cheek, air squeaks sharp and heated.
+"We'll see about that." Three gunshots are released in the next second. Not Dean's this time. He dives behind an overturned dining table. A bullet narrowly misses his cheek, the air squealing sharp and heated.
 
-"Son of a bitch!" He shouts out. Dirt on the ground flies into air, the room is hazy for a second. He can't see much.
+"Son of a bitch!" He shouts. Dirt from the ground flies into the air, the room turns hazy for a second. He can't see much.
 
 Dean blinks hard, looking left and right, trying to figure out what now.
 
 "What the hell?" he thinks out loud. Guess the first rodeo isn't always very successful even for bonafide western gangsters.
 
-"Well, *Hell* sends regards." Elkins' steps are right in front of the table. Dean risks a glimpse, catching the sight of black eyes.
+"Well, *Hell* sends regards." Elkins' steps thud right in front of the table. Dean risks a glimpse, catching sight of black eyes.
 
 "Freaking demon!" He growls, at the same time of ducking into a gap between the stools, exactly when the table he was hiding behind gets shot a gun hole around the place where his heart would have been.
 
-A second gun shot is fired from behind him. Damnnit, *demons*, plural. A whackload of them, it seems.
+A second gunshot fires from behind him. Dammit, *demons*, plural. A whackload of them, it seems.
 
 He hears giggling from the same direction where the gunshot comes, the place where the saloon ladies usually gather. If they are all possessed, he counts four already.
 
-Even with the Colt he hasn't really had won any advantage over that many demons all at once, and god knows how many more might crawling in as they speak.
+Even with the Colt he hasn't really had the upper hand against that many demons all at once, and god knows how many more might be crawling in as they speak.
 
-"Surprised to see us?" Elkins' voice sounds harsh and edgy, nothing like what he sounded like when he spoke with them in the past. "We kill everyone close to Samuel Colt, just so you know."
+"Surprised to see us?" Elkins' voice cuts through, harsh and edgy, nothing like how he used to sound when he spoke with them before. "We kill everyone close to Samuel Colt, just so you know."
 
-"Huh, usually the other way around," Dean amuses. "So this is how it's like to hanging around with a big name."
+"Huh, usually the other way around," Dean amuses. "So this is what it's like hanging around with a big name."
 
-"You are some big name, boy?" The demon in Elkins smirks.
+"You some big name, boy?" the demon inside Elkins smirks.
 
-"That's the goal." Dean answers absent-mindedly, while tightens the grip on the pistol, silently counting the number of bullets he has left. *A bit low on ammo already,* he shifts the grip slightly, thinking, *he has to figure a way out fast*.
+"That's the goal," Dean answers absently, tightening his grip on the pistol, silently counting the bullets he has left. *A bit low on ammo already,* he thinks, shifting the grip slightly. *Gotta figure a way out fast*.
 
-The exit door is two tables' distance away, with the three lady demons in between, but the side window is only one table away, with buckets of alcohols within range. He calculates his route.
+The exit door is two tables away, with the three lady demons in between, but the side window is only one table away, with buckets of alcohol within range. He calculates his route.
 
 The demons circle closer. Their footsteps heavy, dresses of the ladies rustle relentlessly.
 
-Dean risks another look from the edge of his hideout. All of them have a gun in their hands. Since when do demons kill human with guns? Western cowboy demons? He teases the thought, finding it not as unpleasant as he thought.
+Dean risks another look from the edge of his hideout. All of them have guns in their hands. *Since when do demons kill humans with guns? Western cowboy demons?* He teases the thought, finding it not as unpleasant as he would have thought.
 
-The demon possessing the bartender lets out a raspy laughter. "You will die, Clint Eastwood."
+The demon possessing the bartender lets out a raspy laugh. "You will die, Clint Eastwood."
 
-"Huh, it's actually nice hearing people say that, you know. Sorta the point, could be a line for the movies." Dean estimates the timing and the distance, swinging a stool at the foot of the closest demon girl, diving side way. Darla, the saloon girl cornered him the first day, yells angrily, eyes turning black, swooping for him.
+"Huh, it's actually nice hearing people say that, you know. Sorta the point, could be a line for the movies." Dean estimates the timing and distance, then swings a stool at the foot of the closest demon girl, diving sideways. Darla, the saloon girl cornered him the first day, yells angrily, her eyes flashing black, swooping for him.
 
-"Sorry about that." Dean says, a bit apologetically. Then dives for the bucket stack, kicking them loose.
+"Sorry about that," Dean says, a bit apologetically. Then diving for the bucket stack and kicking them loose.
 
-A bucket rolls into the center of the saloon, alcohol leaking from a crack, leaving a wet trail as it goes. The second one follows, making the trail a pool, soaking the next one inside out.
+A bucket rolls into the center of the saloon, alcohol leaking from a crack, leaving a wet trail as it goes. The second one follows, making the trail a spreading pool, soaking the next one inside out.
 
-Dean leaps out of the place through the window right before the demons shoot the spot he was in. Bullets and sparks catch the alcohol, the whole place turns into a big pile of flame and smoke in seconds. Demons hiss furiously inside.
+Dean leaps out of the place through the window right before the demons shoot the spot he had been. Bullets and sparks catch the alcohol, the whole place turns into a roaring pile of flame and smoke in seconds. Demons hiss furiously inside.
 
-The second floor crumbles down in the flame. Dean only then realizes he forgets to check if there is any human up there, but it's too late already.
+The second floor crumbles down in the flame. Dean only then realizes he forgot to check if there were any human up there, but it's too late already.
 
-He unleashes the horse by the stable, galloping out of the town, heading west without looking back.
+He unleashes the horse from the stable and gallops out of the town, heading west without looking back.
 
 <br>
 
-He doesn't slow down until the burning hut is completely out of the view. The sun is setting ahead of him on the horizon. He eases the rein, letting the horse stroll.
+He doesn't slow down until the burning hut is completely out of view. The sun is setting ahead of him on the horizon. He eases the reins, letting the horse stroll.
 
-Dean glances back at the wild plain territory behind him, barely anything to see. Barren and wild, cactus and weed growing from sand, no sign of civilization.
+Dean glances back at the wild plain territory behind him, barely anything to see. Barren and wild, cactus and weeds growing from the sand, no sign of civilization.
 
-"No coming back to Sunrise, Wyoming now." He sighs, patting the duffel bag and roll of blanket wrapped tightly on the back of the horse, the same way he'd check the Impala's trunk has everything he needs for the road.
+"No coming back to Sunrise, Wyoming now," he sighs, patting the duffel bag and roll of blanket strapped tightly to the horse's back, the same way he'd check the Impala's trunk to make sure he had everything he needs for the road.
 
-Dean removes the Sheriff's pin from his shirt. "Didn't expect the first gig end up like that, goddamn demons always ruin the day."
+Dean removes the Sheriff's pin from his shirt. "Didn't expect the first gig to end up like that, goddamn demons always ruin the day."
 
-He strokes the neck of the horse gently, speaking to her as much as to himself, "What do you think, that's a loud enough distress call to Cas or not?"
+He strokes the horse's neck gently, speaking to her as much as to himself. "What do you think, that's a loud enough distress call for Cas or not?"
 
-He looks up at the sky. The night is falling slowly, the color transitions from dark blue to deep purple. Some stars that are incredibly bright already start shining and blinking above these lands. Light pollution isn't a thing yet.
+He looks up at the sky. Night is falling slowly, the color transitioning from dark blue to deep purple. Some stars that are incredibly bright and shining already start blinking above these lands. Light pollution isn't a thing yet. He wonders if they look the same a hundred fifty years into the future.
 
-Pure universe hanging on top of him like a gigantic globe hull, celestial, but not in a biblical way.
+The pure universe hanging on top of him like a gigantic globe, celestial, but not in a biblical way.
 
-Dean lets his fingers combing through horse's hair, feeling the creature's muscle rise and fall as it jogs. "Yeah, I know." He says quietly, "Probably not."
+Dean lets his fingers comb through the horse's hair, feeling the creature's muscles rise and fall as she jogs. "Yeah, I know," he says quietly, "Probably not."
 
 Him not being home already is proof by itself.
 
-"Looks like just you and me and the whole wild west now, Baby." He pats the horse. "Come on then, let's head west and make some more noise, he'd have to hear one of them. Good thing all the land between here and the ocean are free to go."
+"Looks like it's just you and me and the whole wild west now, Baby," he pats the horse. "Come on then, let's head west and make some more noise, he's gotta hear one of 'em. Good thing all the land between here and the ocean is free to go."
 
 The whole wild west ahead of him, free to explore.
 
-But Dean isn't anywhere near ecstasy. It's just too damn far away from home.
+But Dean isn't anywhere near ecstatic. It's just too damn far from home.
 
 ### Chap.2-2 (Cas time travel)(Time flux, Cas+Raphael)
 
 > **Outline:** Cas's in no condition to time travel but he worries about Dean too much so he risks flying into the time flux in his wounded state, leaving bloody trace behind. His trace exposes him, Raphael follows him into the time flux, so he has to escape the chase while tries to locate Dean, Cas crash lands in Sunrise Wyoming but Dean's not there.
 
-"This is stupid, even for you." The thundering voice sounds up above him. Cas doesn't need to look up to know who has found him.
+"This is stupid, even for you." The thundering voice sounds from above him. Cas doesn't need to look up to know who has found him.
 
 The stab pierces through the abdomen of the vessel, but it's even worse for his true form. The outer ring gets a deep cut through, almost reaching the middle ring. The root of one of the right wings is also wounded. He can barely fly straight.
 
-*It's like leaving blood trace behind in the open sea,* he thinks distantly. *He's the drowning swimmer, attracting the sharks.*
+*It's like leaving a blood trail in the open sea,* he thinks distantly. *He's the drowning swimmer, attracting the sharks.*
 
-"Thought I can at least have a head start before you catch up." Cas answers. Beating his wings the hardest he can. The pain tears through his wings with each slap. But he has to keep going.
+"Thought I could at least have a head start before you catch up," Cas answers, beating his wings as hard as he can. Pain tears through his wings with each slap. But he has to keep going.
 
-Below them, the time flux is flowing, bright and sparkling. Almost like flying in the space, appreciating the galaxy. In a way, time is no different from space.
+Below them, the time flux is flowing, bright and sparkling. Almost like flying in the space, admiring the galaxy. In a way, time is no different from space.
 
-"So you know I'd found you, sooner or later." Raphael amuses. The flow from the archangel's wings disturbs this time dimension like a tornado sweeping through wild plain. "I didn't know you're the suicidal type."
+"So you know I'd find you, sooner or later," Raphael amuses. The flow from the archangel's wings disturbs this time dimension like a tornado sweeping through a wild plain. "I didn't know you were the suicidal type."
 
-"Not suicidal." Cas dives lower, avoiding the central turbulence, trying to use the left wings to remedy the wounds on the right side. He doesn't bother checking if the bleeding of grace is getting worse. The bandage Bobby helped wrapping him with didn't do anything. His essence is running out fast.
+"Not suicidal." Cas dives lower, avoiding the central turbulence, trying to use the left wings to compensate for the wounds on the right side. He doesn't bother checking if the bleeding grace is getting worse. The bandage Bobby wrapped him with didn't do anything. His essence is running out fast.
 
 He's running out of time too.
 
-*Not suicidal. It's desperate.*
+*Not suicidal. Desperate.*
 
-It's actually funny. Cas's mind somehow wanders away. If Dean is here, he'd definitely make a remark about how you can even running out of time when you're literally *in* the time dimension, scouting the time flux.
+It's actually funny. Cas's mind somehow wanders away. If Dean were here, he'd definitely make a remark about how you can even running out of time when you're literally *in* the time dimension, scouting the time flux.
 
-He can't think of any joke himself.
+Cas can't think of any joke himself.
 
-*Not suicidal, but just for finding the people too important to lose.* He just need enough time to find them before Raphael gets a hold of him and undoubtfully damns him into the eternality of killing him over and over again.
+*Not suicidal, just trying to find the people too important to lose.* He just needs enough time to find them before Raphael gets a hold of him -- and undoubtfully damns him into the eternality of being killed over and over again.
 
-The time flux has an urgent turn around nineteenth century, with the Civil War and everything, the history is not so easy to make out. Cas squints his eyes, focusing on the reflections in the time flux --
+The time flux has an urgent turn around the nineteenth century, with the Civil War and everything, the history is not so easy to make out. Cas squints, focusing on the reflections in the time flux --
 
-That's when he loses his balance suddenly. A harsh tear on tip of his top left wing makes him gasp in pain, the inner ring shrinks in reflex, like how a human would yell and jump back at an unexpected strike of pain.
+That's when he loses balance suddenly. A harsh tear on the tip of his top left wing makes him gasp in pain, the inner ring shrinks reflexively, like how a human would yell and jump back at an unexpected strike of pain.
 
-Cas curls his left wings for self-protection, dropping the flying height. Raphael's big shadow swooping right on top of him, like an eagle diving for its prey sparrow.
+Cas curls his left wings for protection, dropping altitude. Raphael's big shadow swoops right on top of him, like an eagle diving for its prey sparrow.
 
-He manages a sharp turn to avoid the followed attack. The tip of the lower wings dipping into the time flux, catching a damp from the early twentieth century.
+He manages a sharp turn to avoid the following attack. The tip of his lower wings dipping into the time flux, catching a dampness from the early twentieth century.
 
-Cas resets his rings and wings, swirling backwards.
+Cas resets his rings and wings, swirling backward.
 
-"You do know it is pointless to fight or hide from me, do you?" Raphael mocks, turning around as well, following him two wings' distance away.
+"You do know it is pointless to fight or hide from me, don't you?" Raphael mocks, turning around as well, following him two wings' distance away.
 
-"How do you find me?" Cas asks, hoping vainly that the talks might distract the archangel for a split of heartbeat time for a break, while widening all the eyes he has to scan through the time flux. It's been a while since he has to fight in the time dimension in his true form, even longer to have to find a soul in here, if ever.
+"How did you find me?" Cas asks, hoping vainly that talking might distract the archangel for a split of heartbeat time for a break, while widening all the eyes he has to scan the time flux. It's been a while since he has to fight in the time dimension in his true form, even longer to have to find a soul here, if ever.
 
-But surely the familiarity and the profound bound should make it easier? Cas starts getting anxious, finding the time flux all look the same rapid and more confusingly dazzling than he remembers. Something disturbing is going on in these western times, but he doesn't know what, and Dean is there, going through the weird time and history on his own, without wings and without protection.
+But surely familiarity and the profound bound should make it easier? Cas starts getting anxious, finding the time flux looking even more rapid and confusingly dazzling than he remembers. Something disturbing is going on in these western times, but he doesn't know what, and Dean is there, going through the weird time and history on his own, without wings and without protection.
 
-Cas flaps his wings more rapidly, bearing all the tearing sensation in the rings and wings. Not caring that the more rapid he goes, the faster the grace is bleeding and losing, spilling from his true form like dripping blood along the way.
+Cas flaps his wings more rapidly, bearing all the tearing sensation ripping through his rings and wings. Not caring that the faster he goes, the faster the grace bleeds and loses, spilling from his true form like dripping blood along the way.
 
-Then for the second time, the disturbance in the air hits him sharp from the center, he almost falls directly into the time flux below.
+Then, for the second time, the disturbance in the air hits him sharply from the center, he almost falls directly into the time flux below.
 
-The archangel didn't even unleash his supernova-explosion-level grace, just using the tips of his wings that are as sharp as any metal in the universe that can ever be, almost cutting him in half.
+The archangel hasn't even unleashed his supernova-level grace, just using the tips of his wings that are as sharp as any metal in the universe that can ever be, almost cutting him in half.
 
 Castiel screams in pain in his true voice. The time dimension echoes his sound. Raphael laughs behind him in satisfaction.
 
-"I can smell your bleeding grace from two galaxies away, Castiel." Raphael tells him, tone satisfying. "Let alone that human you hang out with, gave us a loud and clear coordinate. So give up, Castiel, you can't hide from me in any time or space. I will always find you, and I will always destroy you."
+"I can smell your bleeding grace from two galaxies away, Castiel," Raphael tells him, tone satisfying. "Let alone that human you hang out with, gave us a loud and clear coordinate. So give up, Castiel, you can not hide from me in any time or space. I will always find you, and I will always destroy you."
 
-The second swing of cutting comes from the other side, Cas hears it coming before it hits him, he ducks sideways. The archangel's feathers are like natural angel blades, they scratch his innermost ring, missing the heart of his essence by mere inches.
+The second cutting swing comes from the other side, Cas hears it coming before it hits him, he ducks sideways. The archangel's feathers are like natural angel blades, scratching his innermost ring, missing the heart of his essence by mere inches.
 
-He might be killed any minute now. Cas thinks bitterly. And then Dean and Sam would be trapped in the western wasteland in the past, forever. They won't even reach the time when the first Impala was ever produced when they die of old age -- *if* they die of old age. They won't ever come back home again.
+He might get killed any minute now. Cas thinks bitterly. And then Dean and Sam would be trapped in the western wasteland of the past, forever. They won't even reach the time when the first Impala was ever produced when they die of old age -- *if* they die of old age. They won't ever come back home again.
 
-Cas blinks his eyes hard, opening all his wings again, wounded or not, shooting upwards. Directly into Raphael from below. The rings around his essence spin fast and urgent, like a rapidly beating heart.
+Cas blinks hard, opening all his wings again, wounded or not, shooting upward. Directly into Raphael from below. The rings around his essence spin fast and urgent, like a rapidly beating heart.
 
-Raphael doesn't expect the change of direction in his moves. He has no time of diverting.
+Raphael doesn't expect the change of direction in his moves. He has no time to divert.
 
-Castiel uses his whole existence as bullet, the momentum as the fuel, hitting Raphael in his most vulnerable ring -- the same part in Cas that is beating and spinning glaringly, the innermost ring around the essence. Raphael is pushed out of balance, for a split of heartbeat time, out of control of where he's heading.
+Castiel uses his whole existence as a bullet, the momentum as the fuel, hitting Raphael in his most vulnerable ring -- the same part in Cas that is beating and spinning glaringly, the innermost ring around the essence. Raphael is pushed off balance, for a split heartbeat, out of control of where he's heading.
 
-Castiel catches the blink of opportunity when Raphael does not have eyes on him, diving straight into the time flux below him.
+Castiel catches the blink of opportunity when Raphael does not have eyes on him, diving straight into the time flux below.
 
-The time dimension swirls and rotates around him, absorbing him into the point he hits. The speed of rotation makes his rings twist and deform. No wonder every time he pops Dean in and out, he'd complain about motion sickness. This must be the exact dizziness a human would feel if he doesn't have any grace left.
+The time dimension swirls and rotates around him, absorbing him into the point he hits. The speed of rotation makes his rings twist and deform. No wonder every time he pops Dean in and out, the human would complain about motion sickness. This must be the exact dizziness a human would feel if he doesn't have any grace left.
 
-The thought makes his heart thumps hard and cold.
+The thought makes his heart thump hard and cold.
 
-*Did he lose all the grace just to reach them? How is he gonna take them home now?*
+*Did he lose all the grace just to reach them? How is he going to take them home now?*
 
-Without any answer to any of the questions, his feet land on the solid ground again. Castiel tumbles ahead, dropping on his all fours, spitting blood onto the sandy ground in front of him. The view is swimming, the ground is floating up and down as if he's being washed away by the tide. He has to focus very hard to not let the cold, shaky limbs give way here and now.
+Without any answer to any of the questions, his feet land on solid ground again. Castiel tumbles forward, dropping onto all fours, spitting blood onto the sandy ground in front of him. The view is swimming, the ground floating up and down as if he's being washed away by the tide. He has to focus very hard to not let his cold, shaking limbs give way here and now.
 
-Wind blows, the sand rises around him. The vessel coughs, more blood dripping, from everywhere, not just from his mouth.
+Wind blows, sand rises around him. The vessel coughs, more blood dripping, from everywhere, not just from his mouth.
 
-Cas only gets time to see a wooden sign with a neat carving saying "Sunrise, WYO." before the world turns total black.
+Cas only gets time to see a wooden sign with neat carving that says "Sunrise, WYO." before the world turns completely black.
 
 ### Chap.3 (Dean's western life)(Wild west, 1861, Dean)
 
@@ -1818,19 +1818,23 @@ They find Sam in Samuel's place, the two of them are adding extra sigils to the 
 
 Sam hates to leave as much as back when he was still at school and Dean or their dad had to tell him they're moving again.
 
-Sam purses his mouth as his protest, patting Samuel on the shoulder at the time of farewell.
+Sam pouts his mouth as his protest, patting Samuel on the shoulder at the time of farewell.
 
 The old legendary hunter pats him back on the same spot. Not saying anything, but standing by the hut's door, waving.
 
 Dean almost feels bad for him.
 
-They are back at Bobby's place in a blink. Land on the date of April the twenty fifth, 2011. Minutes after Cas woke up from Bobby's couch and flew away from the place.
+They are back at Bobby's place in a blink. Landing on the date of April the twenty fifth, 2011. Minutes after Cas woke up from Bobby's couch and flew away from the place.
 
 "So the time dimension this round, it's easy to fly?" Dean murmurs low and only Cas can hear, as their feet touch the ground again.
 
-"Yes." Cas nods by his side. "Raphael isn't there anymore."
+"Yes." Cas nods small by his side, steadying his stumbling footstep from the landing.
 
-Dean is relieved, turning to hug Bobby so tight that makes the old hunter grumbles.
+Dean squints at him, checking him over. There is a fresh new tear on the back of his trench coat, but no sight of blood or wound.
+
+Dean raises an eyebrow at the tear while Sam strides to hug and greet Bobby. Cas murmurs under the breath, "It is not of import. I'm fine, Dean, Raphael missed, I'm faster this time. We're safe, for now."
+
+Dean is relieved slightly, turning to hug Bobby so tight that makes the old hunter grumbles.
 
 "Alright, alright, sappy," Bobby pats his back a few times, "no need to grow girl parts, it's just three days."
 
@@ -1844,7 +1848,7 @@ So they do.
 
 <br>
 
-Then, the old life comes back. The old demon-hunting, monster-killing life Dean's grown up with. They make plans, they hunt down Eve, they deal with Crowley, they look for ways to handle Raphael. They work on saving the world every other Tuesdays.
+Then, the old life comes back. The old demon-hunting, monster-killing life Dean's grown up with. They make plans, they hunt down Eve, they deal with Crowley, they handle Raphael. They work on saving the world every other Tuesdays.
 
 Sam jumps right back into the old routine as if the months in the Wild West have never left a mark in his memory, but Dean thinks, in between the monster-hunting and the world-saving, when he exchanges the looks with Cas, he knows something is never the same ever again.
 
@@ -1860,7 +1864,7 @@ A life they never have, but an option always open. That night, in the moonlight,
 
 A life in the past, can be their future.
 
-The one thing they always want, is the one thing they could have.
+The one thing they really want, is the one thing they could have.
 
 Dean breathes slow and deep, closing his eyes in the quiet night.
 
@@ -1872,7 +1876,7 @@ They will be happy, content. Home.
 
 Dean decides, he wants nothing more.
 
-He falls into sleep with a quiet smile.
+He falls into sleep with a peaceful smile.
 
 <br>
 
