@@ -1766,7 +1766,7 @@ Cas is quiet. Too quiet. With the eyes too deep and blue, swirling like ocean wa
 
 *Tell me, please.* Dean thinks hard, seeing Cas's eyes widen slightly, realizing the thought must have been conveyed through the prayer accidentally.
 
-"It's... not easy," Cas murmurs, his voice husky and reluctant. "But it's gone now, so it doesn't matter." His eyes flicker to outside of the door. Some outlines of dead and wounded men can be seen from where they stand. The moonlight is bright tonight.
+"It's... not easy," Cas murmurs, his voice husky and reluctant. "But it's gone now, so it doesn't matter." His eyes flicker to the outside of the door. Some outlines of dead and wounded men can be seen from where they stand. The moonlight is bright tonight.
 
 "No, it matters," Dean tells him, his voice adamant. "It matters to me."
 
@@ -1792,9 +1792,9 @@ Silence falls between them again. Calm and comfortable. They just sit there, wit
 
 They're not eager to go anywhere, or any time. They've spent too long getting to this point, at least they've earned a moment to catch their breath.
 
-Dean's mind wanders to the ranch in Cas's words. He doesn't need to see the place to know it must be something Cas would enjoy. The livestock and the wild lives, the creatures and the woods. The growing kids, girls and boys growing to become fine ladies and gentlemen -- or wild girls and uncivilized hunters, if they choose to.
+Dean's mind wanders to the ranch in Cas's words. He doesn't need to see the place to know it must be something Cas would enjoy. The livestock and the wildlife, the creatures and the woods. The growing kids, girls and boys growing to become fine ladies and gentlemen -- or wild girls and uncivilized hunters, if they choose to.
 
-They could live there, own a small hut of their own, take possession of a small corner of the ranch. They could tend to the land and watch the sunset from the porch. The air would smell like wood and grass, their hands weathered from farm work instead of gunfire. Dean blinks hard, thinking, *that doesn't even sound half bad*. Sam is welcome to stay, or find another ranch of his own with someone he enjoys spending time with. They could just live normal, quiet lives, and probably die of boredom, old age, or too much healthy natural food, sometime around the turn of the twentieth century. Dean finds himself wouldn't mind that they would not even live to the day that the Impala is produced or the day Led Zeppelin starts their touring. With Cas, and Sam, safe and happy with him, there isn't much else to ask for. Dean smiles.
+They could live there, own a small hut of their own, take possession of a small corner of the ranch. They could tend to the land and watch the sunset from the porch. The air would smell like wood and grass, their hands weathered from farm work instead of gunfire. Dean blinks hard, thinking, *that doesn't even sound half bad*. Sam is welcome to stay, or find another ranch of his own with someone he enjoys spending time with. They could just live normal, quiet lives, and probably die of boredom, old age, or too much healthy natural food, sometime around the turn of the twentieth century. Dean finds himself not mind that they would not even live to the day that the Impala is produced or the day Led Zeppelin starts their touring. With Cas, and Sam, safe and happy with him, there isn't much else to ask for. Dean smiles.
 
 "What are you thinking?" Cas breaks the silence.
 
@@ -1816,7 +1816,7 @@ The wind and sand hear them. The night is long and quiet.
 
 Cas breathes out, waiting for a furious blow. Only to find Dean's look intense, but not angry.
 
-"We'll figure this out, together. Later." Dean says. Then, "Now lets pick up Sam and go home."
+"We'll figure this out, together. Later." Dean says. Then, "Now let's pick up Sam and go home."
 
 <br>
 
@@ -1838,7 +1838,7 @@ They are back at Bobby's place in the blink of an eye. Landing on the date of Ap
 
 "Yes." Cas nods slightly by his side, steadying his stumbling footsteps from the landing.
 
-Dean squints at him, checking him over. There is a fresh new tear on the back of his trench coat, but no sight of blood or wound.
+Dean squints at him, checking him over. There is a fresh new tear on the back of his trench coat, but no sign of blood or wound.
 
 Dean raises an eyebrow at the tear while Sam strides over to hug and greet Bobby. Cas murmurs under his breath, "It is not of import. I'm fine, Dean, Raphael missed, I'm faster this time. We're safe, for now."
 
@@ -1864,7 +1864,7 @@ Sometimes at night, when he lies in a motel bed, staring at the ceiling, wide aw
 
 He might as well be lying in a saloon room in an old town, cowboys on horseback stomping noisily down the floor, the smell of animal dung mixed with saloon ladies' perfumes filling the air, music drifting through the thin wooden walls.
 
-He could still feel the wind from the old western time blows through his hair, the land vast, the world open to explore. Dean allows himself imagine the life they never had: Cas on the ranch, busy and happy, wearing a cowboy hat. They sit in the corner of a saloon on Friday nights, listening to the town folks playing old-time music, dancing and singing, happy and peaceful. All the while Cas by his side. Dean breathes, feeling the air calm and easy, the smell of dust is the taste of raw nature and freedom.
+He could still feel the wind from the old western time blowing through his hair, the land vast, the world open to explore. Dean allows himself to imagine the life they never had: Cas on the ranch, busy and happy, wearing a cowboy hat. They sit in the corner of a saloon on Friday nights, listening to the town folks playing old-time music, dancing and singing, happy and peaceful. All the while Cas by his side. Dean breathes, feeling the air calm and easy, the smell of dust is the taste of raw nature and freedom.
 
 A life they never had, but an option always open. That night, under the moonlight, in the quiet moment, when he looks Cas in the eyes, Dean knows the answer to an unasked question, would be yes. He knows.
 
@@ -1874,7 +1874,7 @@ A life in the past, could be their future.
 
 The one thing they really want, is the one thing they could have.
 
-Dean breathes slow and deeply, closing his eyes in the quiet night.
+Dean breathes slowly and deeply, closing his eyes in the quiet night.
 
 Maybe they will, *one day*. When all is done, maybe they will.
 
