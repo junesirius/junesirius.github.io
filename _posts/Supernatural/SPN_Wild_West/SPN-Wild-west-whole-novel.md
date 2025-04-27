@@ -760,9 +760,9 @@ Except, with the black horse, with its rising and falling rhythm of muscle, the 
 
 Dean presses his palms on the horse's back, just to feel its heartbeat. Then slowly feeling his own heartbeat calming down.
 
-He looks up at the starry sky, closing his eyes, exhaling deeply, smelling the sand and bushes. *Where are you, man?* He can't help thinking, not even sure if that's a prayer or just a haunting thought keep replaying itself in his mind.
+He looks up at the starry sky, closing his eyes, exhaling deeply, smelling the sand and bushes. *Where are you, man?* He can't help thinking, not even sure if that's a prayer or just a haunting thought replaying itself in his mind.
 
-He lets the horse decide the road for him, leaving his own mind wandering -- that's another similar yet different experience from driving, one he can actually take his eyes off the road long enough and no need to worry about crushing into some other incoming vehicles.
+He lets the horse decide the road for him, leaving his own mind wandering -- that's another similar yet different experience from driving, one he can actually take his eyes off the road long enough and no need to worry about crashing into some other incoming vehicles.
 
 When the night sinks deep into the dark and cold hour, he lets the horse rest. Finding a relatively soft spot on the sandy land, wrapping himself in the blanket, he rests his eyes for a handful of hours. Then moves on again before the sun fully rises.
 
@@ -794,17 +794,17 @@ He is woken up several hours later by some loud crying and yelling from next doo
 
 Dean jumps to his feet, dashing out to the next room without thinking.
 
-A man twice bigger than him is standing on the lone bed in the center of the room, all naked and hairy, holding a knife in his hand high above head, almost touching the ceiling.
+A man twice bigger than him is standing on the lone bed in the center of the room, all naked and hairy, holding a knife in his hand high above his head, almost touching the ceiling.
 
 The crying girl curls in the corner of the bed like a startled little creature, wrapping herself up in her arms, covering her face with her fingers. Unclothed and crying loudly, screaming for her life. Blood streaming between her fingers.
 
 Dean recognizes her from the group of saloon ladies who greeted him when he arrived.
 
-He approaches the man carefully, eyeing the knife, closing the distances between them, tone demanding, "Why don't you put the knife down and let's talk?"
+He approaches the man carefully, eyeing the knife, closing the distance between them, tone demanding, "Why don't you put the knife down and let's talk?"
 
 The man glances back at him for a split second, grumbling, "Go away. None of your business."
 
-"It's my business because I was woken up," Dean takes another step closer, barely a dive's distance away from him now. He tries to hint for the girl to get away while the man's distracted, but she's just too busy crying. He can't tell where the blood is coming from and it worries him.
+"It's my business because I was woken up," Dean takes another step closer, barely a dive's distance away from him now. He tries to hint to the girl to get away while the man's distracted, but she's just too busy crying. He can't tell where the blood is coming from and it worries him.
 
 "Very well," the man snarls. "I'll deal with you once I kill the bitch."
 
@@ -814,13 +814,13 @@ The man struggles violently and breaks loose from Dean's hold, fumbling to his f
 
 Dean gets pinned to the ground under the weight, wrestling with every fighting skill he's picked up over the years, but battle techniques for everyday monsters are not as useful against a pissed-off cowboy when he's not trying to kill him.
 
-The man fights like a gorilla, ending up straddling him with one hand pressing on Dean's chest, stopping him from attempts of getting away, the other hand pressing the tip of the knife against his cheek. "You should keep your nose clean," he grits the yellow teeth.
+The man fights like a gorilla, ending up straddling him with one hand pressing on Dean's chest, stopping him from getting away, the other hand pressing the tip of the knife against his cheek. "You should keep your nose clean," he grits the yellow teeth.
 
 The knife feels cold against his skin. Dean wonders how much he can move his head before it stabs through his skull.
 
-"Cleaner than yours," Dean barks back, staring the man in the eyes deadly focused as if they're in a gun duel. He moves suddenly, so quick that the other doesn't have time to react, and Dean already breaks his hands free. He twists his wrist in a way sharply that the man has to loose the hold of the knife, and the next second, the knife lands in Dean's hand.
+"Cleaner than yours," Dean barks back, staring the man in the eyes deadly focused as if they're in a gun duel. He moves suddenly, so quick that the other doesn't have time to react, and Dean already breaks his hands free. He twists his wrist in a way sharply that the man has to loosen the hold of the knife, and the next second, the knife lands in Dean's hand.
 
-Just in a blink of an eye, their positions shift. Dean holds the knife an inch from the man's neck, close enough to make his point clear. The man stills.
+Just in the blink of an eye, their positions shift. Dean holds the knife an inch from the man's neck, close enough to make his point clear. The man stills.
 
 Dean demands, "Now you wanna explain what's the matter with the lady?"
 
@@ -830,7 +830,7 @@ Right at this moment, three men burst into the room, all in uniforms, with a she
 
 Dean knows better than to bring a knife to a gunfight with three cowboy lawmen.
 
-He lets his hand fall and tied behind his back with a rough rope. The other guy is tied to the same wooden stake hammered into the ground.
+He lets his hand fall and gets tied behind his back with a rough rope by a deputy. The other guy is tied to the same wooden stake hammered into the ground.
 
 The Sheriff glares between them. "Now, talk!"
 
@@ -852,7 +852,7 @@ The naked cowboy doesn't answer.
 
 "She chuckled when she saw his tiny junk, that's what." The older lady turns from cleaning the wounds on the girl's face, speaking on her behalf, snapping harshly. "Now look what he's done! She's ruined!"
 
-She's not wrong, his junk dangles pitifully as he moved around earlier. Dean has to stifle a chuckle of his own, but the crowd around them isn't as generous. The cowboy Mike growls something under his breath, the sound throttled in his throat like a caged tiger huffing.
+She's not wrong, his junk dangled pitifully as he moved around earlier. Dean has to stifle a chuckle of his own, but the crowd around them isn't as generous. The cowboy Mike growls something under his breath, the sound throttled in his throat like a caged tiger huffing.
 
 The skinny man behind the counter chimes in. "There has to be justice, Little Bill. Who would want a whore with a scarred face? I bought her last spring, and she's damaged goods now. She could've served for another five, ten years."
 
@@ -880,11 +880,11 @@ The Sheriff snorts, turning to the cowboy. "How many horses do you have, Mike?"
 
 The two deputies untie their hands and follow him out.
 
-Dean flexes his numb wrist, glancing at the cowboy Mike, wondering how stupid of a move it would be if he gives him a punch again. The Sheriff is barely out of the saloon.
+Dean flexes his numb wrist, glancing at the cowboy Mike, wondering how stupid a move it would be if he gives him a punch again. The Sheriff is barely out of the saloon.
 
 "Off you go, nothing to see now." Skinny shoos the crowd. "Have a good night. And you, Mr. Eastwood --" That's the name Dean registered with earlier. "-- Enough of playing hero, my girls don't need a prince on a white horse, they have me. Better if you get going, you understand?"
 
-Dean throws a glimpse at the girls again. The poor wounded one has stopped crying now, the other girls help wrap a gauze on her face like a pirate's blindfold. Blood reddens the cloth. She looks at him, desperate, helpless. Eyes pleading. Hatred shines when she glances at the man who owns her and the man who disfigured her. But it is so clear that there is nothing she can do.
+Dean throws a glance at the girls again. The poor wounded one has stopped crying now, the other girls help wrap a gauze on her face like a pirate's blindfold. Blood reddens the cloth. She looks at him, desperate, helpless. Eyes pleading. Hatred shines when she glances at the man who owns her and the man who disfigured her. But it is so clear that there is nothing she can do.
 
 Dean takes his gaze back, walking slowly toward the counter. "Oh, I understand," he says slowly, stopping at arm's length from Skinny. "But you see, I didn't come riding in on a white horse, I came in black."
 
@@ -910,7 +910,7 @@ Dean ducks to the ground, two pistols in hand, both smoking hot from the shots. 
 
 Dean stands up, without a scratch, scrutinizing the naked bleeding cowboy. "Think twice next time before being an asshole." He spits at him, knowing the other man behind the counter can hear him.
 
-The wounded girl murmurs a heartfelt "Thank you" to him as he passes her on his way to gather his belongs upstairs. Dean returns a short nod.
+The wounded girl murmurs a heartfelt "Thank you" to him as he passes her on his way to gather his belongings upstairs. Dean returns a short nod.
 
 This is just gonna be another town he can never come back to.
 
@@ -928,7 +928,7 @@ The gang is playing poker at the saloon when he pushes the door open. One of the
 
 Dean tenses, fingers reaching for his pistols automatically.
 
-They laugh loudly and drunkenly, standing up and moving toward him, no guns pointed his ways. Dean lowers his hands, squinting, confused.
+They laugh loudly and drunkenly, standing up and moving toward him, no guns pointed his way. Dean lowers his hands, squinting, confused.
 
 "Look at this good lad." The one that seems to be their leader stands two steps away in front of him, glancing back at the rest of the group. They make cheerful noises.
 
@@ -940,7 +940,7 @@ Dean huffs a laughter, shaking his hand. "Oh, I've heard," he says admiringly, m
 
 "I take it that must be the Sundance Kid?" Dean nods at a sharp-looking man by the desk, who didn't bother to stand when the others did, a moustache too thick to see the lips.
 
-Butch follows his gaze, nodding, beaming with approval. "So you did hear about us." His tone over glad and polite. It's actually surprising to see one so affable and polite as a gangster, no wonder the gang makes their charming reputation in history. If he sticks with them, maybe his name can be branded together and makes out loud like a quick pass? Dean wouldn't complain hanging out with this group if they're truly like the movie shows.
+Butch follows his gaze, nodding, beaming with approval. "So you did hear about us." His tone over glad and polite. It's actually surprising to see one so affable and polite as a gangster, no wonder the gang makes their charming reputation in history. If he sticks with them, maybe his name can be branded together and make out loud like a quick pass? Dean wouldn't complain hanging out with this group if they're truly like the movie shows.
 
 "Come join us, the round's on us." Butch gestures, and Dean sits next to him. The group resumes their poker game.
 
@@ -948,7 +948,7 @@ Butch follows his gaze, nodding, beaming with approval. "So you did hear about u
 
 Butch laughs while pouring him a drink. "What can I say, we ran out of banks there."
 
-"Already?" Dean amuses. There gotta be another thirty years before their lights out, will there be any bank left in the states for them to rob? He wonders, but knows that would be a question that spoils the future and more importantly, what he knows and where he comes from, Dean is clever enough to remember to keep his mouth shut.
+"Already?" Dean amuses. There gotta be another thirty years before their lights out, will there be any banks left in the states for them to rob? He wonders, but knows that would be a question that spoils the future and more importantly, what he knows and where he comes from, Dean is clever enough to remember to keep his mouth shut.
 
 Butch doesn't notice his pause, just shrugs. "There will be more once we finish with Utah and Arizona and all those barbaric places. We'll come back to Wyoming. They keep building new banks like growing crops to harvest. What a nice way of provoking new fortune, wouldn't you say?"
 
@@ -956,7 +956,7 @@ Dean laughs and nods, drinking from the glass. It's not beer, and it tastes bett
 
 "You got a job in this town?" Three drinks later, Dean asks. With poker cards in his hands. Sundance is dealing.
 
-"Right down the road, the new bank has only two guards and closes at sunset," Butch tells him. Dean wonders curiously how come no one in the place hears their loud discussion of a robbery and raises an alarm. But glancing around, judging by how drunk most forks are and the fact that it's still bright afternoon, the answer isn't too difficult to figure out.
+"Right down the road, the new bank has only two guards and closes at sunset," Butch tells him. Dean wonders curiously how come no one in the place hears their loud discussion of a robbery and raises an alarm. But glancing around, judging by how drunk most folks are and the fact that it's still bright afternoon, the answer isn't too difficult to figure out.
 
 "You want to join?" Butch plays his cards, glancing at him. "We could use a man like you."
 
@@ -994,7 +994,7 @@ He goes back to Butch and says it might not be a good idea to rob here again, th
 
 "You're afraid?" Butch raises an eyebrow. "Afraid of death?"
 
-"No," Dean defends automatically, but his thought does wander briefly, imagining his own dead body lying on the bank floor, bleeding out with a bullet hole to the heart, imagining Cas finding him like that, or Sam. Or maybe none of them does and they never find out what happened to him. He swallows down the lump in the throat. "But isn't it better to stay alive?"
+"No," Dean defends automatically, but his thought does wander briefly, imagining his own dead body lying on the bank floor, bleeding out with a bullet hole to the heart, imagining Cas finding him like that, or Sam. Or maybe none of them does and they never find out what happened to him. He swallows down the lump in his throat hard. "But isn't it better to stay alive?"
 
 Butch considers, then agrees to skip this town.
 
@@ -1018,7 +1018,7 @@ He asks them, "Where does the money in banks come from?"
 
 "The train." Butch starts smiling.
 
-"There's a railway line right across Arizona." Dean doesn't need an updated -- outdated, in this sense -- map to know what's the atlas looks like. "We just need some dynamite."
+"There's a railway line right across Arizona." Dean doesn't need an updated -- outdated, in this sense -- map to know what the atlas looks like. "We just need some dynamite."
 
 They gather the dynamite, so much more than they actually need, and blow the safety case to the sky. The poor clerk from the Union Pacific Flyer murmurs his protest through the whole thing, landing bloody and with a broken arm after the smoke from the blast clears. But at least he's still alive.
 
@@ -1034,7 +1034,7 @@ Dean watches the group as if he's just watching an old western movie up close, b
 
 Cas sat down next to him on the motel bed, watching the screen that was way too small. They should watch it here, like this, surrounded by music and dancing people three hundred and sixty degree immersive, that's how they could get the whole vibe.
 
-But Cas was already attracted. And Dean was pleased he could interest Cas with a western classic, only to realize minutes later that it was the music instead of the plot that has caught Cas's attention.
+But Cas was already attracted. And Dean was pleased he could interest Cas with a western classic, only to realize minutes later that it was the music instead of the plot that had caught Cas's attention.
 
 "It was beautiful," Cas said, in deep contemplation.
 
@@ -1056,7 +1056,7 @@ Dean relaxes his muscles, leaning back against the seat. "I'm not like any other
 
 "You could say that." Dean takes a casual drag from his glass.
 
-"Then why don't you go back to her?" Butch asks, not in a manner of probing , but genuinely curious like a friend would.
+"Then why don't you go back to her?" Butch asks, not in a manner of probing, but genuinely curious like a friend would.
 
 Dean decides there is no point in correcting the pronoun, just to avoid complicating things. "I'm on my way," he says, as much of a fact as he can offer. "We got separated, so now I need to figure out my way home."
 
@@ -1066,7 +1066,7 @@ Dean hums, taking another sip, not really tasting the flavor of the liquid, wond
 
 "You alright?" Butch reads his face.
 
-Dean hates it when people around him seem always can read his thoughts on his face. "Yeah," he finishes the drink, leaving the glass on the bar and standing up. "Could use some sleep now. See you in the morning, Butch. Have a good night."
+Dean hates it when people around him seem always able to read his thoughts on his face. "Yeah," he finishes the drink, leaving the glass on the bar and standing up. "Could use some sleep now. See you in the morning, Butch. Have a good night."
 
 Butch nods and wishes him a good night.
 
@@ -1110,11 +1110,11 @@ Dean makes sure his cowboy hat is low enough as he drinks his beer and glances a
 
 The folks sitting at the table next to his chat loudly. He hears the name "Clint Eastwood" come up in their talks, so he can't help listening in with all the attention.
 
-"You heard about the new rising star of a cowboy?" one of the folks say. "Name's Clint Eastwood."
+"You heard about the new rising star of a cowboy?" one of the folks says. "Name's Clint Eastwood."
 
 "How big of a name is he?" Another asks. "Louder than Jeremiah Johnson?"
 
-There are laughter in that table. "Bear fighting isn't news anymore, Eastwood is. Rumor says he runs with Hall-in-the-Wall gangs, shooting quicker than the Sundance kid. But he doesn't shoot unless the guy has it coming. He plays poker, robs banks, puts on a good old gun duel and never loses. Best of all, not like other gangs, he doesn't take the gold and cash for himself, he gives it to people in need. Poor people, folks like you and me."
+Laughter fills that table. "Bear fighting isn't news anymore, Eastwood is. Rumor says he runs with Hall-in-the-Wall gangs, shooting quicker than the Sundance kid. But he doesn't shoot unless the guy has it coming. He plays poker, robs banks, puts on a good old gun duel and never loses. Best of all, not like other gangs, he doesn't take the gold and cash for himself, he gives it to people in need. Poor people, folks like you and me."
 
 "A savior and a saint," someone mocks with a laugh. "Exactly what we need nowadays."
 
@@ -1156,11 +1156,11 @@ some town names:
 
 Dean: could be a quick way to get some noise, how hard can a robbery be? we used to B&E before breakfast
 
-someone: you crazy? you can die!
+Sam: you crazy? you can die!
 
 Dean: welcome to wild west, Sammy, you can die any time anywhere. you see those men? anyone can just draw a gun and start massive shooting if they want
 
-someone: you're mistaken reality from movie
+Sam: you're mistaken reality from movie
 
 Dean: art comes from life. I'm going. Feel free to stay in there, drinking whatever.
 
