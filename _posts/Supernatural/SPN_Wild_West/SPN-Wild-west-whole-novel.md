@@ -480,7 +480,7 @@ With that, and a disturbance of wind flow in the room, Castiel is gone.
 
 "Heard you the first time."
 
-"So we figured you'd be the best supernatural researcher around here too." Dean pulls a puffery grin with his best effort.
+"So we figured you'd be the best supernatural researcher around here too." Dean pulls a puffing grin with his best effort.
 
 "Please, we are not asking you to hunt with us or anything," Sam continues. "Just need a little help with research."
 
@@ -530,7 +530,7 @@ Sam throws a half-smile in his brother's direction, knowing him too well.
 
 Dean's eyes glint. "Any catch I need to know before messing up the time?"
 
-Tip of Sam's mouth twitches. "Just like you said but, eh... don't mess up the time too much? Butterfly effect, remember? We just came back from the Titanic world like, last week?"
+The tip of Sam's mouth twitches. "Just like you said but, eh... don't mess up the time too much? Butterfly effect, remember? We just came back from the Titanic world like, last week?"
 
 Dean returns an unimpressed look. "Let me, umm, just try one more time before any big moves, just to be sure."
 
@@ -598,9 +598,9 @@ Dean blinks hard, looking left and right, trying to figure out what now.
 
 "Well, *Hell* sends regards." Elkins' steps thud right in front of the table. Dean risks a glimpse, catching sight of black eyes.
 
-"Freaking demon!" He growls, at the same time of ducking into a gap between the stools, exactly when the table he was hiding behind gets shot a gun hole around the place where his heart would have been.
+"Freaking demon!" He growls, at the same time ducking into a gap between the stools, exactly when the table he was hiding behind gets shot a bullet hole around the place where his heart would have been.
 
-A second gunshot fires from behind him. Dammit, *demons*, plural. A whackload of them, it seems.
+A second gunshot is fired from behind him. Dammit, *demons*, plural. A whackload of them, it seems.
 
 He hears giggling from the same direction where the gunshot comes, the place where the saloon ladies usually gather. If they are all possessed, he counts four already.
 
@@ -616,7 +616,7 @@ Even with the Colt he hasn't really had the upper hand against that many demons 
 
 The exit door is two tables away, with the three lady demons in between, but the side window is only one table away, with buckets of alcohol within range. He calculates his route.
 
-The demons circle closer. Their footsteps heavy, dresses of the ladies rustle relentlessly.
+The demons circle closer. Their footsteps heavy, the rustling of their dresses relentless.
 
 Dean risks another look from the edge of his hideout. All of them have guns in their hands. *Since when do demons kill humans with guns? Western cowboy demons?* He teases the thought, finding it not as unpleasant as he would have thought.
 
@@ -630,7 +630,7 @@ A bucket rolls into the center of the saloon, alcohol leaking from a crack, leav
 
 Dean leaps out of the place through the window right before the demons shoot the spot he had been. Bullets and sparks catch the alcohol, the whole place turns into a roaring pile of flame and smoke in seconds. Demons hiss furiously inside.
 
-The second floor crumbles down in the flame. Dean only then realizes he forgot to check if there were any human up there, but it's too late already.
+The second floor crumbles down in the fire. Dean only then realizes he forgot to check if there were any humans up there, but it's too late already.
 
 He unleashes the horse from the stable and gallops out of the town, heading west without looking back.
 
@@ -672,7 +672,7 @@ The stab pierces through the abdomen of the vessel, but it's even worse for his 
 
 "Thought I could at least have a head start before you catch up," Cas answers, beating his wings as hard as he can. Pain tears through his wings with each slap. But he has to keep going.
 
-Below them, the time flux is flowing, bright and sparkling. Almost like flying in the space, admiring the galaxy. In a way, time is no different from space.
+Below them, the time flux is flowing, bright and sparkling. Almost like flying through space, admiring the galaxies. In a way, time is no different from space.
 
 "So you know I'd find you, sooner or later," Raphael amuses. The flow from the archangel's wings disturbs this time dimension like a tornado sweeping through a wild plain. "I didn't know you were the suicidal type."
 
@@ -682,7 +682,7 @@ He's running out of time too.
 
 *Not suicidal. Desperate.*
 
-It's actually funny. Cas's mind somehow wanders away. If Dean were here, he'd definitely make a remark about how you can even running out of time when you're literally *in* the time dimension, scouting the time flux.
+It's actually funny. Cas's mind somehow wanders away. If Dean were here, he'd definitely make a remark about how you can even run out of time when you're literally *in* the time dimension, scouting the time flux.
 
 Cas can't think of any joke himself.
 
@@ -700,9 +700,9 @@ Cas resets his rings and wings, swirling backward.
 
 "You do know it is pointless to fight or hide from me, don't you?" Raphael mocks, turning around as well, following him two wings' distance away.
 
-"How did you find me?" Cas asks, hoping vainly that talking might distract the archangel for a split of heartbeat time for a break, while widening all the eyes he has to scan the time flux. It's been a while since he has to fight in the time dimension in his true form, even longer to have to find a soul here, if ever.
+"How did you find me?" Cas asks, hoping vainly that talking might distract the archangel for a split heartbeat for a break, while widening all the eyes he has to scan the time flux. It's been a while since he had to fight in the time dimension in his true form, even longer to have to find a soul here, if ever.
 
-But surely familiarity and the profound bound should make it easier? Cas starts getting anxious, finding the time flux looking even more rapid and confusingly dazzling than he remembers. Something disturbing is going on in these western times, but he doesn't know what, and Dean is there, going through the weird time and history on his own, without wings and without protection.
+But surely familiarity and the profound bond should make it easier? Cas starts getting anxious, finding the time flux looking even more rapid and confusingly dazzling than he remembers. Something disturbing is going on in these western times, but he doesn't know what, and Dean is there, going through the weird time and history on his own, without wings and without protection.
 
 Cas flaps his wings more rapidly, bearing all the tearing sensation ripping through his rings and wings. Not caring that the faster he goes, the faster the grace bleeds and loses, spilling from his true form like dripping blood along the way.
 
@@ -730,7 +730,7 @@ The time dimension swirls and rotates around him, absorbing him into the point h
 
 The thought makes his heart thump hard and cold.
 
-*Did he lose all the grace just to reach them? How is he going to take them home now?*
+*Did he lose all his grace just to reach them? How is he going to take them home now?*
 
 Without any answer to any of the questions, his feet land on solid ground again. Castiel tumbles forward, dropping onto all fours, spitting blood onto the sandy ground in front of him. The view is swimming, the ground floating up and down as if he's being washed away by the tide. He has to focus very hard to not let his cold, shaking limbs give way here and now.
 
