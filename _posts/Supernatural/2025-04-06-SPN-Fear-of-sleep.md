@@ -19,7 +19,7 @@ Then there is the multiverse, the rescue mission, Lucifer and Michael and so muc
 
 Then the real end starts, the battle with God sounds the horn, the charging and dodging and fighting costs them the world. It costs them everyone they care about, everyone on Earth. It costs him Cas. And they save the world, again, one last time.
 
-Dean lies on the bed, staring at the ceiling, feeling the empty eat him up. Cas should be here.
+Dean lies on the bed, staring at the ceiling, feeling the emptiness eat him up. Cas should be here.
 
 Dean hasn't had a night without nightmares since that night in the bunker. Since Cas disappeared into the Empty with the saddest, yet happiest, smile.
 
@@ -31,9 +31,9 @@ And then, one night, in the deep night, he startles awake. That is not because o
 
 There he is, Cas. Standing in the corner of his bedroom, looking at him. The look and face the same as all those other times he'd stood there, watching, waiting for Dean to wake up from his sleep. All those other times Dean would have complained with "Don't do that again," or "That's creepy."
 
-But not this time. Dean finds his breath hitched and his legs already rushing toward Cas, before his mind catches up. His arms wrap around him, his chin sinks into Cas's shoulder, breathing him in. Dean closes his eyes, holding the angel tight, thinking, *this is the win of the last battle. Cas is back, the world is in peace, everything is normal now.*
+But not this time. Dean finds his breath hitched and his legs already rushing toward Cas, before his mind catches up. His arms wrap around him, his chin sinks into Cas's shoulder, breathing him in. Dean closes his eyes, holding the angel tight, thinking, *this is the win of the last battle. Cas is back, the world is at peace, everything is normal now.*
 
-Cas holds him tight too, the night is quiet. Dean doesn't go back to sleep that night, neither does Cas. They just sit, and stare, and talk. And the dawn comes.
+Cas holds him tight too, the night is quiet. Dean doesn't go back to sleep that night, nor does Cas. They just sit, and stare, and talk. And the dawn comes.
 
 Jack brought him back. Cas tells him, after Dean's mind comes back online from the looping chanting of "he's back" and "he's alive."
 
@@ -41,9 +41,9 @@ He was deep asleep in the Empty, Cas says, but Jack woke him up again, like last
 
 Dean has to wipe his eyes again. Sam hugs Cas just as tightly as Dean had.
 
-And this time, Cas stays, for real. Moves all his belongings into the bunker, which means, though, pretty much nothing. Just his angel blade, his trenchcoat and the clothes on him. He doesn't have much belongings, but he has moved in. His bedroom is two doors down the corridor next to Dean's.
+And this time, Cas stays, for real. Moves all his belongings into the bunker, which means, though, pretty much nothing. Just his angel blade, his trenchcoat and the clothes on him. He doesn't have many belongings, but he has moved in. His bedroom is two doors down the corridor next to Dean's.
 
-Dean's more than happy about everything. For the first time after the God event, after everything wrapped up, he finally has a good night's sleep. A full length beauty sleep without nightmare, he hopes.
+Dean's more than happy about everything. For the first time after the God event, after everything wrapped up, he finally has a good night's sleep. A full-length beauty sleep without nightmares, he hopes.
 
 Then in the middle of the night, he wakes up again. Staring at the ceiling of his room again, not sure why. Then he hears the creaky sound of the bunker floor, and a faint squeaky sound when some doors are opened and closed, someone walking around, keeping footsteps as light as they can, but Dean is a light sleeper these days with all the hunter's instinct.
 
@@ -61,7 +61,7 @@ Cas looks up at him, as if only then noticing he's there. He gives him a small s
 
 That doesn't say much, but still. Something is telling.
 
-"Yeah, I know," Dean murmurs, edging toward the table, pulling out a chair and sitting opposite him. He regards Cas's face. He's not wounded, not threatened of any immediate danger, expression not twisted in a way that something horrible is worrying him. But still, something is troubling him. Maybe the recent memories and the battle and the encounter with the Empty again?
+"Yeah, I know," Dean murmurs, edging toward the table, pulling out a chair and sitting opposite him. He regards Cas's face. He's not wounded, not threatened by any immediate danger, expression not twisted in a way that something horrible is worrying him. But still, something is troubling him. Maybe the recent memories and the battle and the encounter with the Empty again?
 
 "What about you?" Cas is watching him, too, Dean realizes. He doesn't know how he looks, maybe a little tired, maybe a little worried. "Can't sleep?"
 
@@ -77,7 +77,7 @@ There is a pause. Dean waits.
 
 "It's nothing, really," Cas says. "Angels don't need to sleep anyway. I can read, or something. You should go back to sleep. You need it, much more than I do."
 
-Cas is right, though. The night is late, and Dean is a tired human with too little sleep. He yawns, fighting between staying longer with Cas for the night and going back to his own bed. But the natural exhaustion of his body wins out. His eyelids droop, his mind has difficulty focusing or thinking serious matters now. So he decides, whatever the matter is, they'll figure it out tomorrow.
+Cas is right, though. The night is late, and Dean is a tired human with too little sleep. He yawns, fighting between staying longer with Cas for the night and going back to his own bed. But the natural exhaustion of his body wins out. His eyelids droop, his brain has difficulty focusing or thinking about serious matters now. So he decides, whatever the matter is, they'll figure it out tomorrow.
 
 So he stands, and gives Cas a light pat on the shoulder. "Maybe read something, it helps," he says, though not really sure what it's supposed to help with. The words just come naturally. "Good night, Cas."
 
@@ -95,9 +95,9 @@ Most often, he finds Cas in the library, reading some ancient book, just like he
 
 "What are you reading?" he sits next to him, studying the angel's face.
 
-They still do that a lot, in the day time too, when there are other people around in the room too, but at night, Dean feels, it's easier, he can do it more freely. As if an intimate moment he grabs for himself, the face and the looks, the angel, taking everything just for himself.
+They still do that a lot, in the daytime too, when there are other people around in the room too, but at night, Dean feels, it's easier, he can do it more freely. As if an intimate moment he grabs for himself, the face and the looks, the angel, taking everything just for himself.
 
-Cas tells him the name of the book, a witchcraft journal, or some ancient history or lore book. Sometimes even just some plain old classic novel. Cas talks about the part of the book that impresses him the most in quiet voice, and Dean listens.
+Cas tells him the name of the book, a witchcraft journal, or some ancient history or lore book. Sometimes even just some plain old classic novel. Cas talks about the part of the book that impresses him the most in a quiet voice, and Dean listens.
 
 He asks again, once or twice, about this little odd nightly routine. Cas seems uneasy when night falls, he observes. And when the brothers say goodnight and go into their individual bedrooms, Cas says the same, and goes back to his. But almost always, Dean thinks his shoulders slump, his footsteps reluctant. There is something in him that is screaming: he doesn't want to go back to his room and sleep for the night. Or do whatever angels do at night to pass the human sleeping hours. He looks restless. Maybe that explains why he can't stay put in his room the whole night, why he has to wander around the bunker, spending time in the kitchen and the library, but still acting like everything is fine and quiet and nothing is wrong.
 
@@ -119,7 +119,7 @@ He swallows, looking down again.
 
 All the while, Dean watches him. Realization dawns. "That's why you can't sleep again, now, ever," he says slowly, voice pained, chest tight. "You're afraid it's like being back in the Empty. That you'll be sleeping forever and never wake up again."
 
-Cas nods silently, motion small. One hand grasps the other, as if trying to hold it steady to not shake.
+Cas nods silently, the motion small. One hand grasps the other, as if trying to hold it steady to not shake.
 
 Dean presses the heels of his palms into his eyes, controlling a slow, long breath out. "Okay, how do we fix this?"
 
@@ -131,9 +131,9 @@ And Dean is thinking, he definitely needs to worry, except, Cas is right, angels
 
 But no, that is not how time works. That is never how time works.
 
-Time does bring change, but not in a kind, gentle way. It works naturally, but the nature is cruel.
+Time does bring change, but not in a kind, gentle way. It works naturally, but nature is cruel.
 
-It's like aging. For humans, it's adding wrinkles and crow's feet at the corners of the eyes. For angels, it's the fading grace. The changes are subtle and imperceptible by each day, but consistent. Before one notices, the aging would hit, the body would just get tired easily, too worn out by everyday things, by the life itself, really.
+It's like aging. For humans, it's adding wrinkles and crow's feet at the corners of the eyes. For angels, it's the fading grace. The changes are subtle and imperceptible by each day, but consistent. Before one notices, the aging would hit, the body would just get tired easily, too worn out by everyday things, by life itself, really.
 
 Dean certainly feels it as the years pass, but he doesn't expect Cas too.
 
@@ -143,15 +143,15 @@ Dean certainly feels it as the years pass, but he doesn't expect Cas too.
 
 Dean frowns deeper. "Does that mean your grace is going to drain soon? Does that mean..." he doesn't finish the sentence but he doesn't have to.
 
-"No, Dean. I'm not going to die, not immediately anyway," Cas says, trying hard to make his voice sound convincing, soothing -- he tried anyway. "It will only make me more human, for the time being. And eventually, maybe truly turn into human, I'm not sure."
+"No, Dean. I'm not going to die, not immediately anyway," Cas says, trying hard to make his voice sound convincing, soothing -- he tried anyway. "It will only make me more human, for the time being. And eventually, maybe truly turn into a human, I'm not sure."
 
 He yawns again, and goes to pour a fresh mug of coffee from the kitchen coffee machine.
 
 Dean watches him, realizing he's lost count of how many times the coffee pot has been refilled. His voice quieter than ever, "That means you'll need sleep."
 
-The fear to sleep. The endless coffee. The stubborn insistence of sitting in the kitchen deep into the night instead of going back to his room. That explains it all.
+The fear to sleep. The endless coffee. The stubborn insistence on sitting in the kitchen deep into the night instead of going back to his room. That explains it all.
 
-"I'll be fine, Dean." Cas gulps down the coffee with a wince. He doesn't seem to enjoy any of the coffee's flavor anymore, he is just trying to ingest all the caffein he needs to resist the inevitable sleep.
+"I'll be fine, Dean." Cas gulps down the coffee with a wince. He doesn't seem to enjoy any of the coffee's flavor anymore, he is just trying to ingest all the caffeine he needs to resist the inevitable sleep.
 
 "You're tired as hell, and you need sleep." Dean points out the elephant in the room. "It's killing you."
 
@@ -159,7 +159,7 @@ The fear to sleep. The endless coffee. The stubborn insistence of sitting in the
 
 "Last time Sam resisted sleeping, he drank three cups of black coffee a night and almost crashed his car. He lasted five days before ending up in a loony bin," Dean tells him in a flat tone, grimacing at his own words. He hates the memory, and he hates bringing it up, but it's a supporting argument he can use right now.
 
-Cas looks at him, with his blue eyes, a little glassy and bloodshot now, like any human with severe lack of sleep. "We'll see after five days," he insists.
+Cas looks at him, with his blue eyes, a little glassy and bloodshot now, like any human with a severe lack of sleep. "We'll see after five days," he insists.
 
 Dean sighs heavily. "We'll have to figure this out fast."
 
@@ -199,7 +199,7 @@ Sam and Dean have spent the day in the library, trying to find if there is anyth
 
 "Maybe a sleeping pill?" Sam suggests tentatively, keeping his voice low. They're out of Cas's earshot, but still.
 
-"I don't think it's a good idea," Dean hisses back, glancing at the direction where Cas is.
+"I don't think it's a good idea," Dean hisses back, glancing in the direction where Cas is.
 
 They don't really know how human Cas is now, or what any chemicals or medications would do to him. The pills might be too much, or too little, or... Dean already starts thinking about all the random news he has seen on TV about how someone's liver failed and died or something like that. He pitches the bridge of his nose. "No pills. I'll come up with something."
 
@@ -279,7 +279,7 @@ Cas thinks about it, as if he's pulling his attention back to the feeling to get
 
 "Still worried?" Dean asks.
 
-"A little," Cas says. He closes his eyes. The vision is not pure black, and the body doesn't feel cold or empty. There is warmth on the skin, a tight pressure on one side, and a very soothing motion of caressing on his back. And he knows, even if his mind is going to sink into dark unconscious sea of sleep, he knows it's Dean, close by, ready to wake him if his breath hitches or heartbeat races in his dream. The warmth and security, the light and the soothing pressure, Cas clings to it like a terrified new swimmer to a lifebuoy, a panicked plane passenger to a safety belt.
+"A little," Cas says. He closes his eyes. The vision is not pure black, and the body doesn't feel cold or empty. There is warmth on the skin, a tight pressure on one side, and a very soothing motion of caressing on his back. And he knows, even if his mind is going to sink into the dark unconscious sea of sleep, he knows it's Dean, close by, ready to wake him if his breath hitches or heartbeat races in his dream. The warmth and security, the light and the soothing pressure, Cas clings to it like a terrified new swimmer to a lifebuoy, a panicked plane passenger to a safety belt.
 
 He lets the mind ease, letting go of the clench onto the sober wakefulness, like a diver ready to sink under the water. And he knows, this time, he is not going to choke, and the sleep is not going to be forever. He will wake up, after only a few short hours, and he will wake at home. It's going to be like taking a short trip away from the waking world, not an exile. He thinks. This time, the coming back is going to be quick and easy. His mind will come back home, because he already is.
 
