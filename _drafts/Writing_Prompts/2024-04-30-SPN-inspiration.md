@@ -2833,5 +2833,104 @@ When you kiss me like this, I think you mean it like that
 
 If you do, baby, kiss me again
 
-### 280.
+### 280.【destiel】《麦克阿瑟公园》Lyrics - AU
 
+《MacArthur Park》 by Donna Summer
+
+MacArthur Park is melting inthe dark
+
+All the sweet, green icing flowing down
+
+Someone left my cake out in the rain
+
+I don't think that I can take it
+
+'Cause it took so long to bake it
+
+And I'll never have that recipe again, again
+
+
+
+I recall the yellow cooton dress
+
+Foaming like a wave
+
+On the ground beneath her knees
+
+The birds like tender babies in your hands
+
+And the old man playing Chinese checkers by the trees
+
+
+
+There will be another song for me
+
+And I will sing it
+
+There will be another dream for me
+
+Someone will bring it
+
+
+
+I will drink the wine while it is warm
+
+And never let you catch me looking at the sun
+
+And after all the loves of my life
+
+After all the loves of my life, you'll still be the one
+
+
+
+I will take my life into my hands and I will use it
+
+I will win the worship in your eyes and I will lose it
+
+I will have the things that I desire
+
+And my passion flow like rivers from the sky
+
+And after all the loves of my life, you'll still be the one
+
+And I'll ask myself why
+
+
+
+(djinn's world? normal people AU? beetlejuice 2 reference)
+
+### 281.【destiel】天启卡+地狱40年丁/14丁
+
+顶级torturer组合
+
+需要torture的case fic/AU设定？
+
+### 282.【destiel/TFW】天启卡+恶魔丁+无魂米
+
+全黑化组合
+
+杀穿世界multiverse的组合（但是都被主世界卡解决了）
+
+Chuck安排的杀手组合？把他们三个放到一起，唯一任务是让他们仨杀主世界卡，但是做不到
+
+### 283.【destiel】马丁的早晨AU
+
+established relationship? domestic?
+
+每天早晨刷新出不同平行世界版本的对方，要保证对方活过那一天，不杀人不被杀
+
+multiverse curse，直到curse解决
+
+排列组合：
+
+丁：地狱torturer丁，14丁，狗丁，该隐血印丁，恶魔丁，胆小鬼丁，老年人丁，青少年丁，普通人丁
+
+卡：14卡，帝卡，疯卡，1901女卡，洗脑卡
+
+### 284.【destiel】该隐血印丁x帝卡
+
+都是murder能力巅峰时期，相爱相杀梗？都到了要杀对方的临界点都没杀？真杀了然后出问题那个突然就自己snap out of it然后发疯？（像《入焰》）
+
+1020之后为了救血印丁，卡被迫再次升级成帝卡为了救他/为了watch him for forever?
+
+### 285.
