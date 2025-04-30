@@ -33,7 +33,7 @@ There he is, Cas. Standing in the corner of his bedroom, looking at him. The loo
 
 But not this time. Dean finds his breath hitched and his legs already rushing toward Cas, before his mind catches up. His arms wrap around him, his chin sinks into Cas's shoulder, breathing him in. Dean closes his eyes, holding the angel tight, thinking, *this is the win of the last battle. Cas is back, the world is at peace, everything is normal now.*
 
-Cas holds him tight too, the night is quiet. Dean doesn't go back to sleep that night, nor does Cas. They just sit, and stare, and talk. And the dawn comes.
+Cas holds him tight too. The night is quiet. Dean doesn't go back to sleep that night, nor does Cas. They just sit, and stare, and talk. And the dawn comes.
 
 Jack brought him back. Cas tells him, after Dean's mind comes back online from the looping chanting of "he's back" and "he's alive."
 
@@ -139,7 +139,7 @@ Dean certainly feels it as the years pass, but he doesn't expect Cas too.
 
 "Shouldn't angels have a life span of eons?" He worries, watching Cas yawn with tiredness, just like any ordinary human when they desire a long sweet night of sleep.
 
-"Probably because I've been through too much, the aging is accelerated," Cas answers, wearily. "Time flows differently in different realms. I think, my time spent in the Empty, it might can be counted as eons on its own."
+"Probably because I've been through too much, the aging is accelerated," Cas answers, wearily. "Time flows differently in different realms. I think, my time spent in the Empty, it might could count as eons on its own."
 
 Dean frowns deeper. "Does that mean your grace is going to drain soon? Does that mean..." he doesn't finish the sentence but he doesn't have to.
 
@@ -149,7 +149,7 @@ He yawns again, and goes to pour a fresh mug of coffee from the kitchen coffee m
 
 Dean watches him, realizing he's lost count of how many times the coffee pot has been refilled. His voice quieter than ever, "That means you'll need sleep."
 
-The fear to sleep. The endless coffee. The stubborn insistence on sitting in the kitchen deep into the night instead of going back to his room. That explains it all.
+The fear of sleep. The endless coffee. The stubborn insistence on sitting in the kitchen deep into the night instead of going back to his room. That explains it all.
 
 "I'll be fine, Dean." Cas gulps down the coffee with a wince. He doesn't seem to enjoy any of the coffee's flavor anymore, he is just trying to ingest all the caffeine he needs to resist the inevitable sleep.
 
@@ -265,7 +265,7 @@ Cas keeps his eyes open, but Dean closes his own, starts humming a soft tune.
 
 "You couldn't see me at that time," Cas continues. "I wasn't in a vessel. But I had my wings over you, just like the way you are now with your arms."
 
-"You had wings over me?" Dean's voice comes slightly louder this time, slightly more awake and curious. But he still keeps the eyes shut, hand steady, breath slow and even.
+"You had wings over me?" Dean's voice comes slightly louder this time, slightly more awake and curious. But he still keeps his eyes shut, hand steady, breath slow and even.
 
 "You were so young at that time, but you already tossed and turned in your sleep. Especially if Sam had a bad night, you'd wake up at any sound. You never really got to 'sleep like a baby' even when you *were* a baby." Cas says.
 
@@ -273,7 +273,7 @@ Dean chuckles lightly. "Guess not."
 
 "But I did that, using my wings to block the nightmares and fears. Like your mom asked, to watch over you. You and Sam."
 
-Dean smiles at the picture it paints in his head. "Thanks, Cas," he says, keeping his hands wrapped tighter as he speaks, pulling him closer. Their bodies are inches apart, the warmth of the skin radiating to each other without needing to touch. "Looks like it's my turn now. How you feeling?"
+Dean smiles at the picture it paints in his head. "Thanks, Cas," he says, keeping his hands wrapped tighter as he speaks, pulling him closer. Their bodies are inches apart, the warmth of their skin radiating to each other without needing to touch. "Looks like it's my turn now. How you feeling?"
 
 Cas thinks about it, as if he's pulling his attention back to the feeling to get an exact answer. "Good, I think." He says, putting his hand on Dean's waist, hovering there for a moment as if he's uncertain if it's allowed, Dean only edges closer, and Cas settles the weight of his hand down with resolve.
 
