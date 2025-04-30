@@ -175,7 +175,7 @@ And then, there comes the panicked yell from the kitchen.
 
 Dean rushes in, finding Cas startled to his feet, hurries in standing up and backing away from the spot where he fell asleep, eyes wide and panicked. He is murmuring, "No, no, no, I shouldn't sleep. I will never sleep. I promised, I'd never sleep, and nor will you. That's how I can come back, that's how I can come back to Earth, to Dean, and..."
 
-Dean steps in front of him, automatically putting his hands on Cas's shoulders, then cupping his face, shushing gently. "Hey, hey, Cas, look at me, look at me."
+Dean dashes to be right in front of him, automatically putting his hands on Cas's shoulders, then cupping his face, shushing gently. "Hey, hey, Cas, look at me, look at me."
 
 Cas's heartbeat is quick and loud, vibrating through the skin, pulsing beneath Dean's palms. It beats so fast and rushed like the heartbeat of a dying sparrow. Dean aches at the frantic pounding, he forces his eyes on Cas's. "Cas, Cas, you're okay, you're safe. You're alive, you're here, with me."
 
@@ -253,7 +253,7 @@ Cas lies on his back, staring at the ceiling, eyes wide open. Breath uneven. Dea
 
 "Come here." His arms wrap around Cas, pulling him close.
 
-Cas rolls to his side, facing Dean. His body stiff, but he follows the move.
+Cas rolls to his side, facing Dean. His body is stiff, but he follows the move.
 
 Dean tucks one arm under his neck, the other around his back, stroking his back in a smooth pattern, like the angel is just an oversized baby.
 
