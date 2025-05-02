@@ -1282,6 +1282,8 @@ Sam在天启世界短暂死亡期间，在被吸血鬼杀死之后、被路西�
 
 ### 143.【Cas/Jimmy】S13E22 天启世界的黑卡【WIP】
 
+（出场集：1322，[wiki](https://supernatural.fandom.com/wiki/Castiel_(Apocalypse_World))；黑卡：German口音，左眼glassy blind，facial tic，dark suit & trenchcoat）
+
 天启世界黑卡仍然用的是Jimmy的皮囊，这个版本的卡是torture高手（主世界其实也是），是怎么让Jimmy同意的？这个版本没经历过422所以Jimmy有没有死？黑卡被杀之前让Jimmy上身的话主世界卡是不是就会犹豫不杀他因为愧疚，所以自己陷入危险？
 
 （以下梗源同体2479）
@@ -2927,9 +2929,9 @@ multiverse curse，直到curse解决
 
 排列组合：
 
-丁：地狱torturer丁，14丁，狗丁，该隐血印丁，恶魔丁，胆小鬼丁，老年人丁，青少年丁，普通人丁
+丁：地狱torturer丁，14丁，狗丁，该隐血印丁，恶魔丁，胆小鬼丁，老年人丁，青少年丁，普通人丁，220灯灵世界母亲存活的丁，615平行世界詹森，平行宇宙hunter corp丁，米迦丁，1211失忆丁，1005音乐剧丁小姑娘，605吸血鬼丁，1509平行未来吸血鬼丁
 
-卡：14卡，帝卡，疯卡，1901女卡，洗脑卡
+卡：14卡，帝卡，疯卡，1901女卡，817洗脑卡，Steve时期人类卡，615平行世界米沙，1005音乐剧卡小姑娘，717Semmanuel失忆卡，勒维坦卡，路西卡，阿斯莫卡，卡脸虚无，apocalypse宇宙黑卡，apcalypse宇宙米迦幻觉版卡，疯狗咒卡，1413穿越自03年卡，1509平行未来该隐血印卡
 
 ### 284.【destiel】该隐血印丁x帝卡
 
@@ -2937,4 +2939,26 @@ multiverse curse，直到curse解决
 
 1020之后为了救血印丁，卡被迫再次升级成帝卡为了救他/为了watch him for forever?
 
-### 285.
+### 285.【Dean/destiel】demon!Dean is a Green-Eyed demon
+
+normal demon black-eyed, Crowley red-eyed, prince of Hell yellow-eyed
+
+canon S10 demon!Dean is knight of Hell - black-eyed
+
+what if demon!Dean is his own race of demon, and is still Green-Eyed; they thought to use eye color to identify demon state, never thought when Dean's eyes are back to green, he's still a demon, just a Green-Eyed demon
+
+after the blood thing, thought S10 Dean is back human but he's not actually changed back
+
+### 286.【Dean/destiel/drowley】Green-Eyed demon, King of Hell
+
+similar to above, but timeline before 401 when Dean is in Hell, Cas doesn't come to Dean in Hell (didn't get the order to do so for a long while, not until Lucifer is out and apocalypse actually begins), Dean climbs his way in Hell to the top, (temporarily) collaborate with King of Crossroad demon Crowley, Red-Eyed demon Crowley + Green-Eyed demon Dean, no moral, go out make demon deal as fun hang-out, good buddy, howl to the moon, have fun, no burden
+
+Dean becomes the new King of Hell, know apocalypse plan, angels deliberately fail to protect 66 orders. Dean secretly try to sabotage, Dean/Crowley doesn't want Lucifer out, work privately against Lilith/Ruby, Cas actually try to prevent 66 orders (thought it's the Plan), Dean/Crowley/Cas collaborate a bit, Cage seal still broken by Sam, Lucifer out
+
+Cas follow order to go to bring Dean back to human, Dean doesn't want to/hesitate, he can go to Earth by himself already, visited Sam, Sam still drink demon blood (S4), brothers actually bounded well
+
+something something, S5 rewrite, still manage to put Lucifer to cage (with Sam in it?), Dean decision point: choose between Crowley (be demon)/Cas (be human) → remain demon?, remain in Hell, bc Sam is in Hell/Cage, he can see him closer, in a way keep an eye on his brother, C
+
+(there was a similar fic, high kudo, fanfav, demon Dean+angel Cas S4/5 rewrite save the apocalypse, well-written, title?)
+
+### 287.
