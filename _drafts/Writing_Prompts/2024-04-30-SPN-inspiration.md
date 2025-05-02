@@ -2957,8 +2957,34 @@ Dean becomes the new King of Hell, know apocalypse plan, angels deliberately fai
 
 Cas follow order to go to bring Dean back to human, Dean doesn't want to/hesitate, he can go to Earth by himself already, visited Sam, Sam still drink demon blood (S4), brothers actually bounded well
 
-something something, S5 rewrite, still manage to put Lucifer to cage (with Sam in it?), Dean decision point: choose between Crowley (be demon)/Cas (be human) → remain demon?, remain in Hell, bc Sam is in Hell/Cage, he can see him closer, in a way keep an eye on his brother, C
+something something, S5 rewrite, still manage to put Lucifer to cage (with Sam in it?), Dean decision point: choose between Crowley (be demon)/Cas (be human) → remain demon?, remain in Hell, bc Sam is in Hell/Cage, he can see him closer, in a way keep an eye on his brother, Cas can visit anyway
 
 (there was a similar fic, high kudo, fanfav, demon Dean+angel Cas S4/5 rewrite save the apocalypse, well-written, title?)
 
-### 287.
+### 287.【destiel】在索多玛蛾摩拉受折磨的天使（R级）
+
+(inspired by 《[Clipped and Unbound](https://archiveofourown.org/works/1567589)》slaved angel world + ND_Tardis的《[罪恶之城](https://archiveofourown.org/works/19430962)》)
+
+canon-divergent, rape/non-con?, graphic depiction of violence
+
+It's a city of blasphemy. When angels arrive, the humans here have ways to enslave and torture them. Cas comes with order to punish them, end up being enslaved, torn and violated, locked down, distained. Dean is Rod in this story, citizen of Sodom and Gomorrah, despise what his neighbors do to the angels, still have awe and faith for angels. Found Cas locked in his neighbor/father's cellar, quietly secretly try to help him, release him and help him heal himself. Cas has PTSD now and guarded against all humans, (almost/already?) hurt Dean (by accident), Dean doesn't complain, Cas feel guilty. Dean's father comes back find out, more pissed at Cas, torture/punish him more (Cas thinks he deserve this one, doesn't protest like he usually would), Dean heartbroken, thinking Cas is hurt more because of him, self-blame. John almost/want to kill Cas, Dean plead not to, has to make argument saying he should be the one to handle Cas since he's hurt by the angel, John agrees, leave him be. Cas actually thinks Dean is going to punish/torture/hurt/kill him, still doesn't protest and thinks he deserve it.
+
+Dean open his lock/chain, Cas doesn't try to flee. Dean: "You are not going to leave?" Cas: "Where to?" He's already distained by human, he's dirty now, Heaven loathe any form related to human e.g. Nephilim, he doubts if heaven would still want him in
+
+Dean sad, Cas not understand, Dean apologize, Cas apologize back, they kiss, two wounded creature by the city of sins
+
+God punish the city, going to destroy it, Cas hear it from angel radio, propose to take Dean away, leave the city, never look back again, Dean plead to bring Sam too, Cas agree, Dean can't find heart to ask Cas to take John too so he doesn't ask even if he know he will hate himself for it
+
+The city is destroyed, Sam (too young to understand everything) worry about John, look back, turn into pillar of salt, Dean cry in agony, Cas self-blame he can't save Sam too, Dean doesn't blame him
+
+Bal find Dean/Cas, has the heaven weapon in hand, empathy on Cas, mojo him clean, bring him to heaven, Cas offer Dean come to Heaven too, Dean choose live/travel alone then reincarnation (become Dean of canon verse), Cas gets "cleaned up" by Naomi (thus brainwashed, no memory, Bal remembers?)
+
+then the two meet again in 401, feel familiar, neither remember, but somehow intuitively trust each other already; 603 run into the salt weapon again, Bal gives him a meaningful eye
+
+### 288.【all】hunter corp in canonverse
+
+hunter corp Dean/Sam remain in canonverse, restart hunter corp business? making monsters a globally aware thing
+
+1513 hunter corp + 1509 The Trap AU, god die, monster become known to all human, hunter corp business become too good when monster start riot, human vs monster big fight (not just hunter), second (third?) apocalypse, they find out a way to keep monster in control, world in balance again
+
+### 289.
