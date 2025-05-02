@@ -2108,7 +2108,7 @@ Now that he thinks about it, that theory seems increasingly plausible. "Cas, am 
 
 "I don't think so," Cas answers, but the voice doesn't sound convincing. "I hope not."
 
-That is when a great surge of grace dashes out of Dean, right near his heart, brushing hard against some core essence deep inside him. The warmth from the grace skyrockets into a near-burning sensation. Dean let out an uncontrollable yell that is bouldering pain. Though not exactly unpleasant, more surprised. *The Hell was that? Felt like my soul just got touched or something.*
+That is when a great surge of grace dashes out of Dean, right near his heart, brushing hard against some core essence deep inside him. The warmth from the grace skyrockets into a near-burning sensation. Dean let out an uncontrollable yell that is bordering on pain. Though not exactly unpleasant, more surprised. *The Hell was that? Felt like my soul just got touched or something.*
 
 *Yes. Sorry.* Cas's thought comes through as soon as Dean's own thought forms. *I'm afraid it might indeed be a chain reaction. Somehow, your soul is outputting energy along with my grace. I'm so sorry, I didn't know it was possible, I would never harm you...*
 
