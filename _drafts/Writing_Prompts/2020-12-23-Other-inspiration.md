@@ -152,4 +152,19 @@ feels like exactly the real life
 
 it must be the case
 
-### 17.
+### 17.【daredevil】《The Black Book of Colors》
+
+(excerpt from the book; using all the senses to describe/feel colors, how to hear, taste, smell and touch a color; original book in Braille, extremely astonishingly breathlessly beautiful, very touching)
+
+- Thomas says that yellow tastes like mustard, but is as soft as a baby chick's feathers. (braille floating feathers)
+- Red is sour like unripe strawberries and as sweet as watermelon. It hurts when he finds it on his scraped knee. (braille big strawberries)
+- Brown crunches under his feet like fall leaves. Sometimes it smells like chocolate, and other times it stinks. (braille falling leaves)
+- Thomas says that blue is the color of the sky when kites are flying and the sun is beating hot on his head. (braille kites)
+- But when clouds decide to gather up and the rain pours down, then the sky is white. (braille rain drops pouring down)
+- And when the sun peeks through the falling water, all the colors come out, and that's a rainbow. (braille mixture of strawberries, feathers, and grass)
+- Thomas thinks that without the sun, water doesn't amount to much. It has no color, no taste, no smell. (braille water, look like waves and spray)
+- He says that green tastes like lemon ice cream and smells like grass that's just been cut. (braille tall lawn with flying cut grass)
+- But black is the king of all the colors. It is as soft as silk when his mother hugs him and her hair falls in his face. (braille curly hairs that look like both waves and silk)
+- Thomas likes all the colors because he can hear them and smell them and touch them and taste them. (braille cutting grass with strawberries, flowers, and a cricket, like spring)
+
+### 18.
