@@ -2052,7 +2052,7 @@ Cas smites Bel/Jack's body, has to continue use the horn to suck all souls into 
 
 Cas uses the power to go against Chuck & Billie
 
-### 228.【all/destiel】精分丁+serial killer丁
+### 228.【all/destiel】精分丁/serial killer卡【WIP】
 
 （inspired by 《My Bloody Valentine》）
 
@@ -2066,7 +2066,11 @@ they caught Dean in camera/in action, can't snap him out of it, worry it's demon
 
 they find the witch/proof of there is a witch, hunt them down, snap Dean out of it, save him and others (in some cave/underground/abandoned house, alive)
 
-OR: it's self-unaware amnesic serial killer Cas, thinking he's helping the Winchesters on case, actually he's the one committing it, he doesn't even know -> Dean feel betrayed again? trust issue like 619 between destiel again?
+OR: it's self-unaware amnesic serial killer Cas (S9 human!Cas time), thinking he's helping the Winchesters on case, actually he's the one committing it, he doesn't even know -> Dean feel betrayed again? trust issue like 619 between destiel again?
+
+OR: combine both, they're both cursed and both the serial killers, but neither knows, so both suspect the other, turn on each other for a bit, then realize the witch has them both -> kill the witch, save the day
+
+idea check-in summary: Inspired by Jensen's "My Bloody Valentine", Dean/Cas/Sam go into this small town and find people dying, try to solve the case but find it very difficult, meanwhile Dean/Cas find their motel has some bloody evidence, one of them might be the secret murderer, but all three of them deny it. They start getting suspicious and turn against each other a bit, Dean thinks it's Cas getting brainwashed and start killing people without himself even knowing, Cas thinks it's Dean maybe having some relapse from Mark of Cain/demon!Dean time. People continue getting killed bloody around them, by coincidence both Dean/Cas has no alibi (could have potentially committed it and framed on the other unknowingly). They monitor each other 24/7 trying to figure out who is wrong and very on edge. Then big revelation.
 
 ### 229.【destiel】S15E20 souls been to Hell can't go to Heaven
 
