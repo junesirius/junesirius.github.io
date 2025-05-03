@@ -63,7 +63,7 @@ Jensen's gaze moves up to meet his eyes again, drowning in the same shade of blu
 
 "You already did. You are." Jensen closes the last remaining distance, pressing his lips to his angel's.
 
-Misha tilts his head a little so their noses wouldn't bump, kissing back thirstily. His teeth tentatively close on Jensen's lower lip but don't quite bite. There is a tongue or two between their mouths, tangled together like snakes in mating.
+Misha tilts his head a little so their noses won't bump, kissing back thirstily. His teeth tentatively close on Jensen's lower lip but don't quite bite. There is a tongue or two between their mouths, tangled together like snakes in mating.
 
 They have to break to catch some breath after a while.
 
@@ -97,7 +97,7 @@ They hold their breath, waiting. The sound moves away and fades in distance.
 
 They let the breath out, shallow and shaky.
 
-Misha puts his hands on the back of the chair briefly, trying to straightening his upper body slightly, making the angle more comfortable. After all, the chair is a little cramped. His hips are in a strained position, especially where the metal implants are.
+Misha puts his hands on the back of the chair briefly, trying to straighten his upper body slightly, making the angle more comfortable. After all, the chair is a little cramped. His hips are in a strained position, especially where the metal implants are.
 
 "Careful, you're fifty now." Jensen uses his hands to support him, adjusting the position with him, sliding down on the chair slightly.
 
@@ -113,7 +113,7 @@ Jensen laughs hard, palms moving around the other man's ass. "Not us, apparently
 
 "I also wear a rainbow shirt and tell them *'The carpet matched the drapes today'*," Misha protests. "And told them full penetration, twice."
 
-Jensen can't help beaming at that. "Yes, you did. You just love exploding the internet, don't you?"
+Jensen can't help but beams at that. "Yes, you did. You just love exploding the internet, don't you?"
 
 Misha nods with a big, wild smile. He leans in, lips hovering on the other man's earlobe, breathing heat there, speaking in a sudden lowered, grave voice, "You know what else I love to explode?"
 
