@@ -14,7 +14,7 @@ published: false
 
 (pairing: Castiel/Dean Winchester, Doctor Who/River Song, Amy Pond/Rory Williams)
 
-(tag: crossover, time travel, case fic, mutual pining, happy ending)
+(tag: crossover, time travel, case fic, mutual pining, happy ending, canon-divergent, canon-typical self-sacrifice, temporary character death)
 
 # Draft
 
@@ -86,9 +86,9 @@ Location: Winter Quay (apartment block near Battery Park)
 - "People assume that time is a strict progression of cause to effect, but actually, from a non-linear, non-subjective viewpoint, it's more like a big ball of wibbly-wobbly, timey-wimey stuff." (DW310) (Dean: "That's just so British")
 - "Fascinating race, the weeping angels. The only psychopath in the universe to kill you nicely. No mess, no fuss, they just zap you into the past and let you live to death, the rest of your life used up and blown away in the blink of an eye. You die in the past and in the present, they consume the energy of all the days you might have had. All your stolen moments. They're creatures of the abstract, they live off *potential* energy." ("timey-wimey detector" Dean: I made a better hand-made EMF than that when I was ten.)
 - "creatures from another world" "The Lonely Assassins, they used to be called. No one quite knows where they came from, but they're as old as the universe, or very nearly. And they have survived this long because they have the most perfect defense system ever evolved. They're quantum locked. They don't exist when they're being observed. The moment they're seen by any other living creature, they freeze into rock. No choice, it's a fact of their biology. In the sight of any living thing, they literally turn to stone. And you can't kill a stone. 'Course, a stone can't kill you either, but then you turn your head away. Then you blink. And, oh yes it can. (Don't take your eyes off that) That's why they cover their eyes. They're not weeping, they can't risk looking at each other. Their greatest asset is their greatest curse. They can never be seen. Loneliest creatures in the universe." "Your life could depend on this. Don't blink. Don't even blink. Blink and you're dead. They're fast. Faster than you can believe. Don't turn your back, don't look away and don't blink."
-- "Why did you lie to me?" "When one's in love with an ageless God who insists on the face of a 12-year-old, one does one's best to hide the damage" "It must hurt. Come here." "Yes. The wrist is pretty bad, too" "That was a stupid waste of regeneration energy. Nothing is gained by you being a sentimental idiot."
-- "okay, why did you lie?" "Never let him see the damage. And never, ever, let him see you age. He doesn't like endings."
-- Amy/Rory/River: "This is called marriage"
+- "Why did you lie to me?" "When one's in love with an ageless God who insists on the face of a 12-year-old, one does one's best to hide the damage" "It must hurt. Come here." "Yes. The wrist is pretty bad, too." "That was a stupid waste of regeneration energy. Nothing is gained by you being a sentimental idiot."
+- "Okay, why did you lie?" "Never let him see the damage. And never, ever, let him see you age. He doesn't like endings."
+- Amy/Rory/River: "This is called marriage." (? something about marriage)
 - Amy: "Husband, run!" River: "Husband, shut up!" Dean: (swallow) Sam: (amused, glimpse at Dean/Cas) Dean: (blush)
 
 ### DW 705 Plot
@@ -127,6 +127,8 @@ Dean: "Let me get this straight. You save the universe but only save the UK part
 
 Dean distrust Doctor at first: "What? I'm supposed to just trust him like that? He's an alien with two hearts!" Cas: "I'm a celestial being with too many eyes and no body." Dean choked: "Which side are you?"
 
+why angels go to Purgatory to save Cas: canon way, Naomi ordered, think Cas useful, want to brainwash him; why didn't brainwash: Cas fights and escapes, run away before they can find him, so best not to use his mojo/fly so he won't be found by the angels → but end up still se his power to save those people he cared
+
 ## Plot
 
 Dean back from Purgatory through portal, Cas back later saved by angels (remembered angel's war, concerned, not brainwashed ← important hint) (Sam with Amelia, undisturbed)
@@ -135,7 +137,7 @@ Dean&Cas find case in Manhattan: statue moving, people disappearing & sudden agi
 
 Dean&Cas first notice Rory zapped away, run into Doctor/Amy (self-intros, Doctor/Cas discuss time flux), Doctor has River's book (mentioned Dean/Cas sacrifice+Amy/Rory farewell (keep it vague), River's broken wrist, gives specific time location), Cas fly 4 of them to 1938, too many weeping angels there, everyone in danger, Cas power limited because of all the angel/temporal energy
 
-Dean/Amy volunteer to check Rory, Dean protect Amy & zapped away to Winter Quay, meet Rory; Dean/Rory try to find exit, surrounded by angels, back away in corridor, notice familiar angel face (Tessa, Samandriel), realize infection pattern
+Dean/Amy volunteer to check Rory, Dean protect Amy & zapped away to Winter Quay, meet Rory; Dean/Rory try to find exit, surrounded by angels, back away in corridor, notice familiar angel face (Tessa, Samandriel, Hannah), realize infection pattern
 
 River break wrist (fail to change future), Doctor/River's love talk, Cas hear & cure River; Amy use Doctor's device to locate Dean/Rory, 4 of them go save, see room names, all witness old Dean die (Cas uneasy); River/Amy's love talk (Dean/Cas both hear)
 
@@ -161,17 +163,21 @@ On the roof of a very tall building, Cas is a weeping angel sculpture, his wings
 
 ## Act 1
 
-> Dean back from Purgatory through portal, Cas back later saved by angels (remembered angel's war, concerned, not brainwashed ← important hint) (Sam with Amelia, undisturbed)
+> Dean back from Purgatory through portal, Cas back later saved by angels (remembered angel's war, concerned, not brainwashed ← important hint; why not: escaped) (Sam with Amelia, undisturbed) ← passing lines in chat
 >
 > Dean&Cas find case in Manhattan: statue moving, people disappearing & sudden aging, tomb with wrong dates (death earlier than birth) → go investigate
-
-## Act 2
-
+>
 > Dean&Cas first notice Rory zapped away, run into Doctor/Amy (self-intros, Doctor/Cas discuss time flux), Doctor has River's book (mentioned Dean/Cas sacrifice+Amy/Rory farewell (keep it vague), River's broken wrist, gives specific time location)
 >
 > Cas fly 4 of them to 1938, too many weeping angels there, everyone in danger, Cas power limited because of all the angel/temporal energy
 
+###### [TBC]
+
 ### draft notes
+
+why angels go to Purgatory to save Cas: canon way, Naomi ordered, think Cas useful, want to brainwash him; why didn't brainwash: Cas fights and escapes, run away before they can find him, so best not to use his mojo/fly so he won't be found by the angels → but end up still se his power to save those people he cared
+
+<br>
 
 Dean: "Let me get this straight. You save the universe but only save the UK part, fly across galaxy is close enough but USA is too far away? This isn't your jurisdiction or something? Pal, not I'm saying, you did a terrible job in protecting the earth, in case you didn't notice, it at least trashed twice if we didn't ..." Doctor: "All due respect, who's behind that? Also, USA almost trashed twice doesn't mean..." River: "Don't mind him, London gets trashed every Christmas, it's a Doctor and Monster thing." Dean/Cas: "You can say that again."
 
@@ -181,13 +187,13 @@ Doctor: "People assume that time is a strict progression of cause to effect, but
 
 Doctor: "Fascinating race, the weeping angels. The only psychopath in the universe to kill you nicely. No mess, no fuss, they just zap you into the past and let you live to death, the rest of your life used up and blown away in the blink of an eye. You die in the past and in the present, they consume the energy of all the days you might have had. All your stolen moments. They're creatures of the abstract, they live off *potential* energy." ("timey-wimey detector" Dean: "I made a better hand-made EMF than that when I was ten.")
 
-## Act 3
+## Act 2
 
 > Dean/Amy volunteer to check Rory, Dean protect Amy & zapped away to Winter Quay, meet Rory
 >
-> Dean/Rory try to find exit, surrounded by angels, back away in corridor, notice familiar angel face (Tessa, Samandriel), realize infection pattern
+> Dean/Rory try to find exit, surrounded by angels, back away in corridor, notice familiar angel face (Tessa, Samandriel, Hannah), realize infection pattern
 
-## Act 4
+## Act 3
 
 > River break wrist (fail to change future), Doctor/River's love talk, Cas hear & cure River; Amy use Doctor's device to locate Dean/Rory, 4 of them go save, see room names, all witness old Dean die (Cas uneasy); River/Amy's love talk (Dean/Cas both hear)
 
@@ -199,7 +205,7 @@ River/Amy: "okay, why did you lie?" "Never let him see the damage. And never, ev
 
 Amy: "Husband, run!" River: "Husband, shut up!" Dean: (swallow) others: (amused, glimpse at Dean/Cas) Dean: (blush)
 
-## Act 5
+## Act 4
 
 > weeping angel besiege attack, all escape to roof, Statue of Liberty attack, Cas show true form, stare all directions with all eyes, everyone shut eyes (Rory/Amy love talk, Dean/Cas hear), but Cas can't keep doing that, eventually can't maintain true form in this plane; Statue of Liberty almost touch Dean/Rory, Cas jump in front of him, get turned into statue too, Dean/all stare at him, Cas can't move
 >
@@ -213,7 +219,7 @@ Dean has to stare at Cas too when Cas is weeping angel. Not blinking, stare save
 
 Cas is a "good" weeping angel with them (same as when with normal asshole angels) → deliberately turn off the light and/or close their eyes, and let Cas be free and move, Doctor/etc. freak out, Cas take care of other bad angels, Dean win the bet because he has faith (BAMF Cas)
 
-## Act 6
+## Act 5
 
 > Doctor wants to sonic beam Cas, Dean furious, think Doctor wants to hurt/destroy him, but actually to link his time energy to call Tardis, can bring them all back to 2012
 >
@@ -221,8 +227,10 @@ Cas is a "good" weeping angel with them (same as when with normal asshole angels
 >
 > a few deliberate blink scene sequence, Cas move to him, want to hug but can't, weeping/crying, Dean jump the building
 
-## Act 7
+## Act 6
 
 > timeline reset, everyone back to 2012, Doctor confirm time flux explosion kill most weeping angels, Dean worry about *most* may not include Cas, but Cas show up, actually weeping (not sculpture) because he overjoy Dean is alive but hate to see him die for him
 >
 > Doctor/River bicker (book), Amy/Rory resign (farewell), Dean/Cas confession, HE
+
+###### [END]
