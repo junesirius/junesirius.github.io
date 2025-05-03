@@ -17,9 +17,7 @@ Jensen is looking at his phone with a serene frown when Misha walks into the gre
 
 "Everything alright?" Misha asks in concern.
 
-Jensen almost jumps. "Jeez, where did you come from?" His finger turns off the phone screen automatically.
-
-"Of course," he answers too fast, not suspicious at all. "Why wouldn't it be?"
+Jensen almost jumps. "Jeez, wear a bell!" His finger turns off the phone screen automatically. "Of course," he answers too fast, not suspicious at all. "Why wouldn't it be?"
 
 His gaze slides away, shifting as if it doesn't have a target but unmistakably lands on Misha's untouched phone on the desk.
 
@@ -57,9 +55,9 @@ There is no more space for Misha to stand without falling onto Jensen completely
 
 Misha wraps his arms around Jensen's shoulder, locking them behind his neck. Their lips are mere inches apart, and Jensen's eyes are drawn on his lips like a magnet.
 
-"Careful, don't want to ruin the sweater. I like it." Misha fake complains. The warm, soft sweater is a little too thick for the April weather, but he has been refusing to change it ever since Rome.
+"Careful, don't want to ruin the sweater. I like it." Misha pretends complaining. The warm, soft sweater is a little too thick for the April weather, but he has been refusing to change it ever since Rome.
 
-Jensen's gaze moves up to meet his eyes again, drown in the same shade of blue as the sweater. "I think I'm entitled to ruin it," the tips of his lips curl up. "Since I'm the one giving it to you."
+Jensen's gaze moves up to meet his eyes again, drown in the same shade of blue as the sweater. "I think I'm entitled to ruin it," the tips of his lips curl up. "Since I'm the one gifting it."
 
 "I should give you something back." Misha says, leaning in slightly. Two inches away. Their shallow breathing blows light breeze on each other's face, melting into one.
 
@@ -99,9 +97,9 @@ They hold their breath and wait. The sound moves away and fades.
 
 They let the breath out, shallow and shaky.
 
-Misha puts his hands on the chair back briefly, trying to straightening his upper body slightly, making the angle more comfortable. After all, the chair is a little cramped. His hips are in a strained position, especially where the metal implants are.
+Misha puts his hands on the chair's back briefly, trying to straightening his upper body slightly, making the angle more comfortable. After all, the chair is a little cramped. His hips are in a strained position, especially where the metal implants are.
 
-"Careful, you're 50 now." Jensen uses his hands to support him, adjusting the position with him.
+"Careful, you're 50 now." Jensen uses his hands to support him, adjusting the position with him, sliding down on the chair slightly.
 
 Misha gives him a glare, "Why, people stop having sex at 50?"
 
@@ -119,11 +117,11 @@ Jensen can't help beaming at that. "Yes, you did. You just love exploding the in
 
 Misha nods with a big, wild smile. He leans in, hovering his lips on the other man's earlobe, breathing hot there, speaking in a sudden lowered, grave voice, "You know what else I love to explode?"
 
-With an especially hard friction, his body slacks, letting out a long, releasing sigh. With one word melted in that sigh -- "Jens."
+Jensen shudders at the sudden deep voice. With an especially hard friction, his body slacks, letting out a long, satisfying sigh. With one word melted in that sigh -- "Mish."
 
-Jensen shudders at the sudden deep voice, grasping the handful of the tightened muscle, closing his eyes at the same moment. The happy, sated sensation exploded in his brain.
+Misha grasps a handful of the tightened muscle, closing his eyes at the same moment, collapsing onto the body beneath him. The happy, sated sensation explodes.
 
-They ride the wave down slowly together, lips searching every inch of each other's skin that happens to be nearby the lips and pressing kisses there.
+They ride the wave down slowly together, lips searching every inch of each other's skin that happens to be nearby the lips and pressing kisses every which way.
 
 They catch their breathes at long last. And the first sentence Jensen says with his husky voice is: "We should do that properly again."
 
