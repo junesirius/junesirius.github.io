@@ -6,7 +6,7 @@ categories: ["Crossover"]
 characters: ["Castiel", "Dean Winchester", "Doctor Who", "11th Doctor", "River Song", "Amy Pond", "Rory Williams"]
 tags: ["Supernatural", "神秘博士", "crossover", "destiel", "11River", "Amy/Rory", "刀河", "英文"]
 pov: 第三人称
-origin: CasDean Crossover Bang 2025
+origin: 2025 CasDean Crossover Bang
 published: false
 ---
 
@@ -34,9 +34,9 @@ Location: Winter Quay (apartment block near Battery Park)
 
 - Rory Arthur Williams
 - Amelia Pond
-- River Song: detective, writer, book 《Melody Malone》
-- Julius Grayle: collector
-- Sam Garner: investigator (?)
+- River Song: detective, writer, book 《Melody Malone》(love Doctor and believe not loved back)
+- Julius Grayle: crime boss, collector
+- Sam Garner: investigator/detective
 
 ### Sculptures/statues in Manhattan
 
@@ -88,12 +88,30 @@ Location: Winter Quay (apartment block near Battery Park)
 - "creatures from another world" "The Lonely Assassins, they used to be called. No one quite knows where they came from, but they're as old as the universe, or very nearly. And they have survived this long because they have the most perfect defense system ever evolved. They're quantum locked. They don't exist when they're being observed. The moment they're seen by any other living creature, they freeze into rock. No choice, it's a fact of their biology. In the sight of any living thing, they literally turn to stone. And you can't kill a stone. 'Course, a stone can't kill you either, but then you turn your head away. Then you blink. And, oh yes it can. (Don't take your eyes off that) That's why they cover their eyes. They're not weeping, they can't risk looking at each other. Their greatest asset is their greatest curse. They can never be seen. Loneliest creatures in the universe." "Your life could depend on this. Don't blink. Don't even blink. Blink and you're dead. They're fast. Faster than you can believe. Don't turn your back, don't look away and don't blink."
 - "Why did you lie to me?" "When one's in love with an ageless God who insists on the face of a 12-year-old, one does one's best to hide the damage" "It must hurt. Come here." "Yes. The wrist is pretty bad, too." "That was a stupid waste of regeneration energy. Nothing is gained by you being a sentimental idiot."
 - "Okay, why did you lie?" "Never let him see the damage. And never, ever, let him see you age. He doesn't like endings."
-- Amy/Rory/River: "This is called marriage." (? something about marriage)
+- River/Doctor: "How did you get your wrist out without braking it?" "You asked, I did. Problem?" "You just changed the future." "**It's called marriage**, honey. Now, hush, I'm working. "
 - Amy: "Husband, run!" River: "Husband, shut up!" Dean: (swallow) Sam: (amused, glimpse at Dean/Cas) Dean: (blush)
+- Rory: "I always wanted to visit the Statue of Liberty. I guess she got impatient." before jump: "I think I'm going to need a little help there." "Amy, please, if you love me, then trust me, and push." "I can't." "You have to." "Could you? If it was me, could you do it?" "To save you, I could do anything." "Prove it." "I can't take you too." "You said we'd come back to life. Money-where-your-mouth-is time." "Amy..." "Shut... up. Together. Or not at all." Doctor/River: "What the hell are you doing?" "Changing the future. **It's called marriage**"
+- about paradox: "If Rory got out, it would create a paradox. This is the Angel's food source. The paradox poisons the well. It could kill them all. This whole place would literally un-happen." "It would be almost impossible." "Loving the 'almost'." "But to create a paradox like that takes almost unimaginable power. What have we got? Tell me, come on, what?" "**I won't let them take him. That's what we've got.**" "Even if you got out, you'd have to keep running for the rest of your life. They would be chasing you for ever." "Well, then. Better get started."; "You collapsed the timeline, the paradox worked, we are pinged back where we belong." "What, in a graveyard?" "This happened the last time. Why always here?" "Does it matter? We got lucky. We could've blown New York off the planet. I can't take the Tardis back there, the timelines are too scrambled. I could have lost you both. Don't ever do that again." "What did we do? We fixed it, we solved the problem." "I was talking to myself."
+- River/Doctor (both after S07E05): "You're the woman he loves." "No, I'm not. The Doctor does not and has never loved me. I'm not lying." "You're the woman who loves the Doctor." "Yes, I am. I've never denied it. But whoever said he loved me back? He's the Doctor. He doesn't go around falling in love with people. And if you think he's anything that small or that ordinary, then you haven't the first idea of what you're dealing with." "I assure you, she is the perfect bait. This woman is in danger, the Doctor will always come." "You're a moron. No, he won't." "He's probably already here." "No, he isn't. Of course, he isn't. God knows where he is now but I promise you he's doing whatever the hell he wants and not giving a damn about me. And I'm just fine with that. **When you love the Doctor, it's like loving the stars themselves. You don't expect a sunset to admire you back.** And if I happen to find myself in danger, let me tell you, the Doctor is not stupid enough, or sentimental enough, and he is certainly not in love enough to find himself standing in it with me!" "Hello, sweetie." "You are so doing those roots." "What, the roots of the sunset?" "Don't you dare." "I'll have to check with the stars themselves." "Oh, shut up."
 
 ### DW 705 Plot
 
 2012 Doctor/Amy read River's book → Rory buy coffee, zapped to 1938, meet River, zapped to Winter Quay → Doctor/Amy fly to 1938, find River → Doctor/River/Amy find Rory, surrounded by angels, Rory witnessed his old self die of old age → Amy/Rory suicide, create paradox → world reset to 2012 → Amy/Rory zapped back by lone angel
+
+### River's book chapter titles
+
+1. The dying detective
+2. The angels take Manhattan
+3. Missing in New York
+4. Taking the case
+5. Night in the Statue Park
+6. The Gargoyle
+7. The Skinny Guy ← start here
+8. Julius Grayle
+9. Calling the Doctor
+10. The Roman in the Cellar
+11. Death at Winter Quay
+12. Amelia's last farewell
 
 ## Theory
 
@@ -106,6 +124,10 @@ petrify to sculpture shape with uncontrollable time travel ability and quantum-l
 spread infection by touching other angels
 
 human get touched get zapped back in time
+
+angels can scream, others can hear
+
+can be locked by iron handcuff
 
 ## Ideas
 
@@ -139,7 +161,7 @@ Dean&Cas first notice Rory zapped away, run into Doctor/Amy (self-intros, Doctor
 
 Dean/Amy volunteer to check Rory, Dean protect Amy & zapped away to Winter Quay, meet Rory; Dean/Rory try to find exit, surrounded by angels, back away in corridor, notice familiar angel face (Tessa, Samandriel, Hannah), realize infection pattern
 
-River break wrist (fail to change future), Doctor/River's love talk, Cas hear & cure River; Amy use Doctor's device to locate Dean/Rory, 4 of them go save, see room names, all witness old Dean die (Cas uneasy); River/Amy's love talk (Dean/Cas both hear)
+River break wrist (fail to change future), Doctor/River's love talk (River thought not loved back), Cas hear & cure River; Amy use Doctor's device to locate Dean/Rory, 4 of them go save, see room names, all witness old Dean die (Cas uneasy); River/Amy's love talk (Dean/Cas both hear)
 
 weeping angel besiege attack, all escape to roof, Statue of Liberty attack, Cas show true form, stare all directions with all eyes, everyone shut eyes (Rory/Amy love talk, Dean/Cas hear), but Cas can't keep doing that, eventually can't maintain true form in this plane; Statue of Liberty almost touch Dean/Rory, Cas jump in front of him, get turned into statue too, Dean/all stare at him, Cas can't move
 
@@ -179,6 +201,8 @@ why angels go to Purgatory to save Cas: canon way, Naomi ordered, think Cas usef
 
 <br>
 
+can't land the Tardis in 1938 because too much time distortion there, like trying to land a plane in a blizzard, even River couldn't do it. River gets there by Vortex Manipulator, less bulky than a Tardis, a motorbike through traffic (the whole city is time locked, but Cas can fly there)
+
 Dean: "Let me get this straight. You save the universe but only save the UK part, fly across galaxy is close enough but USA is too far away? This isn't your jurisdiction or something? Pal, not I'm saying, you did a terrible job in protecting the earth, in case you didn't notice, it at least trashed twice if we didn't ..." Doctor: "All due respect, who's behind that? Also, USA almost trashed twice doesn't mean..." River: "Don't mind him, London gets trashed every Christmas, it's a Doctor and Monster thing." Dean/Cas: "You can say that again."
 
 Dean distrust Doctor at first: "What? I'm supposed to just trust him like that? He's an alien with two hearts!" Cas: "I'm a celestial being with too many eyes and no body." Dean choked: "Which side are you?"
@@ -195,7 +219,7 @@ Doctor: "Fascinating race, the weeping angels. The only psychopath in the univer
 
 ## Act 3
 
-> River break wrist (fail to change future), Doctor/River's love talk, Cas hear & cure River; Amy use Doctor's device to locate Dean/Rory, 4 of them go save, see room names, all witness old Dean die (Cas uneasy); River/Amy's love talk (Dean/Cas both hear)
+> River break wrist (fail to change future), Doctor/River's love talk (River thought not loved back), Cas hear & cure River; Amy use Doctor's device to locate Dean/Rory, 4 of them go save, see room names, all witness old Dean die (Cas uneasy), Amy see old Rory; River/Amy's love talk (Dean/Cas both hear)
 
 ### draft notes
 
@@ -204,6 +228,8 @@ Doctor/River: "Why did you lie to me?" "When one's in love with an ageless God w
 River/Amy: "okay, why did you lie?" "Never let him see the damage. And never, ever, let him see you age. He doesn't like endings."
 
 Amy: "Husband, run!" River: "Husband, shut up!" Dean: (swallow) others: (amused, glimpse at Dean/Cas) Dean: (blush)
+
+Reuse River's confession lines when she doesn't recognize 12th Doctor in 《The Husbands of River Song》, loving Doctor is like loving stars themselves, doesn't expect sunset to admire you back (Dean's the same with Cas)
 
 ## Act 4
 
