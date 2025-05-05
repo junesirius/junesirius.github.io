@@ -290,3 +290,6 @@ Then, quiet and calm, he falls asleep.
 So does Dean, without nightmares.
 
 Two quiet rhythms of breathing, in a beautiful, normal night.
+
+<br><br>
+![](https://64.media.tumblr.com/58db2f6f154a9ea6631f531e186cfceb/4f9743d6bf18af41-40/s2048x3072/cb86c535f2d18f67358058e3607c5e15cc385b19.jpg)
