@@ -2987,4 +2987,16 @@ hunter corp Dean/Sam remain in canonverse, restart hunter corp business? making 
 
 1513 hunter corp + 1509 The Trap AU, god die, monster become known to all human, hunter corp business become too good when monster start riot, human vs monster big fight (not just hunter), second (third?) apocalypse, they find out a way to keep monster in control, world in balance again
 
-### 289.
+### 289.【destiel】Dean learns Enochian for Cas
+
+(inspired by 《[Clipped and Unbound](https://archiveofourown.org/works/1567589)》where un-educated angels can't read written English, only Enochian, and Cas doesn't really like his name in English, it's not his name, it should be in Enochian)
+
+can relate that
+
+no matter how good/familiar/fluent Cas is with human language including English, it's not his native tongue, he's still more intuitively familiar with Enochian, so when in nightmare or some other intuitive moments e.g. battle warning etc., he's still using Enochian by instinct
+
+Dean observes it and quietly takes notice, and learns Enochian for Cas
+
+first time Dean tries to talk with Cas in spoken Enochian, Cas is surprised, Dean speaks terribly and not fluently, Cas: "what are you doing, you know I can speak English right?" Dean just want to make him feel comfortable, feel home, Cas is moved
+
+### 290.
