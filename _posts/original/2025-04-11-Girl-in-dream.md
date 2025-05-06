@@ -3,9 +3,9 @@ layout: post
 title: 【情感】遗忘的女孩
 date: 2025-04-11 23:08
 categories: ["原创", "梦记"]
-characters: 
+characters: ["Carol Elevens"]
 tags: ["梦", "情感", "孤独", "渴望", "想象", "dreamwalk", "碎片", "爱", "亲密关系"]
-pov: 第一人称
+pov: 第一人称视角
 origin: 个站
 ---
 
