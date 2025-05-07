@@ -27,6 +27,7 @@
                 var url = new URL(imgSrc);
                 if (url.hostname === 'mmbiz.qpic.cn') {
                     $(this).attr('referrerpolicy', 'no-referrer');
+                    $(this).attr('src', imgSrc + '?' + new Date().getTime());
                 }
             });
         });
