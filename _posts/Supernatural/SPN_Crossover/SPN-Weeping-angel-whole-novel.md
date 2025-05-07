@@ -236,21 +236,27 @@ On the roof of a very tall building, Cas is a weeping angel sculpture, his wings
 
 ## Chap 1 The Dying Detective
 
+> (trailer)
+>
 > The trailer scene, similar to original DW trailer, but use River's image, except writing as "Detective" to avoid spoiler
 >
 > basically already telling the part that will happen in Chap 2-6 (part of River's book's beginning, River POV)
 
+### draft notes
+
 ## Chap 2 Missing In New York
 
-> (Dean POV)
+> (Dean POV)(Act 1 setup)
 >
 > Dean back from Purgatory through portal, Cas back later saved by angels (remembered angel's war, concerned, not brainwashed ← important hint; why not: escaped) (Sam with Amelia, undisturbed) ← passing lines in chat
 >
 > Dean&Cas find case in Manhattan: statue moving, people disappearing & sudden aging, tomb with wrong dates (death earlier than birth) → go investigate
 
+### draft notes
+
 ## Chap 3 Taking The Case
 
-> (Dean POV)
+> (Dean POV)(Act 1 inciting incident)
 >
 > Dean&Cas first notice Rory zapped away, run into Doctor/Amy (self-intros, Doctor/Cas discuss time flux), Doctor has River's book (mentioned Dean/Cas sacrifice+Amy/Rory farewell (keep it vague), River's broken wrist, gives specific time location)
 >
@@ -274,7 +280,7 @@ Doctor: "Fascinating race, the weeping angels. The only psychopath in the univer
 
 ## Chap 4 The Roman In The Cellar
 
-> (Dean POV)
+> (Dean POV)(Act 2 plot point 1)
 >
 > 4 confront Julius Grayle, meet River, cross introductions
 >
@@ -286,13 +292,15 @@ Dean wrt Amy/Rory: "So you two are married." Cas wrt Doctor/River: "You two are 
 
 ## Chap 5 Night In The Statue Park
 
-> (Dean POV)
+> (Dean POV)(Act 2 realization)
 >
 > Dean/Rory try to find exit in Winter Quay, surrounded by angels, back away in corridor, notice familiar angel face (Tessa, Samandriel, Hannah), realize infection pattern (phone call Cas?)
 
+### draft notes
+
 ## Chap 6 Calling The Doctor
 
-> (Cas POV)
+> (Cas POV)(Act 2 mid-point, moment of truth)
 >
 > River break wrist (fail to change future), Doctor/River's love talk (River thought not loved back), Cas hear & cure River
 >
@@ -312,7 +320,7 @@ Reuse River's confession lines when she doesn't recognize 12th Doctor in 《The 
 
 ## Chap 7 The Angels Take Manhattan
 
-> (Dean POV)
+> (Dean POV)(Act 2 plot point 2+Act 3 twist)
 >
 > weeping angel besiege attack, all escape to roof, the Statue of Liberty attack, Cas show true form, stare all directions with all eyes, everyone shut eyes (Rory/Amy love talk, Dean/Cas hear), but Cas can't keep doing that, eventually can't maintain true form in this plane
 >
@@ -330,20 +338,28 @@ Cas is a "good" weeping angel with them (same as when with normal asshole angels
 
 ## Chap 8 Death At Winter Quay
 
+> (Dean POV)(Act 3 climax)
+>
 > Liberty continue attack, all think no way out, Dean trust Cas, ask them all for faith, look away from Cas for a sec, Cas disappear, Liberty & other statues disappear, Cas move back, still statue
 >
 > Doctor wants to sonic Cas, Dean furious, think Doctor wants to hurt/destroy him, but actually to link his time energy to call Tardis, can bring them all back to 2012 (but can't cure Cas)
 >
 > Dean finalizes the decision to suicide to save Cas (hesitant for saving world, determined if it saves Cas)
 >
-> Dean/Rory argue who to sacrifice
+> Dean/Rory argue who to sacrifice, Amy/Rory willing jump together
 >
 > a few deliberate blink scene sequence, Cas move to him, want to hug but can't, weeping/crying, Dean jump the building
 >
 > (for a sec make it looks like not working)
 
+### draft notes
+
+Dean's strongest reason to sacrifice instead of Amy/Rory: You have each other, I have no one now. If it doesn't work, try something else, help him, and maybe let my brother know. (give Doctor his phone)
+
 ## Chap 9 Last Farewell
 
+> (Dean POV)(Act 3 wrapping up)
+>
 > timeline reset, everyone back to 2012, Doctor confirm time flux explosion kill most weeping angels, Dean worry about *most* may not include Cas. Not see Cas immediately, Dean panick
 >
 > Cas finally show up (late bc disoriented), actually weeping (not sculpture) because he overjoy Dean is alive but hate to see him die for him
