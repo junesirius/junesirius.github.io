@@ -19,6 +19,18 @@
       gtag('js', new Date());
       gtag('config', 'G-7049S50VTD');
     </script>
+    <!-- Add no-referrer policy for qpic -->
+    <script>
+        $(document).ready(function(){
+            $('.article img').each(function(){
+                var imgSrc = $(this).attr('src');
+                var url = new URL(imgSrc);
+                if (url.hostname === 'mmbiz.qpic.cn') {
+                    $(this).attr('referrerpolicy', 'no-referrer');
+                }
+            });
+        });
+    </script>
 </head>
 
 <body>
