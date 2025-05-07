@@ -236,13 +236,21 @@ On the roof of a very tall building, Cas is a weeping angel sculpture, his wings
 
 ## Chap 1 The Dying Detective
 
-> The trailer scene, similar to original DW trailer, but use River's image, except writing as "Detective", so basically already telling the part that will happen later, which is part of River's book's beginning
+> The trailer scene, similar to original DW trailer, but use River's image, except writing as "Detective" to avoid spoiler
+>
+> basically already telling the part that will happen in Chap 2-6 (part of River's book's beginning, River POV)
 
-## Act 1
+## Chap 2 Missing In New York
 
+> (Dean POV)
+>
 > Dean back from Purgatory through portal, Cas back later saved by angels (remembered angel's war, concerned, not brainwashed ← important hint; why not: escaped) (Sam with Amelia, undisturbed) ← passing lines in chat
 >
 > Dean&Cas find case in Manhattan: statue moving, people disappearing & sudden aging, tomb with wrong dates (death earlier than birth) → go investigate
+
+## Chap 3 Taking The Case
+
+> (Dean POV)
 >
 > Dean&Cas first notice Rory zapped away, run into Doctor/Amy (self-intros, Doctor/Cas discuss time flux), Doctor has River's book (mentioned Dean/Cas sacrifice+Amy/Rory farewell (keep it vague), River's broken wrist, gives specific time location)
 >
@@ -264,18 +272,28 @@ Doctor: "People assume that time is a strict progression of cause to effect, but
 
 Doctor: "Fascinating race, the weeping angels. The only psychopath in the universe to kill you nicely. No mess, no fuss, they just zap you into the past and let you live to death, the rest of your life used up and blown away in the blink of an eye. You die in the past and in the present, they consume the energy of all the days you might have had. All your stolen moments. They're creatures of the abstract, they live off *potential* energy." ("timey-wimey detector" Dean: "I made a better hand-made EMF than that when I was ten.")
 
-Dean ert Amy/Rory: "So you two are married." Cas wrt Doctor/River: "You two are also married." Amy wrt destiel: "And you are --?" Dean: "No, no, we, uh, we are best friends." Amy: "Sure."
+## Chap 4 The Roman In The Cellar
 
-## Act 2
-
-> 4 confront Grayle, meet River, multiple introductions
+> (Dean POV)
+>
+> 4 confront Julius Grayle, meet River, cross introductions
 >
 > Dean/Amy volunteer to check Rory, Dean protect Amy & zapped away to Winter Quay, meet Rory
+
+### draft notes
+
+Dean wrt Amy/Rory: "So you two are married." Cas wrt Doctor/River: "You two are also married." Amy wrt destiel: "And you are --?" Dean: "No, no, we, uh, we are best friends." Amy: "Sure."
+
+## Chap 5 Night In The Statue Park
+
+> (Dean POV)
 >
-> Dean/Rory try to find exit, surrounded by angels, back away in corridor, notice familiar angel face (Tessa, Samandriel, Hannah), realize infection pattern
+> Dean/Rory try to find exit in Winter Quay, surrounded by angels, back away in corridor, notice familiar angel face (Tessa, Samandriel, Hannah), realize infection pattern (phone call Cas?)
 
-## Act 3
+## Chap 6 Calling The Doctor
 
+> (Cas POV)
+>
 > River break wrist (fail to change future), Doctor/River's love talk (River thought not loved back), Cas hear & cure River
 >
 > Amy use Doctor's device to locate Dean/Rory, 4 of them go save, see room names, split witness old Dean die (Cas uneasy), Amy see old Rory
@@ -292,13 +310,15 @@ Amy: "Husband, run!" River: "Husband, shut up!" Dean: (swallow) others: (amused,
 
 Reuse River's confession lines when she doesn't recognize 12th Doctor in 《The Husbands of River Song》, loving Doctor is like loving stars themselves, doesn't expect sunset to admire you back (Dean's the same with Cas)
 
-## Act 4
+## Chap 7 The Angels Take Manhattan
 
-> weeping angel besiege attack, all escape to roof, Statue of Liberty attack, Cas show true form, stare all directions with all eyes, everyone shut eyes (Rory/Amy love talk, Dean/Cas hear), but Cas can't keep doing that, eventually can't maintain true form in this plane
+> (Dean POV)
+>
+> weeping angel besiege attack, all escape to roof, the Statue of Liberty attack, Cas show true form, stare all directions with all eyes, everyone shut eyes (Rory/Amy love talk, Dean/Cas hear), but Cas can't keep doing that, eventually can't maintain true form in this plane
 >
 > start the paradox talk here (River talk about how it's like to love Doctor, observable, related), get confirm if he dies now he create paradox, Dean already starts considering suicide to save the world (but still a little hesitant), Cas doesn't let him, huge argue
 >
-> Statue of Liberty almost touch Dean/Rory, Cas jump in front of him, get turned into statue too, Dean/all stare at him, Cas can't move
+> the Statue of Liberty almost touch Dean/Rory, Cas jump in front of him, get turned into statue too, Dean/all stare at him, Cas can't move
 
 ### draft notes
 
@@ -308,7 +328,7 @@ Dean has to stare at Cas too when Cas is weeping angel. Not blinking, stare save
 
 Cas is a "good" weeping angel with them (same as when with normal asshole angels) → deliberately turn off the light and/or close their eyes, and let Cas be free and move, Doctor/etc. freak out, Cas take care of other bad angels, Dean win the bet because he has faith (BAMF Cas)
 
-## Chap 11 Death At Winter Quay
+## Chap 8 Death At Winter Quay
 
 > Liberty continue attack, all think no way out, Dean trust Cas, ask them all for faith, look away from Cas for a sec, Cas disappear, Liberty & other statues disappear, Cas move back, still statue
 >
@@ -322,7 +342,7 @@ Cas is a "good" weeping angel with them (same as when with normal asshole angels
 >
 > (for a sec make it looks like not working)
 
-## Chap 12 Last Farewell
+## Chap 9 Last Farewell
 
 > timeline reset, everyone back to 2012, Doctor confirm time flux explosion kill most weeping angels, Dean worry about *most* may not include Cas. Not see Cas immediately, Dean panick
 >
