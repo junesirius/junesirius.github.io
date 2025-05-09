@@ -67,6 +67,7 @@ apartment interior (in script): A bleak, dusty, characterless apartment. Someone
 - The Doctor now crosses to River. She's sitting on the stairs, trying to not to cradle her wrist. It lies limply across her lap. She's a little stiff, a little frosty -- doesn't like being caught out, and **especially doesn't like being vulnerable**. The Doctor -- very gentle now -- sits next to her. "Why did you lie to me?" "**When one is in love with an ageless god who insists on the face of a twelve year old, one does one's best to hide the damage.**" The Doctor is gently taking River's wrist in his hands. "It must hurt. Come here." "Yes. The wrist is pretty bad too." **He just looks at her, a little pained by that. She can't quite meet his gaze -- like she's ashamed of saying that.** On the Doctor -- a decision. Now on his hand, holding River's wrist. It's glowing, like regeneration. "No! No, stop that, stop that, stop it." He grips his glowing hand round her wrist. The fierce glow envelopes her arm too -- and then snaps off. He kissed her hand. "There we go. How's that?" She glares at him. "Well let's see, shall we." And she uses that hand to slap him hard across the face. "That was a stupid waste of regeneration energy -- nothing is gained by you being a sentimental idiot." "River --" "You *embarrass* me!" "River --" And she gets up, strides to the front door, and slams out. On the Doctor -- what?
 - River outside the door, collecting herself. Amy coming through the door -- approaching carefully, as you do on those occasions. A beat. "Okay, so why did you lie?" "**Never let him see the damage. And never, ever, let him see you age. He doesn't like endings.**"
 - "You're the woman he loves." "No, I'm not. The Doctor does not and has never loved me. I'm not lying." "You're the woman who loves the Doctor." "Yes, I am. I've never denied it. But **whoever said he loved me back? He's the Doctor. He doesn't go around falling in love with people.** And if you think he's anything that small or that ordinary, then you haven't the first idea of what you're dealing with." "I assure you, she is the perfect bait. This woman is in danger, the Doctor will always come." "You're a moron. No, he won't." "He's probably already here." "No, he isn't. Of course, he isn't. God knows where he is now but I promise you he's doing whatever the hell he wants and not giving a damn about me. And **I'm just fine with that.** **When you love the Doctor, it's like loving the stars themselves. You don't expect a sunset to admire you back.** And if I happen to find myself in danger, let me tell you, **the Doctor is not stupid enough, or sentimental enough, and he is certainly not in love enough to find himself standing in it with me!**" "Hello, sweetie." "You are so doing those roots." "What, the roots of the sunset?" "Don't you dare." "I'll have to check with the stars themselves." "Oh, shut up." (S09E13, after S07E05)
+- "What you said to Amy, there's a worse day coming for you?" "When I first met the Doctor, a long, long time ago, he knew all about me. Think about that. Impressionable young girl and suddenly, this man just drops out of the sky. And he's clever and mad and wonderful and knows every last thing about her. Imagine what that does to a girl. Trouble is it's all back-to-front. My past is his future. We're traveling in opposite directions. Every time we meet, I know him more, he knows me less. I live for the days when I see him, but I know that every time I do, he'll be one step further away. And the day is coming when I'll look into that man's eyes, my Doctor, and he won't have the faintest idea who I am. And I think it's going to kill me."(S06E01)
 
 #### Amy/Rory + Doctor/Amy
 
@@ -200,7 +201,7 @@ Dean distrust Doctor at first: "What? I'm supposed to just trust him like that? 
 
 why angels go to Purgatory to save Cas: canon way, Naomi ordered, think Cas useful, want to brainwash him; why didn't brainwash: Cas fights and escapes, run away before they can find him, so best not to use his mojo/fly so he won't be found by the angels → but end up still se his power to save those people he cared
 
-### Plot (draft 1)
+### Plot (early draft)
 
 Dean back from Purgatory through portal, Cas back later saved by angels (remembered angel's war, concerned, not brainwashed ← important hint) (Sam with Amelia, undisturbed)
 
@@ -329,6 +330,8 @@ Reuse River's confession lines when she doesn't recognize 12th Doctor in 《The 
 > the Statue of Liberty almost touch Dean/Rory, Cas jump in front of him, get turned into statue too, Dean/all stare at him, Cas can't move
 
 ### draft notes
+
+(if has to guess, Liberty is Naomi)
 
 Cas buy them time by using all his eyes in his true form to stare at all sculptures all at once so none of them can move again, so the sacrifice is he can't move either (not a solution, so give up)
 
