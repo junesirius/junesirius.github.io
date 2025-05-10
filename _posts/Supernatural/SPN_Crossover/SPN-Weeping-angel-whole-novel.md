@@ -328,6 +328,8 @@ Reuse River's confession lines when she doesn't recognize 12th Doctor in 《The 
 > start the paradox talk here (River talk about how it's like to love Doctor, observable, related), get confirm if he dies now he create paradox, Dean already starts considering suicide to save the world (but still a little hesitant), Cas doesn't let him, huge argue
 >
 > the Statue of Liberty almost touch Dean/Rory, Cas jump in front of him, get turned into statue too, Dean/all stare at him, Cas can't move
+>
+> Cas's stonization isn't instant, start from feet up, can't move, eyes the last, Dean has to witness the process, it's painful for both, that's why Cas has time to spread the wing before the process complete so his statue shows protective wings for Dea
 
 ### draft notes
 
@@ -363,9 +365,13 @@ Dean's strongest reason to sacrifice instead of Amy/Rory: You have each other, I
 
 > (Dean POV)(Act 3 wrapping up)
 >
-> timeline reset, everyone back to 2012, Doctor confirm time flux explosion kill most weeping angels, Dean worry about *most* may not include Cas. Not see Cas immediately, Dean panick
+> timeline reset, everyone back to 2012, Doctor confirm time flux explosion kill most weeping angels, Dean worry about *most* may not include Cas. Not see Cas immediately, Dean worried
 >
-> Cas finally show up (late bc disoriented), actually weeping (not sculpture) because he overjoy Dean is alive but hate to see him die for him
+> Cas finally show up, still weeping angel, Dean panicked; Doctor suspect bc he's in the center of the timeline explosion, might be "survivor" not recovered, Dean suggest another paradox to fix him, Doctor warn it will rip earth apart, Dean: "I save the Earth enough times, about time it saves us for once"
+>
+> Cas statue hold hand as if want to touch Dean but restrain himself, Dean willingly approach, want to be touched, even if he may get zapped back; then the moment they touch, Cas start reverting, bit by bit, reverse process of stonization
+>
+> Cas back normal, disoriented, actually weeping, bc overjoy Dean's alive again but hate to see him die for him again; dean overjoy Cas's back
 >
 > Doctor/River bicker (book), Amy/Rory resign (farewell), Dean/Cas confession, HE
 
