@@ -67,6 +67,13 @@ published: false
 49. The Rhinelander hodag (Rhinelander, WI): An ugly, stumpy critter with a spiked tale, the hodag features in Paul Bunyan stories and reportedly likes to eat bulldogs. → monster
 50. The Platte River ship (Platte River, WY): Through thick mist, usually in February, a ship can be seen sailing the Platte River, its phantom crew frosted over. On the deck, you'll allegedly see the body of someone you know or yourself. Either way, the person's death will come soon. → ghost, pagan god
 
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/others/2025-05-11-urban-legends-in-states-1.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/others/2025-05-11-urban-legends-in-states-2.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/others/2025-05-11-urban-legends-in-states-3.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/others/2025-05-11-urban-legends-in-states-4.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/others/2025-05-11-urban-legends-in-states-5.jpg)
+![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/others/2025-05-11-urban-legends-in-states-6.jpg)
+
 ## F
 
 ### 负能墙
