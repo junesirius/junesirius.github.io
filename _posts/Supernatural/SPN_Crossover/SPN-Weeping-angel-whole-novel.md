@@ -68,6 +68,7 @@ apartment interior (in script): A bleak, dusty, characterless apartment. Someone
 - River outside the door, collecting herself. Amy coming through the door -- approaching carefully, as you do on those occasions. A beat. "Okay, so why did you lie?" "**Never let him see the damage. And never, ever, let him see you age. He doesn't like endings.**"
 - "You're the woman he loves." "No, I'm not. The Doctor does not and has never loved me. I'm not lying." "You're the woman who loves the Doctor." "Yes, I am. I've never denied it. But **whoever said he loved me back? He's the Doctor. He doesn't go around falling in love with people.** And if you think he's anything that small or that ordinary, then you haven't the first idea of what you're dealing with." "I assure you, she is the perfect bait. This woman is in danger, the Doctor will always come." "You're a moron. No, he won't." "He's probably already here." "No, he isn't. Of course, he isn't. God knows where he is now but I promise you he's doing whatever the hell he wants and not giving a damn about me. And **I'm just fine with that.** **When you love the Doctor, it's like loving the stars themselves. You don't expect a sunset to admire you back.** And if I happen to find myself in danger, let me tell you, **the Doctor is not stupid enough, or sentimental enough, and he is certainly not in love enough to find himself standing in it with me!**" "Hello, sweetie." "You are so doing those roots." "What, the roots of the sunset?" "Don't you dare." "I'll have to check with the stars themselves." "Oh, shut up." (S09E13, after S07E05)
 - "What you said to Amy, there's a worse day coming for you?" "When I first met the Doctor, a long, long time ago, he knew all about me. Think about that. Impressionable young girl and suddenly, this man just drops out of the sky. And he's clever and mad and wonderful and knows every last thing about her. Imagine what that does to a girl. Trouble is it's all back-to-front. My past is his future. We're traveling in opposite directions. Every time we meet, I know him more, he knows me less. I live for the days when I see him, but I know that every time I do, he'll be one step further away. And the day is coming when I'll look into that man's eyes, my Doctor, and he won't have the faintest idea who I am. And I think it's going to kill me."(S06E01)
+- "I can't let you die without knowing you are loved, by so many and so much. And by no one more than me." (S06E13)
 
 #### Amy/Rory + Doctor/Amy
 
@@ -323,13 +324,13 @@ Reuse River's confession lines when she doesn't recognize 12th Doctor in 《The 
 
 > (Dean POV)(Act 2 plot point 2+Act 3 twist)
 >
-> weeping angel besiege attack, all escape to roof, the Statue of Liberty attack, Cas show true form, stare all directions with all eyes, everyone shut eyes (Rory/Amy love talk, Dean/Cas hear), but Cas can't keep doing that, eventually can't maintain true form in this plane
+> weeping angel besiege attack, all escape to roof, the Statue of Liberty attack, Cas show true form, stare all directions with all eyes, everyone shut eyes (Rory/Amy love talk, Dean/Cas hear), but Cas can't keep doing that, eventually can't maintain true form in this plane (Doctor can sonic a few to send them away but not enough, detail for later)
 >
 > start the paradox talk here (River talk about how it's like to love Doctor, observable, related), get confirm if he dies now he create paradox, Dean already starts considering suicide to save the world (but still a little hesitant), Cas doesn't let him, huge argue
 >
 > the Statue of Liberty almost touch Dean/Rory, Cas jump in front of him, get turned into statue too, Dean/all stare at him, Cas can't move
 >
-> Cas's stonization isn't instant, start from feet up, can't move, eyes the last, Dean has to witness the process, it's painful for both, that's why Cas has time to spread the wing before the process complete so his statue shows protective wings for Dea
+> Cas's stonization isn't instant, start from feet up, can't move, eyes the last, Dean has to witness the process, it's painful for both, that's why Cas has time to spread the wing before the process complete so his statue shows protective wings for Dean
 
 ### draft notes
 
@@ -347,7 +348,7 @@ Cas is a "good" weeping angel with them (same as when with normal asshole angels
 >
 > Liberty continue attack, all think no way out, Dean trust Cas, ask them all for faith, look away from Cas for a sec, Cas disappear, Liberty & other statues disappear, Cas move back, still statue
 >
-> Doctor wants to sonic Cas, Dean furious, think Doctor wants to hurt/destroy him, but actually to link his time energy to call Tardis, can bring them all back to 2012 (but can't cure Cas)
+> Doctor wants to sonic Cas, Dean furious, think Doctor wants to hurt him (happened before to other angels before), but actually to link his time energy to call Tardis, can bring them all back to 2012 (but can't cure Cas)
 >
 > Dean finalizes the decision to suicide to save Cas (hesitant for saving world, determined if it saves Cas)
 >
