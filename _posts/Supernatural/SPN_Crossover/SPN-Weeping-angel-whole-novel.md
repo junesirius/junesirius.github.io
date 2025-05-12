@@ -36,16 +36,21 @@ exterior (in script): when looking up at the building from the outside: People a
 
 apartment interior (in script): A bleak, dusty, characterless apartment. Someone has lived here a very long time. Alone probably. (many items dusty and unused, the old self's breath, ancient and rasping)
 
+(in film): in River's book when Sam Garner walks in : 22 floors, number of rooms in each floor: 0-1st (16), 2-5 (14), 6-14 (12), 15-16 (10), 17-18 (8), 19-20 (6), 21-22 (4), total to 252 rooms; in reality when Rory walks in: 7 floors, number of rooms in each floor: 0 (34), 1 (42), 2 (35), 3 (34), 4 (40), 5 (38), 6 (40), 7 (39), total to 302 rooms (but Rory's room is Floor 8)
+
 ### Characters
 
 - The Doctor:
   - "I always rip out the last page of a book. Then it doesn't have to end. I hate endings."
   - "Because --" Breaks off. So sad, so defeated. Maybe more defeated than we've ever seen him. He turns to look at the old man in the bed, summons the will to speak. "-- Because he was so pleased to see you again."
 
-- Rory Arthur Williams (Floor 8 Winter Quay)
+- Rory Arthur Williams (Rm. 802 Winter Quay)
   - ancient man lies on the bed. reaching an ancient, withered hand towards Amy. Rory 2 looking up at her, so desperately sad, so terribly old -- "Amy" -- and the lights die in his eyes. His hand slips from hers and he falls back.
+  - Tombstone: In loving memory, Rory Arthur Williams, Aged 82
 
 - Amelia Pond
+  - Tombstone: And his loving wife, Amelia Williams, Aged 87
+
 - River Song: detective, writer, book 《Melody Malone》(love Doctor and believe not loved back)
   - "She's got ice in her heart and a kiss on her lips, and a vulnerable side she keeps well hidden." -- Amy
   - "Just you wait 'til my husband gets home"
@@ -54,7 +59,7 @@ apartment interior (in script): A bleak, dusty, characterless apartment. Someone
 - Julius Grayle: crime boss, collector (powerful, wealthy, the Sydney Greenstreet of this world, aging, fleshy, corrupt, sinister)
   - "I want to know if it could feel pain."
 
-- Sam Garner: a private-eye (and everything you'd want him to be) (cynical, shrewd, world-weary but in such a Hollywood way) (die in Floor 7 Winter Quay)
+- Sam Garner: a private-eye, Bureau of Security and Investigation private investigator (and everything you'd want him to be) (cynical, shrewd, world-weary but in such a Hollywood way) (die in Rm. 702 Winter Quay)
 - the locked weeping angel at Grayle's study: scariest, damaged, scarred, emaciated, like it's starving. Its face is feral an ganged, but its mouth is stretched open in what could be a terrible scream of pain, with a length of chain holding it by the wrist and binding it to the wall. The whole thing is framed and lit as if were a beautiful exhibit. It's screaming and the others can hear it.
 
 ### Relationships
@@ -127,7 +132,9 @@ Doctor: "Amy!!!" Too late. Now, on Rory and Amy falling, in terrible, tragic slo
 
 2012 Doctor/Amy read River's book → Rory buy coffee, zapped to 1938, meet River, zapped to Winter Quay → Doctor/Amy fly to 1938, find River → Doctor/River/Amy find Rory, surrounded by angels, Rory witnessed his old self die of old age → Amy/Rory suicide, create paradox → world reset to 2012 → Amy/Rory zapped back by lone angel
 
-### River's book chapter titles
+### River's book
+
+#### chapter titles
 
 1. The Dying Detective
 2. The Angels Take Manhattan
@@ -141,6 +148,16 @@ Doctor: "Amy!!!" Too late. Now, on Rory and Amy falling, in terrible, tragic slo
 10. The Roman In The Cellar
 11. Death At Winter Quay
 12. Amelia's Last Farewell
+
+#### Blurb at the back cover
+
+Melody Malone
+
+New York Growled at my window. A friend once told this was the town of a million stories.
+
+Some nights I felt like they were all happening to me. This was one of those nights.
+
+But what the hell -- my stocking seams were straight, my lipstick was combat ready, and I was packing cleavage that could fell an ox at twenty feet.
 
 ## Theory
 
@@ -361,6 +378,8 @@ Cas is a "good" weeping angel with them (same as when with normal asshole angels
 ### draft notes
 
 Dean's strongest reason to sacrifice instead of Amy/Rory: You have each other, I have no one now. If it doesn't work, try something else, help him, and maybe let my brother know. (give Doctor his phone)
+
+"To save you, I could do anything." -- Rory/Dean
 
 ## Chap 9 Last Farewell
 
