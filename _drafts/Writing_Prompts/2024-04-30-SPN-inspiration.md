@@ -2999,4 +2999,30 @@ Dean observes it and quietly takes notice, and learns Enochian for Cas
 
 first time Dean tries to talk with Cas in spoken Enochian, Cas is surprised, Dean speaks terribly and not fluently, Cas: "what are you doing, you know I can speak English right?" Dean just want to make him feel comfortable, feel home, Cas is moved
 
-### 290.
+### 290.【destiel/all】S12 rewrite: what if Amara brings all Winchesters back
+
+what Dean wants most: the whole family together
+
+so what if instead of only bringing Mary back (leaving John alone in Heaven), Amara brings both John and Mary back. Actually, to be thorough, also bring Henry and Samuel back, the whole big Winchester + Campbell family back
+
+the first time everyone is back, a little similar to post-S15E20 Dean's Heaven, but Heaven on Earth, everyone gets a chance to solve their trauma/regrets, John's daddy issue, Mary's daddy issue ("your dad needs to handle his daddy issue")
+
+still a bit of "John Winchester's A+ parenting" issue regarding Cas/Dean relationship (not necessarily established relationship, but maybe just because of trusting him too much, the way they interact, Mary already assumed, John easily assume the same), but this time destiel has grandpa and so many other family members together to solve it
+
+bunker is going to be very crowded and noisy
+
+and family drama is going to be horrible: have you ever seen a whole big family living together and *not* turn into big fight? classic family drama story but more comedy less trauma tragedy
+
+Henry/Samuel in-law relationship, Henry/Mary weirdly very close father-in-law relationship, John's temper has to improve because of Henry being there
+
+destiel maybe not even in the focus, this is about the whole family, this is every Winchester (and Campbell)
+
+many hot-temper characters (isn't it everyone?), it might as well be the real apocalypse
+
+### 291.【destiel】卡给丁建的颅内世界
+
+S07E01帝卡时期附近时间线，丁不小心又快把自己弄死/快要脑死亡了（比真死还要麻烦因为不去天堂），卡把他放进颅内世界了，类似djinn's world，但是是卡给他建的，为了让他过得尽量舒服一点又不想让他察觉出来暴躁愤怒
+
+开局丁视角感觉整个世界都是正常的，好像全都只是正常的case fic，正常的hunter life，也没有特别严重的world-ending threat，所以过得还算舒服，那些偶尔的危险也都是正常级别的——只有卡看起来异常。写的手法暗示+因为是丁的局限视角，刻意引导读者好像卡是这个世界有问题的那个，比如好像突然出现ooc动作表现，或者突然zoom out静止不动好像机器人失去信号之类（突然黑客帝国）。丁注意到了不对劲，暗中其实一直在注意卡，想要搞明白到底卡出了什么问题，把全文悬念也都引到卡身上（但是偶尔穿插潜意识暗示现实世界在外面，稍微也有点黑镜304 San Junipero的写法风格）。丁在各个case fic之间一边跟卡正常互动一边一直在调查在开始担心起来，卡以为他是对自己/这个世界有怀疑了也开始有点紧张，但其实完全方向都是错的。到后面丁卡关系进展，卡开始对这个世界走势有点失去控制，这个世界卡的zoom out其实是他不得不在外面世界离开丁去做别的事。卡逐渐意识到了自己没法做好帝卡，他甚至没法设计好一个专门给丁的世界，那就不用说建一个给所有人都理想的全世界了。到后面揭晓丁视角其实整个世界都是假的，卡放弃帝卡能力，用最后一点能力治好丁。俩人要重新讨论俩人关系（其实里世界的那个卡也都是卡本人，所以互动都是有记忆的，那些case fic对他们来说也都相当于是一起经历过的，“who said what happened in your head can't be real”），大概是有可能HE或者hopeful ending的。他们都要重新消化一下之前的事但是互相都是接纳了彼此了的，也是通过里面那些时间想明白了对彼此的感情，所以后面可以很有希望。
+
+### 292.
