@@ -167,4 +167,18 @@ it must be the case
 - But black is the king of all the colors. It is as soft as silk when his mother hugs him and her hair falls in his face. (braille curly hairs that look like both waves and silk)
 - Thomas likes all the colors because he can hear them and smell them and touch them and taste them. (braille cutting grass with strawberries, flowers, and a cricket, like spring)
 
-### 18.
+### 18.【River Song/Tardis】Tardis's daughter
+
+River has regeneration energy because she was created when Amy Rory consummated on Tardis on their wedding night. So River was called "the daughter of Tardis" by someone at one point (by the Doctor?).
+
+What if it's literal, River is actually biologically half Amy/Rory's, half Tardis's daughter, which explains her timelord-ness.
+
+River says she learns how to fly Tardis from the best, which is Tardis herself.
+
+And Tardis's episode is called "The Doctor's Wife", which supposed should refer to River.
+
+so, really want River to meet Tardis in human form, e.g. in "The Doctor's Wife", might be something fun and touching
+
+some arguments "you're not Doctor's wife, I am." River actually calls Tardis "Mother" as well? "You call her Sexy? You didn't even call me Sexy. She (Tardis) is your... mother-in-law!" "Isn't Sweetie good enough?"
+
+### 19.
