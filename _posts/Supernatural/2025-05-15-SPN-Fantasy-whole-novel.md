@@ -40,6 +40,7 @@ keywords:
   - window: look out, keep wind, separate inside outside, let light through, protect, warmth, part of scenery, colored
 - color: blue, brown, violet, yellow, different shades of blue, Cas's blue eyes, **color of Cas's real form, Cas transform/born from the blue color**, God of Blue, bluest eyes, personalization of blue color, sky, sun, golden
   - blue: sky, lake, water, ice, ice on the frozen lake, sea, ocean, eyes, **each color is a thought**
+  - Zima blue, love robot and death, sci-fi
   - color comes from metal, blue from cobalt, red from copper, white from tin
 - college: modern setting, college setting, art student, student of other major, glass worker, janitor, teacher, tutor, constructor, history student, science student, film student, photography student, freshman student, graduating student
 - sunrise: light, sun ray, light particles, photons, Cas in photon form, Cas is light and color, Cas can transform shape, Cas doesn't have a physical shape, Cas is Dean's phantom muse and he doesn't think Cas is real
@@ -53,12 +54,7 @@ keywords:
 
 ### Organize
 
-#### What is the colored glass/What is color
-
-- **each color on the glass is a thought** (Cas's mind is made of colors)
-- blue: **color of Cas's real form, Cas transform/born from the blue color**
-
-ref:
+#### Reference
 
 - glass development timeline:
   - 1.5k BC, Mesopotamia/Egypt, the earliest blue glass (4k years ago prehistory)
@@ -69,28 +65,42 @@ ref:
   - Baroque art 17th
   - Gothic renaissance 18-20th
 
-#### What is Dean
+#### What is the colored glass/What is color
 
-#### What is Cas
-
+- **each color is a thought** (Cas's mind is made of colors)
 - blue: **color of Cas's real form, Cas transform/born from the blue color**
+- glass color as the memory note, bearer of the memory, used for self remind/catch up
+- **it's a letter and a promise to keep, each blue line is a time when Cas reincarnate and the used up life force and memory are saved on the glass, already happened 13 times since 4k years ago, 300 years=1 line, Dean wait and guard for 4k years**
+- blue is Dean's notes because when he ages he would forget, he uses it to remind himself of Cas's each life
+- it's a curse or just how their life forms are supposed to be, **they shouldn't have been able to sustain this long but they use the glass to preserve them, the initial glass before any blue is added is their combined art work, they know each other from that age and already become really good and close but Cas would age Dean wouldn't**, (reverse of canon, a bit like Aziraphale/Crowley + Amy/Rory 2k y centurion)
+
+#### What is Dean/Cas
+
+- Cas is ice/wind/sky/comet, Dean is earth/rock/wolf/oak tree, both forget their true form, know they're not human but forget what they are
+- one long life, one reincarnated short life creature
+
+- amnesia Cas/Dean
+- Dean from planet of color and light, brighter than Earth, Earth is less colorful, too much grey, especially winter, his planet is more blue, more spring, more happy, homesick Dean, want to go back, doesn't want to give up, struggling but still managing, strong life force as well; troubled Dean, Dean magical creature/alien pretending to be human, suppressing special ability of transformation, good student trying to not use the special ability, struggling in human interaction, staring at window for long hours
 
 #### Cas/Dean development timeline
 
+- both long life creature, **living along the history, protect glass, glass is the big secret, treasure, hidden secret and treasure from prehistory in plain sight, turns out to be a language, a love letter from prehistory**
+
 #### Settings
 
-- everything can transform/humanize
+1. god of blue, religion of blue, pilgrim of blue
+2. **color is thought, glass window is a love letter**
+3. long life amnesia creature, blue is memory note
+4. colored glass *is* Cas
+5. Cas is sky/wind, Dean is earth/oak tree/wolf, everything can transform to human
+6. Cas is Dean's phantom humanization
+7. Cas *is* blue
+8. **Dean guards the colored glass for 4 thousand years**
+9. Dean is waiting for Cas to come back
 
 #### Storyline
 
 (mystery solving? revealing slowly?)
 
 - two-part story-telling, start modern, date back to ancient setting, evolve from ancient to modern, the colored glass is ancient old and still beautiful and complete
-
-
-
-#### Other notes to be sorted
-
-- both long life creature, **living along the history, protect glass, glass is the big secret, treasure, hidden secret and treasure from prehistory, turns out to be a language, a love letter from prehistory, story start with urban legend of the school**, reincarnation, long life and reincarnated short life creature, both creatures, glass color as the memory note, bearer of the memory, amnesia Dean/Cas, use window color to self remind, **it's a letter and a promise to keep, each blue line is a time when Cas reincarnate and the used up life force and memory are saved on the glass, already happened 13 times since 4k years ago, 300 years=1 line, Dean wait and guard for 4k years**, it's a curse or just how their life forms are supposed to be, **they shouldn't have been able to sustain this long but they use the glass to preserve them, the initial glass before any blue is added is their combined art work, they know each other from that age and already become really good and close but Cas would age Dean wouldn't**, (opposite of canon, a bit like Aziraphale/Crowley + Amy/Rory 2k y centurion)
-- Cas is ice/wind/sky/comet, Dean is earth/rock/wolf/oak tree, both forget their true form, know they're not human but forget what they are
-- Dean from planet of color and light, brighter than Earth, Earth is less colorful, too much grey, especially winter, his planet is more blue, more spring, more happy, homesick Dean, want to go back, doesn't want to give up, struggling but still managing, strong life force as well; troubled Dean, Dean magical creature/alien pretending to be human, suppressing special ability of transformation, good student trying to not use the special ability, struggling in human interaction, staring at window for long hours
+- story start as urban legend of the campus
