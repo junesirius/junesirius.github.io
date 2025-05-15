@@ -56,10 +56,14 @@ description: （全是巨刀预警，负能太多，非常压抑和黑暗，不�
 1. 9Rose
 2. 10Rose
 3. 10River
+3. 11River
 4. 12River
 5. 10Master
 6. 12Missy
 7. 11Amy
+7. 11Clara
+7. Clara/Me
+7. Jenny/Vastra
 8. Amy x Rory
 9. 12Clara
 10. 10蓬帕杜夫人（S02E04壁炉女孩）

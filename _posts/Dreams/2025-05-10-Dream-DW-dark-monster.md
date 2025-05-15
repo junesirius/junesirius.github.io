@@ -3,7 +3,7 @@ layout: post
 title: 【梦记】名为黑暗的怪（喜欢，可改编）
 date: 2025-05-10 10:00
 categories: ["梦记"]
-characters: ["Doctor Who", "11th Doctor", "Amy Pond", "Rory Will"]
+characters: ["Doctor Who", "11th Doctor", "Amy Pond", "Rory Williams"]
 tags: ["梦记", "神秘博士", "好故事", "改编", "碎片"]
 pov: 第一人称视角
 origin: 个站

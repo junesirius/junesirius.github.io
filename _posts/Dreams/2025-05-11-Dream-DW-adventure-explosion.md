@@ -3,8 +3,8 @@ layout: post
 title: 【梦记】跟着DW探险解谜（喜欢，碎片）
 date: 2025-05-11 13:58
 categories: ["梦记"]
-characters: ["Doctor Who", "11th Doctor", "Amy Pond", "Rory William"]
-tags: ["梦记", "神秘博士", "普通故事", "解谜", "通关", "爆炸", "碎片", "苏丹"]
+characters: ["Doctor Who", "11th Doctor", "Amy Pond", "Rory Williams"]
+tags: ["梦记", "神秘博士", "普通故事", "解谜", "通关", "爆炸", "碎片", "苏丹", "Ponds"]
 pov: 第一人称视角
 origin: 个站
 ---
