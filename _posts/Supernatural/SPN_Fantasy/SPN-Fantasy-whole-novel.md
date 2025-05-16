@@ -7,6 +7,7 @@ characters: ["Castiel", "Dean Winchester"]
 tags: ["Supernatural", "destiel", "英文"]
 pov: 第三人称
 origin: 2025 SPN Reverse Fantasy Bang
+long_novels: 【Destiel】Life of Blue
 published: false
 ---
 
@@ -131,6 +132,13 @@ keywords:
 
 **a twist revelation**: thought it's Cas doesn't remember, Dean remember, notes are Dean writing to remind Cas; actually it's Dean doesn't remember, Cas remember, notes are Dean writing to remind himself not to forget Cas or else he won't be back
 
+**revelations:**
+
+1. Cas is blue (Act 2 start point)
+2. Window is letter (Act 2 midpoint)
+3. boy is Cas (Act 3 start point)
+4. Dean is forgetting (Act 3 last twist)
+
 
 
 two-part story-telling, start modern, date back to ancient setting, evolve from ancient to modern, the colored glass is ancient old and still beautiful and complete
@@ -145,11 +153,11 @@ question-answer form, asking about each line for story and Dean tells them
 
 ~1400BC Dean dying of old age, Cas still young, bc not really live, share life force, fade back to color on the glass again, promise he'll be back, as long as Dean remembers him and he can create him again; Dean paints down blue, brings the glass and travels the world, paints all different kinds of blue on it
 
-1200BC Egypt, Cas reemerges as life form, reunite and live together for 100y, fades again bc use up the life force too fast (being human exhaust the energy really fast); Dean: "I'll wait for you again", Cas: "I'll wait for you again"
+1200BC Venice (bluest water), Cas reemerges as life form, reunite and live together for 100y, fades again bc use up the life force too fast (being human exhaust the energy really fast); Dean: "I'll wait for you again", Cas: "I'll wait for you again"
 
 fastforward:
 
-- 1AD: Roman, glass window; Venice (bluest water)
+- 1AD: Roman, glass window; ~~Venice (bluest water)~~ ← move earlier
 - 300AD, 600AD, 900AD: Medieval (bluest belief -- the crusade)
 - 1200AD: Gothic (1242-1428 Sainte Chapelle, France) (bluest music -- music at Cathedral of Notre-Dame)
 - 1500AD: Renaissance (1473-1481 Sistine Chapel, Vatican City, Michelangelo) (bluest poetry -- Petrarch's Sonnets to Laura)
@@ -159,3 +167,59 @@ fastforward:
 ### Summary
 
 ## Main
+
+### Chap 1
+
+> story start as urban legend of the campus
+>
+> 1500BC, Dean born in Mesopotamia, working as a metalsmith, love color, invent colored glass, invent the blue, put enough emotion in, Cas is created from the blue (he *is* blue, Dean name him angel of blue)
+
+#### draft notes
+
+two-part story-telling, start modern, date back to ancient setting, evolve from ancient to modern, the colored glass is ancient old and still beautiful and complete
+
+story start as urban legend of the campus, 3rd person view (which turns out to be Cas's newest incarnation, alias "Cael", lead to the twist revelation of who's forgetting)
+
+story-telling tone, Dean: "There are so many stories, half of them are true, the other half, just haven't happened yet."
+
+question-answer form, asking about each line for story and Dean tells them
+
+1500BC, Dean born in Mesopotamia, working as a metalsmith, love color, invent colored glass, invent the blue, put enough emotion in, Cas is created from the blue (he *is* blue, Dean name him angel of blue)
+
+**Revelation:** Cas is blue
+
+### Chap 2
+
+> ~1400BC Dean dying of old age, Cas still young, bc not really live, share life force, fade back to color on the glass again, promise he'll be back, as long as Dean remembers him and he can create him again; Dean paints down blue, brings the glass and travels the world, paints all different kinds of blue on it
+>
+> 1200BC Venice (bluest water), Cas reemerges as life form, reunite and live together for 100y, fades again bc use up the life force too fast (being human exhaust the energy really fast); Dean: "I'll wait for you again", Cas: "I'll wait for you again"
+
+#### draft notes
+
+**Revelation:** Window is love letter/note
+
+### Chap 3
+
+> fast-forward:
+>
+> - 1AD: Roman, glass window; ~~Venice (bluest water)~~ ← move earlier
+> - 300AD, 600AD, 900AD: Medieval (bluest belief -- the crusade)
+> - 1200AD: Gothic (1242-1428 Sainte Chapelle, France) (bluest music -- music at Cathedral of Notre-Dame)
+> - 1500AD: Renaissance (1473-1481 Sistine Chapel, Vatican City, Michelangelo) (bluest poetry -- Petrarch's Sonnets to Laura)
+> - 1800AD: Gothic Revival (1882-wip Sagrada Familia, Spain) (bluest story -- Wuthering Heights)
+
+#### draft notes
+
+### Chap 4
+
+> current time (bluest winter)
+>
+> why now, who is the boy/student, who is the one forgetting
+
+#### draft notes
+
+2000AD: now (bluest winter)
+
+why now
+
+**Revelation:** boy is Cas, Dean is forgetting
