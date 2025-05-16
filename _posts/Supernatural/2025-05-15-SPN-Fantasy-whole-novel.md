@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】Fantasy
+title: 【Destiel】Life of Blue
 date: 2025-05-15
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
