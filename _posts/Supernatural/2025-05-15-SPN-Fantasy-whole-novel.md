@@ -73,11 +73,12 @@ keywords:
 - **it's a letter and a promise to keep, each blue line is a time when Cas reincarnate and the used up life force and memory are saved on the glass, already happened 13 times since 4k years ago, 300 years=1 line, Dean wait and guard for 4k years**
 - blue is Dean's notes because when he ages he would forget, he uses it to remind himself of Cas's each life
 - it's a curse or just how their life forms are supposed to be, **they shouldn't have been able to sustain this long but they use the glass to preserve them, the initial glass before any blue is added is their combined art work, they know each other from that age and already become really good and close but Cas would age Dean wouldn't**, (reverse of canon, a bit like Aziraphale/Crowley + Amy/Rory 2k y centurion)
+- The Glass is: **a secret, treasure, love letter, promise, memo, memory, thought, missing, yearning**
 
 #### What is Dean/Cas
 
 - Cas is ice/wind/sky/comet, Dean is earth/rock/wolf/oak tree, both forget their true form, know they're not human but forget what they are
-- one long life, one reincarnated short life creature
+- one long life, one reincarnated short life creature: Dean is long life but will forget, Cas lives a human life time (100 year of living every 300 years)
 
 - amnesia Cas/Dean
 - Dean from planet of color and light, brighter than Earth, Earth is less colorful, too much grey, especially winter, his planet is more blue, more spring, more happy, homesick Dean, want to go back, doesn't want to give up, struggling but still managing, strong life force as well; troubled Dean, Dean magical creature/alien pretending to be human, suppressing special ability of transformation, good student trying to not use the special ability, struggling in human interaction, staring at window for long hours
@@ -85,22 +86,76 @@ keywords:
 #### Cas/Dean development timeline
 
 - both long life creature, **living along the history, protect glass, glass is the big secret, treasure, hidden secret and treasure from prehistory in plain sight, turns out to be a language, a love letter from prehistory**
+- every 300 y (Sandman/Good Omens):
+  - 1500BC: beginning, Mesopotamia/Egypt, the earliest blue glass (bluest sky)
+  - ~~1200BC, 900BC, 600BC, 300BC~~
+  - 1AD: Roman, glass window; Venice (bluest water)
+  - 300AD, 600AD, 900AD: Medieval (bluest belief -- the crusade)
+  - 1200AD: Gothic (1242-1428 Sainte Chapelle, France) (bluest music -- music at Cathedral of Notre-Dame)
+  - 1500AD: Renaissance (1473-1481 Sistine Chapel, Vatican City, Michelangelo) (bluest poetry -- Petrarch's Sonnets to Laura)
+  - 1800AD: Gothic Revival (1882-wip Sagrada Familia, Spain) (bluest story -- Wuthering Heights)
+  - 2100AD: now (bluest winter)
+- Dean: amnesia immortal human; Cas: angel of blue (personalization of blue), exist 100y every 300y, born when Dean create blue on the glass, Dean's immortality is blessed by Cas sharing life, Cas's creation is from Dean's imagination and emotion
+- Cas doesn't remember him but can get the story from the blue and love him every time
+- **a twist revelation**: thought it's Cas doesn't remember, Dean remember, notes are Dean writing to remind Cas; actually it's Dean doesn't remember, Cas remember, notes are Dean writing to remind himself not to forget Cas or else he won't be back
+- 1500BC, Dean born in Mesopotamia, working as a metalsmith, love color, invent colored glass, invent the blue, put enough emotion in, Cas is created from the blue (he *is* blue, Dean name him angel of blue)
+- ~1400BC Dean dying of old age, Cas still young, bc not really live, share life force, fade back to color on the glass again, promise he'll be back, as long as Dean remembers him and he can create him again; Dean paints down blue, brings the glass and travels the world, paints all different kinds of blue on it
+- 1200BC Egypt, Cas reemerges as life form, reunite and live together for 100y, fades again bc use up the life force too fast (being human exhaust the energy really fast); Dean: "I'll wait for you again", Cas: "I'll wait for you again"
+- fast forward: 1AD Roman, Medieval, Gothic, Renaissance, now
+- will be happily ever after
 
 #### Settings
 
-1. god of blue, religion of blue, pilgrim of blue
+1. ~~god of blue, religion of blue, pilgrim of blue~~
 2. **color is thought, glass window is a love letter**
-3. long life amnesia creature, blue is memory note
-4. colored glass *is* Cas
-5. Cas is sky/wind, Dean is earth/oak tree/wolf, everything can transform to human
-6. Cas is Dean's phantom humanization
-7. Cas *is* blue
-8. **Dean guards the colored glass for 4 thousand years**
-9. Dean is waiting for Cas to come back
+3. long life amnesia creature, **blue is memory note**, Dean's memo
+4. each blue is a time of Cas's reincarnation
+5. ~~colored glass *is* Cas~~
+6. ~~Cas is sky/wind, Dean is earth/oak tree/wolf, everything can transform to human~~
+7. Cas is Dean's phantom humanization
+8. **Cas *is* blue**
+9. **Dean guards the colored glass for four thousand years**, waiting for Cas to come back
+10. Cas share his life/magic with Dean, Dean gives Cas life by his though/emotion, Cas give it back
 
-#### Storyline
+## Draft
 
-(mystery solving? revealing slowly?)
+### Outline
 
-- two-part story-telling, start modern, date back to ancient setting, evolve from ancient to modern, the colored glass is ancient old and still beautiful and complete
-- story start as urban legend of the campus
+(mystery solving, keep asking questions, reveal slowly)
+
+**The question:** "What is he looking, what is the glass"
+
+**beginning:** a secret, a treasure
+
+**answer:** love letter, promise, memo, memory, thought (missing, yearning)
+
+**a twist revelation**: thought it's Cas doesn't remember, Dean remember, notes are Dean writing to remind Cas; actually it's Dean doesn't remember, Cas remember, notes are Dean writing to remind himself not to forget Cas or else he won't be back
+
+
+
+two-part story-telling, start modern, date back to ancient setting, evolve from ancient to modern, the colored glass is ancient old and still beautiful and complete
+
+story start as urban legend of the campus, 3rd person view (which turns out to be Cas's newest incarnation, alias "Cael", lead to the twist revelation of who's forgetting)
+
+story-telling tone, Dean: "There are so many stories, half of them are true, the other half, just haven't happened yet."
+
+question-answer form, asking about each line for story and Dean tells them
+
+1500BC, Dean born in Mesopotamia, working as a metalsmith, love color, invent colored glass, invent the blue, put enough emotion in, Cas is created from the blue (he *is* blue, Dean name him angel of blue)
+
+~1400BC Dean dying of old age, Cas still young, bc not really live, share life force, fade back to color on the glass again, promise he'll be back, as long as Dean remembers him and he can create him again; Dean paints down blue, brings the glass and travels the world, paints all different kinds of blue on it
+
+1200BC Egypt, Cas reemerges as life form, reunite and live together for 100y, fades again bc use up the life force too fast (being human exhaust the energy really fast); Dean: "I'll wait for you again", Cas: "I'll wait for you again"
+
+fastforward:
+
+- 1AD: Roman, glass window; Venice (bluest water)
+- 300AD, 600AD, 900AD: Medieval (bluest belief -- the crusade)
+- 1200AD: Gothic (1242-1428 Sainte Chapelle, France) (bluest music -- music at Cathedral of Notre-Dame)
+- 1500AD: Renaissance (1473-1481 Sistine Chapel, Vatican City, Michelangelo) (bluest poetry -- Petrarch's Sonnets to Laura)
+- 1800AD: Gothic Revival (1882-wip Sagrada Familia, Spain) (bluest story -- Wuthering Heights)
+- 2100AD: now (bluest winter)
+
+### Summary
+
+## Main
