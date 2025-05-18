@@ -4,7 +4,7 @@ title: 【Destiel】The Angels Take Manhattan
 date: 2025-04-08
 categories: ["Crossover"]
 characters: ["Castiel", "Dean Winchester", "Doctor Who", "11th Doctor", "River Song", "Amy Pond", "Rory Williams"]
-tags: ["Supernatural", "神秘博士", "crossover", "destiel", "11River", "Ponds", "刀河", "英文"]
+tags: ["Supernatural", "神秘博士", "crossover", "destiel", "11River", "Ponds", "刀河", "英文", "纽约"]
 pov: 第三人称
 origin: 2025 CasDean Crossover Bang
 published: false
@@ -591,7 +591,7 @@ Cas drags him off the street, leading them onto a smaller road quiet enough to t
 
 "What is it, Dean?" Cas hurries in his most worried voice.
 
-Dean reads out the line he's staring at: "A handsome young man walks into the room, flashing a clearly fake FBI badge before our eyes, saying with a persuasive, charming smile, 'I'm Agent Plant. This is my partner, Agent Page.' The man next to him in trench coat has the bluest eyes I've ever seen. He pulls out another badge from his suit, displaying it upside down. The first man sighs and corrects it for him, and the second man murmurs some words that are actually loud enough for us to hear: 'Is it really necessary, Dean?' And Dean answers with another sigh: 'No, because I read from the book that they already knew it's fake.'"
+Dean reads out the lines he's staring at: "A handsome young man walks into the room, flashing a clearly fake FBI badge before our eyes, saying with a persuasive, charming smile, 'I'm Agent Plant. This is my partner, Agent Page.' The man next to him in trench coat has the bluest eyes I've ever seen. He pulls out another badge from his suit, displaying it upside down. The first man sighs and corrects it for him, and the second man murmurs some words that are actually loud enough for us to hear: 'Is it really necessary, Dean?' And Dean answers with another sigh: 'No, because I read from the book that they already knew it's fake.'"
 
 ## Chap 3 Taking The Case
 
