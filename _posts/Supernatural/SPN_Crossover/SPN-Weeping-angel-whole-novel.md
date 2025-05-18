@@ -28,15 +28,47 @@ SPN S8, destiel fresh out of Purgatory
 
 Time: Apr 3, 1938
 
-### Location
+### Locations
 
-**Winter Quay** (apartment block near Battery Park)
+#### **Winter Quay**
+
+(apartment block near Battery Park, south end, very close to Statue of Liberty by the shore)
 
 exterior (in script): when looking up at the building from the outside: People are sitting at the windows -- not all of them, but most of them. Just sitting there, quietly looking out. A sense of such despair -- like they're trapped. The various faces -- hollow-eyed, lost, so sad, all of them quite aged. Somehow, just by looking, you can tell they will never leave this place. An old lady staring out. A small girl in a blue silk dress playing peek-a-boo hiding behind her hands.)
 
 apartment interior (in script): A bleak, dusty, characterless apartment. Someone has lived here a very long time. Alone probably. (many items dusty and unused, the old self's breath, ancient and rasping)
 
 (in film): in River's book when Sam Garner walks in : 22 floors, number of rooms in each floor: 0-1st (16), 2-5 (14), 6-14 (12), 15-16 (10), 17-18 (8), 19-20 (6), 21-22 (4), total to 252 rooms; in reality when Rory walks in: 7 floors, number of rooms in each floor: 0 (34), 1 (42), 2 (35), 3 (34), 4 (40), 5 (38), 6 (40), 7 (39), total to 302 rooms (but Rory's room is Floor 8)
+
+#### Graveyard location
+
+New York Marble Cemetery
+
+E 3rd St. & 2nd Ave.
+
+#### Rory's cafe location
+
+E 60th St. & 5th Ave.
+
+#### Rory's disappearance location
+
+Bethesda Fountain/Terrace, Central Park
+
+around 72th St.
+
+#### Grayle's mansion location
+
+rich collector mansion location in Manhattan
+
+set to: 973 Fifth Avenue, near E 79th St. & 5th Ave.
+
+close to Central Park & MET
+
+#### Dean/Cas initial brunch location
+
+Shake Shack upper west side
+
+W 77th St. & Columbus Ave.
 
 ### Characters
 
@@ -153,6 +185,8 @@ Doctor: "Amy!!!" Too late. Now, on Rory and Amy falling, in terrible, tragic slo
 
 Melody Malone
 
+A private detective in old town New York
+
 New York Growled at my window. A friend once told this was the town of a million stories.
 
 Some nights I felt like they were all happening to me. This was one of those nights.
@@ -261,6 +295,8 @@ On the roof of a very tall building, Cas is a weeping angel sculpture, his wings
 
 This story is heavily inspired by and adapted from Doctor Who's S07E05 episode with the same title, many of the scenes are heavily rewritten from the show because the original storytelling is so astonishing as is. Anything I'm not doing right is probably my bad, and most of the brilliant settings and story ideas should credit to the original show creators and production teams.
 
+The music that accompanies the creation of this story is Sting's 1987 song "English man in New York."
+
 ## Editing notes
 
 # Main
@@ -277,7 +313,7 @@ This story is heavily inspired by and adapted from Doctor Who's S07E05 episode w
 
 Rain pours down the city, soaking the buildings and the statues in gloomy coldness. The night is deep, but the city is still awake. Lights glittering in every window and lining the streets. A city that never sleeps.
 
-Thunders roar from the distance, water streaming down the face of two statues standing across the street from a grand mansion. The statue of a woman holding the hand of a little boy. Light is extraordinarily bright in the building, lighting up the stretch of the road in front of it like day time, shining on the faces of the statues. A man stands behind the window, gazing at the night street, biting his cigar.
+Thunders roar from the distance, water streaming down the face of two statues standing across the street from a grand mansion. The statue of a woman holding the hand of a little boy. Light is extraordinarily bright in the building, seeping out from the windows to light up the stretches of the road in front of it like day time, shining on the faces of the statues. A man stands behind the window, gazing at the night street, biting his cigar.
 
 The Detective hurries toward the glamorous building. The black umbrella barely has a chance against the storm. A carriage passes by on the street, water puddles splashing under the horse's hoofs.
 
@@ -371,11 +407,11 @@ The Detective can't help himself crossing into the room.
 
 The old man lying in the bed must be in his nineties, his breath ancient and withered, like the last leaf on a winter tree.
 
-"Who are you?" The Detective approaches the bed, curiosity and horror taking over the move.
+"Who are you?" The Detective approaches the bed, curiosity and horror taking over the action.
 
-The old man's eyes flicker open, staring at the newcomer with dead fish's eyes, his voice croaked without being used for ages: "Run! Run! They're coming for you! They'll send you back!"
+The old man's eyes flicker open, staring at the his bedside visitor with dead fish's eyes, his voice croaked for lack of use: "Run! Run! They're coming for you! They'll send you back!"
 
-"Who's coming? Back where?" The Detective is alarmed. The light in the room and in the corridor flickers harder. There is long stretch of dark moments between lights. A loud stomping sound pounds on the ground from distance.
+"Who's coming? Back where?" The Detective is alarmed. The light in the room and in the corridor flickers harder. There is long stretch of dark moments between lights. A loud stomping sound pounds on the ground from far distance.
 
 "In time! Back in time!" the old man struggles hard, rising his upper body to clutch on The Detective's arm, gasping urgently, "I'm you! *I'm you!!*"
 
@@ -395,7 +431,7 @@ The Detective desperately turns around, looking for a way out. Only then does he
 
 He throws himself through it. The corridor light dies at the same moment.
 
-The emergency light wakes in the stairs, leaving weak green shadows. The Detective lunges for the downward stairs, but shadows of two statues are already there, frozen as he stares at them. He glances upward then blinks down, those two shadows are already around the corner. The arms of the statues reaching out in an attacking pose.
+The emergency light wakes in the stairwell, leaving weak green patches of light and shadows. The Detective lunges for the downward stairs, but shadows of two statues are already there, frozen as he stares at them. He glances upward then blinks down, those two shadows are already around the corner. The arms of the statues reaching out in an attacking pose.
 
 The Detective races up the stairs without looking back.
 
@@ -403,7 +439,7 @@ The Detective races up the stairs without looking back.
 
 He bounds up the stairs for his dear life, slamming the stairwell door the moment he reaches the rooftop, blocking it with some scattered iron bars he finds on the floor.
 
-The rooftop is high above the ground, the Chrysler Building standing tall several blocks away. This sleepless city has flowing lights in the skyline and on the street, but at this moment, to his horror, the whole city's light blinks. And in the brief moment of each darkness, the loud crashing sound shakes the earth. The sound of something giant stomping on the ground, moving closer step by step.
+The rooftop is high above the ground, the light from top of Chrysler Building looks only a short distance away. This sleepless city has flowing lights in the skyline and on the street, but at this moment, to his horror, the whole city's light blinks. And in each brief moment of darkness, the loud crashing sound shakes the earth. The sound of something giant stomping on the ground, moving closer step by step.
 
 WHOMP!
 
@@ -415,13 +451,13 @@ The building shakes.
 
 WHOMP!
 
-The sound comes from behind. The Detective turns around slowly.
+The sound comes from directly behind. The Detective turns around slowly.
 
-The giant shadow of a massive statue falls on him. Its face over the far edge of the rooftop, its mouth wide open.
+The giant shadow of a massive statue falls on him. Its face over the far edge of the rooftop, its mouth wide open. A torch in her right hand.
 
 The Detective gasps in horror and total disbelief: "You gotta be kiddin' me!"
 
-### <br>
+<br>
 
 ## Chap 2 Missing In New York
 
@@ -433,7 +469,117 @@ The Detective gasps in horror and total disbelief: "You gotta be kiddin' me!"
 >
 > find River's book in their motel, Cas read, find their own name/alias/mention in the story, goes to the place book says they will be
 
-### draft notes
+Birds chatter noisily around the tables, chirping cheerfully while fighting for the food crumbs on the ground. Apparently the chilliness of early autumn in the city is not enough to keep them quiet or away, neither is the man sitting by the table, protecting his French fries from these thieves.
+
+Dean shoos at the birds, waving a hand aggressively, trying to keep his meal as safe as he can.
+
+"Maybe if you feed them some, they'd just leave," Cas says from the other side of the table, not looking up from the book he's reading.
+
+"No, then they'd just all come asking for a piece and I don't have anything left to eat!" Dean takes a large bite on the French fries in his hand, chewing as if for revenge. "Look at them, that must be how they end up all gleamy and fleshy, I don't think I've ever seen pigeons in any other place rounder than them."
+
+Cas looks up to observe the pigeons at his words, agreeing with a quiet hum. The pigeons are indeed looking very healthy and well-fed. He looks back at his book, turning a page.
+
+"Man, I'm telling you, New York, even the pigeons are richer." Dean grins.
+
+"I'm not sure that's true," Cas answers with a serious face. "There are poor people in this city."
+
+Dean barks a laugh. "It's good to have you back, Cas. Speaking of, how do you feel? You know, after Purgatory puke me out, I'm still getting use to my sea legs. It's only been, what, a week?"
+
+Cas keeps his eyes on the book, his shoulders stiffen a little, voice quieter. "I feel fine. And if you don't mind, I'd rather *not* think about the angels that have to siege the Purgatory to save me -- against my will -- and I have to, *again*, fight them off to run away. I already tried my best to not harm any more of them, but I think some of them are still hurt because of me, some are even my friends. If it's not for me, Samandriel and Hannah wouldn't even be in the Purgatory, I didn't even have time to check if they survived the incursion. And there are more that didn't --"
+
+"That's not your fault, you know that, right, Cas?" Dean lowers his voice too, glancing around, more self-aware now that they are in the middle of a sea of ordinary human. "It's a good thing you get to run away before that Naomi bitch can do anything to you, whatever she has in mind. Let's keep it that way."
+
+Cas gives a small nods in agreement, his shoulders slack.
+
+"Now let me just finish my food and we'll get back to work." Dean swallows down the food, and takes another exaggeratedly huge bite on the burger, sighing with satisfaction.
+
+Cas glances at him with a small smile.
+
+"Miss the food and everything." Dean talks with food in his mouth, gesturing their surroundings, "Not like Purgatory has any Michelin stars or anything."
+
+Sunlight shines on the shade above their table, bright color glittering through the leaves. The diner's outdoor seating is already over busy and crowded even though it's way earlier than usual lunch hour. The street is jammed with vehicles of all kinds, cars and buses and pedestrians moving in all directions. It seems this city is just soaked with life at every possible space, at any time.
+
+"Maybe we can come here more often if you like it so much," Cas offers. "Not only when there are cases."
+
+"Nah, big towns aren't really our thing," Dean dismisses, stuffing down the rest of the burger, licking his fingers for the last bit taste of fries and salt. "There is a reason we don't go to big name places like Los Angeles or New York. The loose ends can bite."
+
+Cas nods quietly. "I understand."
+
+Dean wipes his mouth as he finishes, and throws the used paper napkin on the plate, "Now, where are we?"
+
+Cas blinks, "We are in the Josie's Burger near the Central Park."
+
+Dean tries to muffle the laugh and sigh that are fighting in his throat. "Yes, we are. I mean where are we on the case?"
+
+"Same as last night," Cas pulls out a piece of newspaper folded between the book pages, spreading it on the least oily corner of the table. The missing people notice takes half the page, and the page after that shows a photo of some local cemetery. The title reads "Death Earlier Than Birth."
+
+"That sure is an eye-catching title, I'll give you that," Dean nods at the flourishing inky letters, turning the paper one hundred and eighty degrees so he doesn't need to read upside down, "How many missing people so far?"
+
+"Ten until yesterday, we don't know if there are more in the past twenty four hours." Cas answers.
+
+"The earliest missing is a week ago." Dean checks the handwritten notes on the margin. They have managed to do some digging, but not enough to connect the dots yet.
+
+"About the same time when I came back." Cas says what's in both their minds.
+
+"You thinking what I'm thinking?" Dean says. Their eyes meet.
+
+"That angels have something to do with that?" Cas frowns.
+
+"Possible, cemetery and death stuff, could be your department. I can't see any connections between the victims. You got anything about the tombs and statues?"
+
+"The dates on some of the tombs are clearly wrong, they said. They found three new tombs with the missing people's names on it, but the dates of death are earlier than their birthdays, therefore 'Death earlier than birth'."
+
+"People with the same names?" Dean suggests.
+
+"Three pairs of people with same names? Too much coincidences, don't you think?" Cas narrows his eyes.
+
+"New York is a big city." Dean shrugs, though he doesn't buy the theory either. Since when do they have the luck that things are *just coincidence* anyway.
+
+"So what should we do?" Cas asks, his fingers absently fidgeting the corner of the book. "Shall we call Sam?"
+
+"Nah, we can handle without him." Dean's face is unreadable for a moment. "He got what he wanted, an apple-pie life with a pretty woman, don't think I can do it again to rob him from that kind of life."
+
+"Dean, I don't think --"
+
+"Cas." Dean doesn't let him finish, giving him a stern look that means "drop the topic," Cas falls silent. Dean sighs after a beat, "We'll call him later then, alright? After finishing this one, we can do the catch-up or whatever."
+
+"Alright," Cas murmurs, grabbing the book and ready to stand up from the diner seat. "Where are we going next?"
+
+"To the cemetery. Want to check out those tombs first. Maybe we can find something the police missed. Only a few blocks away, we can cross the Central Park. Come on." Dean stands up, gesturing for Cas to follow.
+
+They walk out of the diner, merging into the ocean of pedestrians on the streets.
+
+Dean leans closer to avoid them getting separated by the crowd.
+
+Cas tucks the book into the trench coat pocket.
+
+Dean regards his move closely suddenly, looking him up and down, then landing his gaze on the book, as if he only starts to notice it now. "Where did you get that book?"
+
+"What, this one?" Cas follows his gaze, flipping the book over to show him the cover. The title reads "Melody Malone," with a drawing of a sexy lady detective in a sheathy leather jacket, her face hidden in the shadow of a large detective hat, only showing red lips kissing a smoking gun.
+
+"I like the cover," Dean comments with a small smile, taking the book and skimming random pages, "looks like some old-time detective novel."
+
+"Yes, it is a rather intriguing story about a private detective in old town New York." Cas confirms. "I found it in the motel drawer."
+
+Dean turns to the back page, reading out loud: "New York growled at my window. A friend once told this was the town of a million stories. Some nights I felt like they were all happening to me. This was one of those nights. But what the hell -- my stocking seams were straight, my lipstick was combat ready, and I was packing cleavage that could fell an ox at twenty feet."
+
+He looks up from the blurb, amused, "Whoever wrote this, I like her already. 'Packing cleavage that could fell an ox at twenty feet!'"
+
+Some passers-by glance at them with curious eyes, probably overhearing the last bit.
+
+Cas lowers his voice, "Why do you read it out?"
+
+"I don't know, why do you read it at all?" Dean thumbs the pages casually, eyes gleaming with mischief.
+
+"I thought it's a tour guide or something, maybe it can help us know more about New York or the case." Cas murmurs.
+
+But Dean has stopped listening. He slowly straightens his back, grabbing the opened page with too much force on the knuckles. His eyes focus dead on the page. His steps frozen.
+
+Cas drags him off the street, leading them onto a smaller road quiet enough to talk.
+
+"What is it, Dean?" Cas hurries in his most worried voice.
+
+Dean reads out the line he's staring at: "A handsome young man walks into the room, flashing a clearly fake FBI badge before our eyes, saying with a persuasive, charming smile, 'I'm Agent Plant. This is my partner, Agent Page.' The man next to him in trench coat has the bluest eyes I've ever seen. He pulls out another badge from his suit, displaying it upside down. The first man sighs and corrects it for him, and the second man murmurs some words that are actually loud enough for us to hear: 'Is it really necessary, Dean?' And Dean answers with another sigh: 'No, because I read from the book that they already knew it's fake.'"
 
 ## Chap 3 Taking The Case
 
@@ -471,6 +617,8 @@ Doctor: "Fascinating race, the weeping angels. The only psychopath in the univer
 
 Dean wrt Amy/Rory: "So you two are married." Cas wrt Doctor/River: "You two are also married." Amy wrt destiel: "And you are --?" Dean: "No, no, we, uh, we are best friends." Amy: "Sure."
 
+Dean wrt Doctor/River: "I guess a thousand year age difference isn't a problem then." "You got anything to say about that?" "What? No, no, of course not." (Dean unintentionally glance at Cas, finding him look at him too) "We were married when I was half-way killing him and he was trying to save the world. It's complicated." Dean grins: "Isn't it always?" (unintentionally meet Cas's eyes again)
+
 ## Chap 5 Night In The Statue Park
 
 > (Dean POV)(Act 2 realization)
@@ -495,7 +643,7 @@ why infected/weeping angel sends people back/touch them: (Cas's theory) maybe no
 
 ### draft notes
 
-Doctor/River: "Why did you lie to me?" "When one's in love with an ageless God who insists on the face of a 12-year-old, one does one's best to hide the damage" "It must hurt. Come here." "Yes. The wrist is pretty bad, too" "That was a stupid waste of regeneration energy. Nothing is gained by you being a sentimental idiot."
+Doctor/River: "Why did you lie to me?" "When one's in love with an ageless God who insists on the face of a 12-year-old, one does one's best to hide the damage" "It must hurt. Come here." "Yes. The wrist is pretty bad, too" "That was a stupid waste of regeneration energy. Nothing is gained by you being a sentimental idiot." (Doctor: "Not like I need it anymore" "No" "Yes. We both know I only get twelve chances, this is the last one, so it will be.")
 
 River/Amy: "okay, why did you lie?" "Never let him see the damage. And never, ever, let him see you age. He doesn't like endings."
 
@@ -559,7 +707,7 @@ Dean's strongest reason to sacrifice instead of Amy/Rory: You have each other, I
 >
 > Cas back normal, disoriented, actually weeping, bc overjoy Dean's alive again but hate to see him die for him again; dean overjoy Cas's back
 >
-> Doctor/River bicker (book), Amy/Rory resign (farewell), Dean/Cas confession, HE
+> Doctor/River bicker (book→deliver to Dean/Cas's motel room), Amy/Rory resign (farewell→fulfill last chapter), Dean/Cas confession, HE
 
 ### draft notes
 
