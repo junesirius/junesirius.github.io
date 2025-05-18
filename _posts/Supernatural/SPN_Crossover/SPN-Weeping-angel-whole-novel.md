@@ -70,6 +70,16 @@ Shake Shack upper west side
 
 W 77th St. & Columbus Ave.
 
+#### Dean/Cas hotel location
+
+Broadway Hotel
+
+Broadway & W 31st St.
+
+across street to Empire State Building
+
+cute comments about how come the cheapest hotel sounds like 5-star penthouse; you can't live in anywhere too far away from any landscape in Manhattan
+
 ### Characters
 
 - The Doctor:
@@ -257,7 +267,9 @@ Dean: "Let me get this straight. You save the universe but only save the UK part
 
 Dean distrust Doctor at first: "What? I'm supposed to just trust him like that? He's an alien with two hearts!" Cas: "I'm a celestial being with too many eyes and no body." Dean choked: "Which side are you?"
 
-why angels go to Purgatory to save Cas: canon way, Naomi ordered, think Cas useful, want to brainwash him; why didn't brainwash: Cas fights and escapes, run away before they can find him, so best not to use his mojo/fly so he won't be found by the angels → but end up still se his power to save those people he cared
+why angels go to Purgatory to save Cas: canon way, Naomi ordered, think Cas useful, want to brainwash him; why didn't brainwash: Cas fights and escapes, run away before they can find him, so best not to use his mojo/fly so he won't be found by the angels → but end up still use his power to save those people he cared
+
+cute comments about how come the cheapest hotel sounds like 5-star penthouse; you can't live in anywhere too far away from any landscape in Manhattan; comments about American & English & Scottish accent
 
 ### Plot (early draft)
 
@@ -489,7 +501,7 @@ Cas keeps his eyes on the book, his shoulders stiffen a little, voice quieter. "
 
 "That's not your fault, you know that, right, Cas?" Dean lowers his voice too, glancing around, more self-aware now that they are in the middle of a sea of ordinary human. "It's a good thing you get to run away before that Naomi bitch can do anything to you, whatever she has in mind. Let's keep it that way."
 
-Cas gives a small nods in agreement, his shoulders slack.
+Cas gives a small nod in agreement, his shoulders slack.
 
 "Now let me just finish my food and we'll get back to work." Dean swallows down the food, and takes another exaggeratedly huge bite on the burger, sighing with satisfaction.
 
@@ -545,7 +557,7 @@ Dean tries to muffle the laugh and sigh that are fighting in his throat. "Yes, w
 
 "Alright," Cas murmurs, grabbing the book and ready to stand up from the diner seat. "Where are we going next?"
 
-"To the cemetery. Want to check out those tombs first. Maybe we can find something the police missed. Only a few blocks away, we can cross the Central Park. Come on." Dean stands up, gesturing for Cas to follow.
+"To the cemetery -- want to check out those tombs first. Maybe we can find something the police missed. If we have time later, ask around the victim's family -- standard questions." Dean stands up, gesturing for Cas to follow. "Only a few blocks away, we can cross the Central Park. Come on."
 
 They walk out of the diner, merging into the ocean of pedestrians on the streets.
 
@@ -585,17 +597,47 @@ Dean reads out the line he's staring at: "A handsome young man walks into the ro
 
 > (Dean POV)(Act 1 inciting incident)
 >
-> Dean&Cas first notice Rory zapped away, run into Doctor/Amy (self-intros, Doctor/Cas discuss time flux), Doctor has River's book (mentioned Dean/Cas sacrifice+Amy/Rory farewell (keep it vague), River's broken wrist, gives specific time location)
+> Dean&Cas first notice Rory zapped away, run into Doctor/Amy (self-intros, Doctor/Cas discuss time flux)
+>
+> Dean has River's book (mentioned Dean/Cas sacrifice+Amy/Rory farewell (keep it vague), River's broken wrist, gives specific time location)
 >
 > Try travel by Tardis (inside tour) but fail, Cas fly 4 of them to 1938, too many weeping angels there, everyone in danger, Cas power limited because of all the angel/temporal energy
 
-### draft notes
+They stare at each other, eyes wide with disbelief and -- if Dean's honest with himself -- a little bit of horror.
 
-why angels go to Purgatory to save Cas: canon way, Naomi ordered, think Cas useful, want to brainwash him; why didn't brainwash: Cas fights and escapes, run away before they can find him, so best not to use his mojo/fly so he won't be found by the angels → but end up still se his power to save those people he cared
+"How's that possible?" Dean gasps and rereads the paragraph.
+
+He reaches inside his suit pocket for the badge, which he already knew without really needing to double-check would show "Agent Plant," as well as Cas's would be "Agent Page."
+
+"How can we possibly appear in a book that you found in a random motel drawer, that's probably been there forever?" Dean stares at Cas unbelievably, shaking his head. His fingers turn the book to the next page, just about to read what's next, when Cas suddenly grabs the book from him, slamming the pages shut.
+
+"No, Dean! We can't read anymore." Cas clutches the book's spine. "I think -- I might be wrong -- but I think time travel is involved here. The book might explains the past that is going to be our future. We can't look early."
+
+"But maybe it can help us save those missing people, solve the mystery?" Dean raises his eyebrows, "It might have all the answers we are looking for."
+
+"And what if we read and find you're dead?" Cas's voice turns harsh.
+
+Dean swallows, but he doesn't back down, "Then we change it. We change the time and fate and everything all the time. Remember Titanic?"
+
+Cas snorts a self-mockery laugh, "Exactly, see how's that turn out."
+
+"But you fixed it." Dean pats on his shoulder encouragingly, "I'm sure we can figure something out too this time even if the worst comes."
+
+Cas lowers his head, "I just don't want to make any more mistakes. Can we at least take it slowly? Maybe only read when we absolutely have to."
+
+Dean thinks about that, "Alright, for now. Let's stick to the original plan then."
+
+They emerge back to the busy street, heading to the Central Park.
 
 <br>
 
-can't land the Tardis in 1938 because too much time distortion there, like trying to land a plane in a blizzard, even River couldn't do it. River gets there by Vortex Manipulator, less bulky than a Tardis, a motorbike through traffic (the whole city is time locked, but Cas can fly there)
+
+
+### draft notes
+
+why it's best for Cas not to use his mojo/fly: so he won't be found by the angels → but end up still use his power to save those people he cared
+
+can't land the Tardis in 1938 because too much time distortion there, like trying to land a plane in a blizzard, even River couldn't do it. River gets there by Vortex Manipulator, less bulky than a Tardis, a motorbike through traffic (the whole city is time locked, but Cas can fly there, like running man in the traffic)
 
 Dean: "Let me get this straight. You save the universe but only save the UK part, fly across galaxy is close enough but USA is too far away? This isn't your jurisdiction or something? Pal, not I'm saying, you did a terrible job in protecting the earth, in case you didn't notice, it at least trashed twice if we didn't ..." Doctor: "All due respect, who's behind that? Also, USA almost trashed twice doesn't mean..." River: "Don't mind him, London gets trashed every Christmas, it's a Doctor and Monster thing." Dean/Cas: "You can say that again."
 
