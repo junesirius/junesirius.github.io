@@ -1,0 +1,151 @@
+---
+layout: post
+title: 【Destiel】The Angels Take Manhattan（Chap.4）The Skinny Guy（1）
+date: 2025-05-19 03:01
+categories: ["Crossover"]
+characters: ["Castiel", "Dean Winchester", "Doctor Who", "11th Doctor", "River Song", "Amy Pond", "Rory Williams"]
+tags: ["Supernatural", "神秘博士", "crossover", "destiel", "11River", "11Amy", "Ponds", "刀河", "英文", "纽约"]
+pov: 第三人称
+origin: 2025 CasDean Crossover Bang
+long_novels: 【Destiel】The Angels Take Manhattan
+---
+
+Dean automatically looks back at the cherubs, following the order. "I'm not blinking." He says, answering to the skinny guy.
+
+The cherub statues haven't moved an inch since they start staring at them.
+
+The man rushes to their side, pointing the buzzing device in his hand directly at the statues. The device gives off an electronic beeping sound. Dean keeps trying to steal a glimpse at what he's doing, but doesn't dare to move his gaze away. He watches the man from the peripheral of his eyes.
+
+There is a pitch and turn in the buzzing sound as the man moves his hand around, with an explosion sound as a final touch. The cherub statues fly backward a few feet, and shattered to pieces.
+
+Dean assumes that should mean it is safe to stop staring now. He turns his head, pointing at whatever-it-is in the man's hand, and he says, "I want one of these."
+
+The man waves it around like a kid showing off a new toy that only he has, and he says, "My sonic screwdriver? Sorry, limited edition, the only one in the universe."
+
+"What did you do to them?" Cas asks from Dean's side.
+
+"Absorbed the temporal energy they just ate, that should starve them weak for a few minutes before their next feed. They might come back any time though." The man tilts the sparkling pen-looking thing -- sonic screwdriver, he said? -- and flashes it a few times, frowning as if he's reading something from a tiny screen on its body. "I think they just absorbed energy from at least two people, maybe three."
+
+"Who are you?" Dean snaps.
+
+The man looks up from the screwdriver, meeting his eyes, waving a hand roughly in their direction, uttering rapidly, "Hello, I'm the Doctor, I'm a Time Lord. This is Amy, she's Scottish. We are time travelers. Any questions? No? Good. Now, where is Rory?"
+
+Dean looks him up and down. The skinny man is about his height, his hair as ruffled as Cas's in his early days, wearing a shirt and a brown tweed jacket. Dean's gaze land on his collar, "I gotta ask, bowtie, really?"
+
+The Doctor widens his eyes a little, straightening his bowtie self-consciously, "Bowtie is cool."
+
+Dean and the girl -- Amy -- chuck at the same time.
+
+That's when Cas says, "Yes, I have questions. I thought Time Lords are extinct after the Time War, the whole Gallifrey is wiped from existence."
+
+Dean stares at him, "What?"
+
+The Doctor does the same, "How?" A pause, then narrows his eyes, "You are not human."
+
+Cas answers flatly, holding the gaze, "Neither are you."
+
+Dean raises his voice, "You know them?"
+
+Cas breaks the gaze to turn his head to Dean, "They are aliens. Gallifreians, specifically. But they call themselves Time Lords -- it sounds better. They have two hearts and regeneration abilities, basically twelve lives for each one of them." He looks back at the Doctor, "Did I miss anything?"
+
+The Doctor considers for a beat, "Sounds about right."
+
+Dean's still staring at Cas, "Aliens. You know aliens exist and you never thought to tell me?"
+
+Cas stares back, "You never asked."
+
+Dean rolls his eyes, "Any other aliens? Lizard-people are real?"
+
+Cas says, "A lot. They're actually called Silurian, local on Earth, and Earth is not the only planet with life forms..."
+
+Amy calls over their voices, "Guys, focus! Not the time!"
+
+Dean turns to her and says quickly, "Sorry."
+
+Cas says the same. "Sorry."
+
+The girl with red hair has an attractive face and a very strong commanding charisma that people just tend to listen to her, Dean notices.
+
+Amy asks, "Where is Rory?"
+
+Dean waves his hands to gesture the height and hair, "The Coffee Guy? Yay high, nerdy hair, shirt and jacket?"
+
+Amy nods, "That's him. He was just buying us coffees. Where is him?"
+
+Cas answers with a compassionate voice, "I'm sorry, but the statues touched him --"
+
+"-- and he just disappeared." Dean finishes the sentence.
+
+"Oh God," Amy covers her mouth, turning to the Doctor, her voice desperate, "where did they send him?"
+
+The Doctor looks restless, his eyes swimming around the fountain and the empty terrace, not meeting Amy's eyes. "I don't know." he says, in a regretful, uneasy voice. "I'm sorry, Amy, but I don't know."
+
+Dean studies them, "Wait, so, you know what happened to him?"
+
+Cas says beside him, "The statues, you know what they are, don't you? You told us not to blink. What are they?"
+
+The Doctor nods briefly, "They are not statues. They're Weeping Angels, the deadliest, most powerful, most malevolent life form evolution has ever created. The Lonely Assassins, they used to be called. No one quite knows where they came from, but they're as old as the universe, or very nearly. They have the most perfect defence mechanism that nature has ever evolved. They're quantum locked. They don't exist when they're being observed. The moment they're seen by any other living creature, they literally turn to stone, and you can't kill a stone. 'Course, a stone can't kill you either, but then you turn your head away. Then you blink. That's when they hit, they kill you nice and slow, no mess, no fuss -- they send you back into the past and let you live to death, the rest of your life used up and blown away in the blink of an eye. You die in the past and in the present, they consume the energy of all the days you might have had. All your stolen moments. They're creatures of the abstract, they live off *potential* energy."
+
+Dean needs a moment to process the information, he starts with "So --" But that's as far as he goes.
+
+"Guys! The angel!" Amy points over his head.
+
+Dean and Cas turn sharply. Behind them, the Angel of Water has moved when none of them lay their eyes on it. The probably mother statue of the four cherub statues has turned toward them, wings spreading wider than before, face fierce with fangs. Her hands are claws with long nails now, frozen in the posture of reaching out toward them.
+
+Cas's face is strange at the sight of it.
+
+Dean tries not to panic, "Is it me or does she look more pissed than usual?"
+
+The Doctor answers, "Maybe I shouldn't blow up her children in her face."
+
+"What do we do, Doctor?" Amy asks in a pitched voice.
+
+"Can't you use your sonic thing on her again?" Dean says to his back, not dare to move his eyes away.
+
+The electronic buzz sounds up over their head. Dean can see a shade of bright blue at the corner of his eyes.
+
+But nothing happens to the statue.
+
+"Ah, she's too strong for the same trick." The Doctor says frustratedly. "The usual then, run! Run!!"
+
+"Where?!" Dean yells.
+
+"The Tardis!" The Doctor yells back from a small distance. It sounds like they already started the running without them.
+
+"WHAT?!" Dean shouts.
+
+"THE TARDIS!!" The Doctor is farther away, heading out of Central Park to the southeast side.
+
+Backing away with your eyes focused on a creepy statue without blinking is impossible, let alone running. Dean finds out.
+
+He holds out an arm to keep balance, just in case there is anything on the ground behind him that might trip him over. Cas grabs his hand, keeping him guided, and maybe to keep himself balanced as well.
+
+The two of them take their steps back cautiously together, step by step.
+
+"Now would be a really good time if you can just fly us out or use those other eyes you said you have." Dean says gloomily.
+
+"Or you can go, I'll keep staring." Cas offers.
+
+"No," Dean snaps immediately without thinking, "no way I'd just leave you here. Not again."
+
+Cas falls quiet for a short moment.
+
+They can't hear any other footsteps behind or around them.
+
+"You think those two might just run off?" Dean can't help wondering aloud. "We might just be two big idiots and the perfect baits to keep the statue thing still, so they can buy some time to get away."
+
+"You don't trust them?" Cas asks.
+
+"What, you do?" Dean retorts, "He's an alien with two hearts and a funny bowtie!"
+
+"And I'm a celestial being with wings and no body." Cas says flatly.
+
+Dean makes a choked sound, "Which side are you?"
+
+Cas lets out a stifled chuckle, "Yours, of course."
+
+Dean is not convinced, "We don't even know what that 'Tardis' thing is."
+
+Just as he speaks, a loud wheezing sound echoes from the sky. The air around them ripples like bad animation, turning from open outdoor space to a dimly lit space with green and blue light.
+
+A cheerful voice sounds up behind them, "Gentleman and gentleman, welcome aboard the Tardis."
