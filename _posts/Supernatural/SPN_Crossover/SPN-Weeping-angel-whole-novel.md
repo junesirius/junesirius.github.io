@@ -271,6 +271,8 @@ why angels go to Purgatory to save Cas: canon way, Naomi ordered, think Cas usef
 
 cute comments about how come the cheapest hotel sounds like 5-star penthouse; you can't live in anywhere too far away from any landscape in Manhattan; comments about American & English & Scottish accent
 
+Doctor: "Don't blink, don't look them in the eyes" Dean: "What's wrong with their eyes" Amy: "Trust me, you don't want to know."
+
 ### Plot (early draft)
 
 Dean back from Purgatory through portal, Cas back later saved by angels (remembered angel's war, concerned, not brainwashed ← important hint) (Sam with Amelia, undisturbed)
@@ -305,9 +307,9 @@ On the roof of a very tall building, Cas is a weeping angel sculpture, his wings
 
 ### Author's notes before the story
 
-This story is heavily inspired by and adapted from Doctor Who's S07E05 episode with the same title, many of the scenes are heavily rewritten from the show because the original storytelling is so astonishing as is. Anything I'm not doing right is probably my bad, and most of the brilliant settings and story ideas should credit to the original show creators and production teams.
+This story is heavily inspired by and adapted from Doctor Who's S07E05 episode with the same title, many of the scenes are heavily rewritten from the show because the original storytelling is so astonishing as is. Many quotes as well. Anything I'm not doing right is probably my bad, and most of the brilliant settings and story ideas should credit to the original show creators and production teams.
 
-The music that accompanies the creation of this story is Sting's 1987 song "English man in New York."
+The music that accompanies the creation of this story is Sting's 1987 song "English man in New York," also used in the original show.
 
 ## Editing notes
 
@@ -661,7 +663,7 @@ Cas's eyes are still on the static statue, as if he's looking at something *insi
 
 "And those are her children?" Dean points at the four small baby angels around the base of the fountain.
 
-"The cherubs?" Cas shifts his attention to those chubby little statues, "No, she doesn't have any children. I think those are just human imagination of what cherubs look like, wrong as always. They are not impotent babies wearing diapers."
+"The cherubs?" Cas shifts his attention to those chubby little statues, "No, she doesn't have any children. I think those are just human imagination of what cherubs look like, wrong as always. They are not impotent babies wearing diapers, much like cupids."
 
 "Yeah I remember that naked dude two three years ago." Dean chuckles at the memory.
 
@@ -705,7 +707,7 @@ Dean meets his eyes, nervous and alarmed. Their pupils shrink. It's so quiet he 
 
 Dean whispers, "Since when did the music stop?"
 
-They snap their heads toward the busker. The place only has an opened guitar box on the ground.
+They snap their heads toward the busker. The place only has a lone guitar box on the ground.
 
 "He's gone." Cas says.
 
@@ -719,7 +721,7 @@ Cas meets his eyes, nodding. "That's what I heard earlier."
 
 "Hello? Did you hear anything?" A man asks behind them. Dean almost jumps.
 
-"Holy!" He glances back. It's the same guy passing them minutes ago. His hands still occupied with too many coffee cups.
+"Jesus!" He glances back. It's the same guy passing them minutes ago. His hands still occupied with too many coffee cups.
 
 "The giggling? Yes." Cas answers him.
 
@@ -729,7 +731,7 @@ The Coffee Guy is visibly relieved for a moment. "Oh great," he says, in an Engl
 
 "Do you know anything about it?" Cas asks without looking back, but doesn't hear any answer.
 
-"Cas!" Dean yells with a hitched voice, grabbing him backward.
+"Cas!" Dean yells with a hitched voice, grabbing him backward with large steps.
 
 The Coffee Guy has disappeared from the thin air. Where he was standing, on the ground, there are the four missing cherub statues, frozen in a fumbling, crawling shape, just like some frozen frame of playful little babies having fun in their own way.
 
@@ -749,21 +751,21 @@ They back away quickly, keeping their eyes on the statues.
 
 Dean gasps again when he looks back, dragging both of them hurried away farther from the statues. "Don't look away!" He snaps. "Here's my theory: They can only move when we are not looking. So as long as we keep our eyes on them, we are safe."
 
-"What do you think happened to the people disappeared? Are they dead?" Cas asks, not blinking at all in his staring.
+"What do you think happened to the people disappeared? Are they dead?" Cas asks, not blinking at all as he stares.
 
-"I don't know, hope not. We'll figure that out after we get out of here first. You think you can fly us out of here?" Dean feels his eyes sore and dry quickly with too long time of not blinking.
+"I don't know, let's hope not. We'll figure that out after we get out of here first. You think you can fly us out of here?" Dean feels his eyes sore and dry quickly with too long time of not blinking.
 
 "I still have my wings, if that's your question." Cas answers stoically. "But I'd rather not use them if possible."
 
 "Why not?"
 
-"Naomi and the angels might still be looking for me, in case you forget, they are not happy when I got away." Cas answers, managed a well-maintained, stable voice. "Using any angelic power or flying might make it very easy for them to locate me and continue the process they intended to apply on me last time."
+"Naomi and the angels might still be looking for me, in case you forget, they are not happy when I got away." Cas manages a well-maintained, stable voice. "Using any angelic power or my wings might make it very easy for them to locate me and continue the process they intended to apply on me last time."
 
-"Fine, no fly, no mojo. We gotta find a way out quick. 'Cause I can't keep on not blinking for any longer." Dean moans.
+"Alright, no fly, no mojo, then. But we gotta find a way out quick. 'Cause I can't keep on not blinking for any longer." Dean moans.
 
 "I have my eyes on it. You can blink." Cas tells him.
 
-Dean relaxes a little, blinking a few times to soothe the dryness.
+Dean relaxes a little, blinking a few times to soothe the dryness in his eyes.
 
 "Don't blink! Don't turn your back, don't look away, and don't blink!! Blink and you're dead!" A skinny man yells at them from across the plaza, pointing a flashing device at them, dashing in their direction, followed by a ginger-haired girl.
 
@@ -779,40 +781,175 @@ Dean relaxes a little, blinking a few times to soothe the dryness.
 >
 > Try travel by Tardis (inside tour) but fail, Cas fly 4 of them to 1938, too many weeping angels there, everyone in danger, Cas power limited because of all the angel/temporal energy
 
+### Act 1
+
+Dean automatically looks back at the cherubs. "I'm not blinking." He says, answering to the skinny guy.
+
+The cherub statues haven't moved an inch since they start staring at them.
+
+The man rushes to their side, pointing the buzzing device in his hand directly at the statues. The device gives off an electronic beeping sound. Dean keeps trying to steal a glimpse at what he's doing, but doesn't dare to move his gaze away. He watches the man from the peripheral of his eyes.
+
+There is a pitch and turn in the buzzing sound as the man moves his hand around, with an explosion sound as a final touch. The cherub statues fly backward a few feet, and shattered to pieces.
+
+Dean assumes that should mean it is safe to stop staring now. He turns his head, pointing at whatever-it-is in the man's hand, and he says, "I want one of these."
+
+The man waves it around like a kid showing off a new toy that only he has, and he says, "My sonic screwdriver? Sorry, limited edition, the only one in the universe."
+
+"What did you do to them?" Cas asks from Dean's side.
+
+"Absorbed the temporal energy they just ate, that should starve them weak for a few minutes before their next feed. They might come back any time though." The man tilts the sparkling pen-looking thing -- sonic screwdriver, he said? -- and flashes it a few times, frowning as if he's reading something from a tiny screen on its body. "I think they just absorbed energy from at least two people, maybe three."
+
+"Who are you?" Dean snaps.
+
+The man looks up from the screwdriver, meeting his eyes, waving a hand roughly in their direction, uttering rapidly, "Hello, I'm the Doctor, I'm a Time Lord. This is Amy, she's Scottish. We are time travelers. Any questions? No? Good. Now, where is Rory?"
+
+Dean looks him up and down. The skinny man is about his height, his hair as ruffled as Cas's in his early days, wearing a shirt and a brown tweed jacket. Dean's gaze land on his collar, "I gotta ask, bowtie, really?"
+
+The Doctor widens his eyes a little, straightening his bowtie self-consciously, "Bowtie is cool."
+
+Dean and the girl -- Amy -- chuck at the same time.
+
+That's when Cas says, "Yes, I have questions. I thought Time Lords are extinct after the Time War, the whole Gallifrey is wiped from existence."
+
+Dean stares at him, "What?"
+
+The Doctor does the same, "How?" A pause, then narrows his eyes, "You are not human."
+
+Cas answers flatly, holding the gaze, "Neither are you."
+
+Dean raises his voice, "You know them?"
+
+Cas breaks the gaze to turn his head to Dean, "They are aliens. Gallifreians, specifically. But they call themselves Time Lords -- it sounds better. They have two hearts and regeneration abilities, basically twelve lives for each one of them." He looks back at the Doctor, "Did I miss anything?"
+
+The Doctor considers for a beat, "Sounds about right."
+
+Dean's still staring at Cas, "Aliens. You know aliens exist and you never thought to tell me?"
+
+Cas stares back, "You never asked."
+
+Dean rolls his eyes, "Any other aliens? Lizard-people are real?"
+
+Cas says, "A lot. They're actually called Silurian, local on Earth, and Earth is not the only planet with life forms..."
+
+Amy calls over their voices, "Guys, focus! Not the time!"
+
+Dean turns to her and says quickly, "Sorry."
+
+Cas says the same. "Sorry."
+
+The girl with red hair has an attractive face and a very strong commanding charisma that people just tend to listen to her, Dean notices.
+
+Amy asks, "Where is Rory?"
+
+Dean waves his hands to gesture the height and hair, "The Coffee Guy? Yay high, nerdy hair, shirt and jacket?"
+
+Amy nods, "That's him. He was just buying us coffees. Where is him?"
+
+Cas answers with a compassionate voice, "I'm sorry, but the statues touched him --"
+
+"-- and he just disappeared." Dean finishes the sentence.
+
+"Oh God," Amy covers her mouth, turning to the Doctor, her voice desperate, "where did they send him?"
+
+The Doctor looks restless, his eyes swimming around the fountain and the empty terrace, not meeting Amy's eyes. "I don't know." he says, in a regretful, uneasy voice. "I'm sorry, Amy, but I don't know."
+
+Dean studies them, "Wait, so, you know what happened to him?"
+
+Cas says beside him, "The statues, you know what they are, don't you? You told us not to blink. What are they?"
+
+The Doctor nods briefly, "They are not statues. They're Weeping Angels, the deadliest, most powerful, most malevolent life form evolution has ever created. The Lonely Assassins, they used to be called. No one quite knows where they came from, but they're as old as the universe, or very nearly. They have the most perfect defence mechanism that nature has ever evolved. They're quantum locked. They don't exist when they're being observed. The moment they're seen by any other living creature, they literally turn to stone, and you can't kill a stone. 'Course, a stone can't kill you either, but then you turn your head away. Then you blink. That's when they hit, they kill you nice and slow, no mess, no fuss -- they send you back into the past and let you live to death, the rest of your life used up and blown away in the blink of an eye. You die in the past and in the present, they consume the energy of all the days you might have had. All your stolen moments. They're creatures of the abstract, they live off *potential* energy."
+
+Dean needs a moment to process the information, he starts with "So --" But that's as far as he goes.
+
+"Guys! The angel!" Amy points over his head.
+
+Dean and Cas turn sharply. Behind them, the Angel of Water has moved when none of them lay their eyes on it. The probably mother statue of the four cherub statues has turned toward them, wings spreading wider than before, face fierce with fangs. Her hands are claws with long nails now, frozen in the posture of reaching out toward them.
+
+Cas's face is strange at the sight of it.
+
+Dean tries not to panic, "Is it me or does she look more pissed than usual?"
+
+The Doctor answers, "Maybe I shouldn't blow up her children in her face."
+
+"What do we do, Doctor?" Amy asks in a pitched voice.
+
+"Can't you use your sonic thing on her again?" Dean says to his back, not dare to move his eyes away.
+
+The electronic buzz sounds up over their head. Dean can see a shade of bright blue at the corner of his eyes.
+
+But nothing happens to the statue.
+
+"Ah, she's too strong for the same trick." The Doctor says frustratedly. "The usual then, run! Run!!"
+
+"Where?!" Dean yells.
+
+"The Tardis!" The Doctor yells back from a small distance. It sounds like they already started the running without them.
+
+"WHAT?!" Dean shouts.
+
+"THE TARDIS!!" The Doctor is farther away, heading out of Central Park to the southeast side.
+
+Backing away with your eyes focused on a creepy statue without blinking is impossible, let alone running. Dean finds out.
+
+He holds out an arm to keep balance, just in case there is anything on the ground behind him that might trip him over. Cas grabs his hand, keeping him guided, and maybe to keep himself balanced as well.
+
+The two of them take their steps back cautiously together, step by step.
+
+"Now would be a really good time if you can just fly us out or use those other eyes you said you have." Dean says gloomily.
+
+"Or you can go, I'll keep staring." Cas offers.
+
+"No," Dean snaps immediately without thinking, "no way I'd just leave you here. Not again."
+
+Cas falls quiet for a short moment.
+
+They can't hear any other footsteps behind or around them.
+
+"You think those two might just run off?" Dean can't help wondering aloud. "We might just be two big idiots and the perfect baits to keep the statue thing still, so they can buy some time to get away."
+
+"You don't trust them?" Cas asks.
+
+"What, you do?" Dean retorts, "He's an alien with two hearts and a funny bowtie!"
+
+"And I'm a celestial being with too many eyes and no body." Cas says flatly.
+
+Dean makes a choked sound, "Which side are you?"
+
+Cas lets out a chuckled sound, "Yours, of course."
+
+Dean is not convinced, "We don't even know what that 'Tardis' thing is."
+
+Just as he speaks, a loud wheezing sound echoes from the sky. The air around them ripples like bad animation, turning from open outdoor space to a dimly lit space with green and blue light.
+
+A cheerful voice sounds up behind them, "Gentleman and gentleman, welcome aboard the Tardis."
+
+<br>
+
+### Act 2
+
 
 
 ### draft notes
 
-start with Doctor sonic the cherubs away, Dean: "I want one of these" Doctor: "sorry, limited edition, only one in the universe" Dean: "Who are you?" +intro below
+Dean: "I might have an idea what's happening here" (intro the book)
 
-Doctor: "Don't blink, don't look them in the eyes" Dean: "What's wrong with their eyes" Amy: "Trust me, you don't want to know."
-
-(Cas know about Doctor) Doctor: "Hello, I'm the Doctor, I'm a Time Lord. This is Amy, she's Scottish. We are time travelers. Any questions? No? Good. Now, where is Rory?" Cas: "Yes, I have questions. I thought Time Lords are extinct after the Time War, the whole Gallifrey fell." Dean: "What?" Doctor: "How?" Amy: "You're not human." Cas to Doctor: "Neither are you." Dean: "You know them?" Cas to Dean: "They are aliens." Dean: "You never thought to tell me?" Cas: "You never asked" Dean: "Any other aliens?" Cas: "A lot. Earth is not the only planet..." Amy: "Guys, focus! Not the time!" Dean: "Sorry" Cas: "Sorry" Amy: "Where is Rory?" Dean: "The Coffee Guy?" Cas: "I'm sorry but the statues touched him" Amy: "Doctor, where did they send him?" Doctor: "I don't know" Dean: "I might" (intro the book)
+Cas: "how do you where to look" how does Doctor/Amy know where to find Rory: not the book, sonic screwdriver detect strange temporal energy surge, they follow the signal, worry Rory might be in trouble, turns out the worry is real
 
 Dean/Doctor: "Doc" "Don't call me Doc, it's Doctor to you"
 
-> Dean/Cas run into Doctor/Amy in Central Park (self-intros, Doctor/Cas discuss time flux)
+Doctor talk about Tardis non-stoppingly, it's his home, Dean: "I see, so it's like Impala"
+
+can't land the Tardis in 1938 because too much time distortion there, like trying to land a plane in a blizzard, even River couldn't do it. River gets there by Vortex Manipulator, less bulky than a Tardis, a motorbike through traffic (the whole city is time locked, but Cas can fly there, like running man in the traffic)
+
+Dean: "Let me get this straight. You save the universe but only save the UK part, fly across galaxy is close enough but USA is too far away? This isn't your jurisdiction or something? Pal, not I'm saying, you did a terrible job in protecting the earth, in case you didn't notice, it at least trashed twice if we didn't ..." Doctor: "All due respect, who's behind that? Also, USA almost trashed twice doesn't mean..." River/Amy: "Don't mind him, London gets trashed every Christmas, it's a Doctor and Monster thing." Dean/Cas: "You can say that again."
+
+Doctor: "People assume that time is a strict progression of cause to effect, but actually, from a non-linear, non-subjective viewpoint, it's more like a big ball of wibbly-wobbly, timey-wimey stuff." (DW310) (Dean: "That's just so English")
+
+> Doctor/Cas discuss time flux
 >
 > Dean has River's book (mentioned Dean/Cas sacrifice+Amy/Rory farewell (keep it vague), River's broken wrist, gives specific time location)
 >
 > Try travel by Tardis (inside tour) but fail, Cas fly 4 of them to 1938, too many weeping angels there, everyone in danger, Cas power limited because of all the angel/temporal energy
-
-can't land the Tardis in 1938 because too much time distortion there, like trying to land a plane in a blizzard, even River couldn't do it. River gets there by Vortex Manipulator, less bulky than a Tardis, a motorbike through traffic (the whole city is time locked, but Cas can fly there, like running man in the traffic)
-
-Dean: "Let me get this straight. You save the universe but only save the UK part, fly across galaxy is close enough but USA is too far away? This isn't your jurisdiction or something? Pal, not I'm saying, you did a terrible job in protecting the earth, in case you didn't notice, it at least trashed twice if we didn't ..." Doctor: "All due respect, who's behind that? Also, USA almost trashed twice doesn't mean..." River: "Don't mind him, London gets trashed every Christmas, it's a Doctor and Monster thing." Dean/Cas: "You can say that again."
-
-Dean distrust Doctor at first: "What? I'm supposed to just trust him like that? He's an alien with two hearts!" Cas: "I'm a celestial being with too many eyes and no body." Dean choked: "Which side are you?"
-
-
-
-Doctor: "People assume that time is a strict progression of cause to effect, but actually, from a non-linear, non-subjective viewpoint, it's more like a big ball of wibbly-wobbly, timey-wimey stuff." (DW310) (Dean: "That's just so English")
-
-Doctor: "Fascinating race, the weeping angels. The only psychopath in the universe to kill you nicely. No mess, no fuss, they just zap you into the past and let you live to death, the rest of your life used up and blown away in the blink of an eye. You die in the past and in the present, they consume the energy of all the days you might have had. All your stolen moments. They're creatures of the abstract, they live off *potential* energy." ("timey-wimey detector" Dean: "I made a better hand-made EMF than that when I was ten.")
-
-what's weeping angels:
-
-- "creatures from another world" "The Lonely Assassins, they used to be called. No one quite knows where they came from, but they're as old as the universe, or very nearly. And they have survived this long because they have the most perfect defense system ever evolved. They're quantum locked. They don't exist when they're being observed. The moment they're seen by any other living creature, they freeze into rock. No choice, it's a fact of their biology. In the sight of any living thing, they literally turn to stone. And you can't kill a stone. 'Course, a stone can't kill you either, but then you turn your head away. Then you blink. And, oh yes it can. (Don't take your eyes off that) That's why they cover their eyes. They're not weeping, they can't risk looking at each other. Their greatest asset is their greatest curse. They can never be seen. Loneliest creatures in the universe." "Your life could depend on this. ~~Don't blink. Don't even blink. Blink and you're dead.~~ They're fast. Faster than you can believe. ~~Don't turn your back, don't look away and don't blink.~~" (DW310)
-- A weeping angel, is the deadliest, most powerful, most malevolent life form evolution has ever produced. The weeping angels can only move if they're unseen. It's quantum lock. In the sight of any living creature, the angels literally cease to exist. They're just stone. The ultimate defence mechanism. Being a stone, until you turn your back. That which holds the image of an angel becomes itself an angel. The eyes are not the windows of the soul, they are the doors. Beware what may enter there. (DW604)
 
 ## Chap 5 The Roman In The Cellar
 
@@ -842,6 +979,8 @@ Dean wrt Doctor/River: "I guess a thousand year age difference isn't a problem t
 
 wrt River/Amy/Rory: father/mother "It's complicated, time travel thing" "Isn't it always" +1
 
+Doctor: "timey-wimey detector" (Dean: "I made a better hand-made EMF than that when I was ten.")
+
 ## Chap 6 Night In The Statue Park
 
 > (Dean POV)(Act 2 realization)
@@ -852,7 +991,9 @@ wrt River/Amy/Rory: father/mother "It's complicated, time travel thing" "Isn't i
 
 ### draft notes
 
-Dean/Rory talks about feeling, Rory talks about Amy, Dean: "you waited her for two thousand years? Why?" Rory: "Do you have anyone you'd do anything to protect them, save them whatever it takes?" Dean: "I guess" "Then you should know how it feels to leave them behind. I can't do that. So I guarded her." "She wouldn't even know" "It doesn't matter. To save her, I can do anything." "Even condemn the world?" "Hopefully not, but if it means she's saved, maybe then. Not like we haven't done it before" Dean raise eyebrow, Rory: "Long story"
+Dean/Rory talks about feeling, Rory talks about Amy, Dean: "you waited her for two thousand years? Why?" Rory: "Do you have anyone you'd do anything to protect them, save them whatever it takes?" Dean: "I guess" "Then you should know how it feels to leave them behind. I can't do that. So I guarded her." "She wouldn't even know" "It doesn't matter. To save her, I can do anything." "Even condemn the world?" "Hopefully not, but if it means she's saved, maybe then. Not like we haven't done it before" Dean raise eyebrow, Rory: "Long story" (Rory ask about Dean's past story, Dean: "Long story", long story everywhere)
+
+Dean ask about Rory's family here, Rory mention Brian, topic of family, bury seed of Rory/Amy's final decision of leaving Doctor
 
 why infected/weeping angel sends people back/touch them: (Cas's theory) maybe not to harm them, but asking for help, angels have instinct to heal by touch, so they're looking for touch to self-cure, or they're too lonely, so they capture these humans to keep themselves accompany; (Doctor's theory) they feed on time energy, they capture these human for food source; (Dean's theory) they're and they've always been bastards, so they're just continuing being bastards, want to feed *and* attract more angels and hunters over, so they can spread the disease and get more food; or that's the karma for them, about time they pay for being assholes all these times (which pains Cas to think any of them deserve this bc he can hear the angels' screaming of pain even if they're not really alive as stones)
 
@@ -943,5 +1084,7 @@ destiel reunion: hug "Don't do that again" "Same goes for you"
 Amy/Rory make the decision to leave Doctor bc of Dean/Cas, importance of family (remember to mention Rory's dad Brian in early conversations, "Don't you have anyone waiting for you to come home" "My dad waters plants for us"), Dean/Cas decide to call Sam and reunite together bc of Amy/Rory
 
 Doctor/Cas: "see you next time, somewhere in the universe, some time in the future or past" "Look forward to it, Doctor" smile and wave goodbye
+
+cute comments about how come the cheapest hotel sounds like 5-star penthouse; you can't live in anywhere too far away from any landscape in Manhattan (about where to deliver the book in timeline)
 
 ###### [END]
