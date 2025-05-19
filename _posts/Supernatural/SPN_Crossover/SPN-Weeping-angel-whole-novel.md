@@ -653,9 +653,9 @@ The air smells green and fresh.
 
 They walk past the crowds, taking a short cut through the underpass in Bethesda Terrace. The fountain splashes under the bright sun, an angel statue standing on the very top. Not many people around the fountain today, only a couple of old people strolling slowly. A busker is singing some beautiful folk songs with a weathered guitar. Cas leaves a twenty dollar bill in his opened guitar box.
 
-"That's Hannah," Cas points at the angel statue on the fountain when they pass it.
+"That's Hannah," Cas points at the angel statue on the fountain when they pass it. "I know her."
 
-"What, really?" Dean takes a second look at the statue. The female figure looks more human than any angel he came to know in the past few years, wearing a long silky robe instead of in any suits. A pair of wings stretching from her shoulders. "No harp or halo?"
+"What, really? A real angel?" Dean takes a second look at the statue. The female figure looks more human than any angel he came to know in the past few years, wearing a long silky robe instead of in any suits. A pair of wings stretching from her shoulders. "No harp or halo?"
 
 Cas's eyes are still on the static statue, as if he's looking at something *inside* the statue that Dean can't see. "Not her true form, but the statue, that's for Angel of Water. And water is her charge. I think I can even hear her just from the statue, I don't know it's possible."
 
@@ -783,9 +783,13 @@ Dean relaxes a little, blinking a few times to soothe the dryness.
 
 ### draft notes
 
+start with Doctor sonic the cherubs away, Dean: "I want one of these" Doctor: "sorry, limited edition, only one in the universe" Dean: "Who are you?" +intro below
+
 Doctor: "Don't blink, don't look them in the eyes" Dean: "What's wrong with their eyes" Amy: "Trust me, you don't want to know."
 
-(Cas know about Doctor) Doctor: "Hello, I'm the Doctor, I'm a Time Lord. This is Amy, she's Scottish. We are time travelers. Any questions? No? Good. Now, where is Rory?" Cas: "Yes, I have questions. I thought Time Lords are extinct after the Time War, the whole Gallifrey fell." Dean: "What?" Doctor: "How?" Amy: "You're not human." Cas to Doctor: "Neither are you." Dean: "You know them?" Cas to Dean: "They are aliens." Dean: "You never thought to tell me?" Cas: "You never asked" Dean: "Any other aliens?" Cas: "A lot. Earth is not the only planet..." Amy: "Guys, focus. Not the time!" Dean: "Sorry" Cas: "Sorry" Amy: "Where is Rory?" Dean: "The Coffee Guy?" Cas: "I'm sorry but the statues touched him" Amy: "Doctor, where did they send him?" Doctor: "I don't know" Dean: "I might" (intro the book)
+(Cas know about Doctor) Doctor: "Hello, I'm the Doctor, I'm a Time Lord. This is Amy, she's Scottish. We are time travelers. Any questions? No? Good. Now, where is Rory?" Cas: "Yes, I have questions. I thought Time Lords are extinct after the Time War, the whole Gallifrey fell." Dean: "What?" Doctor: "How?" Amy: "You're not human." Cas to Doctor: "Neither are you." Dean: "You know them?" Cas to Dean: "They are aliens." Dean: "You never thought to tell me?" Cas: "You never asked" Dean: "Any other aliens?" Cas: "A lot. Earth is not the only planet..." Amy: "Guys, focus! Not the time!" Dean: "Sorry" Cas: "Sorry" Amy: "Where is Rory?" Dean: "The Coffee Guy?" Cas: "I'm sorry but the statues touched him" Amy: "Doctor, where did they send him?" Doctor: "I don't know" Dean: "I might" (intro the book)
+
+Dean/Doctor: "Doc" "Don't call me Doc, it's Doctor to you"
 
 > Dean/Cas run into Doctor/Amy in Central Park (self-intros, Doctor/Cas discuss time flux)
 >
@@ -832,9 +836,11 @@ Dean reads out the lines he's staring at: "A handsome young man walks into the r
 
 
 
-Dean wrt Amy/Rory: "So you two are married." Cas wrt Doctor/River: "You two are also married." Amy wrt destiel: "And you are --?" Dean: "No, no, we, uh, we are best friends." Amy: "Sure."
+Dean wrt Amy/Rory: "So you two are married." Cas wrt Doctor/River: "You two are also married." Amy wrt destiel: "And you are --?" Dean: "No, no, we, uh, we are best friends." Amy: "Sure." River: "Thought I heard you said you're partners" Dean: "What? The agents thing? No, no, that's just, partner in crime kinda thing" Cas: "Dean--" Dean: "Yeah sorry you're right, made it worse. No it's like, colleagues" (Cas narrow eyes), "comrade," (Amy raise eyebrow) "family," (River: "sure"), Dean: "You know what, forget it, just friends. Cas is my best friend, that's all. Drop it" Amy raise hands, surrender: "just asking, as long as you guys figured it out, no problem with me" River to Cas: "That's good enough for you?" Cas: "Why wouldn't it be?" Dean cheerfully: "See? all sorted out now, no problem at all" Dean/Cas meet eyes, look away
 
 Dean wrt Doctor/River: "I guess a thousand year age difference isn't a problem then." "You got anything to say about that?" "What? No, no, of course not." (Dean unintentionally glance at Cas, finding him look at him too) "We were married when I was half-way killing him and he was trying to save the world. It's complicated." Dean grins: "Isn't it always?" (unintentionally meet Cas's eyes again)
+
+wrt River/Amy/Rory: father/mother "It's complicated, time travel thing" "Isn't it always" +1
 
 ## Chap 6 Night In The Statue Park
 
@@ -845,6 +851,8 @@ Dean wrt Doctor/River: "I guess a thousand year age difference isn't a problem t
 > discuss weeping angel's motives
 
 ### draft notes
+
+Dean/Rory talks about feeling, Rory talks about Amy, Dean: "you waited her for two thousand years? Why?" Rory: "Do you have anyone you'd do anything to protect them, save them whatever it takes?" Dean: "I guess" "Then you should know how it feels to leave them behind. I can't do that. So I guarded her." "She wouldn't even know" "It doesn't matter. To save her, I can do anything." "Even condemn the world?" "Hopefully not, but if it means she's saved, maybe then. Not like we haven't done it before" Dean raise eyebrow, Rory: "Long story"
 
 why infected/weeping angel sends people back/touch them: (Cas's theory) maybe not to harm them, but asking for help, angels have instinct to heal by touch, so they're looking for touch to self-cure, or they're too lonely, so they capture these humans to keep themselves accompany; (Doctor's theory) they feed on time energy, they capture these human for food source; (Dean's theory) they're and they've always been bastards, so they're just continuing being bastards, want to feed *and* attract more angels and hunters over, so they can spread the disease and get more food; or that's the karma for them, about time they pay for being assholes all these times (which pains Cas to think any of them deserve this bc he can hear the angels' screaming of pain even if they're not really alive as stones)
 
@@ -908,6 +916,8 @@ Cas is a "good" weeping angel with them (same as when with normal asshole angels
 
 ### draft notes
 
+Cas sending most angels back in time, clear the city of weeping angels, Doctor: "Guess it's solved, more or less" Dean: "More or less? What does that mean? Will they come back?" Doctor: "Technically they can, but if Cas stays here, he can send them back again. Probably should call him Guardian Angel of Manhattan now." Dean: "But what about Cas?" "What about him?" "Will he ever come back normal? Un-stoned?" Doctor: "I'm sorry" Dean: "No" "What do you mean 'no'?" "I mean no, if this is the reality, I don't want it, I'm going to bring him back" "I know it's difficult to lose someone..." Dean: "No you don't! I'm not going to leave him again, not ever again! We come here together, we go home together. I'm not leaving him in this bloody 40s New York like this. I'll do it, whatever it takes. I'll save him, whether you like it or not."
+
 Dean's strongest reason to sacrifice instead of Amy/Rory: You have each other, I have no one now. If it doesn't work, try something else, help him, and maybe let my brother know. (give Doctor his phone)
 
 "To save you, I could do anything." -- Rory/Dean
@@ -929,5 +939,9 @@ Dean's strongest reason to sacrifice instead of Amy/Rory: You have each other, I
 ### draft notes
 
 destiel reunion: hug "Don't do that again" "Same goes for you"
+
+Amy/Rory make the decision to leave Doctor bc of Dean/Cas, importance of family (remember to mention Rory's dad Brian in early conversations, "Don't you have anyone waiting for you to come home" "My dad waters plants for us"), Dean/Cas decide to call Sam and reunite together bc of Amy/Rory
+
+Doctor/Cas: "see you next time, somewhere in the universe, some time in the future or past" "Look forward to it, Doctor" smile and wave goodbye
 
 ###### [END]
