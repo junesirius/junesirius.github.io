@@ -3033,4 +3033,14 @@ S07E01帝卡时期附近时间线，丁不小心又快把自己弄死/快要脑�
 
 开局丁视角感觉整个世界都是正常的，好像全都只是正常的case fic，正常的hunter life，也没有特别严重的world-ending threat，所以过得还算舒服，那些偶尔的危险也都是正常级别的——只有卡看起来异常。写的手法暗示+因为是丁的局限视角，刻意引导读者好像卡是这个世界有问题的那个，比如好像突然出现ooc动作表现，或者突然zoom out静止不动好像机器人失去信号之类（突然黑客帝国）。丁注意到了不对劲，暗中其实一直在注意卡，想要搞明白到底卡出了什么问题，把全文悬念也都引到卡身上（但是偶尔穿插潜意识暗示现实世界在外面，稍微也有点黑镜304 San Junipero的写法风格）。丁在各个case fic之间一边跟卡正常互动一边一直在调查在开始担心起来，卡以为他是对自己/这个世界有怀疑了也开始有点紧张，但其实完全方向都是错的。到后面丁卡关系进展，卡开始对这个世界走势有点失去控制，这个世界卡的zoom out其实是他不得不在外面世界离开丁去做别的事。卡逐渐意识到了自己没法做好帝卡，他甚至没法设计好一个专门给丁的世界，那就不用说建一个给所有人都理想的全世界了。到后面揭晓丁视角其实整个世界都是假的，卡放弃帝卡能力，用最后一点能力治好丁。俩人要重新讨论俩人关系（其实里世界的那个卡也都是卡本人，所以互动都是有记忆的，那些case fic对他们来说也都相当于是一起经历过的，“who said what happened in your head can't be real”），大概是有可能HE或者hopeful ending的。他们都要重新消化一下之前的事但是互相都是接纳了彼此了的，也是通过里面那些时间想明白了对彼此的感情，所以后面可以很有希望。
 
-### 292.
+### 292.【destiel】S08-9 rewrite: Dean go through the demon tablet trial
+
+the hell hound trial: Dean get to the hell hound first, kill it, go through the rest of the trials
+
+by the third trial, they realize it will kill Dean, Cas force him to stop the trial (maybe stop him before second trial already)
+
+bc Cas is working with Dean, he's not away with Metatron, so he's not fallen to be human
+
+to save Dean, Cas possess him to cure him from inside
+
+### 293.
