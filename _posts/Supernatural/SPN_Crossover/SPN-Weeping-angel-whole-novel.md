@@ -783,7 +783,7 @@ Dean relaxes a little, blinking a few times to soothe the dryness in his eyes.
 
 ### Act 1
 
-Dean automatically looks back at the cherubs. "I'm not blinking." He says, answering to the skinny guy.
+Dean automatically looks back at the cherubs, following the order. "I'm not blinking." He says, answering to the skinny guy.
 
 The cherub statues haven't moved an inch since they start staring at them.
 
@@ -911,11 +911,11 @@ They can't hear any other footsteps behind or around them.
 
 "What, you do?" Dean retorts, "He's an alien with two hearts and a funny bowtie!"
 
-"And I'm a celestial being with too many eyes and no body." Cas says flatly.
+"And I'm a celestial being with wings and no body." Cas says flatly.
 
 Dean makes a choked sound, "Which side are you?"
 
-Cas lets out a chuckled sound, "Yours, of course."
+Cas lets out a stifled chuckle, "Yours, of course."
 
 Dean is not convinced, "We don't even know what that 'Tardis' thing is."
 
@@ -927,17 +927,35 @@ A cheerful voice sounds up behind them, "Gentleman and gentleman, welcome aboard
 
 ### Act 2
 
+Cas lets go of Dean's hand.
+
+They look around.
+
+The Doctor busies himself around a central structure that Dean's pretty sure is where all the engine and control units are -- if any of the sci-fi movies has any truth in them. A huge, bright pumping column vibrate up and down, making loud whirring sound -- that's the sound they heard when the whole thing just materialized itself around them.
+
+Dean regards the structures, walking slowly toward the console and the Doctor running around it. "Does all your toys have to make funny noises?"
+
+Amy can't hold back a small laughing sound.
+
+The Doctor rolls his eyes at Dean, "This is Tardis! Of course she has to make this beautiful sound! What do you know about 'Time and Relative Dimension in Space'?"
+
+Dean stutters, "Ugh, come again?"
+
+The Doctor
+
 
 
 ### draft notes
+
+Doctor: "If you don't know anything about her, why don't you just shut up and move away, don't touch anything, while I fly us somewhere relatively safe." Cas defends Dean about knowledge of TARDIS, Doctor uneasy, Amy: "he doesn't like *not* being the smartest man in the room" (Dean gives Cas a secret thumb up)
+
+Doctor talk about Tardis non-stoppingly, it's his home, Dean notice he keep referring it as She, he can relate: "I see, so it's like Impala"
 
 Dean: "I might have an idea what's happening here" (intro the book)
 
 Cas: "how do you where to look" how does Doctor/Amy know where to find Rory: not the book, sonic screwdriver detect strange temporal energy surge, they follow the signal, worry Rory might be in trouble, turns out the worry is real
 
 Dean/Doctor: "Doc" "Don't call me Doc, it's Doctor to you"
-
-Doctor talk about Tardis non-stoppingly, it's his home, Dean: "I see, so it's like Impala"
 
 can't land the Tardis in 1938 because too much time distortion there, like trying to land a plane in a blizzard, even River couldn't do it. River gets there by Vortex Manipulator, less bulky than a Tardis, a motorbike through traffic (the whole city is time locked, but Cas can fly there, like running man in the traffic)
 
