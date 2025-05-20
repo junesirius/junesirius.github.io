@@ -1084,7 +1084,7 @@ They are in the middle of a graveyard, countless tombs and stones lying around t
 
 "Where are we?" Amy asks.
 
-"2012, back where we started." The Doctor tells them.
+"2012, back where we started." the Doctor tells them.
 
 <br>
 
@@ -1092,29 +1092,41 @@ They are in the middle of a graveyard, countless tombs and stones lying around t
 
 "You have a time machine, and it goes anywhere but 1938? How does that work?" Dean asks sharply.
 
-"I don't know! Something is wrong with that time, I think probably too much Weeping Angels there, the time flux is all scrambled." The Doctor finishes with the fire extinguisher, changing to use his sonic screwdriver, beaming at the blue box the same way he sonics the cherub statues earlier.
+"I don't know! Something is wrong with that time, I think probably too much Weeping Angels there, the time flux is all scrambled." The Doctor finishes with the fire extinguisher, changing to use his sonic screwdriver, beaming at the blue box the same way he pointed at the cherub statues earlier.
 
-"And what's with the blue box?" Dean peeks through the door, finding the inside is just the same space he stayed briefly before. He walks around it, staring at the letters "Police Box" on top of the door. "It's smaller on the outside."
+"And what's with the blue box?" Dean peeks through the door, finding the inside is just the same space he stayed briefly before. He walks around it, staring at the letters "Police Box" on top of the door. The inside is the time-traveling spaceship he fantasied, but the outside just looks like a 50s police phone box. Dean can't say he's not disappointed. "It's smaller on the outside."
 
 The Doctor rolls his eyes at him. "That's a first, people usually say 'bigger on the inside'."
 
 "Same thing." Dean mumbles.
 
+"It's a disguise. I like it, so I kept it, problem?" the Doctor cocks his head.
 
+"Or it might be a malfunction in the Camouflage Unit and Cloaking Device, probably the chameleon circuit has broken down?" Cas suggests kindly.
+
+Dean wiggles his brows, "How about that?"
+
+The Doctor stares them down. "Shut up." he says, turning back to the Tardis.
+
+He touches the charred painting on its exterior, his movement gentle and loving. Dean can hear him murmur quietly: "I'm so sorry, Baby. Take your time, rest up. We'll find another way."
+
+Dean raises one eyebrow, amused.
+
+Cas whispers at Dean's ear: "I think she's like his Impala."
+
+Dean turns to him sharply, "I'm not like that --"
+
+Cas gives him a pointed look.
+
+Dean thins his lips, feeling his cheek a little heated. "Shut up."
 
 
 
 ### draft notes
 
-Doctor to burned Tardis, gently: "I'm so sorry baby. Take your time, rest up. We'll find another way." Doctor talk about Tardis non-stoppingly, lovingly, it's his home, Dean notice he keep referring it as She, he can relate: "I see, so it's like Impala" (or Cas to Dean)
-
-when leaving the Tardis, take another look, Dean: "smaller on the outside" Cas: "it says 'Pull to open', why do you push?"
-
-Doctor uses hammer to "fix" Tardis, Cas: "No wonder she's pissed at you" "You could hear her?" "I speak all languages in the universe"
-
 Dean: "I might have an idea what's happening here" (intro the book)
 
-Cas: "how do you where to look" how does Doctor/Amy know where to find Rory: not the book, sonic screwdriver detect strange temporal energy surge, they follow the signal, worry Rory might be in trouble, turns out the worry is real
+Cas: "how do you know where to look" how does Doctor/Amy know where to find Rory: not the book, sonic screwdriver detect strange temporal energy surge, they follow the signal, worry Rory might be in trouble, turns out the worry is real
 
 about book: "This isn't any old future, it's ours. Once we know what's coming, it's fixed."
 
@@ -1128,9 +1140,15 @@ Doctor: "People assume that time is a strict progression of cause to effect, but
 
 > Doctor/Cas discuss time flux
 >
-> Dean has River's book (mentioned Dean/Cas sacrifice+Amy/Rory farewell (keep it vague), River's broken wrist, gives specific time location)
+> Dean shows River's book (mentioned Dean/Cas sacrifice+Amy/Rory farewell (keep it vague), River's broken wrist, gives specific time location)
 >
 > Cas fly 4 of them to 1938, too many weeping angels there, everyone in danger, Cas power limited because of all the angel/temporal energy
+
+unused cute comments:
+
+about Tardis: Cas: "it says 'Pull to open', why do you push?"
+
+Doctor uses hammer to "fix" Tardis, Cas: "No wonder she's pissed at you" "You could hear her?" "I speak all languages in the universe"
 
 ## Chap 5 The Roman In The Cellar
 
