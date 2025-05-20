@@ -2199,7 +2199,7 @@ originally from S03E08 Sam's Christmas gift for Dean: candy bar and oil, Dean: "
 
 make destiel Christmas, Sam give Cas suggestion of what to give Dean, Cas always make sure there is one for Dean one for the baby so he'd be always be happy
 
-### 237.【Charlie/Jo/Claire】S10E20/21 Amelia&Charlie don't have to die (F/F)【WIP - bang】
+### 237.【Charlie/Jo/Claire】S10E20/21 Amelia&Charlie don't have to die (F/F)
 
 title: 《Wayward Girls》《It's a Cruel World (But I got you)》
 
@@ -2397,9 +2397,23 @@ similar setting but different story：飞来的天使是S4/5时期的卡，卡�
 
 （心理阴影治愈部分灵感来自北麻《Into the Fire》）
 
-### 254.【Benny/Garth】S15E09 where is Benny【WIP】
+### 254.【Benny&Garth】S15E09 where is Benny【WIP - bang】
 
-After S8 Benny get sent back to Purgatory, what happened to him. not dead. but why when S15E09 Dean asked about him in Purgatory, the monsters/vampires said so, must have lied, but why. Benny actually get power in Purgatory? like how Rowena rule the Hell, would be nice to have Benny rule Purgatory, but he isn't really the ruler type, power isn't what he want, did he find Andrea? is there sea in Purgatory where they can continue being vampirate? would he be disappointed/upset about Andrea turn on him back on Earth so move on from her? find Garth instead after Garth died of old age as werewolf?
+tag: werepire (ship name)
+
+After S8 Benny get sent back to Purgatory, what happened to him. not dead. but why when S15E09 Dean asked about him in Purgatory, the monsters/vampires said so, must have lied, but why. Benny actually get power in Purgatory? like how Rowena rule the Hell, would be nice to have Benny rule Purgatory (Dean: "he probably runs Purgatory by now" is true), but he isn't really the ruler type, power isn't what he want, did he find Andrea? is there sea in Purgatory where they can continue being vampirate? would he be disappointed/upset about Andrea turn on him back on Earth so move on from her? find Garth instead after Garth died of old age as werewolf?
+
+Outline:
+
+Benny&Garth: stranger-to-friend (stay friendship, not slash); background destiel
+
+say S14E10 Garth didn't survive Michael, goes to Purgatory already (talking about coming pubs' name Sam and Castiel)
+
+S08E19 Benny stay in Purgatory, struggle a bit, a legend in Purgatory for escaping and then coming back, climbs up in power in Purgatory by killing attacking vampires and leviathans, learn the best hunting skill from Dean (the ultimate predator in Purgatory to survive/hunt for a year), Benny survive 6 years until meeting Garth
+
+Garth appear and help Benny (or other way around), the two work together, bicker a bit ("I got no beef with you, mate" "I know, we're not living in Twilight"), turn friends
+
+S15E09 time, leviathan lies, Benny find Dean, save him from some attacking monsters, Dean ask him to find Cas (Benny: "you lost your angel again?"), Benny rally his men; Garth find Cas, save him from leviathan, destiel reunite, Benny/Garth/Dean catch up briefly, bring them back through Michael's portal, continue to live & save the world together
 
 ### 255.【Crowley】S09E11 search the ocean for first blade
 
@@ -2737,7 +2751,7 @@ groundhog day where the whole worlds repeat around Sam, everyone else only lives
 
 (sabriel thought:) Gabe knows the only way for Sam to think of anything other than his brother is when Dean is gone, so this is Gabe's version of taking Dean out of chess board to interact with Sam alone. So that Wednesday after the looping Tuesday where Dean is dead, for months, all Sam can think about is to revenge and capture Gabe, this is the only time Sam is wholeheartedly thinking about Gabe (even if it's hate), Gabe finally has his attention (as this is what Gabe wants: be noticed ← he's proud of his ability to hideout in the human crowd and not get noticed, but once a while he also wants to get noticed and feel good about it, so this is Gabe's messed-up love-hate version of getting someone (Sam)'s full attention, because growing up this is something Gabe never gets)
 
-### 271.【Charlie/Alicia】Transcendence/AI（F/F）
+### 271.【Charlie/Alicia】Transcendence/AI（F/F）【WIP - bang】
 
 《What Is Life》
 
