@@ -186,7 +186,7 @@ Doctor: "Amy!!!" Too late. Now, on Rory and Amy falling, in terrible, tragic slo
 5. ~~Night In The Statue Park~~
 6. The Gargoyle
 7. ~~The Skinny Guy ← start here~~
-8. Julius Grayle
+8. ~~Julius Grayle~~
 9. ~~Calling The Doctor~~
 10. ~~The Roman In The Cellar~~
 11. ~~Death At Winter Quay~~
@@ -313,6 +313,10 @@ This story is heavily inspired by and adapted from Doctor Who's S07E05 episode w
 The music that accompanies the creation of this story is Sting's 1987 song "English man in New York," also used in the original show.
 
 ## Editing notes
+
+Chap.4: the bickers might be too lightheaded? situation is urgent, Amy should be really worried about Rory, less joke and less laugh
+
+Chap.4: double check the change of relationship between every character, how do they change from untrusted strangers to acquittance/friends
 
 # Main
 
@@ -778,11 +782,9 @@ Dean relaxes a little, blinking a few times to soothe the dryness in his eyes.
 
 > (Dean POV)(Act 2 start point)
 >
-> Dean&Cas run into Doctor/Amy in Central Park (self-intros, Doctor/Cas discuss time flux)
+> Dean&Cas run into Doctor/Amy in Central Park (self-intros, bickers), Tardis inside tour
 >
-> Dean has River's book (mentioned Dean/Cas sacrifice+Amy/Rory farewell (keep it vague), River's broken wrist, gives specific time location)
->
-> Try travel by Tardis (inside tour) but fail, Cas fly 4 of them to 1938, too many weeping angels there, everyone in danger, Cas power limited because of all the angel/temporal energy
+> Try travel by Tardis but fail, Cas fly 4 of them to 1938
 
 ### Act 1
 
@@ -800,15 +802,15 @@ The man waves it around like a kid showing off a new toy that only he has, and h
 
 "What did you do to them?" Cas asks from Dean's side.
 
-"Absorbed the temporal energy they just ate, that should starve them weak for a few minutes before their next feed. They might come back any time though." The man tilts the sparkling pen-looking thing -- sonic screwdriver, he said? -- and flashes it a few times, frowning as if he's reading something from a tiny screen on its body. "I think they just absorbed energy from at least two people, maybe three."
+"Absorbed the temporal energy they just ate, that should starve them weak for a few minutes before their next feed. They might come back any time though." The man tilts the sparkling pen-looking thing -- sonic screwdriver, he said? -- and flashes it a few times, frowning at it as if he's reading something from a tiny screen on its body. "I think they just absorbed energy from at least two people, maybe three."
 
 "Who are you?" Dean snaps.
 
 The man looks up from the screwdriver, meeting his eyes, waving a hand roughly in their direction, uttering rapidly, "Hello, I'm the Doctor, I'm a Time Lord. This is Amy, she's Scottish. We are time travelers. Any questions? No? Good. Now, where is Rory?"
 
-Dean looks him up and down. The skinny man is about his height, his hair as ruffled as Cas's in his early days, wearing a shirt and a brown tweed jacket. Dean's gaze land on his collar, "I gotta ask, bowtie, really?"
+Dean looks him up and down. The skinny man is about his height, his hair as ruffled as Cas's in his early days, wearing a shirt and a brown tweed jacket. Dean's gaze land on his collar, "I gotta ask, bow tie, really?"
 
-The Doctor widens his eyes a little, straightening his bowtie self-consciously, "Bowtie is cool."
+The Doctor widens his eyes a little, straightening his bow tie self-consciously, "Bow tie is cool."
 
 Dean and the girl -- Amy -- chuck at the same time.
 
@@ -820,7 +822,7 @@ The Doctor does the same, "How?" A pause, then narrows his eyes, "You are not hu
 
 Cas answers flatly, holding the gaze, "Neither are you."
 
-Dean raises his voice, "You know them?"
+Dean raises his voice slightly, "You know them?"
 
 Cas breaks the gaze to turn his head to Dean, "They are aliens. Gallifreians, specifically. But they call themselves Time Lords -- it sounds better. They have two hearts and regeneration abilities, basically twelve lives for each one of them." He looks back at the Doctor, "Did I miss anything?"
 
@@ -834,13 +836,13 @@ Dean rolls his eyes, "Any other aliens? Lizard-people are real?"
 
 Cas answers, "A lot. They're actually called Silurian, local on Earth, and Earth is not the only planet with life forms..."
 
-Amy calls over their voices, "Guys, focus! Not the time!"
+Amy clears her throat, "Guys, focus! Not the time!"
 
 Dean turns to her and says quickly, "Sorry."
 
 Cas says the same. "Sorry."
 
-The girl with red hair has an attractive face and a very strong commanding charisma that people might just tend to listen to her without knowing why, Dean notices.
+The girl with red hair has an attractive face and a very strong commanding charisma that people might just tend to listen to her without knowing why, Dean notices. Himself included.
 
 Amy asks, "Where is Rory?"
 
@@ -912,7 +914,7 @@ They can't hear any other footsteps behind or around them. Not human's, not cree
 
 "You don't trust them?" Cas asks.
 
-"What, you do?" Dean retorts, "He's an alien with two hearts and a funny bowtie!"
+"What, you do?" Dean retorts, "He's an alien with two hearts and a funny bow tie!"
 
 "And I'm a celestial being with wings and no body." Cas says flatly.
 
@@ -922,7 +924,7 @@ Cas lets out a stifled chuckle, "Yours, of course."
 
 Dean is not convinced, "We don't even know what that 'Tardis' thing is."
 
-Just as he speaks, a loud wheezing sound echoes from the sky. The air around them ripples like bad animation, turning from open outdoor space to a dimly lit indoor space with green and blue lightings.
+Just as he speaks, a loud metallic thrumming sound echoes from the sky. The air around them ripples like animation, turning from open outdoor space to a dimly lit indoor space with green and blue lightings.
 
 A cheerful voice sounds up behind them, "Ladies and gentlemen, welcome aboard the Tardis."
 
@@ -936,9 +938,9 @@ They look around.
 
 The Doctor busies himself around a central structure that Dean's pretty sure is where all the engines and control units are -- if any of the sci-fi movies has any truth in them. A huge, bright pumping pillar with glass spheres vibrate up and down, making loud whirring sound -- that's the sound they heard when the whole thing just materialized itself around them.
 
-Dean watches the structure moving, walking slowly toward the console table and the Doctor running around it. "Does all your toys have to make funny noises?"
+Dean watches the structure moving, walking slowly toward the console table and the guy running around it. "Do all your toys have to make funny noises?"
 
-Amy can't hold back a small laughing sound on the other side of the table.
+Amy can't hold back a small laughing sound from the other side of the table.
 
 The Doctor rolls his eyes at Dean, offended, "This is Tardis! Of course she has to make this beautiful sound! What do you know about 'Time and Relative Dimension in Space'?"
 
@@ -946,7 +948,7 @@ Dean stutters, "Ugh, come again?"
 
 The Doctor grins, "Like I thought. If you don't know anything about her, don't make rude comments! She might be upset."
 
-"She might be upset if you keep the brake on when landing. That's where the noise comes from." Cas follows Dean up the steps around the console, pointing at a handle on the desk. "Type Forty model's common problem."
+"She might be upset if you keep the brake on when landing. That's where the noise comes from." Cas follows Dean up the steps around the hexagon-shaped console table, pointing at a handle on its face. "Type Forty model's common problem."
 
 The Doctor narrows his eyes at Cas a second time of the day. He unleashes the handle to the opposite direction, the noise quiets just like Cas said. "What are you?" The Doctor asks cautiously, "I don't think I've ever met your kind before."
 
@@ -954,9 +956,9 @@ The Doctor narrows his eyes at Cas a second time of the day. He unleashes the ha
 
 Dean adds, "He's with me." He squares his shoulders, feeling oddly proud.
 
-The Doctor eyes both of them carefully, as if only now does he properly register them. "Relative of the Weeping Angels?" He asks, not in the most friendly tone.
+The Doctor eyes both of them carefully, as if only now does he properly register them. "Relative of the Weeping Angels?" He asks, probing.
 
-"I don't think so." Cas says, "I've only known them the first time today."
+"I don't think so." Cas answers frankly, "I've only known them the first time today."
 
 "But you know a lot of things, you know about the Time Lords and Tardis." the Doctor purses his lips. "I don't like it."
 
@@ -966,15 +968,15 @@ Amy whispers to Dean, "Don't mind him. He's just jealous, he doesn't like *not* 
 
 Dean grins, putting a hand on Cas's shoulder. "Alright, you two, enough peacock time. What are we all doing in here? Thanks for not leaving us behind, by the way, I wasn't sure about that."
 
-The Doctor rolls his eyes at him, "Of course I wouldn't do that, what do you take me for?"
+The Doctor rolls his eyes again, "Of course I wouldn't do that, what do you take me for?"
 
 Dean shrugs.
 
-Amy answers on the Doctor's behalf, "You said the angels sent Rory back, and we think the cherubs don't have enough power to send him too far back, so we might still have a chance to find him and save him -- good thing that Tardis is a time machine. So we only need to find out exactly when and where, Doctor thinks he can trace back the temporal signal, but it takes some time to calculate."
+Amy answers on the Doctor's behalf, "You said the angels sent Rory back, and we think the cherubs don't have enough power to send him too far, so we might still have a chance to find him and save him -- good thing that Tardis is a time machine. So we only need to find out exactly when and where, Doctor thinks he can trace back the temporal signal, but it takes some time to calculate."
 
 She gestures to the console panel where the sonic screwdriver is plugged in, a display screen on top of it showing some running patterns, presumably working like a computer.
 
-Dean looks at the screen for a few moments, realizing he can't read a thing -- they're not even in English, the patterns with circles and lines are as beautiful as stars but gives no clue. He tilts his head and whispers to Cas, "It's like watching Sammy do the research, all the nerdy science stuff."
+Dean looks at the screen for a few moments, realizing he can't read a thing -- they're not even in English, the patterns with circles and lines are as beautiful as stars and planets but give no clue. He tilts his head and whispers to Cas, "It's like watching Sammy do the research, all the nerdy science stuff."
 
 Cas hums softly, showing a fond smile at the mention.
 
@@ -986,31 +988,39 @@ Dean rolls his eyes, "What, you drink tea instead?"
 
 Amy notices his earlier words, "You think it's a ship?"
 
-Dean looks around the spherical space they're in -- which has a ton of round decorations on the curved walls and the ceiling as if they're inside a huge sphere at least three floors tall, he wonders if anyone on the Bethesda Terrace would have noticed this probably enormous alien-looking, time-travel space ship, but he decides if their alien techniques are as advanced as he shows, they're probably invisible.
+Dean looks around the spherical space they're in -- which has a ton of round decorations on the curved walls and the ceiling as if they're inside a huge sphere at least three floors tall, he wonders if anyone on the Bethesda Terrace would have noticed this probably enormous alien-looking spaceship, but he decides if their alien techniques are as advanced as the rest of it shows, they're probably invisible.
 
-Dean nods at the surrounding to make a point and looks back at Amy, "A time-travel space ship, yeah? What else can it be?"
+Dean nods at their surrounding to make a point and looks back at Amy, "A spaceship, yeah? What else can it be?"
 
-Amy winks with a mysterious smile, "Just wait till you see the outside."
+Amy winks with a mysterious smile, "It's a time machine. It can go to all the time and all the place in the universe."
 
-Dean turns to Cas in confusion. But even Cas has a mischief curve on the tip of his lips.
+"A time-travel spaceship. A timceship!" Dean announces the newly-invented nickname proudly.
 
-Dean rolls his eyes at Cas, "Not you too."
+The Tardis makes an unusual wheezing sound right then.
 
-The curve widens slightly on Cas's lips, and he says, "You can see for yourself once we're outside. Don't want to spoil the fun part."
+"She doesn't like it, don't ever say that again!" The Doctor says without looking away from the view-screen.
 
-Dean pretends a long sigh, turning back to Amy, "You remind me of someone. She's like a sister to me, also red hair, I think you'd like her if you stick around longer."
+"That can't be true. Wait, can she really hear me?" Dean turns to Cas in confusion. But even Cas has a mischief curve on the tip of his lips.
 
-Amy smiles small, giving him an appreciated nod, stepping toward one of the round structure on the wall. She presses on some of them, as if looking for the correct the password combination to open something. "I think River has some stock somewhere --"
+Dean glares at Cas unbelievably, "Not you too."
 
-The Doctor looks up at her, confused, "What do you --"
+The curve widens slightly on Cas's lips, and he says, "Well, I speak all languages in the universe, including Tardis'."
 
-That's when Amy successfully opens the stock, showing a hidden cabinet of delicate bottles of liqueurs.
+Dean pretends a defeated sigh, turning back to Amy, "You remind me of someone. She's like a sister to me. Also red hair. I think you'd like her if you stick around longer. Now, drink?"
 
-Dean admires the collection, grinning, "Look at that." All the top-shelf fine collections, nothing he'd spot in places they'd usually go -- in fact, now that he thinks about that, being on some alien's ship, these might not be from Earth.
+Amy smiles small, giving him an appreciated nod, stepping toward one of the roundels on the wall. She presses on some of them, as if looking for a correct password combination to open something. "Sorry, River, I think there're some stash somewhere --"
+
+The Doctor looks up at her, confused, "What do you mean? There's nothing there --"
+
+That's when Amy successfully opens the hidden cabinet, showing a secret stash of delicate bottles of liqueurs.
+
+The Doctor is speechless for a second -- apparently didn't know it exist until now. "When did -- It's *my* Tardis! You can't just make random adjustment like that -- ahh, River!"
+
+Dean admires the collection, grinning, "Look at that." All the top-shelf fine collections, nothing he'd spot in places they'd usually go -- in fact, now that he thinks about that, given that they're on some alien's spaceship, these might not even be from Earth, and considering the time travel, they are most certainly not from current time, which means the drinks could have ages and ages to brew properly.
 
 He pours himself a glass, appreciating the flavor, "Whoever this River dude is, he certainly has taste."
 
-"She --" Amy emphasizes, "is my daughter."
+"*She* --" Amy emphasizes, "is my daughter."
 
 Dean is taken aback a little, mentally measuring Amy's age, trying to do the math. "Is she even to the age?"
 
@@ -1022,17 +1032,17 @@ Dean stares at him, then looks back and forth between the Doctor and Amy. "Wait,
 
 "Time travel is never easy, isn't it?" Cas suddenly comments. He's been watching them quietly for some time. "Always so much regrets in the past you'd want to change, but you just couldn't save everyone, and you can't change the fix points even if you can travel back in time."
 
-The Doctor gives him a deep look. "Indeed." He says. The words are simple but his tone is rattled.
+The Doctor gives him a deep look. "Indeed." He says with a low voice. The word is simple but his tone is fractured.
 
 Their eyes meet, both as aged as the length of the universe itself. There is a moment of understanding.
 
-Dean watches them, suddenly realizes with more clarity than ever -- Cas is old, real old, as old as the Earth and Sun and the beginning of all the Time and Universe. And here he is, standing in the room, walking and talking. That Doctor has probably seen just as much time and universe to have eyes as sad and deep. He swallows. He's just a human.
+Dean watches them, suddenly realizes with more clarity than ever -- that Cas is old, really old, as old as the Earth and Sun and the beginning of all the Time and Universe. And here he is, standing in the room, wearing a trench coat, walking and talking. That Doctor has probably seen just as much time and universe to have eyes as sad and deep. He swallows. He's just a human.
 
 Dean takes a gulp at the drink. The liqueur smooths down his throat, but it's still dry.
 
-"You lost someone, didn't you?" He asks.
+"You lost someone, didn't you?" He asks. The question slips out of his tongue without permission.
 
-The Doctor shoots him a pained look. "I'm hoping not anymore." he says, and his eyes linger on Amy's back for a moment too long.
+The Doctor shoots him a pained look. "I'm hoping not anymore." he says simply, his eyes lingering on Amy's back for a moment too long.
 
 The four of them fall quiet for a brief moment, only hearing the tiny tinkling sound from the Tardis. And then it beeps loudly, with a red flashing sign.
 
@@ -1040,31 +1050,31 @@ They jump to their feet toward the console.
 
 "That doesn't look good." Dean comments. Whatever it is, red flashing thing is never a good thing.
 
-The Doctor looks closely, Cas stands next to him, reading the screen.
+The Doctor looks closely, Cas stands next to him, reading the same screen.
 
 "What does it say?" Amy urges, "Did it find Rory?"
 
-"April the third, 1938, old-town New York" Cas reads the message, frowning.
+"April the third, 1938, old-town New York." Cas reads the message, frowning.
 
 Dean claps his hands, "Good, we have the time and location, let's go. What are we waiting for?"
 
-The Doctor unplugs the sonic screwdriver from the control panel, beaming its head toward the screen. The familiar whirring sound echoes again, the floor feels bumpy like airplane in turbulence. Then the red warning screams louder, and the floor they're standing on start shaking violently in all directions. The lighting inside the whole space blink on and off as the floor shakes, turning to a dark red color.
+The Doctor unplugs the sonic screwdriver from the control panel, beaming its head toward the screen. The familiar metallic whirring sound echoes again, the floor bumping like airplane in turbulence. Then the red warning screams louder, and the floor they're standing on start shaking violently in all directions. The lighting inside the whole space blink on and off as the floor wobbles, turning to a dark red color. The color of blood and danger.
 
 Amy and Dean have to grab the closest handrail to steady themselves, the Doctor and Cas lean on the console.
 
 The Doctor yells over the loud emergency sound. "She doesn't let us land. It's like a storm blizzard out there. Hang on."
 
-Cas puts both his hands on the metal handle he pointed out earlier -- the brake, apparently. The shaking eases for a few seconds, but almost immediately turning into a sideward spinning. All of them fall to the floor; the handle is let go, shifting up and down rapidly on its own.
+Cas puts both his hands on the metal handle he pointed out earlier -- the brake, apparently. The shaking eases for a few seconds, but almost immediately turning into a sideward spinning. All of them fall to the floor, swinging toward one side of the wall; the handle is let loose, shifting up and down rapidly on its own.
 
-The Doctor takes out a hammer from underneath the console, striking on the surface. "This usually works!" he yells.
+The Doctor stretches his arm to reach for a hammer from underneath the console, striking on the surface. "This usually works!" he shouts at the frantic central control unit, "Come on, you sexy thing! You can do it!"
 
 "You are making it worse!" Cas yells back.
 
-The console makes an extremely loud explosion sound, together with a strong burning smell and dark smoke bursting from the burned control, the brake handle flies to the ceiling and lands on the floor in two pieces.
+The console makes an extremely loud explosion sound, followed by a strong burning smell and dark smoke bursting from the fried panel, the brake handle flies to the ceiling and lands on the floor in two pieces.
 
 The whirring sound slows down, so does the spinning wall. They can do nothing but to grasp whatever they hold on to for their dear lives.
 
-Dean clutches the handrail with whitened knuckles, thinking how bad this idea is to land an alien ship. He doesn't even like to take airplanes, why does he enter a spaceship which doesn't even have a seatbelt.
+Dean clutches the handrail with whitened knuckles, thinking how bad this idea is to board an alien ship. He doesn't even like to take airplanes, why does he ever enter a time-travel spaceship that doesn't even have a seatbelt.
 
 Amy falls not far from him, clinging to the same handrail as he does. In the first bout of spinning and crashing, Amy slipped right near his side. So Dean has enough of distraction trying to give the lady a soft landing to not completely freak out.
 
@@ -1072,9 +1082,9 @@ And then the floor comes to rest. So are the spinning vibrating spherical things
 
 "Out! Out!!" The Doctor dashes to the door, pulling it wide, urging all of them out. In his hand, there is a fire extinguisher.
 
-Dean and Amy rush out of the door, Cas follows closely after them. The Doctor yells at the control panel: "Extractor fans on!!" The loud noise of fans rumbles to life on his command.
+Dean and Amy rush out of the door, Cas follows closely after them. The Doctor yells at the control: "Extractor fans on!!" The loud noise of fans rumbles to life on his command.
 
-"What the hell is that?" Dean demands, stumbling out, coughing violently because of the smoke, catching himself on the knees. Cas hurries toward him, whispering to ask if he's hurt, and Dean waves him off because he's fine.
+"What the hell was that?" Dean demands, stumbling out, coughing violently because of the smoke, catching himself on the knees. Cas hurries toward him, whispering to ask if he's hurt, and Dean waves him off because he's fine.
 
 "1938, we just bounced off it." The Doctor pokes his head out of a blue box, white foams and dark smoke flying in and out of the opened door.
 
@@ -1088,19 +1098,17 @@ They are in the middle of a graveyard, countless tombs and stones lying around t
 
 <br>
 
-### Act 3
-
 "You have a time machine, and it goes anywhere but 1938? How does that work?" Dean asks sharply.
 
 "I don't know! Something is wrong with that time, I think probably too much Weeping Angels there, the time flux is all scrambled." The Doctor finishes with the fire extinguisher, changing to use his sonic screwdriver, beaming at the blue box the same way he pointed at the cherub statues earlier.
 
-"And what's with the blue box?" Dean peeks through the door, finding the inside is just the same space he stayed briefly before. He walks around it, staring at the letters "Police Box" on top of the door. The inside is the time-traveling spaceship he fantasied, but the outside just looks like a 50s police phone box. Dean can't say he's not disappointed. "It's smaller on the outside."
+"And what's the deal with the blue box?" Dean peeks through the door, finding the inside is just the same space he stayed briefly before. He walks around it, staring at the letters "Police Box" on top of the door. The inside is the time-traveling spaceship he fantasied, but the outside just looks like a very English-looking police phone box from 50s. Dean can't say he's not disappointed. "It's smaller on the outside."
 
 The Doctor rolls his eyes at him. "That's a first, people usually say 'bigger on the inside'."
 
 "Same thing." Dean mumbles.
 
-"It's a disguise. I like it, so I kept it, problem?" the Doctor cocks his head.
+"It's a disguise. I like it, I keep it, problem?" the Doctor cocks his head.
 
 "Or it might be a malfunction in the Camouflage Unit and Cloaking Device, probably the chameleon circuit has broken down?" Cas suggests kindly.
 
@@ -1108,19 +1116,85 @@ Dean wiggles his brows, "How about that?"
 
 The Doctor stares them down. "Shut up." he says, turning back to the Tardis.
 
-He touches the charred painting on its exterior, his movement gentle and loving. Dean can hear him murmur quietly: "I'm so sorry, Baby. Take your time, rest up. We'll find another way."
+He fondles the charred paint on its exterior, his touch gentle and loving. He presses his forehead on the doorframe, Dean can hear him murmur quietly: "I'm so sorry, Dear. Take your time, rest up. We'll find another way."
 
 Dean raises one eyebrow, amused.
 
-Cas whispers at Dean's ear: "I think she's like his Impala."
+Cas whispers at Dean's ear: "I think Tardis is like his Impala."
 
 Dean turns to him sharply, "I'm not like that --"
 
 Cas gives him a pointed look.
 
-Dean thins his lips, feeling his cheek a little heated. "Shut up."
+Dean stutters, his cheeks heated. "Shut up."
 
+Amy paces up and down the field in the graveyard, nervousness radiating into the air. "1938, 1938. There must be a way to go there, we can't just leave Rory there. Doctor? Come on, come up with some brilliant ideas, like you usually do."
 
+The Doctor runs a hand through his hair, mumbling, "I have two, but one of them requires a Vortex Manipulator, which I don't have, because River took it from me after the Pandorica, which leaves only one. But I really, really don't like it."
+
+The three of them wait for him to spill out, but the Doctor hesitates.
+
+Amy snaps, "What is it?"
+
+The Doctor looks at her sheepishly, "We can let the Angels touch us and send us back."
+
+"Would that work?" Amy asks, unafraid.
+
+"I don't know. They might send us to different times, I might never find you or Rory again. That's what I'm afraid of." The Doctor says in a pained voice.
+
+"But that's our only chance of finding Rory, right?" Amy glances around, already looking for the nearest Weeping Angel statue she can use.
+
+"Amy --" The Doctor pleas quietly.
+
+Cas chimes in suddenly, "There is another way."
+
+"Cas, no --" Dean knows what's in his mind immediately, holding out a hand trying to stop Cas.
+
+Cas steps toward Amy, "I can fly us there."
+
+The Doctor studies him, "Then why don't you say so earlier?"
+
+Dean answers for him, "Because it might kill him."
+
+"It doesn't matter." Cas keeps his eyes on Amy, not meeting Dean's gaze on his back.
+
+"'Course it does!" Dean snaps, "Cas, damnit! You said Naomi might find you and do whatever horrible things to you!"
+
+"Or maybe not. If we're quick enough, go there and back in a blink, she might never notice." Cas retorts, holding out a hand toward Amy. "I can help."
+
+Amy glances between Cas and Dean, then smiles at Cas, "You really are an angel, aren't you?"
+
+Cas smiles back, "I try to be."
+
+Dean sighs loudly, easing toward them. "I'll go too. One more person, should find him quicker."
+
+The Doctor steps into the small circle they formed around Cas, as well, following what the other two are doing, putting his palm on the hand Cas holds out.
+
+He winks at the group, "Well then -- Geronimo!" 
+
+<br>
+
+### draft notes
+
+unused cute comments:
+
+about Tardis: Cas: "it says 'Pull to open', why do you push?"
+
+Doctor uses hammer to "fix" Tardis, Cas: "No wonder she's pissed at you" "You could hear her?" "I speak all languages in the universe"
+
+on the Tardis console: buttons, handles, sliders, keyboards, displays, trumpet, glass floor, power cables, electrical lines; all sorts of toys. not really keyboards, old-style typewriter. Dean can't help touching them, Doctor: "Don't touch anything" Dean looks disappointed, taking his hand back. But Cas sees he still tries to press on the button closest to him, it blinks blue a few times, but does nothing else. Dean looks like a happy kid with a new toy.
+
+## Chap 5 Julius Grayle
+
+> (Dean POV)(Act 2 plot point 1)
+>
+> 4 of them arrive 1938, too many weeping angels there, everyone in danger, Cas power limited because of all the angel/temporal energy
+>
+> Doctor/Cas discuss time flux
+>
+> Dean shows River's book (mentioned Dean/Cas sacrifice+Amy/Rory farewell (keep it vague), River's broken wrist, gives specific time location)
+>
+> all confront Julius Grayle, meet River, cross introductions
 
 ### draft notes
 
@@ -1138,23 +1212,17 @@ Dean: "Let me get this straight. You save the universe but only save the UK part
 
 Doctor: "People assume that time is a strict progression of cause to effect, but actually, from a non-linear, non-subjective viewpoint, it's more like a big ball of wibbly-wobbly, timey-wimey stuff." (DW310) (Dean: "That's just so English")
 
+> 4 of them arrive 1938, too many weeping angels there, everyone in danger, Cas power limited because of all the angel/temporal energy
+>
 > Doctor/Cas discuss time flux
 >
 > Dean shows River's book (mentioned Dean/Cas sacrifice+Amy/Rory farewell (keep it vague), River's broken wrist, gives specific time location)
 >
-> Cas fly 4 of them to 1938, too many weeping angels there, everyone in danger, Cas power limited because of all the angel/temporal energy
+> all confront Julius Grayle, meet River, cross introductions
 
-unused cute comments:
-
-about Tardis: Cas: "it says 'Pull to open', why do you push?"
-
-Doctor uses hammer to "fix" Tardis, Cas: "No wonder she's pissed at you" "You could hear her?" "I speak all languages in the universe"
-
-## Chap 5 The Roman In The Cellar
+## Chap 6 The Roman In The Cellar
 
 > (Dean POV)(Act 2 plot point 1)
->
-> 4 confront Julius Grayle, meet River, cross introductions
 >
 > Dean/Amy volunteer to check Rory, Dean protect Amy & zapped away to Winter Quay, meet Rory
 
@@ -1180,7 +1248,7 @@ wrt River/Amy/Rory: father/mother "It's complicated, time travel thing" "Isn't i
 
 Doctor: "timey-wimey detector" (Dean: "I made a better hand-made EMF than that when I was ten.")
 
-## Chap 6 Night In The Statue Park
+## Chap 7 Night In The Statue Park
 
 > (Dean POV)(Act 2 realization)
 >
@@ -1198,7 +1266,7 @@ why infected/weeping angel sends people back/touch them: (Cas's theory) maybe no
 
 why weeping angels everywhere, Cas back from Purgatory only a week ago: time travel, if they exist at one point of time, they're in all the time, that's why no one knows where they come from: chronologically they didn't exist a week ago, that's the ground zero, but ever since then, they spread to the whole time flux
 
-## Chap 7 Calling The Doctor
+## Chap 8 Calling The Doctor
 
 > (Cas POV)(Act 2 mid-point, moment of truth)
 >
@@ -1218,7 +1286,7 @@ Amy: "Husband, run!" River: "Husband, shut up!" Dean: (swallow) others: (amused,
 
 Reuse River's confession lines when she doesn't recognize 12th Doctor in S09E13 "The Husbands of River Song", loving Doctor is like loving stars themselves, doesn't expect sunset to admire you back (Dean's the same with Cas): "The Doctor does not and has never loved me. I'm not lying. But **whoever said he loved me back? He's the Doctor. He doesn't go around falling in love with people.** And if you think he's anything that small or that ordinary, then you haven't the first idea of what you're dealing with. God knows where he is now but I promise you he's doing whatever the hell he wants and not giving a damn about me. And **I'm just fine with that.** **When you love the Doctor, it's like loving the stars themselves. You don't expect a sunset to admire you back.** And if I happen to find myself in danger, let me tell you, **the Doctor is not stupid enough, or sentimental enough, and he is certainly not in love enough to find himself standing in it with me!**" "Hello, sweetie." "You are so doing those roots." "What, the roots of the sunset?" "Don't you dare." "I'll have to check with the stars themselves." "Oh, shut up."
 
-## Chap 8 The Angels Take Manhattan
+## Chap 9 The Angels Take Manhattan
 
 > (Dean POV)(Act 2 plot point 2+Act 3 twist)
 >
@@ -1240,7 +1308,7 @@ Dean has to stare at Cas too when Cas is weeping angel. Not blinking, stare save
 
 Cas is a "good" weeping angel with them (same as when with normal asshole angels) → deliberately turn off the light and/or close their eyes, and let Cas be free and move, Doctor/etc. freak out, Cas take care of other bad angels, Dean win the bet because he has faith (BAMF Cas)
 
-## Chap 9 Death At Winter Quay
+## Chap 10 Death At Winter Quay
 
 > (Dean POV)(Act 3 climax)
 >
@@ -1264,7 +1332,7 @@ Dean's strongest reason to sacrifice instead of Amy/Rory: You have each other, I
 
 "To save you, I could do anything." -- Rory/Dean
 
-## Chap 10 Last Farewell
+## Chap 11 Last Farewell
 
 > (Dean POV)(Act 3 wrapping up)
 >
