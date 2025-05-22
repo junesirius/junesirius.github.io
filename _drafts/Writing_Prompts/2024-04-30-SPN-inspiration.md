@@ -2397,7 +2397,7 @@ similar setting but different story：飞来的天使是S4/5时期的卡，卡�
 
 （心理阴影治愈部分灵感来自北麻《Into the Fire》）
 
-### 254.【Benny&Garth】S15E09 where is Benny【WIP - bang】
+### 254.【Benny&Garth】S15E09 where is Benny
 
 tag: werepire (ship name)
 
@@ -3057,4 +3057,40 @@ bc Cas is working with Dean, he's not away with Metatron, so he's not fallen to 
 
 to save Dean, Cas possess him to cure him from inside
 
-### 293.
+### 293.【Anna/Charlie】Charlie's guardian angel（F/F）
+
+(inspired by actress's ins interaction)
+
+canon divergent, S04-10 rewrite (Charlie/Anna POV)
+
+both redheads, similar age, start with good friends then angel revelation?
+
+maybe explicit, bisexual Anna, the only angel with her own body and 20y of real human life memory
+
+If Anna has Charlie by her side when she reveals angel, maybe she can be more like Cas and stays? or break heaven's mind control? destiel parallel version but more lightheaded
+
+If Charlie has Anna as guardian angel, then she won't die in S10, Anna will be there protect her
+
+young dreamy Anna, journalism major college student, born Dec 1985
+
+tech Charlie, orphaned 12y, born Celeste, 1985, same age
+
+start from college? journalism homework find the tech savvy? pre-show history, then S04E09-10 (24y) Anna wakening up and remembering angel identity, when Anna tells Dean about love in human life, she means Charlie
+
+Winchester+apocalypse pull Anna into the hunter/supernatural life, Charlie comes along too bc she can help, the black credit card starts, Dean/Charlie friendship starts (background destiel)
+
+S04E21 brainwashed Cas ask Anna to meet him, Charlie asks her not to, Anna insists (good old relationship with Cas, trust him), Charlie accompanies, knocked out, witness Anna gets taken captive by other angels, Charlie asks for Winchester help, end of S04 apocalypse, Lucifer walks free
+
+Charlie helps S05 beginning half, try to find a way to heaven, Cas gets banished from heaven so can't provide info about Anna, Charlie try suicide to get to Heaven, stopped by Dean/Cas (widow curve? Charlie too bright to be suicidal?)
+
+S05E13 Anna is sent to trick Cas/Dean to kill Mary/John, Charlie comes along, try to reason with Anna, Anna controlled by Naomi, got the command to kill Charlie but she can't, break free from the control (~S08E17 destiel), not killed by Michael, all come back to current timeline
+
+S05-10 Anna/Charlie stay around Winchesters to save worlds, close to them but not all the time, in the life but has life of their own, hunt on their own, help when they can, a little similar to Jody and girls, will know the girl band too → some time around it, get married?
+
+S10 Charlie help with Dean's Mark of Cain, Anna's there too, protect her when the Frankensteins track her down, crack the Mark without Charlie dead
+
+go into S10-15 as they are, happy ever after S15 finale (Anna help save Cas back from the Empty?)
+
+Charlie/Dean's heaven, their angels are all there, one big happy family
+
+### 294.
