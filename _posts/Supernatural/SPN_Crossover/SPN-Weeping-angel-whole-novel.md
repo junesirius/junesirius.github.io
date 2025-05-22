@@ -324,7 +324,7 @@ sonic screwdriver: green light, not blue
 
 ## Chap 1 The Dying Detective
 
-> (trailer)
+> (trailer)(River POV)
 >
 > The trailer scene, similar to original DW trailer, but use River's image, except writing as "Detective" to avoid spoiler
 >
@@ -1196,9 +1196,11 @@ on the Tardis console: buttons, handles, sliders, keyboards, displays, trumpet, 
 
 > (Dean POV)(Act 2 plot point 1)
 >
-> 4 of them arrive 1938, too many weeping angels there, everyone in danger, Cas power limited because of all the angel/temporal energy
+> 4 of them arrive 1938, too many weeping angels there, everyone in danger, Cas power limited bc of all the angel/temporal energy
 >
 > all confront Julius Grayle, meet River, cross introductions
+>
+> Dean/Amy gets sent to cellar where Rory was
 
 It's not the first time Dean get flied around in a wing-trip, but this is certainly the top five most unpleasant journey. He doesn't remember the other times being so dizzy and nauseous. Even worse than the crash landing in the Tardis the very same afternoon earlier.
 
@@ -1382,13 +1384,13 @@ A box of matches are thrown into the place, landing on the floor next to Amy's f
 
 "It's funnier." He grins with teeth, shutting the door. There is the sound of bolts slammed.
 
-The place sink into total darkness.
+The place is drown by total darkness.
 
 <br>
 
 ### draft notes
 
-unused comment:
+unused cute comments:
 
 Dean/Doctor: "Doc" "Don't call me Doc, it's Doctor to you"
 
@@ -1396,19 +1398,25 @@ Dean/Doctor: "Doc" "Don't call me Doc, it's Doctor to you"
 
 > (Amy POV)(Act 2 plot point 1)
 >
-> Dean/Amy forced to go to cellar where Rory was, the match in dark scene, Dean protect Amy & zapped away to Winter Quay, Dean/Amy talk, Dean meet Rory
+> Dean/Amy goes to cellar where Rory was, the match in dark scene, Dean/Amy talk, Dean protect Amy & zapped away to Winter Quay, (Dean meet Rory)
 >
-> Doctor/Cas discuss time flux
+> Amy read River's book (mentioned Dean/Cas sacrifice+Amy/Rory last farewell (keep it vague), River's broken wrist)
 >
-> Amy read River's book (mentioned Dean/Cas sacrifice+Amy/Rory farewell (keep it vague), River's broken wrist, gives specific time location)
+> Doctor/River/Cas discuss time flux
+>
+> chapter end last transition sentence: "Where is Dean/Rory"
 
 Amy strikes a match.
 
 
 
+###### [TBA]
+
 ### draft notes
 
 Amy read from the book that River has to break her wrist
+
+Dean/Amy talks about Doctor vs Rory, Amy's choices, normal life vs adventure, talking about "the other life" and maybe runaway, make Dean think Sam → prepare for ending to understand/call Sam, Dean realize he's angry/jealous/unfair to Sam; Amy talk about feeling, what's love like → prepare for ending confession with Cas, Dean start understand about feeling
 
 Dean: "I might have an idea what's happening here" (intro the book)
 
@@ -1432,15 +1440,17 @@ Doctor: "timey-wimey detector" (Dean: "I made a better hand-made EMF than that w
 
 > (Dean POV)(Act 2 realization)
 >
-> Dean/Rory try to find exit in Winter Quay, surrounded by angels, back away in corridor, notice familiar angel face (Tessa, Inias, Hannah, ~~Samandriel~~), realize infection pattern (phone call Cas? pray? pray send location info?)
+> Dean/Rory try to find exit in Winter Quay, Dean/Rory talk, surrounded by angels, back away in corridor, notice familiar angel face (Tessa, Inias, Hannah, ~~Samandriel~~), realize infection pattern (phone call Cas? pray? pray send location info know about Winter Quay?)
 >
-> discuss weeping angel's motives
+> discuss weeping angel's motives (or move to next chapter)
+>
+> chapter end scene Dean pray to Cas, next chap begin Cas POV receiving prayer
 
 ### draft notes
 
-Dean/Rory talks about feeling, Rory talks about Amy, Dean: "you waited her for two thousand years? Why?" Rory: "Do you have anyone you'd do anything to protect them, save them whatever it takes?" Dean: "I guess" "Then you should know how it feels to leave them behind. I can't do that. So I guarded her." "She wouldn't even know" "It doesn't matter. To save her, I can do anything." "Even condemn the world?" "Hopefully not, but if it means she's saved, maybe then. Not like we haven't done it before" Dean raise eyebrow, Rory: "Long story" (Rory ask about Dean's past story, Dean: "Long story", long story everywhere)
+Dean/Rory talks about feeling, Rory talks about Amy, Dean: "you waited her for two thousand years? Why?" Rory: "Do you have anyone you'd do anything to protect them, save them whatever it takes?" Dean: "I guess" "Then you should know how it feels to leave them behind. I can't do that. So I guarded her." "She wouldn't even know" "It doesn't matter. To save her, I can do anything." "Even condemn the world?" "Hopefully not, but if it means she's saved, maybe then. Not like we haven't done it before" Dean raise eyebrow, Rory: "Long story" (Rory ask about Dean's past story, Dean: "Long story", long story everywhere) Dean mention one year in Purgatory to compare Rory's two thousand years
 
-Dean ask about Rory's family here, Rory mention Brian, topic of family, bury seed of Rory/Amy's final decision of leaving Doctor
+Dean ask about Rory's family here, Rory mention Brian, topic of family → prepare for ending Rory/Amy's final decision of leaving Doctor, and Dean/Sam reunite
 
 why infected/weeping angel sends people back/touch them: (Cas's theory) maybe not to harm them, but asking for help, angels have instinct to heal by touch, so they're looking for touch to self-cure, or they're too lonely, so they capture these humans to keep themselves accompany; (Doctor's theory) they feed on time energy, they capture these human for food source; (Dean's theory) they're and they've always been bastards, so they're just continuing being bastards, want to feed *and* attract more angels and hunters over, so they can spread the disease and get more food; or that's the karma for them, about time they pay for being assholes all these times (which pains Cas to think any of them deserve this bc he can hear the angels' screaming of pain even if they're not really alive as stones)
 
@@ -1450,11 +1460,13 @@ why weeping angels everywhere, Cas back from Purgatory only a week ago: time tra
 
 > (Cas POV)(Act 2 mid-point, moment of truth)
 >
-> River break wrist (fail to change future), Doctor/River's love talk (River thought not loved back), Cas hear & cure River
+> River break wrist (fail to change future), Doctor/River's love talk (River thought not loved back), Cas hear & cure? River
 >
-> Amy use Doctor's device to locate Dean/Rory, 4 of them go save, see room names, split witness old Dean die (Cas uneasy), Amy see old Rory
+> Amy use Doctor's device to locate Dean/Rory (or Dean's prayer), 4 of them go save, see room names, split witness old Dean die (Cas uneasy), Amy see old Rory
 >
 > River/Amy's love talk (Dean/Cas both hear)
+>
+> (keep hinting Cas can hear Angels)
 
 ### draft notes
 
