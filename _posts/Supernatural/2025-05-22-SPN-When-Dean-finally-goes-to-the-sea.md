@@ -17,7 +17,7 @@ Dean figures a third wheel isn't really a good idea. He just nurses a beer, watc
 
 Eileen steals glances at Sam every now and then. And every time Sam catches it, he smiles.
 
-Dean watches the gleamy light in their eyes, and he sips the beer with a small smile of his own. His little brother has become a man and is going to have the life he always wanted. Dean is happy for them, he genuinely is.
+Dean watches the gleaming light in their eyes, and he sips the beer with a small smile of his own. His little brother has become a man and is going to have the life he always wanted. Dean is happy for them, he genuinely is.
 
 "Not like I can hunt alone anymore," Dean says, matter-of-factly. He kneads his right leg around the knee.
 
@@ -43,13 +43,13 @@ He felt like the nameless old hunters he used to see in the Roadhouse -- talking
 
 "Not sure I have one of those," Dean says. He does try to think, but he comes up with nothing.
 
-It's like that time when the Four Horsemen rose from Hell and Famine hit the town. Everyone wanted something, Sam for demon blood, Cas -- and Jimmy -- for red meat. And Dean -- Dean just found his chest empty. He couldn't think of anything he really wanted then, and he finds himself not want anything at all now. What did Famine say the reason was?
+It's like that time when the Four Horsemen rose from Hell and Famine hit the town. Everyone wanted something, Sam for demon blood, Cas -- and Jimmy -- for red meat. And Dean -- Dean just found his chest empty. He couldn't think of anything he really wanted then, and he finds himself not wanting anything at all now. What did Famine say the reason was?
 
-He thinks about the burgers Cas chewed and swallowed. The crumpled paper wrappers in his hand.
+He thinks about the burgers Cas chewed and swallowed. The crumpled paper wrappers in his hands.
 
 "Didn't you use to say you wanted to go all these places when we retire? Las Vegas, Hawaii, go to the beach, open a B&B?" Sam recalls the old memories, a look of nostalgia on his face. "When we were knee-deep in one of those world-ending events, you told me that, remember?"
 
-"Yeah, I remember." Dean takes another sip at the beer, finding it's empty already. He didn't notice when he finished it.
+"Yeah, I remember." Dean takes another sip of the beer, finding it's empty already. He didn't notice when he finished it.
 
 "Go somewhere then, do something. Just, don't be alone." Sam tells him before leaving.
 
@@ -57,7 +57,7 @@ He thinks about the burgers Cas chewed and swallowed. The crumpled paper wrapper
 
 Sam and Eileen go to Ireland first, because Eileen wants to show him her childhood memories. Dean visits Jody and hangs around their dinner table, until even he finds himself probably has overstayed a little too long.
 
-The happy newlyweds travel to somewhere in Europe and send back pictures of street food and foreign temples. Dean goes to Garth's place, hanging out with the pups. Tiny Sam and tiny Castiel babble baby talk and spill leftover food all over him. Dean acts as their makeshift babysitter, until he has to admit he's not the best person for the job.
+The happy newlyweds travel somewhere in Europe and send back pictures of street food and foreign temples. Dean goes to Garth's place, hanging out with the pups. Tiny Sam and tiny Castiel babble baby talk and spill leftover food all over him. Dean acts as their makeshift babysitter, until he has to admit he's not the best person for the job.
 
 Dean drives on the open road, not really sure where to go. The sky turns bright in the morning and goes dark at night. Time ticks by, the world spins around him. He feels like an extra person to the world, like the universe accidentally created one human more than it meant to, and now he just drifts.
 
@@ -121,11 +121,11 @@ He's not too far away from the shore, and he doesn't really have any plan to wal
 
 He exhales shallowly, watching bubbles emerge from the corner of his mouth and float toward the surface. He can probably still indulge himself for another minute or two.
 
-He lets the water envelop around him, and it feels good. It feels like a hug. And the water feels warm. It feels like a palm on his shoulders, an embrace at his back.
+He lets the water envelop him, and it feels good. It feels like a hug. And the water feels warm. It feels like a palm on his shoulders, an embrace at his back.
 
 The breathing of the sea sounds like the breathing of someone by his ear. The blue of the water and sky, looks like the blue of someone's eyes.
 
-Dean closes his eyes, feeling more at ease than any time in the past five years. Feeling less alone than any time in the past five years.
+Dean closes his eyes, feeling more at ease than at any time in the past five years. Feeling less alone than at any time in the past five years.
 
 He feels --
 
@@ -133,7 +133,7 @@ He feels --
 
 By something big and beautiful, and very, very old. And very, very kind.
 
-By someone loves him very much, and left to save him.
+By someone who loves him very much, and left to save him.
 
 He breathes out slowly, running out of all the air he saved.
 
