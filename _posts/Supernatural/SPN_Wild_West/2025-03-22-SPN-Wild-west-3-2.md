@@ -4,7 +4,7 @@ title: 【Destiel】Long Way Home（Chap.3）（2）
 date: 2025-03-22 14:26
 categories: ["SPN"]
 characters: ["Dean Winchester"]
-tags: ["Supernatural", "destiel", "英文", "Butch Cassidy and the Sundance Kid"]
+tags: ["Supernatural", "destiel", "英文", "Butch Cassidy and the Sundance Kid", "时间旅行"]
 pov: 第三人称
 origin: 2025 DeanCas Wild West Fest
 long_novels: 【Destiel】Long Way Home

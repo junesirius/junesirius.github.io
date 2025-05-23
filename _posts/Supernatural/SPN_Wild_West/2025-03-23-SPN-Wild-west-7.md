@@ -4,7 +4,7 @@ title: 【Destiel】Long Way Home（Chap.7）（completed）
 date: 2025-03-23 03:27
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
-tags: ["Supernatural", "destiel", "英文", "已完结"]
+tags: ["Supernatural", "destiel", "英文", "已完结", "时间旅行"]
 pov: 第三人称
 origin: 2025 DeanCas Wild West Fest
 long_novels: 【Destiel】Long Way Home

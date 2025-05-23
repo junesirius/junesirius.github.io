@@ -4,7 +4,7 @@ title: 【Destiel】Long Way Home（Chap.2）（2）
 date: 2025-02-17 01:53
 categories: ["SPN"]
 characters: ["Castiel"]
-tags: ["Supernatural", "destiel", "英文"]
+tags: ["Supernatural", "destiel", "英文", "时间旅行"]
 pov: 第三人称
 origin: 2025 DeanCas Wild West Fest
 long_novels: 【Destiel】Long Way Home

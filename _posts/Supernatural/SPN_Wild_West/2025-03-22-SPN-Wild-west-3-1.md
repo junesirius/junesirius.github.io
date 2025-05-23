@@ -4,7 +4,7 @@ title: 【Destiel】Long Way Home（Chap.3）（1）
 date: 2025-03-22 11:50
 categories: ["SPN"]
 characters: ["Dean Winchester"]
-tags: ["Supernatural", "destiel", "英文", "Unforgiven"]
+tags: ["Supernatural", "destiel", "英文", "Unforgiven", "时间旅行"]
 pov: 第三人称
 origin: 2025 DeanCas Wild West Fest
 long_novels: 【Destiel】Long Way Home

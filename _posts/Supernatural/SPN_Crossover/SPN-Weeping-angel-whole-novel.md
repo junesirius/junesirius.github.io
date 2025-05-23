@@ -4,7 +4,7 @@ title: 【Destiel】The Angels Take Manhattan
 date: 2025-04-08
 categories: ["Crossover"]
 characters: ["Castiel", "Dean Winchester", "Doctor Who", "11th Doctor", "River Song", "Amy Pond", "Rory Williams"]
-tags: ["Supernatural", "神秘博士", "crossover", "destiel", "11River", "11Amy", "Ponds", "刀河", "英文", "纽约"]
+tags: ["Supernatural", "神秘博士", "crossover", "destiel", "11River", "11Amy", "Ponds", "刀河", "英文", "纽约", "时间旅行"]
 pov: 第三人称
 origin: 2025 CasDean Crossover Bang
 published: false
@@ -1416,7 +1416,9 @@ Amy strikes a match.
 
 Amy read from the book that River has to break her wrist
 
-Dean/Amy talks about Doctor vs Rory, Amy's choices, normal life vs adventure, talking about "the other life" and maybe runaway, make Dean think Sam → prepare for ending to understand/call Sam, Dean realize he's angry/jealous/unfair to Sam; Amy talk about feeling, what's love like → prepare for ending confession with Cas, Dean start understand about feeling
+Dean/Amy talks about Doctor vs Rory, Amy's choices, normal life vs adventure, talking about "the other life" and maybe the truth is not about whereto but runaway, make Dean think Sam → prepare for ending to understand/call Sam, Dean realize he's angry/jealous/unfair to Sam (extend a bit more to show Dean/Cas actually visited Sam before heading out); Amy talk about feeling, what's love like → prepare for ending confession with Cas, Dean start understand about feeling (extend/memory a bit about post-purgatory, Dean topside first a few days, then Cas)
+
+Dean: "You know it sounds really strange, the weeping angel and the actual angel, I was so used to angel being only dudes like him" Amy: "Are other angels all like him?" Dean: "No, there is no one like him."
 
 Dean: "I might have an idea what's happening here" (intro the book)
 
@@ -1427,8 +1429,6 @@ about book: "This isn't any old future, it's ours. Once we know what's coming, i
 Dean: "Let me get this straight. You save the universe but only save the UK part, fly across galaxy is close enough but USA is too far away? This isn't your jurisdiction or something? Pal, not I'm saying, you did a terrible job in protecting the earth, in case you didn't notice, it at least trashed twice if we didn't ..." Doctor: "All due respect, who's behind that? Also, USA almost trashed twice doesn't mean..." River/Amy: "Don't mind him, London gets trashed every Christmas, it's a Doctor and Monster thing." Dean/Cas: "You can say that again."
 
 Doctor: "People assume that time is a strict progression of cause to effect, but actually, from a non-linear, non-subjective viewpoint, it's more like a big ball of wibbly-wobbly, timey-wimey stuff." (DW310) (Dean: "That's just so English")
-
-Dean: "You know it sounds really strange, the weeping angel and the actual angel, I was so used to angel being only dudes like him" Amy: "Are other angels all like him?" Dean: "No, there is no one like him."
 
 Dean wrt Amy/Rory: "So you two are married." Cas wrt Doctor/River: "You two are also married." Amy wrt destiel: "And you are --?" Dean: "No, no, we, uh, we are best friends." Amy: "Sure." River: "Thought I heard you said you're partners" Dean: "What? The agents thing? No, no, that's just, partner in crime kinda thing" Cas: "Dean--" Dean: "Yeah sorry you're right, made it worse. No it's like, colleagues" (Cas narrow eyes), "comrade," (Amy raise eyebrow) "family," (River: "sure"), Dean: "You know what, forget it, just friends. Cas is my best friend, that's all. Drop it" Amy raise hands, surrender: "just asking, as long as you guys figured it out, no problem with me" River to Cas: "That's good enough for you?" Cas: "Why wouldn't it be?" Dean cheerfully: "See? all sorted out now, no problem at all" Dean/Cas meet eyes, look away
 
