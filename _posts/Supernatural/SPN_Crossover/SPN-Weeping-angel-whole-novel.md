@@ -1460,6 +1460,8 @@ why weeping angels everywhere, Cas back from Purgatory only a week ago: time tra
 
 > (Cas POV)(Act 2 mid-point, moment of truth)
 >
+> (handled Grayle)
+>
 > River break wrist (fail to change future), Doctor/River's love talk (River thought not loved back), Cas hear & cure? River
 >
 > Amy use Doctor's device to locate Dean/Rory (or Dean's prayer), 4 of them go save, see room names, split witness old Dean die (Cas uneasy), Amy see old Rory
@@ -1469,6 +1471,8 @@ why weeping angels everywhere, Cas back from Purgatory only a week ago: time tra
 > (keep hinting Cas can hear Angels)
 
 ### draft notes
+
+During handling Grayle: Grayle: "I'm a collector" "A collector and the crime boss, how does that work?" "Isn't that the same thing? Now, Detective, where are we? Right, I want to know if it can feel pain" Cas: "Do you realize she's screaming?" (more visual description of the tortured angel) Doctor to Cas: "You talk about it like it's alive" River: "Like it's your own kind" Amy: "You said 'she'" River: "What are you, really?" (Cas handle trust issue with Doctor/River/Amy when Dean's not there endorse/defend/help him)
 
 Doctor/River: "Why did you lie to me?" "When one's in love with an ageless God who insists on the face of a 12-year-old, one does one's best to hide the damage" "It must hurt. Come here." "Yes. The wrist is pretty bad, too" "That was a stupid waste of regeneration energy. Nothing is gained by you being a sentimental idiot." (Doctor: "Not like I need it anymore" "No" "Yes. We both know I only get twelve chances, this is the last one, so it will be.")
 
@@ -1547,5 +1551,7 @@ Amy/Rory make the decision to leave Doctor bc of Dean/Cas, importance of family 
 Doctor/Cas: "see you next time, somewhere in the universe, some time in the future or past" "Look forward to it, Doctor" smile and wave goodbye
 
 cute comments about how come the cheapest hotel sounds like 5-star penthouse; you can't live in anywhere too far away from any landscape in Manhattan (about where to deliver the book in timeline)
+
+Brian looks to the Doctor, so serious: "What happened to the other people who travel with you?" Doctor: "Some left me. Some got left behind. And some... not many but... some died.  (off Brian's horrified look) Not them. Not them, Brian. Never them." ending: Doctor: "I know. You both have lives here. Beautiful, messy lives. This is what makes you so fabulously human. You don't want to give them up. I understand." Brian: "Actually, it's you they can't give up, Doctor. And I don't think they should. Go with him. Go save every world you can find. Who else has that chance? Life'll still be here." Doctor: "You could come, Brian." Brian: "Somebody has to water the plants. Just... bring them back safe." (S07E04)
 
 ###### [END]
