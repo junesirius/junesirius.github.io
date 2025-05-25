@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【随记】Sleep Writing
+title: 【随记】Sleep Writing（其一）
 date: 2025-05-17 13:07
 categories: ["原创"]
 characters: 
