@@ -78,7 +78,7 @@ Broadway & W 31st St.
 
 across street to Empire State Building
 
-cute comments about how come the cheapest hotel sounds like 5-star penthouse; you can't live in anywhere too far away from any landscape in Manhattan
+witty comments about how come the cheapest hotel sounds like 5-star penthouse; you can't live in anywhere too far away from any landscape in Manhattan
 
 ### Characters
 
@@ -272,7 +272,7 @@ Dean distrust Doctor at first: "What? I'm supposed to just trust him like that? 
 
 why angels go to Purgatory to save Cas: canon way, Naomi ordered, think Cas useful, want to brainwash him; why didn't brainwash: Cas fights and escapes, run away before they can find him, so best not to use his mojo/fly so he won't be found by the angels → but end up still use his power to save those people he cared
 
-cute comments about how come the cheapest hotel sounds like 5-star penthouse; you can't live in anywhere too far away from any landscape in Manhattan; comments about American & English & Scottish accent
+witty comments about how come the cheapest hotel sounds like 5-star penthouse; you can't live in anywhere too far away from any landscape in Manhattan; comments about American & English & Scottish accent
 
 Doctor: "Don't blink, don't look them in the eyes" Dean: "What's wrong with their eyes" Amy: "Trust me, you don't want to know."
 
@@ -1236,7 +1236,7 @@ He winks at the group, "Well then -- Geronimo!"
 
 ### draft notes
 
-unused cute comments:
+unused witty comments:
 
 about Tardis: Cas: "it says 'Pull to open', why do you push?"
 
@@ -1268,7 +1268,7 @@ The Doctor and Amy are scrambling up from the ground just like him, recovering f
 
 "Where is Cas?" Dean sweeps around their landing point, then notices a small movement on the side of a parked car. He catches a glimpse of tan color and rushes there.
 
-Cas slumps against the side of the car, eyes closed, panting heavily. His face is pale, his chest heaving and falling. Scratches of cuttings and bleeding marks all over his bare skin and clothes, more bloody wounds under the torn shirt and pants. A smear of blood at the corner of his mouth.
+Cas slumps against the side of the car, eyes closed, panting heavily. His face is pale, his chest heaving and falling. Scratches of cuttings and bleeding marks all over his bare skin and clothes, more bloody wounds under the torn shirt and pants, misty light faintly glimmering in a few of deep cuts. A smear of blood at the corner of his mouth.
 
 Dean is instantly reminded of the last time Cas is weakened severely by a flight, kicking himself mentally for forgetting how much it always seem to exhaust him.
 
@@ -1294,7 +1294,11 @@ Cas's eyes follow their movement.
 
 "Can you heal?" Dean asks with concern.
 
-"Naomi." Cas answers with one word and Dean gets the rest -- yes about the healing power, no because using it would be dangerous. Only the slow, natural healing then. He nods.
+Cas frowns at himself with concentration, the way he would focus whenever he puts a finger on Dean's forehead and heals him, Dean watches his open wounds closely. They are not healed.
+
+Cas shakes his head frustratedly, "I'm interfered," he says glumly, "The temporal disturbance affects my power, too. I can try harder but it might exhaust me more than healing me."
+
+Only the slow, natural healing then. Dean watches him, worried.
 
 Cas holds an arm on the wet ground, making an effort trying to stand up. Dean reaches for his other arm, helping him on his feet.
 
@@ -1388,7 +1392,7 @@ Grayle runs up all his patience, raising his voice, "Okay I have enough of this 
 
 The two hefty guards they met at the gate burst into the room, each having a gun in their hands, pointing menacingly at them.
 
-Dean draws out his own gun, pointing at the taller one among the two. Cas steps closer to him, raising a palm in a defending gesture. River pulls out an alien-looking tiny gun with her free left hand. The Doctor steps in front of her and Amy, pointing at the guards with his sonic screwdriver like a weapon.
+Dean draws out his own gun, pointing at the taller one among the two. Cas steps closer to him, raising a palm in a defending gesture. The Doctor steps in front of River and Amy, pointing at the guards with his sonic screwdriver like a weapon.
 
 "Very West Side Story." Dean comments, "What now? You're outnumbered."
 
@@ -1448,7 +1452,7 @@ The place is drown by total darkness.
 
 ### draft notes
 
-unused cute comments:
+unused witty comments:
 
 Dean/Doctor: "Doc" "Don't call me Doc, it's Doctor to you"
 
@@ -1456,13 +1460,43 @@ Dean/Doctor: "Doc" "Don't call me Doc, it's Doctor to you"
 
 > (Amy POV)(Act 2 plot point 1)
 >
-> Dean/Amy goes to cellar where Rory was, the match in dark scene, Dean/Amy talk, Dean protect Amy & zapped away to Winter Quay, (Dean meet Rory)
+> Dean/Amy goes to cellar where Rory was, the match in dark scene, Dean/Amy talk (realize Rory was there bc burned match), Dean protect Amy & zapped away
 >
-> Amy read River's book (mentioned Dean/Cas sacrifice+Amy/Rory last farewell (keep it vague), River's broken wrist), Doctor freak out, try save Amy, change future
->
-> chapter end last transition sentence: "Where is Dean/Rory"
+> chapter end last transition sentence, Cas/Doctor: "Where is Dean/Rory"
 
-Amy strikes a match.
+Amy strikes a match. The dancing flame lightens a tiny corner of the place, dark shadow looming in from every direction. She never know a cellar can look so dreadful, boundless, and infinite.
+
+They try to examine the space from the dim light.
+
+There is a broken chandelier not far from the end of the stairs. The glasses shatter on the floor, leaving sharp pieces and shards all over like hidden blades.
+
+"Careful," Dean whispers close by. Amy startles, dropping the match.
+
+The weak flame dies down a second later. The utter black takes over. The sound of some distorted giggle and pitter patter of small stone feet stepping on the broken glasses comes from the darkness.
+
+They gasp together. Amy strikes a second match.
+
+From the flickering light, they see a small group of cherub statues crowding in on them. The little stone babies, barely can stand straight, lie around on the dusty floor, chubby little hands and legs entangled together. Looking as harmless and innocent as the ones from Bethesda Fountain looked like initially. But they know better than being fooled by the look.
+
+They stare at the cherubs, edging slowly backward on the stairs, to where the door is. Amy moves first, Dean follows her, keeping a barrier between her and the statues.
+
+Amy curses when the match burns her finger.
+
+She drops the burned-down match and hurriedly strikes another.
+
+The cherubs -- there are three of them -- have moved. They turned to where Dean and Amy are, frozen in the act of getting to their feet. Their tiny faces turn feral and full of fangs. Dean stares at them without blinking. But without a steady light source, this does very little help.
+
+"We are dead," Amy says with a trembling voice. "The stone babies are going to send us back in time, and we'll just die of old age somewhere in the past. I'm never going to see Rory again."
+
+Tears stream down her face.
+
+The match burns out again. Her quiet sob mixes with the creepy giggles.
+
+"We'll find a way," Dean stumbles up a few steps of the stairs in the complete darkness, blindly looking for the way, "The smart people upstairs, your Doctor and my Angel, they'll think of something. We just have to last until they come."
+
+Amy lights another match with trembling fingers.
+
+The cherubs reached the lowest level of the stairs, while they are on the highest one. The cellar door is shut tight and undoubtedly latched from the outside. Their lives are as long as the match would last and until the baby statues climb up 
 
 
 
@@ -1470,33 +1504,21 @@ Amy strikes a match.
 
 ### draft notes
 
-> Dean/Amy goes to cellar where Rory was, the match in dark scene, Dean/Amy talk, Dean protect Amy & zapped away to Winter Quay, (Dean meet Rory)
->
-> Amy read River's book (mentioned Dean/Cas sacrifice+Amy/Rory last farewell (keep it vague), River's broken wrist), Doctor freak out, try save Amy, change future
->
-> chapter end last transition sentence: "Where is Dean/Rory"
-
 Dean/Amy talks about Doctor vs Rory, Amy's choices, normal life vs adventure, talking about "the other life" and maybe the truth is not about whereto but runaway, make Dean think Sam → prepare for ending to understand/call Sam, Dean realize he's angry/jealous/unfair to Sam (extend a bit more to show Dean/Cas actually visited Sam before heading out); Amy talk about feeling, what's love like → prepare for ending confession with Cas, Dean start understand about feeling (extend/memory a bit about post-purgatory, Dean topside first a few days, then Cas)
 
 Dean: "You know it sounds really strange, the weeping angel and the actual angel, I was so used to angel being only dudes like him" Amy: "Are other angels all like him?" Dean: "No, there is no one like him."
 
-Amy accidentally read from the book that River has to break her wrist
+how Dean buy them time in cellar: burn tie to buy two minutes, use suit jacket to wrap the cherubs when he can see them, tie them dead knot, Amy take off her jacket too, Dean use hidden blade to pry open the door by a slit, let light in, can see the bundle, temporarily safe, sit on highest steps and talk → but the moment cellar is open and they think they are safe and remove the eyes, Dean is sent away from behind, there is a fourth cherub they didn't see
 
-Dean: "I might have an idea what's happening here" (intro the book)
-
-about book: "This isn't any old future, it's ours. Once we know what's coming, it's fixed."
-
-Dean: "Let me get this straight. You save the universe but only save the UK part, fly across galaxy is close enough but USA is too far away? This isn't your jurisdiction or something? Pal, not I'm saying, you did a terrible job in protecting the earth, in case you didn't notice, it at least trashed twice if we didn't ..." Doctor: "All due respect, who's behind that? Also, USA almost trashed twice doesn't mean..." River/Amy: "Don't mind him, London gets trashed every Christmas, it's a Doctor and Monster thing." Dean/Cas: "You can say that again."
-
-Dean wrt Amy/Rory: "So you two are married." Cas wrt Doctor/River: "You two are also married." Amy wrt destiel: "And you are --?" Dean: "No, no, we, uh, we are best friends." Amy: "Sure." River: "Thought I heard you said you're partners" Dean: "What? The agents thing? No, no, that's just, partner in crime kinda thing" Cas: "Dean--" Dean: "Yeah sorry you're right, made it worse. No it's like, colleagues" (Cas narrow eyes), "comrade," (Amy raise eyebrow) "family," (River: "sure"), Dean: "You know what, forget it, just friends. Cas is my best friend, that's all. Drop it" Amy raise hands, surrender: "just asking, as long as you guys figured it out, no problem with me" River to Cas: "That's good enough for you?" Cas: "Why wouldn't it be?" Dean cheerfully: "See? all sorted out now, no problem at all" Dean/Cas meet eyes, look away
-
-Dean wrt Doctor/River: "I guess a thousand year age difference isn't a problem then." "You got anything to say about that?" "What? No, no, of course not." (Dean unintentionally glance at Cas, finding him look at him too) "We were married when I was half-way killing him and he was trying to save the world. It's complicated." Dean grins: "Isn't it always?" (unintentionally meet Cas's eyes again)
+> Dean/Amy goes to cellar where Rory was, the match in dark scene, Dean/Amy talk (realize Rory was there bc burned match), Dean protect Amy & zapped away
+>
+> chapter end last transition sentence, Cas/Doctor: "Where is Dean/Rory"
 
 ## Chap 7 Night In The Statue Park
 
 > (Dean POV)(Act 2 realization)
 >
-> Dean/Rory try to find exit in Winter Quay, Dean/Rory talk, surrounded by angels, back away in corridor, notice familiar angel face (Tessa, Inias, Hannah, ~~Samandriel~~), realize infection pattern (phone call Cas? pray? pray send location info know about Winter Quay?)
+> Dean goes to Winter Quay, Dean meet Rory, Dean/Rory try to find exit in Winter Quay, Dean/Rory talk, surrounded by angels, back away in corridor, notice familiar angel face (Tessa, Inias, Hannah, ~~Samandriel~~), realize infection pattern (phone call Cas? pray? pray send location info know about Winter Quay?)
 >
 > discuss weeping angel's motives (or move to next chapter)
 >
@@ -1516,11 +1538,17 @@ why weeping angels everywhere, Cas back from Purgatory only a week ago: time tra
 
 > (Cas POV)(Act 2 mid-point, moment of truth)
 >
-> (handled Grayle)
+> (chapter start: twenty minutes ago)
+>
+> handled Grayle: Grayle force tie Doctor/Cas, know them not human (bleeding grace, two hearts), make them collections; River from ten minutes later use vortex manipulator comes back, use Doctor's sonic lock the lights, punch Grayle, release Doctor/Cas, whisper to herself "it's gonna hurt", leave with "see you later", Doctor/Cas go save Amy/Dean, only find Amy
+>
+> Amy read River's book (mentioned Dean/Cas sacrifice+Amy/Rory last farewell (keep it vague), River's broken wrist), Doctor freak out, try save Amy, change future
 >
 > River break wrist (fail to change future), Doctor/River's love talk (River thought not loved back), Cas hear (/cure?) River
 >
-> Amy use Doctor's device to locate Dean/Rory (or Dean's prayer), 4 of them go save, see room names, split witness old Dean die (Cas uneasy), Amy see old Rory
+> Amy use Doctor's device to locate Dean/Rory (or Dean's prayer)
+>
+> 4 of them go to Winter Quay to save Dean/Rory, see room names, split witness old Dean die (Cas uneasy), Amy see old Rory
 >
 > River/Amy's love talk (Dean/Cas both hear)
 >
@@ -1528,11 +1556,23 @@ why weeping angels everywhere, Cas back from Purgatory only a week ago: time tra
 
 ### draft notes
 
-During handling Grayle: Grayle: "I want to know if it can feel pain" Cas: "Do you realize she's screaming? The others can hear." (more visual description of the tortured angel) Doctor to Cas: "You talk about it like it's alive" River: "Like it's your own kind" Amy: "You said 'she'" River: "What are you, really?" (Cas handle trust issue with Doctor/River/Amy when Dean's not there endorse/defend/help him) Cas might let slip: "She has a name!" the tortured angel is Hael, the mother-son statues are Mirabel and Samandriel
+why can't River comes back ten more minutes earlier: "You try ride motorbike in traffic like this? I can tear the world apart if I got one minute wrong."
+
+During handling Grayle: Grayle: "I want to know if it can feel pain" Cas: "Do you realize she's screaming? The others can hear." (more visual description of the tortured angel) (after finish Grayle) Doctor to Cas: "You talk about it like it's alive" River: "Like it's your own kind" Amy: "You said 'she'" River: "What are you, really?" (Cas handle trust issue with Doctor/River/Amy when Dean's not there endorse/defend/help him) Cas might let slip: "She has a name!" the tortured angel is Hael, the mother-son statues are Mirabel and Samandriel
+
+Amy accidentally read from the book that River has to break her wrist (book always with Amy now)
+
+about book: "This isn't any old future, it's ours. Once we know what's coming, it's fixed."
 
 Doctor/River: "Why did you lie to me?" "When one's in love with an ageless God who insists on the face of a 12-year-old, one does one's best to hide the damage" "It must hurt. Come here." "Yes. The wrist is pretty bad, too" "That was a stupid waste of regeneration energy. Nothing is gained by you being a sentimental idiot." (Doctor: "Not like I need it anymore" "No" "Yes. We both know I only get twelve chances, this is the last one, so it will be.")
 
 River/Amy: "okay, why did you lie?" "Never let him see the damage. And never, ever, let him see you age. He doesn't like endings."
+
+Dean: "Let me get this straight. You save the universe but only save the UK part, fly across galaxy is close enough but USA is too far away? This isn't your jurisdiction or something? Pal, not I'm saying, you did a terrible job in protecting the earth, in case you didn't notice, it at least trashed twice if we didn't ..." Doctor: "All due respect, who's behind that? Also, USA almost trashed twice doesn't mean..." River/Amy: "Don't mind him, London gets trashed every Christmas, it's a Doctor and Monster thing." Dean/Cas: "You can say that again."
+
+Dean wrt Amy/Rory: "So you two are married." Cas wrt Doctor/River: "You two are also married." Amy wrt destiel: "And you are --?" Dean: "No, no, we, uh, we are best friends." Amy: "Sure." River: "Thought I heard you said you're partners" Dean: "What? The agents thing? No, no, that's just, partner in crime kinda thing" Cas: "Dean--" Dean: "Yeah sorry you're right, made it worse. No it's like, colleagues" (Cas narrow eyes), "comrade," (Amy raise eyebrow) "family," (River: "sure"), Dean: "You know what, forget it, just friends. Cas is my best friend, that's all. Drop it" Amy raise hands, surrender: "just asking, as long as you guys figured it out, no problem with me" River to Cas: "That's good enough for you?" Cas: "Why wouldn't it be?" Dean cheerfully: "See? all sorted out now, no problem at all" Dean/Cas meet eyes, look away
+
+Dean wrt Doctor/River: "I guess a thousand year age difference isn't a problem then." "You got anything to say about that?" "What? No, no, of course not." (Dean unintentionally glance at Cas, finding him look at him too) "We were married when I was half-way killing him and he was trying to save the world. It's complicated." Dean grins: "Isn't it always?" (unintentionally meet Cas's eyes again)
 
 Amy: "Husband, run!" River: "Husband, shut up!" Dean: (swallow) others: (amused, glimpse at Dean/Cas) Dean: (blush)
 
@@ -1606,7 +1646,7 @@ Amy/Rory make the decision to leave Doctor bc of Dean/Cas, importance of family 
 
 Doctor/Cas: "see you next time, somewhere in the universe, some time in the future or past" "Look forward to it, Doctor" smile and wave goodbye
 
-cute comments about how come the cheapest hotel sounds like 5-star penthouse; you can't live in anywhere too far away from any landscape in Manhattan (about where to deliver the book in timeline)
+witty comments about how come the cheapest hotel sounds like 5-star penthouse; you can't live in anywhere too far away from any landscape in Manhattan (about where to deliver the book in timeline)
 
 Brian looks to the Doctor, so serious: "What happened to the other people who travel with you?" Doctor: "Some left me. Some got left behind. And some... not many but... some died.  (off Brian's horrified look) Not them. Not them, Brian. Never them." ending: Doctor: "I know. You both have lives here. Beautiful, messy lives. This is what makes you so fabulously human. You don't want to give them up. I understand." Brian: "Actually, it's you they can't give up, Doctor. And I don't think they should. Go with him. Go save every world you can find. Who else has that chance? Life'll still be here." Doctor: "You could come, Brian." Brian: "Somebody has to water the plants. Just... bring them back safe." (S07E04)
 
