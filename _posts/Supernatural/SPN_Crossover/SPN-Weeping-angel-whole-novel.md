@@ -1598,7 +1598,7 @@ Then Amy speaks again. "I've never loved by anyone like that before, it terrifie
 
 Dean swallows hard. "I don't know." His voice is a croak. "You save him back, whatever it takes."
 
-Amy wipes her face, "You're right, now you understand why I *have* to save him. And," she pauses for a beat, "if for whatever reason I fail, or I get killed, or sent away by the Weeping Angels --"
+Amy wipes her face, "You're right, now you get it why I *have* to save him. And," she pauses for a beat, "if for whatever reason I fail, or I get killed, or sent away by the Weeping Angels --"
 
 "Amy --"
 
@@ -1610,9 +1610,9 @@ Amy wipes her face, "You're right, now you understand why I *have* to save him. 
 
 "Okay," Dean swallows the lump in his throat. "Okay. Amy Pond, I promise you. Is that why you're telling me all that?"
 
-"I don't know, just in case." Amy says, a lot calmer than before. "And I will try my best to do the same for you and Castiel, too, if the worst comes."
+"I don't know, just in case." Amy says, a lot calmer than before. "And I will try my best to do the same for you and Castiel, if the worst comes."
 
-She strikes a match right then, flashing bright both their solemn faces. 
+She strikes a match right then, flashing bright both their solemn faces.
 
 "What?" Dean is surprised, staring into her sparking eyes.
 
@@ -1638,7 +1638,7 @@ The cellar door is blasted open, two metal plates flying into the space. Dean co
 
 "Amy!" The Doctor rushes down, beaming the sonic screwdriver at the dark space as a light source, pulling Amy into a tight hug.
 
-"Doctor," she clutches on his jacket, "it's so nice to see you."
+"Doctor," she clutches on his jacket, "it's so nice to see you again."
 
 Cas follows into the cellar, looking around, asking in tense voice, "Where is Dean?"
 
@@ -1646,17 +1646,15 @@ Amy turns sharply, pointing behind her, "He's right here --"
 
 But there is no one there. The space is empty where they landed from the blast.
 
-The distorted giggling of cherub statues echoes in the dark shadow.
+The distorted giggle echoes in the dark shadow.
 
 "Angels." The Doctor hurries backward, pushing Amy onto the stairs.
 
-He raises his sonic screwdriver higher, its green light shining the broken chandelier. In the middle of the shattered glasses, a ragged suit jacket lies open, three cherub statues frozen in their gaze.
+He raises his sonic screwdriver higher, its green light shining on the broken chandelier. In the middle of the shattered glasses, a ragged suit jacket lies open, three cherub statues frozen in their gaze.
 
 <br>
 
 ### draft notes
-
-(Dean/Amy realize Rory was there bc burned matches)
 
 unused conversation:
 
@@ -1713,6 +1711,8 @@ why can't River comes back ten more minutes earlier: "You try ride motorbike in 
 future River comes, first sentence: "Hello, Sweetie. Again. What are you boys going to do without me?" sonic Grayle and knock him out. current River complain: "Oh I wanted to do it" future River: "You get to do it in ten minutes" warn them about paradox, whisper to her old self in the ear something ("it's gonna hurt")
 
 During handling Grayle: Grayle: "I want to know if it can feel pain" Cas: "Do you realize she's screaming? The others can hear." (more visual description of the tortured angel) (after finish Grayle) Doctor to Cas: "You talk about it like it's alive" River: "Like it's your own kind" Amy: "You said 'she'" River: "What are you, really?" (Cas handle trust issue with Doctor/River/Amy when Dean's not there endorse/defend/help him) Cas might let slip: "She has a name!" the tortured angel is Hael, the mother-son statues are Mirabel and Samandriel
+
+(Amy realize Rory was in cellar bc burned matches)
 
 Amy accidentally read from the book that River has to break her wrist (book always with Amy now)
 
