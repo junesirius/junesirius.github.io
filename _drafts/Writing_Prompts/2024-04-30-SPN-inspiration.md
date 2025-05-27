@@ -1432,7 +1432,7 @@ I'd give anything
 
 Cas is being careful but still not careful enough, Bobby exploded, Dean super pissed at Cas, what happens next?
 
-### 156.【destiel】S06E18 What if boys get lost in western world【WIP - bang】
+### ~~156.【destiel】S06E18 What if boys get lost in western world【done】~~
 
 Cas refused to risk Bobby (or even if used his power still not recovered enough to time travel, or Cas didn't wake up in time), Dean/Sam stays in town for more than 24h and lost to Cas, what happens next?
 
@@ -1981,6 +1981,8 @@ knowing Cas can time travel anywhere, Dean wouldn't miss the chance to witness Z
 (can't do that everyday because it's probably still demanding on Cas's energy)
 
 case fic, Dean gets to save Zeppelin for once, ends up showing up in one of their songs (change lyrics in "Stairway to Heaven" because they witnessed Cas)
+
+destiel date, Dean ecstasy, monster: some timeline monster/rogue angel
 
 ### 222.【Ash&Charlie】技术宅聊天
 
@@ -2769,13 +2771,7 @@ Max reuse Rowena's spell, throw Witch's ring in for full power, create two bodie
 
 "Hi" "Hi" "I'm Charlie" "Alicia" "Nice to meet you, for the first time"
 
-### 272.【destiel】1973 Zeppelin Live
-
-time travel date
-
-Cas bring Dean to his fav 1973 Zeppelin Live, Dean super happy
-
-or case fic, timeline monster/rogue angel? like DW Beetles Live episode
+### ~~272. (duplicate 221)~~
 
 ### 273.【destiel】addict to angel blood
 
