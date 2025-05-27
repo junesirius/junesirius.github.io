@@ -286,7 +286,7 @@ Dean&Cas find case in Manhattan: statue moving, people disappearing & sudden agi
 
 Dean&Cas first notice Rory zapped away, run into Doctor/Amy (self-intros, Doctor/Cas discuss time flux), Doctor has River's book (mentioned Dean/Cas sacrifice+Amy/Rory farewell (keep it vague), River's broken wrist, gives specific time location), Cas fly 4 of them to 1938, too many weeping angels there, everyone in danger, Cas power limited because of all the angel/temporal energy
 
-Dean/Amy volunteer to check Rory, Dean protect Amy & zapped away to Winter Quay, meet Rory; Dean/Rory try to find exit, surrounded by angels, back away in corridor, notice familiar angel face (<u>Tessa 201</u>, <u>*Inias 721*</u>, <u>*Samandriel 802*</u>, Ion 821, Nathaniel 823, <u>Hael 901</u>, Ingrid 908, Malachi 909, Theo 909, Azrael 909, Sophia 909, *Ezekiel 909*, <u>*Hannah 918*</u>, Neil 923, Ambriel 1110, Benjamin 1210, <u>Mirabel 1210</u>), realize infection pattern
+Dean/Amy volunteer to check Rory, Dean protect Amy & zapped away to Winter Quay, meet Rory; Dean/Rory try to find exit, surrounded by angels, back away in corridor, notice familiar angel face (<u>Tessa 201</u>, <u>*Inias 721*</u>, <u>*Samandriel 802*</u>, Ion 821, Nathaniel 823, <u>Hael 901</u>, Bartholomew 903, ~~Ingrid 908~~, Malachi 909, Theo 909, Azrael 909, Sophia 909, *Ezekiel 909*, <u>*Hannah 918*</u>, Neil 923, Ambriel 1110, ~~Ishim 1210~~, Benjamin 1210, <u>Mirabel 1210</u>, Kelvin 1215, Hozai 1219, ~~Dumah 1307~~, ~~Indra 1319~~), realize infection pattern
 
 River break wrist (fail to change future), Doctor/River's love talk (River thought not loved back), Cas hear & cure River; Amy use Doctor's device to locate Dean/Rory, 4 of them go save, see room names, all witness old Dean die (Cas uneasy); River/Amy's love talk (Dean/Cas both hear)
 
@@ -1358,7 +1358,7 @@ The woman looks at them with a small amused mockery, "That certainly looks fake 
 
 Her eyes shift quickly toward the Doctor and Amy behind them, the grin turning into a wild smile, "Hello, Sweetie." her eyes sparkle with joy of the reunion, "Took you long enough."
 
-The Doctor tilts his head slightly, meeting with a similar smile, "Sorry, I'm late, hon -- traffic was hell."
+The Doctor tilts his head slightly, meeting with a similar smile, "Sorry, didn't know you're here too, hon -- traffic was hell."
 
 "How did you get here then?" The woman raises her left arm, showing a dark colored device on her wrist. While her right wrist -- Dean only notices now, after getting used to the lighting in the room -- is grasped tight by a Weeping Angel statue locked to the alcove wall. The statue looks more feral than the Angel of Water or any of the cherubs, it doesn't hide its face with palms, so all the fangs and wild fierce look is written clearly in each line and crack on its face. The stone on the statue is cracked and erodent, the eye sockets sunken deep on the face. It looks angry -- furious, perhaps -- which might have something to do with the long heavy chains that tether it to the plinth and the wall.
 
@@ -1906,7 +1906,7 @@ He stares at the Weeping Angels without a blink. The two of them cast long shado
 
 The elevator comes to life like a miracle, clanking down to their level, opening the barred door.
 
-"In! In!!" Dean yells, fingers fumbling on the wall, eyes on the Angels, moving toward the lift blindly.
+"Go! Go!!" Dean yells, fingers fumbling on the wall, eyes on the Angels, moving toward the lift blindly.
 
 Rory dashes into the lift, holding the door for him. "I got them, come on!"
 
@@ -1916,15 +1916,15 @@ The rusty bars clink clank before him, sliding closed. The lift starts rising.
 
 "Which floor are we going?" Dean asks Rory.
 
-"No idea," Rory searches the four sides in vain.
+"No idea," Rory searches the four sides in vain. There is no button or control handle inside.
 
-The large human-size poster at the back of the elevator gives them a jump. The Statue of Liberty on the image looks as realistic as the real thing. Too damn many statues in this city. Dean decides he would never come to New York ever again, if he manage to get out of here.
+A large human-sized poster at the back of the elevator gives them a jump. The Statue of Liberty on the image looks as realistic as the real thing. Too damn many statues in this city. Dean decides he would never come to New York ever again, if he manage to get out of here.
 
 The wheezing sound of the old mechanics echoes loudly in the place, disturbing dust in the stale air.
 
-Dean and Rory watches stories after stories rising into their view then being left behind. All have the same long, bleak look. Empty and straight corridor stretches in front of the lift, covered in scarlet-colored velvet carpet. Not single person in view.
+Dean and Rory watches stories after stories rising into their view then being left behind. All have the same long, bleak look. An empty and straight corridor stretches in front of the lift on each floor, covered in thick scarlet velvet carpet. Not single person in view.
 
-The lift comes to a halt at a floor near forty or fifty -- they lost count when it gets high. The thing doesn't seem to be willing to move further up, Dean and Rory have no choice but to walk into the corridor. The elevator clanks back down, leaving an dark, empty well in the space.
+The lift comes to a halt at a floor near forty or fifty level high -- they lost count when it got above thirty. The thing doesn't seem to be willing to move further up, Dean and Rory have no choice but to walk into the corridor. The elevator clanks back down, leaving an dark, empty well in the space.
 
 The bulbs on the ceiling give off smoky, tawny light, barely lighting the corridor.
 
@@ -1932,15 +1932,15 @@ Dean leads the way, looking left and right. The carpet muffles their footsteps, 
 
 The doors have two-digit numbers on them showing the apartment numbers, and almost all have name tags labelled next to it: "W. Wallace", "J. Watson", "M. Wheeler", "J. Whittaker"...
 
-Dean recognizes one from the missing people report he and Cas saw on the newspaper that morning -- this morning, this very same day's morning when he was having that awesome breakfast. God, the time feels like ancient ago. Looks like he has found all the missing people then, if they are all in this very building. But how on earth can they get everyone outta here, with probably a million creepy Weeping Angel statues guarding the place and the whole Manhattan?
+Dean recognizes one from the missing people report he and Cas saw on the newspaper that morning -- this morning, this very same day's morning when he was having that awesome breakfast. God, that feels like ancient ago. At least it seems like he has found all the missing people then, if they are all in this very building. But how on earth can they get everyone outta here, with probably a million creepy Weeping Angel statues guarding the place and the whole Manhattan?
 
 Dean shifts his attention to the end of the corridor. The light on the ceiling is not bright enough to shine up all the way toward the end.
 
 "Dean --" Rory calls after him.
 
-"Give me a sec." Dean says, walking cautiously toward the shadowed wall. The gut feeling growls in his brain like some answers are urging themselves out, as soon as he puts the last missing piece into the puzzle. And something tells him the answer is right there.
+"Give me a sec." Dean says, walking cautiously toward the shadowed end wall. The instinct feeling growls in his brain like some answers crawling their way out, waiting for him to put the last missing piece into the puzzle. And something tells him the answer is *right there*.
 
-The stone alcove in the wall blends naturally with the rest of the decoration, looking exactly like a part of the building -- as old and dusty as everything else is, covered by cobwebs.
+The stone alcove in the wall blends in naturally with the rest of the decoration, looking exactly like a coherent part of the building -- as old and dusty as everything else is, covered by cobwebs.
 
 Dean stands close enough to see there is an Angel statue sitting in the alcove, but not close enough to have a clear look at the face. This one looks particularly familiar, but her face is hidden in her palms. Her short, straight hair dangles down before her ears, reaching her shoulders.
 
@@ -1958,15 +1958,15 @@ Realization hits him like a lightning.
 
 "Tessa," Dean breathes out the Angel's name in shock.
 
-That's what they are, the Weeping Angels -- the real angels and reapers, confined in a stone body, restricted by some quantum lock. But they're still the angels he knew, not some new monster species like the Doctor said.
+That's what they are, the Weeping Angels -- the real angels, confined in a stone body, restricted by some quantum lock. But they're still the angels he knew, not some new monster species like the Doctor said.
 
 "Oh God, I'm so dumb, of course," Dean gapes, backing away from the stoned Tessa, back to where Rory stands. That's exactly why he felt like he knew them, because he really does. The gatekeeper angels down there, aren't them the ones coming for Cas when he was broken? Inias or what's-his-name? And the other one with curly hair, isn't she the Angel of Water Cas pointed to him? The one called Hannah.
 
 He claps on his head, "I have to tell Cas." Dean sends out a rushed prayer as he walks back down the corridor.
 
-He is back next to Rory then, who is pointing at two side-by-side doors with his mouth open. "Look!"
+He is back next to Rory then, who points at two side-by-side doors with his mouth open. "Dean, look at that!"
 
-"Keep looking at that angel!" Dean tells him, then he turns.
+"Watch out for that angel!" Dean tells him, then he turns.
 
 Right on these two doors, the name tags unmistakably spell out:
 
@@ -1980,7 +1980,7 @@ and
 
 ### draft notes
 
-the gatekeeper angels of Winter Quay are Inias and Hannah (how Dean recognize), the alcove angel inside Winter Quay that caged Dean is Tessa (also how he recognize)
+the gatekeeper angels of Winter Quay are Inias and Hannah, the alcove angel inside Winter Quay is Tessa
 
 the elevator dings: make people think angels are coming up, actually Cas/Doctor/River/Amy coming up
 
@@ -2006,9 +2006,39 @@ the elevator dings: make people think angels are coming up, actually Cas/Doctor/
 >
 > (keep hinting Cas can hear Angels)
 
-### draft notes
+### Act 1
 
-loophole: don't need the device to find Winter Quay, it's in book chapter title → need to give a reason why can't use the known info (death in there not necessarily Dean/Rory? what's the luck?)
+*Half an hour ago, in Grayle's mansion.*
+
+
+
+
+
+###### [TBA]
+
+> handled Grayle: Grayle force tie Doctor/Cas, know them not human (bleeding grace, two hearts), make them collections; River from ten minutes later use vortex manipulator comes back, use Doctor's sonic lock the lights, punch Grayle, release Doctor/Cas, whisper to herself "it's gonna hurt", leave with "see you later", Doctor/Cas go save Amy/Dean, only find Amy (Chap.6 ending)
+>
+> Grayle read River's book (mentioned Dean/Cas sacrifice+Amy/Rory last farewell (keep it vague), River's broken wrist), Doctor freak out, try save Amy, change future
+>
+> (keep hinting Cas can hear Angels)
+
+### Act 2
+
+> River break wrist (fail to change future), Doctor/River's love talk (River thought not loved back), Cas hear (~~/cure?~~) River
+>
+> River/Amy's love talk (Cas hear)
+>
+> Amy use Doctor's device to locate Dean/Rory, Cas hear Dean's prayer
+
+### Act 3
+
+> (merge Chap.7 ending, Cas POV)
+>
+> 4 of them go to Winter Quay to save Dean/Rory, 6 meet, see room names, split witness old Dean die (Cas uneasy), Amy see old Rory (River/Doctor there too)
+>
+> discuss weeping angel's motives
+
+### draft notes
 
 why can't River comes back ten more minutes earlier: "You try ride motorbike in traffic like this? I can tear the world apart if I got one minute wrong."
 
@@ -2016,7 +2046,7 @@ future River comes, first sentence: "Hello, Sweetie. Again. What are you boys go
 
 During handling Grayle: Grayle: "I want to know if it can feel pain" Cas: "Do you realize she's screaming? The others can hear." (more visual description of the tortured angel) (after finish Grayle) Doctor to Cas: "You talk about it like it's alive" River: "Like it's your own kind" Amy: "You said 'she'" River: "What are you, really?" (Cas handle trust issue with Doctor/River/Amy when Dean's not there endorse/defend/help him) Cas might let slip: "She has a name!" the tortured angel is Hael, the mother-son statues are Mirabel and Samandriel
 
-(Amy realize Rory was in cellar bc burned matches)
+(Amy realize Rory was in cellar bc burned matches and Grayle's slipped "Those two, take them to the babies, like the other one.")
 
 Amy accidentally read from the book that River has to break her wrist (book always with Amy now)
 
@@ -2026,15 +2056,15 @@ Doctor/River: "Why did you lie to me?" "When one's in love with an ageless God w
 
 River/Amy: "okay, why did you lie?" "Never let him see the damage. And never, ever, let him see you age. He doesn't like endings."
 
-Dean: "Let me get this straight. You save the universe but only save the UK part, fly across galaxy is close enough but USA is too far away? This isn't your jurisdiction or something? Pal, not I'm saying, you did a terrible job in protecting the earth, in case you didn't notice, it at least trashed twice if we didn't ..." Doctor: "All due respect, who's behind that? Also, USA almost trashed twice doesn't mean..." River/Amy: "Don't mind him, London gets trashed every Christmas, it's a Doctor and Monster thing." Dean/Cas: "You can say that again."
-
-Dean wrt Doctor/River: "I guess a thousand year age difference isn't a problem then." "You got anything to say about that?" "What? No, no, of course not." (Dean unintentionally glance at Cas, finding him look at him too) "We were married when I was half-way killing him and he was trying to save the world. It's complicated." Dean grins: "Isn't it always?" (unintentionally meet Cas's eyes again)
-
 Amy: "Husband, run!" River: "Husband, shut up!" Dean: (swallow) others: (amused, glimpse at Dean/Cas) Dean: (blush)
+
+loophole: don't need the device to find Winter Quay, it's in book chapter title → need to give a reason why can't use the known info (death in there not necessarily Dean/Rory? what's the luck?)
 
 why infected/weeping angel sends people back/touch them: (Cas's theory) maybe not to harm them, but asking for help, angels have instinct to heal by touch, so they're looking for touch to self-cure, or they're too lonely, so they capture these humans to keep themselves accompany; (Doctor's theory) they feed on time energy, they capture these human for food source; (Dean's theory) they're and they've always been bastards, so they're just continuing being bastards, want to feed *and* attract more angels and hunters over, so they can spread the disease and get more food; or that's the karma for them, about time they pay for being assholes all these times (which pains Cas to think any of them deserve this bc he can hear the angels' screaming of pain even if they're not really alive as stones)
 
 why weeping angels everywhere, Cas back from Purgatory only a week ago: time travel, if they exist at one point of time, they're in all the time, that's why no one knows where they come from: chronologically they didn't exist a week ago, that's the ground zero, but ever since then, they spread to the whole time flux
+
+#### References
 
 Reuse River's confession lines when she doesn't recognize 12th Doctor in S09E13 "The Husbands of River Song", loving Doctor is like loving stars themselves, doesn't expect sunset to admire you back (Dean's the same with Cas): "The Doctor does not and has never loved me. I'm not lying. But **whoever said he loved me back? He's the Doctor. He doesn't go around falling in love with people.** And if you think he's anything that small or that ordinary, then you haven't the first idea of what you're dealing with. God knows where he is now but I promise you he's doing whatever the hell he wants and not giving a damn about me. And **I'm just fine with that.** **When you love the Doctor, it's like loving the stars themselves. You don't expect a sunset to admire you back.** And if I happen to find myself in danger, let me tell you, **the Doctor is not stupid enough, or sentimental enough, and he is certainly not in love enough to find himself standing in it with me!**" "Hello, sweetie." "You are so doing those roots." "What, the roots of the sunset?" "Don't you dare." "I'll have to check with the stars themselves." "Oh, shut up."
 
@@ -2127,5 +2157,13 @@ Brian looks to the Doctor, so serious: "What happened to the other people who tr
 > (post all the unused witty comments)
 >
 > (mention the timeline fits the air date of both shows)
+
+### draft notes
+
+Dean: "Let me get this straight. You save the universe but only save the UK part, fly across galaxy is close enough but USA is too far away? This isn't your jurisdiction or something? Pal, not I'm saying, you did a terrible job in protecting the earth, in case you didn't notice, it at least trashed twice if we didn't ..." Doctor: "All due respect, who's behind that? Also, USA almost trashed twice doesn't mean..." River/Amy: "Don't mind him, London gets trashed every Christmas, it's a Doctor and Monster thing." Dean/Cas: "You can say that again."
+
+Dean wrt Doctor/River: "I guess a thousand year age difference isn't a problem then." "You got anything to say about that?" "What? No, no, of course not." (Dean unintentionally glance at Cas, finding him look at him too) "We were married when I was half-way killing him and he was trying to save the world. It's complicated." Dean grins: "Isn't it always?" (unintentionally meet Cas's eyes again)
+
+patch: why Tessa the reaper is considered an angel: reaper is angel of death; why reaper go to Purgatory to save Cas: second-hand infected by other angel/reaper in interaction
 
 ###### [END]
