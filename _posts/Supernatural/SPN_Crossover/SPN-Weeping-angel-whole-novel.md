@@ -244,7 +244,7 @@ angels can feel pain, can laugh, can scream, others can hear
 
 can be locked by iron handcuff
 
-the tortured angel in Grayle's house is Hael, the mother-son statues are Mirabel and Samandriel, the Angel of Water is Hannah
+the tortured angel in Grayle's house is Hael, the mother-son statues are Mirabel and Samandriel, the Angel of Water is Hannah, the gatekeeper angels of Winter Quay are Inias and Hannah (how Dean recognize), the alcove angel inside Winter Quay that caged Dean is Tessa (also how he recognize)
 
 why infected/weeping angel sends people back/touch them: (Cas's theory) maybe not to harm them, but asking for help, angels have instinct to heal by touch, so they're looking for touch to self-cure, or they're too lonely, so they capture these humans to keep themselves accompany; (Doctor's theory) they feed on time energy, they capture these human for food source; (Dean's theory) they're and they've always been bastards, so they're just continuing being bastards, want to feed *and* attract more angels and hunters over, so they can spread the disease and get more food; or that's the karma for them, about time they pay for being assholes all these times (which pains Cas to think any of them deserve this bc he can hear the angels' screaming of pain even if they're not really alive as stones)
 
@@ -286,7 +286,7 @@ Dean&Cas find case in Manhattan: statue moving, people disappearing & sudden agi
 
 Dean&Cas first notice Rory zapped away, run into Doctor/Amy (self-intros, Doctor/Cas discuss time flux), Doctor has River's book (mentioned Dean/Cas sacrifice+Amy/Rory farewell (keep it vague), River's broken wrist, gives specific time location), Cas fly 4 of them to 1938, too many weeping angels there, everyone in danger, Cas power limited because of all the angel/temporal energy
 
-Dean/Amy volunteer to check Rory, Dean protect Amy & zapped away to Winter Quay, meet Rory; Dean/Rory try to find exit, surrounded by angels, back away in corridor, notice familiar angel face (<u>Tessa 201</u>, <u>Inias 721</u>, <u>Samandriel 802</u>, Ion 821, <u>Hael 901</u>, Malachi 909, Theo 909, Azrael 909, Sophia 909, Ezekiel 909, <u>Hannah 918</u>, Ambriel 1110, Benjamin 1210, <u>Mirabel 1210</u>), realize infection pattern
+Dean/Amy volunteer to check Rory, Dean protect Amy & zapped away to Winter Quay, meet Rory; Dean/Rory try to find exit, surrounded by angels, back away in corridor, notice familiar angel face (<u>Tessa 201</u>, <u>*Inias 721*</u>, <u>*Samandriel 802*</u>, Ion 821, Nathaniel 823, <u>Hael 901</u>, Ingrid 908, Malachi 909, Theo 909, Azrael 909, Sophia 909, *Ezekiel 909*, <u>*Hannah 918*</u>, Neil 923, Ambriel 1110, Benjamin 1210, <u>Mirabel 1210</u>), realize infection pattern
 
 River break wrist (fail to change future), Doctor/River's love talk (River thought not loved back), Cas hear & cure River; Amy use Doctor's device to locate Dean/Rory, 4 of them go save, see room names, all witness old Dean die (Cas uneasy); River/Amy's love talk (Dean/Cas both hear)
 
@@ -325,6 +325,8 @@ Chap.4: the bickers might be too lightheaded? situation is urgent, Amy should be
 Chap.4: double check the change of relationship between every character, how do they change from untrusted strangers to acquittance/friends
 
 sonic screwdriver: green light, not blue
+
+when posting: Chap.4/7's Act 1/2 post as separate chapters on AO3
 
 # Main
 
@@ -1478,7 +1480,7 @@ Amy strikes a match. The dancing flame lightens up a tiny corner of the place, d
 
 They try to examine the space from the dim light.
 
-There is a broken chandelier not far from the end of the stairs. The glasses shatter on the floor, leaving sharp pieces and shards all over like hidden blades, shimmering with flame's reflection. An empty matchbox is tipped upside down on the floor, a dozen charred match stumps scattering around it.
+There is a broken chandelier not far from the end of the stairs. The glasses shatter on the floor, leaving sharp pieces and shards all over like hidden blades, shimmering with flame's reflection. Another empty matchbox has been tipped upside down on the floor, a dozen charred match stumps scattering around it.
 
 "Careful," Dean breathes. Amy startles, dropping the match.
 
@@ -1488,7 +1490,7 @@ They gasp together. Amy strikes a second match.
 
 From the flickering light, they see a small group of cherub statues crowding in on them. The little stone babies, barely can stand straight, lie around on the dusty floor, chubby little hands and legs entangled together. Looking as harmless and innocent as the ones from Bethesda Fountain looked like initially. But they know better than being fooled by the look.
 
-They stare at the cherubs, edging slowly backward on the stairs, ascending to where the door is. Amy moves on higher steps, Dean follows her, keeping a barrier between her and the statues. His shadow stretch long in the faint flame and merge with the rest of the darkness.
+They stare at the cherubs, edging slowly backward on the stairs, ascending to where the door is. Amy moves on higher steps, Dean follows her, keeping a barrier between her and the statues. His shadow stretches long in the faint flame and merges with the rest of the darkness.
 
 Amy curses when the match burns her finger.
 
@@ -1502,7 +1504,7 @@ Tears stream down her face.
 
 The match burns out again. Her quiet sob mixes with the creepy giggles.
 
-"We'll find a way," Dean stumbles up a few steps on the stairs in the complete darkness, blindly looking for the way, "The smart people upstairs, your Doctor and my Angel, they'll think of something. We just have to last until they come."
+"We'll find a way," Dean stumbles up a few steps on the stairs in the complete darkness, blindly looking for the way, "The smart people upstairs, your Doctor and my -- and Cas, they'll think of something. We just have to last until they come."
 
 Amy lights another match with unsteady fingers.
 
@@ -1534,13 +1536,13 @@ The light goes out just as he finishes the work.
 
 Dean stares at the cloth bundle as he moves back to the top of the stairs. The bundle didn't move in the blink of darkness between the lights.
 
-When that match burns out and they light the next, the bundle still remains in the same place, near the bottom of the stairs. They don't hear any giggle or pitter-patter either.
+Between that match burning out and them lighting the next, the bundle still remains in the same place, near the bottom of the stairs. They don't hear any giggle or pitter-patter either.
 
 Amy lets out a long breath, "How do you know it would work?"
 
-"I don't," Dean admits, "Lucky guess. Figured if they can't see us, they might not dare move. Or at least it will be a hell trying to climb up the stairs like that."
+"I don't," Dean admits, "Lucky guess. Figured if they couldn't see us, they might lose the nerve to move, so took my chance. Or at least it will be a hell trying to climb up the stairs like that, have you seen three-legged race?"
 
-"Nice job," Amy sits down on the top step, still holding the matchbox tight. There are still perhaps about ten matches left, and she doesn't want to stop striking, even just for ten seconds of comfort.
+"Nice job," Amy sits down on the top step, still holding the matchbox tight. There are still perhaps about ten matches left, and she doesn't want to stop lighting, even just for ten seconds of comfort.
 
 "Hey," Dean puts a tentative pat on her shoulder, "we'll be fine."
 
@@ -1548,7 +1550,7 @@ Amy lets out a long breath, "How do you know it would work?"
 
 "Was everything really fine then?" Dean asks, sitting down on the stairs one level lower than her. The cold cellar door is over their heads.
 
-"Not really," Amy says, "there was a crack on my wall, which turned out to be a crack in the time and space, and then it killed Rory and wiped my memory, and he came back becoming a plastic Roman robot, and we exploded the universe."
+"Not really," Amy says, "there was a crack on my wall, which turned out to be a crack in the time and space, and then it killed Rory and wiped my memory, and he came back becoming a Roman robot, and we exploded the universe."
 
 "Wow," Dean blinks, "that's gonna make my story of blowing up the Hell and letting Lucifer out sounds so lame. What happened next?"
 
@@ -1578,15 +1580,15 @@ They shake their hands.
 
 "And the dude with me is Castiel, Angel of the Lord."
 
-Amy stiffens reflexively when the word "angel" is mentioned. Dean notices from the hands they connected.
+Amy stiffens reflexively when the word "angel" is mentioned. Dean notices it from the hands they connected.
 
-"Sorry," he says automatically, "you know, it sounds really strange, the Weeping Angel and the actual angel I know, I was so used to angels being only dudes in suits like him."
+"Sorry," he says quickly, "you know, it sounds really strange, the Weeping Angel and the actual angel I know, I was so used to angels being only dudes in suits like him."
 
 Amy nods in understanding, then asks, "Are other angels all like him?"
 
 "No, there is no one like him." Dean answers. "He's..." he trails off temporarily, "he rebelled, he fell, but he always come back to me. Always help me when I need him." A small smile crawls onto his lips that no one sees.
 
-"Rory is like that too," Amy tells him, "I lost count how many time he's... gone." She chokes. The blackness brings truth out easy. "You know, I crashed a van once, after he was killed. Because I decided, if that was the real life, I don't want it. I wasn't sure how I felt about him until he was gone, and I never even told him I loved him. I don't know what I'd do without him. And lucky for me, it turned out to be an evil Dream Lord's dream world. I was so happy we get a second chance, then third, then fourth. I lost count, Rory was taken from me a lot, but he always comes back."
+"Rory is like that too," Amy tells him, "I lost count how many times he's... gone." She chokes. The blackness brings the truth out easily. "You know, I crashed a van once, after he was killed. Because I decided, if that was the real life, I don't want it. I wasn't sure how I felt about him until he was gone, and at that time I never even told him I loved him. I don't know what I'd do without him. And lucky for me, it turned out to be an evil Dream Lord's dream world. I was so happy we got a second chance, then third, then fourth. I lost count, Rory was taken from me a lot, but he always comes back."
 
 Dean stares at the pure darkness before his eyes, blinking hard, thinking he must be hallucinating to see images flashing by on the black curtain -- the rain of exploded flesh and blood, the floating trench coat on the lake water, the hand slipping from his palm. "I know what you mean." he replies, his voice hoarse.
 
@@ -1616,7 +1618,7 @@ She strikes a match right then, flashing bright both their solemn faces.
 
 "What?" Dean is surprised, staring into her sparking eyes.
 
-"I'm not blind, Dean," she says, looking into his eyes, "I see the way you two look at each other. It's the same way Rory looks at me, every time."
+"I'm not blind, Dean," she says, looking into his eyes, "I see the way you two look at each other. It's the same way Rory looking at me, every time."
 
 The match burns out.
 
@@ -1632,9 +1634,9 @@ Amy and Dean hurry back down a few steps in the darkness, covering their ears, l
 
 "Dean!" Cas's voice passes through the noises.
 
-"Cas." Dean's heart skips a beat, jumping too lightly. Cas's okay, and he's coming for him, again.
+"Cas." Dean's heart skips a beat, jumping too lightly. Cas is okay, and he's coming for him, again.
 
-The cellar door is blasted open, two metal plates flying into the space. Dean covers Amy with his body, getting a hit on the back. The impact pushes them down to the bottom of the stairs.
+The cellar door is blasted open, two metal plates flying into the space. Dean covers Amy with his body, getting a harsh hit on the back, throwing both of them down to the bottom of the stairs.
 
 "Amy!" The Doctor thunders down, beaming the sonic screwdriver at the dark space like a torch, pulling Amy into a tight hug.
 
@@ -1666,17 +1668,19 @@ Dean wrt Amy/Rory: "So you two are married." Cas wrt Doctor/River: "You two are 
 
 > (Dean POV)(Act 2 realization)
 >
-> Dean goes to Winter Quay, Dean meet Rory, Dean/Rory try to find exit in Winter Quay, Dean/Rory talk, surrounded by angels, back away in corridor, notice familiar angel face (Tessa, Inias, Hannah, ~~Samandriel~~), realize infection pattern (phone call Cas? pray? pray send location info know about Winter Quay?)
+> Dean goes to Winter Quay, Dean meet Rory, Dean/Rory try to find exit in Winter Quay, Dean/Rory talk, surrounded by angels, back away in corridor, notice familiar angel face (Tessa, Inias, Hannah), realize infection pattern (phone call Cas? pray? pray send location info know about Winter Quay?)
 >
 > discuss weeping angel's motives (or move to next chapter)
 >
 > chapter end scene Dean pray to Cas, next chap begin Cas POV receiving prayer
 
-Unsteady on his foot, Dean staggers at the sudden change of the ground and chilly air. Fresh, outdoor, moist air replaces the stale, underground, cellar air, coming to his face.
+### Act 1
+
+Unsteady on his foot, Dean staggers at the sudden change of the ground and chilly air. Humid outdoor air replaces the stale underground air, coming to his face.
 
 One second he was ten feet from Cas, the next, he doesn't know where he is again.
 
-For that blink of a second, he swears he saw Cas standing right there, at the opening of the stairs, stepping down hurriedly toward him. He wanted to call his name, he wanted to laugh with joy that once again they escaped a dangerous situation, and right that moment, he felt a cold pull at the heel of his feet. And the ground spun under his feet.
+For that blink of a second, he swears he saw Cas standing right there, at the opening of the stairs, stepping down hurriedly toward him. He wanted to call him, he wanted to laugh with joy that once again they escaped a dangerous situation, and right that moment, he felt a cold pull at the heel of his feet. And the ground spun under his feet.
 
 He is outside -- still New York, undoubtedly, considering he can see the light from the Statue of Liberty on the Elise Island from across the water. He is at the south bay of Manhattan, then. The ground is wet with reflections glinting on the puddles, just like the after-rain road they first stepped on when Cas first flied them to 1938. So if he's lucky enough -- Dean puts a mental question mark on the assumption -- it might be the same rain, and he might still be around the same time, give or take. Fingers crossed.
 
@@ -1684,37 +1688,37 @@ The street view looks differently though. There is no more posh wealthy collecto
 
 A bright red neon sign reads "Winter Quay" hanging on the very top of the building.
 
-There is barely any light coming out from the windows, with a few of them open. If he looks close enough, there are people sitting next to the windows, idly looking out. He has glimpses of some old people moving sluggishly behind the windows.
+There is barely any light coming out from the windows, with the majority of them closed tight and only a handful of them open. If he looks close enough, there are people sitting next to the windows, idly looking out. He has glimpses of some old people moving sluggishly behind the windows.
 
-*Not just any apartment building then, an elderly living building.* Dean thinks, instantly feeling a prickle at the back of his neck. He doesn't like it, but he can't really tell why, just the usual, hunter's instinct kicking in. Something about this building gives him the same feeling whenever they have to go into a haunted house -- the lingering sense of death and a creepy sense of something terribly wrong there. The places where most cases happen and people would die.
+Not just any apartment building then, an elderly living building. Dean thinks, instantly feeling a prickle at the back of his neck. He doesn't like it, but he can't really tell why, just the usual hunter's instinct kicking in. Something about this building gives him the same feeling whenever they have to go into a haunted house -- the lingering sense of death and a creepy sense of something terribly wrong there. The places where most cases happen and people die. Talking about heebie jeebies.
 
-He reaches for the back of his belt automatically, his fingers closing on empty air. The damned Grayle and the guards took his gun, of course. Dean curses quietly, clenching his fist.
+He reaches for the back of his belt automatically, his fingers closing on empty air. The damned Grayle and his guards took his gun and phone, of course. Dean curses quietly, clenching his fist.
 
-He doesn't like it -- he's all alone, weapon-less, backup-less, clueless. He doesn't know when and where he is, and there is this creepy-looking old people's house waiting for him to enter. The opened gate is more like an opening mouth waiting to swallow him in.
+He doesn't like it -- he's all alone, weapon-less, backup-less, clueless. He doesn't know when and where he is, and there is this creepy-looking old people's house waiting for him to enter. The gate creaks open by itself as Dean looks, like an opening mouth waiting to swallow him in.
 
-"Standard opening of a B-movie, replacing ketchup with blood. Great." He murmurs to himself, wondering if there is anywhere he can go instead of stepping into the unquestionable biggest creepy house that looks like trying to invite him in.
+"Standard opening of a B-movie, replacing ketchup with blood. Great." He murmurs to himself, wondering if there is anywhere he can go other than stepping into the unquestionably biggest creepy house that looks like trying to invite him in.
 
-There is fluttering sound of wings somewhere behind him. Dean turns sharply, but he can see nothing but trees jittering in the light wind. The yellow bulbs of the street lamps are only bright enough to light up maybe twenty feet of the road around them. Something lurks in the dark shadow.
+There is fluttering sound of wings somewhere behind him. Dean turns sharply, but he can see nothing but trees jittering in the light breeze. The yellow bulbs of the street lamps are only bright enough to light up maybe twenty feet of the road around them. Something lurks in the dark shadow.
 
-Dean turns back to the apartment building. The two angel statues standing by the gate have shifted their postures. Dean's pretty sure their hands were covering their faces before he turned, and now their hands are lowered, their faces showing. Their wings are furled close to their back, both wearing long robes.
+Dean turns back to the apartment building. The two angel statues standing by the gate have shifted their postures. Dean's pretty sure their hands were covering their faces before he turned, and now their hands are lowered, their faces showing. Their wings are furled close to their backs, both wearing long robes.
 
 "More Weeping Angels." He curses, staring at both of them, not daring to blink the slightest. "Please don't tell me every single statue in Manhattan is a freaking Weeping Angel."
 
-The dark night doesn't answer his question, but sends more movement behind his back. There is no way he'd turn around to check if it's more angel statues shaking the trees or just wind, with the two very adult-looking angels eying hungrily in his direction.
+The dark night doesn't answer his question, only sending more movement behind his back. There is no way he'd turn around to check if it's more angel statues shaking the trees or just wind, with the two very adult-looking angels eying hungrily in his direction.
 
-Walking inside the obvious trap seems to be the option now.
+Walking inside the obvious trap seems to be the only option now.
 
 Dean mentally calculates the route where he can walk into the gate of the building without looking away from both gatekeeper Angels. The conclusion seems to be impossible, but he bets his luck.
 
 Dean walks toward the gate, feeling his eyes start to sore again. He blinks one eye at a time, barely wetting the dried eyes. The statues didn't move.
 
-There are a stretch of stairs leading to the gate, five steps, give or take. He has to measure the distance with the periphery of his eyes, keeping the focus remain on the statues. For the first time, he feels two eyes are too limited. *Why don't human involve to more eyes?* Dean thinks, then he wonders what Cas's "eyes in all directions" look like.
+There is a stretch of stairs leading to the door, five steps, give or take. He has to measure the distance with the periphery of his eyes, keeping the focus remain on the statues. For the first time, he feels two eyes are not enough. He can't help wondering what Cas's "eyes in all directions" look like.
 
-No way of keeping eyes on both angels now, Dean holds his breath and dashes into the gate, then takes a sharp turn the moment he's inside. He gasps as the gatekeeper angels stand right behind his back, face to face with fierce looking expressions. Their fingers might only be an inch away from him, if he hadn't run as fast as he ever did in his life.
+No way of keeping eyes on both angels now, Dean holds his breath and dashes into the gate, then takes a sharp turn the moment he's inside. He gasps as the gatekeeper angels stand right behind his back, face to face with fierce expressions. Their fingertips might only be an inch away from him, if he hadn't run faster than he ever did in his life.
 
-Dean stares at their faces, and the statues remain still. "You are really some ugly sons of bitches, you know that?" He spits at the female angel statue with short curl hair. He imagines it might supposed to portrait some beautiful, fairy-tale looking, gentle, halo-and-harp style angel, and now, they are all monsters. The other male angel looks as strong and fit as Michelangelo's David, his socket deep and chasmal, his nose tall and straight. Dean has a weird feeling of familiarity but he can't quite place it.
+Dean stares at their faces, and the statues remain still. "You are really some ugly sons of bitches, you know that?" He spits at the female angel statue with short curly hair. He imagines it might supposed to portrait some beautiful, fairy-tale looking, gentle, halo-and-harp style angel, and now, they are all nothing but monsters. The other male angel looks as strong and fit as Michelangelo's David, his socket deep and chasmal, his nose tall and straight. Dean has a weird feeling of familiarity but he can't quite place it.
 
-He keeps the eye contact with both of them while backing up slowly, pulling one leaf of the door over, then the other, bolting them tight. Looking around, he finds a long loose pole by the frame. He blocks it on the door handles for good measure.
+He keeps the eye contact with both of them while backing up slowly, pulling one leaf of the door over, then the other, bolting them tight. Looking around, he spots a long loose pole lying by the doorframe. He blockades it on the door handles for good measure.
 
 Regarding his work, Dean lets out a short relieved breath.
 
@@ -1726,13 +1730,13 @@ The Coffee Guy rubs his shoulder that just got punched, moaning in complaint.
 
 "Sorry," Dean says apologetically, then recognizes him, "It's you. The Coffee Guy."
 
-The guy raises his eyebrows, the same recognition dawns on him, a tight joy showing, "You're the one from the Central Park," then the raised tips of his lips quickly drop, "I'm sorry, if you're here, did you also get sent back by the Angels? River told me a little bit, but I got no idea..."
+The guy raises his eyebrows, the same recognition dawns on him, a tight joy showing, "You're the one from the Central Park," then the raised tip of his lips quickly drops, "I'm sorry, if you're here, did you also get sent back by the Angels? River told me a little bit, but I got no idea..."
 
 "No," Dean answers immediately, thinking about Cas's wings, but then the cellar, "Yes. Sorry, yes and no. It's a bit confusing."
 
 "Rory Williams, also confused." The man holds out a hand.
 
-"Dean Winchester." Dean shakes his hand, then realizing, "So you're Rory. Amy tells me all about you."
+"Dean Winchester." Dean shakes his hand, "Amy told me all about you."
 
 Rory's jaw immediately tightens, "Amy is here too? Where is she? Is she safe?"
 
@@ -1740,11 +1744,143 @@ Dean holds up two hands in a soothing pose, "Calm down, she's okay -- at least l
 
 "Doctor is here too?" Rory is visibly more relieved.
 
-"Yeah, your whole big happy family, Amy, Doctor, River, everyone. You guys are having a family trip or something?" Dean can't help himself remarking.
+"Yeah, your whole big happy family, Amy, Doctor, River, everyone. You guys are having a family trip or something?" Dean can't help remarking.
 
-Rory shakes his head, shifting his feet uneasily on the floor. "We were just hanging out in New York. Then everything went wrong, like it always does."
+Rory shakes his head, shifting his feet restlessly on the floor. "We were just hanging out in New York. Then everything went wrong, as usual." He looks a bit frustrated, but not irritated, as if already getting too used to being thrown into a rabbit hole of trouble.
 
+"Things always went wrong, didn't they?" Dean seconds that in annoyance.
 
+He looks around the place, examining the lobby they're in. It's a shabby place, bare and dusty, old already even as they're in the thirties, god knows how long the building has been built and probably no one has tended to it ever since. The typical look of a deserted place. Dean can't help wondering if those old people he caught sight of from outside by the windows, if they are ghosts or residents.
+
+Dim street light passes into the space from a grimy clerestory window high above reach, near the ceiling. The metal plaque by the exposed elevator well shows at least seventy floors, with twenty to thirty rooms on each story.
+
+Dean does a quick mental math and frowns deeply, "Holy, that's gonna be like two thousand people here." If the rooms are occupied.
+
+"Why would anyone live in a place like this?" Rory asks beside him, staring at the same sign.
+
+"Low rent?" Dean offers.
+
+Right then, the gate rattles. The long rod he stuck on the handles is shaken loose. The door latches shudder like giants with great strength are shaking it from the outside, trying desperately to break in.
+
+They gasp, hurrying toward the gate together, pushing with their backs to fight the door shut.
+
+"Or the Angels force them to stay," Rory notes the obvious.
+
+"Thanks, Sherlock," Dean grunts, pushing at one leaf of the door while Rory holds the other. "Any idea how to get out of here?"
+
+Rory throws him an unhappy look, "I wouldn't be here if I know."
+
+Dean squints at the new notice, "How long have you been here? You knew it wouldn't work when I blocked the door, you said you tried."
+
+"I don't know, maybe minutes, maybe hours." Rory considers, "My watch stopped working, I have no idea."
+
+Dean glances at his own watch. The fingers are not stopped -- they are moving, but they're moving pointlessly, they skip ahead then move back, they shiver at one point then suddenly start ticking again, then hesitate again. The watch has no idea about the time. *The time flux is scrambled.*
+
+"Any idea what's the worst thing could happen if you get touched by one of those again?" Dean tries to prepare for the worst. Maybe they can still try to make a run, the brutal force way.
+
+"Send you further back in time," Rory deadpans. "Why wouldn't they?"
+
+Dean sighs, "So it's like the aeroplane chess -- get flown right back to the hangar. Friggin' Angels! The worst monster ever!"
+
+The rattle on the door quiets for a moment, but they dare not move away.
+
+Dean doesn't know how long he can keep holding on it. His muscles are sore. By the look on Rory's face, the man is about the same on the edge.
+
+"Tell me about Amy," Rory says suddenly. "Tell me what she's like when you last met her."
+
+"What, you want a heart-to-heart *now*?" Dean disbelieves.
+
+"If the Angels break in and send me back again, that might be the last thing I'd ever heard about Amy ever again." Rory says as if it's obvious, "So yeah, I want to know as much about her as I still can. The memory would be all I ever have."
+
+"What's the matter with you two?" Dean sighs, staring at the young man with a stubborn yet eager look in his eyes. "She said she loved you, more than anything." He tells him dutifully.
+
+Rory's eyes brighten up like the Sun rising from the horizon. "She said that?"
+
+"Why would I lie about things like that?" Dean's eyes study his face, even the tiniest crinkle glinting with happiness. Is it what love would do to a person?
+
+Eyes unfocused on the dim air of the lobby, Rory says, "You know, sometimes I still can't believe how lucky I am. For a really long time, I thought she wouldn't ever love me the way I love her. Did she tell you we grew up together, and that we were always best friends?"
+
+"Not the 'best friend' part." Dean swallows, feeling a funny twist in the gut.
+
+"We were practically together every single day, I was always so happy to just *be* around her. But she never really looked at me that way. And you know what she said when she told people why we were just 'best friend'?" Rory pauses for a brief moment, not really waiting for an answer.
+
+"Because she thought I wasn't into girls." Rory chuckles softly, "Because I never spared a look at any other girls."
+
+"That's how she realized you love her." Dean guesses.
+
+"Yeah. Like I can look at anyone other than her." Rory smiles, sinking in his memory. "Then we got engaged, then she ran away with Doctor the night before our wedding."
+
+"What?" Dean almost laughs, but he manages to stifle the chuckle at the last moment, "Isn't that too late for cold feet?"
+
+"I think she was never really sure --" the gleams in Rory's eyes drop a few degrees, he stares at the dusty floor, "-- or it's me that's never confident in her enough. When we travel with the Doctor, I always think one day she'd run away with him and never come back again, choosing him over me, choosing the 'Doctor life' over our normal life. I mean, why wouldn't she? The adventures and stars, killing monsters and saving the world -- that's the story of amazing Amy Pond. And silly old me? All I ever really wanted is living in a peaceful small town, with her, raising our babies, growing old slowly together. But I wasn't sure that's what she wanted too. And I was okay with it."
+
+"But even so, you waited her for two thousand years." Dean remembers what Amy told him.
+
+Rory nods like it's nothing.
+
+"Why?" Dean can't help asking.
+
+"Do you have anyone you'd do anything to protect them, save them whatever it takes?"
+
+"I guess." Dean says.
+
+"Then you should know how it feels to leave them behind. I can't do that. So I stayed. I had to make sure she's safe." Rory answers easily.
+
+"She doesn't even know." Dean says.
+
+"It doesn't matter." Rory says with a firm voice, "To save her, I can do anything."
+
+"Even condemn the world?" Dean doesn't know why this slips out of his tongue.
+
+"Hopefully not," Rory thinks about it, "but if it means she's saved, then I don't know, maybe. Not like we haven't done it before."
+
+Dean raises his eyebrows, "The 'exploding the universe' thing?"
+
+Rory nods sheepishly, "More than once." Then adds quickly, "Sorry." As if afraid it personally offended Dean.
+
+"Cool," Dean grins slightly, "I'm feeling so much better for jump-starting the Apocalypse, twice. And then my best friend let human-eating monsters out running around all over the world."
+
+"We restarted the universe, though, for the record." Rory looks like compelled to add that, "No one remembers anything, history is back on track."
+
+"And we locked the monsters back into the monsterland." Dean mirrors, "Cost me a year in that place though."
+
+"Is that your version of 'waiting two thousand years'?" Rory detects the tone acutely.
+
+Dean widens his eyes, a little surprised at the way he put it, but thinking it through... "Actually now that you said it," he says, surprised again, this time at how accurate the analogy actually is, "Yes, it is."
+
+"I just couldn't leave the place until I found him, but then I almost lost him again because he didn't want to be saved. If the angels didn't save him, he didn't come back to me again, I don't know what I'd do." Dean grimaces, doesn't know why he starts telling this stranger -- maybe already friend now? Since they've been sharing stories -- the things between him and Cas, but what the hell, they might die any moment anyway. Better than stew in dark and horror.
+
+"I killed all the monsters I could hunt down to look for him, I think the whole Purgatory knew I was looking for him by the time I found him." Dean remembers the looks on those monsters' faces, the way they would smirk and say "his angel." Purgatory was pure, so pure that he couldn't even feel his cheek burn, because that was true. Cas was -- is, has been, and always will be -- his angel. *How can you love back someone love you like that? Died for you so many times? -- You save him back, whatever it takes.*
+
+"I was an idiot," Dean laughs at himself quietly, "not seeing what it is. Or maybe I knew, all along, but never let myself see it."
+
+Rory glances at him. "I'm glad you figured it out, mate." He says sincerely.
+
+Dean ducks his head, "But how does that work out?" Because things are never easy and cut clean with them, aren't they? Even with that -- the new realization -- in mind, that still gotta be more trouble than he knows how to handle. There always gotta be complications and frictions, or things like ideal lives that you imagined differently. Everything standing in between -- sometimes it almost feels like the whole world stands in between.
+
+"It can't possibly be 'happily ever after.'" Dean says.
+
+"We don't live in fairy tales," Rory gives him a look, "even Amy and I almost got divorced."
+
+Dean drops his jaw. "How?" He doesn't need to deliver the whole question: I see how deep in love you two are, how can you two possibly walk away from each other? If even you two can't work it out, does that mean...?
+
+Rory closes his eyes, refusing the pained memory, "We just... fell apart, I guess. Normal life happened, the Doctor didn't come to us for months, and we had a big fight. It happens."
+
+"How did you fix it?" Dean stares at the middle of the dim shabby room, seeing a holy fire circle burning with the angel in the center. And the last look they shared before he left him there. He blinks the image away. He hopes never to see that look again.
+
+"Oh, um, Amy almost got killed by the Daleks, and we saved each other," Rory replies evenly, "because I need her, and she needs me."
+
+"Of course." Dean actually laughs. Of course. How can it be any other way?
+
+Right then, the gate rattles harshly again, catching them in a moment of lax. It sways fiercely as if the strongest hurricane blows at it from the other side. The latch flies away and the door sways open.
+
+Dean and Rory get shoved heavily away by the metal door, throwing backward into the middle of the room.
+
+Two Weeping Angels stand in the opened doorway.
+
+<br>
+
+### Act 2
 
 
 
@@ -1752,20 +1888,14 @@ Rory shakes his head, shifting his feet uneasily on the floor. "We were just han
 
 ### draft notes
 
-> Dean/Rory try to find exit in Winter Quay, Dean/Rory talk, surrounded by angels, back away in corridor, notice familiar angel face (Tessa, Inias, Hannah, ~~Samandriel~~), realize infection pattern (phone call Cas? pray? pray send location info know about Winter Quay?)
+the gatekeeper angels of Winter Quay are Inias and Hannah (how Dean recognize), the alcove angel inside Winter Quay that caged Dean is Tessa (also how he recognize)
+
+the elevator has a very realistic human-size poster of the Statue of Liberty, as if it's real
+
+> Dean/Rory try to find exit in Winter Quay, surrounded by angels, back away in corridor, notice familiar angel face (Tessa, Inias, Hannah), realize infection pattern (phone call Cas? pray? pray send location info know about Winter Quay?)
 >
 > discuss weeping angel's motives (or move to next chapter)
-
-Dean/Rory talks about feeling, Rory talks about Amy, Dean: "you waited her for two thousand years? Why?" Rory: "Do you have anyone you'd do anything to protect them, save them whatever it takes?" Dean: "I guess" "Then you should know how it feels to leave them behind. I can't do that. So I guarded her." "She wouldn't even know" "It doesn't matter. To save her, I can do anything." "Even condemn the world?" "Hopefully not, but if it means she's saved, maybe then. Not like we haven't done it before" Dean raise eyebrow, Rory: "Long story" (Rory ask about Dean's past story, Dean: "Long story", long story everywhere) Dean mention one year in Purgatory to compare Rory's two thousand years (story-telling tone, flashback scene about post-purgatory, the parts different from canon)
-
-when talk about why not talk to Sam and let him think he's dead, Dean: "He'd never be truly happy if I'm alive. He'd never live the life he wanted if I'm alive. Now I can't really damn myself, so this is the second best thing I can give him." Rory: "You dumb thing. Do you really think he'd ever be truly happy again when he believe you're dead?" Dean silent
-
-Dean ask about Rory's family here, Rory mention Brian, topic of family → foreshadow for the ending: Rory/Amy's final decision of leaving Doctor, and Dean/Sam reunite; follow-up conversation with Amy about Amy's choices, normal life vs adventure, talking about "the other life" and maybe the truth is not about whereto but runaway, make Dean think Sam → foreshadow for the ending: to understand/call Sam, Dean realize he's angry/jealous/unfair to Sam (extend a bit more to show Dean/Cas actually visited Sam before heading out), but now that he realizes he has Cas, they don't *have to* choose, they can have both (similar to Rory/Amy)
-
-why infected/weeping angel sends people back/touch them: (Cas's theory) maybe not to harm them, but asking for help, angels have instinct to heal by touch, so they're looking for touch to self-cure, or they're too lonely, so they capture these humans to keep themselves accompany; (Doctor's theory) they feed on time energy, they capture these human for food source; (Dean's theory) they're and they've always been bastards, so they're just continuing being bastards, want to feed *and* attract more angels and hunters over, so they can spread the disease and get more food; or that's the karma for them, about time they pay for being assholes all these times (which pains Cas to think any of them deserve this bc he can hear the angels' screaming of pain even if they're not really alive as stones)
-
-why weeping angels everywhere, Cas back from Purgatory only a week ago: time travel, if they exist at one point of time, they're in all the time, that's why no one knows where they come from: chronologically they didn't exist a week ago, that's the ground zero, but ever since then, they spread to the whole time flux
-
+>
 > chapter end scene Dean pray to Cas, next chap begin Cas POV receiving prayer
 
 ## Chap 8 Calling The Doctor
@@ -1790,6 +1920,8 @@ why weeping angels everywhere, Cas back from Purgatory only a week ago: time tra
 
 ### draft notes
 
+loophole: don't need the device to find Winter Quay, it's in book chapter title → need to give a reason why can't use the known info (death in there not necessarily Dean/Rory? what's the luck?)
+
 why can't River comes back ten more minutes earlier: "You try ride motorbike in traffic like this? I can tear the world apart if I got one minute wrong."
 
 future River comes, first sentence: "Hello, Sweetie. Again. What are you boys going to do without me?" sonic Grayle and knock him out. current River complain: "Oh I wanted to do it" future River: "You get to do it in ten minutes" warn them about paradox, whisper to her old self in the ear something ("it's gonna hurt")
@@ -1811,6 +1943,10 @@ Dean: "Let me get this straight. You save the universe but only save the UK part
 Dean wrt Doctor/River: "I guess a thousand year age difference isn't a problem then." "You got anything to say about that?" "What? No, no, of course not." (Dean unintentionally glance at Cas, finding him look at him too) "We were married when I was half-way killing him and he was trying to save the world. It's complicated." Dean grins: "Isn't it always?" (unintentionally meet Cas's eyes again)
 
 Amy: "Husband, run!" River: "Husband, shut up!" Dean: (swallow) others: (amused, glimpse at Dean/Cas) Dean: (blush)
+
+why infected/weeping angel sends people back/touch them: (Cas's theory) maybe not to harm them, but asking for help, angels have instinct to heal by touch, so they're looking for touch to self-cure, or they're too lonely, so they capture these humans to keep themselves accompany; (Doctor's theory) they feed on time energy, they capture these human for food source; (Dean's theory) they're and they've always been bastards, so they're just continuing being bastards, want to feed *and* attract more angels and hunters over, so they can spread the disease and get more food; or that's the karma for them, about time they pay for being assholes all these times (which pains Cas to think any of them deserve this bc he can hear the angels' screaming of pain even if they're not really alive as stones)
+
+why weeping angels everywhere, Cas back from Purgatory only a week ago: time travel, if they exist at one point of time, they're in all the time, that's why no one knows where they come from: chronologically they didn't exist a week ago, that's the ground zero, but ever since then, they spread to the whole time flux
 
 Reuse River's confession lines when she doesn't recognize 12th Doctor in S09E13 "The Husbands of River Song", loving Doctor is like loving stars themselves, doesn't expect sunset to admire you back (Dean's the same with Cas): "The Doctor does not and has never loved me. I'm not lying. But **whoever said he loved me back? He's the Doctor. He doesn't go around falling in love with people.** And if you think he's anything that small or that ordinary, then you haven't the first idea of what you're dealing with. God knows where he is now but I promise you he's doing whatever the hell he wants and not giving a damn about me. And **I'm just fine with that.** **When you love the Doctor, it's like loving the stars themselves. You don't expect a sunset to admire you back.** And if I happen to find myself in danger, let me tell you, **the Doctor is not stupid enough, or sentimental enough, and he is certainly not in love enough to find himself standing in it with me!**" "Hello, sweetie." "You are so doing those roots." "What, the roots of the sunset?" "Don't you dare." "I'll have to check with the stars themselves." "Oh, shut up."
 
@@ -1872,19 +2008,21 @@ Dean's strongest reason to sacrifice instead of Amy/Rory: You have each other, I
 >
 > Cas back normal, disoriented, actually weeping, bc overjoy Dean's alive again but hate to see him die for him again; dean overjoy Cas's back
 >
-> Doctor/River bicker (book→deliver to Dean/Cas's motel room), Amy/Rory resign (farewell→fulfill last chapter), Dean/Cas confession, HE
+> Doctor/River bicker (book→deliver to Dean/Cas's motel room), Amy/Rory resign (farewell→fulfill last chapter), Dean/Cas confession (→go to Sam), HE
 
 ### draft notes
 
 destiel reunion: hug "Don't do that again" "Same goes for you"
 
-Amy/Rory make the decision to leave Doctor bc of Dean/Cas, importance of family (remember to mention Rory's dad Brian in early conversations, "Don't you have anyone waiting for you to come home" "My dad waters plants for us"), Dean/Cas decide to call Sam and reunite together bc of Amy/Rory
-
 Doctor/Cas: "see you next time, somewhere in the universe, some time in the future or past" "Look forward to it, Doctor" smile and wave goodbye
 
-Dean/Cas mutual confession: Dean's part enlightened by Amy from Chap. 6, Dean start understand feeling (flashback a bit about post-purgatory, Dean topside first a few days, then Cas)
+Dean/Cas mutual confession: Dean's realization enlightened by Amy from Chap.6 and Rory from Chap.7, Dean start understand feelings since Chap.7
 
-Dean/Sam's part enlightened by Rory from Chap. 7
+Amy/Rory make the decision to leave Doctor bc of Dean/Cas, importance of family (talk about Rory's dad Brian, "Don't you have anyone waiting for you to come home" "My dad waters plants for us"), Dean/Cas decide to call Sam and reunite together bc of Amy/Rory
+
+about Sam: Dean ask about Rory's family here, Rory mention Brian, topic of family → lead to the ending: Rory/Amy's final decision of leaving Doctor, and Dean/Sam reunite; follow-up conversation about normal life vs adventure, talking about "the other life" and maybe the truth is not about whereto but runaway, make Dean think Sam → lead to: understand/call Sam, Dean realize he's angry/jealous/unfair to Sam (extend a bit more to show Dean/Cas actually visited Sam before heading out), but now that he realizes he has Cas, they don't *have to* choose, they can have both (similar to Rory/Amy)
+
+when talk about why not talk to Sam and let him think he's dead, Dean: "He'd never be truly happy if I'm alive. He'd never live the life he wanted if I'm alive. Now I can't really damn myself, so this is the second best thing I can give him." Rory: "You dumb thing. Do you really think he'd ever be truly happy again when he believe you're dead?" Dean quiet
 
 witty comments about how come the cheapest hotel sounds like 5-star penthouse; you can't live in anywhere too far away from any landscape in Manhattan (about where to deliver the book in timeline)
 
@@ -1894,6 +2032,12 @@ Brian looks to the Doctor, so serious: "What happened to the other people who tr
 
 > (use as epilogue, letter format?, like Amy's letter to the Doctor from the past)
 >
-> (post all the unused witty comments?)
+> some possible follow-ups (with some time jump?): Brian/Rory/Amy dinner, Rory/Amy/Doctor/River Christmas, Doctor/Cas meet in time flux maybe even for help, Sam/Dean/Cas reunite & intro to Sam's new life, surprise: Amy/Charlie meet
+
+## Deleted Scenes (Not a Chapter)
+
+> (post all the unused witty comments)
+>
+> (mention the timeline fits the air date of both shows)
 
 ###### [END]
