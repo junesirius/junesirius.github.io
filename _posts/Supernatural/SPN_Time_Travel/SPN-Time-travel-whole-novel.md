@@ -61,7 +61,7 @@ Every time he's at some place/time, Cas accidentally or intentionally interfere 
 
 when after shattering the star and made the asteroid belt, Cas is properly frightened. Sky fall apart, reality break apart by too many changes from butterfly effect, cost is mass energy compensate, paradox create crack in the reality and going to swallow Cas (or just bc Cas can't bear the mess he made to the world, self-torture even as the broken!Cas's child mind, still not worry about himself, it's about world). Cas go back to current time to Dean, Dean ask him to trace his own steps back with him, reset his changes, unsave the people he save, witness and experience everything together with him. Dean finally get to see the whole human and universe history together with Cas, in Cas's eyes, see a broader world view, how many human get to see human evolution and Earth's creation. Dean float in the space watching Earth forming for the first time, air and sea start to divide and shape, he's not looking at the universe, he's looking at Cas (≈ Good Omens S2, DW S01E02), realize more than ever how unhuman and human Cas is, in awe and feel pain. They fix timeline and go home together.
 
-go back to the original timeline, still need to fix leviathan problem (can't fix it in the past bc Cas unleash them himself, fixed point, paradox), after all that, Cas willing to help, Dean willing to be patient enough to him, Cas's brokenness is fixed
+go back to the original timeline, still need to fix leviathan problem (can't fix it in the past bc Cas unleash them himself, fixed point, paradox), after all that, Cas willing to help, Dean willing to be patient enough to him, Cas's brokenness is fixed (go back to fit into S07E23 before finale)
 
 ### Outline
 
@@ -69,6 +69,20 @@ go back to the original timeline, still need to fix leviathan problem (can't fix
 
 (Note 2: doesn't need to be in the same order as the organized timeline idea, could rewind and skip, especially the time jump events, bc Dean'll revisit with him, so doesn't have to write twice, can go through Dean POV, only detail them on 2nd trip)
 
+###### [TBA]
+
+### Claim info
+
+#### Claim summary
+
+#### Visual description
+
+### Post info
+
+#### Post summary
+
 ### Edit notes
 
 ## Main
+
+###### [END]
