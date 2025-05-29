@@ -3093,4 +3093,18 @@ go into S10-15 as they are, happy ever after S15 finale (Anna help save Cas back
 
 Charlie/Dean's heaven, their angels are all there, one big happy family
 
-### 294.
+### 294.【Charlie】what if there are still 2 Charlies at S10E22（F/F，R级）
+
+（自性恋？）
+
+(fix-it, save Charlie)
+
+what if Charlie didn't come back from Oz until around S10 end, good Charlie jump in helping them find the Book of the Damned and decrypt it, dark Charlie guard both of them to not be killed
+
+dark Charlie super good at weapons, fighting, etc., not morally constrained, not afraid of killing
+
+(from S10E11) dark Charlie relate to Dean's violent side, meaning if dark Dean can slaughter the whole Steins, dark Charlie is very likely good enough to take them down as well (with some wounds/near death experience so need to be saved by good Charlie)
+
+good Charlie and dark Charlie save each other and kill Steins and decrypt the Book, saved Dean, and Charlie doesn't die, and Charlie realize the person she love-hate the most is herself, not so eager to put her other self back inside her, maybe even explicit? can feel both self's feeling, would be tempting to try the explicit experience and have a date and more with the other self
+
+### 295.
