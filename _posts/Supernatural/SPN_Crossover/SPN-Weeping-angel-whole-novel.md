@@ -2016,7 +2016,7 @@ the elevator dings: make people think angels are coming up, actually Cas/Doctor/
 
 ###### [TBA]
 
-> handled Grayle: Grayle force tie Doctor/Cas, know them not human (bleeding grace, two hearts), make them collections; River from ten minutes later use vortex manipulator comes back, use Doctor's sonic lock the lights, punch Grayle, release Doctor/Cas, whisper to herself "it's gonna hurt", leave with "see you later", Doctor/Cas go save Amy/Dean, only find Amy (Chap.6 ending)
+> handled Grayle: Grayle force tie Doctor/Cas, know them not human (bleeding grace, two hearts), make them collections; River from ten minutes later use vortex manipulator comes back, use Doctor's sonic lock the lights, punch Grayle, release Doctor/Cas, whisper to herself "it's gonna hurt", leave with "see you later", hint mention paradox, Doctor/Cas go save Amy/Dean, only find Amy (merge Chap.6 ending)
 >
 > Grayle read River's book (mentioned Dean/Cas sacrifice+Amy/Rory last farewell (keep it vague), River's broken wrist), Doctor freak out, try save Amy, change future
 >
@@ -2032,9 +2032,9 @@ the elevator dings: make people think angels are coming up, actually Cas/Doctor/
 
 ### Act 3
 
-> (merge Chap.7 ending, Cas POV)
+> 4 of them go to Winter Quay to save Dean/Rory, 6 meet (merge Chap.7 ending, Cas POV)
 >
-> 4 of them go to Winter Quay to save Dean/Rory, 6 meet, see room names, split witness old Dean die (Cas uneasy), Amy see old Rory (River/Doctor there too)
+> see room names, split witness old Dean die (Cas uneasy), Amy see old Rory (River/Doctor there too)
 >
 > discuss weeping angel's motives
 
@@ -2064,7 +2064,7 @@ why infected/weeping angel sends people back/touch them: (Cas's theory) maybe no
 
 why weeping angels everywhere, Cas back from Purgatory only a week ago: time travel, if they exist at one point of time, they're in all the time, that's why no one knows where they come from: chronologically they didn't exist a week ago, that's the ground zero, but ever since then, they spread to the whole time flux
 
-#### References
+### references
 
 Reuse River's confession lines when she doesn't recognize 12th Doctor in S09E13 "The Husbands of River Song", loving Doctor is like loving stars themselves, doesn't expect sunset to admire you back (Dean's the same with Cas): "The Doctor does not and has never loved me. I'm not lying. But **whoever said he loved me back? He's the Doctor. He doesn't go around falling in love with people.** And if you think he's anything that small or that ordinary, then you haven't the first idea of what you're dealing with. God knows where he is now but I promise you he's doing whatever the hell he wants and not giving a damn about me. And **I'm just fine with that.** **When you love the Doctor, it's like loving the stars themselves. You don't expect a sunset to admire you back.** And if I happen to find myself in danger, let me tell you, **the Doctor is not stupid enough, or sentimental enough, and he is certainly not in love enough to find himself standing in it with me!**" "Hello, sweetie." "You are so doing those roots." "What, the roots of the sunset?" "Don't you dare." "I'll have to check with the stars themselves." "Oh, shut up."
 
@@ -2144,6 +2144,8 @@ when talk about why not talk to Sam and let him think he's dead, Dean: "He'd nev
 
 witty comments about how come the cheapest hotel sounds like 5-star penthouse; you can't live in anywhere too far away from any landscape in Manhattan (about where to deliver the book in timeline)
 
+### references
+
 Brian looks to the Doctor, so serious: "What happened to the other people who travel with you?" Doctor: "Some left me. Some got left behind. And some... not many but... some died.  (off Brian's horrified look) Not them. Not them, Brian. Never them." ending: Doctor: "I know. You both have lives here. Beautiful, messy lives. This is what makes you so fabulously human. You don't want to give them up. I understand." Brian: "Actually, it's you they can't give up, Doctor. And I don't think they should. Go with him. Go save every world you can find. Who else has that chance? Life'll still be here." Doctor: "You could come, Brian." Brian: "Somebody has to water the plants. Just... bring them back safe." (S07E04)
 
 ## Afterword (Not a Chapter)
@@ -2154,7 +2156,7 @@ Brian looks to the Doctor, so serious: "What happened to the other people who tr
 
 ## Deleted Scenes (Not a Chapter)
 
-> (post all the unused witty comments)
+> (post all the unused witty comments and small interactions)
 >
 > (mention the timeline fits the air date of both shows)
 
