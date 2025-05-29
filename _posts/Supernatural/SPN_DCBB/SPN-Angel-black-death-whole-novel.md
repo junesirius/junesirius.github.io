@@ -1,12 +1,13 @@
 ---
 layout: post
-title: 【Destiel】Angelic Black Death
+title: 【Destiel】Angel Black Death
 date: 2024-11-01 01:51
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Sam Winchester", "Michael", "Lucifer", "Vince Vincente", "Rowena MacLeod", "Fergus MacLeod/Crowley", "Adam Milligan", "Bobby Singer", "Charlie Bradbury", "Jimmy Novak", "Claire Novak"]
 tags: ["Supernatural", "destiel", "michifer", "温家兄弟", "英文"]
 pov: 第三人称
 origin: 2025 DCBB
+long_novels: 【Destiel】Angel Black Death
 published: false
 ---
 
