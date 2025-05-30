@@ -328,6 +328,8 @@ sonic screwdriver: green light, not blue
 
 when posting: Chap.4/7's Act 1/2 post as separate chapters on AO3
 
+fix him with a stare
+
 # Main
 
 ## Chap 1 The Dying Detective
@@ -1442,7 +1444,7 @@ Dean shifts his gun toward him, "Or I can just blast a hole on your chest." He s
 
 Grayle sizes him up with interest, glancing between him and Dean.
 
-"Cas --" Dean has lowered his weapon, letting himself grabbed by the arm by the guard he pointed gun to earlier. The other man takes Amy, shoving her out.
+"Cas --" Dean has lowered his weapon, letting himself grabbed by the arms by the guard he pointed gun to earlier. The other man takes Amy, shoving her out.
 
 Dean manages to turn his head and meet Cas's eyes even as he is on his way getting pushed out of the door. "Cas, I'll be fine. Don't do anything stupid."
 
