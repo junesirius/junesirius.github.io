@@ -82,6 +82,8 @@ Cas show up, frustrated, scared, lost, don't know what to do, every time fly bac
 
 go back to original timeline (May 18, 2012), still need to fix leviathan problem (mention why can't fix from changing past timeline), after all that, Cas willing to help, still slightly broken but a lot more mature and pull himself together (less child-like), Dean willing to be patient enough, ready to pull the big fight on leviathan and save the world together again. they have just seen the beginning of all the time and universe, what can they possibly be scared of.
 
+"All the creation accompanies death, all the extinction accompanies new life. That's the natural order. You can't save every single human being, you can't save all living life, you can't save a star." "But at least we can try. And we will." That's what Dean's made of. That's what Cas loves him for. That's the story of them.
+
 (Note 1: the chapters where Cas went away, write in Dean's POV or 3rd POV)
 
 (Note 2: doesn't need to be in the same order as the organized timeline idea, could rewind and skip, especially the time jump events, bc Dean'll revisit with him, so doesn't have to write twice, can go through Dean POV, only detail them on 2nd trip)
@@ -90,11 +92,15 @@ go back to original timeline (May 18, 2012), still need to fix leviathan problem
 
 #### Claim summary
 
+"What are you gonna do?"
+
+"I don't know. Isn't that amazing?"
+
 When Cas is broken (crazy!Cas time, end of S7), every time he runs away from a quarrel, like the times in the hospital or in the shelter when Dean gets so angry at him and he flies away, and everyone thinks he just flies into a different *place* at the same *time*, but they're wrong. Cas goes back in time, he flies to the past where no one can find him, and Dean was not there, so he gets to wait out for the time to pass slowly, where he would be alone and quiet and feel safe, until the current time catches up again and Dean finds him again. Like the time in the hospital, when Dean finds him in the day room, and thinks they just part for two minutes, but actually Cas has been sitting there for days, simmering in the solitary, playing games with himself, calming himself down.
 
 And every time the quarrel gets more fierce, he needs longer to calm down. He flies farther and farther back into the past, where he can spend hundreds of thousands of years on his own without disturbance, piecing himself back together. Dean thinks he wakes up the night before they meet again, but actually Cas has been in the past for years, that's why he said "it took everything to get me here." Which literally means eons of years.
 
-And then there's a big quarrel between them again, when Dean tells him "You don't get to have a cat," Cas flies away again. This time, he flies too far and can't sit outside of the history he's in. And every time he touches the history, he messes something up accidentally, so he tries to fix it by tracing farther back, and making things worse, in a loop. He goes back to medieval time during witch trial, Pompeii during eruption day, the very early human evolution time when he supports Neanderthals more than the homo sapiens, the day the asteroid falls onto the Earth and dinosaurs extinct, the day the first fish moves onto the land, the day the Earth takes the shape, and the asteroid belt in solar system is still a star. Every little change has a butterfly effect, and when he tries to save the lives during his visit, Cas screws up the timeline. He has to turn to Dean for help again, and Dean traces back in time with him, seeing all the big moments of human evolution and world formation, what does it even mean to be a human, or to be a world, or the nature rule and choices. Dean gets to see things in a much broader view than any human ever can, only an angel like Cas can, Dean finally starts getting to understand Cas.
+And then there's a big quarrel between them again, when Dean tells him "You don't get a damned cat," Cas flies away again. This time, he flies too far and can't sit outside of the history he's in. And every time he touches the history, he messes something up accidentally, so he tries to fix it by tracing farther back, and making things worse, in a loop. He goes back to medieval time during witch trial, Pompeii during eruption day, the very early human evolution time when he supports Neanderthals more than the homo sapiens, the day the asteroid falls onto the Earth and dinosaurs extinct, the day the first fish moves onto the land, the day the Earth takes the shape, and the asteroid belt in solar system is still a star. Every little change has a butterfly effect, and when he tries to save the lives during his visit, Cas screws up the timeline. He has to turn to Dean for help again, and Dean traces back in time with him, seeing all the big moments of human evolution and world formation, what does it even mean to be a human, or to be a world, or the nature rule and choices. Dean gets to see things in a much broader view than any human ever can, only an angel like Cas can, Dean finally starts getting to understand Cas.
 
 They fix things together, undo the changes Cas did, unsave the people and creature and lives Cas tried to save, unmake the star Cas tried to make. And during the process, Cas's brokenness is gradually healed, they get to understand each other, Dean starts to learn to be patient and not always so angry. Then they go back to their old current timeline, the year 2012, go back dealing with leviathan problem, and Cas is willing to help them out. And with all they learned, they know the rules and they're not afraid of anything anymore. They have just seen the beginning of all the time and universe, what can they possibly be scared of.
 
@@ -102,7 +108,7 @@ They fix things together, undo the changes Cas did, unsave the people and creatu
 
 Dean and Cas floating in the space, watching the galaxy, the asteroid belt between Mars and Jupiter is still a star -- the star that's never been there, the star they have to break so human history can be preserved and all that any human being can remember are its pieces scattering in the space.
 
-Or any other moment during the timeline traceback journey: Dean and Cas in Pompeii, watching the eruption of Mt. Vesuvius; or Dean and Cas in dinosaur time, watching asteroids hitting the Earth; or they watch the first fish, or they hang out with the very primal human species (Neanderthals), etc.
+Or any other moment during the timeline traceback journey: Dean and Cas in Pompeii, watching the eruption of Mt. Vesuvius; or Dean and Cas in Jurassic time, watching asteroids hitting the Earth and dinosaurs extinct; or they watch the first grey fish climbing to the land, or they hang out with the very primal human species Neanderthals, dancing around a campfire, etc.
 
 (Personally love the first one most, or could maybe find a way to combine multiple visual elements together)
 
@@ -124,27 +130,33 @@ He goes to see a creature he hasn't seen in millenniums, a fish that is essentia
 
 ## Main
 
-### Chap. 1 A Piercing Ping
+### Chap. 1 Two Minutes
 
-#### Act 1
+> (Cas POV, starting from S07E21)
+>
+> Start with "I heard a ping that pierced me" (only angel can hear it): crazy!Cas wake up, broken, mind wanders about everything in the universe, insects, small things; enter Dean, canon quarrel of asking for help but Cas run away, Dean chase him into day room, Cas slip "been here for weeks" "what do you mean for weeks, I just saw you two minutes ago" "that's three weeks ago for me. It's quiet here, it's nice."
 
-> Start with "I heard a ping that pierced me" (only angel can hear it), (Cas POV, from S07E21): crazy!Cas wake up, broken, mind wanders about everything in the universe, insects, small things; enter Dean, canon quarrel of asking for help but Cas run away, Dean chase him into day room, Cas slip "been here for weeks" "what do you mean for weeks, I just saw you two minutes ago" "that's three weeks ago for me. It's quiet here, it's nice."
 
-#### Act 2
 
-> (Dean POV) bring Cas home (Rufus's shelter), empathize on: Cas unwilling to help leviathan problem, Cas super broken, Dean super impatient & pissed. After a big quarrel ("You don't get to have a cat, no one cares you're broken, it's your mess, you clean it up" S07E23 or similar), Cas is gone again. Cas very quickly reappear and disappear, drop a red-haired woman with a 7y-old boy at doorstep, who slips names they're Rowena & Fergus MacLeod.
+
 
 #### draft notes
 
-to make contrast with the ending, the beginning emphasize on: Cas unwilling to help leviathan problem, Cas super broken, Dean super impatient
+to make contrast with the ending, the beginning emphasize on: <u>Cas unwilling to help leviathan problem, Cas super broken, Dean super impatient</u>
 
 When Cas was broken, every time he ran away from a quarrel, like the first time in hospital, Dean worry he can be in any time anywhere, Meg says he's just in the day room. And we assumed he's just fly there, a displacement, not a temporal flight, but we are wrong, everyone's wrong. He flies to the past, and he's not flying back, he takes the long way, wait out for the time to pass slowly, until it come back to the current timeline, and meet Dean in the day room in the now time. He can be there for hours or even weeks already. He's an angel, <u>hundreds of thousands of years is a blink</u>. He plays games with himself, he calms himself down, ~~because he was trying to forget the reminded trauma about conflict (don't touch it)~~, knows he's safe because Dean wasn't there then, <u>so he won't be disturbed no matter what</u>, the perfect place (and time) to hide to. (slips how long he's been there, that's how Dean know)
 
 That's how he calm himself back down, piece himself back together. He would have needed way longer to piece himself together, not just a night (8pm in the night, Meg called them in the morning), <u>he has spent way longer, but that time was folded</u>, he spent them in the past, saved them so much more time, so the current him that they meet is already a sane enough version, walking and talking, mostly functional, the best he can manage for himself to be presentable. <u>Even if broken, he wants them to meet the best version of him, he doesn't want them disappointed at him.</u>
 
+### Chap. 2 Three Weeks
+
+> (Dean POV) bring Cas home (Rufus's shelter), empathize on: Cas unwilling to help leviathan problem, Cas super broken, Dean super impatient & pissed. After a big quarrel ("You don't get to have a cat, no one cares you're broken, it's your mess, you clean it up" S07E23 or similar), Cas is gone again. Cas very quickly reappear and disappear, drop a red-haired woman with a 7y-old boy at doorstep, who slips names they're Rowena & Fergus MacLeod.
+
+#### draft notes
+
 Every time there is a quarrel and he flies back, he flies back further and waits out longer. The first few times are still the recent times when they are around him, hours, then years, then decades, centuries, millenniums, he goes back to history, then pre-history. He wants to help, to make the world a better place, to fix things from the root cause, since the very first time things went wrong, so he traces back time to change history
 
-### Chap. 2 The Red-Haired Woman
+### Chap. 3 The Red-Haired Woman
 
 > (Rowena POV) talking about how's Cas like when they meet in Scotland, 1668, how messed up she is and how kind but broken Cas is; some news about something witchy and weird in Scotland (Rowena b. 1640, Fergus b. 1661)
 
@@ -154,7 +166,7 @@ medieval, witch trial, save a poor women (but actually real witch) ← was to me
 
 Rowena: self-loathing, newly deserted by the rich man going back to his rich wife, feel weak, "if I don't hate you, I would love you", not cruel yet but angry, hatred of the world bc cruelty, b. 1640, now 28y, Fergus 7y; Cas ≈ Oskar to her for now, be kind to her, but can't change anything fundamentally
 
-### Chap. 3 The Man From Roman
+### Chap. 4 The Man From Roman
 
 > (Dean POV) Cas comes and goes without seeing Dean again and drop a family from a small town in Italy, meanwhile newspaper about something mundane in Pompeii (saying in a way like it's normal), MET museum see something weird about volcano exhibition. The dropped family are Caecilius's family
 >
@@ -168,7 +180,7 @@ characters: Caecilius (banker, marble trader), Metella, Evelina, Quintus
 
 **Words after chapter:** inspired by Doctor Who S04E02 *The Fires of Pompeii*.
 
-### Chap. 4 Bees and Butterflies
+### Chap. 5 Bees and Butterflies
 
 > (Dean POV) Cas show up in his car, nude, covered in bees, talking about homo sapiens & Neanderthals, early humans, Dean try to be nice, insist on him to stay, Cas afraid of him → something seriously wrong, humans split in two tribes and in forever war, Dean biologically look different and sound differently → Cas freak out, reminded of *Titanic* time, insist on fixing it himself, fly away again
 >
@@ -182,7 +194,7 @@ very time he's at some place/time, Cas accidentally or intentionally interfere t
 
 when after shattering the star and made the asteroid belt, Cas is properly frightened. Sky fall apart, reality break apart by too many changes from butterfly effect, cost is mass energy compensate, paradox create crack in the reality and going to swallow Cas (or just bc Cas can't bear the mess he made to the world, self-torture even as the broken!Cas's child mind, still not worry about himself, it's about world). Cas go back to current time to Dean, Dean ask him to trace his own steps back with him, reset his changes, unsave the people he save, witness and experience everything together with him.
 
-### Chap. 5 Scotland, 1668 Summer (300 years ago)
+### Chap. 6 Scotland, 1668 (300 years ago)
 
 > (Dean POV) trace back: take Rowena back to Scotland (1y later still deserted Fergus, etc., nothing changed), witness witch trial, normal human cruelty
 
@@ -194,7 +206,7 @@ Rowena: self-loathing, newly deserted by the rich man going back to his rich wif
 
 consequence if not fix: witch running around in Scotland, cursing people through all history
 
-### Chap. 6 Pompeii, 79 AD (2,000 years ago)
+### Chap. 7 Pompeii, 79 AD (2,000 years ago)
 
 > (Dean POV) trace back: take Caecilius back to Pompeii, witness eruption, can't save everyone
 
@@ -206,7 +218,7 @@ characters: Caecilius (banker, marble trader), Metella, Evelina, Quintus
 
 Consequence if not fix: Pompeii still exists, just a normal, kinetic, lively town in Italy, but too many people → social, cultural problem? social instability?
 
-### Chap. 7 Europe, Ice Age (40,000 years ago)
+### Chap. 8 Europe, Ice Age (40,000 years ago)
 
 > (Dean POV) trace back: homo sapiens vs Neanderthals, what does "human" mean
 
@@ -218,7 +230,7 @@ Consequence if not fix: both human species coexist and forever at war, Dean biol
 
 **Words after chapter:** inspired by *Everything Everywhere All at Once*
 
-### Chap. 8 Earth, Jurassic Epoch (66 million years ago)
+### Chap. 9 Earth, Jurassic Epoch (66 million years ago)
 
 > (Dean POV) trace back: asteroid & dinosaur extinction, can't save every life, normal nature cruelty & nature rule
 
@@ -228,7 +240,7 @@ falling asteroid, dinosaur extinction, comment: "just like Sodom and Gomorrah", 
 
 Consequence if not fix: dinosaur coexist with human
 
-### Chap. 9 Land, Age of Fishes (357 million years ago)
+### Chap. 10 Sea, Age of Fishes (357 million years ago)
 
 > (Dean POV) trace back: the first fish, normal nature kindness & what does "life" mean
 
@@ -238,7 +250,7 @@ watch the fish, the first fish on the shore (S06E20 I remember being at a shorel
 
 Consequence if not fix: other humanoid species existing along with normal human beings (e.g. fish-people, bird-people, lizard-people)
 
-### Chap. 10 Space, Hadean Eon (4.6 billion years ago)
+### Chap. 11 Space, Hadean Eon (4.6 billion years ago)
 
 > (Dean POV) trace back: formation of Earth, watch star together, the beginning of the world → Cas doesn't want to break the star, but has to, what does "choice" mean, they make the asteroid belt together, basically affect the universe, Dean realize the broader view, not limited ever again
 
@@ -250,12 +262,14 @@ Consequence if not fix: gravity and orbit of Earth is changed, unstable environm
 
 Dean finally get to see the whole human and universe history together with Cas, in Cas's eyes, see a broader world view, how many human get to see human evolution and Earth's creation. Dean float in the space watching Earth forming for the first time, air and sea start to divide and shape, he's not looking at the universe, he's looking at Cas (≈ Good Omens S2, DW S01E02), realize more than ever how unhuman and human Cas is, in awe and feel pain. They fix timeline and go home together.
 
-### Chap. 11 Whitefish Montana, 2012 (now)
+### Chap. 12 Whitefish Montana, 2012 (now)
 
 > (Dean POV) go back to original timeline (May 18, 2012), still need to fix leviathan problem (mention why can't fix from changing past timeline), after all that, Cas willing to help, still slightly broken but a lot more mature and pull himself together (less child-like), Dean willing to be patient enough, ready to pull the big fight on leviathan and save the world together again. they have just see the beginning the time and universe, what else can they be scared of
 
 #### draft notes
 
 go back to the original timeline, still need to fix leviathan problem (can't fix it in the past bc Cas unleash them himself, fixed point, paradox), after all that, Cas willing to help, Dean willing to be patient enough to him, Cas's brokenness is fixed (go back to fit into S07E23 before finale)
+
+"All the creation accompanies death, all the extinction accompanies new life. That's the natural order. You can't save every single human being, you can't save all living life, you can't save a star." "But at least we can try. And we will." That's what Dean's made of. That's what Cas loves him for. That's the story of them.
 
 ###### [END]
