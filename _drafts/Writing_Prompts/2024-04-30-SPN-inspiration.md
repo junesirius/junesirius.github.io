@@ -3117,4 +3117,84 @@ dark Charlie super good at weapons, fighting, etc., not morally constrained, not
 
 good Charlie and dark Charlie save each other and kill Steins and decrypt the Book, saved Dean, and Charlie doesn't die, and Charlie realize the person she love-hate the most is herself, not so eager to put her other self back inside her, maybe even explicit? can feel both self's feeling, would be tempting to try the explicit experience and have a date and more with the other self
 
-### 295.
+### 295.【destiel/denny】《Purgatory》（Lyrics）
+
+(by Feuerschwanz)
+
+The Limbo is the place for the unbaptised and the pagans
+
+Without the portal of the faith
+
+That they embrace
+
+Their souls will always be forsaken
+
+For all the sinners full of lust
+
+The second circle does them just
+
+In the third in hail and frostbites they will fry
+
+
+
+We're burning in the Purgatory
+
+We sinners, we are saints
+
+For here in hell we are unholy
+
+Swimming in a sea of flames
+
+Our hearts will burn in Purgatory
+
+Blazing blood runs through our veins
+
+And there's no turning back
+
+From the Purgatory
+
+
+
+The greedy roast with pope and cardinals into damnation
+
+In the fifth the river Styx flows the wrathful through eternal tribulation
+
+The heretics lie in the sixth, eternal flames them burning
+
+In the seventh bloody murderers are damned
+
+
+
+Abandon all hope you who enter here
+
+Deceivers wait in Number eight, nine's for treachery
+
+Where Lucifer awaits the Judgement Day
+
+### 296.【destiel】purgatory portal: portal of the faith
+
+inspired by 295 lyrics
+
+Benny's quote: "I thought you guys are all about faith" Cas: "Not particularly"
+
+What if the portal in Purgatory *is* portal of faith, the portal literally doesn't exist when Dean wasn't thinking about leaving and only focusing on looking for Cas
+
+The portal only forms when he finds Cas and ready to leave, having faith that all of them can go home together, he can bring Cas home
+
+### 297.【destiel】I wouldn't ask you to trust me if I always tell the truth
+
+inspired by DW 11/Amy
+
+"Trust me" "But you don't always tell the truth" "I wouldn't ask you to trust me if I always tell the truth"
+
+post-S06E19
+
+explains why Dean still trust/forgive Cas after betrayals and lies in S06, vice versa
+
+### 298.【all】但丁《神曲》crossover
+
+the "real" Hell as 但丁 visualizes *is* the hell in spn when they (Dean/Cas/Sam) go there, is what Dean/Cas sees when they meet and before Cas saving Dean
+
+canon divergent from after S03E16 and before S04E01
+
+### 299.
