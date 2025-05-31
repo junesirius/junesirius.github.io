@@ -13,13 +13,13 @@ published: false
 
 [TOC]
 
-(tags: Canon Divergent, S07E21, S07E23, S06E20, Time Travel, Angst, Crazy Castiel, Broken Castiel)
+(tags: Canon Divergent, S07E21, S07E23, S06E20, Time Travel, Angst, Crazy Castiel, Broken Castiel, case fic)
 
 ## Draft
 
 ### Initial thoughts
 
-S07E21/23 失控的Cas在害怕崩溃中时间穿越
+S07E21-23 失控的Cas在害怕崩溃中时间穿越
 
 谁知道一只崩溃失控的天使会做什么？也许会毁灭世界，也许会杀光所有恶魔甚至人类，也许会害怕得逃走，逃到时间流里，穿越到了不知道什么时代，Dean和Sam又怎么样才能重新找到他？只靠Meg坐在病床旁边看杂志又能起到什么效果？
 
@@ -27,7 +27,7 @@ S07E21/23 失控的Cas在害怕崩溃中时间穿越
 
 （适合用第三人OC视角讲故事
 
-《White Butterfly》（标题含义：蝴蝶效应+白色纯洁疯卡，白色病服）
+《White Butterfly》（标题含义：蝴蝶效应+白色纯洁疯卡，白色病服+prefer insects to angels, so prefer butterfly than angel）
 
 在quarrel之后飞走到过去时间线，然后不是飞回来的，而是take the long way，慢慢等着时间流逝然后才回到现实时间线，几千几万年的时间对天使来说都不是什么太长的时间。第一次在game room，其实不是他直接飞到了同时间线的game room，而是飞回去了好几个小时，一个人在那里玩游戏自娱自乐，知道丁他们那个时候不会出现，所以他是安全的。等他们来的时候他已经一个人安静了很久，自我疏解好了。第二次倒回去更久，以此类推
 
@@ -45,17 +45,12 @@ That's how he calm himself back down, piece himself back together. He would have
 
 Every time there is a quarrel and he flies back, he flies back further and waits out longer. The first few times are still the recent times when they are around him, hours, then years, then decades, centuries, millenniums, he goes back to history, then pre-history. He wants to help, to make the world a better place, to fix things from the root cause, since the very first time things went wrong, so he traces back time to change history:
 
-medieval, salem witch trial, save the poor women (but run into real witches) ← in passing line? was to meet a witch promised to give him peace but burned shortly, Salem Village (now Danvers), 1692 summer, two hundred people (fly away because of the violence & conflict)
-
-Pompeii, stop the volcano, same the twenty thousand people, consequence? history of Italy changed, culture development unbalanced? ← in passing line? "I was in here and here and here", one of time/place: Mount Vesuvius, 79 AD eruption day ("the word 'volcano' wasn't invented until that day")
-
-the very early human evolution, the homo sapiens vs Neanderthals', enjoy the company with the very first few humans, relationship with Adam etc.? (natural science history vs religious history, how to merge?) ← accidentally affect human evolution, modern human has different features (write in a way that modern people don't realize weird things are weird because it changes the whole history, butterfly effect)
-
-falling meteorite, dinosaur extinction, comment: "just like Sodom and Gomorrah", "I wasn't there" (because he actually was, suddenly remember?) ← real dinosaurs have furs
-
-watch the fish, the first fish on the shore (S06E20 I remember being at a shoreline, watching a little grey fish heave itself up on the beach and an older brother saying, "don't step on that fish, Castiel. Big plans for that fish."), the first creature on the land ← help it? touch it? affect its evolution?
-
-the formation of Earth, solar system, galaxy ← watch the space quietly, help create the stars, maybe this is when the asteroid belt was formed, should have been a star there, Cas break one when he's there this time, so now throughout the whole history, that planet doesn't exist (give that star a name and some feature? Diana (Artemis), from Roman history like the rest, or gods name from star name bc stars come first)
+- medieval, witch trial, save a poor women (but actually real witch) ← was to meet a witch promised to give him peace but persecuted shortly, Canisbay Scotland, 1668 summer with a 7y old boy, turn out to be Rowena&Fergus MacLeod, peasant, daughter of tanner (fly away because of the violence & conflict)
+- Pompeii, stop the volcano, same the twenty thousand people, consequence? history of Italy changed, culture development unbalanced? ← (short, in passing line) "I was in here and here and here", one of time/place: Mount Vesuvius, 79 AD eruption day Aug 24 ("the word 'volcano' wasn't invented until that day")(year of "Consulhood of Vespasian and Titus")(Caecilius, Metella, Evelina, Quintus)
+- the very early human evolution, the homo sapiens vs Neanderthals', enjoy the company with the very first few humans, relationship with Adam etc.? <u>watching bees nude?</u> (natural science history vs religious history, how to merge?) ← accidentally affect human evolution, modern human has different features (write in a way that modern people don't realize weird things are weird because it changes the whole history, butterfly effect)
+- falling asteroid, dinosaur extinction, comment: "just like Sodom and Gomorrah", "I wasn't there" (because he actually was, suddenly remember?) ← real dinosaurs have furs
+- watch the fish, the first fish on the shore (S06E20 I remember being at a shoreline, watching a little grey fish heave itself up on the beach and an older brother saying, "don't step on that fish, Castiel. Big plans for that fish."), the first creature on the land ← help it? touch it? affect its evolution?
+- the formation of Earth, solar system, galaxy ← watch the space quietly, help create the stars, maybe this is when the asteroid belt was formed, should have been a star there, Cas break one when he's there this time, so now throughout the whole history, that planet doesn't exist (give that star a name and some feature? Diana (Artemis), from Roman history like the rest, or gods name from star name bc stars come first)
 
 Every time he's at some place/time, Cas accidentally or intentionally interfere the timeline, every time after the change, the people in current timeline experience the consequence immediately and take it for granted, they don't remember what's the old normal (≈ S06E17 Titanic episode, DW S5 finale), only Cas know he messed up and need help, every time he try to fix by himself by going back further and mess up worse, so have to go to Dean
 
@@ -65,11 +60,31 @@ go back to the original timeline, still need to fix leviathan problem (can't fix
 
 ### Outline
 
-(Note 1: the chapters where Cas went away, can still write in Dean's POV or 3rd POV)
+**<u>Timeline:</u>** this is what happened when Cas disappeared between S07E21-23, what he did during "What are you gonna do?" "I don't know. Isn't that amazing?" (May 4-18, 2012)
+
+Start with "I heard a ping that pierced me" (only angel can hear it), Cas POV, from S07E21: crazy!Cas wake up, broken, mind wanders about everything in the universe, insects, small things; enter Dean, canon quarrel of asking for help but Cas run away, Dean chase him into day room, Cas slip "been here for weeks" "what do you mean for weeks, I just saw you two minutes ago" "that's three weeks ago for me. It's quiet here, it's nice."
+
+(Dean POV) bring Cas home (Rufus's shelter), empathize on: Cas unwilling to help leviathan problem, Cas super broken, Dean super impatient & pissed. After a big quarrel ("You don't get to have a cat, no one cares you're broken, it's your mess, you clean it up" S07E23 or similar), Cas is gone again. Cas very quickly reappear and disappear, drop a red-haired woman with a 7y-old boy at doorstep, who slips names they're Rowena & Fergus MacLeod.
+
+(Rowena POV) talking about how's Cas like when they meet in Scotland, 1668, how messed up she is and how kind but broken Cas is; some news about something witchy and weird in Scotland (Rowena b. 1640, Fergus b. 1661)
+
+(Dean POV) Cas comes and goes without seeing Dean again and drop a family from a small town in Italy, meanwhile newspaper about something mundane in Pompeii (saying in a way like it's normal), MET museum see something weird about volcano exhibition. The dropped family are Caecilius's family
+
+(Caecilius POV) telling them about Pompeii life, 79 AD (year of "Consulhood of Vespasian and Titus") Aug 24 (eruption day), the Cas from his POV, different from Dean's POV, Dean sidetracked from leviathan problem, prioritizing Cas → boys begin to have a guess what's Cas doing, Dean pray to Cas come back before messing up more things
+
+(Dean POV) Cas show up in his car, nude, covered in bees, talking about homo sapiens & Neanderthals, early humans, Dean try to be nice, insist on him to stay, Cas afraid of him → something seriously wrong, Dean and all humans have six fingers and don't think it's weird → Cas freak out, reminded of *Titanic* time, insist on fixing it himself, fly away again
+
+(Dean POV) quick forward, butterfly effect consequences almost simultaneously: news about dinosaur escape from local zoo, other humanoid species fighting against leviathans (fishperson, birdperson, etc.), asteroid rain toward Earth, extra star in orbit, immediate end of world threat
+
+Cas show up, frustrated, scared, lost, don't know what to do, every time fly back mess up more things; Dean volunteer to trace back with him, put everything back together, bringing those people back (not easy, morally difficult)
+
+(Dean POV) trace back: take Rowena back to Scotland (1y later still deserted Fergus, etc., nothing changed), witness witch trial, normal human cruelty; take Caecilius back to Pompeii, witness eruption, can't save everyone; homo sapiens vs Neanderthals, what does "human" mean; asteroid & dinosaur extinction, can't save every life, normal nature cruelty & nature rule; the first fish, normal nature kindness & what does "life" mean; formation of Earth, watch star together, the beginning of the world → Cas doesn't want to break the star, but has to, what does "choice" mean, they make the asteroid belt together, basically affect the universe, Dean realize the broader view, not limited ever again
+
+go back to original timeline, still need to fix leviathan problem (mention why can't fix from changing past timeline), after all that, Cas willing to help, still slightly broken but a lot more mature and pull himself together (less child-like), Dean willing to be patient enough, ready to pull the big fight on leviathan and save the world together again. they have just see the beginning the time and universe, what else can they be scared of
+
+(Note 1: the chapters where Cas went away, write in Dean's POV or 3rd POV)
 
 (Note 2: doesn't need to be in the same order as the organized timeline idea, could rewind and skip, especially the time jump events, bc Dean'll revisit with him, so doesn't have to write twice, can go through Dean POV, only detail them on 2nd trip)
-
-###### [TBA]
 
 ### Claim info
 
@@ -81,7 +96,17 @@ go back to the original timeline, still need to fix leviathan problem (can't fix
 
 #### Post summary
 
-### Edit notes
+"What are you gonna do?"
+
+"I don't know. Isn't that amazing?"
+
+<br>
+
+When Cas can go to all the time and all the place, where did he go?
+
+He goes to see a creature he hasn't seen in millenniums, a fish that is essential, and a star that is just forming. He watches them with the joy from a child's eyes, and he can't help reaching his hands to them. That is when everything -- the history, the reality -- starts crashing down.
+
+### Editing notes
 
 ## Main
 
