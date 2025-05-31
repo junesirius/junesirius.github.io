@@ -136,23 +136,115 @@ He goes to see a creature he hasn't seen in millenniums, a fish that is essentia
 >
 > Start with "I heard a ping that pierced me" (only angel can hear it): crazy!Cas wake up, broken, mind wanders about everything in the universe, insects, small things; enter Dean, canon quarrel of asking for help but Cas run away, Dean chase him into day room, Cas slip "been here for weeks" "what do you mean for weeks, I just saw you two minutes ago" "that's three weeks ago for me. It's quiet here, it's nice."
 
+When he wakes up, it is dark outside.
 
+It is at night, and he is on the planet Earth. Lying on a soft surface.
+
+Castiel does not open his eyes for a few minutes. Letting the surrounding settling down on him slowly, like nights falling on the Earth.
+
+He does not need to open his eyes to see.
+
+The air smells sharp with disinfectant and cleaning odors, with a touch of fragrance. The chemicals floating in the air along with dust and pollens.
+
+The window has a slit opening, the night breeze fluttering inside like the breath of a ghost.
+
+Castiel sits up slowly.
+
+"What is that sound?" He asks. The voice comes out of his throat is a human language. He remembers he's in a vessel.
+
+"The thunder, you mean?" A female answers him, from a chair sitting left of his bed.
+
+The figure sits on that chair is a shadow of shape, residing inside another vessel. A demon, he recognizes. Then he remembers her name.
+
+Castiel does not notice the thunder until this moment. The thunder and lightning outside the window is quite noticeable, now that he turns to the window. He does not know why he doesn't notice them earlier. There might be a rain coming down. The air smells fresh dirt -- petrichor.
+
+"No, a bright 'ping,' like a lovely Christmas bell. It wakes me up." Castiel tells the demon with a smile. "You can't hear it, because you're not an angel."
+
+Meg looks him up and down with cautious eyes, "Welcome back, Clarence."
+
+Castiel examines his own hands, like they are something he's never seen before. "I haven't been to anywhere," he answers, then thinks for a moment, "but you're right, there are so many places I can go."
+
+Meg frowns at him, "What do you mean? Where do you want to go?"
+
+"Somewhere in the universe," Castiel tells her, considering, voice soft, "some time."
+
+"Great, good as nothing." Meg puts down the magazine in her hands, turning on the bedside lamp, studying him closely. "Something different about you," she denotes, "how you feel? Everything alright? I need to make a phone call."
+
+Castiel smiles wilder. "I've never been better," he announces, then holds out a finger, "Pull my finger."
+
+Meg looks at his eyes, then his index finger, as if it's a bomb she needs to defuse. "What?"
+
+"My finger," Castiel nods encouragingly, "pull it."
+
+Meg touches his fingertip tentatively.
+
+The bulb in the lamp explodes, shattering glass flying in all directions.
+
+Castiel chuckles in the darkness. "Isn't it fun?" He says cheerfully.
+
+Meg stares at him. "What the fuck, something is definitely wrong with you."
+
+She fuddles to replace the bulb. The new light is bright orange, the color of sunset.
+
+The corner of Castiel's lip drops slightly at the comment. "You cursed," he blinks.
+
+Meg looks at him unbelievably, "Damn right I did, news flash, I'm a demon, I curse." She raises her voice, "What's your problem?"
+
+Castiel takes a step back hurriedly, "Please don't be angry. I don't want to fight."
+
+He disappears with the sound of wings fluttering.
+
+"What the hell?" Meg stares at the empty room.
+
+Meg finds him in the day room down the hall, two minutes later.
+
+Castiel is in the middle of a chess game with himself, half the chess pieces from either sides taken from the board.
+
+"What was that?" Meg approaches the two angels suspiciously. Neither of them look up from the game. One of them wears his favorite trench coat, the other in white hospital gown.
+
+Meg knows Castiel's trench coat still hangs on the end of his bed.
+
+"Do you know there is a game in 19th century, so famous that it's called 'Immortal Game.'" The Castiel in trench coat says, moving a bishop on the board.
+
+"But the game isn't really immortal," the Castiel sitting opposite to him moves a knight in defense.
+
+"No, I mean, WHAT?" Meg walks up to the table, staring at both of them. "Who are you?" Her fingers fumble to her back, clutching on a hidden angel blade.
+
+"I'm Castiel." The angel in trench coat tells her plainly.
+
+"And I'm Castiel." The other one says the same, with a warm smile, as if playing chess with oneself is the most normal thing in his life.
+
+"Uh-hum." Meg doesn't loosen her angel blade, unconvinced.
+
+"It's nice to be somewhere quiet," the trench coat Castiel says, "especially when Dean is angry."
+
+Meg scrutinizes him carefully, and she points out the obvious slowly, "Dean is not here."
+
+The trench coat Cas tells her, "He is -- or, he will be." He checks the clock on the day room wall. "In about twelve hours."
+
+<br>
+
+### Chap. 2 Three Weeks
+
+> (Dean POV)
+>
+> crazy!Cas wake up, broken, mind wanders about everything in the universe, insects, small things; enter Dean, canon quarrel of asking for help but Cas run away, Dean chase him into day room, Cas slip "been here for weeks" "what do you mean for weeks, I just saw you two minutes ago" "that's three weeks ago for me. It's quiet here, it's nice."
+>
+> bring Cas home (Rufus's shelter), empathize on: Cas unwilling to help leviathan problem, Cas super broken, Dean super impatient & pissed. After a big quarrel ("You don't get to have a cat, no one cares you're broken, it's your mess, you clean it up" S07E23 or similar), Cas is gone again. Cas very quickly reappear and disappear, drop a red-haired woman with a 7y-old boy at doorstep, who slips names they're Rowena & Fergus MacLeod.
 
 
 
 #### draft notes
+
+> crazy!Cas wake up, broken, mind wanders about everything in the universe, insects, small things; enter Dean, canon quarrel of asking for help but Cas run away, Dean chase him into day room, Cas slip "been here for weeks" "what do you mean for weeks, I just saw you two minutes ago" "that's three weeks ago for me. It's quiet here, it's nice."
+>
+> bring Cas home (Rufus's shelter), empathize on: Cas unwilling to help leviathan problem, Cas super broken, Dean super impatient & pissed. After a big quarrel ("You don't get to have a cat, no one cares you're broken, it's your mess, you clean it up" S07E23 or similar), Cas is gone again. Cas very quickly reappear and disappear, drop a red-haired woman with a 7y-old boy at doorstep, who slips names they're Rowena & Fergus MacLeod.
 
 to make contrast with the ending, the beginning emphasize on: <u>Cas unwilling to help leviathan problem, Cas super broken, Dean super impatient</u>
 
 When Cas was broken, every time he ran away from a quarrel, like the first time in hospital, Dean worry he can be in any time anywhere, Meg says he's just in the day room. And we assumed he's just fly there, a displacement, not a temporal flight, but we are wrong, everyone's wrong. He flies to the past, and he's not flying back, he takes the long way, wait out for the time to pass slowly, until it come back to the current timeline, and meet Dean in the day room in the now time. He can be there for hours or even weeks already. He's an angel, <u>hundreds of thousands of years is a blink</u>. He plays games with himself, he calms himself down, ~~because he was trying to forget the reminded trauma about conflict (don't touch it)~~, knows he's safe because Dean wasn't there then, <u>so he won't be disturbed no matter what</u>, the perfect place (and time) to hide to. (slips how long he's been there, that's how Dean know)
 
 That's how he calm himself back down, piece himself back together. He would have needed way longer to piece himself together, not just a night (8pm in the night, Meg called them in the morning), <u>he has spent way longer, but that time was folded</u>, he spent them in the past, saved them so much more time, so the current him that they meet is already a sane enough version, walking and talking, mostly functional, the best he can manage for himself to be presentable. <u>Even if broken, he wants them to meet the best version of him, he doesn't want them disappointed at him.</u>
-
-### Chap. 2 Three Weeks
-
-> (Dean POV) bring Cas home (Rufus's shelter), empathize on: Cas unwilling to help leviathan problem, Cas super broken, Dean super impatient & pissed. After a big quarrel ("You don't get to have a cat, no one cares you're broken, it's your mess, you clean it up" S07E23 or similar), Cas is gone again. Cas very quickly reappear and disappear, drop a red-haired woman with a 7y-old boy at doorstep, who slips names they're Rowena & Fergus MacLeod.
-
-#### draft notes
 
 Every time there is a quarrel and he flies back, he flies back further and waits out longer. The first few times are still the recent times when they are around him, hours, then years, then decades, centuries, millenniums, he goes back to history, then pre-history. He wants to help, to make the world a better place, to fix things from the root cause, since the very first time things went wrong, so he traces back time to change history
 
