@@ -2765,11 +2765,15 @@ groundhog day where the whole worlds repeat around Sam, everyone else only lives
 
 (sabriel thought:) Gabe knows the only way for Sam to think of anything other than his brother is when Dean is gone, so this is Gabe's version of taking Dean out of chess board to interact with Sam alone. So that Wednesday after the looping Tuesday where Dean is dead, for months, all Sam can think about is to revenge and capture Gabe, this is the only time Sam is wholeheartedly thinking about Gabe (even if it's hate), Gabe finally has his attention (as this is what Gabe wants: be noticed ← he's proud of his ability to hideout in the human crowd and not get noticed, but once a while he also wants to get noticed and feel good about it, so this is Gabe's messed-up love-hate version of getting someone (Sam)'s full attention, because growing up this is something Gabe never gets)
 
-### 271.【Charlie/Alicia】Transcendence/AI（F/F）【WIP - bang】
+### 271.【Charlie/Alicia】Transcendence/AI（F/F）
 
 《What Is Life》
 
-Charlie has been uploading her brain info to bunker computer, basically turns herself into a big AI with her own memory & intelligence built-in (inspired by *Transcendence*), but not waken yet (after 1022 unexpected death, her initial plan is to wake it by herself to test/have fun/help boys around the bunker) (←TFW find Charlie's journal/notebook)
+(tags: Canon Divergent, Canonical Main Character Death, S12E20, post-canon, fix-it)
+
+(inspired by *Transcendence*)
+
+Charlie has been uploading her brain info to bunker computer, basically turns herself into a big AI with her own memory & intelligence built-in, but not waken yet (after 1022 unexpected death, her initial plan is to wake it by herself to test/have fun/help boys around the bunker) (←TFW find Charlie's journal/notebook)
 
 Alicia Banes is a twig/twine doll after 1220, live like that for three years (post-1520) but can't bear it anymore (impervious, un-human, can self-heal, out of place, hiding from human society (TFW thought it's bc herself, but actually bc Max); Max depressed, cursed to Hell, want to release Max from demon deal (Sam/Dean parallel S3) when Max die she'll die too, so Max doesn't let her), so she goes to bunker alone looking for help (hide from Max), start reading archives but lose patience, hope the bunker computer has easy archive, go poke, find out it's manually recently modified, go digging, restart, trigger Charlie's consciousness awake, start talking in bunker, startle TFW (subtly indicate Cas is still around & destiel)
 
