@@ -3197,4 +3197,16 @@ the "real" Hell as 但丁 visualizes *is* the hell in spn when they (Dean/Cas/Sa
 
 canon divergent from after S03E16 and before S04E01
 
-### 299.
+### 299.【destiel】"No tree can grow to heaven unless its roots reach down to hell"
+
+quote from Carl Jung: "No tree can grow to heaven unless its roots reach down to hell"
+
+saw a painting in Solvang's art gallery too with same quote
+
+quite adequate for pretty much everyone in story, especially Dean and Cas
+
+might can be used as a prompt or foreword for a destiel story where they have to get a bit dark to do good
+
+or a art gallery-related story, one of them is the artist that painted the painting with tree and that quote?
+
+### 300.
