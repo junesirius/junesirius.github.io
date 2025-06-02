@@ -634,17 +634,17 @@ The plan is interrupted by the explosion of incoming phone calls and messages.
 
 <br>
 
+**Words after chapter:** inspired by Doctor Who S04E02 *The Fires of Pompeii*.
+
 #### draft notes
 
 Pompeii, stop the volcano, same the twenty thousand people, consequence? history of Italy changed, culture development unbalanced? ← (short, in passing line) "I was in here and here and here", one of time/place: Mount Vesuvius, 79 AD eruption day Aug 24 ("the word 'volcano' wasn't invented until that day")(year of "Consulhood of Vespasian and Titus")
 
 characters: Caecilius (banker, marble trader), Metella, Evelina, Quintus
 
-**Words after chapter:** inspired by Doctor Who S04E02 *The Fires of Pompeii*.
-
 ### Chap. 5 Bees and Butterflies
 
-> (Dean POV) Cas show up in his car, nude, covered in bees, talking about homo sapiens & Neanderthals, early humans, Dean try to be nice, insist on him to stay, Cas afraid of him → something seriously wrong, humans split in two tribes and in forever war, Dean biologically look different and sound differently → Cas freak out, reminded of *Titanic* time, insist on fixing it himself, fly away again
+> (Dean POV) Cas show up in his car, naked, covered in bees, talking about homo sapien sapiens & Neanderthals, early humans, Dean try to be nice, insist on him to stay, Cas afraid of him → something seriously wrong, humans split in two tribes and in forever war, Dean biologically look different and sound differently → Cas freak out, reminded of *Titanic* time, insist on fixing it himself, fly away again
 >
 > (Dean POV) quick forward, butterfly effect consequences almost simultaneously: news about dinosaur escape from local zoo, other humanoid species fighting against leviathans (fishperson, birdperson, etc.), asteroid rain toward Earth, extra star in orbit, immediate end of world threat
 >
