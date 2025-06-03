@@ -464,7 +464,9 @@ Dean turns his attention back to the red-haired woman. "Alright, *Red*," he pres
 
 The woman starts: "It is the year 1668 to me. Canisbay, Scotland is just on the edge of a sweet wee summer time..."
 
-<hr>
+<br>
+<hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
+<br>
 
 It is the year 1668. Canisbay, Scotland is just on the edge of a sweet wee summer time.
 
@@ -532,7 +534,9 @@ The next thing I know, I'm here, standing in the room, surrounded by two men int
 
 It would be nice if mister Castiel could just explain what he'd done. If it was wizardry, it was far more powerful than I had ever known, and I'd really like to learn from the best.
 
-<hr>
+<br>
+<hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
+<br>
 
 The woman licks her lips as she finishes. "Well?" She raises her eyebrows, "Are we done with the story-telling time?"
 

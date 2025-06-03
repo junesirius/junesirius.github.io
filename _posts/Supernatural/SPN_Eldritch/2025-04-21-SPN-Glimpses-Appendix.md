@@ -48,7 +48,9 @@ Enjoy Cas's little physics class yet?
 
 That class could use a curriculum textbook titled something like *"Theoretical Physics in a World of Magic and Fantasy"*.
 
-<hr>
+<br>
+<hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
+<br>
 
 Cas: You have no idea what I've been talking about since the first sentence, do you?
 
