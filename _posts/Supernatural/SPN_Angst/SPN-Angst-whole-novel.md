@@ -13,17 +13,17 @@ published: false
 
 [TOC]
 
-tag: S06E05, canon divergent, angst, extremely angsty, the most angsty thing I've ever written, vampire Dean, leviathan Cas, monster Cas, god Cas, soulless Sam, graphic depiction of violence, purgatory, temporary main character death, multiple main character death, bloody and ugly, a lot of blood, a lot of pain, all the painfullest thing I can ever think of, suicidal Cas, suicidal Dean, morally ambiguous Cas, morally ambiguous Sam, decapitation, body horror, grotesque, eating Leviathan, eating monsters, caring Dean, protective Cas, HE
+tag: S06E05, canon divergent, angst, a ton of angst, the most angsty thing I've ever written, vampire Dean, leviathan Cas, monster Cas, god Cas, soulless Sam, graphic depiction of violence, purgatory, temporary main character death, multiple main character death, bloody and ugly, a lot of blood, a lot of pain, all the painfullest thing I can ever think of, suicidal Cas, suicidal Dean, morally ambiguous Cas, morally ambiguous Sam, decapitation, body horror, grotesque, eating Leviathan, eating monsters, caring Dean, protective Cas, eventual happy ending
 
 warning: graphic depiction of violence, temporary main character deaths
 
+rating: Mature (because of the violence)
+
 ## Draft
 
-Rating: Mature
+### Claim info
 
-(because of the violence)
-
-### claim info summary
+#### Claim summary
 
 Dean dies as a vampire and wakes up in Purgatory, trapped in the never-ending fight of killing and killed, hunting and hunted. Story of his life.
 
@@ -31,11 +31,13 @@ Cas is getting desperate. Going to the demons and monsters and reapers, willing 
 
 They find each other, and that's all they have in the relentless monsterland, being monsters themselves. They'll have to crawl their way out the ugly way, whatever the cost -- and Cas has to turn himself into something even worse.
 
-### visual element
+#### Visual element
 
 The color is mainly red and black, Dean covered in red, Cas in black. They're in a roughly built nest in Purgatory, Cas lies down, eyes closed, in a sleeping coma, clothes torn, wounds covered all over, broken wings on his back. Dean, with vampire fangs and bloodstains all over, leans in kissing him. There might be remains of other dead monsters or Leviathan goo around them on the ground.
 
-### real summary
+### Posting
+
+#### Posting summary
 
 Aren't we all, a monster, in a way?
 
@@ -47,7 +49,7 @@ In the pure, relentless monsterland, that's all they have -- being monsters them
 
 Died as a vampire and woke up in Purgatory with fangs, Dean has to crawl his way out the ugly way. And Castiel, in order to reach him, has to do something far, far worse -- to himself.
 
-### promo excerpt
+### Promo excerpt
 
 Flashes of a blade shine in front of him, the teethy head flying up before dropping to the ground, rolling a few steps away, spilling a rain of black drops.
 
@@ -61,15 +63,17 @@ But just that blink of distraction leaves enough of a fatal opening, the Leviath
 
 "NO!!" Castiel rages, eyes blazing bright. "Close your eyes!" he manages to shout at the last moment, can't see if Dean has covered his eyes or not, pouring his power onto that Leviathan that is going to hurt Dean. Castiel can't think or see anything else.
 
-### edit notes
+### Editing notes
 
 After Dean's back, knowing what did (Sam killed Cas and "unholy man", Cas killed a lot): What?!! Am I the only moral compass in the room now?
 
 ## Main
 
-### Chap. 1-1
+### Chap. 1
 
-> **Outline:** Dean gets killed when he's still vampire so he goes directly to purgatory
+#### Act 1
+
+> Dean gets killed when he's still vampire so he goes directly to purgatory
 >
 > (Sam is soulless the whole time)
 >
@@ -255,9 +259,9 @@ Crowley puffs out a laugh. "Talking about motivations."
 
 <br>
 
-### Chap. 1-2
+#### Act 2
 
-> **Outline:** Dean fights, tries to come back but can't go through human portal
+> Dean fights, tries to come back but can't go through human portal
 >
 > Cas finds rogue reaper Ajay, tries to go purgatory as angel but fail to leviathans (Naomi: took a lot angels to fetch Cas)
 
@@ -493,7 +497,7 @@ Dean creeps a smile. "Game time?"
 
 ### Chap. 2
 
-> **Outline:** Cas turns himself to monster (disturbing form, distorted wings etc.), death wish for sacrifice, gets killed by Sam as he wants, goes to purgatory
+> Cas turns himself to monster (disturbing form, distorted wings etc.), death wish for sacrifice, gets killed by Sam as he wants, goes to purgatory
 >
 > (Ajay is killed by Crowley/Alpha/Raphael, so no going from that again)
 
@@ -753,9 +757,11 @@ One set of footstep head back, stepping on the ground that is more muddy wet tha
 
 Bobby shakes his head hard. "Cas you stupid love-blind idjit."
 
-### Chap. 3-1
+### Chap. 3
 
-> **Outline:** Cas falls to Purgatory, finds Dean. Dean doesn't recognize him, monster Cas can't talk, too weak to change back. The two support/survive in Purgatory for a while, Cas eats souls to grow stronger and can heal.
+#### Act 1
+
+> Cas falls to Purgatory, finds Dean. Dean doesn't recognize him, monster Cas can't talk, too weak to change back. The two support/survive in Purgatory for a while, Cas eats souls to grow stronger and can heal.
 
 Dean lingers not far from the same opening that he saw Cas for the briefest moment. Sometimes by the stream, sometimes on the edge of the closest woods, most of the times, just in the plain middle of the opening, without cover. It is a bad idea, actually, the worst one possible, to not move swiftly in a place like this.
 
@@ -831,9 +837,9 @@ He still ends up naming the creature "Cas."
 
 He takes the hand back.
 
-### Chap. 3-2
+#### Act 2
 
-> **Outline:** monster Cas's POV
+> (monster Cas's POV)
 >
 > monster Cas pov, can see the world in floating colors, only shapes of colors, no thoughts, no words, light and dark, other monster souls are lights that he can eat, in the center, there is the brightest light, the brightest soul. He approaches, gets too attracted but intimated by the intensity and heat, like wild animal circling camper's bonfire, ghosting at the edge of the shadow, tempted but feared. The more souls he eats, the vision gets clearer, he recognizes Dean. But it only makes him hesitant more, he looks at his claws, making sure Dean doesn't see him. Only go into his view when seeing he's in danger and he has to. self-aware
 
@@ -897,9 +903,9 @@ The blade is lowered.
 
 Dean is always so full of surprise.
 
-### Chap. 3-3
+#### Act 3
 
-> **Outline:** action sequence, kill other monsters together, Cas eats them, grow visibly stronger the more he eats, wounds healing, shape reverting
+> action sequence, kill other monsters together, Cas eats them, grow visibly stronger the more he eats, wounds healing, shape reverting
 >
 > Dean helps feeding him, making him better
 
@@ -1021,9 +1027,9 @@ Things are looking good.
 
 <br>
 
-### Chap. 3-4
+#### Act 4
 
-> **Outline:** Leviathans attack them, Dean knows now the monster accompany him all this time is really Cas. Cas is almost dead under Leviathan's attack, Dean has to hunt and feed him souls to save him and help him recover (kiss him in his monster form).
+> Leviathans attack them, Dean knows now the monster accompany him all this time is really Cas. Cas is almost dead under Leviathan's attack, Dean has to hunt and feed him souls to save him and help him recover (kiss him in his monster form).
 >
 > Cas almost hurts Dean the moment he wakes up, guilty when realizing it's Dean, "way to say thank you", heal him, both recovered/healed
 
@@ -1229,9 +1235,11 @@ Looking back in the angel's briefly brightened up eyes, he gives him another sma
 
 <br>
 
-### Chap. 3-5
+#### Act 5
 
-> **Outline:** Cas turn back to normal shape, they talk. Cas confesses all secrets he's hiding this year, Dean gets pissed, decides to go back outside first together
+> Cas turn back to normal shape, they talk. Cas confesses all secrets he's hiding this year, Dean gets pissed, decides to go back outside first together
+
+###### [TBA]
 
 #### draft notes
 
@@ -1241,13 +1249,13 @@ joke ref Twilight: Dean as vamp sucks the bad blood out from Cas's system
 
 ### Chap. 4
 
-> **Outline:** Cas sees leviathans and everything, only way out is he juice up, so in order to bring Dean back, Cas absorbs souls in purgatory (tries best to avoid leviathans so stay sane mostly), blows up a hole in purgatory to push Dean out (heal him too, transform back to human again), tries to stay behind to keep everything in purgatory not escape by using his body as patch to the hole (and guilty for leaving Sam's soul behind, self-punish)
+> Cas sees leviathans and everything, only way out is he juice up, so in order to bring Dean back, Cas absorbs souls in purgatory (tries best to avoid leviathans so stay sane mostly), blows up a hole in purgatory to push Dean out (heal him too, transform back to human again), tries to stay behind to keep everything in purgatory not escape by using his body as patch to the hole (and guilty for leaving Sam's soul behind, self-punish)
 
 ### Chap. 5
 
-> **Outline:** Dean insists him out too or else he'll jump back in & they'll help fix Cas's leviathan problem, Cas complies finally, drooping leviathan ooze occasionally but mostly can hold them back. they both back on earth, Dean finds out Sam has issue, ask Cas to check, realize Sam's soulless.
+> Dean insists him out too or else he'll jump back in & they'll help fix Cas's leviathan problem, Cas complies finally, drooping leviathan ooze occasionally but mostly can hold them back. they both back on earth, Dean finds out Sam has issue, ask Cas to check, realize Sam's soulless.
 >
-> Cas+Dean go to hell's cage together, Cas in god+leviathan form, fight off Lucifer/Michael, steal Sam's soul back and fixes him (heal/wipe the broken memories), remember to save Adam too (do the same healing for him), leave Michael/Lucifer down there for earth's sake
+> Cas+Dean go to hell's cage together, Cas in god+leviathan form, fight off Lucifer/Michael ("rock beats scissor, leviathan beats angel"), steal Sam's soul back and fixes him (heal/wipe the broken memories), remember to save Adam too (do the same healing for him), leave Michael/Lucifer down there for earth's sake
 >
 > (add setting: the more Cas use god power, the more leviathan-corrupted he is, so they can't keep asking him doing things; Dean keep worry about Cas's condition, Cas still morally grey but only light grey)
 
@@ -1257,8 +1265,10 @@ After Dean's back, knowing what did (Sam killed Cas and "unholy man", Cas killed
 
 Cas/Sam: guess that's why we need you
 
+joke about morally grey: dark grey/light grey (ref?)
+
 ### Chap. 6
 
-> **Outline:** Cas fights Raphael with his god+leviathan part ("rock beats scissor, leviathan beats angel"), cancels out both problems (explodes, used up all god juice, Dean freaks out, Cas survives), all problems solved, world in peace again, TFW back together normal, HE
+> Cas fights Raphael with his god+leviathan part ("rock beats scissor, leviathan beats angel"x2, can win Michael+Lucifer, Raphael no chance, bring him to Cage to witness his brothers, threaten, Raphael comply), cancels out both problems (explodes, used up all god juice, Dean freaks out, Cas survives), all problems solved, world in peace again, TFW back together normal, HE
 
-###### End
+###### [End]
