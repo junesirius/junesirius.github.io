@@ -65,7 +65,7 @@ But just that blink of distraction leaves enough of a fatal opening, the Leviath
 
 ### Editing notes
 
-After Dean's back, knowing what did (Sam killed Cas and "unholy man", Cas killed a lot): What?!! Am I the only moral compass in the room now?
+Chap.1-3: change the narrative Cas → Castiel when he's morally grey/ambiguous and when Cas/Sam POV (can use Cas in narrative when Dean POV)
 
 ## Main
 
@@ -73,27 +73,29 @@ After Dean's back, knowing what did (Sam killed Cas and "unholy man", Cas killed
 
 > 3 Act: Act 1, inciting incident
 
-#### Act 1
+#### Act 1 Int. Vamp's Nest, Illinois - Night (Sam, Dean, Samuel, vamps); Ext. Purgatory (Dean, monsters); multiple (Cas)
 
+> (Sam POV → Cas POV)
+>
 > Dean gets killed when he's still vampire so he goes directly to purgatory
 >
 > (Sam is soulless the whole time)
 >
 > Cas goes desperate, blames himself, pushes Crowley/Alphas even further to find purgatory
 
-(**Warning word before chapter: This chapter has graphic depiction of violence and main character death**)
+(**Warning words before chapter:** This chapter includes strong graphic depiction of violence that may cause sudden shock and make reader uncomfortable. And includes temporary main character death.)
 
 <br>
 
-The impala is parked in the back alley by the two-story building. The place doesn't have light on, but some of the windows are broken, taste of copper and blood overflowing outside. One can only imagine how much blood must have been spilled inside the place for the outside to smell the same.
+The impala is parked in the back alley by the two-story building. The place doesn't have light on, but some of the windows are broken, taste of copper and blood overflowing outside. One can only imagine how much blood must have been spilled inside the place for the outside to smell the same filth.
 
 Sam and his grandfather hurry out of their van, rushing into the place, machete ready in hands.
 
-There are bodies without head all the way from the stairs leading to the main hall. A long red carpet made of blood -- but not human blood, vampire's.
+There are bodies without head all the way from the stairs leading to the main hall. A long red carpet made of blood  welcomes them.
 
 Sam glances at the separated heads rolling around on the floor, seeing fangs with dripping blood. None of them move an inch anymore.
 
-Samuel sees the same, catching his grandson's eyes, nodding at the only entrance leading to the larger opening. Both of them walk fast and quiet, trained hunter steps.
+Samuel sees the same, catching his grandson's eyes, nodding at the only entrance leading to the larger opening. Both of them walk fast and quiet, in trained hunter steps.
 
 The place is quiet. Too quiet. Even their silent footsteps might become the source of an echo.
 
@@ -101,11 +103,11 @@ And then, there is the sound of fighting again. Yelling and pulling, metal hitti
 
 They dash into the main ball room. Sam tightens the grip on the machete.
 
-Dean is covered in blood, his own or others they do not know. The bigger vampire that bit him earlier has a smirk on his face, pulling Dean's collar and throwing him flying across the room like he weighs nothing. Dean lets out an angry growl, rolling on the ground in time to dodge a fierce direct blow in the face, grabbing the knife he dropped and jumping back on his feet, circling the other vampire, eyes bloody, pupil dilated, fangs out.
+Dean is covered in blood, his own or others they do not know. The bigger vampire that bit him earlier has a smirk on his face, pulling Dean's collar and throwing him flying across the room like he weighs nothing. Dean lets out an angry growl, rolling on the ground in time to dodge a fierce direct blow in the face, grabbing the knife he dropped and jumping back on his feet, circling the other vampire, eyes bloody, pupils dilated, fangs out.
 
 Sam hesitates. Samuel eyes him.
 
-"Don't want to hurt Dean by accident." Sam whispers, not moving ahead, not throwing himself into the vampire fight.
+"Don't want to hurt Dean by accident." Sam whispers, not moving an inch closer, just standing there, watching them with white knuckles.
 
 Dean ducks and dodges for two three rounds, before getting wrestled and tripped by the other vampire, legs entangled, can't move easily. That monster is so much stronger than him. And by the look of fighting, how he swings his arms and fists, several hundred years of living isn't teaching him nothing.
 
@@ -117,7 +119,7 @@ Two heads roll away from their bodies, blood spilling everywhere, mostly on Sam'
 
 Sam flinches sharply, staring at the heads and bodies, gasping loud. "Dean!"
 
-Dean's eyes are still wide open, amber green, reflecting the shifting colors of the carving glass on the high ceiling. And then the lights go out. The fangs are still out, ugly, layering over his own teeth.
+Dean's eyes are still wide open, amber green, reflecting the shifting colors of the colored glass windows on the high ceiling. And then the lights go out. The fangs are still out, ugly, layering over his own teeth.
 
 So much for going out swinging.
 
@@ -135,7 +137,7 @@ The town is left behind in the rear mirror.
 
 Soon, the whole state of Illinois is left behind miles away.
 
-The vampire nest was set to fire before they left. Any other bodies or signs of life burned to the ashes.
+The vampire nest was set to fire before they left. Any other bodies or signs of life are all burned to the ashes.
 
 <br>
 
@@ -263,8 +265,10 @@ Crowley puffs out a laugh. "Talking about motivations."
 
 <br>
 
-#### Act 2
+#### Act 2 Ext. Purgatory (Dean, monsters); multiple (Cas, Sam, Crowley, Ajay, alpha vamp)
 
+> (Dean POV → Cas POV)
+>
 > Dean fights, tries to come back but can't go through human portal
 >
 > Cas finds rogue reaper Ajay, tries to go purgatory as angel but fail to leviathans (Naomi: took a lot angels to fetch Cas)
@@ -279,17 +283,17 @@ Call it survival instinct or whatever, he's fighting his ass out of here.
 
 There must be a way out. Dean tells himself.
 
-If the past thirty years of living this life teaches him anything, it's the fact that any problem can have a solution. And now he has a problem -- stuck in this monsterland afterlife as a vampire, so he just get to find the solution to leave here and fix himself. And hopefully, fix Sam too.
+If the past thirty years of living this life teaches him anything, it's the fact that any problem can have a solution. And now he has a problem -- stuck in this monsterland afterlife as a vampire, so he just get to find a solution to leave here and fix himself. And hopefully, fix Sam too.
 
 The last glint of memory flashes by and he sees Sam's face twitching as he was bitten, and later, as he was being killed.
 
-And fix Cas too, now that he really think about it. There is something wrong with Cas too, without seeing him for almost a year, the things he said about not having the luxury of caring about torturing a kid, or caring about anything, really. Whatever angel civil war thing that is going on, Cas is changed. They'll figure that out too, together. Once he's back to the game.
+And fix Cas too, now that he really thinks about it. There is something wrong with Cas too, without seeing him for almost a year, the things he said about not having the luxury of caring about torturing a kid, or caring about anything, really. Whatever angel civil war thing that is going on, Cas is changed. They'll figure that out too, together. Once he's back to the game.
 
 God, so many problems.
 
 Dean waves the new bone blade he just snatched from a dead vampire, feeling its weight in his hands, sensing some comfort for having a real weapon finally.
 
-"Okay," He tells himself. "One thing at a time then."
+"Okay," he tells himself, "one thing at a time then."
 
 He spots a stream at the edge of the woods, and starts following it, moving downstream.
 
@@ -297,17 +301,17 @@ He spots a stream at the edge of the woods, and starts following it, moving down
 
 As it turns out, if an angel really puts their mind into hunting, they can be a damn good hunter -- the best hunter in the world that a hunter could ever be, actually.
 
-The vicious things give off a dark vibe, not as evil as demons, but also different from the humans. Cas can sense them, pick them out from the crowd like picking out peas from rice. He drags the random werewolves, shapeshifters, vampires, or djinns out of their nest, sometimes he drops them to Crowley's lab, other times he fries their brains out himself when reading their minds.
+The vicious things give off a dark vibe, not as evil as demons, but also stink so much that they differ from the humans. Cas can sense them, pick them out from the crowd like picking out peas from rice. He drags the random werewolves, shapeshifters, vampires, or djinns out of their nests. Sometimes he drops them to Crowley's lab, other times he fries their brains out himself when reading their minds.
 
-He doesn't have the luxury of taking things slowly now, he tells himself. Every minute wasted on the Earth, every minute spent talking to a monster when he can just reach inside and read, he thinks of Dean in the Purgatory, being hunted and chased by the millions of monsters in there, he thinks of Dean dead, there, alone, and as a vampire.
+He doesn't have the luxury of taking things slowly now, Cas tells himself. Every minute wasted on the Earth, every minute spent talking to a monster when he can just reach inside and read, he thinks of Dean in the Purgatory, being hunted and chased by the millions of monsters in there, he thinks of Dean dead, there, alone, and as a vampire.
 
-Castiel's eyes glow into blue white lights, the two vampires in front of him vaporized. They don't know anything about Purgatory or their Alpha anyway, or if they do, they refuse to give them up. Castiel decides they do not worth his patience.
+Castiel's eyes glow with blue white lights, the two vampires in front of him vaporized in an instant. They don't know anything about Purgatory or their Alpha anyway, or if they do, they refuse to give them up. Castiel decides they do not worth his patience.
 
 "I think that's far enough, Angel." A low male voice sounds up behind him.
 
 Castiel turns around, the grace in his eyes barely recedes. He has the angel blade ready.
 
-The man has a strong built, decent suits and outfits, at the first sight he can fit perfectly into the upper class, drinking afternoon tea and talking horse racing with the ladies and gentlemen. Except the tea is probably made of human blood. Castiel can see the fangs just as he can see the man's skin and clothes.
+The man has a strong built, decent suits and outfits -- at the first sight he can fit perfectly into some upper class, drinking afternoon tea and talking horse racing with fancy ladies and gentlemen of Old Britain. Except the tea is probably made of human blood. Castiel can see the fangs just as he can see the man's skin and clothes.
 
 "Alpha vampire." Cas speaks, closest thing to a greeting.
 
@@ -321,9 +325,9 @@ But Cas's patience is wearing out fast. He takes a few steps closer. "Would you 
 
 The thought of Dean being a vampire hurts just as much as knowing he's in the Purgatory. Cas thinks, almost winces by just thinking it, but he makes sure it doesn't show. He shuts that train of thoughts off. They'll figure that out later, once he finds the place and finds him.
 
-"Dean Winchester, is it?" The Alpha studies his face. Cas maintains his expression straight, even if there is any uneasiness of being scrutinized, he makes them blank.
+"Dean Winchester, is it?" The Alpha studies his face. Castiel maintains his expression straight. As much as the uneasiness of being scrutinized, he makes his face blank, staring back at the vamp.
 
-"So you know him." He says as an answer.
+"So you know him." Castiel says as an answer.
 
 "Not just know him, I saw through his mind as he saw through mine." The vampire states it factually.
 
@@ -1301,7 +1305,9 @@ Cas/Sam: guess that's why we need you
 >
 > (passing line about Crowley knows better than stop them in this form so not show up)
 >
-> Cas go into Cage in god+leviathan form, fight off Lucifer+Michael (all 4 archangels together can win God-level power, but still can't win Leviathan, "rock beats scissor, leviathan beats angel"). Cas force grab Sam and Adam's soul back, fix them (heal/wipe broken memories, give Adam a new body), lock Michael/Lucifer back into Cage for Earth's sake
+> (bring soulless Sam together to Hell too? to assemble the soul-body? or carry the soul in a briefcase to bring to Sam)
+>
+> Cas go into Cage in god+leviathan form, fight off Lucifer+Michael (all 4 archangels together can win God-level power, but still can't win Leviathan, "rock beats scissor, leviathan beats angel"). Cas force grab Sam and Adam's soul back, fix them (heal/wipe broken memories, give Adam a new body), lock Michael/Lucifer back into Cage for Earth's sake (Adam's soul+body asleep, Sam's soul in a briefcase)
 >
 > Cas threaten ask Raphael if he will obey him now, Raphael fake comply, curse him fake God actual monster and most deserve the Cage, willing for mutual destruction and push Cas together fall into Cage
 
@@ -1311,7 +1317,7 @@ Cas/Sam: guess that's why we need you
 >
 > Cas in god+leviathan form get beaten up by 3 archangels together, Dean freak out outside, Cas willing to self-sacrifice, self-explode, all red and black and blood and goo
 >
-> (a little bit horror jump scare scene:) after explode, Dean mourn outside, already in widower state, Sam/Adam also there (?); a sudden bloody hand on the wall and pull himself up, Cas barely alive but does survive and climb out of Cage on his own, 3 archangels even worse state, back to primal form
+> (a little bit horror jump scare scene:) after explode, Dean mourn outside, already in widower state; a sudden bloody hand on the wall and pull himself up, Cas barely alive but does survive and climb out of Cage on his own, 3 archangels even worse state, back to primal form
 >
 > turn out cancels out both problems, explosion used up all god juice, powered/poisoned by and kill all leviathan part, Cas is strong/lucky enough to survive
 >
