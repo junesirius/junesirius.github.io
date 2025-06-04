@@ -82,6 +82,47 @@ published: false
 29. 空旷的操场
 30. 人很多的食堂
 
+### AU roulette 36题
+
+(cr: https://www.tumblr.com/au-roulette/752130708771897344)
+
+1. **Roleswap** - Maybe you want to switch two characters' places, do a class-swap for a D&D fandom, try your hand at an age-swap fic, or you have another idea. 
+2. **Superhero** -- Invent an original universe or do a fusion with one of the many popular big-screen superhero stories. Play it straight and give your favorite characters cool powers, or try a deconstruction of the genre. With great AUs comes great responsibility
+3. **Gothic Horror** -- Castles. Ghosts. Vampires. Drama. Love that conquers Death. Take your inspiration from classic literature or a newer entry in the genre, like The Locked Tomb books. But be sure to make things spooky.
+4. **Post-Apocalypse** -- Will the world end in fire or in ice? Or maybe economic collapse, war, zombies, or one of many other options? You write what happens next! 
+5. **Fairy-Tale** -- Pick a classic tale from the Grimms, Hans Christian Andersen, Asbjørnsen & Moe, Charles Perrault, or another favorite author to inspire your AU, try out a more modern re-telling, or use fairy-tale elements to craft your own story.
+6. **High Seas** -- Including but not limited to Pirate AUs and other Age of Sail adventures. Try out something more historical, or throw in as many fantasy elements as you'd like -- or a bit of both.
+7. **Time Travel** -- For fixing mistakes, making things worse, or time loops. Or maybe you want to write a fusion inspired by a piece of popular time travel media, like Doctor Who.
+8. **Western** -- Another AU where writers are free to do their history research or to lean into more outlandish genre conventions. Cowboys, cowgirls, and cowpokes all welcome, of course.
+9. **Mythology** -- Write a story inspired by your favorite myths and legends, from a whole host of different cultures. Or maybe you'd like to try your hand at writing some epic poetry? 
+10. **Coffee Shop** -- A classic everyone knows and has strong feelings about. Play it straight or add a twist, whichever suits your fancy! After all, no one said where the coffee shop has to be...
+11. **College/Academia** -- Are the characters in your AU students? Professors? Weary adjuncts? Throwing hands at a conference? Some mix of the above? 
+12. **Theater** -- Put those characters on Broadway or cast them in a disaster of a community theater production. Or a school play! All that really matters is the show must go on.
+13. **Ghost/Cryptid Hunters** -- Maybe you want to write a story starring the next Scooby-Doo crew, or maybe there really *is* something strange in the neighborhood. Or maybe it'll never be clear what really happened -- it's your choice!
+14. **Secret Agent** -- Code words, code names, you name it. Write a story about spies, cryptographers, or any other clandestine operators. Take inspiration from history or from James Bond. Just don't spill your secrets too soon.
+15. **Detective** -- Whether you're writing the world's greatest detective or someone who just can't get a clue, play up the mystery! Use a classic locale like 221B Baker Street or invent your own.
+16. **Cyberpunk** -- Time to write cyborg identity crises and fight the machine (literally)! Take inspiration from classic media like Neuromancer or Blade Runner or make a totally new cyberpunk universe of your own creation.
+17. **High Fantasy** -- Elves and dwarves and gnomes, oh my! This AU could encompass everything from Middle Earth to D&D AUs to your favorite high fantasy books you read over and over as a kid. Or maybe you have your own spell to weave.
+18. **Band/Musicians** -- Whether you decide to make the characters in your AU famous pop stars, part of an orchestra, students at a conservatory, jamming together in their garage, or otherwise musically-inclined, have fun with it!
+19. **Reporter/Journalist** -- For everything from local anchors and newspaper staff to big-league investigative reporters. Write characters who'll do anything to get a scoop or with a strong sense of justice -- it's your call!
+20. **Cosmic Horror** -- You don't have to love Lovecraft to get creative with this AU. Make characters comprehend the incomprehensible, send them messages from beyond the stars, and get a little creepy.
+21. **Heist** -- Will you write a story about master thieves? Vigilantes righting some wrong? What's being stolen and why? Try a Leverage AU or a caper of your own making.
+22. **Space Opera** -- The genre encompassing works like The Expanse, Imperial Radch, Mass Effect, and Star Wars, brimming with galactic empires, alien species, and chivalric adventures. Write a fusion set in the universe of your favorite work in the genre, or invent a new one!
+23. **Sports/Athletics** -- Pick a sport, any sport -- whether a team game like hockey, an individual one like archery, a paired one like figure skating, or something a little unconventional, like roller derby or HEMA. Then it's ready, set, write!
+24. **Historical Era** -- An AU type absolutely bursting with potential, from medieval romances to 1920s Prohibition AUs, to ones inspired by historical fiction like Les Miserables. Whatever era of history strikes your fancy, you can write it.
+25. **Road Trip** -- Pack your favorite characters in a car and don't forget the snacks. Or maybe the spaceship, or something else if you're feeling adventurous. Where are they headed and why? Only you know the answer!
+26. **Space Exploration** -- Whether you want to write modern-day astronauts, a futuristic Star Trek AU, or something inspired by the space race, the sky isn't even the limit with this AU. 
+27. **Urban Fantasy** -- For all your modern-with-magic settings. Write an AU inspired by something like Teen Wolf, Artemis Fowl, Buffy the Vampire Slayer, or much of Neil Gaiman's oeuvre, or invent your own world where witches and websites coexist.
+28. **Museum/Archives** -- Have the characters in your AU working in the exhibits or behind the scenes, down in the collections or even as archaeologists or paleontologists. What secrets are waiting to be unearthed there?
+29. **Hospital** -- A surprisingly flexible AU option -- are the characters working there, or the victims of some unfortunate accident? Or maybe it's a bit of both. Take it wherever you feel like.
+30. **Camping/Wilderness Survival** -- Could be anything from a fun summer camp or camping trip to a nightmare survival scenario. Write everyone having s'mores around the campfire or something inspired by media like Yellowjackets, where they might be having... something else.
+31. **Steampunk** -- A fantastic opportunity to get creative with your worldbuilding. Try your hand at some alternate history, or invent a world of airships and other flying machines of your very own.
+32. **Shapeshifter** -- Can the characters in this AU turn into anything they want? Or maybe they're more limited, like selkies -- even unable to control their shapeshifting at all (can I get an "awoo" from the werewolf fans?)
+33. **Classic Literature** -- An AU somewhat more dependent on fusion ideas, but still very flexible! Pick a favorite classic book or play and let it inspire your writing!
+34. **Dystopian** -- Create your own awful society or let a favorite piece of media guide you, like writing a Hunger Games AU. Will the characters break the cycle, or end up trapped in it?
+35. **Renaissance Faire** -- A recipe for chaos. Write a bunch or faire-goers or have the characters in your AU working at the faire! Adventures await.
+36. **Scientist/Mad Science** -- Write characters as normal biologists, physicists, and chemists, the next Frankenstein, or as hapless experiments themselves!
+
 ## B
 
 ### 把什么看得最重要6种
