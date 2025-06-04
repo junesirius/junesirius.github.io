@@ -632,13 +632,11 @@ Rowena: self-loathing, newly deserted by the rich man going back to his rich wif
 >
 > (Caecilius POV) telling them about Pompeii life, 79 AD (year of "Consulhood of Vespasian and Titus") Aug 24 (eruption day), the Cas from his POV, different from Dean's POV, Dean sidetracked from leviathan problem, prioritizing Cas → boys begin to have a guess what's Cas doing, Dean pray to Cas come back before messing up more things
 
-The plan is disrupted by the explosion of incoming phone calls and messages.
-
-"Have you checked the news?" Garth's voice comes through first.
+The plan is disrupted by a massive explosion -- explosions, plural, and both figuratively and literally.
 
 
 
-###### [TBA: increasing witch activity worldwide starting from Scotland, immediately lead to next guest, Cas still doesn't show his face]
+###### [TBA: increasing witch activity worldwide starting from Scotland, they feel literal explosion witch purple smoke and sudden news online, immediately lead to next guest, Cas still doesn't show his face]
 
 <br>
 
