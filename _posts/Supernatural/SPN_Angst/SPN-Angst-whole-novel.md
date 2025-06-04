@@ -69,7 +69,9 @@ After Dean's back, knowing what did (Sam killed Cas and "unholy man", Cas killed
 
 ## Main
 
-### Chap. 1
+### Chap. 1 Red
+
+> 3 Act: Act 1, inciting incident
 
 #### Act 1
 
@@ -79,7 +81,9 @@ After Dean's back, knowing what did (Sam killed Cas and "unholy man", Cas killed
 >
 > Cas goes desperate, blames himself, pushes Crowley/Alphas even further to find purgatory
 
-**Warning: This chapter has graphic depiction of violence and main character death**
+(**Warning word before chapter: This chapter has graphic depiction of violence and main character death**)
+
+<br>
 
 The impala is parked in the back alley by the two-story building. The place doesn't have light on, but some of the windows are broken, taste of copper and blood overflowing outside. One can only imagine how much blood must have been spilled inside the place for the outside to smell the same.
 
@@ -495,8 +499,10 @@ Dean creeps a smile. "Game time?"
 
 <br>
 
-### Chap. 2
+### Chap. 2 Black
 
+> (3 Act: Act 1, Plot point 1)
+>
 > Cas turns himself to monster (disturbing form, distorted wings etc.), death wish for sacrifice, gets killed by Sam as he wants, goes to purgatory
 >
 > (Ajay is killed by Crowley/Alpha/Raphael, so no going from that again)
@@ -757,7 +763,9 @@ One set of footstep head back, stepping on the ground that is more muddy wet tha
 
 Bobby shakes his head hard. "Cas you stupid love-blind idjit."
 
-### Chap. 3
+### Chap. 3 Shadow
+
+> 3 Act: Act 2, plot pinch 1 - middle point (moment of truth)
 
 #### Act 1
 
@@ -845,7 +853,7 @@ He takes the hand back.
 
 The world is a pool of shapes and colors, floating and swimming, emerging and diverging. Some shapes and colors move closer, some further. Some red and its approach burns, some black and tearing and cold, the others vague and grey, passing by without extra sensation.
 
-There is no thought, no words. Light or dark, chromatic or bleak. That's all there is.
+There is no thought, no words. Light or dark, colored or bleak. That's all there is.
 
 It takes a while to realize the small blinking lights are edible, and those feel good -- making the colors looking brighter and shapes sharper. Almost like the view is getting clearer, but still the same forms.
 
@@ -1237,6 +1245,8 @@ Looking back in the angel's briefly brightened up eyes, he gives him another sma
 
 #### Act 5
 
+> 3 Act: Act 2, middle point (moment of truth)
+>
 > Cas turn back to normal shape, they talk. Cas confesses all secrets he's hiding this year, Dean gets pissed, decides to go back outside first together
 
 ###### [TBA]
@@ -1247,17 +1257,21 @@ joke ref Beauty & Beast: Dean's kiss can break Cas's spell, making him back to n
 
 joke ref Twilight: Dean as vamp sucks the bad blood out from Cas's system
 
-### Chap. 4
+### Chap. 4 Grey
 
+> 3 Act: Act 2, plot pinch 2
+>
 > Cas sees leviathans and everything, only way out is he juice up, so in order to bring Dean back, Cas absorbs souls in purgatory (tries best to avoid leviathans so stay sane mostly), blows up a hole in purgatory to push Dean out (heal him too, transform back to human again), tries to stay behind to keep everything in purgatory not escape by using his body as patch to the hole (and guilty for leaving Sam's soul behind, self-punish)
 
-### Chap. 5
+#### draft notes
 
-> Dean insists him out too or else he'll jump back in & they'll help fix Cas's leviathan problem, Cas complies finally, drooping leviathan ooze occasionally but mostly can hold them back. they both back on earth, Dean finds out Sam has issue, ask Cas to check, realize Sam's soulless.
+joke about morally grey: dark grey/light grey (ref?)
+
+### Chap. 5 Scarlet
+
+> 3 Act: Act 2, plot point 2
 >
-> Cas+Dean go to hell's cage together, Cas in god+leviathan form, fight off Lucifer/Michael ("rock beats scissor, leviathan beats angel"), steal Sam's soul back and fixes him (heal/wipe the broken memories), remember to save Adam too (do the same healing for him), leave Michael/Lucifer down there for earth's sake
->
-> (add setting: the more Cas use god power, the more leviathan-corrupted he is, so they can't keep asking him doing things; Dean keep worry about Cas's condition, Cas still morally grey but only light grey)
+> Dean insists him out too or else he'll jump back in & they'll help fix Cas's leviathan problem, Cas complies finally, drooping leviathan ooze occasionally but mostly can hold them back. they both back on earth, Dean finds out Sam has issue, ask Cas to check, realize Sam's soulless
 
 #### draft notes
 
@@ -1265,10 +1279,44 @@ After Dean's back, knowing what did (Sam killed Cas and "unholy man", Cas killed
 
 Cas/Sam: guess that's why we need you
 
-joke about morally grey: dark grey/light grey (ref?)
+### Chap. 6 Light
 
-### Chap. 6
+> 3 Act: Act 3, twist, climax, wrap up
+>
+> (add setting: the more Cas use god power, the more leviathan-corrupted he is, so they can't keep asking him doing things; Dean keep worry about Cas's condition, Cas still morally grey but only light grey)
 
-> Cas fights Raphael with his god+leviathan part ("rock beats scissor, leviathan beats angel"x2, can win Michael+Lucifer, Raphael no chance, bring him to Cage to witness his brothers, threaten, Raphael comply), cancels out both problems (explodes, used up all god juice, Dean freaks out, Cas survives), all problems solved, world in peace again, TFW back together normal, HE
+#### Act 1
+
+> They need to fight off Raphael & go to Cage to face Michael/Lucifer to save Sam's soul, so combine the two tasks together. Cas wants to go do all these alone, Dean doesn't let him
+>
+> argument, even fight a little (Cas still a bit grey, beat Dean to protect him, then heal him), eventually agree do everything together, live or die
+
+#### Act 2
+
+> 3 Act: Act 3, twist
+>
+> (Action sequence)
+>
+> Cas&Dean go to Raphael and fight with his god+leviathan part, Raphael is no match, Cas drag him to Cage to force him to watch
+>
+> (passing line about Crowley knows better than stop them in this form so not show up)
+>
+> Cas go into Cage in god+leviathan form, fight off Lucifer+Michael (all 4 archangels together can win God-level power, but still can't win Leviathan, "rock beats scissor, leviathan beats angel"). Cas force grab Sam and Adam's soul back, fix them (heal/wipe broken memories, give Adam a new body), lock Michael/Lucifer back into Cage for Earth's sake
+>
+> Cas threaten ask Raphael if he will obey him now, Raphael fake comply, curse him fake God actual monster and most deserve the Cage, willing for mutual destruction and push Cas together fall into Cage
+
+#### Act 3
+
+> 3 Act: Act 3, climax, wrap up
+>
+> Cas in god+leviathan form get beaten up by 3 archangels together, Dean freak out outside, Cas willing to self-sacrifice, self-explode, all red and black and blood and goo
+>
+> (a little bit horror jump scare scene:) after explode, Dean mourn outside, already in widower state, Sam/Adam also there (?); a sudden bloody hand on the wall and pull himself up, Cas barely alive but does survive and climb out of Cage on his own, 3 archangels even worse state, back to primal form
+>
+> turn out cancels out both problems, explosion used up all god juice, powered/poisoned by and kill all leviathan part, Cas is strong/lucky enough to survive
+>
+> all problem solved, world in peace again, TFW back together normal
+>
+> on their way out Crowley doesn't give them trouble, they go home, HE
 
 ###### [End]
