@@ -47,7 +47,7 @@ Every time there is a quarrel and he flies back, he flies back further and waits
 
 - medieval, witch trial, save a poor women (but actually real witch) ← was to meet a witch promised to give him peace but persecuted shortly, Canisbay Scotland, 1668 summer with a 7y old boy, turn out to be Rowena&Fergus MacLeod, peasant, daughter of tanner (fly away because of the violence & conflict)
 - Pompeii, stop the volcano, same the twenty thousand people, consequence? history of Italy changed, culture development unbalanced? ← (short, in passing line) "I was in here and here and here", one of time/place: Mount Vesuvius, 79 AD eruption day Aug 24 ("the word 'volcano' wasn't invented until that day")(year of "Consulhood of Vespasian and Titus")(Caecilius, Metella, Evelina, Quintus)
-- the very early human evolution, the homo sapiens vs Neanderthals', enjoy the company with the very first few humans, relationship with Adam etc.? <u>watching bees nude</u> (natural science history vs religious history, how to merge?) ← accidentally affect human evolution, modern human has different features (write in a way that modern people don't realize weird things are weird because it changes the whole history, butterfly effect)
+- the very early human evolution, the homo sapiens vs Neanderthals', enjoy the company with the very first few humans, ~~relationship with Adam etc.?~~ <u>watching bees nude</u> (natural science history vs religious history, how to merge? Adam is the fish for fun) ← accidentally affect human evolution, modern human has different features (write in a way that modern people don't realize weird things are weird because it changes the whole history, butterfly effect)
 - falling asteroid, dinosaur extinction, comment: "just like Sodom and Gomorrah", "I wasn't there" (because he actually was, suddenly remember?) ← real dinosaurs have furs
 - watch the fish, the first fish on the shore (S06E20 I remember being at a shoreline, watching a little grey fish heave itself up on the beach and an older brother saying, "don't step on that fish, Castiel. Big plans for that fish."), the first creature on the land ← help it? touch it? affect its evolution?
 - the formation of Earth, solar system, galaxy ← watch the space quietly, help create the stars, maybe this is when the asteroid belt was formed, should have been a star there, Cas break one when he's there this time, so now throughout the whole history, that planet doesn't exist (give that star a name and some feature? Diana (Artemis), from Roman history like the rest, or gods name from star name bc stars come first)
@@ -723,6 +723,16 @@ Consequence if not fix: dinosaur coexist with human
 watch the fish, the first fish on the shore (S06E20 I remember being at a shoreline, watching a little grey fish heave itself up on the beach and an older brother saying, "don't step on that fish, Castiel. Big plans for that fish."), the first creature on the land ← help it? touch it? affect its evolution?
 
 Consequence if not fix: other humanoid species existing along with normal human beings (e.g. fish-people, bird-people, lizard-people)
+
+
+
+the first grey fish's name is Adam
+
+Dean: No way, I'm pretty sure your book says Adam is a *man*
+
+Cas: And what's the definition of a man?
+
+Dean: (stare at Cas, shake hands, stare at fish again, still can't believe) You gotta be kidding me.
 
 ### Chap. 11 Space, Hadean Eon (4.6 billion years ago)
 
