@@ -2153,6 +2153,92 @@ Cas drag Raphael to Cage to force him to watch
 >
 > on their way out Crowley doesn't give them trouble, they go home, HE
 
+"No, no, no! Not again!" Dean pounds on the glass window of the Cage. The material is definitely not really glass, and it's most certainly single sided and soundproof.
+
+He can do nothing but just watch the bully show displaying inside the glass container -- the brutal shark in tank show with Cas's in the center.
+
+The three archangels form an ally within seconds. Cas's eyes shift between blue and black, leviathan goo continuously falling out of him.
+
+Lucifer jump starts the first round of attack, with Michael -- now without Adam, he is more involved in the event as well -- on Cas's left flank, and Raphael on his right. Castiel's body shakes under their strike, the archangels stab him with the spiral blades, punch and kick and beat him from every direction.
+
+Within seconds, Castiel's body slumps to the ground, blood and goo flowing from broken junctions and wounds.
+
+*Cas, come on, stand up.*
+
+Dean presses his palm on the glass wall, begging vainly.
+
+The prayer must have reached him, for the angel turns his head toward the side of the wall Dean's in. The attacks from the three archangels are continuing, but he seems to forget about them at this moment.
+
+Dean watches him desperately.
+
+Castiel's broken lips move. Once, with three words. Then, with another three words.
+
+Dean doesn't need to hear or know about lip language to recognize them.
+
+*I'm sorry.*
+
+*I love you.*
+
+"NO!!" Dean punches the wall of the Cage with all his forces. His fists are covered in his own blood.
+
+That is when Castiel's eyes brighten up. It lightens up the whole dark space like a sun, and it continues growing and glowing like a supernova.
+
+Dean shuts his eyes close but even then, the blue white lights pierce through his eyelid, burning his vision a bright bloody red light.
+
+The sound is isolated inside the Cage, so is all the energy unleashed. The Cage barely shakes when the light recedes.
+
+*Cas.*
+
+Dean sobs, not having the courage to look inside again for a long minute.
+
+The Cage is an explosion debris. White smokes haven't dissipated, colors smudge all over the space, red is blood, black is leviathan goo, mixing together like a dirty distained tragedy scene -- in a way, it is.
+
+Dean presses his forehead on the glass, breath uneven, tears shredding. His lips tremble with one word: "Cas."
+
+A sudden bloody hand appears on the wall from inside, leaving a trace of bloody handprints as it pulls the person up slowly into the view.
+
+Dean holds his breath, until Cas's face emerges, until Cas slowly, gradually climbs out of the Cage on his own.
+
+Dean wraps his arms around him immediately.
+
+"I thought I lost you," he tells him.
+
+"I thought so too," Cas answers honestly.
+
+"What happened?"
+
+"I exploded, and the sharks killed each other, I think." Cas considers.
+
+Dean holds the angel's blood stained cheeks in his palms, regarding his features carefully. There is no dark vein with poisonous liquid crawling across, no dripping goo. No sign of Dick anywhere. And judging by the mess inside Cage, no sign of the other dicks as well.
+
+Dean can't help laughing, "We gotta work on your jokes, it's even worse than the crab one."
+
+Cas opens his mouth to retort, but Dean doesn't give him any chance.
+
+Dean presses his lips onto Castiel's, drinking in every last bitter sweet flavor in him. Cas returns the kiss as he does.
+
+<br>
+
+They stay until the King of Hell finally can't take it any longer and declare the "public museum of the Cage" is officially closed at this moment.
+
+They arrive home with Sam's soul in a suitcase and their half-brother in the back seat.
+
+No one die today. No world-ending event scheduled in the next month.
+
+Dean walks into Bobby's house giving the old man a tight hug, and tells him, this is the best day of his life.
+
+<br>
+
 #### draft notes
+
+"I should have said this earlier," Dean says, after finally dragging himself away from the entangled tongues. He looks at Cas in the eyes, the ocean-blue eyes looking him right back.
+
+"You don't have to say it," Cas answers, "I heard your prayers."
+
+"It's important," Dean insists, then takes a slow, long breath. "I love you."
+
+Cas smiles as if the whole universe's light is gathering on him again.
+
+"I love you too."
 
 ###### [End]
