@@ -525,7 +525,7 @@ Dean creeps a smile. "Game time?"
 >
 > (Ajay is killed by Raphael, so no going through that way again)
 
-(**Warning words** before the chapter: Body horror and potential grotesque content)
+(**Warning words** before the chapter: Body horror and minor grotesque content)
 
 <br>
 
@@ -947,7 +947,7 @@ Dean is always so full of surprise.
 
 <br>
 
-### Chap. 4 Crimson
+### Chap. 4 Bloody
 
 #### Act 1 Ext./Int. Purgatory (Dean, Cas)
 
@@ -1313,7 +1313,7 @@ joke ref Beauty & Beast: Dean's kiss can break Cas's spell, making him back to n
 
 joke ref Twilight: Dean as vamp sucks the bad blood out from Cas's system
 
-### Chap. 5 Grey
+### Chap. 5 Ashy
 
 > 3 Act: Act 2, plot pinch 2
 >
@@ -1421,7 +1421,7 @@ Cas stills for a brief moment. His body moves before his eyes calming down from 
 
 Dean pants when he pulls back an inch, arms still wrapped at the back of Cas's head, his black hair more ruffled than before. Dean rests his head over Cas's shoulder, their cheeks touching.
 
-"That's how much I don't want you die, you get that?" Dean says by Cas's ear, his eyes closed. "If there is any chance of living, any at all, please don't die." He hears his tone pleading, and he leaves it be.
+"That's how much I don't want you die, you get that?" Dean says by Cas's ear, his eyes closed. "If there is any chance of living, any at all, don't die." He hears his tone pleading, and he leaves it be.
 
 "Okay." Cas answers quietly, his voice passing through the vibration of his chest and Dean can feel the vibration right where his heart pounds.
 
@@ -1535,47 +1535,285 @@ Dean reaches out trying to hold Cas's arm, but Castiel pulls it out. He points h
 
 He sees Cas lands his eyes on him once again, his mouth opens, but Dean can't hear anything. He gestures to his temporarily deafened ears pitifully.
 
-Cas puts a hand on his shoulder and he can hear again.
+Cas puts a hand on his shoulder and he can hear again. Better than that, the sound is normal like what he's used to as a human, without the pumping voice of blood running through veins. He touches his gum, and there are no more fangs.
+
+But he doesn't have time to say thank you.
 
 "You have to go now," Cas pushes him.
 
-Dean doesn't move, "Come with me."
+Dean doesn't want to move, "Come with me."
 
 A black line moves from Cas's cheek to his eyes, dying his right eye black. Staring at Dean with two eyes of different colors, Cas demands, "Go, Dean, don't make me hurt you."
+
+<br>
+
+### Chap. 6 Crimson
+
+> 3 Act: Act 2, plot point 2
+
+#### Act 1 Ext. Purgatory portal (Dean, Cas)
+
+> (Dean POV)
+>
+> Cas blows up a hole in purgatory to push Dean out (heal him too, transform back to human again), tries to stay behind to keep everything in purgatory not escape by using his body as patch to the hole (and guilty for making the mistake to fail Dean, self-punish)(keep the bad things in the cage)
+>
+> Dean insists him out too or else he'll jump back in & they'll help fix Cas's leviathan problem, Cas complies finally, drooping leviathan ooze occasionally but mostly can hold them back.
+
+Some of these days, Dean Winchester thinks their life is like a horror movie; other times, he thinks even horror movies would be better and easier to live through than their real life, because he usually can see what's coming. There would be a pattern, a rule, a consensus between the monsters and victims and the audience. But here, right before him, there is no such rule. Which means creepy shit just keeps happening and keeps getting worse and weirder with every move he took. Like right about now.
+
+"Cas, fight it, I know you're in there." Dean takes a small step back, just to keep a safe distance with the creature that's taking Cas's form, while a moment ago, it's Cas taking the creature's form. He's going to lose his minds just trying to think this straight.
+
+"I know, because I AM right here." The black line moves away from Cas's eye, becoming a curve across his forehead, lining from his scalp to the center of his nose bridge. Cas continues talking, voice eager and terrified, "Dean, please."
+
+Immediately, the tip of his mouth drags up in a curve that Cas's smile never would, and he says, "Where else would I be?"
+
+Dean thinks he's about to lose his mind.
+
+Cas reaches for his arm, pulling him closer as if wanting to hug him one last time, but at the last moment, pushing him toward the portal. His face twitches from the pulling and pushing, black goo continuously dripping from the corner of his mouth.
+
+The gesture is clear enough even if he might not have the control of his voice or eyes at the same moment.
+
+Dean stares at his eyes, desperately looking for the familiar way it always look back at him, "Cas, I know you can hear me. We can fix this, when we're out there. Bobby will have some book, and we can fix you. Just, come home with me."
+
+Dean grabs Cas's wrist, doesn't let him go. He is right on the edge of the portal now after Cas's push. The swirling cloud circles around his feet, one more step and he's home sweet home.
+
+Cas meets his eyes, same desperate emotions spinning in those eyes. "It's a fight I'll lose sooner or later, Dean," his voice is his own now, "you have to understand. Purgatory is where all the monsters are, that's where I should be."
+
+"Where the hell did you get that idea from?" Dean growls, trying desperately to drag Cas toward the portal.
+
+Cas's hand is pulled away easily, then pushing Dean harshly. Dean trips to the ground. "You know, he's not wrong." The Leviathan inside Cas takes over and smirks. "He IS a monster now. Actually, he's many monsters at the moment. Plural."
+
+"Who am I talking to, you dick?" Dean glares through Cas's eyes, looking inside at the dark creature.
+
+"We don't have names." The Leviathan tilts Cas's head, as if giving Dean a good look, "But you may call me Dick."
+
+"Yeah, suits you really well." Dean bites.
+
+"Now if you'll excuse me, I have a ride to catch, and a world to conquer." Dick takes a large step toward the portal. Dean doesn't know if he wants to help him or stop him now.
+
+Cas's own legs twist into a knot, left foot fighting the right, and he tumbles to the ground. Two steps away from the portal now.
+
+Dean runs his hand over his face. He hates it when he seems to be on the same side as the monster. Cas might be right, they might unleash worse things into the world if they let it out, but no way in hell is he going to leave Cas alone in Purgatory. And if he remembers it right, the rest of the Dicks are still waiting to eat Cas alive.
+
+"Cas! Come on!" Dean yells.
+
+"I'll close the portal once you are out!" Cas shouts back at him, crawling on the ground using only his hands to pull his body away from the portal. "Go now, Dean!"
+
+"No." Dean makes up his mind. "If you stay, I stay."
+
+"For God's sake, this is like the worst commercial, can you talk to the idiot angel? Like, really talk?" Dick pops in, looking at Dean through Cas's eyes, "You really don't know why he wants to stay behind?"
+
+Dean glares back at the creature, pissed, "You do?"
+
+"I'm literally in his head. Don't ever say I never did anything for you, *Dean*." Dick mocks his name, then, "That's the way the angel says sorry. Oh and, he doesn't think he's important to you enough that worth your time to save him, all he wants is you happy and safe. There, go figure that out."
+
+Dean is choked for a brief second. He wants to call the hideous creature a liar, but for once, he knows better. He says instead, "I'm not doing this for you."
+
+"Whatever you say," Dick grins.
+
+Cas's face shifts from smirk to a controlled concentration in a blink.
+
+"Cas, you there?" Taking a deep breath, Dean asks.
+
+"Yes, it's me." Cas pants in grave voice. His knuckles are white from grasping the rocks and stones on the ground, trying to crawl farther away from the portal.
+
+Dean kneels down before him, and he has to take a second deep breath. Then he meets Cas's deep blue eyes. He manages to ignore the black worms that are still visibly crawling underneath Cas's skin through his veins.
+
+He gives him one of his best smiles. "I thought I was clear enough earlier." Dean tries, eyes on the angel's lips, hoping silently the hinting is good enough.
+
+Cas narrows his eyes slightly in question.
+
+"That you are important to me." Dean has to finish his sentence.
+
+"That I'm not dead." Cas extends the sentence.
+
+"No, not just that." Dean sighs. Why is this so difficult? He squeezes words out, slowly, like he's learning vocabularies from his own words, "You're important to me, because you are Cas. Whatever you do."
+
+"Okay." Cas answers reluctantly. It is just so clear the words fail to sink in.
+
+Dean closes his eyes and says desperately, "I will never be happy, if you don't come with me and be safe and happy out there. Is this clear enough?"
+
+Cas blinks. "Oh."
+
+Dean opens his eyes. "Yes."
+
+Cas says again. "Oh."
+
+And Dean confirms again. "Yes."
+
+Cas slowly stands to his feet. His two feet are not fighting anymore.
+
+"Come on, let's go home."
+
+<br>
+
+#### Act 2 Int. Bobby's place (Dean, Cas, Sam, Bobby)
+
+> they both back on earth, Dean finds out Sam has issue, ask Cas to check, realize Sam's soulless (Cas doesn't know that until now)
+>
+> Cas drooping leviathan ooze occasionally but mostly can hold them back.
+
+"Sam, Sam! Gun down! It's us! For God's sake!" Dean ducks just in time for the bullet to fly over his head, whooshing out of the opened window. Cas, however, gets one right on his chest.
+
+"Jesus Christ, we should have 'no gun in room' policy!" Dean rushes to check on Cas, who already removed the bullet and is examining it carefully on his palm. The trench coat has a new bloody bullet hole, but other than that, he looks okay. Dean lets out a breath.
+
+"What's that about? Red alert on enemy angel incoming?" Dean glares at Sam.
+
+Sam shrugs, "Sorry, muscle memory. Maybe use the door next time."
+
+Dean stares at him unbelievably, "Oh that's how you say 'welcome back'? 'Maybe use the door next time'? That's -- that's just great."
+
+Dean turns around to look for Bobby.
+
+Bobby meets his eyes, giving him a nod and a tight smile, "Welcome back, Dean." Throwing a glance in Cas's direction, he adds, "Looks like your angel found you, as he promised."
+
+Dean nods, glancing back at Cas.
+
+"He ain't looking so hot though. Any new problem we need to handle?" Bobby asks with an unsurprised annoyed look.
+
+Dean doesn't even bother to look surprised or offended at that. "Yeah, about that..."
+
+Sam doesn't shift his gaze or aim at Cas since the two of them fly in. The black goo dripping from Cas's fingertips slowly forms a small black puddle on the floor.
+
+"What are you?" Sam demands coldly.
+
+Cas answers him, "I'm still me. Castiel, Angel of the Lord."
+
+"Then what's this?" Sam scoffs, using the muzzle of his pistol to gesture the black ooze on the floor and Cas's face, referring to the suspicious black worms lurking inside him.
+
+"How did you two come out of the Purgatory?" Bobby adds question to the pile, "Are you still a vamp, Dean?"
+
+"No fangs now, thanks to Cas." Dean starts with the easy question, hurrying toward Cas and pointing a finger at Sam's gun, "Take that away, will ya? No one points gun at anyone in this house. Not on my watch."
+
+"That should be my line." Bobby mumbles.
+
+"Only if you explains what's wrong with him." Sam doesn't give in. "Not my fault he looks like want to eat me or kill me. I'm only self-defense."
+
+Dean tries to pull Cas away but the angel doesn't move.
+
+"Cas absorbed the souls in the Purgatory to juice up and blew up a hole to save both of us, with a little side effect we need to figure out how to fix." Dean is genuinely pleased he actually managed to summarize everything downstairs in one sentence.
+
+"Which is?" Bobby prompts, eyes shifting between Cas and Dean.
+
+"There's this monster in the Purgatory -- the Leviathans." Dean considers how to best put it, "Well apparently, according to angels, these things are so vicious and can't be killed, the God specifically created a Purgatory to lock them away."
+
+"Let me guess, now they are in Cas and ready to have some fun outside the jail." Bobby says gloomily.
+
+"Something like that." Dean considers, "You know what, exactly like that."
+
+"And how are you gonna kill some monsters not even God knew how to kill?" Bobby squints at him.
+
+Dean says, simply, "We'll figure out something. Now your turn," he turns to Sam, "what's your problem?"
+
+Sam shrugs, "Nothing?"
+
+"You haven't been right since Stull Cemetery." Dean frowns, then turns to Bobby, "Tell me he looks sketchy to you too."
+
+Bobby levels the look, "I didn't live with him or go hunting with him everyday."
+
+"You don't need to live with him to know. Just look at him!" Dean can't help himself, raising his voice.
+
+"Don't you start lecturing me in my house, boy." Bobby grumbles. "But yes, he volunteered to kill Cas, do the math."
+
+"What the hell?" Dean looks at Sam unbelievably.
+
+"And maybe some other men he didn't want us know." Bobby adds.
+
+Sam defends, "That's Cas's idea, he killed a lot more than I did when you were gone, Dean. I told him to let you go but he didn't listen."
+
+"I was just trying to save Dean." Cas defends too.
+
+"What's wrong with all of you?" Dean stares at them one at a time, "Am I the only moral compass in the room now?"
+
+Sam shrugs once. Cas tilts his head toward him.
+
+Bobby answers, "Guess that's why they need you."
+
+Dean sighs. "Alright then, one problem at a time. Let's figure out what's wrong with Sam. Cas, little help?"
+
+"I'm not a human doctor." Cas states perplexedly.
+
+"We don't exactly have a post-Hell syndrome human doctor, do we?" Dean is trying best to manage his temper, "Can't you use your new mojo or something to figure it out?"
+
+Cas approaches Sam on the sofa, who still refuses to let go of his pistol. Dean grabs it away from him. "You know it's not gonna do anything to him anyway."
+
+"Not if I have angel-killing bullet," Sam meets both Dean and Cas's eyes, Dean's glaring with burning flame, "Just saying."
+
+Cas reaches a hand for Sam's forehead, a gesture to test his body temperature. Sam leans back, away from him. "Not that I'm prejudiced or anything," Sam points at Cas's leviathan problem, "You sure it's not contagious or anything?"
+
+Cas turns to look at Dean for help.
+
+"How the hell would I know?" Dean says grumpily. Honestly, it didn't even cross his mind when he was hauling and pulling Cas out of Purgatory. But just to be on the safe side, "Fine, no touching then. Cas, can you do that?"
+
+Cas hums quietly, holding his diagnostic hand six inches away from Sam. Sam just stares at him.
+
+"His soul is missing." Cas concludes bluntly.
+
+Dean looks back and forth between them. "His soul?! How's that even possible? Where is it then?"
+
+"My guess is... Still with Michael and Lucifer, in the Cage." Cas answers, his feet shifting on the floor.
+
+"Whoever brought me back did a really shitty job, it looks like." Sam comments.
+
+Cas looks down uneasily, opening his mouth but no words coming out.
+
+Dean studies him, "Did you... It's not you, is it, Cas? Brought Sam back without his soul."
+
+Cas swallows. "I didn't realize it at the time. I'm sorry." He doesn't meet their eyes. "It's not easy to save someone from a Cage with both Michael and Lucifer in it, you must understand. They were not exactly in a good mood."
+
+Sam scoffs. "'Not easy.' Sure. You got Dean back pretty decently, with everything put back together, wrapped in a gift box with a cherry on top."
+
+"Sam! Not helping." Dean snaps.
+
+"I said I'm sorry, I truly am." Cas says, "And I intend to fix it."
+
+"Sorry doesn't do shit." Sam mocks, "You have plan to go downstairs again?"
+
+"Sam! We just came back!" Dean feels like he's trapped in the middle of a crossfire. Middle-east is probably an even easier place to go at this time of the year. "We'll make a plan, and then we go and fetch it, right, Cas?"
+
+"I fully intend to go to the Cage again," Cas promises solemnly, directly to Sam now, "I only wish for your forgiveness for this is one of my many mistakes."
+
+"Cas, don't!" Dean doesn't know if anyone is even still listening to him, feeling nothing more than a clown spinning in the middle of a ball room.
+
+"Guys." Bobby's voice cuts in.
+
+Sam and Cas are still fighting. Dean wants to hit his head on the wall if it can pull the two of them apart.
+
+"Guys!" Bobby calls again with higher volume. "We got a visitor."
+
+Dean looks up, recognizing the angel in V-collar shirt and casual suit. Only one man in the whole world dresses like that. One angel, to be accurate.
+
+<br>
+
+#### draft notes
+
+> Dean finds out Sam has issue, ask Cas to check, realize Sam's soulless (Cas doesn't know that until now)
+>
+> Cas drooping leviathan ooze occasionally but mostly can hold them back.
+
+Cas is like a trunk load of nuclear weapon, can't let the enemy have the red button now
+
+### Chap. 7 Grey
+
+> 3 Act: Act 3, twist, climax, wrap up
+>
+> (add setting: the more Cas use god power, the more leviathan-corrupted he is, so they can't keep asking him doing things; Dean keep worry about Cas's condition, Cas still morally grey but only light grey)
+
+#### Act 1 Int. Bobby's house - Day (Dean, Cas, Sam, Bobby, Balthazar)
+
+> They need to fight off Raphael & go to Cage to face Michael/Lucifer to save Sam's soul, so combine the two tasks together. Cas wants to go do all these alone, Dean doesn't let him
+>
+> argument, even fight a little (Cas still a bit grey, beat Dean to protect him, then heal him), eventually agree do everything together, live or die
+
+"Balthazar." Castiel walks toward him slowly.
+
+Dean and Bobby trade a look. Never gonna be a good news when angels make house calls.
 
 <br>
 
 #### draft notes
 
 joke about morally grey: dark grey/light grey
-
-### Chap. 6 Bloody
-
-> 3 Act: Act 2, plot point 2
->
-> Cas blows up a hole in purgatory to push Dean out (heal him too, transform back to human again), tries to stay behind to keep everything in purgatory not escape by using his body as patch to the hole (and guilty for making the mistake to fail Dean, self-punish)(keep the bad things in the cage)
->
-> Dean insists him out too or else he'll jump back in & they'll help fix Cas's leviathan problem, Cas complies finally, drooping leviathan ooze occasionally but mostly can hold them back. they both back on earth, Dean finds out Sam has issue, ask Cas to check, realize Sam's soulless (Cas doesn't know that until now)
-
-#### Act 1
-
-#### draft notes
-
-After Dean's back, knowing what did (Sam killed Cas and "unholy man", Cas killed a lot): What?!! Am I the only moral compass in the room now?
-
-Cas/Sam: guess that's why we need you
-
-### Chap. 7 Ashy
-
-> 3 Act: Act 3, twist, climax, wrap up
->
-> (add setting: the more Cas use god power, the more leviathan-corrupted he is, so they can't keep asking him doing things; Dean keep worry about Cas's condition, Cas still morally grey but only light grey)
-
-#### Act 1
-
-> They need to fight off Raphael & go to Cage to face Michael/Lucifer to save Sam's soul, so combine the two tasks together. Cas wants to go do all these alone, Dean doesn't let him
->
-> argument, even fight a little (Cas still a bit grey, beat Dean to protect him, then heal him), eventually agree do everything together, live or die
 
 ### Chap. 8 Sanguine
 
