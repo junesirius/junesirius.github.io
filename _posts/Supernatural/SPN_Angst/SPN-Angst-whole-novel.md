@@ -1923,10 +1923,76 @@ joke about morally grey: dark grey/light grey
 
 > Cas&Dean go to Raphael and fight with his god+leviathan part, Raphael is no match, Cas drag him to Cage to force him to watch
 
+This isn't Dean's first time visiting Heaven, but this is definitely the first time visiting Heaven at war time.
 
+He's not sure what he's expecting, but certainly not troops lining face to face on an open field, all armored with helmets and swords, the ancient Greek style.
+
+"Thought you guys should be more fancy and modern now." Dean murmurs under his breath to Cas, as they approach the center of the field.
+
+"This is the biggest field we get," Cas answers quietly, "we're in Achilles's chamber, so we adapt. Not many warriors want to spend the eternity on the battlefields, so not many open land like this."
+
+"Fair," Dean can relate.
+
+The field is wild, one side to the sea, the other against a high city wall. They have no interest in going to Troy today though.
+
+Dean notices the troops that gather near the city wall are tens of hundreds times smaller than the other side.
+
+"That's yours?" Dean nods at that side.
+
+Cas nods back. "I did my best, and that's all the angels believing in free will and humans. I'm disappointed at my siblings." He explains.
+
+"Don't be too hard on them," Dean studies them from afar, can't quite make out their figures as all look exactly the same, "I'd say that's already a good amount turning around from being total douchbags in a day."
+
+"I expected more from my brothers and sisters," Cas states, then, "but it doesn't matter today. Today it's only with Raphael."
+
+"One-on-one dueling style?" Dean eyes him from the side.
+
+"I believe so," Cas checks around.
+
+"Does that make me your stable boy or squire or something?" Dean suddenly frowns lightly. "You have one of those fancy fighting dresses I can assist you wear?"
+
+Castiel is almost fluttered, turning to face Dean directly, "No, Dean, you're not my servant. I will never ask you to do such thing."
+
+"Easy, Prince, just a joke." Dean chuckles.
+
+<br>
+
+They arrive at the center of the field with maybe a hundred thousand eyes on them. Dean recognizes Balthazar standing in the front of Cas's army. The other side, Raphael shows up in a female vessel.
+
+The two of them step into the very center line between the two troops. Raphael meets them there with a stoic look. Two of their angels stand guarded ten steps behind her. Dean doesn't really know if anything happened to Raphael, what's the use of them -- surely something can't handled by an archangel is above average paygrade angels.
+
+"Are you here to surrender, Castiel?" Raphael speaks haughtily.
+
+"No, Raphael, I'm here to hear yours." Castiel answers with equal pride.
+
+"What makes you think you can survive another crush from my wrath?" Raphael raises a hand, thunderbolts showing between her fingers.
+
+So much for negotiating.
+
+"Everything." Castiel answers, as his eyes brightening up.
+
+The clouds roll and toss over the fake-sky, the sunshine and bright day turns into a dark gloomy afternoon before a fierce storm coming in. Flashes fly across the sky, thunders drum on the sky and ground.
+
+Dean has a feeling the trembling ground is not just in this Achilles's Heaven chamber, but vibrates through every inch in Heaven.
+
+"You found the most unholy place and contaminated yourself with it." Raphael condemns, her voice thin against the wind and thunder. She has a long golden angel blade held out in her right hand. The blade has spiral edges like a demon goat.
+
+Castiel is unmoved by the menace of the blade. He holds out a hand and grabs Raphael on the throat, holding her off the ground in the air as easy as holding a book. The war is finished before it even begins.
+
+"I could kill you with a snap," Cas says with his low grave voice, black goo drops from his fingertips onto Raphael's throat, sinking under the suit coat his vessel is wearing.
+
+Raphael still has that burning fury in her eyes, but the archangel does not have any chance overturning the table, so she is wise enough to not even bother trying.
+
+"What do you want to do then?" Raphael challenges.
+
+Dean glances at Cas, who apparently has the answer ready long before coming to the place.
+
+"You might enjoy a reunion with your brothers." Cas verdicts, "Come with us to Hell."
 
 #### Act 2
 
+> Cas drag him to Cage to force him to watch
+>
 > Cas go into Cage in god+leviathan form, fight off Lucifer+Michael (all 4 archangels together can win God-level power, but still can't win Leviathan, "rock beats scissor, leviathan beats angel"). Cas force grab Sam and Adam's soul back, fix them (heal/wipe broken memories, give Adam a new body), lock Michael/Lucifer back into Cage for Earth's sake (Adam's soul+body asleep, Sam's soul in a briefcase)
 >
 > Cas threaten ask Raphael if he will obey him now, Raphael fake comply, curse him fake God actual monster and most deserve the Cage, willing for mutual destruction and push Cas together fall into Cage
