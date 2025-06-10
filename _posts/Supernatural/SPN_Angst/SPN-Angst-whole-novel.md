@@ -1665,7 +1665,7 @@ Dean stares at him unbelievably, "Oh that's how you say 'welcome back'? 'Maybe u
 
 Dean turns around to look for Bobby.
 
-Bobby meets his eyes, giving him a nod and a tight smile, "Welcome back, Dean." Throwing a glance in Cas's direction, he adds, "Looks like your angel found you, as he promised."
+Bobby meets his eyes, giving him a nod and a tight smile, "Welcome back, Dean." Throwing a glance in Cas's direction, he adds, "Looks like your angel found you, like he promised."
 
 Dean nods, glancing back at Cas.
 
@@ -1747,7 +1747,7 @@ Cas turns to look at Dean for help.
 
 Cas hums quietly, holding his diagnostic hand six inches away from Sam. Sam just stares at him.
 
-"His soul is missing." Cas concludes bluntly.
+"His soul is missing." Cas concludes bluntly after a few minutes.
 
 Dean looks back and forth between them. "His soul?! How's that even possible? Where is it then?"
 
@@ -1767,7 +1767,7 @@ Sam scoffs. "'Not easy.' Sure. You got Dean back pretty decently, with everythin
 
 "I said I'm sorry, I truly am." Cas says, "And I intend to fix it."
 
-"Sorry doesn't do shit." Sam mocks, "You have plan to go downstairs again?"
+"Sorry doesn't do shit." Sam mocks, "You have plan to go downstairs to Hell any time soon?"
 
 "Sam! We just came back!" Dean feels like he's trapped in the middle of a crossfire. Middle-east is probably an even easier place to go at this time of the year. "We'll make a plan, and then we go and fetch it, right, Cas?"
 
@@ -1777,21 +1777,13 @@ Sam scoffs. "'Not easy.' Sure. You got Dean back pretty decently, with everythin
 
 "Guys." Bobby's voice cuts in.
 
-Sam and Cas are still fighting. Dean wants to hit his head on the wall if it can pull the two of them apart.
+Sam and Cas are still heated in quarrelling. Dean wants to hit his head on the wall if it can pull the two of them apart.
 
 "Guys!" Bobby calls again with higher volume. "We got a visitor."
 
-Dean looks up, recognizing the angel in V-collar shirt and casual suit. Only one man in the whole world dresses like that. One angel, to be accurate.
+Dean looks up, recognizing the guy in V-collar shirt and casual suit. Only one man in the whole world dresses like that -- one angel, to be accurate.
 
 <br>
-
-#### draft notes
-
-> Dean finds out Sam has issue, ask Cas to check, realize Sam's soulless (Cas doesn't know that until now)
->
-> Cas drooping leviathan ooze occasionally but mostly can hold them back.
-
-Cas is like a trunk load of nuclear weapon, can't let the enemy have the red button now
 
 ### Chap. 7 Grey
 
@@ -1807,36 +1799,150 @@ Cas is like a trunk load of nuclear weapon, can't let the enemy have the red but
 
 "Balthazar." Castiel walks toward him slowly.
 
-Dean and Bobby trade a look. Never gonna be a good news when angels make house calls.
+Dean and Bobby trade a look. Never a good news when angels make house calls. They learned it the hard way.
+
+"A bit busy here," Dean says, not in his friendliest manner, "What you want?"
+
+"Knew I could find you here, Cas." Balthazar straightforwardly ignores Dean, speaking directly to Cas. "Haven't seen you for a while."
+
+Cas squints slightly. "We have met recently."
+
+"Yes, yes, but not after you get a full system upgrade." Balthazar stops moving when he's in front of Castiel at least two steps away. "You forgot to share your summer plan with the rest of the class, Cas. We are worried."
+
+Dean eyes them skeptically. "Didn't see you helping if you're really that worried." He chimes in.
+
+Balthazar gestures at him casually, still talking with Cas, "I see you're still hanging out with the hairless apes. To be honest, I'm surprised your new charged battery haven't burned their eyes out yet."
+
+That gets Dean's attention. "What are you talking about?"
+
+Balthazar finally meets him in the eyes, "Oh, am I the only one in the room noticing our Cas here is buzzing with energy? Upstairs already got a power meter overload, red alerts everywhere. The last time it happened, let me see, ah, never. Not once since God left the building. You are about all God-level power now, Cas. Let me guess, you already found the Purgatory and took everything? That's practically blowing the battle horn. Want to take a bet how soon Uncle Raphael will find out and come pay a visit?"
+
+"God power, you say?" Dean tenses, turning to Cas, "How many souls did you take exactly, Cas?"
+
+Sam cuts in with triumph, "That's what I've been trying to say but you wouldn't listen, Dean." He picks up his pistol again, gesturing toward Cas, "The angel-killing bullet didn't do anything on him because he's not an angel anymore!"
+
+"You could have killed him!" Too much information dropped, Dean feels his head throbbing with fury and headache. He doesn't even want to know where Sam gets angel-killing bullets from.
+
+He wants to find a paper and writes down all the things that need saving, and then crumples the paper and throws it out of the window.
+
+Cas is already making decisions for his moves, "I'll take the fight to Raphael before he comes here," he says to Balthazar, but his eyes flash Dean a quick glance, "then I need to go to the Cage to meet Michael and Lucifer again for Sam's soul."
+
+"Aren't you the busiest guy today, meeting three archangels in a day, is that a family dinner thing for your first day as God?" Balthazar jokes.
+
+Cas doesn't answer.
+
+The two of them starts heading outside.
+
+"Cas, no, don't, bad plan." Dean doesn't know what else to do except for stopping Cas on his way out. But they probably don't even need a door to get out. "Please, let's think about it. What about your little... leviathan problem?"
+
+"What about it?" Cas looks down at his hands, the black goo is not dripping as much as it did when they first came back, but sure enough, he's still not fully well and himself.
+
+"What are you gonna do if Dick takes over again when you're fighting Raphael or Lucifer?" Dean asks.
+
+"Then I die." Cas answers easily, "Or I don't die, and the leviathans kill the archangels, because they're stronger."
+
+"Which always leaves the biggest shark in the tank, exactly." Dean suggests, "Why don't we take it strategically, then? Throw all of them in the same tank, let them fight."
+
+"What happens to the winner?" Cas tilts his head.
+
+"Nothing. Whoever wins wins, but they are still in the tank -- in our case, the tank is the Cage." Dean says cheerfully, "If the Cage really is as good as everyone says it is, then we can just leave them there forever, all problems solved. No one dies and we come home happily ever after."
+
+Cas thinks about it, "It might actually work."
+
+A dark black vein crawls across Cas's cheek as he speaks, it moves over his eye briefly. Cas blinks a handful of times. Then with a over compensated smile, he says, "Thank you, Dean. That's a really good advice. I'll definitely take it."
+
+Castiel's body turns to the door ready to head out again.
+
+"Hey, Dick," Dean calls behind him again, "You do know it includes you too, right? In fact, I will personally make sure you're torn to pieces by the other big players because you're the worst."
+
+"And how are you planning to do that?" Castiel's eyes glance at him with cold black color.
+
+"Start with helping Cas get back the control." Dean takes a breath, holding his hands in fists. "You know what's the biggest advantage that Cas has but you don't?"
+
+"Angel's big blue puppy eyes?" Dick smirks.
+
+Dean looks at him straight, "Me."
+
+"Then I'd just kill you first." Dick grabs Dean at the collar and throws him out to the junkyard.
+
+His back hits a tree trunk with a thud, Dean climbs to his feet quickly with a smile, "I was hoping you'd say that."
+
+Dick in Castiel's body walks toward him in a beeline, but stumbles slightly on the steps. "I don't see how getting yourself killed can help your little angel friend in here."
+
+Dick grabs Dean's collar in one hand, and starts using the other fist to punch his face.
+
+Dean's pretty sure his nose is broken at the third or fourth punch. His face feels sticky, but he doesn't even bother blocking the attack.
+
+"Because you missed the private session." Dean keeps the smile on his likely already messed-up face.
+
+*Come on, Cas, take back control.*
+
+"I see everything the angel sees," Dick beats him on the head with Castiel's hand, "I hear everything he hears. We are one." The fist is as heavy as iron, Dean sees stars in front of his eyes. He prays harder.
+
+*Cas, come on, need more motivation than that? I'm keeping him busy here, but not sure how much longer.*
+
+The next fist that's aiming for his eye socket avert the direction, ends up landing softly near his ear.
+
+Dean can barely keep his eyes open around the swollen flesh.
+
+*Cas, come back to me. I need you here. I know you're stronger than these bastards.*
+
+The grip on his collar loosens. Dean looks up, running right into the unmistaken blue eyes of Cas's.
+
+The next hand reaching toward him touches his forehead with two fingers. Dean can practically hear all the bones and flesh in his body and on his face shift back to where they should.
+
+"Welcome back," Dean tells Cas.
+
+"How long have you known it's not me?" Cas pulls him up from the kneeling position.
+
+"Since you are too eager to jump the tank with the big guns alone without even asking, because we had an agreement, didn't we?" Dean leads them both back into the house.
+
+"And how do you know this could work?" Cas looks at him with a disapproved look, "I could have killed you."
+
+"One, this isn't you." Dean counts with his fingers, pointing the "one" at Cas to get more of his attention, "And two, I know now you'd do anything to stop any harm in my way, so I figure that should be enough motivation to get back behind the wheel."
+
+Cas ducks his head. "Dean, now that I'm myself again, may I propose that we go to Heaven then Hell together?"
+
+Dean answers with a smile, "Don't use the word 'propose' in a sentence like that again. And yes, let's kick some fat asses."
 
 <br>
 
 #### draft notes
 
+Cas is like a trunk load of nuclear weapon, can't let the enemy have the red button now
+
 joke about morally grey: dark grey/light grey
 
 ### Chap. 8 Sanguine
 
-#### Act 1
-
 > 3 Act: Act 3, twist
 >
-> (Action sequence)
->
+> (Action sequences)
+
+#### Act 1
+
 > Cas&Dean go to Raphael and fight with his god+leviathan part, Raphael is no match, Cas drag him to Cage to force him to watch
->
-> (passing line about Crowley knows better than stop them in this form so not show up)
->
-> (bring soulless Sam together to Hell too? to assemble the soul-body? or carry the soul in a briefcase to bring to Sam)
->
+
+
+
+#### Act 2
+
 > Cas go into Cage in god+leviathan form, fight off Lucifer+Michael (all 4 archangels together can win God-level power, but still can't win Leviathan, "rock beats scissor, leviathan beats angel"). Cas force grab Sam and Adam's soul back, fix them (heal/wipe broken memories, give Adam a new body), lock Michael/Lucifer back into Cage for Earth's sake (Adam's soul+body asleep, Sam's soul in a briefcase)
 >
 > Cas threaten ask Raphael if he will obey him now, Raphael fake comply, curse him fake God actual monster and most deserve the Cage, willing for mutual destruction and push Cas together fall into Cage
 
+#### draft notes
+
+(passing line about Crowley knows better than stop them in this form so not show up)
+
+(bring soulless Sam together to Hell too? to assemble the soul-body? or carry the soul in a briefcase to bring to Sam)
+
 ### Chap. 9 Light
 
 > 3 Act: Act 3, climax, wrap up
->
+
+#### Act 1
+
 > Cas in god+leviathan form get beaten up by 3 archangels together, Dean freak out outside, Cas willing to self-sacrifice, self-explode, all red and black and blood and goo
 >
 > (a little bit horror jump scare scene:) after explode, Dean mourn outside, already in widower state; a sudden bloody hand on the wall and pull himself up, Cas barely alive but does survive and climb out of Cage on his own, 3 archangels even worse state, back to primal form
@@ -1847,6 +1953,6 @@ joke about morally grey: dark grey/light grey
 >
 > on their way out Crowley doesn't give them trouble, they go home, HE
 
-#### Act 1
+#### draft notes
 
 ###### [End]
