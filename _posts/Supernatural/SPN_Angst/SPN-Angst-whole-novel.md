@@ -1919,7 +1919,7 @@ joke about morally grey: dark grey/light grey
 >
 > (Action sequences)
 
-#### Act 1
+#### Act 1 Ext. Heaven - Day (Cas, Dean, Raphael)
 
 > Cas&Dean go to Raphael and fight with his god+leviathan part, Raphael is no match, Cas drag him to Cage to force him to watch
 
@@ -1987,21 +1987,155 @@ Raphael still has that burning fury in her eyes, but the archangel does not have
 
 Dean glances at Cas, who apparently has the answer ready long before coming to the place.
 
-"You might enjoy a reunion with your brothers." Cas verdicts, "Come with us to Hell."
+"You might enjoy a reunion with your brothers." Cas renders the verdict, "Come with us to Hell."
 
-#### Act 2
+<br>
 
-> Cas drag him to Cage to force him to watch
+#### Act 2 Int. Hell, Cage (Cas, Dean, Raphael, Michael, Lucifer)
+
+> Cas drag Raphael to Cage to force him to watch
 >
 > Cas go into Cage in god+leviathan form, fight off Lucifer+Michael (all 4 archangels together can win God-level power, but still can't win Leviathan, "rock beats scissor, leviathan beats angel"). Cas force grab Sam and Adam's soul back, fix them (heal/wipe broken memories, give Adam a new body), lock Michael/Lucifer back into Cage for Earth's sake (Adam's soul+body asleep, Sam's soul in a briefcase)
 >
 > Cas threaten ask Raphael if he will obey him now, Raphael fake comply, curse him fake God actual monster and most deserve the Cage, willing for mutual destruction and push Cas together fall into Cage
 
+The Hell ride is much smoother than Dean expects. Not a single demon on sight, not even Crowley. The stairs downward are an empty endless spiral stairs. It's only one step away from having a red carpet home-coming party, another step in the other direction to be just a deserted construction building.
+
+They fly down to the lowest level.
+
+The Cage hangs in the absolutely dark space with all but nothingness. Not even a single lighting source.
+
+Dean lights a torch.
+
+The Cage is chained with eight longest thickest iron chains locked on the eight corners of its cubical shape. Countless smaller strings extend from the Cage's edges and sides. The box swings slightly in the mid-air, even if there is no flow of air or any wind outside.
+
+Dean has to admit, this place looks a thousand times worse than the Pit. And he isn't even inside it yet.
+
+"Sam's in there?" Dean whispers.
+
+Cas nods quickly, fingers nimbly dancing on the thinnest strings in the space that Dean doesn't even notice exist. Cas touches and tunes them one by one like unlocking the most complicated lock in the history. Dean's eyes follow his fingers' movement closely.
+
+It indeed looks quite impossible to go in or out of the Cage, by the look of its security system. Dean feels so much more confident in locking away some bad guys in there.
+
+The last string loosens with a tiny clanking sound. The top cover of the Cage opens up automatically.
+
+"Watch," Cas orders Raphael. With a snap of his fingers, the side of the Cage turns transparent.
+
+Two archangels and two human figures crowd in there like caged animals at zoos.
+
+Cas turns to Dean, "I would have asked you to wait here too, Dean."
+
+Dean glances at the glass cage. "But Sam's there."
+
+"That's why I said 'would have', you wouldn't agree anyway." Cas nods with understanding.
+
+Cas flies the two of them into the Cage.
+
+<br>
+
+Sam's soul crawls into a tiny small ball on itself at the furthest corner to Lucifer. Adam and Michael take another corner. Lucifer has more than half the space to himself, and he is singing the worse off-key pop tune at the top of his volume. Sam's soul trembles whenever Lucifer looks his way.
+
+"Dean Winchester and Castiel," Lucifer stops pacing around the Cage, turning to them. "Aren't I lucky to have two visitors today. Sammy, Mikey, wakey wakey, we got visitors."
+
+Of all the angels and demons, Lucifer has still managed to be the worst in every sense.
+
+Dean wonders why Michael and Lucifer still haven't choked each other to death after one year in there.
+
+"Because we're the besties, aren't we, Mikey?" Lucifer reads his mind -- or maybe just randomly guessed right his thoughts.
+
+Michael pays him no attention.
+
+Dean rushes toward Sam's soul.
+
+The poor thing is tortured to shivering at even the smallest move or sound in the air. Its light dimmed and flickering as he approaches. Dean holds out a hand toward the center of this cloud of light, the soul screams in pain and terror. Dean stares at this thing that's supposed to host Sam's memory and past, the part that makes Sam Sam, but looking at it now, he fears he's not making the right decision.
+
+Castiel is a bit too busy to help with Dean's dilemma, he is reaching to take Adam when Michael starts moving, the first sign that shows he's still alive. Michael attacks without any foretold, like a cat suddenly throws themselves to a nest of birds. His angel appears in his palm in no time and stabs at Cas, Adam falls back into Michael's arms.
+
+Cas shifts to the side to dodge the blade. Michael may be fast, but God power is faster.
+
+On the other side, Lucifer coordinates the attack as if the two of them have practiced enough times against a common enemy. Right when Castiel jumps out of Michael's reach, Lucifer's blade stabs through the lower of Castiel's back.
+
+He mumbles a stifled pained sound, make Dean looking up sharply and scrambling to his feet, hurrying to his side to help.
+
+"Don't worry, I'm not hurt," Cas tells him calmly. Moving his hand away, the stab wound stops bleeding and the flesh grows back.
+
+"We should get going." Dean tugs him.
+
+"Michael doesn't let Adam go." Cas frowns.
+
+"You can't obi-wan him to?" Dean suggests.
+
+Cas raises an eye brow.
+
+Dean explains, "Use your God mojo and make him."
+
+"Not so much on archangels." Cas admits.
+
+"You know what else archangels can do?" Lucifer chirps, "Not even God's power is all invincible. We locked God's sister away once, just the four of us. We are two short, but Castiel, don't forget you are not Father, you are only playing Father. When I get out, and when you don't have the energy, I'll crunch you in my teeth."
+
+Before Castiel can say anything, Dean already jumps before him, landing a punch on Lucifer's face.
+
+Lucifer gets slammed to the wall by his side, and Dean breaks his wrist.
+
+Cas cures him with the lightest touch.
+
+"Can you cure Sam too?" Dean remembers, "Removing those Hell memories"
+
+Cas puts a gentle palm on the cloud of light, the pink screaming surface starts calming down. Dean watches the pink bubbles slowly ease down on the surface.
+
+He manages to steal Adam too, in the end, when a little help from Dean and a small diversion strategy.
+
+Michael growls at them angrily as Cas leaps out of the Cage with Dean -- along with Sam's soul and Adam's soul and broken body.
+
+He uses his God power to heal the both of them the best he can. Fixing Adam's broken body almost takes as much as handling his soul, but Cas finishes the work in the end.
+
+Raphael watches him do the work.
+
+"Why do you care about them so much?" Raphael asks abruptly.
+
+Cas can feel Dean's eyes on his back. He considers his answer for a good trunk of time before answering, "Because someone taught me to, someone changed me to, so now I care for them, now I care for all of them."
+
+He doesn't need to look back to know the small grin Dean has now.
+
+Raphael considers his answer, but to be honest, neither Dean or Castiel thinks he has understood anything. And they don't exactly find it surprising.
+
+"What now?" Raphael wonders aloud.
+
+"Obey me and give up Apocalypse, or you locked in that Cage like Michael and Lucifer. Choose wisely." Cas demands.
+
+It's the same tone Cas used that night about two years ago when Cas told the archangel "Today you're our bitch."
+
+They should have some more victory like that one and this. Dean yawns, mind already wondering away thinking he needs at least twenty four hours straight for sleeping.
+
+Raphael made his decision, the one everyone is happy about, the one without more biblical wars.
+
+"I'm glad." Castiel tells him, Raphael scoffs.
+
+"But for your past attempt of splitting the angels, of starting a war, there will be punishments," Castiel announces. "The punishment, is the rest of your life in the Cage."
+
+*What the hell? What's with the free choice then?* Dean gapes at surprise turn, staring at Cas.
+
+The angel doesn't look back, only standing by the Cage's door once again. Dark lines curling over him. Dean's heart drops.
+
+Raphael follows him slowly, head and eyes low to the floor.
+
+"You know, there is a better place for creature like you -- Purgatory, because you are more monster than God." Raphael spits, "I see who you really are. If anyone deserves to go to the Cage, it's you. I'm doing this for the world."
+
+Before Dean can react, before he even blinks, Raphael hauls Castiel on the collar, and throws both of them over the edge into the Cage.
+
+Dean yells a desperate "NO!!" and watches Castiel's body falling into the Cage.
+
+The lid of the Cage closes automatically.
+
+<br>
+
 #### draft notes
 
-(passing line about Crowley knows better than stop them in this form so not show up)
+Cas drag Raphael to Cage to force him to watch
 
-(bring soulless Sam together to Hell too? to assemble the soul-body? or carry the soul in a briefcase to bring to Sam)
+ "rock beats scissor, leviathan beats angel"
+
+(carry Sam's soul in a briefcase to bring to Sam)
 
 ### Chap. 9 Light
 
