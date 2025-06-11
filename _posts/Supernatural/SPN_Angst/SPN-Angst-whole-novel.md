@@ -83,7 +83,7 @@ But just that blink of distraction leaves enough of a fatal opening, the Leviath
 >
 > Cas goes desperate, blames himself, pushes Crowley/Alphas even further to find purgatory
 
-(**Warning words before chapter:** This chapter includes strong graphic depictions of violence that may cause sudden shock and discomfort. It also includes temporary main character death.)
+**Warning words before chapter:** This chapter includes strong graphic depictions of violence that may cause sudden shock and discomfort. It also includes temporary main character death.
 
 <br>
 
@@ -93,7 +93,7 @@ Sam and his grandfather hurry out of their van, rushing into the place, machete 
 
 There are bodies without heads all the way from the stairs leading to the main hall. A long red carpet made of blood welcomes them.
 
-Sam glances at the separated heads rolling around on the floor, seeing fangs dripping  with blood. None of them move an inch anymore.
+Sam glances at the separated heads rolling around on the floor, seeing fangs dripping with blood. None of them move an inch anymore.
 
 Samuel sees the same, catching his grandson's eyes, nodding at the only entrance leading to the larger opening. Both of them walk fast and quietly, in trained hunter steps.
 
@@ -163,7 +163,7 @@ He kicks again, as if it could make him feel better. "So what? This is some mons
 
 No one answers his question, except for some more creatures lurking closer because of the noise.
 
-Seems like it's more than just vampires then, Dean concludes, thinking he sees something that definitely looks like a werewolf and another like wendigo. Every freaking monster he and his brother and every hunter has ever killed would be here then. And if they remember him in the whatever afterlife memory they still carry, they sure as hell would be thrilled to see him hanging around with them.
+Seems like it's more than just vampires then, Dean concludes, thinking he sees something that definitely looks like a werewolf and another like a wendigo. Every freaking monster he and his brother and every hunter has ever killed would be here then. And if they remember him in the whatever afterlife memory they still carry, they sure as hell would be thrilled to see him hanging around with them.
 
 That's when he picks a direction, and starts running into the creepy woods. The growls and howling of every kind of monster that ever existed rise around him like the most dedicated freaky monster symphony.
 
@@ -241,7 +241,7 @@ Crowley is not happy to see him. Not at all, to say the least.
 
 Castiel takes two steps forward, right in front of Crowley, almost nose to nose growling into his face. "You don't understand. Soon is not enough, I need it NOW!"
 
-Crowley eyes him curiously. "What's the rush? Already the check-mate time upstairs?"
+Crowley eyes him curiously. "What's the rush? Already the checkmate time upstairs?"
 
 Castiel looks away.
 
@@ -277,7 +277,7 @@ Dean is so tired. His body does not wear out, but his mind is way too overloaded
 
 He doesn't know the days and nights. There is no sun or moon, there is no time. There is just hunting and hunted, chasing and chased, killing and killed.
 
-His mind is blurred with the repetition of the same sets of movements -- being attacked from all directions, individually or in group, at once or in turns, monsters of all kinds, then his body goes into autopilot mode. He doesn't need to think much about any movement, and given time, the monsters would all become a pile of flesh and blood by his feet. Sometimes even he is surprised himself that he's the last one left standing. He staggers away from the slaughterhouse, moving to the next.
+His mind is blurred with the repetition of the same sets of movements -- being attacked from all directions, individually or in groups, at once or in turns, monsters of all kinds, then his body goes into autopilot mode. He doesn't need to think much about any movement, and given time, the monsters would all become a pile of flesh and blood by his feet. Sometimes even he is surprised himself that he's the last one left standing. He staggers away from the slaughterhouse, moving to the next.
 
 Call it survival instinct or whatever, he's fighting his ass out of here.
 
@@ -301,11 +301,11 @@ He spots a stream at the edge of the woods, and starts following it, moving down
 
 As it turns out, if an angel really puts their mind into hunting, they can be a damn good hunter -- the best hunter in the world that a hunter could ever be, actually.
 
-The vicious things give off a dark vibe, not as evil as demons, but also stink so much that they differ from humans. Castiel can sense them, pick them out from the crowd like peas from rice. He drags random werewolves, shapeshifters, vampires, or djinns out of their nests. Sometimes he drops them at Crowley's lab, other times, he fries their brains himself when reading their minds.
+The vicious things give off a dark vibe, not as evil as demons, but also stink so much that they differ from humans. Castiel can sense them, pick them out from the crowd like peas from rice. He drags random werewolves, shapeshifters, vampires, or djinns out of their nests. Sometimes he drops them at Crowley's lab; other times, he fries their brains himself when reading their minds.
 
 He doesn't have the luxury of taking things slowly now, Castiel tells himself. Every minute wasted on Earth, every minute spent talking to a monster when he can just reach inside and read, he thinks of Dean in Purgatory, being hunted and chased by millions of monsters. He thinks of Dean trapped there, alone, as a vampire, and dying.
 
-Castiel's eyes glow with blue-white light, the two vampires in front of him vaporized in an instant. They don't know anything about Purgatory or their Alpha anyway, or if they do, they refuse to give him up. Castiel decides they aren't worth his patience.
+Castiel's eyes glow with blue-white light, the two vampires in front of him vaporize in an instant. They don't know anything about Purgatory or their Alpha anyway, or if they do, they refuse to give him up. Castiel decides they aren't worth his patience.
 
 "I think that's far enough, Angel." A low male voice sounds behind him.
 
@@ -417,9 +417,9 @@ The end of the stream leads to an opening. The woods are sparse. The water looks
 
 Dean drops to his knees to scoop up some of the clear liquid to drink. The coolness washes down the dirt in his gullet, making him breathe easier. He washes his face and hands too, but doesn't bother cleaning all the other blood stains on his clothes or skin.
 
-In the reflection, Dean sees a face he can barely recognize, with stubble covering his jaw, dark bags around his eyes, bruises and cuts here and there. And the fangs, the ugly uneven fangs that jut out, visible whenever he opens his mouth, refusing to contract however hard he demands his body to. Dean slaps the water surface to break the image, to not have to look at that face again -- the face of a monster he and his family has devoted to killing.
+In the reflection, Dean sees a face he can barely recognize, with stubble covering his jaw, dark bags around his eyes, bruises and cuts here and there. And the fangs, the ugly uneven fangs that jut out, visible whenever he opens his mouth, refusing to contract however hard he demands his body to. Dean slaps the water surface to break the image, to not have to look at that face again -- the face of a monster he and his family have devoted to killing.
 
-He leaves the water's edge, heading toward the middle of the opening where -- according to some of the old creatures he killed earlier -- there would sometimes be a disturbance in the air flow. No one here knows where the stir comes from, but if Dean has to guess, this is where the veil is the weakest.
+He leaves the water's edge, heading toward the middle of the opening where, according to some of the old creatures he killed earlier, there would sometimes be a disturbance in the air flow. No one here knows where the stir comes from, but if Dean has to guess, this is where the veil is the weakest.
 
 If a long shot is all he can get, then Dean would take it. He walks toward the said location, waving his blade at the nothingness in the empty air, observing, thinking, waiting. The air is unmoved, but his gut is giving him a drag, the hair on the back of his head rising -- some weird vamp hyper-sense or whatever it is, Dean's expecting something or someone approaching.
 
@@ -441,13 +441,13 @@ Black smoke drops to the ground around him like debris from an asteroid crashing
 
 "What?--" That is the only syllable Castiel manages to make before the attacking begins.
 
-They are fast, and strong. So strong even as an angel he can't match their strength. Castiel is thrown into the air by this one and that, sharp black teeth sinking into his flesh. He does not know if it's his vessel or his grace that is being devoured. He screams in pain and feels strength draining rapidly.
+They are fast, and strong. So strong even as an angel he can't match their strength. Castiel is thrown into the air by this one and that, sharp black teeth sinking into his flesh. He does not know if it's his vessel or his grace that is being devoured. He screams in pain and feels his strength draining rapidly.
 
 "We are Leviathans." One of them enjoys too much in its feast on him, it actually bothers to answer his question.
 
-Castiel gasps in disbelief. The pre-Biblical monsters that could devour every living thing that ever exists from the Creation, devour a whole planet and maybe even the entire worlds if they have the chance -- God had to create a whole Purgatory to lock them away. He has heard of them like a rumor story Balthazar would talk about when he was in a good story-telling mood, but Castiel never thought they were more than a story. And now, he's in the center of their dinner table.
+Castiel gasps in disbelief. The pre-Biblical monsters that could devour every living thing that ever existed from the Creation, devour a whole planet and maybe even the entire worlds if they have the chance -- God had to create a whole Purgatory to lock them away. He has heard of them like a rumor story Balthazar would talk about when he was in a good storytelling mood, but Castiel never thought they were more than a story. And now, he's in the center of their dinner table.
 
-For a split second, Castiel thinks this might be his way of dying -- his true and final death. Becoming shared food of the Leviathans, without having a chance of finding Dean or saving him from this place. His gut twists. Cas focuses all his attention on the scrap of grace he has left, trying -- thinking -- about exploding himself one last time just to get rid of these filthy creatures that live in the same dimension as Dean. That is when he feels the grips and teeth on his body loosen.
+For a split second, Castiel thinks this might be his way of dying -- his true and final death. Becoming the shared food of the Leviathans, without having a chance of finding Dean or saving him from this place. His gut twists. Cas focuses all his attention on the scrap of grace he has left, trying -- thinking -- about exploding himself one last time just to get rid of these filthy creatures that live in the same dimension as Dean. That is when he feels the grips and teeth on his body loosen.
 
 Flashes of a blade shine in front of him, a teethy head flying up before dropping to the ground, rolling a few steps away, spilling a rain of black drops.
 
