@@ -529,23 +529,23 @@ Dean creeps a smile. "Game time?"
 
 <br>
 
-Castiel tumbles onto the cement ground, his body crashing onto the solidity of the real world. His mind takes a second to register.
+Castiel tumbles onto the cement ground, his body crashing onto the concrete of the real world. His mind takes a second to register.
 
-He looks behind him frantically. But there is just the air, the walls, the static surrounding of a small town's back-alley. The Earth.
+He looks behind him frantically. But there is just air, walls, the still surrounding of a small town's back-alley. Earth.
 
-No tree, no monster, no Dean.
+No dying tree, no monster, no Dean.
 
-"No, no, no, no, no!" Castiel gets to his feet, fists punching the colorfully painted wall, as if it can tear apart the bricks to reveal the opening again. As if Dean is right on the other side of the wall.
+"No, no, no, no, no!" Castiel gets to his feet, fists punching the brightly painted wall, as if it can tear apart the bricks to reveal the opening again. As if Dean is waiting right on the other side of the wall.
 
-"You have to take me back again, Ajay!" He calls out behind him.
+"You have to take me back again, Ajay!" he calls out behind him.
 
-"I don't think Ajay can take you anywhere now." The voice makes his blood cold. Castiel looks back, realizing belatedly the whole place's air is buzzing with archangel's power. The street lamps over head flicker once and blow up.
+"I don't think Ajay can take you anywhere now." The voice makes his blood cold. Castiel looks back, realizing belatedly the whole place's air is buzzing with an archangel's power. The street lamps overhead flicker once and blow up.
 
-"Raphael." Castiel turns around slowly, his back pressed to the wall. Cornered.
+"Raphael." Castiel turns around slowly, his back pressed against the wall. Cornered.
 
-Raphael is in a female vessel this time, the woman body is a few inches shorter than him. But the true form behind that vessel's face is still gigantic and dazzling bright.
+Raphael is in a female vessel this time, the woman's body a few inches shorter than him. But the true form behind that vessel's face is still gigantic and dazzling bright.
 
-Castiel reaches to his inside, testing his grace. The fuel in tank is so low that he can barely feel it, the energy flowing sluggishly like he's trying to fetch out the last drop of water in a bottle. Zero chance this time then.
+Castiel reaches inward, testing his grace. The fuel in the tank is so low that he can barely feel it, the energy flowing sluggishly like he's trying to fetch out the last drop of water in a bottle. Zero chance this time then.
 
 Raphael steps towards him, looking up at his face. The vial with his essence that he gave Ajay not long ago is in her grip, his grace swirling gently inside the glass, soft and bright. The rogue reaper's body is limp by his cab on the ground, eyes burned out. Two other angels stand by the body.
 
@@ -553,23 +553,23 @@ Raphael steps towards him, looking up at his face. The vial with his essence tha
 
 "Thanks to you." Raphael shakes the vial slowly, the grace inside spinning faster like a tiny whirlpool. "This is beyond stupid even for you, Castiel. I'm disappointed, to be honest. I wasn't expecting you to be so... reckless. But in the end, daring to fight against me already tells as much."
 
-His human heart bumps hard and fast inside his chest. Is he human enough now for the spell to work? Cas wonders, feeling the throbbing pain in the tears on his legs and over the whole body, wetness dripping from the wound. He takes the bet. The angel blade sliding into his palm behind his back.
+His vessel's heart pounds hard and fast inside his chest. Is he human enough now for the sigil to work as he wants? Cas wonders, feeling the throbbing pain in the tears on his legs and over the whole body, wetness dripping from the wound. He takes the bet. The angel blade slides into his palm behind his back.
 
-"What are you going to do to me?" He looks at the archangel, questioning, not letting his eyes blink, not showing any fear that the other might be looking for.
+"What are you going to do to me?" he looks at the archangel, questioning, not letting his eyes blink, not showing any fear that the other might be looking for.
 
 "Kill you, of course." Raphael is only two steps away now. "I don't see God or Balthazar or any of your monkey pets helping you this time. I'll kill your beloved Winchesters, too, rest assured."
 
-Cas swallows reflexively, at the bare mention of the word "Winchester". His thought drifts away to the look Dean threw at him right before he pushed him out, letting himself be pulled away by the monsters, facing all the leviathans by himself. Oh God. Cas winces.
+Cas swallows reflexively, at the bare mention of the word "Winchester". His thought drifts away to the look Dean threw at him right before he pushed him out, letting himself be pulled away by the monsters, facing all the Leviathans by himself. Oh God. Cas winces.
 
-Raphael must notice that. The female face shows a slight hint of joy. "Feeling the fear now, finally? A little too late for that." The archangel raises his blade. "Good bye, Castiel."
+Raphael must notice that. The female face shows a slight hint of joy. "Feeling the fear now, finally? A little too late for that." The archangel raises her blade. "Goodbye, Castiel."
 
-Cas ducks aside, showing the angel banishing sigil he was drawing on the wall with his own blood while talking. Pressing his palm on the center of the sigil, it brightens up, blasting Raphael and the two other of his followers away. The blast gives himself a small heated burn on the side of the body that is closest to the wall, but that is all it does.
+Cas ducks aside, showing the angel banishing sigil he was drawing on the wall with his own blood while talking. Pressing his palm to the center of the sigil, it brightens up, blasting Raphael and the other two followers away. The blast gives Cas a small heated burn on the side of his body that is closest to the wall, but that is all it does.
 
-The small alley returns to dark and silence like there were never any angels there. Castiel leans back to the bloody wall, slumping slightly, rubbing at his own eyes, ignoring the dripping blood from the sliced palm.
+The small alley returns to darkness and silence like there were never any angels there. Castiel leans back against the bloody wall, slumping slightly, rubbing his own eyes, ignoring the dripping blood from the sliced palm.
 
-Dean is still in Purgatory, he is exhausted and low in grace, the only being that can smuggle him to the Purgatory is dead. He needs a plan, but he can't think of one.
+Dean is still in Purgatory, he is exhausted and low in grace, the only being that can smuggle him into the Purgatory is dead. He needs a plan, but he can't think of one.
 
-Castiel opens his eyes, looking up at the sky that is darkening slowly as the night falls, desperate. Almost like how human would pray. Dean would know what to do if he's here, he always can think of something. A next step, a joke to cheer up, an idea, something.
+Castiel opens his eyes, looking up at the sky that is darkening slowly as the night falls, desperate. Almost like how a human would pray. Dean would know what to do if he were here, he always could think of something. A next step, a joke to cheer up the team, an idea, something.
 
 What would Dean do?
 
@@ -583,109 +583,109 @@ Cas gets an idea.
 >
 > Cas turns himself to monster (disturbing form, distorted wings etc.), death wish for sacrifice, gets killed by Sam as he wants, goes to purgatory
 
-Cas appears in the middle of Bobby's living room. Bobby jumps, almost shoots him with the gun by his hand. And Sam actually does, far across the room from the couch. The bullet pierces through his shoulder, flying out from the other side, sinking into the wall behind him.
+Cas appears in the middle of Bobby's living room. Bobby jumps, almost shoots him with the gun by his hand. And Sam actually does, from far across the room on the couch. The bullet pierces through his shoulder, flying out the other side, sinking into the wall behind him.
 
-"Sam?!" Cas gasps in pain, staggering two steps back by the impact. Blood streaming down from the new wound.
+"Sam?!" Cas gasps in pain, staggering back two steps from the impact. Blood streams down from the new wound.
 
 Bobby rushes to him.
 
-"Sorry, panicked." Sam says, stuffing the gun back into belt.
+"Sorry, panicked," Sam says, stuffing the gun back into his belt.
 
-"You need to wear a bell next time." Bobby is in front of him now, eyeing the wound that is making his coat a mess.
+"You need to wear a bell next time." Bobby says, now standing in front of him, eyeing the wound that is making his coat a mess.
 
 The comment actually pulls Cas's lip up a tiny little bit. "Dean said that too."
 
-The bullet hole remains a hole under close checkup. Looking back into his eyes, Bobby's frown deepens, "Why ain't it healed already?"
+The bullet hole remains a hole under close inspection. Looking back into the angel's eyes, Bobby's frown deepens, "Why ain't it healed yet?"
 
-Cas presses a palm on the shoulder, vainly trying to stop the burning and pungent sensation but it does nothing, blood seeping through his fingers. More exhausted than before, he starts to think it might be a bad idea to come here. "My grace, I'm drained." He has to admit.
+Cas presses a palm on the shoulder, vainly trying to stop the burning and pungent sensation, but it does nothing, blood seeping through his fingers. More exhausted than before, he starts to think it might have been a bad idea coming here. "My grace, I'm drained," he has to admit.
 
 "You were in a fight?" Sam asks.
 
 "Not just any fight."
 
-Cas tells them about the Purgatory, and Ajay, and Raphael. He manages to leave out the parts with the Alpha and Crowley though, deciding it's unimportant. Bobby helps wrapping his shoulder and some obvious wounds on the legs with some bandage and Cas says thank you.
+Cas tells them about Purgatory, and Ajay, and Raphael. He manages to leave out the parts with the Alpha and Crowley, deciding it's unimportant. Bobby helps wrap his shoulder and some obvious wounds on the legs with bandage and Cas says thank you.
 
 "Wow." Sam blinks at his eventful afternoon.
 
 "I know." Cas looks down, sinking into a chair by Bobby's dining table, resting his wounded arm on the armrest.
 
-"No, I mean, you actually went to Purgatory for Dean?" Sam looks amazed. "Not even I would think of something crazy like that, don't think anyone ever would."
+"No, I mean, you actually went to Purgatory for Dean?" Sam looks amazed. "Not even I would think of something crazy like that, I don't think anyone ever would."
 
 "Well, maybe you should!" Cas stares at him. "He's your brother, and he needs our help."
 
-Sam's face unmoved. Cas squints, "What happened to you? You used to care about Dean a lot more."
+Sam's face is unmoved. Cas squints. "What happened to you? You used to care about Dean a lot more."
 
-Sam shrugs. "Nothing." Then, he returns the stare, "What happened to you, Cas? You used to care about Dean a lot less."
+Sam shrugs. "Nothing." Then, he returns the stare. "What happened to you, Castiel? You used to care about Dean a lot less."
 
-Cas looks away, uneasy, eyes lingering on the window half covered by the flowing curtain. It's all dark outside now. Is the Purgatory darker in the night or would the sky there remain the same lifeless bleach and grey forever? When was the last time Dean saw some sunshine?
+Cas looks away, uneasy, eyes lingering on the window half covered by the flowing curtain. It's all dark outside now. Is Purgatory darker at night or would the sky there remain the same lifeless bleach and grey forever? When was the last time Dean saw sunlight?
 
-"Seems like you two just balanced out then." Bobby comments behind them. Sam huffs a laugh, Cas does not.
+"Seems like you two just balanced out then," Bobby comments behind them. Sam huffs a laugh, Cas does not.
 
-"I just want to fix this." Cas says, quieter. He didn't tell them every single detail about the monsters and Leviathans, and how Dean looked like during that brief moment they met down there. The hunter's eyes flashed with relief and shortly covered by anger again. Cas soaks himself in the image and the look.
+"I just want to fix this," Cas says, voice quieter. He didn't tell them every single detail about the monsters and Leviathans, and how Dean looked during that brief moment they met down there. The hunter's eyes flashed with relief and were shortly covered by anger again. Cas soaks himself in the image and the look.
 
 "What happened to 'The dead should stay dead' and not upsetting the natural order?" Sam raises his brows.
 
-Cas drags his thought back, feeling the bone-deep exhaustion and pained sensation all over him numbing while spreading, sprawling on every inch of his muscle and skin like needles. Does human always feel like this when they are hurt? Does Dean?
+Cas drags his thought back, feeling the bone-deep exhaustion and pained sensation all over him numbing and spreading, sprawling like needles across every inch of muscle and skin. Do humans always feel like this when they are hurt? Does Dean?
 
 "It's... he's just in another place. We can still bring him back." This is what Cas manages to land on. Not exactly an answer, but hopefully it's enough.
 
-"Listen, Angel, I want Dean back as much as you do," Bobby chimes in. "But how? You said yourself, there is no elevator going down there and no more taxi driver to help, any genius idea now?"
+"Listen, Angel, I want Dean back as much as you do," Bobby chimes in. "But how? You said yourself, there ain't no elevator going down there and no more taxi driver to help. Any genius idea now?"
 
 "I was hoping to find some answer here." Cas looks at the old hunter, pointedly.
 
-Bobby blinks. "I ain't get nothing."
+Bobby blinks. "I ain't get nothin'."
 
 Castiel nods at the mountainous books on the floor and on the shelves. "Your books might."
 
 <br>
 
-Cas pauses on a page, reading it over, and rereading it. Fingers rubbing the corner of the yellowed page that belongs to a black grimoire.
+Cas pauses on a page, reading it over, and rereading it. His fingers rub the corner of the yellowed page belonging to a black grimoire.
 
 He stands up and walks towards the cabinet where Bobby keeps most of his spell ingredients and pots and pans. The other two men look up from their books.
 
 "Find anything you want to share with the class?" Bobby's eyes follow his steps.
 
-Cas doesn't answer, just walking closer to the cabinet. His steps are still shaky, the bandage that covers the gash on the calf leaks hints of black, the one on his shoulder red. He reaches the top shelf with the uninjured hand.
+Cas doesn't answer, just walking closer to the cabinet. His steps are still slightly shaky, the bandage over the gash on his calf leaks hints of black, the one on his shoulder red. He reaches the top shelf with his uninjured hand.
 
-Bobby grabs the book that he was reading. Cas already knows what he's going to hear.
+Bobby grabs the book Cas was reading. Cas already knows what he's going to hear.
 
-"Are you crazy? You can't possibly think about doing THAT?!" Bobby snaps, passing the book to Sam.
+"Are you out of your mind? You'd be a damn fool even *think* about doing THAT?!" Bobby snaps, passing the book to Sam.
 
-"Figured you might say that." Cas doesn't stop the movement, not looking back.
+"Figured you might say that." Cas doesn't stop moving, not looking back.
 
 "Then you know how stupid this is! Cas, come on, there gotta be another way."
 
-"What if there *is* no other way?" Cas grabs three jars the size of vase, putting on the table, rummaging through the drawers now. His face calm the first time since he entered the room. Eyes focused. "What if we wait for too long to look for a different solution only to be too late for Dean?"
+"What if there *is* no other way?" Cas grabs three jars the size of vases, sets them on the table, and starts rummaging through the drawers. His face is calm for the first time since he entered the room. Eyes focused. "What if we wait too long looking for a different solution only to be too late for Dean?"
 
 "You don't know what the spell would do to you!" Bobby tries again.
 
-At that, Cas looks up. "Technically, I do. It would turn me into a monster. Because that's the point, isn't it? Only the monsters can go to the Purgatory, so it makes sense if I become one, then I can go and find Dean."
+At that, Cas looks up. "Technically, I do. It would turn me into a monster. Because that's the point, isn't it? Only monsters can go to Purgatory, so it makes sense if I become one, then I can go and find Dean."
 
-"After you are dead! And we don't know if there is any way to change you back!" Bobby walks over, putting his hands on Cas's wrist, stopping him for a moment. "Goddamnit, can you stop and think for a sec? Do you think Dean would want that? You, become a monster?"
+"After you are dead! And we don't know if there is any way to change you back!" Bobby walks over, putting his hands on Cas's wrist, stopping him for a moment. "Goddammit, stop and think for a sec, will ya? Do you think Dean would want that? You, become a monster?"
 
 Cas glares back. "I don't know! I don't know what Dean would want because he's not here! Why don't you let me do this so I can ask him myself?"
 
-Bobby snaps with more exhaustion. "How on earth did the Winchesters get that issue infected to you too? Just can't wait to sacrifice yourself for one another, you're just like their third brother now, you know that?"
+Bobby snaps with more exhaustion. "How on earth did the Winchesters get that issue infected you too? Just can't wait to sacrifice yourself for one another, you're just as bad as their third brother now, maybe even worse, you know that?"
 
-Cas looks down at his hands. "I have to." is all he says.
+Cas looks down at his hands. "I have to." That's all he says.
 
 Bobby loosens his grip, turning back to Sam. "You wanna help me out here or what?"
 
-Sam blinks. "For the record, I think the plan makes sense, reasonably speaking." At Bobby's stare, he hurriedly adds. "The 'only monsters can go to the Purgatory' part, I mean, there's indeed some more details we need to figure out."
+Sam blinks. "For the record, I think the plan makes sense, reasonably speaking." At Bobby's stare, he hurriedly adds, "The 'only monsters can go to Purgatory' part. I mean, there's indeed some more details we need to figure out."
 
-Bobby squints at him, unbelievable. "Great, that makes me the weird one in the room. I'm gonna grab some drink then. You two knock yourself out doing... whatever you wanna do, why do I bother saving your sorry asses."
+Bobby squints at him, in disbelief. "Great, that makes me the weird one in the room. I'm gonna grab some drink then. You two knock yourself out doing... whatever you wanna do, why do I bother saving your sorry asses."
 
 He leaves the room, heading for the kitchen.
 
 <br>
 
-The three ingredients on the list: demon blood, monster blood, and unholy man's blood -- the mixed blood that is so blasphemous that can turn the most holy thing to a monster.
+The three ingredients on the list: demon blood, monster blood, and unholy man's blood -- the mixed blood so blasphemous it could turn the most holy being into a monster.
 
-Cas goes to fetch demon blood and monster blood, Sam says he'd take care of the last one.
+Castiel goes to fetch demon blood and monster blood, Sam says he'd take care of the last one.
 
-They meet back at Bobby's in a few hours, each have jars of blood in hands. Bobby eyes them, both more bloody than before.
+They meet back at Bobby's after a few hours, each with jars of blood in hand. Bobby eyes them, both more bloody than before.
 
-"Do I even want to know how did you get that human blood?" Bobby glances at Sam but looks away shortly.
+"Do I even want to know how you got that human blood?" Bobby glances at Sam but looks away shortly.
 
 "Probably not." Sam answers too quickly.
 
@@ -693,61 +693,61 @@ Cas frowns. "Did you kill a man?"
 
 Sam just hands him the jar. "Like I said, you probably don't want to know."
 
-Cas looks at him for a few moments, then he averts the eyes. He doesn't ask further.
+Cas looks at him for a few moments, then he shifts his gaze back to the ingredients. He doesn't ask further.
 
-The mixture of the blood has a color so dark that it's more black than red. Cas enchants the spell as the black grimoire instructs. The blood still looks like blood, dirty and stinking. The smell of corruption and abomination.
+The mixture of the blood has a color so dark that it's more black than red. Cas enchants the spell as the black grimoire instructs. The blood still looks the same, dirty and stinking -- the smell of corruption and abomination.
 
 They look at him.
 
-"Cas, you sure about this? Like, really sure? This thing looks like no fun." Bobby frowns deep, all lines on his weathered face crimpled with concern.
+"Cas, you sure about this? Like, really sure? This thing looks like no fun." Bobby frowns deep, all the lines on his weathered face crinkled with concern.
 
-"I'm doing this." Cas says simply, not wavered by how the liquid smell like or what it would do to him, only the place with the bleachy sky and dying woods, a figure with torn flannel running in it, with only a blade in his hands, facing the whole world of monsters created from the beginning of the time, no way out, no rest, not even a damn soul to talk to. "I'm ready." He says, he can't be more ready.
+"I'm doing this." Cas says simply, unwavering, unbothered by the smell of the liquid or what it would do to him. His mind can only see the place with the bleachy sky and dying woods, a figure with torn flannel running in it, with only a blade in his hands, facing the whole world of monsters created from the beginning of time, no way out, no rest, not even a damn soul to talk to. "I'm ready." He says. He can't be more ready.
 
 "Alright then," Bobby pushes the jar towards him.
 
-The dark surface of the mixed blood reflects his vessel's face -- the face he's wearing for so long that he already registers as his own. And soon, he may lose the form.
+The dark surface of the mixed blood reflects his vessel's face -- the face he's worn for so long Cas already registers as his own. And soon, he may lose the form.
 
-"You may not want to witness the next part." Castiel tells Bobby and Sam, grabs the syringe he prepared earlier, pumping the liquid into his own vein.
+"You may not want to witness the next part," Castiel tells Bobby and Sam, grabbing the syringe he prepared earlier, drawing the liquid up to inject into his own vein.
 
-Bobby widens his eyes once more. "Thought drinking that thing is bad enough."
+Bobby widens his eyes once more. "Thought drinking that thing was bad enough."
 
-"Faster this way." Cas extracts a full drag of the blood and pumps them in, then next. Eyes locked on the needle, teeth grinded. His face grimaces.
+"Faster this way." Cas draws a full syringe of the blood and pumps it in, then the next. Eyes locked on the needle, teeth gritted. His face grimaces with each pump.
 
-Bobby hesitates at the threshold before heading out. "Call me if you need anything."
+Bobby hesitates at the threshold before heading to the other room. "Call me if you need anything."
 
-"I can stay." Sam offers.
+"I can stay," Sam offers.
 
 Castiel just continues the motion until the jar is emptied.
 
 And then he waits.
 
-The boiling sensation starts from the arm, as the liquid touches his own blood, worse than the strongest acid and boiled metal pouring onto a human body. And it moves deeper into the system. Like a flash, it reaches the heart and pumps into every part of the body.
+The boiling sensation starts from the arm, as the contaminative liquid touches his own blood -- worse than the strongest acid and molten metal pouring onto a human body. And it moves deeper into the system. Like a flash, it reaches the heart and pumps into every part of the body.
 
-Castiel drops the syringe and screams. His body collapses to the floor, eyes wide open but he can't see anything, the world shifts in front of him in darkened color.
+Castiel drops the syringe and screams. His body collapses to the floor, eyes wide open but he can't see anything, the world shifts in front of him to a darkened blur.
 
-The sensation is so intense that the Leviathans' attacks in Purgatory are like nothing but tickles. It's not just pain, it's the transformation, it's like his blood wants to melt down his bone and flesh, turning his inside out, mashing his gut and brain to mud.
+The sensation is so intense that the Leviathans' attacks in Purgatory are like nothing but tickles. It's not just pain, it's transformation. It's like his blood boiling, melting his bones and flesh, turning his inside out, mashing his gut and brain into mud.
 
-Castiel squirms violently on the floor, yelling in a mixed sound of high pitch and all kinds of human languages, switching from one dead tongue to another, like a computer frantically flooding out random error messages under a virus attack.
+Castiel squirms violently on the floor, yelling in a mixed sound of high pitch and all kinds of human languages, switching from one dead tongue to another, like a computer frantically spitting out random error messages under a virus attack.
 
-His eyes and mouth lighten up, bright lights starts to flow but instead of leaving the body, the lights blink, on and off, on and off, until it dims, like a broken light bulb trying its best to lighten up one last time before it blows. The light is captured back inside the body, the same way they can't escape a black hole. Not even any grace can escape the change.
+His eyes and mouth glow, light starts to flow but instead of leaving the body, the lights flicker, on and off, on and off, until they dim, like a broken light bulb trying its best to lighten up one last time before it blows. The light is captured back inside the body, the same way they can't escape a black hole. Not even any grace can escape the change.
 
-Sam stands by him, watching. Bobby rushes back in at the sound. But none of the men can do anything or has any idea what is happening.
+Sam stands by him, watching. Bobby rushes back in at the sound. But none of the men can do anything or have any idea what is happening.
 
 And that is only the beginning.
 
-Castiel's body rises slowly in the air, his eyes half closed, looks half passed out, half dream walking. The lights in the room shakes, sounds of thunder rolling from above the ceiling. In the shadow of the flickering lights, there are the black wings, expanding from his shoulder blades, long and stretched, filling the whole room and beyond. The feathers on the wings shine black, the color of the night sky.
+Castiel's body rises slowly into the air, his eyes half closed, looking half passed out, half dream walking. The lights in the room shake, sounds of thunder rolling from above the ceiling. In the shadow of the flickering lights, there spread the black wings, expanding from his shoulder blades, long and stretched, filling the whole room and beyond. The feathers shine black, the color of the night sky.
 
 "Holy." Bobby gasps, taking a step back in awe. Sam stares.
 
-And then the shape changes, the dark crimson color of blood crawls from his back, reaching the root of the wings, flowing upwards, distaining the feathers. Some fall to the floor, others shrink and twist as if they are burned by fire. The bones holding the wings make cracking sound and bend back, folding inside, twisting into distorted shapes. The wings no longer look like wings, more like bewildering branches with charred leaves barely attached in the winter.
+And then the shape changes -- the dark crimson of blood crawls from his back, reaching the root of the wings, flowing upwards, staining the feathers. Some fall to the floor, others shrink and twist as if being burned by fire. The bones holding the wings make cracking sound and bend back, folding inward, twisting into distorted shapes. The wings no longer look like wings, more like bewildering branches with charred leaves barely attached in the winter.
 
-The screaming and yelling of pain dies down slowly, the sound pitch grow lower, less like human voice, more like wounded monster moaning in pained growl.
+The screaming and yelling of pain die away slowly, the pitch sinking from human voice to a wounded monster moaning. Low pained growl.
 
-As the wings fold and twist, they no longer hold the weight of the body, Castiel crashes back down, landing on all fours. Claws and scales grow from fingers and skins, bones shifting, face unrecognizable. A mixed shape of a hundred different wild animals but no name for what Castiel looks like now.
+As the wings fold and twist, they no longer hold the weight of the body, Castiel crashes back down, landing on all fours. Claws and scales grow from fingers and skin, bones shifting, face unrecognizable. A mixed shape of a hundred different wild animals but no name for what Castiel looks like now.
 
-Bobby takes another step back, reaching slowly for his gun. Sam reaching for his machete.
+Bobby takes another step back, slowly reaching for his rifle. Sam reaches for his machete.
 
-"Cas?" Bobby calls carefully, forcing his voice as untrembling as he can manage.
+"Cas?" Bobby calls carefully, forcing his voice stay as steady as he can manage.
 
 The monster in front of them gnarls, can't tell if it's answering or threatening. He looks up slowly, eyes glassy and foggy. With the slightest shade of blue.
 
@@ -755,41 +755,41 @@ The monster in front of them gnarls, can't tell if it's answering or threatening
 
 They watch intensely. And Castiel whines, then, nods once, slowly.
 
-Bobby breathes out heavily. "Good to know, thank God you're not dead in that whole --" he waves a hand to vaguely refer to whatever happened just now in place for a word he can never find. He clicks the safety bolt back on.
+Bobby breathes out heavily. "Good to know. Thank God you're not dead in that whole --" he waves a hand to vaguely refer to whatever happened just now, in place for a word he can never find. He clicks the safety back on.
 
-"Yet." Sam deadpans.
+"Yet." Sam reminds him.
 
 "What?"
 
-"Not dead, *yet*." Sam keeps his hunter's gait, hands still on the machete -- the same one he carried into that vampire nest where Dean was beheaded. "He still needs to be dead to go to the Purgatory, remember?"
+"Not dead, *yet*." Sam keeps his hunter's stance, hands still on the machete -- the very same one he carried into that vampire nest where Dean was beheaded. "He still needs to be dead to go to Purgatory, remember?"
 
-Bobby swallows, falling to silence. After a beat, "And you wanna do the honor?"
+Bobby swallows, falls to silence. After a beat: "And you wanna do the honor?"
 
 "Unless you volunteer," Sam says, unbothered. "Don't see a third option here."
 
 The worst thing is, he's right.
 
-"And you're still onboard with this 'getting killed to go to the horror land' plan?" Bobby checks with Cas one last time.
+"And you're still on board with this 'getting killed to go to the horror land' plan?" Bobby checks with Cas one last time.
 
 The monster that was -- is -- Cas nods unmistakably.
 
-"This is absolutely the shittiest plan I've ever seen, and that includes two apocalypses." Bobby sighs deeply, looking at Cas truly apologetically, "I'm sorry." Then to Sam, "Just, don't do it in here, will ya?"
+"This is absolutely the shittiest plan I've ever seen, and that includes two apocalypses." Bobby sighs deeply, resigned. He looks at Cas with genuine apology, "I'm sorry." Then to Sam, "Just, don't do it in here, will ya?"
 
 Sam nods once, heading out. Castiel follows.
 
 <br>
 
-Bobby does not follow them outside, and he thinks a bottle of whiskey is definitely not enough for tonight.
+Bobby does not follow them outside, and he knows a bottle of whiskey is definitely not gonna be enough for tonight.
 
-He doesn't need to see, the squeaky sound of footsteps and claws heading to the opening in the junkyard is loud and clear in the midnight silence.
+He doesn't need to see -- the squeaky sound of footsteps and claws heading to the opening in the junkyard is loud and clear in the midnight silence.
 
 He closes his eyes.
 
 There is the sound of metal cutting through flesh, and then something heavy falls to the ground.
 
-One set of footstep head back, stepping on the ground that is more muddy wet than before.
+One set of footsteps head back, stepping on the ground that's now wetter and muddier than before.
 
-Bobby shakes his head hard. "Cas you stupid love-blind idjit."
+Bobby shakes his head hard. "Cas, you stupid love-blind idjit."
 
 <br>
 
@@ -809,7 +809,7 @@ Purgatory is the monster hunting ground, and staying put means food.
 
 But Dean stays around there anyway. If the monsters come, he kills them. If the door opens again, he goes home. The logic simplifies to the simplest, Dean distantly wonders if his brain would degenerate for lack of use, but soon he pushes that aside as well.
 
-Leviathans still emerge once in a while, dropping in here and again like a recurring termite problem in an old house, though not as many as when Cas was here. Their faces shift between human appearance and the teethy monstrous face, decapitation is still the best solution Dean can find. Not like there is any research book or anything else in the Purgatory he can use anyway.
+Leviathans still emerge once in a while, dropping in here and again like a recurring termite problem in an old house, though not as many as when Cas was here. Their faces shift between human appearance and the teethy monstrous face, decapitation is still the best solution Dean can find. Not like there is any research book or anything else in Purgatory he can use anyway.
 
 He would have lost the concept of time entirely if it's not for his watch still ticking and running. But he doesn't know if it's a good thing or bad. Watching the fingers tick one second, then another second, slowly crawling forward, Dean thinks going lunatic is just a matter of time if he can't figure something out soon.
 
@@ -825,7 +825,7 @@ He fights and kills and struggles and swings, taking down as many as he can but 
 
 "I killed you once, don't mind do that again." The big boss vamp grins at him, showing his ugly fangs, knocking him down. Dean loses grip on the blade, pinned to the ground, all too similar to the first time.
 
-Where does the monsters go after they die in the Purgatory? It's not the first time he wonders this, but this time he might actually go check it out himself.
+Where does the monsters go after they die in Purgatory? It's not the first time he wonders this, but this time he might actually go check it out himself.
 
 And then, that vamp loses its head. Its headless body freezes, its hold on his throat loosens, and then it falls frigidly down on top of him, not moving an inch anymore. Blood from the broken throat spilling all over Dean's face.
 
@@ -997,7 +997,7 @@ The best part is, at least he has someone -- something -- to talk with. Not like
 
 And sometimes, he thinks he can just understand its purrs and mumbles and low growls from deep under the throat. The unsaid tongues without words.
 
-"Sometimes I would really think about just lying down, you know, I'm so tired. Not exactly giving up, but just not fighting back the faith so hard again. I mean, look at us, what's the point of all this? I'm a vampire and you're... some monster, and we are in the Purgatory. If whatever shitty Destiny wants me end up here, fine, I guess, why bother going anywhere else." Once, Dean tells it.
+"Sometimes I would really think about just lying down, you know, I'm so tired. Not exactly giving up, but just not fighting back the faith so hard again. I mean, look at us, what's the point of all this? I'm a vampire and you're... some monster, and we are in Purgatory. If whatever shitty Destiny wants me end up here, fine, I guess, why bother going anywhere else." Once, Dean tells it.
 
 They just finished a fight, it was a pack of werewolves, the leading one was a pure blood, violent and unbelievably strong, even Cas had to struggle with it several rounds before biting into its neck and stopping it for good. Dean was left aside handling a handful on his own. They are both panting and bleeding, exhausted.
 
@@ -1051,7 +1051,7 @@ Cas follows him closely behind.
 
 <br>
 
-They hit a shapeshifter nest, the nasty things are still the trickiest even after they're in the Purgatory, changing shapes into people he knows. The family of the shapeshifters turn into his own family, Sam, Cas, Bobby, Jess, Mom, Dad, even himself, in a clean flannel. A big happy family reunion -- Purgatory version.
+They hit a shapeshifter nest, the nasty things are still the trickiest even after they're in Purgatory, changing shapes into people he knows. The family of the shapeshifters turn into his own family, Sam, Cas, Bobby, Jess, Mom, Dad, even himself, in a clean flannel. A big happy family reunion -- Purgatory version.
 
 "Hate the shifters." Dean murmurs under his breath, chopping the closest one's head off, which happened to be himself.
 
@@ -1341,7 +1341,7 @@ joke ref Twilight: Dean as vamp sucks the bad blood out from Cas's system
 
 Castiel swallows, and doesn't answer immediately. Dean almost thinks he'd never hear an answer and he wouldn't know what to do with the knot in his gut, when Cas answers, "Yes." Dean doesn't know why he's surprised.
 
-"Yes, Dean, of course I do," Cas tells him, his face covered in remorse, "that was the first thing I did when I realized there was going to be a civil war in the Heaven. I was at your doorsteps. But you couldn't see me then."
+"Yes, Dean, of course I do," Cas tells him, his face covered in remorse, "that was the first thing I did when I realized there was going to be a civil war in Heaven. I was at your doorsteps. But you couldn't see me then."
 
 "Then why didn't you knock?"
 
@@ -1361,7 +1361,7 @@ Cas blinks blankly. "Are you preferring me to say no?"
 
 Dean sighs with a small chuckle. "It's a joke, never mind. What now?"
 
-Cas walks over to the threshold of the sheltered cave formed by the natural rocks and some extra tree trunks barring as door, looking at the open air and sky of the Purgatory at Dean's side. It looks exactly the same no matter how many times they watch.
+Cas walks over to the threshold of the sheltered cave formed by the natural rocks and some extra tree trunks barring as door, looking at the open air and sky of Purgatory at Dean's side. It looks exactly the same no matter how many times they watch.
 
 "Now we leave this place and go back Earth." Cas says.
 
@@ -1683,7 +1683,7 @@ Cas answers him, "I'm still me. Castiel, Angel of the Lord."
 
 "Then what's this?" Sam scoffs, using the muzzle of his pistol to gesture the black ooze on the floor and Cas's face, referring to the suspicious black worms lurking inside him.
 
-"How did you two come out of the Purgatory?" Bobby adds questions to the pile, "Are you still a vamp, Dean?"
+"How did you two come out of Purgatory?" Bobby adds questions to the pile, "Are you still a vamp, Dean?"
 
 "No fangs now, thanks to Cas." Dean starts with the easy question, hurrying toward Cas and pointing a finger at Sam's gun, "Take that away, will ya? No one points gun at anyone in this house. Not on my watch."
 
@@ -1693,11 +1693,11 @@ Cas answers him, "I'm still me. Castiel, Angel of the Lord."
 
 Dean tries to pull Cas away but the angel doesn't move.
 
-"Cas absorbed the souls in the Purgatory to juice up and blew up a hole to save both of us, with a little side effect we need to figure out how to fix." Dean is genuinely pleased he actually managed to summarize everything downstairs in one sentence.
+"Cas absorbed the souls in Purgatory to juice up and blew up a hole to save both of us, with a little side effect we need to figure out how to fix." Dean is genuinely pleased he actually managed to summarize everything downstairs in one sentence.
 
 "Which is?" Bobby prompts, eyes shifting between Cas and Dean.
 
-"There's this monster in the Purgatory -- the Leviathans." Dean considers how to best put it, "Well apparently, according to angels, these things are so vicious and can't be killed, God specifically created a Purgatory to lock them away."
+"There's this monster in Purgatory -- the Leviathans." Dean considers how to best put it, "Well apparently, according to angels, these things are so vicious and can't be killed, God specifically created a jail to lock them away."
 
 "Let me guess, now they are in Cas and ready to have some fun outside the jail." Bobby says gloomily.
 
@@ -1741,7 +1741,7 @@ Cas approaches Sam on the sofa, who still refuses to let go of his pistol. Dean 
 
 "Not if I have angel-killing bullet," Sam meets both Dean and Cas's eyes, Dean's glaring with burning flame, "Just saying."
 
-Cas reaches a hand for Sam's forehead, a gesture to test his body temperature. Sam leans back, away from him. "Not that I'm prejudiced or anything," Sam points at Cas's leviathan problem, "You sure it's not contagious or anything?"
+Cas reaches a hand for Sam's forehead, a gesture to test his body temperature. Sam leans back, away from him. "Not that I'm prejudiced or anything," Sam points at Cas's Leviathan problem, "You sure it's not contagious or anything?"
 
 Cas turns to look at Dean for help.
 
@@ -1817,7 +1817,7 @@ Balthazar gestures at him casually, still talking with Cas, "I see you're still 
 
 That gets Dean's attention. "What are you talking about?"
 
-Balthazar finally meets him in the eyes, "Oh, am I the only one in the room noticing our Cas here is buzzing with energy? Upstairs already got a power meter overload, red alerts everywhere. The last time it happened, let me see, ah, never. Not once since God left the building. You are about all God-level power now, Cas. Let me guess, you already found the Purgatory and took everything? That's practically blowing the battle horn. Want to take a bet how soon Uncle Raphael will find out and come pay a visit?"
+Balthazar finally meets him in the eyes, "Oh, am I the only one in the room noticing our Cas here is buzzing with energy? Upstairs already got a power meter overload, red alerts everywhere. The last time it happened, let me see, ah, never. Not once since God left the building. You are about all God-level power now, Cas. Let me guess, you already found Purgatory and took everything? That's practically blowing the battle horn. Want to take a bet how soon Uncle Raphael will find out and come pay a visit?"
 
 "God power, you say?" Dean tenses, turning to Cas, "How many souls did you take exactly, Cas?"
 
@@ -1835,13 +1835,13 @@ Cas doesn't answer.
 
 The two of them starts heading outside.
 
-"Cas, no, don't, bad plan." Dean doesn't know what else to do except for stopping Cas on his way out. But they probably don't even need a door to get out. "Please, let's think about it. What about your little... leviathan problem?"
+"Cas, no, don't, bad plan." Dean doesn't know what else to do except for stopping Cas on his way out. But they probably don't even need a door to get out. "Please, let's think about it. What about your little... Leviathan problem?"
 
 "What about it?" Cas looks down at his hands, the black goo is not dripping as much as it did when they first came back, but sure enough, he's still not fully well and himself.
 
 "What are you gonna do if Dick takes over again when you're fighting Raphael or Lucifer?" Dean reasons.
 
-"Then I die." Cas answers easily, "Or I don't die, and the leviathans kill the archangels, because rock beats scissors, leviathans beat angels."
+"Then I die." Cas answers easily, "Or I don't die, and Leviathans kill the archangels, because rock beats scissors, Leviathan beats angel."
 
 "Which always leaves the biggest shark in the tank, exactly." Dean suggests, "Why don't we take it strategically, then? Throw all of them in the same tank, let them fight. We watch on the bench with popcorns, how about that?"
 
@@ -2171,7 +2171,7 @@ Cas drag Raphael to Cage to force him to watch
 
 He can do nothing but just watch the bully show displaying inside the glass container -- the brutal shark in tank show with Cas's body on the meat hook.
 
-The three archangels form an ally within seconds. Cas's eyes shift between blue and black, leviathan goo continuously falling out of him.
+The three archangels form an ally within seconds. Cas's eyes shift between blue and black, Leviathan goo continuously falling out of him.
 
 Lucifer jump-starts the first round of attack, with Michael -- now without Adam, he is more involved in the activity as well -- on Cas's left flank, and Raphael on his right. Castiel's body shakes like a winter leaf under their strike, the archangels stab him with the spiral blades, punch and kick and beat him from every direction.
 
@@ -2205,7 +2205,7 @@ The sound is isolated inside the Cage, so is all the energy unleashed. The Cage 
 
 Dean opens his eyes the moment he decides it's not going to blind him. He doesn't even realizing he's sobbing when tears falling down his cheek. He doesn't have the courage to look inside the Cage again for a long minute.
 
-The Cage is an explosion debris. White smokes haven't fully dissipated, colors smudging all over the space -- red is blood, black is leviathan goo, mixing together with white and blue light, like a dirty distained tragedy scene after massive deaths.
+The Cage is an explosion debris. White smokes haven't fully dissipated, colors smudging all over the space -- red is blood, black is Leviathan goo, mixing together with white and blue light, like a dirty distained tragedy scene after massive deaths.
 
 *I love you too.* Dean presses his forehead on the glass, breath uneven, tears shredding. His lips tremble with one word: "Cas."
 
