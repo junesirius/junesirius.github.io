@@ -811,11 +811,11 @@ But Dean stays near there anyway. If the monsters come, he kills them. If the do
 
 Leviathans still emerge once in a while, dropping in here and again like a recurring termite problem in an old house, though not as many as when Cas was here. Their faces shift between human appearance and the teethy monstrous face. Decapitation is still the best solution Dean can find. Not like there is any research book or anything else in Purgatory he can use anyway.
 
-He would have lost the concept of time entirely if it's not for his watch still ticking and running. But he doesn't know if it's a good thing or bad. Watching the hands tick one second, then another, slowly crawling forward, Dean thinks going lunatic is just a matter of time if he can't figure something out soon.
+He would have lost the concept of time entirely if it weren't for his watch still ticking and running. But he doesn't know if it's a good thing or bad. Watching the hands tick one second, then another, slowly crawling forward, Dean thinks going lunatic is just a matter of time if he can't figure something out soon.
 
 And he can't figure anything out.
 
-The air never stirs again in the same way it did when the portal opened last time. There is not lit-up exit, no jail breaker or bail release.
+The air never stirs again in the same way it did when the portal opened last time. There is no lit-up exit, no jail breaker or bail release.
 
 Sometimes, Dean even considers sparing some monsters on his way, keeping one as a pet or something, to at least have something to look at and talk to -- hopefully one that's least ugly to look at -- just to keep himself sane for a little longer. He understands why Robinson Crusoe kept Friday on that island now.
 
@@ -823,9 +823,9 @@ And then, on a day he's long since lost count of which, he is attacked by a doze
 
 He fights and kills and struggles and swings, taking down as many as he can, but a small part of his brain already knows how this will play out. That part of his mind floats above him, watching the scene unfold like a Deja Vu or a rewatched movie.
 
-"I killed you once, don't mind do that again," the big boss vamp grins, showing his ugly fangs, and knocks him down. Dean loses grip on the blade, pinned to the ground, all too similar to the first round.
+"I killed you once, don't mind doing that again," the big boss vamp grins, showing his ugly fangs, and knocks him down. Dean loses grip on the blade, pinned to the ground, all too similar to the first round.
 
-Where does monsters go after they die in Purgatory? It's not the first time he's wondered, but this time he might actually go check it out himself.
+Where do monsters go after they die in Purgatory? It's not the first time he's wondered, but this time he might actually go check it out himself.
 
 And then, that vamp loses its head. Its headless body freezes, its grip on Dean's throat loosens, and then it falls stiffly down on top of him, not moving an inch anymore. Blood from the broken neck spills all over Dean's face.
 
@@ -893,25 +893,25 @@ The world is a pool of shapes and colors, floating and swimming, emerging and di
 
 There is no thought, no words. Light or dark, colored or bleak. That's all there is.
 
-It takes a while to realize the small blinking lights are edible, and those feel good -- making the colors looking brighter and shapes sharper. Almost like the view is getting clearer, but still the same forms.
+It takes a while to realize the small blinking lights are edible, and those feel good -- making the colors look brighter and shapes sharper. Almost like the view is getting clearer, but still the same forms.
 
 It takes a longer while to realize those lights are souls, and absorbing them can bring strength back, making wounds heal -- even just slightly.
 
-Castiel wanders in the land, fumbling, searching. Not knowing where he is, not knowing where he's heading. Not knowing what himself is, for the most of the times. Just wandering, drifting. Afloat like a duckweed.
+Castiel wanders in the land, fumbling, searching. Not knowing where he is, not knowing where he's heading. Not knowing what himself is, most of the time. Just wandering, drifting. Afloat like a duckweed.
 
-He opens his mouth, growls echoing as the vocal cords vibrates. He sinks teeth, blood seeping out from the things in his bite, bodies twitching, then not moving. The light that rested inside of them shifts and moves along with the blood, moving into him. He swallows them, then moves away.
+He opens his mouth, growls echoing as the vocal cords vibrate. He sinks teeth, blood seeping out from the things in his bite, bodies twitching, then not moving. The light that rested inside of them shifts and moves along with the blood, moving into him. He swallows them, then moves away.
 
-The creatures and monsters crowd around this place like rabbits in the summer prairie. Led by instincts, he hunts and eats and moves, chasing one sparkling light to another, knowing all of them are nothing more than food and source of strength.
+The creatures and monsters crowd around this place like rabbits in the summer prairie. Led by instincts, he hunts and eats and moves, chasing one sparkling light to another, knowing all of them are nothing more than food and sources of strength.
 
-And then he sees it. In the center of the opening, the brightest light shades everything else, dulling up all the other creatures. The light of the soul that is like the beacon on the sea, the North Star of the starry sky, the crackling burning fire in the polar night, the Sun in the dark Space. It's so bright that the lumination and heat almost scorch him from this distance.
+And then he sees it. In the center of the opening, the brightest light shades everything else, dulling all the other creatures. The light of the soul that is like the beacon on the sea, the North Star of the starry sky, the crackling burning fire in the polar night, the Sun in the dark Space. It's so bright that the lumination and heat almost scorch him from this distance.
 
-But he steps towards it. He can't stop staring it and he can't stop himself from moving towards it. The bright, the light, the heat, the beacon. The center of the universe is there. The brightest soul that he's ever seen.
+But he steps towards it. He can't stop staring at it and he can't stop himself from moving towards it. The bright, the light, the heat, the beacon. The center of the universe is there. The brightest soul that he's ever seen.
 
 Even without a clear view, even without a clear mind with any of the memory and knowledge he doesn't know he has, he would know this is what he's looking for -- even if he doesn't remember what it is, or what himself is.
 
-He approaches it, the attraction uncontrollable, but also unavoidably intimating. The intensity and the heat, the light itself, the soul that is so strong, it appeals to him and terrifies him in the same way wild animals getting attracted and frightened by the camper's bonfire in the same time.
+He approaches it, the attraction uncontrollable, but also unavoidably intimidating. The intensity and the heat, the light itself, the soul that is so strong, it appeals to him and terrifies him in the same way wild animals getting attracted and frightened by the camper's bonfire at the same time.
 
-Castiel circles around the light, hiding himself in the woods, letting the shadow cover his trace. Tempted, but intimated. Staying in the place where he can see it, but not close enough to be seen.
+Castiel circles around the light, hiding himself in the woods, letting the shadow cover his trace. Tempted, but intimidated. Staying in places where he can see it, but not close enough to be seen.
 
 Time passes by relentlessly, he hunts and eats and devours and waits. The power from the souls of the small creatures and monsters accumulates, the vision gets clearer. So is the mind.
 
@@ -923,19 +923,19 @@ Looking down, he sees his claws on the dusty ground, distained by the dirt and b
 
 He makes sure Dean wouldn't either.
 
-The woods provide enough of cover, even with his size. He wanders far enough to hunt and grow strength, but not too far to lose Dean's bright lighted soul out of view -- in the end, how can one lose sight of the Sun in the sky?
+The woods provide enough cover, even for his size. He wanders far enough to hunt and grow strength, but not too far to lose Dean's bright lighted soul out of view -- in the end, how can one lose sight of the Sun in the sky?
 
-But then, there are the attackers. The vampires edging and crowding Dean, there are too many of them. The bright light of the soul starts getting overshadowed, the threat of fangs and paws on the body's neck, the danger that is too strong to conquer, and worst of all, the light itself is willingly going out.
+But then, there are the attackers. The vampires are edging and crowding Dean, there are too many of them. The bright light of the soul starts getting overshadowed, the threat of fangs and paws on the body's neck, the danger that is too strong to conquer, and worst of all, the light itself is willingly going out.
 
 Castiel can't have it. For all his existence, this is the thing he cannot allow happen, whatever the cost.
 
 So there is the exposure, and there is the attacking and biting and eating just out of instinct.
 
-The metallic bloody smell assail the nostril, the vampire's head between his teeth then down his throat, it is only then does Castiel realize this is the time when Dean would raise the blade and bury it inside his body.
+The metallic bloody smell assails the nostril, the vampire's head between his teeth then down his throat, it is only then does Castiel realizes this is the time when Dean would raise the blade and bury it inside his body.
 
 He freezes, widening his eyes.
 
-His vision clears, the face in front of him sharpens. Dean. It's really Dean. As human as he can be, the face, the body, every inch of the existence so familiar. And his blade high and ready.
+His vision clears, the face in front of him sharpens. Dean. It's really Dean. As human as he can be, the face, the body, every inch of his existence so familiar. And his blade high and ready.
 
 "Dean." He calls his name, desperate. The only sound rolling out of his throat is the monster's roar.
 
