@@ -3213,4 +3213,16 @@ might can be used as a prompt or foreword for a destiel story where they have to
 
 or a art gallery-related story, one of them is the artist that painted the painting with tree and that quote?
 
-### 300.
+### 300.【destiel】S06E06/S15E20 Dean'll never be happy when Sam's alive
+
+S06E06 Lisa: "As long as he's in your life, you're never gonna be happy."
+
+what if that's the truth, the real fact of the world coming from Chuck (not just the Goddess of Truth)
+
+what if after S15E20, it's Sam died in the barn in the vampire case, Dean lives on
+
+would Dean allow himself be happy? apple-pie life? Cas comes down for him again?
+
+(has read some fic like that somewhere, Dean lives on but will never stop mourning Sam, in some post-S5 setting where Sam doesn't come back; similar idea but post-S15)
+
+### 301.
