@@ -4,7 +4,7 @@ title: 【梦记】日程安排
 date: 2023-09-16 10:30
 categories: ["梦记"]
 characters: ["Lyra"]
-tags: ["梦记", "奥兰多", "原神"]
+tags: ["梦记", "奥兰多", "原神", "普通故事"]
 pov: 第一人称视角
 origin: 个站
 ---

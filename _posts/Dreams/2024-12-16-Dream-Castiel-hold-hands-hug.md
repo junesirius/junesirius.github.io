@@ -4,7 +4,7 @@ title: 【梦记】跟Cass牵手拥抱（很喜欢）
 date: 2024-12-16 16:06
 categories: ["梦记"]
 characters: ["Castiel", "Dean Winchester", "Sam Winchester"]
-tags: ["梦记", "Supernatural", "Castiel梦女", "拥抱", "亲密关系"]
+tags: ["梦记", "Supernatural", "Castiel梦女", "拥抱", "亲密关系", "案件"]
 pov: 第一人称视角
 origin: 个站
 ---

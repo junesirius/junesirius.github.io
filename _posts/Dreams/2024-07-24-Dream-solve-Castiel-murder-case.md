@@ -4,7 +4,7 @@ title: 【梦记】天使谋杀案（有点喜欢，可以改编）
 date: 2024-07-24 09:57
 categories: ["梦记"]
 characters: ["Sam Winchester", "Castiel", "Dean Winchester"]
-tags: ["梦记", "Supernatural", "destiel", "好故事", "血", "改编"]
+tags: ["梦记", "Supernatural", "destiel", "好故事", "血", "改编", "案件"]
 pov: 第一人称
 origin: 个站
 ---

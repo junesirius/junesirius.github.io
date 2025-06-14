@@ -4,7 +4,7 @@ title: 【梦记】失忆梗碎片（有点喜欢但忘了）
 date: 2025-03-16 10:23
 categories: ["梦记"]
 characters: ["Castiel"]
-tags: ["梦记", "Supernatural", "碎片"]
+tags: ["梦记", "Supernatural", "碎片", "案件"]
 pov: 第一人称视角
 origin: 个站
 ---

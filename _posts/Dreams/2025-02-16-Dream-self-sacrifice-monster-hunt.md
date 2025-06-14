@@ -4,7 +4,7 @@ title: 【梦记】自我牺牲的人（非常精彩）
 date: 2025-02-16 11:38
 categories: ["梦记"]
 characters: ["John Winchester", "Mary Winchester", "Karen Page"]
-tags: ["梦记", "好故事", "Supernatural", "改编", "dreamwalk", "记忆", "反转", "追杀", "自我牺牲", "蝙超", "夜魔侠", "Johnmary", "悲伤"]
+tags: ["梦记", "好故事", "Supernatural", "改编", "dreamwalk", "记忆", "反转", "追杀", "自我牺牲", "蝙超", "夜魔侠", "Johnmary", "悲伤", "案件"]
 pov: 第一人称视角
 origin: 个站
 ---

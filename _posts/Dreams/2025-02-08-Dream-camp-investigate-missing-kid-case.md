@@ -4,7 +4,7 @@ title: 【梦记】营地调查小孩失踪案（还不错）
 date: 2025-02-08 10:59
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "普通故事", "Supernatural", "救世主情结", "拯救", "记忆"]
+tags: ["梦记", "普通故事", "Supernatural", "救世主情结", "拯救", "记忆", "案件"]
 pov: 第一人称视角
 origin: 个站
 ---
