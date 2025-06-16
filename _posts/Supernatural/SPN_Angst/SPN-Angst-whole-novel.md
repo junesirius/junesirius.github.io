@@ -2255,15 +2255,15 @@ Dean closes his eyes. "Don't ever do that again."
 
 Cas pauses. "The kissing?"
 
-Dean chuckles. "No, jackass, the dying."
+Dean chuckles. "No, dumbass, the dying."
 
 He pulls the angel back into his hold and doesn't let go.
 
 <br>
 
-They stay until the King of Hell finally can't take it any longer and declares the "public museum of the Cage" is officially closed at this time of the year.
+They stay until the King of Hell finally can't take it any longer and declares the "Public Museum of the Cage" is officially closed at this time of the year.
 
-They arrive home with Sam's soul in a suitcase and their half-brother in the back seat. Dean knocks at Bobby's door with a stupid smile.
+They arrive home with Sam's soul in a suitcase and their half-brother in the back seat. Dean knocks on Bobby's door with a stupid smile.
 
 No one dies today. No world-ending event scheduled for next week. Everyone safe and sound with all monsters gone.
 
@@ -2273,7 +2273,7 @@ Dean walks into Bobby's house giving the old man a tight hug. He gives Sam one t
 
 Bobby asks how's the trip.
 
-Dean says, with a wide grin, "Wouldn't recommend for honeymoon spots, not Heaven, not Hell, definitely not Purgatory. And we might have missed a few steps before that."
+Dean says, with a wide grin, "Wouldn't recommend for honeymoon spots, one out of ten for Heaven, zero for Hell, negative infinity for Purgatory. And we might have missed a few steps before that."
 
 He winks at Cas. "We're working on that."
 
