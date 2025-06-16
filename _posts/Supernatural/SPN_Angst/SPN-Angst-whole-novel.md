@@ -2213,7 +2213,7 @@ Dean doesn't need to hear or know about lip language to recognize them.
 
 *I love you.*
 
-"NO!!" Dean slams the wall of the Cage with all his forces. His fists are covered with his own blood.
+"NO!!" Dean slams the wall of the Cage with all his force. His fists are covered with his own blood.
 
 That is when Castiel's eyes brighten up. It lights up the whole dark space like a sun, and it continues growing and glowing, blazing into an exploding supernova.
 
@@ -2223,13 +2223,13 @@ The sound is isolated inside the Cage, so is all the energy unleashed. The Cage 
 
 *Cas.*
 
-Dean opens his eyes the moment he decides it's not going to blind him. He doesn't even realize he's sobbing when tears falling down his cheeks. He doesn't have the courage to look back into the Cage again for a long minute.
+Dean opens his eyes the moment he decides it's not going to blind him. He doesn't even realize he's sobbing when tears streak down his cheeks. He doesn't have the courage to look back into the Cage again for a long minute.
 
-The Cage is a post-explosion debris. White smokes haven't fully dissipated, colors smudging all over the space -- red is blood, black is Leviathan goo, mixing together with white and blue light, like a distained tragic scene after massive deaths, a battlefield from Picasso's paintings and Homer's poems.
+The Cage is a post-explosion debris. White smoke hasn't fully dissipated, colors smudging all over the space -- red is blood, black is Leviathan goo, mixing together with white and blue light, like a distained tragic scene after massive deaths, a battlefield from Picasso's paintings and Homer's poems.
 
 *I love you too.* Dean presses his forehead against the glass, breath uneven, tears shredding. His lips tremble with one word: "Cas."
 
-A sudden bloody hand slams against the wall from inside, leaving a trace of bloody handprints as it pulls a broken body up slowly into the view. Matching Dean's hand on the other side.
+A sudden bloody hand slams against the wall from inside, leaving a trace of bloody handprints as it pulls a broken body up slowly into view. Matching Dean's hand on the other side.
 
 Dean's heart pounds violently in his chest, so loud that he's sure the whole dark space would echo the sound of his heartbeat. He holds his breath, until Castiel's face emerges, until Cas slowly, gradually climbs out of the Cage on his own. In one piece.
 
@@ -2249,7 +2249,7 @@ Dean can't help laughing like a lunatic. "We gotta work on your jokes, it's even
 
 Cas opens his mouth to retort, but Dean doesn't give him any chance.
 
-Dean presses his lips onto Castiel's, drinking in every last bitter sweet flavor in him. Cas returns the kiss without hesitation.
+Dean presses his lips onto Castiel's, drinking in every last bittersweet flavor in him. Cas returns the kiss without hesitation.
 
 Dean closes his eyes. "Don't ever do that again."
 
