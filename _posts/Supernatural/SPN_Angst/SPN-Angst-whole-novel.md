@@ -961,63 +961,63 @@ Dean is always so full of surprise.
 >
 > Dean helps feeding him, making him better
 
-(**Warning words** before the part: mentions of passive suicidal ideation)
+(**Warning words** before the part: Mentions of passive suicidal ideation)
 
 <br>
 
-Dean barely sleeps. In a place like this, he can't even blink his eyes too slowly, let alone closing it. He doesn't know how the body functions in this place, whether it really needs sleep or eat or any of the usual human crap his brain was still used to as a living human, but now he's neither living nor human.
+Dean barely sleeps. In a place like this, he can't even blink his eyes too slowly, let alone close them. He doesn't know how the body functions in this place, whether it really needs sleep or food or any of the usual human crap his brain is still used to as a living human, but now he's neither living nor human.
 
-But Cas nudges him to rest -- at least he thinks it's what it means.
+But Cas nudges him to rest -- at least he thinks that's what it means.
 
-When his watch points to night time, Cas leads them to a place in between woods. The trunk looks decent as a resting place. Cas stands by it, getting down on its belly, looking at him.
+When his watch points to night, Cas leads them to a spot in between the woods. The trunk looks decent as a resting place. Cas settles by it, getting down on its belly, looking at him.
 
-Dean checks the trunk -- nothing special, then looks at Cas, amused. "What? You want to take a nap?"
+Dean checks the trunk -- nothing special -- then looks at Cas, amused. "What? You wanna take a nap?"
 
-The monster shakes its head, nudges his side slightly, almost pushing him to the ground.
+The monster shakes its head, then nudges his side slightly, almost pushing him to the ground.
 
-"Alright, alright, I get it." Dean sits down by the trunk, then curls by its root, resting his head on his arms. "You happy?"
+"Alright, alright, I get it." Dean sits down beside the trunk, curling up by the root, resting his head on his arms. "You happy?"
 
-The creature hums a low purring sound, not too different from a cat's satisfying purr after a full meal. Dean chuckles, propping his head up slightly, running right into the pair of eyes that are staring at him.
+The creature hums a low purring sound, not too different from a cat's satisfied rumble after a full meal. Dean chuckles, propping his head up slightly, running right into the pair of eyes that are staring at him.
 
-"Dude, stop watch a guy sleeping like that!" he complains, and that sense of familiarity rises again. He flutters, "But, uh, wake me up if there's anything happening alright?"
+"Dude, stop watching a guy sleep like that!" he complains, and that sense of familiarity rises again. He flutters, "But, uh, wake me up if anything happens, alright?"
 
 He gets another low mumble of confirmation. Dean thinks his monster language is improving.
 
-Dean gets a few hours of closed eyes.
+He gets a few hours of closed eyes.
 
-The sky still looks the same when he wakes up. Cas doesn't seem to move an inch. Somehow he does feel better, his body not so intense, his mind getting back online.
+The sky still looks the same when he wakes. Cas doesn't seem to have moved an inch. Somehow he does feel better -- his body not so tense, his mind beginning to get back online.
 
-Dean sits up slowly, glancing at the creature he named Cas from the corner of his eyes. That thing is doing the same, as if taking that comment of "don't stare" seriously.
+Dean sits up slowly, glancing at the creature he named Cas from the corner of his eyes. That thing is doing the same, as if took his comment about "don't stare" seriously.
 
-"Hey," Dean says. It meets his eyes immediately. Dean can't help feeling the tips of his lips lifting slightly, facsimile of a smile that was never there since he came downstairs.
+"Hey," Dean says. It meets his eyes immediately. Dean can't help feeling the tips of his lips lifting slightly -- a facsimile of a smile that has never been there since he came downstairs.
 
 "Thanks for watching out for me," he tells it. The monster purrs something that definitely means "don't mention it."
 
 <br>
 
-The life improves with Cas hanging around -- though there is never a life to begin with in a place like this. But still, each second passes slightly faster than before, so is each minute. At least that is how Dean feels like.
+The life improves with Cas hanging around -- though there is never a life to begin with in a place like this. But still, each second passes a little faster and more tolerable than before, so is each minute. At least that is how Dean feels.
 
-The best part is, at least he has someone -- something -- to talk with. Not like this Cas would really answer back, but from the way it looks at him, the way lights shift in its starry eyes, he thinks it understands. If it can speak human language, it would just talk.
+The best part is, at least he has someone -- something -- to talk with. Not like this Cas would really answer back, but from the way it looks at him, the way the lights shift in its starry eyes, Dean thinks it understands. If it could speak human, it would just talk.
 
-And sometimes, he thinks he can just understand its purrs and mumbles and low growls from deep under the throat. The unsaid tongues without words.
+And sometimes, he thinks he can understand its purrs and mumbles and low growls from deep in its throat. The unsaid tongues without words.
 
-"Sometimes I would really think about just lying down, you know, I'm so tired. Not exactly giving up, but just not fighting back the faith so hard again. I mean, look at us, what's the point of all this? I'm a vampire and you're... some monster, and we are in Purgatory. If whatever shitty Destiny wants me end up here, fine, I guess, why bother going anywhere else." Once, Dean tells it.
+"Sometimes I really think about just lying down, y'know? I'm so tired. Not exactly giving up, but just not fighting the fate so hard anymore. I mean, look at us, what's the point of all this? I'm a vampire and you're... some monster, and we are in Purgatory. If whatever shitty Destiny wants me to end up here, fine, I guess. Why bother going anywhere else?" Once, Dean tells it.
 
-They just finished a fight, it was a pack of werewolves, the leading one was a pure blood, violent and unbelievably strong, even Cas had to struggle with it several rounds before biting into its neck and stopping it for good. Dean was left aside handling a handful on his own. They are both panting and bleeding, exhausted.
+They just finished a fight. It was a pack of werewolves, the leading one was a pure blood, violent and unbelievably strong, even Cas had to struggle with it for several brutal rounds before biting into its neck and ending it for good. Dean was left aside handling a handful on his own. They are both panting and bleeding, exhausted.
 
-Cas growls. Dean drops his look to the ground, wondering aloud in his own head. "I just can't see there is any way of getting out, even if we do, then what? I don't even know how much time passed here, or on Earth, if the time even pass the same. Forty years in Hell is four months on Earth, what if a month here is a hundred years on Earth? Sam could be long gone, and Cas... I don't even know where Cas is or how's his war and everything... Everything might already be too late. God, I don't even get time to tell them anything."
+Cas growls. Dean drops his gaze to the ground, wondering aloud in his own head. "I just can't see any way of getting out. And even if we do, then what? I don't even know how much time has passed here, or on Earth, if time even passes the same. Forty years in Hell was four months on Earth, what if a month here is a hundred years on Earth? Sam could be long gone, and Cas... I don't even know where Cas is or how his war is and everything... Everything might already be too late. God, I didn't even get time to tell them anything."
 
-Dean whimpers. The monster he named Cas moves closer, lowering its body, leaning its body onto Dean's side. The twisted charred bones on its back twitches, looking like at an attempt to reach out, to touch him.
+Dean whimpers. The monster he named Cas moves closer, lowering itself, leaning its massive body against his side. The twisted charred bones on its back twitch, looking like at an attempt to reach out, to touch him.
 
-Dean shakes his head. "You're not even real Cas, I don't know why I even keep calling you that, I don't even know why I didn't kill you like I killed all the other monsters. I must be losing my mind. Sometimes maybe I was even hoping if I'm ended by some monster here -- maybe could even be you -- then I can stop thinking about all those, things can finally end for good. Talking about peace, eh?"
+Dean shakes his head. "You're not even real Cas, I don't know why I keep calling you that, I don't even know why I didn't just kill you like I killed all the other monsters." He laughs once, dry. "I must be losing my mind. Sometimes maybe I was even hoping if I'm ended by some monster here -- maybe could even be you -- then I could stop thinking about all this. Things could finally end for good. Talk about peace, eh?"
 
-The creature's eyes meet his, larger and more glaring than ever, bluer and sadder than ever, getting watery on edge even. It makes some sounds from deep below the throat, low and wet, like sobbing.
+The creature's eyes meet his, larger and more glaring than ever, bluer and sadder than ever, getting watery on the edges even. It makes a sound from deep in its chest, low and thick and wet, like sobbing.
 
-Dean swallows, touching its side, pressing his head on its scales to let the cool sensation pass through his forehead. He sighs, taking a long breathe. "Sorry." Not sure if it's to make the creature or himself feel better.
+Dean swallows. He reaches out, touching its side, pressing his head against its scales to let the cool sensation seep through his forehead. He sighs, taking a long breath. "Sorry." Not sure if it's to make the creature or himself feel better.
 
-He wipes his face with the back of his hands, then does the same for the monster. The tears dropping from its cheek, dipping his fingers wet. "Guess it's not for nothing, at least there's still you -- whatever you are -- still want me kicking around, right, buddy?"
+He wipes his face with the back of his hand, then does the same for the monster. The tears slipping down its cheek wet his fingers. "Guess it's not for nothing, at least there's still you -- whatever you are -- still wanting me to keep kicking around. Right, buddy?"
 
-He pats its shoulder twice, gentle, a little higher than the shoulder blade where the wing stretches out -- he's starting to get to know where is safe to touch that wouldn't make a pained sound from the creature.
+He pats its shoulder twice, gentle, just a little higher than the shoulder blade where the wing stretches out -- he's starting to figure out where is safe to touch that wouldn't make a pained sound from the creature.
 
 "Let's keep rolling then, you and me, Thelma and Louise, monster version. Who knows, maybe one day we'll reach the cliff and maybe the jump is the way out."
 
@@ -1027,59 +1027,59 @@ They keep moving.
 
 Cas is healing. Dean can't help noticing.
 
-Every time it swallows a monster's head or heart, its eyes would lighten up a little, and after that, some wounds and cuts would heal up -- even just a little bit. After a while, the gash on its leg becomes only a shallow scar, which goes away completely with the death of a pack of djinns.
+Every time it swallows a monster's head or heart, its eyes light up a little, and after that, some wounds and cuts begin to close -- even just a little bit. After a while, the gash on its leg becomes only a shallow scar, which goes away completely with the death of a pack of djinns.
 
-"Why don't we go hunting some bigger things? Bet they'll do you real nice and comfy." Wiping away the blood on his blade with the sleeve, Dean considers and asks.
+"Why don't we go hunt some bigger things? Bet they'll do you real nice and comfy." Wiping the blood from his blade with his sleeve, Dean considers aloud.
 
 Cas narrows its eyes, questioning.
 
-Dean goes, "Eating makes man stronger, I get that. Souls or lives or whatever, you need them, don't you? I mean, I don't have many things on my calendar this time of the year, and we mostly just wait for attacks to get to them. I was thinking, you obviously could get better a lot faster if you eat more, why don't we raid some monster nests and get them for you? Surely dine-in tastes better than delivery?"
+Dean goes, "Eating makes a man stronger, I get that. Souls or lives or whatever it is, you need them, don't you? I mean, I don't have many things on my calendar this time of year, and we mostly just wait for attacks before getting to them. I was thinking, you obviously could get better a lot faster if you ate more, why don't we raid some monster nests and get them for you? Surely dine-in tastes better than delivery?"
 
-Cas hesitates, not looking very fancy of the idea.
+Cas hesitates, not looking very fond of the idea.
 
-Dean studies him, his eyes or whatever way he chooses to express himself lately, the way his head tilts or his paw moves. "You get what I'm saying?"
+Dean studies it -- its eyes or whatever way it chooses to express itself lately, the way its head tilts or its paw shifts. "You get what I'm saying?"
 
-Cas nods once, but the muscle on his face furrows, closest thing to a human frown.
+Cas nods once, but the muscle on its face tightens, the closest thing to a human frown.
 
 "Why? You don't like it?"
 
-Cas looks up towards the distance, where some other creatures are howling, and looks back at Dean, eyes flowing with concern.
+Cas glances off into the distance, toward where some other monsters are howling, then looks back at Dean, eyes flowing with concern.
 
-"You're worried about me." Understanding reaches him, Dean huffs a laugh, twisting his wrist to show off how he could juggle the blade around to kill whatever would stand in their ways.
+"You're worried about me." The realization clicks, and Dean huffs a laugh, twisting his wrist to show off how he can juggle the blade to kill whatever stands in their way.
 
-He pats the monster on the shoulder. "Don't be, I'm a damn good hunter, in case you don't already know. That's my job -- was -- anyway, killing monsters, hunting things, until it ends up ugly like this. 'Sides, I have you on my back, don't I?"
+He pats the monster on the shoulder. "Don't be, I'm a damn good hunter, in case you didn't already know. That's my job -- was -- anyway. Killing monsters, hunting things, until it ended up ugly like this. 'Sides, I've got you at my back, don't I?"
 
-Dean starts moving towards where the howling is the loudest.
+Dean starts moving toward where the howling is the loudest.
 
 Cas follows him closely behind.
 
 <br>
 
-They hit a shapeshifter nest, the nasty things are still the trickiest even after they're in Purgatory, changing shapes into people he knows. The family of the shapeshifters turn into his own family, Sam, Cas, Bobby, Jess, Mom, Dad, even himself, in a clean flannel. A big happy family reunion -- Purgatory version.
+They hit a shapeshifter nest. The nasty things are still the trickiest even in Purgatory -- changing into people he knows. The family of shifters turn into his own family -- Sam, Cas, Bobby, Jess, Mom, Dad, even himself, in a clean flannel. A big happy family reunion -- Purgatory version.
 
-"Hate the shifters." Dean murmurs under his breath, chopping the closest one's head off, which happened to be himself.
+"Hate the shifters," Dean mutters under his breath, chopping the closest one's head off, which happened to be wearing his own face.
 
 Cas bites off the shifter-Sam and shifter-Cas's heads.
 
-Soon enough, they take down the rest before the creatures even get a chance to change again or run away.
+Soon enough, they take down all the rest before the creatures even get a chance to change again or run away.
 
-"We make quite a good team, eh?" Dean looks around, the two of them are the only things left standing in the nest.
+"We make quite a good team, eh?" Dean glances around. The two of them are the only things left standing in the nest.
 
-Cas wanders deeper into the nest, reaching for the bite before moving back towards the exit.
+Cas wanders deeper into the nest, reaching for good bites before moving back toward the exit.
 
-"Buddy, think you left one behind." Dean reminds it, kicking the shifter-himself's head to Cas. Not sure if this is the very shifter he managed to kill years ago in St. Louis. If it is, then Fate is definitely a bitch that loves joking around and this bastard definitely has an obsession in using his face.
+"Buddy, think you left one behind," Dean calls, kicking the shifter-himself's head toward Cas. Not sure if this is the very same shifter he managed to kill years ago in St. Louis. If it is, then Fate is definitely a bitch that loves joking around and this bastard definitely had an obsession in using his face.
 
 Cas moves towards it, reluctant.
 
-Dean watches it. "What's the matter? Don't have the heart to take a snack because it has my pretty face?" Cas gives him a look. Dean chuckles. "You do know it's not me, right? I'm cool with you eating it -- me -- whatever, so what's your problem? Too shy to eat when I watch?"
+Dean watches it. "What's the matter? Don't have the heart to take a snack 'cause it's got my pretty face?" Cas gives him a look. Dean chuckles. "You do know it's not me, right? I'm cool with you eating it -- me -- whatever. So what's your problem? Too shy to eat with an audience?"
 
-Cas makes a voice that sounds awful lot like complain to Dean's ears, and finally absorbs the last shifter head. Dean watches blue white lights filling its eyes and dimming gradually, the wing bone on its back spreading a small angle from its folded twisted position, some scales drop, showing smooth skin underneath, the nails on its paws shrink back one inch or two.
+Cas makes a sound that's awful lot like a complaint to Dean's ears, but finally absorbs the last shifter head. Dean watches the blue white lights fill its eyes then dim gradually. The wing bone on its back spreads a small angle from its usual twisted fold. Some scales drop off, revealing smooth skin underneath. The nails on its paws shrink by an inch or two.
 
-Dean grins. "See? Told ya, feel good, right?"
+Dean grins. "See? Told ya. Feel good, right?"
 
-Cas murmurs something, might be a "Thank you." Even that voice sounds lighter and brighter, less monstrous than minutes ago, less incomprehensive to the extent Dean can guess the meaning from the syllables.
+Cas murmurs something, might be "Thank you." Even that voice sounds lighter and brighter, less monstrous than minutes ago, less incomprehensible to the extent Dean can guess the meaning from the syllables.
 
-"You're actually kinda adorable, can't believe I just said that. Come on, we might have enough time to find you a second dinner before heading back."
+"You're actually kinda adorable. Can't believe I just said that. Come on, we might have enough time to find you a second dinner before we head back."
 
 Things are looking good.
 
@@ -1095,51 +1095,51 @@ Things are looking good.
 >
 > Cas almost hurts Dean the moment he wakes up, guilty when realizing it's Dean, "way to say thank you", heal him, both recovered/healed
 
-(**Warning words** before the part: Gross description of eating weird things, including monster body parts. Minor dubious consent.)
+(**Warning words** before the part: Gross description of eating weird things, including monster body parts. Very minor dubious consent.)
 
 <br>
 
 Things are never good or easy or anywhere remotely like that in their whole lives. Dean should know.
 
-Cas is getting better, that's for sure. The wounds healing, the monstrous parts molting. The bones on its back stretch from the folded position, finally starts to look like wing bones, though there is still very few feathers left. Paws and furs and scales shrinking and dropping.
+Cas is getting better, that's for sure. The wounds healing, the monstrous parts molting. The bones on its back stretch from the folded position, finally starting to look like wing bones, though there are still very few feathers left. Paws and fur and scales shrinking and falling away.
 
-Dean has a hunch that this monster isn't a monster to start with, but a hunch is just a hunch, he can't know for sure. Some theories have crossed his mind, sure, but without knowing for certain, without being able to *talk* to the creature, what he knows is still a big pile of jack.
+Dean has a hunch that this monster wasn't a monster to start with, but a hunch is just a hunch, he can't know for sure. Some theories have crossed his mind, sure, but without knowing for certain, without being able to *talk* to the creature, what he knows is still a big pile of jack.
 
-All he can do is scratching his brain out wondering. And continue doing what he and the creature have been doing for god knows how long -- killing, and more killing, the endless killing and hunting. Story of his life.
+All he can do is scratch his brain out wondering. And continue doing what he and the creature have been doing for god knows how long -- killing, and more killing, the endless killing and hunting. Story of his life.
 
-And then, the Leviathans come back. They were never away, but now they are clearly back into the game, back with their dedicated appetite for them. And they come at the worst time.
+And then, the Leviathans come back. They were never really gone, but now they are clearly back in the game, back with their dedicated appetite for them. And they come at the worst time.
 
-Cas is going through another round of changing. It's happening more and more often lately. And the changing process is taking longer and more painful -- judging by its repressed moan and groan. All the scales on the left side of its body peel off, showing naked fresh skin not too different from human skins -- tender, and vulnerable. Dean isn't even sure if it's a good thing or bad. Certainly it's the worst timing when attacks are coming.
+Cas is going through another round of changing. It's been happening more and more often lately. And the process is taking longer and more painful -- judging by its repressed moans and groans. All the scales on the left side of its body peel off, showing naked fresh skin not too different from human skin -- tender, and vulnerable. Dean isn't even sure if it's a good thing or bad. Certainly it's the worst timing when attacks are coming.
 
-Cas is moaning lowly with fear. They're surrounded.
+Cas moans lowly with fear. They're surrounded.
 
-The way those Leviathans approach and circle them, Dean has the vague impression they have the same amount of interest just last time Castiel was here. The only times they show such dedicated focus on one thing.
+The way those Leviathans approach and circle them, Dean has a vague impression they have the same amount of interest just last time Castiel was here. The only times they've shown such dedicated hunger on one thing.
 
-"Back off!" He yells, tightening his grip on the blade, stepping back until his back is pressed to the familiar body warmth. "It's just called Cas, not even the real Cas!"
+"Back off!" he yells, tightening his grip on the blade, stepping back until his back is pressed to the familiar body warmth. "It's just called Cas, not even the real Cas!"
 
-The leading Leviathan widens its ugly mouth and laughs, the sound so shrieking that the distant howling of other monsters silenced in terror. "You know nothing." It mocks him, gloating. "We can smell the angel from across the land. Don't know what he did to himself, but now it's back to the delicious dinner flavor."
+The leading Leviathan widens its ugly mouth and laughs, the sound so shrill that distant howling from other monsters silenced in terror. "You know nothing," it mocks, gloating. "We can smell the angel from across the land. Don't know what he did to himself, but now he's back to the delicious dinner flavor."
 
-Dean's heart sinks, he glances at *Cas* in shock, meeting its -- his -- equally heartbroken eyes. Cas isn't exactly back to a form he can recognize him in confidence yet, but somehow, deep down, he thinks he already knew it's true, he just hasn't allowed himself to believe.
+Dean's heart sinks. He glances at *Cas* in shock, meeting its -- his -- equally heartbroken eyes. Cas isn't exactly back to a form Dean can fully recognize him with confidence yet, but somehow, deep down, he thinks he already knew it's true, he just hasn't allowed himself to believe it.
 
 He pushes the sick feeling down, for now. The Leviathans are still here.
 
-"It doesn't matter." Dean straightens the face, raising the blade. The body closest to him is still radiating heat in this cold bleak place, the familiar source of comfort.
+"It doesn't matter." Dean straightens the face, raising the blade. The body closest to him still radiates heat in this cold bleak place, a familiar source of comfort.
 
-Dean pulls the tip of his lips, ghosting a smile. "Whatever he is. You are still gonna die. All of you."
+Dean pulls the corner of his lips into a ghost of a smile. "Whatever he is, you are still gonna die. All of you."
 
-The wave of attacks are thrown onto them without warning. The leading Leviathan is fierce and enormous, when it opens the mouth, there are layers upon layers of teeth, all long and sharp like blades, a cave of teeth.
+The wave of attacks slams into them without warning. The lead Leviathan is fierce and enormous, when it opens its mouth, there are layers upon layers of teeth, all long and sharp like blades, a cave of teeth.
 
-Dean swings his bone blade at it, it doesn't dodge, and the blade does little. Black liquid leaking from the contact, the blade sinking into a body that is definitely not flesh and blood. He gets thrown out of the way, his head knocking onto a rock in the ground, falling unconscious.
+Dean swings his bone blade at it, it doesn't dodge, and the blade does little. Black liquid leaking out at the contact, the blade sinking into a body that is definitely not flesh and blood. He gets thrown out of the way, his head knocking onto a rock in the ground, falling unconscious.
 
 The last thing he hears before the black curtain draws in front of his eyes is Cas's pained yell that sounds nothing other than his own name.
 
-Then the blinding lights of grace explosion and the darkness fall on him in the same time.
+Then the blinding light of a grace explosion and the darkness fall on him in the same time.
 
 <br>
 
 His head hurt like son of a bitch.
 
-Dean curses as the sensation draws back into his body, knowing for sure if the pain is still here, he isn't going anywhere else, therefore definitely isn't dead in the monster afterlife, yet.
+Dean curses as the sensation drags him back into his body, knowing for sure if the pain is still here, he isn't going anywhere else, therefore definitely isn't dead in the monster afterlife, yet.
 
 "Cas." His mind kicks back online, that's the first word popped in. He snaps open his eyes.
 
@@ -1147,63 +1147,63 @@ He is safe and sound, comfortable even, resting close to a source of warmth and 
 
 Dean has to keep reminding himself the thing is a he, it's Cas, he's Cas.
 
-"God, it's so messed up." He frowns tight, dragging himself on feet, staggering. The back of his head is still throbbing. He tries to ignore it. A painkiller would be his heaven right this moment.
+"God, it's so messed up." He frowns tight, dragging himself to his feet, staggering. The back of his head is still throbbing. He tries to ignore it. A painkiller would be heaven right this moment.
 
-"Hey, buddy." He reaches a hand towards Cas, touching his back, shaking gently. Only to feel a handful of stickiness. Castiel's eyes are shut tight, not moving an inch.
+"Hey, buddy." He reaches a hand toward Cas, touching his back, shaking him gently. Only to feel a handful of stickiness. Castiel's eyes are shut tight, not moving an inch.
 
-His stomach knits into a knot, sinking to the bottom. "No, no, no. Cas! Cas!" His palm is full of blood, fresh and iron sweet, tempting his own vamp fangs sticking out on instinct.
+Dean's stomach knits into a knot, sinking straight to the bottom. "No, no, no. Cas! Cas!" His palm comes back full of blood, fresh and iron sweet, tempting his own vamp fangs sticking out on instinct.
 
-Dean swallows hard, holding back the breath just in case he can't restrain himself. His throat screams in thirst, he forces it all down.
+Dean swallows hard, holding his breath just in case he can't restrain himself. His throat screams in thirst, he forces it down.
 
-It is only then does he see the new wounds on Cas's body. The new tender skin that is no longer covered by scales is torn wide open, his internal organs are exposed to the air, mixed with sluggishly flowing light. Grace hesitates on the threshold, moving in and out. The newly spread out wing bone on his back are snapped broken, almost twisted in half, looking worse even than before, hanging pitifully with the body only to the second joint. Corner of his mouth is still dripping blood of his own.
+It is only then does he see the new wounds on Cas's body. The new tender skin that is no longer covered by scales is torn wide open, his internal organs are exposed to the air, mixed with sluggishly flowing light. His grace hovers on the threshold, moving in and out. The newly spread wing bones on his back are snapped broken, almost twisted in half, looking worse even than before, hanging pitifully from the second joint. Blood trickles from the corner of his mouth.
 
-Dean's hands are shaking, panic rising. He reaches for a breath under Cas's nose, testing his pulse on his throat. The tiniest air flow blows onto his skin, the pulse is so weak that he almost misses it. But it's still there. Cas is hanging on the last breath. He hasn't lost him, yet.
+Dean's hands are shaking, panic rising. He reaches for breath under Cas's nose, tests for a pulse on his throat. The tiniest flow of air brushes against his skin, the pulse is so faint that he almost misses it. But it's still there. Cas is hanging on by a thread. He hasn't lost him, not yet.
 
-Dean breathes out, stepping back, pacing. "Okay, okay, not too late, not bad, hang in there, buddy. What do I do, what do I do."
+Dean breathes out, stepping back, pacing. "Okay. Okay. Not too late, not bad. Hang in there, buddy. What do I do? What do I do?"
 
-He glances around them. The Leviathans that were there before are all pieces and tears like exploded balloons now, but the black slime is still moving, one pile wriggling towards another, trying to glue themselves back together.
+He glances around. The Leviathans that were there before are all pieces and tears like exploded balloons now, but the black slime is still moving, one pile slithering toward another, trying to glue themselves back together.
 
-Dean picks up a dip with the tip of his blade, checking. "This is just disgusting." He looks back at Cas. "What do you think, this thing is edible or not? Would it make you better?"
+Dean picks a dip up on the tip of his blade, inspecting it. "This is just disgusting." He looks back at Cas. "What do you think, this thing is edible or not? Would it make you better?"
 
 Cas doesn't stir the slightest for any answer.
 
-Dean has to answer it for himself. "Yeah I agree, can't be too picky right now, am I right?"
+Dean has to answer it for himself. "Yeah, I agree, can't be too picky right now, am I right?"
 
-He holds a pile of the black goo in his palms, moving back to Cas, touching his lips. "Open up, Cas, dinner's ready."
+He scoops a pile of the black goo into his palm, walking back to Cas, and touches it to his lips. "Open up, Cas. Dinner's ready."
 
-Cas's mouth is closed tight, not any gap he can slide the "food" in.
+Cas's mouth is closed tight, not any gap he can slide the "food" through.
 
-Dean stares at him, frowning, desperate. "God, why does everything have to be so difficult."
+Dean stares at him, frowning, desperate. "God, why does everything have to be so difficult?"
 
-Heart drumming, looking around, there is nothing around in visible distance, certainly no *one* around would see them.
+Heart pounding, glancing around, there is nothing around in visible distance, certainly no *one* around would see them.
 
-Dean breathes out, looking at Cas's closed eyes. "Sorry, no other way, don't say I take advantage of you when you're out, alright? Desperate times."
+Dean breathes out, looking at Cas's closed eyes. "Sorry, no other way. Don't say I took advantage of you when you were out, alright? Desperate times."
 
-He takes the goo into his own mouth, trying his best blocking out the disgusting slimy texture and bitter taste. Kneeling down so he's in the same height as Cas's mouth where his monster body lays, Dean presses their lips together, pushing the "food" through.
+He takes the goo into his own mouth, trying his best to block out the disgusting slimy texture and bitter rot taste. Kneeling down so he's at the same height as Cas's mouth where his monster body lays, Dean presses their lips together, pushing the food through.
 
-Cas's lips are dry and frustose, rough like tree trunk, taste like copper and iron with a lingering taste of fragrant sweetness from blood. But at least it's opening now under the pressure, the remains of Leviathan slide in.
+Cas's lips are dry and frustose, rough like tree bark, tasting like copper and iron with a lingering note of fragrant sweetness from blood. But at least it's opening now under the pressure, the remains of Leviathan slide in.
 
 Dean watches his throat swallow, backing from his position, waiting.
 
 Nothing big happens. No light show. But Cas's breath evens.
 
-"Guess it's doing something then." Dean almost grins, breathing out in relief.
+"Guess it's doing something then." Dean almost grins, exhaling in relief.
 
-He licks his own lips, not realizing he's swallowing the residual taste of sweetness. When he does, he freezes. The taste is from the blood he touched accidentally on Cas's lips, Cas's blood, the sweet taste of angel blood. No wonder the Leviathans are gathering to him like flies to banquet.
+He licks his own lips, not realizing he's swallowing the residual taste of sweetness. When he does, he freezes. The taste is from the blood he touched accidentally on Cas's lips, Cas's blood, the sweet taste of angel blood. No wonder the Leviathans were gathering to him like flies to a feast.
 
-The vampire part of instinct starts fighting for control in his brain, all he can taste and smell now is that specific exotic sweet-smelling. He can hear the blood flowing through Cas's vain now, slowly, as he's heartbeat is so weak -- something he's been trying to block out whenever the two of them are close.
+The vampire part of instinct starts fighting for control in his brain, all he can taste and smell now is that specific exotic sweetness. He can hear the blood flowing through Cas's veins now, slowly, faintly, as his heartbeat is so weak -- something he's been trying to block out whenever the two of them are close.
 
-Cas is dying and he's losing it. Dean tightens his fists and knocks it to his own head, desperately trying to clear his own mind.
+Cas is dying and he's losing it. Dean clenches his fists and knocks it to his own skull, desperately trying to clear the hunger from his brain.
 
-"Not now!" he warns himself. "I'll kill you before you ever even think about draining him!"
+"Not now!" he growls at himself. "I'll kill you before you ever even think about draining him!"
 
-He throws himself further away, taking in the repulsive remnants of Leviathans and leaving them on his tongue, hoping in vain that the disgusting bitter flavor could force back the throbbing hunger and desire. His fangs refuse to shrink back into his gum.
+He throws himself farther away, taking in another repulsive clump of Leviathans sludge, and leaving them on his tongue, hoping in vain that the disgusting bitter taste could be vile enough to chock down the throbbing hunger and desire. His fangs refuse to shrink back into his gum.
 
-His steps are shaky, hands trembling, but he manages to move back to Cas, kneeling down again like the first time. Forcing the brain to think of only two things in the world that matters: "Cas is dying" and "Cas needs me."
+His steps are shaky, hands trembling, but he manages to stagger back to Cas, kneeling down again like the first time. Forcing his brain to think of only two things in the world that matter: "Cas is dying" and "Cas needs me."
 
-He presses his lips onto Cas's, feeding him the source of strength he undoubtedly needs, then pulling away with a head so dizzy he can't even tell the direction.
+He presses his lips onto Cas's, feeding him the source of strength he undoubtedly needs, then pulls away with a head spinning so bad he can't even tell the direction.
 
-But it's working. He can hear heartbeat growing stronger, blood flowing faster in his veins. Which is making the situation increasingly difficult for him, but it's good. It's good. Cas is getting better.
+But it's working. He can hear it now, Cas's heartbeat growing stronger, blood flowing faster in his veins. Which is making the situation increasingly difficult for him, but it's good. It's good. Cas is getting better.
 
 So he does it again.
 
@@ -1211,73 +1211,73 @@ And again.
 
 <br>
 
-The burning thirst in his throat is like lava boiling. Dean thinks the vampire fever in him might literally burst into flame and burn him alive from the desire. His whole vision is turning red, with the smudge of blood on Cas's lips the cherry on cake.
+The burning thirst in his throat is like lava boiling. Dean thinks the vampire fever in him might literally burst into flames and burn him alive from the inside out with sheer desire. His entire vision is turning red, with the smear of blood on Cas's lips the cherry on cake.
 
 Dean thinks he could never hate himself more than he does now.
 
 He has to bite on his own wrist to ease the burning in his throat for a moment before continuing.
 
-He manages to continue feeding Cas without totally losing control. He doesn't know how long he can keep doing this, but he can't stop.
+He manages to continue feeding Cas without totally losing control. He doesn't know how much longer he can keep it up, but he can't stop.
 
 Cas's wounds are visibly healing. The bones are growing back.
 
 It takes ages, but they're getting there. The moves are getting familiar, turning into muscle memory.
 
-They finished off the pieces from the blasted Leviathans. Dean changes his strategies. He manages to move further, hunting more creatures and monsters on his own. Be it vampires or werewolves or wendigos or whatever they are, he just gulps them down, feeling the energy from their existence filling his inside, then goes back to the nest he manages to make out of a natural shelter and take Cas to, and feeds him mouth-to-mouth. Life-force energy flows with all body parts and blood is the best medium -- he'll have to write that down in his hunting journal somewhere.
+They finished off the remains of the blasted Leviathans. Dean changes his strategies. He ventures farther, hunting more creatures and monsters on his own. Be it vampires or werewolves or wendigos or whatever they are, he just gulps them down, feeling the raw energy of their existence filling his inside, then goes back to the nest he manages to make out of a natural shelter and take Cas to, and feeds him mouth-to-mouth. Life-force energy flows with all body parts and blood is the best medium -- he'll have to write that down in his hunting journal somewhere.
 
-Dean doesn't dare to move too far away or leave Cas alone unconscious for too long, so the trips are cutting short and trivial. It's tiring, but Dean manages it.
+Dean doesn't dare to go too far away or leave Cas alone unconscious for too long, so the trips are cutting short and trivial. It's tiring, but Dean manages it.
 
-The biggest question is, why is Cas still not waking up.
+The biggest question is why Cas is still not waking up.
 
-"Used up all your mojo stock for me again, didn't you?" Once, after making sure the flowing light of souls and energies have all gone through into Cas's mouth, Dean steps back, sitting down for some rest for himself, regarding Cas's shape.
+"Used up all your mojo stock for me again, didn't you?" Once, after making sure the flowing light of souls and energies has all gone through into Cas's mouth, Dean steps back, sitting down for some rest for himself, regarding Cas's shape.
 
-"Don't know how much you had to hunt and eat to get to this state, just to throw away and start from ground zero again." Dean frowns at him, wondering aloud. "Cas, why do you keep doing this?"
+"Don't know how much you had to hunt and eat to get to this state, just to throw it all away and start from ground zero again." Dean frowns at him, wondering aloud. "Cas, why do you keep doing this?"
 
 His best friend just has his eyes closed, quiet as always, not showing a sign that he hears him.
 
-Dean has helped clean him up, wipe his face and body decent without making the wounded parts worse. And with the feeds, he does look a lot better.
+Dean has helped clean him up, wiped his face and body carefully without making the wounded parts worse. And with the feeds, he does look a lot better.
 
-Dean checks him up every now and then, noticing the small improvements with every feed. The scales are gone gradually, so are the paws. The wings take the longest time, the feathers seem to have to grow back one at a time, like spring blossoms and buds, but they all look good, shiny black and healthy. Cas's face is back to recognizable too, the same face he's been seeing a little more than two years now plus however many days he's been in here, Dean has no idea how much he misses him.
+Dean checks him every now and then, noticing the small improvements with every feed. The scales are gone gradually, so are the paws. The wings take the longest time, the feathers seem to have to grow back one at a time, like spring blossoms and buds, but they all look good, shiny black and healthy. Cas's face is back to recognizable too, the same face he's been seeing a little more than two years now plus however many days he's been in here, Dean has no idea how much he misses him.
 
 "Cas."
 
 Sometimes he calls his name. Other times he prays.
 
-The Leviathans had said he is back to angel now, more or less, isn't it? So with some luck, maybe he can hear his prayers better than his words? Dean has to give it a shot.
+The Leviathans said he is back to angel now, more or less, isn't it? So with some luck, maybe he can hear his prayers better than his words? Dean has to give it a shot.
 
 *Cas, man, please, hear me. Wake up for me.*
 
 Dean thinks hard, more pleading than praying, but he doesn't really care. Anything to make things right again.
 
-Putting words through mind seems to be easier than making them out of the tongue.
+Putting the words in his head seems to be easier than making them out of his tongue.
 
 *I need you, buddy, you hear me? I need you breathing and kicking and alive, and we'll figure out the rest together. Just, come back to me. Cas, please.*
 
 Castiel's face remains stoic, calm even, as if he's just deep in sleep.
 
-Dean looks at him, having no clue what to do. Cas looks more human than ever -- he can be distant and all powerful when he shows up as an angel, he can be fearsome and terrifying as a monster, but now he just looks like a human plus the wings. Chest rising and falling, everything seems to be normal, just not waking up.
+Dean stares at him, having no clue what to do. Cas looks more human than ever -- he can be distant and all powerful when he shows up as an angel, he can be fearsome and terrifying as a monster, but now he just looks like a human, plus some wings. Chest rising and falling, everything seems to be normal, just not waking up.
 
-Dean presses the heels of his palms on his eyes, feeling it hot and wet. Hopeless.
+Dean presses the heels of his palms into his eyes, feeling them hot and wet. Hopeless.
 
 Eyes closed, he leans in, kissing the chapped lips, gentle. No soul to feed this time, just the touch.
 
-He doesn't even know why he does that, his own body pulls him forward, leading the motion, and it offers him comfort. And hope. As if saying if he can still do this, then there is still a way out, a way forward. His heartbeat soothes just as his lips caressing Cas's.
+He doesn't even know why he does that, his own body pulls him forward, leading the motion, and it gives him comfort. And hope. As if saying if he can still do this, then there is still a way out, a way forward. His heartbeat eases just as his lips caressing Cas's.
 
-That is when he feels the lips shift. There is a startled gasp, an immediate pull away, and a dumb punch in the face.
+That is when he feels the lips beneath his shift. There is a startled gasp, an immediate pull away, and a dumb punch in the face.
 
 Dean jumps back, looking up.
 
-Cas is awake, pulled back from where he's lying, back pressed to the wall of the place Dean calls "home base" nowadays. Eyes panicked and shaky. Wings hidden away.
+Cas is awake, pulled away from where he'd been lying, back pressed to the wall of the place Dean calls "home base" these days. Eyes panicked and shaky. Wings hidden away.
 
-Dean doesn't know what is that feeling in his gut, is that joy or hurt, or both, maybe.
+Dean doesn't know what that feeling in his gut is -- is that joy or hurt, or both, maybe.
 
-"Cas, Cas, it's me, it's okay." He rushes, holding out a hand like when he needs to calm a startled animal. "You're safe, it's just me."
+"Cas, Cas, it's me, it's okay." He rushes, holding out a hand like when he needs to soothe a startled animal. "You're safe, it's just me."
 
-The blue eyes falls on him, recognition rises. "Dean." He breathes out. The voice hoarse from lack of use, but it's human words. He looks around the place, looks down on himself, checking the fingers and behind his back, then looks Dean up and down. Eyes shining with disbelief.
+The blue eyes land on him, recognition flickers. "Dean." He breathes out. The voice is hoarse from lack of use, but it's human words. Castiel looks around the place, looks down on himself, inspecting his fingers and behind his back, then looks Dean up and down. Eyes shining with disbelief.
 
 Dean manages a smile. "Yeah, buddy. It's me. Welcome back."
 
-Cas shifts the posture and sits straight, fingers touching his own lips, slow, as if reliving that lingering aftertaste. Dean feels blush rising up his cheek in the same place where he's punched, he rubs the place, trying in vain to hide it.
+Cas adjusts his posture and sits straighter, his fingers touching his own lips, slow, as if reliving that lingering aftertaste. Dean feels blush rising up his cheek in the same place where he's punched. He rubs the place, trying in vain to hide it.
 
 "What was that?" Cas looks at him again, gaze following his fingers.
 
@@ -1289,23 +1289,23 @@ Cas shifts the posture and sits straight, fingers touching his own lips, slow, a
 
 Cas raises an eyebrow in question. Dean finds his throat tight.
 
-He sighs. "Sleeping beauty, Princess, everyone knows the story, true love's kiss breaks all curses --" Cas opens his mouth, Dean rushes through, "-- which is probably just some coincidence! Can we just leave it like that?"
+He sighs. "Sleeping beauty, Princess, everyone knows the story, true love's kiss breaks all curses --" Cas opens his mouth, Dean barrels on, "-- which is probably just some coincidence! Can we just leave it like that?"
 
-Cas closes his mouth, lowering his eyes. "Yes, we can just leave it like that." Then, "I'm sorry."
+Cas closes his mouth. His eyes drop. "Yes, we can just leave it like that." Then, "I'm sorry."
 
 "For what?"
 
 Cas looks up, guilt written all over his face. "Everything."
 
-"Well, if you mean punching me in the face for waking you up, there're indeed better ways to say thank you." Dean swallows the feeling that is rising in his gut seeing the way Cas's eyes look, but he can't parse any of the meanings.
+"Well, if you mean punching me in the face for waking you up, there're indeed better ways to say thank you." Dean swallows down the feeling that is rising in his gut seeing the way Cas's eyes look, but he can't parse any of the meanings.
 
-"Not just that." Cas hesitates, but still, reaching a hand with two fingers pointed out, reaching for his cheek that is slightly getting swollen from the punch. "May I?"
+"Not just that." Cas hesitates, but still, reaching out a hand with two fingers pointed out, aiming for his cheek that is slightly getting swollen from the punch. "May I?"
 
-Dean holds his gaze, putting his hands down, nodding once.
+Dean holds his gaze, lowering his own restless hands, and nods once.
 
-The heated sensation on his cheek goes away, so is the other small pain and wounds all over his body he doesn't realize he has. Even his shirts and jeans get cleaned up and smoothed down like coming fresh out of washing and ironing.
+The heated sensation on his cheek fades, so do all the other small aches and wounds all over his body he hadn't really noticed. Even his shirts and jeans get cleaned up and smoothed down like coming fresh out of washing and ironing.
 
-Looking back in the angel's briefly brightened up eyes, Dean gives him another small smile. "Thanks Cas, good to have you back."
+Looking back into the angel's briefly brightened up eyes, Dean gives him another small smile. "Thanks Cas, good to have you back."
 
 Castiel swallows, not returning the smile. "There is something I have to tell you."
 
