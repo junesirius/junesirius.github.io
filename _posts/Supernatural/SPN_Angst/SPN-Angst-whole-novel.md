@@ -1811,117 +1811,115 @@ Dean looks up, recognizing the guy in the V-collar shirt and casual suit. Only o
 
 "Balthazar." Castiel walks toward him slowly.
 
-Dean and Bobby trade a look. Never a good news when angels make house calls. They learned it the hard way.
+Dean and Bobby trade a look. Never any good news when angels make house calls. They learned it the hard way.
 
-"A bit busy here," Dean says, not in his friendliest manner, "What you want?"
+"A bit busy here," Dean says, not in his friendliest manner. "What do you want?"
 
-"Knew I could find you here, Cas." Balthazar straightforwardly ignores Dean, speaking directly to Cas. "Haven't seen you for a while."
+"Knew I'd find you here, Cas." Balthazar straightforwardly ignores Dean, speaking directly to Castiel. "Haven't seen you in a while."
 
-Cas squints slightly. "We have met recently."
+Cas squints slightly. "We met recently."
 
-"Yes, yes, but not after you get a full system upgrade." Balthazar stops moving when he's in front of Castiel at least two steps away. "You forgot to share your summer plan with the rest of the class, Cas. We are worried."
+"Yes, yes, but not after you got a full system upgrade." Balthazar stops moving when he's in front of Castiel at least two steps away. "You forgot to share your summer plans with the rest of the class, Cas. We are worried."
 
-Dean eyes them skeptically. "Didn't see you helping if you're really that worried." He chimes in.
+Dean eyes them skeptically. "Didn't see you helping if you're really that worried," he chimes in.
 
-Balthazar gestures at him casually, still talking with Cas, "I see you're still hanging out with the hairless apes. To be honest, I'm surprised your new charged batteries haven't burned their eyes out yet."
+Balthazar gestures at him casually, still talking with Cas, "I see you're still hanging out with the hairless apes. To be honest, I'm surprised your newly charged batteries haven't burned their eyes out yet."
 
-That gets Dean's attention. "What are you talking about?"
+That gets Dean's attention. "What the hell are you talking about?"
 
-Balthazar finally meets him in the eyes, "Oh, am I the only one in the room noticing our Cas here is buzzing with energy? Upstairs already got a power meter overload, red alerts everywhere. The last time it happened, let me see, ah, never. Not once since God left the building. You are about all God-level power now, Cas. Let me guess, you already found Purgatory and took everything? That's practically blowing the battle horn. Want to take a bet how soon Uncle Raphael will find out and come pay a visit?"
+Balthazar finally meets him in the eyes, "Oh, am I the only one in the room noticing our Cas here is buzzing with energy? Upstairs already got a power meter overload, red alerts everywhere. Last time it happened, let me see, ah, never. Not once since God left the building." He turns back to Castiel, "You are about all God-level power now, Cas. Let me guess, you already found Purgatory and took everything? That's practically blowing the battle horn. Want to take a bet how fast Uncle Raphael will find out and come pay a visit?"
 
-"God power, you say?" Dean tenses, turning to Cas, "How many souls did you take exactly, Cas?"
+"God power, you say?" Dean tenses, turning sharply to Cas. "How many souls did you take exactly, Cas?"
 
-Sam cuts in with triumph, "That's what I've been trying to say but you wouldn't listen, Dean." He picks up his pistol again, gesturing toward Cas, "The angel-killing bullet didn't do anything on him because he's not an angel anymore!"
+Sam cuts in triumphantly, "That's what I've been trying to say but you wouldn't listen, Dean." He picks up his pistol again, gesturing at Castiel. "The angel-killing bullet didn't do anything on him because he's not an angel anymore!"
 
-"You could have killed him!" Too much information dropped, Dean feels his head throbbing with fury and headache. He doesn't even want to know where Sam gets angel-killing bullets from.
+"You could have killed him!" Too much information dropped, Dean feels his head throbbing with fury and headache. He doesn't even want to know where Sam got angel-killing bullets from.
 
 He wants to find a paper and writes down all the things that need saving, and then crumples the paper and throws it out of the window.
 
-Cas is already making decisions for his moves, "I'll take the fight to Raphael before he comes here," he says to Balthazar, but his eyes flash Dean a quick glance, "then I need to go to the Cage to meet Michael and Lucifer again."
+Cas is already making decisions for his next moves. "I'll take the fight to Raphael before he comes here," he says to Balthazar, but his eyes flash Dean a quick glance. "Then I need to go to the Cage to meet Michael and Lucifer again."
 
-"Aren't you the busiest guy today, meeting three archangels in a day, is that a family dinner thing for your first day as God?" Balthazar jokes.
+"Aren't you the busiest guy today, meeting three archangels in a day, is that a family dinner thing for your first day as God?" Balthazar remarks dryly.
 
 Cas doesn't answer.
 
-The two of them starts heading outside.
+The two of them start heading outside.
 
 "Cas, no, don't, bad plan." Dean doesn't know what else to do except for stopping Cas on his way out. But they probably don't even need a door to get out. "Please, let's think about it. What about your little... Leviathan problem?"
 
-"What about it?" Cas looks down at his hands, the black goo is not dripping as much as it did when they first came back, but sure enough, he's still not fully well and himself.
+"What about it?" Cas looks down at his hands. The black ooze is not dripping as much as it did when they first came back, but sure enough, he's still not fully well and himself.
 
-"What are you gonna do if Dick takes over again when you're fighting Raphael or Lucifer?" Dean reasons.
+"You're like a trunk load of nuclear weapons, can't risk having the enemy get their hands on the red button, don't you think?" Dean reasons. "What are you gonna do if Dick takes over again when you're fighting Raphael or Lucifer?"
 
-"Then I die." Cas answers easily, "Or I don't die, and Leviathans kill the archangels, because rock beats scissors, Leviathan beats angel."
+"Then I die," Cas answers simply. "Or I don't die, and the Leviathans kill the archangels, because rock beats scissors, Leviathan beats angel."
 
-"Which always leaves the biggest shark in the tank, exactly." Dean suggests, "Why don't we take it strategically, then? Throw all of them in the same tank, let them fight. We watch on the bench with popcorns, how about that?"
+"Which always leaves the biggest shark in the tank, exactly." Dean suggests. "So why don't we take it strategically, eh? Throw all of them in the same tank, let them tear each other apart. We watch on the bench with popcorn, how about that?"
 
 "What happens to the winner?" Cas tilts his head.
 
 "Nothing. Whoever wins wins, but they are still in the tank -- in our case, it's the Cage." Dean says cheerfully, "If the Cage really is as good as everyone says it is, then we can just leave them there forever, all problems solved. No one dies and we come home happily ever after."
 
-Cas thinks about it, "It might actually work."
+Cas thinks about it. "It might actually work."
 
-A dark black vein crawls across Cas's cheek as he speaks, it moves over his eye briefly. Cas blinks far too many times. Then with a over compensated smile, he says, "Thank you, Dean. That's a really good advice. I'll definitely take it."
+A dark black vein creeps up Cas's cheek as he speaks, moving over his eye momentarily. Cas blinks rapidly, far too many times. Then with an over-compensated smile, he says over enthusiastically, "Thank you, Dean. That's a really good advice. I'll definitely take it."
 
-Castiel's body turns to the door ready to head out again.
+Castiel's body turns toward the door, ready to head out again.
 
-"Hey, Dick," Dean calls behind him again, "You do know it includes you too, right? In fact, I will personally make sure you're torn to pieces by the other big players because you're the worst."
+"Hey, Dick," Dean calls after him. "You do know it includes you too, right? In fact, I will personally make sure you're torn to pieces by the other big players, 'cause you're the worst."
 
-"And how are you planning to do that?" Castiel's eyes glance at him with cold black color.
+"And how exact do you plan to do that?" Castiel's eyes glance at him with cold black color.
 
-"Start with helping Cas get back the control." Dean takes a breath, holding his hands in fists. "You know what's the biggest advantage that Cas has but you don't?"
+"Start with helping Cas get back the control wheel." Dean takes a breath, clenching his hands into fists. "You know what's the biggest advantage that Cas has but you don't?"
 
 "Angel's big blue puppy eyes?" Dick smirks.
 
-Dean looks at him straight, "Me."
+Dean looks at him straight. "Me."
 
-"Then I'd just kill you first." Dick grabs Dean at the collar and throws him out to the junkyard.
+"Then I'd just kill you first." Dick grabs Dean by the collar and hurls him across Bobby's junkyard.
 
-His back hits a tree trunk with a thud, Dean climbs to his feet slowly with a suppressed pained smile, "I was hoping you'd say that."
+Dean's back hits a tree trunk with a sickening thud, he can hear the bones shifting and cracking as he climbs to his feet slowly with a suppressed pained smile. "I was hoping you'd say that."
 
-Dick in Castiel's body walks toward him in a beeline, but stumbles slightly on the steps. "I don't see how getting yourself killed can help your little angel friend in here."
+Dick in Castiel's body stalks toward him in a beeline, but stumbles slightly on the steps. The monster doesn't seem to notice. "I don't see how getting yourself killed can help your precious little angel friend in here."
 
 Dick chokes Dean's throat in one hand, and starts using the other fist to punch his face.
 
-Dean's pretty sure his nose is broken at the third or fourth punch. His face feels sticky, but he doesn't even bother blocking the attacks. He drops to his knees in the beat-up.
+Dean's pretty sure his nose is broken by the third or fourth hit. His face feels sticky, but he doesn't even bother blocking the punches. He drops to his knees, beaten and swaying.
 
-"Because you missed the private session." Dean keeps the smile on his likely totally messed-up face.
+"'Cause you missed the private session." Dean keeps the grin on his totally messed-up face, cracked and bloody.
 
-*Come on, Cas, take back control.*
+*Come on, Cas. Take back control.*
 
 "I see everything the angel sees," Dick beats him on the head with Castiel's hand, "I hear everything he hears. We are one." The fist is as heavy as iron, Dean sees stars in front of his eyes. He prays harder.
 
-*Cas, come on, need more motivation than this? I'm keeping him busy here, but not sure how much longer.*
+*Cas, come on. Need more motivation than this? I'm keeping him busy here, but not for long.*
 
-The next fist that's aiming for his eye socket avert the direction midway, ends up landing softly near his ear.
+The next punch that's aiming for his eye socket averts the direction midway, ends up grazing past his ear.
 
-Dean can barely keep his eyes open around the swollen flesh. His breath is choked short.
+Dean can barely keep his eyes open around the swelling. His breath is choked short.
 
-*Cas, come back to me. I need you here. I know you're stronger than these bastards. Come back to me if you love me.*
+*Cas, come back to me. I need you. I know you're stronger than these bastards. Come back to me if you love me.*
 
-The grip on his throat loosens. Dean looks up, running right into the unmistaken blue eyes of Cas's.
+The grip on his throat loosens. Dean looks up, running right into the unmistakable blue eyes of Cas's.
 
-The next hand reaching toward him touches his forehead with two fingers. Dean can practically hear all the bones and flesh in his body and on his face shift back to where they should.
+The next hand reaching toward him touches his forehead with two fingers. Dean can practically hear all the bones and flesh in his body and on his face shift back to where they should, the bruises healing, the wounds knitting back together.
 
 "Welcome back," Dean tells Cas.
 
-"How long have you known it's not me?" Cas pulls him up from the kneeling position.
+"How long have you known it wasn't me?" Cas pulls him up from his knees.
 
-"Since you are too eager to jump the tank with the big guns alone without even asking, because we had an agreement, didn't we?" Dean leads them both back into the house.
+"Since you were too eager to jump into the tank with the big guns alone without even asking. We had an agreement, didn't we?" Dean leads them both back into the house.
 
-"And how do you know this could work?" Cas looks at him with a disapproved look, "I could have killed you."
+"And how did you know that would work?" Cas looks at him with a disapproved look, "I could have killed you."
 
-"One, this isn't you." Dean counts with his fingers, pointing the "one" at Cas to get more of his attention, "And two, I know now you'd do anything to stop any harm in my way, so I figure that should be enough motivation to get back behind the wheel."
+"One, it wasn't you." Dean counts with his fingers, pointing the "one" at Cas to get more of his attention. "And two, I knew now you'd do anything to stop any harm in my way, so I figured that should be enough motivation to get back behind the wheel."
 
-Cas ducks his head. "Dean, now that I'm myself again, may I propose that we go to Heaven then Hell together?"
+Cas ducks his head. Quiet. Then, "Dean, now that I'm myself again, may I propose that we go to Heaven then Hell together?"
 
-Dean answers with a smile, "Don't use the word 'propose' in a sentence like that again unless you mean honeymoon. And yes, let's kick some fat asses."
+Dean answers with a smile. "Don't use 'propose' like that again unless you mean honeymoon. And yeah, let's kick some fat asses."
 
 <br>
 
 #### draft notes
-
-Cas is like a trunk load of nuclear weapon, can't let the enemy have the red button now
 
 joke about morally grey: dark grey/light grey
 
