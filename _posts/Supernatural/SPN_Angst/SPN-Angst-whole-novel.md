@@ -1945,7 +1945,7 @@ He's not sure what he expected, but it certainly wasn't troops lined up face-to-
 
 The field stretches wild, one side opening to the sea, the other against a high city wall. Their itinerary doesn't include going to Troy today, though.
 
-Dean notices the force that gathers near the city wall are easily outnumbered by the other side tens or hundreds of times over.
+Dean notices the force that gathers near the city wall is easily outnumbered by the other side tens or hundreds of times over.
 
 "That yours?" Dean nods toward the outnumbered group.
 
@@ -1957,11 +1957,11 @@ Cas nods. "I did my best, and those are all the angels believing in free will an
 
 "One-on-one dueling style?" Dean eyes him from the side.
 
-"I believe so," Cas scans the field.
+"I believe so." Cas scans the field.
 
 "Does that make me your stable boy or squire or something?" Dean suddenly frowns lightly. "You got one of those shiny fighting dresses I can assist you to wear?"
 
-Castiel is almost flustered, turning to face Dean directly. "No, Dean, you're not my servant. I would never ask you to do such thing."
+Castiel is almost flustered, turning to face Dean directly. "No, Dean, you're not my servant. I would never ask you to do such a thing."
 
 "Easy, Prince, just a joke." Dean chuckles.
 
@@ -1969,7 +1969,7 @@ Castiel is almost flustered, turning to face Dean directly. "No, Dean, you're no
 
 They arrive at the center of the field with maybe a hundred thousand eyes on them. Dean spots Balthazar standing at the front of Cas's army. On the opposite side, Raphael shows up in a female vessel.
 
-The two of them step into the very center line between the two troops. Raphael meets them there with a stoic look. Two of her angels stand guard ten paces behind her. Dean doesn't really know if anything happened to Raphael, what's the use of them -- surely something can't handled by an archangel is above average paygrade angels.
+The two of them step into the very center line between the two troops. Raphael meets them there with a stoic look. Two of her angels stand guard ten paces behind her. Dean doesn't really know if anything happened to Raphael, what's the use of them -- surely something can't be handled by an archangel is above average paygrade angels.
 
 "Are you here to surrender, Castiel?" Raphael calls haughtily.
 
@@ -1995,7 +1995,7 @@ Castiel does not even blink. His grip on Raphael's throat tightens, as effortles
 
 The light from the archangel's wings flickers. She dangles pitifully in midair like a ragged doll, struggling vainly against Castiel's grasp.
 
-With a last desperate try, Raphael throws her blade out, aiming for Castiel's chest. The blade barely pierces the trench coat before dropping into the dirt, point-down.
+With a last desperate try, Raphael throws her blade out, aiming for Castiel's chest. The blade barely pierces the trench coat before dropping into the dirt, point down.
 
 Raphael's eyes widen with fear and uncertainty. Her two squire angels draw their swords and shields out and ready, but they do not approach.
 
@@ -2003,7 +2003,7 @@ The war is ended before it even begins.
 
 "I could kill you with a snap," Cas informs the archangel with his low grave voice, black goo drips from his fingers onto Raphael's throat, slipping beneath the armor she's wearing.
 
-Raphael still has the remnant of burning fury in her eyes, but the flame is dying into charred ash by each minute. The archangel knows by now she does not have any chance turning the tide, so she is wise enough to not even bother trying.
+Raphael still has the remnant of burning fury in her eyes, but the flame is dying into charred ash by each minute. The archangel knows by now she does not have any chance of turning the tide, so she is wise enough not to even bother trying.
 
 "What do you want to do then?" Raphael challenges.
 
@@ -2021,7 +2021,7 @@ Dean glances at Cas, who apparently has the answer prepared long before coming t
 >
 > Cas threaten ask Raphael if he will obey him now, Raphael fake comply, curse him fake God actual monster and most deserve the Cage, willing for mutual destruction and push Cas together fall into Cage
 
-The Hell ride is much smoother than Dean expects. Not a single demon in sight, not even Crowley. The stairs downward are an empty endless spiral stairs. It's only one step away from having a red-carpet homecoming party, another step in the other direction to be just a deserted construction building.
+The Hell ride is much smoother than Dean expects. Not a single demon in sight, not even Crowley. The stairs downward are an empty endless spiral stairs. It's only one step away from having a red-carpet homecoming party, another step in the other direction to be just a deserted construction site.
 
 They fly down to the lowest level.
 
@@ -2029,13 +2029,13 @@ The Cage hangs in an absolutely dark space with all but nothingness. Not even a 
 
 Cas conjures a torch and hands it to Dean.
 
-The Cage is chained by eight long thick iron chains, each locked on one corner of its cubical shape. Countless smaller strings extend from its edges and sides, taut like the threads of a spiderweb. The box does not swing the slightest in the midair.
+The Cage is chained by eight long thick iron chains, each locked on one corner of its cubical shape. Countless smaller strings extend from its edges and sides, taut like the threads of a spiderweb. The box does not swing the slightest in midair.
 
 Dean has to admit, this place looks a thousand times worse than the Pit. And he isn't even inside it yet.
 
 "Sam's in there?" Dean whispers with a bump in his throat.
 
-Cas nods quickly, his fingers nimbly dancing on the thinnest strings in the space that Dean doesn't even notice exist. Cas touches and tunes them one by one like unlocking the most complicated lock in history. Dean's eyes follow his fingers' movement closely, awed by the precision and complexity.
+Cas nods quickly, his fingers nimbly dancing on the thinnest strings in the space that Dean doesn't even notice exists. Cas touches and tunes them one by one like unlocking the most complicated lock in history. Dean's eyes follow his fingers' movement closely, awed by the precision and complexity.
 
 It indeed looks quite impossible to get in or out of that thing, by the look of its security system. Dean feels so much more confident about locking up some bad guys in there.
 
@@ -2051,7 +2051,7 @@ Dean glances at the glass cage. "But Sam's in there."
 
 "That's why I said 'would have', you wouldn't agree anyway." Cas nods in understanding.
 
-He flies the both of them into the Cage.
+He flies both of them into the Cage.
 
 <br>
 
@@ -2107,13 +2107,13 @@ Dean rushes to his side. Cas heals him with the lightest touch of his free hand.
 
 "Can you cure Sam too?" Dean asks, breathless, too overwhelmed worrying about everyone and everything. "Wipe those Hell memories for him or whatever horror he had to live through?"
 
-Cas edges to Sam's soul, placing a gentle palm over that trembling cloud of light. The bloody pink surface that looks awful lot like flayed skin in boiling water starts calming down. Dean watches the bubbling light cloud slowly ease down, reminded of how the cry baby Sammy used to be coaxed to sleep when he was still wrapped in a warm swaddle. Dean doesn't realize since when does a small smile curling onto his lips.
+Cas edges to Sam's soul, placing a gentle palm over that trembling cloud of light. The bloody pink surface that looks awful lot like flayed skin in boiling water starts calming down. Dean watches the bubbling light cloud slowly ease down, reminded of how the crybaby Sammy used to be coaxed to sleep when he was still wrapped in a warm swaddle. Dean doesn't realize since when does a small smile curling onto his lips.
 
 They manage to steal Adam too, in the end, with a small diversion strategy to draw Michael away from what's probably his favorite human pet or whatever's been going on between them.
 
 Michael growls at them furiously as Cas leaps out of the Cage with Dean -- along with Sam's soul and Adam's soul and broken body.
 
-Behind them, they can hear Lucifer unleashes his rage on his brother, and Michael returns the favor. Dean is too busy watching Cas and their rescues to notice any more of their little activities.
+Behind them, they can hear Lucifer unleashing his rage on his brother, and Michael returns the favor. Dean is too busy watching Cas and their rescues to notice any more of their little activities.
 
 Once outside, Castiel turns full-on into a god of healing -- patching Sam up with more delicacy than the rushed emergency patch a moment ago, then Adam. Fixing Adam's shattered body takes nearly as much effort as healing his soul, but Castiel finishes the work in the end. All the while Dean is thinking if that's exactly how Cas fixed his or Sam's body too -- the Winchester's guardian angel fixing all three brothers, is it a miracle or a duty fulfilled?
 
@@ -2183,29 +2183,29 @@ Cas drag Raphael to Cage to force him to watch
 >
 > on their way out Crowley doesn't give them trouble, they go home, HE
 
-(**Warning**: include a small jump scare scene like classic horror movies would)
+(**Warning**: Include a small jump scare scene like classic horror movies would)
 
 <br>
 
-"No, no, no! Not again!" Dean pounds on the glass window of the Cage. The material is definitely not really glass, and it's most certainly single sided and soundproof.
+"No, no, no! Not again!" Dean pounds on the glass window of the Cage. The material is definitely not really glass, and it's most certainly one-sided and soundproof.
 
-He can do nothing but just watch the bully show displaying inside the glass container -- the brutal shark in tank show with Cas's body on the meat hook.
+He can do nothing except for watching the sick bully show playing out inside -- the brutal shark in tank show with Cas's body on the meat hook.
 
-The three archangels form an ally within seconds. Cas's eyes shift between blue and black, Leviathan goo continuously falling out of him.
+The three archangels fall into alliance within seconds. Cas's eyes flicker between blue and black, Leviathan goo continuously falling out of him in thick strings.
 
-Lucifer jump-starts the first round of attack, with Michael -- now without Adam, he is more involved in the activity as well -- on Cas's left flank, and Raphael on his right. Castiel's body shakes like a winter leaf under their strike, the archangels stab him with the spiral blades, punch and kick and beat him from every direction.
+Lucifer jump-starts the first round of attack, with Michael -- now without Adam, he is more involved in the activity as well -- on Cas's left flank, and Raphael on his right. Castiel's body shakes like a winter leaf under their strikes, the archangels stab him with their spiral blades, punching and kicking and beating him from every direction.
 
-Within seconds, Castiel's body slumps to the ground, blood and goo flowing from broken junctions and wounds. His eyes droop sluggishly with barely any light in the pupils.
+Within seconds, Castiel's body collapses to the ground, blood and goo flowing from broken joints and torn flesh. His eyes droop sluggishly with barely any light in the pupils.
 
 *Cas, come on, stand up.*
 
-Dean presses his palm on the glass wall, begging desperately.
+Dean presses his palm against the Cage wall, begging desperately.
 
-The prayer must have reached him, for the angel turns his head toward the side of the wall Dean's near. The attacks from the three archangels are continuing, but he seems to forget about them at this moment.
+The prayer must have reached him, for the angel turns his head toward the side of the wall Dean's near. The attacks from the three archangels continue landing, but he seems to forget about them for just a moment.
 
 Dean watches him hopelessly.
 
-Castiel's broken lips move. Once, with three words. Then, with another three words.
+Castiel's broken lips move. Once, with three words. Then, with another three.
 
 Dean doesn't need to hear or know about lip language to recognize them.
 
@@ -2213,25 +2213,25 @@ Dean doesn't need to hear or know about lip language to recognize them.
 
 *I love you.*
 
-"NO!!" Dean punches the wall of the Cage with all his forces. His fists are covered with his own blood.
+"NO!!" Dean slams the wall of the Cage with all his forces. His fists are covered with his own blood.
 
-That is when Castiel's eyes brighten up. It lightens up the whole dark space like a sun, and it continues growing and glowing like an exploding supernova.
+That is when Castiel's eyes brighten up. It lights up the whole dark space like a sun, and it continues growing and glowing, blazing into an exploding supernova.
 
-Dean shuts his eyes close but even then, the blue white lights pierce through his eyelid, burning his vision bright bloody red.
+Dean shuts his eyes close but even then, the blue white light sears through his eyelids, burning his vision bright, turning the dark world bloody red.
 
 The sound is isolated inside the Cage, so is all the energy unleashed. The Cage barely shakes when the light recedes.
 
 *Cas.*
 
-Dean opens his eyes the moment he decides it's not going to blind him. He doesn't even realizing he's sobbing when tears falling down his cheek. He doesn't have the courage to look inside the Cage again for a long minute.
+Dean opens his eyes the moment he decides it's not going to blind him. He doesn't even realize he's sobbing when tears falling down his cheeks. He doesn't have the courage to look back into the Cage again for a long minute.
 
-The Cage is an explosion debris. White smokes haven't fully dissipated, colors smudging all over the space -- red is blood, black is Leviathan goo, mixing together with white and blue light, like a dirty distained tragedy scene after massive deaths.
+The Cage is a post-explosion debris. White smokes haven't fully dissipated, colors smudging all over the space -- red is blood, black is Leviathan goo, mixing together with white and blue light, like a distained tragic scene after massive deaths, a battlefield from Picasso's paintings and Homer's poems.
 
-*I love you too.* Dean presses his forehead on the glass, breath uneven, tears shredding. His lips tremble with one word: "Cas."
+*I love you too.* Dean presses his forehead against the glass, breath uneven, tears shredding. His lips tremble with one word: "Cas."
 
-A sudden bloody hand appears on the wall from inside, leaving a trace of bloody handprints as it pulls the body up slowly into the view. Matching Dean's hand on the other side.
+A sudden bloody hand slams against the wall from inside, leaving a trace of bloody handprints as it pulls a broken body up slowly into the view. Matching Dean's hand on the other side.
 
-Dean's heart pounds violently in his chest, so loud that he's sure the whole dark space would echo the sound of his heartbeat. He holds his breath, until Cas's face emerges, until Cas slowly, gradually climbs out of the Cage on his own. In one piece.
+Dean's heart pounds violently in his chest, so loud that he's sure the whole dark space would echo the sound of his heartbeat. He holds his breath, until Castiel's face emerges, until Cas slowly, gradually climbs out of the Cage on his own. In one piece.
 
 Dean wraps his arms around him immediately.
 
@@ -2241,31 +2241,31 @@ Dean wraps his arms around him immediately.
 
 "What happened?"
 
-"I exploded, and the sharks killed each other, I think." Cas considers. "Looks like the energy from the Leviathans and the archangels cancelled each other out."
+"I exploded, and the energy from the Leviathans and the archangels cancelled each other out." Cas tilts his head. "Looks like the sharks killed each other, in the end."
 
-Dean holds the angel's blood stained cheeks in his palms, examining his features carefully. There is no dark veins with poisonous black worms crawling across, no dripping goo. No sign of Dick anywhere. And judging by the mess inside Cage, no sign of the other feathery dicks as well.
+Dean holds the angel's face, brushing blood from his cheeks with trembling fingers, examining his features carefully. There are no more dark veins with poisonous black worms crawling across, no black goo dripping. No sign of Dick anywhere. And judging by the mess inside Cage, no sign of the other feathery dicks as well.
 
-Dean can't help laughing, "We gotta work on your jokes, it's even worse than the crab one."
+Dean can't help laughing like a lunatic. "We gotta work on your jokes, it's even worse than the crab one."
 
 Cas opens his mouth to retort, but Dean doesn't give him any chance.
 
-Dean presses his lips onto Castiel's, drinking in every last bitter sweet flavor in him. Cas returns the kiss as he does.
+Dean presses his lips onto Castiel's, drinking in every last bitter sweet flavor in him. Cas returns the kiss without hesitation.
 
-Dean closes his eyes, "Don't ever do that again."
+Dean closes his eyes. "Don't ever do that again."
 
-Cas pauses, "The kissing?"
+Cas pauses. "The kissing?"
 
-Dean chuckles, "No, jackass, the dying."
+Dean chuckles. "No, jackass, the dying."
 
 He pulls the angel back into his hold and doesn't let go.
 
 <br>
 
-They stay until the King of Hell finally can't take it any longer and declare the "public museum of the Cage" is officially closed at this time of the year.
+They stay until the King of Hell finally can't take it any longer and declares the "public museum of the Cage" is officially closed at this time of the year.
 
-They arrive home with Sam's soul in a suitcase and their half-brother in the back seat.
+They arrive home with Sam's soul in a suitcase and their half-brother in the back seat. Dean knocks at Bobby's door with a stupid smile.
 
-No one die today. No world-ending event scheduled for the next week. Everyone safe and sound with all monsters gone.
+No one dies today. No world-ending event scheduled for next week. Everyone safe and sound with all monsters gone.
 
 Talking about a big win.
 
@@ -2273,9 +2273,9 @@ Dean walks into Bobby's house giving the old man a tight hug. He gives Sam one t
 
 Bobby asks how's the trip.
 
-Dean says, with a wide grin, "Wouldn't recommend for honeymoon spots, not Heaven, not Hell, certainly not Purgatory. And we might have missed a few steps before that."
+Dean says, with a wide grin, "Wouldn't recommend for honeymoon spots, not Heaven, not Hell, definitely not Purgatory. And we might have missed a few steps before that."
 
-He winks at Cas, "We're working on that."
+He winks at Cas. "We're working on that."
 
 <br>
 
