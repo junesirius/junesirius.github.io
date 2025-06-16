@@ -1827,13 +1827,13 @@ Balthazar gestures at him casually, still talking with Cas, "I see you're still 
 
 That gets Dean's attention. "What the hell are you talking about?"
 
-Balthazar finally meets him in the eyes, "Oh, am I the only one in the room noticing our Cas here is buzzing with energy? Upstairs already got a power meter overload, red alerts everywhere. Last time it happened, let me see, ah, never. Not once since God left the building." He turns back to Castiel, "You are about all God-level power now, Cas. Let me guess, you already found Purgatory and took everything? That's practically blowing the battle horn. Want to take a bet how fast Uncle Raphael will find out and come pay a visit?"
+Balthazar finally meets him in the eyes, "Oh, am I the only one in the room noticing our Cas here is buzzing with energy? Upstairs already got a power meter overload, red alerts everywhere. Last time it happened, let me see, ah, never. Not once since God left the building." He turns back to Castiel, "You are about all God-level power now, Cas. Let me guess, you already found Purgatory and took everything? That's practically blowing the battle horn. Want to take a bet on how fast Uncle Raphael will find out and come pay a visit?"
 
 "God power, you say?" Dean tenses, turning sharply to Cas. "How many souls did you take exactly, Cas?"
 
-Sam cuts in triumphantly, "That's what I've been trying to say but you wouldn't listen, Dean." He picks up his pistol again, gesturing at Castiel. "The angel-killing bullet didn't do anything on him because he's not an angel anymore!"
+Sam cuts in triumphantly, "That's what I've been trying to say but you wouldn't listen, Dean." He picks up his pistol again, gesturing at Castiel. "The angel-killing bullet didn't do anything to him because he's not an angel anymore!"
 
-"You could have killed him!" Too much information dropped, Dean feels his head throbbing with fury and headache. He doesn't even want to know where Sam got angel-killing bullets from.
+"You could have killed him!" Too much information dropped, Dean feels his head throbbing with fury and ache. He doesn't even want to know where Sam got angel-killing bullets from.
 
 He wants to find a paper and writes down all the things that need saving, and then crumples the paper and throws it out of the window.
 
@@ -1861,13 +1861,13 @@ The two of them start heading outside.
 
 Cas thinks about it. "It might actually work."
 
-A dark black vein creeps up Cas's cheek as he speaks, moving over his eye momentarily. Cas blinks rapidly, far too many times. Then with an over-compensated smile, he says over enthusiastically, "Thank you, Dean. That's a really good advice. I'll definitely take it."
+A dark black vein creeps up Cas's cheek as he speaks, moving over his eye momentarily. Cas blinks rapidly, far too many times. Then with an over-compensated smile, he says over enthusiastically, "Thank you, Dean. That's some really good advice. I'll definitely take it."
 
 Castiel's body turns toward the door, ready to head out again.
 
 "Hey, Dick," Dean calls after him. "You do know it includes you too, right? In fact, I will personally make sure you're torn to pieces by the other big players, 'cause you're the worst."
 
-"And how exact do you plan to do that?" Castiel's eyes glance at him with cold black color.
+"And how exactly do you plan to do that?" Castiel's eyes glance at him with a cold black color.
 
 "Start with helping Cas get back the control wheel." Dean takes a breath, clenching his hands into fists. "You know what's the biggest advantage that Cas has but you don't?"
 
@@ -1909,7 +1909,7 @@ The next hand reaching toward him touches his forehead with two fingers. Dean ca
 
 "Since you were too eager to jump into the tank with the big guns alone without even asking. We had an agreement, didn't we?" Dean leads them both back into the house.
 
-"And how did you know that would work?" Cas looks at him with a disapproved look, "I could have killed you."
+"And how did you know that would work?" Cas looks at him with a disapproving look, "I could have killed you."
 
 "One, it wasn't you." Dean counts with his fingers, pointing the "one" at Cas to get more of his attention. "And two, I knew now you'd do anything to stop any harm in my way, so I figured that should be enough motivation to get back behind the wheel."
 
