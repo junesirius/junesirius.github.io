@@ -1563,13 +1563,13 @@ A black tendril moves from Cas's cheek to his eyes, dying his right eye inky bla
 >
 > Dean insists him out too or else he'll jump back in & they'll help fix Cas's leviathan problem, Cas complies finally, drooping leviathan ooze occasionally but mostly can hold them back.
 
-Some of these days, Dean Winchester thinks their life is like a horror movie; other times, he thinks even horror movies would be better and easier to live through than their real life, because he usually could see what's coming. There would be a pattern, a rule, a consensus between monsters and victims and the audience.
+Some of these days, Dean Winchester thinks their life is like a horror movie; other times, he thinks even horror movies would be better and easier to live through than their real life, because he usually can see what's coming. There would be a pattern, a rule, a consensus between monsters and victims and the audience.
 
 But here, right before him, there is no such rule. Which means creepy shit just keeps happening and keeps getting worse and weirder with every move he takes.
 
 Like right about now.
 
-"Cas, fight it, I know you're in there." Dean takes a small step back, just to keep a safe distance from the creature that's taking Cas's form, while just a moment ago, it's Cas taking the creature's. He's going to lose his minds just trying to think this straight.
+"Cas, fight it, I know you're in there." Dean takes a small step back, just to keep a safe distance from the creature that's taking Cas's form, while just a moment ago, it's Cas taking the creature's. He's going to lose his mind just trying to think this straight.
 
 "I know, because I *am* right here." The black line moves away from Cas's eye, curving across his forehead, arcing from his scalp to the bridge of his nose. Cas continues talking, voice eager and terrified, "Dean, please --"
 
@@ -1595,7 +1595,7 @@ Cas's hand pulls away easily, then pushes Dean hard. Dean falls to the ground.
 
 "Who am I talking to, you dick?" Dean glares through Cas's eyes, looking inside at the dark creature.
 
-"We don't have names," the Leviathan says, cocking Cas's head unnaturally. His neck jerks back like a goose with a broken neck, with his eyes still locking on Dean, as if giving Dean a good look from all angles. "But you may call me Dick."
+"We don't have names," the Leviathan says, cocking Cas's head unnaturally. His neck jerks back like a goose with a broken neck, with his eyes still locked on Dean, as if giving Dean a good look from all angles. "But you may call me Dick."
 
 "Yeah, suits you really well." Dean snorts.
 
@@ -1611,7 +1611,7 @@ Dean rubs a hand over his face. He hates it when he seems to be on the same side
 
 "No." Dean makes up his mind. "If you stay, I stay."
 
-"For God's sake, this is like the worst commercial, can you talk to the idiot angel? Like, really talk?" Dick pops in, looking at Dean through Cas's eyes, "You really don't know why he wants to stay behind?"
+"For God's sake, this is like the worst commercial. Can you talk to the idiot angel? Like, really talk?" Dick pops in, looking at Dean through Cas's eyes, "You really don't know why he wants to stay behind?"
 
 Dean glares back at the creature, pissed. "You do?"
 
@@ -1637,7 +1637,7 @@ Cas narrows his eyes slightly in question.
 
 "That I'm not dead." Cas extends the sentence carefully.
 
-"No, not just that." Dean sighs. Why is this so difficult? He squeezes the words out, slowly, like he's learning vocabularies from his own words, "You're important to me, because you are *Cas*. Whatever you do, and whatever you are."
+"No, not just that." Dean sighs. Why is this so difficult? He squeezes the words out, slowly, like he's learning vocabulary from his own words, "You're important to me, because you are *Cas*. Whatever you do, and whatever you are."
 
 "...Okay," Cas answers reluctantly. It is just so clear the words fail to sink in.
 
@@ -1721,15 +1721,15 @@ Sam shrugs. "Nothing?"
 
 "You haven't been right since Stull Cemetery." Dean frowns, then glances at Bobby, "Tell me he looks sketchy to you too."
 
-Bobby levels the look. "I didn't live with him or go hunting with him everyday."
+Bobby levels the look. "I didn't live with him or go hunting with him every day."
 
 "You don't need to live with him to know. Just look at him!" Dean can't help himself, raising his voice.
 
-"Don't you start lecturing me in my house, boy." Bobby grumbles. "But yeah, he volunteered to kill Cas, do the math."
+"Don't you start lecturing me in my house, boy," Bobby grumbles. "But yeah, he volunteered to kill Cas, do the math."
 
 "What the hell?" Dean looks at Sam unbelievably.
 
-"And maybe some other folks he didn't want us know about," Bobby adds.
+"And maybe some other folks he didn't want us to know about," Bobby adds.
 
 Sam defends. "That's Cas's idea, he killed a lot more than I did when you were gone, Dean. I told him to let you go but he wouldn't listen."
 
@@ -1745,7 +1745,7 @@ Dean sighs. "Alright then, one problem at a time. Let's figure out what's wrong 
 
 "I'm not a human doctor," Cas states, perplexed.
 
-"We don't exactly have a post-Hell syndrome human doctor, do we?" Dean is trying his best to manage his temper but it's near the limit, "Can't you use your new mojo or something to figure it out?"
+"We don't exactly have a post-Hell syndrome human doctor, do we?" Dean is trying his best to manage his temper but it's near the limit. "Can't you use your new mojo or something to figure it out?"
 
 Cas approaches Sam on the sofa, who still refuses to let go of his pistol. Dean snatches it from him. "You know it's not gonna do anything to him anyway."
 
@@ -1767,19 +1767,19 @@ Dean looks back and forth between them. "His soul?! How's that even possible? Wh
 
 "Whoever brought me back did a really shitty job, it looks like," Sam comments.
 
-Cas looks down uneasily, opening his mouth but no words coming out.
+Cas looks down uneasily, opening his mouth but no words comes out.
 
 Dean studies him, "Did you... It's not you, is it, Cas? Brought Sam back without his soul?"
 
-Cas swallows, shame clouding on his face. "I didn't realize it at the time. I'm sorry." He doesn't meet their eyes. "It's not easy to save someone from the Cage with both Michael and Lucifer in it, you must understand. They were not exactly in a good mood."
+Cas swallows, shame clouding his face. "I didn't realize it at the time. I'm sorry." He doesn't meet their eyes. "It's not easy to save someone from the Cage with both Michael and Lucifer in it, you must understand. They were not exactly in a good mood."
 
 Sam scoffs. "'Not easy.' Yeah, sure. You got Dean back pretty decently, with everything put back together, wrapped in a gift box with a cherry on top."
 
 "Sam! Not helping." Dean barks.
 
-"I said I'm sorry, I truly am." Cas says. "And I intend to fix it."
+"I said I'm sorry, I truly am," Cas says. "And I intend to fix it."
 
-"Sorry doesn't do shit," Sam mocks. "You got plan to go downstairs to Hell any time soon?"
+"Sorry doesn't do shit," Sam mocks. "You got a plan to go downstairs to Hell any time soon?"
 
 "Sam! We just came back!" Dean feels like he's trapped in the middle of a crossfire. Middle-east is probably an even easier place to go at this time of the year. "We'll make a plan, and then we go and fetch it, right, Cas?"
 
@@ -1789,9 +1789,9 @@ Sam scoffs. "'Not easy.' Yeah, sure. You got Dean back pretty decently, with eve
 
 "Guys." Bobby's voice cuts in.
 
-Sam and Cas are still heated in quarrelling. Dean wants to slam his head against the wall if it can pull the two of them apart.
+Sam and Cas are still heated in their bristling. Dean wants to slam his head against the wall if it can pull the two of them apart.
 
-"Guys!" Bobby calls again with higher volume. "We got a visitor."
+"Guys!" Bobby calls again with a higher volume. "We got a visitor."
 
 Dean looks up, recognizing the guy in the V-collar shirt and casual suit. Only one man in the whole world dresses like that -- one angel, to be specific.
 
