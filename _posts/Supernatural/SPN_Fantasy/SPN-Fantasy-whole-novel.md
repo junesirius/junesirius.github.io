@@ -199,6 +199,16 @@ The young man sitting next to him whom he thinks is a student asks him if he fin
 
 ### Summary
 
+###### [TBA]
+
+### Arts
+
+#### Banner
+
+#### Art
+
+### Editing notes
+
 ## Main
 
 ### Chap 1
@@ -212,6 +222,8 @@ The young man sitting next to him whom he thinks is a student asks him if he fin
 > (main focus: Cas's true form, Cas/Dean's origin, Cas's creation)
 >
 > (main revelation: Cas *is* blue)
+
+###### [TBA]
 
 #### draft notes
 
@@ -274,3 +286,5 @@ question-answer form, asking about each line for story and Dean tells them
 #### draft notes
 
 **Revelation:** POV man is Cas, Dean is forgetting
+
+###### [End]

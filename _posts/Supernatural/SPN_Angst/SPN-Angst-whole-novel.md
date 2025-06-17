@@ -63,6 +63,16 @@ But just that blink of distraction leaves enough of a fatal opening, the Leviath
 
 "NO!!" Castiel rages, eyes blazing bright. "Close your eyes!" he manages to shout at the last moment, can't see if Dean has covered his eyes or not, pouring his power onto that Leviathan that is going to hurt Dean. Castiel can't think or see anything else.
 
+### Arts
+
+#### Banner
+
+![](https://64.media.tumblr.com/d7665c97a9202098f0d46d0e94cf99ac/a8a4fcd44e20b6da-92/s1280x1920/48535a5a35c31fd1e8c922203ac5f5be0bdb3079.jpg)
+
+#### Art
+
+![](https://64.media.tumblr.com/2c09c17b65e57aa1f902e21cdb9e47fc/1a5c9bd83115b5a4-33/s1280x1920/747c1c4b047e6d455886dce52ad500c7b77bcfc6.jpg)
+
 ### Editing notes
 
 ~~Chap.1-3: change the narrative "Cas" → "Castiel" when he's morally grey/ambiguous and when Cas/Sam POV (can use "Cas" in narrative when Dean POV)~~
