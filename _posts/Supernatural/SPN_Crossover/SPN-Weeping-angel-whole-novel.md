@@ -204,6 +204,30 @@ Some nights I felt like they were all happening to me. This was one of those nig
 
 But what the hell -- my stocking seams were straight, my lipstick was combat ready, and I was packing cleavage that could fell an ox at twenty feet.
 
+#### Extract from actual book《The Angel's Kiss - A Melody Malone Mystery》
+
+##### Chapter names
+
+1. The Handsome Client
+2. Age Before Beauty
+3. Lady Don't Shoot
+4. Death and Taxis
+5. Lights, Camera, Bizarre
+6. The Soul of Wit
+7. The Stone Cold Killer
+8. Angel Kisses
+9. Closing the Case
+
+##### About the Author
+
+Melody Malone is the owner and sole employee of the Angel Detective Agency in Manhattan. She is possibly married but lives alone usually, and is older than both her parents. Sometimes.
+
+Why not visit her website? Ah -- probably because the internet hasn't been invented yet. Sorry, Sweetie.
+
+##### Quote
+
+In the city that never sleeps and should never blink, mysteries are my business.
+
 ### Music BGM
 
 "Englishman in New York" by Sting

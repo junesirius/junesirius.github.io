@@ -287,4 +287,4 @@ question-answer form, asking about each line for story and Dean tells them
 
 **Revelation:** POV man is Cas, Dean is forgetting
 
-###### [End]
+###### [END]
