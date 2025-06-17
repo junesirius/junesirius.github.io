@@ -3225,4 +3225,16 @@ would Dean allow himself be happy? apple-pie life? Cas comes down for him again?
 
 (has read some fic like that somewhere, Dean lives on but will never stop mourning Sam, in some post-S5 setting where Sam doesn't come back; similar idea but post-S15)
 
-### 301.
+### 301.【all】S09E02 Monsters with good PR
+
+Angels are monsters with good PR, other monsters evolve to be more clever gradually (or Chuck makes them that way) and start working on good PR with human as well. Vampire/werewolf already start shooting movies/books (Twilight), skin walkers make ads in human society about how dogs are humans' best friends, shapeshifter become good actors as well entering entertainment industry, demons go into sales advertising the fair deals.
+
+The monsters live with humans together in peace/balance (?)
+
+### 302.【all】S09E05 Dogs are on Earth because...
+
+"And by the way, as an honorary dog, there's something you should know. Dogs aren't really man's best friend. I know it sounds like a conspiracy theory, but the real reason we were put here was to..."
+
+why are dogs really on Earth?
+
+### 303.
