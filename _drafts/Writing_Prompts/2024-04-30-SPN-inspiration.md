@@ -2096,6 +2096,10 @@ OR: combine both, they're both cursed and both the serial killers, but neither k
 
 idea check-in summary: Inspired by Jensen's "My Bloody Valentine", Dean/Cas/Sam go into this small town and find people dying, try to solve the case but find it very difficult, meanwhile Dean/Cas find their motel has some bloody evidence, one of them might be the secret murderer, but all three of them deny it. They start getting suspicious and turn against each other a bit, Dean thinks it's Cas getting brainwashed and start killing people without himself even knowing, Cas thinks it's Dean maybe having some relapse from Mark of Cain/demon!Dean time. People continue getting killed bloody around them, by coincidence both Dean/Cas has no alibi (could have potentially committed it and framed on the other unknowingly). They monitor each other 24/7 trying to figure out who is wrong and very on edge. Then big revelation.
 
+(revelation: both destiel are killers)
+
+S10 timeline, MoC!Dean & stolen-grace!Cas
+
 ### 229.【destiel】S15E20 souls been to Hell can't go to Heaven
 
 souls went to hell can't go to heaven -> 1520 after Dean's death, he thought he's in heaven but actually it's Hell's private room Rowena gave him (the best they can offer given the situation)
