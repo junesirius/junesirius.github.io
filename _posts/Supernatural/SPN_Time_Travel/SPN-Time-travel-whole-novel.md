@@ -3,7 +3,7 @@ layout: post
 title: 【Destiel】White Butterfly
 date: 2025-05-29
 categories: ["SPN"]
-characters: ["Castiel", "Dean Winchester"]
+characters: ["Castiel", "Dean Winchester", "Rowena MacLeod"]
 tags: ["Supernatural", "destiel", "英文", "时间旅行"]
 pov: 第三人称
 origin: 2025 SPN Time Travel Mini Bang
@@ -465,7 +465,9 @@ Dean turns his attention back to the red-haired woman. "Alright, *Red*," he pres
 The woman starts: "It is the year 1668 to me. Canisbay, Scotland is just on the edge of a sweet wee summer time..."
 
 <br>
+
 <hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
+
 <br>
 
 It is the year 1668. Canisbay, Scotland is just on the edge of a sweet wee summer time.
@@ -541,7 +543,6 @@ It would be nice if mister Castiel could just explain what he'd done. If it was 
 <hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
 <br>
 
-
 The woman licks her lips as she finishes. "Well?" She raises her eyebrows, "Are we done with the story-telling time?"
 
 Dean swallows, frowning down at the table, then glances at Sam.
@@ -612,7 +613,7 @@ Sam follows his eyes, sighing. "I don't know. Feed them, I guess? Be good and ki
 
 "Or maybe ask for her help? A witch in our team gotta be better than nothing. Maybe there's a spell Cas knew that she knew and we could use."
 
-Dean thinks about that. "Alright, you do that, talking to her, fathering the kid, I'll try Cas."
+Dean thinks about that. "Alright, you do that, talk to her, father the kid, whatever, I'll try Cas."
 
 "Sounds like a plan." Sam nods.
 
@@ -746,7 +747,7 @@ Consequence if not fix: gravity and orbit of Earth is changed, unstable environm
 
 Dean finally get to see the whole human and universe history together with Cas, in Cas's eyes, see a broader world view, how many human get to see human evolution and Earth's creation. Dean float in the space watching Earth forming for the first time, air and sea start to divide and shape, he's not looking at the universe, he's looking at Cas (≈ Good Omens S2, DW S01E02), realize more than ever how unhuman and human Cas is, in awe and feel pain. They fix timeline and go home together.
 
-### Chap. 12 Whitefish Montana, 2012 (now)
+### Chap. 12 Whitefish, Montana, 2012 (now)
 
 > (Dean POV) go back to original timeline (May 18, 2012), still need to fix leviathan problem (mention why can't fix from changing past timeline), after all that, Cas willing to help, still slightly broken but a lot more mature and pull himself together (less child-like), Dean willing to be patient enough, ready to pull the big fight on leviathan and save the world together again. they have just see the beginning the time and universe, what else can they be scared of
 
@@ -754,7 +755,7 @@ Dean finally get to see the whole human and universe history together with Cas, 
 
 go back to the original timeline, still need to fix leviathan problem (can't fix it in the past bc Cas unleash them himself, fixed point, paradox), after all that, Cas willing to help, Dean willing to be patient enough to him, Cas's brokenness is fixed (go back to fit into S07E23 before finale)
 
-"All the creation accompanies death, all the extinction accompanies new life. That's the natural order. You can't save every single human being, you can't save all living life, you can't save a star." "But at least we can try. And we will." That's what Dean's made of. That's what Cas loves him for. That's the story of them.
+"All the creation accompanies death, all the extinction accompanies new life. That's the natural order. You can't save every single human being, you can't save all living life, you can't save a star." "But at least we can try. And we will." That's what Dean's made of. That's what Cas loves him for. That's what the two of them are going to do no matter what. That's the story of them.
 
 match back to the beginning angst:
 
