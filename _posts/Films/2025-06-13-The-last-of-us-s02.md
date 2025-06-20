@@ -160,3 +160,19 @@ Some small side track distraction is caused by false advertisement and over wish
 Want to play the game even more now with that easter egg in mind. Really good advertisement and motivation in both directions.
 
 And still fully convinced that beautiful rock band poster on Ellie's wall, that's them. Wish someone could just ask them that question in some coming comic con and get a final confirm, that would be awesome. Praying hard now for it to come true.
+
+<br>
+
+PS: A small note, forgot to mention between Ellie and Joel. When Joel asked the therapist doctor if it's a symbol of reborn, of new life, and Gail told him, "It's death." And he goes still, just, "Oh." Love the death mention, love Ellie for drawing that and not hiding her love to it, love Joel's desperate forced positivity, and his sad hurt after the truth. It' beautiful, everyone is beautiful, every emotion is beautiful.
+
+PPS: Love the depiction of all the supporting small characters in Jackson as well.
+
+Gail, on and off, sometimes (mostly) just to be useful for the plot purpose, but also vivid, alive, pissed.
+
+Eugene, heard his name mentioned by others at least three times before finally showing the real him. Love the way of casually keeping him loosely within the plot's reach, side reflecting his personality from people's memories, and then reveal the big conflict scene of his death. The trigger for the new round of heavy  angst. Totally didn't expect him and Gail married, but it made so much sense considering how Gail never had a good face to him.
+
+Seth -- start with a wrong foot but turn back to be a really good ally. Has flaws especially when he's drunk, has a real, over-heated, burning heart (and head too). The character introduction and curve development is amazing.
+
+P3S: Love so much to a gaping mouth: the cinematographic design of Eugene's death scene. No gun shot sound effect, not Joel or Eugene's POV. No direct fear or conflict or pain or guilty. Just a wide shot, a beautiful scene of the mountains and lake, just the calming peaceful nature, and then birds fly out of the woods. The frame is quiet, so is the sadness and after-shock. The pain burns low and slow, like all the emotions are buried by Joel or Ellie.
+
+They are the kind of people who keep the outside calm and blank whatever's been happening inside, how broken or how many pieces they fell apart to, they keep that face with them, like the beautiful scene. And then, the blood and loss, are merely birds startled out of the woods. It's just too beautiful, too powerful.
