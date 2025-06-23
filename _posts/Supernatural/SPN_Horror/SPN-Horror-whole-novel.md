@@ -3,7 +3,7 @@ layout: post
 title: 【Destiel】Night Falls, Close Your Eyes
 date: 2025-06-23
 categories: ["SPN"]
-characters: ["Castiel", "Dean Winchester"]
+characters: ["Castiel", "Dean Winchester", "Bobby Singer", "Jody Mills", "Sam Winchester"]
 tags: ["Supernatural", "destiel", "英文"]
 pov: 第三人称
 origin: 2025 DeanCas Horrorfest
