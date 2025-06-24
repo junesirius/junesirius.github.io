@@ -50,7 +50,7 @@ temperature plummet, their breath issuing in a puff
 
 ## Main
 
-### Act 1 (Chapter 1)
+### Chapter 1
 
 > Dean recently moves into the town, get the new job, move into the new apartment, only to find it haunted -> Dean a bit on edge and freaked out (horror/suspension elements)
 
@@ -266,7 +266,9 @@ Dean Smith thinks he is two seconds away from having a heart attack -- the kind 
 
 <br>
 
-### Act 2-1 (Chapter 2)
+### Chapter 2
+
+#### Act 1
 
 > The ghost turn out to be Cas, murdered in the house with his whole family (Jimmy/Amelia/Claire killed by Nick), unfinished business, haunting the place but didn't hurt Dean, doesn't remember who he is
 >
@@ -456,7 +458,7 @@ Dean breathes out long, relaxed like he just finished the Saturday's crosswords 
 
 <br>
 
-### Act 2-2
+#### Act 2
 
 > The ghost turn out to be Cas, murdered in the house with his whole family (Jimmy/Amelia/Claire killed by Nick), unfinished business, haunting the place but didn't hurt Dean
 >
@@ -558,7 +560,7 @@ Castiel widens his eyes. "You'll do that for me?"
 
 Dean shrugs. "Not like I have anything else to do outside of work."
 
-### Act 2-3 (Chapter 3)
+### Chapter 3
 
 > Dean/Cas (both) start learning about ghost 101 (iron, salt) from daily life accidents, a little bit human/ghost domestic life, start getting close
 >
@@ -738,7 +740,7 @@ But he still tries. He watches the footages, he notes down the car plates crossi
 
 "We'll figure something out."
 
-### Act 3 (Chapter 4)
+### Chapter 4
 
 > S04E17 ghost case, Cas help Dean figure out the spirit (P. T. Sandover, died 1916), get rid of it, protect Dean
 >
@@ -754,7 +756,7 @@ Dean Smith's life style trajectory change, from healthy extreme sliding towards 
 
 add an accident where Dean accidentally hits ghost Cas with something iron (an iron pan? kitchen cooking time?), Cas moans & dissipates, Dean panics, rooms feels suddenly too quiet and too empty; Cas comes back the next day, unstable but there: "That was unpleasant"
 
-### Act 4
+### Chapter 5
 
 > Zachariah shows, Dean take long leave, Zach thought it's because of Dean‘s hunter killing instinct, but Dean was thinking about wanting to help Cas, because he cares (Zach let this world continue, hoping to see him start killing)
 >
