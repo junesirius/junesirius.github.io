@@ -20,7 +20,7 @@ warning: graphic depiction of violence
 
 ### Ideas
 
-#### Potential title
+#### Potential titles
 
 Upon Midnight, Nightmare, No Alibi, False Alibi, Without Witness, Mr. Clever
 
