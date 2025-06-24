@@ -3,7 +3,7 @@ layout: post
 title: 【Destiel】White Butterfly
 date: 2025-05-29
 categories: ["SPN"]
-characters: ["Castiel", "Dean Winchester", "Rowena MacLeod"]
+characters: ["Castiel", "Dean Winchester", "Rowena MacLeod", "Fergus MacLeod/Crowley"]
 tags: ["Supernatural", "destiel", "英文", "时间旅行"]
 pov: 第三人称
 origin: 2025 SPN Time Travel Mini Bang
@@ -13,7 +13,7 @@ published: false
 
 [TOC]
 
-(tags: Canon Divergent, S07E21, S07E23, S06E20, Time Travel, Angst, Crazy Castiel, Broken Castiel, Slow Burn, Dean Winchester has some anger control issue (at the beginning anyway), Canon-Typical Angry Dean (at the beginning))
+(tags: Canon Divergent, S07E21, S07E23, S06E20, Time Travel, Angst, Crazy Castiel, Broken Castiel, Slow Burn, Dean Winchester has some anger control issue at the beginning, Canon-Typical Angry Dean at the beginning)
 
 ## Draft
 
@@ -47,7 +47,7 @@ Every time there is a quarrel and he flies back, he flies back further and waits
 
 - medieval, witch trial, save a poor women (but actually real witch) ← was to meet a witch promised to give him peace but persecuted shortly, Canisbay Scotland, 1668 summer with a 7y old boy, turn out to be Rowena&Fergus MacLeod, peasant, daughter of tanner (fly away because of the violence & conflict)
 - Pompeii, stop the volcano, same the twenty thousand people, consequence? history of Italy changed, culture development unbalanced? ← (short, in passing line) "I was in here and here and here", one of time/place: Mount Vesuvius, 79 AD eruption day Aug 24 ("the word 'volcano' wasn't invented until that day")(year of "Consulhood of Vespasian and Titus")(Caecilius, Metella, Evelina, Quintus)
-- the very early human evolution, the homo sapiens vs Neanderthals', enjoy the company with the very first few humans, ~~relationship with Adam etc.?~~ <u>watching bees nude</u> (natural science history vs religious history, how to merge? Adam is the fish for fun) ← accidentally affect human evolution, modern human has different features (write in a way that modern people don't realize weird things are weird because it changes the whole history, butterfly effect)
+- the very early human evolution, the homo sapiens sapiens vs Neanderthals', enjoy the company with the very first few humans, ~~relationship with Adam etc.?~~ <u>watching bees nude</u> (natural science history vs religious history, how to merge? Adam is the fish, for fun/joke) ← accidentally affect human evolution, modern human has different features (write in a way that modern people don't realize weird things are weird because it changes the whole history, butterfly effect)
 - falling asteroid, dinosaur extinction, comment: "just like Sodom and Gomorrah", "I wasn't there" (because he actually was, suddenly remember?) ← real dinosaurs have furs
 - watch the fish, the first fish on the shore (S06E20 I remember being at a shoreline, watching a little grey fish heave itself up on the beach and an older brother saying, "don't step on that fish, Castiel. Big plans for that fish."), the first creature on the land ← help it? touch it? affect its evolution?
 - the formation of Earth, solar system, galaxy ← watch the space quietly, help create the stars, maybe this is when the asteroid belt was formed, should have been a star there, Cas break one when he's there this time, so now throughout the whole history, that planet doesn't exist (give that star a name and some feature? Diana (Artemis), from Roman history like the rest, or gods name from star name bc stars come first)
@@ -122,7 +122,7 @@ Or any other moment during the timeline traceback journey: Dean and Cas in Pompe
 
 <br>
 
-When Cas can go to all the time and all the place, where did he go?
+When a frightened child can go to all the time and all the place, where did he go?
 
 He goes to see a creature he hasn't seen in millenniums, a fish that is essential, and a star that is just forming. He watches them with the joy from a child's eyes, and he can't help reaching his hands to them. That is when everything -- the history, the reality -- starts crashing down.
 
@@ -665,7 +665,9 @@ note about Sam/Dean's assumptions about Cas's motivations: they always guessed h
 
 #### draft notes
 
-very time he's at some place/time, Cas accidentally or intentionally interfere the timeline, every time after the change, the people in current timeline experience the consequence immediately and take it for granted, they don't remember what's the old normal (≈ S06E17 Titanic episode, DW S5 finale), only Cas know he messed up and need help, every time he try to fix by himself by going back further and mess up worse, so have to go to Dean
+every time he's at some place/time, Cas accidentally or intentionally interfere the timeline, every time after the change, the people in current timeline experience the consequence immediately and take it for granted, they don't remember what's the old normal (≈ S06E17 Titanic episode, DW S5 finale), only Cas know he messed up and need help, every time he try to fix by himself by going back further and mess up worse, so have to go to Dean
+
+every time Cas comes back from the past, Dean's more scared, bc Cas's gone farther back, and stay longer in a time he'd never be able to go and find him, Dean's fear if Cas can't time it right, next time Cas comes back, he might already be too aged and gone (similar to *Glimpse* & DW the girl in the fireplace), that's why insisted to follow him back. might be more angry, has more quarrel, Dean force himself to stop being angry, force himself to be patient, and gradually during the journey, he realized he wouldn't have to force think about that again, helped his anger control issue
 
 when after shattering the star and made the asteroid belt, Cas is properly frightened. Sky fall apart, reality break apart by too many changes from butterfly effect, cost is mass energy compensate, paradox create crack in the reality and going to swallow Cas (or just bc Cas can't bear the mess he made to the world, self-torture even as the broken!Cas's child mind, still not worry about himself, it's about world). Cas go back to current time to Dean, Dean ask him to trace his own steps back with him, reset his changes, unsave the people he save, witness and experience everything together with him.
 
