@@ -1790,6 +1790,8 @@ case fic
 
 case fic，以为是怪物，追踪案件发现拔杯
 
+或者类似拔杯风格但SPN集，他们需要开膛剖腹血淋淋面对人肉宴
+
 ### 196.【denny】"On the high seas"
 
 SPN CH Feb. 2025 Challenge
@@ -2088,7 +2090,7 @@ Cas smites Bel/Jack's body, has to continue use the horn to suck all souls into 
 
 Cas uses the power to go against Chuck & Billie
 
-### 228.【all/destiel】精分丁/serial killer卡【WIP】
+### 228.【destiel】精分丁/serial killer卡【WIP】
 
 （inspired by 《My Bloody Valentine》）
 
@@ -2267,7 +2269,7 @@ Charlie help Claire be less angry, Claire after 18y want to be with Charlie (bot
 
 （1503离婚期canon divergent？那时的God也不在，算是短暂平静期）
 
-### 238.5【destiel】S08E17 一地下室的克隆Dean身体
+### **238.5【destiel】S08E17 一地下室的克隆Dean身体**
 
 （继续是西部世界和黑镜的感觉）
 
