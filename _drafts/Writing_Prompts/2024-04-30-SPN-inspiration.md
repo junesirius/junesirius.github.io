@@ -516,7 +516,7 @@ Dean被米迦勒附身之后展开了大翅膀，跟S04E01的卡第一次展开�
 
 Dean的“you're dead to me”，可以真正地杀死Cas。
 
-### 48.【destiel】S15E09 Monster Ending
+### **48.【destiel】S15E09 Monster Ending**
 
 该隐之印让Cas发疯，Dean不得不把他关到Ma'lak Box里。
 
@@ -788,7 +788,7 @@ so time is sand, use it for S05E13 when Cas is badly wounded and passed out from
 
 ### 77.【destiel】S08E17 sober during brainwash session
 
-Cas' brainwash testing session, having to kill Dean over and over again to convince Naomi in order to get away, what if he's all the time sober and know what he's doing, he can tell the difference but still painful, but can't show any sign, which makes it even worse and more difficult to bear. Surrender to the brainwash could make it easier to bear, but he can't do that.
+Cas's brainwash testing session, having to kill Dean over and over again to convince Naomi in order to get away, what if he's all the time sober and know what he's doing, he can tell the difference but still painful, but can't show any sign, which makes it even worse and more difficult to bear. Surrender to the brainwash could make it easier to bear, but he can't do that.
 
 Why Cas can tell the difference: true Dean has brightest soul, fake/mimic Dean has no soul, Cas can see the soul and never mistake one from another, see the soul not the face, that's why relatively easy to kill to deceive Naomi and resist when being ordered to kill real Dean
 
@@ -880,7 +880,7 @@ just has to stop Armageddon all over again
 
 (-> prompt 200)
 
-### 92.【destiel】S10E22 "I'm the one who will have to watch you murder the world."
+### **92.【destiel】S10E22 "I'm the one who will have to watch you murder the world."**
 
 demon Dean & angel Cas
 
@@ -1886,6 +1886,8 @@ what if main world Charlie also meet Kara the bakery owner girl
 
 ### **208.【destiel】S14E13 the other timeline**
 
+(time travel, getting together, pining, canon divergent)
+
 The other timeline version Dean/Cas/Sam's life: 2003!Dean hunts on his own and keeps doing so and become the wanted criminal, 2003!Sam continue Stanford and becomes annoying flatulent lawyer and goes to TED talk, 2003!John is missing because he gets pulled into 2019, 2003!Cas notices "disturbance in the force" and goes to 2019 and finds 2019!Dean/Sam variation, fight them and almost kill them but get blown back to 2003 with memory of what's gonna happen
 
 2003!Cas knows 2003!John shouldn't come back otherwise this version of criminal!Dean is going to disappear and he knows it's not right (from order? or he *knows* it's not right from the way 2019!Dean looks at him and sees him and calls him "Cas" and pleads, he starts doubt?) So Cas fights hard to prevent John come back (the phone call John thought he made to Dean didn't actually go through, he's still not back where he was, Cas traps him in a dream loop?) to protect that version of Dean
@@ -2142,7 +2144,7 @@ Rowena: I'll leave you two to it then (extract all other demons out)
 
 Dean: Looks like it's just you and me now
 
-### 230.【Cas/destiel】天启世界黑卡勒维坦化【WIP】
+### 230.【destiel】天启世界黑卡勒维坦化【WIP】
 
 在天启世界的正式天启期间那个世界的黑卡接了米迦的指示去打开炼狱，想借用炼狱力量打路西，结果卡把勒维坦都吞了以后自己能量大爆发升级成帝卡，直接把天启打成三方阵营，或者直接一己之力同时炸掉米迦和路西，把整个宇宙变成帝卡宇宙，或者米迦和路西不得不联手来打帝卡，温双进来的时候黑卡正在一打二状态。
 
@@ -2269,7 +2271,9 @@ Charlie help Claire be less angry, Claire after 18y want to be with Charlie (bot
 
 （继续是西部世界和黑镜的感觉）
 
-在817之后卡见过了这么多丁克隆体，把那季主世界任务解决+卡搞定洗脑问题之后想到为了给丁以防万一备用，以防自己之后失去grace或者不在丁身边时候丁身体出问题，提前在bunker地下室给丁准备了一地下室的备用身体
+（817：2013，1520：2020，西部世界：2016，黑镜：2011 ← 可以直接剧情里吐槽就像这两个了）
+
+在817之后卡见过了这么多丁克隆体，把那季主世界任务解决+卡搞定洗脑问题之后想到为了给丁以防万一备用，以防自己之后失去grace（s9之后）或者不在丁身边时候（s11路西卡之后）丁身体出问题，提前在bunker地下室给丁准备了一地下室的备用身体
 
 丁一开始不知道，在第一次看到之后freak out了，觉得是卡的freaky kink，跟卡有miscommunication的hurt/comfort吵架，然后在人类卡时期意识到了确实是卡的有备无患，虽然没用到过但是确实有道理，就理解和好了。（也会要求卡多备一些米和他自己/Jimmy的身体？）
 
