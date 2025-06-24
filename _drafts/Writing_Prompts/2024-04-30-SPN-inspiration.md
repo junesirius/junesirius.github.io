@@ -166,7 +166,7 @@ Gabe把Cas困在电视里，就像S03E11给Sam的lesson一样，让卡一遍遍�
 
 ### 11.【Cas】天使之死
 
-Cas死了很多次，S04E22里“exploded like a water ballon of chunky soup”，S05E22里“explodes in a rain of blood and chunks of meat”。关于死亡瞬间的体验，还有复活是什么感觉，或许可以写一写。
+Cas死了很多次，S04E22里“exploded like a water balloon of chunky soup”，S05E22里“explodes in a rain of blood and chunks of meat”。关于死亡瞬间的体验，还有复活是什么感觉，或许可以写一写。
 
 ### 12.【Cas】S04E10 关于堕天的疼痛
 
@@ -698,11 +698,17 @@ Cas -> first time fight in front of Dean and failed
 
 “angel walking the earth for the first time in 2000 years” because every time he did, the memory is wiped (confirmed by Naomi in ~S08E19)
 
-### 64.【destiel】S05E18 "last person look at me like that, I got laid"
+### 64.【destiel】S05E18 "last person look at me like that, I got laid"（R级）
 
 Dean: “Cas, not for nothing, but the last person who looked at me like that…I got laid.”
 
 Cas's fierce look is hot
+
+a thought: what if that "last person" is S05E04 2014!Cas, 2014!Cas gives Dean a wink the second he goes into his tent, and here Dean gives Cas a wink back as if answering that one, we know pretty certain 2014!Dean&Cas have sexual relationship, and here Dean's almost confirming he's also involved when he's then/there, so 3p has happened
+
+so ever since Dean comes back to current timeline to his current Cas, the first thing he did is to put his hand on Cas's shoulder, cuz he can't help touching him knowing what's that feel like. but he's also too coward to really say it to his real Cas, so for 12 years the only thing he has in head is that one night's memory, and every time he has to stroke himself off he uses that memory. He wants Cas know but he also fears Cas know.
+
+Cas can read mind, so he actually knows what happened and that Dean's been thinking about that with him, a lot, like every time Dean stares at his lips when speaking, but Cas doesn't quite understand and it's too human, so he doesn't react. And he knows how much Dean doesn't like being mindread, so he pretends he never know, even though he always relive that every time Dean rethinks about that when he's in the room.
 
 ### 65.【Cas】S05E22 get Sam out of Cage
 
@@ -868,7 +874,7 @@ What if these are all Cas's explanation to Jimmy for potential consequence to le
 
 then rewind back to 401, let Jimmy make informed decision (← fully informational, base of consent)
 
-### 91.【Cas】S06E22 What if he stopped and they let Rafael win
+### 91.【Cas】S06E22 What if he stopped and they let Raphael win
 
 just has to stop Armageddon all over again
 
@@ -1368,6 +1374,8 @@ Dean: (要哄卡做什么事实在太难了) it's like herding a cat
 
 Cas becomes a cat? actually herding a cat
 
+name: catstiel
+
 ### 148.【destiel】socks are the best gift
 
 （from myself）
@@ -1478,7 +1486,7 @@ Spell/magic has loose definition for father/blood, what other can non-blood bloo
 
 replace "father" with "brother", Dean considers Cas as brother, so for some spell that literally requires "blood of your brother", would that work? Official approval of really actually being "brother"/"family"?
 
-### 161.【destiel】S06E05 Dean gets killed when he's still vampire 【WIP - bang】
+### ~~161.【destiel】S06E05 Dean gets killed when he's still vampire 【done】~~
 
 working title:《Red and Black》
 
@@ -1692,7 +1700,7 @@ what if丁在S4就拿到了这个道具，用在Jimmy身上把卡驱逐出去了
 
 ### 183.【destiel】《The day the saucers came》
 
-整首诗完整改编/改
+尼尔盖曼整首诗完整改编/改
 
 ### 184.【destiel】S10E03 Roadkill
 
@@ -1756,7 +1764,7 @@ post-1518 after Jack becomes God and time travels back to before he's born, duri
 
 ### 193.【destiel】Dean time travel to save 1518 Cas 《Trolley Problem》
 
-post-1518, to save Cas, Dean researchs and figures out how to time travel (Henry/MOL knows how, they have angel feather and ingredients), goes back different points in their encounter trying to change things so Cas won't end up in 1518. Every time doesn't work, go back further
+post-1518, to save Cas, Dean researches and figures out how to time travel (Henry/MOL knows how, they have angel feather and ingredients), goes back different points in their encounter trying to change things so Cas won't end up in 1518. Every time doesn't work, go back further
 
 - change 1418/1503 not fighting
 - 1409 prevent Cas from making the deal with Empty (Jack dies)
@@ -1848,7 +1856,7 @@ what if Dean takes Michael's power, kills Lucifer, takes Lucifer's/Jack's power,
 
 ### 203.【destiel】fix Cas's wings
 
-canon Dean/Sam never even think about fixing Cas's wings, don't even realize it's a problem they need fixing, let alone researching any solution or asking for any superier power to help. Cas never raise any request regarding himself, so if they don't notice and mention to help, he'd never ask. But it's a part of his body, no different from human losing limbs, they should notice, he should ask, they should help to at least try to fix the issue, even if they end up not finding any solution
+canon Dean/Sam never even think about fixing Cas's wings, don't even realize it's a problem they need fixing, let alone researching any solution or asking for any superior power to help. Cas never raise any request regarding himself, so if they don't notice and mention to help, he'd never ask. But it's a part of his body, no different from human losing limbs, they should notice, he should ask, they should help to at least try to fix the issue, even if they end up not finding any solution
 
 ### ~~204.【destiel】S08E01《Glimpses》【done】~~
 
@@ -1874,7 +1882,7 @@ what if main world Charlie also meet Kara the bakery owner girl
 
 卡变成人类之后因为人类大脑结构承载不了这么巨大的天使记忆容量，所以只能保留住了有限的一部分，记忆力受损，记不住几千万年天使时期的事情。卡在变成人类初期就意识到了，对自己记忆变差这件事接受不太良好，但是想着恢复天使之后应该就能恢复记忆所以保有希望也没有表现出来，但是在S10E18卡拿回grace之后发现失去的记忆没有回归，失去的就是失去了，突然难受了
 
-### 208.【destiel】S14E13 the other timeline
+### **208.【destiel】S14E13 the other timeline**
 
 The other timeline version Dean/Cas/Sam's life: 2003!Dean hunts on his own and keeps doing so and become the wanted criminal, 2003!Sam continue Stanford and becomes annoying flatulent lawyer and goes to TED talk, 2003!John is missing because he gets pulled into 2019, 2003!Cas notices "disturbance in the force" and goes to 2019 and finds 2019!Dean/Sam variation, fight them and almost kill them but get blown back to 2003 with memory of what's gonna happen
 
@@ -1884,7 +1892,7 @@ The other timeline version Dean/Cas/Sam's life: 2003!Dean hunts on his own and k
 
 2003!Cas still wears Jimmy as vessel, so Jimmy has been devout since at least 6 years before 401 to say yes to Cas
 
-important: 2003!Cas=current Cas at 2003, it's the exactly same Cas as he was
+important: 2003!Cas=current Cas at 2003, it's the exactly same Cas as he was, the main world Cas start doubting/changing since meeting Dean in 2009, so if Cas starts knowing Dean since 2003, that's extra 6 years to start loving him and saving the world, might actually be in time to save the first apocalypse since beginning, like stopping Dean's demon deal (~《Heard from your mother》)
 
 so it's gonna be a 2003-2019 16 season story of Dean&Cas hunting things, saving world, without Sam and John
 
@@ -2100,7 +2108,7 @@ idea check-in summary: Inspired by Jensen's "My Bloody Valentine", Dean/Cas/Sam 
 
 S10 timeline, MoC!Dean & stolen-grace!Cas
 
-### 229.【destiel】S15E20 souls been to Hell can't go to Heaven
+### **229.【destiel】S15E20 souls been to Hell can't go to Heaven, Dean is in private Hell**
 
 souls went to hell can't go to heaven -> 1520 after Dean's death, he thought he's in heaven but actually it's Hell's private room Rowena gave him (the best they can offer given the situation)
 
@@ -2124,7 +2132,7 @@ Cas comes out of that Hell's private room to meet him
 
 Cas: Sorry Dean, I can't bring you to Heaven
 
-Dean: Yeah I heard, if Jack can't do anything, figured you can't either, but why come inside
+Dean: Yeah I heard, if Jack can't do anything, figured you can't either, but why come inside 
 
 Cas: Can't leave you there alone with the demons, can I?
 
@@ -2156,7 +2164,7 @@ Jack becomes new God, Dean becomes new Death (after 1520 his human death), Cas b
 
 Empty can't go to Earth so Cas can't tell Dean what happened after he's taken away and Dean thought he's dead. Dean has the option to become new Death because he has taken the job once (for a day) and no other reaper has interest in the position, so Dean thinks why not.
 
-Death can go to the Empty, so that's the first he does after he takes the new job. He sees Cas, initially thought it's the old Empty taking his form, but Cas tells him he manages beat the old Empty and takes over. He releases the angels and demons that shouldn't be there (so before Dean's death he probably would run into a few? knows something happened in the Empty but doesn't know what, didn't think it's possible), but now still stuck in the place
+Death can go to the Empty, so that's the first thing he does after he takes the new job. He sees Cas, initially thought it's the old Empty taking his form, but Cas tells him he manages beat the old Empty and takes over. He releases the angels and demons that shouldn't be there (so before Dean's death he probably would run into a few? knows something happened in the Empty but doesn't know what, didn't think it's possible), but now still stuck in the place
 
 Dean: it's okay, I can pay you visit once in a while, hell, I can stay here if you want
 
@@ -2254,6 +2262,20 @@ Charlie help Claire be less angry, Claire after 18y want to be with Charlie (bot
 卡在817见过那么多丁克隆体，卡自己也是最了解怎么修复和复制丁身体的，当他觉得他不能拥有丁之后他离开给自己造了个丁一起过，真丁吃醋
 
 （1503离婚期canon divergent？那时的God也不在，算是短暂平静期）
+
+### 238.5【destiel】S08E17 一地下室的克隆Dean身体
+
+（继续是西部世界和黑镜的感觉）
+
+在817之后卡见过了这么多丁克隆体，把那季主世界任务解决+卡搞定洗脑问题之后想到为了给丁以防万一备用，以防自己之后失去grace或者不在丁身边时候丁身体出问题，提前在bunker地下室给丁准备了一地下室的备用身体
+
+丁一开始不知道，在第一次看到之后freak out了，觉得是卡的freaky kink，跟卡有miscommunication的hurt/comfort吵架，然后在人类卡时期意识到了确实是卡的有备无患，虽然没用到过但是确实有道理，就理解和好了。（也会要求卡多备一些米和他自己/Jimmy的身体？）
+
+Mark of Cain时期考虑过为了甩掉Mark而换身体，但是Mark是在灵魂上的所以跟着走了
+
+1520 丁身体受重伤卡又不在，觉得没希望已经准备放弃了，想起来还有那么多备份身体，硬撑着让米把他带到备份身体身边，灵魂换身体，重新续下去继续活了，感受到了卡提前太久就已经给他考虑好的后备方案泪目了，抱着备份卡的身体哭
+
+（可以提前在另外别的地方准备卡的备份grace？像Gabe能量可以常年一点一点被抽取转移，卡也可以一点一点抽取积累出一管，1518走之前留给丁，于是在最后这个时候尝试把卡的grace放进卡的克隆身体里，于是重新得到了一个卡）（但是总感觉有哪里不太对，好像这个无论如何也只是一个代餐卡不是本体卡）
 
 ### 239.【destiel】S04E17 Dean Smith + ghost Cas【WIP - bang】
 
