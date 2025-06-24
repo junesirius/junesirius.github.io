@@ -1592,6 +1592,8 @@ borrow something from S15 Cas gets mark (briefly) and Chuck's what-if future of 
 
 Dean在沙滩上发现一对硬生生撕下来的烧焦黑色翅膀，第一反应觉得是路西的，后来发现是卡的，一开始不相信卡是天使，慢慢变熟。每次看见翅膀都会心疼
 
+给卡安装机械翅膀作为修复替代？突然赛博朋克感
+
 （可以跟梗244融合）
 
 ### 174.【destiel】恐怖游轮AU
@@ -2429,6 +2431,8 @@ Dean's only move is to break his happiness, make him miserable, so Empty's deal 
 
 they'll figure out the truth later, once safe
 
+they'll need to figure out how to handle Billie&Chuck too, then go back to it
+
 ### 253.【destiel】14卡+天使丁
 
 14丁卡时间线，卡说过天使都飞走了（所以他失去了所有能量），what if 突然飞来一只同世界线未来的天使，是天使丁，但是失忆，忘记了自己是怎么“变成”天使的，可能觉得自己一直都是天使（其实因为是同时间线，是14丁演化成的）。但是对卡来说但凡有天使来了他就能慢慢恢复，所以能量开始慢慢回来了。然后卡要帮未来丁想起来他发生了什么，要搞明白路西米后来怎么样了，僵尸世界怎么救，14卡怎么治愈，丁卡心理阴影都要很久才能治愈，原时间线14丁在天使丁来的时候去哪了（可以double date式互换？进入天使丁对应的未来卡时间点？或者同时也在）
@@ -2817,13 +2821,17 @@ Max reuse Rowena's spell, throw Witch's ring in for full power, create two bodie
 
 ### ~~272. (duplicate 221)~~
 
-### 273.【destiel】addict to angel blood
+### 273.【destiel】addict to angel blood（R级）
 
 parallel to S4 Sam addicted to demon blood or S9 Crowley addicted to human blood
 
 imagine drinking angel blood has similar affect, gives Dean angel power, easy to get addicted
 
 parallel to Sam&Ruby, Dean has Cas to ease the addiction, Cas wants to help him control the addiction, but Dean can't help himself, Cas doesn't have the heart to force him quit
+
+also parallel to Sam/Ruby, the blood drinking relationship can very quickly escalate into sexual/romantic relationship, they'd have sex, blood is something very sexual-suggestive anyway
+
+OR, during vampire Dean time, Dean doesn't change back, Cas feed him with angel blood to prevent him hurting human and still ease the thirst
 
 ### 274.【destiel】S05E17 accidental OD on pain killer
 
@@ -3239,7 +3247,7 @@ might can be used as a prompt or foreword for a destiel story where they have to
 
 or a art gallery-related story, one of them is the artist that painted the painting with tree and that quote?
 
-### 300.【destiel】S06E06/S15E20 Dean'll never be happy when Sam's alive
+### 300.【destiel】S06E06/S15E20 Dean will never be happy when Sam's alive
 
 S06E06 Lisa: "As long as he's in your life, you're never gonna be happy."
 
