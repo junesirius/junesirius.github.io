@@ -3275,4 +3275,12 @@ The monsters live with humans together in peace/balance (?)
 
 why are dogs really on Earth?
 
-### 303.
+### 303.【destiel】 S05E04 what if Cas/Dean infected by Croatoan
+
+（inspired by 《The Last of Us》）
+
+如果14卡或者14丁或者主世界丁感染了僵尸病毒会怎么样，会不会被放弃，会不会变eldritch
+
+或者直接在僵尸宇宙，像最后生还者那种既视感，会怎么样
+
+### 304.
