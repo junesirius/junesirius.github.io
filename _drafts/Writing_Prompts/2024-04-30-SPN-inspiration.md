@@ -288,7 +288,7 @@ Cas怎么在昏迷中用尽力气才把自己灵魂拼起来，至少可以醒�
 
 （思维宫殿的部分在204《Glimpse》里用了）
 
-### 26.【Cas】S07E21-23 失控的Cas在害怕崩溃中时间穿越【WIP - bang】
+### 26.【Cas】S07E21-23 失控的Cas在害怕崩溃中时间穿越【WIP】
 
 谁知道一只崩溃失控的天使会做什么？也许会毁灭世界，也许会杀光所有恶魔甚至人类，也许会害怕得逃走，逃到时间流里，穿越到了不知道什么时代，Dean和Sam又怎么样才能重新找到他？只靠Meg坐在病床旁边看杂志又能起到什么效果？
 
@@ -426,7 +426,7 @@ Dean捡到了一个神灯，擦三下冒出来的神灯精灵穿着件卡其色�
 
 要杀丁才能救自己，卡选择宁可自己化成泡沫
 
-### 39.【destiel】S12E10 时间旅行的Dean遇上1901年的女体Cas（R级）【WIP - bang】
+### 39.【destiel】S12E10 时间旅行的Dean遇上1901年的女体Cas（R级）【WIP】
 
 《傲慢与偏见》AU，DW的刀河代
 
@@ -1050,7 +1050,7 @@ Beauty always comes with dark thoughts
 
 invite him over because he said he doesn't have a bed at home, and it's actually only really just a very good night's sleep
 
-### 105.【destiel】Cas is a DW weeping angel【WIP - bang】
+### 105.【destiel】Cas is a DW weeping angel【WIP】
 
 《Do Not Blink》/《The Angels Take Manhattan》/《Look At Me》
 
@@ -2285,7 +2285,7 @@ Mark of Cain时期考虑过为了甩掉Mark而换身体，但是Mark是在灵魂
 
 （可以提前在另外别的地方准备卡的备份grace？像Gabe能量可以常年一点一点被抽取转移，卡也可以一点一点抽取积累出一管，1518走之前留给丁，于是在最后这个时候尝试把卡的grace放进卡的克隆身体里，于是重新得到了一个卡）（但是总感觉有哪里不太对，好像这个无论如何也只是一个代餐卡不是本体卡）
 
-### 239.【destiel】S04E17 Dean Smith + ghost Cas【WIP - bang】
+### 239.【destiel】S04E17 Dean Smith + ghost Cas【WIP 】
 
 (canon-divergent? pre-S04E17->post-S04E17)
 
@@ -3037,7 +3037,7 @@ something something, S5 rewrite, still manage to put Lucifer to cage (with Sam i
 
 (there was a similar fic, high kudo, fanfav, demon Dean+angel Cas S4/5 rewrite save the apocalypse, well-written, title?)
 
-### 287.【destiel】在索多玛蛾摩拉受折磨的天使（R级）
+### 287.【destiel】在索多玛蛾摩拉受折磨的天使（R级）【WIP】
 
 (inspired by 《[Clipped and Unbound](https://archiveofourown.org/works/1567589)》slaved angel world + ND_Tardis的《[罪恶之城](https://archiveofourown.org/works/19430962)》)
 
