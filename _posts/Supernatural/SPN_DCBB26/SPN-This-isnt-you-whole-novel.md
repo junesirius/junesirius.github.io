@@ -50,15 +50,27 @@ There is no other way
 
 （卡疯起来就没他俩什么事了）
 
-后面续写下去是丁温和黑卡的slow burn，“我代我自己”的代餐替身文学。黑卡杀了卡，丁要忍着恨慢慢跟黑卡相处，改变他，两个人升温，直到黑卡变成好卡，把原版卡救回来。这时候丁已经不知道自己爱的是哪个卡了，非常confused，非常messed-up，AU卡也非常confused，其实unfair，但是知道自己一直没得到也不会得到丁全部的爱，所以被改变之后仍然变成一个人，要回自己那个没有丁的世界
+后面续写下去是丁温和黑卡的slow burn，“我代我自己”的代餐替身文学。黑卡杀了卡，丁要忍着恨慢慢跟黑卡相处，改变他，两个人升温，直到黑卡变成好卡，把原版卡救回来。这时候丁已经不知道自己爱的是哪个卡了，非常confused，非常messed-up。黑卡也非常confused，而且unfair，知道自己一直没得到也不会得到丁的爱，他爱的还是原版主世界卡，只是投射，之前跟丁任何升温都是illusion，所以变好了解决主世界矛盾之后仍然只是一个人，要回自己那个没有丁的世界（hopeful ending? 主卡邀请他留在主世界？）
+
+### Extended ideas and notes
+
+#### world setting
+
+#### Dean
+
+#### Castiel
+
+this is the world without Dean/Sam, this is the world they didn't save, this is the Cas that didn't save Dean so he isn't saved, so now it's Dean's job to save him, hopefully not too late → to prove all Cas can change, and always for Dean
+
+include Dean's widower's curve too, original Cas temporary death
+
+AU Cas's main motivation: killing someone would be easier, breaking them is harder. So he loves torture and breaking them without killing them, wants to rule the world the way he wants it, so can't kill everyone, just enslave them, no free will, basically Nazi + Chuck)
+
+(Castiel is very difficult to love as well, make it difficult, make Dean have to struggle. vice versa)
 
 ### Outline
 
-(this is the world without Dean/Sam, this is the world they didn't save, this is the Cas that didn't save Dean so he isn't saved, so now it's Dean's job to save him, hopefully not too late → to prove all Cas can change, and always for Dean)
 
-(include Dean's widower's curve too, original Cas temporary death)
-
-(AU Cas's main motivation: killing someone would be easier, breaking them is harder. So he loves torture and breaking them without killing them, wants to rule the world the way he wants it, so can't kill everyone, just enslave them, no free will, basically Nazi + Chuck)
 
 pre-1223 Apocalypse World, Michael orders Castiel to go find Purgatory to get souls to fight Lucifer, Castiel tortures Alphas and finds Purgatory, takes in all the souls and becomes god (with Leviathans in him), turns against Michael/Lucifer, two archangels fight god+Leviathan!Castiel. Castiel could just kill them all and make new ones but think it's less challenging than breaking them, so keep fighting with and torturing them, keep this sick apocalypse war running, even though no one remember what they are fighting for anymore. Michael/Lucifer don't know what to do, and they are so powerless they literally can't do anything right now, only the never-ending apocalypse war, this world becomes even worse than it was. That's when the multiverse portal opens (S12E23)
 
@@ -124,7 +136,9 @@ start getting closer, almost like friends but still not quite there yet, can hav
 
 (Castiel: "Would you have loved me, if I were him?" "I love him, that's all I can say." "He would be me if he were there, in my world. If he never met you, he's me. And I'm right here." *Please see me, Dean.* "Then yes. The answer is yes.")
 
-(Castiel is very difficult to love as well, make it difficult, make Dean have to struggle. vice versa)
+why this Castiel need Dean's help: vessel explosion with too much energy, and Leviathan problem like 701
+
+(some dark twist: bad Cas wants to make Dean his own, "I can make you forget him, think I'm him" "Then why didn't you?")
 
 ### Editing Notes
 
