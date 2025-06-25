@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】Last Righteous Man And Last Angel
+title: 【Destiel】Last Righteous Man and Last Angel In the City
 date: 2025-06-24
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Sam Winchester", "John Winchester", "Balthazar"]
@@ -12,7 +12,7 @@ published: false
 
 [TOC]
 
-tag: canon divergent, indicated rape/non-con, not between Cas/Dean, trauma healing, angst, Castiel's wings, hurt/comfort, temporary main character death
+tag: canon compliant, pre-series, indicated rape/non-con (not between Cas/Dean), hurt/comfort, angst, Castiel's wings, temporary main character death
 
 warning: rape/non-con, graphic depiction of violence
 
@@ -20,7 +20,7 @@ rating: Mature
 
 ## Draft
 
-### Original Sodom story
+### Original Sodom story from Bible
 
 (English Standard Version)
 
