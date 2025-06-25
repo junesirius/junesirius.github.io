@@ -144,6 +144,8 @@ Angel's tears
 
 Genesis 19
 
+**Genesis XIX**
+
 The sinned city
 
 No one looks up in this city
@@ -153,6 +155,10 @@ You should never have come
 No more
 
 ### Editing notes
+
+when posting, before each chapter, quote something from Bible
+
+Including/mention "Genesis XIX" in summary (?)
 
 ## Main
 
