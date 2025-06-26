@@ -12,7 +12,7 @@ published: false
 
 [TOC]
 
-tag: canon compliant, pre-series, indicated rape/non-con (not between Cas/Dean), hurt/comfort, angst, Castiel's wings, temporary main character death
+tag: canon compliant, pre-series, indicated rape/non-con (not between Cas/Dean), hurt/comfort, angst, Castiel's wings, temporary main character death, S06E03 inspired
 
 warning: rape/non-con, graphic depiction of violence
 

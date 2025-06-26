@@ -12,7 +12,7 @@ published: false
 
 [TOC]
 
-tags: canon divergent, case fic, inspired by My Bloody Valentine, suspense, temporary main character death, minor character death
+tags: canon divergent, S05E15, case fic, inspired by My Bloody Valentine, suspense, temporary main character death, minor character death
 
 warning: graphic depiction of violence
 
@@ -69,6 +69,8 @@ real bad guy (potentials): some poisonous materials in the town, mushroom or som
 ### Outline
 
 515 timeline (2010, March 25), Sioux Fall, South Dakota
+
+(Bobby in wheelchair)
 
 big background: Lucifer is trying to persuade Sam to say yes, Michael on Dean, four Horsemen are rising (War, Famine was killed), Death was bound by Lucifer (purpose: town's behavior is basically Michael+Lucifer's game board, having a little killing-time fun before big fight, "killing time, sometimes people", two archangels want to take Cas out of picture, only to make Dean more sure about Cas should be with them in this together, regret doubting Cas even if he is controlled to killing)
 
