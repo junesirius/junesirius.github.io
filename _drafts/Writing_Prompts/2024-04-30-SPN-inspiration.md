@@ -830,6 +830,8 @@ impala becomes a real lady (=Tardis becomes a girl, DW S06E04)
 
 Dean try to figure out who she is and where is his car, Dean had sex with her? "All the time you're in me, how is this different now?"
 
+≈ prompt 307, a variation
+
 ### 82.【Dean】What if Ben is Dean's own
 
 What if Lisa lied and Ben *is* Dean's own. Post-621, they have no memory of Dean, but Ben is dying of natural mortal disease (for some reason angels aren't there or can't fix either, maybe during S9 when Cas is human?), need transplant, Dean is the only fit and he finds out
@@ -3299,4 +3301,28 @@ Dean is killed and scattered all across the universe, Cas go find every piece of
 
 (Lucifer's effort to kill Dean, prevent Michael takes his true vessel?)
 
-### 305.
+### 305.【destiel】S05E04 endverse becomes real canon
+
+S05E04 endverse timeline becomes real canon, what Dean did in canon-canon doesn't divert it, the world still moves toward that, Sam gets possessed by Lucifer, Cas becomes 14!Cas, angels leave, Dean doesn't say yes to Michael, the world occupied by Croatoan virus. Dean becomes 14!Dean, meets 09!Dean. Lucifer kills Dean (like in one of Chuck's AU world), but the world doesn't end after Dean's death. The world moves on, 14!Cas survives, 09!Dean & 14!Cas kill/lock Lucifer? Michael does something? Dean somehow gets resurrected, 14!Cas finds a way to save him. Sam is probably back in control over Lucifer again.
+
+### 306.【destiel】time travel save Mary from the fire without paradox
+
+(inspired by DW S01E08 Rose time travel to save her father)
+
+Dean asks Cas to bring him (maybe Sam too) back to the night of the fire, pretend to be a fireman, save Mary from the fire, fake her death, hide her somewhere, manage to work around paradox. So they still believed Mary dead their whole growing up, but she's not actually.
+
+for John to have some more closure, Mary let him in the hunter world, let him know about demons instead of him finding out by himself from Missouri
+
+what John did to the boys growing up, half is because he's scared of Sam's demon blood, he probably half wants to save Sam, half wants him dead by himself without John do anything (explains that case he uses Sam as bait, also explains he force Dean to become soldier to protect/save Sam)
+
+### 307.【destiel】S05E08 Cas becomes impala（R级）
+
+S05E08 the TV episode
+
+Gabe turns Cas into impala (instead of Sam) and doesn't give up the joke for a longer while
+
+potentially could turn into explicit
+
+≈ might related prompt 81
+
+### 308.
