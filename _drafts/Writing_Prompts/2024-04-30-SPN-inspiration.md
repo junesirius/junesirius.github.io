@@ -3285,4 +3285,18 @@ why are dogs really on Earth?
 
 或者直接在僵尸宇宙，像最后生还者那种既视感，会怎么样
 
-### 304.
+### 304.【destiel】S05E13 Dean gets killed and scattered all over the universe, Cas search for all his pieces to save him
+
+S05E13 establish rule of resurrection:
+
+> Castiel: Even if you could kill Sam, Satan would just bring him back to life.
+>
+> Anna: Not after I scatter his cells across the universe. They'll never find him. Not all of him.
+
+([ref](https://supernatural.fandom.com/wiki/Resurrection): In order for someone to be resurrected, the practitioner must have all -- or at least most of -- the subject's molecular components available. Anna planned to spread Sam's cells all across the universe in order to stop him from being resurrected.)
+
+Dean is killed and scattered all across the universe, Cas go find every piece of him when no one think it's possible. in all the space & time
+
+(Lucifer's effort to kill Dean, prevent Michael takes his true vessel?)
+
+### 305.
