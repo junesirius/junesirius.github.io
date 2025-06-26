@@ -2277,7 +2277,7 @@ They arrive home with Sam's soul in a suitcase and their half-brother in the bac
 
 No one dies today. No world-ending event scheduled for next week. Everyone safe and sound with all monsters gone.
 
-Talking about a big win.
+Talk about a big win.
 
 Dean walks into Bobby's house giving the old man a tight hug. He gives Sam one too, after Cas puts his soul back.
 
