@@ -86,7 +86,7 @@ body {
 
 /* post style */
 .article {
-    backgound-color: $article-background-color;
+    background-color: $article-background-color;
     font-size: 17px;
     color: $article-color;
 }
@@ -164,7 +164,7 @@ body {
 .navbar-custom .navbar-nav > li > a:focus,
 .navbar-custom .navbar-nav > .active > a:hover,
 .navbar-custom .navbar-nav > .active > a:focus,
-.navbar-custom .navbar-nav > .open >a {
+.navbar-custom .navbar-nav > .open > a {
     text-decoration: none;
     background-color: $nav-bar-open-a-background-color;
 }
@@ -185,4 +185,15 @@ body {
 }
 .navbar-custom .icon-bar {
     background-color: $nav-bar-icon-bar;
+}
+
+/* analysis page */
+.analysis-finish-color {
+    color: $analysis-finish-color;
+}
+.analysis-finish-color a {
+    color: $analysis-finish-color !important;
+}
+.analysis-finish-color a:hover {
+    color: $analysis-finish-hover-color !important;
 }
