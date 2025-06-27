@@ -13,6 +13,7 @@ title: 标签
         {% for node in pages_list %}
             {% if node.title != null %}
             {% if group == null or group == node.group %}
+                <div class="row" style="margin: 0; padding: 0">
                 <li>
                     <div class="col-md-10" style="margin: 0; padding: 0">
                         <a href="{{ site.baseurl}}{{ node.url }}"> {{ node.title }}</a>
@@ -24,6 +25,7 @@ title: 标签
                         </span>
                     </div>
                 </li>
+                </div>
             {% endif %}
             {% endif %}
         {% endfor %}

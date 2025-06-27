@@ -21,7 +21,8 @@ title: 人物
     <ul>
         {% for node in site.posts %}
             {% for post_character in node.characters %}
-                {% if post_character == character and node.title != null%}
+                {% if post_character == character and node.title != null %}
+                    <div class="row" style="margin: 0; padding: 0">
                     <li>
                         <div class="col-md-10" style="margin: 0; padding: 0">
                             <a href="{{ site.baseurl}}{{ node.url }}"> {{ node.title }}</a>
@@ -33,6 +34,7 @@ title: 人物
                             </span>
                         </div>
                     </li>
+                    </div>
                     {% break %}
                 {% endif %}
             {% endfor %}

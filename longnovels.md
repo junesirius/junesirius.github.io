@@ -22,6 +22,7 @@ title: 长篇
         {% assign curr_long_novel_list = site.posts | where: "long_novels", longnovel %}
         {% for node in curr_long_novel_list reversed %}
             {% if node.title != null %}
+                <div class="row" style="margin: 0; padding: 0">
                 <li>
                     <div class="col-md-10" style="margin: 0; padding: 0">
                         <a href="{{ site.baseurl}}{{ node.url }}"> {{ node.title }}</a>
@@ -33,6 +34,7 @@ title: 长篇
                         </span>
                     </div>
                 </li>
+                </div>
             {% endif %}
         {% endfor %}
     </ul>
