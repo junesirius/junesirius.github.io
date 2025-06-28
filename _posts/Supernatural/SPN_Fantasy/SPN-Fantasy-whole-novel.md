@@ -13,6 +13,10 @@ published: false
 
 [TOC]
 
+tag: modern fantasy, history fantasy, light amnesia, non-human Castiel, shared life, mutual pining, FantasyReverseBang25
+
+warning: No archive warnings apply
+
 ## Brainstorming
 
 ### Raw
@@ -199,11 +203,17 @@ The young man sitting next to him whom he thinks is a student asks him if he fin
 
 ### Summary
 
-###### [TBA]
+The man has been sitting there for ages, looking at the colored window facing south, not moving an inch, as if he's been there since the dawn of time. The afternoon sun shines on the window, casting a shade of blue on the marble floor. His eyes follow the color, deep, weathered, and indescribably sad.
+
+A kind, young student sits next to him, asking if he's okay.
+
+The weathered man says, "Let me tell you a story. A story from four thousand years ago, about a man named Dean, and a color of blue."
 
 ### Arts
 
 #### Banner
+
+![](https://64.media.tumblr.com/41f36b79e02129cc2db0634007a91813/872241625976e1c7-df/s2048x3072/e0e1c0967c0ec2371c1ae0506d86568a3f244ccd.jpg)
 
 #### Art
 
@@ -226,6 +236,10 @@ The young man sitting next to him whom he thinks is a student asks him if he fin
 ###### [TBA]
 
 #### draft notes
+
+> The story starts from an urban legend of the campus, rumor says the colored glass window in the south campus facing the lake is thousands of years old, and there is a man guarding it since the age before dawn. Then show there is a weathered man sitting on the bench before the glass, not aged, but his eyes worn and lonely. Out of place and doesn't look like a part of the school, but almost looks like a part of the building. A young student sits down next to him, asking him about what he's thinking, why he's here. The weathered man with green eyes starts telling a story:
+>
+> In 1500 BC, there was this man born in Mesopotamia, named Dean. He worked as a metalsmith, loved colors, and when he was working on constructing metals and weapons, he added rare metal to the heated melting quartz and invented colored glass. He experimented, and invented the most beautiful blue he (and the world) had ever seen. He loved the color so much, put enough emotion in it, and even named it. The name he gave the blue is Castiel, angel of blue. This is the age before dawn, the age before Roman and Greek, the age when magic was not a legend and god walking among them. And when gods and angels were created from man's belief. So Angel of Blue got his life, because Dean stared at the color long and lovingly. Castiel came to life.
 
 Dean appearance: weathered, not aged
 
@@ -255,6 +269,10 @@ question-answer form, asking about each line for story and Dean tells them
 
 #### draft notes
 
+> For a life time, Dean spent with Cas, building things together, the glass, the metal, the inventions, the art, the creations. They create together, they spend a hundred year together. By 1400 BC, Dean was near the end of his human life. It's already longer than any man at that time, he had no regret except for having to leave Cas alone. Cas was still young, looking exactly the same the day he was created, because neither of them really knew if the form Cas was in, that human form out of the trueform, is it really him and is he really a living being. He was not human, but he had life force.
+>
+> On Dean's deathbed, he was telling his last words to Cas, his love and his happiness and luck in that hundred years, Cas couldn't see him die, so Cas shared his life force with Dean, and faded back to a strip of blue on the colored glass they built together. He promised he'd be back, as long as Dean remembered him. He gave him life once, he could create him again.
+
 **Revelation:** Window is love letter
 
 ### Chap 3
@@ -273,6 +291,22 @@ question-answer form, asking about each line for story and Dean tells them
 
 #### draft notes
 
+> Dean continued to live as a young man, he painted down all different kinds of blue colors on all different materials. He travelled across the world, always carrying the small piece of colored glass with him, with that one strip of blue. People thought he was weird, mad even, because he looked at it as if it were the love of his life. And he never aged.
+>
+> In 1200 BC, Red Sea, Egypt, Dean saw the bluest water ever, and painted it down, Cas reemerged as a life form, they reunited and lived together for a hundred years. The clock started ticking for Dean again because he was really living the life. By the end of another hundred years, Cas had to do it again, shared his own life force, so Dean could be young and live again, and Cas faded into the second line of blue on the glass Dean carried. They both knew it was not a farewell. Dean said he'd wait for him again. And Cas said the same.
+>
+> That was how their story kept going, the history fast-forward:
+>
+> 1 AD, they met in Roman, Venice had the bluest sky, they witnessed the Roman Empire
+>
+> 600 AD and 900 AD, they reunited at the Medieval time when people had the bluest beliefs, they witnessed the crusades
+>
+> 1200 AD Gothic time, the bluest music at the Cathedral of Notre-Dame, France
+>
+> 1500 AD Renaissance, the bluest poetry in Italy, Petrarch's Sonnets to Laura
+>
+> 1800 AD Gothic Revival, the bluest story, Wuthering Heights, England
+
 ### Chap 4
 
 > current time, 2000AD (bluest winter -- loneliness, alienness, homesick, cold; combine with chap 1's passing line about out of place)
@@ -284,6 +318,10 @@ question-answer form, asking about each line for story and Dean tells them
 > who is the one forgetting: Dean
 
 #### draft notes
+
+> The weathered man tells the story as he points out the color on the glass window. There are thirteen long and short strips of blue, thirteen times they've met and lived. The window is a memoir, the color is a language, he's reading it like looking at a love letter. Even if either of them forgot their past lives, they could remember if they just looked at the notes, and got reminded. Even if they forget who they are or forget each other's name and face, they look at the glass and remember. He's Dean.
+>
+> The young man sitting next to him whom he thinks is a student asks him if he finds the pattern in the times Cas comes. Dean thinks every time Cas comes to him is when there is something so blue that his emotion has become so strong, that the life force condensed and conjured Cas into life. The young man asks, "Then what is so blue now?" Dean: "Me." This is the bluest winter, his loneliness, alienness, he's homesick, cold, doesn't belong to this time and place, people look at him funny. He thinks of Cas so much, because now he needs him the most, misses him the most. Even though it's been another three hundred years, and he can hardly remember what Cas looks like. And the young man looks at him with his blue, blue eyes, "Hello, Dean."
 
 **Revelation:** POV man is Cas, Dean is forgetting
 
