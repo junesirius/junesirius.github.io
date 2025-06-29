@@ -16,6 +16,8 @@ published: false
 
 (tag: crossover, time travel, case fic, mutual pining, eventual happy ending, canon-divergent, canon-typical self-sacrifice, temporary main character death, post purgatory, DW The angels take Manhattan, fix-it)
 
+warning: temporary main character deat 
+
 # Draft
 
 title: 《Do Not Blink》《The Angels Take Manhattan》《Look At Me》
@@ -334,6 +336,16 @@ On the roof of a very tall building, Cas is a weeping angel sculpture, his wings
 
 ## Posting info
 
+### Summary
+
+*New York, the city of stories. Half of them are true, the other half, just haven't happened yet.*
+
+\-\-\-
+
+People are disappearing, statues are moving. Dean and Castiel -- fresh out of Purgatory -- walk into the heart of the mystery, thinking it's their usual run-of-the-mill case.
+
+Until they meet a man with a funny bow tie and two hearts, who looks up from his screwdriver, and says, "Hello, I'm the Doctor, I'm a Time Lord. This is Amy, she's Scottish. Any questions? No? Good. Now, where is Rory?"
+
 ### Author's notes before the story
 
 (first paragraph: usual appreciation for the bang and artist)
@@ -341,6 +353,12 @@ On the roof of a very tall building, Cas is a weeping angel sculpture, his wings
 This story is heavily inspired by and adapted from Doctor Who's S07E05 episode with the same title, many of the scenes are heavily rewritten from the show because the original storytelling is so astonishing as is. Many quotes as well. Anything I'm not doing right is probably my bad, and most of the brilliant settings and story ideas should credit to the original show creators and production teams.
 
 The music that accompanies the creation of this story is Sting's 1987 song "English man in New York," also used in the original show.
+
+## Arts
+
+### Banner
+
+### Art
 
 ## Editing notes
 
