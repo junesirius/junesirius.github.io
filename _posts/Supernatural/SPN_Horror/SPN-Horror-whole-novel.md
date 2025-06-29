@@ -116,13 +116,13 @@ Except... it *is* the end of the world.
 
 "That, plus South Dakota in a storm season." Bobby grumbles, wheeling into the living room with a beer by hand.
 
-"Is that why you called us? I can't find any demon activity in the area though, no suspicious death, no missing people report. I mean, sure, the lightening storms look suspicious, but we might need something more than weather to find Lucifer." Sam looks up from his laptop, glancing at Bobby.
+"Is that why you called us? I can't find any demon activity in the area though, no suspicious death, no missing people report. I mean, sure, the lightening storms look suspicious, but we might need something more than funky weather to find Lucifer." Sam looks up from his laptop, glancing at Bobby.
 
 Bobby doesn't answer for a minute, taking a drag on the beer before speaking again.
 
 Dean turns back from the window, looking at him. "Bobby?"
 
-"There is something," Bobby lifts the bottle, leaving it on the desk with far too many layers of books and notes to see the desk. "You wouldn't notice unless you live here."
+"There is something," Bobby lifts the bottle, leaving it on the desk with far too many layers of books and notes to see the desk. "You wouldn't notice unless you are here."
 
 "Which is?" Dean prompts impatiently.
 
@@ -142,13 +142,13 @@ Bobby meets their eyes, gesturing to the books crowding the desk. "Well, that's 
 
 Bobby shrugs. "Could be, but we don't know for sure. Or what he wants, or if he's in town."
 
-"Anything special happening over the night? When everyone's sleeping?" Dean asks, standing by the desk, glancing at the opened pages and books. But the scrambled paintings of the devil doesn't give any clue.
+"Anything special happening over the night? When everyone's sleeping?" Dean asks, standing by the desk, glancing at the opened pages and books. But the scrambled paintings of the devil doesn't give any clue other than the imagined goat horns people love to draw.
 
 "That's just it, nothing happens. Even if they do, no one remembers." Bobby reaches for the beer again. "As far as I know, Devil can have a party on the street for all he wants over the night and clean up just before the sunrise, we wouldn't have the faintest clue."
 
 Dean exchanges an uneasy look with Sam. That might exactly be what Lucifer would do.
 
-"When did it start?" Sam shifts in his seat, starting to type on his laptop again. "There maybe some camera footage we can check."
+"When did it start?" Sam shifts in his seat, starting to type on his laptop again. "There may be some camera footage we can check."
 
 "Nice thinking." Dean walks over, shadowing behind his chair, looking at the screen.
 
@@ -178,23 +178,23 @@ Sam shakes his head. "Too much rain, can't see a thing." The replayed tape looks
 
 "What, you think Cas would know something about it?" Dean raises his eyebrows, running into two pairs of eyes shooting his way.
 
-"No harm just asking," Sam says reasonably, "it's good if he knows something, better than just us scratching our brains out."
+"No harm just asking." Sam says reasonably, "Good if he knows something, better than just us scratching our brains out."
 
-Dean huffs a short laugh, "No one's dying or anything, don't you think we should wait for something bigger to ring the bell? Man's busy looking for his Dad with a capital 'G.'"
+Dean huffs a short laugh, "No one's dying or anything, don't you think we should wait for something bigger to ring the bell? Man's busy looking for his Dad with a capital 'G'."
 
 "Jesus, what are you, nervous about ringing a phone to your crush or something?" Bobby grunts, "Just get on with it."
 
 Dean gives him a wide-eyed glare, then closes his eyes for a prayer. "Cas, need you here for a minute. The town's getting a bit weird, could be nothing --"
 
-"What is it?" Castiel asks, appearing in front of the window. The thunder outside is so loud that it even covered the usual sound of his flapping wings.
+"What is it?" Castiel asks, appearing in front of the window. The thunder outside is so loud that it covered the usual sound of his flapping wings.
 
-"Hey, Cas." Dean turns to him on his chair. "We got a sleeping beauty problem, for everyone in the town, night-time only."
+"Hey, Cas." Dean turns to him on his chair. "We got a sleeping beauty problem -- for everyone in the town, night-time only."
 
-Castiel frowns at him in slight confusion.
+Castiel frowns at him in light confusion.
 
 Sam explains, "Bobby said everyone in Sioux Falls are forced to sleep over the night. No one remembers anything, no one in exception."
 
-"We don't know if it's Lucifer or one of the two remaining horsemen." Dean amends.
+"We don't know if it's Lucifer or one of the two other horsemen, or anything else." Dean amends.
 
 "I'll take a look," Castiel says, closing his eyes, but does not disappear as Dean thought he would. The angel frowns deeper at himself.
 
@@ -202,7 +202,7 @@ Dean looks at him curiously. "Cas, you're still here."
 
 "I know," Castiel says, eyes wide open now with an alarmed look.
 
-"What is it?" Dean straightens his back immediately. Something is seriously wrong if it can make Cas disturbed like that.
+"What is it?" Dean straightens his back immediately. Something is seriously wrong if it makes Cas disturbed like that.
 
 "My power, it's gone." Castiel answers, with a higher pitched voice than usual, almost like a gasp.
 
@@ -214,11 +214,11 @@ Dean looks at him curiously. "Cas, you're still here."
 
 Dean follows his gaze and moans. The clock is pointing at six. They're losing daylight fast.
 
-"Guys, we don't have much time left for today." Bobby warns them, wheeling himself into the corner of the room, looking as if to get prepared for the coming sudden sleep.
+"Guys, we don't have much time left for today." Bobby warns them, wheeling himself to the corner of the room, looking as if to get prepared for the coming sudden sleep.
 
-"Don't tell me you're in this sleep curse too now." Dean stares at Castiel.
+"You gotta be kidding me. Don't tell me you're in this sleep curse too now." Dean stares at Castiel, unbelievably.
 
-The angel returns the stare, "We'll see shortly."
+The angel returns the stare with a straight face, "We'll see shortly."
 
 <br>
 
@@ -236,9 +236,113 @@ And then, the night falls.
 >
 > TFW go to crime scene, town folks crowded & gossiping (Doctor Gaines come pick up body)
 
+#### Act 1
+
+"This is not fun," Dean rubs his stiffened neck, stretching his arms and legs from the forced sleep on the chair for the whole night. His boots squeak slightly with wet marks on the floor.
+
+Sam and Bobby wake up with a yawning at the same minute.
+
+"It really is not," Sam agrees, standing up to stretch his body, "it's worse than motel bed."
+
+Dean murmurs an agreement. "I feel more tired than four-hours."
+
+Castiel stands to his foot from his position of lying on the floor, his hair and trench coat both more ruffled than usual. His look is more troubled than the previous day, as if someone waking up from a nightmare that they don't quite remember, but the horrid taste lingers.
+
+Dean eyes him, "First time falling asleep?"
+
+Castiel meets his eyes, the furrow is deep between his eyebrows. "I don't remember anything," he says gravely, "is it normal for human's sleep?"
+
+Dean almost laughs. "No, it's not." he tells him, "That's why it's a case, we need to figure out what's wrong."
+
+"How?" Sam asks, walking to the window, looking out. Dean's eyes follow him. It's not raining today. The sky is still gloomy, the air smells wet, but it improves so much comparing to yesterday's downpour.
+
+"I don't know, go into the town, ask around, see if anything wanky. You know, like doing a job, but hopefully it saves the world." Dean says, making his voice sound easy.
+
+Sam hums softly, moving toward the door, reaching for his jacket. "Sounds like a plan."
+
+"I would like to help," Castiel says slowly, looking at Dean.
+
+Dean nods quietly, then manages to pull a smile for a joke, "Not like you can go anywhere without our car now, aren't you?"
+
+The air in the room does not lift from the joke.
+
+Dean almost reaches the door when the door bell rings. He shoots a quick questioning glance at Bobby, who answers with a blank shake of head.
+
+Dean opens the door.
+
+A policewoman in her neat suit flashes a badge before his eyes. "Sheriff Jody Mills. Would you mind I ask a few questions?"
+
+"Sheriff," Dean gives her his perfect FBI smile, "to what do we own the pleasure?"
+
+Sheriff Mills is not impressed by his smile. Her voice is all business, "Murder suspect."
+
+"Whose murder?" Sam asks behind him. Dean doesn't notice when he walked over to the door.
+
+"Benny Sutton," Sheriff Mills says with a straight face, but Dean can see the force she's putting to keep no extra information leak. Her eyes are widened, the lines on her face tightened.
+
+"How bad?" Dean asks.
+
+Sheriff Mills gives him a stern look. "Very bad, the worst kind. Look, I'm not supposed to give *you* any information before your suspect is cleared."
+
+Dean blinks, gesturing to himself, "Me? Why me?"
+
+"Technically, it's all... three of you." Sheriff Mills looks behind him, eyes popping on Dean, Sam, and Castiel. Then to Bobby who's wheeling himself to the door, "Bobby Singer, how many people did you shelter here?"
+
+Bobby glares at her, "Just those three. Why do I have the feeling this is personal?"
+
+"Trust me, nothing personal." Sheriff Mills answers, "I've got witness report."
+
+"And they said it's one of those boys?" Bobby grunts.
+
+"What can I say, they all match the profile." Sheriff Mills looks at them. "Where are each of you last night?"
+
+Dean is the one answering for all of them, "Slumber party here, Bobby's place. All of us sleeping our twelve-hour long beauty sleep like everyone else in town, in case you didn't notice."
+
+Sheriff Mills does not show any sign of noticing anything unusual in what he just said. "The whole night? From sunset to sunrise?"
+
+"Yes," Dean says grumpily. "Are we good now?"
+
+"Then where does that come from?" Instead of leaving with the apparent answer, Sheriff Mills stares behind him, pointing at Bobby's living room floor.
+
+Dean turns around to look, blinking blankly as there is not really anything to see on the floor. It's wet with footprints just as he remembered.
+
+"What, the water marks?" Sam follows the direction of her fingers, must be seeing exactly what Dean sees. "What's so strange? It was raining yesterday."
+
+"The rain stopped before the morning. So if like you said, all of you have been staying inside for the whole night, where does the wet boot come from?" Sheriff Mills looks at the three of them one at a time meaningfully. "Maybe some of you sneak out in the night without others knowing."
+
+Dean exchanges looks with Sam and Castiel, all of them looking disturbed by the suggested accusation, shifting uneasily.
+
+"No way," Dean tells the Sheriff, "I know them, none of us did anything. We don't even know who this Benny Sutton guy is."
+
+"Proof is proof," Sheriff Mills says harshly, "I'll have to bring all of you in, notes and fingerprints and all that. You want to do it easy way or easier way? My car waits on the driveway."
+
+Dean glances behind her, and just like she said, a police car is parked on the driveway leading to the front door. No blinking red-blue siren light.
+
+Sheriff Mills puts a hand casually on her waist, just above the belt. Dean doesn't have to guess what's in her pocket or behind the belt.
+
+"Sure, no problem." Dean says quickly with another one of his professioned smile, nodding obediently.
+
+Bobby asks behind him, "I'm not invited?"
+
+Sheriff Mills gives him an unimpressed look, "Very funny, Bobby. No wheel marks, and the witness does say 'running' in this direction, not wheeling. No offense."
+
+"None taken." Bobby deadpans.
+
+<br>
+
+#### Act 2
+
+
+
 #### draft notes
 
-> meet Sheriff Jody Mills (casual mention her husband Sean Mills)
+> over night, Benny Sutton is killed violently
+>
+> Sheriff Jody Mills visit Bobby's house, questions/suspects them, saying witness (Digger Wells) sees killer coming this direction (figure tall, so not Bobby), all 3 deny, Jody takes them to station, ask questions (casual mention her husband Sean Mills in conversation)
+>
+> they meet other people in station being asked question, Clay Thompson's wife & Digger Wells, they learn about Benny/Clay old story, meet Deputy Frank
+>
+> TFW go to crime scene, town folks crowded & gossiping (Doctor Gaines come pick up body)
 
 ### Chap 3: Day Three
 
