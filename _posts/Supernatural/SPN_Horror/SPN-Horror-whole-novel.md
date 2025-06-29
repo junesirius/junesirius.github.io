@@ -12,7 +12,7 @@ published: false
 
 [TOC]
 
-tags: canon divergent, S05E15, case fic, inspired by My Bloody Valentine, suspense, temporary main character death, minor character death
+tags: canon divergent, S05E15, case fic, inspired by My Bloody Valentine, suspense, angst, temporary main character death, minor character death
 
 warning: graphic depictions of violence
 
@@ -242,7 +242,7 @@ casual mention Jody's husband Sean Mills in conversation
 
 #### Act 1
 
-"This is not fun," Dean rubs his stiffened neck, stretching his arms and legs from the forced sleep on the chair for the whole night. His boots squeak slightly with wet marks on the floor.
+"This is no fun," Dean rubs his stiffened neck, stretching his arms and legs from the forced sleep on the chair for the whole night. His boots squeak slightly with wet marks on the floor.
 
 Sam and Bobby wake up with a yawning at the same minute.
 
@@ -392,7 +392,7 @@ Castiel turns to him, shaking his head. His frown does not ease since the mornin
 
 "I was afraid I might be the one committed the crime." Castiel says gravely.
 
-Dean glares at him with widened eyes, whispering rapidly, "What are you talking about? You said you fell asleep the whole night, like the rest of us."
+Dean glares at him with widened eyes, whispering rapidly, "What the hell are you talking about? You said you fell asleep the whole night, like the rest of us."
 
 "I did," Castiel looks at him straight in the eyes, troubled, "and I don't remember anything over the night, so I assumed I slept. But my shoes, they're wet in the morning."
 
