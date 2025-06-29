@@ -3315,7 +3315,7 @@ for John to have some more closure, Mary let him in the hunter world, let him kn
 
 what John did to the boys growing up, half is because he's scared of Sam's demon blood, he probably half wants to save Sam, half wants him dead by himself without John do anything (explains that case he uses Sam as bait, also explains he force Dean to become soldier to protect/save Sam)
 
-### 307.【destiel】S05E08 Cas becomes impala（R级）
+### 307.【destiel】S05E08 Cas becomes impala（R级）【WIP】
 
 S05E08 the TV episode
 
@@ -3325,4 +3325,11 @@ potentially could turn into explicit
 
 ≈ might related prompt 81
 
+meanwhile Sam is trapped in a AU channel world, time flow differently, Gabe displays the next ten years for him, so by the time Dean and car!Cas find him, Sam is in S15E20 after Dean's death, locking bunker for the last time, broken and lonely
+
+turns out everything since this in canon is only in Sam's bubble world created by Gabe (with some reference to real world, so is Eileen real?), it's sad and heartbroken for Sam but now they get a second chance to do things right again, with some known knowledge e.g. don't let Sam's soul in Cage or Chuck is God or what's in Purgatory or what's Empty like (might just be Gabe's imagination tho)
+
+hopeful ending
+
 ### 308.
+
