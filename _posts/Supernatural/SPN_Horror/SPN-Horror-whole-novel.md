@@ -14,7 +14,7 @@ published: false
 
 tags: canon divergent, S05E15, case fic, inspired by My Bloody Valentine, suspense, temporary main character death, minor character death
 
-warning: graphic depiction of violence
+warning: graphic depictions of violence
 
 ## Draft
 
@@ -70,13 +70,11 @@ real bad guy (potentials): some poisonous materials in the town, mushroom or som
 
 515 timeline (2010, March 25), Sioux Fall, South Dakota
 
-(Bobby in wheelchair)
-
 big background: Lucifer is trying to persuade Sam to say yes, Michael on Dean, four Horsemen are rising (War, Famine was killed), Death was bound by Lucifer (purpose: town's behavior is basically Michael+Lucifer's game board, having a little killing-time fun before big fight, "killing time, sometimes people", two archangels want to take Cas out of picture, only to make Dean more sure about Cas should be with them in this together, regret doubting Cas even if he is controlled to killing)
 
-(setting: Cas has no power as soon as in town)
+(setting: Cas has no power as soon as in town, Bobby in wheelchair)
 
-day 1: Sioux Falls has unusual demon activity report + everyone forced to sleep over night, Dean/Sam/Bobby notice, no one knows why, Dean/Sam/Cas come to Sioux Fall to investigate, meet Sheriff Jody Mills (casual mention her husband Sean Mills), live in Bobby's place
+day 1: Sioux Falls has unusual demon activity report + everyone forced to sleep over night, Dean/Sam/Bobby notice, no one knows why, Dean/Sam/Cas come to Sioux Falls to investigate, meet Sheriff Jody Mills (casual mention her husband Sean Mills), live in Bobby's place
 
 day 2: over night, Benny Sutton is killed violently. Jody visit Bobby's house, questions/suspects them, saying witness (Digger Wells) sees killer coming this direction (figure tall, so not Bobby), all 3 deny, Jody takes them to station, ask questions; they meet other people in station being asked question, Clay Thompson's wife & Digger Wells, they learn about Benny/Clay old story, meet Deputy Frank; TFW go to crime scene, town folks crowded & gossiping (Doctor Gaines come pick up body)
 
@@ -90,6 +88,12 @@ day 6: over night, Jody is killed violently in the station, big gun fight, both 
 
 day 7: over night, no one dies, the town comes back normal, Dean wake up on the station floor, Cas grace self-heal slowly and wake up. ask what happened, Cas thinks because wolves stay awake over night so Dean survived the night by luck, they are both exposed, so game over (even though wolf lost), his grace comes back over night during the supposed wolf wake hour, so he gets to self-heal and eventually resurrect, all by luck (and still doesn't know why or who curse the whole town). and the killed over the seven days are still all dead, Sam suggest they leave town immediately, Bobby mourn Jody, Sean Mills still want to revenge. Jody resurrect, bringing message from "Death", it's a warning from Lucifer, telling them what would happen if they continue refuse to say yes to him, the whole world can be his fucking killing game, and disappointed his attempt of taking Cas out of the board (hopefully by Dean's hand) doesn't work, but maybe next time. TFW grimace, Dean glad they're alive, Sam solemn, they jump back into season 5 main task of finding ways to fight Lucifer. (hopeful canon-compliant ending)
 
+### Arts
+
+#### Banner
+
+#### Art
+
 ### Editing Notes
 
 ## Main
@@ -102,9 +106,125 @@ day 7: over night, no one dies, the town comes back normal, Dean wake up on the 
 
 ### Chap 1: Day One
 
-> Sioux Falls has unusual demon activity report + everyone forced to sleep over night, Dean/Sam/Bobby notice, no one knows why, Dean/Sam/Cas come to Sioux Fall to investigate, meet Sheriff Jody Mills (casual mention her husband Sean Mills), live in Bobby's place
+> Sioux Falls has unusual demon activity report + everyone forced to sleep over night, Dean/Sam/Bobby notice, no one knows why, Dean/Sam/Cas come to Sioux Falls to investigate, meet Sheriff Jody Mills (casual mention her husband Sean Mills), live in Bobby's place
 
-#### draft notes
+Rain pours down outside the window, muffling all the color to grey and dirty white. Blinding lightning flashes through the dark sky, cutting it open like knife cutting through butter. Thunders roll over the roof, shaking the earth. As if it's the end of the world.
+
+Except... it *is* the end of the world.
+
+"Is it me or it looks a hell lot like a demonic sign?" Dean stands in front of the window, staring at the downpour. It's not night yet, but just looking at the color of the sky, one can't tell the difference.
+
+"That, plus South Dakota in a storm season." Bobby grumbles, wheeling into the living room with a beer by hand.
+
+"Is that why you called us? I can't find any demon activity in the area though, no suspicious death, no missing people report. I mean, sure, the lightening storms look suspicious, but we might need something more than weather to find Lucifer." Sam looks up from his laptop, glancing at Bobby.
+
+Bobby doesn't answer for a minute, taking a drag on the beer before speaking again.
+
+Dean turns back from the window, looking at him. "Bobby?"
+
+"There is something," Bobby lifts the bottle, leaving it on the desk with far too many layers of books and notes to see the desk. "You wouldn't notice unless you live here."
+
+"Which is?" Dean prompts impatiently.
+
+"People go to sleep over the night." Bobby says, with a gloomy face.
+
+Dean blinks. "Right. Last I checked, that's what people do over the night."
+
+Bobby shakes his head. "No, you don't get it. I mean *everyone* in the town, doesn't matter you want to sleep or not, where you are, what you're doing, the night falls, and you just, close your eyes and fall asleep. No huss, no fuss. The next time you open your eyes, it's the next morning."
+
+"Okay, that's weird." Sam says slowly, sitting straight in the chair.
+
+"I'm listening." Dean says, walking toward the desk.
+
+Bobby meets their eyes, gesturing to the books crowding the desk. "Well, that's all I got. I checked everything, all the legends and lore I can find -- demons, angels, archangels. Nothing says anything about apocalypse giving you a sweet night's sleep."
+
+"You thinking it's Lucifer?" Sam says carefully.
+
+Bobby shrugs. "Could be, but we don't know for sure. Or what he wants, or if he's in town."
+
+"Anything special happening over the night? When everyone's sleeping?" Dean asks, standing by the desk, glancing at the opened pages and books. But the scrambled paintings of the devil doesn't give any clue.
+
+"That's just it, nothing happens. Even if they do, no one remembers." Bobby reaches for the beer again. "As far as I know, Devil can have a party on the street for all he wants over the night and clean up just before the sunrise, we wouldn't have the faintest clue."
+
+Dean exchanges an uneasy look with Sam. That might exactly be what Lucifer would do.
+
+"When did it start?" Sam shifts in his seat, starting to type on his laptop again. "There maybe some camera footage we can check."
+
+"Nice thinking." Dean walks over, shadowing behind his chair, looking at the screen.
+
+"A few weeks ago." Bobby answers vaguely.
+
+Dean glances at him, "Can't get more specific?"
+
+Bobby glares at him, "What? I haven't exactly been tracking my sleeping schedule, alright? Not like I have a work schedule to keep up with."
+
+Dean is about to retort, when Sam cuts in, "At least we know it didn't happen last time all of us were here."
+
+That puts both of them to silence. It is hard to forget when the last time they were here, the room was packed with six of them, in a beautiful waking night of drinking game and battle preparation. Only four of them still walking and breathing now. The last photo with all of them laughing and smiling is burned in the fire place.
+
+That was indeed, several weeks ago.
+
+Dean swallows, looking back at Sam's laptop screen.
+
+Bobby resumes drinking his half bottle of beer.
+
+"Find anything?" Dean asks, not keeping the hope too high. It would have been too easy.
+
+Sam shakes his head. "Too much rain, can't see a thing." The replayed tape looks nothing other than old-time black-white TV without signal, just snowflakes of white noise buzzing the channel.
+
+"Of course it does." Dean says, unimpressed, pulling a chair for himself next to the desk to sink in.
+
+"You want to try your angel buddy?" Bobby puts down the empty bottle with a thud.
+
+"What, you think Cas would know something about it?" Dean raises his eyebrows, running into two pairs of eyes shooting his way.
+
+"No harm just asking," Sam says reasonably, "it's good if he knows something, better than just us scratching our brains out."
+
+Dean huffs a short laugh, "No one's dying or anything, don't you think we should wait for something bigger to ring the bell? Man's busy looking for his Dad with a capital 'G.'"
+
+"Jesus, what are you, nervous about ringing a phone to your crush or something?" Bobby grunts, "Just get on with it."
+
+Dean gives him a wide-eyed glare, then closes his eyes for a prayer. "Cas, need you here for a minute. The town's getting a bit weird, could be nothing --"
+
+"What is it?" Castiel asks, appearing in front of the window. The thunder outside is so loud that it even covered the usual sound of his flapping wings.
+
+"Hey, Cas." Dean turns to him on his chair. "We got a sleeping beauty problem, for everyone in the town, night-time only."
+
+Castiel frowns at him in slight confusion.
+
+Sam explains, "Bobby said everyone in Sioux Falls are forced to sleep over the night. No one remembers anything, no one in exception."
+
+"We don't know if it's Lucifer or one of the two remaining horsemen." Dean amends.
+
+"I'll take a look," Castiel says, closing his eyes, but does not disappear as Dean thought he would. The angel frowns deeper at himself.
+
+Dean looks at him curiously. "Cas, you're still here."
+
+"I know," Castiel says, eyes wide open now with an alarmed look.
+
+"What is it?" Dean straightens his back immediately. Something is seriously wrong if it can make Cas disturbed like that.
+
+"My power, it's gone." Castiel answers, with a higher pitched voice than usual, almost like a gasp.
+
+"No." Sam breathes out unevenly.
+
+"Lucifer?" Dean asks, alarmed.
+
+"I don't know. I can't feel him or any other celestial beings now." Castiel looks around hurriedly, glancing at the clock on the wall.
+
+Dean follows his gaze and moans. The clock is pointing at six. They're losing daylight fast.
+
+"Guys, we don't have much time left for today." Bobby warns them, wheeling himself into the corner of the room, looking as if to get prepared for the coming sudden sleep.
+
+"Don't tell me you're in this sleep curse too now." Dean stares at Castiel.
+
+The angel returns the stare, "We'll see shortly."
+
+<br>
+
+And then, the night falls.
+
+<br>
 
 ### Chap 2: Day Two
 
@@ -117,6 +237,8 @@ day 7: over night, no one dies, the town comes back normal, Dean wake up on the 
 > TFW go to crime scene, town folks crowded & gossiping (Doctor Gaines come pick up body)
 
 #### draft notes
+
+> meet Sheriff Jody Mills (casual mention her husband Sean Mills)
 
 ### Chap 3: Day Three
 
