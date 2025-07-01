@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】Inside Baby (title TBD)
+title: 【Destiel】Unchanging Channels
 date: 2025-06-30 19:14
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Sam Winchester", "Gabriel", "Trickster", "Baby"]
@@ -9,7 +9,7 @@ pov: 第三人称
 origin: PB Exchange
 ---
 
-(tag: S05E08, what if, Castiel is Baby, canon fix-it, background Sam/Eileen, canon divergent, canon compliant)
+(tag: S05E08 Changing Channels, what if, Castiel is Baby, canon fix-it, background Sam/Eileen, canon divergent, canon compliant)
 
 <br>
 
