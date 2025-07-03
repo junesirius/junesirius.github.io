@@ -738,7 +738,7 @@ Emmanuel (amnesia Cas) can hear longing/prayer but doesn't know what it is until
 
 (old reddit prompt about someone who thinks they're just imagining the voice until one day they hear "turn around" and see the other person)
 
-### 70.【destiel】When the first pie is made
+### ~~70.【destiel】When the first pie is made【done】~~
 
 《Best creation ever》
 
@@ -3315,7 +3315,7 @@ for John to have some more closure, Mary let him in the hunter world, let him kn
 
 what John did to the boys growing up, half is because he's scared of Sam's demon blood, he probably half wants to save Sam, half wants him dead by himself without John do anything (explains that case he uses Sam as bait, also explains he force Dean to become soldier to protect/save Sam)
 
-### 307.【destiel】S05E08 Cas becomes impala（R级）【WIP】
+### ~~307.【destiel】S05E08 Cas becomes impala（R级）【done】~~
 
 S05E08 the TV episode
 
