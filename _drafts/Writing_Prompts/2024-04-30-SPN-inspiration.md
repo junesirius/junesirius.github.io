@@ -3335,5 +3335,10 @@ hopeful ending
 
 Cas has the option of killing Atropos and all destiny sisters, canon version choose to let them go. What if Cas is actually desperate and crazy enough to decide why not just see it through and do it all. So Bal actually kill Atropos from behind. Now they have to deal with two pissed-off destiny sisters before going back to their main season task. Knowing it's them, no doubt they'd succeed in the killing, and Dean/Sam would have to help. But might come consequence so bad that one or some of them have to die again (most likely Cas, for going too far)
 
-### 309.
+### 309.【all】S06 what if instead of Samuel, Cas bring Mary back
 
+As it turns out, it's Cas bring Samuel back from Heaven to help him and Crowley to find Purgatory, because Samuel is a really good hunter. So is Mary. So what if, instead of Samuel, Cas brings Mary back. Mary hunts with soulless Sam, see Dean live a normal life, etc.
+
+S06 rewrite, mimicking S12
+
+### 310.
