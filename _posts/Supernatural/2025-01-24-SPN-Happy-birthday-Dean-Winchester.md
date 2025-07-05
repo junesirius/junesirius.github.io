@@ -71,9 +71,9 @@ The doorbell rings when the dinner is ready. Sam jumps to his feet but Dean beat
 
 "Hello, Dean." he greets.
 
-"Cas." Dean throws a bro, glancing over his shoulder at Sam, "Delivery? Cas is your delivery?"
+"Cas." Dean throws a brief glance over his shoulder at Sam, "Delivery? Cas is your delivery?"
 
-Cas opens his mouth, but Sam coughs loudly before he can speak. "Uh, why don't you, em, come in and sit. Dinner is getting cold."
+Cas opens his mouth, but Sam coughs loudly before he can speak. "Uh, why don't you, em, come in and sit? Dinner is getting cold."
 
 Dean looks at him pointedly, but lets him go.
 
