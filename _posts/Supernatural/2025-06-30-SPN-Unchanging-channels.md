@@ -47,7 +47,7 @@ But Dean is absolutely sure he's alone in the car. He squirms in the seat, check
 
 "I don't know. The vessel doesn't feel right." Castiel answers. The light on the dashboard blinks in the same rhythm as he speaks. Dean notices it.
 
-"Crap, I don't think Trickster is dead." Dean almost punches the wheel, just like every time he gets frustrated. On second thought, he knocks the dashboard with his knuckles, "You in there, buddy? Feel anything when I do that?"
+"Crap, I don't think Trickster is dead." Dean almost punches the wheel, frustrated. On second thought, he knocks the dashboard with his knuckles, "You in there, buddy? Feel anything when I do that?"
 
 Castiel's voice quiets for a second, then, "Oh, I see. And, yes, I can feel that."
 
@@ -91,7 +91,7 @@ Dean nods at the windshield, watching the road rolling backward in a blur. He re
 
 It's getting darker anyway.
 
-"I don't mind," Castiel answers flatly.
+"I don't mind," Castiel answers.
 
 Dean nods, resting his eyes, and then opens again, remembering an important question, "You never said where we are heading."
 
@@ -103,7 +103,7 @@ Dean nods, resting his eyes, and then opens again, remembering an important ques
 
 "How big of a 'might' are we talking about?" Dean can't help asking.
 
-"Just, *might*." Castiel says, dimming all the lighting inside the car, including the ones blinking as he speaks.
+"Just, *might*. Like a hunch, you might say." Castiel says, dimming all the lighting inside the car, including the ones blinking as he speaks.
 
 "Alright, guess I'll have to live with that." Dean wraps his jacket around him to keep himself warm from a Midwest night in November -- they are probably somewhere in Indiana now, if not reach Wisconsin already. The car windows slide closed by themselves. Warm A/C is turned on.
 
@@ -145,7 +145,7 @@ He checks his phone. No missed call or message. Not really surprising.
 
 "Dean," Castiel's voice shifts a little -- the pitch is lighter, as if he's holding back the tiniest grin, "I think it is *you* in my space now. Literally."
 
-Dean's one hundred percent sure his cheeks are burning now. "Shut up." He snaps, rubbing his own face.
+Dean's one hundred percent sure his cheeks are burning now. "Shut up." He snaps, rubbing his face.
 
 The angel falls silent just as he's told.
 
@@ -175,11 +175,11 @@ He knocks on the dashboard with his knuckles, "Hello there? Don't you dare play 
 
 "There he is," Dean mocks, "then what's with all the -- whatever that is?"
 
-"That's '*El Cóndor Pasa*'," Castiel supplies helpfully. "a song of condors, from Peru --"
+"That's '*El Cóndor Pasa*'," Castiel supplies helpfully, "a song of condors, from Peru --"
 
 "Yeah, yeah, beautiful piece, I'm sure," Dean cuts his words quickly, "I mean, remember Rule One in this car?"
 
-"Driver picks the music." Castiel answers.
+"Driver picks the music." Castiel answers evenly.
 
 "Shotgun shuts his cakehole -- okay, you don't have a cakehole right now, but anyway, you get the idea?" Dean interrogates.
 
@@ -189,7 +189,7 @@ He knocks on the dashboard with his knuckles, "Hello there? Don't you dare play 
 
 "And who's driving right now?" Castiel's voice sounds unreasonably braggy now. Dean can swear he'd have that small glint of mischief in his eyes if he's in a human vessel.
 
-"You --" Dean's muted for a minute, defeated. "Son of a bitch." Now he can totally see Trickster is Cas's family.
+"You --" Dean's muted for a minute, defeated. "Son of a bitch." Now he can totally see Trickster is Cas's big brother -- or uncle, whatever, family.
 
 He has to listen to that Peruvian music for the rest of the night -- which, admittedly, isn't half bad. It sounds peaceful and far away, so far away that none of the trouble of the world can contaminate the music, it calms him down. But Dean wouldn't ever say it's better than Zeppelin for his whole life.
 
@@ -211,11 +211,11 @@ Dean glares at the dashboard, imagining that's Cas's eyes, "Care to elaborate?"
 
 Dean raises his eyebrows.
 
-"I think Gabriel has trapped Sam in a different version of reality." Castiel says carefully. "Another TV channel, but it feels real to him. It even has us and all the people he knew in there. Right from the moment you left the warehouse."
+"I think Gabriel has trapped Sam in a different version of reality." Castiel says carefully. "Another TV channel, but it feels real to him, like an overlay on the real world -- he's still physically on the Earth, but what he thinks happening in the world is mostly just in his mind. It even has us and all the people he knew in there. Right from the moment he stabbed the Trickster. Like he believed he was turned into the car instead of me, then you managed to trap Gabriel in holy fire circle."
 
-"Get to the punchline, Cas." Dean urges impatiently.
+"Get to the punchline, Cas." Dean urges impatiently, worried.
 
-"The time he senses moves a lot faster than ours. That explains why I can't get a clear read of his location -- he moves around a lot faster than I can get hold onto him."
+"The time flow in his sense moves a lot faster than ours. That explains why I can't get a clear read of his location -- he moves around a lot faster than I can get hold onto him."
 
 Dean swallows, "How long has he been through?"
 
@@ -223,21 +223,29 @@ Dean swallows, "How long has he been through?"
 
 "Cas, how long?" Dean snaps.
 
-Castiel answers: "Three years."
+"Three years so far."
 
 Dean wipes his face, exhaling deeply. "Three years, for Christ's sake." He doesn't know what to make of it.
 
-Only after a couple of minutes is he able to speak again: "What happened in those three years? In the life that asshole Gabriel made him believe is true?"
+Only after a couple of minutes is he able to speak again: "What happened in those three years? In the life that asshole Gabriel made him believe is true? It's like Mystery Spot all over again and worse."
 
-"We were fighting Lucifer and the Apocalypse, then Sam jumped into the Cage with Lucifer. His soul was locked with the Devil for an entire year because I went bad, saved his body without his soul. Then he suffered a lot from a broken wall, and I broke the Purgatory and let Leviathans out. You saved the world again, except..." He pauses again.
+"We were fighting Lucifer and the Apocalypse, then Sam jumped into the Cage with Lucifer. His soul was locked with the Devil for an entire year because I went bad, saved his body without his soul. Then he suffered a lot from a broken wall in his head, and I broke the Purgatory and let Leviathans out. We saved the world again, except..." He pauses again.
 
-"Except what, Cas?" Dean doesn't realize his knuckles are white from grabbing the wheel tight now. "Why is Sam in Kermit, Texas?"
+"Except what, Cas?" Dean doesn't realize his knuckles are white from grabbing the wheel tight now. "Why is Sam stopped in Kermit, Texas?"
 
-"He believes you and me are dead now, and he's moving in with a girl called Amelia, not hunting anymore." Castiel tells him in a quiet voice.
+"He believes you and me are dead now, and he's moving in with a girl named Amelia, not hunting anymore." Castiel tells him in a quiet voice.
 
-"Retired. So he's heartbroken and retired." Dean blinks, suddenly stepping on the acceleration pedal hard. "Let's get to him fast then, before he moves again or whatever. He'll know all those Cage stuffs are crappy illusions, everything is just made up by an assclown archangel."
+"Retired. So he's heartbroken and retired." Dean winces. "Is that girl even real? How do you know *we* are in the real world?"
 
-The pedal moves to the bottom without complaint, the Impala is pushed to her limit, racing on the road like cheetah on savannas. Dean can feel the safety belt tighten on his body, knowing exactly who's doing that. He doesn't say anything.
+"That imposes an interesting philosophical question of 'what is real' --" Castiel answers contemplatively.
+
+"Alright, I'll have to stop you there." Dean cuts his words, "You said 'mostly' in his mind, not 'everything', so it means not all is his hallucination? Any idea how big of a 'most' we're working with?"
+
+"That depends on how good in the mood Gabriel is in, I think."
+
+"I don't like how it sounds. But fine, we'll cross that bridge when it comes." Dean grimaces, suddenly stepping on the acceleration pedal hard. "Let's get to him fast then, before he moves again or whatever. He'll know all those Cage stuffs are crappy illusions, everything is just made up by an assclown archangel."
+
+The pedal moves to the bottom without complaint, the Impala is pushed to her limit, racing on the road like cheetah on savannas. Dean can feel the safety belt tightened across his chest, knowing exactly who's doing that. He doesn't say anything.
 
 <br>
 
@@ -245,9 +253,9 @@ The pedal moves to the bottom without complaint, the Impala is pushed to her lim
 
 They're almost at the border between Missouri and Arkansas when Castiel talks again.
 
-"Where?" Dean grits his teeth. The oil tank is getting low, and they have been racing for a whole day. But apparently their speed is still just too slow for Gabriel's like.
+"Where?" Dean grits his teeth. The oil tank is getting low, and the engine sounds tired -- they have been racing for a whole day. But apparently their speed is still just too slow for Gabriel's like.
 
-"Maine, 100-mile wilderness. You and me were just out of Purgatory, and Sam believes he's going through three Hell trials to close Hell's gates for go. Maine is where he'd go to Hell to save Bobby's soul and come back up, through Purgatory's portal."
+"Maine, 100-mile wilderness. In his vision, you and me were out of Purgatory, and Sam believes he's going through three Hell trials to close Hell's gates for good. Maine is where he'd go to Hell to save Bobby's soul and come back up, through Purgatory's portal. Bobby had died for almost two years now, in his mind."
 
 "Jesus, that's so messed up. So what, Gabriel can just make up anything and Sammy would just buy them in? How fucked up our life is that he'd just believe those bullshitting things can all happen for real? Purgatory? Leviathans? Hell trials, really?"
 
@@ -257,9 +265,11 @@ Dean takes a sharp U-turn in the middle of the road, ignoring the double yellow 
 
 Dean glances at the empty gas sign on the dashboard. "Just a few miles." He tries to coax the Baby-slash-angel. It used to work with Baby.
 
-"Dean." Castiel warns him again, the gas signal flashing red. Dean can practically hear the dry hoarseness in his voice.
+"Dean, I don't feel very well." Castiel warns him again, the gas signal on the dashboard flashing red. Dean can practically hear the dry hoarseness in his voice.
 
-"Alright, okay, let's feed you first." They drive off the highway and pull into the closest gas station.
+The rear mirror shows thick white mist coming out of the vent pipe, and it's getting denser by each second. Not good. It looks like something is going to burst into flames if he doesn't stop and take a look, taking down Baby and Cas all at once.
+
+"Alright, okay, sorry. Let's feed you first." They drive off the highway and pull into the closest gas station.
 
 "You need to rest too, again." Castiel says, as the pump feeding cheap gas into the tank.
 
@@ -267,11 +277,43 @@ Dean glances at the empty gas sign on the dashboard. "Just a few miles." He trie
 
 The light on the dashboard blinks twice. Dean takes that as a yes.
 
+The engine still feels way too heated to start running again, they pull in to the parking slot outside the convenience store, the farthest one to the window.
+
+Dean rounds to the back of the car, resting his hands on the trunk handle. "Uh, Cas?" his voice is a little funny, "You mind if I, uh, take a look at... the inside?" He tried very hard to not say "your inside", and especially hard to *not* think about what *part* of the inside this will be, thank you very much.
+
+"Am I allowed to start talking again?" Cas asks cautiously. They are out of sight of the convenience shop clerk now, from where they parked. Dean tells him go ahead.
+
+"Yes," Cas answers, "whatever you want to do."
+
+Dean swallows, "You sure you understand what I'm asking? Need to figure out where that ominous smoke comes from to fix you, that means open you up and do a little probing... God, why am I feeling like asking for a girl's consent on bed?" He wipes his face, feeling a bit hopeless and ridiculous.
+
+"Dean, just get on with it," Cas tells him, almost like rushing him with rolled eyes, running out of patience for his nonsense. "I don't mind."
+
+"Alright, if you say so. Yeah, just like fixing Baby up, did that a million times, I can do that." Dean forces his mind on the task that is solely about "fixing the car," otherwise he thinks it's just getting too weird even for him.
+
+Cas groans the slightest when Dean starts rummaging the tool box in the trunk. The voice is so quiet that Dean feels sure he'd miss it if he wasn't waiting for one. He retracts his hands with the wrench he was looking for like he touched some bare electric line, taking a step back hurriedly with a burning cheek.
+
+"You, uh, still okay in there?" Dean closes the trunk carefully, stepping to the front side, just left of the hood.
+
+"Yes, please continue." Cas tells him. Dean thinks it's shakier than his usual calm, even voice, but he decides not to ask -- wouldn't know what to answer if Cas confirmed what he suspected, whatever his filthy mind is fantasizing right now.
+
+"I'll be done in a sec. Let me know if I hurt you or anything, alright?" Dean murmurs, opening the hood, starting the inspection and fixing like it's his second nature.
+
+It is done in about half an hour. He has to remove a loose pipe that got oil in it, clean it, and reconnect it.
+
+"How you feel?" Dean closes the hood when he's done, wiping his greasy hand on a piece of trashy cloth that used to be his shirt, patting the car fondly in reassurance.
+
+"A lot better, thank you." Cas says, voice genuinely more comfortable and at ease.
+
+Dean grins, oddly proud. "Yeah, don't mention it."
+
+<br>
+
 "We can do the same as last night. You drive the night, I can sit-sleep. I'm a professional at sit-sleeping now." Dean suggests, once they're back on road. He leaves a bag of snacks on the shotgun seat, half-eaten beef jerk lying outside the plastic bag, black pepper-flavored. The window on that side lowers a small slit.
 
 "You need some proper rest," Castiel objects. "We don't know how long this will take. You don't want to burn out before catching up with Sam."
 
-"There's not much 'catching up' to do if we wait out, it's like whack-a-mole, he's just everywhere." But Dean knows Castiel is right, he just can't let himself agree. His butt hurts from sitting for too long, his shoulder and back are sore, and he feels his legs and arms are rusty, like robots fixed in the same position for too long. He can use a real night of sleep in a real bed -- except, knowing Sam's beaten up by Gabriel's fake world, he just can't rest.
+"There's not much 'catching up' to do if we wait out, it's like whack-a-mole, he's just everywhere." But Dean knows Cas is right, he just can't let himself agree. His butt hurts from sitting for too long, his shoulder and back are sore, and he feels his legs and arms are rusty, like robots fixed in the same position for too long. He can use a real night of sleep in a real bed -- except, knowing Sam's beaten up by Gabriel's fake world, he just can't rest.
 
 "What's Sam doing now?" Dean thinks out loud. "What's his version of world is like now?"
 
@@ -279,7 +321,7 @@ The light on the dashboard blinks twice. Dean takes that as a yes.
 
 "More freaking messes. Why am I not surprised?" Dean says, unamused. The moon has risen on the left side of the road, hanging low.
 
-"Why don't you go sleep in the back seat?" Castiel says, taking back the control. The wheel slightly nudge Dean out of grasp.
+"Why don't you go sleep in the back seat?" Castiel suggests, taking back the control. The wheel slightly nudge Dean out of grasp.
 
 "I'm not sleepy," Dean argues.
 
@@ -295,19 +337,19 @@ Dean asks with his eyes closed, "Cas, which part of you am I sleeping on?"
 
 "What?" Castiel's voice is muffled with the piano sound, but Dean can hear the confused head tilting motion from the syllable.
 
-"Please tell me it's your lap or something decent, 'cause if it's somewhere... funny, I don't want to think about it." Dean says in a sleepy voice.
+"Please tell me it's your lap or something decent, 'cause if it's somewhere funny, I don't want to think about it." Dean says in a sleepy voice.
 
-"Stop thinking about it." Castiel tells him, "It's not your first time sleep in the car."
+"Stop thinking about it." Castiel tells him firmly, "It's not your first time sleeping in the car's backseat."
 
-But not with an angel inside. Dean thinks, but he doesn't say it. He just hums softly, and the sleep falls on him.
+But the first time with an angel inside. Dean thinks, but he doesn't say it. He just hums softly, and the sleep falls on him.
 
 <br>
 
 The next day isn't too different.
 
-They don't get half-way to Maine when Cas says Sam has moved again, he's in Nebraska, because apparently at some point the Dean in his world has taken over a dark evil Mark of Cain and they let the Darkness into the world, who's also God's sister. And then Washington, where they start some multiverse traveling. Then Ohio, because God is the bad guy now and Sam -- along with Dean and Castiel and everyone else he knew -- are saving the world *again*.
+They don't get half-way to Maine when Cas says Sam has moved again, he's in Nebraska, because apparently at some point the Dean in his vision has taken over a dark evil Mark of Cain and they let the Darkness into the world, who's also God's sister. And then Washington, where they start some multiverse traveling. Then Ohio, because God is the bad guy now and Sam -- along with Dean and Castiel and everyone else he knew -- are saving the world *again*.
 
-They drive south, west, north, east, circling on the map like a aimless fly hitting a glass, except they know where they're going, they're just forever too slow. It's exhausting.
+They drive south, west, north, east, circling on the map like an aimless fly hitting a glass repeatedly, except they know where they're going, they're just forever too slow. It's exhausting.
 
 Dean bangs his head on the wheel more than once, and gets told by Castiel not to do that again.
 
@@ -325,7 +367,7 @@ That's good news, wait no -- Cas's tone sounds weird. It's the bad-news tone.
 
 "God is defeated, the Earth is peaceful now, everyone is finally free." Castiel tells him, leaving the obvious hint unsaid.
 
-"Too good to be true. Sounds like the end of the line." Dean murmurs, getting the twisted feeling around the gut. "He's not dead, is he?" His throat is tightened just for thinking that.
+"Too good to be true. Sounds like the end of the line." Dean murmurs, getting the twisted feeling all around his gut. "He's not dead, is he?" His throat is tightened just for thinking that.
 
 "No, he's fine." Castiel answers immediately, "You're fine too."
 
@@ -341,21 +383,24 @@ Dean lets out a short, relieved breath, "You know it's funny. We both know it's 
 
 <br>
 
-Sam walks out of the bunker slowly, looking back at the big sad empty space one last time, and turns off all the light. The gate locks with a heavy thud.
+<hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
+<br>
 
-He stares at the patterned key in his clenched fist for a long minute, feeling the rims of his eyes hot and wet again. It's not like he's going to come back here again, not when both Dean and Cas are gone, not like it's ever going to be a home for him. He still doesn't have the heart to leave the key behind.
+Sam walks out of the bunker slowly, looking back at the big sad empty space one last time, and turns off all the light. The gate locks with a heavy clunk.
+
+He stares at the patterned key in his palm for a long minute, clenching it tight, feeling the rims of his eyes hot and wet again. It's not like he's going to come back here again, not when both Dean and Cas are gone, not like it's ever going to be a home for him. He still doesn't have the heart to leave the key behind.
 
 Miracle circles around his ankle, whining softly, nudging him gently with its nose. Sam wipes his eyes carelessly with the back of his hands, picking up the dog in his arms.
 
 "At least I still have you, right?" Sam talks to the dog, breathing out a short broken breath, pulling a teary smile, and turns around.
 
-Dean leans on the passenger side of Impala, with his hands poked in the jean pockets, hanging a young wide smile on his face. "Hello, Sammy."
+Dean leans on the passenger side of Impala, with his hands poked in the jean pockets, hanging a young wide smile on his face. "Hiya, Sammy."
 
 <br>
 
-Sam jumps so fiercely he almost drops the dog to the ground. His hands tremble violently, half-way reaching back to the back of his belt, presumably for his gun, out of instinct, but stops mid-way, just hanging there, frozen. His face is torn apart trying to decide whether to dash toward him and squeeze him in a hug tight enough to choke him, or flee as far away from him as possible, and possibly shoot him.
+Sam jumps so fiercely he almost drops the dog to the ground. His hands tremble violently, half-way reaching to the back of his belt, presumably for his gun, out of instinct, but stops mid-way, just hanging there, frozen. His face is torn apart trying to decide whether to dash toward him and squeeze him in a hug tight enough to choke him, or flee as far away from him as possible, and possibly shoot him.
 
-Sam's voice is devastated when he speaks, "I just burned you, Dean." Tears stream down his face, "So whoever you are, you're not my brother. So what are you?" His pistol appears in his right hand, safety clicked off.
+Sam's voice is devastated when he speaks, "I just burned you, Dean." Tears stream down his face. "So whoever you are, you're not my brother. What are you?" His pistol appears in his right hand, safety clicked off.
 
 Dean withdraws the smile, putting both his hands in the air, looking Sam in the eyes. "It's really me, I'm real. Whatever you've been through in the past ten years, it's not real."
 
@@ -371,7 +416,9 @@ Sam finally wraps his arms around Dean's back, whimpering on his shoulder with a
 
 "We might need a little bit rewind. And you probably want to sit down somewhere." Dean tells him.
 
-Sam doesn't quite want to go back into the bunker, so they end up both sitting in the backseat of the Impala. Dean pats the car roof once before going in, hoping that's enough hint for Cas for the short notice.
+Sam doesn't quite want to go back into the bunker, so they end up both sitting in the backseat of the Impala. Dean pats the car roof gently once before going in, hoping that's enough hint for Cas for the short notice. Not a good time to startle Sam with too much surprise.
+
+Cas doesn't speak, as if he really is just playing a good part as a car. Dean takes it he understands him now.
 
 Sam's still staring at Dean when they get into the car, like he's going to pop out of air any moment. Dean's heart clutches tight, wanting to kick something every minute he has to see eyes like that.
 
@@ -381,11 +428,11 @@ The car door closes around them automatically. Soft lyrics of "Carry on, my wayw
 
 "Why? 2025, of course." Sam answers in confusion.
 
-"Welcome to 2010, Sammy." Dean tries to pull a smile, but meeting Sam's look, he just can't.
+"Welcome to 2010, Sammy." Dean tries to pull a smile, but seeing Sam's look, he just can't.
 
 "I don't understand." Sam frowns deep, "Is this time travel? You're the Dean from fifteen years ago, coming to save your future self?"
 
-"Wait, fifteen?" Dean frowns slightly, then realizes, "Crap, that's extra five years just before we got here. I'm so sorry, Sammy. I tried to get to you earlier, I really tried. But Cas and I, we just couldn't..."
+"Wait, fifteen?" Dean frowns, then realizes, "Crap, that's extra five years just before we got here. I'm so sorry, Sammy. I tried to get to you earlier, I really tried. But Cas and I, we just couldn't..."
 
 "Dean, I don't understand." Sam says desperately. "You're not making any sense."
 
@@ -405,15 +452,15 @@ Sam is still inhaling and exhaling unevenly, but the pace slows down gradually. 
 
 Dean shoots a desperate look at the dashboard -- at Cas. He doesn't even know who Eileen is, what should he even say?
 
-"I don't know, Sam, I'm sorry. We don't know." Dean can't bare to see Sam's heartbroken eyes any longer, turning to look outside the window.
+"I don't know, Sam, I'm sorry. We don't know." Dean can't bear to see Sam's heartbroken eyes any longer, turning to look outside the window.
 
-A small dog with curly white hair is chasing his own tail, just outside the door. Dean opens the car door, the dogs leaps in, sitting on Sam's lap. Sam holds it with a small startled voice.
+A small dog with curly white hair is chasing its own tail, just outside the door. Dean opens the car door, the dogs leaps in, sitting on Sam's lap. Sam holds it with a small startled voice, stroking its back like it's the most precious thing in the world.
 
 Dean's just about to reiterate the "no dog in car" rule, but holds his tongue when he sees all the lines on Sam's face softens.
 
-"That must be Miracle." He says.
+"That must be Miracle," he says.
 
-Sam combs the dog's hair with his fingers, looking at it fondly. "Yeah, he is. You named him that. I think miracles are never going to stop happening around him now." He even smiles a little.
+Sam combs the dog's hair with his fingers, looking at it so deeply fondly like a drowning man at a floating plank. "Yeah, he is. You named him that. I think miracles are never going to stop happening around him now." He even smiles a little.
 
 Dean watches him closely, then, "He looks real enough to me, no reason your girl isn't."
 
@@ -435,17 +482,17 @@ Castiel hums softly.
 
 "And you?" Dean throws the question back.
 
-Cas seems to surprised to be asked. The signal lights on the dashboard flash briefly, like a computer progress bar in loading mode, then, "I will be."
+Cas seems to surprised to be asked. The signal lights on the dashboard flash briefly, like a computer progress bar in loading mode, thinking, then, "I will be."
 
-Dean is just about to ask what he means, when there is a small knock on the window. Sam bends over the driver side window, with a big stupid smile on his face.
+Dean is just about to ask what he means, when there is a small knock on the window. Sam bends over Dean's side of the window, with a big stupid smile on his face.
 
 Dean steps out, asking but already knew the answer, "How's it going?"
 
 "Eileen's fine -- real, I mean -- both." Sam stutters.
 
-"How you feel?" Dean prompts.
+"How you feel?" Dean smiles small, happy for his little brother.
 
-"Hopeful, I think." Sam tilts his head slightly, considering, "I would have wished to give anything to have all of us back, alive, before any of those happen. Looks like now I just got what I wished. Be careful about what you wish for, right?"
+"Hopeful, I think." Sam tilts his head slightly, considering, "I would have wished to give anything to have all of us back, alive, before any of those happened. Looks like now I just got what I wished. Be careful about what you wish for, right?"
 
 He suddenly remembers something, asking quickly with a stunned look on his face, "Wait, 2010, does that mean Bobby is still alive?"
 
@@ -483,9 +530,9 @@ Dean raises an eyebrow, "Why wouldn't we be?"
 
 Sam shrugs, "I don't know, just asking."
 
-Dean: "Anything you want to tell me?"
+Dean frowns, "Anything you want to tell me?"
 
-Sam starts walking away from the car, "No, go ask Cas." He turns just in time to meet Dean's challenging questioning eyes, Sam rolls his eyes, "Just, talk to him before too late."
+Sam starts walking away from the car, "No, go ask Cas." He turns just in time to meet Dean's questioning eyes, as if challenging him dare to lie, Sam rolls his eyes, "Just, talk to him before it's too late."
 
 "Alright, fine, I will." Dean thinks he might be able to put two and two together already. He didn't miss the way Cas mentioned the other himself "was gone" but waved it off like it's nothing before they headed out to Lebanon. "-- after the dude gets his legs back. I can't have a heart-to-heart when he's, you know, with four wheels."
 
@@ -495,19 +542,19 @@ Dean rolls his eyes, "... why not? You're kidding, right?"
 
 The car honks gently once, from ten steps away. Sam nudges him playfully. Dean rolls his eyes more dramatically, but walks back to the car -- to Cas, and sits into the driver seat.
 
-Sam goes back to his video-talking phone and the dog, and Dean heads out for a short drive.
+Sam goes back to his video-talking phone -- which, isn't really that common to see in 2010, but who knows, maybe Gabriel just kept this up for Sam's sake -- and the dog, and Dean heads out for a short drive.
 
 As it turns out, having a heart-to-heart when the other party is the car is way easier than talking to a human, Dean Winchester finds out. Without feeling the weight of a pair of blue, blue eyes staring down -- even though he's not going to admit how much he misses them -- it feels the words can form so much easier when he can just stare outside the windshield.
 
-He does have enough practice like this with Baby. And with Castiel, it becomes natural.
+He does have enough practice like this with Baby. And now with Cas, it feels natural.
 
-Cas tells him about ten times the other version of him died for Dean, all the ones Sam has witnessed and believed. And then his final one, then Dean's final moments.
+Cas tells him about ten times the other version of him died for Dean, all the ones Sam has witnessed and believed. And then his final one, then TV-Dean's final moment.
 
 Dean's quiet for a long stretch of the road, they almost make the whole detour to Colorado instead of just a local quick run down around Lebanon like Dean initially planned, it's Cas taking them both back.
 
-"How much of those are real? I mean, imagining that's really you in those positions?" Dean manages to ask in the end, his voice broken. His hands on the wheels are the only things keeping him composed.
+"How much of those are real? I mean, imagining that's really you in those moments?" Dean manages to ask in the end, his voice broken. His hands on the wheels are the only things keeping him composed.
 
-"Saving you, and saving the world, whatever it takes?" Castiel's voice comes out clear and steady, "All of it. Why do you think I'd sacrifice everything for you last year? I fell for you, Dean. Do you think that's a one-time deal?"
+"Saving you, and saving the world, whatever it takes?" Castiel's voice comes out clear and steady, "All of it. Why do you think I'd sacrifice everything for you last year? I fell for you, Dean. Do you think that's a one-time thing?"
 
 Dean swallows hard. He presses his forehead on the wheel, closing his eyes, putting his lips on the car's wheel, like he did probably a million times with Baby before.
 
@@ -525,19 +572,19 @@ When Dean pulls over in front of the bunker again, he really isn't surprised to 
 
 "How's the talk with your angel?" Sam climbs into the shotgun seat.
 
-Dean throws him a glance, still in a too good mood, "I never said he's mine..."
+Dean throws him a glare, still in a too good mood to pretend a snap, "I never said he's mine..."
 
 "Oh come on, I know that look." Sam mocks, "You think I don't know my big brother falling in love?"
 
 Okay, he should totally see this coming. Karma is a bitch, so is Sam.
 
-"Jerk." Sam retorts, opening his laptop, starting to look for some latest hint on Gabriel and Lucifer and possibly Michael too.
+"Jerk." Sam responds, opening his laptop, starting to look for some latest hint on Gabriel and Lucifer and possibly Michael too.
 
-Apocalypse round two is still on the calendar, and the loose nuclear assbutts from Heaven and Hell are still out running around. But on the bright side, the three of them are back together; even brighter side, they know what's coming -- Gabriel's version, things like doing a soul headcount when leaving the Cage and keeping an eye out for Chuck early on -- and this time, they get to try things out differently, and hopefully, saving more people, saving the world again without too much loss. What more can they ask for?
+Apocalypse round two is still on the calendar, and the loose nuclear assbutts from Heaven and Hell are still out running around. But on the bright side, the three of them are back together; even brighter side, they know what's coming -- Gabriel's version, but hopefully some part real and informational, things like doing a soul headcount when leaving the Cage and keeping an eye out for Chuck early on -- and this time, they get to try things out differently, and hopefully, saving more people, saving the world again without too much loss. What more can they ask for?
 
 Dean pushes on the acceleration pedal, heading forward in a flash.
 
-And the music Cas chooses to put on this time, is right on spot -- Zeppelin's "Ramble On."
+And the music Cas chooses to put on this time, is right on spot -- Led Zeppelin's "Ramble On."
 
 He's totally spoiled now. Dean thinks. There is nothing they can't fix, and everything is just perfect as they are.
 
