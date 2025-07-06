@@ -3341,4 +3341,10 @@ As it turns out, it's Cas bring Samuel back from Heaven to help him and Crowley 
 
 S06 rewrite, mimicking S12
 
-### 310.
+### 310.【destiel】哥谭AU
+
+inspired by Misha的双面人在毁容之前穿GCPD警服造型，跟Jensen在Countdown里穿LAPD警服的侦探造型很配
+
+哥谭AU，双警探，单黑化，适合混乱邪恶
+
+### 311.
