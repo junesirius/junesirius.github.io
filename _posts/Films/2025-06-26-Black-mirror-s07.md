@@ -81,7 +81,7 @@ The very only downside of this episode, is probably just the actress doesn't fee
 
 不过还挺喜欢这种平静的讲故事的语调和叙事，很calming，12叔的声线也是听着很舒服。
 
-也很惊喜tuckersoft这个彩蛋，正好也同时在重温《Bandersnatch》，一眼认出是同一个宇宙了。很喜欢这种剧集之间的相互致敬。
+也很惊喜tuckersoft这个彩蛋，正好也同时在重温《Bandersnatch》，一眼认出是同一个宇宙了，甚至也有科林和tuckersoft boss Mo。于是感觉这是默认在一个Bandersnatch还没杀死他俩的平行世界里，或者这个世界才是Bandersnatch的主世界，总之很喜欢这种剧集之间的相互致敬。
 
 <br>
 
