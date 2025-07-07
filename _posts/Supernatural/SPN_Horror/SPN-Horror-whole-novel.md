@@ -96,6 +96,8 @@ day 7: over night, no one dies, the town comes back normal, Dean wake up on the 
 
 ### Editing Notes
 
+Edit outline: vote out Clay's wife on Day 2, vote out Henry on Day 3, vote out math teacher on Day 4 → villager death quickly, pattern quicker
+
 ## Main
 
 > 515 timeline (2010, March 25), Sioux Fall, South Dakota
