@@ -3347,4 +3347,12 @@ inspired by Misha的双面人在毁容之前穿GCPD警服造型，跟Jensen在Co
 
 哥谭AU，双警探，单黑化，适合混乱邪恶
 
-### 311.
+### 311.【Cas中心+micifer】Michael+Lucifer has their 1v1 inside Cas
+
+from S11 we already know Cas/Jimmy is a powerful vessel strong enough to host Lucifer, so S5 Lucifer wouldn't have to focus so much on Nick/Sam, he has other options, e.g. starting working on Jimmy/Cas since then
+
+similarly we can set/assume Dean/John/Adam aren't the only strong vessel for Michael, he doesn't have to stick with Dean, maybe Cas/Jimmy can host him too, so Michael shifts to work on Jimmy/Cas too
+
+so S5 becomes Michael+Lucifer both focus on torturing/persuading Cas, in the end both occupy Cas, the apocalypse essentially is them fighting, they have their fight inside Cas, Cas suffers, but world is saved
+
+### 312.
