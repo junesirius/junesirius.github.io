@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SPN】Best Creation Ever
+title: 【Destiel】Best Creation Ever
 date: 2025-07-02 18:50
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
