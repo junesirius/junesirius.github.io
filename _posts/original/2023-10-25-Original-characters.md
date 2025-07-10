@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【想象】从名字开始捏OC
+title: 【OC】从名字开始捏OC
 date: 2023-10-25 10:57
 categories: ["原创"]
 characters: ["Carol Elevens", "Tristan the Raven"]
