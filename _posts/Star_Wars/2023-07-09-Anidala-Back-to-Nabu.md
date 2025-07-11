@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【星战】比噩梦更糟的（尾声）回到纳布
-date: 2025-07-10 16:03
+date: 2023-07-09 16:04
 categories: 星球大战
 characters: ["Anakin Skywalker", "Obi-Wan Kenobi", "Shmi Skywalker", "Padmé Amidala", "Luke Skywalker", "Leia Organa"]
 tags: ["星球大战", "obikin", "anidala", "走天家", "待扩充"]
