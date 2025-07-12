@@ -12,7 +12,7 @@ published: false
 
 [TOC]
 
-tag: canon compliant, pre-series, indicated rape/non-con (not between Cas/Dean), hurt/comfort, angst, Castiel's wings, temporary main character death, S06E03 inspired
+tag: canon compliant, pre-series, indicated rape/non-con (not between Cas/Dean), hurt/comfort, angst, Castiel's wings, temporary main character death, S06E03 inspired, S04E07 inspired, Sodom and Gomorrah, inspired by Bible, Genesis XIX, slow burn, get together
 
 warning: rape/non-con, graphic depiction of violence
 
@@ -94,6 +94,12 @@ Bal find Dean/Cas, has the heaven weapon in hand, empathy on Cas, mojo him clean
 
 then the two meet again in 401, feel familiar, neither remember, but somehow intuitively trust each other already; 603 run into the salt weapon again, Bal gives him a meaningful eye
 
+### some minor characters
+
+Male: Martin Creaser, Lee Webb, Gordon Walker, Arthur Ketch
+
+Female: Leah Gideon, Toni Bevell, Bela Talbot
+
 ### Potential titles
 
 Four thousand years ago
@@ -154,37 +160,49 @@ You should never have come
 
 No more
 
+### Arts
+
+#### Banner
+
+#### Art
+
 ### Editing notes
 
 when posting, before each chapter, quote something from Bible
 
-Including/mention "Genesis XIX" in summary (?)
+some chapter titles: Save the Righteous Man, Save the Angel
+
+~~Including/mention "Genesis XIX" in summary~~
+
+ use "Castiel" in first few chapters, change to "Cas" only after they get close and familiar
 
 ## Main
 
 (all Dean POV)
 
-### Chap 1
+### (Chap 1) I. City of Sins
 
 > Dean born and living in Sodom, a city of sins and blasphemy, witness people strong and sinned, what they always do to each other, to visitors, to angels, witness they enslave and torture them (show Sodom power/tool/magic is equal to angels)
 >
 > Dean wants to leave the city but John doesn't let them, he is still too young to make decision for the family, and Sam's not adult yet. He wants to stop them but warned by John not to interfere, for fear they'll retaliate on the family, harm teen Sam. Dean has to stay quiet to protect Sam. He hates it for himself. (Sam 17y, Dean 21y)
 >
-> Dean stands by the gate of the city, sees Cas come, notices he's angel. intro and talk, exchange name. Dean warns him about people, wants him leave or only goes to his house, Cas doesn't listen, Dean follows, Cas gets noticed by the villagers immediately, Dean worries, but gets distracted/ordered away by John when passing by their house (Sam is sick), Dean has to leave taking care of Sam, Cas heads to city square alone, bearing people's eyes, Dean really worries (Dean mention his house/dad/Sam/neighbor in their talk)
+> Dean stands by the gate of the city, sees Cas come, notices he's angel (angel show up with wings at this era, describe wings). intro and talk, exchange name. Dean warns him about people, wants him leave or only goes to his house, Cas doesn't listen, Dean follows, Cas gets noticed by the villagers immediately, Dean worries, but gets distracted/ordered away by John when passing by their house (Sam is sick), Dean has to leave taking care of Sam, Cas heads to city square alone, bearing people's eyes, Dean really worries (Dean mention his house/dad/Sam/neighbor in their talk)
 
-### Chap 2
+#### draft notes
+
+people of Sodom is strong, powerful enough to confine angels, has angel-proofing weapons and holy oil
+
+Dean is Lot in this story, the only moral righteous man, young, citizen of Sodom, despise what his neighbors do to the angels, still have awe and faith for angels.
+
+Cas comes with order to see if they are indeed as sinned as the outcries and if so punish them
+
+### (Chap 2) II. Find the Angel
 
 > Dean comes back out after three days (Sam doesn't get better but stabled, he goes to get meds), goes to the city square, Cas is gone, Dean only finds broken feathers and blood and lingering grace, people laughing talking about new angel, Dean heart hurt, find a vial to collect Cas's lost grace
 >
 > Dean starts looking for the angel, hoping it's not too late, doesn't dare asking around for fear they know they're close, notice signs of Cas's appearance and grace and cloth pieces here and there, torn trench coats etc., imagining the worst already
 
-#### draft notes
-
-Dean is Lot in this story, the only moral righteous man, young, citizen of Sodom, despise what his neighbors do to the angels, still have awe and faith for angels.
-
-Cas comes with order to see if they are indeed as sinned as the outcries and if so punish them, ends up being enslaved, torn and tortured, sexually violated, locked up, broken, distained.
-
-### Chap 3
+### (Chap 3) III. 
 
 > after three more days, Dean finds Cas in his neighbor's cellar, enslaved, wings broken, cloth torn, very pitiful looking, skin burned, locked up, has angel-proof carvings and holy oil everywhere, chest carved with humiliation, blood distained, beaten up, very obviously sexually violated, currently passed out. maybe witness Cas violated again by some random guy
 >
@@ -196,9 +214,13 @@ Cas comes with order to see if they are indeed as sinned as the outcries and if 
 
 #### draft notes
 
+neighbor's name: Martin
+
+Cas ends up being enslaved, torn and tortured, sexually violated, locked up, broken, distained.
+
 Cas feel guilty for hurting Dean
 
-### Chap 4
+### (Chap 4) IV. 
 
 > neighbor calls for helpers to constrain Cas again and beat him up even worse, torture/punish him more, Cas doesn't protest like used to (bc he thinks he deserves this one), Dean protests and claims he's fine but gets ignored (heartbroken, think Cas is hurt more bc of him, self-blame)
 >
@@ -212,7 +234,7 @@ Cas feel guilty for hurting Dean
 
 John comes back find out Dean's wounded by Cas, super pissed at Cas, hurt/torture him more, almost kill him. Dean pleads for Cas, manages to take him home
 
-### Chap 5
+### (Chap 5) V. 
 
 > Dean opens Cas's lock/chain, Cas doesn't try to escape. Dean: "You're not going to leave?" Cas: "Where to?" Cas thinks he's already distained by human, he's dirty now, Heaven loathes any form distained by human, e.g. Nephilim, he doubts if Heaven would still want him in, or he can make wings heal to good again to fly back to Heaven. (during torture, some/a lot of his grace is drained, wound on the neck)
 >
@@ -222,7 +244,7 @@ John comes back find out Dean's wounded by Cas, super pissed at Cas, hurt/tortur
 >
 > Dean unintentionally shows some sexual tendency/desire on Cas during kiss, e.g. frottage. Cas startled, pull away immediately, trauma violation triggered. Dean regret immediately, apologize, hurry out of the room
 
-### Chap 6
+### (Chap 6) VI. 
 
 > Dean has to find excuses everyday to explain to John why he's not killing Cas yet, lie that he's torturing Cas to let him pay so John doesn't get suspicious, John proud he's getting better at torturing. Sam knows he's lying, secretly ask why Dean doesn't tell John truth but Dean too resigned to confront John.
 >
@@ -232,19 +254,19 @@ John comes back find out Dean's wounded by Cas, super pissed at Cas, hurt/tortur
 >
 > Dean doesn't interact much with Cas after that hurried leave, avoid him, afraid getting things worse, except for continue providing food/water/bandage/vial with his grace, giving Cas space, hoping him recover by himself. sometimes secretly observe Cas from entrance, want to talk but doesn't know how to, watch Cas facing small window watching sky, think Cas doesn't know he's observing him. Cas actually notices
 
-### Chap 7
+### (Chap 7) VII. 
 
 > Cas calls Dean before he can leave secretly again. Dean enters, keeps distance, self-aware, afraid of hurting Cas accidentally again, mentally or physically. Cas sees it, reaches to kiss Dean. Dean reciprocates, but: "Does it help?" Cas raises eyebrow, Dean was thinking the kiss is only for tapping his soul to help Cas recharge and heal. Cas sighs and tells him how different he is to anyone else and that he hears conversations upstairs, Dean doesn't need to fear to hurt him, except for the sexual activities that he's not ready again.
 >
 > Cas's wings are healing, Dean caresses the feathers, awed, love it, more ashamed for other sinned humans, ashamed of himself too for thinking of hurting Cas to save Sam, want to save Sam and everyone. Cas amazed/touched by him again, even angel/Heaven has given up on these people, ready to destroy these people instead of saving them, but Dean's still trying to change them. Cas suggest meet Sam
 
-### Chap 8
+### (Chap 8) VIII. 
 
 > Cas meet Sam first time, diagnose him, mojo heal him. Sam start thank/appreciate angels too, asks Cas's initial mission 
 >
 > Cas shares the original plan/his order: as soon as his wings recover enough, he'd go back report his experience and the city will be determined whether worth saving, if not then destroyed. Dean worry, Cas promise will save him and Sam, Dean still want to save everyone, Cas irritated a little, they argue slightly, raise voice, afraid of being found (already noticed by John actually), Dean rushes out unhappily, wants to prove to Cas people in Sodom can change/still be saved (want to say Sam is example but not strong enough)
 
-### Chap 9
+### (Chap 9) IX. 
 
 > outside, Dean talks with Sam about God's plan to destroy Sodom as soon as Cas recovers and goes back to report, wants Sam's support to prove people can be changed/saved, Sam is neutral friendly but too reasonable so unsure they still can be saved. The conversation is overheard by John, more determined to kill Cas immediately.
 >
@@ -252,27 +274,27 @@ John comes back find out Dean's wounded by Cas, super pissed at Cas, hurt/tortur
 >
 > Cas distracted by Dean's wound, John severely stabs Cas and almost kills him, threaten to throw him out to let all neighbors know he's here and do what did to him again, Dean first time attacks John, knocks him out. Cas thinks he's dying for sure this time, confesses to Dean, Dean cries, reciprocates, kisses, Cas closes his eyes, grace dimming, Cas last words: "If the city is worth saving, it would be because of you"
 
-### Chap 10
+### (Chap 10) X. 
 
 > Dean desperate, first time pray to God and other angels, thinks Cas doesn't deserve that. Bal answers, says Upstairs (God isn't there, it's Michael in charge) already decides to destroy city (Cas doesn't report back is proof enough), just wait for Dean to leave the city (Michael promised Abraham to save righteous men in the city, actually bc Dean's his vessel)
 >
 > Dean insists Bal to resurrect Cas, Bal makes it a deal: he can save Cas but Dean has to leave city (Sodom dies) or Dean stays and Cas dies (Sodom lives). Either way, Dean lives. Bal: "You said Sodom is worth saving, but everything comes with a price. Are those corrupted people out there who did this to him, worth his life? Are you going to exchange his life, for those ingratitude sinners?"
 >
-> Dean torn apart, cries hard, painful decision, refuse to choose either, too painful, start cursing angels/Heaven/God again, lost faith in angel/Heaven here, start getting angry and vicious, act as not care about saving the world again, choose Cas
+> Dean torn apart, cries hard, painful decision, refuse to choose either, too painful, start cursing angels/Heaven/God again, lost faith in angel/Heaven here, start getting angry and vicious, act as not care about saving the world again, counter proposal of killing himself and same both but not an option, eventually choose Cas
 >
 > high-pitch sound drops in, Michael speaks to Bal directly, Bal listens with pale face
 
-### Chap 11
+### (Chap 11) XI. 
 
-> Bal gets scolded by Michael directly, solemn face, resurrects Cas, mojos him clean, fixes his wings and other unseen tears, murmurs by his ear then disappears
+> Bal gets scolded by Michael directly (for forcing Dean lose faith), terrified solemn face, drop joke face, resurrects Cas, mojos him clean, fixes his wings and other unseen tears, murmurs by his ear then disappears
 >
 > Cas/Dean hug/kiss, Dean cries again, Cas looks at him sad. Dean asks what Bal said, Cas says Bal went off preparing for the weapon to destroy the city like they planned, but by choosing Cas and condemn the city, Dean isn't righteous man anymore, they're allowed to destroy the city with him in it. Dean: "He did say 'Everything comes with a price'", thinks it means he'd have to die, he doesn't regret choose to save Cas
 >
-> fire and Sulphur start dropping into city, Cas makes his decision, disobeys order, offers to fly Dean/Sam out of city. Dean doesn't think he deserves anymore, Cas: "You always deserve saving." Sam pleads to bring John too, Cas thins lips, Dean doesn't know if he'd be happy about it, Cas warns them not to look back and flies them to Zoar
+> fire and sulphur start dropping into city, Cas makes his decision, disobeys order, offers to fly Dean/Sam out of city. Dean doesn't think he deserves anymore, Cas: "You always deserve saving." Sam pleads to bring John too, Cas thins lips, Dean doesn't know if he'd be happy about it, Cas warns them not to look back and flies them to Zoar
 
-### Chap 12
+### (Chap 12) XII. 
 
-> they can feel the fire heat from the burning cities (more than just Sodom, Gomorrah too, and Admah, Zeboiim), have to force themselves to not turn back to watch. Cas stands there with them. John wakes up, turns to watch, becomes pillar of salt. Dean stares, unsure of how he feels. Sam just stares, Cas watches Dean in silence, as if wait for his orders
+> they can feel the fire heat from the burning cities (more than just Sodom, Gomorrah too, and Admah, Zeboiim), have to force themselves to not turn back to watch, Cas use wing to protect Sam/Dean's eyes. Cas stands there with them. John wakes up, turns to watch, becomes pillar of salt. Dean stares, unsure of how he feels. Sam just stares, Cas watches Dean in silence, as if wait for his orders
 >
 > Bal comes back with the salt weapon in hand. Cas: "You don't have to do that" Bal: "Order from Upstairs. (to Dean) You feel better?" (Michael's friendly gesture trying to earn Dean's faith back) Dean: "Not really. What now?" what's him and Sam gonna do alone in this world, with everyone they know destroyed
 >
@@ -283,12 +305,14 @@ John comes back find out Dean's wounded by Cas, super pissed at Cas, hurt/tortur
 > Bal: "That's not an option either" he's not gonna go to Heaven after dead, he'll go into next reincarnation, bc Michael thinks he's not ready yet, it's like a training process. the decision he made shows he's not ready yet. Dean: "Then when is ready?" Bal: "In a few thousand years, we have some big plans. Spoilers. But it's a long time, don't have to worry now, go enjoy your boring monkey life, you have a few thousand years to kill."
 >
 > Dean to Cas: "Will I ever see you again?" Cas: "You will, I promise." Dean: "But I wouldn't remember you, would I? Everything we went through here, everything I did. I'll forget." Cas (small sad smile): "No, but it's okay." Dean nods sadly, last kiss
+>
+> Cas is brought to Naomi (enough hint for brainwash)
 
-### Chap 13
+### (Chap 13) XIII. After the Time
 
 > (Four Thousand Years later)
 >
-> 401 timeline (2009.9.18), they meet again, both feel familiar, neither remember, but somehow intuitively trust each other already (Cas: "haven't walked earth for two thousand years, haven't met a man like you for four thousand years")
+> 401 timeline (2009.9.18), they meet again in Hell/Pit, both feel familiar, neither remember, but somehow intuitively trust each other already (Cas: "haven't walked earth for two thousand years, haven't met a man like you for four thousand years")
 >
 > 603 run into Bal and salt pillar weapon again, Bal looks them from one to the other, meaningful eyes, Dean spits: "You got anything to say?" Bal: "Just remembering some good old time, that's all. Not like either of you are there or anything." Bal smiles, disappears. Dean/Cas exchange look, Cas tilts head, both feel like they forgot something. Dean look at Cas: "Doesn't matter. We're here now."
 
@@ -300,6 +324,6 @@ Cas gets brainwashed by Naomi, so memory of this encounter is hidden (but not co
 
 410 Anna: "I was stationed on earth 2,000 years. Just... watching... silent... invisible... out on the road... sick for home... waiting on orders from an unknowable father I can't begin to understand."
 
-Abraham timeline is 2000 BC, so the Sodom time is 4k years ago
+Abraham timeline is 2000 BC, so the Sodom time is 4000 years ago
 
 ###### [END]
