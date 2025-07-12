@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【星战】这是一个成长故事
+title: 【Obikin】这是一个成长故事
 date: 2023-06-14 01:53
 categories: 星球大战
 characters: ["Anakin Skywalker", "Obi-Wan Kenobi"]

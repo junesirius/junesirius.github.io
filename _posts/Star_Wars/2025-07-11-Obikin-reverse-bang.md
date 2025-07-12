@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Obiki】
+title: 【Obikin】
 date: 2025-07-11 11:24
 categories: 星球大战
 characters: ["Anakin Skywalker", "Obi-Wan Kenobi"]

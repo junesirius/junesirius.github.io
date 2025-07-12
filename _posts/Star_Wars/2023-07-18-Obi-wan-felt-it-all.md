@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【星战】欧比旺感受到了
+title: 【Obikin】欧比旺感受到了
 date: 2023-07-18 22:55
 categories: 星球大战
 characters: ["Anakin Skywalker", "Obi-Wan Kenobi"]

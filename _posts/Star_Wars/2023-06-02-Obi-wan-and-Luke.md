@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【星战】欧比旺其实是不想看见卢克的，不想也不敢
+title: 【Obikin】欧比旺其实是不想看见卢克的，不想也不敢
 date: 2023-06-02 00:37
 categories: 星球大战
 characters: ["Anakin Skywalker", "Obi-Wan Kenobi", "Luke Skywalker"]

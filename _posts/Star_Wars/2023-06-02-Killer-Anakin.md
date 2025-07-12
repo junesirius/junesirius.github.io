@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【星战】杀手安（脑洞）
+title: 【Obikin】杀手安（脑洞）
 date: 2023-06-02 20:03
 categories: 星球大战
 characters: ["Anakin Skywalker", "Obi-Wan Kenobi"]
