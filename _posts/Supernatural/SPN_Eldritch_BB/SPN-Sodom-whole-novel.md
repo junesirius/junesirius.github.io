@@ -12,7 +12,7 @@ published: false
 
 [TOC]
 
-Tag: canon compliant, pre-series, hurt/comfort, angst, Castiel's wings, indicated nonexplicit rape/non-con (not between Dean/Castiel), temporary main character death, torture, S06E03 inspired, S04E07 inspired, Sodom and Gomorrah, inspired by Bible, Genesis XIX, slow burn, get together
+Tag: canon compliant, pre-series, hurt/comfort, angst, slow burn, get together, Castiel's wings, indicated nonexplicit rape/non-con (not between Dean/Castiel), mob, temporary main character death, torture, S06E03 inspired, S04E07 inspired, Sodom and Gomorrah, inspired by Bible, Genesis XIX, purposefully sinful description for most characters including John Winchester and occasionally Sam Winchester due to story setting, super awful worse-than-canon John Winchester
 
 Warning: rape/non-con, graphic depiction of violence
 
@@ -174,6 +174,8 @@ when posting, before each chapter, quote something from Bible
 
  use "Castiel" in first few chapters, change to "Cas" only after they get close and familiar
 
+the angel in chap 1 Cas come to search is Jonah and he didn't survive (mention that in later chapters)
+
 ## Main
 
 (all Dean POV)
@@ -188,11 +190,11 @@ when posting, before each chapter, quote something from Bible
 
 #### Act 1
 
-Dean shuts the door, but leaving it unlocked, not yet. He lowers the shades, too. The room falls into grey dimness. He lights the candles, placing them in the center of the dining table, shadowing the room with wavering light. There are baked unleavened bread on the desk, ready to serve.
+Dean shuts the door, but leaving it unlocked. He lowers the shades, too. The room falls into grey dimness. He lights the candles, placing them in the center of the dining table, shadowing the room with wavering light. There are baked unleavened bread on the desk, ready to serve.
 
 It's not really night yet, outside. The sun is setting, the street in dusk is still busy with the men of the city, young and old. He knows every one of them -- Sodom isn't a big city, everyone knows everyone here. So whenever there is someone from outside comes to the city, all of them know.
 
-The men of the city are heading to the square -- almost all of them, if they are not otherwise occupied. Dean doesn't want to see, or hear the sound from the street. The sound from the square still sneaks in through the crack under the door and windows -- loud, cheerful voices of men, and an undistinguishable, squeaky, high pitch.
+The men of the city are heading to the square -- almost all of them, if they are not otherwise occupied. The sound from the street and outside are muffled, with the door and windows closed. But the sound from the square still sneaks in through the cracks -- loud, cheerful voices of men, and an undistinguishable, squeaky, high pitch.
 
 Dean busies himself with cleaning the room, turning against the window.
 
@@ -212,73 +214,209 @@ Dean's not sure if it's the noise outside that woke Sam up or the lack of it. He
 
 Dean shrugs slightly. "Don't think anyone would be interested in faking one," he says. "Not the first one in the city, probably not the last one either."
 
-"Why aren't you out there for them?" Sam asks, genuinely curious, if not a little confused.
+"Why aren't you out there then?" Sam asks, genuinely curious, if not a little confused.
 
-"Why would I?" Dean says plainly, edging away from their dining table, fidgeting in their kitchen to fill the wine and water bottle, facing away from the door and Sam.
+"Why would I?" Dean asks plainly, edging away from their dining table, fidgeting in the kitchen to fill the wine and water bottle, facing away from the door and Sam.
 
 Sam turns in the seat slightly to glance at the back of his brother, "Well, I believe everyone else is, and I bet Dad too."
 
 "You don't know what they're doing to them out there." Dean says glumly, "And I hope you never would."
 
-Sam opens his mouth, just in time for the door opens and their father walks in. His removed jacket hangs on his arms. He leaves it on the rack by the door, heading straight to sit at the table.
+Sam opens his mouth, just in time for the door opens and their father walks in. His removed jacket hangs on his arms. He leaves it on the rack by the door, heading straight to kitchen to rinse his hands, passing by Dean.
 
-"You look well today," John checks Sam up, grabbing a piece of bread to stuff into his mouth.
+"You look well today," John finishes up, sitting down at the table, checking Sam up.
 
-"I feel better too," Sam nods, then asking, "How's the angel, Dad?"
+"I feel better too," Sam nods, then asks, "How's the angel, Dad?"
 
-John shoots a glance at Dean once quickly, "So you heard. Just like usual, we do what we do."
+"So you heard." John flashes a glance at Dean once quickly, "They are peculiar creatures. We did what we enjoy, and now we know him in every sense."
 
-"Which is not right. It's blasphemous and unmoral." Dean can't help himself snapping, putting the wine and water bottle down on the table a little too hard.
+The word *"know"* has many meanings, and Dean knows well enough it's the worst kind in this sentence.
+
+"Which is blasphemous and unmoral." Dean can't help himself snapping, bringing the wine and water bottle over, putting them down on the table with a little too much force. "It's not right."
 
 "I see your brother is still the same, innocent and difficult." John says sourly, still facing Sam. "Morality has nothing to do here, neither is piety. How many times do I need to remind you: when in Sodom, do as Sodoms do. It's nothing wrong when everyone is doing the same."
 
 "It still is," Dean sits down at the table bitterly. "Why can't we move out of this city? It's clearly sinned, I'm sure you can see that."
 
-John shrugs nonchalantly, undisturbed in eating his dinner. "Sam is not well for travelling. And where do you suggest we go? Gomorrah? Why would we even go farther east when we have a good life here? You should feel lucky to have a place to live in this city, boy."
+John shrugs nonchalantly, undisturbed in eating the food. "Sam is not well for travelling. And where do you suggest we go? Gomorrah? Why would we even go farther east when we have a good life here? You should feel lucky to have a place to live in this city, boy."
 
-Dean swallows, lowering his head, defeated. He glances at the direction of the door, thinking of the high pitch he heard. The bread in his throat is dry and cold, forming a lump. "Where is that angel now?"
+Dean swallows, lowering his head, defeated. He glances at the direction of the door, thinking of the high pitch he heard. The bread in his throat forms a lump, dry and cold. "Where is that angel now?"
 
-John squints at him, eyes piercing through his skull, as if reading his mind. "Gone," he says decisively. "And don't you dare go get yourself into stupid trouble like interfering when our neighbors are doing what everyone always does around here. Those flying beings from the sky, they're nothing to us. They are no stronger than us, no over-power us. They can't get out of the cuffs we forge or the circles we draw, I see no reason to fear or worship or worry about them, you hear me?"
+John squints at him, eyes piercing through his skull, as if reading his mind. "Gone," he says decisively. "And don't you dare go get yourself into stupid trouble like interfering when our neighbors are doing what everyone always does around here. Those flying beings from the sky, they're nothing to us. They are no stronger than us, no more powerful than us. They can't get out of the cuffs we forge or the circles we draw, I see no reason to fear or worship or worry about them, you hear me?"
 
 Dean can sense the burning gaze on his skull without looking up. He forces the lump in his throat down in a hard swallow.
 
 Sam's eyes are on him too, waiting.
 
-"Yes, Sir." Dean has to say.
+"Yes, sir." Dean forces himself to answer, voice quiet.
 
 "Good," John nods approvingly.
 
-The dinner continues and finishes in silence.
+The dinner continues in peace.
+
+Sam clears his throat, "Is there any other news out there, Dad?"
+
+"Leah gave birth to a boy. Many are surprised." John says absentmindedly.
+
+"Not her husband's, I presume?" Sam asks, voice natural, just slight curious. As if it's the most common thing to witness around here.
+
+"Martin's," John says simply.
+
+"Our neighbor Martin?" Sam chuckles, "He must have, what, at least four kids with four different women now?"
+
+John gives him a look, "Like most of men in the city, yes. He still has desires, like all of us."
+
+Dean tunes out.
 
 <br>
 
 #### Act 2
 
+Dean lies in the dark, staring at the ceiling of his room. He doesn't check the time, but the moon must be high now. The shades keep the room dark.
 
+His father snores lightly in the next room. His brother breathes evenly, easier than when he's awake.
 
+There are faint sounds of frogs croaking in the distance, probably somewhere near the farmland.
 
+Dean listens to the symphony of the night with opened eyes, wide awake. It's actually quiet and calm -- peaceful, even. But his mind keeps slipping to that high pitch sound, for some reason it seems to have stuck in his mind. That must be the true voice of the angel, he thinks. There was an angel in the city today, and then he was gone, if his father was telling the truth.
 
+Dean sits up in his bed quietly. But his father might not be telling the truth.
 
+He sneaks out of the door without a sound, closing it carefully behind him.
 
-###### [TBA]
+The street is empty, the night air fresh. The moon is bright and round, hanging right over his head, shining the road silvery. He follows the road leading to the city square.
 
-> Dean stands by the gate of the city, sees Cas come, notices he's angel (angel show up with wings at this era, describe wings). intro and talk, exchange name. Dean warns him about people, wants him leave or only goes to his house, Cas doesn't listen, Dean follows, Cas gets noticed by the villagers immediately, Dean worries, but gets distracted/ordered away by John when passing by their house (Sam is sick), Dean has to leave taking care of Sam, Cas heads to city square alone, bearing people's eyes, Dean really worries (Dean mention his house/dad/Sam/neighbor in their talk)
+There is nothing there.
+
+Whatever he's been expecting to see, whatever he's been bracing himself to prepare for, there is nothing to find. No sign of destruction, no sign of divinity, no sign of what the men of the city had done to the angel, for there is no sign of the angel at all.
+
+He lingers around the square aimlessly, then starts wandering along the street. There is no high-pitched angel sound anywhere, even if he walks close to the houses, tilting his head to listen carefully inside. The angel has disappeared, as if it never has arrived in the city.
+
+He pauses at the door of his house for a moment, hesitating. From where he stands, Dean can see their neighbor Martin's house, bigger and taller than theirs, having two floors rather than one, the kind that can host a fancy guest room and a luxurious well-equipped underground cellar. He can almost practically smell the corruption and hedonism from this distance.
+
+He does not go into his own house.
+
+His feet take him away, leading him to the gate of the city. He can't leave the city because his family is here, but he can stand at the gate, looking outside. As if the air here is cleaner than inside.
+
+He sits by the gate of the city until the dawn breaks.
+
+Dean blinks slowly as the night sky shift slowly to brighter color, the dark blue dyed over by golden cloud from the east. The sun rises over the horizon.
+
+There is another source of light approaching slowly from the west. Accompanied by a crackling sound of thunder that sounds coming from above the sky. A figure walks toward the gate from far distance.
+
+The land outside the gate is flat with desert, muffling the image of the figure with slowly flying sand.
+
+Dean squints at the coming figure, wondering who might be coming toward the city today. He stands up by the gate, smoothing his cloth, waiting for the newcomer.
+
+The man walks faster than Dean expects, or maybe he isn't walking, not really. He is also no ordinary man, for when he enters the clear view, Dean can see three pairs of wings attached on his back. Black as midnight, spreading wide when he first landed on the ground, folding behind his back as he walks closer.
+
+Dean can't help himself staring.
+
+"You're an angel." He hears himself saying, through his gaped mouth. His brain falls blank, knowing nothing else to do but staring at the newcomer.
+
+He wears a long black tunic, with a tan linen robe on the outside, much like the men in the city. Minus the wings, Dean wouldn't know he isn't local just from the dressing. But somehow, these clothes seem quite fitting on him. Dean finds his eyes sliding to the belt tightens on his waist, displaying a well-built figure. He pulls his eyes back.
+
+"I am Castiel, an Angel of the Lord." The angel announces with a low voice, looking at Dean bluntly without blinking.
+
+"I'm Dean, Son of John, Brother of Sam." Dean tells him nervously, running directly into that pair of intense eyes, feeling his skin start crawling, but he holds the gaze.
+
+"Are you a citizen of Sodom?" Castiel asks him sternly.
+
+"Yes, born and raised, for two decades." Dean nods uneasily, almost ashamed of admitting his connection to this city. He swallows, troubled by the querying look in the angel's eyes. His fingers fidget around the skirt of his own tunic, his eyes shift between Castiel's eyes, lips and the wings behind him.
+
+"Then you shall lead the way, for I bear the order of inspecting the city." Castiel looks over his shoulder, at the city behind the gate.
+
+The sun has risen, the city is wakening to a bright morning. The men of the city walk onto the street, the cheerful mundane chatters buzzing in the air.
+
+Dean half turns, following his gaze, seeing what he's looking at. "Are you not here rescuing the angel visited yesterday?" He blurts out.
+
+Castiel pulls his gaze back onto Dean's face with more focus. "Rescue? Why would an angel require rescue from a city of mankind?" Castiel raises his eyebrows.
+
+"You don't know men of Sodom, I do. They're not... friendly, to the outsiders, especially angels." Dean lowers his voice, glancing nervously behind him, slowing down whenever one standing too close to the gate where they might be overheard. His heart pounds rapidly inside his chest. "They are ruthless. I don't know what happened to the angel came yesterday, but I heard him screaming. I fear the worst has happened."
+
+Dean swallows hard, searching Castiel's face, looking for a sign of moving but fail to find one. "Please don't go into the city. If you have to, you can stay in my house. You will be safe as long as my father is not there. My brother is kind."
+
+"No." Castiel looks at him straight, and says plainly, "Your offer is appreciated, yet that shall not be necessary. I will go to the square, and announce my arrival to the people of the city. My safety will not be of concern, for I am a warrior in my garrison, I had fought evil from Hell. No mankind would be equivalent." He raises his chin slightly with pride.
+
+Dean frowns deeply. "But you've never been to Sodom. Those people are strong, have built powerful weapons. I don't want any more angels get hurt --"
+
+Castiel waves him off, "I have decided. Now I shall go to the square to fulfill my order."
+
+"Then at least allow me be with you during your stay," Dean says quickly. "I'm familiar with the city. I can be your guide."
+
+Castiel considers briefly and agrees, "So be it."
+
+<br>
+
+They are noticed by people the moment they walk past the gate. In fact, Dean suspects they might have already caught attention when they were having that vain argument of a discussion that he failed to turn the angel aside.
+
+Now that they walk onto the street, with Dean leading half a step ahead and the angel having his wings tucking behind his back, Dean has never been so conscious of his own existence. People stop what they were doing to turn and look at them. Their eyes land meaningfully on them, lingering between him and Castiel. He doesn't need to meet any of their eyes to know the way they're looking -- the gleeful looks of predators. He picks up the pace.
+
+More people drop what they were busy with, and starts following them from a short distance away, forming a tailing crowd fast.
+
+"Dean!" One of them calls to him, "Where do you find an angel over the night and where are you going? Don't keep him to yourself. Introduce him to us so we may know him!"
+
+A loud laughter and yelling of agreement burst from the crowd.
+
+Dean shoots a flustered glare behind his shoulder, decidedly ignoring them, urging Castiel under his breath to speed up. The angel merely observes them with thinned lips and disapproving frowns, not saying a thing.
+
+They almost pass through his house when Dean spots his father standing at the door, holding his arms. The look in his eyes is outrageous, burning with fury. Dean's blood freezes to ice.
+
+He hears John's voice before he reaches the doorsteps.
+
+"Where have you been?!" John shouts at him, "Your brother could be dying when you're having fun with an angel! Sneaking out in the middle of the night like that!"
+
+Dean stops automatically with a gasp, "Sam's dying? He seemed fine last night."
+
+"He would if you don't get your lazy ass over here and prepare his meds! We're running out of herbs, so go get those for him." John orders.
+
+Dean blinks, looking between John and Castiel, then turning back to his father, "The herbs are in the mountains. It will take me at least three days to go there and back." His voice deeply troubled.
+
+"Then why aren't you leaving already?" John stares him down. "Surely you don't have anything more important to do?"
+
+Dean swallows, glancing back at Castiel.
+
+The crowds following them have already caught up, surrounding them with interested eyes witnessing the matter.
+
+"Castiel --" Dean starts low and eagerly.
+
+"Go," the angel answers him firmly. "I can see you have other responsibility. I shall carry on my task alone."
+
+"Follow the street to the end and turn to the biggest road," Dean glances at Castiel, turning to him to point at the end of the road with his fingers, "that will take you to the center of the city, the square."
+
+Castiel nods briefly with appreciation.
+
+"Please be careful, Castiel," Dean lowers his voice so the people and his father might not hear him, his voice rushed with worry, "I will come back in three days."
+
+"Farewell, Dean," the angel says formally.
+
+They part ways.
+
+Castiel walks along the street, Dean taking the opposite way heading to the mountains.
+
+When he looks back, he can't see Castiel already -- the crowd following the angel is like a moving wall, covering all the views.
+
+Dean thinks -- he wishes Castiel would be safe. And that he'll see the angel again.
 
 <br>
 
 #### draft notes
 
-people of Sodom is strong, powerful enough to confine angels, has angel-proofing weapons and holy oil
+people of Sodom is strong, powerful enough to confine angels, has angel-proofing weapons/handcuffs and holy oil
 
 Dean is the only moral righteous man, young, citizen of Sodom, despise what his neighbors do to the angels, still have awe and faith for angels.
 
-Cas comes with order to see if they are indeed as sinned as the outcries and if so punish them
-
-self-intro: "Dean, son of John, brother of Sam"
+Cas comes with order to see if they are indeed as sinned as the outcries and if so punish them (and to find the other missing angel Jonah, member of his garrison)
 
 they don't get to choose where to be born
 
-Dean is forced to do nothing about angels, he hates it for himself
+Dean is forced to do nothing about the missing/hurt angel the previous day, even if he protested/tried to find him, he hates it for himself
+
+Dean can hear angel true voice, already a surprise to Cas/most angels/men
+
+Dean start unknowingly praying and Cas start able to hear him through prayer
+
+the way Cas speaks, start off very formal, biblical style, slowly turning to normal verbal Dean style sentences
 
 (Sam 17y, Dean 21y)
 
@@ -287,6 +425,8 @@ Dean is forced to do nothing about angels, he hates it for himself
 > Dean comes back out after three days (Sam doesn't get better but stabled, he goes to get meds), goes to the city square, Cas is gone, Dean only finds broken feathers and blood and lingering grace, people laughing talking about new angel, Dean heart hurt, find a vial to collect Cas's lost grace
 >
 > Dean starts looking for the angel, hoping it's not too late, doesn't dare asking around for fear they know they're close, notice signs of Cas's appearance and grace and cloth pieces here and there, torn trench coats etc., imagining the worst already
+
+###### [TBA]
 
 <br>
 
