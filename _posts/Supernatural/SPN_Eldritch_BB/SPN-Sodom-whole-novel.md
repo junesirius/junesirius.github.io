@@ -188,25 +188,99 @@ when posting, before each chapter, quote something from Bible
 
 #### Act 1
 
+Dean shuts the door, but leaving it unlocked, not yet. He lowers the shades, too. The room falls into grey dimness. He lights the candles, placing them in the center of the dining table, shadowing the room with wavering light. There are baked unleavened bread on the desk, ready to serve.
+
+It's not really night yet, outside. The sun is setting, the street in dusk is still busy with the men of the city, young and old. He knows every one of them -- Sodom isn't a big city, everyone knows everyone here. So whenever there is someone from outside comes to the city, all of them know.
+
+The men of the city are heading to the square -- almost all of them, if they are not otherwise occupied. Dean doesn't want to see, or hear the sound from the street. The sound from the square still sneaks in through the crack under the door and windows -- loud, cheerful voices of men, and an undistinguishable, squeaky, high pitch.
+
+Dean busies himself with cleaning the room, turning against the window.
+
+The voices quiet down eventually. The uproar in the square recedes slowly.
+
+"What's happening out there?" his young brother asks, lifting himself up from the bed, breathing heavily from the effort. He has been resting for the whole day until now, but he still looks pale and tired, coughing now and then. His young body is lean, his footsteps shaky on his way to sitting by the table.
+
+Dean's not sure if it's the noise outside that woke Sam up or the lack of it. He rushes to give him a hand, supporting his weight.
+
+"A newcomer arrived at the city earlier," he says simply, focusing on ensuring Sam sit steadily on the chair, pulling the basket of bread closer for him to reach.
+
+"A merchant?" Sam takes a piece of bread, tearing it from one end, chewing slowly. He grimaces when he swallows, and then continues the next bite.
+
+"An angel," Dean tells him.
+
+"A real angel?" Sam looks up at him, eyes widening.
+
+Dean shrugs slightly. "Don't think anyone would be interested in faking one," he says. "Not the first one in the city, probably not the last one either."
+
+"Why aren't you out there for them?" Sam asks, genuinely curious, if not a little confused.
+
+"Why would I?" Dean says plainly, edging away from their dining table, fidgeting in their kitchen to fill the wine and water bottle, facing away from the door and Sam.
+
+Sam turns in the seat slightly to glance at the back of his brother, "Well, I believe everyone else is, and I bet Dad too."
+
+"You don't know what they're doing to them out there." Dean says glumly, "And I hope you never would."
+
+Sam opens his mouth, just in time for the door opens and their father walks in. His removed jacket hangs on his arms. He leaves it on the rack by the door, heading straight to sit at the table.
+
+"You look well today," John checks Sam up, grabbing a piece of bread to stuff into his mouth.
+
+"I feel better too," Sam nods, then asking, "How's the angel, Dad?"
+
+John shoots a glance at Dean once quickly, "So you heard. Just like usual, we do what we do."
+
+"Which is not right. It's blasphemous and unmoral." Dean can't help himself snapping, putting the wine and water bottle down on the table a little too hard.
+
+"I see your brother is still the same, innocent and difficult." John says sourly, still facing Sam. "Morality has nothing to do here, neither is piety. How many times do I need to remind you: when in Sodom, do as Sodoms do. It's nothing wrong when everyone is doing the same."
+
+"It still is," Dean sits down at the table bitterly. "Why can't we move out of this city? It's clearly sinned, I'm sure you can see that."
+
+John shrugs nonchalantly, undisturbed in eating his dinner. "Sam is not well for travelling. And where do you suggest we go? Gomorrah? Why would we even go farther east when we have a good life here? You should feel lucky to have a place to live in this city, boy."
+
+Dean swallows, lowering his head, defeated. He glances at the direction of the door, thinking of the high pitch he heard. The bread in his throat is dry and cold, forming a lump. "Where is that angel now?"
+
+John squints at him, eyes piercing through his skull, as if reading his mind. "Gone," he says decisively. "And don't you dare go get yourself into stupid trouble like interfering when our neighbors are doing what everyone always does around here. Those flying beings from the sky, they're nothing to us. They are no stronger than us, no over-power us. They can't get out of the cuffs we forge or the circles we draw, I see no reason to fear or worship or worry about them, you hear me?"
+
+Dean can sense the burning gaze on his skull without looking up. He forces the lump in his throat down in a hard swallow.
+
+Sam's eyes are on him too, waiting.
+
+"Yes, Sir." Dean has to say.
+
+"Good," John nods approvingly.
+
+The dinner continues and finishes in silence.
+
+<br>
+
+#### Act 2
 
 
 
 
 
 
-> Dean born and living in Sodom, a city of sins and blasphemy, witness people strong and sinned, what they always do to each other, to visitors, to angels, witness they enslave and torture them (show Sodom power/tool/magic is equal to angels)
->
-> Dean wants to leave the city but John doesn't let them, he is still too young to make decision for the family, and Sam's not adult yet. He wants to stop them but warned by John not to interfere, for fear they'll retaliate on the family, harm teen Sam. Dean has to stay quiet to protect Sam. He hates it for himself. (Sam 17y, Dean 21y)
->
+
+###### [TBA]
+
 > Dean stands by the gate of the city, sees Cas come, notices he's angel (angel show up with wings at this era, describe wings). intro and talk, exchange name. Dean warns him about people, wants him leave or only goes to his house, Cas doesn't listen, Dean follows, Cas gets noticed by the villagers immediately, Dean worries, but gets distracted/ordered away by John when passing by their house (Sam is sick), Dean has to leave taking care of Sam, Cas heads to city square alone, bearing people's eyes, Dean really worries (Dean mention his house/dad/Sam/neighbor in their talk)
+
+<br>
 
 #### draft notes
 
 people of Sodom is strong, powerful enough to confine angels, has angel-proofing weapons and holy oil
 
-Dean is Lot in this story, the only moral righteous man, young, citizen of Sodom, despise what his neighbors do to the angels, still have awe and faith for angels.
+Dean is the only moral righteous man, young, citizen of Sodom, despise what his neighbors do to the angels, still have awe and faith for angels.
 
 Cas comes with order to see if they are indeed as sinned as the outcries and if so punish them
+
+self-intro: "Dean, son of John, brother of Sam"
+
+they don't get to choose where to be born
+
+Dean is forced to do nothing about angels, he hates it for himself
+
+(Sam 17y, Dean 21y)
 
 ### (Chap 2) II. Find the Angel
 
@@ -214,7 +288,9 @@ Cas comes with order to see if they are indeed as sinned as the outcries and if 
 >
 > Dean starts looking for the angel, hoping it's not too late, doesn't dare asking around for fear they know they're close, notice signs of Cas's appearance and grace and cloth pieces here and there, torn trench coats etc., imagining the worst already
 
-### (Chap 3) III. Broken Wings
+<br>
+
+### (Chap 3) III. Broken and Distained
 
 > after three more days, Dean finds Cas in his neighbor's cellar, enslaved, wings broken, cloth torn, very pitiful looking, skin burned, locked up, has angel-proof carvings and holy oil everywhere, chest carved with humiliation, blood distained, beaten up, very obviously sexually violated, currently passed out. maybe witness Cas violated again by some random guy
 >
@@ -223,6 +299,8 @@ Cas comes with order to see if they are indeed as sinned as the outcries and if 
 > Cas has PTSD now, guarded against all humans, very easily irritated, attacking dog mode. Dean isn't ready for the attack (or is ready but still doesn't dodge quick enough, Cas is still fairly strong)
 >
 > Cas hurt Dean accidentally. Dean doesn't complain, doesn't want to be found, set Cas free, but they're still found by the neighbor
+
+<br>
 
 #### draft notes
 
@@ -242,11 +320,13 @@ Cas feel guilty for hurting Dean
 >
 > Cas actually thinks Dean is going to punish/torture/hurt/kill him, still doesn't protest and thinks he deserves it. very broken in just one week
 
+<br>
+
 #### draft notes
 
 John comes back find out Dean's wounded by Cas, super pissed at Cas, hurt/torture him more, almost kill him. Dean pleads for Cas, manages to take him home
 
-### (Chap 5) V. Wounded
+### (Chap 5) V. The Sins
 
 > Dean opens Cas's lock/chain, Cas doesn't try to escape. Dean: "You're not going to leave?" Cas: "Where to?" Cas thinks he's already distained by human, he's dirty now, Heaven loathes any form distained by human, e.g. Nephilim, he doubts if Heaven would still want him in, or he can make wings heal to good again to fly back to Heaven. (during torture, some/a lot of his grace is drained, wound on the neck)
 >
@@ -256,7 +336,9 @@ John comes back find out Dean's wounded by Cas, super pissed at Cas, hurt/tortur
 >
 > Dean unintentionally shows some sexual tendency/desire on Cas during kiss, e.g. frottage. Cas startled, pull away immediately, trauma violation triggered. Dean regret immediately, apologize, hurry out of the room
 
-### (Chap 6) VI. Torn Apart
+<br>
+
+### (Chap 6) VI. The Brother and the Father
 
 > Dean has to find excuses everyday to explain to John why he's not killing Cas yet, lie that he's torturing Cas to let him pay so John doesn't get suspicious, John proud he's getting better at torturing. Sam knows he's lying, secretly ask why Dean doesn't tell John truth but Dean too resigned to confront John.
 >
@@ -266,17 +348,23 @@ John comes back find out Dean's wounded by Cas, super pissed at Cas, hurt/tortur
 >
 > Dean doesn't interact much with Cas after that hurried leave, avoid him, afraid getting things worse, except for continue providing food/water/bandage/vial with his grace, giving Cas space, hoping him recover by himself. sometimes secretly observe Cas from entrance, want to talk but doesn't know how to, watch Cas facing small window watching sky, think Cas doesn't know he's observing him. Cas actually notices
 
-### (Chap 7) VII. The 
+<br>
+
+### (Chap 7) VII. The Wings
 
 > Cas calls Dean before he can leave secretly again. Dean enters, keeps distance, self-aware, afraid of hurting Cas accidentally again, mentally or physically. Cas sees it, reaches to kiss Dean. Dean reciprocates, but: "Does it help?" Cas raises eyebrow, Dean was thinking the kiss is only for tapping his soul to help Cas recharge and heal. Cas sighs and tells him how different he is to anyone else and that he hears conversations upstairs, Dean doesn't need to fear to hurt him, except for the sexual activities that he's not ready again.
 >
 > Cas's wings are healing, Dean caresses the feathers, awed, love it, more ashamed for other sinned humans, ashamed of himself too for thinking of hurting Cas to save Sam, want to save Sam and everyone. Cas amazed/touched by him again, even angel/Heaven has given up on these people, ready to destroy these people instead of saving them, but Dean's still trying to change them. Cas suggest meet Sam
 
-### (Chap 8) VIII. The Order
+<br>
+
+### (Chap 8) VIII. Punishment of the City
 
 > Cas meet Sam first time, diagnose him, mojo heal him. Sam start thank/appreciate angels too, asks Cas's initial mission 
 >
 > Cas shares the original plan/his order: as soon as his wings recover enough, he'd go back report his experience and the city will be determined whether worth saving, if not then destroyed. Dean worry, Cas promise will save him and Sam, Dean still want to save everyone, Cas irritated a little, they argue slightly, raise voice, afraid of being found (already noticed by John actually), Dean rushes out unhappily, wants to prove to Cas people in Sodom can change/still be saved (want to say Sam is example but not strong enough)
+
+<br>
 
 ### (Chap 9) IX. The Last Angel
 
@@ -285,6 +373,8 @@ John comes back find out Dean's wounded by Cas, super pissed at Cas, hurt/tortur
 > Dean tries to stop John from going to cellar but fails, John confronts Cas, they fight, John uses some Sodom magic/power to overpower still wounded/weak Cas (sth showed in Chap 1), Dean jumps in to protect Cas, get wounded in the fight accidentally (not sure John's or Cas's, likely John's), Sam tries very hard to pull John away but can't
 >
 > Cas distracted by Dean's wound, John severely stabs Cas and almost kills him, threaten to throw him out to let all neighbors know he's here and do what did to him again, Dean first time attacks John, knocks him out. Cas thinks he's dying for sure this time, confesses to Dean, Dean cries, reciprocates, kisses, Cas closes his eyes, grace dimming, Cas last words: "If the city is worth saving, it would be because of you"
+
+<br>
 
 ### (Chap 10) X. The Last Righteous Man
 
@@ -296,6 +386,8 @@ John comes back find out Dean's wounded by Cas, super pissed at Cas, hurt/tortur
 >
 > high-pitch sound drops in, Michael speaks to Bal directly, Bal listens with pale face
 
+<br>
+
 ### (Chap 11) XI. Save the Angel
 
 > Bal gets scolded by Michael directly (for forcing Dean lose faith), terrified solemn face, drop joke face, resurrects Cas, mojos him clean, fixes his wings and other unseen tears, murmurs by his ear then disappears
@@ -303,6 +395,8 @@ John comes back find out Dean's wounded by Cas, super pissed at Cas, hurt/tortur
 > Cas/Dean hug/kiss, Dean cries again, Cas looks at him sad. Dean asks what Bal said, Cas says Bal went off preparing for the weapon to destroy the city like they planned, but by choosing Cas and condemn the city, Dean isn't righteous man anymore, they're allowed to destroy the city with him in it. Dean: "He did say 'Everything comes with a price'", thinks it means he'd have to die, he doesn't regret choose to save Cas
 >
 > fire and sulphur start dropping into city, Cas makes his decision, disobeys order, offers to fly Dean/Sam out of city. Dean doesn't think he deserves anymore, Cas: "You always deserve saving." Sam pleads to bring John too, Cas thins lips, Dean doesn't know if he'd be happy about it, Cas warns them not to look back and flies them to Zoar
+
+<br>
 
 ### (Chap 12) XII. Save the Righteous Man
 
@@ -319,6 +413,8 @@ John comes back find out Dean's wounded by Cas, super pissed at Cas, hurt/tortur
 > Dean to Cas: "Will I ever see you again?" Cas: "You will, I promise." Dean: "But I wouldn't remember you, would I? Everything we went through here, everything I did. I'll forget." Cas (small sad smile): "No, but it's okay." Dean nods sadly, last kiss
 >
 > Cas is brought to Naomi (enough hint for brainwash)
+
+<br>
 
 ### (Chap 13) XIII. After the Time
 
