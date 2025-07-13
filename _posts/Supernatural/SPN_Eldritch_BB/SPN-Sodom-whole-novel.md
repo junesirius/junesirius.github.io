@@ -172,9 +172,11 @@ when posting, before each chapter, quote something from Bible
 
 ~~Including/mention "Genesis XIX" in summary~~
 
- use "Castiel" in first few chapters, change to "Cas" only after they get close and familiar
+use "Castiel" in first few chapters, change to "Cas" only after they get close and familiar
 
 the angel in chap 1 Cas come to search is Jonah and he didn't survive (mention that in later chapters)
+
+Dean has faith in angel/heaven in his 4ky ago version, gradually forgetting/losing faith until the current version doesn't even believe in angel
 
 ## Main
 
@@ -256,7 +258,7 @@ The dinner continues in peace.
 
 Sam clears his throat, "Is there any other news out there, Dad?"
 
-"Leah gave birth to a boy. Many are surprised." John says absentmindedly.
+"Leah gave birth to a boy. Many are surprised." John answers absentmindedly.
 
 "Not her husband's, I presume?" Sam asks, voice natural, just slight curious. As if it's the most common thing to witness around here.
 
@@ -264,9 +266,9 @@ Sam clears his throat, "Is there any other news out there, Dad?"
 
 "Our neighbor Martin?" Sam chuckles, "He must have, what, at least four kids with four different women now?"
 
-John gives him a look, "Like most of men in the city, yes. He still has desires, like all of us."
+John gives him a look, "Like most of men in the city, yes. He has desires, so does all of us. There is no point in restraining what people enjoy to do."
 
-Dean tunes out.
+Dean tunes out the rest of the conversation.
 
 <br>
 
@@ -284,15 +286,15 @@ Dean sits up in his bed quietly. But his father might not be telling the truth.
 
 He sneaks out of the door without a sound, closing it carefully behind him.
 
-The street is empty, the night air fresh. The moon is bright and round, hanging right over his head, shining the road silvery. He follows the road leading to the city square.
+The street is empty, the night air a little chilling but not cold. The moon is bright and round, hanging right over his head, shining the road silvery. He follows the road leading to the city square.
 
-There is nothing there.
+There is no angel there -- or any sign of one.
 
-Whatever he's been expecting to see, whatever he's been bracing himself to prepare for, there is nothing to find. No sign of destruction, no sign of divinity, no sign of what the men of the city had done to the angel, for there is no sign of the angel at all.
+Whatever he's been expecting to see, whatever he's been bracing himself to prepare for, there is nothing to find. No sign of destruction, no sign of divinity, no sign of what the men of the city must had done to the angel. There is no sign of the angel at all.
 
 He lingers around the square aimlessly, then starts wandering along the street. There is no high-pitched angel sound anywhere, even if he walks close to the houses, tilting his head to listen carefully inside. The angel has disappeared, as if it never has arrived in the city.
 
-He pauses at the door of his house for a moment, hesitating. From where he stands, Dean can see their neighbor Martin's house, bigger and taller than theirs, having two floors rather than one, the kind that can host a fancy guest room and a luxurious well-equipped underground cellar. He can almost practically smell the corruption and hedonism from this distance.
+He pauses at the door of his house for a moment, hesitating. From where he stands, Dean can see their neighbor Martin's house, bigger and taller than theirs, having two floors rather than one, the kind that can host a fancy guest room and a luxurious well-equipped underground cellar. He can practically smell the corruption and hedonism from this distance.
 
 He does not go into his own house.
 
@@ -314,13 +316,13 @@ Dean can't help himself staring.
 
 "You're an angel." He hears himself saying, through his gaped mouth. His brain falls blank, knowing nothing else to do but staring at the newcomer.
 
-He wears a long black tunic, with a tan linen robe on the outside, much like the men in the city. Minus the wings, Dean wouldn't know he isn't local just from the dressing. But somehow, these clothes seem quite fitting on him. Dean finds his eyes sliding to the belt tightens on his waist, displaying a well-built figure. He pulls his eyes back.
+He wears a long black tunic, with a tan linen robe on the outside, much like the men in the city. Minus the wings, Dean wouldn't know he isn't local just from the dressing. But somehow, these clothes seem quite fitting on him. Dean finds his eyes sliding to the belt tightened on his waist, displaying a well-built figure. He pulls his eyes back.
 
 "I am Castiel, an Angel of the Lord." The angel announces with a low voice, looking at Dean bluntly without blinking.
 
 "I'm Dean, Son of John, Brother of Sam." Dean tells him nervously, running directly into that pair of intense eyes, feeling his skin start crawling, but he holds the gaze.
 
-"Are you a citizen of Sodom?" Castiel asks him sternly.
+"Are you a citizen of Sodom?" Castiel asks him directly.
 
 "Yes, born and raised, for two decades." Dean nods uneasily, almost ashamed of admitting his connection to this city. He swallows, troubled by the querying look in the angel's eyes. His fingers fidget around the skirt of his own tunic, his eyes shift between Castiel's eyes, lips and the wings behind him.
 
@@ -330,7 +332,7 @@ The sun has risen, the city is wakening to a bright morning. The men of the city
 
 Dean half turns, following his gaze, seeing what he's looking at. "Are you not here rescuing the angel visited yesterday?" He blurts out.
 
-Castiel pulls his gaze back onto Dean's face with more focus. "Rescue? Why would an angel require rescue from a city of mankind?" Castiel raises his eyebrows.
+Castiel pulls his gaze back onto Dean's face with more focus. "Rescue? Why would an angel require rescue from a city of mankind?" He raises his eyebrows.
 
 "You don't know men of Sodom, I do. They're not... friendly, to the outsiders, especially angels." Dean lowers his voice, glancing nervously behind him, slowing down whenever one standing too close to the gate where they might be overheard. His heart pounds rapidly inside his chest. "They are ruthless. I don't know what happened to the angel came yesterday, but I heard him screaming. I fear the worst has happened."
 
@@ -344,7 +346,7 @@ Castiel waves him off, "I have decided. Now I shall go to the square to fulfill 
 
 "Then at least allow me be with you during your stay," Dean says quickly. "I'm familiar with the city. I can be your guide."
 
-Castiel considers briefly and agrees, "So be it."
+Castiel considers briefly and agrees, "So shall it be."
 
 <br>
 
@@ -392,9 +394,9 @@ Castiel nods briefly with appreciation.
 
 They part ways.
 
-Castiel walks along the street, Dean taking the opposite way heading to the mountains.
+Castiel walks along the street, Dean takes the opposite way heading to the mountains.
 
-When he looks back, he can't see Castiel already -- the crowd following the angel is like a moving wall, covering all the views.
+When he looks back, he can't see Castiel already -- the crowd following the angel is like a moving wall, covering all the views, not leaving a single glimpse of his wings.
 
 Dean thinks -- he wishes Castiel would be safe. And that he'll see the angel again.
 
@@ -430,7 +432,15 @@ the way Cas speaks, start off very formal, biblical style, slowly turning to nor
 
 <br>
 
-### (Chap 3) III. Broken and Distained
+#### draft notes
+
+> Dean comes back out after three days, make meds (mention vial), Sam not healed but stabled
+>
+> goes to the city square, Cas is gone, Dean only finds broken feathers and blood and lingering grace, people laughing talking about new angel, Dean heart hurt, use a vial to collect Cas's lost grace
+>
+> Dean look for Cas, hoping it's not too late, doesn't dare asking around for fear they know they're close, notice signs of Cas's appearance and grace and cloth pieces here and there, torn trench coats etc., imagining the worst already, blame himself for not stopping Cas from entering the city or having to leave him
+
+### (Chap 3) III. Raggedy Doll
 
 > after three more days, Dean finds Cas in his neighbor's cellar, enslaved, wings broken, cloth torn, very pitiful looking, skin burned, locked up, has angel-proof carvings and holy oil everywhere, chest carved with humiliation, blood distained, beaten up, very obviously sexually violated, currently passed out. maybe witness Cas violated again by some random guy
 >
