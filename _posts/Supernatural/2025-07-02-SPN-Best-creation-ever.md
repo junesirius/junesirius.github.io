@@ -9,7 +9,7 @@ pov: 第三人称
 origin: Pinefest Evergreen Mini Challenge
 ---
 
-(Tags: canon divergent, time travel, case fic, post canon, fix-it, background Sam/Eileen, S15E20 never happened, S15E20 doesn't exist, pie, it's all about pie, a little chaotic romance comedy, minor graphical depictions of violence, sort of fluff)
+(Tags: canon divergent, time travel, case fic, post canon, fix-it, background Sam/Eileen, S15E20 never happened, S15E20 doesn't exist, destiel becomes canon after S15E18, pie, it's all about pie, a little chaotic romance comedy, minor graphic depictions of violence, sort of fluff, Egyptian lore)
 
 **Summary:**
 
@@ -34,7 +34,7 @@ Cas follows him, leaving the passenger seat, regarding him closely. "Dean, are y
 
 Dean shoots him a quick glance, returning his attention to the world before him. "Are you kidding me? Cas, I have no choice. This is my destiny."
 
-A wide grin crawls its way onto his face, as Dean marches straight into the pedestrian zone, reserved for the most important event in the world -- the floating banner overhead reads: "38rd Annual Akron Pie Fest."
+A wide grin crawls its way onto his face, as Dean marches straight into the pedestrian zone, reserved for the most important event in the world -- the floating banner overhead reads: "38th Annual Akron Pie Fest."
 
 The air smells sugary and the fragrance of fresh bakery. Dean is practically rushing toward the closest stand, not caring if he might knock someone over on his way.
 
@@ -42,17 +42,17 @@ Cas can't hold back a matching smile, barely can keep up with his eager pace, wa
 
 Dean picks the largest paper tray they offer and starts filling it with all the delicious pieces. Cas has to remind him not to take more than one slice of each kind, just to try more different flavors.
 
-Dean pouts at the tray as if it betrayed him when it's full -- there are only half a dozen different pieces of pies, why can't it hold more? Though his arm is already sore just from keeping the tray balanced while maneuvering through the crowd.
+Dean pouts at the tray as if it betrayed him when it's full -- there are only half a dozen different pieces of pie, why can't it hold more? Though his arm is already sore just from keeping the tray balanced while maneuvering through the crowd.
 
-"That should be enough for a day, Dean." Cas glances at him, holding a hand to protect the pies from the side, just in case someone bumps into it.
+"That should be enough for a day, Dean." Cas glances at him, holding a hand to protect the pies from the side, just in case someone bumps into them.
 
 "There is no 'enough' for pie. Not for one day, not ever." Dean protests with a straight face.
 
-Cas sighs, taking over the tray for him, nodding at a new stand with a sign saying "the pie you've never tried before" and tells him, "Alright, I'll hold this for you. Why don't you go get another tray? Hopefully that one can take everything you want."
+Cas sighs, taking over the tray for him, nodding at a new stand with a sign saying "the pie you've never tried before," and tells him, "Alright, I'll hold this for you. Why don't you go get another tray? Hopefully that one can take everything you want."
 
 Dean beams at him with the largest smile, as if seeing his personal Heaven standing right in front of him. "I know Jack brought you back for a reason." He bumps into Cas's shoulder fondly, and goes straight for the second tray without hesitation -- not like he needs to be told twice on the pie matter.
 
-They bring back all the pies Dean can manage to the car -- all the outdoor seats are occupied and by the look of those wooden tables and chairs, they'd be too sticky to sit on anyway. Dean places the pie trays safely on the front row seats between them.
+They bring back all the pies Dean can manage to the car -- all the outdoor seats are occupied, and by the look of those wooden tables and chairs, they'd be too sticky to sit on anyway. Dean places the pie trays safely on the front row seats between them.
 
 The inside of the Impala smells of honey and cinnamon immediately.
 
@@ -66,7 +66,7 @@ When he swallows the bite and licks the cream from his lips, Dean mumbles, "Sam 
 
 Cas averts his eyes, considering. "They have shepherd's pie," he reports, factually.
 
-"Not the same thing. They are salty! Ten outta ten as a dish for the meat in there, but they are not pie! Traitors of pie family or something." Dean files his verdict, finishing off the slice in his mouth and eying a second. "And definitely not as good as these. Come on, don't just stare. Eat up. I ain't getting everything for myself."
+"Not the same thing. They are salty! Ten outta ten as a dish for the meat in there, but they are not pie! Traitors of the pie family or something." Dean files his verdict, finishing off the slice in his mouth and eying a second. "And definitely not as good as these. Come on, don't just stare. Eat up. I ain't getting everything for myself."
 
 Cas shifts his gaze to Dean's eyes, almost in surprise. "You're sharing?"
 
@@ -82,13 +82,13 @@ Dean watches him, "Good? Bad? Still molecule?"
 
 Cas puts the pie down with a small sigh. "Still molecule. Probably the only downside of having all my power back."
 
-Dean nods in understanding, taking over the piece and starting to eat from the corner Cas has bit. "Things just can't be perfect, isn't it? We can't have everything we want, but hey, I'm not complaining. You're back, fresh and new, what more can we ask? Maybe just more pies?"
+Dean nods in understanding, taking over the piece and starting to eat from the corner Cas has bitten. "Things just can't be perfect, isn't it? We can't have everything we want, but hey, I'm not complaining. You're back, fresh and new, what more can we ask? Maybe just more pies?"
 
 "They're actually not the best pies ever created," Cas not-so-subtly directs the attention back to the pies. Which works so well for Dean's mind right now.
 
-He narrows his eyes, slowly lowering his busy serving hand on its halfway sending the next piece to devouring. "How do you know? You know where to find real good ones and never told me?"
+He narrows his eyes, slowly lowering his busy serving hand on its halfway sending the next piece to devour. "How do you know? You know where to find real good ones and never told me?"
 
-Castiel shifts his gaze away, eyes on the bustling crowd and pie stands in the near distance. "1991 BC, Egypt." he says, matter-of-factly, as if it's one of the simple most obvious unchangeable truths of the world.
+Castiel shifts his gaze away, eyes on the bustling crowd and pie stands in the near distance. "1991 BC, Egypt," he says, matter-of-factly, as if it's one of the simple most obvious unchangeable truths of the world.
 
 Dean stares at him, forgetting to eat. "You're joking."
 
@@ -133,7 +133,7 @@ Dean tries not to think about it too hard. "Great," he murmurs. "Was worried the
 
 Dean nods in appreciation.
 
-Some locals walk past them, glancing at them curiously. Dean looks down at himself, feeling more self conscious and out of place than ever.
+Some locals walk past them, glancing at them curiously. Dean looks down at himself, feeling more self-conscious and out of place than ever.
 
 He tugs the hem of his flannel uneasily, "We gotta look like aliens," he mocks a complaint. "You forgot to mention we should get changed. You know, to blend in."
 
@@ -157,7 +157,7 @@ Dean walks away from the stall, following Cas in the direction the woman pointed
 
 "Middle Egyptian," Cas answers easily. "They won't start speaking Arabic until the Arabs come."
 
-Dean hums quietly, unwilling to show how limited his knowledge of ancient Egyptian history is, but Cas must know anyway. He eyes the two colorful fabrics in Cas's hand. "Let me guess, you just sweet talked your way around and the woman just loved you so much she's willing to give you whatever you want without pay."
+Dean hums quietly, unwilling to show how limited his knowledge of ancient Egyptian history is, but Cas must know anyway. He eyes the two colorful fabrics in Cas's hand. "Let me guess, you just sweet-talked your way around and the woman just loved you so much she's willing to give you whatever you want without pay."
 
 Cas blushes.
 
@@ -183,17 +183,17 @@ Cas has wrapped those two pieces of cloth so generously provided by that Egyptia
 
 "Are we seriously going to meet the king?" Dean asks, figuring "pharaoh" is just like a king.
 
-"That's usually where all the best food is, so yes. It is the time when Nile just flooded and the current pharaoh, Mentuhotep IV, is hosting a feast. We will invite ourselves in the feast, so you can try the best pie in the world." Cas explains plainly, as if it's easy and obvious and nothing could possibly go wrong.
+"That's usually where all the best food is, so yes. It is the time when the Nile has just flooded and the current pharaoh, Mentuhotep IV, is hosting a feast. We will invite ourselves to the feast, so you can try the best pie in the world." Cas explains plainly, as if it's easy and obvious and nothing could possibly go wrong.
 
 "And I'll just let you do all the talking, and focus on eating. Just let me know if someone starts yelling 'Run' or 'Fire'." Dean makes a face.
 
 "Do you want to learn the language?" Cas stops his steps, turning to Dean.
 
-"What? Like I can learn how to say 'Hello' and 'Thank you'? Time is a little short for a language-learning course, don't you think?" Dean halts in the middle of the road as well, one side of the eyebrow raised.
+"What? Like I can learn how to say 'Hello' and 'Thank you'? Time is a little short for a language-learning course, don't you think?" Dean halts in the middle of the road as well, one side of this eyebrow raised.
 
-"Not at all." Cas tabs two fingers on Dean's forehead. "Now you know everything I knew about Middle Egyptian, and should be able to speak it as fluently as English."
+"Not at all." Cas taps two fingers on Dean's forehead. "Now you know everything I knew about Middle Egyptian, and should be able to speak it as fluently as English."
 
-Just like every time he's healed by Cas, a small wave of warmth flood through his body from the place Cas touched. And, Vola -- Dean realizes with amazement that he can understand all the mundane chitchat on the street now: all those everyday chatters in the background -- a customer standing by the closest stall is arguing the price of some spice, saying it might not be the real stuff; two people farther down the road are asking about each other's families and health, sounding like two friends haven't seen each other for a while; a kid is babbling simple vocabulary, bugging his mom for some exotic food in a stand. The meanings of those foreign syllables serve up in his brain like they are speaking in plain English.
+Just like every time he's healed by Cas, a small wave of warmth floods through his body from the place Cas touched. And, Vola -- Dean realizes with amazement that he can understand all the mundane chitchat on the street now: all those everyday chatters in the background -- a customer standing by the closest stall is arguing the price of some spice, saying it might not be the real stuff; two people farther down the road are asking about each other's families and health, sounding like two friends haven't seen each other for a while; a kid is babbling simple vocabulary, bugging his mom for some exotic food in a stand. The meanings of those foreign syllables are served up in his brain like they are speaking in plain English.
 
 "Holy," Dean gasps, taking a step back automatically, trying to steady himself. Cas reaches a hand to hold him.
 
@@ -213,11 +213,11 @@ Just like every time he's healed by Cas, a small wave of warmth flood through hi
 
 "Yeah, thanks, I get it," Dean cuts him off urgently, rubbing his ears, glancing at the palace not too far down the road. "Can we go now? Can't wait to see that legendary pie you keep talking about. The sun is roasting me alive, too."
 
-Cas stares at him for another long second, and then turns to continue leading the way without argue. Dean follows.
+Cas stares at him for another long second, and then turns to continue leading the way without arguing. Dean follows.
 
 <br>
 
-Cas introduces the two of them as ambassadors of Babylon, when a man in a simple dark green tunic greets them kindly at the entrance. The style is plain yet elegant, Dean notices, he regards the man more carefully. His meaner is humble but so clearly well-educated just from the words he chooses to use, from the way he speaks and holds himself. Dean might not know much about ancient Egypt's power hierarchy, but he knows how to read a man. A golden disk around his waist catches his eyes, probably something to show that he's no common servant.
+Cas introduces the two of them as ambassadors of Babylon, when a man in a simple dark green tunic greets them kindly at the entrance. The style is plain yet elegant, Dean notices, he regards the man more carefully. His demeanor is humble but so clearly well-educated just from the words he chooses to use, from the way he speaks and holds himself. Dean might not know much about ancient Egypt's power hierarchy, but he knows how to read a man. A golden disk around his waist catches his eye, probably something to show that he's no common servant.
 
 Dean lets Cas handle the fake-ambassador formality stuff.
 
@@ -231,7 +231,7 @@ Dean has to continue listening to them chat about crops, livestock, river qualit
 
 "Please feel at home," the man tells them gently before leaving. "The feast will begin in no time."
 
-They are seated about midway down the extremely long table that takes up the entire grand hall, so long that one end can't possibly see or hear the other. Not even *Game of Throne* has anything remotely close to this level of grandeur. The impressive table is covered with food of all kinds, plates decorated with extravagant shiny golden trim. Fruits and nuts are placed between meats, alongside breads and pastries. Some meat plates are still recognizable by their shape -- heads of swine, body of swan, full of lamb, duck, fish -- many of them are still so vividly preserving their shape of living, it almost looks like their eyes are glaring at the guests with reproach. Dean shifts in his seat uneasily, meeting the dead gaze of the roasted swine head in the plate right in front of him, and has to reach out to turn its direction after ten minutes.
+They are seated about midway down the extremely long table that takes up the entire grand hall, so long that one end can't possibly see or hear the other. Not even *Game of Thrones* has anything remotely close to this level of grandeur. The impressive table is covered with food of all kinds, plates decorated with extravagant shiny golden trim. Fruits and nuts are placed between meats, alongside breads and pastries. Some meat plates are still recognizable by their shape -- heads of swine, bodies of swan, full of lamb, duck, fish -- many of them are still so vividly preserving their shape of living, it almost looks like their eyes are glaring at the guests with reproach. Dean shifts in his seat uneasily, meeting the dead gaze of the roasted swine head on the plate right in front of him, and has to reach out to turn its direction after ten minutes.
 
 The hall is packed with guests. It turns out they are not the most exotic-looking people here. Dean's eyes jump from one to another, near overwhelmed. He nudges Cas, having to distract himself with something. "Alright, spill. What's wrong? I know that poop face, that's the 'something's wrong and I don't know what to do so I might do something reckless' face."
 
@@ -243,37 +243,37 @@ Cas was still staring in the direction Amenemhat left, but shifts his gaze to De
 
 "Okay?" Dean doesn't follow.
 
-"He's the second most important man in the kingdom," Cas pauses, waiting for him to catch up, "then why is him tasked to greeting and seating guests? Something any servant could do? Instead of standing beside the Pharaoh, offering counsel? And where is Mentuhotep IV? The feast is about to begin, he should be here socializing with all the guests now, as the Middle Egyptian etiquette requires. I'm worried some other divine power is at play, disturbing the history."
+"He's the second most important man in the kingdom," Cas pauses, waiting for him to catch up, "then why is he tasked with greeting and seating guests? Something any servant could do? Instead of standing beside the Pharaoh, offering counsel? And where is Mentuhotep IV? The feast is about to begin, he should be here socializing with all the guests now, as the Middle Egyptian etiquette requires. I'm worried some other divine power is at play, disturbing the history."
 
-Dean rubs his head tiredly. "They must have some reason -- I mean, normal, natural reasons. We are just here for the pie, remember? Can't we just have a fancy Egyptian dinner and *THE best pie* you promised, and get out without, I don't know, getting into some Egyptian trouble? Last I remember, we didn't get into too good terms with Egyptian dudes like Osiris or Anubis, still not interested in running into their four-thousand-year younger versions if we start poking."
+Dean rubs his head tiredly. "They must have some reason -- I mean, normal, natural reasons. We are just here for the pie, remember? Can't we just have a fancy Egyptian dinner and *THE best pie* you promised, and get out without, I don't know, getting into some Egyptian trouble? Last I remember, we didn't get on too good terms with Egyptian dudes like Osiris or Anubis, still not interested in running into their four-thousand-year younger versions if we start poking."
 
-Cas hums noncommittally, but his attention shifts back to the dinning table as Dean suggested, studying the roasted swine head studiously as if it can offer him some clue to the puzzle.
+Cas hums noncommittally, but his attention shifts back to the dining table as Dean suggested, studying the roasted swine head studiously as if it can offer him some clue to the puzzle.
 
 Dean can tell from his face the thoughts still lingering in his head. He sighs quietly, then offers, "Alright, how about this? If, *after* the dinner, something is still seriously off, and we know somehow that's our kind of business, *then* we take a look and stick our noses in? Only *after*! Got it?" He leans over, emphasizing the word, giving Cas a pointed look.
 
-Cas casts him a quick glance, nodding appreciatedly. "Yes. Sorry, I got distracted." He manages a tight smile.
+Cas casts him a quick glance, nodding in appreciation. "Yes. Sorry, I got distracted." He manages a tight smile.
 
 Dean waves it off.
 
 For the next half hour or so, Dean busies himself by rummaging through Cas's encyclopedic knowledge of ancient Egypt -- mostly on the historical anecdote part, shooting questions of all sorts, many of them involving the guests in the room. It is fun, Dean thinks, laughing and sipping the wine in front of him absentmindedly.
 
-Dean meets Cas's eyes when he's laughing to tears hearing a story about how the famous Queen of Egypt, Cleopatra, is totally different from what the human history tends to portray, and notices the cringed lines at the corner of the angel's eyes has smoothed, and that Cas is looking at him just as intensely, carrying a small, soft smile of his own. Dean's heart skips a beat. He has to take another gulp on the wine, which nearly drained half the glass.
+Dean meets Cas's eyes when he's laughing to tears hearing a story about how the famous Queen of Egypt, Cleopatra, is totally different from what the human history tends to portray, and notices the cringed lines at the corner of the angel's eyes has smoothed, and that Cas is looking at him just as intensely, carrying a small, soft smile of his own. Dean's heart skips a beat. He has to take another gulp of the wine, which nearly drained half the glass.
 
 Cas knows all the royals' names in the hall and pretty much all the answers to his random questions, except for the ones he mentioned *The English Patient* and *Night at the Museum* -- for which it's Dean's turn to tell his impression on this land.
 
-He doesn't miss the chance to talk about mummies and all the movies about pyramids, either. It's not his fault that the most known facts about Egypt seems always around mummy mysteries, which constitutes pretty much all his limited knowledge about Egypt, and therefore makes Cas's stories a hundred times more interesting than he knows possible.
+He doesn't miss the chance to talk about mummies and all the movies about pyramids, either. It's not his fault that the most well-known facts about Egypt seem always to center around mummy mysteries, which constitutes pretty much all his limited knowledge about Egypt, and therefore makes Cas's stories a hundred times more interesting than he knows possible.
 
 Even the mummy stories Cas tells him sound so much more fun than the lore he learned about, from the way Cas describes -- the spices they'd use, the rituals and procedures of preparing, the fabrics they wrap them with, the meanings of the carvings near their tombs, the jewelries they're buried with -- actually, mummies are the best part of the story. Apparently, they're not always living dead monsters, at least not all of them.
 
-Dean is fascinated, not realizing he's probably been staring at Cas for way too long, leaning in closely to hear every syllable of his words and every little sound of his laughter unconsciously. Dean shifts his eyes hurriedly as soon as he realizes how close they are sitting next to each other, their knees brushing against each other. He wonders why the room temperature increases so much when he's busy catching all the movements on Cas's lips, flipping and fluttering as all the fun facts and knowledge and stories dancing out. Cas really knows everything about everything, because he's an angel, for God's sake -- something Dean keeps forgetting but always gets reminded in the most bewildering moments. And right now, the said angel is sitting next to him, talking to him over a table of feast, and smiling at him with those dopey eyes, like he's the only man existing in the universe right now, the only one mattered.
+Dean is fascinated, not realizing he's probably been staring at Cas for way too long, leaning in closely to hear every syllable of his words and every little sound of his laughter unconsciously. Dean shifts his eyes hurriedly as soon as he realizes how close they are sitting next to each other, their knees brushing against each other. He wonders why the room temperature increases so much when he's busy catching all the movements on Cas's lips, flipping and fluttering as all the fun facts and knowledge and stories dance out. Cas really knows everything about everything, because he's an angel, for God's sake -- something Dean keeps forgetting but always gets reminded in the most bewildering moments. And right now, the said angel is sitting next to him, talking to him over a table of feast, and smiling at him with those dopey eyes, like he's the only man existing in the universe right now, the only one matters.
 
-Dean doesn't know what to do with that look in his eyes and the fluttering heart in his chest. His mind has flew away, snapping to that night in the dungeon without his permission. The look on Cas's face now mirrors the one then. It's always the same look, dedicated, fixated on Dean, eying him in a way that always seems staring directly into his soul. Cas has never looked at him in any different way, probably since the moment they met in that barn all those years ago. The end of the world was merely months ago, fresh in the memory, so is all the desperate pain when he thought he lost him forever again. And they still haven't really talked about it.
+Dean doesn't know what to do with that look in his eyes and the fluttering heart in his chest. His mind has flown away, snapping to that night in the dungeon without his permission. The look on Cas's face now mirrors the one then. It's always the same look, dedicated, fixated on Dean, eying him in a way that always seems to stare directly into his soul. Cas has never looked at him in any different way, probably since the moment they met in that barn all those years ago. The end of the world was merely months ago, fresh in the memory, so is all the desperate pain when he thought he had lost him forever again. And they still haven't really talked about it.
 
 Dean swallows hard, draining the wine, dragging his mind back before the lump in his throat chokes him.
 
-The hall falls into solemn silence just as Dean's about to ask when the feast will start -- and more importantly, when the pie is gonna come. Two men move slowly into the hall from the far deep end, the end that has all the lights yet also the most shadows. All the guests stand up when they emerge into the view, Dean and Cas do the same. Bright light from the ceiling pour on them as they arrive, dazzling like jewels. Dean has to squint in the strong light, briefly blinded. Beside him, he hears Cas inhale harshly.
+The hall falls into solemn silence just as Dean's about to ask when the feast will start -- and more importantly, when the pie is gonna come. Two men move slowly into the hall from the far deep end, the end that has all the lights yet also the most shadows. All the guests stand up when they emerge into view, Dean and Cas do the same. Bright light from the ceiling pour on them as they arrive, dazzling like jewels. Dean has to squint in the strong light, briefly blinded. Beside him, he hears Cas inhale harshly.
 
-The Pharaoh is cloaked in layers under layers of fabric, the colors of sun and desert draping him in the undoubtfully the most expensive material in the country. His hands are concealed beneath the long heavy sleeves, his feet move sluggishly under long skirt of the gowns and robes. The crest is inlayed with jewels on every inch of the material, standing twice as tall as his head, burdening his neck. Thick black lines paint on his face like a mask. The man looks no older than his age, Dean thinks, but those eyes are hazy and worn as if he's already eighty and near blind. He reminds him of King Théoden from *Lord of the Rings* during the mind-control time.
+The Pharaoh is cloaked in layers under layers of fabric, the colors of sun and desert draping him in undoubtedly the most expensive material in the country. His hands are concealed beneath the long heavy sleeves, his feet move sluggishly under the long skirts of the gowns and robes. The crest is inlaid with jewels on every inch of the material, standing twice as tall as his head, burdening his neck. Thick black lines paint his face like a mask. The man looks no older than his age, Dean thinks, but those eyes are hazy and worn as if he's already eighty and near blind. He reminds him of King Théoden from *The Lord of the Rings* during that mind-control time.
 
 "Guess we know why it took so long now," Dean whispers. "Man's busy in the dressing room."
 
@@ -283,15 +283,15 @@ The other man supporting the Pharaoh's arms before he's properly seated then sta
 
 Dean squints at the symbol on his necklace. "I swear I've seen it somewhere," he says, but he has to rack his brain to remember where or what the meaning might be. But definitely, most definitely from one of the lore books in the bunker when they were doing research on how to summon and trap Anubis for Lily Sunder, which means, if his luck is as good as ever, this guy might be in the same tier as Anubis. Awesome. So much for a peaceful pie trip.
 
-The Pharaoh starts speaking, welcoming the guests and glorifying the Nile and their gods for another year of good harvest, yada yada yada. It doesn't escape Dean's notice that every now and then, the suspicious creature-looking man bends over to the Pharaoh's ear and murmurs something. That's how the next paragraph of speech continues. Not even a very subtle mind-control trick, Dean thinks, glancing around, almost expecting more people to notice the abnormality up there right before everyone's eyes, only to find them have their heads low and bowed, listening to the speech of the probably God-like ruler to them. Classic.
+The Pharaoh starts speaking, welcoming the guests and glorifying the Nile and their gods for another year of good harvest, yada yada yada. It doesn't escape Dean's notice that every now and then, the suspicious creature-looking man bends over to the Pharaoh's ear and murmurs something. That's how the next paragraph of the speech continues. Not even a very subtle mind-control trick, Dean thinks, glancing around, almost expecting more people to notice the abnormality up there right before everyone's eyes, only to find them have their heads low and bowed, listening to the speech of the probably God-like ruler to them. Classic.
 
 Dean leans forward -- Cas's seat is closer to the front of the table, so from where they stand now, if Dean leans forward, his lips are right behind Cas's ear. He whispers, "Please tell me I'm not the only one thinking this looks sketchy."
 
 "You're not, but now isn't a good time," Cas urges quietly. "He might be able to hear you."
 
-From this distance? Dean is just about to ask before he can stop himself, thinking twice. Ancient Egypt is a land of gods, just like Greece and Roman. They are used to call them pagan gods, but gods nonetheless. Who knows what this one can do? And from the look of Cas's tightened jaw, he probably knows some insights. Might as well wait to see how it plays out before jumping into the fire again. For once, Dean shuts his mouth wisely as told.
+From this distance? Dean is just about to ask before he can stop himself, thinking twice. Ancient Egypt is a land of gods, just like Greece and Rome. They are used to call them pagan gods, but gods nonetheless. Who knows what this one can do? And from the look of Cas's tightened jaw, he probably knows some insights. Might as well wait to see how it plays out before jumping into the fire again. For once, Dean shuts his mouth wisely as told.
 
-The speech drags on and on, after the praising for the god Ra of the sun, Horus of the sky, then something about the Nile, some other announcements in the change of the royal structure, the demotion of the Vizier, the decision of building higher walls as the city fortress, the higher amount in the tribute. Dean finds the man's voice hypnotic. He can't hold back a yawn coming out of his mouth.
+The speech drags on and on, after the praise for the god Ra of the sun, Horus of the sky, then something about the Nile, some other announcements in the change of the royal structure, the demotion of the Vizier, the decision of building higher walls as the city fortress, the higher amount in the tribute. Dean finds the man's voice hypnotic. He can't hold back a yawn coming out of his mouth.
 
 The speech stops abruptly. The silence feels choking, the air heavy and venomous.
 
@@ -299,7 +299,7 @@ Dean's gut twitches uneasily. He stands closer to Cas, just out of instinct. Cas
 
 But the part of the gut that senses danger doesn't put off the alarm. The hairs at the back of his neck stand on end in the sudden ominous silence in the grand hall. Dean thinks he can hear his own heartbeat and breathing pace standing out from the hundreds of guests in the room.
 
-He senses, more than sees, a pair of sharp creature-like eyes shooting his direction. The man with ear-shaped crest that's pretty certainly is a pagan god of some sort bends down by the Pharaoh's ear once more and murmurs something, just like he did so many times before.
+He senses, more than sees, a pair of sharp creature-like eyes shooting his direction. The man with the ear-shaped crest who's pretty certainly a pagan god of some sort bends down by the Pharaoh's ear once more and murmurs something, just like he did so many times before.
 
 And the dazed Pharaoh speaks, "I announce, as a decision made solemnly, for the benefit of Egypt: The war on Babylon begins today. Hang the ambassadors!"
 
@@ -311,23 +311,23 @@ Dean's mind blanks out for a split second. Okay, a bit sudden, but, phew, nothin
 
 <br>
 
-The guests are stirred like ducks startled by a heavy stone in a pond, flying in all directions with flustering wings. They hurry out of their seats in chaos, fleeing backward, trying to get away from them as far as possible. The space around them are quickly cleared out with a radius of five feet and increasing. Armed men with spears approach them in a surrounding circle from behind the pillars of the hall, closing in quickly.
+The guests are stirred like ducks startled by a heavy stone in a pond, flying in all directions with flustering wings. They hurry out of their seats in chaos, fleeing backward, trying to get away from them as far as possible. The space around them is quickly cleared out with a radius of five feet and increasing. Armed men with spears approach them in a surrounding circle from behind the pillars of the hall, closing in quickly.
 
 Dean glances at the way they came in, not surprised to find the gate closed and most likely locked. Just like the bloody Red Wedding from *Game of Thrones*, just his luck.
 
-Dean shrugs off the tunic, reaching for his gun at his belt, glad for a brief second, even though without the whole weaponry in the Baby, he still has his 1911 with him, after all these years. But a quick scan at the surrounding royal army, his heart sinks. There is no way the two of them can take down all those soldiers, even if they do, then what? Even if they can handle them, they don't know how many more would come. Besides, those ancient Egyptians are only just following orders -- all so young, boys barely coming of age. It just doesn't feel right.
+Dean shrugs off the tunic, reaching for his gun at his belt, glad for a brief second, even though without the whole weaponry in the Baby, he still has his 1911 with him, after all these years. But a quick scan of the surrounding royal army, his heart sinks. There is no way the two of them can take down all those soldiers, even if they do, then what? Even if they can handle them, they don't know how many more would come. Besides, those ancient Egyptians are only just following orders -- all so young, boys barely coming of age. It just doesn't feel right.
 
-"Forget to check your history book, Cas? Battle day or what?" Dean asks behind him, the two of them standing gingerly, back to back. Dean counts the surrounding number quietly.
+"Forget to check your history book, Cas? Battle day or what?" Dean asks behind him, the two of them standing gingerly, back to back. Dean counts the surrounding numbers quietly.
 
 "This isn't supposed to happen!" Cas hisses, "I would never have brought you here if I had known. The Battle of Carchemish isn't supposed to happen for another century and a half! The Egyptians and Babylonians are supposed to be on good terms right now."
 
-"Well, apparently they are not anymore." Dean holds his pistol with both hands, but not even sure of who he should aim. Those boys in pre-historical armor and spears? They might not hesitate to kill him but he's still feeling bad for them.
+"Well, apparently they are not anymore." Dean holds his pistol with both hands, but he's not even sure of who he should aim at. Those boys in pre-historical armor and spears? They might not hesitate to kill him but he's still feeling bad for them.
 
 "That wolf-ear counselor, any idea who he is? Got a gut feeling he's not human." Dean chances another glance at the far end of the table, noticing the man he's talking about stands still, looking at the chaos in the room with a satisfying smile on his face -- not too different from Chuck's when he stands in the graveyard waiting for him to kill Jack last year. What's with all the douchbag higher powers always just enjoying watching men kill each other? Dean grits his teeth, fingers itching, almost feeling like having to kill Chuck all over again.
 
 "He's not," Cas answers, proving his suspicion. Sometimes Dean hopes he's not right all the time -- Sam's possible retorts don't count.
 
-"-- And I can't use my power right now." Cas's voice is less even now, quivering at the end of the sentence. Dean can feel him trying to roll his back as if to spread his wings to fly them out of here but nothing happens. Cas sounds so sick worried that his voice is bouldering terrified, "I'm so sorry, Dean. I didn't know... I should've..."
+"-- And I can't use my power right now." Cas's voice is less even now, quivering at the end of the sentence. Dean can feel him trying to roll his back as if to spread his wings to fly them out of here but nothing happens. Cas sounds so sick worried that his voice is bordering terrified, "I'm so sorry, Dean. I didn't know... I should've..."
 
 "It's okay," Dean comforts him quickly, gathering himself. "Not your fault, we'll figure it out. We handled Chuck, we can handle another pagan god. Just need to figure out who he is."
 
@@ -335,15 +335,15 @@ Dean shrugs off the tunic, reaching for his gun at his belt, glad for a brief se
 
 "I'll cover you." Dean doesn't need the whole sentence out to start moving. The Egyptian soldiers charge forward to start the attack at the same moment.
 
-The sound of the first gun fire startles them like bonfire scaring off wild animals, but that only buys them less than a minute. Cas leaps forward toward the front end of the table, fighting off the long-reaching spears with his angel blade, flipping and turning in the air like the best samurai in Akira Kurosawa's best action movie. He's like Neo in the first *Matrix*, with all the fancy Kungfu moves, minus the bullet-catching moment. Dean knows he's a damn good fighter, and no matter how many times he's witnessed Cas in fighting, it would never stop making his blood boil. Or bring him chills. Both.
+The sound of the first gunfire startles them like a bonfire scaring off wild animals, but that only buys them less than a minute. Cas leaps forward toward the front end of the table, fighting off the long-reaching spears with his angel blade, flipping and turning in the air like the best samurai in Akira Kurosawa's best action movie. He's like Neo in the first *Matrix*, with all the fancy Kungfu moves, minus the bullet-catching moment. Dean knows he's a damn good fighter, and no matter how many times he's witnessed Cas in fighting, it would never stop making his blood boil. Or bring him chills. Both.
 
-Dean watches Cas from the periphery of his eyes, almost too amazed to focus on his own fight, but the pointy sharp tips of the soldiers' weapons close in quickly, forcing him to turn his attention back to the battle. He sweeps the gun around, shifting the aim from one Egyptian soldier to another, whoever comes too close, and gunning down the one who almost gets a hold on Cas. The blood of that young soldier spatter onto the dining table. The caged crowd standing at the edge of the hall gasp out loudly in horror. Dean doesn't have the luxury to think about saving those other civilians right now.
+Dean watches Cas from the periphery of his eyes, almost too amazed to focus on his own fight, but the pointy sharp tips of the soldiers' weapons close in quickly, forcing him to turn his attention back to the battle. He sweeps the gun around, shifting the aim from one Egyptian soldier to another, whoever comes too close, and gunning down the one who almost gets a hold on Cas. The blood of that young soldier spatters onto the dining table. The caged crowd standing at the edge of the hall gasp out loudly in horror. Dean doesn't have the luxury to think about saving those other civilians right now.
 
 He moves along the table, covering Cas's back, following him to approach those two men that seem to have the power to start all this with a flip of their fingers, which means it should be their solution to end all the mess before the whole civilization-wise battle starts -- wait, is this the exact one that wipes Babylon out of the map? Must be the Apocalypse for them then.
 
-Christ, who remembers he's only here for some pie? He doesn't even see anything remotely look like a single damn pie, unless counting those two big bowl of oat and wheat pastry before the Pharaoh's seat as pie crust, but that's about it. He should probably remind Cas to only bring them when dessert is served next time, otherwise, zero star for this Egyptian restaurant, doesn't matter how antique they are. Dean almost laughs at his own brain for still having the capability of thinking about pies in life-death situation like this. Must be the new neural reflex from all the other Apocalypse rehearsals.
+Christ, who remembers he's only here for some pie? He doesn't even see anything remotely looking like a single damn pie, unless counting those two big bowls of oat and wheat pastry before the Pharaoh's seat as pie crust, but that's about it. He should probably remind Cas to only bring them when dessert is served next time, otherwise, zero stars for this Egyptian restaurant, doesn't matter how antique they are. Dean almost laughs at his own brain for still having the capability of thinking about pies in life-death situation like this. Must be the new neural reflex from all the other Apocalypse rehearsals.
 
-His gun runs out of bullets shortly. Dean has to snatch a spear from one of those guardian soldiers and swings just like another ancient Egyptian. Falling into their comfortable fighting realm, he has zero advantage over the locals, and their weapons begin to wound him constantly. One stab cuts through his arm, another through his calf. Dean grits his teeth, breathing heavily. His moves are slowed down drastically by the pain. He manages to keep standing, but only barely. He doesn't think he can last much longer, probably the only soothing thought by then in his mechanically auto-pilot mode fighting head is -- If those men are focused on attacking him, then maybe Cas is safe.
+His gun runs out of bullets shortly. Dean has to snatch a spear from one of those guardian soldiers and swing just like another ancient Egyptian. Falling into their comfortable fighting realm, he has zero advantage over the locals, and their weapons begin to wound him constantly. One stab cuts through his arm, another through his calf. Dean grits his teeth, breathing heavily. His moves are slowed down drastically by the pain. He manages to keep standing, but only barely. He doesn't think he can last much longer, probably the only soothing thought by then in his mechanically auto-pilot mode fighting head is -- If those men are focused on attacking him, then maybe Cas is safe.
 
 "Dean!"
 
@@ -369,7 +369,7 @@ Even Cas shoots him a quick warning glare that Dean interprets as "Not appropria
 
 "That explains so much," Dean says, unafraid, nodding at the probably-dozed-off Pharaoh. "The man fits all three. And you just can't resist starting wars everywhere, don't you? News flash, buddy, we killed War before, think a wolfie is tougher than Hell's Horseman?"
 
-Wepwawet barks out a loud laughter, his pupil turning golden amber when he stares at Dean again. His teeth turning into pointy fangs. He still manages to maintain the smile, and says, "You have no idea what you're dealing with." And lunges at them with fangs flashing out.
+Wepwawet barks out a loud laugh, his pupil turning golden amber when he stares at Dean again. His teeth turn into pointy fangs. He still manages to maintain the smile, and says, "You have no idea what you're dealing with." And lunges at them with fangs flashing out.
 
 The last thing Dean knows, is Cas yelling his name desperately, tightening his hands around him.
 
@@ -385,23 +385,23 @@ Dean answers automatically, "Cas? You there?" He blinks hard, trying to get used
 
 A fumbling hand grasps his hand, squeezing in relief. "Yes, it's me. I'm so glad you're okay."
 
-Shapes emerge from the darkness slowly. Dean thinks he can figure out the silhouette kneeling right next to him now. He lifts his arm -- which still hurts and is probably bleeding, from the stingy sensation on the upper arm, but he can ignore it for a minute -- and puts his hand on where he thinks Cas's arm is, giving him a quick squeeze in reassurance, then sliding down onto his hand, resting there. "I'm fine, Cas. How about you?"
+Shapes emerge from the darkness slowly. Dean thinks he can figure out the silhouette kneeling right next to him now. He lifts his arm -- which still hurts and is probably bleeding, from the stinging sensation on the upper arm, but he can ignore it for a minute -- and puts his hand on where he thinks Cas's arm is, giving him a quick squeeze in reassurance, then sliding down onto his hand, resting there. "I'm fine, Cas. How about you?"
 
-"I'm fine," Cas answers simply, his voice tired and upset, not taking his hand away. Dean doesn't need to see his face to know what he's thinking. This feels far too much like Deja Vu here, just the two of them, hopelessly trapped in a place they can't figure out how to get out. The dungeon, dammit, just like the bunker dungeon, and for Christ's sake, what's it with them in a dungeon, facing some terrifying powerful beings? It's like a poor joke from Fate -- and a not very creative one. If Dean is remembering that moment, then sure enough, Cas is definitely thinking of the exact same thing which is so clearly beating him up.
+"I'm fine," Cas answers simply, his voice tired and upset, not taking his hand away. Dean doesn't need to see his face to know what he's thinking. This feels far too much like Deja Vu here, just the two of them, hopelessly trapped in a place they can't figure out how to get out of. The dungeon, dammit, just like the bunker dungeon, and for Christ's sake, what's it with them in a dungeon, facing some terrifying powerful beings? It's like a poor joke from Fate -- and a not very creative one. If Dean is remembering that moment, then sure enough, Cas is definitely thinking of the exact same thing, which is so clearly beating him up.
 
-"Cas, listen, it's not your fault." Dean starts, sitting straighter from the corner he lays, groaning as his muscles protest. "We'll get out, we'll get home. I know it. We'll be fine." Nothing like last time is going to happen again. Nothing is going to take Cas away again, or kill him, if that's what Cas's been afraid of. No one is going to deal themselves away for the other this time. Dean thinks hard on that thought, holding Cas's hands in his, holding it warm and film.
+"Cas, listen, it's not your fault." Dean starts, sitting straighter from the corner he lies, groaning as his muscles protest. "We'll get out, we'll get home. I know it. We'll be fine." Nothing like last time is going to happen again. Nothing is going to take Cas away again, or kill him, if that's what Cas's been afraid of. No one is going to deal themselves away for the other this time. Dean thinks hard on that thought, holding Cas's hands in his, holding them warm and firm.
 
 "It's just like last time," Cas says, voice desperate, panicked and wet. "I'm the one leading us to the cage this time. And I don't have another deal to save us, to save you..."
 
 "I don't think I'd survive that a second time if it happened," Dean hears himself saying.
 
-They never really talked about that night, not even after Cas was brought back, one part of Dean's mind says. The other parts blink blankly. He's afraid, Dean realizes. He doesn't even know what he's afraid of, but his heart clenches hard, choking him breathless now. The answer is right there, on tip of his tongue, lingering in the dark quiet air. And without his brain registering, his mouth is already spilling the truth.
+They never really talked about that night, not even after Cas was brought back, one part of Dean's mind says. The other parts blink blankly. He's afraid, Dean realizes. He doesn't even know what he's afraid of, but his heart clenches hard, choking him breathless now. The answer is right there, on the tip of his tongue, lingering in the dark quiet air. And without his brain registering, his mouth is already spilling the truth.
 
 "I don't think..." Dean hears his mouth saying, slowly, one word at a time, just to not choke on the syllables, "I don't think I can survive losing you ever again. Because, because --" his breath hitches, his voice shuddering, he has to take a couple deep breath to even it again, then, "-- because I love you too, Cas. So damn much. I should have told you last time. I should have said it earlier. I don't know why I didn't..."
 
-His voice chokes in his throat, tears falling. Dean remembers the Purgatory all of a sudden, that second trip for the Leviathan Blossom, when he held on that tree trunk, praying an apology. The words feel so familiar. So painful. Tearing him apart from inside. Another Deja Vu. Why do those words always have to wait until the end of the line to come out? Except, no, not this time, it can't be the end of the line. None of them are going to die. Not again. Not over a damn freaking pie.
+His voice chokes in his throat, tears falling. Dean remembers the Purgatory all of a sudden, that second trip for the Leviathan Blossom, when he held on that tree trunk, praying an apology. The words feel so familiar. So painful. Tearing him apart from the inside. Another Deja Vu. Why do those words always have to wait until the end of the line to come out? Except, no, not this time, it can't be the end of the line. None of them is going to die. Not again. Not over a damn freaking pie.
 
-He feels two arms slowly wrap around his body in the dark, cloth rustling, Cas moving closer, pulling him into a hug in his kneeling pose. Dean raises his upper body, holding back. The posture is awkward, shifting to meet him, his arms and his body sort and hurting, but it doesn't matter. In the dark dungeon in some creepy Egyptian god's palace, four thousand years earlier than their own time, they are holding each other tight like there is nothing else exists or matters in the world. And it feels right.
+He feels two arms slowly wrap around his body in the dark, cloth rustling, Cas moving closer, pulling him into a hug in his kneeling pose. Dean raises his upper body, holding back. The posture is awkward, shifting to meet him, his arms and his body sore and hurting, but it doesn't matter. In the dark dungeon in some creepy Egyptian god's palace, four thousand years earlier than their own time, they are holding each other tight like there is nothing else exists or matters in the world. And it feels right.
 
 Cas rests his chin on Dean's shoulder, shuddering. Dean pats his back gently, murmuring things like "It's okay. We're okay." over and over again, until they both start believing it.
 
@@ -411,15 +411,15 @@ Cas waits until both their breathing evens out and then tells him, "I will not l
 
 "Shall we call Jack?" Dean suggests, after a beat of silence. "Think he'd be able to pull us out of here?"
 
-"I already tried praying when you were in coma. He did not answer," Cas tells him miserably, then adds. "I think... this might be one of the fixed points even he couldn't reach or alter, considering how important ancient Egypt is in the Bible."
+"I already tried praying when you were in the coma. He did not answer," Cas tells him miserably, then adds. "I think... this might be one of the fixed points even he couldn't reach or alter, considering how important ancient Egypt is in the Bible."
 
 "Out of his jurisdiction, huh?" Dean says, annoyed. "I keep forgetting we're in BC-time, not even Jesus is born yet. The holy book-recorded biblical time."
 
-The two of them fall silent, contemplating on other options they might have. The place is quiet for a moment. No sound except for the dripping water from the dungeon ceiling.
+The two of them fall silent, contemplating other options they might have. The place is quiet for a moment. No sound except for the dripping water from the dungeon ceiling.
 
 Then, from some distant stairwell, there comes a quiet rustle of clothing, descending closer. Cas stands up gingerly, positioning himself between the direction of the sound and Dean.
 
-A figure emerges outside the bars. A man calls their fake Babylonian names quietly in a eager tone. Dean recognizes the voice. The vizier.
+A figure emerges outside the bars. A man calls their fake Babylonian names quietly in an eager tone. Dean recognizes the voice. The vizier.
 
 "Amenemhat," Cas greets him, slightly relaxed. If not a little surprised.
 
@@ -437,7 +437,7 @@ Dean exchanges a hopeful glance with Cas. Knowing a plan is forming in their hea
 
 "One more thing," Cas asks politely, "is there any chance you can get us a kind of very special oil from Jerusalem?"
 
-They do not expect the vizier to nod for that seemingly bizarre request without hesitation, but apparently over the last seven years when Mentuhotep IV was ruling under Wepwawet's influence, the vaults of Egypt have amassed its collection tremendously, and it doesn't miss out one of the most biblically sacred and valuable treasure in the world.
+They do not expect the vizier to nod for that seemingly bizarre request without hesitation, but apparently over the last seven years when Mentuhotep IV was ruling under Wepwawet's influence, the vaults of Egypt have amassed its collection tremendously, and it doesn't miss out on one of the most biblically sacred and valuable treasures in the world.
 
 Cas thanks him full-heartedly. Dean does the same.
 
@@ -445,11 +445,11 @@ Cas thanks him full-heartedly. Dean does the same.
 
 They also borrowed a kitchen.
 
-Not from the vizier though, for this one, but from the woman on the road offering them the tunics -- it would have been in too high risk to prepare everything under the jackal's nose, figuratively or literally. Dean feels a tad guilty when he remembers the clothe had been left behind during the fight in that grand dining hall. Amenemhat recognized her immediately from what Cas described, and they knocked on her door in the middle of the night. The moon is still high in the night sky, but the time is running out fast.
+Not from the vizier though, for this one, but from the woman on the road offering them the tunics -- it would have been in too high risk to prepare everything under the jackal's nose, figuratively or literally. Dean feels a tad guilty when he remembers the clothes had been left behind during the fight in that grand dining hall. Amenemhat recognized her immediately from what Cas described, and they knocked on her door in the middle of the night. The moon is still high in the night sky, but the time is running out fast.
 
 The woman was startled by their visit at first, but knowing the whole story -- technically it's the simplified version provided by Cas -- she did not hesitate. Even offered a hand around the kitchen. Bless her soul.
 
-Dean throws himself into the task: Preparing a trap too tempting and distractive for the jackal god to recognize. Lure him in with food exotic and innovative in this time that the creature instinct side of him wouldn't be able to resist, and confine him with the holy oil that they have to believe would work.
+Dean throws himself into the task: Preparing a trap too tempting and distracting for the jackal god to recognize. Lure him in with food exotic and innovative at this time that the creature instinct side of him wouldn't be able to resist, and confine him with the holy oil that they have to believe would work.
 
 "It has to be something he has never tried before for him to fall for, something that doesn't exist in this time. And it has to smell and taste the most tempting among everything he has ever tasted, for a God to fail the resist," the vizier has warned.
 
@@ -461,9 +461,9 @@ The downfall of Wepwawet almost feels too easy. The jackal doesn't stand a chanc
 
 Amenemhat helps sneak it into the grand hall. They wait in the dark shadows.
 
-The jackal god leaves the chamber, sniffing the air greedily, approaching it through the descending stairs. His paws padding across the floor. He's still cautious.
+The jackal god leaves the chamber, sniffing the air greedily, approaching it through the descending stairs. His paws pad across the floor. He's still cautious.
 
-The creature's steps are slow, as if his brain is trying to stop the steps, but the feet are not listening to the control, carrying him toward the source of the smell by instinct. His snout twitches more violently by each step closer to the delicious creation. Until he's right in front of the dish.
+The creature's steps are slow, as if his brain is trying to stop the steps, but the feet are not listening to the control, carrying him toward the source of the smell by instinct. His snout twitches more violently with each step closer to the delicious creation. Until he's right in front of the dish.
 
 They watch him from the dark hideouts.
 
@@ -481,35 +481,35 @@ They wait until the plate is licked clean to come out.
 
 Wepwawet finally notices them. The creature whines when the jackal's body twitches, as if it still tries to transform into the man once stood behind the Pharaoh and whispered orders to start a war, but no matter how hard he tries, the shape remains a jackal.
 
-"It tastes good, doesn't it?" Dean smiles, loosely pointing a blade at the creature, but worry and fear has left him. Cas stands by his side, angel blade in his palm.
+"It tastes good, doesn't it?" Dean smiles, loosely pointing a blade at the creature, but worry and fear have left him. Cas stands by his side, angel blade in his palm.
 
-The jackal opens its mouth, possibly trying to threaten their necks with its teeth, but it turns into a lazy yawn. Some sweet scrap of the pastry it just devoured could still be seen in between its fangs. It doesn't look half as menacing as a homegrown pet dog, a Chihuahua or something on a leash.
+The jackal opens its mouth, possibly trying to threaten their necks with its teeth, but it turns into a lazy yawn. Some sweet scrap of the pastry it just devoured could still be seen between its fangs. It doesn't look half as menacing as a homegrown pet dog, a Chihuahua or something on a leash.
 
-"Don't feel too bad, at least you got a nice tasty meal." Dean changes the blade to a chain, managing to tie around the creature's neck. It tried to get away, wrestling them for a few rounds, then trying its luck in hide-and-seek. But with the strength of an ordinary jackal, the efforts are all in vain.
+"Don't feel too bad, at least you got a nice tasty meal." Dean changes the blade to a chain, managing to tie it around the creature's neck. It tried to get away, wrestling them for a few rounds, then trying its luck in hide-and-seek. But with the strength of an ordinary jackal, the efforts are all in vain.
 
-The moment the creature is in chains -- which has been hand carved with sigils, also credit to Cas -- it lays down onto the floor, finally giving up all the attempt in resistance. And Cas, at the meantime, exhales with a happy relieved breath, rolling his shoulders with a crackling sound. There is a burst of lightning and thunder above their heads, candles flickering in the sudden wind inside the hall even though the windows and doors are shut tight. Though Cas doesn't exactly show his wings like in the barn when they first met, Dean thinks he senses an invisible one right over his shoulders from the prickling electricity in the air -- Cas's power is back. Dean smiles triumphantly.
+The moment the creature is in chains -- which has been hand-carved with sigils, also credit to Cas -- it lies down onto the floor, finally giving up all attempts at resistance. And Cas, in the meantime, exhales with a happy relieved breath, rolling his shoulders with a crackling sound. There is a burst of lightning and thunder above their heads, candles flickering in the sudden wind inside the hall even though the windows and doors are shut tight. Though Cas doesn't exactly show his wings like in the barn when they first met, Dean thinks he senses an invisible one right over his shoulders from the prickling electricity in the air -- Cas's power is back. Dean smiles triumphantly.
 
 Amenemhat regards the tied jackal carefully. "Is that it? Wepwawet no longer has his power? How did you do it?"
 
-Dean beams, gesturing the now empty plate. "Let's just say 'A magic pie saved the day.'"
+Dean beams, gesturing to the now-empty plate. "Let's just say 'A magic pie saved the day.'"
 
-But Cas goes into a more detailed explanation of how when the sigil painted by holy oil was consumed by the unguarded Wepwawet, it has stripped him of the divinity and bound him back to the primordial form, so he has transformed into a defenseless jackal just like any other wild jackal creatures.
+But Cas goes into a more detailed explanation of how when the sigil painted by holy oil was consumed by the unguarded Wepwawet, it stripped him of the divinity and bound him back to the primordial form, so he transformed into a defenseless jackal just like any other wild jackal creatures.
 
 Dean nods alongside him, concluding once Cas finishes, "Right, so that's how the pie saved the day."
 
-Amenemhat listens to them in awe. "What did you call that magic food? A p-i-e?" He enunciates the syllable reverently, as if worshiping the existence of the word, as if the word has never been born until this very moment -- which is true in all the ways, oh God. Dean is stricken with realization, glancing at Cas, about to ask if he just changed the world and the history by inventing the pie personally, when the vizier kneels down before him, speaking again with all the devotion and formality Dean doesn't think he deserves:
+Amenemhat listens to them in awe. "What did you call that magic food? A p-i-e?" He enunciates the syllable reverently, as if worshiping the existence of the word, as if the word has never been born until this very moment -- which is true in all the ways, oh God. Dean is stricken with realization, glancing at Cas, about to ask if he just changed the world and history by inventing the pie personally, when the vizier kneels down before him, speaking again with all the devotion and formality Dean doesn't think he deserves:
 
-"The very first existence of *'pie'* is created today, so is the word that names it. I shall memorize the process of its making, and share the knowledge of its creation with the whole realm of Egypt and beyond, to commemorate that this is the day, the God of Pie and his partner defeated the God of War, and saved people of Egypt from blood and violence. I shall correct the wrong doings of our misguided leader and remind our people with the sweetness of our feast that the peace is the path forward. I humbly plead for your permission, to honor the creation of *pie* and to spread its making, for it is the best creation we have ever witnessed, for the peace and fortune it brings us."
+"The very first existence of *'pie'* is created today, so is the word that names it. I shall memorize the process of its making, and share the knowledge of its creation with the whole realm of Egypt and beyond, to commemorate that this is the day, the God of Pie and his partner defeated the God of War, and saved the people of Egypt from blood and violence. I shall correct the wrongdoings of our misguided leader and remind our people with the sweetness of our feast that peace is the path forward. I humbly plead for your permission, to honor the creation of *pie* and to spread its making, for it is the best creation we have ever witnessed, for the peace and fortune it brings us."
 
-The vizier bows at Dean.
+The vizier bows to Dean.
 
-Dean stares with a gaped mouth. Cas nudges him, nodding at the man waiting for an answer.
+Dean stares with a gaping mouth. Cas nudges him, nodding at the man waiting for an answer.
 
 Dean stutters, "Yes! Yes, of course. You have my permission. Make more pies, make better pies, let everyone know."
 
 His eyes fluttering to Cas, Dean mouths, in the aftermath of the shock, "Did I... did I just get called the freaking 'God of Pie'?!"
 
-Cas nods solemnly, as a smile escapes the corner of lips, spreading across his face, reaching his eyes. "Yes," he says, cheerfully, "yes, indeed. And I think it is a very appropriate name for you."
+Cas nods solemnly, as a smile escapes the corner of his lips, spreading across his face, reaching his eyes. "Yes," he says, cheerfully, "yes, indeed. And I think it is a very appropriate name for you."
 
 <br>
 <hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
@@ -525,15 +525,15 @@ Dean shrugs. "Fair," then, just out of curiosity, "What happened next for them? 
 
 Cas tells him, "Mentuhotep IV was too sick to rule later that same year. Amenemhat took the throne and became Amenemhat I, the next Pharaoh. So started the Twelfth Dynasty of Middle Egypt."
 
-"Good for him," Dean approves, wandering absently into the kitchen, opening a cabinets, scanning the inside. "I liked him. That man seemed decent enough to actually do some good to the people."
+"Good for him," Dean approves, wandering absently into the kitchen, opening a cabinet, scanning the inside. "I liked him. That man seemed decent enough to actually do some good for the people."
 
-Cas nods in agreement. "That new dynasty is indeed considered by many, the apex of Middle Kingdom. There was no war with Babylonians or Arabians for over a century, as they should. The history remains intact as far as I can tell."
+Cas nods in agreement. "That new dynasty is indeed considered by many, the apex of the Middle Kingdom. There was no war with the Babylonians or the Arabs for over a century, as they should have. The history remains intact as far as I can tell."
 
 Dean hums softly, reaching for the things he was looking for in the pantry.
 
 Cas eyes him, standing two steps away, hesitating, then, tentatively, "Now that we know that pie existed since ancient Egypt, would you like to go back there again sometimes? I promise next time I'll scout the whole time and space closely before we go. Or we can go to the diner in the town, if you prefer it that way." His voice is carefully controlled.
 
-Dean is too busy examining the ingredients in his hands. Frowning at the expiration date of a bag of all-purpose flour, and gesturing the kitchen broadly as a whole with a glass of honey in his other hand, Dean says, "Why bother? I can just recreate *my* invention in our kitchen, isn't it? I'm the 'God of Pie', remember?" He chuckles at the name. "We need a grocery run though."
+Dean is too busy examining the ingredients in his hands. Frowning at the expiration date of a bag of all-purpose flour, and gesturing to the kitchen as a whole with a glass of honey in his other hand, Dean says, "Why bother? I can just recreate *my* invention in our kitchen, isn't it? I'm the 'God of Pie', remember?" He chuckles at the name. "We need a grocery run though."
 
 "You are not going to stop telling everyone that any time soon, are you?" Cas asks, handing him the fruit basket that was at the corner of the counter, with a few leftover apples and half a bundle of bananas in it.
 
@@ -557,13 +557,13 @@ Then the next moment, "Wait, since when do they make such nice, good quality, de
 
 Dean turns to Cas. "I thought you said they only have shepherd's pie."
 
-Before Cas can answer, Sam says, "That's what I thought too, that's what Eileen remembered from her childhood. But one minute we were in this food desert, and the next, we just found this place with all the pies. The restaurant was said to have inherited for more than a thousand years, and their ancestor once visited Egypt, where the pie was first created, and had met the 'God of Pie.' A pretty wild founder's story, isn't it?"
+Before Cas can answer, Sam says, "That's what I thought too, that's what Eileen remembered from her childhood. But one minute we were in this food desert, and the next, we just found this place with all the pies. The restaurant was said to have inherited from more than a thousand years ago, and their ancestor once visited Egypt, where the pie was first created, and had met the 'God of Pie.' A pretty wild founder's story, isn't it?"
 
 Dean exchanges a quick knowing look with Cas, raising an amused eyebrow. Cas says, resigned, "Here we go."
 
 Sam watches them closely. He rolls his eyes. "Wait, you got anything to do with that? What did you do?"
 
-Dean is more than happy to share the whole story -- though he tripped over the Egyptian names, any one except that memorable Wepwawet, so Cas supplied those whenever he needed a hand.
+Dean is more than happy to share the whole story -- though he tripped over the Egyptian names, anyone except that memorable Wepwawet, so Cas supplied those whenever he needed a hand.
 
 Sam gapes, turning to Cas once Dean finally wraps up the story in the way he's satisfied. "Holy crap, Cas, I didn't think you'd take my advice so literally."
 
@@ -575,9 +575,9 @@ Cas shifts his eyes away, staring at the far too many pies fanned out on the din
 
 Dean laughs, turning back to Sam, figuring his brother might be an easier target for grilling. "Alright, spill. What is it you guys talked about behind my back? Some secret plotting? What? Don't make me have to smash the pie on your face."
 
-Sam raises up two hands in surrender. "Cas asked me what people usually do to a date. I swear, that's his words. And I thought, 'Finally.'"
+Sam raises up two hands in surrender. "Cas asked me what people usually do on a date. I swear, that's his words. And I thought, 'Finally.'"
 
-"What did you say?" Dean swallows, asking, pointedly ignoring the sound of stifled laugh bubbling in Sam's chest.
+"What did you say?" Dean swallows, asking, pointedly ignoring the sound of a stifled laugh bubbling in Sam's chest.
 
 "I told him people usually take their date to fine restaurants if they want to impress them. And if that someone is you, then make sure there is a nice piece of pie. Just a friendly advice," Sam says innocently.
 
