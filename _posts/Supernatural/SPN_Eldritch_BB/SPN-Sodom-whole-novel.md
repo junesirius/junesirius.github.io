@@ -434,7 +434,7 @@ the way Cas speaks, start off very formal, biblical style, slowly turning to nor
 
 #### draft notes
 
-> Dean comes back out after three days, make meds (mention vial), Sam not healed but stabled
+> Dean comes back out after three days, make meds (use vial), Sam not healed but stabled
 >
 > goes to the city square, Cas is gone, Dean only finds broken feathers and blood and lingering grace, people laughing talking about new angel, Dean heart hurt, use a vial to collect Cas's lost grace
 >
