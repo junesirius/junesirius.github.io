@@ -627,10 +627,14 @@ They both taste like pie.
 
 After-work notes:
 
-Disclaimer: Please go easy on fact-checking the history part, I did a little research on pie's history and Egypt stuff (meaning: googled a few things and read some wiki pages), and that's about all I know. The rest gaps in knowledge are all filled in with pure imagination -- which means probably all full of random nonsense, all just for the sake of the story.
+**Disclaimer:** Please go easy on fact-checking the history part, I did a little research on pie's history and Egypt stuff (meaning: googled a few things and read some wiki pages), and that's about all I know. The rest gaps in knowledge are all filled in with pure imagination -- which means probably all full of random nonsense, all just for the sake of the story.
 
-Fun fact: 1991 BC is indeed the year Amenemhat I took over the power from Mentuhotep IV, and Egypt went from the Eleventh to the Twelfth Dynasty, opening the most vigorous, flourishing era in ancient Egyptian history, the apex of the Middle Kingdom.
+Also want to quickly mention that I have deep respect for Egyptian culture, and apologize in advance just in case anything in the story might unintentionally come off as offensive, especially with the depiction of the old god of war in the shape of jackal, for I understand jackals are viewed as sacred creature in many old Egyptian legend and belief. And just in case this god Wepwawet is actually still honored by people as a real, respected deity, I mean no disrespect with the villainous adaptation and occasional mocking (including the one about its name and several other comments Dean made). It's purely for the story's purpose, in line with canon's general treatment of non-Christian gods.
 
-Another curious little detail: The reign of Mentuhotep IV is also referred to as the "Seven Empty Years," for the lack of records or historical resources, leaving just a perfect opening for some supernatural fill-in.
+Also, a quick "No offense" apology about the mocking of Irish cuisine (just like Dean quickly said to Eileen). I fully acknowledge there are plenty of delicious dishes in Ireland, the taunting joke part about it being a dessert desert without good tasty pies is again purely to serve the story, and to create a funny little contrast before and after the time-traveling event happened in this story.
 
-And, if anyone is interested enough to look up the names of the mentioned Egyptian woman and the vizier, or notices some casual little details in the passing lines, there hides another small romantic side story.
+**Fun fact:** 1991 BC is indeed the year Amenemhat I took over the power from Mentuhotep IV, and Egypt went from the Eleventh to the Twelfth Dynasty, opening the most vigorous, flourishing era in ancient Egyptian history, the apex of the Middle Kingdom.
+
+**Some other interesting little trivia:** The reign of Mentuhotep IV is also referred to as the "Seven Empty Years," for the lack of records or historical resources, leaving just a perfect opening for some supernatural fill-in.
+
+And, if anyone is interested enough to look up the names of the mentioned Egyptian woman and the vizier, or notices some casual little details in the passing lines, there hides another small romantic side-story.
