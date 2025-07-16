@@ -12,7 +12,7 @@ published: false
 
 [TOC]
 
-Tag: canon compliant, pre-series, hurt/comfort, angst, slow burn, get together, Castiel's wings, indicated nonexplicit rape/non-con (not between Dean/Castiel), mob, temporary main character death, torture, S06E03 inspired, S04E07 inspired, Sodom and Gomorrah, inspired by Bible, Genesis XIX, purposefully sinful description for most characters including John Winchester and occasionally Sam Winchester due to story setting, super awful worse-than-canon John Winchester
+Tag: canon compliant, pre-series, hurt/comfort, angst, slow burn, get together, Castiel's wings, indicated nonexplicit rape/non-con (not between Dean/Castiel), mob, temporary main character death, torture, S06E03 inspired, S04E07 inspired, Sodom and Gomorrah, inspired by Biblical Story, Genesis XIX, purposefully sinful description for most characters including John Winchester and occasionally Sam Winchester due to story setting, super awful worse-than-canon John Winchester
 
 Warning: rape/non-con, graphic depiction of violence
 
@@ -159,6 +159,24 @@ No one looks up in this city
 You should never have come
 
 No more
+
+### Claim
+
+#### Claim Summary
+
+Inspired by Genesis XIX, story of Sodom and Gomorrah. Dean's family are citizens of Sodom, a city where the villagers abuse and violate Angels. Dean is the only righteous man in the city.
+
+Cas arrives in the city and gets mistreated, Dean wants to save him. The process of saving Cas from torture is slow, the two of them start getting closer and getting together. Dean's given the choice of saving Cas or saving the city. He chooses Cas in the end, with all the agony of having to make this decision, which ultimately deems him not righteous anymore.
+
+The city is destroyed, Dean and Cas are moved out of the city. But it turns out to be a trial for Dean, it's Michael's plan of testing whether Dean's righteous enough or not, which turns out he's not ready. Michael puts him into reincarnation and tests him and waits for him for another four thousand years until the modern canon time, while Cas is taken to Naomi (to be brainwashed and have his memory wiped). So neither remembers the experience when they meet again in S4E01, but they trust and choose each other immediately again.
+
+#### Visual
+
+Cas is locked up by chains in a basement, enslaved, his wings broken, cloth torn, skin burned, very pitiful awful looking, has angel-proof carvings on the handcuffs and ground, holy oil circle around, blood distained, beaten up, very clearly has been violently violated, eyes panicked. Dean holds him tight and kisses him gently.
+
+or
+
+At some distance, the cities are burning, all flames and smoke. On a small hill, Dean and Cas are hugging and kissing. Cas is healed, his wings healthy and beautiful and spread out. Balthazar and Sam are around them, John is turned into a salt pillar facing the burning cities (not necessarily need to be depicted, just a note).
 
 ### Arts
 
@@ -352,7 +370,7 @@ Castiel considers briefly and agrees, "So shall it be."
 
 They are noticed by people the moment they walk past the gate. In fact, Dean suspects they might have already caught attention when they were having that vain argument of a discussion that he failed to turn the angel aside.
 
-Now that they walk onto the street, with Dean leading half a step ahead and the angel having his wings tucking behind his back, Dean has never been so conscious of his own existence. People stop what they were doing to turn and look at them. Their eyes land meaningfully on them, lingering between him and Castiel. He doesn't need to meet any of their eyes to know the way they're looking -- the gleeful looks of predators. He picks up the pace.
+Now that they walk onto the street, with Dean leading half a step ahead and the angel having his wings tucking behind his back, Dean has never been so conscious of his own existence. People stop what they were doing to turn and look at them. Their eyes land meaningfully on them, lingering between him and Castiel. He doesn't need to meet any of their eyes to know the way they're looking -- the gleeful looks of predators, invasive, avid, like a group of hyenas. He picks up the pace.
 
 More people drop what they were busy with, and starts following them from a short distance away, forming a tailing crowd fast.
 
