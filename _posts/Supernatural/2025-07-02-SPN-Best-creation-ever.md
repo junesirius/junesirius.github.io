@@ -489,6 +489,8 @@ The jackal opens its mouth, possibly trying to threaten their necks with its tee
 
 The moment the creature is in chains -- which has been hand-carved with sigils, also credit to Cas -- it lies down onto the floor, finally giving up all attempts at resistance. And Cas, in the meantime, exhales with a happy relieved breath, rolling his shoulders with a crackling sound. There is a burst of lightning and thunder above their heads, candles flickering in the sudden wind inside the hall even though the windows and doors are shut tight. Though Cas doesn't exactly show his wings like in the barn when they first met, Dean thinks he senses an invisible one right over his shoulders from the prickling electricity in the air -- Cas's power is back. Dean smiles triumphantly.
 
+He feels Cas's palm casually land on his shoulder right next moment, and immediately he can hear his bones shift back to where they should, wound holes knitting together. He grins wider.
+
 Amenemhat regards the tied jackal carefully. "Is that it? Wepwawet no longer has his power? How did you do it?"
 
 Dean beams, gesturing to the now-empty plate. "Let's just say 'A magic pie saved the day.'"
