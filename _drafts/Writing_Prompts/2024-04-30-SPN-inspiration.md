@@ -3355,4 +3355,14 @@ similarly we can set/assume Dean/John/Adam aren't the only strong vessel for Mic
 
 so S5 becomes Michael+Lucifer both focus on torturing/persuading Cas, in the end both occupy Cas, the apocalypse essentially is them fighting, they have their fight inside Cas, Cas suffers, but world is saved
 
-### 312.
+### 312.【destiel】双流浪汉AU
+
+灵感来自jenmish都穿破洞T恤
+
+### 313.【destiel】《快乐王子》代餐
+
+Prince=丁，Swallow=卡
+
+更长的分析见： 2025-07-18发的post
+
+### 314.
