@@ -92,19 +92,19 @@ day 7: over night, no one dies, the town comes back normal, Dean wake up on the 
 
 #### Claim summary
 
-Inspired by Jensen's "My Bloody Valentine", canon divergent set in S5 timeline after Death is released but no walking dead zombies, replacing the episode S05E15 "Dead Men Don't Wear Plaid". Everything happens in Sioux Falls, South Dakota.
+Inspired by Jensen's "My Bloody Valentine", canon divergent set in S5 timeline after Death is released but no walking dead zombies, replacing episode S05E15 "Dead Men Don't Wear Plaid." Everything happens in Sioux Falls, South Dakota.
 
-Dean, Cas, Sam are in Bobby's place, noticing everyone is forced to go to sleep during the night, no one remembers anything from the night, and people are mysteriously and violently killed over the night. They try to solve the case but find it very difficult.
+Dean, Cas, Sam are at Bobby's place, noticing everyone is forced to sleep at night, no one remembers anything from the night, and people are mysteriously and violently killed over the night. They try to solve the case but find it very difficult.
 
-Meanwhile Dean and Cas find bloody evidences and traces always surround them, convinced that one of them might be the secret murderer, they start getting suspicious and turn against each other, and both feel very hurt.
+Meanwhile, Dean and Cas find bloody evidence and traces always surround them, convinced that one of them might be the secret murderer, they start getting suspicious of and turn against each other, and both feel very hurt.
 
-Many local Sioux Falls villagers are involved, either getting killed or following the cases closely, including Sheriff Jody Mills. After four days, Sam notices the pattern that almost always a person killed violently over the night, and another innocent person gets accused during the day by the villager and dies a random other way. His theory is the whole town is a big bloody real-life *Werewolf* game, many villagers have special game roles like "Doctor", "Seer", etc.
+Many local Sioux Falls villagers are involved, either getting killed or following the cases closely, including Sheriff Jody Mills. After four days, Sam notices the pattern that almost always a person killed violently over the night, and another innocent person gets accused during the day by the villagers and dies a random other way. His theory is the whole town is a big bloody real-life *Werewolf* game, many villagers have special game roles like "Doctor", "Seer", etc.
 
-Dean and Cas hate fighting against each other, so decide to trust each other regardless of the evidences. The new theory is they are framed by Jody.
+Dean and Cas hate fighting each other, so decide to trust each other regardless of the evidences. The new theory is they are being framed by Jody.
 
-The last game night, Jody is killed by wolf, and in the morning, they have recorded camera footage to show actually both Dean and Cas are both the killers (wolves), the villagers (especially Jody's husband Sean) attack them to revenge Jody. Cas sacrifices himself to protect Dean, the night falls. The game ends.
+The last game night, Jody is killed by the wolf, and in the morning, recorded camera footage shows actually both Dean and Cas are the killers (wolves), the villagers (especially Jody's husband Sean) attack them to avenge Jody. Cas sacrifices himself to protect Dean, the night falls. The game ends.
 
-It turns out the whole game is controlled by Death, who's under Lucifer's leash. It's a warning game from Lucifer. But they're lucky that Cas's death is over the game night, where the wolves will reset to alive, so he's resurrected. And Jody's also resurrected to bring them the message from Death. They go back to finding ways to fight Death and Lucifer like the canon continues after S05E15
+It turns out the whole game is controlled by Death, who's under Lucifer's leash. It's a warning game from Lucifer. But they're lucky that Cas's death is during the game night, when the wolves are reset to alive, so he's resurrected. And Jody's also resurrected to bring them the message from Death. They go back to looking for ways to fight Death and Lucifer like the canon continues after S05E15.
 
 #### Visuals
 
