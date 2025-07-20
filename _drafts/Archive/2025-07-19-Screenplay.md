@@ -264,6 +264,10 @@ spokesperson introduce the product, starting from basic feature/tier/mode, showc
 
 (no storytelling, just concept selling)
 
+## Outline
+
+the idea is the whole story is formatted as a modern product commercial, a spokesperson introduce this AI produce, and start showcasing its features and use cases. then shows a few easy basic examples where the AI doesn't do anything too aggressive, just giving some actual helpful suggestions. Then introduce its second level "pro" functions, the showcase examples getting more dramatic, exaggerated, aggressive. some might even be sarcastically offensive and uncomfortable, somewhat Black Mirror style, but the spokesperson still presents them as a really appealing feature. Then introduce the third, "pro max" level, with the ultimost exaggerated features with all the max things this AI can do, which ultimately is evil and take over the world and control human beings. And in the end, the spokesperson wrap up and some subtitles print out on screen to show it's actually clearly a commercial
+
 ## Title
 
 - TasteWise: The Future of Eating
@@ -495,7 +499,97 @@ start with basic intro commercial (similar to first one) → store use it, show 
 
 (post-credit easter tag) → zoom out to show it's spokesperson pitch selling the whole clip as a commercial to aliens about how this AI can take over worlds, the alien wants it
 
+## Outline
+
+it's similar but different tiers of features (the aggressive process) is presented gradually through a story plotline it starts with a spokesperson introduce the basic feature of this AI, and showcase a good example of its use case, a little similar to the first version's beginning, then zoom out the image, shows the previous content are all happening on a screen, it's a commercial that a salesperson is showing a store owner, pitching them to buy the AI. The store owner buys it, install it, then show some real world application of this AI where it runs into some faulty buggy reactions, customer complain, the store unsatisfied with the AI, call the salesperson to cancel/refund it. The salesperson introduces second tier "pro" feature that promise to improve those faults, show another clip of commercial that proves it's better. The store upgrades to new feature, show new real world application, it does have more features but also more serious bigger faulty mistakes. customer unhappy again, store angry, want to return again. The salesperson introduce the next level "pro max" features, shows ultimate more fancy features that can cover every scenario and solve all the problems. the store upgrades again, the AI now has the max power, and become ultimate disastrous AI that start controlling all humans and take over the world. End of the main story. there might potentially be another twist after the ending, like a post-credit easter egg in many movies: after the last scene, zoom out to show everything previously shown is a commercial on a alien-looking device screen, where an alien salesperson is trying to sell this AI to another alien to take over the Earth, and that "store" alien shakes his hands (tentacles?) and agree to buy it
+
+## Logline
+
+A salesperson upsells a restaurant assistant AI to a store owner, which ultimately takes over the world.
+
 ## Treatment
+
+### Act 1: Tier 1 positive
+
+spokesperson V.O. without show room scene: introduce how TasteWise changes our dining experience in real life
+
+scene montages: (see "Tiers" section, positive examples) (intercuts with AI's POV, high-tech looking analysis page, facial recognition) (positive examples)
+
+highlight seamless AI ordering, personalized suggestions, efficient kitchen communication, happy customers
+
+Punchy tagline from V.O.: "TasteWise -- bringing smart dining to every bite."
+
+**Zoom out** to reveal all the previous scenes are commercials playing on a table screen in a real-world diner office. The title comes out as the V.O. fades to voice played out from the screen.
+
+Featuring a salesperson, professional but just a little too slick. Store owner, skeptical, tired, pragmatic, but intrigued.
+
+Sales pitch dialogue, ending with the store owner reluctantly, suspiciously shaking hands with the sales person.
+
+### Act 2: Tier 1 negative
+
+AI is installed and deployed in the store. Its form is a handheld device, voice comes from it.
+
+scene montages (cut quickly like ad montages): (see "Tiers" section) (intercuts with AI's POV, high-tech looking analysis page, facial recognition) (1 positive + many negative examples, could borrow from next tier's negative)
+
+Customers amused or intrigued by personalized orders, then some issues emerge and customers start complaining (pick a few use cases as negative examples) (e.g. man with pregnancy example)
+
+A scene with customer confronting the store owner, leaving the diner angrily. Frustrated, the store owners calls the salesperson, over the phone, asks to cancel the AI
+
+### Act 3: Tier 2 positive
+
+Salesperson reappears, in person, apologetic but confident: "You've only scratched the surface. These flaws are known issues, and you're experiencing it only because you're currently using TasteWise Basic. Consider upgrading to TasteWise Plus, with this tier, you'll get full emotional analytics, dietary balance scoring. More features and capabilities, less mistakes."
+
+**Cut to** another commercial snippet. scene montages (cut quickly like ad montages): (see "Tiers" section) (intercuts with AI's POV, high-tech looking analysis page, intrusive health monitoring) (positive examples). Showing this tier working flawlessly, fancy.
+
+Store owner shakes hands grudgingly with the salesperson, agreeing to upgrade.
+
+### Act 4: Tier 2 negative
+
+Store installs the new AI. Now it's integrated as Cloud service. Voice comes out from all kiosks, headsets, everywhere.
+
+scene montages (cut quickly like ad montages): (see "Tiers" section) (intercuts with AI's POV, high-tech looking analysis page, intrusive health monitoring) (1 positive + many negative examples).
+
+starts off impressive: amused customers, etc. Then bigger issue, bigger mistakes. Negative example with the resume update customer.
+
+Customer furious, a fight breaks out, complain violently with the store owner.
+
+Store owner phones the salesperson, terrified, demands full uninstall.
+
+### Act 5: Tier 3 positive
+
+Salesperson arrives urgently. "Look, I wasn't going to show you this yet... but you're clearly a premium-tier operator. The feature is still in beta-testing stage. You can be the first beta store to benefit its full complete feature before it's released to the market. With no extra upgrade expense. Only needs to agree with a few terms, the potential of TasteWise is limitless, mind-blowing."
+
+scene montages (cut quickly like ad montages): (see "Tiers" section) (positive examples)
+
+Salesperson: "And don't forget to opt in our Optimal Health Everywhere Program for the full complete experience, where TasteWise never leave you."
+
+Store owner shakes hands with the Salesperson.
+
+### Act 6: Tier 3 negative
+
+The store installs it, preparing special drinks.
+
+scene montages (cut quickly like ad montages): (see "Tiers" section) (negative examples) AI integration, transitioning customer to AI
+
+store owner notices, horrified, phones salesperson.
+
+Salesperson arrives, show eyes loading with AI lights, reassuring everything is going to be just best and perfect. pats them, injects them.
+
+Store owner nods, with eyes loading with AI lights.
+
+### Post-credit easter egg
+
+Zoom out on the last scene. Everything above is shown on an alien holographic display. The logo after the last scene shows: "TasteWise: Start Small. Dream Big. Take over planets within a blink."
+
+Two aliens watch, evaluating. Name tags shows one is a potential buyer, the other is the salesperson.
+
+Buyer: (alien speech, subtitled) "Promising. Shall we seal the deal?"
+
+The other nods, extends a tentacle to shake.
+
+Static glitch, show TasteWise logo in alien characters, cyberpunk style, subtly distorted, transitioning to recognizable letters.
+
+Cut to black.
 
 ## Script
 
@@ -512,6 +606,10 @@ Matrix vibe
 most likely most confusing
 
 start with seemingly real world scenario, basic showcase of the AI's good feature, basic feature → zoom out x1, show that clip is a commercial on a screen, a spokesperson is pitching to the store, the store use it → show seemingly real world scenario, both good/ironic ones, different from the initial commercial, already the second layer example → zoom out x2, show that clip is a commercial on a screen being pitched, the store approve it, install it → show seemingly real world scenario, the ultimate version, has control over everything, take over the whole world → (start rolling credit, casts, crews etc. Then as easter egg: ) → zoom out x3, how the whole clip is a commercial on a space fantasy style screen being pitched to aliens about buying the product to conquer a planet (words nonhuman, use subtitle), the alien approves it, shake hand with the salesperson
+
+## Outline
+
+it also has plotlines like second version, but has more layered iteration of worlds that makes it more Matrix style. It starts with seemingly real world scenarios with AI installed in store, showcase some basic good feature of this AI. Then zoom out, show it's on screen, the things shown before are all commercials on a screen that a salesperson is trying to sell to a store, and the store uses it. Then show the upgraded features that are more offensive, aggressive, but also seemingly real world scenario, as if we are just watching the store using it, with many ironic scenes. Then zoom out again, show everything before this is a commercial again on a screen a salesperson is trying to sell to store. This new layer of store uses it. Then show the third layer of seemingly real world scenarios, which is the ultimate version of the AI that controls human and takes over the world. End of main story. Then a little similar to second version, after rolling credits and casts, crews, show as an easter egg: zoom out again to show everything is again a commercial, an alien salesperson is pitching this AI to another alien to take over worlds, and that other alien (just like the store owners) shakes his hands/tentacles and approves the purchase
 
 ## Treatment
 
