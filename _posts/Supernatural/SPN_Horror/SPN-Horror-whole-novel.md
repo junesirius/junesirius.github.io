@@ -12,7 +12,7 @@ published: false
 
 [TOC]
 
-tags: canon divergent, S05E15, case fic, inspired by My Bloody Valentine, suspense, angst, temporary main character death, minor character death
+tags: canon divergent, S05E15, case fic, inspired by My Bloody Valentine, suspense, angst, temporary main character death, multiple minor character death, horror, thriller, murder mystery
 
 warning: graphic depictions of violence
 
@@ -68,7 +68,7 @@ real bad guy (potentials): some poisonous materials in the town, mushroom or som
 
 ### Outline
 
-515 timeline (2010, March 25), Sioux Fall, South Dakota
+515 timeline (2010, March 25), Sioux Falls, South Dakota
 
 big background: Lucifer is trying to persuade Sam to say yes, Michael on Dean, four Horsemen are rising (War, Famine was killed), Death was bound by Lucifer (purpose: town's behavior is basically Michael+Lucifer's game board, having a little killing-time fun before big fight, "killing time, sometimes people", two archangels want to take Cas out of picture, only to make Dean more sure about Cas should be with them in this together, regret doubting Cas even if he is controlled to killing)
 
@@ -87,6 +87,30 @@ day 5: over night, Deputy is killed brutally, finger pointing at Dean's cell bef
 day 6: over night, Jody is killed violently in the station, big gun fight, both Dean/Cas bloody in scene, weapons in hand, no memory of what happened, freaked out; Sam come to check station camera record, (rewind to) night 5: everyone forced to sleep, Jody is awake, on look out, (Dean thought it's a winning theory, the awake is the wolf), but Jody not attack (sheriff the real seer, deputy protecting seer), Cas enter scene, confront, Jody not attack, warn him of Dean, Cas not concerned, start attacking, Jody has to fight back, able to resist for a bit (Dean/Cas devasted Cas is indeed wolf, Dean point gun at Cas), Dean enter scene, Jody thought if Cas is bad then Dean must be good, ask for help, Dean smirk, help Cas instead, attack Jody together until she's dead (both devastated again both are bad guys); stunned looking at their hands, Jody's blood, Bobby devastated for they're good friends, but they really don't remember so does that make them villains (even got pointed, Cas doesn't point gun at Dean); the crowd (Marcy Ward, Sean Mills, Stephan Phelps math teacher, Henry the highschooler) gathering station, see Jody dead, convinced Dean/Cas killer, ready to kill them, Sean Mills (Jody's husband) has guns, shoot at Dean first, Cas instinctively jump before Dean, bullet through him then Dean's throat, Cas dead instantly, Dean gurgle in blood for thirty seconds longer, in disbelief Cas's dead for real, murmur "Cas", then watch sunset at exact second, energy wave sweep through the whole town, night falls
 
 day 7: over night, no one dies, the town comes back normal, Dean wake up on the station floor, Cas grace self-heal slowly and wake up. ask what happened, Cas thinks because wolves stay awake over night so Dean survived the night by luck, they are both exposed, so game over (even though wolf lost), his grace comes back over night during the supposed wolf wake hour, so he gets to self-heal and eventually resurrect, all by luck (and still doesn't know why or who curse the whole town). and the killed over the seven days are still all dead, Sam suggest they leave town immediately, Bobby mourn Jody, Sean Mills still want to revenge. Jody resurrect, bringing message from "Death", it's a warning from Lucifer, telling them what would happen if they continue refuse to say yes to him, the whole world can be his fucking killing game, and disappointed his attempt of taking Cas out of the board (hopefully by Dean's hand) doesn't work, but maybe next time. TFW grimace, Dean glad they're alive, Sam solemn, they jump back into season 5 main task of finding ways to fight Lucifer. (hopeful canon-compliant ending)
+
+### Claim
+
+#### Claim summary
+
+Inspired by Jensen's "My Bloody Valentine", canon divergent set in S5 timeline after Death is released but no walking dead zombies, replacing the episode S05E15 "Dead Men Don't Wear Plaid". Everything happens in Sioux Falls, South Dakota.
+
+Dean, Cas, Sam are in Bobby's place, noticing everyone is forced to go to sleep during the night, no one remembers anything from the night, and people are mysteriously and violently killed over the night. They try to solve the case but find it very difficult.
+
+Meanwhile Dean and Cas find bloody evidences and traces always surround them, convinced that one of them might be the secret murderer, they start getting suspicious and turn against each other, and both feel very hurt.
+
+Many local Sioux Falls villagers are involved, either getting killed or following the cases closely, including Sheriff Jody Mills. After four days, Sam notices the pattern that almost always a person killed violently over the night, and another innocent person gets accused during the day by the villager and dies a random other way. His theory is the whole town is a big bloody real-life *Werewolf* game, many villagers have special game roles like "Doctor", "Seer", etc.
+
+Dean and Cas hate fighting against each other, so decide to trust each other regardless of the evidences. The new theory is they are framed by Jody.
+
+The last game night, Jody is killed by wolf, and in the morning, they have recorded camera footage to show actually both Dean and Cas are both the killers (wolves), the villagers (especially Jody's husband Sean) attack them to revenge Jody. Cas sacrifices himself to protect Dean, the night falls. The game ends.
+
+It turns out the whole game is controlled by Death, who's under Lucifer's leash. It's a warning game from Lucifer. But they're lucky that Cas's death is over the game night, where the wolves will reset to alive, so he's resurrected. And Jody's also resurrected to bring them the message from Death. They go back to finding ways to fight Death and Lucifer like the canon continues after S05E15
+
+#### Visuals
+
+Dean and Cas have big arguments in Bobby's place, both having bloodstains are them. They're pointing fingers at each other, both very emotional, angry and hurt.
+
+Camera footage POV, Dean and Cas in police station, both are utterly bloody: blood everywhere, blood in hands, on their faces, clothes, murder weapon in their hands. A dead female victim in sheriff uniform lies bloody on the floor before them.
 
 ### Arts
 
