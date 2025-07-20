@@ -11,6 +11,8 @@ origin: AO3
 
 (Tags: post canon S3, canon divergent)
 
+(Summary: After everything finally settles, when they think life finally go back to peace and normalcy, they get a phone call from a desperate mother. Ray Nadeem's son -- a young boy who lost his father -- needs help, and Matt knows exactly how that feels, and what the boy needs.)
+
 <br>
 
 When the last dust finally settles, there is a brief, surreal moment Matt feels like everything has just returned to how it used to be -- before Fisk has ever appeared, before all the blood and wounds and tears. As if he's just graduated from law school, every day is just a casual easy day he and Foggy can sit on a doorstep, share their inside jokes, laugh into the night sky, talk about their dreams, make grand plans -- dreaming of how to make the world a better place by building Nelson & Murdock from scratch.
@@ -23,15 +25,15 @@ It has been months. Their daily conversations have shifted from cleaning up the 
 
 "Mrs. Nadeem?" Foggy recognizes the woman's voice, glancing at Matt reflexively. "What happened? Is everything okay?"
 
-"I know it might seem abrupt, but I don't know who else to call." Her voice is tight, strained thin, pained but still managed to hold together. She sounds helpless, but she's not crying. She's a strong woman -- Matt remembers -- even that night when they were running for their lives, she didn't let all her fear show. Her heartbeat was frantic in despair, but her steps were steady, so were her hands, tightly shielding her kid.
+"I know it might seem abrupt, but I don't know who else to call." Her voice is tight, strained thin, pained but still manages to hold together. She sounds helpless, but she's not crying. She's a strong woman -- Matt remembers -- even that night when they were running for their lives, she didn't let all her fear show. Her heartbeat was frantic in despair, but her steps were steady, so were her hands, tightly shielding her kid.
 
 "What's wrong? Is there anything we can help?" Foggy asks gently.
 
-"It's Sami," Seema says, falling into short silence. Across the phoneline, Matt hears her swallow hard. She's trying desperately to hold herself together, pacing from one end of the room to another, embracing herself.
+"It's Sami," Seema says, falling into short silence. Across the phone line, Matt hears her swallow hard. She's trying desperately to hold herself together, pacing from one end of the room to another, embracing herself.
 
 They wait patiently, giving her the time she needs.
 
-She continues, "Since that day... since Ray was gone, Sami's been different. I don't know how to explain it. He's always been quiet, shy around strangers, didn't talk much -- but not like that. It's getting worse everyday. It's like, he's shutting down. He talks less and less, going almost completely muted. Sometimes he goes days without saying a word, not even to me. He locks himself in his room most of the time. I'm so worried, I don't know what to do..."
+She continues, "Since that day... since Ray was gone, Sami's been different. I don't know how to explain it. He's always been quiet, shy around strangers, didn't talk much -- but not like that. It's getting worse every day. It's like, he's shutting down. He talks less and less, going almost completely mute. Sometimes he goes days without saying a word, not even to me. He locks himself in his room most of the time. I'm so worried, I don't know what to do..."
 
 She pauses again, taking a deep breath, fighting back a sob that is coming close. Then, more composed, quieter: "I'm sorry. I know you were just his lawyers. I shouldn't be bothering you with this." She sounds like about to hang up the phone.
 
@@ -43,7 +45,7 @@ Matt hears a quiet drop of tear falling from her cheeks. She wipes it away with 
 
 "I thought maybe... maybe he just missed his father, you know. I kept thinking it would pass, the mourning would pass, time would heal. But it's been so long, and he's not getting any better. Only worse. He's sinking deeper, drowning. I don't know what else to do. I just thought... maybe you've seen people like this before, you know, with the survivors from your cases, people trying to live after the worst happened. Maybe you'd know something that could help..." Her voice starts choking in sobs.
 
-Foggy shifts uneasily, turning to Matt, lips opening and closing, hesitant of what to say, tongues losing the eloquecy as he'd used to in courts. Matt faces the general direction of the phone, expression solemn and quiet. Sad. No sign of answering.
+Foggy shifts uneasily, turning to Matt, lips opening and closing, hesitant of what to say, tongue losing the eloquence he'd used to in courts. Matt faces the general direction of the phone, expression solemn and quiet. Sad. No sign of answering.
 
 Foggy tells her, "We'll come visit, if it's okay. If it could help."
 
@@ -51,7 +53,7 @@ Foggy tells her, "We'll come visit, if it's okay. If it could help."
 
 She hangs up.
 
-Matt is utterly quiet, deep in thoughts.
+Matt is utterly quiet, deep in thought.
 
 "What is it?" Foggy asks.
 
@@ -61,7 +63,7 @@ Matt lifts an eyebrow slightly. "What? I didn't say anything."
 
 Matt turns away from him, walking over to the window, facing outside.
 
-"Foggy," he says, his voice carefully controlled, "this is a kid who lost his father. There is nothing we can say, nothing we can do, that will ever change that fact or make that easier. Becauce the truth is, as he grows up, his father is not going to come back home ever again, or take him to the park again, or walk him to school, or take him to the boxing gym --" His voice halts abruptly.
+"Foggy," he says, his voice carefully controlled, "this is a kid who lost his father. There is nothing we can say, nothing we can do, that will ever change that fact or make that easier. Because the truth is, as he grows up, his father is not going to come back home ever again, or take him to the park again, or walk him to school, or take him to the boxing gym --" His voice halts abruptly.
 
 Foggy waits.
 
@@ -127,7 +129,7 @@ And then, it happened again. When his father was gone.
 
 The same helpless rage, the same sleepless nights, the same desperate screaming into nothing, answerless questions to the sky. Sometimes he thought, maybe the only way to quiet his mind, was to tire his body out in exhaustion -- so he fought, beat, caught in trouble, leaving bruises and scrapes all over, anything to dull the ache inside.
 
-He can still see that boy, that nine-year-old screaming, terrified, confused boy, that him from the past. He watches him in his mind, regarding him from every angle, in every step of his way, as if going back inside that boy's body and soul, reliving the burn and pain in those moments. The scorching pain from the loss, the boiling rage from confusion, the anger, the desperation, the lost, the scare. The empty eye sockets, the heart. Then the whole soul. Burning every inch of his existence to ashes.
+He can still see that boy, that nine-year-old screaming, terrified, confused boy, that him from the past. He watches him in his mind, regarding him from every angle, in every step of his way, as if going back inside that boy's body and soul, reliving the burn and pain in those moments. The scorching pain from the loss, the boiling rage from confusion, the anger, the desperation, the loss, the fear. The empty eye sockets, the heart. Then the whole soul. Burning every inch of his existence to ashes.
 
 As if walking through fire.
 
@@ -163,9 +165,9 @@ The air smelled of fresh earth in the graveyard.
 
 Seema held an umbrella in one hand, the other clasping Sami's, when they buried her husband's coffin.
 
-Matt, Foggy, and Karen stood under a tree in a farther distance, didn't carry umbrellas, didn't walk up to talk. There were no words.
+Matt, Foggy, and Karen stood under a tree at a far distance, didn't carry umbrellas, didn't walk up to talk. There were no words.
 
-Flowers were rested gentled atop the casket. Seema shook hands with unfamiliar but polite colleagues of her husband's, the boy clung to the edge of his mother's cloth, hiding behind her.
+Flowers were placed gently atop the casket. Seema shook hands with unfamiliar but polite colleagues of her husband's, the boy clung to the edge of his mother's clothes, hiding behind her.
 
 "We should go," Foggy whispered after a while, offering an arm for Matt to take. A gesture they were used to.
 
@@ -175,11 +177,11 @@ Foggy gave him a long look -- undoubtedly concerned, the kind that quietly asked
 
 Matt knew the boy was watching him. Among all the men and women moving here and there, the boy fixated his gaze on him. The look had a weight of its own, a natural curiosity and a quiet attraction. Somehow, knowing that, made Matt unsettled.
 
-He heard Sami let go of his mother's hand, his small shoes stepping on the wet earth, squelching the mud, heading his direction.
+He heard Sami let go of his mother's hand, his small shoes stepping on the wet earth, squelching the mud, heading in his direction.
 
 The boy stopped a few steps away. His heartbeat was faster than usual for a six-year-old, but not by much.
 
-Matt tilted his head toward him, angling his fact behind the sunglasses to seem as if he were meeting his eyes.
+Matt tilted his head toward him, angling his face behind the sunglasses to seem as if he were meeting his eyes.
 
 "You can't see," the boy said bluntly.
 
@@ -193,7 +195,7 @@ Matt's heart clenched. "That's right," he said again.
 
 "But I can feel it," Matt told him. "I can sense everything."
 
-"How?" the boy raised his head, studying his face.
+"How?" The boy raised his head, studying his face.
 
 "Just like I can feel you're really sad right now," Matt said. His heart was squeezed so tight he could hardly breathe. But he kept his voice gentle and steady.
 
@@ -219,17 +221,17 @@ Just like everything he hated the adults telling him when he was a child.
 
 <br>
 
-"I don't understand! I don't understand!!" His fists slammed against the heavy sandbag -- without wraps or gloves, his knuckles soon bleed and broke, but he could barely feel it.
+"I don't understand! I don't understand!!" His fists slammed against the heavy sandbag -- without wraps or gloves, his knuckles soon bled and broke, but he could barely feel it.
 
 "That's because you're selfish. You want the world to spin around you, boo hoo --" an old voice said, dry and cold, too cruel. "When you grow up, when you're ready, Matty, you will understand."
 
 "God has a plan for everyone, Matthew," another old and wise voice said, gentler. "Sometimes what we need to do is not to understand, but to follow, to observe, to listen. To find the signs, the guidance. And then, slowly, gradually, if we're lucky, if we pay close enough attention, if we discover enough guidance -- maybe we can finally understand why He arranged all of this for us."
 
-He knelt on the floor, facing the sky, where the God would be. He prayed, he believed, he had faith. He looked for answers. Days after nights.
+He knelt on the floor, facing the sky, where God would be. He prayed, he believed, he had faith. He looked for answers. Days after nights.
 
 Since then, and until a long time after.
 
-But he still couldn't find the answer, couldn't find any answer -- why the world is like this, why father did that, why, why, why... Some days he thought he caught a glimpse of understanding, but soon enough, there would be more questions, more confusion, more pain. More unceased fire, more pain, more burning. Always more, never less. Always a hole that would only grow deeper, wider, darker. A space that would never be filled by his father.
+But he still couldn't find the answer, couldn't find any answer -- why the world is like this, why father did that, why, why, why... Some days he thought he caught a glimpse of understanding, but soon enough, there would be more questions, more confusion, more pain. More unceasing fire, more pain, more burning. Always more, never less. Always a hole that would only grow deeper, wider, darker. A space that would never be filled by his father.
 
 <br>
 
@@ -237,7 +239,7 @@ The boy opens the door. Not much, just a crack, barely enough for the kid to pee
 
 Matt lowers himself to match the kid's height. "Sami," he says softly, "Can I come in?"
 
-The boy stares at him for a moment longer, not noding, not shaking his head. But after a while, he opens the door a little wider.
+The boy stares at him for a moment longer, not nodding, not shaking his head. But after a while, he opens the door a little wider.
 
 Matt steps in carefully, sensing the books and papers and toys on the floor, trying his best not to step on any of them. The door is shut again behind him.
 
@@ -273,7 +275,7 @@ In that moment, Matt senses a rare peace he hasn't felt in a long, long time.
 
 <br>
 
-"You were in a fighting again." When the Father found him on the open ground behind the church, he was practicing spinning his cane like it's a kind of weapon.
+"You were fighting again." When the Father found him on the open ground behind the church, he was practicing spinning his cane like it was a kind of weapon.
 
 "Did someone go and tell?" he challenged, voice edged with defiance.
 
@@ -283,7 +285,7 @@ In that moment, Matt senses a rare peace he hasn't felt in a long, long time.
 
 "Matthew, I'm not looking for proof. I just want to help you," the Father said, resigned. "That fire inside you -- if you don't learn to control it, one day it's going to control you."
 
-"I think I'm controling it just fine," he said, again in his voice too distant for someone his age. Remote and isolated.
+"I think I'm controlling it just fine," he said, again in his voice too distant for someone his age. Remote and isolated.
 
 Father Lantom sighed again. Before he turned to leave, he said, "You need something. I just wish I knew what it was."
 
@@ -293,13 +295,13 @@ The grown Matt stands before the child version of himself, looking down at that 
 
 "Guess I know what it was now," he thinks.
 
-He reaches out slowly, opening his arms to offer. The boy in his imagination lifts his head, hollowed eyes tilted toward the sun setting in the distance behind his ghosty shape, turning away and running afar.
+He reaches out slowly, opening his arms to offer. The boy in his imagination lifts his head, hollowed eyes tilted toward the sun setting in the distance behind his ghostly shape, turning away and running afar.
 
 Matt keeps his posture, waiting.
 
 <br>
 
-When the room door opens behind them, Matt is still in that posture, kneeling on the floor, arms wrapped around the boy, Sami's tears soaking through his cloth on the shoulder and chest.
+When the room door opens behind them, Matt is still in that posture, kneeling on the floor, arms wrapped around the boy, Sami's tears soaking through his clothes on the shoulder and chest.
 
 Foggy breathes out a quiet, stunned sound.
 
@@ -321,7 +323,7 @@ Foggy looks at him. Matt doesn't need to be able to see his face to sense the lo
 
 "You're thinking this is how it started for me," Matt says, calm, "And whatever worked for me might not work for him."
 
-"Exactly," Foggy says, breathing out appreciatedly for saving him to make the same argument. He nods heavily, just to emphasize.
+"Exactly," Foggy says, breathing out appreciatively for saving him from having to make the same argument. He nods heavily, just to emphasize.
 
 "But I think it could help him," Matt says. "It's his choice."
 
@@ -331,9 +333,9 @@ Sami speaks, every word and syllable clear and deliberate: "I want to learn boxi
 
 <br>
 
-Sami's boxing classes are set every Saturday, at Fogwell's Gym -- the same place that carried far too many memories and Matt is layering it with more.
+Sami's boxing classes are set every Saturday, at Fogwell's Gym -- the same place that carries far too many memories and Matt is layering it with more.
 
-Taking off his suits and tie, changing into a shirt and gloves, smelling the old scent of sweat and leather wrapping around them, Matt feels something from old time flowing back into his body. It's not the feeling of being Matt Murdock, neither is being Daredevil. This is the feeling of being Jack Murdock's son. Standing at the edge of the ring, facing the training bags, this is the closest he's felt to his father.
+Taking off his suits and tie, changing into a shirt and gloves, smelling the old scent of sweat and leather wrapping around them, Matt feels something from old times flowing back into his body. It's not the feeling of being Matt Murdock, neither is being Daredevil. This is the feeling of being Jack Murdock's son. Standing at the edge of the ring, facing the training bags, this is the closest he's felt to his father.
 
 And now, across from him, there's another boy looking at him with the same look, searching for his father from the memory.
 
@@ -345,25 +347,25 @@ One autumn day, after a long session, Matt sets down the pads and says it.
 
 "Same time next Saturday?" Sami asks, peeling off his gloves. He's nearly Matt's height now -- after years, he's grown into a fine-looking young man. Still a teenager, but almost already bearing the shape of a fully grown man. Lean and elegant, agile and well-built, and so unmistakably his father's son.
 
-"I mean, this is it." Matt speaks slowly, ensuring the meaning passes through.
+"I mean, this is it," Matt speaks slowly, ensuring the meaning passes through.
 
-Sami stills, understanding. Matt hears his breath hitches, then his voice uneven: "Why? Sir?" -- the boy started calling him "Sir" not long after they started the lessons, Matt guessed it might be Seema's teaching, after the kid refusing to change the addressing no matter how many times he corrected him, he finally let him be.
+Sami stills, understanding slowly. Matt hears his breath hitches, then his voice uneven: "Why? Master?" -- The boy started calling him "Master" not long after they started the lessons. Matt guessed it might be Seema's gesture of appreciation; after the kid refused to change the address no matter how many times he corrected him, he finally let him be.
 
-The boy asks, "Sir, are you leaving me too? Just like my father?"
+The boy asks, "Master, are you leaving me too? Just like my father?"
 
-Matt sighs, knowing this day would always come, and this is the day. He's not the same man he was ten years ago, but something, the memory, the past, the history that might have become stories people forget, are still there, waiting to be told. He sits down on the edge of the ring, patting the spot next to him, gesturing the boy to do the same.
+Matt sighs, knowing this day would always come, and this is the day. He's not the same man he was ten years ago, but something, the memory, the past, the history that might have become stories people forget, are still there, waiting to be told. He sits down on the edge of the ring, patting the spot next to him, gesturing for the boy to do the same.
 
 "Sami," he says, "Let me tell you a story. One that might be different from what you've heard before."
 
-So he tells him. He speaks of the forgotten names and buried truths. Of the people who were brave. Of the darkness so thick it choked out all the hope. And of the ones who still dared to resist it. He tells him about Ray Nadeem, his father, the man who made mistakes, but never stopped trying. The man who wanted nothing more than to atone his mistakes and protect his family, his son.
+So he tells him. He speaks of the forgotten names and buried truths. Of the people who were brave. Of the darkness so thick it choked out all the hope. And of the ones who still dared to resist it. He tells him about Ray Nadeem, his father, the man who made mistakes, but never stopped trying. The man who wanted nothing more than to atone for his mistakes and protect his family, his son.
 
 Sami listens. Quietly. Solemnly.
 
-The boy's memories of his father haven't been much, borrowed from stories told by his mother, built out of family photo albums, some talks from his father's old colleagues and other relatives. He had listened to them talking about his father like hearing a story, spinning around a phantom he barely remembered. It has been growing thin over the years, like mist blown away by wind. When he thinks of the word "father", he can barely imagine a silhouette, a shape in the fog.
+The boy's memories of his father haven't been much, borrowed from stories told by his mother, built out of family photo albums, some talks from his father's old colleagues and other relatives. He had listened to them talking about his father like hearing a story, spinning around a phantom he barely remembered. It has been growing thin over the years, like mist blown away by the wind. When he thinks of the word "father", he can barely imagine a silhouette, a shape in the fog.
 
-Sami listens so intently his hands ache from clutching into the edge of the ring, his eyes locked deadly on Matt, digging into a hole. It's as if he's relearning the man he should have known, should have been familiar with all this time, should have been as his blood flows through his veins.
+Sami listens so intently his hands ache from clutching onto the edge of the ring, his eyes locked deadly on Matt, digging into a hole. It's as if he's relearning the man he should have known, should have been familiar with all this time, should have been as his blood flows through his veins.
 
-"Right here, in this exact gym," Matt says, pointing to the space before them, "Ray stood there, and he said he was willing to testify. Whatever the cost, all he wanted was for his family to live a normal life again, for them to not live in fear again.
+"Right here, in this exact gym," Matt says, pointing to the space before them, "Ray stood there, and he said he was willing to testify. Whatever the cost, all he wanted was for his family to live a normal life again, for them not to live in fear again.
 
 "He said, he didn't care what the world thought of him, only what his son would think of him."
 
@@ -373,15 +375,15 @@ Matt stops. He faces that direction blankly, as if looking at the man once stand
 
 "You do this, there is no going back," he warned him. "We will be hunted the moment we walk out of that door, until we are killed."
 
-And he answered, "If I don't, there is no going back either. Fisk will control the whole New York, maybe more. If this is the last thing I ever do, at least I want my son to grow up in a better world. One without fear. So, yes, I made my decision. I'm doing this."
+And he answered, "If I don't, there is no going back either. Fisk will control the whole of New York, maybe more. If this is the last thing I ever do, at least I want my son to grow up in a better world. One without fear. So, yes, I made my decision. I'm doing this."
 
 Matt realizes, only now that he thinks back, that this young FBI agent might have known he wouldn't ever make it back to his wife and kid, the moment he walked out of that door.
 
 The image in his head morphs into another, the figure turning into another tall, standing man.
 
-Still here. Still Fogwell's Gym. Still that same corner. He doesn't even have to focus too hard to hear their whole conversation. His father said, "No, I'm not doing this." The man before him said, "Think of you son."
+Still here. Still Fogwell's Gym. Still that same corner. He doesn't even have to focus too hard to hear their whole conversation. His father said, "No, I'm not doing this." The man before him said, "Think of your son."
 
-What is right, what is wrong? Is it idiotic pride, or the long-lost justice? A failed resistance, or a useless sacrifice? Too many questions, too many answers that never will come. For years, for decades, he asked the phantom in his head: "Why did you leave me?" Until that phantom duplicated, morphing into more figures, turning and passing, coming and leaving, with only their back left behind in the end.
+What is right, what is wrong? Is it idiotic pride, or the long-lost justice? A failed resistance, or a useless sacrifice? Too many questions, too many answers that will never come. For years, for decades, he asked the phantom in his head: "Why did you leave me?" Until that phantom duplicated, morphing into more figures, turning and passing, coming and leaving, with only their back left behind in the end.
 
 Now, in this stillness, the voices of these two men speak in one, they are saying: "All I'm doing is trying to protect you, to love you, hoping I can be the father you're proud to have. Forgive me for my clumsy, terrible, erroneous, failing way, the way that got me killed and took me away from you. But I tried, I tried my best. So please forgive me. If you can't be proud of me, at least don't be ashamed. Okay?"
 
