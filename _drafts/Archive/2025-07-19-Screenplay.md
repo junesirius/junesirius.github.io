@@ -509,7 +509,7 @@ A salesperson upsells a restaurant assistant AI to a store owner, which ultimate
 
 ## Treatment
 
-### Act 1: Tier 1 positive
+### Act 1-1: Tier 1 positive
 
 spokesperson V.O. without show room scene: introduce how TasteWise changes our dining experience in real life
 
@@ -525,7 +525,7 @@ Featuring a salesperson, professional but just a little too slick. Store owner, 
 
 Sales pitch dialogue, ending with the store owner reluctantly, suspiciously shaking hands with the sales person.
 
-### Act 2: Tier 1 negative
+### Act 1-2: Tier 1 negative
 
 AI is installed and deployed in the store. Its form is a handheld device, voice comes from it.
 
@@ -535,7 +535,7 @@ Customers amused or intrigued by personalized orders, then some issues emerge an
 
 A scene with customer confronting the store owner, leaving the diner angrily. Frustrated, the store owners calls the salesperson, over the phone, asks to cancel the AI
 
-### Act 3: Tier 2 positive
+### Act 2-1: Tier 2 positive
 
 Salesperson reappears, in person, apologetic but confident: "You've only scratched the surface. These flaws are known issues, and you're experiencing it only because you're currently using TasteWise Basic. Consider upgrading to TasteWise Plus, with this tier, you'll get full emotional analytics, dietary balance scoring. More features and capabilities, less mistakes."
 
@@ -543,7 +543,7 @@ Salesperson reappears, in person, apologetic but confident: "You've only scratch
 
 Store owner shakes hands grudgingly with the salesperson, agreeing to upgrade.
 
-### Act 4: Tier 2 negative
+### Act 2-2: Tier 2 negative
 
 Store installs the new AI. Now it's integrated as Cloud service. Voice comes out from all kiosks, headsets, everywhere.
 
@@ -555,9 +555,9 @@ Customer furious, a fight breaks out, complain violently with the store owner.
 
 Store owner phones the salesperson, terrified, demands full uninstall.
 
-### Act 5: Tier 3 positive
+### Act 3-1: Tier 3 positive
 
-Salesperson arrives urgently. "Look, I wasn't going to show you this yet... but you're clearly a premium-tier operator. The feature is still in beta-testing stage. You can be the first beta store to benefit its full complete feature before it's released to the market. With no extra upgrade expense. Only needs to agree with a few terms, the potential of TasteWise is limitless, mind-blowing."
+Salesperson arrives urgently. "Look, I wasn't going to show you this yet... but you're clearly a premium-tier operator. We are currently actively developing TasteWise Infinity. The feature is still in beta-testing stage. You can be the first beta store to benefit its full complete feature before it's released to the market. With no extra upgrade expense. Only needs to agree with a few terms, the potential of TasteWise is limitless, mind-blowing."
 
 scene montages (cut quickly like ad montages): (see "Tiers" section) (positive examples)
 
@@ -565,7 +565,7 @@ Salesperson: "And don't forget to opt in our Optimal Health Everywhere Program f
 
 Store owner shakes hands with the Salesperson.
 
-### Act 6: Tier 3 negative
+### Act 3-2: Tier 3 negative
 
 The store installs it, preparing special drinks.
 
@@ -587,11 +587,25 @@ Buyer: (alien speech, subtitled) "Promising. Shall we seal the deal?"
 
 The other nods, extends a tentacle to shake.
 
-Static glitch, show TasteWise logo in alien characters, cyberpunk style, subtly distorted, transitioning to recognizable letters.
+Static glitch, show TasteWise logo in alien glyph, cyberpunk style effect, subtly distorted. Then transitioning to recognizable letters as subtitle. Blinks.
 
 Cut to black.
 
 ## Script
+
+### Act 1-1: Tier 1 positive
+
+### Act 1-2: Tier 1 negative
+
+### Act 2-1: Tier 2 positive
+
+### Act 2-2: Tier 2 negative
+
+### Act 3-1: Tier 3 positive
+
+### Act 3-2: Tier 3 negative
+
+### Post-credit easter egg
 
 # Ver 3 - product in use
 
@@ -611,16 +625,74 @@ start with seemingly real world scenario, basic showcase of the AI's good featur
 
 it also has plotlines like second version, but has more layered iteration of worlds that makes it more Matrix style. It starts with seemingly real world scenarios with AI installed in store, showcase some basic good feature of this AI. Then zoom out, show it's on screen, the things shown before are all commercials on a screen that a salesperson is trying to sell to a store, and the store uses it. Then show the upgraded features that are more offensive, aggressive, but also seemingly real world scenario, as if we are just watching the store using it, with many ironic scenes. Then zoom out again, show everything before this is a commercial again on a screen a salesperson is trying to sell to store. This new layer of store uses it. Then show the third layer of seemingly real world scenarios, which is the ultimate version of the AI that controls human and takes over the world. End of main story. Then a little similar to second version, after rolling credits and casts, crews, show as an easter egg: zoom out again to show everything is again a commercial, an alien salesperson is pitching this AI to another alien to take over worlds, and that other alien (just like the store owners) shakes his hands/tentacles and approves the purchase
 
+## Logline
+
+A product commercial that turns out to be real world that turns out to be a commercial.
+
 ## Treatment
+
+### Act 1: Tier 1
+
+Directly enter the restaurant, as if the AI has been installed and used for ages. modern, fast-casual restaurant. Employees are busy. Customers placing orders.
+
+scene montages: (see "Tiers" section, positive examples) (intercuts with AI's POV, high-tech looking analysis page, facial recognition)
+
+Just as we settles in, the screen freezes. Zoom out.
+
+### Act 2: Tier 2
+
+It's revealed the previous scene was a commercial video being shown on a screen.
+
+Salesperson is demoing TasteWise to a skeptical store owner. "That was just the Basic Tier. Imagine what we could do for you with a real upgrade."
+
+Owner intrigued. Agrees. TasteWise Plus gets installed in the store.
+
+scene montages (cut quickly like ad montages): (see "Tiers" section) (intercuts with AI's POV, high-tech looking analysis page, intrusive health monitoring) (positive + negative examples)
+
+The store owner complains: "This isn't what I signed up for."
+
+Just as the conflict escalates -- screen freezes. Zoom out again.
+
+### Act 3: Tier 3
+
+Surprise: It turns out that the previous scene too was a commercial, on a different screen. A different store is being pitched the TasteWise Infinity.
+
+A salesperson is demoing the limitations of the TasteWise Plus, now introducing the new tier. The pitch says: "You will never have to experience faulty recommendations and unsatisfied customers like the video shows. With TasteWise Infinity, all mistakes resolved. Fully automatic, considerately personalized, completely integrated. Seamless experience."
+
+The new store signs up. The full dystopian scene montages (cut quickly like ad montages): (see "Tiers" section) + full integration human AI transformation
+
+The disastrous world-ending events.
+
+### Post-credit easter egg
+
+Repeat the last scene, the world-ending events. Then frame freezes.
+
+Zoom out. Turns out everything is again all video clips, commercials on a screen. The surrounding setting looks old, shabby, futuristic, alien, space, but not very tech advanced.
+
+A salesperson is pitching to a shabby store owner full of unshaved stubble, pitching how good it can be, how it's proved to work on Planet Earth.
+
+Store owner takes off hat/glasses, walk out of counter, show four arms or antenna or something, shows this is not Earth.
+
+Store owner: (sternly) "No, I don't wanna buy that, you know what's working the best?" manually walks over to an incoming alien customer, greeting them personally, asking for their orders with a genuine human smile.
+
+Cut to black.
 
 ## Script
 
+### Act 1: Tier 1
+
+### Act 2: Tier 2
+
+### Act 3: Tier 3
+
+### Post-credit easter egg
+
 # Notes
 
-Cover page, production: Kings of Dreams; version: current date
+Cover page, production: Kings of Dreams; version: current date; Written by: my name; Story by: 6 people's names
 
 Self-reminding note: When drafting, do with less constraint first then tune it. For each version of structure: detail outline → flash out in sketch novel style → write in script form (→ adjust scenes to be mostly indoor daytime → adjust scenes to be within time range) {not even needed those two for first draft, reviewer will comment}
 
 each use case is about 0.5-1min, past examples: 3 cases for 5min, 6 cases for 10min. All versions can have about 6 cases, some good some satiric, use as commercial material. Different structure is just different ways to rearrange those cases.
 
-unsaid easter egg: add a food-loving character
+unsaid easter egg: add a food-loving character that actually bites and eats the food
