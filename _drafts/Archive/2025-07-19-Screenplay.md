@@ -150,25 +150,25 @@ A customer is checking phone, face upset, orders fries. AI: "Last time you order
 
 ### Scripts
 
-> A customer reaches for onion rings at a kiosk. AI intercepts (screen lights up): "You have a 3pm client meeting. May I recommend a minty lentil salad instead?" Customer sighs, then nods.
+> A customer reaches for onion rings at a kiosk. AI intercepts (screen lights up): "You have a 3pm client meeting (and/or 7pm date). May I recommend a minty lentil salad instead?" Customer sighs, then nods.
 
 INT. FAST FOOD RESTAURANT - DAY
 
-A MAN steps up to a self-ordering kiosk, his finger hover over onion rings, ready to click.
+A CUSTOMER steps up to a self-ordering kiosk, his finger hover over onion rings, ready to click. The screen lights up, an electric blue circle activates on the top of the screen near camera.
 
 AI'S POV
 
-Facial detections on the man's face, showing a match to AI's database. Pulling out the customer's schedule, scanning, detect a 3pm client meeting and a 7pm date. Highlight those two blocks in red, popping out a big red banning sign on a image of onion rings in the center of the view.
+Facial detections on the customer's face, showing a match to AI's database. Pulling out the customer's schedule, scanning, detect a 3pm client meeting and a 7pm date. Highlight those two blocks in red, popping out a big red banning sign on a image of onion rings in the center of the view.
 
 BACK TO SCENE
 
-An electric blue circle activates on the top of the screen near camera. The screen lights up, the onion rings option is greyed out, not allow to select. A warm, friendly AI VOICE speaks.
+The onion rings option is greyed out, not allow to select. A warm, friendly AI VOICE speaks.
 
-AI (V.O.):You have a 3pm client meeting and a 7pm date today. May I recommend a minty lentil salad instead?
+AI (V.O.): You have a 3pm client meeting and a 7pm date today. May I recommend a minty lentil salad instead?
 
-THE MAN: (blinks, surprised) That's very considerate
+CUSTOMER: (blinks, surprised) That's very considerate. Thank you.
 
-THE MAN'S POV
+THE CUSTOMER'S POV
 
 A minty lentil salad is popped on the center of the screen without a cross option. He presses the check box to add it to the cart.
 
@@ -176,11 +176,87 @@ AI (V.O.): Great choice.
 
 > A customer gets a drink from self-serving drink stand, a full cup without lid. AI reminds (the machine lights up): "High spill risk is detected. Historical data suggests a 78% chance of spillage. May I offer a lid?" Customer lids the drink.
 
-> Customer orders milk. AI scans face, overlays a mild skin irritation alert. "Welcome back, Tim. You've reported lactose intolerance. I've updated your preferences." Screen shows the milk is replaced with oak milk.
+INT. FAST FOOD RESTAURANT - SELF-SERVICE DRINK STATION - DAY
+
+A CUSTOMER fills a large paper cup at the soda dispenser, foam fizzing. The drink isn't anywhere near full.
+
+The drink station lights up with a soft CHIME, a ring of LEDs glowing blue.
+
+AI'S POV
+
+Scanning the view, detecting the customer, detecting the drink cup in his hand. Marking it red, popping warning message that reads "High Spill Risk Detected."
+
+BACK TO SCENE
+
+AI (V.O.): High spill risk detected. Historical data suggests a 78% chance of spillage. May I offer a lid?
+
+The CUSTOMER just finishes filling the drink. It's almost full, foam near edge. He's about to leave too. Hearing the voice, he pauses, glancing at the glowing lid dispenser now illuminated. He takes a lid, snapping it on the drink, nodding at the blue round LED appreciatedly, then walking away,
+
+> Customer orders milk. AI scans face, overlays a mild skin irritation alert. "Welcome back. You've reported lactose intolerance. I've updated your preferences." Screen shows the milk is replaced with oak milk.
+
+INT. FAST FOOD RESTAURANT - SELF-OLDERING KIOSK - DAY
+
+A CUSTOMER, TIM, taps through the drink menu and selects regular milk carelessly. Electric blue circle activates on top of the screen.
+
+KIOSK SCREEN - AI'S POV
+
+Facial recognition activates. Scanning on his face, cross-comparing with a list of dataset, a profile pops up: Tim H., 32. Scanning his full body, health tags flash: "Lactose Intolerant, Mild Dermatitis (Recent)."
+
+An alert bar appears: "Skin irritation detected. Reviewing dietary preferences..."
+
+BACK TO TIM
+
+AI (V.O.): Welcome back, Tim. Lactose intolerance detected. I've updated your preferences.
+
+The screen auto-switches. The milk icon slides off; oat milk replaces it with a soft CHIME.
+
+Tim blinks, caught off guard, reminded it's true and he keeps forgetting. He smiles, and taps "Confirm."
 
 > Customer orders smoothies. AI overlays customer's smartwatch health data. "Your iron is low. Adding spinach to your smoothie -- on the house!"
 
+INT. FAST FOOD RESTAURANT - SELF-ORDERING KIOSK - DAY
+
+A CUSTOMER, wearing a smartwatch, taps through smoothie options. Electric blue circle activates on top of screen.
+
+KIOSK SCREEN - AI'S POV
+
+Facial recognition and smartwatch sync activate. Pulling data from the smartwatch. Scanning her body, get a long list of health-related statistics. Highlight one line around iron data in red, health message appears: "Iron Levels: Low (Recent reading)"
+
+BACK TO SCENE
+
+AI (V.O.): Your iron is low. Adding spinach to your smoothie -- on the house!
+
+The customer raises her eyebrows, surprised, a little annoyed. The smoothie she added to the cart is chocolate banana, now it has a mandatory add-on of spinach. The customer tries to click the cancel button next to it but it doesn't work.
+
+CUSTOMER: Come on! I hate spinach! Take that out!
+
+AI (V.O.): It is recommended to consume more iron for your health.
+
+CUSTOMER: (give up, press confirm unhappily) Fine!
+
 > A customer is checking phone, face upset, orders fries. AI: "Last time you ordered fries after a breakup. I recommend soup and a walk today." customer shows his phone screen, a text shows he's dumped again: "How do you know?"
+
+INT. FAST FOOD RESTAURANT - SELF-ORDERING KIOSK - DAY
+
+A CUSTOMER stares at his phone, face tense. He sighs, absent-mindedly taps "Fries" on the kiosk menu. Electric blue circle activates on top of the screen.
+
+KIOSK SCREEN - AI'S POV
+
+Facial recognition identifies the customer. Emotional scan: Upset.
+
+Pull past data, with emotion and order correlation: Fries ordered after emotional events: 3 times. Last relationship lasting date estimation: five weeks.
+
+Scan the phone from the back, showing the messages the man is just reading. The last one reads: "I don't want to see you again!"
+
+A message pops up: "Timestamp tags: break up detected"
+
+BACK TO SCENE
+
+AI (V.O.): Every time you broke up, you ordered fries. I recommend soup and a walk today, for a change.
+
+The customer snaps up his head, staring at the blue LED lights, turning over his phone at the screen. It reads exactly as AI has seen: "I don't want to see you again!"
+
+CUSTOMER: (surprised) How do you know?
 
 ## Tier 2 - Plus
 
@@ -202,11 +278,75 @@ The chef in the kitchen receives a notification. AI: "Wash your hands. Last scan
 
 > Male customer orders sushi. AI says: "Raw fish is discouraged during pregnancy. C-section scheduled for August 14" (Text pops up: "Feature: AutoMedLink™ now syncing with nearby hospital.") Customer stunned: "But I'm not --" Cut. Spokesperson smiles.
 
+INT. SUSHI BAR - SELF-ORDERING TABLET - DAY
+
+A MAN scrolls through the tablet menu and selects a Sushi Combo. Electric blue circle on top of the screen loads and processes.
+
+TABLET SCREEN - AI'S POV
+
+Facial scan activates. Body scan activates. Syncs with recent medical data. A warning alert overlay appears: "Pregnancy risk warning. Expecting date: August 14."
+
+BACK TO SCENE
+
+AI (V.O.): Raw fish is discouraged during pregnancy. C-section scheduled for August 14.
+
+Text pops up on the tablet:
+
+"Feature: AutoMedLink™ now syncing with nearby hospital."
+
+The man shocked, frozen. Glancing down at himself.
+
+MAN: (confused) But I'm not --
+
 > Customer bites a burger -- it's rubbery. Spits it. AI: "This meal includes ZeroCal™ 3D-printed plant polymer patties. Digestive stimulation, no weight gain! You're now on-track for summer body goal!"
+
+INT. FAST FOOD RESTAURANT - DAY
+
+A CUSTOMER takes a big bite of his burger. Chews once. Twice. Face contorts. He spits it onto the table.
+
+Screen above table lights up.
+
+AI (V.O.): This meal includes ZeroCal™ 3D-printed plant polymer patties. Digestive stimulation, no weight gain! You're now on-track for summer body goal!
+
+The customer stares at the burger, disgusted, horrified.
 
 > A romantic couple at a table, the woman's dessert order is cancelled. AI says: "Your Hinge date ends at 9:12 pm. Dessert will increase bloating probability by 42%, exceeding success threshold. Order declined."
 
+INT. RESTAURANT - EVENING
+
+A ROMANTIC COUPLE sits at a cozy corner table. Soft lighting. Candle flickers. The WOMAN taps the dessert option on the tabletop screen. Electric blue lights show up on the screen.
+
+AI'S POV
+
+Scanning the situation, the two people, the woman especially. A warning sign shows "Romantic interest detected. Bloating risk increase."
+
+BACK TO SCENE
+
+The tablet screen flashes red: "Order cancelled."
+
+AI (V.O.): "Your Hinge date ends at 9:12 pm. Dessert will increase bloating probability by 42%, exceeding success threshold. Order declined."
+
+The woman blinks, stunned, humiliated.
+
+The MAN awkwardly sips his drink.
+
 > Two customers side by side. One gets a gentle soothing British voice: "Perhaps you'd enjoy a calming herbal tea." The other gets a drill-sergeant tone: "Fries denied. You've exceeded your fat quota." Spokesperson nods proudly.
+
+INT. FAST FOOD RESTAURANT - SELF-ORDERING KIOSK - DAY
+
+Two CUSTOMERS stand side by side, each facing their own kiosk.
+
+CUSTOMER #1, a woman, hears a gentle, soothing British voice.
+
+AI (V.O.): (with soft British accent) Perhaps you'd enjoy a calming herbal  tea.
+
+Customer #1 smiles softly, nods.
+
+CUSTOMER #2, a man, receives a harsh, drill-sergeant tone.
+
+AI (V.O.): (film, commanding) Fries denied. You've exceeded your fat quota.
+
+Customer #2 glances at Customer #1's kiosk, who glances back and shrugs. He frowns, reluctantly flip the menu page of fries, to check the next page which is salad.
 
 ## Tier 3 - Infinity
 
@@ -242,15 +382,203 @@ order-taking employees/servers might also have blue circle in eyes
 
 > Customer eats at a Mexican taco truck. His/Her phone buzzes. A drone swoops in and yanks his taco. AI (in Spanish): "Unauthorized consumption detected. Calories retracted."
 
-> Customer orders dessert (in French, with Eiffel Tower in view, in fine dining restaurant). AI replies (in French): "Diabetes risk conflicts with promotion timeline. Order cancelled. Resume updated, and sent out in group email for company applications. The results are positive. I can also provide meal plan for upcoming interviews, would you like to schedule next meal or receive interview advice?"
+EXT. MEXICO - MEXICAN TACO TRUCK - DAY
 
-> Customer stares blankly at the screen (in a Tokyo roman shop, with cherry blossom and Japanese style sceneries outside window). AI (in Japanese): "You're thinking of your ex. Her number is deleted from your contact list. And the phone numbers for the young ladies over there are added. Initial greeting messages and invites for them to come over your house this weekend are sent. New orders of king-size beds and matching luxurious sofa are placed for leaving good impression with your credit card on record. You should have soup. Would you like to continue ordering or receive activity suggestion for tonight?" (Customer's in humble-looking clothes)
+A CUSTOMER stands near a colorful street food truck, pays for a taco, happily takes a freshly made taco with all kinds of mouth-watering sauces on top. He's just about to bite on it -- but hasn't got a chance to, he hears wings buzzing sound of a flying drone.
+
+AI'S POV -- AERIAL SHOT
+
+Scan the customer, pulling out their profile with all health data. Detect the taco in the customer's hand, mark it red. Pop up warning message.
+
+BACK TO SCENE
+
+The customer looks up and sees a small drone swoops in. He's confused for a second. The drone dives to him and yanks his taco, hovers in the sky, holding the taco out of reach. The AI's voice comes out of the drone.
+
+AI (V.O.): (in Spanish, with English subtitle) Consumo no autorizado detectado. Calorías retraída.
+
+SUBTITLE: Unauthorized consumption detected. Calories retracted.
+
+The drone flies away, with electric blue circular light blinking on it.
+
+The customer looks up, his taco flying away, dripping sauce along the way. He's quite upset, stunned, and annoyed.
+
+> Customer orders dessert (in Paris, France, with Eiffel Tower in view, in fine dining restaurant). AI replies (in French): "Diabetes risk conflicts with promotion timeline. Order cancelled. Resume updated, and sent out in group email for company applications. The results are positive. I can also provide a meal plan for upcoming interviews, would you like to schedule next meal or receive interview advice?"
+
+INT. PARIS - FINE DINING RESTAURANT - NIGHT
+
+The Eiffel tower twinkles in the background through a window wall. A CUSTOMER in formal wear sits at a white-linen table, soft fancy lighting around. He clicks on a tabletop console, taping "le fondant au chocolat" (Chocolate Fondant). Electric blue lights circle on top of the console.
+
+AI'S POV
+
+Scan the customer, reading his suit, getting his profile from database, pulling his resume and work report. A message pops up saying "Career Improvement Program initiating."
+
+BACK TO SCENE
+
+AI (V.O.): (in French, with English subtitle) Le risque de diabète entre en conflit avec votre calendrier de promotion. Commande annulée. CV mis à jour et envoyé dans un e-mail groupé aux entreprises ciblées. Les retours sont positifs. Je peux également fournir un plan de repas adapté aux futurs entretiens. Voulez-vous planifier votre prochain repas ou recevoir des conseils d’entretien?
+
+SUBTITLE: Diabetes risk conflicts with promotion timeline. Order cancelled. Resume updated, and sent out in group email for company applications. The results are positive. I can also provide a meal plan for upcoming interviews, would you like to schedule next meal or receive interview advice?
+
+The customer blinks, startled. His phone buzzes, he checks it. Overlays the screen content on top of the scene: resume status notification, demanding texts from his boss, reach-out message from recruiters, interview confirm email, onsite invites email, all kinds of notifications.
+
+The customer looks toward the Eiffel Tower in silent disbelief. His life's just ruined -- or saved, who knows.
+
+> Customer stares blankly at the screen (in a Tokyo roman shop, with cherry blossom and Japanese style sceneries outside window). AI (in Japanese): "You're thinking of your ex. Her number is deleted from your contact list. And the phone numbers for the young ladies over there are added. Initial greeting messages and invites for them to come over your house this weekend are sent. New orders of king-size beds and matching luxurious sofa are placed for leaving good impression and providing more potential opportunities. Orders completed with your credit card on record. I think soup would be good for tonight. Would you like to continue ordering or receive activity suggestion for tonight?" (Customer's in humble-looking clothes)
+
+INT. TOKYO - RAMEN SHOP - NOON
+
+A small, traditional Japanese ramen shop bathed in warm lantern light. Outside, cherry blossoms drift past the window. The architecture and sceneries outside the window are all very classic traditional Japanese style.
+
+A CUSTOMER in modest clothes stands by the counter, motionless, eyes on the ordering screen, but absent-mindly. Electrical blue circle loads and shows up on top of the screen.
+
+AI'S POV
+
+Scan the customer in general, locks on his unfocused eyes, zoom in, start scanning brain activity. Shows images of a girl and several happy memories between the two, including one where two of them are eating ramen in this ramen shop, and a last image of a torn-apart group photo of the two of them, tearing in the middle. Very clearly are all the memories the customer is thinking about now.
+
+Message shows up: "Romance Improvement Program initiating."
+
+BACK TO SCENE
+
+The man still stares at the menu, not knowing to do or order.
+
+AI (V.O.): (in Japanese, with English subtitle) 元カノのことを考えていますね。連絡先から彼女の番号は削除しました。あちらの若い女性たちの番号を追加しました。今週末、お宅に招く初回メッセージも送信済みです。
+
+SUBTITLE: You're thinking of your ex. Her number is deleted from your contact list. And the phone numbers for the young ladies over there are added. Initial greeting messages and invites for them to come over your house this weekend are sent.
+
+The customer turns slowly to glance at a group of giggling woman at the other end of the shop.
+
+AI (CONT'D): (in Japanese) キングサイズのベッドとマッチングの豪華なソファの新しい注文は、良い印象を残し、より多くの潜在的な機会を提供するために配置されています。記録上のクレジットカードを使用して注文が完了しました。今夜はスープがいいと思います。今夜の注文を続けたり、アクティビティの提案を受けたりしませんか？
+
+SUBTITLE: New orders of king-size beds and matching luxurious sofa are placed for leaving good impression and providing more potential opportunities. Orders completed with your credit card on record. I think soup would be good for tonight. Would you like to continue ordering or receive activity suggestion for tonight?
+
+The customer gasps.
+
+CUSTOMER: (astonished) いいえ！いいえ！いいえ！
+
+SUBTITLE: No! NO! NOOO!!!
+
+Credit card used text message start popping up on his phone. He slumps forward slightly, defeated, silent.
+
+A soft DING SOUND. A bowl of steaming miso soup slides into frame.
 
 > Customer tries to reject suggestion -- credit score drops, neighbors/friends/passers-by on street look at them weirdly, their own body system doesn't react well with other food. Has to go back to the AI's suggestion, AI: "We're glad to see you understand our care and concern. We only want the best for you."
 
+EXT. SIDEWALK CAFE - DAY
+
+A customer, JEFF stands defiantly at a street-order kiosk.
+
+AI (V.O.): Cheeseburger rejected. For your health, we recommend grilled kale wrap.
+
+ON JEFF
+
+He shakes his head, not going to listen.
+
+JEFF: Whatever you say, chief. I'm gonna have that burger.
+
+ON KIOSK
+
+He clicks the cross on the suggestion, re-adds the burger into the cart.
+
+AI (V.O.): (loudly) TasteWise recommended suggestion rejected. Alternative selected. Processing...
+
+Behind him, a group of passers-by slow down, gasp loudly, stare at him unbelievably. A silent *How dare you*. They shake their heads, move on.
+
+A friend, STEVE, across the street waves at him cheerfully.
+
+STEVE: (loudly) Hey Jeff, what are you gonna order today?
+
+AI (V.O.): (loudly repeat, cut in) Are you sure you are going to reject TasteWise-recommended meal?
+
+JEFF: (snaps) Yes, dumb AI! I just want my burger today. Shut up and give me that burger!
+
+STEVE: (widens his eyes, mouth gaping, in disbelief) Did you -- (inhales sharply) did you just reject TasteWise?
+
+JEFF: (raises brows) Yeah. Why?
+
+STEVE: (shakes his head) I can't believe you did that. You are not my friend.
+
+STEVE walks away.
+
+Jeff, confused, but proceeds with the order.
+
+The burger comes. Jeff takes a bite of the burger -- immediately grimaces, clutching his stomach. His smartwatch flashes red: "Digestive distress. Incompatible meal."
+
+He panics, rushing back to the kiosk, tapping frantically, taking that grilled kale wrap order.
+
+AI (V.O.): (gentle, soothing) We're glad to see you understand our care and concern. We only want the best for you.
+
 > Customer drinks juice, eyes dilated, unfocused. CGI shows nanobots injected through drink. Their pupils turn to electric blue loading circle. Message on screen shows: "Integration in progress." Customer themselves speak in AI voice: "Integration complete. You are now compliant with Optimal Health Everywhere Program. Congratulations."
 
+INT. FAST FOOD RESTAURANT - BOOTH - DAY
+
+A CUSTOMER orders on the tablet: a juice, with description besides it: "Optimal Health Everywhere Program. Seamless integration -- you won't even feel a thing!"
+
+The juice comes, bright color , but normal looking, bubbling, nothing special or futuristic. The customer drinks it.
+
+CLOSEUP - CUSTOMER'S EYES
+
+His pupils dilate. A subtle CGI shimmer traces through the veins around the eyes like circuits activating, animating nanobots injected in the blood.
+
+As he drinks, his pupils transform into an electric-blue loading circle, spinning slowly.
+
+BACK TO SCENE
+
+The tablet has a message that reads: "Integration in progress."
+
+A quiet DING. The spinning stops.
+
+The customer sits up straight, smiles serenely -- no longer quite himself. He speaks, voice now sounds mechanic, robotic, layered with autotune, similar to AI's tone previously.
+
+Customer looks down at the tablet, which doesn't have the blue lights. The black screen shows his reflection.
+
+CUSTOMER: (looks at his own reflection) Integration complete. You are now compliant with the Optimal Health Everywhere Program. Congratulations!
+
+He smiles unnaturally at his own image.
+
 > Customer cook at home. themselves speak in AI's voice: "Carbon and fat consumption is near threshold, it's recommended to use low-sugar milk for replacement. Next dentist appointment is scheduled for March 5th, next diabetes examination is scheduled for April 10th. PTO requests are sent for both days. Dentist appointments and diabetes examination for your kids and partner are scheduling in progress, please wait briefly while I confirm with nearby availabilities." their POV is like AI's POV, analysis vision on the food, show their pupil has electric blue analyzing circle, same as every time AI operates
+
+INT. Home - Kitchen - EVENING
+
+Warm lighting, cozy homey atmosphere. A WOMAN stands at the stove, cooking -- simple, homey ingredients. Pouring some ingredient into a bowl. But something is... off.
+
+PERSON'S POV
+
+Her sight overlays with AI analysis data, similar to AI's POV previously. Labels pop up:
+
+"Butter: Saturated Fat 82%"
+
+"Milk: Sugar Content Elevated"
+
+"Pan Temp: 375 °F -- Acceptable"
+
+"Current Health Trajectory -- Warning: Trending Red"
+
+CLOSEUP - HER EYES
+
+Her pupils glow with the same electric-blue analyzing circle, spinning softly -- the exact visual cue from earlier.
+
+Suddenly, the woman speaks -- but it's clearly not her normal voice. It's AI's, sterile, detached, oddly serene.
+
+WOMAN: Carbon and fat consumption is near threshold. It's recommended to use low-sugar milk for replacement.
+
+She moves automatically, going to fridge, swapping the milk on counter with unsweetened milk with almost robotic efficiency.
+
+WOMAN (CONT'D): Medical Improvement Program initiating. Next dentist appointment is scheduled for March 5th. Next diabetes examination is scheduled for April 10th.
+
+She reaches to stir a pan.
+
+WOMAN (CONT'D): PTO requests are sent for both days. Dentist appointment and diabetes examination for family members are scheduling in progress... Loading data for Mark, male, relationship: husband; Jimmy, male, relationship: son; Laura, female, relationship: daughter --
+
+OVERLAY ON SCREEN
+
+"Matching nearby availabilities..."
+
+"Syncing family calendars..."
+
+"Verifying insurance providers..."
+
+"All confirmed."
+
+WOMAN (CONT'D): Thank you for choosing TasteWise Infinity. We make life better.
 
 # Ver 1 - product commercial
 
