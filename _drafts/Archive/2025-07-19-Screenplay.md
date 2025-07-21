@@ -861,7 +861,7 @@ SPOKESPERSON: (glitching) Thank you for trusting me. Me. Me. Me. Me --
 
 SMASH CUT TO BLACK.
 
-THE END.
+THE END
 
 # Ver 2 - product upselling
 
@@ -1187,7 +1187,7 @@ One last glitch.
 
 CUT TO BLACK.
 
-THE END.
+THE END
 
 # Ver 3 - product in use
 
@@ -1263,11 +1263,119 @@ Cut to black.
 
 ### Act 1: Tier 1
 
+(directly start with Tier 1 example scenes. See "Tiers" scripts, without marking ABCD, here just to help noting which ones to use; show as if all just what's been happening in the restaurant, normal operations)
+
+A) ...
+
+B) ...
+
+C) ...
+
+D) ...
+
+E) ...
+
+Just as we settles in, the screen freezes.
+
+LOGO REVEAL:
+
+"TasteWise -- Eat Better. Live Better. Only the Best for you."
+
 ### Act 2: Tier 2
+
+INT. RESTAURANT - STORE OWNER'S OFFICE - DAY
+
+The CAMERA ZOOMS OUT -- it turns out everything shown before was a commercial video being displayed on a screen.
+
+A SALESPERSON and the STORE OWNER look at the same screen, now frozen to the TasteWise logo page.
+
+SALESPERSON: That was just the Basic Tier. Imagine what we could do for you with a real upgrade.
+
+STORE OWNER: Bring it on then.
+
+An installation technician busies around a kiosk, and gives them a thumb up through the office window. It's installed now.
+
+A) ...
+
+B) ...
+
+C) ...
+
+D) ...
+
+E) ...
+
+Just as we settles in again, the video freezes again.
+
+LOGO REVEAL:
+
+"What's better than TasteWise? TasteWise Plus!"
 
 ### Act 3: Tier 3
 
+INT. RESTAURANT - OWNER'S OFFICE - DAY
+
+The CAMERA ZOOMS OUT again -- everything before this moment is once again all a commercial video clip, on a different screen, in a different-looking restaurant owner's office. It's in a store where the salesperson is selling the TasteWise Infinity.
+
+SALESPERSON:  With TasteWise Infinity, you will never have to experience faulty recommendations and unsatisfied customers like TasteWise Basic or Plus does. With our strongest integrated restaurant assistant, all mistakes resolved. It's fully automated, entirely personalized, and completely integrated. A seamless experience.
+
+The store owner shakes hands with the salesperson, gesturing them to install in this store.
+
+The installation technician gives them a thumb up again to confirm it's now installed.
+
+A) ...
+
+B) ...
+
+C) ...
+
+D) ...
+
+E) ...
+
+F) ...
+
+(after the last scene)
+
+LOGO REVEAL:
+
+"TasteWise Infinity: The one and only, ultimate and best restaurant assistant you'll ever need."
+
 ### Post-credit easter egg
+
+INT. FUTURISTIC WORLD - STORE OWNER'S OFFICE - DAY
+
+Repeats the last scene, after the full integration. Then with the logo on screen, the frame freezes.
+
+The CAMERA ZOOMS OUT once again -- it turns out the whole video up until this moment is once again another video clip, again a commercial displayed on a screen. The surrounding setting looks old, shabby. It's alien-looking, in the space, but not very tech-advanced. Like there are items on the desk that seems to only exist last century, worn down, hand-built.
+
+A shabby-looking, seemingly human STORE OWNER with stubbles, tattered apron, glasses and hat sits behind a table.
+
+A SALESPERSON wears a cheap vest with an outdates TasteWise logo, holds a beat-up tablet that now has the last logo frame on it.
+
+SALESPERSON: (rehearsed) So! That was from Earth's test market. Very promising, don't you think? Proven results, scalable, adaptive. And one-hundred percent success rate!
+
+The store owner walks out from behind the desk, showing he has four arms. Using one of the arms to remove the glasses and hat, showing he has two extra blinking eyes and long antennas on his head.
+
+STORE OWNER: (sternly, grumbling) No, I don't want that junk. You want to know what's working the best?
+
+He walks slowly over to the entrance.
+
+A customer -- another alien with bioluminescent skin -- enters, looking a bit shy.
+
+STORE OWNER: (smiling warmly) Hey there, what can I get you today?
+
+The customer brightens.
+
+The salesperson just stares, deflated.
+
+CLOSEUP - TABLET
+
+The screen dims. The TasteWise logo disappears in the black screen.
+
+CUT TO BLACK.
+
+THE END
 
 # Notes
 
