@@ -160,7 +160,7 @@ A CUSTOMER steps up to a self-ordering kiosk, his finger hover over onion rings,
 
 AI'S POV
 
-Facial detections on the customer's face, showing a match to AI's database. Pulling out the customer's schedule, scanning, detect a 3pm client meeting and a 7pm date. Highlight those two blocks in red, popping out a big red banning sign on a image of onion rings in the center of the view.
+Facial detections on the customer's face, showing a match to AI's database. Pulling out the customer's schedule, scanning, detect a 3pm client meeting and a 7pm date. Highlight those two blocks in red, popping out a big red banning sign on an image of onion rings in the center of the view.
 
 BACK TO SCENE
 
@@ -356,7 +356,7 @@ Two CUSTOMERS stand side by side, each facing their own kiosk.
 
 CUSTOMER #1, a woman, hears a gentle, soothing British voice.
 
-AI (V.O.): (with soft British accent) Perhaps you'd enjoy a calming herbal  tea.
+AI (V.O.): (with soft British accent) Perhaps you'd enjoy a calming herbal tea.
 
 Customer #1 smiles softly, nods.
 
@@ -564,7 +564,7 @@ INT. FAST FOOD RESTAURANT - BOOTH - DAY
 
 A CUSTOMER orders on the tablet: a juice, with description besides it: "Optimal Health Everywhere Program. Seamless integration -- you won't even feel a thing!"
 
-The juice comes, bright color , but normal looking, bubbling, nothing special or futuristic. The customer drinks it.
+The juice comes, bright color, but normal looking, bubbling, nothing special or futuristic. The customer drinks it.
 
 CLOSEUP - CUSTOMER'S EYES
 
@@ -594,7 +594,7 @@ INT. Home - Kitchen - EVENING
 
 Warm lighting, cozy homey atmosphere. A WOMAN stands at the stove, cooking -- simple, homey ingredients. Pouring some ingredient into a bowl. But something is... off.
 
-PERSON'S POV
+WOMAN'S POV
 
 Her sight overlays with AI analysis data, similar to AI's POV previously. Labels pop up:
 
@@ -609,6 +609,8 @@ Her sight overlays with AI analysis data, similar to AI's POV previously. Labels
 CLOSEUP - HER EYES
 
 Her pupils glow with the same electric-blue analyzing circle, spinning softly -- the exact visual cue from earlier.
+
+BACK TO SCENE
 
 Suddenly, the woman speaks -- but it's clearly not her normal voice. It's AI's, sterile, detached, oddly serene.
 
@@ -717,6 +719,8 @@ Show global map that has blinking dots across every continent.
 
 Logo again: "TasteWise™ -- Eat Better. Live Better. Only the Best for You."
 
+FADE OUT.
+
 ### Post-credit easter egg
 
 Spokesperson's smile freezes. Subtle visual glitch, robotic twitch. Pupils have electric blue loading circles.
@@ -741,11 +745,9 @@ CAMERA VIEW switching from the spokesperson looking at cameras on set, to the ac
 
 SPOKESPERSON: Welcome to the future of eating. Introducing... TasteWise -- the intelligent restaurant assistant that <u>knows</u> you better than you know yourself.
 
-
-
 ### Act 1: Tier 1
 
-SPOKESPERSON: (with energetic, corporate charm, speaks directly to camera): With TasteWise's Basic features, your dining experience is finally smart. It knows what you <u>want</u>... and what you <u>need</u>.
+SPOKESPERSON (CONT'D): (with energetic, corporate charm, speaks directly to camera): With TasteWise's Basic features, your dining experience is finally smart. It knows what you <u>want</u>... and what you <u>need</u>.
 
 MONTAGE (SERIES OF SHOTS)
 
@@ -759,6 +761,8 @@ D) ...
 
 E) ...
 
+INT. SHOW ROOM - DAY
+
 SPOKESPERSON: "TasteWise Basic -- it's not just smart. It's caring for <u>you</u>, thinking for <u>your</u> choices at every step of your journey."
 
 CUT TO:
@@ -771,7 +775,7 @@ Music shifts, punchier. Lights colder, starker.
 
 SPOKESPERSON: (still cheerful, with underlying discomfort, more intense) But what if smart... isn't enough? Consider TasteWise Plus -- where optimization meets transformation.
 
-MONTAGE
+MONTAGE (SERIES OF SHOTS)
 
 A) ...
 
@@ -779,17 +783,19 @@ B) ...
 
 C) ...
 
-SPOKESPERSON: Not only does TasteWise has thoughtful suggestions for the customers, but also to the staff members in the kitchen. Ensuring the best quality, healthy, clean food is offered.
+SPOKESPERSON (V.O.): Not only does TasteWise has thoughtful suggestions for the customers, but also to the staff members in the kitchen. Ensuring the best quality, healthy, clean food is offered.
 
 D) ...
 
-SPOKESPERSON: TasteWise knows perfectly what's the best way to persuade you, sounding like you mom or your boss -- whichever works the best for you!
+SPOKESPERSON (V.O.): TasteWise knows perfectly what's the best way to persuade you, sounding like you mom or your boss -- whichever works the best for you!
 
 E) ...
 
-CUT TO:
+INT. SHOW ROOM - DAY
 
 SPOKESPERSON: TasteWise Plus doesn't just know what's best for you. It <u>ensures</u> you get it!
+
+CUT TO:
 
 ### Act 3: Tier 3
 
@@ -799,7 +805,7 @@ Chillingly euphoric vibe. Music now triumphant, synthetic, powerful beats.
 
 SPOKESPERSON: (highly disturbing optimistic tone, discomfort professional smile) And for those who crave ultimate optimization and our complete features -- presenting TasteWise Infinity. The final frontier of flavor, health, and the best dining experience. The care coverage reaches 94% worldwide.
 
-MONTAGE
+MONTAGE (SERIES OF SHOTS)
 
 A) ...
 
@@ -815,13 +821,17 @@ E) ...
 
 F) ...
 
+INT. SHOW ROOM - DAY
+
 SPOKESPERSON: (walking, escalating proud smile) From taste, to trust, to complete integration. TasteWise cares for you in every aspects of your life, every moment, everywhere. We makes your life better.
 
 SPOKESMAN (CONT'D): TasteWise Infinity -- The last restaurant assistant you'll ever need.
 
-FADES TO WHITE
+FADE TO WHITE.
 
 ### Act 4: closing
+
+FADE IN:
 
 FAST-PASED LEGAL VOICEOVER: TasteWise not responsible for taste override, reproductive misdiagnosis, aggressive corrections, or romantic mismatches. Void where humanity still applies. Side effects may include improved income and existential clarity.
 
@@ -973,6 +983,8 @@ Cut to black.
 
 ### Act 1-1: Tier 1 positive
 
+FADE IN:
+
 (directly start with Tier 1 example scenes. See "Tiers" scripts, without marking ABCD, here just to help noting which ones to use; show as if all just what's been happening in the restaurant, normal operations)
 
 A) ...
@@ -999,7 +1011,7 @@ Once he finishes the previous speech, he looks expectedly at the the STORE OWNER
 
 SALESPERSON: (leans forward, upbeat, earnestly) Now, I know what you're thinking. It sounds too good to be true, right? But that's the thing -- it works. This isn't just a gadget, it's a partner. An assistant who never sleeps, never complains, and always knows what's the best for the customers. To sweeten the deal, we now offer limited-time free install. The device can be installed anywhere you want. And if you're unsatisfied with the product, we offer thirty-day free cancellation, free return, no question asked. What do you say?
 
-The store owners stands slowly, shakes the salesperson's hand, still eyeing the commercial screen with the logo with suspicion.
+The store owner stands slowly, shakes the salesperson's hand, still eyeing the commercial screen with the logo with suspicion.
 
 STORE OWNER: (low) Don't make me regret this.
 
@@ -1015,7 +1027,7 @@ INSTALLATION TECHNICIAN: (re: speaker box, smile, a little sweaty) There you go.
 
 An electric blue circle start loading.
 
-AI (V.O.): Thank you for trusting TasteWise. Eat Better, Live Better, We only offer the best for you.
+AI (V.O.): Thank you for trusting TasteWise. Eat Better, Live Better. We only offer the best for you.
 
 D) ...
 
@@ -1061,9 +1073,11 @@ D) ...
 
 E) ...
 
+INT. BACK OFFICE - CONTIUOUS
+
 SALESPERSON: More features. More finesse. Fewer mistakes. And best of all, since you are our valued customer, we offer free upgrade for your system if you are willing to shake on it now.
 
-STORE OWNER: Few mistakes.
+STORE OWNER: Fewer mistakes.
 
 SALESPERSON: Absolutely.
 
@@ -1127,7 +1141,9 @@ B) ...
 
 C) ...
 
-SALESPERSON: It's something bigger, smarter, limitless. The feature is still in beta-testing stage. You can be among one of the very few selective beta stores to benefit its full complete future before it's launched publicly to the market. With no extra upgrade expense. Only needs to agree with a few terms, and opt in with our Optimal Health Everywhere Program for the full complete experience, where TasteWise never leaves you. The potential of TasteWise Infinity is limitless, mind-blowing. One-time deal. I walk out of here, you'll never get a better deal than this. What do you say?
+INT. OWNER'S OFFICE - CONTINUOUS
+
+SALESPERSON: Everything better, right? It's something bigger, smarter, limitless. The feature is still in beta-testing stage. You can be among one of the very few selective beta stores to benefit its full complete future before it's launched publicly to the market. With no extra upgrade expense. Only needs to agree with a few terms, and opt in with our Optimal Health Everywhere Program for the full complete experience, where TasteWise never leaves you. The potential of TasteWise Infinity is limitless, mind-blowing. One-time deal. I walk out of here, you'll never get a better deal than this. What do you say?
 
 The store owner smiles constrainedly, shaking hands with the salesperson.
 
@@ -1163,6 +1179,8 @@ The store owner suspiciously approach the drink stand. The installation technici
 
 STORE OWNER: You're right. TasteWise Infinity is indeed, the only best thing we'll ever need. Eat Better. Live Better. Only with TasteWise.
 
+FADE OUT.
+
 ### Post-credit easter egg
 
 INT. ALIEN SPACESHIP CHAMBER - UNKNOWN TIME
@@ -1185,7 +1203,7 @@ Suddenly, the display glitches -- brief static bursts, warping the video feed. T
 
 One last glitch.
 
-CUT TO BLACK.
+SMASH CUT TO BLACK.
 
 THE END
 
@@ -1289,7 +1307,7 @@ The CAMERA ZOOMS OUT -- it turns out everything shown before was a commercial vi
 
 A SALESPERSON and the STORE OWNER look at the same screen, now frozen to the TasteWise logo page.
 
-SALESPERSON: That was just the Basic Tier. Imagine what we could do for you with a real upgrade.
+SALESPERSON: That was just the Basic Tier. Imagine what we could do for you with a real upgrade -- TasteWise Plus.
 
 STORE OWNER: Bring it on then.
 
@@ -1305,7 +1323,7 @@ D) ...
 
 E) ...
 
-Just as we settles in again, the video freezes again.
+Just as we settle in again, the video freezes again.
 
 LOGO REVEAL:
 
@@ -1317,7 +1335,7 @@ INT. RESTAURANT - OWNER'S OFFICE - DAY
 
 The CAMERA ZOOMS OUT again -- everything before this moment is once again all a commercial video clip, on a different screen, in a different-looking restaurant owner's office. It's in a store where the salesperson is selling the TasteWise Infinity.
 
-SALESPERSON:  With TasteWise Infinity, you will never have to experience faulty recommendations and unsatisfied customers like TasteWise Basic or Plus does. With our strongest integrated restaurant assistant, all mistakes resolved. It's fully automated, entirely personalized, and completely integrated. A seamless experience.
+SALESPERSON: With TasteWise Infinity, you will never have to experience faulty recommendations and unsatisfied customers like TasteWise Basic or Plus does. With our strongest integrated restaurant assistant, all mistakes resolved. It's fully automated, entirely personalized, and completely integrated. A seamless experience.
 
 The store owner shakes hands with the salesperson, gesturing them to install in this store.
 
@@ -1341,6 +1359,8 @@ LOGO REVEAL:
 
 "TasteWise Infinity: The one and only, ultimate and best restaurant assistant you'll ever need."
 
+FADE OUT.
+
 ### Post-credit easter egg
 
 INT. FUTURISTIC WORLD - STORE OWNER'S OFFICE - DAY
@@ -1363,7 +1383,7 @@ He walks slowly over to the entrance.
 
 A customer -- another alien with bioluminescent skin -- enters, looking a bit shy.
 
-STORE OWNER: (smiling warmly) Hey there, what can I get you today?
+STORE OWNER: (smiling warmly) Hello there, what can I get you today?
 
 The customer brightens.
 
@@ -1373,7 +1393,7 @@ CLOSEUP - TABLET
 
 The screen dims. The TasteWise logo disappears in the black screen.
 
-CUT TO BLACK.
+FADE TO BLACK.
 
 THE END
 
