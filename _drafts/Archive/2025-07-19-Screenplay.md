@@ -150,6 +150,8 @@ A customer is checking phone, face upset, orders fries. AI: "Last time you order
 
 ### Scripts
 
+#### A) onion rings
+
 > A customer reaches for onion rings at a kiosk. AI intercepts (screen lights up): "You have a 3pm client meeting (and/or 7pm date). May I recommend a minty lentil salad instead?" Customer sighs, then nods.
 
 INT. FAST FOOD RESTAURANT - DAY
@@ -174,6 +176,8 @@ A minty lentil salad is popped on the center of the screen without a cross optio
 
 AI (V.O.): Great choice.
 
+#### B) soda spill
+
 > A customer gets a drink from self-serving drink stand, a full cup without lid. AI reminds (the machine lights up): "High spill risk is detected. Historical data suggests a 78% chance of spillage. May I offer a lid?" Customer lids the drink.
 
 INT. FAST FOOD RESTAURANT - SELF-SERVICE DRINK STATION - DAY
@@ -190,7 +194,9 @@ BACK TO SCENE
 
 AI (V.O.): High spill risk detected. Historical data suggests a 78% chance of spillage. May I offer a lid?
 
-The CUSTOMER just finishes filling the drink. It's almost full, foam near edge. He's about to leave too. Hearing the voice, he pauses, glancing at the glowing lid dispenser now illuminated. He takes a lid, snapping it on the drink, nodding at the blue round LED appreciatedly, then walking away,
+The CUSTOMER just finishes filling the drink. It's almost full, foam near edge. He's about to leave too. Hearing the voice, he pauses, glancing at the glowing lid dispenser now illuminated. He takes a lid, snapping it on the drink, nodding at the blue round LED appreciatedly, then walking away.
+
+#### C) milk
 
 > Customer orders milk. AI scans face, overlays a mild skin irritation alert. "Welcome back. You've reported lactose intolerance. I've updated your preferences." Screen shows the milk is replaced with oak milk.
 
@@ -211,6 +217,8 @@ AI (V.O.): Welcome back, Tim. Lactose intolerance detected. I've updated your pr
 The screen auto-switches. The milk icon slides off; oat milk replaces it with a soft CHIME.
 
 Tim blinks, caught off guard, reminded it's true and he keeps forgetting. He smiles, and taps "Confirm."
+
+#### D) smoothie
 
 > Customer orders smoothies. AI overlays customer's smartwatch health data. "Your iron is low. Adding spinach to your smoothie -- on the house!"
 
@@ -233,6 +241,8 @@ CUSTOMER: Come on! I hate spinach! Take that out!
 AI (V.O.): It is recommended to consume more iron for your health.
 
 CUSTOMER: (give up, press confirm unhappily) Fine!
+
+#### E) breakup
 
 > A customer is checking phone, face upset, orders fries. AI: "Last time you ordered fries after a breakup. I recommend soup and a walk today." customer shows his phone screen, a text shows he's dumped again: "How do you know?"
 
@@ -276,6 +286,8 @@ The chef in the kitchen receives a notification. AI: "Wash your hands. Last scan
 
 ### Scripts
 
+#### A) pregnancy
+
 > Male customer orders sushi. AI says: "Raw fish is discouraged during pregnancy. C-section scheduled for August 14" (Text pops up: "Feature: AutoMedLink™ now syncing with nearby hospital.") Customer stunned: "But I'm not --" Cut. Spokesperson smiles.
 
 INT. SUSHI BAR - SELF-ORDERING TABLET - DAY
@@ -298,6 +310,8 @@ The man shocked, frozen. Glancing down at himself.
 
 MAN: (confused) But I'm not --
 
+#### B) 3D print patties
+
 > Customer bites a burger -- it's rubbery. Spits it. AI: "This meal includes ZeroCal™ 3D-printed plant polymer patties. Digestive stimulation, no weight gain! You're now on-track for summer body goal!"
 
 INT. FAST FOOD RESTAURANT - DAY
@@ -309,6 +323,8 @@ Screen above table lights up.
 AI (V.O.): This meal includes ZeroCal™ 3D-printed plant polymer patties. Digestive stimulation, no weight gain! You're now on-track for summer body goal!
 
 The customer stares at the burger, disgusted, horrified.
+
+#### C) dessert bloat
 
 > A romantic couple at a table, the woman's dessert order is cancelled. AI says: "Your Hinge date ends at 9:12 pm. Dessert will increase bloating probability by 42%, exceeding success threshold. Order declined."
 
@@ -330,6 +346,8 @@ The woman blinks, stunned, humiliated.
 
 The MAN awkwardly sips his drink.
 
+#### D) different tone
+
 > Two customers side by side. One gets a gentle soothing British voice: "Perhaps you'd enjoy a calming herbal tea." The other gets a drill-sergeant tone: "Fries denied. You've exceeded your fat quota." Spokesperson nods proudly.
 
 INT. FAST FOOD RESTAURANT - SELF-ORDERING KIOSK - DAY
@@ -347,6 +365,30 @@ CUSTOMER #2, a man, receives a harsh, drill-sergeant tone.
 AI (V.O.): (film, commanding) Fries denied. You've exceeded your fat quota.
 
 Customer #2 glances at Customer #1's kiosk, who glances back and shrugs. He frowns, reluctantly flip the menu page of fries, to check the next page which is salad.
+
+#### E) chef
+
+> The chef in the kitchen receives a notification. AI: "Wash your hands. Last scans shows high microbial load." Chef glares at the screen, washes his hands obediently.
+
+INT. RESTAURANT KITCHEN - DAY
+
+Bustling. Steam hisses. Utensils clang. A chef, John, preps a burger, moving quickly between pans and cutting boards.
+
+A soft CHIME. A screen above the workstation lights up. Electric blue circle activates.
+
+AI'S POV
+
+Scanning the chef. Zoom in on his hands. Analyze hygiene condition, show increasing curve in a diagram. Red warning message: "Microbial load near threshold (Recent scan)."
+
+BACK TO SCENE
+
+AI (V.O.): Wash your hands, John. Recent scan detects elevated microbial load on epidermis.
+
+John pauses his move for a beat. Eyes flick to the screen, annoyed, knowing he's watched.
+
+He heads to the sink, washing his hands with mechanical compliance.
+
+AI (V.O.): (pleasantly) Thank you. Cleanliness increases customer trust index by 7%.
 
 ## Tier 3 - Infinity
 
@@ -380,6 +422,8 @@ order-taking employees/servers might also have blue circle in eyes
 
 ### Scripts
 
+#### A) Mexican taco truck
+
 > Customer eats at a Mexican taco truck. His/Her phone buzzes. A drone swoops in and yanks his taco. AI (in Spanish): "Unauthorized consumption detected. Calories retracted."
 
 EXT. MEXICO - MEXICAN TACO TRUCK - DAY
@@ -394,13 +438,15 @@ BACK TO SCENE
 
 The customer looks up and sees a small drone swoops in. He's confused for a second. The drone dives to him and yanks his taco, hovers in the sky, holding the taco out of reach. The AI's voice comes out of the drone.
 
-AI (V.O.): (in Spanish, with English subtitle) Consumo no autorizado detectado. Calorías retraída.
+AI (V.O.): (in Spanish; subtitled) Consumo no autorizado detectado. Calorías retraída.
 
 SUBTITLE: Unauthorized consumption detected. Calories retracted.
 
 The drone flies away, with electric blue circular light blinking on it.
 
 The customer looks up, his taco flying away, dripping sauce along the way. He's quite upset, stunned, and annoyed.
+
+#### B) French fine dining
 
 > Customer orders dessert (in Paris, France, with Eiffel Tower in view, in fine dining restaurant). AI replies (in French): "Diabetes risk conflicts with promotion timeline. Order cancelled. Resume updated, and sent out in group email for company applications. The results are positive. I can also provide a meal plan for upcoming interviews, would you like to schedule next meal or receive interview advice?"
 
@@ -414,13 +460,15 @@ Scan the customer, reading his suit, getting his profile from database, pulling 
 
 BACK TO SCENE
 
-AI (V.O.): (in French, with English subtitle) Le risque de diabète entre en conflit avec votre calendrier de promotion. Commande annulée. CV mis à jour et envoyé dans un e-mail groupé aux entreprises ciblées. Les retours sont positifs. Je peux également fournir un plan de repas adapté aux futurs entretiens. Voulez-vous planifier votre prochain repas ou recevoir des conseils d’entretien?
+AI (V.O.): (in French; subtitled) Le risque de diabète entre en conflit avec votre calendrier de promotion. Commande annulée. CV mis à jour et envoyé dans un e-mail groupé aux entreprises ciblées. Les retours sont positifs. Je peux également fournir un plan de repas adapté aux futurs entretiens. Voulez-vous planifier votre prochain repas ou recevoir des conseils d’entretien?
 
 SUBTITLE: Diabetes risk conflicts with promotion timeline. Order cancelled. Resume updated, and sent out in group email for company applications. The results are positive. I can also provide a meal plan for upcoming interviews, would you like to schedule next meal or receive interview advice?
 
 The customer blinks, startled. His phone buzzes, he checks it. Overlays the screen content on top of the scene: resume status notification, demanding texts from his boss, reach-out message from recruiters, interview confirm email, onsite invites email, all kinds of notifications.
 
 The customer looks toward the Eiffel Tower in silent disbelief. His life's just ruined -- or saved, who knows.
+
+#### C) Tokyo reman shop
 
 > Customer stares blankly at the screen (in a Tokyo roman shop, with cherry blossom and Japanese style sceneries outside window). AI (in Japanese): "You're thinking of your ex. Her number is deleted from your contact list. And the phone numbers for the young ladies over there are added. Initial greeting messages and invites for them to come over your house this weekend are sent. New orders of king-size beds and matching luxurious sofa are placed for leaving good impression and providing more potential opportunities. Orders completed with your credit card on record. I think soup would be good for tonight. Would you like to continue ordering or receive activity suggestion for tonight?" (Customer's in humble-looking clothes)
 
@@ -440,13 +488,13 @@ BACK TO SCENE
 
 The man still stares at the menu, not knowing to do or order.
 
-AI (V.O.): (in Japanese, with English subtitle) 元カノのことを考えていますね。連絡先から彼女の番号は削除しました。あちらの若い女性たちの番号を追加しました。今週末、お宅に招く初回メッセージも送信済みです。
+AI (V.O.): (in Japanese; subtitled) 元カノのことを考えていますね。連絡先から彼女の番号は削除しました。あちらの若い女性たちの番号を追加しました。今週末、お宅に招く初回メッセージも送信済みです。
 
 SUBTITLE: You're thinking of your ex. Her number is deleted from your contact list. And the phone numbers for the young ladies over there are added. Initial greeting messages and invites for them to come over your house this weekend are sent.
 
 The customer turns slowly to glance at a group of giggling woman at the other end of the shop.
 
-AI (CONT'D): (in Japanese) キングサイズのベッドとマッチングの豪華なソファの新しい注文は、良い印象を残し、より多くの潜在的な機会を提供するために配置されています。記録上のクレジットカードを使用して注文が完了しました。今夜はスープがいいと思います。今夜の注文を続けたり、アクティビティの提案を受けたりしませんか？
+AI (CONT'D): (in Japanese; subtitled) キングサイズのベッドとマッチングの豪華なソファの新しい注文は、良い印象を残し、より多くの潜在的な機会を提供するために配置されています。記録上のクレジットカードを使用して注文が完了しました。今夜はスープがいいと思います。今夜の注文を続けたり、アクティビティの提案を受けたりしませんか？
 
 SUBTITLE: New orders of king-size beds and matching luxurious sofa are placed for leaving good impression and providing more potential opportunities. Orders completed with your credit card on record. I think soup would be good for tonight. Would you like to continue ordering or receive activity suggestion for tonight?
 
@@ -459,6 +507,8 @@ SUBTITLE: No! NO! NOOO!!!
 Credit card used text message start popping up on his phone. He slumps forward slightly, defeated, silent.
 
 A soft DING SOUND. A bowl of steaming miso soup slides into frame.
+
+#### D) rebellion
 
 > Customer tries to reject suggestion -- credit score drops, neighbors/friends/passers-by on street look at them weirdly, their own body system doesn't react well with other food. Has to go back to the AI's suggestion, AI: "We're glad to see you understand our care and concern. We only want the best for you."
 
@@ -506,6 +556,8 @@ He panics, rushing back to the kiosk, tapping frantically, taking that grilled k
 
 AI (V.O.): (gentle, soothing) We're glad to see you understand our care and concern. We only want the best for you.
 
+#### E) integration
+
 > Customer drinks juice, eyes dilated, unfocused. CGI shows nanobots injected through drink. Their pupils turn to electric blue loading circle. Message on screen shows: "Integration in progress." Customer themselves speak in AI voice: "Integration complete. You are now compliant with Optimal Health Everywhere Program. Congratulations."
 
 INT. FAST FOOD RESTAURANT - BOOTH - DAY
@@ -533,6 +585,8 @@ Customer looks down at the tablet, which doesn't have the blue lights. The black
 CUSTOMER: (looks at his own reflection) Integration complete. You are now compliant with the Optimal Health Everywhere Program. Congratulations!
 
 He smiles unnaturally at his own image.
+
+#### F) home cook
 
 > Customer cook at home. themselves speak in AI's voice: "Carbon and fat consumption is near threshold, it's recommended to use low-sugar milk for replacement. Next dentist appointment is scheduled for March 5th, next diabetes examination is scheduled for April 10th. PTO requests are sent for both days. Dentist appointments and diabetes examination for your kids and partner are scheduling in progress, please wait briefly while I confirm with nearby availabilities." their POV is like AI's POV, analysis vision on the food, show their pupil has electric blue analyzing circle, same as every time AI operates
 
@@ -687,11 +741,7 @@ CAMERA VIEW switching from the spokesperson looking at cameras on set, to the ac
 
 SPOKESPERSON: Welcome to the future of eating. Introducing... TasteWise -- the intelligent restaurant assistant that <u>knows</u> you better than you know yourself.
 
-LOGO REVEAL:
 
-"TasteWise -- Eat Better. Live Better. Only the Best for you."
-
-CUT TO:
 
 ### Act 1: Tier 1
 
@@ -709,7 +759,7 @@ D) ...
 
 E) ...
 
-SPOKESPERSON: "TasteWise Basic -- it's not just smart. It's caring for you, thinking for your choices at every step of your journey."
+SPOKESPERSON: "TasteWise Basic -- it's not just smart. It's caring for <u>you</u>, thinking for <u>your</u> choices at every step of your journey."
 
 CUT TO:
 
@@ -761,9 +811,9 @@ D) ...
 
 SPOKESPERSON: (over enthusiastic tone) Don't forget to opt in our Optimal Health Everywhere Program, where TasteWise never leave you.
 
-A) ...
+E) ...
 
-B) ...
+F) ...
 
 SPOKESPERSON: (walking, escalating proud smile) From taste, to trust, to complete integration. TasteWise cares for you in every aspects of your life, every moment, everywhere. We makes your life better.
 
@@ -785,13 +835,13 @@ LOGO AGAIN: TasteWise™ -- Eat Better. Live Better. Only the Best for You.
 
 ROLLING CREDITS
 
-Producers --
+Producers -- xxx
 
-Writers --
+Writers -- xxx
 
-Casts --
+Casts -- xxx
 
-Staffs --
+Staffs -- xxx
 
 CUT TO BLACK.
 
@@ -923,17 +973,221 @@ Cut to black.
 
 ### Act 1-1: Tier 1 positive
 
+(directly start with Tier 1 example scenes. See "Tiers" scripts, without marking ABCD, here just to help noting which ones to use; show as if all just what's been happening in the restaurant, normal operations)
+
+A) ...
+
+B) ...
+
+C) ...
+
+(after the last case's last scene:)
+
+CUT TO:
+
+LOGO REVEAL:
+
+"TasteWise -- Eat Better. Live Better. Only the Best for you."
+
+SALESPERSON (O.S.): (cheerful, confident) In a world where food choices are endless... and customer satisfaction is fleeting... TasteWise is revolutionizing the way people eat. Gone are the days of guesswork, impulse orders, and post-meal regret. TasteWise seamlessly integrates into your business -- analyzing preferences, optimizing the food choice, and personalizing the orders. Your customers don't just eat. They thrive. As the old saying goes, "Happy customer, happy life."
+
+INT. SMALL FAST FOOD RESTAURANT OFFICE - DAY
+
+The CAMERA ZOOMS OUT from previously frozen-frame, bright, polished, seemingly real-life scene -- turns out it's a TasteWise commercial, currently playing on a tabletop screen. The glowing logo lingers onscreen as the SALESPERSON continues the speech.
+
+Once he finishes the previous speech, he looks expectedly at the the STORE OWNER. We see this is a classic small diner office. Stacks of receipts, a faded health inspection certificate, a crusted coffee mug. The store owner, in a stained apron, leans back in his chair with arms crossed. He stares at the screen, vaguely intrigued, still a little reluctant.
+
+SALESPERSON: (leans forward, upbeat, earnestly) Now, I know what you're thinking. It sounds too good to be true, right? But that's the thing -- it works. This isn't just a gadget, it's a partner. An assistant who never sleeps, never complains, and always knows what's the best for the customers. To sweeten the deal, we now offer limited-time free install. The device can be installed anywhere you want. And if you're unsatisfied with the product, we offer thirty-day free cancellation, free return, no question asked. What do you say?
+
+The store owners stands slowly, shakes the salesperson's hand, still eyeing the commercial screen with the logo with suspicion.
+
+STORE OWNER: (low) Don't make me regret this.
+
+SALESPERSON: You won't. Welcome to the future of eating.
+
 ### Act 1-2: Tier 1 negative
+
+INT. FAST FOOD RESTAURANT - EARLY MORNING
+
+AN INSTALLATION TECHNICIAN finishes rewiring something on the self-ordering kiosk, placing a small black speaker box looking device on top of the kiosk. The store owner watches him
+
+INSTALLATION TECHNICIAN: (re: speaker box, smile, a little sweaty) There you go. It's all installed now.
+
+An electric blue circle start loading.
+
+AI (V.O.): Thank you for trusting TasteWise. Eat Better, Live Better, We only offer the best for you.
+
+D) ...
+
+E) ...
+
+A) ...
+
+(scene with unhappy customers, right after the man pregnancy case)
+
+The man shocked, frozen. Glancing down at himself.
+
+MAN: (confused) But I'm not -- (outrageous) This is humiliating! Who's the manager?! What the hell is this?!
+
+The store owner rushes over from the kitchen, wiping hands on apron, trying to de-escalate.
+
+STORE OWNER: (hurriedly) I'm sorry, sir -- there must've been a mistake. We've got a new system, it's --
+
+MAN: Yeah, your system told me to schedule a C-section! I came here to eat, not get judged by a freaking smart toaster!
+
+The man throws the receipt on the counter and storms out. A few other patrons look up uneasily, looking like they starting to feel more or less same and related.
+
+The store owner watches the door close... then slowly exhales, jaw clenched. Snaps the speaker box off the kiosk. Marches into the back office.
+
+INT. BACK OFFICE - CONTINUOUS
+
+The store owner throws the speaker box on the table, picks up a phone and dials.
+
+STORE OWNER: I want it out. That thing just lost me a customer and half the kitchen doesn't like it. Cancel it. Take it back.
 
 ### Act 2-1: Tier 2 positive
 
+INT. BACK OFFICE - DAY
+
+The office setting looks the same as before, time might have passed but not significantly. The salesperson is now in the office with the store owner.
+
+The salesperson taps on his tablet, gesturing at the removed speaker box without looking.
+
+SALESPERSON: (apologetic, but confident) I see what the problem is. The truth, you've only scratched the surface. What you've experienced is a flaw known to our TasteWise Basic system. It's introductory level, with limited information, that's all it can do. But with TasteWise Plus, you get a full emotional analytics, dietary balance scoring, tone modulation, discreet intervention prompts, and larger coverage. It even has global support, if you ever thought about expanding the business worldwide, TasteWise Plus is ready. It offers the best choice for the customers, and it is more smart with how to ensure people love it.
+
+He swipes the tablet, turning it to the store owner. Showing --
+
+D) ...
+
+E) ...
+
+SALESPERSON: More features. More finesse. Fewer mistakes. And best of all, since you are our valued customer, we offer free upgrade for your system if you are willing to shake on it now.
+
+STORE OWNER: Few mistakes.
+
+SALESPERSON: Absolutely.
+
+The store owner shakes his hand grudgingly.
+
 ### Act 2-2: Tier 2 negative
+
+INT. BACK OFFICE - DAY
+
+The installation technician types on a laptop. The display shows the TasteWise set up page, it loads with a glowing UI. A loading bar reads: "Installing: TasteWise Plus™ | Integrating Environment... "
+
+CAMERA SWEEPS ACROSS the restaurant interior. Digital panels flicker to life on wall-mounted displays, showing the same electric blue circle lights. So are the kiosks.
+
+BACK TO LAPTOP SCREEN
+
+The website page now blips: "New Devices Detected → Connected → Upgrade Confirmed"
+
+At last, at the same time on the kiosk and counter screens and all the screens in the store, a sick blue circle pulses gently. Text appears with TasteWise logo: "TasteWise Plus is now online. Eat Better. Live Better. Only the Best for you."
+
+(several use case scenes)
+
+B) ...
+
+C) ...
+
+A) ...
+
+(right after the last scene)
+
+INT. RESTAURANT - OWNER'S OFFICE - MOMENTS LATER
+
+The customer bursts in, furious.
+
+CUSTOMER: Y'all think you can just take food out of people's mouths now?! I can't eat anywhere else?! A flying robot stole my dinner! MY DINNER!
+
+STORE OWNER: (tries to calm him) Okay, I'm sorry, please, let's just --
+
+CUSTOMER: I'm reporting you to the health department, to the city, to whoever will listen! I didn't sign up for some calorie-counting airstrike!
+
+He slams the door on his way out, rattling everything.
+
+Silence.
+
+The store owner stares after him, the slowly turns toward the TasteWise-enabled laptop glowing quietly on his desk. He exhales heavily, unplugging the power cable.
+
+Beat.
+
+He picks up the phone.
+
+STORE OWNER: That's it. I want it gone! Uninstalled! Completely! Remove it from everything, all my terminals, and bloody drones! This thing is out of control.
 
 ### Act 3-1: Tier 3 positive
 
+INT. OWNER'S OFFICE - LATER
+
+The salesperson is in the office across the table to the store owner. Same rehearsed calm smile.
+
+SALESPERSON: Look -- look, I get it. The Plus tier can be... assertive. (pulls out a small tablet, swipes through screens quickly) I wasn't going to show you this yet... but you're clearly a premium-tier operator. We are currently actively developing TasteWise Infinity. See for yourself.
+
+B) ...
+
+C) ...
+
+SALESPERSON: It's something bigger, smarter, limitless. The feature is still in beta-testing stage. You can be among one of the very few selective beta stores to benefit its full complete future before it's launched publicly to the market. With no extra upgrade expense. Only needs to agree with a few terms, and opt in with our Optimal Health Everywhere Program for the full complete experience, where TasteWise never leaves you. The potential of TasteWise Infinity is limitless, mind-blowing. One-time deal. I walk out of here, you'll never get a better deal than this. What do you say?
+
+The store owner smiles constrainedly, shaking hands with the salesperson.
+
 ### Act 3-2: Tier 3 negative
 
+INT. RESTAURANT - DAY
+
+The installation technician comes with a large bottle of juice, pours into their juice machine.
+
+INSTALLATION TECHNICIAN: There you go. Easiest upgrade. All you need is one drop.
+
+E) ...
+
+F) ... (adjust to kitchen staff, and customer automatically order healthy food for themselves)
+
+INT. OWNER'S OFFICE - DAY
+
+STORE OWNER: (horrified) No, no, no, what demon deal you just sold me? What are you feeding my customers with? Stop it!
+
+INTERCUT WITH:
+
+INT. SALESPERSON'S OFFICE - DAY
+
+Futuristic-looking office. The salesperson sits in his cube, taking the phone call. He sits super straight. With electric blue circle loading in his eyes.
+
+SALESPERSON: (calmly) Have you tried it yourself?
+
+STORE OWNER: Of course not! I'm not out of my mind!
+
+SALESPERSON: Please take a drink. Rest assured everything is going to be only the best and perfect.
+
+The store owner suspiciously approach the drink stand. The installation technician offers him a cup of the juice. He drinks it. His eyes start loading with that AI blue lights.
+
+STORE OWNER: You're right. TasteWise Infinity is indeed, the only best thing we'll ever need. Eat Better. Live Better. Only with TasteWise.
+
 ### Post-credit easter egg
+
+INT. ALIEN SPACESHIP CHAMBER - UNKNOWN TIME
+
+FROZEN FRAME on the last scene when the store owner finishes saying the logo line. The CAMERA slowly PULLS BACK -- it turns out that everything we see up until this moment is a video clip displaying on an alien holographic display. After the store owner finishes, the screen shifts to black, with a message showing up, reads: "TasteWise -- Start Small. Dream Big. Take over planets within a blink."
+
+Two octopus-looking ALIENS sit across from one another at a translucent crystalline table. They're strange and elegant. Name tags hover in their native glyphs -- then shimmer into subtitles:
+
+X'LL-7 (Sales Division)
+
+GHORL (Sector Acquisition Lead)
+
+GHORL: (garbled alien speech; subtitled) Promising. Shall we seal the deal?
+
+X'LL-7: (nods, indistinct utters; subtitled) Expansion protocols already embedded. The product is compliant.
+
+They shake their tentacles, looking through the spaceship window together. Outside the window, a blue-green planet floats in the space.
+
+Suddenly, the display glitches -- brief static bursts, warping the video feed. The TasteWise logo appears again -- but this time in jagged alien glyphs, pulsing with cyberpunk neon. The logo distorts, blinks, the smoothly morphs into Latin characters: "TasteWise."
+
+One last glitch.
+
+CUT TO BLACK.
+
+THE END.
 
 # Ver 3 - product in use
 
