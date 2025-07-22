@@ -15,7 +15,7 @@ origin: 个站
 
 然后我醒来，我看了眼手机，我看了眼时间，这就是所有的让我彻底遗忘了她的动作，现实入侵了梦的记忆。我回到了这个世界。一个人。那个世界感觉是那么的真实，她是那么的真实，感觉那一定是真实存在的世界，这是我在另一个世界拥有的，或是在已经遗忘的过去曾经的另一段生命里曾经拥有过的。
 
-就像非常最近的看见过的Northern Sparrow老师在汤不热上发的感想：
+就像非常最近的看见过的Northern Sparrow老师在汤不热上发的[感想](https://www.tumblr.com/northern-sparrow/178684831602)：
 
 > WHAT IF, what if there were another timeline once, one where you met the love of your life and fell passionately madly in love, and there was a fulfillment, a companionship, the look in their eyes, the feel of their hair, the feel of them lying in the night beside you - BUT something terrible happened. Something bad. Aliens invaded or demons burst out of the gates of hell or the great plague struck or maybe you just got cancer, and you were suffering and dying, and the love of your life found a way to save you: shunt the universe to an alternate timeline where the love of your life was never born and the aliens never invaded and the demons never burst out of the gates of hell and the great plague never struck and the cancer never happened. “She’s better off without me,” thought the love of your of life, “she’ll find someone else. She’ll live. She’ll live. This is better.” - and they flipped the switch.
 >
