@@ -358,6 +358,8 @@ The music that accompanies the creation of this story is Sting's 1987 song "Engl
 
 ### Banner
 
+![](https://64.media.tumblr.com/87c55dfbd7bc260c5e83e32d3e8c24b1/486973a57ed6daee-db/s2048x3072/790eaa8b9ff809d7c5d849101eff5001d8fa8e64.jpg)
+
 ### Art
 
 ## Editing notes
