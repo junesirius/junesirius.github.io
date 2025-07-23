@@ -6,7 +6,7 @@ categories: 星球大战
 characters: ["Anakin Skywalker", "Obi-Wan Kenobi"]
 tags: ["星球大战", "obikin", "英文"]
 pov: 第三人称
-origin: Obikin Reverse Bang 2025
+origin: 2025 Obikin Reverse Bang
 ---
 
 (Tags: canon divergent, slow burn, get together, choose each other every time, rebellion, artist for liberation, fight for freedom, rebel against empire)
