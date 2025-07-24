@@ -242,21 +242,21 @@ It is near noon now.
 
 The view shifts so much compared to curfewed nights he can barely remember it's the same place. The walls are still covered with colorful markings and doodles, but with pedestrians dressed in exotic cloth from so many different planets, it's hard to tell apart which colors are stationary on the walls, which ones moving with the local people.
 
-Obiwan steps closer to the walls, standing before one, watching it closely.
+Obi-Wan steps closer to the walls, standing before one, watching it closely.
 
 He doesn't know much about art, or painting, or whatever style this may be called in academia -- abstractionism or something along the line -- he just hopes the observation can give him some answer of where to locate the mysterious number-one-wanted graffiti artist.
 
 The longer he stares, the more sense those characters and patterns seem to be presenting themselves. He thinks he can spot a few repetitive pattern with certain combination of colors and characters. But it could also be coincidences that his mind is just making up theories he wishes to see.
 
-Encryption and decryption isn't his best school work, nor is art. Obiwan sighs, taking out his personal hologram, starts taking record of these arts to take back for analysis in the Jedi library computer later.
+Encryption and decryption isn't his best school work, nor is art. Obi-Wan sighs, taking out his personal hologram, starts taking record of these arts to take back for analysis in the Jedi library computer later.
 
 He doesn't realize the way his feet was taking him leads him to the bar that almost caused that fight with the locals before.
 
-Obiwan halts his steps sharply in front of the bar, ready to take a turn. It is at this exact moment, a figure emerges from the exit door, almost bumping right into him.
+Obi-Wan halts his steps sharply in front of the bar, ready to take a turn. It is at this exact moment, a figure emerges from the exit door, almost bumping right into him.
 
 "I'm sorry," a familiar, young voice says.
 
-Obiwan looks up at his face. "It's you."
+Obi-Wan looks up at his face. "It's you."
 
 That reckless, defiant, young boy with blue eyes glares back at him. "You again."
 
