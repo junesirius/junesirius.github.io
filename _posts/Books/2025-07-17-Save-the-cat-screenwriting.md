@@ -1,13 +1,15 @@
 ---
 layout: post
-title: 【摘录】《Save the Cat: The Last Book on Screenwriting That You'll Ever Need》
+title: 【摘录】《Save the Cat (Screenwriting)》
 date: 2025-07-17 00:29
 categories: 读后感
 characters: ["Blake Snyder"]
-tags: ["摘录", "剧本", "写作", "英文"]
+tags: ["摘录", "剧本", "写作", "英文", "待扩充"]
 pov: 第三人称
 origin: 个站
 ---
+
+《Save the Cat: The Last Book on Screenwriting That You'll Ever Need》
 
 [TOC]
 
