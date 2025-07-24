@@ -258,8 +258,14 @@ She doesn't have an answer.
 
 There is no answer.
 
+<br><br>
+
+**END**
+
 <br>
 
+<hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
+<br>
 **After work notes:**
 
 (The Star Wars-themed bar and drink description comes from my experience at [Oga's Cantina](https://disneyworld.disney.go.com/dining/hollywood-studios/ogas-cantina/menus/dinner/) in Disney World Orlando. It was mind-blowing, everyone interested in an immersive experience should have a try there.)
