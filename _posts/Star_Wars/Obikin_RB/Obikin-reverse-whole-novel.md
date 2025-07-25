@@ -308,9 +308,131 @@ Obi-Wan: "not set in stone"
 
 Obi-Wan is tasked to clean out lower Coruscant instability sources
 
-### Chap 3 (Trap)
+### Chap 3 (Trick)
 
-> Obi-Wan runs into Anakin again. Anakin join/form/lead secret rebel force, starting with childhood friends, advocating rebellion with graffiti art. Obi-Wan notices Anakin's Jedi potential, impressed, starts swaying, chases around, starts to appreciate the art (graffiti actually are code words for assemblies, words/certain color combinations have special meanings, they have a set of secret word, red+some shape=danger, purple/yellow=drop everything and run, blue=safe, green+certain keyword=next meeting time/location and proceed as usual), gets tricked to underground rebellious meeting (Obi-Wan thinks he starts able to decode the message, but actually they purposefully leave the hint)
+> Obi-Wan runs into Anakin again. Anakin join/form/lead secret rebel force, starting with childhood friends, advocating rebellion with graffiti art. Obi-Wan notices Anakin's Jedi potential, impressed, starts swaying, chases around, starts to appreciate the art (graffiti actually are code words for assemblies, words/certain color combinations have special meanings, they have a set of secret word, red+skeleton=danger, purple/yellow=drop everything and run, blue=safe, green+certain keyword=next meeting time/location and proceed as usual), gets tricked to underground rebellious meeting (Obi-Wan thinks he starts able to decode the message, but actually they purposefully leave the hint)
+
+Obiwan ends up not sending the images of the graffities to the Jedi library for analysis. He chooses to sit down before the painted walls, and starts studying them on his own. He can't explain why he's doing all that.
+
+He doesn't even go back to the Upper Level for his daily check-in reports. Merely sending in messages to say he's in the undercover task, he'll be in touch when convenient.
+
+The Emperor seems pleased that he's been spending all his time down here, while he suspects Count Dooku might not be so patient. He doesn't have much time -- to either figure out what's happening in the Lower Level, and fixing the situation by himself, or probably having to watch others to come down here fixing it for him, which includes fixing *him*.
+
+Obiwan takes a long breath, pulling his thought back to the graffiti arts. He thinks he's getting closer.
+
+The art is very expressional and artist, to say the least. But now he's also fairly certain they're also equally informational. The Emperor's suspicion on it being a sign of rebellion's existence might not be entirely unreasonable.
+
+There are certain color and word combinations that've been repeatedly spotted from different part of the streets, followed closely by a different set of color and unrecognizable characters, usually in green and blue. And if the leading combination is in red and has a skeleton or skull somewhere around, no matter how small they are, then no more mysterious characters.
+
+Obiwan thinks he's starting to get the whole language system in the art, if only he can find a decoder ring to fill in the remaining gap.
+
+And the opportunity presents itself quicker than he knows.
+
+<br>
+
+On the third day after he knows Anakin's name, he runs into the boy again. And this time, he catches him right on the crime scene.
+
+Obiwan is examining a back alley where a new set of painting has been freshly added. Judging by the undried paint, he'd guess whoever did this -- even if he knows it must be Anakin, he's still leaving the space for reasonable doubt -- they can't be far. Those new graffities are at most two hours old, the tail of the stroke is rushed with smudgeable blue.
+
+He follows the only way where that alley leads, and sees Anakin busy working on a new pattern just a block away. He holds a spray can and the paint lands on the wall with a curve.
+
+Obiwan dashes toward him quietly, but Anakin already senses his approach like a cat hearing human's footsteps.
+
+The boy seems surprised to see him there, but as soon as his eyes land on Obiwan, there is a small mischievous smile on his lips. He doesn't bother collecting the cans at the foot of the wall, just turning to the tail of the alley and running.
+
+Obiwan picks up his pace to follow him closely.
+
+The Lower Level, if nothing else, is a perfect place for hide and seek. And Anakin has clearly spent enough time here to know all the small turns and hideouts and hidden doors.
+
+Within five minutes, Obiwan finds himself in the middle of a residential area, surrounded by houses with closed windows and doors. Anakin could have been hidden in any one of them, or he might already escape to the other end of this Level, maybe even to a different Level, if he wants. Obiwan would have to knock on every door to be sure, and if that comes out with empty hands, he might as well dig the whole Level's ground to be able to find him again.
+
+Obiwan goes back the way he comes.
+
+Even those scattered cans on the foot of the wall have been taken. Anakin must have come back when he manages to get rid of Obiwan's trail. The boy is good, Obiwan has to give him that.
+
+He studies the new graffiti instead. The pattern that he remembers seeing blue is now covered by a red skeleton. A strong stroke of purple mixed with some dark yellow crosses out something that was probably green down there, the letters of the unknown language is now completely indistinct.
+
+Looks exactly like a warning notice and something like an evacuation order that cancelled a previously scheduled assembly because something dangerous has happened. OH. Obiwan realizes suddenly. Something dangerous like a Jedi has been in sight. Him.
+
+They have a communication system to warn about his route, that must be why it's been so difficult to even spot a foot track of Anakin. And if they have been going through all these trouble just to hide something from him, then there must be something utterly serious that needs hidden. Something bigger than just some graffiti art.
+
+The Emperor's suspicion of a rebel force might just be on the right track.
+
+If only he can be sure.
+
+Obiwan glances down at the ground, looking for more leads.
+
+And there, on the ground, among dirty paper tissues and other trashes, is a small booklet. Almost look like also some piece of trash, but the same kind of disturbance when he senses around Anakin also surrounds the booklet.
+
+Obiwan picks it up and starts reading. What he finds out inside makes his eyes widened.
+
+Inside, it's the exact translation guidance he wishes to find, about the meanings of the symbols on the wall.
+
+Not all of them, it seems, when he cross-compares the symbols in front of him with the patterns in the booklet. But enough to making sense and understanding the crucial information.
+
+The red and skeleton or skull is a warning sign, just as he concluded. The combination of purple and that certain dark yellow means "drop everything and run." That greenish blue means safe, and the symbols with that color points to a location and a time. For a next meeting, undoubtedly.
+
+"It's too careless to drop this, Anakin," Obiwan murmurs to the booklet, wondering if it's because this time he's already too close to catching him, and the boy was running in a fluster escape.
+
+He takes the booklet with him and starts looking for their next assembly plan.
+
+He does not report the finding, though, telling himself he'd report once he's found something more solid.
+
+<br>
+
+Their next assembly will be in the basement of a deserted factory, three hours before the curfew on a Friday afternoon.
+
+Obiwan finds the latest piece of graffiti with the announcement, and thanks to the booklet, he reads it like looking into words written in plain common language. And with bright colors and powerful strokes, the art is practically shouting "Freedom" and "Rebel," and some really strong words regarding the Empire. If the Upper Level ever finds out the true meaning of these arts, anyone involved would get electricuted. No question asked.
+
+Obiwan almost feels glad that at least among everyone from security and guarding forces, he's the one tasked for this and finding out what they're plotting.
+
+The back door of that deserted factory is loosely opened when he arrives, an hour before the assembly starts. He sneaks in easily.
+
+The place is dark and shabby, much like all the constructions in this Level nowadays. But in the middle of the ground, there is a big enough opening for people to gather and perhaps have some treacherous discussions, maybe even some bold movement against the Empire -- for which he can snuff out the bud of an rebellion against the Empire now that he's here.
+
+Obiwan finds a corner behind a broken column to hide behind, waiting patiently for the assembly to start.
+
+An hour passes.
+
+And then the second hour.
+
+The space is getting darker as it comes closer to the night time.
+
+Only when Obiwan starts doubting if he's really translating those patterns correctly, or the booklet is lying, people start walking in.
+
+But instead of hearing a radical, reactionary, bolshy assembly as he expected, those people start talking about the tough lives civilians were living nowadays under the Empire's military control, the suffocating atmosphere that stifle any creative expressions, the assistance each one of them can provide for one another, and most of all, how they can make people's life better.
+
+They are kind, and friendly, and calm. Only when they talk about their neighbors' starved kids or sick elderlies do they sound emotional, sobbing quietly in unshed tears.
+
+Obiwan swallows hard as he listens.
+
+These are just people. He thinks, behind the column, in the shadow he hides. These are just ordinary people trying so hard to have a life, and the Empire is squeezing their living space.
+
+He doesn't realize since when has he started clenching his fist, or what's that for. He forces his fist to relax, and continues listening. He's still a Jedi for this galaxy, after all. Surely maintaining a peaceful galaxy is more important than one poor kid or one old man. His job tonight is still to follow the order and arrest the dangerous rebel force, who has a young voice and a familiar figure.
+
+Obiwan stares at the boy -- a young man actually, he looks more like a leader now, standing before the group, soothing them with soft voice, giving them instructions of how to fix some of the difficulties. Anakin is still in his art-smudged clothes, but the whole vibe radiating from him seems so different -- less artist in a dreamy naughty way, but a responsible figure that actually cares about people, helps people. Except, he *is* a rebellion force now, from the Empire's perspective. There is no defense for that.
+
+Obiwan bites his lips. Is he really having to take him in?
+
+His hands are clenched into fists with white knuckles again.
+
+He's so focused in his thoughts now he almost doesn't realize since when has their conversation stopped. The people stop talking, but they're also not leaving.
+
+Obiwan wonders what's their next move is going to be, when the young voice echoes in the space, loud and clear: "How long are you planning on staying there, Jedi Master Kenobi?"
+
+<br>
+
+#### draft notes
+
+**flashback casual mention introduce past events:** ep2 timeline, Palpatine started clone war, had Jedi and senate all in control. ep3 timeline (current, 19 BBY), Palpatine becomes emperor, all uncooperative Jedi were persecuted or went hiding (e.g. Yoda/Windu disappeared) (=canon Order 66), remaining Jedi mostly get brainwashed/forced to become Palpatine's personal police force. Without Anakin, Dooku is still alive so far, active in conducting Palpatine's orders.
+
+Anakin join/form/lead secret rebel force, starting with childhood friends, advocating rebellion with graffiti art
+
+### Chap 4 (Choice)
+
+> Obi-Wan knows about rebel force, is given the option of join them and fight against emperor and very likely die, or comply with Jedi brainwash doctrine and fight against rebels, neither know if he'd get harmed by rebels or he'd win and bring Anakin in, which would likely cause Anakin executed by Dooku.
+>
+> Obi-Wan's decision point, has to choose a side. He chooses them, is let go. start with only small help/subtle sign of slipping to their side, e.g. a few times when chasing around he actually already run into Anakin/could have arrested him but deliberately pretend as if missed. slow(/steep?) slip, every decision point actually all chooses Anakin, very clear starting to change side
 
 
 
@@ -322,23 +444,11 @@ Obi-Wan is tasked to clean out lower Coruscant instability sources
 
 #### draft notes
 
-> Obi-Wan runs into Anakin again. Anakin join/form/lead secret rebel force, starting with childhood friends, advocating rebellion with graffiti art. Obi-Wan notices Anakin's Jedi potential, impressed, starts swaying, chases around, starts to appreciate the art
->
-> (graffiti actually are code words for assemblies, words/certain color combinations have special meanings, they have a set of secret word, red+some shape=danger, purple/yellow=drop everything and run, blue=safe, green+certain keyword=next meeting time/location and proceed as usual)
->
 > gets tricked to underground rebellious meeting (Obi-Wan thinks he starts able to decode the message, but actually they purposefully leave the hint)
-
-**flashback casual mention introduce past events:** ep2 timeline, Palpatine started clone war, had Jedi and senate all in control. ep3 timeline (current, 19 BBY), Palpatine becomes emperor, all uncooperative Jedi were persecuted or went hiding (e.g. Yoda/Windu disappeared) (=canon Order 66), remaining Jedi mostly get brainwashed/forced to become Palpatine's personal police force. Without Anakin, Dooku is still alive so far, active in conducting Palpatine's orders.
-
-### Chap 4 (Choice)
-
+>
 > Obi-Wan knows about rebel force, is given the option of join them and fight against emperor and very likely die, or comply with Jedi brainwash doctrine and fight against rebels, neither know if he'd get harmed by rebels or he'd win and bring Anakin in, which would likely cause Anakin executed by Dooku.
 >
 > Obi-Wan's decision point, has to choose a side. He chooses them, is let go. start with only small help/subtle sign of slipping to their side, e.g. a few times when chasing around he actually already run into Anakin/could have arrested him but deliberately pretend as if missed. slow(/steep?) slip, every decision point actually all chooses Anakin, very clear starting to change side
-
-<br>
-
-#### draft notes
 
 some talk about trust issue, Anakin trusts his intuition, trusts Obi-Wan
 
