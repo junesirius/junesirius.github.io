@@ -326,7 +326,7 @@ The Emperor seems pleased that he's been spending all his time down here, while 
 
 Obi-Wan takes a long breath, pulling his thought back to the graffiti arts. He thinks he's getting closer.
 
-The art is very expressional and artist, to say the least. But now he's also fairly certain they're also equally informational. The Emperor's suspicion on it being a sign of rebellion's existence might not be entirely unreasonable.
+The art is very expressional and artistic, to say the least. But now he's also fairly certain they're also equally informational. The Emperor's suspicion on it being a sign of rebellion's existence might not be entirely unreasonable.
 
 There are certain color and word combinations that've been repeatedly spotted from different part of the streets, followed closely by a different set of color and unrecognizable characters, usually in green and blue. And if the leading combination is in red and has a skeleton or skull somewhere around, no matter how small they are, then no more mysterious characters.
 
