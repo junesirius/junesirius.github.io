@@ -164,9 +164,9 @@ early on: mention both Obi-Wan and Anakin have blue eyes, Obi-Wan is more grey b
 
 ### Chap 2 (Chase)
 
-> Obiwan notices graffities for the first time, reports to Emperor, gets tasked to find who the artist is and arrest them, otherwise Dooku will personally come for them 
+> Obi-Wan notices graffities for the first time, reports to Emperor, gets tasked to find who the artist is and arrest them, otherwise Dooku will personally come for them 
 >
-> Obiwan runs into Anakin a second time, but doesn't arrest him (excuse: not enough proof)
+> Obi-Wan runs into Anakin a second time, but doesn't arrest him (excuse: not enough proof)
 
 The Lower Level isn't just one single level, or anything close to just a button on an elevator panel that is placed at the bottom of all the levels.
 
@@ -196,7 +196,7 @@ There is something different about Level Five, he senses it as soon as he steps 
 
 The street walls are not barren and grey. Not the dirty color with occasional red and black smudges that look like nothing other than dried blood.
 
-However, in here, the walls are unbelievably colorful, with bright colors scattering all over the color spectrum, as if painting palettes for rainbows are poured onto the walls. There are words and sentences too, together with graffities of cartoonized figures, exaggerated creations, images of random creatures, symbols that aren't any known language to his knowledge. The end of brushes are almost always rushed, with visible unclean stroke, as if whoever did this has to finish the thing in a tight time frame. 
+However, in here, the walls are unbelievably colorful, with bright colors scattering all over the color spectrum, as if painting palettes for rainbows are poured onto the walls. There are words and sentences too, together with graffities of cartoonized figures, exaggerated creations, images of random creatures, symbols that aren't any known language to his knowledge. The end of brushes are almost always rushed, with visible unclean stroke, as if whoever did this has to finish the thing in a tight time frame.
 
 Obi-Wan walks down the street, staring at those graffities with wide eyes. People are getting bold and reckless down here. That sense of disturbance in the Force is getting stronger the longer he looks at them. He fidgets uneasily as he examines them.
 
@@ -242,7 +242,7 @@ Obi-Wan breathes more easily and steadily with the artificial wind when he arriv
 
 The street comes to life when the morning comes.
 
-The night didn't give him much extra information, so Obiwan thinks he might as well wait until the day time to continue his investigation.
+The night didn't give him much extra information, so Obi-Wan thinks he might as well wait until the day time to continue his investigation.
 
 The view shifts so much compared to curfewed nights he can barely recognize it's the same place. The walls are still covered with colorful markings and doodles, but with pedestrians dressed in exotic cloth from so many different alien culture, it's hard to tell apart which colors are stationary on the walls, which ones moving with the local people.
 
@@ -266,35 +266,35 @@ Obi-Wan looks up at the face. "It's you."
 
 That reckless, defiant, young boy with blue eyes glares back at him. His eyes narrow with recognition, "You again, Jedi."
 
-"Jedi Master Kenobi," Obiwan can't help correcting him.
+"Jedi Master Kenobi," Obi-Wan can't help correcting him.
 
 "I remember," the boy smirks, looking right back at him, the same way he did last time. His cloth is more dirty than last time -- no, not "dirty," more colorful. More paints with the same set of bright colors on those walls has left marks and smudges on his thin shirt and cheap jacket. In his hands, he's holding a handful of spray cans.
 
-Obiwan's heart sinks when his eyes land on those. Yet somehow, he thinks he already knows it even before running into the boy again.
+Obi-Wan's heart sinks when his eyes land on those. Yet somehow, he thinks he already knows it even before running into the boy again.
 
 The boy follows his gaze and sees where his attention gets attracted to. He shifts his arms so the cans are half hidden behind his body.
 
-"I see you're interested in arts," Obiwan comments cautiously, glancing at the painted walls beside them. "Did you not hear the latest regulation announced last night? The street arts and graffities are strictly forbidden now."
+"I see you're interested in arts," Obi-Wan comments cautiously, glancing at the painted walls beside them. "Did you not hear the latest regulation announced last night? The street arts and graffities are strictly forbidden now."
 
-The boy quirks a smirking smile, "I wonder who did those arts, I'll make sure to let them know not to do that again." The silent challenge is more than loud enough for Obiwan to hear in his undertones: "You don't have proof it's me, that's why you're just standing here staring at me, what are you going to do, Kenobi?"
+The boy quirks a smirking smile, "I wonder who did those arts, I'll make sure to let them know not to do that again." The silent challenge is more than loud enough for Obi-Wan to hear in his undertones: "You don't have proof it's me, that's why you're just standing here staring at me, what are you going to do, Kenobi?"
 
-Which is exactly why Obiwan can't take him in now -- he'll need more proof than the cans to call the boy suspicious or guilty. He'll have to catch him in action or something of the kind.
+Which is exactly why Obi-Wan can't take him in now -- he'll need more proof than the cans to call the boy suspicious or guilty. He'll have to catch him in action or something of the kind.
 
-Obiwan can do nothing but glare at him.
+Obi-Wan can do nothing but glare at him.
 
 Another voice calls across the street: "Ani, you coming or not?"
 
 The boy's head jerks to the source of the voice. "In a minute," he yells back.
 
-Obiwan raises his eyebrows in a joyful beam. "So it's Ani."
+Obi-Wan raises his eyebrows in a joyful beam. "So it's Ani."
 
 "It's 'Anakin' to you," the boy snaps. "'Ani' is only for my friends."
 
-"Alright, Anakin," Obiwan says compliantly, voice more soft, glancing at the spray cans in his hands again. "Just so you know, whoever is painting those, I'll have to arrest them if I find them."
+"Alright, Anakin," Obi-Wan says compliantly, voice more soft, glancing at the spray cans in his hands again. "Just so you know, whoever is painting those, I'll have to arrest them if I find them."
 
 Anakin shrugs carelessly. "Then I'll make sure they are never found." He turns to catch up with his friends.
 
-Obiwan watches his back with a lump in his throat.
+Obi-Wan watches his back with a lump in his throat.
 
 He goes back to study the paintings for the rest of the day, and he doesn't run into Anakin for another three days.
 
@@ -312,19 +312,19 @@ Obi-Wan is tasked to clean out lower Coruscant instability sources
 
 > Obi-Wan runs into Anakin again. Anakin join/form/lead secret rebel force, starting with childhood friends, advocating rebellion with graffiti art. Obi-Wan notices Anakin's Jedi potential, impressed, starts swaying, chases around, starts to appreciate the art (graffiti actually are code words for assemblies, words/certain color combinations have special meanings, they have a set of secret word, red+skeleton=danger, purple/yellow=drop everything and run, blue=safe, green+certain keyword=next meeting time/location and proceed as usual), gets tricked to underground rebellious meeting (Obi-Wan thinks he starts able to decode the message, but actually they purposefully leave the hint)
 
-Obiwan ends up not sending the images of the graffities to the Jedi library for analysis. He chooses to sit down before the painted walls, and starts studying them on his own. He can't explain why he's doing all that.
+Obi-Wan ends up not sending the images of the graffities to the Jedi library for analysis. He chooses to sit down before the painted walls, and starts studying them on his own. He can't explain why he's doing all that.
 
 He doesn't even go back to the Upper Level for his daily check-in reports. Merely sending in messages to say he's in the undercover task, he'll be in touch when convenient.
 
 The Emperor seems pleased that he's been spending all his time down here, while he suspects Count Dooku might not be so patient. He doesn't have much time -- to either figure out what's happening in the Lower Level, and fixing the situation by himself, or probably having to watch others to come down here fixing it for him, which includes fixing *him*.
 
-Obiwan takes a long breath, pulling his thought back to the graffiti arts. He thinks he's getting closer.
+Obi-Wan takes a long breath, pulling his thought back to the graffiti arts. He thinks he's getting closer.
 
 The art is very expressional and artist, to say the least. But now he's also fairly certain they're also equally informational. The Emperor's suspicion on it being a sign of rebellion's existence might not be entirely unreasonable.
 
 There are certain color and word combinations that've been repeatedly spotted from different part of the streets, followed closely by a different set of color and unrecognizable characters, usually in green and blue. And if the leading combination is in red and has a skeleton or skull somewhere around, no matter how small they are, then no more mysterious characters.
 
-Obiwan thinks he's starting to get the whole language system in the art, if only he can find a decoder ring to fill in the remaining gap.
+Obi-Wan thinks he's starting to get the whole language system in the art, if only he can find a decoder ring to fill in the remaining gap.
 
 And the opportunity presents itself quicker than he knows.
 
@@ -332,27 +332,27 @@ And the opportunity presents itself quicker than he knows.
 
 On the third day after he knows Anakin's name, he runs into the boy again. And this time, he catches him right on the crime scene.
 
-Obiwan is examining a back alley where a new set of painting has been freshly added. Judging by the undried paint, he'd guess whoever did this -- even if he knows it must be Anakin, he's still leaving the space for reasonable doubt -- they can't be far. Those new graffities are at most two hours old, the tail of the stroke is rushed with smudgeable blue.
+Obi-Wan is examining a back alley where a new set of painting has been freshly added. Judging by the undried paint, he'd guess whoever did this -- even if he knows it must be Anakin, he's still leaving the space for reasonable doubt -- they can't be far. Those new graffities are at most two hours old, the tail of the stroke is rushed with smudgeable blue.
 
 He follows the only way where that alley leads, and sees Anakin busy working on a new pattern just a block away. He holds a spray can and the paint lands on the wall with a curve.
 
-Obiwan dashes toward him quietly, but Anakin already senses his approach like a cat hearing human's footsteps.
+Obi-Wan dashes toward him quietly, but Anakin already senses his approach like a cat hearing human's footsteps.
 
-The boy seems surprised to see him there, but as soon as his eyes land on Obiwan, there is a small mischievous smile on his lips. He doesn't bother collecting the cans at the foot of the wall, just turning to the tail of the alley and running.
+The boy seems surprised to see him there, but as soon as his eyes land on Obi-Wan, there is a small mischievous smile on his lips. He doesn't bother collecting the cans at the foot of the wall, just turning to the tail of the alley and running.
 
-Obiwan picks up his pace to follow him closely.
+Obi-Wan picks up his pace to follow him closely.
 
 The Lower Level, if nothing else, is a perfect place for hide and seek. And Anakin has clearly spent enough time here to know all the small turns and hideouts and hidden doors.
 
-Within five minutes, Obiwan finds himself in the middle of a residential area, surrounded by houses with closed windows and doors. Anakin could have been hidden in any one of them, or he might already escape to the other end of this Level, maybe even to a different Level, if he wants. Obiwan would have to knock on every door to be sure, and if that comes out with empty hands, he might as well dig the whole Level's ground to be able to find him again.
+Within five minutes, Obi-Wan finds himself in the middle of a residential area, surrounded by houses with closed windows and doors. Anakin could have been hidden in any one of them, or he might already escape to the other end of this Level, maybe even to a different Level, if he wants. Obi-Wan would have to knock on every door to be sure, and if that comes out with empty hands, he might as well dig the whole Level's ground to be able to find him again.
 
-Obiwan goes back the way he comes.
+Obi-Wan goes back the way he comes.
 
-Even those scattered cans on the foot of the wall have been taken. Anakin must have come back when he manages to get rid of Obiwan's trail. The boy is good, Obiwan has to give him that.
+Even those scattered cans on the foot of the wall have been taken. Anakin must have come back when he manages to get rid of Obi-Wan's trail. The boy is good, Obi-Wan has to give him that.
 
 He studies the new graffiti instead. The pattern that he remembers seeing blue is now covered by a red skeleton. A strong stroke of purple mixed with some dark yellow crosses out something that was probably green down there, the letters of the unknown language is now completely indistinct.
 
-Looks exactly like a warning notice and something like an evacuation order that cancelled a previously scheduled assembly because something dangerous has happened. OH. Obiwan realizes suddenly. Something dangerous like a Jedi has been in sight. Him.
+Looks exactly like a warning notice and something like an evacuation order that cancelled a previously scheduled assembly because something dangerous has happened. OH. Obi-Wan realizes suddenly. Something dangerous like a Jedi has been in sight. Him.
 
 They have a communication system to warn about his route, that must be why it's been so difficult to even spot a foot track of Anakin. And if they have been going through all these trouble just to hide something from him, then there must be something utterly serious that needs hidden. Something bigger than just some graffiti art.
 
@@ -360,11 +360,11 @@ The Emperor's suspicion of a rebel force might just be on the right track.
 
 If only he can be sure.
 
-Obiwan glances down at the ground, looking for more leads.
+Obi-Wan glances down at the ground, looking for more leads.
 
 And there, on the ground, among dirty paper tissues and other trashes, is a small booklet. Almost look like also some piece of trash, but the same kind of disturbance when he senses around Anakin also surrounds the booklet.
 
-Obiwan picks it up and starts reading. What he finds out inside makes his eyes widened.
+Obi-Wan picks it up and starts reading. What he finds out inside makes his eyes widened.
 
 Inside, it's the exact translation guidance he wishes to find, about the meanings of the symbols on the wall.
 
@@ -372,7 +372,7 @@ Not all of them, it seems, when he cross-compares the symbols in front of him wi
 
 The red and skeleton or skull is a warning sign, just as he concluded. The combination of purple and that certain dark yellow means "drop everything and run." That greenish blue means safe, and the symbols with that color points to a location and a time. For a next meeting, undoubtedly.
 
-"It's too careless to drop this, Anakin," Obiwan murmurs to the booklet, wondering if it's because this time he's already too close to catching him, and the boy was running in a fluster escape.
+"It's too careless to drop this, Anakin," Obi-Wan murmurs to the booklet, wondering if it's because this time he's already too close to catching him, and the boy was running in a fluster escape.
 
 He takes the booklet with him and starts looking for their next assembly plan.
 
@@ -382,15 +382,15 @@ He does not report the finding, though, telling himself he'd report once he's fo
 
 Their next assembly will be in the basement of a deserted factory, three hours before the curfew on a Friday afternoon.
 
-Obiwan finds the latest piece of graffiti with the announcement, and thanks to the booklet, he reads it like looking into words written in plain common language. And with bright colors and powerful strokes, the art is practically shouting "Freedom" and "Rebel," and some really strong words regarding the Empire. If the Upper Level ever finds out the true meaning of these arts, anyone involved would get electricuted. No question asked.
+Obi-Wan finds the latest piece of graffiti with the announcement, and thanks to the booklet, he reads it like looking into words written in plain common language. And with bright colors and powerful strokes, the art is practically shouting "Freedom" and "Rebel," and some really strong words regarding the Empire. If the Upper Level ever finds out the true meaning of these arts, anyone involved would get electricuted. No question asked.
 
-Obiwan almost feels glad that at least among everyone from security and guarding forces, he's the one tasked for this and finding out what they're plotting.
+Obi-Wan almost feels glad that at least among everyone from security and guarding forces, he's the one tasked for this and finding out what they're plotting.
 
 The back door of that deserted factory is loosely opened when he arrives, an hour before the assembly starts. He sneaks in easily.
 
 The place is dark and shabby, much like all the constructions in this Level nowadays. But in the middle of the ground, there is a big enough opening for people to gather and perhaps have some treacherous discussions, maybe even some bold movement against the Empire -- for which he can snuff out the bud of an rebellion against the Empire now that he's here.
 
-Obiwan finds a corner behind a broken column to hide behind, waiting patiently for the assembly to start.
+Obi-Wan finds a corner behind a broken column to hide behind, waiting patiently for the assembly to start.
 
 An hour passes.
 
@@ -398,27 +398,27 @@ And then the second hour.
 
 The space is getting darker as it comes closer to the night time.
 
-Only when Obiwan starts doubting if he's really translating those patterns correctly, or the booklet is lying, people start walking in.
+Only when Obi-Wan starts doubting if he's really translating those patterns correctly, or the booklet is lying, people start walking in.
 
 But instead of hearing a radical, reactionary, bolshy assembly as he expected, those people start talking about the tough lives civilians were living nowadays under the Empire's military control, the suffocating atmosphere that stifle any creative expressions, the assistance each one of them can provide for one another, and most of all, how they can make people's life better.
 
 They are kind, and friendly, and calm. Only when they talk about their neighbors' starved kids or sick elderlies do they sound emotional, sobbing quietly in unshed tears.
 
-Obiwan swallows hard as he listens.
+Obi-Wan swallows hard as he listens.
 
 These are just people. He thinks, behind the column, in the shadow he hides. These are just ordinary people trying so hard to have a life, and the Empire is squeezing their living space.
 
 He doesn't realize since when has he started clenching his fist, or what's that for. He forces his fist to relax, and continues listening. He's still a Jedi for this galaxy, after all. Surely maintaining a peaceful galaxy is more important than one poor kid or one old man. His job tonight is still to follow the order and arrest the dangerous rebel force, who has a young voice and a familiar figure.
 
-Obiwan stares at the boy -- a young man actually, he looks more like a leader now, standing before the group, soothing them with soft voice, giving them instructions of how to fix some of the difficulties. Anakin is still in his art-smudged clothes, but the whole vibe radiating from him seems so different -- less artist in a dreamy naughty way, but a responsible figure that actually cares about people, helps people. Except, he *is* a rebellion force now, from the Empire's perspective. There is no defense for that.
+Obi-Wan stares at the boy -- a young man actually, he looks more like a leader now, standing before the group, soothing them with soft voice, giving them instructions of how to fix some of the difficulties. Anakin is still in his art-smudged clothes, but the whole vibe radiating from him seems so different -- less artist in a dreamy naughty way, but a responsible figure that actually cares about people, helps people. Except, he *is* a rebellion force now, from the Empire's perspective. There is no defense for that.
 
-Obiwan bites his lips. Is he really having to take him in?
+Obi-Wan bites his lips. Is he really having to take him in?
 
 His hands are clenched into fists with white knuckles again.
 
 He's so focused in his thoughts now he almost doesn't realize since when has their conversation stopped. The people stop talking, but they're also not leaving.
 
-Obiwan wonders what's their next move is going to be, when the young voice echoes in the space, loud and clear: "How long are you planning on staying there, Jedi Master Kenobi?"
+Obi-Wan wonders what's their next move is going to be, when the young voice echoes in the space, loud and clear: "How long are you planning on staying there, Jedi Master Kenobi?"
 
 <br>
 
@@ -444,7 +444,7 @@ Anakin join/form/lead secret rebel force, starting with childhood friends, advoc
 
 #### draft notes
 
-> gets tricked to underground rebellious meeting (Obi-Wan thinks he starts able to decode the message, but actually they purposefully leave the hint)
+> Obi-Wan gets tricked to underground rebellious meeting (Obi-Wan thinks he starts able to decode the message, but actually they purposefully leave the hint)
 >
 > Obi-Wan knows about rebel force, is given the option of join them and fight against emperor and very likely die, or comply with Jedi brainwash doctrine and fight against rebels, neither know if he'd get harmed by rebels or he'd win and bring Anakin in, which would likely cause Anakin executed by Dooku.
 >
@@ -452,7 +452,7 @@ Anakin join/form/lead secret rebel force, starting with childhood friends, advoc
 
 some talk about trust issue, Anakin trusts his intuition, trusts Obi-Wan
 
-after Obiwan actually changes his side, the addressing changes to, either he self-intro as or Anakin starts calling him Obiwan
+after Obi-Wan actually changes his side, the addressing changes to, either he self-intro as or Anakin starts calling him Obi-Wan
 
 ### Chap 5 (Attraction)
 
