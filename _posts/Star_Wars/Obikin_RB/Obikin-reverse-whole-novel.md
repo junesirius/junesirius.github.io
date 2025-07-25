@@ -55,7 +55,13 @@ No Light Without Color, Light in Color, Color in Light, Let there be Color, To P
 
 ### Summary
 
-(What if ...)
+What if, when Anakin was three, instead of being sold to the Hutts on Tatooine, he and his mother were sold to an unlawful art dealer in the underground world of Coruscant?
+
+The galaxy is yet again becoming the Galactic Empire under Emperor Palpatine's control, and Jedi -- at least what's left of it, including Obi-Wan -- become the Empire's peace-keeping tools, pursuing the rebellion forces.
+
+That is until Obi-Wan starts learning to appreciate the graffiti arts.
+
+It is a story about hope, rebellion, freedom, creation, and so much more. And of course, how these things change people's lives and the galaxy's fate fundamentally.
 
 ### Arts
 
