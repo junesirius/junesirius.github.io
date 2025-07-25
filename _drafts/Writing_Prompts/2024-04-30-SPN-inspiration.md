@@ -1226,13 +1226,19 @@ Cas explains theory of evolution? He witnesses the first fish and homo sapiens a
 
 ### 130.【destiel】Time is fluid 刀河梗
 
-(prompt from S04E03/S05E13 "Time is fluid", AO3 story "A turn of the earth", DW刀河梗, recent "Agatha All Along"S01E07)
+(prompt from S04E03/S05E13 "Time is fluid", AO3 story "A turn of the earth", DW刀河梗, recent "Agatha All Along"S01E07, Benjamin Burton)
 
 Cas can't control where to land in time stream (a curse?), has to pop in time in reverse order, remember things in reverse order with Dean but still manages to fall in love. Both keeps journal to keep up, always run short in time.
 
 "The First time I meet you is the last time you meet me"
 
 "You'll see me again, but I'll never see you again"
+
+401 Dean meets 1518 Cas, 1518 Dean meets 401 Cas
+
+Cas moving backwards, remember him less by every time they met, Dean more
+
+"Why do you act like it's our first kiss" (heartbroken to know it's his last)
 
 ### 131.【destiel】wear a bell（R级?）
 
@@ -2092,7 +2098,7 @@ Cas smites Bel/Jack's body, has to continue use the horn to suck all souls into 
 
 Cas uses the power to go against Chuck & Billie
 
-### 228.【destiel】精分丁/serial killer卡【WIP】
+### 228.【destiel】精分丁/serial killer卡（狼人杀代）【WIP】
 
 （inspired by 《My Bloody Valentine》）
 
@@ -2148,7 +2154,7 @@ Rowena: I'll leave you two to it then (extract all other demons out)
 
 Dean: Looks like it's just you and me now
 
-### 230.【destiel】天启世界黑卡勒维坦化【WIP】
+### 230.【destiel】天启世界黑卡勒维坦化+enemy to friend+互相代餐梗【WIP】
 
 在天启世界的正式天启期间那个世界的黑卡接了米迦的指示去打开炼狱，想借用炼狱力量打路西，结果卡把勒维坦都吞了以后自己能量大爆发升级成帝卡，直接把天启打成三方阵营，或者直接一己之力同时炸掉米迦和路西，把整个宇宙变成帝卡宇宙，或者米迦和路西不得不联手来打帝卡，温双进来的时候黑卡正在一打二状态。
 
@@ -2163,6 +2169,10 @@ Dean: Looks like it's just you and me now
 （一不小心就会掺一些米路，但是主要还是卡中心）
 
 （卡疯起来就没他俩什么事了）
+
+黑卡杀了主世界卡，他们一定要黑卡合作才可能拯救主世界或者所有多元世界来打Chuck。丁不得不跟黑卡合作，同时仍然非常强烈地grief, mourn他的主世界卡，恨死黑卡，想杀他给主世界卡复仇，但是又矛盾觉得他也是卡，于是又不得不强忍着不想在亲手杀死一个卡。一起经历了一些事情，双方慢慢从真的完全互相想要杀死对方的enemy状态到可以忍受对方存在到越来越熟悉亲近，互相用对方代自己想要爱的人，丁用黑卡代主世界卡，黑卡骗自己丁关心的爱的假装就是他，但是心底也知道是且只能是另一个自己，自己无论如何不可能替代丁自己的主世界卡。
+
+（互相代餐梗+enemy to something梗，比一般常见的rival to friend/lover更加strong，start with不止是rival而是真的互相想要杀掉对方因为黑卡杀了他爱的卡，to something到底是变成了什么关系非常难定义，不是lover，也很难称得上friend，just someone）
 
 ### 231.【destiel】《When Death Meets Empty》Dean=Death, Cas=Empty
 
@@ -2287,7 +2297,7 @@ Mark of Cain时期考虑过为了甩掉Mark而换身体，但是Mark是在灵魂
 
 （可以提前在另外别的地方准备卡的备份grace？像Gabe能量可以常年一点一点被抽取转移，卡也可以一点一点抽取积累出一管，1518走之前留给丁，于是在最后这个时候尝试把卡的grace放进卡的克隆身体里，于是重新得到了一个卡）（但是总感觉有哪里不太对，好像这个无论如何也只是一个代餐卡不是本体卡）
 
-### 239.【destiel】S04E17 Dean Smith + ghost Cas【WIP 】
+### 239.【destiel】S04E17 Dean Smith + ghost Cas【WIP】
 
 (canon-divergent? pre-S04E17->post-S04E17)
 
@@ -3363,6 +3373,20 @@ so S5 becomes Michael+Lucifer both focus on torturing/persuading Cas, in the end
 
 Prince=丁，Swallow=卡
 
-更长的分析见： 2025-07-18发的post
+更长的分析详见： [2025-07-18发的post](https://junesirius.github.io/2025/07/18/SPN-Happy-prince)
 
-### 314.
+### 314.【destiel】blind Dean
+
+(inspired by 快乐王子的blind Happy Prince，夜魔侠，镇魂巍澜盲眼时期)
+
+Dean is blind (can be temporary, a curse, a disease, demon's doing, etc.)
+
+Cas can't heal him (maybe power limited, or human!Cas time), but takes the duty to take care of him, be his eyes, walk him around
+
+Dean holds Cas's arms all the time, intuitively reach out to him, look for him for touches, the first thing he'd do when he wakes up etc.
+
+Dean has a lot more needs for touching, Cas lets him touch him, for sense of security
+
+(突然想起好像看见过一篇类似的，[《My Eyes Are An Ocean》](https://archiveofourown.org/works/153889)，tone非常calm，end with Cas taking out his own eyes to give them to Dean, so Dean can see now and his eyes are blue, he freaks out a little. Cas: "I can heal myself." so of course he'd give him his eyes. 写得非常好)
+
+### 315.
