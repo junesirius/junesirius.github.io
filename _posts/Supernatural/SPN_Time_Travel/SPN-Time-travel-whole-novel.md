@@ -1067,9 +1067,11 @@ Dean glances at him, eyes questioning.
 
 The image in Dean's mind shifts to two angels sitting at the edge of the cloud, side by side, looking down at the Earth together. The Earth is having burning flames and smoke flickering from a corner on the north side, and they are just sitting there, watching. One of them has dazzling blue eyes, and the other, himself.
 
-He sudden feels old. Now he starts to understand when Cas occasionally slipped "I'm millions of years old, Dean." It's not about the time he has been through, Dean realizes. It's about how much he has seen, has experienced, has lived through. And right now, standing by Cas's side, he feels as though he's experiencing everything Cas's been through, and his mind is aging just as Cas did -- ancient, and tired.
+He sudden feels old. Now he starts to understand when Cas occasionally slipped a line like "I'm millions of years old, Dean." It's not about the time he has been through, Dean realizes. It's about how much he has seen, and has experienced. And right now, standing by Cas's side, he feels as though he's experiencing everything Cas's been through, and his mind is aging just as Cas did -- ancient, and tired.
 
-He starts to understand.
+He starts to understand so much now. All those things he never really think deep enough about Cas -- that he's an angel, that he's so very old, and so very lonely.
+
+But how can he ever really understand a being like Cas? Being only just a mortal, a human, looking up at an angel?
 
 Dean manages to nod, and he tells Cas, "I'm glad to be here, too."
 
@@ -1077,45 +1079,171 @@ Dean manages to nod, and he tells Cas, "I'm glad to be here, too."
 
 #### draft notes
 
-it's a war against natural order, not even fighting Death or God could compare to that. Natural Order isn't someone they can bargain with or find a loophole to escape, it just *is*. And the only thing they can do is obey.
-
 ~~Pompeii, stop the volcano, same the twenty thousand people, consequence? history of Italy changed, culture development unbalanced? ← (short, in passing line) "I was in here and here and here", one of time/place: Mount Vesuvius, 79 AD eruption day Aug 24 ("the word 'volcano' wasn't invented until that day")(year of "Consulhood of Vespasian and Titus")~~
 
 ~~characters: Caecilius (banker, marble trader), Metella, Evelina, Quintus~~
 
 ~~Consequence if not fix: Pompeii still exists, just a normal, kinetic, lively town in Italy, but too many people → social, cultural problem? social instability?~~
 
-### Chap. 8 Europe, Ice Age (40,000 years ago)
+### Chap. 8 From Ice Age to Hadean Eon
 
-> (Dean POV) trace back: homo sapiens vs Neanderthals, what does "human" mean
+> trace back, fast forward: homo sapiens vs Neanderthals, what does "human" mean
+>
+> asteroid & dinosaur extinction, can't save every life, normal nature cruelty & nature rule
+>
+> the first fish, normal nature kindness & what does "life" mean
+>
+> formation of Earth, watch star together, the beginning of the world → Cas doesn't want to break the star, but has to, what does "choice" mean, they make the asteroid belt together, basically affect the universe, Dean realize the broader view, not limited ever again
 
-**Words after chapter:** This chapter is partially inspired by a small plot in *Everything Everywhere All at Once*.
+**Europe, Ice Age (40,000 years ago)**
+
+Cas is right about their music and poetry. The Neanderthals. Dean thinks, watching those ancient human-ancestors dancing around the fire in the last cave in the Ice Age.
+
+"They are not really human yet," Cas tells him quietly. "And they never will. They'll never survive the Ice Age, and the skeletons and those mural paintings will be the only traces the modern humans piece together their existence."
+
+"But you rooted for them? You came back 40 thousand years to save them." Dean says, voice natural, not anywhere close to accusing. Just asking. Just listening.
+
+"It's a whole human race. I couldn't bare to see them disappear. All those art and thoughts and lives, they'll never appear again anywhere else. You people, the Homo Sapien Sapiens never have anything similar." Cas watches them with a small tender smile like a mother watching a child, a gardener watching a flower in his garden, and Dean notices it.
+
+"Does that mean I'd have four fingers and four toes if we're descendent of them?" Dean amuses, can't help wondering aloud. "I bet I won't look as good as I am now, innit?"
+
+Cas glances at him with that small smile still hanging on the tip of his mouth. "I think you'll still look as beautiful as you are," he says honestly.
+
+Dean can't stop his cheeks from burning. "You don't just say shit like that," he mumbles, turning back to those ancient creatures -- humans, they're technically humans, he has to remind himself.
+
+It is funny to watch those primitive humans, really. It's almost surreal. They look almost like real humans, but the furs and the sound they make to communicate, they seem to be still on the spectrum of creatures. Looking at them as almost like looking at a mirror, and be reminded they are nothing more than a few primitive creatures, only evolved a few thousand years and getting rid of the hairs along the way.
+
+Now that he thinks, all those times those other rude angels calling them "hairless ape"; from their point of view, it really isn't too wrong. Which makes Cas such a weird exception then. Knowing what they, seeing where they come from, and still willing to spend time with them, help them, even now, still standing by his side as if they are equal. How come Cas never said anything like that before?
+
+Dean glances at Cas. And unsurprised to find the angel is reading his face.
+
+"What are you thinking?" Cas asks him.
+
+"Nothing," Dean answers automatically, then rethinks his reply. "Just, how funny it is, seeing where we come from, and..." *and where you come from.* He glances at Cas, not finishing his sentence.
+
+"You're not anything less because you're human." Cas tells him solumnly.
+
+Dean huffs a small laugh, more bitter than humorous. "It's strange to even think about what does 'human' mean when you're looking at a group of ancient-human that's gonna extinct."
+
+Cas hums softly, a little sad.
+
+"I see why you want to save them now," Dean says then. Adding slowly, "And I'm sorry that we have to undo that."
+
+"It's all just natural order, right?" Cas nods understandably.
+
+They watch in silence as the ice collapses the cave, and buries the last of the Neanderthals.
+
+<br>
+
+<hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
+<br>
+**Earth, Jurassic Epoch (66 million years ago)**
+
+Dinosaurs do have furs. Dean watches with wide eyes.
+
+"No wonder you always complain about *Jurassic Park* isn't accurate enough," Dean amuses.
+
+"I almost forget what they look like, too." Cas takes a few steps forward, crooking his neck to watch a gigantic Sauroposeidon biting leaves with huge interest, like a child looking at his favorite toy, or pet. "I haven't seen them in millions of years."
+
+By "millions of years," he does mean it literally, Dean realizes. Nothing exaggerated. Just 66 million years before their time. The Earth is covered with tall ferns and dinosaurs, the air rich with wet fresh rainforest taste, he'd be in his widest dream to imagine a scene like this, and now he's right here.
+
+"How did they die? All those mysteries about dinosaurs, all the theories about their extinctions, are any of them actually right?" Dean asks.
+
+"Asteroid," Cas answers simply.
+
+"Of course," Dean says, somewhat unsurprised. It's the most popular theories after all.
+
+"And let me guess, the past-you takes that asteroid out to save them?"
+
+Cas nods, eyes still lingering on the Sauroposeidon that's enjoying the leaves intently, a baby dinosaur playing round their feet. "You asked me to save lives, and I was trying to do exactly that. Are they not worth saving as much as humans?"
+
+Dean follows his gaze, watching those creatures. He'll have to admit it never even really cross his mind -- guess it's just a bias as a human then, always by default prioritizing his own species on top of others. But for angels, all lives are just... lives. Not just "hairless apes" now, they must also appear no difference to a cat, a dog, an ant, in the angels' eyes. So easy to ignore, so easy to squash. He wouldn't even blame other angels for thinking that now. Yet Cas watches him like they are something precious, something valuable -- something, no, it's some*one* -- someone worth saving, even worth die trying. How does that even happen?
+
+Turning his head, Dean realizes Cas is still waiting for his answer. "Yes, I guess," Dean manages to croak out. He can't find his voice as much as find his self now. This trip, he really didn't expect it to be so mind-blowing and eye-opening. He feels small in a way he never knew before.
+
+"Cas, tell me something," Dean hears himself saying. "Human race is just one race in all those creatures, and our lives are just small ones in the human race. Why do you even bother keep coming to save us?"
+
+Cas turns fully to him now, eyes surprised by the question, the look of "why do you even have to ask". And after a beat, he answers, "Because you matter to me, because you're the only family I have."
+
+After a pause, Cas adds, "All lives are worth saving, and yours --" he makes sure Dean sees his eyes when he says it, "-- worth the world to *me*."
+
+Dean swallows, not knowing what to say. In the end, he has to settle with a stuttering "Yours too, to me."
+
+They watch the asteroid falling onto Earth after that. They can't do anything, but at least they can remember their last looks.
+
+<br>
+
+<hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
+<br>
+**Sea, Age of Fishes (357 million years ago)**
+
+"An older brother once told me, all those millions of years ago, 'Don't step on that fish, Castiel. Big plans for that fish.'" Cas leads the way on the seashore, kneeling down to point at a small grey fish as it heaves itself on the beach.
+
+"An older brother?" Dean kneels down beside him. The fish looks nothing special, maybe except for the fact it's trying to move to the land.
+
+"Gabriel." Cas tilts his head, remembering. "And I think he's the first one teaching me to see the wonder and beauty of the creations and lives."
+
+"I'd never know that," Dean murmurs. Then, "And why are we here? The first little fish starts living on the land, that's good thing, right? Nothing to re-kill for once?"
+
+"I'm afraid not." Cas walks down the beach. And there, a second red fish is also doing great in its process of landing without landing. Beside it, a blue one. More fish are on their way to conquer the land, as it appears.
+
+Dean stares at the angel beside with a gaping mouth. "Holy, you did that?"
+
+Cas lowers his head, "I was just thinking they should all at least have a chance, you know, living a different life, evolving into different things..."
+
+"That's like God-level power, changing the whole evolution!"
+
+"Not God-level, just angel-level," Cas corrects him.
+
+But still, affecting the whole evolution by something as small as pulling a little fish onto the shore -- Dean thinks his brain is buzzing with new realization now. How come he never realizes exactly how much power the angels really have?
+
+They're powerful, they can fly, they can explode demons and monsters -- sure, those are the ones he's grown familiar with. And for bigger douchebags, the list can add a few more things like reshaping the reality. But somehow, things like "affecting the entire evolution" has never been on the list in his mind, but apparently it's just a part of the package.
+
+He eyes Cas, wondering not for the first time in this trip just how much Cas could do, exactly how powerful he is, and how much he doesn't know about him. All these years -- fours years now since he crawled out of that graveyard and ran into Cas in that barn -- all these time he thought he starts knowing Cas, yet sometimes he still thinks he might barely scratch the surface. He wonders if he'd ever really know Cas completely, entirely -- like Cas knows about him, like the way Cas can rebuild him from scratch. The thought makes his tongue taste bitter.
+
+And Cas somehow knows what he's thinking. "Dean, you know me as much as any human ever could," he says quietly.
+
+"But is that all of you?" Dean can't help wondering aloud. He doesn't let his mind slip into the memory of the past year, but some thread of the bitter ones still slide in. He sees the pair of eyes in the reflection of holy fire.
+
+Cas pauses. *It is not,* Dean thinks.
+
+Then he answers, 
+
+
+
+<br>
+
+<hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
+<br>
+**Space, Hadean Eon (4.6 billion years ago)**
+
+
+
+<br>
+
+> formation of Earth, watch star together, the beginning of the world → Cas doesn't want to break the star, but has to, what does "choice" mean, they make the asteroid belt together, basically affect the universe, Dean realize the broader view, not limited ever again
+
+**Words after chapter:** The part about Neanderthals is partially inspired by a small plot in *Everything Everywhere All at Once*.
 
 #### draft notes
 
-the very early human evolution, the homo sapiens vs Neanderthals', enjoy the company with the very first few humans, relationship with Adam etc.? <u>watching bees nude</u> (natural science history vs religious history, how to merge?) ← accidentally affect human evolution, modern human has different features (write in a way that modern people don't realize weird things are weird because it changes the whole history, butterfly effect)
+it's a war against natural order, not even fighting Death or God could compare to that. Natural Order isn't someone they can bargain with or find a loophole to escape, it just *is*. And the only thing they can do is obey.
 
-Consequence if not fix: both human species coexist and forever at war, Dean biologically look/sound differently
+~~the very early human evolution, the homo sapiens vs Neanderthals', enjoy the company with the very first few humans, relationship with Adam etc.? <u>watching bees nude</u> (natural science history vs religious history, how to merge?) ← accidentally affect human evolution, modern human has different features (write in a way that modern people don't realize weird things are weird because it changes the whole history, butterfly effect)~~
 
-###### [TBA]
+~~Consequence if not fix: both human species coexist and forever at war, Dean biologically look/sound differently~~
 
-### Chap. 9 Earth, Jurassic Epoch (66 million years ago)
+///
 
-> (Dean POV) trace back: asteroid & dinosaur extinction, can't save every life, normal nature cruelty & nature rule
+~~can't save every life, normal nature cruelty & nature rule~~
 
-#### draft notes
+~~falling asteroid, dinosaur extinction, comment: "just like Sodom and Gomorrah", "I wasn't there" (because he actually was, suddenly remember?) ← real dinosaurs have furs~~
 
-falling asteroid, dinosaur extinction, comment: "just like Sodom and Gomorrah", "I wasn't there" (because he actually was, suddenly remember?) ← real dinosaurs have furs
+~~Consequence if not fix: dinosaur coexist with human~~
 
-Consequence if not fix: dinosaur coexist with human
+///
 
-### Chap. 10 Sea, Age of Fishes (357 million years ago)
-
-> (Dean POV) trace back: the first fish, normal nature kindness & what does "life" mean
-
-#### draft notes
-
-watch the fish, the first fish on the shore (S06E20 I remember being at a shoreline, watching a little grey fish heave itself up on the beach and an older brother saying, "don't step on that fish, Castiel. Big plans for that fish."), the first creature on the land ← help it? touch it? affect its evolution?
+~~watch the fish, the first fish on the shore (S06E20 I remember being at a shoreline, watching a little grey fish heave itself up on the beach and an older brother saying, "don't step on that fish, Castiel. Big plans for that fish."), the first creature on the land ← help it? touch it? affect its evolution?~~
 
 Cas try to help other fish that didn't make it to make it to the shore as well, which he shouldn't; so now in order to fix it, they'll have kill those other fish too, leaving only one to succeed
 
@@ -1131,13 +1259,9 @@ Cas: And what's the definition of a man?
 
 Dean: (stare at Cas, shake hands, stare at fish again, still can't believe) You gotta be kidding me.
 
-### Chap. 11 Space, Hadean Eon (4.6 billion years ago)
+///
 
-> (Dean POV) trace back: formation of Earth, watch star together, the beginning of the world → Cas doesn't want to break the star, but has to, what does "choice" mean, they make the asteroid belt together, basically affect the universe, Dean realize the broader view, not limited ever again
->
-> that destroyed planet's name: Phaeton
-
-#### draft notes
+that destroyed planet's name: Phaeton
 
 the formation of Earth, solar system, galaxy ← watch the space quietly, help create the stars, maybe this is when the asteroid belt was formed, should have been a star there, Cas break one when he's there this time, so now throughout the whole history, that planet doesn't exist (give that star a name and some feature? Diana (Artemis), from Roman history like the rest, or gods name from star name bc stars come first)
 
@@ -1145,7 +1269,7 @@ Consequence if not fix: gravity and orbit of Earth is changed, unstable environm
 
 Dean finally get to see the whole human and universe history together with Cas, in Cas's eyes, see a broader world view, how many human get to see human evolution and Earth's creation. Dean float in the space watching Earth forming for the first time, air and sea start to divide and shape, he's not looking at the universe, he's looking at Cas (≈ Good Omens S2, DW S01E02), realize more than ever how unhuman and human Cas is, in awe and feel pain. They fix timeline and go home together.
 
-### Chap. 12 Whitefish, Montana, 2012 (now)
+### Chap. 9 Whitefish, Montana, 2012 (now)
 
 > (Dean POV) go back to original timeline (May 18, 2012), still need to fix leviathan problem (mention why can't fix from changing past timeline), after all that, Cas willing to help, still slightly broken but a lot more mature and pull himself together (less child-like), Dean willing to be patient enough, ready to pull the big fight on leviathan and save the world together again. they have just see the beginning the time and universe, what else can they be scared of
 
