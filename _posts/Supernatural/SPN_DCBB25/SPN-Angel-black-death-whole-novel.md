@@ -4,28 +4,104 @@ title: 【Destiel】Angel Black Death
 date: 2024-11-01 01:51
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Sam Winchester", "Michael", "Lucifer", "Vince Vincente", "Rowena MacLeod", "Fergus MacLeod/Crowley", "Adam Milligan", "Bobby Singer", "Charlie Bradbury", "Jimmy Novak", "Claire Novak"]
-tags: ["Supernatural", "destiel", "michifer", "温家兄弟", "英文"]
+tags: ["Supernatural", "destiel", "michifer", "英文"]
 pov: 第三人称
 origin: 2025 DCBB
 long_novels: 【Destiel】Angel Black Death
 published: false
 ---
 
-(Note: post-S11 timeline, minus British Men of Letters and Mary. It starts as a one-shot idea, but then get stretched up -- it stretched itself up to full length -- and ends up turning into practically a complete S12 rewrite. I didn't see that coming either.)
+(**Tags:** canon divergent, post-S11 timeline, minus BMOL, graphic depictions of violence, temporary main character death, main character near death experience, soul-grace dance)
 
-(AO3 Tag: AU - canon divergent)
+(**Notes before/after work:** Believe it or not, this story starts as a one-shot idea. Just a one-liner thought popped in my mind: "What would it be like when there is an outburst contagious disease infecting and killing angels like Black Death?" when the song I was listening to has a line says "I cry when angels deserve to die." I can immediately hear Cas say: "Do angels deserve to die? Do I?" And the story starts from there.
+
+And then it very quickly gets stretched up -- the idea stretched itself up without me doing anything -- to a full-length story. I had to take out those very tempting mini-episode chapters and move them to timestamps to stop it from turning into a full-season-length S12 rewrite. I didn't see that coming either. But it's a fun journey)
 
 [TOC]
 
-### Chapter 1: Here We Go, Again
+## Draft
+
+### Outline curve
+
+find out ABD outburst
+
+→get Lucifer
+
+→help Lucifer recover (Lucifer suggest get Michael but they refuse)
+
+→daily episode with ghost&demon(+surprise reunions+troubles)
+
+→(Cas+situation get worse, Heaven can't wait longer) get Michael
+
+→help Michael/Lucifer make peace
+
+→Michael/Lucifer align to destroy world
+
+→Dean/Sam say yes, kill each other, heaven is saved
+
+→Cas think they died, go to Heaven/vail to find them, let them decide if they want back
+
+→TFW back together, heaven on their command; thought problem solved, Cas is still dying
+
+→Dean use his soul power heal Cas, soul-grace dance, Cas is saved
+
+→TFW HE
+
+### destiel relationship arc
+
+start with best friends, Dean "I need you" "family/brother", Cas already love Dean more than anything including the world
+
+→ still keep the "love" to be just friendship/family love, not romantic love, still friend-family-brotherly love, but make Dean gradually realize what does that mean: no definition, but can be weighed, "everything has a price", Dean figures how much he would be willing to sacrifice to trade/sacrifice for Cas, just as much as his any other family member and more, so even if he doesn't admit, his action is already saying out loud: he is willing to sacrifice anything including Sam and his own life and the world for Cas (no need for verbal confession unless vibe feels right)
+
+The ultimate question: how much are you willing to sacrifice for each other
+
+Cas: willing to sacrifice himself and all angels and the world to save Dean
+
+Dean: willing to sacrifice himself and Sam and the world to save Cas (and the world)
+
+Cas thought Dean wouldn't choose Sam over him because he never did, Dean shows him wrong (but also because Sam is willing to sacrifice himself to save Cas and the world too)
+
+### Idea
+
+天使之间流传大型感染病大量非自然死亡（天使黑死病），温双卡怎么办
+
+卡想救，丁：你染上了怎么办
+
+因为歌 "Angels deserve to die"
+
+Cas: "Do angels deserve to die? Do I?"
+
+### Outline
+
+Angels are dying/going extinction because of ABD (caused by Darkness), Cas goes to investigate and tries to help/save angels, gets infested too. They find a vague lore about the purest/brightest light to be able to purify/save/cure angel disease. They thought it's Michael or Lucifer or the two of them together, take turn trying them out, getting them out of cage, asking for their help. Making them cooperate with each other, but Michael/Lucifer want to destroy the world together. Dean/Sam jump in to stop them, getting themselves killed and exploded, and the self-sacrifice explosion turn into the brightest light that cure the angels in Heaven. Cas goes to Heaven to get Dean/Sam back, but he's not cured yet. Dean personally uses his soul power (the brightest love) to cure Cas. All problems solved, HE.
+
+In between the main plots, because the Heaven is crumbling down without angel guards, souls coming down to Earth, they get to meet with ghosts of people they lost in the past: the Novaks, the Winchesters, Jo/Ellen/Ash/Bobby, Charlie (like casual episodes in a SPN season) →  Timestamps, because not directly related to the main storyline
+
+### Summary
+
+### Arts
+
+#### Banner
+
+#### Art
+
+### Editing Notes
+
+## Main
+
+### Chap. 1 Here We Go, Again
+
+> After S11E23 finale, God/Darkness left, thought the world in peace finally, thought all problems solved, but trouble in Heaven again
 
 #### Act 1 INT. bunker's kitchen - night (Cas, Dean, Sam)
 
-They're celebrating. Just the three of them in the bunker's kitchen, Sam, Dean, and Cas, with several dozens of beer and a full table of (now almost empty) pizza boxes. But nevertheless, it's a big celebration.
+> Celebration after S11E23 finale, thought the world in peace
 
-"Finally, finally!" Dean is saying, over a bottle of beer, can't stop beaming, "A big win long overdue, here we go!"
+They're celebrating. Just the three of them in the bunker's kitchen, Sam, Dean, and Cas, with several dozens of beer and a full table of now-almost-empty pizza boxes. But nevertheless, it's a big celebration.
 
-"Yeah I hear you." Sam agrees, a little over himself too, lazily leaning into the seat by the wall, sipping his share of beer. "No God, no Darkness, no angel or demon, no new freaking Apocalypse, no bigger disaster when the old one is barely missed. How long have we ever really get this much peace?"
+"Finally, finally!" Dean is saying, over a bottle of beer, can't stop beaming. "A big win long overdue, here we go!"
+
+"Yeah I hear you," Sam agrees, a little over himself too, lazily leaning into the seat by the wall, sipping his share of beer. "No God, no Darkness, no angel or demon, no new freaking Apocalypse, no bigger disaster when the old one is barely missed. How long have we ever really get this much peace?"
 
 Cas seriously considers his question. "At least eleven years ago." He answers, with a straight face.
 
@@ -297,7 +373,9 @@ Dean feels their fingers might have touched for a split second, but immediately 
 
 <br>
 
-### Chapter 2: Heaven on Edge
+### Chap. 2 Heaven on Edge
+
+> 
 
 #### Act 1 EXT. heaven's gate - day/night (Dean, Sam)
 
@@ -765,9 +843,9 @@ Sam sighs a soft "Yeah" and falls to silence.
 
 <br>
 
-### Chapter 3: Rock Never Dies
+### Chap. 3: Rock Never Dies
 
-**(outline: look for Lucifer, Lucifer holds rock music festival in LA, a big fuss and fight like in show, reuse Vince Vincente/Ladyheart part plot, bring Lucifer in in Vince's vessel, help Lucifer recover - ask Crowley to rebuild Nick's body to help him strengthen; Cas show initial negligible sign of sickness, heal slow, easy to get tired, sleepy)**
+> look for Lucifer, Lucifer holds rock music festival in LA, a big fuss and fight like in show, reuse Vince Vincente/Ladyheart part plot, bring Lucifer in in Vince's vessel, help Lucifer recover - ask Crowley to rebuild Nick's body to help him strengthen; Cas show initial negligible sign of sickness, heal slow, easy to get tired, sleepy
 
 #### Act 1 INT. show dressing room - night (Vince, Jen!Lucifer)
 
@@ -871,7 +949,7 @@ Dean heads directly to the coffee machine. "Any plan for today?" he asks, speaki
 
 
 
-#### [TBC]
+###### [TBA]
 
 <br>
 
@@ -955,20 +1033,6 @@ Sam (stops grinning): Fine.
 
 <br>
 
-### Chapter 4: The Roadhouse
-
-**(outline: souls in heaven starts getting out of control, TFW thinks it's a case but run into Jo/Ellen/Ash/Bobby; Cas slightly sicker, show weaker, easily tired, can't heal quickly)**
-
-<br>
-
-### Chapter 5: The Novaks
-
-**(outline: Jimmy/Amelia get down, reunite with Claire, Jimmy/Cas tension; Dean helps handle Cas/Claire relationship; Cas more sick, headache)**
-
-<br>
-
-#### draft notes
-
 Cas is constantly headache, at first they all thought it's because of angel radio. Every now and then it gets so bad that he has to hold on to something to not fall. His view goes black, from several seconds to minutes. Dean always lend him a shoulder if he's within range.
 
 Dean watches closely, worried: You want to tune that down a bit, pal?
@@ -981,17 +1045,9 @@ What he means is *I hate to see you suffer*, but he doesn't say it.
 
 (The headache is just the first symptom of infection, they just didn't know yet)
 
-### Chapter 6: The Winchesters
-
-**(outline: Heaven gets even more loose, John/Mary get down, Winchesters happy reunion dinner, like in show; but include Cas as part of family, formally, in front of parents; Cas sickness worse, cough)**
-
 <br>
 
-#### draft notes
-
-(Chap 4-6 gradually increase intensity between Dean/Cas, more intimate and close as surrounding people become more intimate: friends (Ellen/Jo/Bobby) to daughter (Claire) to parents (John/Mary), Dean introduce Cas to every aspect of his life, vice versa with Claire)
-
-<br>
+(Cas sicker, show weaker, easily tired, can't heal quickly, then headache, then cough, then cough blood, fingertips going darker, dying)
 
 Castiel coughs. Once. Then twice. At the third times, Dean's brows arch. Castiel wants to pretend it's just a normal clearing of throat, but obviously not very successful.
 
@@ -1023,13 +1079,7 @@ Sam: Uh no offense, but yes you do.
 
 Cas quietly slips out of the room and leaves them arguing.
 
-### Chapter 7: Evil Never Rests
-
-**(outline: Charlie comes down and reunite, demons and ghosts of Frankenstein family know Heaven is dying, go out for a Carnival, Crowley headache, calls for TFW help; Cas situation getting terrible, cough blood, fingertips going darker, dying)**
-
 <br>
-
-#### draft notes
 
 (Cas is also infected, symptom starts with can't heal, pain, weak (try to hide but found out by Dean))
 
@@ -1075,9 +1125,9 @@ Cas doesn't answer.
 
 Dean's heart sinks: you are, aren't you? Why don't you tell me?!
 
-### Chapter 8: You're Up, Dr. Phil
+### Chap. 4: You're Up, Dr. Phil
 
-**(outline: From Chap 3-7 quietly describe Cas' getting worse, souls go wild in vail, has to take Lucifer's advice to release Michael, get Rowena to help, Winchester counseling time for Michael/Lucifer)**
+> From previous chapters quietly describe Cas' getting worse, souls go wild in vail, has to take Lucifer's advice to release Michael, get Rowena to help, Winchester counseling time for Michael/Lucifer
 
 <br>
 
@@ -1099,17 +1149,19 @@ M/L counseling session: Do you remember the time when...
 
 M/L deciding not saving angels: There is no darkness without light, so if they're all gone, so is the disease. Problem solved.
 
-### Chapter 9: King's Cross
+### Chap. 5: King's Cross
 
-**(outline: to stop Michael/Lucifer and save Cas/Heaven, Sam/Dean says yes, get dirty, take back control, sacrifice each other, explodes and kills M/L (in heaven), purifies angels in heaven; Cas go to find them, try to save them again, find in King's Cross like in HP, one way to heaven/John/Mary, one way to earth/Cas, choose Cas and back; Sam is a 6-month swaddle, Dean makes the decision)**
+> to stop Michael/Lucifer and save Cas/Heaven, Sam/Dean says yes, get dirty, take back control, sacrifice each other, explodes and kills M/L (in heaven), purifies angels in heaven
+>
+> Cas go to find them, try to save them again, find in King's Cross like in HP, one way to heaven/John/Mary, one way to earth/Cas, choose Cas and back; Sam is a 6-month swaddle, Dean makes the decision
 
 #### draft notes
 
 Michael to Dean: I know it's too easy to give your own life for the angel you care, but are you willing to give your brother's life for him too?
 
-(To save Cas, S/D has to become M/L)
+(To save Cas, Sam/Dean has to become Michael/Lucifer)
 
-Dean: Sonofabitch, yes! I say, yes!
+Dean: Sonofabitch, yes! I said, yes!
 
 Cas: Dean, don't!
 
@@ -1165,30 +1217,46 @@ Dean pauses and nods briefly but didn't look back. He's afraid he might not have
 
 <br>
 
-### Chapter 10: The Brightest Light
+### Chap. 6: The Brightest Light
 
-**(outline: Cas uses up his power, is still dying, angel/Dumah comes to explain+offer Heaven in their command, Dean's soul is the brightest light, Dean can save him but only if he let himself be honest with his feelings, Dean uses his soul to touch Cas and purify/save Cas, don't need to say love but so much more than love, there is no word for them even "love", all HE)**
+> Cas uses up his power, is still dying, angel/Dumah comes to explain+offer Heaven in their command, Dean's soul is the brightest light, Dean can save him but only if he let himself be honest with his feelings, Dean uses his soul to touch Cas and purify/save Cas, don't need to say love but so much more than love, there is no word for them even "love", all HE
 
 #### draft notes
 
-Dean: You fixed me so many times, it's my turn now.
+Dean: You saved me so many times, it's my turn now.
 
 <br>
 
 ### Epilogue: Inherit the World
 
-**(outline: heaven in their command, earth seems fine, TFW go to beach finally, with matching shirts and toes in the sands like Dean always imagined)**
+> heaven in their command, earth seems fine, TFW go to beach finally, with matching shirts and toes in the sands like Dean always imagined
 
 <br>
 
-### Bonus: Jellyfish
+###### [END]
 
-**(outline: normal day, aquarium, maybe a case? "What is it with the jellyfish?")**
+### Timestamp 1: The Roadhouse
+
+> souls in heaven starts getting out of control, TFW thinks it's a case but run into Jo/Ellen/Ash/Bobby
+
+### Timestamp 2: The Novaks
+
+> Jimmy/Amelia get down, reunite with Claire, Jimmy/Cas tension; Dean helps handle Cas/Claire relationship
+>
+> (gradually increase intensity between Dean/Cas, more intimate and close as surrounding people become more intimate: friends (Ellen/Jo/Bobby) to daughter (Claire) to parents (John/Mary), Dean introduce Cas to every aspect of his life, vice versa with Claire)
+
+### Timestamp 3: The Winchesters
+
+> Heaven gets even more loose, John/Mary get down, Winchesters happy reunion dinner, like in show; but include Cas as part of family, formally, in front of parents
+
+### Timestamp 4: Evil Never Rests
+
+> Charlie comes down and reunite, demons and ghosts of Frankenstein family know Heaven is dying, go out for a Carnival, Crowley headache, calls for TFW help
+
+### Timestamp 5: Jellyfish
+
+> normal day, aquarium, maybe a case? a date?
+>
+> "What is it with the jellyfish?"
 
 <br>
-
-## Draft Notes
-
-**<u>Complete Outline</u>**: get Lucifer→help Lucifer recover (Lucifer suggest get Michael but they refuse)→daily episode with ghost&demon(+surprise reunions+troubles)→(Cas+situation get worse, Heaven can't wait longer) get Michael→help them make peace→they align to destroy world→S/D say yes, kill each other, heaven is saved, Cas thought they died, go to Heaven/vail to find them, let them decide if they want back→TFW back together, heaven on their command, thought problem solved, Cas is still dying→Dean use his soul power heal Cas, soul-grace dance, Cas is saved, TFW HE
-
-**<u>destiel relationship arc</u>**: start with best friends, Dean "I need you" "family/brother", Cas already love Dean more than anything including the world → still keep the "love" to be just friendship/family love, not romantic love, still friend-family-brotherly love, but make Dean gradually realize what does that mean: no definition, but can be weighed, "everything has a price", Dean figures how much he would be willing to sacrifice to trade/sacrifice for Cas, just as much as his any other family member and more, so even if he doesn't admit, his action is already saying out loud: he is willing to sacrifice anything including Sam and his own life and the world for Cas (no need for verbal confession unless vibe feels right)
