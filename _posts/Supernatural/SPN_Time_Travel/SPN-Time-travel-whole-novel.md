@@ -39,7 +39,7 @@ S07E21-23 失控的Cas在害怕崩溃中时间穿越
 
 to make contrast with the ending, the beginning emphasize on: Cas unwilling to help leviathan problem, Cas super broken, Dean super impatient
 
-When Cas was broken, every time he ran away from a quarrel, like the first time in hospital, Dean worry he can be in any time anywhere, Meg says he's just in the day room. And we assumed he's just fly there, a displacement, not a temporal flight, but we are wrong, everyone's wrong. He flies to the past, and he's not flying back, he takes the long way, wait out for the time to pass slowly, until it come back to the current timeline, and meet Dean in the day room in the now time. He can be there for hours or even weeks already. He's an angel, <u>hundreds of thousands of years is a blink</u>. He plays games with himself, he calms himself down, ~~because he was trying to forget the reminded trauma about conflict (don't touch it)~~, knows he's safe because Dean wasn't there then, <u>so he won't be disturbed no matter what</u>, the perfect place (and time) to hide to. (slips how long he's been there, that's how Dean know)
+When Cas was broken, every time he ran away from a quarrel, like the first time in hospital, Dean worry he can be in any time anywhere, Meg says he's just in the dayroom. And we assumed he's just fly there, a displacement, not a temporal flight, but we are wrong, everyone's wrong. He flies to the past, and he's not flying back, he takes the long way, wait out for the time to pass slowly, until it come back to the current timeline, and meet Dean in the dayroom in the now time. He can be there for hours or even weeks already. He's an angel, <u>hundreds of thousands of years is a blink</u>. He plays games with himself, he calms himself down, ~~because he was trying to forget the reminded trauma about conflict (don't touch it)~~, knows he's safe because Dean wasn't there then, <u>so he won't be disturbed no matter what</u>, the perfect place (and time) to hide to. (slips how long he's been there, that's how Dean know)
 
 That's how he calm himself back down, piece himself back together. He would have needed way longer to piece himself together, not just a night (8pm in the night, Meg called them in the morning), <u>he has spent way longer, but that time was folded</u>, he spent them in the past, saved them so much more time, so the current him that they meet is already a sane enough version, walking and talking, mostly functional, the best he can manage for himself to be presentable. <u>Even if broken, he wants them to meet the best version of him, he doesn't want them disappointed at him.</u>
 
@@ -62,7 +62,7 @@ go back to the original timeline, still need to fix leviathan problem (can't fix
 
 **<u>Timeline:</u>** this is what happened when Cas disappeared between S07E21-23, what he did during "What are you gonna do?" "I don't know. Isn't that amazing?" (May 4-18, 2012)
 
-Start with "I heard a ping that pierced me" (only angel can hear it), Cas POV, from S07E21: crazy!Cas wake up, broken, mind wanders about everything in the universe, insects, small things; enter Dean, canon quarrel of asking for help but Cas run away, Dean chase him into day room, Cas slip "been here for weeks" "what do you mean for weeks, I just saw you two minutes ago" "that's three weeks ago for me. It's quiet here, it's nice."
+Start with "I heard a ping that pierced me" (only angel can hear it), Cas POV, from S07E21: crazy!Cas wake up, broken, mind wanders about everything in the universe, insects, small things; enter Dean, canon quarrel of asking for help but Cas run away, Dean chase him into dayroom, Cas slip "been here for weeks" "what do you mean for weeks, I just saw you two minutes ago" "that's three weeks ago for me. It's quiet here, it's nice."
 
 (Dean POV) bring Cas home (Rufus's shelter), empathize on: Cas unwilling to help leviathan problem, Cas super broken, Dean super impatient & pissed. After a big quarrel ("You don't get to have a cat, no one cares you're broken, it's your mess, you clean it up" S07E23 or similar), Cas is gone again. Cas very quickly reappear and disappear, drop a red-haired woman with a 7y-old boy at doorstep, who slips names they're Rowena & Fergus MacLeod.
 
@@ -96,7 +96,7 @@ go back to original timeline (May 18, 2012), still need to fix leviathan problem
 
 "I don't know. Isn't that amazing?"
 
-When Cas is broken (crazy!Cas time, end of S7), every time he runs away from a quarrel, like the times in the hospital or in the shelter when Dean gets so angry at him and he flies away, and everyone thinks he just flies into a different *place* at the same *time*, but they're wrong. Cas goes back in time, he flies to the past where no one can find him, and Dean was not there, so he gets to wait out for the time to pass slowly, where he would be alone and quiet and feel safe, until the current time catches up again and Dean finds him again. Like the time in the hospital, when Dean finds him in the day room, and thinks they just part for two minutes, but actually Cas has been sitting there for days, simmering in the solitary, playing games with himself, calming himself down.
+When Cas is broken (crazy!Cas time, end of S7), every time he runs away from a quarrel, like the times in the hospital or in the shelter when Dean gets so angry at him and he flies away, and everyone thinks he just flies into a different *place* at the same *time*, but they're wrong. Cas goes back in time, he flies to the past where no one can find him, and Dean was not there, so he gets to wait out for the time to pass slowly, where he would be alone and quiet and feel safe, until the current time catches up again and Dean finds him again. Like the time in the hospital, when Dean finds him in the dayroom, and thinks they just part for two minutes, but actually Cas has been sitting there for days, simmering in the solitary, playing games with himself, calming himself down.
 
 And every time the quarrel gets more fierce, he needs longer to calm down. He flies farther and farther back into the past, where he can spend hundreds of thousands of years on his own without disturbance, piecing himself back together. Dean thinks he wakes up the night before they meet again, but actually Cas has been in the past for ages, that's why he said "it took everything to get me here." Which literally means eons of time.
 
@@ -126,13 +126,45 @@ When an angel loses control of his mind, he's just a frightened child.
 
 And when a frightened child can go to all the time and all the places in the universe, where would he go?
 
-He goes to see a city that has disappeared two thousand years ago, a creature he hasn't seen in millenniums, a fish that is critical to evolution, and a star that is just forming. He watches them with the joy of a child's eyes, and he can't help reaching his hands to touch them. That is when everything -- the history, the reality -- starts crashing down.
+He goes to see a city that disappeared two thousand years ago, a creature he hasn't seen in millennia, a fish that is on its way to the shore, and a star that is on the edge of explosion. He watches them with the wonder of a child's eyes, and can't help but reach out his hands to help them, for he only wishes to save the lives. That is when everything -- the history, the reality -- starts crumbling down.
 
-And Dean, already exhausted from endless world-saving, have to travel to eons ago, to find his best and broken angel friend and bring him home. 
+And Dean, already exhausted from all the burden of world-saving, with all the Leviathans crawling in his world, has to travel to eons ago, with his best and broken angel friend, to save the world and bring him home.
+
+This is a journey for a human to see things no human has ever seen before, to learn so much more than he ever expected, and in the end, to realize something, so important, so essential, that he'd be blind to not realize it in the first place.
 
 #### Excerpt
 
+Castiel gets off the bed hurriedly, then takes a step away from her. "Please don't be angry. I don't want to fight."
 
+He disappears with the sound of wings flapping.
+
+"What the hell?" Meg stares at the empty room.
+
+Meg finds him in the dayroom down the hall, two minutes later.
+
+Castiel is in the middle of a chess game with himself, half the chess pieces from each side taken from the board.
+
+"What was that?" Meg approaches the two angels suspiciously. Neither of them look up from the game. One of them wears his iconic trench coat, the other a white hospital gown, ruffled from sleeping in.
+
+Meg knows Castiel's trench coat still hangs on the foot of his bed.
+
+"Do you know there was a game in 19th century so famous that it's called the 'Immortal Game'?" the Castiel in the trench coat says, moving a bishop on the board.
+
+"But the game isn't really immortal," the Castiel sitting opposite him moves a knight in defense.
+
+"No, I mean, WHAT?" Meg walks up to the table, staring at both of them. "Who are you?" Her fingers fumble behind her back, clutching a hidden angel blade.
+
+"I'm Castiel," the angel in the trench coat tells her plainly.
+
+"And I'm Castiel," the other one says, with a warm smile, as if playing chess with oneself is the most normal thing in his life.
+
+"Uh-hum." Meg doesn't loosen her angel blade, unconvinced.
+
+"It's nice to be somewhere quiet," the trench coat Castiel says, dropping his eyes, "especially when Dean is angry."
+
+Meg scrutinizes him carefully, and she points out the obvious, slowly, "Dean is not here."
+
+The trench coat Cas tells her, "He is -- or, he will be." He checks the clock on the dayroom wall. "In about twenty-four hours."
 
 ### Editing notes
 
@@ -148,7 +180,7 @@ doesn't need to be in the same order as the organized timeline idea, could rewin
 >
 > Start with "I heard a ping that pierced me" (only angel can hear it): crazy!Cas wake up, broken, mind wanders about everything in the universe, insects, small things
 >
-> Dean comes, canon quarrel of asking for help but Cas run away, Dean chase him into day room, Cas slip "been here for weeks" "what do you mean for weeks, I just saw you two minutes ago" "that's three weeks ago for me. It's quiet here, it's nice."
+> Dean comes, canon quarrel of asking for help but Cas run away, Dean chase him into dayroom, Cas slip "been here for weeks" "what do you mean for weeks, I just saw you two minutes ago" "that's three weeks ago for me. It's quiet here, it's nice."
 
 When he wakes up, it is dark outside.
 
@@ -212,21 +244,21 @@ He disappears with the sound of wings flapping.
 
 Meg finds him in the dayroom down the hall, two minutes later.
 
-Castiel is in the middle of a chess game with himself, half the chess pieces from either sides taken from the board.
+Castiel is in the middle of a chess game with himself, half the chess pieces from each side taken from the board.
 
-"What was that?" Meg approaches the two angels suspiciously. Neither of them look up from the game. One of them wears his iconic trench coat, the other in white hospital gown, ruffled from sleeping in.
+"What was that?" Meg approaches the two angels suspiciously. Neither of them look up from the game. One of them wears his iconic trench coat, the other a white hospital gown, ruffled from sleeping in.
 
 Meg knows Castiel's trench coat still hangs on the foot of his bed.
 
-"Do you know there is a game in 19th century, so famous that it's called 'Immortal Game.'" The Castiel in trench coat says, moving a bishop on the board.
+"Do you know there was a game in 19th century so famous that it's called the 'Immortal Game'?" the Castiel in the trench coat says, moving a bishop on the board.
 
-"But the game isn't really immortal," the Castiel sitting opposite to him moves a knight in defense.
+"But the game isn't really immortal," the Castiel sitting opposite him moves a knight in defense.
 
-"No, I mean, WHAT?" Meg walks up to the table, staring at both of them. "Who are you?" Her fingers fumble to her back, clutching on a hidden angel blade.
+"No, I mean, WHAT?" Meg walks up to the table, staring at both of them. "Who are you?" Her fingers fumble behind her back, clutching a hidden angel blade.
 
-"I'm Castiel." The angel in trench coat tells her plainly.
+"I'm Castiel," the angel in the trench coat tells her plainly.
 
-"And I'm Castiel." The other one says the same, with a warm smile, as if playing chess with oneself is the most normal thing in his life.
+"And I'm Castiel," the other one says, with a warm smile, as if playing chess with oneself is the most normal thing in his life.
 
 "Uh-hum." Meg doesn't loosen her angel blade, unconvinced.
 
@@ -242,7 +274,7 @@ The trench coat Cas tells her, "He is -- or, he will be." He checks the clock on
 
 > (Dean POV)
 >
-> crazy!Cas wake up, broken, mind wanders about everything in the universe, insects, small things; enter Dean, canon quarrel of asking for help but Cas run away, Dean chase him into day room, Cas slip "been here for weeks" "what do you mean for weeks, I just saw you two minutes ago" "that's three weeks ago for me. It's quiet here, it's nice."
+> crazy!Cas wake up, broken, mind wanders about everything in the universe, insects, small things; enter Dean, canon quarrel of asking for help but Cas run away, Dean chase him into dayroom, Cas slip "been here for weeks" "what do you mean for weeks, I just saw you two minutes ago" "that's three weeks ago for me. It's quiet here, it's nice."
 >
 > bring Cas home (Rufus's shelter), empathize on: Cas unwilling to help leviathan problem, Cas super broken, Dean super impatient & pissed. After a big quarrel ("You don't get to have a cat, no one cares you're broken, it's your mess, you clean it up" S07E23 or similar), Cas is gone again. Cas very quickly reappear and disappear, drop a red-haired woman with a 7y-old boy at doorstep, who slips names they're Rowena & Fergus MacLeod.
 
@@ -426,7 +458,7 @@ Dean glances around, not seeing him. "Typical," he mumbles, feeling even shittie
 
 to make contrast with the ending, the beginning emphasize on: <u>Cas unwilling to help leviathan problem, Cas super broken, Dean super impatient</u>
 
-When Cas was broken, every time he ran away from a quarrel, like the first time in hospital, Dean worry he can be in any time anywhere, Meg says he's just in the day room. And we assumed he's just fly there, a displacement, not a temporal flight, but we are wrong, everyone's wrong. He flies to the past, and he's not flying back, he takes the long way, wait out for the time to pass slowly, until it come back to the current timeline, and meet Dean in the day room in the now time. He can be there for hours or even weeks already. He's an angel, <u>hundreds of thousands of years is a blink</u>. He plays games with himself, he calms himself down, ~~because he was trying to forget the reminded trauma about conflict (don't touch it)~~, knows he's safe because Dean wasn't there then, <u>so he won't be disturbed no matter what</u>, the perfect place (and time) to hide to. (slips how long he's been there, that's how Dean know)
+When Cas was broken, every time he ran away from a quarrel, like the first time in hospital, Dean worry he can be in any time anywhere, Meg says he's just in the dayroom. And we assumed he's just fly there, a displacement, not a temporal flight, but we are wrong, everyone's wrong. He flies to the past, and he's not flying back, he takes the long way, wait out for the time to pass slowly, until it come back to the current timeline, and meet Dean in the dayroom in the now time. He can be there for hours or even weeks already. He's an angel, <u>hundreds of thousands of years is a blink</u>. He plays games with himself, he calms himself down, ~~because he was trying to forget the reminded trauma about conflict (don't touch it)~~, knows he's safe because Dean wasn't there then, <u>so he won't be disturbed no matter what</u>, the perfect place (and time) to hide to. (slips how long he's been there, that's how Dean know)
 
 That's how he calm himself back down, piece himself back together. He would have needed way longer to piece himself together, not just a night (8pm in the night, Meg called them in the morning), <u>he has spent way longer, but that time was folded</u>, he spent them in the past, saved them so much more time, so the current him that they meet is already a sane enough version, walking and talking, mostly functional, the best he can manage for himself to be presentable. <u>Even if broken, he wants them to meet the best version of him, he doesn't want them disappointed at him.</u>
 
@@ -1321,7 +1353,9 @@ He has to pull his wandering mind back before it drifts too far away.
 
 "I'm glad it would mean Earth can be safe," Cas answers quietly, "that you can be safe."
 
-They un-save the planet and watch Phaeton explode. Dean thinks it's only right to hold and squeeze Cas's hand at moment like this, so that's exactly what he does. Cas squeezes back thankfully.
+They un-save the planet and watch Phaeton explode. The force is so strong that the comets flying too close to its core get pushed far out of the way. Dust and rocks scatter in the space, finding their own orbits to fly around the Sun. The asteroid belt starts taking its form. Even the Sun looks a degree dimmer losing a planet and all the potential lives that could have been there from its system.
+
+Dean thinks it's only right to hold and squeeze Cas's hand at moment like this, so that's exactly what he does. Cas squeezes back thankfully.
 
 "In the Greek mythology, Phaeton is the son of Helios, driving the chariot too unstably, burning and freezing the Earth, so Zeus kills him," Cas tells him, as the fragments of Phaeton fill in the gaps between Mars and Jupiter.
 
@@ -1347,7 +1381,7 @@ And Dean realizes, it's the longest time, the most patient time he ever gives Ca
 
 Dean inhales sharply, "How?"
 
-"Do you remember that time, when you yelled at me in the hospital and I flew to the day room, and I told you I had been there for three weeks?"
+"Do you remember that time, when you yelled at me in the hospital and I flew to the dayroom, and I told you I had been there for three weeks?"
 
 "Trying not to." Dean remembers as clear as day just how angry he was at the time. He regrets nothing more about scaring Cas away now. "I'm sorry, I didn't --"
 
@@ -1355,9 +1389,9 @@ Cas gently stops his apology with his gesture. "It wasn't the first time I flew 
 
 "You flew back years, even centuries," Dean murmurs in astonishment.
 
-Cas nods. "I needed time to recover. And even in that state when I first woke up, I knew I'd need more time than we had to fix myself. We didn't have enough time in the current time, but I could spend them in the past, save you so much more time."
+Cas nods. "I needed time to recover. And even in that state when I first woke up, I knew I'd need more time than we had to fix myself. We didn't have enough time in the current time, but I spent them in the past, to save *you* the time we would have needed."
 
-"But you would be alone all those centuries." Dean closes his eyes, heart clenching. He imagines a broken angel that Cas was, wandering in the century-old street, alone, in his hospital gown, not really have a clear enough mind, not have anyone to turn to if he needed help. But he went there, so he could save them the most precious time that they couldn't spare on him. He feels his chest too tight to breath, and it's the first time he's reminded he's in the vacuum in the space.
+"But you would be alone all those centuries." Dean closes his eyes, heart clenching, voice choking. He imagines a broken angel that Cas was, wandering in the century-old street, alone, in his hospital gown, not really have a clear enough mind, not have anyone to turn to if he needed help. But he went there, so he could save them the most precious time that they couldn't spare on him. He feels his chest too tight to breath, and it's the first time he's reminded he's in the vacuum in the space.
 
 Cas manages another tight smile. "I think, part of me also didn't want you see me as I was, the broken beyond repair version of me, the one too insane to be of any use --" For the first time, he closes his eyes when he talks, because there is too much pain in it, and it makes Dean's heart bleeds. And Cas finishes the sentence: "-- because I wouldn't know what to do, if you find me like that, and look at me with disappointment in your eyes. I was afraid I might kill myself."
 
@@ -1471,7 +1505,7 @@ they have just see the beginning of the time and universe, what else can they be
 
 match back to the beginning angst:
 
-When Cas was broken, every time he ran away from a quarrel, like the first time in hospital, Dean worry he can be in any time anywhere, Meg says he's just in the day room. And we assumed he's just fly there, a displacement, not a temporal flight, but we are wrong, everyone's wrong. He flies to the past, and he's not flying back, he takes the long way, wait out for the time to pass slowly, until it come back to the current timeline, and meet Dean in the day room in the now time. He can be there for hours or even weeks already. He's an angel, <u>hundreds of thousands of years is a blink</u>. He plays games with himself, he calms himself down, ~~because he was trying to forget the reminded trauma about conflict (don't touch it)~~, knows he's safe because Dean wasn't there then, <u>so he won't be disturbed no matter what</u>, the perfect place (and time) to hide to. (slips how long he's been there, that's how Dean know)
+When Cas was broken, every time he ran away from a quarrel, like the first time in hospital, Dean worry he can be in any time anywhere, Meg says he's just in the dayroom. And we assumed he's just fly there, a displacement, not a temporal flight, but we are wrong, everyone's wrong. He flies to the past, and he's not flying back, he takes the long way, wait out for the time to pass slowly, until it come back to the current timeline, and meet Dean in the dayroom in the now time. He can be there for hours or even weeks already. He's an angel, <u>hundreds of thousands of years is a blink</u>. He plays games with himself, he calms himself down, ~~because he was trying to forget the reminded trauma about conflict (don't touch it)~~, knows he's safe because Dean wasn't there then, <u>so he won't be disturbed no matter what</u>, the perfect place (and time) to hide to. (slips how long he's been there, that's how Dean know)
 
 That's how he calm himself back down, piece himself back together. He would have needed way longer to piece himself together, not just a night (8pm in the night, Meg called them in the morning), <u>he has spent way longer, but that time was folded</u>, he spent them in the past, saved them so much more time, so the current him that they meet is already a sane enough version, walking and talking, mostly functional, the best he can manage for himself to be presentable. <u>Even if broken, he wants them to meet the best version of him, he doesn't want them disappointed at him.</u>
 
