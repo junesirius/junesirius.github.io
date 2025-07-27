@@ -166,11 +166,17 @@ Meg scrutinizes him carefully, and she points out the obvious, slowly, "Dean is 
 
 The trench coat Cas tells her, "He is -- or, he will be." He checks the clock on the dayroom wall. "In about twenty-four hours."
 
+### Arts
+
+#### Banner
+
+#### Art
+
 ### Editing notes
 
-the chapters where Cas went away, write in Dean's POV or 3rd POV
+~~the chapters where Cas went away, write in Dean's POV or 3rd POV~~
 
-doesn't need to be in the same order as the organized timeline idea, could rewind and skip, especially the time jump events, bc Dean'll revisit with him, so doesn't have to write twice, can go through Dean POV, only detail them on 2nd trip
+~~doesn't need to be in the same order as the organized timeline idea, could rewind and skip, especially the time jump events, bc Dean'll revisit with him, so doesn't have to write twice, can go through Dean POV, only detail them on 2nd trip~~
 
 ## Main
 
@@ -278,7 +284,7 @@ The trench coat Cas tells her, "He is -- or, he will be." He checks the clock on
 >
 > bring Cas home (Rufus's shelter), empathize on: Cas unwilling to help leviathan problem, Cas super broken, Dean super impatient & pissed. After a big quarrel ("You don't get to have a cat, no one cares you're broken, it's your mess, you clean it up" S07E23 or similar), Cas is gone again. Cas very quickly reappear and disappear, drop a red-haired woman with a 7y-old boy at doorstep, who slips names they're Rowena & Fergus MacLeod.
 
-(**Warning words before chapter:** canon-typical anger control issue, Dean isn't very friendly or patient with Cas, some part can be upsetting, heavy angst)
+(**Warning notes before chapter:** canon-typical anger control issue, Dean isn't very friendly or patient with Cas, some part can be upsetting, heavy angst)
 
 <br>
 
@@ -452,7 +458,7 @@ Dean glances around, not seeing him. "Typical," he mumbles, feeling even shittie
 
 <br>
 
-(**Words after the chapter**: Please hang in there with me, I hate writing angry Dean but it's sort of just necessary for the story's purpose, really need a conflict situation to make Cas fly away. Things will get better shortly, promise.)
+(**Notes after the chapter**: Please hang in there with me, I hate writing angry Dean but it's sort of just necessary for the story's purpose, really need a conflict situation to make Cas fly away. Things will get better shortly, promise.)
 
 #### draft notes
 
@@ -809,7 +815,7 @@ Then he waits.
 
 <br>
 
-(**Words after chapter:**
+(**Notes after chapter:**
 
 This chapter in its entirety is inspired by Doctor Who S04E02 *The Fires of Pompeii*. It's just too tempting not to write the crazy broken Cas pays a visit to Pompeii, trying to save as many people as he can, with single mindset being "he has to save people" like Dean told him to.
 
@@ -1125,7 +1131,7 @@ characters: Caecilius (banker, marble trader), Metella, Evelina, Quintus
 
 Consequence if not fix: Pompeii still exists, just a normal, kinetic, lively town in Italy, but too many people → social, cultural problem? social instability?
 
-### Chap. 8 From Ice Age to Age of Fishes
+### Chap. 8 From Ice Age to Age of Fishes (40 thousand - 357 million years ago)
 
 > trace back, fast forward: homo sapiens vs Neanderthals, what does "human" mean
 >
@@ -1271,7 +1277,7 @@ They spend the rest of the day throwing the other fish that shouldn't be there b
 
 <br>
 
-**Words after chapter:** The part about Neanderthals is partially inspired by a small plot in *Everything Everywhere All at Once*.
+**Notes after chapter:** The part about Neanderthals is partially inspired by a small plot in *Everything Everywhere All at Once*.
 
 #### draft notes
 
@@ -1305,7 +1311,7 @@ Dean: No way, I'm pretty sure your book says Adam is a *man*
 
 Cas: And what's the definition of a man?
 
-Dean: (stare at Cas, shake hands, stare at fish again, still can't believe) You gotta be kidding me.
+Dean: (stare at Cas, shake his head, stare at fish again, still can't believe) You gotta be kidding me.
 
 ### Chap 9 Space, Hadean Eon (4.6 billion years ago)
 
@@ -1492,6 +1498,36 @@ Somehow, this time, he already knew they'd succeed.
 <br>
 
 **END**
+
+<br>
+
+**Notes after chapter**:
+
+I'll have to confess the story turns out a bit different from what I imagined in the first place. The ultimate scene I really wanted to write is the one they float in the space and watch the planet that shouldn't be there, and eventually have to explode it -- at least I got that part roughly right. But so many other things, those other past times they travel back to, they just turned out a bit different, it's hard to explain. I didn't really get to write as much about broken Cas as I planed as well, Dean's thoughts keep carry the story away, so I blame that on Dean.
+
+But it's not Dean's fault to be taken away by all the things he gets to see and has to do. The beginning of the evolution, the extinction of species, the formation and destruction of planets. It's too big for human, too grand, too celestial, too cosmic, too angelic. I love seeing him awed, by the nature and world itself, and most of all, by Cas. He's reminded over and over again that even when Cas is broken, he's still an angel, magnificent and beautiful and powerful. And in this journey, he gets to experience all those with him, watching all the most human side and most celestial side of Cas, learning more about him by every stop, loving him by every minute. It's not even about love anymore, like he realized, everything is too mind-blowing and eye-opening to even think properly. I think he's not the only one who can't think properly because of how big these scenes are.
+
+<br>
+
+There is a small snippet in the outline I can't find a right place to put into the work, but it's a funny little one, so I'll just leave it here:
+
+> Cas: That little grey fish, his name is actually Adam.
+>
+> Dean: Wait, *THE Adam*? No way, I'm pretty sure your book says Adam is a *man*.
+>
+> Cas: And what's the definition of a *man*?
+>
+> Dean: (stare at Cas, shake his head, stare at the fish again, still can't believe) You gotta be kidding me.
+>
+> Cas: (a tiny little smile)
+
+<br>
+
+Thank you for reading my story! Hope you enjoy it.
+
+And please, I long for comments, leave some if you have *anything* to say! Love u!
+
+<br>
 
 #### draft notes
 
