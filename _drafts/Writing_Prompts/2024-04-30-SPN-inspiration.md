@@ -3393,4 +3393,18 @@ Dean has a lot more needs for touching, Cas lets him touch him, for sense of sec
 
 (突然想起好像看见过一篇类似的，[《My Eyes Are An Ocean》](https://archiveofourown.org/works/153889)，tone非常calm，end with Cas taking out his own eyes to give them to Dean, so Dean can see now and his eyes are blue, he freaks out a little. Cas: "I can heal myself." so of course he'd give him his eyes. 写得非常好)
 
-### 315.
+### 315.【all/destiel】时间流速换算公式
+
+从S4已知：人间1个月=地狱10年（Sam在地面上4个月，Dean在地狱40年）
+
+从S8已知：人间1年=炼狱1年（Sam在地面上1年，Dean/Cas在炼狱1年）
+
+从S15已知：天堂1分钟=人间10年（Dean在天堂4分钟（carry on my wayward son播放时长），Sam在地面上40年（40岁到大概80岁））
+
+所以时间流速，人间和炼狱同速，地狱最慢，天堂最快
+
+所以天堂1分钟=人间10年=炼狱10年=地狱1200年，no wonder the souls and demons in Hell are so twisted
+
+提问：地狱不同地方时间流速是否也会不同，Dean在Pit的体验感是40年，如果他在Cage或者Hell的其他地方，是不是会更长/更短
+
+### 316.
