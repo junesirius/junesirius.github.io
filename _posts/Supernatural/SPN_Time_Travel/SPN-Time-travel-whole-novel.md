@@ -130,6 +130,10 @@ He goes to see a city that has disappeared two thousand years ago, a creature he
 
 And Dean, already exhausted from endless world-saving, have to travel to eons ago, to find his best and broken angel friend and bring him home. 
 
+#### Excerpt
+
+
+
 ### Editing notes
 
 the chapters where Cas went away, write in Dean's POV or 3rd POV
@@ -1003,11 +1007,11 @@ Because the angel has a tiniest curl on the tip of his lips. And Dean doesn't mi
 
 witness witch trial, normal human cruelty, can't save them even if they want, even if he knows some of them are innocent, can't change history, they *have to* die; Dean starts understand Cas's dilemma in human history, but this is only the beginning
 
-~~medieval, witch trial, save a poor women (but actually real witch) ← was to meet a witch promised to give him peace but persecuted shortly, Canisbay Scotland, 1668 summer with a 7y old boy, turn out to be Rowena&Fergus MacLeod, peasant, daughter of tanner (fly away because of the violence & conflict)~~
+medieval, witch trial, save a poor women (but actually real witch) ← was to meet a witch promised to give him peace but persecuted shortly, Canisbay Scotland, 1668 summer with a 7y old boy, turn out to be Rowena&Fergus MacLeod, peasant, daughter of tanner (fly away because of the violence & conflict)
 
-~~Rowena: self-loathing, newly deserted by the rich man going back to his rich wife, feel weak, "if I don't hate you, I would love you", not cruel yet but angry, hatred of the world bc cruelty, b. 1640, now 28y, Fergus 7y; Cas ≈ Oskar to her for now, be kind to her, but can't change anything fundamentally~~
+Rowena: self-loathing, newly deserted by the rich man going back to his rich wife, feel weak, "if I don't hate you, I would love you", not cruel yet but angry, hatred of the world bc cruelty, b. 1640, now 28y, Fergus 7y; Cas ≈ Oskar to her for now, be kind to her, but can't change anything fundamentally
 
-~~consequence if not fix: witch running around in Scotland, cursing people through all history~~
+consequence if not fix: witch running around in Scotland, cursing people through all history
 
 ### Chap. 7 Pompeii, 79 AD (2,000 years ago)
 
@@ -1083,11 +1087,11 @@ Dean manages to nod, and he tells Cas, "I'm glad to be here, too."
 
 #### draft notes
 
-~~Pompeii, stop the volcano, same the twenty thousand people, consequence? history of Italy changed, culture development unbalanced? ← (short, in passing line) "I was in here and here and here", one of time/place: Mount Vesuvius, 79 AD eruption day Aug 24 ("the word 'volcano' wasn't invented until that day")(year of "Consulhood of Vespasian and Titus")~~
+Pompeii, stop the volcano, same the twenty thousand people, consequence? history of Italy changed, culture development unbalanced? ← (short, in passing line) "I was in here and here and here", one of time/place: Mount Vesuvius, 79 AD eruption day Aug 24 ("the word 'volcano' wasn't invented until that day")(year of "Consulhood of Vespasian and Titus")
 
-~~characters: Caecilius (banker, marble trader), Metella, Evelina, Quintus~~
+characters: Caecilius (banker, marble trader), Metella, Evelina, Quintus
 
-~~Consequence if not fix: Pompeii still exists, just a normal, kinetic, lively town in Italy, but too many people → social, cultural problem? social instability?~~
+Consequence if not fix: Pompeii still exists, just a normal, kinetic, lively town in Italy, but too many people → social, cultural problem? social instability?
 
 ### Chap. 8 From Ice Age to Age of Fishes
 
@@ -1241,25 +1245,25 @@ They spend the rest of the day throwing the other fish that shouldn't be there b
 
 it's a war against natural order, not even fighting Death or God could compare to that. Natural Order isn't someone they can bargain with or find a loophole to escape, it just *is*. And the only thing they can do is obey.
 
-~~the very early human evolution, the homo sapiens vs Neanderthals', enjoy the company with the very first few humans, relationship with Adam etc.? <u>watching bees nude</u> (natural science history vs religious history, how to merge?) ← accidentally affect human evolution, modern human has different features (write in a way that modern people don't realize weird things are weird because it changes the whole history, butterfly effect)~~
+the very early human evolution, the homo sapiens vs Neanderthals', enjoy the company with the very first few humans, relationship with Adam etc.? <u>watching bees nude</u> (natural science history vs religious history, how to merge?) ← accidentally affect human evolution, modern human has different features (write in a way that modern people don't realize weird things are weird because it changes the whole history, butterfly effect)
 
-~~Consequence if not fix: both human species coexist and forever at war, Dean biologically look/sound differently~~
-
-///
-
-~~can't save every life, normal nature cruelty & nature rule~~
-
-~~falling asteroid, dinosaur extinction, comment: "just like Sodom and Gomorrah", "I wasn't there" (because he actually was, suddenly remember?) ← real dinosaurs have furs~~
-
-~~Consequence if not fix: dinosaur coexist with human~~
+Consequence if not fix: both human species coexist and forever at war, Dean biologically look/sound differently
 
 ///
 
-~~watch the fish, the first fish on the shore (S06E20 I remember being at a shoreline, watching a little grey fish heave itself up on the beach and an older brother saying, "don't step on that fish, Castiel. Big plans for that fish."), the first creature on the land ← help it? touch it? affect its evolution?~~
+can't save every life, normal nature cruelty & nature rule
 
-~~Cas try to help other fish that didn't make it to make it to the shore as well, which he shouldn't; so now in order to fix it, they'll have kill those other fish too, leaving only one to succeed~~
+falling asteroid, dinosaur extinction, comment: "just like Sodom and Gomorrah", "I wasn't there" (because he actually was, suddenly remember?) ← real dinosaurs have furs
 
-~~Consequence if not fix: other humanoid species existing along with normal human beings (e.g. fish-people, bird-people, lizard-people)~~
+Consequence if not fix: dinosaur coexist with human
+
+///
+
+watch the fish, the first fish on the shore (S06E20 I remember being at a shoreline, watching a little grey fish heave itself up on the beach and an older brother saying, "don't step on that fish, Castiel. Big plans for that fish."), the first creature on the land ← help it? touch it? affect its evolution?
+
+Cas try to help other fish that didn't make it to make it to the shore as well, which he shouldn't; so now in order to fix it, they'll have kill those other fish too, leaving only one to succeed
+
+Consequence if not fix: other humanoid species existing along with normal human beings (e.g. fish-people, bird-people, lizard-people)
 
 
 
@@ -1371,45 +1375,95 @@ Cas stills in his embrace. He pulls back slowly, with tears still hanging on his
 
 Dean wipes his tears away, so he can see Cas's face and those astonishingly blue eyes without water in his eyes. And he starts smiling, then the smile turns into a true-hearted laugh, then the laugh just doesn't stop. "Yes, Cas, I do. I really do. I don't know why it's taking all the dinosaurs and fish and an exploded planet for me to realize it, but yes, I do. God, I have no idea, but I don't think I even know how to live without you. Those past months, you have no idea."
 
-Cas's lips tremble, and when he speaks, his voice is so in awe. And he tells Dean, "I love you, too, from the moment I saved you from the Hell. I realized that, because I love you more than the dinosaurs, more than the Neanderthals, and more than a whole planet. I'd destroy them to save you, like we just did."
+Cas's lips tremble, and when he speaks, his voice is so in awe. And he tells Dean, "I love you, too, from the moment I saved you from the Hell. I realized that, because I love you more than the dinosaurs, more than the Neanderthals, and more than a whole planet. I'd destroy them to save you, to save the world you're in, like we just did, and I don't regret any of that."
 
-There is nothing more to say after that. So Dean just holds the angel tighter, feeling the synchronized heaves and falls of their chests against each other, feeling the vibration of their heart under the skin and bone. So close, as if they are melting into each other's life. Dean thinks, in a way, they already are.
+There is nothing more to say after that. So Dean just holds the angel closer, feeling the synchronized heaves and falls of their chests against each other, feeling the vibration of their hearts under the skin and bone. So close, as if they are melting into each other's existence. Dean thinks, in a way, they already are.
 
-The planets spin quietly around them. The Sun shines on them. It feels like the whole universe is just breathing peacefully with them.
+The planets spin quietly around them. The Sun shines on them. It feels like the whole universe is just breathing peacefully with them now.
 
-Dean exhales long and slow, finding the breath come out easily this time. So is Cas's.
+Dean exhales long and slow, finding his breath come out easily this time. So is Cas's.
 
 <br>
 
 #### draft notes
 
-~~that destroyed planet's name: Phaeton~~
+that destroyed planet's name: Phaeton
 
-~~the formation of Earth, solar system, galaxy ← watch the space quietly, help create the stars, maybe this is when the asteroid belt was formed, should have been a star there, Cas break one when he's there this time, so now throughout the whole history, that planet doesn't exist (give that star a name and some feature? Diana (Artemis), from Roman history like the rest, or gods name from star name bc stars come first)~~
+the formation of Earth, solar system, galaxy ← watch the space quietly, help create the stars, maybe this is when the asteroid belt was formed, should have been a star there, Cas break one when he's there this time, so now throughout the whole history, that planet doesn't exist (give that star a name and some feature? Diana (Artemis), from Roman history like the rest, or gods name from star name bc stars come first)
 
-~~Consequence if not fix: gravity and orbit of Earth is changed, unstable environment for human living, human extinction/not evolved like this in the first place; new asteroid rain toward Earth bc no protection from asteroid belt, immediate end of world (=Earth) threat~~
+Consequence if not fix: gravity and orbit of Earth is changed, unstable environment for human living, human extinction/not evolved like this in the first place; new asteroid rain toward Earth bc no protection from asteroid belt, immediate end of world (=Earth) threat
 
-~~Dean finally get to see the whole human and universe history together with Cas, in Cas's eyes, see a broader world view, how many human get to see human evolution and Earth's creation. Dean float in the space watching Earth forming for the first time, air and sea start to divide and shape, he's not looking at the universe, he's looking at Cas (≈ Good Omens S2, DW S01E02), realize more than ever how unhuman and human Cas is, in awe and feel pain. They fix timeline and go home together.~~
+Dean finally get to see the whole human and universe history together with Cas, in Cas's eyes, see a broader world view, how many human get to see human evolution and Earth's creation. Dean float in the space watching Earth forming for the first time, air and sea start to divide and shape, he's not looking at the universe, he's looking at Cas (≈ Good Omens S2, DW S01E02), realize more than ever how unhuman and human Cas is, in awe and feel pain. They fix timeline and go home together.
 
-~~<u>he has spent way longer, but that time was folded</u>, he spent them in the past, saved them so much more time, so the current him that they meet is already a sane enough version, walking and talking, mostly functional, the best he can manage for himself to be presentable. <u>Even if broken, he wants them to meet the best version of him, he doesn't want them disappointed at him.</u>~~
+<u>he has spent way longer, but that time was folded</u>, he spent them in the past, saved them so much more time, so the current him that they meet is already a sane enough version, walking and talking, mostly functional, the best he can manage for himself to be presentable. <u>Even if broken, he wants them to meet the best version of him, he doesn't want them disappointed at him.</u>
 
 ### Chap. 10 Whitefish, Montana, 2012 (now)
 
-> (Dean POV) go back to original timeline (May 18, 2012), still need to fix leviathan problem (mention why can't fix from changing past timeline), after all that, Cas willing to help, still slightly broken but a lot more mature and pull himself together (less child-like), Dean willing to be patient enough, ready to pull the big fight on leviathan and save the world together again. they have just see the beginning the time and universe, what else can they be scared of
+> (Dean POV) go back to original timeline (May 18, 2012), still need to fix leviathan problem (mention why can't fix from changing past timeline), after all that, Cas willing to help, still slightly broken but a lot more mature and pull himself together (less child-like), Dean willing to be patient enough, ready to pull the big fight on leviathan and save the world together again. they have just see the beginning of the time and universe, what else can they be scared of
 
+They come home together, finally.
 
+It's still just the shabby hunter's cabin in the middle of nowhere of Whitefish, Montana. But it's home, with all of them back together, Sam included.
 
-###### [TBA]
+"Home sweet home," Dean sighs in a relief, rushing to drag his brother into a hug before he can protest.
 
-> go back original timeline (May 18, 2012), still need to fix Leviathan problem
->
-> Cas willing to help, Dean willing to be patient
->
-> "All the creation accompanies death, all the extinction accompanies new life. That's the natural order. You can't save every single human being, you can't save all living life, you can't save a star." "But at least we can try. And we will." That's what Dean's made of. That's what Cas loves him for. That's what the two of them are going to do no matter what. That's the story of them.
+Sam pats him on the back awkwardly, "Since when did you become a hugger?" He chuckles slightly.
+
+"Shut up," Dean lets him go. "How long have we been gone?"
+
+Sam checks his watch. "Three hours, give or take."
+
+"Not bad," Dean glances at Cas, finding his attention attracted to the TV. The reporter is delivering a weather forecast. Not any breaking news this time. "Anything on TV?" he asks.
+
+Cas shakes his head. "Everything is back to normal."
+
+"And Leviathans?" Deans asks, rising his eyebrows with hope.
+
+"Still out there," Cas tells him, almost apologetically.
+
+Dean shrugs. "As good as where we started then."
+
+Sam regards them. "Hello, Castiel," he greets the angel with a tight smile, then turns to Dean again, lowering his voice. "I see you found him, and I take it all those butterfly effects are back on track now?"
+
+Dean smiles, a little more bright than he meant to be. "We have to explode a planet to do that, can you believe that? The view is spectacular. I'm sorry you missed that."
+
+Sam rolls his eyes, "Sounds fun, but I'd rather *not* have to do anything like that."
+
+Dean drops his smile, landing his gaze on Cas again. "You're right, hopefully not again."
+
+Sam eyes them carefully. "There is something different with you two," he comments. "Is there anything I need to know?"
+
+Dean drags his stare away and looks at his brother with the most innocent eyes. "No, nothing. Just that Cas and I have sorted out a few things, and now we are good."
+
+Sam doesn't look convinced but he lets it slip. "Good," he says, sitting back at the desk where his laptop is, "now that we don't have a global witch problem, or a dinosaur problem, can we go back talk about how to handle the Leviathans?"
+
+"And I'd like to help," Cas offers earnestly. "Whatever you need me for."
+
+Dean looks at him, impressed. "What happened to the no-fight-and-no-conflict rule?"
+
+"I am not as 'crazy' or 'broken' as before now," Cas uses his fingers to do the air quotes, Dean can't help chuckling. "And if our journey has taught me anything, there is nothing I wouldn't do for you. So, anything you need, just ask."
+
+Dean blinks rapidly, glancing in Sam's direction only to find his brother pointedly raises an amused eyebrow that means "What did I say?" Dean mouths a "Shut up" as reply, and asks instead, "Sam, you find anything useful?"
+
+Sam turns to his notebook, and starts: "So, get this -- 'Leviathan cannot be slain but by a bone of a righteous mortal washed in the three bloods of the fallen.' and 'Cut off the head, and the body will flounder.' So we might get a chance if..."
+
+Sam goes on with the new plan he has in mind while they're away. Dean watches him talking with that new glint of hope in his eyes, and Cas, listening so attentively, glancing to meet his eyes once in a while to give him a reassuring small smile. It's just like all those other times, when they know they are in the last night before a big battle, when they are ready to pull a big fight and save the world together again, whatever the cost.
+
+And Dean finds himself thinking: They weren't able to save all those people from Pompeii, or the dinosaurs, or the other fish -- they couldn't save all the lives from the past, they couldn't save a star from the beginning of time, but at least they can damn well try to save *this* world, at *this* time, with all the most important people in his life -- and that's exactly what they are going to do.
+
+Dean sits down by the table, and tells them with a smile, "Let's do this."
+
+Somehow, this time, he already knew they'd succeed.
+
+<br>
+
+**END**
 
 #### draft notes
 
 go back to the original timeline, still need to fix leviathan problem (can't fix it in the past bc Cas unleash them himself, fixed point, paradox), after all that, Cas willing to help, Dean willing to be patient enough to him, Cas's brokenness is fixed (go back to fit into S07E23 before finale)
+
+they have just see the beginning of the time and universe, what else can they be afraid of
 
 "All the creation accompanies death, all the extinction accompanies new life. That's the natural order. You can't save every single human being, you can't save all living life, you can't save a star." "But at least we can try. And we will." That's what Dean's made of. That's what Cas loves him for. That's what the two of them are going to do no matter what. That's the story of them.
 
@@ -1422,5 +1476,3 @@ When Cas was broken, every time he ran away from a quarrel, like the first time 
 That's how he calm himself back down, piece himself back together. He would have needed way longer to piece himself together, not just a night (8pm in the night, Meg called them in the morning), <u>he has spent way longer, but that time was folded</u>, he spent them in the past, saved them so much more time, so the current him that they meet is already a sane enough version, walking and talking, mostly functional, the best he can manage for himself to be presentable. <u>Even if broken, he wants them to meet the best version of him, he doesn't want them disappointed at him.</u>
 
 Every time there is a quarrel and he flies back, he flies back further and waits out longer. The first few times are still the recent times when they are around him, hours, then years, then decades, centuries, millenniums, he goes back to history, then pre-history. He wants to help, to make the world a better place, to fix things from the root cause, since the very first time things went wrong, so he traces back time to change history
-
-###### [END]
