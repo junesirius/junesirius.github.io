@@ -836,6 +836,8 @@ Dean try to figure out who she is and where is his car, Dean had sex with her? "
 
 ≈ prompt 307, a variation
 
+Queen's 《I'm in love with my car》as BGM
+
 ### 82.【Dean】What if Ben is Dean's own
 
 What if Lisa lied and Ben *is* Dean's own. Post-621, they have no memory of Dean, but Ben is dying of natural mortal disease (for some reason angels aren't there or can't fix either, maybe during S9 when Cas is human?), need transplant, Dean is the only fit and he finds out
