@@ -136,4 +136,14 @@ hidden在这个time gap之后的是time travel/time flux的入口？可以直接
 
 （可以跟裂缝那个梗结合，又是一天DST change日，又是一个DST日trigger的想法）
 
-### 16.
+### 16.Soul Injector
+
+Having to work with AI, the machine doesn't have soul, adding human creativities and sparks into the story is like injecting soul into those lifeless things
+
+Imagine a job is literally "soul injector", human creator/artist/writer/people with actual creativity to inject their soul into machine/AI, give them life/thoughts/conscious/soul
+
+"It's easy for machine to have life, but not so much to have soul"
+
+they're like god, giving machine real soul
+
+### 17.
