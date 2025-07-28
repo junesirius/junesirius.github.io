@@ -11,7 +11,9 @@ long_novels: 【Destiel】Angel Black Death
 published: false
 ---
 
-(**Tags:** canon divergent, post-S11 timeline, minus BMOL, graphic depictions of violence, temporary main character death, main character near death experience, soul-grace dance)
+(**Tags:** canon divergent, post-S11 finale, minus BMOL and Mary, graphic depictions of violence, temporary main character death, main character near death experience, graphic depictions of disease symptoms, soul-grace dance, love is the best cure, Team Free-Will, Happy Ending)
+
+(**Rating**: Teen and up (for violence))
 
 (**Notes before/after work:** Believe it or not, this story starts as a one-shot idea. Just a one-liner thought popped in my mind: "What would it be like when there is an outburst contagious disease infecting and killing angels like Black Death?" when the song I was listening to has a line says "I cry when angels deserve to die." I can immediately hear Cas say: "Do angels deserve to die? Do I?" And the story starts from there.
 
@@ -85,7 +87,23 @@ The Angel Black Death is caused by Amara/Darkness. Angels are essentially light,
 
 Cas is also infected, but because A) the times he met Darkness face-to-face, he has Lucifer with him, his own body/existence is more or less protected by archangel (even if Lucifer isn't intentionally doing it), he's not infected back then; B) when he goes back to Heaven to check up on infected angels, he goes with a very low amount grace, almost human, so only that portion of grace is infected. So his symptoms are slower and less deadly than other angels. But he still can't self-heal, and given time, it's still killing him. That's why his symptoms are only showing slowly.
 
-### Summary
+### Claim
+
+#### Claim Summary
+
+When Amara invaded Heaven, angels were infected by darkness disease that is contagious and deadly, much like human's Black Death (so Dean names it "Angel Black Death"). All infected angels die painfully, the whole angel race is going extinct, Heaven crumbles.
+
+Right after S11E23, TFW celebrate the victory after Amara/Chuck gone, then Cas notices ABD, goes to Heaven to investigate and unknowingly get himself infected. They find solution is to use "the Brightest Light" to purify the darkness. They think it might mean Michael or Lucifer. They get Lucifer back from LA music concert when he possesses Vince Vincente, fix his Nick vessel with Crowley's help, get Michael out of Cage with Rowena's help, try to talk them into saving angels but they want to destroy the world instead.
+
+Dean and Sam say yes to Michael and Lucifer, and take over the control eventually, sacrifice each other to save the world and cure angels. Cas goes to Heaven to resurrect Dean and Sam, they only find out now Cas is also infected and dying. Dean realizes the real "Brightest Light" means love, he uses his soul and love to save Cas. Everyone saved, world in peace again. Happy ending.
+
+#### Visual Elements
+
+Cas lies on the bunker bed, bloody and dying. Dark spots and sick symptoms are showing on his vessel and true form, darkness entangled with his grace light. Dean bends over him, caressing his face, looking at him lovingly. The light from his soul dances with Cas's grace, healing him.
+
+### Posting
+
+#### Posting Summary
 
 ### Arts
 
@@ -1283,11 +1301,11 @@ Dean's heart sinks: you are, aren't you? Why don't you tell me?!
 
 ### Chap. 4: You're Up, Dr. Phil
 
-> From previous chapters quietly describe Cas's getting worse, the whole situation getting way worse, Heaven can't wait any longer, souls go wild in vail or fall from Heaven (quick fast-forward mention they run into some familiar family/friends but don't go into too much detail, passby lines about people running into their dead relatives but not as evil/vengeful spirits)
+> Cas's getting worse, the whole situation getting way worse, Heaven can't wait any longer, souls go wild in vail or fall from Heaven (quick fast-forward mention they run into some familiar family/friends but don't go into too much detail, passby lines about people running into their dead relatives but not as evil/vengeful spirits)
 >
-> has to take Lucifer's advice to release Michael, get Rowena to help, Winchester counseling time for Michael/Lucifer, help them make peace
+> has to take Lucifer's advice to release Michael, get Rowena to help open Cage, get Michael out, Michael meets Lucifer, Winchester counseling time for Michael/Lucifer, help them make peace
 >
-> Michael/Lucifer align to destroy world and let angels die
+> Michael/Lucifer align to destroy world and let angels just die so they can control the world
 
 <br>
 
@@ -1319,7 +1337,7 @@ M/L deciding not saving angels: There is no darkness without light, so if they'r
 >
 > Dean choose Cas and both Sam/Dean back to Earth (Sam is a 6-month swaddle, Dean makes the decision)
 >
-> (The Brightest light that save Heaven is Dean+Sam's love to the world/Cas and their willingness of self-sacrifice)
+> (The Brightest light that save Heaven and world is Dean+Sam's love to the world/Cas and their willingness of self-sacrifice)
 
 #### draft notes
 
@@ -1385,9 +1403,9 @@ Dean pauses and nods briefly but didn't look back. He's afraid he might not have
 
 ### Chap. 6: The Brightest Light
 
-> Cas uses up his power, is still dying, angel/Dumah comes to explain+offer Heaven in their command, Dean's soul is the brightest light, Dean can save him but only if he let himself be honest with his feelings, Dean uses his soul power to touch Cas and purify/save Cas, soul-grace dance, don't need to say love but so much more than love, there is no word for them even "love", Cas is saved, all HE
+> Cas uses up his power to get Sam/Dean back, is still dying because he wasn't in Heaven the purifying explosion happened; one cured angel/Dumah comes to bunker to explain+offer Heaven in their command (because Sam/Dean prove themselves more bright than archangels, they're practically new archangel/god in their eyes), Dean's soul is the brightest light, Dean can save Cas but only if he let himself be honest with his feelings, be open for the first time, Dean uses his soul power to touch Cas and purify/save Cas, soul-grace dance, don't need to say love but so much more than love, there is no word for them even "love" isn't enough, Cas is saved, all HE
 >
-> (The Brightest Light that heal Cas is Dean's love for him)
+> (The Brightest Light that heals Cas is Dean's love for him)
 
 #### draft notes
 
