@@ -95,6 +95,8 @@ Cas is also infected, but because A) the times he met Darkness face-to-face, he 
 
 ### Editing Notes
 
+~~Lucifer: "devilishly handsome face"~~
+
 ## Main
 
 ### Chap. 1 Here We Go, Again
@@ -899,7 +901,7 @@ Sam nods slightly but still not fully convinced. "Doesn't Lucifer also have a na
 
 "We need them to, uhh --" Sam skims through the small texts below the Enochian line quickly -- luckily the rest is in English. He scans fast for the next few lines, his brows raising higher as he reads if it's even possible. "Huh -- give away their light willingly. The cost of purification can take away as much as all the light from the source. And only a determined mind can last long enough to not disrupt the purification process before complete, or all is wasted."
 
-Dean steps away from the armchair slowly to lean his hip on the table. "Wait so, let me get this straight, the solution is to let Michael *or* Lucifer to -- what? Willingly sacrifice themselves to save all angels and humans? You ever met those two? Don't think it's gonna happen till the end of the world."
+Dean steps away from the armchair slowly to lean his hip on the table. "Wait so, let me get this straight, the solution is to let Michael *or* Lucifer to -- what? Willingly sacrifice themselves to save all angels and humans? You ever met those two bastards? Don't think it's gonna happen till the end of the world. They might as well *want* the world end and all angels dead!"
 
 Sam thinks about it for a second. "I don't know, Dean, I mean, we got some big guys talking to us, and persuaded them to do the right thing. I'm talking about God himself, and Devil, and Darkness, and even Death -- and most of the times, they ended up listening to us."
 
@@ -909,7 +911,7 @@ Sam thinks about it for a second. "I don't know, Dean, I mean, we got some big g
 
 Dean stammers, turning to Cas for support, and in return the angel only gestures to Sam, very clearly showing the sign of "You know Sam is right" without actually saying it.
 
-Dean sighs, annoyed but submissive, "I have a bad feeling about t. When can we get out of this we'll-end-the-world-or-the-world-will-end crap? Shit just never stop hitting fans!"
+Dean sighs, annoyed but submissive, "I have a bad feeling about this. When can we get out of this we'll-end-the-world-or-the-world-will-end crap? Shit just never stop hitting fans!"
 
 Cas gives him an upset smile.
 
@@ -935,15 +937,15 @@ The quote "Darkness cannot drive out darkness; only light can do that." The seco
 
 Vince Vincente is not having a good day.
 
-The show tonight was actually great, Tommy and the rest of the band were excited, the crowd was loud. Though honestly, he doesn't see the point of having a regroup for the Ladyheart, he's just doing those old friends a favor.
+The show tonight was actually great, Tommy and the rest of the band were over excited, the crowd was loud. Though honestly, he doesn't see the point of having a regroup performance for the Ladyheart, he's just doing those old friends a favor.
 
-"They are hosting the biggest rock music festival on the planet and they invited us." Tommy told him on the phone when he was driving half way across the country. He didn't bother to ask who are "they" but just listened.
+"They are hosting the biggest rock music festival on the planet and they invited us," Tommy told him on the phone when he was driving half way across the country. He didn't bother to ask who are "they" but just listened.
 
-"I think it would be nice to have a reprise, you know? Get a few concerts for some practice run, find the old feelings like we are still twenties." Tommy talked faster and faster, undoubtedly taken away by the thought.
+"I think it would be nice to have a reprise, you know? Get a few concerts for some practice run, find the old feelings like we are still twenties," Tommy talked faster and faster, undoubtedly taken away by the imagination, feeling young again.
 
-"And then in the festival, bang, we show, we sing, we might go back on top again. Who knows, it can be another 1985 Live Aid again, you might regret the rest of your life if you turn this down. So what do you say? You in it with us, Vince?" Tommy urged him.
+"And then in the festival, bang, we show up, we sing, we might go back on top again. Who knows, it can be another 1985 Live Aid again, you might regret the rest of your life if you turn this down. So what do you say? You in it with us, Vince?" Tommy urged him.
 
-"Okay then." Vince answered plainly, uninterested but he knew better than disappointing the only few friends he still had.
+"Okay then," Vince answered plainly, uninterested but he knew better than disappointing the only few friends he still had.
 
 "Oh and, one more thing," Tommy added hesitantly, "it's gonna be in LA, you ok with that?"
 
@@ -953,65 +955,65 @@ He is not ok with it. Not at all. He said "Sure" back then in the phone just to 
 
 This place, Los Angeles, it's where everything between them started and ended. He has been avoiding the place for thirty years, but now he's back again.
 
-Memory devours him like rising tide devouring a novice surfer. Vince can't really breath, his chest is clenched tight.
+Memory devours him like rising tide devouring a novice surfer. Vince can't really breath, his chest is clenched too tight.
 
-"Vince--" A woman's voice is calling him, barely audible.
+"Vince--" a woman's voice is calling him, barely audible, familiar and alien. Sounds everything like his Jen, and everything that is not.
 
-"Jen?" He answers automatically, looking around. He can tell Jen's voice from anywhere.
+"Jen?" he answers automatically, looking around. He can tell Jen's voice from anywhere.
 
-But he's all alone. Remote chatters and music drifting from outside the door, but inside, he's pretty sure he's all alone. The single light bulb on top of the make-up mirror flickers once.
+But he's all alone. Remote chatters and music drifting from outside the door, but inside, he's pretty sure he's all alone. The single light bulb on top of the make-up mirror flickers once. Thin curtain floats gently in the night wind. Might just be the sound of the wind then.
 
-*Too tired and too messed-up maybe? That he even started hallucinating her voice?* Vince mocks at himself. If it's punishment, he deserves it.
+*Too tired and too messed-up maybe? That he even started hallucinating her voice?* Vince mocks at himself. If it's punishment, he deserves it. It was all his fault, after all.
 
-Cold night wind blows into the room, giving him a shiver. It's almost summer time in Los Angeles, even the night time shouldn't be so cold. A thin thread of thought wonders briefly but drops the attention after a blink.
+Night wind blows into the room, cold, this time, giving him a shiver. It's almost summer time in Los Angeles, even the night time shouldn't be this cold. A thin thread of thought wonders briefly but drops the attention after a blink.
 
-He only glances at the window briefly. White curtains fly up in the wind ominously like a woman's dancing dress. Or a woman's swaying skirt when she is falling from the penthouse.
+He only glances at the window briefly. The white curtains fly up in the wind ominously, rustling, fluttering, like a woman's dancing dress. Or a woman's swaying skirt when she is falling from the penthouse in a free fall.
 
-*Jen has a skirt just like that.* He frantically thinks, panic starts climbing from his spine.
+*Jen has a skirt just like that.* His mind frantically thinks, panic starts climbing from his spine.
 
 "Vince--" The voice gets louder, the sound of breath gets mixed in the wind.
 
-Vince holds his hands on his head. "Jen, please--" he pleas, tears gathering at the edge of his eyes.
+Vince holds his hands on his temples, shutting his eyes. "Jen, please--" he pleas, tears gathering in his eyes.
 
-He feels the floor shakes. Once, twice. But is it earthquake or his leg shaking, he cannot tell.
+He feels the floor shake. Once, twice. But is it earthquake or his leg shaking, he cannot tell.
 
-He thinks the lightbulb on the mirror starts flickering again too. More intensely going brighter then darker, and brighter again. Or maybe it's just the tears making the effect.
+He thinks the lightbulbs over the mirror start flickering again too. More intensely going brighter then darker, and brighter again, prickling his closed eyelids, leaving them hot and pained. Or maybe it's just the tears making the effect.
 
-He swallows hard on the lump in the throat, letting the tears rolling down. "Jen, I'm so so sorry--" he talks into the cold night wind in the middle of the room.
+He swallows hard over the lump in his throat, letting the tears fall. "Jen, I'm so, so sorry--" he talks into the cold night wind in the middle of the room.
 
-"Why?" The woman asks.
+"Why?" she asks gently. Her voice so soft, so real, far too solid to be a hallucination from sound of wind.
 
-The voice is far too solid to be a hallucination. Vince snaps up his head and stares through his teary eyes.
+Vince snaps up his head and stares through his teary eyes.
 
-Undoubtedly, Jen stands right there, in her beautiful white dress, even still wearing her favorite lipstick color, the sparkling pink. He remembers it tastes like strawberry.
+Undoubtedly, Jen stands right there, in her beautiful white dress, even still wearing her favorite lipstick color, the sparkling pink. He remembers it tastes like strawberry like yesterday. They would have kissed, and hugged, and had so much joy in each other's embrace, if she didn't -- if he didn't --
 
-Vince breathes heavily. "Is this a dream?" he asks, looking around the room again as if it can give him some answer.
+Vince breathes heavily. "Is this a dream?" he whispers, looking around the room again as if it can give him some answer, not daring to breathe as if it will blow the image of his love away.
 
-"No, my love," Jen smiles at him, walking closer, "not a dream." The edge of her dress floating around her bare feet.
+"No, my love," Jen smiles at him, walking closer, "not a dream. I'm here." The edge of her dress floats around her bare feet. She walks over to him.
 
-Vince can't do anything but looks at her movement, taking her in. Jen puts a hand on his jaw, caressing the stubble.
+Vince can't do anything but stares at her movement, taking her in. Jen lands a hand on his cheek, caressing the stubble.
 
-"I'm right here." she smiles gently, looking into his eyes, "but you didn't ask the right question."
+"I'm right here." She smiles gently, looking into his eyes. "But you didn't ask the right question."
 
-"Are you--" Vince stumbles, tilting his head, leaning into her hand. He blinks the tears away to take a proper look at the woman standing inches away from him. He takes another deep breaths, asking shakily, "-- are you really you?"
+"Are you --" Vince stumbles, tilting his head, leaning into her hand. He blinks the tears away to take a proper look at the woman standing inches away from him. He takes another deep breaths, asking shakily, "-- are you really you?"
 
-"No," The woman that looks like Jen answers, her smile not fading but growing warmer, her hands still moving on Vince's face, "better. I'm an angel."
+"No," the woman that looks like Jen answers, her smile not fading but growing warmer, her hands still moving on Vince's face. "Better. I'm an angel."
 
 Vince can't tear his gaze away, he can't move his head or body away, he just can't. Everything in her is drawing him in, and he's too tired to think or resist. He leans in more, dropping his head so his lips are almost already ghosting around her skin.
 
-"Angel..." he murmurs under his breaths, his brain fails to register the meaning.
+"Angel..." he murmurs under his breaths, his brain failing to register the meaning.
 
 "I can't bring her back," she says as she moves the hand to his scalp, fingers lingering on his hair behind the ear, "but I can make the pain go away."
 
-She tiptoes slightly, her mouth right next to his cheek now, mild airflow flowing by his face, mixed with a faint taste of fruity sweetness. Vince closes his eyes, indulging himself in the memory when Jen did that because she knew how much he loves it.
+She tiptoes slightly, her mouth right next to his cheek now, mild airflow brushing by his face, mixed with a faint taste of fruity sweetness. Vince closes his eyes, indulging himself in the memory when Jen did that because she knew how much he loved it.
 
-"As long as you say yes." Jen's voice mingles with the image in the memory. Vince doesn't need to be told twice.
+"As long as you say yes." Jen's voice blends with the image in the memory. Vince doesn't need to be told twice.
 
-"Yes." he chokes in shaky teary voice, opens his eyes to look into his love's eyes.
+"Yes," he chokes in shaky, teary voice, opening his eyes to look into his love's eyes.
 
-"Yes." he says again, eyes closed tight.
+"Yes," he says again, feeling the pressure in his chest releasing as the syllable leaving his tongue.
 
-The woman's figure dissipates. The lightbulb behind him flickers violently and finally goes out with a loud explosion sound.
+Jen rounds her arms around him, then her figure dissipates. The lightbulb behind him flickers violently and finally goes out with a loud explosion sound.
 
 Vince staggers briefly, takes two steps back before stabling himself.
 
@@ -1019,59 +1021,139 @@ He opens his eyes and looks into the mirror in the dark.
 
 Two bloody red eyes look back at him.
 
+Lucifer grins.
+
+<br>
+
 #### Act 2
 
 > INT. bunker kitchen - day (Dean, Cas, Sam)
+>
+> look for Lucifer, find Lucifer host rock music festival in LA
 
 Dean walks into the kitchen in his favorite dead man's robe, rubbing his eyes while yawning.
 
-"Morning." Sam greets him from on top of a plate of spinach omelet.
+"Morning," Sam greets him from on top of a plate of spinach omelet, accompanied by daily news research on his laptop.
 
-Cas is sipping a mug of hot coffee, held in both hands, fully concentrated.
+Cas is sipping a mug of hot coffee, held in both hands, fully concentrated. His hair is more ruffled than usual, probably from sleeping. Dean gets reminded again that Cas is still recovering from the grace extraction, which makes sleep a necessity and morning temper a fundamental feature.
 
-Dean regards him fondly, holding back a small smile. "Morning." he says. Cas doesn't look up, fully occupied by his coffee.
+He regards him fondly, holding back a small smile. "Morning, Sunshine," he says.
 
-Dean heads directly to the coffee machine. "Any plan for today?" he asks, speaking over his back.
+"Hello, Dean." Cas doesn't look up, fully occupied by his coffee.
+
+Dean heads directly to the coffee machine. "Any news for today?" he asks, speaking over his back.
+
+"Maybe," Sam answers, pressing a button on his laptop.
+
+Lousy music comes out of the laptop's player. Strong beat, roaring lyrics, the mixed guitar and bass and electricals sound like they would regret their life if not breaking a string or two at the end of each song.
+
+Dean covers his ear with one free hand, grimacing as the metal bombing on his sanity. "What the devil's music is that? Put that crap away, will ya?"
+
+Sam pauses it mercifully. "That's exactly what I'm thinking -- Devil's music."
+
+"Wait, you mean, literally? Not figure of speech?" Dean lowers the hand covering his ear, walking over to the desk, asking Cas to "Scoop over" so he can sit right in between the two of them and still steal a glance at the laptop.
+
+Sam shows him a page that print out the lyrics of those hideous songs. "So, get this -- there is going to be rock music festival in Los Angeles, presumably the largest one ever held since Live Aid."
+
+"So? It's LA, people do crazy things all the time." Dean squints at the screen, sipping at his coffee.
+
+Cas is about finishing his coffee by then, turning to stare at the same screen with a small frown.
+
+"Yeah, I thought so too, but see what I find in the lyrics." He scrolls the page down a little, pointing at the notes he put together earlier.
+
+Dean reads them out:
+
+"Down and out as Darkness falls, shakes the Cage in deep withdrawals. Without Darkness there's no light, but he is someone's little boy."
+
+"Perdition awaits, my soul is at stake. Will I find a stairway to the skies in the end?"
+
+"I've been in Hell for many years, and all the time is lost for me, for eternity. I try to take back what was mine, a prison they have made my mind, my enemy."
+
+Dean comments: "Okay, the last one especially. That seems just a bit on the nose."
+
+Sam nods, "That's what I thought. They might be onto something. What do you say, let's check out LA?"
+
+Cas says slowly, eyes still on the music screen, "Why would Lucifer start composing and singing songs in a music festival? That doesn't sound very devilish, for one. And no one dies there, which doesn't sound like Lucifer, either."
+
+Sam takes his laptop back, tapping the keyboard to search weird things or unusual death report in LA recently, which doesn't give much result.
+
+Dean shrugs. "I don't know, dude might just want some fun after that big fight with Amara? That's his way of a down time, perhaps? That's Lucifer we're talking about, who knows what he'd do or wouldn't? But that's the best lead we got so far, I say let's check it out. At the worst, we get some free beer in the festival. You in it with us, Cas?"
+
+Cas nods solemnly. "Of course."
+
+<br>
+
+> INT. Car - day/night (Dean, Sam, Cas)
+>
+> Cas show initial negligible sign of sickness, heal slow, easy to get tired, sleepy, headache
+>
+> (The headache is just the first symptom of infection, they just didn't know yet)
+
+It's a twenty-hour drive from Lebanon to LA. Dean says he can probably make it fifteen if he rushes through the desert and roads that don't have any other car in sight. And Sam offers to switch driving for him to have a few hours of close-eyes on the shot gun seat. So that saves a lot of time too.
+
+And during the most time of that drive, Cas is either sleeping or rubbing his temple uncomfortably, shifting in the back seat with a frown.
+
+Dean glances at him through the rear mirror from time to time, until he finally can't keep holding his tongue. "You alright there, Cas? Need anything?"
+
+Cas takes his hands away from his temples slowly, just to keep his whole posture still and controlled. "I'm fine," he answers.
+
+Dean squints at him, finding his shoulders strained from the control. The crinkles between the angel's eyebrows are knitted into deep lines from frowning for too long.
+
+"It's the angel radio, isn't it?" he asks, knowingly. "You're still hearing their screaming, and it's bothering you every breathing minute?"
+
+Cas lowers his eyes. "Yes," he says quietly.
+
+Dean watches him closely, voice worried. "You want to tune that down a bit? No need to keep torturing yourself, you know. We are already doing our job. There is nothing you can do."
+
+"I know," Cas says, having to press his temples again just as he answers, Dean imagines that's another terrible wave of deathbed crying upstairs just then. "I can't -- I won't. My brothers and sisters are suffering and dying up there. The least I can do is not to forget that."
+
+"Yeah, not like you can ever forget anything easily just like that," Dean says. What he means is *I hate to see you suffer*, but he doesn't say that. Just presses on the acceleration petal harder, pushing Baby to fly toward LA a little faster.
+
+<br>
+
+#### Act 3
+
+> EXT. rock music concert - LA - day (Dean, Sam, Cas, Crowley)
+>
+> go to LA concert, run into Crowley, fight Lucifer together
+>
+> a big fuss and fight like in show S12E03 (reuse Vince Vincente/Ladyheart part plot), bring Lucifer in in Vince's vessel
 
 
+
+
+
+<br>
+
+#### Act 4
+
+> help Lucifer recover - ask Crowley to rebuild Nick's body to help him strengthen (Lucifer suggest get Michael but they initially refuse)
+
+<br>
 
 ###### [TBA]
 
-<br>
+**Words after the chapter:**
+
+About the quoted lyrics, they are actually mostly real songs from real band (that are actually beautiful metal songs that I enjoyed).
+
+"Down and out as Darkness falls, shakes the Cage in deep withdrawals. Without Darkness there's no light, but he is someone's little boy." -- Metallica "Chasing Light"
+
+"Perdition awaits, my soul is at stake. Will I find a stairway to the skies in the end?" -- Within Temptation "Stairway to The Skies"
+
+"I've been in Hell for many years, and all the time is lost for me, for eternity. I try to take back what was mine, a prison they have made my mind, my enemy." -- Xandria "You Will Never be Our God"
 
 #### draft notes
 
 (To fix plot hole: rock festival but has metal bands & songs, Dean: That's devil's proof right there)
 
-Metallica lyrics: Chasing Light "down and out as darkness falls, shakes the cage in deep withdrawals, without darkness there's no light, but he is someone's little boy"
-
 System of a Down: "angels deserve to die" (Cas: Do I deserve to die? Do they?)
 
 Beyond the Black: In the Shadows "It's so hard to kill the demons, When they live inside your heart"
 
-Within Temptation: Stairway to The Skies "Perdition awaits my soul is at stake
-
-Will I find a stairway to the skies
-
-In the end?"
-
-Xandria: You Will Never be Our God "I've been in Hell for many years
-
-And all the time is lost for me, for eternity
-
-I try to take back what was mine
-
-A prison they have made my mind, my enemy"
-
-<br>
-
-Dean: What's that, take away that metal crap will you? (Heard first lyrics) Wait, they might on to something.
-
-Lucifer: "devilishly handsome face"
-
 "We might actually need both of them. The infection comes from Amara, we would have needed Chuck to cure this. Now that we can only get archangels, one doesn't seem quite enough."
 
-<br>
+
 
 Dean: Remind me again why we're chasing Devil's tail?
 
@@ -1119,19 +1201,7 @@ Sam (stops grinning): Fine.
 
 <br>
 
-Cas is constantly headache, at first they all thought it's because of angel radio. Every now and then it gets so bad that he has to hold on to something to not fall. His view goes black, from several seconds to minutes. Dean always lend him a shoulder if he's within range.
-
-Dean watches closely, worried: You want to tune that down a bit, pal?
-
-Cas: I can't, I won't. They're suffering and dying up there, the least I can do is to not forget that.
-
-Dean: Yeah, not like you can ever forget easily.
-
-What he means is *I hate to see you suffer*, but he doesn't say it.
-
-(The headache is just the first symptom of infection, they just didn't know yet)
-
-<br>
+(Cas is constantly headache, at first they all thought it's because of angel radio. Every now and then it gets so bad that he has to hold on to something to not fall. His view goes black, from several seconds to minutes. Dean always lend him a shoulder if he's within range.)
 
 (Cas sicker, show weaker, easily tired, can't heal quickly, then headache, then cough, then cough blood, fingertips going darker, dying)
 
