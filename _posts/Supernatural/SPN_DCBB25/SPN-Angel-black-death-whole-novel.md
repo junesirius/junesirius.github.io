@@ -947,6 +947,8 @@ The quote "Darkness cannot drive out darkness; only light can do that." The seco
 >
 > Cas show initial negligible sign of sickness, heal slow, easy to get tired, sleepy
 
+(**Words before chapter**: This chapter heavily reuses S12 canon plot when Lucifer possess Vince Vincente.)
+
 #### Act 1
 
 > INT. show dressing room - night (Vince, Jen!Lucifer)
@@ -1065,7 +1067,7 @@ Dean heads directly to the coffee machine. "Any news for today?" he asks, speaki
 
 Lousy music comes out of the laptop's player. Strong beat, roaring lyrics, the mixed guitar and bass and electricals sound like they would regret their life if not breaking a string or two at the end of each song.
 
-Dean covers his ear with one free hand, grimacing as the metal bombing on his sanity. "What the devil's music is that? Put that crap away, will ya?"
+Dean covers his ear with one free hand, grimacing as the metal bombing on his sanity. "What the devil's music is that? Put that crap away, will ya? Since when do you listen to those?"
 
 Sam pauses it mercifully. "That's exactly what I'm thinking -- Devil's music."
 
@@ -1081,11 +1083,11 @@ Cas is about finishing his coffee by then, turning to stare at the same screen w
 
 Dean reads them out:
 
-"Down and out as Darkness falls, shakes the Cage in deep withdrawals. Without Darkness there's no light, but he is someone's little boy."
+*"Down and out as Darkness falls, shakes the Cage in deep withdrawals. Without Darkness there's no light, but he is someone's little boy."*
 
-"Perdition awaits, my soul is at stake. Will I find a stairway to the skies in the end?"
+*"Perdition awaits, my soul is at stake. Will I find a stairway to the skies in the end?"*
 
-"I've been in Hell for many years, and all the time is lost for me, for eternity. I try to take back what was mine, a prison they have made my mind, my enemy."
+*"I've been in Hell for many years, and all the time is lost for me, for eternity. I try to take back what was mine, a prison they have made my mind, my enemy."*
 
 Dean comments: "Okay, the last one especially. That seems just a bit on the nose."
 
@@ -1095,7 +1097,7 @@ Cas says slowly, eyes still on the music screen, "Why would Lucifer start compos
 
 Sam takes his laptop back, tapping the keyboard to search weird things or unusual death report in LA recently, which doesn't give much result.
 
-Dean shrugs. "I don't know, dude might just want some fun after that big fight with Amara? That's his way of a down time, perhaps? That's Lucifer we're talking about, who knows what he'd do or wouldn't? But that's the best lead we got so far, I say let's check it out. At the worst, we get some free beer in the festival. You in it with us, Cas?"
+Dean shrugs. "I don't know, dude might just want some fun after that big fight with Amara? Too drained to do any killing anymore, so that's just his way of a down time, perhaps? Hell, that's Lucifer we're talking about, who knows what he'd do or wouldn't? I'd send him a basket for not dropping bodies. Anyway, that's the best lead we got so far, I say let's check it out. At the worst, we get some free beer in the festival. You in it with us, Cas?"
 
 Cas nods solemnly. "Of course."
 
@@ -1107,7 +1109,7 @@ Cas nods solemnly. "Of course."
 >
 > (The headache is just the first symptom of infection, they just didn't know yet)
 
-It's a twenty-hour drive from Lebanon to LA. Dean says he can probably make it fifteen if he rushes through the desert and roads that don't have any other car in sight. And Sam offers to switch driving for him to have a few hours of close-eyes on the shot gun seat. So that saves a lot of time too.
+It's a twenty-hour drive from Lebanon to LA. Dean says he can probably make it fifteen if he rushes through the desert and all those desolate roads that don't have any other cars in sight. And Sam offers to switch driving for him to have a few hours of close-eyes on the shot gun seat. So that saves a lot of time too.
 
 And during the most time of that drive, Cas is either sleeping or rubbing his temple uncomfortably, shifting in the back seat with a frown.
 
@@ -1125,27 +1127,320 @@ Dean watches him closely, voice worried. "You want to tune that down a bit? No n
 
 "I know," Cas says, having to press his temples again just as he answers, Dean imagines that's another terrible wave of deathbed crying upstairs just then. "I can't -- I won't. My brothers and sisters are suffering and dying up there. The least I can do is not to forget that."
 
-"Yeah, not like you can ever forget anything easily just like that," Dean says. What he means is *I hate to see you suffer*, but he doesn't say that. Just presses on the acceleration petal harder, pushing Baby to fly toward LA a little faster.
+"Yeah, not like you can ever forget anything easily just like that," Dean says. What he means is *I hate to see you suffer*, but he doesn't say that. Just presses on the acceleration petal harder, pushing Baby to dash toward LA as fast as she could.
 
 <br>
 
 #### Act 3
 
-> EXT. rock music concert - LA - day (Dean, Sam, Cas, Crowley)
+> EXT. rock music festival - LA - night (Dean, Sam, Cas, Crowley)
 >
-> go to LA concert, run into Crowley, fight Lucifer together
+> go to LA concert, run into Crowley
 >
-> a big fuss and fight like in show S12E03 (reuse Vince Vincente/Ladyheart part plot), bring Lucifer in in Vince's vessel
 
+The music festival is going to last a whole week, according to that gothic girl they met outside the field. They are there the third night, hardly missed anything good. The air is just heating up. Dean tells her they're all huge hard-core rock fans, driving all the way west to witness the whole thing.
 
+The girl lets them in after ten minutes of talk. Dean can't say he's not pleased to know his grin and wink still work like a charm nowadays.
 
+The festival is host in a wide field outside the city. Dean remembers seeing old TV news from Las Vegas music festival back when he's still a teenager, and thinking going to one of those festivals would be one's ultimate bucket list, 'cause Dad is never going to take them there. He didn't even bother mentioning. And now he's here, with Sam and Cas, not to enjoy the time and music and all the craziness a rock festival has to offer, but to capture the Devil himself, as if their lives aren't messed enough. Just great.
 
+They move their way through crowd toward the stage -- it's so much more difficult than they thought possible. The music already started -- Dean suspects it ended since three days ago -- which means the crowd never stopped moving and crushing with the music. They feel like as if trudging through rain-coated woods, each step plodding in the mud.
+
+Dean leads the way, splitting the crowd before him and squeezing through, hoping Sam and Cas can stick together closely enough not to get lost. It would be a hell of a trouble to find lost ones in crowds like this -- too loud to hear, too bright to see, just blind and deaf --
+
+Which is of course what ends up happening.
+
+"Keep close!" He tries to look back from time to time, thinking he can spot giant Sam's head among the men and women wavering with the music rhythm, and continuing moving.
+
+Until Dean finally reaches close enough to the stage and see the young stars' faces when they howling songs like "Heaven is too far away from me", "Devil is calling me to join", or something of that kind -- which, is a little difficult to tell if it's Lucifer has dipped his fingers in the song or just generally how kids nowadays love to hear. Dean turns around, shouting "Sam" and "Cas."
+
+But the only one answers him is -- "Hello, Squirrel."
+
+"Crowley," Dean glares at the demon in elegant black suit, sipping his little colorful drink -- where did he get that little umbrella drink in the middle of nowhere?
+
+"Didn't think to meet again so soon," Crowley smiles, "but hello again. What are you doing, busy losing Moose and your boyfriend?"
+
+Dean scans around, looking for the human giant that should stand out of the crowd but find nothing. He sighs. Not wanting to admit the defeat, he asks instead, "You see them?"
+
+Crowley huffs, making a pretense of standing on his toes to search around, then shrugs. "Somewhere around here," he says carelessly. "You'll find them once trouble comes, you know, that rule with you Winchesters? Just look at the place where shit hit fans, you'd find them right under that fan. Which reminds me, why are you here again?"
+
+Dean rolls his eyes. "Look for Lucifer." He glares back. "Why are *you* here?"
+
+"I can't just come here listening to some music?" the demon says grudgingly. "Some of the songs are actually good here, very suitable to Hell. I might consider borrow some idea."
+
+"No," Dean tells him, "I don't buy it."
+
+"Fine," Crowley's shoulders slump a little, but he still maintains a forced cheerful smile. "I'm following Lucifer too. My last lead says he's now possessing a poor bastard called Vince Vincente. Happy now?"
+
+Dean shrugs dismissively. "What do you know about him?"
+
+"Just a poor old-fashioned star like any old rich and famous after they're not rich or famous anymore," Crowley says nonchalantly.
+
+"No, not the rock star, Lucifer!" Dean cuts him off.
+
+"Oh," Crowley pauses. "Not much, just that he's probably pissed. And probably -- hopefully, weak enough to be killed."
+
+"We're not going to kill him," Dean says.
+
+Crowley narrows his eyes, "Remind me again why you're chasing Devil's tail if not to kill him? You know, for wearing your beloved angel around like a prom dress, last I remember, you're all in for let Devil be damned as long as Feathers is in one piece."
+
+Dean is just about to answer, when -- "Dean, where have you been? Cas and I were looking for you."
+
+Sam emerges from the crowd, Cas closely behind.
+
+"Where have *I* been? Where have *you* been! I was just thinking about calling those child-lost broadcast, you know, looking for two lost kids coming to the backstage." Dean stares at Sam, then checks on Cas.
+
+Cas's eyes are on Crowley. "What are *you* doing here?"
+
+"Why do I always get interrogated like I did something wrong?" Crowley complains loudly. "Can't I be doing something just so happened to help you out? Not that I'm counting, but it's probably... let me see..." he bends the fingers and pretends counting quietly.
+
+"Alright, whatever." Dean bats his half-bent fingers away. "You say you're helping, then help! How do we get to Lucifer?"
+
+"Not until you tell me why you need him -- alive. I've been working my ass off trying to figure out a way to permanently shut that fucker's mouth off." Crowley grits his teeth.
+
+Sam sighs, giving way. "We needs his help -- or actually, not *we* we, angels. Angels are dying and we needs either him or Michael to cure them."
+
+"Splendid, you got my attention right at 'Angels are dying'," Crowley shows a practiced smile. "When shall we start celebrating?" He turns to Cas, "Or I can loan you five thousand demons to take those probably short-handed administer works upstairs, what do you say?"
+
+"Crowley," Dean warns with a low and tired voice, just when Cas glares at him and growls, "No!"
+
+"Alright that, you three, focus!" Sam says, putting a hand on Dean and Cas each, eyes on Crowley. "Lucifer is our biggest problem -- and solution here. Can we please focus?"
+
+Crowley shrugs with his eyebrows flying up and down. "You said you could use Michael too, and you know exactly where he is, saving you all this trouble running around the town. So what do you say let's kill Lucifer together, then I don't care what you do with the other big brother douchebag?"
+
+Sam turns to Cas for help.
+
+Cas answers for him, "Michael is not going to be pleasant for staying in the Cage for the past six years. It might be difficult to reason with him."
+
+Dean chimes in, "Oh, and Lucifer will? For being there since the Dawn of everything and what happened last year?"
+
+"At least we have dealt with him before, we know what he is like -- or was, until Amara tore him out of Cas." Sam says reasonably.
+
+"And he might be weak after the fight. Hopefully it would make him more... persuasible." Cas considers the word carefully.
+
+Dean huffs a laugh. "Is that even possible? The Devil? Persuasible?"
+
+"Only in your best dream," Crowley says.
+
+"My best dream doesn't include Lucifer, thank you very much." Dean rolls his eyes, then turns to Cas again. "Oh, and, before I forget --" He pokes a finger at Cas, so close to him it almost stabs on his chest, just in case it doesn't emphasize enough, "-- don't you ever EVER think about saying 'Yes' again, you hear me? Under no circumstance. Even if the world's ending the next minute. Even if it's Earth is going to explode, Sun crashes, whatever, just, NEVER to that again!"
+
+Cas starts a weak "Dean --"
+
+Dean snaps, "Don't. Just -- just don't. I can't go through that again, or you might as well kill me."
+
+"That might make things a bit easier, I agree," Crowley comments unhelpfully.
+
+"You shut your mouth," Dean doesn't even bother look in Crowley's direction, maintaining his stare with Cas. "Just, promise me, don't do that again. Whatever reason Devil may trick you, and boy, he knows how to trick."
+
+Cas has to nod faintly.
+
+"Not even if I'm dying or whatever, and he says that's the only way to bring me back," Dean says.
+
+Cas widens his eyes, his temper rising quickly. "Dean! You can't ask that --"
+
+Dean ignores his protest. "Cas," he says in a calm voice, low, but so much underlying pleading tone. "Promise me?"
+
+Cas glares at him. "You're just being unreasonable." He turns and ready to move toward the backstage.
+
+Dean puts his hands on Cas's shoulder just in time to stop him.
+
+Cas stops his steps, but not looking back.
+
+Sam looks at them with an almost amused look, and Crowley says, "Look at you two, just like old bickering married couple."
+
+Dean glares at Crowley, then points his free finger at Sam. "What's so funny? You too! Don't even think about that! Can't believe Lucifer already tricked the both of you. Can't let that happen again."
+
+Sam stops his uncontrollable grin, the muscle at the corner of his mouth twitching. "Fine," he says.
+
+Dean eyes Cas's back, "Alright, listen up. Crowley got some actual news for us, why don't you catch us up."
+
+Rarely obligingly, Crowley gives Cas and Sam a recap on Lucifer and his new vessel, the rock star named Vince Vincente -- whom, surprisingly, among all of them, Sam is the only one heard of the name.
+
+"According to my little birds, his big performance is right tonight." Crowley announces at the end, then checks his shiny costly watch. "And looks like -- about time."
+
+He leaves his drink on the ground, straightens his suit, looks around them and smiles his iconic fake bright smile. "It's been fun, lads. Now if you'll excuse me --" He's ready to step away.
+
+Dean and Sam reach for their hidden pistol automatically. Cas readies himself in a gait like he used to do every time before big fights, shaking his sleeve to prepare grabbing the hidden angel blade.
+
+"The Hell you will," Dean snaps.
+
+The three of them automatically form a half circle around the demon without needing a word.
+
+Crowley eyes them with open amusement. "Really? You are about to start a fight *here*? In front of a hundred thousand human? You guys are more brave than I thought. By brave I mean braindead."
+
+Dean exchanges a look with Sam and Cas, lowering his voice. "And running straight into Devil without backup is your idea of *not* braindead?"
+
+"I got a plan," Crowley says, a bit annoyed now. He glances at his watch again.
+
+"Then spill," Sam demands harshly.
+
+Cas takes a step closer menacingly.
+
+The demon sighs -- which Dean's pretty sure is just another of his Crowley-branded pretended sigh -- then finally loosens: "Who said anything about 'No backup'?"
 
 <br>
 
 #### Act 4
 
-> help Lucifer recover - ask Crowley to rebuild Nick's body to help him strengthen (Lucifer suggest get Michael but they initially refuse)
+> INT. music festival backstage - LA - night (Rowena, Lucifer)
+>
+> Rowena fake helping Lucifer, carry on with her previous plan with Crowley
+
+"You got some nerve come here, Red." Lucifer looks out at the slim woman before him through Vince's eyes. He doesn't even bother getting the band members out of the green room -- not that he cared, or they care, really. "Just a groupie," he told them.
+
+Rowena doesn't seem to mind that term either, or if she did, she doesn't show.
+
+"Lucifer," she calls the Devil's name sweetly as if a lover -- she does play the role perfectly. She wears a bloody red long dress tonight, her favorite one.
+
+"My Lord," she glances at him through her long upper eyelashes, blinking sheepishly. "If there is anything I can do for you, just ask --"
+
+"You got any beauty spells locked up in that witchy brain of yours?" Lucifer touches the skin on Vince's face, turning to the lightened-up make-up mirror. Dead skin falls from where his fingers touch, leaving ashy traces. The vessel is degrading fast. "I got a big show tonight."
+
+"Of course, do you want to cover that up or something more permanent? Making this vessel stronger, perhaps? Strong enough to hold you?" Rowena wanders behind him, eyeing the Devil and his reflection in the glass. She reaches for her handbag left on the green room couch.
+
+"It does look good on you, don't you say?" Lucifer regards himself, lifting the chin to check the body he's in up and down. "Show me what you got, will you?"
+
+Rowena has her back toward Lucifer now, glancing at her phone rapidly, typing quietly while stammering, "I-I-I'd help, I would, but I don't have the Book of the Damned with me. I lost it."
+
+Lucifer tuts loudly, turning to her. "You know damned well where you put it. Did you see what I did there? 'Damned.' Besides, you don't need the book. Clever girl like you must have it all up here by now." He points at his head, then Rowena's.
+
+Rowena sneaks the phone back into the handbag, taking a step back from Lucifer. "And if I refuse?"
+
+Lucifer smiles wide and sweet, "Then I snap your neck again. Only this time, I'll rip your head clean off afterwards and burn your bones to ashes. We clear?"
+
+Rowena curls her lips unhappily. "Yes, my Lord," she says obligingly, rummaging her handbag again to pull out a handful of herbs. "Shall we begin?"
+
+<br>
+
+> INT. music festival backstage - LA - night (Sam, Dean, Cas, Crowley, Rowena; Lucifer)
+>
+> fight Lucifer together, a big fuss and fight like in show S12E03 (reuse Vince Vincente/Ladyheart part plot), bring Lucifer back to bunker in Vince's vessel
+
+So that is the scene they run into -- Rowena dipping her finger in some mixture of herbal water, painting on the bare chest of a man that is, to be honest, not that bad looking. The man was a little well-known rock star back in the day anyway -- he got the build and the look.
+
+Crowley stands in the doorway, clearing his throat deliberately. "Is this a bad time, Mother? Shall I come back later?"
+
+Rowena takes a loud exhale and immediately steps back. "About bloody time!"
+
+She chants a short prose of Latin with lips flickering rapidly, ending with a fierce "FES... TI... NA!" Her eyes turn purple, while the pattern on Lucifer's chest burns into the skin like a branding.
+
+Lucifer yells with surprise. Larger patches of skin fall from his body, decaying like an old tree's bark. He gasps in fury, "Red, what did you do?!"
+
+Rowena pants heavily as she still holds out her hands toward Lucifer, "Sped up the decaying process, My Lord. You thought Keith Richards was bad? Try Iggy Pop!"
+
+Lucifer growls, swooping toward her, "Decapitation is far too merciful for you, Ginger Bitch!"
+
+Rowena raises her hands high in the sky, chanting even faster than before. Lucifer's steps stagger, falling to his knees to the floor.
+
+"Mother, wait! There might be a small change in the plan," Crowley says by the door.
+
+Rowena turns to him, with purple magic lights still bright in her pupils. Power of magic flies around her like a visible electric field. "Is that why you're taking so long, Fergus? Are you trying to turn against me, again?"
+
+Lucifer starts laughing and pulling himself up from the ground, forcing Rowena to shift her attention back to him. The Devil's legs are still shaky, but his eyes glint with humorless laugh. "I see you brought quite some familiar faces. What's this, a friend reunion again? So soon? And all for me?"
+
+He raises a palm suddenly and tears the door frame off. "You know I can feel you from a hundred yard away, Castiel. You think you guys can surprise me? Why do you come out and play?" His pupils turn devilish red, staring at the door's direction as if they can literally breath out fire.
+
+Dean and Sam rush to the poor civilians that are caught in the middle of a war zone -- the drummer and those other ones from the Ladyheart band -- right now hiding behind the sofa and in the wall corner, not having the faintest clue what's happening. They try to get them out.
+
+Cas step toward Lucifer with his angel blade in hand. "We're not here to kill you," he tells the Devil, in a low and sincere voice.
+
+"That's a pity," Lucifer laughs, "'Cause I am."
+
+He waves a hand. Rowena is the first to get thrown out and crash onto the opposite wall.
+
+Crowley tightens his jaw, charging forward, with an angel blade of his own, only to get thrown across the room like a fly blown away by a bat.
+
+Castiel leaps forward, stabbing his angel blade into the man's bare back when Lucifer's attention was still on Crowley. Lucifer lets out an outrageous yell, grabbing Castiel by his neck, forcing him kneel on the floor, choking him while bashing him with ruthless punches.
+
+"What's your plan again, exactly?" the Devil says, the red light in his eyes dimming, but his fists do not slow down or lessen the force. Cas's head is forced in an unnatural posture, lifting helplessly crooked up. His face is nothing but broken flesh and blood. Blue-white grace light starts showing in his open mouth and eyes, and the Devil's grasp is still tightening. "Thank you for not killing me, by the way." His voice is even turning into something gentle now. "Not that you can. But you know what? I have killed you before, like squashing an insect, I'll just have to do it again, properly this time. Dad is not here for you this time."
+
+"NO --" Dean yells, dashing back into the room, throwing himself at Lucifer, without even a gun or blade in his hand.
+
+Lucifer is surprised for a second, to say the least. Perhaps by his idiocy in the moment of heroism. Or perhaps just a moment of distraction.
+
+In any case, that precious little second is all they ever really need.
+
+Dean grabs the Devil's fist that hovers in the air, Castiel grasps the other that's still choking him, and the angel cuff clicks into place.
+
+Lucifer struggles, but all the remnant of red lights in his eyes fade completely. The cuff clang with his moves but doesn't give way. "You gotta be kidding me." He stares at the two before him unbelievably, giving Cas another frustrated kick.
+
+Dean gives him a punch on the head, which finally quiets him down.
+
+Sam and slowly crawling up Rowena and Crowley move toward Vince's unconscious body that has a trapped Devil inside.
+
+Dean turns to Cas, examining his wounded face. Both Cas's eyes are swollen, black and blue all around, barely stay open. The split lips and gashes on the cheeks look terrible. The choking marks on his neck are the worst.
+
+Dean swallows. "How bad is it? Can you heal?"
+
+Cas blinks slowly. Thin grace lights up feebly in his eyes. Dean thinks the swollenness goes down a little bit, but it can also just be his wishful thinking. Not even the bleeding is stopped.
+
+Dean watches him intently. "It's okay if you can't," he says, "we can always heal the slow way, you know."
+
+Castiel just frowns deeper, closing his eyes, focusing. The bleeding stops, but only barely. The scabs form where the wounds are, as if he's trying to accelerate the healing process but still can't get it quite there. The circles around his eyes still look quite nasty.
+
+*Exactly how bad was that extraction?* Dean can't help wondering, but he has to push it down. Otherwise he'd keep wondering just how bad *he* has hurt Cas and that would be endless sleepless nights.
+
+"Alright, don't tire yourself out." Dean pats him carefully on the shoulder around the farthest edge, hoping that wouldn't cause Cas any extra pain. He forces his voice to sound cheerful. "Let's get home and patch you up the human way. I'm sure you'll back to full strength just in a beat."
+
+Cas only gives him an apologetic, upset look.
+
+Dean helps him up and moves to the car.
+
+Sam and Crowley already finished squeeze an unconscious Vince-slash-Lucifer into the backseat.
+
+"Why isn't him in the trunk?" Dean growls. Now he can't decide if he wants Cas in the front seat or back.
+
+He leads Cas to the passenger side.
+
+"What if he wakes up before we get there?" Sam asks reasonably.
+
+"So? I don't give a rat's ass about how comfortable he is." Dean raises an eyebrow.
+
+Sam sighs. "We still need his help. And he needs to be *willing* to help. The least we can do is not to make him more pissed."
+
+Cas chimes in just in time, not very helpfully, "That would be a very difficult thing to do." He meets the brothers' eyes, then adds, "Considering how angry he already was, and he'd like to kill all of us as soon as he could. Just saying."
+
+Dean forces a smile. "Good to know. Now can we go?"
+
+Sam moves toward backseat door, while Crowley and Rowena are just about to walk away. Dean points at their back: "Not so soon."
+
+Crowley grudges, "What? Thought you got your rewards already, I didn't even argue for a share. Still can't get a day off?"
+
+Dean takes a breath to make the smile on his face looks slightly more genuine. Then tells them, "We might still need some more of your help."
+
+Crowley snaps grumpily, "What am I, 911?"
+
+Dean looks at Rowena, trying his best smile given the circumstance. Rowena rolls her eyes, and says tiredly, "What he said."
+
+Sam helps out, "Once we're finished with him, he's all yours. Revenge or anything, whatever you want."
+
+Rowena's lips curl up slightly. "Now we are talking."
+
+Crowley's face also brightens a degree. "Look at you, Moose, you have the potential of being the next best salesman, you know that? I'll keep the position open for you."
+
+"So we good? You coming to bunker together?" Dean raises his voice.
+
+Crowley considers, then, "Not really in mood for slumber party right now, but call me. You know my number." Not waiting for Dean's answer, he turns to Rowena, holding out a hand in an inviting gesture, "Mother, shall we?"
+
+The two of them disappear in a black smoke.
+
+Dean blinks at the empty space.
+
+Sam says, "Guess that's as good as we can ask for."
+
+Dean decides he's right, shrugs once, and climbs into the car.
+
+Cas already falls asleep on the passenger seat.
+
+Dean starts the engine, and heads home.
+
+<br>
+
+#### Act 5
+
+> Lucifer back in bunker in Vince's vessel, they help Lucifer recover - ask Crowley to rebuild Nick's body to help him strengthen
+>
+> (Lucifer suggest get Michael but they initially refuse, Lucifer being a really annoying child)
 
 <br>
 
@@ -1170,52 +1465,6 @@ System of a Down: "angels deserve to die" (Cas: Do I deserve to die? Do they?)
 Beyond the Black: In the Shadows "It's so hard to kill the demons, When they live inside your heart"
 
 "We might actually need both of them. The infection comes from Amara, we would have needed Chuck to cure this. Now that we can only get archangels, one doesn't seem quite enough."
-
-
-
-Dean: Remind me again why we're chasing Devil's tail?
-
-Sam: It's either him or Michael--
-
-Dean: --who is in a place we know exactly where, saving all this trouble to run around the town and getting us nothing but vamp blood everywhere.
-
-Sam looks at Cas for help.
-
-Cas: Because Michael is going to be pissed for staying in the Cage for the past six years.
-
-Dean: Oh and Lucifer is not? For being there since the Dawn of everything?
-
-Sam: At least we have dealt with him before, we know what he is -- or was.
-
-Cas: And he might be feeble, after the fight. Hopefully it would make him more... persuasible.
-
-Dean (laugh): Is that even possible? The Devil? Persuasible?
-
-Sam (shrug): Best hope so.
-
-Dean (to Cas): Oh and, don't ever EVER think about saying "Yes" again, you hear me? Under no circumstance. Even if the world's ending next minute.
-
-Cas: Dean--
-
-Dean: Don't. Just-- just don't. I can't go through that again, or you might as well kill me.
-
-Cas (confused): Why would killing you make anything better?
-
-Dean (chuckle): Just, promise me, don't do that again. Whatever reason he tricks you, and boy he knows how to trick.
-
-Cas (faintly nods)
-
-Dean: Not even if I'm dying or whatever and he says that's the only thing to bring me wide.
-
-Cas (widen his eyes): Dean! You can't ask that--
-
-Dean: Cas. Promise?
-
-Cas: You're just being unreasonable. (leaves the room)
-
-Dean (eyes Sam): What? You too! Don't even think about that.
-
-Sam (stops grinning): Fine.
 
 <br>
 
