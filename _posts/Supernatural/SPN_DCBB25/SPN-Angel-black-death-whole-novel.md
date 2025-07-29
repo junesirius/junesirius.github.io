@@ -51,6 +51,8 @@ Cas: "Do angels deserve to die? Do I?"
 
 (Time: May 25, 2016)
 
+(god POV + occasional character POV)
+
 Angels are dying/going extinction because of ABD (caused by Darkness), Cas goes to investigate and tries to help/save angels, gets infested too. They find a vague lore about the purest/brightest light to be able to purify/save/cure angel disease. They thought it's Michael or Lucifer or the two of them together, take turn trying them out, getting them out of cage, asking for their help. Making them cooperate with each other, but Michael/Lucifer want to destroy the world together. Dean/Sam jump in to stop them, getting themselves killed and exploded, and the self-sacrifice explosion turn into the brightest light that cure the angels in Heaven. Cas goes to Heaven to get Dean/Sam back, but he's not cured yet. Dean personally uses his soul power (the brightest love) to cure Cas. All problems solved, HE.
 
 In between the main plots, because the Heaven is crumbling down without angel guards, souls coming down to Earth, they get to meet with ghosts of people they lost in the past: the Novaks, the Winchesters, Jo/Ellen/Ash/Bobby, Charlie (like casual episodes in a SPN season) → move to Timestamps, because not directly related to the main storyline
@@ -93,7 +95,7 @@ Cas is also infected, but because A) the times he met Darkness face-to-face, he 
 
 When Amara invaded Heaven, angels were infected by darkness disease that is contagious and deadly, much like human's Black Death (so Dean names it "Angel Black Death"). All infected angels die painfully, the whole angel race is going extinct, Heaven crumbles.
 
-Right after S11E23, TFW celebrate the victory after Amara/Chuck gone, then Cas notices ABD, goes to Heaven to investigate and unknowingly get himself infected. They find solution is to use "the Brightest Light" to purify the darkness. They think it might mean Michael or Lucifer. They get Lucifer back from LA music concert when he possesses Vince Vincente, fix his Nick vessel with Crowley's help, get Michael out of Cage with Rowena's help, try to talk them into saving angels but they want to destroy the world instead.
+Right after S11E23, TFW celebrate the victory after Amara/Chuck gone, then Cas notices ABD, goes to Heaven to investigate and unknowingly get himself infected. They find solution is to use "the Brightest Light" to purify the darkness. They think it might mean Michael or Lucifer. They get Lucifer back from LA music festival when he possesses Vince Vincente, fix his Nick vessel with Crowley's help, get Michael out of Cage with Rowena's help, try to talk them into saving angels but they want to destroy the world instead.
 
 Dean and Sam say yes to Michael and Lucifer, and take over the control eventually, sacrifice each other to save the world and cure angels. Cas goes to Heaven to resurrect Dean and Sam, they only find out now Cas is also infected and dying. Dean realizes the real "Brightest Light" means love, he uses his soul and love to save Cas. Everyone saved, world in peace again. Happy ending.
 
@@ -1364,11 +1366,11 @@ Dean grabs the Devil's fist that hovers in the air, Castiel grasps the other tha
 
 Lucifer struggles, but all the remnant of red lights in his eyes fade completely. The cuff clang with his moves but doesn't give way. "You gotta be kidding me." He stares at the two before him unbelievably, giving Cas another frustrated kick.
 
-Dean gives him a punch on the head, which finally quiets him down.
+Dean gives the Devil a punch on the head, which finally quiets him down.
 
-Sam and slowly crawling up Rowena and Crowley move toward Vince's unconscious body that has a trapped Devil inside.
+Sam and slowly crawling up Rowena and Crowley move toward Vince's unconscious body that has a trapped Devil inside. Dean leaves him to them, turning to Cas.
 
-Dean turns to Cas, examining his wounded face. Both Cas's eyes are swollen, black and blue all around, barely stay open. The split lips and gashes on the cheeks look terrible. The choking marks on his neck are the worst.
+Dean examines his wounded face carefully. Both Cas's eyes are swollen, black and blue all around, barely stay open. The split lips and gashes on the cheeks look terrible. The choking marks on his neck are the worst.
 
 Dean swallows. "How bad is it? Can you heal?"
 
@@ -1378,7 +1380,7 @@ Dean watches him intently. "It's okay if you can't," he says, "we can always hea
 
 Castiel just frowns deeper, closing his eyes, focusing. The bleeding stops, but only barely. The scabs form where the wounds are, as if he's trying to accelerate the healing process but still can't get it quite there. The circles around his eyes still look quite nasty.
 
-*Exactly how bad was that extraction?* Dean can't help wondering, but he has to push it down. Otherwise he'd keep wondering just how bad *he* has hurt Cas and that would be endless sleepless nights.
+*Exactly how bad was that extraction?* Dean can't help wondering, but he has to push it down. Otherwise he'd keep wondering just how bad *he* has hurt Cas and that would lead to endless sleepless nights.
 
 "Alright, don't tire yourself out." Dean pats him carefully on the shoulder around the farthest edge, hoping that wouldn't cause Cas any extra pain. He forces his voice to sound cheerful. "Let's get home and patch you up the human way. I'm sure you'll back to full strength just in a beat."
 
@@ -1404,7 +1406,7 @@ Dean forces a smile. "Good to know. Now can we go?"
 
 Sam moves toward backseat door, while Crowley and Rowena are just about to walk away. Dean points at their back: "Not so soon."
 
-Crowley grudges, "What? Thought you got your rewards already, I didn't even argue for a share. Still can't get a day off?"
+Crowley grudges, "What?! Thought you got your reward already, I didn't even argue for a share. Still can't get a day off?"
 
 Dean takes a breath to make the smile on his face looks slightly more genuine. Then tells them, "We might still need some more of your help."
 
@@ -1412,7 +1414,9 @@ Crowley snaps grumpily, "What am I, 911?"
 
 Dean looks at Rowena, trying his best smile given the circumstance. Rowena rolls her eyes, and says tiredly, "What he said."
 
-Sam helps out, "Once we're finished with him, he's all yours. Revenge or anything, whatever you want."
+Sam helps out, "Once we're done with him, he's all yours. Revenge or anything, whatever you want."
+
+Dean eyes him from the side, "We are?"
 
 Rowena's lips curl up slightly. "Now we are talking."
 
@@ -1420,7 +1424,7 @@ Crowley's face also brightens a degree. "Look at you, Moose, you have the potent
 
 "So we good? You coming to bunker together?" Dean raises his voice.
 
-Crowley considers, then, "Not really in mood for slumber party right now, but call me. You know my number." Not waiting for Dean's answer, he turns to Rowena, holding out a hand in an inviting gesture, "Mother, shall we?"
+Crowley considers, then, "Not really in mood for slumber party right now, but call me. You know my number." Not waiting for Dean's answer, he turns to the witch, holding out a hand in an inviting gesture, "Mother, shall we?"
 
 The two of them disappear in a black smoke.
 
@@ -1432,15 +1436,173 @@ Dean decides he's right, shrugs once, and climbs into the car.
 
 Cas already falls asleep on the passenger seat.
 
-Dean starts the engine, and heads home.
+Dean starts the engine quietly, and heads home.
 
 <br>
 
 #### Act 5
 
-> Lucifer back in bunker in Vince's vessel, they help Lucifer recover - ask Crowley to rebuild Nick's body to help him strengthen
+> INT. bunker - day (Dean, Sam, Cas, Lucifer)
 >
-> (Lucifer suggest get Michael but they initially refuse, Lucifer being a really annoying child)
+> Lucifer back in bunker in Vince's vessel, they help Lucifer recover, by looking for a new/repaired vessel for him
+
+Bunker has never before seen more like a hospital inpatient department -- practically everyone living in here is a sick and/or wounded. Including the hostage. For a brief moment, Dean even feels bad for him, watching his passed-out vessel chained to the dungeon, until he remembers all the shitty things the Devil has done to them. To him. To Cas. He then wants nothing more than giving the bastard more punches.
+
+But even without the punches, Lucifer doesn't look so hot. The decay process is visible and fast, spreading from the skin to deeper underneath, as if watching a piece of fresh meat turning bad in room temperature in speed-up. The blackened, necrotic skin fall from his body like winter leaves falling, showing the flesh underneath. And then the flesh shrink as dark spots spreading, like some moth-eaten woods or burned and charred meat. After the flesh fall off, that is only the skeleton left standing, walking and talking. But even the bones are crumbling down, leaving pieces of broken bones on the floor, just slightly slower. With that rate, within a few days, they wouldn't have a chained Lucifer in the basement, he'd become a pile of nothing plus some spinning, vessel-less grace light looking for a body.
+
+"I can't believe I'm going to say this, but uh --" Dean says, sitting at the library table, to the other two, "We might have to find a way to help Lucifer recover."
+
+"What?" Sam startles.
+
+"Look at him," Dean points at the dungeon monitor screen, "no way he's 'the brightest light' the way he is now. I say we either patch that rock star vessel or get him another one."
+
+Cas's face hardens, "Which means another soul would get possessed, whoever that may be. Is that what you mean?"
+
+Dean stutters, "I guess."
+
+Cas's eyes bore into his. "And is that what you mean when you specifically ask me and Sam to promise never to say 'Yes' to Lucifer?" He narrows his eyes. "Then it looks like there is only one option left. Dean, are you going to say 'Yes'?"
+
+Sam jumps from his seat. "I'll never let you do that."
+
+Dean raises two hands in the air in surrender. "Not so fast," He stares back at Cas, then shifts to Sam, "No, that's not what I mean, chill, alright?"
+
+He turns the book in front of him for them to see, the pattern on the page looking vaguely familiar. Cas recognizes it first, "It's the Celtic curse Rowena used on Lucifer to accelerate the decay. If we can reverse it, maybe we can keep him steady in Vince Vincente for a while longer, until he recovers enough to help."
+
+Dean looks at him. "Would that work?"
+
+Cas drags that Celtic magic book closer to him, studying the page. He frowns, "I think Rowena made some change. There is no mention of ash of hawthorn tree anywhere, the last part of the curse I overheard is also not standard. She must have learned from the Book of the Damned."
+
+Sam breathes out short, "Then only she'd know how to reverse it."
+
+Dean reaches for his phone, "I'll give her a call."
+
+<br>
+
+> INT. bunker/Hell - day (Dean, Sam, Cas, Lucifer, Crowley, Rowena)
+>
+> phone call to Rowena/Crowley to look for Nick's body but neither give straight answer
+>
+> Cas is getting more sick, cough
+
+"Miss me so soon?" Rowena's over-sweet voice comes out of the speaker, in the background of some light torturing and screaming sound.
+
+"We need the reverse spell for that decay one you gave Lucifer," Sam blunts out.
+
+"Jeez, that's straight," Dean hisses to him.
+
+"Why?" Rowena's voice comes louder and clearer. Sound like she walks to a quiet corner of the room.
+
+"We need to help Lucifer recover," Cas supplies.
+
+"Oh, isn't that the sweet wee angel there? Hello, Sunshine." Rowena's sweet voice greets cheerfully. Dean can't help rolling his eyes.
+
+"Rowena," Dean presses, tone more serious, "we need Lucifer to save the world, and he can't do that in that shabby vessel you poisoned."
+
+"Then find him another vessel, problem solved," Rowena says in a tone that sounds completely like "Why is that my problem?"
+
+"That's not helpful at all," Sam hisses between his teeth. Cas nods quietly to agree.
+
+Dean sighs, shutting his eyes. "Not an option, any other brilliant ideas?"
+
+"There is one, if you must --" Rowena says, with the sound of a smile at the edge of each syllable, "-- there's always that good old Nick, what's his last name?"
+
+"Nick?" Dean looks up, meeting Cas and Sam's eyes. "The vessel -- that man -- he possessed like ten years ago?"
+
+"Bingo."
+
+"He's still alive and willing?"
+
+"No, but three guesses where he is now."
+
+Sam breathes out harshly, "Hell."
+
+Rowena laughs loudly, "Aren't you the smartest student in the class, Samuel? Have fun shopping vessels."
+
+She hangs up after that.
+
+"Works for me." In Dean's query eyes, Sam shrugs.
+
+Cas doesn't give much sign of opinions, just moving to sit down in a chair from standing around the table all this time.
+
+Crowley picks at the sixth ring.
+
+"This is Hell," he greets.
+
+"Do you happen to know where Nick's body is?" Dean stares at the "666" on the phone's screen.
+
+"Nick who?" Crowley asks.
+
+"What's his last name?" Dean mouths to Sam silently, who answers with a shaking hand.
+
+Dean turns back to phone. "Just Nick, *that* Nick from ten years ago, the one Lucifer possessed."
+
+"Heard he's in Hell now, guess he wouldn't mind his meat suit get borrowed again," Sam adds.
+
+"Ah, that Nick," Crowley says with a deliberated stretched tone. Dean frowns at the screen.
+
+"Ring a bell. What about him?" the demon carelessly asks.
+
+Dean takes a breath, at the edge of losing temper. "Cut the crap -- so he's in your department. Looking for his body right now. Any idea where he is?"
+
+"No, must be rotten somewhere all those years ago," Crowley answers plainly. "Dig the grave and you may find a couple bones. No idea why you looking for those garbage."
+
+"I don't buy it," Dean glares at the screen, wishing he can just grab the demon on his fine suit's collar to let him know how serious they are.
+
+"That's *your* problem then. Have fun hunting some bones, Squirrel. Say 'Hi' to Feathers to me, ciao."
+
+The line is cut.
+
+Dean throws the phone into the middle of the table, wiping his face. "He's lying. He knew exactly where Nick's body is and he's not telling us. Freaking demons!"
+
+"What are we going to do?" Sam frowns at him. "He could be telling the truth, and we might just waste days and weeks digging empty grave."
+
+Dean glances at Cas, who's just sitting there quietly, listening to them with a tilted head. If it's not because his eyes are still open, Dean might suspect he has fallen asleep. The scars and bruises on his face are still difficult to look at. The ones on his neck turned from black to purple, like a large circle of bruise scarf. Dean has to force his eyes away from there whenever his eyes land on Cas, and this is one of those moments.
+
+"Someone's been really quiet," Dean pokes him. "You got anything to add to the table, Cas?"
+
+Cas turns to meet his eyes. He opens his mouth, but before he can say anything, he starts coughing. Once. Then a second times. At the third times, Dean's eyebrows arch. "What's that?"
+
+Cas eases his breath and says in a plain tone, "It's nothing. Just, something in my throat." But he's a terrible liar.
+
+"No, it's not." Dean says straightly, walking closer to look at him with better lighting. "You got a cold or something?"
+
+His eyes scrutinize up and down the angel's shirt and suit jacket, Cas has taken off the trench coat and left it on the back of the chair.
+
+"Those clothes, too hot? Too cold? Want A/C on? Anything?" Dean asks, tone concerning.
+
+Cas shifts in the seat uneasily. "Temperature does not concern me," he says.
+
+He hesitates, his Adam's apple bobbing up and down, looking nothing other than silently suppressed another round of urge to cough again. Dean does not miss that, the twist in his brows deepens.
+
+"You sure about that? That looks exactly like the cold Sammy used to have every year around fall-winter time."
+
+Cas manages to get his breathes right. "I'm fine. I think we should focus on looking for Nick and his body as vessel for Lucifer."
+
+Dean gives him another look, but decides to let it slip for once. He turns to Sam, shrugging lightly, "You heard Cas, think it's settled then. How hard can it be to find a guy Lucifer handpicked ten years ago?"
+
+Sam's face grimaces.
+
+Dean is taken aback for a second, whispering a quick "Didn't mean to..." under his breath.
+
+They start the searching and researching -- just like it's case.
+
+<br>
+
+#### Act 6
+
+> INT. bunker
+>
+> EXT. Detroit
+>
+> EXT. Needham Asylum - Fall River, Massachusetts
+
+
+
+
+
+> they need to help Lucifer recover - Crowley lies about Nick, they go look for it, find Crowley rebuild Nick's body with Cage spell, get Lucifer inside Nick's body, help him strengthen
+>
+> (Lucifer suggest get Michael but they initially refuse, Lucifer being a really annoying childish asshole)
 
 <br>
 
@@ -1458,51 +1620,19 @@ About the quoted lyrics, they are actually mostly real songs from real band (tha
 
 #### draft notes
 
-(To fix plot hole: rock festival but has metal bands & songs, Dean: That's devil's proof right there)
+~~To fix plot hole: rock festival but has metal bands & songs, Dean: "That's devil's proof right there"~~
 
 System of a Down: "angels deserve to die" (Cas: Do I deserve to die? Do they?)
 
-Beyond the Black: In the Shadows "It's so hard to kill the demons, When they live inside your heart"
+~~Beyond the Black: In the Shadows "It's so hard to kill the demons, When they live inside your heart"~~
 
 "We might actually need both of them. The infection comes from Amara, we would have needed Chuck to cure this. Now that we can only get archangels, one doesn't seem quite enough."
 
 <br>
 
-(Cas is constantly headache, at first they all thought it's because of angel radio. Every now and then it gets so bad that he has to hold on to something to not fall. His view goes black, from several seconds to minutes. Dean always lend him a shoulder if he's within range.)
+(Cas's headache: Every now and then it gets so bad that he has to hold on to something to not fall. His view goes black, from several seconds to minutes. Dean always lend him a shoulder if he's within range.)
 
 (Cas sicker, show weaker, easily tired, can't heal quickly, then headache, then cough, then cough blood, fingertips going darker, dying)
-
-Castiel coughs. Once. Then twice. At the third times, Dean's brows arch. Castiel wants to pretend it's just a normal clearing of throat, but obviously not very successful.
-
-Dean: You got a cold or something?
-
-His eyes scrutinize up and down his shirt and suit jacket along with the trench coat.
-
-Dean: Those clothes, too hot, too cold, want the AC on?
-
-His tone is not unkind, but Castiel is uneasy.
-
-Cas: Temperature does not concern me.
-
-He hesitates, silently suppress another round of urge to cough again. Dean does not miss that, the twist in his brows deepens.
-
-Dean: You sure about that? That looks exactly like the cold Sammy used to have every year around fall winter time.
-
-Cas manages to get his breathes right: I'm fine.
-
-Sam comes in: Is everything ok?
-
-Cas: Yes, Dean and I were just talking about how ailing you were as a child.
-
-Sam shoots a questioning look at Dean: That's not true. I ran a lot so I don't get sick and he's the one that whines a lot.
-
-Dean: I don't whine.
-
-Sam: Uh no offense, but yes you do.
-
-Cas quietly slips out of the room and leaves them arguing.
-
-<br>
 
 (Cas is also infected, symptom starts with can't heal, pain, weak (try to hide but found out by Dean))
 
@@ -1572,9 +1702,9 @@ Dean: Come on, it's like putting two nuclear together and hope they don't explod
 
 They all agree Dean should get nowhere close to Michael and same goes for Sam and Lucifer, so Sam and Rowena go to Michael, Dean and Cas go to Lucifer
 
-M/L counseling session: Do you remember the time when...
+Michael/Lucifer counseling session: Do you remember the time when...
 
-M/L deciding not saving angels: There is no darkness without light, so if they're all gone, so is the disease. Problem solved.
+Michael/Lucifer deciding not saving angels: There is no darkness without light, so if they're all gone, so is the disease. Problem solved.
 
 ### Chap. 5: On the Crossroad
 
