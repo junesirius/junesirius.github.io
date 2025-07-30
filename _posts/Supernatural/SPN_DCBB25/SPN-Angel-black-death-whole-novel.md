@@ -1889,15 +1889,63 @@ Lucifer beams brightly at him with a mouth without lips. "Now we are talking. Fi
 #### Act 8
 
 > EXT. Fall River, Massachusetts - day (Dean, Sam)
-
-
-
-
-
-
-
-> INT. Needham Asylum - Fall River, Massachusetts
 >
+> Dean/Sam in their way looking for Crowley's throne room. Dean worry about Cas, want to go back to him, decide to stay to help out Sam eventually
+
+Sam has narrowed the locations down to a few sites near the shore around Rhode Island and Massachusetts, where there have been demonic sightings recently. He has written them down into a notepad.
+
+They have to appreciate there are that many deserted hospital facilities around the area -- at least not as many as deserted factories. That's still a list of a dozen locations which probably will take them at least a day or two, even if they split -- which, "Still sound like a terrible idea," says Dean.
+
+"Are you so restless because you're worried we can't find Nick, or Cas isn't answering your phone?" Sam asks, from the other end of the phone.
+
+Dean stares at the road ahead of him, with the sea gulls fighting for something in the middle of the road which is causing a huge traffic jam -- freaking big cities with so many people living in it.
+
+"He hasn't replied any message or picked up any of call since yesterday." Dean tries not to sound like a clingy girlfriend but he fails gloriously. "It's not okay. He's not well, and there's Lucifer in the bunker. I should never have left them there."
+
+"He's an adult angel, he can --" Sam sighs. "Forget it, what are you gonna do?"
+
+"Thinking about going back home," Dean answers quickly.
+
+"That's a twenty-six hour drive," Sam points out reasonably. "You wouldn't be there until tomorrow afternoon and you can't drive all the time without rest. How far down the list are you now?"
+
+"Half way through, on my way to Fall River," Dean glances at the scribbled note. "But I'm stuck in Boston now. Traffic is Hell."
+
+"Hell is Hell, Dean," Sam says in his Sam-branded patient soothing voice. "What about you check that one out, then go home, I can take the rest."
+
+After a quiet moment, Dean asks, "You sure about that?"
+
+"Not really, but I get it." Sam sighs again tiredly. "Has to make sure Cas is okay, right?"
+
+Dean considers for a minute, then, "You know what, you're right. It's gonna be a long-ass drive, I'll need my switch driver and you'll need backup if we do find Crowley's hideout. Might as well stick to the plan and we can both go home early."
+
+Sam huffs a small relieved breath. "Sounds good to me."
+
+<br>
+
+> INT. Needham Asylum - Fall River, Massachusetts (Dean, Sam, Crowley, Nick's body)
+
+Dean knows this is the right place when he drives to it. Spooky decommissioned asylum, fancy gothic style pointed-top architecture, wandering black-eyed demons patrolling around.
+
+He sends a quick message: "Needham Asylum." And goes in there quietly alone.
+
+The place is like a ghost house in those classic horror movies from outside, but the inside, surprisingly, is like neat office building. Black-suits hurry from one office to another, with clipboards and printed something in their hands -- he wouldn't have known they're demons if they're not black eyes.
+
+Dean supposes he might should have thought about Crowley's preferred style of running things, knowing his fancy little suit and cocktail and everything. He walks down the corridor with a sign that points to the principal doctor's office.
+
+Two demons at the door try to stop him from entering, ended up smoking on the floor, each with an angel blade-shape hole on their chests. He pushes the door open. Crowley sits on his throne, legs crossed, is listening to a black-suit reporting something about the statistics about crossroad deal numbers and qualities. He gets the rest of the demons out of the room at the sight of Dean, uncrossing his legs.
+
+"Squirrel! I didn't hear the door bell! You should have sent a card in advance." Crowley says cheerfully, pitch higher than usual.
+
+"You hung up on me last time. Figured I'd have to make it formal." Dean answers, spinning the blade in his fingers.
+
+Crowley eyes it warily. "How did you find me? And where is Moose?"
+
+
+
+
+
+
+
 > TFW go look for Nick's body, find Crowley rebuild Nick's body with Cage spell, get Lucifer inside Nick's body, help him strengthen
 >
 > (Lucifer suggest get Michael but they initially refuse, Lucifer being a really annoying childish asshole)
