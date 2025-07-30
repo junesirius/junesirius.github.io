@@ -4,14 +4,14 @@ title: 【Destiel】Angel Black Death
 date: 2024-11-01 01:51
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Sam Winchester", "Michael", "Lucifer", "Vince Vincente", "Rowena MacLeod", "Fergus MacLeod/Crowley", "Adam Milligan", "Bobby Singer", "Charlie Bradbury", "Jimmy Novak", "Claire Novak"]
-tags: ["Supernatural", "destiel", "michifer", "英文"]
+tags: ["Supernatural", "destiel", "michifer", "温家兄弟", "英文"]
 pov: 第三人称
 origin: 2025 DCBB
 long_novels: 【Destiel】Angel Black Death
 published: false
 ---
 
-(**Tags:** canon divergent, post-S11 finale, minus BMOL and Mary, graphic depictions of violence, temporary main character death, main character near death experience, graphic depictions of disease symptoms, soul-grace dance, love is the best cure, Team Free-Will, Happy Ending)
+(**Tags:** canon divergent, post-S11 finale, minus BMOL and Mary, graphic depictions of violence, temporary main character death, main character near death experience, graphic depictions of disease symptoms, soul-grace dance, love is the best cure, Team Free-Will, Dean & Sam, Sam & Castiel, Happy Ending)
 
 (**Rating**: Teen and up (for violence))
 
@@ -1448,7 +1448,7 @@ Dean starts the engine quietly, and heads home.
 
 Bunker has never before seen more like a hospital inpatient department -- practically everyone living in here is a sick and/or wounded. Including the hostage. For a brief moment, Dean even feels bad for him, watching his passed-out vessel chained to the dungeon, until he remembers all the shitty things the Devil has done to them. To him. To Cas. He then wants nothing more than giving the bastard more punches.
 
-But even without the punches, Lucifer doesn't look so hot. The decay process is visible and fast, spreading from the skin to deeper underneath, as if watching a piece of fresh meat turning bad in room temperature in speed-up. The blackened, necrotic skin fall from his body like winter leaves falling, showing the flesh underneath. And then the flesh shrink as dark spots spreading, like some moth-eaten woods or burned and charred meat. After the flesh fall off, that is only the skeleton left standing, walking and talking. But even the bones are crumbling down, leaving pieces of broken bones on the floor, just slightly slower. With that rate, within a few days, they wouldn't have a chained Lucifer in the basement, he'd become a pile of nothing plus some spinning, vessel-less grace light looking for a body.
+But even without the punches, Lucifer doesn't look so hot. The degrading process is visible and fast, spreading from the skin to deeper underneath, as if watching a piece of fresh meat turning bad in room temperature in speed-up mode. The blackened, necrotic skin fall from his body like winter leaves falling, showing the flesh underneath. Then the flesh shrink as dark spots and sores spreading, like some moth-eaten woods, cankered and charred. After the flesh fall off, that is only the skeleton left standing. Walking and talking. But even the bones are crumbling down, leaving pieces of broken fragments on the floor, falling apart. With that rate, within a few days, they wouldn't have a chained Lucifer in the basement, he'd become a pile of dust plus some pitiful, spinning, vessel-less grace looking for a body.
 
 "I can't believe I'm going to say this, but uh --" Dean says, sitting at the library table, to the other two, "We might have to find a way to help Lucifer recover."
 
@@ -1456,7 +1456,7 @@ But even without the punches, Lucifer doesn't look so hot. The decay process is 
 
 "Look at him," Dean points at the dungeon monitor screen, "no way he's 'the brightest light' the way he is now. I say we either patch that rock star vessel or get him another one."
 
-Cas's face hardens, "Which means another soul would get possessed, whoever that may be. Is that what you mean?"
+Cas's face hardens. "Which means another soul would get possessed, whoever that may be. Is that what you mean?"
 
 Dean stutters, "I guess."
 
@@ -1472,7 +1472,7 @@ Dean looks at him. "Would that work?"
 
 Cas drags that Celtic magic book closer to him, studying the page. He frowns, "I think Rowena made some change. There is no mention of ash of hawthorn tree anywhere, the last part of the curse I overheard is also not standard. She must have learned from the Book of the Damned."
 
-Sam breathes out short, "Then only she'd know how to reverse it."
+Sam breathes out short, "Then only she would know how to reverse it."
 
 Dean reaches for his phone, "I'll give her a call."
 
@@ -1484,13 +1484,13 @@ Dean reaches for his phone, "I'll give her a call."
 >
 > Cas is getting more sick, cough
 
-"Miss me so soon?" Rowena's over-sweet voice comes out of the speaker, in the background of some light torturing and screaming sound.
+"Miss me so soon?" Rowena's over-sweet voice comes out of the speaker, in the background of some remote indistinct torturing and screaming sound.
 
-"We need the reverse spell for that decay one you gave Lucifer," Sam blunts out.
+"We need the reverse spell for that decay one you used on Lucifer," Sam blunts out.
 
-"Jeez, that's straight," Dean hisses to him.
+"Jeez, don't sugar coat it," Dean hisses.
 
-"Why?" Rowena's voice comes louder and clearer. Sound like she walks to a quiet corner of the room.
+"Why?" Rowena's voice comes louder and clearer. Sound like she walked to a quiet corner of the room.
 
 "We need to help Lucifer recover," Cas supplies.
 
@@ -1504,25 +1504,27 @@ Dean reaches for his phone, "I'll give her a call."
 
 Dean sighs, shutting his eyes. "Not an option, any other brilliant ideas?"
 
-"There is one, if you must --" Rowena says, with the sound of a smile at the edge of each syllable, "-- there's always that good old Nick, what's his last name?"
+"There is one, if you must --" Rowena says, with the sound of a wry smile at the edge of each syllable, "-- there's always that good old Nick -- what's his last name?"
 
 "Nick?" Dean looks up, meeting Cas and Sam's eyes. "The vessel -- that man -- he possessed like ten years ago?"
 
 "Bingo."
 
-"He's still alive and willing?"
+"He's still alive and kicking?"
 
-"No, but three guesses where he is now."
+"No, but three guesses where he ended up now."
 
-Sam breathes out harshly, "Hell."
+Sam breathes out harshly. "Hell."
 
-Rowena laughs loudly, "Aren't you the smartest student in the class, Samuel? Have fun shopping vessels."
+Rowena laughs pretentiously. "Aren't you the smartest student in the class, Samuel? Have fun shopping vessels, boys."
 
 She hangs up after that.
 
-"Works for me." In Dean's query eyes, Sam shrugs.
+"Works for me." In Dean's querying eyes, Sam shrugs.
 
-Cas doesn't give much sign of opinions, just moving to sit down in a chair from standing around the table all this time.
+Cas doesn't give much sign of opinions, just moving to sit down in the closest chair, looking like just tired of standing and staring at the phone for too long.
+
+Dean rings the King of Hell next.
 
 Crowley picks at the sixth ring.
 
@@ -1534,27 +1536,29 @@ Crowley picks at the sixth ring.
 
 "What's his last name?" Dean mouths to Sam silently, who answers with a shaking hand.
 
-Dean turns back to phone. "Just Nick, *that* Nick from ten years ago, the one Lucifer possessed."
+Dean turns back to phone. "Just Nick, *that* Nick from like ten years ago, the one Lucifer possessed."
 
-"Heard he's in Hell now, guess he wouldn't mind his meat suit get borrowed again," Sam adds.
+"Seven," Sam corrects him. Then speaking to the phone as well, adding, "Heard he's in Hell now, hope he doesn't mind his meat suit get borrowed again."
 
-"Ah, that Nick," Crowley says with a deliberated stretched tone. Dean frowns at the screen.
+"Ah, that Nick," Crowley says with a deliberately stretched tone. Dean frowns at the screen.
 
 "Ring a bell. What about him?" the demon carelessly asks.
 
-Dean takes a breath, at the edge of losing temper. "Cut the crap -- so he's in your department. Looking for his body right now. Any idea where he is?"
+Dean takes a breath, at the edge of losing temper. "Cut the crap, Crowley, you know exactly why we're asking, and you agreed to help! He's in your department. We're looking for his body right now. Any idea where?"
 
-"No, must be rotten somewhere all those years ago," Crowley answers plainly. "Dig the grave and you may find a couple bones. No idea why you looking for those garbage."
+"No. Must be rotten somewhere all those years ago." Crowley answers plainly. "Dig up the grave if you must, you might find a couple bones from old Nick. No idea why you look for those junk."
 
 "I don't buy it," Dean glares at the screen, wishing he can just grab the demon on his fine suit's collar to let him know how serious they are.
 
-"That's *your* problem then. Have fun hunting some bones, Squirrel. Say 'Hi' to Feathers to me, ciao."
+"That's *your* problem then. Have fun hunting some bones, Squirrel." A pause, then, "Say 'Hi' to Feathers to me. Ciao."
 
-The line is cut.
+The line is cut then.
 
-Dean throws the phone into the middle of the table, wiping his face. "He's lying. He knew exactly where Nick's body is and he's not telling us. Freaking demons!"
+Dean throws the phone to the middle of the table, wiping his face. "He's lying. He knew exactly where Nick's body is and he's not telling us. Freaking demons!"
 
-"What are we going to do?" Sam frowns at him. "He could be telling the truth, and we might just waste days and weeks digging empty grave."
+"What are we going to do?" Sam frowns at him. "He could be telling the truth, and we might just waste days and weeks digging empty graves -- if he even had one. Things were quite nasty back then, if you remember."
+
+"Yeah, hard to forget that big swan dive. Thought that was it back then, if Cas didn't bring you back. Speaking of --"
 
 Dean glances at Cas, who's just sitting there quietly, listening to them with a tilted head. If it's not because his eyes are still open, Dean might suspect he has fallen asleep. The scars and bruises on his face are still difficult to look at. The ones on his neck turned from black to purple, like a large circle of bruise scarf. Dean has to force his eyes away from there whenever his eyes land on Cas, and this is one of those moments.
 
@@ -1564,7 +1568,7 @@ Cas turns to meet his eyes. He opens his mouth, but before he can say anything, 
 
 Cas eases his breath and says in a plain tone, "It's nothing. Just, something in my throat." But he's a terrible liar.
 
-"No, it's not." Dean says straightly, walking closer to look at him with better lighting. "You got a cold or something?"
+"No, it's not." Dean says straight, walking closer to look at him with better lighting. "You got a cold or something?"
 
 His eyes scrutinize up and down the angel's shirt and suit jacket, Cas has taken off the trench coat and left it on the back of the chair.
 
@@ -1576,31 +1580,243 @@ He hesitates, his Adam's apple bobbing up and down, looking nothing other than s
 
 "You sure about that? That looks exactly like the cold Sammy used to have every year around fall-winter time."
 
-Cas manages to get his breathes right. "I'm fine. I think we should focus on looking for Nick and his body as vessel for Lucifer."
+Sam protests weakly with rolling eyes that mean "I wasn't a sickly kid!" Dean's too distracted to see it.
 
-Dean gives him another look, but decides to let it slip for once. He turns to Sam, shrugging lightly, "You heard Cas, think it's settled then. How hard can it be to find a guy Lucifer handpicked ten years ago?"
+Cas manages to get his breathes right again, pressing at his temples. "I'm fine. I think we should focus on looking for Nick and his body as vessel for Lucifer, as soon as possible. Heaven and the Angels there might not withstand much longer, I'm afraid souls might start falling from cracks in Heaven soon."
+
+Dean gives him another look, but decides to let it slip for once. He turns to Sam, shrugging lightly, "You heard Cas. Think it's settled then. How hard can it be to find a guy Lucifer handpicked seven years ago?"
 
 Sam's face grimaces.
 
 Dean is taken aback for a second, whispering a quick "Didn't mean to..." under his breath.
 
-They start the searching and researching -- just like it's case.
+They start the searching and researching -- just like it's another run-of-mill case.
 
 <br>
 
 #### Act 6
 
-> INT. bunker
+> they need to help Lucifer recover - Crowley lied about Nick, they go look for it, find Crowley rebuild Nick's body with Cage spell, get Lucifer inside Nick's body, help him strengthen
 >
-> EXT. Detroit
+> (Lucifer suggest get Michael but they initially refuse, Lucifer being a really annoying childish asshole)
+
+> INT. bunker library - day (Dean, Sam, Cas)
 >
+> they research, try to find info about Nick's body but can't find any, decide to go to Detroit again
+>
+> Cas wants to come too but coughing and staggering and sick, Dean asks him to stay in bunker keeping an eye on Lucifer and research on how to patch degraded bodies and help Lucifer recover
+
+"I can't find anything online," Sam shuts off his laptop, exhausted. "Detroit was in Hell back then, like, literally. No surprise that no one kept record for a mysterious body in a deserted apartment."
+
+"We might have to go back there then, take a look what happened. He might still be there, with any luck." Dean thinks aloud.
+
+"Then he will just be a pile of bones, like Rowena suggested." Cas comments.
+
+Dean pinches the bridge of his nose. "Fixing that body gotta be easier than fixing that rock star's, eh? For one, the Devil isn't in him right this moment. It's like finding him something temporary usable as a substitute."
+
+"I still don't like the idea," Sam sighs, but standing up obediently. "Alright, I'll go packing. Meet you in the garage in ten?"
+
+"I'm coming too," Cas follows him to stand up. But he staggers, almost tripping over a table leg. Dean is quick enough to land him a hand on the shoulder. Cas has to hold on to the table for some support. Dean leads him to sit back down.
+
+"Woah, buddy, I don't think you're going anywhere." Dean watches him closely, worried. "You alright? Is it just the light or you look even worse than two days ago?"
+
+"It's the light," Cas says, breathing heavily, trying to stand up again, regardless of Dean's hand on his shoulder. Dean presses him back down, exchanging a look with Sam.
+
+"You know what, we need someone keep an eye on the Devil too. I don't want to come back and find him on the loose again, or the bunker gets torn apart, or both. Why don't you get some more rest, research on how to patch a body, find some spell we can try later? We'll be back before you know it."
+
+"I can still fight," Cas says stubbornly, not meeting his eyes. "You don't know what you might run into in Detroit." But his body leans into the seat.
+
+"I know you can," Dean gives him a quick pat on the shoulder, trying to pull a small smile. "We just need you in a different battlefield."
+
+"Alright," Cas says finally with a small pout, which Dean finds just too adorable to not stare for a moment longer than necessary.
+
+"Call me if you need anything. I can drive to meet you if you need," Cas says behind them when they head for the garage.
+
+"Of course," Dean answers freely, waving a goodbye.
+
+<br>
+
+> INT. Impala - day (Dean, Sam)
+>
+> Dean notice Cas is hiding something but doesn't know what, a little worried/annoyed
+>
+> INT./EXT. deserted apartment - Detroit - night (Dean, Sam, Sarah's ghost, Teddy's ghost)
+>
+> Dean/Sam gets to Detroit, old Swan Song location, not find Nick's body, deduct demons take him
+>
+> run into Nick's wife's soul who was in Vail, and son's who was supposed to be in Heaven, know Heaven's falling apart is happening
+>
+> the ghosts are confused/terrified but not vengeful, been helpful, mostly kind, point them to Crowley's throne room's rough location
+
+"He's hiding something." Dean says, as soon as they pull out of the bunker garage and run onto the road, heading east. "He's sketchy like that time Naomi was pulling his strings, or he's running around with Crowley. I don't like it, man, I really don't."
+
+"He spent most of the time with us," Sam says reasonably. "Not much chance for anything like that even if that's the case."
+
+"He did just recently went to Heaven and came back," Dean frowns at the windshield. "I got a feeling something happened up there, more than he told us. I just wish I know what is it."
+
+"Yeah..." Sam sighs, but doesn't have much to add.
+
+They roll into Detroit in little more than ten hours. The night folds around them. Everything seems far too familiar.
+
+Sam grimaces when the same shabby deserted apartment building come into view. Dean manages to find it just by his memory -- the part of the memory he wished he had forgotten, but something like that, it probably already branded into his brain cortex.
+
+Dean has to swallow down all the uneasiness as well when he shuts the engine and steps out.
+
+This part of the town seems completely deserted since the Devil's show seven years ago -- not like it's downtown back in the day either, any way.
+
+Sam breathes heavily when he gets out of the car.
+
+The back street they parked is covered with litters, empty bottles mostly. Dean has to force his brain to not think if those are the exact same ones Sam has to juice up with demon blood from.
+
+This really seems to be the worst plan they've ever made -- worst since Sam said "Yes."
+
+"You okay?" Dean eyes his brother from the back.
+
+Sam's chest heaves and falls violently when he looks up at the apartment window from outside. He bites his lips hard.
+
+"Yeah," he says. "Let's go."
+
+Sam finds the exact room like it's second nature.
+
+It's layered with dust worth of seven years. The window is dark and dirty, but with a clearing that looks like a handwritten Devil's Trident. Dean stares at it for a brief moment, wondering if it's just another Lucifer's bad joke or it might actually have some magic in it.
+
+There are two rotten bodies near the door, but neither of them are Nick. Sam remembers them, the sidekick demons killed by *him*. But now he looks at them, he realizes those were once two men, too. With their bodies decaying into bones and skeletons, and he wonders for the first time where their family might be. But that's not really the most urgent matter on their world-saving todo list.
+
+Dean walks toward the window, wiping the dust on the floor with the tip of his shoes. "He should be here somewhere," he says.
+
+"If no one moved him," Sam murmurs, looking around. "There's sulfur everywhere."
+
+"Of course there's sulfur everywhere, Lucifer was here, remember?" Dean mocks.
+
+"No, I mean no sign of angels then. And if it's human who find him and take him, why would they leave the other two unattended?" Sam reasons.
+
+Dean thinks with his head tilted slightly, impressed. "Nice thinking, Sherlock. So we know it's demons taking him."
+
+"Which means Crowley," Sam sighs.
+
+"I knew it!" Dean grits his teeth, punching the air with frustrated hands. "Dammit, if he dragged Nick's body all those years ago, he could have stashed him anywhere. We might as well dig the whole Hell up and not find a bone from him."
+
+"Dead end, then." Sam agrees.
+
+But right then, their breathes start turning into white mist. Room temperature drops so much that the dusty window starts freezing up. Dean reaches for his gun in one hand, EMF in the other. The little detector beep loudly with the pointer reaching the red zone.
+
+"Ghosts," Sam jumps alarmingly, having his gun ready, loading it with salt-loaded bullets.
+
+"How come there are ghosts all of a sudden?" Dean scans the room, whispering. "Not like anyone died here -- oh crap." He glances at the dead demon vessels.
+
+Sam follows his gaze. "Or could be Nick coming back himself? This is probably where he died too."
+
+"Nick?" A woman's voice says faintly. "Nick, where are you?"
+
+Dean exchanges a confused look with Sam.
+
+"Who are you?" Dean raises his voice. "Show yourself!"
+
+The ghost of a woman in white sleeping gown with long brown hair emerges in the air slowly. She looks sad and terrified.
+
+Dean takes a ginger step toward her, gun lowering a few inches, but still in her general direction.
+
+Sam squints at her arms. She folds her arms like a cradle, with a semitransparent ghost of a sleeping infant in there.
+
+"Is that..." Dean widens his eyes. "Is that a baby ghost?"
+
+"Is that even possible?" Sam gapes his mouth too, when he takes a clearer view at the woman and the baby. "Babies can't possible be vengeful or something?"
+
+Dean shoots him a glare, whispering, "Dude, *The Omen*, *Shining*, *Chucky*."
+
+"Yeah, but they're not like babies that are still in cradles! And they're movies, Dean!" Sam hisses back.
+
+The woman looks at them, moving her wide sad eyes from Sam to Dean, as if she only now gets a good look at them. "What is happening? Where is Nick?"
+
+Dean huffs a laugh. "Yeah, lady, exactly our questions, too: 'What's happening' and 'Where's Nick'."
+
+Sam answers, "I'm Sam, this is Dean. We're looking for Nick, too. Who are you?"
+
+"Sarah," the woman answers, "and this is Teddy. Please tell me what's happening." Her tone is terrified, but nothing hateful or outrageous as they usually seen in vengeful spirits.
+
+Sam exhales slowly, lowering his gun, stepping to her carefully like approaching a scared wild creature. "Sarah, it might be a little difficult to take, but, uh... you are dead, and now a ghost." He exchanges an unnerving look with Dean, waiting.
+
+"I know," Sarah says, much to their surprise. "I remember having to see my husband say 'Yes' to the Devil, right there in our bedroom, and there was nothing I could do to save him. It broke my heart."
+
+Dean blinks rapidly. "You know?"
+
+"Your husband?" Sam says at the same moment. "You're Nick's wife, and this is his son," he nods slowly. "I'm sorry."
+
+"How old is your son?" Dean asks.
+
+"Three months," Sarah answers, teary-eyed immediately, looking down at the baby in her arms. The ghost of the three-month baby shine vaguely and peacefully, more like a soul from Heaven than a ghost.
+
+"I'm sorry, but that's not possible," Dean says, bewildered. "Three-month-olds don't usually decide they have unfinished business and stay behind."
+
+"Is your son always a ghost, like you?" Sam asks carefully.
+
+"No, only from yesterday." Sarah looks up at him. "Something must be wrong. I think. The place I was in was suddenly so crowded in the last few days. And he just, suddenly fell to me."
+
+"Heaven's breaking apart." Dean turns to Sam, frowning deep. "Souls from Heaven are falling to the Vail. Cas warned us about it. Even baby souls, god, it's so messed up." He breathes out heavily, lowering his hand with the gun completely.
+
+"Why are you here, Sarah?" Sam asks instead. "It must be five hundred miles away from your home. Ghosts don't usually move around so much."
+
+"Unless the thing or person they're attached to moved." Dean corrects him, forming a theory. "Do you where your husband is, Sarah?"
+
+Sarah shakes her head apologetically. "The distance in this place -- the Vail? -- it felt different. I don't know where exactly, but I can feel him. He's chained, he's in a lot of pain."
+
+"Sounds like Lucifer now," Sam whispers quickly to Dean, who returns a brief nod.
+
+"But he's on Earth, alive?" Dean takes a step toward Sarah, staring at her.
+
+"Yes," Sarah answers breathlessly. "It's dark, the place he is, but there is a small closed window, high up on the wall. Like a facility." She takes turns looking at them, pleading, "Can you help find him, and save him? I can't move on without knowing he's alright."
+
+"We'll try our best," Sam tells her, but he looks away.
+
+"Is there anything else you noticed, anything to help us find him?" Dean pushes.
+
+Sarah frowns hard, squeezing her eyes, as if she's looking very attentively at something in the Vail. "It's all very vague, it's like I can sense around him, but not clear enough to reach him. I think... the air around him might be salty, that's why I can't get to him. I only come here because I sense the disturbance in the last place he was, and you are speaking his name."
+
+"Salty. That's good," Dean nods, "must be somewhere near the sea then, that's good, we can start from there." He gives Sam a look, head tilting toward the door.
+
+Sam gives Sarah a friendly smile. "Thank you. We'll find him. Try get some peace," he tells her, though still can't quite look her in the eyes.
+
+They leave the apartment.
+
+And soon, out of Detroit.
+
+"Abandoned facility. Somewhere near the sea." Sam says as he types into the laptop on the passenger seat.
+
+"She's not Jessica, you know," Dean blurts out.
+
+"What?" Sam startles, staring at him. "Of course not, I know that."
+
+"Good," Dean has his eyes trained pointedly at the road before them, voice a little strained. "I saw the way you talk to her. Just thought to remind you that."
+
+"Right, yeah." Sam turns back to his laptop, face carefully controlled, rapidly typing and scrolling the page for a few minutes. Then, suddenly lifts his head again, "I wasn't guilty because she reminds me of Jess, Dean. It's because she doesn't know Nick's already in Hell. They'll never reunite again. And we're not really there helping either of them, we just want Nick's *body* for Christ's sake. We're no better than what Lucifer did to them."
+
+"We're trying to save the world here!" Dean snaps, clenching the wheel far too tight. The car shifts on the road unsteadily. "Lucifer ruined their lives, Nick said 'Yes' -- We didn't do any of that! In fact, once we're done with this crap in Heaven, stop the souls from falling from there, we'll find out where her grave is and sends her to peace too. Now will you please focus on the case and find where Crowley stashed the body?"
+
+Sam sighs defeatedly, stopped arguing.
+
+Dean fumbles his phone and dials a number from the speed-dial.
+
+The phone rings until it goes to the voicemail.
+
+Dean glances down at the screen with a frown, then talking to it: "Cas, you alright? We have some leads about where Nick's body might be, could use some help locating the exact place. Call me when you can."
+
+Sam doesn't look up. "Cas's not answering?"
+
+"Yeah, must be sleeping or something." Dean checks his watch. It's indeed quite late, now that he thinks about that. They've been practically driving the whole day and then just ran straight into that ghost show.
+
+They pull over at the first motel out of the town.
+
+<br>
+
+#### Act 7
+
+
+
+
+
 > EXT. Needham Asylum - Fall River, Massachusetts
-
-
-
-
-
-> they need to help Lucifer recover - Crowley lies about Nick, they go look for it, find Crowley rebuild Nick's body with Cage spell, get Lucifer inside Nick's body, help him strengthen
+>
+> TFW go look for Nick's body, find Crowley rebuild Nick's body with Cage spell, get Lucifer inside Nick's body, help him strengthen
 >
 > (Lucifer suggest get Michael but they initially refuse, Lucifer being a really annoying childish asshole)
 
