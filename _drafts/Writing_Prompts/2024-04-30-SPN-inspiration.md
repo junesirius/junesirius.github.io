@@ -3409,4 +3409,38 @@ Dean has a lot more needs for touching, Cas lets him touch him, for sense of sec
 
 提问：地狱不同地方时间流速是否也会不同，Dean在Pit的体验感是40年，如果他在Cage或者Hell的其他地方，是不是会更长/更短
 
-### 316.
+### 316.**【Ruby/Lilith】demon lovers sacrifice for Apocalypse（F/F）**
+
+(bisexual Ruby)
+
+the whole s4 we thought Ruby was working alone without collaborating with other demons and working together with Sam to go against Lilith, but actually she's all along working with Lilith, and Lilith has always been preparing her self-sacrifice to break Lucifer free
+
+so imagine Ruby's intimate moments with Sam were all fake (or it can be real too, she's a demon after all, she might be bi, she enjoyed the physical interaction with Sam), and every time they finish, Ruby disappears, she's actually going back to Hell to Lilith's bed to "clean herself up", whining about how long that's going to take, how much she didn't actually want to be with Sam, only to use Sam as a tool for the Apocalypse, she's tired of pretending, she wanted Hell victory and she rode onto Earth with Lilith, all she really wanted is to be openly with Lilith
+
+Lilith loved being with her too, the two of them might be in the middle of having their way of fun (sex or any other way they like), but then Lilith tells her she's not going to make it to after Apocalypse, she's not gonna survive. Ruby surprised, it's the first time she knew the truth as well, want to find another way, told Lilith they don't have to do this, don't have to break Lucifer free, she's just fine the way Hell is, ruled by Lilith already, they could just stay where they are, continue the old life like they had for the past thousand years
+
+Lilith is determined, Lilith was the first demon created by Lucifer, he's like her father, she's devoted to save her father, Ruby heartbroken, hate Lilith not telling her from the beginning and asking her to help kill her, Lilith: "Honey, I'm a demon." "If you ever loved me, if you can really know what love feels like, then help me do this one thing I ask you, let Sam Winchester kill me." Lilith hates the fact that she's the last seal that her father can't be freed as well.
+
+Lilith to Ruby: "Watch the new world for me, command the army when they rise to the Earth, conquer Heaven for me. That's the world we fought so long for. I want you in a better world, a world led by Lucifer, where you can walk the Earth whenever you want, don't have to be afraid of angels or hunters. You can be safe finally. Isn't that what we always wanted?"
+
+Ruby all tears but agreed, lead to S4 finale, Ruby lure Sam to the last seal, told him the truth last moment that Lilith *is* the final seal. Sam stabs Ruby, Ruby starts laughing, meeting eyes with the also-dying Lilith, saying her goodbye with eyes. Lilith quiet (in their demon mental channel?) "No! Why are you doing this?" Ruby could have escaped & left the scene, wouldn't get killed when their goal is reached, wouldn't have to die, so it's almost like she deliberately wanted to die, which is exactly what she did.
+
+when Lucifer is coming out of the Cage and Sam/Dean got saved by Chuck, Ruby crawls toward Lilith, holding her hands, "I don't want to live in a world without you. That would be the real Hell. So I'm coming with you. Wherever you're going, I'm coming with you."
+
+They go to the Empty together and sleep there together. Ruby gets woke up by Cas in S15, that's when she realized they were both in Empty and sleeping, Lilith right by her because they arrive here basically the same time. Ruby wake Lilith up, the two reunite in Empty, hugging. (double MCD but sorta HE?)
+
+### 317.【Meg/Ruby/Lilith】Meg/Lilith teach Ruby how to make out with Sam（F/F）（R级）
+
+(Meg is still early season blond form, personal favorite vessel of hers) (bisexual Ruby)
+
+Meg is the first among them to get topside and walk the Earth. She tells the others what it's like to be walking on the Earth, they get jealous.
+
+Ruby longs for it, she does have more human emotion than most other demons, she has more feelings and emotions, she gets reminded when she's human (she's not lying when telling Winchesters she was once human and most demons she knew were too).
+
+so the reason why S4 Ruby comes to Earth is totally because of S1-3 Meg. Meg might show her the "human" way of fun physically (having sex), that's how S4 Ruby gets so familiar with the motion on Sam because she had experience with Meg first. But gets unfamiliar when she realizes it's different with male body/vessel
+
+Meg possess male body to teach her how to lure Sam? Lilith gets involved too? because Lilith tried to lure Sam too once, so she knows how to as well.
+
+Meg/Lilith teach Ruby how to make out with Sam, early season female demon orgy, threesome
+
+### 318.
