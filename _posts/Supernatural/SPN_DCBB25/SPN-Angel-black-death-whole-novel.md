@@ -1802,7 +1802,9 @@ Dean glances down at the screen with a frown, then talking to it: "Cas, you alri
 
 Sam doesn't look up. "Cas's not answering?"
 
-"Yeah, must be sleeping or something." Dean checks his watch. It's indeed quite late, now that he thinks about that. They've been practically driving the whole day and then just ran straight into that ghost show.
+"Yeah, must be sleeping or something. That's good, he could use some rest." Dean checks his watch. It's indeed quite late, now that he thinks about that. They've been practically driving the whole day and then just ran straight into that ghost show. His nerve is cracking with exhaustion now that adrenaline starts dropping.
+
+"So could we," Sam says exactly what he has in mind.
 
 They pull over at the first motel out of the town.
 
@@ -1810,11 +1812,91 @@ They pull over at the first motel out of the town.
 
 #### Act 7
 
+> INT. bunker dungeon - night (Cas, Lucifer)
+>
+> Cas/Lucifer talk, mention Heaven, mention last year, Lucifer knows Cas's condition, taunts his feeling for Dean
+
+Cas sits at the bunker library, hands pressing on his head as hard as he can, eyes closed with a frown. The pounding and pulsing inside his head is getting worse, though it does make the screening in the angel radio sound quieter. But it could also mean there might not be many angels left to save now, that they might already be too slow, too late. He tries not to think about that, or he's afraid he won't be able to control himself to go there and take a look again. Dean would be pissed if he found him leaving bunker again when he comes back. That much he can be sure.
+
+Cas idly flips the book before him. It's a book about spells that supposedly help you remain young and beautiful for as long as you want. But most of the spells require a regular take-in of a young girl's blood or heart. His attention drifts shortly, but his fingers continue the motion.
+
+The monitor screen for the dungeon sits on the table in front of the book. Cas throws a glance at it every now and then. He can't bare to look at the Devil for too long though. Lucifer has waken up, but the angel cuff has made sure he can't do much other than wandering around, and the dungeon chains make sure he can't wander for more than two steps.
+
+They have removed the table and chair from the dungeon, leaving it as bare as the Earth before Creation -- "Don't want him get creative," Dean had said.
+
+So now Lucifer just lies on the floor, staring at the dungeon ceiling.
+
+Cas tries to read a few more lines on the book.
+
+"Castiel --" Lucifer starts calling him in a raspy singing tone.
+
+Cas glares at him through the screen, decidedly ignoring him. Dean had said not to interact with Lucifer too, not that he would want for any reason.
+
+"Castiel ~ I know you are there ~ I know you can hear me ~ " Lucifer is relentlessly annoying.
+
+Cas covers his ears, shutting his eyes.
+
+"You know you don't need that to hear me, right?" Lucifer says in the angel radio, as if he sees exactly what he was doing. The Devil's grating voice directly sound up in his head, as if trying to saw it off in two halves.
+
+Castiel stomps to the dungeon. "What do you want."
+
+"There you are, buddy. Finally." Lucifer sits up from the floor, grinning at him. "About time."
+
+The vessel he's in has no skin and barely much flesh left now. When he smiles, it's a skull's smile with teeth and bones. But in Cas's eyes, he can still see the Devil's face behind that body -- weak and low energy he may be, they both are, the Devil's true face is still horrifying. Even more so with the skeleton overlay.
+
+Cas trains his gaze on the floor, a step before him.
+
+"Look, buddy, I'm dying, you're dying. Can't we have some death bed kind words, eh? Some heart-to-heart, like our good old days, like last year?" Lucifer opens his palms, in a gesture that would usually mean warm and welcome and peace-making offer.
+
+Cas growls, "We're not buddy, and you're not dying."
+
+"Oh yes, you're right. I'm not dying. Who am I? I'm Lucifer. You can't kill me like that. But nice trying." Lucifer says rapidly, dropping the pretense of being all sick and pitiful. "But you, my friend, on the other hand, are actually dying, aren't you?"
+
+Castiel doesn't answer. A sudden bout of coughing rises in his chest, sharp and fierce. He has to stand very still, gripping the doorframe for support, and holding his breath to keep it down.
+
+Lucifer squints at him. "What did I just say?" He mouths a "Dying" exaggeratedly.
+
+"This changes nothing," Cas answers gloomily. "And you won't say anything to Dean and Sam."
+
+Lucifer widens his eyes with surprise like he just found the new world. "They don't know! You know what I like most about you? You're like me. It's all about keeping the big secret and working it on your own. Independence is underrated in marriage nowadays. Am I right? Like thar marriage of yours with Dean Winchester... tut tut --"
+
+Cas turns to shut the dungeon gate, not answering a word.
+
+"Wait, wait!" Lucifer yells. "Don't go so fast. Look at you, touchy touchy. I'm just trying to give some friendly advice you know, sometimes only an outsider can see the most clearly. You don't want him find out only when you're a corpse, do you?"
+
+"It won't happen if you can do your part," Cas says glumly.
+
+"And what's that exactly? Think I missed my debrief." Lucifer raises one side of his eyebrows -- the browbone that would have held eyebrow, to be exact.
+
+Cas bites his tongue. "We'll talk about it later, when they are here." He starts closing the heavily hidden door again.
+
+"Cas, Cas, come on! Don't be like that! Give me something. Anything! No?" Lucifer whines loudly.
+
+Castiel can still hear him shouting alone when the door is fully closed. "You're the worst! You know that, Castiel? I should have just killed you. In fact, I should have just let Darkness infect you, like it did to everyone else!"
+
+Cas stops dead on his way back up.
+
+It could be a trick. He looks up at the ceiling, thinking to himself. Dean had warned him Lucifer is full of tricks, and he has witnessed enough with his own eyes.
+
+Cas fumbles his pocket, thinking maybe he should give Dean a call first. He realizes he left his phone upstairs.
+
+"What were you saying?" The heavy door is pulled open again.
+
+Lucifer beams brightly at him with a mouth without lips. "Now we are talking. First thing first, do you have one of those nice little cozy chairs I can sit on?"
+
+<br>
+
+#### Act 8
+
+> EXT. Fall River, Massachusetts - day (Dean, Sam)
 
 
 
 
-> EXT. Needham Asylum - Fall River, Massachusetts
+
+
+
+> INT. Needham Asylum - Fall River, Massachusetts
 >
 > TFW go look for Nick's body, find Crowley rebuild Nick's body with Cage spell, get Lucifer inside Nick's body, help him strengthen
 >
