@@ -3443,4 +3443,20 @@ Meg possess male body to teach her how to lure Sam? Lilith gets involved too? be
 
 Meg/Lilith teach Ruby how to make out with Sam, early season female demon orgy, threesome
 
-### 318.
+### 318.【destiel】S15E20 Cas leaves Heaven the day before Dean arrives
+
+inspired by 《[Walk This World Alone](https://archiveofourown.org/works/67965846)》, write into full-length angst, has permission already
+
+post-1518/1520, Cas comes back Empty, decides to go to Earth to live as human with Dean for the rest of their lives. only to miss Dean's death. Cas becomes human and has to live his life on Earth alone and all the time Dean's in Heaven
+
+Cas would have suicidal thoughts, wanting to be with Dean earlier. Dean would be in Heaven, building a cabin of their own. a life long pining and longing and waiting, so much loneliness. and eventually they reunite in Heaven, both as human souls. like 1520 Dean/Sam reunite, it's Dean/Cas: "Cas" "Hello, Dean"
+
+### 319.【Dean】Rocky's bar, Dean's dream come true
+
+Dean's real happiness, one thing he always wanted to do and wants nothing more, is to have a shabby bar of his own and serves and makes drinks with a hot waitress like Pamela, and kill vampires and hunt when need to (when they come to the bar and look for trouble)
+
+There must be a version of universe out there that Dean's living his dream life, actually for real having this bar. He'd be like new Ellen/Jo, Rocky's bar like the new Roadhouse, hunter's bar and info center
+
+Cas could stay with him, serving in the bar
+
+### 320.
