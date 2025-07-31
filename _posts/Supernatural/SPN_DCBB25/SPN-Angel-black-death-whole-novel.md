@@ -11,7 +11,7 @@ long_novels: 【Destiel】Angel Black Death
 published: false
 ---
 
-(**Tags:** canon divergent, post-S11 finale, minus BMOL and Mary, graphic depictions of violence, temporary main character death, main character near death experience, graphic depictions of disease symptoms, soul-grace dance, love is the best cure, Team Free-Will, Dean & Sam, Sam & Castiel, Happy Ending)
+(**Tags:** canon divergent, post-S11 finale, minus BMOL and Mary, graphic depictions of violence, temporary main character death, main character near death experience, graphic depictions of disease symptoms, soul-grace dance, love is the best cure, Team Free-Will, Happy Ending)
 
 (**Rating**: Teen and up (for violence))
 
@@ -1596,10 +1596,6 @@ They start the searching and researching -- just like it's another run-of-mill c
 
 #### Act 6
 
-> they need to help Lucifer recover - Crowley lied about Nick, they go look for it, find Crowley rebuild Nick's body with Cage spell, get Lucifer inside Nick's body, help him strengthen
->
-> (Lucifer suggest get Michael but they initially refuse, Lucifer being a really annoying childish asshole)
-
 > INT. bunker library - day (Dean, Sam, Cas)
 >
 > they research, try to find info about Nick's body but can't find any, decide to go to Detroit again
@@ -1818,7 +1814,7 @@ They pull over at the first motel out of the town.
 
 Cas sits at the bunker library, hands pressing on his head as hard as he can, eyes closed with a frown. The pounding and pulsing inside his head is getting worse, though it does make the screening in the angel radio sound quieter. But it could also mean there might not be many angels left to save now, that they might already be too slow, too late. He tries not to think about that, or he's afraid he won't be able to control himself to go there and take a look again. Dean would be pissed if he found him leaving bunker again when he comes back. That much he can be sure.
 
-Cas idly flips the book before him. It's a book about spells that supposedly help you remain young and beautiful for as long as you want. But most of the spells require a regular take-in of a young girl's blood or heart. His attention drifts shortly, but his fingers continue the motion.
+Cas idly flips the book before him. It's a book about spells that supposedly help the spellcaster remain young and beautiful for as long as you want. But most of the spells require a regular consumption of a young girl's blood or heart. His attention drifts shortly, but his fingers continue the motion.
 
 The monitor screen for the dungeon sits on the table in front of the book. Cas throws a glance at it every now and then. He can't bare to look at the Devil for too long though. Lucifer has waken up, but the angel cuff has made sure he can't do much other than wandering around, and the dungeon chains make sure he can't wander for more than two steps.
 
@@ -1850,7 +1846,7 @@ Cas trains his gaze on the floor, a step before him.
 
 Cas growls, "We're not buddy, and you're not dying."
 
-"Oh yes, you're right. I'm not dying. Who am I? I'm Lucifer. You can't kill me like that. But nice trying." Lucifer says rapidly, dropping the pretense of being all sick and pitiful. "But you, my friend, on the other hand, are actually dying, aren't you?"
+"Okay yes, you're right. I'm not dying. Who am I? I'm Lucifer. You can't kill me like that. But nice trying." Lucifer says rapidly, dropping the pretense of being all sick and pitiful. "But you, my friend, on the other hand, are actually dying, aren't you?"
 
 Castiel doesn't answer. A sudden bout of coughing rises in his chest, sharp and fierce. He has to stand very still, gripping the doorframe for support, and holding his breath to keep it down.
 
@@ -1858,11 +1854,11 @@ Lucifer squints at him. "What did I just say?" He mouths a "Dying" exaggeratedly
 
 "This changes nothing," Cas answers gloomily. "And you won't say anything to Dean and Sam."
 
-Lucifer widens his eyes with surprise like he just found the new world. "They don't know! You know what I like most about you? You're like me. It's all about keeping the big secret and working it on your own. Independence is underrated in marriage nowadays. Am I right? Like thar marriage of yours with Dean Winchester... tut tut --"
+Lucifer widens his eyes with surprise like he just opened his Christmas gift. "Oh my Dad! They don't know! You know what I like most about you? You're like me. It's all about keeping the big secret and working it on your own. Independence is underrated in marriage nowadays. Am I right? Like that marriage of yours with Dean Winchester... tut tut --"
 
 Cas turns to shut the dungeon gate, not answering a word.
 
-"Wait, wait!" Lucifer yells. "Don't go so fast. Look at you, touchy touchy. I'm just trying to give some friendly advice you know, sometimes only an outsider can see the most clearly. You don't want him find out only when you're a corpse, do you?"
+"Wait, wait!" Lucifer yells. "Don't go so fast. Look at you, touchy touchy. I'm just trying to give some friendly advice, you know, sometimes only an outsider can see the most clearly. You don't want him find out only when you're a corpse, do you?"
 
 "It won't happen if you can do your part," Cas says glumly.
 
@@ -1894,15 +1890,15 @@ Lucifer beams brightly at him with a mouth without lips. "Now we are talking. Fi
 
 Sam has narrowed the locations down to a few sites near the shore around Rhode Island and Massachusetts, where there have been demonic sightings recently. He has written them down into a notepad.
 
-They have to appreciate there are that many deserted hospital facilities around the area -- at least not as many as deserted factories. That's still a list of a dozen locations which probably will take them at least a day or two, even if they split -- which, "Still sound like a terrible idea," says Dean.
+They have to appreciate there aren't that many deserted hospital facilities around the area -- at least not as many as deserted factories. That's still a list of a dozen locations which probably will take them at least a day or two, even if they split -- which, "Still sound like a terrible idea," says Dean.
 
-"Are you so restless because you're worried we can't find Nick, or Cas isn't answering your phone?" Sam asks, from the other end of the phone.
+"Are you so restless because you're worried we can't find Nick, or because Cas isn't answering your phone?" Sam asks, from the other end of the phone.
 
 Dean stares at the road ahead of him, with the sea gulls fighting for something in the middle of the road which is causing a huge traffic jam -- freaking big cities with so many people living in it.
 
-"He hasn't replied any message or picked up any of call since yesterday." Dean tries not to sound like a clingy girlfriend but he fails gloriously. "It's not okay. He's not well, and there's Lucifer in the bunker. I should never have left them there."
+"He hasn't replied any message or picked up any of the call since yesterday." Dean tries not to sound like a clingy partner but fails gloriously. "It's not okay. He's not well, and there's Lucifer in the bunker. I should never have left them there."
 
-"He's an adult angel, he can --" Sam sighs. "Forget it, what are you gonna do?"
+"He's an adult, an angel, he can --" Sam sighs, cutting himself off. "Forget it, what are you gonna do?"
 
 "Thinking about going back home," Dean answers quickly.
 
@@ -1914,31 +1910,81 @@ Dean stares at the road ahead of him, with the sea gulls fighting for something 
 
 After a quiet moment, Dean asks, "You sure about that?"
 
-"Not really, but I get it." Sam sighs again tiredly. "Has to make sure Cas is okay, right?"
+"Not really, but I get it." Sam sighs again tiredly. "Gotta make sure Cas is okay, right?"
 
-Dean considers for a minute, then, "You know what, you're right. It's gonna be a long-ass drive, I'll need my switch driver and you'll need backup if we do find Crowley's hideout. Might as well stick to the plan and we can both go home early."
+Dean considers for a minute, then gives way, "You know what, you're right. It's gonna be a long-ass drive, I'll need my switch driver and you'll need backup if we do find Crowley's hideout. Might as well stick to the plan and we can both go home early."
 
 Sam huffs a small relieved breath. "Sounds good to me."
 
 <br>
 
 > INT. Needham Asylum - Fall River, Massachusetts (Dean, Sam, Crowley, Nick's body)
+>
+> Dean/Sam find Crowley's throne room and Nick's body, bring Nick's body back to bunker with an unknown demon (actually Nick) inside
 
 Dean knows this is the right place when he drives to it. Spooky decommissioned asylum, fancy gothic style pointed-top architecture, wandering black-eyed demons patrolling around.
 
 He sends a quick message: "Needham Asylum." And goes in there quietly alone.
 
-The place is like a ghost house in those classic horror movies from outside, but the inside, surprisingly, is like neat office building. Black-suits hurry from one office to another, with clipboards and printed something in their hands -- he wouldn't have known they're demons if they're not black eyes.
+The place is like a ghost house in those classic horror movies from outside, but the inside, surprisingly, is like a neat office building. Black-suits hurry their way from one office to another, with clipboards and printed something in their hands -- he wouldn't have known they're demons if not for their black eyes.
 
 Dean supposes he might should have thought about Crowley's preferred style of running things, knowing his fancy little suit and cocktail and everything. He walks down the corridor with a sign that points to the principal doctor's office.
 
-Two demons at the door try to stop him from entering, ended up smoking on the floor, each with an angel blade-shape hole on their chests. He pushes the door open. Crowley sits on his throne, legs crossed, is listening to a black-suit reporting something about the statistics about crossroad deal numbers and qualities. He gets the rest of the demons out of the room at the sight of Dean, uncrossing his legs.
+Two demons at the door try to stop him from entering, ended up smoking on the floor, each with an angel blade-shaped hole on their chests. He pushes the door open. Crowley sits on his throne, legs crossed, is listening to a black-suit reporting something about the statistics of crossroad deal numbers and qualities. He gets the rest of the demons out of the room at the sight of Dean, uncrossing his legs.
 
 "Squirrel! I didn't hear the door bell! You should have sent a card in advance." Crowley says cheerfully, pitch higher than usual.
 
-"You hung up on me last time. Figured I'd have to make it formal." Dean answers, spinning the blade in his fingers.
+"You hung up on me last time. Figured I'd have to make it formal." Dean deadpans, spinning the blade in his fingers.
 
-Crowley eyes it warily. "How did you find me? And where is Moose?"
+Crowley eyes it warily. "How did you find me? And where is Moose and Feathers?"
+
+"Took us some effort, but you didn't hide as well as you think." Dean answers. "So we're having small talks now? Why don't you give me a tour around here and point me to where you stashed Nick's body?"
+
+Crowley regards him for a second, then walks down from the throne with a bright smile. "Sure, no problem. This way."
+
+Dean stares at the back of his head watchfully. "What, just like that?"
+
+"Just like that," Crowley says, pushing open the wall covered by the bookshelf, which spins open to reveal a hidden chamber. "What can I say, I'm a nice person."
+
+Dean snorts once, following him inside.
+
+He knows immediately this must be the chamber that Sarah ghost lady sensed from all those miles away. The air is damp and salty, smelling of must and mold. A dirty, tiny window sits near the high ceiling, letting some faint light in. In the middle of the room, on a metal chair, chains the body of Nick. Iron chains tie his hands and feet to the floor, another one winding around his neck like a leash.
+
+The body is well preserved, as it seems. All the flesh and blood look as healthy and complete as when the human was still alive, no sign of degrading from being dead for seven years. Dean takes a step closer, noticing the body is not just lying there lifelessly. His chest rises and falls as if the man is just deep in sleep or coma.
+
+"What's this, your kinky personal project?" Dean turns to stare at Crowley. "Is the guy still alive?"
+
+"I wouldn't go that far to call it 'alive'." Crowley walks around the chained body, examining it carefully, smiling pleasantly. "Just got a demon inside. Keeps the body fresh. Otherwise it's just a pile of dead meat. You have no idea how long it took to get everything done."
+
+"What everything?" Dean's eyes follow Crowley's move, shifting between the demon and the body.
+
+Crowley looks up at him, proud. "I learned a thing or two from Mommy Dear. Finally figured out how to decode most of the Cage's lock magic and runes, and have them all transferred to this body, carved into every bone, every blood, every molecule of every cell. The Devil can live in that body just like he did in the Cage, but he's gonna be my little bitch." He grits his teeth satisfyingly as if he's already imagining chewing the Devil between them.
+
+Dean realizes. "So that's your plan when we ran into you and Rowena in LA. You were about to cast him into this body and have your little revenge."
+
+Crowley shrugs, then glares at him begrudgingly. "Then you lot just *had to* show up and ruin the day for us, didn't you? Mother and I had him under control."
+
+"You and Rowena would be dead if we weren't there!" Dean protests.
+
+"We were almost dead *because of* you!" Crowley growls.
+
+"Alright, why don't we all calm down and take a step back? No one's blaming anyone." Sam arrives right on time. Dean doesn't even hear him coming, figuring must be their voices pointing him where to look.
+
+"Moose," Crowley squints at him, "Aren't you always the peace-maker? I was just trying to tell your brother how helpful I was!"
+
+"Yes you are, thanks for that. Now do you mind do us another favor of loaning Nick's body? We want the same thing here, anyway, right? Lucifer in that thing, you got the controller, I assume?" Sam says quickly.
+
+Crowley seems to be pleased, smiling like a cat tasting butter. "You promised to give him back, right? I have a buck load of things would like to try there, start with hopping on one feet and dancing with one hand touching his nose."
+
+Dean rolls his eyes. "Yes, you can have all the fun once we're done with him. Now, the body, please? We're on the clock here."
+
+They load Nick's body into the truck of the impala, hidden inside a sackbag as if it's just a large bag of potato. The demon inside stays in there, part of the buy-one-get-one-for-free deal, as Crowley says. With the iron chains still wrapped around the body, the demon can't get anywhere anyway, and with all the spellwork and runes, the demon doesn't wake up however rough they haul and drag the body. Dean thinks it's fine then, they can handle a little demon even if he gets loose and gets inside the bunker.
+
+They leave Crowley's place. No one waves at the asylum door to send them goodbye.
+
+<br>
+
+
 
 
 
