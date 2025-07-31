@@ -1972,27 +1972,149 @@ Crowley shrugs, then glares at him begrudgingly. "Then you lot just *had to* sho
 
 "Moose," Crowley squints at him, "Aren't you always the peace-maker? I was just trying to tell your brother how helpful I was!"
 
-"Yes you are, thanks for that. Now do you mind do us another favor of loaning Nick's body? We want the same thing here, anyway, right? Lucifer in that thing, you got the controller, I assume?" Sam says quickly.
+"Yes you are, thanks for that. Now do you mind do us another favor of loaning Nick's body? We want the same thing here, anyway, right? Lucifer in that thing, you got the controller, I assume?" Sam says smoothly. "We'll need to borrow the remote too, if you don't mind."
 
-Crowley seems to be pleased, smiling like a cat tasting butter. "You promised to give him back, right? I have a buck load of things would like to try there, start with hopping on one feet and dancing with one hand touching his nose."
+Crowley seems to be pleased, smiling like a cat tasting butter. "You promised to give him back, right? I have a buck load of things I'd like to try there, start with hopping on one feet and dancing with one hand touching his nose."
 
-Dean rolls his eyes. "Yes, you can have all the fun once we're done with him. Now, the body, please? We're on the clock here."
+Dean rolls his eyes. "Yes, you can have all the fun once we're done with him. Now, the body, please? We don't have all day here."
 
-They load Nick's body into the truck of the impala, hidden inside a sackbag as if it's just a large bag of potato. The demon inside stays in there, part of the buy-one-get-one-for-free deal, as Crowley says. With the iron chains still wrapped around the body, the demon can't get anywhere anyway, and with all the spellwork and runes, the demon doesn't wake up however rough they haul and drag the body. Dean thinks it's fine then, they can handle a little demon even if he gets loose and gets inside the bunker.
+They load Nick's body into the truck of the impala, hidden inside a sackbag as if it's just a large bag of potato. The demon inside stays in there, part of the buy-one-get-one-for-free deal, as Crowley says. With the iron chains still wrapped around the body, the demon can't get anywhere anyway, and with all the spellwork and runes, the demon doesn't wake up however rough they haul and drag the body. Dean thinks it's fine then, they can handle a little demon even if he gets inside the bunker and gets loose.
 
 They leave Crowley's place. No one waves at the asylum door to send them goodbye.
 
 <br>
 
+### Act 9
+
+> INT. bunker - night (Dean, Sam, Cas, Lucifer, Nick)
+>
+> Dean/Sam get back to bunker, find Cas super sick in the Dungeon with Lucifer, Dean helps Cas get rested first
+>
+> they get Lucifer into Nick
+
+Dean calls Cas's name the minute he's back in the bunker.
+
+It was a long drive, just like Sam said and he also knew. It took them a whole day driving from Massachusetts to Kansas -- that's the only time Dean thinks flight might does have a reason to exist in US. And Cas still hasn't answered any of his phone or texts in that whole twenty-four hours of drive.
+
+He races into the bunker library first, where they have last seen Cas. And finds Cas's phone on the table next to an open book. All thirty-something unanswered phone calls and text messages on the screen.
+
+Sam gasps at the dungeon monitor, yelling, "Dean! The dungeon!"
+
+Dean doesn't need him say a second time to rush into the Dungeon.
+
+The Dungeon's door is wide open. Dean sees it before getting there, the two immediate worst-scenario thoughts popping into his mind are: Lucifer has escaped, and Cas was hurt again.
+
+He dashes inside without thinking.
+
+Lucifer sits comfortably in a chair -- as comfortable as a skeleton that his vessel now is can still feel, watching with full interest at the shaky figure kneeling on the floor six feet away from him, coughing and choking like breathing is the most impossible thing to do in the world.
+
+"What did you do to him, you asshole?!" Dean roars at Lucifer, running to Cas, kneeling beside him to see how bad it is.
+
+Cas has one hand on the floor holding himself, the other hand covering his mouth, coughing blood. His palm and corner of his mouth are smudged with blood stains.
+
+"What did I do? Nothing!" The Devil protests loudly and innocently. "Why does something break and everyone always just blame me?"
+
+"Let's get you outta here first," Dean ignores him, helping Cas on his foot.
+
+Cas staggers, Dean slings his arm around his shoulder and takes him to his room. He seems to get a lot better when he settles down on the bed. Though his face is still pale. And the moment Cas is able to start talking again, the first sentence he lets out is: "I'm sorry, Dean --"
+
+Dean shushes him gently, using his sleeve to clean up the blood at his mouth. "Shhh -- save your strength, Cas. We'll take care of Lucifer. He'll pay for whatever he did to you. Why don't you just take some rest first, and we'll talk later?"
+
+Cas looks like he can't agree more. His breath is still labored, his eyelids seem too heavy to keep open.
+
+Dean regards him studiously, telling him gently, putting a hand on his forehead as if testing his body temperature. "Remember I said I used to take care of Sammy when he was a sicky child? I'd sit by his bed all night just checking to see if he's still breathing every two minutes 'cause I'd be too worried. I couldn't have a full night's sleep until he was bouncing back."
+
+He looks at the angel's closed eyes, and the dark tired circles around them, the old bruises that are still not fully recovered. His fingers ghosting on those trails on his cheeks, Dean whispers, "Cas, please tell me you'll be fine. Everything is going to be okay."
+
+"It's going to be okay," Cas mumbles sleepily with closed eyes, looks like already half-way falling asleep, but Dean catches it.
+
+Dean sighs a small sigh, turning off the light in his room. *Please be okay.* He stands in the darkness for a minute silently, watching the light from the corridor casting a thin layer of light on Cas's figure. The angel looks peaceful from this angle, not wounded or weak. Dean lets his breath out slowly and quietly, and closes his door.
+
+He goes back to the Dungeon right away. Sam's already there, with Nick's body left outside the Dungeon door, just out of view.
+
+Lucifer is sniffing the air like a freaking door. "Sam, buddy, haven't seen you for a while, missing our roomie days? And what's that out there -- a gift! That's so very considerate of you to bring me some gift, I should prepare something for you too, let me see..." He shakes the cuffed hands, snapping his fingers. Sam visibly is startled just by the sound and motion of that. But nothing happened.
+
+Lucifer frowns at the cuff, annoyed and disappointed. "Whatever, I'll get you new one once I get out, don't say 'No,' Sam. 'Cause you know what? I always get out."
+
+"No, you're not." Dean stomps in. "You're right, we were preparing you something nice and beautiful, but you can forget all about that for whatever you did to Cas, you son of a bitch!" He marches forward, ready to beat Lucifer again.
+
+"Wait, wait!" Lucifer circles around to separate himself from Dean with the chair in between. "I swear to Dad, I didn't do anything to him! He did everything to himself! Why does no one ever listen to me? In case you didn't notice, I never lie!"
+
+"What do you mean 'He did to himself'?" Dean asks outrageously, not believing a word coming out of the Devil's mouth.
+
+Lucifer shrugs. "Why don't you go ask him yourself -- oh I forgot, *he*'s the one who lies a lot. Just like what I told him, not healthy for relationships --"
+
+Dean's fist lands on Lucifer's face.
+
+"Ouch!" Lucifer grimaces. At the same time, Dean holds his own bleeding knuckles close to him, hissing and cursing. Bloody thing is now practically a skeleton, he almost forgot. The now-twisted and broken nose bone on Lucifer's face makes him looks like a bad-quality medical specimen. And quickly, those broken bones give up connecting to each other and connecting to the rest of the skull, they fall off to the floor. Followed by the cheek bones, then jaw bones.
+
+Piece by piece, like a Domino, what's left of the body of Vince Vincente is disintegrating before their eyes like an avalanche.
+
+This is a little out of course even for them. Dean and Sam are stunned, just staring. Even Lucifer seems to be surprised, letting out a small annoyed sound of a tut, raising his hands in front of his eyes to observe, only to see the finger bones drop off the floor like cracked tree branches. The handcuffs drop free from the end of the empty waist.
+
+"Hurry! Nick's body!" Sam snaps out of it first, racing outside the Dungeon door.
+
+Dean follows him closely. The two of them carry Nick's body inside, placing in front of the discomposing Devil's old vessel. They take a step back, waiting.
+
+Lucifer's skeleton body stumbles toward this new, whole and complete vessel as if trying to moving inside there, but the moment he moves, the leg bones are crushing down too. He drops to his knees, then there's nothing to hold straight. All the bones scatter on the floor like exposed remains of those who die in the wild and chewed by vultures and coyotes. Bright grace light burst out of the ruins of the body, circling little beneath the Dungeon ceiling, like a cloud made of bright light.
+
+Dean and Sam have to narrow their eyes in the light, feeling their eyes stung by the brightness.
+
+The demon inside Nick's body is waken up. He jumps to his feet, looking up at the ceiling, covering his eyes. He says, with the very familiar, exact same tone and voice of Nick, "Holy, it really is you! I never thought I'd every see you again!"
+
+Dean jumps, prompting, "Nick? I mean, the original Nick?"
+
+Nick turns to them, just as surprised, "Dean? Sam?"
+
+"Holy crap, he's the original Nick," Sam breathes heavily.
+
+"How's that even possible? Get the whole complete set, inside out?"
+
+"Sorta make sense, I guess? His soul must be corrupted in the Hell and became a demon. Then when Crowley invited him back into his old body, he must be happy to do so. And now here we are."
+
+"We gotta have some better definition of what's 'sense'." Dean sighs, turning back to the Lucifer-light. So does Sam and Nick.
+
+Lucifer-light coils in the air. Nick rises his arms, opening toward the light. "Yes," he says with an awed voice. "Yes, Lucifer. Come in me. Fill me up. Make me complete again."
+
+"That's just sick," Dean can't help commenting.
+
+Sam gives him a look. "He's a demon, what do you expect?"
+
+Lucifer, without hesitation, pours into Nick's body through his opened mouth. The demon's eyes are rid of the pupil-less blackness, turning into burning white.
+
+A loud thunderous sound rumbles the place. Lightnings shine from the thin air. Dean and Sam barely manage to have their eyes open, watching as Lucifer settling comfortably inside Nick, stretching his shoulders. Enormous, complete wings in its full span cast grand black shadow on the wall behind him.
+
+Lucifer sighs contentedly. "Now we are talking."
+
+He turns to Sam and Dean with a bright smile, and snaps his fingers.
+
+But nothing happens.
+
+Lucifer blinks confusedly, snaps again.
+
+Still nothing happens.
+
+He looks awkwardly at his fingers. "Give it a second. Might be warming up."
+
+"Right," Sam says coldly, snapping *his* fingers. And the grace-light in Lucifer's surrounding and his eyes recede. The shadow of the wings disappear.
+
+"What?! HOW!" Lucifer yells.
+
+Dean grins slightly. "You got one thing wrong, Luci," he tells the Devil. "You don't get out. You just jump from one cage to another."
+
+Sam smirks. "Crowley said 'Hi!'"
+
+<br>
+
+### Act 10
+
+> 
 
 
 
 
 
-
-
-
-> TFW go look for Nick's body, find Crowley rebuild Nick's body with Cage spell, get Lucifer inside Nick's body, help him strengthen
+> TFW help Lucifer strengthen
 >
 > (Lucifer suggest get Michael but they initially refuse, Lucifer being a really annoying childish asshole)
 
