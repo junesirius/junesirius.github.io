@@ -2014,31 +2014,31 @@ Lucifer sits comfortably in a chair -- as comfortable as a skeleton that his ves
 
 "What did you do to him, you asshole?!" Dean roars at Lucifer, running to Cas, kneeling beside him to see how bad it is.
 
-Cas has one hand on the floor holding himself, the other hand covering his mouth, coughing blood. His palm and corner of his mouth are smudged with blood stains.
+Cas has one hand on the floor holding himself, the other hand covering his mouth, coughing blood. His palm and corner of his mouth are dripping with blood.
 
 "What did I do? Nothing!" The Devil protests loudly and innocently. "Why does something break and everyone always just blame me?"
 
 "Let's get you outta here first," Dean ignores him, helping Cas on his foot.
 
-Cas staggers, Dean slings his arm around his shoulder and takes him to his room. He seems to get a lot better when he settles down on the bed. Though his face is still pale. And the moment Cas is able to start talking again, the first sentence he lets out is: "I'm sorry, Dean --"
+Cas staggers, Dean slings his arm around his shoulder and holds his waist, taking him to his room. He seems to get a lot better when he settles down on the bed. Though his face is still pale. And the moment Cas is able to start talking again, the first sentence comes out is: "I'm sorry, Dean --"
 
-Dean shushes him gently, using his sleeve to clean up the blood at his mouth. "Shhh -- save your strength, Cas. We'll take care of Lucifer. He'll pay for whatever he did to you. Why don't you just take some rest first, and we'll talk later?"
+Dean shushes him gently, using his sleeve to clean up the blood at his lips. "Shhh -- save your strength, Cas. We'll take care of Lucifer. He'll pay for whatever he did to you. Why don't you just take some rest first, and we'll talk later?"
 
 Cas looks like he can't agree more. His breath is still labored, his eyelids seem too heavy to keep open.
 
-Dean regards him studiously, telling him gently, putting a hand on his forehead as if testing his body temperature. "Remember I said I used to take care of Sammy when he was a sicky child? I'd sit by his bed all night just checking to see if he's still breathing every two minutes 'cause I'd be too worried. I couldn't have a full night's sleep until he was bouncing back."
+Dean regards him studiously, putting a hand on his forehead as if testing his body temperature, telling him, "Remember I said I used to take care of Sammy when he was a sicky child? I'd sit by his bed all night just to check if he's still breathing every two minutes 'cause I'd be too worried. I couldn't have a full night's sleep until he was bouncing back."
 
-He looks at the angel's closed eyes, and the dark tired circles around them, the old bruises that are still not fully recovered. His fingers ghosting on those trails on his cheeks, Dean whispers, "Cas, please tell me you'll be fine. Everything is going to be okay."
+He looks at the angel's closed eyes, and the dark tired circles around them, the old bruises that are still not fully recovered. His fingers ghosting on those trails on his cheeks, Dean whispers, worried to his bones, "Cas, please tell me you'll be fine. Everything is going to be okay."
 
 "It's going to be okay," Cas mumbles sleepily with closed eyes, looks like already half-way falling asleep, but Dean catches it.
 
-Dean sighs a small sigh, turning off the light in his room. *Please be okay.* He stands in the darkness for a minute silently, watching the light from the corridor casting a thin layer of light on Cas's figure. The angel looks peaceful from this angle, not wounded or weak. Dean lets his breath out slowly and quietly, and closes his door.
+Dean sighs a small sigh, hesitating by his bed, and eventually turning off the bedside lamp. *Please be okay.* He stands in the darkness for a minute silently, watching the light from the corridor casting a thin layer of light on Cas's figure. The angel looks peaceful from this angle, the dim silver light is almost like halo, for a moment Dean can imagine him not wounded or weak, just an angel lying peacefully on the bed. Dean lets his breath out slowly and quietly, and closes his door.
 
-He goes back to the Dungeon right away. Sam's already there, with Nick's body left outside the Dungeon door, just out of view.
+He goes back to the Dungeon right away. Sam's already there, with Nick's body left outside the Dungeon door, barely out of Devil's view.
 
-Lucifer is sniffing the air like a freaking door. "Sam, buddy, haven't seen you for a while, missing our roomie days? And what's that out there -- a gift! That's so very considerate of you to bring me some gift, I should prepare something for you too, let me see..." He shakes the cuffed hands, snapping his fingers. Sam visibly is startled just by the sound and motion of that. But nothing happened.
+Lucifer is sniffing the air like a freaking dog. "Sam, buddy, haven't seen you for a while. Miss our roomie days? And what's that out there, don't tell me -- a gift! That's so very considerate of you to bring me some gift, I should prepare something for you too, let me see..." He shakes the cuffed hands, snapping his fingers. Sam is visibly startled just by the sound and motion of that. But nothing happened.
 
-Lucifer frowns at the cuff, annoyed and disappointed. "Whatever, I'll get you new one once I get out, don't say 'No,' Sam. 'Cause you know what? I always get out."
+Lucifer frowns at the cuff, annoyed and disappointed. "Whatever, I'll get you a new one once I get out, don't say 'No,' Sam. 'Cause you know what? I always get out." He winks at Sam.
 
 "No, you're not." Dean stomps in. "You're right, we were preparing you something nice and beautiful, but you can forget all about that for whatever you did to Cas, you son of a bitch!" He marches forward, ready to beat Lucifer again.
 
@@ -2048,13 +2048,15 @@ Lucifer frowns at the cuff, annoyed and disappointed. "Whatever, I'll get you ne
 
 Lucifer shrugs. "Why don't you go ask him yourself -- oh I forgot, *he*'s the one who lies a lot. Just like what I told him, not healthy for relationships --"
 
-Dean's fist lands on Lucifer's face.
+"Okay, enough." Dean's fist lands on Lucifer's face.
 
-"Ouch!" Lucifer grimaces. At the same time, Dean holds his own bleeding knuckles close to him, hissing and cursing. Bloody thing is now practically a skeleton, he almost forgot. The now-twisted and broken nose bone on Lucifer's face makes him looks like a bad-quality medical specimen. And quickly, those broken bones give up connecting to each other and connecting to the rest of the skull, they fall off to the floor. Followed by the cheek bones, then jaw bones.
+"Ouch!" Lucifer grimaces. At the same time, Dean holds his own bleeding knuckles close to him, hissing and cursing. Bloody thing is now practically a skeleton, he almost forgot.
+
+The now-twisted and broken nose bone on Lucifer's face makes him looks like a bad-quality medical specimen. And quickly, those broken bones give up connecting to each other or connecting to the rest of the skull, they fall off to the floor. Followed by the cheek bones, then jaw bones.
 
 Piece by piece, like a Domino, what's left of the body of Vince Vincente is disintegrating before their eyes like an avalanche.
 
-This is a little out of course even for them. Dean and Sam are stunned, just staring. Even Lucifer seems to be surprised, letting out a small annoyed sound of a tut, raising his hands in front of his eyes to observe, only to see the finger bones drop off the floor like cracked tree branches. The handcuffs drop free from the end of the empty waist.
+This is a bit out of course even for them. Dean and Sam are stunned, just staring. Even Lucifer seems to be surprised, letting out a small annoyed sound of a tut, raising his hands in front of his eyes to observe, only to see the finger bones drop off the floor like cracked tree branches, followed by the palm. The handcuffs drop free from the end of the empty waist.
 
 "Hurry! Nick's body!" Sam snaps out of it first, racing outside the Dungeon door.
 
@@ -2074,11 +2076,11 @@ Nick turns to them, just as surprised, "Dean? Sam?"
 
 "How's that even possible? Get the whole complete set, inside out?"
 
-"Sorta make sense, I guess? His soul must be corrupted in the Hell and became a demon. Then when Crowley invited him back into his old body, he must be happy to do so. And now here we are."
+"Sorta make sense, I guess? His soul must be corrupted in the Hell and became a demon. Then when Crowley invited him back into his old body, he must be happy to do so. So now here we are."
 
-"We gotta have some better definition of what's 'sense'." Dean sighs, turning back to the Lucifer-light. So does Sam and Nick.
+"We gotta have some better definition of what's 'sense'." Dean yells, turning back to the Lucifer-light. So does Sam and Nick.
 
-Lucifer-light coils in the air. Nick rises his arms, opening toward the light. "Yes," he says with an awed voice. "Yes, Lucifer. Come in me. Fill me up. Make me complete again."
+Lucifer-light coils and recoils in the air like a circling vulture. Nick rises his arms, opening toward the light. "Yes," he says with an awed voice. "Yes, Lucifer. Come in me. Fill me up. Make me complete again."
 
 "That's just sick," Dean can't help commenting.
 
@@ -2115,6 +2117,8 @@ Sam smirks. "Crowley said 'Hi!'"
 > flashback: INT. Needham Asylum - Fall River, Massachusetts (Dean, Sam, Crowley, Nick)
 >
 > Crowley explains to them the whole controlling Lucifer through the Cage spell thing, transfer the control temporarily from himself to Sam
+>
+> INT. bunker dungeon - continuous (Dean, Sam, Lucifer)
 
 "We want the same thing here. Lucifer in that body, and you got the controller, I assume?" Sam was saying to Crowley, back when they were in that Asylum, standing in front of Nick. "We'll need to borrow the remote too, if you don't mind."
 
@@ -2122,25 +2126,193 @@ Sam smirks. "Crowley said 'Hi!'"
 
 Dean and Sam glared at him with the same blank looks.
 
-Crowley let out an impatient sound. "The control is not a *thing* you can borrow. It's *me*! *I* get a direct link to this body, this new cage -- tuning the lights up and down, I say go left he can't go right. The Devil is going to be just a puppet once he's inside that body."
+Crowley let out an impatient sound. "The control is not a *thing* you can carry around or borrow. It's *me*! *I* get a direct link to this body, this new cage -- tuning the lights up and down, I say go left he can't go right. The Devil is going to be just a puppet once he's inside that body."
 
-##### 
+"Then come with us!" Dean said, "Tell the Devil what to do, isn't what you wanted?"
 
+Crowley looked uneasy. "Happy to, but did you lot forget all the demon-proof sigils everywhere in that place? You might as well burn me alive then ask me walk into that damned place."
 
+Dean shrugged. He did forget bunker was the safest place on Earth, supposedly, looks like it's still true -- to some extent.
 
+Crowley sighed, resigned. He snapped his finger. "There, now Moose can act as my proxy. My agent on field. Happy?"
 
+Sam narrowed his eyes. "What did you do?"
 
+"Everything you want and more. Now get out of my place and have fun with the Devil." Crowley walked back to his throne room, heading to the corner cabinet to pour wine.
 
+"I don't feel anything." On their way home, Sam had said, frowning. "Do you think Crowley told us the truth? We now have the control over Lucifer?"
 
+Dean glanced at him, shrugging. "I don't know. Depend on how much you trust Crowley, I guess -- but he was doing okay recently, all things considered. He wanted Lucifer suffer as much as we do, so yeah, I think it should be a good bet -- as good as we can have, anyway."
 
+"Or Lucifer gets a free new body, and we are screwed. No pressure, right?" Sam breathed out heavily.
 
-> TFW help Lucifer strengthen
->
-> (Lucifer suggest get Michael but they initially refuse, Lucifer being a really annoying childish asshole)
+But as it turns out, Crowley did give them the real thing -- the Cage-bound body, the perfectly easy-to-use control. The whole set.
+
+"Sit," Sam commands, pointing at the chair in the Dungeon.
+
+Lucifer's face twitches, teeth gritting, eyes murdering, but his legs, walk toward the chair and sit down just as he's told.
+
+"Kneel," Sam says again. The lines on his face are smoothed, Dean thinks he's never seen Sam so relieved.
+
+"Kinky," Lucifer says jokingly, trying to hold his arms to the chair, but his body moves forward, knees bending. He kneels before them, looking up with narrowed eyes. "Okay, I get it, now you're going to enjoy a moment of power --"
+
+"Shut up," Sam commands with a sharp voice.
+
+Lucifer shuts his mouth instantly, half the sentence cut short.
+
+Sam smiles small, satisfied. Dean huffs, amused, "We should have that earlier."
+
+They leave the Dungeon shortly.
+
+"That went so much better than I thought." Dean starts, the moment they're sure they're out of the Devil's ear range, just in case his freaky archangel ability can still hear across the wall. "Why didn't we have that earlier?"
+
+Sam hums, agreeing.
+
+Dean eyes him. "How do you feel? Controlling the Devil? That doesn't have any... I don't know, side effect?"
+
+"No," Sam says, thinking for a second. "It feels awesome. I mean, I've never thought about it's even possible. But that thing back there, telling him to shut up and he has to obey? Yeah, the best thing I've felt since ten years ago -- I wasn't afraid of him anymore."
+
+"Okay, great." Dean exhales in relief. "But just to be safe, let's not use that too often, maybe? We still don't know how Crowley did it, just in case something bite our ass again. Oh, and... don't forget the book said he has to willingly give up his 'light' to save all the angels. We still have to figure that out."
+
+"Doesn't sound too difficult now, with what we have," Sam says easily.
+
+Dean gives him a nod. "We'll figure that out later. I need to check on Cas now."
 
 <br>
 
-###### [TBA]
+> INT. Cas's room - continuous (Dean, Cas)
+>
+> INT. library - next morning (Dean, Cas, Sam, Lucifer)
+>
+> Dean takes care of Cas over the night.
+>
+> TFW discuss how to help Lucifer strengthen up, whether to get Michael out, have argument. Dean strongly against it. They get phone call from Jody about Bobby
+>
+> (Lucifer suggest get Michael but they initially refuse, Lucifer being a really annoying childish asshole)
+
+Cas is asleep, by the time Dean's back to his room. He breathes quietly, the rhythm of sea's wave patting on the shore sand. Long and deep.
+
+Dean smiles small at the sound of that.
+
+There is an armchair next to the wall in his room. Dean settles down there, shifting slightly to find a comfortable spot.
+
+He closes his eyes, listening to that rhythm, thinking this is a long day. And tomorrow will be better. It has to.
+
+He wakes up finding himself on the bed, all clothes on but the boots are off. The room is still vaguely dim without a window. But the freshness in his head tells him it's been a full and nice long night's sleep.
+
+Dean sits up slowly. Remembering this isn't his room.
+
+Cas sits on the armchair next to the bed, the one he planned to spend the night on, reading a book.
+
+"Hello, Dean." Cas looks up, closing his book and leaving it on the bedstand.
+
+"You're up early." Dean looks him up and down.
+
+Cas has his suits and trench coat on now, all nice and clean. No sign of blood or sickness in his look. As if the way he looks yesterday was just a bad dream of Dean's.
+
+"It's actually not so early now," Cas tells him gently. "The Sun has been up for a few hours."
+
+Dean gets off the bed. "How you feel? You look awful yesterday."
+
+"A lot better now," Cas says, tilting his head, looking somewhere left of Dean.
+
+"What did Lucifer do?" Dean prompts, studying him.
+
+"Something dark, I suppose. I don't really know." Cas says thoughtfully. Not offering more.
+
+ "He said it's not him, he didn't do anything." Dean doesn't know why he said that. It's not like he's trusting Devil's words over Cas's.
+
+"And you believed that?" Cas narrowed his eyes.
+
+Dean shrugs.
+
+"How's the search on Nick's body?" Cas stands up from the chair -- not staggering this time -- smoothens the skirt of the coat, heading to the door.
+
+"Better than I thought, actually." From there, Dean tells him everything he missed from those tons of messages and unanswered calls.
+
+"I'm sorry," Cas says, when he finished talking.
+
+Dean raises an eyebrow, "What for?"
+
+"Making you worried," Cas lowers his eyes again. "As you can see, I'm fine."
+
+Dean smiles a little, nodding.
+
+"But now we really need to start working on saving the angels and the Heaven, if you don't mind." Cas says, gesturing upward, pointing at the ceiling as they walk out of the room, down the hallway toward to the library. "We have wasted a lot of time -- because of me. It's getting worse by every minute."
+
+"How bad?" Dean asks, following him.
+
+"The sound of it is like earthquakes on Earth, but for Heaven, the shaking is making the whole celestial dimension crack. There are rifts that souls are falling from. You might find more ghost or spirit cases, like Nick's wife and son." Cas says, voice low.
+
+Sam greets them in the library, in the middle of scrolling on the laptop pages, noting something down on a piece of paper. A handful of their spare phones lie around on the desk, buzzing with incoming calls and messages.
+
+"What's that?" Dean glances at the paper he's working on. It has a long list of locations and it's still growing.
+
+"I think the Vail is going nuts." Sam says, wiping his face with the free hand.
+
+"Define 'nuts'." Dean says, though he already has some idea.
+
+"Basically, we have more ghost stories in the last twenty-four hours than the past ten years altogether. I got hunters calling from everywhere saying there are more ghosts than they've ever seen, but they're not vengeful, they're just... there. Confused, just like we're, like they don't belong there, and they have no idea why they're here." Sam hands them the list. "I was trying to see if any of them are real vengeful spirit cases that need attention."
+
+Dean notices Sioux Falls, South Dakota is on the list.
+
+"It's happening," Cas tells him what he just told Dean, the breaking and creaking of Heaven. "We have to act quickly now. If Heaven is left unattended for too long, it won't just be cracks."
+
+"I'll go get Lucifer," Sam volunteers. Dean doesn't stop him.
+
+<br>
+
+Lucifer wanders into the library, following Sam like a dog on leash. His head lowered, his look sheepish. The delusion of obedience can almost fool anyone who doesn't him. But the hunters and the angel in the room know better than be deceived.
+
+He opens his mouth, stretch his tongue, but no sound comes out. That "shut up" command is such a charm, they should have that always on default setting.
+
+"Okay, where are we?" Dean takes a step toward the Devil, just so he could stand right in front of Cas. "A little catch-up to do."
+
+They tell the Devil the Angel Black Death and the crisis in Heaven, the falling souls into the Vail, and that they need Lucifer with his brightest light.
+
+"You may talk now," Sam commands.
+
+Lucifer exercises his mouth exaggeratedly. "Guys, I'm so glad to be your first choice here." He smiles, almost as if genuinely. He looks them from one to another, eyes lingering on Cas for an extra moment, then turns back to Dean. "Guys, I would love to help, I really do."
+
+"No one's stopping you," Dean snaps.
+
+Lucifer holds two palms up, a look of helplessness. "But look, I'm weakened. Amara, the cuff, and Sam! I like the kinks, but this is just -- too kinky even for me." He touches his throat, gesturing at his grace. "I was the brightest light for millions of years, even in the Cage, I'm sure. But just unfortunately not tonight. What's the word? Bad timing --"
+
+"How do we brighten you up?" Dean says dryly.
+
+"Let me see," Lucifer starts counting fingers, "at least one million souls -- I don't mind where, Heaven, Hell, Purgatory, you guys know the way; my sword -- haven't seen it for years, but it would work so nicely; oh, and a better vessel, stronger, like Sam!"
+
+"Dean -- we are not seriously talking about 'how to make Lucifer powerful again', are we?" Cas warns with a low voice.
+
+"Yeah, Dean -- are we?" Lucifer mimics his tone. Cas shoots him a glare.
+
+"Unfortunately, we are." Dean turns slightly to Cas, talking to him low and rapidly. "As much as I hate it, it might be the only way."
+
+"Maybe not," Sam says beside them. "There is another." He gives Dean and Cas a look.
+
+Lucifer squints at them, "Wait, Michael? You're talking about *Michael*? My douchebag brother Michael who's rotting in the Cage? And you think *he* has brighter lights than *me*?" He looks insulted.
+
+Dean tilts his head in Lucifer's direction, telling Sam, "He's not wrong."
+
+But Cas says, low and urgent, "Is he? If Lucifer is only half his light, and with the affect of Cage, Michael would also be weakened, we may actually need both of them. The angel infection comes from Darkness, we would have need God to cure it. Now that we can only get archangels, one is probably not enough."
+
+"No, we are not getting Michael out of Cage. Out of question." Dean tells them firmly. "Am I the only one didn't forget the last time those two are in the same room? That didn't work so well!"
+
+"You're afraid," Lucifer laughs suddenly, realizing. "You are afraid Michael would jump you the moment he's out. Had to say, learn from your brother, Dean. Sam doesn't have any issue walking around me."
+
+"Shut up," Dean glares at him outrageously, then turns to Sam. "Tell him to shut the fuck up! Okay, enough talking! We're NOT getting Michael out of Cage. End of discussion!"
+
+His hands fidget on his flannel. "I'll see if we can grab some bastard soul for him to chew on, to start with."
+
+"Dean, we may not have enough time for him to recover even if we did -- " Cas starts.
+
+"I said, we are done here." Dean swallows.
+
+A phone ring saves them the more argue that might would have come. Sam's phone vibrates on the desk. He picks up.
+
+"Sam --" Jody's voice comes out of the speaker, muffled, troubled. "Do you mind come over? Bobby is here, and a few other folks you and your brother might want to meet."
+
+<br>
 
 **Words after the chapter:**
 
@@ -2160,7 +2332,7 @@ System of a Down: "angels deserve to die" (Cas: Do I deserve to die? Do they?)
 
 ~~Beyond the Black: In the Shadows "It's so hard to kill the demons, When they live inside your heart"~~
 
-"We might actually need both of them. The infection comes from Amara, we would have needed Chuck to cure this. Now that we can only get archangels, one doesn't seem quite enough."
+~~"We might actually need both of them. The infection comes from Amara, we would have needed Chuck to cure this. Now that we can only get archangels, one doesn't seem quite enough."~~
 
 <br>
 
@@ -2212,7 +2384,15 @@ Cas doesn't answer.
 
 Dean's heart sinks: you are, aren't you? Why don't you tell me?!
 
-### Chap. 4: You're Up, Dr. Phil
+### Chap. 4: The Roadhouse
+
+> souls in Heaven starts getting out of control, TFW thinks it's a case but run into Jo/Ellen/Ash/Bobby
+>
+> (with or without Bobby? Bobby's in Heaven's lockup since 1017, but maybe the prison is cracked too, all troops sick and dying/dead)
+
+
+
+### Chap. 5: You're Up, Dr. Phil
 
 > Cas's getting worse, the whole situation getting way worse, Heaven can't wait any longer, souls go wild in vail or fall from Heaven (quick fast-forward mention they run into some familiar family/friends but don't go into too much detail, passby lines about people running into their dead relatives but not as evil/vengeful spirits; add back scene with John/Mary)
 >
@@ -2238,7 +2418,7 @@ poke Michael, remind him last year (s11) Chuck needed help from archangel and he
 
 they try to poke Michael: "Michael is God's favorite soldier, but Lucifer is his favorite son."
 
-Michael retort: "just lDean is John's favorite soldier, Sam is his favorite son.")
+Michael retort: "just like Dean is John's favorite soldier, Sam is his favorite son.")
 
 
 
@@ -2248,7 +2428,7 @@ Michael/Lucifer counseling session: Do you remember the time when...
 
 Michael/Lucifer deciding not saving angels: There is no darkness without light, so if they're all gone, so is the disease. Problem solved.
 
-### Chap. 5: On the Crossroad
+### Chap. 6: On the Crossroad
 
 > to stop Michael/Lucifer and save Cas/Heaven, Sam/Dean says yes, things get dirty, take back control, sacrifice/kill each other, explodes and kills Michael/Lucifer (in Heaven), purifies angels in Heaven, Heaven is saved, fallen souls/spirits are retrieved by angels restart working
 >
@@ -2322,7 +2502,7 @@ Dean pauses and nods briefly but didn't look back. He's afraid he might not have
 
 <br>
 
-### Chap. 6: The Brightest Light
+### Chap. 7: The Brightest Light
 
 > Cas uses up his power to get Sam/Dean back, is still dying because he wasn't in Heaven the purifying explosion happened; one cured angel/Dumah comes to bunker to explain+offer Heaven in their command (because Sam/Dean prove themselves more bright than archangels, they're practically new archangel/god in their eyes), Dean's soul is the brightest light, Dean can save Cas but only if he let himself be honest with his feelings, be open for the first time, Dean uses his soul power to touch Cas and purify/save Cas, soul-grace dance, don't need to say love but so much more than love, there is no word for them even "love" isn't enough, Cas is saved, all HE
 >
@@ -2341,12 +2521,6 @@ Dean: You saved me so many times, it's my turn now.
 <br>
 
 ###### [END]
-
-### Timestamp 1: The Roadhouse
-
-> souls in Heaven starts getting out of control, TFW thinks it's a case but run into Jo/Ellen/Ash/Bobby
->
-> (with or without Bobby? Bobby's in Heaven's lockup since 1017, but maybe the prison is cracked too, all troops sick and dying/dead)
 
 ### Timestamp 2: The Novaks
 
