@@ -1436,7 +1436,7 @@ Dean decides he's right, shrugs once, and climbs into the car.
 
 Cas already falls asleep on the passenger seat.
 
-Dean starts the engine quietly, and heads home.
+Dean turns the ignition quietly, and heads home.
 
 <br>
 
@@ -1887,6 +1887,8 @@ Lucifer beams brightly at him with a mouth without lips. "Now we are talking. Fi
 > EXT. Fall River, Massachusetts - day (Dean, Sam)
 >
 > Dean/Sam in their way looking for Crowley's throne room. Dean worry about Cas, want to go back to him, decide to stay to help out Sam eventually
+>
+> (first important hint: first time show Dean has to choose between Sam/Cas, even though he worry about Cas, he does choose Sam over Cas, even for good reason, not explicitly highlighting or pointing out by anyone, just showing it as fact)
 
 Sam has narrowed the locations down to a few sites near the shore around Rhode Island and Massachusetts, where there have been demonic sightings recently. He has written them down into a notepad.
 
@@ -1908,13 +1910,15 @@ Dean stares at the road ahead of him, with the sea gulls fighting for something 
 
 "Hell is Hell, Dean," Sam says in his Sam-branded patient soothing voice. "What about you check that one out, then go home, I can take the rest."
 
-After a quiet moment, Dean asks, "You sure about that?"
+Dean is quite for a moment, then asks, "You sure about that?"
 
-"Not really, but I get it." Sam sighs again tiredly. "Gotta make sure Cas is okay, right?"
+"Not really, I need you here. You know, demons can get nasty. But I get it." Sam sighs again tiredly. "If you think Cas needs you more, then go. It's your call. Gotta make sure he's okay, right?"
 
-Dean considers for a minute, then gives way, "You know what, you're right. It's gonna be a long-ass drive, I'll need my switch driver and you'll need backup if we do find Crowley's hideout. Might as well stick to the plan and we can both go home early."
+Dean considers for a minute, then gives way. "You know what, you're right, we should finish this first. It's gonna be a long-ass drive, I'll need my switch driver and you'll need backup if we do find Crowley's hideout. Might as well stick to the plan and we can both go home early."
 
 Sam huffs a small relieved breath. "Sounds good to me."
+
+Dean shifts his attention back to the road and the task in hand, but he finds it so difficult to keep his mind from wandering back to bunker from time to time.
 
 <br>
 
@@ -1954,15 +1958,15 @@ The body is well preserved, as it seems. All the flesh and blood look as healthy
 
 "What's this, your kinky personal project?" Dean turns to stare at Crowley. "Is the guy still alive?"
 
-"I wouldn't go that far to call it 'alive'." Crowley walks around the chained body, examining it carefully, smiling pleasantly. "Just got a demon inside. Keeps the body fresh. Otherwise it's just a pile of dead meat. You have no idea how long it took to get everything done."
+"I wouldn't go that far to call it 'alive'." Crowley walks around the chained body, examining it carefully, smiling pleasantly. "Just got a demon inside. Keeps the body fresh. Otherwise it's just a pile of dead meat, it smells after three days. You have no idea how long it took to get everything done."
 
 "What everything?" Dean's eyes follow Crowley's move, shifting between the demon and the body.
 
 Crowley looks up at him, proud. "I learned a thing or two from Mommy Dear. Finally figured out how to decode most of the Cage's lock magic and runes, and have them all transferred to this body, carved into every bone, every blood, every molecule of every cell. The Devil can live in that body just like he did in the Cage, but he's gonna be my little bitch." He grits his teeth satisfyingly as if he's already imagining chewing the Devil between them.
 
-Dean realizes. "So that's your plan when we ran into you and Rowena in LA. You were about to cast him into this body and have your little revenge."
+Realization dawns on Dean. "So that's your plan when we ran into you and Rowena in LA. You were about to cast him into this body and have your little moment of revenge."
 
-Crowley shrugs, then glares at him begrudgingly. "Then you lot just *had to* show up and ruin the day for us, didn't you? Mother and I had him under control."
+Crowley shrugs, then glares at him with grudge. "Then you lot just *had to* show up and ruin the day for us, didn't you? Mother and I had him under control."
 
 "You and Rowena would be dead if we weren't there!" Dean protests.
 
@@ -1972,7 +1976,7 @@ Crowley shrugs, then glares at him begrudgingly. "Then you lot just *had to* sho
 
 "Moose," Crowley squints at him, "Aren't you always the peace-maker? I was just trying to tell your brother how helpful I was!"
 
-"Yes you are, thanks for that. Now do you mind do us another favor of loaning Nick's body? We want the same thing here, anyway, right? Lucifer in that thing, you got the controller, I assume?" Sam says smoothly. "We'll need to borrow the remote too, if you don't mind."
+"Yes you were, and we are grateful for that. Now would you mind do us another favor of loaning Nick's body? We want the same thing here, anyway, right? Lucifer in that body, and you got the controller, I assume?" Sam says smoothly. "We'll need to borrow the remote too, if you don't mind."
 
 Crowley seems to be pleased, smiling like a cat tasting butter. "You promised to give him back, right? I have a buck load of things I'd like to try there, start with hopping on one feet and dancing with one hand touching his nose."
 
@@ -1984,7 +1988,7 @@ They leave Crowley's place. No one waves at the asylum door to send them goodbye
 
 <br>
 
-### Act 9
+#### Act 9
 
 > INT. bunker - night (Dean, Sam, Cas, Lucifer, Nick)
 >
@@ -2094,21 +2098,37 @@ Lucifer blinks confusedly, snaps again.
 
 Still nothing happens.
 
-He looks awkwardly at his fingers. "Give it a second. Might be warming up."
+He looks awkwardly at his fingers. "Give it a second. Must be warming up."
 
 "Right," Sam says coldly, snapping *his* fingers. And the grace-light in Lucifer's surrounding and his eyes recede. The shadow of the wings disappear.
 
-"What?! HOW!" Lucifer yells.
+"What?! HOW!" Lucifer yells petulantly.
 
-Dean grins slightly. "You got one thing wrong, Luci," he tells the Devil. "You don't get out. You just jump from one cage to another."
+Dean grins slightly. "You got one thing wrong, Luci," he tells the Devil sweetly. "You don't get out. You just jump from one cage to another."
 
 Sam smirks. "Crowley said 'Hi!'"
 
 <br>
 
-### Act 10
+#### Act 10
 
-> 
+> flashback: INT. Needham Asylum - Fall River, Massachusetts (Dean, Sam, Crowley, Nick)
+>
+> Crowley explains to them the whole controlling Lucifer through the Cage spell thing, transfer the control temporarily from himself to Sam
+
+"We want the same thing here. Lucifer in that body, and you got the controller, I assume?" Sam was saying to Crowley, back when they were in that Asylum, standing in front of Nick. "We'll need to borrow the remote too, if you don't mind."
+
+"What do you think the control *is*, Moose? A TV remote?" Crowley mocked.
+
+Dean and Sam glared at him with the same blank looks.
+
+Crowley let out an impatient sound. "The control is not a *thing* you can borrow. It's *me*! *I* get a direct link to this body, this new cage -- tuning the lights up and down, I say go left he can't go right. The Devil is going to be just a puppet once he's inside that body."
+
+##### 
+
+
+
+
 
 
 
@@ -2194,7 +2214,7 @@ Dean's heart sinks: you are, aren't you? Why don't you tell me?!
 
 ### Chap. 4: You're Up, Dr. Phil
 
-> Cas's getting worse, the whole situation getting way worse, Heaven can't wait any longer, souls go wild in vail or fall from Heaven (quick fast-forward mention they run into some familiar family/friends but don't go into too much detail, passby lines about people running into their dead relatives but not as evil/vengeful spirits)
+> Cas's getting worse, the whole situation getting way worse, Heaven can't wait any longer, souls go wild in vail or fall from Heaven (quick fast-forward mention they run into some familiar family/friends but don't go into too much detail, passby lines about people running into their dead relatives but not as evil/vengeful spirits; add back scene with John/Mary)
 >
 > has to take Lucifer's advice to release Michael, get Rowena to help open Cage, get Michael out, Michael meets Lucifer, Winchester counseling time for Michael/Lucifer, help them make peace
 >
@@ -2213,6 +2233,14 @@ Dean: ~~That's your idea? That's dumbest idea in a pool of dumb idea you've ever
 Dean: Come on, it's like putting two nuclear together and hope they don't explode! What's the odds?
 
 <br>
+
+poke Michael, remind him last year (s11) Chuck needed help from archangel and he turned to Lucifer for help, didn't even cross his mind to save Michael from Cage, hardly his favorite son
+
+they try to poke Michael: "Michael is God's favorite soldier, but Lucifer is his favorite son."
+
+Michael retort: "just lDean is John's favorite soldier, Sam is his favorite son.")
+
+
 
 They all agree Dean should get nowhere close to Michael and same goes for Sam and Lucifer, so Sam and Rowena go to Michael, Dean and Cas go to Lucifer
 
@@ -2317,6 +2345,8 @@ Dean: You saved me so many times, it's my turn now.
 ### Timestamp 1: The Roadhouse
 
 > souls in Heaven starts getting out of control, TFW thinks it's a case but run into Jo/Ellen/Ash/Bobby
+>
+> (with or without Bobby? Bobby's in Heaven's lockup since 1017, but maybe the prison is cracked too, all troops sick and dying/dead)
 
 ### Timestamp 2: The Novaks
 
@@ -2327,6 +2357,10 @@ Dean: You saved me so many times, it's my turn now.
 ### Timestamp 3: The Winchesters
 
 > Heaven gets even more loose, John/Mary get down, Winchesters happy reunion dinner, like in show; but include Cas as part of family, formally, in front of parents
+>
+> (if added back to main plot, John/Mary would have stayed with them when Dean/Sam say yes to Michael/Lucifer, would it make them easier to break free and regain control? maybe all those other important people in their lives are the key for them to regain control, so those indeed need to be added back)
+>
+> John's interaction with Adam (could be awkward)
 
 ### Timestamp 4: Evil Never Rests
 
