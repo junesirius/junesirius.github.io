@@ -183,7 +183,9 @@ The story starts from an urban legend of the campus, rumor says the colored glas
 
 In 1500 BC, there was this man born in Mesopotamia, named Dean. He worked as a metalsmith, loved colors, and when he was working on constructing metals and weapons, he added rare metal to the heated melting quartz and invented colored glass. He experimented, and invented the most beautiful blue he (and the world) had ever seen. He loved the color so much, put enough emotion in it, and even named it. The name he gave the blue is Castiel, angel of blue. This is the age before dawn, the age before Roman and Greek, the age when magic was not a legend and god walking among them. And when gods and angels were created from man's belief. So Angel of Blue got his life, because Dean stared at the color long and lovingly. Castiel came to life.
 
-For a life time, Dean spent with Cas, building things together, the glass, the metal, the inventions, the art, the creations. They create together, they spend a hundred year together. By 1400 BC, Dean was near the end of his human life. It's already longer than any man at that time, he had no regret except for having to leave Cas alone. Cas was still young, looking exactly the same the day he was created, because neither of them really knew if the form Cas was in, that human form out of the trueform, is it really him and is he really a living being. He was not human, but he had life force. On Dean's deathbed, he was telling his last words to Cas, his love and his happiness and luck in that hundred years, Cas couldn't see him die, so Cas shared his life force with Dean, and faded back to a strip of blue on the colored glass they built together. He promised he'd be back, as long as Dean remembered him. He gave him life once, he could create him again.
+For a life time, Dean spent with Cas, building things together, the glass, the metal, the inventions, the art, the creations. They create together, they spend a hundred year together. By 1400 BC, Dean was near the end of his human life. It's already longer than any man at that time, he had no regret except for having to leave Cas alone. Cas was still young, looking exactly the same the day he was created, because neither of them really knew if the form Cas was in, that human form out of the trueform, is it really him and is he really a living being. He was not human, but he had life force.
+
+On Dean's deathbed, he was telling his last words to Cas, his love and his happiness and luck in that hundred years, Cas couldn't see him die, so Cas shared his life force with Dean, and faded back to a strip of blue on the colored glass they built together. He promised he'd be back, as long as Dean remembered him. He gave him life once, he could create him again.
 
 Dean continued to live as a young man, he painted down all different kinds of blue colors on all different materials. He travelled across the world, always carrying the small piece of colored glass with him, with that one strip of blue. People thought he was weird, mad even, because he looked at it as if it were the love of his life. And he never aged.
 
@@ -225,7 +227,7 @@ The weathered man says, "Let me tell you a story. A story from four thousand yea
 
 ## Main
 
-### Chap 1
+### Act 1
 
 > story start as urban legend of the campus, 3rd POV young man (nameless faceless for now), leading with legend mystery (what's the glass, secret, treasure; who's the man)
 >
@@ -237,17 +239,37 @@ The weathered man says, "Let me tell you a story. A story from four thousand yea
 >
 > (main revelation: Cas *is* blue)
 
-The man has been sitting there for ages, looking at the colored window facing south, not moving an inch, as if he's been there since the dawn of time. The afternoon sun shines on the window, casting a shade of blue on the marble floor. His eyes follow the color, deep, weathered, and indescribably sad.
+The man has been sitting there for ages, looking at the colored window facing south, not moving an inch, as if he has been there since the dawn of time. The afternoon sun shines on the window, casting a shade of blue on the marble floor. His eyes follow the color, deep, weathered, and indescribably sad.
+
+Every campus has legends of their own, and rumor says, the colored glass window in the south campus facing the lake is thousands of years old, and the man guarding it is even older. Young art students pass the corridors, passing the man as if he is not there. He doesn't look like a part of the place, but almost like a part of the building, a part of the wall and window, a statue.
 
 A kind, young student sits next to him, asking if he's okay.
 
 The weathered man says, "Let me tell you a story. A story from four thousand years ago, about a man named Dean, and a color of blue."
 
-
-
 <br>
 
-###### [TBA]
+In 1500 BC, there was this man born in Mesopotamia, named Dean. He worked as a metalsmith. The furnace burned hot and melted metals, he waved hammers to break the hardest metals and build them into weapons. The weapons that would be used for wars, for attacking, for defending. For violence.
+
+He looked at the spears and shields created in his hands, thinking, the world should be more than that. More than violence. More than blood. More than things that could be used to kill others. He looked at his hands, and decided, those should be used to create, not to destroy.
+
+He went looking for colored stones and ores from mines, and he added to the heated melting quartz in his furnace. Metals moltened into liquid, and when they solidify, they turned into the most beautiful thing he's ever seen. The translucent glass shimmered with a gleamer of blue, like sky, like sea, but so much more. He held his breath, taking the colored glass against the sun.
+
+It was the most beautiful color he had ever seen -- the world had ever seen. It shifted under the sun, swam in the solidified glass, like a life portrait in a painting, like a statue, so vivid yet so still. The blue was otherworldly, ethereal. Dean forgot to breath, and believed he had a glimpse of Heaven just through it. Tears came down from his face and dropped on the colored glass.
+
+He loved the color so much he carried it with him all the time. He held it in the place close to his heart. He stared at it every time he thought about it, and every time that blue grasped his breath away with its beauty. It shimmered under the sun, gleamed with life. Dean thought, it must be alive, how else could it be so astonishingly beautiful? He thought, it must be an angel that he caught eyes on.
+
+He called it the Angel of Blue.
+
+It was the age before dawn, the age before Roman and Greek, the age when magic was not a legend and gods walking among mankind. And that was an age, that gods and angels were created from man's belief.
+
+It must be how it happened, Dean thought. That was how the Angel of Blue emerged from the colored glass, from the color itself, standing before him. Because he stared at the color long and longing, because his tears dropped on it, because he put it near his heart for days and nights.
+
+The Angel of Blue came to life.
+
+And he had the bluest eyes.
+
+<br>
 
 #### draft notes
 
@@ -259,7 +281,7 @@ Dean appearance: weathered, not aged
 
 two-part story-telling, start modern, date back to ancient setting, evolve from ancient to modern, the colored glass is ancient old and still beautiful and complete
 
-story start as urban legend of the campus, 3rd person view (which later turns out to be Cas's newest incarnation, alias "Cael", lead to the twist revelation of who's forgetting)
+story start as urban legend of the campus, 3rd person view (which later turns out to be Cas's newest incarnation, alias "Cael" (or just "Cas"? but not "Castiel"?), lead to the twist revelation of who's forgetting)
 
 story-telling tone, ~~Dean: "There are so many stories, half of them are true, the other half, just haven't happened yet."~~
 
@@ -269,33 +291,63 @@ question-answer form, asking about each line for story and Dean tells them
 
 **Revelation:** Cas is blue
 
-### Chap 2
+### Act 2
 
 > a life time of Dean with Cas, building things together, the glass start small, colorful, their creation together
 >
 > ~1400BC Dean dying of old age (longer than avg 45y already, Cas already extending his life), Cas still young, bc not really living, not human, share life force, fade back to color on the glass again, promise he'll be back, as long as Dean remembers him and he can create him again; Dean paints down blue, brings the glass and travels the world, paints all different kinds of blue on it
 >
-> 1200BC Egypt Red Sea (bluest water), Cas reemerges as life form, reunite and live together for 100y, fades again bc use up the life force too fast (being human exhaust the energy really fast); Dean: "I'll wait for you again", Cas: "I'll wait for you again" (both waiting/rely on the other)
->
 > (chapter end: POV man's blue eyes, Dean not recognize him)
 >
 > (chapter middle, revelation: window is love letter & notes & thoughts → hinting amnesia, not specify who)
 
+"Does he have a name? The Angel of Blue?" the young student asks.
 
+The weathered man looks at the colored window, deep in thought. "I think he does," he answers dreamily, more sadness seeping out of his eyes. "I think he does, but it's a story from a long time ago now. Too long, and the name was lost."
+
+"Dean would give him a name as beautiful as the color," the young student says gently.
+
+The weathered man turns to him slightly, a small smile curling on the tip of his lips. "Yes, yes, it is! I remember now. That most beautiful name is 'Castiel' -- he called him 'Cas'."
+
+<br>
+
+For a life time, they spent together, Dean with his Angel of Blue, his muse of creation, in the age of dawn. They built together, they created together -- glass, metal, art, inventions, creations.
+
+For a hundred years, they walked the Earth together, traveling from one land to another. For a hundred years, Dean wondered if it was a dream. He kept the very first colored glass with him for all his life, closest to his heart. His fingers caressed that astonishingly beautiful shade of blue whenever he thought of him, and Cas would hold his hands and tell him, "That was me. I'm here now."
+
+A hundred years was long, for a Mesopotamian, for a human -- it was already so much longer than any other man he knew, but it still didn't feel long enough when he lied on the bed, aged and withered. Cas sat by his bed, holding his hands, looking just as young and beautiful as the first day he appeared. Exactly same shining blue eyes, same hair, same face. The color of blue did not age, nor did him.
+
+"I have no regret in my life but one," Dean, old man that he was, told Cas with a weak smile, "that I'll have to leave you alone now."
+
+His breath faded thin, but he struggled with the last thread of that breath to tell Cas how much joy and luck he had in that hundred years. "I was a lucky man to find you, and you came to me." Dean smiled at him, gentle, loving. "Remember all the places we went together? All the metal we created together? I wouldn't trade a single day with anyone else."
+
+"I love you," he told his angel, his blue, the love of his life. "I told you a hundred years and I will say it one last time. Goodbye, my love."
+
+"No --" Cas knelt before his bed, holding his hands. Tears falling from his face, just like the tears fell from Dean's the first time he saw the color of blue that was Cas.
+
+"I could not see you die," he cried. "I was not even human, but you gave me life. So now, I'm giving this life back."
+
+He took out that beautiful little piece of glass Dean held dearly to his heart, and touched it with a sad, but happy smile. "So you can continue to live now."
+
+He started fading, like a fairy going back to the flower that conjured him. He was going back to be just a  of blue, a color on a glass, the true form that he was. He still looked at Dean with those beautiful, bluest eyes as he faded, ""
 
 <br>
 
 #### draft notes
 
-> For a life time, Dean spent with Cas, building things together, the glass, the metal, the inventions, the art, the creations. They create together, they spend a hundred year together. By 1400 BC, Dean was near the end of his human life. It's already longer than any man at that time, he had no regret except for having to leave Cas alone. Cas was still young, looking exactly the same the day he was created, because neither of them really knew if the form Cas was in, that human form out of the trueform, is it really him and is he really a living being. He was not human, but he had life force.
+> For a life time, Dean spent with Cas, building things together, the glass, the metal, the inventions, the art, the creations. They create together, they spend a hundred year together.
+>
+> By 1400 BC, Dean was near the end of his human life. It's already longer than any man at that time, he had no regret except for having to leave Cas alone. Cas was still young, looking exactly the same the day he was created, because neither of them really knew if the form Cas was in, that human form out of the trueform, is it really him and is he really a living being. He was not human, but he had life force.
 >
 > On Dean's deathbed, he was telling his last words to Cas, his love and his happiness and luck in that hundred years, Cas couldn't see him die, so Cas shared his life force with Dean, and faded back to a strip of blue on the colored glass they built together. He promised he'd be back, as long as Dean remembered him. He gave him life once, he could create him again.
 
 **Revelation:** Window is love letter
 
-### Chap 3
+### Act 3
 
 > (chapter beginning: POV man name, continue from last chap end)
+>
+> 1200BC Egypt Red Sea (bluest water), Cas reemerges as life form, reunite and live together for 100y, fades again bc use up the life force too fast (being human exhaust the energy really fast); Dean: "I'll wait for you again", Cas: "I'll wait for you again" (both waiting/rely on the other)
 >
 > fast-forward, slow-burn:
 >
@@ -329,7 +381,7 @@ question-answer form, asking about each line for story and Dean tells them
 >
 > 1800 AD Gothic Revival, the bluest story, Wuthering Heights, England
 
-### Chap 4
+### Act 4
 
 > current time, 2000AD (bluest winter -- loneliness, alienness, homesick, cold; combine with chap 1's passing line about out of place)
 >
