@@ -21,6 +21,9 @@ Castiel shifts his gaze away. "1991 BC, Egypt," he answers matter-of-factly, as 
 
 Dean stares at him. "You're joking."
 
+<br><br>
+![](https://64.media.tumblr.com/a9aaeef1776bd5532abac52b6536267f/09322aec2ff6e496-6f/s1280x1920/19d86b5c7160a7932e8f5793163d631b4c1546ac.jpg)
+
 <br>
 
 <hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
