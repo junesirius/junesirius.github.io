@@ -311,9 +311,9 @@ The weathered man turns to him slightly, a small smile curling on the tip of his
 
 <br>
 
-For a life time, they spent together, Dean with his Angel of Blue, his muse of creation, in the age of dawn. They built together, they created together -- glass, metal, art, inventions, creations.
+For a life time, they spent together, Dean with his Angel of Blue, his muse of creation, in the age of dawn. They built together, they created together -- glass, metal, art, inventions, creations. They lived together.
 
-For a hundred years, they walked the Earth together, traveling from one land to another. For a hundred years, Dean wondered if it was a dream. He kept the very first colored glass with him for all his life, closest to his heart. His fingers caressed that astonishingly beautiful shade of blue whenever he thought of him, and Cas would hold his hands and tell him, "That was me. I'm here now."
+For a hundred years, they walked the Earth together, traveling from one land to another. For a hundred years, Dean wondered if it was a dream. He kept the very first colored glass with him for all his life, closest to his heart. His fingers caressed that astonishingly beautiful shade of blue whenever he thought of him, and Cas would hold his hands and tell him, "That was me. I am right here now."
 
 A hundred years was long, for a Mesopotamian, for a human -- it was already so much longer than any other man he knew, but it still didn't feel long enough when he lied on the bed, aged and withered. Cas sat by his bed, holding his hands, looking just as young and beautiful as the first day he appeared. Exactly same shining blue eyes, same hair, same face. The color of blue did not age, nor did him.
 
@@ -339,7 +339,7 @@ With that, he faded entirely.
 
 The colored glass had an extra strip of blue with more bright and shimmering life in it.
 
-Dean thought, he could still see Cas's smile in it, and his eyes. He kissed the glass and promised him, "I will remember you."
+Dean thought, he could still see Cas's smile in it, and his eyes. He kissed the blue and promised him, "I will remember you."
 
 <br>
 
@@ -369,7 +369,75 @@ Dean thought, he could still see Cas's smile in it, and his eyes. He kissed the 
 >
 > the process of ask-answer and retell the stories is actually Dean re-reading the notes and memory recalling process, but show as love process sharing
 
+"Did he remember?" the young student asks. "Did Cas come back, like he promised?"
 
+The weathered man walks to the big colored window before them, touching long strips of blue patterns inlayed in the Mosaic. "Not at first," he says, looking through the color. "For two hundred years, Dean lived alone, never aged a day, never forgot his Angel of Blue. But he was afraid he might, and he knew, if he did, Cas would never come to life again. The thought of never seeing him again troubled him tremendously."
+
+"But the blue on the glass, he would always remember when he looked at that blue, didn't he?" the young student asks him softly, following his gaze.
+
+The weathered man turns to him slightly. "Yes," he smiles a little, thinking, "the blue on the colored glass, it's so much more than color, do you know that?"
+
+The smile makes his eyes younger -- the weathered man is not old, he has a young man's face, but it's the eyes that gives away the time he must have seen. And now, they are brightening up, as he watches the colored glass closely.
+
+His finger traces the pattern. "It's a letter, a notebook. It has everything that needs to be remembered, if you know how to read it."
+
+He glances at the young student. "You have lovely blue eyes, too, just like him."
+
+The young student smiles warmly, nodding at the window, "What does it say?"
+
+<br>
+
+Dean continued to live as a young man. He painted down all different kinds of blue that he saw on his way, on all different materials. He added different stones to the furnace, and created new things from them.
+
+He came back to Mesopotamia, but he didn't stay for long. It was a new land to him, just like all the other lands, with no one he knew. He travelled to Babylon, to Egypt, as far as India, even China.
+
+He travelled across the world, always carrying that small piece of colored glass with him. He looked and kissed the two strips of blue on it. People thought he was weird, mad even, because he looked at it as if it were the love of his life. They laughed at him. Dean never argued.
+
+And he never aged. He thought it must be because the life was shared by Cas, and Cas did not age.
+
+He never had any companion for his travelling -- his wandering and drifting, really, for he didn't have a home to come back to -- he didn't think he needed one. He was just waiting for someone to come back.
+
+In 1200 BC, at Red Sea, Egypt, Dean saw the bluest water ever, and painted it down. "I wish you can see this, Cas," he spoke to the water, dangling his feet on the shore. "It's so beautiful, it reminds me of you. But I know, if you *are* here, it would look as pale as cloud in a rainy sky."
+
+The colored glass in his chest warmed up, and a voice sounded up behind him, "I'm here now."
+
+Cas reemerged, just as he rememberd. The blue eyes, the black hair, the curl on his lips -- nothing changed from the last time he saw him.
+
+Dean grabbed him and held him for a long time, buried his face on his shoulder. "I missed you," he told him. "I waited for so long."
+
+Cas held him tight, leaning his cheek on his. "I missed you, too, Dean," he said, quietly sobbing.
+
+For another hundred years, they lived together, travelling the world together. The clock of life started ticking for Dean again, because with Cas, he started really living the life.
+
+The world was different from the last time they were here, they went to the places they had seen, and places they hadn't. It didn't matter where they went, Dean thought, happy, even if everything was the same, even if everyday was the day, with Cas, he was content.
+
+By the end of another hundred years, Dean was too aged to move another step. They sat by the riverbank of Red Sea, Dean's eyes were closing.
+
+"It's so good to see you again, Cas," Dean told his Angel of Blue, the love of his life. "But now, I have to go now. I already had twice the life than anyone, I was a lucky man. My only regret is I can't stay longer for you, for I am only a mortal, yet your true form is so much more eternal."
+
+Cas leaned on him, resting his lips on Dean's cheeks, tears falling. "I will not see you die, Dean. My true form is nothing but a strip of color, it's you who gave me life and let me know the world and life has so much to see. I have to give it back to you now."
+
+Dean sobbed, for he knew what would come. He hugged Cas like his life depended on it. "I will wait for you again," he told him.
+
+Cas wiped his tears away with his fingertips. "It's not a farewell," he comforted him softly, with a teary smile of his own, and said the same. "I will wait for you again."
+
+As Cas faded away, Dean turned from an old man to young, and the colored glass he carried, added a new strip of bright blue. As blue as the Red Sea water before him, reminding him of everything the past hundred years they have spent together.
+
+That was how their story unfolding, the wheel of history turning, and they walked among it together.
+
+For three lives, they travelled the Earth before the Common Era. The lands were wild and free, and they saw the rising of the bluest architecture made of glazed bricks, the Ishtar Gate of Babylon.
+
+They met in Roman again, in 1 AD. Venice had the bluest sky, and they witnessed the lively cities of Roman Empire.
+
+For three times in the dark age of Medieval time, they reunited when they witnessed the crusades from people with the bluest beliefs.
+
+They listened to the bluest music at the Cathedral of Notre-Dame in France, in the Gothic time of 1200s.
+
+By the time of Renaissance, they went to hear the bluest poetry in Italy, when Petrarch was creating *Sonnets to Laura*.
+
+They read the bluest story together in 1800s from the talented and lonely girl from Brontë family, the story of *Wuthering Heights*.
+
+And that was the last time Dean had seen him.
 
 <br>
 
@@ -383,7 +451,7 @@ Dean thought, he could still see Cas's smile in it, and his eyes. He kissed the 
 >
 > 1 AD, they met in Roman, Venice had the bluest sky, they witnessed the Roman Empire
 >
-> 600 AD and 900 AD, they reunited at the Medieval time when people had the bluest beliefs, they witnessed the crusades
+> 300AD, 600 AD and 900 AD, they reunited at the Medieval time when people had the bluest beliefs, they witnessed the crusades
 >
 > 1200 AD Gothic time, the bluest music at the Cathedral of Notre-Dame, France
 >
