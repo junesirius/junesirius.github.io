@@ -17,6 +17,8 @@ tag: modern fantasy, history fantasy, light amnesia, non-human Castiel, shared l
 
 warning: No archive warnings apply
 
+rating: general
+
 ## Brainstorming
 
 ### Raw
@@ -150,7 +152,7 @@ two-part story-telling, start modern, date back to ancient setting, evolve from 
 
 story start as urban legend of the campus, 3rd person view, a young man (which turns out to be Cas's newest incarnation, alias "Cael", lead to the twist revelation of who's forgetting)
 
-story-telling tone, Dean: "There are so many stories, half of them are true, the other half, just haven't happened yet." (quote DW)
+~~story-telling tone, Dean: "There are so many stories, half of them are true, the other half, just haven't happened yet." (quote DW, used)~~
 
 question-answer form, asking about each line for story and Dean tells them
 
@@ -174,6 +176,8 @@ fastforward:
 - 2100AD: now (bluest winter)
 
 ### Outline compiled
+
+(Dean POV, story-telling tone)
 
 The story starts from an urban legend of the campus, rumor says the colored glass window in the south campus facing the lake is thousands of years old, and there is a man guarding it since the age before dawn. Then show there is a weathered man sitting on the bench before the glass, not aged, but his eyes worn and lonely. Out of place and doesn't look like a part of the school, but almost looks like a part of the building. A young student sits down next to him, asking him about what he's thinking, why he's here. The weathered man with green eyes starts telling a story:
 
@@ -233,6 +237,16 @@ The weathered man says, "Let me tell you a story. A story from four thousand yea
 >
 > (main revelation: Cas *is* blue)
 
+The man has been sitting there for ages, looking at the colored window facing south, not moving an inch, as if he's been there since the dawn of time. The afternoon sun shines on the window, casting a shade of blue on the marble floor. His eyes follow the color, deep, weathered, and indescribably sad.
+
+A kind, young student sits next to him, asking if he's okay.
+
+The weathered man says, "Let me tell you a story. A story from four thousand years ago, about a man named Dean, and a color of blue."
+
+
+
+<br>
+
 ###### [TBA]
 
 #### draft notes
@@ -247,7 +261,7 @@ two-part story-telling, start modern, date back to ancient setting, evolve from 
 
 story start as urban legend of the campus, 3rd person view (which later turns out to be Cas's newest incarnation, alias "Cael", lead to the twist revelation of who's forgetting)
 
-story-telling tone, Dean: "There are so many stories, half of them are true, the other half, just haven't happened yet."
+story-telling tone, ~~Dean: "There are so many stories, half of them are true, the other half, just haven't happened yet."~~
 
 question-answer form, asking about each line for story and Dean tells them
 
@@ -266,6 +280,10 @@ question-answer form, asking about each line for story and Dean tells them
 > (chapter end: POV man's blue eyes, Dean not recognize him)
 >
 > (chapter middle, revelation: window is love letter & notes & thoughts → hinting amnesia, not specify who)
+
+
+
+<br>
 
 #### draft notes
 
@@ -288,6 +306,10 @@ question-answer form, asking about each line for story and Dean tells them
 > - 1800AD: Gothic Revival (1882-wip Sagrada Familia, Spain) (bluest story -- Wuthering Heights)
 >
 > the process of ask-answer and retell the stories is actually Dean re-reading the notes and memory recalling process, but show as love process sharing
+
+
+
+<br>
 
 #### draft notes
 
@@ -316,6 +338,10 @@ question-answer form, asking about each line for story and Dean tells them
 > who is the POV man: Cas all along
 >
 > who is the one forgetting: Dean
+
+
+
+<br>
 
 #### draft notes
 
