@@ -329,7 +329,17 @@ His breath faded thin, but he struggled with the last thread of that breath to t
 
 He took out that beautiful little piece of glass Dean held dearly to his heart, and touched it with a sad, but happy smile. "So you can continue to live now."
 
-He started fading, like a fairy going back to the flower that conjured him. He was going back to be just a  of blue, a color on a glass, the true form that he was. He still looked at Dean with those beautiful, bluest eyes as he faded, ""
+He started fading, like a fairy going back to the flower that conjured him. He was going back to be just a strip of blue, a color on a glass, the true form that he was. He still looked at Dean with those beautiful, bluest eyes as he faded, "Goodbye, Dean."
+
+The age left Dean, reversed like clock turning backwards, as Cas fading. He sat up from the deathbed, holding Cas's hands with more tears. "No, Cas --" he cried, "Why are you doing this? Will I ever see you again?"
+
+With the last strength as human, Cas smiled at him. "You will, Dean. You gave me life once, you could create me again. Remember me, and I will be back."
+
+With that, he faded entirely.
+
+The colored glass had an extra strip of blue with more bright and shimmering life in it.
+
+Dean thought, he could still see Cas's smile in it, and his eyes. He kissed the glass and promised him, "I will remember you."
 
 <br>
 
