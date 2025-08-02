@@ -2529,6 +2529,8 @@ Michael turns to Dean slowly, looking at him straight. "Now, where can I get a d
 > INT. bunker - day (Dean, Sam, Cas, Michael)
 >
 > Michael meets Lucifer, Winchester counseling time for Michael/Lucifer, help them make peace
+>
+> Michael/Lucifer align to destroy world and let angels just die so they can control the world
 
 They sit across the table, staring at an archangel who's gulping at a piece of pizza.
 
@@ -2731,6 +2733,62 @@ Michael/Lucifer counseling session: Do you remember the time when...
 Michael/Lucifer deciding not saving angels: There is no darkness without light, so if they're all gone, so is the disease. Problem solved.
 
 ### Chap. 8: On the Crossroad
+
+> to stop Michael/Lucifer and save Cas/Heaven, Sam/Dean says yes, things get dirty, take back control, sacrifice/kill each other, explodes and kills Michael/Lucifer (in Heaven), purifies angels in Heaven, Heaven is saved, fallen souls/spirits are retrieved by angels restart working
+>
+> Cas think they're dead (which is true), go to Heaven/Vail to find them, try to save them again, find in a setting like HP King's Cross (rewrite as Dean's memory), let them decide if they want back
+>
+> Dean's decision point: choose Heaven/John/Mary and have his peace, or Earth/Cas and continue living
+>
+> Dean choose Cas and both Sam/Dean back to Earth (Sam is a 6-month swaddle, Dean makes the decision)
+>
+> (The Brightest light that save Heaven and world is Dean+Sam's love to the world/Cas and their willingness of self-sacrifice)
+
+#### Act 1
+
+> INT. bunker (Dean, Cas, Sam, Lucifer, Michael)
+>
+> to stop Michael/Lucifer and save Cas/Heaven, Sam/Dean says yes
+
+Lights explode in the bunker. Lightening flickers, thunder tumbling. The shadow of archangel wings cast onto them, high and huge, like the black curtain of the night sky itself. Lucifer stretches his shoulder, turning his arms around comfortably, twisting them around as if it's just some kind of morning exercise warm-up. All the while the air is filled with buzzing electricity.
+
+The air is unsettling, hairs standing -- it's probably that acute sense of death before the actual moment that people sometimes talked about, the premonition of death. Dean thinks. There is no way out this time.
+
+He feels that subtle cover of warmth and safety again, invisible, melted into the air, but it's there. He turns to look at Cas.
+
+Castiel has his eyes shut, frowning so deeply his whole face is crumbled. His shoulders are hunched. The light from him is so dim compared to Lucifer's but it's still there. And Dean can see it. He can see it so vividly now and it horrifies him. He sees dark circles curling inside that light, but Cas is still trying his best to stretch his wings out, covering on him and Sam. His wings, oh God, they are so battered, broken, barely only the wing bone keeping the shape. The black shadows of feathers are continuously dropping and falling just as he watches. He can't see them in the reality, but he imagines them falling on to him right now.
+
+Even in the combined wraith of Michael and Lucifer, even when Cas *knew* the archangels can kill him, kill them as simple as snapping a finger, he would do everything he can to save Dean, to protect Dean, to have his wings cover Dean even when they're burned and broken.
+
+At the moment of death, Dean finds his mind drift away from the crumbling Heaven, from the endangered angels, the falling souls, the archangels that are about to destroy the world or just let the world destroy itself. He finds his mind wander out, and circle around Cas. He should have helped Cas fix wings. He should have asked if Cas miss fly, miss home. He should have talked to Cas about so many other things but they never did. All they ever do is just being there, always being there wherever they go. And he remembers -- it feels too long, and he remembers when he set out to the suicide mission of assassinating Amara, that eve of his death, Cas told him, "I could go with you." He meant to come back and ask him why he said that. When they embraced the reunion and celebrated the victory. He really was thinking that, when they were drinking late that night. He remembers thinking to himself, he'd ask once he finished that glass of drink in his hand, and then he always reach for a next glass thinking he'd do that after that one.
+
+There are things should have been done. There are words should have been said.
+
+Dean looks at Cas's broken wings, in the menace of Lucifer's wraith, thinking, they're broken, but they're still so beautiful, so bright and beautiful. They're Cas's.
+
+He pushes Cas aside. The thin warm sense of cover slide away.
+
+Dean stands straight, talking to Michael directly. Not wincing at the light, not blinking.
+
+He says: "Yes."
+
+<br>
+
+"What?" Lucifer pauses his hand rising above his head, blinking his bloody red eyes in confusion.
+
+"NO, DEAN!" Cas yells, desperate. "Don't do this!"
+
+Sam gasps loudly, the sound of air pulsing into his lung vibrating through him.
+
+And Michael, finally stirred from his stoic stance, raising a stopping hand at Lucifer, then turning to Dean. He stares into his soul, and asks, "What did you say?"
+
+Dean meets his eyes straight on. "I said Yes, you son of a bitch."
+
+<br>
+
+#### Act 2
+
+
 
 > to stop Michael/Lucifer and save Cas/Heaven, Sam/Dean says yes, things get dirty, take back control, sacrifice/kill each other, explodes and kills Michael/Lucifer (in Heaven), purifies angels in Heaven, Heaven is saved, fallen souls/spirits are retrieved by angels restart working
 >
