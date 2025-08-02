@@ -4,7 +4,7 @@ title: 【Destiel】Angel Black Death
 date: 2024-11-01 01:51
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Sam Winchester", "Michael", "Lucifer", "Vince Vincente", "Rowena MacLeod", "Fergus MacLeod/Crowley", "Adam Milligan", "Bobby Singer", "Charlie Bradbury", "Jimmy Novak", "Claire Novak"]
-tags: ["Supernatural", "destiel", "michifer", "温家兄弟", "英文"]
+tags: ["Supernatural", "destiel", "michifer", "midam", "温家兄弟", "英文"]
 pov: 第三人称
 origin: 2025 DCBB
 long_novels: 【Destiel】Angel Black Death
@@ -2310,7 +2310,7 @@ His hands fidget on his flannel. "I'll see if we can grab some bastard soul for 
 
 A phone ring saves them the more argue that might would have come. Sam's phone vibrates on the desk. He picks up.
 
-"Sam --" Jody's voice comes out of the speaker, muffled, troubled. "Do you mind come over? Bobby is here, and a few other folks you and your brother might want to meet."
+"Sam --" Jody's voice comes out of the speaker, muffled, troubled. "Do you mind come over? Bobby is here, and a few other folks you guys might want to meet."
 
 <br>
 
@@ -2390,9 +2390,19 @@ Dean's heart sinks: you are, aren't you? Why don't you tell me?!
 >
 > (with or without Bobby? Bobby's in Heaven's lockup since 1017, but maybe the prison is cracked too, all troops sick and dying/dead)
 
+### Chap 5: The Winchesters
 
+> Heaven gets even more loose, John/Mary get down, Winchesters happy reunion dinner, like in show; but include Cas as part of family, formally, in front of parents
+>
+> (if added back to main plot, John/Mary would have stayed with them when Dean/Sam say yes to Michael/Lucifer, would it make them easier to break free and regain control? maybe all those other important people in their lives are the key for them to regain control, so those indeed need to be added back)
+>
+> John's interaction with Adam (could be awkward)
 
-### Chap. 5: You're Up, Dr. Phil
+### Chap 6: Evil Never Rests
+
+> Charlie comes down and reunite, demons and ghosts of Frankenstein family know Heaven is dying, go out for a Carnival, Crowley headache, calls for TFW help
+
+### Chap. 7: You're Up, Dr. Phil
 
 > Cas's getting worse, the whole situation getting way worse, Heaven can't wait any longer, souls go wild in vail or fall from Heaven (quick fast-forward mention they run into some familiar family/friends but don't go into too much detail, passby lines about people running into their dead relatives but not as evil/vengeful spirits; add back scene with John/Mary)
 >
@@ -2400,7 +2410,179 @@ Dean's heart sinks: you are, aren't you? Why don't you tell me?!
 >
 > Michael/Lucifer align to destroy world and let angels just die so they can control the world
 
+#### Act 1
+
+> INT. bunker (Dean, Cas, Sam, Lucifer)
+>
+> Dean/Sam know Cas is infected, go to Rowena to open Cage to get Michael out
+
+"Suit yourself. Good luck watching *him* die then, while you sort your shit out," Lucifer says joyfully, pointing a finger at Cas.
+
+Dean narrows his eyes. "What did you do?"
+
+"Cas, you ready to tell him or should I?" Lucifer raises his voice, pointedly looking at Castiel.
+
+Dean turns to him, worried and annoyed. "Tell me what? Cas, what is it?"
+
+Lucifer sighs dramatically. "A little tip, check his hands. You might want to wash your hands."
+
+Cas quickly tries to put his hands into his pocket, only to be grabbed by Dean at the wrist.
+
+"Dean, it's nothing." Cas starts saying.
+
+Dean ignores him, turning the angels palms over. There, on all the fingertips, the skin has a darker color, like a black muddy coat. Almost like when one put their hands in a muddy pond and comes out dirty.
+
+Sam gasps quietly beside them.
+
+Dean stares at him, "Don't tell me you're infected."
+
+Cas takes his hand back, looking down, not answering.
+
+Dean's heart sinks. "You are, aren't you? You bastard, why don't you tell me?!"
+
+"We have enough to worry about," Cas says quietly, "I don't want to burden you."
+
+"Dammit Cas! How many times do I have to tell you you're not burden?" Dean yells at him. Cas flinches.
+
+"I thought you said you were warded last time, you were fine because --" He shoots Lucifer a glance, "you were warded or something."
+
+"I think it's the time I went to Heaven when I heard their agony." Cas says weakly.
+
+"The trip that almost killed you? That now it's actually killing you?" Dean wipes his face. "I told you don't go! I TOLD YOU! Just let the flying monkeys do whatever they do, leave them be!"
+
+Cas glares at him at that. "I can't!" He snaps back. "Do angels just deserve to die? Why would I just be an exception then?!"
+
+Dean swallows.
+
+"Guys," Sam urges, putting a hand on both of them, pulling them apart slightly. "What are we going to do next? Cas, do you know how long do you have?"
+
+"As much as any other angels." Cas answers glumly.
+
+"Which means not much time, so, chop chop." Lucifer says gloatfully.
+
+"We *have* to get Michael now," Sam says, defeated.
+
+Dean's still glaring at Cas, who avoids his eyes.
+
+Dean takes a step back, sighing deeply. "I'll get the car ready. You give Rowena a head up we're on our way. And give Crowley a call too, we're going to Hell, again."
+
 <br>
+
+> INT. Cage - dark (Dean, Sam, Cas, Rowena, Crowley, Michael)
+
+It feels like a Deja Vu again, going to Hell, going to the Cage in the nowhere. Descending the stairs into nothingness, with a demon and a witch on their side.
+
+Rowena is surprisingly cooperative. And Dean points it out.
+
+"What's the problem with you guys?" the witch rolls her eyes. "We don't do what you want, you're upset; we do what you want, you're upset. Make your mind, will ya?"
+
+Dean rolls his eyes too. "Jeez, just saying I'm surprised, that's all."
+
+"You are just sadistic, I know. Poor Dean." Rowena gives him an exaggerated smile. "Can't believe anything that's too easy to get -- a cake on a plate with a cherry on top, for example, or an angel." She glances at Cas pointedly. Dean averts his eyes, ignoring the twist in his guts.
+
+The Cage hangs in the middle of nothingness, locked by iron chains wiring it around all its corners. The small confined space they used to temporarily talk to Lucifer -- which turned out to be not so temporarily -- still stand on the ground.
+
+Rowena sets up her cauldron and the ingredients at the edge of where light still reaches, starts murmuring the spells. The runes and sigils carved on the Cage brightens up. A low rumbling sound like a distance thunder is rolling closer. More and more intense as the spell sinks in.
+
+"Shouldn't we prepare him a vessel like the one Crowley did for Lucifer?" Dean suddenly remembers, turning slightly to whisper at Cas's ears. But the demon overhears it.
+
+"Sorry, one and only. Not exactly a vessel retail factory around here, in case you didn't notice." Crowley says drily.
+
+Dean shrugs.
+
+"He still had Adam." Cas says, then grimaces. "I'm sorry not saving your half-brother when I saved Sam."
+
+"Dude, don't blame everything on you, that's like -- six years ago now?" Dean nudges him slightly. "My fault too, if you want to play the finger-pointing game. Death gave me a choice, Sam or Adam, I saved Sam."
+
+Cas gives him a sad look. Dean returns with a sad smile of his own.
+
+Rowena's chanting continues, then halts abruptly. Their attention turns back to the ritual.
+
+The witch slices her palms and claps them together, yelling the last pose: "Torzul d, zamran!"
+
+The symbols on the Cage all lightens up at the same time, glowing together, combining into one, as bright as the Sun. The distant rumbling sound now becomes the thunder and lightening right on top of their head.
+
+"He'll kill us!" Dean suddenly realizes, yelling, covering his eyes. He feels Cas hurries closer to him, then a shadow covers over his head. But he can't open his eyes to see.
+
+"Vaporize, not kill!" Rowena yells back.
+
+"What's the difference?!" Dean is pissed. They're going to die from this stupid plan, and he's going to spend his last breath bickering with a three-hundred-year old witch.
+
+Then the blinding light recedes, a figure with the shadow of six wings descending from the air.
+
+Dean chances a glance. The figure wears Adam's body. But he doesn't want to think if that kid is still in there somewhere or butchered even worse than Sam's soul worse.
+
+"Michael," Cas is the first to speak. He straightens up, and Dean finds the shadow around him disappear, so does a soothing sense of security he felt just a moment ago. He blinks.
+
+"You wouldn't have been able to protect them, even with your wings, if I wanted to destroy every one of you," Michael says solemnly.
+
+"That's comforting," Dean comments. *Wings?* He mouths to Cas, who gives him a tiny little nod for confirmation like it's just the most normal thing.
+
+Michael turns to Dean slowly, looking at him straight. "Now, where can I get a decent burger or pizza? Adam is starving."
+
+<br>
+
+#### Act 2
+
+> INT. bunker - day (Dean, Sam, Cas, Michael)
+>
+> Michael meets Lucifer, Winchester counseling time for Michael/Lucifer, help them make peace
+
+They sit across the table, staring at an archangel who's gulping at a piece of pizza.
+
+A piece of pizza that comes from frozen pizza.
+
+Dean watches him, not sure he should frown or amuse, so his face is twitches between the two. Sam has both his eyebrows raised high. Cas stares at him with narrowed eyes.
+
+"... Adam?" Dean chances.
+
+The kid looks up, with a bright look on his face, looking... happy. "This is so good," Adam answers. His voice is distinguishably higher than Michael's.
+
+"Michael lets you take over?" Sam asks the question in all their minds.
+
+"We sort of have an agreement," Adam says casually, in the middle of biting and chewing. "There isn't much to do in the Cage, you know. Just the two of us."
+
+"So I heard," Dean blinks.
+
+"And Michael said you were the reason we were stuck down there for so long." Adam says. "It's not seven years, you know."
+
+"It's not?" Sam prompts.
+
+"Shit," Dean blurts. He's been there forty years, in Hell, and came back to find it's only four months on Earth. Time flows differently.
+
+"It's like a thousand years." Adam nods, taking another huge bite on the frozen pizza, swallowing it almost without chewing. "I'm starving."
+
+Dean shifts in his chair uncomfortably. There is nothing to say to that. A thousand years, and now they want Michael's help. Dude is merciful enough not to blow them up on the spot.
+
+"I'm sorry," Dean hears himself saying.
+
+"We discussed this, it's not your fault." Cas says quickly, "It's mine."
+
+"And mine," Sam cuts in, giving them both a look. "I'm the one dragging you in, that's an accident."
+
+"That's right, Sam," Michael puts down the pizza Adam is busy eating, they can tell the change just from the pose and voice he's using. Not like either of them are trying to pretend to be the other. "That is your fault."
+
+Sam swallows hard, almost like immediately shrinking small in his chair. "I'm sorry. But I have to."
+
+"Then you must understand there is something I have to do as well." Michael announces, standing up.
+
+"And what's that?" Dean hurries up as well, watching Michael's every move.
+
+"The closure," he says definitively, moving ou
+
+
+
+> Michael meets Lucifer, Winchester counseling time for Michael/Lucifer, help them make peace
+>
+> Michael/Lucifer align to destroy world and let angels just die so they can control the world
+
+<br>
+
+###### [TBC]
+
+**Notes for the chapter:**
+
+The spell Rowena used to open Cage: "Torzul d, zamran!" was referenced from the Enochian Lucifer used to rise Death. The Enochian can be roughly translated as: "Rise, show!"
 
 #### draft notes
 
@@ -2428,7 +2610,7 @@ Michael/Lucifer counseling session: Do you remember the time when...
 
 Michael/Lucifer deciding not saving angels: There is no darkness without light, so if they're all gone, so is the disease. Problem solved.
 
-### Chap. 6: On the Crossroad
+### Chap. 8: On the Crossroad
 
 > to stop Michael/Lucifer and save Cas/Heaven, Sam/Dean says yes, things get dirty, take back control, sacrifice/kill each other, explodes and kills Michael/Lucifer (in Heaven), purifies angels in Heaven, Heaven is saved, fallen souls/spirits are retrieved by angels restart working
 >
@@ -2502,7 +2684,7 @@ Dean pauses and nods briefly but didn't look back. He's afraid he might not have
 
 <br>
 
-### Chap. 7: The Brightest Light
+### Chap. 9: The Brightest Light
 
 > Cas uses up his power to get Sam/Dean back, is still dying because he wasn't in Heaven the purifying explosion happened; one cured angel/Dumah comes to bunker to explain+offer Heaven in their command (because Sam/Dean prove themselves more bright than archangels, they're practically new archangel/god in their eyes), Dean's soul is the brightest light, Dean can save Cas but only if he let himself be honest with his feelings, be open for the first time, Dean uses his soul power to touch Cas and purify/save Cas, soul-grace dance, don't need to say love but so much more than love, there is no word for them even "love" isn't enough, Cas is saved, all HE
 >
@@ -2522,25 +2704,13 @@ Dean: You saved me so many times, it's my turn now.
 
 ###### [END]
 
-### Timestamp 2: The Novaks
+### Timestamp 1: The Novaks
 
 > Jimmy/Amelia get down, reunite with Claire, Jimmy/Cas tension; Dean helps handle Cas/Claire relationship
 >
 > (gradually increase intensity between Dean/Cas, more intimate and close as surrounding people become more intimate: friends (Ellen/Jo/Bobby) to daughter (Claire) to parents (John/Mary), Dean introduce Cas to every aspect of his life, vice versa with Claire)
 
-### Timestamp 3: The Winchesters
-
-> Heaven gets even more loose, John/Mary get down, Winchesters happy reunion dinner, like in show; but include Cas as part of family, formally, in front of parents
->
-> (if added back to main plot, John/Mary would have stayed with them when Dean/Sam say yes to Michael/Lucifer, would it make them easier to break free and regain control? maybe all those other important people in their lives are the key for them to regain control, so those indeed need to be added back)
->
-> John's interaction with Adam (could be awkward)
-
-### Timestamp 4: Evil Never Rests
-
-> Charlie comes down and reunite, demons and ghosts of Frankenstein family know Heaven is dying, go out for a Carnival, Crowley headache, calls for TFW help
-
-### Timestamp 5: Jellyfish
+### Timestamp 2: Jellyfish
 
 > normal day, aquarium, maybe a case? a date?
 >
