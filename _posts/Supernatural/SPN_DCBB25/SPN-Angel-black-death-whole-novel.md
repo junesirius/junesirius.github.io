@@ -117,6 +117,8 @@ Cas lies on the bunker bed, bloody and dying. Dark spots and sick symptoms are s
 
 ~~Lucifer: "devilishly handsome face"~~
 
+examine all "'cause", change some of them to "of course" or "because"
+
 ## Main
 
 ### Chap. 1 Here We Go, Again
@@ -2298,11 +2300,11 @@ But Cas says, low and urgent, "Is he? If Lucifer is only half his light, and wit
 
 "No, we are not getting Michael out of Cage. Out of question." Dean tells them firmly. "Am I the only one didn't forget the last time those two are in the same room? That didn't work so well!"
 
-"You're afraid," Lucifer laughs suddenly, realizing. "You are afraid Michael would jump you the moment he's out. Had to say, learn from your brother, Dean. Sam doesn't have any issue walking around me."
+"You're afraid," Lucifer laughs suddenly with realization. "You are afraid Michael would jump you the moment he's out. Had to say, learn from your brother, Dean. Sam doesn't have any issue walking around me."
 
-"Shut up," Dean glares at him outrageously, then turns to Sam. "Tell him to shut the fuck up! Okay, enough talking! We're NOT getting Michael out of Cage. End of discussion!"
+"Shut up," Dean glares at him outrageously, then turns to Sam. "Tell him to shut the fuck up! Okay, enough talking! We're NOT getting Michael out of Cage. Come on, it's like putting two nuclear together and hope they don't explode! What's the odds? End of discussion!"
 
-His hands fidget on his flannel. "I'll see if we can grab some bastard soul for him to chew on, to start with."
+His hands fidget on his flannel. "I'll see if we can grab some sorry-ass demonic soul for him to chew on, to start with."
 
 "Dean, we may not have enough time for him to recover even if we did -- " Cas starts.
 
@@ -2568,17 +2570,135 @@ Sam swallows hard, almost like immediately shrinking small in his chair. "I'm so
 
 "And what's that?" Dean hurries up as well, watching Michael's every move.
 
-"The closure," he says definitively, moving ou
+"The closure," he says definitively, moving out of the room. "The thing I should have done a thousand years ago, before the fall. I have to fight Lucifer."
 
+He regards the room with lights in his eyes. "And I can sense him. You have him here. So I will meet him, and I will end everything like it should be."
 
+Dean marches in front of him, blocking his way. Cas follows him one step behind.
 
-> Michael meets Lucifer, Winchester counseling time for Michael/Lucifer, help them make peace
->
-> Michael/Lucifer align to destroy world and let angels just die so they can control the world
+"Come on, you don't *have to* kill Lucifer. He's your brother! You can just... talk to him!" Dean tries.
+
+"Like that went so well every time with you and Sam." Michael doesn't stop, just keep walking. Dean has to walk backward, glancing back not to fall. So Cas lends him a hand. Sam follows them in a ten-step distance.
+
+"Mikey, so good to see you again." Comes Lucifer's long slimy voice from the other end of the war room the minute they enter.
+
+"What's him doing here? I thought he's supposed to be in the Dungeon?!" Dean turns to Sam.
+
+"I can't keep watching him and commanding him what to do twenty-four seven, Dean!" Sam vents out bitterly. "Why don't *you* do the watching next time? Oh right, I forget, I'm the only one who can! So live with it!"
+
+Dean stares at him. "What crawled up your ass and died? Already bad enough to live with Devil, now we have to live with this?"
+
+"Look at them," Lucifer chuckles, gesturing at them, talking to Michael, "bickering like we did when we were young, you remember that?"
+
+Michael's marching steps slow down. He rounds the table in the war room, slowly closing their distance. "I remember," he says in a low serious voice. "That's eons ago. There isn't many stars. Dad was still creating them."
+
+Lucifer laughs, "The stars! Right. Don't you usually love to call every single one of them Andromeda or something?"
+
+Michael widens his eyes slightly, surprised. "You remember?"
+
+"Of course I do." Lucifer says easily, "Dad has to make a huge Andromeda there just to keep you from asking over and over again. And you still think it's too small."
+
+A small grin finds its way onto Michael's lips. "That's even before Raphael was created. The whole world is just you and me. Not even Dad came home that often. And we thought it's gonna be like that for forever."
+
+Lucifer nods eagerly. "Don't you miss that? The simplicity. The quiet world. Stars spinning, sea waving. Just you and me. Quiet and calm. We were free! And Dad just *had* to create more things to ruin it."
+
+Michael stops his steps, thinking.
+
+"See, you're talking, that's good. Right?" Dean speaks in a forced cheerful voice, encouraging. Sam gives him a weird look.
+
+Michael pulls out his golden blade. "That's just your trick, Lucifer, I see through you," he says, marching toward the Devil again. "I'm not nostalgic."
+
+Lucifer hurries around the table, circling it so they are always separated by the tables and chairs in between. "But you do want that, don't you? Come on, Mikey, just you and me, like old times."
+
+"It's Michael." Michael corrects him automatically. His grip on the blade is firm, but his steps hesitant.
+
+"Why do you want to kill him so much anyway?" Dean blurts out, from the threshold of the war room -- the "war" room, damn, that's too fitting.
+
+Michael throws him a glance. "That's my destiny. I have to do it."
+
+"And why's that?" Dean follows quickly. "Because he's evil? Because you hate him? Because Daddy said so? What?"
+
+Michael stills. He never really think about that. "I... don't hate you," he says slowly, looking at Lucifer. "I loved you."
+
+Dean blinks rapidly. Okay, he didn't see this coming.
+
+Lucifer slows his pace, too. He stutters, "That's... that's... I don't know what to say."
+
+"It's all just part of Dad's plan. He told me to kill you, so I'm doing it." Michael lowers the blade in his hand.
+
+"Daddy's blunt instrument," Cas whispers, reciting. "It is the same on Earth as it is on Heaven."
+
+Dean flinches at that, shaking his head in disbelief.
+
+"Anyone is gonna tell them how big of a pain in the ass Chuck is?" Dean talks under his breath.
+
+Michael hears him anyway, looking sharply at his direction. "You have seen God?"
+
+Dean doesn't expect the attention shift back to him so soon, glancing at Cas and Sam quickly. He answers, "Yeah, just a dorky little guy, a writer, apparently. We helped him fight against Amara last year."
+
+"And guess who's invited to the party?" Lucifer says, raising his hand, then pointing at Michael, "And guess who isn't?"
+
+"I didn't even know," Michael says, distressed. "Dad is back but he didn't even bring me out of Cage? Why would he invite you, instead of me? Did He forget about me?" He stops circling the tables, just leaning on one edge, holding his hands on it, supporting his body as if the weight suddenly become too much.
+
+Dean exchanges an anxious look with Cas and Sam, none of them know how to answer to that.
+
+Lucifer watches his brother closely, leaning in cautiously. "Not just forget, I think He didn't care. I'm sorry, Michael. I even mentioned we needed you, last time we locked Auntie away, it took Dad plus all four of you. So I told him, 'We need Michael, he's in the Cage.' And you know what Dad said?"
+
+Michael glances up at him, waiting.
+
+"Nothing! Dear old Dad didn't say anything, we just moved on, talking about battle plans." Lucifer announces.
+
+"He didn't care about me." Michael says, with dawning realization. He pulls a chair and sits down heavily, the blade left forgotten on the table. Looking far too tired and defeated. "I did everything he asked, I was even ready to murder the brother I practically raised. And he didn't even come for me in the Cage."
+
+Lucifer rounds the table, carefully planting his hand on Michael's shoulder. "It sucks, I know. And Dad left this world again, by the way," he says, looking down at Michael. "But you still got me, Brother."
+
+Michael doesn't move, just staring at the air in front of him, murmuring. "Why would he do that?"
+
+"Less about why, more about what, what do you say?" Lucifer tells him, almost gently. "So, you and me, we are good?"
+
+Michael nods wordlessly.
+
+Lucifer winks at the threshold where the Winchesters and Castiel have been staying.
+
+Dean and Sam let out a long relieved breath. Cas's face is still grim.
+
+"Told you, talking works perfectly, right?" Dean grins, starting to walk into the room. Cas whispers a low "Careful" behind him.
+
+Lucifer shoots him a quick glance.
+
+Michael doesn't bother looking up.
+
+"Can we start talking about the plan to save the angels now?" Dean asks.
+
+"No," Michael answers, single-syllably.
+
+"What?" Dean blinks.
+
+"I said, 'No'." Michael repeats, raising his tired head.
+
+"You didn't even hear me out, Buddy." Dean struggles to put on half a smile.
+
+"I don't care," Michael answers, disinterestedly.
+
+"The angels are dying of the Darkness infection! The Angle Black Death thingy, look at Cas! Only you guys can save them. Come on, aren't you supposed to be all brothers and sisters?" Dean urges, starting to get desperate.
+
+"Not really," Michael says, breaking his hope. "I only have one real brother, and he's right here. Not even Raphael and Gabriel are close to us. If all the other angels are dying, I don't really care. There is no one else at the beginning of time besides us, and I think --" he glances at Lucifer quickly, "-- I'd like that two-people time."
+
+"What about Adam?" Sam ventures. "You seem to care for him."
+
+"Adam and I spent a thousand years together. Lucifer and I eons. What do you think?" Michael asks emotionlessly.
+
+Dean huffs annoyedly.
+
+Lucifer pats Michael on the shoulder, gesturing to his body. "Another thing, Bro, those annoying human tied this body to the Cage magic, you think you can do anything about that?"
+
+Michael snaps his fingers.
+
+Sam yells a desperate "No --"
+
+The Devil's eyes shine bright and bloody red with a huge grin.
 
 <br>
-
-###### [TBC]
 
 **Notes for the chapter:**
 
@@ -2621,6 +2741,8 @@ Michael/Lucifer deciding not saving angels: There is no darkness without light, 
 > Dean choose Cas and both Sam/Dean back to Earth (Sam is a 6-month swaddle, Dean makes the decision)
 >
 > (The Brightest light that save Heaven and world is Dean+Sam's love to the world/Cas and their willingness of self-sacrifice)
+
+###### [TBC]
 
 #### draft notes
 
