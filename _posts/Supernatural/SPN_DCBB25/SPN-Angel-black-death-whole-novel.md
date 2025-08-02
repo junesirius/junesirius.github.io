@@ -101,6 +101,8 @@ Dean and Sam say yes to Michael and Lucifer, and take over the control eventuall
 
 #### Visual Elements
 
+Lucifer is in rage, eyes red, shadow of his wings menacing. Cas spreads his broken wings to cover Dean, to protect him. Broken feathers falling down, his grace light is tainted with darkness, but he's still trying desperately to protect Dean.
+
 Cas lies on the bunker bed, bloody and dying. Dark spots and sick symptoms are showing on his vessel and true form, darkness entangled with his grace light. Dean bends over him, caressing his face, looking at him lovingly. The light from his soul dances with Cas's grace, healing him.
 
 ### Posting
@@ -2392,7 +2394,7 @@ Dean's heart sinks: you are, aren't you? Why don't you tell me?!
 >
 > (with or without Bobby? Bobby's in Heaven's lockup since 1017, but maybe the prison is cracked too, all troops sick and dying/dead)
 
-### Chap 5: The Winchesters
+### Chap. 5: The Winchesters
 
 > Heaven gets even more loose, John/Mary get down, Winchesters happy reunion dinner, like in show; but include Cas as part of family, formally, in front of parents
 >
@@ -2400,7 +2402,7 @@ Dean's heart sinks: you are, aren't you? Why don't you tell me?!
 >
 > John's interaction with Adam (could be awkward)
 
-### Chap 6: Evil Never Rests
+### Chap. 6: Evil Never Rests
 
 > Charlie comes down and reunite, demons and ghosts of Frankenstein family know Heaven is dying, go out for a Carnival, Crowley headache, calls for TFW help
 
@@ -2471,6 +2473,8 @@ Dean takes a step back, sighing deeply. "I'll get the car ready. You give Rowena
 <br>
 
 > INT. Cage - dark (Dean, Sam, Cas, Rowena, Crowley, Michael)
+>
+> Rowena gets Michael out
 
 It feels like a Deja Vu again, going to Hell, going to the Cage in the nowhere. Descending the stairs into nothingness, with a demon and a witch on their side.
 
@@ -2787,6 +2791,10 @@ Dean meets his eyes straight on. "I said Yes, you son of a bitch."
 <br>
 
 #### Act 2
+
+> 
+
+
 
 
 
