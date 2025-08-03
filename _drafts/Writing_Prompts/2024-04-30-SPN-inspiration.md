@@ -320,7 +320,7 @@ Cas怎么在昏迷中用尽力气才把自己灵魂拼起来，至少可以醒�
 
 需要找到新的coping mechanism
 
-### 27.【Cas/Gabe】S07E21/23 为什么破碎的Cas这么害怕争执
+### **27.【Cas/Gabe】S07E21/23 为什么破碎的Cas这么害怕争执《Sunday Dinner》**
 
 《Sunday Dinner》
 
@@ -736,11 +736,15 @@ How Bal find out, or Cas confessed to him and made him promise not to tell anyon
 
 I remember Cain and Abel... David and Goliath... Sodom and Gomorrah.
 
+(mentioned a little in prompt 26.1)
+
 ### 69.【destiel】S07E17 Emmanuel hears something
 
 Emmanuel (amnesia Cas) can hear longing/prayer but doesn't know what it is until he meets Dean.
 
 (old reddit prompt about someone who thinks they're just imagining the voice until one day they hear "turn around" and see the other person)
+
+Emmanuel can hear Heaven's talking like S4 Anna and knows about Dean/Sam but doesn't know what he's hearing is angel radio, meet Dean for the first time and realize (≈ S4 Anna/Dean but S7 amnesia Cas)
 
 ### ~~70.【destiel】When the first pie is made【done】~~
 
@@ -760,7 +764,7 @@ Cas doesn't want Dean see his true face because he thinks he's ugly
 
 reel gag Dean: “If she has a Chinese Chair, you call me”
 
-### 73.【destiel】Ice Age AU
+### **73.【destiel】《Dean Winchester is a Squirrel》Ice Age AU**
 
 《Dean Winchester is a squirrel》
 
@@ -871,6 +875,8 @@ Rewrite S10E17-S15E20 from Bobby's perspective, when he's locked away for helpin
 frustrated Dean, comforting Cas
 
 established relationship?
+
+(≈ prompt 321)
 
 ### 89.【all】What if 601-1520 all in Sam's brain only
 
@@ -1164,7 +1170,9 @@ doi come的时候卡脱口而出（以诺语？）说的是各种random words，
 
 为了找答案假装不经意地去水世界（顺便是案子？）看水母，最后刨出答案是这是ancient and beautiful的事物，算是卡给丁的昵称（丁：感动，但是，jellyfish? seriously?）（又一个卡的otherworldly表现，丁likes it, regardless of complaints）
 
-### 122.【destiel】About apocalypse
+### 122.【destiel】Apocalypse will start with and without Dean, so no need for guilt
+
+guilty/self-blaming Dean, comforting Cas
 
 Another time when Dean feels guilty about jump started Apocalypse, Cas finds the perfect rebuttal reasoning: just check the Apocalypse world, the Apocalypse will start with or without Dean, but it will not end without him. So stop the self-blame.
 
@@ -1267,6 +1275,12 @@ tag: angst, HE, S15E18, canon divergent, pos
 ### 133.【destiel】S13E05 Right in time for funeral
 
 Cas刚从Empty复活，Dean为了鬼魂自杀那个案子没能从Billy地方回来，Cas回到bunker时候正好赶上Dean的葬礼
+
+### 133.5【destiel】S15E20 Right in time for funeral
+
+After Empty, Cas comes to Earth right in time for S15E20 Dean's funeral
+
+(≈ prompt 318)
 
 ### 134.【destiel】S13E07 “我也想见你，越快越好”
 
@@ -1526,7 +1540,7 @@ Dean amazed
 
 Sam is just a human and almost finishes the trials. Cas becomes human, thinks he made big mistake and wants to make it up by going through the same three hell's trials again as Sam did to actually shut Hell's gate. Cas goes to look for Hell's hound and kills it alone, goes to hell and free Kevin/Ellen/Jo (?)'s soul to heaven, becomes very sick/weak like Sam was, goes back to bunker because they still has Crowley in the basement and it's his third trial. Cas doesn't care he'll die, only that he needs to make at least one thing right. Cas tries to comfort Dean he's been ok all these previous times and gets resurrected and this time will be the same, no one is better at "not keeping dead" than he was. Dean gets distracted to take care of sick Sam, Cas succeeds at third trial and hell's gate shuts, Cas gets dragged down. Dean has to crush open the gate to drag his ass back, because "we don't leave family behind".
 
-### 164.【destiel】S09E03 Cas&April's kid become new Death (the horseman)《Reapers are dying (but my kid can help)》
+### **164.【destiel】S09E03 Cas&April's kid become new Death (the horseman)《Reapers are dying (but my kid can help)》**
 
 看903总算慢慢搞明白reaper还真是天使的一个分支（之前也怀疑是但是一直没太搞明白这件事），但是平时不在天上所以全体天使堕天时候没被影响到，能被天使刀杀掉或者折磨（或者被女巫干掉），被刀划了以后也是放白光，要在地球上显形也是跟别的正常天使一样需要附身人类而且要人类consent，但是职能汇报的顶头上司是死骑
 
@@ -1547,6 +1561,8 @@ Sam is just a human and almost finishes the trials. Cas becomes human, thinks he
 A story about Dean helps raise Cas's kid (given birth by April the reaper who gets killed by who?) and finds out the kid can fix a lot of problems and becomes the new reaper after Dean iced the previous Death. The kid will have near-Death power, how does the kid officially become Death? Absorb old Death's power? Needs to die? Dean/Cas have to kill him?
 
 That kid might/should have good relationship with Jack, so new God and new Death are in good balance, same age, same family, same parenting. New creator of the new world, don't know who's older, tell others they may reap each other some day but Dean/Cas know that won't happen, they'll keep each other company.
+
+(≈ prompt 180)
 
 ### 165.【destiel】S06E21 "In for a penny, in for a pound"
 
@@ -1686,7 +1702,7 @@ they always try to prevent something bad happening to make a rush decision of so
 
 what if imbalanced universe isn't as bad as they thought it would be
 
-### 180.【destiel】what if Cas is a reaper
+### **180.【destiel】what if Cas is a reaper**
 
 reaper is a kind of angel, what if Cas is a reaper, meets Dean first time when he is reaping him (S01E12 Faith), or S04E01 when angels siege the pit and it's an all hands on deck situation so they ask for volunteers and reapers helped so Cas is in the siege team
 
@@ -1695,6 +1711,8 @@ Cas being reaper would probably freak Dean out more than he being an angel alrea
 Cas rebel to Death to protect Dean when he needs to be reaped, Death more understanding than God (or not, like Billie)
 
 could rewrite S4 to finale
+
+(≈ prompt 164)
 
 ### 181.【CasJimmy?destiel?】2077 AU
 
@@ -1900,7 +1918,7 @@ what if main world Charlie also meet Kara the bakery owner girl
 
 卡变成人类之后因为人类大脑结构承载不了这么巨大的天使记忆容量，所以只能保留住了有限的一部分，记忆力受损，记不住几千万年天使时期的事情。卡在变成人类初期就意识到了，对自己记忆变差这件事接受不太良好，但是想着恢复天使之后应该就能恢复记忆所以保有希望也没有表现出来，但是在S10E18卡拿回grace之后发现失去的记忆没有回归，失去的就是失去了，突然难受了
 
-### **208.【destiel】S14E13 the other timeline**
+### **208.【destiel】S14E13 the other 2003 timeline**
 
 (time travel, getting together, pining, canon divergent)
 
@@ -2180,7 +2198,7 @@ Dean: Looks like it's just you and me now
 
 （互相代餐梗+enemy to something梗，比一般常见的rival to friend/lover更加strong，start with不止是rival而是真的互相想要杀掉对方因为黑卡杀了他爱的卡，to something到底是变成了什么关系非常难定义，不是lover，也很难称得上friend，just someone）
 
-### 231.【destiel】《When Death Meets Empty》Dean=Death, Cas=Empty
+### 231.【destiel】**《When Death Meets Empty》Dean=Death, Cas=Empty**
 
 A new ending, post-death, post-1520
 
@@ -3131,7 +3149,7 @@ to save Dean, Cas possess him to cure him from inside
 
 ### 293.【Anna/Charlie】Charlie's guardian angel（F/F）
 
-(inspired by actress's ins interaction)
+(inspired by actress's Instagram interaction)
 
 canon divergent, S04-10 rewrite (Charlie/Anna POV)
 
@@ -3429,7 +3447,7 @@ when Lucifer is coming out of the Cage and Sam/Dean got saved by Chuck, Ruby cra
 
 They go to the Empty together and sleep there together. Ruby gets woke up by Cas in S15, that's when she realized they were both in Empty and sleeping, Lilith right by her because they arrive here basically the same time. Ruby wake Lilith up, the two reunite in Empty, hugging. (double MCD but sorta HE?)
 
-### 317.【Meg/Ruby/Lilith】Meg/Lilith teach Ruby how to make out with Sam（F/F）（R级）
+### 317.【Meg/Ruby/Lilith】Meg/Lilith teach Ruby how to make out with Sam（F/F，R级）
 
 (Meg is still early season blond form, personal favorite vessel of hers) (bisexual Ruby)
 
@@ -3451,6 +3469,8 @@ post-1518/1520, Cas comes back Empty, decides to go to Earth to live as human wi
 
 Cas would have suicidal thoughts, wanting to be with Dean earlier. Dean would be in Heaven, building a cabin of their own. a life long pining and longing and waiting, so much loneliness. and eventually they reunite in Heaven, both as human souls. like 1520 Dean/Sam reunite, it's Dean/Cas: "Cas" "Hello, Dean"
 
+(≈ prompt 133.5)
+
 ### 319.【Dean】Rocky's bar, Dean's dream come true
 
 Dean's real happiness, one thing he always wanted to do and wants nothing more, is to have a shabby bar of his own and serves and makes drinks with a hot waitress like Pamela, and kill vampires and hunt when need to (when they come to the bar and look for trouble)
@@ -3459,4 +3479,24 @@ There must be a version of universe out there that Dean's living his dream life,
 
 Cas could stay with him, serving in the bar
 
-### 320.
+### 320.【all】Death reaps God
+
+S5 old Death: (paraphrase) "Even God can die. In the end I'll reap God too."
+
+but in the end, God didn't die, Death died. It's not right, it's not natural.
+
+world with God but without Death is going to have issue, how to fix it?
+
+Jack has to function as Death instead of God? they do something to kill Billie and bring old Death back in s15, so Death can reap God, the world has no God, s15 complete rewrite but HE?
+
+### 321.【destiel】why can't Dean hear Cas's true voice
+
+S04E01 Cas: (paraphrase) "Certain people, special people, can hear my true voice. I thought you're one of them. Clearly I'm mistaken, I'm sorry."
+
+Jimmy can hear Cas's true voice. (S04E19?) so Jimmy is special people. Cas just assumed Dean is special and their profound bond can let him hear Cas, why can't Dean hear him?
+
+theory: devout man (like Jimmy) can hear Cas, man who doesn't have faith/doesn't believe angel exist (like S4 Dean) can't. Once Dean accepts Cas, believes in angel, he can too
+
+(≈ prompt 88)
+
+### 322.
