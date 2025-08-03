@@ -7,17 +7,16 @@ characters: ["Castiel", "Dean Winchester"]
 tags: ["Supernatural", "destiel", "英文"]
 pov: 第三人称
 origin: 2025 SPN Reverse Fantasy Bang
-long_novels: 【Destiel】Life of Blue
 published: false
 ---
 
 [TOC]
 
-tag: modern fantasy, history fantasy, light amnesia, non-human Castiel, true form, shared life, mutual pining, FantasyReverseBang25
+**Tag:** Modern Fantasy, History Fantasy, Minor Amnesia, Non-human Castiel, True Form, Shared Life, Mutual Pining, FantasyReverseBang25
 
-warning: No archive warnings apply
+**Warning:** No archive warnings apply
 
-rating: general
+**Rating:** General
 
 ## Brainstorming
 
