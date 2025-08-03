@@ -469,7 +469,55 @@ And that was the last time Dean had seen him.
 >
 > who is the one forgetting: Dean
 
+The weathered man tells the story as he points at the color on the glass window.
 
+"Dean made that piece of colored glass large," he tells the young student. "So there can be more space for Cas to return to."
+
+He chuckles a little, thinking. "It's like making him a bigger room to stay before he comes to life again. A bigger house."
+
+The young student smiles with him, "I'm sure he appreciate that."
+
+The man tilts his head, looking back at the glass. The afternoon sun is setting slowly, the brightened pattern is dyed with a warm orange color. But the blue lines on there are still vigorously shimmering with the color of sea and sky. Winter frost on the other side of the window layers it with icy crystal, making the color even more ethereal than it already is. There are thirteen long and short strips of blue -- thirteen times they've met and lived.
+
+"I never knew color can be a language," the man says slowly, "or they can have life. Maybe I did, and I forgot."
+
+He lowers his head, staring at the lowest strip of blue, the one that has the darkest color. When he raises his head again, there are glimmers of tears in his eyes. He asks, "What if I'm forgetting things? I feel old every time I am alone, but I can't remember how old. I feel like I forget a lot of things, even my own name, sometimes. All I remember is only that story. All I know I can't forget is that story. What should I do if I forgot some really important things?"
+
+The young student puts a hand on his shoulder, rubbing him gently. "Why don't you look at the glass then? It's like a memoir, isn't it? Maybe just read some more, and you'll remember."
+
+The man sits back at the chair before the colored glass, reading it like a book, a diary, a long journal. The other man sits next to him, watching him studiously.
+
+"Do you remember now? Who are you?" he asks patiently.
+
+"Yes," the weathered man blinks rapidly, breathing out, drops of tears tangled on his eyelashes. "I'm Dean. I'm the one from the story I thought was someone else's."
+
+His young companion smiles encouragingly.
+
+"And I think, after all these times, I finally find out the pattern in the times Cas came." Dean says, contemplating.
+
+"What is that?"
+
+"When there is something so blue that I could never hold it back again, it stirred in me, consumed me; when I miss him so much it's going to kill me, eat me alive; when the life force is about to leave me, that's when he'd come to life, to save me, to bring *me* to life again." Dean huffs quietly with realization, the drop of tear falls from the corner of his eyes. "He comes to me when I need him the most. God, I miss him so much."
+
+He wipes his eyes with the back of his hand.
+
+"Then what is so blue this time?" his young listener asks.
+
+"Me," Dean tells him.
+
+It's the bluest winter. He tells him his loneliness, his alienness. He doesn't belong to this time and place. He's homesick, and he's cold. They are on a land so far away from the land he was born. He misses the sun and wind of Mesopotamia but he can never go back again. He thinks of Cas so much, because he's the only one who knows him, who will understand. He's the only one he can feel at home, when home is no more. He thinks of Cas every living second with every inhale and exhale of his breath, his chest hurt from the pining.
+
+Several students walk by the corridor they're in, schoolbags on their backs, chatting with their friends, casting curious looks at them. They walk on with fast pace, forgetting about them the moment they walked by, as if they are nothing more than a tree by the road, a window on the wall, a statue in the campus.
+
+Dean's eyes linger on the tiles they stepped on, then wander back to the quiet listener sitting next to him. He realizes he doesn't have a schoolbag, nor is he wearing school uniform. He doesn't know why he assumed he's just another student of the campus -- they don't usually stop and sit down with strangers, and spend hours listen to their long and old stories.
+
+"It's been almost another three hundred years," Dean whispers, devastated, "I missed him so much but I can barely remember his face. I was afraid I wouldn't recognize him even if he stands right before me."
+
+His voice trembles, then, when he asks, "Who are you?"
+
+The man sitting next to him reaches out to take his hands, landing a kiss on the back of his hands, with their eyes locked and a small smile emerging.
+
+Cas looks at him, with his blue, blue eyes: "Hello, Dean."
 
 <br>
 
