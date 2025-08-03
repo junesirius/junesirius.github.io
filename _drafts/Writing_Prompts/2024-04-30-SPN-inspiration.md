@@ -3499,4 +3499,12 @@ theory: devout man (like Jimmy) can hear Cas, man who doesn't have faith/doesn't
 
 (≈ prompt 88)
 
-### 322.
+### 322.【Rowena】S14E14 Rowena is a powerful vessel for Michael
+
+Rowena is a powerful vessel strong enough for Apocalypse!Michael, probably also strong enough for main Michael
+
+S4/5 Michael *could* try to possess Rowena? Rowena might say yes too?
+
+what will happen if S5 finale is Rowena!Michael vs Sam!Lucifer? bond between Rowena/Sam needs slow burn to build, so might rewrite S5 with Crowley/Rowena curve moving ahead, merge S10/14 with S5, change S5 finale
+
+### 323.
