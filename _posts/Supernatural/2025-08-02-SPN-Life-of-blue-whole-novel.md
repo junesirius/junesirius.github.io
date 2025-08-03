@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【Destiel】Life of Blue
-date: 2025-05-15
+date: 2025-08-02
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
 tags: ["Supernatural", "destiel", "英文"]
