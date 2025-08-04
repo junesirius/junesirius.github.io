@@ -3521,4 +3521,66 @@ S4/5 Michael *could* try to possess Rowena? Rowena might say yes too?
 
 what will happen if S5 finale is Rowena!Michael vs Sam!Lucifer? bond between Rowena/Sam needs slow burn to build, so might rewrite S5 with Crowley/Rowena curve moving ahead, merge S10/14 with S5, change S5 finale
 
-### 323.
+### 323.【destiel】S09E03 what if Ezekiel didn't bring Cas back
+
+(original post on [Tumblr](https://www.tumblr.com/junesirius/784059387464515584))
+
+Here is what's in the script:
+
+> **April:** Are you negotiating with me, Castiel?
+>
+> THE DOOR-- BAM! It's kicked in!
+>
+> **Dean:** Cas!
+>
+> Sam and Dean rush in. And APRIL PLUNGES THE BLADE DEEP INTO CAS'S CHEST!
+>
+> Sam charges her with her blade but she WAVES A HAND and BLASTS SAM BACK AGAINST A WALL. His blade goes flying.
+>
+> Dean dives for Sam's knife but April BLASTS HIM AGAINST ANOTHER WALL (in Castiel's direction)!
+>
+> **April:** This girl is popular with all the boys.
+>
+> Dean, his back to April, pulls himself up using Castiel's chair. Cas is gasping for air. They share a look as April turns for Dean.
+>
+> Dean, unseen, yanks the blade from Castiel's chest... and as April raises her hand to smite him he turns and JAMS THE BLADE INTO HER CHEST! Her eyes and mouth fly open as she FLARES OUT AND DIES. Dean tries to regain his senses. Sam is slumped groggily against the wall, just beginning to come to.
+>
+> Dean turns back to Cas. Cas is motionless, eyes open, empty. He is dead.
+>
+> **Dean:** Cas...
+>
+> The reality sinks in. The loss is more staggering than April's grip. Dean is overcome with grief.
+>
+> **Dean:** Cas... (then) No... No... No...
+>
+> Behind him, Sam rises to his feet. His EYES FLASH and we realize, he's EZEKIEL now. Dean's still in shock.
+>
+> **Dean:** (helpless) Sammy. Cas is gone.
+>
+> But Sam/Ezekiel looks completely calm. He approaches Cas, draws his hand over Cas's wounds. We see Sam/Ezekiel strain from the effort but the wounds heal. He places other hands over Cas's chest. AND EZEKIEL STRUGGLES, THE EFFORT IS ENORMOUS. Cas's eyes blink, and he gasps for air. The LIGHT INSTANTLY LEAVES EZEKIEL'S EYES. Sam's legs buckle and he slumps back, sinking onto the futon.
+>
+> **Castiel:** (dazed) Dean?
+>
+> **Dean:** Yeah, man.
+>
+> He hugs Cas, then quickly uses the blade to cut open the zipties.
+>
+> **Castiel:** And Sam.
+>
+> Dazed himself, Sam gives his head a shake to clear it, then stares at Cas.
+>
+> **Sam:** Wow. Is it good to see you.
+>
+> He hugs Cas. His hands now freed, wrists raw, Cas feels them, tries to sort things out.
+>
+> **Dean:** Cas man, don't ever do this again.
+>
+> **Castiel:** Alright. (then) But I'm confused.
+>
+> He stares down at his chest, feels the flesh.
+
+So all we have in the script is as simple as: "Dean is overcome with grief" and trembling "Cas... No... No... No..." Everything else is the beauty of performance.
+
+And just noticed from the script: Cas was still alive when Dean removes the blade from his chest, he was gasping for air and they share a look. And by the time Dean kills April, Cas is dead. Can't help thinking, is it the move of removing the blade from the deep chest wound that killed Cas, because wounds like that, probably the blade is the only thing stop the bleeding at the moment. Now thinking what if Ezekiel didn't resurrect Cas and Dean rethink the event and realizes probably he's the one that finalize human Cas's death because he was too eager and focused on killing April... God, S9 would probably just be as bad as S13 before Tombstone.
+
+### 324.
