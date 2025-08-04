@@ -22,9 +22,9 @@ Rating: Teen and up
 
 # Draft
 
-## Idea
-
 (Jimmy POV)
+
+## Idea
 
 这是一个没有温家兄弟的世界，所以Cas来地球的目的不是为了救righteous man而是为了apocalypse战争做准备。这个世界的Jimmy设定没有变，但因为Cas目的变了，所以他们的磨合其实并不好。
 
@@ -177,5 +177,85 @@ By the time Jimmy looks back down, the tentacles of the Empty already covers hal
 ## Editing Notes
 
 # Main
+
+## Act 1
+
+> Jimmy is a devout man, praying for angels to protect his family, praying for a peaceful world. Then Apocalypse starts, and Castiel comes to him, he says yes. Castiel goes to Hell for a mission, but not to save the righteous man, it's to open the Cage himself, to let Lucifer out (he's the one started Apocalypse on Michael's order).
+
+<br>
+
+## Act 2
+
+> Castiel leads the army to war, fight demons and sometimes humans if they're on his way, torture them for information, it's everything against what Jimmy wants. Their consciousness doesn't align, it causes Jimmy's nerve great pain. He begs Castiel to protect his wife and daughter, but Castiel doesn't care about humans, only focusing on the war.
+>
+> Jimmy tries to take back the consent, to cast Castiel out, he fights him in his brain, trying to escape, to rebel, for many times, to relieve the pain. Castiel warns him not to, taking back control every time. And when he fights again, he finally leaves.
+
+<br>
+
+## Act 3
+
+> Jimmy thinks he's free, but his body is already ruined by angel grace. He can barely walk or run, he has pain all over his body. He's found by other angels on his way of escaping from angel camp.
+>
+> Other angels say, "Look, isn't that the vessel Castiel said didn't comply? Should we help him fix it?" They start to torture Jimmy.
+>
+> It's too painful for any human to bear. Jimmy can't help thinking if Castiel would come back to him. What did he do wrong? Does he have to be punished like this? He had given him everything, his body, his mind, his health, does he have to give up his last consciousness and his soul, too? *Castiel, why are you doing this to me? Are you not an angel?*
+
+<br>
+
+## Act 4
+
+> It's supposed to be just *normal* torture, but when the angels start talking about breaking his brain so that the only thing he can think about is saying "yes", Castiel come back. He come back in Claire. He looks at Jimmy, and casts all those who tortured him out. Because he's still *his* vessel, they don't get to make decisions for him.
+>
+> He brings Jimmy to a lone deserted room, tells him to rest. Jimmy can't rest. He is watching Claire. Castiel tells him, "It's your daughter, I know. I found her at the edge of the war zone, wounded, dying." He continues, "I healed her. She will live even if I leave her now." But it doesn't matter, anyone incompetent to live will die. He didn't say it.
+>
+> Claire's coat is torn, looking like it's been through some massive explotions. But the lining is mostly intact, decent. But Jimmy cannot feel comforted.
+>
+> The dim room is quiet for a long time, Jimmy's mind starts drifting. He starts to wonder if the place they're in, this room, might be a decent hotel room before the Apocalypse. How many angels are there outside. Or maybe this is Castiel's secret base, there is no other angels. -- But could he be this kind? He had already known Castiel is not the caring angel he imagined him to be, he's just another coldblooded soldier, like the rest of them, maybe even more so -- he seems to be in a high rank, judging by the way other angels retreat and salute upon his arrival.
+>
+> He gives up trying to escape for a long time, he doesn't think he'll ever try it again. His nerve never stops aching in the days Castiel left him. He knows he can't get away, can't run to anywhere. It's his fate, his destiny, the way he'll die.
+>
+> Besides, if not him, who is going to be Castiel's next vessel, to endure all those pain he's been suffering? To suffer the unsufferable? Certainly can't be his daughter.
+>
+> He thinks, maybe the pain will stop once Castiel comes back inside him. He doesn't want Castiel wear his young daughter to the battlefield, but how could he ask, when he knows agony and nightmare will be all that's waiting for him?
+
+<br>
+
+## Act 5
+
+> A sleepless night.
+>
+> When Castiel comes back to him the next day, Jimmy tells him, "Use me. Use me instead of my daughter. Take my daughter to somewhere safe. I won't question you again, I won't fight against you. I'm yours now, utterly and completely."
+>
+> Castiel doesn't want to use a young girl's body anyway. He brings Claire to the wild woods far from the hot zone --but it's just a zone they haven't spread to yet. It's just a matter of time.
+>
+> When he comes inside Jimmy, Jimmy thinks vaguely, his nerbe does stop aching. Because he can't feel anything at all anymore.
+
+<br>
+
+## Act 6
+
+> It's like a deep sleep. He startles awake sometimes, by the faint pain in his brain and his nerves. He sees himself in impossible situations, in the middle of war. His body is torn apart, half his head is blown away by explosions. He'll die a hundred times as a human, but it seems only to be half a second de-sync angel's grace with his consciousness.
+>
+> The next time feels different. Castiel is not wounded, he's just lying on something, like an operational table. It's not pain that Jimmy is feeling, it's a numbness. He wants to stand up, but his body doesn't comply. He touches his head and finds an iron circle around his skull, long and short nails pinning inside his head. His hands tremble uncontrollably.
+>
+> He passes out from the horrible scene. The blackness followed is like falling. He thinks he sees Castiel's sinking consciousness on his way down. It's the darkness inside his mind, inside both their minds. Angel's mind is pinned by those iron nails, he's like a bird getting shot by the hunters. Falling straight down from the sky, with blood spreading from the wound, the feathers scattering. He barely has much feathers left, they are worn, detorted, hardened, more like blades than plumage.
+
+<br>
+
+## Act 7
+
+> The last time Jimmy wakes up, is when Castiel is dying. Jimmy doesn't know where they are, but his mind comes clearer as Castiel's getting fainter. He feels pain, but not only in his mind, not only in his nerves. He feels the burning from angel's grace, the incineration of angel's grace combusting his body, his organs, his eyes and his brain. But before he dies, he sees the angel in a tan trench coat -- the one wearing the same face as his, it's "Castiel" killing him, killing them. But maybe, he has already died long before that.
+
+<br>
+
+## Act 8
+
+> The last consciousness of his drifts in the Empty. Jimmy wanders in the endless blackness, not feeling any pain, not any feelings, really. The numbness covers him, carries him.
+>
+> He kicks a man sleeping in his drifting. The man has his face, with the angel blade that killed them on his chest. Castiel looks up at him with eyes half-open, wordless. And he looks up, at the place where lights of souls are dropping like rainfalls.
+>
+> Jimmy sits down beside him, looking up at the falling souls from the bottomless darkness -- Heaven and Hell has long been destroyed in the war, homeless souls all come to the Empty. Everyone is falling to the Empty.
+>
+> By the time Jimmy looks back down, the tentacles of the Empty already covers half his body. And when he looks beside him, there is nothing and no one left. Swallowed by the Empty, Castiel is long gone.
 
 ###### [END]
