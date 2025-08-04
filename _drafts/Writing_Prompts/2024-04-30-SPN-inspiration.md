@@ -850,9 +850,17 @@ What if Lisa lied and Ben *is* Dean's own. Post-621, they have no memory of Dean
 
 Wilde's Happy Prince AU
 
+Prince=卡，Swallow=丁
+
 Cas is the happy prince sculpture, can give up some part of his body to grant some wish to help people
 
 everything comes for a price, a finger to save a poor woman, a hand for a family, eyes for something, heart for Dean because Dean said "I need you", nothing left for himself
+
+### 83.5【destiel】快乐王子代餐
+
+Prince=丁，Swallow=卡
+
+更长的分析详见： [2025-07-18发的post](https://junesirius.github.io/2025/07/18/SPN-Happy-prince)
 
 ### 84.【Cas】S09E03 during mortal death
 
@@ -865,6 +873,12 @@ Rewrite S10E17-S15E20 from Bobby's perspective, when he's locked away for helpin
 ### 86.【destiel】饥饿游戏AU
 
 可以用炼狱丁卡直接代
+
+会需要出现大量角色和minor MCD
+
+### 86.5【all/destiel】勇敢者游戏AU（R级）
+
+在游戏里时候的角色外貌不同，性别不同，丁可能可以找到借口overcome gay panic更快跟卡坦白和pwp？
 
 ### 87.【destiel】铁血战士AU
 
@@ -1124,7 +1138,7 @@ What if Charlie follows Gilda to fairy land
 
 What if Crowley didn't figure it out how to break the spell or too late, Cas died, Dean blamed Mary for the rest of the time, who's gonna take care of Jack, Jack's new father
 
-### 115.【all】Davie Jones' chest
+### 115.【all】Davie Jones' Locker
 
 (case fic/crossover)
 
@@ -1330,15 +1344,19 @@ Dean accuses him choosing angel over him afterwards, could be a big fight and/or
 
 （可以把开局的卡写得好像反派，到后面揭晓反转）
 
+（有点像djinn世界）
+
 ### 142.【samcifer/micifer】S13E22 天启世界的天堂
 
 Sam在天启世界短暂死亡期间，在被吸血鬼杀死之后、被路西法复活之前，他在哪里？天堂还是vail？天启世界的天堂可能已经空了，所有（/大部分）天使都在地上参战。天堂的话，有没有可能遇见天启世界已经上天堂了的人（/天启世界没出现过的人），比如John、Ellen、Jo、Ash？（每个世界的天堂应该是不连通的）天启世界的Gabriel在哪里？劝天启世界的死骑帮忙参战？在天堂提前跟天启世界米迦勒打了照面然后正要被杀的时候被路西拉回来了？路西有没有personally跑到天堂去拉Sam？说不定也在那被米迦打了一顿，但是刚复活的Sam没有那段记忆所以不记得了。
 
-### 143.【Cas/Jimmy】S13E22 天启世界的黑卡【WIP】
+### 143.【CasJimmy】S13E22 天启世界的黑卡
 
-（出场集：1322，[wiki](https://supernatural.fandom.com/wiki/Castiel_(Apocalypse_World))；黑卡：German口音，左眼glassy blind，facial tic，dark suit & trenchcoat）
+（出场集：1322，[wiki](https://supernatural.fandom.com/wiki/Castiel_(Apocalypse_World))；黑卡：German口音，左眼glassy blind，facial tic，dark suit & trench coat）
 
 天启世界黑卡仍然用的是Jimmy的皮囊，这个版本的卡是torture高手（主世界其实也是），是怎么让Jimmy同意的？这个版本没经历过422所以Jimmy有没有死？黑卡被杀之前让Jimmy上身的话主世界卡是不是就会犹豫不杀他因为愧疚，所以自己陷入危险？
+
+### 143.5【CasJimmy】S13E22 天启黑卡强迫附身Jimmy【WIP】
 
 （以下梗源同体2479）
 
@@ -2861,7 +2879,7 @@ Max reuse Rowena's spell, throw Witch's ring in for full power, create two bodie
 
 "Hi" "Hi" "I'm Charlie" "Alicia" "Nice to meet you, for the first time" "I love you" "I know"
 
-### ~~272. (duplicate 221)~~
+~~272. (duplicate 221)~~
 
 ### 273.【destiel】addict to angel blood（R级）
 
@@ -3393,11 +3411,7 @@ so S5 becomes Michael+Lucifer both focus on torturing/persuading Cas, in the end
 
 灵感来自jenmish都穿破洞T恤
 
-### 313.【destiel】《快乐王子》代餐
-
-Prince=丁，Swallow=卡
-
-更长的分析详见： [2025-07-18发的post](https://junesirius.github.io/2025/07/18/SPN-Happy-prince)
+~~313. (duplicate 83.5)~~
 
 ### 314.【destiel】blind Dean
 
