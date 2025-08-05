@@ -3,7 +3,7 @@ layout: post
 title: 【Destiel】Angel Black Death
 date: 2024-11-01 01:51
 categories: ["SPN"]
-characters: ["Castiel", "Dean Winchester", "Sam Winchester", "Michael", "Lucifer", "Vince Vincente", "Rowena MacLeod", "Fergus MacLeod/Crowley", "Adam Milligan", "Bobby Singer", "Charlie Bradbury", "Jimmy Novak", "Claire Novak"]
+characters: ["Castiel", "Dean Winchester", "Sam Winchester", "Michael", "Lucifer", "Vince Vincente", "Rowena MacLeod", "Fergus MacLeod/Crowley", "Adam Milligan", "Bobby Singer", "Jody Mills", "Ellen Harvelle", "Jo Harvelle", "Mary Winchester", "John Winchester", "Charlie Bradbury", "Jimmy Novak", "Claire Novak"]
 tags: ["Supernatural", "destiel", "michifer", "midam", "温家兄弟", "英文"]
 pov: 第三人称
 origin: 2025 DCBB
@@ -11,7 +11,7 @@ long_novels: 【Destiel】Angel Black Death
 published: false
 ---
 
-(**Tags:** canon divergent, post-S11 finale, minus BMOL and Mary, graphic depictions of violence, temporary main character death, main character near death experience, graphic depictions of disease symptoms, soul-grace dance, love is the best cure, Team Free-Will, Happy Ending)
+(**Tags:** canon divergent, post-S11 finale, minus BMOL and Mary, graphic depictions of violence, temporary main character death, main character near death experience, graphic depictions of disease symptoms, soul-grace dance, love is the best cure, Team Free-Will, Eventual Happy Ending)
 
 (**Rating**: Teen and up (for violence))
 
@@ -120,6 +120,8 @@ Cas lies on the bunker bed, bloody and dying. Dark spots and sick symptoms are s
 ~~Lucifer: "devilishly handsome face"~~
 
 examine all "'cause", change some of them to "of course" or "because"
+
+Re-organize chapter structures, some acts can be chapters, avoid too long chapters
 
 ## Main
 
@@ -1404,7 +1406,7 @@ He leads Cas to the passenger side.
 
 Sam sighs. "We still need his help. And he needs to be *willing* to help. The least we can do is not to make him more pissed."
 
-Cas chimes in just in time, not very helpfully, "That would be a very difficult thing to do." He meets the brothers' eyes, then adds, "Considering how angry he already was, and he'd like to kill all of us as soon as he could. Just saying."
+Cas chimes in just in time, not very helpfully, "That would be a very difficult thing to do." He meets the brothers' eyes, then adds, "Considering how angry he already was, and he would very much like to kill all of us as soon as he could. Just saying."
 
 Dean forces a smile. "Good to know. Now can we go?"
 
@@ -1532,7 +1534,7 @@ Dean rings the King of Hell next.
 
 Crowley picks at the sixth ring.
 
-"This is Hell," he greets.
+"This is Hell," he greets glumly.
 
 "Do you happen to know where Nick's body is?" Dean stares at the "666" on the phone's screen.
 
@@ -1732,7 +1734,7 @@ Dean huffs a laugh. "Yeah, lady, exactly our questions, too: 'What's happening' 
 
 Sam answers, "I'm Sam, this is Dean. We're looking for Nick, too. Who are you?"
 
-"Sarah," the woman answers, "and this is Teddy. Please tell me what's happening." Her tone is terrified, but nothing hateful or outrageous as they usually seen in vengeful spirits.
+"Sarah," the woman answers dreamily, "and this is Teddy. Please tell me what's happening." Her tone is terrified, but nothing hateful or outrageous as they usually seen in vengeful spirits.
 
 Sam exhales slowly, lowering his gun, stepping to her carefully like approaching a scared wild creature. "Sarah, it might be a little difficult to take, but, uh... you are dead, and now a ghost." He exchanges an unnerving look with Dean, waiting.
 
@@ -1740,7 +1742,7 @@ Sam exhales slowly, lowering his gun, stepping to her carefully like approaching
 
 Dean blinks rapidly. "You know?"
 
-"Your husband?" Sam says at the same moment. "You're Nick's wife, and this is his son," he nods slowly. "I'm sorry."
+"Your husband?" Sam says at the same moment, inhaling with realization. "You're Nick's wife, and this is his son," he nods slowly. "I'm sorry."
 
 "How old is your son?" Dean asks.
 
@@ -1756,7 +1758,7 @@ Dean blinks rapidly. "You know?"
 
 "Why are you here, Sarah?" Sam asks instead. "It must be five hundred miles away from your home. Ghosts don't usually move around so much."
 
-"Unless the thing or person they're attached to moved." Dean corrects him, forming a theory. "Do you where your husband is, Sarah?"
+"Unless the thing or person they're attached to moved." Dean corrects him, forming a theory. "Do you know where your husband is, Sarah?"
 
 Sarah shakes her head apologetically. "The distance in this place -- the Vail? -- it felt different. I don't know where exactly, but I can feel him. He's chained, he's in a lot of pain."
 
@@ -1770,7 +1772,7 @@ Sarah shakes her head apologetically. "The distance in this place -- the Vail? -
 
 "Is there anything else you noticed, anything to help us find him?" Dean pushes.
 
-Sarah frowns hard, squeezing her eyes, as if she's looking very attentively at something in the Vail. "It's all very vague, it's like I can sense around him, but not clear enough to reach him. I think... the air around him might be salty, that's why I can't get to him. I only come here because I sense the disturbance in the last place he was, and you are speaking his name."
+Sarah frowns hard, squeezing her eyes, as if she's looking very attentively at something in the Vail. "It's all very vague, it's like I can sense around him, but not clear enough to reach him. I think... the air around him smells salty, I think that's why I can't get to him. I only come here because I sense the disturbance in the last place he was, and you are speaking his name."
 
 "Salty. That's good," Dean nods, "must be somewhere near the sea then, that's good, we can start from there." He gives Sam a look, head tilting toward the door.
 
@@ -1846,7 +1848,7 @@ The vessel he's in has no skin and barely much flesh left now. When he smiles, i
 
 Cas trains his gaze on the floor, a step before him.
 
-"Look, buddy, I'm dying, you're dying. Can't we have some death bed kind words, eh? Some heart-to-heart, like our good old days, like last year?" Lucifer opens his palms, in a gesture that would usually mean warm and welcome and peace-making offer.
+"Look, buddy, I'm dying, you're dying. Can't we have some death bed kind words, eh? Some heart-to-heart, like our good old days last year?" Lucifer opens his palms, in a gesture that would usually mean warm and welcome and peace-making offer.
 
 Cas growls, "We're not buddy, and you're not dying."
 
@@ -1986,7 +1988,7 @@ Crowley seems to be pleased, smiling like a cat tasting butter. "You promised to
 
 Dean rolls his eyes. "Yes, you can have all the fun once we're done with him. Now, the body, please? We don't have all day here."
 
-They load Nick's body into the truck of the impala, hidden inside a sackbag as if it's just a large bag of potato. The demon inside stays in there, part of the buy-one-get-one-for-free deal, as Crowley says. With the iron chains still wrapped around the body, the demon can't get anywhere anyway, and with all the spellwork and runes, the demon doesn't wake up however rough they haul and drag the body. Dean thinks it's fine then, they can handle a little demon even if he gets inside the bunker and gets loose.
+They load Nick's body into the truck of the impala, hidden inside a sackbag as if it's just a large bag of potato. The demon inside stays in there, part of the buy-one-get-one-for-free deal, as Crowley says. With the iron chains still wrapped around the body, the demon can't get anywhere anyway, and with all the spellwork and runes, the demon doesn't wake up however rough they haul and drag the body. Dean thinks it's fine then, they can handle a punch-the-clock demon even if he gets inside the bunker and gets loose.
 
 They leave Crowley's place. No one waves at the asylum door to send them goodbye.
 
@@ -2070,7 +2072,7 @@ Lucifer's skeleton body stumbles toward this new, whole and complete vessel as i
 
 Dean and Sam have to narrow their eyes in the light, feeling their eyes stung by the brightness.
 
-The demon inside Nick's body is waken up. He jumps to his feet, looking up at the ceiling, covering his eyes. He says, with the very familiar, exact same tone and voice of Nick, "Holy, it really is you! I never thought I'd every see you again!"
+The demon inside Nick's body is waken up. He jumps to his feet, looking up at the ceiling, covering his eyes. He says, with the very familiar, exact same tone and voice of Nick, "Holy, it really is you! I never thought I'd ever see you again!"
 
 Dean jumps, prompting, "Nick? I mean, the original Nick?"
 
@@ -2084,7 +2086,7 @@ Nick turns to them, just as surprised, "Dean? Sam?"
 
 "We gotta have some better definition of what's 'sense'." Dean yells, turning back to the Lucifer-light. So does Sam and Nick.
 
-Lucifer-light coils and recoils in the air like a circling vulture. Nick rises his arms, opening toward the light. "Yes," he says with an awed voice. "Yes, Lucifer. Come in me. Fill me up. Make me complete again."
+Lucifer-light coils and recoils in the air like a circling vulture, statics crackling and buzzing in a high tune. Nick rises his arms, opening toward the light. "Yes," he says with an awed voice. "Yes, Lucifer. Come in me. Fill me up. Make me complete again."
 
 "That's just sick," Dean can't help commenting.
 
@@ -2132,9 +2134,9 @@ Dean and Sam glared at him with the same blank looks.
 
 Crowley let out an impatient sound. "The control is not a *thing* you can carry around or borrow. It's *me*! *I* get a direct link to this body, this new cage -- tuning the lights up and down, I say go left he can't go right. The Devil is going to be just a puppet once he's inside that body."
 
-"Then come with us!" Dean said, "Tell the Devil what to do, isn't what you wanted?"
+"Then come with us!" Dean said, "Tell the Devil what to do, isn't that what you wanted?"
 
-Crowley looked uneasy. "Happy to, but did you lot forget all the demon-proof sigils everywhere in that place? You might as well burn me alive then ask me walk into that damned place."
+Crowley looked uneasy. "Happy to, but did you lot forget all the demon-proof sigils everywhere in that place? You might as well burn me alive then ask me walk into that damned place. The bloody floor is worse than walking on the summer beach on bare feet! Why do you think I never visited?"
 
 Dean shrugged. He did forget bunker was the safest place on Earth, supposedly, looks like it's still true -- to some extent.
 
@@ -2174,7 +2176,7 @@ Sam hums, agreeing.
 
 Dean eyes him. "How do you feel? Controlling the Devil? That doesn't have any... I don't know, side effect?"
 
-"No," Sam says, thinking for a second. "It feels awesome. I mean, I've never thought about it's even possible. But that thing back there, telling him to shut up and he has to obey? Yeah, the best thing I've felt since ten years ago -- I wasn't afraid of him anymore."
+"No," Sam says, thinking for a second. "It feels amazing. I mean, I've never thought about it's even possible. But that thing back there, telling him to shut up and he has to obey? Yeah, the best thing I've felt since ten years ago -- I wasn't afraid of him anymore."
 
 "Okay, great." Dean exhales in relief. "But just to be safe, let's not use that too often, maybe? We still don't know how Crowley did it, just in case something bite our ass again. Oh, and... don't forget the book said he has to willingly give up his 'light' to save all the angels. We still have to figure that out."
 
@@ -2202,7 +2204,7 @@ There is an armchair next to the wall in his room. Dean settles down there, shif
 
 He closes his eyes, listening to that rhythm, thinking this is a long day. And tomorrow will be better. It has to.
 
-He wakes up finding himself on the bed, all clothes on but the boots are off. The room is still vaguely dim without a window. But the freshness in his head tells him it's been a full and nice long night's sleep.
+He wakes up finding himself on the bed, all clothes on but the boots are off. The room is still vaguely dim without a window. But the freshness in his head tells him it's been a full and nice long night's sleep. Something he doesn't usually find when waking up.
 
 Dean sits up slowly. Remembering this isn't his room.
 
@@ -2224,9 +2226,9 @@ Dean gets off the bed. "How you feel? You look awful yesterday."
 
 "Something dark, I suppose. I don't really know." Cas says thoughtfully. Not offering more.
 
- "He said it's not him, he didn't do anything." Dean doesn't know why he said that. It's not like he's trusting Devil's words over Cas's.
+"He said it's not him, he didn't do anything." Dean doesn't know why he said that. It's not like he's trusting Devil's words over Cas's.
 
-"And you believed that?" Cas narrowed his eyes.
+"And you believed that?" Cas narrows his eyes.
 
 Dean shrugs.
 
@@ -2248,13 +2250,13 @@ Dean smiles a little, nodding.
 
 "The sound of it is like earthquakes on Earth, but for Heaven, the shaking is making the whole celestial dimension crack. There are rifts that souls are falling from. You might find more ghost or spirit cases, like Nick's wife and son." Cas says, voice low.
 
-Sam greets them in the library, in the middle of scrolling on the laptop pages, noting something down on a piece of paper. A handful of their spare phones lie around on the desk, buzzing with incoming calls and messages.
+Sam greets them in the library, in the middle of scrolling on the laptop pages, noting something down on a piece of paper. A handful of their spare phones lie around on the desk, busy buzzing with incoming calls and messages.
 
 "What's that?" Dean glances at the paper he's working on. It has a long list of locations and it's still growing.
 
-"I think the Vail is going nuts." Sam says, wiping his face with the free hand.
+"I think the Vail is going nuts," Sam says, wiping his face with the free hand.
 
-"Define 'nuts'." Dean says, though he already has some idea.
+"Define 'nuts'," Dean says, though he already has some idea.
 
 "Basically, we have more ghost stories in the last twenty-four hours than the past ten years altogether. I got hunters calling from everywhere saying there are more ghosts than they've ever seen, but they're not vengeful, they're just... there. Confused, just like we're, like they don't belong there, and they have no idea why they're here." Sam hands them the list. "I was trying to see if any of them are real vengeful spirit cases that need attention."
 
@@ -2266,9 +2268,9 @@ Dean notices Sioux Falls, South Dakota is on the list.
 
 <br>
 
-Lucifer wanders into the library, following Sam like a dog on leash. His head lowered, his look sheepish. The delusion of obedience can almost fool anyone who doesn't him. But the hunters and the angel in the room know better than be deceived.
+Lucifer wanders into the library, following Sam like a dog on leash. His head lowered, his look sheepish. The delusion of obedience can almost fool anyone who doesn't know him. But the hunters and the angel in the room know better than be deceived.
 
-He opens his mouth, stretch his tongue, but no sound comes out. That "shut up" command is such a charm, they should have that always on default setting.
+He opens his mouth, stretching his tongue, but no sound comes out. That "shut up" command is such a charm, they should have that always on default setting.
 
 "Okay, where are we?" Dean takes a step toward the Devil, just so he could stand right in front of Cas. "A little catch-up to do."
 
@@ -2282,9 +2284,9 @@ Lucifer exercises his mouth exaggeratedly. "Guys, I'm so glad to be your first c
 
 Lucifer holds two palms up, a look of helplessness. "But look, I'm weakened. Amara, the cuff, and Sam! I like the kinks, but this is just -- too kinky even for me." He touches his throat, gesturing at his grace. "I was the brightest light for millions of years, even in the Cage, I'm sure. But just unfortunately not tonight. What's the word? Bad timing --"
 
-"How do we brighten you up?" Dean says dryly.
+"How do we brighten you up?" Dean asks dryly.
 
-"Let me see," Lucifer starts counting fingers, "at least one million souls -- I don't mind where, Heaven, Hell, Purgatory, you guys know the way; my sword -- haven't seen it for years, but it would work so nicely; oh, and a better vessel, stronger, like Sam!"
+"Let me see," Lucifer starts counting fingers, "at least one million souls -- I don't mind where, Heaven, Hell, Purgatory, you guys know the way; my sword -- haven't seen it for years, but it would work so nicely; oh, and a better vessel, stronger, bigger, taller, like Sam!"
 
 "Dean -- we are not seriously talking about 'how to make Lucifer powerful again', are we?" Cas warns with a low voice.
 
@@ -2294,31 +2296,39 @@ Lucifer holds two palms up, a look of helplessness. "But look, I'm weakened. Ama
 
 "Maybe not," Sam says beside them. "There is another." He gives Dean and Cas a look.
 
-Lucifer squints at them, "Wait, Michael? You're talking about *Michael*? My douchebag brother Michael who's rotting in the Cage? And you think *he* has brighter lights than *me*?" He looks insulted.
+Lucifer squints at them, "Wait, Michael? You're talking about *Michael*? My douchebag brother Michael who's rotting in the Cage, drooling and touching himself everyday? And you think *he* has brighter lights than *me*?" He looks insulted.
 
 Dean tilts his head in Lucifer's direction, telling Sam, "He's not wrong."
 
-But Cas says, low and urgent, "Is he? If Lucifer is only half his light, and with the affect of Cage, Michael would also be weakened, we may actually need both of them. The angel infection comes from Darkness, we would have need God to cure it. Now that we can only get archangels, one is probably not enough."
+But Cas says, low and urgent, "Is he? If Lucifer is only half his light, and with the affect of Cage, Michael would also be weakened, we may actually need both of them. The angel infection comes from Darkness, we would have needed God to cure it. Now that we can only get archangels, one is probably not enough."
 
 "No, we are not getting Michael out of Cage. Out of question." Dean tells them firmly. "Am I the only one didn't forget the last time those two are in the same room? That didn't work so well!"
 
 "You're afraid," Lucifer laughs suddenly with realization. "You are afraid Michael would jump you the moment he's out. Had to say, learn from your brother, Dean. Sam doesn't have any issue walking around me."
 
-"Shut up," Dean glares at him outrageously, then turns to Sam. "Tell him to shut the fuck up! Okay, enough talking! We're NOT getting Michael out of Cage. Come on, it's like putting two nuclear together and hope they don't explode! What's the odds? End of discussion!"
+"Shut up," Dean glares at him outrageously, then turns to Sam. "Tell him to shut the fuck up!" Then back to both of them, "Come on, it's like putting two nuclear together and hope they don't explode! What's the odds?"
 
-His hands fidget on his flannel. "I'll see if we can grab some sorry-ass demonic soul for him to chew on, to start with."
+"But Dean --"
+
+"Okay, enough talking! We're NOT getting Michael out of Cage. End of discussion!" His hands fidget on his flannel. "I'll see if we can grab some sorry-ass demonic soul for him to chew on, to start with."
 
 "Dean, we may not have enough time for him to recover even if we did -- " Cas starts.
 
-"I said, we are done here." Dean swallows.
+Dean closes his eyes, shaking his head, taking a long breath. "One thing I know for sure from the past ten years -- we go down that road, some of us are gonna end up bloody -- first time round was you," he points at Sam, then at Cas, "-- second time was you, and then Sam again, and you again... It's like we've been taking turns to get the Death number. I lost count of how many times and how many people we've lost. If there is any other way, *any* at all, we're *not* putting Michael and Lucifer in the same room. For once, we are all here and alive, I'd like to keep it that way, you hear me?"
 
-A phone ring saves them the more argue that might would have come. Sam's phone vibrates on the desk. He picks up.
+Sam swallows. Cas nods slightly with drooping eyes.
 
-"Sam --" Jody's voice comes out of the speaker, muffled, troubled. "Do you mind come over? Bobby is here, and a few other folks you guys might want to meet."
+"I still think you're afraid of Michael. You can't hide from him forever --" Lucifer comments observantly.
+
+"You shut up," Sam points at him. And the Devil is muted.
+
+A phone ring saves them from more argues that might would have come. Sam's phone vibrates on the desk. He picks it up.
+
+"Sam --" Jody's voice comes out of the speaker, muffled and tired. "Do you mind come over? Bobby is here, and a few other folks you guys might want to meet."
 
 <br>
 
-**Words after the chapter:**
+**Words after the chapter/act:**
 
 About the quoted lyrics, they are actually mostly real songs from real band (that are actually beautiful metal songs that I enjoyed).
 
@@ -2327,6 +2337,8 @@ About the quoted lyrics, they are actually mostly real songs from real band (tha
 "Perdition awaits, my soul is at stake. Will I find a stairway to the skies in the end?" -- Within Temptation "Stairway to The Skies"
 
 "I've been in Hell for many years, and all the time is lost for me, for eternity. I try to take back what was mine, a prison they have made my mind, my enemy." -- Xandria "You Will Never be Our God"
+
+<br>
 
 #### draft notes
 
@@ -2392,7 +2404,223 @@ Dean's heart sinks: you are, aren't you? Why don't you tell me?!
 
 > souls in Heaven starts getting out of control, TFW thinks it's a case but run into Jo/Ellen/Ash/Bobby
 >
-> (with or without Bobby? Bobby's in Heaven's lockup since 1017, but maybe the prison is cracked too, all troops sick and dying/dead)
+> (with or without Bobby? Bobby's in Heaven's lockup since S10E17, but maybe the prison is cracked too, all troops sick and dying/dead)
+
+#### Act 1
+
+> INT. Jody's house - day (Dean, Sam, Cas; Jody, Bobby, Ellen, Jo, Ash, other hunters)
+>
+> souls in Heaven starts getting out of control, TFW meet old roadhouse sacrificed people
+
+Jody invites them in the second they knock on the door.
+
+"How many red lights you broke on the way?" She asks half-jokingly, leading them in. The three of them follow closely.
+
+They made the trip to Sioux Falls in three hours.
+
+Dean shrugs carelessly, "All of them?"
+
+"You did ask us to come quickly," Cas supplies beside him. "It sounds urgent, too."
+
+"Mostly because I don't really know how to host a house of ghosts, honestly." Jody tells them, walking into the living room. "And most of them are *your* friends."
+
+They gasp at the threshold of the room.
+
+Jody's place is like a ghost version of Roadhouse, crowded with translucent familiar figures.
+
+Bobby stands awkwardly closest to the entry, Ash leans against the sofa, Ellen and Jo wander around the kitchen, and a few other familiar-faced ex-hunters-slash-Roadhouse-frequent-visitors occupy the dining room. They look just like how they used to be before they were gone: Bobby with his favorite baseball cap, Ash in his nerdy sleeveless shirt, Ellen in her jacket, Jo with her jeans.
+
+Jody says, "I told Alex and Claire to stay in their rooms for the time being, just not to complicate things, before we sort this out."
+
+Dean stares at the crowd dumbly, mouth gaped, not knowing what to say.
+
+The four of them even look out of place now, for being not-ghost.
+
+"Bobby," Dean says dumbly, voice hoarse. He looks at them, one at a time. "Ellen, Jo, Ash."
+
+He doesn't even know all those other old hunters' names, some of them might even have passed before he's old enough for beer from Roadhouse, other names jump out from his childhood memory. "Caleb, Pastor Jim..." His voice chokes. He hasn't seen many of them for more than ten years now.
+
+Castiel puts a gentle hand on his shoulder, steadying him.
+
+"How?" Sam asks, in a similar choked voice, swallowing hard.
+
+"Heaven cracked open like an egg shell." Ash explains calmly, in a scientific manner, just like he used to be when they were doing research on Apocalypse. "I was hanging around in the wild when their rooms crashed down like paper house. People wake up from their Heaven dream loops and start walking around. I found some of them using my soul-locator -- I showed you last time you went there, if you still remember -- met Ellen and Jo, and a few other folks. More joined later. But none of us knew what's happening. We didn't run into any angels, just some white-black chunks of lights here and there. The whole place is shaking like kid's toy blocks, think *Earthquake* or *The Poseidon Adventure*."
+
+"And then we found the Heaven's prison, and we found Bobby." Ellen walks over, telling them. Then turns to Bobby, "I still haven't figured out how you could get yourself locked up when you are in Heaven."
+
+Bobby shrugs slightly, "For helping those idijts, of course."
+
+"Anyway," Ash continues. "No angel guards in the prison area, either, just as empty as anywhere else. So we busted Bobby out."
+
+"Wait, you picked lock in Heaven's prison?" Dean widens his eyes.
+
+"Sure I did," Ash answers smoothly, proud. "Not as difficult as hacking one on Earth, I'm telling you. The angels aren't very creative at building locks, actually."
+
+"Awesome," Dean can't help saying.
+
+"Well, after they got me out," Bobby picks up the telling, "since I'm the only one who had some ghost experience, they just followed me. Whatever cracks Heaven's having, they're like huge holes on the ground, you can't jump them all the time, sooner or later you miss, then you fall into the Vail. Boy, the Vail is busier than New York Times Square at this time of the year."
+
+"Since both my place and Bobby's place were burnt down," Ellen finishes for him. "Bobby led us here, the next most familiar and stable place to stay, I suppose."
+
+Bobby glances at Jody quickly, a little uneasy. "Sorry for not giving you a head up about the guest count."
+
+Jody waves dismissively, "Not like I get to host spirit party everyday."
+
+"Holy," Sam sighs, with a long exhale. He reaches a hand to Bobby just out of instinct, as if trying to touch him, hug him, but remember he's ghost at the last moment -- they all are. He lowers his hand, breathing out heavily.
+
+Dean just can't stop staring. "I'm so sorry, Ellen, and Jo. And Ash." He can barely find his voice through the lump in his throat. "I never get a chance to tell you guys, those... things happened to you, I'm so sorry."
+
+"Hey, it's okay. At least we made it to the Heaven." Jo walks out of the kitchen, coming closer to him, smiling gently. Her translucent golden hair flows naturally as she moves, as if wind can still pass through the threads of hair. She wears a short top, showing some lean muscle under, young and cute just like the way she was before she died.
+
+Dean can't stop thinking about the Hellhound wounds on her belly the day she and Ellen were gone. The explosion starts replaying in his head. He turns his gaze away, breathing shallow, trying desperately to hold his tears back. He can't bear looking at all those people they have lost all these years. Like he just said, before they left the bunker -- he had long lost count of how many they have lost, and he totally didn't expect to meet all of them all at once. He doesn't know what to do, what to say -- he doesn't even dare looking at them for too long.
+
+They are ghosts because of one mistake or another they made; they died because of them; their souls fell from Heaven into Vail now, which, is because one thing led to another and they let Darkness out and infect angels, so at the end of the day, is also because of them. Do they have to keep condemning everyone they knew from when they were alive, until long after they were dead?
+
+Dean puts a fist to his mouth, unconsciously starting to choke himself. Just so he can hold back all the thoughts and emotions. He's afraid he might burst into tears if he doesn't leave the room quickly.
+
+"Dean, it's not your fault." Cas whispers beside him, low and quiet. Only the two of them can hear. "None of them blame you. They were happy and peaceful before, in Heaven."
+
+Dean shakes his head slightly, unable to answer. He sobs quietly, remembering the burnt-down Roadhouse ruins and Ash's buried body, the bleeding-out gush on Jo's body, the gun hole on Bobby's head. He has to excuse himself to the bathroom for a minute just to get composed again.
+
+He stares at his own reflection in the mirror, thinking, he will not lose any more people in his life.
+
+He comes back, standing close to the doorway leading outside, his eyes lingering on Cas. Cas turns and meets his eyes, walking over to stand right next to him.
+
+"We should go back now." Dean whispers to him. "Lucifer. The light. The cure."
+
+Cas nods slightly, whispering back, "What about them?"
+
+"What about them?"
+
+"We can't leave them here with Jody. That would be very inconvenient."
+
+Dean huffs a small laugh, quietly answering, "That's one way to put it. What do you think, take them back to bunker? How can we even bring these many ghosts into bunker? Not like they have any unfinished business or connected items --"
+
+"They followed Bobby here. Maybe if we show Bobby the way --"
+
+"He can lead the others." Dean's eyes cheer up a little. "You're a genius, Cas."
+
+Cas's lip curls up a small curve.
+
+Dean walks back to the middle of the living room, glancing around him. "Listen, folks, it's been a really nice reunion, but I think it's time we jump back to work again." He points at the ceiling, gesturing, "Patching that cracked eggshell back up."
+
+Bobby frowns, "How are you gonna do that?"
+
+"Upstairs wasn't paradise, but it was decent." Ash says, slowly sitting straight on the sofa. "Most people get to live their happiest memory, Ellen and Jo still got a Roadhouse -- though none of the customers were real. I got to do my own things. But this?" He gestures around him, referring to all the ghosts in the room. "This is something seriously wrong. And if I have to guess, my money is on you guys knowing something about that."
+
+"So why don't you catch us up, and let's see how we can help?" Ellen nods at Dean, raising an eyebrow.
+
+Dean blinks, "Help?"
+
+"We are still hunters, sweetheart." Ellen smiles at him.
+
+"And while you're at it, you might want to start with introducing Cas," Jo suggests, tilting her head at the old hunters looking closely in their way. "Some of the folks haven't met him before."
+
+Their eyes sweep on Cas, landing expectantly on Dean.
+
+Dean nods faintly, clearing his voice, gesturing at Cas. "Alright, folks. This is Castiel. He's an Angel of the Lord. We've been working together for years." His finger draws a circle, rounding himself, Cas, and Sam in it. He finds it extraordinarily soothing, to just be able to do that.
+
+He glances at Cas and runs right into his eyes. Dean adds, "He's a close friend -- our best friend, really." He lowers his eyes, looking at the tip of his boots. His mind briefly pops a voice, quietly asking if that's the best word he can find to describe Cas, and he tells it, out of habit, *yes it is*.
+
+Ellen and Jo smiles small, and Bobby nods once. Ash gives Cas a once-over, and the other folks just listen to him.
+
+Dean carries on explaining the dying angel situation and the crashing Heaven problem to them. Which turns out to be a way longer explanation-slash-storytelling than he expected. He has to go all the way back to Abaddon to explain the First Blade, then Mark of Cain, then the Darkness, to finally reach the part of explaining what's causing all those angels dying.
+
+And the possible solution with Michael and Lucifer.
+
+"So you are living in a dead secret community's secret base, with a locked-up Devil in it. And you want the Devil to basically willingly self-sacrifice in order to save the whole world and all the remaining angels and the falling souls." Ellen summarizes slowly.
+
+"And by Devil, we're talking about the same Devil we ran into at that time with those demons and Hellhounds." Jo adds, eyes straight on Dean.
+
+Dean winces, looking away. "Yes," he admits, tasting a bitterness on his tongue. "And we also have to help Lucifer get stronger, more powerful and brighter, to even think of making it work."
+
+Bobby says decisively, "We should all go to bunker, then."
+
+Dean nods, "Thinking the same here."
+
+"-- And let Lucifer eat us." Bobby finishes.
+
+Dean jumps, "WHAT?!"
+
+Sam and Jody yell at the same time.
+
+"You said yourself, we are souls," Ash says plainly, "we are basically energy batteries. Yes or no, Dean, will Lucifer get more powerful after consuming us and eventually help save the world?"
+
+Dean glares at him. "NO!!" he yells, his eyes red.
+
+The room falls quiet. They look at him.
+
+He shakes his head, tears in his eyes, devastated.
+
+"With souls gone, you will have nothing left." Cas tells them in a solemn voice. "Do you understand? Even when Heaven is restored, you will be in nowhere, not even in the Empty. This will be the ultimate death."
+
+Ellen nods. "What's the alternative? Billions of souls fall to Earth and continue living as ghosts? What about the real living people? What kind of life is that?"
+
+"Please don't do this --" Dean pleads, voice shaking. "There must be another way."
+
+"What happens to Hell when Heaven falls completely?" Jo asks suddenly.
+
+They turn to Cas, eyes quietly waiting for an answer.
+
+"I do not know," Cas says, grimacing. "Without the balance of Heaven, depending on the King of Hell, the Gate may open, demons and corrupted souls can escape to the surface, wreaking the Earth."
+
+"The Earth will just become the living Hell," Bobby murmurs.
+
+"So basically, everyone dies, sooner or later, and everywhere is Hell or worse," Ash concludes.
+
+Ellen turns back to Dean, "What do you think? If we can fix that --"
+
+"Ellen," Sam says, choking. "That would mean we'll never see you again. Or Bobby, or Jo, or anyone. You'll stop existing."
+
+"I'll go with Mom," Jo says quickly. "Then whatever happens to us next, at least no one's alone."
+
+Bobby smiles softly. "What's dead should stay dead, right? You better prepare a damn well farewell this time."
+
+"No -- Not like this!" Dean continues protesting relentlessly. "We don't even know if Lucifer would help. If he decides he doesn't want to do shit, everyone's sacrifice would just be for nothing. You'll disappear for good, but for nothing! Can't we at least wait until there absolutely isn't any other choice, to consider this?" He swallows hard. "If it's up to me, we shouldn't even *think* about that!"
+
+"I agree," Cas resonates, watching his devastated face.
+
+Dean makes a wet sound.
+
+Ellen and Bobby exchange a look.
+
+"Alright, then." Bobby says, with a small nod. "First thing first, thought you said we are in a bit rush here? Then lead the way."
+
+"Right," Dean wipes his eyes dry, turning to the outside.
+
+They bit Jody goodbye.
+
+"Next time you need room for some ghost guests, you know who to call." Jody gives them each a hug.
+
+Dean holds her tight. "Thank you," he tells her.
+
+"I didn't do anything, you did all the talking." Jody smiles warmly.
+
+"Don't need to," Dean squeezes her shoulders. "Just, thank you, for everything."
+
+He finally lets her go. "Call us if you need anything. Or the girls --"
+
+"Of course." Jody reassures him. "You too."
+
+They ride home.
+
+<br>
+
+#### Act 2
+
+> INT. bunker (Dean, Cas, Sam; Bobby, Ash, Ellen, Jo, Lucifer, other hunters)
+>
+> the ghosts come to bunker, see Lucifer, some discussion, try to look for ways, gather souls for Lucifer; Cas sicker, more s
+
+Dean has to pull his drifting mind back from the imagination of a team of ghosts floating behind their car from time to time.
+
+
+
+
+
+###### [TBA]
+
+<br>
 
 ### Chap. 5: The Winchesters
 
@@ -2402,12 +2630,18 @@ Dean's heart sinks: you are, aren't you? Why don't you tell me?!
 >
 > John's interaction with Adam (could be awkward)
 
+<br>
+
 ### Chap. 6: Evil Never Rests
 
 > Charlie comes down and reunite, demons and ghosts of Frankenstein family know Heaven is dying, go out for a Carnival, Crowley headache, calls for TFW help
 
+<br>
+
 ### Chap. 7: You're Up, Dr. Phil
 
+> (chap 4-6: show Cas getting worse, destiel getting closer and accepted by their friends and family, Dean get over with overprotectiveness and resistance of getting Michael, now they move on to get Michael; the ghosts will also be there when Sam/Dean need help take back control, for once they're not saving the worlds all by themselves, they have everyone they loved and loved them with them, they are loved and strong, *that* is the actual fundamental brightest light, the love for everyone and everything in the world; Chap 9 is destiel love specifically)
+>
 > Cas's getting worse, the whole situation getting way worse, Heaven can't wait any longer, souls go wild in vail or fall from Heaven (quick fast-forward mention they run into some familiar family/friends but don't go into too much detail, passby lines about people running into their dead relatives but not as evil/vengeful spirits; add back scene with John/Mary)
 >
 > has to take Lucifer's advice to release Michael, get Rowena to help open Cage, get Michael out, Michael meets Lucifer, Winchester counseling time for Michael/Lucifer, help them make peace
@@ -2897,6 +3131,8 @@ Dean: You saved me so many times, it's my turn now.
 > Jimmy/Amelia get down, reunite with Claire, Jimmy/Cas tension; Dean helps handle Cas/Claire relationship
 >
 > (gradually increase intensity between Dean/Cas, more intimate and close as surrounding people become more intimate: friends (Ellen/Jo/Bobby) to daughter (Claire) to parents (John/Mary), Dean introduce Cas to every aspect of his life, vice versa with Claire)
+>
+> (Jody's house scene, chap 4, Claire knows Heaven's souls are falling, maybe she calls Cas to ask about her parents? maybe they fall to Jody's and run into her? Maybe she goes looking for them and run into Cas? maybe Jody calls Cas to let him know?)
 
 ### Timestamp 2: Jellyfish
 
