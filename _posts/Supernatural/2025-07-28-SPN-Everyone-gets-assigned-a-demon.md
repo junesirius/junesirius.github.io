@@ -4,7 +4,7 @@ title: 【SPN】Everyone gets assigned a demon
 date: 2025-07-29 20:53
 categories: ["SPN"]
 characters: 
-tags: ["Supernatural", "英文"]
+tags: ["Supernatural", "英文", "短评"]
 pov: 第三人称
 origin: Tumblr
 ---

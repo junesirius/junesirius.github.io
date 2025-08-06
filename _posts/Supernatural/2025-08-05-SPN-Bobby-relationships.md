@@ -4,7 +4,7 @@ title: 【SPN】Bobby's relationships
 date: 2025-08-05 18:03
 categories: ["SPN"]
 characters: ["Bobby Singer", "Jody Mills", "Fergus MacLeod/Crowley", "Ellen Harvelle"]
-tags: ["Supernatural", "英文"]
+tags: ["Supernatural", "英文", "短评"]
 pov: 第三人称
 origin: Tumblr
 ---

@@ -4,7 +4,7 @@ title: 【Destiel】Godstiel and Dean kneeling down
 date: 2025-08-04 03:00
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Bobby Singer"]
-tags: ["Supernatural", "destiel", "英文"]
+tags: ["Supernatural", "destiel", "英文", "短评"]
 pov: 第三人称
 origin: Tumblr
 ---

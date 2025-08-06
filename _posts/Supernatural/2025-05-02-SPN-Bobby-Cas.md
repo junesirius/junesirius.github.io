@@ -4,7 +4,7 @@ title: 【Destiel】Bobby-Cas relationship
 date: 2025-05-02 09:32
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Bobby Singer"]
-tags: ["Supernatural", "destiel", "英文"]
+tags: ["Supernatural", "destiel", "英文", "短评"]
 pov: 第三人称
 origin: Tumblr
 ---

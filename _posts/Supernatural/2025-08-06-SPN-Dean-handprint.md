@@ -4,7 +4,7 @@ title: 【Destiel】Why Dean doesn't have many sexual experience after S4
 date: 2025-08-06 01:09
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
-tags: ["Supernatural", "destiel", "英文"]
+tags: ["Supernatural", "destiel", "英文", "短评"]
 pov: 第三人称
 origin: Tumblr
 ---

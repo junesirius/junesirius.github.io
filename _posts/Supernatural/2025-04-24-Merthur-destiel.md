@@ -4,7 +4,7 @@ title: 【Destiel】Similarity with Merthur
 date: 2025-04-24 21:18
 categories: ["Crossover"]
 characters: ["Castiel", "Dean Winchester", "Merlin", "Arthur"]
-tags: ["Supernatural", "destiel", "英文", "亚梅", "梅林传奇"]
+tags: ["Supernatural", "destiel", "英文", "亚梅", "梅林传奇", "短评"]
 pov: 第三人称
 origin: Tumblr
 ---

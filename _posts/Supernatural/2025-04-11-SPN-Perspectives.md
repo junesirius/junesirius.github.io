@@ -4,7 +4,7 @@ title: 【Destiel】Perspectives
 date: 2025-04-11 18:30
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
-tags: ["Supernatural", "destiel", "英文", "想象"]
+tags: ["Supernatural", "destiel", "英文", "想象", "短评"]
 pov: 第三人称
 origin: Tumblr
 ---

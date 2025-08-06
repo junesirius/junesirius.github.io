@@ -4,7 +4,7 @@ title: 【SPN】Different Time Flow in Different Locations
 date: 2025-07-27 15:28
 categories: ["SPN"]
 characters: 
-tags: ["Supernatural", "英文"]
+tags: ["Supernatural", "英文", "短评"]
 pov: 第三人称
 origin: Tumblr
 ---
