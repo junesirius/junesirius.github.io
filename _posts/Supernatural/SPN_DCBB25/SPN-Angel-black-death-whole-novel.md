@@ -2624,13 +2624,7 @@ They ride home -- with the ghost of Bobby sharing the back seat with Cas.
 >
 > the ghosts come to bunker, see Lucifer, some discussion, try to look for ways, gather souls for Lucifer
 >
-> INT. bunker corridor (Dean, Jo)
->
-> Jo trolls Dean about her observation on him and Cas (lighter talk)
->
-> INT. bunker Cas's room (Dean, Cas)
->
-> Cas sicker, more symptom
+> ~~Jo trolls Dean about her observation on him and Cas (mood lighter)~~
 >
 > INT. bunker dungeon (Sam, Lucifer)
 >
@@ -2678,39 +2672,55 @@ Dean leaves them for the ghost discussions and excuses himself out of the room.
 
 He walks down the corridor leading to Cas's room.
 
-Jo catches up with him half-way, emerging from the side wall.
+<br>
 
-Dean almost starts when he's about to run right into the white mist around her. "Jeez, use the floor, will ya?" He grunts, halting his steps abruptly.
+> INT. bunker Cas's room (Dean, Cas)
+>
+> Cas sicker, more symptom
 
-"You're not paying attention," Jo points out sharply, studying his face. Her shape settles down as she concentrates, looking more solidified as her feet touch the floor and start walking alongside him, instead of sliding. "Got something on your mind?"
+The door is closed tight in Cas's room. There is light seeping out from the crack of the doorframe. Not the bedside lamp type of light, but the glazing bright white-blue light. The one from angel grace.
 
-Dean picks up his steps again, passing the spare rooms and storage rooms without looking. "Where do I start?" He answers glumly, glancing at Jo. "Take your pick, broken Heaven, dying angels, ghosts, Lucifer --"
+Dean knocks on the door. "Cas, you okay in there? Can I come in?"
 
-She looks solid enough now, so for a short minute, Dean can trick his brain to believe this really is the real Jo talking to him -- in a way, she is.
+A shrieking pitch sounds up from inside, piercing through the air like a blade. It sounds like angel's true voice, the one cracked the gas station window when Cas first tried to speak to him before meeting him in a vessel.
 
-"But those aren't really the things troubling you the most, are they?" Jo glances back, raising her eyebrows.
+The voice this time sounds even higher and more shrilly than that time, sounding like a combination of warning and yell of pain.
 
-Dean frowns. "What do you mean?"
+Dean has to cover his ears at the sound of that. The light under the doorframe recedes slowly.
 
-"You have dealt with Apocalypse before, and all those other world-ending events you told us about, that sounds almost like a daily job already. Lucifer isn't in his peak, and Sam has control over him, so that's also a relief. I don't think you really care that much about all those other angels, Dean," she pauses, looking at Dean in the eyes, "so there's only one thing -- one man, one angel -- left, really."
+"What's happening, Cas?" Dean raises his voice.
 
-"Cas." Dean breathes out, having to admit.
+He forces the door open and rushes in without waiting for an answer.
 
-He rubs his head, "Yeah, I'm worried about him."
+The last thread of white grace light flows into Cas's body right at the same moment. His eyes are brightened up for a short while, and then it fades completely.
 
-"Last I remember, he was all powerful and real angelic, with all the celestial energies and powers and wings." Jo says, considering her words carefully. "He seemed a little different now. More soft, more human."
+Cas is kneeling by the bedside chair, hands grabbing the chair arms, holding himself upright. His whole body is shaking. He frowns so deeply that every crinkled line on his face is yelling pain.
 
-"Yeah, tell me about it," Dean rubs his head, as they take a turn in the middle of a corridor to move down another. Jo follows.
+"What's that?" Dean bends over, looking at Cas closely. His face is more pale than a sheet of paper. Sweat hanging on his forehead. -- Do angels sweat?
 
-"Angels don't age, but surely the life with us is tiring. He died and came back so many times, he turned human, too." Dean says, frowning deeper. He remembers Cas's exhausted look recently again. When's the last *he* saw Cas go all powerful and celestial?
+Cas takes a few shallow breathes before answering, "I didn't want you to see me like that, Dean."
 
-"That's not what I mean," Jo cuts him off.
+He tries to get up on his shaky legs, using the chair to pull himself up. Dean lends him a hand and helps him sit down.
 
-Dean questions with his eyes. "What do you mean then?"
+Cas pants at the effort.
 
-"All those emotions in his eyes, it's like he understands all the feelings in human life -- I didn't know it's even possible for angels to understand "
+"Well, sorry, I worried. That's your true form, isn't it?" Dean watches him with a heavy frown. "Why did you leave your body? Going anywhere?"
 
+"I can better examine my condition in my true form," Cas confesses.
 
+"Okay? So that's good or bad?" Dean prompts.
+
+"It's... not improving." Cas chooses words carefully.
+
+"Not improving? What do you mean 'not improving'?" Dean is alarmed. "The healing is slow or not at all?"
+
+Cas swallows, hesitant.
+
+"Cas?"
+
+"Not at all," he stares at the floor of the room, almost like ashamed, as if it's his fault. "My grace is continuously failing, and I can't do anything about it. That's why it's making me so tired and weak all the time. I tried to keep it together when we were out there, but it is very exhausting."
+
+Dean inhales sharply, wiping his face. He breathes rapidly. "Okay, okay -- bad, but calm down. There gotta be ways to help you, right? Angelic medicine, angelic vitamin, anything?"
 
 
 
@@ -2719,12 +2729,6 @@ Dean questions with his eyes. "What do you mean then?"
 
 
 ###### [TBA]
-
-> Jo trolls Dean about her observation on him and Cas, solution with Lucifer and more souls (lighter)
->
-> talk about their heaven, Dean's apologies still
->
-> Cas sicker, more symptom
 
 <br>
 
