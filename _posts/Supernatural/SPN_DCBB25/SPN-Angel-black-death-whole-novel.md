@@ -139,9 +139,11 @@ Re-organize chapter structures, most acts can be chapters, avoid too long chapte
 
 Chap 3: Canon Vince's girlfriend Jen die from taking pills, OD to suicide, and Jen!Lucifer wear long bloody red dress
 
-Chap 3 loose ends: Nick's wife/son are ghosts, can't move on, they promised to help her get peace when everything is done
+Chap 3 loose ends for later: Nick's wife/son are ghosts, can't move on, they promised to help her get peace when everything is done
 
 ~~Chap 4: where are Claire/Alex (S12E06) in Radiohead concert, Omaha~~
+
+Chap 5 notes for later: John will meet Adam/Michael, and Mary will know, slightly awkward moments
 
 #### Reference (Notes after work?)
 
@@ -2702,7 +2704,7 @@ They ride home -- with the ghost of Bobby sharing the back seat with Cas.
 >
 > INT. bunker corridor (Dean, Jo)
 >
-> Jo trolls Dean about her observation on him and Cas (mood lighter, supportive friend regarding Dean/Cas)
+> Jo trolls Dean about her observation on him and Cas (mood lighter, supportive friend regarding Dean/Cas), Dean avoids the topic
 
 The view in the bunker looks surreal even for them, Dean thinks, when Bobby leads the rest of them through the Vail and into the bunker.
 
@@ -2864,7 +2866,7 @@ Dean blinks. "Now really isn't a good time for flirting, Cas." He hears himself 
 
 Dean rubs his cheeks, huffing a small laugh. "That sounds exactly like chick-flicks."
 
-He runs into Cas's serious eyes, and Dean swallows. "Alright, Sap, stay close then. We'll figure out how to fix you up."
+He runs into Cas's serious eyes, and Dean swallows, forcing his voice go lighter. "Alright, Sap, stay close then. We'll figure out how to fix you up."
 
 "Thank you," Dean hears a quiet murmur from Cas.
 
@@ -2926,16 +2928,82 @@ After quickly putting the mute button on the Devil and closing the dungeon door 
 
 <br>
 
-###### [TBA]
-
 ### Chap. 5: The Winchesters
 
-> Heaven gets even more loose, John/Mary get down (Missouri called them), Winchesters (happy) reunion dinner, like in show S14E13; but include Cas as part of family, officially in front of parents
+> Heaven gets even more loose, John/Mary get down (Missouri called them), Winchesters (happy?) reunion dinner, like in show S14E13; but include Cas as part of family, officially in front of parents
 >
+
+#### Act 1
+
+> INT. bunker garage (Dean, Sam, Cas)
+>
+> Dean gets phone call from Missouri, they know John/Mary's ghosts are here, they drive to Lawrence, Kansas
+
+Dean is about finishing up a phone call when Sam finds him.
+
+He's in the garage, frowning at the ground, pacing with his phone at his ear. One hand clenching a wiping clothe. A bucket of water sits on the ground beside Baby, which is slowly dripping water.
+
+"Thank you," he says to the other end wholeheartedly, his voice caught. Almost like the moment they went into Jody's house.
+
+Sam rushes to him, noticing Cas stands on the other side of the parked Impala, also with some cleaning supplies in his hands, but now just standing there, eyes following Dean's pacing.
+
+Dean slips the phone back into pocket and turns around.
+
+"I got news," Sam rushes.
+
+Dean raises an eyebrow. "I got news, too. You first."
+
+"I think Mom and Dad's souls also fell to the Earth." Sam is a little breathless. "You know, since the Heaven is cracking up, and I'm pretty sure they were both there before."
+
+"And I know exactly where they are." Dean smiles slightly at him, nodding at the phone now in his pocket with his chin. "That's Missouri."
+
+"Wait, Missouri Moseley? Oh wow, that must been, what, ten years now? Since last time we met her." Sam raises his eyebrows in surprise.
+
+"Yeah, I know." Dean rubs his nose, walking slowly back to car. "Since Dad went missing on a hunting trip and I picked you up from school. It's like a lifetime ago."
+
+Sam lets out a breath. "What did she say?"
+
+"Apparently when Mom and Dad dropped from Heaven, they went straight to our old house." Dean stands next to the car's driver seat, wiping his hand absently. "But they couldn't, because we taught that woman living in our house, Jenny, too well last time, and the house was protected by salt lines. So they were just drifting outside the house, a couple of unharmful white misty ghosts, and Missouri noticed. She invited them over to her place."
+
+"I don't know she's still keeping an eye on our old house, after all these times." Sam shakes his head unbelievably.
+
+"Neither do I." Dean wipes his hands again, then starts wiping a small spot on the rear mirror mindlessly. "I'm just so freaking glad she did."
+
+He moves to the trunk, throwing the wiping cloth inside, gesturing for Cas to finish up his side too. "Guess we're going home again."
+
+Sam helps to move that bucket of water away. "And meeting Mom and Dad, together, for the first time," he adds, smiling weakly, not knowing how to feel exactly. That's something he never thought he'd see one day, and now the idea almost intimidates him.
+
+Dean eases into the driver's seat, lighting the engine. Cas slides into the back seat.
+
+Sam hesitates outside the passenger seat. "Uh, Dean?" his voice sounds strange.
+
+Dean looks up at him. "What?"
+
+Sam ducks his head in Cas's direction, the move subtle. "You sure it's a good idea?"
+
+Dean glances reflexively at the angel on the backseat, raising his eyebrows. "Yes. Why?"
+
+Sam swallows. "I don't want to be a dick, but... it's going to be a family moment."
+
+"Cas is family, what's the problem?" Dean rolls his eyes.
+
+"Dad might not see it that way," Sam says quietly, struggling to get words out. "You know how he was. He might... not be very happy about it."
+
+"Then Dad can cope with it." Dean snaps, insistent. "Cas is coming."
+
+Sam glances at Cas with a guilty look, sitting into the passenger seat.
+
+Cas frowns slightly, looking from Dean's side to Sam's back. "It sounds improper for me to be in this trip," he says quietly, reaching to the door handle. "I will leave you with your family."
+
+"Cas!" Dean stops him harshly. "You are family. And you come with us." There is a undefiable resolute in his voice. Castiel retracts his hand.
+
+
 
 
 
 <br>
+
+###### [TBA]
 
 #### draft notes
 
