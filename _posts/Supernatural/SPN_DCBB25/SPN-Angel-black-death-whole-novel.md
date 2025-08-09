@@ -11,7 +11,7 @@ long_novels: 【Destiel】Angel Black Death
 published: false
 ---
 
-(**Tags:** canon divergent, post-S11 finale, minus BMOL and Mary, graphic depictions of violence, temporary main character death, main character near death experience, graphic depictions of disease symptoms, soul-grace dance, love is the best cure, Team Free-Will, profound bond, Eventual Happy Ending)
+(**Tags:** canon divergent, post-S11 finale, minus BMOL and Mary, S12 rewrite, graphic depictions of violence, temporary main character death, main character near death experience, graphic depictions of disease symptoms, soul-grace dance, love is the best cure, Team Free-Will, profound bond, Eventual Happy Ending)
 
 (**Rating**: Teen and up (for violence))
 
@@ -1820,7 +1820,7 @@ Sarah shakes her head apologetically. "The distance in this place -- the Vail? -
 
 "But he's on Earth, alive?" Dean takes a step toward Sarah, staring at her.
 
-"Yes," Sarah answers breathlessly. "It's dark, the place he is, but there is a small closed window, high up on the wall. Like a facility." She takes turns looking at them, pleading, "Can you help find him, and save him? I can't move on without knowing he's alright."
+"Yes," Sarah answers breathlessly. "It's dark, the place he is, but there is a small closed window, high up on the wall, barred. Like a facility." She takes turns looking at them, pleading, "Can you help find him, and save him? I can't move on without knowing he's alright."
 
 "We'll try our best," Sam tells her, but he looks away.
 
@@ -2484,7 +2484,7 @@ Dean's heart sinks: you are, aren't you? Why don't you tell me?!
 
 #### Act 1
 
-> INT. Jody's house - day (Dean, Sam, Cas; Jody, Bobby, Ellen, Jo, Ash, other hunters)
+> INT. Jody's house - afternoon (Dean, Sam, Cas; Jody, Bobby, Ellen, Jo, Ash, other hunters)
 >
 > souls in Heaven starts getting out of control, TFW meet old roadhouse sacrificed people
 
@@ -2698,11 +2698,11 @@ They ride home -- with the ghost of Bobby sharing the back seat with Cas.
 
 #### Act 2
 
-> INT. bunker (Dean, Cas, Sam; Bobby, Ash, Ellen, Jo, Lucifer, other hunters)
+> INT. bunker - night (Dean, Cas, Sam; Bobby, Ash, Ellen, Jo, Lucifer, other hunters)
 >
 > the ghosts come to bunker, see Lucifer, some discussion, try to look for ways, gather souls for Lucifer
 >
-> INT. bunker corridor (Dean, Jo)
+> INT. bunker corridor - night (Dean, Jo)
 >
 > Jo trolls Dean about her observation on him and Cas (mood lighter, supportive friend regarding Dean/Cas), Dean avoids the topic
 
@@ -2796,7 +2796,7 @@ He continues down the corridor hastily.
 
 <br>
 
-> INT. bunker Cas's room (Dean, Cas)
+> INT. bunker, Cas's room - night (Dean, Cas)
 >
 > Cas sicker, more symptom, Dean worries
 
@@ -2852,7 +2852,7 @@ Cas looks at him with sad eyes. "I don't know," he answers quietly.
 
 "If I am --" Cas gestures his body, "if I'm infected with the same Angel Black Death as all the other angels, I should be dead by now. The infected darkness would have eaten away my remaining grace, and I wouldn't be able to even talk to you. At best, I'll be one of those shrieking, waning lights before going out. But now I'm just tired and weak, and can't heal myself -- I don't know what's happening to me."
 
-Dean breathes rapidly, "Okay, okay -- still bad, but not super-duper bad, that's good news to me. There gotta be ways to help you, right? Angelic medicine, angelic vitamin, anything?"
+Dean breathes rapidly, "Okay, okay -- still bad, but not super-duper bad, that's good news to me. There gotta be ways to help you, right? Angel medicine, angel vitamin, anything?"
 
 Cas looks at him, pulling a tight smile, saying slowly, "There is one thing I notice that does help wondrously."
 
@@ -2874,7 +2874,7 @@ He runs into Cas's serious eyes, and Dean swallows, forcing his voice go lighter
 
 <br>
 
-> INT. bunker dungeon (Sam, Lucifer)
+> INT. bunker dungeon - night (Sam, Lucifer)
 >
 > Lucifer taunts Sam, show some overtaking, lead to next hint of Mary/John's souls in Lawrence, Kansas
 
@@ -2894,7 +2894,7 @@ Sam shakes his head disapprovingly at himself, then harshly, "What?"
 
 "Not yet. Just, wait." Sam shifts uneasily. "How's... how's your power?"
 
-The Devil shrugs. "Same as yesterday, slow. You do know it usually takes millennia to get on top, right? Time is usually something we have too much."
+The Devil shrugs. "Same as yesterday, slow. You do know it usually takes millennia to get on top, right? Time is usually a cheap thing, something we have too much, unlike lately --"
 
 Sam shrugs. "Normally I'd say that's a good thing."
 
@@ -2906,7 +2906,7 @@ Sam snorts a humorless laugh. "Right. You, generous."
 
 Sam's lips twitch. "No," he tells the Devil firmly. "You're 'good' only because you're our little bitch now. We'd like to keep it that way."
 
-"That's not very nice, considering you still need my help," Lucifer scolds.
+"That's not very nice, considering you still need my help," Lucifer scolds, sitting straight, eyes burning with a hint of rage.
 
 Sam is taken aback slightly, wetting his lips uneasily. "What you want?"
 
@@ -2918,7 +2918,7 @@ Sam is taken aback slightly, wetting his lips uneasily. "What you want?"
 
 "No -- And my parents are already dead, can't believe you're still using them as bait." Sam snorts.
 
-Lucifer looks at him like a teacher looking at a slow student. "Sam, Sam," he says with a sigh. "Where do dead souls go nowadays? I thought you already knew that. Meeting your proxy Dad is one thing, what do you say, time to meet your real Dad now?"
+Lucifer looks at him like a teacher looking at a slow student. "Sam, Sam," he says with a half-hearted sigh. "Where do dead souls go nowadays? I thought you already knew that. Meeting your proxy Dad is one thing, what do you say, time to meet your real Dad now?"
 
 Sam freezes.
 
@@ -2935,7 +2935,7 @@ After quickly putting the mute button on the Devil and closing the dungeon door 
 
 #### Act 1
 
-> INT. bunker garage (Dean, Sam, Cas)
+> INT. bunker garage - night (Dean, Sam, Cas)
 >
 > Dean gets phone call from Missouri, they know John/Mary's ghosts are here, they drive to Lawrence, Kansas
 
@@ -2945,15 +2945,15 @@ He's in the garage, frowning at the ground, pacing with his phone at his ear. On
 
 "Thank you," he says to the other end wholeheartedly, his voice caught. Almost like the moment they went into Jody's house.
 
-Sam rushes to him, noticing Cas stands on the other side of the parked Impala, also with some cleaning supplies in his hands, but now just standing there, eyes following Dean's pacing.
+Sam dashes to him, noticing Cas stands on the other side of the parked Impala, also with some cleaning supplies in his hands, but now just standing there, eyes following Dean's pacing.
 
-Dean slips the phone back into pocket and turns around.
+Dean slips the phone back into pocket and turns around, almost running right into his brother.
 
 "I got news," Sam rushes.
 
 Dean raises an eyebrow. "I got news, too. You first."
 
-"I think Mom and Dad's souls also fell to the Earth." Sam is a little breathless. "You know, since the Heaven is cracking up, and I'm pretty sure they were both there before."
+"I think Mom and Dad's souls also fell to the Earth." Sam is a little breathless. "You know, since the Heaven is cracking up, and I'm pretty sure they were both there before. Bobby and those others came down, they must also --"
 
 "And I know exactly where they are." Dean smiles slightly at him, nodding at the phone now in his pocket with his chin. "That's Missouri."
 
@@ -2963,7 +2963,7 @@ Dean raises an eyebrow. "I got news, too. You first."
 
 Sam lets out a breath. "What did she say?"
 
-"Apparently when Mom and Dad dropped from Heaven, they went straight to our old house." Dean stands next to the car's driver seat, wiping his hand absently. "But they couldn't, because we taught that woman living in our house, Jenny, too well last time, and the house was protected by salt lines. So they were just drifting outside the house, a couple of unharmful white misty ghosts, and Missouri noticed. She invited them over to her place."
+"Apparently when Mom and Dad dropped from Heaven, they went straight to our old house." Dean stands next to the car's driver seat, wiping his hand absently. "But they couldn't, because we taught that woman living in our house, Jenny, too well last time, and the house was protected by salt lines and irons and sigils. So they were just drifting outside the house, a couple of unharmful white misty ghosts, and Missouri noticed. She invited them over to her place."
 
 "I don't know she's still keeping an eye on our old house, after all these times." Sam shakes his head unbelievably.
 
@@ -2993,9 +2993,41 @@ Sam swallows. "I don't want to be a dick, but... it's going to be a family momen
 
 Sam glances at Cas with a guilty look, sitting into the passenger seat.
 
-Cas frowns slightly, looking from Dean's side to Sam's back. "It sounds improper for me to be in this trip," he says quietly, reaching to the door handle. "I will leave you with your family."
+Cas frowns slightly, looking from Dean to Sam. From where he's sitting, he can see half Dean's side and only Sam's back. "It sounds improper for me to be in this trip," he says with a low voice, reaching to the door handle. "I will leave you with your family."
 
 "Cas!" Dean stops him harshly. "You are family. And you come with us." There is a undefiable resolute in his voice. Castiel retracts his hand.
+
+The car races out of the garage, heading east under a starry sky.
+
+<br>
+
+> INT. Missouri's house - late night (Dean, Cas, Sam, Missouri, Mary, John)
+
+It's a short drive. Two hours is barely enough to keep the mind ready and the psychic's house is already in the view.
+
+The town is fast asleep in the past-midnight hours. They are the only car on the road, and Missouri's house is the only one with lights on in the block.
+
+Dean parks in front of the building.
+
+The town looks barely changed from the last time they were there, so is Missouri.
+
+"Come on in," she gestures the way through the corridor after giving them each a pat on the arm.
+
+Dean glances back at Sam and Cas quickly, anxiety rising like bubbles on the sea. He follows her, and the other two follow him.
+
+The living room is a few degrees colder than the rest of the house, even with the lit candles at the edge of the walls. Dean realizes the lights they saw from outside through the curtains are actually the flickering candlelights.
+
+"That should help them stable," Missouri knows exactly what they want to ask, nodding at the candles and the pattern they connect. There are sigils written on the floor and walls, too. "A ritual I learned, connecting the spirits with our physical world. Help them grounded, connected to the things or people they care most about -- you."
+
+Sam gives him a tight, appreciated smile and a quiet "Thank you."
+
+"I'll leave you boys to it then," Missouri takes a step to the side once they're in the living room. "Call me if you need anything, I'll be on the second floor."
+
+Dean nods dumbly, eyes can't tear away from the figures sitting on the sofa.
+
+There, on the center of the sofa, John and Mary sit side by side, with their hands braided together, looking like one of his old family photos. Except without a cradled baby between them.
+
+"Mom. Dad." Dean husks, closing the remaining steps between them, 
 
 
 
