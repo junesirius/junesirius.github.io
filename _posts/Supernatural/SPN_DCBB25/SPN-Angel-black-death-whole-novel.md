@@ -999,7 +999,7 @@ The quote "Darkness cannot drive out darkness; only light can do that." The seco
 >
 > Vince POV, Lucifer possess him as his latest vessel
 
-(**Words before chapter**: Some of the following parts heavily reuses S12 canon plot when Lucifer possess Vince Vincente.)
+~~(**Words before chapter**: Some of the following parts heavily reuses S12 canon plot when Lucifer possess Vince Vincente.)~~
 
 <br>
 
@@ -2620,7 +2620,7 @@ Bobby says resolutely, glancing around the crowd, "We should all go to bunker, t
 
 Dean nods, "Thinking the same here."
 
-"-- And let Lucifer eat us." Bobby finishes.
+"-- And let the Devil eat us." Bobby finishes.
 
 Dean jumps, "WHAT?!"
 
@@ -2890,15 +2890,15 @@ Lucifer blinks innocently, looking at him with a kicked puppy look, mouthing aga
 
 Sam shakes his head disapprovingly at himself, then harshly, "What?"
 
-"You got quite a crowd up there." Lucifer sniffs the air, smiling fawningly and asking, "Did you bring me any snack? You know, sweet little tasty bits, blinking like small stars?"
+"You got quite a crowd up there." Lucifer sniffs the air, smiling fawningly and asking. "Did you bring me any snack? You know, sweet little tasty bits, blinking like small stars?"
 
 "Not yet. Just, wait." Sam shifts uneasily. "How's... how's your power?"
 
-The Devil shrugs. "Same as yesterday, slow. You do know it usually takes millennia to get on top, right? Time is usually a cheap thing, something we have too much, unlike lately --"
+The Devil shrugs. "Same as yesterday, slow. You do know it usually takes millennia to get on top, right? Time used to be such a cheap thing, something we have too much, couple of eons gone in a blink, unlike lately --"
 
 Sam shrugs. "Normally I'd say that's a good thing."
 
-Lucifer pretends a crinkled frown. "That hurts. But that's okay, I'll let that pass. I'm a generous man." He huffs slightly.
+Lucifer pretends a crinkled frown. "That hurts, Sam. But that's okay, I'll let that pass. I'm a generous man." He huffs slightly.
 
 Sam snorts a humorless laugh. "Right. You, generous."
 
@@ -2918,13 +2918,13 @@ Sam is taken aback slightly, wetting his lips uneasily. "What you want?"
 
 "No -- And my parents are already dead, can't believe you're still using them as bait." Sam snorts.
 
-Lucifer looks at him like a teacher looking at a slow student. "Sam, Sam," he says with a half-hearted sigh. "Where do dead souls go nowadays? I thought you already knew that. Meeting your proxy Dad is one thing, what do you say, time to meet your real Dad now?"
+Lucifer looks at him like a teacher looking at a slow student. "Sam, Sam," he says with a half-hearted sigh. "Where did dead souls go nowadays? I thought you already knew that. Meeting your proxy Dad is one thing, what do you say, ready to meet your real Dad now?"
 
 Sam freezes.
 
-After quickly putting the mute button on the Devil and closing the dungeon door again, he runs up the stairs two steps at a time.
+After quickly putting the mute button back on the Devil and closing the dungeon door again, he runs up the stairs two steps at a time.
 
-"Dean -- we need to find Mom and Dad now --"
+"Dean -- we need to find Mom and Dad. NOW."
 
 <br>
 
@@ -2939,11 +2939,15 @@ After quickly putting the mute button on the Devil and closing the dungeon door 
 >
 > Dean gets phone call from Missouri, they know John/Mary's ghosts are here, they drive to Lawrence, Kansas
 
+(**Warning before chapter:** A little bit mention of John Winchester's A+ parenting.)
+
+<br>
+
 Dean is about finishing up a phone call when Sam finds him.
 
 He's in the garage, frowning at the ground, pacing with his phone at his ear. One hand clenching a wiping clothe. A bucket of water sits on the ground beside Baby, which is slowly dripping water.
 
-"Thank you," he says to the other end wholeheartedly, his voice caught. Almost like the moment they went into Jody's house.
+"Thank you," he says to the other end wholeheartedly, his voice caught. Almost like the moment they went into Jody's house. He finishes the call with "We're on our way."
 
 Sam dashes to him, noticing Cas stands on the other side of the parked Impala, also with some cleaning supplies in his hands, but now just standing there, eyes following Dean's pacing.
 
@@ -2953,7 +2957,7 @@ Dean slips the phone back into pocket and turns around, almost running right int
 
 Dean raises an eyebrow. "I got news, too. You first."
 
-"I think Mom and Dad's souls also fell to the Earth." Sam is a little breathless. "You know, since the Heaven is cracking up, and I'm pretty sure they were both there before. Bobby and those others came down, they must also --"
+"I think Mom and Dad's souls also fell to the Earth." Sam is a little breathless. "You know, since the Heaven is cracking up, and I'm pretty sure they were both there before. Bobby and those others came down, they must also be here somewhere. We need to find them."
 
 "And I know exactly where they are." Dean smiles slightly at him, nodding at the phone now in his pocket with his chin. "That's Missouri."
 
@@ -2967,11 +2971,15 @@ Sam lets out a breath. "What did she say?"
 
 "I don't know she's still keeping an eye on our old house, after all these times." Sam shakes his head unbelievably.
 
-"Neither do I." Dean wipes his hands again, then starts wiping a small spot on the rear mirror mindlessly. "I'm just so freaking glad she did."
+"Neither do I." Dean says, staring at the car but eyes unfocused. His fingers rub each other, then start wiping the rear mirror mindlessly. "I'm just so freaking glad she did."
 
-He moves to the trunk, throwing the wiping cloth inside, gesturing for Cas to finish up his side too. "Guess we're going home again."
+"We should go then." Cas voices, then quickly adding. "But perhaps not tonight, you must be very tired."
 
-Sam helps to move that bucket of water away. "And meeting Mom and Dad, together, for the first time," he adds, smiling weakly, not knowing how to feel exactly. That's something he never thought he'd see one day, and now the idea almost intimidates him.
+They did just come back from picking up a group of old hunter ghosts. It's been a long day.
+
+Dean snaps out of his thoughts, moving to the trunk, throwing the wiping cloth inside, gesturing for Cas to finish up his side too. He manages to put a faint smile on his lips. "Too late, already told her we're coming. Anyway, don't think I can wait to go home again."
+
+Sam helps to move that bucket of water away. "And meet Mom and Dad, together, for the first time," he adds. His lips twitch, torn between a smile and a grimace. He doesn't know how to feel exactly. Mom and Dad together, and with Dean and him, that's a whole complete family -- that's something he never thought he'd see one day, not before his time is due and he goes to in Heaven. And now the idea almost intimidates him.
 
 Dean eases into the driver's seat, lighting the engine. Cas slides into the back seat.
 
@@ -2987,21 +2995,23 @@ Sam swallows. "I don't want to be a dick, but... it's going to be a family momen
 
 "Cas is family, what's the problem?" Dean rolls his eyes.
 
-"Dad might not see it that way," Sam says quietly, struggling to get words out. "You know how he was. He might... not be very happy about it."
+"Dad might not see it that way," Sam says quietly, swallowing again, struggling to get words out. "You know how he was. He might be... not very happy about it."
 
-"Then Dad can cope with it." Dean snaps, insistent. "Cas is coming."
+"I'll deal with Dad. He's a ghost, he doesn't get a vote -- if he's unhappy, cope with it." Dean insists. "Cas is coming."
 
 Sam glances at Cas with a guilty look, sitting into the passenger seat.
 
-Cas frowns slightly, looking from Dean to Sam. From where he's sitting, he can see half Dean's side and only Sam's back. "It sounds improper for me to be in this trip," he says with a low voice, reaching to the door handle. "I will leave you with your family."
+Cas frowns slightly, looking from Dean to Sam. From where he's sitting, he can see half Dean's side and only Sam's back. "It sounds improper for me to be in this trip," he says with a low voice, reaching for the door handle. "I will leave you with your family alone."
 
-"Cas!" Dean stops him harshly. "You are family. And you come with us." There is a undefiable resolute in his voice. Castiel retracts his hand.
+"Cas!" Dean stops him harshly. "You come with us." There is a undefiable resolute in his voice. Castiel retracts his hand.
 
 The car races out of the garage, heading east under a starry sky.
 
 <br>
 
 > INT. Missouri's house - late night (Dean, Cas, Sam, Missouri, Mary, John)
+>
+> Winchesters reunion like in show S14E13, but include Cas as part of family, recognize destiel officially in front of parents (John needs digest)
 
 It's a short drive. Two hours is barely enough to keep the mind ready and the psychic's house is already in the view.
 
@@ -3009,25 +3019,175 @@ The town is fast asleep in the past-midnight hours. They are the only car on the
 
 Dean parks in front of the building.
 
-The town looks barely changed from the last time they were there, so is Missouri.
+Lawrence, Kansas looks barely changed from the last time they were there, so is Missouri.
 
 "Come on in," she gestures the way through the corridor after giving them each a pat on the arm.
 
-Dean glances back at Sam and Cas quickly, anxiety rising like bubbles on the sea. He follows her, and the other two follow him.
+Dean glances back at Sam and Cas quickly, anxiety rising in the air like bubbles on the sea. He follows her, and the other two follow him.
 
-The living room is a few degrees colder than the rest of the house, even with the lit candles at the edge of the walls. Dean realizes the lights they saw from outside through the curtains are actually the flickering candlelights.
+The living room is a few degrees colder than the rest of the house, even with the lit candles at the edge of the walls. Dean realizes the lights they saw from outside through the curtains are actually the flickering candle lights.
 
-"That should help them stable," Missouri knows exactly what they want to ask, nodding at the candles and the pattern they connect. There are sigils written on the floor and walls, too. "A ritual I learned, connecting the spirits with our physical world. Help them grounded, connected to the things or people they care most about -- you."
+"That should help them stable," Missouri knows exactly what they want to ask, nodding at the candles and the pattern they connect. There are sigils written on the floor and walls, too. "A ritual I learned, connecting the spirits with our physical world. Help them grounded, connected to the things and people they care about most -- you."
 
-Sam gives him a tight, appreciated smile and a quiet "Thank you."
+Sam gives her a tight, appreciated smile and a quiet "Thank you."
 
-"I'll leave you boys to it then," Missouri takes a step to the side once they're in the living room. "Call me if you need anything, I'll be on the second floor."
+"I'll leave you boys to it then." Missouri takes a step to the side once they're at the threshold to the living room. "Call me if you need anything, I'll be on the second floor."
 
 Dean nods dumbly, eyes can't tear away from the figures sitting on the sofa.
 
-There, on the center of the sofa, John and Mary sit side by side, with their hands braided together, looking like one of his old family photos. Except without a cradled baby between them.
+There, on the center of the sofa, John and Mary sit side by side, with their hands braided together, looking like one of his old family photos. Except without a cradled baby and a preschooler between them.
 
-"Mom. Dad." Dean husks, closing the remaining steps between them, 
+They look solid. Real.
+
+"Mom. Dad." Dean husks, closing the remaining steps between them.
+
+"Hey Dean," John looks at him up and down with a tight smile.
+
+"Sam," Mary says, eyes on her younger boy. She wears a long floral dress, it looks ordinary but beautiful on her.
+
+Rims of eyes turning red, Sam stares at both of them without a word. He moves after Dean, now standing right before them.
+
+Cas stays at the entrance.
+
+"Look at you. Look at both of you," Mary says, shifting her eyes from Sam to Dean. Her eyes are both so sad and so happy. She blinks fast. Her eyes must would have filled with tears if she has a body, Dean realizes.
+
+Mary glances at John, turning back to the boys. "One minute you were still both kids, and the next, we are here and you are all grown men now. I can hardly believe it's real."
+
+"Mom, you were in Heaven," Sam chokes out.
+
+"Yes, I think so. Living our best memories," Mary answers, her tight smile slightly wider. "We were about to go to the movies together, do you remember that?"
+
+"Slaughterhouse Five," Dean nods small, having a quiet sobbing sound. "The movie you and Dad watched so many times, and we just couldn't miss it when it re-released."
+
+"That's right," Mary smiles gently.
+
+Sam droops his eyes. He was too small to remember anything back then.
+
+"I was driving us to the theater, and a big black hole showed up from nowhere in the middle of the road. I couldn't stop in time, so we all went in and ended up outside our old house." John tells them, frowning. "What's happening? Something happened to the Heaven?"
+
+"Yeah, Heaven and angels got into some trouble." Dean wipes his eyes carelessly, sitting down on the armchair opposite the tea table. Sam sits on the armrest.
+
+Dean tells them about the angels' critical situations and the crumbling of Heaven.
+
+"Angels are real?" Mary and John ask at the same time.
+
+Dean huffs a small laugh. "Yeah, very. Angel with a capital 'A', you know, wings, halo, harp... In fact, speaking of, we got ourselves an angel buddy watching over us all this time." He turns to the angel standing by the entrance, waving him over.
+
+"Mom, Dad, this is Castiel, Angel of the Lord. Cas, my parents." Dean looks between them nervously.
+
+Cas walks into their sight slowly. "Hello," he says with his low voice. Meeting Dean's encouraging eyes, he adds a clarification, "I -- don't actually have a harp."
+
+Mary widens her eyes. "Are you... actually watching over them? I mean, when I told them angels were watching over them, I didn't actually know..." she glances at Dean. "Do you remember?"
+
+Dean's smile brightens. "Never forgot, never will." He looks up at Cas as the angel walks to the side of the chair, landing a hand on the back of his trench coat. "Yeah, he watched over us, saved me, saved the whole world a couple of times."
+
+"You saved me many times, too, Dean," Cas answers earnestly.
+
+John narrows his eyes. "Is that why you want to save the angels? Cure them of that disease none of us really know much about? Because you have an angel 'buddy' now?" He presses on the word "buddy" hard as if biting the word.
+
+Dean wets his dry lips. "I guess."
+
+John glances at Cas, looking him up and down, taking him in fully, his eyes lingering on Dean's hand. Dean takes his hand back uneasily, left hand rubbing the right.
+
+"And why would an angel save you?" John frowns.
+
+Sam squirms uncomfortably from where he sits. "Mom, Dad, it's already too late in the night now. Dean and I were exhausted, and we probably shouldn't continue disturbing Missouri. Why don't we go get some rest and we'll catch you up on everything later?"
+
+Dean shoots him a quick look.
+
+John doesn't move.
+
+Castiel straightens his standing, saying with a solemn voice, even lower than usual, bordering anger. "Because he deserves to be saved."
+
+Dean shivers. It's the same voice that told him, "I'm the one who gripped you tight and raised you from perdition," the same voice that asked him, "What's the matter? You don't think you deserve to be saved?"
+
+He glances at Cas, finding his eyes glaring at John. Dean swallows. "Cas --" he tries, but the angel hasn't finished yet.
+
+Castiel continues, the weight of his words pressed heavily into the air, "Unlike what you might be thinking, John Winchester, both your sons deserve saving. It is unfair of you to burden the salvation of your younger son on the shoulder of your firstborn, neither is your absence in their upbringing."
+
+"Cas!" Dean raises his voice, lifting a hand to squeeze Cas's forearm warningly, trying to stop him.
+
+Castiel turns to look at him in the eyes, but he's still speaking to John. His tone quieter now as his eyes turn gentler. "They deserve to be protected, cared for, loved, and saved, without requiring a reason."
+
+"I take it you're doing those for them?" John says in a hoarse voice.
+
+Cas nods gravely and then turns back to John: "It should have been you."
+
+John takes a breath as if trying to answer with something but Mary puts her free hand on his shoulder, stopping him. Mary looks at Cas, pulling a sad smile, and says genuinely, "Thank you, Castiel, for taking care of them while we were gone. We owe you."
+
+Dean makes a surprised sound. Sam blinks rapidly.
+
+Cas's tight stance relaxes a little.
+
+"That's not necessary." Cas answers slowly, the lines on his face softening. "You don't owe me anything, Mary. None of you do. Your sons already gave me more than I could ask for."
+
+"What's that?" John prompts.
+
+"Dean and I --" Cas pauses, turning to him.
+
+Dean's breath catches in the throat.
+
+"-- are family," Cas finishes. "And Sam, too."
+
+He turns back to look at John, eyeing him almost challengingly.
+
+Dean swallows again, waiting. Sam nods supportively.
+
+John scrutinizes the three of them closely, from Cas to Dean, then to Sam, and at last back to Dean. The look in his eyes changing the longer he searches their faces. He says slowly, eventually, "I see now why you brought the angel with you when you came to meet your mother and I, to our *family* reunion."
+
+Dean smiles narrowly. "That's right."
+
+"Is he as important to you as us?" John uses his free hand to draw a circle in the air, gesturing Sam, Mary, and himself.
+
+"Yes, Sir." Dean nods without hesitation.
+
+John lets out a short breath. "Alright, then."
+
+Dean blinks. "... Alright?"
+
+John shrugs slightly. "What else do you want me to say? I'll walk you down the aisle?" He glances at Cas again casually.
+
+Dean blushes fiercely. "No, no -- that's not what I mean. That's not what we --" he throws a quick glimpse at Cas, flustered. Cas is unmoved. "-- we are not... *that*."
+
+"Good," John says carelessly.
+
+Mary gives him a glare, telling Dean, "But even if you do, or, I don't know, if you ever want to talk about it, you can."
+
+Dean blushes harder, hearing his brother breath out a very quiet "wow". He closes his eyes and raises a hand to wipe his face to keep it cool and straight, then opens his eyes again. Voice light, he says, "Right, yeah, thanks, Mom."
+
+"Of course," Mary answers briskly.
+
+"This is so not what I expected for our little family reunion," Dean whispers under his breath, so quiet only Sam and Cas can hear.
+
+Sam stifles a laugh in his throat. Cas hums softly.
+
+"What now?" After a while, John speaks again. "Mary and I stay as ghosts or you actually have some plan for the next step?"
+
+Right, world-saving back on track again, he almost forgot about it with Mom and Dad here, and with them looking solid and real enough. Dean thinks. They still have enough problems that need fix but he's already too tired to even sit straight, let alone thinking.
+
+Dean glances in the direction of the living room exit and the stairs leading to the second floor. He asks Sam, "You think Missouri would be fine if we borrow her guest room for the night?"
+
+"Not much night left anyway," Sam answers.
+
+<br>
+
+#### draft notes
+
+~~Dean about John: "He's a ghost, he doesn't get a vote." "He's not happy about it, he can cope with it"~~
+
+~~S01E09 the woman living in their old house: Jenny, the toddler: Ritchie (12y old now)~~
+
+John/Mary's reaction on apparent Dean/Cas relationship/friendship/closeness → a little acceptance process, but in the end supportive; officially included in the Winchester family now (could be difficult in the beginning with John, but John has been in Heaven, so the peace in Heaven helped ease his temper/anger control issue)
+
+**for later:** John/Mary stay with them when Dean/Sam say yes to Michael/Lucifer, might make it easy as a support/family/love to help them regain control and break free. All those other important people in their lives are the key for them to regain control
+
+**for later:** When Michael comes back in Adam's vessel, there will be interaction between John/Adam, and Mary's reaction to it (could get awkward)
+
+**for later:** John is going to meet Bobby/Ellen/Caleb/Pastor Jim, all of them he failed (not Dean's guilt, it's his guilt)
+
+### Chap. 6: Evil Never Rests
+
+> Charlie comes down and reunite, demons and ghosts of Frankenstein family know Heaven is dying, go out for a Carnival, Crowley headache, calls for TFW help
 
 
 
@@ -3039,19 +3199,9 @@ There, on the center of the sofa, John and Mary sit side by side, with their han
 
 #### draft notes
 
-S01E09 the woman living in their old house: Jenny, the toddler: Ritchie (12y old now)
+quickly force transit from Chap. 5 to 6, Stein family raid bunker as demon/ghost (?) to revenge Dean, Charlie's soul happened to wander around the area, Charlie figured out way to dial for help (ghost affect electromagnetic field, phones/laptops are just eletronics, using waves to transmission, "you gotta be the first ghost to figure that out"), TFW rush back to save ghosts in bunker & Charlie; Crowley involved
 
-John/Mary's reaction on apparent Dean/Cas relationship/friendship/closeness → a little acceptance process, but in the end supportive; officially included in the Winchester family now (could be difficult in the beginning with John, but John has been in Heaven, so the peace in Heaven helped ease his temper/anger control issue)
-
-for later: John/Mary stay with them when Dean/Sam say yes to Michael/Lucifer, might make it easy as a support/family/love to help them regain control and break free. All those other important people in their lives are the key for them to regain control
-
-for later: When Michael comes back in Adam's vessel, there will be interaction between John/Adam, and Mary's reaction to it (could get awkward)
-
-### Chap. 6: Evil Never Rests
-
-> Charlie comes down and reunite, demons and ghosts of Frankenstein family know Heaven is dying, go out for a Carnival, Crowley headache, calls for TFW help
-
-<br>
+on their way they notice souls falling, ghosts everywhere, demons rising, black smoke everywhere, demons haunting living people and killing dead souls that had been on Heaven, good guys' souls are being exterminated, know how serious things are, really end-of-world vibe; as soon as cleaned up Steins and saved Charlie (Cas used his grace to help save Charlie (also guilty for Charlie's death, all TFW are guilty)), know the world can't wait, last straw is Cas, Dean agree to call Rowena to get Michael (Cas already lying on bunker infirmary, Bobby etc.'s ghosts look after him, Charlie promise to call Dean if anything happen to Cas (all those people he had protected are now taking turn to protect/look after him, not just Dean, but everyone they have saved along the way)) 
 
 ### Chap. 7: You're Up, Dr. Phil
 
@@ -3387,6 +3537,12 @@ Michael/Lucifer counseling session: Do you remember the time when...
 
 Michael/Lucifer deciding not saving angels: There is no darkness without light, so if they're all gone, so is the disease. Problem solved.
 
+
+
+When Michael comes back in Adam's vessel, there will be interaction between John/Adam, and Mary's reaction to it (could get awkward)
+
+John is going to meet Bobby/Ellen/Caleb/Pastor Jim, all of them he failed (not Dean's guilt, it's his guilt)
+
 ### Chap. 8: On the Crossroad
 
 > to stop Michael/Lucifer and save Cas/Heaven, Sam/Dean says yes, things get dirty, take back control, sacrifice/kill each other, explodes and kills Michael/Lucifer (in Heaven), purifies angels in Heaven, Heaven is saved, fallen souls/spirits are retrieved by angels restart working
@@ -3523,6 +3679,8 @@ Dean pauses and nods briefly but didn't look back. He's afraid he might not have
 
 <br>
 
+John/Mary/all friends/family stay with them when Dean/Sam say yes to Michael/Lucifer, might make it easy as a support/family/love to help them regain control and break free. All those other important people in their lives are the key for them to regain control
+
 ### Chap. 9: The Brightest Light
 
 > Cas uses up his power to get Sam/Dean back, is still dying because he wasn't in Heaven the purifying explosion happened; one cured angel/Dumah comes to bunker to explain+offer Heaven in their command (because Sam/Dean prove themselves more bright than archangels, they're practically new archangel/god in their eyes), Dean's soul is the brightest light, Dean can save Cas but only if he let himself be honest with his feelings, be open for the first time, Dean uses his soul power to touch Cas and purify/save Cas, soul-grace dance, don't need to say love but so much more than love, there is no word for them even "love" isn't enough, Cas is saved, all HE
@@ -3550,6 +3708,8 @@ Dean: You saved me so many times, it's my turn now.
 > (gradually increase intensity between Dean/Cas, more intimate and close as surrounding people become more intimate: friends (Ellen/Jo/Bobby) to daughter (Claire) to parents (John/Mary), Dean introduce Cas to every aspect of his life, vice versa with Claire)
 >
 > (Jody's house scene, chap 4, Claire knows Heaven's souls are falling, maybe she calls Cas to ask about her parents? maybe they fall to Jody's and run into her? Maybe she goes looking for them and run into Cas? maybe Jody calls Cas to let him know?)
+>
+> (canon mentioned: S12E06, case show up: S12E16)
 
 ### Timestamp 2: Jellyfish
 
