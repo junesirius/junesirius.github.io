@@ -60,3 +60,7 @@ Though, a little surprised, he didn't mention his car. Really thought a Dean Win
 Those things he just listed add up to about \$15000, give or take, that he usually just carries with so casually every day. Talking about quality of life!
 
 Alright, Mr. Ackles, just continue treating yourself with nice quality stuff and continue staying beautiful for us. <3
+
+<br>
+
+PS: The audio in this interview is so clear and awesome -- I can't get enough of his little tuts. It's addictive. Just saying.
