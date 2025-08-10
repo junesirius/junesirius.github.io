@@ -3039,7 +3039,7 @@ There, on the center of the sofa, John and Mary sit side by side, with their han
 
 They look solid. Real.
 
-"Mom. Dad." Dean husks, closing the remaining steps between them.
+"Mom. Dad." Dean husks, closing the remaining distance between them in quick steps.
 
 "Hey Dean," John looks at him up and down with a tight smile.
 
@@ -3051,11 +3051,11 @@ Cas stays at the entrance.
 
 "Look at you. Look at both of you," Mary says, shifting her eyes from Sam to Dean. Her eyes are both so sad and so happy. She blinks fast. Her eyes must would have filled with tears if she has a body, Dean realizes.
 
-Mary glances at John, turning back to the boys. "One minute you were still both kids, and the next, we are here and you are all grown men now. I can hardly believe it's real."
+Mary glances at John, turning back to the boys. "One minute you were still both kids, and the next, we are here and you are all grown men now. I can't believe it's real. What happened?"
 
-"Mom, you were in Heaven," Sam chokes out.
+"You were in Heaven --" Sam chokes out.
 
-"Yes, I think so. Living our best memories," Mary answers, her tight smile slightly wider. "We were about to go to the movies together, do you remember that?"
+"I guessed so. Living our best memories," Mary answers, her tight smile slightly wider. "We were about to go to the movies together, do you remember that?"
 
 "Slaughterhouse Five," Dean nods small, having a quiet sobbing sound. "The movie you and Dad watched so many times, and we just couldn't miss it when it re-released."
 
@@ -3111,7 +3111,7 @@ Castiel turns to look at him in the eyes, but he's still speaking to John. His t
 
 "I take it you're doing those for them?" John says in a hoarse voice.
 
-Cas nods gravely and then turns back to John: "It should have been you."
+"I try my best." Cas nods proudly with his chin high, and then turns back to John: "It should have been you."
 
 John takes a breath as if trying to answer with something but Mary puts her free hand on his shoulder, stopping him. Mary looks at Cas, pulling a sad smile, and says genuinely, "Thank you, Castiel, for taking care of them while we were gone. We owe you."
 
@@ -3119,7 +3119,7 @@ Dean makes a surprised sound. Sam blinks rapidly.
 
 Cas's tight stance relaxes a little.
 
-"That's not necessary." Cas answers slowly, the lines on his face softening. "You don't owe me anything, Mary. None of you do. Your sons already gave me more than I could ask for."
+"That's, not necessary." Cas answers slowly, the lines on his face softening. "You don't owe me anything, Mary. None of you do. Your sons already gave me more than I could ask for."
 
 "What's that?" John prompts.
 
@@ -3151,23 +3151,23 @@ Dean blushes fiercely. "No, no -- that's not what I mean. That's not what we --"
 
 "Good," John says carelessly.
 
-Mary gives him a glare, telling Dean, "But even if you do, or, I don't know, if you ever want to talk about it, you can."
+Mary gives him a glare, telling Dean, "But even if you do, or, I don't know, if you ever want to talk about it, you can." She looks at Cas, and tells him kindly, "Same for you, Castiel."
 
-Dean blushes harder, hearing his brother breath out a very quiet "wow". He closes his eyes and raises a hand to wipe his face to keep it cool and straight, then opens his eyes again. Voice light, he says, "Right, yeah, thanks, Mom."
+Dean blushes harder, hearing his brother breath out a very quiet "wow". He closes his eyes and raises a hand to wipe his face to keep it cool and straight, then opens his eyes again. Keeping his voice light, he says, "Right, yeah, thanks, Mom."
 
-"Of course," Mary answers briskly.
+"Of course," Mary answers easily.
 
-"This is so not what I expected for our little family reunion," Dean whispers under his breath, so quiet only Sam and Cas can hear.
+"This is so not what I expected for our family reunion," Dean whispers under his breath, so quiet only Sam and Cas can hear.
 
 Sam stifles a laugh in his throat. Cas hums softly.
 
 "What now?" After a while, John speaks again. "Mary and I stay as ghosts or you actually have some plan for the next step?"
 
-Right, world-saving back on track again, he almost forgot about it with Mom and Dad here, and with them looking solid and real enough. Dean thinks. They still have enough problems that need fix but he's already too tired to even sit straight, let alone thinking.
+Right, world-saving back on track again, he almost forgot about it with Mom and Dad here, and with them looking solid and real enough and grilling some angel. Dean thinks. They still have enough problems that need fix but he's already too tired to even sit straight, let alone thinking.
 
 Dean glances in the direction of the living room exit and the stairs leading to the second floor. He asks Sam, "You think Missouri would be fine if we borrow her guest room for the night?"
 
-"Not much night left anyway," Sam answers.
+"Not much of a night left anyway," Sam answers.
 
 <br>
 
@@ -3189,9 +3189,159 @@ John/Mary's reaction on apparent Dean/Cas relationship/friendship/closeness → 
 
 > Charlie comes down and reunite, demons and ghosts of Frankenstein family know Heaven is dying, go out for a Carnival, Crowley headache, calls for TFW help
 
+#### Act 1
 
+> INT./EXT. Missouri's house - early morning (Dean, Sam, Cas, John, Mary, Crowley)
+>
+> They receive a haunted phone call from Charlie (but doesn't know it's her yet)
+>
+> TFW+Mary/John leave Missouri's place, the world outside is full of fallen souls from Heaven. Crowley drops by to let them know the Stynes turn into demons and get out. They rush back to bunker.
 
+Dean wakes up to the ringing of his phone. It takes him a second of disorientation to remember where they are -- the herbal smell in the air reminds him of the psychic.
 
+He fumbles for the phone. The incoming number on the screen isn't a familiar one. He picks it up.
+
+The other end doesn't have anyone speaking, the sound coming out is a wave of high-pitched harsh white noise -- the kind that tells radios are disrupted by ghosts. That makes him dead awake.
+
+Dean jumps off bed to search for his jacket pocket. Sam, also woken up, already turns on his EMF. Dean holds out his phone. EMF screams ghost and the pointer swinging directly to the far end of the red zone.
+
+"Ghost," Sam mouths.
+
+Dean thinks for a second, bringing the phone back to his ear, speaking tentatively, "Bobby?"
+
+The tone in the speaker shifts, but still a fuzzy noisy one, no audible answer. Then the line is dead.
+
+Dean exchanges a look with Sam, "What do you think?"
+
+"What happened?" Cas wakes up from the extra pull-out at that moment. He said he didn't really have to sleep last night, but Dean insisted him get a few hours of closed-eyes just like they do. And now he's yawning and his hairs are all ruffled as messy as they possibly can.
+
+Dean catches him up.
+
+"You think Bobby figured out how to make a haunted phone call?" Sam raises his eyebrows.
+
+"Could be Ash." Dean considers, then immediately alerted. "Which means trouble. Why else would they get into all these trouble to phone us?" He starts rushing toward the door.
+
+"Must be Lucifer." Sam hisses, getting off the bed and hurriedly following him. "I was away for too long. We should get back."
+
+"What about your parents?" Cas asks behind them.
+
+Dean slows a step. "They could come with us like Bobby did." He's amused for a second by his own thought: "We should rename the bunker to 'Ghost B&B' or something."
+
+To which Cas answers, "Ghosts don't need to sleep or eat, Dean." Sam huffs a short laugh.
+
+They run into Missouri at the bottom of the stairs. She frowns deeply, looking profoundly troubled. Leaning on the handrail of the stairs, hand pinched on her temple, she looks like going to collapse any second.
+
+The room feels cold, now that they pay attention to notice.
+
+Dean rushes to hold her by the arm, leading her to sit down on the last step of the stairs. "What's wrong?"
+
+"The ghosts." Missouri says difficultly. "So many of them, so much confusion, so lost. It must be broken now."
+
+The spirits of Mary and John come closer with concerned looks, their forms flickering in and out. Dean notices the candles they saw last night were mostly out, the ritual to steady their forms waning, must be why they are now more difficult to stay stable.
+
+"You mean the Vail?" Sam asks hurriedly.
+
+Missouri nods miserably. "I can feel them. The Vail is broken because there are too many souls, lost from Heaven, and now they're lost to Earth. You must hurry," she looks at Dean in the eyes, then Sam, "I know you boys have some plan to save people, you always do. Whatever you want to do, hurry."
+
+Dean breathes rapidly. "Okay, we gotta go."
+
+They are outside the house in a blink.
+
+It's not just the room having a low temperature, they realize. The air on the street is also cold, damp with a layer of thick, white fog. Their breath comes out in a white puff. They have to remember this is June.
+
+Dean can barely see his car parked by the street from where they stand at the door. "Okay that looks really bad," he murmurs, running to his car, followed closely by his brother and Cas.
+
+"It's like last year all over again," Sam says breathlessly, "except not the Darkness's black fog, it's white fog now."
+
+"It's not fog," Cas corrects him, following them to sit inside the car. "They are all spirits, ghosts -- lost souls from Heaven." He stares outside the window anxiously.
+
+"You have any idea how many we're talking about?" Dean asks, looking at him through the rear mirror. "Hundreds? Thousands?"
+
+"Forty-six billion, seven hundred and fifty million souls were in Heaven." Castiel reports.
+
+Dean blinks, breathing out heavily. "Forty billion."
+
+"That's like, six times the living population on Earth," Sam stammers.
+
+Mary and John hesitate by the threshold, their forms barely visible through the ghost mist.
+
+"Which means you are royally screwed," Crowley chimes in, popping up in the backseat next to Cas. "Hello, boys."
+
+Dean turns around in his seat completely to stare at him. "What are you doing here? Let me guess, enjoying the end of the world with a popcorn."
+
+Crowley looks back at him unhappily. "Let me rephrase: *We* are royally screwed."
+
+Dean doesn't change his expression, Crowley rolls his eyes. "You have any idea how hard it is to run Hell already when you *can* use Heaven as a big bad wolf to tell them to behave? Imagine now they *know* the feathery wolves are all dying." He gives Castiel a pointed look.
+
+"We have enough problems in hands, angels, Heaven, ghosts -- we don't have time to worry about Hell," Dean cuts him off impatiently. "You're the King, you figure your things out."
+
+"Except you *do* have to care." Crowley leans in, breathing to the back of the driver seat. "Does the name Styne ring a bell?"
+
+"From Frankenstein?" Sam answers.
+
+"The one you slaughtered," Cas says at the same time.
+
+Dean makes a face. "I sent them down."
+
+"Yes, that one," Crowley continues, still looking at Dean, smiling weakly. "You might have to send them down again. Oh and, just a heads-up, you want to guess who they'd go first for a sweet revenge?"
+
+"Us." Sam grimaces. "What are we dealing with? Corrupted souls or demons?"
+
+"Twisted enough to be demons already," Crowley says plainly. "Unfortunate for you."
+
+"Dammit, Crowley, can't you keep your demons in a line? What do you do everyday, just busy sitting on the throne?" Dean can't help snapping.
+
+"What do I do?! What do you do everyday?! Just busy chatting with Mama and Papa and your puppies?" Crowley growls annoyedly, glancing around at Sam and Cas in the car. "It's like a big fat soul feast out there, you're lucky not all demons crushing the gates and getting out. So deal with it!"
+
+Dean is taken aback by his suddenly raised voice.
+
+Crowley's glance passes John and Mary who still stand by the door, not taking one more step as if they are afraid of merging into the mist. "What's wrong with Mama and Papa Winchester? Afraid of mingling with other ghost buddies?" He snaps a finger, John and Mary's spirits appear at the backseat. "Don't say I never did anything for you," the demon leaves with that, disappearing right at the same time.
+
+"Who's that?" John asks immediately.
+
+"Uh," Sam says intelligently.
+
+Dean puts his attention back to the road, start driving. The fog is so dense that racing back isn't an option. They are practically blind. On the upper side, there aren't that many cars on the road to worry about crashing in.
+
+"That's Crowley," Castiel supplies, seeing none of the Winchesters are going to answer.
+
+"Another angel buddy?" John prompts.
+
+"Another friend," Dean cuts in stiffly.
+
+"He seems friendly," Mary offers, conversationally.
+
+Sam huffs a short breath.
+
+"You got quite some new friends these years," John comments.
+
+"Wouldn't have made it all the way out till now without them," Dean answers.
+
+Mary puts a hand on his shoulder, but her translucent hand goes directly past his body. Mary sighs, taking her hand back. "I'm so sorry, Dean. Sam. I can't imagine how much you've been through."
+
+Sam laughs bitterly. "It's okay, Mom."
+
+Mary carries on asking them about all those difficult years, asking about every small details of pain and agony they try to wave off, looking at them with pained, sad eyes. Sam is the one does the most of the talking -- they have about two to three hours to kill anyway. John listens mutedly.
+
+When Sam starts talking about last year when Cas was going to let Lucifer possess him, Dean cuts in sharply, "Sam, shut up!"
+
+"It's okay," Cas offers.
+
+"No, I mean, seriously, shut up!" Dean stomps on the brake abruptly. The car halts with a jolt.
+
+Vaguely recognizable trees and lawns surround them, they should be right on the outer rim of the woods outside the bunker now. The mist before them, however, is not the same heavy white ghost mist like everywhere else.
+
+"Oh God," Sam gasps.
+
+Black smoke entangle with white mist, ghosty figures flashing in and out of shape, flaring and dimming as they shift. They catch glimpses of shapes of a man or a woman from the blurry view. It's hard to tell what's really happening, the views are so hazy that looks like they're glancing through frosted glass. But with Crowley's information, they have a good enough guess.
+
+"Demons are killing the ghosts." Dean grimaces.
+
+"Not just any ghost," Cas says, squinting.
+
+A red-haired ghost comes into shape, looking like trying desperately to run from the black smoke. But she's not fast enough, the smoke from demons catch up to her easily, wrapping around her waist and pulling her back. She screams, and her shape disperses in the white mist.
+
+"That's Charlie."
 
 <br>
 
@@ -3199,9 +3349,17 @@ John/Mary's reaction on apparent Dean/Cas relationship/friendship/closeness → 
 
 #### draft notes
 
-quickly force transit from Chap. 5 to 6, Stein family raid bunker as demon/ghost (?) to revenge Dean, Charlie's soul happened to wander around the area, Charlie figured out way to dial for help (ghost affect electromagnetic field, phones/laptops are just eletronics, using waves to transmission, "you gotta be the first ghost to figure that out"), TFW rush back to save ghosts in bunker & Charlie; Crowley involved
+> EXT. outside bunker - day (Dean, Sam, Cas, John, Mary, Charlie, Bobby, other hunters)
 
-on their way they notice souls falling, ghosts everywhere, demons rising, black smoke everywhere, demons haunting living people and killing dead souls that had been on Heaven, good guys' souls are being exterminated, know how serious things are, really end-of-world vibe; as soon as cleaned up Steins and saved Charlie (Cas used his grace to help save Charlie (also guilty for Charlie's death, all TFW are guilty)), know the world can't wait, last straw is Cas, Dean agree to call Rowena to get Michael (Cas already lying on bunker infirmary, Bobby etc.'s ghosts look after him, Charlie promise to call Dean if anything happen to Cas (all those people he had protected are now taking turn to protect/look after him, not just Dean, but everyone they have saved along the way)) 
+on their way they notice souls falling, ghosts everywhere, demons rising, black smoke everywhere, demons haunting living people and killing dead souls that had been on Heaven, good guys' souls are being exterminated, know how serious things are, really end-of-world vibe
+
+quickly force transit from Chap. 5 to 6, Styne family raid outside bunker as demon to revenge Dean (demon hurting ghosts, but can't get in), Charlie's soul happened to wander around the area, Charlie figured out a way to dial phone for help (ghost affect electromagnetic field, phones/laptops are just electronics, using waves to transmission, "you gotta be the first ghost to figure that out"), TFW rush back to save ghosts in bunker & Charlie; Crowley involved
+
+as soon as cleaned up the Stynes and saved Charlie (Cas used his grace to help save Charlie (also guilty for Charlie's death, all TFW are guilty)), know the world can't wait, last straw is Cas, Dean agree to call Rowena to get Michael (Cas already lying on bunker infirmary, Bobby etc.'s ghosts look after him, Charlie promise to call Dean if anything happen to Cas (all those people he had protected are now taking turn to protect/look after him, not just Dean, but everyone they have saved along the way))
+
+**self-reminder:** the unfamiliar incoming phone call is from burner in bunker
+
+**Add:** Charlie meets Ash/Jo
 
 ### Chap. 7: You're Up, Dr. Phil
 
