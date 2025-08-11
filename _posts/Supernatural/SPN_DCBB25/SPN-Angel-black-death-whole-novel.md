@@ -135,11 +135,13 @@ Cas lies on the bunker bed, bloody and dying. Dark spots and sick symptoms are s
 
 search "almost" and remove them
 
-Re-organize chapter structures, most acts can be chapters, avoid too long chapters
+Re-organize chapter structures, post acts as chapters on AO3, post as chapters on my own site. avoid too long chapters, okay to have too many chapters
 
 Chap 3: Canon Vince's girlfriend Jen die from taking pills, OD to suicide, and Jen!Lucifer wear long bloody red dress
 
 Chap 3 loose ends for later: Nick's wife/son are ghosts, can't move on, they promised to help her get peace when everything is done
+
+Chap 3 edit/add: Vince will come out to meet fans, the real concert will begin. Whatever he does, however he looks (even Dean doubt he looks bad which is true), the fans don't mind, they cheer for him, fetish, he's practically god to them, king of the world, no wonder Lucifer loves it (Add live concert experience memory here). They can just have the fight on stage. Absolutely no way to get the fans out of there, not even guns or explosion or fights or fire alarm. Lucifer snaps a finger and adds some fire effect, they'd just cheer/scream/clap. Everything is a performance on stage. They're not rational. The only way to save audience is to cuff and take Lucifer/Vince.
 
 ~~Chap 4: where are Claire/Alex (S12E06) in Radiohead concert, Omaha~~
 
@@ -2850,7 +2852,7 @@ Cas looks at him with sad eyes. "I don't know," he answers quietly.
 
 "What's different?"
 
-"If I am --" Cas gestures his body, "if I'm infected with the same Angel Black Death as all the other angels, I should be dead by now. The infected darkness would have eaten away my remaining grace, and I wouldn't be able to even talk to you. At best, I'll be one of those shrieking, waning lights before going out. But now I'm just tired and weak, and can't heal myself -- I don't know what's happening to me."
+"If I am --" Cas gestures his body, "if I'm infected with the same Angel Black Death as all the other angels, I should be dead by now. The infected darkness would have eaten away my remaining grace, and I wouldn't be able to even talk to you right now -- the deadly symptoms come very swiftly once they start showing. At best, I'll be one of those shrieking, waning lights before going out. But now I'm just tired and weak, and can't heal myself -- I don't know what's happening to me."
 
 Dean breathes rapidly, "Okay, okay -- still bad, but not super-duper bad, that's good news to me. There gotta be ways to help you, right? Angel medicine, angel vitamin, anything?"
 
@@ -3349,7 +3351,11 @@ A red-haired ghost girl comes into shape, looking like trying desperately to run
 
 > EXT. outside bunker - day (Dean, Sam, Cas, Charlie)
 >
-> They kill Stynes, save Charlie, everyone go back inside bunker; end-hour vibe, Cas is wounded in the battle fundamentally, definitely dying, last straw
+> too many demon Stynes surround them to torture/destroy Charlie, Dean ask Sam to take parents back to bunker, Dean/Cas try to save Charlie but overpowered
+>
+> Charlie volunteer self-sacrifice to save Dean/Cas, Cas volunteer to self-sacrifice to save Dean/Charlie, a little indirect confession
+>
+> Cas let demons inside his body and burn them, used up most his uninfected grace, pass out, wounded fundamentally, definitely dying, last straw to push Dean to agree to get Michael. Dean princess-carry Cas to bunker infirmary bed
 
 "Go! Get Mom and Dad back to bunker!" Dean shoves the Impala key into Sam's hand, already pushing the car door open as he speaks. Cas climbs out of the car from his side at the same time.
 
@@ -3369,13 +3375,13 @@ The demon smoke whirls up into the sky like a black hurricane, the sound of the 
 
 "I can smite them," Cas answers readily.
 
-Dean tears his eyes away from the black-white smoke to eye the angel. "You got enough mojo for that?"
+Dean tears his eyes away from the black-white smoke briefly to eye the angel. "You got enough mojo for that?"
 
 "It has to," Cas says sternly.
 
 "What do I do?"
 
-"Protect Charlie, round them up for me," Cas says.
+"Protect Charlie, round them up for me," Cas commands quickly.
 
 Dean weighs the demon blade in his hands, wondering aloud. "Is this pure iron? Is it going to hurt Charlie as well?"
 
@@ -3403,15 +3409,15 @@ Dean finds his eyes can hardly keep focused on these dissipating and gathering s
 
 Cas sprints to him, palm raising, eyes brightening. "Shut your eyes!"
 
-Light pours out of his palm as the demons descend. Dean throws himself on top of Charlie's spirit, covering his eyes with his elbow. A wave of electricity flies over his head, buzzing with energy. When he looks up again, the closely circling demon cloud is gone. And Cas is panting heavily, staggering unsteadily, can barely stand straight.
+Light pours out of his palm as the demons descend. Dean throws himself on top of Charlie's spirit, covering his eyes with his elbow. A wave of electricity flies over his head, buzzing with energy. When he looks up again, the closely circling demon cloud is gone. And Cas is panting heavily, staggering unsteadily, barely standing straight.
 
 Dean rushes to hold him up, lending a shoulder. "You okay?"
 
-Cas bites on his lips, nodding faintly. But there is nothing that says "okay" on his face.
+Cas bites on his lips, nodding faintly. But there is nothing that says "okay" on his face. Dean smells copper.
 
 Charlie floats up to them, studying Cas's face, worried. "What happened to you?"
 
-"Long story, we have to go now," Dean says briefly, glancing at the sky. The demons are far from gone. When Crowley said "the Stynes are out", he really thought he only meant that pretentious family he slaughtered, from the big daddy in suit to the hatchet men and that kid in the library. But they are definitely seeing more than a dozen demons around here.
+"Long story. We have to go," Dean says briefly, glancing at the sky. The demons are far from gone. When Crowley said "the Stynes are out", he really thought he only meant that pretentious family he slaughtered, from the big daddy in suit to the hatchet men and that kid in the library. But they are definitely seeing more than a dozen demons around here.
 
 *Frankenstein is a big family tree. They have existed for a thousand years.* Now he remembers. Sam did most of the research, and his memory of those times isn't always exactly clear. But he can piece things together. They are in bigger trouble than he thought.
 
@@ -3421,23 +3427,143 @@ Charlie floats up to them, studying Cas's face, worried. "What happened to you?"
 
 The black smoke retreats. Pain of Charlie's cry still echoes in the air.
 
-"Charlie? Charlie! You still there?" Dean yells from the top of his lung, focusing on the white mist surround them.
+"Charlie? Charlie! You still there?" Dean yells from the top of his lung, focusing on the white mist surrounding them.
 
 "I don't know how many more rounds I can take," Charlie answers faintly, thin mist gathering around tentatively. She flashes in and out like bad TV signal. "I don't think all of us can get out of here." She gives a strained smile. "Get Cas out of here, don't mind me."
 
 "No -- NO!" Dean points a finger at her, choking out. "We go home together, all of us!"
 
-Demons descend fast, even more than before, thick and sulfuric, clouding in, covering the sky. The morning hour looks like late in the afternoon right before a big thunderstorm.
+Demons gather fast, even more than before, thick and sulfuric, clouding in, covering the sky. The morning hour looks like late in the afternoon right before a big thunderstorm.
 
-"It's okay, Dean," Charlie manages to keep the warm and small smile, even if it's shaking, even if it looks like she'd cry if she's still capable of. She reaches out a hand, as if trying to touch Dean's finger, but the mist that forms the shape of her finger dissipates the moment they touch. "It's not your fault. I don't blame you. Not last time, not this time."
+"It's okay, Dean," Charlie manages to keep the warm and small smile, even if it's shaking, even if it looks like she'd cry if she's still capable of. She reaches out a hand, as if trying to touch Dean's hand, but the mist that forms the shape of her finger dissipates the moment they touch. "It's not your fault. I don't blame you. Not last time, not this time."
 
-Charlie  
+Charlie looks at him in the eyes, fearful but film. "Save Cas. You need him."
 
+"What about you?" Dean's eyes are wet.
 
+"I can distract them for a while. Hopefully long enough for you two to get out of here." She looks up. The black smoke is flying in the sky high above them. "They're here for me anyway."
+
+"No, they're here for me." Dean corrects.
+
+"Why?"
+
+"I killed every last one of those sons of bitches last time, after what they did to you." Dean tells her, managing a small bitter smile.
+
+"Oh." Charlie pauses for a beat. "Thanks for that. I guess."
+
+Dean follows her line of sight to glance at the demons waiting for the next opportunity to attack, his voice shaking with pain. "They'll tear your apart."
+
+Charlie shrugs slightly, making her voice light. "I died for you once. What's the fuss about doing it again, right?"
+
+Dean shakes his head. "It's different this time. You're a soul now. You die this time, you die permanently."
+
+"Well," Charlie gives him one of her best smiles. "I love you. We all love you."
+
+Trapped by her eyes and smile, Dean can't even find enough strength in him to answer with a classic Han Solo-style "I know."
+
+Cas pulls himself up from the ground strenuously, saying beside them quietly, "You know she's right, Dean. We all do."
+
+Aiming at the demons, he starts chanting in Latin: "*Et secta diabolica, omnis congregatio...*"
+
+Dean is startled, grabbing Cas's arm. "What are you doing?"
+
+Cas doesn't stop the spell, only returning him with a determined look. "*Omnis legio, omnis incursion...*"
+
+The black smoke of demons circling over their heads drop down rapidly and unnaturally, their shape distorted by the force. They look more like getting pulled and dragged involuntarily by a force as strong as the eye of a hurricane rather than trying to launch an attack actively. They're reacting to the spell, controlled by it.
+
+Charlie gasps loudly. "That's exorcism, but reversed!"
+
+"You are going to trap them in you." Dean realizes, tears falling down. "It will kill you."
+
+"I don't have enough power to smite all of them, but I can burn them up once they're in my vessel," Cas explains quickly between the spell. "Only way you two can get out of here safe."
+
+"Don't do this, Cas." Dean sobs, holding him tighter. "Don't make me lose you again."
+
+Charlie thinks quickly. "We only need your vessel as a trap, why don't you jump into Dean? We knife them with demon blade once they're in, then you jump back."
+
+"Yes, yes!" Dean agrees immediately, glancing at Charlie gratefully. "Come on, Cas! It will work! Yes! I'm okay with it!"
+
+"NO!" Cas shouts, over the shrieking sound of the demons that are coming closer and closer.
+
+"Why not?!" Dean shouts back.
+
+"Because I'm infected!"
+
+Cas gives him one last pained and desperate look, pulling his arm out of Dean's grasp forcibly, pushing him away. "Goodbye, Dean."
+
+Opening his arms toward the sky, he finishes the spell.
+
+Dean is pushed three feet away, dropping to the leaf-covered ground, having to watch the black smoke of demons pour into Cas's mouth, drowning him in the darkness. Demons let out an unending ululating shriek, whether it's pain or joy he can not tell. The sky clears slowly as they get absorbed. Cas's body drops to the ground when the last thread of smoke disappeared through his mouth.
+
+"CAS!" Dean cries desperately.
+
+Cas's body starts writhing on the ground, twitching compulsively into unnatural shapes. Hands and body bend sharply backwards, then slowly return to normal pose. Dean forgets to blink or breath, or how to use his hands and legs. He crawls toward Cas on his knees and hands, pulling himself to him.
+
+"He's still fighting," Charlie says in a strained voice behind him.
+
+There are still glints of white-blue light in his eyes, fighting with the black pupils. The tips of his lips curl up in an evil smile, but shortly turned back down into a thin line. His face turns focused, lines tight and crinkled. Unconsciously, he bites on his lips and grits his teeth. Slow stream of blood seep from the corner of his mouth, dripping to dye the ground red.
+
+Dean drags himself until he can reach Cas. Demon or not, he's not leaving his angel just like that.
+
+Dean grips Cas's cold hand in both his, pulling it to his lips, begging frantically. "You can do this, Cas! Fight them! You're strong. Come back to me, Cas." He closes his eyes. "Please --"
+
+*I can't do this without you.* His mind says. *You are too important to me.*
+
+He presses his palms around Cas's hand so hard as if he can will whatever strength he might have to Cas like that.
+
+*Please.* He can only hear this one thing his mind has left to say, over and over again. *Please, come back to me.*
+
+"Dean!" Charlie's sharp voice raises a pitch.
+
+Dean snaps open his eyes.
+
+The light of grace takes over Cas's eyes, burning brighter and brighter like it's exploding. Soon it's too blinding to watch. Dean has to duck down his head and shut his eyes. His view burns bloody red behind his eye lids even when his eyes are covered.
+
+He feels the hand he's holding droops slack when it's over.
+
+Cas's body stays dead still on the ground, eyes closed. His body feels cold.
+
+"No, no, no, no, no --" Dean throws himself over to him, crying helplessly. He reaches a finger under his nose, then sits back heavily on his heels.
+
+"Is he...?" Charlie chokes out difficultly.
+
+Dean lets out a ragged sound. "Alive."
+
+He can barely recognize his own broken voice. "He's still alive."
+
+He reaches out to pull Cas's limp body into his embrace tenderly, holding him there.
+
+A screech of car racing to them and brake sharply.
+
+"Oh God, oh God --" Sam gasps, rushing to them before the Impala is even completely halted.
+
+"Is he...?" Sam runs to his brother, seeing what he's holding, breathless and choked. "Dean, is Cas...?"
+
+Dean looks up at him, streaks of tear marks still on his face, but he's smiling. "Cas made it. Son of a bitch is so strong. I know it. He wouldn't just leave me like that."
+
+With that broken teary smile, he almost looks hysteric.
+
+Sam approaches gingerly, putting a finger on Cas's neck. He huffs out in relief. "He still needs to wake up from that coma." Sam gestures at Cas's unconscious body.
+
+"He's just exhausted," Dean says quickly. "A night's beauty sleep and he'll bounce right back."
+
+"Right," Sam's face twitches with a small smile. "Let's get him to the car."
+
+Dean bats away Sam's helping hand. Instead, he staggers and carries Cas in a princess pose back to the car all by himself. Sam doesn't argue.
+
+Dean doesn't show a sign of paying any attention to drive. He slides right back in with Cas on the back seat.
+
+Sam takes the cue and sits behind the wheel.
+
+"I'll just..." Charlie hesitates outside the car, flashing into form.
+
+Sam smiles guiltily. "Yeah, you can take the shotgun. And, nice to see you again, Charlie."
+
+Dean blocks out the rest of their talk as the car starts moving.
+
+He looks down at Cas's comatose face. "Let's go home."
 
 <br>
-
-###### [TBA]
 
 #### draft notes
 
@@ -3449,333 +3575,61 @@ as soon as cleaned up the Stynes and saved Charlie (Cas used his grace to help s
 
 
 
-Charlie to Dean: Save Cas. You need him.
+reverse exorcism: *Et secta diabolica, omnis congregatio, omnis legio, omnis incursion... infernalis adversarii, omnis spiritus exorcizamus!*
 
-Dean: What about you? They'll tear you up.
+**NOTE:** bunker is demon-proof, not ghost-proof. Baby is not demon-proof (unless in trunk), not ghost-proof.
 
-Charlie: I died for you once. What's the fuss about doing it again?
+**self-reminder:** the unfamiliar incoming phone call is random deserted phone from hikers in the woods outside bunker
 
-Dean: Charlie --
-
-Charlie: I love you.
-
-Dean can't even say "I know."
-
-Cas: reverse exorcism, trapping demons in his vessel, burn them up all at one → direct comatose (stay catatonic in chap. 7)
-
-**self-reminder:** the unfamiliar incoming phone call is from burner in bunker
-
-**Add:** Charlie meets Ash/Jo
+**Include:** Charlie meets Ash/Jo
 
 ### Chap. 7: You're Up, Dr. Phil
 
-> (chap 4-6: show Cas getting worse, destiel getting closer and accepted by their friends and family, Dean get over with overprotectiveness and resistance of getting Michael, now they move on to get Michael; the ghosts will also be there when Sam/Dean need help take back control, for once they're not saving the worlds all by themselves, they have everyone they loved and loved them with them, they are loved and strong, *that* is the actual fundamental brightest light, the love for everyone and everything in the world; Chap 9 is destiel love specifically)
->
 > Cas's getting worse, the whole situation getting way worse, Heaven can't wait any longer, souls go wild in vail or fall from Heaven (quick fast-forward mention they run into some familiar family/friends but don't go into too much detail, passby lines about people running into their dead relatives but not as evil/vengeful spirits; add back scene with John/Mary)
 >
 > has to take Lucifer's advice to release Michael, get Rowena to help open Cage, get Michael out, Michael meets Lucifer, Winchester counseling time for Michael/Lucifer, help them make peace
 >
 > Michael/Lucifer align to destroy world and let angels just die so they can control the world
-
-#### Act 1
-
-> INT. bunker (Dean, Cas, Sam, Lucifer)
 >
-> Dean/Sam know Cas is infected, go to Rowena to open Cage to get Michael out
+> (chap 4-6: show Cas getting worse, destiel getting closer and accepted by their friends and family, Dean get over with overprotectiveness and resistance of getting Michael, now they move on to get Michael; the ghost friends/family will also be there when Sam/Dean need help take back control, for once they're not saving the worlds all by themselves, they have everyone they loved and loved them with them, they are loved and strong, *that* is the actual fundamental brightest light, the love for everyone and everything in the world; Chap 9 is destiel love specifically)
 
-"Suit yourself. Good luck watching *him* die then, while you sort your shit out," Lucifer says joyfully, pointing a finger at Cas.
 
-Dean narrows his eyes. "What did you do?"
-
-"Cas, you ready to tell him or should I?" Lucifer raises his voice, pointedly looking at Castiel.
-
-Dean turns to him, worried and annoyed. "Tell me what? Cas, what is it?"
-
-Lucifer sighs dramatically. "A little tip, check his hands. You might want to wash your hands."
-
-Cas quickly tries to put his hands into his pocket, only to be grabbed by Dean at the wrist.
-
-"Dean, it's nothing." Cas starts saying.
-
-Dean ignores him, turning the angel's palms over. There, on all the fingertips, the skin has a darker color, like a black muddy coat. Almost like when one put their hands in a muddy pond and comes out dirty.
-
-Sam gasps quietly beside them.
-
-Dean stares at him, "Don't tell me you're infected."
-
-Cas takes his hand back, looking down, not answering.
-
-Dean's heart sinks. "You are, aren't you? You bastard, why don't you tell me?!"
-
-"We have enough to worry about," Cas says quietly, "I don't want to burden you."
-
-"Dammit Cas! How many times do I have to tell you you're not burden?" Dean yells at him. Cas flinches.
-
-"I thought you said you were warded last time, you were fine because --" He shoots Lucifer a glance, "you were protected or something."
-
-Lucifer comments, "That totally wasn't my intention. But you're welcome."
-
-"I think it's the time I went to Heaven when I heard their agony." Cas says weakly.
-
-"The trip that almost killed you? That now it's actually killing you?" Dean wipes his face. "I told you don't go! I TOLD YOU! Just let the flying monkeys do whatever they do, leave them be!"
-
-Cas glares at him at that. "I can't!" He snaps back. "Do angels just deserve to die? Why would I just be an exception then?!"
-
-Dean swallows.
-
-"Guys," Sam urges, putting a hand on both of them, pulling them apart slightly. "What are we going to do next? Cas, do you know how long do you have?"
-
-"As much as any other angels." Cas answers glumly.
-
-"Which means not much time, so, chop chop." Lucifer says gloatfully.
-
-"We *have* to get Michael now," Sam says, defeated.
-
-Dean's still glaring at Cas, who avoids his eyes.
-
-Dean takes a step back, sighing deeply. "I'll get the car ready. You give Rowena a head up we're on our way. And give Crowley a call too, we're going to Hell, again."
 
 <br>
-
-> INT. Cage - dark (Dean, Sam, Cas, Rowena, Crowley, Michael)
->
-> Rowena gets Michael out
-
-It feels like a Deja Vu again, going to Hell, going to the Cage in the nowhere. Descending the stairs into nothingness, with a demon and a witch on their side.
-
-Rowena is surprisingly cooperative. And Dean points it out.
-
-"What's the problem with you guys?" the witch rolls her eyes. "We don't do what you want, you're upset; we do what you want, you're upset. Make your mind, will ya?"
-
-Dean rolls his eyes too. "Jeez, just saying I'm surprised, that's all."
-
-"You are just sadistic, I know. Poor Dean." Rowena gives him an exaggerated smile. "Can't believe anything that's too easy to get -- a cake on a plate with a cherry on top, for example, or an angel." She glances at Cas pointedly. Dean averts his eyes, ignoring the twist in his guts.
-
-The Cage hangs in the middle of nothingness, locked by iron chains wiring it around all its corners. The small confined space they used to temporarily talk to Lucifer -- which turned out to be not so temporarily -- still stand on the ground.
-
-Rowena sets up her cauldron and the ingredients at the edge of where light still reaches, starts murmuring the spells. The runes and sigils carved on the Cage brightens up. A low rumbling sound like a distance thunder is rolling closer. More and more intense as the spell sinks in.
-
-"Shouldn't we prepare him a vessel like the one Crowley did for Lucifer?" Dean suddenly remembers, turning slightly to whisper at Cas's ears. But the demon overhears it.
-
-"Sorry, one and only. Not exactly a vessel retail factory around here, in case you didn't notice." Crowley says dryly.
-
-Dean shrugs.
-
-"He still had Adam." Cas says, then grimaces. "I'm sorry not saving your half-brother when I saved Sam."
-
-"Dude, don't blame everything on you, that's like -- six years ago now?" Dean nudges him slightly. "My fault too, if you want to play the finger-pointing game. Death gave me a choice, Sam or Adam, I saved Sam."
-
-Cas gives him a sad look. Dean returns with a sad smile of his own.
-
-Rowena's chanting continues, then halts abruptly. Their attention turns back to the ritual.
-
-The witch slices her palms and claps them together, yelling the last pose: "Torzul d, zamran!"
-
-The symbols on the Cage all lightens up at the same time, glowing together, combining into one, as bright as the Sun. The distant rumbling sound now becomes the thunder and lightening right on top of their head.
-
-"He'll kill us!" Dean suddenly realizes, yelling, covering his eyes. He feels Cas hurries closer to him, then a shadow covers over his head. But he can't open his eyes to see.
-
-"Vaporize, not kill!" Rowena yells back.
-
-"What's the difference?!" Dean is pissed. They're going to die from this stupid plan, and he's going to spend his last breath bickering with a three-hundred-year old witch.
-
-Then the blinding light recedes, a figure with the shadow of six wings descending from the air.
-
-Dean chances a glance. The figure wears Adam's body. But he doesn't want to think if that kid is still in there somewhere or butchered even worse than Sam's soul worse.
-
-"Michael," Cas is the first to speak. He straightens up, and Dean finds the shadow around him disappear, so does a soothing sense of security he felt just a moment ago. He blinks.
-
-"You wouldn't have been able to protect them, even with your wings, if I wanted to destroy every one of you," Michael says solemnly.
-
-"That's comforting," Dean comments. *Wings?* He mouths to Cas, who gives him a tiny little nod for confirmation like it's just the most normal thing.
-
-Michael turns to Dean slowly, looking at him straight. "Now, where can I get a decent burger or pizza? Adam is starving."
-
-<br>
-
-#### Act 2
-
-> INT. bunker - day (Dean, Sam, Cas, Michael)
->
-> Michael meets Lucifer, Winchester counseling time for Michael/Lucifer, help them make peace
->
-> Michael/Lucifer align to destroy world and let angels just die so they can control the world
-
-They sit across the table, staring at an archangel who's gulping at a piece of pizza.
-
-A piece of pizza that comes from frozen pizza.
-
-Dean watches him, not sure he should frown or amuse, so his face is twitches between the two. Sam has both his eyebrows raised high. Cas stares at him with narrowed eyes.
-
-"... Adam?" Dean chances.
-
-The kid looks up, with a bright look on his face, looking... happy. "This is so good," Adam answers. His voice is distinguishably higher than Michael's.
-
-"Michael lets you take over?" Sam asks the question in all their minds.
-
-"We sort of have an agreement," Adam says casually, in the middle of biting and chewing. "There isn't much to do in the Cage, you know. Just the two of us."
-
-"So I heard," Dean blinks.
-
-"And Michael said you were the reason we were stuck down there for so long." Adam says. "It's not seven years, you know."
-
-"It's not?" Sam prompts.
-
-"Shit," Dean blurts. He's been there forty years, in Hell, and came back to find it's only four months on Earth. Time flows differently.
-
-"It's like a thousand years." Adam nods, taking another huge bite on the frozen pizza, swallowing it almost without chewing. "I'm starving."
-
-Dean shifts in his chair uncomfortably. There is nothing to say to that. A thousand years, and now they want Michael's help. Dude is merciful enough not to blow them up on the spot.
-
-"I'm sorry," Dean hears himself saying.
-
-"We discussed this, it's not your fault." Cas says quickly, "It's mine."
-
-"And mine," Sam cuts in, giving them both a look. "I'm the one dragging you in, that's an accident."
-
-"That's right, Sam," Michael puts down the pizza Adam is busy eating, they can tell the change just from the pose and voice he's using. Not like either of them are trying to pretend to be the other. "That is your fault."
-
-Sam swallows hard, almost like immediately shrinking small in his chair. "I'm sorry. But I have to."
-
-"Then you must understand there is something I have to do as well." Michael announces, standing up.
-
-"And what's that?" Dean hurries up as well, watching Michael's every move.
-
-"The closure," he says definitively, moving out of the room. "The thing I should have done a thousand years ago, before the fall. I have to fight Lucifer."
-
-He regards the room with lights in his eyes. "And I can sense him. You have him here. So I will meet him, and I will end everything like it should be."
-
-Dean marches in front of him, blocking his way. Cas follows him one step behind.
-
-"Come on, you don't *have to* kill Lucifer. He's your brother! You can just... talk to him!" Dean tries.
-
-"Like that went so well every time with you and Sam." Michael doesn't stop, just keep walking. Dean has to walk backward, glancing back not to fall. So Cas lends him a hand. Sam follows them in a ten-step distance.
-
-"Mikey, so good to see you again." Comes Lucifer's long slimy voice from the other end of the war room the minute they enter.
-
-"What's him doing here? I thought he's supposed to be in the dungeon?!" Dean turns to Sam.
-
-"I can't keep watching him and commanding him what to do twenty-four seven, Dean!" Sam vents out bitterly. "Why don't *you* do the watching next time? Oh right, I forget, I'm the only one who can! So live with it!"
-
-Dean stares at him. "What crawled up your ass and died? Already bad enough to live with Devil, now we have to live with this?"
-
-"Look at them," Lucifer chuckles, gesturing at them, talking to Michael, "bickering like we did when we were young, you remember that?"
-
-Michael's marching steps slow down. He rounds the table in the war room, slowly closing their distance. "I remember," he says in a low serious voice. "That's eons ago. There isn't many stars. Dad was still creating them."
-
-Lucifer laughs, "The stars! Right. Don't you usually love to call every single one of them Andromeda or something?"
-
-Michael widens his eyes slightly, surprised. "You remember?"
-
-"Of course I do." Lucifer says easily, "Dad has to make a huge Andromeda there just to keep you from asking over and over again. And you still think it's too small."
-
-A small grin finds its way onto Michael's lips. "That's even before Raphael was created. The whole world is just you and me. Not even Dad came home that often. And we thought it's gonna be like that for forever."
-
-Lucifer nods eagerly. "Don't you miss that? The simplicity. The quiet world. Stars spinning, sea waving. Just you and me. Quiet and calm. We were free! And Dad just *had* to create more things to ruin it."
-
-Michael stops his steps, thinking.
-
-"See, you're talking, that's good. Right?" Dean speaks in a forced cheerful voice, encouraging. Sam gives him a weird look.
-
-Michael pulls out his golden blade. "That's just your trick, Lucifer, I see through you," he says, marching toward the Devil again. "I'm not nostalgic."
-
-Lucifer hurries around the table, circling it so they are always separated by the tables and chairs in between. "But you do want that, don't you? Come on, Mikey, just you and me, like old times."
-
-"It's Michael." Michael corrects him automatically. His grip on the blade is firm, but his steps hesitant.
-
-"Why do you want to kill him so much anyway?" Dean blurts out, from the threshold of the war room -- the "war" room, damn, that's too fitting.
-
-Michael throws him a glance. "That's my destiny. I have to do it."
-
-"And why's that?" Dean follows quickly. "Because he's evil? Because you hate him? Because Daddy said so? What?"
-
-Michael stills. He never really think about that. "I... don't hate you," he says slowly, looking at Lucifer. "I loved you."
-
-Dean blinks rapidly. Okay, he didn't see this coming.
-
-Lucifer slows his pace, too. He stutters, "That's... that's... I don't know what to say."
-
-"It's all just part of Dad's plan. He told me to kill you, so I'm doing it." Michael lowers the blade in his hand.
-
-"Daddy's blunt instrument," Cas whispers, reciting. "It is the same on Earth as it is on Heaven."
-
-Dean flinches at that, shaking his head in disbelief.
-
-"Anyone is gonna tell them how big of a pain in the ass Chuck is?" Dean talks under his breath.
-
-Michael hears him anyway, looking sharply at his direction. "You have seen God?"
-
-Dean doesn't expect the attention shift back to him so soon, glancing at Cas and Sam quickly. He answers, "Yeah, just a dorky little guy, a writer, apparently. We helped him fight against Amara last year."
-
-"And guess who's invited to the party?" Lucifer says, raising his hand, then pointing at Michael, "And guess who isn't?"
-
-"I didn't even know," Michael says, distressed. "Dad is back but he didn't even bring me out of Cage? Why would he invite you, instead of me? Did He forget about me?" He stops circling the tables, just leaning on one edge, holding his hands on it, supporting his body as if the weight suddenly become too much.
-
-Dean exchanges an anxious look with Cas and Sam, none of them know how to answer to that.
-
-Lucifer watches his brother closely, leaning in cautiously. "Not just forget, I think He didn't care. I'm sorry, Michael. I even mentioned we needed you, last time we locked Auntie away, it took Dad plus all four of you. So I told him, 'We need Michael, he's in the Cage.' And you know what Dad said?"
-
-Michael glances up at him, waiting.
-
-"Nothing! Dear old Dad didn't say anything, we just moved on, talking about battle plans." Lucifer announces.
-
-"He didn't care about me." Michael says, with dawning realization. He pulls a chair and sits down heavily, the blade left forgotten on the table. Looking far too tired and defeated. "I did everything he asked, I was even ready to murder the brother I practically raised. And he didn't even come for me in the Cage."
-
-Lucifer rounds the table, carefully planting his hand on Michael's shoulder. "It sucks, I know. And Dad left this world again, by the way," he says, looking down at Michael. "But you still got me, Brother."
-
-Michael doesn't move, just staring at the air in front of him, murmuring. "Why would he do that?"
-
-"Less about why, more about what, what do you say?" Lucifer tells him, almost gently. "So, you and me, we are good?"
-
-Michael nods wordlessly.
-
-Lucifer winks at the threshold where the Winchesters and Castiel have been staying.
-
-Dean and Sam let out a long relieved breath. Cas's face is still grim.
-
-"Told you, talking works perfectly, right?" Dean grins, starting to walk into the room. Cas whispers a low "Careful" behind him.
-
-Lucifer shoots him a quick glance.
-
-Michael doesn't bother looking up.
-
-"Can we start talking about the plan to save the angels now?" Dean asks.
-
-"No," Michael answers, single-syllably.
-
-"What?" Dean blinks.
-
-"I said, 'No'." Michael repeats, raising his tired head.
-
-"You didn't even hear me out, Buddy." Dean struggles to put on half a smile.
-
-"I don't care," Michael answers, disinterestedly.
-
-"The angels are dying of the Darkness infection! The Angle Black Death thingy, look at Cas! Only you guys can save them. Come on, aren't you supposed to be all brothers and sisters?" Dean urges, starting to get desperate.
-
-"Not really," Michael says, breaking his hope. "I only have one real brother, and he's right here. Not even Raphael and Gabriel are close to us. If all the other angels are dying, I don't really care. There is no one else at the beginning of time besides us, and I think --" he glances at Lucifer quickly, "-- I'd like that two-people time."
-
-"What about Adam?" Sam ventures. "You seem to care for him."
-
-"Adam and I spent a thousand years together. Lucifer and I eons. What do you think?" Michael asks emotionlessly.
-
-Dean huffs annoyedly.
-
-Lucifer pats Michael on the shoulder, gesturing to his body. "Another thing, Bro, those annoying human tied this body to the Cage magic, you think you can do anything about that?"
-
-Michael snaps his fingers.
-
-Sam yells a desperate "No --"
-
-The Devil's eyes shine bright and bloody red with a huge grin.
-
-<br>
-
-**Notes for the chapter:**
-
-The spell Rowena used to open Cage: "Torzul d, zamran!" was referenced from the Enochian Lucifer used to rise Death. The Enochian can be roughly translated as: "Rise, show!"
 
 #### draft notes
+
+direct comatose (Cas stays mostly catatonic in chap. 7)
+
+(After Sam finally came to pick them up)
+
+Dean: What's taking you so long?
+
+Sam: Demons are everywhere. Had to take detours. You remember Baby isn't exactly demon-proof except for trunk, right? You have any idea how many demons our Mom and Dad had pissed?
+
+Dean: Probably as many as us if they're as good as they said.
+
+
+
+(After back to bunker)
+
+Charlie to Dean: If I'd known (Stynes are here for Dean), I probably shouldn't have called you then.
+
+Dean: You are the one giving me that haunted phone call? How did you do that?
+
+Charlie: Ghosts are electromagnetic waves, phones are electronics. I found a lost phone out there, I tried to affect its electromagnetic fields, and it worked.
+
+Sam: You're a genius.
+
+Charlie: I know.
+
+Ash: Damn, I should have thought about that. (Try that on laptop, work so much faster than buttons)
+
+Charlie to Ash: Who are you?
+
+Sam: Charlie, Ash. Ash, Charlie. You two are going to have so much to chat about.
+
+
 
 Cas: With their damaged half-full grace, we may need both of them.
 
@@ -3803,9 +3657,11 @@ Michael/Lucifer deciding not saving angels: There is no darkness without light, 
 
 
 
-When Michael comes back in Adam's vessel, there will be interaction between John/Adam, and Mary's reaction to it (could get awkward)
+**from Chap 5 notes:** John/Mary stay with them when Dean/Sam say yes to Michael/Lucifer, might make it easy as a support/family/love to help them regain control and break free. All those other important people in their lives are the key for them to regain control
 
-John is going to meet Bobby/Ellen/Caleb/Pastor Jim, all of them he failed (not Dean's guilt, it's his guilt)
+**from Chap 5 notes:** When Michael comes back in Adam's vessel, there will be interaction between John/Adam, and Mary's reaction to it (could get awkward)
+
+**from Chap 5 notes:** John is going to meet Bobby/Ellen/Caleb/Pastor Jim, all of them he failed (not Dean's guilt, it's his guilt)
 
 ### Chap. 8: On the Crossroad
 
@@ -3819,69 +3675,13 @@ John is going to meet Bobby/Ellen/Caleb/Pastor Jim, all of them he failed (not D
 >
 > (The Brightest light that save Heaven and world is Dean+Sam's love to the world/Cas and their willingness of self-sacrifice)
 
-#### Act 1
 
-> INT. bunker (Dean, Cas, Sam, Lucifer, Michael)
->
-> to stop Michael/Lucifer and save Cas/Heaven, Sam/Dean says yes
-
-Lights explode in the bunker. Lightening flickers, thunder tumbling. The shadow of archangel wings cast onto them, high and huge, like the black curtain of the night sky itself. Lucifer stretches his shoulder, turning his arms around comfortably, twisting them around as if it's just some kind of morning exercise warm-up. All the while the air is filled with buzzing electricity.
-
-The air is unsettling, hairs standing -- it's probably that acute sense of death before the actual moment that people sometimes talked about, the premonition of death. Dean thinks. There is no way out this time.
-
-He feels that subtle cover of warmth and safety again, invisible, melted into the air, but it's there. He turns to look at Cas.
-
-Castiel has his eyes shut, frowning so deeply his whole face is crumbled. His shoulders are hunched. The light from him is so dim compared to Lucifer's but it's still there. And Dean can see it. He can see it so vividly now and it horrifies him. He sees dark circles curling inside that light, but Cas is still trying his best to stretch his wings out, covering on him and Sam. His wings, oh God, they are so battered, broken, barely only the wing bone keeping the shape. The black shadows of feathers are continuously dropping and falling just as he watches. He can't see them in the reality, but he imagines them falling on to him right now.
-
-Even in the combined wraith of Michael and Lucifer, even when Cas *knew* the archangels can kill him, kill them as simple as snapping a finger, he would do everything he can to save Dean, to protect Dean, to have his wings cover Dean even when they're burned and broken.
-
-At the moment of death, Dean finds his mind drift away from the crumbling Heaven, from the endangered angels, the falling souls, the archangels that are about to destroy the world or just let the world destroy itself. He finds his mind wander out, and circle around Cas. He should have helped Cas fix wings. He should have asked if Cas miss fly, miss home. He should have talked to Cas about so many other things but they never did. All they ever do is just being there, always being there wherever they go. And he remembers -- it feels too long, and he remembers when he set out to the suicide mission of assassinating Amara, that eve of his death, Cas told him, "I could go with you." He meant to come back and ask him why he said that. When they embraced the reunion and celebrated the victory. He really was thinking that, when they were drinking late that night. He remembers thinking to himself, he'd ask once he finished that glass of drink in his hand, and then he always reach for a next glass thinking he'd do that after that one.
-
-There are things should have been done. There are words should have been said.
-
-Dean looks at Cas's broken wings, in the menace of Lucifer's wraith, thinking, they're broken, but they're still so beautiful, so bright and beautiful. They're Cas's.
-
-He pushes Cas aside. The thin warm sense of cover slide away.
-
-Dean stands straight, talking to Michael directly. Not wincing at the light, not blinking.
-
-He says: "Yes."
 
 <br>
-
-"What?" Lucifer pauses his hand rising above his head, blinking his bloody red eyes in confusion.
-
-"NO, DEAN!" Cas yells, desperate. "Don't do this!"
-
-Sam gasps loudly, the sound of air pulsing into his lung vibrating through him.
-
-And Michael, finally stirred from his stoic stance, raising a stopping hand at Lucifer, then turning to Dean. He stares into his soul, and asks, "What did you say?"
-
-Dean meets his eyes straight on. "I said Yes, you son of a bitch."
-
-<br>
-
-#### Act 2
-
-> 
-
-
-
-
-
-> to stop Michael/Lucifer and save Cas/Heaven, Sam/Dean says yes, things get dirty, take back control, sacrifice/kill each other, explodes and kills Michael/Lucifer (in Heaven), purifies angels in Heaven, Heaven is saved, fallen souls/spirits are retrieved by angels restart working
->
-> Cas think they're dead (which is true), go to Heaven/Vail to find them, try to save them again, find in a setting like HP King's Cross (rewrite as Dean's memory), let them decide if they want back
->
-> Dean's decision point: choose Heaven/John/Mary and have his peace, or Earth/Cas and continue living
->
-> Dean choose Cas and both Sam/Dean back to Earth (Sam is a 6-month swaddle, Dean makes the decision)
->
-> (The Brightest light that save Heaven and world is Dean+Sam's love to the world/Cas and their willingness of self-sacrifice)
-
-###### [TBC]
 
 #### draft notes
+
+**IMPORTANT NOTE:** when Michael helps Lucifer free, Lucifer menaces to kill them, Cas uses wings to protect Dean/Sam (claimed visual element)
 
 Cas is still in the dying state when Sam/Dean go to Heaven and explode, Cas's grace leaves him and ascend to Empty as he dies, but he struggles to fight it one last time, has to make sure Dean/Sam are safe, so his grace goes to Heaven, seeing other remaining angels are saved, Dean/Sam are saved, so he's ready for his own death, Dean/Sam choose to live again and Dean knows now Cas is really dying, but he insists one last time to hang on for him. Dean/Sam comes back to life, Dean saves Cas.
 
@@ -3955,21 +3755,29 @@ John/Mary/all friends/family stay with them when Dean/Sam say yes to Michael/Luc
 >
 > (The Brightest Light that heals Cas is Dean's love for him)
 
-#### draft notes
 
-Dean: You saved me so many times, it's my turn now.
-
-<br>
-
-### Epilogue: Inherit the World
-
-> Heaven in their command, earth seems fine, TFW go to beach finally, with matching shirts and toes in the sands like Dean always imagined
 
 <br>
 
 ###### [END]
 
-### Timestamp 1: The Novaks
+#### draft notes
+
+Dean: You saved me so many times, it's my turn now.
+
+From Chap 2: The quote "Darkness cannot drive out darkness; only light can do that." The second half is: "Hate cannot drive out hate; only love can do that." They didn't read it here but that's exactly going to be what save the world (and Cas): Love.
+
+### Timestamp 1: Inherit the World (Epilogue)
+
+> Heaven in their command, earth seems fine, TFW go to beach finally, with matching shirts and toes in the sands like Dean always imagined
+>
+> the first/most important thing after inherit the world: enjoy it, live it, and enjoy each other's company
+>
+> a destiel date/after-EOW reunion treat trip, relax/reflection moment, intimate
+
+<br>
+
+### Timestamp 2: The Novaks
 
 > Jimmy/Amelia get down, reunite with Claire, Jimmy/Cas tension; Dean helps handle Cas/Claire relationship
 >
@@ -3979,10 +3787,14 @@ Dean: You saved me so many times, it's my turn now.
 >
 > (canon mentioned: S12E06, case show up: S12E16)
 
-### Timestamp 2: Jellyfish
+<br>
 
-> normal day, aquarium, maybe a case? a date?
+### Timestamp 3: Jellyfish
+
+> normal day, aquarium, maybe a case fic, also a date
 >
 > "What is it with the jellyfish?"
+>
+> (from chap 2-5)
 
 <br>
