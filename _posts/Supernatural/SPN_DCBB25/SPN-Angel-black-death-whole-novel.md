@@ -3291,7 +3291,7 @@ Dean makes a face. "I sent them down."
 
 "Dammit, Crowley, can't you keep your demons in a line? What do you do everyday, just busy sitting on the throne?" Dean can't help snapping.
 
-"What do I do?! What do you do everyday?! Just busy chatting with Mama and Papa and your puppies?" Crowley growls annoyedly, glancing around at Sam and Cas in the car. "It's like a big fat soul feast out there, you're lucky not all demons crushing the gates and getting out. So deal with it!"
+"What do I do?! What do you do everyday?! Just busy chatting with Mama and Papa, hanging out with your puppies?" Crowley growls annoyedly, glancing around at Sam and Cas in the car. "It's like a big fat soul feast out there, a freaking Carnival! I have other fleeing demons to catch, all the nasty bits. You're lucky not all demons crushing the gates and getting out to have fun! If you remember, they aren't exactly the 'listening to the boss' type. I want them gone, you want them gone. So help me deal with it!"
 
 Dean is taken aback by his suddenly raised voice.
 
@@ -3335,13 +3335,105 @@ Vaguely recognizable trees and lawns surround them, they should be right on the 
 
 Black smoke entangle with white mist, ghosty figures flashing in and out of shape, flaring and dimming as they shift. They catch glimpses of shapes of a man or a woman from the blurry view. It's hard to tell what's really happening, the views are so hazy that looks like they're glancing through frosted glass. But with Crowley's information, they have a good enough guess.
 
-"Demons are killing the ghosts." Dean grimaces.
+"Demons are killing ghosts." Dean grimaces.
 
 "Not just any ghost," Cas says, squinting.
 
-A red-haired ghost comes into shape, looking like trying desperately to run from the black smoke. But she's not fast enough, the smoke from demons catch up to her easily, wrapping around her waist and pulling her back. She screams, and her shape disperses in the white mist.
+A red-haired ghost girl comes into shape, looking like trying desperately to run from the black smoke following her. But she's not fast enough, the smoke from demons catch up to her easily, wrapping around her waist and pulling her back. She screams, and her shape disperses in the white mist.
 
 "That's Charlie."
+
+<br>
+
+#### Act 2
+
+> EXT. outside bunker - day (Dean, Sam, Cas, Charlie)
+>
+> They kill Stynes, save Charlie, everyone go back inside bunker; end-hour vibe, Cas is wounded in the battle fundamentally, definitely dying, last straw
+
+"Go! Get Mom and Dad back to bunker!" Dean shoves the Impala key into Sam's hand, already pushing the car door open as he speaks. Cas climbs out of the car from his side at the same time.
+
+"I can't just leave you guys with the Stynes!" Sam shouts as he moves to the driver's seat.
+
+"I can't risk them getting caught by demons!" Dean yells back, giving a head tilt toward John and Mary's ghosts on the backseat. "Just go! Come back once they're safe in bunker!"
+
+"Be careful, Dean," Sam urges.
+
+"Go!" Dean says again, bolting with Cas toward the mist where they last saw the ghost of Charlie took form.
+
+Impala rumbles to life again. Sam takes a sharp reverse, riding onto the small path to detour around the woods toward bunker.
+
+The demon smoke whirls up into the sky like a black hurricane, the sound of the fallen tree leaves and the wind sounds like loud demonic laughter.
+
+"How are we even gonna kill them when they're not in bodies?" Dean asks loudly.
+
+"I can smite them," Cas answers readily.
+
+Dean tears his eyes away from the black-white smoke to eye the angel. "You got enough mojo for that?"
+
+"It has to," Cas says sternly.
+
+"What do I do?"
+
+"Protect Charlie, round them up for me," Cas says.
+
+Dean weighs the demon blade in his hands, wondering aloud. "Is this pure iron? Is it going to hurt Charlie as well?"
+
+Cas shoves the angel blade he was holding into Dean's hand. "Use this."
+
+"What about you?"
+
+"Don't worry about me," Cas says hastily. He runs toward the smoking mist, eyes starting to flare.
+
+"Dean --" Charlie's voice sounds up faintly from somewhere nearby, but her shape is nowhere to be found.
+
+"Charlie, where are you?" Dean runs up to the closest black smoke, smelling sulfur and fire. The mocking laughter sounds more shrieking and hellish by each step he's getting closer. He waves the angel blade at the demon smoke. The unshapen demon squeals and thins, backing up slightly from where the blade sweeps through, rising higher up into the sky, beyond reach. The mist in its held drops down to the ground, condensing and forming slowly.
+
+Dean kneels beside her, calling anxiously. "Charlie? You alright?"
+
+The red hair comes into form first, the rest of her head and body later. The ghost of Charlie moans as she shows up laying on the ground. "I didn't know ghost can feel pain too." Her eyes are shut tight for a moment, before opening up to look at Dean. "You look worried."
+
+Dean huffs briefly, "Hey, kid. Nice to see you again."
+
+Another demon cloud dives down toward them before Charlie can say anything else. Dean jumps back a step, swiping the blade through the middle of the black shape. The demon screams, splitting into two halves of black smoke, twirling into opposite directions before meeting again in the mid-air, merging into one shape, letting out a long shrieking sound of wind that gives Dean goosebumps. A second wave of attack rains down on them before Dean can take a second of breath.
+
+That sound must be a calling of assembly of some sort, Dean thinks. More black smoke hover over the head of them this time, circling like a group of vultures surveying carcass before devouring.
+
+Dean finds his eyes can hardly keep focused on these dissipating and gathering smokes, let alone fighting them off or protecting Charlie's soul. "A little help here, Cas!" he yells.
+
+Cas sprints to him, palm raising, eyes brightening. "Shut your eyes!"
+
+Light pours out of his palm as the demons descend. Dean throws himself on top of Charlie's spirit, covering his eyes with his elbow. A wave of electricity flies over his head, buzzing with energy. When he looks up again, the closely circling demon cloud is gone. And Cas is panting heavily, staggering unsteadily, can barely stand straight.
+
+Dean rushes to hold him up, lending a shoulder. "You okay?"
+
+Cas bites on his lips, nodding faintly. But there is nothing that says "okay" on his face.
+
+Charlie floats up to them, studying Cas's face, worried. "What happened to you?"
+
+"Long story, we have to go now," Dean says briefly, glancing at the sky. The demons are far from gone. When Crowley said "the Stynes are out", he really thought he only meant that pretentious family he slaughtered, from the big daddy in suit to the hatchet men and that kid in the library. But they are definitely seeing more than a dozen demons around here.
+
+*Frankenstein is a big family tree. They have existed for a thousand years.* Now he remembers. Sam did most of the research, and his memory of those times isn't always exactly clear. But he can piece things together. They are in bigger trouble than he thought.
+
+"Dean!" Charlie outcries, her shape scattered up as a mass of black smoke sneak up to her from behind when Dean is distracted for Cas. Black fog forms into long claws, breaking up the ghost form of Charlie from middle. Her scared face stays for a second longer than the rest of the body, then dissipates into white mist.
+
+"No, no, no -- Charlie! I'm not losing you again! Not again!" Dean shouts, having to let go of Cas to throw the angel blade at the demon smoke. Losing support, Cas drops to his knees.
+
+The black smoke retreats. Pain of Charlie's cry still echoes in the air.
+
+"Charlie? Charlie! You still there?" Dean yells from the top of his lung, focusing on the white mist surround them.
+
+"I don't know how many more rounds I can take," Charlie answers faintly, thin mist gathering around tentatively. She flashes in and out like bad TV signal. "I don't think all of us can get out of here." She gives a strained smile. "Get Cas out of here, don't mind me."
+
+"No -- NO!" Dean points a finger at her, choking out. "We go home together, all of us!"
+
+Demons descend fast, even more than before, thick and sulfuric, clouding in, covering the sky. The morning hour looks like late in the afternoon right before a big thunderstorm.
+
+"It's okay, Dean," Charlie manages to keep the warm and small smile, even if it's shaking, even if it looks like she'd cry if she's still capable of. She reaches out a hand, as if trying to touch Dean's finger, but the mist that forms the shape of her finger dissipates the moment they touch. "It's not your fault. I don't blame you. Not last time, not this time."
+
+Charlie  
+
+
 
 <br>
 
@@ -3349,13 +3441,27 @@ A red-haired ghost comes into shape, looking like trying desperately to run from
 
 #### draft notes
 
-> EXT. outside bunker - day (Dean, Sam, Cas, John, Mary, Charlie, Bobby, other hunters)
-
 on their way they notice souls falling, ghosts everywhere, demons rising, black smoke everywhere, demons haunting living people and killing dead souls that had been on Heaven, good guys' souls are being exterminated, know how serious things are, really end-of-world vibe
 
-quickly force transit from Chap. 5 to 6, Styne family raid outside bunker as demon to revenge Dean (demon hurting ghosts, but can't get in), Charlie's soul happened to wander around the area, Charlie figured out a way to dial phone for help (ghost affect electromagnetic field, phones/laptops are just electronics, using waves to transmission, "you gotta be the first ghost to figure that out"), TFW rush back to save ghosts in bunker & Charlie; Crowley involved
+quickly force transit from Chap. 5 to 6, Styne family raid outside bunker as demon to revenge Dean (demon hurting ghosts, but can't get inside bunker), Charlie's soul happened to wander around the area, Charlie figured out a way to dial phone for help (ghost affect electromagnetic field, phones/laptops are just electronics, using waves to transmission, "you gotta be the first ghost to figure that out"), TFW rush back to save ghosts in bunker & Charlie; Crowley involved
 
 as soon as cleaned up the Stynes and saved Charlie (Cas used his grace to help save Charlie (also guilty for Charlie's death, all TFW are guilty)), know the world can't wait, last straw is Cas, Dean agree to call Rowena to get Michael (Cas already lying on bunker infirmary, Bobby etc.'s ghosts look after him, Charlie promise to call Dean if anything happen to Cas (all those people he had protected are now taking turn to protect/look after him, not just Dean, but everyone they have saved along the way))
+
+
+
+Charlie to Dean: Save Cas. You need him.
+
+Dean: What about you? They'll tear you up.
+
+Charlie: I died for you once. What's the fuss about doing it again?
+
+Dean: Charlie --
+
+Charlie: I love you.
+
+Dean can't even say "I know."
+
+Cas: reverse exorcism, trapping demons in his vessel, burn them up all at one → direct comatose (stay catatonic in chap. 7)
 
 **self-reminder:** the unfamiliar incoming phone call is from burner in bunker
 
@@ -3776,6 +3882,10 @@ Dean meets his eyes straight on. "I said Yes, you son of a bitch."
 ###### [TBC]
 
 #### draft notes
+
+Cas is still in the dying state when Sam/Dean go to Heaven and explode, Cas's grace leaves him and ascend to Empty as he dies, but he struggles to fight it one last time, has to make sure Dean/Sam are safe, so his grace goes to Heaven, seeing other remaining angels are saved, Dean/Sam are saved, so he's ready for his own death, Dean/Sam choose to live again and Dean knows now Cas is really dying, but he insists one last time to hang on for him. Dean/Sam comes back to life, Dean saves Cas.
+
+<br>
 
 Michael to Dean: I know it's too easy to give your own life for the angel you care, but are you willing to give your brother's life for him too?
 
