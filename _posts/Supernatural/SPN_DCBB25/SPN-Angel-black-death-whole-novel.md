@@ -3831,7 +3831,7 @@ They glance at the noise's direction nervously.
 
 Charlie pops to his side. "I'll help."
 
-"I'll take the front door," Ellen says quickly. "Bobby, you can take the back door. Jo, stay with Dean and Cas."
+"I'll take the front door," Ellen says quickly. "Bobby, you take the back door. Jo, stay with Dean and Cas."
 
 "I can fight, too!" Jo pouts reflexively.
 
@@ -3943,7 +3943,7 @@ The symbols on the Cage all lightens up at the same time, glowing together, comb
 
 "Vaporize, not kill!" Rowena yells back.
 
-"What's the difference?!" Sam yells back.
+"What's the difference?!" Sam counters automatically.
 
 "Are you really spending your last breath bickering with this three-hundred-year-old bitch?!" Crowley shouts at both of them, ducking down somewhere. "We all going to die from your stupid plan anyway!"
 
@@ -3959,7 +3959,7 @@ Sam realizes he's talking to John and Mary directly.
 
 John takes a step ahead, exposing himself to the light of the archangel without shaking. "I have to protect him as best as I can, just like I had been trying to protect you, Adam! I'm sorry I failed. I'm sorry about everything you're going through," he says loudly, looking at the archangel's lightened up face, the face that also belongs to Adam Milligan, or Adam Winchester, in his eyes.
 
-Michael drops to the ground before them, bare-footed. The lights in his eyes extinguished completely, turning into Adam's bright blue eyes. He turns to John slowly, looking at him straight. "I'll let Adam decide if he'll forgive you. But before that, where can I get a decent burger or pizza? Adam is starving."
+Michael drops to the ground before them, bare-footed. The lights in his eyes extinguished completely, turning into Adam's bright blue eyes. He turns to John slowly, looking at him straight. "I'll let Adam decide if he'll forgive you. But before that, where can I get some decent burger or pizza? Adam is starving."
 
 <br>
 
@@ -3971,9 +3971,189 @@ The spell Rowena used to open Cage: "*Torzul d, zamran!*" was referenced from th
 
 #### Act 3
 
-> INT. bunker - day (Dean, Cas, Bobby, Charlie, others)
+> INT. bunker - day (Dean, Bobby, Ellen, Charlie, others)
 >
-> demons attack bunker, the ghosts help protect them, Dean focus on protect Cas, Cas wake up protect him again
+> demons attack bunker, the ghosts help protect them
+
+Dean thinks he can hear bunker door shaking just from his room. The ghosts of all their hunter friends have spread out to their assigned positions, getting prepared. He really should join them, considering he's the only one around able to shoot a rock-salt gun.
+
+He doesn't want to leave his room.
+
+Cas hasn't woken up. Hasn't even moved or stirred, or twitched his finger to the slightest.
+
+Dean studies his face, hating the wild thoughts in his mind that are getting stuck in the last time he sees those blue eyes staring back at him.
+
+"They're in position," Jo reports quietly, standing in the corridor outside the door, facing away from him. "We're just waiting for them to get through now."
+
+"I should go help them," Dean says hoarsely, squeezing Cas's hands one more time and tucking them under the cover. "It should be close enough as long as I'm in the bunker."
+
+"I'll keep watching," Jo says quickly. "I'll let you know if he wake up or any change."
+
+Dean manages to pull a bleak smile. "Thank you."
+
+"Don't mention it." Jo smiles back faintly. "Just, be careful."
+
+Dean charges to the war room.
+
+Ellen and Caleb station at the bottom of the staircase near the entrance, with water guns in their hands. Pastor Jim stands near a bucket of water, murmuring his blessing. Charlie and Ash position behind the control station, not even touching any buttons, but Dean can see them turning on their own under their glare.
+
+He lets out a ragged breath. Everything's freaky in every sense of ways, but somehow, just perfect.
+
+He thinks he never felt safer before on any eve of battle night.
+
+Ellen glances at him sharply. "We got this."
+
+Dean grabs an angel blade from the table, standing beside her. "I know," he says shortly. It's not like he has to spell out "I'm not the kind of person who'd let everyone die for me while I hide in the home front."
+
+A quick smile flashes across Ellen's face. "Always play a hero, aren't you?"
+
+"Just doing my job," Dean answers honestly.
+
+The front door shakes violently once, twice. And a loud explosion bursts it open at the third time. Heat of fire and debris of explosion blast into the bunker. Dean is pushed flying back in the air, hitting his back on one of the pillars. He hears bones cracking.
+
+Black smoke along with human figures file into the place through the unprotected entrance. Ellen and a few hunters start shooting. They stagger on the stairs, hissing and cursing as holy water spurt onto them. But more step over their fallen bodies and rush toward them. They all have black eyes.
+
+"No!" Dean yells. Still trying to recover from the spinning of his head from the collision, but he's still jumping up and swaying his angel blade at the closest demon.
+
+The one facing him is a young athletic man, looking about his age ten years ago. He looks vaguely familiar, might be someone he'd run into before when running a grocery run in Lebanon. The man grins with white teeth, "Well, well, isn't that Dean Winchester?" He speaks in a long and lazy voice. The tone almost recognizable. More demons gather closer to him just from his calling.
+
+But Dean doesn't really have time to register that tone, just lunging for a second staggering sway. His vision swims from the ache in the head. The demon jumps aside, dodging it easily. "It's going to be so much joy to kill you, for killing my whole family," he grits his teeth maliciously.
+
+"Monroe Styne?" Dean scraps his memory, while swinging and stabbing again.
+
+The demon jumps on top of the war room table, getting out of his reach. He laughs heinously. "In the flesh," he opens his arms to show his body proudly. "The air on the topside is so fresh, did you notice that? We're going to extend our stay. And to do that, my brothers and sisters, we're going to pledge our liege to a new King. A better King of Hell. Our Dark Prince that should be King since the Beginning of Time."
+
+Sudden realization dawns on Dean. "You're here for Lucifer."
+
+Monroe laughs, turning his attention back to Dean. "And for you, too. Can you imagine how joyful I was when we found out we could achieve two things at one single place? We're going to tear you apart, Dean Winchester, and when Lucifer goes free, we are going to make this our palace."
+
+"No, you won't." Ellen bites harshly, shooting holy water at Monroe's head.
+
+The demon hisses painfully, staggering from the table, dropping to the floor in a loud thump. Smoke steaming from the skull of his body.
+
+Dean catches the break, jumping on top of him and stabbing the blade into his heart. The demon flashes bright orange, burning inside the vessel with a disgusting burned flesh and sulfur smell. The body drops dead, so does the demon inside him.
+
+"Thanks, Ellen." Dean hauls himself up, pulling the blade out of the demon's chest.
+
+"You okay?" Ellen glances at him.
+
+"Just a few broken bones, no big deal." Dean presses his head heavily, the hammering behind his eyes are almost blinding, giving him dark waves. He presses against the table to steady himself. "I have to check on Lucifer. They're here for him."
+
+"I'll go with you," Ellen says quickly.
+
+"No, go to Cas. Draw demon traps outside my room." Dean answers sharply, managing to blink out the tears gathering from pain, looking at Ellen earnestly. "Please."
+
+"You *really* care about the angel, don't you?" Ellen says, tone suddenly soft.
+
+"Yes, I do." Dean answers without hesitation.
+
+"Good." Ellen turns sharply to the control station. "Ash, time for the holy mist."
+
+"Yes, Ma'am!" Ash answers brightly.
+
+"Nice!" Charlie says cheerfully, bolting to action as well. "Was waiting for that!"
+
+"We have holy mist?" Dean's surprised.
+
+The bunker light goes out, emergency light flashing dazzling red. Fire alarm goes off at the same time, and Dean can hear the emergency extinguishing system and fan starts functioning all over the bunker. Thin mist sprays from the ceiling.
+
+Ash announces proudly, "Took me a while to pick up the ventilation system from fifties, but damn this is a delicate system. Some change to the analogue and digital signal, you can get a holy bunker,"
+
+Painful shrieking of demons covered by the holy spray can be heard from every corridor of the bunker.
+
+"By 'a while', he means twenty minutes, with us working together," Charlie says, beaming.
+
+"Awesome." Dean blinks, completely in awe.
+
+He sprints to the stairs leading to the dungeon.
+
+<br>
+
+> INT. bunker dungeon - day (Dean, Cas, Lucifer, Bobby, demons)
+>
+> Dean go check on Lucifer, get torn apart by him verbally, Lucifer get stronger by eating demons, grills Dean about how much he'd willing to sacrifice for Cas, what's the price he'd be willing to pay
+>
+> INT. bunker, Dean's room - day (Dean, Cas, Ellen, Jo, others)
+>
+> Dean focus on Cas, Cas wake up
+
+The dungeon door is already blasted open before he reaches it. The hidden gate that was disguised by a book shelf is now a big messy hole with rupturing wooden and metal edge poking out dangerous, like mouth of a monster, exactly like the kind of "Hell's Gate" old comics would draw from seventy years ago.
+
+Holy mist is thin down here. Black smoke is still flying toward the opening, disappearing inside dungeon.
+
+Dean hurries to it, but before he bursts all the way in, a cold sensation on his arm pulls him backward, stopping his steps. He halts abruptly, finding the misty shape of Bobby stands beside the wall, dragging him along. Bobby puts a finger to his lips, tilting his head toward dungeon in a cautious, meaningful nod.
+
+Dean edges to the opening carefully, managing not to step on any broken shatters, glancing inside.
+
+Inside, Lucifer is stretching comfortably, arms rising high above his head, yawning lazily as black smoke is continuously absorbed inside him. He stretches like a retired old man ready to have some morning exercise in the park, twisting and turning his jolts on the shoulders and knees, letting out sighs of content.
+
+"Did you do all these, Dean? That's very nice of you," Lucifer says suddenly. "I can't see you, but you see, my little petty food has been reporting that you're standing right there."
+
+Dean has to step into the dungeon.
+
+The angel cuff is still locked on Lucifer's wrist, but the sigils on its side is burning now. Dean can see the orange light shivering in the carves lines. He throws a lighter at the holy oil circle they have drawn around the Devil, letting the circle of holy fire burn, just in case. He wishes quietly Sam could come back quickly.
+
+Lucifer grins widely. "What's the matter? Cat gets your tongue?"
+
+"How's the food?" Dean asks carelessly. "Tasty? To your liking?"
+
+Lucifer shrugs. "A bit too bitter, but it will do." He lights up his bloody red eyes as if just trying it out, then dims it back down. "Just need a little bit more."
+
+"All yours, every demon in the bunker, devour in." Dean gestures vaguely at outside.
+
+Lucifer narrows his eyes. "I know what you're doing, Dean. Taking me as a pest control, really?"
+
+Dean shrugs nonchalantly. "You get a free meal, I get a clean house. Call it mutual benefit."
+
+Lucifer hums carelessly. "What if I want a bigger free meal? It's very tempting that you have all those ghosting friends wander around, you know?"
+
+"Out of the question, you hear me?" Dean snaps. "You touch them, we burn you alive, throw you back to Cage, anything."
+
+Lucifer holds up two hands casually. "What if I say I take one of them, say, your least favorite one, that old drunken hunter, what's his name? Yeah right, you don't even know. What about I take him, and I heal your beloved angel? That's a good enough deal, isn't it?"
+
+Dean bites his tongue, silently hating himself.
+
+Lucifer studies his face, starts laughing. "Actually you know what, that deal is too good to be true, what about I take two of those nameless old drunks, and you get your Castiel back? You see where I'm getting at?"
+
+Dean can't trust his voice right now, so he just glares at the Devil.
+
+"Dad did the same thing in Sodom, and you know what that taught us?" Lucifer says joyfully. "Everything has a price. Just depend on how much you willing to pay."
+
+The Devil looks at him right in the eyes, smiling sweetly. "So, Dean, how much are you willing to pay for your beloved angel, exactly? A shilling? A pound? Pay with your own life is too easy, what about those other humans? What about your proxy Dad or your dear Daddy and Mommy? Or your brother? Or, let's face it, none of the above, nothing at all? Maybe, the reason why you find it so difficult to face him, is because you know, you'd risk him for everything, but you're not really risking anything for him. Aren't you the most hypocritical man in the world, Dean?"
+
+Dean swallows violently, eyes stinging.
+
+"Shut up! You shut up!" he shouts uncontrollably. The holy fire burns the air hot and breathless. Dean can't breathe.
+
+He bolts out of the door, heading directly back to his room. Lucifer's laughter haunts him all the way up.
+
+He doesn't run into any demon on his way.
+
+Outside his room, it almost looks like a military patrol routine right there. Two hunters patrol the left and right of the corridor. Jo stands straight facing outside. And when he comes in, he meets Ellen at the foot of the bed.
+
+"How's he?" Dean finds his knees weaken the minute he reaches the bedside. He has to sit down there.
+
+"Getting better, I think," Ellen answers. "Breathing and everything, but you probably know angel ER better than me."
+
+Dean studies Cas's face carefully. He does look better, like Ellen said. His breathing is stronger, to the extent Dean doesn't have to test below his nose to know he is breathing. His body vibrates like waves on the sea.
+
+Dean pats him gently over the cover once, somewhere around the shoulder. His eyes are still stingy.
+
+*Everything has a price.* He thinks bitterly. *How can this world ask me to put a price for you?*
+
+"How are things with demons?" Ellen prompts.
+
+"Clean," Dean answers without looking up. "Lucifer ate them all up."
+
+"That good or bad?" Jo asks.
+
+Dean shrugs. "We want him stronger, and now he's stronger."
+
+"Let's just hope he can use that power for some good," Ellen says, voice uncertain.
+
+"Hope," Jo presses. "Is it more like pray?"
+
+"Something like that," Ellen agrees.
 
 
 
@@ -3981,13 +4161,9 @@ The spell Rowena used to open Cage: "*Torzul d, zamran!*" was referenced from th
 
 ###### [TBA]
 
+(next: Cas wake up, Sam)
+
 #### draft notes
-
-in the Cage: John/Mary/Adam moment (essential to get Adam in control and bring Michael back to bunker), Michael/Adam moment, John/Mary protect Sam
-
-bunker under demon attack, ghosts of their friends guard bunker to protect Dean/Cas (Charlie/Ash take control of computer, Bobby/Ellen direct defense on front door, Jo closest to them/warn others/pass message, Pastor Jim holy water, Caleb armory, other hunters spread defense)
-
-
 
 poke Michael, remind him last year (s11) Chuck needed help from archangel and he turned to Lucifer for help, didn't even cross his mind to save Michael from Cage, hardly his favorite son
 
@@ -4006,6 +4182,8 @@ Michael/Lucifer deciding not saving angels: There is no darkness without light, 
 
 
 Cas direct comatose from end of Chap 6, stays mostly catatonic in chap. 7 when they get Michael, only wake up in time when Michael/Lucifer tries to kill them
+
+bunker under demon attack, ghosts of their friends guard bunker to protect Dean/Cas (Charlie/Ash take control of computer, Bobby/Ellen direct defense on front door, Jo closest to them/warn others/pass message, Pastor Jim holy water, Caleb armory, other hunters spread defense)
 
 ~~second time Dean has to choose: stay with Cas to slow down his infection, or go with Sam to get Michael. both Cas/Sam need him, and both are to save Cas. choose stay with Cas~~
 
