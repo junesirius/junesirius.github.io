@@ -3583,4 +3583,8 @@ So all we have in the script is as simple as: "Dean is overcome with grief" and 
 
 And just noticed from the script: Cas was still alive when Dean removes the blade from his chest, he was gasping for air and they share a look. And by the time Dean kills April, Cas is dead. Can't help thinking, is it the move of removing the blade from the deep chest wound that killed Cas, because wounds like that, probably the blade is the only thing stop the bleeding at the moment. Now thinking what if Ezekiel didn't resurrect Cas and Dean rethink the event and realizes probably he's the one that finalize human Cas's death because he was too eager and focused on killing April... God, S9 would probably just be as bad as S13 before Tombstone.
 
-### 324.
+### 324.【you】real life exorcism
+
+You are a Supernatural fan watching the show too many times and love it too much. One day, you suddenly on a whim want to learn the exorcism they are using in the show, just feeling it'd be cool to be able to recite a large pose of Latin. You start chanting them, and suddenly some black smoke comes out from your laptop that kept breaking down, or your printer that kept jamming papers, or your car that kept having weird noises. Now you realize all these times, they are not bad quality products, they're haunted.
+
+### 325.
