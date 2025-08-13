@@ -2185,6 +2185,8 @@ Sam smirks. "Crowley said 'Hi!'"
 > Crowley explains to them the whole controlling Lucifer through the Cage spell thing, transfer the control temporarily from himself to Sam
 >
 > INT. bunker dungeon - continuous (Dean, Sam, Lucifer)
+>
+> Sam control Lucifer
 
 "We want the same thing here. Lucifer in that body, and you got the controller, I assume?" Sam was saying to Crowley, back when they were in that Asylum, standing in front of Nick. "We'll need to borrow the remote too, if you don't mind."
 
@@ -2248,9 +2250,9 @@ Dean gives him a nod. "We'll figure that out later. I need to check on Cas now."
 
 > INT. Cas's room - continuous (Dean, Cas)
 >
-> INT. library - next morning (Dean, Cas, Sam, Lucifer)
->
 > Dean takes care of Cas over the night.
+>
+> INT. library - next morning (Dean, Cas, Sam, Lucifer)
 >
 > TFW discuss how to help Lucifer strengthen up, whether to get Michael out, have argument. Dean strongly against it. They get phone call from Jody about Bobby
 >
@@ -3211,7 +3213,7 @@ John/Mary's reaction on apparent Dean/Cas relationship/friendship/closeness → 
 >
 > They receive a haunted phone call from Charlie (but doesn't know it's her yet)
 >
-> TFW+Mary/John leave Missouri's place, the world outside is full of fallen souls from Heaven. Crowley drops by to let them know the Stynes turn into demons and get out. They rush back to bunker.
+> TFW+Mary/John leave Missouri's place, the world outside is full of fallen souls from Heaven. Crowley drops by to let them know the Stynes turn into demons and get out. They rush back to bunker
 
 Dean wakes up to the ringing of his phone. It takes him a second of disorientation to remember where they are -- the herbal smell in the air reminds him of the psychic.
 
@@ -3715,7 +3717,7 @@ Dean carries Cas to his own room -- his room has better memory foam mattress, hi
 
 "What happened?" Bobby asks, standing by the door of his room, concerned.
 
-Dean is too busy tucking Cas under the comforter to answer, but his move freezes when he takes Cas's hands. He calls behind him in a tight, devastated voice without looking back: "Sammy!"
+Dean is too busy tucking Cas under the cover to answer, but his move freezes when he takes Cas's hands. He calls behind him in a tight, devastated voice without looking back: "Sammy!"
 
 Sam rushes to him.
 
@@ -4161,7 +4163,7 @@ Dean shrugs. "We want him stronger, and now he's stronger."
 
 ###### [TBA]
 
-(next: Cas wake up, Sam)
+(next transition: Cas wake up, Sam/Michael/Mary/John come back; add back Michael/Lucifer scene from temporary removed scenes; probably need to rewrite/reexamine Dean/Lucifer scene)
 
 #### draft notes
 
