@@ -3,7 +3,7 @@ layout: post
 title: 【Destiel】White Butterfly
 date: 2025-05-29
 categories: ["SPN"]
-characters: ["Castiel", "Dean Winchester", "Sam Win", "Rowena MacLeod", "Fergus MacLeod/Crowley"]
+characters: ["Castiel", "Dean Winchester", "Sam Winchester", "Rowena MacLeod", "Fergus MacLeod/Crowley"]
 tags: ["Supernatural", "destiel", "英文", "时间旅行", "电车问题"]
 pov: 第三人称
 origin: 2025 SPN Time Travel Mini Bang
@@ -13,7 +13,11 @@ published: false
 
 [TOC]
 
-(tags: Canon Divergent, S07E21, S07E23, S06E20, Time Travel, Angst, Crazy Castiel, Broken Castiel, Slow Burn, Dean Winchester has some anger control issue (at the beginning), Canon-Typical Angry Dean (at the beginning), Trolley Problem, Dean Winchester uses actual words (later))
+Tags: Canon Divergent, S07E21, S07E23, S06E20, Time Travel, Angst, Crazy Castiel, Broken Castiel, Slow Burn, Dean Winchester has some anger control issue (at the beginning), Canon-Typical Angry Dean (at the beginning), Trolley Problem, Dean Winchester uses actual words (later))
+
+Warnings: None
+
+Rating: General
 
 ## Draft
 
@@ -126,7 +130,7 @@ When an angel loses control of his mind, he's just a frightened child.
 
 And when a frightened child can go to all the time and all the places in the universe, where would he go?
 
-He goes to see a city that disappeared two thousand years ago, a creature he hasn't seen in millennia, a fish that is on its way to the shore, and a star that is on the edge of explosion. He watches them with the wonder of a child's eyes, and can't help but reach out his hands to help them, for he only wishes to save the lives. That is when everything -- the history, the reality -- starts crumbling down.
+He goes to see a city that disappeared two thousand years ago, a creature he hasn't seen in millennia, a fish that is on its way to the shore, and a star that is on the verge of explosion. He watches them with the wonder of a child's eyes, and can't help but reach out his hands to help them, for he only wishes to save the lives. That is when everything -- the history, the reality -- starts crumbling down.
 
 And Dean, already exhausted from all the burden of world-saving, with all the Leviathans crawling in his world, has to travel to eons ago, with his best and broken angel friend, to save the world and bring him home.
 
@@ -1224,6 +1228,7 @@ They watch the asteroid falling onto Earth after that. They can't do anything, b
 <br>
 **Seashore, Age of Fishes (357 million years ago)**
 
+
 "An older brother once told me, all those millions of years ago, 'Don't step on that fish, Castiel. Big plans for that fish.'" Cas leads the way on the seashore, kneeling down to point at a small grey fish as it heaves itself on the beach.
 
 "An older brother?" Dean kneels down beside him. The fish looks nothing special, maybe except for the fact it's trying to move to the land.
@@ -1398,7 +1403,7 @@ Cas gently stops his apology with his gesture. "It wasn't the first time I flew 
 
 Cas nods. "I needed time to recover. And even in that state when I first woke up, I knew I'd need more time than we had to fix myself. We didn't have enough time in the current time, but I spent it in the past, to save *you* the time we would have needed."
 
-"But you would be -- you were -- alone all those centuries." Dean closes his eyes, heart clenching, voice choking. He imagines a broken angel that Cas was, wandering in the century-old street, alone, in his hospital gown, not really having a clear enough mind, not having anyone to turn to if he needed help. But he went there, so he could save them the most precious time that they couldn't spare on him. He feels his chest is too tight to breathe, too painful and aching, and it's the first time he's reminded he's in a vacuum in space. *It's his own doing that's pushing Cas away, the yelling, the snapping -- he's the one making his angel think he couldn't come to him when he needed. Could he even do anything more cruel and cold to Cas than that?*
+"But you would be -- you were -- alone all those centuries." Dean closes his eyes, heart clenching, voice choking. He imagines a broken angel that Cas was, wandering in the century-old street, alone, in his hospital gown, not really having a clear enough mind, not having anyone to turn to if he needed help. But he went there, so he could save them the most precious time that they couldn't spare on him. He feels his chest is too tight to breathe, too painful and aching, and it's the first time he's reminded he's in a vacuum in space. *It's his own doing that's pushing Cas away, the yelling, the snapping -- he's the one making his angel think he couldn't come to him when he needed. Could he even do anything more cruel and cold to Cas than that? To Cas, of all people?*
 
 Cas manages another tight smile. "I think, part of me also didn't want you see me as I was, the broken beyond repair version of me, the one too insane to be of any use --" For the first time, he closes his eyes when he talks, because there is too much pain in it, and it makes Dean's heart bleeds. And Cas finishes the sentence: "-- because I wouldn't know what to do, if you find me like that, and look at me with disappointment in your eyes. I was afraid I might kill myself."
 
@@ -1502,11 +1507,11 @@ Somehow, this time, he already knew they'd succeed.
 
 <br>
 
-**Notes after chapter**:
+**Words after work**:
 
-I'll have to confess the story turns out a bit different from what I imagined in the first place. The ultimate scene I really wanted to write is the one they float in the space and watch the planet that shouldn't be there, and eventually have to explode it -- at least I got that part roughly right. But so many other things, those other past times they travel back to, they just turned out a bit different, it's hard to explain. I didn't really get to write as much about broken Cas as I planed as well, Dean's thoughts keep carry the story away, so I blame that on Dean.
+I'll have to confess the story turns out a bit different from what I imagined in the first place. The ultimate scene I really wanted to write is the one where they float in space and watch the planet that shouldn't be there, and eventually have to explode it -- at least I got that part roughly right. But so many other things, those other past times they travel back to, they just turned out a bit different, it's hard to explain. I didn't really get to write as much about broken Cas as I planned as well, Dean's thoughts keep carrying the story away, so I blame that on Dean.
 
-But it's not Dean's fault to be taken away by all the things he gets to see and has to do. The beginning of the evolution, the extinction of species, the formation and destruction of planets. It's too big for human, too grand, too celestial, too cosmic, too angelic. I love seeing him awed, by the nature and world itself, and most of all, by Cas. He's reminded over and over again that even when Cas is broken, he's still an angel, magnificent and beautiful and powerful. And in this journey, he gets to experience all those with him, watching all the most human side and most celestial side of Cas, learning more about him by every stop, loving him by every minute. It's not even about love anymore, like he realized, everything is too mind-blowing and eye-opening to even think properly. I think he's not the only one who can't think properly because of how big these scenes are.
+But it's not Dean's fault to be taken away by all the things he gets to see and has to do. The beginning of the evolution, the extinction of species, the formation and destruction of planets. It's too big for humans, too grand, too celestial, too cosmic, too angelic. I love seeing him awed, by the nature and world itself, and most of all, by Cas. He's reminded over and over again that even when Cas is broken, he's still an angel, magnificent and beautiful and powerful. And in this journey, he gets to experience all those with him, watching all the most human side and most celestial side of Cas, learning more about him by every stop, loving him by every minute. It's not even about love anymore, like he realized, everything is too mind-blowing and eye-opening to even think properly. I think he's not the only one who can't think properly because of how big these scenes are.
 
 <br>
 
@@ -1518,15 +1523,15 @@ There is a small snippet in the outline I can't find a right place to put into t
 >
 > Cas: And what's the definition of a *man*?
 >
-> Dean: (stare at Cas, shake his head, stare at the fish again, still can't believe) You gotta be kidding me.
+> Dean: (stares at Cas, shakes his head, stares at the fish again, still can't believe) You gotta be kidding me.
 >
 > Cas: (a tiny little smile)
 
 <br>
 
-Thank you for reading my story! Hope you enjoy it.
+Thank you for reading my story! Hope you enjoy it!
 
-And please, I long for comments, leave some if you have *anything* to say! Love u!
+And please, I long for comments, leave some if you like anything! Love u!
 
 <br>
 
