@@ -3,7 +3,7 @@ layout: post
 title: 【Destiel】White Butterfly
 date: 2025-05-29
 categories: ["SPN"]
-characters: ["Castiel", "Dean Winchester", "Rowena MacLeod", "Fergus MacLeod/Crowley"]
+characters: ["Castiel", "Dean Winchester", "Sam Win", "Rowena MacLeod", "Fergus MacLeod/Crowley"]
 tags: ["Supernatural", "destiel", "英文", "时间旅行", "电车问题"]
 pov: 第三人称
 origin: 2025 SPN Time Travel Mini Bang
@@ -192,37 +192,37 @@ When he wakes up, it is dark outside.
 
 It is at night, and he is on the planet Earth. Lying on a soft surface.
 
-Castiel does not open his eyes for a few minutes. Letting the surrounding settling down on him slowly, like nights falling on the Earth.
+Castiel does not open his eyes for a few minutes. Letting the surroundings settle down on him slowly, like nights falling on the Earth.
 
 He does not need to open his eyes to see.
 
-The air smells sharp with disinfectant and cleaning odors, with a touch of fragrance. The chemicals floating in the air along with dust and pollens.
+The air smells sharp with disinfectant and cleaning odors, with a touch of fragrance. Chemicals float in the air along with dust and pollens.
 
 The window has a slit opening, the night breeze fluttering inside like the breath of a ghost.
 
 Castiel sits up slowly.
 
-"What is that sound?" He asks the air. The voice comes out of his throat forms a human language. He remembers he's in a vessel.
+"What is that sound?" He asks the air. The voice coming out of his throat forms a human language. He remembers he's in a vessel.
 
 "The thunder, you mean?" A female answers him, from a chair sitting left of his bed.
 
-The figure sits on that chair is a shape of shadow, residing inside another vessel. A demon, he recognizes. Then he remembers her name.
+The figure sitting on that chair is a shape of shadow, residing inside another vessel. A demon, he recognizes. Then he remembers her name.
 
-Castiel does not notice the thunder until this moment. The thunder and lightning outside the window is quite noticeable, now that he turns to the window. He does not know why he doesn't notice them earlier. There might be a rain coming down. The air smells fresh dirt -- petrichor.
+Castiel does not notice the thunder until this moment. The thunder and lightning outside the window are quite noticeable, now that he turns to the window. He does not know why he didn't notice them earlier. There might be rain coming down. The air smells fresh dirt -- petrichor.
 
 "No, a bright 'ping,' like a lovely Christmas bell. It wakes me up." Castiel tells the demon with a smile. "You can't hear it, because you're not an angel."
 
 Meg looks him up and down with cautious eyes, "Welcome back, Clarence."
 
-Castiel examines his own hands, like they are something he's never seen before. "I haven't been to anywhere," he answers, then thinks for a moment, "but you're right, there are so many places I can go."
+Castiel examines his own hands, like they are something he's never seen before. "I haven't been anywhere," he answers, then thinks for a moment, "but you're right, there are so many places I can go."
 
 Meg frowns at him, "What do you mean? Where do you want to go?"
 
 "Somewhere in the universe," Castiel tells her, considering, voice soft, "some time."
 
-"Great, good as nothing." Meg puts down the magazine in her hands, turning on the bedside lamp, studying him closely. "Something different about you," she denotes, "how you feel? Everything alright? I need to make a phone call."
+"Great, good as nothing." Meg puts down the magazine in her hands, turning on the bedside lamp, studying him closely. "Something different about you," she notes, "how you feel? Everything alright? I need to make a phone call."
 
-Castiel smiles wilder. "I've never been better," he announces, then holds out a finger. "Pull my finger."
+Castiel smiles wider. "I've never been better," he announces, then holds out a finger. "Pull my finger."
 
 Meg looks at his eyes, then his index finger, as if it's a bomb she needs to defuse. "What?"
 
@@ -236,7 +236,7 @@ Castiel chuckles in the darkness. "Isn't it fun?" he asks cheerfully.
 
 Meg stares at him. "What the fuck, something is definitely wrong with you."
 
-She fuddles to replace the bulb. The new light is bright orange, the color of sunset.
+She fumbles to replace the bulb. The new light is bright orange, the color of sunset.
 
 The corner of Castiel's lip drops slightly at the comment. "You cursed," he blinks.
 
@@ -252,11 +252,11 @@ Meg finds him in the dayroom down the hall, two minutes later.
 
 Castiel is in the middle of a chess game with himself, half the chess pieces from each side taken from the board.
 
-"What was that?" Meg approaches the two angels suspiciously. Neither of them look up from the game. One of them wears his iconic trench coat, the other a white hospital gown, ruffled from sleeping in.
+"What was that?" Meg approaches the two angels suspiciously. Neither of them looks up from the game. One of them wears his iconic trench coat, the other a white hospital gown, ruffled from sleeping in.
 
 Meg knows Castiel's trench coat still hangs on the foot of his bed.
 
-"Do you know there was a game in 19th century so famous that it's called the 'Immortal Game'?" the Castiel in the trench coat says, moving a bishop on the board.
+"Do you know there was a game in the 19th century so famous that it's called the 'Immortal Game'?" the Castiel in the trench coat says, moving a bishop on the board.
 
 "But the game isn't really immortal," the Castiel sitting opposite him moves a knight in defense.
 
@@ -284,7 +284,7 @@ The trench coat Cas tells her, "He is -- or, he will be." He checks the clock on
 >
 > bring Cas home (Rufus's shelter), empathize on: Cas unwilling to help leviathan problem, Cas super broken, Dean super impatient & pissed. After a big quarrel ("You don't get to have a cat, no one cares you're broken, it's your mess, you clean it up" S07E23 or similar), Cas is gone again. Cas very quickly reappear and disappear, drop a red-haired woman with a 7y-old boy at doorstep, who slips names they're Rowena & Fergus MacLeod.
 
-(**Warning notes before chapter:** canon-typical anger control issue, Dean isn't very friendly or patient with Cas, some part can be upsetting, heavy angst)
+(**Warning notes before chapter:** canon-typical anger control issue, Dean isn't very friendly or patient with Cas, some parts can be upsetting, heavy angst)
 
 <br>
 
@@ -296,7 +296,7 @@ Sam eyes his reluctant figure, "You ready?"
 
 Dean swallows, shaking his head. "We raced all the way here and now I don't know."
 
-He chews on the bitter taste of his own words, remembering how Sam looked like when Cas took over all the ugly and nasty hell leftovers, and the frightening look in the angel's eyes when he glanced up at them the moment those venom sank in. And that was before he went into comatose.
+He chews on the bitter taste of his own words, remembering how Sam looked when Cas took over all the ugly and nasty hell leftovers, and the frightening look in the angel's eyes when he glanced up at them the moment that venom sank in. And that was before he went into a comatose.
 
 Dean's never going to be ready.
 
@@ -310,9 +310,9 @@ Cas is in his old trench coat, standing straight, staring out of the window. Imp
 
 Cas turns to him, with a gentle smile. Not counting the hospital gown, he looks all good and familiar. Warm and peaceful. Happy, even.
 
-"Outside today, in the garden, I followed a honeybee," he tells them, looking into Dean's eyes. Then starts talking about flowers and honey, and cat's tongue.
+"Outside today, in the garden, I followed a honeybee," he tells them, looking into Dean's eyes. Then starts talking about flowers and honey, and cats' tongues.
 
-His voice is eager and cheerful, lost the low gravel tone he carried with for years. Almost like Jimmy's when Cas wasn't in him.
+His voice is eager and cheerful, lost the low gravel tone he carried for years. Almost like Jimmy's when Cas wasn't in him.
 
 Dean studies the lines on his face, the smile on his cheeks, the crinkles at the corner of his eyes.
 
@@ -320,7 +320,7 @@ Those look all wrong. He looks all wrong.
 
 Dean hates himself for thinking that, but the Cas standing before him, is not the Cas he knew -- not entirely, anyway. Almost like meeting that future Cas in the Croatoan world, the one that was so broken and human. And here he is, once again.
 
-Dean stares at him so hard as if trying to see through him, looking inside, pealing off the exterior joyful smiling Cas that isn't making any sense, finding the real him hidden somewhere inside. He can't find it. And he doesn't know what to do.
+Dean stares at him so hard as if trying to see through him, looking inside, peeling off the exterior joyful smiling Cas that isn't making any sense, finding the real him hidden somewhere inside. He can't find it. And he doesn't know what to do.
 
 He sees broken glasses on the floor. He only sees things that are broken.
 
@@ -332,21 +332,21 @@ He doesn't even ask Cas how bad it is.
 
 "Buck up, buddy, we need your help," Dean pleads quietly.
 
-Cas glances him quickly. "I don't involve in violence anymore. Please understand."
+Cas glances at him quickly. "I don't involve in violence anymore. Please understand."
 
 Dean stuffs the tablet they found into Cas's hands. "Can you read it?"
 
 Cas squints at the tablet like reading through old man's reading glasses, holding the tablet closer then farther, tilting his head this way and that. "'Tree'?"
 
-He looks up at them like a child looking for praise of recognizing a new word. Dean just frowns at him.
+He looks up at them like a child looking for praise for recognizing a new word. Dean just frowns at him.
 
 Cas turns back to the tablet. "'Horse'? 'Fiddler crab'? I don't know, I can't read it. It wasn't meant for angels."
 
-"Then what are you doing? Playing word puzzle? Bullshitting craps?" Dean's patience is running thin. "We're running out of time here, Cas!"
+"Then what are you doing? Playing some word puzzle? Bullshitting craps?" Dean's patience is running thin. "We're running out of time here, Cas!"
 
 Cas flinches, shoving the tablet back into Dean's hands, taking a step away from him, his head bowed low, eyes on the floor. "Please, there is no need for anger here, Dean."
 
-Dean takes a step closer to him, narrowing their distance, standing in his personal space, "Oh, really? Because I shouldn't be pissed that the world is ending, *again*? That there are monsters everywhere and this is all *your fault*? But then you just fucking died and got amnesia and then gone all wild, leaving *me* cleaning up your mess? Tell you what, Cas, why don't you go ahead clean up your own mess this time. Actually go save something, because I am so tired --"
+Dean takes a step closer to him, narrowing their distance, standing in his personal space, "Oh, really? Because I shouldn't be pissed that the world is ending, *again*? That there are monsters everywhere and this is all *your fault*? But then you just fucking died and got amnesia and then went all wild, leaving *me* cleaning up your mess? Tell you what, Cas, why don't you go ahead clean up your own mess this time? Actually go save something, because I am so tired --"
 
 "Dean..." Sam calls out behind him, in his usual peacemaker's tone. Dean ignores him.
 
@@ -358,7 +358,7 @@ Cas opens his mouth, but no sound comes out of it. He flashes him another sad, a
 
 "Friggin' angels!" Dean doesn't hide his frustration, throwing his hands in the air, "He's like a child! Running away like that, where the hell did he go?"
 
-"Dean, he can be anywhere." Sam says in a worried voice. "For all we know, he can be in any *time*."
+"Dean, he can be anywhere," Sam says in a worried voice. "For all we know, he can be in any *time*."
 
 Meg sighs, "He's down in the dayroom now. I guarantee it. And Dean? Try not to startle him, will ya?"
 
@@ -368,9 +368,9 @@ He moves down the hallway.
 
 <br>
 
-The dayroom is at the end of the hall, far away from all the other patient rooms. It has all the usual hospital look, white blue wallpaper with uglyass letters wishing you a good health, plastic chairs around small square tables. The air smells disgustingly fresh with too much artificial fragrance to cover the possibly never-ending, distinctive stale smell of death and sickness.
+The dayroom is at the end of the hall, far away from all the other patient rooms. It has all the usual hospital look, white blue wallpaper with ugly-ass letters wishing you good health, plastic chairs around small square tables. The air smells disgustingly fresh with too much artificial fragrance to cover the possibly never-ending, distinctive stale smell of death and sickness.
 
-Cas sits straight at the chair at the far end of the room, near a window. His back to the door.
+Cas sits straight in the chair at the far end of the room, near a window. His back to the door.
 
 Dean takes a deep breath walking toward him.
 
@@ -378,7 +378,7 @@ There is a stack of board game boxes piling at the edge of the table. Cas sits w
 
 "Hey," Dean regards him for a second, aiming for a softer voice. But even he knows the echo of his yell is still lingering in the air. He can even hear them himself.
 
-"Hello, Dean." Cas comes out of his meditation, looking almost cheerful to see him, as if he has forgotten everything harsh he just said. Is the angel extra forgiven these days or does he have a goldfish's memory now?
+"Hello, Dean." Cas comes out of his meditation, looking almost cheerful to see him, as if he has forgotten everything harsh he just said. Is the angel extra forgiving these days or does he have a goldfish's memory now?
 
 Dean swallows.
 
@@ -394,9 +394,9 @@ Cas just nods briefly.
 
 Slow understanding pieces the information back together.
 
-"You flied back in time." Dean says with realization, "How long you've been sitting here?"
+"You flew back in time." Dean says with realization, "How long you been sitting here?"
 
-"About three weeks, I think." Cas thinks about it. "I went to play a chess with myself, and other games. I knew all the move I did, but it's still fun. It's quiet here, just me and myself."
+"About three weeks, I think." Cas thinks about it. "I went to play chess with myself, and other games. I knew all the moves I did, but it's still fun. It's quiet here, just me and myself."
 
 Dean stares at him unbelievably. "Did you just fly back in time 'cause you know I wasn't there, so you wouldn't have to see me?"
 
@@ -414,15 +414,15 @@ Cas looks down at the center of the table.
 
 Cas turns away, reaching out for a board game box, showing the title side to him. The box reads, "Sorry!"
 
-Dean closes his eyes, taking a deep breath. He takes the game box away from Cas, setting it back on the table side, on top of a chess board.
+Dean closes his eyes, taking a deep breath. He takes the game box away from Cas, setting it back on the table side, on top of a chessboard.
 
-"You don't get to say 'Sorry' after you slaughter countless people," he says in a cold voice. "You button up your coat and make amends. You try your best undo the damage, even if it costs you everything, at least you'd know you tried your best fixing it, not just hiding behind playing shitty games." He fixes Cas with a stare, "'Cause that's what a coward do. Tell me you're better than that."
+"You don't get to say 'Sorry' after you slaughter countless people," he says in a cold voice. "You button up your coat and make amends. You try your best to undo the damage, even if it costs you everything, at least you'd know you tried your best fixing it, not just hiding behind playing shitty games." He fixes Cas with a stare, "'Cause that's what a coward does. Tell me you're better than that."
 
 Cas swallows, shifting his eyes onto the game box stack again. And he says, "Would you like a different game?"
 
 <br>
 
-Dean wants to scream, he wants to bang his head on the wall until one of them cracks. He doesn't care which. As long as something to do, something to take them out of this stalemate silence.
+Dean wants to scream; he wants to bang his head on the wall until one of them cracks. He doesn't care which. As long as something to do, something to take them out of this stalemate silence.
 
 They have come back to the shelter -- Rufus's cabin in Montana, the closest place they get to lay low and maybe call a base camp ever since Bobby's place got burned down. The broken angel is in the kitchen, washing plates. They get jack squat on how to end Dick and his monster army or save the world. And the clock is ticking.
 
@@ -430,15 +430,15 @@ The restlessness in the room is suffocating.
 
 How can Cas still work on things as mundane as "washing dishes"? Like he's totally a human in a totally normal world, like they're just camping out in a cabin for fun?
 
-Dean stares at his hunched back. Cas is wiping his hand on a washing cloth. *Unbelievable.*
+Dean stares at his hunched back. Cas is wiping his hands on a washing cloth. *Unbelievable.*
 
-Sam is rummaging through the books god knows how many times as if answers will just pop out of there by themselves magically like a Jack-in-the-box -- they have read those texts for tons of times already and found Jack squat. Meg is... doing whatever demons do, Dean doesn't keep a tab, but he salted the door and windows.
+Sam is rummaging through the books god knows how many times as if answers will just pop out of there by themselves magically like a Jack-in-the-box -- they have read those texts for tons of times already and found Jack squat. Meg is... doing whatever demons do. Dean doesn't keep a tab, but he salted the door and windows.
 
 Cas turns back from the kitchen sink, hands still drying a plate. "Do we need a cat?" he asks, eyes wide and innocent, "Doesn't this place feel one species short? Probably why it's so quiet all the time."
 
-Anger swells in Dean's chests like a balloon.
+Anger swells in Dean's chest like a balloon.
 
-"Would a cat help us kill Dick and save the world?" Dean hears himself asking. He feels a disapproval glare from Sam's direction, maybe Meg's too, he disregards them.
+"Would a cat help us kill Dick and save the world?" Dean hears himself asking. He feels a disapproving glare from Sam's direction, maybe Meg's too, he disregards them.
 
 Cas turns back to the sink, putting the clean plate down. "No," he mutters.
 
@@ -448,9 +448,9 @@ Cas turns back to the sink, putting the clean plate down. "No," he mutters.
 
 "You just thought what, Cas? That we can pretend nothing bad is happening, the world is not ending? That as long as you keep making us burgers and washing plates, everything will just be fine, we can just be a happy normal family forever?" Dean feels blood pumping into his head, the veins at his temples thudding with his words. There might be blood in his eyes too because the world looks extra red and burning to him. "Just tell me, what are you thinking, by not doing anything? Are things just gonna fix themselves? Or are you thinking we'll just magic things up at the last minute, like we always do? 'Cause you know what, I run out of ideas, we might as well just all sit around and wait for the world to end while watching some fucking TV!"
 
-Dean can't help himself, his fingers itching at punching something. He marches to the kitchen sink, Cas ducks to the corner of the room. Dean grabs the damned plate in the sink, throwing it at the wall with all his force. "SO HELP ME!"
+Dean can't help himself, his fingers itching to punch something. He marches to the kitchen sink, Cas ducks to the corner of the room. Dean grabs the damned plate in the sink, throwing it at the wall with all his force. "SO HELP ME!"
 
-The ceramic plate shatters to pieces with a loud clash.
+The ceramic plate shatters into pieces with a loud clash.
 
 Cas disappears with a fluttering sound of the wings.
 
@@ -492,7 +492,7 @@ Ten minutes later, Sam manages to conjure up an old blanket from some corner and
 
 Dean sits by the table -- the books are moved to the floor now, the table serving its real purpose for the moment -- watching the red-haired woman sipping the water.
 
-"Now, talk." Dean tries very hard to not snap, but the long days are wearing out his temper rapidly.
+"Now, talk." Dean tries very hard not to snap, but the long days are wearing out his temper rapidly.
 
 The woman shoots him a glare, frowning at the glass. "You don't have any whiskey or anything strong? What is this, not even tea? What are you, English?"
 
@@ -502,17 +502,17 @@ Dean rolls his eyes. "Americans! We are Americans."
 
 "Why don't you start with a name?" Dean tries.
 
-"Didn't you mom tell you never to give out your names or you will burn?" the woman mocks.
+"Didn't your mom tell you never to give out your names or you will burn?" the woman mocks.
 
 "New rule in America, what about staying all Riddler and you get shot?" Dean doesn't so much as to reach for his gun, merely glancing at the weapon stock hanging on the wall, figuring that should make the point clear enough.
 
-"Dean!" Sam warns him, sitting down at the other side of the table, reaching out a hand to the red-haired woman. "Sorry about my brother's manner, we've been through a lot. So you've met my brother, Dean, and I'm Sam."
+"Dean!" Sam warns him, sitting down at the other side of the table, reaching out a hand to the red-haired woman. "Sorry about my brother's manner; we've been through a lot. So you've met my brother, Dean, and I'm Sam."
 
-The red-haired woman shakes his hand cautiously. "Pleasure," she amuses, giving him a once-over with a tight smirk, "I like you more than your brother. You can call me 'Red' if you want, some villagers do that."
+The red-haired woman shakes his hand cautiously. "Pleasure," she amuses, giving him a once-over with a tight smirk, "I like you more than your brother. You can call me 'Red' if you want; some villagers do that."
 
 Dean exchanges a look with Sam meaning "That's obviously not her real name" and "Who wouldn't give their names? Bad guys", and Sam returns with a light shrug, meaning "I don't care, this is good enough. Go easy on her, Dean" and "Not everyone is a bad guy".
 
-Dean turns his attention back to the red-haired woman. "Alright, *Red*," he presses on the name as if this can push her telling something she's been holding her tongue so tight about, "Why don't you share your side of the story, and we can decide what to do from there?"
+Dean turns his attention back to the red-haired woman. "Alright, *Red*," he presses on the name as if this can push her to tell something she's been holding her tongue so tight about, "Why don't you share your side of the story, and we can decide what to do from there?"
 
 The woman starts: "It is the year 1668 to me. Canisbay, Scotland is just on the edge of a sweet wee summer time..."
 
@@ -530,17 +530,17 @@ He just stood in the moor, watching the sheep and cattle. Some people thought he
 
 I wasn't paying him much attention either, in the beginning.
 
-I was frustrated, and thinking about some probably really bad ideas -- if you must know, I was thinking about how to revenge that heartless man and his rich wife, the bastards deserve something nice and sweet, I just haven't decided which way works the best.
+I was frustrated, and thinking about some probably really bad ideas -- if you must know, I was thinking about how to take revenge on that heartless man and his rich wife, the bastards deserve something nice and sweet, I just haven't decided which way works the best.
 
 When I was deep in thought, the little brat ran off again, like he always did when I was doing my things. I probably should keep him chained like a dog just to be safe.
 
-Anyway, he ran away, directly into the farm land where he really shouldn't go in. Cattles are like giant beasts to him, and he could so easily just get treaded like a shepherd's pie.
+Anyway, he ran away, directly into the farm land where he really shouldn't go. Those cattle are like giant beasts to him, and he could so easily just get trampled like a shepherd's pie.
 
 I was already thinking where to bury this little thing, when that man appeared before me, my boy in his arms. That was the first time I really looked at him, and he had such blue eyes.
 
-He said I should take better care of my boy, and I said thank you. My little thing said he ran there because he saw a pretty little flower, and this strange man just walked over to the flock, picked that most normal yellow whin from the moor and walked back. I had to invite him to tea after that.
+He said I should take better care of my boy, and I said Thank you. My little thing said he ran there because he saw a pretty little flower, and this strange man just walked over to the flock, picked that most normal yellow whin from the moor and walked back. I had to invite him to tea after that.
 
-"I'm here for the whins, too," he said when he sat down in my little hut. My boy was playing with the petals, trying to eat it.
+"I'm here for the whins, too," he said when he sat down in my little hut. My boy was playing with the petals, trying to eat them.
 
 I asked where he came from.
 
@@ -552,23 +552,23 @@ I asked where he came from.
 
 "Castiel," he said, the smile turned a teeny little sad, extremely imperceptible, but trust my eyes, I could tell. And then he said -- but I was sure that wasn't meant for me -- he said, "Miss it, yes, but I don't think I'm welcomed there anymore."
 
-"You're welcome to stay here, if it doesn't bore you," I told him. My humble little living place was just a barn no one wanted or looked. The village had a chapel and really not much going on -- not the best tourist spot, you might say.
+"You're welcome to stay here, if it doesn't bore you," I told him. My humble little living place was just a barn no one wanted or looked at. The village had a chapel and really not much going on -- not the best tourist spot, you might say.
 
 "It's a lovely place," he said. His voice was so... in awe, I'm sure no one in history said that about Canisbay like he did ever before, not even the one who built it.
 
-"It has the most beautiful whins of all places, and this is the best summer of all the time," he said.
+"It has the most beautiful whins of all places, and this is the best summer of all time," he said.
 
-I had to admit I would never know what's the difference of those teeny tiny flowers had this year or last, but apparently someone has been keeping records for them.
+I had to admit I would never know what the difference of those teeny tiny flowers had this year or last, but apparently someone has been keeping records for them.
 
 "And the bees too," he added, then carried on talking about sheep and cattle and pasture, but that's when I started getting bored and stopped listening.
 
 "As much as I'd love to be your company, mister," I told him, "I had work to do."
 
-I didn't really have a "work" to do, but I consider my planning for the future an important task. And of course, I didn't want him stay long enough to notice my cauldron or grimoire.
+I didn't really have a "work" to do, but I consider my planning for the future an important task. And of course, I didn't want him to stay long enough to notice my cauldron or grimoire.
 
 He apologized and left.
 
-At the sunset that day, when I walked past that field, he was still standing there, facing the west. The sheep and cattle had gone, I think he was just watching the color of the sun on the grass then.
+At the sunset that day, when I walked past that field, he was still standing there, facing the west. The sheep and cattle had gone; I think he was just watching the color of the sun on the grass then.
 
 I saw him again the next day but we didn't talk.
 
@@ -578,24 +578,24 @@ Did I forget to mention, witch hunting was a really popular sport around the are
 
 I don't blame them.
 
-They were quite right about the cauldron not being a pot for cooking soup for my boy's cold or the grimoire not a draw book for just scribbling and killing time.
+They were quite right about the cauldron not being a pot for cooking soup for my boy's cold or the grimoire not being a drawing book for just scribbling and killing time.
 
 The stake they tied me to was quite high and hot, and I was thinking I should have worn the other black dress -- I wouldn't mind that one burnt, but this one, I liked this red one.
 
-Then the fire started. The smoke was the first bothering thing. I couldn't breathe, let alone saying any spell. I was very busy cursing all of them. Fergus cried so loudly, I was pretty sure the whole Scotland could hear his noisy shrieking sound.
+Then the fire started. The smoke was the first bothersome thing. I couldn't breathe, let alone say any spell. I was very busy cursing all of them. Fergus cried so loudly, I was pretty sure the whole of Scotland could hear his noisy shrieking sound.
 
-And then I saw that strange young man in the trench coat again -- Castiel stood in the crowd, behind everyone, far away at the edge, looking at me with his big, sad eyes. I thought -- I saw, those blue eyes lighted up somehow.
+And then I saw that strange young man in the trench coat again -- Castiel stood in the crowd, behind everyone, far away at the edge, looking at me with his big, sad eyes. I thought -- I saw, those blue eyes light up somehow.
 
 The next thing I know, I'm here, standing in the room, surrounded by two men interrogating me just like those bloody peasants.
 
-It would be nice if mister Castiel could just explain what he'd done. If it was wizardry, it was far more powerful than I had ever known, and I'd really like to learn from the best.
+It would be nice if Mister Castiel could just explain what he'd done. If it was wizardry, it was far more powerful than I had ever known, and I'd really like to learn from the best.
 
 <br>
 
 <hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
 <br>
 
-The woman licks her lips as she finishes. "Well?" She raises her eyebrows, "Are we done with the story-telling time?"
+The woman licks her lips as she finishes. "Well?" She raises her eyebrows, "Are we done with the storytelling time?"
 
 Dean swallows, frowning down at the table, then glances at Sam.
 
@@ -639,11 +639,11 @@ Sam springs to his feet, gesturing to Dean. "Can I talk to you for a sec?" Right
 
 "I don't know, maybe he's trying to help, like I asked him to, you know? Maybe he thought if we could figure out something from them, we could change things. We might still get a chance to win."
 
-"Or maybe he was just there watching the flowers and so happened to run into a witch hunt, and he was just trying to save some poor woman and her young kid, who turned out happened to be the future King of Hell in like three hundred years."
+"Or maybe he was just there watching the flowers and so happened to run into a witch hunt, and he was just trying to save some poor woman and her young kid, who turned out, just happened to be the future King of Hell in like three hundred years."
 
 "Yeah, maybe that. And also, don't forget, the woman turned out to be a real witch."
 
-"I never know Crowley had a witch mother."
+"I never knew Crowley had a witch mother."
 
 "Tell me about that."
 
@@ -653,7 +653,7 @@ Sam springs to his feet, gesturing to Dean. "Can I talk to you for a sec?" Right
 
 "You didn't try to pray to him?"
 
-"Dude, I'm probably the last person he wants to see now. He dropped them by without showing up a feather. Didn't you listen, she said he said he didn't think he'd be welcome here, and that's all on me."
+"Dude, I'm probably the last person he wants to see now. He dropped them by without showing a feather. Didn't you listen, she said he said he didn't think he'd be welcome here, and that's all on me."
 
 "Then tell him he's wrong, and you're sorry."
 
@@ -661,7 +661,7 @@ Dean stares at Sam intensely, who stares him back with equal intensity.
 
 Dean averts the look, head tilting back at the witch and the very human kid -- human kid Crowley who still goes by Fergus, but that's Crowley to him already. "But what do we do with them now?"
 
-They are standing at the corner of the room, farthest to the table, but who knows if the witch might have some super hearings, they lower their voices to barely whispers for the heated discussion.
+They are standing at the corner of the room, farthest from the table, but who knows if the witch might have some super hearing, they lower their voices to barely whispers for the heated discussion.
 
 Sam follows his eyes, sighing. "I don't know. Feed them, I guess? Be good and kind to them so Crowley wouldn't turn out to be such a big dick?"
 
@@ -691,25 +691,25 @@ Rowena: self-loathing, newly deserted by the rich man going back to his rich wif
 
 The plan is disrupted by a massive explosion -- explosions, plural, and both figuratively and literally. The ground shakes violently once, twice, then a third time.
 
-From outside their half-covered window, they can see purple smoke rising from the ground in the distance. Rowena's eyes lighten up with the same shade of bright purple light at almost the same time, inhaling sharply. "It's happening," she say, staring into the space in front of her, eyes unfocused, wide with excitement.
+From outside their half-covered window, they can see purple smoke rising from the ground in the distance. Rowena's eyes light up with the same shade of bright purple light at almost the same time, inhaling sharply. "It's happening," she says, staring into the space in front of her, eyes unfocused, wide with excitement.
 
 "What's happening?" Sam dashes to her, alerted.
 
-"So many new lives in the magic, I can feel them. So many saved," Rowena mutters. "Oh I think the angel is saving us, saving us from all those terrible, terrible fate from those old, dark ages. Thank you, Castiel."
+"So many new lives in the magic, I can feel them. So many saved," Rowena mutters. "Oh I think the angel is saving us, saving us from all those terrible, terrible fates from those old, dark ages. Thank you, Castiel."
 
 Dean changes an alarming look with Sam.
 
 "What did he do this time?" Dean mouths.
 
-Sam shakes his head, turning on the TV. The purple smoke and light isn't only happening in the states, apparently. The breaking news reports it's happening everywhere in the worldwide, but experts have located the first wave starting from Scotland, near the old site of villages where rumor has it the most women have been accused of witchery and burned to death during popular Witch Hunting activities about three hundred years ago.
+Sam shakes his head, turning on the TV. The purple smoke and light aren't only happening in the states, apparently. The breaking news reports it's happening everywhere all over the world, but experts have located the first wave starting from Scotland, near the old site of villages where rumor has it the most women have been accused of witchery and burned to death during popular witch-hunting activities about three hundred years ago.
 
 "The ground zero time matches," Sam murmurs quietly. "And the location."
 
-"You think Cas bringing her here is causing all this?" Dean winces. They should know, when has the time travel shenanigan stops being a pain in the ass and causes more trouble than it fixes? *Back to the Future*, *12 Monkeys*, *Doctor Who*, take you pick. They even had that *Titanic* accident merely a year ago, surely Cas wouldn't forget that?
+"You think Cas bringing her here is causing all this?" Dean winces. They should know, when the time travel shenanigan has ever stopped being a pain in the ass and causes more trouble than it fixes? *Back to the Future*, *12 Monkeys*, *Doctor Who*, take your pick. They even had that *Titanic* accident merely a year ago, surely Cas wouldn't forget that?
 
-Dean starts pacing without himself noticing. "Cas, whatever you're doing in Scotland, stop and come back to us, alright? We don't need another global witch problem on top of the Leviathan problem -- unless, I don't know, they cancel each other out. But I wouldn't bet on that."
+Dean starts pacing without noticing. "Cas, whatever you're doing in Scotland, stop and come back to us, alright? We don't need another global witch problem on top of the Leviathan problem -- unless, I don't know, they cancel each other out. But I wouldn't bet on that."
 
-He takes a breath, looking up at the ceiling. "I'm sorry about lashing out on you earlier, alright? I'm just..." he sighs. "We're running out of time, and I can really use your help. So, Houston to Cas, stop running around and come back here, you hear me?"
+He takes a breath, looking up at the ceiling. "I'm sorry about lashing out at you earlier, alright? I'm just..." he sighs. "We're running out of time, and I can really use your help. So, Houston to Cas, stop running around and come back here, you hear me?"
 
 Dean closes his eyes and focuses on his thought, calling Cas's name in his mind a couple more times for good measure, then opens his eyes again.
 
@@ -717,15 +717,15 @@ He looks around, waiting expectedly. Sam, too.
 
 The news flash on TV catches their attention before the fluttering air in the room does -- though they practically happen at the same time.
 
-One second the reporter was standing in the Scotland high ground, showing a burst of purple-cloud explosion behind her, the next, the image is cut to a new breaking news from New York. The Metropolitan Museum of Art (MET) reports their current exposition of volcanic exhibition have to stop, because the local government of Pompeii, Italy protests that the local people want their households back. In fact, their local government has made a long series of protests and announcements just as the reporters going to the site, as if the people are just waking up from a collective dream. The archeologists in the city report that they are very confused as to why they were even there, since the city is vigorous with life, with no visible buried fossil under volcanic lava as they previously seem to remember.
+One second the reporter was standing in the Scotland high ground, showing a burst of purple-cloud explosion behind her, the next, the image is cut to a new breaking news from New York. The Metropolitan Museum of Art (MET) reports their current exposition of volcanic exhibits has to stop, because the local government of Pompeii, Italy protests that the local people want their households back. In fact, their local government has made a long series of protests and announcements just as the reporters are going to the site, as if the people are just waking up from a collective dream. The archeologists in the city report that they are very confused as to why they were even there, since the city is vigorous with life, with no visible buried fossil under volcanic lava as they previously seemed to remember.
 
 "That's our home!" A man speaks behind them, pointing at the TV screen.
 
 Dean and Sam turn around sharply.
 
-There, in the middle of the cabin, stand four people dressed like ancient Romans from vintage movies or shows, with long tunic and coat wrapping around their body and bare feet. The man standing in front of the group looks about middle age, with his wife and two adolescent-looking son and daughter stand behind him.
+There, in the middle of the cabin, stand four people dressed like ancient Romans from vintage movies or shows, with long tunics and coats wrapping around their bodies and bare feet. The man standing in front of the group looks about middle-aged, with his wife and adolescent-looking son and daughter standing behind him.
 
-With the accident with Rowena, Dean has a pretty good guess why they are here. But he still takes another look around them, trying vainly to find their flight driver -- but unsurprisingly, the angel isn't anywhere in sight. Dean lets out another frustrated sigh.
+With the accident with Rowena, Dean has a pretty good guess at why they are here. But he still takes another look around them, trying vainly to find their flight driver -- but unsurprisingly, the angel isn't anywhere in sight. Dean lets out another frustrated sigh.
 
 "Great, more history refugee," Dean mumbles, making sure it's quiet enough only Sam can hear him.
 
@@ -735,13 +735,13 @@ With the accident with Rowena, Dean has a pretty good guess why they are here. B
 
 "I thought you said you're gonna apologize to him! Not, you know, trigger him even worse!" Sam grumbles, not really accusing but it certainly sounds like one to Dean's ears.
 
-"I did!" Dean glares at his brother, shifting his feet uneasily. "Sort of, I think. He has wings! What can I do to stop him flying around? Not like I can fly with him, am I?"
+"I did!" Dean glares at his brother, shifting his feet uneasily. "Sort of, I think. He has wings! What can I do to stop him from flying around? Not like I can fly with him, am I?"
 
 Sam shakes his head disapprovingly.
 
 "Can you tell me where we are and what happened?" The ancient Pompeii man asks politely.
 
-They are so focused on their problem they'd even forget that mysteriously dropped family are probably still having some jet lag for a two-thousand-year fast forward flight.
+They are so focused on their problem they'd even forget that mysteriously dropped family is probably still having some jet lag for a two-thousand-year fast-forward flight.
 
 Sam takes the burden of showing them a warm welcome from 2012 -- as "warm" as they can manage, anyway.
 
@@ -757,9 +757,9 @@ The man's name is Caecilius. He tells them. With his wife Metella, daughter Evel
 
 "What's 'vol-ca-no'?" Caecilius interrupts confusedly.
 
-Sam frowns, then, "Oh, I almost forget the word 'volcano' wasn't invented until that day."
+Sam frowns, then, "Oh, I almost forgot the word 'volcano' wasn't invented until that day."
 
-"Is the big angry fire mountain near your house particularly active that day?" Dean asks instead, "Puffing hot smokes, bubbling dragon breath, grumbling sound from under the ground? Animals and pets running round, leaving the city?"
+"Is the big angry fire mountain near your house particularly active that day?" Dean asks instead, "Puffing hot smokes, bubbling dragon breath, grumbling sound from under the ground? Animals and pets running around, leaving the city?"
 
 "Mount Vesuvius has always been like that," Caecilius considers, "but never anything real or dangerous coming out of it."
 
@@ -767,13 +767,13 @@ Sam frowns, then, "Oh, I almost forget the word 'volcano' wasn't invented until 
 
 Caecilius looks from Dean to Sam, then back to him, frowning with thoughts. "But then why us? If that's true, there are twenty thousand people in the city, why only save us?"
 
-"I'm pretty sure it's not just you," Dean glances at the TV, which is showing the street scenes in Pompeii now, seeming like just any other normal-looking village with normal people walking around in a normal day.
+"I'm pretty sure it's not just you." Dean glances at the TV, which is showing the street scenes in Pompeii now, seeming like just any other normal-looking village with normal people walking around on a normal day.
 
 "Because I prayed, Dad," the daughter suddenly speaks, "and I think he's an angel. He heard me."
 
-"Yeah, he does that," Dean nods reflexively, "sometimes. Can you give us a minute?" He pats on Sam's shoulder as he stands up. The father turns around to talk something rapidly with his daughter.
+"Yeah, he does that," Dean nods reflexively, "sometimes. Can you give us a minute?" He pats Sam's shoulder as he stands up. The father turns around to talk rapidly with his daughter.
 
-Sam follows him to the corner of the cabin, keeping a distance with the family and the still-purple-eyed wicky Rowena and the kid Crowley.
+Sam follows him to the corner of the cabin, keeping a distance from the family and the still-purple-eyed wicky Rowena and the kid Crowley.
 
 "You thinking what I'm thinking?" Dean starts.
 
@@ -783,11 +783,11 @@ Sam follows him to the corner of the cabin, keeping a distance with the family a
 
 "Maybe he's just trying to help?"
 
-"How? How does a suddenly non-extinct city in Italy that's supposed to be buried underground two thousand years ago help us fighting Leviathans?"
+"How? How does a suddenly non-extinct city in Italy that's supposed to be buried underground two thousand years ago help us fight Leviathans?"
 
-"I don't know, but maybe, alright? He's an angel, he might see things in a grand schema that we don't know about. And don't forget, Cas can be a strategist too, he led the Heaven Civil War before."
+"I don't know, but maybe, alright? He's an angel; he might see things in a grand schema that we don't know about. And don't forget, Cas can be a strategist too; he led the Heaven Civil War before."
 
-"Yeah, and that's when he decided un-sinking Titanic was a great idea! Why am I having the feeling he's not really being *strategic*, just wandering around in the timeline and do what he can when he can, like a child." Dean rubs his eyes tiredly. "I don't really know what to do anymore, Sam, I'm worried. If only he can just come back to us and listen, and talk!"
+"Yeah, and that's when he decided unsinking the Titanic was a great idea! Why am I having the feeling he's not really being *strategic*, just wandering around in the timeline and doing what he can when he can, like... like a freaking child." Dean rubs his eyes tiredly. "I don't really know what to do anymore, Sam. I'm worried. If only he could just come back to us and listen, and talk!"
 
 "Then ask that in your prayer. He might listen if you really mean it."
 
@@ -799,9 +799,9 @@ Dean sighs, nodding briefly.
 
 Sam goes back to the room now crowded with people.
 
-Dean stands at the threshold of the cabin, looking up at the sky. "Cas," he whispers under his breath, thinking. He has to pause there for a second too long to compose his thoughts. He remembers the last wounded look on Cas's face when he couldn't help snapping at him and the angel decided to run away to Scotland and Italy.
+Dean stands at the threshold of the cabin, looking up at the sky. "Cas," he whispers under his breath, thinking. He has to pause there for a second too long to compose his thoughts. He remembers the last wounded look on Cas's face when he couldn't help snapping at him, and the angel decided to run away to Scotland and Italy.
 
-He lets his breath out, long and slow. "I'm not mad at you, Cas," he tells the sky slowly. "Please, we can fix this, together. You and me, whatever we did, " -- he managed to use "we" instead of "you" there, forcing himself to not turn to the angry Hulk mode again, "we can fix this. We can save lives." *I can save you,* his mind supplies, when his voice is choked in the throat, *like all those times you saved me.*
+He lets his breath out, long and slow. "I'm not mad at you, Cas," he tells the sky slowly. "Please, we can fix this, together. You and me, whatever we did, " -- he managed to use "we" instead of "you" there, forcing himself not to turn into the angry Hulk mode again, "we can fix this. We can save lives." *I can save you,* his mind supplies, when his voice is choked in the throat, *like all those times you saved me.*
 
 *Come back to me, Cas. Please.*
 
@@ -817,9 +817,9 @@ Then he waits.
 
 (**Notes after chapter:**
 
-This chapter in its entirety is inspired by Doctor Who S04E02 *The Fires of Pompeii*. It's just too tempting not to write the crazy broken Cas pays a visit to Pompeii, trying to save as many people as he can, with single mindset being "he has to save people" like Dean told him to.
+This chapter in its entirety is inspired by Doctor Who S04E02 *The Fires of Pompeii*. It's just too tempting not to write the crazy broken Cas pays a visit to Pompeii, trying to save as many people as he can, with a single mindset being "he has to save people" like Dean told him to.
 
-There is a known loophole I don't want to get into trouble fixing so I pretend it's not there: Let's just pretend ancient people from Pompeii also speaks fluent English and they can understand each other just fine.)
+There is a known loophole I don't want to get into trouble fixing so I pretend it's not there: Let's just pretend ancient people from Pompeii also speak fluent English so they can understand each other just fine without a translator.)
 
 #### draft notes
 
@@ -839,19 +839,19 @@ note about Sam/Dean's assumptions about Cas's motivations: they always guessed h
 
 Cas doesn't come immediately.
 
-But he does come eventually, when the world is in toilet.
+But he does come eventually, when the world is in the toilet.
 
-The news on the TV long stopped making any sense. Archeologists, biologists, and astronomers are all twisting their minds about all the peculiar breaking news. After the report from Pompeii, there is a new one cutting in about dinosaurs escaped from zoos (which they all seem to remember all of a sudden dinosaurs are indeed common and normal to see nowadays). Then another one from NASA about asteroid rains abnormity, and the star known as Phaeton is spinning off its orbits from between Mars and Jupiter, flying toward Earth, announcing immediate end-of-world threat.
+The news on the TV long stopped making any sense. Archeologists, biologists, and astronomers are all twisting their minds about all the peculiar breaking news. After the report from Pompeii, there is a new one cutting in about dinosaurs escaped from zoos (which they all seem to remember all of a sudden dinosaurs are indeed common and normal to see nowadays). Then another one from NASA about asteroid rains' abnormality, and the star known as Phaeton is spinning off its orbits from between Mars and Jupiter, flying toward Earth, announcing an immediate end-of-world threat.
 
 Dean turns off the TV when it starts talking about a potential war between some other humanoid species against us humans.
 
-It's freaking butterfly effects all over the places.
+It's freaking butterfly effects all over the place.
 
-What's the difference between the world ending because of one cause, versus there are probably five other different reasons it could probably end from? It must be how a doctor feels when they start treating a dying patient who's diagnosed with one deadly disease, only to find there are five other different deadly diseases hidden underneath.
+What's the difference between the world ending because of one cause, versus there are probably five other different reasons it could end with? It must be how a doctor feels when they start treating a dying patient who's diagnosed with one deadly disease, only to find there are five other different deadly diseases hidden underneath.
 
 The feeling is called: hopeless desperation.
 
-"I'm going to sit in my car for a while," Dean tells Sam, already half-way walking out toward the door.
+"I'm going to sit in my car for a while," Dean tells Sam, already halfway walking out toward the door.
 
 "Isn't it a little too busy for a break?" Sam looks up from his laptop.
 
@@ -865,7 +865,7 @@ That is when Castiel shows up.
 
 The angel pops out of the thin air in the Impala's backseat, panting heavily and anxiously.
 
-Dean snaps his eyes open, staring at the backseat from the rear mirror, then immediately turns around to stare at the angel in the eyes. "Cas!" he calls out. Joy and alarm each takes half the weight in his voice.
+Dean snaps his eyes open, staring at the backseat from the rear mirror, then immediately turns around to stare at the angel in the eyes. "Cas!" he calls out. Joy and alarm each take half the weight in his voice.
 
 Cas's eyes are wide with horror. He can't even form a full sentence for the first five minutes as he's breathing so violently.
 
@@ -873,19 +873,19 @@ Dean digs out a blanket from the Impala's truck and climbs into the back seat to
 
 Cas is somehow still in his hospital gown underneath the trench coat. He shakes his head at Dean, but Dean has no idea of the meaning.
 
-"What's wrong, Cas? What happened?" Dean asks, more worried than any time of this year. "It's okay, you're okay now. You're safe." He wraps his arms around the blanket, keeping it tighter around Cas.
+"What's wrong, Cas? What happened?" Dean asks, more worried than at any time this year. "It's okay, you're okay now. You're safe." He wraps his arms around the blanket, keeping it tighter around Cas.
 
 Cas looks nothing remotely like an all-powerful angel now, more like a freaked-out child, terrified of monsters in his closet and refusing to turn off the light in his room at night, or a patient shivering with disease, unable to control his body.
 
-Dean wonders if it might be true, if he might indeed just be the combination of a terrified child and a patient that's not well enough. He reminds himself that broken wall from Sam's head is still in Cas.
+Dean wonders if it might be true, if he might indeed just be the combination of a terrified child and a patient who's not well enough. He reminds himself that the broken wall from Sam's head is still in Cas.
 
-"I'm sorry, Dean, I'm so, so sorry." The minute Cas is able to speak again, apology is the first thing coming out of his mouth.
+"I'm sorry, Dean, I'm so, so sorry." The minute Cas is able to speak again, apologies are the first thing coming out of his mouth.
 
-Dean caresses his arm where the blanket covers. For some reason, he really doesn't want to know what Cas is apologizing for, but the reasonable mind also knows it must be important. He has never seem Cas frightened like this -- perhaps only that brief second when he took over Sam's brokenness and looked up at them with the red light crawling in his veins.
+Dean caresses his arm where the blanket covers. For some reason, he really doesn't want to know what Cas is apologizing for, but the reasonable mind also knows it must be important. He has never seen Cas frightened like this -- perhaps only that brief second when he took over Sam's brokenness and looked up at them with the red light crawling in his veins.
 
-Dean sighs, feeling his gut twisted in all sorts of knots. He waits for another couple of minutes before asking, just need that extra buffer to prepare himself: "What happened?"
+Dean sighs, feeling his gut twisted in all sorts of knots. He waits for another couple of minutes before asking, just needs that extra buffer to prepare himself: "What happened?"
 
-Cas closes his eyes with deep frown. For a moment, he looks so thin and tiny under that blanket. Dean is reminded of a little wounded bird he once found, on the roadside, crippled by a car's windshield that its wings are broken, hanging pitifully behind its body. Dean tried to save it, but he was merely a boy back then, hardly knew anything about animal emergency procedures. The bird didn't survive long. But Dean would like to think it still found some comfort in the warmth of his palms instead of dying alone on the roadside, that got to mean something.
+Cas closes his eyes with a deep frown. For a moment, he looks so thin and tiny under that blanket. Dean is reminded of a little wounded bird he once found, on the roadside, crippled so badly, its wings broken, hanging pitifully behind its body. Dean tried to save it, but he was merely a boy back then, hardly knew anything about animal emergency procedures. The bird didn't survive long. But Dean would like to think it still found some comfort in the warmth of his palms instead of dying alone on the roadside, that got to mean something.
 
 Now he thinks it might not make any difference. He still didn't save it, after all.
 
@@ -897,15 +897,15 @@ He opens his eyes. There are tears in those blue eyes, flooding out, dropping fr
 
 Dean swallows. His heart is being torn to pieces watching Cas like that. He asks quietly, "What did you do?"
 
-"Those people were going to be burn to death, so I tried to get them out. And the ones going to be buried in ashes, I had to help them too." Cas's eyes wander from Dean's face to somewhere left of the car's window, casting to the space. "And then I remember so many others, so many deaths along the way during all those millions of years of watching. I never did anything when they died. They were so happy dancing around the fires and singing poetries."
+"Those people were going to be burned to death, so I tried to get them out. And the ones going to be buried in ashes, I had to help them too." Cas's eyes wander from Dean's face to somewhere left of the car's window, casting to the space. "And then I remember so many others, so many deaths along the way during all those millions of years of watching. I never did anything when they died. They were so happy dancing around the fires and singing poetry."
 
 "Who were?"
 
 "Neanderthals," Cas answers reflexively. "And they, the dinosaurs, I mean, if we are to save lives, are they not worth saving? Do they deserve to be extinct all those millions of years ago? So I went back then, trying to help them too... And then I remember there was a planet eons ago, Phaeton, as young as Earth, as beautiful as Saturn. I should have saved it, but instead, I watched it explode. So I went back trying to correct that wrong too..."
 
-His gaze shifts back on to Dean's face, more tears dropping. "But Dean, I think... I'm afraid I might have made everything even worse than before. I don't know what to do... I'm sorry --"
+His gaze shifts back onto Dean's face, more tears dropping. "But Dean, I think... I'm afraid I might have made everything even worse than before. I don't know what to do... I'm sorry --"
 
-Dean closes his eyes, forcing his breath coming out slowly. He can still hear his heart pounding and blood rushing to his head, burning at the back of his brain.
+Dean closes his eyes, forcing his breath to come out slowly. He can still hear his heart pounding and blood rushing to his head, burning at the back of his brain.
 
 He forces his voice gentle and kind when he starts talking again, slow and as patient as he can manage. "Okay, here's what we're gonna do --" He leaves a hand on Cas's shoulder, putting a reassuring weight there, hoping Cas can feel it. "-- We'll go back fixing everything you changed, one thing at a time, putting them back the way they were. You'll take me with you, no more flying around on your own, wherever you're going."
 
@@ -913,13 +913,13 @@ He forces his voice gentle and kind when he starts talking again, slow and as pa
 
 "All the more reasons to tag along." Dean manages to squeeze a light smile at him, a tired one, but a smile nonetheless. "Together, or not at all. You understand?"
 
-Cas nods small. "Thank you, Dean," he murmurs with a small voice.
+Cas nods small. "Thank you, Dean," he murmurs in a small voice.
 
 So it is settled.
 
 <br>
 
-(**After chapter notes**: I do realize there is another loophole that I can't find a neat way to fix within the length so we'll have to pretend it's not there: Whenever the history is changed in the past, their memory would have been modified to think that new reality is the normalcy without realizing anything strange, like the *Titanic* episode showed, so everything related to Pompeii should be a new normalcy, same with Neanderthals or dinosaurs situations. Then they wouldn't even know what's the problem to fix. In this version, I'm setting it as if the time line is changed but at least Dean and Sam's memory remained the same as previously -- feels it's easier to handle. Please indulge me to move on with this premise.)
+(**After chapter notes**: I do realize there is another loophole that I can't find a neat way to fix within the length so we'll have to pretend it's not there: Whenever the history is changed in the past, their memory would have been modified to think that new reality is the normalcy without realizing anything strange, like the *Titanic* episode showed, so everything related to Pompeii should be a new normalcy, same with Neanderthals or dinosaurs situations. Then they wouldn't even know what the problem is to fix. In this version, I'm setting it as if the timeline is changed but at least Dean and Sam's memoried remained the same as previously -- feels it's easier to handle. Please indulge me to move on with this premise.)
 
 #### draft notes
 
@@ -935,17 +935,17 @@ when after shattering the star and made the asteroid belt, Cas is properly frigh
 
 They drop by Rufus' cabin briefly first -- need to pick up two passengers from the past.
 
-Dean gives Sam a quick debrief for catching up, while Cas goes to the young boy, lowering himself so he can look at the kid in the eyes and talk to him on the same height.
+Dean gives Sam a quick debrief to catch up, while Cas goes to the young boy, lowering himself so he can look the kid in the eyes and talk to him at the same height.
 
 "I'm so sorry," Dean hears Cas saying quietly to the human kid version of Crowley, wondering what Cas is sorry for him about. He turns his attention to his conversation with Sam after that.
 
-"It's going to be like re-sinking *Titanic*. You sure you can do that? It's not going to be easy." Sam warns him with a quiet voice.
+"It's going to be like re-sinking the Titanic. You sure you can do that? It's not going to be easy." Sam warns him in a quiet voice.
 
 "No one said anything about easy," Dean glances at Cas absentmindedly, "but it has to be done. We're just changing things to make them the same as before, not like killing more people."
 
-"It might end up feeling so. You sure you don't want me come along?"
+"It might end up feeling so. You sure you don't want me to come along?"
 
-"Nah, we still need someone in the home base. You know, sending home beacon or something."
+"Nah, we still need someone at the home base. You know, sending home beacon or something."
 
 "Pretty sure you made that one up."
 
@@ -965,9 +965,9 @@ Cas nods at Rowena and Fergus. And that's their only cue of the flight taking of
 
 <br>
 
-Dean still remembers his last trip to Scotland. Which so happened to be also something related to Crowley -- to dig his human remains up so that he'd return Bobby's soul. He'd never stop making mental connection between this land and Crowley ever.
+Dean still remembers his last trip to Scotland. Which so happened to be also something related to Crowley -- to dig his human remains up so that he'd return Bobby's soul. He'd never stop making mental connections between this land and Crowley ever.
 
-Rowena doesn't seem delighted to be back here. Dean doesn't blame her. Who would ever want to come back to a place where all her neighbors would want to burn her dead.
+Rowena doesn't seem delighted to be back here. Dean doesn't blame her. Who would ever want to come back to a place where all her neighbors would want to burn her alive?
 
 "Master Castiel, please," she starts, as they walk toward the village together. The little boy clenches to his mother's tail of shirt again.
 
@@ -987,11 +987,11 @@ Cas can't answer. Dean answers for him, "Blame that on me then. I'm the one aski
 
 Three hours later, they watch the villagers tie Rowena onto a burning hot pyre and start lighting the firewood. The villagers yell and sing with joy, shouting loudly "Witch" and throwing stones at her. Fergus hides behind a tree, crying.
 
-Dean thinks he might know why Crowley is the way he is now. They might just created the King of the Hell themselves.
+Dean thinks he might know why Crowley is the way he is now. They might have just created the King of Hell themselves.
 
-Cas turns his back to the scene, not wanting to watch anymore. Dean does the same after the first five minutes.
+Cas turns his back on the scene, not wanting to watch anymore. Dean does the same after the first five minutes.
 
-"This job, our souls, we're damned to Hell." Dean murmurs. He can still see the burning fire at the back of his eyes even if he's facing the crowd with his back.
+"This job, our souls, we're damned to Hell." Dean murmurs. He can still see the burning fire in the back of his eyes even if he's facing the crowd with his back.
 
 Cas is holding back tears. "They are just humans, why are they even more cruel than demons?" he asks Dean.
 
@@ -1003,11 +1003,11 @@ And that is only the beginning.
 
 Rowena is hardly the most difficult to witness -- technically, since she *is* a witch, the villagers were at least not mistaken. But there are so many others that are not.
 
-"That is the past me, saving them," Cas points to Dean, from a far side of the witch trial scene. Dean watches the past-Cas busily stashing innocent human women, hiding them from villagers. Some of them are girls so young barely coming of the age.
+"That is the past me, saving them," Cas points to Dean, from the far side of the witch trial scene. Dean watches the past-Cas busily stashing innocent human women, hiding them from the villagers. Some of them are girls so young barely coming of age.
 
 It does feel like committing murders now, just like Sam said. Dean thinks, biting his lips.
 
-But then he remembers the explosions in his timeline, the global-wise purple-cloud explosions, shaking the ground, starting from Scotland. One way or another, whatever good they think the past-Cas did trying to help these women, it's breaking the reality apart in three hundred years. That's a good enough reason to sacrifice those women (who were already meant to be and already did sacrifice, if they didn't do anything in the first place).
+But then he remembers the explosions in his timeline, the global purple-cloud explosions, shaking the ground, starting from Scotland. One way or another, whatever good they think the past-Cas did trying to help these women, it's breaking the reality apart in three hundred years. That's a good enough reason to sacrifice those women (who were already meant to be and already did sacrifice, if they didn't do anything in the first place).
 
 It doesn't make the whole process any easier.
 
@@ -1015,13 +1015,13 @@ It doesn't make the whole process any easier.
 
 Another woman holds the hand of her little daughter. The villagers don't even spare the daughter, saying the moment they came into the village, the plague started.
 
-So may times, they stop on their way, looking at each other in the eyes, asking silently, "Is this really the right thing to do?"
+So many times, they stop on their way, looking at each other in the eyes, asking silently, "Is this really the right thing to do?"
 
 And at least one of them would have to tell the other, "Yes." It's something they *have to* do.
 
 So they continue doing that, until the last woman past-Cas saved is condemned and burned again. The screaming when the flame licks onto her skin is a piercing pain, passing through their ears and reaching the depths of their brain. Dean thinks he can see blood on his hands never able to be washed away ever since.
 
-"Is this what it's like, to be an angel? Watching over human from above, and never allowed to save them, even if you could or wanted?" Dean asks, as they walk out of Scotland on foot, just to stretch the moment, to let their heads cool down by the highland wind.
+"Is this what it's like, to be an angel? Watching over humans from above, and never allowed to save them, even if you could or wanted?" Dean asks, as they walk out of Scotland on foot, just to stretch the moment, to let their heads cool down by the highland wind.
 
 "For two thousand years I watched the Earth, we're not allowed to come down to the ground, or to make any interference. Not that I ever thought about doing so," Cas answers quietly. "That changed after we met."
 
@@ -1029,13 +1029,13 @@ Dean smiles bitterly. "And it's not making things any easier, isn't it?"
 
 "No," Cas agrees, turning his head slightly, looking at Dean's side. But he doesn't elaborate.
 
-And Dean thinks he can start to understand now. He imagines an angel sitting on the edge of the cloud, looking down at the earth. For thousands of years Cas would just watch, and now, for the first time, he's walking among them. How can it possibly *not* be confusing and easy to make mistakes? How can they even remotely expect him to act the same way humans would do, making the same choices, the "right" choices as they'd make, in the difficult times? And yet, Cas is here, walking alongside him, keeping him company, making moves together with him. What more can he ask?
+And Dean thinks he can start to understand now. He imagines an angel sitting on the edge of the cloud, looking down at the earth. For thousands of years, Cas would just watch, and now, for the first time, he's walking among them. How can it possibly *not* be confusing and easy to make mistakes? How can they even remotely expect him to act the same way humans would do, making the same choices, the "right" choices as they'd make, in the difficult times? And yet, Cas is here, walking alongside him, keeping him company, making moves together with him. What more can he ask?
 
 Dean glances at Cas, running into Cas's eyes. And he says, quiet and sincere, "I'm so sorry, Cas." and, "Thank you."
 
 He doesn't explain why.
 
-But he thinks Cas understand.
+But he thinks Cas understands.
 
 Because the angel has a tiniest curl on the tip of his lips. And Dean doesn't miss it.
 
@@ -1055,19 +1055,19 @@ consequence if not fix: witch running around in Scotland, cursing people through
 
 > (Dean POV) trace back: take Caecilius back to Pompeii, witness eruption, can't save everyone, can't save anyone
 
-If taking a few women to their misery fate is something terrible enough to cast his soul to the Hell, then condemning a whole city must be something that keeps his soul in the Lowest Pit for eternity. Dean thinks, can't help grimacing.
+If taking a few women to their miserable fate is something terrible enough to cast his soul to Hell, then condemning a whole city must be something that keeps his soul in the Lowest Pit for eternity. Dean thinks, can't help grimacing.
 
 "No, it wouldn't." Cas interrupts his thoughts. "It's the right thing to do."
 
-Dean nods. They have to keep repeating it until they actually believe it. Why does he still feels like shit if that's true? Even when it's *his* idea?
+Dean nods. They have to keep repeating it until they actually believe it. Why does he still feel like shit if that's true? Even when it's *his* idea?
 
-They take Caecilius and his family back to the doomed city in the Eruption Day.
+They take Caecilius and his family back to the doomed city on Eruption Day.
 
-"I thought you said the Mount Vesuvius is going to erupt today," the man asks in a panic the moment he realizes where they're sent back to.
+"I thought you said Mount Vesuvius is going to erupt today," the man asks in a panic the moment he realizes where they're sent back to.
 
 His house is decorated with jewelry collections and elegant sculptures, but none of the fortune is going to save him today.
 
-"I thought you are an angel!" the daughter cries, begging at Cas's feet. "Please, save us. I know what's coming, I don't want to die."
+"I thought you were an angel!" the daughter cries, begging at Cas's feet. "Please, save us. I know what's coming, I don't want to die."
 
 Cas looks at Dean helplessly.
 
@@ -1075,23 +1075,23 @@ Cas looks at Dean helplessly.
 
 "Not to us, not yet," the mother says, holding her daughter.
 
-"I'm sorry," Dean says again, feeling the words weaker by every time he repeats it. And he's said it a lot today. He might have to say it more.
+"I'm sorry," Dean says again, feeling those words weaker every time he repeats them. And he's said it a lot today. He might have to say it more.
 
-He has to find enough courage to walk out on the family, shutting their pleading eyes behind his back. Cas isn't taking it any easier than him. His jaw is tightened, the lines around his eyes crinkled, his gaze locked on the smoking mountain not far from the city. From where they stand on the street, the Mount Vesuvius looks like nothing more than a quiet sleeping creature, snorting white smoke occasionally from its nozzle. It might be giving signs, but not enough to alarm the local people to evacuate. The street is busy with normal mundane lives, people walking around chatting, stalls selling fruits and clothes. Just a peaceful little village on the fringe of disappearing.
+He has to find enough courage to walk out on the family, shutting their pleading eyes behind his back. Cas isn't taking it any easier than him. His jaw is tightened, the lines around his eyes crinkled, his gaze locked on the smoking mountain not far from the city. From where they stand on the street, Mount Vesuvius looks like nothing more than a quiet sleeping creature, snorting white smoke occasionally from its nozzle. It might be giving signs, but not enough to alarm the local people to evacuate. The street is busy with normal mundane lives, people walking around chatting, stalls selling fruits and clothes. Just a peaceful little village on the fringe of disappearing.
 
-"What did you do to save them last time?" Dean asks quietly. Too defeated to gather any more strength to speak any louder. "Fly all of them out of city?"
+"What did you do to save them last time?" Dean asks quietly. Too defeated to gather any more strength to speak any louder. "Fly all of them out of the city?"
 
 "I stopped the volcano from erupting." Cas looks at the mountain.
 
 "You can do that?" Dean doesn't know if he should feel awed or intimidated.
 
-"It's like redirecting a riverway, leading the water elsewhere." Cas flies them closer to the volcano, pointing at the dark red color under the rock. It's like watching blood pumping in a human's veins. "Releasing the pressure slowly, leading the lava through the earth's crust, then the Mount Vesuvius would never be active."
+"It's like redirecting a riverway, leading the water elsewhere." Cas flies them closer to the volcano, pointing at the dark red color under the rock. It's like watching blood pumping in a human's veins. "Releasing the pressure slowly, leading the lava through the earth's crust, then Mount Vesuvius would never be active."
 
 Dean closes his eyes and takes a long breath. "And now we have to re-erupt it and bury the city. It's like Sodom and Gomorrah..." He lets the breath out slowly. "Do it, Cas."
 
 It's even more cruel than the witch trials.
 
-They might be able to have some self-comfort that there are some evil witches that can be removed from the history during the trials. But burning a whole city -- this is nothing about good and evil. It's just fate and history now.
+They might be able to have some self-comfort that there are some evil witches that can be removed from history during the trials. But burning a whole city -- this is nothing about good and evil. It's just fate and history now.
 
 Dean reminds himself of that day when he wore Death's Ring for a day. He feels like this is that day again.
 
@@ -1099,9 +1099,9 @@ Dean reminds himself of that day when he wore Death's Ring for a day. He feels l
 
 "Yes," Dean tells him through gritted teeth. If he's asked again, he's afraid he might change the answer.
 
-They watch the eruption from the high ground on the other side of the city. Ash of the volcano covers the sky, lava pouring into the city. People cry for help and horrified by the divine fury, and Dean and Cas stand there in utter silence, knowing it's not divine fury, it's just their doing.
+They watch the eruption from the high ground on the other side of the city. Ash from the volcano covers the sky, lava pouring into the city. People cry for help and are horrified by the divine fury, begging for god's mercy, and Dean and Cas stand there in utter silence, knowing it's not divine fury, it's just their doing.
 
-"This is the second time I watch this happen," Cas says slowly, turning his eyes away from the ruined city below. "And I've never felt worse in millenniums. I hate to see that we can't save everyone -- we can't save *anyone*." He kneels down on the ground, looking like a lost child. "What's the point of having all the power and free wills but can't save them?"
+"This is the second time I watched this happen," Cas says slowly, turning his eyes away from the ruined city below. "And I've never felt worse in millennia. I hate to see that we can't save everyone -- we can't save *anyone*." He kneels down on the ground, looking like a lost child. "What's the point of having all the power and free wills but can't save them?"
 
 Dean wants to say he feels the same, but words choke in his throat around the lump there.
 
@@ -1113,9 +1113,9 @@ Dean glances at him, eyes questioning.
 
 The image in Dean's mind shifts to two angels sitting at the edge of the cloud, side by side, looking down at the Earth together. The Earth is having burning flames and smoke rising from a corner on the north side, and they are just sitting there, watching. One of them has dazzling blue eyes, and the other, green.
 
-He sudden feels old. Now he starts to understand when Cas occasionally slipped a line like "I'm millions of years old, Dean." It's not about the years he has spent, Dean realizes. It's about how much he has seen, how much he has experienced. And right now, standing by Cas's side, he feels as though he's experiencing everything Cas's been through, and his mind is aging just as Cas did -- ancient, and tired.
+He suddenly feels old. Now he starts to understand when Cas occasionally slips a line like "I'm millions of years old, Dean." It's not about the years he has spent, Dean realizes. It's about how much he has seen, how much he has experienced. And right now, standing by Cas's side, he feels as though he's experiencing everything Cas's been through, and his mind is aging just as Cas did -- ancient, and tired.
 
-He starts to understand so much now. All those things he never really think deep enough about Cas -- that he's an angel, that he's so very old, and so very lonely.
+He starts to understand so much now. All those things he never really thinks deep enough about Cas -- that he's an angel, that he's so very old, and so very lonely.
 
 But how can he ever really understand a being like Cas? Being only just a mortal, a human, looking up at an angel?
 
@@ -1149,7 +1149,7 @@ Cas is right about their music and poetry. The Neanderthals. Dean thinks, watchi
 
 "But you rooted for them? You came back 40 thousand years to save them," Dean says, voice neutral, not anywhere close to accusing. Just asking. Just listening.
 
-"It's a whole human race. I couldn't bear to see them disappear. All those art and thoughts and lives, they'll never appear again anywhere else. You people, the Homo Sapien Sapiens never have anything similar." Cas watches them with a small tender smile like a mother watching a child, a gardener watching a flower in his garden. Dean notices it, and finds it familiar.
+"It's a whole human race. I couldn't bear to see them disappear. All those arts and thoughts and lives, they'll never appear again anywhere else. You people, the Homo Sapien Sapiens never have anything similar." Cas watches them with a small tender smile like a mother watching a child, a gardener watching a flower in his garden. Dean notices it, and finds it familiar.
 
 "Does that mean I'd have four fingers and four toes if we're descendants of them?" Dean tries to ease the mood, can't help wondering aloud. "I bet I won't look as good as I am now, innit?"
 
@@ -1157,9 +1157,9 @@ Cas glances at him with that small smile still hanging on the tip of his mouth. 
 
 Dean can't stop his cheeks from burning. "You don't just say shit like that," he mumbles, turning back to those ancient creatures -- humans, they're technically humans, he has to remind himself.
 
-It is funny to watch those primitive humans, really. It's almost surreal. They look almost like real humans, but the furs and the sound they make to communicate, they seem to be still on the spectrum of creatures. Looking at them as almost like looking at a mirror, and be reminded they are nothing more than a few primitive creatures, only evolved a few thousand years and getting rid of the hairs along the way.
+It is funny to watch those primitive humans, really. It's almost surreal. They look almost like real humans, but the fur and the sound they make to communicate, they seem to be still on the spectrum of creatures. Looking at them is almost like looking at a mirror, and being reminded they are nothing more than a few primitive creatures, only evolved a few thousand years and getting rid of the hairs along the way.
 
-Now that he thinks, all those times those other rude angels calling them "hairless ape"; from their point of view, it really isn't too wrong. Which makes Cas such a weird exception then. Knowing what they, seeing where they come from, and still willing to spend time with them, help them, even now, still standing by his side as if they are equal. How come Cas never said anything like that before?
+Now that he thinks, all those times those other rude angels called them "hairless ape"; from their point of view, it really isn't too wrong. Which makes Cas such a weird exception then. Knowing what they are, seeing where they come from, and still willing to spend time with them, help them, even now, still standing by his side as if they are equal. How come Cas never said anything like that before?
 
 Dean glances at Cas. And unsurprised to find the angel is watching his face closely.
 
@@ -1167,9 +1167,9 @@ Dean glances at Cas. And unsurprised to find the angel is watching his face clos
 
 "Nothing," Dean answers automatically, then rethinks his reply. "Just, how funny it is, seeing where we come from, and..." *and where you come from.* He glances at Cas, then at the sky, not finishing his sentence. *How fundamentally different we are. You're light, and I'm just... this.*
 
-"You're not anything less because you're human." Cas understands him easy enough, and tells him solemnly. "In fact, you are so much more."
+"You're not anything less because you're human." Cas understands him easily enough, and tells him solemnly. "In fact, you are so much more."
 
-Dean huffs a small laugh, more bitter than humorous. "It's strange to even think about what does 'human' mean when you're looking at a group of ancient-human that's gonna extinct."
+Dean huffs a small laugh, more bitter than humorous. "It's strange to even think about what does 'human' mean when you're looking at a group of ancient humans that's gonna extinct."
 
 Cas hums softly, a little sad.
 
@@ -1185,13 +1185,14 @@ They watch in silence as the ice collapses on the cave, and buries the last of t
 <br>
 **Earth, Jurassic Epoch (66 million years ago)**
 
-Dinosaurs do have furs. Dean watches with wide eyes.
+
+Dinosaurs do have fur. Dean watches with wide eyes.
 
 "No wonder you always complain about *Jurassic Park* not being accurate enough," Dean amuses.
 
 "I almost forget what they look like, too." Cas takes a few steps forward, crooking his neck to watch a gigantic Sauroposeidon biting leaves with huge interest, like a child looking at his favorite childhood toy, fascinated even after he's grown up. "I haven't seen them in millions of years."
 
-By "millions of years," he does mean it literally, Dean realizes. Nothing exaggerated. Just 66 million years before their time. The Earth is covered with tall ferns and dinosaurs, the air rich with wet fresh rainforest moisture, he'd be in his widest dream to imagine a scene like this, and now he's right here.
+By "millions of years," he does mean it literally, Dean realizes. Nothing exaggerated. Just 66 million years before their time. The Earth is covered with tall ferns and dinosaurs, the air rich with wet fresh rainforest moisture; he'd be in his widest dream to imagine a scene like this, and now he's right here.
 
 "How did they die? All those mysteries about dinosaurs, all the theories about their extinctions, are any of them actually right?" Dean asks.
 
@@ -1201,13 +1202,13 @@ By "millions of years," he does mean it literally, Dean realizes. Nothing exagge
 
 "And let me guess, the past-you takes that asteroid out of orbit to save them?"
 
-Cas nods, eyes still lingering on the Sauroposeidon that's enjoying the leaves intently, a baby dinosaur playing round their feet. "You asked me to save lives, and I was trying to do exactly that. Are they not worth saving as much as humans? They're smart, they thrive on the Earth and cover every corner of the land, just like humans do. Why do they have to die?"
+Cas nods, eyes still lingering on the Sauroposeidon that's enjoying the leaves intently, a baby dinosaur playing around their feet. "You asked me to save lives, and I was trying to do exactly that. Are they not worth saving as much as humans? They're smart, they thrive on the Earth and cover every corner of the land, just like humans do. Why do they have to die?"
 
-Dean follows his gaze, watching those creatures. He'll have to admit it never even really cross his mind -- guess it's just a bias as a human then, always by default prioritizing his own species on top of others. But for angels, all lives are just... lives. Not just "hairless apes" now, in angels' eyes, they must also appear no difference to a cat, a dog, an ant. So easy to ignore, so easy to squash. He wouldn't even blame other angels for thinking them as insects now. Yet Cas only looks at him like he is something precious, something valuable -- something, no, it's some*one* -- someone worth saving, even worth die trying. How does that even happen?
+Dean follows his gaze, watching those creatures. He'll have to admit it never even really crossed his mind -- guess it's just a bias as a human then, always by default prioritizing his own species on top of others. But for angels, all lives are just... lives. Not just "hairless apes" now, in angels' eyes, they must also appear no different to a cat, a dog, an ant. So easy to ignore, so easy to squash. He wouldn't even blame other angels for thinking of them as insects now. Yet Cas only looks at him like he is something precious, something valuable -- something, no, it's some*one* -- someone worth saving, even worth dying trying. How does that even happen?
 
 Turning his head, Dean realizes Cas is still waiting for his answer. "I don't know, Cas. The cruelty of the natural order, I guess." Dean manages to croak out. He can't find his voice as much as finding his self now. This trip, he really didn't expect it to be so mind-blowing and eye-opening. He feels small in a way he never knew before.
 
-"Cas, tell me something," Dean hears himself saying. "Human race is just one race in all those creatures, and our lives are just small ones in the human race. Why do you even bother keep coming back to us, coming to save us?"
+"Cas, tell me something," Dean hears himself saying. "The human race is just one race in all those creatures, and our lives are just small ones in the human race. Why do you even bother coming back to us, coming to save us?"
 
 Cas turns fully to him now, eyes surprised by the question, the look of "why do you even have to ask." And after a beat, he answers, "Because you matter to me, Dean, because you're the only friend I have."
 
@@ -1229,7 +1230,7 @@ They watch the asteroid falling onto Earth after that. They can't do anything, b
 
 "Gabriel." Cas tilts his head, remembering. "And I think he's the first one teaching me to see the wonder and beauty of the creations and lives."
 
-"I'd never know that," Dean murmurs. Then, "And why are we here? The first little fish starts living on the land, that's good thing, right? Nothing to re-kill for once?"
+"I'd never know that," Dean murmurs. Then, "And why are we here? The first little fish starts living on the land, that's a good thing, right? Nothing to re-kill for once?"
 
 "I'm afraid not." Cas walks down the beach. And there, a small red fish is also doing great in its process of moving onto land without suffocating. Beside it, a blue one. More fish are on their way to conquer the land, as it appears.
 
@@ -1243,23 +1244,23 @@ Cas lowers his head, "I was just thinking they should all at least have a chance
 
 But still, affecting the whole evolution by something as small as pulling a little fish onto the shore -- Dean thinks his brain is buzzing with new realization now. How come he never realizes exactly how much power the angels really have?
 
-They're powerful, they can fly, they can explode demons and monsters -- sure, those are the ones he's grown familiar with. And for bigger douchebags like Zachariah and Gabriel (when he's still Trickster), the list can add a few more items like reshaping the reality. But somehow, things like "affecting the entire evolution" has never been on the list in his mind, but apparently it's just a part of the package.
+They're powerful, they can fly, they can explode demons and monsters -- sure, those are the ones he's grown familiar with. And for bigger douchebags like Zachariah and Gabriel (when he's still Trickster), the list can add a few more items like reshaping reality. But somehow, things like "affecting the entire evolution" have never been on the list in his mind, but apparently it's just a part of the package.
 
-He eyes Cas, wondering not for the first time in this trip just how much Cas could do, exactly how powerful he is, and how much he doesn't know about him. All these years -- fours years now since he crawled out of that graveyard and ran into Cas in that barn -- all these time he thought he starts knowing Cas, yet sometimes he still thinks he might barely scratch the surface. He wonders if he'd ever really know Cas completely, entirely -- like Cas knows about him, like the way Cas can rebuild him from scratch. The thought makes his tongue taste bitter.
+He eyes Cas, wondering not for the first time in this trip just how much Cas could do, exactly how powerful he is, and how much he doesn't know about him. All these years -- four years now since he crawled out of that graveyard and ran into Cas in that barn -- all this time he thought he was starting to know Cas, yet sometimes he still thinks he might barely scratch the surface. He wonders if he'd ever really know Cas completely, entirely -- like Cas knows about him, like the way Cas can rebuild him from scratch. The thought makes his tongue taste bitter.
 
 And Cas somehow knows what he's thinking. "Dean, you know me as much as any human ever could," he says quietly, almost like pleading.
 
-"But is that all of you?" Dean can't help wondering aloud. He doesn't let his mind slip into the memory of the past year, but some thread of the bitter ones still slide in. He sees the pair of pained eyes in the reflection of holy fire.
+"But is that all of you?" Dean can't help wondering aloud. He doesn't let his mind slip into the memory of the past year, but some thread of the bitter ones still slides in. He sees the pair of pained eyes in the reflection of holy fire.
 
-Cas opens his mouth then pauses. *It is not,* Dean thinks bitterly. *And there is nothing he can do about it. Nothing either of them can do about it. It's just the way they are, angel and human. They're just, too different.*
+Cas opens his mouth, then pauses. *It is not,* Dean thinks bitterly. *And there is nothing he can do about it. Nothing either of them can do about it. It's just the way they are, angel and human. They're just, too different.*
 
-Cas catches his hand and leads his palm onto his chest. He takes a breath in, then lets it out. Dean's hand rises and falls as his chest heaves and drops. His heart beats steadily under his fingers, just like any human, just like any life. Dean looks into those eyes, finding them bright yet pained, old yet hopeful. It is Cas, the angel who's willing to give him anything, who had fallen for him. What more can he ask?
+Cas catches his hand and leads his palm to place on his chest. He takes a breath in, then lets it out. Dean's hand rises and falls as his chest heaves and drops. His heart beats steadily under his fingers, just like any human, just like any life. Dean looks into those eyes, finding them bright yet pained, old yet hopeful. It is Cas, the angel who's willing to give him anything, who has fallen for him. What more can he ask?
 
 "Yes," Cas finally speaks, "I'd like to think you already know everything about me, more than myself."
 
 Dean pulls him over into a hug, just so he doesn't have to stand those eyes any longer, or he's afraid tears might pour out of his eyes. Yes, he thinks Cas might be right, he does know him -- he knows Cas wouldn't do anything to harm them purposefully, he knows Cas cares for him and for everything he cares, he knows ever since Cas pulled him out of the Hell, their lives are entangled together, and there is nothing they wouldn't do for each other. He knows he's never had anyone like Cas before in his life, and he never will have another one like him if he ever loses him. He remembers the damp trench coat stained with Cas's blood floating on the dirty water, and all those sleepless nights staring at the ceiling thinking Cas would never be back again.
 
-Dean closes his eyes, feeling the warmth and solidness of Cas's body in his embrace, feeling Cas's hands tentatively reach behind him, rounding on his back, and finally putting his chins on his shoulder. The tight muscles in his body relax under the touch.
+Dean closes his eyes, feeling the warmth and solidness of Cas's body in his embrace, feeling Cas's hands tentatively reach behind him, rounding on his back, and finally putting his chin on his shoulder. The tight muscles in his body relax under the touch.
 
 "Dean?" Cas asks quietly over his shoulder.
 
@@ -1323,7 +1324,7 @@ They float in the dark space, watching the planets and stars fly around them, so
 
 "It's 4.6 billion years before your time," Cas looks at the planets before them, eyes sparkling with lights as bright as glittering stars in the distance. "We are still in the solar system."
 
-"That must be the Earth." Dean spots the green-blue planet in some distance. It's like he's in a spaceship -- even better than that, he doesn't need to glance out from the tiny little goggle of a spacesuit to see. He's just floating in the space, looking at his home planet spinning slowly. There is something peaceful and calm about the whole thing. He never thought about actually looking at the "world" from outside all these times he's trying so hard to save it.
+"That must be the Earth." Dean spots the green-blue planet at some distance. It's like he's in a spaceship -- even better than that, he doesn't need to glance out from the tiny little goggle of a spacesuit to see. He's just floating in space, looking at his home planet spinning slowly. There is something peaceful and calm about the whole thing. He never thought about actually looking at the "world" from outside all these times he's trying so hard to save it.
 
 "Yes," Cas says quietly. "It's the most beautiful planet in the whole universe."
 
@@ -1331,27 +1332,27 @@ They float in the dark space, watching the planets and stars fly around them, so
 
 "Because it has you," Cas answers naturally, like it's the most obvious fact.
 
-Dean wets his lips automatically. He has to look away at some flying comets for a couple seconds before talking again, just so his voice wouldn't sound fluttered. He would never know how to answer to things like that, and there should be a rule to prohibit Cas from saying them all the time.
+Dean wets his lips automatically. He has to look away at some flying comets for a couple of seconds before talking again, just so his voice wouldn't sound too fluttered. He would never know how to answer to things like that, and there should be a rule to prohibit Cas from saying them all the time.
 
 "Why are we here again?"
 
-"I saved a planet that shouldn't be there -- Phaeton." Cas points at the planet between the Mars and Jupiter, voice stressed. "It should be the asteroid belt now, as the astronomers on Earth observe throughout the history. But Kepler was right all the time, it would have been here, if it doesn't explode."
+"I saved a planet that shouldn't be there -- Phaeton." Cas points at the planet between Mars and Jupiter, voice stressed. "It should be the asteroid belt now, as the astronomers on Earth have observed throughout history. But Kepler was right all the time, it would have been here, if it didn't explode."
 
-Dean squints at the rocky planet spinning around the Sun, one Mars away from Earth. It looks... just like any planet he'd imagine, twice as big as Earth, flying in its orbit. It has an uneven surface, much like Moon, but so much bigger. The pits and mountains on it form a scenery as tremendous as the Grand Canyon, except the scale is thousands of times grander. It's a *planet*, for Christ's sake. Just like Earth. It's a whole *world* for any life living there -- if there is any.
+Dean squints at the rocky planet spinning around the Sun, one Mars away from Earth. It looks... just like any planet he'd imagine, twice as big as Earth, flying in its orbit. It has an uneven surface, much like the Moon, but so much bigger. The pits and mountains on it form a scenery as tremendous as the Grand Canyon, except the scale is thousands of times grander. It's a *planet*, for Christ's sake. Just like Earth. It's a whole *world* for any life living there -- if there is any.
 
-"Is it going to have any life on there? After you saved it?" Dean asks, can't taking his eyes off that planet.
+"Is it going to have any life on there? After you saved it?" Dean asks, can't take his eyes off that planet.
 
-"Yes." Cas says, keeping his eyes trained on it just as intensely as Dean does, remembering its last looks as hard as they can. "In about a billion years, there will appear the first life form, much different from the ones on Earth, but they are lives. And from there, they evolve and thrive." His voice drops lower as he speaks, for both of them know the inevitable fate of that whole planet and all those lives.
+"Yes," Cas answers, keeping his eyes trained on it just as intensely as Dean does, remembering its last looks as hard as they can. "In about a billion years, there will appear the first life form, much different from the ones on Earth, but they are lives. And from there, they evolve and thrive." His voice drops lower as he speaks, for both of them know the inevitable fate of that whole planet and all those lives.
 
-Neither of them want to say it just yet. They watch it a while longer.
+Neither of them wants to say it just yet. They watch it for a while longer.
 
-"It's going to fly into Earth in 4.6 billion years," Dean says instead, "killing all lives on both planets." That NASA announcement on the TV before they headed out finally makes senses. That news about Phaeton. So here's where it comes from.
+"It's going to fly into Earth in 4.6 billion years," Dean says instead, "killing all life on both planets." That NASA announcement on the TV before they headed out finally makes sense. That news about Phaeton. So here's where it comes from.
 
 Cas nods quietly, sad. "Yes."
 
-Dean nods slowly beside him, not knowing what more to say. What could be said in the funeral of a whole planet? Where all the lives that could have existed on that planet now ever will? Where only the two of them witness it and know what could have happened, would have but never have a chance? He tries not to think about all the lives dying and disappearing on that planet, the way humans cry and perish when bombs drop on the ground. He has to remind himself there is a difference between dying and never been born.
+Dean nods slowly beside him, not knowing what more to say. What could be said at the funeral of a whole planet? Where all the lives that could have existed on that planet now ever will? Where only the two of them witness it and know what could have happened, would have but never have a chance? He tries not to think about all the lives dying and disappearing on that planet, the way humans cry and perish when bombs drop on the ground. He has to remind himself there is a difference between dying and never being born.
 
-He would never dream with his wildest imagination to expect this to be the day he's going to explode a whole planet -- not that he knew possible -- but here they are. How come their life always manage to find the most bewildered and unexpected challenge to throw on their way? What does it make him now? More than witch-killer, more than species-massacrer, and now star-destroyer? His brain supplies the image of Alderaan being exploded by the Death Star in *A New Hope*. Which makes them Darth Vader.
+He would never dream with his wildest imagination to expect this to be the day he's going to explode a whole planet -- not that he knew possible -- but here they are. How come their life always manage to find the most bewildering and unexpected challenge to throw on their way? What does it make him now? More than witch-killer, more than species-massacrer, and now star-destroyer? His brain supplies the image of Alderaan being exploded by the Death Star in *A New Hope*. Which makes them Darth Vader.
 
 He has to pull his wandering mind back before it drifts too far away.
 
@@ -1359,17 +1360,17 @@ He has to pull his wandering mind back before it drifts too far away.
 
 "I'm glad it would mean Earth can be safe," Cas answers quietly, "that you can be safe."
 
-They un-save the planet and watch Phaeton explode. The force is so strong that the comets flying too close to its core get pushed far out of the way. Dust and rocks scatter in the space, finding their own orbits to fly around the Sun. The asteroid belt starts taking its form. Even the Sun looks a degree dimmer losing a planet and all the potential lives that could have been there from its system.
+They un-save the planet and watch Phaeton explode. The force is so strong that the comets flying too close to its core get pushed far out of the way. Dust and rocks scatter in space, finding their own orbits to fly around the Sun. The asteroid belt starts taking its form. Even the Sun looks a degree dimmer losing a planet and all the potential lives that could have been there from its system.
 
-Dean thinks it's only right to hold and squeeze Cas's hand at moment like this, so that's exactly what he does. Cas squeezes back thankfully.
+Dean thinks it's only right to hold and squeeze Cas's hand at a moment like this, so that's exactly what he does. Cas squeezes back thankfully.
 
 "In the Greek mythology, Phaeton is the son of Helios, driving the chariot too unstably, burning and freezing the Earth, so Zeus kills him," Cas tells him, as the fragments of Phaeton fill in the gaps between Mars and Jupiter.
 
-Dean hums softly, wondering if that makes them Zeus. Thinking they hold the power of god is unsettling. Thinking they use the power of un-make a planet is even more so.
+Dean hums softly, wondering if that makes them Zeus. Thinking they hold the power of god is unsettling. Thinking they used the power to unmake a planet is even more so.
 
 "How do you feel?" In the background of all the debris and fragments of the planet flying past them, Dean turns to Cas, asking. He realizes he should have asked that question way, way earlier, before the little grey fish, before the dinosaur, before the Neanderthals. He should have asked that when he saw Cas again in that hospital ward. What was his mind occupied with at that time? Oh -- the Leviathans, he almost forgot. When a planet is exploding before your eyes, it turns out, it's so easy to forget problems like Leviathans, and remember what's more important.
 
-And when the more important person is by his side, he even forgets that planet. Dean looks at Cas like he's the only thing -- only one -- matters in the whole universe, in this moment. Because he is.
+And when the more important person is by his side, he even forgets that planet. Dean looks at Cas like he's the only thing -- only one -- that matters in the whole universe, in this moment. Because he is.
 
 "I should have asked it earlier," Dean hears himself saying. "How are you, really?"
 
@@ -1379,49 +1380,49 @@ Cas considers the problem carefully, as if it's the first time someone ever real
 
 And Dean realizes, it's the longest time, the most patient time he ever gives Cas, after all that happened. He should have done that more often. So he's doing exactly that. He nods, letting Cas know he's listening, and this time, he really *is listening*.
 
-"My mind, it's like a library after tornado. I have tried so hard to put them back together. It's taking me everything to be here." Cas smiles weakly. "You have no idea how long it took."
+"My mind, it's like a library after a tornado. I have tried so hard to put them back together. It's taking me everything to be here." Cas smiles weakly. "You have no idea how long it took."
 
-"How long it took?" Dean asks. It was a little less than two months since Cas took over Sam's brokenness, and a day or two since he woke up. But Cas's tone makes him think it sounds more than that, a lot more.
+"How long did it take?" Dean asks. It was a little less than two months since Cas took over Sam's brokenness, and a day or two since he woke up. But Cas's tone makes him think it sounds more than that, a lot more.
 
-"Years, many centuries, I lost count." Cas tells him.
+"Years, many centuries, I lost count," Cas tells him.
 
 Dean inhales sharply, "How?"
 
 "Do you remember that time, when you yelled at me in the hospital and I flew to the dayroom, and I told you I had been there for three weeks?"
 
-"Trying not to." Dean remembers as clear as day just how angry he was at the time. He regrets nothing more about scaring Cas away now. "I'm sorry, I didn't --"
+"Trying not to," Dean remembers as clear as day just how angry he was at the time. He regrets nothing more than scaring Cas away now. "I'm sorry, I didn't --"
 
 Cas gently stops his apology with his gesture. "It wasn't the first time I flew back in time," he continues. "Meg knew. She ran into me playing chess with that time-travelled version of myself. But I didn't tell her, that wasn't the first time either."
 
 "You flew back years, even centuries," Dean murmurs in astonishment.
 
-Cas nods. "I needed time to recover. And even in that state when I first woke up, I knew I'd need more time than we had to fix myself. We didn't have enough time in the current time, but I spent them in the past, to save *you* the time we would have needed."
+Cas nods. "I needed time to recover. And even in that state when I first woke up, I knew I'd need more time than we had to fix myself. We didn't have enough time in the current time, but I spent it in the past, to save *you* the time we would have needed."
 
-"But you would be alone all those centuries." Dean closes his eyes, heart clenching, voice choking. He imagines a broken angel that Cas was, wandering in the century-old street, alone, in his hospital gown, not really have a clear enough mind, not have anyone to turn to if he needed help. But he went there, so he could save them the most precious time that they couldn't spare on him. He feels his chest too tight to breath, and it's the first time he's reminded he's in the vacuum in the space.
+"But you would be -- you were -- alone all those centuries." Dean closes his eyes, heart clenching, voice choking. He imagines a broken angel that Cas was, wandering in the century-old street, alone, in his hospital gown, not really having a clear enough mind, not having anyone to turn to if he needed help. But he went there, so he could save them the most precious time that they couldn't spare on him. He feels his chest is too tight to breathe, too painful and aching, and it's the first time he's reminded he's in a vacuum in space. *It's his own doing that's pushing Cas away, the yelling, the snapping -- he's the one making his angel think he couldn't come to him when he needed. Could he even do anything more cruel and cold to Cas than that?*
 
 Cas manages another tight smile. "I think, part of me also didn't want you see me as I was, the broken beyond repair version of me, the one too insane to be of any use --" For the first time, he closes his eyes when he talks, because there is too much pain in it, and it makes Dean's heart bleeds. And Cas finishes the sentence: "-- because I wouldn't know what to do, if you find me like that, and look at me with disappointment in your eyes. I was afraid I might kill myself."
 
 "Don't say that." Tears flood out of Dean's eyes, as much as Cas's.
 
-Dean has to pull him into a hug as tight as he can offer, just to let his dumb angel know his feeling. "I would never --" he catches his breath, feeling their wet cheeks touching. "It's never about you being useful, Cas. Dammit, don't ever say that." He chokes on his tears, finding it so hard to form a complete sentence now, but he has to say it.
+Dean has to pull him into a hug as tight as he can offer, just to let his dumb angel know his feelings. "I would never --" he catches his breath, feeling their wet cheeks touching. "It's never about you being useful, Cas. Dammit, don't ever say that." He chokes on his tears, finding it so hard to form a complete sentence now, but he has to say it.
 
 The debris of the planet floats around them, as broken as he thinks his heart is now. And he has to say it, or else he might never will.
 
 "It's *you* that I need, Cas. Not how useful or powerful you are, not because you're an angel. Just you. Because, because --" he takes a long and shattered breath, "-- because I love you."
 
-It doesn't sound real until the words leave his lips, and then it becomes the only truth of the universe. Floating with the fragments of the planet, scattering into the dust of the space.
+It doesn't sound real until the words leave his lips, and then it becomes the only truth of the universe. Floating with the fragments of the planet, scattering into the dust of space.
 
-Cas stills in his embrace. He pulls back slowly, with tears still hanging on his eyelashes. His eyes wide with disbelief and awe. He whispers, so carefully as if his breath could break the dream, as if he's afraid of waking up, "You love me?"
+Cas stills in his embrace. He pulls back slowly, with tears still hanging on his eyelashes. His eyes were wide with disbelief and awe. He whispers, so carefully as if his breath could break the dream, as if he's afraid of waking up, "You love me?"
 
 Dean wipes his tears away, so he can see Cas's face and those astonishingly blue eyes without water in his eyes. And he starts smiling, then the smile turns into a true-hearted laugh, then the laugh just doesn't stop. "Yes, Cas, I do. I really do. I don't know why it's taking all the dinosaurs and fish and an exploded planet for me to realize it, but yes, I do. God, I have no idea, but I don't think I even know how to live without you. Those past months, you have no idea."
 
-Cas's lips tremble, and when he speaks, his voice is so in awe. And he tells Dean, "I love you, too, from the moment I saved you from the Hell. I realized that, because I love you more than the dinosaurs, more than the Neanderthals, and more than a whole planet. I'd destroy them to save you, to save the world you're in, like we just did, and I don't regret any of that."
+Cas's lips tremble, and when he speaks, his voice is so in awe. And he tells Dean, "I love you, too, from the moment I saved you from Hell. I realized that, because I love you more than the dinosaurs, more than the Neanderthals, and more than a whole planet. I'd destroy them to save you, to save the world you're in, like we just did, and I don't regret any of that."
 
 There is nothing more to say after that. So Dean just holds the angel closer, feeling the synchronized heaves and falls of their chests against each other, feeling the vibration of their hearts under the skin and bone. So close, as if they are melting into each other's existence. Dean thinks, in a way, they already are.
 
 The planets spin quietly around them. The Sun shines on them. It feels like the whole universe is just breathing peacefully with them now.
 
-Dean exhales long and slow, finding his breath come out easily this time. So is Cas's.
+Dean exhales long and slow, finding his breath comes out easily this time. So is Cas's.
 
 <br>
 
@@ -1443,9 +1444,9 @@ Dean finally get to see the whole human and universe history together with Cas, 
 
 They come home together, finally.
 
-It's still just the shabby hunter's cabin in the middle of nowhere of Whitefish, Montana. But it's home, with all of them back together, Sam included.
+It's still just the shabby hunter's cabin in the middle of nowhere in Whitefish, Montana. But it's home, with all of them back together, Sam included.
 
-"Home sweet home," Dean sighs in a relief, rushing to drag his brother into a hug before he can protest.
+"Home sweet home," Dean sighs in relief, rushing to drag his brother into a hug before he can protest.
 
 Sam pats him on the back awkwardly, "Since when did you become a hugger?" He chuckles slightly.
 
@@ -1457,7 +1458,7 @@ Sam checks his watch. "Three hours, give or take."
 
 Cas shakes his head. "Everything is back to normal."
 
-"And Leviathans?" Deans asks, rising his eyebrows with hope.
+"And Leviathans?" Dean asks, raising his eyebrows with hope.
 
 "Still out there," Cas tells him, almost apologetically.
 
@@ -1465,9 +1466,9 @@ Dean shrugs. "As good as where we started then."
 
 Sam regards them. "Hello, Castiel," he greets the angel with a tight smile, then turns to Dean again, lowering his voice. "I see you found him, and I take it all those butterfly effects are back on track now?"
 
-Dean smiles, a little more bright than he meant to be. "We have to explode a planet to do that, can you believe that? The view is spectacular. I'm sorry you missed that."
+Dean smiles, a little brighter than he meant to be. "We have to explode a planet to do that. Can you believe that? The view is spectacular. I'm sorry you missed that."
 
-Sam rolls his eyes, "Sounds fun, but I'd rather *not* have to do anything like that."
+Sam rolls his eyes. "Sounds fun, but I'd rather *not* have to do anything like that."
 
 Dean drops his smile, landing his gaze on Cas again. "You're right, hopefully not again."
 
@@ -1475,23 +1476,23 @@ Sam eyes them carefully. "There is something different with you two," he comment
 
 Dean drags his stare away and looks at his brother with the most innocent eyes. "No, nothing. Just that Cas and I have sorted out a few things, and now we are good."
 
-Sam doesn't look convinced but he lets it slip. "Good," he says, sitting back at the desk where his laptop is, "now that we don't have a global witch problem, or a dinosaur problem, can we go back talk about how to handle the Leviathans?"
+Sam doesn't look convinced but he lets it slip. "Good," he says, sitting back at the desk where his laptop is, "now that we don't have a global witch problem, or a dinosaur problem, can we go back to talking about how to handle the Leviathans?"
 
 "And I'd like to help," Cas offers earnestly. "Whatever you need me for."
 
 Dean looks at him, impressed. "What happened to the no-fight-and-no-conflict rule?"
 
-"I am not as 'crazy' or 'broken' as before now," Cas uses his fingers to do the air quotes, Dean can't help chuckling. "And if our journey has taught me anything, there is nothing I wouldn't do for you. So, anything you need, just ask."
+"I am not as 'crazy' or 'broken' as before now," Cas uses his fingers to do the air quotes, and Dean can't help but chuckle. "And if our journey has taught me anything, there is nothing I wouldn't do for you. So, anything you need, just ask."
 
-Dean blinks rapidly, glancing in Sam's direction only to find his brother pointedly raises an amused eyebrow that means "What did I say?" Dean mouths a "Shut up" as reply, and asks instead, "Sam, you find anything useful?"
+Dean blinks rapidly, glancing in Sam's direction only to find his brother pointedly raising an amused eyebrow that means "What did I say?" Dean mouths a "Shut up" as a reply, and asks instead, "Sam, you find anything useful?"
 
 Sam turns to his notebook, and starts: "So, get this -- 'Leviathan cannot be slain but by a bone of a righteous mortal washed in the three bloods of the fallen.' and 'Cut off the head, and the body will flounder.' So we might get a chance if..."
 
-Sam goes on with the new plan he has in mind while they're away. Dean watches him talking with that new glint of hope in his eyes, and Cas, listening so attentively, glancing to meet his eyes once in a while to give him a reassuring small smile. It's just like all those other times, when they know they are in the last night before a big battle, when they are ready to pull a big fight and save the world together again, whatever the cost.
+Sam goes on with the new plan he has in mind while they're away. Dean watches him talking with that new glint of hope in his eyes, and Cas, listening so attentively, glances to meet his eyes once in a while to give him a reassuring small smile. It's just like all those other times, when they know they are in the last night before a big battle, when they are ready to pull a big fight and save the world together again, whatever the cost.
 
 And Dean finds himself thinking: They weren't able to save all those people from Pompeii, or the dinosaurs, or the other fish -- they couldn't save all the lives from the past, they couldn't save a star from the beginning of time, but at least they can damn well try to save *this* world, at *this* time, with all the most important people in his life -- and that's exactly what they are going to do.
 
-Dean sits down by the table, and tells them with a smile, "Let's do this."
+Dean sits down at the table, and tells them with a smile, "Let's do this."
 
 Somehow, this time, he already knew they'd succeed.
 
