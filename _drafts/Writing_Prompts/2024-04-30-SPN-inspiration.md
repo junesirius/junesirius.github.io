@@ -3383,6 +3383,16 @@ turns out everything since this in canon is only in Sam's bubble world created b
 
 hopeful ending
 
+### 307.5【destiel】S05E08 Cas becomes impala（《Unchanging Channels》后续）
+
+After the events in 《[Unchanging Channels](https://archiveofourown.org/works/67516816)》, they'll still have to fix the car!Cas issue, seek Gabe out, send him a card, kick his ass, and continue stopping the Apocalypse in S5, figuring out how to handle Michael/Lucifer, save the world
+
+Title can be: 《How to stop the Apocalypse and save the world (and have a relationship) as a car》
+
+all of them have all the knowledge from canon S5-S15, now they're back S05E08, whole show rewrite (but mostly S5 rewrite)
+
+Eileen and Miracle are real & alive, established Sam/Eileen, near established Dean/Cas
+
 ### 308.【destiel】S06E17 Cas kill Atropos
 
 Cas has the option of killing Atropos and all destiny sisters, canon version choose to let them go. What if Cas is actually desperate and crazy enough to decide why not just see it through and do it all. So Bal actually kill Atropos from behind. Now they have to deal with two pissed-off destiny sisters before going back to their main season task. Knowing it's them, no doubt they'd succeed in the killing, and Dean/Sam would have to help. But might come consequence so bad that one or some of them have to die again (most likely Cas, for going too far)
