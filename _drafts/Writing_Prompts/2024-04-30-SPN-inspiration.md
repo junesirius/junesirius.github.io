@@ -3597,4 +3597,20 @@ And just noticed from the script: Cas was still alive when Dean removes the blad
 
 You are a Supernatural fan watching the show too many times and love it too much. One day, you suddenly on a whim want to learn the exorcism they are using in the show, just feeling it'd be cool to be able to recite a large pose of Latin. You start chanting them, and suddenly some black smoke comes out from your laptop that kept breaking down, or your printer that kept jamming papers, or your car that kept having weird noises. Now you realize all these times, they are not bad quality products, they're haunted.
 
-### 325.
+### 325.【Dean】= Oedipus (kill father, marry mother)
+
+dead dove warning, heavily majorly morally totally messed up, ultimately ultra disturbing
+
+Dean-centered
+
+accidental unaware time travel (or tricked to do so by some major freaking sick villain angel/pagan god/worse Chuck than current/Lucifer, e.g. Chuck be like, "you don't like fratricide? you think it's bad enough? you know what can be better than that? patricide and incest. you don't like Christian style story, fine, try Greek")
+
+Dean got time transported or John/Mary got time transported, for some reason and something majorly disturbing and wrong happened, Dean killed John and married/violated Mary (without recognizing either of them)
+
+(not causing grandpa paradox because original timeline baby Dean was already born)
+
+Dean would kill himself
+
+could turn into or add little destiel element: Cas is assigned to mess up with Dean but takes pity on him, saves Dean, prevents his suicidal attempt or brings him back, wipes everyone's memory, puts everyone back to the right timeline, no timeline-wise wrong ever done, as far as anyone concerned it never happened, not even Dean remember (or buried memory), but Cas remembered, and he doesn't judge Dean for that (Chuck's effort to make Dean do the worst thing possible trying to make Cas despise and leave Dean?)
+
+### 326.
