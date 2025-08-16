@@ -1531,8 +1531,6 @@ There is a small snippet in the outline I can't find a right place to put into t
 
 Thank you for reading my story! Hope you enjoy it!
 
-And please, I long for comments, leave some if you like anything! Love u!
-
 <br>
 
 #### draft notes
