@@ -3613,4 +3613,14 @@ Dean would kill himself
 
 could turn into or add little destiel element: Cas is assigned to mess up with Dean but takes pity on him, saves Dean, prevents his suicidal attempt or brings him back, wipes everyone's memory, puts everyone back to the right timeline, no timeline-wise wrong ever done, as far as anyone concerned it never happened, not even Dean remember (or buried memory), but Cas remembered, and he doesn't judge Dean for that (Chuck's effort to make Dean do the worst thing possible trying to make Cas despise and leave Dean?)
 
-### 326.
+### 326.【Cas】《Wednesday》style but Thursday (xover?)
+
+(very vague unsure, weird idea)
+
+just the way Cas is connected to Thursday, and Wednesday season 2 is just on, "Wednesday" can be a real character name, so maybe "Thursday" also can, and somehow related to Cas
+
+maybe "Wednesday" crossover, similar magic school world setting but dark fantasy AU
+
+or sort of like what I did with "Life of Blue" where Cas *is* Blue, and now it can be Cas *is* Thursday, he literally *is* a day of the week, just exist *as* the day, can be destiel
+
+### 
