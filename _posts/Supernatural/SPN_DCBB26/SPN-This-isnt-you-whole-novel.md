@@ -12,7 +12,7 @@ published: false
 
 [TOC]
 
-tags: alternate universe, Apocalypse World, canon divergent, S13E22, S12E23, Nazi Castiel, dark Castiel, god Castiel, minor Michael/Lucifer, slow burn, dub-con, temporary main character death, eventual happy ending, eventual hopeful ending
+tags: Apocalypse World, alternate universe, canon divergent, S13E22, S12E23, Apocalypse world Castiel, Nazi Castiel, dark Castiel, god Castiel, minor Michael/Lucifer, slow burn, dub-con, temporary main character death, pre-story main character death, eventual happy ending, eventual hopeful ending, pining, hurt/comfort, strong angst
 
 warning: graphic depiction of violence, main character death
 
@@ -20,7 +20,7 @@ warning: graphic depiction of violence, main character death
 
 ### potential titles
 
-This isn't you (But I still see you)
+**This isn't you (But I still see you)**
 
 Almost
 
@@ -31,6 +31,10 @@ Look me like he did
 Phantom Wings
 
 There is no other way
+
+I hate you but I'll save you
+
+Look me in the eyes and tell me
 
 ### Initial idea
 
@@ -56,7 +60,19 @@ There is no other way
 
 #### world setting
 
+both world settings canon divergent, apocalypse world reference S13, S14, main world S13
+
+##### Apocalypse world setting
+
+Per Superwiki, North America in Apocalypse World is seen to be divided up into districts. The East Coast is divided into "Northeastern" and "Southern Sectors," with most of New England designated as "Zone R4" and Canada being designated the "Northern Ice Fields." The Midwest from the Dakotas on is designated the "Great Barren Plains," within which Michael's Fortress appears to be located somewhere in the vicinity of Kansas or Nebraska. Montana and Idaho appear to be labeled as "The Void" with Utah, Nevada, Arizona, Colorado, and New Mexico making up the "Western District." The West Coast is simply marked as "The Rebels of California." Texas appears to have kept its name. There also appears to be impact/ground zero markings over Detroit and Los Angeles. There is also a wall running along the U.S./Mexico border, where Mexico is simply designated as "South of the Wall." There also appears to be another wall along the U.S./Canada border extending from the "The Rebels of California" to "The Void."
+
+##### Main world setting
+
 #### Dean
+
+mourning, grieving, widower curve
+
+state of mind: right after S12E23, similar to S13E01-05, passive suicidal, almost active suicidal
 
 #### Castiel
 
@@ -85,6 +101,24 @@ Chuck brings Dean to original world (leave everyone else in AU world bc that's p
 
 
 ###### [TBA: continue outline here, slow burn, hate→accept→change]
+
+### Claim info
+
+#### Claim summary
+
+#### Visual elements
+
+### Posting
+
+#### Posting summary
+
+#### Snippet
+
+### Arts
+
+#### Banner
+
+#### Art
 
 ### Editing Notes
 
