@@ -467,7 +467,7 @@ The lift rises beyond the first floor, blocking the view of the statue shortly.
 
 The floor it stops at looks like a luxurious hotel floor, with crimson velvet carpet laid in the corridor. The lights on the ceiling flicker occasionally, as dim as candlelight. The long, bleak corridor is quiet, with doors and rooms on each side. A weeping angel statue sits at the end of the corridor inside an alcove, hands covering its face, head lowered in a humble, solemn pose.
 
-The Detective steps down the corridor carefully, glancing at either side. Some doors are closed, some open. Behind each open door, there is a small empty room to live in. And on each closed one, there is a number and a name tag.
+The Detective steps down the corridor carefully, glancing at either side. Some doors are closed, some open. Behind each opened door, there is a small empty room to live in. And on each closed one, there is a number and a name tag.
 
 The Detective checks the names on the doors, slowly, one by one, until stops dead at one closed door -- with the familiar name of his own.
 
@@ -737,7 +737,7 @@ The air smells green and fresh.
 
 "I certainly hope that is true." Cas nods.
 
-They walk past the crowds, taking a short cut through the underpass in Bethesda Terrace. The fountain splashes under the bright sun, an angel statue standing on the very top. Not many people around the fountain today, only a couple of old people strolling slowly. A busker is singing some beautiful folk songs with a weathered guitar. Cas leaves a twenty-dollar bill in his open guitar box.
+They walk past the crowds, taking a short cut through the underpass in Bethesda Terrace. The fountain splashes under the bright sun, an angel statue standing on the very top. Not many people around the fountain today, only a couple of old people strolling slowly. A busker is singing some beautiful folk songs with a weathered guitar. Cas leaves a twenty-dollar bill in his opened guitar box.
 
 "That's Hannah," Cas points at the angel statue on the fountain when they pass it. "I know her."
 
@@ -1445,7 +1445,7 @@ Dean meets her eyes while hers linger on his face. Dean notices at the same time
 
 "Enough babbling," the rich man -- must be the so-called Mr. Grayle -- steps into the center of the room, demanding their attention. "What's going on? Who are you? Detective Malone, I demand answers!"
 
-"Shush, grown-ups are talking." The woman shoots him a stern look with enough might, as if *she* were the owner of the place. The man hangs his mouth open unbelievably with no words coming out.
+"Shush, grown-ups are talking." The woman shoots him a stern look with enough might, as if *she* were the owner of the place. The man gapes his mouth open unbelievably with no words coming out.
 
 "*You* are Melody Malone?" Cas catches up too, realizing what Dean's telling him.
 
@@ -2033,7 +2033,7 @@ The reaper he remembered from four years ago, the angel of death, is just anothe
 
 That's what they are, the Weeping Angels -- the real angels, confined in a stone body, restricted by some quantum lock. But they're still the angels he knew, not some new monster species like the Doctor said.
 
-"Oh God, I'm so dumb, of course," Dean gasps, backing away from the stoned Tessa, back to where Rory stands. That's exactly why he felt like he knew them, because he really does. The gatekeeper angels down there, aren't they the ones coming for Cas when he was broken? Inias or what's-his-name? And the other one with curly hair, isn't she the Angel of Water Cas pointed to him? The one called Hannah. Must have gotten bored with Bethesda Plaza.
+"Oh God, I'm so dumb, of course," Dean gasps, backing away from the stoned Tessa, back to where Rory stands. That's exactly why he felt like he knew them, because he really does. The gatekeeper angels down there, aren't they the ones coming for Cas when he was broken? Inias or what's-his-name? And the other one with curly hair, isn't she the Angel of Water Cas pointed to him? The one called Hannah. Must have gotten bored with Bethesda Plaza. Both of them Cas mentioned had gone to Purgatory for him and hurt by the Leviathans.
 
 He claps on his head. "I have to tell Cas." Dean sends out a rushed prayer as he walks back down the corridor.
 
@@ -2523,17 +2523,123 @@ Grayle's panicking scream sounds up shortly.
 
 ### Act 3
 
+The car screeches to a halt outside the building.
 
+They scramble out, scanning the building and the surrounding quickly. The red neon sign with its name hanging from the rooftop.
 
+There are no statues in sight. The two bases outside the door are empty. The gate wide open.
 
+They rush up the steps together.
 
-> 4 of them go to Winter Quay to save Dean/Rory, Cas hear Dean's prayer (they're already almost reach the level)
->
-> 6 meet (merge Chap.7 ending, Cas POV)
->
-> see room names, split witness old Dean die (Cas uneasy), Amy see old Rory (River/Doctor there too)
->
-> discuss weeping angel's motives
+"Why would they send them here?" River asks. "Why not back in time, like they normally do?"
+
+"The babies might not be strong enough," the Doctor guesses.
+
+"What is this place?" Amy asks, following the rest.
+
+"Let's find out," Cas marches in.
+
+The lobby is dark and dusty, but the dust on the floor has been disturbed recently, leaving visible signs of foot marks and a fight.
+
+Cas glances at the empty stair well, pressing the button. The rest of them scan around the space that is over quiet, over dead.
+
+"I don't like it," Amy whispers.
+
+"I don't think anyone ever does," River replies.
+
+The elevator clinks to life, descending to their level, the echo sounding too loud for the space, loud enough as if it can stir awake ghosts living here -- that's what this whole place feels like, a building for ghosts, for the dead. Cas thinks, shifting uneasily.
+
+They run into the elevator the minute it opens the barred door, and let it take them wherever the fate decides to bring them.
+
+"They're close," River reports, looking at her device.
+
+A voice pierces through his head, as if speaking directly inside his brain. Cas presses his temple, focusing on the sound.
+
+"Cas --" Dean's voice says rapidly through the prayer. "They're here, the angels. The Weeping Angels *are* the actual angels. I saw Tessa, Inias, and Hannah. I think every statue *is* a real angel, the ones went to Purgatory to get you and got wounded, must be Leviathan infection or some mutation. Be careful!"
+
+"What is it?" Amy looks at him.
+
+The elevator rings as it ascends, until it comes to a stop.
+
+"It's a prayer," Cas doesn't have enough time to explain the whole thing, so he wishes they'd just understand. "Dean's praying to me."
+
+The level they stopped at has a long, dimly-lit corridor laying before them, with numerous rooms placed on either side, just like all the other levels they have a glimpse at on their way up.
+
+Cas runs down the corridor first.
+
+"Rory!" Amy follows him closely.
+
+"Dean!" Cas yells his name.
+
+The doors all have number plates and names labelled, alphabetically arranged. The first room starts with a last name "Wallace." That's a "W", so does "Williams" and "Winchester."
+
+"Oh, that's bad," River says loudly.
+
+Amy corners into an apartment first, throwing herself into the arms of the man behind the opened door. "Rory!"
+
+Cas notices the room next to them also has an opened door. He rushes in without thinking.
+
+Dean stands in the narrow hallway of the cramped room, looking unsure of himself.
+
+"Dean!" Cas lets out a sharp breath, dragging the hunter into his arms. "I thought I lost you."
+
+Dean pats his back with a relieved smile of his own, "That's a record. I was just praying to you."
+
+"I heard," Cas tells him. "We're already coming to you."
+
+"That elevator is you!" Dean realizes. "Almost gave me a heart attack, thought it's the angels. Did you see them?"
+
+"Not on my way here," Cas says.
+
+Outside, River notices the angel in the alcove, already moving halfway down the corridor. "Doctor, look!"
+
+The angel freezes in their stare, but her hands are lowered from her face, pointing at the opened doors beside them. On her face, a simple, unsettling smile hanging on her lips.
+
+"Why is it smiling?" River asks with a shaky voice.
+
+The Doctor follows the direction she points at, only then does he see the names on them. He lunges into Rory's room, grabbing Amy and Rory's shoulders. "Amy, Rory!" he yells, "Get out of there! Don't look at anything! Don't touch anything!"
+
+That's when Amy stares over Rory's shoulder at the single, small bed in the room, asking, "Who's that?"
+
+Next door, Cas is looking at a same cramped, shabby bed, with an old man lying under the cover, who reaches a trembling, withered hand toward him, pleading, "Cas --"
+
+<br>
+
+Cas lets go of Dean, moves to the bed slowly.
+
+The man looks at him without blinking, as if afraid he'd disappear if he does.
+
+"Cas..." he says again from a voice not used in decades, sore and croaked. His hands shake hard, wrinkles and pigment covering his arm. He lowers it to the bed in mere seconds like he doesn't have enough strength to keep them in the air, but still reaching in Cas's direction.
+
+His eyes are foggy with white layer from old age. The man must be at his nineties. Cas stares at his face, searching his eyes. Dean stands behind him, at the tail of the bed.
+
+Cas lowers himself to the bed. That ancient face is still familiar, still recognizable, still unforgettable. "Dean," he breathes out difficultly, as if for his whole long life, for all the millionth time he calls the man's name, this is the most difficult time he's never done.
+
+He glances back, at the young Dean behind him, a look of unsure. "He's you," Cas says.
+
+"Cas, please..." the old Dean moans weakly, fingers twitching, but still as if trying desperately to reach Cas, to touch him.
+
+Cas wraps his withered fingers in his hands, holding him.
+
+"Dean, what happened?" Cas asks the old man, voice tight. He swallows hard. He wants to glance back at the young Dean again, to know he's still there, the one he's more familiar with, but he also knows at this moment, he can't look away, he just can't. The old man lying on the bed, so desperately sad, so terribly old, breathing with a loud noise in his chest, with eyes so old and tired to open but still trying desperately to look at him, to hold him, that's also his Dean, the very same Dean. Cas gives him his full attention.
+
+The old Dean pulls an exhausted tiniest smile, and he whispers, "It's... so good... to see you again, Cas."
+
+His fingers slip from Cas's hold, and lights die from his eyes. His body slumps back into the bed, not moving again.
+
+Cas blinks hard, still holding the hands that are getting stiffer and colder fast. He breathes sharply, reaching out to close his eyes for him. He finds his hands shaking.
+
+"Cas?" The young Dean moves closer to him carefully, putting a hand on his shoulder. Cas reaches to cover his hand with his own, finding himself lack the courage to look back.
+
+"What's happening?" Dean asks, utterly confused, looking from Cas to the old man on the bed.
+
+Cas swallows hard, then tells him with a deeply sorrow voice, "I'm sorry, Dean. But you just died."
+
+Next door, they hear Rory's panicking, high-pitched voice, "Will someone please tell me what is going on?"
+
+And the Doctor answers him, painfully, regretfully. "You just died, Rory. I'm sorry."
+
+<br>
 
 ### draft notes
 
@@ -2541,13 +2647,7 @@ about book: "This isn't any old future, it's ours. Once we know what's coming, i
 
 River/Amy: "okay, why did you lie?" "Never let him see the damage. And never, ever, let him see you age. He doesn't like endings."
 
-Amy: "Husband, run!" River: "Husband, shut up!" Dean: (swallow) others: (amused, glimpse at Dean/Cas) Dean: (blush)
-
 ~~loophole: don't need the device to find Winter Quay, it's in book chapter title → need to give a reason why can't use the known info (death in there not necessarily Dean/Rory? what's the luck?)~~
-
-why infected/weeping angel sends people back/touch them: (Cas's theory) maybe not to harm them, but asking for help, angels have instinct to heal by touch, so they're looking for touch to self-cure, or they're too lonely, so they capture these humans to keep themselves accompany; (Doctor's theory) they feed on time energy, they capture these human for food source; (Dean's theory) they're and they've always been bastards, so they're just continuing being bastards, want to feed *and* attract more angels and hunters over, so they can spread the disease and get more food; or that's the karma for them, about time they pay for being assholes all these times (which pains Cas to think any of them deserve this bc he can hear the angels' screaming of pain even if they're not really alive as stones)
-
-why weeping angels everywhere, Cas back from Purgatory only a week ago: time travel, if they exist at one point of time, they're in all the time, that's why no one knows where they come from: chronologically they didn't exist a week ago, that's the ground zero, but ever since then, they spread to the whole time flux
 
 ### references
 
@@ -2556,6 +2656,8 @@ Reuse River's confession lines when she doesn't recognize 12th Doctor in S09E13 
 ## Chap 9 The Angels Take Manhattan
 
 > (Dean POV)(Act 2 plot point 2+Act 3 twist)
+>
+> discuss weeping angel's motives
 >
 > weeping angel besiege attack (kill all NYC lights first), all escape to roof, the Statue of Liberty attack, Cas show true form, stare all directions with all eyes, everyone shut eyes (Rory/Amy love talk, Dean/Cas hear), but Cas can't keep doing that, eventually can't maintain true form in this plane (Doctor can sonic a few to send them away but not enough, detail for later)
 >
@@ -2566,6 +2668,12 @@ Reuse River's confession lines when she doesn't recognize 12th Doctor in S09E13 
 > Cas's stonization isn't instant, start from feet up, can't move, eyes the last, Dean has to witness the process, it's painful for both, that's why Cas has time to spread the wing before the process complete so his statue shows protective wings for Dean (painful confession, farewell scene)
 
 ### draft notes
+
+Amy: "Husband, run!" River: "Husband, shut up!" Dean: (swallow) others: (amused, glimpse at Dean/Cas) Dean: (blush)
+
+why infected/weeping angel sends people back/touch them: (Cas's theory) maybe not to harm them, but asking for help, angels have instinct to heal by touch, so they're looking for touch to self-cure, or they're too lonely, so they capture these humans to keep themselves accompany; (Doctor's theory) they feed on time energy, they capture these human for food source; (Dean's theory) they're and they've always been bastards, so they're just continuing being bastards, want to feed *and* attract more angels and hunters over, so they can spread the disease and get more food; or that's the karma for them, about time they pay for being assholes all these times (which pains Cas to think any of them deserve this bc he can hear the angels' screaming of pain even if they're not really alive as stones)
+
+why weeping angels everywhere, Cas back from Purgatory only a week ago: time travel, if they exist at one point of time, they're in all the time, that's why no one knows where they come from: chronologically they didn't exist a week ago, that's the ground zero, but ever since then, they spread to the whole time flux
 
 (Liberty is Naomi)
 
