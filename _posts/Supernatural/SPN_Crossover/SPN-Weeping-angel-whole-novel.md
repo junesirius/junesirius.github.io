@@ -44,6 +44,8 @@ apartment interior (in script): A bleak, dusty, characterless apartment. Someone
 
 (in film): in River's book when Sam Garner walks in : 22 floors, number of rooms in each floor: 0-1st (16), 2-5 (14), 6-14 (12), 15-16 (10), 17-18 (8), 19-20 (6), 21-22 (4), total to 252 rooms; in reality when Rory walks in: 7 floors, number of rooms in each floor: 0 (34), 1 (42), 2 (35), 3 (34), 4 (40), 5 (38), 6 (40), 7 (39), total to 302 rooms (but Rory's room is Floor 8)
 
+(in my version): 77 levels tall (to be similar height as Chrysler Building), distribute alphabetically, Rory and Dean on same floor next door (Winchester and Williams are close enough), educated estimate based on last name distribution, they are in 73-75 floor. Set them in 66 floor, Hell number. has to climb 11 levels when escaping to the rooftop, takes about 2 min
+
 #### Graveyard location
 
 New York Marble Cemetery
@@ -1463,7 +1465,7 @@ Dean defends, "We didn't even know what that was."
 
 Amy opens the pages. "It has my name too," she tells them, "and Rory, and Doctor."
 
-"I was just wondering how you knew where to find me this time. I was *just* thinking about sending you a message," River says with a mild smile. "A kiss in time flux."
+"I was just wondering how you knew where to find me this time. I was *just* thinking about sending you a message," River says with a mild smile. "A kiss in time flux, or something you couldn't miss. Thought some future version of me already did something I haven't thought about."
 
 The Doctor answers sheepishly, "Total coincidence this time, sorry, River. We were actually tracking Rory."
 
@@ -1509,7 +1511,7 @@ Dean shifts his gun toward him. "Or I can just blast a hole in your chest," he s
 
 "Take me with them, then." The words surprise many of them, and it is Cas, stepping toward Grayle. "I'm no use to you here; let me go with them."
 
-Grayle sizes him up with interest, glancing between him and Dean.
+Grayle sizes him up with interest, glancing between him and Dean. "I do have some other plan for you," he says with a faint amused smile.
 
 "Cas --" Dean has lowered his weapon, letting himself be grabbed by the arms by the guard he was pointing his gun at earlier. The other man takes Amy, shoving her out.
 
@@ -1691,7 +1693,7 @@ She strikes a match right then, flashing bright both their solemn faces.
 
 The match burns out.
 
-Dean can hear blood pumping in his eardrum.
+Dean can hear blood pumping in his eardrum, deafening him, muting him completely.
 
 Except, it's not the pounding of his heart that he's hearing.
 
@@ -1859,7 +1861,7 @@ Dean doesn't know how long he can keep holding on to it. His muscles are sore. B
 
 "If the Angels break in and send me back again, that might be the last thing I'd ever hear about Amy ever again," Rory says as if it's obvious. "So yeah, I want to know as much about her as I still can. The memory would be all I ever have."
 
-"What's the matter with you two?" Dean sighs, staring at the young man with a stubborn yet eager look in his eyes. "She said she loved you, more than anything," he tells him dutifully.
+"What's the matter with you two?" Dean sighs, staring at the young man that has a stubborn yet eager look in his eyes. "She said she loved you, more than anything," he tells him dutifully.
 
 Rory's eyes brighten up like the Sun rising from the horizon. "She said that?"
 
@@ -1867,7 +1869,7 @@ Rory's eyes brighten up like the Sun rising from the horizon. "She said that?"
 
 Eyes unfocused on the dim air of the lobby, Rory says, "You know, sometimes I still can't believe how lucky I am. For a really long time, I thought she wouldn't ever love me the way I love her. Did she tell you we grew up together, and that we were always best friends?"
 
-"Not the 'best friend' part." Dean swallows, feeling a funny twist in the gut.
+"Not the 'best friends' part." Dean swallows, feeling a funny twist in the gut.
 
 "We were practically together every single day. I was always so happy to just *be* around her. But she never really looked at me that way. And you know what she said when she told people why we were just 'best friends'?" Rory pauses for a brief moment, not really waiting for an answer. Dean just waits.
 
@@ -1993,7 +1995,7 @@ The wheezing sound of the old mechanics echoes loudly in the place, disturbing d
 
 Dean and Rory watch stories after stories rising into their view then being left behind. All have the same long, bleak look. An empty and straight corridor stretches in front of the lift on each floor, covered in thick scarlet velvet carpet. Not a single person in view.
 
-The lift comes to a halt at a floor near forty or fifty levels high -- they lost count when it got above thirty. The thing doesn't seem to be willing to move further up, so Dean and Rory have no choice but to walk into the corridor. The elevator clanks back down, leaving a dark, empty well in the space.
+The lift comes to a halt at a floor near fifty or sixty levels high -- they lost count when it got above thirty. The thing doesn't seem to be willing to move further up, so Dean and Rory have no choice but to walk into the corridor. The elevator clanks back down, leaving a dark, empty well in the space.
 
 The bulbs on the ceiling give off smoky, tawny light, barely lighting the corridor.
 
@@ -2007,7 +2009,7 @@ Dean shifts his attention to the end of the corridor. The light on the ceiling i
 
 "Dean --" Rory calls after him.
 
-"Give me a sec," Dean says, walking cautiously toward the shadowed end wall. The instinct growls in his brain like some answers crawling their way out, waiting for him to put the last missing piece into the puzzle. And something tells him the answer is *right there*.
+"Give me a sec," Dean says, walking cautiously toward the shadowed end wall. An instinctive feeling growls in his brain like some answers are dying to crawl their way out, waiting for him to put the last missing piece into the puzzle. And something tells him the answer is *right there*.
 
 The stone alcove in the wall blends in naturally with the rest of the decoration, looking exactly like a coherent part of the building -- as old and dusty as everything else is, covered by cobwebs.
 
@@ -2047,6 +2049,8 @@ and
 
 "D. Winchester"
 
+The elevator lets out a final ringing sound, and stops at their level.
+
 <br>
 
 ### draft notes
@@ -2061,9 +2065,9 @@ self-reminding notes: after talking with Amy and Rory, Dean realizes Cas loves h
 
 > (Cas POV)(Act 2 mid-point, moment of truth)
 >
-> (chapter start: half an hour ago)
+> (chapter start: half an hour ago) (rewind, continue from chap.5 end, Cas/Doctor/River/Grayle interaction)
 >
-> handled Grayle: Grayle force tie Doctor/Cas, know them not human (bleeding grace, two hearts), make them collections; River from ten minutes later use vortex manipulator comes back (got idea from Doctor escaping Pandorica), use Doctor's sonic lock the lights, punch Grayle, release Doctor/Cas, whisper to herself "it's gonna hurt", leave with "see you later", Doctor/Cas go save Amy/Dean, only find Amy
+> handled Grayle: Grayle force tie Doctor/Cas, know them not human (bleeding grace, two hearts), make them collections, humiliate them; River from ten minutes later use vortex manipulator comes back (got idea from Doctor escaping Pandorica), use Doctor's sonic lock the lights, punch Grayle, release Doctor/Cas, whisper to herself "it's gonna hurt", leave with "see you later", Doctor/Cas go save Amy/Dean, only find Amy
 >
 > Grayle read River's book (mentioned Dean/Cas sacrifice+Amy/Rory last farewell (keep it vague), River's broken wrist), Doctor freak out, try save Amy, change future
 >
@@ -2081,7 +2085,111 @@ self-reminding notes: after talking with Amy and Rory, Dean realizes Cas loves h
 
 ### Act 1
 
-*Half an hour ago, in Grayle's mansion.*
+*Thirty minutes ago, in Grayle's mansion.*
+
+<br>
+
+"What are you going to do to them?" Cas glares at Grayle, as Dean and Amy are pushed out of the door. He wants nothing more than to follow, to strike them down and bring Dean to somewhere safe, bring everyone to somewhere safe. But Grayle makes a gesture, pointing a finger at him, catching his attention.
+
+"I'd worry about yourself first if I were you, sweetheart." Grayle says in an almost sweet voice, gesturing at the light switch his left hand is still hovering over. "And don't you move. You do anything, lights off, she dies." He shifts that index finger at River. River tries to struggle again, but her wrist is held so tight by the Angel, there is not any chance of slipping off.
+
+The lines around Cas's eyes are pressed tight. He glances at River, then meets the Doctor's eyes. He forces his fists lower, inch by inch.
+
+"You, too. Put down that thing, will you? Then we can talk." Grayle points at the sonic screwdriver in the Doctor's hand. The Doctor makes a growling face, but he leaves the screwdriver on the floor.
+
+"Happy?" he grits.
+
+Grayle hums, pleased with himself. "I would never know you have so much more use than I thought, Detective," he says to River.
+
+"I assure you, whatever you're going to do, you *do not* want to piss off those two boys," River says, voice carefully controlled. "They are so much more than what they look like."
+
+"I wouldn't worry too much," Grayle answers, grinning, turning his attention back to Cas and the Doctor, eying them like a collector regarding an ancient Chinese vase from two thousand years ago in a museum. "In fact, I'm counting on that."
+
+Cas squints at him. The Doctor follows his gaze. "What do you mean?"
+
+Grayle doesn't answer immediately, and the two guards come back right then. "Tie them up," he waves them over and gestures at them.
+
+He makes sure his finger doesn't leave the light switch when Cas and the Doctor shoot murderous looks at him. He raises a challenging eyebrow, pointedly tilting his chin at River. Both of them don't resist as they're tied up.
+
+The guards are very thorough with ropes and chains, rounding around their bodies, making tight knots behind them, and a second layer of iron chain locking their neck, hands and feet to the ground. Rough metals and fibers brush against his skin through the ragged cloth, Cas gets reminded of his cuts from the flight, still fresh, some of them still bleeding. He can feel the grace flow sluggishly inside him. He barely scraped enough grace when he had to stand with Dean in that brief gun-fight-like moment, knowing he should at least have *something* ready in case he needs to protect him, protect them. Now that the moment is over, he realizes he has pulled most of the grace away from where it was trying to heal his body. His body must look even worse from the outside, but he can't really spare any thought for himself.
+
+Grayle walks slowly closer as they are tied up and can't move, closing in on Cas, eyeing his bloody wounds and cuts almost admirably. A look of in awe, but looking down, as if he's nothing more than a beautiful specimen he collected, and now he's just enjoying the view. "You're not human, aren't you?" he says with widened eyes.
+
+Cas realizes he must be watching his leaking grace through the wounds on the vessel. Sometimes it's so easy to forget he's not human, especially when Dean is around. He doesn't treat him as if he's anything different, anything more, or anything less. He treats him like a friend. Apparently other human beings are not like him.
+
+"You will make such a fascinating collection. I cannot wait to hear what everyone say when they see I acquired such a pure and bright creature," Grayle speaks as if he discovered a new species when traveling through some remote rainforest.
+
+Cas can do nothing but glare at the middle-aged man taking charge. His mind keeps slipping to the cellar, wondering how Dean's doing right now, whether his situation would be any better than his or worse.
+
+"I have to ask, what are you?" Grayle holds out a finger, lifting his chin up, observing his face with great interest.
+
+Cas snaps his head hard, trying to shake his head off. The chain rattles heavily, dragging him down, exhausting his already wounded body.
+
+"Naughty," Grayle tuts, taking his hand back. "Would you rather be tied to that Angel instead?"
+
+Cas glances at the Angel statue. The face of the chained Angel statue is so hollow and broken beyond recognition, but similar to Hannah's statue back at the fountain, for some reason, he thinks he can still sense a familiarity in it. If it's the statue of some other angel he'd known, it's not entirely impossible. But he still can't understand how it happens, it never happened before.
+
+Cas tries to channel some of his sense toward the statue, to feel her, to hear her. She's suffered greatly, Cas thinks, she must have been constrained by this man for a very long time, starved and tortured, until one day, she would be eroded to nothing but a pile of sand and dust, like all humans after they die, like all stars after they die.
+
+"Do you realize she's screaming?" Cas says angrily, before he can stop himself. He doesn't know why he said that, but he doesn't stop. "They can feel pain. And others can hear it."
+
+He can feel the Doctor and River's eyes land on him, heavier and more gingerly than before.
+
+"Good," Grayle answers with a grin. "I was wondering about that. I don't want all my effort go unnoticed."
+
+"And what *effort* is that, exactly? By sending people to cellar? Sending them to danger, to death?" The Doctor cuts in, eyes burning with fury. "Did you realize those are all good people, important people, people others care about and would do anything to save?"
+
+Grayle's attention is captured by him. He moves to stand before him now, scrutinizing him in a similar manner to the way he treated Castiel. "And why do you care? Who are you?"
+
+"I'm the Doctor," he looks at the man dead in the eyes, keeping his words weighted.
+
+"Doctor who?"
+
+"Ha!" The Doctor grins, his mood visibly getting better just from hearing that.
+
+Grayle narrows his eyes. "You don't even have a name, why do you have so many hearts for others?"
+
+"I only have two, hardly 'too many'," the Doctor answers, then his face glooms. "Though I guess comparing to you, with no heart, it does seem a bit too many."
+
+"Doctor --!" River raises her voice alarmingly suddenly, eyes on the door's direction.
+
+The Doctor turns his head sharply, so is Cas. Even Grayle pauses and looks over their shoulders to watch. A flash of lightening sparks in the air, as if tearing open the fabric of the air, and a figure squeezes through.
+
+And her first sentence is: "Hello, Sweetie. Again. What are you boys going to do without me?"
+
+<br>
+
+The Doctor stares at the newcomer: "River?"
+
+The figure that looks exactly like their River -- who is still grasped by the Angel -- marches to the sleeky, fleshy, now mouth-gaping man, without a word, punches him in the face and knocks him down clean and quick. The two beefy guards receive the same from her left hook fists, falling onto the floor in two loud thumps.
+
+River complains, "Oh, I wanted to do that!"
+
+The new River answers, "You get to do it in ten minutes."
+
+The Doctor understands now, "Vortex Manipulator." then immediately, annoyedly. "You have it the whole time, you couldn't come back earlier?"
+
+The future River shoots him a glare while picking up the sonic screwdriver and beaming their ropes and chains. "You try ride motorbike in traffic like this? I can tear the world apart if I got one second wrong. Let alone any potential paradox! I gotta go now."
+
+She raises her left wrist where the device is blinking rapidly, her right index finger pressing the screen stiffly.
+
+"Wait, that's all? You can't give us anything else?" The Doctor shakes off the now loosen ropes around him, jumping to his feet, reaching to the future River.
+
+"It's only ten minutes into the future, not much can be done, especially when I was chained up most of the time," the future River rolls her eyes.
+
+"Speaking of, can't you help sonic me free? I'll need my hand back." River says loudly, using her free hand to gesture the Angel that's all over her.
+
+"Sorry," the future River turns to herself. She leans in closer, her look turns carefully controlled, voice low to almost like a whisper, "You got all the spoiler from the book. And I'm sorry, it's gonna hurt."
+
+She disappears in a short wheezing sound and lightening sparks.
+
+"What's gonna hurt?" River asks after her, but there is no one else to answer.
+
+
+
+
+
+
 
 
 
@@ -2089,17 +2197,11 @@ self-reminding notes: after talking with Amy and Rory, Dean realizes Cas loves h
 
 ###### [TBA]
 
-> Grayle:
+> handled Grayle: River from ten minutes later use vortex manipulator comes back (got idea from Doctor escaping Pandorica), use Doctor's sonic lock the lights, punch Grayle, release Doctor/Cas, whisper to herself "it's gonna hurt", leave with "see you later", hint mention paradox, Doctor/Cas go save Amy/Dean, fight off guards/goons, blast open door, only find Amy (merge Chap.6 ending)
 >
-> handled Grayle: Grayle force tie Doctor/Cas, know them not human (bleeding grace, two hearts), make them collections; River from ten minutes later use vortex manipulator comes back (got idea from Doctor escaping Pandorica), use Doctor's sonic lock the lights, punch Grayle, release Doctor/Cas, whisper to herself "it's gonna hurt", leave with "see you later", hint mention paradox, Doctor/Cas go save Amy/Dean, only find Amy (merge Chap.6 ending)
->
-> Grayle read River's book (mentioned Dean/Cas sacrifice+Amy/Rory last farewell (keep it vague), River's broken wrist), Doctor freak out, try save Amy, change future
+> they read River's book, spoil Dean/Cas sacrifice + Amy/Rory last farewell (keep it vague), River's broken wrist; Doctor freak out, try save Amy, focus on changing future
 >
 > (keep hinting Cas can hear Angels)
-
-why can't River comes back ten more minutes earlier: "You try ride motorbike in traffic like this? I can tear the world apart if I got one minute wrong."
-
-future River comes, first sentence: "Hello, Sweetie. Again. What are you boys going to do without me?" sonic Grayle and knock him out. current River complain: "Oh I wanted to do it" future River: "You get to do it in ten minutes" warn them about paradox, whisper to her old self in the ear something ("it's gonna hurt")
 
 During handling Grayle: Grayle: "I want to know if it can feel pain" Cas: "Do you realize she's screaming? The others can hear." (more visual description of the tortured angel) (after finish Grayle) Doctor to Cas: "You talk about it like it's alive" River: "Like it's your own kind" Amy: "You said 'she'" River: "What are you, really?" (Cas handle trust issue with Doctor/River/Amy when Dean's not there endorse/defend/help him) Cas might let slip: "She has a name!" the tortured angel is Hael, the mother-son statues are Mirabel and Samandriel
 
@@ -2109,11 +2211,13 @@ During handling Grayle: Grayle: "I want to know if it can feel pain" Cas: "Do yo
 >
 > River/Amy's love talk (Cas hear)
 >
-> Amy use Doctor's device to locate Dean/Rory, Cas hear Dean's prayer (they're already almost reach the level)
+> Amy use Doctor's device to locate Dean/Rory
 
 ### Act 3
 
-> 4 of them go to Winter Quay to save Dean/Rory, 6 meet (merge Chap.7 ending, Cas POV)
+> 4 of them go to Winter Quay to save Dean/Rory, Cas hear Dean's prayer (they're already almost reach the level)
+>
+> 6 meet (merge Chap.7 ending, Cas POV)
 >
 > see room names, split witness old Dean die (Cas uneasy), Amy see old Rory (River/Doctor there too)
 >
@@ -2179,6 +2283,8 @@ Cas is a "good" weeping angel with them (same as when with normal asshole angels
 >
 > a few deliberate blink scene sequence, Cas move to him, want to hug but can't, weeping/crying, Dean jump the building (kissed him before jumping, not afraid to confess because he thinks he'd die)
 >
+> when Dean jumps, the stone statue of Cas crack then break apart, a very literal heartbroken
+>
 > (for a sec make it looks like not working)
 
 ### draft notes
@@ -2221,9 +2327,9 @@ witty comments about how come the cheapest hotel sounds like 5-star penthouse; y
 
 ### references
 
-Brian looks to the Doctor, so serious: "What happened to the other people who travel with you?" Doctor: "Some left me. Some got left behind. And some... not many but... some died.  (off Brian's horrified look) Not them. Not them, Brian. Never them." ending: Doctor: "I know. You both have lives here. Beautiful, messy lives. This is what makes you so fabulously human. You don't want to give them up. I understand." Brian: "Actually, it's you they can't give up, Doctor. And I don't think they should. Go with him. Go save every world you can find. Who else has that chance? Life'll still be here." Doctor: "You could come, Brian." Brian: "Somebody has to water the plants. Just... bring them back safe." (S07E04)
+Brian looks to the Doctor, so serious: "What happened to the other people who travel with you?" Doctor: "Some left me. Some got left behind. And some... not many but... some died.  (off Brian's horrified look) Not them. Not them, Brian. Never them." ending: Doctor: "I know. You both have lives here. Beautiful, messy lives. This is what makes you so fabulously human. You don't want to give them up. I understand." Brian: "Actually, it's you they can't give up, Doctor. And I don't think they should. Go with him. Go save every world you can find. Who else has that chance? Life'll still be here." Doctor: "You could come, Brian." Brian: "Somebody has to water the plants. Just... bring them back safe." (S07E04) (Doctor: "You could bring the plants too, come on, Brian. Tardis needs you." Rory whisper: "He means he needs us, and we need you." Brian: "I'll go packing then.")
 
-## Afterword (Not a Chapter)
+## Afterword
 
 > (use as epilogue, letter format?, like Amy's letter to the Doctor from the past)
 >
