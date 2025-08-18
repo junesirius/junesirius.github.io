@@ -3411,7 +3411,7 @@ Brian looks to the Doctor, so serious: "What happened to the other people who tr
 
 ### Sam Winchester
 
-Dean orders the biggest cheeseburger Josie's Burger has to offer and enjoys every bite slowly and contently, knowing Cas is watching his every move. He licks his fingers when he's finished. They share half a plate of large fries, and give off the rest to the eager pigeons wandering around their table the whole time.
+Dean orders the biggest cheeseburger Josie's Burger has to offer and enjoys every bite slowly and contentedly, knowing Cas is watching his every move. He licks his fingers when he's finished. They share half a plate of large fries, and give off the rest to the eager pigeons wandering around their table the whole time.
 
 They stand in the Bethesda Plaza listening to the busker playing one song after another, until the man packs the guitar and leaves for the day. The place is crowded with people, from those who sit in 
 
@@ -3421,7 +3421,7 @@ There is a brief rain when the sun is setting, and they still do not rush their 
 
 When they leave Central Park, it's still not dark yet.
 
-They sit back into the parked car. Dean leans back at the driver seat, resting his eyes, with a smile hanging on his lips. "It's the best day in my life," he announces.
+They sit back in the parked car. Dean leans back in the driver seat, resting his eyes, with a smile hanging on his lips. "It's the best day in my life," he announces.
 
 Cas watches him closely, "You're happy."
 
@@ -3429,13 +3429,13 @@ Dean opens his eyes, lazy. "First time in a long time," he agrees.
 
 "Is that why you still haven't called Sam?" Cas asks carefully. "Or started driving to Texas?"
 
-Dean stiffens a little, slowing sitting straight in the seat. "It's a thirty-hour drive," he says instead.
+Dean stiffens a little, slowly sitting straight in the seat. "It's a thirty-hour drive," he says instead.
 
 "I know," Cas nods with understanding. "Take your time."
 
 Dean swallows. They both know it has nothing to do with the driving hour.
 
-Cas reaches out to hold his hand, and Dean returns an appreciated nod.
+Cas reaches out to hold his hand, and Dean returns an appreciative nod.
 
 It takes him three more days to start heading southwest, and another four days on the road. He does take his time.
 
@@ -3465,7 +3465,7 @@ Not very lived-in yet.
 
 "A few months now, actually." Sam huffs a short laugh, following his gaze, a little self-consciously.
 
-That's how they start sharing the stories. Dean manages to keep the Purgatory part short, and Cas amends a little details about situation in Heaven.
+That's how they start sharing the stories. Dean manages to keep the Purgatory part short, and Cas amends a few details about situations in Heaven.
 
 Sam listens attentively, and frowns when Dean starts talking about the cases in Manhattan.
 
@@ -3481,19 +3481,19 @@ Dean blinks, "Three weeks. Cas's back for two weeks, give or take."
 
 "Why didn't you call me?" Sam frowns deeper.
 
-"You got out," Dean nods at their surroundings. And the woman who's now pointedly keeping herself busy outside the door in the small yard. "Last time you got out, you lived with a girl you'd like to marry, and I'm the one pull you back in. I figure, better not to make the same mistake twice."
+"You got out," Dean nods at their surroundings. And the woman who's now pointedly keeping herself busy outside the door in the small yard. "Last time you got out, you lived with a girl you'd like to marry, and I'm the one pulled you back in. I figure, better not to make the same mistake twice."
 
 Sam is quiet for a long time, then, "Last time I wanted out, I knew you were out there somewhere and I could always call you. This time, for the first time in my life, I have no one. I thought you were dead, Cas too. Dad was gone, Bobby was gone. I don't have anyone." He sniffs slightly. "I'm not really choosing anything, I'm just running away."
 
-Dean bites his lips, watching his little brother sniffing as if he's just a eight-year-old who can't find his way home -- in a way, there is truth in it. He rises up from the stool and wraps his arms around him. Sam leans into him like he used to when he was a child.
+Dean bites his lips, watching his little brother sniffing as if he's just an eight-year-old who can't find his way home -- in a way, there is truth in it. He rises up from the stool and wraps his arms around him. Sam leans into him like he used to when he was a child.
 
 It feels good.
 
 "It's okay now, Sammy," he pats his back. "We're home now."
 
-"I'll let Amelia know," Sam is ready to head out. Dean stops him.
+"I'll let Amelia know." Sam is ready to head out. Dean stops him.
 
-"You don't have to," he says. "You get a nice place, a nice girl. You don't have to give it up, if you don't want to, choosing the 'monster life' over the 'normal life'. In face, some new friends of ours just made that choice."
+"You don't have to," he says. "You get a nice place, a nice girl. You don't have to give it up, if you don't want to, choosing the 'monster life' over the 'normal life'. In fact, some new friends of ours just made that choice."
 
 "What about you?" Sam asks.
 
@@ -3557,7 +3557,7 @@ Dean hums his favorite song when he's driving.
 
 ### Brian Williams
 
-Brian almost drops the watering can when the bell rings. It's his son's house, no one knows he's here.
+Brian almost drops the watering can when the bell rings. It's his son's house; no one knows he's here.
 
 He hurries to the door, and joy overwhelms him to see Amy and Rory stand right there.
 
@@ -3569,7 +3569,7 @@ The Doctor follows a few steps behind.
 
 "May I?" He asks, as if he's not sure if he's invited to this house. Brian invites him in, and the Doctor grins joyfully.
 
-For the whole day, they hang out in the house, having fun, telling jokes, watching TV. The Doctor hangs out with them, like a big teddy bear. Brian watches them from their back, still can't stop his thoughts wandering around, wondering where they just came back from. Is that ten thousand years ago, or ten thousand years into the future? How close are they, this time, to not coming back.
+For the whole day, they hang out in the house, having fun, telling jokes, watching TV. The Doctor hangs out with them, like a big teddy bear. Brian watches them from their back, still can't stop his thoughts wandering around, wondering where they just came back from. Is that ten thousand years ago, or ten thousand years into the future? How close are they, this time, to not coming back?
 
 But he can't ask any of them, when he watches their faces. They're happy now, they're enjoying each other's company, and they're home, and he can see them. That should be enough.
 
@@ -3579,23 +3579,23 @@ They have a lovely, cheerful dinner.
 
 And the next day, they are still at home.
 
-"So, when are you heading out for your next adventure?" Brian asks them, a few days later, over the dinner.
+"So, when are you heading out for your next adventure?" Brian asks them, a few days later, over dinner.
 
 The chattering stops. The smiles stay still on their faces. Forced to be there.
 
-Brian sees Amy and Rory exchange their looks, and then with the Doctor.
+Brian sees Amy and Rory exchange looks, and then with the Doctor.
 
 "Dad?" Rory prompts.
 
-"I understand you can't give up the 'Doctor Life'," Brian says ernestly. "And I understand the risk. We talked about this, you don't have to give those up just to keep me company, and you certainly shouldn't give him up." He nods at the Doctor, sitting in between Amy and Rory like a twelve-year-old. "You'd go with him, go save every world you can find, go live the life and try everything the world and the life has to offer. The other life, the 'normal life' will still be here."
+"I understand you can't give up the 'Doctor Life,'" Brian says earnestly. "And I understand the risk. We talked about this, you don't have to give those up just to keep me company, and you certainly shouldn't give him up." He nods at the Doctor, sitting between Amy and Rory like a twelve-year-old. "You'd go with him, go save every world you can find, go live the life and try everything the world and life has to offer. The other life, the 'normal life' will still be here."
 
 "Dad." Rory exchanges a look with Amy again. Amy nods at him, encouraging him to continue. "We decided to stay."
 
-"Something happened in the last trip, isn't it?" Brian asks acutely.
+"Something happened on the last trip, didn't it?" Brian asks acutely.
 
 "You can say that," Rory admits.
 
-"What happened?" Brian frowns, sensing the atmosphere shifting to heavy side. "Monsters never scare you off. Not even the end of the world. Not even death."
+"What happened?" Brian frowns, sensing the atmosphere shifting to the heavy side. "Monsters never scare you off. Not even the end of the world. Not even death."
 
 "But never seeing you again does," Rory answers.
 
@@ -3605,7 +3605,7 @@ They tell him the last trip, the angels taking Manhattan, the two other brave ad
 
 Brian swallows. Amy grasps his hand.
 
-"They saved us, Dad. So now, I think this is our second chance." Rory looks at Brian. "And we uses this chance to come back home."
+"They saved us, Dad. So now, I think this is our second chance." Rory looks at Brian. "And we use this chance to come back home."
 
 Brian doesn't know if he should feel happy or sad. Maybe both.
 
@@ -3629,11 +3629,11 @@ Brian remembers he forgot to finish watering the plants.
 
 ### Christmas
 
-The door bell rings. They are too busy around the kitchen and almost miss the sound.
+The doorbell rings. They are too busy around the kitchen and almost miss the sound.
 
 "I'll go!" Amy wipes her hands and goes to open the door.
 
-The first thing runs into her eyes is a tall, red fez. The second thing is the Doctor under it.
+The first thing running into her eyes is a tall, red fez. The second thing is the Doctor under it.
 
 "Hello," the Doctor waves tentatively. "Thought to drop by to say hi. I'll be on my way if you're busy."
 
@@ -3645,7 +3645,7 @@ The first thing runs into her eyes is a tall, red fez. The second thing is the D
 
 The Doctor ducks his head, unsure of himself. "Sorry, the clock must be off, Tardis's fault. I was aiming for the year before, actually. It arrives late, it always does that."
 
-Amy bursts into a laughter. "It's a joke, you silly!"
+Amy bursts intolaughter. "It's a joke, you silly!"
 
 The Doctor laughs nervously with her. "Ah!"
 
@@ -3655,7 +3655,7 @@ Amy steps aside to let him in. "Come on! The dinner's ready. You joining?"
 
 "There's a seat set for you," Amy tells him.
 
-The Doctor is properly surprised. "How? You didn't know I'm coming."
+The Doctor is properly surprised. "How? You didn't know I was coming."
 
 Amy says easily, "Because we always do, you moron."
 
@@ -3669,13 +3669,13 @@ This is the first time the Doctor realizes, he had so many friends before, he ha
 
 The universe is vast. And the timeline for eternity is long.
 
-When they say they might see each other again, neither the Doctor nor Castiel really know when or if it's going to happen.
+When they say they might see each other again, neither the Doctor nor Castiel really knows when or if it's going to happen.
 
 But they both have long lives. In thousands of years, if fate leads them, they'll meet.
 
 And they really do, more than once.
 
-They meet when the stars are creating. That's the beginning of the time, but neither of them travel chronologically.
+They meet when the stars are creating. That's the beginning of the time, but neither of them travels chronologically.
 
 The Doctor has changed his face, and Castiel isn't exactly himself at that time.
 
@@ -3691,11 +3691,11 @@ That is also what the Doctor realizes. This is way before Castiel meets him in N
 
 They meet when the stars are dying, and when the timeline is crashing.
 
-The eternity also has an end, just like the edge of the universe. Where everything is in a ruin, and almost every life comes to an end. They run into each other again.
+Eternity also has an end, just like the edge of the universe. Where everything is in ruin, and almost every life comes to an end. They run into each other again.
 
 They watch the stars burning out in comfortable, but unspeakable sadness. They both feel it.
 
-"How's your human friends?" The Doctor asks him.
+"How's your human friend?" The Doctor asks him.
 
 "His soul is still living in Heaven," Castiel tells him. "In a different plane. I'm glad they won't be affected by this."
 
@@ -3709,19 +3709,19 @@ The Doctor hums quietly. "Will you miss it? This physical, material dimension?"
 
 ### Castiel and The Statue of Liberty
 
-They have talked about going back to Manhattan some time, but for one reason or another, they never did.
+They have talked about going back to Manhattan sometime, but for one reason or another, they never did.
 
-"It's too crowded of the year", "It's too hot or too cold now", "It's the raining season"...
+"It's too crowded at this time of the year", "It's too hot or too cold now", "It's the rainy season"...
 
 They just never go back, until one day, they have a good enough reason.
 
-Sam's young son, the little Dean, sees the Statue of Liberty on the TV and ever since, that becomes the only thing he ever wants.
+Sam's young son, the little Dean, sees the Statue of Liberty on the TV, and ever since, that has become the only thing he ever wants.
 
 "Didn't you and Cas have a really good time in Manhattan?" Sam calls him.
 
 Dean wouldn't forget it for a thousand years. "Yeah, it's like forever ago," he recalls. What he's really thinking is -- yeah, that's the time and place when they get together.
 
-"Want to visit again?" Sam prompts. "My kid could use some tour guide."
+"Want to visit again?" Sam prompts. "My kid could use a tour guide."
 
 "You could just say you want to have fun yourself, Sammy." Dean laughs.
 
@@ -3735,9 +3735,9 @@ But they are not really the best tour guides. Nor are they the best uncles, acco
 
 Dean and Cas wander off on their own when they are at the foot of the Statue of Liberty.
 
-Dean senses Cas stiffens when he looks up at the statue. The official tour guide is going through its history, the year it's built, then gifted and transported. All very scholastic. Dean's attention comes to Cas.
+Dean senses Cas stiffens when he looks up at the statue. The official tour guide is going through its history, the year it was built, then gifted and transported. All very scholastic. Dean's attention comes to Cas.
 
-Cas's jaw is set tight, he stares at the Statue of Libery with fear in his eyes.
+Cas's jaw is set tight, he stares at the Statue of Liberty with fear in his eyes.
 
 For years, Dean hasn't seen Cas afraid of something, let alone shaking with fear.
 
@@ -3759,13 +3759,13 @@ Dean studies his face. "Something with you then," he concludes.
 
 Cas sighs. "It reminds me of Naomi," he admits under Dean's scanning eyes. "They have the same face."
 
-"Thought she's gone ages ago, in that explosion we pulled." Dean gritts his teeth.
+"Thought she's gone ages ago, in that explosion we pulled." Dean grits his teeth.
 
 "Yes," Cas says. "Yes, she did."
 
-And Dean hears what he doesn't say -- It doesn't matter that she's gone. The fear is still there. Just a glimpse of her face, Cas would be immoblized by the fear from memory alone. He doesn't want to think what horrifying things she'd done to him. Killing her seemed to be too easy for her.
+And Dean hears what he doesn't say -- It doesn't matter that she's gone. The fear is still there. Just a glimpse of her face, Cas would be immobilized by the fear from memory alone. He doesn't want to think about what horrifying things she'd done to him. Killing her seemed to be too easy for her.
 
-Dean pulls Cas close, leaning in, letting him rest on his shoulder. He knows it calms Cas, it works as a charm. And this time is no exception.
+Dean pulls Cas close, leaning in, letting him rest on his shoulder. He knows it calms Cas; it works as a charm. And this time is no exception.
 
 Resting his chin on Dean's shoulder, Cas says quietly, "I can still see her. And all the other angels we lost that day. Inias, Hannah, Samandriel... We saved the world, but we couldn't save any of them. I mourn their loss every day."
 
@@ -3789,9 +3789,9 @@ It's going to be a long time until they come back to Manhattan.
 
 It's a pure coincidence, and a big surprise -- a good surprise.
 
-Dean doesn't usually sit in the waiting seat outside woman's changing room -- he doesn't usually have a lady friend who'd drag him to the department and ask for *his* opinion.
+Dean doesn't usually sit in the waiting seat outside the women's changing room -- he doesn't usually have a lady friend who'd drag him to the department and ask for *his* opinion.
 
-But Charlie Bradbury doesn't fall into "usual" category.
+But Charlie Bradbury doesn't fall into the "usual" category.
 
 And they're preparing for a case. So it's technically counting as working.
 
@@ -3805,13 +3805,13 @@ He turns to see the man buried under a small mountain of bags and dresses.
 
 "Rory." Dean recognizes him. "What are you doing here?"
 
-"Amy is buying new clothes," Rory can't vacates his hands, so he nods at the lady's changing room. "Holiday shopping."
+"Amy is buying new clothes," Rory can't vacate his hands, so he nods at the lady's changing room. "Holiday shopping."
 
-"Right," Dean says. He didn't realize it's holiday season at all.
+"Right," Dean says. He doesn't realize it's the holiday season at all.
 
-"You?" Rory asks, moving closer to him slowly, and leaving the bags onto the seat, panting slightly.
+"You?" Rory asks, moving closer to him slowly, and leaving the bags on the seat, panting slightly.
 
-"With a friend, Charlie, also buying some clothes." Dean answers.
+"With a friend, Charlie, also buying some clothes," Dean answers.
 
 They start chatting, about the past few years, where they've been, what they're busy with, and time passes easily.
 
@@ -3821,11 +3821,11 @@ Dean raises a questioning eyebrow.
 
 Charlie laughs, introducing them, "Amy, this is my friend Dean. Dean, Amy."
 
-"I didn't know you're here!" Amy rushes to hug Dean, while Rory is waving slightly awkwardly at Charlie, telling her "I'm Rory."
+"I didn't know you were here!" Amy rushes to hug Dean, while Rory is waving slightly awkwardly at Charlie, telling her, "I'm Rory."
 
-"I didn't know you two know each other." Charlie eyes Dean and Amy curiously.
+"I didn't know you two knew each other." Charlie eyes Dean and Amy curiously.
 
-"She's that red-hair friend I told you about, if you still remember," Dean tells Amy. "I told you you'd like her."
+"She's that red-haired friend I told you about, if you still remember," Dean tells Amy. "I told you you'd like her."
 
 "I really do," Amy grins at Charlie, touching her hand fondly.
 
@@ -3845,15 +3845,17 @@ Dean chuckles. "Pretty much."
 >
 > (After work notes mention: the timeline fits the air date of both shows)
 
-There are too many unused materials that are drafted out for chapters that end up not included in the final story. But many of them are so much fun that I'd hate to leave them out in the Empty. Mostly are witty quips and comments and fun little interactions between our crossover characters. I can't resist compiling them together, just for some amusement.
+There are too many unused materials that are drafted out for chapters that end up not being included in the final story. But many of them are so much fun that I'd hate to leave them out in the Empty. Mostly witty quips and comments and fun little interactions between our crossover characters. I can't resist compiling them together, just for some amusement.
+
+<br>
 
 ### Chapter 4
 
-Dean: Let me get this straight. You save the universe but only save the UK part? Flying across galaxy is close enough, but USA is too far away? This isn't your jurisdiction or something?
+Dean: Let me get this straight. You save the universe, but only save the UK part? Flying across the galaxy is close enough, but the USA is too far away? This isn't your jurisdiction or something?
 
-Dean: Pal, not I'm saying, you did a terrible job in protecting the Earth, in case you didn't notice, it at least trashed twice if it's not for us to save it.
+Dean: Pal, not I'm saying, you did a terrible job in protecting the Earth, in case you didn't notice, it was at least trashed twice if it's not for us to save it.
 
-The Doctor: With all due respect, who's fault is that? Also, USA almost trashed twice doesn't mean *I* didn't do my job. That's *your* job, technically.
+The Doctor: With all due respect, whose fault is that? Also, the USA almost trashed twice doesn't mean *I* didn't do my job. That's *your* job, technically.
 
 River: Don't mind him, London gets trashed every Christmas, it's a Doctor and Monster thing.
 
@@ -3861,19 +3863,19 @@ Dean: You can say that again.
 
 <br>
 
-Dean: (referring the Doctor&River) I guess a thousand year age gap isn't a problem then.
+Dean: (referring to the Doctor & River) I guess a thousand year age gap isn't a problem then.
 
 The Doctor/River: You got anything you want to say about that?
 
 Dean: What? No, no, of course not.
 
-(Dean unintentionally glances at Cas, finding him look at him, too.)
+(Dean unintentionally glances at Cas, finding him looking at him, too.)
 
-River: We were married when I was half-way killing him and he was trying to save the world. It's complicated.
+River: We were married when I was halfway killing him and he was trying to save the world. It's complicated.
 
 Dean: (grins) Isn't it always? (unintentionally meets Cas's eyes again)
 
-Cas: (referring Dean) When we first met, he shot me and stabbed a dagger in my heart.
+Cas: (referring to Dean) When we first met, he shot me and stabbed a dagger in my heart.
 
 Dean: (quickly) Sorry.
 
@@ -3881,29 +3883,7 @@ Cas: (small, amused grin) It's okay. It's forgiven. It couldn't harm me anyway.
 
 River: (to Dean) If it did, you'd be in so much loss now.
 
-Dean: (to River, referring the Doctor) Same for you, I see. Either you didn't do a good job, or he just keeps coming back.
-
-<br>
-
-Dean: (referring the Doctor & River): I guess a thousand year age gap isn't a problem then.
-
-The Doctor/River: You got anything in mind you want to say about that?
-
-Dean: What? No, no, of course not.
-
-(Dean unintentionally glances at Cas, finding him look at him too.)
-
-River: We were married when I was half-way killing him and he was trying to save the world. It's complicated.
-
-Dean: (grins) Isn't it always? (unintentionally meets Cas's eyes again)
-
-Cas: (referring Dean) When we first met, he shot me and stabbed a dagger in my heart.
-
-Dean: (quickly) Sorry.
-
-Cas: (small grin) It's okay. It's forgiven. It couldn't harm me anyway.
-
-Rivier: (to Dean) If it did, you'd be in so much loss now.
+Dean: (to River, referring to the Doctor) Same for you, I see. Either you didn't do a good job, or he just keeps coming back.
 
 <br>
 
@@ -3915,7 +3895,7 @@ The Doctor: With all those people coming to the Tardis, you're the first one who
 
 Cas: I didn't read actually, she complained to me.
 
-Dean: "She"? Three minutes in, you're already bestie to a machine? Classic.
+Dean: "She"? Three minutes in, you're already bestie with a machine? Classic.
 
 Cas: What can I say? She doesn't have many people to talk to.
 
@@ -3925,11 +3905,11 @@ Cas: (small smile) Yes, and she enjoys it. But you never listen.
 
 <br>
 
-When they first approach the Tardis's console, seeing all the buttons, handles, sliders, keyboards, displays, trumpet, glass floor, power cables, and electrical lines. Dean's so happy like kids running into toy store, can't help touching all those toys. There's even an old-style vintage typewriter. Dean really wants to touch them.
+When they first approach the Tardis's console, seeing all the buttons, handles, sliders, keyboards, displays, trumpet, glass floor, power cables, and electrical lines. Dean's so happy like kids running into a toy store, can't help touching all those toys. There's even an old-style vintage typewriter. Dean really wants to touch them.
 
 The Doctor: Don't touch anything. (Even though his back to him)
 
-Dean is disappointed, taking his hand back. But Cas sees him still manages to press on the button closest to him. It blinks blue a few times, but does nothing else. Dean looks like a happy kid with a new toy.
+Dean is disappointed, taking his hand back. But Cas sees he still manages to press on the button closest to him. It blinks blue a few times, but does nothing else. Dean looks like a happy kid with a new toy.
 
 <br>
 
@@ -3955,7 +3935,7 @@ The Doctor: Don't call me 'Doc', it's 'Doctor' to you.
 
 ### Chapter 6
 
-When Amy and Dean talk, Amy mentions she and Rory get married.
+When Amy and Dean talk, Amy mentions she and Rory got married.
 
 Dean: Why did you get married?
 
@@ -3965,7 +3945,7 @@ Dean chokes, blushes, glad they are in the dark and no one can see his face.
 
 <br>
 
-In a setting where the six of them are all in the same room, just freshly meet each other, and can talk relexingly (which ends up never happen in the story until the very end and their relationship dynamics already changed):
+In a setting where the six of them are all in the same room, just freshly met each other, and can talk relaxingly (which ends up never happens in the story until the very end and their relationship dynamics have already changed):
 
 Dean: (referring to Amy & Rory) So you two are married.
 
@@ -3979,11 +3959,11 @@ Amy: Sure.
 
 River: Thought I heard you said you're partners.
 
-Dean: What? The agent thing? No, no, that's just, partner in crime kinda thing.
+Dean: What? The agent thing? No, no, that's just, a partner-in-crime kinda thing.
 
 Cas: Dean --
 
-Dean: Yeah, sorry, you're right, made it worse. No it's like, colleagues, (Cas narrows his eyes) comrades, (Amy raises her eyebrows) family.
+Dean: Yeah, sorry, you're right, made it worse. No, it's like, colleagues, (Cas narrows his eyes) comrades, (Amy raises her eyebrows) family.
 
 River: Sure.
 
@@ -4005,15 +3985,15 @@ Dean: (cheerfully) See? All sorted out now, no problem at all.
 
 They are ready to wrap up and say their goodbyes:
 
-River: (fake begrudgingly) Great, all of you are work done, and I still have a book to write.
+River: (fake begrudgingly) Great, all of you are done with work, and I still have a book to write.
 
 The Doctor: Not like it's so heavy work. You've already written it!
 
-River: I still have to drop it off somewhere. Needs to be in the exact motel room those boys stayed in in the exact right time. Not an easy job.
+River: I still have to drop it off somewhere. Needs to be in the exact motel room those boys stayed in at the exact right time. Not an easy job.
 
-Dean: At least you gotta visit Manhattan again. Even the cheapest hotel around here are like 5-star penthouse. Do you know you literally can't live anywhere that's *not* one block away from some famous landmarks around here?
+Dean: At least you gotta visit Manhattan again. Even the cheapest hotel around here is like a 5-star penthouse. Do you know you literally can't live anywhere that's *not* one block away from some famous landmarks around here?
 
-River: That's Manhattan alright.
+River: That's Manhattan, alright.
 
 <br>
 
