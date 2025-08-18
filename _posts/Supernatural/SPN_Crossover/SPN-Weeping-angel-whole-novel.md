@@ -14,7 +14,7 @@ published: false
 
 pairing: Castiel/Dean Winchester, Doctor Who/River Song, Amy Pond/Rory Williams, Doctor Who&Amy Pond
 
-tag: crossover, Doctor Who crossover, time travel, case fic, pining, eventual happy ending, canon-divergent, canon-typical self-sacrifice, temporary main character death, post purgatory, pre-Season 08, post-S07E23, DW S07E05 The angels take Manhattan, fix-it, true form Castiel, Castiel's wings, do not blink, background Sam/Amelia
+tag: Crossover, Doctor Who Crossover, Time Travel, Case Fic, Pining, Eventual Happy Ending, Canon Divergent, Canon-Typical Self-Sacrifice, temporary main character death, post purgatory, pre-Season 08, post-S07E23, DW S07E05 The angels take Manhattan, fix-it, true form Castiel, Castiel's wings, do not blink, background Sam/Amelia
 
 warning: temporary main character death
 
@@ -357,6 +357,8 @@ Until they meet a man with a funny bow tie and two hearts, who looks up from his
 
 (first paragraph: usual appreciation for the bang and artist)
 
+I am very attached to this story. All the main characters showed up in this story, from Supernatural and Doctor Who, are very dear and mean a lot to me. I tried so hard to knit the two stories together, to make it canon compliant to both worlds, timeline-wise, monster-wise, and story-wise, which I think I made it. And make it a fix-it, fixing the tragic, heartbroken endings and giving happy endings to everyone. It's not easy.
+
 This story is heavily inspired by and adapted from Doctor Who's S07E05 episode with the same title; many of the scenes are heavily rewritten from the show because the original storytelling is so astonishing as it is. Many quotes as well. Anything I'm not doing right is probably my bad, and most of the brilliant settings and story ideas should be credited to the original show creators and production teams.
 
 The music that accompanies the creation of this story is Sting's 1987 song "Englishman in New York," also used in the original show.
@@ -368,6 +370,10 @@ The music that accompanies the creation of this story is Sting's 1987 song "Engl
 ![](https://64.media.tumblr.com/87c55dfbd7bc260c5e83e32d3e8c24b1/486973a57ed6daee-db/s2048x3072/790eaa8b9ff809d7c5d849101eff5001d8fa8e64.jpg)
 
 ### Art
+
+![](https://64.media.tumblr.com/be08147729bf95ac5a190ef67c6a0497/2034c30f3ee92b47-ec/s500x750/6751834c61ef70c13381b924aa34c4eed60fa29f.jpg)
+
+![](https://64.media.tumblr.com/c5f9f655db379bb56bd926795a42b1da/2034c30f3ee92b47-cd/s500x750/74eceb9643d54ab0af6ead52339387f023c9d327.jpg)
 
 ## Editing notes
 
@@ -2089,9 +2095,9 @@ self-reminding notes: after talking with Amy and Rory, Dean realizes Cas loves h
 
 <br>
 
-"What are you going to do to them?" Cas glares at Grayle, as Dean and Amy are pushed out of the door. He wants nothing more than to follow, to strike them down and bring Dean to somewhere safe, bring everyone to somewhere safe. He hates the way his feet shake and he can't quite feel his grace or his wings -- he hates being weak and doing nothing but watching Dean suffer, and that is where all his thought centers. But Grayle makes a gesture, pointing a finger at him, catching his attention.
+"What are you going to do to them?" Cas glares at Grayle, as Dean and Amy are pushed out the door. He wants nothing more than to follow, to strike them down and bring Dean to somewhere safe, bring everyone to somewhere safe. He hates the way his feet shake and he can't quite feel his grace or his wings -- he hates being weak and doing nothing but watching Dean suffer, and that is where all his thoughts center. But Grayle makes a gesture, pointing a finger at him, catching his attention.
 
-"I'd worry about yourself first if I were you, sweetheart," Grayle says in an almost sweet voice, gesturing at the light switch his left hand is still hovering over. "And don't you move. You do anything, lights off, she dies." He shifts that index finger at River. River tries to struggle again, but her wrist is held so tight by the Angel, there is not any chance of slipping off.
+"I'd worry about yourself first if I were you, sweetheart," Grayle says in an almost sweet voice, gesturing at the light switch his left hand is still hovering over. "And don't you move. You do anything, lights off, she dies." He shifts that index finger at River. River tries to struggle again, but her wrist is held so tightly by the Angel, there is not any chance of slipping off.
 
 The lines around Cas's eyes are pressed tight. He glances at River, then meets the Doctor's eyes. He forces his fists lower, inch by inch.
 
@@ -2109,17 +2115,17 @@ Cas squints at him. The Doctor follows his gaze. "What do you mean?"
 
 Grayle doesn't answer immediately, and one of the two guards comes back right then. "Tie them up," he waves him over and gestures at them.
 
-He makes sure his finger doesn't leave the light switch when Cas and the Doctor shoot murderous looks at him. He raises a challenging eyebrow, pointedly tilting his chin at River. Both of them don't resist as they're tied up.
+He makes sure his finger doesn't leave the light switch when Cas and the Doctor shoot murderous looks at him. He raises a challenging eyebrow, pointedly tilting his chin at River. Neither of them resists as they're tied up.
 
-The guard is very thorough with ropes and chains, rounding around their bodies, making tight knots behind them, and a second layer of iron chain locking their neck, hands, and feet to the ground -- just like how the Weeping Angel statue is chained to the alcove.
+The guard is very thorough with ropes and chains, wrapping around their bodies, making tight knots behind them, and a second layer of iron chain locking their neck, hands, and feet to the ground -- just like how the Weeping Angel statue is chained to the alcove.
 
-Rough metals and fibers brush against his skin through the ragged cloth, Cas gets reminded of his cuts from the flight, still fresh, some of them still bleeding. He can feel the grace flow sluggishly inside him. He barely scraped enough grace when he had to stand with Dean in that brief gun-fight moment, knowing he should at least have *something* ready in case he needs to protect him, protect all of them. Now that the moment is over, he realizes he has pulled most of the grace away from where it was trying to heal his body. His body must look even worse from the outside, but he can't really spare any thought for himself.
+Rough metals and fibers brush against his skin through the ragged cloth, Cas gets reminded of his cuts from the flight, still fresh, some of them still bleeding. He can feel the grace flow sluggishly inside him. He barely scraped enough grace when he had to stand with Dean in that brief gun-fight moment, knowing he should at least have *something* ready in case he needed to protect him, protect all of them. Now that the moment is over, he realizes he has pulled most of the grace away from where it was trying to heal his body. His body must look even worse from the outside, but he can't really spare any thought for himself.
 
-Grayle walks slowly closer as they are tied up and not able to move, closing in on Cas, eying his bloody wounds and cuts on the chest almost admirably. A look of awe, but looking down, as if he's nothing more than a beautiful specimen he collected, and now he's just enjoying the view. "You're not human, aren't you?" he says with widened eyes.
+Grayle walks slowly closer as they are tied up and not able to move, closing in on Cas, eying his bloody wounds and cuts on the chest almost admiringly. A look of awe, but looking down, as if he's nothing more than a beautiful specimen he collected, and now he's just enjoying the view. "You're not human, aren't you?" he says with widened eyes.
 
 Cas realizes he must be watching his leaking grace through the wounds on the vessel. Sometimes it's so easy to forget he's not human, especially when Dean is around. He doesn't treat him as if he's anything different, anything more, or anything less. He treats him like an equal, a friend. Apparently other human beings are not like him.
 
-"You will make such a fascinating collection. I cannot wait to hear what everyone say when they see I acquired such a pure and bright creature," Grayle speaks as if he discovered a new species when traveling through some remote rainforest.
+"You will make such a fascinating collection. I cannot wait to hear what everyone says when they see I acquired such a pure and bright creature," Grayle speaks as if he discovered a new species when traveling through some remote rainforest.
 
 Cas can do nothing but glare at the middle-aged man taking control. He finds his mind keeps slipping to Dean, wondering how he's doing right now, where he is, whether his situation would be any better than his or worse, thinking of the danger he put all of them in by flying them here. For a split second, he's distracted, forgetting the man before him.
 
@@ -2129,7 +2135,7 @@ Cas snaps his head hard, trying to shake his hand off. The chain rattles heavily
 
 "Naughty," Grayle tuts, taking his hand back. "Very defiant. Would you rather be tied to that Angel instead?"
 
-Cas glances at the Angel statue. The face of the chained Angel statue is so hollow and broken beyond recognition, but similar to Hannah's statue back at the fountain, for some reason, he thinks he can still sense a familiarity in it. If it's the statue of some other angel he'd known, it's not entirely impossible. But he still can't understand how it happens, it never happened before -- angels aren't usually tied to their vessels, let alone statues of their images; Lord had demanded no image in the form of anything in the very early Ten Commandments.
+Cas glances at the Angel statue. The face of the chained Angel statue is so hollow and broken beyond recognition, but similar to Hannah's statue back at the fountain, for some reason, he thinks he can still sense a familiarity in it. If it's the statue of some other angel he'd known, it's not entirely impossible. But he still can't understand how it happens; it never happened before -- angels aren't usually tied to their vessels, let alone statues of their images; the Lord had demanded no image in the form of anything in the very early Ten Commandments.
 
 Cas tries to channel some of his sense toward the statue, to feel her, to hear her. She's suffered greatly, Cas thinks, she must have been constrained by this man for a very long time, starved and tortured, until one day, she would be eroded to nothing but a pile of sand and dust, like all humans after they die, like all stars after they die.
 
@@ -2137,13 +2143,13 @@ Cas tries to channel some of his sense toward the statue, to feel her, to hear h
 
 He can feel the Doctor and River's eyes land on him, heavier and more gingerly than before.
 
-"Good," Grayle answers with a grin. "I was wondering about that. I don't want all my effort go unnoticed."
+"Good," Grayle answers with a grin. "I was wondering about that. I don't want all my effort to go unnoticed."
 
-"And what *effort* is that, exactly? By sending people to cellar? Sending them to danger, to death?" The Doctor cuts in, eyes burning with flames of fury. "Did you realize those are all good people, important people, people others care about and would do anything to save?"
+"And what *effort* is that, exactly? By sending people to torture rooms? Sending them to danger, to death?" The Doctor cuts in, eyes burning with flames of fury. "Did you realize those are all good people, important people, people others care about and would do anything to save?"
 
 Grayle's attention is captured by him. He moves to stand before him now, scrutinizing the Doctor in a similar manner to the way he treated Castiel. "And why do you care? Who are you?"
 
-"I'm the Doctor," he looks at the human dead in the eyes, keeping his words weighted.
+"I'm the Doctor." He looks at the human dead in the eyes, keeping his words weighted.
 
 "Doctor who?"
 
@@ -2151,11 +2157,11 @@ Grayle's attention is captured by him. He moves to stand before him now, scrutin
 
 Grayle narrows his eyes. "You don't even have a name, why do you have so many hearts for others?"
 
-"I only have two, hardly 'too many'," the Doctor answers casually, then his face glooms. "Though I guess comparing to you, with no heart, it does seem a bit too many."
+"I only have two, hardly 'too many'," the Doctor answers casually, then his face glooms. "Though I guess compared to you, with no heart, it does seem a bit too many."
 
 "Doctor --!" River raises her voice alarmingly suddenly, eyes on the door's direction.
 
-The Doctor turns his head sharply, so is Cas. Even Grayle pauses and looks over their shoulders to watch. A flash of lightening sparks in the air, as if tearing open the fabric of the reality, and a figure squeezes through.
+The Doctor turns his head sharply, so does Cas. Even Grayle pauses and looks over their shoulders to watch. A flash of lightning sparks in the air, as if tearing open the fabric of reality, and a figure squeezes through.
 
 And her first sentence is: "Hello, Sweetie. Again. What are you boys going to do without me?"
 
@@ -2169,37 +2175,37 @@ River complains, "Oh, I wanted to do that!"
 
 The new River answers with a smile, "You get to do it in ten minutes."
 
-The Doctor understands now. "Vortex Manipulator," then immediately, annoyedly. "You have it the whole time, and you couldn't come back earlier?"
+The Doctor understands now. "Vortex Manipulator," then immediately, annoyedly. "You had it the whole time, and you couldn't come back earlier?"
 
-The future River shoots him an unimpressed glare while picking up the sonic screwdriver and beaming their ropes and chains off. "You try to ride motorbike in traffic like this! I can tear the world apart if I got one second wrong. And don't forget all the new paradox it could have created! I wouldn't do it if I didn't know it already happened."
+The future River shoots him an unimpressed glare while picking up the sonic screwdriver and beaming their ropes and chains off. "You try to ride a motorbike in traffic like this! I can tear the world apart if I get one second wrong. And don't forget all the new paradoxes it could have created! I wouldn't do it if I didn't know it already happened."
 
 The device on her left wrist blinks and beeps sharply.
 
 She raises her arm and presses the screen stiffly with her right index finger. "I gotta go now."
 
-"That's all? You can't give us anything else?" The Doctor shakes off the now loosen ropes around him, jumping to his feet, reaching to the future River.
+"That's all? You can't give us anything else?" The Doctor shakes off the now loosened ropes around him, jumping to his feet, reaching to the future River.
 
 "It's only ten minutes into the future, Sweetie, not too much can be done, especially when I was chained up most of the time," the future River rolls her eyes. "But you do want to hurry."
 
 "Speaking of, can't you help sonic me free? I need my hand back," River says loudly, using her free hand to gesture at the Angel that captured her.
 
-"Sorry," the future River turns to herself. She leans in closer, her look turning carefully controlled, voice low to almost like a whisper, "You got all the spoiler from the book. And I'm sorry, it's gonna hurt."
+"Sorry," the future River turns to herself. She leans in closer, her look turning carefully controlled, voice low to almost like a whisper, "You got all the spoilers from the book. And I'm sorry, it's gonna hurt."
 
-"See you later," she smiles at the Doctor, leaves the sonic screwdriver back where she picked it, and disappears in a quick buzzing sound and lightening sparks similar to the one when she appeared.
+"See you later," she smiles at the Doctor, leaves the sonic screwdriver back where she picked it, and disappears in a quick buzzing sound and lightning sparks similar to the one when she appeared.
 
-"What's gonna hurt?" River asks after her with raised voice, but she's no longer there to answer.
+"What's gonna hurt?" River asks after her with a raised voice, but she's no longer there to answer.
 
 "Am I always so annoying?" River wonders aloud.
 
 The Doctor chuckles. "Most of the time, yes. That's a clever trick, by the way."
 
-River hums dismissively. "I must learned it from you. The way you escaped the Pandorica."
+River hums dismissively. "I must have learned it from you. The way you escaped the Pandorica."
 
 The Doctor grins slightly, recalling the same. "That's right."
 
 He walks past Grayle's unconscious body to pick up the sonic screwdriver she left behind, and the book Amy dropped on the floor before she was taken away, looking at the cover thoughtfully.
 
-"She said the spoilers are in the book," Cas says, freeing himself from the loosen ropes and chains, taking them off his neck and body, all the while looking at the same book as the Doctor does. "It must have answers to what's happening to the Angels, and how to save everyone."
+"She said the spoilers are in the book," Cas says, freeing himself from the loosened ropes and chains, taking them off his neck and body, all the while looking at the same book as the Doctor does. "It must have answers to what's happening to the Angels, and how to save everyone."
 
 "Does that include *saving the Angels*?" The Doctor asks slowly, not looking up.
 
@@ -2219,11 +2225,11 @@ Cas blinks, glancing between them, taken aback. "I told you, I'm an Angel of the
 
 Cas realizes. "You don't trust me."
 
-The Doctor wiggles his eyebrows. "Don't take it personally. I don't trust most of people."
+The Doctor wiggles his eyebrows. "Don't take it personally. I don't trust most people."
 
 River mouths quietly. "That's true."
 
-"You don't seem to have a problem to work with me when Dean is here," Cas says, a little uneasy.
+"You don't seem to have a problem working with me when Dean is here," Cas says, a little uneasy.
 
 "Well, he's not here to endorse you now, is he?" The Doctor notes the obvious. "There is something you didn't tell us, I doubt even he knows, and I wonder why."
 
@@ -2241,7 +2247,7 @@ River shrugs. "Good enough for me."
 
 The Doctor exhales a short breath. "We don't know where they're taken to. You should have asked him before knocking him out."
 
-River looks unregretful. "Sorry about too eager to taking down the bastard. Guess I couldn't wait."
+River looks unregretful. "Sorry about being too eager to take down the bastard. Guess I couldn't wait."
 
 "The book," Cas says glumly. "We have to read it now."
 
@@ -2263,7 +2269,7 @@ The Doctor still hesitates.
 
 The Doctor swallows, opening the book carefully, reading the lines on the page: "If my hand doesn't hurt like it's falling apart, I'd make sure he gets more than a punch. For a second, I want to murder him, but I know the Doctor would never approve. I have to restrain myself. And besides, there are more things I have to worry about now, more things that are hurting so much worse than a broken wrist, everything I wish I didn't know but the Doctor already read it -- where the Angels send them from the cellar, the sacrifices our new friends are going to make, and Amy and Rory's last farewell..."
 
-The Doctor snaps the book shut, his chest heaving and falling violently with each breath. He glares at the cover so fiercely like his eyes can torch it to ashes. The shock drains the blood from his face. "No! NO!!" he yells, furious and painful. "I can't believe I made this mistake."
+The Doctor snaps the book shut, his chest heaving and falling violently with each breath. He glares at the cover so fiercely as if his eyes can torch it to ashes. The shock drains the blood from his face. "No! NO!!" he yells, furious and painful. "I can't believe I made this mistake."
 
 "Calm down, Doctor," River tries vainly.
 
@@ -2279,35 +2285,35 @@ River is taken aback, blinks at her wrist caught at the Angel's grip.
 
 <br>
 
-The guard that took Dean away stands outside the cellar door. The Doctor raises his sonic screwdriver at him, but Cas is faster. He marches to the man in such fury, a powerful fist is already greeting his face. The man is caught off guard, but he's surprisingly strong enough to take the beat without collapsing. Instead, he draws the gun and shoots within a blink.
+The guard who took Dean away stands outside the cellar door. The Doctor raises his sonic screwdriver at him, but Cas is faster. He marches to the man in such fury, a powerful fist is already greeting his face. The man is caught off guard, but he's surprisingly strong enough to take the beating without collapsing. Instead, he draws the gun and shoots within a blink.
 
 The gun shot startles both of them.
 
-Cas lets out a low moan of pain. A fresh gun hole shows on his shoulder, blood gushing out. His steps stagger backward by a step, but it doesn't stop him. He hand chops the gun off the guard's hand, grabbing his arm and pushing him backward forcifully. The guard yells in fury, throwing himself back at Cas.
+Cas lets out a low moan of pain. A fresh gunshot wound shows on his shoulder, blood gushing out. His steps stagger backward by a step, but it doesn't stop him. He hand-chops the gun off the guard's hand, grabbing his arm and pushing him backward forcefully. The guard yells in fury, throwing himself back at Cas.
 
 The Doctor sonics him right that moment, pinning him down. Cas catches the break and gives the guy another punch on the head, which finally knocks him out.
 
-"Amy!" The Doctor shouts at the closed door. Cas tries to pull it open by hands, but the door doesn't give.
+"Amy!" The Doctor shouts at the closed door. Cas tries to pull it open by hand, but the door doesn't give.
 
 "Amy, if you're in there, stay clear!" The Doctor waves Cas to clear the way, beaming the screwdriver at the door. The door shakes under the sonic wave, vibrating violently.
 
-The door is blast open, and Cas yells, "Dean!"
+The door is blasted open, and Cas yells, "Dean!"
 
 The two metal plates are knocked down the stairs. Flying dust of iron and wood float in the air, showing stairs leading to a dark space.
 
 "Cas." He hears Dean's voice. Though light, he hears him. His heart leaps just from that voice.
 
-The two of them rush down the stairs. The girl is the first coming into view. The Doctor pulls her into a hug with such joy and relief that Cas can't feel anything but happy for them. But --
+The two of them rush down the stairs. The girl is the first to come into view. The Doctor pulls her into a hug with such joy and relief that Cas can't feel anything but happy for them. But --
 
 "Where is Dean?"
 
-The dark space is empty. For the blink of an eye, Cas swears he saw the face of that familiar human but the next, as he moves two steps down, there is no one there, as if Dean's face is just a brief hallucination his brain conjured.
+The dark space is empty. For the blink of an eye, Cas swears he saw the face of that familiar human, but the next, as he moves two steps down, there is no one there, as if Dean's face is just a brief hallucination his brain conjured.
 
 Cas raises his voice, "Dean!"
 
 Amy turns around sharply, pointing behind her, "He's right here --"
 
-The horrible truth catches up and her voice is caught in her throat. There is no one behind her, except on the ground, there is a loosen bundle of suit that Cas recognizes without doubt belongs to Dean. Two small statues of cherub tumble on the floor, not moving when they're staring, with an empty space right next to them.
+The horrible truth catches up and her voice is caught in her throat. There is no one behind her, except on the ground, there is a loose bundle of a suit that Cas recognizes without doubt belongs to Dean. Two small statues of cherub tumble on the floor, not moving when they're staring, with an empty space right next to them.
 
 There is a third missing one, one that cursed Dean and sent him away.
 
@@ -2321,7 +2327,7 @@ He lost him, again.
 
 ### Act 2
 
-"I'm sorry." Amy sits down at the bottom of the stairs at the mansion's hallway, too tired, too defeated.
+"I'm sorry." Amy sits down at the bottom of the stairs in the mansion's hallway, too tired, too defeated.
 
 Cas stands next to the banister, quiet. "It's not your fault," he manages to answer.
 
@@ -2347,11 +2353,11 @@ Amy shakes her head again, then stops herself. "He must have been there," she re
 
 Amy and Cas snap at the same time, "So where are they?!"
 
-River frowns at the screen, squinting and reading, shaking her arm to seemingly urge the device. Her right hand holds at her side.
+River frowns at the screen, squinting and reading, shaking her arm to seemingly urge the device. Her right hand is held at her side.
 
 The Doctor paces up and down the hallway impatiently. "Well? Come on, come on!"
 
-River doesn't spare him a look. "If it was that easy, I'd get you to do it."
+River doesn't spare him a look. "If it were that easy, I'd get you to do it."
 
 "But how did you get your wrist out without breaking it?" The Doctor is still looking at her with wonder, like she's the most amazing thing in the world.
 
@@ -2361,11 +2367,11 @@ River rolls her eyes. "You asked, I did. Problem?"
 
 "It's called marriage, honey. Now hush, I'm working." River turns her attention back to the device.
 
-The Doctor sits down at the stair, still grinning widely, looking just a little dazed, so happy, so hopeful.
+The Doctor sits down at the stairs, still grinning widely, looking just a little dazed, so happy, so hopeful.
 
 "She's good, have you noticed?" he glances at Amy, then Cas. Voice and smile both proud. "Really, really good."
 
-"Actually..." Cas starts slowly, tilting his head at River. He examines River, watching the way her right arm are carefully, stiffly held next to her body, she doesn't even use her right hand to tap on the screen, merely shaking and staring at it. He may not have much grace, but his eyes are still better than average humans, and he can see the fractures in the bones and tendon, the swell that's happening fast, but she manages to keep it all hidden inside her sleeves, acting as if it's nothing. Cas looks at her, wondering why. She reminds him so much of Dean, especially when he would say "I'm fine" when he's clearly not. Humans are always so much more complicated than he can understand.
+"Actually..." Cas starts slowly, tilting his head at River. He examines River, watching the way her right arm is carefully, stiffly held next to her body; she doesn't even use her right hand to tap on the screen, merely shaking and staring at it. He may not have much grace, but his eyes are still better than average humans, and he can see the fractures in the bones and tendons, the swell that's happening fast, but she manages to keep it all hidden inside her sleeves, acting as if it's nothing. Cas looks at her, wondering why. She reminds him so much of Dean, especially when he would say "I'm fine" when he's clearly not. Humans are always so much more complicated than he can understand.
 
 Cas hesitates, wondering if he should point it out.
 
@@ -2377,37 +2383,37 @@ River moans in pain, snatching it back from him, cradling her wrist closely to h
 
 Blood drips slowly from her wounded wrist, the one that didn't escape the Angel's grip. It's swelling fast. The joint twisted.
 
-The Doctor stops dead, staring at her hand, then her face. The shock and pain crawl back onto his face. The color is draining from his face as that hopeful look leaving his eyes. Huge pain and sorrow rushes in like a wave diving onto the beach, washing out the little sand castles.
+The Doctor stops dead, staring at her hand, then her face. The shock and pain crawl back onto his face. The color is draining from his face as that hopeful look leaves his eyes. Huge pain and sorrow rush in like a wave diving onto the beach, washing out the little sand castles.
 
-Cas swallows as he watches. He can feel it. Just from watching those humans and that Gallifreian, he's feeling so much. The emotions are overwhelming, and he can't make out name for most of them. He wonders if that's how human emotions are; he wonders if that's how Dean feels things.
+Cas swallows as he watches. He can feel it. Just from watching those humans and that Gallifreian, he's feeling so much. The emotions are overwhelming, and he can't make out names for most of them. He wonders if that's how human emotions are; he wonders if that's how Dean feels things.
 
-"Okay, so when all these numbers go to zero, that's when we got a lock, okay? It's how we find Rory." The Doctor is taking off the wrist strap and her device from River, handing them to Amy, explaining the diagrams and numbers on the screen.
+"Okay, so when all these numbers go to zero, that's when we get a lock, okay? It's how we find Rory." The Doctor is taking off the wrist strap and her device from River, handing them to Amy, explaining the diagrams and numbers on the screen.
 
-Amy fumbles the devices, taking them over. "Got it."
+Amy fumbles with the devices, taking them over. "Got it."
 
 River sits down on the stairs, trying not to cradle her bad wrist, not to meet the Doctor in the eyes as he walks to her. Her arm lies limply on her lap. Her face is frosty, decidedly stiffen -- not like being caught out, and especially doesn't like being vulnerable.
 
 "Why do you lie to me?" The Doctor gentles his voice, sitting down next to her.
 
-"When one is in love with an ageless god who insists on the face of a twelve year old, one does one's best to hide the damage." River says, without looking at him.
+"When one is in love with an ageless god who insists on the face of a twelve-year-old, one does one's best to hide the damage," River says, without looking at him.
 
 Cas blinks, looking away. He shouldn't be here, witnessing them, overhearing them. He understands personal space and intrusion now, thanks to Dean. But he also can't move away.
 
-The words coming out of River surprises him. Up until now, they've been too busy saving the world, saving people, saving Dean, he never really have time to think about much, let alone talking with Dean about... anything that involves feelings. Dean doesn't like talking about feelings, and he understands.
+The words coming out of River surprise him. Up until now, they've been too busy saving the world, saving people, saving Dean; he never really has time to think about much, let alone talking with Dean about... anything that involves feelings. Dean doesn't like talking about feelings, and he understands.
 
-But now that River's words start touching the edge of the topic, the constant question hovering in Cas's mind crawls back up, itching in his head -- the most mysterious and delicate concept in human emotion that he never really understand, the concept of love.
+But now that River's words start touching the edge of the topic, the constant question hovering in Cas's mind crawls back up, itching in his head -- the most mysterious and delicate concept in human emotion that he never really understands, the concept of love.
 
-*When one is in love with an ageless god who insists on the face of a twelve year old, one does one's best to hide the damage.*
+*When one is in love with an ageless god who insists on the face of a twelve-year-old, one does one's best to hide the damage.*
 
 He's not ageless, and he's certainly not a god -- not now, at least. But it might not seem too different to a mortal from existing for eternity and existing for millions of years. And his angelic powers have certainly been mistaken as god, even Dean had once asked, after he was mysteriously resurrected in the Cemetery after Sam jumped into the Cage -- he looked at him from his kneeling position, he looked up with tears in his eyes, and Dean asked, "Cas, are you God?"
 
 That is before he left him for an entire year, and lied in his face for another.
 
-Cas grimaces at the memory. Is that why Dean always hide the damage, the pain, and the suffering? Keeping them only to himself? He was strong, Cas knows that, but not strong enough to carry everything -- the whole world -- on his shoulder. Yet, back then, the angels asked that of him, *he* asked that of him, when they were stopping the Apocalypse. He has hurt him so many times, so badly, since the moment they met, Cas realizes. No wonder Dean would not turn to him when he needs help, when he's in trouble, when he needs someone, anyone, because he was never there for him. He remembers all the time when Sam was hurt, or Bobby, or himself at the fringe of death, all Dean would say is "I'm fine" and drinking himself to almost alcohol intoxication.
+Cas grimaces at the memory. Is that why Dean always hides the damage, the pain, and the suffering? Keeping them only to himself? He was strong, Cas knows that, but not strong enough to carry everything -- the whole world -- on his shoulder. Yet, back then, the angels asked that of him, *he* asked that of him, when they were stopping the Apocalypse. He has hurt him so many times, so badly, since the moment they met, Cas realizes. No wonder Dean would not turn to him when he needs help, when he's in trouble, when he needs someone, anyone, because he was never there for him. He remembers all the time when Sam was hurt, or Bobby, or himself at the brink of death, all Dean would say is "I'm fine" and drink himself to almost alcohol intoxication.
 
-Cas stares at the beautifully lit and decorated interior of the mansion, and all he can see is the shabby motel rooms Dean stayed in, alone in the dark, empty bottles sitting at the bedside stand. He watches him enough times when he's in the sleep like that, and he doesn't realize how much it pains him until now.
+Cas stares at the beautifully lit and decorated interior of the mansion, and all he can see are the shabby motel rooms Dean stayed in, alone in the dark, empty bottles sitting on the bedside stand. He watches him enough times when he's in the sleep like that, and he doesn't realize how much it pains him until now.
 
-"It must hurt," the Doctor says quietly, taking her wounded wrist in his hands, handling extremely gently and carefully.
+"It must hurt," the Doctor says quietly, taking her wounded wrist in his hands, handling it extremely gently and carefully.
 
 River looks away. "Yes," she says. "The wrist is pretty bad too." 
 
@@ -2429,7 +2435,7 @@ She uses that hand to slap him hard across the face.
 
 "Aw!" The Doctor grumbles loudly.
 
-"That was stupid waste of regeneration energy -- nothing is gained by you being a sentimental idiot," she snaps furiously.
+"That was a stupid waste of regeneration energy -- nothing is gained by you being a sentimental idiot," she snaps furiously.
 
 "It's not like I need it anymore," the Doctor defends.
 
@@ -2443,7 +2449,7 @@ Amy widens her eyes in horror.
 
 "Yes," the Doctor tries to convince her with a small smile. "So might as well make you feel better, don't you think?"
 
-"You... biggest, dummiest fool in the world!" River stutters, springing to her feet, pointing a finger at the Doctor. "We'll figure something out, we'll fix it. But not when you're being a sentimental idiot throwing away your life like it's nothing!"
+"You... biggest, dumbest fool in the world!" River stutters, springing to her feet, pointing a finger at the Doctor. "We'll figure something out, we'll fix it. But not when you're being a sentimental idiot throwing away your life like it's nothing!"
 
 "River --" The Doctor tries.
 
@@ -2477,7 +2483,7 @@ Cas makes a small agreeing sound. "I know someone who's also like that," he says
 
 Cas nods quietly, thinking. "He's only trying to do the right thing, because he loves you."
 
-River huffs a laugh that surprised him. "The Doctor does not and has never loved me. I'm not lying."
+River huffs a laugh that surprises him. "The Doctor does not and has never loved me. I'm not lying."
 
 Cas stares at her. "I don't understand. You love him."
 
@@ -2493,7 +2499,7 @@ River huffs a laugh again. "That's very complicated. We were in the middle of sa
 
 "How do you know?" Cas asks. "Did you ask?"
 
-"I don't have to, I know." River answers easily. "And I'm fine with it. I live my whole life like that, I don't need him break my heart every other day like all those other love birds out there."
+"I don't have to, I know." River answers easily. "And I'm fine with it. I live my whole life like that, I don't need him to break my heart every other day like all those other love birds out there."
 
 "Maybe you should have asked," the Doctor chimes in calmly, emerging from behind them. "Then I'll tell you that you are wrong, that nothing should be broken, and the sunset and stars do love back. I checked."
 
@@ -2511,7 +2517,7 @@ They race down the steps before the mansion, leaving the door wide open.
 
 "I didn't --" The Doctor defends automatically.
 
-"Guys!" Amy stops their bickering in time, pulling open the door of the small car parked before the building. River moves to the driver seat, the Doctor on the other side. Cas eases into the backseats with Amy.
+"Guys!" Amy stops their bickering in time, pulling open the door of the small car parked before the building. River moves to the driver seat, the Doctor on the other side. Cas eases into the backseat with Amy.
 
 The car runs down the empty, dark street.
 
@@ -2525,9 +2531,9 @@ Grayle's panicking scream sounds up shortly.
 
 The car screeches to a halt outside the building.
 
-They scramble out, scanning the building and the surrounding quickly. The red neon sign with its name hanging from the rooftop.
+They scramble out, scanning the building and the surroundings quickly. The red neon sign with its name hanging from the rooftop.
 
-There are no statues in sight. The two bases outside the door are empty. The gate wide open.
+There are no statues in sight. The two bases outside the door are empty. The gate is wide open.
 
 They rush up the steps together.
 
@@ -2539,9 +2545,9 @@ They rush up the steps together.
 
 "Let's find out," Cas marches in.
 
-The lobby is dark and dusty, but the dust on the floor has been disturbed recently, leaving visible signs of foot marks and a fight.
+The lobby is dark and dusty, but the dust on the floor has been disturbed recently, leaving visible signs of footmarks and a fight.
 
-Cas glances at the empty stair well, pressing the button. The rest of them scan around the space that is over quiet, over dead.
+Cas glances at the empty stairwell, pressing the button. The rest of them scan around the space that is over quiet, over dead.
 
 "I don't like it," Amy whispers.
 
@@ -2549,7 +2555,7 @@ Cas glances at the empty stair well, pressing the button. The rest of them scan 
 
 The elevator clinks to life, descending to their level, the echo sounding too loud for the space, loud enough as if it can stir awake ghosts living here -- that's what this whole place feels like, a building for ghosts, for the dead. Cas thinks, shifting uneasily.
 
-They run into the elevator the minute it opens the barred door, and let it take them wherever the fate decides to bring them.
+They run into the elevator the minute it opens the barred door, and let it take them wherever fate decides to bring them.
 
 "They're close," River reports, looking at her device.
 
@@ -2563,7 +2569,7 @@ The elevator rings as it ascends, until it comes to a stop.
 
 "It's a prayer," Cas doesn't have enough time to explain the whole thing, so he wishes they'd just understand. "Dean's praying to me."
 
-The level they stopped at has a long, dimly-lit corridor laying before them, with numerous rooms placed on either side, just like all the other levels they have a glimpse at on their way up.
+The level they stopped at has a long, dimly-lit corridor lying before them, with numerous rooms placed on either side, just like all the other levels they have glimpsed on their way up.
 
 Cas runs down the corridor first.
 
@@ -2571,7 +2577,7 @@ Cas runs down the corridor first.
 
 "Dean!" Cas yells his name.
 
-The doors all have number plates and names labelled, alphabetically arranged. The first room starts with a last name "Wallace." That's a "W", so does "Williams" and "Winchester."
+The doors all have number plates and names labelled, alphabetically arranged. The first room starts with the last name "Wallace." That's a "W", so does "Williams" and "Winchester."
 
 "Oh, that's bad," River says loudly.
 
@@ -2587,17 +2593,17 @@ Dean pats his back with a relieved smile of his own, "That's a record. I was jus
 
 "I heard," Cas tells him. "We're already coming to you."
 
-"That elevator is you!" Dean realizes. "Almost gave me a heart attack, thought it's the angels. Did you see them?"
+"That elevator is you!" Dean realizes. "Almost gave me a heart attack, thought it was the angels. Did you see them?"
 
 "Not on my way here," Cas says.
 
 Outside, River notices the angel in the alcove, already moving halfway down the corridor. "Doctor, look!"
 
-The angel freezes in their stare, but her hands are lowered from her face, pointing at the opened doors beside them. On her face, a simple, unsettling smile hanging on her lips.
+The angel freezes in their stare, but her hands are lowered from her face, pointing at the opened doors beside them. On her face, a simple, unsettling smile hung on her lips.
 
 "Why is it smiling?" River asks with a shaky voice.
 
-The Doctor follows the direction she points at, only then does he see the names on them. He lunges into Rory's room, grabbing Amy and Rory's shoulders. "Amy, Rory!" he yells, "Get out of there! Don't look at anything! Don't touch anything!"
+The Doctor follows the direction she points at; only then does he see the names on them. He lunges into Rory's room, grabbing Amy and Rory's shoulders. "Amy, Rory!" he yells, "Get out of there! Don't look at anything! Don't touch anything!"
 
 That's when Amy stares over Rory's shoulder at the single, small bed in the room, asking, "Who's that?"
 
@@ -2609,11 +2615,11 @@ Cas lets go of Dean, moves to the bed slowly.
 
 The man looks at him without blinking, as if afraid he'd disappear if he does.
 
-"Cas..." he says again from a voice not used in decades, sore and croaked. His hands shake hard, wrinkles and pigment covering his arm. He lowers it to the bed in mere seconds like he doesn't have enough strength to keep them in the air, but still reaching in Cas's direction.
+"Cas..." he says again from a voice not used in decades, sore and croaked. His hands shake hard, wrinkles and pigment covering his arm. He lowers it to the bed in mere seconds like he doesn't have enough strength to keep them in the air, but still reaches in Cas's direction.
 
-His eyes are foggy with white layer from old age. The man must be at his nineties. Cas stares at his face, searching his eyes. Dean stands behind him, at the tail of the bed.
+His eyes are foggy with a white layer from old age. The man must be in his nineties. Cas stares at his face, searching his eyes. Dean stands behind him, at the tail of the bed.
 
-Cas lowers himself to the bed. That ancient face is still familiar, still recognizable, still unforgettable. "Dean," he breathes out difficultly, as if for his whole long life, for all the millionth time he calls the man's name, this is the most difficult time he's never done.
+Cas lowers himself to the bed. That ancient face is still familiar, still recognizable, still unforgettable. "Dean," he breathes out difficultly, as if for his whole long life, for all the millionth time he calls the man's name, this is the most difficult time he's ever had.
 
 He glances back, at the young Dean behind him, a look of unsure. "He's you," Cas says.
 
@@ -2625,15 +2631,15 @@ Cas wraps his withered fingers in his hands, holding him.
 
 The old Dean pulls an exhausted tiniest smile, and he whispers, "It's... so good... to see you again, Cas."
 
-His fingers slip from Cas's hold, and lights die from his eyes. His body slumps back into the bed, not moving again.
+His fingers slip from Cas's hold, and the lights die in his eyes. His body slumps back into the bed, not moving again.
 
 Cas blinks hard, still holding the hands that are getting stiffer and colder fast. He breathes sharply, reaching out to close his eyes for him. He finds his hands shaking.
 
-"Cas?" The young Dean moves closer to him carefully, putting a hand on his shoulder. Cas reaches to cover his hand with his own, finding himself lack the courage to look back.
+"Cas?" The young Dean moves closer to him carefully, putting a hand on his shoulder. Cas reaches to cover his hand with his own, finding himself lacking the courage to look back.
 
 "What's happening?" Dean asks, utterly confused, looking from Cas to the old man on the bed.
 
-Cas swallows hard, then tells him with a deeply sorrow voice, "I'm sorry, Dean. But you just died."
+Cas swallows hard, then tells him with a deep mourning voice, "I'm sorry, Dean. But you just died."
 
 Next door, they hear Rory's panicking, high-pitched voice, "Will someone please tell me what is going on?"
 
@@ -2673,7 +2679,7 @@ Reuse River's confession lines when she doesn't recognize 12th Doctor in S09E13 
 
 They all gather in Rory's room now, door closed. River fetched Dean and Cas. Apparently, what they have just witnessed, happened exactly the same to Rory, with Amy by his side, shaken like never before.
 
-"Not for long, you won't." River says the cold truth, glancing at both Dean and Rory. "They'll catch you, and send you back to the very room you are in. For fifty or sixty years, you live and grow old in that room, until you die on that bed. You know it will always happen like that, because you already witnessed it yourself."
+"Not for long, you won't," River says the cold truth, glancing at both Dean and Rory. "They'll catch you, and send you back to the very room you are in. For fifty or sixty years, you live and grow old in that room, until you die on that bed. You know it will always happen like that, because you already witnessed it yourself."
 
 Dean swallows, focusing on the existence of Cas next to him, to wipe the image of his old self from behind his eyes. It's so much different from getting caught by an aging curse a few years back.
 
@@ -2685,13 +2691,13 @@ Dean jerks his head, silently asking the same.
 
 "How do you know?" Amy asks sharply.
 
-"Because --" the Doctor breaks off, looking down at his own hands. So sad and so defeated. For a moment Dean thinks he may never answer again. But he summons the will to speak in the end, "Because he was so pleased to see you again."
+"Because --" the Doctor breaks off, looking down at his own hands. So sad and so defeated. For a moment, Dean thinks he may never answer again. But he summons the will to speak in the end, "Because he was so pleased to see you again."
 
-The horrible truth smashes onto Dean's face. He can't un-see the face of that old man -- the old man he'd become in fifty, sixty years -- he can tell that unmistakable glint of joy when he caught sight on Cas. That is the same relief and joy every time he's in trouble and he realizes Cas is there for him, with him. He takes a step closer to Cas, rubbing their shoulders together. He needs that solid touch more than ever to know he's not in that dreadful fate yet.
+The horrible truth smashes onto Dean's face. He can't un-see the face of that old man -- the old man he'd become in fifty, sixty years -- he can tell that unmistakable glint of joy when he caught sight of Cas. That is the same relief and joy every time he's in trouble and he realizes Cas is there for him, with him. He takes a step closer to Cas, rubbing their shoulders together. He needs that solid touch more than ever to know he's not in that dreadful fate yet.
 
-"But Cas can time travel," Dean says, remember. "He can travel to whenever and pick me up. Right, Cas?" He forces a cheerful voice, knowing it's not that easy before even saying it.
+"But Cas can time travel," Dean says, remembering. "He can travel to whenever and pick me up. Right, Cas?" He forces a cheerful voice, knowing it's not that easy before even saying it.
 
-"I won't be able to, if the city is continuously occupied and disturbed by the angels like this, the time flux would be impossible to fly through." Cas answers miserably.
+"I won't be able to, if the city is continuously occupied and disturbed by the angels like this, the time flux would be impossible to fly through," Cas answers miserably.
 
 "You already saw what that first trip did to him, you're asking him to do it again?" The Doctor looks at Dean.
 
@@ -2699,7 +2705,7 @@ Dean lowers his head, knowing he's right. "It will kill him." He understands.
 
 "Why are they all over us?" Amy asks, the same question in all their minds without an answer. "Why Rory? Why Dean? What did they do?"
 
-"Bad luck?" River offers. "They need food, and any living human is just food source for them."
+"Bad luck?" River offers. "They need food, and any living human is just a food source for them."
 
 The Doctor fills in for her. "It's like a huge energy farm for them. Displacing someone back in time creates time energy, and that's what the Angels feed on. But normally it's a one-off -- a hit and run. If they could keep hold of their victims, feed off their time energy over and over again... They'd never worry about running out of food again."
 
@@ -2709,7 +2715,7 @@ River glances at the window. They can see the night sky and the neighboring skys
 
 "The Angels take Manhattan!" The Doctor sighs, defeated. "Because they can, because they've never had a food source like this one before. So many statues, so many people. In a city that never sleeps. It's a buffet."
 
-"Or maybe not," Cas cuts in suddenly. The rest of them turn to him. He continues, "Maybe they're not to harm them, but to ask for help, to reach out for touch, because angels have instinct to heal by touching. Or they're too lonely, so they want to keep those humans for company."
+"Or maybe not," Cas cuts in suddenly. The rest of them turn to him. He continues, "Maybe they're not to harm them, but to ask for help, to reach out for touch, because angels have an instinct to heal by touching. Or they're too lonely, so they want to keep those humans for company."
 
 Amy stares at him, "Are we still talking about the Weeping Angels? Or the Angel of the Lord species?"
 
@@ -2723,13 +2729,13 @@ Dean jumps in. "We have a theory, they might just be the same thing." He explain
 
 Cas thinks about it. "I'm not wounded by them. Or touched by other angels, I guess."
 
-"Thankfully," Dean adds, curling his lips the tiny little bit.
+"Thankfully," Dean adds, curling his lips a tiny little bit.
 
 "But you said you only came back about a week ago," Amy asks. "But we've been running into the Weeping Angels for ages. It's all over the timeline." She meets eyes with River and the Doctor, "Like that time when we were in Byzantium, that's the 51st century."
 
 "And I ran into them in 1969, too." The Doctor supplies.
 
-Cas tilts his head to consider. "Because of the time travel," he answers. "As soon as they exist at one point on the timeline, they spread across the whole timeline all at once. That's why you said no one knows where they come from, because they can be in all the time. Chronologically they didn't exist until a week ago."
+Cas tilts his head to consider. "Because of the time travel," he answers. "As soon as they exist at one point on the timeline, they spread across the whole timeline all at once. That's why you said no one knows where they come from, because they can be in all the time. Chronologically, they didn't exist until a week ago."
 
 "Like our ground zero," Dean says.
 
@@ -2745,7 +2751,7 @@ Outside the window, they hear a loud crashing sound in the distance. The floor s
 
 "I don't know. But I think they're coming for you." The Doctor glances at the window. The city light shakes as the crash echoes, blinking dangerously. The forever bright night skyline of Manhattan falls dark briefly, then comes back up.
 
-"What if we run?" Dean asks, thinking it seems to be an obvious solution. "They haven't got us yet, what if we just get the hell out of here and never get captured?"
+"What if we run?" Dean asks, thinking it seems to be an obvious solution. "They haven't got us yet. What if we just get the hell out of here and never get captured?"
 
 "Then that would never happen, right?" Rory points at his own dead body on the bed, asking the group with hope in his eyes. Dean admires his courage to even look at his own dead body a second time.
 
@@ -2763,7 +2769,7 @@ River says quickly, "If they get out, if they die anywhere else, it creates a pa
 
 "It would be almost impossible." The Doctor argues.
 
-"Love the almost." Dean says immediately.
+"Love the 'almost'," Dean says immediately.
 
 The Doctor says rapidly, "But to create a paradox like that, big enough to clean up a whole city, possibly a whole world, it takes almost unimaginable power. What have we got? Come on, tell me, what?"
 
@@ -2771,13 +2777,13 @@ A short silence.
 
 Amy reaches to grab Rory's hand, standing right next to him, holding him tightly. She looks at them, unfearful and determined. "I won't let them take him. That's what we got."
 
-Dean quickly glances at Cas, running right into his eyes, realizing Cas is looking him in the way exactly like Amy's eyes on Rory. He swallows hard, wetting his dry lips. His heart pounds hard in his chest. He remembers every single word he talked with Amy and Rory earlier that night, he just hopes he can have one damn minute to talk to Cas about it.
+Dean quickly glances at Cas, running right into his eyes, realizing Cas is looking at him in exactly the way Amy looks at Rory. He swallows hard, wetting his dry lips. His heart pounds hard in his chest. He remembers every single word he talked with Amy and Rory earlier that night; he just hopes he can have one damn minute to talk to Cas about it.
 
 "You'll do the same, right, Cas?" He hears his voice ask hoarsely, desperate to make it sound like a joke.
 
-"Of course, Dean." Cas answers instantly. "I won't let them take you."
+"Of course, Dean," Cas answers instantly. "I won't let them take you."
 
-That massive crashing voice outside the window hits again. Now not only the floor feels like shaking, the whole wall and building are shaking with it. It's like the damn thing is quaking the earth.
+That massive crashing voice outside the window hits again. Now, not only does the floor feel like shaking, but the whole wall and building are shaking with it. It's like the damn thing is quaking the earth.
 
 "Whatever that thing is, it sounds like it's getting closer," Rory says, clenching their hands tighter.
 
@@ -2785,9 +2791,9 @@ The Doctor looks at him, then Dean. "Even if you two managed to get out tonight,
 
 "That's pretty much my job description," Dean answers flatly.
 
-"Well then, better get started." Amy lets out a breath, almost like relieved, now that they sort of have a plan.
+"Well then, better get started." Amy lets out a breath, almost relieved, now that they sort of have a plan.
 
-She goes to the apartment door, throws it open -- an Angel is there, Tessa is frozen in her feral attacking position. Her hands are raised high above her head, long claws extending from the end of fingernails. Amy stares at her without blinking, yelling back, "Husband -- run!"
+She goes to the apartment door, throws it open -- an Angel is there, Tessa is frozen in her feral attacking position. Her hands are raised high above her head, long claws extending from the ends of her fingernails. Amy stares at her without blinking, yelling back, "Husband -- run!"
 
 Rory ducks into the opening under the statue, dashing outside.
 
@@ -2811,43 +2817,43 @@ Dean stares at the statue of Inias and Hannah, and every time he shifts his gaze
 
 "I do!" Cas answers.
 
-"And we're running out of light!" Dean shouts, squinting at the light that is getting dimer by each flash, until with a pop, it breaks completely. He can hear glass shattering from the bulb.
+"And we're running out of light!" Dean shouts, squinting at the light that is getting dimmer by each flash, until with a pop, it breaks completely. He can hear glass shattering from the bulb.
 
 At the same moment when the corridor is covered in almost darkness, a new light source starts, warm and bright, steady, silvery blue, coming from Cas's direction.
 
 Dean swirls on his heel, staring at Cas. The view catches his breath.
 
-Cas is lighting up. Grace shines from his eyes and his body, his wings spreading from behind him. But instead of the shadow of the wings that he caught a glimpse at all those years ago when they first met, this time, they are the real wings made of light. It's not burning bright, so even if it's still slightly to bright to look at it for long, he can see it without burning his eyes. The wings are directly made of light, but they also look soft, feathery even, though he's sure if he touches them, they would not feel fluffy. And the most astonishing thing is, the wings are covered by eyes. Big and small, in all the directions, they blink and stare, they look at all the directions.
+Cas is lighting up. Grace shines from his eyes and his body, his wings spreading from behind him. But instead of the shadow of the wings that he caught a glimpse of all those years ago when they first met, this time, they are the real wings made of light. It's not burning bright, so even if it's still slightly too bright to look at for long, he can see it without burning his eyes. The wings are directly made of light, but they also look soft, feathery even, though he's sure if he touches them, they would not feel fluffy. And the most astonishing thing is, the wings are covered by eyes. Big and small, blinking and staring, they look in all directions, guarding their back, their side, monitoring all the danger that can possibly approach them.
 
-Dean finds his tongue caught, his throat tight. Voice completely choked in his throat. It's beautiful beyond human language. Cas is beautiful. And for the first time in many years, more than ever, he realizes -- Cas is an angel.
+Dean finds his tongue caught, his throat tight. His voice is completely choked in his throat. It's beautiful beyond human language. Cas is beautiful. And for the first time in many years, more than ever, he realizes -- Cas is an angel.
 
 "Go!" Cas opens his mouth, and even his mouth is filled with light. "I got them. Go to the stairs! I'm right behind you."
 
-Dean blinks fast, shifting his eyes, squeezing the tears off the corner of his eyes triggered by the light and the view. The corridor is lightened enough that none of the statues can move an inch. He finds the door leading to the stairs and pushes it open.
+Dean blinks fast, shifting his eyes, squeezing the tears off the corner of his eyes triggered by the light and the view. The corridor is lit enough that none of the statues can move an inch. He finds the door leading to the stairs and pushes it open.
 
-He can feel Cas moves right behind him, as the light and the shadow of it move together with him.
+He can feel Cas move right behind him, as the light and the shadow of it move together with him.
 
-The angels already occupy the lower stories. With a glance, he can tell there is no way they can run down those fifty or sixty floors safely, even with Cas. And no way the other four heading down.
+The angels already occupy the lower stories. With a glance, he can tell there is no way they can run down those fifty or sixty floors safely, even with Cas. And no way the other four headed down.
 
 He races up toward the rooftop.
 
-Dean thinks he has never climb the stairs faster than today his entire life.
+Dean thinks he has never climbed the stairs faster than today in his entire life.
 
 Two minutes later, he's already reaching the top floor, bursting through the door to the rooftop, and Cas follows right after.
 
-Amy and Rory hold hand in hand near the edge of the roof, staring at something huge and tall behind them. River and the Doctor are staring at Cas.
+Amy and Rory hold hand in hands near the edge of the roof, staring at something huge and tall behind them. River and the Doctor are staring at Cas.
 
 "Holy!" River exclaims. "You really are an angel!"
 
 Dean can't help grinning a little, too proud, chest too full. "That's the second time of the day I heard people say that about him. Isn't he amazing?"
 
-But further down from where they can't see, the sound of stones moving through the stairs are loud and clear. Dean pushes the door closing, and the Doctor gives him a hand to shut it together.
+But further down from where they can't see, the sound of stones moving through the stairs is loud and clear. Dean pushes the door closed, and the Doctor gives him a hand to shut it tight.
 
 They back away from the door toward the edge of the rooftop. There is no way down now.
 
 Amy and Rory are still staring at the thing over their heads behind the building with their mouths open in disbelief.
 
-Dean has a bad feeling but he forces himself turn around and look up. There, feral and fangs out, stands the Statue of Liberty, in an attacking pose. Only to be frozen under their gaze.
+Dean has a bad feeling but he forces himself to turn around and look up. There, feral and fangs out, stands the Statue of Liberty, in an attacking pose. Only to be frozen under their gaze.
 
 Dean lets out a harsh breath, hearing his mouth say: "Always wanted to visit the Statue of Liberty. I guess she got impatient."
 
@@ -2865,11 +2871,11 @@ Dean rushes to lend him a shoulder, having his arm around Cas's shoulder and wai
 
 "Turn that off, Cas! It's burning you up!" Dean yells at him, shaking him a little.
 
-Cas closes his eyes tiredly. His wings disappear, so do the eyes and light. The rooftop sudden looks as dark as the night. They realize the power of the whole city has been cut. The city that never sleeps has become the city of darkness.
+Cas closes his eyes tiredly. His wings disappear, so do the eyes and light. The rooftop suddenly looks as dark as the night. They realize the power of the whole city has been cut. The city that never sleeps has become the city of darkness.
 
-"I'm sorry," Cas staggers when he tries to stand still by himself, his voice hoarse and dry, like sandpaper rubbing. Dean can smell a taste of bloody iron just being this close to him. How many new wounds Cas has added to himself just by lighting himself up? Burning away some internal organs without him know, maybe?
+"I'm sorry," Cas staggers when he tries to stand still by himself, his voice hoarse and dry, like sandpaper rubbing. Dean can smell a taste of bloody iron just being this close to him. How many new wounds has Cas added to himself just by lighting himself up? Burning away some internal organs without him knowing, maybe?
 
-"Stop burning yourself up!" Dean snaps, and Cas winces. Dean immediately gentles his voice. "I mean you did great, but I need you alive, you hear me? Still need you fly us home, remember?"
+"Stop burning yourself up!" Dean snaps, and Cas winces. Dean immediately gentles his voice. "I mean you did great, but I need you alive, you hear me? Still need you to fly us home, remember?"
 
 Cas gives him a tired, apologetic look. Dean can feel the gaze from the Doctor and River. All saying the same thing -- they are probably not going to go back now.
 
@@ -2895,17 +2901,17 @@ Amy turns around sharply, tears in her eyes. "Rory, what are you doing? Stop it!
 
 "Yeah, exactly." Rory smiles shakily. "Twice in the same building on the same night. Who else could do that?"
 
-Dean lets go of Cas, walks carefully toward him, holding out a hand to grab him in the edge of his shirt. "Actually, I can."
+Dean lets go of Cas, walks carefully toward him, holding out a hand to grab him at the edge of his shirt. "Actually, I can."
 
 "Stop it, both of you!" The Doctor yells.
 
 "Dean!" cries Cas.
 
-Rory meets Dean's eyes, then turns back to Amy. "This is the right thing to do. This will work. If I die now -- " Dean cuts him off by "if one of us die now", Rory continues, "-- it's a paradox, right? The paradox kills the angels. River said so. Tell me I'm wrong, please, 'cause I'm really scared."
+Rory meets Dean's eyes, then turns back to Amy. "This is the right thing to do. This will work. If I die now -- " Dean cuts him off by "if one of us dies now", Rory continues, "-- it's a paradox, right? The paradox kills the angels. River said so. Tell me I'm wrong, please, 'cause I'm really scared."
 
 Amy stands before him, holding his hand. "Stop it! Just stop it!"
 
-Dean adds a little more force to the grip he had on this brave young man, and it makes his head more clear than ever. "Come down here, Rory. I should be the one jumping down."
+Dean adds a little more force to the grip he has on this brave man, and it makes his head clearer than ever. "Come down here, Rory. I should be the one jumping down."
 
 "Dean, no!" Cas yells desperately.
 
@@ -2917,7 +2923,7 @@ Dean turns around to face Cas, who stands just a step away from him now, looking
 
 "Will it?" Dean glances over his head. "They said this place would be erased from time, never exist. Angels are never infected. If this place never existed, what did I fall off?"
 
-"You think you'll just come back to life?" Cas's lips tremble. Dean realizes that's exactly where his stare has landed on, focused on.
+"You think you'll just come back to life?" Cas's lips tremble. Dean realizes that's exactly where his stare has always landed, focused on, longed about.
 
 "When don't I?" He smiles easily.
 
@@ -2927,7 +2933,7 @@ Dean turns around to face Cas, who stands just a step away from him now, looking
 
 "Maybe there are other ways! You don't have to!" Cas says, voice choking.
 
-"I want to." Dean tells him, gentler now. "It can save you, too."
+"I want to," Dean tells him, gentler now. "It can save you, too."
 
 "Save me?"
 
@@ -2937,11 +2943,11 @@ Cas's eyes glint with tears. His hands reach out to hold Dean's, grabbing him ti
 
 Dean is almost amused. "I don't think I need your permission."
 
-Right then, the ground shakes again. The whole building shakes. When none of them are looking, behind them, a huge shadow of a large claw fall toward them, unmistakably aiming at Rory and Dean.
+Right then, the ground shakes again. The whole building shakes. When none of them are looking, behind them, a huge shadow of a large claw falls toward them, unmistakably aiming at Rory and Dean.
 
-Amy shouts, while Dean tries so hard to snatch his hand out of Cas's grip. He's still two steps away from the edge of the building -- too far to cross in a blink of an eye, if they blinked. And the angel is too fast.
+Amy shouts, while Dean tries so hard to snatch his hand out of Cas's grip. He's still two steps away from the edge of the building -- too far to cross in the blink of an eye, if they blinked. And the angel is too fast.
 
-As fast as any other angels, Cas takes the action. An outrageous roar comes out of him, and his wings spread out from his shoulder blades again, wide and vast, covering around the humans on the rooftop like a protection shield.
+As fast as any other angel, Cas takes action. An outrageous roar comes out of him, and his wings spread out from his shoulder blades again, wide and vast, covering the humans on the rooftop like a protective shield.
 
 Before Dean can register what has happened, the touch of Naomi lands on Cas's wings.
 
@@ -2949,25 +2955,25 @@ He knows it from the way Cas's whole body stiffens. He looks at Dean in a horrif
 
 "NO --!" Dean yells desperately. "No, no, no, no, no -- this is not happening! Cas!"
 
-The tip of that beautiful, soft-looking wing turns into marble, extending fast across the feathers, frozen him into the place. Dean stares at him, and Cas can't move an inch.
+The tip of that beautiful, soft-looking wing turns into marble, extending fast across the feathers, freezing him in place. Dean stares at him, and Cas can't move an inch.
 
 Dean reaches a hand to him intuitively.
 
 "Don't touch him!" the Doctor yells behind him. "He's a Weeping Angel now! He can send you anywhere!"
 
-"I don't care! He's Cas!" Dean growls back, taking back his hands, cupping Cas's face, where the stone hasn't reached yet, where the skin is still soft and warm, still in human body. He wonders why he's never done this before.
+"I don't care! He's Cas!" Dean growls back, taking back his hands, cupping Cas's face, where the stone hasn't reached yet, where the skin is still soft and warm, still in a human body. He wonders why he's never done this before.
 
 Cas blinks tiredly at him, saying in a low voice. "He's right, Dean. I'm infected now, I could harm you. You shouldn't touch me."
 
-"When could you ever hurt me?" Dean smiles back, almost chuckling, almost teary. "Remember that time when the Heaven takes you back? The first day you came back, you said 'you serve Heaven, not human, certainly not me', and the next thing you did, you helped me."
+"When could you ever hurt me?" Dean smiles back, almost chuckling, almost teary. "Remember that time when Heaven took you back? The first day you came back, you said 'You serve Heaven, you don't serve man, certainly not me,' and the next thing you did, you helped me."
 
 A mirroring smile shows up on the tips of Cas's lips. "I don't know you remembered."
 
 "Of course I do," Dean says gently, too soft, too choked. He swallows rapidly. "I remember everything about you."
 
-"That time, that's Naomi too," Cas tells him. "She took me back, 'fixed' me, so that I could remember my priority is to save the angels, not the human."
+"That time, that's Naomi too," Cas tells him. "She took me back, 'fixed' me, so that I could remember my priority is to save the angels, not the humans."
 
-Dean scoffs. "Looks to me she's the one needs fix."
+Dean scoffs. "Looks to me she's the one needs fixing."
 
 The texture of stone covers Cas's body fast, from his feet to his hands, crawling up his neck toward his head next. Cas can't move at all except for blinking and holding a tight smile.
 
@@ -2975,11 +2981,11 @@ Cas chuckles quietly. "There is something I want to tell you, Dean. But I think 
 
 Tears fall down on Dean's cheek. "I'll save you, Cas. You're not dead, I'll find a way and I'll fix you. I promise."
 
-Cas looks him in the eyes, and answers gently, "Good bye, Dean."
+Cas looks him in the eyes, and answers gently, "Goodbye, Dean."
 
 Right then, the stone covers his whole face, freezing his blue eyes into cold marble color.
 
-Dean can't help letting out a loud cry of pain. "CAS!" His heart clenches so hart he can breathe.
+Dean can't help but let out a loud cry of pain. "CAS!" His heart clenches so hard he can't breathe.
 
 The statue that was once Castiel doesn't move an inch, and doesn't answer.
 
@@ -3027,7 +3033,7 @@ The loud pounding of stone on the service door continues. And with a final push,
 
 "No way we can stare at all of them at the same time, Doctor!" River cries.
 
-The Doctor aims his sonic screwdriver at one of them and sends it fly. But the next one is already in its place before he steadies his step. They spread out, making it even more difficult to keep an eye on everyone of them.
+The Doctor aims his sonic screwdriver at one of them and sends it flying. But the next one is already in its place before he steadies his step. They spread out, making it even more difficult to keep an eye on everyone of them.
 
 "Okay, I'm going, that's the only way." Rory starts climbing up the low wall at the edge again.
 
@@ -3035,11 +3041,11 @@ The Doctor aims his sonic screwdriver at one of them and sends it fly. But the n
 
 "What are you talking about?" River shouts back at him.
 
-"Have a little faith. And don't look at Cas for a second, that's all I asks," Dean smiles a little. It's a bet, but it's on Cas. He's willing to bet the world on Cas at any time. So why not this time, too?
+"Have a little faith. And don't look at Cas for a second, that's all I ask," Dean smiles a little. It's a bet, but it's on Cas. He's willing to bet the world on Cas at any time. So why not this time, too?
 
 "You are asking us to trust a Weeping Angel?" The Doctor glances at him unbelievably.
 
-"I'm asking you to trust someone who's kind enough to help find your friend when we didn't have to, to fly all of you to 1938 when none of you can, to risk getting turned into a statue to protect me and your friend there, who's willing to sacrifice himself to save the world without blinking. I'm asking you to have a little faith on Cas, that even infected, he's on our side," Dean tells them firmly, pleadingly.
+"I'm asking you to trust someone who's kind enough to help find your friend when we didn't have to, to fly all of you to 1938 when none of you can, to risk getting turned into a statue to protect me and your friend there, who's willing to sacrifice himself to save the world without blinking. I'm asking you to have a little faith in Cas, that even infected, he's on our side," Dean tells them firmly, pleadingly.
 
 "Okay," Amy says, turning to the other side. So does Rory.
 
@@ -3057,7 +3063,7 @@ They blink again. The remaining ones are also cleared out.
 
 "Where did they go?" Amy asks loudly.
 
-"He must have sent them away," River answers, amazed. "You can send people away, means you can send anything away. And he's sending the other angels away."
+"He must have sent them away," River answers, amazed. "You can send people away, which means you can send anything away. And he's sending the other angels away."
 
 "What about that big one?" Dean points at the Statue of Liberty -- at the bastard angel named Naomi.
 
@@ -3065,7 +3071,7 @@ They blink again. The remaining ones are also cleared out.
 
 Between one second and the next, the space that was occupied by the gigantic statue is wiped clean. So hollow and empty that Dean feels as if the chunk of space has been swallowed.
 
-"People waking up tomorrow is gonna ask where the Lady Liberty go," Dean jokes.
+"People waking up tomorrow are gonna ask where the Lady Liberty goes," Dean jokes.
 
 "At least there *are* still people waking up tomorrow," River answers.
 
@@ -3075,11 +3081,11 @@ And then, Cas comes back.
 
 Still statue, still with wings, though now tugged behind his back. His hands cover his face, as if he's weeping. The perfect image of a Weeping Angel.
 
-Dean stares at him, regarding his shape. He's not broken or hurt, and his trench coat and suits look just like a natural intrinsic part of him. His hair is ruffled as it used to. He might be a statue, but he looks just like when he's alive. And it makes looking at him even more painful.
+Dean stares at him, regarding his shape. He's not broken or hurt, and his trench coat and suits look just like a natural intrinsic part of him. His hair is ruffled as it used to be. He might be a statue, but he looks just like when he's alive. And it makes looking at him even more painful.
 
 The Doctor points his sonic screwdriver at him.
 
-Dean jumps in front of Cas, facing the Doctor furiously with his arms open around Cas in a protective gesture. "He just saved all of us! Don't you dare hurting him!"
+Dean jumps in front of Cas, facing the Doctor furiously with his arms open around Cas in a protective gesture. "He just saved all of us! Don't you dare hurt him!"
 
 The Doctor blinks at him, then realizes. "What? No, of course I'm not hurting him. I was trying to link all the temporal energy he collected from sending other angels away to give Tardis a parking light. To get our flight ticket."
 
@@ -3089,7 +3095,7 @@ The Doctor blinks at him, then realizes. "What? No, of course I'm not hurting hi
 
 "'More or less'?" Dean parrots. "What does that mean? Will they come back?"
 
-The Doctor says, "Technically they still can, but if Castiel stays here, he can send them back again. Probably should call him Guardian Angel of Manhattan now."
+The Doctor says, "Technically, they still can, but if Castiel stays here, he can send them back again. Probably should call him Guardian Angel of Manhattan now."
 
 Dean squints at him. "But what about Cas?"
 
@@ -3101,7 +3107,7 @@ The Doctor looks down, voice quiet. "I'm sorry."
 
 Dean says, "No."
 
-The Doctor glances at him, "What do you mean 'no'?"
+The Doctor glances at him, "What do you mean, 'no'?"
 
 "I mean -- NO. If this is the reality, I don't want it." He throws a quick look at Amy. "You taught me that. I'm going to bring him back."
 
@@ -3117,29 +3123,29 @@ Dean cuts him off harshly, "No, you don't! I'm not going to leave him again, not
 
 "Fine," Dean moves up the low wall at the edge of the building quickly, without hesitation.
 
-"You wasn't going to kill yourself for saving the world, but you'd do it to save him?" River says.
+"You weren't going to kill yourself for saving the world, but you'd do it to save him?" River says.
 
 Dean thinks about it, realizing that's true. He shrugs. "He means more than the world to me."
 
 "You should let him know," River says gently. "He would love to know."
 
-Dean actually smiles. "Next time when I got the chance, I will."
+Dean actually smiles. "Next time when I get the chance, I will."
 
 "Maybe I should do it," Rory says suddenly. "Then you can have that chance."
 
 "Rory!" Amy objects loudly.
 
-"No," Dean says firmly, turning to him. "Thank you for offering, but no. You have each other, I have no one now. Besides, we don't even really know if it would work. If it doesn't, try something else for me, please, save him. And, oh --" he takes out his phone, tossing to Rory, "-- maybe let my brother know, too. Tell him I'm sorry."
+"No," Dean says firmly, turning to him. "Thank you for offering, but no. You have each other; I have no one now. Besides, we don't even really know if it would work. If it doesn't, try something else for me, please, save him. And, oh --" he takes out his phone, tossing it to Rory, "-- maybe let my brother know, too. Tell him I'm sorry."
 
-He stands straight on the wall. The whole of New York feels at his feet. The night wind flows the skirt of his shirt. The Chrysler Building stands silently behind him under the night sky.
+He stands straight on the wall. The whole of New York feels at his feet. The night wind flows around the skirt of his shirt. The Chrysler Building stands silently behind him under the night sky.
 
 "Cas --" Dean says, looking at the statue of Castiel, and closing his eyes deliberately, thinking hard. "Thank you for everything you did for me. This time, let me do this one thing for you."
 
-He opens his eyes. Cas has moved to him, the stone wings are frozen in a spreading pose, his hands reaching out, opening like a hug, marks of tear frozen on his face. But he's careful enough to not touching him.
+He opens his eyes. Cas has moved to him, the stone wings are frozen in a spreading pose, his hands reaching out, opening like a hug, marks of tears frozen on his face. But he's careful enough not to touch him.
 
 The only Weeping Angel that is actually weeping, is because Cas is crying for him.
 
-Dean leans in, kissing the cold stone of Cas on the forehead, and he says with a small smile, "Good bye, Cas."
+Dean leans in, kissing the cold stone of Cas on the forehead, and he says with a small smile, "Goodbye, Cas."
 
 A breath. A step. He topples over the edge.
 
@@ -3151,7 +3157,7 @@ Amy covers her mouth, eyes shut in unbearable horror. Rory pulls her into his em
 
 The stone statue of Cas cracks before their eyes, starting from the chest where the heart is. The crack extends over his body and his wings. And with an explosion sound, the statue that forms Cas breaks apart into rocks.
 
-That is when lightning flashes through the air, surges of energy pursing around the place, light glowing blindingly brighter, the whole building starts shaking.
+That is when lightning flashes through the air, surges of energy pulsing around the place, light glowing blindingly brighter, the whole building starts shaking.
 
 "What's happening?" River shouts over the sound of electricity cracking.
 
@@ -3179,19 +3185,19 @@ That is when lightning flashes through the air, surges of energy pursing around 
 
 ### Act 1
 
-Dean wakes up with a light moan of headache.
+Dean wakes up with a light moan of a headache.
 
 The light from the sky is too bright. The stone underneath him is too cold and rigid.
 
-He sits up, realizing he's in a graveyard, with his recent four new companions waking up slowly near him. He would have thought they are some dream too vivid with too much imaginations. Amy and Rory are hugging in relief.
+He sits up, realizing he's in a graveyard, with his recent four new companions waking up slowly near him. He would have thought they are some dream too vivid with too much imagination. Amy and Rory are hugging in relief.
 
 "Where are we?" he asks.
 
-The Doctor beams at him. "Back where we started, 2012. You collapsed the time line, the paradox worked. And we all get thrown back where we belong."
+The Doctor beams at him. "Back where we started, 2012. You collapsed the timeline, the paradox worked. And we all get thrown back where we belong."
 
 "The angels?" Dean says, stumbling up, looking around.
 
-There are still statues near some tombs, looking peaceful and tranquil, beautiful and solemn. Some of them shaped like angels, others just human figures without wings.
+There are still statues near some tombs, looking peaceful and tranquil, beautiful and solemn. Some of them are shaped like angels, others just human figures without wings.
 
 "These are just normal statues," the Doctor follows his gaze. "I tested. Sonic-ed and blinked, they are just normal statues. I think all the Weeping Angels, sorry, the infected angels of the Lord, are wiped clean."
 
@@ -3207,7 +3213,7 @@ The Doctor shakes his head mutedly. "Didn't see him since waking up."
 
 He shakes his head, refusing to accept the reality.
 
-There is a statue standing guarded at the entrance of the graveyard. The figure looks tall and stiff from the back, with wings held out in a relaxing position, but he can't see it clear enough from this distance.
+There is a statue standing guard at the entrance of the graveyard. The figure looks tall and stiff from the back, with wings held out in a relaxing position, but he can't see it clearly enough from this distance.
 
 He squints, and he blinks.
 
@@ -3217,7 +3223,7 @@ The statue disappears from its position. Dean jumps, and some device of the Doct
 
 They look around, eyes sharp.
 
-And then Dean sees him. The final remaining Weeping Angel. His angel that was weeping. The statue moves close to him in a safe distance, close enough for he to see, but not close enough to touch. Dean doesn't think, he dashes to him, ignoring the shouting of warning of the others.
+And then Dean sees him. The final remaining Weeping Angel. His angel that was weeping. The statue moves close to him at a safe distance, close enough for him to see, but not close enough to touch. Dean doesn't think; he dashes to him, ignoring the shouting of warning of the others.
 
 "Cas!" Dean runs until he's right in front of him.
 
@@ -3231,7 +3237,7 @@ He swallows hard, touching his cheek, the corners of his lips, and the marks of 
 
 "He's a survivor," the Doctor says behind him quietly. "Must be because he's in the center of that timeline explosion."
 
-"Doesn't look like a survivor to me if he's still a statue." Dean answers, without opening his eyes, without taking his hand away from the statue.
+"Doesn't look like a survivor to me if he's still a statue," Dean answers, without opening his eyes, without taking his hand away from the statue.
 
 "What should I do? Another paradox to fix him?" Dean asks desperately.
 
@@ -3241,19 +3247,19 @@ He swallows hard, touching his cheek, the corners of his lips, and the marks of 
 
 A blink.
 
-Cas moves. His hand raises up, reaching to Dean, as if he wants to touch Dean but he remembers what he is at the last moment, and he has to restrain himself to stay away, stay far.
+Cas moves. His hand raises up, reaching to Dean, as if he wants to touch Dean, but he remembers what he is at the last moment, and he has to restrain himself to stay away, stay far.
 
 Dean puts his hand on it.
 
 "Don't!" The Doctor blurts out.
 
-"I don't care," Dean cuts him off, already know what he'll hear. "If he sends me back, then we go back together. Wherever he goes, I go."
+"I don't care," Dean cuts him off, already knowing what he'll hear. "If he sends me back, then we go back together. Wherever he goes, I go."
 
-He shuts his eyes tightly, painfully, letting the tears overflow. "Cas, I don't know if you can hear me," he says, praying before he realizes that's what he's doing, "but if you are in there somewhere, come back to me, please. Because --" his voice chokes, he swallows hard. Words fail him. Instead, Dean leans, pressing his lips on the statue of Cas, letting his tears wetting the stone. He tastes the salty flavor of the stone and his tear.
+He shuts his eyes tightly, painfully, letting the tears overflow. "Cas, I don't know if you can hear me," he says, praying before he realizes that's what he's doing, "but if you are in there somewhere, come back to me, please. Because --" his voice chokes, he swallows hard. Words fail him. Instead, Dean leans, pressing his lips on the statue of Cas, letting his tears wet the stone. He tastes the salty flavor of the stone and his tears.
 
-That is when he starts feeling Cas starts stirring, softening. The head is first to come back, as it was the last to turn to the storm. His eyes blink dazedly. And Dean doesn't stop as the lips beneath the touch turn soft, flesh, real. Cas kisses him back with a low, quiet moan, "Dean."
+That is when he starts feeling Cas start stirring, softening. The head is first to come back, as it was the last to turn to the storm. His eyes blink dazedly. And Dean doesn't stop as the lips beneath the touch turn soft, flesh, real. Cas kisses him back with a low, quiet moan, "Dean."
 
-He waits until the whole of Cas turns back normal to stop. Pull apart half a step, just to study him carefully, top to bottom, just to make sure he's really alright this time. The tear marks linger on his face, and he wipes it with the back of a hand.
+He waits until the whole of Cas turns back to normal to stop. Pull apart half a step, just to study him carefully, top to bottom, just to make sure he's really alright this time. The tear marks linger on his face, and he wipes them with the back of a hand.
 
 Dean watches with so much joy that the ability to speak escapes him.
 
@@ -3265,9 +3271,9 @@ Cas looks at him in the eyes, the remnant of pain and desperation swirling in hi
 
 And Dean answers with a choked, "Same goes to you."
 
-Cas pulls him back into a hug so warm and tight that Dean never want to break again. Every inch of skin is so soft and gentle under his touch, he would never imagine he would miss the touch of flesh so much. He rests his cheek on Cas's shoulder and leans his head on Cas's, thinking this is how he'll spend the eternity.
+Cas pulls him back into a hug so warm and tight that Dean never wants to break again. Every inch of skin is so soft and gentle under his touch; he would never imagine he would miss the touch of flesh so much. He rests his cheek on Cas's shoulder and leans his head on Cas's, thinking this is how he'll spend eternity.
 
-But he forces himself to pull back again. "Listen," Dean says, heart pounding fast as those dazzling blue eyes staring right back at him. "There's something I should have said, before those thing happened, before anything happens again." He glances at the other people, watching Amy and Rory bumping shoulders now, the Doctor and River wiping the exterior of Tardis together. He wets his lips. Cas waits patiently.
+But he forces himself to pull back again. "Listen," Dean says, heart pounding fast as those dazzling blue eyes staring right back at him. "There's something I should have said, before those things happened, before anything happens again." He glances at the other people, watching Amy and Rory bumping shoulders now, the Doctor and River wiping the exterior of the Tardis together. He wets his lips. Cas waits patiently.
 
 And Dean tells him, "I can't let you die without knowing you are loved, by so many and so much. And by no one more than me."
 
@@ -3285,9 +3291,9 @@ They pull each other in again, closing the gap between their bodies and their li
 
 <br>
 
-"Look who finally decide to join," River jokes as they walk back the group. Tardis looks fresh and new, showing no sign of charred, burning mark from the explosion, even the light bulb on top of the machine spins cheerfully and brightly.
+"Look who finally decides to join," River jokes as they walk back to the group. Tardis looks fresh and new, showing no sign of charred, burning marks from the explosion, even the light bulb on top of the machine spins cheerfully and brightly.
 
-"I see someone has finally figured *something* out." Amy says, eyeing their shared grins and holding hands.
+"I see someone has finally figured *something* out," Amy says, eyeing their shared grins and holding hands.
 
 Dean blushes slightly. "Thanks to you," he says half-jokingly.
 
@@ -3305,15 +3311,15 @@ Dean pauses his step. "Is it? Well, we can always go by ourselves. I want the bu
 
 Amy laughs warmly. "You are more than welcome to join. Except, Doctor -- there's something you might want to know."
 
-The tone in her voice makes the smile on the Doctor's face frozen. "What is it?"
+The tone in her voice freezes the smile on the Doctor's face. "What is it?"
 
-Amy holds Rory's hand tight, and says, "Rory and I had a discussion, you know, after we almost died, or actually he really did." They exchange a nervous look, Rory says quietly, "Even if we're not dead, we could have stuck there, never able to go back home. And... my Dad is going to miss me."
+Amy holds Rory's hand tight, and says, "Rory and I had a discussion, you know, after we almost died, or actually he really did." They exchange a nervous look. Rory says quietly, "Even if we're not dead, we could have stuck there, never able to go back home. And... my Dad is going to miss me."
 
 "You're resigning?" The Doctor says slowly, understanding, but not easily.
 
 "We're going home," Amy corrects him, a shaky smile. "We're not giving you up, if that's what you're thinking."
 
-"You can still come for dinner," Rory says, a tight smile. "And know we'll always set a seat for you in Christmas. You, too, Melody."
+"You can still come for dinner," Rory says, a tight smile. "And know we'll always set a seat for you at Christmas. You, too, Melody."
 
 He reaches out a hand toward River, and River takes it. Her other hand in Amy's.
 
@@ -3325,7 +3331,7 @@ The Doctor blinks slowly, shakily, but not sad. Then, realization hits him. "We 
 
 Amy catches on quickly, smiling too. "Don't worry, Raggedy Man," she says. "It's not a 'farewell', just a 'see you around'."
 
-The Doctor says, beyond, "Let's go home."
+The Doctor says, beyond joy, "Let's go home."
 
 Rory turns to Dean and Cas, "What about you?"
 
@@ -3343,9 +3349,9 @@ Cas says quietly, "You have a brother, and possibly soon a sister-in-law, who mi
 
 Dean swallows, turning to Rory, "What he said."
 
-"That reminds me," Rory fumbles his pocket, fishing out his phone and giving it back to Dean. He adds hastily, "Probably none of my business, but I think you should give your brother a call or something, not just let a stranger tell him after you're dead. He'd hate that."
+"That reminds me," Rory fumbles in his pocket, fishing out his phone and giving it back to Dean. He adds hastily, "Probably none of my business, but I think you should give your brother a call or something, not just let a stranger tell him after you're dead. He'd hate that."
 
-Dean struggles with the words fighting on his tongue. He wants to bite them back, but in this man's honest eyes, he finds it easy to let them out. So he confesses frankly, "He'd never be truly happy if I'm alive. He'd never live the life he wanted if I'm alive. Now I can't really damn myself, so this is probably the second best thing I can give him."
+Dean struggles with the words fighting on his tongue. He wants to bite them back, but in this man's honest eyes, he finds it easy to let them out. So he confesses frankly, "He'd never be truly happy if I were alive. He'd never live the life he wanted if I'm alive. Now I can't really damn myself, so this is probably the second best thing I can give him."
 
 Rory glares at him, almost furiously, which is the first time since Dean met him. "You dumb thing," he snaps. "Do you really think he'd ever be truly happy again when he believes you're dead?"
 
@@ -3361,13 +3367,13 @@ Rory nods approvingly. "That's more like it."
 
 River chimes in, "Technically, he *is* my Dad."
 
-Rory laughs slightly, moving into Tardis. So does Amy and River.
+Rory laughs slightly, moving into the Tardis. So do Amy and River.
 
-"You want a ride?" The Doctor leans at the door of Tardis.
+"You want a ride?" The Doctor leans against the door of the Tardis.
 
 Dean gives the blue phone box another once-over, knowing well enough now even though it looks nothing like a spaceship or a time machine from the outside, it's bigger on the inside. With his luck, it's probably going to be his only time riding in something like that. But --
 
-Dean gives him a shake of head, "My Baby is parked out of Central Park. Don't want to leave her behind."
+Dean gives him a shake of the head. "My Baby is parked out of Central Park. Don't want to leave her behind."
 
 The Doctor gives him an understandable nod, and a handshake for farewell.
 
@@ -3375,9 +3381,9 @@ The Doctor gives him an understandable nod, and a handshake for farewell.
 
 Cas nods gently, "I'll look forward to that, Doctor."
 
-Tardis takes off shortly.
+The Tardis takes off shortly.
 
-Dean takes Cas's hand, holding it naturally, like he's done that for a million times, like he knows his hand belong there. And he says, "I'm starving. Let's go to that amazing burger place first. I'll have large fries this time for all those pigeons. And we can call Sam after. What do you say, Angel?"
+Dean takes Cas's hand, holding it naturally, as if he's done that a million times, as if he knows his hand belongs there. And he says, "I'm starving. Let's go to that amazing burger place first. I'll have large fries this time for all those pigeons. And we can call Sam after. What do you say, Angel?"
 
 Cas smiles like the sun shines on him for the first time, like the most beautiful being is standing before him, speaking the most beautiful language. He braids their fingers, and answers, "I'd like that, very much."
 
@@ -3385,7 +3391,7 @@ They walk onto the street of Manhattan together, heading north. The warmth of th
 
 Dean takes a long inhale, breathing in the smell of the busiest city. Normal, ordinary people walk past them on the pedestrians, jostling their shoulders in the busy streets.
 
-Dean looks up at the skyscrapers and all those towering building around them, thinking for the first time, he might actually start to like Manhattan.
+Dean looks up at the skyscrapers and all those towering buildings around them, thinking for the first time, he might actually start to like Manhattan.
 
 <br>
 
