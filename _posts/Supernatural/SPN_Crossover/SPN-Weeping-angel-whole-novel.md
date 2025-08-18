@@ -371,9 +371,9 @@ The music that accompanies the creation of this story is Sting's 1987 song "Engl
 
 ### Art
 
-![](https://64.media.tumblr.com/be08147729bf95ac5a190ef67c6a0497/2034c30f3ee92b47-ec/s500x750/6751834c61ef70c13381b924aa34c4eed60fa29f.jpg)
+![](https://64.media.tumblr.com/be08147729bf95ac5a190ef67c6a0497/2034c30f3ee92b47-ec/s2048x3072/1a48827071d7bfd36efc5e67cbd4fc694db7ab5b.jpg)
 
-![](https://64.media.tumblr.com/c5f9f655db379bb56bd926795a42b1da/2034c30f3ee92b47-cd/s500x750/74eceb9643d54ab0af6ead52339387f023c9d327.jpg)
+![](https://64.media.tumblr.com/c5f9f655db379bb56bd926795a42b1da/2034c30f3ee92b47-cd/s2048x3072/ad4f605d6aa794b67d0fc70b58837f0b260f6382.jpg)
 
 ## Editing notes
 
@@ -453,7 +453,7 @@ The Detective shifts the gaze uncomfortably, moving to walk up the remaining ste
 
 The street light shines into the hallway, showing a grand but deserted space. The metal sign by the empty elevator well is rusty, the letters noting the number of rooms on each floor are shallow and dusty, looking as aged as the residents peeping out from the windows.
 
-The elevator well is old-styled, with hollow, sparse metal bars like a half-finished construction site. The Detective approaches it cautiously, one hand resting close to the back of the belt where the pistol is.
+The elevator well is old-style, with hollow, sparse metal bars like a half-finished construction site. The Detective approaches it cautiously, one hand resting close to the back of the belt where the pistol is.
 
 "Hello?" The Detective voices carefully, then almost startles at a sudden loud sound of clanking noise. The sound echoes in the empty space.
 
@@ -481,7 +481,7 @@ The unlocked door is easily pushed open. The Detective knocks on it as he enters
 
 The small apartment room has a narrow, dusty doorway, as bleak and ancient as the rest of the building. But with a small hint that someone has been living here, probably alone, probably has been for a very long time.
 
-The cloth rack by the door has a hat and coat hanging on it. A tall, black gentleman's hat, and a long suit coat, exactly like the ones The Detective is wearing, though much older, decades older. He touches his own coat self-consciously, moving down the doorway with more unease with each step.
+The clothes rack by the door has a hat and a coat hanging on it. A tall, black gentleman's hat, and a long suit coat, exactly like the ones The Detective is wearing, though much older, decades older. He touches his own coat self-consciously, moving down the doorway with more unease with each step.
 
 Lying on the shelf next to the coat rack, a leather briefcase. Dusty and unused. Exactly the same as the one in his grasp right now.
 
@@ -733,7 +733,7 @@ They emerge back to the busy 72nd St., heading to Central Park.
 
 The hustle and bustle of the city is blocked out the moment they walk into the green space of Central Park. Ten minutes in, and they almost forget they are still in the middle of the most bustling cities in the world.
 
-People are jogging, running, or walking dogs. In a plaza, a group of opera singers are rehearsing maybe some grand performances in the future. Artists set up sketch stands by the roadside, painting the view onto white paper. Tourists with heavy backpacks take photos of everything -- pinecones falling from the trees, commemorative sculptures of historical figures, cute dogs passing by, landmarks of the city. With the tree crowns covering the sky, even the highest skyscrapers of Manhattan are out of view.
+People are jogging, running, or walking dogs. In a plaza, a group of opera singers is rehearsing for maybe some grand performances in the future. Artists set up sketch stands by the roadside, painting the view onto white paper. Tourists with heavy backpacks take photos of everything -- pinecones falling from the trees, commemorative sculptures of historical figures, cute dogs passing by, landmarks of the city. With the tree crowns covering the sky, even the highest skyscrapers of Manhattan are out of view.
 
 Dean sniffs the air long and slow.
 
@@ -743,11 +743,11 @@ The air smells green and fresh.
 
 "I certainly hope that is true." Cas nods.
 
-They walk past the crowds, taking a short cut through the underpass in Bethesda Terrace. The fountain splashes under the bright sun, an angel statue standing on the very top. Not many people around the fountain today, only a couple of old people strolling slowly. A busker is singing some beautiful folk songs with a weathered guitar. Cas leaves a twenty-dollar bill in his opened guitar box.
+They walk past the crowds, taking a shortcut through the underpass in Bethesda Terrace. The fountain splashes under the bright sun, an angel statue standing on the very top. Not many people around the fountain today, only a couple of old people strolling slowly. A busker is singing some beautiful folk songs with a weathered guitar. Cas leaves a twenty-dollar bill in his opened guitar box.
 
 "That's Hannah," Cas points at the angel statue on the fountain when they pass it. "I know her."
 
-"What, really? A real angel?" Dean takes a second look at the statue. The female figure looks more human than any angel he came to know in the past few years, wearing a long silky robe instead of a suit. A pair of wings stretches elegantly from her shoulder blades. She looks down at people passing by the fountain with a look of compassionate tenderness.
+"What, really? A real angel?" Dean takes a second look at the statue. The female figure looks more human than any angel he came to know in the past few years, wearing a long, silky robe instead of a suit. A pair of wings stretches elegantly from her shoulder blades. She looks down at people passing by the fountain with a look of compassionate tenderness.
 
 "No harp or halo?" Dean jokes.
 
@@ -755,7 +755,7 @@ Cas's eyes are still on the static statue, as if he's looking at something *insi
 
 "And those are her children?" Dean points at the four small baby angels around the base of the fountain.
 
-"The cherubs?" Cas shifts his attention to those chubby little statues. "No, she doesn't have any children. Those are just human imagination of what cherubs look like -- wrong as always -- they are not impotent babies wearing diapers, much like cupids."
+"The cherubs?" Cas shifts his attention to those chubby little statues. "No, she doesn't have any children. Those are just human imagination of what cherubs look like -- wrong as always -- they are not impotent babies wearing diapers, much like Cupids."
 
 "Yeah, I remember that naked dude two, three years ago." Dean chuckles at the memory.
 
@@ -839,7 +839,7 @@ They back away quickly, keeping their eyes on the statues.
 
 "I'm not sure 'alive' is the right term here." Dean glances back to check how much farther they can back away before hitting anything. "I have a theory, but I don't want to test it."
 
-"Dean?" Cas glances quickly at Dean then looks back at the stones. The cherubs have moved in that split second when neither of them are not looking. They moved closer to them, small chubby arms reaching out like babies asking for a cradle, mouths opening, tiny fangs showing at the edge of the lips.
+"Dean?" Cas glances quickly at Dean then looks back at the stones. The cherubs have moved in that split second when neither of them is looking. They moved closer to them, small chubby arms reaching out like babies asking for a cradle, mouths opening, tiny fangs showing at the edge of the lips.
 
 Dean gasps again when he looks back, dragging both of them hurriedly away, farther from the statues. "Don't look away!" He snaps. "Okay, call me crazy, but here's my theory: They can only move when we are not looking. So as long as we keep our eyes on them, we are safe."
 
@@ -1337,7 +1337,7 @@ about flying Tardis: River: "Use the stabilizer" Doctor: "There is no stabilizer
 >
 > Dean/Amy gets sent to cellar where Rory was
 
-It's not the first time Dean gets flied around in a wing-trip, but this is certainly the top five most unpleasant journeys. He doesn't remember the other times being so rocky and nauseous. Even worse than the crash landing in the Tardis the very same afternoon earlier.
+It's not the first time Dean gets flied around in a wing-trip, but this is certainly the top five most unpleasant journeys. He doesn't remember the other times being so rocky and nauseous. Even worse than the crash landing in the Tardis, the very same afternoon earlier.
 
 The color and lights are muffled into a big kaleidoscope around him, spinning at a speed higher than his eyes and brain can possibly process. He really should have closed his eyes.
 
@@ -1393,7 +1393,7 @@ Dean smoothens out his trench coat and fixes his tie. The tears and cuttings don
 
 "He's right, too much temporal disturbance, I can't get a good reading," the Doctor says, swinging the sonic screwdriver a few times like trying vainly to fix a used-up ink pen. "If the Angels are in this city, we're sitting ducks out here. Let's go inside first."
 
-"You good to walk, man?" Dean asks under his breath, still holding Cas up like supporting an old man to cross street.
+"You good to walk, man?" Dean asks under his breath, still holding Cas up like supporting an old man to cross the street.
 
 Cas answers him, "I'm not fragile, Dean."
 
@@ -1431,7 +1431,7 @@ Dean lets out a quiet sigh, correcting it for him. Cas murmurs, "Is it really ne
 
 And Dean looks down at his own badge, putting it away with another sigh. "Not really," he says, resigned, "'cause I read from the book they already knew it's fake."
 
-The woman looks at them with a small amused mockery, "That certainly looks fake to me."
+The woman looks at them with a small, amused mockery, "That certainly looks fake to me."
 
 Her eyes shift quickly toward the Doctor and Amy behind them, the grin turning into a wild smile, "Hello, Sweetie." Her eyes sparkle with joy at the reunion. "Took you long enough."
 
@@ -1445,7 +1445,7 @@ The Doctor tilts his head slightly, meeting her with a similar smile. "Sorry, di
 
 "I see." The woman regards them, not hiding at all the way her eyes checking both of them out, scanning up and down. Not in an uncomfortable way. More curious than anything. And she's enchanting enough to have a free pass anywhere anyway.
 
-Dean meets her eyes while hers linger on his face. Dean notices at the same time how attractive and sexy she looks, and for some reason, somewhat familiar. He tries to scratch the memory where he might know her from -- the tight leather jacket, the bright red lips, all cleavage and curves -- he gasps quietly with realization, nudges Cas and whispers, "She's the one from the book."
+Dean meets her eyes while hers linger on his face. Dean notices at the same time how attractive and sexy she looks, and for some reason, somewhat familiar. He tries to scratch the memory where he might know her from -- the tight leather jacket, the bright red lips, all cleavage and curves -- he gasps quietly with realization, nudges Cas, and whispers, "She's the one from the book."
 
 "What book?" The woman watches him closely.
 
@@ -1481,7 +1481,7 @@ Grayle runs out of all his patience, raising his voice, "Okay, I've had enough o
 
 The two hefty guards they met at the gate burst into the room, each having a gun in their hands, pointing menacingly at them.
 
-Dean draws out his own gun, pointing at the taller one among the two. Cas steps closer to him, raising a palm in a defending gesture. The Doctor steps in front of River and Amy, pointing at the guards with his sonic screwdriver like a weapon.
+Dean draws out his own gun, pointing at the taller one among the two. Cas steps closer to him, raising a palm in a defensive gesture. The Doctor steps in front of River and Amy, pointing at the guards with his sonic screwdriver like a weapon.
 
 "Very West Side Story," Dean comments. "What now? You're outnumbered."
 
@@ -1501,7 +1501,7 @@ Grayle opens his palms, gesturing arrogantly at the luxurious, ancient-looking d
 
 He flips the light switch on the wall before they can say anything. River gasps in the sudden darkness. All the lights are turned back on a second later.
 
-The chained angel statue has moved in that blink of darkness. It dragged River closer to its body, the grip on her wrist is so tight and powerful that her whole arm is twisted outward at an odd angle. The Angel's right arm raises high with all the long claw nails out -- it's on the rim of a striking pose and there is no way to run. River grits her teeth, cursing loudly, "Damn you!"
+The chained angel statue has moved in that blink of darkness. It dragged River closer to its body, the grip on her wrist is so tight and powerful that her whole arm is twisted outward at an odd angle. The Angel's right arm raises high with all the long claw nails out -- it's on the rim of a striking pose, and there is no way to run. River grits her teeth, cursing loudly, "Damn you!"
 
 "I hope you take it seriously now," Grayle smiles meaningfully at the rest of them. "One more flip, the Angel can snap her neck."
 
@@ -1921,7 +1921,7 @@ Rory nods sheepishly, "More than once." Then adds quickly, "Sorry." As if afraid
 
 "Is that your version of 'waiting two thousand years'?" Rory detects the tone acutely.
 
-Dean widens his eyes, a little surprised at the way he put it, but thinking it through... "Actually now that you said it," he says slowly, surprised again, this time at how accurate the analogy actually is. "Yes, it is."
+Dean widens his eyes, a little surprised at the way he put it, but thinking it through... "Actually, now that you said it," he says slowly, surprised again, this time at how accurate the analogy actually is. "Yes, it is."
 
 "I just couldn't leave the place until I found him, but then I almost lost him again because he didn't want to be saved. If the angels didn't save him, he didn't come back to me again, I don't know what I'd do." Dean grimaces, doesn't know why he starts telling this stranger -- maybe already a friend now? Since they've been sharing stories -- the things between him and Cas, but what the hell, they might die any moment anyway. Better than stew in the dark and horror.
 
