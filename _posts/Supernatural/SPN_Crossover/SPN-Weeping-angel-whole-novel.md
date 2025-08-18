@@ -3557,53 +3557,287 @@ Dean hums his favorite song when he's driving.
 
 ### Brian Williams
 
-Brian almost drops the watering can when the bell rings. It's his son
+Brian almost drops the watering can when the bell rings. It's his son's house, no one knows he's here.
 
+He hurries to the door, and joy overwhelms him to see Amy and Rory stand right there.
 
+Rory gives him a hug and tells him he misses him, and Amy kisses his cheek as a greeting.
 
+It doesn't happen often, and he thinks he knows exactly why.
 
+The Doctor follows a few steps behind.
 
+"May I?" He asks, as if he's not sure if he's invited to this house. Brian invites him in, and the Doctor grins joyfully.
 
+For the whole day, they hang out in the house, having fun, telling jokes, watching TV. The Doctor hangs out with them, like a big teddy bear. Brian watches them from their back, still can't stop his thoughts wandering around, wondering where they just came back from. Is that ten thousand years ago, or ten thousand years into the future? How close are they, this time, to not coming back.
+
+But he can't ask any of them, when he watches their faces. They're happy now, they're enjoying each other's company, and they're home, and he can see them. That should be enough.
+
+His heart still pains at the thought.
+
+They have a lovely, cheerful dinner.
+
+And the next day, they are still at home.
+
+"So, when are you heading out for your next adventure?" Brian asks them, a few days later, over the dinner.
+
+The chattering stops. The smiles stay still on their faces. Forced to be there.
+
+Brian sees Amy and Rory exchange their looks, and then with the Doctor.
+
+"Dad?" Rory prompts.
+
+"I understand you can't give up the 'Doctor Life'," Brian says ernestly. "And I understand the risk. We talked about this, you don't have to give those up just to keep me company, and you certainly shouldn't give him up." He nods at the Doctor, sitting in between Amy and Rory like a twelve-year-old. "You'd go with him, go save every world you can find, go live the life and try everything the world and the life has to offer. The other life, the 'normal life' will still be here."
+
+"Dad." Rory exchanges a look with Amy again. Amy nods at him, encouraging him to continue. "We decided to stay."
+
+"Something happened in the last trip, isn't it?" Brian asks acutely.
+
+"You can say that," Rory admits.
+
+"What happened?" Brian frowns, sensing the atmosphere shifting to heavy side. "Monsters never scare you off. Not even the end of the world. Not even death."
+
+"But never seeing you again does," Rory answers.
+
+They tell him the last trip, the angels taking Manhattan, the two other brave adventurers they met in the journey, the sacrifices they made for each other, the love that creates the paradox and breaks the spell, saving the world, saving everyone.
+
+"If they weren't there, I think I'd be the one..." Rory can't finish the sentence, not when his father and his wife look at him like that, with those eyes so pained, so sorrowful. It's like just saying the sentence, saying the word out loud could kill them, or break their hearts.
+
+Brian swallows. Amy grasps his hand.
+
+"They saved us, Dad. So now, I think this is our second chance." Rory looks at Brian. "And we uses this chance to come back home."
+
+Brian doesn't know if he should feel happy or sad. Maybe both.
+
+He wipes his eyes, finding them wet.
+
+"Home," he repeats, nodding, murmuring, can't thinking of anything else to say.
+
+It feels really nice, so selfishly nice to know they are going to stay now.
+
+Stay at home.
+
+Stay safe.
+
+For however long they decide.
+
+Until the next time they leave.
+
+Brian remembers he forgot to finish watering the plants.
 
 <br>
-
-> Brian looks to the Doctor, so serious: "What happened to the other people who travel with you?" Doctor: "Some left me. Some got left behind. And some... not many but... some died.  (off Brian's horrified look) Not them. Not them, Brian. Never them." ending: Doctor: "I know. You both have lives here. Beautiful, messy lives. This is what makes you so fabulously human. You don't want to give them up. I understand." Brian: "Actually, it's you they can't give up, Doctor. And I don't think they should. Go with him. Go save every world you can find. Who else has that chance? Life'll still be here." Doctor: "You could come, Brian." Brian: "Somebody has to water the plants. Just... bring them back safe." (S07E04) (Doctor: "You could bring the plants too, come on, Brian. Tardis needs you." Rory whisper: "He means he needs us, and we need you." Brian: "I'll go packing then.")
 
 ### Christmas
 
+The door bell rings. They are too busy around the kitchen and almost miss the sound.
 
+"I'll go!" Amy wipes her hands and goes to open the door.
+
+The first thing runs into her eyes is a tall, red fez. The second thing is the Doctor under it.
+
+"Hello," the Doctor waves tentatively. "Thought to drop by to say hi. I'll be on my way if you're busy."
+
+"It's Christmas!" Amy says loudly.
+
+"Oh, is it?" The Doctor glances around, and sees the Christmas decorations on the doorframe and in the yard of every single house in the block. "Sorry, didn't notice."
+
+"And it's been two years! No postcard, no phone call, we worried!" Amy snaps.
+
+The Doctor ducks his head, unsure of himself. "Sorry, the clock must be off, Tardis's fault. I was aiming for the year before, actually. It arrives late, it always does that."
+
+Amy bursts into a laughter. "It's a joke, you silly!"
+
+The Doctor laughs nervously with her. "Ah!"
+
+Amy steps aside to let him in. "Come on! The dinner's ready. You joining?"
+
+"If it's not too much trouble," the Doctor answers sheepishly.
+
+"There's a seat set for you," Amy tells him.
+
+The Doctor is properly surprised. "How? You didn't know I'm coming."
+
+Amy says easily, "Because we always do, you moron."
 
 <br>
 
-> passing line about that short film of Doctor dropping by at Christmas
+This is the first time the Doctor realizes, he had so many friends before, he had partners, he had companions -- but this, this is the first time he has a *family*.
+
+<br>
 
 ### The Doctor and Castiel
 
+The universe is vast. And the timeline for eternity is long.
 
+When they say they might see each other again, neither the Doctor nor Castiel really know when or if it's going to happen.
+
+But they both have long lives. In thousands of years, if fate leads them, they'll meet.
+
+And they really do, more than once.
+
+They meet when the stars are creating. That's the beginning of the time, but neither of them travel chronologically.
+
+The Doctor has changed his face, and Castiel isn't exactly himself at that time.
+
+The Doctor recognizes him first. The angel only blinks confusedly.
+
+"I didn't expect anyone would be here," Castiel says, voice young, wings fresh.
+
+"You don't remember me?" The Doctor asks. The angel shakes his head. But he's willing to know a new friend, a friend that is from a different planet than Earth, a different galaxy than the Milky Way.
+
+And the new friend knows so much about Time and Space, almost as much as his brothers and sisters. But none of his brothers and sisters would be so patient, so curious, so polite to talk to him. He's barely a cherub anyway.
+
+That is also what the Doctor realizes. This is way before Castiel meets him in New York. Eons before.
+
+They meet when the stars are dying, and when the timeline is crashing.
+
+The eternity also has an end, just like the edge of the universe. Where everything is in a ruin, and almost every life comes to an end. They run into each other again.
+
+They watch the stars burning out in comfortable, but unspeakable sadness. They both feel it.
+
+"How's your human friends?" The Doctor asks him.
+
+"His soul is still living in Heaven," Castiel tells him. "In a different plane. I'm glad they won't be affected by this."
+
+The Doctor hums quietly. "Will you miss it? This physical, material dimension?"
+
+"Of course," Castiel answers. "This is the dimension where the humans are born and live, where I meet some of the most brilliant ones, where I meet you, old friend. I will always remember it, long after it stops existing."
+
+"Me, too, old friend. Me, too," says the Doctor.
 
 <br>
 
-> passing line about their meet
+### Castiel and The Statue of Liberty
 
-### Castiel and the Statue of Liberty
+They have talked about going back to Manhattan some time, but for one reason or another, they never did.
 
+"It's too crowded of the year", "It's too hot or too cold now", "It's the raining season"...
 
+They just never go back, until one day, they have a good enough reason.
+
+Sam's young son, the little Dean, sees the Statue of Liberty on the TV and ever since, that becomes the only thing he ever wants.
+
+"Didn't you and Cas have a really good time in Manhattan?" Sam calls him.
+
+Dean wouldn't forget it for a thousand years. "Yeah, it's like forever ago," he recalls. What he's really thinking is -- yeah, that's the time and place when they get together.
+
+"Want to visit again?" Sam prompts. "My kid could use some tour guide."
+
+"You could just say you want to have fun yourself, Sammy." Dean laughs.
+
+"Is that a Yes?" Sam ignores him.
+
+"Sure, why not?" Dean agrees.
 
 <br>
 
-> they encounter the Statue of Liberty again, Sam's son wants to visit, so they all go
->
-> it's not Naomi anymore, the infected angels are killed, Cas mourning Inias, Hannah, Samandriel, etc.
+But they are not really the best tour guides. Nor are they the best uncles, according to Sam -- but as long as there are small sweet treats and gifts, little Dean doesn't complain about his two uncles.
+
+Dean and Cas wander off on their own when they are at the foot of the Statue of Liberty.
+
+Dean senses Cas stiffens when he looks up at the statue. The official tour guide is going through its history, the year it's built, then gifted and transported. All very scholastic. Dean's attention comes to Cas.
+
+Cas's jaw is set tight, he stares at the Statue of Libery with fear in his eyes.
+
+For years, Dean hasn't seen Cas afraid of something, let alone shaking with fear.
+
+He quietly takes Cas away from the crowd and the long waiting lines, leaning on a clean wall in a small corner. The statue is out of sight.
+
+Cas breathes heavily. Dean holds his arm, watching worriedly.
+
+"What is it, Cas?" He asks, more worried than he has been for years.
+
+It can't be that accident in Manhattan with the Weeping Angels or Purgatory infection coming back, biting their ass again, can it?
+
+Cas closes his eyes for a short while, steadying his breath. "Nothing," he says, about to head out.
+
+Dean grabs his arm. "It doesn't look like nothing to me. Is there something wrong with the Liberty? The Weeping Angels are back? The Lady Liberty is going to tear the city apart when no one's watching? What is it?"
+
+"No, nothing like that," Cas says hurriedly. "Nothing wrong with the statue. No Weeping Angels." He bites his lips.
+
+Dean studies his face. "Something with you then," he concludes.
+
+Cas sighs. "It reminds me of Naomi," he admits under Dean's scanning eyes. "They have the same face."
+
+"Thought she's gone ages ago, in that explosion we pulled." Dean gritts his teeth.
+
+"Yes," Cas says. "Yes, she did."
+
+And Dean hears what he doesn't say -- It doesn't matter that she's gone. The fear is still there. Just a glimpse of her face, Cas would be immoblized by the fear from memory alone. He doesn't want to think what horrifying things she'd done to him. Killing her seemed to be too easy for her.
+
+Dean pulls Cas close, leaning in, letting him rest on his shoulder. He knows it calms Cas, it works as a charm. And this time is no exception.
+
+Resting his chin on Dean's shoulder, Cas says quietly, "I can still see her. And all the other angels we lost that day. Inias, Hannah, Samandriel... We saved the world, but we couldn't save any of them. I mourn their loss every day."
+
+Dean smoothes his back in small circles, rubbing his shoulder blades, soothing him gently. "They're infected. They could have been killed in Purgatory. We did what had to be done. We did our best." *I did my best, for you,* Dean thinks.
+
+"I know," Cas says, "but it's not making things any easier." *And the most difficult part is, I can still see you falling from that building. Coming to Manhattan, seeing the Statue of Liberty, just reminds me again every breathing moment.*
+
+"I'm here," Dean hears his unsaid words. "Does it make you feel better?"
+
+"Yes, so much." Cas nods, closing his eyes, feeling the warmth of their embrace. Dean breathes him in as well.
+
+They leave Sam a message, and leave the island not long after.
+
+They can enjoy the rest of the trip elsewhere.
+
+It's going to be a long time until they come back to Manhattan.
+
+<br>
 
 ### Amy Pond and Charlie Bradbury
 
+It's a pure coincidence, and a big surprise -- a good surprise.
 
+Dean doesn't usually sit in the waiting seat outside woman's changing room -- he doesn't usually have a lady friend who'd drag him to the department and ask for *his* opinion.
+
+But Charlie Bradbury doesn't fall into "usual" category.
+
+And they're preparing for a case. So it's technically counting as working.
+
+Dean checks his watch. Charlie has been in there for a million years with about two million pieces of clothes.
+
+He never knows waiting for others to change could be so testing on his patience.
+
+That's when he hears a voice calling "Dean?"
+
+He turns to see the man buried under a small mountain of bags and dresses.
+
+"Rory." Dean recognizes him. "What are you doing here?"
+
+"Amy is buying new clothes," Rory can't vacates his hands, so he nods at the lady's changing room. "Holiday shopping."
+
+"Right," Dean says. He didn't realize it's holiday season at all.
+
+"You?" Rory asks, moving closer to him slowly, and leaving the bags onto the seat, panting slightly.
+
+"With a friend, Charlie, also buying some clothes." Dean answers.
+
+They start chatting, about the past few years, where they've been, what they're busy with, and time passes easily.
+
+Charlie and Amy emerge from the changing room, chatting heatedly and hugging as they walk toward them.
+
+Dean raises a questioning eyebrow.
+
+Charlie laughs, introducing them, "Amy, this is my friend Dean. Dean, Amy."
+
+"I didn't know you're here!" Amy rushes to hug Dean, while Rory is waving slightly awkwardly at Charlie, telling her "I'm Rory."
+
+"I didn't know you two know each other." Charlie eyes Dean and Amy curiously.
+
+"She's that red-hair friend I told you about, if you still remember," Dean tells Amy. "I told you you'd like her."
+
+"I really do," Amy grins at Charlie, touching her hand fondly.
+
+"You introducing me to all your cool lady friends?" Charlie glances at Dean.
+
+Dean chuckles. "Pretty much."
+
+"Awesome," Charlie beams.
 
 <br>
 
-> Charlie is ecstatic to meet Amy, Dean introduce them
-
-(**Words after chapter**: The parts with Brian Williams and the Doctor visiting the Ponds on Christmas are both inspired and heavily tied to the official short videos released by Doctor Who canon.)
+(**Words after chapter**: The parts with Brian Williams and the Doctor visiting the Ponds on Christmas are both inspired and heavily tied to the official short videos released by Doctor Who canon. They're too beautiful, too touching, too heartfelt, I couldn't not write them, even just to rewrite the same scene, I'd cry still.)
 
 ## Deleted Scenes (Not a Chapter)
 
@@ -3780,6 +4014,24 @@ River: I still have to drop it off somewhere. Needs to be in the exact motel roo
 Dean: At least you gotta visit Manhattan again. Even the cheapest hotel around here are like 5-star penthouse. Do you know you literally can't live anywhere that's *not* one block away from some famous landmarks around here?
 
 River: That's Manhattan alright.
+
+<br>
+
+### Afterword
+
+When Amy and Rory talk with Brian:
+
+Brian: Life will still be here.
+
+The Doctor: You could come, too, Brian.
+
+Brian: Somebody has to water the plants. Just... bring them back safe.
+
+The Doctor: You could bring the plants, too. Come on, Brian. The Tardis needs you.
+
+Rory: (whispers) He means he needs us, and we need you.
+
+Brian: I'll go packing then.
 
 <br>
 
