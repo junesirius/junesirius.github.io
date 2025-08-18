@@ -3339,9 +3339,9 @@ Rory turns to Dean and Cas, "What about you?"
 
 Dean shrugs, "Same old, just wandering around, working my job, I guess."
 
-"You have anyone waiting for you to come home?" Rory asks seriously. "My Dad is watering plants for us."
+"You have anyone waiting for you to come home?" Rory asks seriously. "Like my Dad, he's watering plants for us."
 
-"Not really." Dean glances at Cas. "I got him, I got a car, that's about it."
+"Not really, we don't have plants." Dean glances at Cas. "I got him, I got a car, that's about it."
 
 Cas says slowly, "That's not true."
 
@@ -3405,46 +3405,382 @@ Brian looks to the Doctor, so serious: "What happened to the other people who tr
 
 > (use as epilogue, letter format?, like Amy's letter to the Doctor from the past)
 >
-> some possible follow-ups (with some time jump? timestamp short scenes): Brian/Rory/Amy dinner, Rory/Amy/Doctor/River Christmas, Doctor/Cas meet in time flux maybe even for help, Sam/Dean/Cas reunite & intro to Sam's new life, surprise: Amy/Charlie meet
+> some possible follow-ups (with some time jump? timestamp short scenes): Sam/Dean/Cas reunite & intro to Sam's new life, Brian/Rory/Amy dinner, Rory/Amy/Doctor/River Christmas, Doctor/Cas meet in time flux maybe even for help, surprise: Amy/Charlie meet
+>
+> about Sam: Dean/Sam reunite; follow-up conversation about normal life vs adventure, talking about "the other life" and maybe the truth is not about whereto but runaway, make Dean think Sam → lead to: understand/call Sam, Dean realize he's angry/jealous/unfair to Sam (extend a bit more to show Dean/Cas actually visited Sam before heading out), but now that he realizes he has Cas, they don't *have to* choose, they can have both (similar to Rory/Amy)
 
-### draft notes
+### Sam Winchester
 
-about Sam: Dean/Sam reunite; follow-up conversation about normal life vs adventure, talking about "the other life" and maybe the truth is not about whereto but runaway, make Dean think Sam → lead to: understand/call Sam, Dean realize he's angry/jealous/unfair to Sam (extend a bit more to show Dean/Cas actually visited Sam before heading out), but now that he realizes he has Cas, they don't *have to* choose, they can have both (similar to Rory/Amy)
+Dean orders the biggest cheeseburger Josie's Burger has to offer and enjoys every bite slowly and contently, knowing Cas is watching his every move. He licks his fingers when he's finished. They share half a plate of large fries, and give off the rest to the eager pigeons wandering around their table the whole time.
+
+They stand in the Bethesda Plaza listening to the busker playing one song after another, until the man packs the guitar and leaves for the day. The place is crowded with people, from those who sit in 
+
+They watch ducks swimming under the bridge, and listen to the music playing on the Delacorte Clock and the little bronze animals dancing around the bell.
+
+There is a brief rain when the sun is setting, and they still do not rush their steps.
+
+When they leave Central Park, it's still not dark yet.
+
+They sit back into the parked car. Dean leans back at the driver seat, resting his eyes, with a smile hanging on his lips. "It's the best day in my life," he announces.
+
+Cas watches him closely, "You're happy."
+
+Dean opens his eyes, lazy. "First time in a long time," he agrees.
+
+"Is that why you still haven't called Sam?" Cas asks carefully. "Or started driving to Texas?"
+
+Dean stiffens a little, slowing sitting straight in the seat. "It's a thirty-hour drive," he says instead.
+
+"I know," Cas nods with understanding. "Take your time."
+
+Dean swallows. They both know it has nothing to do with the driving hour.
+
+Cas reaches out to hold his hand, and Dean returns an appreciated nod.
+
+It takes him three more days to start heading southwest, and another four days on the road. He does take his time.
+
+<br>
+
+The white-fence house appears down the street, and Dean already starts slowing the car.
+
+"It will be okay," Cas says gently on the passenger seat.
+
+Dean pulls over to the house slowly.
+
+It's a woman opening the door. He hears Sam's voice from one of the rooms inside, "Who's it, Amelia?"
+
+Amelia glances at them, answering, "He said he's your brother, with this other man."
+
+Sam rushes out without his shoes. "Oh God," he breathes heavily, and while Dean's still wondering what to say, he's dragged into a bear hug. Cas receives one, too.
+
+They get invited into the house, instead of getting kicked out.
+
+He glances around.
+
+The place is neat, without many items. Unlike the childhood house in his memory, Dean thinks.
+
+Not very lived-in yet.
+
+"You, umm, just moving in?" Dean prompts, scratching his nose, glancing at Cas quickly.
+
+"A few months now, actually." Sam huffs a short laugh, following his gaze, a little self-consciously.
+
+That's how they start sharing the stories. Dean manages to keep the Purgatory part short, and Cas amends a little details about situation in Heaven.
+
+Sam listens attentively, and frowns when Dean starts talking about the cases in Manhattan.
+
+"When was that?" Sam asks.
+
+"About two weeks ago," Dean answers.
+
+Sam takes a quick breath in. "How long have you been back, Dean?"
+
+The Deja Vu of asking the same question when he found out Sam didn't spend a whole year in the Cage while he was living with Lisa rushes back to his head.
+
+Dean blinks, "Three weeks. Cas's back for two weeks, give or take."
+
+"Why didn't you call me?" Sam frowns deeper.
+
+"You got out," Dean nods at their surroundings. And the woman who's now pointedly keeping herself busy outside the door in the small yard. "Last time you got out, you lived with a girl you'd like to marry, and I'm the one pull you back in. I figure, better not to make the same mistake twice."
+
+Sam is quiet for a long time, then, "Last time I wanted out, I knew you were out there somewhere and I could always call you. This time, for the first time in my life, I have no one. I thought you were dead, Cas too. Dad was gone, Bobby was gone. I don't have anyone." He sniffs slightly. "I'm not really choosing anything, I'm just running away."
+
+Dean bites his lips, watching his little brother sniffing as if he's just a eight-year-old who can't find his way home -- in a way, there is truth in it. He rises up from the stool and wraps his arms around him. Sam leans into him like he used to when he was a child.
+
+It feels good.
+
+"It's okay now, Sammy," he pats his back. "We're home now."
+
+"I'll let Amelia know," Sam is ready to head out. Dean stops him.
+
+"You don't have to," he says. "You get a nice place, a nice girl. You don't have to give it up, if you don't want to, choosing the 'monster life' over the 'normal life'. In face, some new friends of ours just made that choice."
+
+"What about you?" Sam asks.
+
+"What about me?"
+
+"You're still hunting. You're choosing the 'monster life'?"
+
+"About that --" Dean glances at Cas again, starts grinning. "Let's say I'm living my 'normal life' on the way."
+
+Sam's eyes x-ray between them. Dean ducks his head sheepishly.
+
+"Oh --" Sam breathes.
+
+"Yeah," Dean answers quickly.
+
+"Congratulations?" Sam chances.
+
+Dean grins wider.
+
+They stay for dinner that day, and don't leave until it's late.
+
+"You can stay in the guest room," Sam offers.
+
+"You can stay in the motel," Dean retorts.
+
+Sam rolls his eyes. "You didn't change a bit."
+
+Dean laughs. "I know."
+
+He pulls his brother in for another farewell hug.
+
+"Text me when you have a case," Sam says. "I might join."
+
+"Text me when you have a barbecue party or something," Dean replies, parroting his sentence. "Wouldn't want to miss."
+
+"Or wedding, or baby shower." Cas supplies beside him.
+
+"Or that," Dean nods, arms around Cas's shoulder.
+
+"Take care of him," Sam looks at both of them. Genuine happiness in his eyes.
+
+"Always," Dean answers reflexively.
+
+"I'm talking to Cas," Sam says, chuckling.
+
+"Of course," Cas answers solemnly.
+
+They leave the place quietly.
+
+Dean hums his favorite song when he's driving.
+
+"You're happy," Cas notes again.
+
+"Best day in my life," Dean answers.
+
+"Better than that day in Manhattan?"
+
+"Both on my top five list, let's say."
+
+<br>
+
+### Brian Williams
+
+Brian almost drops the watering can when the bell rings. It's his son
+
+
+
+
+
+
+
+<br>
+
+> Brian looks to the Doctor, so serious: "What happened to the other people who travel with you?" Doctor: "Some left me. Some got left behind. And some... not many but... some died.  (off Brian's horrified look) Not them. Not them, Brian. Never them." ending: Doctor: "I know. You both have lives here. Beautiful, messy lives. This is what makes you so fabulously human. You don't want to give them up. I understand." Brian: "Actually, it's you they can't give up, Doctor. And I don't think they should. Go with him. Go save every world you can find. Who else has that chance? Life'll still be here." Doctor: "You could come, Brian." Brian: "Somebody has to water the plants. Just... bring them back safe." (S07E04) (Doctor: "You could bring the plants too, come on, Brian. Tardis needs you." Rory whisper: "He means he needs us, and we need you." Brian: "I'll go packing then.")
+
+### Christmas
+
+
+
+<br>
+
+> passing line about that short film of Doctor dropping by at Christmas
+
+### The Doctor and Castiel
+
+
+
+<br>
+
+> passing line about their meet
+
+### Castiel and the Statue of Liberty
+
+
+
+<br>
+
+> they encounter the Statue of Liberty again, Sam's son wants to visit, so they all go
+>
+> it's not Naomi anymore, the infected angels are killed, Cas mourning Inias, Hannah, Samandriel, etc.
+
+### Amy Pond and Charlie Bradbury
+
+
+
+<br>
+
+> Charlie is ecstatic to meet Amy, Dean introduce them
+
+(**Words after chapter**: The parts with Brian Williams and the Doctor visiting the Ponds on Christmas are both inspired and heavily tied to the official short videos released by Doctor Who canon.)
 
 ## Deleted Scenes (Not a Chapter)
 
 > (post all the unused witty quib and comments and fun little interactions between all characters)
 >
-> (mention the timeline fits the air date of both shows)
+> (After work notes mention: the timeline fits the air date of both shows)
 
-### draft notes
+There are too many unused materials that are drafted out for chapters that end up not included in the final story. But many of them are so much fun that I'd hate to leave them out in the Empty. Mostly are witty quips and comments and fun little interactions between our crossover characters. I can't resist compiling them together, just for some amusement.
 
-Dean: "Let me get this straight. You save the universe but only save the UK part, fly across galaxy is close enough but USA is too far away? This isn't your jurisdiction or something? Pal, not I'm saying, you did a terrible job in protecting the earth, in case you didn't notice, it at least trashed twice if we didn't ..." Doctor: "All due respect, who's behind that? Also, USA almost trashed twice doesn't mean..." River/Amy: "Don't mind him, London gets trashed every Christmas, it's a Doctor and Monster thing." Dean/Cas: "You can say that again."
+### Chapter 4
 
-Dean wrt Doctor/River: "I guess a thousand year age difference isn't a problem then." "You got anything to say about that?" "What? No, no, of course not." (Dean unintentionally glance at Cas, finding him look at him too) "We were married when I was half-way killing him and he was trying to save the world. It's complicated." Dean grins: "Isn't it always?" (unintentionally meet Cas's eyes again) Cas wrt Dean: "When we first met, he shot me and stabbed a dagger in my heart." Dean: "Sorry" Cas small grin: "It's okay. It couldn't harm me anyway"
+Dean: Let me get this straight. You save the universe but only save the UK part? Flying across galaxy is close enough, but USA is too far away? This isn't your jurisdiction or something?
 
-patch: why Tessa the reaper is considered an angel: reaper is angel of death; why reaper go to Purgatory to save Cas/also infected: second-hand infected by other angel/reaper in interaction
+Dean: Pal, not I'm saying, you did a terrible job in protecting the Earth, in case you didn't notice, it at least trashed twice if it's not for us to save it.
 
-chap.4 unused:
+The Doctor: With all due respect, who's fault is that? Also, USA almost trashed twice doesn't mean *I* didn't do my job. That's *your* job, technically.
 
-about Tardis: Cas: "it says 'Pull to open', why do you push?"
+River: Don't mind him, London gets trashed every Christmas, it's a Doctor and Monster thing.
 
-on the Tardis console: buttons, handles, sliders, keyboards, displays, trumpet, glass floor, power cables, electrical lines; all sorts of toys. not really keyboards, old-style typewriter. Dean can't help touching them, Doctor: "Don't touch anything" Dean looks disappointed, taking his hand back. But Cas sees he still tries to press on the button closest to him, it blinks blue a few times, but does nothing else. Dean looks like a happy kid with a new toy.
+Dean: You can say that again.
 
-chap.5 unused:
+<br>
 
-Dean/Doctor: "Doc" "Don't call me Doc, it's Doctor to you"
+Dean: (referring the Doctor&River) I guess a thousand year age gap isn't a problem then.
 
-chap.6 unused:
+The Doctor/River: You got anything you want to say about that?
 
-that's why Amy/Rory get married, Amy: "How can you not?" Dean choked, glad they are in the dark and no one can see his face
+Dean: What? No, no, of course not.
 
-Dean wrt Amy/Rory: "So you two are married." Cas wrt Doctor/River: "You two are also married." Amy wrt destiel: "And you are --?" Dean: "No, no, we, uh, we are best friends." Amy: "Sure." River: "Thought I heard you said you're partners" Dean: "What? The agents thing? No, no, that's just, partner in crime kinda thing" Cas: "Dean--" Dean: "Yeah sorry you're right, made it worse. No it's like, colleagues" (Cas narrow eyes), "comrade," (Amy raise eyebrow) "family," (River: "sure"), Dean: "You know what, forget it, just friends. Cas is my best friend, that's all. Drop it" Amy raise hands, surrender: "just asking, as long as you guys figured it out, no problem with me" River to Cas: "That's good enough for you?" Cas: "Why wouldn't it be?" Dean cheerfully: "See? all sorted out now, no problem at all" Dean/Cas meet eyes, look away
+(Dean unintentionally glances at Cas, finding him look at him, too.)
 
-chap.11 unused:
+River: We were married when I was half-way killing him and he was trying to save the world. It's complicated.
 
-Doctor/River bicker (book→deliver to Dean/Cas's motel room)
+Dean: (grins) Isn't it always? (unintentionally meets Cas's eyes again)
 
-witty comments about how come the cheapest hotel sounds like 5-star penthouse; you can't live in anywhere too far away from any landscape in Manhattan (about where to deliver the book in timeline)
+Cas: (referring Dean) When we first met, he shot me and stabbed a dagger in my heart.
+
+Dean: (quickly) Sorry.
+
+Cas: (small, amused grin) It's okay. It's forgiven. It couldn't harm me anyway.
+
+River: (to Dean) If it did, you'd be in so much loss now.
+
+Dean: (to River, referring the Doctor) Same for you, I see. Either you didn't do a good job, or he just keeps coming back.
+
+<br>
+
+Dean: (referring the Doctor & River): I guess a thousand year age gap isn't a problem then.
+
+The Doctor/River: You got anything in mind you want to say about that?
+
+Dean: What? No, no, of course not.
+
+(Dean unintentionally glances at Cas, finding him look at him too.)
+
+River: We were married when I was half-way killing him and he was trying to save the world. It's complicated.
+
+Dean: (grins) Isn't it always? (unintentionally meets Cas's eyes again)
+
+Cas: (referring Dean) When we first met, he shot me and stabbed a dagger in my heart.
+
+Dean: (quickly) Sorry.
+
+Cas: (small grin) It's okay. It's forgiven. It couldn't harm me anyway.
+
+Rivier: (to Dean) If it did, you'd be in so much loss now.
+
+<br>
+
+When they first enter the Tardis:
+
+Cas: It says "Pull to open", why do all of you push?
+
+The Doctor: With all those people coming to the Tardis, you're the first one who actually read the sign.
+
+Cas: I didn't read actually, she complained to me.
+
+Dean: "She"? Three minutes in, you're already bestie to a machine? Classic.
+
+Cas: What can I say? She doesn't have many people to talk to.
+
+The Doctor: I talk to her! Everyday!
+
+Cas: (small smile) Yes, and she enjoys it. But you never listen.
+
+<br>
+
+When they first approach the Tardis's console, seeing all the buttons, handles, sliders, keyboards, displays, trumpet, glass floor, power cables, and electrical lines. Dean's so happy like kids running into toy store, can't help touching all those toys. There's even an old-style vintage typewriter. Dean really wants to touch them.
+
+The Doctor: Don't touch anything. (Even though his back to him)
+
+Dean is disappointed, taking his hand back. But Cas sees him still manages to press on the button closest to him. It blinks blue a few times, but does nothing else. Dean looks like a happy kid with a new toy.
+
+<br>
+
+When warning about the Weeping Angels:
+
+The Doctor: Don't blink. Don't look them in the eyes.
+
+Dean: What's wrong with their eyes?
+
+Amy: Trust me, you don't want to know.
+
+Dean glances at Cas, looking him in the eyes. Then belatedly realizing they're doing the staring thing again, Dean thinks: So glad Cas isn't a Weeping Angel, or all the staring in the eyes thing is going to be so much trouble.
+
+<br>
+
+### Chapter 5
+
+Dean: What do we do, Doc?
+
+The Doctor: Don't call me 'Doc', it's 'Doctor' to you.
+
+<br>
+
+### Chapter 6
+
+When Amy and Dean talk, Amy mentions she and Rory get married.
+
+Dean: Why did you get married?
+
+Amy: How can you not?
+
+Dean chokes, blushes, glad they are in the dark and no one can see his face.
+
+<br>
+
+In a setting where the six of them are all in the same room, just freshly meet each other, and can talk relexingly (which ends up never happen in the story until the very end and their relationship dynamics already changed):
+
+Dean: (referring to Amy & Rory) So you two are married.
+
+Cas: (referring to the Doctor & River) You two are also married.
+
+Amy: (referring to Dean & Cas) And you are --?
+
+Dean: (hurriedly) No, no, we, uh, we are best friends.
+
+Amy: Sure.
+
+River: Thought I heard you said you're partners.
+
+Dean: What? The agent thing? No, no, that's just, partner in crime kinda thing.
+
+Cas: Dean --
+
+Dean: Yeah, sorry, you're right, made it worse. No it's like, colleagues, (Cas narrows his eyes) comrades, (Amy raises her eyebrows) family.
+
+River: Sure.
+
+Dean: You know what, forget it, just friends. Cas is my best friend, that's all. Drop it.
+
+Amy: (puts up two hands, surrender) Just asking, as long as you guys figured it out, no problem with me.
+
+River: (to Cas) That's good enough for you?
+
+Cas: Why wouldn't it be?
+
+Dean: (cheerfully) See? All sorted out now, no problem at all.
+
+(Dean meets Cas's eyes, he looks away.)
+
+<br>
+
+### Chapter 11
+
+They are ready to wrap up and say their goodbyes:
+
+River: (fake begrudgingly) Great, all of you are work done, and I still have a book to write.
+
+The Doctor: Not like it's so heavy work. You've already written it!
+
+River: I still have to drop it off somewhere. Needs to be in the exact motel room those boys stayed in in the exact right time. Not an easy job.
+
+Dean: At least you gotta visit Manhattan again. Even the cheapest hotel around here are like 5-star penthouse. Do you know you literally can't live anywhere that's *not* one block away from some famous landmarks around here?
+
+River: That's Manhattan alright.
+
+<br>
 
 ###### [END]
