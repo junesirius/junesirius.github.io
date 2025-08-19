@@ -3843,7 +3843,7 @@ Dean chuckles. "Pretty much."
 
 <br>
 
-(**Words after chapter**: The parts with Brian Williams and the Doctor visiting the Ponds on Christmas are both inspired and heavily tied to the official short videos released by Doctor Who canon. They're too beautiful, too touching, too heartfelt, I couldn't *not* write them, even just to rewrite the same scene, I'd cry still.)
+(**Words after chapter**: The parts with Brian Williams and the Doctor visiting the Ponds on Christmas are both inspired and heavily tied to the official short videos released by Doctor Who canon. They're too beautiful, too touching, too heartfelt, I couldn't *not* write them. Even just to rewrite the same scene, I'd cry still.)
 
 ## Deleted Scenes (Not a Chapter)
 
@@ -4053,17 +4053,17 @@ As much as I love the grand finale of Amy and Rory in the show -- the teary, wee
 
 So here it is, a story in the universe where the Doctor runs into Cas and Dean, where they save the humans and the angels together, where the love between the Doctor and River, Amy and Rory, become so awakening, that Dean and Cas figure out the feelings they've always been carrying around each other and the meaning of it.
 
-I'd like to think that it happens in the same original canon world from both shows. For what's worth, the timeline fits so perfectly from both sides. The Doctor's "The Angels Take Manhattan (S07E05)" happens on September 29, 2012. And the first time we see Dean coming out of Purgatory and going to Sam ("We Need to Talk About Kevin (S08E01)") is October 3, 2012. So it well can be canon divergent from both worlds, happening late September, 2012.
+I'd like to think that it happens in the same original canon world from both shows. For what's worth, the timeline fits so perfectly from both sides. The Doctor's "The Angels Take Manhattan (S07E05)" happens on September 29, 2012. And the first time we see Dean coming out of Purgatory and going to Sam ("We Need to Talk About Kevin (S08E01)") is October 3, 2012. So it well can be canon divergent from both worlds, happening late September 2012.
 
 Among other tributes to the original shows, all the chapter titles actually belong to the book that River hasn't written, the story of them. This might as well be the exact book they run into and spoil their future in the story.
 
-There are actually so many coincidental surprise while writing the story, that they look almost like fate. The most significant one being -- It is only when I wrote the scene with Dean and Rory both trapped in Winter Quay did I notice their last names, "Williams" and "Winchester" are alphabetically so close. It works so extremely perfectly for the story setting it actually startled me. That's how I get to place their rooms side by side, it would be so much more inconvenient otherwise. It's almost unsettling, as if both the world in the story and outside are designed and controlled by a higher force.
+There are actually so many coincidental surprises while writing the story, that they look almost like fate. The most significant one being -- It is only when I wrote the scene with Dean and Rory both trapped in Winter Quay, did I notice their last names, "Williams" and "Winchester" are alphabetically so close. It works so extremely perfectly for the story setting that it actually startled me. That's how I get to place their rooms side by side; it would be so much more inconvenient otherwise. It's almost unsettling, as if both the world in the story and outside are designed and controlled by a higher force.
 
 One last thing, just in case anyone is not as familiar with the Doctor Who story -- in the last chapter before they depart, when the family of Ponds holds hands, Rory calls River "Melody" -- That scene and that term is deliberate, because "Melody" is actually, exactly the real, birth name of River Song, given by Amy. (Not just the fake writer-detective name she used for publishing the book -- but it's also interesting to see her using her real name as fake name.) That is the name that means River is really their daughter, the daughter of Ponds. They are a family.
 
 The theme of "family" is eternal in all the stories. As is "love".
 
-This is another day that love save the world. As it always does.
+This is another day that love saves the world. As it always does.
 
 <br>
 
