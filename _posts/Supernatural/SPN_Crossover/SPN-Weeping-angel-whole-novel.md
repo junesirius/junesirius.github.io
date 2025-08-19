@@ -359,7 +359,7 @@ Until they meet a man with a funny bow tie and two hearts, who looks up from his
 
 I am very attached to this story. All the main characters showed up in this story, from Supernatural and Doctor Who, are very dear and mean a lot to me. I tried so hard to knit the two stories together, to make it canon compliant to both worlds, timeline-wise, monster-wise, and story-wise, which I think I made it. And make it a fix-it, fixing the tragic, heartbroken endings and giving happy endings to everyone. It's not easy.
 
-This story is heavily inspired by and adapted from Doctor Who's S07E05 episode with the same title; many of the scenes are heavily rewritten from the show because the original storytelling is so astonishing as it is. Many quotes as well. Anything I'm not doing right is probably my bad, and most of the brilliant settings and story ideas should be credited to the original show creators and production teams.
+Disclaimer: This story is heavily inspired by and adapted from Doctor Who's S07E05 episode with the same title; many of the scenes are heavily rewritten from the show because the original storytelling is so astonishing as it is. Many quotes as well. Anything I'm not doing right is probably my bad, and most of the brilliant settings and story ideas should be credited to the original show creators and production teams.
 
 The music that accompanies the creation of this story is Sting's 1987 song "Englishman in New York," also used in the original show.
 
@@ -3401,7 +3401,7 @@ Dean looks up at the skyscrapers and all those towering buildings around them, t
 
 Brian looks to the Doctor, so serious: "What happened to the other people who travel with you?" Doctor: "Some left me. Some got left behind. And some... not many but... some died.  (off Brian's horrified look) Not them. Not them, Brian. Never them." ending: Doctor: "I know. You both have lives here. Beautiful, messy lives. This is what makes you so fabulously human. You don't want to give them up. I understand." Brian: "Actually, it's you they can't give up, Doctor. And I don't think they should. Go with him. Go save every world you can find. Who else has that chance? Life'll still be here." Doctor: "You could come, Brian." Brian: "Somebody has to water the plants. Just... bring them back safe." (S07E04) (Doctor: "You could bring the plants too, come on, Brian. Tardis needs you." Rory whisper: "He means he needs us, and we need you." Brian: "I'll go packing then.")
 
-## Afterword
+## Epilogue
 
 > (use as epilogue, letter format?, like Amy's letter to the Doctor from the past)
 >
@@ -3413,11 +3413,11 @@ Brian looks to the Doctor, so serious: "What happened to the other people who tr
 
 Dean orders the biggest cheeseburger Josie's Burger has to offer and enjoys every bite slowly and contentedly, knowing Cas is watching his every move. He licks his fingers when he's finished. They share half a plate of large fries, and give off the rest to the eager pigeons wandering around their table the whole time.
 
-They stand in the Bethesda Plaza listening to the busker playing one song after another, until the man packs the guitar and leaves for the day. The place is crowded with people, from those who sit in 
+They stand in the Bethesda Plaza listening to the busker playing one song after another, until the man packs the guitar and leaves for the day. The place is crowded with people, from those who sit in strollers to those in wheelchairs.
 
 They watch ducks swimming under the bridge, and listen to the music playing on the Delacorte Clock and the little bronze animals dancing around the bell.
 
-There is a brief rain when the sun is setting, and they still do not rush their steps.
+There is a brief rain when the sun is setting, and they do not rush their steps.
 
 When they leave Central Park, it's still not dark yet.
 
@@ -3477,11 +3477,11 @@ Sam takes a quick breath in. "How long have you been back, Dean?"
 
 The Deja Vu of asking the same question when he found out Sam didn't spend a whole year in the Cage while he was living with Lisa rushes back to his head.
 
-Dean blinks, "Three weeks. Cas's back for two weeks, give or take."
+Dean blinks. "Three weeks. Cas's back for two weeks, give or take."
 
 "Why didn't you call me?" Sam frowns deeper.
 
-"You got out," Dean nods at their surroundings. And the woman who's now pointedly keeping herself busy outside the door in the small yard. "Last time you got out, you lived with a girl you'd like to marry, and I'm the one pulled you back in. I figure, better not to make the same mistake twice."
+"You got out." Dean nods at their surroundings. And the woman who's now pointedly keeping herself busy outside the door in the small yard. "Last time you got out, you lived with a girl you'd like to marry, and I'm the one pulled you back in. I figure, better not to make the same mistake twice."
 
 Sam is quiet for a long time, then, "Last time I wanted out, I knew you were out there somewhere and I could always call you. This time, for the first time in my life, I have no one. I thought you were dead, Cas too. Dad was gone, Bobby was gone. I don't have anyone." He sniffs slightly. "I'm not really choosing anything, I'm just running away."
 
@@ -3493,7 +3493,7 @@ It feels good.
 
 "I'll let Amelia know." Sam is ready to head out. Dean stops him.
 
-"You don't have to," he says. "You get a nice place, a nice girl. You don't have to give it up, if you don't want to, choosing the 'monster life' over the 'normal life'. In fact, some new friends of ours just made that choice."
+"You don't have to," he offers. "You get a nice place, a nice girl. You don't have to give it up, if you don't want to, choosing the 'monster life' over the 'normal life'. In fact, some new friends of ours just made that choice."
 
 "What about you?" Sam asks.
 
@@ -3599,7 +3599,7 @@ Brian sees Amy and Rory exchange looks, and then with the Doctor.
 
 "But never seeing you again does," Rory answers.
 
-They tell him the last trip, the angels taking Manhattan, the two other brave adventurers they met in the journey, the sacrifices they made for each other, the love that creates the paradox and breaks the spell, saving the world, saving everyone.
+They tell him the last trip, the angels taking Manhattan, the two other brave adventurers they met in the journey, the sacrifices they made for each other, the love that created the paradox and broke the spell, saved the world, saved everyone.
 
 "If they weren't there, I think I'd be the one..." Rory can't finish the sentence, not when his father and his wife look at him like that, with those eyes so pained, so sorrowful. It's like just saying the sentence, saying the word out loud could kill them, or break their hearts.
 
@@ -3611,7 +3611,7 @@ Brian doesn't know if he should feel happy or sad. Maybe both.
 
 He wipes his eyes, finding them wet.
 
-"Home," he repeats, nodding, murmuring, can't thinking of anything else to say.
+"Home," he repeats, nodding, murmuring, can't think of anything else to say.
 
 It feels really nice, so selfishly nice to know they are going to stay now.
 
@@ -3622,6 +3622,8 @@ Stay safe.
 For however long they decide.
 
 Until the next time they leave.
+
+For as long as they want, and as long as they can have.
 
 Brian remembers he forgot to finish watering the plants.
 
@@ -3645,7 +3647,7 @@ The first thing running into her eyes is a tall, red fez. The second thing is th
 
 The Doctor ducks his head, unsure of himself. "Sorry, the clock must be off, Tardis's fault. I was aiming for the year before, actually. It arrives late, it always does that."
 
-Amy bursts intolaughter. "It's a joke, you silly!"
+Amy bursts into laughter. "It's a joke, you silly!"
 
 The Doctor laughs nervously with her. "Ah!"
 
@@ -3689,11 +3691,13 @@ And the new friend knows so much about Time and Space, almost as much as his bro
 
 That is also what the Doctor realizes. This is way before Castiel meets him in New York. Eons before.
 
-They meet when the stars are dying, and when the timeline is crashing.
+<br>
+
+They meet again when the stars are dying, and when the timeline is crashing.
 
 Eternity also has an end, just like the edge of the universe. Where everything is in ruin, and almost every life comes to an end. They run into each other again.
 
-They watch the stars burning out in comfortable, but unspeakable sadness. They both feel it.
+They watch the stars burning out in comfortable but unspeakable sadness. They both feel it.
 
 "How's your human friend?" The Doctor asks him.
 
@@ -3704,6 +3708,8 @@ The Doctor hums quietly. "Will you miss it? This physical, material dimension?"
 "Of course," Castiel answers. "This is the dimension where the humans are born and live, where I meet some of the most brilliant ones, where I meet you, old friend. I will always remember it, long after it stops existing."
 
 "Me, too, old friend. Me, too," says the Doctor.
+
+Both of them are as old as the universe itself now.
 
 <br>
 
@@ -3719,7 +3725,7 @@ Sam's young son, the little Dean, sees the Statue of Liberty on the TV, and ever
 
 "Didn't you and Cas have a really good time in Manhattan?" Sam calls him.
 
-Dean wouldn't forget it for a thousand years. "Yeah, it's like forever ago," he recalls. What he's really thinking is -- yeah, that's the time and place when they get together.
+Dean wouldn't forget it for a thousand years. "Yeah, it's like forever ago," he recalls. What he's really thinking is -- yeah, that was the time and place when they got together.
 
 "Want to visit again?" Sam prompts. "My kid could use a tour guide."
 
@@ -3737,7 +3743,7 @@ Dean and Cas wander off on their own when they are at the foot of the Statue of 
 
 Dean senses Cas stiffens when he looks up at the statue. The official tour guide is going through its history, the year it was built, then gifted and transported. All very scholastic. Dean's attention comes to Cas.
 
-Cas's jaw is set tight, he stares at the Statue of Liberty with fear in his eyes.
+Cas's jaw is set tight. He stares at the Statue of Liberty with fear in his eyes.
 
 For years, Dean hasn't seen Cas afraid of something, let alone shaking with fear.
 
@@ -3767,11 +3773,11 @@ And Dean hears what he doesn't say -- It doesn't matter that she's gone. The fea
 
 Dean pulls Cas close, leaning in, letting him rest on his shoulder. He knows it calms Cas; it works as a charm. And this time is no exception.
 
-Resting his chin on Dean's shoulder, Cas says quietly, "I can still see her. And all the other angels we lost that day. Inias, Hannah, Samandriel... We saved the world, but we couldn't save any of them. I mourn their loss every day."
+Resting his chin on Dean's shoulder, Cas tells him quietly, "I can still see her. And all the other angels we lost that day. Inias, Hannah, Samandriel... We saved the world, but we couldn't save any of them. I mourn their loss every day."
 
 Dean smoothes his back in small circles, rubbing his shoulder blades, soothing him gently. "They're infected. They could have been killed in Purgatory. We did what had to be done. We did our best." *I did my best, for you,* Dean thinks.
 
-"I know," Cas says, "but it's not making things any easier." *And the most difficult part is, I can still see you falling from that building. Coming to Manhattan, seeing the Statue of Liberty, just reminds me again every breathing moment.*
+"I know," Cas says, "but it's not making things any easier." *And the most difficult part is, I can still see you falling from that building, every breathing moment. Coming to Manhattan, seeing the Statue of Liberty, just reminds me again how much pain it is to lose you. It's suffocating, intolerable, too painful.*
 
 "I'm here," Dean hears his unsaid words. "Does it make you feel better?"
 
@@ -3813,7 +3819,7 @@ He turns to see the man buried under a small mountain of bags and dresses.
 
 "With a friend, Charlie, also buying some clothes," Dean answers.
 
-They start chatting, about the past few years, where they've been, what they're busy with, and time passes easily.
+They start chatting, about the past few years, about where they've been, what they're busy with. Time passes easily.
 
 Charlie and Amy emerge from the changing room, chatting heatedly and hugging as they walk toward them.
 
@@ -3837,7 +3843,7 @@ Dean chuckles. "Pretty much."
 
 <br>
 
-(**Words after chapter**: The parts with Brian Williams and the Doctor visiting the Ponds on Christmas are both inspired and heavily tied to the official short videos released by Doctor Who canon. They're too beautiful, too touching, too heartfelt, I couldn't not write them, even just to rewrite the same scene, I'd cry still.)
+(**Words after chapter**: The parts with Brian Williams and the Doctor visiting the Ponds on Christmas are both inspired and heavily tied to the official short videos released by Doctor Who canon. They're too beautiful, too touching, too heartfelt, I couldn't *not* write them, even just to rewrite the same scene, I'd cry still.)
 
 ## Deleted Scenes (Not a Chapter)
 
@@ -3845,7 +3851,7 @@ Dean chuckles. "Pretty much."
 >
 > (After work notes mention: the timeline fits the air date of both shows)
 
-There are too many unused materials that are drafted out for chapters that end up not being included in the final story. But many of them are so much fun that I'd hate to leave them out in the Empty. Mostly witty quips and comments and fun little interactions between our crossover characters. I can't resist compiling them together, just for some amusement.
+There are too many unused materials that are drafted out for chapters that end up not being included in the final story. But many of them are so much fun that I'd hate to leave them out in the void. Mostly witty quips and comments and fun little interactions between our crossover characters. I can't resist compiling them together, just for some amusement.
 
 <br>
 
@@ -3929,7 +3935,7 @@ Dean glances at Cas, looking him in the eyes. Then belatedly realizing they're d
 
 Dean: What do we do, Doc?
 
-The Doctor: Don't call me 'Doc', it's 'Doctor' to you.
+The Doctor: Don't call me "Doc", it's "Doctor" to you.
 
 <br>
 
@@ -3997,7 +4003,7 @@ River: That's Manhattan, alright.
 
 <br>
 
-### Afterword
+### Epilogue
 
 When Amy and Rory talk with Brian:
 
@@ -4012,6 +4018,52 @@ The Doctor: You could bring the plants, too. Come on, Brian. The Tardis needs yo
 Rory: (whispers) He means he needs us, and we need you.
 
 Brian: I'll go packing then.
+
+<br>
+
+## Afterword (Not a Chapter)
+
+> mimic Amy's afterword
+>
+> chapter title
+>
+> timeline
+>
+> fix-it
+>
+> coincidence of "Winchester" close to "Williams"
+>
+> before they go, Rory called River "Melody"
+
+So here we are, dear friends, you and me, on the last page.
+
+This is a story of Dean Winchester and Castiel.
+
+A story of the Doctor and Professor River Song.
+
+And a story of Amelia Pond and Rory Williams.
+
+The story with Weeping Angels in Manhattan may be ending, but this is not where the stories of their lives end.
+
+Because all of them, *all*, are still going to live a long and amazing life.
+
+This is where the tag "fix-it" comes from. I *have to* save Amy and Rory.
+
+As much as I love the grand finale of Amy and Rory in the show -- the teary, weepy scene that always makes me cry, the feeling of completion for two and a half years, the definite knowledge that they'll never come back again, which weighs their exit so tremendously heavily -- I want to save them. Just as much as I want to save Dean and Cas all the time from their tragic stories. I don't care that it rips the theatric significance of their exit, I only want them safe and happy. And going home. There is someone waiting for them at home. If anyone hasn't seen the short storyboard video with Brian waiting for them at home, watering their plants alone, only to be told that his son and daughter-in-law are never going to come home again, you have to watch it, and let it shatter your heart. That is probably the quickest two minutes to be torn apart and cry in the middle of the night.
+
+So here it is, a story in the universe where the Doctor runs into Cas and Dean, where they save the humans and the angels together, where the love between the Doctor and River, Amy and Rory, become so awakening, that Dean and Cas figure out the feelings they've always been carrying around each other and the meaning of it.
+
+I'd like to think that it happens in the same original canon world from both shows. For what's worth, the timeline fits so perfectly from both sides. The Doctor's "The Angels Take Manhattan (S07E05)" happens on September 29, 2012. And the first time we see Dean coming out of Purgatory and going to Sam ("We Need to Talk About Kevin (S08E01)") is October 3, 2012. So it well can be canon divergent from both worlds, happening late September, 2012.
+
+Among other tributes to the original shows, all the chapter titles actually belong to the book that River hasn't written, the story of them. This might as well be the exact book they run into and spoil their future in the story.
+
+There are actually so many coincidental surprise while writing the story, that they look almost like fate. The most significant one being -- It is only when I wrote the scene with Dean and Rory both trapped in Winter Quay did I notice their last names, "Williams" and "Winchester" are alphabetically so close. It works so extremely perfectly for the story setting it actually startled me. That's how I get to place their rooms side by side, it would be so much more inconvenient otherwise. It's almost unsettling, as if both the world in the story and outside are designed and controlled by a higher force.
+
+One last thing, just in case anyone is not as familiar with the Doctor Who story -- in the last chapter before they depart, when the family of Ponds holds hands, Rory calls River "Melody" -- That scene and that term is deliberate, because "Melody" is actually, exactly the real, birth name of River Song, given by Amy. (Not just the fake writer-detective name she used for publishing the book -- but it's also interesting to see her using her real name as fake name.) That is the name that means River is really their daughter, the daughter of Ponds. They are a family.
+
+The theme of "family" is eternal in all the stories. As is "love".
+
+This is another day that love save the world. As it always does.
 
 <br>
 
