@@ -268,6 +268,58 @@ This is the first time the Doctor realizes, he had so many friends before, he ha
 
 <br>
 
+### Amy Pond and Charlie Bradbury
+
+It's a pure coincidence, and a big surprise -- a good surprise.
+
+Dean doesn't usually sit in the waiting seat outside the women's changing room -- he doesn't usually have a lady friend who'd drag him to the department and ask for *his* opinion.
+
+But Charlie Bradbury doesn't fall into the "usual" category.
+
+And they're preparing for a case. So it's technically counting as working.
+
+Dean checks his watch. Charlie has been in there for a million years with about two million pieces of clothes.
+
+He never knows waiting for others to change could be so testing on his patience.
+
+That's when he hears a voice calling "Dean?"
+
+He turns to see the man buried under a small mountain of bags and dresses.
+
+"Rory." Dean recognizes him. "What are you doing here?"
+
+"Amy is buying new clothes," Rory can't vacate his hands, so he nods at the lady's changing room. "Holiday shopping."
+
+"Right," Dean says. He doesn't realize it's the holiday season at all.
+
+"You?" Rory asks, moving closer to him slowly, and leaving the bags on the seat, panting slightly.
+
+"With a friend, Charlie, also buying some clothes," Dean answers.
+
+They start chatting, about the past few years, about where they've been, what they're busy with. Time passes easily.
+
+Charlie and Amy emerge from the changing room, chatting heatedly and hugging as they walk toward them.
+
+Dean raises a questioning eyebrow.
+
+Charlie laughs, introducing them, "Amy, this is my friend Dean. Dean, Amy."
+
+"I didn't know you were here!" Amy rushes to hug Dean, while Rory is waving slightly awkwardly at Charlie, telling her, "I'm Rory."
+
+"I didn't know you two knew each other." Charlie eyes Dean and Amy curiously.
+
+"She's that red-haired friend I told you about, if you still remember," Dean tells Amy. "I told you you'd like her."
+
+"I really do," Amy grins at Charlie, touching her hand fondly.
+
+"You introducing me to all your cool lady friends?" Charlie glances at Dean.
+
+Dean chuckles. "Pretty much."
+
+"Awesome," Charlie beams.
+
+<br>
+
 ### The Doctor and Castiel
 
 The universe is vast. And the timeline for eternity is long.
@@ -389,58 +441,6 @@ They leave Sam a message, and leave the island not long after.
 They can enjoy the rest of the trip elsewhere.
 
 It's going to be a long time until they come back to Manhattan.
-
-<br>
-
-### Amy Pond and Charlie Bradbury
-
-It's a pure coincidence, and a big surprise -- a good surprise.
-
-Dean doesn't usually sit in the waiting seat outside the women's changing room -- he doesn't usually have a lady friend who'd drag him to the department and ask for *his* opinion.
-
-But Charlie Bradbury doesn't fall into the "usual" category.
-
-And they're preparing for a case. So it's technically counting as working.
-
-Dean checks his watch. Charlie has been in there for a million years with about two million pieces of clothes.
-
-He never knows waiting for others to change could be so testing on his patience.
-
-That's when he hears a voice calling "Dean?"
-
-He turns to see the man buried under a small mountain of bags and dresses.
-
-"Rory." Dean recognizes him. "What are you doing here?"
-
-"Amy is buying new clothes," Rory can't vacate his hands, so he nods at the lady's changing room. "Holiday shopping."
-
-"Right," Dean says. He doesn't realize it's the holiday season at all.
-
-"You?" Rory asks, moving closer to him slowly, and leaving the bags on the seat, panting slightly.
-
-"With a friend, Charlie, also buying some clothes," Dean answers.
-
-They start chatting, about the past few years, about where they've been, what they're busy with. Time passes easily.
-
-Charlie and Amy emerge from the changing room, chatting heatedly and hugging as they walk toward them.
-
-Dean raises a questioning eyebrow.
-
-Charlie laughs, introducing them, "Amy, this is my friend Dean. Dean, Amy."
-
-"I didn't know you were here!" Amy rushes to hug Dean, while Rory is waving slightly awkwardly at Charlie, telling her, "I'm Rory."
-
-"I didn't know you two knew each other." Charlie eyes Dean and Amy curiously.
-
-"She's that red-haired friend I told you about, if you still remember," Dean tells Amy. "I told you you'd like her."
-
-"I really do," Amy grins at Charlie, touching her hand fondly.
-
-"You introducing me to all your cool lady friends?" Charlie glances at Dean.
-
-Dean chuckles. "Pretty much."
-
-"Awesome," Charlie beams.
 
 <br>
 
