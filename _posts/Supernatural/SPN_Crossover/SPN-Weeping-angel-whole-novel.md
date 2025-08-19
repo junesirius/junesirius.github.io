@@ -629,7 +629,7 @@ Dean tries to muffle the laugh and sigh that are fighting in his throat. "Yes, w
 
 "Dean, I don't think --"
 
-"Cas." Dean doesn't let him finish, giving him a stern look that means "drop the topic." Cas falls silent. 
+"Cas." Dean doesn't let him finish, giving him a stern look that means "drop the topic." Cas falls silent.
 
 "He made his choice." Dean keeps his voice cold and steady. "For once, I'm respecting that. It's just you and me now."
 
@@ -2415,7 +2415,7 @@ Cas stares at the beautifully lit and decorated interior of the mansion, and all
 
 "It must hurt," the Doctor says quietly, taking her wounded wrist in his hands, handling it extremely gently and carefully.
 
-River looks away. "Yes," she says. "The wrist is pretty bad too." 
+River looks away. "Yes," she says. "The wrist is pretty bad too."
 
 The Doctor just looks at her. And Cas sees -- feels, actually, more than sees -- it pains him. Just like the aching in his own heart now. The feeling of something quietly breaking.
 
