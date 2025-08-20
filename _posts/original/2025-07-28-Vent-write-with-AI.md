@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【心理】Venting
+title: 【心理】Venting about AI in writing
 date: 2025-07-28 01:15
 categories: ["原创"]
 characters: 
-tags: ["心理", "写作", "发泄", "AI"]
+tags: ["心理", "写作", "发泄", "AI", "英文"]
 pov: 第一人称
 origin: 个站
 ---
