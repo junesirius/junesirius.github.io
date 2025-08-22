@@ -252,7 +252,7 @@ Cas提到了是他把soulless Sam从关Michael & Lucifer的Cage里捞上来的�
 
 ### 22.【DW x SPN】S07E03 Amy Pond
 
-需要吸食人类下丘脑的狐妖Amy Pond crossover DW的Amy Pond，于是很容易把DW和SPN融合到一起来了。博士这种外星人对温家兄弟来说也是supernatural吧，他们会擦出什么样的火花呢？一起联手拯救世界才对吧。
+需要吸食人类下丘脑的狐妖Amy Pond crossover DW的Amy Pond，于是很容易把DW和SPN crossover到一起来了。博士这种外星人对温家兄弟来说也是supernatural吧，他们会擦出什么样的火花呢？一起联手拯救世界才对吧。
 
 ### 23.【Cas】S07E17 失忆梗
 
@@ -422,6 +422,8 @@ Dean捡到了一个神灯，擦三下冒出来的神灯精灵穿着件卡其色�
 
 （但是Cas当然会纵容他超过三个愿望的）
 
+最后一个本来可以给自己的愿望留给放卡自由了
+
 ### 38.【destiel】海的女儿
 
 海的女儿AU
@@ -470,7 +472,7 @@ Cas发现怀了之后，Dean：“I didn't know it's possible.”Cas：“Neithe
 
 （~梗201）
 
-### 41.【destiel】唇上的诅咒
+### **41.【destiel】唇上的诅咒《Swear by Castiel's name》**
 
 （梗源童话镇317）
 
@@ -754,7 +756,7 @@ Cas time travels with Dean to when the first pie is made
 
 ~like DW10&Rose in Rome
 
-### 71.【destiel】Phatom Opera AU
+### 71.【destiel】Phantom Opera AU
 
 Cas doesn't want Dean see his true face because he thinks he's ugly
 
@@ -1078,7 +1080,7 @@ Beauty always comes with dark thoughts
 
 invite him over because he said he doesn't have a bed at home, and it's actually only really just a very good night's sleep
 
-### 105.【destiel】Cas is a DW weeping angel【WIP】
+### ~~105.【destiel】Cas is a DW weeping angel【done】~~
 
 《Do Not Blink》/《The Angels Take Manhattan》/《Look At Me》
 
@@ -1332,7 +1334,7 @@ Sam&Cas go on rescue mission, Dean continues looking for Mom, maybe encounters M
 
 ### 140.【destiel】S13E18 why Cas didn't go to Apocalypse world after Dean
 
-Cas knows Dean is in Apocalyase world and rift is still open, why he stays behind for Gabe instead of going there after Dean.
+Cas knows Dean is in Apocalypse world and rift is still open, why he stays behind for Gabe instead of going there after Dean.
 
 Dean accuses him choosing angel over him afterwards, could be a big fight and/or cold war again.
 
@@ -1510,19 +1512,19 @@ What happened to the boys when they have to extend their stay in Sunrise, Wyomin
 
 ### 157.【destiel】S06E22 What if Crowley outsmarts everyone and becomes the new God
 
-(-> prompt 200)
+(≈ prompt 200)
 
 ### 158.【destiel】丁用灵魂碎片把卡拼回来复活
 
 卡为了救大家牺牲了，丁和很多跟他们亲近的重要的人（米、Bobby、Charlie、Jody、Claire、Jack？）一起围起来做仪式，每个人给自己灵魂切片来把卡拼起来复活了。复活的卡没有记忆，要是想起来就会碎掉又会死，而且没法再被拼回来（死神给的tip）。复活的卡又要爱上丁了但是所有人都在拼命阻拦，丁也要为了保护卡疯狂克制。
 
-（详见2024-12-11 梦记；~梗25，->梗201）
+（详见2024-12-11 梦记；≈梗25，≈梗201）
 
 ### 159.【destiel】S07E17 Dean stays to take care of broken!Cas
 
 Instead of Meg staying behind to take care of Cas, Dean stays. Demons and Leviathans will come, more of reason to stay behind for him.
 
-（-> prompt 201）
+（≈ prompt 201）
 
 ### 160.【destiel】S07E10《Blood》
 
@@ -2493,7 +2495,7 @@ they'll figure out the truth later, once safe
 
 they'll need to figure out how to handle Billie&Chuck too, then go back to it
 
-### 253.【destiel】14卡+天使丁
+### **253.【destiel】14卡+天使丁**
 
 14丁卡时间线，卡说过天使都飞走了（所以他失去了所有能量），what if 突然飞来一只同世界线未来的天使，是天使丁，但是失忆，忘记了自己是怎么“变成”天使的，可能觉得自己一直都是天使（其实因为是同时间线，是14丁演化成的）。但是对卡来说但凡有天使来了他就能慢慢恢复，所以能量开始慢慢回来了。然后卡要帮未来丁想起来他发生了什么，要搞明白路西米后来怎么样了，僵尸世界怎么救，14卡怎么治愈，丁卡心理阴影都要很久才能治愈，原时间线14丁在天使丁来的时候去哪了（可以double date式互换？进入天使丁对应的未来卡时间点？或者同时也在）
 
@@ -2823,7 +2825,7 @@ Cas read Dean's memory, but door can be stepped either direction, Dean start rea
 
 ### **268.【destiel】S04E01 Dean lobotomize Cas in Hell during angel rescue**
 
-(inspired by a comment under my tumblr post mentioning Cas 0817 is lobotomized)
+(inspired by a comment under my tumblr post mentioning Cas 0817 is lobotomized) (heavy angst)
 
 start scene as if normal hospital operation scene, Dean enter in Doctor coat, acting operation on patient, they scream, turn out it's lobotomy, Dean enjoys the process and thinks he's doing the right thing (write in a way as if it's just a Doctor AU, but actually canon-divergent; unnoticeably knowing Azazel&Dean interaction, Dean trusts him, Azazel showing him tricks and Dean outskills him, Azazel=father figure)
 
@@ -2926,6 +2928,8 @@ what if by that time Dean/Sam already in heaven, Cas as angel is assisting God!J
 Cas goes to Dean/Sam in heaven about the issue, but this time not like Chuck, they can't kill Jack, he's their son still, no matter what, they need to find a way
 
 there should be a way to build the system without god, or make a balance
+
+(≈)
 
 ### 277.【Jack/Jesse】S05E06 anti-Christ keeps balance with God
 
@@ -3636,5 +3640,7 @@ So Cas breaks Jack's (new God's) rule (he's always the angel that breaks the rul
 In the end it must be how Jack sees the love between them and get changed again, made him feel again. Jack becomes the old Jack.
 
 In between the saving, because Jack would do what he thinks is the right thing to do, and since Cas does break his explicit rule to go down to the Earth, he'd punish Cas by locking him up. So briefly after seeing Cas again, Dean loses him again, has to figure out a way to figure out he's locked down and has to go up there to bust him out of Heaven jail and two of them save Jack together. (in order to go to Heaven, Dean might have to die again. temporary MCD unavoidable, but in the end, after Jack comes back, he can send them both back down to Earth to continue living)
+
+(≈ prompt 276)
 
 ### 328.
