@@ -3623,4 +3623,18 @@ maybe "Wednesday" crossover, similar magic school world setting but dark fantasy
 
 or sort of like what I did with "Life of Blue" where Cas *is* Blue, and now it can be Cas *is* Thursday, he literally *is* a day of the week, just exist *as* the day, can be destiel
 
-### 
+### **327.【destiel】S15E18/20 Jack made deal with Empty to save Cas, destiel save Jack**
+
+Jack had to make a deal with Empty to bring Cas back, because God has no power in Empty. That's why he's not as strong as he should be as God after that, that's why he couldn't and didn't bring Cas to Dean after he saved Cas, even if he knew perfectly well how important Cas is to Dean and vice versa and wouldn't keep Deann miserable for five years alone.
+
+The deal ripped Jack off his feelings and emotions. (Jack hesitated, Empty: "You think your feelings and emotions are more important than Castiel? You can leave him here sleep forever then, keep your little feelings." So Jack did it.)
+
+He's become cold and distant, not evil, just neutral, stop caring, kinda like soulless time. Cas comes back as Angel and has to live in Heaven, because Jack made a new rule, no angel is allowed to go to Earth again, not even Cas is allowed, not even when Cas heard Dean pray to him. Cas tries to tell Jack he has to go, Jack doesn't get touched by feelings or his reasoning, that's when Cas notices Jack is off, the old Jack would understand.
+
+So Cas breaks Jack's (new God's) rule (he's always the angel that breaks the rule, whoever's rule it is, be it Chuck or Jack as God), and sneaks down to Earth to reach out to Dean, let Dean know he's still alive but they have God problem again, but not to kill him, but to save him. Cas asks for Dean's help to save Jack, let him have feeling again, showing him feelings and love.
+
+In the end it must be how Jack sees the love between them and get changed again, made him feel again. Jack becomes the old Jack.
+
+In between the saving, because Jack would do what he thinks is the right thing to do, and since Cas does break his explicit rule to go down to the Earth, he'd punish Cas by locking him up. So briefly after seeing Cas again, Dean loses him again, has to figure out a way to figure out he's locked down and has to go up there to bust him out of Heaven jail and two of them save Jack together. (in order to go to Heaven, Dean might have to die again. temporary MCD unavoidable, but in the end, after Jack comes back, he can send them both back down to Earth to continue living)
+
+### 328.
