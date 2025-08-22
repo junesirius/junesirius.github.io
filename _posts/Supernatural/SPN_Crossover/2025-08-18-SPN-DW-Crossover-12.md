@@ -366,7 +366,7 @@ Both of them are as old as the universe itself now.
 
 <br>
 
-### Castiel and The Statue of Liberty
+### Castiel and Manhattan
 
 They have talked about going back to Manhattan sometime, but for one reason or another, they never did.
 
@@ -400,19 +400,19 @@ Cas's jaw is set tight. He stares at the Statue of Liberty with fear in his eyes
 
 For years, Dean hasn't seen Cas afraid of something, let alone shaking with fear.
 
-He quietly takes Cas away from the crowd and the long waiting lines, leaning on a clean wall in a small corner. The statue is out of sight.
+He quietly guides Cas away from the crowd and the long waiting lines, letting him lean on a clean wall in a small corner. The statue is out of sight.
 
 Cas breathes heavily. Dean holds his arm, watching worriedly.
 
-"What is it, Cas?" He asks, more worried than he has been for years.
+"What is it, Cas?" he asks, more worried than he has been for years.
 
 It can't be that accident in Manhattan with the Weeping Angels or Purgatory infection coming back, biting their ass again, can it?
 
 Cas closes his eyes for a short while, steadying his breath. "Nothing," he says, about to head out.
 
-Dean grabs his arm. "It doesn't look like nothing to me. Is there something wrong with the Liberty? The Weeping Angels are back? The Lady Liberty is going to tear the city apart when no one's watching? What is it?"
+Dean grabs his arm. "It doesn't look like nothing to me. Something wrong with the Liberty? The Weeping Angels are back? The Lady Liberty is going to tear the city apart when no one's watching? What is it?"
 
-"No, nothing like that," Cas says hurriedly. "Nothing wrong with the statue. No Weeping Angels." He bites his lips.
+"No, nothing like that," Cas says hurriedly, flashing him a quick look and darting his eyes away, almost as if ashamed of himself. "Nothing wrong with the statue. No Weeping Angels." He bites his lips.
 
 Dean studies his face. "Something with you then," he concludes.
 
@@ -422,25 +422,29 @@ Cas sighs. "It reminds me of Naomi," he admits under Dean's scanning eyes. "They
 
 "Yes," Cas says. "Yes, she did."
 
-And Dean hears what he doesn't say -- It doesn't matter that she's gone. The fear is still there. Just a glimpse of her face, Cas would be immobilized by the fear from memory alone. He doesn't want to think about what horrifying things she'd done to him. Killing her seemed to be too easy for her.
+And Dean hears what he doesn't say -- It doesn't matter that she's gone. The fear is still there. Just a glimpse of her face, Cas would be immobilized by the fear from memory alone. Dean doesn't want to think about what horrifying things she'd done to him. Killing her seemed to be too easy for her.
 
 Dean pulls Cas close, leaning in, letting him rest on his shoulder. He knows it calms Cas; it works as a charm. And this time is no exception.
 
 Resting his chin on Dean's shoulder, Cas tells him quietly, "I can still see her. And all the other angels we lost that day. Inias, Hannah, Samandriel... We saved the world, but we couldn't save any of them. I mourn their loss every day."
 
-Dean smoothes his back in small circles, rubbing his shoulder blades, soothing him gently. "They're infected. They could have been killed in Purgatory. We did what had to be done. We did our best." *I did my best, for you,* Dean thinks.
+Dean smoothes his back in small circles, rubbing his shoulder blades, soothing him gently. "They were infected. They could have been killed in Purgatory. We did what had to be done. We did our best." *I did my best, for you,* Dean thinks.
 
-"I know," Cas says, "but it's not making things any easier." *And the most difficult part is, I can still see you falling from that building, every breathing moment. Coming to Manhattan, seeing the Statue of Liberty, just reminds me again how much pain it is to lose you. It's suffocating, intolerable, too painful.*
+"I know," Cas sighs heavily, "but it's not making things any easier." *And the most difficult part is, I can still see you falling from that building, every breathing moment. Coming to Manhattan, seeing the Statue of Liberty, just reminds me again how much pain it is to lose you. It's suffocating, intolerable, too painful.*
 
-"I'm here," Dean hears his unsaid words. "Does it make you feel better?"
+"I'm here," Dean hears his unsaid words, and reassures him. "Does it make you feel better?"
 
 "Yes, so much." Cas nods, closing his eyes, feeling the warmth of their embrace. Dean breathes him in as well.
 
-They leave Sam a message, and leave the island not long after.
+<br>
 
-They can enjoy the rest of the trip elsewhere.
+They tell Sam they have to leave. Dean buys his little pouty nephew a small soft plushie of the Chrysler Building as an apology gift, and the kid loves it profoundly.
 
-It's going to be a long time until they come back to Manhattan.
+They leave Manhattan, then they leave the whole of New York.
+
+They spend the rest of their vacation in Santa Monica instead, dipping their toes in the salty, wet sand.
+
+Dean makes sure they stay away from Manhattan for a long time.
 
 <br>
 
