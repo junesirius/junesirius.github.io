@@ -484,6 +484,20 @@ Cas：和失去你相比，失去我的grace不算什么。
 
 （唇是怎么被诅咒的：Dean因为做错了一件什么事或者被迫做一个坏的选择而心怀愧疚，被质疑是否还有爱的能力，如果有的话就以他们的名字发誓。Dean：I swear on Castiel's name.）
 
+could be Cas being the one cursed (Killian=Cas, Emma=Dean), Dean's been wanting to kiss him but doesn't allow himself to. Cas is cursed by witch that his lips will kill Dean, Cas stays away, but also doesn't think it's a problem, Dean won't kiss him anyway. Dean gets annoyed by Cas staying away, cornered him, Cas confessed, Dean fluttered/more annoyed. try to fix it but can't find solution yet, both get pushed by bad witch to drown Cas, Dean doesn't hesitate to kiss Cas to bring him back, choose Cas over himself
+
+who cursed them: could be s4 Alastair or S5 Lucifer when he's too weak, both doesn't have enough power to get rid of Cas so doesn't mind to use nasty trick to let Dean takes out Cas; s6 Raphael when fighting with Cas, play dirty, want to take out the rival for Heaven civil war; s8 Metatron right before canon taking Cas's grace away, just nasty angel wanting more drama story to watch, fit into s9 beginning when Cas become human; s10 Rowena wants to take down Cas because want to enjoy the show between them; s15 Chuck because he wants enjoy the show between them
+
+Outline:
+
+S8E21 timeline canon divergent, they find Metatron, ask for help. Metatron doesn't care about trials or Heaven/Hell, refuses to help. Instead, he's read all spn books by Chuck "Carver Edlund" and intrigued by destiel. He tricks Dean into saying he swears on Castiel's name (do you still believe in love, then swear on the person you love the most to prove you still know what love is, Dean's threatened bc desperate to save Sam? want to swear on Sam but Metatron points out he's lying to himself bc that's responsibility), curses Dean's lips just to see a good story, and threatens Dean if he doesn't kiss Cas, Sam dies; if he does, Cas loses his grace; and the curse can't be reversed or interfered by angel power, or Dean dies. 
+
+Dean's devastated, more repressed to keep himself away from Cas, disguise as anger on Cas even after Cas comes back to bunker after loses angel tablet (gut open by Naomi/Crowley), Cas gets pushed away by Dean's pride and anger, but Dean regrets immediately when Cas's almost pushed to leave, Dean apologizes and goes soft and asks Cas to stay, confesses the curse. they'll research on reversing the curse but lower priority than finding ways to save Sam, Cas agrees to help, but also very hesitantly express he's fine to lose his power if it saves Sam, Dean refuses, Cas mistakes as Dean doesn't want them kiss, Dean knows he misunderstand but can't correct him, more torn apart. both self-torturing and painfully mistaken
+
+Metatron annoyed at their slow pace, push them, drown Dean, Cas is forced to make choice, he kisses Dean to save him, loses his power to Metatron. Dean wakes up, more guilty and furious, "What have you don", finds Cas human now, promise they'll figure out how to fix him, but they'll stop Metatron and save Sam first
+
+"Do you really think I'll let you die? I'll choose myself over you?" "I wasn't sure." "Now you do. Comparing to losing you, the pain of losing my grace is negligible"
+
 ### 42.【destiel/Cas】S12E15-19 发生了什么
 
 S12E15结尾Cas决定回天堂了，Dean不管怎么打电话都打不通全自动转入语音信箱，S12E19开头突然重新出现在bunker偷colt准备执行Joshua的计划去杀Kelly，这期间在天堂发生了什么？他回天堂一定不会受到什么好眼色看。会一声不响回到自己那间破旧的小屋吗，只有一张单人床和乱糟糟的被褥？但是就算被别的天使羞辱也一心想着只要自己这样容忍下来Dean就不用被迫做出艰难选择而坚持下来了。
