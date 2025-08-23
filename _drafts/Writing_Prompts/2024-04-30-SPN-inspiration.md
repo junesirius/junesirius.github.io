@@ -472,7 +472,7 @@ Cas发现怀了之后，Dean：“I didn't know it's possible.”Cas：“Neithe
 
 （~梗201）
 
-### **41.【destiel】唇上的诅咒《Swear by Castiel's name》**
+### **41.【destiel】唇上的诅咒《Swear on Castiel's name》**【WIP】
 
 （梗源童话镇317）
 
@@ -482,7 +482,7 @@ Dean的唇被上了魔法诅咒（多半是Rowena干的），亲吻就会让Cas�
 
 Cas：和失去你相比，失去我的grace不算什么。
 
-（唇是怎么被诅咒的：Dean因为做错了一件什么事或者被迫做一个坏的选择而心怀愧疚，被质疑是否还有爱的能力，如果有的话就以他们的名字发誓。Dean：I swear by Castiel's name.）
+（唇是怎么被诅咒的：Dean因为做错了一件什么事或者被迫做一个坏的选择而心怀愧疚，被质疑是否还有爱的能力，如果有的话就以他们的名字发誓。Dean：I swear on Castiel's name.）
 
 ### 42.【destiel/Cas】S12E15-19 发生了什么
 
@@ -2501,6 +2501,8 @@ they'll need to figure out how to handle Billie&Chuck too, then go back to it
 
 similar setting but different story：飞来的天使是S4/5时期的卡，卡帮自己？（可以用失忆解决时间线paradox问题）
 
+如果天使丁是来自别的AU世界，为什么天使丁飞到这个世界了：因为他原本世界的卡死了
+
 （心理阴影治愈部分灵感来自北麻《Into the Fire》）
 
 ### 254.【Benny&Garth】S15E09 where is Benny
@@ -2929,7 +2931,7 @@ Cas goes to Dean/Sam in heaven about the issue, but this time not like Chuck, th
 
 there should be a way to build the system without god, or make a balance
 
-(≈)
+(≈prompt 327)
 
 ### 277.【Jack/Jesse】S05E06 anti-Christ keeps balance with God
 
