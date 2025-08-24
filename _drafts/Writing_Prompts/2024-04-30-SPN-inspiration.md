@@ -3689,4 +3689,16 @@ somewhat like high school/teen/campus romance
 
 (≈ prompt 326)
 
-### 331.
+### 331.【Crowley】S08E23 human!Crowley
+
+what if they succeed in converting Crowley into a human
+
+maybe not as third trial, now that they learn this knowledge, they can convert any demon to human (why didn't they ever do it again since S8? if Sam did it again he'd die again?), so they changed Crowley
+
+demon living as a human using the same vessel is similar to human's, but also weird, bc demon used to be human before their death, they'd have memory of what's it like to be human and have a body of their own, and now it's a different body, might feel jarring. so it might take Crowley a while to readjust to his vessel/body.
+
+### 332.【Jack】S08E22 Nephilim can see angel's halo
+
+the Nephilim in S08E22 that Cas has to kill as 1st angel tablet trial tells them she can see their halos, she knows what they are. Which means Jack can see angels' halos too, which means every time Jack looks at Cas or Gabe, he'd see their halos. The first time Jack meets Cas, he'd see his halo and knows immediately (before Dean introduce them) that this is the angel the Winchesters trust to bring to bunker, so he already knows he's Cas. Later when they run into other angels/Lucifer/Michael, he knows they're angels too immediately. just part of his ability
+
+### 333.
