@@ -179,6 +179,8 @@ Sam thinks about it for a second. "I don't know, Dean, I mean, we got some big g
 
 #### Banner
 
+![](https://v5.airtableusercontent.com/v3/u/44/44/1756008000000/ksAodwfRM-odR1K68my7xw/0rXGG4ST_pcHO8ujZgj9eVOWAJ6jpkAfmuXfq17TS5mvIp9h4XG3K4RCDJqvKUdIOuIYvGxE-B488RW8UsfpqGWU2EpEzsZX0hIcOh1-u_NJQsxD-1bDccc2F16nXknyxRec-H2fCckmAq5KWRMCYlReGMJ6Pg13deT5zdxG4aU/mqJhLJbrt_W5IfHqLAfNsjDIHFq-rn1n-WaADRazsdw)
+
 #### Art
 
 ### Editing Notes
