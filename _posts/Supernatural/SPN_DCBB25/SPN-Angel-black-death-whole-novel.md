@@ -13,6 +13,8 @@ published: false
 
 (**Tags:** canon divergent, post-S11 finale, minus BMOL and Mary, S12 rewrite, graphic depictions of violence, temporary main character death, main character near death experience, graphic depictions of disease symptoms, soul-grace dance, love is the best cure, Team Free-Will, profound bond, Eventual Happy Ending)
 
+(**Warnings:** Graphic Depictions of Violence, Temporary Main Character Death, Graphic Depictions of Disease Symptoms)
+
 (**Rating**: Teen and up (for violence))
 
 [TOC]
@@ -120,6 +122,58 @@ Cas lies on the bunker bed, bloody and dying. Dark spots and sick symptoms are s
 ### Posting
 
 #### Posting Summary
+
+Right after the Darkness leaves, when they think the world is finally at peace, angels start dying massively from an unprecedented, deadly, and contagious disease, and Heaven is crumbling down, endangering the Earth and the whole world *again*. The solution they find is "the Brightest Light",  which leads to their worst and only plan so far -- reaching out to Michael and Lucifer for help.
+
+What could possibly go wrong?
+
+(Or, in which Castiel is in danger all the time, and Dean doesn't hesitate to save him, even when choices are difficult.)
+
+#### Promo Excerpt
+
+(300-500 words)
+
+"So the only option is just this --"
+
+"-- the brightest of all light." Cas finishes his sentence. "But what does that mean? Who has -- or, what *is* -- the brightest light?"
+
+Realization hits all three of them at the same time. Though it comes with different names.
+
+Sam stuns and breathes, "Lucifer."
+
+At the very same moment, Castiel says, "Michael."
+
+Dean blinks once, then goes, "Cas."
+
+Sam turns to Cas, "What?"
+
+Dean eyes Sam, "Really?"
+
+Cas looks at Dean, "Yes?"
+
+Dean stutters, "No, not calling you. Just thought you get pretty bright light, buddy, so bright it almost burned my eyes off, like, yesterday. Pretty sure it's the brightest *I*'ve ever seen."
+
+Castiel lowers his head sheepishly. "I'm flattered, Dean. If it's true, I have no problem giving away any and all of the light I have to save the angels. But sadly it is not, I'm hardly bright at all from a normal angel's standard right now, given what happened recently."
+
+Dean can't help breathing out a short relieved breath, not sure if he should feel glad or sorry for it. He murmurs a quick "Sorry" under his breath.
+
+Sam is still staring at Cas. "Michael?" his tone incredulous.
+
+Cas turns to him to answer, "Yes, as far as I know, Michael is the first archangel God created, the strongest and the most powerful among all angels and archangels; it wouldn't be a surprise if he is also the brightest."
+
+Sam nods slightly. "Doesn't Lucifer also have a name called 'Morningstar'? I thought before the Fall, he was believed to be the brightest by many, according to the lore. I mean, isn't that why Michael and Lucifer fight in the first place?"
+
+"Jesus, when can we ever break free from these two bastards?" Dean whines loudly before Cas can answer, then asks. "Say we have two candidates, what's next?"
+
+"We need them to, uhh -- give away their light willingly."
+
+Dean steps away from the armchair slowly to lean his hip on the table. "Wait, so, let me get this straight, the solution is to let Michael *or* Lucifer to -- what? Willingly sacrifice themselves to save all angels and humans? You ever met those two bastards? Don't think it's gonna happen till the end of the world. They might as well *want* the world to end and all angels dead!"
+
+Sam thinks about it for a second. "I don't know, Dean, I mean, we got some big guys talking to us, and persuaded them to do the right thing. I'm talking about God himself, and Devil, and Darkness, and even Death -- and most of the time, they ended up listening to us."
+
+"I actually find it rather miraculous," comments Cas.
+
+"We might as well put up a sign in front of the bunker: 'Celestial family drama counseling office', small print: 'For free once a year, if it doesn't work, feel free to end the world'. Nice plan, Dr. Phil." Dean waves his hands in the air, gesturing the imaginary signs.
 
 ### Arts
 
@@ -913,25 +967,25 @@ So he keeps going. The books piling high from his left side get moved to his rig
 
 By the time he clears out all the books piled on his left side, Dean can barely recognize the word "angel". His brain has already rewired the meaning of that word into -- "Cas".
 
-Right around the time when Dean wonders if he can sneak out of the room without the rest two of them noticing, Sam shouts out his eureka, "I find something! Hmm, maybe. I think."
+Right around the time when Dean wonders if he can sneak out of the room without the other two noticing, Sam shouts out his eureka, "I find something! Hmm, maybe. I think."
 
-"Aren't you a scholarship boy?" Dean gratefully lays down the book in his hands that must have more than a thousand pages with packed tiny fonts without any picture, and gets up promptly. "What do you get?"
+"Aren't you a scholarship boy?" Dean gratefully lays down the book in his hands that must have more than a thousand pages with packed tiny fonts without any pictures, and gets up promptly. "What do you get?"
 
 Dean and Cas gather around him, each taking a side of the chair and leaning on the armrest over Sam's shoulder.
 
-Sam fingers the line he's reading. It's Enochian. Apparently Sam must have learnt to read Enochian some time ago secretly and Dean is the only one in the room blinking blindly at it right now.
+Sam fingers the line he's reading. It's Enochian. Apparently, Sam must have learnt to read Enochian some time ago secretly and Dean is the only one in the room blinking blindly at it right now.
 
 Cas translates for him: "*The brightest of all light can purify darkness.*"
 
-Sam points at a short line of hand-written notes in the margin right by the Enochian, "I'm actually reading this note."
+Sam points at a short line of handwritten notes in the margin right by the Enochian, "I'm actually reading this note."
 
 Dean leans closer. "'*Darkness cannot drive out darkness, only light can do that.*' Why does that sound so familiar?"
 
 Sam answers immediately, "Martin Luther King Jr."
 
-"And that's connected to our problem how?" Dean frowns, letting go for once to not mock at Sam's obsession with these historical figures that he can never understand.
+"And that's connected to our problem how?" Dean frowns, letting go for once to not mock Sam's obsession with these historical figures that he can never understand.
 
-"I'm thinking," Sam grooms through his thoughts with waving hands, "if that Angel Black Death plague is a symptom when angels get in too close contact with Darkness, and angels' true forms are like flowing lights, then it's practically *literally* a metaphor to say 'Light is getting consumed by the Darkness'. With the opposite of light -- the absence of light -- in their system, angels can't heal, that's why they're dying, and eventually all lights get consumed and they end up dead. It sort of makes sense."
+"I'm thinking," Sam grooms through his thoughts with waving hands, "if that Angel Black Death plague is a symptom when angels get in too close contact with Darkness, and angels' true forms are like flowing lights, then it's practically *literally* a metaphor to say 'Light is getting consumed by the Darkness'. With the opposite of light -- the absence of light -- in their system, angels can't heal; that's why they're dying, and eventually all lights get consumed and they end up dead. It sort of makes sense."
 
 "And so the cure is... giving them more light?" Dean tries to catch up, connecting the dots.
 
@@ -961,17 +1015,17 @@ Dean can't help breathing out a short relieved breath, not sure if he should fee
 
 Sam is still staring at Cas. "Michael?" his tone incredulous.
 
-Cas turns to him to answer, "Yes, as far as I know, Michael is the first archangel God created, the strongest and the most powerful among all angels and archangels, it wouldn't be a surprise if he is also the brightest."
+Cas turns to him to answer, "Yes, as far as I know, Michael is the first archangel God created, the strongest and the most powerful among all angels and archangels; it wouldn't be a surprise if he is also the brightest."
 
-Sam nods slightly but still not fully convinced. "Doesn't Lucifer also have a name called 'Morningstar'? I thought before the Fall, he was believed to be the brightest by many according to the lore. I mean, isn't that why Michael and Lucifer fight in the first place? Fighting for the title of 'brightest' or 'God's favorite' or something like that, it's like Heaven's version of Golden Apple Contest, and Apocalypse is exactly like Trojan War. Not to mention he *did* ward you off when Amara was in Heaven last time."
+Sam nods slightly but is still not fully convinced. "Doesn't Lucifer also have a name called 'Morningstar'? I thought before the Fall, he was believed to be the brightest by many, according to the lore. I mean, isn't that why Michael and Lucifer fight in the first place? Fighting for the title of 'brightest' or 'God's favorite' or something like that, it's like Heaven's version of the Golden Apple Contest, and Apocalypse is exactly like the Trojan War. Not to mention he *did* ward you off when Amara was in Heaven last time."
 
-"Jesus, when can we ever break free from these two bastards," Dean whines loudly before Cas can answer, then asks. "Say we have two candidates, what's next?"
+"Jesus, when can we ever break free from these two bastards?" Dean whines loudly before Cas can answer, then asks. "Say we have two candidates, what's next?"
 
-"We need them to, uhh --" Sam skims through the small texts below the Enochian line quickly -- luckily the rest is in English. He scans fast for the next few lines, his brows raising higher as he reads if it's even possible. "Huh -- give away their light willingly. The cost of purification can take away as much as all the light from the source. And only a determined mind can last long enough to not disrupt the purification process before complete, or all is wasted."
+"We need them to, uhh --" Sam skims through the small texts below the Enochian line quickly -- luckily, the rest is in English. He scans fast for the next few lines, his brows raising higher as he reads if it's even possible. "Huh -- give away their light willingly. The cost of purification can take away as much as all the light from the source. And only a determined mind can last long enough to not disrupt the purification process before complete, or all is wasted."
 
-Dean steps away from the armchair slowly to lean his hip on the table. "Wait so, let me get this straight, the solution is to let Michael *or* Lucifer to -- what? Willingly sacrifice themselves to save all angels and humans? You ever met those two bastards? Don't think it's gonna happen till the end of the world. They might as well *want* the world end and all angels dead!"
+Dean steps away from the armchair slowly to lean his hip on the table. "Wait, so, let me get this straight, the solution is to let Michael *or* Lucifer to -- what? Willingly sacrifice themselves to save all angels and humans? You ever met those two bastards? Don't think it's gonna happen till the end of the world. They might as well *want* the world to end and all angels dead!"
 
-Sam thinks about it for a second. "I don't know, Dean, I mean, we got some big guys talking to us, and persuaded them to do the right thing. I'm talking about God himself, and Devil, and Darkness, and even Death -- and most of the times, they ended up listening to us."
+Sam thinks about it for a second. "I don't know, Dean, I mean, we got some big guys talking to us, and persuaded them to do the right thing. I'm talking about God himself, and Devil, and Darkness, and even Death -- and most of the time, they ended up listening to us."
 
 "I actually find it rather miraculous," comments Cas.
 
@@ -979,9 +1033,9 @@ Sam thinks about it for a second. "I don't know, Dean, I mean, we got some big g
 
 "You get a better plan?" Sam raises his brows.
 
-Dean stammers, turning to Cas for support, and in return the angel only gestures to Sam, very clearly showing the sign of "You know Sam is right" without actually saying it.
+Dean stammers, turning to Cas for support, and in return, the angel only gestures to Sam, very clearly showing the sign of "You know Sam is right" without actually saying it.
 
-Dean sighs, annoyed but submissive, "I have a bad feeling about this. When can we get out of this we'll-end-the-world-or-the-world-will-end crap? Shit just never stop hitting fans!"
+Dean sighs, annoyed but submissive, "I have a bad feeling about this. When can we get out of this we'll-end-the-world-or-the-world-will-end crap? Shit just never stops hitting fans!"
 
 Cas gives him an upset smile.
 
