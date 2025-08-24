@@ -472,7 +472,7 @@ Cas发现怀了之后，Dean：“I didn't know it's possible.”Cas：“Neithe
 
 （~梗201）
 
-### **41.【destiel】唇上的诅咒《Swear on Castiel's name》**【WIP】
+### **41.【destiel】唇上的诅咒《I Swear on Castiel's name》**【WIP】
 
 （梗源童话镇317）
 
@@ -3643,6 +3643,8 @@ maybe "Wednesday" crossover, similar magic school world setting but dark fantasy
 
 or sort of like what I did with "Life of Blue" where Cas *is* Blue, and now it can be Cas *is* Thursday, he literally *is* a day of the week, just exist *as* the day, can be destiel
 
+(≈ prompt 330)
+
 ### **327.【destiel】S15E18/20 Jack made deal with Empty to save Cas, destiel save Jack**
 
 Jack had to make a deal with Empty to bring Cas back, because God has no power in Empty. That's why he's not as strong as he should be as God after that, that's why he couldn't and didn't bring Cas to Dean after he saved Cas, even if he knew perfectly well how important Cas is to Dean and vice versa and wouldn't keep Deann miserable for five years alone.
@@ -3659,4 +3661,32 @@ In between the saving, because Jack would do what he thinks is the right thing t
 
 (≈ prompt 276)
 
-### 328.
+### 328.【destiel】S04E02 "I dragged you out of Hell. I can throw you back in."
+
+S4 timeline, when Dean is being too defiant, Heaven orders Cas to throw Dean back in to Hell, just to torture him more, to teach him lessons, to force him to listen to Heaven and be a good vessel
+
+Cas can't do it.
+
+so he really can't "throw him back in" even though he threatened Dean with that. It's a total bluff
+
+### 329.【all】S01E01 first version pilot AU
+
+in EK's first version S01E01 pilot draft (see some notes [here](https://junesirius.github.io/2025/08/01/SPN-Earliest-draft-of-Pivot)), it's so much darker than canon pilot, where Sam doesn't grow in hunter life, Dean only hunts last two years, Mary died in a car accident (demon involved) when they're 9 and 13, John ditched them completely to hunt the demon, Sam/Dean don't grow in hunter life
+
+continue rewrite the canon from there
+
+### 330.【destiel】fantasy AU: normal human Dean gets admitted into magic school, roommate angel Cas
+
+original prompt: see Constantine prompt 9
+
+fantasy world AU where magic and magical creatures are real
+
+Dean is a normal human being without any special power, but gets admitted into the magic creature school, his roommate is angel Cas. Dean thinks the school made mistake to admit him, all other classmates are like centaurs, witches, Cthulhu, etc.
+
+Dean wants to leave school but something happened, Cas needs his help or something, Dean ends up staying to help him, and when he's given the option to leave again, he decides to stay. He starts learning magic classes, difficult, but Cas helps him.
+
+somewhat like high school/teen/campus romance
+
+(≈ prompt 326)
+
+### 331.
