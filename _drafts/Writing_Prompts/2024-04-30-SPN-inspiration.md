@@ -540,7 +540,9 @@ Dean的“you're dead to me”，可以真正地杀死Cas。
 
 该隐之印让Cas发疯，Dean不得不把他关到Ma'lak Box里。
 
-想写Cas发疯的时候发生了什么，可以用到S10E22上一次Dean有该隐之印的时候暴揍Dean的那一顿作为参考，他会黑化失控，但是会做到什么地步。会家暴Dean，这是肯定要有的，也许差点杀掉了他。但是最后是怎么被连哄带劝地关进Ma'lak Box的。
+想写Cas发疯的时候发生了什么，可以用到S10E22上一次Dean有该隐之印的时候暴揍Cas的那一顿作为参考，Cas会黑化失控，但是会做到什么地步。会家暴Dean，这是肯定要有的，也许差点杀掉了他。但是最后是怎么被连哄带劝地关进Ma'lak Box的。
+
+（ref: prompt 338）
 
 ### 49.【destiel】《I'm Sorry》的后续
 
@@ -3515,13 +3517,13 @@ Cas would have suicidal thoughts, wanting to be with Dean earlier. Dean would be
 
 (≈ prompt 133.5)
 
-### 319.【Dean】Rocky's bar, Dean's dream come true
+### 319.【Dean】S14E10 Rocky's bar, Dean's dream come true
 
 Dean's real happiness, one thing he always wanted to do and wants nothing more, is to have a shabby bar of his own and serves and makes drinks with a hot waitress like Pamela, and kill vampires and hunt when need to (when they come to the bar and look for trouble)
 
 There must be a version of universe out there that Dean's living his dream life, actually for real having this bar. He'd be like new Ellen/Jo, Rocky's bar like the new Roadhouse, hunter's bar and info center
 
-Cas could stay with him, serving in the bar
+Cas could stay with him, serving in the bar (so could be destiel too)
 
 ### 320.【all】Death reaps God
 
@@ -3701,4 +3703,56 @@ demon living as a human using the same vessel is similar to human's, but also we
 
 the Nephilim in S08E22 that Cas has to kill as 1st angel tablet trial tells them she can see their halos, she knows what they are. Which means Jack can see angels' halos too, which means every time Jack looks at Cas or Gabe, he'd see their halos. The first time Jack meets Cas, he'd see his halo and knows immediately (before Dean introduce them) that this is the angel the Winchesters trust to bring to bunker, so he already knows he's Cas. Later when they run into other angels/Lucifer/Michael, he knows they're angels too immediately. just part of his ability
 
-### 333.
+### 333.【Mick Davies】S8 what if BMOL arrived already and Mick is the one taking the trials
+
+What if BMOL already arrived at the beginning of S8 and they work with angel/demon tablets and Heaven/Hell trials, Mick Davies is converted by the Winchesters and so happened to be the one goes through the trials to shut the Hell gate and dies. The Winchesters just need to support him, and at the end of all events, mourn him, but the Hell is shut, no more big bad after this. World-ending crisis solved, TFW go home.
+
+(It feels almost always, their biggest challenge and dilemma is always the sacrifice of the Winchesters (and Castiel), and they always struggle about sacrifice and death decisions. What if it doesn't have to be their burden, it can be shared and taken by others (sorry Mick), the show might should be renamed to "Mick Davies" instead of "Winchesters", but at least for once, they get to solve their problem and finish what they wanted, and world in peace, no more monsters and demons, and that's exactly what everyone hoped for. For once, they get to live the life and enjoy the world that others sacrifice to build for them. In this story, they are not the main focus or hero, they're the supporters, the side-kicks, Mick Davies is the hero. But Mick needs them to be there for him to make up his mind, to rebel BMOL, to have his own free will to sacrifice for the world (and for Dean). Might end up become a parallel version of Cas again.)
+
+### 334.【all/destiel】S08E23 they closed Hell but realize Hell has a reason to exist
+
+(inspired by prompt 333)
+
+What if, say they get what they wanted, Sam goes through all three trials and doesn't die (maybe even purified of his demon blood, become fully normal human for the first time since 6-month-old), Hell gate is closed once and for all (except for Crowley), but they realize it's not all-good that no more demon on Earth. Just like when S12 it's breaking the balance to wipe all the monsters from Earth, Hell needs to exist to bring the balance for Heaven.
+
+When Hell is closed and no more demons on Earth, they may initially think everything is good and quiet and safe and happy. But soon something happened to angels, some consequence happening to angels due to the imbalance, they realize they *need* Hell to exist, they *need* the demons to run around the Earth and they *need* the hunting life to hunt the demons (but not wipe them out clean). Maybe angels become the big bad guys now, half the angels turn evil and become the new demons, and even more difficult to handle than the original demons. They'd rather have demons around and angels stay angels. (That's the real reason why Chuck damn 1/3 of the angels to Hell with Lucifer, they need the 2:1 ratio balance; and with Hell closed, half the remaining angels fall and transform, making Heaven/Hell 1:1 ratio, it's going to be new Apocalypse but with basically all angels (Apocalypse but Civil War))
+
+So they need to work with Crowley (and a few angels) to reopen the Hell gate. And Dean never thinks he'd do something like this.
+
+What happened to Cas during all these? Remain angel? Or overpowered by the natural order, affected by the transform, and become one of the fallen angel and later demon?
+
+They have to save Heaven/Hell/Earth, and they have to save Cas.
+
+### 335.【destiel】Cas is fallen all the way to Hell and become demon!Cas
+
+(inspired by prompt 334)
+
+maybe because of the S04E01 siege when saving Dean, or other times he has to go to Hell, Cas is affected by something in the Hell, and "all that has been to Hell remains in Hell", he becomes unclean, and his grace fails bit by bit (or quickly), and eventually showing demon signs, demon eyes, demon wings, and ultimately turn into a black-eyed demon.
+
+They panic, notice signs and doesn't know what to do. Or could fast-forward/jump start, directly start the story with Cas being a demon, trace back to figure out why or how, and the transformation process that he undertakes alone. Painful, lonely, more self-loath, self-punishment behavior.
+
+But never evil, he's basically still Cas, kinda like Crowley, good-hearted, actually doesn't have much change all things considered, except for the black eyes. At most a bit more mischief and very slightly moral ambiguous. (Meg is a decent, good-hearted demon too later. Kinda like later season Meg.) He even still has wings, or even fixed his broken wings (if it's post-S8 divergent), but he knows the white feathers are black now. He's utterly disgusted by his own wings, his own everything. Might even has some suicidal attempt, but stopped by Dean at last moment, or those attempts fail to kill him. He has to continue exist as demon.
+
+(somewhat like Ma'lak Box MoC!Cas? → prompt 48)
+
+Maybe the "not evil" part is only the beginning, when Cas still can have enough self-control, have consciousness, have good-heart, but it's a losing battle. The change is still happening underway, making his heart more black, hard, cold-blooded, blood-thirsty, brutal, cruel, by each day. They notice it, try hard to keep Cas on human/angel good side, reason with him to see the good choice, be good, be kind. Because if Cas loses it, he'd fully, completely, irreversibly become a demon. Maybe they find some solution, but it's like newly-turned vampire/werewolf reverse spell, it would only work if he doesn't cross some last line. Cas is losing control and painful, and Dean/everyone is trying their best to help him.
+
+And maybe Cas still loses it, or something really bad happened. Maybe he attacks Dean with his demon-controlled darkened mind, remembering the harm and pain Dean does to him. Cas accuses Dean, Dean is too guilty to resist, and Cas (accidentally or forcefully?) kills Dean (≈ "Into the Fire" MoC!Dean, kills Cas when controlled, heavy angst). Cas comes back to himself briefly and pains too much, and turns completely to a demon in his heartbroken moment.
+
+have to figure out a way to turn Cas back and save Dean again, maybe Cas doesn't care anything anymore and goes to Heaven to find Dean, which should burn him alive and kill him (which he doesn't mind and thinks he actually deserves it), which end up purifying him and cure him. And the solution is basically because of the love he has for Dean is too strong, demonization process is stripping out the emotions, but love is not an emotion, not just a thread of feeling, it's everything, it's integrated into him, so strong and focused and pure that it becomes the spark that weave the rest of his consciousness back and gets rid of the demonness. So it's not Heaven that purifies the demon, it's seeing Dean when he's in Heaven and the willingness to self-sacrifice for him that heals him.
+
+The two of them goes back to Earth together again. HE.
+
+### 336.【Crowley】good souls go to Heaven, good demons too
+
+(inspired by 335)
+
+good souls belong to Heaven, and self-sacrifice is considered good, so after Crowley and Meg self-sacrifice (S08E17, S12E23), and since demons are basically still souls (as established to be similar to ghosts, can be killed by burning bones), their once corrupted souls are complete and good again, and allowed passageway to Heaven.
+
+So after S08E17 Meg goes to Heaven, after S12E23 Crowley is also in Heaven.
+
+They'll meet in Heaven again (when?), Dean/Cas/Jack in Heaven so many times, they might run into them. And if it's during the time when Heaven has some trouble, they'd fight alongside again. Or when Heaven crumbles in later seasons, losing power, they are dropped down to Earth just like a normal human soul (previously in their Heaven small separated room formed by their happy memories, on loop, not realizing it's just a looping scene; or Crowley/Meg would notice, because it's basically exactly like Hell memory loop, also just repeating some guilty memory; maybe them being demons for too long and forget their old human life, not having much happy memory, but after being good they actually can feel guilt, they're experiencing their guilty memory too, so Heaven is practically no difference to Hell to them) (need to design Meg's previous life when she was human before she died, not shown in canon)
+
+They drop to Earth as soul/ghost, not bound by demon spell, can enter bunker, so they show up in bunker. Maybe Meg haunts Cas a bit (a lot), Crowley haunts Dean (so maybe could be like destiel background with megstiel and drowley as minor pairing hints). They work together again, try to solve Heaven/Hell/ghost problem again. Maybe make Crowley/Meg human again. Both haven't been human since at least three hundred years, can't get used to it, no special power, a bit down (but Crowley might like it, like the time when he's addicted to human blood, "You don't know how it feels to be human", now he can feel everything). TFW agree to help them adjust.
+
+### 337.
