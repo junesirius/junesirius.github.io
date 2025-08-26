@@ -3755,4 +3755,18 @@ They'll meet in Heaven again (when?), Dean/Cas/Jack in Heaven so many times, the
 
 They drop to Earth as soul/ghost, not bound by demon spell, can enter bunker, so they show up in bunker. Maybe Meg haunts Cas a bit (a lot), Crowley haunts Dean (so maybe could be like destiel background with megstiel and drowley as minor pairing hints). They work together again, try to solve Heaven/Hell/ghost problem again. Maybe make Crowley/Meg human again. Both haven't been human since at least three hundred years, can't get used to it, no special power, a bit down (but Crowley might like it, like the time when he's addicted to human blood, "You don't know how it feels to be human", now he can feel everything). TFW agree to help them adjust.
 
-### 337.
+### 337.【destiel】S03E11 every time Dean dies on Groundhog day Tuesday, he goes to Heaven and sees Cas for one day
+
+(Canon Divergent, see detailed outline in Post or Tumblr 2025-08-26)
+
+Short version of outline:
+
+Every Groundhog day Tuesday after Dean dies, he goes to a pocket dimension of Heaven and spends a full day with Cas. Dean believes it's Hell and Cas is demon. It takes a long time to trust especially when Dean can't remember, but his subconscious is learning. Eventually Dean trusts Cas and they're friends.
+
+Cas investigates why Dean isn't in Hell and if Sam is okay, finds out Trickster is Gabe and it's his manipulated reality, and Gabe puts Dean there. If they break the reality and Dean dies, he'd go to Hell for real. So Cas hides the truth from Dean, they get into fight. Then Sam breaks the loop by threatening Gabe. On Wednesday, Dean dies again and goes to Hell. Sam hunts down Gabe for six months.
+
+Which is sixty years in Hell. Cas doesn't have to but chooses to go to Hell to save and patch Dean, and wipes the memory of him from Dean during rebuild. And then S3 finale Dean goes to Hell again, Cas goes to Hell to save him and rebuild him again. And Dean doesn't remember or trust Cas initially, but shortly his subconscious picks up and trusts Cas completely again.
+
+They spend twelve years like canon does, and many times Cas recognizes activities they once did in Heaven are happening for real on Earth, mundane things like watching TV together. And they're content just as is.
+
+### 338.
