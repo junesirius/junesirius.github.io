@@ -578,7 +578,7 @@ Jack/米：（也震惊）所以你什么都没有给他？那他怎么……？
 
 人类卡？或者单纯因为sigil能力被压制的卡，跟丁一起潜入地下孩童贩卖的拍卖会，卡先进去，丁假装成买家，说好了要先救孩子，结果发现卡被抓了，作为压轴被拍卖，丁要在救卡和救孩子们之间做选择
 
-### 52.【destiel】翅膀墙
+### 52.【destiel】翅膀墙【WIP】
 
 （CA梗池里也有过，所有翅膀相关的梗两边可以公用，比如维密展）
 
@@ -2079,6 +2079,8 @@ case fic, Dean gets to save Zeppelin for once, ends up showing up in one of thei
 destiel date, Dean ecstasy, monster: some timeline monster/rogue angel
 
 ### 222.【Ash&Charlie】技术宅聊天
+
+（《Angel Black Death》里稍微带过一句）
 
 都是super good at tech stuff，交流一下技术？
 
