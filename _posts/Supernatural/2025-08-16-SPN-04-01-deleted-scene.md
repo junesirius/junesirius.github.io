@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】S04E01 deleted scene
+title: 【Destiel】S04E01 deleted scene（短评）
 date: 2025-08-16 11:59
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
