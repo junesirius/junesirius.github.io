@@ -1748,7 +1748,7 @@ Cas rebel to Death to protect Dean when he needs to be reaped, Death more unders
 
 could rewrite S4 to finale
 
-(≈ prompt 164)
+(≈ prompt 164, 339)
 
 ### 181.【CasJimmy?destiel?】2077 AU
 
@@ -3781,4 +3781,24 @@ When Cas stays in the bunker watching TV or listening to Dean's music (on his gi
 
 Similar to above, but it's a double angel AU, where Dean is the angel that had the thought and actually deliberately broadcast his favorite music to the whole angel radio. Many other angels don't like that initially, complain a lot, dislike him a lot, consider him too unhinged, unorthodox, too human. But angel Castiel enjoys it, privately goes to Dean to tell him how much he appreciate and enjoy what he shared, those are beautiful music. So now Dean makes their own private angel radio channel become angel music channel. Every time Dean is thinking about the lyrics from his favorite music, Cas can receive and hear, just enjoy it with him.
 
-### 339.
+### 339.【destiel】S01E12 fix-it: Cas is the reaper, Dean prays to save Layla
+
+Layla kissed Dean and left, Dean promised to pray to save her.
+
+Cas is actually the reaper in that episode, captured by bad guy, Dean freed him. Cas could leave but he comes back hearing Dean's prayer.
+
+Cas is still born angel, interned as reaper for promotion from cherub to seraph. Two branches from here: Cas can rebel as reaper and quit the job and goes back to be angel with healing power (but without promotion) and heals Layla. Just like canon rebellion to Heaven to choose Dean. Dean has to help him dealing with his problem now.
+
+Cas can also stay as a reaper, they haven't known each other enough for Cas to give up everything for Dean yet. But Cas remembers the request and Dean's sadness and disappointment. After Cas finishes the reaper period and goes back and becomes seraph, he travels back in time to appear right when the reaper!him leaves, so from Dean's POV Cas comes back for him immediately (but from Cas's POV it's been ages), and Cas heals and saves Layla. They might have consequence again with Cas messing with timeline.
+
+(≈ prompt 180)
+
+(see more in 2025-08-30 post, also link in [Tumblr](https://www.tumblr.com/junesirius/793342750532730880))
+
+### 339.5【destiel】S01E12 fix-it: Dean prays to save Layla, angel!Cas answers
+
+Similar to above but Cas is an angel at the time of S01E12, when Dean prays, he hears and answers.
+
+Cas that time might be similar to 2003!Cas in S14E13, Heaven's good soldier, initially refuses to help. But similar to Cas in S04E07, he has doubts and questions. Dean challenges him. They might experience something together, someone might sacrifice themselves for others, the typical. In the end, Cas trusts Dean, Dean has faith in him, Cas makes his own decision and saves Layla. (may or may not trigger more consequence from there, Heaven doesn't like what Cas did, they might have to be in war)
+
+### 340.
