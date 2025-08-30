@@ -3771,4 +3771,14 @@ Which is sixty years in Hell. Cas doesn't have to but chooses to go to Hell to s
 
 They spend twelve years like canon does, and many times Cas recognizes activities they once did in Heaven are happening for real on Earth, mundane things like watching TV together. And they're content just as is.
 
-### 338.
+### 338.【Cas/destiel】Angel radio become real radio
+
+Angel radio used to be only exchange of words, only for communication. But it's just wavelength, it can be used for broadcasting anything.
+
+When Cas stays in the bunker watching TV or listening to Dean's music (on his gifted mixtape?), the music and sound become ear loop in his mind, and he doesn't realize he's broadcasting the music to the whole angel radio until some close angel friend using some private channel to tell him he forgets to mute. Or maybe the angels are surprised by it too much they all fall into silence and just listen to those, and for the first time, they realize human music is actually beautiful, even to them. That's how he made all the angels in Heaven know about and fall in love with Led Zeppelin.
+
+### 338.5【destiel】angel!Dean broadcast music to the angel radio
+
+Similar to above, but it's a double angel AU, where Dean is the angel that had the thought and actually deliberately broadcast his favorite music to the whole angel radio. Many other angels don't like that initially, complain a lot, dislike him a lot, consider him too unhinged, unorthodox, too human. But angel Castiel enjoys it, privately goes to Dean to tell him how much he appreciate and enjoy what he shared, those are beautiful music. So now Dean makes their own private angel radio channel become angel music channel. Every time Dean is thinking about the lyrics from his favorite music, Cas can receive and hear, just enjoy it with him.
+
+### 339.
