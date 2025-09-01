@@ -286,7 +286,7 @@ Cas怎么在昏迷中用尽力气才把自己灵魂拼起来，至少可以醒�
 
 （see more in S07E21-23观后感；~梗158，->梗201）
 
-（思维宫殿的部分在204《Glimpse》里用了）
+（思维宫殿的部分在prompt 204《Glimpse》里用了）
 
 ### 26.【Cas】S07E21-23 失控的Cas在害怕崩溃中时间穿越
 
@@ -829,6 +829,8 @@ Cas: “I wasn't there.”
 Naomi: “You were there. You just don't remember it.”
 
 How Cas secretly saved some first borns, hide and protect them from rest of angels. How Cas get all his memory back after S15E20.
+
+(≈ prompt 345)
 
 ### 79.【destiel】S08E23 what if Metatron is not lying
 
@@ -3817,4 +3819,126 @@ Dean has to open the rift or whatever disastrous way with whatever ugly conseque
 
 It would be like S15E09, Dean thinking he lost Cas for real and them not being in good terms. He'll apologize and want to confess but too shameful to do so. All the emotional torture.
 
-### 341.
+### 341.【destiel】case fic, Season 6 Episode 66
+
+(inspired by Richard/Rob's podcast for S01E11 when they just joked about not having a S06E66)
+
+can be a case fic, written in the format of a TV show, could look like a script, can be meta narrative
+
+they really have a S06E66 and they have back luck in real life and in shooting life, can be somewhat like S06E15 *French Mistake* AU too
+
+### 342.【all】need bigger cost to save/destroy the world
+
+其实没那么容易杀死xx，要满足一个什么条件才能让xx坠落（天使，路西法，etc），他们中的有人要付出更大代价才能解决他们解决了的某个世界末日灾难
+
+(inspired by OUAT, every time a villain or hero need to make some big change, they have some super big cost, most likely losing the love of their life or the thing that's most important to them)
+
+SPN only uses that once: Rowena has to sacrifice the boy she cared the most for the curse to remove Dean's MoC. what if this is more common in all the other world-ending/saving events.
+
+e.g.: it's actually not so easy to kill blank (someone villain, God, Lucifer, Darkness, Empty, angel, demon, etc.), or like they have to meet more conditions to achieve something (that is already difficult in the show but would be even more difficult in this case), things like S08E23's angel/demon trial, Cas gets told he'll have to sacrifice more to seal Heaven like he'll have to sacrifice Dean, would he continue do that, similar to Dean realize he'll have to sacrifice Sam to seal Hell; or Metatron has to sacrifice more to make all the angels fall, would he continue do that -- he's probably the kind that doesn't want to risk anything to achieve something, so maybe he'd stop.
+
+And for something they achieved in canon, some of them would cost them much more than in canon to solve what they otherwise would have solved (one of the apocalypses etc.), would they continue do those
+
+(a general vague idea, can be expanded/detailed if having clearer ideas later)
+
+### 343.【destiel】S15E09/S15E18 Sam losing hope sets God free, Dean losing hope breaks Empty free
+
+（Sam失去希望能让God自由，Dean失去希望能让Empty自由，最大反派Empty）
+
+inspired by/parallel to S15E09, the key to set God free is that Sam loses hope, in a parallel of God <-> Empty and Sam <-> Dean, and something about Eileen be there in the same room with Sam and getting forced to hurt Sam before Sam losing hope, and transfer the idea to Dean. After S15E18 losing Cas, Dean loses hope, maybe Dean has some connection with Empty in the way he/they didn't know before, maybe something to do with his profound bond with Cas, the core is Dean losing hope and that's the key to set/break Empty "free".
+
+"Free" can be like Empty is now free to come to Earth to grab more human as it wishes, becoming the ultimate worst villain of the theory, worse than God. So after S15E19, the series isn't over yet. With God defeated and Death killed, they don't have many heavy players on the board, they'll have to figure something out to fight against Empty. And Dean's motivation would be mainly to save Cas, less about defeating the villain and saving the world.
+
+Or, "break free" can also be like easier to break jail and bust the prisoners out, that's how Dean gets to enter Empty and save Cas. (this one a little similar to prompt 204 done work《Glimpse》)
+
+### 344.【destiel】S05E14/S14E08 Dean's empty heart is the entryway for Empty to come to Earth, they need to fill it to stop Empty to save Cas
+
+（丁被Famine指出他的心是空的，是empty，这是Empty入侵的trigger，只有当丁不empty的时候才能彻底阻止Empty来地球，就算有deal也没用，s14-15之间他们发现了这个，所以丁为了救卡的deal要在一年里让自己填满（限时略微强制恋爱？已经有吸引力））
+
+S05E14 Famine said Dean's heart is empty (that's why he's not affected by Famine, because he doesn't want/desire anything). That's the trigger for Empty to enter Earth.
+
+Famine: "That's one deep, dark nothing you got there. Can't fill it. Not with food or drink. Not even with sex."
+
+Famine: "I can see inside you, Dean. I can see how broken you are, how defeated. You can't win, and you know it. But you just keep fighting. Just... keep going through the motions. You're not hungry, Dean, because inside, you're already...dead."
+
+Empty needs someone that's truly empty and dead inside to be like its entrance door to the Earth. And Dean's the only one with the strongest and longest emptiness inside, lasted for at least ten years, maybe forty years already by S15. Only when Dean is *not empty* can they shut the door to stop Empty coming to Earth, or using someone else (who's not as powerful as Dean) so Empty would be weak and easy to fight off even if it comes. Without that "entry person", even a deal wouldn't be able to allow Empty to the Earth.
+
+So some time between S14E08 and S15E18, they find out this fact and Cas's deal with Empty. The only solution to stop Empty from coming and saving Cas is to fill Dean's heart, make him not empty; meanwhile delay Cas's happiness, make him continue miserable and unhappy. Which are essentially two exactly opposite, controversial thing they have to do.
+
+(likely heavy angsty, heaving mutual pining)
+
+What would Dean to make himself full to save Cas? They already both know the tension and pull and attraction between them, both must have already at least somewhat know one another's love. What would they do?
+
+And Dean has to hurry. It might be a little like time-limited forced love, having a countdown somewhere (have to fall in love and be happy in one year or he dies sort of situation). But not really "forced" since they're already in love. They just have to figure out what's the best way to approach.
+
+### 345.【Cas/destiel】Cas's old wiped angel memory comes back, lead to broken multi-personality syndrome or similar
+
+（每个人被抹掉的记忆都没彻底抹掉，只是放在墙后面，卡因为一些什么触发想起以前遗忘的事）
+
+Similar to Sam's Hell memory isn't wiped but just put behind the wall, no one's memory can be completely wiped, they're always just put behind some wall, same for angels, same for how Naomi brainwashes angels. So all of Cas's past brainwashed memories are behind his brain wall, and one day something happened, the wall crumbled, Cas gets triggered and remembered those (or partially) things he forgot. Mostly biblical past, like the one Naomi mentioned is the time in Egypt when they kill the first-born, and Cas obviously didn't follow the order again (which is why he's wiped).
+
+The brain wall falling apart might also make him super painful, maybe crazy, maybe like multi personality syndrome, maybe disassociation, something psychologically bad and mentally unstable.
+
+Or it may happen when Cas is human (S09 or post-S15), brain doesn't have as much capacity as when he's angel, he thought he's forgetting more things, but on the contrary after this trigger, he's remembering too much more, his head/brain can't handle. Something bad/painful complications might happen.
+
+(≈ prompt 78)
+
+### 346.【destiel】every time Cas revives, he doesn't have memory; he spends time to recollect them then flies back in time
+
+(inspired by above prompt 345)
+
+（卡每次复活记忆都是被抹掉的，在找到丁之前都是花了一段时间重新记起，然后穿越时间回到丁以为他死了的时间来继续他们关系，丁一开始不知道，后来怎么发现了）
+
+Every time Cas is resurrected, his memory is wiped, he's always recreated and patched to be like a newly factory reset angel (by Chuck or others), he has to spend time to recollect his memory, re-remember everything they've been through, re-remember Dean, go to places they've spent time together before. Until he's sure he remembered everything (which might take a really long time), he flies back in time to the time Dean thinks he's gone and he's back. So they can just keep on with where their relationship was and continue developing.
+
+At first Dean doesn't know this, the wipe-recollect-relearn-fly back that Cas always have to do on his own. Then one day somehow he finds out. Maybe because Cas slips a sentence somewhere about having spent more time on Earth before/between certain events than Dean thought, or because he forgets something and Dean notices.
+
+### 347.【Chuck】Chuck gets beaten up in Empty by dead angels/demons
+
+（Chuck在Empty被别的angel demon 暴揍）
+
+at some point for some reason Chuck dies as God and goes to Empty, and the dead angels/demons are woken up and realizes how big of an asshole he is. And in the Empty, the dead God (and everyone) doesn't have their powers. So everyone just beats him up very physically, all the dead angels/demons that aren't happy about him (and maybe not usually synced to be in the same team) are very enthusiastic to do this one thing together.
+
+### 348.【Cas/destiel】S15E18 Cas wakes up other angels/demons in Empty and leads them to fight their way back
+
+（卡在Empty唤醒所有在Empty的同伴杀出血路撕破Empty回来，有Gabe, Bal, Meg, Anna, Sammandriel, Crowley, etc.）
+
+After S15E18 Cas goes to Empty, he wakes up all the other angels/demons that are sleeping in Empty at that time, leads them to fight their way back bloodily. Everyone they lost and were his friend are helping. (Or doesn't have to, even the ones that were enemies might also help. Or he didn't wake them.)
+
+### 349.【Cas/destiel】where does angel go when they die in Empty?
+
+(inspired by above prompt 348)
+
+（卡在Empty快要被杀死）
+
+similar to S08 when they asked: "Where does monster go when they die in Purgatory?" Cas now faces new question of "Where does angel/demon go when they die in Empty?"
+
+maybe similar to the battle he triggered as in prompt 348, they're fighting their way out of Empty, some of them die in Empty. Cas might be one of them. Where does he go? He might be worried he'd really die this time and never see Dean again?
+
+### 350.【destiel】their profound bond is broken
+
+（因为出了一件什么事，丁卡的Profound bond断了）
+
+Something happened, their profound bond is broken, and they both can feel it, very physically strongly, like maybe it's like a light background white noise their brain/ear is used to, and once it's broken, it becomes purely quiet, they only then realize its existence all this time. The realization pains them.
+
+kinda like a divorce, like DW S07E01 Amy/Rory's divorce
+
+something else happened, they might have to save one another again, trying very hard to rebuild their profound bond again. Dean might even consider deal himself to Hell again so Cas can save him again. It's very difficult but eventually they rebuild it and get back together again. Shout out their love confession and have it fixed.
+
+(related to and maybe can also include prompt 351)
+
+### 351.【destiel】find each other because of profound bond
+
+(inspired by OUAT Snow White & Prince Charming)
+
+（因为Profound bond，所以他们总是能找到彼此（OUAT白白夫夫 “I'll always find you” “I'll never lose you”应和对称），到对方在的地方）
+
+Dean/Cas can always find each other wherever they are because of their profound bond.
+
+can quote OUAT chick-flick contrast: "I'll always find you." "I'll never lose you." One about how they just keep losing each other but determined to find, taking active actions, the other about how they will never lose the other, tackling abandonment issue.
+
+important for Dean/Cas to address the sense of security/insecurity/abandonment issue
+
+(similar to and maybe can be used in prompt 350)
+
+### 352.
