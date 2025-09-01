@@ -3799,6 +3799,22 @@ Cas can also stay as a reaper, they haven't known each other enough for Cas to g
 
 Similar to above but Cas is an angel at the time of S01E12, when Dean prays, he hears and answers.
 
-Cas that time might be similar to 2003!Cas in S14E13, Heaven's good soldier, initially refuses to help. But similar to Cas in S04E07, he has doubts and questions. Dean challenges him. They might experience something together, someone might sacrifice themselves for others, the typical. In the end, Cas trusts Dean, Dean has faith in him, Cas makes his own decision and saves Layla. (may or may not trigger more consequence from there, Heaven doesn't like what Cas did, they might have to be in war)
+Cas that time might be similar to 2003!Cas in S14E13, Heaven's good soldier, initially refuses to help. But similar to Cas in S04E07, he has doubts and questions. Dean challenges him. They might experience something together, someone might sacrifice themselves for others, the typical. In the end, Cas trusts Dean, Dean has faith in him, Cas makes his own decision and saves Layla. (may or may not trigger more consequence from there, Heaven doesn't like what Cas did, they might have to be in war with Heaven again)
 
-### 340.
+### 340.【destiel】S15E03 what if Cas follows the plan, closes rupture and gets buried under
+
+(heavy angst)
+
+Dean's the one volunteers (forces) Cas to go to Hell with Belphegor the demon to close the rupture, knowing full well he can get under if he doesn't come back quick enough and just to keep up with his act of anger. Cas's heartbroken. In this what-if, Belphegor doesn't lie, they do close the rupture, Cas may or may not have the chance to get out, like if he tries really really hard, he probably has a chance to get out. But thinking about how much Dean seems stop caring about him, he becomes a bit suicidal (exactly like Vince Vincente and his girlfriend parallel), so he doesn't try really hard, so he gets buried under, possibly can't leave Hell forever.
+
+Belphegor: "It's almost like you *want* to get buried under."
+
+Cas: no one up there cares about me anyway.
+
+The ghost situation up there is solved. Dean waits for Cas to come back, waiting for really really long time. The rift closes. Cas doesn't come back. Dean's eye-rims red, knowing full well this is his fault, this time is fully his pride and temper pushing Cas under the wheel, remembering Cas's look at him when he volunteered him, knowing how much he hurt Cas and how much himself deserve the torture and guilt knowing what he did. Sam doesn't dare to speak to him when he's like that. Practically murderous. But in the core, suicidal.
+
+Dean has to open the rift or whatever disastrous way with whatever ugly consequence to go down there to save Cas. Cas may or may not die down there. Dean has to fix it and apologizes. He'll cry and devastated when he thinks he lost Cas for good and it's all his fault. And he thinks he deserves the pain.
+
+It would be like S15E09, Dean thinking he lost Cas for real and them not being in good terms. He'll apologize and want to confess but too shameful to do so. All the emotional torture.
+
+### 341.
