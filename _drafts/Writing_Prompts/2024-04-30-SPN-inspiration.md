@@ -1272,9 +1272,9 @@ Cas explains theory of evolution? He witnesses the first fish and homo sapiens a
 
 (include examples when debating with friends: koala, female hyena)(conversation heavy, could be triggered when watching nature channel)
 
-### 130.【destiel】Time is fluid 刀河梗
+### 130.【destiel】Time is fluid 刀河梗【WIP】
 
-(prompt from S04E03/S05E13 "Time is fluid", AO3 story "A turn of the earth", DW刀河梗, recent "Agatha All Along"S01E07, Benjamin Burton)
+(inspired from S04E03/S05E13 "Time is fluid", AO3 story "A turn of the earth", DW刀河梗, recent "Agatha All Along"S01E07, Benjamin Burton)
 
 Cas can't control where to land in time stream (a curse?), has to pop in time in reverse order, remember things in reverse order with Dean but still manages to fall in love. Both keeps journal to keep up, always run short in time.
 
@@ -1286,7 +1286,11 @@ Cas can't control where to land in time stream (a curse?), has to pop in time in
 
 Cas moving backwards, remember him less by every time they met, Dean more
 
-"Why do you act like it's our first kiss" (heartbroken to know it's his last)
+"Why do you act like it's our first kiss" (heartbroken to know it's the last for her)
+
+"What you said to Amy, there's a worse day coming for you?" "When I first met the Doctor, a long, long time ago, he knew all about me. Think about that. Impressionable young girl and suddenly, this man just drops out of the sky. And he's clever and mad and wonderful and knows every last thing about her. Imagine what that does to a girl. Trouble is it's all back-to-front. My past is his future. We're traveling in opposite directions. Every time we meet, I know him more, he knows me less. **I live for the days when I see him**, but I know that every time I do, he'll be one step further away. And the day is coming when I'll look into that man's eyes, my Doctor, and he won't have the faintest idea who I am. And I think it's going to kill me." (S06E01)
+
+keeps delay going to the last place he knows will be their last; has 10 years to think about how to fix this, why would he give him (something) → eventually saved his life
 
 ### 131.【destiel】wear a bell（R级?）
 
