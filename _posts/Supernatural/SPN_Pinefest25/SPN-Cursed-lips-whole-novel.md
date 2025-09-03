@@ -65,13 +65,17 @@ Dean's lips are cursed. If he ever kisses Castiel, Cas will lose his power.
 
 **Words after work:** This story is entirely inspired by *Once Upon a Time* (S03E17-20) when Killian's lips are cursed by Zelena, Emma chooses to save him even when she knows it will take her power away.
 
-Chap 1s: After each quoted section, add real-life "reader" (Metatron)'s reaction and action around it. Metatron interact with the tribe/hotel manager (Two Rivers Hotel Manager, local American) sending him books (only catch up to 1970s, but manager insisted on best sellers in this century, so Metatron jumps to read SPN first instead, breaking his own rules). Metatron goes by "Marv" here, already hinting the identity but not pointing out yet. Metatron binge reads all the book altogether, right before they arrive, but after all the events finished (during the week between the last episode S08E20 and current time S08E21 beginning).
+
+
+Chap 1: After each quoted section, add real-life "reader" (Metatron)'s reaction and action around it. Metatron interact with the tribe/hotel manager (Two Rivers Hotel Manager, local American) sending him books (only catch up to 1970s, but manager insisted on best sellers in this century, so Metatron jumps to read SPN first instead, breaking his own rules). Metatron goes by "Marv" here, already hinting the identity but not pointing out yet. Metatron binge reads all the book altogether, right before they arrive, but after all the events finished (during the week between the last episode S08E20 and current time S08E21 beginning).
 
 Meta-narrative Dean/Cas's thoughts: every different chapter "part", increasing the tension, show involvement, don't have to be strictly following the canon
 
 When posting: different "Part" of Chap 1 post into separate AO3 characters, keep each chapter length contained
 
 After finish: search the whole file, ensure no appearance of "Winchester" anywhere in Chuck's book before S04E18
+
+Chap 1-5 S05E18: editing, tuning down the ultra analytical analysis. more verbs and actions and first POV thoughts from characters.
 
 # Draft
 
@@ -381,7 +385,71 @@ After finish: search the whole file, ensure no appearance of "Winchester" anywhe
 
 ### Act 5 (S05E18)
 
-> 
+> Castiel's expression had been murderous ever since they found out what plan Dean had in his mind, ever since he dumped them and ran away outside Blue Earth, Minnesota.
+>
+> Sam was the one figured out his farewell trip, and Cas was the one zapped him back to Bobby's place. The taped paper box with his farewell letter left forgotten in Cicero, Indiana, so was Baby. But they didn't have time to worry about that.
+>
+> Everyone in the house glared at Dean like *he* was the Devil that was about to destroy the world. Dean tried to force a pretended lightness that did little help.
+>
+> He whined loudly when they threw him into Bobby's panic room, the very place he locked Sam up for his demon blood detox. *Guess you never know whose turn it was.*
+>
+> Dean was pacing in the tiny space when the metal door clanked open, Sam standing at the door, looking pissed. And Cas stood three steps away outside the door, glaring at Dean like his eyes could burst into flames with divine wrath.
+>
+> Dean never saw him like that before -- the look in Castiel's eyes were intense enough to prickle the hairs on his neck, but somehow, he was feeling bold to poke the bear. He was gonna die sooner or later anyway, how bad it could be to upset Cas more than he already did? He poked Bobby ten minutes ago, and Sam could just be the next.
+>
+> Dean met Cas's eyes with a pretentious playfulness of his own, lighter than he had been in probably ten years. Cas held the gaze, staring him down.
+>
+> Dean put on a flirtatious smirk. "Well, Cas, not for nothing, but the last person who looked at me like that..." he gave it a meaningful pause, chewing the words before letting them slip out his tongue smoothly, his heart fluttered in his chest. "I got laid." He even topped it with a histrionic wink to complete the set.
+>
+> The looks in Cas's eyes were a combination of ultimate fury and hurt. Dean wondered if the second part was just his hallucination.
+>
+> Even from ten steps away, Dean could see all the muscles on Castiel's body tightened, he was like a predator at the exact moment before swooping down on his pray. His fists clenched and flexed, itching to punch and kill. Dean knew, right then and there, Cas would tear anything down to pieces if he wasn't trying so desperately to hold himself back, not doing them any physical harm -- and more importantly, that target would have been him, if he wasn't already locked in a cage. For a brief moment, he found himself wondering if this lockdown was actually doing him a favor.
+>
+> He watched the lines and furrow on Cas's face crimpled in desperation and frustration as the moment between them stretched on. He wondered if all of that came from that single flirtatious joke that he found just too easy to let out. He was acting as a world-class asshole today anyway, might as well put on the act till the end. The angel barely rolled his eyes when he choked him with a vicious "Blow me, Cas." He hoped it wasn't taken literally -- not that he'd complain if it was, if that being his last before lights out.
+>
+> Dean blinked to himself at this new realization, half amused -- he'd probably be full-on stressed out if the situation was any different and if he could spare any more thoughts for the angel outside of his suicidal plan.
+>
+> <br>
+>
+> Castiel glared at the unbelievable human in the panic room without getting any closer to him within ten steps range, afraid he might get too furious that the grace might accidentally burst into flame and burn his eyes out. If he wasn't trying his best to control that anger burning in his chest, it might actually happen.
+>
+> Dean had never lowered their shared moments and bond to anything as meaningless and purely physical as he was doing now. They were almost like having a silent, unspeakable agreement on whatever it was between them, and now Dean was breaking it. Castiel found the flame of fury burn so much worse in this body of his that he forgot how to breathe.
+>
+> It wasn't his first time to witness the suicidal side of Dean, but this time it seemed to have gone far worse than any other times, Castiel observed, forcing his head to work around the fact that Dean might deliberately try to infuriate him. He was even more frustrated to find that it was working.
+>
+> Sam was the one giving him an out, telling him to check on Adam instead.
+>
+> Castiel gave Dean one more glare of death before slamming the door closed and storming upstairs. *Dean was being truly unbearable.*
+>
+> And he tried his best not to think about why exactly everything was hurting so much -- a lesson he learned from the boys.
+>
+> <br>
+>
+> Castiel came back down to the stairs leading to the panic room moments later, after Sam gave up reasoning with his obstinate brother. Cas thought just maybe he could give a try.
+>
+> The place sounded awfully quiet as he treaded down the dark corridor. The angel accelerated his steps. An unsettling worry and fear for the worst grabbed his gut tightly.
+>
+> The view behind the thin slit of the barred peephole was even more perturbing. A tipped-over chair and a broken vase on the floor seemed to just prove all his worst nightmare.
+>
+> They were trying so hard to keep Dean alive, but if that stupid, stubborn human being really put his mind to it, there were still so many ways he could harm himself or even kill himself. A rope, a piece of broken glass, a hidden blade they didn't capture, name his pick.
+>
+> Castiel found his breath caught and his heart pounding hard in a way he never knew before. He opened the door of the panic room with hands that would have been trembling if he wasn't using his grace to force them steady to unlock the bars.
+>
+> The room looked empty when he stepped in, just like he feared. Cas scanned around in a worrisome rush.
+>
+> Dean stepped out from the shadow and called his name calmly. The next thing he knew, Dean triggered the angel banishing sigil on the opposite cabinet door.
+>
+> The light from the sigil brightened up like burning sun and tore the angel from his current existence. Cas realized in that split second that he had never mentioned to the humans (Dean, in particular) that, being blast away by the sigil was as painful to angels as being shot by a torpedo in the chest and pushed by it until landed a thousand yards away as a bird.
+>
+> That was why every time they used the sigil, the attacked angels would have to take quite some time to catch their breath from disorientation and any potential hurt before flying back.
+>
+> Cas was thrown ruthlessly into the dirt, bashing a muddy hole on the ground of some forest. The leaves had helped the eventual landing, but his body and true form both ached tremendously. His wings shivered behind him as he tried to push himself up from the earth. His shoulder was twisted because it hit a rock and his leg was bleeding.
+>
+> Cas staggered, and closed his eyes, forcing the rapidly draining grace split a drop to repair the vessel and stop the distracting pain. His head buzzed with noise that was probably also a side effect of a very physical concussion as he tried to tune into angel radio.
+>
+> That was when he heard the reflection in the homeless prayer's head saying loudly, "Oh My goodness lord, you're Dean Winchester." And the second wave of prayer came right after it.
+>
+> Cas gathered all his strength
 >
 > 
 
