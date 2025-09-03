@@ -3945,4 +3945,18 @@ important for Dean/Cas to address the sense of security/insecurity/abandonment i
 
 (similar to and maybe can be used in prompt 350)
 
-### 352.
+### 352.【destiel】S06E22 what if Sam's blade worked and killed Cas
+
+what if Cas isn't God yet, just still an angel with too much power, maybe transforming to God still takes a while and he's not done yet, just halfway during the process and he can still be stabbed to death by angel blade. And the moment Sam stabbed him from the back, he does break apart and begin dying. He apologizes to Dean and says all the sorry and dies in his arms. What will happen next, what will happen between Sam and Dean, knowing Sam is the one killed Cas, how could Sam ever face Dean again and how would Dean treat him.
+
+### 353.【destiel】Dean learns about unconditional love for the first time
+
+(inspired by myself and some old tumblr posts seen before)
+
+mainly saying Dean doesn't know about unconditional love until he meets Cas, all the time he believes he has to be useful to be loved, so when he and Cas are not in good terms, he's almost always surprised when Cas is still willing to heal him (though Cas is so pissed he doesn't touch Dean when heal him, be like "I'm still deeply in love with you but I'm pissed at you").
+
+Some small case fic or daily story about Dean learning for the first time about unconditional love, realize that fight and conflict doesn't necessarily end things, relationships with conflict can still work (as compared to all the other times in his past experience, every time there is some conflict in the relationships, he just dump and run, escape to end it and start looking for a new one, also inspired by my own experience), how do they handle the conflict and let Dean believe even if they fight, they'd still love each other enough to keep this thing between them going, the conflict doesn't have to the deal-breaker.
+
+(remember some old posts somewhere, couples in quarrel, one is so pissed and leave the house to cool their head down, but still doesn't forget to send message to the other, letting them know they're not leaving, they just need the time and space, they'll come back. That sense of security is so rare and heartbreakingly warm.)
+
+### 354.
