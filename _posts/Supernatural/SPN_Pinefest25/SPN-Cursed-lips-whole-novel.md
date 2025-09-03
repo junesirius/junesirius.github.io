@@ -25,6 +25,8 @@ published: false
 
 current time: 2013.5.1 (S08E21)
 
+location: tiny tribe in Colorado
+
 (main divergent from canon: bc Metatron doesn't help, Crowley killed Kevin, Metatron doesn't tell them third trial, they never figure out third trial. Sam sick but not dying)
 
 start with meta-narrative, reading from Chuck's books: God POV, Dean/Cas pining & lips are all real and known to Metatron, canon-divergent, basically rewrite scenes from canon shows where Dean stares at Cas's lips, naturally transit to S08E21 events
@@ -63,7 +65,13 @@ Dean's lips are cursed. If he ever kisses Castiel, Cas will lose his power.
 
 **Words after work:** This story is entirely inspired by *Once Upon a Time* (S03E17-20) when Killian's lips are cursed by Zelena, Emma chooses to save him even when she knows it will take her power away.
 
-After each quoted section, add real-life "reader" (Metatron)'s reaction and action around it.
+Chap 1s: After each quoted section, add real-life "reader" (Metatron)'s reaction and action around it. Metatron interact with the tribe/hotel manager (Two Rivers Hotel Manager, local American) sending him books (only catch up to 1970s, but manager insisted on best sellers in this century, so Metatron jumps to read SPN first instead, breaking his own rules). Metatron goes by "Marv" here, already hinting the identity but not pointing out yet. Metatron binge reads all the book altogether, right before they arrive, but after all the events finished (during the week between the last episode S08E20 and current time S08E21 beginning).
+
+Meta-narrative Dean/Cas's thoughts: every different chapter "part", increasing the tension, show involvement, don't have to be strictly following the canon
+
+When posting: different "Part" of Chap 1 post into separate AO3 characters, keep each chapter length contained
+
+After finish: search the whole file, ensure no appearance of "Winchester" anywhere in Chuck's book before S04E18
 
 # Draft
 
@@ -443,7 +451,7 @@ He would make it a better story.
 
 ## Chap 2 The Scribe
 
-<!-- they find Metatron, ask for help. Metatron doesn't care about trials or Heaven/Hell, refuses to help. Instead, he's read all spn books by Chuck "Carver Edlund" and intrigued by destiel. He tricks Dean into saying he swears on Castiel's name (do you still believe in love, then swear on the person you love the most to prove you still know what love is, Dean's threatened bc desperate to save Sam? want to swear on Sam but Metatron points out he's lying to himself bc that's responsibility), curses Dean's lips just to see a good story, and threatens Dean if he doesn't kiss Cas, Sam dies; if he does, Cas loses his grace/power; and the curse can't be reversed or interfered by angel power, or Dean dies. -->
+<!-- S08E21 real timeline: they find Metatron, ask for help. Metatron doesn't care about trials or Heaven/Hell, refuses to help. Instead, he's read all spn books by Chuck "Carver Edlund" and intrigued by destiel. He tricks Dean into saying he swears on Castiel's name (do you still believe in love, then swear on the person you love the most to prove you still know what love is, Dean's threatened bc desperate to save Sam? want to swear on Sam but Metatron points out he's lying to himself bc that's responsibility), curses Dean's lips just to see a good story, and threatens Dean if he doesn't kiss Cas, Sam dies; if he does, Cas loses his grace/power; and the curse can't be reversed or interfered by angel power, or Dean dies. -->
 
 ### Act 1
 
@@ -454,6 +462,8 @@ He would make it a better story.
 ### draft notes
 
 
+> S08E21 real timeline (2013.5.1)
+>
 > background Sam bad condition after 2 trials
 >
 > they find Metatron, ask for help. Metatron doesn't care about trials or Heaven/Hell, refuses to help. Instead, he's read all spn books by Chuck "Carver Edlund" and intrigued by destiel. He tricks Dean into saying he swears on Castiel's name (do you still believe in love, then swear on the person you love the most to prove you still know what love is, Dean's threatened bc desperate to save Sam? want to swear on Sam but Metatron points out he's lying to himself bc that's responsibility), curses Dean's lips just to see a good story, and threatens Dean if he doesn't kiss Cas, Sam dies; if he does, Cas loses his grace/power; and the curse can't be reversed or interfered by angel power, or Dean dies.
@@ -493,7 +503,7 @@ He would make it a better story.
 > "Thank you." "Do you really think I'll let you die? I'll choose myself over you?" "I wasn't sure." "Now you do." "Does it hurt?" "Not so much, comparing to losing you."
 >
 
-## Chap 5 Next Time On
+## Chap 5 Next Time On (Bonus)
 
 <!-- Dean/Cas read Chuck's books, going back to one of the old full tension episodes, share some peaceful casual moments (two comedy episodes) -->
 
@@ -503,7 +513,7 @@ He would make it a better story.
 >
 > 
 
-<p style="text-align:right">-- <i>"Supernatural: My Bloody Valentine"</i> (2012) by Carver Edlund</p>
+<p style="text-align:right">-- <i>"Supernatural: My Bloody Valentine"</i> (2010) by Carver Edlund</p>
 
 <!-- 514 Dean watch Cas eat happy meal, "making me very happy" (Dean reads Cas's mental thoughts at that time from book); after finish reading, Dean/Cas go to diner, having meal together (Dean's hungry after reading) -->
 

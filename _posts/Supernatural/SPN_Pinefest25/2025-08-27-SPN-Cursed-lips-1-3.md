@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】I Swear On Castiel's Name（Chap.1）（3）
+title: 【Destiel】I Swear On Castiel's Name（Chap.1）Previously On（3）
 date: 2025-08-27 00:43
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
