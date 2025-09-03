@@ -63,9 +63,11 @@ Dean's lips are cursed. If he ever kisses Castiel, Cas will lose his power.
 
 **Words after work:** This story is entirely inspired by *Once Upon a Time* (S03E17-20) when Killian's lips are cursed by Zelena, Emma chooses to save him even when she knows it will take her power away.
 
+After each quoted section, add real-life "reader" (Metatron)'s reaction and action around it.
+
 # Draft
 
-## Chap 1
+## Chap 1 Previously On (Part One)
 
 <!-- Meta-narrative: Metatron reads all about Dean/Cas lip-staring as in canon shows but all really happened to them, fast-forward their feelings (written in past tense, mimic Chuck's writing) -->
 
@@ -267,6 +269,8 @@ Dean's lips are cursed. If he ever kisses Castiel, Cas will lose his power.
 
 <p style="text-align:right">-- <i>"Supernatural: Lucifer Rising"</i> (2009) by Carver Edlund</p>
 
+## Chap 1 Previously On (Part Two)
+
 ### Act 4 (S05E03)
 
 > Dean jumped when Cas's reflection popped into the mirror, barely inches away. His heartbeat raced like a frantic rabbit for a hot minute, and he could still feel his temples throbbing when he lashed out: "God! Don't do that!"
@@ -363,7 +367,7 @@ Dean's lips are cursed. If he ever kisses Castiel, Cas will lose his power.
 >
 > Cas nodded appreciatively in relief, his stressed shoulders relaxed the tiniest. His eyes conveyed a quiet "Thank you" without his lips moving an inch. The curve did pull up a degree.
 >
-> Dean smiled slightly.
+> Dean smiled fleetingly.
 
 <p style="text-align:right">-- <i>"Supernatural: Free to Be You and Me"</i> (2009) by Carver Edlund</p>
 
@@ -371,31 +375,61 @@ Dean's lips are cursed. If he ever kisses Castiel, Cas will lose his power.
 
 > 
 >
-> - 518 "I rebelled for this?! So that you could surrender to them?" "Cas! Please!" "I gave everything for you. And this is what you give to me?!"
+> 
 
 <p style="text-align:right">-- <i>"Supernatural: Point of No Return"</i> (2010) by Carver Edlund</p>
 
 ###### [TBC]
 
+<!-- 518 "I rebelled for this?! So that you could surrender to them?" "Cas! Please!" "I gave everything for you. And this is what you give to me?!" -->
+
+## Chap 1 Previously On (Part Three)
+
 ### Act 6 (S06E17)
 
 > 
 >
-> - 617 "Balthazar has a weapon that will work against her." "Of course he does. Yeah. Boy, that guy's just got it covered, doesn't he? You need new friends, Cas." "I'm trying to save the ones I have, Dean. We'll have to draw her out."
+> 
 
 <p style="text-align:right">-- <i>"Supernatural: My Heart Will Go On"</i> (2011) by Carver Edlund</p>
 
-### Act 7 (S07E17)
+<!-- 617 "Balthazar has a weapon that will work against her." "Of course he does. Yeah. Boy, that guy's just got it covered, doesn't he? You need new friends, Cas." "I'm trying to save the ones I have, Dean. We'll have to draw her out." -->
+
+### Act 7 (S06E20)
 
 > 
 >
-> - 717 amnesia!Cas/Emmanuel, house/car "I seem to be able to help to a certain degree. What's your issue?"
+> 
+
+<p style="text-align:right">-- <i>"Supernatural: The Man Who Would Be King"</i> (2011) by Carver Edlund</p>
+
+<!-- 620 "Look me in the eye and tell me you're not working with Crowley. *(Castiel looks at Dean, but then looks away)* You son of a bitch. You're in it with him? You and Crowley have been going after Purgatory together? You have, huh? This whole time." -->
+
+## Chap 1 Previously On (Part Four)
+
+### Act 8 (S07E17)
+
+> 
+>
+> 
 
 <p style="text-align:right">-- <i>"Supernatural: The Born-Again Identity"</i> (2012) by Carver Edlund</p>
 
+<!-- 717 (multiple quotes, split in between) amnesia!Cas/Emmanuel, house/car "I seem to be able to help to a certain degree. What's your issue?" "You just know yourself, I know you for years" "I don't deserve to walk out of that river. Why am I alive?" -->
+
+### Act 9 (S08E07)
+
+> 
+>
+> 
+
+<p style="text-align:right">-- <i>"Supernatural: A Little Slice of Kevin"</i> (2012) by Carver Edlund</p>
+
+<!-- 807 (+all purgatory flashback, both sides) just stare, stutter "Yeah. Yeah, uh, I got to be honest. I-I-I'm thinking, how the hell did you make it out? I mean, I -- I was there. I-I-I know that place." "Better?" boner -->
+
 <br>
 
-Metatron throws the last book into the pile that he just finished, and sighs with relief that it's the last one of the whole series, published and unpublished. No more torture to continue reading more of that crap. It's just frustrating to keep reading the same thing over and over and over again -- those same two morons doing the same thing for *four freaking years* without making *any* progress? It's really not a good story. It wouldn't even crack the top ten thousand of the metric ton of books he's read in his lifetime just for that fact alone.
+Metatron throws the last book (*Pac-Man Fever*) into the pile that he just finished, and sighs with relief that it's the last one of the whole series, published and unpublished. No more torture to continue reading more of that crap. It's just frustrating to keep reading the same thing over and over and over again -- those same two morons doing the same thing for *four freaking years* without making *any* progress? It's really not a good story. It wouldn't even crack the top ten thousand of the metric ton of books he's read in his lifetime just for that fact alone.
 
 If *he* is the writer, he has so many more ideas for them.
 
@@ -407,9 +441,11 @@ He would make it a better story.
 
 **when posting:** all acts put together in the same chapter, separation line with the last meta-narrative Metatron part, all "quoted" contents put into quoting format, "citation" with "book title" (episode names) and author's name align to right. Consider extra new line between every two excerpts.
 
-## Chap 2
+## Chap 2 The Scribe
 
 <!-- they find Metatron, ask for help. Metatron doesn't care about trials or Heaven/Hell, refuses to help. Instead, he's read all spn books by Chuck "Carver Edlund" and intrigued by destiel. He tricks Dean into saying he swears on Castiel's name (do you still believe in love, then swear on the person you love the most to prove you still know what love is, Dean's threatened bc desperate to save Sam? want to swear on Sam but Metatron points out he's lying to himself bc that's responsibility), curses Dean's lips just to see a good story, and threatens Dean if he doesn't kiss Cas, Sam dies; if he does, Cas loses his grace/power; and the curse can't be reversed or interfered by angel power, or Dean dies. -->
+
+### Act 1
 
 
 
@@ -422,9 +458,11 @@ He would make it a better story.
 >
 > they find Metatron, ask for help. Metatron doesn't care about trials or Heaven/Hell, refuses to help. Instead, he's read all spn books by Chuck "Carver Edlund" and intrigued by destiel. He tricks Dean into saying he swears on Castiel's name (do you still believe in love, then swear on the person you love the most to prove you still know what love is, Dean's threatened bc desperate to save Sam? want to swear on Sam but Metatron points out he's lying to himself bc that's responsibility), curses Dean's lips just to see a good story, and threatens Dean if he doesn't kiss Cas, Sam dies; if he does, Cas loses his grace/power; and the curse can't be reversed or interfered by angel power, or Dean dies.
 
-## Chap 3
+## Chap 3 The Cursed Lips
 
 <!-- Dean's devastated, more repressed to keep himself away from Cas, disguise as anger on Cas even after Cas comes back to bunker after losing angel tablet (gut open by Naomi/Crowley, not recovered as quickly as he'd wish), Cas gets pushed away by Dean's pride and anger, but Dean regrets immediately when Cas's almost pushed to leave, Dean apologizes and goes soft and asks Cas to stay, confesses the curse. they'll research on reversing the curse but lower priority than finding ways to save Sam, Cas agrees to help, but also very hesitantly express he's fine to lose his power if it saves Sam, Dean refuses, Cas mistakes as Dean doesn't want them kiss, Dean knows he misunderstand but can't correct him, more torn apart. both self-torturing and painfully mistaken -->
+
+### Act 1
 
 
 
@@ -435,20 +473,46 @@ He would make it a better story.
 
 > Dean's devastated, more repressed to keep himself away from Cas, disguise as anger on Cas even after Cas comes back to bunker after losing angel tablet (gut open by Naomi/Crowley, not recovered as quickly as he'd wish), Cas gets pushed away by Dean's pride and anger, but Dean regrets immediately when Cas's almost pushed to leave, Dean apologizes and goes soft and asks Cas to stay, confesses the curse. they'll research on reversing the curse but lower priority than finding ways to save Sam, Cas agrees to help, but also very hesitantly express he's fine to lose his power if it saves Sam, Dean refuses, Cas mistakes as Dean doesn't want them kiss, Dean knows he misunderstand but can't correct him, more torn apart. both self-torturing and painfully mistaken
 
-## Chap 4
+## Chap 4 The Truth
 
-<!-- Metatron annoyed at their slow pace, push them, drown Dean, Cas is forced to make choice, he kisses Dean to save him, loses his power to Metatron. Dean wakes up, more guilty and furious, "What have you done", finds Cas human now, promise they'll figure out how to fix him, but they'll stop Metatron and save Sam first -->
+<!-- Metatron is annoyed at their slow pace, push them, drown Dean, Cas is forced to make choice, he kisses Dean to save him, loses his power to Metatron. Dean wakes up, more guilty and furious, "What have you done", finds Cas human now, promise they'll figure out how to fix him, but they'll stop Metatron and save Sam first -->
+
+### Act 1
 
 
 
 <br>
 
+###### THE END
+
 ### draft notes
 
 
-> Metatron annoyed at their slow pace, push them, drown Dean, Cas is forced to make choice, he kisses Dean to save him, loses his power to Metatron. Dean wakes up, more guilty and furious, "What have you done", finds Cas human now, promise they'll figure out how to fix him, but they'll stop Metatron and save Sam first
+> Metatron is annoyed at their slow pace, push them, drown Dean, Cas is forced to make choice, he kisses Dean to save him, loses his power to Metatron. Dean wakes up, more guilty and furious, "What have you done", finds Cas human now, promise they'll figure out how to fix him, but they'll stop Metatron and save Sam first
 >
 > "Thank you." "Do you really think I'll let you die? I'll choose myself over you?" "I wasn't sure." "Now you do." "Does it hurt?" "Not so much, comparing to losing you."
 >
 
-###### [END]
+## Chap 5 Next Time On
+
+<!-- Dean/Cas read Chuck's books, going back to one of the old full tension episodes, share some peaceful casual moments (two comedy episodes) -->
+
+### Act 1 (S05E14)
+
+> 
+>
+> 
+
+<p style="text-align:right">-- <i>"Supernatural: My Bloody Valentine"</i> (2012) by Carver Edlund</p>
+
+<!-- 514 Dean watch Cas eat happy meal, "making me very happy" (Dean reads Cas's mental thoughts at that time from book); after finish reading, Dean/Cas go to diner, having meal together (Dean's hungry after reading) -->
+
+### Act 2 (S08E08)
+
+> 
+>
+> 
+
+<p style="text-align:right">-- <i>"Supernatural: Hunteri Heroici"</i> (2012) by Carver Edlund</p>
+
+<!-- 808 anime episode, "I'm afraid I'll kill myself" "I see now, it's hilarious" (Dean reads Cas's mental activity from book); watch anime together in motel room after finish reading, Cas doesn't get something, Dean explain, or Dean just enjoy gut wrecking laugh, Cas watch him and smile --> 
