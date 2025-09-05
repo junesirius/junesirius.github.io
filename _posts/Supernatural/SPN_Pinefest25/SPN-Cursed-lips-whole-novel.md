@@ -73,6 +73,8 @@ Meta-narrative Dean/Cas's thoughts: every different chapter "part", increasing t
 
 When posting: different "Part" of Chap 1 post into separate AO3 characters, keep each chapter length contained
 
+shuffle the order? Chap 1 part one → Chap 2 → Chap 1 part two → Chap 3 ? Chap 1 a little too long t
+
 After finish: search the whole file, ensure no appearance of "Winchester" anywhere in Chuck's book before S04E18
 
 Chap 1-5 S05E18: editing, tuning down the ultra analytical analysis. more verbs and actions and first POV thoughts from characters.
@@ -281,8 +283,6 @@ Chap 1-5 S05E18: editing, tuning down the ultra analytical analysis. more verbs 
 
 <p style="text-align:right">-- <i>"Supernatural: Lucifer Rising"</i> (2009) by Carver Edlund</p>
 
-## Chap 1 Previously On (Part Two)
-
 ### Act 4 (S05E03)
 
 > Dean jumped when Cas's reflection popped into the mirror, barely inches away. His heartbeat raced like a frantic rabbit for a hot minute, and he could still feel his temples throbbing when he lashed out: "God! Don't do that!"
@@ -459,7 +459,7 @@ Chap 1-5 S05E18: editing, tuning down the ultra analytical analysis. more verbs 
 
 <!-- 518 "I rebelled for this?! So that you could surrender to them?" "Cas! Please!" "I gave everything for you. And this is what you give to me?!" -->
 
-## Chap 1 Previously On (Part Three)
+## Chap 1 Previously On (Part Two)
 
 ### Act 6 (S06E17)
 
@@ -480,8 +480,6 @@ Chap 1-5 S05E18: editing, tuning down the ultra analytical analysis. more verbs 
 <p style="text-align:right">-- <i>"Supernatural: The Man Who Would Be King"</i> (2011) by Carver Edlund</p>
 
 <!-- 620 "Look me in the eye and tell me you're not working with Crowley. *(Castiel looks at Dean, but then looks away)* You son of a bitch. You're in it with him? You and Crowley have been going after Purgatory together? You have, huh? This whole time." -->
-
-## Chap 1 Previously On (Part Four)
 
 ### Act 8 (S07E17)
 
