@@ -3959,4 +3959,16 @@ Some small case fic or daily story about Dean learning for the first time about 
 
 (remember some old posts somewhere, couples in quarrel, one is so pissed and leave the house to cool their head down, but still doesn't forget to send message to the other, letting them know they're not leaving, they just need the time and space, they'll come back. That sense of security is so rare and heartbreakingly warm.)
 
-### 354.
+### 354.【destiel】Cas's surprise birthday party
+
+On September 18th, Jody calls Dean to ask if he and Cas have time to come over to help, Dean initially planed to prepare Cas a birthday setting in the bunker, thinks Jody has case so they have to work, so Dean has to give up his plan unhappily, goes to Jody's with Cas. Only to find it's actually Claire tries to give Cas a surprise birthday party but too shy to tell Cas directly, so she made Jody make the call. So in the end all of them give Cas a birthday at Jody's.
+
+(where is Sam and Jack? working on something else somewhere else?)
+
+(something wrong with the cake or something small? easy to fix, but supernaturally wrong, like something in local grocery shop goes wrong when they go to buy something last minute (Jody sends them out just so keep them out of kitchen for a minute), so it's still a case and a job, but one that's relatively easy to fix. Dean/Cas have a moment in the shop to fix it, BAMF Cas moment, Dean appreciates, lovable moment)
+
+### 355.【destiel】Cas gifts his birthday to be Dean's
+
+They don't celebrate Cas's birthday on September 18th because that's the date Dean climbs out of Grave from Hell, that's not a pleasant memory for Dean, Cas doesn't want to remind him, but Dean remembers anyway. Cas suggests September 18th should be considered "Dean's birthday" instead of his, because he's re-birthed.
+
+### 356.
