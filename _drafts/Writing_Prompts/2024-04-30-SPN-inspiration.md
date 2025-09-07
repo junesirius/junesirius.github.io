@@ -3971,4 +3971,10 @@ On September 18th, Jody calls Dean to ask if he and Cas have time to come over t
 
 They don't celebrate Cas's birthday on September 18th because that's the date Dean climbs out of Grave from Hell, that's not a pleasant memory for Dean, Cas doesn't want to remind him, but Dean remembers anyway. Cas suggests September 18th should be considered "Dean's birthday" instead of his, because he's re-birthed.
 
-### 356.
+### 356.【all】case fic: monster in water stain
+
+(inspired/adapted from 2025-09-06 dream) (a little DW style)
+
+A new type of monster in a house, looks exactly look like a puddle of water stain on the floor, but it can move; the puddle/stain move from floor to wall, to ceiling, in and out, big and small, very obvious it's alive. But no one knows what it is, how to kill it (how to kill some water?), if it's killing/hurting people, what will happen if you touch it, if it can leave the room. people have to discuss it, argue a bit, can't decide.
+
+### 357.
