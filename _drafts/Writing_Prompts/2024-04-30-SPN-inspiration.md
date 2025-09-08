@@ -802,7 +802,13 @@ destiel watch "Batman vs Superman" movie together
 
 Dean loves to make analogy of himself with Batman, quotes from BvS about "God/Angel", who has the right to decide who gets to live, a little argument/debate in the living room?, destiel having similar Lois/Clark debate, Dean/Lois: "I know it will never work" (established relationship?), Cas: "I'm not leaving, just need some space"
 
-(relationship drama?)
+(relationship drama? potential crossover/fusion?)
+
+more quotes: "- You're not even from this world. - You're my world." "The Devil doesn't come from below, it comes from above" "Man fights God" "- I love you. - Please. Don't." (confession before farewell)
+
+more parallel: Cas/Superman has flaring eyes, iron-like body, no weakness but one, conflicted about morality, confused in human life
+
+Batman/Superman similarity: dual identity
 
 ### 74.5【destiel】S06E20《Justice League》
 
@@ -3989,11 +3995,50 @@ On September 18th, Jody calls Dean to ask if he and Cas have time to come over t
 
 They don't celebrate Cas's birthday on September 18th because that's the date Dean climbs out of Grave from Hell, that's not a pleasant memory for Dean, Cas doesn't want to remind him, but Dean remembers anyway. Cas suggests September 18th should be considered "Dean's birthday" instead of his, because he's re-birthed.
 
-### 356.【all】case fic: monster in water stain
+### 356.【all】monster in water stain
 
 (inspired/adapted from 2025-09-06 dream) (a little DW style)
 
+case fic
+
 A new type of monster in a house, looks exactly look like a puddle of water stain on the floor, but it can move; the puddle/stain move from floor to wall, to ceiling, in and out, big and small, very obvious it's alive. But no one knows what it is, how to kill it (how to kill some water?), if it's killing/hurting people, what will happen if you touch it, if it can leave the room. people have to discuss it, argue a bit, can't decide.
 
-### 357.
+### 357.【all】curse of "Macbeth"
 
+(first heard of from Rich/Rob's SPN Then and Now S03E01)
+
+reference: https://en.wikipedia.org/wiki/The_Scottish_Play
+
+case fic
+
+The curse of Macbeth on stage: uttering "Macbeth" in a theater can bring bad luck to a production. To avoid it, refer to the play as "The Scottish Play". The ritual to counteract it: leaving the theater, spinning three times, spitting, and knocking to be invited back in. Bad luck accidents to the production could include: accidental fall from ladder, prop changing from fake to real dagger to hurt, stage building breaking down, etc.. Might be related to the real curse in the show's witch's ritual.
+
+The Winchesters/TFW goes to investigate a stage that's affected by the curse. Could insert a scene where Dean/Cas have to perform the Macbeth or other Shakespeare show on stage during hunting.
+
+### 358.【destiel】"No one enters a relationship without childhood trauma"
+
+(inspired by a casual read and myself)
+
+read it somewhere: "No one enters a relationship without childhood trauma"
+
+Dean reads it from somewhere coincidentally? and finally have courage to try out relationship with Cas?
+
+side plot case fic with relationship therapist and starts out random fake relationship then turns real, and the advice hits right on the spot and gives him huge realization and starts to be brave
+
+something triggering and remind Dean of his need of being needed/wanted and abandonment issue, someone around mindlessly having a casual conversation and mentioned that and Dean is suddenly enlightened
+
+the example in the reading: accidentally spill something or make a small mistake, get reminded of the childhood trauma of being scolded/hit/punished for making a very similar mistake, waiting for being punished again by the partner, but the other only fixes the issue gently and comforts them not to worry, overwriting the traumatic memory, helping him to overcome the trauma. The right relationship is to meant to help heal.
+
+(The contradictory thing read in the past: "You don't go into a relationship before learning to be your complete self." Fix your issues and traumas and be whole before being in a relationship. might be the exact reason that discourages Dean to start something with Cas, even if they have feelings and everything in place, Dean doesn't think he's ready and will mess it up. slow burn?)
+
+### 359.【destiel】Cas is in love but rejects Dean when Dean proposes to be in relationship
+
+(inspired by 358)
+
+counter expectation: a story where they are very clear in love and both recognize it, they confessed, Cas might be the first to confess, Dean might be the one courageous enough to move forward first this time, proposing they start some relationship, but it's Cas that's not ready, thinking he'll mess things up, he's not human, he has issues, he wronged Dean so many times, he doesn't think he can manage it without losing Dean, he'll lose Dean in the end anyway one way or another because Dean is mortal and will die eventually, he already knows he'd be so happy if they're together and he knows he'd love Dean really really much, and so the death of Dean will be too much to bear, Cas doesn't think he'd be able to handle that pain so he thinks if they're not together, it might be not as painful to handle.
+
+Dean has to find him (Cas might run/fly away after his stuttering rejection that surprised Dean), there might be miscommunication too, Dean gets super surprised that Cas would say no, he believed they're already clear they're in love, they already admitted to each other they're in love, he can't understand what he did wrong that Cas doesn't want him. Dean might sulk a bit, might even be angry a little bit. Maybe enlightened by Sam or someone to go look for Cas to ask and talk (with real words) to understand why.
+
+Cas would be really upset and torn because he rejected (even worse than Dean who's the one getting rejected), he really really wants that but doesn't dare to start. They try something small, Dean trying to let Cas see having something than losing with pain would be better than not having anything at all and regret for eternity. Dean encourages Cas to get up the courage to handle the foreseeable pain. or maybe they run into some event to realize that, a side plot case fic maybe, almost losing each other again? they agree to have a try and see where it goes. so they're together in the end.
+
+### 360.
