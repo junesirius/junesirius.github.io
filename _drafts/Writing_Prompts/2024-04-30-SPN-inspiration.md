@@ -794,11 +794,29 @@ who did this? Crowley/Gabriel/Chuck/Rowena?
 
 ≈151
 
-### 74.【destiel】S06E20《Superman》
+### **74.【destiel】S06E20《Superman》**
 
-“Superman turns dark”
+"Superman turns dark" "better start stocking kryptonite"
 
 destiel watch "Batman vs Superman" movie together
+
+Dean loves to make analogy of himself with Batman, quotes from BvS about "God/Angel", who has the right to decide who gets to live, a little argument/debate in the living room?, destiel having similar Lois/Clark debate, Dean/Lois: "I know it will never work" (established relationship?), Cas: "I'm not leaving, just need some space"
+
+(relationship drama?)
+
+### 74.5【destiel】S06E20《Justice League》
+
+BvS Superman doesn't turn bad, Justice League Superman turns evil
+
+Dean didn't want to watch that, not remind them the time Cas turns bad, Cas wants to watch, understand their feelings at the time (establish relationship?), Cas apologizes, Dean already forgive him long ago
+
+### 74.6【destiel】angel-killing weapons
+
+inspired by BvS
+
+Batman creates bullets with kryptonite, make kryptonite gas bomb to immobilize Superman
+
+Dean/apocalypse world soldiers gets inspiration, make angel-killing bullets/gas bomb/etc.
 
 ### 75.【destiel】S08E12《Angel feather in the trunk》
 
@@ -3978,3 +3996,4 @@ They don't celebrate Cas's birthday on September 18th because that's the date De
 A new type of monster in a house, looks exactly look like a puddle of water stain on the floor, but it can move; the puddle/stain move from floor to wall, to ceiling, in and out, big and small, very obvious it's alive. But no one knows what it is, how to kill it (how to kill some water?), if it's killing/hurting people, what will happen if you touch it, if it can leave the room. people have to discuss it, argue a bit, can't decide.
 
 ### 357.
+
