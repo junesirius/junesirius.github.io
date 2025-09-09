@@ -3983,17 +3983,19 @@ Some small case fic or daily story about Dean learning for the first time about 
 
 (remember some old posts somewhere, couples in quarrel, one is so pissed and leave the house to cool their head down, but still doesn't forget to send message to the other, letting them know they're not leaving, they just need the time and space, they'll come back. That sense of security is so rare and heartbreakingly warm.)
 
-### 354.【destiel】Cas's surprise birthday party
+### 354.【destiel】Cas's surprise birthday party【WIP】
 
-On September 18th, Jody calls Dean to ask if he and Cas have time to come over to help, Dean initially planed to prepare Cas a birthday setting in the bunker, thinks Jody has case so they have to work, so Dean has to give up his plan unhappily, goes to Jody's with Cas. Only to find it's actually Claire tries to give Cas a surprise birthday party but too shy to tell Cas directly, so she made Jody make the call. So in the end all of them give Cas a birthday at Jody's.
+On September 18th, Jody calls Dean to ask if he and Cas have time to come over to help, Dean initially planed to prepare Cas a birthday setting in the bunker, thinks Jody has a case so they have to work, so Dean has to give up his plan unhappily, goes to Jody's with Cas. Only to find it's actually Claire tries to give Cas a surprise birthday party but too shy to tell Cas directly, so she made Jody make the call. So in the end all of them give Cas a birthday at Jody's.
 
-(where is Sam and Jack? working on something else somewhere else?)
+(where is Sam and Jack? working on something else somewhere else? Sam teasing Dean to be pining/sassy to be pining but still doesn't dare to confess and be together with Cas?)
 
 (something wrong with the cake or something small? easy to fix, but supernaturally wrong, like something in local grocery shop goes wrong when they go to buy something last minute (Jody sends them out just so keep them out of kitchen for a minute), so it's still a case and a job, but one that's relatively easy to fix. Dean/Cas have a moment in the shop to fix it, BAMF Cas moment, Dean appreciates, lovable moment)
 
+(double dream setting? Dean wakes up from the dream in Jody's house, remembering the reality is Cas is gone to Empty; Dean startles awake from that dream again, realizing the reality is Cas is back from Empty, they're together and retired, and it's Cas's birthday again, he's just too worried he'd mess Cas's birthday and having nightmare again first time in ages, Cas comforts him, they'd go get cake and call Jody/Claire just in a bit after Sun's up, right now it's cuddling time)
+
 ### 355.【destiel】Cas gifts his birthday to be Dean's
 
-They don't celebrate Cas's birthday on September 18th because that's the date Dean climbs out of Grave from Hell, that's not a pleasant memory for Dean, Cas doesn't want to remind him, but Dean remembers anyway. Cas suggests September 18th should be considered "Dean's birthday" instead of his, because he's re-birthed.
+They don't celebrate Cas's birthday on September 18th because that's the date Dean climbs out of grave from Hell, that's not a pleasant memory for Dean, Cas doesn't want to remind him, but Dean remembers anyway. Cas suggests September 18th should be considered "Dean's birthday" instead of his, because he's re-birthed.
 
 ### 356.【all】monster in water stain
 
@@ -4041,4 +4043,14 @@ Dean has to find him (Cas might run/fly away after his stuttering rejection that
 
 Cas would be really upset and torn because he rejected (even worse than Dean who's the one getting rejected), he really really wants that but doesn't dare to start. They try something small, Dean trying to let Cas see having something than losing with pain would be better than not having anything at all and regret for eternity. Dean encourages Cas to get up the courage to handle the foreseeable pain. or maybe they run into some event to realize that, a side plot case fic maybe, almost losing each other again? they agree to have a try and see where it goes. so they're together in the end.
 
-### 360.
+### 360.【destiel】小王子AU
+
+Inspired by AO3 "[Ad Astra](https://archiveofourown.org/works/1013491)" and *The Little Prince*
+
+Cas is the Little Prince, the falling star, falling to the Earth, learning about humans
+
+Dean is the lost dying pilot in the desert
+
+sad fairytale style story
+
+### 361.
