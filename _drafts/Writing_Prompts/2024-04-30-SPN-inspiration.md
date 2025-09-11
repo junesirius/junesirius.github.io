@@ -542,7 +542,7 @@ Dean的“you're dead to me”，可以真正地杀死Cas。
 
 想写Cas发疯的时候发生了什么，可以用到S10E22上一次Dean有该隐之印的时候暴揍Cas的那一顿作为参考，Cas会黑化失控，但是会做到什么地步。会家暴Dean，这是肯定要有的，也许差点杀掉了他。但是最后是怎么被连哄带劝地关进Ma'lak Box的。
 
-（ref: prompt 338）
+(→ prompt 335.5)
 
 ### 49.【destiel】《I'm Sorry》的后续
 
@@ -950,7 +950,7 @@ then rewind back to 401, let Jimmy make informed decision (← fully information
 
 just has to stop Armageddon all over again
 
-(-> prompt 200)
+(→ prompt 200)
 
 ### **92.【destiel】S10E22 "I'm the one who will have to watch you murder the world."**
 
@@ -2887,7 +2887,7 @@ Cas read Dean's memory, but door can be stepped either direction, Dean start rea
 
 ### **268.【destiel】S04E01 Dean lobotomize Cas in Hell during angel rescue**
 
-(inspired by a comment under my tumblr post mentioning Cas 0817 is lobotomized) (heavy angst)
+(inspired by a comment under my tumblr post mentioning Cas 0817 is lobotomized) (heavy angst, canon compliant, canon divergent)
 
 start scene as if normal hospital operation scene, Dean enter in Doctor coat, acting operation on patient, they scream, turn out it's lobotomy, Dean enjoys the process and thinks he's doing the right thing (write in a way as if it's just a Doctor AU, but actually canon-divergent; unnoticeably knowing Azazel&Dean interaction, Dean trusts him, Azazel showing him tricks and Dean outskills him, Azazel=father figure)
 
@@ -2895,13 +2895,13 @@ turn out this is in Hell, except not even Dean realizes that, he thinks he's doi
 
 (the visual of pocket room of Hell, everyone's individual Hell: inspired by *Lucifer*)
 
-then angels come to rescue, Cas is the first/only angel fights off all the demons outside his pocket-Hell and enter the operation room, get force transformed into human vessel form in there, Dean thinks he's just another soul to operate on, Cas try to reason with him, but rule one of save, Dean needs to agree to leave to be saved, but Dean doesn't even realize this is hell so he wouldn't want to leave, and he just thinks Cas is another patient trying to fight/talk his way out; Dean force Cas down (win their fight, cuz Cas hold back, doesn't want to hurt the Righteous Man) to the operation table, lobotomize Cas, Cas forget why he's down here, that he's an angel and he's coming to save Dean, now Cas thinks he's same as Dean so hang around in the room, be his assistent
+then angels come to rescue, Cas is the first/only angel fights off all the demons outside his pocket-Hell and enter the operation room, get force transformed into human vessel form in there, Dean thinks he's just another soul to operate on, Cas try to reason with him, but rule one of save, Dean needs to agree to leave to be saved, but Dean doesn't even realize this is hell so he wouldn't want to leave, and he just thinks Cas is another patient trying to fight/talk his way out; Dean force Cas down (win their fight, cuz Cas hold back, doesn't want to hurt the Righteous Man) to the operation table, lobotomize Cas, Cas forget why he's down here, that he's an angel and he's coming to save Dean, now Cas thinks he's same as Dean so hang around in the room, be his assistant
 
-Cas without memory/knowledge, slow learner, but pick up the tools, operate on others like Dean show him, Dean start get interested in him (tho initially think he's just weird and need punish), fond of him, start trusting him; demons know he's angel, come in (in human form) try to take Cas away, Dean instinctively protect Cas, kill demons
+Cas without memory/knowledge, slow learner, but pick up the tools, operate on others like Dean show him, Dean start to get interested in him (though initially think he's just weird and need punish), fond of him, start trusting him; demons know he's angel, come in (in human form) try to take Cas away, Dean instinctively protect Cas, kill demons
 
 Azazel (in doctor director costume) come in to try to take Cas away/kill him on sight, Dean doesn't let him, Azazel commands Dean kill Cas or he'd be disappointed at him (father figure), Dean hesitates, acts as if intend to kill Cas (Cas frightened) but ends up didn't, instead rebels to Azazel, leaves the operation room and takes Cas with him to outside, see real Hell, shocked, Cas remembers he has wing (reminded by Balthazar?/Dean, Dean believes what he said before lobotomy is true now, tell him back what he initially said), use wing to protect Dean, demons attack, Cas purely muscle memory fight (still vessel shape, still doesn't remember other things before lobotomy), hand on Dean's shoulder (burns Dean, yell) and flies him out ("Dean Winchester is saved")
 
-Cas go back to heaven to regain a copy of memory (backuped before fight/standard version for all angels) from Naomi (hint potential memory messed up again), back in time to meet Dean in barn again
+Cas go back to heaven to regain a copy of memory (backuped before fight/standard version for all angels) from Naomi (hint potential memory messed up again), back in time to meet Dean in barn again, canon compliant
 
 ### 269.【micifer+destiel】Michael!Dean + Lucifer!Cas（R级）
 
@@ -3779,7 +3779,7 @@ They panic, notice signs and doesn't know what to do. Or could fast-forward/jump
 
 But never evil, he's basically still Cas, kinda like Crowley, good-hearted, actually doesn't have much change all things considered, except for the black eyes. At most a bit more mischievous and very slightly moral ambiguous. (Meg is a decent, good-hearted demon too later. Kinda like later season Meg. could add a little Meg/Crowley teasing Cas? teach him how to be demon, what to watch out, salt/iron/holy water) He even still has wings, or even fixed his broken wings (if it's post-S8 divergent), but he knows the white feathers are black now. He's utterly disgusted by his own wings, his own everything. Might even has some suicidal attempt, but stopped by Dean at last moment, or those attempts fail to kill him, or he does succeed and Dean has to go looking for him and resurrecting him from Empty. He has to continue exist as demon.
 
-(somewhat like Ma'lak Box MoC!Cas? → prompt 48)
+(somewhat like Ma'lak Box MoC!Cas → prompt 335.5)
 
 Maybe the "not evil" part is only the beginning, when Cas still can have enough self-control, have consciousness, have good-heart, but it's a losing battle. The change is still happening underway, making his heart more black, hard, cold-blooded, blood-thirsty, brutal, cruel, by each day. They notice it, try hard to keep Cas on human/angel good side, reason with him to see the good choice, be good, be kind. Because if Cas loses it, he'd fully, completely, irreversibly become a demon. Maybe they find some solution, but it's like newly-turned vampire/werewolf reverse spell, it would only work if he doesn't cross some last line. Cas is losing control and painful, and Dean/everyone is trying their best to help him.
 
@@ -3790,6 +3790,22 @@ have to figure out a way to turn Cas back and save Dean again, maybe Cas doesn't
 The two of them go back to Earth together again. HE.
 
 (≈ prompt 362)
+
+### **335.5【destiel】S15E09 MoC!Cas becomes demon!Cas**【WIP】
+
+inspired by 335, the turning to evil part is like Ma'lak Box MoC!Cas → prompt 48
+
+maybe the whole "turning to demon" is because of MoC, Cas died when he still has MoC and resurrected by Mark and becomes a demon
+
+somewhere in the process there must be one plot he beats the shit out of Dean and almost kills Dean, just for the S10E22's sake
+
+one solution to help him stay human, similar to demon trial Crowley, human blood can purify demon, so Dean tries to purify demon!Cas with his blood, making Cas very openly addicted to Dean's blood and express love
+
+some talk about putting him to Ma'lak Box, divergent from S15E09 monster ending because Dean doesn't put Cas into Ma'lak Box, they won't end up becoming vampires, MoC!Cas help smite so many monsters, he's more powerful/strong than usual (similar to S05E04 Dean seeing the AU ending if he doesn't say yes to Michael, the world becomes that, but his takeaway is to not distance Sam; so S15E09 Sam's takeaway from the AU ending, is they don't put Cas into Ma'lak Box, they'll help him, they can win this monster ending, at least die trying)
+
+to release the Mark Dean has to do the spell and kill Cas, what if the timing is off, they rely on Mark to resurrect Cas then to remove Mark
+
+potential solution: split and transfer the Mark to all living souls, the whole human race everyone takes a piece to lock God away, maybe be a little darker and living longer (still morally ambiguous? not all human sign up for this, they're playing God to make the decision for whole human race, distain the whole human race basically, and they don't know it would work before they try, too much risk, they might end up killing all humans, but the alternative is all monster killing all human, practically the same risk; need to think if there's a better solution)
 
 ### 336.【Crowley】good souls go to Heaven, good demons too
 
@@ -4093,7 +4109,7 @@ Dean hides non-human identity, being exposed, mutual attraction, equality talk, 
 
 self discovery, canon compliant (magic school life)
 
-### *362.【destiel】S04E01 Cas is actually a demon, Dean is right about not believing angel exists**
+### **362.【destiel】S04E01 Cas is actually a demon, Dean is right about not believing angel exists**
 
 (≈ prompt 335, but without the changing; heavy angst)
 
@@ -4121,4 +4137,14 @@ Cas is actually a demon. When Dean's in Hell and becoming sorta demon, Cas is th
 
 (Inspired by one destiel fic where Dean's demon and they save S04 Apocalypse, Michael can't possess demon!Dean as vessel, it gives them benefit)
 
-### 364.
+### 364.【destiel】angel!Dean x demon!Cas
+
+(inspired by 363, ≈ Good Omens reversed)
+
+Cas is a demon, but just a small role, maybe not even a really good one, working in sales under Crowley, just punching the clock and making deals. (maybe also canon divergent, Empty kicks him out but turns him into a demon and wipes his memory. No Jack in this version? they didn't win and Chuck still the God? it's one of Chuck's version of destiel?)
+
+Dean is an angel, thinking he doesn't have a big role (but he does, his memory is altered, actually canon compliant/divergent, it's after S15E20, he's in Heaven and there is volunteer/forced? program to change souls to make angels to save missing angel issue that could potentially crumble Heaven, and Dean becomes one, Naomi in charge?).
+
+They both have mission on Earth and run into each other. Maybe Dean is even tasked to monitor demon activity on Earth and is supposed to kill Cas, but he observes Cas and decides against it, falls for Cas. something big might happen in the background, Apocalypse might happen again and they work together to stop it. maybe find out their previous memory again? maybe crossover with the canon Dean & Cas. maybe this is one of the many worlds Chuck is destroying in S15 to get to canon Dean/Cas, they figure out world-crossing spell and cross to canon world (like hunter corp!Dean&Sam), help canon TFW fight against Chuck
+
+### 365.
