@@ -4053,4 +4053,28 @@ Dean is the lost dying pilot in the desert
 
 sad fairytale style story
 
-### 361.
+### 361.【destiel】human!Cas x non-human!Dean
+
+inspired by BucketofLi's art
+
+details in ["2025 Destiel AU Reverse Bang" whole novel script](https://github.com/junesirius/junesirius.github.io/blob/master/_posts/Supernatural/SPN_AU_RB/SPN-AURB-whole-novel.md)
+
+### 361.1【destiel】The Shape of Water AU
+
+biology researcher Cas finds magic creature Dean, slow burn, getting familiar, mutual attraction, mutual protecting, temporary death, eventual happy ending
+
+### 361.2【destiel】student!Cas x creature!Dean
+
+Dean is not mistreated, but still lonely and unhappy. Cas takes care of him, understands him. (college life)
+
+### 361.3【destiel】human student!Cas x non-human student!Dean
+
+Dean hides non-human identity, being exposed, mutual attraction, equality talk, self-identity issue (college life)
+
+### 361.4【destiel】angel!Cas x djinn!Dean, magic school AU
+
+(from Constantine prompt 9)
+
+self discovery, canon compliant (magic school life)
+
+### 362.
