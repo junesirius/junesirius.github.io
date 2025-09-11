@@ -73,7 +73,7 @@ Meta-narrative Dean/Cas's thoughts: every different chapter "part", increasing t
 
 When posting: different "Part" of Chap 1 post into separate AO3 characters, keep each chapter length contained
 
-shuffle the order? Chap 1 part one → Chap 2 → Chap 1 part two → Chap 3 ? Chap 1 a little too long t
+shuffle the order? Chap 1 part one → Chap 2 → Chap 1 part two → Chap 3 ? Chap 1 a little too long too much?
 
 After finish: search the whole file, ensure no appearance of "Winchester" anywhere in Chuck's book before S04E18
 
@@ -591,4 +591,4 @@ He would make it a better story.
 
 <p style="text-align:right">-- <i>"Supernatural: Hunteri Heroici"</i> (2012) by Carver Edlund</p>
 
-<!-- 808 anime episode, "I'm afraid I'll kill myself" "I see now, it's hilarious" (Dean reads Cas's mental activity from book); watch anime together in motel room after finish reading, Cas doesn't get something, Dean explain, or Dean just enjoy gut wrecking laugh, Cas watch him and smile --> 
+<!-- 808 anime episode, "I'm afraid I'll kill myself" "I see now, it's hilarious" (Dean reads Cas's mental activity from book); watch anime together in motel room after finish reading, Cas doesn't get something, Dean explain, or Dean just enjoy gut wrecking laugh, Cas watch him and smile -->
