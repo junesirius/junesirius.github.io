@@ -974,9 +974,21 @@ Cas & Sam will continue searching for him, trying to save him anyway, wherever t
 
 ### 94.【drowley】S10E23 Crowley's love
 
+(for some reason Rowena can't cast the spell, Crowley has to do it)
+
 What if Crowley has to find the one he loved to cast the spell: find out to be Dean
 
-### 95.【destiel】S10E23 Cas's love
+### 94.5【Rowena/Crowley】S10E23 Rowena's love
+
+the spell didn't work after Rowena killed Oskar, or there is just no Oskar in this version
+
+for some reason she ended up killing Crowley, and the spell worked
+
+Rowena actually truly loved Crowley but repressed it so much that herself didn't even know
+
+### 95.【destiel】S10E23 Cas has to kill Dean to release MoC curse to save Dean
+
+(similar as above, the spell requires a sacrifice of caster's love)
 
 What if Cas has to cast the spell: he knows it's Dean, he will never kill him no matter what
 
@@ -2933,7 +2945,7 @@ Max reuse Rowena's spell, throw Witch's ring in for full power, create two bodie
 
 ~~272. (duplicate 221)~~
 
-### 273.【destiel】addict to angel blood（R级）
+### **273.【destiel】addict to angel blood**（R级）
 
 parallel to S4 Sam addicted to demon blood or S9 Crowley addicted to human blood
 
@@ -3132,6 +3144,8 @@ canon S10 demon!Dean is knight of Hell - black-eyed
 what if demon!Dean is his own race of demon, and is still Green-Eyed; they thought to use eye color to identify demon state, never thought when Dean's eyes are back to green, he's still a demon, just a Green-Eyed demon
 
 after the blood thing, thought S10 Dean is back human but he's not actually changed back
+
+(≈ prompt 362)
 
 ### 286.【Dean/destiel/drowley】Green-Eyed demon, King of Hell
 
@@ -3755,7 +3769,7 @@ What happened to Cas during all these? Remain angel? Or overpowered by the natur
 
 They have to save Heaven/Hell/Earth, and they have to save Cas.
 
-### 335.【destiel】Cas is fallen all the way to Hell and become demon!Cas
+### **335.【destiel】Cas has fallen all the way to Hell and becomes demon!Cas**
 
 (inspired by prompt 334)
 
@@ -3763,7 +3777,7 @@ maybe because of the S04E01 siege when saving Dean, or other times he has to go 
 
 They panic, notice signs and doesn't know what to do. Or could fast-forward/jump start, directly start the story with Cas being a demon, trace back to figure out why or how, and the transformation process that he undertakes alone. Painful, lonely, more self-loath, self-punishment behavior.
 
-But never evil, he's basically still Cas, kinda like Crowley, good-hearted, actually doesn't have much change all things considered, except for the black eyes. At most a bit more mischief and very slightly moral ambiguous. (Meg is a decent, good-hearted demon too later. Kinda like later season Meg.) He even still has wings, or even fixed his broken wings (if it's post-S8 divergent), but he knows the white feathers are black now. He's utterly disgusted by his own wings, his own everything. Might even has some suicidal attempt, but stopped by Dean at last moment, or those attempts fail to kill him. He has to continue exist as demon.
+But never evil, he's basically still Cas, kinda like Crowley, good-hearted, actually doesn't have much change all things considered, except for the black eyes. At most a bit more mischievous and very slightly moral ambiguous. (Meg is a decent, good-hearted demon too later. Kinda like later season Meg. could add a little Meg/Crowley teasing Cas? teach him how to be demon, what to watch out, salt/iron/holy water) He even still has wings, or even fixed his broken wings (if it's post-S8 divergent), but he knows the white feathers are black now. He's utterly disgusted by his own wings, his own everything. Might even has some suicidal attempt, but stopped by Dean at last moment, or those attempts fail to kill him, or he does succeed and Dean has to go looking for him and resurrecting him from Empty. He has to continue exist as demon.
 
 (somewhat like Ma'lak Box MoC!Cas? → prompt 48)
 
@@ -3771,9 +3785,11 @@ Maybe the "not evil" part is only the beginning, when Cas still can have enough 
 
 And maybe Cas still loses it, or something really bad happened. Maybe he attacks Dean with his demon-controlled darkened mind, remembering the harm and pain Dean does to him. Cas accuses Dean, Dean is too guilty to resist, and Cas (accidentally or forcefully?) kills Dean (≈ "Into the Fire" MoC!Dean, kills Cas when controlled, heavy angst). Cas comes back to himself briefly and pains too much, and turns completely to a demon in his heartbroken moment.
 
-have to figure out a way to turn Cas back and save Dean again, maybe Cas doesn't care anything anymore and goes to Heaven to find Dean, which should burn him alive and kill him (which he doesn't mind and thinks he actually deserves it), which end up purifying him and cure him. And the solution is basically because of the love he has for Dean is too strong, demonization process is stripping out the emotions, but love is not an emotion, not just a thread of feeling, it's everything, it's integrated into him, so strong and focused and pure that it becomes the spark that weave the rest of his consciousness back and gets rid of the demonness. So it's not Heaven that purifies the demon, it's seeing Dean when he's in Heaven and the willingness to self-sacrifice for him that heals him.
+have to figure out a way to turn Cas back and save Dean again, maybe Cas doesn't care anything anymore and goes to Heaven to find Dean, which should burn him alive and kill him (which he doesn't mind and thinks he actually deserves it), which end up purifying him and cure him. And the solution is basically because of the love he has for Dean is too strong, demonization process is stripping out the emotions, but love is not an emotion, not just a thread of feeling, it's everything, it's integrated into him, so strong and focused and pure that it becomes the spark that weave the rest of his consciousness back and gets rid of the demonness. So it's not Heaven that purifies the demon, it's seeing Dean when he's in Heaven and the willingness to self-sacrifice for him that heals/reverse-changes him.
 
-The two of them goes back to Earth together again. HE.
+The two of them go back to Earth together again. HE.
+
+(≈ prompt 362)
 
 ### 336.【Crowley】good souls go to Heaven, good demons too
 
@@ -3789,7 +3805,7 @@ They drop to Earth as soul/ghost, not bound by demon spell, can enter bunker, so
 
 ### 337.【destiel】S03E11 every time Dean dies on Groundhog day Tuesday, he goes to Heaven and sees Cas for one day
 
-(Canon Divergent, see detailed outline in Post or Tumblr 2025-08-26)
+(Canon Divergent, see detailed outline in [Post](https://junesirius.github.io/2025/08/26/SPN-03-20-canon-divergent) or [Tumblr](https://www.tumblr.com/junesirius/792977979806515200) 2025-08-26)
 
 Short version of outline:
 
@@ -3831,7 +3847,7 @@ Similar to above but Cas is an angel at the time of S01E12, when Dean prays, he 
 
 Cas that time might be similar to 2003!Cas in S14E13, Heaven's good soldier, initially refuses to help. But similar to Cas in S04E07, he has doubts and questions. Dean challenges him. They might experience something together, someone might sacrifice themselves for others, the typical. In the end, Cas trusts Dean, Dean has faith in him, Cas makes his own decision and saves Layla. (may or may not trigger more consequence from there, Heaven doesn't like what Cas did, they might have to be in war with Heaven again)
 
-### 340.【destiel】S15E03 what if Cas follows the plan, closes rupture and gets buried under
+### **340.【destiel】S15E03 what if Cas follows the plan, closes rupture and gets buried under**
 
 (heavy angst)
 
@@ -3839,7 +3855,7 @@ Dean's the one volunteers (forces) Cas to go to Hell with Belphegor the demon to
 
 Belphegor: "It's almost like you *want* to get buried under."
 
-Cas: no one up there cares about me anyway.
+Cas: "No one up there cares about me anyway."
 
 The ghost situation up there is solved. Dean waits for Cas to come back, waiting for really really long time. The rift closes. Cas doesn't come back. Dean's eye-rims red, knowing full well this is his fault, this time is fully his pride and temper pushing Cas under the wheel, remembering Cas's look at him when he volunteered him, knowing how much he hurt Cas and how much himself deserve the torture and guilt knowing what he did. Sam doesn't dare to speak to him when he's like that. Practically murderous. But in the core, suicidal.
 
@@ -4077,4 +4093,32 @@ Dean hides non-human identity, being exposed, mutual attraction, equality talk, 
 
 self discovery, canon compliant (magic school life)
 
-### 362.
+### *362.【destiel】S04E01 Cas is actually a demon, Dean is right about not believing angel exists**
+
+(≈ prompt 335, but without the changing; heavy angst)
+
+Dean is actually right to not believe or trust Cas is an angel and that angel doesn't exist. Cas is actually a demon, maybe he lied, maybe he's lied to, genuinely believed he's an angel not a demon, or actually "Heaven" is a division of Hell and the so-called "angel" is a subspecies of demon, but they'll only find out later. If Cas lied about being a true demon, maybe because he knows how Dean sees demons, he doesn't want Dean see him that way to start with, doesn't want Dean disgust him or hate him.
+
+(Patch: why demon blade and salt rock gun doesn't harm him when Dean shoots/stabs him (which is essential to believing Cas is an angel) is because they only work on lower rank demons, like in S12E12 demon blade also doesn't harm Ramiel, Prince of Hell, Cas might also be a Prince or Knight like Abaddon, so very strong powerful, different eye color, black-blue or dark blue without pupil, no grace; or might be his own rank/sub-race within demon, like Lilith being the only white-eyed, Crowley being the only red-eyed, Cas can be the only blue-eyed demon, prompt 285 Dean is green-eyed demon)
+
+But Cas is indeed the one saving Dean from Hell, except not because angels siege the Pit, he's already there, he's responsible for that Hell Division, he's possibly even superior of Asmodeus (yellow-eye, same rank as Ramiel, also Prince of Hell, also immune to Ruby's blade) or his colleague. He has easy access to Dean, be there with/for him, talk/acquittance/slow build their relationship. Maybe Cas didn't know about God's plan or Azazel's plan initially, but somehow he finds it out, may or may not be too late that Dean already broke the first seal and begins torturing. Cas already starts caring about Dean too much, doesn't think Dean deserve to be there, or maybe something triggers him to make the decision to rebel against Hell (sorta like Ruby as a Hell-cast-out demon, hunted/hated by other demons, thinking she'd the demon traitor), but the funny thing about being demon: being bad is good, betraying is good, he's doing exactly what demon is expected to do (but with free will), and so does Dean. ("I'm a demon, what do you expect?")
+
+Cas rebels, "falls" upward, saving Dean from Hell, but doesn't want him to know. Dean maybe remembers clips from Hell, remembering pieces when he spent time with demon!Cas (when they're both down there, they might could already have intimate/explicit moments, or maybe Dean wanted, Cas doesn't, so they're almost there but not quite). Maybe Cas knows some memory magic that he wipes himself away from Dean's memory of Hell, so he could stay with Dean the whole time in S4 without worrying him remembering his true identity. ("Why do you wipe his only good memory down there?" "I don't want him see me like that, we can create new memory up there." Cas has other "good" demon friend down there? Balthazar is also a angel-division demon? so does all the other canon angels? some interaction/involvement with Crowley somewhere around here)
+
+Then something happens, or someone tells Dean the truth, that Cas is lying to him, Dean confronts Cas, maybe it's also Cas's first time realizing, maybe he's ashamed, Dean feels betrayed, heavy angst, big conflict moment. Dean might have way/weapon to kill Cas at this moment, they might find out Michael's Lance (S12E12, but not in Ramiel's place yet, Crowley gives him that, so it's still in Crowley's place, Crowley might give it to Dean, Dean might know it beforehand and somehow steal/take it from Crowley), so now Dean could kill Cas with Michael's Lance. Cas might think he deserves it anyway, he didn't save Dean from becoming demon in the first place, he had thirty years' chance, but Dean ended up still becoming demon and breaking the first seal. So Cas doesn't resist when Dean's almost kill him, maybe Dean actually kills him and regrets immediately and in heavy angst pain and has to save Cas back from Empty. Or maybe Dean can't even if he wants, or he's stopped by someone else, maybe it's Sam stopping him, saying Cas is only trying to do good and help him, it doesn't matter he's a demon (Sam is always good at relating to non-humans/"monsters", compassion with them, knowing they didn't choose their species), and apparently Cas cares about Dean and works hard to help them stop the Apocalypse, doesn't want Lucifer out (like Crowley). So Dean ends up not killing Cas and realizes Cas does care about him a lot and himself to Cas too.
+
+Maybe Cas believes even if Dean doesn't kill him, he's being resented, not needed/wanted, so he leaves and resents himself, and maybe does something reckless, putting himself in danger, maybe even dying or dead. Dean comes to look for him, show genuinely care and love to him, let him know he's accepted as he is, brings him home.
+
+(not sure how to end, maybe open ending, Dean accepts Cas's demon identity, they continue to be together, saving world as human & demon. maybe a line that Dean tells Cas he's even better a demon than anything else, he doesn't care if he's a real angel or not, because to him, he already is. Cas is relieved and finally accepts himself as well.)
+
+### 363.【destiel】S04E01 demon!Dean x demon!Cas
+
+(inspired by 362, ≈ S10 demon!Dean x Crowley)
+
+Cas is actually a demon. When Dean's in Hell and becoming sorta demon, Cas is the demon that teaches him how to survive as a demon. demon!Dean is more cruel and ruthless in torturing and enjoying it, terrifies the authentic demon!Cas. Something something, the two of them fight against Asmodeus and Lilith and escape Hell together. Rewrite S04 to stop Apocalypse together as both demons.
+
+(not sure how to end, maybe open ending, they continue to be what they are, accept their identities, continue helping people, saving world, as demons. Even as demons, they do what they think are the right things to do, who to say they're not humans or even better, like angels in fairy tales with fluffy wings and halos.)
+
+(Inspired by one destiel fic where Dean's demon and they save S04 Apocalypse, Michael can't possess demon!Dean as vessel, it gives them benefit)
+
+### 364.
