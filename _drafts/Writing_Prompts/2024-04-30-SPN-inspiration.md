@@ -1992,9 +1992,23 @@ what if main world Charlie also meet Kara the bakery owner girl
 
 凶神恶煞温双（+卡）让monster baby瑟瑟发抖其实对不作恶小monster网开一面，对帮助人类的monster还能有机会收纳进自己圈子，（好）baby monster发现他们跟妈妈故事里讲的不一样
 
-### 207.【Cas】S09E03 human Cas lose memory
+### 207.【Cas/destiel】S09E03 human Cas lose memory
 
 卡变成人类之后因为人类大脑结构承载不了这么巨大的天使记忆容量，所以只能保留住了有限的一部分，记忆力受损，记不住几千万年天使时期的事情。卡在变成人类初期就意识到了，对自己记忆变差这件事接受不太良好，但是想着恢复天使之后应该就能恢复记忆所以保有希望也没有表现出来，但是在S10E18卡拿回grace之后发现失去的记忆没有回归，失去的就是失去了，突然难受了
+
+Dean comforting an upset Cas
+
+### 207.5【Cas】《Castiel's journal》
+
+Read the spn tie-in book 《Supernatural: Bobby Singer's Guide to Hunting》, written from Bobby's POV, starting as Bobby getting memory curse and having to write down everything he knows about hunting and monsters before he forgets everything
+
+extended from prompt 207
+
+Cas realizes his memory is deteriorated during/after becoming human and continue to forget, so he starts writing journal about everything he can still remember, starting from the beginning of biblical time, old testimony stuffs that he experienced and did off-chart, like when he'd in Egypt trying to save the first-born sons
+
+might be a very long book/journal, need to write in Cas tone
+
+(maybe Dean would find out his journal or run into Cas when he'd writing, they'd have some conversation, Dean having his input, comforting Cas, Cas might start writing that down too)
 
 ### **208.【destiel】S14E13 the other 2003 timeline**
 
@@ -4029,6 +4043,8 @@ On September 18th, Jody calls Dean to ask if he and Cas have time to come over t
 
 They don't celebrate Cas's birthday on September 18th because that's the date Dean climbs out of grave from Hell, that's not a pleasant memory for Dean, Cas doesn't want to remind him, but Dean remembers anyway. Cas suggests September 18th should be considered "Dean's birthday" instead of his, because he's re-birthed.
 
+"My birthday is the day I met you. The day I met you is the day I was born, I started having a real, human life."
+
 ### 356.【all】monster in water stain
 
 (inspired/adapted from 2025-09-06 dream) (a little DW style)
@@ -4147,4 +4163,186 @@ Dean is an angel, thinking he doesn't have a big role (but he does, his memory i
 
 They both have mission on Earth and run into each other. Maybe Dean is even tasked to monitor demon activity on Earth and is supposed to kill Cas, but he observes Cas and decides against it, falls for Cas. something big might happen in the background, Apocalypse might happen again and they work together to stop it. maybe find out their previous memory again? maybe crossover with the canon Dean & Cas. maybe this is one of the many worlds Chuck is destroying in S15 to get to canon Dean/Cas, they figure out world-crossing spell and cross to canon world (like hunter corp!Dean&Sam), help canon TFW fight against Chuck
 
-### 365.
+### 365.【destiel】《Die Hard the Hunter》（Lyrics）
+
+(by Def Leppard)
+
+Shotgun
+
+Let's welcome home the soldier boy
+
+(Far away, far away)
+
+No angel of mercy just a need to destroy
+
+(Fire away, fire away)
+
+Let's toast the hero with blood in his eyes
+
+The scars on his mind took so many lives
+
+Die hard the hunter
+
+
+
+Welcome home, soldier boy
+
+Put down your pistol, yeah, put down your toy
+
+Yeah, they can take a gun away from you
+
+But never take away your attitude
+
+They can't do that
+
+
+
+You got no enemy, no front line
+
+The only battle's in the back of your mind
+
+You don't know how to change from bad to good
+
+You brought the war to your neighborhood
+
+You can't do that
+
+No no, no you can't do that
+
+
+
+You're caught in a trap
+
+(Hunter) there's no lookin' back
+
+(Die hard) he's lost in the crowd
+
+(Hunter) die hard and proud
+
+Die hard the hunter
+
+
+
+Back in the city, he's a man on the loose
+
+He is the shadow that's following you
+
+He takes no prisoners when he's hunting for game
+
+He's got a bullet, and it carries your name
+
+You can't do that, you can't do that
+
+You can't do that, oh, no, no, no
+
+
+
+Die hard the hunter (Watch out)
+
+Die hard, he's got blood in his eyes
+
+Die hard the hunter, he's hungry for days
+
+Die hard the hunter, his bullet carries your name
+
+You can't do that
+
+No, no, no
+
+
+
+(Hunters are soldiers, hunter's PTSD is like soldier's PTSD after they come home, they come back from the battlefield but can never really come home. later season Dean, maybe post-S15 Dean, want to retire but PTSD)
+
+### 366.【destiel】《We Pray》（Lyrics）
+
+(by Coldplay)
+
+Whoa oh, and so we pray
+
+I pray that I don't give up, pray that I do my best
+
+Pray that I can lift up, pray my brother is blessed
+
+Prayin' for enough, pray Virgilio wins
+
+Pray I judge nobody and forgive me my sins
+
+
+
+I pray we make it, pray my friend will pull through
+
+Pray as I take it unto other, I do
+
+Prayin' on your love, we pray with every breath
+
+Though I'm in the valley of the shadow of death
+
+
+
+And so we pray for someone to come and show me the way
+
+And so we pray for some shelter and some records to play
+
+And so we pray, we'll be singin' "Baraye"
+
+Pray that we make it to the end of the day
+
+
+
+And so we pray, I know somewhere that Heaven is waitin'
+
+And so we pray, I know somewhere there's something amazin'
+
+And so we pray, I know somewhere we'll feel no pain
+
+Until we make it to the end of the day
+
+
+
+I pray that love will shelter us from our fears
+
+Oh, I pray you trust to let me wipe off your tears
+
+Confront all the pain that we felt inside
+
+With all the cars we've been dealt in life
+
+Pray I speak my truth and keep my sisters alive
+
+
+
+So for the ones who parted seas
+
+For the ones who's followin' dreams
+
+For the ones who knocked down doors
+
+And allowed us to pass down keys
+
+Pray that we speak with a tongue that is honest
+
+And that we understand how to be modest
+
+Pray when she looks at herself in the mirror
+
+She sees a queen, she sees a goddess
+
+
+
+On my knees, I pray, as I sleep and wake
+
+'Cause inside my head is a frightenin' place
+
+Keep a smiling face, only by His grace
+
+'Cause love's more than I can take, hey
+
+
+
+And so we pray (and so we pray)
+
+And so we pray (and so we pray)
+
+'Till nobody's in need and everybody can say
+
+### 367.
