@@ -10,11 +10,11 @@ origin: 2025 Destiel AU Reverse Big Bang
 long_novels: 【Destiel】Title TBD
 ---
 
-Tags: AU - Fantasy, AU - Magic Creatures, Slow Burn, Get Together, Creature Dean, Light Angst, Eventual Happy Ending, Temporary Main Character Death (?), Fluff (?)
+Tags: AU - Fantasy, AU - Magic Creatures, Slow Burn, Get Together, Magic Creature Dean, Researcher Castiel, Angst, Eventual Happy Ending, Temporary Main Character Death, Inspired by The Shape of Water
 
-Rating: Teen and up (for violenve)
+Rating: Teen and up
 
-Warning: Graphic Depictions of Violence (?)
+Warning: Graphic Depictions of Violence, Temporary Main Character Death
 
 [TOC]
 
@@ -30,9 +30,11 @@ Cas wears glasses and a cross necklace, could be a college student, a priest, a 
 
 ### Title
 
-### Ideas
+###### [TBA]
 
-#### Idea 1: researcher!Cas x magical creature!Dean
+### Outlines
+
+#### **Outline 1: researcher!Cas x magical creature!Dean**
 
 (heavy angst, light domestic, potential intimate, ≈ *The Shape of Water*)
 
@@ -50,7 +52,7 @@ They are at the edge of the woods, saying their farewells, looking at each other
 
 Cas is hesitating, torn apart; the chasers get into range, shooting them. Cas jumps to protect Dean, gets shot; Dean outrageous, attacks them, putting many down (including the project lead), and gets shot too. They fall down together, Cas uses his last breath to touch Dean's hand and tells him he loves him and dies. Dean desperate, leans in to kiss him, and his blood veins lighten up, more bright than ever -- he's indeed a god-like creature with powers, the native Americans are right about worshipping him. His power gets triggered when he's this desperate and in love and not willing to lose Cas, and he brings Cas back and heals him. They take down all the rest of chasers, and run off to live in the woods together. Cas doesn't hesitate to follow him this time. They'll build a life together in a safe place where they won't be found or harmed, happily ever after.
 
-#### Idea 2: student!Cas x magical creature!Dean
+#### Outline 2: student!Cas x magical creature!Dean
 
 (light angst, light fluff; college life)
 
@@ -72,7 +74,7 @@ They talk it out (using actual words), Cas reassures him he's not abandoning him
 
 The last scene suggests since the research on him is complete, Dean moves out of the lab and moves into Cas's apartment (or maybe previously when Cas is studying him, he uses excuses like "it's easier for research" and so Dean's already sort of moved into his apartment, without either of them realizing they'd already live together, can add a bit domestic scenes during the getting-familiar, getting-together time). Cas will graduate smoothly, and Dean is free. They don't have to decide on what to do with their future yet, because they can have all the possibilities in the future any way they like, and experience them together.
 
-#### Idea 3: human student!Cas x non-human student!Dean
+#### Outline 3: human student!Cas x non-human student!Dean
 
 (light angst, light fluff, ≈ *Carnival Row*; has some equality topic, college life)
 
@@ -92,7 +94,7 @@ The next morning, Dean regrets what happened the night before, knowing Cas must 
 
 They talk it out (using actual words), maybe some confession along the way, maybe some kiss (depending on how the talk goes). Cas pulls the necklace down and throws it away, throwing away the hurtful symbol and unfair belief from his family, he chooses Dean.
 
-#### Idea 4: angel!Cas x non-human!Dean
+#### Outline 4: angel!Cas x non-human!Dean
 
 (a lot of fluff, very light angst and mutual pining, fantasy magic school, ≈ *Wednesday*; school life, school romance, getting together, maybe intimate, self discovery)
 
@@ -124,6 +126,8 @@ Last sentence: "Not that I want to stop, but I really have to prepare for tomorr
 
 #### Posting Summary
 
+#### Excerpt
+
 ### Arts
 
 #### Banner
@@ -133,3 +137,31 @@ Last sentence: "Not that I want to stop, but I really have to prepare for tomorr
 ### Editing Notes
 
 ## Main
+
+> researcher!Cas x magical creature!Dean
+>
+> (heavy angst, light domestic, potential intimate, ≈ *The Shape of Water*)
+
+### Chap 1
+
+
+
+
+
+
+
+> Cas is a researcher in a top security government facility where Dean is a new asset they recently captured from Amazon rainforest, known to be worshipped by the locals as their god. Dean is feral and untamed, aggressive, broken and beautiful, his blood veins glowing faintly through translucent skin. Dean doesn't have a name initially, only has an asset index number (DW-124), Cas is the one named him Dean, and he reacts to the name, so it's also used by others (good people) gradually.
+>
+> Dean is mistreated because of how dangerous he is, constantly punished for attacking those who approach him, electroshocked, beaten a lot. And he gets even worse temper and aggressive after those, a vicious circle. No one wants to approach him and he attacks indistinctively. Except for Cas. Cas treats him kindly, as if he's equal and sentient, teaches him to speak/understand human language. They get close, start understanding each other. Dean is curious and happy every time Cas visits him. Cas is always worried about his safety whenever he's not around and Dean is left with other researchers. So Cas spends more and more time in the lab with him.
+>
+> The project lead (Naomi? Raphael? Zachariah?) decides to put him down because of the number of accidents he caused to others. Cas overhears the decision, risks himself to steal him out from the facility, hides him in his house, attends to his wounds (bandage his sprained wrist, apply iodophor on scratches), gives him his clothes (jumpers, t-shirts, jackets). They have some domestic moments (though chaotic, quite a few incidents like Dean accidentally breaking things). Dean starts to understand more of human life, able to use human language; Cas gets to understand more of Dean. Whenever Dean's emotional (happy, fear, aroused, etc.), his blood veins lighten up; Cas is fascinated by his breath-taking beauty, worshipping/admiring him like a god (maybe gets intimate in all aspects including sexually?).
+>
+> Cas is religious (thus the cross necklace), as is many researchers/project lead, but they all think the native Americans worshipping a creature like Dean is blasphemy, all the more reasons to diminish him. Dean asks Cas about that once he learns the meaning of the cross and his belief, why Cas still admires him so much. Cas practically shifts his whole belief and faith to Dean because of how much he sees in Dean, realizing god isn't an ethereal deity, but must be something beautiful and powerful and real, like Dean.
+>
+> The facility security is persistently searching for Dean, and eventually finds him at Cas's house. And Dean's health is deteriorating because he's too far from his native living place, the source of his life force. Cas is ready to set Dean free; Dean wants him to come with; they have some argument. It's painful for both of them, to make the decision, to know the parting is inevitable and close, but Cas makes the decision for the best of Dean (despite how much it pains him).
+>
+> They are at the edge of the woods, saying their farewells, looking at each other lovingly, longingly, and painfully, both heartbroken to know this might be the last time they see each other if they part. Cas touches Dean's face, saying farewell and very close to confession (but still restrained himself) with teary eyes; Dean catches his hand, still insisting he can come with.
+>
+> Cas is hesitating, torn apart; the chasers get into range, shooting them. Cas jumps to protect Dean, gets shot; Dean outrageous, attacks them, putting many down (including the project lead), and gets shot too. They fall down together, Cas uses his last breath to touch Dean's hand and tells him he loves him and dies. Dean desperate, leans in to kiss him, and his blood veins lighten up, more bright than ever -- he's indeed a god-like creature with powers, the native Americans are right about worshipping him. His power gets triggered when he's this desperate and in love and not willing to lose Cas, and he brings Cas back and heals him. They take down all the rest of chasers, and run off to live in the woods together. Cas doesn't hesitate to follow him this time. They'll build a life together in a safe place where they won't be found or harmed, happily ever after.
+
+###### [END]
