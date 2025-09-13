@@ -1187,8 +1187,8 @@ They watch in silence as the ice collapses on the cave, and buries the last of t
 
 <hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
 <br>
-**Earth, Jurassic Epoch (66 million years ago)**
 
+**Earth, Jurassic Epoch (66 million years ago)**
 
 Dinosaurs do have fur. Dean watches with wide eyes.
 
@@ -1226,8 +1226,8 @@ They watch the asteroid falling onto Earth after that. They can't do anything, b
 
 <hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
 <br>
-**Seashore, Age of Fishes (357 million years ago)**
 
+**Seashore, Age of Fishes (357 million years ago)**
 
 "An older brother once told me, all those millions of years ago, 'Don't step on that fish, Castiel. Big plans for that fish.'" Cas leads the way on the seashore, kneeling down to point at a small grey fish as it heaves itself on the beach.
 
