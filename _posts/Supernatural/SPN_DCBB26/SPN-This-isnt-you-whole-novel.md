@@ -4,7 +4,7 @@ title: 【Destiel】This Isn't You (But I Still See You)
 date: 2025-06-23
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
-tags: ["Supernatural", "destiel", "英文"]
+tags: ["Supernatural", "destiel", "英文", "天启卡"]
 pov: 第三人称
 origin: 2026 DCBB
 published: false
