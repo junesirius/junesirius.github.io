@@ -4,7 +4,7 @@ title: 【SPN】Everlasting Night
 date: 2025-08-03
 categories: ["SPN"]
 characters: ["Castiel", "Jimmy Novak", "Claire Novak"]
-tags: ["Supernatural", "英文"]
+tags: ["Supernatural", "英文", "黑化"]
 pov: 第三人称
 origin: 2025 SPN Rare-Ships Mini Bang
 published: false
@@ -25,6 +25,10 @@ Rating: Teen and up
 (Jimmy POV)
 
 ## Idea
+
+### Raw inspiration
+
+(quoted, not original)
 
 这是一个没有温家兄弟的世界，所以Cas来地球的目的不是为了救righteous man而是为了apocalypse战争做准备。这个世界的Jimmy设定没有变，但因为Cas目的变了，所以他们的磨合其实并不好。
 
@@ -58,7 +62,7 @@ Castiel把Claire带到了战区外的荒林里，重新转移到Jimmy身上。�
 
 最后一点意识是在虚无里，Jimmy在漫无边际的黑暗中行走，感觉不到疼痛也感觉不到任何情绪，或者说是被各种负面情绪压垮已经麻木到一种程度……走到某处他提到了一个睡在地上的人，这个人与他面容相同，胸口插着那把杀死他们的angel blade。Castiel半睁着眼睛看他，随后又无言地往上看去——Jimmy在他身边坐下抬头观望，灵魂的光点在无边无际的黑暗上方坠落，天堂和地狱早就在战争中摧毁，无处可去的灵魂尽数归于虚无。等Jimmy回过神时虚无的触手已经覆盖了他半身，而在他被黏腻阴沉的黑暗覆盖之前他往旁边看去，Castiel已经彻底沉没，不知所踪了。
 
-## Idea translated
+### Idea translated
 
 Apocalypse world, the difficult and pain and struggle between Castiel and Jimmy
 
@@ -166,7 +170,11 @@ By the time Jimmy looks back down, the tentacles of the Empty already covers hal
 
 ### Visual Elements
 
-## Posting Summary
+## Posting
+
+### Summary
+
+### Excerpt
 
 ## Arts
 
