@@ -4,9 +4,10 @@ title: 【SPN】Everlasting Night
 date: 2025-08-03
 categories: ["SPN"]
 characters: ["Castiel", "Jimmy Novak", "Claire Novak"]
-tags: ["Supernatural", "英文", "黑化"]
+tags: ["Supernatural", "英文", "黑化", "天启卡"]
 pov: 第三人称
 origin: 2025 SPN Rare-Ships Mini Bang
+long_novels: 【SPN】Everlasting Night
 published: false
 ---
 
