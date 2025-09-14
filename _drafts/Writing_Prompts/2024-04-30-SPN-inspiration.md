@@ -432,7 +432,7 @@ Dean捡到了一个神灯，擦三下冒出来的神灯精灵穿着件卡其色�
 
 要杀丁才能救自己，卡选择宁可自己化成泡沫
 
-### 39.【destiel】S12E10 时间旅行的Dean遇上1901年的女体Cas（R级）【WIP】
+### 39.【destiel】S12E10 时间旅行的Dean遇上1901年的女体Cas（R级）
 
 《傲慢与偏见》AU，DW的刀河代
 
@@ -2917,6 +2917,8 @@ Azazel (in doctor director costume) come in to try to take Cas away/kill him on 
 
 Cas go back to heaven to regain a copy of memory (backuped before fight/standard version for all angels) from Naomi (hint potential memory messed up again), back in time to meet Dean in barn again, canon compliant
 
+(→ prompt 328.5)
+
 ### 269.【micifer+destiel】Michael!Dean + Lucifer!Cas（R级）
 
 can be R18+
@@ -2959,7 +2961,7 @@ Max reuse Rowena's spell, throw Witch's ring in for full power, create two bodie
 
 ~~272. (duplicate 221)~~
 
-### **273.【destiel】addict to angel blood**（R级）
+### **273.【destiel】Dean is addict to angel blood**（R级）
 
 parallel to S4 Sam addicted to demon blood or S9 Crowley addicted to human blood
 
@@ -2970,6 +2972,12 @@ parallel to Sam&Ruby, Dean has Cas to ease the addiction, Cas wants to help him 
 also parallel to Sam/Ruby, the blood drinking relationship can very quickly escalate into sexual/romantic relationship, they'd have sex, blood is something very sexual-suggestive anyway
 
 OR, during vampire Dean time, Dean doesn't change back, Cas feed him with angel blood to prevent him hurting human and still ease the thirst
+
+### 273.5【destiel】Cas is addicted to Dean's human blood（R级）
+
+similar to prompt 273 but reversed
+
+can be used in prompt 335.5
 
 ### 274.【destiel】S05E17 accidental OD on pain killer
 
@@ -2993,7 +3001,7 @@ he ends up making them loyal to *him*, not to *God*
 
 so when he's not God, they still follow him, Castiel's fan group, kinda annoys him, still make him guilty, but so much easier than knowing he killed all of them
 
-### 276.【Jack】what if God!Jack turn bad
+### 276.【Jack】what if God!Jack turn bad【WIP】
 
 "Power corrupts, absolute power corrupts absolutely."
 
@@ -3707,7 +3715,7 @@ or sort of like what I did with "Life of Blue" where Cas *is* Blue, and now it c
 
 (≈ prompt 330)
 
-### **327.【destiel】S15E18/20 Jack made deal with Empty to save Cas, destiel save Jack**
+### **327.【destiel】S15E18/20 Jack made deal with Empty to save Cas, destiel save Jack**【WIP】
 
 Jack had to make a deal with Empty to bring Cas back, because God has no power in Empty. That's why he's not as strong as he should be as God after that, that's why he couldn't and didn't bring Cas to Dean after he saved Cas, even if he knew perfectly well how important Cas is to Dean and vice versa and wouldn't keep Deann miserable for five years alone.
 
@@ -3730,6 +3738,18 @@ S4 timeline, when Dean is being too defiant, Heaven orders Cas to throw Dean bac
 Cas can't do it.
 
 so he really can't "throw him back in" even though he threatened Dean with that. It's a total bluff
+
+### 328.5【destiel】S04E02 Cas throws Dean back to Hell
+
+maybe because at that time Cas isn't free-will enough, not changed by Dean enough, might already have some doubt but not enough to fully rebel against Heaven, probably because it's not really life-threatening enough to fully wake Cas up
+
+Cas is ordered to do that by Heaven and he obeys.
+
+maybe Cas is even tasked personally to torture Dean, he might beat Dean up a bit (like S08E17), and Dean would beg him to wake up because he needs him, and Cas rebels then
+
+or maybe instead of throwing him to Hell, Cas throws Dean into a Hell-like Heaven pocket dimension
+
+maybe after Cas throws Dean back to Hell, Dean's evil demon dark side is awaken, he becomes more powerful than Cas expected, Dean turns dark and overpowers Cas and tortures Cas instead (≈ prompt 268)
 
 ### 329.【all】S01E01 first version pilot AU
 
@@ -3793,7 +3813,7 @@ They panic, notice signs and doesn't know what to do. Or could fast-forward/jump
 
 But never evil, he's basically still Cas, kinda like Crowley, good-hearted, actually doesn't have much change all things considered, except for the black eyes. At most a bit more mischievous and very slightly moral ambiguous. (Meg is a decent, good-hearted demon too later. Kinda like later season Meg. could add a little Meg/Crowley teasing Cas? teach him how to be demon, what to watch out, salt/iron/holy water) He even still has wings, or even fixed his broken wings (if it's post-S8 divergent), but he knows the white feathers are black now. He's utterly disgusted by his own wings, his own everything. Might even has some suicidal attempt, but stopped by Dean at last moment, or those attempts fail to kill him, or he does succeed and Dean has to go looking for him and resurrecting him from Empty. He has to continue exist as demon.
 
-(somewhat like Ma'lak Box MoC!Cas → prompt 335.5)
+(somewhat like Ma'lak Box MoC!Cas → prompt 335.5; can include prompt 273.5)
 
 Maybe the "not evil" part is only the beginning, when Cas still can have enough self-control, have consciousness, have good-heart, but it's a losing battle. The change is still happening underway, making his heart more black, hard, cold-blooded, blood-thirsty, brutal, cruel, by each day. They notice it, try hard to keep Cas on human/angel good side, reason with him to see the good choice, be good, be kind. Because if Cas loses it, he'd fully, completely, irreversibly become a demon. Maybe they find some solution, but it's like newly-turned vampire/werewolf reverse spell, it would only work if he doesn't cross some last line. Cas is losing control and painful, and Dean/everyone is trying their best to help him.
 
