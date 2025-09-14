@@ -15,7 +15,7 @@ published: false
 
 **Warning:** No Archive Warnings Apply
 
-**Rating:** General
+**Rating:** Teen and up
 
 [TOC]
 
@@ -67,21 +67,46 @@ Dean's lips are cursed. If he ever kisses Castiel, Cas will lose his power.
 
 
 
-Chap 1: After each quoted section, add real-life "reader" (Metatron)'s reaction and action around it. Metatron interact with the tribe/hotel manager (Two Rivers Hotel Manager, local American) sending him books (only catch up to 1970s, but manager insisted on best sellers in this century, so Metatron jumps to read SPN first instead, breaking his own rules). Metatron goes by "Marv" here, already hinting the identity but not pointing out yet. Metatron binge reads all the book altogether, right before they arrive, but after all the events finished (during the week between the last episode S08E20 and current time S08E21 beginning).
+Chap 2: After each quoted section, add real-life "reader" (Metatron)'s reaction and action around it. Metatron interact with the tribe/hotel manager (Two Rivers Hotel Manager, local American) sending him books (only catch up to 1970s, but manager insisted on best sellers in this century, so Metatron jumps to read SPN first instead, breaking his own rules). Metatron goes by "Marv" here, already hinting the identity but not pointing out yet. Metatron binge-reads all the book altogether, right before they arrive, but after all the events finished (during the week between the last episode S08E20 and current time S08E21 beginning).
+
+Chap 2 main problem: don't be too boring, don't have to stick to the original too much, can diverge a bit
 
 Meta-narrative Dean/Cas's thoughts: every different chapter "part", increasing the tension, show involvement, don't have to be strictly following the canon
 
 When posting: different "Part" of Chap 1 post into separate AO3 characters, keep each chapter length contained
 
-shuffle the order? Chap 1 part one → Chap 2 → Chap 1 part two → Chap 3 ? Chap 1 a little too long too much?
+~~shuffle the order? Chap 1 part one → Chap 2 → Chap 1 part two → Chap 3 ? Chap 1 a little too long too much?~~ (Move original Chap 1 to new Chap 2, after the opening)
 
 After finish: search the whole file, ensure no appearance of "Winchester" anywhere in Chuck's book before S04E18
 
-Chap 1-5 S05E18: editing, tuning down the ultra analytical analysis. more verbs and actions and first POV thoughts from characters.
+After finish: check the quoted part, ensure all using past tense
+
+quoted S05E18: editing, tuning down the ultra analytical analysis. more verbs and actions and first POV thoughts from characters.
 
 # Draft
 
-## Chap 1 Previously On (Part One)
+## Chap 1 The Scribe
+
+<!-- S08E21 real timeline: they find Metatron, ask for help. Metatron doesn't care about trials or Heaven/Hell, refuses to help. Instead, he's read all spn books by Chuck "Carver Edlund" and intrigued by destiel. He tricks Dean into saying he swears on Castiel's name (do you still believe in love, then swear on the person you love the most to prove you still know what love is, Dean's threatened bc desperate to save Sam? want to swear on Sam but Metatron points out he's lying to himself bc that's responsibility), curses Dean's lips just to see a good story, and threatens Dean if he doesn't kiss Cas, Sam dies; if he does, Cas loses his grace/power; and the curse can't be reversed or interfered by angel power, or Dean dies. -->
+
+### Act 1
+
+
+
+###### [TBA]
+
+<br>
+
+### draft notes
+
+
+> S08E21 real timeline (2013.5.1)
+>
+> background Sam bad condition after 2 trials
+>
+> they find Metatron, ask for help. Metatron doesn't care about trials or Heaven/Hell, refuses to help. Instead, he's read all spn books by Chuck "Carver Edlund" and intrigued by destiel. He tricks Dean into saying he swears on Castiel's name (do you still believe in love, then swear on the person you love the most to prove you still know what love is, Dean's threatened bc desperate to save Sam? want to swear on Sam but Metatron points out he's lying to himself bc that's responsibility), curses Dean's lips just to see a good story, and threatens Dean if he doesn't kiss Cas, Sam dies; if he does, Cas loses his grace/power; and the curse can't be reversed or interfered by angel power, or Dean dies.
+
+## Chap 2 Previously On (Part One)
 
 <!-- Meta-narrative: Metatron reads all about Dean/Cas lip-staring as in canon shows but all really happened to them, fast-forward their feelings (written in past tense, mimic Chuck's writing) -->
 
@@ -459,7 +484,7 @@ Chap 1-5 S05E18: editing, tuning down the ultra analytical analysis. more verbs 
 
 <!-- 518 "I rebelled for this?! So that you could surrender to them?" "Cas! Please!" "I gave everything for you. And this is what you give to me?!" -->
 
-## Chap 1 Previously On (Part Two)
+## Chap 2 Previously On (Part Two)
 
 ### Act 6 (S06E17)
 
@@ -515,25 +540,6 @@ He would make it a better story.
 
 **when posting:** all acts put together in the same chapter, separation line with the last meta-narrative Metatron part, all "quoted" contents put into quoting format, "citation" with "book title" (episode names) and author's name align to right. Consider extra new line between every two excerpts.
 
-## Chap 2 The Scribe
-
-<!-- S08E21 real timeline: they find Metatron, ask for help. Metatron doesn't care about trials or Heaven/Hell, refuses to help. Instead, he's read all spn books by Chuck "Carver Edlund" and intrigued by destiel. He tricks Dean into saying he swears on Castiel's name (do you still believe in love, then swear on the person you love the most to prove you still know what love is, Dean's threatened bc desperate to save Sam? want to swear on Sam but Metatron points out he's lying to himself bc that's responsibility), curses Dean's lips just to see a good story, and threatens Dean if he doesn't kiss Cas, Sam dies; if he does, Cas loses his grace/power; and the curse can't be reversed or interfered by angel power, or Dean dies. -->
-
-### Act 1
-
-
-
-<br>
-
-### draft notes
-
-
-> S08E21 real timeline (2013.5.1)
->
-> background Sam bad condition after 2 trials
->
-> they find Metatron, ask for help. Metatron doesn't care about trials or Heaven/Hell, refuses to help. Instead, he's read all spn books by Chuck "Carver Edlund" and intrigued by destiel. He tricks Dean into saying he swears on Castiel's name (do you still believe in love, then swear on the person you love the most to prove you still know what love is, Dean's threatened bc desperate to save Sam? want to swear on Sam but Metatron points out he's lying to himself bc that's responsibility), curses Dean's lips just to see a good story, and threatens Dean if he doesn't kiss Cas, Sam dies; if he does, Cas loses his grace/power; and the curse can't be reversed or interfered by angel power, or Dean dies.
-
 ## Chap 3 The Cursed Lips
 
 <!-- Dean's devastated, more repressed to keep himself away from Cas, disguise as anger on Cas even after Cas comes back to bunker after losing angel tablet (gut open by Naomi/Crowley, not recovered as quickly as he'd wish), Cas gets pushed away by Dean's pride and anger, but Dean regrets immediately when Cas's almost pushed to leave, Dean apologizes and goes soft and asks Cas to stay, confesses the curse. they'll research on reversing the curse but lower priority than finding ways to save Sam, Cas agrees to help, but also very hesitantly express he's fine to lose his power if it saves Sam, Dean refuses, Cas mistakes as Dean doesn't want them kiss, Dean knows he misunderstand but can't correct him, more torn apart. both self-torturing and painfully mistaken -->
@@ -569,7 +575,7 @@ He would make it a better story.
 > "Thank you." "Do you really think I'll let you die? I'll choose myself over you?" "I wasn't sure." "Now you do." "Does it hurt?" "Not so much, comparing to losing you."
 >
 
-## Chap 5 Next Time On (Bonus)
+## Chap 5 Next Time On (Epilogue)
 
 <!-- Dean/Cas read Chuck's books, going back to one of the old full tension episodes, share some peaceful casual moments (two comedy episodes) -->
 
