@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 【Destiel】Title TBD
+title: 【Destiel】The Father, The Son, and The Holy Spirit
 date: 2025-09-14
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Jack Kline"]
 tags: ["Supernatural", "destiel", "英文"]
 pov: 第三人称
 origin: 2025 Castiel Big Bang
-long_novels: 【Destiel】Title TBD
+long_novels: 【Destiel】The Father, The Son, and The Holy Spirit
 ---
 
 Tags: Canon divergent, Post-Canon, Fix-it, Caring Dads vibe, dadstiel, save Jack
@@ -22,7 +22,7 @@ Rating: Teen and up
 
 ## Idea
 
-S15E18/20 Jack made deal with Empty to save Cas, destiel save Jack
+(**S15E18/20 Jack made deal with Empty to save Cas, destiel save Jack**)
 
 Jack had to make a deal with Empty to bring Cas back, because God has no power in Empty. That's why he's not as strong as he should be as God after that, that's why he couldn't and didn't bring Cas to Dean after he saved Cas, even if he knew perfectly well how important Cas is to Dean and vice versa and wouldn't keep Deann miserable for five years alone.
 
@@ -38,7 +38,7 @@ In between the saving, because Jack would do what he thinks is the right thing t
 
 
 
-what if God!Jack turn bad
+(**what if God!Jack turn bad**)
 
 "Power corrupts, absolute power corrupts absolutely."
 
@@ -51,6 +51,18 @@ Cas goes to Dean/Sam in heaven about the issue, but this time not like Chuck, th
 there should be a way to build the system without god, or make a balance
 
 ## Outline
+
+**The Father, The Son, and The Holy Spirit**
+
+Christian trinity
+
+the father: God is the father, God!Jack is considered the "father" of the creation; Cas and Dean are Jack's father, mostly Cas
+
+the son: the creation is the son; Jack is their son, God the son needs their saving
+
+the holy spirit: their unity and love, all the love between the three of them (Jack loves Cas so self-sacrifice to save him, loves Dean so he brings back Cas for him *again*; Cas loves Dean and Jack; Dean loves Cas and Jack)
+
+so basically the title = "Cas, Jack, and Dean", but also cleverly reusing the trinity, all three can mean God, and God is Jack. double meaning
 
 ## Title
 
