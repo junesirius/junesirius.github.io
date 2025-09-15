@@ -10,9 +10,9 @@ origin: 2025 Castiel Big Bang
 long_novels: 【Destiel】The Father, The Son, and The Holy Spirit
 ---
 
-Tags: Canon divergent, Canon compliant, S15E20, Post-Canon, Fix-it, Season 16, Jack's caring dads, dadstiel, Save Jack, Save the God, Jack has two amazing fathers, canonical main character death
+Tags: Canon divergent, Canon compliant, S15E20, Post-Canon, Fix-it, Season 16, Jack's caring dads, dadstiel, Save Jack, Save the God, Jack has two amazing fathers, canon main character death (but you know how it is in spn), eventual happy ending
 
-Warning: Graphic Depictions of Violence, Main character death
+Warning: Graphic Depictions of Violence, canon main character death
 
 Rating: General
 
