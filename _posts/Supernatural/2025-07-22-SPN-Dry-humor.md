@@ -4,7 +4,7 @@ title: 【Destiel】Dry Humor
 date: 2025-07-22 04:14
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
-tags: ["Supernatural", "destiel", "英文", "写作"]
+tags: ["Supernatural", "destiel", "英文", "写作", "短评"]
 pov: 第三人称
 origin: Tumblr
 ---

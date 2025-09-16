@@ -4,7 +4,7 @@ title: 【Destiel】《A Winter's Tale》（读后感）
 date: 2024-08-15 09:27
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
-tags: ["Supernatural", "destiel", "读后感", "英文"]
+tags: ["Supernatural", "destiel", "读后感", "英文", "人类卡"]
 pov: 第一人称视角
 origin: 空间
 ---
