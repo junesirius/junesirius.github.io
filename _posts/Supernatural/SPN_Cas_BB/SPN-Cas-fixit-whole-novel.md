@@ -72,6 +72,8 @@ so basically the title = "Cas, Jack, and Dean", but also cleverly reusing the tr
 
 (after-deal Jack ≈ soulless Sam & soulless Jack, but more powerful, more cold, more dark)
 
+(Main conflict: Cas has to choose between Dean/Jack. Usually we see too much it's Dean choose between Sam/Cas, this one makes the conflicting moments and torn-apart decision all Cas's. Exactly like "Save your son or save your partner" dilemma.)
+
 Cas comes back alive in Heaven, full-powered. Heaven is half-way rebuilding, Jack is alone on the rebuilding work. Cas reunites with Jack, very happy and hugs him, Jack hugs back, but a bit somewhat cold and distant (not evil, just neutral, stop caring as much, and will care less and less). Cas notices a bit off but can't quite tell yet, just ask if Jack is okay, Jack tasks him with rebuilding Heaven (doesn't tell him about the deal). Cas asks about Dean, wants to go down to let him know he's back and okay so Dean wouldn't have to worry. Jack doesn't let him, maybe find some reason to busy him with, or just tell him there should be new rule in this world now, angels shouldn't walk the Earth ("Earth was reasonably fine in the two thousand years when no angel set foot, and it was messed up terribly in the last twenty years." so no angel should go down there.) Cas might want to argue, they might have a little bit debate/fight, Jack might pull the God role on him for the first time to ask him to obey and stay only on Heaven, going down to Earth would have punishment, not even Cas is allowed. Cas might obey verbally but that's how he knows things are wrong, the old Jack would never do that and would understand, he's already worried about what's wrong about Jack and really wants to reach to Dean.
 
 Cas hears Dean's prayer, Dean on earth yearns for Cas to come back, reciprocates (a bit Dean POV here, normal daily case time, Dean cleans up Cas's room and sees his mixtape etc., Dean crying for Cas). Cas ignores Jack's order, sneaks to the Heaven's gate, realizes all the doors are guarded. The guarding angels beg him not to make more trouble than he used to, or they'd let Jack know. Cas goes back torn and aching (can still hear Dean's prayer all the time, and time passes faster on Earth, days/months passed just when he's moving around). Cas goes to Bobby asking for advice/help (a bit reunion scene between Cas/Bobby, mutual update each other's status, Cas tells Bobby he's the one help rebuilding his part of Heaven, Cas maybe rebuilds it just as they speak). Cas expresses his concern for Jack, wants to go to Dean but doesn't want to have conflict with Jack, doesn't want to cause any trouble again to Heaven. Bobby suggests him to follow his own heart (be it to reason with Jack again or go to Dean against order, it's a Jack or Dean situation for Cas), it's his decision.
@@ -127,9 +129,13 @@ Hopeful happy ending. (Before the ending, Jack asks if Dean/Cas want to go to Ea
 > (mainly Dean & Cas POV, very occasionally Jack POV, very little Bobby POV)
 >
 > (after-deal Jack ≈ soulless Sam & soulless Jack, but more powerful, more cold, more dark)
+>
+> (Main conflict: Cas has to choose between Dean/Jack. Usually we see too much it's Dean choose between Sam/Cas, this one makes the conflicting moments and torn-apart decision all Cas's. Exactly like "Save your son or save your partner" dilemma.)
 
 ## Chap 1
 
+> (Before coming back, add brief pieces of memory, things happening in Empty, dream-like but actually happened, could first write Chap.8 Jack's confession about what happened in Empty and come here write Cas's; as foreshadow, Cas might have feeling something happened to Jack from beginning, hinting to reader too it's not Jack's fault, something happened to him in Empty, we'll have to figure out what) Before the beginning Cas wake up, Cas hears bits and pieces about Jack's bargaining for him; he wakes up trying to remember the dream but can't, but knows Jack goes for him in the Empty, but assumed the process is easy (until realizes it might not be), doesn't realize what those vague memory and dream is until Jack tells them exactly what happ
+>
 > Cas comes back alive in Heaven, full-powered. Heaven is half-way rebuilding, Jack is alone on the rebuilding work.
 >
 > Cas reunites with Jack, very happy and hugs him, Jack hugs back, but a bit somewhat cold and distant (not evil, just neutral, stop caring as much, and will care less and less). Cas notices a bit off but can't quite tell yet, just ask if Jack is okay, Jack tasks him with rebuilding Heaven (doesn't tell him about the deal).
