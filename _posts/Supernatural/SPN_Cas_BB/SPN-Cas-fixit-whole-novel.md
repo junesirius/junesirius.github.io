@@ -134,7 +134,9 @@ Hopeful happy ending. (Before the ending, Jack asks if Dean/Cas want to go to Ea
 
 ## Chap 1
 
-> (Before coming back, add brief pieces of memory, things happening in Empty, dream-like but actually happened, could first write Chap.8 Jack's confession about what happened in Empty and come here write Cas's; as foreshadow, Cas might have feeling something happened to Jack from beginning, hinting to reader too it's not Jack's fault, something happened to him in Empty, we'll have to figure out what) Before the beginning Cas wake up, Cas hears bits and pieces about Jack's bargaining for him; he wakes up trying to remember the dream but can't, but knows Jack goes for him in the Empty, but assumed the process is easy (until realizes it might not be), doesn't realize what those vague memory and dream is until Jack tells them exactly what happ
+> (Before coming back, add brief pieces of memory, things happening in Empty, dream-like but actually happened, could first write Chap.8 Jack's confession about what happened in Empty and come here write Cas's; as foreshadow, Cas might have feeling something happened to Jack from beginning, hinting to readers too it's not Jack's fault, something happened to him in Empty, we'll have to figure out what)
+>
+> Cas hears bits and pieces about Jack's bargaining for him in his dream (or so he thinks). he wakes up trying to remember the dream but can't, but knows Jack goes for him in the Empty, but assumed the process is easy (until realizes it might not be), doesn't realize what those vague memory and dream really is until Jack tells them exactly what happened.
 >
 > Cas comes back alive in Heaven, full-powered. Heaven is half-way rebuilding, Jack is alone on the rebuilding work.
 >
@@ -158,33 +160,35 @@ Hopeful happy ending. (Before the ending, Jack asks if Dean/Cas want to go to Ea
 
 ## Chap 3
 
+> Cas doesn't want to conflict with Jack (even if it pains him), considering Dean's not in immediate danger, he can try to endure the ache and longing.
+>
 > Cas half-heartedly continues rebuilding this part of the Heaven and realizes he's been duplicating what's exactly on Earth, the whole states are mapped back to Heaven, and he wanders to a beachside.
 >
 > He magics some cabins and starts decorating and finetuning/polishing them, adding a bit more details just as he remembers, include a bar that's like Dean's ideal dream place Rocky's Bar (short, passing lines).
 >
-> Jack comes by asking what he's building, Cas: "Home." Cas wants Jack to know some of these is for him too, Jack doesn't feel/understand it. Cas tries to reason with Jack again about the feeling/home/family concept, wants to ask for permission to go to Dean. Jack denies again and flies away.
+> Jack comes by asking what he's building, Cas: "Home." Cas wants Jack to know some of these is for him too, Jack doesn't feel/understand it. Cas tries to reason with Jack again about the feeling/home/family concept, wants to ask for permission to go to Dean. Jack denies again and flies away. (brief Dean POV insert? Dean prays to Jack too? or Cas ask Jack if Dean prayed to him too, Jack confirms yes, but still insists the rule is the right way to do the things)
 >
-> (end scene with fight, Jack: "I don't want to hear that again.")
+> (end scene with fight, Jack: "I don't want to hear that again." unpleasant fight, but not offensive/hurtful)
 
 ## Chap 4
 
-> Cas hears Dean's 1520 ultimate dying prayer, he desperately goes to Dean, tries his best fighting off the gate-guarding angels, he really really has to go to Dean. (he's always the angel that breaks the rule, whoever's rule it is, be it Chuck or Jack as God) It's too important, he's never let Dean down, he's always there when Dean asks him, he *has to* be there to save him, or Dean would die.
+> Cas hears Dean's 1520 ultimate dying prayer, he desperately goes to Dean, disregards rules now, tries his best fighting off the gate-guarding angels while avoiding hurt them, he really really has to go to Dean. (he's always the angel that breaks the rule, whoever's rule it is, be it Chuck or Jack as God) It's too important, he's never let Dean down, he's always there when Dean asks him, he *has to* be there to save him, or Dean would die.
 >
-> Cas's really desperate and getting more and more violent and impatient with the struggling fight. The other angels can't stop him. But then Jack shows up. Cas desperately tries to persuade him to let him go to Dean to save him, Cas would cry to beg, it's breaking his heart. Jack doesn't get touched by feelings or his reasoning, even if he hears him (Jack: "It's okay, he'll come here soon" Dean will have peace and everything will be okay. and it's natural order, Jack genuinely thinks it's something no one should interfere again, they should just let it happen, it's also what Dean would want too.)
+> Cas's really desperate and getting more and more violent and impatient with the struggling fight. The other angels can't stop him. But then Jack shows up. Cas desperately tries to persuade him to let him go to Dean to save him, Cas cries to beg, it's breaking his heart. Jack doesn't get touched by feelings or his reasoning, even if he hears him (Jack: "It's okay, he'll come here soon" Dean will have peace and everything will be okay. and it's natural order, Jack genuinely thinks it's something no one should interfere again, they should just let it happen, it's also what Dean would want too.)
 >
 > Cas is absolutely heartbroken, wrecked, devastated, rarely raged, knowing it means Dean would die and die thinking Cas is in Empty and Cas can't do anything about it. Cas fights against Jack a bit harder than usual, just trying to go through the gate (maybe verbally less respectful, maybe even tries "I'm your father" or "Dean's your father").
 >
-> Jack maybe also gets a bit angry (or still cold, "No, you're not." or "He's not really."), constrains Cas, throwing him to the Heaven jail (because Jack does what he thinks is the right thing to do and Cas does break his explicit rule, it's for creating the new rule, it's for the world/universe's sake, to Cas: "I hope you'll understand one day. Rules have reasons to exist. If there's no rule, there's nothing.")
+> Jack maybe also gets a bit angry (or still cold, "No, you're not." or "He's not really."), overpowers Cas (but not so easily, also a bit labored, show he's not as powerful as he should be, Cas notices, more worried), constrains Cas, throws him to the Heaven jail (because Jack does what he thinks is the right thing to do and Cas does break his explicit rule, it's for creating the new rule, it's for the world/universe's sake, to Cas: "I hope you'll understand one day. Rules have reasons to exist. If there's no rule, there's nothing.")
 
 ## Chap 5
 
-> Dean dies, goes to Heaven ("At least I made it"), meets Bobby. Bobby lets him know Cas is here too. Dean relieved, Bobby thinks that means Cas doesn't get to meet Dean on the Earth, so Cas must be following Jack's rule. Dean asks where to find Cas, Bobby suggests him take a ride, Cas must come when he hears him calling him.
+> Dean dies, goes to Heaven ("At least I made it"), meets Bobby. Bobby lets him know Cas is here too. Dean relieved, Bobby thinks that means Cas doesn't get to meet Dean on the Earth, so Cas must be following Jack's rule (maybe it's Dean asking first why Cas didn't come to him if Cas is back, Bobby tells him about Jack's new rules). Dean asks where to find Cas, Bobby suggests him take a ride, Cas must come when he hears him calling him (Bobby knows everything between them and very supportive).
 >
 > Dean drives and prays and waits, finds the bar and cabin, knows only two people in the world know about Rocky's Bar and Sam is not the one here. Dean waits for Cas at Rocky's, prepares it some more for reunion, a bit nervous and happy and expecting, prays and prays and waits and waits but Cas doesn't come.
 >
 > (a bit intercut with Cas in jail and hears the prayer, knows Dean's already in Heaven, means he's really dead, Cas desperately tries to get out of the jail but can't, Cas heartbroken)
 >
-> Dean prays for Jack instead, Jack comes (a bit reunion scene, Dean hugs Jack, "Good to see you. Heard from Bobby you helped bring Cas back" "Where is he?" Jack: "Jail." Dean: "What?" Jack explains nonchalantly; Dean realizes that must be also why Cas never come to him in his last five years of life, it's Jack's doing, Dean might tell Jack his pain in those years but Jack isn't touched)
+> Dean prays for Jack instead, Jack comes (a bit reunion scene, Dean hugs Jack, "Good to see you. Heard from Bobby you helped bring Cas back" "Where is he?" Jack straightforward: "Jail." Dean: "What?" Jack explains nonchalantly; Dean realizes that must be also why Cas never come to him in his last five years of life, it's Jack's doing, Dean might tell Jack his pain in those years but Jack isn't touched, still distant and stiff and unlike old Jack, a bit dark side)
 >
 > Dean tries to reason with Jack, Jack warns him about Heaven's new rule, not even them should break it this time, it's better for everyone, and leaves.
 
@@ -192,13 +196,13 @@ Hopeful happy ending. (Before the ending, Jack asks if Dean/Cas want to go to Ea
 
 > Dean goes back to let Bobby know something wrong with Jack, Bobby rephrases Cas's concern. They'll have to figure out what happened to Jack, but needs to find/save Cas first.
 >
-> (preparation: handmake tracker/gun/earbuds, they have the tools, they can still create things like Ash did.)
+> (preparation: handmake tracker/gun/earbuds/silver knife, they have the tools from any hunter's cabin/Bobby's heaven house, they can still create things in Heaven from existing tools like Ash did. Can't magic things out like angels but can handmake build things, law of physics is still the same.)
 >
 > Dean/Bobby search the part of Heaven they have access to but can't find (still in pocket universe), run into the edge of the pocket universe and meet gate-guardian angels, Dean deliberately shows violence and as if tries to bridge the gate to go down to Earth (actually cover for Bobby), the angels arrest Dean and throw him into Heaven's jail, next to Cas.
 >
-> Dean/Cas reunion scene, reciprocate, mutual confession. Cas regrets not save Dean this time, Dean comforts him it's okay. both worry about Jack, will have to figure out what's wrong and save him once they're out.
+> Dean/Cas reunion scene (across bars), reciprocate, mutual confession. Cas regrets not save Dean this time, Dean comforts him it's okay. both worry about Jack, will have to figure out what's wrong and save him once they're out.
 >
-> Dean communicates with Bobby about location, Cas guides Bobby through how to open cell from outside (Bobby actually familiar with jail structure), blasts jail guardian angels away.
+> Dean communicates with Bobby through earbuds about their status, the tracker on him shows their location, Cas guides Bobby through how to open cell from outside (Bobby actually familiar with jail structure), blasts jail guardian angels away.
 >
 > Three of them escape jail, go back to Rocky's Bar as base.
 
@@ -208,36 +212,50 @@ Hopeful happy ending. (Before the ending, Jack asks if Dean/Cas want to go to Ea
 >
 > Dean might suggest they might have to prepare themselves for the worst, just in case Jack becomes the second Chuck, they might have to rid him of God power like they did to Chuck or lock him up with MoC. Cas furious, they have a bit fight, Dean frustrated (because he thinks he's being realistic), Cas roars "He's my son!" Dean: "You don't think he's mine too?" Cas surprised, taken aback, he does think Dean doesn't think of Jack so much that way.
 >
-> Dean/Cas make peace, apologize, kiss(?)/hug, look for ways/solutions. Cas suggests kill himself so he can go to Empty to investigate what's wrong, Dean red-eye-rimmed refuses. Cas: "I'd do anything to save Jack" Dean: "Not if it costs you" They almost start argue hard again, Jack comes.
+> Dean/Cas make peace, apologize, kiss(?)/hug, look for ways/solutions. Cas suggests kill himself so he can go to Empty to investigate what's wrong, Dean red-eye-rimmed refuses, wouldn't risk losing Cas again. Cas: "I'd do anything to save Jack" Dean: "Not if it costs you" They almost start argue hard again, Jack comes. (can't god-proof a place, or they might tried but doesn't work)
 
 ## Chap 8
 
-> Dean/Cas stop fighting, a bit panicked and unsure about Jack's attitude, Jack accuses them of breaking rule and bust out of jail. Dean/Cas both fight for responsibility ("It's my fault" "No, it's mine"), hoping to take the blame so the other wouldn't be thrown to jail again. Jack is a little moved by their willingness to sacrifice for the other, shift a bit from previous coldness, saying it would be pointless of *his* sacrifice to save him if Cas is to go back to Empty again. Dean asks what happened in the Empty, what did it cost Jack to save Cas. Jack tells them the truth.
+> Dean/Cas stop fighting, a bit panicked and unsure about Jack's attitude, Jack accuses them of breaking rule and bust out of jail. Dean/Cas both fight for responsibility ("It's my fault" "No, it's mine"), hoping to take the blame so the other wouldn't be thrown to jail again. Jack is a little moved by their willingness to sacrifice for the other, start to see the power of love (show it delicately, his little changes), shift a bit from previous coldness, saying it would be pointless of *his* sacrifice to save Cas if Cas is to go back to Empty again. Dean asks what happened in the Empty, what did it cost Jack to save Cas. Jack tells them the truth.
 >
-> Jack had to make a deal with Empty to bring Cas back, because God has no power in Empty. That's why he's not as strong & compassionate as he should be as God (destiel doesn't realize until now; that's why he couldn't and didn't bring Cas to Dean after he saved Cas, even if he knew perfectly well how important Cas is to Dean and vice versa and wouldn't keep Dean miserable for five years alone ~~(include a reunion scene and a confrontation scene, they appreciate the reunion but question why not earlier)~~)
+> (Jack POV)
 >
-> The deal ripped Jack off his feelings and emotions, and a great part of his power. (Jack hesitated, Empty: "You think these are more important than Castiel? You can leave him here sleep forever then, keep your little pathetic feelings and power with you, knowing you have this chance once and you didn't take it. Imagine what Dean would say to you if he knows one day." Jack wants to consult Dean before making the deal, a little torn, know deal is bad, know Cas had made deal for him and Dean isn't happy, already imagining Dean yelling at him, remembering S13 beginning how painful Dean is for missing Cas and angry at him; Empty doesn't let him, this offer is once and only, if he left now, it would never make the same offer again; Empty lets him see sleeping Cas but doesn't let Jack talk to Cas either, maybe even torture Cas in front of him just to pressure Jack, show Jack Empty can do anything to Cas and no one can stop; Jack wants to deal for more than just Cas, wants to bring Gabe and Crowley back too, Empty asks for more to bargain or just simply deny, Jack has to compromise and eventually agree the deal)
+> Jack had to make a deal with Empty to bring Cas back, because God has no power in Empty. That's why he's not as strong & compassionate as he should be as God (Dean/Cas doesn't realize until now, or only had doubt and now confirmed; that's why he couldn't and didn't bring Cas to Dean after he saved Cas, even if he knew perfectly well how important Cas is to Dean and vice versa and wouldn't keep Dean miserable for five years alone ~~(include a reunion scene and a confrontation scene, they appreciate the reunion but question why not earlier)~~)
+>
+> The deal ripped Jack off his feelings and emotions, and a great part of his power.
+>
+> Jack hesitated, Empty: "You think these are more important than Castiel? You can leave him here sleep forever then, keep your little pathetic feelings and power with you, knowing you have this chance once and you didn't take it. Imagine what Dean would say to you if he knows one day." Jack wants to consult Dean before making the deal, a little torn, know deal is bad, know Cas had made deal for him and Dean isn't happy, already imagining Dean yelling at him, remembering S13 beginning how painful Dean is for missing Cas and angry at him (good boy kid Jack still)
+>
+> Empty doesn't let him, this offer is once and only, if he left now, it would never make the same offer again
+>
+> Empty lets him see sleeping Cas but doesn't let Jack talk to Cas either, maybe even torture Cas in front of him just to pressure Jack, show Jack Empty can do anything to Cas and no one can stop
+>
+> Jack wants to deal for more than just Cas, wants to bring Gabe back too (and Crowley too maybe, he never meet but heard from Dean/Cas before), Empty asks for more to bargain (all his power, instead of just part) or just simply deny, Jack has to compromise and eventually agree the deal
+>
+> (intercut/switch to Cas POV in the end? echo chap.1 Cas's "dream", Cas realizes those dreams are real)
 
 ## Chap 9
 
 > So now Dean/Cas know the key is to let Jack has feeling again, show him feelings and love. Cas hugs Jack, Dean hugs both of them. They keep talking, evoking memories of past events, keep asking Jack when something happened, how did he feel (those events all related to Cas and Dean; a bit like Hell trial 3 when converting demon).
 >
-> some might be hypothetical, let Jack imagine Cas or Dean dead, or something similar. all of them pained at imagination, Cas/Dean pass their feelings (both to each other and their caring for Jack) to Jack.
+> some might be hypothetical, let Jack imagine Cas or Dean dead permanently, or something similar. all of them pained at imagination, Cas/Dean pass their feelings (both to each other and their caring for Jack) to Jack.
 >
-> Bobby POV, see Cas's grace and Dean's soul pass light to Jack, embrace Jack. Bobby realizes more than ever it's a father-son bonding moment (add a little flashback of Bobby&Dean, their father-son bonding memory)
+> Bobby POV, see Cas's grace and Dean's soul pass light to Jack, embrace Jack. Bobby realizes more than ever it's a father-son bonding moment (add a little flashback of Bobby&Dean, their father-son bonding memory) (Bobby might want to leave the scene, Dean might invite him in, adding in his love for all of them to help the saving too, Bobby sees all of them like his kids)
 >
-> Jack's eyes turn gold, he can feel feelings and love again (his feeling and care for Dean/Cas, Dean/Cas's love for each other and the world, so he knows to love the world too; a lot of flashback visuals), it's like their combined grace-soul fulfills his missing soul and becomes full again.
+> Jack's eyes turn gold, he can feel feelings and love again (his feeling and care for Dean/Cas, Dean/Cas's love for each other and the world, Bobby's love for all of them and vice versa, so he knows to love the world too; a lot of flashback visuals, since the moment of his birth/Cas's S12E23 death, to so many other times), it's like their combined grace-soul fulfills his missing soul and becomes full again.
 >
 > Jack eventually tells them he loves them, they know old Jack is back. All of them hug and cry and relieved and happy.
 
 ## Chap 10
 
-> From the experience, Jack raises concern he shouldn't be the one making sole decisions and rules, just in case his judgement goes wrong. Dean suggests he can consult them, they can make decision together. Cas/Bobby suggest one more step further, they can make a democratic system.
+> Jack might ask if Dean/Cas want to go to Earth. Dean might hesitate a little (mostly because Sam is there), Cas asks what Jack wants, Jack wants them stay, Heaven has a lot of work to do, God needs guidance and teacher and *father* (as he realizes), so they stay.
 >
-> So they make decision: The monarch God system isn't good, they'll change toward a democratic god system. the power might be mostly still centralized on Jack, but the decision of what to do and what to help or not help would be up to the committee ("Power corrupts, absolute power corrupts absolutely", he's only 2 years old, he doesn't trust his own decision), God shouldn't be a single deity but a collateral term of many wise minds. Dean/Cas/Bobby be the first members in the committee, but even they know they can't always trust their judgement, they've made so many mistakes before.
+> They discuss what to do next. Dean/Cas/Bobby content with taking heavenly vacation, Cas remembers having job to do to help Jack, Dean/Bobby volunteer to help with anything they can. Jack raises concern he shouldn't be the one making sole decisions and rules, just in case his judgement goes wrong again like he just did. Dean suggests he can always consult them, they can make decision together (but they don't have a good track record of good decision-making either, even with their best intention). Cas/Bobby suggest one more step further, they can make a democratic system.
+>
+> So they make collateral decision: The monarch God system isn't good, they'll change toward a democratic god system. the power might be mostly still centralized on Jack, but the decision of what to do and what to help or not help would be up to the committee ("Power corrupts, absolute power corrupts absolutely", he's only 2 years old, he doesn't trust his own decision), God shouldn't be a single deity but a collateral term of many wise minds. Dean/Cas/Bobby be the first members in the committee (reserve a seat for Sam once he comes), but even they know they can't always trust their judgement, they've made so many mistakes before.
 >
 > Cas suggesting there are so many wise people in the history that end up in Heaven, why not include their opinions. (Jack eyes bright: "I know exactly who to invite" Dean: "I'll prepare the booze -- are they all okay with a little alcohol party?" Cas: "Not Gandhi, but Lincoln accepts it, he's particularly fond of Applejack." "And Martin Luther King?" "Orange juice and vodka" "So a Screwdriver. Noted.")
 >
-> Hopeful happy ending. (Before the ending, Jack asks if Dean/Cas want to go to Earth. Dean might do, Cas asks what Jack wants, Jack wants them stay, so they stay.)
+> Hopeful happy ending. a whole new world with wise democratic god system
 
 ###### [END]
