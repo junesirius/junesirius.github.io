@@ -4,7 +4,7 @@ title: 【Destiel】White Butterfly
 date: 2025-05-29
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Sam Winchester", "Rowena MacLeod", "Fergus MacLeod/Crowley"]
-tags: ["Supernatural", "destiel", "英文", "时间旅行", "电车问题"]
+tags: ["Supernatural", "destiel", "英文", "时间旅行", "电车问题", "疯卡"]
 pov: 第三人称
 origin: 2025 SPN Time Travel Mini Bang
 long_novels: 【Destiel】White Butterfly
@@ -1184,7 +1184,6 @@ Cas hums softly, a little sad.
 They watch in silence as the ice collapses on the cave, and buries the last of the Neanderthals.
 
 <br>
-
 <hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
 <br>
 
@@ -1223,7 +1222,6 @@ Dean swallows, not knowing what to say. In the end, he has to settle with a stut
 They watch the asteroid falling onto Earth after that. They can't do anything, but at least they can remember their last looks.
 
 <br>
-
 <hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
 <br>
 
@@ -1283,7 +1281,7 @@ They spend the rest of the day throwing the other fish that shouldn't be there b
 
 <br>
 
-**Notes after chapter:** The part about Neanderthals is partially inspired by a small plot in *Everything Everywhere All at Once*.
+(**Notes after chapter:** The part about Neanderthals is partially inspired by a small plot in *Everything Everywhere All at Once*.)
 
 #### draft notes
 
