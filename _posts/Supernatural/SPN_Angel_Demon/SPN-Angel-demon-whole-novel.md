@@ -3,18 +3,18 @@ layout: post
 title: 【Destiel】Stairway to Heaven, Highway to Hell
 date: 2025-09-12
 categories: ["SPN"]
-characters: ["Castiel", "Dean Winchester"]
+characters: ["Castiel", "Dean Winchester", "Michael"]
 tags: ["Supernatural", "destiel", "英文", "黑化"]
 pov: 第三人称
 origin: 2025 SPN Angels & Demons Bang
 long_novels: 【Destiel】Stairway to Heaven, Highway to Hell
 ---
 
-Tags: Canon Divergent, S15E09, MoC!Castiel, Demon!Castiel, Heavy angst, Castiel turns dark side, suicidal thoughts, mutual pining, Temporary main character death
+Tags: Canon Divergent, S15E09, MoC!Castiel, Demon!Castiel, Heavy Angst, Suicidal Attempts, Temporary Main Character Death, Eventual Happy Ending
 
-Rating: Mature/Explicit (?)
+Rating: Mature (Explicit?)
 
-Warning: Graphical Depictions of Violence, Temporary main character death
+Warning: Graphical Depictions of Violence, Temporary Main Character Death
 
 [TOC]
 
@@ -64,30 +64,92 @@ potential solution: split and transfer the Mark to all living souls, the whole h
 
 ### Outline
 
-current timeline: 2020/01/16
+(mimic *The last of Us* title caption style, using day count to note changes, matching dates on Chuck's watch)
+
+#### Day 1 (01/16/2020):
+
+S15E09 Chuck shows Sam the monster ending, Dean/Cas show up with the orb. Sam doesn't lose hope, breaks the orb, locks Chuck up, Cas gets MoC, they officially start move toward the other monster ending's alter timeline.
+
+They go back bunker, Dean asks what Chuck shows him, Sam explains a bit, Dean asks why he remains hopeful and decides to still lock Chuck up: similar to S05E04 Dean seeing the endverse ending if he doesn't say yes to Michael what the world would become, but his takeaway is to not distant Sam; so here S15E09 Sam's takeaway from the monster ending is, they don't put Cas into Ma'lak Box, they'll help him, they can win this monster ending (at least die trying)
+
+Dean/Sam watch/observe Cas carefully, very cautiously tip-toe around him. Cas gets more self-conscious, snaps, already starts showing more grumpy and more tend to argue/retort/right. Dean notices/points out, Cas falls quiet. (slight unpleasant parting, each go back to own room)
+
+#### Day 10 (01/26/2020):
+
+(case fics, could be short highlighted, summarized. Cas might help with the cases, but at a cost of huge collateral damage due to his decisions. Dean tries to steer Cas back to doing right thing.)
+
+Cas's grace distained by MoC bit by bit, going dark/crazy day by day (currently the change is still small), but already starts showing worse temper, uneasy to stay in bunker with them, fights with Dean/Sam more, more fidgety, wants to take action/move/kill, more unlike old Cas by each day, attempts to leave bunker
+
+Dean/Sam slight panic/huge worry about him, keep close eyes on him, not sure what to do. Dean follows him around a bit, tries to make sure Cas's okay, Cas snaps at him, annoyed, Dean is taken aback, Cas apologizes.
+
+Cas finds case, missing people in Florida. They go hunting, find five Wendigos (hint abnormal monster number), Dean spends time fighting them, Cas seems to enjoy the physical fight a bit, getting himself all bloody, before smiting all of them, heals Dean/Sam. Dean suspects why he's enjoying the fight, Cas denies. Victims alive in the nest, one of them gets eyes burned out by the smiting grace (not shut in time), Cas heals the rest.
+
+Sam secretly examines Ma'lak Box in the middle of night (or just hangs around there), has quiet argument with Dean, overheard by Cas. Cas storms out, Dean goes to catch him. some bad-tempered trust-issue-related fight, just misunderstanding.
+
+#### Day 92 (04/17/2020):
+
+Jody calls about vampire nest. Cas goes to help hunt with Dean/Cas. so many more vampires, Jody/Claire arm to the teeth, still all of them overwhelmed, Claire almost died. Cas rages, blowing the whole building/area flat, take everyone out, heals Claire. Claire is a bit spooked by unusual Cas, notices something off. Dean talks privately with Claire, covers for Cas. Dean talks with Sam, worried. Dean talks with Cas, worried.
+
+Cas is seeing bloody violent visions. Some bad bloody memories, some haven't happened, some people die. Cas sees himself kill Dean. Cas is spooked around Dean, keeping distance with Dean, scared he'd hurt him.
+
+#### Day 125 (05/20/2020):
+
+(The same day in 2014 is S09E23 MoC Dean dies and becomes demon Dean)
+
+Cas sees flashback of Michael hurting/forcing/menacing John/Dean back in S4/5, Michael refusing to help them fight Chuck in S15. Cas thinks Michael might know how to release his bloodthirst feeling (Michael is the first warrior).
+
+Cas finds Michael, locates him (location is on his laptop/map/phone, or phone is tracked by Dean later; in Church, St. Michael), leaves bunker to go to Michael. turning into heated argument, start getting controlled by MoC, getting begrudge it's Michael's fault he's like this now (Michael can see his physical/angelic form changing too, mention it to him), getting violent, starts attacking Michael. Michael self-defense, or getting impatient, or accident, or Cas threatens/kills Adam when Adam switches out to try to talk him down. Michael rages (or accident), his archangel blade stabs Cas, kills him.
+
+Dean just gets to the spot right on time to see Cas is killed by the blade. Torched wingspan on church ground.
+
+Dean enters mourning mode, demands/pleads Michael to bring Cas back. Sam remembers one can't be killed if they bear MoC (Michael doesn't know)
+
+Dean hopeful, all waiting. Cas's eyes snap open, black demon eyes.
+
+#### Day 126 (05/21/2020):
+
+Cas opens demon eyes, makes demon growling sound, looks at them one by one, stares at Dean, then flies away.
+
+Dean panics, tries to deny, makes random theories. Michael can see the celestial/non-vessel change, tells them MoC brings Cas back alive and confirms it turned Cas to a demon (demon wings, demon eyes, the transformation process is still in progress, Cas must be not want to be seen like that so he flies away, but he's getting dangerous)
+
+(from now on below, Cas is a demon with MoC. turning a bit dark, a bit more mischievous, a bit more morally ambiguous. Cas needs to learn how to live as a demon, vulnerable to salt/iron/holy water/demon trap)
+
+Dean tries to pray and phone call Cas, Cas doesn't reply or come back. Dean worries. They go back bunker.
+
+(Cas can't hear Dean's prayer now because he's not angel anymore, explain later)
+
+#### Day 170 (07/04/2020):
+
+(Six weeks and two days later, same duration as S12E09 Dean is gone and Cas can't find him)
+
+Dean finds evidences that monsters are being killed all over the country, with sulfur traces with them. Almost always have casualty or victim on site. Demons and ghosts are being killed too. (some conversation between Dean/Sam, talking about the time when Dean was a demon with Crowley; Dean hopes demon Cas can do better than him, but still too worried, a bit mourning widower state of mind too)
+
+Dean/Sam use spell to go to Hell to ask if Rowena can locate Cas (now that he's a demon, but Cas is not in her charge). Rowena uses tracking spell to locate Cas. Dean/Sam goes there, still too late, monster there is already killed, remaining trace of sulfur.
+
+Dean/Sam go home miserably, thinking they'd never catch up with Cas again, surprisingly find Cas outside of bunker.
+
+#### Day 171 (07/05/2020):
+
+Dean powers down bunker's demon-proof defense system to let Cas in. Cas comes back because he senses Rowena's tracking spell on him (it tastes like lamb), knowing it must be Dean/Sam looking for him.
+
+Sam scares of Cas's demon eye. Dean fears him too but talks to him, wants him stay. Cas is in demon mindset, wants to kill them, very cold-blooded, murderous, blaming them for past mistakes and suffers. Dean guilty but determined to save him, strategically leads him to demon trap in dungeon, traps him there, ties him up. (Sam helps too)
+
+Dean injects Cas with his blessed human blood (like hell trial 3, using human blood to cure/purify demon). Cas is in pain during the transition, boiling, screaming. Dean apologizes and in pain while continue do that, tears when he thinks he could be killing Cas for doing that.
+
+Cas's demon eye reverse to normal, more back to himself now (first sentence: "Hello, Dean. You look worried.")
+
+Dean asks if he's fully cured/reversed. Cas spreads wings, from the shadow, Dean/Sam can see leathery demonic wings, not fluffy feathery. Cas disgusts of his current wings (but complete, can fly).
+
+Dean sprays him holy water, Cas still gets burned. (why not fully cured/reversed, just help him in control: human blood return human-turned-demon to human, Cas was angel-turned-demon, he'd need angel blood to be cured. only angel they know is still around is Michael, but Michael's the one killed him, so out of option)
+
+#### Day 178 (07/12/2020):
+
+Cas promises to behave. Dean/Sam let him out of demon trap in dungeon, still very very cautious. Cas is more sentimental than usual, very emotional (like S09 drugged Crowley).
 
 
 
+###### [TBC]
 
-
-> Sam break the orb, lock Chuck up, go into alter timeline (when Sam decide to still lock Chuck up, Dean ask why: similar to S05E04 Dean seeing the AU ending if he doesn't say yes to Michael, the world becomes that, but his takeaway is to not distance Sam; so S15E09 Sam's takeaway from the AU ending, is they don't put Cas into Ma'lak Box, they'll help him, they can win this monster ending, at least die trying)
->
-> Cas get MoC
->
-> Cas's grace distained by MoC bit by bit, going dark/crazy day by day
->
-> Dean/Sam panic at beginning, keep close eyes on him, don't know what to do at first, try to steer Cas back to doing right thing (Cas might help with some cases, but at a cost of huge collateral damage due to his decisions)
->
-> Cas goes to hunt with them. saves Jody/Claire from vampires (04/17/2020), Claire almost killed, Cas raged, blowing the whole building/area flat, Cas heals Claire, Claire a bit spooked by unusual Cas, notices something off, Dean/Sam cover for him
->
-> Cas is killed (who killed him? Michael? Michael is spending time with Adam to experience the world but runs into them? thinking Cas goes too far and needs to be stopped/contained? Cas gets controlled and thinks/knows/grudges Michael so goes to fight Michael? Michael doesn't know with MoC can't be killed, fights Cas and kills him)
->
-> Cas died with MoC, MoC brings him back alive and turn to demon (demon wings, demon eyes, transformation process, a bit more mischievous, a bit more moral ambiguous)
->
-> Cas need to learn how to live as demon (watch out for salt/iron/holy water/demon trap)
->
-> Dean inject demon!Cas with his human blood (like cure demon, human blood can purify demon) → but not fully cured/reversed, just help him in control (why not: human blood return demon to human, Cas was angel before turned to demon, he'd need angel blood, only angel they know is still around is Michael but Michael's the one killed him, so out of option)
->
 > demon!Cas addicted to Dean's human blood (like addicted Crowley) (can get a bit sexual?)
 >
 > addicted/demon!Cas can very openly express addiction and love to Dean
@@ -104,7 +166,7 @@ current timeline: 2020/01/16
 >
 > big argument comes about whether to put Cas into Ma'lak Box, eventual agree not (Dean insist, divergent from alter timeline)
 >
-> hunt monsters like alter timeline shows, smite monsters easily, save people (01/06/2021 werewolves to save bleeding victims, 11/03/2021 vampires to save Sam/Dean)
+> hunt monsters like alter timeline shows, smite monsters easily, save people (Day 356 01/06/2021 werewolves to save bleeding victims, ghouls to save Donna, djinns to save Eileen, Day 657 11/03/2021 vampires to save Sam/Dean)
 >
 > Cas get stronger/more powerful as demon/MoC-affected, wings turn leathery demonic after resurrection ("monster at the end of the book")
 >
@@ -116,7 +178,7 @@ current timeline: 2020/01/16
 >
 > MoC/demon!Cas gets overwhelmed by dark side, beats Dean up and almost kills Dean (=S10E22 MoC!Dean) (Cas remembers all the harm/pain Dean brings to him, all the times he died for Dean, for once Cas thinks it's unfair and accuses and beats Dean up; Dean is too guilty to resist)
 >
-> Cas (accidentally or knowingly?) actually kills Dean (="Into the Fire" reversed, heavy angst) (almost or really? Cain to MoC!Dean: "next you'll kill the angel and it will do something really bad to you")
+> Day 1058 12/09/2022: Cas (accidentally or knowingly?) actually kills Dean (="Into the Fire" reversed, heavy angst) (almost or really? Cain to MoC!Dean: "next you'll kill the angel and it will do something really bad to you")
 >
 > If Dean's really killed, Cas come back to himself later and pains/regrets/self-blame too much, heavy angst, heartbroken.
 >
