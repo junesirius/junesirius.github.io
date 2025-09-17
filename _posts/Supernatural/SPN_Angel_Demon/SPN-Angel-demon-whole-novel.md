@@ -10,9 +10,9 @@ origin: 2025 SPN Angels & Demons Bang
 long_novels: 【Destiel】Stairway to Heaven, Highway to Hell
 ---
 
-Tags: Canon Divergent, S15E09, MoC!Castiel, Demon!Castiel, Angst, Temporary main character death
+Tags: Canon Divergent, S15E09, MoC!Castiel, Demon!Castiel, Heavy angst, Castiel turns dark side, suicidal thoughts, mutual pining, Temporary main character death
 
-Rating: General
+Rating: Mature/Explicit (?)
 
 Warning: Graphical Depictions of Violence, Temporary main character death
 
@@ -64,53 +64,85 @@ potential solution: split and transfer the Mark to all living souls, the whole h
 
 ### Outline
 
+current timeline: 2020/01/16
 
 
 
 
-> the whole "turning to demon" is because of MoC, Cas died when he still has MoC and resurrected by Mark and becomes a demon
+
+> Sam break the orb, lock Chuck up, go into alter timeline (when Sam decide to still lock Chuck up, Dean ask why: similar to S05E04 Dean seeing the AU ending if he doesn't say yes to Michael, the world becomes that, but his takeaway is to not distance Sam; so S15E09 Sam's takeaway from the AU ending, is they don't put Cas into Ma'lak Box, they'll help him, they can win this monster ending, at least die trying)
 >
-> somewhere in the process there must be one plot he beats the shit out of Dean and almost kills Dean, just for the S10E22's sake
+> Cas get MoC
 >
-> one solution to help him stay human, similar to demon trial Crowley, human blood can purify demon, so Dean tries to purify demon!Cas with his blood, making Cas very openly addicted to Dean's blood and express love
+> Cas's grace distained by MoC bit by bit, going dark/crazy day by day
 >
-> some talk about putting him to Ma'lak Box, divergent from S15E09 monster ending because Dean doesn't put Cas into Ma'lak Box, they won't end up becoming vampires, MoC!Cas help smite so many monsters, he's more powerful/strong than usual (similar to S05E04 Dean seeing the AU ending if he doesn't say yes to Michael, the world becomes that, but his takeaway is to not distance Sam; so S15E09 Sam's takeaway from the AU ending, is they don't put Cas into Ma'lak Box, they'll help him, they can win this monster ending, at least die trying)
+> Dean/Sam panic at beginning, keep close eyes on him, don't know what to do at first, try to steer Cas back to doing right thing (Cas might help with some cases, but at a cost of huge collateral damage due to his decisions)
 >
-> to release the Mark Dean has to do the spell and kill Cas, what if the timing is off, they rely on Mark to resurrect Cas then to remove Mark
+> Cas goes to hunt with them. saves Jody/Claire from vampires (04/17/2020), Claire almost killed, Cas raged, blowing the whole building/area flat, Cas heals Claire, Claire a bit spooked by unusual Cas, notices something off, Dean/Sam cover for him
 >
-> potential solution: split and transfer the Mark to all living souls, the whole human race everyone takes a piece to lock God away, maybe be a little darker and living longer (still morally ambiguous? not all human sign up for this, they're playing God to make the decision for whole human race, distain the whole human race basically, and they don't know it would work before they try, too much risk, they might end up killing all humans, but the alternative is all monster killing all human, practically the same risk; need to think if there's a better solution)
+> Cas is killed (who killed him? Michael? Michael is spending time with Adam to experience the world but runs into them? thinking Cas goes too far and needs to be stopped/contained? Cas gets controlled and thinks/knows/grudges Michael so goes to fight Michael? Michael doesn't know with MoC can't be killed, fights Cas and kills him)
+>
+> Cas died with MoC, MoC brings him back alive and turn to demon (demon wings, demon eyes, transformation process, a bit more mischievous, a bit more moral ambiguous)
+>
+> Cas need to learn how to live as demon (watch out for salt/iron/holy water/demon trap)
+>
+> Dean inject demon!Cas with his human blood (like cure demon, human blood can purify demon) → but not fully cured/reversed, just help him in control (why not: human blood return demon to human, Cas was angel before turned to demon, he'd need angel blood, only angel they know is still around is Michael but Michael's the one killed him, so out of option)
+>
+> demon!Cas addicted to Dean's human blood (like addicted Crowley) (can get a bit sexual?)
+>
+> addicted/demon!Cas can very openly express addiction and love to Dean
+>
+> Dean in denial of Cas's love, thinking it's demon talking
+>
+> Cas gets even darker when Dean doesn't accept him, deteriorate worse, losing control, run loose, big massacre, a whole town or something, big collateral damage, blood-bath (or self-harm)
+>
+> when Cas's in control of MoC/demon side, more self-loath, self-disgust, self-punishment, painful, lonely, deserve issue, thinks sure it's why Dean won't ever love him (suicidal? but can't die, but maybe try, he can still feel pain; maybe try lock himself into Ma'lak Box and Dean finds out (=Dean's suicidal farewell trips get interrupted); do something fierce/terrible to his demon eyes/wings, poke eyes out, clip black bat-like leathery wings (miss his white feathery wings), something bloody and bad)
+>
+> Cas goes to Hell, live in Hell, think he belong to Hell, meet Rowena
+>
+> Dean allow himself to love, to accept Cas (sex?)
+>
+> big argument comes about whether to put Cas into Ma'lak Box, eventual agree not (Dean insist, divergent from alter timeline)
+>
+> hunt monsters like alter timeline shows, smite monsters easily, save people (01/06/2021 werewolves to save bleeding victims, 11/03/2021 vampires to save Sam/Dean)
+>
+> Cas get stronger/more powerful as demon/MoC-affected, wings turn leathery demonic after resurrection ("monster at the end of the book")
+>
+> Cas lose control but redirect to monsters, keeping monster issue under control (but show clearly the change is still happening underway, making him more cold-blooded, blood-thirsty, brutal, cruel, dark; he tries hard but it's a losing battle, they all can see it)
+>
+> every time Dean show love to him, he's a little better, in control, love is the only strongest thing in him that can't be darkened or taken, so Dean keep doing that, both try very hard to keep Cas on good side, see good/right choices, be good/kind
+>
+> discussion about what is love ("If I murder the world, would you still love me?" if yes, then what is it exactly that you're in love with? "You. Just you, all of you")
+>
+> MoC/demon!Cas gets overwhelmed by dark side, beats Dean up and almost kills Dean (=S10E22 MoC!Dean) (Cas remembers all the harm/pain Dean brings to him, all the times he died for Dean, for once Cas thinks it's unfair and accuses and beats Dean up; Dean is too guilty to resist)
+>
+> Cas (accidentally or knowingly?) actually kills Dean (="Into the Fire" reversed, heavy angst) (almost or really? Cain to MoC!Dean: "next you'll kill the angel and it will do something really bad to you")
+>
+> If Dean's really killed, Cas come back to himself later and pains/regrets/self-blame too much, heavy angst, heartbroken.
+>
+> Cas frantically tries to use his power to heal/resurrect Dean but can't, goes to Heaven to look for Dean (to apologize/make up?) while Sam medically tries to save Dean
+>
+> Cas doesn't care about anything anymore and goes to Heaven to find Dean (should burn him alive and kill him when he passes the heaven gate portal, which he doesn't mind and thinks he deserves it, end up purifying him, reverts demon!Cas back to angel!Cas, but MoC still there → this revert is basically because his love is too strong, demonization process is stripping out emotions/feelings, but love is not an emotion, not just a thread of feeling, it's everything, it's integrated into him, so strong and focused and pure that it becomes the spark that weave the rest of his consciousness back and gets rid of the demonness. so it's Heaven purifies demon, it's seeing Dean and the willingness to self-sacrifice for him that heal/revert the demon part in him)
+>
+> when in Heaven Cas sees Dean's heaven version of Cas and the two of them are basically doing same thing when they're on Earth, express love/feeling/hug/kiss, basically the same as before, except Dean seems truly happy/peaceful, not worried. Cas thinks Dean deserves the peace in afterlife, better not disturb him now, but stopped by Dean ("Where do you think you're going"), because Dean can tell the memory!Cas is not real Cas ("I'd rather have you", not perfect, darkened, but real). maybe they never really have sex before (or never penetrated) but here in heaven, for the first time, they do it for real, push one step further in their relationship, Dean ensure Cas he doesn't blame him for killing him, appreciate him coming to Heaven for him. can see Cas's wings for real this time (because they're in Heaven, different dimension, different realm, different physics rule), Cas's wings are feathery again, Dean tells Cas he's beautiful (even with MoC)
+>
+> while having those moments in heaven, inserts background noise like beeping sounds, Dean realizes it's Sam sending his body to hospital, they're still doing emergency CPR on him, almost claim his death. but they still have a chance of going back if they want. Dean/Cas decide they want to continue a second (huh) chance, so Dean comes back; in hospital, it looks as if it's a electroshock worked, medically resurrected ("Dude you're dead for nine hours" "Nine hours, eighteen minutes", very rare but not impossible, called Lazarus Syndrome, the world record is seventeen hours "Don't encourage him")
+>
+> "What now, Cas" → retire ending (it's like god guard duty, got a job to do; had been on guard duty watching Earth for millions of years, now just guard the Cage to not let God out) Dean: "I'm with you" "You don't have to" "I want to"
 >
 > 
 >
-> maybe because of the S04E01 siege when saving Dean, or other times he has to go to Hell, Cas is affected by something in the Hell, and "all that has been to Hell remains in Hell", he becomes unclean, and his grace fails bit by bit (or quickly), and eventually showing demon signs, demon eyes, demon wings, and ultimately turn into a black-eyed demon.
+> potential solution/ending (propose as their potential plans to save Cas):
 >
-> They panic, notice signs and doesn't know what to do. Or could fast-forward/jump start, directly start the story with Cas being a demon, trace back to figure out why or how, and the transformation process that he undertakes alone. Painful, lonely, more self-loath, self-punishment behavior.
+> the same spell they use to save Dean (Dean will have to kill Cas to release it, and let MoC resurrect Cas before removing it → what if the timing is off, Cas will be really dead)
 >
-> But never evil, he's basically still Cas, kinda like Crowley, good-hearted, actually doesn't have much change all things considered, except for the black eyes. At most a bit more mischievous and very slightly moral ambiguous. (Meg is a decent, good-hearted demon too later. Kinda like later season Meg. could add a little Meg/Crowley teasing Cas? teach him how to be demon, what to watch out, salt/iron/holy water) He even still has wings, or even fixed his broken wings (if it's post-S8 divergent), but he knows the white feathers are black now. He's utterly disgusted by his own wings, his own everything. Might even has some suicidal attempt, but stopped by Dean at last moment, or those attempts fail to kill him, or he does succeed and Dean has to go looking for him and resurrecting him from Empty. He has to continue exist as demon.
+> split and transfer the MoC for more than one people to bear, Dean shares the Mark with Cas, both grey, but no one black
 >
-> (somewhat like Ma'lak Box MoC!Cas → prompt 335.5)
+> split and transfer the MoC to all living souls (whole human race, everyone takes a piece to lock God away, this is the day Man defeat God → everyone live a little darker and longer; morally ambiguous proposal, not all human sign up for this, they're playing God to make the decision for whole human race, distain the whole human race, and they don't know it would work before they try, too much risk, they might end up killing all humans, or all humans turn too dark and kill each other (but alternative is Cas kill the world or monster kill the world, the world is doomed anyway, same risk) → "This is nuts" need to think if there's better solution)
 >
-> Maybe the "not evil" part is only the beginning, when Cas still can have enough self-control, have consciousness, have good-heart, but it's a losing battle. The change is still happening underway, making his heart more black, hard, cold-blooded, blood-thirsty, brutal, cruel, by each day. They notice it, try hard to keep Cas on human/angel good side, reason with him to see the good choice, be good, be kind. Because if Cas loses it, he'd fully, completely, irreversibly become a demon. Maybe they find some solution, but it's like newly-turned vampire/werewolf reverse spell, it would only work if he doesn't cross some last line. Cas is losing control and painful, and Dean/everyone is trying their best to help him.
+> retire ending: like Cain, Cas tames MoC, retire as a bee-keeper (loves honey too), Dean be there retire with him. Dean would have been aging but Cas uses his power (limitless now, fueled from MoC, but every time use it he'd be darker) to keep Dean young and alive (or partially as the split solution). balance for each other, live a retired beekeeper domestic life for eternity
 >
-> And maybe Cas still loses it, or something really bad happened. Maybe he attacks Dean with his demon-controlled darkened mind, remembering the harm and pain Dean does to him. Cas accuses Dean, Dean is too guilty to resist, and Cas (accidentally or forcefully?) kills Dean (≈ "Into the Fire" MoC!Dean, kills Cas when controlled, heavy angst). Cas comes back to himself briefly and pains too much, and turns completely to a demon in his heartbroken moment.
->
-> have to figure out a way to turn Cas back and save Dean again, maybe Cas doesn't care anything anymore and goes to Heaven to find Dean, which should burn him alive and kill him (which he doesn't mind and thinks he actually deserves it), which end up purifying him and cure him. And the solution is basically because of the love he has for Dean is too strong, demonization process is stripping out the emotions, but love is not an emotion, not just a thread of feeling, it's everything, it's integrated into him, so strong and focused and pure that it becomes the spark that weave the rest of his consciousness back and gets rid of the demonness. So it's not Heaven that purifies the demon, it's seeing Dean when he's in Heaven and the willingness to self-sacrifice for him that heals/reverse-changes him.
->
-> The two of them go back to Earth together again. HE.
->
-> 
->
-> events in S15E09!AU but changed:
->
-> 04/17/2020: save Jody/Claire from vampires
->
-> some time in 04/17/2020-01/06/2021: not lock Cas up, tame him
->
-> 01/06/2021: save victims from werewolves
->
-> 11/03/2021: save Sam/Dean from vampires
-
-###### [TBA]
+> monster god ending: Chuck warns them his existence is the only reason why monsters don't overwhelm mankind, meaning it's his credit to keep monster number in control, meaning he'd have to keep working. so Cas has to keep working to smite monsters to keep human safe, he's like Chuck here for the balance, so he'd have to work eternity (but Chuck has been gone for centuries, monsters are in control all the time, earth and human is fine without him, he's a liar; can go back to retirement ending)
 
 ### Canon S15E09 Script Reading
 
