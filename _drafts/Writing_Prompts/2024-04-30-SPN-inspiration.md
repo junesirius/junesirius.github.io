@@ -578,7 +578,7 @@ Jack/米：（也震惊）所以你什么都没有给他？那他怎么……？
 
 人类卡？或者单纯因为sigil能力被压制的卡，跟丁一起潜入地下孩童贩卖的拍卖会，卡先进去，丁假装成买家，说好了要先救孩子，结果发现卡被抓了，作为压轴被拍卖，丁要在救卡和救孩子们之间做选择
 
-### 52.【destiel】翅膀墙【WIP】
+### ~~52.【destiel】翅膀墙【done】~~
 
 （CA梗池里也有过，所有翅膀相关的梗两边可以公用，比如维密展）
 
@@ -2242,7 +2242,7 @@ S10 timeline, MoC!Dean & stolen-grace!Cas
 
 ### **229.【destiel】S15E20 souls been to Hell can't go to Heaven, Dean is in private Hell**
 
-souls went to hell can't go to heaven -> 1520 after Dean's death, he thought he's in heaven but actually it's Hell's private room Rowena gave him (the best they can offer given the situation)
+souls went to hell can't go to heaven → 1520 after Dean's death, he thought he's in heaven but actually it's Hell's private room Rowena gave him (the best they can offer given the situation)
 
 he saw Bobby, Sam, Cas in his "heaven", seems normal at first, but realize something wrong/off in this world later (not exactly like a dream but not like them either, something OOC in Bobby/Sam/others?), leave the private room, go out, see it's actually Hell. demons don't hurt him, he meets Rowena, who tells him truth
 
@@ -2899,7 +2899,7 @@ something huge happened, the only way to save Dean's life is Cas wipe Dean's mem
 
 Cas read Dean's memory, but door can be stepped either direction, Dean start reading Cas's memory (startled Cas)
 
-### **268.【destiel】S04E01 Dean lobotomize Cas in Hell during angel rescue**
+### **268.【destiel】S04E01 Dean lobotomize Cas in Hell during angel rescue**【WIP】
 
 (inspired by a comment under my tumblr post mentioning Cas 0817 is lobotomized) (heavy angst, canon compliant, canon divergent)
 
@@ -2916,6 +2916,8 @@ Cas without memory/knowledge, slow learner, but pick up the tools, operate on ot
 Azazel (in doctor director costume) come in to try to take Cas away/kill him on sight, Dean doesn't let him, Azazel commands Dean kill Cas or he'd be disappointed at him (father figure), Dean hesitates, acts as if intend to kill Cas (Cas frightened) but ends up didn't, instead rebels to Azazel, leaves the operation room and takes Cas with him to outside, see real Hell, shocked, Cas remembers he has wing (reminded by Balthazar?/Dean, Dean believes what he said before lobotomy is true now, tell him back what he initially said), use wing to protect Dean, demons attack, Cas purely muscle memory fight (still vessel shape, still doesn't remember other things before lobotomy), hand on Dean's shoulder (burns Dean, yell) and flies him out ("Dean Winchester is saved")
 
 Cas go back to heaven to regain a copy of memory (backuped before fight/standard version for all angels) from Naomi (hint potential memory messed up again), back in time to meet Dean in barn again, canon compliant
+
+(Title: **"Heaven Sent, Hell Bent"** "In the Grip of Madness")
 
 (→ prompt 328.5)
 
