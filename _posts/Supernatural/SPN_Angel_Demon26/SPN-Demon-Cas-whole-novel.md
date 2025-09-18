@@ -562,6 +562,12 @@ Sam and Dean prepare to take a last stand in a hotel room. Two hunters and Jody 
 >
 > --Dean holds out an ORB (the orb we saw in Chuck's flash forward), catching the smoke as it rises... completing Michael's spell--
 
+### Claim
+
+#### Claim Summary
+
+#### Visual Elements
+
 ### Posting
 
 #### Posting Summary
