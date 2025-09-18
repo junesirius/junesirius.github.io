@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【Destiel】Birthday Surprise
-date: 2025-09-08 11:20
+date: 2025-09-18 11:20
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Jody Mills", "Claire Novak"]
 tags: ["Supernatural", "destiel", "英文"]
@@ -14,11 +14,8 @@ origin: Pinefest Evergreen Mini Challenge
 Summary: For once, Dean tries to prepare a proper birthday for Cas. When a phone call disrupts his plan.
 
 <br>
-
 <hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
 <br>
-
-(TBC)
 
 <br>
 
@@ -33,3 +30,5 @@ Summary: For once, Dean tries to prepare a proper birthday for Cas. When a phone
 > date: 2025/09/18
 >
 > (reality: retired Dean/Cas, post-S15E18, post-S15E20)
+>
+> "My birthday is the day I met you. The day I met you is the day I was born, I started having a real, human life."
