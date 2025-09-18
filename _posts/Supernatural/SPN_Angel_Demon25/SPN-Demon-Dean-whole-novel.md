@@ -96,11 +96,31 @@ Cas goes back to Heaven to regain a copy of memory (backuped before going down t
 >
 > Turns out this is in Hell, except not even Dean realizes that, his memory/thinking is messed up/wiped regularly too, partially manipulated but the operating part is his own voluntary actions. He genuinely believes he's a doctor, doing the right thing, those people need that, so he's doing the operation on them. He knows it's causing them pain, but he thinks it's a good thing, he feels good about himself (calm tone, not angsty, easy at torturing, very good at it). Some patients fight back, he constrains them with force, retaliates in operation, tortures them harder, they scream loud, Dean still thinks it's what's best for them.
 
+
+
+
+
+<br>
+
+#### draft notes
+
+> Starts as if normal hospital operation scene, almost like AU, Dean enters the operation room in doctor's white robe (with some blood stains), acting operation on patients. They scream, turn out it's lobotomy. Dean enjoys the process too much, thinks he's doing the right thing (write in a way as if it's just a doctor AU, but actually canon-divergent in Hell).
+>
+> Alastair comes in to inspect, interacts with Dean naturally (like S04E17 *It's a terrible life* Zachariah), Dean trusts him (like father figure), Alastair shows him some tricks, Dean learns very quickly and outskills him.
+>
+> Turns out this is in Hell, except not even Dean realizes that, his memory/thinking is messed up/wiped regularly too, partially manipulated but the operating part is his own voluntary actions. He genuinely believes he's a doctor, doing the right thing, those people need that, so he's doing the operation on them. He knows it's causing them pain, but he thinks it's a good thing, he feels good about himself (calm tone, not angsty, easy at torturing, very good at it). Some patients fight back, he constrains them with force, retaliates in operation, tortures them harder, they scream loud, Dean still thinks it's what's best for them.
+
+###### [TBC]
+
 ### Chap 2
 
 > The angels come to rescue, Cas is the first/only angel fights off all the demons outside this pocket-Hell and enters the operation room. Because of the pocket dimension rule, Cas's angel power is suppressed, he's just like a powerless human vessel (forced by the rule, can't fight it). Dean thinks he's just another patient to operate on. Cas tries to reason with him, but rule one of his rescue mission, Dean needs to voluntarily agree to leave the place in order to be saved, but Dean doesn't even realize this is Hell, so he doesn't want to leave, and he just thinks Cas is another patient trying to fight/talk his way out of the operation. He wouldn't allow that.
 >
 > They fight, Dean is a strong demon, Cas is a bit hold back, doesn't want to hurt the Righteous Man, Dean wins. Dean forces Cas lie down on the operation table, straps him, lobotomizes him. Cas forgets why he's down here, where they, that he's an angel and he's coming to save Dean, now Cas thinks he's the same as Dean, so he hangs around in the room, wants to be his assistant.
+
+<br>
+
+#### draft notes
 
 ### Chap 3
 
@@ -110,10 +130,16 @@ Cas goes back to Heaven to regain a copy of memory (backuped before going down t
 >
 > Alastair (in doctor director costume) comes in to try to take Cas away, or try to kill him on sight. Dean doesn't want, tries to get in the way, but still hesitant of fighting against father figure. Alastair commands Dean to kill Cas, or he'd be disappointed at him (more father figure authority), Dean hesitates, acts as if intends to kill Cas (Cas frightens) but ends up didn't. Instead, Dean rebels against Alastair, leaves the operation room and takes Cas with him to outside, sees the real Hell, shocked, remembers he's a demon. Cas remembers he has wings (reminded by Dean, Dean believes what he said before lobotomy is true now, retells him what he initially said), uses wings to protect Dean.
 
+<br>
+
+#### draft notes
+
 ### Chap 4
 
 > Demons attack, more angels are high up but can't come down (including Balthazar?). Cas purely muscle memory fights (still vessel shape, still doesn't remember other things before lobotomy, not remember why they need to save Dean but he finds his own motivation/reason already, doesn't need to know it's mission). Cas's palm on Dean's shoulder (burns Dean, Dean yells in pain), and flies Dean out of Hell ("Dean Winchester is saved"), a parting scene. Cas rebuilds Dean's body and buries him in the field (wipes himself from Dean's Hell memory, ashamed of himself, feel like he's doing lobotomy to Dean again).
 >
 > Cas goes back to Heaven to regain a copy of memory (backuped before going down to Hell/standard version for all angels) from Naomi (hint potential memory messed up again), goes back in time to meet Dean in the barn again. Both don't remember the time in Hell together, but feel familiar. Canon compliant.
+
+#### draft notes
 
 ###### [END]
