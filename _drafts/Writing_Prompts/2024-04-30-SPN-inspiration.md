@@ -4051,7 +4051,7 @@ Some small case fic or daily story about Dean learning for the first time about 
 
 (remember some old posts somewhere, couples in quarrel, one is so pissed and leave the house to cool their head down, but still doesn't forget to send message to the other, letting them know they're not leaving, they just need the time and space, they'll come back. That sense of security is so rare and heartbreakingly warm.)
 
-### 354.【destiel】Cas's surprise birthday party【WIP】
+### ~~354.【destiel】Cas's surprise birthday party【done】~~
 
 On September 18th, Jody calls Dean to ask if he and Cas have time to come over to help, Dean initially planed to prepare Cas a birthday setting in the bunker, thinks Jody has a case so they have to work, so Dean has to give up his plan unhappily, goes to Jody's with Cas. Only to find it's actually Claire tries to give Cas a surprise birthday party but too shy to tell Cas directly, so she made Jody make the call. So in the end all of them give Cas a birthday at Jody's.
 
