@@ -178,6 +178,20 @@ or
 
 At some distance, the cities are burning, all flames and smoke. On a small hill, Dean and Cas are hugging and kissing. Cas is healed, his wings healthy and beautiful and spread out. Balthazar and Sam are around them, John is turned into a salt pillar facing the burning cities (not necessarily need to be depicted, just a note).
 
+### Posting
+
+#### Posting Summary
+
+It is a land of sin and blasphemy. It is the city where Dean was born and lives. The city named Sodom.
+
+It is a time when men hold no belief. It is the day the angel comes to the Earth. The angel named Castiel.
+
+It is fate. It is choice.
+
+The angel does not know what he is stepping into. The man does. And he tries so, so hard, to save him. Before they become the last righteous man and the last angel in the city that is sinned.
+
+#### Excerpt
+
 ### Arts
 
 #### Banner
