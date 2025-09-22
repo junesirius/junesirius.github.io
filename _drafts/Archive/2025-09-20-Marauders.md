@@ -14,11 +14,11 @@ Sirius is in the middle of London traffic when the Patronus reaches him. In the 
 
 The Patronus speaks in James's voice: "About to head into operation room now. Probably need about three hours." And it vanishes like a fog in the sun.
 
-Sirius curses silently under his breath. He underestimates the London traffic, and the time he needed to wait for check out in that mechanic shop.
+Sirius curses silently under his breath. He underestimates the London traffic, and the time he needed to wait for checkout in that mechanic shop for that added compartment.
 
 The second Patronus comes immediately after, before he can finish the thought: "Well, 30 minutes for the operation, and 2 hours 30 for the recovery."
 
-He's exactly about thirty minutes away from St. Mungos by his estimation. He probably really shouldn't pick the Muggle way of transportation today. Sirius glances around, wondering how big of a chance he has to not get any notice or alarm if he just clicks the invisibility and fly button on the motorbike right there.
+He's exactly about thirty minutes away from St. Mungos by his estimation. He probably really shouldn't pick the Muggle way of transportation today. Sirius glances around, wondering how big a chance he has to not get any notice or alarm if he just clicks the invisibility and fly button on the motorbike right there.
 
 No way he will be late for his godson's birthday.
 
@@ -26,9 +26,9 @@ He hasn't slept well for a whole week after James told him he wanted Sirius to b
 
 "Me?" Sirius was a little surprised at that time. "Not Remus?"
 
-James gave him a look that means *Are you stupid? Isn't that obvious?* "You're my best friend."
+James gave him a look that meant *Are you stupid? Isn't that obvious?* "You're my best friend."
 
-"I've never really been around any kid much before," Sirius admitted hesitantly, not very like himself. The idea of a newborn baby was both thrilling and intimidating, even when it wasn't his. He didn't want to think what would happen if it *was* his. And he absolutely was not thinking maybe that was the exact reason he stopped dating any girl for quite some time. "Let alone a newborn baby."
+"I've never really been around any kid much before," Sirius admitted hesitantly, not very like himself. The idea of a newborn baby was both thrilling and intimidating, even when it wasn't his. He didn't want to think about what would happen if it *were* his. And he absolutely was not thinking maybe that was the exact reason he stopped dating any girl for quite some time. "Let alone a newborn baby."
 
 "You think I do?" James laughed.
 
@@ -46,19 +46,19 @@ James shrugged. "Nothing." He paused for a second to think, then added, "Except 
 
 James patted him on the shoulder, easing down to a soothing petting along his arm, the way one would stroke the back of a big dog. "Easy, Padfoot. Nothing bad will happen, to Lily, to Harry, or to you. I promise we won't ask you to change diapers."
 
-Sirius glared at him, grabbing his friend's hand to tab on the wooden table for three times before letting him go. It's not like he believed any of the superstition, but somehow it felt like something he had to do, just to ease the twist tension in his stomach that felt worse than that one time he accidentally swallowed chocolate when he was in his Animagus form. The twist was still there, making him sick and dizzy.
+Sirius glared at him, grabbing his friend's hand to tap on the wooden table three times before letting him go. It's not like he believed any of the superstition, but somehow it felt like something he had to do, just to ease the twisted tension in his stomach that felt worse than that one time he accidentally swallowed chocolate when he was in his Animagus form. The twist was still there, making him sick and dizzy.
 
 Sirius almost hits the car before him when it brakes, his mind too distracted. He curses again in a hiss, checking the time a hundredth time. It's been thirty seconds since the last time he checked.
 
 He veers the motorbike away from the traffic, taking a sharp turn off the main road, slipping through a back alley. He still doesn't understand why St. Mungos has to set the main entrance in a Muggle street, one that isn't even easy to slip in and out among the crowd.
 
-Sirius brakes his motorbike in a shrieking sound in front of the disguised department store. The mannequin through the disdained window wears a long red dress, with a long black jacket draping over her shoulder.
+Sirius brakes his motorbike eith a shrieking sound in front of the disguised department store. The mannequin through the disdained window wears a long red dress, with a long black jacket draping over her shoulder.
 
-He takes a second to regard the figure, and decides it a good sign. That's the color of Lily and James's hair, it must be a sign that everything is going to be good and well and okay, right? He spends the next second wondering if the new baby -- they named him Harry, it's Lily's idea, mostly -- is going to have red or black hair, or somewhere in between. *He would look amazing either way,* Sirius thinks, not realizing he's wearing a doppy smile when he walks through the entrance disguised as store's dirty window, and steps right into the grand hospital hall.
+He takes a second to regard the figure, and decides it is a good sign. That's the color of Lily and James's hair; it must be a sign that everything is going to be good and well and okay, right? He spends the next second wondering if the new baby -- they named him Harry, it's Lily's idea, mostly -- is going to have red or black hair, or somewhere in between. *He would look amazing either way,* Sirius thinks, not realizing he's wearing a dopey smile when he walks through the entrance disguised as the store's dirty window, and steps right into the grand hospital hall.
 
-He only remembers visiting here when some of them were wounded in battles -- the one that is still going on nigh high -- and those wounds were usually the nasty kinds that couldn't be handled by a quick healing spell or potion. He never has any good memory from this place. But somehow today, it looks all so different. It's almost like he can see even the air is dancing vibrantly. He tilts his head, wondering if it's the wall or ceiling has changed to a bright decoration or some other changes he must have missed.
+He only remembers visiting here when some of them were wounded in battles -- the one that is still going on nigh high -- and those wounds were usually the nasty kinds that couldn't be handled by a quick healing spell or potion. He never has any good memories from this place. But somehow today, it looks all so different. It's almost like he can see that even the air is dancing vibrantly. He tilts his head, wondering if it's the wall or the ceiling that has changed to a bright decoration or some other changes he must have missed.
 
-Sirius parks his motorbike right next to the entrance door, where others parked their brooms -- the broom room is bigger on the inside and spacious enough to even park those Muggle cars. He looks around when he steps out, the view suddenly looking so bright that he has to squint his eyes a little. The sunlight from the outside shines through the glass door, transparent from ceiling to the floor, though the view is changed from the busy Muggle street, magicked into a view of open land in the middle of woods. All green and natural, with a distant stream or river flowing by. Now he understands why St. Mungos has to be where it is, on the ground. Even just for the sun.
+Sirius parks his motorbike right next to the entrance door, where others parked their brooms -- the broom room is bigger on the inside and spacious enough to even park those Muggle cars. He looks around when he steps out, the view suddenly looking so bright that he has to squint his eyes a little. The sunlight from the outside shines through the glass door, transparent from the ceiling to the floor, though the view is changed from the busy Muggle street, magicked into a view of open land in the middle of woods. All green and natural, with a distant stream or river flowing by. Now he understands why St. Mungos has to be where it is, on the ground. Even just for the sun.
 
 A security personnel stands behind a reception desk, looking at him carefully from a small distance. Sirius meets her eyes.
 
@@ -80,23 +80,23 @@ Right that moment, a paper owl flies over their heads, announcing loudly with a 
 
 A second owl crushes into the first one almost immediately, with a female voice this time: "Correction, code white. Code white, labor delivery on the third floor, Section Thirty-Four."
 
-Sirius jerks his head up at the paper owls, listening intensely, pointing at them before turning back to the security. "Yes, yes! That must be them. Third floor! They're in the third floor!"
+Sirius jerks his head up at the paper owls, listening intensely, pointing at them before turning back to the security. "Yes, yes! That must be them. Third floor! They're on the third floor!"
 
-The security gives him another once-over, then nods slightly. "Third floor it is. Elevator is to your left. Nurses will decide if they'll let you in."
+The security gives him another once-over, then nods slightly. "Third floor it is then. The elevator is to your left. Nurses will decide if they'll let you in."
 
-Sirius jumps to his feet and dashes toward the elevator. He only realizes he forgot to ask what does code blue and white mean when the elevator starts ascending. *Must be something like "Baby is out, needs someone come in to clean it up" or something.*
+Sirius jumps to his feet and dashes toward the elevator. He only realizes he forgot to ask what code blue and white mean when the elevator starts ascending. *Must be something like "Baby is out, needs someone to come in and clean her up" or something.*
 
-The elevator stops dutifully at the third floor and dings open. Sirius is already on the corridor before the door is fully open.
+The elevator stops dutifully at the third floor and dings open. Sirius is already in the corridor before the door is fully open.
 
-The corridor is long and straight, and very, very quiet. His footsteps are the only sound he can hear echoing between the walls. Light from window shines at the end of the corridor, like an exit to a tunnel. He walks so fast that he's almost running.
+The corridor is long and straight, and very, very quiet. His footsteps are the only sound he can hear echoing between the walls. Light from the window shines at the end of the corridor, like an exit to a tunnel. He walks so fast that he's almost running.
 
-It must has been another five or ten minutes, he thinks. He wouldn't have missed the grand reunion moment, would he?
+It must have been another five or ten minutes, he thinks. He wouldn't have missed the grand reunion moment, would he?
 
-The sign right next to the Section Thirty-Four reads "Neonatal Intensive Care", and Section Thirty-Two points to "Operation Center". The doors on either sides of the corridor are all closed tight. He doesn't have time to think about their meanings or what that has anything to do with the delivery announcement from earlier as he flies down the corridor.
+The sign right next to Section Thirty-Four reads "Neonatal Intensive Care", and Section Thirty-Two points to "Operation Center". The doors on either side of the corridor are all closed tight. He doesn't have time to think about their meanings or what that has anything to do with the delivery announcement from earlier as he flies down the corridor.
 
-He slows down when he sees an arrow pointing to a door reads "Patients". He knocks on the door three times.
+He slows down when he sees an arrow pointing to a door that reads "Patients". He knocks on the door three times.
 
-The door opens to him automatically, showing a much bigger ward area than he expects to see. Numerous doors round around a center reception area, leading to more corridors that are out of the view. Nurses and doctors hurry around. Now this looks more like the idea of a hospital he's familiar with. No one seems to be free for an extra second to give him a proper look.
+The door opens to him automatically, showing a much bigger ward area than he expects to see. Numerous doors round around a central reception area, leading to more corridors that are out of view. Nurses and doctors hurry around. Now this looks more like the idea of a hospital he's familiar with. No one seems to be free for an extra second to give him a proper look.
 
 Sirius approaches the round reception area, looking to someone to pause so he can catch a word.
 
@@ -126,7 +126,7 @@ Remus puts the book down when Sirius comes in.
 
 Remus nods once. "They told me the same thing."
 
-Sirius turns back to the door, staring outside -- though all he can see is a small portion of an empty hallway. "I don't think they understand. I told them I'm a really, really close family friend, the almost-family type of friend, the goddamn godfather of the baby. But they still say only immediate biological family member is allowed."
+Sirius turns back to the door, staring outside -- though all he can see is a small portion of an empty hallway. "I don't think they understand. I told them I'm a really, really close family friend, the almost-family type of friend, the goddamn godfather of the baby. But they still say only the immediate biological family member is allowed."
 
 Remus is quiet behind him for a moment. Sirius throws him a look over his shoulder.
 
@@ -144,7 +144,7 @@ Sirius hums unhappily. It's not that he *doesn't* know. He still pouts begrudgin
 
 He stares at his friend for a long minute.
 
-Remus has to put down his book again. "Padfoot," he says patiently, in a tone he usually used to defuse some nasty fighting situation, Sirius observes. And now he's using it on him like *he*'s the bomb. "What's in your mind?"
+Remus has to put down his book again. "Padfoot," he says patiently, in a tone he usually used to defuse some nasty fighting situation, Sirius observes. And now he's using it on him like *he*'s the bomb. "What's on your mind?"
 
 "Lily and James are having a baby," Sirius answers dreamily.
 
@@ -158,7 +158,7 @@ Sirius meets his friend's eyes, and suddenly a small hint of unease flashes thro
 
 Remus frowns a little, "What for?"
 
-"That they didn't ask you?" Sirius answers, feeling slightly guilty and awkward -- that's something he didn't think about until now. "They probably could make you Harry's something too -- what's other roles you can make? Or maybe a second godfather? I'm sure Harry wouldn't mind, James would be fine too. But we might have to get Lily's nod. I can try sweet-talk to her --"
+"That they didn't ask you?" Sirius answers, feeling slightly guilty and awkward -- that's something he didn't think about until now. "They probably could make you Harry's something, too -- what other roles can you make? Or maybe a second godfather? I'm sure Harry wouldn't mind; James would be fine too. But we might have to get Lily's nod. I can try sweet-talk to her --"
 
 "Sirius," Remus stops his babbling gently, "I don't mind. You're James's best friend, we all know that. Not me, not Peter. No one suits better to be Harry's godfather than you."
 
@@ -166,21 +166,21 @@ Remus frowns a little, "What for?"
 
 "Without any doubt," Remus answers firmly.
 
-Sirius cracks to a smile. "I'm going to spoil him so much." He stares at the air as if there is a film rolling before his eyes that no one else can see, with all the stories from the future written and framed, and he's just watching them unfold. It's a beautiful future where he gets to hang out with Harry every birthday and every holiday, where he and James can take turn show the kid all kinds of fun tricks one can pull when riding a broom, where Lily would probably kick him in the ass because he secretly takes Harry to somewhere she doesn't approve (with James giving him a wink from the corner of a wall just outside Lily's view), where they teach the kid spells and potion and memorizes boring history facts for his papers, where they all four of them go watch Quidditch World cup together… A future with so many opportunities. He can already imagine so many things he'd do with the baby, and he's almost worried they wouldn't have enough time for all of them before the baby grows up fully. He's heard babies tend to grow so fast that they'd turn twenty in a blink of an eye. *I better not blink then,* he thinks to himself.
+Sirius cracks a smile. "I'm going to spoil him so much." He stares at the air as if there is a film rolling before his eyes that no one else can see, with all the stories from the future written and framed, and he's just watching them unfold. It's a beautiful future where he gets to hang out with Harry every birthday and every holiday, where he and James can take turn show the kid all kinds of fun tricks one can pull when riding a broom, where Lily would probably kick him in the ass because he secretly takes Harry to somewhere she doesn't approve (with James giving him a wink from the corner of a wall just outside Lily's view), where they teach the kid spells and potion and memorizes boring history facts for his papers, where they all four of them go watch Quidditch World cup together… A future with so many opportunities. He can already imagine so many things he'd do with the baby, and he's almost worried they wouldn't have enough time for all of them before the baby grows up fully. He's heard babies tend to grow so fast that they'd turn twenty in the blink of an eye. *I better not blink then,* he thinks to himself.
 
-"I'll expect nothing less," Remus answers, then pinches the nose bridge between the brows. "I'm already feeling bad for Lily. It is definitely going to be a wreck imagining three of them together -- just imagining you, James and little baby version of James are put in a room together. Just, promise don't tear the house down?"
+"I'll expect nothing less," Remus answers, then pinches the nose bridge between the brows. "I'm already feeling bad for Lily. It is definitely going to be a wreck imagining three of them together -- just imagining you, James, and little baby version of James are put in a room together. Just, promise don't tear the house down?"
 
 Sirius's smile widens. "I can try. But Moony, why don't you join us too?"
 
-"I can help Lily kick you guys out of the house if have to," Remus answers with a straight face, but the corners of his eyes crinkle in a mischievous muted laugh.
+"I can help Lily kick you guys out of the house if we have to," Remus answers with a straight face, but the corners of his eyes crinkle in a mischievous, muted laugh.
 
-Sirius faintly moans. "You won't be so cold-hearted, will you? I can't imagine a life little baby Harry and his poor dad and poor godfather don't have a home to go back to, so they have to sleep in my motorbike for the night or something -- by the way, I just made an upgrade, do you want to see it? I haven't got chance to show James yet, but bet he'll love it."
+Sirius faintly moans. "You won't be so cold-hearted, will you? I can't imagine a life little baby Harry and his poor dad and poor godfather don't have a home to go back to, so they have to sleep in my motorbike for the night or something -- by the way, I just made an upgrade, do you want to see it? I haven't got a chance to show James yet, but bet he'll love it."
 
 Remus raises his eyebrows. "You know who would love it the most? You."
 
-Sirius barks out a loud laugh. "Can't argue with that. Come on, come check it out? With me? It's so cool -- I had to spend extra thirty minutes in the shop to get it done, that's why I can't get here earlier. Speaking of --"
+Sirius barks out a loud laugh. "Can't argue with that. Come on, come check it out? With me? It's so cool -- I had to spend an extra thirty minutes in the shop to find the right parts to get it done, otherwise I'd be here earlier. Speaking of --"
 
-He stops abruptly, meets Remus's eyes. They both check their watches at the same second, realizing the same thing -- "They should be out now." Sirius is the one speaking what's in both their minds.
+He stops abruptly, meeting Remus's eyes. They both check their watches at the same second, realizing the same thing -- "They should be out now." Sirius is the one speaking what's in both their minds.
 
 "When's the last time you heard from either of them?" Remus asks.
 
@@ -190,7 +190,7 @@ It's about three now.
 
 Sirius conjures his Patronus up. The bright light shapes into the form of a large black dog. He speaks to it, "Where are you? Everything okay? Remus and I are in the visitor's room."
 
-Remus adds next to him, "Let us know if Lily or baby Harry need anything, come fetch us. We're right here."
+Remus adds next to him, "Let us know if Lily or baby Harry needs anything, come fetch us. We're right here."
 
 "For moral support, for everyone," Sirius amends for him, finishing with: "I'm here for you too."
 
@@ -200,11 +200,11 @@ It comes back in a whip, carrying James's rushed reply, "Still in the operation.
 
 Sirius almost bounces to the door if not for Remus pulling him back.
 
-"There's nothing you can do but to wait here," Remus says in a tight voice, holding him in the arm.
+"There's nothing you can do but to wait here," Remus says in a tight voice, holding him in his arms.
 
-"Doesn't look good. What does he mean 'doesn't look good'? Is Harry going to be okay?" Sirius snaps, worry leaking all over from his voice. He doesn't think he's been so worried and scared ever since last time James and Lily ran face to face with their No.1 biggest enemy, and very narrowly won and escaped. Both of them had to stay in St. Mungo's Emergency Room for two days and Intensive Care for two whole weeks before the doctors finally release them to the normal wards. He really doesn't want to experience that again, standing outside the room, staring at them, thinking the unthinkable, imagining the worst. The war is cruel, but the worst is not on the battlefield, he realizes, but in moments like this. He doesn't get scared easily, but those times -- there were three of those times, he hates to know he remembers as vividly as yesterday for every single one of them -- those are the only times, he, Sirius Black, gets properly, genuinely, shakenly scared.
+"Doesn't look good. What does he mean, *'doesn't look good'*?! Is Harry going to be okay?" Sirius snaps, worry leaking all over from his voice. He doesn't think he's been so worried and scared ever since the last time James and Lily ran face to face with their No.1 biggest enemy, and very narrowly won and escaped. Both of them had to stay in St. Mungo's Emergency Room for two days and Intensive Care for two whole weeks before the doctors finally released them to the normal wards. He really doesn't want to experience that again, standing outside the room, staring at them, thinking the unthinkable, imagining the worst. The war is cruel, but the worst is not on the battlefield, he realizes, but in moments like this. He doesn't get scared easily, but those times -- there were three of those times, he hates to know he remembers as vividly as yesterday for every single one of them -- those are the only times, he, Sirius Black, gets properly, genuinely, shakenly scared.
 
-And now, hearing James's tight sound, hearing the horrifying hint of a bad news of Lily and baby Harry -- this is the fourth time for him.
+And now, hearing James's tight sound, hearing the horrifying hint of bad news of Lily and baby Harry -- this is the fourth time for him.
 
 He swallows violently, breaking free from Remus's grasp. Hands on the handle of the visitor's room's door.
 
@@ -214,17 +214,17 @@ Sirius lets his hand slip from the handle, falling strengthlessly by his side. H
 
 "We have magic," he says weakly. "Why can't they just magic Harry out and healthy, and magic Lily recovered?"
 
-"Magic can't fix everything, you know that." Remus reminds him gently. "Or we won't even have or need St. Mungos. Just think how much it already advanced since the time when *we* were born. It will be better in another twenty years, when the new century comes."
+"Magic can't fix everything, you know that." Remus reminds him gently. "Or we won't even have or need St. Mungos. Just think how much it has already advanced since the time when *we* were born. It will be better in another twenty years, when the new century comes."
 
-Sirius slumps back to the closest chair. "I know," he answers tiredly, resting his head on the wall behind him. The wall is stiff and cold, and it has a stick-out in the paint, somewhere right below his back skull, prickling his nerve. *It must be worse for Lily and James,* he thinks distantly *I should be in there to help, let them know we're here for them*. He can't even begin to imagine how it must be like for them.
+Sirius slumps back into the closest chair. "I know," he answers tiredly, resting his head on the wall behind him. The wall is stiff and cold, and it has a stick-out in the paint, somewhere right below his back skull, prickling his nerve. *It must be worse for Lily and James,* he thinks distantly, *I should be in there to help, let them know we're here for them*. He can't even begin to imagine what it must be like for them.
 
-He tries to conjure another Patronus for another message, but the spell fails him this time. He waves his wand and says "Expecto Patronum," but only a small thread of faint light flows from the tip of his wand, dissipating into the air before it can take any shape. His voice trembles when he tries a second time and it doesn't work. It's worst the third time, and even his hand can't hold as steady as it used to be. His mind keeps slipping to the horrifying, spine-shattering, grave-cold image of James and Lily cradling against the baby, but the baby is not crying. The James in his mind's vision loosens his arms, the cradle falling to the floor silently. He falls to his knees, tears pouring out. Lily would be as devastated, while not even able to move the slightest yet from the surgery. It would be a darker day than the day the Dementors came, it would be a colder day than the day the Deatheaters block the sun. It would be the ultimate worst and cruelest thing that could ever happen to any one of them. And it freezes his head and immobilizes his body.
+He tries to conjure another Patronus for another message, but the spell fails him this time. He waves his wand and says, "Expecto Patronum," but only a small thread of faint light flows from the tip of his wand, dissipating into the air before it can take any shape. His voice trembles when he tries a second time, and it doesn't work. It's worse the third time, and even his hand can't hold as steady as it used to be. His mind keeps slipping to the horrifying, spine-shattering, grave-cold image of James and Lily cradling the baby, but the baby is not crying. The James in his mind's vision loosens his arms, the cradle falling to the floor silently. He falls to his knees, tears pouring out. Lily would be as devastated, while not even being able to move the slightest yet from the surgery. It would be a darker day than the day the Dementors came, it would be a colder day than the day the Death Eaters block the sun. It would be the ultimate worst and cruelest thing that could ever happen to any one of them. And it freezes his head and immobilizes his body.
 
-Sirius shakes his head violently, trying vainly to cast the image out. But his hands are still trembling. The little orange lamp at the corner of the room looks dimmer than a moment ago. His hands feel cold. The air feels cold in his lung.
+Sirius shakes his head violently, trying vainly to cast the image out. But his hands are still trembling. The little orange lamp in the corner of the room looks dimmer than it did a moment ago. His hands feel cold. The air feels cold in his lungs.
 
 Remus's hands cover his, warm and steady. Soothing. He's glad Remus is here, for Potters, but for him too. He gives him an appreciated nod.
 
-A Patronus that is different from Sirius's comes out of Remus's wand, in the shape of a silver wolf, shimmering in the air. The warmth of the Patronus makes Sirius immediately feel so much better, as if the Dementors were really there moments ago, grasping his heart, choking him breathless, and now they're cast out, chased away. He indulges himself to savor in its light and warmth for an extended minute, his mind back under control.
+A Patronus that is different from Sirius's comes out of Remus's wand, in the shape of a silver wolf, shimmering in the air. The warmth of the Patronus makes Sirius immediately feel so much better, as if the Dementors were really there moments ago, grasping his heart, choking him breathless, and now they're cast out, chased away. He indulges himself in savoring its light and warmth for an extended minute, his mind back under control.
 
 He wipes the corner of his eyes, realizing it's wet.
 
@@ -232,7 +232,7 @@ He wipes the corner of his eyes, realizing it's wet.
 
 Sirius clears his throat before speaking. "All will be the best," he says to the Patronus, not sure if it's to help himself or make the Potters feel better. "Fingers crossed. We're praying for all of you. I know Harry is strong, I know it. So is Lily, so are you." He nods to himself, managing to pull the tips of his lips up a degree. "I know it."
 
-The silver wolf disappears for three minutes, and comes back with a brief and audibly more calm, "He's all good now. The baby. Stabilized. Lily is almost done with the surgery too."
+The silver wolf disappears for three minutes, and comes back with a brief and audibly calmer voice of James's, "He's all good now. The baby. Stabilized. Lily is almost done with the surgery too."
 
 "He said 'Harry is all good now', all of them are." Sirius grins, looking up in Remus's direction -- who also can't hold back a relieved smile.
 
@@ -248,15 +248,15 @@ That's when they hear a brief knock on the glass door. "Am I interrupting anythi
 
 "Thank god!" Sirius breathes out unsteadily, almost trips over the little coffee table in the middle of the room on his way out, throwing his arms around his best friend as if they haven't seen each other for a year. "Man, it's good to see you. We're worried sick!"
 
-"I'll fill you in the details in a second," James promises in a tight voice, tightens his arms around him for a brief second.
+"I'll fill you in on the details in a second," James promises in a tight voice, and tightens his arms around him for a brief second.
 
 "Not now, right? Now you need to go back to the hero mother and your new baby. You're a father now. I still can't believe it!" Sirius jokes lightly, letting him go.
 
 "Congratulations!" Remus says quietly from two steps behind.
 
-James flashes his attention to Remus, meeting his eyes with a warm look. "Thank you, Moony, Padfoot," he says whole-heartedly. "Thank you for being here."
+James flashes his attention to Remus, meeting his eyes with a warm look. "Thank you, Moony, Padfoot," he says wholeheartedly. "Thank you for being here."
 
-Shifting his gaze back to the black-haired man standing less than six inches before him, James's lips curl up a mischievous curve, relaxing more. "You know what time is it?"
+Shifting his gaze back to the black-haired man standing less than six inches before him, James's lips curl up in a mischievous curve, relaxing more. "You know what time it is?"
 
 "Yeah, it's four --" Sirius starts.
 
@@ -275,4 +275,5 @@ He pretends a moan, then leads the way out of the visitor's room, striding into 
 <br>
 <hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
 <br>
-(**Notes after the work**: My goddaughter is born today. This is the thing I had to write when I was in the waiting room, or else my heart  and brain would explode in anxiety and worry.)
+
+(**Notes after the work**: My goddaughter was born today. This is the thing I had to write when I was in the waiting room, or else my heart  and brain would explode in anxiety and worry.)
