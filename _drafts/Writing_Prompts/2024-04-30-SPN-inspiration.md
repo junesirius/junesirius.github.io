@@ -4367,4 +4367,28 @@ And so we pray (and so we pray)
 
 'Till nobody's in need and everybody can say
 
-### 367.
+### 367.【destiel】S05E04 Camp Chitaqua合影
+
+14丁卡，Chitaqua合影是什么情况下拍的？
+
+（inspired by 《[Epilogue](https://archiveofourown.org/works/386546)》）
+
+### 368.【destiel?/Bobby?】S06E12 "Just 'cause it kills your liver don't mean it ain't medicine"
+
+mourning something/someone? widower arc?
+
+something about Dean's drinking problem?
+
+### 369.【Claire】pre-S10E09 trained hitman Claire
+
+Claire-centered, canon divergent from before making up with Cas (S10E20) or running into Randy (S10E09/10)
+
+Claire misses her dad Jimmy, goes to look for him (or during looking for mom, S10E20), she runs into a hitman group and her skill is impressive enough to be accepted and trained professionally
+
+the next time she runs into Dean/Cas, she's very skillful in fighting, she surprises them (makes Cas very upset) or even wins them in fighting, or fights them, or almost kills them, or actually kills Dean (during S10 MoC time, making Dean demon, be there when they handle demon!Dean)
+
+maybe a lot on Claire-Cas/Dean relationship, dadstiel
+
+(inspired by *Leon*, *John Wick*, *Punisher S02*, *Kingsman*; any action movie having a very skillful killer/hitman teaching/carrying around a tough little girl)
+
+### 370.
