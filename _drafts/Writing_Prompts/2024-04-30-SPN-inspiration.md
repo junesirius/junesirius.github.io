@@ -4403,4 +4403,16 @@ Cas has to hide his identity, living very carefully
 
 Dean is there helping him self discovery
 
-### 371.
+### 371.【destiel】Dean and Cas's self-hatred materialized
+
+(inspired by myself)
+
+case fic setting
+
+maybe witch or cursed object or come from some ancient god or something from bunker etc., a mirror or mirror room that can materialize one's self image
+
+Dean and Cas go in there to investigate, run into another pair of Dean and Cas, both the image of themselves, the materialization of their self-hatred. the more they hate themselves, the stronger those two materialized figures are. they'll have to stop self-hatred or they'll die
+
+(≈ Doctor Who feeling, *Solaris*, SPN canon guilt-centered episodes? like S3 dream world)
+
+### 372.
