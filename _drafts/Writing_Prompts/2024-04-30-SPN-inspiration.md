@@ -4415,4 +4415,16 @@ Dean and Cas go in there to investigate, run into another pair of Dean and Cas, 
 
 (≈ Doctor Who feeling, *Solaris*, SPN canon guilt-centered episodes? like S3 dream world)
 
-### 372.
+### 372.【destiel】confession room
+
+(inspired by myself, *Daredevil*)
+
+Dean's guilt is too heavy, Sam suggests him to go to confession room to make himself feel better (or maybe a case, they have canon case where Dean went into confession room too)
+
+Cas is on the other side of the confession room, specifically there to release Dean's guilt, be a part to make him feel better about himself
+
+"no one has the right to judge him, not even himself"
+
+canon-divergent/compliant? don't want to make it Father!Cas AU, maybe still canon!Cas or pre-series angel!Cas, nothing explicit like many Father!Cas fic does, make it specifically about feelings and emotions and guilt, and how Cas helps him release guilt and hate himself less
+
+### 373.
