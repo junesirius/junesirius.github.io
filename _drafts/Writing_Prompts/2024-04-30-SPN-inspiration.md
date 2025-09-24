@@ -4391,4 +4391,16 @@ maybe a lot on Claire-Cas/Dean relationship, dadstiel
 
 (inspired by *Leon*, *John Wick*, *Punisher S02*, *Kingsman*; any action movie having a very skillful killer/hitman teaching/carrying around a tough little girl)
 
-### 370.
+### 370.【destiel】AU World where Wings is a shame
+
+(inspired by DW S15E06)
+
+AU world where angel is not a welcomed species, as bad as demon? or demon runs the world? angels can't make their wings invisible, some angels choose to cut their wings off, Cas hides his wings (or deformed it by twisting it too much to hide it inside clothe or something similar) to pretend he's human
+
+Cas has to hide his identity, living very carefully
+
+(heavy angst, self discovery)
+
+Dean is there helping him self discovery
+
+### 371.
