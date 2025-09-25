@@ -4427,4 +4427,10 @@ Cas is on the other side of the confession room, specifically there to release D
 
 canon-divergent/compliant? don't want to make it Father!Cas AU, maybe still canon!Cas or pre-series angel!Cas, nothing explicit like many Father!Cas fic does, make it specifically about feelings and emotions and guilt, and how Cas helps him release guilt and hate himself less
 
-### 373.
+### 373.【Dean/destiel】S04E03 Dean Van Halen + S04E05 Monster Movie → Dracula AU
+
+S04E03 Dean told young John his name is Dean Van Halen
+
+can just make it a Dracula AU
+
+### 374.
