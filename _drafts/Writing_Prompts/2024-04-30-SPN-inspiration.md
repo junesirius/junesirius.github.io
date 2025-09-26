@@ -4433,4 +4433,14 @@ S04E03 Dean told young John his name is Dean Van Halen
 
 can just make it a Dracula AU
 
-### 374.
+### 374.【Roch】RPF: Rob/Rich, friend/lover
+
+inspired by their podcast "SPN Then and Now", around S6 now
+
+In the podcast they joked about chat room people commented on the pairing of them to be Roch (Rob+Rich) directly combine together, though doesn't sound very good.
+
+want to write something around Rob and Rich, listened to them for 100 hours or so, feel like can already hear their voices in my head, know them and their moves and decisions reasonably well, ready to write something for them
+
+unsure of what story exactly, but must have the two of them together, canon divergent perhaps, their relationship has a lot of tension, rival or enemy or something similar. and then something happened, maybe for a real case fic, they go solve, something else happened, they get together very closely, be it friend or lover (need to remember their each's wives/kids/family) up to decide, just needs to talk and keep things steady. (Don't want to make this character because tension is between the two actors.)
+
+### 375.
