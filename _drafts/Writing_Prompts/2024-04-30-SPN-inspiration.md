@@ -3731,7 +3731,7 @@ In the end it must be how Jack sees the love between them and get changed again,
 
 In between the saving, because Jack would do what he thinks is the right thing to do, and since Cas does break his explicit rule to go down to the Earth, he'd punish Cas by locking him up. So briefly after seeing Cas again, Dean loses him again, has to figure out a way to figure out he's locked down and has to go up there to bust him out of Heaven jail and two of them save Jack together. (in order to go to Heaven, Dean might have to die again. temporary MCD unavoidable, but in the end, after Jack comes back, he can send them both back down to Earth to continue living)
 
-(≈ prompt 276)
+(≈ prompt 276, 377)
 
 ### 328.【destiel】S04E02 "I dragged you out of Hell. I can throw you back in."
 
@@ -4443,4 +4443,28 @@ want to write something around Rob and Rich, listened to them for 100 hours or s
 
 unsure of what story exactly, but must have the two of them together, canon divergent perhaps, their relationship has a lot of tension, rival or enemy or something similar. and then something happened, maybe for a real case fic, they go solve, something else happened, they get together very closely, be it friend or lover (need to remember their each's wives/kids/family) up to decide, just needs to talk and keep things steady. (Don't want to make this character because tension is between the two actors.)
 
-### 375.
+### 375.【destiel】S04E01 Cas patches Dean's body in Hell
+
+the handprint is left after Dean's body is patched/rebuilt, so what if it means Cas has to patch Dean's body before taking him out of Pit
+
+what's it like to fight a war while fixing Dean's body? unlike what we used to imagine Cas fix Dean's body&soul in quiet place, he has to fight while fix. Or manage to find a quiet place in Hell? or fix while Dean's demon side is still resisting, Cas has to control Dean's resist while fixing him. or fix him while demon!Dean has conscious (but he doesn't remember)
+
+### 376.【John/Mary】S04E03 Dean never know Mary is a hunter
+
+Dean never knows Mary is a hunter, does John never know that in original un-disturbed Dean-never-timetravelled timeline? or did John know that but lie to Dean&Sam all the time when they asked about mom growing up? or did Mary lie to John all the time, how did she manage to keep John in dark? does that mean John never met Samuel & Deanna? how did Mary keep John away from every single Campbell family member? all of Campbells are hunters but none of them even heard of Dean & Sam (S06), how did Mary manage that? by keep lying?
+
+Mary named her firstborn after her mom, then secondborn after her dad. so Mary is more close to her mom than dad?
+
+### 377.【Jack】S15E18 fixit: Jack try really hard to save Cas, Dean & Jack
+
+S15E18-fix it (S15E20 doesn't exist) but Jack-focused, Jack is more anxious & guilty than Dean, thinking/knowing Cas is dead because of him (and Dean thinks it's because of him), Jack tries to go to Empty to save Cas but fails (God has no power in Empty), Jack is wounded, Dean needs to help Jack to overcome his guilt (and his own). Two of them have to make effort together.
+
+(inspired by tumblr post: Cas making deal to save and the deal is cashed in because of his love for Dean, is a parallel to Mary making deal to save John and the deal is cashed in because she's there for Sam, and a parallel to John making deal to save Dean)
+
+（→ prompt 327）
+
+### 378.【all】S01E01+S04E03 Mary didn't get out of bed, John takes care of baby Sam
+
+Dean timetravel back to warn Mary don't get out of bed that night, what if she remembered, or just canon-wise John didn't sleep in sofa before TV that night, John's woken by Sam's cry or Mary asked John to go, anyway, John goes to Sam, runs into Azazel, John fights Azazel before Sam is fed demon blood, what will happen next?
+
+### 379.
