@@ -4467,4 +4467,16 @@ S15E18-fix it (S15E20 doesn't exist) but Jack-focused, Jack is more anxious & gu
 
 Dean timetravel back to warn Mary don't get out of bed that night, what if she remembered, or just canon-wise John didn't sleep in sofa before TV that night, John's woken by Sam's cry or Mary asked John to go, anyway, John goes to Sam, runs into Azazel, John fights Azazel before Sam is fed demon blood, what will happen next?
 
-### 379.
+### 379.【destiel】old man destiel ideas
+
+s16 destiel, retired destiel, aging elegantly like fine wine destiel, painful angsty old Alzheimer/amnesiac or sick human destiel, destiel raising kid/new baby, old married couple bickering, more angsty aging alone mourning widower; both immortal, "I'm the one who will have to watch you murder the world.", MoC!Dean+angel!Cas
+
+### 380.【all】pre-S04E01 during Dean's death
+
+S04E01 Bobby has been drinking a lot ("What's the deal with the liquor store?" "Like I said. Last few months ain't been all that easy")
+
+S04E04 Sam's suffering ("You were gone. I was here. I had to keep on fighting without you.")
+
+during Dean's four-month death, how's the mourning process like for Bobby and Sam
+
+### 381.
