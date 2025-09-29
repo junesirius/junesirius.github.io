@@ -4455,11 +4455,15 @@ Dean never knows Mary is a hunter, does John never know that in original un-dist
 
 Mary named her firstborn after her mom, then secondborn after her dad. so Mary is more close to her mom than dad?
 
-### 377.【Jack】S15E18 fixit: Jack try really hard to save Cas, Dean & Jack
+### 377.【Jack】S15E18 fixit: Jack try really hard to save Cas, Dean & Jack relationship-focused
 
 S15E18-fix it (S15E20 doesn't exist) but Jack-focused, Jack is more anxious & guilty than Dean, thinking/knowing Cas is dead because of him (and Dean thinks it's because of him), Jack tries to go to Empty to save Cas but fails (God has no power in Empty), Jack is wounded, Dean needs to help Jack to overcome his guilt (and his own). Two of them have to make effort together.
 
 (inspired by tumblr post: Cas making deal to save and the deal is cashed in because of his love for Dean, is a parallel to Mary making deal to save John and the deal is cashed in because she's there for Sam, and a parallel to John making deal to save Dean)
+
+(inspired by 《[ascend](https://archiveofourown.org/works/27823678)》)
+
+Dean willing to self-sacrifice to save Cas, Jack to Dean: "I already lost one father, don't make me lose another"
 
 （→ prompt 327）
 
@@ -4523,4 +4527,20 @@ what if Cas or some other angel is determined to kill Sam to stop Lucifer (angel
 
 S4 timeline Cas doesn't know Sam enough and only knows him as the boy with demon blood and Lucifer's true vessel and abomination, what would Cas do?
 
-### 385.
+### 385.【destiel】S04E01 handprint is a piece of Cas in Dean
+
+Cas could never be fully dead (as long as Dean's alive) because literally a real piece of him is in Dean, through the handprint. The profound bond is literally because he is really *in* Dean.
+
+The righteous man's body can't be patched just so easily without extra sacrifice, it requires something with similar power of a soul that matches/is close enough to his to fix him. The only thing close is Cas's grace, so Cas takes out a shred of his grace to fix Dean, like donating blood to save his life. The handprint is a proof/link to inject his grace into Dean.
+
+So when Cas is killed, he's not *fully* gone. As long as that piece of him is still in Dean and Dean's alive, Cas has a passageway to come back.
+
+### 386.【Chuck】post-S15E20 Chuck's normal human life
+
+(inspired by 《[ascend](https://archiveofourown.org/works/27823678)》)
+
+Chuck's normal human life after S15E20, it's like he gets a second chance. They leave him alone, on the premise/assumption that he'll have a miserable life. But what if not necessarily. Maybe he doesn't have to be having a nameless meaningless life, maybe he'll make something out of this human life. Maybe he can even turn good, he'll value the life as a human, starts appreciating the world he created and only viewed from above, this is the first time he lived in it and fully experience it for the first time. Maybe he can be a celebrity or something, discover social media, with his ability of persuasion and plausibility and talks, maybe he can get a lot of people to be brainwashed and follow him. He might get famous and rich even, kinda like S12E06 rock star Lucifer. The feeling of being admired is toxic, and he gets a taste of it and it's addictive.
+
+Or maybe he'll continue to be pathetic and miserable, living an awful human life, can't get used to it, poor, like Metatron's human life.
+
+### 387.
