@@ -4479,4 +4479,24 @@ S04E04 Sam's suffering ("You were gone. I was here. I had to keep on fighting wi
 
 during Dean's four-month death, how's the mourning process like for Bobby and Sam
 
-### 381.
+### 381.【Lucy/Jamie】S04E05 Monster movie creature has crash for Jamie, showing up as her best lady friend, but she's straight（F/F）
+
+Jamie agrees to date Dean, is likely straight
+
+shapeshifter appears as Lucy, being her best female friend, stay close to her, working with her everyday, watching her going out with other male customer, heartbroken
+
+Lucy show up as Dracula, calling Jamie her Mina, calling Dean Jonathan Harker
+
+conclusion: Lucy self-identifies as female, fall in love with Jamie, approach her as female, realize she's straight and wouldn't ever be with her, heartbroken, turn to act as Dracula
+
+canon-divergent, story without Winchesters, Lucy self-direct/act as a monster & hero, shapeshift into bad guy to hurt Jamie and hero Lucy to save her, hoping Jamie to fall in love with her
+
+sad ending?
+
+monster self-exile or death? believing Jamie would never love her back? Jamie kill her or Lucy allow herself to be killed by Jamie? the reason why Lucy turn into Dracula is thinking this time she appears to be male, maybe Jamie would love her/him now.
+
+very confused self-identity recognition/understanding, story of a bi/lesbian fall in love with straight girl, sad ending
+
+maybe could also include destiel, Dean witness Lucy/Jamie story, realizing he and Cas are also in love but both confused about self-identity too
+
+### 382.
