@@ -4499,4 +4499,18 @@ very confused self-identity recognition/understanding, story of a bi/lesbian fal
 
 maybe could also include destiel, Dean witness Lucy/Jamie story, realizing he and Cas are also in love but both confused about self-identity too
 
-### 382.
+### 382.【destiel】S04E06 coward!Dean has to gather courage to save Cas
+
+something happened to Cas right when Dean's affected with that ghost disease cowardness problem, he really has to overcome his fear to get to Cas, and Dean does everything he can for Cas regardless of his fear
+
+### 383.【destiel】S04E06 coward!Dean dies
+
+Dean has two hours left before Sam and Bobby figure out how to kill that ghost, and their "scare the ghost dead" way doesn't work, Dean is scared to death hallucinating Lilith and hellhounds, and gets dragged to Hell again (souls went to Hell can't go to Heaven, so every death after S04E01, Dean would always end up in Hell). so Cas has to save him again
+
+Alastair: "Coming back so soon?"
+
+Cas/angels: "Can you be more careful? It takes a lot of angels to get you out, you can't go visit there every other day"
+
+just to pretend Dean accidentally die again, Cas gets assigned to start guarding task to keep an eye on Dean from then on
+
+### 384.
