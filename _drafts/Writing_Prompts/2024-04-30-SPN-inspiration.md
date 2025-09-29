@@ -4503,7 +4503,7 @@ maybe could also include destiel, Dean witness Lucy/Jamie story, realizing he an
 
 something happened to Cas right when Dean's affected with that ghost disease cowardness problem, he really has to overcome his fear to get to Cas, and Dean does everything he can for Cas regardless of his fear
 
-### 383.【destiel】S04E06 coward!Dean dies
+### 383.【destiel】S04E06 what if coward!Dean dies
 
 Dean has two hours left before Sam and Bobby figure out how to kill that ghost, and their "scare the ghost dead" way doesn't work, Dean is scared to death hallucinating Lilith and hellhounds, and gets dragged to Hell again (souls went to Hell can't go to Heaven, so every death after S04E01, Dean would always end up in Hell). so Cas has to save him again
 
@@ -4513,4 +4513,14 @@ Cas/angels: "Can you be more careful? It takes a lot of angels to get you out, y
 
 just to pretend Dean accidentally die again, Cas gets assigned to start guarding task to keep an eye on Dean from then on
 
-### 384.
+### 384.【destiel】S04E07 Cas/angel is tasked to kill Sam
+
+S04E07 Uriel threatens Sam that the moment Sam ceases to be useful, he'll turn him to dust.
+
+S05E13 Anna prepares to kill Sam and scatter his cells across the universe.
+
+what if Cas or some other angel is determined to kill Sam to stop Lucifer (angels who don't know Michael's plan of deliberately trying to free Lucifer out of Cage to start Apocalypse)
+
+S4 timeline Cas doesn't know Sam enough and only knows him as the boy with demon blood and Lucifer's true vessel and abomination, what would Cas do?
+
+### 385.
