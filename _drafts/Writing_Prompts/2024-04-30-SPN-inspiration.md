@@ -4543,4 +4543,18 @@ Chuck's normal human life after S15E20, it's like he gets a second chance. They 
 
 Or maybe he'll continue to be pathetic and miserable, living an awful human life, can't get used to it, poor, like Metatron's human life.
 
-### 387.
+### 387.【destiel】AU: Camp owner Dean x Wayward kid caretaker Cas
+
+See detailed outline in [Post](https://junesirius.github.io/2025/09/29/SPN-Camper-au) or [Tumblr](https://www.tumblr.com/junesirius/796088354358837248) 2025-09-29
+
+Short version of outline:
+
+Dean is a camp owner, Cas takes care of a group of troubled teens, together with Meg.
+
+Claire is one of the kids, trying to help Dean and Cas to get together. And something happened in the woods, Claire is in trouble. destiel has to work together to save her.
+
+Cas puts himself in danger trying to save Claire. destiel realizes their feelings and Cas confesses before falling. Dean saves him.
+
+destiel gets together and everyone lives happily ever after.
+
+### 388.

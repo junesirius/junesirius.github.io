@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】Camp owner Dean x Wayward kid caretaker Dean（大纲文）
+title: 【Destiel】Camp owner Dean x Wayward kid caretaker Cas（大纲文）
 date: 2025-09-29 22:10
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
