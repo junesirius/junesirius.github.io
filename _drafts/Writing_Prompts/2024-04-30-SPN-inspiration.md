@@ -3825,7 +3825,7 @@ have to figure out a way to turn Cas back and save Dean again, maybe Cas doesn't
 
 The two of them go back to Earth together again. HE.
 
-(≈ prompt 362)
+(≈ prompt 362, 388)
 
 ### **335.5【destiel】S15E09 MoC!Cas becomes demon!Cas**【WIP】
 
@@ -4557,4 +4557,49 @@ Cas puts himself in danger trying to save Claire. destiel realizes their feeling
 
 destiel gets together and everyone lives happily ever after.
 
-### 388.
+### 388.【destiel】S15E18-fixit: Cas's happiness is taken by Empty even after he comes back
+
+(inspired by 《[ascend](https://archiveofourown.org/works/27823678)》)
+
+S15E18 fix-it: After Cas comes back from Empty, even if he's saved, his happiness and ability to feel happy has been taken by the Empty, so he can't feel happy again, even if Dean reciprocates. He becomes a bit apathy, more like brainwashed or soulless version. Dean has to figure out a way to fit that.
+
+(≈ prompt 335)
+
+### 389.【all】《God was never on your side》(Lyrics)
+
+(by Motorhead)
+
+If the stars fall down on me
+And the sun refuse to shine
+Then may the shackles be undone
+May all the old words cease to rhyme
+
+If the sky turn into stone
+It will matter not at all
+For there is no Heaven in the sky
+Hell does not wait for our downfall
+
+Let the voice of reason chime
+Let the pious vanish for all time
+God's face is hidden, all unseen
+You can't ask Him what it all means
+
+Let right or wrong alone decide
+God was never on your side
+
+See ten thousand ministries
+See the holy, righteous dogs
+They claim to heal, but all they do is steal
+Abuse your faith, cheat and rob
+
+If God is wise, why is He still
+When these false prophets call Him friend?
+Why is He silent, is He blind?
+Are we abandoned in the end?
+
+Let the sword of reason shine
+Let us be free of prayer and shrine
+God's face is hidden, turned away
+He never has a word to say
+
+### 390.
