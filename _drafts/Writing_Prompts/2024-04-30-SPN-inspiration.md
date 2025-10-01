@@ -2975,6 +2975,8 @@ also parallel to Sam/Ruby, the blood drinking relationship can very quickly esca
 
 OR, during vampire Dean time, Dean doesn't change back, Cas feed him with angel blood to prevent him hurting human and still ease the thirst
 
+OR, it's after-effect of S14 Dean being possessed by Michael, and after Michael left, Dean finds himself addicted to angel blood after the first time Cas bleeds before him
+
 ### 273.5【destiel】Cas is addicted to Dean's human blood（R级）
 
 similar to prompt 273 but reversed
@@ -4602,4 +4604,42 @@ Let us be free of prayer and shrine
 God's face is hidden, turned away
 He never has a word to say
 
-### 390.
+### 390.【drowley/destiel】S08E23 Crowley "I deserve to be loved" + Dean "don't think deserve to be saved"
+
+Crowley/Dean parallel
+
+S08E23 Crowley "I deserve to be loved"
+
+S04E01 Dean "What's the matter? You don't think you deserve to be saved"
+
+(inspired by myself, about "deserve")
+
+Dean & Cas both don't think they deserve to be saved/loved but are loved, but Crowley believe he deserve to be loved but is not loved (canonically)
+
+what's affecting that train of thoughts/feeling of "deserve"? self-loathing/guilt makes them feel undeserved, demon doesn't feel guilty about his own doing so he thinks he deserve to be loved?
+
+### 391.【Cas/Jimmy】S04E20 When Jimmy prays, Cas is still being brainwash/surgery by Naomi
+
+Jimmy prays to Cas when Cas is in the middle of brainwash lobotomy by Naomi
+
+Cas fights his way out of Naomi's control to get to Jimmy, because he has a promise to keep, he promised to keep his family safe, that's exactly what he's about to do
+
+so even when he told Dean he serves Heaven, not man, not Dean, he's already violating that rule, he's already here for Jimmy, for human. so he's always, always helping human
+
+S04E20 rewrite from Cas POV? what happened to Cas during S04E20 events, he tries to warn Dean then in angel fight, forced out of vessel, gets grabbed to Heaven, being brainwashed by Naomi, hear Jimmy's pray (Dean never prayed up until now but hear Jimmy's pray too? that's how he know Cas can hear?), fights his way out, break the brainwash, come to Claire, ask for consent, then leave
+
+### 392.【CasJimmy/destiel】S05E03 open phone line between vessel and angel
+
+S05E03 Cas says there's an open phone line between an angel and his vessel, he uses the spell on the vessel to talk to Raphael, which means for all the other vessel/angel pair we see in canon, at some point, we can use this vessel/angel phone line to solve some problems: Dean/Michael, Adam/Michael, Sam/Lucifer, Nick/Lucifer, Jimmy/Cas, Claire/Cas, etc.
+
+which means if Dean knows this spell back in S04E20 when Cas is taken to Heaven and they only have Jimmy, they can use the spell to talk to Cas
+
+### 393.【all】S04E22 what if it's really Lucifer saved Sam/Dean/Cas
+
+from S04E22 to S05E01 they are all guessing who sent Sam/Dean to the airplane and resurrected Cas, they know angels didn't do that, Raphael suggested it can be Lucifer; Chuck admitted he saved them and resurrected Cas in S10 when he revealed as God
+
+What if Chuck lied (he might resurrect Cas in S5 time but not in S4 time), it really is Lucifer that saved Sam/Dean/Cas, S05 rewrite?
+
+It makes sense and should be easy for Lucifer to save Sam/Dean since they're right there outside his cage when he comes out, he would *want* them alive to start Apocalypse. But also angels should also *want* them alive, no reason like Cas told Zachariah "angels certainly didn't do that". could also be Michael?
+
+### 394.
