@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【日志】Ghost音乐会
+title: 【日志】Ghost 巡演
 date: 2025-08-10 22:18
 categories: ["原创"]
 characters: ["Ghost"]

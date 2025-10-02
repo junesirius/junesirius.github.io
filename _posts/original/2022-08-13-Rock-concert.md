@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【日志】Def Leppard+Joan Jett音乐会
+title: 【日志】Def Leppard + Joan Jett 巡演
 date: 2022-08-13 00:09
 categories: ["原创"]
 characters: ["Def Leppard", "Joan Jett", "The Blackhearts", "Poison", "Mötley Crüe"]
