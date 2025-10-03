@@ -4642,4 +4642,33 @@ What if Chuck lied (he might resurrect Cas in S5 time but not in S4 time), it re
 
 It makes sense and should be easy for Lucifer to save Sam/Dean since they're right there outside his cage when he comes out, he would *want* them alive to start Apocalypse. But also angels should also *want* them alive, no reason like Cas told Zachariah "angels certainly didn't do that". could also be Michael?
 
-### 394.
+### 394.【destiel】《See Me, Feel Me》（Lyrics）
+
+(by The Who)
+
+See me
+Feel me
+Touch me
+Heal me
+
+Listening to  you, I get the music
+Gazing at you, I get the heat
+Following you, I climb the mountain
+I get excitement at your feet
+
+Right behind you, I see the millions
+On you, I see the glory
+From you, I get opinion
+From you, I get the story
+
+### 395.【destiel】AU: old retired rock stars
+
+Dean/Cas are the last two members left in a famous classic rock band, now they're old and about to retire, and right now hosting a farewell tour
+
+they miss old friends/band members (Sam/Jack?), feel the age, how do they handle being old and alone, afraid of being forgotten, but want to retire and rest too
+
+last song after farewell, hold each other on the shoulder, totter to the exit slowly
+
+(inspired by The Who farewell tour)
+
+### 396.
