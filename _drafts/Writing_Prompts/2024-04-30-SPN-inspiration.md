@@ -4634,6 +4634,10 @@ so even when he told Dean he serves Heaven, not man, not Dean, he's already viol
 
 S04E20 rewrite from Cas POV? what happened to Cas during S04E20 events, he tries to warn Dean then in angel fight, forced out of vessel, gets grabbed to Heaven, being brainwashed by Naomi, hear Jimmy's pray (Dean never prayed up until now but hear Jimmy's pray too? that's how he know Cas can hear?), fights his way out, break the brainwash, come to Claire, ask for consent, then leave
 
+(Cas might have to lie to Naomi to get out to reach Jimmy, telling Naomi: he replying to Jimmy's call is also an act of "serving Heaven", he could use him as a suitable vessel, it's a beneficial, strategic move for Heaven, maybe that's how he convinced Naomi. Even though the fundamental real reason is just he cares about human and needs to keep his promise and go to save Jimmy and his family.)
+
+（→ prompt 398）
+
 ### 392.【CasJimmy/destiel】S05E03 open phone line between vessel and angel
 
 S05E03 Cas says there's an open phone line between an angel and his vessel, he uses the spell on the vessel to talk to Raphael, which means for all the other vessel/angel pair we see in canon, at some point, we can use this vessel/angel phone line to solve some problems: Dean/Michael, Adam/Michael, Sam/Lucifer, Nick/Lucifer, Jimmy/Cas, Claire/Cas, etc.
@@ -4685,4 +4689,144 @@ Dean understands demon life more, understand Crowley more
 
 （→ prompt 390）
 
-### 397.
+### 397.【Dean&Jimmy】S04E20 two very reluctant soldiers of God form an easy bond
+
+(from outline/network draft: )
+
+> Dean has to ask: "So... what was it like being rodeo'd by an angel?"
+>
+> Jimmy smiles grimly -- "Man, if I only knew what I was getting into."
+>
+> He tells Dean being a servant of the Lord was far more of a clusterfuck than he'd ever dreamed.
+>
+> First he was shot, then healed... stabbed, then healed... hack, he even once found hiumself standing on the summit of Mt. Everest.
+>
+> Dean: "Doing what?"
+>
+> Jimmy: "Having a <u>conversation</u>."
+>
+> **Dean and Jimmy form an easy bond -- two very reluctant soldiers of God.**
+
+> Dean has one last question: "How can you go back to potlucks and Monopoly knowing the apocalypse is coming?"
+>
+> Jimmy thinks on that a quick beat: "Happily." And he's gone.
+>
+> Dean stares after him a moment, quiet, envying him -- "Lucky bastard."
+
+minor destiel:
+
+> Dean asks what Castiel really knows about Dean's fate, about the angels' ultimate purpose for him, but, again, Jimmy has no idea -- Castiel shielded that from him.
+
+### 398.【CasJimmy】S04E20 Jimmy wasn't pious from the beginning
+
+What did Cas do and go when he's taking Jimmy with? What's he doing on Mt. Everest? Who's he having a conversation with? God? What's the "shot then healed, stabbed then healed" happening? all Dean's doing?
+
+(In the original network draft outline: Jimmy wasn't pious from the beginning, doesn't want to go to Christmas Eve's Midnight Mass, thinking it's creepy, so is church. Castiel gradually persuade him, talking to him for months, from Christmas 2007 until September 2008 Jimmy finally says yes)
+
+(from outline/network draft: )
+
+> Jimmy has no idea -- all he remembers is a flash of light and, suddenly, he had his body back.
+>
+> Jimmy can't remember much -- his memory is spotty, he remembers some things, not others. He does remember saving <u>their</u> asses once or twice, though.
+
+> First he was shot, then healed... stabbed, then healed... hack, he even once found himself standing on the summit of Mt. Everest.
+>
+> Dean: "Doing what?"
+>
+> Jimmy: "Having a <u>conversation</u>."
+
+> But Jimmy does know one thing -- he knows of Castiel's doubt. He knows Castiel doesn't even think God is calling the shots anymore.
+>
+> Dean: "<u>That's</u> troubling."
+>
+> Jimmy nods, that's not even the worst of it -- "Castiel doesn't think this is winnable anymore. He thinks the apocalypse is coming."
+
+> (Flashback: March, 2008)
+>
+> Suddenly, the radio starts to whine as the television did before! A ceiling light begins to burn brighter and brighter... finally blazing down on him!
+>
+> But Jimmy does his best to ignore them both, anxiously stirs a pot of sauce. Grows more and more agitated.
+>
+> Finally, he angrily snaps: "No... <u>no</u>... shut up! I told you... you're <u>not</u> real!"
+>
+> Obviously... this isn't the first conversation Jimmy's had with a radio and a bright light in the past few months.
+>
+> He listens for another moment, sneers: "Oh, you're gonna prove it? Oh, yeah? <u>How</u>?"
+
+Two times Jimmy said yes, both are because of Claire. He only says yes when he's about to lose Claire.
+
+First time:
+
+> (Flashback: September, 2008)
+>
+> Amelia, at wit's end, begs Jimmy to take his meds, he refuses. Insists what's happening to him is real.
+>
+> Amelia shoots back -- "So, Castiel the Angel has chosen <u>you</u>?"
+>
+> Jimmy: "Yes, he wants me to give myself over to him completely."
+>
+> Amelia: "Why? <u>Why</u>? You sell ad space, Jimmy!"
+>
+> Jimmy: "I asked him the same question, he says it's because it's in my <u>blood</u>."
+>
+> Amelia: "In your blood? What does that mean, in your blood?"
+>
+> Jimmy: "He didn't tell me, I don't know... I wish I knew."
+>
+> But Jimmy <u>does</u> know one thing -- Castiel also told him the world was ending.
+>
+> Amelia explodes: "You know who says that, Jimmy? Crazy people!"
+>
+> Jimmy shrugs, genuinely upset she doesn't get it, but what can he do? **The world is ending, he can help save it... doesn't she realize he's trying to <u>protect</u> her and Claire?**
+
+> (Amelia: So if Jimmy won't take his meds, won't get help, she'll be taking Claire to her mother's in the morning.)
+>
+> Jimmy stands in front of his mirror, gets dressed. Shirt and tie. A trench coat.
+>
+> Jimmy walks outside, stops in the middle of the driveway, a regular guy overwhelmed by a force he doesn't understand.
+>
+> And so, he prays: "I don't understand what you want me to do. **I'm going to lose my <u>family</u>...** whatever you want me to do, I'll do it... just show me already... why me, Castiel? Why <u>me</u>? What do you want me to do?"
+>
+> Suddenly, the white light appears and shines down on Jimmy... he listens for a long beat -- apparently, he's being spoken to -- and then nods.
+>
+> Jimmy: "Okay... okay... <u>yes</u>."
+>
+> With this assent, the white light burns brighter and envelopes him... and when the light disappears, the man standing there isn't Jimmy anymore -- it's Castiel!
+
+Second time:
+
+> (Claire is taken by the demon possessing Amelia)
+>
+> Jimmy paces, alone, his mind in knots. Back and forth, back and forth, finally he speaks. Quietly, urgently, a prayer -- to Castiel.
+>
+> Jimmy gets it, he can never get out of this, he can never go home again... **he just wants to know a home is there.**
+>
+> **He begs Castiel to save his family**, begs him to take him back: "I will give myself to you completely, for the rest of my life. <u>Please</u>."
+>
+> Jimmy waits a long moment. Nothing happens. No help arrives. He sighs. Typical.
+
+> Castiel, in the little girl's body, passes Dean. Dean: "How? How are you in her body?"
+>
+> Cas: "It's in the blood."
+>
+> Cas moves to stand over Jimmy, who bleeds through his shirt, on the verge of death, but still alive.
+>
+> Castiel: "You will never go home again. You won't even be able to say good-bye. Do you agree?"
+>
+> Jimmy throws one last look at his wife, stares into Castiel (and his daughter's) eyes, and nods. He agrees.
+>
+> And the bright light suddenly appears, enveloping Claire and Jimmy... and as the light disappears, Jimmy is now, once again, Castiel.
+>
+> He rises wordlessly, starts to walk away.
+
+(destiel next: )
+
+> Dean calls to him: "Hey, wait a minute! What were you going to tell me?"
+>
+> Castiel pauses, speaks slowly, coldly, not a hint of Jimmy anywhere: "I learned my lesson while I was away. I serve heaven, I don't serve man... and I certainly don't serve you."
+>
+> Dean reacts... and Castiel is gone.
+
+（→ prompt 391）
+
+### 399.
