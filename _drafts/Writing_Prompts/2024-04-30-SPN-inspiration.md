@@ -4829,4 +4829,10 @@ Second time:
 
 （→ prompt 391）
 
-### 399.
+### 399.【destiel】S08E17 "I thought I have seen all the possible ways you die, yet you still surprise me"
+
+S08E17 Cas under brainwash killed Dean millions of times, thought/believed he has seen all the possible ways that Dean die (all of them of his hand) (Naomi forces him to get creative too, like taking away his angel blade or grace so he can only kill with his hand or whatever tool and object he can find in the new setting, sometimes explosives, sometimes using gravity), yet in the real world, Dean still managed to surprise him every time he dies, it's a new way Cas hasn't seen/thought of.
+
+maybe when in crypt, the reason why Cas breaks the brainwash is because this is something he never thought of. Maybe in all of Naomi's versions (enhanced by Cas's imagination), Dean never said "I need you", he might plea for his own life, but never like the way real Dean did, just *let* him kill him.
+
+### 400.
