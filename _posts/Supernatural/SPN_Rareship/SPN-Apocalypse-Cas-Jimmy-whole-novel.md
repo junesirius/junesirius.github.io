@@ -1,13 +1,13 @@
 ---
 layout: post
-title: 【SPN】Everlasting Night
+title: 【SPN】Evernight
 date: 2025-08-03
 categories: ["SPN"]
 characters: ["Castiel", "Jimmy Novak", "Claire Novak"]
 tags: ["Supernatural", "英文", "黑暗面", "天启卡"]
 pov: 第三人称
 origin: 2025 SPN Rare-Ships Mini Bang
-long_novels: 【SPN】Everlasting Night
+long_novels: 【SPN】Evernight
 published: false
 ---
 
@@ -19,7 +19,7 @@ Tags: Canon Divergent, Canon Compliant, Apocalypse World, Angel Possession, Vess
 
 Warning: Graphic Depictions of Violence, Major Character Death
 
-Rating: Teen and up
+Rating: Teen and up (for the darkness)
 
 # Draft
 
@@ -115,7 +115,7 @@ By the time Jimmy looks back down, the tentacles of the Empty already covers hal
 
 (Apocalypse world, the pain and struggle between Castiel and Jimmy)
 
-Jimmy is a devout man, praying for angels to protect his family, praying for a peaceful world. Then Apocalypse starts, and Castiel comes to him, he says yes. Castiel goes to Hell for a mission, but not to save the righteous man, it's to open the Cage himself, to let Lucifer out (he's the one started Apocalypse on Michael's order).
+Jimmy is a devout man, praying for angels to protect his family, praying for a peaceful world. Then Apocalypse starts, and Castiel comes to him, he says yes. Castiel goes to Hell for a mission, but not to save the righteous man, it's to kill Lilith and open the Cage himself, to let Lucifer out (he's the one started Apocalypse on Michael's order; the righteous man who broke the first seal is John Winchester, Mary never made deal to save him, he's in Hell all the time).
 
 Castiel leads the army to war, fight demons and sometimes humans if they're on his way, torture them for information, it's everything against what Jimmy wants. Their consciousness doesn't align, it causes Jimmy's nerve great pain. He begs Castiel to protect his wife and daughter, but Castiel doesn't care about humans, only focusing on the war.
 
@@ -189,9 +189,29 @@ By the time Jimmy looks back down, the tentacles of the Empty already covers hal
 
 ## Act 1
 
-> Jimmy is a devout man, praying for angels to protect his family, praying for a peaceful world. Then Apocalypse starts, and Castiel comes to him, he says yes. Castiel goes to Hell for a mission, but not to save the righteous man, it's to open the Cage himself, to let Lucifer out (he's the one started Apocalypse on Michael's order).
+> Jimmy is a devout man, praying for angels to protect his family, praying for a peaceful world. Then Apocalypse starts, and Castiel comes to him, he says yes. Castiel goes to Hell for a mission, but not to save the righteous man, it's to kill Lilith and open the Cage himself, to let Lucifer out (he's the one started Apocalypse on Michael's order; the righteous man who broke the first seal is John Winchester, Mary never made deal to save him, he's in Hell all the time).
+
+*And he carried me away in the Spirit to a mountain great and high, and showed me the Holy City, Jerusalem, coming down out of heaven from God. It shone with the glory of God, and its brilliance was like that of a very precious jewel, like a jasper, clear as crystal. It had a great, high wall with twelve gates, and with twelve angels at the gates. On the gates were written the names of the twelve tribe of Israel. There were three gates on the east, three on the north, three on the south and three on the west. The wall of the city had twelve foundations, and on them were the names of the twelve apostles of the Lamb.*
+
+*The angel who talked with me had a measuring rod of gold to measure the city, its gates and its walls. The city was laid out like a square, as long as it was wide. He measured the city with the rod and found it to be 12,000 stadia in length, and as wide and high as it is long. The angel measured the wall using human measurement, and it was 144 cubits thick. The wall was made of jasper, and the city of pure gold, as pure as glass. The foundations of the city walls were decorated with every kind of precious stone. The first foundation was jasper, the second sapphire, the third agate, the fourth emerald, the fifth onyx, the sixth ruby, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth turquoise, the eleventh jacinth, and the twelfth amethyst. The twelve gates were twelve pearls, each gate made of a single pearl. The great street of the city was of gold, as pure as transparent glass.*
+
+*I did not see a temple in the city, because the Lord God Almighty and the Lamb are its temple. The city does not need the sun or the moon to shine on it, for the glory of God gives it light, and the Lamb is its lamp. The nations will walk by its light, and the kings of the earth will bring their splendor into it. On no day will its gates ever be shut, for there will be no night there.*
+
+<p style="text-align:right">-- <i>Revelation 21</i></p>
 
 <br>
+
+<hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
+<br>
+
+
+###### [TBC]
+
+<br>
+
+### draft notes
+
+> Jimmy is a devout man, praying for angels to protect his family, praying for a peaceful world. Then Apocalypse starts, and Castiel comes to him, he says yes. Castiel goes to Hell for a mission, but not to save the righteous man, it's to kill Lilith and open the Cage himself, to let Lucifer out (he's the one started Apocalypse on Michael's order; the righteous man who broke the first seal is John Winchester, Mary never made deal to save him, he's in Hell all the time).
 
 ## Act 2
 
@@ -266,5 +286,18 @@ By the time Jimmy looks back down, the tentacles of the Empty already covers hal
 > Jimmy sits down beside him, looking up at the falling souls from the bottomless darkness -- Heaven and Hell has long been destroyed in the war, homeless souls all come to the Empty. Everyone is falling to the Empty.
 >
 > By the time Jimmy looks back down, the tentacles of the Empty already covers half his body. And when he looks beside him, there is nothing and no one left. Swallowed by the Empty, Castiel is long gone.
+
+
+
+<br>
+
+<hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
+<br>
+
+*When the thousand years are over, Satan will be released from his prison and will go out to deceive the nations in the four corners of the earth -- Gog and Magog -- and to gather them for battle. In number they are like the sand on the seashore. They marched across the breadth of the earth and surrounded the camp of God's people, the city he loves. But fire came down from heaven and devoured them. And the devil, who deceived them, was thrown into the lake of burning sulfur, where the beast and the false prophet had been thrown. They will be tormented day and night for ever and ever.*
+
+*Then I saw a great white throne and him who was seated on it. The earth and the heavens fled from his presence, and there was no place for them. And I saw the dead, great and small, standing before the throne, and books were opened. Another book was opened, which is the book of life. The dead were judged according to what they had done as recorded in the books. The sea gave up the dead that were in it, and death and Hades gave up the dead that were in them, and each person was judged according to what they had done. Then death and Hades were thrown into the lake of fire. The lake of fire is the second death. Anyone whose name was not found written in the book of life was thrown into the lake of fire.*
+
+<p style="text-align:right">-- <i>Revelation 20</i></p>
 
 ###### [END]
