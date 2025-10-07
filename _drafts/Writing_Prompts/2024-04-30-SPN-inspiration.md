@@ -522,7 +522,7 @@ When they live inside your heart
 - S12E11 失忆
 - S12E21 被锁在bunker里几乎窒息死去时
 
-### 45.【Cas梦女】我的身份
+### 45.【Cas/you】我的身份
 
 - Charlie Bradbury
 - 另一个Winchester家的孩子（格式模仿《另一个波琳家的女孩》）
@@ -3507,7 +3507,7 @@ inspired by Misha的双面人在毁容之前穿GCPD警服造型，跟Jensen在Co
 
 哥谭AU，双警探，单黑化，适合混乱邪恶
 
-### 311.【Cas中心+micifer】Michael+Lucifer has their 1v1 inside Cas
+### 311.【Cas+micifer】Michael+Lucifer has their 1v1 inside Cas
 
 from S11 we already know Cas/Jimmy is a powerful vessel strong enough to host Lucifer, so S5 Lucifer wouldn't have to focus so much on Nick/Sam, he has other options, e.g. starting working on Jimmy/Cas since then
 
@@ -4073,7 +4073,7 @@ They don't celebrate Cas's birthday on September 18th because that's the date De
 
 "My birthday is the day I met you. The day I met you is the day I was born, I started having a real, human life."
 
-### 356.【all】monster in water stain
+### 356.【all/TFW】monster in water stain
 
 (inspired/adapted from 2025-09-06 dream) (a little DW style)
 
@@ -4081,7 +4081,7 @@ case fic
 
 A new type of monster in a house, looks exactly look like a puddle of water stain on the floor, but it can move; the puddle/stain move from floor to wall, to ceiling, in and out, big and small, very obvious it's alive. But no one knows what it is, how to kill it (how to kill some water?), if it's killing/hurting people, what will happen if you touch it, if it can leave the room. people have to discuss it, argue a bit, can't decide.
 
-### 357.【all】curse of "Macbeth"
+### 357.【all/TFW】curse of "Macbeth"
 
 (first heard of from Rich/Rob's SPN Then and Now S03E01)
 
@@ -4675,4 +4675,8 @@ last song after farewell, hold each other on the shoulder, totter to the exit sl
 
 (inspired by The Who farewell tour)
 
-### 396.
+### 396.【drowley】S10E01-03 summer love（R级）
+
+demon!Dean with Crowley, have messy fun together, take photo, wear cowboy hat, Crowley supplies demon for Dean to kill, Dean have a lot of sex with random humans, with Crowley too probably, ignore Sam/Cas's message, a lot of bad singing
+
+### 397.
