@@ -4622,6 +4622,8 @@ Dean & Cas both don't think they deserve to be saved/loved but are loved, but Cr
 
 what's affecting that train of thoughts/feeling of "deserve"? self-loathing/guilt makes them feel undeserved, demon doesn't feel guilty about his own doing so he thinks he deserve to be loved?
 
+（→ prompt 396）
+
 ### 391.【Cas/Jimmy】S04E20 When Jimmy prays, Cas is still being brainwash/surgery by Naomi
 
 Jimmy prays to Cas when Cas is in the middle of brainwash lobotomy by Naomi
@@ -4678,5 +4680,9 @@ last song after farewell, hold each other on the shoulder, totter to the exit sl
 ### 396.【drowley】S10E01-03 summer love（R级）
 
 demon!Dean with Crowley, have messy fun together, take photo, wear cowboy hat, Crowley supplies demon for Dean to kill, Dean have a lot of sex with random humans, with Crowley too probably, ignore Sam/Cas's message, a lot of bad singing
+
+Dean understands demon life more, understand Crowley more
+
+（→ prompt 390）
 
 ### 397.
