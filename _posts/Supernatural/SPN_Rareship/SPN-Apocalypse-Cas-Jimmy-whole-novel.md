@@ -169,7 +169,25 @@ By the time Jimmy looks back down, the tentacles of the Empty already covers hal
 
 ### Claim Summary
 
+Canon divergent/compliant, apocalypse world. The pain and struggle between Apocalypse!Castiel and Jimmy.
+
+Jimmy is still a devout man, but Castiel is different, he's ruthless and inhuman. Jimmy doesn't know that when he said yes, and Castiel continues wearing him in the apocalypse war. Their misalignment causes Jimmy great pain (physically and psychologically).
+
+Castiel does all the bad cruel things, leading army to fight the war, killing demons, angels, and humans, torturing them when need to. Jimmy is painful, trying to regret the consent and fight from inside, wanting to cast Castiel out.
+
+Castiel wins back the control every time, but holds grudge on his disobedience, so he deliberately leaves Jimmy and possesses Claire instead as punishment. Jimmy is captured by other angels, who torture him for fun. He undergoes more pain, and starts missing being possessed by Castiel.
+
+Castiel comes back as Claire and saves him from other angels, because he should be the only one having the right to decide his fate and punishment. Jimmy says yes to Castiel eventually, even though he knows how cruel Castiel is and how painful it will be, but he needs to save Claire.
+
+In the end, they run into the canon!Cas and get killed together. Apocalypse world no longer has Heaven and Hell, so they both end up in the Empty, and get lost and fall into sleep in Empty for eternity.
+
 ### Visual Elements
+
+Apocalypse!Castiel (in Jimmy's vessel) looks at a mirror, and Jimmy looks back, they talk like that. Jimmy is trying to take back control. (Similar to canon Lucifer in Sam's vessel looks at a mirror to talk to Sam when Sam is trying to take back control)
+
+Apocalypse!Castiel (in Claire's vessel) wears ragged clothes, in a room, with Jimmy, who is bloody and wounded.
+
+Apocalypse!Castiel being killed
 
 ## Posting
 
