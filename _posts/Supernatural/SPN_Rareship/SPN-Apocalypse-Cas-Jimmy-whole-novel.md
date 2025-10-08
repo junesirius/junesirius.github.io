@@ -13,11 +13,11 @@ published: false
 
 [TOC]
 
-Pairing: Castiel/Jimmy Novak
+Pairing: Castiel/Jimmy Novak (Apocalypse!Castiel/Apocalypse!Jimmy Novak)
 
-Tags: Canon Divergent, Canon Compliant, Apocalypse World, Angel Possession, Vessel Consent Issues, Hurt No Comfort, Not Happy Ending, Dark, Dead Dove Warning
+Tags: Canon Divergent, Canon Compliant, Apocalypse World, Angel Possession, Vessel Consent Issues, Hurt No Comfort, Not Happy Ending, Dark, Dead Dove Warning, background Jimmy/Amelia Novak
 
-Warning: Graphic Depictions of Violence, Major Character Death
+Warnings: Graphic Depictions of Violence, Major Character Death
 
 Rating: Teen and up (for the darkness)
 
@@ -187,7 +187,7 @@ Apocalypse!Castiel (in Jimmy's vessel) looks at a mirror, and Jimmy looks back, 
 
 Apocalypse!Castiel (in Claire's vessel) wears ragged clothes, in a room, with Jimmy, who is bloody and wounded.
 
-Apocalypse!Castiel being killed
+Apocalypse!Castiel being killed by canon!Cas.
 
 ## Posting
 
@@ -202,6 +202,8 @@ Apocalypse!Castiel being killed
 ### Art
 
 ## Editing Notes
+
+When posting: Posting all acts together in one AO3 chapter; split/separation line between beginning/ending quotes and main story, and between acts
 
 # Main
 
@@ -401,11 +403,11 @@ The demon turns his head, laughing even wilder. "Haven't heard that name in a mi
 
 Jimmy's heart sinks.
 
-Azazel comments behind them, "It's actually three thousand years down here, dear. But I get it, it feels longer when you're enjoying it too much."
+Azazel comments behind them, "It's actually three thousand years down here, dear. But I get it, it feels longer when you're enjoying it too much, am I right?"
 
-Castiel lowers his eyes, thinking.
+Castiel lowers his eyes, considering.
 
-Azazel continues to blatter, "I don't know why Heaven still bothers, he's completely one of us now. The first seal is broken anyway, we get what we want, you get what you want. Bob's your uncle, Fanny's your aunt. Everyone's happy, I deserve my reward. Honestly, it's not easy. You know how many centuries I have to spend teaching him how to pick up a razor?"
+Azazel continues to blatter, "I don't know why Upstairs still bothers, he's completely one of us now. The first seal is broken anyway, we get what we want, you get what you want. Bob's your uncle, Fanny's your aunt. Everyone's happy, I deserve my reward. Honestly, it's not easy. You know how many centuries I have to spend teaching him how to pick up a razor?"
 
 Castiel ignores him and starts walking outside. "He is broken beyond saving now," he convicts, "I will inform the General. Now, where is Lilith?"
 
@@ -423,17 +425,17 @@ Castiel snaps, "He is not here. I am. And no, there's no point. Michael told me 
 
 "But --" Jimmy still tries.
 
-"Jimmy, shut up," the angel cuts him off harshly, and the rage is audible from his voice.
+"Jimmy, shut up!" the angel cuts him off harshly, and the rage is audible from his voice.
 
 Jimmy grimaces. The lines about the divine rage and God's wrath flash through his mind.
 
-At the same time, a sharp pain way worse than those from the wounded limbs rushes his nerves, burning him as if his whole body and soul is being placed on the fire, prickling him as if every inch of his nerve has a long, sharp needle buried underneath. Jimmy curls on the floor and shakes involuntarily, gasping and panting, holding himself tight. But nothing helps. He doesn't even know where it comes from -- whether it's the body that he doesn't have control over, or his mind.
+At the same time, a sharp pain way worse than those from the wounded limbs rushes through his nerves, burning him as if his whole body and soul is being placed on the fire, prickling him as if every inch of his nerve has a long, sharp needle buried underneath. Jimmy curls on the floor and shakes involuntarily, gasping and panting, holding himself tight. But nothing helps. He doesn't even know where it comes from -- whether it's the body that he doesn't have control over, or his mind.
 
-"I told you there will be punishment if you distract me," Castiel's ruthless voice comes through, cold and cruel.
+"I told you there will be punishment if you doesn't listen to me," Castiel's ruthless voice comes through, cold and cruel.
 
 "I'm sorry," Jimmy screams in between the shaking. "I'm sorry!"
 
-Jimmy doesn't really know exactly when the pain eases. He thinks his consciousness must have blacked out. And by the time he comes to, he only feels cold. The smell of sulfur in the room is so thick that he thinks if it is real, he must will get poisoned by the chemical.
+Jimmy doesn't really know exactly when the pain eases. He thinks his consciousness must have blacked out. And by the time he comes to, he only feels cold. The smell of sulfur in the room is so thick that he thinks if it is real, he must will get poisoned by the chemical. It is Hell outside and inside.
 
 The TV screen shows long, endless spiral stairs heading downwards. Castiel is walking down those stairs, led by Azazel. The space is only lit by the shaking torch in Azazel's hand.
 
@@ -443,7 +445,7 @@ The TV screen shows long, endless spiral stairs heading downwards. Castiel is wa
 
 "I'm doing it on Michael's order," Castiel announces grimly.
 
-"Sure, sure, whatever you say," Azazel turns back, leading the way. "But at the end of the day, you'll still be known as the angel that let Lucifer out. I don't know what the humans would think about that, but we demons? We own you a flag."
+"Sure, sure, whatever you say," Azazel turns back, leading the way. "But at the end of the day, you'll still be known as the angel that let Lucifer out. I don't know what the humans would think about that, but we demons? We own you a pennant."
 
 "For God's sake, we don't care what the humans think," Castiel snaps impatiently. "Will you shut up and just lead the way? Or do I have to burn your brain out and open the cage myself? I can do that too. Gladly."
 
@@ -465,7 +467,7 @@ But even Jimmy can hear the reluctance in his voice. Azazel doesn't push.
 
 It almost feels like eternity before they reach the end of the stairs. The dark surrounding feels even darker and more doomful, if it's even possible.
 
-A cubical-looking Cage is hanging in the space, chained with all the thickest and strongest iron chains. A demon stands below it, guarding.
+A cubical Cage is hanging in the space, high over their heads, chained with all the thickest and strongest iron chains. A demon stands below it, guarding.
 
 She turns around when hearing their footsteps echo in the space. A bright smile crawls onto her face.
 
@@ -511,7 +513,7 @@ Jimmy has to loosen his grip to use the hands to cover his ears. "She's just a l
 
 "I can take it back," Jimmy blurts out.
 
-"You don't mean it," Castiel warns dangerously. "Do you forget the pain fighting can give you?"
+"You don't mean it," Castiel warns dangerously. "Do you forget the pain fighting with me can give you?"
 
 Jimmy flinches with reminded muscle memory of the pain.
 
@@ -527,7 +529,7 @@ Light that is a million times brighter than Castiel's or the one that burns Lili
 
 Until eventually, the brightest light that is like supernova explosion blasts from the Cage.
 
-That is when Jimmy closes his eyes, not wanting to see anything anymore. The Devil is out, the Apocalypse started. His hand has killed a girl and left two men rotten in Hell. What else does he need to know?
+That is when Jimmy closes his eyes, not wanting to see anything anymore. The Devil is out; the Apocalypse started; his hand has killed a girl and left two men rotten in Hell. What else does he need to know?
 
 <br>
 
@@ -551,7 +553,15 @@ Effect that Winchesters are never there (= S02E20):
 >
 > Jimmy tries to take back the consent, to cast Castiel out, he fights him in his brain, trying to escape, to rebel, for many times, to relieve the pain. Castiel warns him not to, taking back control every time. And when he fights again, he finally leaves.
 
+
+
 <br>
+
+### draft notes
+
+> Castiel leads the army to war, fight demons and sometimes humans if they're on his way, torture them for information, it's everything against what Jimmy wants. Their consciousness doesn't align, it causes Jimmy's nerve great pain. He begs Castiel to protect his wife and daughter, but Castiel doesn't care about humans, only focusing on the war. (Castiel hurts one of his eyes angelically)
+>
+> Jimmy tries to take back the consent, to cast Castiel out, he fights him in his brain, trying to escape, to rebel, for many times, to relieve the pain. Castiel warns him not to, taking back control every time. And when he fights again, he finally leaves.
 
 ###### [TBC]
 
