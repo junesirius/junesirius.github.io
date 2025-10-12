@@ -4837,4 +4837,96 @@ S08E17 Cas under brainwash killed Dean millions of times, thought/believed he ha
 
 maybe when in crypt, the reason why Cas breaks the brainwash is because this is something he never thought of. Maybe in all of Naomi's versions (enhanced by Cas's imagination), Dean never said "I need you", he might plea for his own life, but never like the way real Dean did, just *let* him kill him.
 
-### 400.
+### 400.【Jack】post-S15 Kelly comes back to support/raise her son (even if he's God)
+
+Jack is still a kid even if he's God, and he needs his mother
+
+so Kelly goes back to teach & raise Jack (from Heaven), like those ancient child-emperor's 垂帘听政的母后 (but the good type), supporting him in his decision of making changes as a God, monitoring his sense of good/evil, giving suggestions, ensuring him not become too extreme
+
+we need one kid in this show that can grow up *with* a mother
+
+### 401.【Crowley/Balthazar/Gabe】post-S13 联手打穿Empty（R级？）
+
+可能出现Crowley/Gabe, Crowley/Balthazar, Bal/Gabe（Bal/Gabe可能之前就有过一些history？）
+
+都是非常playful的性格，都对sex和orgy非常open，都其实非常聪明strategic，都其实很能打但是不想打
+
+假设他们三个的其中一个先醒了（有人向他们pray了？Rowena对Crowley？bunker里某人比如Sam或者Cas对Gabe？），然后找到了另两个，叫醒，一起混乱合作，一些间歇性背刺
+
+直到联手打穿Empty回来
+
+### 402.【Gabe/Bal/Cas】性启蒙（R级）
+
+私设head canon Gabe是把Cas带大的archangel，Bal跟Cas过去关系好又在同一个garrison
+
+Gabe和Bal要给Cas做天使性启蒙，让Cas在场看他俩doi来学习，想让Cas学习了解（可能3p，可能卡脸红过于羞涩纯情所以只是旁观，可能是503之后卡去问了Gabe所以出现的教育时间）
+
+### 403.【Anna/Abaddon】S04 rewrite: 亲吻（R级？）（F/F）
+
+（源自RPS，ins视频Anna亲吻Abaddon，"best friend"）
+
+Anna仍然是有angel radio的人类，S4时间不是Alastair而是Abaddon来找她
+
+作为knight of Hell，Abaddon有些Anna不知道的能力，可能可以隐藏自己真实面孔，所以Anna不知道她是恶魔
+
+就像S4 Ruby/Sam线，Abaddon觉得Anna才是最后能杀死Lilith的那个注定角色，而且自己作为knight也不满意被Lilith使唤，所以接近Anna，获得信任，俩人doi，Abaddon让Anna对恶魔血上瘾，拥有特殊能力（或者对天使血上瘾？Abaddon为她杀天使来供血？）
+
+温双/卡接近Anna，Anna已有的恶魔血跟本身剥离的天使力冲突，需要做出选择自己想要变成angel还是demon：重新吸收天使力可能可以净化恶魔血，也可能杀死她；继续恶魔血可能可以消除曾经的天使痕迹，也可能杀死她
+
+Anna亲吻Abaddon，选择demon
+
+结尾仍然像S4，Lilith被杀，路西解放，天启开始
+
+### 404.【Crowley/Lilith】S05E09 "demon lover"
+
+S05他们接触Crowley之前S05E09 Becky介绍的Crowley身份是Lilith's demon lover，如果这是Chuck写的，那大概是真的，所以S04时期Crowley就是Lilith的lover
+
+Crowley视角重写S04？
+
+S04 Lilith视角是努力打破所有seal然后让Sam最后杀了她，只有Ruby知道这个计划，普通demon都以为的是Lilith会打破last seal
+
+Crowley视角应该不想让Lilith死，不想要Apocalypse，所以一边暗戳戳阻止温双杀Lilith，一边暗中阻止Lilith打破seal。但是Crowley足够聪明，所以可能已经对last seal内容有所怀疑，想要问Lilith但又问不出来。
+
+Crowley什么时候联系到Bella然后拿到Colt以防万一？Crowley拿Colt已经是为了防路西法了，提前开始防身准备
+
+Lilith知道Colt吗？Bella本来准备把Colt给Lilith的，现在给Crowley是Lilith安排的还是Crowley半路截胡对Bella假装是Lilith派他来的？如果Lilith知道Colt，这么重要的东西，大概不会派别人去拿？不然肯定会担心Crowley跳反用Colt杀他，除非足够信任Crowley？（但是demon不可能这么容易信任别人，尤其对方还是Crowley。除非他们的这个lover关系真的非常非常strong，用信任来证明lover了）或者Lilith假装不知道其实知道，但是觉得如果Crowley真的跳反杀她，她反正本来也是为了last seal要死的，所以也不在意了。
+
+（S04 Lilith如果一直是怀着“反正最后也是要死的”的心态，是不是也会有点self-destructive？）
+
+### 405.【Crowley/Ramiel】S12E12 King of Hell Ramiel & his right-hand man Crowley
+
+如果S12E12 Ramiel 在Crowley送来皇冠时候接了King of Hell位置，但是让Crowley代理/辅佐
+
+所以实际仍然是Crowley主管，但名义上的king是Ramiel。又因为这个名义算是Prince of Hell直接继承，有理有据，不容易出现叛逆，所以反而非常方便统治
+
+Crowley偶尔给Ramiel汇报，但是他平时也仍然只是跟剧里一样钓鱼，“who wants all the paperwork”（就像S12E23 Crowley吐槽的一样），给Crowley所有全部统治自由
+
+Crowley/Ramiel的地狱统治/改造日常
+
+### 406.【Ben/Jesse】Jesse发现了Ben被掩埋的记忆，Ben变成hunter
+
+记忆没被抹去只是被掩埋起来了
+
+机缘巧合Lisa和Ben到澳大利亚旅游撞见Jesse，Ben和Jesse相似年龄，互动变成很好的朋友。sth sth happened，Jesse发现了Ben的记忆，或者Ben自己打破记忆想起来了。sth sth可能出现了case fic，可能为了救Lisa，Ben接受Jesse训练，自己也变成hunter了
+
+### 407.【Dean/Lisa】Lisa=Jody 2号，也变成hunter
+
+S06 Dean 最大的矛盾点是不能把Lisa和Ben带进hunter生活，但是如果Lisa和Ben接受了hunter生活，就像Jody她们一样
+
+Lisa接受各种训练，跟Dean他们一起hunt
+
+### 408.【Lisa/Jody】Lisa被Jody引入hunter生活
+
+（inspired by prompt 407）
+
+Lisa搬家到Sioux Falls或者又正好在那附近路过时候遇到case fix，遇到Jody，被Jody介绍进hunter生活，慢慢想起Dean的事，但是被Jody attract，Lisa发现自己是bi。Lisa/Jody一起hunt，救/收容girls
+
+### 409.【Lisa/Charlie】Charlie dig出Lisa过去生活
+
+可能也是case fic，导致Lisa和Charlie见面。Charlie dig出Lisa过去生活痕迹，从dig出的信息拼出Lisa被抹掉的记忆。其实卡抹掉她记忆但是没抹掉所有Dean在房间里等各种地方留下的物理的生活痕迹，所以Lisa本来已经有点怀疑，现在被Charlie解释了才理解。但是那时候Charlie还没见过TFW，两个人没办法联系到TFW，只能自己摸索。
+
+Lisa/Charlie一起靠着摸索慢慢进入hunter生活，变成partner（各种意义上）。
+
+Charlie的性格跟Ben也相处得很好，可以玩到一起，Charlie甚至比Ben还更擅长电子游戏。
+
+### 410.
