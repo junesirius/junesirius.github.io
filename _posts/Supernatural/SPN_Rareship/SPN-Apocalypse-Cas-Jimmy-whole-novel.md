@@ -769,6 +769,8 @@ He's trying it again when Castiel and his army runs into a group of human led by
 >
 > And when Jimmy fights again, Castiel finally leaves.
 
+**Visual NOTE:** When Jimmy tries to fight and take back control, a visual: they look at mirror (similar to S05 canon Lucifer in Sam's vessel looks at a mirror to talk to Sam when Sam is trying to take back control), they talk like that, looking at each other through the mirror
+
 Anna Milton is still a falling angel (does she regain power to be angel again?)
 
 Daniel Singer is taken and tortured (crucified) by angels, Bobby never found his body
@@ -804,6 +806,10 @@ Castiel's blind eye is because Bobby shoots him, when revenging for his son
 > He thinks, maybe the pain will stop once Castiel comes back inside him. He doesn't want Castiel wear his young daughter to the battlefield, but how could he ask, when he knows agony and nightmare will be all that's waiting for him?
 
 <br>
+
+### draft notes
+
+**Visual NOTE**: Castiel in Claire's vessel wears ragged clothes, in the room, with Jimmy, who is bloody and wounded
 
 ## Act 5
 
