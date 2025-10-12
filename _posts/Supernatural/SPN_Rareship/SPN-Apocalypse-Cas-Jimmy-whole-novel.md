@@ -683,11 +683,77 @@ One of the angels asks him, "What about the body?"
 
 Jimmy closes his eyes again, letting himself sink into the darkness behind his eyelids. *This isn't right. Nothing is right. The Apocalypse, angels and demons, all of it. The new world is not going to be created from the Revelation, because none of them even care about humans. Only humans can achieve that. He sees it now. But it might be too late.* He thinks painfully, but the sensational pain on his nerves is so distracting that he can't even think straight.
 
-*Next time when his mind is more clear, when he's not lying on his living room floor, choking on his blood, he'll come up with a plan.* He decides. *He'll go back to his wife and daughter, leaving Castiel behind.*
+*Next time when his mind is more clear, when he's not lying on his living room floor, choking on his blood, he'll come up with a plan.* Jimmy decides. *He'll go back to his wife and daughter, leaving Castiel behind, leaving this part of his life behind. Even if it means literally he'll have to leave his life behind.*
 
 <br>
 
+The pain is still there when he slowly hauls himself up from the carpet. It's still there when he tries to press his forehead on the cool surface of the wall. It's not only a headache, or a broken nose, or a tight chest, it's everywhere. It's like a iron net binding his whole being, burning and grilling. It's like his blood is made of lava, boiling and simmering. And every time he thinks of how much he wants to take back the control, to cast Castiel out, or how wrong everything he witnessed the angel had done, the pain grows stronger, as if there is an invisible meter somewhere built in his head, measuring how disobedient he is to the angel. The farther away his thought is, the stronger the pain is.
 
+Given everything he has seen the ruthless angel has done, it's not like Castiel wouldn't come up with some mechanism like this, just to make him obey quietly.
+
+Jimmy presses the heels of his hands on his eyes, trying vainly to ease some of the pain around there, trying hard to focus on the most important thought he manages to form. *It doesn't matter, Castiel can torture him all he wants,* Jimmy decides, *He's done being the angel's vessel. He just wants to see his wife and daughter again.*
+
+For the first time, he tries the doors in this living room his mind conjured. Just as expected, all those doors leading to the bedrooms and study are completely unmovable. The door knobs do not give, as if they are a part of the wall.
+
+Some of the cabinet doors do open though. And he finds a kitchen knife. Not like he can use the knife against the angel, but at least it's something. Jimmy grabs the knife, and almost like muscle memory, he holds it in the same way he saw Castiel holds the angel blade. He looks down and sees his hand, as if seeing it for the first time, as if seeing through the TV screen. A nauseous push rises in his throat.
+
+Jimmy hastily lowers his hand, keeping it out of his view.
+
+The only door left is the door in and out of the house. The door Castiel barged in last time.
+
+Jimmy approaches it more cautiously than the other doors. It doesn't look too different from the house door in his memory, but if he looks at the edge of the door just in a specific angle, he can almost see a faint glow of light.
+
+He tries the door knob. It turns under his grip, but the door doesn't open. He puts more force onto it, pressing both arms around it, then the weight of his upper body.
+
+"What are you doing?" Castiel's voice comes through the radio.
+
+Jimmy turns sharply and drops the knife. "Nothing," he answers, ignoring the increasing intensity of the pain spreading in his nerve just from the lie.
+
+"You want to escape." Castiel states plainly, unquestionably, all-knowingly.
+
+"No," Jimmy says weakly.
+
+The angel doesn't buy it and answers with a snort. "You should know, you may try but you can never escape."
+
+Jimmy lowers his head, not answering.
+
+He goes back to try the door when the radio goes quiet.
+
+*So what Castiel knows, it doesn't change anything.* Jimmy thinks, as he leans his whole upper body on the door knob, trying to pull it open. The door is as solid and stead as the giant Goliath.
+
+*In fact, not having to worry about being found out has its perks, too. Meaning he doesn't have to worry about the noises he'll make.* The thought pops into Jimmy's head, and he scrutinizes the door again. Maybe if he can't open it the normal, civilized way, he can still manage to break it? It's an imaginary door in his head, after all.
+
+Jimmy finds a crowbar at the fireplace, and starts smashing the door.
+
+It isn't easy, especially with his muscles and nerves prickling all the time like burning needs are poking him, but he doesn't stop. Once, twice, three times... After a while, he finds the rhythm. He yells when his arms are exhausted to raise the crowbar high, and yells again to smash it onto the door.
+
+The door shows a shallow dent on the paint.
+
+Jimmy considers it a small victory, and continues with it.
+
+He practices taking over control of his body, too, whenever he gets a chance. The pain on his nerves grows worse the more he tries, sometimes he finds himself pass out on the floor with a long period of blank memory. It doesn't matter, either.
+
+As long as he can slow the angel down for a blink of an eye, it might give someone else a chance to get away, to self-defense, or better, to strike back.
+
+Castiel is not always the one left standing or winning.
+
+And it gives Jimmy comfort -- even if it means more physical sensation passing through his nerves when the angel's grace is at his weakest.
+
+There was a red-haired girl, once. Thin and slim. Castiel called her Anna, and from his tone, they might know each other before, Jimmy didn't know for sure. She looked like a human to him, but Jimmy didn't know that for sure, either.
+
+And as usual, Castiel was there to kill her, along with his troop of angels. Anna had a small silvery blade of her own, but no way of matching the angels'.
+
+Jimmy wanted to help. He managed to make Castiel slow down for a beat in his attacking strike, and Anna dodged the attack just barely in time and sliced Castiel's forearm. Jimmy felt the burning sensation of the new open wound at the same time Castiel yells in fury. He tried it again.
+
+Anna managed to get away in the end, by finding a second of breathing time to press her palm in the center of a bloody sigil and send Castiel away.
+
+The whole living room was flapped upside-down when the blast happened, with Jimmy being thrown to the ceiling and all walls violently. He thought surely this time the collision would break his body completely, but when the quake stopped, all he could sense was the null throbbing pain that almost already became a background noise that his brain was learning to ignore.
+
+Castiel, on the other hand, lied in the middle of a road in Australia like a roadkill. He have to pant and breathe heavily for many minutes before he could slowly scrape himself off the asphalt.
+
+Jimmy received the worst beaten up right after Castiel gathered his pearls. But he considered it was worth it.
+
+He's trying it again when Castiel and his army runs into a group of human led by a grumpy old man. The messy beard and hood covers most of his face, but those hazel-blue eyes look vaguely familiar. Jimmy digs into his unreliable memory trying to remember where he has seen the man.
 
 
 
@@ -695,13 +761,19 @@ Jimmy closes his eyes again, letting himself sink into the darkness behind his e
 
 ### draft notes
 
-> it's everything against what Jimmy wants. Their consciousness doesn't align, it causes Jimmy's nerve great pain. He begs Castiel to protect his wife and daughter, but Castiel doesn't care about humans, only focusing on the war. (Castiel hurts one of his eyes angelically)
+> The old man is Bobby. Bobby is the one who permanently hurt one of Castiel's eyes in angelic way (using the angel-killing bullet), leaving it a white foggy color forever. Bobby tries to revenge for his son (but he never finds his body). Castiel barely lives during their encounter but manages to escape (leaves many of his troop to die/cover for him).
+
+> What Castiel does (torturing angel/demon/human, uncaring), it's everything against what Jimmy wants. Castiel gets his name/fame of being "Master of interrogation" "Heaven's best torturer" "the professional/the artist" during the process.
 >
-> Jimmy tries to take back the consent, to cast Castiel out, he fights him in his brain, trying to escape, to rebel, for many times, to relieve the pain. Castiel warns him not to, taking back control every time. And when he fights again, he finally leaves.
+> Jimmy fights him in his brain, trying to escape, to rebel, for many times, to relieve the pain. Castiel warns him not to, taking back control every time.
+>
+> And when Jimmy fights again, Castiel finally leaves.
 
-Anna Milton is still a falling angel
+Anna Milton is still a falling angel (does she regain power to be angel again?)
 
-Daniel Singer is taken and tortured (crucified?) by angels, Bobby never found his body
+Daniel Singer is taken and tortured (crucified) by angels, Bobby never found his body
+
+Castiel's blind eye is because Bobby shoots him, when revenging for his son
 
 ###### [TBC]
 
