@@ -550,35 +550,35 @@ The smile on Anakin spreads wide like sunshine shining through a flower field. "
 
 Anakin doesn't move, not until all the rest have left the place.
 
-"You should go, too," Obiwan reminds him. "It's unwise to step your toes on all the lines."
+"You should go, too," Obi-Wan reminds him. "It's unwise to step your toes on all the lines."
 
 Anakin gives him a funny look. "That's the story of my life, you know."
 
-Obiwan grimaces. "In fact, I don't know."
+Obi-Wan grimaces. "In fact, I don't know."
 
 The boy is actually surprised. "Aren't you guys like, 'Big Brother is watching you' type? Knows everything about everyone?"
 
-The rising tip of Obiwan's lips drops. He shakes his head briefly. "I have a feeling there is much misunderstanding."
+The rising tip of Obi-Wan's lips drops. He shakes his head briefly. "I have a feeling there is much misunderstanding."
 
 "And *I*, have a feeling that you have something else you want to say, but not in front of everyone." Anakin observes.
 
-Obiwan makes a sound out of his nose, bordering both impressiveness and annoyance. "How many 'feelings' do you have? Have some more, and you may call yourself a psychic."
+Obi-Wan makes a sound out of his nose, bordering both impressiveness and annoyance. "How many 'feelings' do you have? Have some more, and you may call yourself a psychic."
 
 Anakin shrugs uncaringly. "Mom used to tell me to trust my intuitions, and mine is usually quite good. Now, don't change the subject, what is it that's still bothering you?"
 
-"Oh, let me see where should I start --" Obiwan says sourly. "I do this, we might very likely die before we can do anything. Do you have any idea how powerful the Emperor is, or the whole security and special forces are up there? How impossible it is to keep a secret from them, let alone a whole rebellious force? *And*, Count Dooku has given very explicit instruction, if I fail to seize the person behind those graffiti -- you, he'll come down here himself. By then, there will be no hope of speaking your way out of it."
+"Oh, let me see where should I start --" Obi-Wan says sourly. "I do this, we might very likely die before we can do anything. Do you have any idea how powerful the Emperor is, or the whole security and special forces are up there? How impossible it is to keep a secret from them, let alone a whole rebellious force? *And*, Count Dooku has given very explicit instruction, if I fail to seize the person behind those graffiti -- you, he'll come down here himself. By then, there will be no hope of speaking your way out of it."
 
-Anakin listens carefully, tilting his head slightly in his deep thought. "Do you know how long we still have before Upstairs notices anything?"
+Anakin listens carefully, tilting his head slightly in his deep thought. "Do you know how long we still have before the Upstairs notices anything?"
 
-"Days, maybe weeks. I can't say for sure," Obiwan considers. "Patience is usually not one of their virtues."
+"Days, maybe weeks. I can't say for sure," Obi-Wan considers. "Patience is usually not one of their virtues."
 
 Anakin snorts. "Do they have any, at all? Doing all these to us, taking away our freedom, our voice. You saw that, everyone with a heart would know how wrong that is. Do they even have a heart?"
 
-Obiwan shifts uncomfortably. What Anakin described, isn't that exactly himself before today? Is that saying *he* also didn't grow a heart? Obiwan doesn't know what to answer, but luckily, it seems Anakin isn't waiting for one, either.
+Obi-Wan shifts uncomfortably. What Anakin described, isn't that exactly himself before today? Is that saying *he* also didn't grow a heart? Obi-Wan doesn't know what to answer, but luckily, it seems Anakin isn't waiting for one, either.
 
 "Anyway," the boy wraps, "Good to know. We can still use whatever time we have to prepare."
 
-"For what? What are you going to do?" Obiwan is suddenly tense again.
+"For what? What are you going to do?" Obi-Wan is suddenly tense again.
 
 Anakin gives him a mysterious smile, "You'll see."
 
@@ -594,21 +594,253 @@ after Obi-Wan actually changes his side, the addressing changes to Obi-Wan
 
 > Obi-Wan takes more and more interest in Anakin, learn more about him and his past and ideation (Anakin talk about his childhood and why his interest in art), the two of them talk more, learn about each other more, start join rebellion meetings (start with only listen at outer rim, not speak), start secretly training Anakin properly, teach him use weapons and Force power.
 
+*Maybe that's a bad idea,* Obi-Wan's mind wanders off. Now that he's back in the Upper Level again, sitting in the council room of the Imperial Palace, surrounded by shiny reflective walls and pillars, his mind clears. *God, what has him been thinking lately?* But maybe, maybe Anakin does have a point, instead of being clearer, his mind might just be more clouded when he's up here. It's so bright, with so much refined civility from everyone, he just can't see anything anymore.
 
+"Do you have any findings during your investigation in the Lower Level, Master Kenobi?" Emperor Palpatine directly addresses him suddenly.
+
+Obi-Wan is startled slightly, not expecting to be called out. "Nothing, my Lord," he answers too quickly, having to take a second to calm his breath, and then adding some more notes. "The people who created those art -- I mean, the disrespectful smudges and scrawls -- are very slippery and difficult to keep track of. I'm doing my best, and I will ensure to let Your Majesty know any progress when I have them."
+
+"Maybe I should tend to the matter personally," Count Dooku comments on the side grimly. "Not to suggest your incompetence, Master Kenobi, but perhaps you can use some backup and support."
+
+Obi-Wan answers hastily but carefully. "The proposal is appreciated, Count Dooku, but I believe that should not be necessary. I'm sure there are more urgent and higher priority tasks in the Galaxy that require your attention. I wouldn't think running around in those tiny dirty alleys would be the best use of your time. But I will guarantee to report to this meeting any and all threat to the Empire, as soon as I find any."
+
+"Yes, you will," Count Dooku presses.
+
+Emperor Palpatine pins his gaze on Obi-Wan for a second longer, before shifting to ask about the next pressing issue. While Count Dooku's eyes stay even longer.
+
+Obi-Wan feels as if he's a fly caught by a spider net, or choked and strangled on the throat by the bare stare. His chest has barely enough air for him to breathe and survive the meeting.
+
+He regrets coming in person.
+
+After spending a whole week in the Lower Level, it's Anakin who suggested him go back to the Upstairs, just in case his absence has raised any suspicion. But the lack of progress is equally suspicious. It's unlike him to not able to capture a fugitive for this long, let alone just someone residing within Coruscant. Obi-Wan can't help but wonders how much further he can keep testing Palpatine and Dooku's patience.
+
+They're running out of time.
 
 <br>
 
-###### [TBA]
+Obi-Wan finds Anakin again, at the back alley opposite to the bar. The boy is painting a rainbow wing when Obi-Wan approaches him. He's humming some tune off-keys.
+
+"Are you not going to escape?" Obi-Wan asks on purpose.
+
+Anakin doesn't even bother turning his head. He's appreciating his new work, adding some stroke where it seem missing. "Are you going to arrest me?"
+
+Obi-Wan sighs, "I really should say 'yes'. You never know, one of these days, I might change my answer, or it might not be me coming down here. You should be more careful."
+
+Anakin stops the graffiti, wiping his paint-distained hand on a piece of ragged cloth. "Why, something happened? Does the Emperor suspect anything?"
+
+Obi-Wan shakes his head. "That's the problem. I don't know. I can't tell. But they might be."
+
+That's not anything new to either of them.
+
+Anakin turns back to the painting, and asks him, "What do you think about this one?"
+
+The pair of big colorful wings spread high and proud on the wall, leaving a small space in the middle where a person can just fit in and pretend those wings are their own. It's dreamy and beautiful. More artistic than most of the quick sketches Obi-Wan used to find on the wall.
+
+"It's beautiful," Obi-Wan looks at the wings, thinking, wings means fly, fly means sky. They should belong to sky, where the sun can shine.
+
+Anakin regards it for a minute in comfortable silence right on his side, then steps into the gap between the wings, spreading his arms. "I can fly now," he says with a grin.
+
+The wings look so vivid as if they grow from his shoulder blades behind his back. The kid looks genuinely happy at this moment, Obi-Wan realizes. For some reason, it makes his throat thick and dry. He swallows difficultly around the lump, before managing to answer with a matching tight smile, "Yes, you can. You are."
+
+Except, Anakin maybe have never even seen a real sky -- living in the under world, looking up only to an artificial sky, but he still dreams of such beautiful color and all those ideations. How can he keep doing that?
+
+Obi-Wan wipes his eyes subtly, having to distract himself. "I didn't know the translation of this one though, it's not on your decoding sheet." He nods at the big wall paint, asking.
+
+"Doesn't need to." Anakin turns back to look at it one more time before beginning to pack his scattering painting cans. "Everyone can understand it just by looking at it, don't you think?"
+
+Obi-Wan has to agree. The art can speak for itself, so is the color. The wings can fly, people are dreaming of the sky that they're prohibited to see. The longing of the freedom, the dream and hope, the beautiful wishes, it's all right there. It's more powerful than any word could ever express. It's emotional in a way words can never achieve. It really is the best way of expression they can possibly find -- and the Empire deems it illegal, and he is a part of the forces that help it maintain that facade of peace and normalcy. Obi-Wan smiles bitterly.
+
+All he can do is to take a photo of the art using his personal datapad, just so he can look at it whenever he wants, in case he forgets it.
+
+Obi-Wan finds the boy squinting at his device curiously when he pockets it, but Anakin swiftly pretends he's just finishing up the tidy-up work.
+
+"It's called a datapad," Obi-Wan says.
+
+"I know," Anakin answers quickly, touching the back of his ear, turning to walk toward the street.
+
+Obi-Wan trails him with a step's distance. "Hmm," he makes a mocking sound through his nose, "thought you'd say 'Never seen it before'."
+
+"What do you think I am, a barbarian?" Anakin gives him a humiliated glance.
+
+"And you're not?" Obi-Wan says deliberately, with a small hidden grin under his beard.
+
+Anakin glares at him, "I remember *someone* said once 'there is much misunderstanding' between us." He mimics Obi-Wan's tone perfectly.
+
+Obi-Wan rolls his eyes. "Well, I wouldn't know if you don't tell me everything about yourself."
+
+"Same applies to you," Anakin bites back.
+
+"Looks like it's settled then," Obi-Wan says, with a satisfied smile. "What about I buy you a meal, and let's talk."
+
+Anakin stops his hurried steps to consider, then, "Dex's Diner," he demands.
+
+"Deal," Obi-Wan agrees without hesitation.
+
+"No deal if you're going in with these," Anakin squints at his armor.
+
+Obi-Wan frowns slightly, self-conscious under his eyes for the first time in a long time. He tugs the skirt of his tunic. "What's wrong with my clothes?"
+
+Anakin chuckles. "*What's wrong with your clothes?* You might as well print out the biggest sign saying 'I'm Emperor's Henchman' and stick it on your head. Do you want to get side-eyes wherever you are or what?"
+
+Obi-Wan touches the empirical symbol on his shoulder, the one that usually reminds him of his high rank as general and usually offers a small amount sense of achievement, it now only triggers an uneasiness.
+
+He takes off the brown tunic and the black armor, wrapping them like a bundle.
+
+Anakin hands him a white jacket of his own from his bag, and taking the bundle to stuff everything back in.
+
+"I want that back later," the kid says with a straight face.
+
+Obi-Wan stifles a laugh. "Of course."
+
+The jacket is a little too small for his size, and smells of cheap soap and a lingering smell of paint.
+
+It smells of Anakin. Obi-Wan tries very hard not to think about any of that.
+
+<br>
+
+Dex's Diner isn't at the busiest hour when they go in.
+
+The owner gives Anakin a warm welcome from behind the counter, and looks surprised to see Obi-Wan follow.
+
+Anakin takes the two-seat booth at the far end of the diner, the farthest to the door and any other patrons.
+
+Obi-Wan wonders if it's because the kid doesn't want anyone see them together, or just want their conversation to have some more privacy. He opens his mouth, ready to speak, but Anakin raises one finger, stopping him right on time: "No, food first. I'm starving."
+
+When the droid waitress comes to their table, Anakin orders a whole lot of food that's enough to feed an army: the sliders, sandwich, steak, cheese dog. He passes the menu across the table with a gleeful smile.
+
+Obi-Wan doesn't look at the menu, telling the droid, "I'll just have a cup of Jawa Juice, thanks."
+
+He turns back to find Anakin studies him with interest. "What?"
+
+"You know this place," the kid accuses, as if he's the one being scammed.
+
+Obi-Wan shrugs slightly. "I've been here before, you know."
+
+"I don't know that. And I bet it takes more than one visit to remember or have a favorite drink on the menu of a random diner on a random underground level." Anakin points out.
+
+"Not random," Obi-Wan corrects him. "Just happened to be this exact place. My master used to come here, sometimes he'd take me with, but that's more than ten years ago now. Didn't they advertise to be the best diner in the underworld?"
+
+Anakin grins. "They did! It used to be 'the best diner in the Coco Town', and now it's 'the best diner in the underworld'. I've always wanted to try here."
+
+Obi-Wan almost blurts out "Why didn't you," but manages to stops himself at the last second. Looking at the kid's humble dressing and slim figure, he thinks he knows the answer already.
+
+He glances at the diner's interior for a second, to cover the unnatural silence. It looks almost exactly the same as he remembers, only a decade older.
+
+The droid FLO brings their drinks and the appetizer just in time.
+
+Obi-Wan takes a swig at the drink. It also tastes the same as he remembers.
+
+"So, you have a master," Anakin says carefully when he puts down the cup.
+
+"Qui-Gon Jinn," Obi-Wan tells him quietly, suddenly realizing it might also be the first time in a long time that he mentioned to anyone anything from before all the craziness of the Galactic Empire started. And somehow, in front of Anakin, it feels easy to tell without feeling his chest too tight or his breath too difficult. "I lost him fourteen years ago."
+
+"Same year my mom died," Anakin says. His Adam's Apple bobs up and down.
+
+"I'm sorry," Obi-Wan says, and Anakin shakes his head slightly to dismiss it.
+
+"It's been a long time now," the boy stares at an oily spot on the table, blinking slowly. "I don't think about that often."
+
+"How old were you?"
+
+"Nine."
+
+"Oh God," Obi-Wan breathes out.
+
+Anakin tries to smile a little but fails. "Must be why I can't really remember much."
+
+*Might be a good thing.* Obi-Wan thinks distantly. At least he doesn't have to relive those horrible moments. He wonders if it's a terrible idea to ask "how," but the kid already starts talking regardless.
+
+"Actually I can't remember most of the things before fifteen, but Kitster -- my best friend, we sort of grew up together -- he's the one that keeps a diary and has a good memory. I wouldn't know where I came from without him -- but it doesn't really matter now." Anakin drinks the juice again, finishing the cup in two gulps.
+
+The sandwich is served with a side of fries, grease oozing through the paper napkin onto the plate. He grabs the wrap and starts biting.
+
+"You're not born here?" Curiosity leads Obi-Wan throw out questions. He just wants to know more about this boy. One part of his brain is saying he's doing this just as a part of the investigation, he needs to know the basic information of his suspect one way or another; the other part... is making some very confusing disturbance that makes his stomach twitch and he tries to ignore it.
+
+Anakin shakes his head with his mouth full. He answers after he swallows the bite: "Kitster said we were both born somewhere far away that even his mom didn't remember where, then when we were three, he and his mom, and me and my mom, were all sold to an underground black market art smuggler here in Coruscant, through a slave auction. Hutts on Tatooine were a really close bidder, but ended up not wanting to pay any more for us.
+
+"I remember vaguely the house my mom and I used to serve had so many secret storage rooms with paintings and arts. We'd spend hours cleaning everything up and hiding them inside something else, so the master can smuggle them. People would come to the place, too. I didn't really have much to do, so mom encouraged me to pick up strokes and paints, just start painting on the wall of our hut. It distracted me from everything else, the work and everything."
+
+"What happened when you were nine?" Obi-Wan takes another sip on the drink, and realizes it's empty already. He puts the cup down, eyes not leaving the boy.
+
+"The smuggler died in some art dealer auction, I don't know. Kitster said there was some fight or fire, because some bidder wasn't too happy. Then someone was coming to burn our house, too. Mom took me and we just ran away. It must be too much chaos at that time, so no one ever came after us. We hid in the dumpsters and all those deserted houses, and soon after, my mom passed away."
+
+"How?"
+
+Anakin frowns hard at his food, his fingers holding the buns too tight that the ingredient and sauces getting squeezed out from the other side and dripping to the plate, but he doesn't seem to care. "I don't know. Cold, hot, sick, starve, poor. Do you really need a reason to die in places like this?" He looks up at Obi-Wan, his eyes dark and miserable. Pain.
+
+Obi-Wan reaches out intuitively to land a hand on his shoulder, squeezing slightly. Without himself knowing why he's doing this.
+
+"I'm sorry," he says. It sounds so powerless and pale.
+
+Obi-Wan tastes nothing but bitterness on tip of his tongue.
+
+Anakin shakes his head again, wiping the corner of his eyes with the back of his hand, covering the motion with a bite on the food, chewing it carelessly. Obi-Wan lets his hand slip.
+
+He should have ordered something a little stronger, for a conversation like this.
+
+"Who raise you up then?" Obi-Wan can't help ask.
+
+"Me." Anakin answers with a mouthful, then explaining it longer after swallowing the food down. "There were a few others like us. I ran with Kitster, then there was also Wald and Amee. Kitster is the oldest, two years older than me, Wald and Amee are younger. A few others joined later. So we were like the parent of ourselves, stealing food, picking pockets, scamming, begging, picking dumpsters, getting into trouble, going in and out of jail. Honestly, I have no idea how we managed to survive for so long."
+
+Obi-Wan swallows hard. This is nothing like what he expected -- but he also has no idea what he *should* expect, about a life in the underworld. He knows no one from around here, after all. He hates himself for not knowing any of it any earlier, and that no one on the Upper Level seems to ever care -- not even when they were still in the Old Republic, not even when he was studying in the Jedi Academy.
+
+"I'm sorry," he says again. He seems to use those three words quite a lot tonight. And every time, it's as pale as it already is.
+
+Anakin almost looks amused at his words. "What are *you* sorry for? It's not like you made any of that happen."
+
+Obi-Wan gives him a guilty look. "I didn't know."
+
+"But you know what's the best that life taught me?" Anakin says. Obi-Wan answers with raised eyebrows, waiting for him to continue. "Freedom. With everything we *don't* have, freedom is one thing we have too much. We can always go wherever we want, do whatever we want. Believe it or not, I still get to paint. If I can't find paper, I paint on the wall. If no painting cans, well, there's always something you can find to mix and make some color yourself. That's one thing comforted me and make me think of mom. It's only later we find out what else we can do with the graffiti."
+
+Obi-Wan looks at the boy, the artist, the rebel leader, the orphan who raised himself up. Words roll out of his tongue without permission: "You're amazing."
+
+Anakin has an odd look on his face. "Are you... are you flirting? D... Don't."
+
+"No, sorry, I mean," Obi-Wan stutters hastily. "I mean it, in a not weird way."
+
+Anakin laughs. "I'm kidding. Thanks, man. Now, your turn."
+
+He finishes the sandwich, cleaning his fingers on the greasy wrapping paper, and starts picking the fries.
+
+"My turn?" Obi-Wan blinks blankly.
+
+"It's story-sharing time, is it not?" Anakin says in a granted tone. "So, what's your story? Born in the palace, wear gold-thread dresses, served by twelve servants to eat your breakfast? Something like that?"
+
+Obi-Wan bursts out a laughter. "That's how you imagined my life to be?"
+
+Anakin shrugs humorlessly, but one side of his lips has a slight curve. "No, that's the fairy tale that I stopped believing since three. But still, you're a myth, Obi-Wan Kenobi. You come out of nowhere, you want to catch me, then you don't want to catch me. You work for the Empire, but then you're not *really* working for the Empire. I told you I have a really good intuition, and it's telling me you're one of the good guys. So I gave you a chance, now I just need to know, who are you?"
+
+Obi-Wan thinks carefully for a minute before starting. And he tells the boy: "I was brought to the Jedi Temple at three, became a padawan at thirteen, a knight at twenty-five, the same time when my master died. That was to save the Queen of Naboo, and our ship was hit and crash-landed on Tatooine, but we had no way of getting a hyperdrive to fix it. We stuck there for three days, and a Sith Lord caught up with us. We fought, he killed my master, and I killed him. We managed to leave in his ship. That's the same year Emperor Palpatine was elected the chancellor. Then we went into the war, and I fought and became a general at that time. And you know the rest, three years later, we won the war, but all we got was the Empire."
+
+He pauses to catch his breath. He never expects to tell someone his life story like that, and he certainly never think it's actually not even that long to tell. He waits, feeling a scratchy sensation under his chest, unsure of what Anakin would make of it. He might be less nervous when he's waiting for the announcement result of his Jedi tests.
+
+Obi-Wan really wishes he has ordered something, or just anything, to distract himself.
+
+Anakin dips a fry in some brown sauce and just keeps in that posture, forgetting to eat.
+
+"Cool," Anakin says finally. Simply. One word, one syllable.
+
+He picks the damp fry up and eats it.
+
+Obi-Wan narrows his eyes, not knowing where that annoyance rises from: "That's it? Cool?"
+
+Anakin blinks innocently. "I'm not going to give you the satisfaction of hearing 'It's freaking awesome and I want to learn all the sword fighting stuff', if you're waiting for it."
+
+Obi-Wan huffs out a laugh, his tensed muscle relaxes. "I should know. But listen, would it go from 'Cool' to 'Super cool', if I start teaching you 'all the sword fighting stuff'?" He raises an expecting eyebrow.
+
+Anakin completely forgets about his free food. "You would do that?"
+
+Obi-Wan shrugs as an answer.
+
+Light of excitement gleams in Anakin's eyes.
+
+"You can get 'Super freaking cool', if you do that," he grins.
+
+<br>
 
 #### draft notes
 
-> start with only small help/subtle sign of slipping to their side, e.g. a few times when chasing around he actually already run into Anakin/could have arrested him but deliberately pretend as if missed. slow(/steep?) slip, every decision point actually all chooses Anakin, very clear starting to change side
-
-Obi-Wan shows him Force can heal
-
 Anakin's childhood flashback and Obi-Wan's flashback of losing Qui-Gon:
-
-timeline:
 
 Anakin at 3y: he and Shmi were not sold to the Hutts and Watto in Tatooine during slave trade, instead, they were sold to an underground black market art smuggler in Coruscant. Ani started learning/having interest in art by watching/witnessing/helping out those art transactions, Shmi encouraged him to learn painting, it distracted him from slave life.
 
@@ -634,7 +866,19 @@ current: 18 BBY (1y after Empire is announced, 4y after beginning of Clone Wars)
 
 <br>
 
+###### [TBA]
+
 #### draft notes
+
+> Obi-Wan takes more and more interest in Anakin, learn more about him and his past and ideation (Anakin talk about his childhood and why his interest in art), the two of them talk more, learn about each other more, start join rebellion meetings (start with only listen at outer rim, not speak), start secretly training Anakin properly, teach him use weapons and Force power.
+>
+> The two become popular among the group, come up with actual real attacking plans, Obi-Wan give them useful suggestion to actually do some real rebel fight against Empire's controlled troops/facilities (use graffiti as cover/breach/signal) and win, slowly turn to new leaders people willing to follow.
+>
+> Obi-Wan meanwhile acts as their double agent in Jedi and near Palpatine. They planned to wait until Anakin is ready to make the final move on Palpatine, but Obi-Wan is already suspected by Palpatine
+
+Obi-Wan shows him Force can heal
+
+Anakin tells next meeting location, next plan, etc.; after that, train Anakin about Force for the first time, introduce him to the world
 
 ### Chap 7 (Revolution)
 
