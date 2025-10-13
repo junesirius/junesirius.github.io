@@ -12,7 +12,7 @@ published: false
 
 Tags: canon divergent, canon world, AU, slow burn, get together, choose each other every time, rebellion, artist for liberation, fight for freedom, rebel against empire, enemy to friend, hopeful ending
 
-Warning: Graphic depictions of violence
+Warning: Graphic depictions of violence (?)
 
 Rating: General
 
@@ -1060,13 +1060,129 @@ When Anakin meets his eyes again, the look in those eyes are strange to him. Cur
 
 "So?" Obi-Wan waits for a long moment before he has to pick up the conversation again. "How do you feel? What did you find?"
 
-Anakin puts his hand back down his side. He swallows. "You didn't lie to me," he says, in a tone that sounds like he's trying really hard to put himself together. "And you didn't try to make me like one of you. You only really just to teach me, how to master it, to be a better me, I guess."
+Anakin puts his hand back down his side. He swallows. "You didn't lie to me," he says, in a tone that sounds like he's trying really hard to put himself together. "And you didn't try to make me like one of you. You only really just wish to teach me, how to master it, to be a better me, I guess."
 
 Obi-Wan smiles faintly. "If you let me."
 
 "Okay, then." Anakin nods quietly.
 
 <br>
+
+When people start coming in, they are right in the middle of a round of sword fighting and training.
+
+Obi-Wan taught him how to properly hold the stick -- of course they'll start with stick -- how to adjust his stance for both attacking and defending, how to move to dodge, how to duck, how to attack. Anakin is absolutely the fastest learner he's ever seen.
+
+And right now, they're going through a mock match.
+
+"Don't hold back when you try to hit me," Anakin has said.
+
+"Are you sure?" Even with his talent and his level of Force, there is he can beat Obi-Wan after two-hour of training, is he? Obi-Wan sincerely considers if it counts as child-abuse -- okay, he's already a grown man age, but he's still like a kid in his eyes.
+
+But he can see the boy is determined. "Don't regret it," he warns him, and then the fight starts getting brutal.
+
+Anakin is nimble and creative; he moves fast and unconventionally; there is practically no way of predicting where his next blow is. Even Obi-Wan has to pull up all his attention to make his defense impermeable. He manages to keep the blow and attacks at six-inch's range. Whatever Anakin tries, he can't even get any closer to him. The boy is visibly getting impatient, and his moves are reckless and careless.
+
+"You'll lose if you keep doing that." Obi-Wan finds a gap in his move and swings the wooden stick at him. It hits the boy at the waist.
+
+"This is how you got cut in half," Obi-Wan comments, retracting his stick, dancing around to enlarge their distance, giving both of them a moment to breathe.
+
+"Is this how you kill that Sith Lord?" Anakin stares at him with wolf-like eyes. He looks like a predator locking his eyes on his prey. His eyes are sharp and almost murderous. The bare sharpness and coldness in them make Obi-Wan shiver in uneasiness. It's the brutal dark side that he hasn't seen, or he'd noticed but rather not seeing.
+
+"It is," Obi-Wan answers plainly. A sharp blow of wind comes straight to his face at the split second of his distraction because of the conversation. Obi-Wan has to jump back in a large startled jump to prevent that stick from striking through his skull.
+
+He doesn't land in the most elegant stance.
+
+"Are you trying to kill me, Anakin?" Obi-Wan snaps, steadying himself.
+
+"I thought you're more difficult to kill," Anakin answers, grinning with teeth.
+
+Obi-Wan rolls his eyes. "Why do I have the feeling you'll be the death of me?"
+
+Anakin swipes his stick again toward Obi-Wan from the side, "Are you going to talk me to lost or actually try to hit me?"
+
+This time, Obi-Wan is prepared, knowing full well the conversation is becoming part of the distraction strategy, he blocks it before it even reaches his arm's range.
+
+"You can't use the same trick twice, it would look old," Obi-Wan comments. "They'll see it coming."
+
+"Or maybe they'll *think* they can see it coming --" Anakin pauses at half-sentence, circling to his back.
+
+Obi-Wan waits for the rest of the sentence to come, but instead, it's a fist that falls on his back. He staggers forward for a step. The crowd cheers.
+
+"That's cheating!" Obi-Wan complains loudly, turning sharply and poking the stick forward at the same time.
+
+Expecting it to land nowhere but instead, it stabs right onto a body, the counterforce even surprises Obi-Wan. He hears a loud gasp before realizing what must have happened. He lets go of the stick immediately.
+
+Anakin covers his shoulder with one hand where the stick sank in, blood dripping between his fingers.
+
+"Oh God," one of the surrounding people gasps again. More rush toward him to help his swaying feet to stand still.
+
+"No, no, no, I'm sorry!" Obi-Wan hurriedly moves toward him.
+
+Someone blocks him with spread arms, snapping at his face. "I think you've done enough! What are you still here for?!"
+
+"Kitster," Anakin's voice passes through the crowd tiredly. "Take it easy. He doesn't mean it. I told him to hit me with everything."
+
+Kitster glares at Obi-Wan menacingly one more moment before stepping aside.
+
+Anakin has sit down now, and the people around him is trying to figure out how deep the stick has pierced through his shoulder, and how bad the damage is. He looks up and tries to pull a tired smile when Obi-Wan gets to him. More sweat gather on his forehead as he tries to grit his teeth at the pain.
+
+"I can fix it," Obi-Wan offers. The crowd stares at him disbelievingly. "Remember I told you the Force can heal, too? It's also true. But fair warning, I'm not the best in my healing class."
+
+Anakin nods small, teeth clenched too tight to speak. He slowly removes his bloody hand on the wound.
+
+The stick is just a random thing they improvised to find in the place. The end that stabbed into him is surprising sharp, but on the brighter side, the tearing wound is small.
+
+Obi-Wan keeps one hand on his shoulder, another on the sticking-out part. "On the count of three," he tells him. Anakin nods again.
+
+"One --" he pulls the stick out already, quickly covering the opening wound with his hand, and closes his eyes to focus on the Force. It's not easy. With everything that just happened, with the warm, wet, sticky blood under his hand, with the rusty iron smell in the air, and the knowledge and pressure that if he can't do this, Anakin might be hurt really bad, it's almost impossible to concentrate on the Force around him.
+
+That's when he feels a hand around his wrist, and a whisper saying his name: "I believe you, Obi-Wan."
+
+His own heartbeat steadies at the voice. He channels the Force around them onto the wounded structure. *The Force is every living cell, every life, everywhere.* He reminds himself, willing his mind's eyes to see the cells that were broken, and see the Force flowing in and out of them.
+
+He guides the Force through them and fixes them.
+
+When Obi-Wan opens his eyes again, the skin under his palm has knitted together like new.
+
+Anakin exercises that side of his shoulder, swinging it like nothing has happened. "Wow," he says, admiring tone, "you need to teach me that too."
+
+"I'm trying to not have to use it too much," Obi-Wan says with a bitter smile.
+
+"But I bet you wanted to do that since the first day we met, didn't you?" Anakin says deliberately. "That's revenge, I'm sure of it."
+
+"Didn't you just try to do exactly that too?" Obi-Wan wrings a hand to his back, rubbing the place where Anakin's fist has landed heavily on. He's sure there will be a bruise sooner or later.
+
+"Call it even then," Anakin says cheerfully, pulling himself up from the chair, walking toward the front of the crowd.
+
+They still have a full, long, routine meeting to have, to discuss all the issues people are having and needing help with, and most importantly, to have a "Plan." Obi-Wan just listens quietly at the outer rim of the crowd.
+
+"We have information that we must act quickly and strike hard; time is running out." Anakin paces slightly at the front of the room.
+
+"Where is the information from? Is it reliable?" Kitster raises his hand.
+
+"Yes," Anakin answers, casting a look at the end of the crowd, meeting Obi-Wan's eyes. "I trust him. And if you trust me, you'll trust him, too."
+
+Kitster slowly puts his hand down.
+
+"We also can't afford to try small to build up as we initially planned. We *must* strike the main target on the first go, and we *must* get what we want," Anakin says in a determined tone.
+
+Obi-Wan wonders what exactly that "main target" and "what they want" are.
+
+"Luckily, we have all the inside information we'll ever need." Anakin raises his voice.
+
+Obi-Wan realizes all the eyes are landed on him now. He walks toward Anakin through the empty passageway they vacate out for him.
+
+"Now, tell us all the ways in and out of the Imperial Palace, and where we can find the Emperor?"
+
+<br>
+
+Anakin stares into his eyes, demanding.
+
+Obi-Wan glares back at him. "This is madness!" he exclaims, taking a large step back, putting an extra foot's distance between him and the reckless boy. "So what, you're just going to march into the Palace and go straight to see the Emperor? Forget about how *impossible* this is, how is that even going to help with anything?"
+
+"We'll negotiate with him," Anakin answers calmly.
+
+"Negotiate." Obi-Wan parrots, huffing a loud laugh. He rubs his temple exhausted. "Do you have any idea how idiotically innocent and political ignorant that is? He's the Emperor! For someone like him, he's not going to *negotiate* with you if you don't have any bargaining chip. What do you have? Tell me, what do we have?"
 
 
 
@@ -1076,17 +1192,13 @@ Obi-Wan smiles faintly. "If you let me."
 
 ###### [TBA]
 
+"aggressive negotiation"; go through quickly the necessary information, will be used for later in rescue mission
+
 #### draft notes
 
-> Obi-Wan start join rebellion meetings (start with only listen at outer rim, not speak), start secretly training Anakin properly, teach him use weapons and Force power.
->
 > The two become popular among the group, come up with actual real attacking plans, Obi-Wan give them useful suggestion to actually do some real rebel fight against Empire's controlled troops/facilities (use graffiti as cover/breach/signal) and win, slowly turn to new leaders people willing to follow.
 >
 > Obi-Wan meanwhile acts as their double agent in Jedi and near Palpatine. They planned to wait until Anakin is ready to make the final move on Palpatine, but Obi-Wan is already suspected by Palpatine
-
-Obi-Wan shows him Force can heal
-
-Anakin tells next meeting location, next plan, etc.; after that, train Anakin about Force for the first time, introduce him to the world
 
 ### Chap 7 (Revolution)
 
@@ -1114,7 +1226,7 @@ Anakin tells next meeting location, next plan, etc.; after that, train Anakin ab
 
 ### Chap 9 (Success)
 
-> The two back-to-back fight together, Anakin is forced to use left hand fighting, non-dominant hand but the move become unexpected, successfully kills Palpatine, they liberate the city, announce empire falls by drawing a huge blue graffiti on wall saying "Free". people want them be new leaders, they suggest building new Republic but need more help, sending out invite to hidden Jedi/senators in all plantes, inviting more wise people to reestablish democracy (e.g. look for Yoda, etc.). There are more work need to be done to build the new order, but good thing that they have each other.
+> The two back-to-back fight together, Anakin is forced to use left hand fighting, non-dominant hand but the move become unexpected, successfully kills Palpatine, they liberate the city, announce empire falls by drawing a huge blue graffiti on wall saying "Free". people want them be new leaders, they suggest building new Republic but need more help, sending out invite to hidden Jedi/senators in all plantes, inviting more wise people to reestablish democracy (e.g. look for Yoda, etc.). There are more work need to be done to build the new order, but good thing that they have each other. It's a new beginning for the whole galaxy and for the two of them.
 
 
 
