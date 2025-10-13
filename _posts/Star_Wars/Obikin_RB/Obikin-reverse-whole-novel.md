@@ -106,7 +106,7 @@ He is a Jedi that serves this galaxy, be it republic or empire, his duty remains
 
 He still turns away from the window when the speech begins. Light shifts outside his window, casting colorful shadows on the opposite wall. He stands in the dark, listening, with his eyes trained on the wall.
 
-The announcement is almost expectable every day -- start with a warm and kind greeting from Emperor Palpatine, talking about how valuable peace and quietness in the city and the galaxy is, after the four-year-long Clone Wars, and the necessity of the Order 66 of removing the traitors to ensure the remaining Jedi are all loyal and serving. The galaxy is not yet in a stable state; there are still rebellions and separatists that are wishing to see the empire breaking apart, see people's lives suffer in wars. And Coruscant as the capitol is undoubtably their first target. That is why the strict martial order is still necessary in the city, the curfew is at eight, any violation to the order will be arrested, any expression that endangers the safety of the empire will be arrested. If, upon investigation, such violation are vindicated guilty, the involved personnel will be executed. Everything is for the safety of the empire and all the lawful citizens living under the empire's protection. Ending with "Enjoy a good night. Long live the Galactic Empire."
+The announcement is almost expectable every day -- start with a warm and kind greeting from Emperor Palpatine, talking about how valuable peace and quietness in the city and the galaxy is, after the three-year-long Clone Wars, and the necessity of the Order 66 of removing the traitors to ensure the remaining Jedi are all loyal and serving. The galaxy is not yet in a stable state; there are still rebellions and separatists that are wishing to see the empire breaking apart, see people's lives suffer in wars. And Coruscant as the capitol is undoubtably their first target. That is why the strict martial order is still necessary in the city, the curfew is at eight, any violation to the order will be arrested, any expression that endangers the safety of the empire will be arrested. If, upon investigation, such violation are vindicated guilty, the involved personnel will be executed. Everything is for the safety of the empire and all the lawful citizens living under the empire's protection. Ending with "Enjoy a good night. Long live the Galactic Empire."
 
 The streets are quiet outside. Empty, ghostly quiet. The curfew officially starts at eight, but after a year, people already know well enough to stay inside after the sun down -- Jedi patrol would already start when the speech begins, ensuring no one interfering or jeopardizing the public safety, from Upper Level to Lower Level of the city.
 
@@ -430,13 +430,15 @@ He doesn't realize since when has he started clenching his fist or biting on his
 
 Obi-Wan stares at the boy -- a young man actually, he looks more like a leader now, standing before the group, soothing them with soft voice, giving them instructions of how to fix some of the difficulties -- how to fix a tool that's broken, who to ask for medical advices, what to do to release a pain, what they're short of and where they might find, and many more. Anakin is still in his art-smudged hooded jacket, but the whole vibe radiating from him seems so different -- less of a dreamy naughty artist, but a responsible leader that actually cares about people, helps people. Except, undoubtedly, evidently, he *is* a rebellion force now, from the Empire's perspective, gathering secret assemblies, encouraging the complaints toward the Empire, disassembling the hard-earned peace the Empire is trying to maintain. There is no defense for that.
 
-Obi-Wan takes a candid photo from his hidden position, bites his lips, and goes back to continue staring at the scene. *Does he really have to take him in? But he doesn't seem to have a choice, does he? The order is quiet clear, so is the consequence.* He remembers Count Dooku's figure, swaying before his eyes like a shadow, with a quiet but menacing tone: "If you fail, *I* will go to the Lower Level myself. Do you understand?"
+Obi-Wan takes a candid photo from his hidden position, bites his lips, and goes back to continue staring at the scene. *Does he really have to take him in? But he doesn't seem to have a choice, does he? The order is quiet clear, so is the consequence.*
+
+He remembers Count Dooku's figure, swaying before his eyes like a shadow, with a quiet but menacing tone: "If you fail, *I* will go to the Lower Level myself. Do you understand?"
 
 His hands are clenched into fists with white knuckles again.
 
 He's so focused in his thoughts now he almost doesn't realize since when the conversation and the assembly has stopped. People's talking voice die down like waning sea waves, but they're oddly not leaving yet.
 
-Obi-Wan wonders what their next move is going to be, when the young voice echoes in the space, loud and clear: "How long are you planning on staying there, Jedi Master Kenobi?"
+Obi-Wan wonders what their next move is going to be, when the young voice echoes in the space, loud and clear: "How long are you planning on hiding there, Jedi Master Kenobi?"
 
 <br>
 
@@ -452,37 +454,175 @@ Anakin join/form/lead secret rebel force, starting with childhood friends (e.g. 
 >
 > Obi-Wan's decision point, has to choose a side. He chooses them, is let go. start with only small help/subtle sign of slipping to their side, e.g. a few times when chasing around he actually already run into Anakin/could have arrested him but deliberately pretend as if missed. slow(/steep?) slip, every decision point actually all chooses Anakin, very clear starting to change side
 
+The voice snaps Obi-Wan out of his thought. A flashlight flares at the corner he's hiding, blinding him for a temporary second.
 
+Obi-Wan has no option but to comes out of the high maintenance platform, being in the center of the light and people's gaze. Now he knows full aware of the expression: "Like a deer in the spotlight." But he's not intimated by those people, he tells himself. Certainly not by this young man.
 
+The crowd is quiet, so is their leader.
 
+Obi-Wan approaches them carefully, just in case any sudden move from either side would turn this potentially, seemingly peaceful gathering into something far worse.
 
-###### TBA
+He stops two steps away from Anakin. The boy turns off his flashlight, regarding him seriously, meeting his eyes.
+
+The silence increases the room temperature rapidly.
+
+Obi-Wan has to clear his throat to break the awkwardness. "So you know I'm here," he blurts out, immediately feeling like a fool to note the obvious.
+
+Anakin huffs a short laugh. "I thought you lost my invitation."
+
+"Invitation?" Obi-Wan raises his eyebrows incredulously.
+
+Anakin chuckles briefly. "How else could you find out we're going to meet here?"
+
+Obi-Wan tilts his head slightly, "Those torn paper --"
+
+Anakin raises one side of his eyebrows, suggestive, waiting.
+
+Realization hits Obi-Wan. "Oh, Jesus, did you leave there on purpose? Is it a trap?"
+
+Anakin proper laughs. "Bingo."
+
+"Why?" Obi-Wan stares at him.
+
+Anakin just shrugs. "You're looking for us, aren't you? Now you find us, what do you think?"
+
+The look on his face is so difficult to read. Obi-Wan tries to find a hint of mischief or malevolence there, but he finds neither. The boy keeps his face straight, but his eyes, there is something deep and swirling in his eyes. Waiting.
+
+*He's nervous.* Obi-Wan realizes. So are all the people in the room. He can barely hear anyone breathing.
+
+Obi-Wan swallows, and shifts his gaze to the side. He starts slowly and carefully, "This is an unlawful gathering, and you know it. The Empire has long forbidden any type of underground meeting, with rebellious potentials."
+
+The people around them start murmuring earnestly. Obi-Wan isn't paying full attention to their words, but he can already tell the tone isn't the most friendly.
+
+Anakin holds out a hand to them, and the whisper quiets.
+
+Obi-Wan glances at him again, and finds his gaze never sway. He feels himself unable to move or hide in those eyes. He finds himself *seen*, for the first time in a long time.
+
+"Not just potential," Anakin challenges him. "You may call us a full-on rebel force. What are you going to do?"
+
+Another quiet round of gasps around them.
+
+The nervousness deepens into a dark undercurrent in his eyes. His voice may sound calm and confident, but his gaze says otherwise.
+
+Obi-Wan doesn't know if his own eyes look exactly like that. He swallows again. "I can arrest you," he tries his best to speak in a business tone, nonchalant and robotic, like he's in auto-pilot mode, but his heart pounds loudly against his eardrums. He gives the crowd a quick look-around. "I can arrest all of you."
+
+"I told you it's a bad idea, Ani!" Another young boy's voice shouts out angrily from his left.
+
+"Not so quick, Kitster," Anakin answers him without looking. "Maybe he's not like them."
+
+"Maybe I'm exactly like them," Obi-Wan retorts.
+
+Anakin narrows his eyes, "Are you? Then why are you still standing here, instead of, I don't know, kill me or something? You do know if you arrest us, the only ending for any of us is death, right?"
+
+Obi-Wan averts his gaze. "Maybe I heard some of you talking, maybe I'm generous enough to spare you this time, but don't mistake it for weak or pardoning from the Empire. If there is anyone else from the Empire knows about this, about you, then you're doomed. All of you are."
+
+"But not you." A small grin sprouts at the tip of Anakin's lips. "I know you're different."
+
+"Don't be so optimistic," Obi-Wan says grimly, feeling the wrench at his stomach twist even worse than before. "I'm trained with a code and a doctrine for my life, and my only order is for the people and the Empire to be safe, to keep peace. The moment you do anything endangering this peace --"
+
+"I will," Anakin cuts him off, daring him again. "I'm telling you, Kenobi, there will be a day the people will rise against the Empire -- actually, it's the Empire that's against the people now." He takes a large step closer to Obi-Wan. The distance between them is less than a foot now. And he is a few inches taller than the Jedi master. "Then which side are you in, Jedi? Us, or them?"
+
+Obi-Wan shifts uncomfortably. "Don't make me do this, Anakin," he says in a low voice.
+
+"Join us," Anakin ignores his quiet uneasiness, flame of enthusiasm burning in his eyes. "Join us to free the people, fight against the unfairness, the Emperor, gives people the freedom back."
+
+"Or what?" Obi-Wan takes a step back, distancing himself from the boy, shooting a quick glance at the surrounding again. Some people are fidgeting, hiding their hands behind their back, in a way as if they're gripping at something. Weapons, perhaps? Obi-Wan speculates. "Are you trying to imprison me or something?"
+
+Anakin shakes his head with a small hint of frustration. "I wouldn't dare. In fact, I was just thinking if I fail on this bet, then that's the end of this, of me anyway. You may take me in all you want, and I'll just... get killed by the Empire or something."
+
+Obi-Wan widens his eyes, once again thrown off-balance by the boy's boldness and straightforwardness. "You're betting your life on me?"
+
+"Yes," Anakin answers without hesitation, and without blinking. Obi-Wan's heart skips a beat at the answer. The boy continues, "I'm trusting my feelings, and my feelings tell me you're worth trying. Don't prove me wrong, Kenobi."
+
+Obi-Wan wets his lips. His heart continues beating too fast and too loud.
+
+It seems forever until he can give an answer again.
+
+"Obi-Wan," he says.
+
+"What?"
+
+"You can call me Obi-Wan," he tells him. "If you want."
+
+The smile on Anakin spreads wide like sunshine shining through a flower field. "Thank you, Obi-Wan," he says whole-heartedly, letting out a long relieved breath.
+
+"Now, go. Before the curfew starts or I change my mind. It's not my patrol tonight, and you definitely don't want to run into anyone else." Obi-Wan can't stop a similar small smile crawling its way onto his lips as well, seeing the relief and cheer on all their faces. People's murmuring grows louder and lighter, and they start moving out of the place.
+
+Anakin doesn't move, not until all the rest have left the place.
+
+"You should go, too," Obiwan reminds him. "It's unwise to step your toes on all the lines."
+
+Anakin gives him a funny look. "That's the story of my life, you know."
+
+Obiwan grimaces. "In fact, I don't know."
+
+The boy is actually surprised. "Aren't you guys like, 'Big Brother is watching you' type? Knows everything about everyone?"
+
+The rising tip of Obiwan's lips drops. He shakes his head briefly. "I have a feeling there is much misunderstanding."
+
+"And *I*, have a feeling that you have something else you want to say, but not in front of everyone." Anakin observes.
+
+Obiwan makes a sound out of his nose, bordering both impressiveness and annoyance. "How many 'feelings' do you have? Have some more, and you may call yourself a psychic."
+
+Anakin shrugs uncaringly. "Mom used to tell me to trust my intuitions, and mine is usually quite good. Now, don't change the subject, what is it that's still bothering you?"
+
+"Oh, let me see where should I start --" Obiwan says sourly. "I do this, we might very likely die before we can do anything. Do you have any idea how powerful the Emperor is, or the whole security and special forces are up there? How impossible it is to keep a secret from them, let alone a whole rebellious force? *And*, Count Dooku has given very explicit instruction, if I fail to seize the person behind those graffiti -- you, he'll come down here himself. By then, there will be no hope of speaking your way out of it."
+
+Anakin listens carefully, tilting his head slightly in his deep thought. "Do you know how long we still have before Upstairs notices anything?"
+
+"Days, maybe weeks. I can't say for sure," Obiwan considers. "Patience is usually not one of their virtues."
+
+Anakin snorts. "Do they have any, at all? Doing all these to us, taking away our freedom, our voice. You saw that, everyone with a heart would know how wrong that is. Do they even have a heart?"
+
+Obiwan shifts uncomfortably. What Anakin described, isn't that exactly himself before today? Is that saying *he* also didn't grow a heart? Obiwan doesn't know what to answer, but luckily, it seems Anakin isn't waiting for one, either.
+
+"Anyway," the boy wraps, "Good to know. We can still use whatever time we have to prepare."
+
+"For what? What are you going to do?" Obiwan is suddenly tense again.
+
+Anakin gives him a mysterious smile, "You'll see."
 
 <br>
 
 #### draft notes
 
-> Obi-Wan gets tricked to underground rebellious meeting (Obi-Wan thinks he starts able to decode the message, but actually they purposefully leave the hint)
->
-> Obi-Wan knows about rebel force, is given the option of join them and fight against emperor and very likely die, or comply with Jedi brainwash doctrine and fight against rebels, neither know if he'd get harmed by rebels or he'd win and bring Anakin in, which would likely cause Anakin executed by Dooku.
->
-> Obi-Wan's decision point, has to choose a side. He chooses them, is let go. start with only small help/subtle sign of slipping to their side, e.g. a few times when chasing around he actually already run into Anakin/could have arrested him but deliberately pretend as if missed. slow(/steep?) slip, every decision point actually all chooses Anakin, very clear starting to change side
-
 some talk about trust issue, Anakin trusts his intuition, trusts Obi-Wan
 
-after Obi-Wan actually changes his side, the addressing changes to, either he self-intro as or Anakin starts calling him Obi-Wan
+after Obi-Wan actually changes his side, the addressing changes to Obi-Wan
 
 ### Chap 5 (Attraction)
 
 > Obi-Wan takes more and more interest in Anakin, learn more about him and his past and ideation (Anakin talk about his childhood and why his interest in art), the two of them talk more, learn about each other more, start join rebellion meetings (start with only listen at outer rim, not speak), start secretly training Anakin properly, teach him use weapons and Force power.
 
+
+
 <br>
+
+###### [TBA]
 
 #### draft notes
 
+> start with only small help/subtle sign of slipping to their side, e.g. a few times when chasing around he actually already run into Anakin/could have arrested him but deliberately pretend as if missed. slow(/steep?) slip, every decision point actually all chooses Anakin, very clear starting to change side
+
 Obi-Wan shows him Force can heal
 
-Anakin's childhood flashback and Obi-Wan's flashback of losing Qui-Gon, both see more below in setups session
+Anakin's childhood flashback and Obi-Wan's flashback of losing Qui-Gon:
+
+timeline:
+
+Anakin at 3y: he and Shmi were not sold to the Hutts and Watto in Tatooine during slave trade, instead, they were sold to an underground black market art smuggler in Coruscant. Ani started learning/having interest in art by watching/witnessing/helping out those art transactions, Shmi encouraged him to learn painting, it distracted him from slave life.
+
+9y: The smuggler died in some art dealer auction conflict shortly and they were let go in chaos (no one cared about them, not realized they're gone). Shmi died shortly after due to some sickness, Anakin grew up alone (with other homeless orphan kids, e.g. Kitster Banai, Wald, Amee) in lower Coruscant, managed to survive on his own in the hard life, did a lot of small outlaw things to support himself, steal/rob/pick up dumpster to get food/money/everything, ran away from police a lot, get into trouble a lot, still try to make art (initially because it comforts him and make him think of mom, later find out more practical usage.)
+
+Obi-Wan at 3y: brought to Jedi Temple, became a padawan at 13y, became a Jedi knight at 25y, now: 39y
+
+ep1 timeline (32 BBY, Anakin 9y, Obi-Wan 25y), without Ani, Qui-Gon/Obi-Wan didn't go into pod racing bet, didn't get hyperdrive to fix ship, stuck in Tatooine, got caught up by Maul. Qui-Gon/Obi-Wan 2v1 fought Maul, Qui-Gon/Maul died, Padme/Obi-Wan went back to Coruscant in Maul's ship, Palpatine became chancellor. Coruscant was in the corrupted, late Republic stage.
+
+ep2 timeline (22 BBY, Anakin 19y, Obi-Wan 35y), Palpatine started clone war (22BBY), had Jedi and senate all in control.
+
+ep3 timeline (19 BBY, Anakin 22y, Obi-Wan 38y), Palpatine becomes emperor, all uncooperative Jedi were persecuted or went hiding (e.g. Yoda/Windu disappeared) (=canon Order 66 at 19 BBY), remaining Jedi mostly get brainwashed/forced to become Palpatine's personal police force. Without Anakin, Dooku is still alive so far, active in conducting Palpatine's orders.
+
+current: 18 BBY (1y after Empire is announced, 4y after beginning of Clone Wars), Anakin 23y, Obi-Wan 39y
 
 ### Chap 6 (Grow/Slow burn)
 
@@ -490,28 +630,44 @@ Anakin's childhood flashback and Obi-Wan's flashback of losing Qui-Gon, both see
 >
 > Obi-Wan meanwhile acts as their double agent in Jedi and near Palpatine. They planned to wait until Anakin is ready to make the final move on Palpatine, but Obi-Wan is already suspected by Palpatine
 
+
+
 <br>
+
+#### draft notes
 
 ### Chap 7 (Revolution)
 
-> Obi-Wan gets captured/tortured/interrogated, very close to be prosecuted (charge of traitorous/treason), know there is info leak (graffiti encoding meaning is leaked, someone from inside might get turned, has rat), know rebels are in danger (Dooku is tasked to kill them all).
+> Obi-Wan gets captured/tortured/interrogated, very close to be prosecuted (charge of traitorous/treason), know there is info leak (graffiti encoding meaning is leaked, someone from inside might get turned, has rat; or Obi-Wan's personal datapad is monitored without him knowing, his photos of Anakin/graffiti/decoder sheet are found out), know rebels are in danger (Dooku is tasked to kill them all).
 >
 > They all are forced to start the revolution movement earlier than planned, jump-start full-on revolution, Obi-Wan/Anakin in lead.
 >
 > Anakin go into Imperial Palace with the group, has disagreement within team of whether the goal is mainly to rescue Obi-Wan or assassinate Palpatine, Anakin faces the option of either killing Palpatine or saving Obi-Wan, and chooses Obi-Wan, gets himself in danger (run into Dooku, fight, get his right hand cut, like canon).
 
+
+
 <br>
+
+#### draft notes
 
 ### Chap 8 (Mutual Rescue)
 
 > It turns out Obi-Wan manage to escape on his own (wounded but nonfatal), ready to leave to warn them, come back to rescue Anakin, the two kill Dooku. Obi-Wan uses Force heal to stabilize Anakin's handicapped hand, Anakin furious, desperate, fear can't paint again. Obi-Wan suggests retreat for now, Anakin insists see it through, now or never.
 
+
+
 <br>
+
+#### draft notes
 
 ### Chap 9 (Success)
 
 > The two back-to-back fight together, Anakin is forced to use left hand fighting, non-dominant hand but the move become unexpected, successfully kills Palpatine, they liberate the city, announce empire falls by drawing a huge blue graffiti on wall saying "Free". people want them be new leaders, they suggest building new Republic but need more help, sending out invite to hidden Jedi/senators in all plantes, inviting more wise people to reestablish democracy (e.g. look for Yoda, etc.). There are more work need to be done to build the new order, but good thing that they have each other.
 
+
+
 <br>
 
-###### END
+#### draft notes
+
+###### [END]
