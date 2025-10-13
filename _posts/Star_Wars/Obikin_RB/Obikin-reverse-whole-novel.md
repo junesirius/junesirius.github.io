@@ -10,7 +10,7 @@ origin: 2025 Obikin Reverse Bang
 published: false
 ---
 
-Tags: canon divergent, canon world, slow burn, get together, choose each other every time, rebellion, artist for liberation, fight for freedom, rebel against empire, enemy to friend, hopeful ending
+Tags: canon divergent, canon world, AU, slow burn, get together, choose each other every time, rebellion, artist for liberation, fight for freedom, rebel against empire, enemy to friend, hopeful ending
 
 Warning: Graphic depictions of violence
 
@@ -400,7 +400,7 @@ The only proof that turned into the ash flies in the air when a breeze comes by.
 
 <br>
 
-Their next assembly will be in the basement of a deserted factory, three hours before the curfew on a Friday afternoon.
+Their next assembly will be in the basement of a deserted factory, three hours before the curfew on a Taungsday afternoon.
 
 Obi-Wan finds the latest piece of graffiti with the announcement another two days later, and thanks to the decoder sheet, he reads it like looking into words written in plain common language. And with bright colors and powerful strokes, the art is practically shouting "Freedom" and "Rebel" at his face, along with some really strong words regarding the Empire. If the Upper Level ever finds out the true meaning of these arts, anyone involved would get electrocuted. No question asked.
 
@@ -834,7 +834,7 @@ Obi-Wan shrugs as an answer.
 
 Light of excitement gleams in Anakin's eyes.
 
-"You can get 'Super freaking cool', if you do that," he grins.
+"You can get 'Super freaking cool', if you do that," he grins widely.
 
 <br>
 
@@ -862,6 +862,214 @@ current: 18 BBY (1y after Empire is announced, 4y after beginning of Clone Wars)
 >
 > Obi-Wan meanwhile acts as their double agent in Jedi and near Palpatine. They planned to wait until Anakin is ready to make the final move on Palpatine, but Obi-Wan is already suspected by Palpatine
 
+They pack the unfinished food and Anakin drops it by a house. He insists Obi-Wan waits outside, so the Jedi doesn't push.
+
+The boy gets out of the place in a good mood.
+
+"How's the family?" Obi-Wan asks, knowingly.
+
+Anakin doesn't ask how he knows. "A lot better," he answers, "and now also full. I told them it's from a friend."
+
+Obi-Wan brightens up. "Am I a friend now?"
+
+"Don't get too excited," Anakin says, hiding a small grin.
+
+He starts heading to the other end of the town.
+
+Obi-Wan follows. "Where are we going?"
+
+"Working." The boy looks up at the ceiling of the Level, checking the brightness of the artificial light, presumably checking the time. "Unlike *somebody*, people here still need to do something useful."
+
+"I'm working, too," Obi-Wan protests.
+
+"Yes, by following me around. Lucky you," Anakin comments sarcastically.
+
+"Believe me, it's not easy." Obi-Wan rebuts.
+
+Anakin hums noncommittally.
+
+They wind through a back alley way where the constant patrolling droids and troops are out of sight almost all the time. And then go through an underground deserted pipe system where half the time they have to climb through the pipe on all fours, which eventually come out leading to the far inland of the Level.
+
+Obi-Wan is pretty confident none of the people on the Upper Level would ever find out this passageway for a million years.
+
+Anakin stops at the tail of a previous graffiti, and starts unpacking his bag to grab the cans.
+
+Only now does Obi-Wan catches up what he's been talking about when he said "working."
+
+"Leaving another message?" he probes.
+
+"For tonight," Anakin checks the time again. "I should have left it sooner, it's your fault. Hope people would still come in."
+
+"What's the message?"
+
+"Same time, five o'clock, at the old shelter."
+
+"What's wrong with that deserted factory I got caught out last time?"
+
+"We can't always use the same place, are we? In case you guys find out."
+
+"Can I paint it this time?" Obi-Wan asks, tentatively.
+
+"What?" Anakin is surprised.
+
+Obi-Wan says it again, "I only see you do it. I thought it must be fun."
+
+He almost expects the boy to say no, but surprisingly, he just passes the can of cyan-colored paint over. "Why not? You know the code, you know the pattern. Just put it somewhere here. Make it bigger, so it's easier to see from the distance." Anakin points at a patch of bare wall. The wall surface is uneven, with grey falling-offs of the old paint and all kinds of sags and crests from a lack of maintenance.
+
+Anakin takes a step back to let him work.
+
+The paint can is metallic cold under his palm. And in his first try, Obi-Wan realize it's actually not as easy as it seems to be, to both hold down the press and control its trail at the same time. And no matter how hard he tries, he can't seem to draw a circle in the places he wants.
+
+He holds out the can, chuckling awkwardly. "Okay I give up, I'm no artist, you are. Don't mind my dabbles. Think you can find a way to fix that?"
+
+He doesn't expect a hand holds his from behind, and leads him to aiming at the right angle. The fingers are thin and a size smaller than his, but no less forceful. There is almost an electricity in the place where their skin touches. Obi-Wan inhales sharply in surprise.
+
+"You're almost there," Anakin says, his voice coming close to Obi-Wan's ear, his breath blowing a loose bit of his hair.
+
+Anakin's finger presses on the nozzle and leads his hand and arm to swing in a wide and bold curve. The spray comes out in a steady, elegant circle.
+
+"There, see, you did it." The hand leaves just as quickly as it comes.
+
+When Obi-Wan turns his head, the boy still stands about a foot away, holding his arms across his chest, as if nothing has happened, as if it all just happened in his head.
+
+Obi-Wan checks him for a long second and looks at the graffiti again. Yes, it certainly just happened.
+
+He struggles for something to say, then finally comes up with a simple "Thank you."
+
+"Don't sound like I just saved your life or something," Anakin answers quickly, goes ahead to scrummage his bag and finds the other colors they'll need. "Though, at this speed, we probably can't finish the thing before the meeting start time."
+
+Obi-Wan hands the can back and takes a step to the side, making a gesture to vacate the stage for the artist to start performing.
+
+And he realizes, it is one thing to appreciate the art on the wall, and entirely another thing to watch it being created.
+
+The colors are never just one layer of the color as they seem to be. Anakin switches the cans frequently, and layers the colors just so perfectly timed, so that the dryness of each layer is also so perfectly timed. And as it turns out, the boy is also quite talkative as he works. He talks through the meaning of each symbols, how they come up with the system, the color and design. Obi-Wan falls completely silent, just watching the art to grow like a fast-forwarded hologram of watching a flower growing from a seed, and watch the boy twists and turns his wrist to paint at the exact accurate places. It is as much of an art as a science and a workout. Sweat slowly gathers around his thin muscle.
+
+Obi-Wan bites his lower lips, training his gaze move back to the wall.
+
+Anakin announces it finished as he caps the cans. The pattern with the information looks similar as the other times, except for a little adjustment to note a different location. The full art, however, it's entirely something new. It's the night sky and the dark space with millions of shining stars and planets. But not quite like what they really look like in the deep space, it's the image that only exists in Anakin's head. The planets are vibrant, lively, spinning, taking the patch of space next to it rotating with it. The colors are intertwining together, one star is a mixture of blue and green, emitting a woodsy feeling; another burning red and orange, looking like the Mustafar system from Obi-Wan's knowledge; there's also one that's darker with rings, one shinier and looking all watery...
+
+Obi-Wan is stunned at the art. Anakin seems to be amused by his reaction.
+
+"Come on, tell me they're all wrong and stars don't really look like that," he says.
+
+"No, they're not." Obi-Wan struggles to find his voice. Anakin's smile drops slightly. "They can't compare with this. They're not as astounding as what's in your vision. You really are a..." he can't find a word there.
+
+"Genius?" Anakin supplies jokingly.
+
+Obi-Wan considers, "For lack of a better word, certainly."
+
+"You make me blush, old man." Anakin punches him on the shoulder. His handful of paint leaves a handprint on his shoulder.
+
+Obi-Wan is snapped out of the stun. "Hey, I'm not that old," he protests, looking down at the handprint on the white jacket. "And don't blame me for ruining your jacket, you did it yourself."
+
+The brat pointedly ignores the first refute and only answers the second. "You can keep it. It's a gift."
+
+"For the lunch?"
+
+"For everything."
+
+Obi-Wan doesn't complain after that.
+
+<br>
+
+They are the first two arriving at the old shelter place they'll have the gathering later.
+
+The place is smaller than the old factory.
+
+"If you lured me here the first time, I'd have nowhere to hide," Obi-Wan observes.
+
+"Then what's the fun?" Anakin remarks.
+
+"So you *are* on purpose!" Obi-Wan accuses.
+
+Anakin shrugs. "Thought you should have figured that out the first time."
+
+Obi-Wan sighs. "You know, with your brain, it's a loss we didn't have you back when we were fighting the Clone War. We might win it a few years earlier."
+
+"I must have lost my invitation letter by a few years," Anakin answers nonchalantly.
+
+"Or by two decades," Obi-Wan replies.
+
+"What's that supposed to mean?"
+
+Obi-Wan hesitates.
+
+"Obi-Wan?" Anakin turns to him fully now, alerted. "What do you mean?"
+
+Obi-Wan bites his lips before answering, "The Force is strong with you. If we knew about you twenty years ago, you'd be trained as a Jedi."
+
+"The Force?"
+
+"It's what gives a Jedi his power. It's an energy field created by all living things. It's everywhere. It's what binds the universe together. If you know how to sense it and harness it, it can do a lot of things."
+
+"Like what?"
+
+"You probably heard of Jedi mind tricks, there's also combat skills, moving things around, even healing. If only we still have old midi-chlorian testing device, I can have a reading on you to be sure. But the Emperor has destroyed every last one of it, saying it's illegal to test or train any new Jedi." Obi-Wan sighs heavily.
+
+Anakin considers. "How do you know it's strong with me?"
+
+"I don't know how to explain it, but I can just, *feel* it in you. It's what led me to notice you for the first time, and all the other times." Obi-Wan admits.
+
+The light in Anakin's eyes dims. "Is that why you're so interested in me? Because I have some sort of psychic ability I don't know in me? And you just want to what, make me like one of you? Be like one of those pathetic Emperor's Henchman? Like what you used to be? Scratch that, like you still are! No, thank you! I must see it wrong on you!" He snaps furiously and turns his back on Obi-Wan.
+
+"No! Of course not!" Obi-Wan says urgently, putting a hand on the boy's shoulder to steer him back to face him. "Listen to me, it's not that you're special *because* you have Force, it's that you're special *plus* you have Force. You said you have good intuition, and I call it the exact showing of the Force. Trust your intuition again then, am I lying to you? Am I trying to mean you any harm or utilize you in any way? You know you can feel it, then just use it, feel *me*."
+
+Anakin glares at him in silent fury for a long, stretched moment. Obi-Wan's heart pounds heavily in his chest.
+
+Then the boy closes his eyes and holds out a hand. His palm hovers before Obi-Wan but not touching.
+
+Obi-Wan closes his eyes, too. In his mind's eyes, he sees lights and stars scattering in the space before him, flying around like the glowworms of the summer night in the woods of Naboo. He focuses on the lights and thinks, *Anakin, is that you? See me, meet me in the Force. Focus, Anakin.*
+
+The little spots of light start gathering. Their movements are still too turbulent to form a shape.
+
+Obi-Wan deliberately slows down his breathing, counting his heartbeat before each inhale and exhale. *Breathe, Anakin. Just breathe. Breathe in, and Breathe out slowly. You're talented. Just learn how to use it. You'll be the best among all of us.*
+
+The sparks start settling down. If their movement has a sound, it must be quieting down from a thunderous roar to the sound of waves patting on the white sand -- still powerful, but so much quieter. Like the breathing of a massive, dominant creature.
+
+*You're almost there, Anakin.*
+
+The shape forms into the boy in the dark space.
+
+The boy opens his eyes. Light shines dazzling bright around him like he's a deity from the fairy tales.
+
+*Anakin.* Obi-Wan calls to him through the Force. Joy and pride fills his heart so full that he thinks he might be floating.
+
+*Obi-Wan?* The light shifts slightly as the sound comes through, the shape breaks as his attention sways, but just a short moment later, Anakin keeps himself in focus again.
+
+*You did it.* Obi-Wan praise him generously. *I've never seen anyone master it faster than you do.*
+
+It's then that Obi-Wan feels the palm touches his chest, physically and mentally, pressing right over his heart. His heartbeat picks up temporarily just from the touch, his mind's eyes blur for a second when he's distracted. But Obi-Wan demands his attention back, to the sensation itself, to the existence itself, to the world and life itself.
+
+The skin on the boy's hand is colder than his, leaving a chilly sensation seeping through the ribcage, deeper inside. The light sparks in the spiritual realm, however, is so much more heated, so much more electrical. Anakin's light reaches out to Obi-Wan, mingles with the light that was his own but now disturbed. For a time, they can't tell apart whose is whose, it's as if their mind are also melting as one, resonating like a same tune.
+
+Anakin is searching his memory and thought, Obi-Wan realizes. It's similar to mind trick, inserting a thought into a weak-minded, but this is so much more intense. When he invites Anakin to try it, he doesn't really think the boy is able to have a grasp of it in the first try. He certainly underestimated his talent and power.
+
+Anakin scrummages his thought like searching for a book in a library. There is no privacy here, but luckily, Obi-Wan considers himself an open book to read. He already admitted all the worst things he's done -- he witnessed his master's death, he murdered a Sith -- he's been completely frank with Anakin all these times, so, yes, Anakin can poke all he wants and he'll find exactly what he's told.
+
+Obi-Wan counts his breath and his heartbeat, going back to a calm meditating state, waiting for Anakin to finish.
+
+The touch leaves him, so is the light in the spiritual realm.
+
+Anakin staggers two steps back, pressing his palm over his heart. He breathes heavily.
+
+Obi-Wan intuitively takes a step toward him, wanting to steady him. "Are you alright, Anakin? Is it too much?"
+
+Anakin takes another quick step back, leaning away from him. Obi-Wan stills in his place, letting the hold-out hands fall back next to him.
+
+When Anakin meets his eyes again, the look in those eyes are strange to him. Curious, unbelievable, wondrous, odd. Obi-Wan can't help wondering what Anakin has seen in those barest, frankest moment.
+
+"So?" Obi-Wan waits for a long moment before he has to pick up the conversation again. "How do you feel? What did you find?"
+
+Anakin puts his hand back down his side. He swallows. "You didn't lie to me," he says, in a tone that sounds like he's trying really hard to put himself together. "And you didn't try to make me like one of you. You only really just to teach me, how to master it, to be a better me, I guess."
+
+Obi-Wan smiles faintly. "If you let me."
+
+"Okay, then." Anakin nods quietly.
+
+<br>
+
+
+
 
 
 <br>
@@ -870,7 +1078,7 @@ current: 18 BBY (1y after Empire is announced, 4y after beginning of Clone Wars)
 
 #### draft notes
 
-> Obi-Wan takes more and more interest in Anakin, learn more about him and his past and ideation (Anakin talk about his childhood and why his interest in art), the two of them talk more, learn about each other more, start join rebellion meetings (start with only listen at outer rim, not speak), start secretly training Anakin properly, teach him use weapons and Force power.
+> Obi-Wan start join rebellion meetings (start with only listen at outer rim, not speak), start secretly training Anakin properly, teach him use weapons and Force power.
 >
 > The two become popular among the group, come up with actual real attacking plans, Obi-Wan give them useful suggestion to actually do some real rebel fight against Empire's controlled troops/facilities (use graffiti as cover/breach/signal) and win, slowly turn to new leaders people willing to follow.
 >
