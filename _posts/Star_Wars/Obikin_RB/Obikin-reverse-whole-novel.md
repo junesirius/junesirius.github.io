@@ -694,7 +694,9 @@ Obi-Wan stifles a laugh. "Of course."
 
 The jacket is a little too small for his size, and smells of cheap soap and a lingering smell of paint.
 
-It smells of Anakin. Obi-Wan tries very hard not to think about any of that.
+It smells of Anakin.
+
+Obi-Wan tries very hard not to think about any of that.
 
 <br>
 
@@ -1126,19 +1128,19 @@ Kitster glares at Obi-Wan menacingly one more moment before stepping aside.
 
 Anakin has sit down now, and the people around him is trying to figure out how deep the stick has pierced through his shoulder, and how bad the damage is. He looks up and tries to pull a tired smile when Obi-Wan gets to him. More sweat gather on his forehead as he tries to grit his teeth at the pain.
 
-"I can fix it," Obi-Wan offers. The crowd stares at him disbelievingly. "Remember I told you the Force can heal, too? It's also true. But fair warning, I'm not the best in my healing class."
+"I can fix it," Obi-Wan offers. The crowd stares at him in distrust. "Remember I told you the Force can heal, too? It's also true. But fair warning, I'm not the best in my healing class."
 
 Anakin nods small, teeth clenched too tight to speak. He slowly removes his bloody hand on the wound.
 
-The stick is just a random thing they improvised to find in the place. The end that stabbed into him is surprising sharp, but on the brighter side, the tearing wound is small.
+The stick is just a random thing they improvised to find in the place. The end that stabbed into him is surprisingly sharp, but on the brighter side, the tearing wound is confined.
 
 Obi-Wan keeps one hand on his shoulder, another on the sticking-out part. "On the count of three," he tells him. Anakin nods again.
 
-"One --" he pulls the stick out already, quickly covering the opening wound with his hand, and closes his eyes to focus on the Force. It's not easy. With everything that just happened, with the warm, wet, sticky blood under his hand, with the rusty iron smell in the air, and the knowledge and pressure that if he can't do this, Anakin might be hurt really bad, it's almost impossible to concentrate on the Force around him.
+"One --" he pulls the stick out already, quickly covering the opening wound with his hand, and closes his eyes to focus on the Force. It's not easy. With everything that just happened, with the warm, wet, sticky blood gurgling under his palm, with the rusty iron smell permeating in the air, the pressure from the eyes of everyone in the room, and the knowledge and pressure that if he can't do this, Anakin might be hurt really bad, it's almost impossible to concentrate on the Force around him.
 
-That's when he feels a hand around his wrist, and a whisper saying his name: "I believe you, Obi-Wan."
+That's when he feels a hand loosely fall around his wrist, and a whisper saying his name: "I believe you, Obi-Wan."
 
-His own heartbeat steadies at the voice. He channels the Force around them onto the wounded structure. *The Force is every living cell, every life, everywhere.* He reminds himself, willing his mind's eyes to see the cells that were broken, and see the Force flowing in and out of them.
+His own heartbeat steadies at the voice. He channels the Force around them onto the wounded structure. *The Force is every living cell, every life, everywhere.* He reminds himself, reciting it like a spell, willing his mind's eyes to see the cells that were broken, and see the Force flowing in and out of them.
 
 He guides the Force through them and fixes them.
 
@@ -1150,29 +1152,29 @@ Anakin exercises that side of his shoulder, swinging it like nothing has happene
 
 "But I bet you wanted to do that since the first day we met, didn't you?" Anakin says deliberately. "That's revenge, I'm sure of it."
 
-"Didn't you just try to do exactly that too?" Obi-Wan wrings a hand to his back, rubbing the place where Anakin's fist has landed heavily on. He's sure there will be a bruise sooner or later.
+"Didn't you just try to do exactly that too?" Obi-Wan wrings a hand to his back, rubbing the place where Anakin's fist has landed heavily on. He's sure there will be a bruise sooner or later. But he doesn't bother spending more effort to heal himself. He can use a little reminder of their little fighting game for a while longer.
 
 "Call it even then," Anakin says cheerfully, pulling himself up from the chair, walking toward the front of the crowd.
 
-They still have a full, long, routine meeting to have, to discuss all the issues people are having and needing help with, and most importantly, to have a "Plan." Obi-Wan just listens quietly at the outer rim of the crowd.
+They still have a full, long, routine meeting to have, and all those people to help. Anakin falls back into that rare leader role that Obi-Wan hasn't get used to seeing. He goes ahead to discuss all the issues people bringing with and needing help with, and most importantly, to discuss about a "Plan." Obi-Wan just listens quietly at the outer rim of the crowd.
 
-"We have information that we must act quickly and strike hard; time is running out." Anakin paces slightly at the front of the room.
+"We have information that we must act quickly and strike hard; time is running out." Anakin paces slightly at the front of the room. "I think we'll have change our strategy. We don't have time to strike small and build up our force slowly."
 
 "Where is the information from? Is it reliable?" Kitster raises his hand.
 
 "Yes," Anakin answers, casting a look at the end of the crowd, meeting Obi-Wan's eyes. "I trust him. And if you trust me, you'll trust him, too."
 
-Kitster slowly puts his hand down.
+Kitster slowly puts his hand down, unconvinced, but doesn't question.
 
-"We also can't afford to try small to build up as we initially planned. We *must* strike the main target on the first go, and we *must* get what we want," Anakin says in a determined tone.
+"We *must* strike the main target on the first go, and we *must* get what we want. We can't afford to fail," Anakin says in a determined tone.
 
 Obi-Wan wonders what exactly that "main target" and "what they want" are.
 
 "Luckily, we have all the inside information we'll ever need." Anakin raises his voice.
 
-Obi-Wan realizes all the eyes are landed on him now. He walks toward Anakin through the empty passageway they vacate out for him.
+Obi-Wan realizes all the eyes are landed on him now. He walks toward Anakin through the passageway among people that they vacated out for him.
 
-"Now, tell us all the ways in and out of the Imperial Palace, and where we can find the Emperor?"
+"Now, tell us all the ways in and out of the Imperial Palace, and where to find the Emperor?"
 
 <br>
 
@@ -1182,17 +1184,237 @@ Obi-Wan glares back at him. "This is madness!" he exclaims, taking a large step 
 
 "We'll negotiate with him," Anakin answers calmly.
 
-"Negotiate." Obi-Wan parrots, huffing a loud laugh. He rubs his temple exhausted. "Do you have any idea how idiotically innocent and political ignorant that is? He's the Emperor! For someone like him, he's not going to *negotiate* with you if you don't have any bargaining chip. What do you have? Tell me, what do we have?"
+"*Negotiate*," Obi-Wan parrots coldly, huffing a loud humorless laugh. He rubs his temple exhaustedly. "Do you have any idea how idiotically innocent and political ignorant that is? He's the Emperor! For someone like him, he's not going to *negotiate* with you if you don't have any bargaining chip. What do you have? Tell me, what do we have?"
 
+"You let us worry about that," Anakin does not flinch under his incredulous eyes.
 
+Their staring match continues adding tense to the air.
 
+"Do you have any back up plan if *negotiation* fails?"
 
+"Yes. We call it aggressive negotiation."
+
+Obi-Wan blinks. "Assassination? That's what's in your mind?" He breaks the gaze to scan around them, meeting eyes with same desperate, determined looks. "In all of your minds? Holy, you really are a terrorist group."
+
+Anakin's eyes narrow. "Now, are you with me, or against me?"
+
+"I can't," Obi-Wan says, slowly, painfully.
+
+"Can't or won't?" Anakin demands.
+
+"I won't! Alright? It's impossible. I won't help you suicide!" He turns away, walking fast toward the exit.
+
+"What's the difference? We're already dying a little every day. You're still just letting us die, just slower!" Anakin raises his voice behind him.
+
+Obi-Wan doesn't slow his steps.
+
+"We shouldn't let him go, he will report us in." Kitster's voice stands out in the crowd's sudden raising murmur.
+
+"He just needs some time." Obi-Wan hears Anakin answer.
+
+### Chap 6.5 (Slow burn/plan)
+
+> Obi-Wan faces choice again, whether to help them make assassination plan, he has struggles, but eventually makes the final decision to help them. There's no going back.
+>
+> Obi-Wan gives Anakin necessary information that they'll need later to infiltrate the Palace to find Palpatine.
+>
+> Obi-Wan meanwhile acts as their double agent in Jedi and near Palpatine. They planned to wait until Anakin is ready to make the final move on Palpatine, but Obi-Wan is already suspected by Palpatine
+
+Obi-Wan drifts on the street mindlessly, not knowing where his feet is leading him.
+
+The artificial sky is getting darker. The night is coming closer.
+
+People on the street pick up steps, rushing toward their houses -- or shelter, or wherever they call it home to pass the night.
+
+His feet bring him to the familiar diner he's been in just a few hours ago.
+
+Dex is the only one in the place this time. His four hands are organizing the counter and kitchen supplies, tidying things up, about to close the place for the night. His move pauses when Obi-Wan walks in.
+
+"Craving for a burger before you go upstairs?" Dex pushes the empty plates aside, grabbing two new cans of Jawa Juice, walks out from behind the counter. "Afraid the kitchen is closed, but I can make an exception if you need."
+
+"No, just need a place to sit for a while." Obi-Wan seats himself in the closest booth, not bothering to check if the table is clean, leaning his arm on it tiredly.
+
+Dex pushes one can before him, and sits on the opposite side. "Had a fight with that kid?"
+
+Obi-Wan raises his eyebrows. "How do you know? Is that this obvious?"
+
+"Five hours ago the two of you ordered half the kitchen's food and chatted non-stoppingly. And now you came back alone with a long face. It's not so difficult to put two and two together." Dex pulls open his drink and pours it into his mouth, the other lower hand scratching his back carelessly.
+
+Obi-Wan isn't even in the mood for Jawa Juice now. He just sighs in frustration. "I might have made a stupid mistake," he says.
+
+"Falling in love?" Dex supplies.
+
+"What?! No!" Obi-Wan almost jumps, shifting his attention to his old friend with widened eyes. "What gives you that idea?! He's just a little brat I happened to run into three days ago, and now it's becoming a huge mess."
+
+"That so? If it's so simple, then why are you just sitting in my place, sulking and bitching, instead of going back to that golden palace and report him in? You won't lose anything, maybe even a metal for capturing the wanted. Bob's your uncle, Fanny's your aunt. Things go back to normal, you should be happy." Dex puts down the can and stares into his eyes.
+
+Obi-Wan looks away. "I..." he wets his lips, struggling with words. "I don't know." He admits helplessly, pondering slowly.
+
+"He's different, special, so talented with Force. I haven't seen anyone with Force for so long now, let alone so strong. I just thought maybe there's still hope for us, you know, to make a change in some way." He stares at the diner floor, out of focus, remembering those blue eyes staring back at him, reckless, determined.
+
+"Isn't that exactly what he's been trying to do? Make a change?" Dex offers.
+
+"You know? His plan?" Obi-Wan is surprised, scanning his friend's face.
+
+Dex shrugs. "Most people around here know. How do you think he gets so many to follow him around, learn his secret art code, go to the meetings? Hope is an awful thing, I'm telling you. He gives it to people, and now, they can't live without."
+
+Obi-Wan finds himself speechless once again. "And they all trust him, believe it's the right thing to do," he murmurs, remembering how he helps the starving family, the sick kid, the helpless old men and women in the group. They go to him for advice, for support, and he gives them something so much better than food and medicine -- he gives them hope. The hope of a tomorrow that they can live in freedom and prosperity, in democracy and republic, in a world better than the current one. In a world without the darkness created by the Emperor.
+
+"I need to think," Obi-Wan stands up.
+
+"Maybe you should stop thinking," Dex doesn't bother standing up to see him out, just staying in his seat. "Follow your feelings, Obi-Wan. Qui-Gon always say, follow your feelings."
+
+He's answered with a sound of the diner's door clang shut.
+
+<br>
+
+When the night-time galaxy-wise broadcast starts, Obi-Wan finds himself go back to the wall painting Anakin showed him earlier. The wall covered by the massive colorful wings. The colors look dimmer in the night-time lighting, but the memory of them is still fresh enough to compensate.
+
+Obi-Wan sits before the wall, legs crossed, in his usual meditation posture. He can see Force flowing around the wall and painting just as it flows around Anakin. He asks the Force quietly, *What should I do? What's the right thing?*
+
+And then, the broadcasting starts. There is no public screen in this part of the town, but the sound still pierces through. Emperor's voice vibrates in the air as if it carries real electricity. As if saying, in all the corner of all the galaxy, as long as his image can be sent to, as long as his voice can touch, it is under his govern.
+
+Free expression of art -- forbidden. Free assembly -- forbidden. Ill discussion of the Emperor -- arrest. Grudge against the system -- arrest. Leave house after curfew -- arrest.
+
+It can almost get simplified into: Do anything anyone upstairs isn't happy about -- death.
+
+Obi-Wan swipes his face with his hands desperately.
+
+Images and colors flash before his eyes on their own accord.
+
+Blue -- Anakin's eyes.
+
+Red -- the lightsaber of that nameless Sith who killed his master.
+
+White -- the Imperial Palace.
+
+Blue -- the sky's real color, above the ground.
+
+Red -- blood coming out of the fatal wounds of so many people, his master, his comrades, the friends he used to have.
+
+Black -- the armor and the Imperial symbol on their shoulders.
+
+Blue -- his own lightsaber.
+
+Red -- the fire that burns the bodies of those who died, and soon, forgotten. But Obi-Wan never really forgets them.
+
+Blue -- his own eyes looking back through mirrors, tired, aged, muted, in the age when his voice can no longer be heard or expressed safely.
+
+Red -- the draping cloak over Count Dooku's shoulder, following his steps.
+
+Blue -- the freedom, the safety, the prosperity, the happiness, the hope, the life.
+
+Red -- the blood, the fire, the prison, the power, the death.
+
+Anakin's voice starts echoing in his head.
+
+*We're already dying a little every day. You're still just letting us die, just slower!*
+
+*I can fly now.*
+
+*With everything we don't have, freedom is one thing we can still have.*
+
+Then Dex's voice chimes in unreasonably.
+
+*Follow your feelings.*
+
+*I might have made a stupid mistake. -- Falling in love?*
+
+*If it's so simple, why are you still here?*
+
+It really should be a simple question -- it shouldn't even *be* a question at all. The code is clear, the order is clear. The wanted warrant is making it even more easy. He has everything he needs, the people, the proof, the idea of a destructive plan, the evil rebellious intention. He has everything.
+
+*What are you still debating about, Obi-Wan?* The voices in his head speak louder and louder.
+
+*What are you so afraid to see?* They push, and press, and march, and besiege.
+
+"Stop," Obi-Wan tells the voices, feeling himself cornered. "Stop!"
+
+One of the voices stands out to answer him, clear and young, "If you yell any louder, the droid patrol on the main street might hear you and come over."
+
+Obi-Wan snaps open his eyes.
+
+Three steps away, Anakin stands with his arms crossed. His backpack at his feet.
+
+Obi-Wan wipes his face hastily to school his expressions, but what's the point, Anakin already sees his miserable look anyway.
+
+"How do you know I'm here?" he asks, uncrossing his folded legs, standing up from the ground.
+
+"Lucky guess," Anakin answers stoically, without looking at him. He holds out an arm, in a gesture to hand his bag over. "Just thought you might want your armor back, that's all. They might give you trouble if you lost them."
+
+Obi-Wan takes the bag from him but doesn't hurry to open, just let it sit by his feet. "Why do you care?" he asks quietly.
+
+"It doesn't matter now," Anakin says, putting his hands in his pockets, about to turn to leave. "You do what you do, we do what we do. You want to report me or arrest me, that's your duty, I don't blame you. If I get killed by that, I die from my own stupidity of trusting the wrong guy. I deserve that." His tone is kept stiffly flat, emotionless, defeated. His face half hidden in the shadow.
+
+Obi-Wan blinks hard. He bursts out, "Four entrances."
+
+"Sorry?" Anakin jerks up his head.
+
+"The Palace, it has two maintenance and service entrances in the lower floors. But if you count the sewage and exhaust system, there are four." Obi-Wan says breathlessly, as if trying to rush them out before his own brain betrays him.
+
+Anakin looks at him for a long second, the muscle around his jaw starting to slack. He moves closer, slowly. His eyes hold Obi-Wan's, neither of them blink. "Where are they?"
+
+"I need some paper."
+
+"In the bag."
+
+<br>
+
+The drawing is almost like a doodle, but Obi-Wan already tried his best.
+
+He glances at Anakin apologetically. "Sorry, I'm not as good as you in terms of painting."
+
+"I noticed," Anakin answers, still regarding the drawing. The palace is represented by a rough shape of triangle combined with some rectangles. The pipe systems and each of the entrances are marked in red. The elevator and corridors are verbally explained by Obi-Wan, and Anakin memorizes them. The Emperor's chamber is near the very top.
+
+"I could try to give you a floor plan from the archive." Obi-Wan's finger lingers on his personal datapad from outside the pocket. "But I'd guess they'll notice as soon as I requested, might even trigger some alarm or something similar. We probably don't want to risk it."
+
+"We?" Anakin tilts his head toward him. His face, under the dim light, looks all bright and sunshine.
+
+"In for a penny, in for a pound," Obi-Wan answers easily.
+
+"Thought you said it yourself, you do this, we'll all likely be killed," Anakin says.
+
+"What's better to die for than fighting for freedom?"
+
+"You really sound like one of us now." Anakin smiles.
+
+"As long as it doesn't require me to paint on that wall, I'm all in," Obi-Wan jokes, feeling his heart lifted.
+
+Anakin shoves his shoulder playfully. "That's the easy part, we can train you."
+
+Obi-Wan straightens his face again, "Besides, with me helping from the inside, we might actually have a chance to win."
+
+"We'll need a more detailed plan. I'll call in a meeting tomorrow to go over everything we have, to get people ready. We might need another week to get everyone enough weapon and ammunition." Anakin starts packing things up.
+
+"And I'll go back to see if there's any change in the Palace, if anyone raises suspicion. I'll let you know once I'm back." Obi-Wan puts on his imperial armor again, over the jacket Anakin lent -- no, gifted -- him. The armor is cold and rigid, uncomfortable to wear, even worse to move around with. Obi-Wan buckles it up in silence. Anakin helps with over his shoulder on his back.
+
+"You know where to find the meeting information." Anakin throws the bag onto his bag. "I'll see you tomorrow."
+
+"That's a date," Obi-Wan answers without thinking, examining his wearing one last time. He lifts his head to find Anakin's amused, raised eyebrows. Hastily, he amends, "Not what you're thinking. I mean like, that's deal." His cheeks burn slightly.
+
+"I'm not thinking anything," Anakin chuckles. "I don't know *who* is thinking."
+
+He leaves just as quietly as he appears, dissolving into the dark shadow like a color melting into the painting.
+
+Obi-Wan looks at the way he disappears, staring into the darkness for a minute too long, before heading out as well.
+
+<br>
+
+But his chamber is not empty. Nor is it locked.
+
+Obi-Wan reaches for his lightsaber before he pushes it open cautiously.
+
+He doesn't need to see the face to recognize that long and dark silhouette before his window.
+
+And he also doesn't even have a chance to click his lightsaber to life, before a strong shot of electricity has knocked him out from the behind.
+
+The last thing he sees, is the Count turning to him with his hand held behind his back, an unfathomable look dangling on his face.
+
+The world falls into black shortly after.
 
 <br>
 
 ###### [TBA]
-
-"aggressive negotiation"; go through quickly the necessary information, will be used for later in rescue mission
 
 #### draft notes
 
