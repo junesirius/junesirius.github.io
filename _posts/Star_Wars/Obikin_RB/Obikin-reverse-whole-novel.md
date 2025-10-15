@@ -890,7 +890,7 @@ Obi-Wan follows. "Where are we going?"
 
 Anakin hums noncommittally.
 
-They wind through a back alley way where the constant patrolling droids and troops are out of sight almost all the time. And then go through an underground deserted pipe system where half the time they have to climb through the pipe on all fours, which eventually come out leading to the far inland of the Level.
+They wind through a back alley way where the constant patrolling droids and troopers are out of sight almost all the time. And then go through an underground deserted pipe system where half the time they have to climb through the pipe on all fours, which eventually come out leading to the far inland of the Level.
 
 Obi-Wan is pretty confident none of the people on the Upper Level would ever find out this passageway for a million years.
 
@@ -1590,7 +1590,7 @@ Wald jumps to volunteer. "On it."
 
 "Careful," Anakin urges, before he moves away from the group.
 
-The ground shakes when the explosion breaks out at the foot of the Palace. The emergency alarm rings out, and the troops rush to the explosion point. But it's not a bomb, but an exploded painting can. The colors outburst from the explosion and splash on the outer wall, marking the neat exterior with rainbow color. The tiny black dot that must be Wald stands in the bare ground, shooting paints from his painting gun, writing a message on the wall that they can see even from the distance -- he starts with the first stroke of the letter "F".
+The ground shakes when the explosion breaks out at the foot of the Palace. The emergency alarm rings out, and the troopers rush to the explosion point. But it's not a bomb, but an exploded painting can. The colors outburst from the explosion and splash on the outer wall, marking the neat exterior with rainbow color. The tiny black dot that must be Wald stands in the bare ground, shooting paints from his painting gun, writing a message on the wall that they can see even from the distance -- he starts with the first stroke of the letter "F".
 
 "Now!" Anakin commands, and leads the team to charge toward the opposite side of the Palace that is now clear of the patrol.
 
@@ -1796,15 +1796,13 @@ Obi-Wan frowns. "Enlighten me."
 
 Obi-Wan stares at him in disbelief. "I should know." He takes out his datapad and ready to throw it away, but Anakin stops him.
 
-"No, wait, maybe we can use that." He takes over the datapad and starts typing single-handedly.
+"No, wait, maybe we can use that." Anakin takes over the datapad and starts typing single-handedly.
 
 Obi-Wan glances at him. "What are you doing?"
 
 "Reverse-hacking them," Anakin looks up with excitement in his eyes. "I just have an idea. We might not have to *fight* them to win. How long do we have until the daily broadcasting?"
 
 <br>
-
-###### [TBA]
 
 #### draft notes
 
@@ -1820,10 +1818,92 @@ Dooku will try to use this to turn them against each other, try to make Anakin b
 >
 > There are more work need to be done to build the new order, but good thing that they have each other. It's a new beginning for the whole galaxy and for the two of them.
 
+The throne room is as heavily guarded as one can imagine. Troopers and droids stand outside the closed doors, shooting back at the rebels.
+
+Amee is down, just like most of the others, lying on the floor with blood gathering slowly into a pool under her body. Kitster is the only one left standing, but from the sound of his yell and the limping, he's also shot more than once.
+
+The floor of the corridor is scattered with bodies and broken droids and troopers. Anakin hates it that he doesn't have time to stop to check if they're still breathing. They're so close now.
+
+Anakin clicks alive Dooku's lightsaber and Obi-Wan activates his. They stand back to back, the blocking and attacking slowly falling into sync. Waving with left hand is more than a little unaccustomed, but Anakin finds out it's not as uncomfortable as he thought.
+
+They clear out the guards before the door eventually.
+
+The Emperor is waiting for them.
+
+Behind his chair, outside the floor-to-ceiling window, the entirety of Coruscant is right there, under his foot. All the large and small screens of the city show the same image of his face, smiling and talking the same words.
+
+Anakin forces his attention move away from that bizarre view, back to the man on the chair.
+
+"I heard you're looking for me," Palpatine says slowly, even with a smile. "And now you found me. What can I do for you?"
+
+Anakin takes a large step forward. "Give us the Republic back."
+
+Palpatine grins with teeth showing. "What's so good about Republic? It's all corrupted and ugly. It even led the galaxy into a three-year war! I brought peace back, people love peace, you love peace, don't you?"
+
+"This is not peace, it's dictatorship!" Obi-Wan supplies, stepping forward, standing next to Anakin. "You didn't do it for the people. You did everything for yourself, so you can have all the power and control the galaxy."
+
+"What's the difference? People are mindless creatures, they *need* to have a lead, they need to hear orders and know what to do. I'm just giving them what they want. And see, it works. It's all peace and quiet in the galaxy, what's it to complain about?" Palpatine opens his arms to make a showing gesture.
+
+"What about freedom? What about art, and creativity, and people's life in the Lower Level? What about street painting, and... and --" Anakin stutters.
+
+Obi-Wan picks up. "-- and public performance, night bars, freedom to meetings and gatherings, food and medications, equal rights, education..."
+
+Palpatine snaps to cut the off, "What about them? Who cares if a random person in a corner died of cold -- it doesn't mean I need to make the whole world warmer. The war is over, what's better than that?"
+
+A thought flips across Anakin's mind. "The war -- who knows if *you* are the one started it in the first place!"
+
+The smile on Palpatine's face spread wider. "Boy, I know. Because I *am* the one started it."
+
+Obi-Wan exchanges a quick look with Anakin, turning back to the Emperor: "Why are you telling us it now? "
+
+"Because you won't be there telling anyone else," Palpatine says joyfully, waving a hand to order someone come over -- except no one does. "No one will know what happened, and the Empire will last for another thousand years."
+
+"No, it won't." Anakin smiles confidently, taking out the datapad from his pocket. A blinking red light shines on the top.
+
+Palpatine narrows his eyes. "What did you do?"
+
+"Letting everyone know." Anakin casts a glance at the window behind. Out there, all the screens are showing the real streaming image from the datapad. They don't need to hear the sound to know every word Palpatine just said has been broadcasted to the whole galaxy.
+
+People start rushing out onto the street, many are on their way crowding toward the Imperial Palace.
+
+Palpatine's eyes land on the lightsaber hilt he left on the chair arm.
+
+Anakin follows his gaze. "You can use it all you want," he challenges with a raised chin. "And the people will see how you use violence to solve problem. You may kill us, but the empire is already dead."
+
+Palpatine sits back into his throne seat. "What are you going to do to me? Kill me? Like you killed Count Dooku? So people can know they'll just change from following one murder to another?"
+
+"Except we're not," Obi-Wan tells him, with great satisfaction and pride. "Count Dooku is still alive, so will you be. There will be trial, and court, and justice, and law. We will do things properly, and people can decide your fate together. That's called democracy. That's how the order should have been, should always be."
+
+So this is how it ends.
+
+The guards that Palpatine called to come never enter, instead, when the troopers come into the chamber, they have torn down the imperial shoulder epaulets. Next to the chamber Dooku was confined in, they activated another force field to lock Palpatine in, waiting until the new order is set up and a trial is ready to conduct.
+
+Anakin clicks the datapad a few more times. And when they look out of the window, the city's screens are showing something new and bright -- the photo Obi-Wan took, of the large, wild, colorful wall painting of a pair of rainbow-colored wings.
+
+Except, now the wings are not limited to a simple plain wall in the Underground World, now they are everywhere, on all the screens, high and low, large and small, in every corner of the city. Anakin was right, the real art doesn't need decoding to understand, doesn't need translation to feel. The wings spread and hover and fly, and as if every pair of wings displayed in the city, is a life and a hope and a dream that a whole new world is coming, and in this world, freedom is not untouchable, art and expression is not forbidden, among everything else people wanted.
+
+"Can't believe we did it," Anakin says quietly, staring out of the window. Then he looks up, staring into the sky. It's still at dark, night hour right now.
+
+Obi-Wan stands next to him, shoulder to shoulder, looking at the same view, same city, same world. "You did it," he turns to glance at the boy that is no longer just a young, innocent artist, but a grown man, a leader, a revolutionist. "What are you going to do now?"
+
+Anakin shakes his head, but still keeps his eyes on the world, on the sky. "I don't know, and it's terrifying. I imagine people would want us to build the new world, but we'll definitely need more help, maybe starting with inviting all the wise people back."
+
+"I know perfectly who to ask. Master Yoda, for one, should be here." Obi-Wan nods approvingly.
+
+Anakin nods agreeingly. "But for now, I think I'll just stand here until the sun rises. For the first time, I want to see the real sky turning into the real blue, I want to know -- of all the time we paint the blue on the wall, to mean safe and free, how close we are."
+
+Obi-Wan glances at him again, hesitating, then deciding. "I'll leave you to it, then."
+
+He turns slowly, adding, "It's been really nice knowing you, Anakin."
+
+The young voice stops him behind his back, "You can call me 'Ani' now, if you want."
+
+"And one more thing, I'd like you stay here, when the sun rises and the sky turns blue."
+
+"I'd like that, too."
+
+So he stays.
 
 
-<br>
 
-#### draft notes
-
-###### [END]
+###### END
