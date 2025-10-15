@@ -76,13 +76,13 @@ It is a story about hope, rebellion, freedom, creation, and so much more. And of
 
 ### Editing Notes
 
-Both Obi-Wan and Anakin's eyes are blue, so when choose color code: blue = safe
+~~Both Obi-Wan and Anakin's eyes are blue, so when choose color code: blue = safe~~
 
-mention Force heal early on when training/showing what Force can do (foreshadowing for Force heal Anakin's cut hand)
+~~mention Force heal early on when training/showing what Force can do (foreshadowing for Force heal Anakin's cut hand)~~
 
-mention most of childhood friends early on, include them in later rebel group, represent "people"
+~~mention most of childhood friends early on, include them in later rebel group, represent "people"~~
 
-To speed up writing Obi-Wan's name, use "obiwan" in the initial writing (start with capital), global auto search-switch once all is finished
+~~To speed up writing Obi-Wan's name, use "obiwan" in the initial writing (start with capital), global auto search-switch once all is finished~~
 
 ## Main
 
@@ -1212,7 +1212,9 @@ Obi-Wan doesn't slow his steps.
 
 "He just needs some time." Obi-Wan hears Anakin answer.
 
-### Chap 6.5 (Slow burn/plan)
+<br>
+
+### Chap 7 (Slow burn/plan)
 
 > Obi-Wan faces choice again, whether to help them make assassination plan, he has struggles, but eventually makes the final decision to help them. There's no going back.
 >
@@ -1414,7 +1416,7 @@ The world falls into black a blink of an eye later.
 
 <br>
 
-### Chap 7 (Revolution)
+### Chap 8 (Revolution)
 
 > Obi-Wan gets captured/tortured/interrogated, very close to be prosecuted (charge of traitorous/treason), know there is info leak (graffiti encoding meaning is leaked, someone from inside might get turned, has rat; or Obi-Wan's personal datapad is monitored without him knowing, his photos of Anakin/graffiti/decoder sheet are found out), know rebels are in danger (Dooku is tasked to kill them all).
 >
@@ -1558,7 +1560,7 @@ Anakin clenches his jaw. "We'll see when the time comes. Now, take what we have.
 
 <br>
 
-### Chap 8 (Mutual Rescue)
+### Chap 9 (Mutual Rescue)
 
 > It turns out Obi-Wan manage to escape on his own (wounded but nonfatal), ready to leave to warn them, come back to rescue Anakin, the two kill Dooku. Obi-Wan uses Force heal to stabilize Anakin's handicapped hand, Anakin furious, desperate, fear can't paint again. Obi-Wan suggests retreat for now, Anakin insists see it through, now or never.
 
@@ -1810,7 +1812,7 @@ Obi-Wan thinks it's someone in Anakin's group tipped them off, actually it's his
 
 Dooku will try to use this to turn them against each other, try to make Anakin believe Obi-Wan betrayed them
 
-### Chap 9 (Success)
+### Chap 10 (Success)
 
 > The two back-to-back fight together, Anakin is forced to use left hand fighting, non-dominant hand but the move become unexpected, successfully kills Palpatine (trial? make use of the broadcasting time? reverse-hacked the monitored datapad, use it to broadcast)
 >
