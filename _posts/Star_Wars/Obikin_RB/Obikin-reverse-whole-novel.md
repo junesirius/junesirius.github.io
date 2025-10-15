@@ -1422,73 +1422,73 @@ The world falls into black a blink of an eye later.
 >
 > Anakin go into Imperial Palace with the group, has disagreement within team of whether the goal is mainly to rescue Obi-Wan or assassinate Palpatine, Anakin faces the option of either killing Palpatine or saving Obi-Wan, and chooses Obi-Wan, gets himself in danger (run into Dooku, fight, get his right hand cut, like canon).
 
-Obiwan wakes up to a dimly lit chamber inside confinement ray, his wrists and ankles locked into position by the ray, his neck and back sore from keeping the body together. The only thing he can move is his eyes.
+Obi-Wan wakes up to a dimly lit chamber inside confinement ray, his wrists and ankles locked into position by the ray, his neck and back sore from keeping the body together. The only thing he can move is his eyes.
 
 Someone stands just outside the peripheral of his eyes.
 
-"What's this about, Count Dooku?" Obiwan takes a guess and is proved right.
+"What's this about, Count Dooku?" Obi-Wan takes a guess and is proved right.
 
-The man walks into his view, wearing a facsimile of a mocking smile. "Obiwan Kenobi," he speaks in a lazy tone, his voice echoing through the claustrophobic space. Obiwan tries to figure out the size and possible location of this chamber just from the sound. "I knew you must be planning something, but I didn't think you would be idiotic enough to show up again."
+The man walks into his view, wearing a facsimile of a mocking smile. "Obi-Wan Kenobi," he speaks in a lazy tone, his voice echoing through the claustrophobic space. Obi-Wan tries to figure out the size and possible location of this chamber just from the sound. "I knew you must be planning something, but I didn't think you would be idiotic enough to show up again."
 
-Obiwan thinks fast. He doesn't think he left any trace or got followed, they don't have any proof. The Count must just try to intimidate him into spilling out the secrets. It's nothing more than a interrogation trick, and he wouldn't be fooled by that.
+Obi-Wan thinks fast. He doesn't think he left any trace or got followed, they don't have any proof. The Count must just try to intimidate him into spilling out the secrets. It's nothing more than a interrogation trick, and he wouldn't be fooled by that.
 
-He puts on an innocent face. "I don't know what you're talking about," Obiwan answers in a calm voice.
+He puts on an innocent face. "I don't know what you're talking about," Obi-Wan answers in a calm voice.
 
 "Oh really?" Dooku mocks. "So you're saying you didn't spend the past *weeks* looking for the wanted, keeping in touch with them, deciphering their code in the scribbles on the wall, and joining their meetings?"
 
-Obiwan's heart sinks, temperature dropping from his face. No way they get to guess all that just from nothing. The first thought comes to him is that they're betrayed from inside, fury and anger starting to burn inside him. Anakin trusts all those people, and half the Lower Level knows his plan. It can be anyone, and they are probably still right there, hiding in the crowd, joining the meetings like they're just one of them, all the while sharing all the information to Palpatine.
+Obi-Wan's heart sinks, temperature dropping from his face. No way they get to guess all that just from nothing. The first thought comes to him is that they're betrayed from inside, fury and anger starting to burn inside him. Anakin trusts all those people, and half the Lower Level knows his plan. It can be anyone, and they are probably still right there, hiding in the crowd, joining the meetings like they're just one of them, all the while sharing all the information to Palpatine.
 
-Obiwan freezes. Anakin will be in danger if he discusses his plan and starts attacking like that. The Palace will be prepared for him. The secret entrances will be guarded.
+Obi-Wan freezes. Anakin will be in danger if he discusses his plan and starts attacking like that. The Palace will be prepared for him. The secret entrances will be guarded.
 
 He grimaces, not wanting to think about what would happen after. But the image of the familiar horror from the battlefield, win or lose, is already rushing toward him like a tsunami wave, and the figures and bodies in those visions, are replaced by his new friends and those people he just started to know.
 
-Dooku studies his look closely. "Yes, Obiwan, we know, we know everything." He stretches each syllable and each word, as if each of them is physical, tangible, and he can stretch them into a rope to bind Obiwan round and round again. "It's foolish of you to even think we wouldn't find out."
+Dooku studies his look closely. "Yes, Obi-Wan, we know, we know everything." He stretches each syllable and each word, as if each of them is physical, tangible, and he can stretch them into a rope to bind Obi-Wan round and round again. "It's foolish of you to even think we wouldn't find out."
 
-"How?" Obiwan spits, not bothering to pretend anymore. His expression has probably already given away the admission anyway. But no way he wouldn't try to get some intel if he has to go through this. "Someone tipped you off?"
+"How?" Obi-Wan spits, not bothering to pretend anymore. His expression has probably already given away the admission anyway. But no way he wouldn't try to get some intel if he has to go through this. "Someone tipped you off?"
 
 Dooku walks around him, studying him from one side to the other, like a researcher studying his object. "You might say so."
 
-The worst suspicion is confirmed. *He needs to warn Anakin,* Obiwan thinks. *He needs to get out of here before they come in. He needs to save them.*
+The worst suspicion is confirmed. *He needs to warn Anakin,* Obi-Wan thinks. *He needs to get out of here before they come in. He needs to save them.*
 
 "I would worry about yourself first if I were you," Dooku comments.
 
-"You're reading my mind?" The horrifying thought strikes Obiwan. He takes a second to consider the possibility -- Yes, that's definitely possible. He has to focus hard to try to put up a wall in his head.
+"You're reading my mind?" The horrifying thought strikes Obi-Wan. He takes a second to consider the possibility -- Yes, that's definitely possible. He has to focus hard to try to put up a wall in his head.
 
 "I don't need to." Dooku informs him with a sound of satisfaction under his tone. "Just look at you. You're writing everything on your face."
 
-Obiwan sets his jaw tight, not answering.
+Obi-Wan sets his jaw tight, not answering.
 
 Dooku takes a turn when he reaches the other side, moving back to stand right in front of him.
 
-Obiwan is hanged higher above the ground, having to drop his eyes to keep the Count in his vision. He glares at the man, but Dooku doesn't seem to notice.
+Obi-Wan is hanged higher above the ground, having to drop his eyes to keep the Count in his vision. He glares at the man, but Dooku doesn't seem to notice.
 
 "Now, chat time is over. It's Question and Answer time," Dooku announces. "You can make it easy, or play tough and loyal, and make it difficult. It's your choice. But either way, I will get the answer. Are we clear?"
 
-Obiwan just glares at him harder, as his answer.
+Obi-Wan just glares at him harder, as his answer.
 
 "Where are the rebels?" Dooku asks, almost in a kind and gentle tone.
 
-"I don't know," Obiwan says.
+"I don't know," Obi-Wan says.
 
-"So we're doing this the hard way, I see." Dooku says lazily, walking out of his sight. Obiwan hears the ticks of a machine nearby.
+"So we're doing this the hard way, I see." Dooku says lazily, walking out of his sight. Obi-Wan hears the ticks of a machine nearby.
 
 A few ticking sound, like one tunes the knob on an old device, and the beams arounds him start heating up. The forces around his hands and legs are contracting, menacing to tear his body up.
 
 "Shall we try that again? Where are the rebels? What are they planning to do?" Dooku demands.
 
-Obiwan can feel heat and burning sensation starts accumulating on his skin. It's different from pure temperature increasing, there must be something else in the ray, enlarging the sensibility of his sensations. He can feel the electricity in the ray, piercing through his skin like thinnest needles, biting his bone like countless ants eating him up from inside. His heart contracts reflexively in fear.
+Obi-Wan can feel heat and burning sensation starts accumulating on his skin. It's different from pure temperature increasing, there must be something else in the ray, enlarging the sensibility of his sensations. He can feel the electricity in the ray, piercing through his skin like thinnest needles, biting his bone like countless ants eating him up from inside. His heart contracts reflexively in fear.
 
-"I don't know!" Obiwan clenches his teeth to bear the sensation. It's more than just pain. It's as if all the sensors in his body have been triggered to be used against his brain. His brain is too confused to parse them, too distracted to keep up the wall and attention. Obiwan closes his eyes to fight against it.
+"I don't know!" Obi-Wan clenches his teeth to bear the sensation. It's more than just pain. It's as if all the sensors in his body have been triggered to be used against his brain. His brain is too confused to parse them, too distracted to keep up the wall and attention. Obi-Wan closes his eyes to fight against it.
 
 "Well, well, looks like it's going to be a long day." Dooku says, turning the knobs again. More heat, more needles, more electricity. More pain. "Just remember, everyone has a breaking point, sooner or later, your body will give up, so is your mind. I can wait until then."
 
-Obiwan thinks miserably, *He might have to miss the meeting with Anakin now. The boy might be disappointed.*
+Obi-Wan thinks miserably, *He might have to miss the meeting with Anakin now. The boy might be disappointed.*
 
 <br>
 
 Anakin is pacing up and down the old factory floor impatiently.
 
-It's already an hour after the scheduled meeting time, and Obiwan still hasn't showed up.
+It's already an hour after the scheduled meeting time, and Obi-Wan still hasn't showed up.
 
 "He's probably not coming, Ani. We should start," Amee suggests nervously.
 
@@ -1518,15 +1518,15 @@ The vision behind the closed eyelids is pure black at first. Empty. Nothing.
 
 "Focus, Ani. If he's in trouble, maybe this is the only way we can find out what happened." Amee says. "He'll need our help -- your help."
 
-*Obiwan needs me.* That specific thought clears the mind of all the other noises and drifting thoughts. The vision brightens up, as if he finally manages to open the eyes that he's always kept closed. It's still vague, like looking at a painting from across the street through the heaviest fog. But the shapes and colors are forming.
+*Obi-Wan needs me.* That specific thought clears the mind of all the other noises and drifting thoughts. The vision brightens up, as if he finally manages to open the eyes that he's always kept closed. It's still vague, like looking at a painting from across the street through the heaviest fog. But the shapes and colors are forming.
 
-*Obiwan!* Anakin tries to move toward the shapes. But the shapes are moving too, leaving him like a floating paper ship on the rapid stream, like a dream ready to wake up.
+*Obi-Wan!* Anakin tries to move toward the shapes. But the shapes are moving too, leaving him like a floating paper ship on the rapid stream, like a dream ready to wake up.
 
 The color turns red around him. Like blood, like flame, thick and sluggish, smelling of rusty iron.
 
 Voices start coming through. Some laughter, deep and cold, snaky and uncomfortable; more yells of pain, through clenched teeth, through broken borns.
 
-He senses pain, worry, and a touch of fear, like sensing a coming storm at the edge of the sky; he senses guilt and regret, like sensing the coming of a high wave from a roaring sea. And there is something else, like a turbulence under the current, a fluster in the wind, a sprout showing in the middle of a winter, untimely, delicate, and utterly different from everything else that's rushing around in the Force. It's like a calling, so strong that it's pulling him step deeper and closer. So he trudges through the foggy red and black, moving through the pain and yelling. There, in the deep and afar, he sees -- no, he feels -- the color of blue. Faint and pale that it's almost turning into white, but it's a hint of blue, like the color of Obiwan's eyes. It doesn't make sense, but it's also all starting to make sense now.
+He senses pain, worry, and a touch of fear, like sensing a coming storm at the edge of the sky; he senses guilt and regret, like sensing the coming of a high wave from a roaring sea. And there is something else, like a turbulence under the current, a fluster in the wind, a sprout showing in the middle of a winter, untimely, delicate, and utterly different from everything else that's rushing around in the Force. It's like a calling, so strong that it's pulling him step deeper and closer. So he trudges through the foggy red and black, moving through the pain and yelling. There, in the deep and afar, he sees -- no, he feels -- the color of blue. Faint and pale that it's almost turning into white, but it's a hint of blue, like the color of Obi-Wan's eyes. It doesn't make sense, but it's also all starting to make sense now.
 
 Anakin snaps open his eyes. "They captured him." He jumps to his feet. "We have to go now. To save him."
 
@@ -1544,7 +1544,7 @@ Anakin shakes his head. "I felt it. There are all these feelings and colors. I c
 
 "Imperial Palace, I think," Anakin pauses for a second. "I hope." Even he has to admit that's weak.
 
-"I take it 'hope' is all we can get now." Kitster sighs. "What about the plan? The weapons? We didn't expect to take the action so soon. We're not ready. Hell, even you're not ready. Obiwan said you should have more training."
+"I take it 'hope' is all we can get now." Kitster sighs. "What about the plan? The weapons? We didn't expect to take the action so soon. We're not ready. Hell, even you're not ready. Obi-Wan said you should have more training."
 
 "Well, we didn't expect him to be captured, did we?" Anakin counters.
 
@@ -1552,25 +1552,13 @@ Kitster frowns at him, folding his arms. "The mission, are we talking about carr
 
 Anakin swallows. "Now we do."
 
-"We don't have enough people, or enough anything, to pull one mission off, let alone two. We might have to choose," Kitster points out sharply. "When the time comes, you might have to decide if you want to save him, or do what all of us always wanted, for the best of everyone."
+"We don't have enough people, or enough anything, to pull one mission off, let alone two. We'll have to choose," Kitster points out sharply. "When the time comes, you'll have to decide if you want to save him, or do what all of us always wanted, for the best of everyone. Don't make the wrong choice, Anakin!"
 
 Anakin clenches his jaw. "We'll see when the time comes. Now, take what we have. Let's go."
 
 <br>
 
-
-
-<br>
-
-###### [TBA]
-
 #### draft notes
-
-> Anakin go into Imperial Palace with the group, has disagreement within team of whether the goal is mainly to rescue Obi-Wan or assassinate Palpatine, Anakin faces the option of either killing Palpatine or saving Obi-Wan, and chooses Obi-Wan, gets himself in danger (run into Dooku, fight, get his right hand cut, like canon).
-
-> Obi-Wan meanwhile acts as their double agent in Jedi and near Palpatine. They planned to wait until Anakin is ready to make the final move on Palpatine, but Obi-Wan is already suspected by Palpatine
->
-> Obi-Wan gets captured/tortured/interrogated, very close to be prosecuted (charge of traitorous/treason), know there is info leak (graffiti encoding meaning is leaked, someone from inside might get turned, has rat; or Obi-Wan's personal datapad is monitored without him knowing, his photos of Anakin/graffiti/decoder sheet are found out), know rebels are in danger (Dooku is tasked to kill them all).
 
 ### Chap 8 (Mutual Rescue)
 
@@ -1580,7 +1568,21 @@ Anakin clenches his jaw. "We'll see when the time comes. Now, take what we have.
 
 <br>
 
+###### [TBA]
+
 #### draft notes
+
+> Anakin goes into Imperial Palace, searches for Obi-Wan, uses Force to sense him.
+>
+> Anakin faces the option of either going after Palpatine or saving Obi-Wan. He chooses Obi-Wan, gets himself in danger (runs into Dooku, fights, gets his right hand cut, like canon)
+>
+> It turns out Obi-Wan managed to escape on his own (wounded but nonfatal), ready to leave to warn them, come back to rescue Anakin, the two kill Dooku.
+>
+> Obi-Wan uses Force heal to stabilize Anakin's handicapped hand, Anakin furious, desperate, fear can't paint again. Obi-Wan suggests retreat for now, Anakin insists see it through, now or never.
+
+Obi-Wan thinks it's someone in Anakin's group tipped them off, actually it's his own datapad being hacked and monitored, thus the info leak is limited to the photos he took before: the decoding sheet, the wall paint, the first gathering meeting
+
+Dooku will try to use this to turn them against each other, try to make Anakin believe Obi-Wan betrayed them
 
 ### Chap 9 (Success)
 
