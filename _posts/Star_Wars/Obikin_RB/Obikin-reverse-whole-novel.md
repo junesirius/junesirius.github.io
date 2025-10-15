@@ -10,9 +10,9 @@ origin: 2025 Obikin Reverse Bang
 published: false
 ---
 
-Tags: canon divergent, canon world, AU, slow burn, get together, choose each other every time, rebellion, artist for liberation, fight for freedom, rebel against empire, enemy to friend, hopeful ending
+Tags: canon divergent, AU, slow burn, get together, choose each other every time, rebellion, artist for liberation, fight for freedom, rebel against empire, enemy to friend, hopeful ending
 
-Warning: Graphic depictions of violence (?)
+Warning: No archive warnings apply
 
 Rating: General
 
@@ -426,7 +426,7 @@ Obi-Wan swallows hard as he listens.
 
 *These are just people.* He thinks, astonished and uncharacteristically upset, behind the column, in the shadow he hides, just like the shadow those people are used to live in. These are just ordinary people trying so hard to have a life, and the Empire is squeezing their living space, suffocating them mentally and physically.
 
-He doesn't realize since when has he started clenching his fist or biting on his teeth, or what's that for. He forces his fists and jaws to relax, and continues listening. He's still a Jedi for this galaxy, after all. Surely maintaining a peaceful galaxy is more important than one poor kid or one old man. His job tonight is still to follow the order and arrest the dangerous rebel forces, led by none other then the familiar one who has a young voice and a familiar slim figure.
+He doesn't realize since when has he started clenching his fist or biting on his teeth, or what's that for. He forces his fists and jaws to relax, and continues listening. He's still a Jedi for this galaxy, after all. Surely maintaining a peaceful galaxy is more important than one poor kid or one old man. His job tonight is still to follow the order and arrest the dangerous rebel forces, led by none other then the familiar one who has a young voice and a familiar slender figure.
 
 Obi-Wan stares at the boy -- a young man actually, he looks more like a leader now, standing before the group, soothing them with soft voice, giving them instructions of how to fix some of the difficulties -- how to fix a tool that's broken, who to ask for medical advices, what to do to release a pain, what they're short of and where they might find, and many more. Anakin is still in his art-smudged hooded jacket, but the whole vibe radiating from him seems so different -- less of a dreamy naughty artist, but a responsible leader that actually cares about people, helps people. Except, undoubtedly, evidently, he *is* a rebellion force now, from the Empire's perspective, gathering secret assemblies, encouraging the complaints toward the Empire, disassembling the hard-earned peace the Empire is trying to maintain. There is no defense for that.
 
@@ -1524,7 +1524,7 @@ The vision behind the closed eyelids is pure black at first. Empty. Nothing.
 
 The color turns red around him. Like blood, like flame, thick and sluggish, smelling of rusty iron.
 
-Voices start coming through. Some laughter, deep and cold, snaky and uncomfortable; more yells of pain, through clenched teeth, through broken borns.
+Voices start coming through. Some laughter, deep and cold, snaky and uncomfortable; more yells of pain, through clenched teeth, through broken bones.
 
 He senses pain, worry, and a touch of fear, like sensing a coming storm at the edge of the sky; he senses guilt and regret, like sensing the coming of a high wave from a roaring sea. And there is something else, like a turbulence under the current, a fluster in the wind, a sprout showing in the middle of a winter, untimely, delicate, and utterly different from everything else that's rushing around in the Force. It's like a calling, so strong that it's pulling him step deeper and closer. So he trudges through the foggy red and black, moving through the pain and yelling. There, in the deep and afar, he sees -- no, he feels -- the color of blue. Faint and pale that it's almost turning into white, but it's a hint of blue, like the color of Obi-Wan's eyes. It doesn't make sense, but it's also all starting to make sense now.
 
@@ -1544,7 +1544,7 @@ Anakin shakes his head. "I felt it. There are all these feelings and colors. I c
 
 "Imperial Palace, I think," Anakin pauses for a second. "I hope." Even he has to admit that's weak.
 
-"I take it 'hope' is all we can get now." Kitster sighs. "What about the plan? The weapons? We didn't expect to take the action so soon. We're not ready. Hell, even you're not ready. Obi-Wan said you should have more training."
+"I take it 'hope' is all we can get now." Kitster sighs. "What about the plan? The weapons? The training? We didn't expect to take the action so soon. We're not ready. Hell, even you're not ready. Obi-Wan said you should have more training."
 
 "Well, we didn't expect him to be captured, did we?" Anakin counters.
 
@@ -1558,13 +1558,249 @@ Anakin clenches his jaw. "We'll see when the time comes. Now, take what we have.
 
 <br>
 
-#### draft notes
-
 ### Chap 8 (Mutual Rescue)
 
 > It turns out Obi-Wan manage to escape on his own (wounded but nonfatal), ready to leave to warn them, come back to rescue Anakin, the two kill Dooku. Obi-Wan uses Force heal to stabilize Anakin's handicapped hand, Anakin furious, desperate, fear can't paint again. Obi-Wan suggests retreat for now, Anakin insists see it through, now or never.
 
+This is the first time many of them ever come to above the Ground Level. The sky is a deep purple canopy, close to black, but different from what they used to see in the Lower Level -- it's real. All the buildings are as tall and straight as towers soaring toward the sky. Speeders and shuttles fly above their heads, busy across the city. Lights from the skyscrapers and moving vehicles are as bright as the stars, let alone all the blinding electrical screens and commercials playing in loop. They have to blink to adjust the level of the lightings.
 
+It's close to the broadcasting hour now. And soon it will be curfew. People must be hurrying to home, if they have to guess. But the city is still more busy and vibrant than the Lower Level ever is.
+
+On the brighter side, it gives them perfect cover to move around.
+
+Though, Anakin has to remind the group to focus.
+
+"Stop staring," he warns them, "we're not here for sightseeing, we have a job to do."
+
+Amee closes her gaping mouth. And Wald has to really make an effort to tear his eyes away from the buildings. Kitster, however, is dedicated, moving toward the tallest, brightest building in the distance -- the Imperial Palace, without giving this life that doesn't belong to them a second look. Anakin rushes right next to him, not daring to waste any time.
+
+They find a row of parked speeders at the foot of a restaurant, and Anakin "borrows" them. The group -- it's a dozen of them, all the fitting age, men and women -- splits into several vehicles to head toward the Palace.
+
+The lighting and architecture of the Palace looks more intimidating as they move closer. It towers above the ground, making the buildings around it look low and invisible. It's golden exterior must look more astounding under the day light.
+
+The Palace is more like a fortress than a palace, Anakin realizes. The name is a little misleading.
+
+The regular rectangular shape of its base means every side would be equally difficult to approach, and like Obi-Wan warned them, impossible to get close without being noticed by the patrols.
+
+Anakin tries to figure out the location of the sewage outlet Obi-Wan drew him on that scratch.
+
+"We need some distractions," he murmurs.
+
+Wald jumps to volunteer. "On it."
+
+"Careful," Anakin urges, before he moves away from the group.
+
+The ground shakes when the explosion breaks out at the foot of the Palace. The emergency alarm rings out, and the troops rush to the explosion point. But it's not a bomb, but an exploded painting can. The colors outburst from the explosion and splash on the outer wall, marking the neat exterior with rainbow color. The tiny black dot that must be Wald stands in the bare ground, shooting paints from his painting gun, writing a message on the wall that they can see even from the distance -- he starts with the first stroke of the letter "F".
+
+"Now!" Anakin commands, and leads the team to charge toward the opposite side of the Palace that is now clear of the patrol.
+
+They find the sewage outlet and climb in, moving through the draining pipe, shifting to the exhaust pipe once they reach the closest crossing point. The alarm from the outside is quieter now.
+
+Each level of the Palace is guarded, more droids and armed troopers patrolling along the otherwise quiet corridors.
+
+"We have to split," Anakin whispers under his breath. The place is too big, and it's only a matter of time someone from the inside realizes the break-in. "I don't know where the interrogation room is."
+
+"But we know where the throne room is," Kitster says, also trying to keep his low, but his tone is sharp. "The very top. We should go straight there."
+
+It only takes Anakin a heartbeat to make the decision. "You do that," he says. "The rest of you, follow Kitster. I know you've all been waiting for this moment. I'll come to you when I can."
+
+They don't need to ask why.
+
+"Be careful." Amee gives him a half-hug, as close as they can manage from the crawling posture in the tight pipe. There's unshreded tears and unsaid farewell in her tones, but she manages to keep them down. Anakin pats her back.
+
+"I'll see you in a minute," he promises.
+
+The team nods simply, and Kitster leads the way upward.
+
+Anakin shifts his attention to the endless, long corridors of each level and examines the patrols carefully. He extends his feelings out, feeling the fluster in the Force in this cold, metallic building, looking for anything warm and familiar.
+
+It's a slow process, but the Force answers to him.
+
+Obi-Wan is here, somewhere, he knows it, he can feel it. He just needs to get closer, he just needs to know where.
+
+*Where are you, old man? Give me a signal. Do something, make this easier for me.* Anakin grits his teeth, forcing his mind's eyes to see farther, to sense more. He can sense the taste of ammunitions and weaponries permeating the majority of the place; in some level, chemicals are stronger than others. He pauses at the level where he thinks he hears heartbeats of living things. But they're faster than any humans or any races.
+
+Anakin debates for a second if he should go to check it out, and save them, whatever they are, when a wave of Force moves grandly, as if a mountain crashes into the sea. Emotions pass through the Force a beat slower, and he senses a shock of pain. The thin thread of calling and pulling, just tightens a degree harder.
+
+He's getting closer.
+
+Anakin picks up his pace until he stops where he's sure the Force directs him to. He doesn't pay enough attention to the exact number of the level he moves, but it must be high. He wonders how close it is to the throne room, and how much time has passed. But he pushes the thought aside for now.
+
+There are less droids in this level, but the troopers are more heavily armed. The rooms along the corridors are barred with heavy metals, controlled by electrical pads by the door.
+
+Anakin's eyes linger on one of them, where the feeling is the strongest, where the Force is the strongest. His heart starts speeding up. Obi-Wan must be there.
+
+The door slides open after he spends another minute hacking the electrical keypad violently. At this point, he doesn't care about being found out anymore. The chamber inside is dark and tiny, with a cylinder shape in the middle, lit by beam rays, trapping a man. The figure has his back facing the door, the lights around his ankles and wrists are stronger than anywhere else, presumably the main sources that trapped him there. His head drops low, outside of the view from where Anakin stands, and his whole body looks slumpy and tired. There seem to be hint of blood on his back, too, but it might also be the trick of the light.
+
+"Obi-Wan!" Anakin blurts out, dashing to the other side of the room, jaws tight. Relief of seeing him and misery of finding him like this crash onto him at the same time.
+
+But he stuns the moment he winds to the front.
+
+The hologram of Obi-Wan flickers twice like a TV with bad signal, before it blinking into nothing. The confinement structure stands still with no one in the middle, and Anakin finds himself run right into a man in a dark cloak.
+
+The man everyone in the Galaxy knows the name and hates, the man that always stand right by the Emperor's side, giving his council and doing his bidding -- The infamous Count Dooku.
+
+"Look who we got here," Dooku takes a step toward him. A lightsaber buzzes into life, adding crimson light to the dim space.
+
+"Count Dooku," Anakin grips the blast gun in his hand. Obi-Wan promised he would find him a lightsaber once he's ready, but they never get chance. So now, the blast gun is his only weapon, apart from a handy blade. He could have picked a few more, but when they were preparing and packing, he left the rest of the guns to everyone else -- they might need it more than he does.
+
+Aiming the gun at Dooku's heart, Anakin's hand shakes. He's never killed anyone before. Even as they discussed the plan, it always sounded like just a concept -- the real execution of assassination, the part that involves death and blood, the part that taking a life by your hand. Anakin steadies his right hand by his left.
+
+Dooku observes his every move closely, putting a feigned kindness on his face, "You must be the artist. Obi-Wan told me all about you, how you created the graffiti, what each pattern and color mean. That's quite clever, I have to say."
+
+Anakin's heart sinks. *No,* he tells himself. *Obi-Wan is not the traitor.*
+
+Kitster's voice echoes at the back of his head. *Have you ever considered maybe he's betrayed us? Tipped us off and he's just waiting for us to rush into the traps right about now?*
+
+"No!" Anakin bites out loudly, aiming the gun a little higher. Dooku doesn't even twist his eyebrows, barely glancing at his gun as if it's nothing more than a toy.
+
+"Are you sure?" Dooku taunts. "How long have you known him? A week? Two weeks? He has been with us, training and living in this place since three."
+
+Anakin grits his teeth so hard that he can hear his own jaw bones shifting and muscles tightening right next to his ears. "It doesn't matter. It's not about him. It's about you."
+
+"Is that so?" Dooku tilts his head, as if regarding an interesting exotic collection. "Then why are you here? You sensed his existence, did you not?"
+
+"What have you done to him?" Anakin blurts out before he can stop himself.
+
+"I killed him, of course." Dooku says carelessly, as if he just squashed an insect. He nods at a lightsaber hilt on the side table next to the containment field.
+
+Rage overwhelms Anakin so quickly that his vision turns bloody for a split second. He opens shot.
+
+Dooku tilts his body slightly, letting the bullet fly past him. Using that blink of distraction, Anakin lunges to the table to grab Obi-Wan's lightsaber, and clicks it to life.
+
+The blue fills the room along with the buzzing. Anakin holds it in the way Obi-Wan taught him.
+
+Dooku checks out his stance and gives him an approving nod. "Obi-Wan taught you well," he grins, swaying his saber for attack. "Let's see how's your fighting skills."
+
+Anakin meets the fight head-on. The two-hour training wasn't enough to prepare him with any real skills. He fights intuitively.
+
+He manages to block most of the attacks, or even strikes a few times. But that's about all the intuition can help him -- barely keep him not be killed.
+
+Dooku takes a step closer, and Anakin has to take a step back to keep himself out of harm's way. Yet still, his cloth and skin are cut more times than he can count. Blood drips across his cheeks, shoulders, arms, and back. His moves are getting slower and slower.
+
+"Force is strong with you, kid." Dooku doesn't give him a moment of breath, closing in quickly. Anakin jumps aside when he's forced to the wall, the next blow stabs right through the wall where his heart was. He has to duck and jump and dodge, it's probably more like a cat-like playing-with-food game than a real fight, Anakin knows he doesn't stand a chance to win. Like Obi-Wan said, like everyone said, he's not ready. And he hates that they seem to be right.
+
+"Come join us," Dooku offers with a smile, as if it's a kindness. "We can use someone like you. We can train you properly."
+
+"I'd rather die," Anakin spits, waving the saber in an outreaching position, predicting where the next strike will be.
+
+"So be it," Dooku answers darkly, shifting the trajectory of his lightsaber suddenly, chopping down in the middle where Anakin's right arm extends.
+
+A shrieking scream breaks out in the room as the blue lightsaber drops to the floor. The pitch is so high with pain that any glass might explode in vibration. Anakin holds his right arm in his chest, yelling in pain and agony. The pain is so sharp at the end of the wrist that his whole body shivers with shock. Blood gushes out of the missing end of the limb, losing so fast that he feels cold within seconds. Darkness with flashing stars threatens to take over the vision.
+
+That's when the door bursts open from outside.
+
+Anakin hears his name is called by the newcomer, but his brain seems to be slowing down in processing new information as well.
+
+"Focus, Anakin, stay with me," the voice calls his name right in front of his face. A cold hand touches his cheek. "Anakin!"
+
+"Obi-Wan?" Anakin answers tiredly, dully thinking if it's a vision his dying brain is trying to supply one last time. At least it's a nice face to look at.
+
+Anakin tries to open his heavy eyelids, then his brain catches up. "Traitor." He tries to lean away.
+
+The hand shaking him stills for a second, but it doesn't moves away. A warm current moves from the palm that lands on his forearm and flows toward the pain that's screaming at the end of that limb where his right hand should be.
+
+"Use the Force, Anakin. Focus, and use the Force." Obi-Wan murmurs.
+
+The pain quiets down as the current wraps him like a cradle.
+
+Anakin opens his eyes.
+
+The man is kneeling before him, one hand holding his back, the other on his forearm. The blood has been stopped.
+
+"You shouldn't come back, Obi-Wan. That's the most stupid thing I've ever seen," Dooku says behind them, grinning humorlessly. "Now you both will die."
+
+"I just suddenly remember I missed something and have to pick it up," Obi-Wan says lightly, gently laying Anakin down and standing up. He holds out a hand toward his lightsaber, and it flies into his palm.
+
+Dooku's attack already resumes. The strikes are restless. Obi-Wan blocks most of them seamlessly, but for the rest, he dodges by walking back step by step. Dooku advances in his attack.
+
+"More important than your own life?" His taunting doesn't stop either.
+
+Obi-Wan smiles at that. "What can I say? A close friend reminded me lately, there is something worth dying for. And that's not empire."
+
+He dances on the rim of the force containment field, swinging under the attack.
+
+Dooku steps up the rim to get a stronger attack strike.
+
+"You picked the wrong side, Obi-Wan," Dooku says coldly.
+
+"And you, dear Count, picked the wrong side to stand." Obi-Wan winks, throwing his lightsaber over Dooku's head.
+
+Dooku barely has time to stop the missing hit and turn around, before Anakin appears to stand behind him, grabbing the flying lightsaber with his left hand, and stabs it through Dooku's right shoulder.
+
+"A friend taught me this one," Anakin says grimly. "And believe me, I know how much this hurts."
+
+Dooku falls backward, collapsing right into the containment beam. The force cuffs fly to his wrists and ankles, locking him in the floating position immediately. Obi-Wan hurries to the control panel to tune up the force field.
+
+Dooku tries to struggle, but the energy bindings don't give way.
+
+"Save it, Dooku, you know how good these are. You built them yourself, didn't you?" Obi-Wan picks up the red lightsaber and deactivates it. "It's over."
+
+Dooku grumbles with low curses.
+
+Anakin leans back over the control table, out of breath.
+
+"We should go now," Obi-Wan reaches a hand to let Anakin borrow, but the boy doesn't take it. Obi-Wan turns to him, finding his sad eyes on him.
+
+"You should go," Anakin says, more misery than fury, holding his right arm closer.
+
+"What?" Obi-Wan doesn't understand.
+
+"I'm useless now anyway. Can't paint anymore. But there's another thing I can do to this building, and you don't want to be in it." Anakin averts his eyes.
+
+"If you're talking about that hand, we have ways to fix it. I already used the Force to stabilize it, I have some friend who can fix it." Obi-Wan says, then his tone turns stern. "Don't you dare talking about giving up now. I didn't come back to leave you behind."
+
+"You came back for me?" Anakin asks blankly, almost unbelievably. "There I was, thinking I'm here to rescue you."
+
+Obi-Wan almost chuckles. "Took me a while and some broken bones, but yes, I managed to get out. Just on my way to warn you there might be traitors among us, and then I saw your art work on the wall out there. Then I knew you must already be in here."
+
+"The wall?" Anakin frowns for a second, then remembers. "Oh, that's Wald."
+
+"It has your signature," Obi-Wan tells him with a faint smile. "Then I felt you -- that huge pain in the Force scared me so much, I was afraid I might be too late, but it also helped me locate you. Imagine my surprise to find you in my old chamber."
+
+"Imagine *my* surprise to find you don't even need my rescue." Anakin retorts weakly.
+
+"Don't be too disappointed, you can save me next time," Obi-Wan smiles.
+
+They start moving outside. Obi-Wan leads the way, introducing secret passageways and back doors where no patrols pass. They lower their volume but not stop talking.
+
+"I knew these paths my whole life, and never have I thought about one day they'll be used for sneaking myself out." Obi-Wan exclaims.
+
+"Wait, what?" Anakin stops his steps. "We're not retreating."
+
+"Yes, we are." Obi-Wan meets his eyes. "You're in no condition to fight. We'd consider it lucky to get out alive."
+
+"No! We see it through. We win, or we lose. I don't think we'll get another chance to hit again." Anakin raises his voice, but remembering they're still trying to be stealth, turning it into a rushed whisper. "And the rest of them are still here. I'm not the kind of person sending my friends to death and going back home alone and alive."
+
+Obi-Wan looks at him intensely for a long moment before finally nodding and turning to a different corridor.
+
+"Speaking of, who comes with you? I'm worried someone you trusted might mean you harm."
+
+"No, I trust all of them," Anakin insists. "No one would."
+
+Obi-Wan sighs. "That's why they're called traitors. It wouldn't be a betrayal if you didn't trust them. Think, Anakin, anyone can be."
+
+"Like you?" Anakin asks with a straight face.
+
+Obi-Wan stills again, watches his face carefully. "I swear it's not me. But I guess everyone would say that."
+
+"I know," Anakin answers easily. "But I have to admit, for a second when Dooku said he knew about the decoding message, I really considered it might be you."
+
+"How do you know it's not?"
+
+"The same way I know I can trust everyone else, I can feel it. And also, the answer is actually quite obvious, once you figured it out."
+
+Obi-Wan frowns. "Enlighten me."
+
+"That's why you need me." Anakin curves his lips smirkingly. "You see, Dooku only knows 'I'm the artist', but not my name; he knows the decoding message, but not the actual meeting content. All his information comes from visual, but not vocal. And those are the exact photos you have in your datapad, I bet they hacked and started monitoring it long before you know."
+
+Obi-Wan stares at him in disbelief. "I should know." He takes out his datapad and ready to throw it away, but Anakin stops him.
+
+"No, wait, maybe we can use that." He takes over the datapad and starts typing single-handedly.
+
+Obi-Wan glances at him. "What are you doing?"
+
+"Reverse-hacking them," Anakin looks up with excitement in his eyes. "I just have an idea. We might not have to *fight* them to win. How long do we have until the daily broadcasting?"
 
 <br>
 
@@ -1572,21 +1808,17 @@ Anakin clenches his jaw. "We'll see when the time comes. Now, take what we have.
 
 #### draft notes
 
-> Anakin goes into Imperial Palace, searches for Obi-Wan, uses Force to sense him.
->
-> Anakin faces the option of either going after Palpatine or saving Obi-Wan. He chooses Obi-Wan, gets himself in danger (runs into Dooku, fights, gets his right hand cut, like canon)
->
-> It turns out Obi-Wan managed to escape on his own (wounded but nonfatal), ready to leave to warn them, come back to rescue Anakin, the two kill Dooku.
->
-> Obi-Wan uses Force heal to stabilize Anakin's handicapped hand, Anakin furious, desperate, fear can't paint again. Obi-Wan suggests retreat for now, Anakin insists see it through, now or never.
-
 Obi-Wan thinks it's someone in Anakin's group tipped them off, actually it's his own datapad being hacked and monitored, thus the info leak is limited to the photos he took before: the decoding sheet, the wall paint, the first gathering meeting
 
 Dooku will try to use this to turn them against each other, try to make Anakin believe Obi-Wan betrayed them
 
 ### Chap 9 (Success)
 
-> The two back-to-back fight together, Anakin is forced to use left hand fighting, non-dominant hand but the move become unexpected, successfully kills Palpatine, they liberate the city, announce empire falls by drawing a huge blue graffiti on wall saying "Free". people want them be new leaders, they suggest building new Republic but need more help, sending out invite to hidden Jedi/senators in all plantes, inviting more wise people to reestablish democracy (e.g. look for Yoda, etc.). There are more work need to be done to build the new order, but good thing that they have each other. It's a new beginning for the whole galaxy and for the two of them.
+> The two back-to-back fight together, Anakin is forced to use left hand fighting, non-dominant hand but the move become unexpected, successfully kills Palpatine (trial? make use of the broadcasting time? reverse-hacked the monitored datapad, use it to broadcast)
+>
+> they liberate the city, announce empire falls by drawing a huge blue graffiti on wall saying "Free". people want them be new leaders, they suggest building new Republic but need more help, sending out invite to hidden Jedi/senators in all plantes, inviting more wise people to reestablish democracy (e.g. look for Yoda, etc.).
+>
+> There are more work need to be done to build the new order, but good thing that they have each other. It's a new beginning for the whole galaxy and for the two of them.
 
 
 
