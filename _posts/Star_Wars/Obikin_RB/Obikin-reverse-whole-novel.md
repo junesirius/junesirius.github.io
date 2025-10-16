@@ -1863,7 +1863,7 @@ Dooku will try to use this to turn them against each other, try to make Anakin b
 
 > The two back-to-back fight together, Anakin is forced to use left hand fighting, non-dominant hand but the move become unexpected, successfully kills Palpatine (trial? make use of the broadcasting time? reverse-hacked the monitored datapad, use it to broadcast)
 >
-> they liberate the city, announce empire falls by drawing a huge blue graffiti on wall saying "Free". people want them be new leaders, they suggest building new Republic but need more help, sending out invite to hidden Jedi/senators in all plantes, inviting more wise people to reestablish democracy (e.g. look for Yoda, etc.).
+> they liberate the city, announce empire falls by drawing a huge blue graffiti on wall saying "Free". people want them be new leaders, they suggest building new Republic but need more help, sending out invite to hidden Jedi/senators in all planets, inviting more wise people to reestablish democracy (e.g. look for Yoda, etc.).
 >
 > There are more work need to be done to build the new order, but good thing that they have each other. It's a new beginning for the whole galaxy and for the two of them.
 
