@@ -108,7 +108,7 @@ He is a Jedi that serves this galaxy, be it Republic or Empire, his duty remains
 
 He still turns away from the window when the speech begins. Light shifts outside his window, casting colorful shadows on the opposite wall. He stands in the dark, listening, with his eyes trained on the wall.
 
-The announcement is almost predictable every day -- start with a warm and kind greeting from Emperor Palpatine, talking about how valuable peace and quietness in the city and the galaxy is, after the three-year-long Clone Wars, and the necessity of the Order 66 of removing the traitors to ensure the remaining Jedi are all loyal and serving. The galaxy is not yet in a stable state; there are still rebellions and separatists that are wishing to see the empire break apart, see people's lives suffer in wars. And Coruscant, as the capital, is undoubtedly their first target. That is why the strict martial order is still necessary in the city; the curfew is at eight, any violation of the order will be arrested; any expression that endangers the safety of the empire will be arrested. If, upon investigation, such violations are fount guilty, the involved personnel will be executed. Everything is for the safety of the empire and all the lawful citizens living under the empire's protection. Ending with "Enjoy a good night. Long live the Galactic Empire."
+The announcement is almost predictable every day -- start with a warm and kind greeting from Emperor Palpatine, talking about how valuable peace and quietness in the city and the galaxy is, after the three-year-long Clone Wars, and the necessity of the Order 66 of removing the traitors to ensure the remaining Jedi are all loyal and serving. The galaxy is not yet in a stable state; there are still rebellions and separatists that are wishing to see the empire break apart, see people's lives suffer in wars. And Coruscant, as the capital, is undoubtedly their first target. That is why the strict martial order is still necessary in the city; the curfew is at eight, any violation of the order will be arrested; any expression that endangers the safety of the empire will be arrested. If, upon investigation, such violations are found guilty, the involved personnel will be executed. Everything is for the safety of the empire and all the lawful citizens living under the empire's protection. Ending with "Enjoy a good night. Long live the Galactic Empire."
 
 The streets are quiet outside. Empty, ghostly quiet. The curfew officially starts at eight, but after a year, people already know well enough to stay inside after sundown -- Jedi patrol would already start when the speech begins, ensuring no one interferes or jeopardizes the public safety, from Upper Level to Lower Level of the city.
 
@@ -360,7 +360,7 @@ Obi-Wan picks up his pace to follow him closely.
 
 But the Lower Level, if nothing else, is *the* most perfect place for hide-and-seek. And Anakin has clearly spent enough time here to know all the small turns and hideouts and hidden doors, and he's certainly not hesitant to utilize that knowledge. He slips through them nimbly like a rabbit in the field.
 
-Within five minutes, Obi-Wan finds himself in the middle of a residential area, surrounded by houses with closed windows and doors. Anakin could have been hidden in any one of them, or he might have already escapes to the other end of this Level, maybe even to a different Level, if he wanted. Obi-Wan would have to knock on every door to be sure, and if that comes out with empty hands, he might as well dig the whole Level's ground to be able to find him again.
+Within five minutes, Obi-Wan finds himself in the middle of a residential area, surrounded by houses with closed windows and doors. Anakin could have been hidden in any one of them, or he might have already escaped to the other end of this Level, maybe even to a different Level, if he wanted. Obi-Wan would have to knock on every door to be sure, and if that comes out with empty hands, he might as well dig the whole Level's ground to be able to find him again.
 
 Obi-Wan goes back the way he came.
 
@@ -956,7 +956,9 @@ Obi-Wan bites his lower lip, training his gaze to move back to the wall.
 
 Anakin announces it is finished after a while, as he caps the cans. The pattern with the information looks similar to the other times, except for a little adjustment to note a different location. The full art, however, it's entirely something new. It's the night sky and the dark space with millions of shining stars and planets. But not quite like what they really look like in deep space, it's the image that only exists in Anakin's head. The planets are vibrant, lively, spinning, taking the patches of space on the wall next to them rotate with it. The colors are intertwining together, one star is a mixture of blue and green, emitting a woodsy feeling; another is burning red and orange, looking like the Mustafar system from Obi-Wan's knowledge; there's also one that's darker with rings, one shinier and looking all watery...
 
-Obi-Wan is stunned at the art. Anakin seems to be amused by his reaction.
+Anakin regards his own work, saying quietly, "One day, I want to visit all these stars."
+
+Obi-Wan is stunned at the art, completely wordless. Anakin seems to be amused by his reaction.
 
 "Come on, tell me they're all wrong and stars don't really look like that," he says.
 
@@ -1360,7 +1362,7 @@ Obi-Wan blinks hard. He bursts out, "Four entrances."
 
 "The Palace -- it has two maintenance and service entrances on the lower floors. But if you count the sewage and exhaust system, there are four." Obi-Wan says breathlessly, as if trying to rush them out before his own brain betrays him.
 
-Anakin looks at him for a long second, the muscle around his jaw starting to slack. He moves closer, slowly. His eyes hold Obi-Wan's, neither of them blink. "Where are they?"
+Anakin looks at him for a long second, the muscle around his jaw starting to slack. He moves closer, slowly. His eyes hold Obi-Wan's, neither of them blinks. "Where are they?"
 
 "I need some paper."
 
@@ -1955,6 +1957,6 @@ The young voice stops him behind his back, "You can call me 'Ani' now, if you wa
 
 So he stays.
 
-
+<br>
 
 ###### END
