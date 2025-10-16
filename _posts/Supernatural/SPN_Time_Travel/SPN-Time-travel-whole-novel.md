@@ -174,23 +174,23 @@ The trench coat Cas tells her, "He is -- or, he will be." He checks the clock on
 
 #### Banner
 
-<a href="https://www.tumblr.com/twinone1221/797429801914875904" target="_blank"><img src="https://64.media.tumblr.com/9121f45a38570e709afced0ad5714e9b/43337c8ccc68201a-0b/s1280x1920/cceb0e16967d644a2f42dd3676bfaa984cbefd37.jpg" alt="banner" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></a>
+<a href="https://www.tumblr.com/twinone1221/797429801914875904" target="_blank"><img src="https://64.media.tumblr.com/9121f45a38570e709afced0ad5714e9b/43337c8ccc68201a-0b/s1280x1920/cceb0e16967d644a2f42dd3676bfaa984cbefd37.jpg" alt="On the left side, future and present Cas are playing chess. On the right, title 'White Butterfly', with texts 'Art by TwinOne' and 'Story by JuneSirius'" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></a>
 
 #### Art
 
-<img src="https://64.media.tumblr.com/ccb858917a9652764b5dc6b8f534e6ab/43337c8ccc68201a-27/s1280x1920/bffe51f0794c166c2d1a7e5b57ea9f1979fa042a.jpg" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" />
+<img src="https://64.media.tumblr.com/ccb858917a9652764b5dc6b8f534e6ab/43337c8ccc68201a-27/s1280x1920/bffe51f0794c166c2d1a7e5b57ea9f1979fa042a.jpg" alt="Dean looks worried as he covers Cas with a green blanket. They are sitting together in the back of the Impala." style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" />
 
-<img src="https://64.media.tumblr.com/13892a3c77f272ebcc17f6996dea3617/43337c8ccc68201a-3a/s1280x1920/be78e5d9c46e595c7b988970cecedb00c593c206.jpg" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" />
+<img src="https://64.media.tumblr.com/13892a3c77f272ebcc17f6996dea3617/43337c8ccc68201a-3a/s1280x1920/be78e5d9c46e595c7b988970cecedb00c593c206.jpg" alt="Dean and Cas's shadows can be seen as they observe a witch burning. Dean turns to look at Cas from the side." style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" />
 
-<img src="https://64.media.tumblr.com/32bbfc4427965f4a979bf22c8684ed01/43337c8ccc68201a-7f/s1280x1920/c5b36e534e7e4adfd562538170b897839ae4ee24.jpg " style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" />
+<img src="https://64.media.tumblr.com/32bbfc4427965f4a979bf22c8684ed01/43337c8ccc68201a-7f/s1280x1920/c5b36e534e7e4adfd562538170b897839ae4ee24.jpg" alt="Dean and Cas's shadows can be seen as they observe Pompeii's volcano eruption. They stand side by side." style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" />
 
-<img src="https://64.media.tumblr.com/4d34ee4d905a3000bd89a159a7f1f47d/43337c8ccc68201a-bf/s1280x1920/67a4b234f88066e7c8b92131d1dc858fc86cdea4.jpg" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" />
+<img src="https://64.media.tumblr.com/4d34ee4d905a3000bd89a159a7f1f47d/43337c8ccc68201a-bf/s1280x1920/67a4b234f88066e7c8b92131d1dc858fc86cdea4.jpg" alt="Dean and Cas's shadows can be seen as they observe a group of Neanderthals. Cas turns to look at Dean from the side." style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" />
 
-<img src="https://64.media.tumblr.com/fd3ddc55ec548823d5c23c90a0a12ebe/43337c8ccc68201a-dc/s1280x1920/e88f2fcab667d7c81564e32527b690650c265e91.jpg" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" />
+<img src="https://64.media.tumblr.com/fd3ddc55ec548823d5c23c90a0a12ebe/43337c8ccc68201a-dc/s1280x1920/e88f2fcab667d7c81564e32527b690650c265e91.jpg" alt="Dean and Cas's shadows can be seen as they observe a dinosaur eat tree leaves, a meteor can be seen in the sky. They stand shoulder to shoulder." style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" />
 
-<img src="https://64.media.tumblr.com/b4788b1cb707a561eadb494d34289856/43337c8ccc68201a-02/s1280x1920/75348d1a9c2e1359d244baad51cf082258d868a5.jpg" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" />
+<img src="https://64.media.tumblr.com/b4788b1cb707a561eadb494d34289856/43337c8ccc68201a-02/s1280x1920/75348d1a9c2e1359d244baad51cf082258d868a5.jpg" alt="Dean and Cas's shadows can be seen as they observe the first grey fish walk out of the water. They stand very close to each other." style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" />
 
-<img src="https://64.media.tumblr.com/d2ee55a7f8ea61071d3f6965ddd56457/43337c8ccc68201a-05/s1280x1920/c1ce8e9085137de898cf89b7787aceff4c215572.jpg" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" />
+<img src="https://64.media.tumblr.com/d2ee55a7f8ea61071d3f6965ddd56457/43337c8ccc68201a-05/s1280x1920/c1ce8e9085137de898cf89b7787aceff4c215572.jpg" alt="Dean and Cas's shadows can be seen as they observe a planet in space. They lean on each other." style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" />
 
 ### Editing notes
 
