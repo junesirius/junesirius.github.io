@@ -4929,4 +4929,20 @@ Lisa/Charlie一起靠着摸索慢慢进入hunter生活，变成partner（各种�
 
 Charlie的性格跟Ben也相处得很好，可以玩到一起，Charlie甚至比Ben还更擅长电子游戏。
 
-### 410.
+### 410.【destiel?】actor AU: double "It doesn't matter if I'm hurt"
+
+(inspired by Rich/Rob "Supernatural Then and Now" podcast, talking about the stunt doubles in the show (S07E17))
+
+Stunt doubles would do things that might be too risky for the actors, even if sometimes they can do it, they'd arrange doubles to do it for them. Because if the doubles get hurt, they go to hospital, the normal shooting continues, but if the actors are hurt, the whole production is affected, hundreds of people's jobs are affected.
+
+can be used for destiel and many pairs, especially those with self-esteem issues (use destiel as example)
+
+many common actor AU stories would show Dean/Cas both as actors, in equal positions, develop relationship. What if they're unbalanced, what if one is the double of the other, and always think themselves as replaceable, expandable? Both Dean & Cas are like that, early season angel Cas even more so.
+
+So Cas is Dean's stunt double. Many risky action scenes, Dean (feel more like Jensen now, can use some interview/real behind-the-scene materials) would say he can do some of them, but Cas doesn't let him, saying all the grand reasons as above, talking about big picture like production schedules, but really fundamentally is thinking himself doesn't matter but Dean matters. Some relationship development, Dean and Cas have to work on their self-esteem issue, valuing themselves. Love them enough to know they matter, someone care about them more than themselves.
+
+Add back story? Where does that low self-esteem issue comes from. Childhood trauma, how Chuck treated/ignored/criticized Cas.
+
+Some misunderstanding, Cas may think Dean as successful man, doesn't have issues like his, but Dean's actually also low self-esteem, just hide better. He'd only start showing his vulnerability once the one of them are intimate enough.
+
+### 411.
