@@ -3761,7 +3761,7 @@ maybe after Cas throws Dean back to Hell, Dean's evil demon dark side is awaken,
 
 ### 329.【all】S01E01 first version pilot AU
 
-in EK's first version S01E01 pilot draft (see some notes [here](https://junesirius.github.io/2025/08/01/SPN-Earliest-draft-of-Pivot)), it's so much darker than canon pilot, where Sam doesn't grow in hunter life, Dean only hunts last two years, Mary died in a car accident (demon involved) when they're 9 and 13, John ditched them completely to hunt the demon, Sam/Dean don't grow in hunter life
+in EK's first version S01E01 pilot draft (see some notes [here](https://junesirius.github.io/2025/08/01/SPN-Earliest-draft-of-Pivot) or [tumblr](https://www.tumblr.com/junesirius/790663954212995072)), it's so much darker than canon pilot, where Sam doesn't grow in hunter life, Dean only hunts last two years, Mary died in a car accident (demon involved) when they're 9 and 13, John ditched them completely to hunt the demon, Sam/Dean don't grow in hunter life
 
 continue rewrite the canon from there
 
@@ -4945,4 +4945,54 @@ Add back story? Where does that low self-esteem issue comes from. Childhood trau
 
 Some misunderstanding, Cas may think Dean as successful man, doesn't have issues like his, but Dean's actually also low self-esteem, just hide better. He'd only start showing his vulnerability once the one of them are intimate enough.
 
-### 411.
+### 411.【all】S07E21 every women in the last month of her pregnancy went into labor
+
+(inspired by my thoughts [10-18 post](https://junesirius.github.io/2025/10/18/SPN-07-21-birth-number) or [tumblr](https://www.tumblr.com/junesirius/797803465292316672))
+
+maybe case fic
+
+the consequence of 3000 babies born in the same night, 3000 people grow up with the same age and same date of birth
+
+a story when they grow up and notice the odd thing, maybe spotlight on one or few of them, some (more than usual) of them get too curious and go to investigate the reason and stumble into Supernatural world
+
+maybe outsider pov and run into TFW; or other way round, TFW have case fic and run into these people, and realize their action has more consequence than they realize; or some of them did something, maybe turn evil, and because that, they have the case fic
+
+### 412.【all】EK's original ending for S5 finale
+
+(completely from Eric Kripke's interview answer when he's in Rich/Rob's podcast Supernatural Then and Now, date: June 9, 2025, [link](https://music.amazon.com/podcasts/be531c1a-736b-409a-8cfd-bb092c9fd826/episodes/a885763f-a272-4137-9a71-a7100cb008c7/supernatural-then-and-now-swan-song-part-2-kripke-reloaded))
+
+> EK: "Never any plan for Dean to jump into Hell with Sam."
+>
+> EK: "The ending that I had in mind was way more with a horror movie DNA, which I think would be really unsatisfying."
+>
+> EK: "The way the ending was supposed to go is, Sam goes into Hell, Dean works his ass off trying to get him out in Montage, kinda similar to what's there, but ultimately can't, because Dean's big emotional movement was he had to learn to let go of his brother. So now the fact that his brother is being tortured in Hell, I mean my guess was when we originally came up with it, we won't quite so specific. We didn't have like -- remember when we have Dean in that Hell raiser chain world, so I think it was probably more like 'Oh, where did he go? But I'm gonna let him go.' is what I remember."
+>
+> EK: "And Dean goes back to Lisa, and then they have a baby. And it's a girl, he names the baby Samantha. And then the final image will be like, he's got Samantha, and he kisses Samantha, and he kisses Lisa, and he puts the baby in the crib. And they leave and they turn off the light. And then a dark figure comes over the crib, and it goes back to the teaser of Supernatural. And so there is a dark figure, and then a hard black out, and the strong implication is it's all gonna start all over again. So Dean is gonna become John, Samantha is going to be the new demon hunter, and his wife is going to be on the ceiling, and Sam is obviously gonna get back into... It's meant to end with a really big question mark, of like this story is going to continue."
+>
+> EK: "There's one thing I always like about the Buffy ending. It's more hopeful than this. After they got rid of the Hell mouse, they were kinda like 'There's bunch other Hell mouses, what are we gonna do?' And you push in on Buffy, you just know that the fight is gonna continue. And I was trying to give it my horror movie spin on that."
+>
+> EK: "So that was the ending. There was a lot of question marks, and not a happy ending. It was gonna be that horror movie, you know, Jason pops out of the water at the end kind..."
+>
+> Rob: "But that kinda set up for a brilliant rebirth of the show, twenty years later you can do it, you know."
+
+After Sam goes to Hell, Dean goes to Lisa and marries her, they have a girl named Samantha. Dean puts Samantha to the crib, kisses her and Lisa, turns off the light. A dark figure shows up over Samantha's crib, Lisa burns on the ceiling like Mary. Dean runs into the room to witness the horrible scene, can't save her, becoming John. Samantha becomes the new demon hunter.
+
+Everything is gonna happen all over again. Sam will come back from Hell at some point. And continues from that, what will happen next.
+
+(quick thought: EK is really the Chuck/God of the universe and very dark; the very original draft of pilot is also super dark, see prompt 329)
+
+### 413.【all】case fic: Impala is the villain of the episode
+
+(completely come from EK's idea from the same podcase episode as above)
+
+gremlin real mythology: little creatures that very specifically fuck with your machineries, like your plane parts would be break
+
+gremlins are so small that you can't see it
+
+gremlins get into the Impala, so Impala is the villain of the story
+
+the fix is to destroy the machineries
+
+but Dean can't destroy the Impala, he has to save her, they have to figure out how to work around/solve it
+
+### 414.
