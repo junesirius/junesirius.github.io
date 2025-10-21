@@ -4961,6 +4961,8 @@ maybe outsider pov and run into TFW; or other way round, TFW have case fic and r
 
 (completely from Eric Kripke's interview answer when he's in Rich/Rob's podcast Supernatural Then and Now, date: June 9, 2025, [link](https://music.amazon.com/podcasts/be531c1a-736b-409a-8cfd-bb092c9fd826/episodes/a885763f-a272-4137-9a71-a7100cb008c7/supernatural-then-and-now-swan-song-part-2-kripke-reloaded))
 
+(also posted: [10-19 post](https://junesirius.github.io/2025/10/19/SPN-05-22-original-ending) or [tumblr](https://www.tumblr.com/junesirius/797900614486179840))
+
 > EK: "Never any plan for Dean to jump into Hell with Sam."
 >
 > EK: "The ending that I had in mind was way more with a horror movie DNA, which I think would be really unsatisfying."
