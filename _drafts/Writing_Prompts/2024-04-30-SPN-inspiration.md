@@ -12,11 +12,11 @@ published: false
 
 [TOC]
 
-### 0. case fic standard formula
+### 0. case fic (monster of the week) standard formula
 
 (cite: qzone, original: julia-beans) early season per-episode case formula:
 
-```
+```markdown
 random person: *dies*
 cut to Sam and Dean eating on the impala outside a food truck
 Sam: so get this a random person across the country died
@@ -5019,7 +5019,7 @@ Or he needs to be resurrected somehow. Maybe becoming that ghost state means he'
 
 Then somehow maybe they find a way to put ghost-Cas back into his body so he's alive again. Cas apologizes to Dean that he shouldn't kill himself, Dean cries a lot. They hug, kiss, sweet fluff stuff, happy again. But now every time Cas is really happy, Dean is worried Cas wouldn't believe this is real, he *can* be happy, he's *allowed* to be happy, he deserves to be happy. Cas maybe is still not sure what's real, the happier they are, the more unreal he feels, but he agrees to live with the uncertainty (what's the term? dissociation?), lives in the moment, lives with Dean. Even if it doesn't feel real now, he'll continue live with it. Dean will work on it, check on him constantly. Hopefully, one day he'll get used to it and eventually get convinced this really is the reality. For now, it's as good as any reality he'd like to be in.
 
-(Maybe this whole story adds a premise trailer story too, a real djinn case, the only djinn world part in this whole thing. Cas is consumed by that and lives in his ideal life with Dean, that's why he can't believe it any more. But only mentions this very very briefly. Make sure it's clear enough to the audience as wellthe whole story takes place in the real world)
+(Maybe this whole story adds a premise trailer story too, a real djinn case, the only djinn world part in this whole thing. Cas is consumed by that and lives in his ideal life with Dean, that's why he can't believe it any more. But only mentions this very very briefly. Make sure it's clear enough to the audience as well that the whole story takes place in the real world.)
 
 (≈ prompt 239)
 
