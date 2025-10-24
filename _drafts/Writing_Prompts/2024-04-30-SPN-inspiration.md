@@ -1928,7 +1928,7 @@ post-1518 after Cas's gone, Dean manages to keep the emotions under control and 
 
 (or similarly, Dean doesn't dare to go into Cas's room after he's gone, one day for whatever reason he has to go in, and sees the tape on the desk, that's when he breaks down)
 
-(-> prompt 209)
+(→ prompt 209; prompt 414 可用)
 
 ### 199.【destiel/all】S13E23 what if Lucifer becomes God and reshapes world as promised
 
@@ -2032,7 +2032,7 @@ so it's gonna be a 2003-2019 16 season story of Dean&Cas hunting things, saving 
 
 ### 209.【destiel】Cas's possessions
 
-(extended from prompt 198)
+(extended from prompt 198; prompt 414可用)
 
 1518之后丁要整理卡的东西，收拾bunker里他的房间，帮他洗车。卡没有多少属于自己的东西，为数不多有的那些也几乎全是丁给他的，比如磁带，也可能有别的礼物，Steve时期的洗漱用品，牙刷牙膏睡衣睡袋，1003没能量快死时期的睡袍，疯狗咒时期的毯子。丁一边整理一边回忆，一边崩溃
 
@@ -2430,6 +2430,8 @@ normal human non-hunter Dean (parents Bobby/Ellen, sister Jo, went to Stanford, 
 human Dean + ghost Cas -> freaked out for a bit (horror/suspension at beginning before turn out to reveal it's Cas), then ~domestic life -> Dean know about ghost & supernatural is real, help Cas revenge his death (whole family Jimmy/Amelia/Claire killed by Nick), finish his unfinished business (Dean thought) but Cas still ghost, Dean puzzled (new unfinished business bc of Dean) -> S04E17 event, Cas help figure out the spirit, Dean get rid of it without Sam -> Zach confront, Dean Smith: "I'm not a fighter, I'm a lover"
 
 (more fluff than horror)
+
+(≈ prompt 414)
 
 ### 240.【destiel】trapped in memory
 
@@ -4997,4 +4999,28 @@ the fix is to destroy the machineries
 
 but Dean can't destroy the Impala, he has to save her, they have to figure out how to work around/solve it
 
-### 414.
+### **414.【destiel】djinn: Cas suicide when Dean confesses because he thinks it's a dream and he needs to wake up**
+
+(inspired by "['Til Dreams Do Us Part](https://archiveofourown.org/works/17876885)")
+
+original plot in "'Til Dreams Do Us Part": Dean goes into the djinn world where everything is the same as outside except that he and Cas were married for two years. He wakes up from the djinn dream, still thinking the dream world marriage is real, acting as if Cas is his husband. Cas is stunned, but for the first night, pretends as if it's true. They kiss and make love. Then Cas has to break it to Dean that they were never married or together, those were just Dean's dream. Some hurt/comfort, then mutual confession, then they're really together. The reason why Cas initially acted along is because he thinks he's the one being jumped by the djinn and now living in the djinn world where they're married.
+
+What if, in a similar setting, and in the real world, Dean does something unusual out of blue or for some reason like curse or potion, or just like the original plot, Dean just wake up from the djinn world and confused. Either way, Dean confesses, they're together, or believe they're married, they kiss, they make love, they're really really happy and loved. It's everything Cas has ever wished for and dreamed for. BUT, Cas doesn't believe this is the reality. He actually believes this is the djinn world (or someone deliberately messes with him. like DW507 "Amy's Choice" Dream Lord setting), and the only way to wake up is to kill himself.
+
+Dean begs him not to do it (like djinn Dean would), painful, trying to prove he's real, do more sweet things, show more love that he normally wouldn't, desperate to ask him to stay, "It's real, and you'll die for real", but Cas is even more convinced this isn't real, because Dean has never been so bare and straightforward with emotions and feelings and love, they're too happy and in love to be real. So he still kills himself and dies.
+
+But this *is* the real world. Dean goes into the mourning grief widower arc time. Devastated, painful. (switch to Dean POV now, or always keep from Dean POV since beginning)
+
+What if, after Cas kills himself, he expects himself to wake up, but just like in a lucid dream, he's like a ghost, floating around and can still see the world but can't interact, can see his own burned body and a devastated Dean. This is the first time Cas gets to witness Dean's grief. All the other times, Dean shows most of his love during the mourning after/during Cas's death, so Cas never knows. This is the first time Cas gets to see how Dean's like when Cas is dead. Cas witnesses Dean's pain and feels his pain as his own, realizes how much his death affects Dean, realizes how much Dean loves him.
+
+Then maybe he wakes up, this really is a dream world (doesn't want it goes like this, still want that to really be the real world, there is no djinn world anywhere except for Cas not believing the reality. but this is the quickest way to fix the problem).
+
+Or he needs to be resurrected somehow. Maybe becoming that ghost state means he's not in Empty yet, he still can. Or maybe that's during him being human time, so he really has option to be ghost (he might feel confused at first how come the djinn world doesn't end after his death, he's only met by a reaper, he suspects the reaper is also part of the djinn world, just the continuation of the dream, he chooses to stay and wants Dean to burn his remains to actually properly kill him. He expects Dean to give him a hunter's funeral to burn his body, but Dean can't. Dean keeps believing he'll come back, saying he's not really dead, Cas always come back to him. That's what hurts Cas most and makes him realize how much he matters and he matters to Dean.) He might still try to communicate to Dean in ghost form (like ghost Bobby in late S07 or ghost Dean in S02E01), trying to convince Dean to burn his body or his belonging (mixtape? S12 timeline? S09 human-Cas timeline? post-S11 but somehow human-Cas timeline? like Cas chooses to be human, almost like a HE setting in the beginning, like retire life, then this whole story happens; can combine prompt 198, 209). Dean goes into his room (maybe before ghost-Cas asks him to, just to sort his possessions out; or because ghost-Cas asks him to) and breaks down again, ghost-Cas tries to comfort him (more pain/angst).
+
+Then somehow maybe they find a way to put ghost-Cas back into his body so he's alive again. Cas apologizes to Dean that he shouldn't kill himself, Dean cries a lot. They hug, kiss, sweet fluff stuff, happy again. But now every time Cas is really happy, Dean is worried Cas wouldn't believe this is real, he *can* be happy, he's *allowed* to be happy, he deserves to be happy. Cas maybe is still not sure what's real, the happier they are, the more unreal he feels, but he agrees to live with the uncertainty (what's the term? dissociation?), lives in the moment, lives with Dean. Even if it doesn't feel real now, he'll continue live with it. Dean will work on it, check on him constantly. Hopefully, one day he'll get used to it and eventually get convinced this really is the reality. For now, it's as good as any reality he'd like to be in.
+
+(Maybe this whole story adds a premise trailer story too, a real djinn case, the only djinn world part in this whole thing. Cas is consumed by that and lives in his ideal life with Dean, that's why he can't believe it any more. But only mentions this very very briefly. Make sure it's clear enough to the audience as wellthe whole story takes place in the real world)
+
+(≈ prompt 239)
+
+### 415.
