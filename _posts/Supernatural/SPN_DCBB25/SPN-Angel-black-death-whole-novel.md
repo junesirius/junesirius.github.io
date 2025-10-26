@@ -291,7 +291,7 @@ Dean shakes his head briefly to clear his mind, looks like as if a warm bubble a
 
 "I understand." Cas stands up too, follows him out of the kitchen and helps Dean get back to his room before his crooked footsteps take any wrong turn.
 
-"Get some rest, Dean," Cas says, his hands holding some of Dean's weight until making sure he's secure on his own bed. Then he gestures the other end of the corridor. "I'll just take the guest room."
+"Get some rest, Dean," Cas says, his hands holding some of Dean's weight until making sure he's secure on his own bed. Then he gestures the other end of the hallway. "I'll just take the guest room."
 
 "Night, Cas," Dean mumbles, though Castiel suspects he might already fell in sleep before finishing the sentence.
 
@@ -769,7 +769,7 @@ The power supply in the Heaven is shaking violently. Power emergency alarm goes 
 
 Angels are dying. Dying in their true forms.
 
-In the Heaven, angels usually choose not to carry their vessels around. So it can be difficult for humans to comprehend -- as he explains to Sam and Dean later, if it's easier for them to imagine, maybe think about suited-up staffs walking around office hallways, but it's nothing like that.
+In the Heaven, angels usually choose not to carry their vessels around. So it can be difficult for humans to comprehend -- as he explains to Sam and Dean later, if it's easier for them to imagine, maybe think about suited-up staffs walking around office corridors, but it's nothing like that.
 
 From what he perceives, their existences are more like clusters of light and energy, dispersing and aggregating across the dimensions. And all of that, is dying out. Their lights are shattering, energy draining, grace dissipating, existence disintegrating. It can be explained much easier with a scattering wave function in hyper-dimension and unbounded space, but Sam and Dean would definitely ask him to skip this part.
 
@@ -1396,7 +1396,7 @@ Rarely obligingly, Crowley gives Cas and Sam a recap on Lucifer and his new vess
 
 "According to my little birds, his big performance is right tonight." Crowley announces at the end, then checks his shiny costly watch. "And looks like -- about time."
 
-He snaps his drink away, straightens his suit, looks around them and smiles his iconic patented bright smile. "It's been fun, lads. Now if you'll excuse me --" He's ready to step away.
+He snaps his drink away, straightens his suit, looks around them and smiles his patented bright smile. "It's been fun, lads. Now if you'll excuse me --" He's ready to step away.
 
 Dean and Sam reach for their hidden pistol automatically. Cas readies himself in a gait like he used to do every time before big fights, shaking his sleeve to prepare grabbing the hidden angel blade.
 
@@ -1414,7 +1414,7 @@ Dean exchanges a look with Sam and Cas, lowering his voice. "And running straigh
 
 Cas takes a step closer menacingly.
 
-The demon sighs -- which Dean's pretty sure is just another of his branded pretended sigh -- then finally loosens: "Who said anything about 'No backup'?"
+The demon sighs -- which Dean's pretty sure is just another of his pretended sigh -- then finally loosens: "Who said anything about 'No backup'?"
 
 <br>
 
@@ -2094,7 +2094,7 @@ Dean stares at the road ahead of him, with the sea gulls fighting for something 
 
 "Half way through, on my way to Fall River," Dean glances at the scribbled note. "But I'm stuck in Boston now. Traffic is Hell."
 
-"*Hell* is Hell, Dean," Sam says in his branded patient voice, trying to sooth his brother. "What about you check that one out, then go home, I can take the rest."
+"*Hell* is Hell, Dean," Sam says in his patient voice, trying to sooth his brother. "What about you check that one out, then go home, I can take the rest."
 
 Dean is quiet for a moment, then asks, "You sure about that?"
 
@@ -2220,7 +2220,7 @@ He looks at the angel's closed eyes, and the dark tired circles around them; old
 
 "It's going to be okay," Cas mumbles sleepily with closed eyes, looks like already half-way falling asleep, but Dean catches it.
 
-Dean sighs a small sigh, hesitating by his bed, and eventually turning off the bedside lamp. *Please be okay.* He stands in the darkness for a minute silently, watching the light from the corridor casting a thin layer of light on Cas's figure. The angel looks peaceful from this angle, the dim silver light is almost like halo, for a moment Dean can imagine him not wounded or weak, just an angel lying peacefully on the bed. Dean lets his breath out slowly and quietly, and closes his door.
+Dean sighs a small sigh, hesitating by his bed, and eventually turning off the bedside lamp. *Please be okay.* He stands in the darkness for a minute silently, watching the light from the hallway casting a thin layer of light on Cas's figure. The angel looks peaceful from this angle, the dim silver light is almost like halo, for a moment Dean can imagine him not wounded or weak, just an angel lying peacefully on the bed. Dean lets his breath out slowly and quietly, and closes his door.
 
 He goes back to the dungeon right away. Sam's already there, with Nick's body left outside the dungeon door, barely out of Devil's view.
 
@@ -2848,7 +2848,7 @@ They ride home -- with the ghost of Bobby sharing the back seat with Cas.
 >
 > the ghosts come to bunker, see Lucifer, some discussion, try to look for ways, gather souls for Lucifer
 >
-> INT. bunker corridor - night (Dean, Jo)
+> INT. bunker hallway - night (Dean, Jo)
 >
 > Jo trolls Dean about her observation on him and Cas (mood lighter, supportive friend regarding Dean/Cas), Dean avoids the topic
 
@@ -2866,7 +2866,7 @@ So Dean is left alone with them.
 
 It would have been a lot easier if they're really just a bunch of old hunters hanging out in a hunter's bar. Dean can use a nice glass of drink from Ellen or Jo right about now.
 
-"We can use as much help as we need." He tells them, gesturing to the books in the library, then the corridors outside of the war room. "We have books and everything, everyone who can touch things, feel free to start reading and go looking for ways to make an archangel recover quickly, or look for cases, find us some demons or corrupted souls we can collect. Be careful about the magical items and sigils around the place -- we don't know half what they do, so don't touch them if you don't want to get burned or something."
+"We can use as much help as we need." He tells them, gesturing to the books in the library, then the hallways outside of the war room. "We have books and everything, everyone who can touch things, feel free to start reading and go looking for ways to make an archangel recover quickly, or look for cases, find us some demons or corrupted souls we can collect. Be careful about the magical items and sigils around the place -- we don't know half what they do, so don't touch them if you don't want to get burned or something."
 
 He glances at the group around them, mostly hanging around the war room center table now. "I think that's about it. Any questions?"
 
@@ -2892,7 +2892,7 @@ Bobby answers dryly, "Moving a thing ain't same as typing on those tiny little b
 
 Dean leaves them for the ghost discussions and excuses himself out of the room.
 
-He walks down the corridor leading to Cas's room.
+He walks down the hallway leading to Cas's room.
 
 Jo catches up with him half-way, emerging from the side wall.
 
@@ -2928,7 +2928,7 @@ He can see what's coming. Dean feels his skin starts cringe already, he shifts h
 
 "Jo!" Dean cuts her off quickly. They are about reaching Cas's room now. He can see lights seeping from under the crack of his doorframe.
 
-He turns around to face Jo fully. "Listen, I appreciate the talk, alright? I really do." He shuts his eyes for a second, wondering detachedly how their life has come to this, how he ended up talking about... things he didn't want to think about, with his friends who have died and come back as ghosts. But really, he does appreciate the gesture -- "But, we're not talking about it, not here, not today. It's just, not the right time." *If ever will be.* His mind supplies. He glances down the corridor before turning back to Jo. "We have bigger things to worry about."
+He turns around to face Jo fully. "Listen, I appreciate the talk, alright? I really do." He shuts his eyes for a second, wondering detachedly how their life has come to this, how he ended up talking about... things he didn't want to think about, with his friends who have died and come back as ghosts. But really, he does appreciate the gesture -- "But, we're not talking about it, not here, not today. It's just, not the right time." *If ever will be.* His mind supplies. He glances down the hallway before turning back to Jo. "We have bigger things to worry about."
 
 He finds Jo's gaze follows his, knowing she knows exactly what he's looking at. He shifts uneasily again.
 
@@ -2938,7 +2938,7 @@ Now she really looks like the little sister he never had.
 
 If only he can give her a hug. Dean gives her a small nod, instead. "Thanks, Jo."
 
-He continues down the corridor hastily.
+He continues down the hallway hastily.
 
 <br>
 
@@ -3098,51 +3098,55 @@ After quickly putting the mute button back on the Devil and closing the dungeon 
 
 Dean is about finishing up a phone call when Sam finds him.
 
-He's in the garage, frowning at the ground, pacing with his phone at his ear. One hand clenching a wiping cloth. A bucket of water sits on the ground beside Baby, which is slowly dripping water.
+He's in the hallway just outside Cas's room, frowning at the ground, pacing with his phone at his ear, speaking in a quiet voice. The door is ajar, with a thin slit of opening. The orange light from the hallway seeps into the dark room.
 
-"Thank you," he says to the other end wholeheartedly, his voice caught. Almost like the moment they went into Jody's house. He finishes the call with "We're on our way."
+"Thank you," he says to the other end wholeheartedly, his voice caught. Almost like the moment they went into Jody's house. He finishes the call with "We're on our way," and slips the phone back into his pocket. He turns around, almost running right into his brother.
 
-Sam dashes to him, noticing Cas stands on the other side of the parked Impala, also with some cleaning supplies in his hands, but now just standing there, eyes following Dean's pacing.
+Sam dashes to him, stomping down the hallway. "Dean! I got news!" he rushes breathlessly.
 
-Dean slips the phone back into his pocket and turns around, almost running right into his brother.
+"Shhh! Lower your voice," Dean grits his teeth, tilting his head to the unlatched door, reaching to pull it closer. "Cas is sleeping. I got news, too. You first."
 
-"I got news," Sam rushes.
+Sam gives a guilty glance toward the door, moving a few steps away from it, speaking in a lowered, tight voice, "I think Mom and Dad's souls also fell to the Earth." He gives a gesture that's meant to point to the war room where all the others are staying. "You know, since Heaven is cracking up, and I'm pretty sure they were both there before. Bobby and those others came down, they must also be here somewhere. We need to find them."
 
-Dean raises an eyebrow. "I got news, too. You first."
-
-"I think Mom and Dad's souls also fell to the Earth." Sam is a little breathless. "You know, since the Heaven is cracking up, and I'm pretty sure they were both there before. Bobby and those others came down, they must also be here somewhere. We need to find them."
-
-"And I know exactly where they are." Dean smiles slightly at him, nodding at the phone now in his pocket with his chin. "That's Missouri."
+"And I know exactly where they are." Dean smiles tight at him, jerking his chin toward the phone now in his pocket. "That's Missouri."
 
 "Wait, Missouri Moseley? Oh wow, that must been, what, ten years now? Since last time we met her." Sam raises his eyebrows in surprise.
 
-"Yeah, I know." Dean rubs his nose, walking slowly back to the car. "Since Dad went missing on a hunting trip and I picked you up from school. It's like a lifetime ago."
+"Yeah, I know." Dean rubs his nose, leaning tiredly onto the opposite side of the wall. "Since Dad went missing on a hunting trip and I picked you up from school. It's like a lifetime ago."
 
 Sam lets out a breath. "What did she say?"
 
-"Apparently when Mom and Dad dropped from Heaven, they went straight to our old house." Dean stands next to the car's driver seat, wiping his hand absently. "But they couldn't, because we taught that woman living in our house, Jenny, too well last time, and the house was protected by salt lines and irons and sigils. So they were just drifting outside the house, a couple of unharmful white misty ghosts, and Missouri noticed. She invited them over to her place."
+"Apparently when Mom and Dad dropped from Heaven, they went straight to our old house. But they couldn't, because we taught that woman living in our house, Jenny, too well last time, and the house was protected by salt lines and irons and sigils all over the place. So they were just drifting outside the house, a couple of unharmful white misty ghosts, and Missouri noticed. She invited them over to her place, and dropped us a dime."
 
-"I don't know she's still keeping an eye on our old house, after all these times." Sam shakes his head unbelievably.
+"I don't know she's still keeping an eye on our old house, after all these times." Sam shakes his head in disbelief.
 
-"Neither do I." Dean says, staring at the car but eyes unfocused. His fingers rub each other, then start wiping the rear mirror mindlessly. "I'm just so freaking glad she did."
+"Neither do I," Dean says, staring at the loosely closed door in front of him but eyes unfocused. His fingers rub each other mindlessly. "I'm just so freaking glad she did."
 
-"We should go then." Cas voices, then quickly adding. "But perhaps not tonight, you must be very tired."
+"We should go then." Cas pulls open the door, chiming in. He didn't wear his trench coat or suit, and his shirt is a little rumpled. So is his hair. He rubs his eyes with a tight yawn. "Sorry, I didn't mean to eavesdrop, but you *are* right outside my door, and the wall is thin."
 
-They did just come back from picking up a group of old hunter ghosts. It's been a long day.
+"Sorry," Dean murmurs quickly, shooting him an apologetic look.
 
-Dean snaps out of his thoughts, moving to the trunk, throwing the wiping cloth inside, gesturing for Cas to finish up his side too. He manages to put a faint smile on his lips. "Too late, already told her we're coming. Anyway, don't think I can wait to go home again."
+Cas returns with a small smile and another yawn. "It's okay."
 
-Sam helps to move that bucket of water away. "And meet Mom and Dad, together, for the first time," he adds. His lips twitch, torn between a smile and a grimace. He doesn't know how to feel exactly. Mom and Dad together, and with Dean and him, that's a whole complete family -- that's something he never thought he'd see one day, not before his time is due and he goes to in Heaven. And now the idea almost intimidates him.
+Sam looks from Dean to Cas, then checks his watch. "We should, but perhaps not tonight? It's late. I'm sure all of us are toasted already. Mom and Dad have been gone for ten years, surely they could wait for another day to see us."
 
-Dean eases into the driver's seat, lighting the engine. Cas slides into the back seat.
+They did just come back from picking up a group of old hunter ghosts. It's been a long day. Meeting their parents is only going to make it so much longer.
 
-Sam hesitates outside the passenger seat. "Uh, Dean?" his voice sounds strange.
+"Maybe they can, but I can't." Dean shifts away from the wall, fishing out the car keys, fiddling them between his fingers. "I wouldn't get any sleep anyway if I don't go, knowing they're already here, just three hours away. It's been ten years, Sammy."
 
-Dean looks up at him. "What?"
+"Yeah," Sam agrees, ducking his head in thought. "And it's the first time we gotta meet Mom and Dad together. You knew how it's like when you were young, I don't." His lips twitch, torn between a smile and a grimace. He doesn't know how to feel exactly. Mom and Dad tother, and with Dean and him, that's a whole complete family -- that's something he never thought he'd see one day, not before his time is due and he goes into Heaven. And now, the idea almost intimidates him.
+
+Dean nods in understanding, managing to put a faint smile on his lips, a comfort for his brother. "Already told Missouri we're on our way, anyway."
+
+He starts moving down the hallway toward the garage, gesturing for Cas to follow them. "Grab your coat."
+
+Sam hesitates. "Uh, Dean?" his voice sounds strange.
+
+Dean looks back at him. "What?"
 
 Sam ducks his head in Cas's direction, the move subtle. "You sure it's a good idea?"
 
-Dean glances reflexively at the angel on the backseat, raising his eyebrows. "Yes. Why?"
+Dean glances reflexively at the angel, raising his eyebrows. "Why?"
 
 Sam swallows. "I don't want to be a dick, but... it's going to be a family moment."
 
@@ -3150,15 +3154,23 @@ Sam swallows. "I don't want to be a dick, but... it's going to be a family momen
 
 "Dad might not see it that way," Sam says quietly, swallowing again, struggling to get words out. "You know how he was. He might be... not very happy about it."
 
-"I'll deal with Dad. He's a ghost, he doesn't get a vote -- if he's unhappy, cope with it." Dean insists. "Cas is coming."
+"I'll deal with Dad. He's a ghost, he doesn't get a vote -- if he's unhappy, cope with it." Dean insists harshly. "Cas is coming."
 
-Sam glances at Cas with a guilty look, sitting into the passenger seat.
+Sam glances at Cas with a guilty look. "I didn't mean to, uh, you know..." he struggles with words awkwardly.
 
-Cas frowns slightly, looking from Dean to Sam. From where he's sitting, he can see half Dean's side and only Sam's back. "It sounds improper for me to be in this trip," he says with a low voice, reaching for the door handle. "I will leave you with your family alone."
+"I understand." Cas answers, frowning slightly, looking from Sam to Dean, meeting Dean's expectant eyes.
 
-"Cas!" Dean stops him harshly. "You come with us." There is a undefiable resolute in his voice. Castiel retracts his hand.
+Dean waits for him.
 
-The car races out of the garage, heading east under a starry sky.
+Cas continues with a low voice, "It sounds improper for me to be in this trip." His feet shift the direction slightly, as if he's about to go back into his room. "I will leave you with your family alone."
+
+"Cas!" Dean calls him sharply, moving back to land a hand on his shoulder, lowering his voice. "I didn't forget so quickly what you just told me. You come with us." There is a undefiable resolute in his voice. Then even quieter, only the two of them can hear, "Don't make me have to watch you cough blood or dying again. Please."
+
+Cas nods small. "Okay," he says quietly.
+
+They move to the garage.
+
+The car heads east under a starry sky.
 
 <br>
 
@@ -3172,17 +3184,17 @@ The town is fast asleep in the past-midnight hours. They are the only car on the
 
 Dean parks in front of the building.
 
-Lawrence, Kansas looks barely changed from the last time they were there, so is Missouri.
+Lawrence, Kansas looks barely changed from the last time they were there, so does Missouri.
 
-"Come on in," she gestures the way through the corridor after giving them each a pat on the arm.
+"Come on in," she gestures the way through the hallway after giving them each a pat on the arm.
 
-Dean glances back at Sam and Cas quickly, anxiety rising in the air like bubbles on the sea. He follows her, and the other two follow him.
+Dean glances back at Sam and Cas quickly, palpable anxiety rising in the air like bubbles on a boiling surface, almost tangible. He follows her, and the other two follow him.
 
 The living room is a few degrees colder than the rest of the house, even with the lit candles at the edge of the walls. Dean realizes the lights they saw from outside through the curtains are actually the flickering candle lights.
 
-"That should help them stable," Missouri knows exactly what they want to ask, nodding at the candles and the pattern they connect. There are sigils written on the floor and walls, too. "A ritual I learned, connecting the spirits with our physical world. Help them grounded, connected to the things and people they care about most -- you."
+"That should help them stable," Missouri knows exactly what they want to ask, nodding at the candles and the pattern they connect. There are sigils written on the floor and walls, too. "A ritual I learned, connecting the spirits with our physical world. It helps them to stay grounded, connected to the things and people they care about most -- you boys."
 
-Sam gives her a tight, appreciated smile and a quiet "Thank you."
+Sam gives her a tight, sincere smile and a quiet "Thank you."
 
 "I'll leave you boys to it then." Missouri takes a step to the side once they're at the threshold to the living room. "Call me if you need anything, I'll be on the second floor."
 
@@ -3208,41 +3220,47 @@ Mary glances at John, turning back to the boys. "One minute you were still both 
 
 "You were in Heaven --" Sam chokes out.
 
-"I guessed so. Living our best memories," Mary answers, her tight smile slightly wider. "We were about to go to the movies together, do you remember that?"
+"I guessed so. Living our best memories," Mary answers, her smile grows slightly wider. "We were about to go to the movies together, do you remember that?"
 
-"Slaughterhouse Five," Dean nods small, having a quiet sobbing sound. "The movie you and Dad watched so many times, and we just couldn't miss it when it re-released."
+"Slaughterhouse Five," Dean nods small, stifling a quiet sobbing sound. "The movie you and Dad watched so many times, and we just couldn't miss it when it re-released."
 
 "That's right," Mary smiles gently.
 
-Sam droops his eyes. He was too small to remember anything back then.
+Sam droops his eyes. He was too young to remember anything back then.
 
-"I was driving us to the theater, and a big black hole showed up from nowhere in the middle of the road. I couldn't stop in time, so we all went in and ended up outside our old house." John tells them, frowning. "What's happening? Something happened to the Heaven?"
+"I was driving us to the theater, and a big black hole showed up from nowhere in the middle of the road. I couldn't stop in time, so we all went in and ended up outside our old house." John tells them, frowning. "What's happening? Something happened to Heaven? Or is it just us?"
 
-"Yeah, Heaven and angels got into some trouble." Dean wipes his eyes carelessly, sitting down on the armchair opposite the tea table. Sam sits on the armrest.
+"Not just you. Heaven and angels were in trouble." Dean wipes his eyes carelessly, sitting down on the armchair opposite the tea table. Sam sits on the armrest.
 
-Dean tells them about the angels' critical situations and the crumbling of Heaven.
+Dean starts telling them about the angels' critical situations and the crumbling of Heaven.
 
 "Angels are real?" Mary and John ask at the same time.
 
-Dean huffs a small laugh. "Yeah, very. Angel with a capital 'A', you know, wings, halo, harp... In fact, speaking of, we got ourselves an angel buddy watching over us all this time." He turns to the angel standing by the entrance, waving him over.
+Dean huffs a small laugh. "Yeah, very. Angel with a capital 'A', you know, wings, halo, harp... In fact, speaking of, we got ourselves an angel buddy watching over us all this time."
+
+He turns to his back, expecting to see Cas standing right behind him, but he's not here. Dean looks around the room in confusion and finds Cas still staying stiffly by the entrance, just watching them with careful eyes -- mostly watching him, it seems. Their eyes meet, and Dean asks silently through his eyes, *What are you doing there? Come over here.*
+
+Cas just stares back stoically.
+
+Dean has to make a big gesture to wave him over.
 
 "Mom, Dad, this is Castiel, Angel of the Lord. Cas, my parents." Dean looks between them nervously.
 
-Cas walks into their sight slowly. "Hello," he says with his low voice. Meeting Dean's encouraging eyes, he adds a clarification, "I -- don't actually have a harp."
+Cas walks into the room slowly. "Hello," he says with his low voice. Meeting Dean's encouraging eyes, he adds a clarification, "I -- don't actually have a harp."
 
-Mary widens her eyes. "Are you... actually watching over them? I mean, when I told them angels were watching over them, I didn't actually know..." she glances at Dean. "Do you remember?"
+Mary widens her eyes. "Are you... actually watching over them? I mean, when I told them angels were watching over them, I didn't actually know..." She stops herself as if she's afraid she had said something offensive to the angel. She shifts and glances at Dean, instead, "Do you remember? I'd told you that every night before you go to sleep. That's the only way to make you not afraid of the dark."
 
-Dean's smile brightens. "Never forgot, never will." He looks up at Cas as the angel walks to the side of the chair, landing a hand on the back of his trench coat. "Yeah, he watched over us, saved me, saved the whole world a couple of times."
+Dean's smile brightens a degree. "Never forgot, never will." He looks up at Cas as the angel walks to the side of the chair, and puts a hand on the back of Cas's trench coat fondly. "Yeah, he watched over us, saved me, saved the whole world a couple of times. Doing that like an everyday job."
 
 "You saved me many times, too, Dean," Cas answers earnestly.
 
-John narrows his eyes. "Is that why you want to save the angels? Cure them of that disease none of us really know much about? Because you have an angel 'buddy' now?" He presses on the word "buddy" hard as if biting the word.
+John narrows his eyes. "Is that why you want to save the angels? Cure them of that disease none of us really know much about? Because you have an angel *buddy* now?" He presses on the word "buddy" hard as if biting the word.
 
-Dean wets his dry lips. "I guess."
+Dean runs his tongue over his dry lips. "I guess."
 
-John glances at Cas, looking him up and down, taking him in fully, his eyes lingering on Dean's hand. Dean takes his hand back uneasily, left hand rubbing the right.
+John glances at Cas, looking him up and down, taking him in fully, his eyes lingering on Dean's hand. Dean takes his hand back uneasily, left hand rubbing the right, as if it just got burnt.
 
-"And why would an angel save you?" John frowns.
+"And why would an angel save you?" John frowns, asking slowly.
 
 Sam squirms uncomfortably from where he sits. "Mom, Dad, it's already too late in the night now. Dean and I were exhausted, and we probably shouldn't continue disturbing Missouri. Why don't we go get some rest and we'll catch you up on everything later?"
 
@@ -3252,29 +3270,29 @@ John doesn't move.
 
 Castiel straightens his standing, saying with a solemn voice, even lower than usual, bordering anger. "Because he deserves to be saved."
 
-Dean shivers. It's the same voice that told him, "I'm the one who gripped you tight and raised you from perdition," the same voice that asked him, "What's the matter? You don't think you deserve to be saved?"
+Dean shivers. It's the same voice that told him, "I'm the one who gripped you tight and raised you from perdition," the same voice that asked him, "What's the matter? You don't think you deserve to be saved?", and that "Good things do happen."
 
-He glances at Cas, finding his eyes glaring at John. Dean swallows. "Cas --" he tries, but the angel hasn't finished yet.
+He glances at Cas, finding his eyes glaring at John with a hint of rage. Dean swallows. "Cas --" he tries, but the angel hasn't finished yet.
 
 Castiel continues, the weight of his words pressed heavily into the air, "Unlike what you might be thinking, John Winchester, both your sons deserve saving. It is unfair of you to burden the salvation of your younger son on the shoulder of your firstborn, neither is your absence in their upbringing."
 
-"Cas!" Dean raises his voice, lifting a hand to squeeze Cas's forearm warningly, trying to stop him.
+"Cas!" Dean raises his voice, lifting a hand to squeeze Cas's forearm warningly, trying to stop him. His throat is so tight and dry. He glances at John nervously, watching his face turning colors.
 
-Castiel turns to look at him in the eyes, but he's still speaking to John. His tone quieter now as his eyes turn gentler. "They deserve to be protected, cared for, loved, and saved, without requiring a reason."
+Castiel turns to catch him in the eyes, but he's still speaking to John. His tone quieter now as his eyes turn gentler. "They deserve to be protected, cared for, loved, and saved, without requiring a reason."
 
-"I take it you're doing those for them?" John says in a hoarse voice.
+"I take it you're doing all those for them?" John says in a hoarse voice.
 
 "I try my best." Cas nods proudly with his chin high, and then turns back to John: "It should have been you."
 
-John takes a breath as if trying to answer with something but Mary puts her free hand on his shoulder, stopping him. Mary looks at Cas, pulling a sad smile, and says genuinely, "Thank you, Castiel, for taking care of them while we were gone. We owe you."
+John takes a breath as if trying to answer with something but Mary puts her free hand on his shoulder, stopping him. Mary looks at Cas, pulling a sad smile, and says genuinely, "Thank you, Castiel, for taking care of our boys while we were gone. We owe you."
 
 Dean makes a surprised sound. Sam blinks rapidly.
 
 Cas's tight stance relaxes a little.
 
-"That's, not necessary." Cas answers slowly, the lines on his face softening. "You don't owe me anything, Mary. None of you do. Your sons already gave me more than I could ask for."
+"That's, not necessary." Cas answers slowly, the lines on his face softening. "You don't owe me anything, Mary. None of you do. Your sons already gave me more than I could ever ask for."
 
-"What's that?" John prompts.
+"And what's that?" John prompts sharply.
 
 "Dean and I --" Cas pauses, turning to him.
 
@@ -3286,7 +3304,9 @@ He turns back to look at John, eyeing him almost challengingly.
 
 Dean swallows again, waiting. Sam nods supportively.
 
-John scrutinizes the three of them closely, from Cas to Dean, then to Sam, and at last back to Dean. The look in his eyes changing the longer he searches their faces. He says slowly, eventually, "I see now why you brought the angel with you when you came to meet your mother and I, to our *family* reunion."
+John scrutinizes the three of them closely, from Cas to Dean, then to Sam, and at last back to Dean. The look in his eyes changing the longer he searches their faces. All of them wait for him, Mary too.
+
+Eventually, John says slowly, "I see now why you brought the angel with you when you came to meet your mother and I, to our *family* reunion."
 
 Dean smiles narrowly. "That's right."
 
@@ -3298,15 +3318,17 @@ John lets out a short breath. "Alright, then."
 
 Dean blinks. "... Alright?"
 
-John shrugs slightly. "What else do you want me to say? I'll walk you down the aisle?" He glances at Cas again casually.
+John shrugs slightly. "It's fine to have him around, I guess. And to save the angels and Heaven or whatever. What else do you want me to say? You want to ask me to walk you down the aisle?" He gives Cas a quick glimpse again.
 
-Dean blushes fiercely. "No, no -- that's not what I mean. That's not what we --" he throws a quick glimpse at Cas, flustered. Cas is unmoved. "-- we are not... *that*."
+Dean blushes fiercely, stuttering. "No, no -- that's not what I mean. That's not what we --" he throws a quick glance at Cas, flustered. Cas is unmoved, not showing any reaction, just watching him quietly. Dean has to take a breath before finishing the sentence, "-- we are not... *that*."
 
-"Good," John says carelessly.
+"Good," John answers, a little too quickly.
 
-Mary gives him a glare, telling Dean, "But even if you do, or, I don't know, if you ever want to talk about it, you can." She looks at Cas, and tells him kindly, "Same for you, Castiel."
+"John!" Mary gives him a glare, tone scolding. She turns to tell Dean, "But even if you do, or, I don't know, if you ever want to talk about it, or anything else, I want you to know, you can. I'm your mother, after all, and I would like to know."
 
-Dean blushes harder, hearing his brother breath out a very quiet "wow". He closes his eyes and raises a hand to wipe his face to keep it cool and straight, then opens his eyes again. Keeping his voice light, he says, "Right, yeah, thanks, Mom."
+She looks at Cas next, and tells him kindly, "I'm glad to meet you, Castiel. Even though we haven't known each other for long, knowing how important you are to Dean -- and Sam -- I would be happy to know you more. Welcome to the family."
+
+Dean blushes harder, hearing his brother breath out a very quiet, awed "wow". He closes his eyes and runs a hand over his face to keep it cool and straight, then opens his eyes again. Keeping his voice light, he says, "Right, yeah, thanks, Mom."
 
 "Of course," Mary answers easily.
 
@@ -3314,13 +3336,15 @@ Dean blushes harder, hearing his brother breath out a very quiet "wow". He close
 
 Sam stifles a laugh in his throat. Cas hums softly.
 
-"What now?" After a while, John speaks again. "Mary and I stay as ghosts or you actually have some plan for the next step?"
+They stay in wordless silence for a few beats. Only their eyes talking. Mary's eyes look as if they just can't stop staring at the boys with fascination.
 
-Right, world-saving back on track again, he almost forgot about it with Mom and Dad here, and with them looking solid and real enough and grilling some angel. Dean thinks. They still have enough problems that need fix but he's already too tired to even sit straight, let alone thinking.
+"What now?" John speaks again, breaking the comfortable quietness. "Mary and I stay as ghosts or you actually have some plan for the next step?"
+
+*Right, world-saving back on track again, he almost forgot about it with Mom and Dad here, especially with them looking solid and real enough and having this difficult conversation that goes so much better than he expected. He's distracted.* Dean thinks. They still have enough problems that need fix but he's already too tired to even sit straight, let alone thinking.
 
 Dean glances in the direction of the living room exit and the stairs leading to the second floor. He asks Sam, "You think Missouri would be fine if we borrow her guest room for the night?"
 
-"Not much of a night left anyway," Sam answers.
+"Not much of a night left anyway," Sam answers with a nod.
 
 <br>
 
@@ -3354,13 +3378,15 @@ Dean wakes up to the ringing of his phone. It takes him a second of disorientati
 
 He fumbles for the phone. The incoming number on the screen isn't a familiar one. He picks it up.
 
-The other end doesn't have anyone speaking, the sound coming out is a wave of high-pitched harsh white noise -- the kind that tells radios are disrupted by ghosts. That makes him dead awake.
+The other end doesn't have anyone speaking, the sound coming out is a wave of high-pitched white noise, so harsh that it makes eardrums ache -- the kind that is a clear enough telltale to say radios are disrupted by ghosts.
+
+That makes him dead awake.
 
 Dean jumps off bed to search for his jacket pocket. Sam, also woken up, already turns on his EMF. Dean holds out his phone. EMF screams ghost and the pointer swinging directly to the far end of the red zone.
 
 "Ghost," Sam mouths.
 
-Dean thinks for a second, bringing the phone back to his ear, speaking tentatively, "Bobby?"
+Dean thinks for a second, bringing the phone back to his ear, speaking tentatively, "Bobby? Is that you?"
 
 The tone in the speaker shifts, but still a fuzzy noisy one, no audible answer. Then the line is dead.
 
@@ -3372,7 +3398,7 @@ Dean catches him up.
 
 "You think Bobby figured out how to make a haunted phone call?" Sam raises his eyebrows.
 
-"Could be Ash." Dean considers, then immediately alerted. "Which means trouble. Why else would they get into all these trouble to phone us?" He starts rushing toward the door.
+"Could be Ash with a burner phone." Dean considers, then immediately tensed. "Which means trouble. Why else would they get into all these trouble to phone us?" He starts rushing toward the room door.
 
 "Must be Lucifer." Sam hisses, getting off the bed and hurriedly following him. "I was away for too long. We should get back."
 
@@ -3380,17 +3406,19 @@ Dean catches him up.
 
 Dean slows a step. "They could come with us like Bobby did." He's amused for a second by his own thought: "We should rename the bunker to 'Ghost B&B' or something."
 
-To which Cas answers, "Ghosts don't need to sleep or eat, Dean." Sam huffs a short laugh.
+To which Cas answers, "Ghosts don't need to sleep or eat, Dean."
+
+Sam huffs a short laugh.
 
 They run into Missouri at the bottom of the stairs. She frowns deeply, looking profoundly troubled. Leaning on the handrail of the stairs, hand pinched on her temple, she looks like going to collapse any second.
 
-The room feels cold, now that they pay attention to notice.
+The room feels even colder than last night, now that they pay attention to notice.
 
 Dean rushes to hold her by the arm, leading her to sit down on the last step of the stairs. "What's wrong?"
 
 "The ghosts." Missouri says difficultly. "So many of them, so much confusion, so lost. It must be broken now."
 
-The spirits of Mary and John come closer with concerned looks, their forms flickering in and out. Dean notices the candles they saw last night were mostly out, the ritual to steady their forms waning, must be why they are now more difficult to stay stable.
+The spirits of Mary and John come closer with concerned looks, their forms flickering in and out. Dean notices the candles they saw last night were mostly out, the ritual to steady their forms waning, must be why it's now more difficult for them to stay stable.
 
 "You mean the Vail?" Sam asks hurriedly.
 
@@ -3398,11 +3426,11 @@ Missouri nods miserably. "I can feel them. The Vail is broken because there are 
 
 Dean breathes rapidly. "Okay, we gotta go."
 
-They are outside the house in a blink.
+They rush out of the house rapidly.
 
-It's not just the room having a low temperature, they realize. The air on the street is also cold, damp with a layer of thick, white fog. Their breath comes out in a white puff. They have to remember this is June.
+It's not just the room having a low temperature, they realize. The air on the street is also cold, damp with a layer of thick, white fog. Their breath comes out in a white puff. They almost forget it is June in Kansas.
 
-Dean can barely see his car parked by the street from where they stand at the door. "Okay that looks really bad," he murmurs, running to his car, followed closely by his brother and Cas.
+Dean can barely see his car parked by the street from where they stand at the door. "Okay that looks really bad," he murmurs, running to his car, followed closely by Sam and Cas.
 
 "It's like last year all over again," Sam says breathlessly, "except not the Darkness's black fog, it's white fog now."
 
@@ -3426,7 +3454,7 @@ Crowley looks back at him unhappily. "Let me rephrase: *We* are royally screwed.
 
 Dean doesn't change his expression, Crowley rolls his eyes. "You have any idea how hard it is to run Hell already when you *can* use Heaven as a big bad wolf to tell them to behave? Imagine now they *know* the feathery wolves are all dying." He gives Castiel a pointed look.
 
-"We have enough problems in hands, angels, Heaven, ghosts -- we don't have time to worry about Hell," Dean cuts him off impatiently. "You're the King, you figure your things out."
+"We have enough problems in hands right now, angels, Heaven, ghosts -- we don't have time to worry about Hell," Dean cuts him off impatiently. "You're the King, you figure your own shit out."
 
 "Except you *do* have to care." Crowley leans in, breathing to the back of the driver seat. "Does the name Styne ring a bell?"
 
@@ -3442,19 +3470,25 @@ Dean makes a face. "I sent them down."
 
 "Twisted enough to be demons already," Crowley says plainly. "Unfortunate for you."
 
-"Dammit, Crowley, can't you keep your demons in a line? What do you do everyday, just busy sitting on the throne?" Dean can't help snapping.
+"Dammit, Crowley, why don't *you* fix that? Can't you keep your demons in a line? What do you do everyday, just busy sitting on the throne?" Dean can't help snapping.
 
-"What do I do?! What do you do everyday?! Just busy chatting with Mama and Papa, hanging out with your puppies?" Crowley growls annoyedly, glancing around at Sam and Cas in the car. "It's like a big fat soul feast out there, a freaking Carnival! I have other fleeing demons to catch, all the nasty bits. You're lucky not all demons crushing the gates and getting out to have fun! If you remember, they aren't exactly the 'listening to the boss' type. I want them gone, you want them gone. So help me deal with it!"
+"What do *I* do?! What do *you* do everyday?! Just busy chatting with Mama and Papa, hanging out with your puppies? I'm only one man -- one demon, fine -- I need help!" Crowley growls annoyedly, glancing around at Sam and Cas in the car. "It's like a big fat soul feast out there, a freaking Carnival! I have fleeing demons everywhere to catch, all the nasty bits. You're lucky not all demons crushing the gates and getting out to have fun! If you remember, they aren't exactly the 'listening to the boss' type. They're demons! Now, I want them gone, you want them gone. So help me deal with it!"
 
 Dean is taken aback by his suddenly raised voice.
 
-Crowley's glance passes John and Mary who still stand by the door, not taking one more step as if they are afraid of merging into the mist. "What's wrong with Mama and Papa Winchester? Afraid of mingling with other ghost buddies?" He snaps a finger, John and Mary's spirits appear at the backseat. "Don't say I never did anything for you," the demon leaves with that, disappearing right at the same time.
+Crowley's glance passes John and Mary who still stand by the door. They seem to have tried to move down the stairs toward the car but not successful. Every step they take as they merge into the mist, their figures shift and flicker, thinning away, as if they're dispersing into the grand mist, losing sense of themselves. John barely moves down to the paved road before Mary pulls him back, the two of them staring at the car helplessly.
+
+Crowley makes a casual gesture at them. "What's wrong with Mama and Papa Winchester? Afraid of mingling with other ghost buddies?"
+
+Dean follows his gesture, frowning to see the same. "Why --"
+
+Crowley snaps a finger before he can finish, John and Mary's spirits appear at the backseat. "Don't say I never did anything for you," the demon leaves with that, disappearing right at the same time into the thin air.
 
 "Who's that?" John asks immediately.
 
 "Uh," Sam says intelligently.
 
-Dean puts his attention back to the road, start driving. The fog is so dense that racing back isn't an option. They are practically blind. On the upper side, there aren't that many cars on the road to worry about crashing in.
+Dean puts his attention back to the road, pointedly trained, start driving slowly. The fog is so dense that speeding up isn't an option. They are practically blinded. On the upper side, there aren't that many cars on the road to worry about crashing in.
 
 "That's Crowley," Castiel supplies, seeing none of the Winchesters are going to answer.
 
@@ -3468,7 +3502,7 @@ Sam huffs a short breath.
 
 "You got quite some new friends these years," John comments.
 
-"Wouldn't have made it all the way out till now without them," Dean answers.
+"Wouldn't have made it all the way out till now without them," Dean answers with controlled voice.
 
 Mary puts a hand on his shoulder, but her translucent hand goes directly past his body. Mary sighs, taking her hand back. "I'm so sorry, Dean. Sam. I can't imagine how much you've been through."
 
@@ -3486,7 +3520,7 @@ Vaguely recognizable trees and tall grass surround them, they should be right on
 
 "Oh God," Sam gasps.
 
-Black smoke entangle with white mist, ghosty figures flashing in and out of shape, flaring and dimming as they shift. They catch glimpses of shapes of a man or a woman from the blurry view. It's hard to tell what's really happening, the views are so hazy that looks like they're glancing through frosted glass. But with Crowley's information, they have a good enough guess.
+Black smoke entangle with white mist, ghostly figures flashing in and out of shape, flaring and dimming as they shift. They catch glimpses of shapes of a man or a woman from the blurry view. It's hard to tell what's really happening, the views are so hazy that looks like they're glancing through frosted glass. But with Crowley's information, they have a good enough guess.
 
 "Demons are killing ghosts." Dean grimaces.
 
@@ -3524,15 +3558,15 @@ The demon smoke whirls up into the sky like a black hurricane, the sound of the 
 
 "How are we even gonna kill them when they're not in bodies?" Dean asks loudly.
 
-"I can smite them," Cas answers readily.
+Cas has the answer ready. "I can smite them."
 
-Dean tears his eyes away from the black-white smoke briefly to eye the angel. "You got enough mojo for that?"
+Dean tears his eyes away from the black-white smoke temporarily to eye the angel. "You got enough mojo for that?"
 
 "It has to," Cas says sternly.
 
 "What do I do?"
 
-"Protect Charlie, round them up for me," Cas commands quickly.
+"Protect Charlie, round them up for me," Cas commands in a quick, sharp voice.
 
 Dean weighs the demon blade in his hands, wondering aloud. "Is this pure iron? Is it going to hurt Charlie as well?"
 
@@ -3542,7 +3576,7 @@ Cas shoves the angel blade he was holding into Dean's hand. "Use this."
 
 "Don't worry about me," Cas says hastily. He runs toward the smoking mist, eyes starting to flare.
 
-"Dean --" Charlie's voice sounds up faintly from somewhere nearby, but her shape is nowhere to be found.
+"Dean --" Charlie's voice echoes faintly from somewhere nearby, but her shape is nowhere to be found.
 
 "Charlie, where are you?" Dean runs up to the closest black smoke, smelling sulfur and fire. The mocking laughter sounds more shrieking and hellish by each step he's getting closer. He waves the angel blade at the demon smoke. The unshapen demon squeals and thins, backing up slightly from where the blade sweeps through, rising higher up into the sky, beyond reach. The mist in its held drops down to the ground, condensing and forming slowly.
 
@@ -3550,11 +3584,11 @@ Dean kneels beside her, calling anxiously. "Charlie? You alright?"
 
 The red hair comes into form first, the rest of her head and body later. The ghost of Charlie moans as she shows up laying on the ground. "I didn't know ghost can feel pain too." Her eyes are shut tight for a moment, before opening up to look at Dean. "You look worried."
 
-Dean huffs briefly, "Hey, kid. Nice to see you again."
+Dean huffs briefly. "Hey, kid. Nice to see you again."
 
 Another demon cloud dives down toward them before Charlie can say anything else. Dean jumps back a step, swiping the blade through the middle of the black shape. The demon screams, splitting into two halves of black smoke, twirling into opposite directions before meeting again in the mid-air, merging into one shape, letting out a long shrieking sound of wind that gives Dean goosebumps. A second wave of attack rains down on them before Dean can take a second of breath.
 
-That sound must be a calling of assembly of some sort, Dean thinks. More black smoke hover over the head of them this time, circling like a group of vultures surveying carcass before devouring.
+That sound must be a calling of assembly of some sort, Dean thinks. More black smoke hover over their heads this time, circling like a group of vultures surveying carcass before devouring.
 
 Dean finds his eyes can hardly keep focused on these dissipating and gathering smokes, let alone fighting them off or protecting Charlie's soul. "A little help here, Cas!" he yells.
 
@@ -3564,11 +3598,11 @@ Light pours out of his palm as the demons descend. Dean throws himself on top of
 
 Dean rushes to hold him up, lending a shoulder. "You okay?"
 
-Cas bites on his lips, nodding faintly. But there is nothing that says "okay" on his face. Dean smells copper.
+Cas bites on his lips, nodding faintly. But there is nothing that says "okay" on his face. Dean smells the copper taste of blood.
 
 Charlie floats up to them, studying Cas's face, worried. "What happened to you?"
 
-"Long story. We have to go," Dean says briefly, glancing at the sky. The demons are far from gone. When Crowley said "the Stynes are out", he really thought he only meant that pretentious family he slaughtered, from the big daddy in suit to the hatchet men and that kid in the library. But they are definitely seeing more than a dozen demons around here.
+"Long story. We have to go," Dean says quickly, glancing at the sky. The demons are far from gone. When Crowley said "the Stynes are out", he really thought he only meant that pretentious family he slaughtered, from the big daddy in suit to the henchmen and that kid in the library. But they are definitely seeing more than a dozen demons around here.
 
 *Frankenstein is a big family tree. They have existed for a thousand years.* Now he remembers. Sam did most of the research, and his memory of those times isn't always exactly clear. But he can piece things together. They are in bigger trouble than he thought.
 
@@ -3586,7 +3620,7 @@ The black smoke retreats. Pain of Charlie's cry still echoes in the air.
 
 Demons gather fast, even more than before, thick and sulfuric, clouding in, covering the sky. The morning hour looks like late in the afternoon right before a big thunderstorm.
 
-"It's okay, Dean," Charlie manages to keep the warm and small smile, even if it's shaking, even if it looks like she'd cry if she's still capable of. She reaches out a hand, as if trying to touch Dean's hand, but the mist that forms the shape of her finger dissipates the moment they touch. "It's not your fault. I don't blame you. Not last time, not this time."
+"It's okay, Dean," Charlie manages to keep her warm and small smile, even if it's shaking, even if it looks like she'd cry if she's still capable of. She reaches out a hand, as if trying to touch Dean's hand, but the mist that forms the shape of her finger dissipates the moment they touch, leaving only a chilling sensation on Dean's fingertip. "It's not your fault. I don't blame you. Never did. Not last time, not this time."
 
 Charlie looks at him in the eyes, fearful but film. "Save Cas. You need him."
 
@@ -3596,7 +3630,7 @@ Charlie looks at him in the eyes, fearful but film. "Save Cas. You need him."
 
 "No, they're here for me." Dean corrects.
 
-"Why?"
+"What? Why?"
 
 "I killed every last one of those sons of bitches last time, after what they did to you." Dean tells her, managing a small bitter smile.
 
@@ -3624,15 +3658,15 @@ The black smoke of demons circling over their heads drop down rapidly and unnatu
 
 Charlie gasps loudly. "That's exorcism, but reversed!"
 
-"You are going to trap them in you." Dean realizes, tears falling down. "It will kill you."
+"You are gonna trap them in you." Dean realizes, tears falling down. "It will kill you."
 
-"I don't have enough power to smite all of them, but I can burn them up once they're in my vessel," Cas explains quickly between the spell. "Only way you two can get out of here safe."
+"I don't have enough power to smite all of them, but I can burn them up once they're in my vessel," Cas explains quickly between the spell. "It's the only way the two of you can get out of here safely."
 
 "Don't do this, Cas." Dean sobs, holding him tighter. "Don't make me lose you again."
 
 Charlie thinks quickly. "We only need your vessel as a trap, why don't you jump into Dean? We knife them with demon blade once they're in, then you jump back."
 
-"Yes, yes!" Dean agrees immediately, glancing at Charlie gratefully. "Come on, Cas! It will work! Yes! I'm okay with it!"
+"Yes, yes!" Dean agrees enthusiastically, glancing at Charlie with gratitude. "Come on, Cas! It will work! Yes! I'm okay with it!"
 
 "NO!" Cas shouts, over the shrieking sound of the demons that are coming closer and closer.
 
@@ -3648,7 +3682,7 @@ Dean is pushed three feet away, dropping to the leaf-covered ground, having to w
 
 "CAS!" Dean cries desperately.
 
-Cas's body starts writhing on the ground, twitching compulsively into unnatural shapes. Hands and body bend sharply backwards, then slowly return to normal pose. Dean forgets to blink or breath, or how to use his hands and legs. He crawls toward Cas on his knees and hands, pulling himself to him.
+Cas's body starts writhing on the ground, twitching compulsively into unnatural shapes. Hands and body bend sharply backwards, then slowly return to normal pose. Dean forgets to blink or breathe, or how to use his hands and legs. He crawls toward Cas on his knees and hands, pulling himself to him.
 
 "He's still fighting," Charlie says in a strained voice behind him.
 
@@ -3672,7 +3706,7 @@ The light of grace takes over Cas's eyes, burning brighter and brighter like it'
 
 He feels the hand he's holding droops slack when it's over.
 
-Cas's body stays dead still on the ground, eyes closed. His body feels cold.
+Cas's body stays deadly still on the ground, eyes closed. His body feels cold.
 
 "No, no, no, no, no --" Dean throws himself over to him, crying helplessly. He reaches a finger under his nose, then sits back heavily on his heels.
 
@@ -3684,11 +3718,11 @@ He can barely recognize his own broken voice. "He's still alive."
 
 He reaches out to pull Cas's limp body into his embrace tenderly, holding him there.
 
-A screech of car racing to them and brake sharply.
+A car races to them with a screech and brakes sharply.
 
 "Oh God, oh God --" Sam gasps, rushing to them before the Impala is even completely halted.
 
-"Is he..." Sam runs to his brother, seeing what he's holding, breathless and choked. "Dean, is Cas... dead?"
+"Is he..." Sam runs to his brother, seeing what he's holding, breathless and choked. "Dean, is Cas... gone?"
 
 Dean looks up at him, streaks of tear marks still on his face, but he's smiling. "Cas made it. Son of a bitch is so strong. I know it. He wouldn't just leave me like that."
 
@@ -3718,9 +3752,9 @@ He looks down at Cas's comatose face. "Let's go home."
 
 #### draft notes
 
-on their way they notice souls falling, ghosts everywhere, demons rising, black smoke everywhere, demons haunting living people and killing dead souls that had been on Heaven, good guys' souls are being exterminated, know how serious things are, really end-of-world vibe
+~~on their way they notice souls falling, ghosts everywhere, demons rising, black smoke everywhere, demons haunting living people and killing dead souls that had been on Heaven, good guys' souls are being exterminated, know how serious things are, really end-of-world vibe~~
 
-quickly force transit from Chap. 5 to 6, Styne family raid outside bunker as demon to revenge Dean (demon hurting ghosts, but can't get inside bunker), Charlie's soul happened to wander around the area, Charlie figured out a way to dial phone for help (ghost affect electromagnetic field, phones/laptops are just electronics, using waves to transmission, "you gotta be the first ghost to figure that out"), TFW rush back to save ghosts in bunker & Charlie; Crowley involved
+~~quickly force transit from Chap. 5 to 6, Styne family raid outside bunker as demon to revenge Dean (demon hurting ghosts, but can't get inside bunker), Charlie's soul happened to wander around the area, Charlie figured out a way to dial phone for help (ghost affect electromagnetic field, phones/laptops are just electronics, using waves to transmission, "you gotta be the first ghost to figure that out"), TFW rush back to save ghosts in bunker & Charlie; Crowley involved~~
 
 as soon as cleaned up the Stynes and saved Charlie (Cas used his grace to help save Charlie (also guilty for Charlie's death, all TFW are guilty)), know the world can't wait, last straw is Cas, Dean agree to call Rowena to get Michael (Cas already laying/dying on bunker infirmary, Bobby etc.'s ghosts look after him, Charlie promise to call Dean if anything happen to Cas (all those people he had protected are now taking turn to protect/look after him, not just Dean, but everyone they have saved along the way))
 
@@ -3736,7 +3770,7 @@ reverse exorcism: *Et secta diabolica, omnis congregatio, omnis legio, omnis inc
 
 ### Chap. 7: You're Up, Dr. Phil
 
-> Cas's getting worse, the whole situation getting way worse, Heaven can't wait any longer, souls go wild in vail or fall from Heaven (chap 4-6 they had ran into some familiar family/friends, passing-by lines about people running into their dead relatives but not as evil/vengeful spirits)
+> Cas's getting worse, the whole situation getting way worse, Heaven can't wait any longer, souls go wild in Vail or fall from Heaven (chap 4-6 they had ran into some familiar family/friends, passing-by lines about people running into their dead relatives but not as evil/vengeful spirits)
 >
 > has to take Lucifer's advice to release Michael, get Rowena to help open Cage, get Michael out, Michael meets Lucifer, Winchester counseling time for Michael/Lucifer, help them make peace
 >
@@ -3756,21 +3790,21 @@ Dean doesn't react.
 
 "Are those two like... you know?" Charlie makes a vague gesture with her hands. "What's their deal?"
 
-Sam chuckles slightly. "Yeah, no -- I don't know. You'll have to ask them once they're come to."
+Sam chuckles slightly. "Yeah, no -- I don't know. You'll have to ask them once either of them start talking again."
 
-Charlie considers briefly, voice light, "I'll take that as a yes then, since neither of them are capable of denying."
+Charlie considers briefly, voice light, "I'll take that as a yes then, since neither of them are capable of denying right now."
 
 "I'm right here, you know," Dean chimes in suddenly, tearing his eyes away from Cas for the first time since they got in the car.
 
 "Oh, there he is. Welcome back, Dean." Sam glances at him cautiously. "Charlie told me what happened back there."
 
-"The freaking demon part or the part where Cas is an idiot?" Dean says flatly.
+"The freaking demon part or the part where Cas is an idiot?" Dean says with a steady voice.
 
 Sam rolls his eyes. "He saved your life! Both your lives! Again!"
 
 "The idiot part then," Dean says casually.
 
-Sam gives him a look through the mirror.
+Sam gives him a stern look through the mirror.
 
 Dean glares right back at him in the reflection, frowning. "What's taking you so long? It's like ten minutes from bunker."
 
@@ -3780,11 +3814,11 @@ Sam sighs. "Demons are everywhere. Had to take detours. You remember Baby isn't 
 
 "The trunk is," Dean answers quickly.
 
-"They're not exactly attacking from *inside* the trunk." Sam says sourly. "You have any idea how many demons Mom and Dad must have pissed?"
+"They're not exactly attacking from *inside* the trunk." Sam says sourly. "You have any idea how many demons Mom and Dad pissed back in the day?"
 
 Dean shrugs slightly, taking a second to consider. "Probably as many as us, if not more."
 
-"Exactly." Sam nods.
+"Exactly."
 
 Now that Sam mentioned, Dean finally notices his brother isn't exactly in the best shape, nor is Baby. The right side of the car has a major sunken in the door metal from front to the back. The passenger seat side of the window has a large spiderweb-shaped crack, though the glass still managed to stay roughly together. Sam has quite a number of purple and black bruises on his forehead and jaw.
 
@@ -3792,9 +3826,9 @@ Dean takes them in, asking slowly. "Are Mom and Dad okay?"
 
 "Yeah, yeah, they're fine. I had to sneak in and out from garage door though, they barricaded the front door." Sam answers hastily. "Everyone in the bunker are fine as long as bunker's demon-proof sigils stand."
 
-Dean frowns at him. "Is that why did Bobby call? Or Ash, I guess."
+Dean frowns at him. "Is that why Bobby called? Or Ash, I guess."
 
-Sam blinks, also frowning slightly. "The haunted phone call? I'm not sure."
+Sam blinks, also frowning slightly. "The haunted phone call? I'm not sure. Didn't get a chance to ask."
 
 Charlie clears her throat, raising her hand awkwardly. "That's me, actually."
 
@@ -3814,13 +3848,13 @@ Dean says, "Ash would so like to learn about that."
 
 Sam simply tells her, "I'm sure you two are going to have so much to chat about."
 
-Charlie starts asking about other temporary ghosting residents in the bunker and Sam tries his best to give a brief introduction for everyone for her.
+Charlie starts asking about other temporary ghosting residents in the bunker and Sam tries his best to give a brief introduction of everyone for her before they arrive.
 
 Dean zooms out again, finding his mind wandering all the way back to the moment Cas yell over the demon shrieks and stare at him so desperately as if looking directly into his soul.
 
 *Come to me. Possess me. I'm okay with it!*
 
-*No!*
+*NO!*
 
 *Why not!*
 
@@ -3834,7 +3868,7 @@ Dean closes his eyes, his hands rounding around Cas's shoulder, holding him clos
 
 *Goodbye, Dean.*
 
-Dean finds his mind wander all the way down to the Cage by the time they pull into bunker's garage.
+Dean realizes his mind has been taunting the idea of breaking the Cage by the time they pull into bunker's garage.
 
 <br>
 
@@ -3846,9 +3880,9 @@ Dean finds his mind wander all the way down to the Cage by the time they pull in
 >
 > (second time choose between Sam/Cas: Dean choose Cas)
 
-The bunker is bustling like the busiest morning-hour farmer's market. Spirits of their family and friends gather around as they rush in.
+The bunker is bustling like the busiest happy hour bar. Ghosts of their family and friends gather around as they rush in.
 
-Dean carries Cas to his own room -- his room has better memory foam mattress, his mind reasons -- and takes off his shoes and coat to let him lie down in a comfortable posture.
+Dean carries Cas to his own room -- his room has better memory foam mattress, his brain reasons -- and takes off his shoes and coat to let him lie down in a comfortable posture.
 
 "What happened?" Bobby asks, standing by the door of his room, concerned.
 
@@ -3856,7 +3890,7 @@ Dean is too busy tucking Cas under the cover to answer, but his move freezes whe
 
 Sam rushes to him.
 
-"We have to talk," Dean says shakily, showing him the angel's palms. There, on all the fingertips, the skin starts to have a darker color, like a black muddy coating spreading from the top toward the palm. Almost like when one puts their hands in a muddy pond and comes out dirty.
+"We have to talk," Dean says shakily, showing him the angel's palms. There, on all the fingertips, the skin starts to have a darker color, like a black muddy coating spreading from the top toward the palm. Almost like when one dips their hands in a muddy pond and comes out dirty.
 
 Sam inhales sharply. Looking from the angel on the bed to his brother, he stutters, "Is he infected?"
 
@@ -3890,15 +3924,15 @@ Dean keeps his head low, pressed on the hands he's holding, voice low and strugg
 
 Now even Sam remembers last time they went away, when they were at Jody's, Cas almost didn't make it. They all thought it was Lucifer did something -- what if it's not. He only looked better after Dean spent the night with him.
 
-Sam swallows, voice tight, "But I can't deal with Crowley and Rowena alone, Dean. And Michael, and everything happening out there with ghosts and demons. I need you."
+Sam swallows, voice tight, "But I can't deal with Crowley and Rowena alone, Dean. And Michael, and... and everything happening out there with ghosts and demons. I need you."
 
-"I know," Dean answers, torn apart. His heart clenches so hard that the breathing alone aches so much it's killing him.
+"I know," Dean answers, torn apart. His heart clenches so hard that the breathing alone aches so much it's killing him. "But he needs me, too."
 
 Of all his life, moments like this are the ones scare him the most. He'd rather kill himself before having to choose between his brother and his angel. He would give anything to not have to give an answer.
 
 But Sam's waiting.
 
-Dean forces his throat to move, "I'm sorry, Sam. I'm afraid you'll have to manage it alone this time."
+Dean forces his throat to move, "I'm sorry, Sammy. I'm afraid you'll have to manage it alone this time."
 
 "Maybe not," Charlie's voice chimes in. "What about *we* go with him?"
 
@@ -3910,21 +3944,21 @@ Dean forces his throat to move, "I'm sorry, Sam. I'm afraid you'll have to manag
 >
 > discuss plan, Dean stay with Cas, John/Mary with Sam, other ghosts guard bunker (demons attacking bunker)
 
-"What do you mean, kid?" Bobby asks. "*We*? We are a bunch of ghosts and many of you can't even touch a thing. What are you gonna do to fight against demons and a pissed-off archangel?"
+"What do you mean, kid?" Bobby asks incredulously. "*We*? We are a bunch of ghosts and many of you can't even touch a thing! What are you gonna do to fight against demons and a pissed-off archangel?"
 
-The ghosts of old hunters and Roadhouse frequents are all on Charlie now. She glances at them nervously. "Just a thought, if it's body we need, I think there's a cemetery not far from here..."
+The ghosts of old hunters and Roadhouse frequents are all staring at Charlie now. She glances at them nervously. "Just a thought, if it's body we need, I think there's a cemetery not far from here..."
 
-"You want to be a haunted skeleton?" Bobby frowns.
+"You want to be a haunted skeleton?" Bobby frowns. "Scratch that, a freaking zombie?"
 
 Ash says, "That doesn't sound very cool."
 
-Jo adds, "Almost like a zombie apocalypse. Except we are good zombies."
+Jo adds, "Except we might not be the only ones thinking about that. Out that, the ghost apocalypse might have already turned into a zombie apocalypse. Plus the demon apocalypse."
 
 Charlie shakes her head quickly. "You're right, bad idea. Don't mind me."
 
 Sam holds out a hand, redirecting their attention back to him. "Maybe not. Hear me out --"
 
-They turn to him. Sam continues, "What if we split, half of you stay in bunker with Dean and Cas, don't let the demons come in --" just as he speaks, a loud pounding noise comes from the bunker's front door. The demons barricading out there are still relentlessly trying to break through the heavily sigil-protected door. They don't really know how long that door is going to hold. "-- Those who are interested to go for a field trip take a walk in the cemetery and we go to Hell together. Most of us are trained hunters, what's so different from fighting inside a fleshed body and fighting with skeletons? Keep away from iron and salt, close to holy oil and water, we should be fine."
+They turn to him. Sam continues, "What if we split, half of you stay in the bunker with Dean and Cas, don't let the demons come in --" just as he speaks, a loud pounding noise comes from the bunker's front door. The demons barricading out there are still relentlessly trying to break through the heavily sigil-protected door. They don't really know how long that door is going to hold. "-- Those who are interested to go for a field trip, they can come with me to take a walk in the cemetery and we go to Hell together. Most of us are trained hunters, what's so different from fighting inside a fleshed body and fighting with skeletons? Keep away from iron and salt, close to holy oil and water, we should be fine."
 
 "That's hell of a plan," Bobby breathes out sharply, looking around them. "But honestly I can't think of a better one. Anyone?"
 
@@ -3936,9 +3970,11 @@ The rest of the group falls quiet.
 
 "Bobby, Ellen, you stay with Dean. Mary and I will go with Sam." A deep voice cuts them off from behind the group.
 
-"John Winchester," Ellen turns to the newcomer, tone icy.
+The crowd silently splits to show the man.
 
-Bobby eyes him, expression guarded.
+"John Winchester." Ellen turns to him, tone icy.
+
+Bobby eyes him, expression stern.
 
 A quiet tension simmers in the air.
 
@@ -3946,9 +3982,9 @@ John avoids their eyes, looking directly at Sam. "Don't think I'm popular around
 
 "Damn right," Bobby answers coldly.
 
-John shoots him a quick glance then turns back to Sam, managing a quick quirk of his lip, stepping closer. "What do you say? Your mother and I would love to run the mission with you. It's Hell, right? I've been to the place anyway, wouldn't get lost."
+John shoots him a quick glance then turns back to Sam, managing a tight quirk of his lip, stepping closer. "What do you say? Your mother and I would love to run the mission with you. It's Hell, right? I've been to the place anyway, wouldn't get lost."
 
-Dean keeps his eyes dedicated on Cas, his back to the doorway of his room where the others are gathering, but his Adam's Apple bobs up and down quickly. He has to snap his eyes shut to keep more tears from pouring out, but they're falling from the corners of his eyes nonetheless.
+Dean keeps his eyes dedicated on Cas, his back to the doorway of his room where the others are gathering, but his Adam's Apple bobs up and down rapidly. He has to snap his eyes shut to keep more tears from pouring out, but they're falling from the corners of his eyes nonetheless.
 
 "Mom, Dad, it's dangerous out there." Sam says difficultly. "Maybe not everyone can make it."
 
@@ -3956,9 +3992,9 @@ Dean keeps his eyes dedicated on Cas, his back to the doorway of his room where 
 
 Dean finds there isn't enough strength in him to voice anything. Any objection to the plan that can go wrong in so many ways. Any farewells to those who might never survive as a *soul*. Nothing but a whimper.
 
-Sam's eyes are hot, but he nods appreciatively. "I never thought... " he pauses to manage the twitch of his face, torn between a sob and a smile. He looks at Mary and John with gleaming eyes. "I'd never imagine a day I'd go hunting with both my parents. I'd love that."
+Sam's eyes are hot, but he nods appreciatively. "I never thought... " he pauses to manage the twitch of his face, torn between a sob and a smile. He looks at Mary and John with gleaming eyes. "I'd never imagined a day I would go hunting with both my parents. I'd love that."
 
-The perpetual pounding and scratching on the front door echoes louder and louder, passing through the corridors and reaching their ears. The bunker protection might be failing.
+The perpetual pounding and scratching on the front door echoes louder and louder, passing through the hallways and reaching their ears. The bunker protection might be failing.
 
 They glance at the noise's direction nervously.
 
@@ -3982,29 +4018,41 @@ Pastor Jim raises his hand with his cross in it. "I got it."
 
 Caleb and a few other old hunters raise their hands. "On it."
 
-Dean's eyes land on the translucent figures around them, scanning their faces one by one. He breathes out heavily, and tells them wholeheartedly. "Thank you," he says more than gratefully. His eyes are burning hot with tears again but this time he blinks them away. "Thank you for fighting our war."
+Bunker has always supposed to be a central fortress for a whole army to organize and prepare a war. For once, it finally operates as it's supposed to, with a full house of fighters and soldiers.
 
-"It's everyone's war, Dean, not just yours." Bobby interrupts him roughly. "Don't ever think you're saving the world alone."
+Dean's eyes land on the translucent figures around them, scanning their faces one by one. He breathes out heavily, and tells them, "Thank you."
+
+He says it with his full heart and all the gratitude. His eyes are burning hot with tears again but this time he blinks them away. "Thank you for fighting our war."
+
+"It's everyone's war, kid, not just yours." Bobby interrupts him gruffly. "Don't ever think you're saving the world alone. We got you."
 
 Dean pulls a shallow smile, then turns to grab Sam into a hug. "I'll see you around. Come back safely."
 
 Sam nods over his shoulder. "Don't worry. I got Mom and Dad with me. Never felt safer."
 
-Dean lets him go, wiping his eyes roughly, smiling bitterly at his parents. "Mom. Dad."
+Dean lets him go, wiping his eyes roughly, smiling bitterly at his parents. "Mom. Dad." There are still so much he wants to say, but so little time.
 
 John and Mary give him a film nod. "Dean."
 
-Everyone starts moving to their positions. Dean goes back to Cas's side.
+Mary's ghostly hand brushes past his cheek, leaving a chilly sensation. "I love you," she says. Gentle and beautiful.
+
+Dean has to bite his lower lip to stop it from trembling too much. He nods tightly. "Protect Sammy," he chokes hoarsely. "And come back. Please." He does not say goodbye. He doesn't want to.
+
+"Of course." Mary smiles easily. The three of them move toward the garage together.
+
+Dean stares at their backs a moment longer.
+
+Everyone starts moving to their assigned fighting positions. Dean goes back to Cas's side.
 
 <br>
 
 > INT. Cage - dark (Sam, John, Mary, Crowley, Rowena, Michael)
 >
-> Sam get Rowena to get Michael out, John/Mary possess skeleton as zombie form, Michael threatening, John/Mary protect Sam, John/Adam talk
+> Sam get Rowena to get Michael out, John/Mary possess skeleton as zombie form, Michael threatening, John/Mary protect Sam, John/Adam talk, Adam helps persuade Michael
 
-It feels like a Deja Vu again, going to Hell, going to the Cage in the nowhere. Descending the stairs into nothingness, with a demon and a witch on his side. But the other companies are too different that Sam can feel their eyes on his back from time to time. Sam tries very hard to not glance at their current vessel.
+It feels like a Deja Vu again, going to Hell, going to the Cage in the nowhere. Descending the stairs into nothingness, with a demon and a witch on his side. But the other companies are too different and too distracted. Sam can feel John and Mary's eyes on his back from time to time. Sam tries very hard to not glance and grimace at their current vessels.
 
-"Well, that's a scene I never thought I'd seen." Crowley tuts loudly, eyeing the skeletons of John to Mary. The bones and skull of their current form shake and clatter as they make moves. The crispy sound echoes in the bleak passageway of Hell.
+"Well, that's a scene I never thought I'd seen." Crowley tuts loudly, eyeing the skeletons of John and Mary. The bones and skulls of their current forms shake and clatter as they make moves. The crispy sound echoes in the bleak passageway of Hell.
 
 They still manage to pack and carry flagons of holy water and holy oil with them.
 
@@ -4012,33 +4060,51 @@ They still manage to pack and carry flagons of holy water and holy oil with them
 
 Sam is actually surprised that John hasn't topple the whole jar of holy water on Crowley. He wonders if it has anything to do when he last mentioned he's "a friend" back in the car outside Missouri's.
 
-"Nor do I," Rowena agrees. "Haven't seen in my three hundred years of life. Haven't imagined with my wildest imagination, and you knew I can imagine many things."
+"Nor do I," Rowena agrees with a taunting smile. "Haven't seen anything remotely similar to this in my three hundred years of life. Haven't imagined with my wildest imagination, and you knew I can imagine many things."
 
 "And a witch," Mary regards her.
 
-"And you two are zombie ghosts. Be good ones before losing it, alright?" Crowley snaps his finger and lights the torches on the stone wall, continues leading the way down to the pit. "We already got enough problems."
+"And you two are zombie ghosts. Be good ones before losing it, alright?" Crowley snaps his finger and lights the torches on the stone wall, leading the way down to the pit. "We already got enough problems."
 
-Even him sounds exhausted. Sam observes.
+Even he looks exhausted. Sam can't help noticing.
 
-Rowena is also surprisingly cooperative today, didn't even object much before agreeing to help. Sam points it out.
+The King of Hell looks like he has been drowned by an all-work-and-no-play life. His suit isn't as neat as he usually would keep. His suit shoes has dust over the leather. And the crease between his eyebrows are forming into a permanent knot. He doesn't even have a glass of alcohol anywhere near him. And he stays mostly quiet throughout the whole journey down to the Cage, pondering on something.
 
-"What's the problem with you guys?" the witch rolls her eyes. "We don't do what you want, you're upset; we do what you want, you're upset. Make your mind, will ya?"
+Sam considers to ask how his work is in other demon-related activities, and he might would if it's any other day when his mind has a split of second for a break. But not today. Already too many things crowding his mind, and he really can use a moment of silence when Crowley isn't speaking. He'd better treasure that moment without probing Crowley to say something more.
+
+Rowena is also surprisingly cooperative today -- she didn't even object much before agreeing to help. Sam points that out.
+
+"What's the problem with you guys?" The witch rolls her eyes. "We don't do what you want, you're upset; we do what you want, you're upset. Make your mind, will ya?"
 
 Sam rolls his eyes too. "Sorry! Just saying I'm surprised, that's all."
 
-"You are just sadistic, I know. Poor Samuel," Rowena gives him an exaggerated smile, putting a hand on his shoulder squeezing intimately. Sam clears his throat loudly, shifting away, forcing himself not to look back at his parents.
+"You are just sadistic, I know. Poor Samuel," Rowena gives him an exaggerated smile, putting a hand on his shoulder, squeezing intimately. Sam clears his throat loudly, shifting away, forcing himself not to look back at his parents to find a reaction.
 
-"You boys just can't believe anything that's too easy to get -- a cake on a plate with a cherry on top. Your brother too." Rowena says brightly, taking her hand back, steadying the bag of ingredients she's carrying. "Though for his case, that cherry is an angel." Sam clears his throat loudly again.
+"You just can't believe anything that's too easy to get -- a cake on a plate with a cherry on top. Your brother too." Rowena says brightly, taking her hand back, steadying the bag of ingredients she's carrying. "Though for his case, that cherry is an angel." Sam has to clear his throat loudly again.
+
+"How are they, though?" Rowena asks with some minor interest. "Curious they are not here with you. Let me guess, they are too tied-up together and decide to throw out the third wheel now?"
+
+Sam fidgets with the blade and flashlight in his hands uncomfortably. "They are fine. Just, busy with other things," he says simply.
+
+Rowena studies his face curiously. "My my, did I hit some nerve?"
+
+"It's none of your business." Mary steps in to the conversation. "No one is third-wheeling anyone. We all volunteered."
+
+Rowena glances at Mary briefly, then talks to Sam again, "I can see where you boys inherit those tempers from. Like mother, like sons. Or father, too, I bet."
+
+Sam huffs a short laugh.
+
+Rowena stays quiet for the rest of the trip.
 
 They soon arrive at the level where the Cage is located. The deepest, lowest den.
 
-The Cage hangs in the middle of nothingness, locked by iron chains wiring it around all its corners. The small confined prison where they used to temporarily talk to Lucifer -- which turned out to be not so temporarily -- still stands on the ground, which is the only reference to tell where the ground is in all the darkness and nothingness.
+The Cage hangs in the middle of nothingness, locked by iron chains wiring around all its corners. The small confined prison where they used to temporarily talk to Lucifer -- which turned out to be not so temporarily -- still stands on the ground, which is the only reference to tell where the ground is in all the darkness and nothingness.
 
 Rowena sets up her cauldron and the ingredients at the edge of where light still reaches, starts murmuring the spells. The runes and sigils carved on the side of the Cage brightens up in her command. A low rumbling sound like a distance thunder is rolling closer. More and more intense as the spell sinks in.
 
 "Shouldn't we prepare him a vessel like the one you did for Lucifer?" Sam suddenly remembers, turning to Crowley.
 
-"Sorry, one and only. Not exactly a vessel retail factory around here, in case you didn't notice." Crowley says dryly.
+"Sorry, Nick's is one and only. Not exactly a vessel retail factory around here, in case you didn't notice." Crowley says dryly.
 
 "He still has Adam, right?" Sam asks cautiously.
 
@@ -4048,11 +4114,11 @@ Rowena sets up her cauldron and the ingredients at the edge of where light still
 
 Sam swallows. Glancing back, he splutters, "Dean and I found out we had a half-brother a few years ago. Apparently he's also considered a Winchester by the archangels."
 
-"A half-brother?" Mary asks confusedly. "What are you talking about?" She turns to her side, "John?"
+"A half-brother?" Mary asks, confused. "What are you talking about?" She turns to her side, "John? You never told me that."
 
 Crowley whistles, "Awkward."
 
-"I'll tell you everything later," John stutters, which Sam thinks he's never seen his Dad ever did before. "He's also my son."
+"I'll... I'll tell you everything later," John stutters, which Sam thinks he's never seen his Dad ever did before. "He's also my son. You were gone, and I wasn't exactly... you know."
 
 Mary says slowly, "Okay."
 
@@ -4066,15 +4132,15 @@ Sam lets out a short breath. "Not so much. Ghouls killed him and his mother, and
 
 "You couldn't save him?" Mary prompts.
 
-"We tried," Sam tells them, feeling the bitterness on his tongue. "Death gave Dean a choice, saving me or saving Adam. He could only get one of us out, so he saved me."
+"We tried," Sam tells them, feeling the bitterness on his tongue. "Death gave Dean a choice, saving me or saving Adam. He could only get one of us out, so he saved me. I'm sorry."
 
 John sighs loudly.
 
-Rowena's chanting winds higher and faster, then halts abruptly. Their attention turns back to the ritual.
+Rowena's chanting words pitch higher and faster, then halt abruptly. Their attention turns back to the ritual.
 
 The witch slices her palms and claps them together, yelling the last pose: "*Torzul d, zamran!*"
 
-The symbols on the Cage all lightens up at the same time, glowing together, combining into one, shining as bright as the Sun and more. The distant rumbling sound now becomes the thunder and lightening right on top of their heads. The heat and electricity in the air fries their skin.
+The symbols on the Cage all lighten up at the same time, glowing together, combining into one, shining as bright as the Sun. The distant rumbling sound now becomes the thunder and lightning right on top of their heads. The heat and electricity in the air fries their skin.
 
 "He'll kill us!" Sam suddenly realizes, yelling, covering his eyes. He vaguely hears the movement of others hurrying closer as well, something hard and rough colliding to his skin. But he can't open his eyes to see.
 
@@ -4082,21 +4148,23 @@ The symbols on the Cage all lightens up at the same time, glowing together, comb
 
 "What's the difference?!" Sam counters automatically.
 
-"Are you really spending your last breath bickering with this three-hundred-year-old bitch?!" Crowley shouts at both of them, ducking down somewhere. "We all going to die from your stupid plan anyway!"
+"Are you really spending your last breath bickering with this three-hundred-year-old witch?!" Crowley shouts at both of them, ducking down somewhere. "We all going to die from your stupid plan anyway!"
 
-And then, the blinding light recedes, a figure with the shadow of six massive wings descending slowly from the air.
+And then, the blinding light dims. A figure with the shadow of massive wings descends slowly from the air.
 
-Sam chances a glance. The figure wears Adam's body. But he doesn't want to think if that kid is still in there somewhere or butchered and tortured even worse than his soul once were.
+Sam chances a glance. The light is still bright, not not strong enough to burn his eyes. The figure wears Adam's body. But he tries not to think if that kid is still in there somewhere or butchered and tortured even worse than his soul once were.
 
-"Michael," Sam speaks carefully, straightening up. He realizes John and Mary have thrown themselves onto him, covering his back as best as they could with their skeleton body. The soothing sense of security he felt a moment ago slides off him as they straighten up as well. Sam blinks.
+"Michael," Sam speaks carefully, straightening up. He realizes John and Mary have thrown themselves onto him, covering his back as best as they could with their skeleton body. The soothing sense of security he felt a moment ago slides off him as they straighten up as well. Sam blinks, feeling his eyes hot.
 
-"You wouldn't have been able to protect your son with your borrowed body, if I wanted to destroy every one of you," Michael announces solemnly.
+"You wouldn't have been able to protect your son with your borrowed bodies, if I wanted to destroy every one of you," Michael announces solemnly.
 
 Sam realizes he's talking to John and Mary directly.
 
-John takes a step ahead, exposing himself to the light of the archangel without shaking. "I have to protect him as best as I can, just like I had been trying to protect you, Adam! I'm sorry I failed. I'm sorry about everything you're going through," he says loudly, looking at the archangel's lightened up face, the face that also belongs to Adam Milligan, or Adam Winchester, in his eyes.
+John takes a step ahead, exposing himself to the face of the archangel without shaking. "I have to protect him as best as I can, just like I had been trying to protect you, Adam. I'm sorry I failed. I'm sorry about everything you're going through," he says loudly, looking at the archangel's lit-up face, the face that also belongs to Adam Milligan -- or Adam Winchester, as far as he concerns -- in his eyes.
 
-Michael drops to the ground before them, bare-footed. The lights in his eyes extinguished completely, turning into Adam's bright blue eyes. He turns to John slowly, looking at him straight. "I'll let Adam decide if he'll forgive you. But before that, where can I get some decent burger or pizza? Adam is starving."
+Michael drops to the ground before them, bare-footed. He turns to John slowly, looking at him straight. "I will let Adam decide if he wants to forgive you. But before that, where can I get some decent burger or pizza? Adam is starving."
+
+The lights in his eyes extinguish completely, turning into Adam's bright blue eyes.
 
 <br>
 
@@ -4108,11 +4176,11 @@ The spell Rowena used to open Cage: "*Torzul d, zamran!*" was referenced from th
 
 #### Act 3
 
-> INT. bunker - day (Dean, Bobby, Ellen, Charlie, others)
+> INT. bunker - day/afternoon (Dean, Bobby, Ellen, Charlie, others)
 >
 > demons attack bunker, the ghosts help protect them
 
-Dean thinks he can hear bunker door shaking just from his room. The ghosts of all their hunter friends have spread out to their assigned positions, getting prepared. He really should join them, considering he's the only one around able to shoot a rock-salt gun.
+Dean thinks he can hear bunker door shaking just from his room. All their ghost hunter friends have spread out to their assigned positions, getting prepared. He really should join them, considering he's the only one around who's able to shoot a rock-salt gun.
 
 He doesn't want to leave his room.
 
@@ -4120,39 +4188,53 @@ Cas hasn't woken up. Hasn't even moved or stirred, or twitched his finger to the
 
 Dean studies his face, hating the wild thoughts in his mind that are getting stuck in the last time he sees those blue eyes staring back at him.
 
-"They're in position," Jo reports quietly, standing in the corridor outside the door, facing away from him. "We're just waiting for them to get through now."
+"They're in position," Jo reports quietly, standing in the hallway outside the door, facing away from him. "We're just waiting for them to get through now."
 
 "I should go help them," Dean says hoarsely, squeezing Cas's hands one more time and tucking them under the cover. "It should be close enough as long as I'm in the bunker."
 
-"I'll keep watching," Jo says quickly. "I'll let you know if he wake up or any change."
+"I'll keep watching," Jo says quickly. "I'll let you know if he wake up or have any change immediately."
 
-Dean manages to pull a bleak smile. "Thank you."
+Dean manages to pull a bleak smile. "Thank you." He means it.
 
 "Don't mention it." Jo smiles back faintly. "Just, be careful."
 
 Dean charges to the war room.
 
-Ellen and Caleb station at the bottom of the staircase near the entrance, with water guns in their hands. Pastor Jim stands near a bucket of water, murmuring his blessing. Charlie and Ash position behind the control station, not even touching any buttons, but Dean can see them turning on their own under their glare.
+Ellen and Caleb station at the bottom of the staircase near the entrance, with water guns in their hands. Pastor Jim stands near buckets of water, murmuring his blessing.
 
-He lets out a ragged breath. Everything's freaky in every sense of ways, but somehow, just perfect.
+Charlie and Ash position behind the control station, each responsible for one half of the station, having a quiet debate. Charlie points at a knob in the middle, arguing, "No, it should be that one!" She focuses on it and the knob turns on its own without her touching. Ash rolls his eyes, saying, "That's just the voltage! You'll overload the grid if you don't increase the upper tolerance, too." He points at a slider. The button moves slowly upward and all the bunker lights get brighter. All the ghosts look more translucent under the brighter light, but no one flickers.
 
-He thinks he never felt safer before on any eve of battle night.
+Dean lets out a ragged breath. Everything looks freaky in every sense of ways, but somehow, just perfect.
 
-Ellen glances at him sharply. "We got this."
+It's not the first time he has to experience "the last night on Earth" type of pre-war quiet moment. He went through enough to know how sentimental or desperate it could get, but this is not one of them. None of them seems to even spare a thought of what will happen to them next, they're just there, ready and preparing. Focused and hopeful. Having each other's back.
 
-Dean grabs an angel blade from the table, standing beside her. "I know," he says shortly. It's not like he has to spell out "I'm not the kind of person who'd let everyone die for me while I hide in the home front."
+Dean thinks he's never felt more a part of something, than in this moment.
 
-A quick smile flashes across Ellen's face. "Always play a hero, aren't you?"
+*It's not just your war.*
+
+*Don't ever think you're saving the world alone.*
+
+*We got you.*
+
+Dean exhales a long, stressed breath.
+
+Ellen glances at him. "We got this."
+
+Dean grabs the angel blade -- the one Cas gave him earlier -- and stands beside her, closest to the door. "I know," he says shortly. It's not like he has to spell out "I'm not the kind of person who'd let everyone die for me while I hide in the home front."
+
+A quick smile flashes across Ellen's face. "Always have to play a hero, haven't you?"
 
 "Just doing my job," Dean answers honestly.
 
-The front door shakes violently once, twice. And a loud explosion bursts it open at the third time. Heat of fire and debris of explosion blast into the bunker. Dean is pushed flying back in the air, hitting his back on one of the pillars. He hears bones cracking.
+The front door shakes violently once, twice. And a loud explosion bursts it open at the third time. Heat of fire and debris of explosion blast into the bunker. Dean is pushed flying back in the air, hitting his back on one of the pillars. He can feel his bones cracking and the back of his head aching.
 
-Black smoke along with human figures file into the place through the unprotected entrance. Ellen and a few hunters start shooting. They stagger on the stairs, hissing and cursing as holy water spurt onto them. But more step over their fallen bodies and rush toward them. They all have black eyes.
+A handful of demons in meatsuits file into the place through the unprotected entrance, accompanied by more thick black smoke. Ellen and hunters start shooting holy water through their water guns. The vessels stagger on the stairs, hissing and cursing as holy water pour onto them, burning and disintegrating. But more of them step over their predecessors' fallen bodies and rush toward them. Every single one of them blink black eyes.
 
-"No!" Dean yells. Still trying to recover from the spinning of his head from the collision, but he's still jumping up and swaying his angel blade at the closest demon.
+"Freaking demons!" Dean yells. Still having throbbing pain in the head from the collision, but he manages to jump up and sway his angel blade at the closest demon.
 
-The one facing him is a young athletic man, looking about his age ten years ago. He looks vaguely familiar, might be someone he'd run into before when running a grocery run in Lebanon. The man grins with white teeth, "Well, well, isn't that Dean Winchester?" He speaks in a long and lazy voice. The tone almost recognizable. More demons gather closer to him just from his calling.
+The one facing him is a young athletic man, looking about early-twenties. He looks vaguely familiar, might be someone he ran into before when running a grocery run in Lebanon. It's a small town. Dean is distracted for a brief second about what the town must has become with all the demons raiding through.
+
+The man grins with white teeth, "Well, well, isn't that Dean Winchester?" He speaks in a long and lazy voice. The tone almost recognizable. More demons gather closer to him just from his calling.
 
 But Dean doesn't really have time to register that tone, just lunging for a second staggering sway. His vision swims from the ache in the head. The demon jumps aside, dodging it easily. "It's going to be so much joy to kill you, for killing my whole family," he grits his teeth maliciously.
 
@@ -4168,45 +4250,77 @@ Monroe laughs, turning his attention back to Dean. "And for you, too. Can you im
 
 The demon hisses painfully, staggering from the table, dropping to the floor in a loud thump. Smoke steaming from the skull of his body.
 
-Dean catches the break, jumping on top of him and stabbing the blade into his heart. The demon flashes bright orange, burning inside the vessel with a disgusting burned flesh and sulfur smell. The body drops dead, so does the demon inside him.
+Dean catches the break, jumping on top of him and raising the blade high, ready to stab into his heart, when Ellen shouts, "Dean! Stop! There's a human in there!"
 
-"Thanks, Ellen." Dean hauls himself up, pulling the blade out of the demon's chest.
+Dean freezes in that posture, glaring at Monroe Styne's ugly black eyes -- that's all he can see. "We don't know that!" he yells back, fingers itching to bury that blade deep and thorough to wipe that smile off the demon's face. The throbbing sick feeling gets worse.
 
-"You okay?" Ellen glances at him.
+"Oh yes, he is." Monroe answers smugly. "What are you going to do, Dean? Killing a kid? Being a killer like last time? Like you always are?"
 
-"Just a few broken bones, no big deal." Dean presses his head heavily, the hammering behind his eyes are almost blinding, giving him dark waves. He presses against the table to steady himself. "I have to check on Lucifer. They're here for him."
+Dean grits his teeth, still staring at Monroe but talking to Ellen. "We don't have luxury for this!" The hand with the blade is shaking for holding it with too much force. He lowers it a few inches. "If we send him down, he'll just pop right back! He has to be killed permanently!"
 
-"I'll go with you," Ellen says quickly.
+"We get him to the dungeon," Ellen says calmly. "The bastard wants to meet the Devil, then we just introduce them to meet."
 
-"No, go to Cas. Draw demon traps outside my room." Dean answers sharply, managing to blink out the tears gathering from pain, looking at Ellen earnestly. "Please."
+It takes Dean a second to understand what she means. "You are a genius." The furrow between his eyebrows unfolds slightly.
+
+"We have some more tricks up our sleeves," Ellen answers nonchalantly. "Whenever you're ready, move your ass."
+
+Dean manages to haul himself up, all the while making sure he has Monroe's arms twisted and grabbed in his control. He's glad at least the young man the demon possessed is slim and shorter than him. He tries to ignore the hammering ache in his back and behind his eyes. "Alright, I'm taking him downstairs."
+
+"I'll go with you," Ellen says quickly. "You don't look so hot, kid."
+
+"Just a few broken bones, no big deal." Dean tries to make his voice sound light. "Go to Cas. Draw demon traps outside my room if you can. I should have done that, can't believe I forgot. They might already find him. I shouldn't leave only Jo with him."
+
+"Dean," Ellen tries to start.
+
+"Please," Dean says sharply, managing to blink out the tears gathering from the pain, looking at Ellen pleadingly.
 
 "You *really* care about the angel, don't you?" Ellen says, tone suddenly soft.
 
-"Yes, I do." Dean answers without hesitation.
+"Yes, I do," he answers without hesitation.
 
-"Good." Ellen turns sharply to the control station. "Ash, time for the holy mist."
+"Good." Ellen smiles a little, stops arguing and starts moving toward the hallway leading to their rooms.
 
-"Yes, Ma'am!" Ash answers brightly.
+Ash yells from the control station, "Ellen, is it about time for the holy mist?"
 
-"Nice!" Charlie says cheerfully, bolting to action as well. "Was waiting for that!"
+"We have holy mist?" Dean is properly surprised. Which, he realizes he really shouldn't be. He knows they're amazing, but he just kinda forgot after so long.
 
-"We have holy mist?" Dean's surprised.
+"Do it!" Ellen commands.
 
-The bunker light goes out, emergency light flashing dazzling red. Fire alarm goes off at the same time, and Dean can hear the emergency extinguishing system and fan starts functioning all over the bunker. Thin mist sprays from the ceiling.
+Charlie cheers, bolting to action. "Nice! Was waiting for that!"
 
-Ash announces proudly, "Took me a while to pick up the ventilation system from fifties, but damn this is a delicate system. Some change to the analogue and digital signal, you can get a holy bunker,"
+A short electrical buzzing sound comes out from the control station. Some of the pointers on the panel swing violently for a second, then all the bunker lights go out.
 
-Painful shrieking of demons covered by the holy spray can be heard from every corridor of the bunker.
+Monroe barks out a mocking laughter. "Asking a bunch of ghosts to defend demons? That's your brilliant ideas, Dean? How did you live for so long?"
+
+"Wait and see!" Charlie says, sounding slightly offended.
+
+That's when the emergency light comes back on, flashing dazzling red. Fire alarm goes off at the same time, and Dean can hear the emergency extinguishing system and fans start functioning all over the bunker. Thin mist starts spraying from the ceiling, and soon turns into downpour.
+
+He realizes the fire alarm is not real fire alarm, but an enhanced recording of exorcism spells. He wonders for a second if it's the original Man of Letter's doing or Ash and Charlie pull everything together in such short time. *They really are a whole team of geniuses.* Dean can't help thinking. *So this is how it feels to have so many people looking out for your back. This is how it feels to not have to fight alone.*
+
+Monroe yells in pain when the mist sprays onto his face. Steams evaporate from his head.
+
+Ash announces proudly, covering the shrieking demon yell of pains that suddenly grow hundreds of times louder, "Took me a while to pick up the ventilation system from fifties, but damn this is a delicate system. Just some tiny changes to the analogue and digital signals, you get yourself a holy bunker!"
+
+Painful yelling and screaming mixed with the sound of holy spray falling to the floor and the exorcism chants, echo from every corridor of the bunker, making the best orchestra of the day.
 
 "By 'a while', he means twenty minutes, with us working together," Charlie says, beaming.
 
-"Awesome." Dean blinks, completely in awe.
+"And the best part? I get to make a full shepherd's path for them." Ash yells at the few cloud of black smoke that's still lingering and squirming, trying to find the least painful area to dodge, like headless flies before a clean window. "Spoiler alert, the way to the dungeon is a free path."
 
-He sprints to the stairs leading to the dungeon.
+As if hearing his words, those demons move toward the corridor and stairs leading to the dungeon.
+
+Monroe Styne is no exception, after his black smoke also gets pulled out of the body from the exorcism. The young man's body lies limp on the floor, but he's still breathing.
+
+"Awesome." Dean blinks, watching everything completely in awe.
+
+"But you might still want to check up on the Devil." Ellen reminds him. "You told us not to go near there. Makes you the only one who can."
+
+Dean sprints to the stairs leading to the dungeon.
 
 <br>
 
-> INT. bunker dungeon - day (Dean, Cas, Lucifer, Bobby, demons)
+> INT. bunker dungeon - day (Dean, Lucifer, Bobby, demons)
 >
 > Dean go check on Lucifer, get torn apart by him verbally, Lucifer get stronger by eating demons, grills Dean about how much he'd willing to sacrifice for Cas, what's the price he'd be willing to pay
 >
@@ -4266,7 +4380,7 @@ He bolts out of the door, heading directly back to his room. Lucifer's laughter 
 
 He doesn't run into any demon on his way.
 
-Outside his room, it almost looks like a military patrol routine right there. Two hunters patrol the left and right of the corridor. Jo stands straight facing outside. And when he comes in, he meets Ellen at the foot of the bed.
+Outside his room, it almost looks like a military patrol routine right there. Two hunters patrol the left and right of the hallway. Jo stands straight facing outside. And when he comes in, he meets Ellen at the foot of the bed.
 
 "How's he?" Dean finds his knees weaken the minute he reaches the bedside. He has to sit down there.
 
