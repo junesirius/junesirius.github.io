@@ -4328,37 +4328,51 @@ Dean sprints to the stairs leading to the dungeon.
 >
 > Dean focus on Cas, Cas wake up
 
-The dungeon door is already blasted open before he reaches it. The hidden gate that was disguised by a book shelf is now a big messy hole with rupturing wooden and metal edge poking out dangerous, like mouth of a monster, exactly like the kind of "Hell's Gate" old comics would draw from seventy years ago.
+The dungeon door is already blasted open before he reaches it. The hidden gate that was disguised by a book shelf is now a big messy hole with rupturing wooden and metal edge poking out dangerously, like mouth of a monster, exactly like the kind of "Hell's Gate" old comics from seventy years ago used to draw.
 
-Holy mist is thin down here. Black smoke is still flying toward the opening, disappearing inside dungeon.
+Holy mist is thin down here. Black smoke is still being led down here without knowing what's waiting for them at the journey's end. They fly through the opening to the dungeon and disappear for good.
 
-Dean hurries to it, but before he bursts all the way in, a cold sensation on his arm pulls him backward, stopping his steps. He halts abruptly, finding the misty shape of Bobby stands beside the wall, dragging him along. Bobby puts a finger to his lips, tilting his head toward dungeon in a cautious, meaningful nod.
+Dean hurries to it, but before he bursts all the way in, a cold sensation on his arm pulls him backward, stopping his steps. He halts abruptly, finding the misty shape of Bobby stands beside the wall, hinting him to come over.
 
-Dean edges to the opening carefully, managing not to step on any broken shatters, glancing inside.
+"Bobby," Dean breathes out, ducking to the side where Lucifer can't see them. "What are you doing here?"
 
-Inside, Lucifer is stretching comfortably, arms rising high above his head, yawning lazily as black smoke is continuously absorbed inside him. He stretches like a retired old man ready to have some morning exercise in the park, twisting and turning his jolts on the shoulders and knees, letting out sighs of content.
+"What do you think? Watch the prisoner having the best feast in the world," Bobby scowls quietly. "He's like having the Michelin in there, damnit, even I'm feeling hungry now."
 
-"Did you do all these, Dean? That's very nice of you," Lucifer says suddenly. "I can't see you, but you see, my little petty food has been reporting that you're standing right there."
+Dean huffs a silent laugh. "That's the point."
 
-Dean has to step into the dungeon.
+Bobby straightens his face, concerned. "But, I don't know, maybe we should do something to stop him from getting too strong? You got a plan B to have him in control?"
+
+"That's usually Sam's job." Dean admits. "If it doesn't work, we'll just... reason with him. Hope he'd listen."
+
+Bobby stares at him. "We're so doomed."
+
+"Yeah," Dean breaks into a humorless smile. "Story of our lives, right?"
+
+"Dean, I can't see you, but I know you're there." Lucifer makes a contented purring sound as he speaks. "Did you do all these for me, Dean? That's very nice of you."
+
+Dean meets Bobby's gaze with a small start.
+
+Bobby urges a quiet warning, "Don't let him get into your head!"
+
+Dean nods and steps into the dungeon.
+
+Inside, Lucifer is stretching comfortably, arms rising high above his head, yawning lazily as black smoke is still continuously flying in. He opens his mouth, drinking them in almost in an elegant posture, then letting out sighs of content. He stretches like a retired old man ready to have some morning exercise in the park, twisting and turning his jolts on the shoulders and knees. With each gulp, his moves get more active and smooth.
 
 The angel cuff is still locked on Lucifer's wrist, but the sigils on its side is burning now. Dean can see the orange light shivering in the carves lines. He throws a lighter at the holy oil circle they have drawn around the Devil, letting the circle of holy fire burn, just in case. He wishes quietly Sam could come back quickly.
 
-Lucifer grins widely. "What's the matter? Cat gets your tongue?"
-
-"How's the food?" Dean asks carelessly. "Tasty? To your liking?"
+"How's the food?" Dean asks carelessly. "Tasty? Five stars?"
 
 Lucifer shrugs. "A bit too bitter, but it will do." He lights up his bloody red eyes as if just trying it out, then dims it back down. "Just need a little bit more."
 
 "All yours, every demon in the bunker, devour in." Dean gestures vaguely at outside.
 
-Lucifer narrows his eyes. "I know what you're doing, Dean. Taking me as a pest control, really?"
+Lucifer narrows his eyes. "I know what you're doing, Dean. Taking me for a pest control, really?"
 
 Dean shrugs nonchalantly. "You get a free meal, I get a clean house. Call it mutual benefit."
 
 Lucifer hums carelessly. "What if I want a bigger free meal? It's very tempting that you have all those ghosting friends wander around, you know?"
 
-"Out of the question, you hear me?" Dean snaps. "You touch them, we burn you alive, throw you back to Cage, anything."
+"Out of the question, you hear me?" Dean snaps. "You touch them, we burn your wings extra crispy, throw you back to the Cage, the whole set."
 
 Lucifer holds up two hands casually. "What if I say I take one of them, say, your least favorite one, that old drunken hunter, what's his name? Yeah right, you don't even know. What about I take him, and I heal your beloved angel? That's a good enough deal, isn't it?"
 
@@ -4368,13 +4382,15 @@ Lucifer studies his face, starts laughing. "Actually you know what, that deal is
 
 Dean can't trust his voice right now, so he just glares at the Devil.
 
-"Dad did the same thing in Sodom, and you know what that taught us?" Lucifer says joyfully. "Everything has a price. Just depend on how much you willing to pay."
+"Dad did the same thing in Sodom, and you know what that taught us?" Lucifer says joyfully. "Everything has a price. Just depend on how much you are willing to pay."
 
 The Devil looks at him right in the eyes, smiling sweetly. "So, Dean, how much are you willing to pay for your beloved angel, exactly? A shilling? A pound? Pay with your own life is too easy, what about those other humans? What about your proxy Dad or your dear Daddy and Mommy? Or your brother? Or, let's face it, none of the above, nothing at all? Maybe, the reason why you find it so difficult to face him, is because you know, you'd risk him for everything, but you're not really risking anything for him. Aren't you the most hypocritical man in the world, Dean?"
 
-Dean swallows violently, eyes stinging.
+Dean swallows violently, eyes stinging. "Shut up! You shut up!" he shouts uncontrollably.
 
-"Shut up! You shut up!" he shouts uncontrollably. The holy fire burns the air hot and breathless. Dean can't breathe.
+The holy fire burns the air hot and breathless.
+
+Dean can't breathe.
 
 He bolts out of the door, heading directly back to his room. Lucifer's laughter haunts him all the way up.
 
@@ -4382,13 +4398,13 @@ He doesn't run into any demon on his way.
 
 Outside his room, it almost looks like a military patrol routine right there. Two hunters patrol the left and right of the hallway. Jo stands straight facing outside. And when he comes in, he meets Ellen at the foot of the bed.
 
-"How's he?" Dean finds his knees weaken the minute he reaches the bedside. He has to sit down there.
+"How's he?" Dean finds his knees weaken the minute he reaches the bedside. He allows them to give way and kneels down by the bedside.
 
-"Getting better, I think," Ellen answers. "Breathing and everything, but you probably know angel ER better than me."
+"Getting better, I think," Ellen answers, quietly moving farther. "Breathing and everything, but you probably know angel ER better than me."
 
-Dean studies Cas's face carefully. He does look better, like Ellen said. His breathing is stronger, to the extent Dean doesn't have to test below his nose to know he is breathing. His body vibrates like waves on the sea.
+Dean studies Cas's face carefully. He does look better, like Ellen said. His breathing is stronger, to the extent Dean doesn't have to test below his nose to know he is breathing. His chest heaves and falls quietly like waves on a calm sea.
 
-Dean pats him gently over the cover once, somewhere around the shoulder. His eyes are still stingy.
+His eyes are still stingy.
 
 *Everything has a price.* He thinks bitterly. *How can this world ask me to put a price for you?*
 
@@ -4402,9 +4418,57 @@ Dean shrugs. "We want him stronger, and now he's stronger."
 
 "Let's just hope he can use that power for some good," Ellen says, voice uncertain.
 
-"Hope," Jo presses. "Is it more like pray?"
+"Hope?" Jo's voice tightens. "That's it? We'll just have to *pray* that the Devil saves us?"
 
-"Something like that," Ellen agrees.
+"Something like that," Ellen says drily.
+
+"We're so doomed," Jo sighs.
+
+"Yeah, Bobby said the same," Dean says tiredly. He feels his head so tired that even the end of the world doesn't feel like too big of a deal now. He just wants to reach under the cover to hold Cas's hand, and waits for the angel to wake up. So he does exactly that.
+
+Cas's hand feels warmer than earlier, but the black spots are still spreading, inching from the fingers to the palm.
+
+Dean just grasps his hand, leaning his forehead on the bed, settled in the exact posture as if he's praying.
+
+Ellen watches him quietly.
+
+"You should get some rest," she says, moving slowly toward the door. "We'll be right outside if you need us."
+
+Dean nods in silence, then with great effort, he manages to say with a hoarse voice before the door is closed, "Thank you, Ellen."
+
+"Any time," she answers easily.
+
+The door is closed with a click.
+
+He can still hear Jo and Ellen's voice briefly as they stand outside his room.
+
+"We should let him know the bunker needs some more work," Jo says in a whisper. "Fixing the front door and sigils, for one. There might still be more demons coming up."
+
+"We can handle that." Ellen answers. "He's where he's most needed. Don't bother him now. Good thing ghosts don't need to sleep."
+
+And then the room falls quiet.
+
+The only sound Dean can hear is just the angel's breathing.
+
+He rests his head on the bed and closes his eyes.
+
+The world darkens around him.
+
+<br>
+
+#### Act 4
+
+> INT. bunker, Dean's room - night (Dean, Cas)
+>
+> Dean has a dream, but actually in Cas's dream (still the profound bond, they have mental link)
+>
+> In Cas's dream, Cas is dying and saving Dean, but Dean keeps dying. Cas's so determined to save Dean that he can't wake up.
+>
+> Dean goes in, shows Cas he's the one dying, he needs to save himself for once, that's how this could work. (confession?)
+>
+> Dean also learns the same lesson, he's also not letting Cas die like the way Cas wouldn't let him die, they're two idiots in the same ship.
+
+
 
 
 
@@ -4412,9 +4476,27 @@ Dean shrugs. "We want him stronger, and now he's stronger."
 
 ###### [TBA]
 
-(next transition: Cas wake up, Sam/Michael/Mary/John come back; add back Michael/Lucifer scene from temporary removed scenes; probably need to rewrite/reexamine Dean/Lucifer scene)
+> Dean has a dream, but actually in Cas's dream (still the profound bond, they have mental link)
+>
+> In Cas's dream, Cas is dying and saving Dean, but Dean keeps dying. Cas's so determined to save Dean that he can't wake up.
+>
+> Dean goes in, shows Cas he's the one dying, he needs to save himself for once, that's how this could work. (confession?)
+>
+> Dean also learns the same lesson, he's also not letting Cas die like the way Cas wouldn't let him die, they're two idiots in the same ship.
 
 #### draft notes
+
+> Cas wake up, Sam/Michael/Mary/John come back
+>
+> Michael meets Lucifer, Winchester counseling time for Michael/Lucifer, help them make peace
+>
+> Michael/Lucifer align to destroy world and let angels just die so they can control the world
+>
+> destiel getting closer and accepted by their friends and family
+
+**IMPORTANT NOTE:** when Michael helps Lucifer free, Lucifer menaces to kill them, Cas uses wings to protect Dean/Sam (claimed visual element)
+
+
 
 poke Michael, remind him last year (s11) Chuck needed help from archangel and he turned to Lucifer for help, didn't even cross his mind to save Michael from Cage, hardly his favorite son
 
@@ -4432,19 +4514,17 @@ Michael/Lucifer deciding not saving angels: There is no darkness without light, 
 
 
 
-Cas direct comatose from end of Chap 6, stays mostly catatonic in chap. 7 when they get Michael, only wake up in time when Michael/Lucifer tries to kill them
+Cas direct comatose from end of Chap 6, stays mostly catatonic in Chap 7 when they get Michael, only wake up in time when Michael/Lucifer tries to kill them
 
-bunker under demon attack, ghosts of their friends guard bunker to protect Dean/Cas (Charlie/Ash take control of computer, Bobby/Ellen direct defense on front door, Jo closest to them/warn others/pass message, Pastor Jim holy water, Caleb armory, other hunters spread defense)
+~~bunker under demon attack, ghosts of their friends guard bunker to protect Dean/Cas (Charlie/Ash take control of computer, Bobby/Ellen direct defense on front door, Jo closest to them/warn others/pass message, Pastor Jim holy water, Caleb armory, other hunters spread defense)~~
+
+~~demon attack solution: let Lucifer eat them all~~
 
 ~~second time Dean has to choose: stay with Cas to slow down his infection, or go with Sam to get Michael. both Cas/Sam need him, and both are to save Cas. choose stay with Cas~~
 
-**outline:** Michael meets Lucifer, Winchester counseling time for Michael/Lucifer, help them make peace; Michael/Lucifer align to destroy world and let angels just die so they can control the world; destiel getting closer and accepted by their friends and family
+~~**Outline:** Michael meets Lucifer, Winchester counseling time for Michael/Lucifer, help them make peace; Michael/Lucifer align to destroy world and let angels just die so they can control the world; destiel getting closer and accepted by their friends and family~~
 
-all those people he had protected are now taking turn to protect/look after him and people he care, not just Dean save them now, but everyone they have saved along the way are saving them back this time
-
-**from Chap 5 notes:** John/Mary stay with them when Dean/Sam say yes to Michael/Lucifer, might make it easy as a support/family/love to help them regain control and break free. All those other important people in their lives are the key for them to regain control
-
-**from Chap 5 notes:** When Michael comes back in Adam's vessel, there will be interaction between John/Adam, and Mary's reaction to it (could get awkward)
+~~all those people he had protected are now taking turn to protect/look after him and people he care, not just Dean save them now, but everyone they have saved along the way are saving them back this time~~
 
 **from Chap 5 notes:** John is going to meet Bobby/Ellen/Caleb/Pastor Jim, all of them he failed (not Dean's guilt, it's his guilt) (off-screen, John already talked with them before Dean back to bunker)
 
@@ -4465,10 +4545,6 @@ all those people he had protected are now taking turn to protect/look after him 
 <br>
 
 #### draft notes
-
-**IMPORTANT NOTE:** when Michael helps Lucifer free, Lucifer menaces to kill them, Cas uses wings to protect Dean/Sam (claimed visual element)
-
-the ghost friends/family will also be there when Sam/Dean need help take back control, for once they're not saving the worlds all by themselves, they have everyone they loved and loved them with them, they are loved and strong, *that* is the actual fundamental brightest light, the love for everyone and everything in the world)
 
 Cas is still in the dying state when Sam/Dean go to Heaven and explode, Cas's grace leaves him and ascend to Empty as he dies, but he struggles to fight it one last time, has to make sure Dean/Sam are safe, so his grace goes to Heaven, seeing other remaining angels are saved, Dean/Sam are saved, so he's ready for his own death, Dean/Sam choose to live again and Dean knows now Cas is really dying, but he insists one last time to hang on for him. Dean/Sam comes back to life, Dean saves Cas.
 
@@ -4536,7 +4612,11 @@ Dean pauses and nods briefly but didn't look back. He's afraid he might not have
 
 <br>
 
+**from Chap 5 notes:** John/Mary stay with them when Dean/Sam say yes to Michael/Lucifer, might make it easy as a support/family/love to help them regain control and break free. All those other important people in their lives are the key for them to regain control
+
 John/Mary/all friends/family stay with them when Dean/Sam say yes to Michael/Lucifer, might make it easy as a support/family/love to help them regain control and break free. All those other important people in their lives are the key for them to regain control
+
+the ghost friends/family will also be there when Sam/Dean need help take back control, for once they're not saving the worlds all by themselves, they have everyone they loved and loved them with them, they are loved and strong, *that* is the actual fundamental brightest light, the love for everyone and everything in the world)
 
 ### Chap. 9: The Brightest Light
 
