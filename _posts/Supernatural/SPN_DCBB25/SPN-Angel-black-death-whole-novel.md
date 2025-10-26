@@ -4324,7 +4324,7 @@ Dean sprints to the stairs leading to the dungeon.
 >
 > Dean go check on Lucifer, get torn apart by him verbally, Lucifer get stronger by eating demons, grills Dean about how much he'd willing to sacrifice for Cas, what's the price he'd be willing to pay
 >
-> INT. bunker, Dean's room - day (Dean, Cas, Ellen, Jo, others)
+> INT. bunker, Dean's room - day/later (Dean, Cas, Ellen, Jo, others)
 >
 > Dean focus on Cas, Cas wake up
 
@@ -4360,7 +4360,7 @@ Inside, Lucifer is stretching comfortably, arms rising high above his head, yawn
 
 The angel cuff is still locked on Lucifer's wrist, but the sigils on its side is burning now. Dean can see the orange light shivering in the carves lines. He throws a lighter at the holy oil circle they have drawn around the Devil, letting the circle of holy fire burn, just in case. He wishes quietly Sam could come back quickly.
 
-"How's the food?" Dean asks carelessly. "Tasty? Five stars?"
+"How's the food?" Dean asks nonchalantly. "Tasty? Five stars?"
 
 Lucifer shrugs. "A bit too bitter, but it will do." He lights up his bloody red eyes as if just trying it out, then dims it back down. "Just need a little bit more."
 
@@ -4368,23 +4368,25 @@ Lucifer shrugs. "A bit too bitter, but it will do." He lights up his bloody red 
 
 Lucifer narrows his eyes. "I know what you're doing, Dean. Taking me for a pest control, really?"
 
-Dean shrugs nonchalantly. "You get a free meal, I get a clean house. Call it mutual benefit."
+Dean shrugs. "You get a free meal, I get a clean house. Call it mutual benefit."
 
 Lucifer hums carelessly. "What if I want a bigger free meal? It's very tempting that you have all those ghosting friends wander around, you know?"
 
 "Out of the question, you hear me?" Dean snaps. "You touch them, we burn your wings extra crispy, throw you back to the Cage, the whole set."
 
-Lucifer holds up two hands casually. "What if I say I take one of them, say, your least favorite one, that old drunken hunter, what's his name? Yeah right, you don't even know. What about I take him, and I heal your beloved angel? That's a good enough deal, isn't it?"
+Lucifer holds up two hands casually. "What if I say I take one of them, say, your least favorite one, that old drunken hunter always sitting in the corner, what's his name? Yeah right, you don't even know. What about I take him, and I heal your beloved angel? That's a good enough deal, isn't it?"
 
 Dean bites his tongue, silently hating himself.
+
+Of course he can't say yes, but he can't say no, either.
 
 Lucifer studies his face, starts laughing. "Actually you know what, that deal is too good to be true, what about I take two of those nameless old drunks, and you get your Castiel back? You see where I'm getting at?"
 
 Dean can't trust his voice right now, so he just glares at the Devil.
 
-"Dad did the same thing in Sodom, and you know what that taught us?" Lucifer says joyfully. "Everything has a price. Just depend on how much you are willing to pay."
+"Dad did the same thing in Sodom, fifty righteous men blabla, then forty-five, dropping all the way to ten, and you know what that taught us?" Lucifer says joyfully. "Everything has a price. Just depend on how much you are willing to pay. That makes everything negotiable."
 
-The Devil looks at him right in the eyes, smiling sweetly. "So, Dean, how much are you willing to pay for your beloved angel, exactly? A shilling? A pound? Pay with your own life is too easy, what about those other humans? What about your proxy Dad or your dear Daddy and Mommy? Or your brother? Or, let's face it, none of the above, nothing at all? Maybe, the reason why you find it so difficult to face him, is because you know, you'd risk him for everything, but you're not really risking anything for him. Aren't you the most hypocritical man in the world, Dean?"
+The Devil looks at him right in the eyes, smiling sweetly. "So, Dean, how much are you willing to pay for your beloved angel, exactly? A shilling? A pound? Pay with your own life is too easy because you don't think it worth anything, what about those other humans? What about your proxy Dad or your dear Daddy and Mommy? Or your brother? Or, let's face it, none of the above, nothing at all? Maybe, the reason why you find it so difficult to face him, is because you know, you'd risk him for everything, but you're not really risking anything for him. Aren't you the most hypocritical man in the world, Dean?"
 
 Dean swallows violently, eyes stinging. "Shut up! You shut up!" he shouts uncontrollably.
 
@@ -4432,9 +4434,9 @@ Dean just grasps his hand, leaning his forehead on the bed, settled in the exact
 
 Ellen watches him quietly.
 
-"You should get some rest," she says, moving slowly toward the door. "We'll be right outside if you need us."
+"You should get some rest," she says after a while, moving slowly toward the door. "We'll be right outside if you need us."
 
-Dean nods in silence, then with great effort, he manages to say with a hoarse voice before the door is closed, "Thank you, Ellen."
+Dean nods in silence, then with great effort, he manages to say with a hoarse voice, "Thank you, Ellen. And everyone."
 
 "Any time," she answers easily.
 
@@ -4446,9 +4448,11 @@ He can still hear Jo and Ellen's voice briefly as they stand outside his room.
 
 "We can handle that." Ellen answers. "He's where he's most needed. Don't bother him now. Good thing ghosts don't need to sleep."
 
-And then the room falls quiet.
+They might move farther away from his door or lower their voices even more. The whispers turn to unintelligible, then blends into the white noise of the bunker.
 
-The only sound Dean can hear is just the angel's breathing.
+The room falls quiet.
+
+The only sound Dean can hear is just Cas's breathing.
 
 He rests his head on the bed and closes his eyes.
 
@@ -4460,33 +4464,199 @@ The world darkens around him.
 
 > INT. bunker, Dean's room - night (Dean, Cas)
 >
-> Dean has a dream, but actually in Cas's dream (still the profound bond, they have mental link)
+> EXT. Heaven, field (dream) - day (Dean, Cas)
+>
+> INT. Heaven, factory (dream) - day (Dean, Cas)
+>
+> Dean thought he has a dream, but actually in Cas's dream (still because of the profound bond, like a mental link)
 >
 > In Cas's dream, Cas is dying and saving Dean, but Dean keeps dying. Cas's so determined to save Dean that he can't wake up.
 >
-> Dean goes in, shows Cas he's the one dying, he needs to save himself for once, that's how this could work. (confession?)
+> Dean goes in, shows Cas he's the one dying, he needs to save himself for once, that's how this could work. (confession? kiss?)
 >
 > Dean also learns the same lesson, he's also not letting Cas die like the way Cas wouldn't let him die, they're two idiots in the same ship.
+>
+> that's how Cas wakes up
 
+Dean dreams of walking into a large field. He knows it's a dream almost immediately -- it doesn't look real just by looking at it. The sky is unitarily grey, the grass in the field too monotonically green. It's like the most lazy film setting, not bothering to add a different shade of color to the sky or the ground. Dean thinks it must be his brain too tired to come up with anything creative at this point.
 
+He starts walking.
 
+The field isn't all green after all. In a short distance, he sees black figures with wings on the ground. A large crowd of them, scattering around like smudges of roadkill birds.
 
+He remembers his last dream, the one in the Angel Black Death town, where the dream Cas scowled into his face asking why he couldn't save him, the one he had when Cas went to Heaven and got infected. That dream feels like a foreshadow of the reality, now that he comes to think of it. What would this one tell him?
+
+Dean's heart clenches and starts walking faster.
+
+The winged figures come closer. There must be hundreds and thousands of them, he gasps as he can see them more clearly. All of them angels, all of them dead. But instead of infected, this time, all of them have angel blade holes on their chest. The wings he saw from the distance is not really physical feathery wings, but scorched marks on the grass.
+
+He doesn't recognize any of them, but it's already troubling enough to make his skin cringe.
+
+"Cas?" Dean starts running, searching from one body to another, trying to see if Cas is among them.
+
+The field is too wild, and the bodies are too many. Once walking in, it's almost like a maze made of dead angels.
+
+Dean checks one angel's face to the next, seeing all their disturbed faces. Some of them look horrified, some of them disgusted, and some, as if they just accepted the fate. For the first time in his life, Dean wonders how the death feels like for angels. Do they feel scared just like many humans? Do they want to cling onto the life for one moment longer before the life is taken away? Do they struggle for the last breath and choke on their blood?
+
+*They're just like humans.* For the first time, he realizes that. And it just makes the scene looking so much worse and more disturbing.
+
+"Cas, where are you?" He looks up at the sky, asking quietly. Half praying, half scared. He's afraid to find Cas here, among the bodies, and he's afraid to not find Cas here, too. A subconscious instinct pulls at the back of his head, as if something really, really bad is happening right here and now. But he doesn't know what.
+
+Dean just keeps walking and searching, looking for Cas in the maze of bodies. He's long lost count how many dead angels he's seen, or how long he's walked, or where he is.
+
+Until he sees a small spot of light further down the field.
+
+The light is struggling to keep up, it flickers and blinks like a dying star in the night sky, or a candle almost running out, but it's still a light standing out among everything else. The light has a shade of blue in the center.
+
+Dean runs toward the light.
+
+Cas is there, kneeling next to one of the dead angel bodies, pressing his palms on their chest, eyes closed, frowning so deeply, pouring his grace onto the body.
+
+*He's trying to heal them.* Dean realizes.
+
+*He's trying to fix this.*
+
+The effort exhausts him, and the healing doesn't work.
+
+When the light fades, Cas leans down to press his ear onto the angel's chest, listening, waiting with a hopeful look on his face, and soon replaced by disappointment.
+
+But he tries it again on the next angel.
+
+And disappointed again.
+
+"Cas," Dean whispers as he walks closer, afraid of disturbing his work, but heartbroken to see him like this. Cas is like a bee in the field of dead flowers, trying so desperately but nothing works.
+
+Dean feels his lips tremble.
+
+Cas looks up from his kneeling position, his hands still holding those of the dead angel body's.
+
+"Dean." He looks surprised. "What are you doing here?"
+
+Dean shakes his head. He doesn't really know, but he says the only thing in his mind. "Looking for you. Take you home."
+
+Cas looks back down at the body, closing his eyes. "I can't," he says miserably. "I have to fix this."
+
+Dean kneels down beside him, putting his hand on Cas's, trying to take his hands away, but as gentle as he can. "Cas, they're gone. There's nothing you can do." He finds his voice choked in his throat.
+
+"You don't understand. I have to." Cas doesn't open his eyes, tears dropping from the corners. "I broke it, I have to be the one fixing it. Heaven, angels, it's all my fault."
+
+He opens his eyes, boring into Dean's. The painful glinting makes his eyes more wide and blue, more like a child than ever. "I'm sorry. I break everything I touch. I'm sorry I touched you, too. I'm sorry for everything I did to you."
+
+Dean stares at him, pained. "You didn't do anything wrong to me, Cas!" he struggles to say, "You saved me, remember? You're the best thing ever happened to me."
+
+Cas just shakes his head. "I hurt you so many times. I killed you. I broke you. I have to fix that."
+
+The field around them morphs into a factory floor, tiles bright white with bright industrial light. The dead angel bodies around them turn into bloody bodies of... Dean's. All in his own green jacket and blue jeans. All lying dead with blood smudges under the bodies.
+
+Cas is kneeling beside one of them, looking down at the angel blade hole on its chest, covering his hand over the bloody wound. The look on his face is more than devastated. His eyes start brightening up again, just like every time he heals Dean. But the hole under his palm doesn't heal, and that body remains dead.
+
+The pain on Cas deepens. "I just want to save you, Dean. How can I save you? How can I save all of you?" he whispers to the body, so saddened, so desperate, so sorry.
+
+He looks like as if completely forgets the Dean beside him.
+
+Dean presses his eye sockets hard, wiping the tears that can't stop falling. He grabs Cas's wrists, stopping him from moving to the next bloody body of his, making him turn to face him. "Cas, I'm right here. You already saved me, so many times, you don't need to... " his voice breaks. "Let me save you, for once. Please."
+
+Cas's eyes slowly focus on him, as if he sees him for the first time. "Why?" he asks slowly. "You see what I had done. Why would you ever want to save me?"
+
+The familiarity of the words makes Dean's lips twitch, almost turning into a bitter pull.
+
+*What's the matter? You don't think you deserve to be saved?*
+
+Dean will never forget the first time those blue eyes stare at him, looking into his soul.
+
+"Good things do happen, angel. You are the one who told me that, on our first night. Remember?" His fingers massage Cas's hands, rubbing unconsciously.
+
+"I remember." Cas lowers his head, looking at the floor. "Except, I don't think it's me."
+
+"Goddamnit," Dean breaks into a snap. "What do I have to do to make you understand? Yes, you are! Of course, you are!"
+
+*It's getting freaking frustrating,* Dean thinks, *even just as a dream, even just to argue with a Cas that his own mind conjures up, it's like wrestling with yourself.*
+
+*Hell, it's just his own dream, right?*
+
+Dean pulls Cas closer and kisses him. His lips press on the angels, one of his hand still lacing with Cas's hands, the other grabbing his shirt.
+
+The angel makes an almost whining sound, before his tensed body slowly relaxes. He closes his eyes and leans in. His lips dry and soft.
+
+*It feels so real as a dream.* Dean thinks, and that's the last thought before he wakes up.
+
+It's Cas's hand that he's kissing. It's warm and soft in his touching, and it's twitching and curling as he pulls away slowly.
+
+The orange bedside lamp is still on, leaving the room in a comfortable shallow light.
+
+As he looks up, Cas moans and stirs on the bed. Dean lets his hand go.
+
+Cas opens his eyes slowly.
+
+Dean breaks into an uncontrollable smile. "Morning, Sunshine," he says. "You slept long enough."
+
+Cas blinks a few times, as if still in the slow process of waking up, dragging the other half of the dream minds back to sober. He moves his hand from under the cover, and touches his lips self-consciously.
+
+Dean blushes slightly, remembering his dream. He wonders what Cas dreamed about just now. Judging by his slightly dazed look, it's probably not too bad. But Dean decides not to ask, just in case they'd go into a dream-sharing conversation.
+
+Cas starts frowning again when he looks down and sees his darkened fingers. He tries to hide it under the cover, but realizing Dean's eyes have been following his moves and no way he's not noticing, Cas quits the hiding.
+
+"How long have I been gone?" Cas asks instead, his voice dry and tired. He tries to pull himself upright and Dean gives him a hand.
+
+"Just about enough to miss the whole battle against the Mordor." Dean answers with a small grin.
+
+Cas sits against the headboard, frowning in confusion. "I don't know we have a ring."
+
+Dean sighs quietly, patting his shoulder. "Don't worry about that, just a couple of demons. We won that round."
+
+He gives a quick brief of the operation and how awesome everyone is, but skips the last part of the conversation with Lucifer.
+
+Cas listens attentively. "You have many good friends," he comments as Dean finishes.
+
+Dean chuckles. "Yeah, that's one way to put it." He pats on Cas's arms again. "All to help save my best friend. I never thought I'd see that coming one day."
+
+"How is Sam? And your parents?" Cas asks then.
+
+The smile on Dean's face drops. "Haven't got time to check on them, got my hands full in the last few hours." He checks his watch. "Thinking about giving them a call or something once you wake up. They might come back any time."
+
+"I'll go with you," Cas offers, turning to move his legs off the bed.
+
+"You ready to walk again?" Dean hesitates, hands hovering inches away from Cas's arms, as if getting ready in case he faints the moment he stands up.
+
+But Cas stands up on his own without needing much help. "I'm fine," he says plainly, reaching for his suit.
+
+Dean raises his eyebrows. 
+
+Cas rolls his eyes. "Dean, stop looking at me like I'm sick and dying."
+
+"Except you *are* sick and... that." Dean swallows. "And you did just *almost* died again saving my ass. Man, you gotta stop doing that."
+
+Cas hums noncommittally, and opens the door.
+
+Jo turns sharply around from her guarding position. "Look at you!" She regards him kindly, "All well and recovered now?"
+
+"As much as I can, yes." Cas nods gently. "I hear I have you and everyone to thank for."
+
+"Thank us when this whole mess is over," Jo answers brightly, then talks to Dean. "Sam and your parents are back, you guys might want to catch up a bit. They're in the kitchen right now."
+
+"What? When! Why didn't you knock my door to tell me?" Dean jumps to his feet.
+
+"A couple hours ago." Jo says innocently. "Mom said not to disturb you guys, let you guys rest or do whatever you need."
+
+"Is Ellen running the bunker now?" Cas asks, genuinely curious.
+
+Dean lets out a mixed sigh and chuckle. "She might as well," he answers. "In case you didn't notice, Sam and I got our plates a bit too full at the moment."
+
+"Come on, let's see if Sam brought back any good news."
+
+<br>
+
+#### Act 5
+
+> INT. 
 
 
 
 ###### [TBA]
 
-> Dean has a dream, but actually in Cas's dream (still the profound bond, they have mental link)
->
-> In Cas's dream, Cas is dying and saving Dean, but Dean keeps dying. Cas's so determined to save Dean that he can't wake up.
->
-> Dean goes in, shows Cas he's the one dying, he needs to save himself for once, that's how this could work. (confession?)
->
-> Dean also learns the same lesson, he's also not letting Cas die like the way Cas wouldn't let him die, they're two idiots in the same ship.
-
 #### draft notes
 
-> Cas wake up, Sam/Michael/Mary/John come back
+> Sam/Mary/John come back from Hell with Michael/Adam
 >
 > Michael meets Lucifer, Winchester counseling time for Michael/Lucifer, help them make peace
 >
