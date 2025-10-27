@@ -199,13 +199,13 @@ Re-organize chapter structures, post acts as chapters on AO3, post as chapters o
 
 ~~Chap 3: Canon Vince's girlfriend Jen die from taking pills, OD to suicide, and Jen!Lucifer wear long bloody red dress~~
 
-Chap 3 loose ends for later: Nick's wife/son are ghosts, can't move on, they promised to help her get peace when everything is done
+~~Chap 3 loose ends for later: Nick's wife/son are ghosts, can't move on, they promised to help her get peace when everything is done~~
 
 ~~Chap 3 edit/add: Vince will come out to meet fans, the real concert will begin. Whatever he does, however he looks (even Dean doubt he looks bad which is true), the fans don't mind, they cheer for him, fetish, he's practically god to them, king of the world, no wonder Lucifer loves it (Add live concert experience memory here). They can just have the fight on stage. Absolutely no way to get the fans out of there, not even guns or explosion or fights or fire alarm. Lucifer snaps a finger and adds some fire effect, they'd just cheer/scream/clap. Everything is a performance on stage. They're not rational. The only way to save audience is to cuff and take Lucifer/Vince away.~~
 
 ~~Chap 4: where are Claire/Alex: (S12E06) in Radiohead concert, Omaha~~
 
-Chap 5 notes for later: John will meet Adam/Michael, and Mary will know, slightly awkward moments
+~~Chap 5 notes for later: John will meet Adam/Michael, and Mary will know, slightly awkward moments~~
 
 #### Reference
 
@@ -5829,21 +5829,83 @@ Dean grins with him. "It's settled then."
 >
 > happy, hopeful ending
 
-Adam completely freaks out when Cas's limping body starts breathe and move again. That makes Sam and Dean walking back into the war room a smaller startle.
+Adam completely freaks out when Cas's limping body starts to breathe and move again. That makes Sam and Dean walking back into the war room a smaller startle.
 
+There are more wrapping works than any of them remember they've ever had for other apocalypses or cases.
 
+Adam says he doesn't know what he wants to do anymore, but maybe colleague is a good starting point, so Sam makes him a set of fake IDs and helps him settle down in a college town.
 
+The town folks that were possessed by the Stynes and passed out all over the bunker after the demons were possessed, Cas helps check they are all physically unharmed, and wipes this part of the memory, before dropping them back to town.
 
+They take Nick's body to Detroit, and the ghost of his wife, Sarah, moves on with teary eyes. The baby ghost in swaddle was already back to Heaven.
+
+They let Missouri and Jody know everything is settled, though Jody gave them a hard time, because they have forgotten to let her be a part of the operation, or keep her updated when they could have been gone for good. Jody warned them harshly about "making her phone in their speed-dials" in the middle of an awesome homecooked dinner.
+
+And finally, they go back to the bunker and everything is calm and quiet again.
+
+It's only the echo of three set of footsteps as they step down the stairs from the now-fixed front door.
+
+The bunker looks too wide and spacious.
+
+"Should we, I don't know, celebrate or something?" Sam suggests hesitantly.
+
+"Why not?" Dean moves toward the kitchen. "I'll get the beers."
 
 <br>
 
-###### [TBA]
+What's supposed to be a celebration turns into a memorial in ten minutes.
 
-> everything settled, talking about plans for the new era, going back to old hunting life, helping with everyday monsters
->
-> occasional discussion about missing the people in Heaven that they briefly reunited
->
-> happy, hopeful ending
+They swap the beers into something stronger.
+
+They didn't lose any more people in this war, but a separation after the reunion always gives off that feeling, even if they were just ghosts.
+
+"Ellen was so awesome in the fight, have you ever seen that?" Dean starts, drinking idly. "Why didn't we have them in more hunts back in the day?"
+
+Sam chuckles. "Did you forget she used to have a Roadhouse to run?"
+
+"Oh yeah, that." Dean realizes he does almost forget, but it's probably caused by the alcohol. He takes another drag of the drink, thinking back, "Ash and Charlie could have been such good friends if they ever met back then."
+
+"I'd be scared," Sam laughs jokingly. "The two of them can break into anything, who knows how big of a mess they might get themselves into."
+
+They talk about Mom and Dad, the Heaven of their family life, old stories of all their friends, and what they might be doing up there now. They have a toast for the world and everyone again. Dean makes another toast to celebrate Cas gets his power back, and Sam immediately follows with another one for them being together and witnessed by everyone, received Dean's eye-roll but he doesn't protest. Cas drinks and toasts with them, sitting next to Dean.
+
+By nine, Sam retreats back to his room, claiming he's too tired.
+
+Dean hums a goodnight, thinking maybe it's a good time for him to stop as well. He doesn't feel tired or too drunk yet, but that may be something Cas did for his body. He suspects Cas made a few tiny little modifications, like a brand new liver or something, but he doesn't know for sure. And it feels weird to ask "Hey, did you make me a new liver?" And it must be even weirder to ask, "Does that make me a virgin again?"
+
+So he just sits there, hovering his hand around the glasses. Not quite drinking, not quite thinking. As if he's just letting his mind floating around in the mid-air.
+
+"Do you want to rest now?" Cas asks him, breaking his trance.
+
+"Sure, yeah." Dean agrees, finishing the last mouthful of his drink.
+
+They walk down the hallway to his room, Dean crashes down to the bed, and Cas hesitates at the threshold.
+
+"Goodnight, Dean." Cas says, looking as if he's about to leave the room.
+
+"Where are you going?" Dean props his head up.
+
+"My room?" Cas answers unsurely. "The guest room down the hallway."
+
+Dean rolls his eyes. "Ridiculous. Come over here."
+
+Cas edges into the room, closing the door behind him.
+
+Dean pulls him close the moment Cas is within his arm's reach, and kisses him like a dying man finding the water. Cas makes a soft, surprised hum, before leaning into him. His hands cradle Dean's head, fingers parting behind his ears, holding him tight.
+
+Dean doesn't stop until he has to break for a breath. He leans his forehead against Cas's, and tells him with their breath mingled, "It's a new body so I get to say this: the first person this mouth has ever kissed is you, Cas; and it will only be you. The first person it has ever confessed is also you, because I love you. Christ, it feels like a reborn -- technically, it really is. There are so many things I'd like to try with you, you have no idea. It's like I'm re-exploring myself and the world again like a new-born baby. It doesn't even taste the same with the new tongue and teeth -- but it might just be my imagination. You certainly don't taste the same as last time."
+
+Cas chuckles and strokes his cheeks gently. "I would assure you I made everything the same, because I know exactly how every part of you is like. But I understand it would be more fun to tell you otherwise. So I will neither confirm nor deny that I made any changes to your body, so that we can explore together."
+
+That makes Dean just *have to* kiss him again, with a half-hearted complaint of "Asshole" between the entangled teeth and tongues. *Cas definitely tastes sweeter than he remembers from the dream, or from the Heaven.* Dean thinks, *Perk of being a human, is to have the sensations so easily overwhelmed.*
+
+And luckily, he has a whole lifetime to explore. With an angel by his side.
+
+Dean lies back down with a contented sigh. *Now this, is finally his big win long overdue.*
+
+<br>
+
+###### [END]
 
 #### draft notes
 
