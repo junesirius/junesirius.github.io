@@ -4989,7 +4989,7 @@ Sam breathes heavily, looking from Lucifer to Dean. Dean meets his eyes, pleadin
 
 "Dean, what are you doing?" Sam whispers urgently.
 
-Dean lowers his head, mouthing back, "Saving Cas. It's the only way. It can save everyone, too. But this will only work if both of us say 'Yes' and win. Sam, please."
+Dean lowers his head, mouthing back, "Saving Cas. It's the only way. It can save everyone, too. But this will only work if both of us say 'Yes' and win. Sammy, please."
 
 Cas hisses, "Dean, don't! I made so many mistakes just like that, thinking I was saving you. Don't do it just to save me."
 
@@ -5001,9 +5001,9 @@ Cas is desperate, "I didn't ask for you to do any of this. I didn't ask for anyt
 
 "And Sam's life, too? You can't possibly ask this of him." Cas argues.
 
-He didn't say it, but Dean reads from his eyes a silent *"We both know you would never choose Sam over me."* It pains Dean so much. He looks at Sam, a silent *"Please."* passing between them.
+He didn't say it, but Dean reads from his eyes a silent *"We both know you would never choose Sam over me."* It pains Dean so much. It pains him even more to know this has always been right. He looks at Sam, a silent *"Please."* passing between them.
 
-Sam huffs a short laugh when he makes up his mind, too. He tells Cas. "He doesn't need to. Dean's right, you're family, we do everything for our family, whatever it takes."
+Sam huffs a short laugh when he makes up his mind too. He tells Cas, "He doesn't need to. Dean's right, you're family, we do everything for our family, whatever it takes."
 
 Dean lets out a relieved sigh, squeezing Cas's shoulder, "Hey, don't be a damper. We might win, you know. Sammy beats Lucifer once, who said we can't do it again. Both of us, together."
 
@@ -5023,11 +5023,11 @@ Their hands touch for a few more moments. They just look at each other in silenc
 
 Sam nods, and turns to Lucifer, "Yes from me, too, you bastard. Come on in."
 
-Lucifer grins, "Finally!"
+Lucifer grins wide, "Finally!"
 
 The two archangels exchange a surprised but victorious look, and bright angelic grace starts pouring out of Adam and Nick's body. Their bodies drop to the floor with a thump. The room is filled with high-pitched angel shriek again.
 
-Cas murmurs quietly behind the two brothers, "Come back to me, please."
+Cas murmurs quietly behind the two brothers, "Come back. Come back to me, please."
 
 Dean hears it, but he forces himself not to look back again. He demands his head to stay forward, his eyes to stay on Michael's light. He's afraid, if he did, if he turned back to see the broken, desperate look in Cas's eyes one more time, he might not have the courage to jump into the cliff again.
 
@@ -5037,7 +5037,7 @@ Dean walks into the center of the archangel swirl. Sam right next to him.
 
 #### Act 2
 
-> INT. bunker war room - day (Dean, Sam, Cas, Michael, Lucifer; other hunters)
+> INT. bunker war room - day (Dean, Sam, Cas, Michael, Lucifer; others)
 >
 > INT. inside Michael's head - day (Dean, Michael; Cas, John, Mary, Bobby, Ellen, Jo, Ash, Charlie, everyone else)
 >
@@ -5047,9 +5047,181 @@ Dean walks into the center of the archangel swirl. Sam right next to him.
 >
 > with friends/family's help, Sam/Dean take back control, sacrifice/kill each other, explodes and kills Michael/Lucifer (in Heaven), purifies angels in Heaven, Heaven is saved, fallen souls/spirits are retrieved by angels restart working; friends/family's ghost reunite in Heaven, Cas is left alone in the bunker
 
+"What bloody hell are you idjits doing?!" Bobby's ghost flashes into shape next to the war room's door where Cas stands, as Michael and Lucifer blood into Dean and Sam's mouth. The combination of the archangel light is so bright that the ghost is turning almost completely transparent, near invisible.
 
+The unstable surges of the electricity are affecting him, too. His figure tunes in and out, and finally stabilizes enough to stay and talk for a few complete sentences. That might explain why others take longer to refocus and reshape.
 
+Bobby looks furious. "I got distracted for three minutes and you guys just jump off the cliffs now?! Stop this! Stop it right now! Cas, tell them to stop!"
 
+Cas shakes his head miserably. "I tried. They don't listen. They're doing it for me, for all of us. If they can take back control, they can fix everything."
+
+"That's a huge 'if' right there," Bobby growls. "Last time they use the Baby to wake Sam up, what do we have now?"
+
+"This time, they have us," Mary appears. So does John, standing next her.
+
+"And us." Ghosts of all their friends come up one by one. Ellen, Jo, Ash, Charlie, and all the other hunters that have been fighting this war together. One by one, they flash into focus. Their shapes are still unstable, the room is still too full of energy, but they are here nonetheless.
+
+"Let's remind our boys they're not alone." Mary says, moving toward Sam and Dean. Others follow her. "They never were."
+
+"That they have a family," John nods and does the same.
+
+"And so many friends," Ash says.
+
+"And we all love them." Charlie says.
+
+"That's something Michael and Lucifer would never understand." Cas blinks as everyone takes action. He moves, too. Stepping closer to Michael, who's glancing out through Dean's eyes now. Cas meets those eyes, the eyes he has stared into for a million times, looking for the familiar warmth he used to see in those amber green color. He stares into the pupils, into the soul, and he thinks, he can just see Dean right there deep down, and reach him like that.
+
+"Can you believe that?" Lucifer speaks through Sam's mouth, laughing in a way Sam never would, "that's how those petty human beings planning on taking us down. Us? Please. Let me see where do I start to have fun with."
+
+He makes a wide gesture, pointing at Mary at random. "What about you? Let's see, it will hurt Sammy so much to see his own hand killing his mommy dear." Lucifer raises a hand, fingers pinching together, ready for a snap.
+
+Mary looks into his eyes, saying gently, with a calm smile. "Sammy, I believe you. Fight it, fight him! I know you can do this. Not for me, but for yourself. I love you."
+
+The muscle on Lucifer's face twitches. His eyes switch between Sam's focused look and Lucifer's hysterical one. His fingers slowly unfold itself, away from the snapping gesture.
+
+Mary smiles wider. John stands next to her, telling his sons, "I know you're strong. I know you can hear us. Sam, Dean, my boys, you're doing great. Just fight harder."
+
+Lucifer glares at his fingers that are not listening to his command. "Oh, come on! You gotta be kidding me."
+
+Michael sneers at him. "Losing your battle so soon?"
+
+Lucifer glances at him in frustration, "Sam is always the difficult one. He just loves playing it tough. I just need a minute to remind him who's in charge of the ride now."
+
+Michael gestures at his body. "'Sam is the difficult one?' You want to switch? This one hasn't stopped wrestling inside. But guess what, I keep him down just fine."
+
+"Dean, if you can hear us," Charlie speaks, edging closer to Michael, raising her voice, "remember you're not fighting alone. We are all here with you, for you, like a whole big PvP game, you're not fighting Michael one-on-one. He doesn't realize that, that's why he'll lose!"
+
+Michael turns to her, making a Darth Vader choking gesture. "You talk too much, girl." He says with a low voice. "That's why we like it quiet, the way it used to be, before the creation."
+
+Charlie chokes in the invisible grip on her neck. The transparent figure flickers worse. "Dean --" she begs, but no more words come out. Her shape slowly loses focus.
+
+The grip loosens, then, as sudden as it begins. Charlie coughs and struggles with, "I'm okay, I'm okay." when Jo giving her a hand.
+
+Lucifer glances at Michael, who's frowning at his disobedient right hand, smirking, "Having guest issue, too?"
+
+Michael glares back, "I can handle him."
+
+<br>
+
+Dean finds himself locked in a cage. Dark and confined. The space is barely enough to take two steps in any direction, and the ceiling is even lower than his height. He can't stand; he can't see; he can't hear.
+
+The blackness and quietness is worse than monsters.
+
+"Help!" he tries, but his throat is too tight to speak. There doesn't seem to be enough air -- in fact, there doesn't seem to be any air at all. He isn't sure if he's breathing anymore, or just following the habit.
+
+"Cas!" he tries again, touching the edge of the cage. But he can't tell if it's a rough or smooth surface. It's just a cage, a cage worse than any cage. The Cage.
+
+He realizes, this must be Michael's memory, for the thousand years they locked them there.
+
+He tried pounding, kicking, climbing those edges, but nothing gives way.
+
+Dean sits down on the ground, burying his head between his knees, feeling exhausted and defeated. There's no way he can get out of this Cage if Michael couldn't get out for a thousand years. He has no idea how to take back control or win this war.
+
+And then, voices start coming in. They start small, vague, distant, only sounding like people whispering and murmuring, but unintelligible, but then it sounds as if they're closer, reachable.
+
+Dean presses his ear on the edge of the Cage, listening. He makes out Charlie's voice, then his parents, then Bobby, Jo, Ellen, and so many more.
+
+"We're here for you," they're saying.
+
+"You have your family and friends with you," they say.
+
+*You are loved.*
+
+*You're not alone.*
+
+The Cage starts showing cracks of light. The more voices come through, the wider the cracks are, the brighter the light. He manages to push through one of the cracks, and that's right on time to save Charlie.
+
+Michael kicks him into another Cage again, even smaller, tighter, more difficult to breathe.
+
+He crawls out again.
+
+*They're waiting for us.* Dean thinks, remembering the faces of everyone in his life. Not just the ones in the bunker, but more.
+
+*Cas is waiting for me.* He holds on the thought.
+
+*Come back to me, please.* Cas said. And he's not going to let him down.
+
+He will take back control from Michael, and he will cure the angels of their disease. He will cure Cas. He has to.
+
+Dean breaks the constraints Michael set up for him again.
+
+Michael struggles hard, but this time, Dean is the one locking him into the mind Cage.
+
+Dean opens his eyes, seeing the worrying faces around them, seeing Cas standing among them. He smiles, giving them a grin, "Miss me?"
+
+<br>
+
+Lucifer doesn't make it any easier than last time. Seven years only make him more imaginative, and the inside of his mind is like nine levels of Dante's Hell and worse. Sam dodges the manifested demons like soldiers dodging bullets on the battlefield.
+
+But he has a handle of it this time.
+
+It's still *his* mind, after all.
+
+Sam hides between his memories, waiting for opportunities to get back in control.
+
+Lucifer has most his attention on the outside world, distracted by their surroundings. It gives him enough chances.
+
+The outside world is like a thin wall away and he's just in the underground of a huge mansion.
+
+Sam can hear their talking, Mom and Dad's voices are the most clear ones, others' follow right after.
+
+He spends a second to wonder if Dean's doing okay, if his brother can win this battle on his own; that if one of them loses, they all lose.
+
+Mary's voice pulls him back to attention, "I know you're strong, Sam."
+
+And John's "I'm so proud of you, son."
+
+Sam climbs out of the mind hole and kicks Lucifer down. He turns, and finds Dean look at him with a small grin. "Heya, Sammy."
+
+<br>
+
+"What now?" Bobby asks. "You boys have the archangel juice now?"
+
+Dean asks Cas, "How do I... you know, check my wings and those mojo?"
+
+"You should be able to feel it." Cas tilts his head slightly, considering. "Imagine they're part of your body. Spreading your wings should be as natural as humans taking a yawn."
+
+Dean focuses on his back, and stretches out his arms, imagining the body part that he never had. A lightening shines from his body, lighting up the wall behind him. A large pair of wings spread out behind him.
+
+"Awesome," Dean grins, turning to Sam. "You want to try it?"
+
+Sam shakes his head. "I'd rather not see Lucifer's body parts. We should go to heal the heaven now, that 'Give up our light to counteract the darkness part'."
+
+"Right," Dean's smile dims, glancing around the crowd, meeting Cas's eyes. He swallows. "Think we'll do it up there, you know, closer to the disease ground zero, probably could work better. If it works, I'll meet all of you upstairs."
+
+No one asks what will happen or what to do if it doesn't work. They don't have a plan B.
+
+They wish them good luck.
+
+Cas stays in the corner of the room, behind all the ghost friends. Utterly quiet.
+
+"Hey," Dean finds him there, one hand casually touching his chin, making him look up. "Cheer up, it will work."
+
+"I know," Cas makes an effort to pull up a tight tilted smile. "I just... hate to see you on a suicide mission again."
+
+Dean lowers his hand, but doesn't shift his gaze. "Worst case scenario, we finish the task, save Heaven and everyone, get stuck up there; you get your healthy angel mojo back, come up there to find me. We still get to hang out and everything. What's the difference?"
+
+"Life in Heaven isn't the same as life on Earth." Cas points out the obvious, miserably.
+
+"The second best thing we get to have, I'm pretty okay with that," Dean brushes his shoulder, fingers itching to his cheek but stay put. "I still get to see you, right?"
+
+"Yes," Cas nods.
+
+"Then it's not goodbye." Dean pulls him over to have a hug, talking over the angel's shoulder. "I'll see you just in a bit."
+
+"Yes," Cas answers, holding him tight, burying his face on Dean's shoulder. Their temples brush against each other.
+
+They don't pull apart until Sam clears his throat behind them.
+
+Dean turns to realize the others are trying very hard not to act as if they're looking at them. He blushes a little.
+
+Patting on Cas's shoulder one last time, he turns to Sam, "Let's go."
+
+The two Winchester brothers spread their wings, and disappears in the thin air.
+
+<br>
+
+#### Act 3
 
 
 
@@ -5059,9 +5231,7 @@ Dean walks into the center of the archangel swirl. Sam right next to him.
 
 #### draft notes
 
-> Michael/Lucifer get into Sam/Dean, things get dirty
->
-> with friends/family's help, Sam/Dean take back control, sacrifice/kill each other, explodes and kills Michael/Lucifer (in Heaven), purifies angels in Heaven, Heaven is saved, fallen souls/spirits are retrieved by angels restart working; friends/family's ghost reunite in Heaven, Cas is left alone in the bunker
+> sacrifice/kill each other, explodes and kills Michael/Lucifer (in Heaven), purifies angels in Heaven, Heaven is saved, fallen souls/spirits are retrieved by angels restart working; friends/family's ghost reunite in Heaven, Cas is left alone in the bunker
 >
 > Cas think they're dead (which is true), go to Heaven/Vail to find them, try to save them again, find in a setting like HP King's Cross (rewrite as Dean's memory), let them decide if they want back
 >
@@ -5079,8 +5249,6 @@ Cas is still in the dying state when Sam/Dean go to Heaven and explode, Cas's gr
 
 (this discussion is after possession and after taking back control, they still have chance to just expel Michael/Lucifer and themselves continue alive and not save the world. Cas wants to persuade them to save themselves)
 
-**OR:**
-
 ```markdown
 Cas to Dean: You'll never risk your brother.
 Dean: But you think I'll risk you? There is a chance I can get you back, I won't grasp it?
@@ -5093,11 +5261,11 @@ Cas: (quietly chuckle, smile but still saddest smile with big blue eyes) Thank y
 
 <br>
 
-**from Chap 5 notes:** John/Mary stay with them when Dean/Sam say yes to Michael/Lucifer, might make it easy as a support/family/love to help them regain control and break free. All those other important people in their lives are the key for them to regain control
+~~**from Chap 5 notes:** John/Mary stay with them when Dean/Sam say yes to Michael/Lucifer, might make it easy as a support/family/love to help them regain control and break free. All those other important people in their lives are the key for them to regain control~~
 
-John/Mary/all friends/family stay with them when Dean/Sam say yes to Michael/Lucifer, might make it easy as a support/family/love to help them regain control and break free. All those other important people in their lives are the key for them to regain control
+~~John/Mary/all friends/family stay with them when Dean/Sam say yes to Michael/Lucifer, might make it easy as a support/family/love to help them regain control and break free. All those other important people in their lives are the key for them to regain control~~
 
-the ghost friends/family will also be there when Sam/Dean need help take back control, for once they're not saving the worlds all by themselves, they have everyone they loved and loved them with them, they are loved and strong, *that* is the actual fundamental brightest light, the love for everyone and everything in the world)
+~~the ghost friends/family will also be there when Sam/Dean need help take back control, for once they're not saving the worlds all by themselves, they have everyone they loved and loved them with them, they are loved and strong, *that* is the actual fundamental brightest light, the love for everyone and everything in the world)~~
 
 ### Chap. 9: The Brightest Light
 
