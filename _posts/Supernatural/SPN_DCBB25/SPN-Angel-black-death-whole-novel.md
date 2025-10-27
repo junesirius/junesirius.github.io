@@ -3,7 +3,7 @@ layout: post
 title: 【Destiel】Angel Black Death
 date: 2024-11-01 01:51
 categories: ["SPN"]
-characters: ["Castiel", "Dean Winchester", "Sam Winchester", "Michael", "Lucifer", "Vince Vincente", "Rowena MacLeod", "Fergus MacLeod/Crowley", "Adam Milligan", "Bobby Singer", "Jody Mills", "Ellen Harvelle", "Jo Harvelle", "Mary Winchester", "John Winchester", "Charlie Bradbury", "Jimmy Novak", "Claire Novak"]
+characters: ["Castiel", "Dean Winchester", "Sam Winchester", "Michael", "Lucifer", "Vince Vincente", "Rowena MacLeod", "Fergus MacLeod/Crowley", "Adam Milligan", "Bobby Singer", "Jody Mills", "Ellen Harvelle", "Jo Harvelle", "Mary Winchester", "John Winchester", "Charlie Bradbury"]
 tags: ["Supernatural", "destiel", "michifer", "midam", "温家兄弟", "英文"]
 pov: 第三人称
 origin: 2025 DCBB
@@ -4873,11 +4873,7 @@ Michael retort: "just like Dean is John's favorite soldier, Sam is his favorite 
 
 > to stop Michael/Lucifer and save Cas/Heaven, Sam/Dean says yes, things get dirty, take back control, sacrifice/kill each other, explodes and kills Michael/Lucifer (in Heaven), purifies angels in Heaven, Heaven is saved, fallen souls/spirits are retrieved by angels restart working
 >
-> Cas think they're dead (which is true), go to Heaven/Vail to find them, try to save them again, find in a setting like HP King's Cross (rewrite as Dean's memory), let them decide if they want back
->
-> Dean's decision point: choose Heaven/John/Mary and have his peace, or Earth/Cas and continue living
->
-> Dean choose Cas and both Sam/Dean back to Earth (Sam is a 6-month swaddle, Dean makes the decision)
+> Cas is left alone in bunker, not healed, dying, his grace struggle to float to Heaven to see Dean one last time
 >
 > (The Brightest light that save Heaven and world is Dean+Sam's love to the world/Cas and their willingness of self-sacrifice)
 
@@ -5013,7 +5009,7 @@ Dean lets out a relieved sigh, squeezing Cas's shoulder, "Hey, don't be a damper
 
 Dean's hand slide from Cas's shoulder along his arms, patting his hands, staying there for too long without moving away. He manages an easy smile, too. "Don't worry, everything will be fine. Just take a nap, we'll probably be back before you know it. With everything fixed and you a brand new angel."
 
-"Or you can be gone for good, completely burned out by the archangels, and the universe ends. We don't even get to meet in the afterlife, because there won't be any Heaven left." Cas says, devastated.
+"Or you can be gone for good, completely burned out by the archangels; they get their strongest power from their true vessels, and they will be able to destroy the universe before the universe ends itself. We don't even get to meet in the afterlife, because there won't be any Heaven left." Cas says, devastated.
 
 "Let's... let's not think about that for now, okay?" Dean stutters briefly. "Besides, I heard Heaven isn't exactly a paradise with lullaby. Don't think I'm a big fan anyway."
 
@@ -5201,7 +5197,7 @@ Cas stays in the corner of the room, behind all the ghost friends. Utterly quiet
 
 Dean lowers his hand, but doesn't shift his gaze. "Worst case scenario, we finish the task, save Heaven and everyone, get stuck up there; you get your healthy angel mojo back, come up there to find me. We still get to hang out and everything. What's the difference?"
 
-"Life in Heaven isn't the same as life on Earth." Cas points out the obvious, miserably.
+"Life in Heaven isn't the same as life on Earth." Cas points out the obvious, miserable.
 
 "The second best thing we get to have, I'm pretty okay with that," Dean brushes his shoulder, fingers itching to his cheek but stay put. "I still get to see you, right?"
 
@@ -5227,7 +5223,7 @@ The two Winchester brothers spread their wings, flap once, and disappear in the 
 >
 > Dean/Sam sacrifice/kill each other, explodes and kills Michael/Lucifer (in Heaven), purifies angels in Heaven, Heaven is saved, fallen souls/spirits are retrieved by angels restart working; friends/family's ghost reunite in Heaven, Cas is left alone in the bunker
 
-If there is more time, if the wings are really his own, Dean would really like to spend some more time flying around a little. It's like taking a joy ride with Baby, except a hundred times better, more free, faster. Now he understands why Cas said that cars were slow back in the early days.
+If there is more time, if the wings are really his own, Dean would really like to spend some more time flying around a little. It's like taking a joy ride with Baby, except a hundred times better, more free, and faster. Now he understands why Cas used to say that cars were slow back in the early days.
 
 They arrive at the Silver City in a blink.
 
@@ -5329,7 +5325,7 @@ Sam, Mom, and Dad were already sitting around the dining room table, ready for t
 
 "Dean! How's your sleep?" Mary smiles at him as he walks with a yawn.
 
-"Like in heaven." Dean answers without thinking, sitting down to a full plate of bacon and fried egg.
+"Good as heaven." Dean answers without thinking, sitting down to a full plate of bacon and fried egg.
 
 "We should go fishing," John suggests, folding the newspaper.
 
@@ -5353,7 +5349,7 @@ Dean shakes his head, "It's Heaven. We're in the Heaven."
 
 "Of course, we are. Where else do I get a mom cutting crust for me everyday?" Sam chuckles slightly, too happy to notice Dean's forming frown.
 
-"If it's Heaven," he remembers everything before this now, "if everything was working, then where is Cas?"
+"If it's Heaven," he remembers everything before this now, "if everything was working, then where the hell is Cas?"
 
 <br>
 
@@ -5361,15 +5357,15 @@ Dean shakes his head, "It's Heaven. We're in the Heaven."
 >
 > Cas is dying, floating to Empty, struggling to stop by Heaven to check in on Dean one last time
 
-Cas slips slower from the chair, too limp to keep his body upright. The Angel Black Death spread onto his true form, devouring him ruthlessly. He doesn't know why he's not healing, when Heaven and the angels there seem to have been fixed. But he's also too tired to even worry about that now.
+Cas slips lower from the chair, too limp to keep his body upright. The Angel Black Death spread onto his true form, devouring him ruthlessly. He doesn't know why he's not healing, when Heaven and the angels there seem to have been fixed. But he's also too tired to even worry about that now.
 
 He wonders if Dean is in Heaven with his family and friends now. He wonders if Dean is in peace, if Dean is happy.
 
 The black spots spread on his skin more thoroughly, just as a reflection of what's happening in the true form.
 
-"I'm dying, Dean," he says quietly to the empty air in the bunker. The only living thing is the passed-out Adam in his body when Michael left. Nick's body lies lifelessly right beside. Cas doesn't have anyone now. He looks skyward, staring at the ceiling, as if he can see all the way to Heaven just like that.
+"I'm dying, Dean," he says quietly to the empty air in the bunker. The only living thing is the passed-out Adam in his body when Michael left the vessel. Nick's body lies lifelessly right beside. Cas doesn't have anyone now. He looks skyward, staring at the ceiling, as if he can see all the way to Heaven just like that.
 
-"But it's okay. As long as you're fine, the world is fine. It doesn't matter what happened to me." He smiles tiredly, thinking back at his long life.
+"But it's okay. As long as you're fine, the world is fine, it doesn't matter what happened to me." He smiles tiredly, thinking back at his long life.
 
 He doesn't usually have enough time to reflect on his life, on any of other deaths. Death is usually quick, instant, not leaving any space for lingering, for "your whole life flashing before your eyes" as humans like to say. But this time, it's stretched, it's slowed down. It's painful and inevitable, but it also gives him time to think.
 
@@ -5398,6 +5394,8 @@ Cas forces his mind to come back to that dream, to that kiss, to the Dean at tha
 Cas sighs one last quiet sigh, "Dean --"
 
 And his grace and his true form leaves him.
+
+Adam wakes up just in time to watch the faint light leaves the angel's body, flying upward, disappearing out of the view. Castiel's body drops out of the chair, stops breathing.
 
 <br>
 
@@ -5431,11 +5429,407 @@ Cas: (quietly chuckle, smile but still saddest smile with big blue eyes) Thank y
 
 ### Chap. 9: The Brightest Light
 
-> Cas uses up his power to get Sam/Dean back, is still dying because he wasn't in Heaven the purifying explosion happened; one cured angel/Dumah comes to bunker to explain+offer Heaven in their command (because Sam/Dean prove themselves more bright than archangels, they're practically new archangel/god in their eyes), Dean's soul is the brightest light, Dean can save Cas but only if he let himself be honest with his feelings, be open for the first time, Dean uses his soul power to touch Cas and purify/save Cas, soul-grace dance, don't need to say love but so much more than love, there is no word for them even "love" isn't enough, Cas is saved, all HE
+> Dean in heaven misses Cas, knows something wrong
+>
+> Cas's dying grace goes to Heaven to see Dean (still dying because he wasn't in Heaven the purifying explosion happened)
+>
+> Dean grabs him, doesn't let him go
+>
+> Hannah appears to explain+offer Heaven in their command (because Sam/Dean prove themselves more bright than archangels, they're practically new archangel/god in their eyes), Dean's soul is the brightest light, Dean can save Cas but only if he let himself be honest with his feelings, be open for the first time, Dean uses his soul power to touch Cas and purify/save Cas, soul-grace dance, don't need to say love but so much more than love, there is no word for them even "love" isn't enough, Cas is saved
+>
+> King's cross choice: Dean/Sam can choose to be the new leaders of Heaven or go to Earth to relive as human, Dean chooses Cas (need a body, Cas can just build him one)
+>
+> all HE
 >
 > (The Brightest Light that heals Cas is Dean's love for him)
 
 #### Act 1
+
+> INT. heaven, Lawrence home - day (Dean, Sam, Mary) 
+>
+> INT. heaven, bunker - day (Dean, Cas, Hannah)
+>
+> dying Cas goes to Heaven to look at Dean one last time, Dean finds him and grabs him, doesn't let him go
+>
+> Hannah comes to explain why/how things worked out, Heaven's decision for Dean/Sam
+>
+> Dean soul-grace saves Cas
+
+Dean puts down his coffee mug, staring out of the window leading to the lawn outside.
+
+It's another sunny day out here. Every day is a peaceful sunny day.
+
+Mary glances at him. "What are you looking at?"
+
+"Not sure," Dean answers absentmindedly, walking toward the window. "Thought I saw someone there for a sec."
+
+"By 'someone' you mean...?" Sam asks carefully, knowing him too well.
+
+"Cas." Dean frowns, still staring at the place he saw. He walks outside, and hears Sam lets out a short sigh.
+
+There is no one on the lawn.
+
+"I don't see anyone," Mary follows after him, saying gently, putting a hand on his shoulder. "Are you sure it's not a hallucination?"
+
+Dean shakes his head in disappointment. "I just have this gut feeling, not everything is fixed. Something is still wrong."
+
+He dodges Mary's eyes, but still manages out, "Him not being here, that's wrong."
+
+He isn't sure how or where his mother would take it to, but hell, they're in Heaven now, how bad can it be if they don't take it well?
+
+Mary cups his cheeks with two hands, looking into his eyes. "Go look for him, then. I know how important he is for you."
+
+Dean gives her an appreciative smile. "Thanks, Mom." And walks out of the house.
+
+Impala is parked along the roadside. Dean sits into the driver's seat, and starts driving.
+
+The road gradually turns from the small town of Lawrence into Lebanon before he realizes where he's heading.
+
+Bunker slowly comes into the view.
+
+<br>
+
+Castiel's consciousness floats higher and lighter, dissipating slowly.
+
+*Cas?*
+
+His light condenses as his mind tuning into a calling.
+
+*Cas, where are you?*
+
+Castiel floats and flies, fainting away. He's so tired. He's going to a place where he can sleep forever.
+
+*Cas, I need you, buddy.*
+
+It must be his imagination. Castiel thinks, befuddled. How can he hear Dean's voice when he's literally dying?
+
+*Cas! Where are you?*
+
+Castiel struggles to keep his consciousness converge back together.
+
+He's about floating into the empty space outside the universe now, but if he really focus, maybe there's still a small chance he can pass by Heaven.
+
+Maybe, if he tries really, really hard, he can see Dean in the Heaven one last time.
+
+So he tries.
+
+<br>
+
+The bunker in Heaven is almost exactly like the bunker on Earth. Dean wonders if it's created by his memory or some angels being appreciated enough to build it for them.
+
+He parks the Impala in the garage and rushes up the stairs.
+
+The bunker is dead quiet. The lights are all out. No one's home.
+
+"Cas?" Dean turns on the lights, searching the hallways.
+
+"Cas, where are you?" He walks through the war room, then library, then kitchen.
+
+They are all empty. The bunker is empty. Heaven is empty for him.
+
+Dean stares at long, almost as if endless hallways of the bunker, hearing only the echo of his own steps. His eyes start burning hot.
+
+He can't find Cas. He can't find the one person he's going through so much trouble to save, and he still can't save him.
+
+He walks to his own bedroom door, thinking hard. *Cas, buddy, don't do this. Don't leave me only. Tell me you're okay, you're healed. Tell me you're here. I need you.*
+
+He pauses a minute before his closed door, pressing his palms on it, praying, *Please, please, please.*
+
+He pushes the door open.
+
+The bed where Cas lied comatose is empty. The bedsheet and cover neat and tidy.
+
+Dean finds strength running out from his body. All the hope that was rising as he rushes in the car when the road turns to lead to the bunker drains fast.
+
+He slumps onto the bed foot, leaning his back on the side. He presses his face into his palms. "Cas, where are you?"
+
+"Dean?" A hesitant voice comes through, startling Dean to a heart attack.
+
+He jumps to his feet so fast that his head is dizzied for a second.
+
+Cas, looking awful and feeble, leans at the doorframe, struggling to stand straight. But he's right there, real and complete.
+
+"God, Cas!" Dean fumbles to wipe his face and strides to the angel, holding him like his life depends on it. "Jesus, where have you been?"
+
+Cas moans softly under his squeeze, but doesn't move away. His hand goes around Dean's back, resting there. "I think... I heard you."
+
+Dean smells blood when he's this close.
+
+"What happened? Why are you..." Too many questions rush to his throat, choking him wordless. Dean wipes his face, trying to steady himself. "Are you okay?" He ends up asking.
+
+Cas's eyes are wide and bloodied, black circles around them paint his whole face pale and sunken. Bruises and bloodstains decorate on top, making it so difficult to look at him. Even his whole figure looks not solid, a little like ghostly translucent. He's thin and faint, but he doesn't stop staring at Dean. In fact, he doesn't even blink, as if every single blink is a waste of time taken from looking at Dean.
+
+"I just wanted to see you one last time." Cas says quietly, with difficulty. His voice rough.
+
+"I'm dying," he thinks for a second, correcting himself. "I might already be dead, my body on Earth, I mean. I'm not sure."
+
+"How?" Dean holds his shoulder, helping him move into his room, lying on his bed. If Cas keeps dying on his bed, he might stop liking his memory foam very soon. One idle thread of his mind thinks. "Sam and I should have fixed the Heaven and everyone here. Why aren't you healed?"
+
+"Perhaps because I wasn't in Heaven?" Cas leans down on his bed, grasping on Dean's hand and not letting go. But even his strongest grip is loose, Dean can so easily draw his hand out. He does not. He holds Cas's hands, feeling his heart being shredded into hundreds of millions of broken pieces.
+
+After everything they've done, how come he still can't save one person he really want to save? It's not fair.
+
+"What can I do?" Dean croaks, devastated. "Tell me how to fix this. Tell me I can save you."
+
+"It's okay, Dean." Cas tries to give him a smile.
+
+A deliberate throat-clearing sound comes after them, with an unnecessary door-knocking on the room door that is open.
+
+Dean turns to find a woman in a business suit standing a little awkwardly at the door, with a kind face and curly hair. He uses one hand to wipe off his tears.
+
+"Who are you?"
+
+"I'm Hannah, Angel of the Lord," she introduces with a polite smile. "I come bearing news. The surviving angels ask me as representative to come to express our appreciation for your help in saving Heaven and all of us, myself included."
+
+"Yeah, sure." Dean turns away from her, losing interest quickly. "Unless you know how to help me save him," he grabs Cas's hand harder, as if this can stop his life from slipping away through gaps in the palm. "I don't have any use of you."
+
+"I might do," Hannah says patiently, and that regains Dean's attention. "Castiel is not healed because he wasn't in Heaven when the purification happened. But you see, the purification is not from Michael or Lucifer's grace."
+
+Dean jerks his head up, "It's not?"
+
+Hannah smiles gently, shaking her head. "It acts as the media, but not the medicine. We didn't realize it then, but when the grace comes to heal us, all of us felt it -- it's the feelings and emotions from the souls that fill in the blanks and gaps created by the darkness. It's your and your brother's soul that filled with the willingness to sacrifice for the world, that turned into the brightest light, purified and saved us."
+
+"Feelings," Dean repeats dumbly. "Are you saying I still got that in me?" He glances back at the angel lying on the bed, eyes following his each move, running into his gaze. "Are you saying I always have that in me to save him?"
+
+"Yes," Hannah says simply.
+
+"How do I use it? Stabbing myself again?"
+
+Hannah shakes her head. "Just be honest and open with it, let it all out. Let him know, let him feel it. Darkness creates holes and emptiness, you just need to fill it."
+
+"That's it?" Dean blinks, in disbelief.
+
+"That's it."
+
+Dean turns back to Cas.
+
+"And there is a second message from angels --" Hannah continues.
+
+"Yeah, no, lady, that can wait." Dean cuts her off breathlessly. "Mind if you help close the door for a bit, too?"
+
+He doesn't spare a thought to wait and see if the door is actually closed before leaning closer to Cas.
+
+"Hey," Dean says to Cas softly, almost awkwardly. His hands moves from Cas's hands to his chins, thumb caressing the tips of his lips.
+
+"Hello, Dean." Cas answers solemnly, eyes following his move.
+
+"Feelings and emotions, God," Dean chuckles bitterly, "I'm so not good at that."
+
+"You don't have to, if it makes you uncomfortable." Cas tells him.
+
+Dean chuckles louder, then stares him hard. "Yeah, no. If I don't save you? It's so much worse than 'uncomfortable'. So, just, shut up and listen."
+
+Cas bites his lips, stays quiet just as he's told.
+
+Dean almost immediately regrets telling him that, for the sudden silence in the room crawls under his skin like an itching real thing.
+
+How should he starts talking about something he's never talked about in his whole life?
+
+*Have you seen the way he looks at you?*
+
+*I'm not talking about this.*
+
+*Just saying... if you need someone to talk to, you know where to find me.*
+
+He should have taken that chance when Jo offered.
+
+*You want to ask me to walk you down the aisle?*
+
+*We are not... that.*
+
+*But even if you do, if you ever want to talk about it, I want you to know, you can. I'm your mother, after all, and I would like to know.*
+
+Or when Mary offered.
+
+He had so many chances, and now, Cas's life relies on him tearing open his skin to find what's inside -- he doesn't even have a skin right now, Dean remembers, he's just a manifestation of a soul, and Cas a curled ball of grace. This room is not in the real bunker.
+
+It should be easier, right? Bare soul talking to bare grace. His true form facing Cas's true form.
+
+Dean takes a long breath in, and exhales it out.
+
+"Cas, you already know you're my best friend, you're like my brother, you're family, because I told you so. But that's not all what you're to me. I doubt there is even word for this.
+
+"I'm not so dumb as not to know anything about love, those love between family, or friends, or partners, I know them all, Cas, believe me, I know. But it's still so impossible to talk to you about it is because, Cas, you're all those, but none of those.
+
+"I know I love Sam as a brother, I love Jo like a little sister, I love Charlie as a really good friend, I love mom and dad, and Bobby, and everyone. I don't say that word 'love' a lot, but I get what it means. But when I think about 'I love you, Cas', I don't understand it."
+
+He rubs his face frustratedly, so scared he's making it a mess, but he pushes on. Cas just watches him attentively.
+
+"I mean, of course I love you, but that's just one word, 'love', what does it mean? Do I love you so we get to watch TV together? Do I love you so I want to kiss you? Do I love you so I wasn't afraid of damning the whole world just to save you? I don't understand it, so it scared the shit out of me.
+
+"But what's funny is, the one person who gives me the revelation, is the person I should never listen to. He said, 'Everything has a price. Just depend on how much you are willing to pay.' He asked me, 'How much am I willing to pay for you.' Am I willing to sacrifice you for something else, or am I willing to sacrifice everything else for you?
+
+"That's when I realized what that love is. All this time, I did it wrong -- I dumped you to Raphael to run with Sam, I kicked you out of bunker because I thought I was helping Sam. Every time I could and should choose you, I didn't. Except this time.
+
+"I just sacrificed myself and my brother, and practically risked the whole universe, to save you. I wouldn't do that if I didn't figure that shit out. So I think, that's my final answer. That's when I finally get to say, Cas, I love you. And I understand exactly what I mean. I love you the way you love me all this time."
+
+Castiel doesn't blink as Dean tells him all that.
+
+Dean can't say he's not freaked out by the silence and stillness, but then he realizes what Cas is looking at. Bright golden light is divulging from his body -- from his soul -- dancing around his palm, reaching to Cas. As if in answer, white-blue light of grace emits from Cas reaching toward him. His light embraces Cas's the moment they touch, Dean feels his whole existence is melting away, his shape and manifestation morphing into the light of soul, so he lets himself go.
+
+"Dean --" Cas murmurs in awe. Golden lights reflect in his pupils, making his shape even thinner, more ghostly. But he makes an effort and lets it out, "I love you, too, so much."
+
+Then he lights up too. The blue light starts from his pupil, beaming out through his mouth and ear, soon the whole existence. He is freed from his skin and his body, turning back to the pure light form, entangling with the light that is Dean's soul.
+
+Dean pulls Cas over for a hug, for a kiss, for everything and everywhere to be together. Their light merge, their sensations shared, their feelings and emotions entangled. Dean closes his eyes. He can't see, but he's feeling so much. He feels warm, he feels cold, he feels happy, he feels scared. He feels ecstatic for being able to hold Cas like this, being together in every single possible way; he feels freaking out for saying all that shit and having no idea what he's just done. He feels naked as a soul, feels bare, feels seen, feels himself open in a way he's never done before. He feels everything he has ever felt in the past decade whenever Cas is involved, and channels all that into the thoughts and lights and prayers into his existence, and sends all that to Cas.
+
+If it's feelings and thoughts and love from Dean that can save Cas, then he's giving him everything.
+
+Love is not just a word. Not just a sentence, a gesture, a look, a moment. It's his full existence.
+
+Energy surged from the golden soul light into Cas's grace, charging it, enriching, powering it up, cleaning it of all the dark shades and shadows.
+
+And soon, the thin blue light is just as pure and dazzling as Dean's soul.
+
+They settle down slowly, shaping back into figures that minds can apprehend easily.
+
+Cas's face is clean and healthy now, the blue light of grace retracting back inside him, dimming slowly in his eyes, as the light of soul drawing back inside Dean. His cheeks are flushing pink, his lips separate apart, slightly breathless.
+
+It feels too much, but not enough, at the same time.
+
+Dean is still in the posture of half sitting on the bed, half leaning over Cas. He sits straight slowly.
+
+Cas blinks, breaking the silence first, "I think, I'm fully healed now."
+
+Dean cracks into a laugh. "Yeah, yeah, I can see that. So... we're good?"
+
+Cas rolls his eyes. "Dean," he says in a low voice, "you just covered my grace with all your soul and told me how much you love me. Yes, we're more than 'good.'" He does an air quote.
+
+Dean bursts out with laugh, so frantically and freely that tears come out of the corners of his eyes. Cas kisses it off for him.
+
+They fall back into the comfortable silence where they just stare at each other as if looking at a wonder without saying or doing anything. Dean thinks he can just do this one thing for the rest of the eternity and call it paradise.
+
+"I dreamed about kissing you, one time," Dean blurts out, feeling the words rolling out on their own, "when you were lying on this exact bed, and I got scared you wouldn't wake up. It felt so different, but also so real." His fingers linger at Cas's bottom lip, drawing its shape.
+
+"I dreamed of the same thing the same night. That's how I woke up." Cas widens his eyes.
+
+They stare at each other, then starts at the same time.
+
+"Do you think that's --" Dean says.
+
+"Would that be --" Cas asks.
+
+"-- the same dream?" they finish in unison.
+
+It feels so obvious now that the question doesn't even need answer.
+
+"How does that happen? Do I have psychic power or something?" Dean asks.
+
+"We do, share a profound bond," Cas says slowly.
+
+"Yeah, heard you mention that once, but you never explained what it does." Dean tilts his head, "I got free annual ticket to your dreamland or what?"
+
+"Your soul and my grace have long since been mixed before either of us understand what it can do." Realization slowly dawns on Cas, smoothening his frown. "It explains so much. Everything we didn't understand before, it's all making sense now."
+
+"Enlighten me."
+
+"When I pulled you out of Hell, our energy have direct contact, so I have a small amount of soul energy from you, and you get some of my grace. That link allowed you to slow down my infection, enter my dreams, and allow me to hear you when I was about to evanish into the Empty. It's your voice that pulled me back at the very last time, when I was almost gone." Cas looks at Dean through drooping eyes. "You saved me, Dean, so many times."
+
+"Not as much as you saved me," Dean argues.
+
+"I beg to differ." Cas counters.
+
+Dean huffs a small laugh. "Wouldn't it be better if both of us can just stop *needing* to be saved?"
+
+Cas nods at that. "I agree."
+
+Dean lends him a hand to pull Cas out of bed. "Come on. We gotta get home now. Let Sam and everyone know you're fine."
+
+"I think, Hannah is probably still waiting out there." Cas tilts his head at the door.
+
+"Shit. Yeah." Dean completely forgets about there's another angel audio message waiting for him.
+
+He drags himself over to open the door, finding the angel standing in an awkwardly straight stance, right outside his room, all this time.
+
+Dean clears throat to hide the embarrassment. "So what's the second news for me?"
+
+<br>
+
+#### Act 2
+
+> INT. heaven, bunker - day (Dean, Cas, Hannah)
+>
+> INT. heaven, Lawrence home - day (Dean, Cas, Sam)
+>
+> decide what to do with the future options
+>
+> Dean chooses to go back Earth, but agree to offer Heaven help when Heaven needs him (counsel position)
+
+The second message from the surviving angels, as it turns out, is even more surprising.
+
+"You and your brother have proven yourself worthy in every sense as far as Heaven and angels concern," Hannah announces solemnly. "With all the archangels gone, and living proof that you and your brother's souls are bright enough to charge Heaven and save angels, we would like to invite you to take the roles of the archangels, to become Heaven's new commanders."
+
+Dean blinks several times, having to take a few minutes to make sure he understands it right, and some more minutes to make sure Hannah is not joking.
+
+Cas nudges him gently. "No one is more worthy than you."
+
+"Yeah, that's not exactly what I'm worried about," Dean rubs his temples. "I can hardly make the Earth not trashed once a year, and now commanding the whole Heaven? That feels too big for our skin. I need to talk with Sam."
+
+Hannah nods approvingly. "I understand. I will come back once you're ready, Castiel knows where to find me."
+
+Cas meets her eyes and gives her a nod. A thought hits him then, and he stops her before she leaves. "Hannah, is there a way for them to go back to Earth?"
+
+Dean turns sharply to him. "That's an option?"
+
+Cas lowers his head, trying not to make his face look too hopeful. "I would hope so."
+
+They both turn to Hannah. The angel considers for a moment. "If you take the position of an archangel, you can go down there whenever you want."
+
+"But then I'd need a meatsuit," Dean frowns. "No, thank you, I like my own handsome face."
+
+"Or a ghost," Hannah adds. "It's not encouraged, but we can set it up as our appreciation, if you so choose."
+
+"I'd hope something more normal, like just vanilla human way." Dean says, a little disappointed.
+
+"You will need a body to connect with Earth," Hannah tells him. "Unfortunately, your original body was vaporized when you entered the heavenly host."
+
+"What if I made him a new one?" Cas prompts. "I had done it once, and I am more than willing to do it again. Putting his soul back into the new body should be no different from pulling him from Hell."
+
+Dean's face brightens up again. "Except this time, it's pulling me down from Heaven. I like it."
+
+"But you might still want to talk with Sam." Cas reminds him kindly.
+
+<br>
+
+Sam is more than supportive of the idea of going back to be a human, compared to becoming an archangel, or a soul, or a ghost. Just like Dean.
+
+Dean is just about to clap and announce it's settled, when he sees Cas's still pensive expression.
+
+"What are you thinking?" He nudges the angel who's been a little too quiet during their discussion.
+
+"But being an archangel would allow you to make changes all around here," Cas says carefully. "Heaven is still not fully stable or at its full working capacity, with all the angels it lost during the pandemic. Before Chuck comes back to make more angels, Heaven could really use some extra support."
+
+Dean studies him. "Do you *want* me to become an archangel? Like Michael II?" he asks quietly.
+
+"It's your choice," Cas says quickly, not nodding or shaking his head.
+
+"You do." Dean reads his face. "Okay, why?"
+
+Cas licks his lips, ducking his head. "Apart from making Heaven a better place for all the souls of your passed family and friends to live, it's purely selfish." He lifts his head again, meeting Dean's eyes, his look close to guilty for even wanting that, for saying that. "When you're not mortal, we'll have more time. Us. For eternity."
+
+"Holy, Cas, never take you for the 'Happily ever after' type." Dean runs a hand over his face, choked by feelings for a second.
+
+"I'll let you guys decide, then." Sam smoothly slide off the round table.
+
+Dean considers, while having a hand mindlessly rubbing Cas's. "What about this: we spend one full life time down there, me as human. Then whenever I bite it, I take up the position if that job offer is still available? I'm not leaving you behind or anything, don't worry."
+
+"I'd like that," Cas answers quietly, eyes gleaming with joy. His lips curl into a small smile.
+
+Dean grins with him. "It's settled then."
+
+<br>
+
+#### Act 3 (Epilogue)
+
+> INT. bunker (Earth, real) - day (Dean, Cas, Sam, Adam; Jody, Claire)
+>
+> everything settled, talking about plans for the new era, going back to old hunting life, helping with everyday monsters
+>
+> occasional discussion about missing the people in Heaven that they briefly reunited
+>
+> happy, hopeful ending
+
+Adam completely freaks out when Cas's limping body starts breathe and move again. That makes Sam and Dean walking back into the war room a smaller startle.
 
 
 
@@ -5445,31 +5839,29 @@ Cas: (quietly chuckle, smile but still saddest smile with big blue eyes) Thank y
 
 ###### [TBA]
 
-#### draft notes
+> everything settled, talking about plans for the new era, going back to old hunting life, helping with everyday monsters
+>
+> occasional discussion about missing the people in Heaven that they briefly reunited
+>
+> happy, hopeful ending
 
-> Cas think they're dead (which is true), go to Heaven/Vail to find them, try to save them again, find in a setting like HP King's Cross (rewrite as Dean's memory), let them decide if they want back
->
-> Dean's decision point: choose Heaven/John/Mary and have his peace, or Earth/Cas and continue living
->
-> Dean choose Cas and both Sam/Dean back to Earth (Sam is a 6-month swaddle, Dean makes the decision)
->
-> (The Brightest light that save Heaven and world is Dean+Sam's love to the world/Cas and their willingness of self-sacrifice)
+#### draft notes
 
 Dean: You saved me so many times, it's my turn now.
 
-From Chap 2: The quote "Darkness cannot drive out darkness; only light can do that." The second half is: "Hate cannot drive out hate; only love can do that." They didn't read it here but that's exactly going to be what save the world (and Cas): Love.
+~~From Chap 2: The quote "Darkness cannot drive out darkness; only light can do that." The second half is: "Hate cannot drive out hate; only love can do that." They didn't read it here but that's exactly going to be what save the world (and Cas): Love.~~
 
-### Timestamp 1: Inherit the World (Epilogue)
+### ~~Timestamp 1: Beach Day~~
 
-> Heaven in their command, earth seems fine, TFW go to beach finally, with matching shirts and toes in the sands like Dean always imagined
+> the world is saved, earth seems fine, TFW go to beach finally, with matching shirts and toes in the sands like Dean always imagined
 >
-> the first/most important thing after inherit the world: enjoy it, live it, and enjoy each other's company
+> the first/most important thing after saving the world: enjoy it, live it, and enjoy each other's company
 >
 > a destiel date/after-EOW reunion treat trip, relax/reflection moment, intimate
 
 <br>
 
-### Timestamp 2: The Novaks
+### ~~Timestamp 2: The Novaks~~
 
 > Jimmy/Amelia get down, reunite with Claire, Jimmy/Cas tension; Dean helps handle Cas/Claire relationship
 >
@@ -5481,7 +5873,7 @@ From Chap 2: The quote "Darkness cannot drive out darkness; only light can do th
 
 <br>
 
-### Timestamp 3: Jellyfish
+### ~~Timestamp 3: Jellyfish~~
 
 > normal day, aquarium, maybe a case fic, also a date
 >
