@@ -5217,29 +5217,191 @@ Dean turns to realize the others are trying very hard not to act as if they're l
 
 Patting on Cas's shoulder one last time, he turns to Sam, "Let's go."
 
-The two Winchester brothers spread their wings, and disappears in the thin air.
+The two Winchester brothers spread their wings, flap once, and disappear in the thin air.
 
 <br>
 
 #### Act 3
 
+> EXT. heaven - day (Dean, Sam)
+>
+> Dean/Sam sacrifice/kill each other, explodes and kills Michael/Lucifer (in Heaven), purifies angels in Heaven, Heaven is saved, fallen souls/spirits are retrieved by angels restart working; friends/family's ghost reunite in Heaven, Cas is left alone in the bunker
 
+If there is more time, if the wings are really his own, Dean would really like to spend some more time flying around a little. It's like taking a joy ride with Baby, except a hundred times better, more free, faster. Now he understands why Cas said that cars were slow back in the early days.
 
+They arrive at the Silver City in a blink.
 
+In fact, "Silver City" turns out to be a quite accurate name for the place, considering all the simplistic style white walls and white floor. The whole city is like one giant office building, and the whole place only has one stand-out color -- silvery white.
 
-###### [TBA]
+With the borrowed archangel grace curling and swirling inside their bodies, Dean and Sam can hear the angels' true voices, too, now.
+
+And the closer they move toward the building, the louder those voices are. Just as Cas described, they're screaming in pain. There aren't many of them left -- a handful of them, from what they can see by taking a quick glimpse for estimation. And all of them struggling in the last lingering moment before the black death disease complete takes over.
+
+The power supplies in the place are flashing violently. The walls and floors show cracks like the building is breaking eggshell. More glinting light of souls disappear through those cracks.
+
+"Think this will do?" Dean lands on top of the building roof. It shakes under his foot.
+
+Sam descends next to him. "It has to."
+
+His eyes, just like Dean's, track corridors through corridors, looking for angel survivors. He has to make an effort to pull his attention back before he's overwhelmed by the dreadful scene up here. Just hearing Cas's description is completely different from seeing it by one's own eyes.
+
+"So how are we gonna do this? Letting our lights out?" Sam asks, making a motion as if trying to breathe fire, expecting grace to come out. Of course, nothing happens.
+
+Dean eyes him, holding back a quiet laugh, reaching into his jacket, taking out Michael's archangel blade. "The easiest way? Stab it out. I see enough of them explode to know it works."
+
+Sam fumbles in his pocket, and finds the one Lucifer hides in his sleeve, too. "Okay," he breathes, hardly even winces.
+
+Dean grabs the blade in his right hand, putting his left hand on his brother's shoulder. His face turning serious and a tad guilty. "I'm sorry for asking you to do this," he swallows and says. "I really am."
+
+Sam puts his hand on Dean's shoulder, rubbing slightly in a comforting motion. "I volunteered, remember? You and Cas would do the same for me."
+
+"I'm talking about asking you to stab me to death." Dean clarifies.
+
+"Oh, right," Sam blinks, almost laughs. "Would it make you feel better if I say I used to think about doing that in your sleep every other week?"
+
+Dean cracks a small smile. "Now you sound like Lucifer."
+
+"And you sound like a jerk." Sam bickers.
+
+"Bitch," Dean retorts automatically.
+
+The comfortable, familiar easiness comes back between them. The tensed muscles relax.
+
+"Ready?" Dean looks into Sam's eyes, Sam nods. "On three."
+
+They stab the blade into each other's chest when the count finishes. Their other hands still grasping each other's shoulders. Dean and Sam fall through the ceiling of the Heaven's roof, falling into one of the chambers.
+
+The archangel grace bursts out of them, roaring out to the black gaps and sick angels, unfurling through the tumbling corridors, permeating into the fabric of the Heavenly host. The lights are so bright that, for a moment, the "Silver City" itself seems to be dulled down in comparison.
+
+The light fills the gaps and fixes the building like the best construction materials, not a single trace left behind to show those cracks were even there. The light embrace the dying angels, so bright that there is no place for shadows. The angels are cured one by one, moving along the corridors back into duty. The whole place is stabled and ready for its lost spirits to return to.
+
+<br>
+
+Cas bursts into a strong bout of coughing the moment Dean and Sam depart.
+
+"That's not good sign," Bobby drags a chair across the room to let him sit down.
+
+Cas struggles to keep his breath stable. "It's normal," he manages to explain, before the next cough can break his words. "I know I'll get worse when they leave. It should get better any minute now."
+
+"Is it working?" Ellen stands next to Bobby, looking at his face carefully.
+
+Cas nods quietly, giving them a tired but relieved smile. "Heaven is healing. It's working. The angels start working again. I don't hear any scream. They will take you back to where you from."
+
+"What about you?" Charlie asks. "You're not... healing."
+
+"Perhaps it's just slower." Cas rests his eyes. "Thank you... everyone, for taking care of me and Dean, and Sam, all this time."
+
+"Of course, kid." Ellen leaves a ghostly pat on his shoulder.
+
+Cas waits a beat, wondering why he doesn't hear Bobby or anyone else answer.
+
+He opens his eyes, and finds the bunker empty again. As if none of the ghosts were ever there.
+
+Cas lets out a sigh, finding himself relieved, but lonely again. At least all of Dean's friends and family are safe again. That's good. He tries to make his mind focus on that.
+
+He's only welcomed by another rush of pain striking through his body, starting from his head, going through his chest. He checks his palm, and finds the black symptom has covered his full hand.
+
+The pain burns through his veins, boiling through his limbs. It's so fierce and strong that his vision starts turning black, too.
+
+Cas can feel the last remnant of his grace is being attacked and grasped by the spreading darkness. He screams painfully in his true voice. The remaining intact lightbulbs break in the sound.
+
+But no one else is in the bunker to hear him.
+
+<br>
+
+> INT. Heaven (Dean, Sam, John, Mary)
+>
+> Dean/Sam wakes up in Heaven, initially happy and unaware
+>
+> Dean feels wrong, missing Cas, noticing something wrong, insisting going back, meeting Cas's ascending conscious as he's dying to go to Empty
+
+Dean wakes up to the smell of breakfast from the kitchen and sunshine comes through the window of his bedroom.
+
+His family photo frame on the bedside is the first thing comes into his eyes.
+
+He's in his childhood home, in a bright sunny day.
+
+Light chitter comes from the front yard, and muffled murmurs come from outside his room.
+
+He gets off the bed and finds himself in his favorite nightgown and fluffy slippers.
+
+Sam, Mom, and Dad were already sitting around the dining room table, ready for their breakfast. Mary is cutting the crust off for Sam's toast. John is reading a Sunday newspaper.
+
+"Dean! How's your sleep?" Mary smiles at him as he walks with a yawn.
+
+"Like in heaven." Dean answers without thinking, sitting down to a full plate of bacon and fried egg.
+
+"We should go fishing," John suggests, folding the newspaper.
+
+Sam cheers in agreement.
+
+Dean bites into his breakfast. But he doesn't remember how it tastes like.
+
+The next day is another Sunday. Another comfortable, lazy morning. Another fishing day.
+
+So is the day after.
+
+Dean pulls Sam aside after the breakfast in the third day. "Do you notice anything weird?"
+
+"Like what?" Sam asks curiously.
+
+"Like everything is too perfect? Too calm and normal?" Dean frowns at himself. Everything is perfect, his family is perfect, but why isn't he happy?
+
+"What's the problem with that?" Sam looks at him carefully. "You okay? Want to stay in today?"
+
+Dean shakes his head, "It's Heaven. We're in the Heaven."
+
+"Of course, we are. Where else do I get a mom cutting crust for me everyday?" Sam chuckles slightly, too happy to notice Dean's forming frown.
+
+"If it's Heaven," he remembers everything before this now, "if everything was working, then where is Cas?"
+
+<br>
+
+> INT. bunker (Cas)
+>
+> Cas is dying, floating to Empty, struggling to stop by Heaven to check in on Dean one last time
+
+Cas slips slower from the chair, too limp to keep his body upright. The Angel Black Death spread onto his true form, devouring him ruthlessly. He doesn't know why he's not healing, when Heaven and the angels there seem to have been fixed. But he's also too tired to even worry about that now.
+
+He wonders if Dean is in Heaven with his family and friends now. He wonders if Dean is in peace, if Dean is happy.
+
+The black spots spread on his skin more thoroughly, just as a reflection of what's happening in the true form.
+
+"I'm dying, Dean," he says quietly to the empty air in the bunker. The only living thing is the passed-out Adam in his body when Michael left. Nick's body lies lifelessly right beside. Cas doesn't have anyone now. He looks skyward, staring at the ceiling, as if he can see all the way to Heaven just like that.
+
+"But it's okay. As long as you're fine, the world is fine. It doesn't matter what happened to me." He smiles tiredly, thinking back at his long life.
+
+He doesn't usually have enough time to reflect on his life, on any of other deaths. Death is usually quick, instant, not leaving any space for lingering, for "your whole life flashing before your eyes" as humans like to say. But this time, it's stretched, it's slowed down. It's painful and inevitable, but it also gives him time to think.
+
+The eons before the Apocalypse, before meeting Dean, it flashes by like a stream runs down the snow mountain. It's all just nature, just duty, just days and years of repetition. But his life is changed when he first laid hand on Dean in the Hell.
+
+Cas wonders if it's actually the truth that Hester told him "he's lost" ever since that day. He only knows he's changed.
+
+He remembers every time he looks into Dean's eyes, every time he watches Dean in his sleep, watches Dean on his mission to save people, save the world. He watches Dean suffer, he watches Dean joy and relieved. He just watches him, and be there with him, sinking deeper into the mud that humans call emotions, which angels call damnations.
+
+He rebelled for him, he died for him. Then he came back, finding Dean looking at him differently.
+
+He learns about the word "love" much, much later.
+
+Cas's fingers linger on his lips, remembering his dream when he fell into the recent comatose. He wonders why his brain would torture him with all the painful, miserable memories where he failed all the angels and killed so many versions of Dean, only to show him this sweet little thing at the end.
+
+He wonders if Dean would ever want anything like that in the real world.
+
+He wonders how Dean's lips taste like.
+
+But they never talked about anything like that. And they'll never have chance again.
+
+Cas closes his eyes, sinking back into the darkness. The pain from the disease is overwhelming, hurting his physical body and his grace at the same time, worse than ever.
+
+Cas forces his mind to come back to that dream, to that kiss, to the Dean at that moment when he looks at him in the eyes, so tenderly, so fondly.
+
+Cas sighs one last quiet sigh, "Dean --"
+
+And his grace and his true form leaves him.
+
+<br>
 
 #### draft notes
-
-> sacrifice/kill each other, explodes and kills Michael/Lucifer (in Heaven), purifies angels in Heaven, Heaven is saved, fallen souls/spirits are retrieved by angels restart working; friends/family's ghost reunite in Heaven, Cas is left alone in the bunker
->
-> Cas think they're dead (which is true), go to Heaven/Vail to find them, try to save them again, find in a setting like HP King's Cross (rewrite as Dean's memory), let them decide if they want back
->
-> Dean's decision point: choose Heaven/John/Mary and have his peace, or Earth/Cas and continue living
->
-> Dean choose Cas and both Sam/Dean back to Earth (Sam is a 6-month swaddle, Dean makes the decision)
->
-> (The Brightest light that save Heaven and world is Dean+Sam's love to the world/Cas and their willingness of self-sacrifice)
 
 Cas is still in the dying state when Sam/Dean go to Heaven and explode, Cas's grace leaves him and ascend to Empty as he dies, but he struggles to fight it one last time, has to make sure Dean/Sam are safe, so his grace goes to Heaven, seeing other remaining angels are saved, Dean/Sam are saved, so he's ready for his own death, Dean/Sam choose to live again and Dean knows now Cas is really dying, but he insists one last time to hang on for him. Dean/Sam comes back to life, Dean saves Cas.
 
@@ -5273,13 +5435,25 @@ Cas: (quietly chuckle, smile but still saddest smile with big blue eyes) Thank y
 >
 > (The Brightest Light that heals Cas is Dean's love for him)
 
+#### Act 1
+
+
+
 
 
 <br>
 
-###### [END]
+###### [TBA]
 
 #### draft notes
+
+> Cas think they're dead (which is true), go to Heaven/Vail to find them, try to save them again, find in a setting like HP King's Cross (rewrite as Dean's memory), let them decide if they want back
+>
+> Dean's decision point: choose Heaven/John/Mary and have his peace, or Earth/Cas and continue living
+>
+> Dean choose Cas and both Sam/Dean back to Earth (Sam is a 6-month swaddle, Dean makes the decision)
+>
+> (The Brightest light that save Heaven and world is Dean+Sam's love to the world/Cas and their willingness of self-sacrifice)
 
 Dean: You saved me so many times, it's my turn now.
 
