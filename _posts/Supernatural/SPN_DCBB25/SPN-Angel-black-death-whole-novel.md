@@ -11,11 +11,11 @@ long_novels: 【Destiel】Angel Black Death
 published: false
 ---
 
-**Tags:** canon divergent, post-S11 finale, minus BMOL and Mary, S12 rewrite, graphic depictions of violence, temporary main character death, main character near death experience, graphic depictions of disease symptoms, soul-grace dance, love is the best cure, Team Free-Will, profound bond, Eventual Happy Ending, minor Michael/Lucifer
+**Tags:** Canon Divergent, Post-S11 Finale, S12 Rewrite, Temporary Main Character Death, Main Character Near Death Experience, Graphic Depictions of Disease Symptoms, Grace-Soul Bonding, Love is the Ultimate Cure, Team Free Will, Profound Bond, Eventual Happy Ending, Minor Michael/Lucifer
 
-**Warnings:** Graphic Depictions of Violence, Temporary Main Character Death, Graphic Depictions of Disease Symptoms
+**Warnings:** Graphic Depictions of Violence, Temporary Main Character Death, Graphic Depictions of Illness
 
-**Rating**: Teen and up (for violence)
+**Rating**: General
 
 [TOC]
 
@@ -115,9 +115,9 @@ Dean and Sam say yes to Michael and Lucifer, and take over the control eventuall
 
 #### Visual Elements
 
-Lucifer is in rage, eyes red, shadow of his wings menacing. Cas spreads his broken wings to cover Dean, to protect him. Broken feathers falling down, his grace light is tainted with darkness, but he's still trying desperately to protect Dean.
+Lucifer is in rage, eyes red, shadow of his wings menacing. Cas spreads his broken wings to cover Dean, to protect him. Broken feathers falling down, his grace light is tainted with darkness, but he's still trying desperately to protect Dean. (Chap. 8-1)
 
-Cas lies on the bunker bed, bloody and dying. Dark spots and sick symptoms are showing on his vessel and true form, darkness entangled with his grace light. Dean bends over him, caressing his face, looking at him lovingly. The light from his soul dances with Cas's grace, healing him.
+Cas lies on the bunker bed, bloody and dying. Dark spots and sick symptoms are showing on his vessel and true form, darkness entangled with his grace light. Dean bends over him, caressing his face, looking at him lovingly. The light from his soul dances with Cas's grace, healing him. (Chap. 9-1)
 
 ### Posting
 
@@ -237,11 +237,11 @@ Oh and, the other major thing I wanted to see really badly is that -- Cas would 
 >
 > Celebration after S11E23 finale, thought the world is fixed, everything is okay now
 
-They're celebrating. Just the three of them in the bunker's kitchen, Sam, Dean, and Cas, with several dozens of beer and a full table of now-almost-empty pizza boxes. But nevertheless, it's a big celebration to their standard.
+They're celebrating. Just the three of them in the bunker's kitchen, Sam, Dean, and Cas, with several dozen beers and a full table of now-almost-empty pizza boxes. But nevertheless, it's a big celebration to their standard.
 
 "Finally, finally!" Dean is saying, over a bottle of beer, can't stop beaming. "A big win long overdue, here we go!"
 
-"Yeah I hear you," Sam agrees, a little over himself too, lazily leaning into the seat by the wall, sipping his share of beer. "No God, no Darkness, no angel or demon, no new freaking Apocalypse, no bigger disaster when the old one is barely missed. How long have we ever really get this much peace?"
+"Yeah, I hear you," Sam agrees, a little over himself too, lazily leaning into the seat by the wall, sipping his share of beer. "No God, no Darkness, no angel or demon, no new freaking Apocalypse, no bigger disaster when the old one is barely missed. How long have we ever really gotten this much peace?"
 
 Cas seriously considers his question. "At least eleven years ago," he answers with a straight face.
 
@@ -253,7 +253,7 @@ Dean studies his face, and Cas holds his stare -- it looks like they are just bo
 
 "How are you really, Cas?" Dean breaks first, voice soft. Judging by how Cas parts his lips and pauses, he is beaten by a millisecond by the very same question he was just about to ask Dean.
 
-"I'm fine," Cas answers without really thinking, but his smile drops a tiny little bit, his voice mingled in a very quiet sigh. He shifts his eyes, turns to take a deep drink of whatever liquor that was sitting in the glass in front of him.
+"I'm fine," Cas answers without really thinking, but his smile drops a tiny little bit, his voice mingled with a very quiet sigh. He shifts his eyes, turns to take a deep drink of whatever liquor that was sitting in the glass in front of him.
 
 "No post-Devil-possession syndrome?" Dean chases his eyes. "Just, you know, when have things ever been easy for us? I'm just thinking loud, in case there is anything, we might want to give the celebration a rain check."
 
@@ -267,9 +267,9 @@ His fingers did an air quote, Dean's eyes drop on his fingers, flickering with a
 
 Dean hums an acknowledgement, takes another drink slowly, then asks thoughtfully, "Don't you think, after the sun was gone and then came back, shouldn't the time be reset or something? Like, it's a new day or whatever? Hell, it's probably a whole new era when future historians look back. We got a BC/AD two thousand years ago, about time for another one. What should we call it? BD/AG, Before-Darkness and After-God era?"
 
-Sam lets out a short chuckle. "Wow, Aristotle, I'll leave you to think about that." He stands up and pats his brother on the shoulder briefly, nods at Cas on his way out, and then disappears outside of the kitchen door.
+Sam lets out a short chuckle. "Wow, Aristotle, I'll leave you to think about that." He stands up and pats his brother on the shoulder briefly, nods at Cas on his way out, and then disappears outside the kitchen door.
 
-Dean and Cas look in the direction where Sam took off, taking gulps of drink almost simultaneously, enjoying the comfortable lazy silence between them for a while longer.
+Dean and Cas look in the direction where Sam took off, taking gulps of drink almost simultaneously, enjoying the comfortable, lazy silence between them for a while longer.
 
 "You know what this reminds me of?" Dean holds out a finger, vaguely gesturing the glasses of drinks between them -- or maybe it's gesturing the two of them, who knows -- looking expectantly at Cas.
 
@@ -281,19 +281,19 @@ As if on cue, Castiel finishes the glass in front of him in one long take. He wi
 
 "You learned from the best." Dean comments, satisfactorily, searching for more bottles that are not emptied on the desk.
 
-They continue chatting. They talk and laugh. They share old funny stories. Dean doesn't consider himself nostalgia, usually, so this must be alcohol's fault that everything is getting dizzy and light-headed that he just wants to keep this moment longer. This moment when he knows everything is safe and sound, everyone he cares about are home and comfortable, Sammy in bed, just as if he is still an eight-year-old chubby kid that needs to go to bed by nine, and his best friend right by his side. A lingering rational mind is whispering to him that this might just be the postmortem affect of adrenaline rising too high and haven't come back to normal level yet. The other part of him only wants *this* longer -- his swimming brain can't really name properly what *this* is exactly, but the peace and quiet is just right and comfortable as it is, so he decides he likes it, indulges himself in *this* longer, wills *this* to last forever if he can, before anything else disrupts. So Dean reaches for the next drink, and keeps talking.
+They continue chatting. They talk and laugh. They share old funny stories. Dean doesn't consider himself nostalgic, usually, so this must be alcohol's fault that everything is getting dizzy and light-headed, that he just wants to keep this moment longer. This moment when he knows everything is safe and sound, everyone he cares about is home and comfortable, Sammy in bed, just as if he is still an eight-year-old chubby kid that needs to go to bed by nine, and his best friend right by his side. A lingering rational mind is whispering to him that this might just be the postmortem effect of adrenaline rising too high and hasn't come back to a normal level yet. The other part of him only wants *this* longer -- his swimming brain can't really name properly what *this* is exactly, but the peace and quiet is just right and comfortable as it is, so he decides he likes it, indulges himself in *this* longer, wills *this* to last forever if he can, before anything else disrupts. So Dean reaches for the next drink, and keeps talking.
 
 After god knows how long -- Dean loses sense of time long ago -- Cas finally tears himself away from his drinks and presses a palm on top of an open glass to prevent it from being raised to meet Dean's lips again.
 
 "Dean," he says quietly but firmly, "I don't think it's wise to keep drinking more."
 
-Dean shakes his head briefly to clear his mind, looks like as if a warm bubble around his head just get popped and he is trying to sink back to the seat from his floating state. "Guess you're right," he mummers sleepily, "as much as I'd like to stay, I'm probably too old for the overnight carnival and celebration now. Need to pass out for a couple of hours." He stands up staggeringly, his eyes can barely stay open now, he'll own that to more tiredness than drunkenness.
+Dean shakes his head briefly to clear his mind, looks as if a warm bubble around his head has just been popped, and he is trying to sink back to the seat from his floating state. "Guess you're right," he murmurs sleepily, "as much as I'd like to stay, I'm probably too old for the overnight carnival and celebration now. Need to pass out for a couple of hours." He stands up staggeringly, his eyes can barely stay open now, he'll own that to more tiredness than drunkenness.
 
-"I understand." Cas stands up too, follows him out of the kitchen and helps Dean get back to his room before his crooked footsteps take any wrong turn.
+"I understand." Cas stands up too, follows him out of the kitchen, and helps Dean get back to his room before his crooked footsteps take any wrong turn.
 
-"Get some rest, Dean," Cas says, his hands holding some of Dean's weight until making sure he's secure on his own bed. Then he gestures the other end of the hallway. "I'll just take the guest room."
+"Get some rest, Dean," Cas says, his hands holding some of Dean's weight until making sure he's secure on his own bed. Then he gestures to the other end of the hallway. "I'll just take the guest room."
 
-"Night, Cas," Dean mumbles, though Castiel suspects he might already fell in sleep before finishing the sentence.
+"Night, Cas," Dean mumbles, though Castiel suspects he might have already fallen into sleep before finishing the sentence.
 
 Cas turns off the light, lingering by the door in the dark for a second too long. "Good night, Dean."
 
@@ -313,9 +313,9 @@ Something is wrong.
 
 Something is always wrong, as they often say, with them being Winchesters. But this feels... not really *wrong* wrong, but *off*.
 
-"I don't know how to tell you, Sammy, it's like my hair is in the wrong direction, or... or spider sense gets triggered or something." Dean is a bit irritated, hands flying everywhere trying vainly to compensate for the lack of accurate words. "My gut says so, okay? And I know better than ignoring a hunter's instinct. Something is definitely off but I don't know what. It's like forgetting a dream you just had two seconds ago."
+"I don't know how to tell you, Sammy, it's like my hair is in the wrong direction, or... or spider sense gets triggered or something." Dean is a bit irritated, hands flying everywhere, trying vainly to compensate for the lack of accurate words. "My gut says so, okay? And I know better than ignoring a hunter's instinct. Something is definitely off, but I don't know what. It's like forgetting a dream you just had two seconds ago."
 
-Sam presses his palms on the forehead. They shouldn't have this conversation before they even have their first cup of coffee of the day. And this definitely shouldn't be how the second day after saving the universe starts. But here they are.
+Sam presses his palms on his forehead. They shouldn't have this conversation before they even have their first cup of coffee of the day. And this definitely shouldn't be how the second day after saving the universe starts. But here they are.
 
 "Your gut telling you anything else? A bit more details?" Sam lets his fingers handle the coffee machine in autopilot mode, presses the power button after putting in everything, and turns back to face his brother. "Heaven? Hell? Up? Down? From anywhere? Anyone we can call?"
 
@@ -325,37 +325,37 @@ Sam sighs. "You sure it's not a post-traumatic stress something? Or a nightmare?
 
 Dean rounds his eyes, his voice on the edge of snapping. "I know what PTSD is, and this ain't that, alright?"
 
-Sam debates whether to point out that Dean didn't handle that well after he came back from Hell or Purgatory no matter how normal he pretended to be, maybe this is just like those times. But judging by Dean's face, he swallows the thought back. "You talked to Cas about that yet?" is what he decides to go with.
+Sam debates whether to point out that Dean didn't handle that well after he came back from Hell or Purgatory, no matter how normal he pretended to be; maybe this is just like those times. But judging by Dean's face, he swallows the thought back. "You talked to Cas about that yet?" is what he decides to go with.
 
 "No..." Dean pauses, looks around, pauses again, and then almost amused, "Did... did he oversleep even later than us?"
 
 Sam throws up his hands to mean "I have no idea."
 
-The next thought coming immediately after hits both of them at the same moment. Dean stiffens and Sam straights up from pouring newly made coffee. They share a tense look.
+The next thought coming immediately after hits both of them at the same moment. Dean stiffens, and Sam straightens up from pouring newly made coffee. They share a tense look.
 
-It can't be good. Angels don't sleep, and the few other times when Cas did sleep, he was either dying of a lack of grace or already became human. Or worse, the no-show could be another quiet leave without goodbye where he decides to do his own things, and that usually doesn't turn out very well.
+It can't be good. Angels don't sleep, and the few other times when Cas did sleep, he was either dying of a lack of grace or already became human. Or worse, the no-show could be another quiet leave without goodbye where he decides to do his own thing, and that usually doesn't turn out very well.
 
 Dean and Sam rush towards the guest room.
 
-Dean gets there first and starts bumping on the door. "Cas, you in there?" He raises voice over his own pounding noise.
+Dean gets there first and starts banging on the door. "Cas, you in there?" He raises his voice over his own pounding noise.
 
 A mumbling voice answers from inside, but sounds a hell lot like moaning. Dean lets out a breath that he doesn't know he was holding, but almost immediately holds it again.
 
-They both tilt head and stick closer to the door trying to make out what Cas is saying, but the door that usually is too thin to hold anything back suddenly seems too sound-proof now to catch any sentence.
+They both tilt their heads and stick closer to the door, trying to make out what Cas is saying, but the door that usually is too thin to hold anything back suddenly seems too soundproof now to catch any sentence.
 
-Dean takes two steps back and lifts one leg, ready to kick his way in, when Sam is right on time to put a hand in front of him to stop. "Whoa, hey, you want to maybe try turn the door knob first?"
+Dean takes two steps back and lifts one leg, ready to kick his way in, when Sam is right on time to put a hand in front of him to stop. "Whoa, hey, you want to maybe try turning the doorknob first?"
 
-Dean gives him a glance, not at all guilty of unable to think straight. "Good idea."
+Dean gives him a glance, not at all guilty of being unable to think straight. "Good idea."
 
-He turns the door knob, and the door opens obediently. Dean deliberately ignores Sam's look on the back of his head.
+He turns the doorknob, and the door opens obediently. Dean deliberately ignores Sam's look on the back of his head.
 
-Cas is in the room, sitting by his clean unslept-in bed, hands pressed firmly on the temple, eyes shut tight, looking too concentrated that it looks very close to pain.
+Cas is in the room, sitting by his clean, unslept-in bed, hands pressed firmly on the temple, eyes shut tight, looking too concentrated that it looks very close to pain.
 
-Dean dashes inside, holding him around the shoulder, shaking slightly. "Hey, hey Cas, buddy, what's wrong? What happened?"
+Dean dashes inside, holding him around the shoulder, shaking slightly. "Hey, hey, Cas, buddy, what's wrong? What happened?"
 
 Cas looks like he has to take great effort to put his hands down and set the volume in his head lower before he can even try to start talking.
 
-"It's angel radio." He looks at Dean with a grimace, his face wrinkled with pain. "Something is happening to the angels, they're getting sick and dying fast. From what I can hear, it's contagious and deadly. So much voice, so much agony. I have to go now."
+"It's angel radio." He looks at Dean with a grimace, his face wrinkled with pain. "Something is happening to the angels; they're getting sick and dying fast. From what I can hear, it's contagious and deadly. So much voice, so much agony. I have to go now."
 
 "Wait, wait, hold on a sec, Cas, not so fast." Dean presses him back to bed right when Cas tries to stand up. "Contagious and deadly, you say?"
 
@@ -367,13 +367,13 @@ Cas stares at him, voice starting to get harsh, "Yes! I am not a man, and I have
 
 "Well, you can't help if you're dead or sick too." Dean points out the obvious, then adds half-heartedly, "Besides, who cares if a few flying monkeys died, not like they're so friendly or helpful in the past. Hell, personally I still think there are too many of them around, might as well..."
 
-"Dean." Sam warns quietly, and Dean shuts up just in time.
+"Dean," Sam warns quietly, and Dean shuts up just in time.
 
 Cas shakes off Dean's hands from his shoulder and stands up quickly, steps away from him. His eyes are furious now, and maybe also a little something like hurt. Dean can't say he didn't flinch. It reminds him so much of the very first time seeing Castiel in that barn. Even without his wings, Cas can sometimes still be very intimidating, terrifying even.
 
 "Sorry, didn't mean to..." Dean starts but gets cut off.
 
-Cas grits his teeth. "In case you forget, *I* happen to also be one of the 'flying monkeys.'" The air quotes almost get Dean choked on his own unintended laugh. He has to fight hard to stop the face muscle from twitching.
+Cas grits his teeth. "In case you forget, *I* happen to also be one of the 'flying monkeys.'" The air quotes almost get Dean choked on his own unintended laugh. He has to fight hard to stop his facial muscles from twitching.
 
 "They might be ass-butts from time to time, but they are still my brothers and sisters," Castiel says sternly. Dean avoids his glares and can't help but feel a sting in the chest. Even if he understands the saying -- believe him, he really does -- still, the word "brother" might just mean differently sometimes.
 
@@ -381,17 +381,17 @@ Cas grits his teeth. "In case you forget, *I* happen to also be one of the 'flyi
 
 "We'll go with you." Words slip out of Dean's tongue before his brain catches what he's saying.
 
-"Dean, you sure?" Sam speaks behind him, Dean almost forgets he's still there.
+"Dean, you sure?" Sam speaks behind him; Dean almost forgets he's still there.
 
-Cas's expression softens slightly. "No, you can't, Dean. It will kill you, and you know that. No human can be in Heaven in their living form, they will be ripped apart and with only their souls left. I have to go alone."
+Cas's expression softens slightly. "No, you can't, Dean. It will kill you, and you know that. No human can be in Heaven in their living form; they will be ripped apart and with only their souls left. I have to go alone."
 
-"Or ask the sick ones come down here?" Dean suggests hopefully. "So you don't have to be around all those coughing sneezing guys?"
+"Or ask the sick ones to come down here?" Dean suggests hopefully. "So you don't have to be around all those coughing, sneezing guys?"
 
-"Cas, do we know if this angel sickness can pass on to human?" Sam asks reasonably. Dean gives him an appreciated glance, at least some of them are still able to think straight.
+"Cas, do we know if this angel sickness can pass on to humans?" Sam asks reasonably. Dean gives him an appreciated glance; at least some of them are still able to think straight.
 
-Cas looks at Sam for the first time after they burst into the room. "I don't think so," he says after some thought. "Angels technically don't exist in the same dimension as humans, we only manifest into this dimension when we need to. So whatever this is, I don't think it can cross dimension."
+Cas looks at Sam for the first time after they burst into the room. "I don't think so," he says after some thought. "Angels technically don't exist in the same dimension as humans; we only manifest into this dimension when we need to. So whatever this is, I don't think it can cross dimensions."
 
-"Awesome." Dean's whole body muscle loosens up slightly, "good to know humans won't extinct because the flying dudes poke at the wrong place."
+"Awesome." Dean's whole body muscle loosens up slightly, "good to know humans won't go extinct because the flying dudes poke at the wrong place."
 
 "But I don't think they can be moved to Earth or if they'd be willing to." Cas looks back at Dean again.
 
@@ -403,17 +403,17 @@ Cas looks at Sam for the first time after they burst into the room. "I don't thi
 
 "So can we all agree now that I need to go? Alone, and immediately?" Cas sighs, getting noticeably more impatient as time passes by.
 
-Sam opens and closes his mouth a few times, looks like he still tries to object but doesn't know what to say. Dean stares at one far end on the wall slightly past Cas's shoulder, eyes unfocused, seems to be deep in thought.
+Sam opens and closes his mouth a few times, looks like he still tries to object but doesn't know what to say. Dean stares at one far end of the wall, slightly past Cas's shoulder, eyes unfocused, deep in thought.
 
 Cas walks towards the door.
 
-"What if," Dean holds out a finger, but still locks his eyes on that spot, not out of the contemplate, "what if you go as a human?"
+"What if," Dean holds out a finger, but still locks his eyes on that spot, not out of contemplation, "what if you go as a human?"
 
 The room falls silent, Dean looks up to meet two x-ray gazes that are so sharp that he can practically feel the cut on his skin. He shifts his feet uncomfortably. "Hear me out, you said humans can't get infected by this angelic black death, right? And you had been back to Heaven before even without or with little of your grace, so I'm guessing the pure born-and-raised *human*-human is different from the *you*-human. So think of being a human like having a dose of vaccine, what if we somehow drain your grace to *almost* like a human, keep it safe, you go there, do your thing, poke around, solve the problem, and come back juicing up again, voila, problem solved."
 
 "Dean," Sam sighs, running a hand over his face, "I don't even want to start on how many things can go wrong there."
 
-"I'm not saying I like it." Dean eyes him, then focuses back on the only angel in the room. "Hell, even *I* hate myself for saying that, God knows how tough it is every time see you lose your mojo, but it's still better than deadly sick or die -- a thousand times better. What do you say?"
+"I'm not saying I like it." Dean eyes him, then focuses back on the only angel in the room. "Hell, even *I* hate myself for saying that, God knows how tough it is every time I had to see you lose your mojo, but it's still better than being deadly sick or dying -- a thousand times better. What do you say?"
 
 Castiel considers carefully.
 
@@ -423,13 +423,13 @@ Sam watches them both, turning his head back and forth.
 
 "So?" Dean asks hopefully, "Would it work?"
 
-"Probably," Cas says solemnly and slowly. The way he tilts his head, it looks like he's half thinking, half tuning back to the angel radio again. He frowns deeply again then decides, "I'd like to try it."
+"Probably," Cas says solemnly and slowly. The way he tilts his head, it looks like he's half thinking, half tuning back to the angel radio again. He frowns deeply again, then decides, "I'd like to try it."
 
 "Great," Dean says fake-cheerfully, gesturing to his brother and mouthing a silent "See? I'm a genius." Sam snorts with a light curl on the edge of the lip.
 
 "So what do we need?" Sam asks.
 
-"Nothing we don't already have in the bunker." Cas heads toward one of the stock rooms by the library, Sam and Dean follow him closely.
+"Nothing we don't already have in the bunker." Cas heads toward one of the stock rooms by the library. Sam and Dean follow him closely.
 
 <br>
 
@@ -447,13 +447,13 @@ Inside the box, there is a syringe and a flask. The wooden brown cover of the fl
 
 "That's it?" Dean eyes them curiously, somehow expecting something fancier.
 
-"Yes." Cas hands him both items. "You can use that to extract my life force and store them in the flask. I expect you may need to repeat the process a few times until I'm drained."
+"Yes." Cas hands him both items. "You can use that to extract my life force and store it in the flask. I expect you may need to repeat the process a few times until I'm drained."
 
-Dean swallows, he doesn't like how the word "drained" sounds like, not at all.
+Dean swallows; he doesn't like how the word "drained" sounds, not at all.
 
 "You sure it's safe?" Dean takes the two things from him, feeling uneasy.
 
-"No," Castiel answers in a low but steady voice, "but as you say, we do not have a better option. I would hope we can execute the process near the gate, so I don't need to stay in the feeble state for longer time than necessary."
+"No," Castiel answers in a low but steady voice, "but as you say, we do not have a better option. I would hope we can execute the process near the gate, so I need not stay in the feeble state for any time longer than necessary."
 
 Dean pulls a cheerless smile. "Don't use the word 'execute', will ya, buddy? Now I feel like an executioner."
 
@@ -467,21 +467,21 @@ Dean turns to the garage. "I'll get Baby ready in five."
 >
 > Dean extracts Cas's grace to be almost-human, Cas goes to Heaven through the gate
 
-The gate is not guarded by any angel. The whole playground is totally empty, no sign of any human or angel apart from them. Considering most of the angels are probably busy tending their new disease outburst, it's more or less expected.
+The gate is not guarded by any angel. The whole playground is totally empty, no sign of any human or angel apart from them. Considering most of the angels are probably busy tending their new disease outbreak, it's more or less expected.
 
-Dean still frowns at the place. He never likes this place, after the angels made the playground a Heaven elevator portal, nothing good ever happened every time anyone is near here.
+Dean still frowns at the place. He never liked this place. After the angels made the playground a Heaven elevator portal, nothing good ever happened every time anyone is near here.
 
-The air in the Impala goes quiet for a few minutes after the car parks, all three of them fall into their own thoughts, before Dean breaks the silence.
+The air in the Impala goes quiet for a few minutes after the car parks; all three of them fall into their own thoughts, before Dean breaks the silence.
 
 "You ready?" He turns to Cas in the back seat.
 
 "Just do it," Castiel answers gravely.
 
-There is not much space in the Impala to make it a comfortable surgery table, so they have to make do. Castiel leans back on the back seat next to the door with his eyes closed, Dean holds the syringe tight and close to his skin near the neck, and Sam holds the flask besides him, watching them with his worried eyes.
+There is not much space in the Impala to make it a comfortable surgery table, so they have to make do. Castiel leans back on the back seat next to the door with his eyes closed, Dean holds the syringe tight and close to his skin near the neck, and Sam holds the flask beside him, watching them with his worried eyes.
 
 Dean swallows, eyes wandering around Castiel's vulnerable bare skin by the throat, remembering this is exactly how every time Cas got his throat cut and grace taken, now he's trusting him to do the exact same worst thing to him. Dean has to use his left hand to steady the right one, like holding a gun for the first time.
 
-Dean takes another breath, and finally pushes out the last inch. It turns out that it is fairly easy to stab a needle into someone's neck and start extracting -- or maybe it's just the angel biology being different from human, or the syringe isn't as normal as he thought it is. Bright glowing light starts flowing into the syringe, Dean can't help stare at the beautiful light in there, his eyes get caught by the color and brightness of the light uncontrollably, his heart thumps with a sudden knowledge that, to some extent, he might be looking at Cas's true form right now, no matter how small the portion is.
+Dean takes another breath, and finally pushes out the last inch. It turns out that it is fairly easy to stab a needle into someone's neck and start extracting -- or maybe it's just the angel biology being different from human, or the syringe isn't as normal as he thought it is. Bright glowing light starts flowing into the syringe; Dean can't help but stare at the beautiful light in there, his eyes get caught by the color and brightness of the light uncontrollably, his heart thumps with a sudden knowledge that, to some extent, he might be looking at Cas's true form right now, no matter how small the portion is.
 
 When he tears his eyes away, Dean notices Cas clenches his teeth tight with deep lines between his eyebrows. His breath catches pace too, getting deeper and quicker, clearly enduring some huge pain.
 
@@ -491,9 +491,9 @@ Dean stops immediately, though the syringe is already pretty full with grace. He
 
 Dean sighs, pushes the tube into the flask, and starts extracting a second time. And then a third.
 
-Cas looks worse by each minute, sweat rolling down from his forehead, his body sliding down weakly on the seat.
+Cas looks worse by the minute, sweat rolling down from his forehead, his body sliding down weakly on the seat.
 
-"Okay I don't think we should..." Dean frowns deeply and ready to give up on this terrible plan, Cas is just looking awful.
+"Okay I don't think we should..." Dean frowns deeply and is ready to give up on this terrible plan. Cas is just looking awful.
 
 Cas grabs his wrist to prevent him from taking the needle out. "Keep. Going." His voice is hoarse and husky.
 
@@ -503,11 +503,11 @@ Cas grabs his wrist to prevent him from taking the needle out. "Keep. Going." Hi
 
 "Yeah sometimes the right thing sucks," Dean barks. "Tell me when to stop."
 
-He can see the light in the syringe is already getting noticeably thinner, he can almost vividly imagine the mojo tank inside Cas getting lower as he drains.
+He can see the light in the syringe is already getting noticeably thinner; he can almost vividly imagine the mojo tank inside Cas getting lower as he drains.
 
 "Almost there." Cas holds both hands on the edge of the seat to prevent himself from further sliding down, but even his fingers are too weak now to really do anything. His knuckles are white, more sweat pouring down.
 
-Dean sees it all. "Okay I'm calling it." He decides after a few more minutes, gives up waiting for Cas's signal, taking the syringe away and handing to Sam, like he can't bear to hold the damn thing one more second, like it's a criminal evidence that he's hurting Cas.
+Dean sees it all. "Okay I'm calling it." He decides after a few more minutes, gives up waiting for Cas's signal, takes the syringe away and hands it to Sam, like he can't bear to hold the damn thing one more second, like it's the criminal evidence that he's hurting Cas.
 
 Cas breathes heavily, his chest rising and falling with rhythms of an uneven tide on the edge of a storm. Dean feels just as shitty and can't stop beating himself in his mind.
 
@@ -515,17 +515,17 @@ Cas breathes heavily, his chest rising and falling with rhythms of an uneven tid
 
 Cas finally opens his eyes and looks back. Dean thinks even the blue in his eyes fades somewhat with the lack of grace, but maybe it's just the effect of the light.
 
-Cas tries to climb out of the Impala on his own but staggers so much he almost falls to the ground, Dean lends his shoulder to help and holds him to the gate.
+Cas tries to climb out of the Impala on his own, but staggers so much he almost falls to the ground. Dean lends his shoulder to help and holds him to the gate.
 
 "Think you'll be alright going upstairs and coming back by yourself?" Dean hesitates by the edge when Cas steps onto the sand.
 
 Cas gives him a weak nod. "I'll be back as soon as possible," he says, in a tone of promise, and then the portal lights up.
 
-Sands rise and spin like a mini-sandstorm. Cas lets out a moan that sounds far too close to a suppressed silent scream, as if he is being burnt alive or torn apart by horses running different directions but uses all his power to swallow back that pain so that Dean might miss it. But Dean didn't. Dean yells his name, can't help himself from instantly reaching out a hand and almost stepping on to the sand, trying to drag Cas back down.
+Sands rise and spin like a mini-sandstorm. Cas lets out a moan that sounds far too close to a suppressed silent scream, as if he is being burned alive or torn apart by horses running in different directions, but uses all his power to swallow back that pain so that Dean might miss it. But Dean didn't. Dean yells his name, can't help himself from instantly reaching out a hand and almost stepping onto the sand, trying to drag Cas back down.
 
 "No, Dean! Don't!" Real panic echoes in Cas's voice.
 
-Dean feels their fingers might have touched for a split second, but immediately there is a force throwing him out. He stumbles back a few steps, by the time he steadies himself again, the sandstorm has settled down, and Castiel is no longer there.
+Dean feels their fingers might have touched for a split second, but immediately there is a force throwing him out. He stumbles back a few steps. By the time he steadies himself again, the sandstorm has settled down, and Castiel is no longer there.
 
 <br>
 
