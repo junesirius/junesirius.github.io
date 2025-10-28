@@ -10,7 +10,7 @@ origin: 2025 SPN Eldritch Big Bang
 published: false
 ---
 
-Tag: Canon Compliant, Pre-Series, Hurt/Comfort, Angst, Slow Burn, Get Together, Castiel's wings, Indicated nonexplicit rape/non-con (not between Dean/Castiel), Mob, Temporary Main Character Death, Torture, S06E03 inspired, S04E07 inspired, Sodom and Gomorrah, Inspired by Biblical Story, Genesis XIX, purposefully sinful description for most characters including John Winchester and occasionally Sam Winchester due to story setting, super awful worse-than-canon John Winchester, Dead Dove Warning, Complicated Accidental Dub-Con, PTSD, Trauma
+Tag: Canon Compliant, Pre-Series, Hurt/Comfort, Angst, Slow Burn, Get Together, Castiel's wings, Non-explicit mass rape/non-con (not between Dean/Castiel), Dirty Words, Humiliation, Mob, Temporary Main Character Death, Torture, S06E03 inspired, S04E07 inspired, Sodom and Gomorrah, Inspired by Biblical Story, Genesis XIX, purposefully sinful description for most characters including John Winchester and occasionally Sam Winchester due to story setting, super awful worse-than-canon John Winchester, Dead Dove Warning, Complicated Accidental Dub-Con, PTSD, Trauma
 
 Warning: rape/non-con, graphic depiction of violence
 
@@ -200,7 +200,13 @@ The angel does not know what he is stepping into. The man does. And he tries so,
 
 ### Editing notes
 
-**Disclaimer before the work: ** The writer has no disrespect and honestly very limited knowledge to the biblical stories. This story is partially inspired by biblical story, but mostly just an articulated fanfic story. Apologize in advance if there is any offense to religious readers, and please feel free to close the page if it makes you discomfort. Fair warning: It's a dark story.
+#### Words before the work:
+
+Disclaimer: The writer has no disrespect and honestly very limited knowledge to the biblical stories. This story is partially inspired by biblical story, but mostly just an articulated fanfic story. Apologize in advance if there is any offense to religious readers, and please feel free to close the page if it makes you discomfort. Fair warning: It's a dark story.
+
+Before you read anything, just know that I feel so, so sorry for writing this sick thing. It's horrible, and I don't know why I put all my beloved characters through this. I confess and plead for forgiveness, from characters and readers alike. It's painful and sickening, among everything else. Please, please read the tags and warnings before you move forward. It's disturbing, even to me.
+
+And now, if you're sure to proceed, enjoy the darkness.
 
 <br>
 
@@ -284,7 +290,7 @@ John squints at him, eyes piercing through his skull, as if reading his mind. "G
 
 "That's not nonsense!" Dean protests futilely, sensing the burning gaze on his skull without having to look up.
 
-"Having some wings and coming from sky doesn't make them holy. We make them whores and playtoys and punchbags, and that's what they are!" John snaps, throwing the bread back into the basket. "Those flying creatures are nothing more than entertainment to us. They are no stronger than us, no more powerful than us. We put them in chains and cuffs, and they can't move; we draw a circle with sigils, and they can't run; we beat them, and they bruise; we cut them, and they bleed. So tell me, why should we fear them or worship them?"
+"Having some wings and coming from sky doesn't make them holy. We make them whores and playtoys and punchbags, and that's exactly what they are!" John snaps, throwing the bread back into the basket. "Those flying creatures are nothing more than entertainment to us. They are no stronger than us, no more powerful than us. We put them in chains and cuffs, and they can't move; we draw a circle with sigils, and they can't run; we beat them, and they bruise; we cut them, and they bleed. So tell me, why should we fear them or worship them?"
 
 Dean wonders distantly who's the first sicko to discover the sigils that work on the angels, and all those carved brass knuckles, cuffs, blades, and the oil from Jerusalem (It's a short trip after all, Jerusalem is only a day or two's distance away to the west, even faster with camels).
 
@@ -350,19 +356,21 @@ He sits by the gate of the city until the dawn breaks, letting his mind float aw
 
 Dean blinks slowly as the night sky shift slowly to brighter color, the dark blue dyed over by golden cloud from the east. The sun rises over the horizon.
 
-There is another source of light approaching slowly from the west. Accompanied by a crackling sound of thunder that sounds coming from above the sky. A figure walks toward the gate from a far distance.
+There is another source of light approaching slowly from the west. Lightening cracks the distant sky, accompanied by a tumbling roar of thunder. From the light brighter than the rising sun, a figure emerges on the land of wilderness, moving toward the city from afar.
 
-The land outside the gate is flat with desert, muffling the image of the figure with slowly flying sand.
+The land outside the gate is flat with desert, muffling the image of the man with flying slow sand. But the light radiating from his figure pierces through the dust, as steady as the north star.
 
-Dean squints at the coming figure, wondering who might be coming toward the city today. He stands up by the gate, smoothing his cloth, waiting for the newcomer.
+Dean squints at the coming figure, wondering who that might be. He stands up from the ground, smoothing his cloth, waiting for the newcomer.
 
-The man walks faster than Dean expects, or maybe he isn't walking, not really. He is also no ordinary man, for when he enters the clear view, Dean can see a pair of giant black wings spreading behind his back. Black as midnight, spreading wide into the sky when he first landed on the ground, tucking closer to his back as he walks closer.
+The man walks faster than Dean expects, or maybe he isn't walking, not really. He is also no ordinary man, for when he enters the clear view, Dean can see a pair of giant black wings spreading behind his back. Black as midnight, spreading wide into the sky when he travels through the land. He folds it closer when he approaches the city.
 
-Dean can't help himself from staring.
+Dean can't help himself from staring. It's the most beautiful thing he's ever seen. The light, the wings, the man.
 
 "You're an angel." He hears himself saying, through his dry lips. His brain falls blank, knowing nothing else to do but staring at the newcomer.
 
-The angel wears a long black tunic, with a tan linen robe on the outside, much like the men in the city. Dean wouldn't know he isn't local just from the dressing. But somehow, these clothes seem quite fitting on him without making him any less celestial. His face is devastatingly handsome, with eyes so heavenly blue. Dean finds his eyes sliding to the belt tightened on his waist that displays a well-built figure. He stops his thought and pulls his eyes back.
+The angel wears a long black tunic, with a tan linen robe on the outside, much like the men in the city. Dean wouldn't know he isn't local just from the dressing. But somehow, these clothes seem quite fitting on him, could easily blend in the city, but also doesn't make him any less celestial. His face is devastatingly handsome, with eyes so heavenly blue. Dazzling blue light lingers in his eyes for a moment longer, before it dims into pupils that look as beautiful as the purest sapphire.
+
+A belt tightens on his waist, displaying quietly a trim, well-built figure underneath. Dean stops his train of thought and drags his eyes back up to his face.
 
 "I am Castiel, Angel of the Lord." The angel announces with a low voice, looking at Dean bluntly without blinking.
 
@@ -402,13 +410,15 @@ Now that they walk onto the street, with Dean leading half a step ahead and the 
 
 More people drop what they were busy with, and starts following them from a short distance away, forming a tailing crowd fast.
 
-"Dean!" One of them calls to him, "Where do you find an angel all to yourself? Is this why you didn't come yesterday? Having too much fun with this one?"
+"Dean!" One of them calls to him, "Where do you find an angel all to yourself? Is this why you didn't come join us yesterday? Having too much fun with this one?"
 
 Another shouts, "Where are you going? Don't keep him to yourself. Introduce him to us so we may know him!"
 
 A loud laughter and yelling of agreement burst from the crowd.
 
-Dean glares behind his shoulder, furious with embarrassment. *How can they talk about angels like this? How can they talk as if him and this Angel of Lord as if they are... something intimate?*
+Dean glares behind his shoulder, furious with embarrassment. *How can they talk about angels like this? How can they talk as if him and this Angel of the Lord as if they are... something intimate?*
+
+He shakes his head in disbelief. *How can they even think about staining them that way? Didn't they see how beautiful and bright the angels are? Or is that just in his eyes?*
 
 The crowd only laughs louder at his glower.
 
@@ -424,6 +434,12 @@ Dean stops automatically with a gasp. "Sam's dying? He seemed fine and improved 
 
 "He would if you don't get your lazy ass over here and prepare his meds! We're running out of herbs, so go get those for him." John orders.
 
+Dean frowns. "It can't be. There's plenty left yesterday."
+
+Then he notices the burning roll of cigar between his father's fingers. *Oh.*
+
+John scowls. "Are you defying me, boy? It's gone now. So go get more!"
+
 Dean blinks, looking between John and Castiel, then turning back to his father. "The herbs are in the mountains. It will take me at least three days to go there and back." His voice deeply troubled.
 
 "Then why aren't you leaving already?" John glares at him. "Surely you don't have anything more important to do?" His eyes flickers to the angel.
@@ -432,7 +448,7 @@ The crowds following them have already caught up, surrounding them with interest
 
 The rest of them laugh. Another adds loudly, "We'll make sure to leave you a piece!" Followed by a clanking metal sound.
 
-Dean swallows, glancing back at Castiel.
+Dean winces at the sound and the words, glancing back at the angel.
 
 "Castiel --" he starts, voice low and eager. "I can't --"
 
@@ -442,17 +458,19 @@ Dean swallows, glancing back at Castiel.
 
 Castiel nods briefly with appreciation.
 
-"Please be careful, Castiel." Dean lowers his voice so the people and his father might not hear him, his voice rushed with worry, bordering pleading. "Leave the city as soon as you can, please. I will come back in three days."
+"Please be careful, Castiel." Dean lowers his voice so those other people including his father would not hear them, his voice rushed with worry, bordering pleading. "Leave the city as soon as you can, please. I will come back in three days."
 
 "Farewell, Dean," the angel says formally.
 
 They part ways.
 
-Castiel walks down the street, Dean takes the opposite way heading to the mountains.
+Castiel walks down the street, Dean takes the opposite way heading out of the city toward the mountains.
 
-When he looks back, he loses sight of Castiel already -- the crowd following the angel is like a moving wall, covering all the views, not leaving a single glimpse of his wings.
+When he looks back at the end of the street, he loses sight of Castiel already -- the crowd following the angel is like a moving wall, covering all the views, not leaving a single glimpse of his wings. Like an ominous sign.
 
 Dean thinks -- he wishes Castiel safe. And deep down, not knowing why, he wishes he'll see the angel again.
+
+He's already missing that light as bright as the rising sun.
 
 <br>
 
@@ -476,23 +494,89 @@ the way Cas speaks, start off very formal, biblical style, slowly turning to nor
 
 (Sam 17y, Dean 21y)
 
-### (Chap 2) II. Find the Angel
+### (Chap 2) II. Where is the Angel
 
 > Dean comes back out after three days (Sam doesn't get better but stabled, he goes to get meds), goes to the city square, Cas is gone, Dean only finds broken feathers and blood and lingering grace, people laughing talking about new angel, Dean heart hurt, find a vial to collect Cas's lost grace
 >
 > Dean starts looking for the angel, hoping it's not too late, doesn't dare asking around for fear they know they're close, notice signs of Cas's appearance and grace and cloth pieces here and there, torn trench coats etc., imagining the worst already
 
-###### [TBA]
+Dean comes back around noon of the third day, with a bruised body and a dislocated shoulder.
+
+It would have taken him another half-day if he took the usual route, but a thread of thought kept tightening and pulling at the back of his head. He can't wave off the irreverent, erotic looks on the people's faces when they look and talk about the angels. They make him scared.
+
+The shortest path in the mountain isn't a road, and falling all the way down could have killed him, if he's not happened to be caught by the bushes. Disturbed sand flies into his eyes and nose. He lies on the ground on his back, coughing to clear his lung of the sand.
+
+Sun glares into his eyes from on top of his head. Dean wonders if all the angels are bright like that, or it's just Castiel's. He wonders if the angel was clever enough to leave the city already.
+
+He struggles to roll on the ground and haul himself up, and keeps heading back to the city. His footsteps are unsteady from exhaustion and pain, but he wills it to move as fast as he can.
+
+The city looks the same as when he left. Town folks walk along the street, talking loudly -- but not about angels. Dean tries to pick a word or two when he passes them by, just to prepare himself, to know what might have happened, but he doesn't get much luck.
+
+Dean drops the newly collected herbs at home. John isn't at home and Sam is sleeping. He decides he can make some meds for Sam later, so he rushes out again.
+
+His footsteps stagger even more as he approaches the town square. For three days, his thought has been wandering around this place, and now, the closer he gets, the more scared he is.
+
+*Please.*
+
+Dean stares at the end of the main road, thinking.
+
+*Please tell me you're okay. Please tell me I'm not gonna find you bloody or... anything worse.*
+
+*Please tell me you just left.*
+
+He closes his eyes once, takes a deep breath, and walks into the town square.
+
+"No, no, no --" Dean gasps, dropping to his knees.
+
+The angel is not here. But his clothes and broken feathers are.
+
+The tan linen robe Dean saw him wear earlier is distained by blood, crumbled and paved in the center of the square. The once-elegant black tunic was torn to rags, then deliberately placed so that it forms into the shape of a human figure. As if the angel once was lying in that exact location, being torn apart.
+
+Long, black feathers that were undoubtedly once extending and stretching proudly on Castiel's wings, are now scattered on both sides of the clothes, replicating the look of the wings.
+
+Dean can hear the lingering sound of the angel's scream just by looking at the scene.
+
+He throws up right there, vomiting everything in his stomach. Tears cover his face.
+
+"Like what we did there?" A cheerful voice sounds up next to him. The man kneels down to enjoy his face. "That's my idea, after we all finished having fun."
+
+"What --" Dean looks up and sees the man's face. "Arthur."
+
+The man was among the crowd, last time he saw him.
+
+"What have you done?"
+
+"Just the usual, you know," Arthur grins lightly, almost like he's remembering a sweet memory. "We all take our turns and have our fun. Oh boy, he really is the best, you can't imagine how good it feels to fu --"
+
+Dean's fist hits the man's face, throwing him back. The ceramic jar Arthur was holding crashes to the ground, breaking apart, showing thin, sluggish white-blue light swirling inside. The light starts flying upward the moment it leaves the jar.
+
+"Oh Lord," Dean cries, reaching for the light with his bare hands. He knows immediately what that light is, even before Arthur starts talking again. The light lingers between his fingers when he touches it, reluctant to leave, but also seems too light to stay. It's falling apart, thinning into the air.
+
+"No, no, no." Dean fumbles his pocket to find his water flask, pouring all the liquid onto the ground, aiming its opening to the light.
+
+"Please," he murmurs, leading the light with his fingers.
+
+It moves slowly, but obediently. Dean makes sure every last bit of the light is filled into the flask before closing it, holding it to his chest against his heart like a dear treasure. "Lord has mercy," he whispers, not caring all the tears smearing his face.
+
+Arthur watches him with a satisfying revenging smile, standing up from the ground, pressing the side of the face that's swollen from the punch. "What's the problem with you?! Told you we'd leave you a piece."
+
+Dean is still kneeling on the ground, eyes shut in pain, holding to the flask. "Where is he?" His voice is broken.
+
+Arthur makes an impatient sound between his teeth. "You know, I was going to tell you. But now that you punched me, I don't think so. Enjoy the angel grace." He walks away coldly.
+
+"No!" Dean bursts out a yell. His chest is so tight and pained that he thinks his heart is going to explode. But he doesn't die.
+
+The small crowd of people who were gathering to watch their argue also spread split now, leaving him alone in the square.
+
+Dean drags himself closer to the clothes that belonged to Castiel.
+
+"I thought I could save at least one angel," he whispers to the robe and tunic and broken feathers. "I'm sorry I didn't insist to stay with you. I'm sorry I failed you. I'm sorry."
+
+He picks up all the scattered black feathers, collecting them inside the clothes, wrapping them into a small bundle, holding them like a cradle.
+
+That's when he replayed Arthur's words in his head and realizes, "He said he's gonna tell me where you are, means you must be still alive. Cas, I'll find you. And I'll save you. I promise."
 
 <br>
-
-#### draft notes
-
-> Dean comes back out after three days, make meds (use vial), Sam not healed but stabled
->
-> goes to the town square, Cas is gone, Dean only finds broken feathers and blood and lingering grace, people laughing talking about new angel, Dean heart hurt, use a vial to collect Cas's lost grace
->
-> Dean look for Cas, hoping it's not too late, doesn't dare asking around for fear they know they're close, notice signs of Cas's appearance and grace and cloth pieces here and there, torn trench coats etc., imagining the worst already, blame himself for not stopping Cas from entering the city or having to leave him
 
 ### (Chap 3) III. Raggedy Doll
 
@@ -506,9 +590,9 @@ the way Cas speaks, start off very formal, biblical style, slowly turning to nor
 
 <br>
 
-#### draft notes
+###### [TBA]
 
-neighbor's name: Martin
+#### draft notes
 
 Cas ends up being enslaved, torn and tortured, sexually violated, locked up, broken, distained.
 
