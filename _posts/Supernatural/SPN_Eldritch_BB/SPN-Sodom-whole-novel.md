@@ -866,11 +866,11 @@ Castiel's body lays limp in John's hand, light starts gathering in his mouth and
 
 Dean picks up the blade that the angel dropped earlier, pointing it at John. His voice broken and devastated, "STOP THIS! NOW!"
 
-John pulls the angel back from the fire slightly, eying the blade incredulously. "What are you gonna do, Dean? Killing your father for this thing?"
+John pulls the angel back from the fire slightly, eying the blade incredulously. "What are you going to do, Dean? Killing your father for this thing?"
 
-Dean lets out a bitter laugh, reciting. "*Honor your father and your mother, that your days may be long in the land that the Lord your God is giving you.* You may have no faith and don't care about the ten commandments, I still do." He turns the blade toward himself, aiming it to his heart, instead.
+Dean lets out a bitter laugh, reciting. "*Honor your father and your mother, that your days may be long in the land that the Lord your God is giving you.* You may have no faith and don't care about the ten commandments, I still do." He shifts the blade, pointing it to Cas, instead.
 
-He tells John, "No. I will not kill you, father, for I honor you, even though I hate you for doing this. But I will kill myself, if you kill this angel." He stares at John in the eyes, unafraid.
+He swallows, then tells John, "No, I will not kill you, father. I was thinking about blood for blood. The angel almost killed me, then *I* should be the one to punish him, not you." He stares at John in the eyes, waiting.
 
 John looks at him, eyes shifting between his steady gaze and his hands that hold the blade. Old blood coats its edge and hilt.
 
@@ -882,35 +882,49 @@ It's as if everyone has stopped breathing. Waiting.
 
 It's like the judgement day, and mankind is waiting for their judgement.
 
-Dean's hands hold the blade so tight that it shakes and edges forward, piercing through his thin tunic, leaning onto his bare chest against his heart. He doesn't notice it.
+Dean's eyes burn with dryness for staring too long without blink. He doesn't notice it.
 
-John pulls Castiel back, throwing him back onto the floor. "Fine," he snaps.
+John pulls Castiel back, throwing him back onto the floor before him. "Fine," he snaps. "Suit yourself. Kill him, then."
 
-The air starts flowing in the room again.
+Dean's shoulders slump. He drops the blade, throws himself over to the angel, holding his shoulders, shaking slightly.
 
-Dean's shoulders slump. He throws himself over to the angel, patting his cheeks. "Cas, Cas, you okay?"
+More burned feathers fall from his wings, piling on the ground. The angel's face is more pale than ever, blood streaming from the corner of his mouth, eyes glassy, breathing shallowly, barely but still alive.
 
-Castiel nods faintly.
+Dean cradles his body in his arms, like holding a fragile thing.
 
-The burned feathers fall from his wings, piling on the ground.
+John kicks the blade so it slides next to his hands. "What are you still waiting for? Go ahead, finish it."
 
+Dean takes a deep breath, looking up. "It would be too easy for him to just die like this. I'm not done with torturing him yet. He should feel more pain, for everything he put me through."
 
+He glances between John and Martin, focusing on John, "We should take him home, so I can continue the punishment."
+
+John and Martin exchange a look.
+
+"No," Martin protests. "He's my property!"
+
+John turns to him. "My boy has a point, it's blood debt, he should be the one to decide his fate. Besides, you don't *own* him. He came to the city, he's all of ours."
+
+Martin scowls at him, shifting between John and Dean, eyes lingering on the bare angel. "Fine," he grits out at last.
+
+John regards the enslaving set. "Mind if we take the cuffs and those things, too? It could come handy."
+
+Martin glares at him harder, answering bitterly, "Sure." He stomps out.
+
+Dean wraps Cas in his robe, and carries him home in his arms.
+
+They don't have a cellar like those rich people's houses, nor a spare room.
+
+"I'll just lock him in my room, then," Dean says, carrying Cas into his room before John can say anything.
+
+He takes the cuffs and blade from his father, then locks the door.
 
 <br>
 
-###### [TBA]
-
 #### draft notes
-
-> John comes to take Dean home, Dean doesn't want to leave Cas behind, argues blood for blood, he should be the one to decide how to punish Cas bc he's hurt by him.
->
-> John discuss/trade with neighbor, takes enslaved Cas home with them, throw him into the cellar/dungeon/spare room, give Dean knife and let him go in there alone, silently suggested he can do anything to Cas like the way everyone does, violate him then kill him, that's all okay, only need to let John know once Dean's done (John thinks that's why Dean insists to have him)
->
-> Cas actually thinks Dean is going to punish/torture/hurt/kill him, still doesn't protest and thinks he deserves it. very broken in just one week
 
 ~~John comes back find out Dean's wounded by Cas, super pissed at Cas, hurt/torture him more, almost kill him.~~
 
-Dean pleads for Cas, manages to take him home
+~~Dean pleads for Cas, manages to take him home~~
 
 Dean heartbroken, think Cas is hurt more bc of him, self-blame
 
@@ -924,7 +938,21 @@ Dean heartbroken, think Cas is hurt more bc of him, self-blame
 >
 > Dean unintentionally shows some sexual tendency/desire on Cas during kiss, e.g. frottage. Cas startled, pull away immediately, trauma violation triggered. Dean regret immediately, apologize, hurry out of the room
 
+
+
+
+
 <br>
+
+###### [TBA]
+
+#### draft notes
+
+> Cas actually thinks Dean is going to punish/torture/hurt/kill him, still doesn't protest and thinks he deserves it. very broken in just one week
+
+John gives Dean knife and let him go in there alone, silently suggested he can do anything to Cas like the way everyone does, violate him then kill him, that's all okay, only need to let John know once Dean's done (John thinks that's why Dean insists to have him)
+
+Dean heartbroken, think Cas is hurt more bc of him, self-blame
 
 ### (Chap 6) VI. The Brother and the Father
 
