@@ -10,7 +10,7 @@ origin: 2025 SPN Eldritch Big Bang
 published: false
 ---
 
-Tag: Canon Compliant, Pre-Series, Hurt/Comfort, Angst, Slow Burn, Get Together, Castiel's wings, Mass rape/non-con (not between Dean/Castiel), Dirty Words (not between Dean/Castiel), sexual abuse (not between Dean/Castiel), physical abuse (not between Dean/Castiel), Mob, Temporary Main Character Death, Torture, S06E03 inspired, S04E07 inspired, Sodom and Gomorrah, Inspired by Biblical Story, Genesis XIX, purposefully sinful description for most characters including John Winchester and occasionally Sam Winchester due to story setting, super awful worse-than-canon John Winchester, accidental dub-con, accidental groping, PTSD, Trauma, Dead Dove Warning
+Tag: Canon Compliant, Pre-Series, Hurt/Comfort, Angst, Slow Burn, Get Together, Castiel's wings, Mass rape/non-con (not between Dean/Castiel), Dirty Words (not between Dean/Castiel), sexual abuse (not between Dean/Castiel), physical abuse (not between Dean/Castiel), Mob, Temporary Main Character Death, Torture, S06E03 inspired, S04E07 inspired, Sodom and Gomorrah, Inspired by Biblical Story, Genesis XIX, purposefully sinful description for most characters including John Winchester and occasionally Sam Winchester due to story setting, super awful worse-than-canon John Winchester, accidental dub-con, accidental frottage, PTSD, Trauma, Dead Dove Warning
 
 Warning: rape/non-con, graphic depiction of violence
 
@@ -744,7 +744,7 @@ chamber has angel-proof carvings and holy oil everywhere
 
 Cas feel guilty for hurting Dean
 
-### (Chap 4) IV. Broken
+### (Chap 4) IV. Blood
 
 > neighbor calls for helpers to constrain Cas again and beat him up even worse, torture/punish him more, Cas doesn't protest like used to (bc he thinks he deserves this one), Dean protests and claims he's fine but gets ignored (heartbroken, think Cas is hurt more bc of him, self-blame)
 >
@@ -754,15 +754,165 @@ Cas feel guilty for hurting Dean
 >
 > Cas actually thinks Dean is going to punish/torture/hurt/kill him, still doesn't protest and thinks he deserves it. very broken in just one week
 
+**Warning before chapter:** Very painful, vivid, graphic depictions of violence, physical abuse. Very extreme depiction of John.
+
+It can be painful to read. Because it's very painful to write.
+
+<br>
+
+Dean starts to feel his limbs cold and numb, with all the blood loss. He decides to lie down on the floor for a bit.
+
+The ground is cold and hard, and sticky. He wonders if that's how Castiel spends the whole week.
+
+"Hey," he whispers, glancing aside to look for the angel. His voice barely louder than the sound of fire burning the oil. He feels his whole body tired, his vision blurry.
+
+Castiel is kneeling beside him, looking helpless. The blade is dropped to the ground next to him. The flame reflects in his pupils, flickering brightly and wild.
+
+It reminds him of the first time they met. Dean thinks. That sun rise, the lightening cracking the sky open. That beautiful, brilliant light coming from the angel.
+
+And now, look at them.
+
+Both trapped and bloody.
+
+Dean takes a breath, locking his eyes with the angel. Even breathing hurts, he wonders how deep the cut is. But he pushes that thought aside.
+
+"It's okay," he tells the angel. "And I'm sorry. Looks like I can't help you out now." He pulls a sad smile.
+
+Castiel looks at him so intensely. "I'm sorry, Dean," he says, voice rolling deep and miserable. "I'm so sorry. I didn't mean to..."
+
+"I know, I know." Dean rushes eagerly. It makes the pain in the stomach even worse. He grimaces. "It's not your fault."
+
+"What can I do for you?" the angel studies his face, asking. "To make you more comfortable?"
+
+Dean huffs bitterly. There is nothing called "comfortable" right now. But he indulges him, telling him, "I'm cold."
+
+Castiel reaches over him to drag the dropped robe over, covering it on Dean's body.
+
+Dean huffs another small laugh. "It's supposed to be for you, you know. Thought you could use some cover." He makes a small nod toward Castiel's bare body.
+
+Castiel shakes his head. "It is not of import," he says, tugging the robe higher to cover most of Dean's body. His fingers brush Dean's chin for a second. "Is it better?"
+
+It doesn't make much difference, but it feels nice during that blink of touch. So Dean smiles at him weakly. "Yes."
+
+The stickiness between his fingers feels thinner now, but the drowsiness is hitting him hard. Dean finds his eyelids growing heavier and heavier, closing slowly.
+
+"Dean, don't die, please." Castiel puts his hand on Dean's shoulder, tone pleading.
+
+It sounds like, *Don't leave me alone. Don't leave me with them again.* Dean thinks.
+
+He complies, struggling to open up his eyes again, running into the angel's worried face.
+
+The angel moves his hands to his wound, staring and frowning with focus, as if he's trying something really hard, he's trying to do something with his wound.
+
+"What are you doing?" Dean asks.
+
+"Healing you," Castiel answers with sad, sad eyes. "But it's not working. I think it's the sigils, it's blocking my grace. I can't even heal myself."
+
+"I'm useless." He slumps back, sitting on his heels, looking defeated.
+
+"Grace," Dean murmurs slowly, eyes widening, remembering. "The flask. In my pocket. It has some of your grace. Would it help you?"
+
+Dean tries to move his fingers to reach for the robe's pocket, but Castiel moves faster, taking it out, holding it with two hands. He stares at its inside with fascination. Thin thread light of grace starts slowly flowing out of its opening once the cap is removed.
+
+"Yes," Castiel looks at the light longingly. "Yes, it does. It can make me stronger."
+
+"Take it," Dean tells him. "It's yours, anyway."
+
+"But I don't know if it will make me strong enough to break the sigil." Castiel eyes the flask, then looking down at Dean's cut.
+
+He leans over to put the flask against Dean's mouth instead.
+
+"What's that for?!" Dean tries to keep his mouth shut before any of the light fly into him. He stares at the angel in confusion.
+
+Castiel tilts the flask even more, letting the light fly outs easier. He answers quietly, "It might not be so useful for me, but it can definitely heal you. You should take it."
+
+"Don't do this, Cas! You need it, you're hurt!" Dean protests. But even as he speaks, he can feel the bone-deep tiredness and drowsiness come back, his vision starts blurring, and his lips falling limp.
+
+"You need it more," Castiel insists, feeding the grace into him.
+
+Light flows smoothly from flask into Dean's mouth, traveling through his veins. It starts off with a warm sensation, soon it turns burning hot. Dean's eyes snap open, gasping in surprise. The heated grace moves through his vein, curing his wounded shoulder and bruised leg along the way, converging to the lower abdomen.
+
+He peels off the robe and removes his hands. The white-blue light knits against his skin like magic needles and thread. The pain is released quickly, the muscle and skin feel itching, then growing strong and tight again. He wipes the blood away with his clothes. That long, nasty gash is already gone, his skin smooth and healthy, leaving no sign of a cut except for the tear on his cloth.
+
+"Wow," Dean exclaims. "That's... that's miracle." He looks up at Cas with awe in his eyes.
+
+Castiel finally shows a small curl on the tips of his lips. "I'm glad it worked."
+
+Dean props himself up, thinking about reaching to give the angel a hug, telling him, it's not an *it* that saved him, it's *him*, when two sets of footsteps storm down the stairs.
+
+"Where is my son? Where is the filthy thing? I'll kill it." John shouts, bursting into the door.
+
+Dean startles, leaning away from the angel. "Dad!" he pulls himself together. "I'm fine! See, I'm okay!" He gets to his feet, trying to show his father where the wound was but now healed. "He saved me!"
+
+But John ignores him, stepping across the fire circle, grasping the angel by the left wing, dragging him over from the kneeling position, then kicking him on the chest.
+
+Castiel doesn't resist. John's shoe hits him hard and his body flies back, but his wing is still clenched in John's fist.
+
+Dean hears a clear crack of his wing bone.
+
+"Dad! Stop!" he cries out, throwing himself to the angel, covering him with his own body, carefully holding his shoulders.
+
+John shoves him aside. "This thing could have killed you! What kind of father would I be if I just let it walk away free?"
+
+He drags the angel closer again, choking his throat in one hand, hauling him toward the burning fire circle. The tip of his feathers catch fire first, curled and charred in an instant. The fire climbs to his skin next. Anywhere the flame touches, his skin burns and recoils, starting to leak the white-blue light like his body is nothing more than a thin layer of skin that contains the light. High-pitched sound starts echoing in the claustrophobic space.
+
+"Try the holy oil, you son of a bitch!" John growls at the angel.
+
+Castiel's body lays limp in John's hand, light starts gathering in his mouth and eyes. He struggles to lift his eyes to search for Dean.
+
+"I'm sorry, Dean, for hurting you," he chokes, can't forming a complete sentence through the tightened hand on his throat. "I deserve this."
+
+"Goodbye, Dean," he says, then closes his eyes and waits.
+
+Dean picks up the blade that the angel dropped earlier, pointing it at John. His voice broken and devastated, "STOP THIS! NOW!"
+
+John pulls the angel back from the fire slightly, eying the blade incredulously. "What are you gonna do, Dean? Killing your father for this thing?"
+
+Dean lets out a bitter laugh, reciting. "*Honor your father and your mother, that your days may be long in the land that the Lord your God is giving you.* You may have no faith and don't care about the ten commandments, I still do." He turns the blade toward himself, aiming it to his heart, instead.
+
+He tells John, "No. I will not kill you, father, for I honor you, even though I hate you for doing this. But I will kill myself, if you kill this angel." He stares at John in the eyes, unafraid.
+
+John looks at him, eyes shifting between his steady gaze and his hands that hold the blade. Old blood coats its edge and hilt.
+
+Time is stretched long and agonizingly slow.
+
+Only the sound of the burning flame cracking around them.
+
+It's as if everyone has stopped breathing. Waiting.
+
+It's like the judgement day, and mankind is waiting for their judgement.
+
+Dean's hands hold the blade so tight that it shakes and edges forward, piercing through his thin tunic, leaning onto his bare chest against his heart. He doesn't notice it.
+
+John pulls Castiel back, throwing him back onto the floor. "Fine," he snaps.
+
+The air starts flowing in the room again.
+
+Dean's shoulders slump. He throws himself over to the angel, patting his cheeks. "Cas, Cas, you okay?"
+
+Castiel nods faintly.
+
+The burned feathers fall from his wings, piling on the ground.
+
+
+
 <br>
 
 ###### [TBA]
 
 #### draft notes
 
-> 
+> John comes to take Dean home, Dean doesn't want to leave Cas behind, argues blood for blood, he should be the one to decide how to punish Cas bc he's hurt by him.
+>
+> John discuss/trade with neighbor, takes enslaved Cas home with them, throw him into the cellar/dungeon/spare room, give Dean knife and let him go in there alone, silently suggested he can do anything to Cas like the way everyone does, violate him then kill him, that's all okay, only need to let John know once Dean's done (John thinks that's why Dean insists to have him)
+>
+> Cas actually thinks Dean is going to punish/torture/hurt/kill him, still doesn't protest and thinks he deserves it. very broken in just one week
 
-John comes back find out Dean's wounded by Cas, super pissed at Cas, hurt/torture him more, almost kill him. Dean pleads for Cas, manages to take him home
+~~John comes back find out Dean's wounded by Cas, super pissed at Cas, hurt/torture him more, almost kill him.~~
+
+Dean pleads for Cas, manages to take him home
+
+Dean heartbroken, think Cas is hurt more bc of him, self-blame
 
 ### (Chap 5) V. The Sins
 
