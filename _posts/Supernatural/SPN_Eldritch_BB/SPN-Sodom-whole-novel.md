@@ -10,7 +10,7 @@ origin: 2025 SPN Eldritch Big Bang
 published: false
 ---
 
-Tag: Canon Compliant, Pre-Series, Hurt/Comfort, Angst, Slow Burn, Get Together, Castiel's wings, Non-explicit mass rape/non-con (not between Dean/Castiel), Dirty Words, Humiliation, Mob, Temporary Main Character Death, Torture, S06E03 inspired, S04E07 inspired, Sodom and Gomorrah, Inspired by Biblical Story, Genesis XIX, purposefully sinful description for most characters including John Winchester and occasionally Sam Winchester due to story setting, super awful worse-than-canon John Winchester, Dead Dove Warning, Complicated Accidental Dub-Con, PTSD, Trauma
+Tag: Canon Compliant, Pre-Series, Hurt/Comfort, Angst, Slow Burn, Get Together, Castiel's wings, Mass rape/non-con (not between Dean/Castiel), Dirty Words (not between Dean/Castiel), sexual abuse (not between Dean/Castiel), physical abuse (not between Dean/Castiel), Mob, Temporary Main Character Death, Torture, S06E03 inspired, S04E07 inspired, Sodom and Gomorrah, Inspired by Biblical Story, Genesis XIX, purposefully sinful description for most characters including John Winchester and occasionally Sam Winchester due to story setting, super awful worse-than-canon John Winchester, accidental dub-con, accidental groping, PTSD, Trauma, Dead Dove Warning
 
 Warning: rape/non-con, graphic depiction of violence
 
@@ -574,7 +574,7 @@ Dean drags himself closer to the clothes that belonged to Castiel.
 
 He picks up all the scattered black feathers, collecting them inside the clothes, wrapping them into a small bundle, holding them like a cradle.
 
-That's when he replayed Arthur's words in his head and realizes, "He said he's gonna tell me where you are, means you must be still alive. Cas, I'll find you. And I'll save you. I promise."
+That's when he replays Arthur's words in his head and realizes, "He said he's gonna tell me where you are, which means you must be still alive. Castiel, I'll find you. And I'll save you. I promise."
 
 <br>
 
@@ -588,17 +588,163 @@ That's when he replayed Arthur's words in his head and realizes, "He said he's g
 >
 > Cas hurt Dean accidentally. Dean doesn't complain, doesn't want to be found, set Cas free, but they're still found by the neighbor
 
-<br>
+Dean searches the city.
 
-###### [TBA]
+For three days, Dean searches every corner of the city that he can think of. But it's a big city. And there are so many corners he can't reach -- like people's house. His search comes futile, his exhausted body even more tired.
+
+More than once, a part of his brain wanders out, asking why he's even doing this. He should be going back home, taking care of his brother, serving his father, acting normal, having a life like the angel has never come. He doesn't even really know the angel, except for his name and that very brief talk in the first day. The angel might not even remember him. But then he remembers the first sight of the angel, that beautiful light radiating from him that looks like coming directly from the Heaven. He remembers those blue eyes boring into his, as if seeing through his soul, seeing him in a way no one has ever done. He wonders what the angel sees in him; he wonders what the angel think of him, of the city; he wonders if it's the first time the angel has ever come to Earth; he wonders so many things and realizes he knows so little about the angel, he just wants to talk to him again. He knows he has to save him, even just to see those eyes again.
+
+So he continues trying. Dean tries so, so hard, dragging himself from one house to another, looking for a sign of an angel, waiting for a miracle.
+
+The hope is running thin, but he can't stop. Every time he closes his eyes, he sees the pile of clothes with blood in it, his brain paints a broken angel with torn wings in the middle, tortured and violated by the mob. He dreams about it, too, every time, if he lets himself fall asleep briefly. He dreams about the angel's scream.
+
+On the fourth day after he came back from the mountains, Dean startles awake from another one of those dreams. He had to watch those men of the city tear open the angel's clothes, pinning him down, distaining him. Dean yelled and cried, desperately trying to reach out, to throw those people out, to cover the angel's body, to help him, to save him. But in his dream, he was just like a ghost, no one could hear him, no one he could touch. So he had to stand there in his dream, just watching it happen, watching the angel scream with rage and pain, watching him struggle but his hands were locked together by the cuffs, his legs getting roughly opened apart. Dean feels his heart bleeding worse than the wounds on the angel's body, squeezing so hard he can't breathe. That's when he startles awake, finding himself falling asleep on the dining room table. He's panting heavily, gulping for air.
+
+Dean steps out of the house, breathing deep, trying to calm his frantically beating heart.
+
+The cool air of the deep night helps with the burning pain in his chest.
+
+*It's just a dream. It's just a dream.* He tries to sooth his own restless mind. But even he knows it's a too thin hope.
+
+He looks up at the night sky, staring at the blinking stars, tired and desperate. *Where are you, angel? How can I save you?*
+
+That's when he notices someone move at the front of his neighbor's house. Someone talking.
+
+It's odd hour to have visitors come and go.
+
+Dean sneaks over to stay in the shadow between the houses.
+
+Arthur walks out of Martin's place, tugging and smoothening his cloth. His belt is untied, hanging loosely around his waist. He leaves a handful of coins in Martin's palm, saying, "You're making it a damn good business, Martin. How much are you earning these days, with that little feathered whore chained down there?"
+
+Martin chuckles slightly. "People are still lining up for him, can you believe that? But I get it, everyone loves a little relax, and he's the best one ever, am I right? But you know what's the best part for me? I get to use him whenever I want." He laughs shamelessly.
+
+"Let me guess, you'll take him all for yourself for the whole night, once I'm gone?" Arthur is about outside to the road now. Dean hides deeper into the shadow, teeth gritting so tight that they might break.
+
+"Nah, think I had enough of him for a week, maybe I'll go to Leah's. Her husband is at Jane's tonight."
+
+"Well, have a good night. I'll come by when I feel like again. Which, you know, could just be tomorrow."
+
+"Any time, as long as he's not occupied." Martin shakes his hand and moves back into his house.
+
+"Or maybe we can make that work, too." Arthur finishes tying his belt, leaning a hand on the doorframe.
+
+"True." Martin nods, then closes his door.
+
+Dean waits until Arthur's contented whistle disappear at the turn of the block before moving out of the hiding place. He tastes blood on his lower lip for biting it too hard. His knuckles are still white from clenching too tight, his hands trembling in rage.
+
+If he's not still believing in the Lord and His commandments, and if "You shall not kill" is not one of them, he really, really wants to kill every single one of them who has hurt the angel.
+
+But at least, now he knows Castiel is still alive, and right in the cellar of Martin's house, he can't wait any longer for Martin to leave the place to go to him.
+
+The light on the second floor is still on. But the first floor sounds quiet enough, and Dean finds a side window with a crack open. He pushes it open and climbs in. The stairs leading downward is right next to it.
+
+Dean finds the right door easily -- it's the only room with a lock, hanging heavily on the handle.
+
+The key must be with Martin.
+
+"Dammit," Dean curses, fumbling it with bare hands but the lock doesn't give way. He think he can hear vague rustling sound from across the door. The sound scratches his heart hard, squeezing it like an invisible hand, making his breath fast and his fingers clumsy.
+
+He moves back upstairs, searching for the keys.
+
+Martin is asleep in his luxurious bedroom on the second floor, a dim lamp standing near the window. Dean sneaks in and finds the keys on top of the dresser. He holds his breath and takes them. Martin isn't awaken when he leaves the room.
+
+It takes him three tries to put the correct key into the lock and turns. When it finally opens, Dean feels the rush of relief is almost dizzying. But right next second, his breath is caught again, his blood dropping to freeze.
+
+The room smells of blood and come.
+
+He can barely tell the shape lying on the floor is an angel, more like a raggedy doll. Castiel lies bare on the floor in the middle of the chamber, his hands cuffed to the ceiling, rising unnaturally above his body. Around him, the floor is painted with a large sigil, decorated with pentagons and letters and symbols beyond Dean's knowledge. The angel's wings are unnaturally twisted from the joints, lying pitifully under his back, fallen feathers scattered everywhere.
+
+His pale skin is covered in colors, dark bruises and fresh cuts mixed with old scabs, distaining him with red and black and white. His legs spread tiredly apart, blood dripping along his thighs.
+
+Dean gasps in horror when he takes it all in.
+
+"Oh God," he steps into the chamber.
+
+Castiel stirs at the sound, opening his eyes, following tiredly as Dean moves closer. His lips quiver, but no sound comes out.
+
+Dean lowers his body, edging toward him slowly. "Hey," he breathes, his throat choked by a lump. "Castiel. It's me."
+
+He looks the angel in the eyes, but there is no sign of recognition, of joy or relief. Just the same wounded look, same tiredness and glassiness. He wonders if the angel forgets him in a week's time -- a week, God, it feels like forever.
+
+He should clean him up; he should cover him with clothes; he should uncuff his hands; he should take him out of there. Dean struggles with what to do first.
+
+He undresses his robe.
+
+Castiel flinches violently, cowering back as far as the cuffs allow. His lips move again, and the first syllable tumbling out, broken and scared, is, "No."
+
+Guarded alert and panic flashes through his face, rage and heartbroken overtaking it a second later.
+
+"No," he says, croaked and clipped.
+
+Then again, "No."
+
+Dean grasps the edge of his robe, stopping halfway of wanting to cover it over the angel, letting his tears gather quickly and fall from the corners of his eyes.
+
+"I'm not hurting you, Castiel. I'm not one of them," he whispers, pained. "I'm sorry. I'm sorry for everything."
+
+The angel flinches again when he hears his name. Guarded look doesn't leave him -- Dean is not sure if he even understands his words.
+
+He shuts his eyes once, squeezing the tears out, leaving his robe on the floor next to the angel.
+
+"I'll... I'll just leave it here first, then," Dean whispers, standing up to reach for the cuffs, fumbling the chain of keys. Castiel struggles again, wringing his hand against the cuffs, trying to avoid him.
+
+"Castiel -- Cas, please," Dean has to stop his move, looking into the angel's eyes, begging quietly. "I'm not hurting you, I'm getting you out of here. I'm Dean, remember?" He reaches out slowly, trying to close the distance between the keys in his hand and the lock on the cuffs.
+
+He's answered by another round of violent shaking-head and dodging and struggle.
+
+The struggle makes the chains connected to the cuffs clink and clank. Dean throws a worried look at the door's direction, wondering if it's too loud to wake up Martin. The cellar door is still closed behind them.
+
+"Please," he murmurs again, turning back to Castiel, finding the angel's eyes shift between him and the door.
+
+Dean tries hard to pull up a small, hopefully soothing smile. "That's right, the door, out, free. I'm getting you out of here. I just need you to work with me. Cas, please."
+
+The angel's eyes focus back onto his face. Dean feels the muscle on his face twitch in stress, his eyes want nothing more than to cry, his lips quiver in pain, but he forces the smile to stay there, praying silently, *Please, Cas, work with me here. I'm getting you out.*
+
+Castiel's struggle quiets down.
+
+Dean lets out a relieved sigh, unlocking his cuffs.
+
+The angel takes his hands back in a flash, holding his wrists close to his chest. He turns them slowly, as if it hurts to move. Dark bruises and blood stains cover where the cuffs once were.
+
+Dean's forced smile completely drops.
+
+"I know I heard something, thought I got a thief." Martin bursts into the door. Dean turns sharply, finding him holding a long and sharp blade in his hand, glinting with sharp silvery reflection, covered in red on the tip.
+
+Dean takes a step back in reflection, tripped by his own robe on the floor. "I'm not --" He struggles with thoughts, can't come up with a good reason.
+
+"Not a thief?" Martin takes a step forward, standing right on the edge outside the ring of sigils. "Then what are you doing here? Taking a free feast to have fun with him? He's mine now, you know. You have to pay."
+
+Dean throws a fist onto Martin's face, knocking him down. The blade in the man's hand tumbles to the floor.
+
+Dean clutches his collar, giving him a second punch. "He's an angel!" he yells, tears falling again out of control. "He's not anyone's! And he's certainly not yours!"
+
+When he's about to land a third hit, he gets pushed aside. None of them notice when Castiel gets hold of the blade. He charges forward fiercely, bumping onto Martin, swinging the blade at him to attack.
+
+But Martin catches Castiel's wrist and twists it back right where the previous bruise and cut is, before the blade can reach his chest. The angel yells in pain and loses control of the blade, snatching back to get free from the grasp. The blade draws a curve as his arm waves back, swiping across Dean's flank, slicing a long, deep cut across his abdomen.
+
+Dean gasps in pain, falling to the floor, covering the cut with both hands. Blood gushes out from between his fingers.
+
+That seems to put all the motion in the room in a pause.
+
+"Dean!" Castiel cries out, startled, turning to him.
+
+"This is madness!" Martin grumbles, fumbles in his pocket. He casts a match and throws it at the edge of the sigil on the floor. A ring of fire encircles around Dean and Castiel as they're distracted.
+
+"What are you doing?! Let me out!" Dean snaps. Blood is still pouring out fast.
+
+"I'm calling your father, young man." Martin retreats to the door, his face twitching. "What do you think he will do to this wild angel that kills you?"
+
+<br>
 
 #### draft notes
 
-Cas ends up being enslaved, torn and tortured, sexually violated, locked up, broken, distained.
+Cas ends up being enslaved, torn and tortured, sexually violated, locked up, broken, distained, skin burned, chest carved with humiliation
+
+chamber has angel-proof carvings and holy oil everywhere
 
 Cas feel guilty for hurting Dean
 
-### (Chap 4) IV. Under the Shelter
+### (Chap 4) IV. Broken
 
 > neighbor calls for helpers to constrain Cas again and beat him up even worse, torture/punish him more, Cas doesn't protest like used to (bc he thinks he deserves this one), Dean protests and claims he's fine but gets ignored (heartbroken, think Cas is hurt more bc of him, self-blame)
 >
@@ -610,7 +756,11 @@ Cas feel guilty for hurting Dean
 
 <br>
 
+###### [TBA]
+
 #### draft notes
+
+> 
 
 John comes back find out Dean's wounded by Cas, super pissed at Cas, hurt/torture him more, almost kill him. Dean pleads for Cas, manages to take him home
 
