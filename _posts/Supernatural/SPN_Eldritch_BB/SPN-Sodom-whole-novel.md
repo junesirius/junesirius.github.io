@@ -210,6 +210,8 @@ And now, if you're sure to proceed, enjoy the darkness.
 
 <br>
 
+NOTE: chap 5 re-copy/paste to AO3 (modified since draft)
+
 when posting, before each chapter, quote something from Bible
 
 ~~Including/mention "Genesis XIX" in summary~~
@@ -1096,19 +1098,19 @@ Cas's hand moves behind Dean's ear, pressing their lips close.
 
 A warm flow leaps up from his spine, rising all the way to his scalp, making his whole body shiver.
 
-Cas's lips are dry and cracked, but softer than they look. Automatically, Dean kisses back, wetting the angel's lips with his lips and tongue, licking him with a dip of wetness. Cas opens his mouth slightly. Dean's tongue slides in.
+Cas's lips are dry and cracked, but softer than they look. Automatically, Dean kisses back, caressing the angel's lips with his lips and tongue, licking him with a dip of wetness. Cas opens his mouth slightly. Dean's tongue slides in.
 
 Even Dean can feel that open channel of energy flow now. There is electricity shaking his heart, sending shivers to his brain, his lips, all over his body.
 
-He sits closer, grasping Cas's hair behind his ears, pulling their bodies together. The angel's bare chest presses against his, with only his thin tunic standing in between. Dean moves his hips unconsciously, melting in the overwhelming sensation, edging closely, rubbing against his arousal, looking for friction.
+He sits closer, grasping Cas's hair behind his ears, pulling their bodies together. The angel's bare chest presses against his, with only his thin tunic standing in between. Dean moves his hips unconsciously, melting in the overwhelming sensation, edging closely. He spreads his legs wider, automatically rubbing his arousal against the clothes, looking for friction.
 
 Cas makes a startled sound at that, gasping loudly for air, pushing his chest hard, pulling away with wild, panicked eyes. His body is shivering involuntarily.
 
 Dean freezes at the sudden change, opening his eyes in confusion.
 
-The angel's eyes land on his bulge under the tunic, dragging the throw blanket to cover his body. "No, not you too," he gasps, putting more distance between them on the bed.
+The angel's eyes land on his bulge under the tunic, dragging the throw blanket to cover his body. "No, not you too," he gasps, putting more distance between them on the bed. Rage and humiliation flash by his eyes, followed closely by fear.
 
-*Oh, God.* Dean remembers the way Cas lies helplessly in that cellar, naked, with his hands cuffed to the wall. The room smelt of blood and come. He remembers decidedly not to think of the white stains on his body when he was cleaning him up. He remembers the way those two ugly humans talked about him outside the door, when they just finished violating him.
+*Oh, God.* Dean remembers the way Cas lies helplessly in that cellar, naked, with his hands cuffed to the wall. The room smelt of blood and come. He remembers decidedly not to think of the dried white stains on his body when he was cleaning him up. He remembers the way those two people, Martin and Arthur, talked about him outside the door, when they just finished violating him.
 
 Cas is looking at him like he's one of those people.
 
@@ -1120,11 +1122,11 @@ Dean stumbles off the bed, stepping back until his back is pressed to the farthe
 
 "I --"
 
-"Get out," the angel snaps, clenching the blanket desperately, as if hoping this can stop his body from shaking. Dean wants nothing more than to soothe his shoulder, pat his back, hold him in his arms in a hug, but he doesn't dare to do any of that. He doesn't think he's allowed anymore.
+"Get out," the angel snaps, clenching the blanket desperately, as if hoping this can stop his body from shaking. Dean wants nothing more than to soothe his shoulder, pat his back, hold him in his arms in a hug, tell him he's safe, but he doesn't dare to do any of that. He doesn't think he's allowed anymore.
 
 "Please," Castiel adds, slightly softer. His eyes are shut tight, refusing to look at him again. His face is in pain, as if all that has happened to him in the past days is flashing back before his eyes.
 
-Dean never hates himself more than in this moment.
+Dean never resents himself more than in this moment.
 
 He flees out of the room.
 
@@ -1150,9 +1152,201 @@ Two wounded little creatures in the city of sins holding onto each other.
 >
 > Dean doesn't interact much with Cas after that hurried leave, avoid him, afraid getting things worse, except for continue providing food/water/bandage/vial with his grace, giving Cas space, hoping him recover by himself. sometimes secretly observe Cas from entrance, want to talk but doesn't know how to, watch Cas facing small window watching sky, think Cas doesn't know he's observing him. Cas actually notices
 
+The door to his room feels like a mountain to tall to climb over now, or a gate leading to a complete unknown realm. It scares him more than it reasonably should.
 
+Dean nails his feet to the floor, stopping himself from trying to move closer to that door, to open it, to walk in.
 
+He reminds himself of the angel's eyes when he last left. It stops any thought of going back in.
 
+He stops himself from even glancing in that direction, not thinking about the angel.
+
+*When the angel recovers well enough, he'll just leave.* He thinks.
+
+He wonders how long it would take, for him to gather enough courage to open that door again and find the room empty. His room has a small window, facing the street, covered by the shades. Cas can leave from there, quiet enough to not any of them know.
+
+Then he realizes he's thinking about the angel again.
+
+He pins his fingernails into his palm, hissing in the pain. It stops that train of thoughts quite effectively. *Cas must hate him just like he hates all those other men in the city, anyway. At the end of the day, he proved himself to be just like any other man of Sodom.*
+
+Dean feels his chest tight and pained again, his blood running cold, just from those thoughts, those realizations. But he lets them wind round and round in his mind, to remind himself what he has done, what he has become. Not as if he can forget.
+
+He still works the chores at the house, prepares meals for his father and his brothers, collects herbs for his brother's medicines, helps in the town shops when they can use extra hands and pay with bread. He eats, he walks, he sleeps, but he stops living.
+
+At dinner, he chews the bread mechanically, swallowing without tasting it. His father and his brother are talking, but he's not listening. But he looks up when their conversation pauses, and he realizes their eyes are on him.
+
+John's eyes are searching his face, and Sam's attention is back to the food.
+
+"You hear what I said, Dean?" John asks with narrowed eyes.
+
+"Sorry?" Dean murmurs, blinking blankly.
+
+"Something on your mind?"
+
+"No, Sir. Just tired," Dean answers automatically.
+
+John tilts his head toward Dean's closed room. "You still got that angel in there?"
+
+Dean's eyes flash toward the tight door, putting down the bread slowly. "Yes." *Maybe.* He thinks, but he knows it won't satisfy his father. He'd rather not answer more questions.
+
+"Why haven't you killed him yet?" John's eyes are sharp like eagles, hovering around his face like searching for preys.
+
+"I'm still torturing him." Dean makes an effort to swallow the food, answering, prepared. He forces his eyes to lock with John's, so that his father wouldn't get suspicious. "He has to pay. It's more punishment than just the death."
+
+"Are you trying different ways to torture him? Learning about those sigils that can cause them pain?" John looks at him, expectantly.
+
+"Yes," Dean answers, reminding himself to blink, to act naturally. He thinks he's getting better at lying, and it gives his stomach a slump. But it's better than getting good at torturing angels. He wonders if that's why lying isn't on the Ten Commandments.
+
+"Good," John curls his lips slightly, approving. "Those are useful skills. You are finally becoming one of us. You should teach Sam those knowledge, too, and practices on the angel you got, now that we have one for free."
+
+Dean gives his father a faint smile and a small nod, stuffing his mouth with bread again so that he doesn't have to keep talking.
+
+"I know you were lying," Sam whispers to him when it's only the two of them left. John said he'd be out for a few hours once the dinner was over. He didn't say where to or what he'd be doing. Dean didn't ask.
+
+Dean pretends he's too focused on watching the jars and pots to hear him. Sam leans on the wall next to him, watching him from the side.
+
+Dean can't keep pretending he doesn't see his brother, but he waits for another minute to pass before answering. "Yeah?"
+
+Sam has a knowing look on his face. "I'm a patient, doesn't mean I'm an idiot. You might fool dad, but you're not fooling everyone in the room. I know you."
+
+He's clever kid. And they spend more time with each other than either of them with their father. Of course he knows.
+
+Dean cleans the last of the jugs that were actually clean to start with, puts down on the counter, and turns to Sam. "What do you think you know?" he asks, almost like a challenge.
+
+"That you're not torturing the angel, or have any plan to kill him," Sam says confidently.
+
+"Is that so?" Dean turns to give the dining table a wipe, picking up the crumbs.
+
+Sam follows him, not letting him get out of the sight. "You left the angel in your room, then you barely get back to your room. You occupy yourself with all the works, and you sleep on the floor everyday," he points out acutely.
+
+The kid is observant and clever. Dean almost feels proud of him, if he didn't use it to keep track of him.
+
+"Are you gonna tell dad?" Dean asks him, gripping the rag in his head a little too tight as he wipes the table.
+
+"No," Sam tells him, voice quiet. "But why don't you? Thought you tried years to persuade everyone to be kind with each other, with angels."
+
+Dean lets out a short huff. "And see what it does -- Jack Squat. You're probably the only one ever remember I said anything."
+
+"Well, I don't have many other people telling me things," Sam answers plainly. That's the fact, and the fact still makes them a little wordless. They fall quiet for a moment.
+
+Dean finds out he runs out of excuses to walk around and distract himself, so he turns to his brother. "Why aren't you resting yet? You're exhausting yourself off."
+
+Sam is biting his tongue, hesitating over something.
+
+Dean narrows his eyes in question. "What?"
+
+"Can I meet him? The angel?" Sam glances at his room's door. Dean's eyes follow.
+
+"No," Dean answers automatically, before his reasonable mind could come up with a good enough reason.
+
+"Why?"
+
+Dean rubs the back of his neck. "He's... he's still hurt from before," he frowns, thinking hard. "Like you, I think he's still too weak to see anyone."
+
+Sam reads his face carefully, seems to interpret his frown to complete different meaning. "If you're worried I'll hurt him, don't be. I just want to talk. I've never seen an angel before."
+
+Dean pulls up a faint smile, "Yeah, no, more like the other way round. I'd be more worried he might hurt you. Accidentally, I mean."
+
+"I thought you said they're good. All these times when you try to tell people to not hurt them, you said they should be saved." Sam frowns slightly, confused.
+
+"Of course they are, yes, they're good. But... " he bites his tongue, remembering the fierce look in the angel's eyes before he grabbed the blade and lunged into Martin. If it wasn't him on the way, if he wasn't so wounded and weak, that blade would definitely cut through where it was aiming -- not that he blames Cas for it, hell, he wanted to do it for him if he's allowed. Then he remembers the startled flinch when Dean first walked back into his room, finding the angel awake; the shiver and shake, when he accidentally... Dean runs a hand over his face. "He's not ready, alright? Just give some time, for both of you. You need to rest and get stronger, too."
+
+"I'm feeling good!" Sam pouts, curving his arms, trying to show his thin muscles on the bicep. "See? I *am* strong."
+
+Dean chuckles slightly, patting his arms. "Okay, okay, I get your point. I'll talk to him some time, alright? If both of you are ready, I'll introduce you guys to meet. Happy?"
+
+"Thank you," Sam nods, genuinely pleased.
+
+Dean finds himself in a better mood than any time in the past week. He's even humming as he skims through some books he borrowed from the shop.
+
+He sees to it that his brother gets to the bed early and rests, goes back to doze off on the lazy chair near the dining table.
+
+Dean is woken by a violent fit of coughing.
+
+Sam's whole body is shaking as he coughs. Dean places a clay pot next to his bed, holding his shoulders, patting his back slowly.
+
+The cough shortly turns into vomiting. The liquid is blended with blood.
+
+It looks like he can't breathe, and he can't keep anything down in his stomach.
+
+It looks like he's dying.
+
+Dean's heart is squeezed so tight that he can't breathe, as well. But he makes sure his hands are steady when he holds his brother, and thinks silently and desperately, *Please, Lord has mercy. Please, save him, spare him of the pain and sickness. He's just a kid. He's my brother. I don't know what to do without him.*
+
+He doesn't know how long it has passed, but finally, Sam quiets down. Dean doesn't know if it's the wave of the illness passed or his prayer has been answered.
+
+Sam breathes heavily through his mouth, leaning back at the headboard, panting. Sweat covers his forehead.
+
+Dean wipes his mouth and moves the pot away. He brings a bowl of water to him for his brother to rinse and drink.
+
+"Better?" he studies Sam's face. The kid is almost seventeen now, but he looks too thin and small for his age. His jaw has a sharp curve, as if he's been starving all this time. Dean sighs silently. He already tried his best, feeding his brother with everything he can manage.
+
+Sam drinks some more water before putting the bowl down. Dean has to help hold the bowl for him so that his shaky hands wouldn't drop the thing. The kid's fingers are weak and cold.
+
+"It's never been this bad," Sam murmurs quietly, his voice rough.
+
+"I'll see if I can get you some soup tomorrow," Dean tells him, frowning deep. He doesn't get much sleep for the rest of the night, waking up every few moments to listen to his brother's breathing.
+
+Their father doesn't come back until the next morning. Dean has already cleaned the blood stained pot.
+
+The soup has little help, except for being delicious.
+
+Sam coughs blood again, this time, during the dinner.
+
+John watches with a frown as Dean holds the same pot, stroking his brother's back up and down until it passes again.
+
+"Didn't you say the angel's grace helped you heal?" John says suddenly, watching Dean busy around the house.
+
+Dean's heart sinks, already seeing where this conversation would go. He does not answer.
+
+John answers it for himself. "Martin said one moment that cut was so deep you were dying, the next, you got some angel grace in you and all the cuts were gone. Why don't you get some more of those stuff from the angel we got, feed Sammy some, see if it helps?"
+
+Dean clenches the rag hard in his hand, knuckling against the kitchen counter, standing with his back to his father, not answering. He should see this coming.
+
+John doesn't like his silence, walking up to him, pulling his shoulder to turn him around. "You heard me, boy?"
+
+"Yes," Dean has to say. "I hear you."
+
+"So you're going to do that, right? It should be pretty easy, I saw Arthur did that once before. Just cut his throat and get the grace into a jar, that might be the solution for your brother's illness." John stares him down.
+
+Dean closes his eyes shut, his breath caught in his throat. Now he knows where that long cut on Cas's throat comes from.
+
+He doesn't answer.
+
+But that's already enough defiance in his father's eyes. John shakes his shoulder, making him have to open his eyes again.
+
+Dean runs into a pair of glaring eyes.
+
+"What? You value that thing more than your own brother?" John snaps.
+
+Tears start gathering in his eyes.
+
+"Of course I want Sammy healed," he says in a hoarse voice. So pained that each syllable a cut on his throat.
+
+His father is pleased. John's hand leaves his shoulder. "Good," he says, glancing at the locked door, then looking back at him. "Do it then. We'll see if Sammy gets better tomorrow."
+
+He leaves the house for the night again.
+
+Dean sits down slowly against the wall outside his room, burying his face between his hands, staring at the floor between his knees. He presses his eyes sockets with the heels of his palms, so he can stop more tears from coming down.
+
+He can't do it to the angel. But he can't let his brother suffer and die, too.
+
+*God, please,* he whispers to the air, then propping his head skyward, *What should I do? Help me save both of them. Please. Why do I have to choose between them?*
+
+The God he believes does answer. Sam does.
+
+"You don't have to do it," Sam tells him from his lying position. "Tomorrow we'll just tell dad it doesn't work, we'll have to figure something else out. Or you know, just accept it." His tone sounds more mature than ever, shaking slightly from the rough throat, but steady from the meaning. "I'm okay with it."
+
+Dean lets out a whimper sound. "I'm not," he answers.
+
+"Mom would say it's all just part of the Lord's plan, right?" Sam tries to soothe him.
+
+For the first time, Dean thinks bitterly, *Screw the plan. I just want my brother alive.*
+
+"I would do anything to save you, you know I would." Dean tells him slowly. "So Lord forgive me."
+
+He gets up, and opens the door to his room.
+
+This is the second time he resents his soul.
 
 <br>
 
@@ -1160,11 +1354,7 @@ Two wounded little creatures in the city of sins holding onto each other.
 
 #### draft notes
 
-> Dean has to find excuses everyday to explain to John why he's not killing Cas yet, lie that he's torturing Cas to let him pay so John doesn't get suspicious, John proud he's getting better at torturing. Sam knows he's lying, secretly ask why Dean doesn't tell John truth but Dean too resigned to confront John.
->
-> Sam wants to meet Cas, Dean doesn't think Cas's ready/well enough, afraid he'd be triggered by stranger and start attacking again.
->
-> Sam still weak from some sickness, not fully recovered. John suggests Dean taking Cas's grace to feed Sam to see if it can help, Dean doesn't want, John: "You value that thing more than your own brother?" Dean hates it puts him in choice. avoid Cas more. (Sam talks to him some, suggest support him either way, Sam attitude neutral indifferent to angels)
+> Dean hates it puts him in choice. avoid Cas more. (Sam talks to him some, suggest support him either way, Sam attitude neutral indifferent to angels)
 >
 > Dean doesn't interact much with Cas after that hurried leave, avoid him, afraid getting things worse, except for continue providing food/water, giving Cas space, hoping him recover by himself. sometimes secretly observe Cas from entrance, want to talk but doesn't know how to, watch Cas facing small window watching sky, think Cas doesn't know he's observing him. Cas actually notices
 
