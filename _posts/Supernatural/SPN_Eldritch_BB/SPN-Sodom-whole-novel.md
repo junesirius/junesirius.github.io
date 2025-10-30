@@ -10,7 +10,7 @@ origin: 2025 SPN Eldritch Big Bang
 published: false
 ---
 
-Tag: Canon Compliant, Pre-Series, Hurt/Comfort, Angst, Slow Burn, Get Together, Castiel's wings, Mass rape/non-con (not between Dean/Castiel), Dirty Words (not between Dean/Castiel), sexual abuse (not between Dean/Castiel), physical abuse (not between Dean/Castiel), Mob, Temporary Main Character Death, Torture, S06E03 inspired, S04E07 inspired, Sodom and Gomorrah, Inspired by Biblical Story, Genesis XIX, purposefully sinful description of most characters including John Winchester and occasionally Sam Winchester due to story setting, super awful abusive John Winchester, accidental dub-con, accidental frottage, PTSD, Trauma, Dead Dove Warning
+Tag: Canon Compliant, Pre-Series, Hurt/Comfort, Angst, Slow Burn, Get Together, Castiel's wings, Mass rape/non-con (not between Dean/Castiel), Dirty Words (not between Dean/Castiel), sexual abuse (not between Dean/Castiel), physical abuse (not between Dean/Castiel), Mob, Temporary Main Character Death, Torture, S06E03 inspired, S04E07 inspired, Sodom and Gomorrah, Inspired by Biblical Story, Genesis XIX, purposefully sinful description of most characters including John Winchester and occasionally Sam Winchester due to story setting, super awful abusive John Winchester, accidental dub-con, accidental frottage, PTSD, Trauma, Suicidal Tendency, Dead Dove Warning
 
 Warning: rape/non-con, graphic depiction of violence
 
@@ -210,7 +210,7 @@ And now, if you're sure to proceed, enjoy the darkness.
 
 <br>
 
-NOTE: chap 5 re-copy/paste to AO3 (modified since draft); chap 4 title
+NOTE: chap 5 re-copy/paste to AO3 (modified since draft); chap 4 title; tag: suicidal tendency
 
 when posting, before each chapter, quote something from Bible
 
@@ -1648,7 +1648,7 @@ Cas's lips curl up a small degree at his words. His eyes refocus on Dean's face,
 
 The flashing light explodes.
 
-When it dies down, all that remains before their eyes, is a lifeless body with two burned wings behind its back. The charred marks scorched into the headboard and the wall behind them.
+When it dies down, all that remains before their eyes, is a lifeless body with two burned wings behind its back. The charred marks scorched into the bed and the wall behind them.
 
 Dean cradles the angel's body in his arms, crying with broken pieces of his soul falling in his tears.
 
@@ -1657,6 +1657,8 @@ Dean cradles the angel's body in his arms, crying with broken pieces of his soul
 #### draft notes
 
 John threatens to throw him out to let all neighbors know he's here and do what did to him again
+
+Dean first time attacks John, knocks him out
 
 ### (Chap 9) IX. The Last Righteous Man
 
@@ -1668,15 +1670,105 @@ John threatens to throw him out to let all neighbors know he's here and do what 
 >
 > high-pitch sound drops in, Michael speaks to Bal directly, Bal listens with pale face
 
+*Please.*
 
+Dean closes his eyes, pressing his lips on the cold forehead of the angel.
+
+*Please hear me, Lord my God, Angels, anyone. Please.*
+
+He rocks slightly in his kneeling position, holding the angel's body closer.
+
+*Please save him. He's an Angel. He doesn't deserve this.*
+
+Cas's body feels so thin and light in his touch. Dean's hand strokes his cheek, feeling his palm fit the sharp curve of his jaw.
+
+*His name is Castiel. Please save him. Whatever it takes.*
+
+He looks up at the ceiling, letting the tears fall. He forgets about everything around him, forgets about his father and his brother. He forgets himself.
+
+*I'll do anything, as long as you bring him back. God, I'm Dean. Please hear me.*
+
+A whip of wind swirls in the room, accompanied by the sound of flustering air. A man appears before the window, out of thin air.
+
+Dean wipes away his tears carelessly with the back of one hand. The man has a pair of long black wings, just like Cas's. He folds his wings slowly as the stirred air in the room settling down.
+
+"God?" he asks, voice choked.
+
+"Nah, Dad's out of town lately. Guess again," the newcomer says in a cheerful voice, with an exotic accent.
+
+"Angel." Dean lowers his eyes.
+
+"Bingo. Name's Balthazar." The angel claps his hand, scanning the room, then his gaze falling on the body in Dean's arms. The blade that killed him was cast aside, bloody on the bed. "Oh dear, whatever happened here?"
+
+"It's Cas -- Castiel. Can you save him?" Dean asks breathlessly.
+
+Balthazar makes a face that shows he's thinking. "Yes, and no. We need to talk."
+
+He snaps his fingers, and John and Sam fall to the floor. Dean startles.
+
+"Don't worry, they'll just take a small nap." Balthazar explains, waving a hand carelessly.
+
+Dean's attention turns back to the angel. "What do you mean, *'Yes and no'*? What do I have to do?"
+
+"You see, it's a little bit out of convention to bring Cas back. I'll have to send in some application, waiting for Upstairs to approve, and *maybe* Boss will come to check out and ask 'Why do you want him back alive?'"
+
+"He's an angel!" Dean rushes reflexively.
+
+"News flash, buddy, angel dies."
+
+"He doesn't deserve to die!"
+
+"Most people who died don't technically deserve to die -- well, some, maybe. Like this lots in this city. I'm gonna finish another errand just in a bit by the way, now that I'm already here. I'll wait until you get out of town, though." Balthazar strolls casually before the window, glancing outside. The sky is slowly turning to dawn now. There are one or two people move on the street. The city is waking up.
+
+"What errand?" Dean straightens his posture, alarmed. His gut feeling already knows the answer.
+
+"Destroy the city and everyone in it, of course. Upstairs already decided, and Cas didn't send in his report, that's enough proof for the trouble."
+
+"Everyone? Sam, too?"
+
+"Yes, yes, your brother, your father, your neighbor, the shop owner opposite the street. Every single one of the folks in the city -- except you." Balthazar waves a hand, explaining a little impatiently.
+
+"Why?" Dean finds his throat dry like sand paper.
+
+"Surely Cas has told you about righteous man business? Boss promised Abraham to save the righteous men. We thought it's plural, but turns out just means you. Anyway, you mean more to the Upstairs than you know, kid."
+
+"I live, I die, I don't care," Dean says bitterly, shaking his head. "I just wanted others to live. Cas, Sam, I just want to save them. I even want to save those people if I can."
+
+Balthazar squints his eyes, looking from Dean to the body, and considers. "What about we make it a deal? I resurrect your beloved angel Cas and you leave the town, so I can finish the job and destroy the city and everyone in it; or, you stay as long as you like, Cas stays dead, the city lives, you get your dear brother and father and everyone in the city alive. That's a great deal, isn't it? Either way, you get to live."
+
+Dean stares at him, tears coming down again, streaming across his cheek, wetting Cas's clothes. "You want me to agree to kill the whole city including Sam as my cost, to save him?" his hands hold Cas's body closer to his chest. He struggles for breathing in his sobbing.
+
+Balthazar shrugs. "I didn't say that, that's your choice. You think Sodom is worth saving, right? But everything comes with a price. Are those corrupted people out there, who, by the way, did everything horrible to him -- yes, yes, I heard -- worth his life? They tore him apart, condemned him to the Earth, burned his wings, and are you going to exchange his life, for those ungrateful sinners?"
+
+Dean buries his head in the body's shoulder, wailing.
+
+The pain of the option is nothing less cruel than asking him to kill Cas again, with his own hand. He has one chance to save Cas, but he has to weigh his life.
+
+"It's not fair!" Dean cries out loud, torn apart. His heart is too painful to keep beating, but yet he lives.
+
+"Welcome to the real world," Balthazar replies nonchalantly.
+
+"I can't, I can't," he moans and cries.
+
+The choice should have been obvious -- a thousand people's life for Cas. He can even imagine what Cas would say if he's here. But Dean doesn't care. He's dead anyway.
+
+"Damn you!" he bites and curses. "Damn the angels! Damn Heaven! Damn God! Damn the whole world! Screw you!"
+
+He yells and scream, stops caring the angel who's still in the room, not caring people outside might hear him.
+
+He wails and howls, "This is what I get for believing for so long? Then screw the Lord! Screw the faith! Screw the whole world for all I care! The world never did me any good, the city never loved me. He did."
+
+Dean looks at Balthazar, desperate and completely broken. He says, eventually, "I choose him. Resurrect him, please."
+
+He says, quieter, "But I'm not leaving the city. If you are to destroy Sodom, kill me with it. I don't deserve to live after all, for condemning every living soul here."
+
+Dean waits for Balthazar to smile wild with victory while snapping a finger to make it work. But instead, the laugh drops from the angel's face. He looks scared for a second, and then the brightest white light pours from the sky, dawning over him through the ceiling, speaking to him in a volume so loud and pitch so high that the whole house shakes.
+
+Balthazar's face pales. He looks upward to the light, eyes locked to the center, listening to the high-pitched voice.
+
+"Michael," he murmurs, in aw.
 
 <br>
-
-[TBA]
-
-#### draft notes
-
-> Dean first time attacks John, knocks him out
 
 ### (Chap 10) X. Save the Angel
 
@@ -1689,6 +1781,12 @@ John threatens to throw him out to let all neighbors know he's here and do what 
 
 
 <br>
+
+###### [TBA]
+
+#### draft notes
+
+
 
 ### (Chap 11) XI. Save the Righteous Man
 
