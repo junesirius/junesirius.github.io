@@ -1758,15 +1758,15 @@ He yells and scream, stops caring the angel who's still in the room, not caring 
 
 He wails and howls, "This is what I get for believing for so long? Then screw the Lord! Screw the faith! Screw the whole world for all I care! The world never did me any good, the city never loved me. He did."
 
-Dean looks at Balthazar, desperate and completely broken. He says, eventually, "I choose him. Resurrect him, please."
+Dean looks at Balthazar, desperate and completely broken. He says, eventually, "I choose him. I choose Cas. Resurrect him, please."
 
-He says, quieter, "But I'm not leaving the city. If you are to destroy Sodom, kill me with it. I don't deserve to live after all, for condemning every living soul here."
+He says, quieter, "But I'm not leaving the city. If you are to destroy Sodom, kill me with it. I don't deserve to live after all, for condemning every living soul here. I'll burn with the city among my brother and father."
 
-Dean waits for Balthazar to smile wild with victory while snapping a finger to make it work. But instead, the laugh drops from the angel's face. He looks scared for a second, and then the brightest white light pours from the sky, dawning over him through the ceiling, speaking to him in a volume so loud and pitch so high that the whole house shakes.
+Dean waits for Balthazar to smile wild with victory while snapping a finger to make it work. But instead, the smile drops from the angel's face. He looks scared for a second, and then the brightest white light pours from the sky, dawning over him through the ceiling, speaking to him in a volume so loud and pitch so high that the whole house shakes.
 
 Balthazar's face pales. He looks upward to the light, eyes locked to the center, listening to the high-pitched voice.
 
-"Michael," he murmurs, in aw.
+"Michael," he murmurs, in utter awe.
 
 <br>
 
@@ -1778,15 +1778,123 @@ Balthazar's face pales. He looks upward to the light, eyes locked to the center,
 >
 > fire and sulphur start dropping into city, Cas makes his decision, disobeys order, offers to fly Dean/Sam out of city. Dean doesn't think he deserves anymore, Cas: "You always deserve saving." Sam pleads to bring John too, Cas thins lips, Dean doesn't know if he'd be happy about it, Cas warns them not to look back and flies them to Zoar
 
+The white light flares stronger as the pitch climbs higher. Balthazar lowers his head, face terrified and solemn, answering incoherently. "Yes... I'm sorry... I understand... Consider it done."
 
+Dean watches the scene unfold before him numbly, not understanding.
+
+And then the shaking of the floor eases, so is the piercing sound.
+
+The white light dims down slowly, but haven't fully faded.
+
+Balthazar finally lifts his head, waving at him eagerly. "Come, quickly. Put Cas in here."
+
+Dean follows the order automatically, holding Cas close to his chest as he walks over to the window. The sun has risen, but the light from the ceiling is a thousand times brighter. He lays Cas's body down in the center of the light, smoothening his wings.
+
+Balthazar watches him intensely, frowning hard.
+
+Dean doesn't dare to blink.
+
+And then, just like a snap of finger, Cas gasps for air, and opens his eyes. He sits up slowly. His night-black wings stretch beautifully and healthily behind him as the white light goes off.
+
+"Cas!" Dean breathes out, tears tumbling down.
+
+"Hey buddy," Balthazar gives him a small wave of hand.
+
+Cas stands up from the floor, frowning with light confusion, checking himself up. He's clean and bright, beautiful without any wound.
+
+"Balthazar," he sees the angel first. "Did you...?"
+
+"Not me," Balthazar points a finger toward the sky. "Thank the Boss. Michael's direct order."
+
+Cas frowns deeper. "What's the cost?" he asks quickly. "What else did he say?"
+
+Balthazar casts a quick glance at Dean, leaning in to whisper something by Cas's ear.
+
+Dean sees him wriggles his eyebrows as he pulls back.
+
+"I'll see you around, Cas," Balthazar leaves one last sentence and another cheesy smile of his, turning to Dean. "Dean." He gives him a nod, and disappears with another whip of wind just like when he appeared.
+
+Cas turns slowly to Dean, opening his mouth.
+
+Dean throws himself to the angel before he can say anything, and kisses him like this is the end of the world. Cas hums softly and holds him tight, but he pulls back after a short beat.
+
+"Wait, Dean," he stops him.
+
+Dean licks his lips, swallowing. The angel's beautiful, blue eyes shine with watery glint, joy and sadness each takes half.
+
+"Cas," Dean whispers. He's too happy and too scared at the same time, he doesn't know what to say. He doesn't forget the other half of the deal. The death part. "I'm sorry," he says. That seems to be the only thing he can come up with.
+
+Cas fondles his cheek, shaking his head. "Don't apologize for bringing me back, Dean."
+
+"I thought I lost you." Tears come back again. "I'm scared, I might made a really bad decision."
+
+Cas doesn't answer immediately, just pulling him into a hug, patting his back.
+
+"What did Balthazar tell you?" Dean asks, when his breath comes calmer and his chin stops shaking above Cas's shoulder.
+
+"He leaves to prepare for the weapon." Cas says simply.
+
+"The weapon to destroy the city?"
+
+Cas nods. Dean can feel the movement of his cheek against his own.
+
+"I didn't know they'd start this with or without my return. It was already planned. But now, by choosing me and choosing to let the city die, you..." Cas hesitates.
+
+Dean pulls apart for several inches so he can look at Cas in the eyes. "I what?"
+
+Cas looks at him, sad. "You're not righteous anymore. They're allowed to destroy the city with you in it. It can happen any minute."
+
+Dean nods with understanding. "He did say 'Everything comes with a price'. I know I can't live with this anyway. Not when it means Sammy has to die too, I'm actually happy they'd let me stay with him until the end."
+
+"Dean --" Cas says softly, pained.
+
+Dean cuts him off. "I don't regret saving you. Ask me again and I would do the same. I don't care it's righteous or not."
+
+"Thank you," Cas says quietly.
+
+They're disturbed by the yelling from the street. Outside, the sunny sky is replaced by a cloud made of fire. Burning fire balls and Sulphur starts raining down onto the city. The houses start burning. They can already feel the heat stirring the air around them, it's getting thicker and more difficult to breathe.
+
+"You should go now," Dean pushes him.
+
+Cas shifts his eyes from the window to him, the light reflected in his eyes glinting brightly. "The order is to leave you in the city."
+
+"I know, I deserve it." Dean urges him. "But you should go."
+
+"Forget about the order. You always deserve saving, Dean. I can fly you and Sam out of city." Cas says resolutely, moving over to wake up Sam with a tap on his forehead.
+
+Sam moans as he stands, and is immediately startled by the falling fire and sulphur outside the window.
+
+"What's happening?" he yells in panick.
+
+"Later," Dean says. "We gotta go. Cas will get us out."
+
+"Just the two of us?" Sam connects the dots fast enough, understanding quickly.
+
+The walls and ceiling of the house moan in the increased temperature, shaking unstably.
+
+"What, you have a dog you want to take with?" Dean snaps.
+
+"Dad." Sam glances at John, then Cas, shifting his feet uneasily. "Please," he pleads, "he's our father."
+
+*He's also the one who killed Cas. He's a sinner.* Dean bites his bottom lip, can't say a word.
+
+He looks at Cas, quietly asking with his eyes. *It's your decision, then.*
+
+Cas thins his lips, but he moves to John's unconscious body nonetheless.
+
+"I'll fly you to the small city of Zoar. And once you're there, do not look back. Do you understand?" He glances at the brothers.
+
+Dean and Sam give him a nod, and hold Cas's vacant hand.
+
+Dean hears a fluster of wings, and then his feet leave the ground.
 
 <br>
 
-###### [TBA]
-
 #### draft notes
 
+> Sam pleads to bring John too, Cas thins lips, Dean doesn't know if he'd be happy about it, Cas warns them not to look back and flies them to Zoar
 
+Bal gets scolded by Michael directly (for forcing Dean lose faith)
 
 ### (Chap 11) XI. Save the Righteous Man
 
@@ -1807,6 +1915,8 @@ Balthazar's face pales. He looks upward to the light, eyes locked to the center,
 
 
 <br>
+
+###### [TBA]
 
 ### (Chap 12) XII. After the Time
 
