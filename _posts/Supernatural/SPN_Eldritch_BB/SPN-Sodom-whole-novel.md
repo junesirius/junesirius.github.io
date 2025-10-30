@@ -10,7 +10,7 @@ origin: 2025 SPN Eldritch Big Bang
 published: false
 ---
 
-Tag: Canon Compliant, Pre-Series, Hurt/Comfort, Angst, Slow Burn, Get Together, Castiel's wings, Mass rape/non-con (not between Dean/Castiel), Dirty Words (not between Dean/Castiel), sexual abuse (not between Dean/Castiel), physical abuse (not between Dean/Castiel), Mob, Temporary Main Character Death, Torture, S06E03 inspired, S04E07 inspired, Sodom and Gomorrah, Inspired by Biblical Story, Genesis XIX, purposefully sinful description of most characters including John Winchester and occasionally Sam Winchester due to story setting, super awful abusive John Winchester, accidental dub-con, accidental frottage, PTSD, Trauma, Suicidal Tendency, Dead Dove Warning
+Tag: Canon Compliant, Pre-Series, Hurt/Comfort, Angst, Slow Burn, Get Together, Castiel's wings, Mass rape/non-con (not between Dean/Castiel), Dirty Words (not between Dean/Castiel), sexual abuse (not between Dean/Castiel), physical abuse (not between Dean/Castiel), Mob, Temporary Main Character Death, Torture, S06E03 inspired, S04E07 inspired, Sodom and Gomorrah, Inspired by Biblical Story, Genesis XIX, purposefully sinful description of most characters including John Winchester and occasionally Sam Winchester due to story setting, super awful abusive John Winchester, accidental dub-con, accidental frottage, PTSD, Trauma, Suicidal Tendency, Dead Dove Warning, Eventual Hopeful Ending, Soul-Grace Dance
 
 Warning: rape/non-con, graphic depiction of violence
 
@@ -210,7 +210,7 @@ And now, if you're sure to proceed, enjoy the darkness.
 
 <br>
 
-NOTE: chap 5 re-copy/paste to AO3 (modified since draft); chap 4 title; tag: suicidal tendency
+NOTE: chap 5 re-copy/paste to AO3 (modified since draft); chap 4 title;
 
 when posting, before each chapter, quote something from Bible
 
@@ -1892,8 +1892,6 @@ Dean hears a fluster of wings, and then his feet leave the ground.
 
 #### draft notes
 
-> Sam pleads to bring John too, Cas thins lips, Dean doesn't know if he'd be happy about it, Cas warns them not to look back and flies them to Zoar
-
 Bal gets scolded by Michael directly (for forcing Dean lose faith)
 
 ### (Chap 11) XI. Save the Righteous Man
@@ -1912,13 +1910,161 @@ Bal gets scolded by Michael directly (for forcing Dean lose faith)
 >
 > Cas is brought to Naomi (enough hint for brainwash)
 
+They can sense the heat of fire and smell of Sulfur from where they stand. Half the sky is burned red and black. Smoke rising high and thick, covering the cloud. They can hear people's screaming.
 
+Cas covers the brothers with his wings, protecting their eyes.
+
+"Don't look," he says, low and sad, "Don't look back. There's nothing left for you there."
+
+Dean buries his face on Cas's shoulder, feeling the warmth of full, thick feathers cover behind his back. He breathes sky.
+
+He closes his eyes, and briefly, he can forget the burning city.
+
+Tears are still falling down.
+
+There are still a thousand lives he can't save, after all.
+
+And what gives them the right to decide, only the three of them get to survive? Including his father, of all the people?
+
+It's not fair.
+
+Dean sobs quietly, feeling Cas's hand stroking his back in small circles.
+
+"It will be okay," he hears the angel promising. "It will be okay."
+
+And for a moment, he believes him.
+
+Cas lets them go, after a while, just standing there with them, their back toward the city. The city is still burning, but they force themselves to not turn and watch.
+
+John wakes up with a moan and picks himself up from the ground.
+
+"What's happening?" he rubs his head, slowly turning.
+
+"Don't look back, dad!" Sam yells.
+
+But it's too late. John already turns to face the burning city, staring with gaped mouth. His body freezes exactly as he is, and before their shocked eyes, John turns into a pillar of salt.
+
+"Holy!" Sam exclaims, covering his mouth.
+
+Dean just stares, not blinking.
+
+The pillar of the salt still holds John's figure, carving out lines on his face, the frown between his eyebrows. But that's all the resemblance. Life leaves him, and Dean just stares, not knowing what's that feeling inside his chest should be called.
+
+He doesn't feel grief.
+
+But he also doesn't want to think if it's relief.
+
+So he just stares.
+
+Cas puts a hand on his shoulder gently. "You okay?" he asks.
+
+Dean nods numbly.
+
+"Feeling better?" Balthazar's voice sounds up unexpectedly.
+
+Dean doesn't see him until now.
+
+The angel holds a chunk of salt stone with white blue light in it. He holds it like a weapon.
+
+Dean swallows. "I don't know."
+
+Cas says quietly, "You don't have to do that."
+
+Balthazar points at the sky again. "Order from Upstairs." Then whispers, "Boss's friendly gesture, I think, trying to earn his faith back," he tilts his head to Dean and Cas follows his eyes. "I don't want to get kicked in the ass again. It's scary. I almost thought I'd get skinned when he knew the righteous man lost faith." Balthazar makes the pretense of a shiver. Cas's lips purse thinner at that.
+
+"What now?" Dean asks slowly, then.
+
+"What do you mean?" Balthazar asks back. "It's over."
+
+"What does it leave me and Sammy? We are all alone in this world now, everyone we knew were dead."
+
+"How's that different from before?" Balthazar answers.
+
+Dean blinks, and Sam hums.
+
+"You're free now," Cas tells them gently. "You can live wherever you want, the way you want. Zoar is a peaceful little town, smaller than Sodom; I think you'll like it."
+
+Dean glances behind them. The town is quiet and indeed very small. It might be good, he thinks. He's not sure he wants to meet many people now.
+
+"Okay," he says.
+
+He takes a step to Cas, standing before him, looking at the angel. Really looking. The blue in the angel's eyes are not pure, same blue, he notices, it's like rings, darker on the outside, lighter near the center. He stares and studies, wanting to brand the memory in the deepest of his soul.
+
+"Will I ever see you again?" Dean asks quietly.
+
+"Yes," Cas answers promptly. "I promise you will. I will watch over you."
+
+"Even after I die and go to Hell?" He asks, not sad. Accepted.
+
+Cas widens his eyes slightly. "What makes you think you'll go to Hell?"
+
+Dean smiles faintly. "I know how it works. I don't believe anymore, and I have blood in my hands. No way I'd be going to Heaven."
+
+Balthazar clears his throat beside them. "If I may," he raises his hand. The two of them turn to him. "You're not going to Hell," he says.
+
+"See, nothing to worry about." Cas says, relieved. "It's not on you."
+
+"But not to Heaven, either." Balthazar continues.
+
+"Why?" Cas frowns.
+
+"Special guest, special treat, I guess." Balthazar shrugs. "That's usually top secret stuff, but you see, I'm generous to share."
+
+Dean rolls his eyes at "generous", but he doesn't interrupt.
+
+Balthazar tells them, "You will not go into Heaven or Hell, because you will stay on Earth, going into the next reincarnation. It's like a training process. Michael thinks you're not ready yet, just see that mess you just made, but we still have time. We have about four thousand years time."
+
+"What's in four thousand years?" Cas and Dean ask at the same time.
+
+Balthazar shrugs again, "Some big plan, I hear. But top secret, above my paygrade now, also, spoiler free. But it's a long time, don't worry about it now. Go enjoy your boring mud life, you have a few thousand years to kill. We'll see you around."
+
+Dean thinks slowly. "I wouldn't remember any of this, would I? In my next reincarnation or whatever. In those four thousand years."
+
+"Clever boy," Balthazar smiles.
+
+Dean looks at Cas, reaching a hand to hold his arms, eyes deeply sad. "Everything we went through here, everything I did. Us. I don't want to forget."
+
+Cas holds him close. "It's okay," he whispers gently. "I will."
+
+They share a long, soft kiss.
+
+It tastes salty and tears, but they continue.
+
+Dean feels the familiar electrical warmth running through his veins. But this time, instead of the energy pulse pushing into Cas, he feels the flow running from Cas, mingling into his, melting inside him.
+
+He hears Balthazar gasps behind them.
+
+"It's not polite to stare," Dean makes an effort to pull apart, speaking as his forehead pressed against Cas's.
+
+"Holy," Balthazar's voice is odd. "How did you do that?"
+
+"Do what?"
+
+"The energy flow between you two, it's like... it's like a profound bond." Balthazar stutters, waving a hand, struggling to find a word.
+
+"I like the sound of it," Dean tells Cas, pecking his lips one more time.
+
+Cas smiles. "I like it, too," he answers.
+
+The two angels watch the two brothers walk into the city of Zoar. Dean stops and looks back and waves at him for three times.
+
+For three times, Cas waves back. Until they're out of view.
+
+"Come on, we gotta go, too." Balthazar urges Cas. "You get an appointment."
+
+"From who?"
+
+"Naomi said she wanted to see you." Balthazar tells him.
 
 <br>
 
-###### [TBA]
+#### draft notes
 
-### (Chap 12) XII. After the Time
+burning cities (more than just Sodom, Gomorrah too, and Admah, Zeboiim)
+
+Cas/Bal change look, Sam to Cas: "What you told us, that's not what all he told you, isn't it?" Bal to Cas: "Of course not, or it won't be secret. Unless you're ready." Dean: "Ready for what?" Cas to Dean: "You saved my life, so now we share a profound bond, I'll be watching over you for all my existence."
+
+### (Chap 12) XII. After the Time (Epilogue)
 
 > (Four Thousand Years later)
 >
@@ -1926,15 +2072,83 @@ Bal gets scolded by Michael directly (for forcing Dean lose faith)
 >
 > 603 run into Bal and salt pillar weapon again, Bal looks them from one to the other, meaningful eyes, Dean spits: "You got anything to say?" Bal: "Just remembering some good old time, that's all. Not like either of you are there or anything." Bal smiles, disappears. Dean/Cas exchange look, Cas tilts head, both feel like they forgot something. Dean look at Cas: "Doesn't matter. We're here now."
 
+#### Four Thousand Years Later
 
+Dean doesn't remember much about his life between seventeen and twenty-nine. And he tries very, very hard to forget the forty years in Hell, even though he lied to Sam that he doesn't remember a thing.
+
+But he does remember the day the light descends from the sky. Vague shapes with wings surge the Pit, and he laughs at them -- his own voice sounding hysteric and demonic, and he doesn't think he cares.
+
+Until he sees *him*.
+
+Dean doesn't understand what he's seeing, but among all the other light, there is only one that stands out. He's bright, he's elegant, he's beautiful. And what baffles him most is, he looks familiar.
+
+Dean is sure this is the first time he's ever seen an angel, dead or alive, on Earth or in Hell. But at that moment, when he sees that light, he thinks, he knows him.
+
+That light flies directly to him, when all the others are scattered around, fighting the black smokes.
+
+He stares at those black wings and tries so, so hard to remember where it is that they've met.
+
+The warmth and heat burns him when they touch. But Dean doesn't let go when the light reaches out a hand. He screams in pain with his demon voice, he curses the angels and Heaven alike, but he doesn't let go.
+
+Something deeper than his memory remembers this familiarity, something beyond consciousness tells him to hold on to it. So that's all he does.
+
+The light pulls him into Hell, and brings him onto the Earth.
+
+The light then shapes into a man, hiding his wings. The man introduces himself, "I'm Castiel. Angel of the Lord."
+
+And without knowing why, Dean thinks, he knows he can trust him with his life.
+
+<br>
+
+#### Two Years Later
+
+"You gotta be kidding me," Balthazar yells, when Dean drops the lighter on the holy oil ring.
+
+"I thought you were dead." Cas looks at him and calls him a brother. But he doesn't stop the two boys from threatening to burn his wings extra crispy.
+
+"Come on, we go way back!" Balthazar is more annoyed than frustrated. "You're just letting those flying ass monkeys do this to your brother?"
+
+"I believe the flying monkeys have the floor now." Cas tells him glumly.
+
+Balthazar studies his face, eyes lingering between Cas and Dean, raising his eyebrows. "You've not changed a bit for four thousand years, you know that? I should know you two would always choose each other, no matter how messed you got."
+
+"What's that supposed to mean?" Dean snaps.
+
+Balthazar shifts his attention back to the brothers. "Nothing," he says, almost joyfully. "Just one little old Balthazar getting a bit nostalgia, remembering some good old time, that's all." He doesn't protest as much when he's asked to put the kid's soul back.
+
+He disappears when Cas distinguishes the holy fire ring, but comes back just in time to turn Raphael's vessel into another pillar of salt.
+
+"You came back," Cas pants, wiping the blood from being beaten up from the archangel.
+
+Balthazar studies the toy in his hand, fondling the salt stone. "Remember this baby? Comes quite handy. You were there, too."
+
+Cas follows his eyes to the weapon, answering slowly. "No, I wasn't there when Sodom was destroyed."
+
+"Right," Balthazar bites his tongue. "Of course, you weren't. You were with Naomi."
+
+*That's probably for the best.* Balthazar thinks.
+
+But his smile still thins. "Anyway," he shoots a quick glance at the Winchesters, then returns to Cas, "glad you guys are here now. I truly do." Then he disappears -- turning himself invisible, to be more precise.
+
+"Is that me or that asshole was trying to hint something?" Dean turns to Cas with a frown. "I feel like he knew something we don't. Did we forget something?"
+
+Cas frowns and searches his memory. "I don't forget," he wants to say. But then he finds the gaps in his memory. He doesn't remember anything from Sodom, or Egypt, or Noah's time. Balthazar always says he was tasked somewhere else, meeting with Naomi, but he doesn't remember.
+
+"It doesn't matter." Cas shakes his head, decided. "We're here now."
+
+*Lucky bastard.* Balthazar thinks, watching them. *Good luck this round.* And he flies away.
 
 <br>
 
 #### draft notes
 
+> 603 run into Bal and salt pillar weapon again, Bal looks them from one to the other, meaningful eyes, Dean spits: "You got anything to say?" Bal: "Just remembering some good old time, that's all. Not like either of you are there or anything." Bal smiles, disappears. Dean/Cas exchange look, Cas tilts head, both feel like they forgot something. Dean look at Cas: "Doesn't matter. We're here now."
+
 Cas gets brainwashed by Naomi, so memory of this encounter is hidden (but not completely wiped), but Bal remembers
 
 402 Cas: "Three days ago, you thought there was no such thing as me. Why do you think we're here walking among you now for the first time in 2,000 years?"
+
+(Cas: "haven't walked earth for two thousand years, haven't met a man like you for four thousand years")
 
 410 Anna: "I was stationed on earth 2,000 years. Just... watching... silent... invisible... out on the road... sick for home... waiting on orders from an unknowable father I can't begin to understand."
 
