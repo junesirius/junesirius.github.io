@@ -10,7 +10,7 @@ origin: 2025 SPN Eldritch Big Bang
 published: false
 ---
 
-Tag: Canon Compliant, Pre-Series, Hurt/Comfort, Angst, Slow Burn, Get Together, Castiel's wings, Mass rape/non-con (not between Dean/Castiel), Dirty Words (not between Dean/Castiel), sexual abuse (not between Dean/Castiel), physical abuse (not between Dean/Castiel), Mob, Temporary Main Character Death, Torture, S06E03 inspired, S04E07 inspired, Sodom and Gomorrah, Inspired by Biblical Story, Genesis XIX, purposefully sinful description of most characters including John Winchester and occasionally Sam Winchester due to story setting, super awful abusive John Winchester, accidental dub-con, accidental frottage, PTSD, Trauma, Suicidal Tendency, Dead Dove Warning, Eventual Hopeful Ending, Soul-Grace Dance
+Tag: Canon Compliant, Pre-Series, Hurt/Comfort, Angst, Slow Burn, Get Together, Castiel's wings, Mass rape/non-con (not between Dean/Castiel), Dirty Words (not between Dean/Castiel), sexual abuse (not between Dean/Castiel), physical abuse (not between Dean/Castiel), Mob, Temporary Main Character Death, Torture, S06E03 inspired, S04E07 inspired, Sodom and Gomorrah, Inspired by Biblical Story, Genesis XIX, purposefully sinful description of most characters including John Winchester and occasionally Sam Winchester due to story setting, super awful abusive John Winchester, accidental dub-con, accidental frottage, PTSD, Trauma, Suicidal Tendency, Dead Dove Warning, Eventual Hopeful Ending, Soul-Grace Dance, Profound Bond
 
 Warning: rape/non-con, graphic depiction of violence
 
@@ -216,17 +216,15 @@ And now, if you're sure to proceed, enjoy the darkness.
 
 <br>
 
-NOTE: chap 5 re-copy/paste to AO3 (modified since draft); chap 4 title;
-
-when posting, before each chapter, quote something from Bible
+~~when posting, before each chapter, quote something from Bible~~
 
 ~~Including/mention "Genesis XIX" in summary~~
 
-use "Castiel" in first few chapters, change to "Cas" only after they get close and familiar
+~~use "Castiel" in first few chapters, change to "Cas" only after they get close and familiar~~
 
-the angel in chap 1 Cas come to search is Amos (Old Testament; hinting "love" is dead/killed/stained in this city) and she didn't survive (mention that in later chapters)
+~~the angel in chap 1 Cas come to search is Amos (Old Testament; hinting "love" is dead/killed/stained in this city) and he/she didn't survive (mention that in later chapters)~~
 
-Dean has faith in angel/heaven in his 4ky ago version, gradually forgetting/losing faith until the current version doesn't even believe in angel
+~~Dean has faith in angel/heaven in his 4ky ago version, gradually forgetting/losing faith until the current version doesn't even believe in angel~~
 
 ## Main
 
@@ -2090,7 +2088,7 @@ Until he sees *him*.
 
 Dean doesn't understand what he's seeing, but among all the other lights, there is only one that stands out. He's bright, he's elegant, he's beautiful. And what baffles him most is, he looks familiar.
 
-Dean is sure this is the first time he's ever seen an angel, dead or alive, on Earth or in Hell. But at that moment, when he sees that light, he thinks, he knows him.
+Dean is sure this is the first time he's ever seen an angel, dead or alive, on Earth or in Hell, let alone having faith in them. But at that moment, when he sees that light, he thinks, he knows him.
 
 That light flies directly to him, when all the others are scattered around, fighting the black smoke.
 
