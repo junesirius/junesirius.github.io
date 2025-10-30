@@ -210,7 +210,7 @@ And now, if you're sure to proceed, enjoy the darkness.
 
 <br>
 
-NOTE: chap 5 re-copy/paste to AO3 (modified since draft)
+NOTE: chap 5 re-copy/paste to AO3 (modified since draft); chap 4 title
 
 when posting, before each chapter, quote something from Bible
 
@@ -746,7 +746,7 @@ chamber has angel-proof carvings and holy oil everywhere
 
 Cas feel guilty for hurting Dean
 
-### (Chap 4) IV. Blood
+### (Chap 4) IV. The Blood
 
 > neighbor calls for helpers to constrain Cas again and beat him up even worse, torture/punish him more, Cas doesn't protest like used to (bc he thinks he deserves this one), Dean protests and claims he's fine but gets ignored (heartbroken, think Cas is hurt more bc of him, self-blame)
 >
@@ -1350,23 +1350,113 @@ This is the second time he resents his soul.
 
 <br>
 
-###### [TBA]
-
-#### draft notes
-
-> Dean hates it puts him in choice. avoid Cas more. (Sam talks to him some, suggest support him either way, Sam attitude neutral indifferent to angels)
->
-> Dean doesn't interact much with Cas after that hurried leave, avoid him, afraid getting things worse, except for continue providing food/water, giving Cas space, hoping him recover by himself. sometimes secretly observe Cas from entrance, want to talk but doesn't know how to, watch Cas facing small window watching sky, think Cas doesn't know he's observing him. Cas actually notices
-
-### (Chap 7) VII. The Wings
+### (Chap 7) VII. The Soul
 
 > Cas calls Dean before he can leave secretly again. Dean enters, keeps distance, self-aware, afraid of hurting Cas accidentally again, mentally or physically. Cas sees it, reaches to kiss Dean. Dean reciprocates, but: "Does it help?" Cas raises eyebrow, Dean was thinking the kiss is only for tapping his soul to help Cas recharge and heal. Cas sighs and tells him how different he is to anyone else and that he hears conversations upstairs, Dean doesn't need to fear to hurt him, except for the sexual activities that he's not ready again.
 >
 > Cas's wings are healing, Dean caresses the feathers, awed, love it, more ashamed for other sinned humans, ashamed of himself too for thinking of hurting Cas to save Sam, want to save Sam and everyone. Cas amazed/touched by him again, even angel/Heaven has given up on these people, ready to destroy these people instead of saving them, but Dean's still trying to change them. Cas suggest meet Sam
 
+Castiel is standing before the window, looking outside. The shade is half open.
 
+It's dark outside. Dean knows there isn't much view to see, for he has stand in the exact spot staring at the street before.
+
+But the angel is standing there, stiffly straight, without moving an inch. Like a perfectly still statue.
+
+He's wearing the black tunic he came with on the first day. Dean assumes he must have found the cloth bundle under the bed, along with all the broken feathers, that Dean picked and held so close to his chest once.
+
+Then he remembers how torn it was. But now it seems all perfectly fixed.
+
+It must also be one of the angel's abilities then, he guesses.
+
+Castiel doesn't show a sign that he hears the door opening.
+
+Dean stands at the thin slit of the opening, watching his back. The tunic covers his body, but doesn't hide his wings. The burned feathers are not healing, but the torn and broken ones are. The broken joints are no longer limp lifelessly behind his back. Instead, they are now stretching upward, holding newly grown feathers. Dean can tell they are young feathers because the color is a shade lighter than the rest.
+
+He stares at them, fascinated.
+
+And his courage runs thin just as quickly as he gathers it.
+
+Dean bites his bottom lip hard, trying to close the door without making a sound.
+
+Then he hears the angel call him.
+
+"Dean," Castiel says, with his deep voice, before turning back from the window.
+
+His face is half hidden in the shadow from his wings. The dim bedside oil lamp barely lights half the room, the flame flickering as the wings carrying wind when he moves.
+
+Dean freezes in his attempt to leave.
+
+"Cas -- Castiel," Dean answers numbly, stepping slowly into the room. His hand lingers on the door handle.
+
+"You haven't come for days." The angel moves closer, folding his wings, so that more light gets cast on Dean's face.
+
+Dean dodges his eyes. "I don't want to disturb your rest," he mumbles. *I don't know if you'd still be here. I thought you'd hate me.* His mind supplies.
+
+Castiel tilts his head slightly to the side, studying his face. "I rested very well, thank you," he answers kindly, then, "I missed you."
+
+Dean startles, jerking his head up, caught in the angel's eyes. His throat forgets how to work. His hand automatically closes the door behind him. "We didn't exactly part as friends last time," he blurts out, pressing his back against the door, as if trying to keep himself as far away from the angel as possible. As if, he doesn't allow himself to get any closer.
+
+*I hurt you.* He bites his bottom lip hard, thinking. *And now, I'm here to hurt you again.*
+
+Cas moves closer, shaking his head. "It wasn't your fault," his voice is quiet. "I should know you didn't mean it. It... it's not your fault."
+
+They are standing mere inches away now. Dean swallows, glancing at the angel, unsure of himself. He can see the flickering eyelashes and the change of color in the angel's pupils. He sees his own reflection. *When did they move this close?*
+
+His breath speeds up when Cas's gaze drops to his lips. He swallows again, and closes his eyes.
+
+Cas's lips move to the corner of his lips, stroking carefully. Dean reaches out automatically to hold him, rounding behind his back, holding between his shoulder blades. His fingers runs into the angel's wings.
+
+Cas makes a small contented sigh, drinking his lips more fiercely, pressing him onto the door, holding his head. Dean feels the flow of warmth rises from his spine again, pumping in his vein along with every beat of his heart. He lets his body relax, letting Cas take control.
+
+Time and space stretch around them, losing meanings.
+
+When Cas pulls back, they are both panting. The room settles back around them.
+
+Dean can see his own reflection in the angel's dilated pupils. But he doesn't know how to read the other things in there, so he turns his head away, staring at the bed instead.
+
+Cas moves back slightly, giving him more space.
+
+"Does it help?" Dean stutters.
+
+"What?" Cas raises his eyebrows.
+
+"My soul." Dean draws small circles on his chest where the heart is, as if pointing at where his soul is. "That's... that's for connecting with my soul to help you heal, isn't?" *What else can it be?* His mind says.
+
+Cas sighs, taking a step back, running a hand through his rustled hair. Dean finds it such an human move.
+
+"No, it's not." Cas tells him. Dean doesn't understand.
+
+"It's not *just* to help me heal." Cas clarifies. "I hear it's human's expression for many things, appreciation, admiration, care."
+
+Dean blinks slowly. "You..." he stares at the angel as if he just grew two more heads or three more arms. "It can't be. You're an angel, and I'm..." his voice trails off. *I'm just a human. I'm nobody. I'm Son of John, citizen of the sinned city of Sodom.*
+
+"You're different from anyone else I've ever seen, and I've seen every human since my Father created the light. And yet, you're the most beautiful, the brightest soul of them all." Cas tells him, stroking a hand beside his cheek. Dean leans into it, still holding their gaze, breathing shallow.
+
+"Even in a city like this, you haven't stopped trying to save people, to save angels. You are truly a righteous man." Cas leans in again, more gently this time, searching for his lips. "That makes you just as powerful and special as an angel, and even more."
+
+Dean whimpers quietly, letting the thumb of the angel wiping away his tears. He doesn't know when they gather or when they fall. He only sees Cas's gentle eyes, and he holds him tight. He kisses back carefully.
+
+"I'm sorry." When they pause to take a breath, Dean says, leaning his forehead against Cas's, his fingers fumbling from the angel's cheek to his throat, searching quietly. He doesn't find a cut there now.
+
+"What for?" Cas asks, pulling back slowly.
+
+"I was thinking about hurting you again, when I came into the room." Dean confesses, ashamed of himself. "I was desperate to save my brother. But don't worry, I'll go look for another way."
+
+Cas catches Dean's fingers in his palm, stopping his search. "You don't have to worry about hurting me. I trust you mean well. Why don't you let me meet Sam. Maybe there is something I can do for him, like you did for me."
+
+Dean widens his eyes in surprise and joy. He nods, relief and hope fulfilling his chest. "Yeah, yeah -- Sam would like that, too."
 
 <br>
+
+#### draft notes
+
+~~Dean doesn't interact much with Cas after that hurried leave, avoid him, afraid getting things worse, except for continue providing food/water, giving Cas space, hoping him recover by himself.~~
+
+~~Dean enters, keeps distance, self-aware, afraid of hurting Cas accidentally again, mentally or physically~~
+
+Cas's wings are healing, Dean caresses the feathers, awed, love it
+
+even angel/Heaven has given up on these people, ready to destroy these people instead of saving them, but Dean's still trying to change them
 
 ### (Chap 8) VIII. Punishment of the City
 
@@ -1379,6 +1469,12 @@ This is the second time he resents his soul.
 
 
 <br>
+
+###### [TBA]
+
+#### draft notes
+
+> 
 
 ### (Chap 9) IX. The Last Angel
 
