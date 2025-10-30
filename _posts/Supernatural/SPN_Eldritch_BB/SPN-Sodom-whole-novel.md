@@ -1426,7 +1426,7 @@ Cas sighs, taking a step back, running a hand through his rustled hair. Dean fin
 
 "No, it's not." Cas tells him. Dean doesn't understand.
 
-"It's not *just* to help me heal." Cas clarifies. "I hear it's human's expression for many things, appreciation, admiration, care."
+"It's not *just* to help me heal." Cas clarifies. "I hear it's human's expression for many things: appreciation, admiration, care."
 
 Dean blinks slowly. "You..." he stares at the angel as if he just grew two more heads or three more arms. "It can't be. You're an angel, and I'm..." his voice trails off. *I'm just a human. I'm nobody. I'm Son of John, citizen of the sinned city of Sodom.*
 
@@ -1442,7 +1442,7 @@ Dean whimpers quietly, letting the thumb of the angel wiping away his tears. He 
 
 "I was thinking about hurting you again, when I came into the room." Dean confesses, ashamed of himself. "I was desperate to save my brother. But don't worry, I'll go look for another way."
 
-Cas catches Dean's fingers in his palm, stopping his search. "You don't have to worry about hurting me. I trust you mean well. Why don't you let me meet Sam. Maybe there is something I can do for him, like you did for me."
+Cas catches Dean's fingers in his palm, stopping his search. "You don't have to worry about hurting me. I trust you mean well. Why don't you let me meet Sam? Maybe there is something I can do for him, like you did for me."
 
 Dean widens his eyes in surprise and joy. He nods, relief and hope fulfilling his chest. "Yeah, yeah -- Sam would like that, too."
 
@@ -1458,37 +1458,155 @@ Cas's wings are healing, Dean caresses the feathers, awed, love it
 
 even angel/Heaven has given up on these people, ready to destroy these people instead of saving them, but Dean's still trying to change them
 
-### (Chap 8) VIII. Punishment of the City
+### (Chap 8) VIII. The Last Angel
 
 > Cas meet Sam first time, diagnose him, mojo heal him. Sam start thank/appreciate angels too, asks Cas's initial mission 
 >
 > Cas shares the original plan/his order: as soon as his wings recover enough, he'd go back report his experience and the city will be determined whether worth saving, if not then destroyed. Dean worry, Cas promise will save him and Sam, Dean still want to save everyone, Cas irritated a little, they argue slightly, raise voice, afraid of being found (already noticed by John actually), Dean rushes out unhappily, wants to prove to Cas people in Sodom can change/still be saved (want to say Sam is example but not strong enough)
 >
 > (initially Cas stays longer than necessary bc he wants to find more righteous men like Dean, he wants to save the city too, but after all this time, he gets his conclusion)
-
-
-
-<br>
-
-###### [TBA]
-
-#### draft notes
-
-> 
-
-### (Chap 9) IX. The Last Angel
-
-> outside, Dean talks with Sam about God's plan to destroy Sodom as soon as Cas recovers and goes back to report, wants Sam's support to prove people can be changed/saved, Sam is neutral friendly but too reasonable so unsure they still can be saved. The conversation is overheard by John, more determined to kill Cas immediately.
+>
+> Dean, Sam, Cas about God's plan to destroy Sodom as soon as Cas recovers and goes back to report, wants Sam's support to prove people can be changed/saved, Sam is neutral friendly but too reasonable so unsure they still can be saved.
+>
+> The conversation is overheard by John on the outside, more determined to kill Cas immediately.
 >
 > Dean tries to stop John from going to cellar but fails, John confronts Cas, they fight, John uses some Sodom magic/power to overpower still wounded/weak Cas (sth showed in Chap 1), Dean jumps in to protect Cas, get wounded in the fight accidentally (not sure John's or Cas's, likely John's), Sam tries very hard to pull John away but can't
 >
 > Cas distracted by Dean's wound, John severely stabs Cas and almost kills him, threaten to throw him out to let all neighbors know he's here and do what did to him again, Dean first time attacks John, knocks him out. Cas thinks he's dying for sure this time, confesses to Dean, Dean cries, reciprocates, kisses, Cas closes his eyes, grace dimming, Cas last words: "If the city is worth saving, it would be because of you"
 
-
+**Warning before chapter**: Temporary main character death.
 
 <br>
 
-### (Chap 10) X. The Last Righteous Man
+#### Act 1
+
+Dean leads Sam into his room. The young boy is so nervous that he doesn't know where to put his hands.
+
+Castiel greets him gently, holding out a hand. "I'm Castiel, Angel of the Lord," he announces. Dean has a sudden throw-back of the moment they first met. Castiel was so much more solemn and distant at the time.
+
+Sam catches the angel's hand, holding it closely. "Sam, I'm Sam," he eagers.
+
+Cas gives him a smile. "Dean has told me much about you." He takes back his hand, pressing two fingers together, reaching for Sam's forehead. "I'm going to check what is going on with your body."
+
+Sam nods hastily, closing his eyes.
+
+Cas presses his fingers and closes his eyes too. Dean watches a frown slowly forming between his eyebrows.
+
+A glow of silvery light gathers from his body, moving through his fingers, sinking through Sam's skin.
+
+Sam's standing stance slowly straightens, his cheeks flushing healthy pink.
+
+Cas staggers backward two steps, leaning against the bed. Dean reaches out to hold his shoulders in time.
+
+"What's happening? How's it going?" Dean looks between the angel and his brother.
+
+While Sam looks better, Cas looks worse. He grimaces when Dean helps him to sit down at the edge of the bed, he pants heavily. His face looks more pale too.
+
+"How do you feel?" Cas doesn't answer Dean, looking up at Sam and asking him instead.
+
+Sam stretches his arms easily, taking a few long breathes, starting to grin. "I'm feeling great!" he says cheerfully. "I feel... so light. Like there was always something here," he points at his chest, "but now they're gone. I'm breathing okay, I don't feel anything now."
+
+"That's... that's so great." Dean watches him, having a matching tearful smile on his face. He looks back at the angel, "God, I prayed for you for so long, and in the end, it's you, Cas. You're the one who saved him."
+
+He pulls Cas closer, trying to give him a hug. Cas lets out a soft moan under his touch.
+
+Dean freezes again, letting go of his hold slowly. "How are you, Cas?"
+
+Cas leans back, not leaving his touch, so Dean puts his hands back around Cas's back. "Just tired," Cas puts up a faint, sad smile. "I might accidentally have used up most of my grace. I still wasn't as strong as I'd like. But I promised you, Dean, to do as much as I can to help your brother."
+
+"You idiot," Dean scolds him gently. "You want to tap on me again?" He flashes a sheepish glance at Sam when he says that, then the door. Dean blushes slightly.
+
+Cas shakes his head. "I don't want to exhaust you. Soul energy is not unlimited, and it recovers even slower than grace. I should just take some rest and let my grace heal itself."
+
+"Alright," Dean helps him lie down on his bed.
+
+Sam stands awkwardly by the wall, watching them.
+
+There is some sound outside the room, but none of them notices.
+
+"If it's okay," Sam starts slowly, "I have a question."
+
+"Dude, he's tired," Dean throws him an irritated look. "Question can wait to the morning."
+
+"It's okay, Dean." Cas catches his hand that's helping to tuck him in with the throw blankets, turning his face to Sam. "What do you want to know?"
+
+Sam glances between his brother and the angel nervously. "I was just wondering, why do you come to us in the first place? As an angel, why do you come to the city?"
+
+"To inspect the town, right? You said so yourself on the first day," Dean answers for him, then turning to Cas for confirmation.
+
+Cas makes a small nod. "But that's not all. I couldn't tell you the whole truth, but now, I think it's okay for you to know."
+
+Dean frowns slightly. He doesn't quite like how it sounds. "What's the whole truth?" he asks, worried.
+
+"The sinned fame of the City of Sodom and Gomorrah has reached the Heavenly host. We're sent to inspect the city, to see if the rumors were true, and to report back our conclusion. Amos and I reach the city one day apart, so that we can each inspect individually." Castiel tells them.
+
+"Amos... that's the angel before you." Dean murmurs, mournfully. "I think he didn't make it."
+
+Castiel nods sadly. "I didn't realize how severe the situation is. I should have listened to you, but at least, I'm glad I get to know everything in a very deep level and report back accurately."
+
+"What are you going to report? Once you go back?" Sam prompts carefully.
+
+"The Heavenly host is determining if the city is worth saving. And if it's not, then the whole town will be destroyed." Cas answers, shifting his eyes between Dean and Sam. "But now that I learned about the existence of the righteous man and his family, I will let them know that, even though the city is as sinned as the rumor says, there is the righteous man that worth saving. I will make sure the both of you are safe."
+
+"They're going to destroy the whole town?" Dean widens his eyes, worried.
+
+"Everyone except for you and Sam, yes."
+
+"You can't... I don't know, tell them they're still worth saving?" Dean struggles, closing his eyes once in the mid-sentence, but he asks it anyway.
+
+Castiel stares at him, eyes turning colder. "Given my own experience, with everything that has happened," his eyes flashing down at his body that's covered by the cover and his wings that are still weak, as if to remind Dean of all the harms that had occurred, "no, that wouldn't be an honest observation."
+
+"But they're all people! All lives!" Dean raises his voice. "There're women and children in the city, too! Maybe ninety-nine out of a hundred people is sinned, there are still innocent people out there!"
+
+"And that one person is right here, and no more." Cas looks at him in the eyes. "Why do you think I spend three more days in the city, when I could have reported back on the first day?"
+
+Dean is muted and simply stares at him. It didn't occur to him to ask why.
+
+"I witnessed adultery and blasphemy on the first day from everyone except you. And I thought, perhaps you're not the only righteous man in the city, perhaps there're a second one, a third. If I can find ten, the city can be spared. So I stayed and tried, and this is how I end up with. So no, there is no second righteous man. I'm sorry."
+
+"Maybe they can still be changed! People can change!" Dean's voice is bordering on yelling.
+
+"I thought you want them punished too. I thought you wanted to leave the city and never come back." Cas retorts.
+
+"That doesn't mean all of them deserve to die!" Dean rushes, voice trembling. "Come on, Cas. There are thousands of people in the town, you can't really be thinking about destroying all of them!"
+
+"Show me *one* example in the town that changed. You tried for years, telling them what's right and what's wrong, telling them to stop the adultery and start to have faith. Tell me *one* name, Dean, beside yourself and Sam, that changed and listened to you, and I will report back to tell them the city is worth saving." Cas says steadily.
+
+"No --" Dean whines. But he can't give such a name, because there is none.
+
+He turns to Sam for support with teary eyes. "Sam, come on, you're with me, right? Tell him that people can be changed!"
+
+Sam hesitates.
+
+There is another sound outside the door, like footsteps moving. He glances at the door once, then looks back at his brother.
+
+"I don't know," he says reasonably. "I'm sorry. Maybe you're right, but maybe they're beyond saving. You have tried at least ten years, and you're still the only one truly believing, I think that said a lot. I'm just trying to be realistic here."
+
+Dean shakes his head, devastated.
+
+"So... that destroying everything, it will happen after you go back and finish your report?" Sam asks hesitantly.
+
+"Yes," Cas nods slowly. "I'm not able to fly back anymore, but once I'm well enough, once I can gather enough energy to inform one of my brothers and sisters, letting them hear me and pass my words for me. This will start."
+
+"Then I'll make sure you never send out that report!" John breaks open the door and runs in, with a long blade in one hand and carved brass knuckle in the other.
+
+<br>
+
+#### Act 2
+
+
+
+###### [TBA]
+
+#### draft notes
+
+> The conversation is overheard by John on the outside, more determined to kill Cas immediately.
+>
+> Dean tries to stop John from going to cellar but fails, John confronts Cas, they fight, John uses some Sodom magic/power to overpower still wounded/weak Cas (sth showed in Chap 1), Dean jumps in to protect Cas, get wounded in the fight accidentally (not sure John's or Cas's, likely John's), Sam tries very hard to pull John away but can't
+>
+> Cas distracted by Dean's wound, John severely stabs Cas and almost kills him, threaten to throw him out to let all neighbors know he's here and do what did to him again, Dean first time attacks John, knocks him out. Cas thinks he's dying for sure this time, confesses to Dean, Dean cries, reciprocates, kisses, Cas closes his eyes, grace dimming, Cas last words: "If the city is worth saving, it would be because of you"
+
+### (Chap 9) IX. The Last Righteous Man
 
 > Dean desperate, first time pray to God and other angels, thinks Cas doesn't deserve that. Bal answers, says Upstairs (God isn't there, it's Michael in charge) already decides to destroy city (Cas doesn't report back is proof enough), just wait for Dean to leave the city (Michael promised Abraham to save righteous men in the city, actually bc Dean's his vessel)
 >
@@ -1502,7 +1620,7 @@ even angel/Heaven has given up on these people, ready to destroy these people in
 
 <br>
 
-### (Chap 11) XI. Save the Angel
+### (Chap 10) X. Save the Angel
 
 > Bal gets scolded by Michael directly (for forcing Dean lose faith), terrified solemn face, drop joke face, resurrects Cas, mojos him clean, fixes his wings and other unseen tears, murmurs by his ear then disappears
 >
@@ -1514,7 +1632,7 @@ even angel/Heaven has given up on these people, ready to destroy these people in
 
 <br>
 
-### (Chap 12) XII. Save the Righteous Man
+### (Chap 11) XI. Save the Righteous Man
 
 > they can feel the fire heat from the burning cities (more than just Sodom, Gomorrah too, and Admah, Zeboiim), have to force themselves to not turn back to watch, Cas use wing to protect Sam/Dean's eyes. Cas stands there with them. John wakes up, turns to watch, becomes pillar of salt. Dean stares, unsure of how he feels. Sam just stares, Cas watches Dean in silence, as if wait for his orders
 >
@@ -1534,7 +1652,7 @@ even angel/Heaven has given up on these people, ready to destroy these people in
 
 <br>
 
-### (Chap 13) XIII. After the Time
+### (Chap 12) XII. After the Time
 
 > (Four Thousand Years later)
 >
