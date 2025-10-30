@@ -210,7 +210,7 @@ The angel does not know what he is stepping into. The man does. And he tries so,
 
 **Disclaimer:** The writer has no disrespect and, honestly, very limited knowledge of the biblical stories. This story is partially inspired by the biblical story, but mostly just an articulated fanfic story. Apologize in advance if there is any offense to religious readers, and please feel free to close the page if it makes you discomfort. Fair warning: It's a dark story.
 
-Before you read anything, just know that I feel so, so sorry for writing this sick thing. It's horrible, and I don't know why I put all my beloved characters through this. I confess and plead for forgiveness, from characters and readers alike. It's painful and sickening, among everything else. Please, please read the tags and warnings before you move forward. It's disturbing, even to me.
+Before you read anything, just know that I feel so, so sorry for writing this uncomfortable thing. It's heavy, it's heartbroken, it's painful, and I don't know why I put all my beloved characters through this (Maybe for the sweet little Comfort part of the Hurt/Comfort). Know that I cried when I was writing because I could quite literally, physically feel the pain I put them through. I confess and plead for forgiveness, from characters and readers alike. It's painful and troubling, among everything else. Please, <u>**please make sure to read the tags and warnings before you move forward.**</u> It's disturbing, even to me. But it will get better.
 
 And now, if you're sure to proceed, enjoy the darkness.
 
@@ -2142,7 +2142,7 @@ Cas frowns and searches his memory. "I don't forget," he wants to say. But then 
 
 "It doesn't matter." Cas shakes his head, deciding. "We're here now."
 
-*Lucky bastard.* Balthazar thinks, watching them. *Good luck this round.* And he flies away.
+*Lucky bastards.* Balthazar thinks, watching them. *Good luck this round.* And he flies away.
 
 <br>
 
