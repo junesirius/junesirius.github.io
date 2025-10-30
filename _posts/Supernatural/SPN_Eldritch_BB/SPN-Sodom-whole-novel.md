@@ -1474,7 +1474,7 @@ even angel/Heaven has given up on these people, ready to destroy these people in
 >
 > Cas distracted by Dean's wound, John severely stabs Cas and almost kills him, threaten to throw him out to let all neighbors know he's here and do what did to him again, Dean first time attacks John, knocks him out. Cas thinks he's dying for sure this time, confesses to Dean, Dean cries, reciprocates, kisses, Cas closes his eyes, grace dimming, Cas last words: "If the city is worth saving, it would be because of you"
 
-**Warning before chapter**: Temporary main character death.
+**Warning before chapter**: Graphic depictions of violence, temporary main character death.
 
 <br>
 
@@ -1588,23 +1588,75 @@ Dean shakes his head, devastated.
 
 "Yes," Cas nods slowly. "I'm not able to fly back anymore, but once I'm well enough, once I can gather enough energy to inform one of my brothers and sisters, letting them hear me and pass my words for me. This will start."
 
-"Then I'll make sure you never send out that report!" John breaks open the door and runs in, with a long blade in one hand and carved brass knuckle in the other.
+"Then I'll make sure you never send out that report!" John breaks open the door and runs in, with a long blade in one hand and a carved brass knuckle in the other.
 
 <br>
 
 #### Act 2
 
+"John." Castiel struggles to pull himself up from the bed, his face glum.
 
+"No!" Dean stands next to the bed, between the angel and his father. He has not forgotten the last time the two of them are in the same room. He will not let that happen again, whatever happened to him.
 
-###### [TBA]
+"Dad, don't do this!" Sam goes to pull his father's arm, trying to drag him away.
+
+"Sam, Dean, get out." John orders. His eyes are murderous. "I don't want either of you get hurt. So get out. This is only for the angel. I heard everything."
+
+"Then you know everything I have to report is exactly because of man like you." Castiel answers icily, pressing a palm at his chest, panting at the effort. He drags himself straight, leaning against the headboard. Dean has an arm wrapped across his chest, as if this should be an armor enough to shield him against John.
+
+"It doesn't matter, because you wouldn't be reporting anything back," John twists the blade in his hand, turning it from upward to downward. He strides into the room.
+
+Dean covers Cas with his whole body. "You'll have to kill me first," he announces boldly.
+
+"What kind of brainwash did the angel give you?" John growls, shoving him with the hand bearing the brass knuckle. The edge of the metal scratches across his shoulder, leaving a long trace of abrade.
+
+Dean hisses, but doesn't move. "The same kind that I always have -- Faith."
+
+"Dean," Cas warns him, voice strained. His hand push on Dean's back feebly. "He might actually kill you."
+
+"I don't care!" Dean bites, without looking back. "Shut up and let me save you!" His voice shaking violently.
+
+"I'm doing this to save the whole town," John swings the knuckle again, leaving a long bruise below his chin. Dean thinks he hears his jaw breaking.
+
+"You talk about saving people but now letting this angel condemn the whole town. You're not the hero here, I am." John snaps, punching Dean again. "Don't ever say I don't know what's sacrifice. I'm willing to sacrifice you to save the whole town!"
+
+Dean looses his fist, letting himself beaten by his father. His body limps, being thrown in all directions that John hits him. He lands on top of the blanket. Blood drips from the corner of his mouth, staining the bed and the angel lying there.
+
+"Stop!" Castiel yells, devastated. He folds his wounded wings around, trying desperately to cover Dean. "John! Stop! Kill me and spare him! He's your son!"
+
+"Cas, don't!" Sam yells, throwing himself toward them, but John pushes him aside easily.
+
+"No --" Dean whispers, his eyes can barely keep open from the bruises and swollen eyelids. Knuckle-shaped cuts spread nastily on his young face.
+
+Castiel spreads his wings and tucks Dean behind, exposing himself to John.
+
+"They will know," Castiel looks at the man, the rage in there has switched to pity and despise. "I don't survive this, others will come. Men like you, will never survive to the new era. I pity you, John, for you can't see the Plan and the glory, but your son can."
+
+John grits his teeth and waves the blade. "Shut up, angel, and just die."
+
+He buries the blade into Castiel's chest.
+
+The light inside the angel starts burning bright, flashing on and off as it's torn apart. His eyes start losing focus. High-pitched sound starts echoing in the room. His folded wings loosens.
+
+Dean struggles desperately to cup his hands on Cas's cheeks, holding his face between his palms.
+
+"No no no no no -- Cas, don't! Please! Don't leave me! Don't!" He cries, screaming. He kisses the angel's slacking lips, licking and sucking. "Use my soul! Cas, come on! Use my soul! I love you!"
+
+Cas's lips curl up a small degree at his words. His eyes refocus on Dean's face, smiling tiredly. "I love you, too." his voice broken and croaked, mixed in the shrieking sound surrounding them.
+
+"If the city is worth saving, --" he says quietly, slowly, one word at a time. Dean leans on his body to capture each syllable. Cas's lips move right next to his ears. "-- it would be because of you."
+
+The flashing light explodes.
+
+When it dies down, all that remains before their eyes, is a lifeless body with two burned wings behind its back. The charred marks scorched into the headboard and the wall behind them.
+
+Dean cradles the angel's body in his arms, crying with broken pieces of his soul falling in his tears.
+
+<br>
 
 #### draft notes
 
-> The conversation is overheard by John on the outside, more determined to kill Cas immediately.
->
-> Dean tries to stop John from going to cellar but fails, John confronts Cas, they fight, John uses some Sodom magic/power to overpower still wounded/weak Cas (sth showed in Chap 1), Dean jumps in to protect Cas, get wounded in the fight accidentally (not sure John's or Cas's, likely John's), Sam tries very hard to pull John away but can't
->
-> Cas distracted by Dean's wound, John severely stabs Cas and almost kills him, threaten to throw him out to let all neighbors know he's here and do what did to him again, Dean first time attacks John, knocks him out. Cas thinks he's dying for sure this time, confesses to Dean, Dean cries, reciprocates, kisses, Cas closes his eyes, grace dimming, Cas last words: "If the city is worth saving, it would be because of you"
+John threatens to throw him out to let all neighbors know he's here and do what did to him again
 
 ### (Chap 9) IX. The Last Righteous Man
 
@@ -1619,6 +1671,12 @@ Dean shakes his head, devastated.
 
 
 <br>
+
+[TBA]
+
+#### draft notes
+
+> Dean first time attacks John, knocks him out
 
 ### (Chap 10) X. Save the Angel
 
