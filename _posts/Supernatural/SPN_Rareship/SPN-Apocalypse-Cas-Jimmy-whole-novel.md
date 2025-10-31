@@ -11,8 +11,6 @@ long_novels: 【SPN】Evernight
 published: false
 ---
 
-[TOC]
-
 Pairing: Castiel/Jimmy Novak (Apocalypse!Castiel/Apocalypse!Jimmy Novak)
 
 Tags: Canon Divergent, Canon Compliant, Apocalypse World, Angel Possession, Vessel Consent Issues, Hurt No Comfort, Not Happy Ending, Dark, Dead Dove Warning, background Jimmy/Amelia Novak
@@ -21,13 +19,13 @@ Warnings: Graphic Depictions of Violence, Major Character Death
 
 Rating: Teen and up (for the darkness)
 
-# Draft
+[TOC]
 
-(Jimmy POV)
+## Draft
 
-## Idea
+### Idea
 
-### Raw inspiration
+#### Raw inspiration
 
 (quoted, not original)
 
@@ -63,7 +61,7 @@ Castiel把Claire带到了战区外的荒林里，重新转移到Jimmy身上。�
 
 最后一点意识是在虚无里，Jimmy在漫无边际的黑暗中行走，感觉不到疼痛也感觉不到任何情绪，或者说是被各种负面情绪压垮已经麻木到一种程度……走到某处他提到了一个睡在地上的人，这个人与他面容相同，胸口插着那把杀死他们的angel blade。Castiel半睁着眼睛看他，随后又无言地往上看去——Jimmy在他身边坐下抬头观望，灵魂的光点在无边无际的黑暗上方坠落，天堂和地狱早就在战争中摧毁，无处可去的灵魂尽数归于虚无。等Jimmy回过神时虚无的触手已经覆盖了他半身，而在他被黏腻阴沉的黑暗覆盖之前他往旁边看去，Castiel已经彻底沉没，不知所踪了。
 
-### Idea translated
+#### Idea translated
 
 Apocalypse world, the difficult and pain and struggle between Castiel and Jimmy
 
@@ -111,7 +109,7 @@ Jimmy sits down beside him, looking up at the falling souls from the bottomless 
 
 By the time Jimmy looks back down, the tentacles of the Empty already covers half his body. And when he looks beside him, there is nothing and no one left. Swallowed by the Empty, Castiel is long gone.
 
-## Outline
+### Outline
 
 (Apocalypse world, the pain and struggle between Castiel and Jimmy)
 
@@ -165,9 +163,9 @@ Jimmy sits down beside him, looking up at the falling souls from the bottomless 
 
 By the time Jimmy looks back down, the tentacles of the Empty already covers half his body. And when he looks beside him, there is nothing and no one left. Swallowed by the Empty, Castiel is long gone.
 
-## Claim
+### Claim
 
-### Claim Summary
+#### Claim Summary
 
 Canon divergent/compliant, apocalypse world. The pain and struggle between Apocalypse!Castiel and Jimmy.
 
@@ -181,7 +179,7 @@ Castiel comes back as Claire and saves him from other angels, because he should 
 
 In the end, they run into the canon!Cas and get killed together. Apocalypse world no longer has Heaven and Hell, so they both end up in the Empty, and get lost and fall into sleep in Empty for eternity.
 
-### Visual Elements
+#### Visual Elements
 
 Apocalypse!Castiel (in Jimmy's vessel) looks at a mirror, and Jimmy looks back, they talk like that. Jimmy is trying to take back control. (Similar to canon Lucifer in Sam's vessel looks at a mirror to talk to Sam when Sam is trying to take back control)
 
@@ -189,25 +187,73 @@ Apocalypse!Castiel (in Claire's vessel) wears ragged clothes, in a room, with Ji
 
 Apocalypse!Castiel being killed by canon!Cas.
 
-## Posting
+### Posting
 
-### Summary
+#### Summary
 
-### Excerpt
+Castiel is different from what he thought. He's so much worse. But Jimmy realizes it too late.
 
-## Arts
+The Apocalypse has already started. Jimmy struggles hard to fight against the angel from inside to get free, but Castiel is so much stronger and punishes him for his disobedience. There is nothing but pain left for him.
 
-### Banner
+It's a war that no one wins.
 
-### Art
+It's a world without hope.
 
-## Editing Notes
+#### Excerpt
 
-When posting: Posting all acts together in one AO3 chapter; split/separation line between beginning/ending quotes and main story, and between acts
+When he opens his eyes, the sky over his head opens, and a heavenly bright light dawns over his head. Jimmy starts, looking up at the light, but it's so bright that his eyes are hurting with a rising heat at the back of the sockets. He has to shut his eyes tight, panicking over what is happening.
 
-# Main
+The high-pitched voice sounds up right then, answering him, "Do you give yourself to the angels?" The voice is as if it comes from the sky and from the deepest of his brain at the same time. His eardrums vibrate with the pitch, ringing with echoes even when the voice is not speaking, threatening to break but miraculously not.
 
-## Act 1
+Jimmy knows it must be the angels. The angels are real. He knows it. He knows it all along.
+
+"What does that mean?" he has to ask. He thinks about the lamb and the sacrifice from the Book. But surely he is plain enough not to be asked to be that, isn't he?
+
+"The apocalypse is coming," the angel answers. "The army of Michael will fight the army of Lucifer, the Devil."
+
+"Revelation 12:7," Jimmy murmurs, knowing every line to the heart.
+
+"More like 20:7," the angel says plainly. "The thousand years are over, and Lucifer will be released from his prison. What happened a thousand years ago will happen again. War will break out again, and this time, when Heaven wins, the Devil will be thrown into the lake of burning sulfur to be tormented forever."
+
+Jimmy takes a slow breath, digesting. It is one thing to believe the angels are real, that Heaven and Hell exist, but completely another to realize it's *literal*, that the war and therefore probably the wrath of the Lord might *actually* land on Earth. Let alone he's talking to one at the moment. He rubs his eyes and glances up again. The light from the sky is still over his head, enveloping him and him alone in the pale yard in front of his house.
+
+"Which angel are you?" Jimmy asks tentatively, then hurriedly adds timidly, "if I may ask."
+
+"Castiel, Angel of the Lord," the angel says. The voice is growing lower and more rapid, as if he is getting impatient. Jimmy flinches at the solemnness in the pitch.
+
+"Will you give yourself up to me, Jimmy Novak? I need a vessel to fight the war. You will play a part in this war," the voice presses.
+
+Jimmy thinks for a beat, but he dares not to let the angel in the light wait for too long. But there is just one more question, "Why me?"
+
+"It is in your blood," Castiel says briefly.
+
+*What does that mean?* Jimmy thinks, but doesn't ask this time. The angel will let him know what he needs to know, and this is for the best for the world, right? At the end of the day, they're talking about Revelation, about Heaven's victory, about the New Heaven and a New Earth, if all is to be believed from the Book.
+
+He closes his eyes briefly, and finds the image of the Holy City comes back to him. It is what will happen if he does this, he realizes -- the city shining with the glory of God, brilliant like a jasper, clear as crystal and glass; the city so bright and full of light that no sun or moon is needed, and it has no night. When Heaven wins the war against the Devil, it will be paradise on Earth -- everyone will be peaceful and happy. He believes it -- no, he knows it. He doesn't question where the vision comes from.
+
+"I do this, my family, will they be safe and granted to the new world once it all finishes?" Jimmy gathers his courage to ask one last question.
+
+"Yes," Castiel says without pause.
+
+"Then, yes." Jimmy faces the direction of the light, closing his eyes.
+
+### Arts
+
+#### Banner
+
+#### Art
+
+### Editing Notes
+
+When posting: Posting all acts together in one AO3 chapter; split/separation line between beginning/ending quotes and main story, and between acts (← pending, maybe still better to split shorter)
+
+Because it's Apocalypse!Castiel, always uses "Castiel" instead of "Cas" in the whole story (except for near ending Act 7 when it's canon Cas, but maybe also use "Castiel" because Jimmy doesn't bond with him, and canon!Jimmy isn't there). Search all text to check and make sure, in case of miss-typing)
+
+## Main
+
+(Jimmy POV)
+
+### Act 1
 
 > Jimmy is a devout man, praying for angels to protect his family, praying for a peaceful world. Then Apocalypse starts, and Castiel comes to him, he says yes. Castiel goes to Hell for a mission, but not to save the righteous man, it's to kill Lilith and open the Cage himself, to let Lucifer out (he's the one started Apocalypse on Michael's order; the righteous man who broke the first seal is John Winchester, Mary never made deal to save him, he's in Hell all the time).
 
@@ -220,9 +266,9 @@ When posting: Posting all acts together in one AO3 chapter; split/separation lin
 <p style="text-align:right"><i>-- Revelation 21</i></p>
 
 <br>
-
 <hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
 <br>
+
 Jimmy wakes up slowly, blinking in the thin light of the early morning, pale grey through the curtain of the room. The blazing image of the new Jerusalem is still shining in the lingering memory behind his eyelids. He tries hard to remember the details of the holy city, the light and shiny reflections of its walls and ground, the place that doesn't need sun or moon to shine on it, the place with all light and no night -- but the dream slips through his mind like water through open fingers.
 
 He turns on the bed, and finds his hand rested on the Bible on his bed stand. It must be where the dream comes from, then. He thinks distantly. With all these years of praying and believing, for once, he is granted a vision. However brief, it must be a sign, a reward, to allow him to have a glimpse of the great glory after the ending.
@@ -243,9 +289,9 @@ The news from yesterday also said Detroit has seen a panic wave from city people
 
 He demands his wandering thought come back to the moment, to the sky and angel, to the bright light in the dream. He adds to the prayer, *May the world a peaceful place to live, and may my family safe. Amen.*
 
-When he opens his eyes, the sky over his head opens, and a heavenly bright light dawning down over his head. Jimmy starts, looking up at the light, but it's so bright that his eyes are are hurting with a rising heat at the back of the socket. He has to shut his eyes tight, panicking over what is happening.
+When he opens his eyes, the sky over his head opens, and a heavenly bright light dawns over his head. Jimmy starts, looking up at the light, but it's so bright that his eyes are hurting with a rising heat at the back of the sockets. He has to shut his eyes tight, panicking over what is happening.
 
-The high-pitched voice sounds up right then, answering him, "Do you give yourself to the angels?" The voice is as if it comes from the sky, and comes from the deepest of his brain in the same time. His eardrums vibrate with the pitch, ringing with echoes even when the voice is not speaking, threatening to break but miraculously not.
+The high-pitched voice sounds up right then, answering him, "Do you give yourself to the angels?" The voice is as if it comes from the sky and from the deepest of his brain at the same time. His eardrums vibrate with the pitch, ringing with echoes even when the voice is not speaking, threatening to break but miraculously not.
 
 Jimmy knows it must be the angels. The angels are real. He knows it. He knows it all along.
 
@@ -255,21 +301,23 @@ Jimmy knows it must be the angels. The angels are real. He knows it. He knows it
 
 "Revelation 12:7," Jimmy murmurs, knowing every line to the heart.
 
-"More like 20:7," the angel says plainly. "The thousand years is over and Lucifer will be released from his prison. What happened thousand years ago will happen again. War will break out again, and this time, when the Heaven wins, the Devil will be thrown into the lake of burning sulfur to be tormented forever."
+"More like 20:7," the angel says plainly. "The thousand years are over, and Lucifer will be released from his prison. What happened a thousand years ago will happen again. War will break out again, and this time, when Heaven wins, the Devil will be thrown into the lake of burning sulfur to be tormented forever."
 
-Jimmy takes slow breath, digesting. It is one thing to believe the angels are real, that Heaven and Hell exist, but completely another to realize it's *literal*, that the war and therefore probably the wrath of the Lord might *actually* land on Earth. Let alone he's talking to one at the moment. He rubs his eyes and glances up again. The light from the sky is still over his head, enveloping him and him alone in the pale yard in front of his house.
+Jimmy takes a slow breath, digesting. It is one thing to believe the angels are real, that Heaven and Hell exist, but completely another to realize it's *literal*, that the war and therefore probably the wrath of the Lord might *actually* land on Earth. Let alone he's talking to one at the moment. He rubs his eyes and glances up again. The light from the sky is still over his head, enveloping him and him alone in the pale yard in front of his house.
 
-"Which angel are you?" Jimmy asks tentatively, then hurriedly add timidly, "if I may."
+"Which angel are you?" Jimmy asks tentatively, then hurriedly adds timidly, "if I may ask."
 
-"Castiel, Angel of the Lord," the angel says. The voice is growing lower and more rapid, as if he is getting impatient. Jimmy flinches at the solemnness in the pitch. "Will you give yourself up to me, Jimmy Novak? I need a vessel to fight the war. You will play a part in this war."
+"Castiel, Angel of the Lord," the angel says. The voice is growing lower and more rapid, as if he is getting impatient. Jimmy flinches at the solemnness in the pitch.
+
+"Will you give yourself up to me, Jimmy Novak? I need a vessel to fight the war. You will play a part in this war," the voice presses.
 
 Jimmy thinks for a beat, but he dares not to let the angel in the light wait for too long. But there is just one more question, "Why me?"
 
 "It is in your blood," Castiel says briefly.
 
-*What do that mean?* Jimmy thinks, but doesn't ask this time. The angel will let him know what he needs to know, and this is for the best for the world, right? At the end of the day, they're talking about Revelation, about Heaven's victory, about the New Heaven and a New Earth, if all is to be believed from the Book.
+*What does that mean?* Jimmy thinks, but doesn't ask this time. The angel will let him know what he needs to know, and this is for the best for the world, right? At the end of the day, they're talking about Revelation, about Heaven's victory, about the New Heaven and a New Earth, if all is to be believed from the Book.
 
-He closes his eyes briefly, and finds the image of the Holy City comes back to him. It is what will happen if he does this, he realizes -- the city shining with the glory of God, brilliant like a jasper, clear as crystal and glass; the city so bright and full of light that no sun or moon is needed and it has no night. When Heaven wins the war against the Devil, it will be paradise on Earth -- everyone will be peaceful and happy. He believes it -- no, he knows it. He doesn't question where the vision comes from.
+He closes his eyes briefly, and finds the image of the Holy City comes back to him. It is what will happen if he does this, he realizes -- the city shining with the glory of God, brilliant like a jasper, clear as crystal and glass; the city so bright and full of light that no sun or moon is needed, and it has no night. When Heaven wins the war against the Devil, it will be paradise on Earth -- everyone will be peaceful and happy. He believes it -- no, he knows it. He doesn't question where the vision comes from.
 
 "I do this, my family, will they be safe and granted to the new world once it all finishes?" Jimmy gathers his courage to ask one last question.
 
@@ -533,7 +581,7 @@ That is when Jimmy closes his eyes, not wanting to see anything anymore. The Dev
 
 <br>
 
-### draft notes
+#### draft notes
 
 Effect that Winchesters are never there (= S02E20):
 
@@ -547,7 +595,7 @@ Effect that Winchesters are never there (= S02E20):
 >
 > Girl drowns in hotel pool; Mother devastated after discovering daughter drowned
 
-## Act 2
+### Act 2
 
 > Castiel leads the army to war, fight demons and sometimes humans if they're on his way, torture them for information, it's everything against what Jimmy wants. Their consciousness doesn't align, it causes Jimmy's nerve great pain. He begs Castiel to protect his wife and daughter, but Castiel doesn't care about humans, only focusing on the war. (Castiel hurts one of his eyes angelically)
 >
@@ -759,7 +807,7 @@ He's trying it again when Castiel and his army runs into a group of human led by
 
 <br>
 
-### draft notes
+#### draft notes
 
 > The old man is Bobby. Bobby is the one who permanently hurt one of Castiel's eyes in angelic way (using the angel-killing bullet), leaving it a white foggy color forever. Bobby tries to revenge for his son (but he never finds his body). Castiel barely lives during their encounter but manages to escape (leaves many of his troop to die/cover for him).
 
@@ -779,7 +827,7 @@ Castiel's blind eye is because Bobby shoots him, when revenging for his son
 
 ###### [TBC]
 
-## Act 3
+### Act 3
 
 > Jimmy thinks he's free, but his body is already ruined by angel grace. He can barely walk or run, he has pain all over his body. He's found by other angels on his way of escaping from angel camp.
 >
@@ -789,7 +837,7 @@ Castiel's blind eye is because Bobby shoots him, when revenging for his son
 
 <br>
 
-## Act 4
+### Act 4
 
 > It's supposed to be just *normal* torture, but when the angels start talking about breaking his brain so that the only thing he can think about is saying "yes", Castiel come back. He come back in Claire. He looks at Jimmy, and casts all those who tortured him out. Because he's still *his* vessel, they don't get to make decisions for him.
 >
@@ -807,11 +855,11 @@ Castiel's blind eye is because Bobby shoots him, when revenging for his son
 
 <br>
 
-### draft notes
+#### draft notes
 
 **Visual NOTE**: Castiel in Claire's vessel wears ragged clothes, in the room, with Jimmy, who is bloody and wounded
 
-## Act 5
+### Act 5
 
 > A sleepless night.
 >
@@ -819,11 +867,11 @@ Castiel's blind eye is because Bobby shoots him, when revenging for his son
 >
 > Castiel doesn't want to use a young girl's body anyway. He brings Claire to the wild woods far from the hot zone --but it's just a zone they haven't spread to yet. It's just a matter of time.
 >
-> When he comes inside Jimmy, Jimmy thinks vaguely, his nerbe does stop aching. Because he can't feel anything at all anymore.
+> When he comes inside Jimmy, Jimmy thinks vaguely, his nerve does stop aching. Because he can't feel anything at all anymore.
 
 <br>
 
-## Act 6
+### Act 6
 
 > It's like a deep sleep. He startles awake sometimes, by the faint pain in his brain and his nerves. He sees himself in impossible situations, in the middle of war. His body is torn apart, half his head is blown away by explosions. He'll die a hundred times as a human, but it seems only to be half a second de-sync angel's grace with his consciousness.
 >
@@ -833,13 +881,39 @@ Castiel's blind eye is because Bobby shoots him, when revenging for his son
 
 <br>
 
-## Act 7
+#### draft notes
+
+could add a scene showing Michael/Lucifer fight, Castiel is there too
+
+Castiel is captured/tortured by Lucifer.
+
+Lucifer to Castiel: "You should be on my side. I haven't thanked you "
+
+Castiel: "I'm on Heaven's side."
+
+Lucifer: "Remind me what's the difference between Heaven and Hell now? They all look the same to me now."
+
+Castiel: "I follow Michael's order, not yours."
+
+Lucifer (sarcastically): "Because my brother is so much better than me."
+
+continues to torture, Castiel/Jimmy painful together, both hurt really bad
+
+but it turns out to be just a distraction, Castiel is buying Michael time, distracting Lucifer
+
+then Michael arrives and kills Lucifer. Jimmy thought the Apocalypse should have ended with Devil gone, but when Castiel asks for Michael's new order, nothing changes. The war continues. Michael says there are more demons/angels/humans that followed Lucifer that need to be cleaned up. They're purging everything.
+
+Jimmy realizes Lucifer has a point, it really makes no difference if Heaven or Hell wins. The world is in ruin. This will never stop until everyone is killed. He'll never see his daughter again. There's no Heaven left anywhere, no hope for anything turning better.
+
+Jimmy's completely hopeless now.
+
+### Act 7
 
 > The last time Jimmy wakes up, is when Castiel is dying. Jimmy doesn't know where they are, but his mind comes clearer as Castiel's getting fainter. He feels pain, but not only in his mind, not only in his nerves. He feels the burning from angel's grace, the incineration of angel's grace combusting his body, his organs, his eyes and his brain. But before he dies, he sees the angel in a tan trench coat -- the one wearing the same face as his, it's "Castiel" killing him, killing them. But maybe, he has already died long before that.
 
 <br>
 
-### draft notes
+#### draft notes
 
 > He goes to get into the humvee, but as he tries to climb into the cab, he is pulled out by Cas. Cas slams him into the side of the vehicle, punches him in the face and then holds his angel blade to his throat. he sees that Cas is his double.
 >
@@ -857,7 +931,9 @@ Castiel's blind eye is because Bobby shoots him, when revenging for his son
 >
 > Cas stabs him with the angel blade. He screams and then dies with bluish-white light coming from his eyes and mouth. His body falls to the ground.
 
-## Act 8
+Jimmy can see canon!Castiel's vessel is empty, doesn't have canon!Jimmy, knows the canon!Jimmy is dead too. He wonders if that Jimmy suffered. He thinks maybe the angel from all the worlds are the same, after all.
+
+### Act 8
 
 > The last consciousness of his drifts in the Empty. Jimmy wanders in the endless blackness, not feeling any pain, not any feelings, really. The numbness covers him, carries him.
 >
