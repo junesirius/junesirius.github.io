@@ -3191,11 +3191,11 @@ something something, S5 rewrite, still manage to put Lucifer to cage (with Sam i
 
 (there was a similar fic, high kudo, fanfav, demon Dean+angel Cas S4/5 rewrite save the apocalypse, well-written, title?)
 
-### 287.【destiel】在索多玛蛾摩拉受折磨的天使（R级）【WIP】
+### ~~287.【destiel】在索多玛蛾摩拉受折磨的天使（R级）【done】~~
 
 (inspired by 《[Clipped and Unbound](https://archiveofourown.org/works/1567589)》slaved angel world + ND_Tardis的《[罪恶之城](https://archiveofourown.org/works/19430962)》)
 
-canon-divergent, rape/non-con?, graphic depiction of violence
+canon-divergent, rape/non-con, graphic depiction of violence
 
 It's a city of blasphemy. When angels arrive, the humans here have ways to enslave and torture them. Cas comes with order to punish them, end up being enslaved, torn and violated, locked down, distained. Dean is Rod in this story, citizen of Sodom and Gomorrah, despise what his neighbors do to the angels, still have awe and faith for angels. Found Cas locked in his neighbor/father's cellar, quietly secretly try to help him, release him and help him heal himself. Cas has PTSD now and guarded against all humans, (almost/already?) hurt Dean (by accident), Dean doesn't complain, Cas feel guilty. Dean's father comes back find out, more pissed at Cas, torture/punish him more (Cas thinks he deserve this one, doesn't protest like he usually would), Dean heartbroken, thinking Cas is hurt more because of him, self-blame. John almost/want to kill Cas, Dean plead not to, has to make argument saying he should be the one to handle Cas since he's hurt by the angel, John agrees, leave him be. Cas actually thinks Dean is going to punish/torture/hurt/kill him, still doesn't protest and thinks he deserve it.
 
