@@ -4985,6 +4985,28 @@ Everything is gonna happen all over again. Sam will come back from Hell at some 
 
 (quick thought: EK is really the Chuck/God of the universe and very dark; the very original draft of pilot is also super dark, see prompt 329)
 
+### 412.5【all】EK's S5 ending but Cas is the new black shadow that feeds blood to Dean's daughter
+
+(inspired by EK's original S5 dark ending)
+
+immediately after S05E22 Swan Song but Cas is not resurrected so quick, not coming back to Dean, Dean believes Cas is dead and Sam is gone, goes back to marry Lisa and has Samantha. S01E01 repeats, his house on fire, Lisa on the ceiling, but when Dean rushes into the nursery to save his daughter and runs into the black shadow that's feeding blood to his daughter, the shadow has white-blue eyes and he recognizes it's Cas.
+
+(what then? why would Cas do that? is Cas good/bad?)
+
+Maybe initially the story starts with renewed Cas, Cas is resurrected but with brainwash, or made into a bad version of him, doesn't remember anything. Cas might believe Apocalypse needs to happen again, and Dean's bloodline will be the new leader of Heaven (but not Dean himself). Samantha is the new Heaven-side's leader's sword/vessel (Michael is in Cage, do they save him or get another leader?)
+
+Samantha has Cas's angel blood in her, so she will officially be half-angel, with half of Cas's and Dean's heritage, so she's officially like Dean and Cas's daughter.
+
+Dean will have to save daughter + save/wake Cas + save Sam + stop another Apocalypse
+
+Samantha is kinda like a new Jack (emotionally, functionally)
+
+Samantha will be the key to save this Apocalypse and save everyone (and sacrifice herself?)
+
+If Dean can only choose one between his daughter and Cas, who will he choose?
+
+Ben is probably also involved here somewhere, becoming hunter, being there for his little sister. Maybe even turns out Ben is actually really Dean's biological son. (It's the only logical answer, Lisa lied ← head canon)
+
 ### 413.【all】case fic: Impala is the villain of the episode
 
 (completely come from EK's idea from the same podcase episode as above)
@@ -5023,4 +5045,26 @@ Then somehow maybe they find a way to put ghost-Cas back into his body so he's a
 
 (≈ prompt 239)
 
-### 415.
+### 415.【destiel】Dean likes a song and realizes the song is actually about bisexual
+
+(inspired by Rob/Rich's podcast *Kings of Con* 02/10/2021 with Paul Fitzgerald)
+
+Paul Fitzgerald played part of a new song about twilight "Sweet Twilight", and it's metaphor for bisexual, because twilight is the transition between day and night, the benefit of two, so is bi
+
+imagine Dean falls in love with this song, and later finds out/gets reminded by others that this song is actually about bisexual, what would he do? embarrassed? might as well come out as bi? freak out for a bit but then realizes it's true and faces his true self?
+
+or maybe it's Cas likes the song? the song style might actually be more Cas than Dean. maybe Cas knows it before hearing the song or after, but anyway he likes it, and maybe he starts playing it around Dean, maybe as a hint, maybe it's an AU, then go back to Dean's self-discovery and bi-realization and coming out
+
+always lead to them realizing their feelings for each other and get together
+
+### 416.【Cas】Cas's mother figure
+
+Cas-centered
+
+Cas never knows how it feels to have a mother, because he never had one
+
+he's sorta adopted by Ellen/Mary/Jody (all of Dean's mother figure), how he's like when interacting with those mother figures?
+
+How to canonically give Cas a mom? → comedically: Chuck can marry Becky Rosen, then it technically will make Becky Cas's mom (super weird, maybe can make it some kind of comedy short story?)
+
+### 417.
