@@ -11,7 +11,7 @@ long_novels: 【Destiel】Angel Black Death
 published: false
 ---
 
-**Tags:** Canon Divergent, Post-S11 Finale, S12 Rewrite, Temporary Main Character Death, Main Character Near Death Experience, Graphic Depictions of Disease Symptoms, Grace-Soul Bonding, ~~Love is the Ultimate Cure~~, Team Free Will, Profound Bond, Eventual Happy Ending, Minor Michael/Lucifer, Emotionally Repressed Dean Winchester, Supportive Sam Winchester, Angst, Mutual Pining, Self-Sacrifice, Ellen is Super Cool, Charlie Meets Ash, Everyone Saves the World Together, Team Work, Winchester Whole Family Reunion, The Roadhouse Reunion, Humans and Ghosts Fight Archangels and Demons, DCBB 2025
+**Tags:** Canon Divergent, Post-S11 Finale, S12 Rewrite, Temporary Main Character Death, Main Character Near Death Experience, Graphic Depictions of Disease Symptoms, Grace-Soul Bonding, ~~Love is the Ultimate Cure~~, Team Free Will, Profound Bond, Eventual Happy Ending, Minor Michael/Lucifer, Emotionally Repressed Dean Winchester, Supportive Sam Winchester, Angst, Mutual Pining, Self-Sacrifice, Ellen is Super Cool, Charlie Meets Ash, Everyone Saves the World Together, Team Work, Winchester Whole Family Reunion, The Roadhouse Reunion, Humans and Ghosts Fight Archangels and Demons, Carin, DCBB 2025
 
 **Warnings:** Graphic Depictions of Violence, Temporary Main Character Death, Graphic Depictions of Illness
 
