@@ -10,7 +10,7 @@ origin: 2025 SPN Angels & Demons Bang
 long_novels: 【Destiel】Heaven Sent, Hell Bent
 ---
 
-Tags: Canon Divergent, pre-S04E01, demon!Dean, Dean in Hell, Angst, Amnesia, Get Together, Slow Burn, Hurt/Comfort, Castiel's Wings, Eventual Hopeful Ending
+Tags: Canon Divergent, pre-S04E01, demon!Dean, Dean in Hell, Angst, Amnesia, Get Together, Hurt/Comfort, Castiel's Wings, Eventual Hopeful Ending
 
 Warnings: Graphic Depictions of Violence
 
@@ -262,7 +262,7 @@ Dean huffs a laugh, telling him, "This is exactly where I belong." He doesn't un
 
 Dean cuts his hands instead, slicing a shadow line through the palms and all the way to the upper arms, watching small drops of blood forming and seeping from the cut. He rests the surgery blade on the wrist where the man's pulse is beating fast underneath the skin like a panicking rabbit, threatening to cut through it.
 
-"Please, Dean, I don't want to hurt you. I just want to save you." The man is still saying.
+"Please, Dean, I don't want to hurt you. I just want to save you." The man is still repeating.
 
 "Quiet!" Dean snaps, "Or I might cut off your hands and feet!"
 
@@ -412,7 +412,7 @@ Dean is more than happy to see him and show off his achievement. "Master, I fina
 
 Alastair bursts out a huge wave of laughter. "You lobotomized *him*?"
 
-Dean blinks, unsure if he's being mocked or affirmed. He answers, feeling a little dumb. "Yes, Master. I thought it's the right thing to do. And now I want to study him more, so I took him as my student, teaching him what I learned from you, Master."
+Dean blinks, unsure if he's being mocked or affirmed. He answers, feeling a little dumb. "Yes, Master. I thought it's the right thing to do. And now I want to study him more, so I took him as my student, teaching him what I learned from you."
 
 He glances at Cas again, seeing him tilt his heads, shifting his eyes between his master and him. Dean doesn't have time to wonder what might be going through Cas's head.
 
@@ -460,41 +460,43 @@ Cas takes another step, his back pressing onto Dean's. No more room for him to h
 
 Dean sees the frantic but also still a tad blank look in his eyes.
 
-*I'm Castiel. I'm an Angel of the Lord.* He was so much more fierce and determined when he first barged in.
+*I'm Castiel. I'm an Angel of the Lord.* He was so much more fierce and determined when he first barged in, until Dean made him different.
 
-*I don't want to hurt you. I'm here to save you.* He raised his blade, but instead of stabbing toward Dean, he merely used it for defense.
+*I don't want to hurt you. I'm here to save you.* He raised his blade, but instead of stabbing toward Dean, he merely used it for defense. He could have escaped, or at least protect himself, but for Dean, this is what he's become.
 
-*We have order to bring you out of Hell, but you have to be willing to leave with us -- with me. Please, come with me.* That's about when Dean tied him up and cut him open, making him forget even his own name.
+*We have order to bring you out of Hell, but you have to be willing to leave with us -- with me. Please, come with me.* That's about when Dean tied him up and cut him open, making him forget even his own name. But not Dean's name.
 
 What if he was telling the truth?
 
-What if this *is* Hell? Which makes them demons.
+What if this *is* Hell?
 
-Dean narrows his eyes at the nurses, squinting at their white nurse coat-covered bodies and faces. Dark shapes shake underneath the skin, showing a different face, a darker shadow like flowing smoke contained inside a vessel.
+Which makes them demons.
 
-He turns to Cas, and finds nothing but light. Light swirls inside his body, swimming like it has a life of its own. Light that is so much more smooth and larger than the skin, that it spreads out behind Cas's back, but folded like wings not in use. He remembers the light bleeding out from the wound when he cut Cas open. He remembers it burned his finger when he touched it -- because it's too hot, because it's too holy for him, because it's from the sky and celestial, because that's what true and real Cas is like -- now he understands.
+Dean narrows his eyes at the nurses, squinting at their white nurse coat-covered bodies and faces. Dark shape shakes underneath the skin, showing a different face, a darker shadow like flowing smoke contained inside a vessel.
 
-*He really is an Angel of the Lord.* Dean gasps with realization.
+He turns to Cas, and finds nothing but light. Light swirls inside his body, swimming like it has a life of its own. Light that is so much more smooth and larger than the skin, that it spreads out behind Cas's back, but folded like wings not in use. He remembers the light bleeding out from the wound when he cut Cas's skull open. He remembers it burned his finger when he touched it -- because it's too hot, because it's too holy for him, because it's from the sky and celestial, because that's what true and real Cas is like -- now he understands.
+
+*Cas really is an Angel of the Lord.* Dean gasps with realization.
 
 Alastair grins. "I see your stubborn mind is coming through."
 
-Dean smiles back at him, pleased to know Alastair must have taken his gasp in a whole different way.
+Dean smiles back at him, pleased to know Alastair must have taken his gasp in a whole different way, a wrong way.
 
-Alastair snaps his fingers, catching the attention of other nurses -- other demons. "Lads. What you doing? We don't have all day. Finish him off. He doesn't remember anything anyway -- credit to our little hero Doctor Dean. How difficult can it be now?"
+Alastair snaps his fingers, catching the attention of other nurses -- other demons. "Lads, what you doing? We don't have all day here. Finish him off. He doesn't remember anything anyway -- credit to our little hero Doctor Dean. How difficult can it be now?"
 
 The demons launch the attack, and at the very same time, Dean raises his blade, standing back to back with Cas.
 
-Dean's blade crashes into one of the demons', and he twists it in his hand, making the demon drop his knife. He kicks it in the chest, and the demon fly across the room and crash into the wall.
+Dean's blade crashes into that of one of the demons', and he twists it in his hand, making the demon drop his knife. He kicks it in the chest, and the demon flies across the room and crashes into the wall.
 
-"Dean?" Cas raises his voice. Surprised. But he's too busy handling the other demon right in front of him to turn to glance at Dean.
+"Dean?" Cas raises his voice, surprised. But he's too busy handling the other demon right in front of him to turn to glance at Dean.
 
-"You might say I just figured out something," Dean yells back, as he stabs the blade into the chest of the second blade, and flies its weapon toward the third one, pinning it into its forehead. "I might have some apologies to say, but later."
+"You might say I just figured out something," Dean yells back, as he stabs the blade into the chest of the second demon, and flies its loose weapon toward the third one, pinning it into its forehead. "I might have some apologies to say, but later."
 
-He swirls to the back of the fourth one, holding its arms still with his bare hands, letting Cas strikes the killing blow. Golden light burns inside the demon before its body drops slump. The air smells of sulfur and burned ash, now that he notices.
+He swirls to the back of the fourth one, holding its arms still with his bare hands, letting Cas strikes the killing blow. Golden light burns inside the demon before its body drops slump. The air smells of sulfur and burned ash, now that he pays attention.
 
 Dean drops its body onto the floor, wiping his dirtied hands on his doctor's coat, cleaning the blood and black ashes.
 
-"What a sweet little surprise," Alastair watches them, tutting loudly. "Guess it's just about time for some reminder. I'll book your next appointment, Dean. Remember all the fun we had last time? With all the poking and proding?"
+"What a sweet little surprise," Alastair watches them, tutting loudly. "Guess it's just about time for some reminder. I'll book your next appointment, Dean. Remember all the fun we had last time? With all the poking and probing? It's time for you to be my patient again."
 
 He holds out a hand, choking Dean on the throat, pushing him to the wall.
 
@@ -510,7 +512,7 @@ Alastair lets out a yell, and the scissors retract from his back automatically. 
 
 "Alright, time to go!" Dean jumps to his feet, dragging Cas's sleeves, rushing toward the door.
 
-The hospital corridor morphs away the moment he steps out. Instead, they are greeted by a dark wild field, flooded with sound of screaming and yelling of pain. Thick black smoke flies above their heads, skeletons and skulls scattered on the ground everywhere. The air smells blood and sulfur.
+The hospital corridor morphs away the moment he steps out. Instead, they are greeted by a dark wild field, flooded with sound of screaming and yelling of pain. Thick black smoke flies above their heads, mixed with thin threads of white light; skeletons and skulls scatter on the ground everywhere, layers after layers, their hollow eye sockets aiming upward. The air smells blood and sulfur, so thick that it feels like a crust on their skin.
 
 The only thing Dean has in mind is:
 
@@ -532,10 +534,128 @@ Dean starts to get interested in him (though initially thinks he's just weird), 
 >
 > Cas goes back to Heaven to regain a copy of memory (backuped before going down to Hell/standard version for all angels) from Naomi (hint potential memory messed up again), goes back in time to meet Dean in the barn again. Both don't remember the time in Hell together, but feel familiar. Canon compliant.
 
+Dean lets go of Cas's hands, stumbles on the field, and gets tripped over by a skull. He kneels down where he fell, his fingers digging into the ashes underneath him. Memory of Hell rushes into his head.
+
+He's not a brain surgeon doctor. He didn't do surgeries for ten years, perfecting his skills in lobotomy.
+
+He's a demon. A demon living in Hell. For more than forty years.
+
+He remembers his own screaming and the pain and torture and skinning when Alastair operates on him. He remembers when he couldn't take it any more and got off the hook, picking up the first razor. He remembers Alastair's wide grin and sweet tone.
+
+Oh God, he's a demon. And there's an angel standing right beside him, not remembering himself, because of him.
+
+Cas stands quietly beside him, still holding his silvery blade.
+
+Dean closes his eyes. It's so messed up. What has him done?
+
+Cas puts a hand on his shoulder, and Dean shivers at the contact. But the touch isn't to kill him, like he expected it to be.
+
+"We have to go, Dean." Cas says quietly. "They're coming for you."
+
+Dean looks up. Cas is right, the black smokes are flying in their directions.
+
+"Where?" Dean asks, voice hoarse. The field is wild and barren, nowhere to hide. Whichever direction they run, the demons will catch up in a blink. "You said you don't belong to here. But I think this is exactly where I belong."
+
+He looks up, facing the angel, feeling that odd sensation in his chest shifting and floating again, like a wave flapping on the sand. He remembers the sea and the beach on the Earth now.
+
+But he blinks, and he knows his eyes are still black. "Where to, Cas?" Dean's lips tremble. "You said you're here to save me, but I don't think I can go anywhere."
+
+Cas pulls him up from the kneeling position, looking at him in the eyes, not discouraged by whatever color his eyes are. "I don't remember anything," he says. "So you'll have to tell me exactly what I said when I met you."
+
+So Dean tells him. Those things he didn't believe when he heard it, the angels, Heaven, some orders from Upstairs, and then, specifically, the saving part.
+
+"You said I'll have to be willing to leave with you," Dean swallows. "I do now. If it's not too late."
+
+Cas nods quietly. "It's never too late."
+
+"I'm sorry, Cas," Dean finishes, averting his eyes, can't bear to look at the angel's blue eyes anymore. "For what I did to you. But I'm a demon, what else do you expect?" The excuse almost makes him feel better, but the tightness in his chest doesn't release. Something inside his chest has always been out of his control, and he still hasn't got the faintest clue what's happening in there. And what's worse, he thinks that part is growing, he can feel it.
+
+Cas catches his gaze again easily. "I knew the risk of the mission. It's not your fault. We only have to figure out how to leave here. I wish I could still remember the original retreating plan after making contact."
+
+He glances upward, and Dean follows his eyes. Dean can almost make out the shape of the flying angels in the mid-air. Their lights blink like candles in a storm night, flickering weakly between all the black smokes. It looks like many of them are still trying to descend, to approach them, but none of them are able to break through demons' barricade -- apparently none other than Castiel. Dean can's help wonder what makes Cas so special, or strong, or both.
+
+"Do you have wings?" Dean asks suddenly, glancing behind the angel's back.
+
+Cas tilts his head, concentrating on the idea. Dean watches the light folded behind his body's back spreads, like a giant thunderbird or phoenix suddenly bursts into life, extending the wings made of lightning high and wide, full of light and electricity. The air stirred by his wings form into a gust, pushing the dirt and skeletons away, cleaning out a circle of bare ground. The light and sound cracks open the air, shaking the ground.
+
+This is the most beautiful thing Dean's ever seen in his whole life, on Earth or in Hell. He thinks he stops breathing for a moment, just to stare at Cas -- at the light that's swirling faster under his skin, at the light that's stretching out, at the white blue color, at the burning warmth. He thinks his eyes might get burned for staring too long, but he doesn't care.
+
+Dean doesn't need to look up to know the demons must have found them -- if they didn't before, with the light show Cas just did, they certain do now.
+
+"Shit, I don't know it's so high profile." Dean curses, scanning around. The forever-dark sky is getting even darker, the black cloud made of flying demon smoke pressing down on them fast. The smell of sulfur grows stronger.
+
+"Think you can get us through that?" Dean asks.
+
+"I'll try. I'll die trying." Cas answers easily, holding out a hand to grab Dean on the shoulder. "If I fail, I wish my brothers and sisters will find you."
+
+Dean doesn't have time to answer to that as Cas's wings flap, and they're no longer on the lowest ground of the Pit of Hell.
+
+The flapping wings stir up the flow of the air, along with the demons flying in there, swirling everything into a maelstrom. Dean feels nauseous, as if all his insides are crashed into one side inside his stomach. He has to use one hand to hold on to the angel's waist to keep himself steady.
+
+The demons are getting closer.
+
+The way up takes longer than Dean thought or hoped for. Cas flies fast, but not fast enough to pass all the demons that are already waiting for them.
+
+They crash into the black cloud in the sky of Hell.
+
+Demons' shrieking laughter replaces the tortured souls' screaming, filling his ears. Their claws extend from the smoke, reaching out to him, pulling his arms and legs, dragging them down. Dean can feel his skin and flesh crack open under their tearing, his body slipping slowly from the angel's grip.
+
+Castiel growls -- Dean doesn't realize it's angel's voice at first, thinking it's a thunder that rolls from the above, but he sees nothing and no one else. Only Cas's outrageous face.
+
+The angel uses the right side of his wings to close tightly around Dean, wrapping him like a cocoon, swinging the left wing at the demons like a blade. The lack of balance makes their flight bank suddenly to one side, crashing into the wall of demons. Dean knows before he sees Cas's wings are being torn by the demons.
+
+"Let me help!" He yells to the angel, turning slightly in his clinging posture. His left arm is still circling around the angel's middle, his right hand holding the blade. "I can fight!"
+
+The right wing starts showing fractures between the feathers made of light. Cas roars louder. Dean doesn't know if it's more about pain or rage. He waves his arm through the fracture, slicing the blade through the smoke. Demons retreat from where his blade reaches.
+
+Only then does he notice light are escaping from Cas's left side. He can't see the cut, but he knows it must be the same as the wound when *he* cut open the angel. Demons that are touched by those bleeding light scream in pain and recoil like burnt. Their paths are slowly cleared.
+
+"You're hurt." Dean tries to turn, to examine, to help. The wing holds him tight, limiting his move.
+
+"Don't mind me," Cas answers from above his head, his voice weakened, but the speed of the wings whipping is not slowed. "We're almost there."
+
+Dean can feel the hand on his shoulder tightened, a slow burning sensation pooling into the place they touch. A thin stream of bleeding light flows along Cas's arm, gathering to his right palm. The heat grows sharper quickly, and Dean thinks his skin on his left shoulder must be torched, but he grits his teeth, swallowing any moaning sound, not wanting to distract the angel. They have enough things to worry about.
+
+It still takes way too long to change "almost there" to "really out". Even Dean can tell Castiel's wings are labored, their moves getting slower, more sluggish, each flapping heavy and strained. But there are less demons the higher they get to. The sky no longer looks dark -- it's almost like sun rise. It turns from pure dark to light grey, then a thin blue, and then even brighter, closer to blue-pink.
+
+Cas makes one final scowl, and they push through the final gate of Hell. The real sky on Earth envelops above their heads, showing a thin white-grey of early morning. The woods near them are all burned in the instant they emerge out of the ground, blasted outward. Dean doesn't have time to care about where they are, because Cas loosens his grip and crashes down on the ground.
+
+"Cas!" Dean rushes to him, ignoring the throbbing pain from all the cuts and slices in his own body. The angel lies with his wings spread lifelessly behind him, torn and bloody, not moving an inch.
+
+Cas opens his eyes with a scowl when Dean slaps his face. He grumbles, and the first sentence coming out is, "Dean Winchester is saved."
+
+Dean blinks, sitting down next to him with a tight, relieved huff. The tumbling sensation in his chest is so strong that Dean thinks it must have something to do with him coming back to the Earth now. But that brief second of relief after the rescue dies down quickly, replaced by pain and guilt.
+
+"Why?" he asks quietly, glancing at the wounds on Cas's body. The light of the angel dims quickly in his eyes, he can barely see his wings now. The burning sensation on his shoulder is also easing down. "Why would an angel save me? Almost sacrifice yourself to save a demon?"
+
+Cas lets his hand slide from Dean's shoulder, examining his face as if he's searching for something. "If I remember, I'll let you know," he answers, not unkindly.
+
+Dean frowns at him. "I thought... your memory must be back somehow. How else could you fight like that?"
+
+Cas shakes his head. "It's not memory, it's instinct. Humans might call it muscle memory. I still don't remember anything before meeting you."
+
+"You don't even remember why you have to save me." Dean says. It's a statement, but the unasked question lies right underneath.
+
+"I don't need to," Cas answers easily. "Seeing you is the first thing I remember, but not the only thing. Anyone sees a soul so bright, so beautiful like yours, they'll know." He raises a hand, pointing at Dean's heart. "You didn't lose that, even when you were a demon."
+
+"Were?" Dean notices, widening his eyes.
+
+The angel smiles at him. "My grace on you, it's purifying you. I'm sorry it burns."
+
+Dean's right hand automatically covers the burned flesh on his left shoulder. Cas nods slightly. "It has to find a place to enter."
+
+
+
+
+
 #### draft notes
 
-> Dean/Cas get outside, sees the real Hell, shocked, remembers he's a demon. Cas remembers he has wings (reminded by Dean, Dean believes what he said before lobotomy is true now, retells him what he initially said), uses wings to protect Dean.
+> A parting scene.
 >
-> 
+> Cas rebuilds Dean's body and buries him in the field (wipes himself from Dean's Hell memory, ashamed of himself, feel like he's doing lobotomy to Dean again).
+>
+> Cas goes back to Heaven to regain a copy of memory (backuped before going down to Hell/standard version for all angels) from Naomi (hint potential memory messed up again), goes back in time to meet Dean in the barn again. Both don't remember the time in Hell together, but feel familiar. Canon compliant.
+
+Cas purely muscle memory fights (still vessel shape, still doesn't remember other things before lobotomy, not remember why they need to save Dean but he finds his own motivation/reason already, doesn't need to know it's mission).
 
 ###### [END]
