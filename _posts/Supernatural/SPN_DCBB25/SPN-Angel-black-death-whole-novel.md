@@ -221,15 +221,15 @@ Believe it or not, this story starts off as a one-shot idea. Just a one-liner th
 
 And then the idea stretched itself up into a multi-chapter full-length story without me doing much. All the characters just start walking and talking in my head, playing out like a season of the show that was never shot. I had to take out some very tempting mini-episode chapters that diverged from the main storyline, but it still ends up looking like a full-season S12 rewrite (immediate canon divergent after the S11 finale minus BMOL and Mary). I didn't see that coming either. But it's a super fun journey.
 
+Besides the length, the second biggest surprise I got when writing this story is: how fun it is to write Lucifer and Crowley. It's so easy to hear them in my head. The more dramatic they get, the easier to write. Just like what Mark Pellegrino told Misha about how he depicted Lucifer: every time he talked to somebody, he asked himself: "Do I want to kill them, or fuck them?" I put myself in the same mindset and realized this is the exact, most perfect way possible to get Lucifer right. It's actually very similar to Crowley, too. I like those bad boys.
+
 There's another thing I really, really liked about the plot, near the end, but I'll shut up and leave it to the notes after all the chapters, to not spoil all the fun surprises. I'll see you there.
 
 #### Notes after work (after last chapter)
 
-Besides the length, the second biggest surprise I got when writing this story is: how fun it is to write Lucifer and Crowley. It's so easy to hear them in my head. The more dramatic they get, the easier to write. Just like what Mark Pellegrino told Misha about how he depicted Lucifer: every time he talked to somebody, he asked himself: "Do I want to kill them, or fuck them." I put myself in the same mindset and realizes this is the exact, most perfect way possible to get Lucifer right. It's actually very similar with Crowley, too. I love the bad boys.
+The other major thing I mentioned in the notes before the first chapter, but didn't want to spoil the story, the thing that I wanted to see really, really badly is that -- Cas would die if Dean doesn't open himself up, allow himself to love and be loved, admit to his feelings. I want to see him just <i>have to</i> directly face the feeling that's called "love", because he never really learned how to do that or recognize that, even if he's already been doing that all his life. God might as well kill Dean before he opens up like that, but if it's to save Cas, he can do it for him. He can do anything for him.
 
-Oh and, the other major thing I mentioned in the notes before the first chapter, the main motivation for this story, the thing that I wanted to see really really badly is that -- Cas would die if Dean doesn't open himself up, allow himself to love and be loved, admit to his feelings. I want to see him get forced to directly face the feeling that's called "love", because he never really learned how to do that or recognize that, even if he's already been doing that all his life.
-
-So it's a story of saving angels, and also a story of teaching Winchester what love is and tear themselves open to let it out. I'm trying my best to break down the wall in Dean Winchester's heart, let him express himself fully in a way he never did or could, tear him apart. After 60k words, I finally did it -- he finally did it. It's another day that love saves the world -- every friends' and family' love for them saves them, their love for the world saves the world, and their love for each other saves each other -- it's always the love.
+So it's a story of saving angels, and also a story of teaching Winchester what love is, and tearing themselves open to let it out. I'm trying my best to break down the wall in Dean Winchester's heart, let him express himself fully in a way he never did or could, tear him apart. After 60k words, I finally did it -- he finally did it. It's another day that love saves the world -- all their friends' and family' love for them saves them, their love for the world saves the world, and their love for each other saves each other -- it's always the love.
 
 ## Main
 
@@ -5833,7 +5833,7 @@ Dean grins with him. "It's settled then."
 
 #### Act 3 (Epilogue)
 
-> INT. bunker (Earth, real) - day (Dean, Cas, Sam, Adam; Jody, Claire)
+> INT. bunker (Earth, real) - day (Dean, Cas, Sam, Adam)
 >
 > everything settled, talking about plans for the new era, going back to old hunting life, helping with everyday monsters
 >
