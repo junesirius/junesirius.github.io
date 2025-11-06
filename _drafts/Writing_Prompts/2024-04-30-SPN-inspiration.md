@@ -546,7 +546,7 @@ Dean的“you're dead to me”，可以真正地杀死Cas。
 
 想写Cas发疯的时候发生了什么，可以用到S10E22上一次Dean有该隐之印的时候暴揍Cas的那一顿作为参考，Cas会黑化失控，但是会做到什么地步。会家暴Dean，这是肯定要有的，也许差点杀掉了他。但是最后是怎么被连哄带劝地关进Ma'lak Box的。
 
-(→ prompt 335.5)
+(→ prompt 335.5, 172)
 
 ### 49.【destiel】《I'm Sorry》的后续
 
@@ -1697,6 +1697,8 @@ What if after S10E22 Dean does go down that road and be that thing again and Cas
 what if the first time round, instead of Dean getting Mark of Cain, Cas gets it instead
 
 borrow something from S15 Cas gets mark (briefly) and Chuck's what-if future of "Cas gets crazy and Dean has to lock him up in Malaak Box"
+
+(→ prompt 48, 335.5)
 
 ### 173.【destiel】found missing wings before found angel
 
@@ -3837,7 +3839,7 @@ The two of them go back to Earth together again. HE.
 
 ### **335.5【destiel】S15E09 MoC!Cas becomes demon!Cas**【WIP】
 
-inspired by 335, the turning to evil part is like Ma'lak Box MoC!Cas → prompt 48
+inspired by 335, the turning to evil part is like Ma'lak Box MoC!Cas → prompt 48, 172
 
 maybe the whole "turning to demon" is because of MoC, Cas died when he still has MoC and resurrected by Mark and becomes a demon
 
@@ -5067,4 +5069,20 @@ he's sorta adopted by Ellen/Mary/Jody (all of Dean's mother figure), how he's li
 
 How to canonically give Cas a mom? → comedically: Chuck can marry Becky Rosen, then it technically will make Becky Cas's mom (super weird, maybe can make it some kind of comedy short story?)
 
-### 417.
+### 417.【destiel】Cas resonate with Stardust
+
+destiel watch Stardust together, Cas feels for the Stardust Princess, especially the book ending, both falling from the sky and choosing the human and stay here
+
+maybe Dean will feel upset for holding Cas away from home, also scared Cas might leave
+
+Cas reassures him he'd stay, he prefer here
+
+but Dean knows he still has feeling for the sky, he's a star from the sky, after all
+
+the ending of Stardust is the Princess stays alone on the Earth after her human lover dies and rules the kingdom well and alone for him
+
+Dean's more upset and depressed for he might leave Cas alone after his death (established relationship), Cas comforts him
+
+(mutual comfort, mutual healing, a little sad beautiful undertone)
+
+### 418.
