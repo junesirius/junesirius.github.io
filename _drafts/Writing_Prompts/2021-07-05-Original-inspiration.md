@@ -166,4 +166,12 @@ should it have a (handwritten) story backbone embedded in the backend code?
 
 Could write a novel story based on this setting? player gets dragged into the story they're creating? AI becomes alive, have life? AI and player fall in love? AI turn evil, absorb human soul and become real while player goes into the story world?
 
-### 18.
+### 18.毛绒玩具get life from emotion
+
+（来自自己，感觉很多人已经写过/拍过这个了）
+
+抱着睡的毛绒玩具因为被倾注了太多的感情（attachment, loneliness, fondness, fantasy, imagination/replacement for non-existed lover/partner, longing, autism, etc.）而变活了（但是因为情感太丰富/复杂而进入angst, hurt/comfort, pining状态？）
+
+（我的毛绒抱枕是猫猫，猫猫可以handle这些feeling？抱枕变成真猫猫/小猫妖/有人形的小猫妖？就像罗小黑）
+
+### 19.
