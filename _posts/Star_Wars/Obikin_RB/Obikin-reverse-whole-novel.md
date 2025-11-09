@@ -72,7 +72,11 @@ It is a story about hope, rebellion, freedom, creation, and so much more. And of
 
 #### Banner
 
+<a href="https://www.tumblr.com/yatsukisakura/799692802676162560" target="_blank"><img src="https://64.media.tumblr.com/af736a89a84b3aa31c16440900a9dab4/0e0659a9783d1fa1-ef/s1280x1920/e102467b782b486274663de60607c07c50485f6d.jpg" alt="A colorful Jet Set Radio-style banner image with Obi-Wan holding his hand with Anakin in a blue jacket and golden hair. Title reads 'To Name the Sky Blue', written by JuneSirius, art by Yatsukisakura" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%" /></a>
+
 #### Art
+
+<img src="https://64.media.tumblr.com/68236cb7a4575d36b87d2f6bef94b86d/0e0659a9783d1fa1-8c/s1280x1920/a08f179be4ebbd3116c3eeb93260e5c297291cb0.jpg" alt="Three-grid comic of Obi-Wan in imperial suits and Anakin in a blue jacket. Anakin is painting a big blue heart shape on a wall with a dove inside. Obi-Wan chases him." style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%; text-ali" />
 
 ### Editing Notes
 
