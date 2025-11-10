@@ -183,6 +183,10 @@ Sam thinks about it for a second. "I don't know, Dean, I mean, we got some big g
 
 #### Art
 
+<img src="https://64.media.tumblr.com/2ac6ff54469acaf3b75c4802605391cd/1086e9becce98efd-9f/s1280x1920/ae96b852f0eac5acdf99e4ff1b73d2a5672eebc1.pnj" alt="Castiel has his wings spread out to protect Dean. The wings are broken." style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" />
+ 
+<img src="https://64.media.tumblr.com/002719895cd0760a4c88650daddd742b/1086e9becce98efd-29/s1280x1920/8b5cce5d412cbfa2d75d38e6fe53cf2161198401.pnj" alt="Dean puts his hand on Castiel's cheek. Castiel is beaten up, very sick; his eyes show blue-white grace light. Dean's palm shines golden soul light." style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" />
+
 ### Editing Notes
 
 ~~Lucifer: "devilishly handsome face"~~
