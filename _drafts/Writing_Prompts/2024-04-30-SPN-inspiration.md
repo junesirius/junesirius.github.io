@@ -5085,7 +5085,7 @@ Dean's more upset and depressed for he might leave Cas alone after his death (es
 
 (mutual comfort, mutual healing, a little sad beautiful undertone)
 
-### 418.【destiel/D】S15E20 fix-it: Dean witness his own funeral
+### 418.【destiel/Dean】S15E20 fix-it: Dean witness his own funeral
 
 Dean watches his own funeral
 
