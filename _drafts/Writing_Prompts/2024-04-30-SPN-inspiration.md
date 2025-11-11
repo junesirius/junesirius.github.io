@@ -5085,7 +5085,7 @@ Dean's more upset and depressed for he might leave Cas alone after his death (es
 
 (mutual comfort, mutual healing, a little sad beautiful undertone)
 
-### 418.【Dean】S15E20 fix-it: Dean witness his own funeral
+### 418.【destiel/D】S15E20 fix-it: Dean witness his own funeral
 
 Dean watches his own funeral
 
@@ -5115,4 +5115,4 @@ The canon phone call from Lucifer that pretended to be Cas, saying "It's so dark
 
 When Chuck gets Lucifer out, Cas actually hides part of his grace in Lucifer (without Lucifer/Chuck/Empty know, he's familiar with Lucifer's grace because Lucifer has possessed him, and because Lucifer's grace is so really bright so his can be hidden without problem). So Lucifer is actually secretly possessed, but Cas is hidden in the dark part inside him, thus "It's so dark in here", and when Dean lets Lucifer in, he also lets Cas in. Cas just has to figure out how to let Dean know he's there and leave Lucifer before Lucifer gets killed by Michael. Maybe Michael would notice something is off with Lucifer? Something that doesn't belong to him? Because Michael is very familiar with Lucifer's grace (minor micifer), so he senses the difference or actually sees Cas, pulling him out of Lucifer? Dean will have to let Cas possess him to save Cas?
 
-### 
+### 422.
