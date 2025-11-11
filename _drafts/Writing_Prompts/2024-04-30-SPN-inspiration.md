@@ -5085,4 +5085,34 @@ Dean's more upset and depressed for he might leave Cas alone after his death (es
 
 (mutual comfort, mutual healing, a little sad beautiful undertone)
 
-### 418.
+### 418.【Dean】S15E20 fix-it: Dean witness his own funeral
+
+Dean watches his own funeral
+
+it's epic, everyone he saved is there, Black Sabbath
+
+twist: Cas comes to the funeral to tell Sam and everyone that Jack gets him out, he's coming to look for Dean. Sam and everyone tell him sadly he's just one step too late and missed Dean, everyone thinks Dean must be in Heaven now. Cas goes to Heaven but can't find Dean, Dean is also not in Vail, no Reaper has seen him since he's supposed to be dead, so here's the question: Where is the hell is Dean?
+
+(need to figure out how to continue)
+
+### 419.【destiel】S15E18 fix-it: power of the fandom brings Cas back
+
+(inspired on Nov. 5, 2025)
+
+The real Dean of today: Chuck published the last book before he left, Jack doesn't know enough about internet to wipe everything (Charlie: "once it's on the internet, it's everywhere"), so the whole world knows their sacrifice and love (but think it's just fictional, but still feel heartbroken for them, just like the true fandom), Dean hates it and tries to avoid everything online or meet anyone, hides inside Cas's room to sort out his things, murmurs "It's been five years", talk to Cas, cry over Cas's ownings like the mixtape. His love alone isn't enough to bring Cas back (because Empty is also getting stronger, just doesn't let Cas leave), but the whole world's is. There's nothing more powerful than a whole world's people praying for the same thing at the same time, so Empty cracks and Cas comes back.
+
+(literally a fic for real-life destiel fandom, the power of us breaks the fourth wall and can save Cas, let destiel reunite)
+
+### 420.【destiel】S15E20 fix-it: it's all Cas's nightmare
+
+(inspired by a Tumblr post)
+
+The whole S15E20 is Cas's nightmare, he believed Dean would die normally and move on from him because he doesn't know how much Dean loves him; he believed Dean will just live normally and eventually go to Heaven and live with his family and his brother, and that's all. But reality is Cas is still in Empty and Dean is still alive. Dean is working his ass off to get Cas back, and when Dean reaches him, it's like djinn's world again for Cas (except this time it's nightmare), Cas has to realize Dean really loves him to break the nightmare and comes out of Empty with him. Cas will be saved and everyone is alive.
+
+### 421.【destiel】S15E20 fix-it: the phone call is not from Lucifer, it's really from Cas
+
+The canon phone call from Lucifer that pretended to be Cas, saying "It's so dark here, can you let me in?" What if it really is Cas?
+
+When Chuck gets Lucifer out, Cas actually hides part of his grace in Lucifer (without Lucifer/Chuck/Empty know, he's familiar with Lucifer's grace because Lucifer has possessed him, and because Lucifer's grace is so really bright so his can be hidden without problem). So Lucifer is actually secretly possessed, but Cas is hidden in the dark part inside him, thus "It's so dark in here", and when Dean lets Lucifer in, he also lets Cas in. Cas just has to figure out how to let Dean know he's there and leave Lucifer before Lucifer gets killed by Michael. Maybe Michael would notice something is off with Lucifer? Something that doesn't belong to him? Because Michael is very familiar with Lucifer's grace (minor micifer), so he senses the difference or actually sees Cas, pulling him out of Lucifer? Dean will have to let Cas possess him to save Cas?
+
+### 
