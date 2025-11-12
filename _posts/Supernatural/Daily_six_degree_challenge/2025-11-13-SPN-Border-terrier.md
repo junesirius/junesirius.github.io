@@ -50,7 +50,7 @@ Dean glances at the same spot, getting his point.
 
 Sam laughs. "That's not really how it works. But alright, I don't really have a strong opinion either way," he glances at Eileen and Cas, both of whom nod quietly. "That's decided, then. He'll continue to be a man dog, but that means we'll have to find him a lady friend. I looked online, I think he's probably from a terrier origin, but God, there are like a million types of different terriers, can you believe it? There's like border terrier, fox terrier, rat terrier, bull terrier, then there's also American terrier, Australian terrier, Yorkshire terrier, Irish terrier. No way I can narrow it down to his real breed. But there might be some other terrier places we can check out..."
 
-Dean cuts him off, "Wait a second, for one, how do you know he's even *into* lady dogs?"
+Dean cuts him off, "Hold on a sec. For one, how do you know he's even *into* lady dogs?"
 
 Sam stares at him, ridiculous. Eileen tries so hard to stop a laugh from bursting out that her lips are twitching at the edge.
 

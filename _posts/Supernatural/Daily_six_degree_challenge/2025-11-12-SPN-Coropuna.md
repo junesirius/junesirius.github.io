@@ -34,7 +34,7 @@ Sam squints to check the altimeter on his smart watch, which is now covered with
 
 "Actually, it's the third highest in Peru," Cas corrects him while helping him steady his steps.
 
-"Like that makes a difference." Dean moans, glancing upward. There is just more white before them, not much else to see. He can't feel his hands or legs since hours ago.
+"Like that makes a difference." Dean groans, glancing upward. There is just more white before them, not much else to see. He can't feel his hands or legs since hours ago.
 
 "What am I imagining?" Dean starts, just trying to distract his brain to think about something else, something warmer, something better. "We are in Peru! And I googled it, and it's right next to the Ocean! I was thinking beach and sunshine, cute chicks and sexy accents, bonfire dances and a lot of booze. I've never been here, and I skipped all the geology class hunting! How would I know?"
 
