@@ -859,6 +859,16 @@ Castiel's blind eye is because Bobby shoots him, when revenging for his son
 
 **Visual NOTE**: Castiel in Claire's vessel wears ragged clothes, in the room, with Jimmy, who is bloody and wounded
 
+**Visual longer description:**
+
+The room is a very apocalypse-style, destroyed, deserted hotel room, just slightly fancier/bigger than an average motel room before ruined (but not by too much). A typical war-zone place. There are corners of the room crashed down, like around the edge of the ceiling and wall, so the floor below that has pieces of walls and bricks there. The furniture only barely has rough shapes, mostly are also broken, like broken lamps and tilted chairs and all that. The window is broken too, glasses on the floor, but the curtain is closed. So it's dark all the time, regardless of the time of day.
+
+The bed is a broken bedframe, Jimmy sits on top, curled up, holding his knees, very battered, wounded, tortured, pained, bloodstains and bruises everywhere. Cas in Claire is wearing a torn military coat (I imagine initially dark green, but now too dirty to tell, close to dark grey or black now), can see stab holes and gun holes and bloodstains everywhere on the clothes too, but not on the skin. The body looks intact (recently healed).
+
+Right now, Cas just cast out all those other angels who were torturing Jimmy, because they were talking about breaking him permanently, which makes Cas displeased, because, despite he doesn’t really care about Jimmy, he still considers Jimmy as *his*; they don’t get to make decisions for him, only he gets to decide Jimmy’s fate. He’s pissed, a bit (sickly) possessive. Just stands next to that bedframe.
+
+Jimmy is scared, too tired to resist, defeated, but maybe also a tiny slight hint of hope that maybe deep down somewhere Cas still cares about him and Claire somewhat, that’s why Cas would get him out of other angels’ torture and “save” his daughter. But he also doesn’t dare to keep the hope high, because he’s already seeing way too much and gets disappointed by Cas for way too many times. So he’s baffled, complicated, but mostly still just too traumatized and defeated.
+
 ### Act 5
 
 > A sleepless night.
