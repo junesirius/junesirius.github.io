@@ -26,7 +26,7 @@ an annual native plant found in all soils in South Texas. This grass is reported
 
 "Cas, come on, there gotta be a way to do this more efficiently," Dean straightens up, rubbing the small of his back, feeling the age not treating him kindly. His fingers are covered with soil and grass leaves, the bucket of weeds waiting by his feet. Cas is a few steps ahead of him, working on the left side, and he is tasked with handling the right side.
 
-Cas pauses and turns back to him, a small cluster of grass shaking between his fingers as he rubs them gently -- called panic grass or something, according to Cas. "If you're tired, you can get inside to rest. I can finish the remaining land alone."
+Cas pauses and turns back to him, a small cluster of grass shaking between his fingers as he rubs them gently -- called panic grass or something, some Latin words so long that it might as well be a spell, according to Cas. "If you're tired, you can get inside to rest. I can finish the remaining land alone."
 
 Dean glances around them. There are still acres after acres of farmland around them. Why did he agree to buy the land and suddenly become a farmer again? Oh, right, it felt like a good decision at the wedding.
 
