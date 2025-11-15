@@ -2018,7 +2018,7 @@ might be a very long book/journal, need to write in Cas tone
 
 ### **208.【destiel】S14E13 the other 2003 timeline**
 
-(time travel, getting together, pining, canon divergent)
+(time travel, getting together, pining, canon divergent; → prompt 424)
 
 The other timeline version Dean/Cas/Sam's life: 2003!Dean hunts on his own and keeps doing so and become the wanted criminal, 2003!Sam continue Stanford and becomes annoying flatulent lawyer and goes to TED talk, 2003!John is missing because he gets pulled into 2019, 2003!Cas notices "disturbance in the force" and goes to 2019 and finds 2019!Dean/Sam variation, fight them and almost kill them but get blown back to 2003 with memory of what's gonna happen
 
@@ -5143,4 +5143,22 @@ adapt into another storyline but still focus on blind faith? when Dean and Cas r
 
 or case fic related to blind faith, Doctor Who style, not really about the monster, just need the setting, kinda like "God Complex"? they'll *have to* have the faith to get out of somewhere or win the monster, so they choose to trust each other
 
-### 424.
+### 424.【all/destiel】S14E13 2003!John remembers, Dean knows about angel since 2003
+
+(→ prompt 208)
+
+S14E13 when 2003!John gets pulled into the future and throw back, his memory isn't wiped by the timeline self-correction, but he believes it to be a dream, but remembers most of the conversation and future info, like Azazel, Dean/Sam live with an angel and Devil's kid. Maybe lose some information (like when we wake up from dreams), but remembers clear enough that angel is real. John tells Dean that, and Dean doesn't doubt anything his father tells him at that time/age (two years before S01E01 pilot), so Dean knows about angels are real five years earlier than he should. The timeline is actually already changed.
+
+S14E13 shows 2003!Cas is already in Jimmy's vessel, which is conflicted from S04 "(2008 is) the first time we come down to the Earth after two thousand years", which means in 2003, angels are already monitoring the Winchesters close enough, and anything happens to John or Dean or any of them, angels will come down to interfere. so it diverges from canon, too. The Novaks will get affected earlier than canon timeline. Jimmy will leave Claire five years earlier than in canon (canon Claire was about 12 in S4, so now Jimmy leaves Claire when she's only 7 years old). The Novaks would be more (or less?) messed/disrupted.
+
+canon divergent + time travel from S14E13, when John gets back and Dean learns about angel, Dean starts searching for angel, and one way or another, Dean runs into Cas in 2003 (≈ *Heard from your mother*)
+
+after 2003!Cas gets blasted by the angel banishing sigil, what if he's just blown away physically, and when wish pearl is reversed and timeline is reversed, 2003!Cas isn't auto-corrected by the timeline fix because: he's angel/he can time travel/he's outside the affect zone because blown away too far away/etc., so 2003!Cas keeps his memory and knowledge, starts searching 2003!John, maybe runs into 2019!Dean again, or choose to fly back to 2003 and meets 2003!Dean earlier than planned. maybe 2003!Cas was thinking about eliminating 2003!Dean's knowledge/memory of anything John said about angels and their future, but one thing after another, they might go through the enemy-to-friend change
+
+maybe when they need/plot needs, 2019!Cas and/or 2019!Dean can go back to help? but only if find a way to fix 2019!Cas's wings so he can time travel, or Dean finds another way to time travel, or 2003!Cas flies back and forth to help them transit
+
+2019!Dean's memory will change as 2003 events change, two timelines are fluid and in the same timeline, so it seems to be past/present, but actually parallel
+
+(a little similar/inspired by the fic currently reading: [Face to Face with the Skies](https://archiveofourown.org/works/587057))
+
+### 425.
