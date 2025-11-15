@@ -5115,4 +5115,32 @@ The canon phone call from Lucifer that pretended to be Cas, saying "It's so dark
 
 When Chuck gets Lucifer out, Cas actually hides part of his grace in Lucifer (without Lucifer/Chuck/Empty know, he's familiar with Lucifer's grace because Lucifer has possessed him, and because Lucifer's grace is so really bright so his can be hidden without problem). So Lucifer is actually secretly possessed, but Cas is hidden in the dark part inside him, thus "It's so dark in here", and when Dean lets Lucifer in, he also lets Cas in. Cas just has to figure out how to let Dean know he's there and leave Lucifer before Lucifer gets killed by Michael. Maybe Michael would notice something is off with Lucifer? Something that doesn't belong to him? Because Michael is very familiar with Lucifer's grace (minor micifer), so he senses the difference or actually sees Cas, pulling him out of Lucifer? Dean will have to let Cas possess him to save Cas?
 
-### 422.
+### 422.【destiel】domestic violence/abuse, heavy angsty
+
+domestic violence/abuse destiel
+
+heavy angsty, unhealthy relationship, maybe not happy ending, heavy warning, triggering, traumatic, heavy hurt (with or without comfort?), emotional repression, don't know how to express emotions, don't know how to use words
+
+inspired by S15E09, Dean's apology, "I don't know why I'm always so angry, I can't control it" sounds very much like excuses a domestic violence guy would say
+
+inspired by this read somewhere: many people who hurt others, like parents physically or emotionally hurt their children, because they're in pain inside without knowing how to express those pain and hurt they're feeling, so they're (unconsciously or consciously) trying to make their children in pain just like them. Same could apply to domestic abuse relationship. feel like very Dean
+
+preferably not human!Cas, but normal angel!Cas. If it's physical abuse, Cas can self-defend, they might turn into a huge fight between the two of them. (reminded of "It takes a village" castledevil, the tension between destiel could be depicted as similar)
+
+emotional abuse: Cas might not recognize, but he has enough feeling to actually feel it and keeps getting hurt
+
+### 423.【destiel】blind faith
+
+Cas and Dean both grow up with Fathers that demand blind faith, and develop free will after a long time.
+
+John demands Dean to have blind faith on him and he obeys, until John asks him to kill Sam. Dean rebels.
+
+God demands Cas to have blind faith on Him and he obeys, until God (Apocalypse) is going to sacrifice Dean. Cas rebels.
+
+When Dean and Cas start getting together, there are also times when they demand blind faith on each other, and out of habit, they rebel and turn into conflict/fight: season 6, Cas: "I ask you to trust me and stand behind me this one time I ask", asking Dean to have blind faith on him, Dean can't. Dean: "I'm asking you don't do this, just cause," asking Cas to not continue working with Crowley, Cas doesn't listen.
+
+adapt into another storyline but still focus on blind faith? when Dean and Cas really are getting *together* together, something around blind faith happened, they have to choose if they'd do it, if they can blindly trust each other, some past trauma about upbringing and bad water under the bridge get reminded, some fight again perhaps. hurt/comfort
+
+or case fic related to blind faith, Doctor Who style, not really about the monster, just need the setting, kinda like "God Complex"? they'll *have to* have the faith to get out of somewhere or win the monster, so they choose to trust each other
+
+### 424.
