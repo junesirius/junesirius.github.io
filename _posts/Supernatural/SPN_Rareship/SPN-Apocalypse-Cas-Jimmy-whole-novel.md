@@ -1271,41 +1271,67 @@ Ellen looks at him for a long minute. "Okay," she says finally.
 
 <br>
 
-#### Act 3
-
 They run into angels on the third day after setting off, somewhere on the remains of a highway conjunction, ready to turn east. Ellen said they passed the Illinois state border just an hour before that, meaning they are probably only about a hundred miles from Chicago.
 
 And a hundred miles from Pontiac, from home. Jimmy calculates the distance in his head, knowing that last hundred miles is achingly close, but also feels unbearably impassable.
 
-The angel squad surrounds the vehicles. Bobby and those who are armed with angel-killing bullets hold their positions, ready to fire.
+They are noticed by two patrolling angels.
 
-Ellen gestures for Jimmy to stay low in the back of the Jeep they're in, grabbing her rifle and loading it.
+Bobby shoots one dead before they can fly away to report. But the second one is too far out of the range and flies out. Only then do they notice a military facility in a short distance.
 
-Jimmy recognizes the leader of that squad when he comes closer. He's the one used to stand half a step behind Castiel, except last time. All the other faces are new.
+"Bloody hell," Ellen curses, stepping on the brake hard. The vehicles before and after them also stopped. "Probably an angel base camp. Looks like a new one, and a big one."
 
-"Guns," the leading angel eyes them, turning into a wild mocking laugh. "So you are those petty annoying bugs that Castiel warned us about. The ones figured out how to bite. And apparently, the ones stung him and stole his favorite meatsuit. Interesting."
+Bobby's voice passes through the radio speaker they set up in each car. "What do you think? Should we raid that?" he asks.
 
-He raises a hand, putting fingers together in a snapping posture.
+"Are you out of your mind?" Ellen snaps, releasing her safety belt in the mean time, and gesturing them to do the same and get out of the vehicle quickly. Rufus says the exact same words through the radio.
 
-"Fire!" Bobby orders.
+Ellen grabs the radio. "You have no idea how many are there. The numbers and ranks, their powers, how big that building is. You're trying to kill all of us? We should run before they find us! Abandon the car and go to the woods!"
 
-The bullets fly toward the angels.
+Rufus's voice says, "What she said."
 
-But it's almost like a special effect frame in the movies, the air seems to be stirred for a second. The sound of wings flapping is mixed with the bullets flying. The angels disappear from the thin air, and only reappear when they run out the first round.
+Bobby says last, gruffly. "Everything, you heard her."
 
-"Like I said, bugs that bite." That leading angel reappears, straightening his suit, brushing the collars as if that round of bullets merely flies some dust onto his cloth.
+Jimmy stumbles out of the car, with the help of Jo and Charlie. Ellen is too busy getting the rifle ready. Jo and Charlie try to take as many backpack as they can.
 
+"Leave it!" Ellen snaps. "Run!"
 
+They can already see a gathering grey cloud flying in their direction.
+
+The highway is not far from the woods. People start running.
+
+But Jimmy can't. The pain in his body are still fiercely tearing him apart. Each step is like stepping on burning blades. His arms and legs refuse to work however hard he wills them. He tumbles on the road, falling hard.
+
+"Dammit!" Ellen notices and turns back.
+
+They are about the only two left on the road outside the woods now.
+
+The first grey cloud shoots down, landing on the roadside, forming into the shape of an angel.
+
+Ellen fires at him before his step is even steady. The cloud burns in golden flame and screeching sound. The second one follows closely, then a third. There is no way they can fight off all of them.
+
+"Go!" Jimmy yells desperately, waving at Ellen. Ellen might still have a chance, but he definitely doesn't now.
+
+Ellen glances at the angels, shooting the next closest two, then looks back at him. Her look conflicted.
+
+"You promised." Jimmy begs. "Go! Please! I can hold them off. I can hold them all off! Live."
+
+The next angel drops closer to Jimmy than to Ellen.
+
+Jimmy drags himself up into a sitting position, waving his hands at the angels. "Hey! Are you looking for me?"
+
+The closest angel strides toward him immediately. So does the next one. And then the next ten.
+
+They drag him up, pressing cold blades against his skin. "Who are you?" they ask.
+
+Jimmy risks a glance in the direction where Ellen was. But she is not there anymore.
+
+He lets out a short sigh of relief.
+
+"Jimmy Novak. Nobody," he announces. Proudly.
 
 <br>
 
 #### draft notes
-
-> Jimmy can't escape like others, offers to sacrifice himself to save Bobby etc. to buy them time, gets taken by the angels again, taken back to angel base camp
->
-> Other angels say, "Look, isn't that the vessel Castiel said didn't comply? Should we help him fix it?" They start to torture Jimmy.
->
-> It's too painful for any human to bear. Jimmy can't help thinking if Castiel would come back to him. What did he do wrong? Does he have to be punished like this? He had given him everything, his body, his mind, his health, does he have to give up his last consciousness and his soul, too? *Castiel, why are you doing this to me? Are you not an angel?*
 
 S14 angel base camp: Rexford, Idaho (S9 Gas n' sip location)
 
@@ -1320,8 +1346,6 @@ S4 fanon human base camp: Central City, Nebraska (Roadhouse location) (moving no
 human base camp people: Bobby, Rufus; Ellen, Jo, Bill Harvelle (Ellen's husband, not dead because John is gone), Ash; Mary; Charlie, Pamela, Anna (human)
 
 other angels in Castiel's garrison: Balthazar, Ishim, Benjamin, Mirabel, Inias, Hester, Uriel, Rachel, Bartholomew
-
-###### [TBC]
 
 ### Chap 4
 
@@ -1339,9 +1363,17 @@ other angels in Castiel's garrison: Balthazar, Ishim, Benjamin, Mirabel, Inias, 
 >
 > He thinks, maybe the pain will stop once Castiel comes back inside him. He doesn't want Castiel wear his young daughter to the battlefield, but how could he ask, when he knows agony and nightmare will be all that's waiting for him?
 
+
+
 <br>
 
 #### draft notes
+
+> Jimmy can't escape like others, offers to sacrifice himself to save Bobby etc. to buy them time, gets taken by the angels again, taken back to angel base camp
+>
+> Other angels say, "Look, isn't that the vessel Castiel said didn't comply? Should we help him fix it?" They start to torture Jimmy.
+>
+> It's too painful for any human to bear. Jimmy can't help thinking if Castiel would come back to him. What did he do wrong? Does he have to be punished like this? He had given him everything, his body, his mind, his health, does he have to give up his last consciousness and his soul, too? *Castiel, why are you doing this to me? Are you not an angel?*
 
 **Visual NOTE**: Castiel in Claire's vessel wears ragged clothes, in the room, with Jimmy, who is bloody and wounded
 
@@ -1354,6 +1386,8 @@ The bed is a broken bedframe, Jimmy sits on top, curled up, holding his knees, v
 Right now, Cas just cast out all those other angels who were torturing Jimmy, because they were talking about breaking him permanently, which makes Cas displeased, because, despite he doesn’t really care about Jimmy, he still considers Jimmy as *his*; they don’t get to make decisions for him, only he gets to decide Jimmy’s fate. He’s pissed, a bit (sickly) possessive. Just stands next to that bedframe.
 
 Jimmy is scared, too tired to resist, defeated, but maybe also a tiny slight hint of hope that maybe deep down somewhere Cas still cares about him and Claire somewhat, that’s why Cas would get him out of other angels’ torture and “save” his daughter. But he also doesn’t dare to keep the hope high, because he’s already seeing way too much and gets disappointed by Cas for way too many times. So he’s baffled, complicated, but mostly still just too traumatized and defeated.
+
+###### [TBC]
 
 ### Chap 5
 
