@@ -3,7 +3,7 @@ layout: post
 title: 【SPN】Evernight
 date: 2025-08-03
 categories: ["SPN"]
-characters: ["Castiel", "Jimmy Novak", "Claire Novak"]
+characters: ["Castiel", "Jimmy Novak", "Claire Novak", "Charlie Bradbury", "Bobby Singer", "Rufus Turner", "Ellen Harvelle", "Jo Harvelle", "Pamela Barnes", "Azazel", "Lilith"]
 tags: ["Supernatural", "英文", "黑暗面", "天启卡"]
 pov: 第三人称
 origin: 2025 SPN Rare-Ships Mini Bang
@@ -13,7 +13,7 @@ published: false
 
 Pairing: Castiel/Jimmy Novak (Apocalypse!Castiel/Apocalypse!Jimmy Novak)
 
-Tags: Canon Divergent, Canon Compliant, Apocalypse World, Apocalypse!Castiel, Angel Possession, Vessel Consent Issues, Hurt No Comfort, Not Happy Ending, Dark, Torture, Dead Dove Warning, background Jimmy/Amelia Novak
+Tags: Canon Divergent, Canon Compliant, Apocalypse World, Apocalypse!Castiel, Angel Possession, Vessel Consent Issues, Hurt No Comfort, Not Happy Ending, Dark, Torture, Dead Dove Warning, background Jimmy/Amelia Novak, minor Charlie Bradbury/Jo Harvelle
 
 Warnings: Graphic Depictions of Violence, Major Character Death
 
@@ -841,6 +841,8 @@ The small dent on the metal door has turned into a huge hollow in the middle of 
 
 <br>
 
+#### Act 3
+
 Jimmy tries it again when Castiel and his army runs into a group of human led by a grumpy old man. The angels are scouting the area, and by the look of it, those humans are doing the same, highly trained and organized, spreading out in the woods, searching for something in the same area. The trees around them only have bare trunks and branches, dead bodies scattering on the leaves-paved ground, torn and broken, looking nothing short of a battlefield after an utterly horrifying war.
 
 Jimmy can't tell if those bodies belong to humans, angels, or monsters. Or maybe all of them.
@@ -893,7 +895,7 @@ Bobby clicks the trigger without blinking.
 
 Jimmy feels an explosion of burning sensation pushes right into his left eye sockets, burying into his head, scrambling his brain, and shooting out through his scalp. The explosion burns through his head, heating up his whole body, like every inch of his flesh and blood is on fire. He screams in the unbearable pain, thinking he's definitely going to die this time. The bullet has killed all those other angels, after all.
 
-An even louder and higher pitched scream comes out of Castiel's mouth, through angel's true voice. The angel holds a hand to press on his eyes, and the view from the TV screen turns dark. The whole imagined room shakes violently like it's crumbling down in the worst earthquake. The walls break down, bricks and pieces falling; metals on the doorframe screech in distortion, bending outward quickly. The ceiling is crashing down, and the whole room is falling apart.
+An even louder and higher pitched scream comes out of Castiel's mouth, through angel's true voice. The angel holds a hand to press on his eyes, and the view from the TV screen turns dark. The whole imagined room shakes violently like it's crumbling down in the worst earthquake. The walls break down, bricks and pieces falling; metals on the doorframe screech in distortion, bending outward quickly, cracking along the smashed hollow part. The ceiling is crashing down, and the whole room is falling apart.
 
 Even with all the pain flaring up in his head from his left eye, Jimmy hauls himself up to rush toward the door. The door crushes when he pushes it one more time, and he steps outside, walking into a sea of blackness.
 
@@ -923,7 +925,7 @@ Bobby's murderous face is right before him, the muzzle of his rifle aiming at hi
 
 He also realizes he can only see through his right eye, and the whole view is unbalanced, saturated in foggy red. He blinks hard, trying vainly to clear the view.
 
-Bobby shakes his barrel, waving at his good eye to catch his attention. "Are you listening to me, Angel? Do you want to take another bullet or what? We don't have all day."
+Bobby shakes his barrel, waving at his good eye to catch his attention. "You listening to me, Angel? You want to take another bullet or what? We don't have all day."
 
 "Not angel," Jimmy croaks slowly, feeling his throat as husky and dry as sandpapers. He can taste rusty metal smell of blood on his tongue.
 
@@ -931,7 +933,7 @@ Bobby shakes his barrel, waving at his good eye to catch his attention. "Are you
 
 "Not Castiel," Jimmy tries to steady his breath. "It's Jimmy. My name is Jimmy Novak."
 
-"The vessel," the man next to Bobby says, lowering his gun a few inches. "He must be the vessel."
+"The vessel," the man next to Bobby says, lowering his gun a few inches. "He must be the poor guy the angel took as the vessel."
 
 Bobby lowers his rifles slightly, too. But his tone is still harsh. "Where the hell is the angel? I still need him to answer the questions."
 
@@ -945,41 +947,43 @@ Bobby shoots him a grudging look. "Rufus, we spent months tracking them down. Th
 
 "We'll find him again," Rufus squeezes his shoulder. "I promise. We'll give Daniel justice."
 
-Bobby closes his eyes, tucking the rifle under his arm, giving a silent nod.
+Bobby closes his eyes painfully, tucks the rifle under his arm, and finally gives a silent nod.
 
 Rufus turns to Jimmy and nods to him. "Whatever you need to do, lad, do it."
 
-Jimmy doesn't really know how to cast the angel out. He looks up at the bleak sky, thinking, *I'm taking back my consent, Castiel. I'm saying No. Get out of my body!*
+Jimmy doesn't really know how to cast the angel out. He thinks about the day Castiel came to him from the sky, the light looming him. The day he thought was his reward, but only turned into the worst nightmare. The day when Castiel asked if he'd say "yes."
 
-Castiel yells with rage inside him. Grace and the angelic power slides through his veins, boiling its way through until they reach his head. Jimmy thinks his head might explode, then the light pours out from his mouth and eyes -- even the wounded one. The light forms a small bluish-white cloud, flying skyward. The air cracks around them with electricity.
+Jimmy looks up at the bleak sky, thinking, *I'm taking back my consent, Castiel. I'm saying No. Get out of my body, now!*
+
+Castiel yells with rage inside him. Grace and the angelic power slides through his veins, boiling its way through, burning all the veins as they spread, until they reach his head. Jimmy thinks his head might explode, then the light pours out from his mouth and eyes -- even the wounded one. The light forms a thin bluish-white cloud, flying skyward. The air cracks around them with electricity.
 
 And then it finishes.
 
 Jimmy's body collapses to the ground when Castiel leaves him completely.
 
-Rufus and Bobby both rush forward, each holding an arm for him. But even then, Jimmy feels he's sinking again, go down under the water surface, unable to breathe. His body feels so heavy, every inch of his muscle pains and stresses, heavy like lead. Each bone is threatening to break with the smallest move. The pain sensors at the ends of the nerves are screaming like the whole alarm system in his body refuses to turn off.
+Rufus and Bobby both rush forward, each holding an arm for him. But even then, Jimmy feels he's sinking again, going down under the water surface, unable to breathe. His body feels so heavy, every inch of his muscle pains and stresses, heavy like lead. Each bone is threatening to break with the smallest move. The pain sensors at the ends of the nerves are screaming like the whole alarm system in his body refuses to turn off.
 
 Castiel did say it might be death or even worse for him if he left.
 
 "Come on, we gotta go," Bobby urges, glancing around. "We don't know if that son of a bitch would bring more angels back here. It's getting dark. We gotta be back to the camp."
 
-"I don't think I can," Jimmy says tiredly, barely keeping his eyes open. His legs refuse to stand, let alone to walk. His knees keep giving way. He thinks Castiel is right, he's already too broken to be of any use.
+"I don't think I can," Jimmy murmurs tiredly, barely keeping his eyes open. His legs refuse to stand, let alone to walk. His knees keep giving way. He thinks Castiel is right, he's already too broken to be of any use.
 
-"You should go. Leave me. Don't let me slow you down," Jimmy tells them feebly. "You already saved me once, I'm sorry I can't pay you back."
+"You should go. Leave me. Don't let me slow you down," Jimmy tells them feebly. "You already saved me. Thank you. I'm sorry I can't pay you back."
 
 He then remembers, looking at Bobby straight with all his effort. "Your son, Daniel. I'm sorry, I couldn't stop him. I tried, I really tried. But I was too weak. I still am." His voice lowers, his head drooping down, his arms starting to slip from their hold.
 
 Jimmy closes his eyes, waiting. Thinking at least, if it's death, he gets to do it alone, in his own body.
 
-Bobby shakes him. "Hey, listen to me. Stay with me, alright? We're not done yet. Rufus, help me carry him. We're taking him back."
+Bobby shakes him. "Hey, son, stay with me. You're not done yet. Rufus, help me carry him. We're taking him back."
 
-Jimmy can't find more strength to answer anything. The dark sea is already swallowing the edge of his consciousness.
+Jimmy can't find more strength to answer anything. The dark sea in his brain is already swallowing the edge of his consciousness.
 
-Rufus answers, "On it."
+Rufus's voice is the last thing his mind catches, "On it."
 
-Jimmy can feel they're lifting his body, but that's the last he knows.
+Jimmy can feel they lift his body, but that's the last he knows.
 
-He sinks under a deep, dark water.
+He sinks under the deep, dark sea of unconsciousness.
 
 <br>
 
@@ -989,7 +993,7 @@ Castiel gets his name/fame of being "Master of interrogation" "Heaven's best tor
 
 ~~And when Jimmy fights again, Castiel finally leaves. (during the encounter with Bobby, near angel camp; Jimmy sacrifice himself to save Bobby, gets taken by the angels again)~~
 
-~~Visual: When Jimmy tries to fight and take back control, a visual: they look at mirror (similar to S05 canon Lucifer in Sam's vessel looks at a mirror to talk to Sam when Sam is trying to take back control), they talk like that, looking at each other through the mirror~~
+~~**Visual:** When Jimmy tries to fight and take back control, a visual: they look at mirror (similar to S05 canon Lucifer in Sam's vessel looks at a mirror to talk to Sam when Sam is trying to take back control), they talk like that, looking at each other through the mirror~~
 
 ~~Anna Milton is still a falling angel (does she regain power to be angel again?) ← Jimmy saved her by hindering Castiel~~
 
@@ -999,15 +1003,195 @@ Castiel gets his name/fame of being "Master of interrogation" "Heaven's best tor
 
 ### Chap 3
 
-> Jimmy thinks he's free, but his body is already ruined by angel grace. He can barely walk or run, he has pain all over his body. He's found by other angels on his way of escaping from angel camp.
+> Jimmy thinks he's free, but his body is already ruined by angel grace. He can barely walk or run, he has pain all over his body.
+>
+> Jimmy stays with Bobby in human base camp for a short while, recovering a little, but the camp is found by the angels again, Jimmy can't escape like others, offers to sacrifice himself to save Bobby etc. to buy them time, gets taken by the angels again, taken back to angel base camp
 >
 > Other angels say, "Look, isn't that the vessel Castiel said didn't comply? Should we help him fix it?" They start to torture Jimmy.
 >
 > It's too painful for any human to bear. Jimmy can't help thinking if Castiel would come back to him. What did he do wrong? Does he have to be punished like this? He had given him everything, his body, his mind, his health, does he have to give up his last consciousness and his soul, too? *Castiel, why are you doing this to me? Are you not an angel?*
 
+#### Act 1
+
+It's a loud burst of quarrel that wakes him up the next time.
+
+Two people are arguing, both having their voices raised.
+
+A woman is snapping, "For Christ sake, Bobby, what are you thinking, bring him back here?!"
+
+Bobby snaps back, "What else do you want me to do? Leave him to the angels? Out there to die alone?"
+
+"He's the vessel of the angel! The nastiest one we've ever dealt with! Most likely also the most dangerous one!"
+
+"Exactly my point! And he managed to cast him out! He must be stronger than he looks, and probably knows something. He's there when Daniel was killed!" His voice is broken when he mentions his son's name.
+
+The woman sighs. "Bobby, the angels could be searching for him. They might have some magical tracker spell on him that none of us can find for a hundred years. They might be right outside this camp this very minute. You could be putting all of us in danger."
+
+Bobby doesn't answer to that.
+
+There is the sound of cloth rustling. The woman must have moved. Her voice turns lower when she speaks again, "Are you using him as a bait? Drawing the angel to us? For your revenge?"
+
+Jimmy flinches. The idea makes his blood cold.
+
+He opens his eyes slowly. The room is hazy, dark, more like a hut than an actual room. His left eye is covered by some bandage, wrapped all the way behind his head. His head is still throbbing, but not as bad as the near-explosion sensation when Castiel left. The pain all over his body is still there, a constant reminder.
+
+He realizes he's lying on a bed, some half-decent blankets on him. He tries to pull himself up, but his body isn't cooperating. His hands shake too much when he tries to use them to push against the bed.
+
+Someone sitting to the left of him moves hastily toward him, shushing quietly, "Hey, hey, it's okay. You're safe. I wouldn't move around if I were you."
+
+The voice belongs to a young blonde girl, her eyes sharper than her age. Her hands hover around his shoulder.
+
+Jimmy tilts his head toward the door's direction. "Bait," he repeats dully, feeling the sound rumbling in his dry throat. He's not sure if that's a question or a statement.
+
+The girl pulls her hands back hesitantly. "Dammit," she curses quietly, glancing at the door nervously. "It's not... Forget about that, Bobby doesn't mean that. Don't move, alright? I'll go get Mom."
+
+The voice outside the door stops when she walks out. Bobby and the woman come in a moment later.
+
+"How are you feeling, love?" the woman has a stern looking, but her voice is kind.
+
+"Painful," Jimmy answers. Which is true. Pain is the only thing he can still feel now. It's everywhere. He's not sure if it's his body or his mind conceiving it now.
+
+The woman takes out a small bottle of pills and moves over to put it on the side of the bed. "Here, might make you better."
+
+Jimmy manages to give her a small smile, "Thank you."
+
+The blonde girl whispers something at her mother's ear then. The woman gives Bobby a hard stare after she finishes. Jimmy can already guess what they were talking about.
+
+"I'll leave," he says quietly, before they can say anything.
+
+The woman raises her eyebrows. "Where do you think you're going?"
+
+"Pontiac, Illinois. My home." Jimmy has the answer ready in his heart. Too ready. All this time, that's the only place he can think of to go. "I have a wife and a daughter. Please."
+
+The woman shares a look with Bobby. "That's heading east."
+
+Jimmy glances between them. "Where are we now?"
+
+"What used to be Nebraska," the woman answers simply. "Somewhere outside Central City, if I have to guess."
+
+"What do you mean 'what used to be'?" Jimmy is worried.
+
+They stare at him like he's an alien.
+
+"How long has that angel taken you?" Bobby frowns at him.
+
+Jimmy shakes his head, bracing himself for the truth of the reality. "I don't know. Last time I was me, it's 2008."
+
+"It's 2009 now," the woman says slowly. "I'm sorry."
+
+"Oh God," Jimmy gasps quietly, lowering his head. It's been a year. What could have happened in this year? What could have happened to Amelia and Claire, without him?
+
+"I'm going home," he says again.
+
+"I'm sorry, but it's likely your home was gone now," the woman says, coaxing him like he's just a slow kid in the class. "We don't even have states now. We call them Northeastern Section for anywhere east of Minnesota and Idaho. The demons are coming out from Texas; Angel camps are everywhere south of Kansas. East would be too close to the angels, we should go north."
+
+Jimmy just shakes his head slowly.
+
+"What about we discuss this again once you can walk?" the young girl proposes, forced hopefully. "Maybe we can come up with a plan later. And while you're here, we might just need to add more patrols and protections, Charlie and I can help with those. What do you say, Mom?"
+
+The woman thins her lips, but doesn't object.
+
+Bobby shrugs slightly. "Sounds like a plan to me."
+
+The woman bends over to put a hand on Jimmy's shoulder briefly before she walks out with Bobby. "I'm Ellen, by the way," she tells him. "And that's my daughter, Jo. We'll catch you up once you get better. Get some rest first."
+
+Jimmy wants to say he doesn't want to rest. He can feel life is slipping away from this ruined body, tortured and burned so deeply by the angel's existence that there is no way he can recover by himself. He doesn't have much time. All he ever wants is to go to his family one last time.
+
+But they do have a point. He can't even get off the bed right now, and he doesn't want to bother anyone else for his dying wish. There is no way for him to travel. If he gets noticed by the angels, that will be it for him -- everyone in the camp.
+
+He takes the painkilling pill, then, and lets the blessing numbness and drowsiness drag him into the dark. And prays not to have dreams.
+
+He already knows what he'd dream about if the dreams do come.
+
+<br>
+
+But no one is granting wishes these days.
+
+Jimmy dreams of walking into his house. Sunshine comes through the clean window, casting warm shadows on the carpet. The TV is quiet, sitting on the stand.
+
+"Jimmy?" his wife's voice comes from somewhere outside the view.
+
+He finds her in the kitchen, slicing the breads.
+
+"Hey," he walks over to her, feeling his heart clenched with joy. Amelia looks beautiful, even though she's just wearing a comfortable home dress.
+
+Jimmy wraps his arms around Amelia's waist from behind. "I miss you," he tells her, burying his head on her shoulder.
+
+She tilts her head, trying to look at him in the eyes. "Where have you been?" she says, turning around in his brace. The long and serrated break knife is still in her hand.
+
+"I'm sorry," Jimmy lowers his head, too painful to look at his wife in the eyes now. His voice is bleeding. "I'm sorry, Amelia. I never should leave you."
+
+"You should be sorry, yes, for leaving me." The voice turns hard and high-pitched. A wet, acute piercing pain penetrates his lower stomach.
+
+Jimmy looks up, and finds the man in his own face glaring back at him. His right eye is flaring blue light, and his left a dull smokey white. The knife in his hand sinks all the way into the wound in his body.
+
+Jimmy staggers a step back, gasping in pain and horror. "Castiel."
+
+"You can never escape me, I told you, didn't I?" the angel taunts. "There is a special connection between an angel and the vessel. Wherever you are, I can always find you. And when I do, you'll regret what you did to me."
+
+*What I did to you? What about what you did to me?* Jimmy doesn't dare to speak.
+
+Castiel looks down at his body, and Jimmy follows his eyes.
+
+The angel has a matching stab wound in his lower stomach, bleeding out a mixed light and blood.
+
+For the first time, Jimmy wonders, all those time when he feels the pain in his body, he wonders if Castiel feels them too, with him. The idea makes the tip of his lips tilt up a vicious degree. That almost makes the pain feel slightly more bearable now.
+
+"I'm not your vessel anymore, I cast you out. I said 'No'!" Jimmy says, almost taking joy from the annoyed look on Castiel's face.
+
+"There is always a way. I am very good at persuading." Castiel clenches his teeth, speaking slowly. "I know enough methods to be assigned the master interrogator by the General. We can try them all."
+
+Jimmy shivers violently. The cold pain in his body is spreading fast, growing through his body, freezing his legs and arms. He can't move, even in his dream.
+
+It's the pain that snaps him out of the dream this time.
+
+He gasps at the air. The pain is still there, sharp and unbearable, all over his body. He can barely hold back a moan.
+
+The room is darker than before he goes to sleep, the rustling sound from outside the door is quieter. He figures it must be a few hours and the painkiller's effect wears off. He struggles to reach for another, swallowing it down without water.
+
+The angel's face lingers before his closed eyelids.
+
+*There is a special connection between an angel and the vessel. Wherever you are, I can always find you.*
+
+It could have been such a comforting promise, if these exact words can be said in a completely different world. A world where angels are good and caring, a world where there is no Apocalypse and no war. Jimmy thinks bitterly, and immediately mocks his own innocence. But there is no such world. This world is all he gets, and this cold, cruel angel is all he gets. There is no escape for him, and there is no way out.
+
+The dreadfulness follows him into the next dream where he has to witness Amelia gets possessed by a demon, and his own hand holds out an glinting angel blade, stabbing through her heart. The one after that, he does the same to his daughter.
+
+"No." Jimmy twists and turns on the bed, struggling, "No, please. Not my daughter. Not them. Please."
+
+Every nightmare makes his blood colder. And every time he wakes up, cold sweat and tears from pain and fear covers his head. He doesn't know if he should be more frightful or glad that those are just dreams. He doesn't even have a way to know if the reality is any better or worse.
+
+<br>
+
+#### Act 2
+
+Days after nights are spent 
+
+
+
 <br>
 
 #### draft notes
+
+> Bobby's camp is found by the angels again, Jimmy can't escape like others, offers to sacrifice himself to save Bobby etc. to buy them time, gets taken by the angels again, taken back to angel base camp
+>
+> Other angels say, "Look, isn't that the vessel Castiel said didn't comply? Should we help him fix it?" They start to torture Jimmy.
+>
+> It's too painful for any human to bear. Jimmy can't help thinking if Castiel would come back to him. What did he do wrong? Does he have to be punished like this? He had given him everything, his body, his mind, his health, does he have to give up his last consciousness and his soul, too? *Castiel, why are you doing this to me? Are you not an angel?*
+
+S14 angel base camp: Rexford, Idaho (S9 Gas n' sip location)
+
+S14 human base camp: Dayton, Ohio
+
+S4 fanon angel base camp: Kansas City, Missouri (moving northwest over 10y)
+
+S4 fanon demon location: Texas (moving north)
+
+S4 fanon human base camp: Central City, Nebraska (Roadhouse location) (moving northeast over 10y)
+
+human base camp people: Bobby, Rufus; Ellen, Jo, Bill Harvelle (Ellen's husband, not dead because John is gone), Ash; Mary; Charlie, Pamela, Anna (human)
+
+other angels in Castiel's garrison: Balthazar, Ishim, Benjamin, Mirabel, Inias, Hester, Uriel, Rachel, Bartholomew
 
 ###### [TBC]
 
