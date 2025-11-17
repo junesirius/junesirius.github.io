@@ -1275,11 +1275,25 @@ Ellen looks at him for a long minute. "Okay," she says finally.
 
 They run into angels on the third day after setting off, somewhere on the remains of a highway conjunction, ready to turn east. Ellen said they passed the Illinois state border just an hour before that, meaning they are probably only about a hundred miles from Chicago.
 
-And a hundred miles from Pontiac, from home. Jimmy calculates the distance in his head.
+And a hundred miles from Pontiac, from home. Jimmy calculates the distance in his head, knowing that last hundred miles is achingly close, but also feels unbearably impassable.
 
-They realize the same thing at the same time: the angels must be monitoring the whole area, waiting for him to be stupid enough to show.
+The angel squad surrounds the vehicles. Bobby and those who are armed with angel-killing bullets hold their positions, ready to fire.
 
-The angel squad 
+Ellen gestures for Jimmy to stay low in the back of the Jeep they're in, grabbing her rifle and loading it.
+
+Jimmy recognizes the leader of that squad when he comes closer. He's the one used to stand half a step behind Castiel, except last time. All the other faces are new.
+
+"Guns," the leading angel eyes them, turning into a wild mocking laugh. "So you are those petty annoying bugs that Castiel warned us about. The ones figured out how to bite. And apparently, the ones stung him and stole his favorite meatsuit. Interesting."
+
+He raises a hand, putting fingers together in a snapping posture.
+
+"Fire!" Bobby orders.
+
+The bullets fly toward the angels.
+
+But it's almost like a special effect frame in the movies, the air seems to be stirred for a second. The sound of wings flapping is mixed with the bullets flying. The angels disappear from the thin air, and only reappear when they run out the first round.
+
+"Like I said, bugs that bite." That leading angel reappears, straightening his suit, brushing the collars as if that round of bullets merely flies some dust onto his cloth.
 
 
 
