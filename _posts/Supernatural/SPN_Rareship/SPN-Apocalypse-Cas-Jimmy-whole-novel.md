@@ -13,7 +13,7 @@ published: false
 
 Pairing: Castiel/Jimmy Novak (Apocalypse!Castiel/Apocalypse!Jimmy Novak)
 
-Tags: Canon Divergent, Canon Compliant, Apocalypse World, Apocalypse!Castiel, Angel Possession, Vessel Consent Issues, Hurt No Comfort, Not Happy Ending, Dark, Torture, Dead Dove Warning, background Jimmy/Amelia Novak, minor Charlie Bradbury/Jo Harvelle
+Tags: Canon Divergent, Canon Compliant, Apocalypse World, Apocalypse!Castiel, Angel Possession, Vessel Consent Issues, Hurt No Comfort, Not Happy Ending, Dark, Torture, Dead Dove Warning, background Jimmy/Amelia Novak, very minor hinted Charlie Bradbury/Jo Harvelle
 
 Warnings: Graphic Depictions of Violence, Major Character Death
 
@@ -1165,7 +1165,121 @@ Every nightmare makes his blood colder. And every time he wakes up, cold sweat a
 
 #### Act 2
 
-Days after nights are spent 
+Days after nights are spent in a mixed haze of wake and nightmare.
+
+But he does feel strength comes back slowly.
+
+Jimmy can pull himself up from the bed now, sitting against the headboard, eating the small bowl of porridge-looking food that Jo or another red-haired girl brings to him -- name's Charlie, he thinks, if his memory is anything to be relied on.
+
+"Sorry, that's all we got right now," Charlie says apologetically. "We are running out of food around here. They're talking about moving soon."
+
+Jimmy nods small, letting the food moving down his throat difficultly. Food seems to be a so distant concern for him right now. But he listens to them when they tell him things. He listens with his full attention. Other humans' voices, he doesn't realize even that can feel like a too precious things to grasp on, to miss about. There was so little of that in the past year, when Castiel locked him inside.
+
+"Do you want to talk?" Charlie reads his face, sitting down next to him. Her curly red hair spreads on her shoulder. "Your daughter, Claire, right? Heard you call her sometimes in your dreams."
+
+Jimmy nods, putting the food down. "She's only eleven. No, sorry, she's twelve now," he corrects himself, remembering the missing year. "She's young, but so clever." He tells Charlie, remembering all those small things that Claire would do. "She's curious about the world. She loves reading stories and always asks for another when we send her to bed."
+
+He stares at the air before him, eyes unfocused. "If this world is different, if I never said 'Yes' to Castiel, I would be there for her, watch her grow up, take her to schools and parks, walk her down the isle one day, watch her live her life. Just, be a good father"
+
+He takes his gaze back, forcing a bitter smile. "I'm the worst father in the world."
+
+"In this world? I wouldn't say that." Charlie tells him, putting a gentle hand on his shoulder. "And you know what, from what I heard, if your daughter is as strong as you? She might be okay. You just have to believe that."
+
+"I used to believe in God and angels, can you believe that?" Jimmy shakes his hand. "I believed in Castiel. I didn't know they're like that."
+
+"No one knew they're such assholes until they all start doing crappy things. It's like the biggest scam in the universe, how many times you fell for scams? This might just be the biggest one. It's not like you *want* to do anything bad, right?" Charlie tries to comfort him, but it's doing very little help. "But that doesn't mean you have to give up believing things. I think." She bites hard on the last two words, amending.
+
+"In angels?" Jimmy swallows.
+
+Charlie shrugs slightly. "Anything you choose. Believe they still have a chance to turn good, or believe in something else, hell, believe in yourself and your family, us, humans. Anything."
+
+Jimmy considers.
+
+"Thank you," he tells the girl, after a short while.
+
+Charlie gives him a light pat on the arm before getting up and leaving the room. "Sure thing."
+
+<br>
+
+It takes him another week to get off the bed, and another to walk out of the room.
+
+The people in the camp are busy packing. Like Charlie said, they are really getting ready to move the camp. Many people are taking apart the temporary tents next to the huts, and loading things onto the cars and trucks.
+
+Jimmy leans on the doorframe, watching the hustle in a daze.
+
+A quiet gasp sounds up to the left of him. "You!" A young lady hisses, and Jimmy turns just in time to see her fist raising up.
+
+"Anna, wait!" Jo and Charlie call out at the same time, rushing toward them.
+
+"Castiel," Anna clenches her teeth. "How are you even *here*?"
+
+"He's not the angel. Anna, meet Jimmy. Jimmy, Anna." Jo introduces them hastily.
+
+Anna lowers her fist with understanding. "The vessel." Then, replaced by confusion. "Castiel would let you go just like that?"
+
+"I cast him out," Jimmy admits.
+
+Anna widens her eyes. "That's not an easy thing to do."
+
+Jimmy chuckles humorlessly. "Understatement."
+
+Anna stares at him for a moment longer before looking away. "Sorry about earlier. I thought you were him."
+
+Jimmy waves it off, then, "I'm glad you are well."
+
+Charlie frowns at him. "You speak like you met her before."
+
+"I did," Jimmy says, not realizing that would cause three pairs of eyes staring back at him.
+
+"How?" Anna prompts.
+
+Jimmy explains the time when he tried to fight for the control and help Anna win the fight against the angels.
+
+"You saved my life," Anna murmurs, blinking in disbelief. She takes a large step to pull him into a hug. The pressure makes the constant pain in his body worse, but Jimmy fights back the flinch, wrapping his arms around the girl's back. It feels too nice.
+
+"Thank you," Anna pulls back eventually, then looks down, as if ashamed. "I'm so sorry I can't heal you." She makes a vague gesture at her own left eye and the rest of the body. "If only I have some grace."
+
+"I think grace is the initial reason why I'm like this. I don't miss it," Jimmy says bluntly.
+
+"Still," Anna shifts uncomfortably. "Angels could have done so much good, like humans, they just have to choose it."
+
+Ellen calls out to them from a small distance right then, saying they're ready to move. The girls split to help with the last few items. Leaving Jimmy alone, thinking.
+
+<br>
+
+Jimmy is set into one of their vehicles in the middle, along with Ellen, Jo, and Charlie. Bobby is at the front, Rufus is at the tail.
+
+The plan is to head northeast, detouring through what used to be Minneapolis and Chicago, hoping that route can help them bypass the angel camps to reach the Northeastern Section -- the only part they can still hope for some more hideouts and food source.
+
+But even if they do run into angels, quoting from Bobby, he's more than happy to dump all their ammo on those flying ass monkeys and burn their wings extra crispy.
+
+"So nothing to worry," Bobby finishes his speech and climbs into his truck. But it doesn't make Jimmy feel any easier.
+
+He knows by now the common sigils that they'd use to protect against angels and some Enochians, thanks to Jo and Charlie. But when they're in the moving vehicles, they can't apply all of them. Their tracks are easier to detect, which means there's a higher chance to be found.
+
+Ellen glances in his detection when they talk about the last few things to be careful about.
+
+Jimmy understand what those glances meant. Being Castiel's vessel and moving without enough protection, chances are, he'd be like a moving mark for angels to catch. And they might not be able to protect him.
+
+"I understand." Jimmy tells her, later. "Don't worry about me. If the worst happens, they are likely coming for me. You should go with the others. Live."
+
+"What do you take me for?" Ellen raises her eyebrows in displease. "Think I'd throw you under the bus?"
+
+Jimmy shakes his head. "That's not what I mean. Just," he swallows, not wanting to think about *the worst*, let alone spelling it out loud, but he forces it out. "Castiel might be there, waiting to possess me again. And if he wins, I don't want to be the one with your blood in my hands. Please."
+
+Ellen looks at him for a long minute. "Okay," she says finally.
+
+<br>
+
+#### Act 3
+
+They run into angels on the third day after setting off, somewhere on the remains of a highway conjunction, ready to turn east. Ellen said they passed the Illinois state border just an hour before that, meaning they are probably only about a hundred miles from Chicago.
+
+And a hundred miles from Pontiac, from home. Jimmy calculates the distance in his head.
+
+They realize the same thing at the same time: the angels must be monitoring the whole area, waiting for him to be stupid enough to show.
+
+The angel squad 
 
 
 
@@ -1173,7 +1287,7 @@ Days after nights are spent
 
 #### draft notes
 
-> Bobby's camp is found by the angels again, Jimmy can't escape like others, offers to sacrifice himself to save Bobby etc. to buy them time, gets taken by the angels again, taken back to angel base camp
+> Jimmy can't escape like others, offers to sacrifice himself to save Bobby etc. to buy them time, gets taken by the angels again, taken back to angel base camp
 >
 > Other angels say, "Look, isn't that the vessel Castiel said didn't comply? Should we help him fix it?" They start to torture Jimmy.
 >
