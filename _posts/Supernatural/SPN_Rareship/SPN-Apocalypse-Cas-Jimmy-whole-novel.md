@@ -1073,7 +1073,7 @@ Jimmy glances between them. "Where are we now?"
 
 They stare at him like he's an alien.
 
-"How long has that angel taken you?" Bobby frowns at him.
+"How long it's been since that angel took you?" Bobby frowns at him.
 
 Jimmy shakes his head, bracing himself for the truth of the reality. "I don't know. Last time I was me, it's 2008."
 
@@ -1097,7 +1097,7 @@ The woman bends over to put a hand on Jimmy's shoulder briefly before she walks 
 
 Jimmy wants to say he doesn't want to rest. He can feel life is slipping away from this ruined body, tortured and burned so deeply by the angel's existence that there is no way he can recover by himself. He doesn't have much time. All he ever wants is to go to his family one last time.
 
-But they do have a point. He can't even get off the bed right now, and he doesn't want to bother anyone else for his dying wish. There is no way for him to travel. If he gets noticed by the angels, that will be it for him -- everyone in the camp.
+But they do have a point. He can't even get off the bed right now, and he doesn't want to bother anyone else for his dying wish. There is no way for him to travel. If he gets noticed by the angels, that will be it for him -- and for everyone in the camp.
 
 He takes the painkilling pill, then, and lets the blessing numbness and drowsiness drag him into the dark. And prays not to have dreams.
 
@@ -1139,15 +1139,19 @@ For the first time, Jimmy wonders, all those time when he feels the pain in his 
 
 "I'm not your vessel anymore, I cast you out. I said 'No'!" Jimmy says, almost taking joy from the annoyed look on Castiel's face.
 
-"There is always a way. I am very good at persuading." Castiel clenches his teeth, speaking slowly. "I know enough methods to be assigned the master interrogator by the General. We can try them all."
+"There is always a way. I am very good at persuading." Castiel clenches his teeth, speaking slowly. "I know enough methods to break anyone. We can try them all."
 
-Jimmy shivers violently. The cold pain in his body is spreading fast, growing through his body, freezing his legs and arms. He can't move, even in his dream.
+Jimmy shivers violently.
+
+No. *No!*
+
+The cold pain in his body is spreading fast, growing through his body, freezing his legs and arms. He can't move, even in his dream.
 
 It's the pain that snaps him out of the dream this time.
 
-He gasps at the air. The pain is still there, sharp and unbearable, all over his body. He can barely hold back a moan.
+He gasps at the air. The pain is still there, sharp and unbearable, all over his body. He can barely hold back his moaning.
 
-The room is darker than before he goes to sleep, the rustling sound from outside the door is quieter. He figures it must be a few hours and the painkiller's effect wears off. He struggles to reach for another, swallowing it down without water.
+The room is darker than before he goes to sleep, the rustling sound from outside the door quieter. He figures it must be a few hours and the painkiller's effect wears off. He struggles to reach for another, swallowing it down without water.
 
 The angel's face lingers before his closed eyelids.
 
@@ -1159,7 +1163,7 @@ The dreadfulness follows him into the next dream where he has to witness Amelia 
 
 "No." Jimmy twists and turns on the bed, struggling, "No, please. Not my daughter. Not them. Please."
 
-Every nightmare makes his blood colder. And every time he wakes up, cold sweat and tears from pain and fear covers his head. He doesn't know if he should be more frightful or glad that those are just dreams. He doesn't even have a way to know if the reality is any better or worse.
+Every nightmare makes his blood colder. And every time he wakes up, cold sweat and tears from pain and fear cover his face. He doesn't know if he should be more frightful or glad that those are just dreams. He doesn't even have a way to know if the reality is any better or worse.
 
 <br>
 
@@ -1173,13 +1177,17 @@ Jimmy can pull himself up from the bed now, sitting against the headboard, eatin
 
 "Sorry, that's all we got right now," Charlie says apologetically. "We are running out of food around here. They're talking about moving soon."
 
-Jimmy nods small, letting the food moving down his throat difficultly. Food seems to be a so distant concern for him right now. But he listens to them when they tell him things. He listens with his full attention. Other humans' voices, he doesn't realize even that can feel like a too precious things to grasp on, to miss about. There was so little of that in the past year, when Castiel locked him inside.
+Jimmy nods small, letting the food moving down his throat difficultly. Food seems to be such a distant concern for him right now. Like most of the other things in the life, like light, like words.
 
-"Do you want to talk?" Charlie reads his face, sitting down next to him. Her curly red hair spreads on her shoulder. "Your daughter, Claire, right? Heard you call her sometimes in your dreams."
+He listens to the girl when she tells him some random million things. She talks about the missions, the way to survive the current world, the other people they gather together in the camp. Jimmy listens with his full attention. Listens to the sound of those words, more than the words themselves.
 
-Jimmy nods, putting the food down. "She's only eleven. No, sorry, she's twelve now," he corrects himself, remembering the missing year. "She's young, but so clever." He tells Charlie, remembering all those small things that Claire would do. "She's curious about the world. She loves reading stories and always asks for another when we send her to bed."
+Another human's talking voice, when they're talking to him. Jimmy doesn't realize even that can feel like a too precious thing to grasp on, to miss about. There was so little of that in the past year, when Castiel locked him inside.
 
-He stares at the air before him, eyes unfocused. "If this world is different, if I never said 'Yes' to Castiel, I would be there for her, watch her grow up, take her to schools and parks, walk her down the isle one day, watch her live her life. Just, be a good father"
+"Do you want to talk?" Charlie reads his face, sitting down next to him. Her curly red hair spreads on her shoulder. She throws them back. "Heard you calling some names, sometimes. In your dreams. Claire. Your daughter, right?"
+
+Jimmy nods, putting the food down. "She's only eleven. No, sorry, she's twelve now," he corrects himself, remembering the missing year. "She's young, but so clever." He tells Charlie, remembering all those small things Claire would do. "She's curious about the world. She loves reading stories and always asks for another when we try to send her to bed."
+
+He stares at the air before him, eyes unfocused. "If this world is different, if I never said 'Yes' to Castiel, I would be there for her, watch her grow up, take her to schools and parks, walk her down the isle one day, watch her live her life. Just, be a good father."
 
 He takes his gaze back, forcing a bitter smile. "I'm the worst father in the world."
 
@@ -1203,19 +1211,31 @@ Charlie gives him a light pat on the arm before getting up and leaving the room.
 
 It takes him another week to get off the bed, and another to walk out of the room.
 
-The people in the camp are busy packing. Like Charlie said, they are really getting ready to move the camp. Many people are taking apart the temporary tents next to the huts, and loading things onto the cars and trucks.
+Ellen visited a few times during those weeks. Bobby, too. Jimmy told them everything he could remember from the past year. But that's not a lot. He could tell pain and disappointment from their lowered eyes, and anger. So much anger when he told them about what the angel had done -- to him, to anyone.
+
+"I should have killed that son of a bitch when I got the chance." Jimmy heard Bobby growl, once, outside the door. "If Rufus didn't stop me last time, he'd be gone already."
+
+"You did the right thing," Ellen's voice said.
+
+Bobby barely huffed.
+
+Even Jimmy couldn't stop wondering if that really was. Now that he was useless, and the angel was still out there, doing God knows what. He couldn't stop wondering what's the use of his life and the meaning of it all for the next many days.
+
+<br>
+
+The people in the camp are busy packing, when he is finally able to walk out of the hut. Like Charlie said, they are really getting ready to move the camp. Many people are taking apart the temporary tents next to the huts, and loading things onto the cars and trucks.
 
 Jimmy leans on the doorframe, watching the hustle in a daze.
 
 A quiet gasp sounds up to the left of him. "You!" A young lady hisses, and Jimmy turns just in time to see her fist raising up.
 
-"Anna, wait!" Jo and Charlie call out at the same time, rushing toward them.
+"Anna, wait!" Jo and Charlie call out at the same time, rushing toward them from two directions.
 
-"Castiel," Anna clenches her teeth. "How are you even *here*?"
+"Castiel," Anna grinds her teeth. "How are you even *here*?"
 
-"He's not the angel. Anna, meet Jimmy. Jimmy, Anna." Jo introduces them hastily.
+"He's not the angel. Anna, meet Jimmy. Jimmy, Anna." Jo introduces them hastily. Charlie grabs Anna's wrist.
 
-Anna lowers her fist with understanding. "The vessel." Then, replaced by confusion. "Castiel would let you go just like that?"
+Anna lowers her fist with slow understanding. "The vessel." Then, replaced by confusion. "Castiel would let you go just like that?"
 
 "I cast him out," Jimmy admits.
 
@@ -1223,59 +1243,63 @@ Anna widens her eyes. "That's not an easy thing to do."
 
 Jimmy chuckles humorlessly. "Understatement."
 
-Anna stares at him for a moment longer before looking away. "Sorry about earlier. I thought you were him."
+Anna stares at him for a moment longer before looking down, one hand rubbing the wrist of the other. "Sorry about that. I thought you were him."
 
-Jimmy waves it off, then, "I'm glad you are well."
+"It's a common mistake. Don't worry," Jimmy looks at her. The girl looks well, healthy and strong, compared to the last time he saw her, through that TV screen that was the angel's view. "I'm glad you are okay," he tells her.
 
 Charlie frowns at him. "You speak like you met her before."
 
 "I did," Jimmy says, not realizing that would cause three pairs of eyes staring back at him.
 
-"How?" Anna prompts.
+"How?" Anna's voice raises a degree.
 
-Jimmy explains the time when he tried to fight for the control and help Anna win the fight against the angels.
+Jimmy explains the time when he tried to fight for the control and helped Anna win the fight against the angels. He was there, too, when Anna blasted them away.
 
-"You saved my life," Anna murmurs, blinking in disbelief. She takes a large step to pull him into a hug. The pressure makes the constant pain in his body worse, but Jimmy fights back the flinch, wrapping his arms around the girl's back. It feels too nice.
+"You saved my life," Anna murmurs, blinking in disbelief. She takes a large step forward, pulling him into a hug. The pressure makes the constant pain in his body worse, but Jimmy fights back the flinch, wrapping his arms around the girl's back. It feels too nice. It reminds him when he held his daughter like this.
 
-"Thank you," Anna pulls back eventually, then looks down, as if ashamed. "I'm so sorry I can't heal you." She makes a vague gesture at her own left eye and the rest of the body. "If only I have some grace."
+"Thank you," Anna pulls back eventually, then looks down, as if ashamed. "I'm so sorry I can't heal you." She makes a vague gesture at her own left eye and the rest of the body, mirroring Jimmy's wounds. "If only I have some grace."
 
-"I think grace is the initial reason why I'm like this. I don't miss it," Jimmy says bluntly.
+"You are an angel?" Jimmy tenses.
 
-"Still," Anna shifts uncomfortably. "Angels could have done so much good, like humans, they just have to choose it."
+Anna has to explain the whole ripped-out grace thing.
+
+"I think grace is the reason why I'm like this. I don't miss it," Jimmy says bluntly, at the end of her telling.
+
+"Still," Anna shifts uncomfortably, glancing skyward. "I might be biased, but I don't hate them. I pity them. Angels could have done so much good; they're supposed to be. Now they just have to choose it."
 
 Ellen calls out to them from a small distance right then, saying they're ready to move. The girls split to help with the last few items. Leaving Jimmy alone, thinking.
 
 <br>
 
-Jimmy is set into one of their vehicles in the middle, along with Ellen, Jo, and Charlie. Bobby is at the front, Rufus is at the tail.
+Jimmy is settled into one of their vehicles in the middle, along with Ellen, Jo, and Charlie. Bobby is at the front, Rufus is at the tail.
 
-The plan is to head northeast, detouring through what used to be Minneapolis and Chicago, hoping that route can help them bypass the angel camps to reach the Northeastern Section -- the only part they can still hope for some more hideouts and food source.
+The plan is to head northeast, detouring through what used to be Minneapolis and Chicago, hoping that route can help them bypass the angels and demons in the south to reach the Northeastern Section -- the only part they can still hope for some more hideouts and food source.
 
-But even if they do run into angels, quoting from Bobby, he's more than happy to dump all their ammo on those flying ass monkeys and burn their wings extra crispy.
+But even if they do run into angels, quoted from Bobby, he's more than happy to dump all their ammo on those flying ass monkeys and burn their wings extra crispy.
 
 "So nothing to worry," Bobby finishes his speech and climbs into his truck. But it doesn't make Jimmy feel any easier.
 
-He knows by now the common sigils that they'd use to protect against angels and some Enochians, thanks to Jo and Charlie. But when they're in the moving vehicles, they can't apply all of them. Their tracks are easier to detect, which means there's a higher chance to be found.
+He knows by now the common sigils that they'd use to protect against angels and some simple Enochian spells, thanks to Jo and Charlie. But when they're in the moving vehicles, they can't apply all of them. Their tracks are more exposed, so much easier to get noticed, which means higher chance to danger and death -- but staying in the same spot and running out of food also means death, anyway.
 
-Ellen glances in his detection when they talk about the last few things to be careful about.
+Ellen glances in his direction when they talk about the last few things to be careful about.
 
-Jimmy understand what those glances meant. Being Castiel's vessel and moving without enough protection, chances are, he'd be like a moving mark for angels to catch. And they might not be able to protect him.
+Jimmy understand what those glances mean. Being Castiel's vessel and moving without enough protection, chances are, he'd be like a moving beacon for angels to catch. And they might not be able to protect him.
 
-"I understand." Jimmy tells her, later. "Don't worry about me. If the worst happens, they are likely coming for me. You should go with the others. Live."
+"I understand." Jimmy tells her, later. "Don't worry about me. If the worst happens, they are probably coming for me. You should go with the others. Save yourself."
 
-"What do you take me for?" Ellen raises her eyebrows in displease. "Think I'd throw you under the bus?"
+"What do you take me for?" Ellen raises her eyebrows as if insulted. "Think I'd throw you under the bus?"
 
-Jimmy shakes his head. "That's not what I mean. Just," he swallows, not wanting to think about *the worst*, let alone spelling it out loud, but he forces it out. "Castiel might be there, waiting to possess me again. And if he wins, I don't want to be the one with your blood in my hands. Please."
+Jimmy shakes his head. "That's not what I mean. Just," he swallows, not wanting to think about *the worst*, let alone spelling it out loud, but he forces it out. "Castiel might be there, waiting to possess me again. And if he wins, I don't want to be the one with your blood in my hands for my failure. Or any of yours. Please."
 
-Ellen looks at him for a long minute. "Okay," she says finally.
+Ellen regards him for a long minute. "Okay," she says finally, slowly. But Jimmy isn't sure if she means it the way he thinks it is.
 
 <br>
 
-They run into angels on the third day after setting off, somewhere on the remains of a highway conjunction, ready to turn east. Ellen said they passed the Illinois state border just an hour before that, meaning they are probably only about a hundred miles from Chicago.
+They run into angels on the third day after setting off, somewhere on the remains of a highway conjunction, ready to turn east. Ellen said they passed the Illinois state border just an hour before that, meaning they are probably only about a hundred miles from Chicago now.
 
-And a hundred miles from Pontiac, from home. Jimmy calculates the distance in his head, knowing that last hundred miles is achingly close, but also feels unbearably impassable.
+And a hundred miles from Pontiac, from home, too. Jimmy calculates the distance in his head, knowing that last hundred miles is achingly close, but also feels unbearably impassable.
 
-They are noticed by two patrolling angels.
+They are noticed by two sentinel angels.
 
 Bobby shoots one dead before they can fly away to report. But the second one is too far out of the range and flies out. Only then do they notice a military facility in a short distance.
 
@@ -1285,35 +1309,37 @@ Bobby's voice passes through the radio speaker they set up in each car. "What do
 
 "Are you out of your mind?" Ellen snaps, releasing her safety belt in the mean time, and gesturing them to do the same and get out of the vehicle quickly. Rufus says the exact same words through the radio.
 
-Ellen grabs the radio. "You have no idea how many are there. The numbers and ranks, their powers, how big that building is. You're trying to kill all of us? We should run before they find us! Abandon the car and go to the woods!"
+Ellen grabs the radio. "You have no idea how many of them are there. The numbers and ranks, their powers, how big that building is. You're trying to kill all of us? We should run before that bloody guard comes back with the troop! Abandon the car and go to the woods!"
 
 Rufus's voice says, "What she said."
 
-Bobby says last, gruffly. "Everything, you heard her."
+Bobby has to agree, his voice gruff. "Everyone, you heard her."
 
-Jimmy stumbles out of the car, with the help of Jo and Charlie. Ellen is too busy getting the rifle ready. Jo and Charlie try to take as many backpack as they can.
+People file out of the vehicles.
 
-"Leave it!" Ellen snaps. "Run!"
+Jimmy stumbles out of the car, barely standing straight with the help of Jo and Charlie. Ellen is too busy getting the rifle ready. The girls leave him to lean against the car, rounding to the back of the truck, trying to grab as much supplies as they can.
+
+"Leave it!" Ellen snaps. "Run! Just run!"
 
 They can already see a gathering grey cloud flying in their direction.
 
-The highway is not far from the woods. People start running.
+The highway is not far from the woods. They start running.
 
-But Jimmy can't. The pain in his body are still fiercely tearing him apart. Each step is like stepping on burning blades. His arms and legs refuse to work however hard he wills them. He tumbles on the road, falling hard.
+But Jimmy can't. The pain in his body is still too fierce, tearing him apart from head to toe. Each step is like stepping on burning blades. His arms and legs refuse to work however hard he wills them. He tumbles on the road, falling hard.
 
 "Dammit!" Ellen notices and turns back.
 
 They are about the only two left on the road outside the woods now.
 
-The first grey cloud shoots down, landing on the roadside, forming into the shape of an angel.
+The first grey cloud shoots down, landing on the roadside, forming into the shape of an angel. Dust flies around the figure, like a bomb just hits the ground.
 
-Ellen fires at him before his step is even steady. The cloud burns in golden flame and screeching sound. The second one follows closely, then a third. There is no way they can fight off all of them.
+Ellen fires at the shape before the angel gets to steady his step. The cloud of dust and smoke burns in golden flame and screeching sound. The second one follows closely, then a third. There is no way they can fight off all of them.
 
 "Go!" Jimmy yells desperately, waving at Ellen. Ellen might still have a chance, but he definitely doesn't now.
 
-Ellen glances at the angels, shooting the next closest two, then looks back at him. Her look conflicted.
+Ellen glances at the angels, shooting the next closest two, then looks back at him. Her eyes conflicted.
 
-"You promised." Jimmy begs. "Go! Please! I can hold them off. I can hold them all off! Live."
+"You promised." Jimmy begs. "Go! Please! I can hold them off. I can hold them all off!"
 
 The next angel drops closer to Jimmy than to Ellen.
 
@@ -1327,7 +1353,7 @@ Jimmy risks a glance in the direction where Ellen was. But she is not there anym
 
 He lets out a short sigh of relief.
 
-"Jimmy Novak. Nobody," he announces. Proudly.
+"Jimmy Novak. I'm nobody," he announces. Proudly.
 
 <br>
 
@@ -1363,17 +1389,139 @@ other angels in Castiel's garrison: Balthazar, Ishim, Benjamin, Mirabel, Inias, 
 >
 > He thinks, maybe the pain will stop once Castiel comes back inside him. He doesn't want Castiel wear his young daughter to the battlefield, but how could he ask, when he knows agony and nightmare will be all that's waiting for him?
 
+#### Act 1
+
+It's not just any angel base camp. Jimmy realizes belatedly as the angels drag him into the grim place.
+
+It's a prisoner concentration camp.
+
+It's like Hell when Castiel visited there, without sulfur, but with the angels as the torturers. The crying and screaming is even worse than Hell.
+
+Jimmy tries to glance at those cells as he's hauled across the corridor. He wonders if they're humans or demons. Or maybe even angels.
+
+He doesn't get an answer before he's shoved into one of the countless cell rooms, falling to the ground, bumping his back to the wall. But it's only the beginning of the new nightmare.
+
+The angels don't just leave him there.
+
+"Isn't that the vessel Castiel said was too untamed?" A hand roughly grabs his chin, forcing Jimmy to raise his head toward them.
+
+Another angel murmurs an agreement. "Should we help him fix it? He'll be pleased when he's back."
+
+"Or you just want to practice those little tricks you learned by watching him work," a third angel mocks.
+
+"Who doesn't want to be his apprentice?" the one getting mocked rebuts. "He isn't called the professional and the artist for no reason. It's real art watching him work."
+
+"Except when you do it, you're just like a butcher."
+
+"Trust me, I'm getting better." The angel's fingers stroke through Jimmy's cheeks, resting there, almost as if gently. His eyes bore into Jimmy's. "One thing I learned from him, is everyone has a breaking point. You just need to find it. Will is nothing, compared to that physical pain."
+
+<br>
+
+It turns out to be right. Jimmy thinks vaguely, feeling pain shooting straight into his head. Will indeed feels like nothing, compared to the pain they're putting him through.
+
+The torture never stops.
+
+He doesn't know if he's even still moaning or screaming. Sound chokes in his hoarse throat. He feels as if his brain is just floating in a sea of the strongest acid, corroding away everything his mind are still holding.
+
+He wonders how his body can still hold together. How he's still alive.
+
+He wonders if this really is Hell, just disguising the demons as angels. Because, really, what's the difference?
+
+He passes out in pain so many times, but the angels force his consciousness back. He sees white light patching his body back together, only to be cut open again.
+
+So they *can* heal. Jimmy thinks, remembering what Anna said to him, which feels like eons ago. They just have to choose to do the good things. Except they don't. No one does now. It's the Apocalypse, after all.
+
+His wounded eye is cured, too, when they put his gut back into his stomach. But Jimmy knows not to feel relieved for that brief second when he's whole again, because that really only lasts one second, when the next round of torture begins, again.
+
+It's too painful for any human to bear.
+
+"What do you want?" Jimmy wails through the voice that doesn't even sound like him now.
+
+Sometimes the angels ask a question or two, and Jimmy doesn't even know what he's answering. Other times, they just laugh, and slice him open like a dead meat.
+
+It's not about interrogation, or words, or any value he can provide. Jimmy realizes. It's about torture, and torture alone. It's about providing them toys to kill the time, because that's all human is to them.
+
+It's not even prisoner concentration camp. It's... it's an ant farm, built only to watch how those insects twitch and struggle when they're flooded and drowned; a zoo that is kept with the only show being watching them in pain; a slaughter house, except there isn't even a hope for an ending, there is no comfort of death in the end, only the eternal, constant pain and torture.
+
+This is Hell.
+
+Jimmy closes his eyes, trying vainly to let his mind to get away from his body for a moment, to think about anything but the screaming pain through every inch of his body, every single smallest blood veins. He thinks then, what did he do to deserve this. And that leads to a whole train of thoughts to examine his whole life, up until this moment.
+
+*What did I do wrong?* Jimmy thinks desperately. *Do I have to be punished like this? For eternity?*
+
+"Castiel," Jimmy's lips quiver, his head rising to the sky's direction, like when he used to pray. His mind phases in and out like a bad radio signal. He hasn't prayed for a long while, and he doesn't intend to start again. But the pain is too huge, and the only thing comes to his mind, the only one he can think of to ask, is the angel that was once in his body. The angel he thought he knew. The angel that had told him, "You're mine," and that he'll always find him. Jimmy's fuzzy mind imagines the words in a different tone, from a different story. *Will you come back to me, Castiel? Save me from them, release me from this pain?*
+
+He doesn't know if he speaks the words out or just speaks in his mind.
+
+*Castiel, please, I have given you everything, my body, my mind, my health. Do I have to give up the last consciousness and my soul, too?*
+
+*Castiel, why are you doing this to me? Are you not an angel?*
+
+"Castiel, that's right," an angel answers him, one that holds a blade to press on his forehead, letting blood seeping out. It seems he did speak some words with his tongue and throat. "Think about him, think only about him."
+
+He turns to glance at the other angels. "What do you say, should I break his brain? It might be easier. So the only thing he can think about is saying 'Yes'."
+
+The other angels answer enthusiastically. The cold, sharp blade cuts through his forehead, slicing a long line. Pain explodes in Jimmy's head like a volcano. Blood gushes out, pouring before his eyes like waterfall. Jimmy can't even move his head, being hold by the angel. Only his lips twitch. *Please. Cas -- tiel --*
+
+"Say 'Yes'," the angel grins, pressing deeper.
+
+Thinking slows down. Brain feels like a dead pool of mud, stirred by the blade sinking inside. Jimmy's lips part, starting to form the shape of the first syllable of "Y".
+
+"Enough," a young voice sounds up, but the electricity and power in it shakes the room. A wave of power pushes out from the sudden appearance, throwing the angels outward. The one that was cutting him gets thrown hard into the wall, making a loud crashing sound. He moans when he tries to move, making a loud sound of broken bones shifting inside.
+
+Jimmy chokes out blood from his mouth painfully, but nothing more painful than the view of the girl.
+
+The girl that is far too familiar. Blonde hair. Precisely twelve years old.
+
+His daughter.
+
+Her eyes are flaring white blue light, the left eye dimmer than the right.
+
+The angel.
+
+Jimmy struggles, trying to get off the torture chair. "Claire."
+
+"Castiel," the other angels greet cautiously, their tone ginger and solemn, glancing between Jimmy and the one that's thrown away uneasily. "we didn't expect you to visit. We're... we're preparing a gift."
+
+Castiel takes a step closer to Jimmy, his rage palpable through the threatening light and sizzling air around that young body. "This is not your decision to make," he growls. "He's still *my* vessel. I don't need you filthy things to do the job for me."
+
+He puts a hand on Jimmy's left shoulder, grasping him tight.
+
+Jimmy shivers under the young palm. The touch of his daughter has never made him tremble like this.
+
+Lightning and thunder rolls out around them, Castiel spreads his wings, not refraining from displaying them.
+
+"You guys should have bigger concerns right now, by the way," he tells them, as the shadow of his wings spread to the fullest, dark like night on the wall of the cell room. "The humans already breached the outer defense. They're really here for me and him, but they won't find either of us. Kill them."
+
+He flies up before the other angels can answer.
+
+The building starts exploding from the outer rim at almost the same moment, turning the whole camp into a huge ball of fire. The heat wave pushes up, catching up as fast as Castiel's flight. A dark mushroom-shaped cloud chases their tail.
+
+The angel flaps his wings again. And they're out of the zone completely.
+
+<br>
+
+#### Act 2
+
 
 
 <br>
 
 #### draft notes
 
-> Jimmy can't escape like others, offers to sacrifice himself to save Bobby etc. to buy them time, gets taken by the angels again, taken back to angel base camp
+> (around the same time, Bobby Ellen etc. manages to explode the whole camp, but Castiel already takes Jimmy away, the angels and remaining humans die in there together)
 >
-> Other angels say, "Look, isn't that the vessel Castiel said didn't comply? Should we help him fix it?" They start to torture Jimmy.
+> He brings Jimmy to a lone deserted room, tells him to rest. Jimmy can't rest. He is watching Claire. Castiel tells him, "It's your daughter, I know. I found her at the edge of the war zone, wounded, dying." He continues, "I healed her. She will live even if I leave her now." But it doesn't matter, anyone incompetent to live will die. He didn't say it.
 >
-> It's too painful for any human to bear. Jimmy can't help thinking if Castiel would come back to him. What did he do wrong? Does he have to be punished like this? He had given him everything, his body, his mind, his health, does he have to give up his last consciousness and his soul, too? *Castiel, why are you doing this to me? Are you not an angel?*
+> Claire's coat is torn, looking like it's been through some massive explotions. But the lining is mostly intact, decent. But Jimmy cannot feel comforted.
+>
+> The dim room is quiet for a long time, Jimmy's mind starts drifting. He starts to wonder if the place they're in, this room, might be a decent hotel room before the Apocalypse. How many angels are there outside. Or maybe this is Castiel's secret base, there is no other angels. -- But could he be this kind? He had already known Castiel is not the caring angel he imagined him to be, he's just another coldblooded soldier, like the rest of them, maybe even more so -- he seems to be in a high rank, judging by the way other angels retreat and salute upon his arrival.
+>
+> He gives up trying to escape for a long time, he doesn't think he'll ever try it again. His nerve never stops aching in the days Castiel left him. He knows he can't get away, can't run to anywhere. It's his fate, his destiny, the way he'll die.
+>
+> Besides, if not him, who is going to be Castiel's next vessel, to endure all those pain he's been suffering? To suffer the unsufferable? Certainly can't be his daughter.
+>
+> He thinks, maybe the pain will stop once Castiel comes back inside him. He doesn't want Castiel wear his young daughter to the battlefield, but how could he ask, when he knows agony and nightmare will be all that's waiting for him?
 
 **Visual NOTE**: Castiel in Claire's vessel wears ragged clothes, in the room, with Jimmy, who is bloody and wounded
 
