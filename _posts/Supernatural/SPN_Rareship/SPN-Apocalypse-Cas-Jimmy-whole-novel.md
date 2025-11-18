@@ -1491,7 +1491,7 @@ Jimmy shivers under the young palm. The touch of his daughter has never made him
 
 Lightning and thunder rolls out around them, Castiel spreads his wings, not refraining from displaying them.
 
-"You guys should have bigger concerns right now, by the way," he tells them, as the shadow of his wings spread to the fullest, dark like night on the wall of the cell room. "The humans already breached the outer defense. They're really here for me and him, but they won't find either of us. Kill them."
+"You may have bigger concern to handle right now, by the way," he tells them, as the shadow of his wings spread to the fullest, dark like night on the wall of the cell room. "The humans already breached the outer defense. They're really here for me and him, but they won't find either of us. Kill them."
 
 He flies up before the other angels can answer.
 
@@ -1503,15 +1503,57 @@ The angel flaps his wings again. And they're out of the zone completely.
 
 #### Act 2
 
+The blood on his head has stopped. And there is no cut when he touches it. His head doesn't feel like going to explode at any second.
+
+Must be angel grace's healing power, Jimmy thinks. But the angel didn't bother to help him clean up or soothe any of the pain in the rest of the body.
+
+He doesn't know what he should think, or how he should feel.
+
+The place they land in is a dim room. The curtain covers the window, not passing much light. The room looks like a half-decent hotel, but long deserted, holding the bare skeleton of a bed and a few furniture, but nothing is intact. Just like his body. Just like his mind.
+
+He can't stop staring at his daughter. And the angel in his daughter's body.
+
+"Rest," Castiel says stiffly, standing next to the bed.
+
+Jimmy shakes his head, not dare to move his eyes away, not dare to blink.
+
+*Is this real?* He wants to say. *Is Castiel really coming back to him? Is this really his daughter? Alive?*
+
+But he doesn't dare to ask any of those. He doesn't even know if he wishes it's real.
+
+Jimmy curls up on what remained to be part of the bedframe, holding his knees, holding his hands and arms around himself. He wants nothing more than to reach out to touch, to hold his daughter; he wants nothing about touching that angel again, the one ruined his body and mind, the one tore his life apart, the one took his daughter like he once took him.
+
+Too much feelings toss and turn inside him like a boiling sea, adding to the constant throbbing pain all over his body, making him nauseous. He can't speak. He can't move. All he can do is stare. He stares at his daughter, trying desperately to find if she's still there, in there, in another living room like he once lived in.
+
+Claire's coat is torn, scattered with cuts and holes, looking like has been shot and stabbed for far too many times for her to stay standing. But here she is, her body, at least, standing still, staring him back.
+
+"Oh God," Jimmy sobs, tears pouring down the corner of his eyes. "Claire, oh God." It's been a year. And it's the first time he sees her. And he doesn't even know if she can hear him.
+
+"It's your daughter, I know." Castiel answers, in Claire's voice, but so distant and aged.
+
+"Where? How?" Jimmy chokes, voice too broken.
+
+"I found her, outside the war zone," the angel says plainly, as if this can explain all those stabs and holes that are very likely not only on the clothes, but also through her chest. Her chest rises and falls slightly, breathing normally.
+
+"You saved her," Jimmy murmurs quietly. Conflicted. More conflicted than he ever was about this angel. He can never understand him.
+
+Castiel barely shrugs. "I needed a vessel," he says. "She works for me. It's in your blood, as well as hers. I told you before, the first time we talked."
+
+Jimmy remembers. He remembers far too clearly.
+
+*Why me?*
+
+*It's in your blood.*
+
+
+
 
 
 <br>
 
 #### draft notes
 
-> (around the same time, Bobby Ellen etc. manages to explode the whole camp, but Castiel already takes Jimmy away, the angels and remaining humans die in there together)
->
-> He brings Jimmy to a lone deserted room, tells him to rest. Jimmy can't rest. He is watching Claire. Castiel tells him, "It's your daughter, I know. I found her at the edge of the war zone, wounded, dying." He continues, "I healed her. She will live even if I leave her now." But it doesn't matter, anyone incompetent to live will die. He didn't say it.
+> Jimmy can't rest. Castiel tells him, "It's your daughter, I know. I found her at the edge of the war zone, wounded, dying." He continues, "I healed her. She will live even if I leave her now." But it doesn't matter, anyone incompetent to live will die. He didn't say it.
 >
 > Claire's coat is torn, looking like it's been through some massive explotions. But the lining is mostly intact, decent. But Jimmy cannot feel comforted.
 >
