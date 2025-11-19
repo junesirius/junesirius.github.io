@@ -52,7 +52,11 @@ Sam regrets throwing it moments later, because Dean's side of the sofa has way t
 
 "Hmm," Sam hums. "Honestly, I don't really know. Dean?"
 
-Dean pauses the movie, scrutinizing the screen. "Funny how I never thought about that. Must be some old games, like, two hundred years old. If I have to guess, I'd bet on all fours. But I'm not sure."
+Dean pauses the movie, scrutinizing the screen. "Funny how I never thought about that. Must be some old games, like, two hundred years old. If I have to guess, I'd bet on all fours."
+
+"You mean like, all four of us?" Jack is confused.
+
+"No, I mean like a card game. 'All fours', it's a name, some high and low and complicated rules, some old guys taught me one time, heard it was popular back then. But I'm not sure."
 
 "Which year is that?" Cas asks.
 
