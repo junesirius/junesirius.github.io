@@ -30,7 +30,7 @@ It's Jack's turn to pick the movie to watch for the movie night today.
 
 And Jack says, "I would like to watch *Tombstone*."
 
-Sam lets out a loud, deliberate groaning sound. "We already watched it two times in a roll! Cas picked it last week, and that's only because Dean picked it the week before that. Do you really want to watch it again, or do you not know there are other movies to choose? We have like --" he waves his arm vaguely at the pile of cheap DVDs in the cabinet under the TV stand. "-- a million other movies to watch."
+Sam lets out a loud, deliberate groaning sound. "We already watched it two times in a row! Cas picked it last week, and that's only because Dean picked it the week before that. Do you really want to watch it again, or do you just... not know there are other movies to choose from? We have like --" he waves his arm vaguely at the pile of cheap DVDs in the cabinet under the TV stand. "-- a million other movies to watch."
 
 Jack tells him brightly. "I really like it! I'd like to watch it again, and I think Dean and Cas love it too --" He turns to look at his two dads for support, meeting Dean's approving smile and Cas's quiet nod, so he turns back to Sam with more confidence. "But if you'd like to watch something else, I'm okay with it, too."
 
@@ -38,11 +38,11 @@ Jack tells him brightly. "I really like it! I'd like to watch it again, and I th
 
 "What's in his browser history?" Cas chimes in, curious.
 
-Sam throws up two arms, surrendering. "You're such a jerk. All of you! You can't always do three-to-one, it's not fair. I need to grab Eileen and Charlie to back me up next time."
+Sam throws up two arms, surrendering. "You're such a jerk. All of you! You can't always do three-to-one; it's not fair. I need to grab Eileen and Charlie to back me up next time."
 
 Dean shrugs. "Go ahead. If you don't mind it becomes five-to-one."
 
-Sam grabs the closest pillow from the sofa and throws at him. Which almost hits Jack, but gets intercepted by Cas.
+Sam grabs the closest pillow from the sofa and throws it at him. Which almost hits Jack, but gets intercepted by Cas.
 
 Sam regrets throwing it moments later, because Dean's side of the sofa has way too many pillows, while he doesn't have any.
 
@@ -58,7 +58,7 @@ Dean pauses the movie, scrutinizing the screen. "Funny how I never thought about
 
 "Eighteen something," Dean answers.
 
-"Give me a second." Cas disappears with a fluttering sound of wings, leaving the seat next to Dean an empty space. Dean almost looses balance and has to readjust his sitting posture.
+"Give me a second." Cas disappears with a fluttering sound of wings, leaving the seat next to Dean an empty space. Dean almost loses balance and has to readjust his sitting posture.
 
 "Wait, what? Where did he go?" Sam starts standing up, alarmed.
 
@@ -66,17 +66,17 @@ Dean stares at the space and the pillows that were on them now falling to the fl
 
 "It's not if I can come back with the correct answer." Cas reappears, sitting back into the seat, picking up the pillows, trying to make them form the same comfortable soft castles as before.
 
-"You flied back in time just to check what card game they're playing?" Sam rubs his temple.
+"You flew back in time just to check what card game they're playing?" Sam rubs his temple.
 
-Dean chuckles. "Trust me, it's not the first time he did something like that. I asked what that ancient Egyptian food actually taste like one time, he went back to grab a piece."
+Dean chuckles. "Trust me, it's not the first time he's done something like that. I asked what that ancient Egyptian food actually tastes like one time, and he went back to grab a piece for me."
 
 Sam sighs loudly. "Why am I not surprised?"
 
 Cas looks at him blankly. "Is there a problem?"
 
-"No, not at all," Dean answers before Sam can, dragging the angel closer so he can lean against his shoulder comfortably.
+"No, not at all," Dean answers before Sam can, dragging the angel closer so he can lean against his shoulder comfortably again.
 
-"So what's that card game?" Jack asks, insistent.
+"So what's that card game?" Jack asks, persistent.
 
 "Did I guess right?" Dean looks at Cas, eyes expectant and excited.
 
@@ -94,6 +94,6 @@ Cas considers for a brief second. "You will be right if it's in England. All fou
 
 "What about the rest of the movie?" Sam gestures at the TV.
 
-Dean grins at him, too widely. "Guess we'll have to watch it in the next week's movie night."
+Dean grins at him, too widely. "Guess we'll have to watch it at next week's movie night."
 
 "I hate you so much," his brother tells him.
