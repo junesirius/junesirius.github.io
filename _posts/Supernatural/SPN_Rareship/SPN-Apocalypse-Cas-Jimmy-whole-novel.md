@@ -1419,7 +1419,7 @@ Another angel murmurs an agreement. "Should we help him fix it? He'll be pleased
 
 <br>
 
-It turns out to be right. Jimmy thinks vaguely, feeling pain shooting straight into his head. Will indeed feels like nothing, compared to the pain they're putting him through.
+It proves to be right. Jimmy thinks vaguely, feeling pain shooting straight into his head. Will indeed feels like nothing, compared to the pain they're putting him through.
 
 The torture never stops.
 
@@ -1439,9 +1439,9 @@ It's too painful for any human to bear.
 
 "What do you want?" Jimmy wails through the voice that doesn't even sound like him now.
 
-Sometimes the angels ask a question or two, and Jimmy doesn't even know what he's answering. He wishes he didn't give up the names of those new faces he newly befriended with, but his mind is too tired to really have control over anything. Other times, they just laugh, and slice him open again and again like a dead meat -- a body that knows nothing but screaming in pain.
+Sometimes the angels ask a question or two, and Jimmy doesn't even know what he's answering. He wishes he didn't give up the names of those new faces he recently befriended with, but his mind is too tired to really have control over anything. Other times, they just laugh, and slice him open again and again like a dead meat -- a body that knows nothing but screaming in pain.
 
-It's not about interrogation, or words, or any value he can provide. Jimmy realizes. It's about torture, and torture alone. It's about providing them toys to kill the time, because that's all human is to them.
+It's not about interrogation, or information, or any value he can provide. Jimmy realizes. It's about torture, and torture alone. It's about providing them toys to kill the time, because that's all human is to them.
 
 It's not even prisoner concentration camp. It's... it's an ant farm, built only to watch how the insects twitch and struggle when they're flooded and drowned; a zoo that is kept with the only show being watching them in pain; a slaughter house, except there isn't even a hope for an ending, there is no comfort of death in the end, only the eternal, constant pain and torture.
 
@@ -1451,7 +1451,7 @@ Jimmy closes his eyes, trying vainly to let his mind to get away from his body f
 
 *What did I do wrong?* Jimmy thinks desperately. *Do I have to be punished like this? For eternity?*
 
-"Castiel," Jimmy's lips quiver, his head rising to the sky's direction, like when he used to pray. His mind phases in and out like a bad radio signal. He hasn't prayed for a long while, and he doesn't intend to start again. But the pain is too huge, too sharp, too deep, and the only thing comes to his mind, the only one he can think of to ask, is the angel that was once in his body. The angel he once believed. The angel he thought he knew. The angel that had told him, "You're mine," and that he'll always find him. Jimmy's fuzzy mind imagines the words in a different tone, from a different story. *Will you come back to me, Castiel? Save me from them, release me from this pain?*
+"Castiel," Jimmy's lips quiver, his head rising to the sky's direction, like when he used to pray. His mind phases in and out like a bad radio signal. He hasn't prayed for a long while, and he doesn't intend to start again. But the pain is too huge, too sharp, too deep, and the only thing comes to his shattered mind, the only one he can think of to ask, is the angel that was once in his body. The angel he once believed. The angel he thought he knew. The angel that had told him, "You're mine," and that he'll always find him. Jimmy's fuzzy mind imagines the words in a different tone, from a different story. *Will you come back to me, Castiel? Save me from them, release me from this pain?*
 
 He doesn't know if he speaks the words out or just speaks in his mind.
 
@@ -1485,7 +1485,7 @@ Jimmy struggles, trying to get off the torture chair. "Claire."
 
 "Castiel," the other angels greet the newcomer cautiously, their tone ginger and solemn, glancing between Jimmy and the one that's thrown away uneasily. "We didn't expect you to visit. We're... we're preparing a gift."
 
-Castiel takes a step closer to Jimmy, his rage palpable through the threatening light and sizzling air around that young body. "This is not your decision to make," he growls. "He's still *my* vessel. I don't need you to do the job for me."
+Castiel takes a step closer to Jimmy, his rage palpable through the threatening light and sizzling air around that young body. "This is not your decision to make," he growls. "He's still *my* vessel. I don't need *you* to do the job for me."
 
 He puts a hand on Jimmy's left shoulder, grasping him tight.
 
@@ -1507,7 +1507,7 @@ The angel flaps his wings again. And they're out of the zone completely.
 
 The blood on his head has stopped. And there is no cut or scar when he touches it. His head doesn't feel like going to explode at any second.
 
-Must be the angel's healing power, Jimmy thinks. But Castiel didn't seem to bother adding just one more dose of grace to help him clean up all the stains or soothe any of the pain in the rest of the body.
+Must be the angel's healing power, Jimmy thinks. But Castiel didn't seem to bother adding just one more dose of grace to help him clean up all the stains or soothe any of the pain in the rest of his body.
 
 Jimmy doesn't know what he should think, or how he should feel.
 
@@ -1523,23 +1523,23 @@ Jimmy shakes his head, not dare to move his eyes away, not dare to blink.
 
 But he doesn't dare to ask. He doesn't even know if he wishes it's real. Hope can be a horrible thing. He doesn't want to be destroyed again.
 
-Jimmy curls up on what remained to be a part of the bedframe, rounding his knees, holding his hands and arms around himself. He wants nothing more than to reach out to touch, to hold his daughter, to feel the warmth of her hands; but he also wants nothing about touching that angel again, the one ruined his body and mind, the one tore his life apart, the one took his daughter like he once took him.
+Jimmy curls up on what remained to be a part of the bedframe, arms around his knees, holding his body close to himself. He wants nothing more than to reach out to touch, to hold his daughter, to feel the warmth of her hands; but he also wants nothing about touching that angel again, the one ruined his body and mind, the one tore his life apart, the one took his daughter like he once took him.
 
 Too much feelings toss and turn inside him like a boiling sea, adding to the constant throbbing pain all over his body, making him nauseous. He can't speak. He can't move. All he can do is stare. He stares at his daughter, trying desperately to find if she's still there, in there, in another living room like he once lived in. He wants to *see* her.
 
 Claire's coat is torn, scattered with cuts and holes, looking like it has been shot and stabbed for far too many times for her to stay standing. But here she is, her body, at least, standing still, staring him back.
 
-"Oh God," Jimmy sobs, tears pouring down the corners of his eyes. "Claire, oh God." It's been a year. And it's the first time he sees her again. And he doesn't even know if she can hear him.
+"Oh God," Jimmy sobs, tears pouring down the corners of his eyes. "Claire -- oh God." It's been a year. And it's the first time he sees her again. But he doesn't even know if she can hear him.
 
-"It's your daughter, I know." Castiel answers, in Claire's voice, but so distant and aged.
+"It's your daughter, I know." Castiel answers, in Claire's voice, but so distant and cold.
 
 "Where? How?" Jimmy chokes, voice too broken to form a complete sentence.
 
-"I found her outside the war zone," the angel says plainly, as if this can explain all those stabs and holes that are very likely not only on the clothes, but also could have been all the way through her young body, gutting her open, blasting her apart. But she looks okay. Her chest rises and falls slightly, breathing normally. Jimmy thinks if he leans closer, listens harder, he can hear the young heart of her daughter beat steadily inside her chest.
+"I found her just outside the war zone, dying," the angel says plainly, as if this can explain all those stabs and holes that are very likely not only on the clothes, but also could have been all the way through her young body, gutting her open, blasting her apart. But she looks okay now. Her chest rises and falls slightly, breathing normally. Jimmy thinks if he leans closer, listens harder, he can hear the young heart of her daughter's beat steadily inside her chest.
 
-"You saved her," Jimmy murmurs quietly. Conflicted. More conflicted than he ever was about this angel. He can never understand him.
+"You saved her," Jimmy murmurs quietly. Conflicted. More conflicted than he ever was about this angel. *Is there a slightest chance that he actually cared for him, for his family?* He can never understand him.
 
-Castiel barely shrugs. "I needed a vessel," he says, as if it's obvious. "And her body works. It's in your blood, as well as hers. I told you before, the first time we talked."
+Castiel barely shrugs. "I needed a vessel," he says flatly, breaking Jimmy's hope. "And her body works. It's in your blood, as well as hers. I told you before, the first time we talked."
 
 Jimmy remembers. He remembers far too painfully clearly.
 
@@ -1547,17 +1547,77 @@ Jimmy remembers. He remembers far too painfully clearly.
 
 *It's in your blood.*
 
+Not because he's special, or devout. Just something flowing through his veins, long decided even before he's born. It's his destiny to be dragged into the world of the angel's, to be tortured like this, to not have a choice. And it's also his daughter's.
 
+It's not fate. It's condemnation. It's the curse on his family.
 
+Jimmy feels his eyes sting hot, tears gathering. It's his fault that he's putting his daughter through the same doomed fate as his. Because he's too weak and can't bear the angel walking in his body any longer.
 
+"No," Jimmy whispers, devastated. "No."
+
+He doesn't even know what's he's rejecting about. Just no. *No, not anymore. No, it can't be. No, not his daughter too.*
+
+Castiel takes a step closer to him, standing right by the side of the bed. Jimmy flinches reflexively.
+
+The thin figure of his daughter's body casts a long shadow on him, like the shadow of the nightmare that never stops haunting him.
+
+"I don't need you anymore, Jimmy Novak," Castiel says. "Isn't this what you wished for?"
+
+*No -- not like this.*
+
+"What will happen to my daughter?" Jimmy forces the words out of his throat. *What will happen to me, now that you left me?*
+
+"You already know." Castiel answers.
+
+The same pain he has endured, his daughter will have to suffer just the same. The burning pain on the tips of the nerves all over the body and the mind, the increased pain when their minds don't align, when he has to watch the angel torture the innocence, burn the world. The knowledge that it's his hands that are splattered with his victim's blood. Locked inside his head, for the rest of his life.
+
+How can he put his daughter through all this?
+
+But the only other way is... how can he let those in, living that life again?
+
+He isn't a monster, but he doesn't think he's a hero, either.
+
+Tears come down his eyes.
+
+Jimmy has to force his eyes to stay on his daughter, taking in her figure, remembering her shape, seeing her instead of seeing the angel in her. "What will happen to her if you leave?" he asks through choked voice. *You saved her once, will you make sure she's safe. If she gets to live, then I will... I...*
+
+"Are you saying 'Yes' to me, Jimmy?" Castiel tilts his head slightly, boring into Jimmy's eyes.
+
+Jimmy is pinned in the angel's eyes. He swallows, feeling his breath frozen in his chest. He can't trust his words right now. He can't trust his own decisions. It's going to be the endless pain and torture he's signing up for. He doesn't nod. He can't. Not after he fights for so long to get out.
+
+"My daughter," he forces his mind comes back to Claire, ignoring the angel's question. "Will she be safe? Will she live?"
+
+"She will live for as long as she survives this world," the angel answers nonchalantly.
+
+The indicated meaning is far too clear.
+
+Even if Castiel lets her go, how long can a twelve-year-old survive this cruel, cruel Apocalypse world alone? Without her father, without her family, the war will find her sooner or later, death will always catch up on her. Just a matter of time.
+
+Whatever he decides, there is no difference in the end.
+
+Jimmy closes his eyes, too painful to watch her anymore. Too painful to think about her future. About his own future.
+
+There is no future for anyone. There is just no future for this whole world, already. Not until the Apocalypse ends. Not even until then.
+
+"I will come back again tomorrow," the angel sees through his thought, moving away from the room toward the door. Jimmy hears the hustle of Claire's coat. "Say 'Yes', or I walk away in your daughter's body forever. It's your choice."
+
+Jimmy doesn't open his eyes until the sound of Castiel completely leaves the room.
+
+*It's your choice.*
+
+Isn't that the biggest joke in the world?
+
+The choice is between two different ways of pain and death.
+
+He doesn't have a choice at all.
 
 <br>
 
 #### draft notes
 
-> Jimmy can't rest. Castiel tells him, "It's your daughter, I know. I found her at the edge of the war zone, wounded, dying." He continues, "I healed her. She will live even if I leave her now." But it doesn't matter, anyone incompetent to live will die. He didn't say it.
->
-> Claire's coat is torn, looking like it's been through some massive explotions. But the lining is mostly intact, decent. But Jimmy cannot feel comforted.
+"There is always a way. I am very good at persuading." Castiel clenches his teeth, speaking slowly. "I know enough methods to break anyone. We can try them all."
+
+> Castiel continues, "I healed her. She will live even if I leave her now." But it doesn't matter, anyone incompetent to live will die. He didn't say it.
 >
 > The dim room is quiet for a long time, Jimmy's mind starts drifting. He starts to wonder if the place they're in, this room, might be a decent hotel room before the Apocalypse. How many angels are there outside. Or maybe this is Castiel's secret base, there is no other angels. -- But could he be this kind? He had already known Castiel is not the caring angel he imagined him to be, he's just another coldblooded soldier, like the rest of them, maybe even more so -- he seems to be in a high rank, judging by the way other angels retreat and salute upon his arrival.
 >
