@@ -50,7 +50,7 @@ Sam regrets throwing it moments later, because Dean's side of the sofa has way t
 
 "I didn't understand this part last time," Jack points at the screen. A popcorn between his fingers. The screen shows the tavern scene where the cowboys are gambling. "What's that game they're playing? What's the rule? I want to learn how to play." He turns to look at the other three one at a time, enthusiastically. "I want to play with all of you!"
 
-"Hmm," Sam hums. "Honestly, I don't even know. Dean?"
+"Hmm," Sam hums. "Honestly, I don't really know. Dean?"
 
 Dean pauses the movie, scrutinizing the screen. "Funny how I never thought about that. Must be some old games, like, two hundred years old. If I have to guess, I'd bet on all fours. But I'm not sure."
 
@@ -86,7 +86,7 @@ Cas considers for a brief second. "You will be right if it's in England. All fou
 
 "Dammit!" Dean fakes an annoyance, patting his leg once. "So what's the right answer?"
 
-"In the Wild West, it's faro," Cas announces. Then, "The gentlemen in the pub that I visited kindly taught me the rules, as well. So you want to learn now, we can."
+"In the Wild West, it's faro," Cas announces. Then, "The gentlemen in the pub that I visited kindly taught me the rules as well. So you want to learn now, we can."
 
 "Yes, I would like that!" Jack is more than eager to start, almost sitting only on the very edge of the sofa.
 
