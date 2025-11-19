@@ -5161,4 +5161,34 @@ maybe when they need/plot needs, 2019!Cas and/or 2019!Dean can go back to help? 
 
 (a little similar/inspired by the fic currently reading: [Face to Face with the Skies](https://archiveofourown.org/works/587057))
 
-### 425.
+### 425.【all】《Editing Room Floor》
+
+inspired by Jensen's quote once in comic-con (need to look for the exact words): "They probably all end up on the editing room floor, that's where they are." (context is when J2M dress up as S/D/C in The Boys)
+
+title 《Editing Room Floor》can be used to be a series title or some short story collection title, include scenes/takes that could be there but gets cut out, the deleted scenes, the behind-the-scene of the SPN, like the canon fill-the-gaps, fluffs, smuts
+
+### 426.【destiel】Cas meets the S05E14 Cupid in Empty
+
+(inspired by [Tumblr post](https://www.tumblr.com/junesirius/800272097255587840), Cas meets Crowley in Empty and gets mocked "so he *is* your boyfriend")
+
+Cas can also meet the S05E14 Cupid there (so many angels and Cupids were killed, he's likely also killed already), the one said "I love love, if love is wrong, I don't want to be right" and Cas answered "I have no idea what you're saying" because he didn't understand love back then, but he does now, the confession "I love you"
+
+Cupid: "See? Now you understand, brother"
+
+### 427.【destiel】2014!Cas x huntercorp!Dean（R级）
+
+(inspired by [Tumblr post](https://www.tumblr.com/junesirius/800576819464208384))
+
+the most wrecked Cas and the most innocent good boy Dean
+
+2014!Cas teaches huntercorp!Dean smoke and all that, Dean makes him dare to love and be loved again
+
+Cas makes Dean a little bit more broken and wrecked, Dean makes Cas more whole
+
+can be both in canon world, huntercorp Dean already left alone in this world, maybe Jack reverses and saves most of other worlds, ask Dean about what he missed, Dean remembers 2014!Cas, but 2014 world doesn't have enough to be saved, that timeline is already closing, so Jack just brings the last survivors back to this main world (after that world's Lucifer kill Dean scene. or before? bring both 2014!Dean and 2014!Cas to now?)
+
+or can be both in 2014 world, somehow huntercorp Dean was experimenting multiverse travel in 2014 and it goes wrong, throws him into 2014's world (so it's still going to be 2014!Dean/Cas + huntercorp Dean, 2 Dean+1 Cas)
+
+(figure out a way to have only the two of them)
+
+### 428.
