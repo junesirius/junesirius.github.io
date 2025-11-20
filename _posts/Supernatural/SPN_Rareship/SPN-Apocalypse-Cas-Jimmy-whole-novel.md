@@ -2027,7 +2027,31 @@ Jimmy can see canon!Castiel's vessel is empty, doesn't have canon!Jimmy, knows t
 >
 > By the time Jimmy looks back down, the tentacles of the Empty already covers half his body. And when he looks beside him, there is nothing and no one left. Swallowed by the Empty, Castiel is long gone.
 
+The last consciousness of his drifts in the Empty.
 
+Jimmy wanders in the endless blackness, not feeling any pain, not having any feelings at all, really. The numbness covers him, carries him, enwraps his whole body and mind.
+
+He just drifts. And then, he kicks a man sleeping.
+
+The man has his face, with the angel blade that killed them on his chest.
+
+Castiel looks up at him with sleepy eyes half-open, wordless. And he looks up, at the sky of the place where lights of souls are dropping like rainfalls.
+
+Jimmy sits down beside him, quiet, looking up at the falling souls from the bottomless darkness -- There is no Heaven or Hell on Earth for a long while now, the war has long destroyed them. All the homeless souls come to this empty place. Everyone, is falling to the Empty.
+
+By the time Jimmy looks back down, the black oozy mud of the Empty already covers half his body, bubbling up from the ground like rising swamp.
+
+And when he looks beside him, there is nothing and no one left. Swallowed by the Empty, Castiel is long gone.
+
+And soon, so is Jimmy.
+
+<br>
+
+The Book didn't lie, after all.
+
+*The lake is the second death. Where they will be tormented day and night for ever and ever.*
+
+It's just not in the right order.
 
 <br>
 
