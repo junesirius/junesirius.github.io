@@ -1559,9 +1559,9 @@ He doesn't even know what's he's rejecting about. Just no. *No, not anymore. No,
 
 Castiel takes a step closer to him, standing right by the side of the bed. Jimmy flinches reflexively.
 
-The thin figure of his daughter's body casts a long shadow on him, like the shadow of the nightmare that never stops haunting him.
+The thin figure of his daughter's body casts a long shadow on him, like the shadow of the nightmares that never stop haunting him.
 
-"I don't need you anymore, Jimmy Novak," Castiel says. "Isn't this what you wished for?"
+"I don't need you anymore, Jimmy Novak," Castiel says grimly. "Isn't this what you wished for?"
 
 *No -- not like this.*
 
@@ -1573,11 +1573,11 @@ The same pain he has endured, his daughter will have to suffer just the same. Th
 
 How can he put his daughter through all this?
 
-But the only other way is... how can he let those in, living that life again?
+But the only other way is... how can he invite those in, living that life again?
 
 He isn't a monster, but he doesn't think he's a hero, either.
 
-Tears come down his eyes.
+Tears come down from his eyes.
 
 Jimmy has to force his eyes to stay on his daughter, taking in her figure, remembering her shape, seeing her instead of seeing the angel in her. "What will happen to her if you leave?" he asks through choked voice. *You saved her once, will you make sure she's safe. If she gets to live, then I will... I...*
 
@@ -1597,9 +1597,9 @@ Whatever he decides, there is no difference in the end.
 
 Jimmy closes his eyes, too painful to watch her anymore. Too painful to think about her future. About his own future.
 
-There is no future for anyone. There is just no future for this whole world, already. Not until the Apocalypse ends. Not even until then.
+There is no future for anyone. There is just no future for this whole world, already. Not until the Apocalypse ends. Probably not even until then.
 
-"I will come back again tomorrow," the angel sees through his thought, moving away from the room toward the door. Jimmy hears the hustle of Claire's coat. "Say 'Yes', or I walk away in your daughter's body forever. It's your choice."
+"I will come back again tomorrow morning," the angel sees through his thought, moving away from the room toward the door. Jimmy hears the hustle of Claire's coat. "Say 'Yes', or I walk away in your daughter's body forever. It's your choice."
 
 Jimmy doesn't open his eyes until the sound of Castiel completely leaves the room.
 
@@ -1609,23 +1609,11 @@ Isn't that the biggest joke in the world?
 
 The choice is between two different ways of pain and death.
 
-He doesn't have a choice at all.
+He doesn't have any choice at all.
 
 <br>
 
 #### draft notes
-
-"There is always a way. I am very good at persuading." Castiel clenches his teeth, speaking slowly. "I know enough methods to break anyone. We can try them all."
-
-> Castiel continues, "I healed her. She will live even if I leave her now." But it doesn't matter, anyone incompetent to live will die. He didn't say it.
->
-> The dim room is quiet for a long time, Jimmy's mind starts drifting. He starts to wonder if the place they're in, this room, might be a decent hotel room before the Apocalypse. How many angels are there outside. Or maybe this is Castiel's secret base, there is no other angels. -- But could he be this kind? He had already known Castiel is not the caring angel he imagined him to be, he's just another coldblooded soldier, like the rest of them, maybe even more so -- he seems to be in a high rank, judging by the way other angels retreat and salute upon his arrival.
->
-> He gives up trying to escape for a long time, he doesn't think he'll ever try it again. His nerve never stops aching in the days Castiel left him. He knows he can't get away, can't run to anywhere. It's his fate, his destiny, the way he'll die.
->
-> Besides, if not him, who is going to be Castiel's next vessel, to endure all those pain he's been suffering? To suffer the unsufferable? Certainly can't be his daughter.
->
-> He thinks, maybe the pain will stop once Castiel comes back inside him. He doesn't want Castiel wear his young daughter to the battlefield, but how could he ask, when he knows agony and nightmare will be all that's waiting for him?
 
 **Visual NOTE**: Castiel in Claire's vessel wears ragged clothes, in the room, with Jimmy, who is bloody and wounded
 
@@ -1639,8 +1627,6 @@ Right now, Cas just cast out all those other angels who were torturing Jimmy, be
 
 Jimmy is scared, too tired to resist, defeated, but maybe also a tiny slight hint of hope that maybe deep down somewhere Cas still cares about him and Claire somewhat, that’s why Cas would get him out of other angels’ torture and “save” his daughter. But he also doesn’t dare to keep the hope high, because he’s already seeing way too much and gets disappointed by Cas for way too many times. So he’s baffled, complicated, but mostly still just too traumatized and defeated.
 
-###### [TBC]
-
 ### Chap 5
 
 > A sleepless night.
@@ -1651,9 +1637,117 @@ Jimmy is scared, too tired to resist, defeated, but maybe also a tiny slight hin
 >
 > When he comes inside Jimmy, Jimmy thinks vaguely, his nerve does stop aching. Because he can't feel anything at all anymore.
 
+The dim room falls silent, and soon, colder. The night must have fallen. But through the thick curtain, it's the same darkness.
+
+Jimmy stares at the window's direction, holding himself tighter, mind drifting.
+
+He doesn't hear monster's hauling or human's yelling outside the window, nor does angel's wings fluttering, or sound of gun fire. This must be far outside the war zone, or the war might have already swept all the life from the town and left.
+
+He wonders where he is, this room, this city, where Castiel took him. He wonders how many angels might be out there, outside. Or maybe this is Castiel's own place, his secret base, with no other angel, just the two of them. Maybe, when the angel told him to "rest," he really means it this time, he's letting him go. Maybe, in the smallest corner of that angel's mind, he still cares, even just a little bit. Maybe, that's why he saved Claire and healed her.
+
+*No. He's not that kind.* Jimmy presses the heels of his hands on his eye sockets, stopping the hope from sprouting. He can't do this again. He's already known Castiel is not the caring angel he imagined him to be, he's just another coldblooded soldier, like the rest of them, maybe even more so.
+
+*He's a monster.* Jimmy says to himself in his mind. *He beat you up, locked up inside your body, he killed innocent people.*
+
+He's not about to forget and forgive just like a saint. The Book has taught him to be thankful and forgiving all his life, and he tried to do follow the doctrines all his life, but that doesn't seem to do him any good. See where he is now; see how the world is now.
+
+Jimmy sees his own face in the darkness before his closed eyelids, with glowing white-blue eyes. It's like looking at a mirror, except, the figure in the mirror doesn't follow his moves. It makes the hairs behind his neck standing.
+
+*But he saved you from those other angels. He brought you out before that camp exploded. Maybe he heard your prayer and came to you.* A small voice says in his head.
+
+*Only because he wants to torture me personally! Like he owns me!* Jimmy yells at the voice, pressing his eyes so hard that he starts to see small stars in the dark view. But the angel's face doesn't disappear from the pressure.
+
+*Maybe he just doesn't know what is good, and how to do that.* The voice says, sounding suspiciously like his daughter.
+
+*I might be biased, but I don't hate them. I pity them. Angels could have done so much good; they're supposed to be. Now they just have to choose it.* Anna's words replay in his head.
+
+*It doesn't mean you have to give up believing things.* Charlie also said something very similar, that one time they really talked. *Anything you choose to believe. Believe they still have a chance to turn good, or believe in something else. Believe in yourself.*
+
+*Maybe you can change him.* Claire's voice says. *You don't have to run from him, you don't have to fight against him. Just, be there with him, invite him in. Maybe one day, he'll understand. And you won't be in pain anymore.*
+
+"Is that really possible?" Jimmy whispers, asking the dark space.
+
+The stale air doesn't answer.
+
+*That's your destiny, Dad.* The vision of Claire says. *Not mine. Please don't make me do this.*
+
+*It's in your blood.* The image shifts, and Claire's eyes brighten up.
+
+*It's the way you were born, and it's the way you'll die.* The phantom of Castiel says, morphing into his own face.
+
+*You want to know what's your life's meaning? This is.* His own image speaks to him. *Be his vessel. Stop fighting and be a good vessel. That's all the meaning and purpose of your life.*
+
+Jimmy's shoulders sag. He lets out a long, shaky breath.
+
+His nerve has never stopped aching since the day Castiel entered him. He thought it would stop when Castiel left him, but no, the pain never goes away. So maybe, maybe the pain will stop when the angel comes back inside him and he finally accepts him. Accept the fate, accept the reality, accept the angel as he is. Even as he kills, tortures, breaks his heart, does the worst things, let him be.
+
+And maybe, when the Apocalypse finishes, when the angels finally win the war, this all will end, the promised peace and new life will come back to Earth, and he will get his reward.
+
+Jimmy loosens his arms, unfolding his legs, leaning back on the remaining wood pieces of the headboard, closing his eyes. He murmurs, starts reciting:
+
+"*Then the angel showed me the river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb down the middle of the great street of the city. On each side of the river stood the tree of life, bearing twelve crops of fruit, yielding its fruit every month. And the leaves of the tree are for the healing of the nations. No long will there be any curse. The throne of God and of the Lamb will be in the city, and his servants will serve him. They will see his face, and his name will be on their foreheads. There will be no more night. They will not need the light of a lamp or the light of the sun, for the Lord God will give them light. And they will reign for ever and ever.*"
+
+He takes a slow breath, inhaling to fill his lungs and letting everything in his chest out of his body. He makes his mind's eyes to look at the darkness until he can remember his dream again and see the glorious image of the Holy City before his eyes. He repeats to himself:
+
+"*No longer will there be any curse. There will be no more night.*"
+
+His breath calms down gradually. His heart beats steadily.
+
+*Okay, then.* He thinks slowly, decided.
+
+<br>
+
+The night is long and sleepless.
+
+The angel comes back to him in the morning, just as he promised.
+
+"Take me," Jimmy looks at him as he walks closer. He doesn't flinch this time when the angel stands on the side of his bed, only a step away. He looks up at him, staring into those eyes, looking inside. "Take me instead of my daughter. My only last wish is to take my daughter somewhere safe. I won't question you again, I won't fight against you."
+
+He takes a breath. "I'm yours now, Castiel, utterly and completely. Yes."
+
+The angel studies him for a beat, not answering.
+
+Jimmy waits. His heart beats fast in his chest.
+
+"If you think this last year was painful for you, whatever comes next, picture a hundred, a thousand times worse than that." Castiel says.
+
+"It doesn't matter. Take me." Jimmy answers, unswayed.
+
+"Very well." Castiel nods once, closing the distance between them.
+
+When the light and grace pours out of Claire and into his body, Jimmy thinks vaguely, his nerves do stop aching. Because he can't feel anything at all anymore.
+
+As the surge of energy burns like melting lava through his body, his mind sinks under the water, drowning into the deep, dark space like a sinking shipwreck. Light is snuffed out like candles putting out. He sinks into the bottom of the sea, can't breathe, can't see, can't hear.
+
+Jimmy Novak closes his eyes, falling into deep sleep, in the deepest corner inside his body.
+
+<br>
+
+Castiel walks out of the room, leaving the girl inside.
+
+He did what he's asked, and nothing more.
+
+This hotel that he found during a scouting, located in Rexford, Idaho, is far enough from the hot zone for now -- but it's just a zone the war hasn't spread to yet. It's just a matter of time.
+
+Jimmy's daughter will be safe, for now.
+
+But it doesn't matter. Anyone incompetent to live will die, sooner or later.
+
+Everything will end, and everyone will die eventually anyway.
+
+Sometimes, not even he knows what his missions are about, what's the meaning of all this. He's just a soldier, following the orders, fighting the war. Having a vessel that finally stops fighting him is just one tiny small thing that makes his tasks easier, so he can't say he's not pleased. He doesn't mind just doing one more thing to let the man's mind settle down, his soul aligning better with his grace.
+
+Castiel lifts a finger, branding a set of protection sigil on the girl's ribs, and adding another layer of protection spell on the room. He walks out of the room before the girl wakes up.
+
+The angel flaps his wings, heading east. They still have an Apocalypse to finish.
+
 <br>
 
 #### draft notes
+
+~~Castiel: "There is always a way. I am very good at persuading. I know enough methods to break anyone. We can try them all." (chap 3)~~
+
+###### [TBC]
 
 ### Chap 6
 
