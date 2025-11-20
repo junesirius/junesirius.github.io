@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】deplumate（Day 1）
+title: 【Destiel】deplumate (Day 1)
 date: 2025-11-11 02:34
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]

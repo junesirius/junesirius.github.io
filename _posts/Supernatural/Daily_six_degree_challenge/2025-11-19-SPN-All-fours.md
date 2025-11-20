@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】all fours（Day 9）
+title: 【Destiel】all fours (Day 9)
 date: 2025-11-19 02:34
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]

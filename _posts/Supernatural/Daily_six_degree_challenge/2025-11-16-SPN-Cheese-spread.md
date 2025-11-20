@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】cheese spread（Day 6）
+title: 【Destiel】cheese spread (Day 6)
 date: 2025-11-16 02:34
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]

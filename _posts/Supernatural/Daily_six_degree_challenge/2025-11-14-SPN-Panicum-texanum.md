@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】panicum texanum（Day 4）
+title: 【Destiel】panicum texanum (Day 4)
 date: 2025-11-14 02:34
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]

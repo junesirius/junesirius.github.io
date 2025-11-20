@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】business line（Day 7）
+title: 【Destiel】business line (Day 7)
 date: 2025-11-17 02:34
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】sartorial（Day 8）
+title: 【Destiel】sartorial (Day 8)
 date: 2025-11-18 02:34
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]

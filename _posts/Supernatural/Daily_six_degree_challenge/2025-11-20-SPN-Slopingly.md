@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】slopingly（Day 10）
+title: 【Destiel】slopingly (Day 10)
 date: 2025-11-20 02:34
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]

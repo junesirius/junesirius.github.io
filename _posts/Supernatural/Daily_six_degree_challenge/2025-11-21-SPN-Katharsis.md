@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】katharsis（Day 11）
+title: 【Destiel】katharsis (Day 11)
 date: 2025-11-21 02:34
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
@@ -18,7 +18,7 @@ Katharsis (or *Catharsis*) is getting rid of unhappy memories or strong emotions
 
 **Word association:**
 
-<span style="color: rgb(255, 73, 46)">catharsis</span> → emotional release → anger control / grief counseling → Dean Winchester → <span style="color: rgb(0, 207, 53)">de</span><span style="color: rgb(0, 184, 255)">stiel</span>
+<span style="color: rgb(255, 73, 46)">katharsis</span> → emotional release → anger control / grief counseling → Dean Winchester → <span style="color: rgb(0, 207, 53)">de</span><span style="color: rgb(0, 184, 255)">stiel</span>
 
 <br>
 

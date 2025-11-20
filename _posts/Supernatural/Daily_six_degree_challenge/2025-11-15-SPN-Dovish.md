@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】dovish（Day 5）
+title: 【Destiel】dovish (Day 5)
 date: 2025-11-15 02:34
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]

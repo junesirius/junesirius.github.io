@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】Coropuna（Day 2）
+title: 【Destiel】Coropuna (Day 2)
 date: 2025-11-12 02:34
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]

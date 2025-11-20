@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】Border terrier（Day 3）
+title: 【Destiel】Border terrier (Day 3)
 date: 2025-11-13 02:34
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
