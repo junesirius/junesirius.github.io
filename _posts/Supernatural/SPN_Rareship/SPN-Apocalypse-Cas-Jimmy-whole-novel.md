@@ -3,7 +3,7 @@ layout: post
 title: 【SPN】Evernight
 date: 2025-08-03
 categories: ["SPN"]
-characters: ["Castiel", "Jimmy Novak", "Claire Novak", "Charlie Bradbury", "Bobby Singer", "Rufus Turner", "Ellen Harvelle", "Jo Harvelle", "Pamela Barnes", "Azazel", "Lilith"]
+characters: ["Castiel", "Jimmy Novak", "Claire Novak", "Charlie Bradbury", "Bobby Singer", "Rufus Turner", "Ellen Harvelle", "Jo Harvelle", "Azazel", "Lilith"]
 tags: ["Supernatural", "英文", "黑暗面", "天启卡"]
 pov: 第三人称
 origin: 2025 SPN Rare-Ships Mini Bang
@@ -257,7 +257,7 @@ Because it's Apocalypse!Castiel, always uses "Castiel" instead of "Cas" in the w
 
 > Jimmy is a devout man, praying for angels to protect his family, praying for a peaceful world. Then Apocalypse starts, and Castiel comes to him, he says yes. Castiel goes to Hell for a mission, but not to save the righteous man, it's to kill Lilith and open the Cage himself, to let Lucifer out (he's the one started Apocalypse on Michael's order; the righteous man who broke the first seal is John Winchester, Mary never made deal to save him, he's in Hell all the time).
 
-*And he carried me away in the Spirit to a mountain great and high, and showed me the Holy City, Jerusalem, coming down out of heaven from God. It shone with the glory of God, and its brilliance was like that of a very precious jewel, like a jasper, clear as crystal. It had a great, high wall with twelve gates, and with twelve angels at the gates. On the gates were written the names of the twelve tribe of Israel. There were three gates on the east, three on the north, three on the south and three on the west. The wall of the city had twelve foundations, and on them were the names of the twelve apostles of the Lamb.*
+*And he carried me away in the Spirit to a mountain great and high, and showed me the Holy City, Jerusalem, coming down out of heaven from God. It shone with the glory of God, and its brilliance was like that of a very precious jewel, like a jasper, clear as crystal. It had a great, high wall with twelve gates, and with twelve angels at the gates. On the gates were written the names of the twelve tribes of Israel. There were three gates on the east, three on the north, three on the south and three on the west. The wall of the city had twelve foundations, and on them were the names of the twelve apostles of the Lamb.*
 
 *The angel who talked with me had a measuring rod of gold to measure the city, its gates and its walls. The city was laid out like a square, as long as it was wide. He measured the city with the rod and found it to be 12,000 stadia in length, and as wide and high as it is long. The angel measured the wall using human measurement, and it was 144 cubits thick. The wall was made of jasper, and the city of pure gold, as pure as glass. The foundations of the city walls were decorated with every kind of precious stone. The first foundation was jasper, the second sapphire, the third agate, the fourth emerald, the fifth onyx, the sixth ruby, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth turquoise, the eleventh jacinth, and the twelfth amethyst. The twelve gates were twelve pearls, each gate made of a single pearl. The great street of the city was of gold, as pure as transparent glass.*
 
@@ -271,7 +271,7 @@ Because it's Apocalypse!Castiel, always uses "Castiel" instead of "Cas" in the w
 
 Jimmy wakes up slowly, blinking in the thin light of the early morning, pale grey through the curtain of the room. The blazing image of the new Jerusalem is still shining in the lingering memory behind his eyelids. He tries hard to remember the details of the holy city, the light and shiny reflections of its walls and ground, the place that doesn't need sun or moon to shine on it, the place with all light and no night -- but the dream slips through his mind like water through open fingers.
 
-He turns on the bed, and finds one of his hands rested on the Bible on his bed stand. It must be where the dream comes from, then. He thinks distantly. With all these years of praying and believing, for once, he is granted a vision. However brief, it must be a sign, a reward, to allow him to have a glimpse of the great glory after the ending.
+He turns on the lamp, and finds one of his hands resting on the Bible on his bedside stand. It must be where the dream comes from, then. He thinks distantly. With all these years of praying and believing, for once, he is granted a vision. However brief, it must be a sign, a reward, to allow him to have a glimpse of the great glory after the ending.
 
 Amelia stirs next to him. "What time is it now?" she mumbles dreamily.
 
@@ -279,15 +279,15 @@ Amelia stirs next to him. "What time is it now?" she mumbles dreamily.
 
 The vision of the dream fades over the grey image of the ceiling. He finds it difficult to remember the color of the light or the wall of the glorious city now. He leaves the bed quietly and changes into his usual suit before heading outside.
 
-The sky is grey with thick cloud covering from one end of the horizon to the other, darker over the edge. The ground is as pale as the canopy. And he knows it wouldn't change much even after a few hours when the sun should be rising. He hasn't seen the sun for many days now, and the sky never clear since the day the news said St. Mary's Convent in Ilchester, Maryland exploded in a strong beam of light. No one knows what is happening to the world, but the popular rumor is that the end is nigh, and the apocalypse is coming.
+The sky is grey with thick cloud covering from one end of the horizon to the other, darker over the edge. The ground is as pale as the canopy. And he knows it wouldn't change much even after a few hours when the sun should be rising. He hasn't seen the sun for many days now, and the sky has never cleared since the day the news said St. Mary's Convent in Ilchester, Maryland, exploded in a strong beam of light. No one knows what is happening to the world, but the popular rumor is that the end is nigh, and the apocalypse is coming.
 
-But it could also be just an accidental gas explosion and some change of the climate.
+But it could also be just an accidental gas explosion and some change in the climate.
 
-Jimmy takes a deep breath, putting his hands together before his chest, facing the sky with eyes closed. *Bless the world, oh, Lord, and thy angels,* he prays, concentrating on the scrap of memory of the dream, *and ourselves to thy loving service that we may always continue in thy faith and fear to the honor and glory of thy name.*
+Jimmy takes a deep breath, putting his hands together before his chest, facing the sky with his eyes closed. *Bless the world, oh, Lord, and thy angels,* he prays, concentrating on the scrap of memory of the dream, *and ourselves to thy loving service that we may always continue in thy faith and fear to the honor and glory of thy name.*
 
-The news from yesterday also said Detroit has seen a panic wave from city people. Many stores were broken in by people believing the apocalypse theory; there were some number of injuries, fire accidents, and an outbreak of city-wise outage. The city governor has announced an emergency curfew. Jimmy turned off the TV last night before the reporter could finish. The panic wave hasn't reached Pontiac, Illinois, but he doesn't know if or when it might happen to them. The neighborhood is blessingly quiet around him right now.
+The news from yesterday also said Detroit has seen a panic wave among city people. Many stores were broken into by people believing the apocalypse theory; there were some number of injuries, fire accidents, and an outbreak of city-wide outage. The city governor has announced an emergency curfew. Jimmy turned off the TV last night before the reporter could finish. The panic wave hasn't reached Pontiac, Illinois, but he doesn't know if or when it might happen to them. The neighborhood is blissfully quiet around him right now.
 
-He demands his wandering thought come back to the moment, to the sky and angel, to the bright light in the dream. He adds to the prayer, *May the world a peaceful place to live, and may my family safe. Amen.*
+He demands his wandering thought come back to the moment, to the sky and angel, to the bright light in the dream. He adds to the prayer, *May the world be a peaceful place to live, and may my family be safe. Amen.*
 
 When he opens his eyes, the sky over his head opens, and a heavenly bright light dawns over his head. Jimmy starts, looking up at the light, but it's so bright that his eyes are hurting with a rising heat at the back of the sockets. He has to shut his eyes tight, panicking over what is happening.
 
@@ -305,7 +305,7 @@ Jimmy knows it must be the angels. The angels are real. He knows it. He knows it
 
 Jimmy takes a slow breath, digesting. It is one thing to believe the angels are real, that Heaven and Hell exist, but completely another to realize it's *literal*, that the war and therefore probably the wrath of the Lord might *actually* land on Earth. Let alone he's talking to one at the moment. He rubs his eyes and glances up again. The light from the sky is still over his head, enveloping him and him alone in the pale yard in front of his house.
 
-"Which angel are you?" Jimmy asks tentatively, then hurriedly adds timidly, "if I may ask."
+"Which angel are you?" Jimmy asks tentatively, then hurriedly adds timidly, "If I may ask."
 
 "Castiel, Angel of the Lord," the angel says. The voice is growing lower and more rapid, as if he is getting impatient. Jimmy flinches at the solemnness in the pitch.
 
@@ -325,25 +325,25 @@ He closes his eyes briefly, and finds the image of the Holy City comes back to h
 
 "Then, yes." Jimmy faces the direction of the light, closing his eyes.
 
-Even with eyes closed, he can feel the stream of power envelop him. The air sizzles with electricity. His hair stands on end when a gush of wind twirl around him, blowing the skirt of his trench coat flying. The electricity passes from the air to his skin, then crawls into his veins, flowing across his body, sinking deeper into his bones.
+Even with his eyes closed, he can feel the stream of power envelop him. The air sizzles with electricity. His hair stands on end when a gush of wind twirls around him, blowing the skirt of his trench coat flying. The electricity passes from the air to his skin, then crawls into his veins, flowing across his body, sinking deeper into his bones.
 
-He suddenly feels too hot and too cold at the same time under his skin, and then, he doesn't feel anything. He is sitting in the living room on the armed chair in his house, looking at a TV screen. The screen shows the neighborhood block under the grey sky. The image starts moving, and he realizes it must be the angel -- Castiel -- starts walking away, in his body, with his feet. It's an odd feeling, as if sitting in the passenger's seat of a car that's yours since birth.
+He suddenly feels too hot and too cold at the same time under his skin, and then, he doesn't feel anything. He is sitting in the living room on the armchair in his house, looking at a TV screen. The screen shows the neighborhood block under the grey sky. The image starts moving, and he realizes it must be the angel -- Castiel -- starting to walk away, in his body, with his feet. It's an odd feeling, as if sitting in the passenger's seat of a car that's yours since birth.
 
 "Castiel?" he tries tentatively, unsure if the angel can still hear him. His own voice vibrates in the small space of the imagined living room from his memory. It looks real enough, since he knows all the insides and outsides of that house they lived for ten years, but it's just his memory -- it's not real in that he knows if he tries one of the closed doors, he won't find a connected bedroom with his wife sleeping on their bed, or his daughter doing homework in her room. -- Oh God, he forgets to even leave them a note or message before he lets Castiel walk away with his body; they'd be worried sick and think he just goes missing.
 
-"Castiel?" Jimmy tries again, in a louder voice and talking to the TV screen this time -- not knowing why, but it feels like the only thing connected to the outside, probably to the same street view that Castiel is seeing. "Sorry but, is there any chance you may allow me to leave a message to Amelia, my wife? Just to let my family know where I'm going, that I'll be okay."
+"Castiel?" Jimmy tries again, in a louder voice and talking to the TV screen this time -- not knowing why, but it feels like the only thing connected to the outside, probably to the same street view that Castiel is seeing. "Sorry, but, is there any chance you may allow me to leave a message for Amelia, my wife? Just to let my family know where I'm going, that I'll be okay."
 
-"No." Castiel's stiff voice passes through the radio that he used to have over the mantel. The voice sounds a little like his own, but twisted, so much lower and colder that he doesn't register at first. It might be because the radio just tend to twist people's voice? Jimmy quickly explains to himself. But the quick and absolute rejection is still taking him aback.
+"No." Castiel's stiff voice passes through the radio that he used to have over the mantel. The voice sounds a little like his own, but twisted, so much lower and colder that he doesn't register at first. It might be because the radio just tends to twist people's voices? Jimmy quickly explains to himself. But the quick and absolute rejection is still taking him aback.
 
 "No?" Jimmy blinks. "Why not? It wouldn't take more than a minute."
 
-The vision in the TV screen is still moving fast away from his house, faster than a normal human's walking pace. Jimmy wonders briefly how his body is capable of moving in that speed.
+The vision on the TV screen is still moving fast away from his house, faster than a normal human's walking pace. Jimmy wonders briefly how his body is capable of moving at that speed.
 
 "Because," Castiel gives a meaningful pause, then, in a scolding tone, "if I do this, what's next? Buy your daughter a fruit cake? Pet your neighbor's dog?" His voice cold and harsh.
 
-Jimmy blinks again, sinking back into his easy chair in front of the TV at dismay. The angel is different from what he thought.
+Jimmy blinks again, sinking back into his easy chair in front of the TV in dismay. The angel is different from what he thought.
 
-Castiel continues harshly, "In case you forget, we're at the verge of Apocalypse, and there is a war to fight. I don't have time for any petty human things. And another warning ahead, you shouldn't talk about things you don't understand -- I'm sure there will be many things you won't understand and I don't expect you to -- you're just a human, after all. You should just go to sleep or whatever you do in your head."
+Castiel continues harshly, "In case you forget, we're on the verge of an Apocalypse, and there is a war to fight. I don't have time for any petty human things. And another warning ahead, you shouldn't talk about things you don't understand -- I'm sure there will be many things you won't understand and I don't expect you to -- you're just a human, after all. You should just go to sleep or whatever you do in your head."
 
 The radio falls quiet as the angel finishes.
 
@@ -355,27 +355,27 @@ He feels bone tired. But he doesn't even have a body to feel tired.
 
 Jimmy slumps in the easy chair, watching the TV screen shifting in and out idly, not knowing what else to do. The signal gets worse when the angel moves too fast -- at least that's his assumption right now. Or perhaps Castiel is blocking him out, not letting him see the outside world. He wouldn't know, but Jimmy prefers to believe it's the former.
 
-The screen was showing a static snow flake image for the last few hours, or maybe it's just minutes. He loses the sense of time as well. The clock on the wall doesn't move ever since he comes into this space that only exists in his head.
+The screen was showing a static snowflake image for the last few hours, or maybe it's just minutes. He loses the sense of time as well. The clock on the wall hasn't moved ever since he came into this space that only exists in his head.
 
-He has paced around the space for ten rounds, if not more, and every time he passes the main door of the house, he wonders if he should try the door or find a way to take a look at the outside, and what will happen if he does. And every time there is a tiny voice in his head nudging him don't do that, that's a bad idea, and the angel won't be happy about it. So he listens to it, circling back to the center of the living room.
+He has paced around the space for ten rounds, if not more, and every time he passes the main door of the house, he wonders if he should try the door or find a way to take a look at the outside, and what will happen if he does. And every time there is a tiny voice in his head nudging him not to do that, that's a bad idea, and the angel won't be happy about it. So he listens to it, circling back to the center of the living room.
 
-He tries to close his eyes, too. Going to sleep, like Castiel instructed. Maybe he did fall into sleep, maybe he just rested his eyes (that are not really there or need rest) for however long time it passed. He doesn't know either way. It's frustrating. The view is the same after he comes to again.
+He tries to close his eyes, too. Going to sleep, like Castiel instructed. Maybe he did fall into sleep, maybe he just rested his eyes (that are not really there or need rest) for however long it passed. He doesn't know either way. It's frustrating. The view is the same after he comes to again.
 
 There is no dream, either. He misses it.
 
-For the majority of the time when he's awake, Jimmy spends them thinking about things from the past, memories of Amelia and Claire, or reciting line by line the Holy Bible. He finds it soothing to go over the lines that tell the glory and victory at the aftermath of the disasters and catastrophes. Maybe this isn't a bad decision after all.
+For the majority of the time when he's awake, Jimmy spends them thinking about things from the past, memories of Amelia and Claire, or reciting line by line the Holy Bible. He finds it soothing to go over the lines that tell the glory and victory in the aftermath of the disasters and catastrophes. Maybe this isn't a bad decision after all.
 
-And then, the TV screen changes. The image shifts from static snow flakes to pure black.
+And then, the TV screen changes. The image shifts from static snowflakes to pure black.
 
 Jimmy sits on the carpeted floor right in front of the TV screen like a child asking for more screen hour, tilts his head and squeezes his eyes, trying to understand what it is that he's looking at. The darkness almost looks like Castiel has his eyes closed in his sleep, except that he knows angels don't sleep.
 
-Something flies by before the view -- flying upward, to be exact. The blackness is disturbed by the movements without shapes, like ripples on a water surface but the pebbles disturbing it are already sunken and can't be seen. The shadows of shapes move past him, all flying upward. Then something burning like a fire ball, also flashes upward, leaving a tail of light trace. That's when Jimmy realizes it is them, descending.
+Something flies by before the view -- flying upward, to be exact. The blackness is disturbed by the movements without shapes, like ripples on a water surface but the pebbles disturbing it are already sunken and can't be seen. The shadows of shapes move past him, all flying upward. Then something burning like a fireball, also flashes upward, leaving a tail of light trail. That's when Jimmy realizes it is them, descending.
 
 "Where are we going?" Jimmy asks, nervous.
 
 No answer.
 
-From the speed of their dropping, they must be going down to somewhere really, extremely deep. And what is so deep down from the earth, if they are not talking geographically? The question answers itself --
+From the speed of their dropping, they must be going down to somewhere really, extremely deep. And what is so deep down in the earth, if they are not talking geographically? The question answers itself --
 
 Hell.
 
@@ -385,9 +385,9 @@ Because, of course Hell is real. Just as literal as Heaven and angels.
 
 Jimmy shivers.
 
-As soon as the thought comes to him, the smell of sulfur permeates the room. The fireplace in the room starts burning with red-black fire, the dark flame bobbling ominously, as if Hell is also literally infiltrating into his head, instead of just encompassing his body from the outside.
+As soon as the thought comes to him, the smell of sulfur permeates the room. The fireplace in the room starts burning with red-black fire, the dark flame bobbling ominously, as if Hell is also literally infiltrating his head, instead of just encompassing his body from the outside.
 
-Their descending slows down as they drop deeper. Jimmy can tell from the speed of other shadows surrounding them. And shortly, they are not just *surrounding*. The black shadows lurch toward him.
+Their descent slows down as they drop deeper. Jimmy can tell from the speed of other shadows surrounding them. And shortly, they are not just *surrounding*. The black shadows lurch toward him.
 
 "Castiel!" Jimmy yells out reflexively.
 
@@ -399,33 +399,33 @@ In the blink of an eye, a flash of a blade cuts the closest shadow in half. The 
 
 "Why?" Jimmy's breath hitches. "Why are we coming to Hell?"
 
-Castiel isn't patient enough to tend to his curiosity. "Shush, you're very loud today. I need all my power for this mission, so I can't mind your business. Be quiet. Distract me again and you will regret it."
+Castiel isn't patient enough to tend to his curiosity. "Shush, you're very loud today. I need all my power for this mission, so I can't mind your business. Be quiet. Distract me again, and you will regret it."
 
 Jimmy stares at the TV screen with wide eyes, biting his lower lip.
 
 *He's just trying to help.* He wants to say. But on the second thought, just in case it also gets counted as "distracting", he might as well not say anything at all. He trusts the angel knows what he's doing.
 
-He doesn't sign up for going to Hell or facing demons when he said "yes" to Castiel. Not even the Book mentions anything about demon, only the Devil and the angels that follow him. Jimmy thinks distantly. But, of course, the angel has no obligation to inform him any of that and is totally capable of handling the demons on his own.
+He doesn't sign up for going to Hell or facing demons when he said "yes" to Castiel. Not even the Book mentions anything about demons, only the Devil and the angels that follow him. Jimmy thinks distantly. But, of course, the angel has no obligation to inform him of any of that and is totally capable of handling the demons on his own.
 
 Jimmy tries to relax the muscle on his imaginary shoulder, but his imaginary body is still tense. He can still feel his heart beating fast in his chest.
 
-Castiel continues fighting his way downward. More and more demons besiege them, and each and every one of them get sliced and killed. Some of them might finally get a grasp on his body, digging long cuts into his muscle. Jimmy feels a numb pain at the far tip of his consciousness, like a throbbing bruise dulled down from a numb limb. The sensation dies down quickly, turning into an itch, then heals. But another layers on it shortly, then another. The healing doesn't keep up as fast, and the sensation accumulates, turning into a paper cut, then a sharp knock, then a cold hallow feeling. He can't feel his arms and legs anymore, but he knows Castiel is still moving them, faster than his brain can apprehend. He trusts -- he wishes -- the angel is taking care of his body.
+Castiel continues fighting his way downward. More and more demons besiege them, and each and every one of them gets sliced and killed. Some of them might finally get a grasp on his body, digging long cuts into his flesh. Jimmy feels a numb pain at the far tip of his consciousness, like a throbbing bruise dulled down from a numb limb. The sensation dies down quickly, turning into an itch, then heals. But another layer on it shortly, then another. The healing doesn't keep up as fast, and the sensation accumulates, turning into a paper cut, then a sharp knock, then a cold hollow feeling. He can't feel his arms and legs anymore, but he knows Castiel is still moving them, faster than his brain can apprehend. He trusts -- he wishes -- the angel is taking care of his body.
 
 Jimmy wonders how far down they still have to go and if Hell really is a bottomless Pit as the Book describes.
 
-But he bites his tongue, literally, just not to say anything, not to distract the angel, even though he really just want to help.
+But he bites his tongue, literally, just not to say anything, not to distract the angel, even though he really just wants to help.
 
 The wave of demonic attacks thickens. On the dark background of Hell's downward passageway, Jimmy can't see exactly how many demons are encircling them, but Castiel's move is slowing down. He wonders if the angel sees the demon differently from his celestial eyes.
 
-And then, there is an explosion of light. The light starts from the center of the view, like the cold blue flame at the peripheral of burning gas fire. It fills the whole vision in a blink, bursting inside and outside in the same time. Jimmy feels a gush of power rushing through the room he's in and his whole consciousness, shoving him fly into the wall at the far end and drop violently to the floor. A photo frame on the mantel falls to the floor and shatters. It's that confusing sensation of cold and hot pulse flowing through his veins again. The tips of his nerves quiver in the burst of energy.
+And then, there is an explosion of light. The light starts from the center of the view, like the cold blue flame at the periphery of a burning gas fire. It fills the whole vision in a blink, bursting inside and outside at the same time. Jimmy feels a gush of power rushing through the room he's in and his whole consciousness, shoving him to fly into the wall at the far end and drop violently to the floor. A photo frame on the mantel falls to the floor and shatters. It's that confusing sensation of cold and hot pulse flowing through his veins again. The tips of his nerves quiver in the burst of energy.
 
-When he settles down and looks at the view through the TV screen again, the demons around them are all burned and cleared out. Jimmy wonders for a brief second why Castiel didn't use the killing blow earlier, and also immediately, the sharp sensation from his skin and body rush into his consciousness, overwhelming his mind. After the vast explosion of grace, it feels like a barrier is removed between his body and his mind. The pain is acute.
+When he settles down and looks at the view through the TV screen again, the demons around them are all burned and cleared out. Jimmy wonders for a brief second why Castiel didn't use the killing blow earlier, and also immediately, the sharp sensation from his skin and body rushes into his consciousness, overwhelming his mind. After the vast explosion of grace, it feels like a barrier is removed between his body and his mind. The pain is acute.
 
-Jimmy moans at the pain that he's never felt before, staggering in his standing position, crushing down to floor, for he can feel both his legs must be broken during the fight. So are his arms. The body must has been cut, bitten, stabbed, and twisted out of place. Jimmy can't really see his own body, and Castiel doesn't seem to bother fixing any of that, as long as the parts are sticking together, but the pain sensors in his body are still functioning. And all the sharp aching sensation is passing right to his consciousness.
+Jimmy moans at the pain that he's never felt before, staggering in his standing stance, crushed down to the floor, for he can feel both his legs must be broken during the fight. So are his arms. The body must have been cut, bitten, stabbed, and twisted out of place. Jimmy can't really see his own body, and Castiel doesn't seem to bother fixing any of that, as long as the parts are sticking together, but the pain sensors in his body are still functioning. And all the sharp aching sensation is passing right to his consciousness.
 
-Jimmy has to cover his mouth, just in case any of the moaning sound passes to Castiel's ears, just in case he annoys the angel. If he's the only one in his body, he's sure he would be falling to the ground, trembling in cold sweat and fainting out -- no, if he's only a human, he must have already been killed for a thousand times. Jimmy doesn't know if he should hate or thank Castiel.
+Jimmy has to cover his mouth, just in case any of the moaning sound passes to Castiel's ears, just in case he annoys the angel. If he's the only one in his body, he's sure he would be falling to the ground, trembling in cold sweat, and fainting out -- no, if he's only a human, he must have already been killed a thousand times. Jimmy doesn't know if he should hate or thank Castiel.
 
-They land on a solid ground, eventually, without any more obtrusion.
+They land on solid ground, eventually, without any more obtrusion.
 
 It seems Hell does have a deepest Pit.
 
@@ -437,15 +437,15 @@ Castiel answers, undisturbed, as if not noticing *anything* off with that body, 
 
 "Abomination," Castiel answers smoothly, not caring enough to use the demon's name. "Where is the Righteous Man?"
 
-Jimmy focuses so much at the scene before him, that he temporarily forgets about the pained and wounded body. The demon named Azazel looks completely different from the other shapeless smoke-looking demons they have encountered before -- just looking at his face, Azazel can almost pass as a human, if not counting his creepy yellow eyes, which makes the view a hundred times worse. Those eyes almost look as if they are looking right past the eyes of Castiel, the eyes of his body, seeing through the fake TV screen and staring into Jimmy's consciousness, as if Azazel knows full well that he's in there. Jimmy drags himself behind the sofa, trying vainly to find some protection from the demon's eyes. The room feels colder and darker than earlier.
+Jimmy focuses so much on the scene before him, that he temporarily forgets about the pained and wounded body. The demon named Azazel looks completely different from the other shapeless smoke-looking demons they have encountered before -- just looking at his face, Azazel can almost pass as a human, if not counting his creepy yellow eyes, which makes the view a hundred times worse. Those eyes almost look as if they are looking right past the eyes of Castiel, the eyes of his body, seeing through the fake TV screen and staring into Jimmy's consciousness, as if Azazel knows full well that he's in there. Jimmy drags himself behind the sofa, trying vainly to find some protection from the demon's eyes. The room feels colder and darker than earlier.
 
-*Castiel,* Jimmy thinks, not sure if it's a desperate wish or prayer, and he finds himself wordless of what to say. He rushes a thought, *Please be safe.*
+*Castiel,* Jimmy thinks, not sure if it's a desperate wish or prayer, and he finds himself wordless about what to say. He rushes a thought, *Please be safe.*
 
 Castiel doesn't show any sign of hearing his thoughts. He takes a step forward, closing the distance.
 
 The demon is in a body about the same height as his.
 
-Azazel grins wider, all the uneven and pointy teeth at the back of his mouth glinting dangerously. "My, my, where's the manner? It's been a thousand years since we see any angel down here. Thought you'd fancy a tea -- did we not work together all those past months to handle the seals? Or is it above your paygrade, and you're merely an errand boy?"
+Azazel grins wider, all the uneven and pointy teeth at the back of his mouth glinting dangerously. "My, my, where's the manner? It's been a thousand years since we see any angel down here. Thought you'd fancy a tea -- did we not work together all those past months to handle the seals? Or is it above your pay grade, and you're merely an errand boy?"
 
 Castiel raises the blade in his hand, the view brightening a few degrees, lighting up the darkness around them with an illumination coming from his own body. Jimmy can see black and red blood streaming down from his own arms, dripping along the blade, falling back into the darkness.
 
@@ -453,9 +453,9 @@ The angel says, in a menacing tone, "I don't have all day. You can either give m
 
 Azazel shrugs carelessly. "Such impatience and no fun. Direct to the business, are we? Fine, you'll find him right --" he snaps a finger, "-- here."
 
-Half a dozen torches start burning before them, showing a dimly lit room with a torture rack in the center. A wrecked body is bound to the rack, and a demon is cutting through the body with the sharpest and longest blade Jimmy has ever seen. The man on the reck is howling in pain and torture, and the demon is laughing hysterically. The mixed sound of laughter and cry gives Jimmy cold shivers and goosebumps all over.
+Half a dozen torches start burning before them, showing a dimly lit room with a torture rack in the center. A wrecked body is bound to the rack, and a demon is cutting through the body with the sharpest and longest blade Jimmy has ever seen. The man on the rack is howling in pain and torture, and the demon is laughing hysterically. The mixed sound of laughter and cry gives Jimmy cold shivers and goosebumps all over.
 
-Jimmy has to take a long deep breath to calm down his frantic heart. It is the most horrifying scene he's ever seen -- he doesn't even watch horror movies! -- but at least, good news for the man, the angel is here for him now. He almost feels relieved, at least he knows the angel is doing some good, saving poor people from Hell -- *he* is part of something good.
+Jimmy has to take a long deep breath to calm down his frantic heart. It is the most horrifying scene he's ever seen -- he doesn't even watch horror movies! -- but at least, good news for the man, the angel is here for him now. He almost feels relieved; at least he knows the angel is doing some good, saving poor people from Hell -- *he* is part of something good.
 
 Castiel walks toward the rack. His voice prudent, "John Winchester?"
 
@@ -465,13 +465,13 @@ Jimmy's heart sinks. He can barely piece together the demon's face to see the hu
 
 Azazel comments behind them, enjoying the same view. "It's actually five thousand years down here, dear. But I get it, it feels longer when you're enjoying it too much, am I right?"
 
-The demon returns him with a grin, turning back to the torturing job that he was working on. The body on the rack twitches and squirms, letting out a shrieking howling of pain. The demon blocked most of the view, but Jimmy can still see the skin is cut open on that poor tortured man through the chest to the stomach. The demon starts stabbing the gut and organs, his laughter louder than the victim's scream.
+The demon returns him with a grin, turning back to the torturing job that he was working on. The body on the rack twitches and squirms, letting out a shrieking howling of pain. The demon blocks most of the view, but Jimmy can still see the skin is cut open on that poor tortured man through the chest to the stomach. The demon starts stabbing the gut and organs, his laughter louder than the victim's scream.
 
 Jimmy shivers with horror, pressing a fist in his mouth to steady himself.
 
 Castiel lowers his eyes, considering.
 
-Azazel continues to blatter, "I don't know why Upstairs still bothers, he's completely one of us now. The first seal is broken anyway, we get what we want, you get what you want. Bob's your uncle, Fanny's your aunt. Everyone's happy, I deserve my reward. Honestly, it's not easy. You know how many centuries I have to spend teaching him how to pick up a razor?"
+Azazel continues to blatter, "I don't know why Upstairs still bothers; he's completely one of us now. The first seal is broken anyway; we get what we want, you get what you want. Bob's your uncle, Fanny's your aunt. Everyone's happy, I deserve my reward. Honestly, it's not easy. You know how many centuries I have to spend teaching him how to pick up a razor?"
 
 Castiel ignores him and starts walking outside. "He is broken beyond saving now," he convicts. "I will inform the General. It's not ideal, but we can work without him. Now, for my second order and the last step to complete the mission, where is Lilith?"
 
@@ -479,9 +479,9 @@ Castiel ignores him and starts walking outside. "He is broken beyond saving now,
 
 Castiel keeps walking. The vision gets darker.
 
-"Castiel!" Jimmy yells at the TV screen, putting two hands on the TV frame, shaking it. "I thought you're an angel! I thought you're here to save people! Save them, please!"
+"Castiel!" Jimmy yells at the TV screen, putting two hands on the TV frame, shaking it. "I thought you're an angel! I thought you were here to save people! Save them, please!"
 
-"Quiet!" The radio bursts out Castiel's outrageous voice. So loud and high-pitched that it buzzes Jimmy's ears. The decorative windows in the living room crack in the vibration of the sound, before breaking into pieces and flying apart.
+"Quiet!" The radio bursts out with Castiel's outrageous voice. So loud and high-pitched that it buzzes Jimmy's ears. The decorative windows in the living room crack under the vibration of the sound, before breaking into pieces and flying apart.
 
 "No!" Jimmy covers his ears but doesn't want to give up just yet. The image and sound of the man's cry and the demon's laughter -- the human named John Winchester, the righteous man -- are still too vivid in his memory. He knows if he just lets Castiel walk out of here, he will dream of them in nightmares from now on for eternity every time he closes his eyes. "Doesn't the God say, *'Do not withhold good from those to whom it is due, when it is in your power to act.'*?" (*\* Proverbs 3:27*)
 
@@ -489,31 +489,31 @@ Castiel keeps walking. The vision gets darker.
 
 "But --" Jimmy still tries.
 
-"James Gregory Novak, shut up!" the angel cuts him off harshly, and the rage is audible from his voice. "Do not defy me."
+"James Gregory Novak, shut up!" the angel cuts him off harshly, and the rage is audible in his voice. "Do not defy me."
 
 Jimmy grimaces, retracting his hands like the frame burns, stepping back from the TV and away from the radio. The lines in the Book about the divine rage and God's wrath flash through his mind.
 
-At the same time, a sharp pain that's way worse than those from the wounds and cuts earlier rushes through his nerves, burning him as if his whole body and soul is being placed on fire, sizzling and prickling as if every inch of his nerve has a long, sharp needle buried underneath and pressing deeper by each second. Jimmy curls on the floor and shakes involuntarily, gasping and panting, holding himself tight. But nothing helps. He doesn't even know where it comes from -- whether it's the body that he doesn't have control over, or his mind.
+At the same time, a sharp pain that's way worse than those from the wounds and cuts earlier rushes through his nerves, burning him as if his whole body and soul are being placed on fire, sizzling and prickling as if every inch of his nerves has a long, sharp needle buried underneath and pressing deeper by each second. Jimmy curls on the floor and shakes involuntarily, gasping and panting, holding himself tight. But nothing helps. He doesn't even know where it comes from -- whether it's the body that he doesn't have control over, or his mind.
 
 "I told you there would be punishment and consequence if you do not behave or ever try to interfere," Castiel's ruthless voice comes through, cold and cruel.
 
 "I'm sorry," Jimmy screams in between the shaking. "I'm sorry!"
 
-Jimmy doesn't really know exactly when the pain eases. He thinks his consciousness must have blacked out. And by the time he comes to, he only feels cold. The smell of sulfur in the room is so thick that he thinks if it is real, he must get poisoned by the chemical by now. It is Hell outside and inside.
+Jimmy doesn't really know exactly when the pain eases. He thinks his consciousness must have blacked out. And by the time he comes to, he only feels cold. The smell of sulfur in the room is so thick that he thinks if it is real, he must have gotten poisoned by the chemical by now. It is Hell outside and inside.
 
 The TV screen shows long, endless spiral stairs heading downwards. Castiel is walking down those steps, led by Azazel. The space is only lit by the shaking torch in Azazel's hand.
 
 *Where are we going?* Jimmy thinks. But he is wise enough not to voice it now. His teeth are still chattering in the remnant of pain.
 
-"Lord Lucifer would be so glad to see you," Azazel glances over his shoulder, grinning. "I mean, an angel coming to rescue? I really thought it would be a human or one of us, you know. I just lost twenty souls to Lilith, 'cause I was betting on that lovely wife, Mary to come down here for it."
+"Lord Lucifer would be so glad to see you," Azazel glances over his shoulder, grinning. "I mean, an angel coming to rescue? I really thought it would be a human or one of us, you know. I just lost twenty souls to Lilith, 'cause I was betting on that lovely wife, Mary, to come down here for it."
 
 "I'm doing it on Michael's order," Castiel announces grimly.
 
 "Sure, sure, whatever you say," Azazel turns back, leading the way. "But at the end of the day, you'll still be known as the angel that let Lucifer out. I don't know what the humans would think about that, but we demons? We owe you big, a silk banner with your name on it."
 
-"For Christ sake, we don't care what the humans think," Castiel snaps impatiently. "Will you shut up and just lead the way? Or do I have to burn your brain out and open the Cage myself? I can do that too. Gladly."
+"For Christ's sake, we don't care what the humans think," Castiel snaps impatiently. "Will you shut up and just lead the way? Or do I have to burn your brain out and open the Cage myself? I can do that too. Gladly."
 
-"I thought you still need me to find Lilith," Azazel gloats.
+"I thought you still needed me to find Lilith," Azazel gloats.
 
 Castiel grumbles, "I can kill my way to find her, too, if I have to."
 
@@ -523,7 +523,7 @@ But even Jimmy can hear the reluctance in his voice. Azazel doesn't push.
 
 "Apocalypse isn't going to start itself, is it?" Castiel's voice comes through sarcastically.
 
-"No, but..." Jimmy's thought trails away. It feels wrong, but it does get mentioned in the Revelation that the Devil *will* come out of the prison after a thousand years. It just never occurs to him *how*, let alone *who* would make it happen. He wouldn't dare to dream it to be *himself* in another thousand years.
+"No, but..." Jimmy's thought trails away. It feels wrong, but it does get mentioned in the Revelation that the Devil *will* come out of the prison after a thousand years. It just never occurs to him *how*, let alone *who* would make it happen. He wouldn't dare to dream it being *himself* in another thousand years.
 
 "What did I say about objections and distractions?" Castiel warns him lowly.
 
@@ -541,13 +541,13 @@ She turns around when she hears their footsteps echo in the space. A bright smil
 
 "Enough talking," Castiel snaps. "We did not miss the signal. It is time-consuming to get all the other seals ready until this last one, and have a cooperative host to manifest on the Earth and below to perform the task. Now, Lilith, the first Abomination and the final seal --"
 
-The demon named Lilith, who, from Jimmy's view, looks nothing other than a young, innocent girl in pure white dress, smiles with a peaceful smile, looking into Castiel's eyes, and just so happened, meeting Jimmy's too. She looks beautiful and calm, and so, so, human -- if not counting the foggy white demon eyes.
+The demon named Lilith, who, from Jimmy's view, looks nothing other than a young, innocent girl in a pure white dress, smiles with a peaceful smile, looking into Castiel's eyes, and just so happens, meeting Jimmy's too. She looks beautiful and calm, and so, so, human -- if not counting the foggy white demon eyes.
 
 Jimmy's heart skips a beat. He's not going to kill her, is he? Or in this case, is Castiel?
 
-"I'm ready," Lilith announces, looking up at the Cage, opening her arms, like a little girl embracing the spring wind, or letting the light of autumn sun shining on her face. She closes her eyes.
+"I'm ready," Lilith announces, looking up at the Cage, opening her arms, like a little girl embracing the spring wind, or letting the light of autumn sun shine on her face. She closes her eyes.
 
-Jarringly, Jimmy thinks she almost looks like Claire. His daughter might be just like that in a few years. He can imagine her wearing a similar silken white dress, standing in a park somewhere, letting the wind blowing the skirt, enjoying the sun. His heart clenches. All he can see now is Claire standing before him, waiting to be executed cold-bloodedly.
+Jarringly, Jimmy thinks she almost looks like Claire. His daughter might be just like that in a few years. He can imagine her wearing a similar silken white dress, standing in a park somewhere, letting the wind blow the skirt, enjoying the sun. His heart clenches. All he can see now is Claire standing before him, waiting to be executed cold-bloodedly.
 
 Castiel marches toward her, with the angel blade raised high in his hand.
 
@@ -557,7 +557,7 @@ Castiel's steady stride trips one step, his pace interrupted. But he carries on 
 
 The image of Lilith zooms larger in the vision by each second as he approaches.
 
-"No!! You're not killing her. Stop!" Jimmy grabs the edge of the TV screen, focusing on his body, on his feet that is moving forward, on his hand that is holding the angel blade.
+"No!! You're not killing her. Stop!" Jimmy grabs the edge of the TV screen, focusing on his body, on his feet that are moving forward, on his hand that is holding the angel blade.
 
 His body comes to a jolt.
 
@@ -579,7 +579,7 @@ Jimmy has to loosen his grip to use his hands to cover his ears. "She's just a l
 
 "You don't mean it," Castiel warns dangerously. "Do you forget the pain fighting with me can give you?"
 
-Jimmy flinches with reminded muscle memory of the pain.
+Jimmy flinches with the reminded muscle memory of the pain.
 
 With that split second of distraction, Castiel takes back control of the body and stabs the angel blade into the heart of Lilith.
 
@@ -589,7 +589,7 @@ Azazel lowers the torch, staring at the pattern with open fascination. "Oh Fathe
 
 Castiel takes a step back, watching the Cage closely.
 
-Light that is a million times brighter than Castiel's when he entered Jimmy's body or the one that burned Lilith bursts out from the central of the blood sigil, beaming straight upward, tearing the dark space open, locking into the bottom of the Cage. It glows brighter and brighter as if a drill trying to punch through the barrier of the Cage.
+Light that is a million times brighter than Castiel's when he entered Jimmy's body or the one that burned Lilith bursts out from the center of the blood sigil, beaming straight upward, tearing the dark space open, locking into the bottom of the Cage. It glows brighter and brighter as if a drill is trying to punch through the barrier of the Cage.
 
 Until eventually, the brightest light that is like a supernova explosion blasts from the Cage.
 
@@ -619,21 +619,21 @@ Effect that Winchesters are never there (= S02E20):
 
 #### Act 1
 
-The pain on his nerves is eased down a little when Jimmy opens his eyes again. So is the burning sensation on the skin from the heat and the throbbing ache at the back of his eyes from the bright light.
+The pain in his nerves is eased a little when Jimmy opens his eyes again. So is the burning sensation on the skin from the heat, and the throbbing ache at the back of his eyes from the bright light.
 
-It also takes him about one long sluggish minute to realize what else is different -- the smell of sulfur also fades.
+It also takes him about one long, sluggish minute to realize what else is different -- the smell of sulfur also fades.
 
 He takes it that they are no longer in Hell, and his connection to the body is occluded.
 
-And the latter must be because Castiel has regained his power and grace or something of the kind that blocks the physical sensation from his mind.
+And the latter must be because Castiel has regained his power and grace, or something of the kind that blocks the physical sensation from his mind.
 
 Jimmy feels more like a ghost than an unwanted guest consciousness floating inside his own body, only peeking out through a thin slit.
 
-The TV screen is showing a blurry sea of light and colors now, like an old-time film camera taking photo of something moving really fast, or the camera itself is on a moving vehicle. It makes his head dizzy too when he tries to understand the shift of colors on the screen.
+The TV screen is showing a blurry sea of light and colors now, like an old-time film camera taking photos of something moving really fast, or the camera itself is on a moving vehicle. It makes his head dizzy, too, when he tries to understand the shift of colors on the screen.
 
 Jimmy tiredly drags himself over to sink into the chair, not knowing what else to do.
 
-He wonders what Amelia and Claire will be doing right now, if they'll stick some missing person posters on the lamp post, contacting all his old friends, trying to figure out why he is suddenly missing, or worse, leaving them behind without even saying a goodbye. His heart clenches when he thinks about the last time he saw them, the last sentence he talked to them, the way he knows Amelia would try to think about what she might have done wrong, or Claire thinking it's her fault that he left. He shuts his eyes and presses his temples with his fists. *This is for the greater good*, he tells himself. *He's doing the right thing. The angels are fulfilling the prophecy, and the world will become a better place for his family, for everyone on the Earth.*
+He wonders what Amelia and Claire will be doing right now, if they'll stick some missing person posters on the lamp post, contact all his old friends, try to figure out why he is suddenly missing, or worse, leave them behind without even saying goodbye. His heart clenches when he thinks about the last time he saw them, the last sentence he talked to them, the way he knows Amelia would try to think about what she might have done wrong, or Claire thinking it's her fault that he left. He shuts his eyes and presses his temples with his fists. *This is for the greater good*, he tells himself. *He's doing the right thing. The angels are fulfilling the prophecy, and the world will become a better place for his family, for everyone on Earth.*
 
 If only he could know for sure that they're safe and sound.
 
@@ -647,37 +647,37 @@ The image of light and explosion from Lucifer's Cage replays itself before his c
 
 Jimmy frowns at himself. He would like to think he really is.
 
-The voice comes again, *Deep down, you're just like one of us. Rotten, ugly thing. Don't forget that just 'cause you find a pretty meatsuit to wear.*
+The voice comes again. *Deep down, you're just like one of us. Rotten, ugly thing. Don't forget that just 'cause you find a pretty meatsuit to wear.*
 
 Castiel growls, slowly, one word at a time, "Listen up, you filthy thing. I. Need. Information."
 
 The demon's scream tears through the air, making it clear that the voice Jimmy heard was not just some hallucination.
 
-Jimmy glances at the TV screen. The snow flake view shifts in and out, but he catches some image. A demon in a young boy's body is tied to a cross -- no, he is pinned to the crucifix in the old biblical way. His wrists and ankles are pierced with long silvery spikes, dark blood streaming from the wound, forming a pool on the ground at their feet. Around them, the land is barren and scorched, as if they're standing in the middle of the ruins of a wild forest fire. More vague figures stand at the peripheral of the vision, holding angel blades of their own. The demon stares him back with a wild, skewed smile and two inky black eyes.
+Jimmy glances at the TV screen. The snowflake view shifts in and out, but he catches some image. A demon in a young boy's body is tied to a cross -- no, he is pinned to the crucifix in the old biblical way. His wrists and ankles are pierced with long silvery spikes, dark blood streaming from the wound, forming a pool on the ground at their feet. Around them, the land is barren and scorched, as if they're standing in the middle of the ruins of a wild forest fire. More vague figures stand at the periphery of the vision, holding angel blades of their own. The demon stares him back with a wild, skewed smile and two inky black eyes.
 
 Jimmy shivers uncomfortably. Castiel is undisturbed.
 
-"Are the demons working with humans?" Castiel demands, plunging the angel blade on the shoulder of the young boy's body. The demon screams with a higher pitch, but the following laughter is also louder. Blood drips from the corner of his mouth. Golden light flashes through the body from the wound, but Castiel removes the blade before the demon is incinerated. His head droops feebly.
+"Are the demons working with humans?" Castiel demands, plunging the angel blade into the shoulder of the young boy's body. The demon screams with a higher pitch, but the following laughter is also louder. Blood drips from the corner of his mouth. Golden light flashes through the body from the wound, but Castiel removes the blade before the demon is incinerated. His head droops feebly.
 
-"What are you laughing about?" Castiel presses the blade under the chin of the demon, lifting his head without touching him, as if it will dirty his hand. The tip of the blade cuts through the skin right next to his Adam's apple, blood falling along his throat.
+"What are you laughing about?" Castiel presses the blade under the chin of the demon, lifting his head without touching him, as if it would dirty his hand. The tip of the blade cuts through the skin right next to his Adam's apple, blood falling along his throat.
 
 The demon spreads his mouth in a hysterical laugh. "You have no idea how much treasure and knowledge is buried in this kid's brain, do you? Angel -- meet Daniel Singer."
 
-The demon deliberately blinks once, and the demonic black eyes clear into hazel-blue eyes. The boy startles frantically, struggling in his position, but he can't move an inch. The struggle only tears the piercing wounds on his wrists and ankles worse. He cries out in pain and confusion.
+The demon deliberately blinks once, and the demonic black eyes clear into hazel-blue eyes. The boy starts frantically, struggling in his position, but he can't move an inch. The struggle only tears the piercing wounds on his wrists and ankles worse. He cries out in pain and confusion.
 
-"What -- where --?" He croaks, his voice dry and panicked, utterly different from the demon's shrieking mocking voice. He glances at his crucified hands and legs, and the beings around him, and finally meets the eyes of Castiel.
+"What -- where --?" He croaks, his voice dry and panicked, utterly different from the demon's shrieking, mocking voice. He glances at his crucified hands and legs, and the beings around him, and finally meets the eyes of Castiel.
 
-"Oh God, you're an angel," the boy gasps loudly, "we thought we are fighting demons."
+"Oh God, you're an angel," the boy gasps loudly, "we thought we were fighting demons."
 
-"We thought so, too." Castiel answers drily, but the blade in his hand is not lowered. The tip of the blade is still only inches from the boy's throat, threatening to stab through and take the life. As if it doesn't make the situation the slightest whether it's a demon or a human boy being tied and tortured before him. He continues regardless, "Now, where are we?"
+"We thought so, too," Castiel answers drily, but the blade in his hand is not lowered. The tip of the blade is still only inches from the boy's throat, threatening to stab through and take the life. As if it doesn't make the situation the slightest different whether it's a demon or a human boy being tied and tortured before him. He continues regardless, "Now, where are we?"
 
-"What are you doing?" Jimmy can't help calling, grabbing the TV frame, pressing a hand on the image of the boy named Daniel's face. "You kill demons, you don't torture human. Look at him, he's just a boy!" He looks barely eighteen, pale and slim, with unruly black hair mixed with blood and sweat. The plaid shirt and a military jacket look too big on him, and are already full of cuts and tears. The most fresh wound on his shoulder is still overflowing with blood, dying the dark green material a deep wet color.
+"What are you doing?" Jimmy can't help calling, grabbing the TV frame, pressing a hand on the image of the boy named Daniel's face. "You kill demons, you don't torture humans. Look at him, he's just a boy!" He looks barely eighteen, pale and slim, with unruly black hair mixed with blood and sweat. The plaid shirt and a military jacket look too big on him, and are already full of cuts and tears. The most fresh wound on his shoulder is still overflowing with blood, dying the dark green material a deep, wet color.
 
 Castiel shakes his head once. The room Jimmy is in shakes with his move. A warning.
 
-Jimmy swallows. This isn't the first, or the second time that Castiel shows up differently from what he thought angels would be like. He doesn't even know why he still keeps a wisp of hope that they will do the right thing, the good thing -- saving people, saving the world. He certainly doesn't feel surprised now, but disappointment still overwhelms him.
+Jimmy swallows. This isn't the first or the second time that Castiel shows up differently from what he thought angels would be like. He doesn't even know why he still keeps a wisp of hope that they will do the right thing, the good thing -- saving people, saving the world. He certainly doesn't feel surprised now, but disappointment still overwhelms him.
 
-Jimmy doesn't think of himself as anything close to a martyr or a hero, but before all this started, he would hold a spinning door for the person behind him, and he would invite those who aren't convenient standing to take his seat on a bus. He considers himself *good*, but not for bragging about it. He knows what is good and what is bad, or what is right and what is wrong -- he believes he knows them, anyway. But it's getting increasingly difficult to still hold the belief and insist doing them. He just tries to do the right things that he always believes are right, it should be simple -- like not harming or torturing kids, like stopping others if they're halfway doing it.
+Jimmy doesn't think of himself as anything close to a martyr or a hero, but before all this started, he would hold a spinning door for the person behind him, and he would invite those who weren't convenient to stay standing to take his seat on a bus. He considers himself *good*, but not for bragging about it. He knows what is good and what is bad, or what is right and what is wrong -- he believes he knows them, anyway. But it's getting increasingly difficult to still hold the belief and insist on doing them. He just tries to do the right things that he always believes are right; it should be simple -- like not harming or torturing kids, like stopping others if they're halfway doing it.
 
 His hand moves quietly on the TV screen, sliding over the image of the young boy's pale face.
 
@@ -685,11 +685,11 @@ His hand moves quietly on the TV screen, sliding over the image of the young boy
 
 Castiel doesn't answer him, and Daniel can't hear him.
 
-"Right, location, location, location. It's all about secret locations," Castiel singsongs, twisting his wrist to fling the blade between his fingers. "What do you know about demon's lairs?"
+"Right, location, location, location. It's all about secret locations," Castiel singsongs, twisting his wrist to fling the blade between his fingers. "What do you know about demons' lairs?"
 
-"Nothing! I don't know anything!" Daniel yells. He widens his eyes and clenches his teeth to bear the pain. His face pales fast as the blood loses. Words come out difficultly. "Listen, Angel, we are on the same side. I can't really say much, because the demon is listening, but we have platoons and soldiers, all fighting for our land against demons, just like the angels do!"
+"Nothing! I don't know anything!" Daniel yells. He widens his eyes and clenches his teeth to bear the pain. His face pales fast as blood leaves him. Words come out difficultly. "Listen, Angel, we are on the same side. I can't really say much, because the demon is listening, but we have platoons and soldiers, all fighting for our land against demons, just like the angels do!"
 
-"Liar!" Castiel rebukes, stabbing the blade into his unharmed shoulder. A matching hole starts guggling with blood. The boy's body shakes violently on the crucifix.
+"Liar!" Castiel rebukes, stabbing the blade into his unharmed shoulder. A matching hole starts gushing with blood. The boy's body shakes violently on the crucifix.
 
 Daniel wails in terrible pain. "I swear!" his voice is chapped and broken in his throat, but he still manages to let the words out in between his screams. "I swear I'm not with demons! I don't know anything!"
 
@@ -697,7 +697,7 @@ Jimmy covers his mouth to choke down a horrible bout of emesis, and the voice sq
 
 The force on the hand that was pushing the blade in is stopped, and then takes it out slowly, before dropping it to the ground. Daniel pants heavily with a faint, relieved, "Thank you."
 
-Jimmy focuses all his attention to his right hand.
+Jimmy focuses all his attention on his right hand.
 
 Castiel growls with a low rumbling voice, "I didn't do that." He grasps his right hand with his left, both trembling uncontrollably.
 
@@ -705,17 +705,17 @@ An angel calls from somewhere to the right behind them, "Commander?"
 
 "Give me a minute," Castiel answers without looking back, and steps away from the torture site.
 
-Jimmy takes a trembling breath, completely exhausted. This is taking all his strength. It's wearing him out worse than anything he's ever tried in his life, not climbing mountains, not working out a whole session in the gym, not anything. He wipes his forehead, steadying himself against the TV cabin.
+Jimmy takes a trembling breath, completely exhausted. This is taking all his strength. It's wearing him out worse than anything he's ever tried in his life, not climbing mountains, not working out a whole session in the gym, not anything. He wipes his forehead, steadying himself against the TV cabinet.
 
-The living room door is kicked open violently from outside. Castiel charges in, wearing the same trench coat as he is. But everything else about him is completely different from Jimmy.
+The living room door is kicked open violently from the outside. Castiel charges in, wearing the same trench coat as he is. But everything else about him is completely different from Jimmy.
 
 Castiel's pupils shine with glaring white-blue light. "What the hell was that?!" he roars.
 
-Jimmy tries his best not to flinch under that rage. He wets his lips, gathering the speck of courage he manages find. "He's just a boy," he reasons quietly, hoping his voice steady. "You can say John Winchester is a demon, Lilith is a demon. But this kid out there, Daniel, he's just a boy. Surely there is a way to exorcise that demon and save him. You don't need to torture him."
+Jimmy tries his best not to flinch under that rage. He wets his lips, gathering the speck of courage he manages to find. "He's just a boy," he reasons quietly, hoping his voice is steady. "You can say John Winchester is a demon, Lilith is a demon. But this kid out there, Daniel, he's just a boy. Surely there is a way to exorcise that demon and save him. You don't need to torture him."
 
 "He has information we need," Castiel strides toward him, grasping Jimmy in the shoulder, lifting him up as if he weighs nothing. Their identical faces are barely inches apart. The light in Castiel's eyes is so bright as if real flames will burst out of his eye sockets. "He can be working with demons. He can be fighting against angels like some humans do." His spit flies onto Jimmy's face.
 
-"Even if he really is innocent." Castiel throws Jimmy down to the floor, kneeling down next to him with a despise look on his face. "He's just a human. He's nothing. Do you feel bad when you step on an ant, or a bacteria? This is what human is to us."
+"Even if he really is innocent." Castiel throws Jimmy down to the floor, kneeling down next to him with a despise look on his face. "He's just a human. He's nothing. Do you feel bad when you step on an ant, or a bacterium? This is what humans are to us."
 
 Jimmy tries to slowly pull himself away from the angel, but his arms are buried under his body in odd angles. He hisses quietly with the pain.
 
@@ -727,23 +727,23 @@ That second is too long for Castiel's patience. A second blow punches on his nos
 
 "Yes," Jimmy answers breathlessly, eyes closed. He can feel his head throbbing with pain.
 
-"And you will just watch me kill that boy, and every one I desire, without saying a word or doing a thing?"
+"And you will just watch me kill that boy, and everyone I desire, without saying a word or doing a thing?"
 
-Jimmy pauses for another second, tasting the rusty bloody taste on his tongue. *He can't.*
+Jimmy pauses for another second, tasting the rusty, bloody taste on his tongue. *He can't.*
 
 The next punch lands on his chest. *Oh God.*
 
 "Yes," he has to choke it out around a mouth of fresh blood coming out from nowhere.
 
-"Good." The angel stands up, leaving him curl on the floor. "I hope you can remember this, for your own good."
+"Good." The angel stands up, leaving him curled on the floor. "I hope you can remember this, for your own good."
 
-Jimmy doesn't see him leave the space, or lock the door. He just lies there, waiting for the pain on his head, his nose, and his chest to alleviate slowly. None of those body parts or the room is real, he knows in his heart, but the pain is. If the pain is, then so is the rest of it to him.
+Jimmy doesn't see him leave the space, or lock the door. He just lies there, waiting for the pain in his head, his nose, and his chest to alleviate slowly. None of those body parts or the room is real, he knows in his heart, but the pain is. If the pain is, then so is the rest of it to him.
 
 He turns slowly on the floor to lie on his back. He can feel the carpet beneath him is soaked by his own blood, wet and cold.
 
-Strong light bursts out on the screen. Daniel screams with a pitch that no human can bear to hear without shredding a tear. It's the sound of a last breath leaving a life.
+Strong light bursts out on the screen. Daniel screams with a pitch that no human can bear to hear without shedding a tear. It's the sound of a last breath leaving a life.
 
-Jimmy doesn't want to look but he can't help it. When he glances at the screen, angelic light just fades from his burned-out eye sockets, leaving two hollow, scorched holes. His lifeless head sags forward, his body holding upright only because of the nails on the crucifix.
+Jimmy doesn't want to look, but he can't help it. When he glances at the screen, angelic light just fades from his burned-out eye sockets, leaving two hollow, scorched holes. His lifeless head sags forward, his body holding upright only because of the nails on the crucifix.
 
 Castiel starts to walk away.
 
@@ -751,31 +751,31 @@ One of the angels asks him, "What about the body?"
 
 "Leave it be, or burn it. I don't care," Castiel answers emotionlessly.
 
-Jimmy closes his eyes again, letting himself sink into the darkness behind his eyelids. *This isn't right. Nothing is right.* The Apocalypse, angels and demons, all of it. The new world is not going to be created from the Revelation, because none of them even care the slightest about humans. Only humans can achieve that. He sees it now. But it might be too late. He thinks painfully, but the sensational pain on his nerves is so distracting that he can't even think straight.
+Jimmy closes his eyes again, letting himself sink into the darkness behind his eyelids. *This isn't right. Nothing is right.* The Apocalypse, angels and demons, all of it. The new world is not going to be created from the Revelation, because none of them even cares the slightest about humans. Only humans can achieve that. He sees it now. But it might be too late. He thinks painfully, but the sensational pain in his nerves is so distracting that he can't even think straight.
 
-Next time when his mind is more clear, when he's not lying on his living room floor, choking on his blood, he'll come up with a plan. Jimmy decides. He'll go back to his wife and daughter, leaving Castiel behind, leaving this part of his life behind. Even if it means literally he'll have to leave his *life* behind. Even death is better than this.
+Next time when his mind is clearer, when he's not lying on his living room floor, choking on his blood, he'll come up with a plan. Jimmy decides. He'll go back to his wife and daughter, leaving Castiel behind, leaving this part of his life behind. Even if it means literally he'll have to leave his *life* behind. Even death is better than this.
 
 <br>
 
 #### Act 2
 
-The pain is still there when he slowly hauls himself up from the carpet. It's still there when he tries to press his forehead on the cool surface of the wall. It's not only a headache, or a broken nose, or a tight chest, it's everywhere. It's like a iron net binding his whole being, burning and grilling. It's like his blood is made of lava, boiling and simmering. And every time he thinks of how much he wants to take back the control, to cast Castiel out, or how wrong everything he witnessed the angel had done, the pain grows stronger, as if there is an invisible meter somewhere built in his head, measuring how disobedient he is to the angel. The farther away his thought drifts, the stronger the pain is. An obedience meter.
+The pain is still there when he slowly hauls himself up from the carpet. It's still there when he tries to press his forehead on the cool surface of the wall. It's not only a headache, or a broken nose, or a tight chest; it's everywhere. It's like an iron net binding his whole being, burning and grilling. It's like his blood is made of lava, boiling and simmering. And every time he thinks of how much he wants to take back the control, to cast Castiel out, or how wrong everything he witnessed the angel had done, the pain grows stronger, as if there is an invisible meter somewhere built in his head, measuring how disobedient he is to the angel. The farther away his thought drifts, the stronger the pain is. An obedience meter.
 
 Given everything he has seen the ruthless angel has done, it's not like Castiel wouldn't come up with some mechanism like this, just to make him obey quietly.
 
-Jimmy presses the heels of his hands on his eyes, trying vainly to relieve some of the pain around there, trying hard to focus on the most important thought he manages to form. It doesn't matter, Castiel can torture him all he wants, Jimmy decides, He's done being the angel's vessel. He just wants to see his wife and daughter again. Even if it's just one last time. He's done.
+Jimmy presses the heels of his hands on his eyes, trying vainly to relieve some of the pain around there, trying hard to focus on the most important thought he manages to form. It doesn't matter, Castiel can torture him all he wants, Jimmy decides. He's done being the angel's vessel. He just wants to see his wife and daughter again. Even if it's just one last time. He's done.
 
-For the first time, he tries the doors in this living room that his mind conjured and reproduced from the memory. Just as expected, all those doors leading to the other bedrooms are completely unmovable. The door knobs do not give, as if they are a part of the wall.
+For the first time, he tries the doors in this living room that his mind conjures and reproduces from memory. Just as expected, all those doors leading to the other bedrooms are completely unmovable. The door knobs do not give, as if they are a part of the wall.
 
-Some of the cabinet doors do open, though. And he finds a kitchen knife. Not like he can use the knife against the angel, but at least it's something. Jimmy grabs the knife, and almost like muscle memory, he holds it in the same way he saw Castiel holds the angel blade. He looks down and sees his hand, as if seeing it for the first time, as if seeing through the TV screen, reminding him how much he is like that angel -- how they are exactly the same body all this time. A nauseous push rises in his throat.
+Some of the cabinet doors do open, though. And he finds a kitchen knife. Not like he can use the knife against the angel, but at least it's something. Jimmy grabs the knife, and almost like muscle memory, he holds it in the same way he saw Castiel hold the angel blade. He looks down and sees his hand, as if seeing it for the first time, as if seeing through the TV screen, reminding him how much he is like that angel -- how they are exactly the same body all this time. A nauseous push rises in his throat.
 
 Jimmy hastily lowers his hand, keeping it out of his view.
 
 The only door left is the door in and out of the house. The door Castiel barged in last time.
 
-Jimmy approaches it more cautiously than the other doors. It doesn't look too different from the house door in his memory, but if he looks at the edge of the door just in a specific angle, he can almost see a faint glow of light.
+Jimmy approaches it more cautiously than the other doors. It doesn't look too different from the house door in his memory, but if he looks at the edge of the door just at a specific angle, he can almost see a faint glow of light.
 
-He tries the door knob. It turns under his grip, but the door doesn't open. He puts more force onto it, pressing both arms around it, then the weight of his upper body.
+He tries the doorknob. It turns under his grip, but the door doesn't open. He puts more force onto it, pressing both arms around it, then the weight of his upper body.
 
 "What are you doing?" Castiel's voice comes through the radio.
 
@@ -791,15 +791,15 @@ Jimmy lowers his head, not answering.
 
 He goes back to try the door when the radio goes quiet.
 
-*So what, Castiel knows, it doesn't change anything.* Jimmy thinks, as he leans his whole upper body on the door knob, trying to pull it open. The door is as solid and stead as the giant Goliath.
+*So what, Castiel knows, it doesn't change anything.* Jimmy thinks, as he leans his whole upper body on the doorknob, trying to pull it open. The door is as solid and steady as the giant Goliath.
 
 *In fact, not having to worry about being found out has its perks, too. Meaning he doesn't have to worry about the noises he'll make.* The thought pops into Jimmy's head, and he scrutinizes the door again. Maybe if he can't open it the normal, civilized way, he can still manage to break it? It's an imaginary door in his head, after all.
 
 Jimmy finds a crowbar at the fireplace, and starts smashing the door.
 
-It isn't easy, especially with his muscles and nerves aching all the time like burning spites are piercing through him, slicing him open all different ways, scrambling his insides, but he doesn't stop. Once, twice, three times... After a while, he finds the rhythm. He yells when his arms are exhausted to raise the crowbar high, and yells again to smash it onto the door.
+It isn't easy, especially with his muscles and nerves aching all the time like burning spites are piercing through him, slicing him open in all different ways, scrambling his insides, but he doesn't stop. Once, twice, three times... After a while, he finds the rhythm. He yells when his arms are exhausted to raise the crowbar high, and yells again to smash it onto the door.
 
-The door shows a shallow dent on the paint.
+The door shows a shallow dent in the paint.
 
 Jimmy considers it a small victory, and continues with it.
 
@@ -807,11 +807,11 @@ It takes time. And all he has is endless time that he loses count of.
 
 How long ago was it that he woke up on the bed in his real house, next to his wife? How long ago did he walk out of his front yard and never look back? Days? Weeks? Or is it years?
 
-Jimmy thinks about Amelia when he smashes the door; he thinks about Claire when all his body and mind is screaming for him to take a break and stop the fruitless trying, but he struggles to do it just one more time. And then another.
+Jimmy thinks about Amelia when he smashes the door; he thinks about Claire when all his body and mind are screaming for him to take a break and stop the fruitless trying, but he struggles to do it just one more time. And then another.
 
 Hope sprouts at the deepest of his heart. And Jimmy devours it.
 
-He practices taking over control of his body, too, whenever he gets a chance. The pain on his nerves grows worse the more he tries, as if riving his whole existence apart, tearing his limbs from his body, smashing his internal organs like he's thrown into a blender. Sometimes he finds himself wake up in blood and sweat on the floor with no memory of when or how he must have passed out again. It doesn't matter, either. Only one thing matters.
+He practices taking over control of his body, too, whenever he gets a chance. The pain in his nerves grows worse the more he tries, as if riving his whole existence apart, tearing his limbs from his body, smashing his internal organs like he's thrown into a blender. Sometimes he finds himself waking up in blood and sweat on the floor with no memory of when or how he must have passed out again. It doesn't matter, either. Only one thing matters.
 
 As long as he can slow the angel down for a blink of an eye, it might give someone else a chance to get away, to self-defense, or even better, to strike back.
 
@@ -819,41 +819,41 @@ Castiel is not always the one left standing or winning.
 
 And it gives Jimmy comfort -- even if it means more physical sensation passing through his nerves when the angel's grace is at his weakest.
 
-There was a red-haired girl, once. Thin and slender. Castiel called her Anna, and from his tone, they might know each other before, Jimmy didn't know for sure. She looked like a human to him, but Jimmy didn't know that for sure, either.
+There was a red-haired girl, once. Thin and slender. Castiel called her Anna, and from his tone, they might have known each other before. Jimmy didn't know for sure. She looked like a human to him, but Jimmy didn't know that for sure, either.
 
 And as usual, Castiel was there to kill her, along with his troop of angels. Anna had a small silvery blade of her own, but there was no way she could outmatch all those other angels alone.
 
 Jimmy wanted to help. He managed to make Castiel slow down for a beat in his attacking strike, and Anna dodged the attack just barely in time and sliced Castiel's forearm. Jimmy felt the burning sensation of the new open wound at the same time Castiel yelled in fury. He tried it again.
 
-He slowed Castiel down for another second, his steps stumbling for a step, and that's the exact second of breathing time that Anna needed. She pressed her palm in the center of a bloody sigil and send Castiel away. Jimmy saw a small victory grin on the girl's face before the sudden blasting wave hit him. He knew then, with a relief, that Anna would be safe, at least for now, and he did his part.
+He slowed Castiel down for another second, his steps stumbling for a step, and that's the exact second of breathing time that Anna needed. She pressed her palm in the center of a bloody sigil and sent Castiel away. Jimmy saw a small victory grin on the girl's face before the sudden blasting wave hit him. He knew then, with a relief, that Anna would be safe, at least for now, and he did his part.
 
-The whole living room was flapped upside-down when the blast happened, with Jimmy being thrown to the ceiling and all walls violently. He thought surely this time the collision would break his mind-conjured body completely, but when the quake stopped, all he could sense was the dull throbbing pain that almost already became a background noise that his brain was learning to ignore.
+The whole living room was flipped upside-down when the blast happened, with Jimmy being thrown to the ceiling and all the walls violently. He thought surely this time the collision would break his mind-conjured body completely, but when the quake stopped, all he could sense was the dull throbbing pain that almost already become a background noise that his brain was learning to ignore.
 
-Castiel, on the other hand, lied in the middle of a road in Australia like a roadkill. He had to pant and breathe heavily for many minutes before he could slowly scrape himself off the asphalt. When he looked down, Jimmy saw a long slice of wound on his lower stomach with blinding white-blue light bleeding out from there. A heavy and wet sensation passed on from behind his back, rooting in his shoulder blades. It took Jimmy long minutes to realize that must be from the angel's wings. He couldn't really see, but he could feel them wounded and in pain, just like the rest of the body.
+Castiel, on the other hand, lay in the middle of a road in Australia like roadkill. He had to pant and breathe heavily for many minutes before he could slowly scrape himself off the asphalt. When he looked down, Jimmy saw a long slice of wound on his lower stomach with blinding white-blue light bleeding out from there. A heavy and wet sensation passed on from behind his back, rooting in his shoulder blades. It took Jimmy long minutes to realize that it must be from the angel's wings. He couldn't really see, but he could feel them wounded and in pain, just like the rest of the body.
 
 Castiel rested in the angel base camp for a long while after that mission.
 
-Jimmy received the worst beaten up right after Castiel gathered his pearls. But he considered it was worth it.
+Jimmy received the worst beaten-up right after Castiel gathered his pearls. But he considered it was worth it.
 
-He thinks about that Anna girl, too, now, when he continues working on that freaking door, thinking about how many more he can save once he gets free and casts Castiel out. He thinks about that Daniel boy and all the others who he had to witness Castiel kill with his hands. Jimmy let the pain and anger burn through his body and mind at the same time, yelling through clenched teeth, and throwing all the force he can manage to smash the door.
+He thinks about that Anna girl, too, now, when he continues working on that freaking door, thinking about how many more he can save once he gets free and casts Castiel out. He thinks about that Daniel boy and all the others whom he had to witness Castiel kill with his hands. Jimmy let the pain and anger burn through his body and mind at the same time, yelling through clenched teeth, and throwing all the force he can manage to smash the door.
 
-The small dent on the metal door has turned into a huge hollow in the middle of the door. The whole doorframe distorts to barely hold the door together. Joy rushes through him like a prisoner counting the days to leave the cell. Jimmy thinks it's close -- to freedom, to his old life if it's still possible, to his wife and daughter, to everything and everyone he loves and cares -- so he works harder.
+The small dent in the metal door has turned into a huge hollow in the middle of the door. The whole doorframe distorts to barely hold the door together. Joy rushes through him like a prisoner counting the days to leave the cell. Jimmy thinks it's close -- to freedom, to his old life if it's still possible, to his wife and daughter, to everything and everyone he loves and cares about -- so he works harder.
 
 <br>
 
 #### Act 3
 
-Jimmy tries it again when Castiel and his army runs into a group of human led by a grumpy old man. The angels are scouting the area, and by the look of it, those humans are doing the same, highly trained and organized, spreading out in the woods, searching for something in the same area. The trees around them only have bare trunks and branches, dead bodies scattering on the leaves-paved ground, torn and broken, looking nothing short of a battlefield after an utterly horrifying war.
+Jimmy tries it again when Castiel and his army run into a group of humans led by a grumpy old man. The angels are scouting the area, and by the look of it, those humans are doing the same, highly trained and organized, spreading out in the woods, searching for something in the same area. The trees around them only have bare trunks and branches, dead bodies scattered on the leaves-paved ground, torn and broken, looking nothing short of a battlefield after an utterly horrifying war.
 
 Jimmy can't tell if those bodies belong to humans, angels, or monsters. Or maybe all of them.
 
-The leading man looks of age and experienced with enough wars. The messy beard and hood cover most of his face, but he has a pair of eagle-sharp hazel-blue eyes that Jimmy thinks they look vaguely familiar. He digs into his unreliable memory, trying to remember where he has seen the man, but his patchy memory gives futile result.
+The leading man looks of age and experienced with enough wars. The messy beard and hood cover most of his face, but he has a pair of eagle-sharp hazel-blue eyes that Jimmy thinks look vaguely familiar. He digs into his unreliable memory, trying to remember where he has seen the man, but his patchy memory gives a futile result.
 
 All the men have guns and rifles in their hands, fingers resting on the triggers, walking in an alerted stance that looks like professional hunters in a traditional hunting season. If it's in a different world, Jimmy would think they might just be hunting deer or beers. But not in this world. They're examining the scattered bodies on the ground, sweeping through the land, pushing forward slowly but steadily.
 
-Castiel and his soldiers run into them at the outskirt of the woods, facing the human hunters head-on.
+Castiel and his soldiers run into them at the outskirts of the woods, facing the human hunters head-on.
 
-The old man raises an arm and the rest of the humans halt in their positions, guns holding up before their chest, ready to fire. Their eyes are sharp and steady, no one tries to move away from the scene.
+The old man raises an arm and the rest of the humans halt in their positions, guns held up before their chests, ready to fire. Their eyes are sharp and steady; no one tries to move away from the scene.
 
 Jimmy watches them through the TV screen, worrying for them. "What are you doing? Run! He'll kill you," he murmurs quietly, praying for them.
 
@@ -863,21 +863,21 @@ Castiel lets out a short snort in agreement. "On my command," he says, raising h
 
 Jimmy grasps the TV frame, focusing desperately on that hand, thinking hard about the movements of his muscles and nerves on that arm and those fingers, willing his fingers to relax and loosen the gesture.
 
-"Fire!" the old man commands calmly before any angel snap a finger.
+"Fire!" the old man commands calmly before any angel snaps a finger.
 
-Gunshots ring out, followed closely by sharp shrieking sound of angels' screaming and grace burning. Castiel turns sharply to glance at the angels around him. Jimmy sees the bodies behind them drop dead onto the ground, golden light incinerating through their vessels, torching them thoroughly. Shadows of their wings get burned into the ground, mixed into the piles of leaves and ashes.
+Gunshots ring out, followed closely by sharp shrieking sounds of angels' screaming and grace burning. Castiel turns sharply to glance at the angels around him. Jimmy sees the bodies behind them drop dead onto the ground, golden light incinerating through their vessels, torching them thoroughly. Shadows of their wings get burned into the ground, mixed into the piles of leaves and ashes.
 
-"Easy, Angel. Now, call off your soldiers and hands up slowly," the old man is directly talking to Castiel now. His rifle and at least a dozen more point steadily in the direction of Castiel's chest and head. "You see what our bullets can do. I have a few questions for you."
+"Easy, Angel. Now, call off your soldiers and hand up slowly," the old man is directly talking to Castiel now. His rifle and at least a dozen more point steadily in the direction of Castiel's chest and head. "You see what our bullets can do. I have a few questions for you."
 
-Castiel doesn't move his fingers, and Jimmy can feel the muscle in his hands trembling in conflicting wills. He leans on the TV screen and clenches his teeth so hard that he's afraid he might break his imagined teeth. The pain in his nerves grow harsher and hotter by each second. Jimmy prays the humans can just get away quickly, he doesn't know how long he can fight against Castiel.
+Castiel doesn't move his fingers, and Jimmy can feel the muscle in his hands trembling in conflicting wills. He leans on the TV screen and clenches his teeth so hard that he's afraid he might break his imagined teeth. The pain in his nerves grows harsher and hotter with each second. Jimmy prays that the humans can just get away quickly; he doesn't know how long he can fight against Castiel.
 
 "How did you do that?" Castiel snaps through his teeth, voice strained.
 
-"Melted angel blades," the old man answers concisely. "As soon as your flying ass-clowns start bombarding our land, we have to investigate in the new weapon. Called survival." He tilts his head to nod at his rifle.
+"Melted angel blades," the old man answers concisely. "As soon as your flying ass-clowns start bombarding our land, we have to investigate the new weapon. Called survival." He tilts his head to nod at his rifle.
 
-Castiel eyes the rifle. "I can kill you faster than the bullet," he says threateningly. But his fingers are not cooperating, the whole arm shaking like it's going through seizure on its own.
+Castiel eyes the rifle. "I can kill you faster than the bullet," he says threateningly. But his fingers are not cooperating, the whole arm shaking like it's going through a seizure on its own.
 
-"You sure about that?" the old man glances at his hand, raising the rifle higher, pointing at his face. "Is that the hand you used to kill so many humans? Are you the one killed my son?!" He takes a step forward.
+"You sure about that?" The old man glances at his hand, raising the rifle higher, pointing at his face. "Is that the hand you used to kill so many humans? Are you the one killed my son?!" He takes a step forward.
 
 A man standing two steps behind him calls out. "Bobby, careful!"
 
@@ -885,9 +885,9 @@ Castiel gives up on the snapping, lowers his hand, and slips his angel blade int
 
 "You have to be more specific," Castiel answers coldly, marching a step closer. "They all look the same to me. I don't keep a record."
 
-"My son, Daniel," Bobby glares at him, not moving an inch, gritting his teeth so hard like he wants nothing more than chewing the angel's head off. Hatred and resentment fire out from his eyes. "My source described the angel who took him. The coat, the whole outfit -- that's you. It took me forever to find you, and God help me, I've waited too long for this."
+"My son, Daniel," Bobby glares at him, not moving an inch, gritting his teeth so hard that as if he wants nothing more than to chew the angel's head off. Hatred and resentment fire out from his eyes. "My source described the angel who took him. The coat, the whole outfit -- that's you. It took me forever to find you, and God help me, I've waited too long for this."
 
-*Daniel.* The name rings a bell and Jimmy gasps. Now he knows why those hazel-colored eyes look so familiar. They have the same eyes. Except, the last time he saw those eyes on that boy, they were being burnt as the angel killed him. *Oh God, this is his father.*
+*Daniel.* The name rings a bell, and Jimmy gasps. Now he knows why those hazel-colored eyes look so familiar. They have the same eyes. Except, the last time he saw those eyes on that boy, they were being burnt as the angel killed him. *Oh God, this is his father.*
 
 "Ah, that kid." Castiel is dangerously close to Bobby now. He swings his blade at the old man, aiming for his chest. "He refused to cooperate and worked with a demon. I burned him."
 
@@ -895,7 +895,7 @@ Bobby clicks the trigger without blinking.
 
 Jimmy feels an explosion of burning sensation pushes right into his left eye sockets, burying into his head, scrambling his brain, and shooting out through his scalp. The explosion burns through his head, heating up his whole body, like every inch of his flesh and blood is on fire. He screams in the unbearable pain, thinking he's definitely going to die this time. The bullet has killed all those other angels, after all.
 
-An even louder and higher pitched scream comes out of Castiel's mouth, through angel's true voice. The angel holds a hand to press on his eyes, and the view from the TV screen turns dark. The whole imagined room shakes violently like it's crumbling down in the worst earthquake. The walls break down, bricks and pieces falling; metals on the doorframe screech in distortion, bending outward quickly, cracking along the smashed hollow part. The ceiling is crashing down, and the whole room is falling apart.
+An even louder and higher-pitched scream comes out of Castiel's mouth, through the angel's true voice. The angel holds a hand to press on his eyes, and the view from the TV screen turns dark. The whole imagined room shakes violently like it's crumbling down in the worst earthquake. The walls break down, bricks and pieces falling; metals on the doorframe screech in distortion, bending outward quickly, cracking along the smashed hollow part. The ceiling is crashing down, and the whole room is falling apart.
 
 Even with all the pain flaring up in his head from his left eye, Jimmy hauls himself up to rush toward the door. The door crushes when he pushes it one more time, and he steps outside, walking into a sea of blackness.
 
@@ -909,7 +909,7 @@ Bobby answers calmly, "After you."
 
 Jimmy presses the heel of his left hand on his left eye, trying vainly to ease the unprecedented pain there. The black space around him is vast and empty, with no light or anything. He picks a direction and runs.
 
-Voices from his past memory pour out, filling the space. He hears the first time his daughter called him "daddy", he hears the vow he and his wife took during their wedding, he hears the cheering sound of his classmates when they graduated, he hears his parents calling his nickname fondly, that he thought he had forgotten since forever ago. Jimmy follows the voices and the memory of his past, until he finds the light.
+Voices from his past memory pour out, filling the space. He hears the first time his daughter called him "daddy", he hears the vow he and his wife took during their wedding, he hears the cheering sound of his classmates when they graduated, he hears his parents calling his nickname fondly, voices that he thought he had forgotten forever ago. Jimmy follows the voices and the memory of his past, until he finds the light.
 
 He doesn't really understand that small beam of light when he reaches it. The angel and the old man are still cursing at each other, exchanging words that he stopped paying attention to listen.
 
@@ -917,7 +917,7 @@ The light is grey-white, looking like the color of the outside sky on a good day
 
 Jimmy closes his eyes, and reaches out a hand to touch it. The light surges and extends around him like a blanket wrapping him inside, covering all the blackness around and behind him.
 
-Real, fresh air rushes into his chest. Jimmy breathes in large gulps like a drowning man finally reaches the surface.
+Real, fresh air rushes into his chest. Jimmy breathes in large gulps like a drowning man finally reaching the surface.
 
 He finds himself kneeling on the ground in the woods, hands behind his back.
 
@@ -927,7 +927,7 @@ He also realizes he can only see through his right eye, and the whole view is un
 
 Bobby shakes his barrel, waving at his good eye to catch his attention. "You listening to me, Angel? You want to take another bullet or what? We don't have all day."
 
-"Not angel," Jimmy croaks slowly, feeling his throat as husky and dry as sandpapers. He can taste rusty metal smell of blood on his tongue.
+"Not angel," Jimmy croaks slowly, feeling his throat as husky and dry as sandpaper. He can taste the rusty metal smell of blood on his tongue.
 
 "What are you talking about?" Bobby demands harshly.
 
@@ -937,13 +937,13 @@ Bobby shakes his barrel, waving at his good eye to catch his attention. "You lis
 
 Bobby lowers his rifles slightly, too. But his tone is still harsh. "Where the hell is the angel? I still need him to answer the questions."
 
-"He's still in me, I can feel him." Jimmy struggles, shifting slightly in his kneeling position, feeling the pain on his nerves rushing back to his body. The waves of heat burn through his veins, centering back around his left eye. He can still feel Castiel's grace rushing inside him like a power surge, like a beast looking for a way out, pounding on the wall of the cell. The angel is outrageous for being locked inside. "I don't know how long I can hold him. I have to cast him out. I'm sorry."
+"He's still in me, I can feel him." Jimmy struggles, shifting slightly in his kneeling position, feeling the pain in his nerves rushing back to his body. The waves of heat burn through his veins, centering back around his left eye. He can still feel Castiel's grace rushing inside him like a power surge, like a beast looking for a way out, pounding on the wall of the cell. The angel is outrageous for being locked inside. "I don't know how long I can hold him. I have to cast him out. I'm sorry."
 
 "No, you can't --" Bobby starts.
 
 The man next to him puts a hand on his shoulder. "Bobby, let him. Look at the poor guy. He's toasted. He's innocent."
 
-Bobby shoots him a grudging look. "Rufus, we spent months tracking them down. There ain't no another chance. We get nothing but a name, 'Castiel'. I have to revenge Daniel. You know I have to."
+Bobby shoots him a grudging look. "Rufus, we spent months tracking them down. There ain't no other chance. We get nothing but a name, 'Castiel'. I have to revenge for Daniel. You know I have to."
 
 "We'll find him again," Rufus squeezes his shoulder. "I promise. We'll give Daniel justice."
 
@@ -951,11 +951,11 @@ Bobby closes his eyes painfully, tucks the rifle under his arm, and finally give
 
 Rufus turns to Jimmy and nods to him. "Whatever you need to do, lad, do it."
 
-Jimmy doesn't really know how to cast the angel out. He thinks about the day Castiel came to him from the sky, the light looming him. The day he thought was his reward, but only turned into the worst nightmare. The day when Castiel asked if he'd say "yes."
+Jimmy doesn't really know how to cast the angel out. He thinks about the day Castiel came to him from the sky, the light looming over him. The day he thought was his reward, but only turned into the worst nightmare. The day when Castiel asked if he'd say "yes."
 
 Jimmy looks up at the bleak sky, thinking, *I'm taking back my consent, Castiel. I'm saying No. Get out of my body, now!*
 
-Castiel yells with rage inside him. Grace and the angelic power slides through his veins, boiling its way through, burning all the veins as they spread, until they reach his head. Jimmy thinks his head might explode, then the light pours out from his mouth and eyes -- even the wounded one. The light forms a thin bluish-white cloud, flying skyward. The air cracks around them with electricity.
+Castiel yells with rage inside him. Grace and the angelic power slide through his veins, boiling their way through, burning all the veins as they spread, until they reach his head. Jimmy thinks his head might explode, then the light pours out from his mouth and eyes -- even the wounded one. The light forms a thin bluish-white cloud, flying skyward. The air cracks around them with electricity.
 
 And then it finishes.
 
@@ -965,9 +965,9 @@ Rufus and Bobby both rush forward, each holding an arm for him. But even then, J
 
 Castiel did say it might be death or even worse for him if he left.
 
-"Come on, we gotta go," Bobby urges, glancing around. "We don't know if that son of a bitch would bring more angels back here. It's getting dark. We gotta be back to the camp."
+"Come on, we gotta go," Bobby urges, glancing around. "We don't know if that son of a bitch would bring more angels back here. It's getting dark. We gotta get back to the camp."
 
-"I don't think I can," Jimmy murmurs tiredly, barely keeping his eyes open. His legs refuse to stand, let alone to walk. His knees keep giving way. He thinks Castiel is right, he's already too broken to be of any use.
+"I don't think I can," Jimmy murmurs tiredly, barely keeping his eyes open. His legs refuse to stand, let alone to walk. His knees keep giving way. He thinks Castiel is right; he's already too broken to be of any use.
 
 "You should go. Leave me. Don't let me slow you down," Jimmy tells them feebly. "You already saved me. Thank you. I'm sorry I can't pay you back."
 
@@ -2057,7 +2057,6 @@ It's just not in the right order.
 
 <hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
 <br>
-
 *When the thousand years are over, Satan will be released from his prison and will go out to deceive the nations in the four corners of the earth -- Gog and Magog -- and to gather them for battle. In number they are like the sand on the seashore. They marched across the breadth of the earth and surrounded the camp of God's people, the city he loves. But fire came down from heaven and devoured them. And the devil, who deceived them, was thrown into the lake of burning sulfur, where the beast and the false prophet had been thrown. They will be tormented day and night for ever and ever.*
 
 *Then I saw a great white throne and him who was seated on it. The earth and the heavens fled from his presence, and there was no place for them. And I saw the dead, great and small, standing before the throne, and books were opened. Another book was opened, which is the book of life. The dead were judged according to what they had done as recorded in the books. The sea gave up the dead that were in it, and death and Hades gave up the dead that were in them, and each person was judged according to what they had done. Then death and Hades were thrown into the lake of fire. The lake of fire is the second death. Anyone whose name was not found written in the book of life was thrown into the lake of fire.*
