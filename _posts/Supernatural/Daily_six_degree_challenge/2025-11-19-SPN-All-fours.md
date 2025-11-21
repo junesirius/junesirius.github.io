@@ -12,7 +12,7 @@ long_novels: 【Destiel】Daily Six-Degree Challenge
 
 **Meaning:**
 
-n. ① the two legs and two arms of a person when used to support the body; ② any of various card games in which points are scored for the high trump, low trump, jack of trumps, and game (*from Merriam-Webster dictionary*)
+n. ① the two legs and two arms of a person when used to support the body; ② any of various card games in which points are scored for the high trump, low trump, jack of trumps, and game (*from Merriam-Webster Dictionary*)
 
 a traditional English card game, once popular in pubs and taverns as well as among the gentry, that flourished as a gambling game until the end of the 19th century (*from Wikipedia*)
 

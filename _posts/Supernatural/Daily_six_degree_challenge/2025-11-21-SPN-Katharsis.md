@@ -12,9 +12,9 @@ long_novels: 【Destiel】Daily Six-Degree Challenge
 
 **Meaning:**
 
-n. (or *catharsis*) ① *a*: purification or purgation of the emotions (such as pity and fear) primarily through art; *b*: a purification or purgation that brings about spiritual renewal or release from tension; ② elimination of a complex by bringing it to consciousness and affording it expression (*from Merriam-Webster dictionary*)
+n. (or *catharsis*) ① *a*: purification or purgation of the emotions (such as pity and fear) primarily through art; *b*: a purification or purgation that brings about spiritual renewal or release from tension; ② elimination of a complex by bringing it to consciousness and affording it expression (*from Merriam-Webster Dictionary*)
 
-Katharsis (or *Catharsis*) is getting rid of unhappy memories or strong emotions such as anger or sadness by expressing them in some way (*from Collins dictionary*)
+Katharsis (or *Catharsis*) is getting rid of unhappy memories or strong emotions such as anger or sadness by expressing them in some way (*from Collins Dictionary*)
 
 **Word association:**
 

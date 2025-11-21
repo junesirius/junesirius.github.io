@@ -12,7 +12,7 @@ long_novels: 【Destiel】Daily Six-Degree Challenge
 
 **Meaning:**
 
-n. (or *line of business*) A **line of business** is a general classification of business used by the insurance industry, such as fire, commercial, personal, auto, or residence. (*from Collins dictionary*)
+n. (or *line of business*) A **line of business** is a general classification of business used by the insurance industry, such as fire, commercial, personal, auto, or residence. (*from Collins Dictionary*)
 
 a particular kind of product or merchandise (*from WordNet 3.0 by Princeton University*)
 

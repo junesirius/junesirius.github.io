@@ -12,9 +12,9 @@ long_novels: 【Destiel】Daily Six-Degree Challenge
 
 **Meaning:**
 
-adj. of or relating to a tailor or tailored clothes (*from Merriam-Webster dictionary*; also according to MW, its origin: the word has been in style with English speakers since at least 1823)
+adj. of or relating to a tailor or tailored clothes (*from Merriam-Webster Dictionary*; also according to MW, its origin: the word has been in style with English speakers since at least 1823)
 
-relating to clothes and to the way they are made or worn (*from Collins dictionary*)
+relating to clothes and to the way they are made or worn (*from Collins Dictionary*)
 
 **Word association:**
 

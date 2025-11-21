@@ -12,9 +12,9 @@ long_novels: 【Destiel】Daily Six-Degree Challenge
 
 **Meaning:**
 
-n. a cheese food soft enough to spread (*from Merriam-Webster dictionary*)
+n. a cheese food soft enough to spread (*from Merriam-Webster Dictionary*)
 
-a processed cheese of smooth and spreadable consistency (*from Collins dictionary*)
+a processed cheese of smooth and spreadable consistency (*from Collins Dictionary*)
 
 **Word association:**
 

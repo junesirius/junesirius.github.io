@@ -12,9 +12,9 @@ long_novels: 【Destiel】Daily Six-Degree Challenge
 
 **Meaning:**
 
-n. any of a breed of small terriers of British origin having a harsh dense coat and close undercoat (*from Merriam-Webster dictionary*)
+n. any of a breed of small terriers of British origin having a harsh dense coat and close undercoat (*from Merriam-Webster Dictionary*)
 
-one of a British breed of small terriers having a dense, wiry coat ranging in color from red to pale yellow, sometimes gray and tan, or blue and tan. (*from Collins dictionary*)
+one of a British breed of small terriers having a dense, wiry coat ranging in color from red to pale yellow, sometimes gray and tan, or blue and tan. (*from Collins Dictionary*)
 
 **Word association:**
 

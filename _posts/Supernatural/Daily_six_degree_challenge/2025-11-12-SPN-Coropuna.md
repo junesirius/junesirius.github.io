@@ -14,7 +14,7 @@ long_novels: 【Destiel】Daily Six-Degree Challenge
 
 n. a mountain peak in the Andes in Peru (21,083 feet high) (*from WordNet 3.0 by Princeton University*)
 
-A dormant compound volcano located in the Andes mountains of southeast-central Peru. (*from wikipedia*)
+A dormant compound volcano located in the Andes mountains of southeast-central Peru. (*from Wikipedia*)
 
 **Word association:**
 

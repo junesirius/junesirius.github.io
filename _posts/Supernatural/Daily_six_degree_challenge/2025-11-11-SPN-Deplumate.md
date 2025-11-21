@@ -12,7 +12,7 @@ long_novels: 【Destiel】Daily Six-Degree Challenge
 
 **Meaning:**
 
-adj. (or *deplumated*) destitute of feathers. (*from Merriam-Webster dictionary*)
+adj. (or *deplumated*) destitute of feathers. (*from Merriam-Webster Dictionary*)
 
 In ornithology, bare or stripped of feathers; denudated (*from The Century Dictionary*)
 
