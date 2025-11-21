@@ -134,6 +134,6 @@ Dean rests his chin on Cas's shoulder, his breath easing down.
 
 "What?" Cas pulls back slightly, checking him up.
 
-Dean lets out a teary chuckle. "Sloping-flat, that makes it *slat*. Or do you like floping better?"
+Dean lets out a teary chuckle. "Sloping-flat, that makes it *slat*. Or do you like *floping* better?"
 
 Cas chuckles with him. "Whichever you like."
