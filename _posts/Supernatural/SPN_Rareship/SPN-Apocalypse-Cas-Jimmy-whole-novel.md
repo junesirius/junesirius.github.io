@@ -249,6 +249,8 @@ When posting: Posting all chaps together in one AO3 chapter; split/separation li
 
 Because it's Apocalypse!Castiel, always uses "Castiel" instead of "Cas" in the whole story (except for near ending Chap 7 when it's canon Cas, but maybe also use "Castiel" because Jimmy doesn't bond with him, and canon!Jimmy isn't there). Search all text to check and make sure, in case of miss-typing)
 
+Chap 6 or 7, before Jimmy/Castiel's death: maybe add the scene with Castiel torturing Charlie, Jimmy remembers Charlie and but still has to watch Castiel torture her without able to do anything, Charlie recognizes him too
+
 ## Main
 
 (Jimmy POV all the time)
@@ -1641,21 +1643,21 @@ The dim room falls silent, and soon, colder. The night must have fallen. But thr
 
 Jimmy stares at the window's direction, holding himself tighter, mind drifting.
 
-He doesn't hear monster's hauling or human's yelling outside the window, nor does angel's wings fluttering, or sound of gun fire. This must be far outside the war zone, or the war might have already swept all the life from the town and left.
+He doesn't hear monsters' hauling or humans' yelling outside the window, nor does angel's wings fluttering, or the sound of gunfire. This must be far outside the war zone, or the war might have already swept all the life from the town and left.
 
-He wonders where he is, this room, this city, where Castiel took him. He wonders how many angels might be out there, outside. Or maybe this is Castiel's own place, his secret base, with no other angel, just the two of them. Maybe, when the angel told him to "rest," he really means it this time, he's letting him go. Maybe, in the smallest corner of that angel's mind, he still cares, even just a little bit. Maybe, that's why he saved Claire and healed her.
+He wonders where he is, this room, this city, where Castiel took him. He wonders how many angels might be out there, outside. Or maybe this is Castiel's own place, his secret base, with no other angel, just the two of them. Maybe, when the angel told him to "rest," he really meant it this time; he's letting him go. Maybe, in the smallest corner of that angel's mind, he still cares, even just a little bit. Maybe, that's why he saved Claire and healed her.
 
-*No. He's not that kind.* Jimmy presses the heels of his hands on his eye sockets, stopping the hope from sprouting. He can't do this again. He's already known Castiel is not the caring angel he imagined him to be, he's just another coldblooded soldier, like the rest of them, maybe even more so.
+*No. He's not that kind.* Jimmy presses the heels of his hands on his eye sockets, stopping the hope from sprouting. He can't do this again. He already knew that Castiel was not the caring angel he imagined him to be; he's just another cold-blooded soldier, like the rest of them, maybe even more so.
 
-*He's a monster.* Jimmy says to himself in his mind. *He beat you up, locked up inside your body, he killed innocent people.*
+*He's a monster.* Jimmy says to himself in his mind. *He beat you up, locked you up inside your body; he killed innocent people, and he'll kill more.*
 
-He's not about to forget and forgive just like a saint. The Book has taught him to be thankful and forgiving all his life, and he tried to do follow the doctrines all his life, but that doesn't seem to do him any good. See where he is now; see how the world is now.
+He's not about to forget and forgive just like a saint. The Book has taught him to be thankful and forgiving all his life, and he tried to follow the doctrines all his life, but that doesn't seem to do him any good. See where he is now; see how the world is now.
 
-Jimmy sees his own face in the darkness before his closed eyelids, with glowing white-blue eyes. It's like looking at a mirror, except, the figure in the mirror doesn't follow his moves. It makes the hairs behind his neck standing.
+Jimmy sees his own face in the darkness before his closed eyelids, with glowing white-blue eyes. It's like looking at a mirror, except, the figure in the mirror doesn't follow his moves. It makes the hairs behind his neck stand.
 
 *But he saved you from those other angels. He brought you out before that camp exploded. Maybe he heard your prayer and came to you.* A small voice says in his head.
 
-*Only because he wants to torture me personally! Like he owns me!* Jimmy yells at the voice, pressing his eyes so hard that he starts to see small stars in the dark view. But the angel's face doesn't disappear from the pressure.
+*Only because he wants to torture me personally! Like he owns me!* Jimmy yells at the voice, pressing his eyes so hard that he starts to see small stars in the dark view. But the angel's face doesn't disappear under the pressure.
 
 *Maybe he just doesn't know what is good, and how to do that.* The voice says, sounding suspiciously like his daughter.
 
@@ -1675,25 +1677,25 @@ The stale air doesn't answer.
 
 *It's the way you were born, and it's the way you'll die.* The phantom of Castiel says, morphing into his own face.
 
-*You want to know what's your life's meaning? This is.* His own image speaks to him. *Be his vessel. Stop fighting and be a good vessel. That's all the meaning and purpose of your life.*
+*You want to know what your life's meaning is? This is.* His own image speaks to him. *Be his vessel. Stop fighting and be a good vessel. That's all the meaning and purpose of your life.*
 
 Jimmy's shoulders sag. He lets out a long, shaky breath.
 
-His nerve has never stopped aching since the day Castiel entered him. He thought it would stop when Castiel left him, but no, the pain never goes away. So maybe, maybe the pain will stop when the angel comes back inside him and he finally accepts him. Accept the fate, accept the reality, accept the angel as he is. Even as he kills, tortures, breaks his heart, does the worst things, let him be.
+His nerve has never stopped aching since the day Castiel entered him. He thought it would stop when Castiel left him, but no, the pain never goes away. So maybe, maybe the pain will stop when the angel comes back inside him, and he finally accepts him. Accept the fate, accept the reality, accept the angel as he is. Even as he kills, tortures, breaks his heart, does the worst things, let him be.
 
 And maybe, when the Apocalypse finishes, when the angels finally win the war, this all will end, the promised peace and new life will come back to Earth, and he will get his reward.
 
 Jimmy loosens his arms, unfolding his legs, leaning back on the remaining wood pieces of the headboard, closing his eyes. He murmurs, starts reciting:
 
-"*Then the angel showed me the river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb down the middle of the great street of the city. On each side of the river stood the tree of life, bearing twelve crops of fruit, yielding its fruit every month. And the leaves of the tree are for the healing of the nations. No long will there be any curse. The throne of God and of the Lamb will be in the city, and his servants will serve him. They will see his face, and his name will be on their foreheads. There will be no more night. They will not need the light of a lamp or the light of the sun, for the Lord God will give them light. And they will reign for ever and ever.*"
+"*Then the angel showed me the river of the water of life, as clear as crystal, flowing from the throne of God and of the Lamb down the middle of the great street of the city. On each side of the river stood the tree of life, bearing twelve crops of fruit, yielding its fruit every month. And the leaves of the tree are for the healing of the nations. No longer will there be any curse. The throne of God and of the Lamb will be in the city, and his servants will serve him. They will see his face, and his name will be on their foreheads. There will be no more night. They will not need the light of a lamp or the light of the sun, for the Lord God will give them light. And they will reign for ever and ever.*"
 
-He takes a slow breath, inhaling to fill his lungs and letting everything in his chest out of his body. He makes his mind's eyes to look at the darkness until he can remember his dream again and see the glorious image of the Holy City before his eyes. He repeats to himself:
+He takes a slow breath, inhaling to fill his lungs and letting everything in his chest out of his body. He makes his mind's eyes look at the darkness until he can remember his dream again and see the glorious image of the Holy City before his eyes. He repeats to himself:
 
 "*No longer will there be any curse. There will be no more night.*"
 
 His breath calms down gradually. His heart beats steadily.
 
-*Okay, then.* He thinks slowly, decided.
+*Okay, then.* He thinks slowly. Decided.
 
 <br>
 
@@ -1701,7 +1703,7 @@ The night is long and sleepless.
 
 The angel comes back to him in the morning, just as he promised.
 
-"Take me," Jimmy looks at him as he walks closer. He doesn't flinch this time when the angel stands on the side of his bed, only a step away. He looks up at him, staring into those eyes, looking inside. "Take me instead of my daughter. My only last wish is to take my daughter somewhere safe. I won't question you again, I won't fight against you."
+"Take me," Jimmy looks at him as he walks closer. He doesn't flinch this time when the angel stands on the side of his bed, only a step away. He looks up at him, staring into those eyes, looking inside. "Take me instead of my daughter. My last wish is to take my daughter somewhere safe. I won't question you again, I won't fight against you."
 
 He takes a breath. "I'm yours now, Castiel, utterly and completely. Yes."
 
@@ -1709,23 +1711,23 @@ The angel studies him for a beat, not answering.
 
 Jimmy waits. His heart beats fast in his chest.
 
-"If you think this last year was painful for you, whatever comes next, picture a hundred, a thousand times worse than that." Castiel says.
+"If you think this last year was painful for you, whatever comes next, picture a hundred, a thousand times worse than that," Castiel says.
 
-"It doesn't matter. Take me." Jimmy answers, unswayed.
+"It doesn't matter. Take me," Jimmy answers, unswayed.
 
 "Very well." Castiel nods once, closing the distance between them.
 
-When the light and grace pours out of Claire and into his body, Jimmy thinks vaguely, his nerves do stop aching. Because he can't feel anything at all anymore.
+When the light and grace pour out of Claire and into his body, Jimmy thinks vaguely, his nerves do stop aching. Because he can't feel anything at all anymore.
 
-As the surge of energy burns like melting lava through his body, his mind sinks under the water, drowning into the deep, dark space like a sinking shipwreck. Light is snuffed out around his consciousness like candles putting out. He sinks into the bottom of the sea, can't breathe, can't see, can't hear.
+As the surge of energy burns like melting lava through his body, his mind sinks under the water, drowning into the deep, dark space like a sinking shipwreck. Light is snuffed out around his consciousness like candles being put out. He sinks into the bottom of the sea, can't breathe, can't see, can't hear.
 
-Jimmy Novak closes his eyes, falling into deep sleep, in the deepest corner inside his body.
+Jimmy Novak closes his eyes, falling into deep sleep, in the deepest corner inside his body and mind.
 
 <br>
 
 Castiel walks out of the room, leaving the girl inside.
 
-He did what he's asked, and nothing more.
+He did what he was asked, and nothing more.
 
 This hotel that he found during a scouting, located in Rexford, Idaho, is far enough from the hot zone for now -- but it's just a zone the war hasn't spread to yet. It's just a matter of time.
 
@@ -1735,9 +1737,9 @@ But it doesn't matter. Anyone incompetent to live will die, sooner or later.
 
 Everything will end, and everyone will die. Eventually.
 
-Sometimes, not even he knows what his missions are about, what's the meaning of all this. He's just a soldier, following the orders, fighting the war. Having a vessel that finally stops fighting him is just one tiny small thing that makes his tasks easier, so he can't say he's not pleased. He doesn't mind just doing one more thing to let the man's mind settle down, making his soul align better with his grace.
+Sometimes, not even he knows what his missions are about, what the meaning of all this is. He's just a soldier, following orders, fighting the war. Having a vessel that finally stops fighting him is just one tiny small thing that makes his tasks easier, so he can't say he's not pleased. He doesn't mind just doing one more thing to let the man's mind settle down, making his soul align better with his grace.
 
-Castiel lifts a finger, branding a set of protection sigil on the girl's ribs, and adding another layer of protection spell on the room. He walks out of the room before the girl wakes up.
+Castiel lifts a finger, branding a set of protection sigils on the girl's ribs, and adding another layer of protection spell on the room. He walks out of the room before the girl wakes up.
 
 The angel flaps his wings, heading east. They still have an Apocalypse to finish.
 
@@ -1755,21 +1757,21 @@ The angel flaps his wings, heading east. They still have an Apocalypse to finish
 >
 > He passes out from the horrible scene. The blackness followed is like falling. He thinks he sees Castiel's sinking consciousness on his way down. It's the darkness inside his mind, inside both their minds. Angel's mind is pinned by those iron nails, he's like a bird getting shot by the hunters. Falling straight down from the sky, with blood spreading from the wound, the feathers scattering. He barely has much feathers left, they are worn, detorted, hardened, more like blades than plumage.
 
-Jimmy startles awake from the deep sleep a handful of times.
+Jimmy starts awake from the deep sleep a handful of times.
 
-He can't always tell if it's just another nightmare his brain conjured, or he gets dragged back to the surface.
+He can't always tell if it's just another nightmare his brain conjured, or if he gets dragged back to the surface.
 
 He tells them apart from the absurdity and bizarreness of the reality that's beyond his imagination.
 
-Pain and sensations that should have blocked out from the angel's grace passes through the deep sea and reaches his brain, vibrating from the end of his nerves. That's when he knows the angel is in trouble, that's when he wakes up for a brief moment.
+Sometimes, real pain and sensations that should have been blocked out by the angel's grace pass through the deep sea and reach his brain, vibrating from the end of his nerves. That's when he knows the angel is in trouble; that's when he wakes up for a brief moment.
 
 He sees himself in impossible situations, on the battlefield, in the middle of wars.
 
-He watches demons tearing his body apart, biting off his arms and legs; he watches human firing the biggest canon he's ever seen and half his head is blown away in the explosion. The angel lets out a grunt inside him, making a splashing sound as if a human just accidentally steps into a water puddle in a rainy day, displeased about his shoes being wet. He shakes off the water and fixes his body in the next second.
+He watches demons tearing his body apart, biting off his arms and legs; he watches humans firing the biggest cannon he's ever seen, and half his head is blown away in the explosion. The angel lets out a grunt inside him, making a splashing sound as if a human just accidentally steps into a water puddle on a rainy day, displeased about his shoes being wet. He shakes off the water and fixes his body in the next second.
 
 Castiel didn't lie when he said whatever comes next is a thousand times more horrifying.
 
-He'd have been dead for a hundred times if he's just a human, but it seems, now, without fighting against the angel, all those would do is merely tearing their consciousness apart for less than half a second.
+He'd have been dead fa hundred times if he were just a human, but it seems, now, without fighting against the angel, all those would do is merely tearing their consciousness apart for less than half a second.
 
 Jimmy sinks back under the water every time when Castiel finds his footing again.
 
@@ -1781,13 +1783,13 @@ It's Castiel's screaming that wakes Jimmy up. The angel is confined to a metal c
 
 "You should be on my side, Castiel. I haven't thanked you last time," the man says lazily, half turning to them. "For breaking me out, giving me freedom."
 
-It takes Jimmy's foggy mind a while to understand what he said, and then he remembers everything happened in Hell. That was the first mission Castiel did when he came into Jimmy's body.
+It takes Jimmy's foggy mind a while to understand what he said, and then he remembers everything that happened in Hell. That was the first mission Castiel did when he came into Jimmy's body.
 
 It's Lucifer that's talking to them.
 
 Castiel spits at him. "I'm on Heaven's side."
 
-Lucifer waves his hands casually in a disagreeing gesture. The blade shines as he moves his hands, getting dangerously close to Castiel's face for too many times. "Remind me again what's the difference between Heaven and Hell? They all look the same to me now."
+Lucifer waves his hands casually in a disagreeing gesture. The blade shines as he moves his hands, getting dangerously close to Castiel's face too many times. "Remind me again, what's the difference between Heaven and Hell? They all look the same to me now."
 
 "I follow Michael's orders, not yours," Castiel states flatly.
 
@@ -1795,15 +1797,15 @@ Lucifer waves his hands casually in a disagreeing gesture. The blade shines as h
 
 "Never," Castiel answers steadily.
 
-"Your loss," Lucifer says easily, swiveling to behind their back. "I heard you're quite a torturer yourself, that's why Michael likes you so much. Let's see if torturing a torturer works just as good as the torturer tortures a, uh, not-torturer. Hey, you might end up picking up some tricks from me. You're welcome."
+"Your loss," Lucifer says easily, swiveling to behind their back. "I heard you're quite a torturer yourself; that's why Michael likes you so much. Let's see if torturing a torturer works just as well as the torturer tortures a, uh, not-torturer. Hey, you might end up picking up some tricks from me. You're welcome."
 
-An unbearably sharp pain shoots straight from behind their back, from a limb that feels more like a part of the soul than the body. Jimmy and Castiel cries out at the same time, one inside the body, one outside. Lucifer lets out a satisfying laugh from behind them.
+An unbearably sharp pain shoots straight from behind their back, from a limb that feels more like a part of the soul than the body. Jimmy and Castiel cry out at the same time, one inside the body, one outside. Lucifer lets out a satisfying laugh from behind them.
 
 "Isn't that the best music?" he comments, cutting down a second time.
 
 Jimmy sees black feathers falling to the floor at the peripheral of his eyes. Lucifer drags the side of the wing over, bending it forward, cutting it through the bones and feathers.
 
-*Oh God. It's the angel's wings that's been tearing apart.*
+*Oh God. It's the angel's wings that are being torn apart.*
 
 "Castiel! Why don't you fight back?" Jimmy yells inside his body, looking for the angel.
 
@@ -1815,25 +1817,25 @@ Castiel's voice fades away further, as if he's sinking deeper. "It's on you now.
 
 "Castiel! Wait! What should I do?" Jimmy panics. But the angel stops answering.
 
-Lucifer is still tearing their wings apart. "Come on, Cas," the Devil calls him almost sweetly. "Didn't we spend enough time together? How long do you still need for us to bond? I just need a little bit information to find my brother. I have a feeling tonight is the night, you get it? The big night. I think everything can end tonight, and I will win. If you help me, when I win, I promise I'll give you the place by my side, what about that?"
+Lucifer is still tearing their wings apart. "Come on, Cas," the Devil calls him almost sweetly. "Didn't we spend enough time together? How long do you still need for us to bond? I just need a little bit of information to find my brother. I have a feeling tonight is the night, you get it? The big night. I think everything can end tonight, and I will win. If you help me, when I win, I promise I'll give you the place by my side, what about that?"
 
-Jimmy can barely focus on the words Lucifer was saying, with all the shrieking pain passing from inside and outside the body. His consciousness is still slowly floating toward the surface, not clear enough to handle the reality. In the sea of darkness, he sees another shape falling, sinking deeper by every minute; he tries desperately to reach him, swimming toward him.
+Jimmy can barely focus on the words Lucifer was saying, with all the shrieking pain passing from inside and outside the body. His consciousness is still slowly floating toward the surface, not clear enough to handle reality. In the sea of darkness, he sees another shape falling, sinking deeper by every minute; he tries desperately to reach him, swimming toward him.
 
-The angel falls like a bird getting shot by the hunters, falling straight from the sky, blood spreading from the gun wound, feathers scattering. Two wings dangle pitifully behind his back, bones broken at every joint, with not much feathers left. Even the ones that's still hanging on the wing bone, they're distorted, hardened, distained. A bird that can never fly again, now sinking under the water.
+The angel falls like a bird getting shot by the hunters, falling straight from the sky, blood spreading from the gunshot wound, feathers scattering. Two wings dangle pitifully behind his back, bones broken at every joint, with not much feathers left. Even the ones that are still hanging on the wing bone, they're distorted, hardened, distained. A bird that can never fly again, now sinking under the water.
 
-"Come on, Castiel, you have to wake up! It's the Devil outside!" Jimmy's consciousness reaches Castiel's, trying to pull him above the surface like saving a drowning man, pushing his shoulder against the angel's to fight against the downward force. But that metaphorical force inside their head is way stronger than gravity. The angel slips off Jimmy's grasp, just keeps falling, and falling. Too torn and broken to be woken up.
+"Come on, Castiel, you have to wake up! It's the Devil outside!" Jimmy's consciousness reaches Castiel's, trying to pull him above the surface like saving a drowning man, pushing his shoulder against the angel's to fight against the downward force. But that metaphorical force inside their head is way stronger than gravity. The angel slips out of Jimmy's grasp, just keeps falling, and falling. Too torn and broken to be woken up.
 
 Jimmy has to fight his own way to the surface, opening his eyes.
 
-The first thing he can notice is the broken wings and feathers, like the ones he see on the angel's consciousness. He tries to struggle, hoping to break his hands free when the Devil isn't watching. He wonders if this is what Castiel means, it's on him to take the two of us out of there now.
+The first thing he can notice is the broken wings and feathers, like the ones he sees on the angel's consciousness. He tries to struggle, hoping to break his hands free when the Devil isn't watching. He wonders if this is what Castiel means; it's on him to take the two of us out of there now.
 
-"Why are you so quiet now? Say something!" Lucifer shows up to the right of him, reaching a hand to tune something a little above his head. Jimmy can feel a dull drill moves inside his head, poking at his consciousness, disturbing the sea all around him. He thinks, he just feels Castiel's consciousness sinking deeper.
+"Why are you so quiet now? Say something!" Lucifer shows up to the right of him, reaching a hand to tune something a little above his head. Jimmy can feel a dull drill move inside his head, poking at his consciousness, disturbing the sea all around him. He thinks, he just feels Castiel's consciousness sinking deeper.
 
 Jimmy screams in pain -- though it doesn't actually feel as bad as the one on the wings, he screams like it's worse, way worse.
 
 "No," he manages to choke out, making his voice lower than his usual, closer to the angel's.
 
-A smile crawls onto the Devil's face. "There we are, Cas, that's right! You got to participate! It's a team work! What's the fun if you don't scream, am I right?"
+A smile crawls onto the Devil's face. "There we are, Cas, that's right! You've got to participate! It's teamwork! What's the fun if you don't scream, am I right?"
 
 He turns back to continue tearing apart his wings.
 
@@ -1851,9 +1853,9 @@ The Devil drills the one that his fingers are fumbling about deeper.
 
 Jimmy wails in agony. The icy cold pain digs into his head, reaching deep.
 
-"Can't say I'm not impressed," Lucifer watches him, openly amazed. "I've never seen anyone handling all that so well and still doesn't break. You're better than every sickfuck demon I personally trained and that's their only job in Hell! No wonder Michael hired you to do all the dirty work. Come on, what is it you're working on? My brother gotta be planning something big to risk sending *you* to me."
+"Can't say I'm not impressed," Lucifer watches him, openly amazed. "I've never seen anyone handling all that so well and still not break. You're better than every sickfuck demon I personally trained, and that's their only job in Hell! No wonder Michael hired you to do all the dirty work. Come on, what is it you're working on? My brother gotta be planning something big to risk sending *you* to me."
 
-"You're right about that," a deep voice appears suddenly behind Lucifer's back.
+"You're right about that," a deep voice suddenly appears behind Lucifer's back.
 
 The Devil turns sharply. "Michael."
 
@@ -1861,13 +1863,13 @@ Michael stands merely a step away from him, holding a long, spiral, golden blade
 
 Lucifer doesn't have time to react before Michael grabs his shoulder in one hand, and buries the blade into his chest with the other.
 
-"He has one job and he did it brilliantly," Michael says, directly into Lucifer's ear, "-- distraction."
+"He has one job, and he did it brilliantly," Michael says, directly into Lucifer's ear, "-- distraction."
 
-The scalpel in Lucifer's hand drops to the ground, making a clear cracking sound. Followed by a loud sizzling sound of grace burning. Jimmy watches Michael drops the body to the floor, light turning bright in Lucifer's eyes and mouth, burst out in an explosion. The room's floor is stained with giant shapes of burned wings.
+The scalpel in Lucifer's hand drops to the ground, making a clear cracking sound. Followed by a loud sizzling sound of grace burning. Jimmy watches as Michael drops the body to the floor, light turning bright in Lucifer's eyes and mouth, bursting out in an explosion. The room's floor is stained with giant shapes of burned wings.
 
-Jimmy can't help but gasps loudly.
+Jimmy can't help but gasp loudly.
 
-*So this is how it ends. The Devil is cast to the lake of fire and sulfur for the rest of the eternity. This is the second death.*
+*So this is how it ends. The Devil is cast into the lake of fire and sulfur for the rest of eternity. This is the second death.*
 
 Michael glances at him, eyebrows raised a degree. "You're the vessel," he notices, snapping his fingers. The locks around Jimmy's ankles and wrists are loosened.
 
@@ -1879,43 +1881,43 @@ Michael cuts him off. "Castiel in there? I have more work for him."
 
 Jimmy blinks. "Yes, but he's unconscious now..."
 
-Michael snaps his fingers again. The device on his head fall to the floor. The nails are still covered in blood.
+Michael snaps his fingers again. The device on his head falls to the floor. The nails are still covered in blood.
 
-"Michael," Castiel speaks, taking over the body. His voice is only a little shaky. The sea comes back around Jimmy's consciousness, slowly shoving back down.
+"Michael," Castiel speaks, taking over the body. His voice is only a little shaky. The sea comes back around Jimmy's consciousness, slowly shoving him back down.
 
 "Congratulations on the victory, General. What's my new order?" Castiel doesn't seem to notice him at all.
 
-*But -- it supposed to be over now.* Jimmy thinks miserably. *The Apocalypse should have ended now with the Devil gone. Things should start to turn better.*
+*But -- it's supposed to be over now.* Jimmy thinks miserably. *The Apocalypse should have ended now with the Devil gone. Things should start to turn better.*
 
-"It's not over yet," Michael says solemnly, pulling his blade out of Lucifer's chest. "We need to wipe clean all the demons, angels, humans that followed Lucifer. We need to purge the world and kill everything that doesn't obey me. Because I, am the only ruler of this world."
+"It's not over yet," Michael says solemnly, pulling his blade out of Lucifer's chest. "We need to wipe clean all the demons, angels, and humans that followed Lucifer. We need to purge the world and kill everything that doesn't obey me. Because I, am the only ruler of this world."
 
-"Of course, your Highness," Castiel answers smoothly. "I will inform all the garrison leaders to continue the pursuit and searching."
+"Of course, your Highness," Castiel answers smoothly. "I will inform all the garrison leaders to continue the pursuit and search."
 
 He turns to the door's direction, making an effort to flap his wings, but nothing happens. He glances behind his back.
 
-Even Jimmy can see the wings are distorted beyond repair, just like the ones he saw on the manifestation of Castiel's consciousness,  feathers are torn and cut out, the muscles and bones are broken and bent, his real wings are in no condition to fly.
+Even Jimmy can see the wings are distorted beyond repair, just like the ones he saw on the manifestation of Castiel's consciousness; feathers are torn and cut out, the muscles and bones are broken and bent, his real wings are in no condition to fly.
 
 "If I may," Castiel turns to Michael, gesturing behind his back, "I may need some help on healing."
 
-"Do I look like doctor to you?" Michael raises his eyebrows. "My expertise is about how to kill, not how to save."
+"Do I look like a doctor to you?" Michael raises his eyebrows. "My expertise is about how to kill, not how to save."
 
 Castiel nods quietly, taking a step further, moving toward the door. "Understood. I will get a vehicle."
 
-He finds a humvee outside the facility and starts driving.
+He finds a Humvee outside the facility and starts driving.
 
 Jimmy wants to talk to him, but he finds words failing.
 
-There is no point to argue or fight the angel, he has learned his lesson. And Lucifer was right, it really makes no difference if Heaven or Hell wins. No one in the world other than the three of them knows Lucifer is already dead, and the Apocalypse is just going to keep happening.
+There is no point in arguing or fighting the angel; he has learned his lesson. And Lucifer was right, it really makes no difference if Heaven or Hell wins. No one in the world other than the three of them knows Lucifer is already dead, and the Apocalypse is just going to keep happening.
 
 The world is in ruins. And it will never stop until every single one in the world is killed.
 
-There is no Holy City in the end. No New Jerusalem. No peace and paradise. No reward and new world.
+There is no Holy City in the end. No New Jerusalem. No peace and paradise. No reward. No new world.
 
 There is no Heaven left anywhere. No hope for anything turning better. He'll never see his wife and daughter again.
 
 This, is the real, horrifying realization of truth and desperation. The true, absolute hopelessness.
 
-Jimmy lets loose of his hold onto the surface of the sea, letting the water swallow his consciousness. The sea blends the tear falling from his eyes, absorbing the same salt into existence.
+Jimmy lets loose of his hold on the surface of the sea, letting the water swallow his consciousness. The sea blends the tear falling from his eyes, absorbing the same salt into existence.
 
 Jimmy wonders, before he falls into sleep under the water again, if this sea in his mind, is all made of tears.
 
@@ -1947,25 +1949,25 @@ The last time Jimmy wakes up, is when Castiel is dying.
 
 Jimmy doesn't know where they are, but his mind comes clearer as Castiel's getting fainter.
 
-He feels pain, this time, not only on tips of his nerves all over his body, not only in his mind. He feels the burning from the angel's grace. He feels the power and energy boil in his veins, bursting out with heat and burning sensation, incinerating his flesh and skin. The angel's grace is combusting his body, his organs, his eyes, and his brain, torching him from inside.
+He feels pain, this time, not only on the tips of his nerves all over his body, not only in his mind -- he feels the burning from the angel's grace. He feels the power and energy boil in his veins, bursting out with heat and burning sensation, incinerating his flesh and skin. The angel's grace is combusting his body, his organs, his eyes, and his brain, torching him from inside.
 
 He screams in pain like he never did before. And this time, Jimmy thinks, this is finally the eventual death.
 
 Castiel's consciousness is already far away from him. Jimmy struggles to the surface, wanting to breathe the real air for one last time, and there he is, looking into just another face that's exactly the same as his.
 
-He looks at himself -- but another, different him -- another him that is submitted to the angel and now only a hollow shell. Jimmy can feel, just from those blue eyes, there is no second soul in that body.
+He looks at himself -- but another, different him -- another him that is submitted to the angel and now only a hollow shell. Jimmy can feel, just from those blue eyes, that there is no second soul in that body.
 
 *Jimmy,* his lips twitch, but his throat already fails, the pipes choking with ash. He can only stare into the blue eyes, seeing his own dying reflection.
 
 The other face -- the other Castiel -- widens his eyes, a sense of recognition. "I'm so sorry," he says quietly. His eyes sincerely mean it. The blade in his hand is still buried inside Jimmy's chest.
 
-So, in the end, it's still Castiel that's killing him, killing them. Jimmy thinks, before the last of his consciousness is swallowed by the flame. He almost wants to chuckle the sarcasm in it, almost wants to sigh out a long relieved sigh, too. He should have known long ago that he will die in Castiel's hands. But maybe, he has already died long time ago.
+So, in the end, it's still Castiel that's killing him, killing them. Jimmy thinks, before the last of his consciousness is swallowed by the flame. He almost wants to chuckle at the sarcasm in it, almost wants to sigh out a long, relieved sigh, too. He should have known long ago that he would die in Castiel's hands. But maybe, he has already died a long time ago.
 
-He should have known that the day the angel asked if he'll say yes, or the day he dreamed about the Holy City. He should have known that, when he started to read the Holy Bible, and believed in it.
+He should have known that the day the angel asked if he would say yes, or the day he dreamed about the Holy City. He should have known that, when he started to read the Holy Bible, and believed in it.
 
 It is his fate to be chosen by the angel, and it is his fate to be killed by his hands, too.
 
-Jimmy Novak lets out the last sigh and last scream, letting the grace inside his body burns him completely.
+Jimmy Novak lets out the last sigh and last scream, letting the grace inside his body burn him completely.
 
 <br>
 
@@ -2035,7 +2037,7 @@ He just drifts. And then, he kicks a man sleeping.
 
 The man has his face, with the angel blade that killed them on his chest.
 
-Castiel looks up at him with sleepy eyes half-open, wordless. And he looks up, at the sky of the place where lights of souls are dropping like rainfalls.
+Castiel looks up at him with sleepy eyes half-open, wordless. And he looks up, at the sky of the place where the lights of souls are dropping like rainfall.
 
 Jimmy sits down beside him, quiet, looking up at the falling souls from the bottomless darkness -- There is no Heaven or Hell on Earth for a long while now, the war has long destroyed them. All the homeless souls come to this empty place. Everyone, is falling to the Empty.
 
