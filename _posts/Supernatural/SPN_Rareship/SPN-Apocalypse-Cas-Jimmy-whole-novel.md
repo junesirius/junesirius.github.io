@@ -259,6 +259,8 @@ Chap 6 or 7, before Jimmy/Castiel's death: maybe add the scene with Castiel tort
 
 > Jimmy is a devout man, praying for angels to protect his family, praying for a peaceful world. Then Apocalypse starts, and Castiel comes to him, he says yes. Castiel goes to Hell for a mission, but not to save the righteous man, it's to kill Lilith and open the Cage himself, to let Lucifer out (he's the one started Apocalypse on Michael's order; the righteous man who broke the first seal is John Winchester, Mary never made deal to save him, he's in Hell all the time).
 
+#### Act 1
+
 *And he carried me away in the Spirit to a mountain great and high, and showed me the Holy City, Jerusalem, coming down out of heaven from God. It shone with the glory of God, and its brilliance was like that of a very precious jewel, like a jasper, clear as crystal. It had a great, high wall with twelve gates, and with twelve angels at the gates. On the gates were written the names of the twelve tribes of Israel. There were three gates on the east, three on the north, three on the south and three on the west. The wall of the city had twelve foundations, and on them were the names of the twelve apostles of the Lamb.*
 
 *The angel who talked with me had a measuring rod of gold to measure the city, its gates and its walls. The city was laid out like a square, as long as it was wide. He measured the city with the rod and found it to be 12,000 stadia in length, and as wide and high as it is long. The angel measured the wall using human measurement, and it was 144 cubits thick. The wall was made of jasper, and the city of pure gold, as pure as glass. The foundations of the city walls were decorated with every kind of precious stone. The first foundation was jasper, the second sapphire, the third agate, the fourth emerald, the fifth onyx, the sixth ruby, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth turquoise, the eleventh jacinth, and the twelfth amethyst. The twelve gates were twelve pearls, each gate made of a single pearl. The great street of the city was of gold, as pure as transparent glass.*
@@ -270,7 +272,6 @@ Chap 6 or 7, before Jimmy/Castiel's death: maybe add the scene with Castiel tort
 <br>
 <hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
 <br>
-
 Jimmy wakes up slowly, blinking in the thin light of the early morning, pale grey through the curtain of the room. The blazing image of the new Jerusalem is still shining in the lingering memory behind his eyelids. He tries hard to remember the details of the holy city, the light and shiny reflections of its walls and ground, the place that doesn't need sun or moon to shine on it, the place with all light and no night -- but the dream slips through his mind like water through open fingers.
 
 He turns on the lamp, and finds one of his hands resting on the Bible on his bedside stand. It must be where the dream comes from, then. He thinks distantly. With all these years of praying and believing, for once, he is granted a vision. However brief, it must be a sign, a reward, to allow him to have a glimpse of the great glory after the ending.
@@ -352,6 +353,8 @@ The radio falls quiet as the angel finishes.
 Jimmy rubs his eyes again. It starts to feel like a bad decision.
 
 <br>
+
+#### Act 2
 
 He feels bone tired. But he doesn't even have a body to feel tired.
 
@@ -1161,7 +1164,7 @@ The angel's face lingers before his closed eyelids.
 
 It could have been such a comforting promise, if these exact words were said in a completely different world. A world where angels are good and caring, a world where there is no Apocalypse and no war. Jimmy thinks bitterly, and immediately mocks his own innocence. But there is no such world. This world is all he gets, and this cold, cruel angel is all he gets. There is no escape for him, and there is no way out.
 
-The dreadfulness follows him into the next dream, where he has to witness Amelia getting possessed by a demon, and his own hand holds out a glinting angel blade, stabbing through her heart. The one after that, he does the same to his daughter.
+The dreadfulness follows him into the next dream, where he has to witness Amelia getting possessed by a demon, and his own hand holds out a gleaming angel blade, stabbing through her heart. The one after that, he does the same to his daughter.
 
 "No." Jimmy twists and turns on the bed, struggling, "No, please. Not my daughter. Not them. Please."
 
