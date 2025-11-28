@@ -26,7 +26,7 @@ any of several locusts that migrate in great swarms, especially: *Locusta migrat
 
 "Cas, come on, let's go inside." Dean puts an arm over Cas's shoulder, trying to steer him away from the dreadful scene. But Cas doesn't move, his eyes on the field, utterly upset.
 
-The field that should have been their first harvest after they retire to the farming. The field that the two of them have worked on for the whole year, bearing their sweat day and night, that should have been full of wheats, barley, and rape. The field that is now, full of flying insects.
+The field that should have been their first harvest after they retire from hunting and turn to farming. The field that the two of them have worked on for the whole year, bearing their sweat day and night, that should have been full of wheat, barley, and rape. The field that is now, full of flying insects.
 
 "This can't be happening," Cas murmurs, watching the swarm of creatures crushing down on the field like black clouds. Wherever they pass through, none of the crops survive.
 
@@ -54,7 +54,7 @@ It took the three of them a good chunk of a week to finally locate the very firs
 
 It's a good thing that they got limitless samples to capture from their own field, according to Sam. Dean and Cas don't really find comfort in that.
 
-The origin is traced back to Easter, Pennsylvania. From ten years ago. This specific species seems to be particularly similar to the old Egyptian species from four thousand years ago, that should have been extinct or mutated all those age ago.
+The origin is traced back to Easter, Pennsylvania. From ten years ago. This specific species seems to be genetically particularly similar to the old Egyptian species from four thousand years ago, which should have been extinct or mutated all those centuries ago.
 
 "I think we have a very different definition of 'good news'," Dean rubs the pinch of his nose. "All I'm hearing is, something something Egypt, something something biblical, something big and bad."
 
@@ -64,13 +64,13 @@ Dean returns him a blank look.
 
 Cas exhales quietly. "Oh."
 
-Dean glances at him. "Care to give some tip to the clueless here?"
+Dean glances at him. "Care to give some tips to the clueless here?"
 
 "Balthazar," Cas lets out a single name. That's all the tip Dean needs.
 
-"That case with the staff of Moses." He too remembers. "That's there? Pennsylvania? I don't even remember."
+"That case with the staff of Moses." He too remembers now. "That's there? Pennsylvania? I don't even remember."
 
-"Yep, that's same small town." Sam nods at his laptop screen. "Must be those same locust crawling out of that cop's brain and start flying around."
+"Yep, that same small town." Sam nods at his laptop screen. "Must be those same locust crawling out of that cop's brain and start flying around."
 
 "Jesus," Dean sighs deeply. "We solved that case back then. Who'd know we'll have to fix those locusts too?"
 
@@ -78,26 +78,26 @@ Dean glances at him. "Care to give some tip to the clueless here?"
 
 "You didn't even know about the case." Dean moves closer to him, catching his hands. "We didn't call you until we found those links, remember?"
 
-"It was my fault Balthazar found it necessary to steal the staff. If I hadn't started the civil war in Heaven, none of that would ever happen, those migratory locusts would never exist in this land." Cas lowers his head, staring at the floor. He tries to take back his hands, but Dean doesn't let him.
+"It was my fault Balthazar found it necessary to steal the staff. If I hadn't started the civil war in Heaven, none of that would ever happen; those migratory locusts would never exist in this land." Cas lowers his head, staring at the floor. He tries to take back his hands, but Dean doesn't let him.
 
 "It's not your fault," Dean tells him firmly, squeezing his hands. "We can fix this."
 
-"I doubt it," Cas says with a low voice. "Once there's a single locust in the new continent, there is nothing stopping them to breed and grow. Let alone it's been ten years. They must have been everywhere already. I don't know why we never realize this problem until now."
+"I doubt it," Cas says in a low voice. "Once there's a single locust in the new continent, there is nothing stopping them from breeding and growing. Let alone it's been ten years. They must have been everywhere already. I don't know why we never realized this problem until now."
 
-"The farmers must have suffered for the past ten years." Sam murmurs quietly. "We just, never looked closely enough. Thought it's natural disaster or something. I mean, who'd thought a locust outburst could be our sort of case, too? It's like butterfly effect."
+"The farmers must have suffered for the past ten years," Sam murmurs quietly. "We just, never looked closely enough. Thought it was just natural disasters or something. I mean, who'd thought a locust outburst could be our sort of case, too? It's like the butterfly effect."
 
-"Not helping, Sammy," Dean gives his brother an displeased look, tilting his head at the angel, using his eyes to express "Why do you have to make him feel more shitty than he already is? Shut up or say something nice!"
+"Not helping, Sammy," Dean gives his brother a displeased look, tilting his head at the angel, using his eyes to express, "Why do you have to make him feel more shitty than he already is? Shut up or say something nice!"
 
 "We can, uh, always regrow the crops, hoping they're fine next year," Sam waves helplessly at the window and their field.
 
 Dean gives him another look, rolling his eyes. Sam shuts his mouth obediently.
 
-"We can always call Jack to help this, right?" Dean turns to Cas, suggesting hopefully.
+"We can always call Jack to help fix this, right?" Dean turns to Cas, suggesting hopefully.
 
-"He said he'll not intervene anything anymore," Cas answers gloomily.
+"He said he'd not intervene in anything anymore," Cas answers gloomily.
 
-"Not even something biblical? This feels like his department in the first place, you know." Dean pats the angel's hands. "We'll just invite him over to the dinner, serving him a dish with fried locust or something. He's gotta ask, 'What's that?' Then we'd just say, 'Oh we wanted to serve you some home-grown wheat for bread, but locusts ate them all, so now all we have is fried locusts.' He'd ask, 'How does that happen?' I'll just tell him the story we just found out, surely he'll just snap a finger to fix this, right?"
+"Not even something biblical? This feels like his department in the first place, you know." Dean pats the angel's hands. "We'll just invite him over to dinner, serving him a dish with fried locust or something. He's gotta ask, 'What's that?' Then we'd just say, 'Oh, we wanted to serve you some home-grown wheat for bread, but locusts ate them all, so now all we have is fried locusts.' He'd ask, 'How does that happen?' I'll just tell him the story we just found out, surely he'll just snap a finger to fix this, right?"
 
 Cas still doesn't think it's a fair reason to call Jack for the use of his power for the next two days. But Dean manages to invite Jack over for the Sunday family dinner anyway.
 
-And long story short, on the next year's harvest day, they finally manage to harvest some real crop from their unharmed field, in human way. Which makes Cas very happy. Which makes Dean very happy, too.
+And long story short, on the next year's harvest day, they finally manage to harvest some real crop from their unharmed field, in the human way. Which makes Cas very happy. Which makes Dean very happy, too.
