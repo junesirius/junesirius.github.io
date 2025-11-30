@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【Destiel】katharsis (Day 11)
-date: 2025-11-21 02:34
+date: 2025-11-23 02:34
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
 tags: ["Supernatural", "destiel", "英文"]

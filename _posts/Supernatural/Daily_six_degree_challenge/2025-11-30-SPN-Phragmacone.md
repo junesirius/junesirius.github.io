@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【Destiel】phragmacone (Day 14)
-date: 2025-11-24 02:34
+date: 2025-11-30 02:34
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
 tags: ["Supernatural", "destiel", "英文"]

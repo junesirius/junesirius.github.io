@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【Destiel】scorner (Day 12)
-date: 2025-11-22 02:34
+date: 2025-11-25 02:34
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
 tags: ["Supernatural", "destiel", "英文"]

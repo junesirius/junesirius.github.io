@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【Destiel】migratory locust (Day 13)
-date: 2025-11-23 02:34
+date: 2025-11-28 02:34
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
 tags: ["Supernatural", "destiel", "英文"]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 【Destiel】slopingly (Day 10)
-date: 2025-11-20 02:34
+date: 2025-11-21 02:34
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
 tags: ["Supernatural", "destiel", "英文"]
