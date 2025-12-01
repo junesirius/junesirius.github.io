@@ -76,6 +76,12 @@ Some domestic scenes when Dean spend time with ghost Cas, like: the two of them 
 
 #### Summary
 
+This is three weeks before Dean Smith resigns to Mr. Adler, and the whole reality crumbles down; two weeks before he finds out Mr. Sandover is a ghost that haunts his workplace.
+
+It's the first day he moves into this new city, and he realizes that, his new loft is haunted by a ghost who doesn't remember his name. The ghost that, he later finds out, is called Castiel Novak, died tragically in this exact loft with unfinished business.
+
+Dean has to help him.
+
 #### Snippet
 
 (500 words)
@@ -113,6 +119,36 @@ Castiel is unsure if he should answer. He looks up, hesitant. "Yes. You agree to
 Dean smiles, turning to make himself the coffee, pouring the beans into the grinder and the powder into the coffee machine. When the room starts flowing with the sweet, bitter smell of freshly brewed coffee, he says, "Thanks for the effort, Cas. But don't stress out, I won't ask you to share the rent or anything."
 
 Castiel simply nods. A tight smile.
+
+#### Snippet
+
+(250 words)
+
+Dean walks into the kitchen, yawning lazily, his brain still in the process of loading. He walks straight into Castiel and emerges on the other side. The soaking coldness wakes him up immediately, like a bucket of icy water is poured over his head.
+
+"What the hell?" he jumps, then he remembers.
+
+Castiel still stands where he was two seconds ago, occupying the passageway in the kitchen, presumably exactly where he stayed the whole night, looking curious and confused, but not unpleasant. "Sorry?" he says carefully, a little unsure.
+
+"Sorry, my bad," Dean echoes, rubbing his eyes. "Should've looked my way. Forget I'm sharing now."
+
+"I guess it's good that I won't be bumped to the ground or hurt," Cas says, moving a few steps away, leaving the kitchen unoccupied.
+
+"Yeah," Dean answers absentmindedly, reaching for the coffee to make his pot of latte for the day, only to realize the cabinet door was open, the coffee bag shifted from its position, tilting outward but not far enough to fall, as if someone had tried to take it out but the effort wasn't quite successful.
+
+He turns to the ghost. "You did that?"
+
+Castiel averts his eyes sheepishly. "Yes."
+
+"Why?"
+
+"I thought I'd try to make some coffee before you get up, but it looks like I don't really have enough strength for that." Castiel looks at the floor in front of him, ashamed. "It took me a whole night to open that cabinet, and it already exhausted me. Sorry I can't really help with anything."
+
+Dean raises his eyebrows. "You want to help make me some coffee."
+
+That's a statement, not a question.
+
+Castiel is unsure if he should answer. He looks up, hesitant. "Yes. You agree to help find the person who killed me. I thought the least I could do is make you some coffee."
 
 ### Arts
 
