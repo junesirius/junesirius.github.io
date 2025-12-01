@@ -82,9 +82,7 @@ It's the first day he moves into this new city, and he realizes that, his new lo
 
 Dean has to help him.
 
-#### Snippet
-
-(500 words)
+#### Snippet (500 words)
 
 The alarm clock rings at six.
 
@@ -120,9 +118,7 @@ Dean smiles, turning to make himself the coffee, pouring the beans into the grin
 
 Castiel simply nods. A tight smile.
 
-#### Snippet
-
-(250 words)
+#### Snippet (250 words)
 
 Dean walks into the kitchen, yawning lazily, his brain still in the process of loading. He walks straight into Castiel and emerges on the other side. The soaking coldness wakes him up immediately, like a bucket of icy water is poured over his head.
 
