@@ -120,11 +120,11 @@ Castiel simply nods. A tight smile.
 
 #### Snippet (250 words)
 
-Dean walks into the kitchen, yawning lazily, his brain still in the process of loading. He walks straight into Castiel and emerges on the other side. The soaking coldness wakes him up immediately, like a bucket of icy water is poured over his head.
+Dean walks into the kitchen, yawning lazily, his brain still in the process of loading. He walks straight into Castiel and emerges on the other side. The soaking coldness wakes him up immediately.
 
 "What the hell?" he jumps, then he remembers.
 
-Castiel still stands where he was two seconds ago, occupying the passageway in the kitchen, presumably exactly where he stayed the whole night, looking curious and confused, but not unpleasant. "Sorry?" he says carefully, a little unsure.
+Castiel still stands where he was two seconds ago, occupying the passageway in the kitchen. "Sorry?" he says carefully, a little unsure.
 
 "Sorry, my bad," Dean echoes, rubbing his eyes. "Should've looked my way. Forget I'm sharing now."
 
@@ -141,10 +141,6 @@ Castiel averts his eyes sheepishly. "Yes."
 "I thought I'd try to make some coffee before you get up, but it looks like I don't really have enough strength for that." Castiel looks at the floor in front of him, ashamed. "It took me a whole night to open that cabinet, and it already exhausted me. Sorry I can't really help with anything."
 
 Dean raises his eyebrows. "You want to help make me some coffee."
-
-That's a statement, not a question.
-
-Castiel is unsure if he should answer. He looks up, hesitant. "Yes. You agree to help find the person who killed me. I thought the least I could do is make you some coffee."
 
 ### Arts
 
