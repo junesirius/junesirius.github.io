@@ -76,9 +76,7 @@ Some domestic scenes when Dean spend time with ghost Cas, like: the two of them 
 
 #### Summary
 
-This is three weeks before Dean Smith resigns to Mr. Adler, and the whole reality crumbles down; two weeks before he finds out Mr. Sandover is a ghost that haunts his workplace.
-
-It's the first day he moves into this new city, and he realizes that, his new loft is haunted by a ghost who doesn't remember his name. The ghost that, he later finds out, is called Castiel Novak, died tragically in this exact loft with unfinished business.
+It's the first day Dean Smith moves into this new city for his new job, and he realizes that, his new loft is haunted by a ghost who doesn't remember his name. The ghost that, he later finds out, is called Castiel Novak, died tragically in this exact loft with unfinished business.
 
 Dean has to help him.
 
@@ -145,6 +143,8 @@ Dean raises his eyebrows. "You want to help make me some coffee."
 ### Arts
 
 #### Banner
+
+<a href="tumblr.com" target="_blank"><img src="https://64.media.tumblr.com/a20efa1fe103a61a165b7cde32015e5c/53f1c813ddf4670b-97/s1280x1920/5c6e105e6706f47063aeaa2d05a2d7614e0e5512.jpg" alt="The banner image shows two hands reaching out to each other, one is Dean Smith's with office shirt sleeve and buttons, the other is Castiel's but semi-transparent, showing he's a ghost. The title reads 'Unfinished Business', Story by JuneSirius, art by zybynarx, for SPN AU Bang" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></a>
 
 #### Art
 
