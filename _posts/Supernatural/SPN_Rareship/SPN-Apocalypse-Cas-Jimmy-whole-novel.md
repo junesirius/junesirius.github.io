@@ -241,7 +241,15 @@ He closes his eyes briefly, and finds the image of the Holy City comes back to h
 
 #### Banner
 
+<a href="tumblr.com" target="_blank"><img src="https://64.media.tumblr.com/8ad9f04ce6557c238ef26a33d35649cb/750b076e1c92b4d9-f9/s2048x3072/10ac16cc107771da9bc5b7ae9cb32f5eb6244f03.pnj" alt="A banner image with Castiel snatches Jimmy Novak at his collar, his eyes glowing, with a blue halo in the shape of angel radio around his head. Castiel's face is fierce, and Jimmy is scared. The two of them wear the same outfit. The title reads 'Evernight', story by JuneSirius, art by pumpci, for Supernatural Rareshp Minibang" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></a>
+
 #### Art
+
+<img src="https://64.media.tumblr.com/011fb7ed37d3c5cff80b4874fc5f61a5/53f1c813ddf4670b-0f/s1280x1920/9bdd0bdb4578adcbcfc3ba4417c77597ebdf3b4b.pnj" alt="The image shows an apocalypse hotel room, Jimmy Novak sits on a broken bed with only frame, blood all over his head and body. Claire Novak stands beside the bed with glowing eyes, showing it's actually Castiel inside her body. She wears a torn military coat; her left eye has duller color than her right eye." style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" />
+
+<img src="https://64.media.tumblr.com/b3480727a397af39dcbb76bd0d42d2ce/53f1c813ddf4670b-c1/s1280x1920/ea089e65c0dab4bc948f51a3ff57f3a0f613fbdc.pnj" alt="Separator image with torn feathers" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" />
+
+<img src="https://64.media.tumblr.com/51b1f9f70c1556a5d809de2c35c1018a/53f1c813ddf4670b-b5/s1280x1920/4965defb9c97a552b828c59efbb99a667ea0e728.pnj" alt="Separator image with burnt feathers" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" />
 
 ### Editing Notes
 
