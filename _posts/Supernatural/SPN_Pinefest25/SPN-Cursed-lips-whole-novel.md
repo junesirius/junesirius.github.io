@@ -105,6 +105,8 @@ After finish: check the quoted part, ensure all using past tense
 
 quoted S05E18: editing, tuning down the ultra analytical analysis. more verbs and actions and first POV thoughts from characters.
 
+later chaps when writing Crowley's plot: S08E22 Crowley read SPN book, quoting Winchester family slogan ("family business" lines), showing he's also been reading SPN series, so same knowledge as Metatron, maybe can make use of that too. like when bickering with Metatron, the two has some common language, or use it to get more information than he already had that gives him advantage when fighting against Metatron
+
 # Draft
 
 ## Chap 1 Previously On (Part One)
@@ -475,7 +477,11 @@ quoted S05E18: editing, tuning down the ultra analytical analysis. more verbs an
 
 > Castiel couldn't help himself from coming back down to the stairs leading to the panic room moments later, after Sam had given up reasoning with his obstinate brother. Cas thought just maybe he could give it another try, or at the very least, checking on how Dean was doing.
 >
-> The place sounded awfully quiet as he treaded down the dark corridor. The angel accelerated his steps. An unsettling worry and fear for the worst grabbed his gut tightly.
+> He heard something breaking as he treaded down the dark passageway.
+>
+> "Dean?" Cas's heart clenched. He accelerated his steps. An unsettling worry and fear for the worst grabbed his gut tightly.
+>
+> The place sounded awfully quiet when he reached the door.
 >
 > The view behind the thin slit of the barred peephole was even more perturbing. A tipped-over chair and a broken vase on the floor seemed to just prove all his worst nightmare.
 >
@@ -483,7 +489,9 @@ quoted S05E18: editing, tuning down the ultra analytical analysis. more verbs an
 >
 > *Please tell me you aren't so stupid. Please not that. Don't you dare...*
 >
-> Castiel didn't realize his mind started praying, his hands not as stable as they used to be when he fumbled for the handle. They would have been trembling if he wasn't using his grace to force them steady enough to unlock the bars.
+> Castiel didn't realize his mind started praying, his hands not as stable as they normally were when he fumbled for the handle. They would have been trembling if he wasn't using his grace to force them steady enough to unlock the bars.
+>
+> "Dean!"
 >
 > His breath was caught and his heart pounded hard in a way he never knew it could, when he stepped in.
 >
@@ -491,37 +499,101 @@ quoted S05E18: editing, tuning down the ultra analytical analysis. more verbs an
 >
 > *Dean, what have you done?*
 >
-> Cas scanned around the room in a rush, his heart so worried that it was very literally hanging under his throat.
+> Cas scanned around the room in a rush, his heart so worried that it was very literally hanging under his throat. It slowed down his reaction to notice the movement behind him.
 >
-> That was exactly when Dean stepped out from the shadow and called his name calmly.
+> That was exactly when Dean stepped out from the shadow and called his name. His voice was calm and steady.
 >
-> Cas swiveled toward him with a huge relief. But the next thing he knew, Dean triggered the bloody angel banishing sigil on the opposite cabinet door.
+> Cas swiveled toward him with a huge relief. But the next thing he knew, Dean's bloody palm was pressed to the large angel banishing sigil on the opposite cabinet door, triggering the spell.
 >
-> The light from the sigil brightened up like a burning star and tore the angel from his current existence. Cas realized in that split second that he had never mentioned to the humans (Dean, in particular) that, being blast away by the sigil was as painful to angels as being shot by a torpedo in the chest and pushed by it until landed a thousand yards away as a bird.
+> The light from the sigil brightened up like a burning star and tore the angel from his current existence. Cas realized in that split second that he had never mentioned to the humans -- Dean, in particular -- that, being blast away by the sigil was as painful to angels as being shot by a torpedo in the chest and pushed by it until landed a thousand yards away as a bird.
 >
-> That was why every time they used the sigil, the attacked angels would have to take quite some time to catch their breath from disorientation and any potential hurt before flying back. And if they were already wounded or weak, the sigil and the impact of collision might potentially cause them permanent harm, or even death.
+> That was why every time they used the sigil, the angels under the effect would have to take quite some time to catch their breath from disorientation and any potential hurt before flying back. And if they were already wounded or weak, the sigil and the impact of collision might potentially cause them permanent harm, or even death.
 >
 > But Dean didn't know any of that.
 >
-> And the beam from the sigil started pouring on him. Cas felt his wings got torn out forcefully from behind his back, stretched to their limits, almost like tearing them away from him alive. Castiel screamed as he was blown away.
+> And the beam from the sigil started pouring on him. Cas felt his wings got torn out forcefully from behind his back, stretched to their limits, almost like tearing them away from his true form alive. Castiel screamed as he was blown away.
 >
-> He was thrown ruthlessly into the dirt, bashing a muddy hole on the ground of some forest. The leaves had helped the eventual landing, but his body and grace both ached tremendously. His wings shivered behind him as he tried to push himself up from the earth. His shoulders were twisted because he hit a rock and his leg was bleeding.
+> He was thrown ruthlessly into the dirt, bashing a muddy hole on the ground of some forest. The leaves had helped the eventual landing, but his body and grace both ached tremendously. His wings shivered behind him as he tried to push himself up from the earth. His shoulders were twisted in the wrong way, because he hit a rock, and his leg was bleeding.
 >
-> Cas staggered, and closed his eyes, forcing the already rapidly draining grace to split a drop to repair the vessel and stop the distracting pain. His head buzzed with noise that was probably also a side effect of a very physical concussion as he tried to tune into angel radio.
+> Cas staggered, and closed his eyes, forcing the already rapidly draining grace to spare a precious drop -- that he had been saving in case they had to go into a fight with angels or he needed to use it to heal Dean -- to repair the vessel and stop the distracting pain. His head buzzed with noise that was probably also a side effect of a very physical concussion as he tried to tune into angel radio.
 >
-> That was when he heard the reflection in the homeless prayer's head saying loudly, "Oh My goodness lord, you're Dean Winchester." And the second wave of prayer came right after it.
+> His body was still hurting, his head was still throbbing with dull pain, but he didn't have time for them. He already wasted a second or two to catch his breath from the crash, to drag himself up, to locate Dean from the sea of signals that he was picking up through the prayers and longings. He didn't know if he had taken too long, if Dean had already done something irreparably stupid. Fear and rage tightened his muscle and mind.
 >
-> Cas gathered all his strength
+> He sensed a flicker of thought that sounded distantly like Dean's through the angel radio, a quiet, pained thought, *I'm sorry.* But he couldn't be sure.
 >
-> 
+> Another prayer in its vicinity was much louder, much clearer, murmuring Dean's name on his tongue. But he had no right to. Just a preacher pretending to be God's servant, but actually doing angels' dirty work.
+>
+> Fury flared inside Cas, making the pain in his wings so much easier to ignore.
+>
+> The prayer's voice echoed loudly in his head: "Dear God." *You're Dean Winchester, the one they told me about, the one chosen by our Father, our savior on Earth.*
+>
+> Castiel flapped his wounded wings, flying through the ether that connected the land and filled in between the dimensions. He navigated through it like fish in the sea, or bird in the sky, as a better metaphor.
+>
+> "Our Father, who art in Heaven, hallowed be thy name --"
+>
+> Castiel locked in on his location, and landed in the alley before the man could finish the first sentence of his over-formally but otherwise useless prayer. He wished no other angel had received or noticed that prayer but him, and relieved for a small second that it seemed his wish was granted. It was only him and Dean in the alley.
+>
+> The flame of fury burned more heated in his chest at the sight of Dean, who looked almost dazed at his sudden appearance.
+>
+> "You pray too loud."
+>
+> Castiel put the preacher to sleep just like he did to Bobby when he first met Dean. Dean barely had time to turn to him and gasp before he was snatched by the collar and steered into the dark back alley.
+>
+> Dean's steps stumbled by the angel's push. And he didn't even have time to protest when Cas shoved him to the dirty brick wall.
+>
+> Fury turned into rage, then frenzy, then frantic wrath. Cas's fist punched into Dean's cheek mercilessly, knocking him over. Blood streamed down from his broken nose in an instant.
+>
+> Dean groaned, choking out, "What, are you crazy?" But he was no match to an angel, let alone an outrageous one.
+>
+> Castiel hauled him up by the collar, growling into his face. "I rebelled for this?! So that you could surrender to them?"
+>
+> The punches made his ears buzzing, and Dean smelled the blood. The image of Castiel's face flashed before his eyes so quickly that his mind was having trouble catching up with the words he was hearing. Only that Castiel was very, very pissed. So pissed that it looked like, without a doubt, Cas could kill him just by beating him hard enough.
+>
+> The realization made Dean flinch. He'd never think he'd be killed by Cas, not after he started knowing him -- got his ass kicked by an angel, quite likely, but not by Cas.
+>
+> "Cas! Please!" Dean yelled, out of instinct.
+>
+> But the beating didn't stop. Two more punches landed. And Dean could taste the sweet metal taste on his tongue, more blood dripping from the corner of his lips.
+>
+> Castiel dragged him by the armpits, knocking his back to the other side of the wall. Dean heard the bones on his back cracking from the impact. The angel was incredibly strong, and undoubtedly not really caring if any of it would hurt him for real -- or maybe, that was exactly his intention. Maybe after that banishing spell Dean sent his way, Cas finally decided to stand back on Heaven's side.
+>
+> Dean's hands were trapped between their bodies, couldn't quite be useful to push Cas away, or protect himself from another blow. So instead, they clutched around the angel's trench coat, pulling himself closer to the angel. The sensation of the familiar fabric grounded him. He was intimidated, but not entirely scared.
+>
+> "I gave everything for you! And this is what you give to me?!" Cas roared at him, his face merely three inches away. More pure fury glowed from his eyes like his angel grace was radiating.
+>
+> Dean was dazed, and pressed to the wall motionless. So funny that this seemed to become a familiar posture between them, almost exactly like last year before Cas's death, before Cas lost everything and got cast out of Heaven, all because of him. So he really had every right to be white-hot furious.
+>
+> Dean stared him in the eyes, the speed of the physical world seemed to slow down as his mind got distracted. Cas was so full of rightful rage, finally looking like a full-on biblical righteous angel, but also so pained, so torn-apart, so desperate, so very very human.
+>
+> *Cas sacrificed everything for him.* Dean's mind thought slowly, watching his eyes roll, his eyebrows raised, his nostrils flare, his lips purse. Dean stared at those lips as they move, as they curse him, as he yelled his frustration. There were only three inches between those lips and his, maybe even less.
+>
+> *This is the angel who saved me from Hell and fell from Heaven because of me. And now I disappointed him. I made his pain worthless. Because I am weak, because that's what I do, I hurt him.*
+>
+> *I don't deserve him.*
+>
+> Dean fell silent, giving up on resisting.
+>
+> The next punch sent him flying and crashing on the metal net, and the kick after hit him on the chest.
+>
+> Dean crashed to the ground, crawling on his all fours. Everywhere on his body hurt, some bones must be broken, his ribs too, probably. He could feel his cheeks and his lips wet. He looked up, and Cas was standing two steps away from him, fist clenched tight.
+>
+> *He could so easily kill him.* Dean thought. *He might as well do it, saving all of them the trouble of worrying about his surrender. Saving him the trouble of doing it himself.*
+>
+> "Do it!" Dean choked around the mouthful of blood, watching the angel from ground, from below. He felt small, and the angel stood tall. "Just do it!" *Kill me.*
+>
+> *Maybe that could make Cas's sacrifice mean something. Maybe that was all they needed, as a solution. Death by his best friend's hand, it didn't sound as bad as making a decision so wrong that it would curse the whole world and his brother and likely also kill the said friend again, right?*
+>
+> But the expected killing blow didn't come.
+>
+> Cas held his eyes, and eventually, slowly, unclenched his fist, letting out a defeated sigh. *How could I?* His mind answered Dean's unsaid thoughts, all too loud and clear to read.
+>
+> He touched Dean on the shoulder to knock him out instead, and watched his bloodied face for a long minute before healing them -- most of the wounds, anyway, but not all, so he wouldn't drain all his limited power.
+>
+> *He shouldn't lash out like this.* Cas bit his lower lip during the healing, silently hating himself. *But it's all Dean's fault.* He pressed his fingers on Dean's forehead, following the furrowed lines between his eyebrows, smoothening the frown that was still there when Dean was unconscious.
+>
+> He then flew them back to Bobby's place.
 
 <p style="text-align:right">-- <i>"Supernatural: Point of No Return"</i> (2010) by Carver Edlund</p>
-
-###### [TBC]
-
-#### draft notes
-
-> 518 "I rebelled for this?! So that you could surrender to them?" "Cas! Please!" "I gave everything for you. And this is what you give to me?!"
 
 ## Chap 1 Previously On (Part Two)
 
@@ -536,6 +608,8 @@ quoted S05E18: editing, tuning down the ultra analytical analysis. more verbs an
 #### draft notes
 
 > 617 "Balthazar has a weapon that will work against her." "Of course he does. Yeah. Boy, that guy's just got it covered, doesn't he? You need new friends, Cas." "I'm trying to save the ones I have, Dean. We'll have to draw her out."
+
+###### [TBC]
 
 ### Act 7 (S06E20)
 
