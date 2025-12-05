@@ -5191,4 +5191,12 @@ or can be both in 2014 world, somehow huntercorp Dean was experimenting multiver
 
 (figure out a way to have only the two of them)
 
-### 428.
+### 428.【destiel】Cas's true form is a true scary monster
+
+(inspired by *Wicked*)
+
+Cas's trust form is a truly scary monster, like octopus, or bee with huge pointy tail, or spider with eight or more huge fury long black legs, or scorpion with huge poisonous stabbing tail, but with huge bird wings. A bit like Cthulhu. Possibly likely very eldritch. Dean might be scared at first sight, but not *really* scared, kinda like when Glinda look at Elphie. The true form first impression makes human brain think it's ugly and scary and terrifying, but Dean looks at him long enough and gets used to how he looks and starts falling in love with him, so to Dean, Cas doesn't look scary, he looks with love.
+
+Quote from *Wicked*: "Look at me." (looking fondly) "Not with your eyes. With theirs."
+
+### 429.
