@@ -6,7 +6,7 @@ categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
 tags: ["Supernatural", "destiel", "英文"]
 pov: 第三人称
-origin: 2025 DeanCas Pinefest
+origin: 2026 DeanCas Pinefest
 long_novels: 【Destiel】I Swear On Castiel's Name
 ---
 
