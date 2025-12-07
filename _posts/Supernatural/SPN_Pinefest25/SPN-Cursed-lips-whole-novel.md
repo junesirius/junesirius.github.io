@@ -6,7 +6,7 @@ categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
 tags: ["Supernatural", "destiel", "英文", "吻"]
 pov: 第三人称
-origin: 2025 DeanCas Pinefest
+origin: 2026 DeanCas Pinefest
 long_novels: 【Destiel】I Swear On Castiel's Name
 published: false
 ---
@@ -699,7 +699,65 @@ later chaps when writing Crowley's plot: S08E22 Crowley read SPN book, quoting W
 
 ### Act 7 (S06E20)
 
-> 
+> It wasn't easy. The truth was, it was damn hard, to hide something from Dean.
+>
+> And it seemed, Crowley knew exactly what had been torturing him since the beginning and never gave up making the most use of it, taunting him contantly.
+>
+> Cas found himself keep flying away from Crowley's lab, away from Heaven's war, just away from all those things, all those jobs and responsibilities and everything that dragged him exhausted. He went to sit in the Impala with Dean, instead, if only just to exchange a sentence or two, just to see the man, and that would already make him feel so much better. But he pointedly chose not to think how much worse it felt immediately when he realized he'd have to lie *again*, to Dean's face.
+>
+> If he could, he would never do this again.
+>
+> And if he did, he'd never end up trapped inside a holy fire circle, with Dean being the one standing on the other side, staring him down.
+>
+> The fire heated the air quickly, distorting the view when they looked at each other. The heat came close to his skin. *It could actually kill him. This is the first time, Dean actually threatened him with something that could actually kill him.*
+>
+> Cas's eyes swept around the room, unsettled. Panicked, if he had to admit. He was ready to admit, not the deal with Crowley, not all the other things he buried down, not the way he looked at Dean, not the reason why he made the deal in the first person. He didn't think it would come so quickly.
+>
+> "Let me go!" Cas said, eying the fire consciously, turning to them one by one. In every direction, the fire licked dangerously close, threatening to burn his clothes, then his flesh, then his grace and his true form and his wings. Dean could just be standing there, watching his wings torched to the ground. *Would Dean feel sorry for him?* Cas wondered. *Or maybe just too angry to care, especially after he found out his deal with Crowley?*
+>
+> Cas looked down, bitter at the thought. The fire dyed everything in the room red, almost like bloodied.
+>
+> "We gotta talk," Dean said, slowly, cautiously, standing up from his sitting position, moving closer to him. There was only the fire between them now, a blockage that he could never across without being killed.
+>
+> Dean's eyes were careful, constrained, looking at the angel like approaching a caged dangerous creature, like... approaching someone he didn't know, and powerful, and dangerous.
+>
+> Cas read his eyes, and pained immediately. Dean never looked at him with eyes like these. Never as enemy, not since after the first day.
+>
+> "About what? Let me go!" Cas tried again. But deep down, slowly, definitely, he knew it was over. One way or another, Dean would find out everything, and there would be no going back. They were friends, and he was contented as being nothing more than a friend, but now, nothing. He'd be nothing at all, or worse, enemy. Dean was trapping him and cornering him like he would to a demon, an archangel, the Devil. He had made himself their enemy. Cas found his chest tight with the aching that was growing very consistently over the years.
+>
+> The proofs were clear, and many. Truth was, he was being as careful as he thought he was. The slipped line of Kryptonite, burning the wrong bones, the demon place being too clean. There were too many evidences, but they didn't know for sure, not yet. He might still have a chance walking out of here as their *friend*.
+>
+> "It was hard to understand. It's hard to explain." Cas wasn't lying when he tried that. It wasn't enough. It was far from enough. Even *he* was still trying to understand, let alone explaining. The tightness on his chest clenched tighter. It felt something buried inside there, somewhere deep deep down, was trying to crawl out, trying to declare itself to the world, to the man standing before him. But he couldn't. He couldn't allow it. He just couldn't. Couldn't let it ruin what they had -- if he still had it. They were friends, after all -- hopefully still.
+>
+> "You got to look at me, man." Dean started, standing at the other side of the fire ring. Every line on his face was screaming disbelief and hurt, and pain, and aching, and something else, everything else that he couldn't quite read clearly. So Cas just read harder, watching his lips thinned, his eyebrows burrowed, his eyes pained. "You got to level with me and tell me what's going on. Look me in the eye and tell me you're not working with Crowley."
+>
+> Cas looked at him, trapped in those eyes, trapped by the silent pleading in there. Dean was praying, he realized, inside his head, silently, probably even unconsciously. *Please, please tell me you're still my friend. Please tell me I can still trust you. Please, Cas. Tell me the truth.*
+>
+> Castiel looked back, straight and unfaltering. He stared into Dean's eyes, answering, quietly, in his head. *This is the truth. I am still your friend. You can still trust me. I'm still me.*
+>
+> The silent gaze lasted for a second, then two seconds. Dean's furrow unfolded ever so slightly. Just a degree. The pain was receding, relief was growing. There was hope, there was so, so much hope in there that Cas couldn't bear.
+>
+> *Cas, please. Don't lie to me. Tell me I'm not wrong about you.*
+>
+> Cas watched fire flickering in Dean's eyes, crackling quietly. He only had to say he wasn't working with Crowley without looking away. It should be easy. It really should. The lie would be to protect them, to protect himself, to protect the deal, the war, Heaven, and the whole world. It was for the good cause, for a good reason. He didn't do anything wrong. He just... worked with Crowley.
+>
+> He looked away.
+>
+> He couldn't lie to Dean. Not this time. Not again. Not even when it was the right thing to do, as he believed. Not even... when it could mean the end of their friendship, everything between them, gone. Not even that. He had to give Dean the truth, like he was asked. As simple as that.
+>
+> And Dean understood.
+>
+> "You son of a bitch," Dean murmured. Hope disappeared, relief disappeared, replaced by pain, only the indescribable pain and mountainous betrayal. The look on his face and in his eyes was so sharp, like blades, but instead of cutting into Cas's heart, it looked like they were slicing open Dean's heart, piece by piece, tearing it apart, forcing it out of his chest. And Cas had to just stand there, watching the imagined blood gushing out from Dean's chest, pained worse than getting himself stabbed and killed.
+>
+> "Let me explain." Cas said, but his voice shattered. The words were pale. Every single syllable felt so hollow that they fell into the fracture between them. For a second, Cas really wanted to step over the fire, reaching out to Dean, touching his shoulder, having his palm of the handprint on Dean's shoulder, telling him everything, everything in his heart, every feeling that he shouldn't be feeling as an angel, just, absolute everything. Because he would be telling him when he stood over the fire, being burned and torched. He could die before Dean's eyes when he finished telling him everything, and never worry about the consequence.
+>
+> But he didn't.
+>
+> He just told them about Raphael, about Heaven, about war, about things that seemed so big and beyond, and also... so unimportant.
+>
+> "I had no choice," Cas said miserably.
+>
+> "No, you had a choice." Dean
 >
 > 
 
@@ -735,9 +793,21 @@ later chaps when writing Crowley's plot: S08E22 Crowley read SPN book, quoting W
 
 > 807 (+all purgatory flashback, both sides) after Cas come back, Dean just stares, stutter "Yeah. Yeah, uh, I got to be honest. I-I-I'm thinking, how the hell did you make it out? I mean, I -- I was there. I-I-I know that place." "Better?" boner
 
+### Act 10 (S08E17)
+
+> 
+>
+> 
+
+<p style="text-align:right">-- <i>"Supernatural: Goodbye Stranger"</i> (2013) by Carver Edlund</p>
+
+#### draft notes
+
+> 817 (+all brainwash flashback) beat up, "I need you"
+
 <br>
 
-### Act 10 (not actual act)
+### Act 11 (not actual act)
 
 Metatron throws the last book (*Pac-Man Fever*) into the pile that he just finished, and sighs with relief that it's the last one of the whole series, published and unpublished. No more torture to continue reading more of that crap. It's just frustrating to keep reading the same thing over and over and over again -- those same two morons doing the same thing for *four freaking years* without making *any* progress? It's really not a good story. It wouldn't even crack the top ten thousand of the metric ton of books he's read in his lifetime just for that fact alone.
 
