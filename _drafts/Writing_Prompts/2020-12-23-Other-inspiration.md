@@ -181,4 +181,54 @@ so, really want River to meet Tardis in human form, e.g. in "The Doctor's Wife",
 
 some arguments "you're not Doctor's wife, I am." River actually calls Tardis "Mother" as well? "You call her Sexy? You didn't even call me Sexy. She (Tardis) is your... mother-in-law!" "Isn't Sweetie good enough?"
 
-### 19.
+### 19.【gelphie】magic becomes discriminated
+
+because magic ability getting connected to the Wicked Witch, now anyone who has magic ability gets prejudiced → turning into *Merlin* AU
+
+dark version, that's after they find out the Wizard doesn't have any real magic, and Glinda doesn't have real magic, and the only other who does is Madam Morrible who's also terrible as (what they believe) the Wicked Witch is
+
+so everyone who has magic is bad, so they start fear and bully and discriminate anyone who shows or even just has tiny hint of magic talent
+
+then someone like a version of Merlin shows up, the whole storyline would be like Merlin-verse, maybe Glinda would still try to do good, maybe Elphie would hear and come back from beyond the Oz, the two have to revolutionize the Oz again.
+
+(inspired by Merlin)
+
+### 20.【gelphie】Glinda finally has magic power
+
+What Glinda wants most but never really has is having magic power. It's also like her childhood trauma when she received the wand birthday gift and pretended to have magic but she knew she never did. That's why she tried so hard to be popular, because deep down she believed because of not having real magic power, being popular and loved by others is her only way of survival and getting other things that she'd want.
+
+And Elphie sees it, tries her best to help Glinda to learn magic (already started doing that by including her in Madam Morrible's class), tries to let her learn that even if she's not popular or loved by everyone, she still has value, sees that Glinda also has trouble understanding unconditional love (for fear of losing people's love is the root cause of her not going with Elphie in "Defying Gravity"). Also part of why she leaves Glinda the Grimoire in the end, hoping the book can help her to learn/have power.
+
+imagine how thrilled and touching and overwhelmed Glinda would be if for some reason one day she suddenly has magic power
+
+maybe grief-triggered? when she's mourning Elphie, her emotion gets too strong, it affects the Grimoire, and when she reads the spell and it works. kinda similar to Nessa reading the spell, maybe the magic power is in their mother's bloodline, or maybe just because her feelings are getting strong enough to cast it (Grimoire can convert/channel emotions to powers? that's the real working mechanism of the Grimoire?) Because Elphie said it's all relying on her now, and the Grimoire is her only hope, to fix the problems, to probably bring Elphie back. Her emotion would also include desperately thinking she can't let Elphie down. (Glinda has always worked so hard to not let anyone down, it's dragging her, burning her out.)
+
+Maybe it's another case of spell goes wrong, Glinda really wants to bring Elphie back (from death, as she believed), but the Grimoire takes it a different way, bringing them back in time or bring her back from the emptiness beyond the Oz.
+
+OR it's a different case/curse fic. There's some sacrifice, Elphie has to choose between magic (her only/strongest talent, her gift, the only thing that makes her feel valued/special) and saving Glinda. Of course she'd choose Glinda, so she willingly gives up her magic. And that choice ends up transferring magic from Elphie to Glinda, so now Glinda is the one with magic power, feeling special and strong and childhood dream fulfilled (and green? not green? green is related to the magic power or not?) what then? how does Glinda/Elphie cope? Would Glinda be willing to return the magic ability back to Elphie? What if that would kill her? Maybe this is under the scenario where Glinda is so sick that she's dying, and Elphie finds out the only way to save her is to channeling her magic power into Glinda, so Elphie did, but then Elphie becomes the dying one, or has some other side effect, and the healed Glinda would in turn to save/heal her. Ending up the two each share half power, like sharing a life (or sharing a heart like OUAT often does)?
+
+(inspired by OUAT/SPN)
+
+### 21.【gelphie】body swap
+
+(inspired by prompt 20 and SPN and OUAT)
+
+during that transfer like in prompt 20, what if Glinda becomes green and powerful and live a day like Elphie, feel what she feels, get treated by everyone else like Elphie is treated, finally for once understand how it feels like to be trapped in a body like that when it seems all everyone sees is just her body and face, and finally fully understand the pain Elphie has always been going through
+
+OR complete true body swap, Glinda walks in Elphie's body (instead of changes on her own body) and experiences more first-handedly vividly. and feel for Elphie deeper and better
+
+### 22.【gelphie】time travel fix-it
+
+(inspired by prompt 20 and Wicked lines)
+
+there are so many places where they keep saying they wish they could go back to the school time when everything feels so easy and still all possible, Nessa/Boq/Fiyero/Galinda/Elphie, everyone had thought about the good school time when they were all just kids.
+
+so there was always a thought thinking Elphie would do a spell and wake up to find they are still in school
+
+(there are many existing time travel fix-it fic on AO3 already, how to make this one different?)
+
+maybe instead of only one of them have memory, make it all of them have memory of the future? feel this canon future is a collective nightmare and each reacts differently? some doesn't believe, some try to do exactly the opposite to avoid, maybe only Elphie knows truly that's real?
+
+how to really fix it?
+
+### 23.
