@@ -5199,4 +5199,16 @@ Cas's trust form is a truly scary monster, like octopus, or bee with huge pointy
 
 Quote from *Wicked*: "Look at me." (looking fondly) "Not with your eyes. With theirs."
 
-### 429.
+### 429.【denny/dennstiel】S08E01 emergency contact
+
+Dean: "You got an emergency, you call me, you understand?"
+
+Dean gets an unexpected call from a hospital, because Benny gets into trouble and unconscious, and Dean is his emergency contact on his phone. hospital staff can't find any other personal information of Benny, not name, not address, not anything, the only thing they can find is his emergency contact
+
+Dean rushes to hospital and only then realizes how much Benny is bonded to him, in a brotherly deep way, it's love there
+
+(canon divergent or modern AU?)
+
+(destiel + denny thropple complication?)
+
+### 430.
