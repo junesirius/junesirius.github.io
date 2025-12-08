@@ -241,7 +241,7 @@ He closes his eyes briefly, and finds the image of the Holy City comes back to h
 
 #### Banner
 
-<a href="tumblr.com" target="_blank"><img src="https://64.media.tumblr.com/8ad9f04ce6557c238ef26a33d35649cb/750b076e1c92b4d9-f9/s2048x3072/10ac16cc107771da9bc5b7ae9cb32f5eb6244f03.pnj" alt="A banner image with Castiel snatches Jimmy Novak at his collar, his eyes glowing, with a blue halo in the shape of angel radio around his head. Castiel's face is fierce, and Jimmy is scared. The two of them wear the same outfit. The title reads 'Evernight', story by JuneSirius, art by pumpci, for Supernatural Rareshp Minibang" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></a>
+<a href="https://archiveofourown.org/works/75378146" target="_blank"><img src="https://64.media.tumblr.com/8ad9f04ce6557c238ef26a33d35649cb/750b076e1c92b4d9-f9/s2048x3072/10ac16cc107771da9bc5b7ae9cb32f5eb6244f03.pnj" alt="A banner image with Castiel snatches Jimmy Novak at his collar, his eyes glowing, with a blue halo in the shape of angel radio around his head. Castiel's face is fierce, and Jimmy is scared. The two of them wear the same outfit. The title reads 'Evernight', story by JuneSirius, art by pumpci, for Supernatural Rareshp Minibang" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></a>
 
 #### Art
 
@@ -249,7 +249,11 @@ He closes his eyes briefly, and finds the image of the Holy City comes back to h
 
 <img src="https://64.media.tumblr.com/b3480727a397af39dcbb76bd0d42d2ce/53f1c813ddf4670b-c1/s1280x1920/ea089e65c0dab4bc948f51a3ff57f3a0f613fbdc.pnj" alt="Separator image with torn feathers" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" />
 
+<img src="https://64.media.tumblr.com/9da9effcd2c4d1cd170ae295dccc2f26/53f1c813ddf4670b-e2/s1280x1920/8a00f411e2aa67272f9afcb339ca317642fffb52.pnj" alt="Separator image with torn feathers" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%" />
+
 <img src="https://64.media.tumblr.com/51b1f9f70c1556a5d809de2c35c1018a/53f1c813ddf4670b-b5/s1280x1920/4965defb9c97a552b828c59efbb99a667ea0e728.pnj" alt="Separator image with burnt feathers" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" />
+
+<img src="https://64.media.tumblr.com/755e9b4a4203e9f4de146a19cfe9c568/53f1c813ddf4670b-8a/s1280x1920/fc9be53825c0300ce709cec63b91d530f8800c41.pnj" alt="Separator image with burnt feathers" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%" />
 
 ### Editing Notes
 
@@ -280,6 +284,7 @@ Chap 6 or 7, before Jimmy/Castiel's death: maybe add the scene with Castiel tort
 <br>
 <hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
 <br>
+
 Jimmy wakes up slowly, blinking in the thin light of the early morning, pale grey through the curtain of the room. The blazing image of the new Jerusalem is still shining in the lingering memory behind his eyelids. He tries hard to remember the details of the holy city, the light and shiny reflections of its walls and ground, the place that doesn't need sun or moon to shine on it, the place with all light and no night -- but the dream slips through his mind like water through open fingers.
 
 He turns on the lamp, and finds one of his hands resting on the Bible on his bedside stand. It must be where the dream comes from, then. He thinks distantly. With all these years of praying and believing, for once, he is granted a vision. However brief, it must be a sign, a reward, to allow him to have a glimpse of the great glory after the ending.
@@ -1782,7 +1787,7 @@ He watches demons tearing his body apart, biting off his arms and legs; he watch
 
 Castiel didn't lie when he said whatever comes next is a thousand times more horrifying.
 
-He'd have been dead fa hundred times if he were just a human, but it seems, now, without fighting against the angel, all those would do is merely tearing their consciousness apart for less than half a second.
+He'd have been dead a hundred times if he were just a human, but it seems, now, without fighting against the angel, all those would do is merely tearing their consciousness apart for less than half a second.
 
 Jimmy sinks back under the water every time when Castiel finds his footing again.
 
