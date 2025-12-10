@@ -11,7 +11,7 @@ long_novels: 【Destiel】I Swear On Castiel's Name
 published: false
 ---
 
-**Tags:** Canon Divergent, S8 Timeline, S08E21, Inspired by *Once Upon a Time*, Curse, Emotional Repression, Mutual Pining, Angst, Yearning, Hurt/Comfort, Canon-Typical Miscommunication, Canon-Typical Anger-Control Issue, Minor Canon-Typical Suicidal Ideation, Meta-Narrative, Eventual Happy Ending
+**Tags:** Canon Divergent, S8 Timeline, S08E21, Inspired by *Once Upon a Time*, Curse Fic, Emotional Repression, Mutual Pining, Angst, Yearning, Hurt/Comfort, Canon-Typical Miscommunication, Canon-Typical Anger-Control Issue, Minor Canon-Typical Suicidal Ideation, Meta-Narrative, Eventual Happy Ending
 
 **Warning:** No Archive Warnings Apply
 
@@ -57,7 +57,7 @@ When in S08E21 Dean/Sam seek Metatron out to ask for his help with Hell trials, 
 
 Dean is devastated, more repressed, keep himself more distant from Cas, disguises it as anger toward Cas even after Cas comes back to bunker after losing angel tablet. Cas is almost pushed away by Dean's angry attitude, almost leaves, but Dean regrets and apologizes immediately, confesses the curse. Cas proposes to sacrifice himself to save Sam and ask Dean to choose the kissing, Dean refuses, and Cas thinks Dean is too unwilling to kiss him.
 
-More aching from both sides, they turn to focus on bring Metatron down. Mean time, Crowley is torturing Kevin and other prophets, without Metatron's help, Kevin isn't saved. Crowley kills Kevin and more prophets, finds demon tablets. Metatron believes Crowley is a threat, seeks out angel tablets, starting Heaven trials, but realizes he needs Cas's grace, so really needs the curse to work.
+More aching from both sides, they turn to focus on bring Metatron down. Mean time, Crowley is torturing Kevin and other prophets, without Metatron's help, Kevin isn't saved. Crowley kills Kevin and more prophets, finds demon tablets. Metatron believes Crowley is a threat, seeks out angel tablet, starting Heaven trials, but realizes he needs Cas's grace, so really needs the curse to work.
 
 Metatron drowns Dean, forcing Cas to make the move. Cas chooses to kiss Dean to help him breathe under water, triggering the curse on Dean's lips, losing his grace to Metatron, becoming human. Dean is more guilty and furious, blaming himself to cause Cas to be human, distancing himself from Cas even more. Cas is more hurt, believing Dean is offended by the kiss and doesn't think he's useful now that he's human.
 
@@ -109,9 +109,19 @@ later chaps when writing Crowley's plot: S08E22 Crowley read SPN book, quoting W
 
 # Draft
 
-## Chap 1 Previously On (Part One)
+## Chap 1 The Book (Part One)
 
 > Meta-narrative: Metatron reads all about Dean/Cas lip-staring as in canon shows but all really happened to them, fast-forward their feelings (written in past tense, mimic Chuck's writing)
+
+A note is left on top of the towering pile of books waiting outside his reading room. It says: "Dear Marv, apologizes for the delay of delivery on this series. The author stopped publishing since three years ago, and it took me and the tribe everything to find all the written but unpublished books. Here are the complete collection of 169 *Supernatural* books, written by Carver Edlund. Please enjoy your reading."
+
+The book pile must be at least ten feet tall, and the reading room barely has enough space to move around. But they are all moved inside very shortly.
+
+He who does nothing but reading, starts reading from the very first one.
+
+And soon, when he starts the fourth series among all eight that he received, his interest intensifies on a new level.
+
+<br>
 
 ### Act 1 (S04E02)
 
@@ -601,7 +611,7 @@ later chaps when writing Crowley's plot: S08E22 Crowley read SPN book, quoting W
 
 <p style="text-align:right">-- <i>"Supernatural: Point of No Return"</i> (2010) by Carver Edlund</p>
 
-## Chap 1 Previously On (Part Two)
+## Chap 1 The Book (Part Two)
 
 ### Act 6 (S06E17)
 
@@ -789,7 +799,7 @@ later chaps when writing Crowley's plot: S08E22 Crowley read SPN book, quoting W
 >
 > "I was there. Where were you?" Dean answered, the lines on his face hardened. The squeaking sound of demons approach rapidly from the night sky, audible through the open window. They don't have much time now.
 >
-> *I was there, too. But I think, we just weren't there for each other.*
+> *I was there, too. But we just weren't there for each other.*
 >
 > *I'm sorry.*
 
@@ -797,9 +807,21 @@ later chaps when writing Crowley's plot: S08E22 Crowley read SPN book, quoting W
 
 ### Act 8 (S07E17)
 
-> 
+> Adrenaline was still pumping high with the fast beating of his heart, Dean pulled the demon blade out and pushed the body down the steps.
 >
-> 
+> His eyes followed the body as it rolled down the stairs, stopping at the man's feet.
+>
+> And he forgot how to breathe.
+>
+> The man looked up slowly, with Castiel's face, his hairs combed down, his eyes wide with startle. "What was that?"
+>
+> There was no sign of recognition in his blue eyes.
+>
+> <br>
+>
+> Dean couldn't find his voice to answer, and he couldn't stop staring.
+>
+> Castiel was in a soft sweater shirt, zips half way down, over a casual blue button-up. He hurried 
 
 <p style="text-align:right">-- <i>"Supernatural: The Born-Again Identity"</i> (2012) by Carver Edlund</p>
 
@@ -837,7 +859,7 @@ later chaps when writing Crowley's plot: S08E22 Crowley read SPN book, quoting W
 
 ### Act 11 (not actual act)
 
-Metatron throws the last book (*Pac-Man Fever*) into the pile that he just finished, and sighs with relief that it's the last one of the whole series, published and unpublished. No more torture to continue reading more of that crap. It's just frustrating to keep reading the same thing over and over and over again -- those same two morons doing the same thing for *four freaking years* without making *any* progress? It's really not a good story. It wouldn't even crack the top ten thousand of the metric ton of books he's read in his lifetime just for that fact alone.
+Metatron throws the last book (*Pac-Man Fever*) into the pile that he just finished, and sighs with relief that it's the last one of the whole series, published and unpublished. No more torture to continue reading more of that crap. It's just getting increasingly frustrating to keep reading the same thing over and over and over again -- those same two morons doing the same thing for *four freaking years* without making *any* progress? It's really not a good story. It wouldn't even crack the top ten thousand of the metric ton of books he's read in his lifetime just for that fact alone.
 
 If *he* is the writer, he has so many more ideas for them.
 
@@ -847,13 +869,13 @@ He would make it a better story.
 
 ### draft notes
 
-**when posting:** all acts put together in the same chapter, separation line with the last meta-narrative Metatron part, all "quoted" contents put into quoting format, "citation" with "book title" (episode names) and author's name align to right. Consider extra new line between every two excerpts.
+~~**when posting:** all acts put together in the same chapter, separation line with the last meta-narrative Metatron part, all "quoted" contents put into quoting format, "citation" with "book title" (episode names) and author's name align to right. Consider extra new line between every two excerpts.~~
 
 ## Chap 2 The Scribe
 
 > S08E21 real timeline (2013.5.1)
 >
-> they find Metatron, ask for help. Metatron doesn't care about trials or Heaven/Hell, refuses to help. Instead, he's been reading all spn books by Chuck "Carver Edlund" and intrigued by destiel subplot. He tricks Dean into saying "I swear on Castiel's name" ("Do you still believe in love? then swear on the person you love the most to prove you still know what love is" Dean's threatened bc desperate to save Sam? want to swear on Sam but Metatron points out he's lying to himself bc that's responsibility), curses Dean's lips just to see a good story, and threatens Dean if he doesn't kiss Cas, Sam dies; if he does, Cas loses his grace/power and becomes human; and the curse can't be reversed or interfered by angel power, if Dean tries, Dean dies.
+> Dean/Sam find Metatron, ask for his help. Metatron doesn't care about trials or Heaven/Hell, refuses to help. Instead, he's been reading all spn books by Chuck "Carver Edlund" and intrigued by destiel subplot. He tricks Dean into saying "I swear on Castiel's name" ("Do you still believe in love? then swear on the person you love the most to prove you still know what love is" Dean's threatened because he's desperate to save Sam. want to swear on Sam but Metatron points out he's lying to himself because that's responsibility, so Dean has to say "I swear on Castiel's name"), curses Dean's lips just to see a good story, and threatens Dean if he doesn't kiss Cas, Sam dies; if he does, Cas loses his grace/power and becomes human; and the curse can't be reversed or interfered by angel power, if Dean tries, Dean dies.
 
 ### Act 1
 
@@ -866,22 +888,28 @@ He would make it a better story.
 
 > S08E21 real timeline (2013.5.1)
 >
-> background Sam bad condition after 2 trials
+> background:
+>
+> Sam was going through three demon tablet trials, is sick and in a really bad condition after the second trial
+>
+> Crowley has Kevin and half of demon tablet, is torturing and about to kill Kevin
+>
+> Cas had angel tablet but then captured and tortured by Naomi and Crowley, Crowley has the angel tablet too
 
 
-> they find Metatron, ask for help. Metatron doesn't care about trials or Heaven/Hell, refuses to help. Instead, he's been reading all spn books by Chuck "Carver Edlund" and intrigued by destiel subplot. He tricks Dean into saying "I swear on Castiel's name" ("Do you still believe in love? then swear on the person you love the most to prove you still know what love is" Dean's threatened bc desperate to save Sam? want to swear on Sam but Metatron points out he's lying to himself bc that's responsibility), curses Dean's lips just to see a good story, and threatens Dean if he doesn't kiss Cas, Sam dies; if he does, Cas loses his grace/power and becomes human; and the curse can't be reversed or interfered by angel power, if Dean tries, Dean dies.
+> Dean/Sam find Metatron, ask for his help. Metatron doesn't care about trials or Heaven/Hell, refuses to help. Instead, he's been reading all spn books by Chuck "Carver Edlund" and intrigued by destiel subplot. He tricks Dean into saying "I swear on Castiel's name" ("Do you still believe in love? then swear on the person you love the most to prove you still know what love is" Dean's threatened because he's desperate to save Sam. want to swear on Sam but Metatron points out he's lying to himself because that's responsibility, so Dean has to say "I swear on Castiel's name"), curses Dean's lips just to see a good story, and threatens Dean if he doesn't kiss Cas, Sam dies; if he does, Cas loses his grace/power and becomes human; and the curse can't be reversed or interfered by angel power, if Dean tries, Dean dies.
 
 ## Chap 3 The Curse
 
 > Dean's devastated, more repressed to keep himself away from Cas, disguises as anger toward Cas even after Cas comes back to bunker after losing angel tablet (gut open by Naomi/Crowley, not recovered as quickly as he'd wish)
 >
-> Cas gets pushed away by Dean's pride and angry attitude, blaming him for everything (like canon S08E21/22), but Dean regrets immediately when Cas's almost pushed to leave
+> Cas gets pushed away by Dean's pride and angry attitude, being blamed by Dean for everything (like canon S08E21/22), but Dean regrets immediately when Cas's almost pushed to leave
 >
 > Dean apologizes and goes soft and asks Cas to stay, confesses the curse
 >
-> they'll research on reversing the curse but lower priority than finding ways to save Sam, Cas agrees to help, but also very hesitantly express he's fine to lose his power, willing to sacrifice his power if it saves Sam, proposing them to kiss
+> They agree they'll research on reversing the curse but it's lower priority than finding ways to save Sam, Cas agrees to help, but also very hesitantly express he's fine to lose his power, willing to sacrifice his power if it saves Sam, proposing them to kiss
 >
-> Dean refuses, Cas mistakes as Dean doesn't want them kiss no matter what, Dean knows he misunderstand but can't correct him, more torn apart
+> Dean refuses, Cas mistakes as Dean doesn't want them to kiss no matter what, Dean knows he misunderstand but can't correct him, more torn apart
 >
 > both self-torturing and painfully mistaken, a lot of miscommunication
 
@@ -896,13 +924,13 @@ He would make it a better story.
 
 > Dean's devastated, more repressed to keep himself away from Cas, disguises as anger toward Cas even after Cas comes back to bunker after losing angel tablet (gut open by Naomi/Crowley, not recovered as quickly as he'd wish)
 >
-> Cas gets pushed away by Dean's pride and angry attitude, blaming him for everything (like canon S08E21/22), but Dean regrets immediately when Cas's almost pushed to leave
+> Cas gets pushed away by Dean's pride and angry attitude, being blamed by Dean for everything (like canon S08E21/22), but Dean regrets immediately when Cas's almost pushed to leave
 >
 > Dean apologizes and goes soft and asks Cas to stay, confesses the curse
 >
-> they'll research on reversing the curse but lower priority than finding ways to save Sam, Cas agrees to help, but also very hesitantly express he's fine to lose his power, willing to sacrifice his power if it saves Sam, proposing them to kiss
+> They agree they'll research on reversing the curse but it's lower priority than finding ways to save Sam, Cas agrees to help, but also very hesitantly express he's fine to lose his power, willing to sacrifice his power if it saves Sam, proposing them to kiss
 >
-> Dean refuses, Cas mistakes as Dean doesn't want them kiss no matter what, Dean knows he misunderstand but can't correct him, more torn apart
+> Dean refuses, Cas mistakes as Dean doesn't want them to kiss no matter what, Dean knows he misunderstand but can't correct him, more torn apart
 >
 > both self-torturing and painfully mistaken, a lot of miscommunication
 
@@ -910,15 +938,15 @@ He would make it a better story.
 
 > Both Dean/Cas more aching/pining, they turn to focus on bring Metatron/Crowley down
 >
-> Mean time, Crowley is torturing Kevin and other prophets. Without Metatron's help, Kevin isn't saved.
+> Mean time, Crowley is torturing Kevin terribly mercilessly and recaptures the rest of the prophets. Without Metatron's help, Kevin isn't saved.
 >
-> Crowley kills Kevin and all the next-in-line hostage prophets he can find because none of them cooperate, but the demons eventually find the other half demon tablet, so now he has the full demon tablet.
+> Crowley kills Kevin and all the next-in-line hostage prophets he can find because none of them cooperate. He sends out demons to look for the other half demon tablet, and is very close to get it (demons already find it, just need to dig it out to give him), which makes him about to be in possession of both angel tablet and demon tablet, which makes Metatron start to concern.
 >
-> Metatron believes Crowley becomes a threat, seeks out angel tablet (find it's in Naomi's), starting Heaven trials/that casting spell to lock Heaven up for his own safety (so Naomi will be cast out too, Metatron can get the tablet) to prevent Crowley to come (kill Nephilim, get Cubit's bow/arrow), but realizes he'll need Cas's grace to complete the spell, so he really needs the curse to work quickly.
+> Metatron believes Crowley becomes a threat, seeks out angel tablet, steals it from Crowley (he can wipe off the angel protection sigils as his scribe's power), starting Heaven trials/that casting spell to lock Heaven up for his own safety to prevent Crowley to come. He starts the first two steps by himself (kill Nephilim, get Cubit's bow/arrow), but realizes he'll need Cas's grace to complete the spell (grace of the angel who falls for human), so he really needs the curse to work quickly.
 >
-> Metatron is annoyed by Dean/Cas's slow pace, pushes them, drowns Dean, forcing Cas to make the move. Cas is forced to make choice, he chooses to kiss Dean under water to help him breathe to save him. The curse is triggered, Cas loses his power to Metatron, becomes human.
+> Metatron has been watching Dean/Cas's progress (similar to canon Chuck storyline as a writer enjoying the story), is annoyed by Dean/Cas's slow pace, decides to push them farther, so he drowns Dean, forcing Cas to make the move. Cas is forced to make the choice, he chooses to kiss Dean under water to help him breathe to save him. The curse is triggered, Cas loses his power to Metatron, becomes human. (One Visual element from here)
 >
-> Dean wakes up, more guilty and furious, "What have you done", finds Cas human now, blames himself to cause Cas to be human, distancing himself from Cas even more. Cas is more hurt, believing Dean is offended by the kiss and doesn't think he's useful now that he's human, tries to prove himself to Dean.
+> Dean wakes up, more guilty and furious, yells at Cas "What have you done", finds Cas human now, blames himself to cause Cas to be human, distancing himself from Cas even more. Cas is more hurt, believing Dean is offended by the kiss and doesn't think he's useful now that he's human, tries to prove himself to Dean.
 
 ### Act 1
 
@@ -929,15 +957,15 @@ He would make it a better story.
 
 > Both Dean/Cas more aching/pining, they turn to focus on bring Metatron/Crowley down
 >
-> Mean time, Crowley is torturing Kevin and other prophets. Without Metatron's help, Kevin isn't saved.
+> Mean time, Crowley is torturing Kevin terribly mercilessly and recaptures the rest of the prophets. Without Metatron's help, Kevin isn't saved.
 >
-> Crowley kills Kevin and all the next-in-line hostage prophets he can find because none of them cooperate, but the demons eventually find the other half demon tablet, so now he has the full demon tablet.
+> Crowley kills Kevin and all the next-in-line hostage prophets he can find because none of them cooperate. He sends out demons to look for the other half demon tablet, and is very close to get it (demons already find it, just need to dig it out to give him), which makes him about to be in possession of both angel tablet and demon tablet, which makes Metatron start to concern.
 >
-> Metatron believes Crowley becomes a threat, seeks out angel tablet (find it's in Naomi's), starting Heaven trials/that casting spell to lock Heaven up for his own safety (so Naomi will be cast out too, Metatron can get the tablet) to prevent Crowley to come (kill Nephilim, get Cubit's bow/arrow), but realizes he'll need Cas's grace to complete the spell, so he really needs the curse to work quickly.
+> Metatron believes Crowley becomes a threat, seeks out angel tablet, steals it from Crowley (he can wipe off the angel protection sigils as his scribe's power), starting Heaven trials/that casting spell to lock Heaven up for his own safety to prevent Crowley to come. He starts the first two steps by himself (kill Nephilim, get Cubit's bow/arrow), but realizes he'll need Cas's grace to complete the spell (grace of the angel who falls for human), so he really needs the curse to work quickly.
 >
-> Metatron is annoyed by Dean/Cas's slow pace, pushes them, drowns Dean, forcing Cas to make the move. Cas is forced to make choice, he chooses to kiss Dean under water to help him breathe to save him. The curse is triggered, Cas loses his power to Metatron, becomes human.
+> Metatron has been watching Dean/Cas's progress (similar to canon Chuck storyline as a writer enjoying the story), is annoyed by Dean/Cas's slow pace, decides to push them farther, so he drowns Dean, forcing Cas to make the move. Cas is forced to make the choice, he chooses to kiss Dean under water to help him breathe to save him. The curse is triggered, Cas loses his power to Metatron, becomes human. (One Visual element from here)
 >
-> Dean wakes up, more guilty and furious, "What have you done", finds Cas human now, blames himself to cause Cas to be human, distancing himself from Cas even more. Cas is more hurt, believing Dean is offended by the kiss and doesn't think he's useful now that he's human, tries to prove himself to Dean.
+> Dean wakes up, more guilty and furious, yells at Cas "What have you done", finds Cas human now, blames himself to cause Cas to be human, distancing himself from Cas even more. Cas is more hurt, believing Dean is offended by the kiss and doesn't think he's useful now that he's human, tries to prove himself to Dean.
 
 **VISUAL:** Dean is drowning under water, Cas dives to kiss him to help him breathe, to save him. Dean's lips brighten up because of curse, Cas's grace leaves him during the kiss.
 
@@ -945,23 +973,23 @@ He would make it a better story.
 
 > Dean has too much guilt thinking it's his fault that Cas becomes human, so he can't forgive himself, can't allow himself to be with Cas, but also because they have kissed, he knows how good it feels to kiss Cas, it truly messes him up, even more than when Metatron cursed him, now it's himself that doesn't allow him to be with Cas. So he continues pining, so does Cas. But they use the actual case and world-saving as distraction. Dean swears they'll figure out how to fix Cas, stop Metatron and Crowley, save Sam; Cas insists on only focusing on the latter two.
 >
-> Dean/Cas go to look for Chuck but can't find him. Cas proves himself useful by knowing the next-in-line prophet is Donatello (doesn't need to be angel to know, the knowledge of all prophets' names are branded to his memory, angel or not, "See, I can still be useful" Cas tries to prove he's still useful, thought being human is why Dean doesn't have interest in him anymore, but that's not true, and Dean knows the miscommunication, painful conflicted)
+> Dean/Cas go to look for Chuck but can't find him. Cas proves himself useful by knowing the next-in-line prophet is Donatello (doesn't need to be angel to know, the knowledge of all prophets' names are branded to his memory, angel or not, "See, I can still be useful" Cas tries to prove he's still useful, thought being human is why Dean doesn't have interest in him anymore, but that's not true, and Dean knows the miscommunication, painful conflicted; also Alfie lied to Crowley when he said the next set of prophets weren't born yet to protect them; with all the other prophets killed by Crowley, Donatello is the next one)
 >
-> Dean/Cas find Donatello before Crowley, four of them come up with a plan to use him as a bait (Donatello agrees/proposes) to trick Metatron and Crowley both think the other have the tablet powerful enough to kill/overpower the other side completely, bring them together (like S04E09, "when Godzilla and Mothra on your ass, best to get out of their way and let them fight")
+> Dean/Cas/Sam find Donatello before Crowley, four of them come up with a plan (Donatello agrees with/proposes it) to use him as a bait to trick Metatron and Crowley to both think the other have the more powerful tablet and is now strong enough to kill/overpower/overthrow the other side completely (Crowley has the full demon tablet now, Metatron has the angel tablet), bring them together (like S04E09, "when Godzilla and Mothra on your ass, best to get out of their way and let them fight")
 >
-> Crowley and Metatron fight (Metatron attacked Naomi, already got angel tablet), both tablets destroyed, Crowley killed Metatron, almost get himself killed too.
+> Crowley and Metatron fight, both tablets crush together and get destroyed, Crowley killed Metatron, almost get himself killed too.
 >
 > Dean risks his life getting the exploded grace from Metatron before he gets torched, feeding Cas's grace back, so Cas is angel again
 >
-> When tablets are destroyed, the power wave heals Sam too (the trial sickness comes from tablet curse/sacrifice).
+> When two tablets crush together and the god power in the tablet are released (it's balanced power from angel/demon side, so very pure and powerful), the power wave heals Sam too (the trial sickness comes from tablet curse/sacrifice).
 >
-> They can let Crowley just die, but at the last moment consider him still useful, so Dean asks Cas to heal Crowley, so now Crowley owes them. Crowley leaves with grudge but not as enemy.
+> They can let Crowley just die, but at the last moment they get soft and consider him still useful, so Dean asks Cas to heal Crowley, so now Crowley owes them. Crowley leaves with grudge but not as enemy.
 >
-> World crisis solved, Dean finally allows himself to reciprocate, revealing he believes he should prove himself to Cas, same as when Cas was human, thinking *he* should be the one to prove to Dean. The two finally use actual words (like Zootopia 2 confession/communication scene). Dean finally considers himself worthy of Cas's love.
+> So now the world crisis is solved, Dean finally allows himself to reciprocate, revealing that he believes he should prove himself to Cas, compensate Cas, same as when Cas was human, thinking *he* should be the one to prove to Dean. The two finally use actual words (a little like *Zootopia 2* confession/communication scene, hashtag *Dean Winchester uses actual words*). Dean finally considers himself worthy of Cas's love.
 >
-> They have to kiss each other deep enough, trying to convince each other they don't have to prove anything, they don't need to seek forgiveness from the other because they're both forgiven, they're both worthy as they are. But both still not quite convinced yet for their own part, they just have to keep affirming to each other, it's still a long way to go for both of them psychologically. They're both unfamiliar with and still can't quite believe unconditional love. But receiving love helps healing. Hopeful happy ending.
+> They have to kiss each other deep enough, trying to convince each other they don't have to prove anything, they don't need to seek forgiveness from the other because they're both forgiven, they're both worthy as they are, whatever they are like. But both still not quite convinced yet for their own part, those self-loathing self-devaluing thought goes deep, they just have to keep affirming to each other, it's still a long way to go for both of them psychologically. They're both unfamiliar with and still can't quite believe unconditional love. But receiving love helps healing. Hopeful happy ending.
 >
-> (during the kiss, joke: "It really doesn't help the trauma memory that our first kiss is a kiss" Dean thinks it might make either one of them hesitate, but both are actually fine. "We just have to make more memories")
+> (Another small angsty twist plot in the middle of the kissing scene, they half-joke: "It really doesn't help the trauma memory that our first kiss was a curse" Dean worries it might make them hesitate when they want to kiss again, but both are actually fine. Cas: "We just have to make more memories")
 
 ### Act 1
 
@@ -973,31 +1001,35 @@ He would make it a better story.
 
 > Dean has too much guilt thinking it's his fault that Cas becomes human, so he can't forgive himself, can't allow himself to be with Cas, but also because they have kissed, he knows how good it feels to kiss Cas, it truly messes him up, even more than when Metatron cursed him, now it's himself that doesn't allow him to be with Cas. So he continues pining, so does Cas. But they use the actual case and world-saving as distraction. Dean swears they'll figure out how to fix Cas, stop Metatron and Crowley, save Sam; Cas insists on only focusing on the latter two.
 >
-> Dean/Cas go to look for Chuck but can't find him. Cas proves himself useful by knowing the next-in-line prophet is Donatello (doesn't need to be angel to know, the knowledge of all prophets' names are branded to his memory, angel or not, "See, I can still be useful" Cas tries to prove he's still useful, thought being human is why Dean doesn't have interest in him anymore, but that's not true, and Dean knows the miscommunication, painful conflicted)
+> Dean/Cas go to look for Chuck but can't find him. Cas proves himself useful by knowing the next-in-line prophet is Donatello (doesn't need to be angel to know, the knowledge of all prophets' names are branded to his memory, angel or not, "See, I can still be useful" Cas tries to prove he's still useful, thought being human is why Dean doesn't have interest in him anymore, but that's not true, and Dean knows the miscommunication, painful conflicted; also Alfie lied to Crowley when he said the next set of prophets weren't born yet to protect them; with all the other prophets killed by Crowley, Donatello is the next one)
 >
-> Dean/Cas find Donatello before Crowley, four of them come up with a plan to use him as a bait (Donatello agrees/proposes) to trick Metatron and Crowley both think the other have the tablet powerful enough to kill/overpower the other side completely, bring them together (like S04E09, "when Godzilla and Mothra on your ass, best to get out of their way and let them fight")
+> Dean/Cas/Sam find Donatello before Crowley, four of them come up with a plan (Donatello agrees with/proposes it) to use him as a bait to trick Metatron and Crowley to both think the other have the more powerful tablet and is now strong enough to kill/overpower/overthrow the other side completely (Crowley has the full demon tablet now, Metatron has the angel tablet), bring them together (like S04E09, "when Godzilla and Mothra on your ass, best to get out of their way and let them fight")
 >
-> Crowley and Metatron fight (Metatron attacked Naomi, already got angel tablet), both tablets destroyed, Crowley killed Metatron, almost get himself killed too.
+> Crowley and Metatron fight, both tablets crush together and get destroyed, Crowley killed Metatron, almost get himself killed too.
 >
 > Dean risks his life getting the exploded grace from Metatron before he gets torched, feeding Cas's grace back, so Cas is angel again
 >
-> When tablets are destroyed, the power wave heals Sam too (the trial sickness comes from tablet curse/sacrifice).
+> When two tablets crush together and the god power in the tablet are released (it's balanced power from angel/demon side, so very pure and powerful), the power wave heals Sam too (the trial sickness comes from tablet curse/sacrifice).
 >
-> They can let Crowley just die, but at the last moment consider him still useful, so Dean asks Cas to heal Crowley, so now Crowley owes them. Crowley leaves with grudge but not as enemy.
+> They can let Crowley just die, but at the last moment they get soft and consider him still useful, so Dean asks Cas to heal Crowley, so now Crowley owes them. Crowley leaves with grudge but not as enemy.
 >
-> World crisis solved, Dean finally allows himself to reciprocate, revealing he believes he should prove himself to Cas, same as when Cas was human, thinking *he* should be the one to prove to Dean. The two finally use actual words (like Zootopia 2 confession/communication scene). Dean finally considers himself worthy of Cas's love.
+> So now the world crisis is solved, Dean finally allows himself to reciprocate, revealing that he believes he should prove himself to Cas, compensate Cas, same as when Cas was human, thinking *he* should be the one to prove to Dean. The two finally use actual words (a little like *Zootopia 2* confession/communication scene, hashtag *Dean Winchester uses actual words*). Dean finally considers himself worthy of Cas's love.
 >
-> They have to kiss each other deep enough, trying to convince each other they don't have to prove anything, they don't need to seek forgiveness from the other because they're both forgiven, they're both worthy as they are. But both still not quite convinced yet for their own part, they just have to keep affirming to each other, it's still a long way to go for both of them psychologically. They're both unfamiliar with and still can't quite believe unconditional love. But receiving love helps healing. Hopeful happy ending.
+> They have to kiss each other deep enough, trying to convince each other they don't have to prove anything, they don't need to seek forgiveness from the other because they're both forgiven, they're both worthy as they are, whatever they are like. But both still not quite convinced yet for their own part, those self-loathing self-devaluing thought goes deep, they just have to keep affirming to each other, it's still a long way to go for both of them psychologically. They're both unfamiliar with and still can't quite believe unconditional love. But receiving love helps healing. Hopeful happy ending.
 >
-> (during the kiss, joke: "It really doesn't help the trauma memory that our first kiss is a kiss" Dean thinks it might make either one of them hesitate, but both are actually fine. "We just have to make more memories")
+> (Another small angsty twist plot in the middle of the kissing scene, they half-joke: "It really doesn't help the trauma memory that our first kiss was a curse" Dean worries it might make them hesitate when they want to kiss again, but both are actually fine. Cas: "We just have to make more memories")
 
 **VISUAL:** Some big explosion magical light comes from two crushing tablets, Dean throws himself toward Cas, both are in the slow motion of falling to the ground. While the light shows that grace is going back into Cas, Cas is has his wings spreading slowly, intuitively trying to protect Dean in the process.
 
-## Chap 6 Next Time On (Epilogue) (optional)
+## Chap 6 The Untold (Epilogue) (optional)
 
-> Dean/Cas read Chuck's books, meta-narrative, going back to one of the old full tension episodes, share some peaceful casual moments (two comedy episodes)
+> (There may or may not be potentially two extra epilogue scenes from S05E14 and S08E08, showing Dean and Cas's casual normal peaceful moments, a little comedy feeling. But doesn't affect the main storyline.)
 >
-> the book eventually helps them understand each other better, see what each other is thinking more clearly, so they use the books as reference to learn more about each other and what they missed/misunderstood
+> Dean/Cas learns Metatron did all that because he read Chuck's books, so they go to read a few books/chapters too, get reminded of those old full-tension episodes, and realize what each other was thinking about back then, because Chuck would write out their thoughts
+>
+> (Writing note for myself: this is intentional in the writing style that, in the fake quoted parts written by Chuck, there are a large amount of thought and switch between two POVs very frequently, since it's literally God POV writing, but after those, when going back to normal narrative, the writing style should switch to mostly stable single-side POV and less straightforward thought process, more reflected from words and actions).
+>
+> So actually, by reading the books, they eventually help them understand each other's thoughts better, see what one another was thinking back then more clearly, so they can use the books as references to learn more about each other's feelings/thoughts and what they missed/misunderstood and fix them.
 
 ### Act 1 (S05E14)
 
@@ -1009,9 +1041,9 @@ He would make it a better story.
 
 #### draft notes
 
-> 514 Dean watch Cas eat happy meal, "making me very happy" (Dean reads Cas's mental thoughts at that time from book)
+> 514 Famine episode: fake quote from the book: Dean watched Cas eating happy meal, Cas: "making me very happy". Current Dean reads Cas's feelings/thoughts at that time from book, Famine made Cas yearn, Cas used the burgers as distraction so he could hide it from Dean and because burgers metaphorically represent Dean in his mind, so Cas was actually hungry about Dean, a lot of yearning/pining. And current Cas reads past Dean’s reactions, Dean was deeply attracted by Cas like that, and didn't have any different behavior because he was already devouring the moment to be with Cas, he was already having those.
 >
-> after finish reading, Dean/Cas go to diner, having meal together (Dean's hungry after reading)
+> After finish reading, Dean gets hungry and they get nostalgic, so Dean/Cas go to diner, have meal together, order burger, have fun easy time together, joke about each other’s flavors
 
 ### Act 2 (S08E08)
 
@@ -1023,8 +1055,8 @@ He would make it a better story.
 
 #### draft notes
 
-> 808 anime episode, after "I'm afraid I'll kill myself" talk, Cas watch anime "I see now, it's hilarious" (Dean reads Cas's mental activity from book, comfort him)
+> 808 anime episode: fake quote from the book, rewriting the anime episode funny scenes, Cas watched TV: "I see now, it's hilarious", their talk, Cas: "If I see what I did in Heaven, I’m afraid I’ll kill myself" Current Dean reads past Cas’s thought, his memory of Heaven, his guilt, the real suicidal ideation, the devastation. Dean has to hug him tight, hold on to him, talk through things using real words. Dean admits past him wanted to talk more at the time if not interrupted by Sam. Cas appreciates the comfort.
 >
-> watch anime together in motel room after finish reading, Cas doesn't get something, Dean explain, or Dean just enjoy gut wrecking laugh, Cas watch him and smile
+> After finish reading, they watch anime together in the motel room, Cas doesn't understand something, Dean explains to him, sometimes Dean just enjoys so much he laughs so hard, like gut-wrecking laugh, Cas enjoys watching him laugh and just smiles. Both healing slowly, quietly, enjoying each other’s company.
 
 ###### [END]
