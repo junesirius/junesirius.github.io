@@ -5211,4 +5211,10 @@ Dean rushes to hospital and only then realizes how much Benny is bonded to him, 
 
 (destiel + denny thropple complication?)
 
-### 430.
+### 430.【Daphne】S07E17 Daphne doesn't know what happened and gets tortured for where Cas is
+
+plot loophole: Daphne never knows Emanuel is Cas and what happens to him later. So canonically Cas remembers who he is when he rides away with Dean, and fails to heal Sam, and directly turns to crazy Cas and stays in the hospital, and goes to Purgatory, and comes back controlled by Naomi, and becomes human, and this and that. From Daphne's POV, she goes to the woods and runs into a man without clothes, gives him clothes and marries him, lives with him for a short while, notices he doesn't need to eat or sleep or breathe and can heal people, they go out to heal people for a short while; suddenly one day this man appears at her doorstep named Dean, and her husband just leaves with this man, and never returns, never a phone, never anything. And if she doesn't get eaten by Leviathans, or killed by fallen angels, or darkness fog on Earth, or sun disappearing, or ghost apocalypse, what would she be doing, what would she think about Cas (and Dean) and what really happened there.
+
+imagine during the Fall, some angel find her and possess her, and find this memory of hers living with Cas, wonder what those other angel would think or feel about.
+
+### 431.
