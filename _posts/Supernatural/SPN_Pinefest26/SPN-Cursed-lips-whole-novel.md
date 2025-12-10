@@ -1041,9 +1041,9 @@ He would make it a better story.
 
 #### draft notes
 
-> 514 Famine episode: fake quote from the book: Dean watched Cas eating happy meal, Cas: "making me very happy". Current Dean reads Cas's feelings/thoughts at that time from book, Famine made Cas yearn, Cas used the burgers as distraction so he could hide it from Dean and because burgers metaphorically represent Dean in his mind, so Cas was actually hungry about Dean, a lot of yearning/pining. And current Cas reads past Dean’s reactions, Dean was deeply attracted by Cas like that, and didn't have any different behavior because he was already devouring the moment to be with Cas, he was already having those.
+> 514 Famine episode: fake quote from the book: Dean watched Cas eating happy meal, Cas: "making me very happy". Current Dean reads Cas's feelings/thoughts at that time from book, Famine made Cas yearn, Cas used the burgers as distraction so he could hide it from Dean and because burgers metaphorically represent Dean in his mind, so Cas was actually hungry about Dean, a lot of yearning/pining. And current Cas reads past Dean's reactions, Dean was deeply attracted by Cas like that, and didn't have any different behavior because he was already devouring the moment to be with Cas, he was already having those.
 >
-> After finish reading, Dean gets hungry and they get nostalgic, so Dean/Cas go to diner, have meal together, order burger, have fun easy time together, joke about each other’s flavors
+> After finish reading, Dean gets hungry and they get nostalgic, so Dean/Cas go to diner, have meal together, order burger, have fun easy time together, joke about each other's flavors
 
 ### Act 2 (S08E08)
 
@@ -1055,8 +1055,8 @@ He would make it a better story.
 
 #### draft notes
 
-> 808 anime episode: fake quote from the book, rewriting the anime episode funny scenes, Cas watched TV: "I see now, it's hilarious", their talk, Cas: "If I see what I did in Heaven, I’m afraid I’ll kill myself" Current Dean reads past Cas’s thought, his memory of Heaven, his guilt, the real suicidal ideation, the devastation. Dean has to hug him tight, hold on to him, talk through things using real words. Dean admits past him wanted to talk more at the time if not interrupted by Sam. Cas appreciates the comfort.
+> 808 anime episode: fake quote from the book, rewriting the anime episode funny scenes, Cas watched TV: "I see now, it's hilarious", their talk, Cas: "If I see what I did in Heaven, I'm afraid I'll kill myself" Current Dean reads past Cas's thought, his memory of Heaven, his guilt, the real suicidal ideation, the devastation. Dean has to hug him tight, hold on to him, talk through things using real words. Dean admits past him wanted to talk more at the time if not interrupted by Sam. Cas appreciates the comfort.
 >
-> After finish reading, they watch anime together in the motel room, Cas doesn't understand something, Dean explains to him, sometimes Dean just enjoys so much he laughs so hard, like gut-wrecking laugh, Cas enjoys watching him laugh and just smiles. Both healing slowly, quietly, enjoying each other’s company.
+> After finish reading, they watch anime together in the motel room, Cas doesn't understand something, Dean explains to him, sometimes Dean just enjoys so much he laughs so hard, like gut-wrecking laugh, Cas enjoys watching him laugh and just smiles. Both healing slowly, quietly, enjoying each other's company.
 
 ###### [END]
