@@ -5217,4 +5217,10 @@ plot loophole: Daphne never knows Emanuel is Cas and what happens to him later. 
 
 imagine during the Fall, some angel find her and possess her, and find this memory of hers living with Cas, wonder what those other angel would think or feel about.
 
-### 431.
+### 431.【Garth/Max】S06E03 After Garth calls the real FBI
+
+Bobby-centric episode: Bobby tells Garth to "call the FBI." "No, not my-FBI, the real FBI. How are you still alive?"
+
+What case is it that Bobby thinks might be a real FBI case? After Garth actually calls the real FBI, what happens after? Real FBI will ask him a lot of questions, and Garth will try to learn a few things about how to be a real FBI? got FBI guys all around his place etc, finding out his fake badges etc., get into trouble? Bobby has to call Winchesters to help get Garth out? (Winchesters will meet Garth earlier than canon timeline then; or some other hunters meet/work with Garth? Tasha Banes's twins? Garth/Max Banes end up together?)
+
+### 432.
