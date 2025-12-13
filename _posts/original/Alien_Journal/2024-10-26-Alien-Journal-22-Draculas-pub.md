@@ -4,7 +4,7 @@ title: 【原创】人类观察日记（22）Dracula's Pub
 date: 2024-10-26 18:19
 categories: ["原创"]
 characters: 
-tags: ["人类", "社会", "生活", "小说", "俄罗斯", "待扩充"]
+tags: ["人类", "社会", "生活", "小说", "俄罗斯", "date", "待扩充"]
 pov: 第一人称
 origin: 个站
 long_novels: 【原创】人类观察日记
