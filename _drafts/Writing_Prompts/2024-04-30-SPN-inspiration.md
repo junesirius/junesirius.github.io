@@ -5223,4 +5223,22 @@ Bobby-centric episode: Bobby tells Garth to "call the FBI." "No, not my-FBI, the
 
 What case is it that Bobby thinks might be a real FBI case? After Garth actually calls the real FBI, what happens after? Real FBI will ask him a lot of questions, and Garth will try to learn a few things about how to be a real FBI? got FBI guys all around his place etc, finding out his fake badges etc., get into trouble? Bobby has to call Winchesters to help get Garth out? (Winchesters will meet Garth earlier than canon timeline then; or some other hunters meet/work with Garth? Tasha Banes's twins? Garth/Max Banes end up together?)
 
-### 432.
+### 432.【Cas/destiel/TFW】S06 Cas changes himself into Fate
+
+(inspired by *The Sandman* season 2, *Fate* and *Destiny*)
+
+Fate sisters have power over or equivalent to God/Death, they can be another power play on the board but they never really did
+
+what if the S6 desperate Cas finds out a way to kill all the Fate sisters and make himself inherit the Fate power, so by the end of S6, instead of becoming God, Cas becomes Fate, and Fate can even decide the destiny of God and Death, making Cas the most powerful being in existence (probably only besides Empty by now)
+
+or maybe somehow Dean finds out a spell to achieve that, after S06E17 *Titanic* episode, Cas comes clean to Dean, Dean tries to help, so after Cas gets threatened by the youngest Fate sister and makes final decision to not only kill her, but also kill all three sisters, they end up replacing them
+
+what if it requires three to become/replace all the Fate sisters, so now Cas/Dean/Sam become Fate brothers, the three are one, do the weaving etc. job, and find out this is way easier and more efficient in keep the world in harmony and kill the monsters and not accidentally weave themselves into the story
+
+it kinda like making the three of them share God power and decide for the whole world's destiny, ultimately decide who is to die and when (ultimately), and they'll have to write down everyone's ending and eventual inevitable death (no matter how long they make them, they can't make all of their friends or everyone immortal), and the three of them would only have each other, no chance of normal life or romance or family or kids, or a way out, they'll be Fate for eternity when the Earth dies and writes the end of Death and all human, they'll still be there, it's lonely and horrible way of life
+
+maybe they'll eventually have some other kids to take over the job, like passing torch, like Garth's kids etc., only then will they retire
+
+(epic length multi-chapter canon divergent)
+
+### 433.
