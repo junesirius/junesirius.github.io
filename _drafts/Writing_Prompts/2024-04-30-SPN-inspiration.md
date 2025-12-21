@@ -5313,4 +5313,18 @@ Dean catches Cas trying to practice tying his tie alone but can't figure it out,
 
 (short fluff domestic scene)
 
-### 441.
+### 441.【Sam/all】S08E10 What if Amelia burns like Jessica
+
+both S0101 and S08E10, Sam doesn't want to leave his then girlfriend (Amelia parallels Jessica), but for family/duty (Dean/Cas needs him), he has to go, after promising to himself he'll come back in two days. He comes back to Jessica after two days but Jessica is killed in fire, he doesn't come back for Amelia. What if he does come back for Amelia, but finds Amelia (and her husband too?) is on the ceiling burning, exactly the scene with Jessica, what will happen then?
+
+It's like we're going back to S01E01 all over again, S08 becomes S01 parallel, both fighting demons, they have thought they have killed Azazel and no one they love should die again like that, but it just happened again. Who's behind this?
+
+And the time is critical, S01E01 Azazel kills Jessica to pull Sam back to hunting, making Sam guilty of living Jessica and doesn't dare to love again for ages. And S08 is the rare chance when Sam thinks he can try to love someone again, and Amelia actually chooses him, so he gets a chance of out, but someone decides he can't be out (ultimately maybe Chuck, but maybe using some proxy like angels?), so now Sam (and Dean/Cas) has to solve the new mystery and new person to revenge.
+
+(maybe even find out new truth about S01E01, Azazel isn't the only/real one who killed Mary/Jessica, even though he said he was, but he's actually lying? protecting/hiding some other forces he's working with? some angel or demon lover?)
+
+(anything to do with Crowley? TFW will probably interrogate Crowley the first to find some lead)
+
+(can be a new season rewrite, canon divergent, canon-like episode format with monsters of the week in between the main plotline)
+
+### 442.
