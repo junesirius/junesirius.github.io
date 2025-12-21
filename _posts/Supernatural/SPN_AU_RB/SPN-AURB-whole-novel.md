@@ -10,7 +10,7 @@ origin: 2025 Destiel AU Reverse Big Bang
 long_novels: 【Destiel】Hallowed Be Thy Name
 ---
 
-Tags: AU - Fantasy, AU - Magic Creatures, Slow Burn, Get Together, Magic Creature Dean, Researcher Castiel, Angst, Eventual Happy Ending, Temporary Main Character Death, Inspired by The Shape of Water
+Tags: AU - Modern Fantasy, AU - Magic Creatures, Slow Burn, Get Together, Magic Creature Dean, Researcher Castiel, Angst, Torture, Abuse, Eventual Happy Ending, Temporary Main Character Death, Inspired by The Shape of Water
 
 Rating: Teen and up
 
@@ -41,41 +41,78 @@ song title of Iron Maiden
 **Song lyrics**
 
 I'm waiting in my cold cell when the bell begins to chime
+
 Reflecting on my past life and it doesn't have much time
+
 'Cause at 5 o'clock, they take me to the Gallows Pole
+
 The sands of time for me are running low
+
 Running low, yeah!
 
+
+
 When the priest comes to read me the last rites
+
 Take a look through the bars at the last sights
+
 Of a world that has gone very wrong for me
 
+
+
 Can it be that there's some sort of error?
+
 Hard to stop the surmounting terror
+
 Is it really the end, not some crazy dream?
 
+
+
 Somebody, please tell me that I'm dreaming
+
 It's not easy to stop from screaming
+
 The words escape me when I try to speak
+
 Tears flow, but why am I crying?
+
 After all, I'm not afraid of dying
+
 Don't I believe that there never is an end?
 
+
+
 As the guards march me out to the courtyard
+
 Somebody cries from a cell, "God be with you"
+
 If there's a God, why has he let me go?
 
+
+
 As I walk, my life drifts before me
+
 Though the end is near I'm not sorry
+
 Catch my soul, it's willing to fly away
 
+
+
 Mark my words, believe my soul lives on
+
 Don't worry now that I have gone
+
 I've gone beyond to seek the truth
 
+
+
 When you know that your time is close at hand
+
 Maybe then you'll begin to understand
+
 Life down here is just a strange illusion
+
+
 
 Yeah-yeah-yeah, hallowed be thy name
 
@@ -183,7 +220,7 @@ Last sentence: "Not that I want to stop, but I really have to prepare for tomorr
 
 ### Editing Notes
 
-Quote lyrics from Iron Maiden's song before each chapter when posting
+~~Quote lyrics from Iron Maiden's song before each chapter when posting~~
 
 ## Main
 
@@ -193,13 +230,23 @@ researcher!Cas x magical creature!Dean
 
 Cas POV
 
-a little religious hinting throughout
+a little religious hinting throughout, repeating theme of God, faith, name
 
 ### Chap 1
 
 > Cas is a researcher in a top security government facility where Dean is a new asset they recently captured from Amazon rainforest, known to be worshipped by the locals as their god. Dean is feral and untamed, aggressive, broken and beautiful, his blood veins glowing faintly through translucent skin. Dean doesn't have a name initially, only has an asset index number (DW-124), Cas is the one named him Dean, and he reacts to the name, so it's also used by others (good people) gradually.
 >
 > Dean is mistreated because of how dangerous he is, constantly punished for attacking those who approach him, electroshocked, beaten a lot. And he gets even worse temper and aggressive after those, a vicious circle. No one wants to approach him and he attacks indistinctively. Except for Cas. Cas treats him kindly, as if he's equal and sentient, teaches him to speak/understand human language. They get close, start understanding each other. Dean is curious and happy every time Cas visits him. Cas is always worried about his safety whenever he's not around and Dean is left with other researchers. So Cas spends more and more time in the lab with him.
+
+*I'm waiting in my cold cell when the bell begins to chime*
+
+*Reflecting on my past life and it doesn't have much time*
+
+*'Cause at 5 o'clock, they take me to the Gallows Pole*
+
+*The sands of time for me are running low*
+
+#### Act 1
 
 
 
@@ -221,15 +268,61 @@ a little religious hinting throughout
 >
 > Cas is religious (thus the cross necklace), as is many researchers/project lead, but they all think the native Americans worshipping a creature like Dean is blasphemy, all the more reasons to diminish him. Dean asks Cas about that once he learns the meaning of the cross and his belief, why Cas still admires him so much. Cas practically shifts his whole belief and faith to Dean because of how much he sees in Dean, realizing god isn't an ethereal deity, but must be something beautiful and powerful and real, like Dean.
 
+*When the priest comes to read me the last rites*
+
+*Take a look through the bars at the last sights*
+
+*Of a world that has gone very wrong for me*
+
+<br>
+
+*Can it be that there's some sort of error?*
+
+*Hard to stop the surmounting terror*
+
+*Is it really the end, not some crazy dream?*
+
+#### Act 1
+
+
+
 <br>
 
 #### draft notes
+
+**VISUAL** from art: Cas holding Dean, Dean is wounded, veins showing
+
+foreshadowing here: Dean has healing power, and other nonhuman mysterious power
 
 ### Chap 3
 
 > The facility security is persistently searching for Dean, and eventually finds him at Cas's house. And Dean's health is deteriorating because he's too far from his native living place, the source of his life force. Cas is ready to set Dean free; Dean wants him to come with; they have some argument. It's painful for both of them, to make the decision, to know the parting is inevitable and close, but Cas makes the decision for the best of Dean (despite how much it pains him).
 >
 > They are at the edge of the woods, saying their farewells, looking at each other lovingly, longingly, and painfully, both heartbroken to know this might be the last time they see each other if they part. Cas touches Dean's face, saying farewell and very close to confession (but still restrained himself) with teary eyes; Dean catches his hand, still insisting he can come with.
+
+*Somebody, please tell me that I'm dreaming*
+
+*It's not easy to stop from screaming*
+
+*The words escape me when I try to speak*
+
+*Tears flow, but why am I crying?*
+
+*After all, I'm not afraid of dying*
+
+*Don't I believe that there never is an end?*
+
+<br>
+
+*As the guards march me out to the courtyard*
+
+*Somebody cries from a cell, "God be with you"*
+
+*If there's a God, why has he let me go?*
+
+#### Act 1
+
+
 
 <br>
 
@@ -238,6 +331,34 @@ a little religious hinting throughout
 ### Chap 4
 
 > Cas is hesitating, torn apart; the chasers (Zachariah & garrison) get into range, shooting them. Cas jumps to protect Dean, gets shot; Dean outrageous, attacks them, putting many down (including the project lead), and gets shot too. They fall down together, Cas uses his last breath to touch Dean's hand and tells him he loves him and dies. Dean desperate, leans in to kiss him, and his blood veins lighten up, more bright than ever -- he's indeed a god-like creature with powers, the native Americans are right about worshipping him. His power gets triggered when he's this desperate and in love and not willing to lose Cas, and he brings Cas back and heals him. They take down all the rest of chasers, and run off to live in the woods together. Cas doesn't hesitate to follow him this time. They'll build a life together in a safe place where they won't be found or harmed, happily ever after.
+
+*As I walk, my life drifts before me*
+
+*Though the end is near I'm not sorry*
+
+*Catch my soul, it's willing to fly away*
+
+<br>
+
+*Mark my words, believe my soul lives on*
+
+*Don't worry now that I have gone*
+
+*I've gone beyond to seek the truth*
+
+<br>
+
+*When you know that your time is close at hand*
+
+*Maybe then you'll begin to understand*
+
+*Life down here is just a strange illusion*
+
+*Hallowed be thy name*
+
+#### Act 1
+
+
 
 #### draft notes
 
