@@ -5303,4 +5303,8 @@ S09 human Cas time, "It's expensive to be poor", you can generally buy cheaper i
 
 (learn from NorthernSparrow's human Cas stories)
 
-### 439.
+### 439.【Charlie/Dorothy+gelphie】Wicked xover（F/F）
+
+Dorothy in SPN is the same Dorothy in Wicked, Charlie/Dorothy is both there when Gelphie needs fix-it
+
+### 440.
