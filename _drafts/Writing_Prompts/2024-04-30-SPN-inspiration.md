@@ -5283,4 +5283,16 @@ Then Dean goes through the Hell trials by himself without telling Jack.
 
 怎么跟人类interact不会不小心把人类弄死，就像小学生生物课玩蚂蚁，有时候就算不想也会一不小心就弄死了，实在是非常脆弱，非常多的accident，小天使们也很exhausted。所以后来才有了规矩一定要有vessel才可以，跟蚂蚁一样高一样大才能有效互动，所以卡开场说的他们要有vessel才能来地球，不是因为天使不能无vessel地存在，是为了保护人类的安全
 
-### 437.
+### 437.【destiel】nightmare of killing the other
+
+(inspired/reminded by my own dream of killing your best friend, it really messes you up, it's really bad)
+
+both are haunted by the nightmare of them killing the other, all bloody and guilty and self-hatred and sorrow and grief, and believe themselves won't be forgiven, wake up crying
+
+not trust themselves to be close to each other
+
+too happy to see each other still alive but too much pain to approach
+
+(a lot of angst)
+
+#### 438.
