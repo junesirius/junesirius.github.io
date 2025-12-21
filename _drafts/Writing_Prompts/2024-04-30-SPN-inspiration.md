@@ -5241,4 +5241,28 @@ maybe they'll eventually have some other kids to take over the job, like passing
 
 (epic length multi-chapter canon divergent)
 
-### 433.
+### 433.【destiel】miscommunication: Dean has an angel-proof sigil, Cas is a little hurt
+
+(canon-typical miscommunication) (all relationship needs/has boundary, even destiel's)
+
+Dean has a box with angel-proof sigil so Cas can't touch or open. Cas finds it but thinks he's fine with it, but actually he's not. Dean doesn't know Cas already found it. Cas gets all messed up by it, imagining things Dean has to hide from him, but also tries to be reasonable enough to know their relationship needs boundary, even if they're really really close, life-death level, soulmate level, they still has/need boundary. And Cas resents himself for not trusting Dean enough.
+
+(maybe write all in therapist POV? can be S13E04 shapeshifter therapist Mia Vallens, the one counsels Jack) Cas goes to therapist about this, gets encouraged to talk to Dean about it.
+
+(maybe therapist journal note format to tell the story)
+
+maybe Dean's also counseling, (new chapter, new counseling session note), feeling too anxious/nervous about proposing, not enough self-esteem/confidence to feel Cas would say yes, still doesn't think he deserves Cas, deep down inside is still very messed up (happen to be seeing the same therapist like Cas, but both of them don't mention their partner's name, so initially the therapist doesn't know she gets both sides of the story) (tag: outsider POV)
+
+(3rd chapter: after the therapist's suggestion) couple therapy, gets it sorted out
+
+(4th chapter:) therapist gets invited to wedding
+
+(5th chapter:) marriage counseling: about kid adoption problem, Dean's hesitation about Jack, doesn't believe he'll be a good father, still gets messed-up daddy issue. Cas has daddy issue too. all of them talk it out
+
+(6th chapter:) teenager counseling with Jack, complaining about overprotective dads, has some concern/difficulty with his big sister (sibling quarrel)
+
+(7th chapter:) family counseling
+
+(can keep this going; can also write like series, each session a series? instead of chapters
+
+### 434.
