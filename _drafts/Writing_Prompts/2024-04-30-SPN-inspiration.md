@@ -5265,4 +5265,18 @@ maybe Dean's also counseling, (new chapter, new counseling session note), feelin
 
 (can keep this going; can also write like series, each session a series? instead of chapters
 
-### 434.
+### 434.【Dean】suicidal Dean actively restart Hell trials
+
+MoC!Dean can go through Hell trials without dying, can have Hell sealed
+
+or post-S15E18 widower Dean can't see the light at the end of the tunnel anymore, so decides to restart the Hell trial (S08E14 quote, because Cas was his light, and now no light), so he thinks he'll die anyway, might as well make some good out of it (the trials all about sacrifice, Cas sacrificed for him, at least he can sacrifice for the world)
+
+### 435.【Dean】S15E20 Dean fakes his death to let Sam live a normal life, he goes to do Hell trials alone
+
+(inspired by Prompt 434)
+
+S15E20 Dean not actually dead, but fake dies to give Sam an out, because he knows Sam wants a normal life but will never have it when he's alive, so this is the only way to let Sam get out to live the life he wants. It pains both of them, but Dean thinks it's necessary, so he does this (maybe gets some help from Jack to get this done, the body Sam burned isn't his real body, Jack made a fake body for Sam to burn)
+
+Then Dean goes through the Hell trials by himself without telling Jack.
+
+### 436.
