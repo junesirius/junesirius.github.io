@@ -5295,4 +5295,12 @@ too happy to see each other still alive but too much pain to approach
 
 (a lot of angst)
 
-#### 438.
+### 438.【destiel】S09 human Cas "it's expensive to be poor"
+
+(inspired by TED talk)
+
+S09 human Cas time, "It's expensive to be poor", you can generally buy cheaper if you buy more, the smaller size the product, actually more expensive they're, so you'll spend more when you're poor, it's counterintuitive and very difficult
+
+(learn from NorthernSparrow's human Cas stories)
+
+### 439.
