@@ -5279,4 +5279,8 @@ S15E20 Dean not actually dead, but fake dies to give Sam an out, because he know
 
 Then Dean goes through the Hell trials by himself without telling Jack.
 
-### 436.
+### 436.【Cas】早期的小天使教学，学习人类有多脆弱
+
+怎么跟人类interact不会不小心把人类弄死，就像小学生生物课玩蚂蚁，有时候就算不想也会一不小心就弄死了，实在是非常脆弱，非常多的accident，小天使们也很exhausted。所以后来才有了规矩一定要有vessel才可以，跟蚂蚁一样高一样大才能有效互动，所以卡开场说的他们要有vessel才能来地球，不是因为天使不能无vessel地存在，是为了保护人类的安全
+
+### 437.
