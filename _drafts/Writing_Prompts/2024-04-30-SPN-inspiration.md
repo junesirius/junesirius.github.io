@@ -5307,4 +5307,10 @@ S09 human Cas time, "It's expensive to be poor", you can generally buy cheaper i
 
 Dorothy in SPN is the same Dorothy in Wicked, Charlie/Dorothy is both there when Gelphie needs fix-it
 
-### 440.
+### 440.【destiel】Dean ties tie for Cas
+
+Dean catches Cas trying to practice tying his tie alone but can't figure it out, Dean goes to help him.
+
+(short fluff domestic scene)
+
+### 441.
