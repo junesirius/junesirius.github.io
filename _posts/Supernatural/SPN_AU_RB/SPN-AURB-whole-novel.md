@@ -38,13 +38,54 @@ religious but switched to be loyal to Dean
 
 song title of Iron Maiden
 
+**Song lyrics**
+
+I'm waiting in my cold cell when the bell begins to chime
+Reflecting on my past life and it doesn't have much time
+'Cause at 5 o'clock, they take me to the Gallows Pole
+The sands of time for me are running low
+Running low, yeah!
+
+When the priest comes to read me the last rites
+Take a look through the bars at the last sights
+Of a world that has gone very wrong for me
+
+Can it be that there's some sort of error?
+Hard to stop the surmounting terror
+Is it really the end, not some crazy dream?
+
+Somebody, please tell me that I'm dreaming
+It's not easy to stop from screaming
+The words escape me when I try to speak
+Tears flow, but why am I crying?
+After all, I'm not afraid of dying
+Don't I believe that there never is an end?
+
+As the guards march me out to the courtyard
+Somebody cries from a cell, "God be with you"
+If there's a God, why has he let me go?
+
+As I walk, my life drifts before me
+Though the end is near I'm not sorry
+Catch my soul, it's willing to fly away
+
+Mark my words, believe my soul lives on
+Don't worry now that I have gone
+I've gone beyond to seek the truth
+
+When you know that your time is close at hand
+Maybe then you'll begin to understand
+Life down here is just a strange illusion
+
+Yeah-yeah-yeah, hallowed be thy name
+
 ### Outlines
 
 #### **Outline 1: researcher!Cas x magical creature!Dean**
 
 (heavy angst, light domestic, potential intimate, ≈ *The Shape of Water*)
 
-Cas is a researcher in a top security government facility where Dean is a new asset they recently captured from Amazon rainforest, known to be worshipped by the locals as their god. Dean is feral and untamed, aggressive, broken and beautiful, his blood veins glowing faintly through translucent skin. Dean doesn't have a name initially, only has an asset index number (DW-124), Cas is the one named him Dean, and he reacts to the name, so it's also used by others (good people) gradually.
+Cas is a researcher in a top security government facility where Dean is a new asset they recently captured from Amazon rainforest, known to be worshipped by the locals as their god. Dean is feral and untamed, aggressive, broken and beautiful, his blood veins glowing faintly through translucent skin. Dean doesn't have a name initially, only has an asset index number (DW-124), Cas is the one who named him Dean, and he reacts to the name, so it's also used by others (good people) gradually.
 
 Dean is mistreated because of how dangerous he is, constantly punished for attacking those who approach him, electroshocked, beaten a lot. And he gets even worse temper and aggressive after those, a vicious circle. No one wants to approach him and he attacks indistinctively. Except for Cas. Cas treats him kindly, as if he's equal and sentient, teaches him to speak/understand human language. They get close, start understanding each other. Dean is curious and happy every time Cas visits him. Cas is always worried about his safety whenever he's not around and Dean is left with other researchers. So Cas spends more and more time in the lab with him.
 
@@ -142,11 +183,17 @@ Last sentence: "Not that I want to stop, but I really have to prepare for tomorr
 
 ### Editing Notes
 
+Quote lyrics from Iron Maiden's song before each chapter when posting
+
 ## Main
 
-> researcher!Cas x magical creature!Dean
->
-> (heavy angst, light domestic, potential intimate, ≈ *The Shape of Water*)
+researcher!Cas x magical creature!Dean
+
+(heavy angst, light domestic, potential intimate, ≈ *The Shape of Water*)
+
+Cas POV
+
+a little religious hinting throughout
 
 ### Chap 1
 
@@ -164,7 +211,7 @@ Last sentence: "Not that I want to stop, but I really have to prepare for tomorr
 >
 > Dean is mistreated because of how dangerous he is, constantly punished for attacking those who approach him, electroshocked, beaten a lot. And he gets even worse temper and aggressive after those, a vicious circle. No one wants to approach him and he attacks indistinctively. Except for Cas. Cas treats him kindly, as if he's equal and sentient, teaches him to speak/understand human language. They get close, start understanding each other. Dean is curious and happy every time Cas visits him. Cas is always worried about his safety whenever he's not around and Dean is left with other researchers. So Cas spends more and more time in the lab with him.
 
-Cas wears glasses
+**VISUAL:** Cas wears glasses, cross necklace
 
 ###### [TBC]
 
