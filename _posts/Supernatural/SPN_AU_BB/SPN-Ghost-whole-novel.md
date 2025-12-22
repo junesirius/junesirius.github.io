@@ -226,6 +226,8 @@ breath comes out in a cold puff
 
 temperature plummet, their breath issuing in a puff
 
+Posting each act as a chapter when posting on AO3
+
 ## Main
 
 ### Chapter 1
@@ -1126,7 +1128,7 @@ Cas sighs quietly, holding out his right hand. The white mist at the end of his 
 
 Dean stares at it, his own fingers hovering around it, wanting to hold his wrist but not daring to touch. He feels a sick wrenching sensation in his gut again. He doesn't know what to do.
 
-"Goddammit, you hurt yourself." Dean rubs his eyes. "How the hell am I supposed to find some ghost bandage for you?"
+"Goddammit, you hurt yourself." Dean rubs his eyes tiredly. "How the hell am I supposed to find some ghost bandage for you?"
 
 Cas takes his hand back. "I'm sure I'll be fine."
 
@@ -1146,7 +1148,9 @@ Dean grins widely at that.
 
 #### Act 3
 
-Dean takes half a day off on Monday morning to go to the accounting firm office. Mr. Adler isn't happy to hear the last minute meeting reschedule, and Dean messages him through the working chat that "he isn't feeling very well."
+> Dean finds out it's Nick by interviewing Cas's coworker and learns more about how good and kind Cas is, Cas remembers these events too
+
+Dean takes half a day off on Monday morning to go to the accounting firm office. Mr. Adler isn't happy to hear the last minute meeting reschedule, and Dean messages him through the working chat that "he isn't feeling very well." Technically, it's not really a lie, he tells himself, he wouldn't be feeling very well if he doesn't help Cas figure this out, because he promised.
 
 The young lady in the front desk, Anna, tells him he can talk with Hannah, Castiel's former coworker, when Dean tells her he's Castiel's friend, here to retrieve some of his office items.
 
@@ -1162,7 +1166,7 @@ Hannah follows his line of sight, apologizing, "We -- had to replace his positio
 
 "I understand," Dean answers in a polite business tone.
 
-The room is neat -- honestly, too empty, if he has to say. The book shelf along the wall is mostly occupied by business books, and the only non-working item on the table is a small pot plant. It's a cute pot that looks almost out of place among everything, with its base looking like a honey pot, overflown with honey dripping from the edge, decorated with a couple of bees. He doesn't know the name of the plant, but it's looking good, big green leaves stretching tall and straight. Dean knows immediately it must be Cas's.
+The room is neat -- honestly, too empty, if he has to say. The book shelf along the wall is mostly occupied by business books and journals, and the only non-working item on the table is a small pot plant. It's a cute pot that looks almost out of place among everything, with its base looking like a honey pot, overflown with honey dripping from the edge, decorated with a couple of bees. He doesn't know the name of the plant, but it's looking good, big green leaves stretching tall and straight. Dean knows immediately it must be Cas's.
 
 He reaches out a hand, just about to point at the plant and ask, when a young man's voice sounds up behind him. "Apologies, Hannah, I didn't know we have client visiting on-site today."
 
@@ -1178,66 +1182,123 @@ Dean turns around. A slim young man in a light blue suit stands behind him, with
 
 Hannah clears her throat. Sammandriel immediately understands, "Sorry, I didn't mean to..."
 
-"It's okay." Dean gives them a professed reassuring smile. "Me and Cas --" he pauses there for a second before continuing smoothly, "I was out of state for a few years, we sort of dropped out of connection. I only recently heard about the tragedy. If you don't mind, I would very much like to know how he's like lately. As you said, he doesn't have many people left to remember him by."
+"It's okay." Dean gives them a professed reassuring smile. "Me and Cas --" he pauses there for a second before continuing smoothly, "I was out of state for a few years, we sort of dropped out of connection. I only recently heard about the tragedy. If you don't mind, I would very much like to know how he was like, in the recent years, the way you knew him. As you said, he doesn't have many people left to remember him by." (Which is also mostly more or less true, he reasons with himself again, so he's not really lying to these people. Plus, he has good reasons.)
 
 Hannah puts a gentle hand on his shoulder. "My condolence, Mr. Smith. Let's talk inside."
 
 <br>
 
-"Castiel was my manager for the past five years," Sammandriel starts. "I only got promoted because he... because the position was vacant."
+"Castiel was my manager for the past five years," Sammandriel starts. "I only got promoted because he... because the position became vacant."
 
 Dean and Hannah sit down on the only two office chairs in the office, Sammandriel has to take out a backup folding chair from the back of the office to seat himself.
 
 "And he was the best manager I've ever met. And the best man, I should say," Sammandriel says, starting to get a little emotional. "Nothing should ever happen to him like that. It's just so unfair."
 
-Hannah nods in agreement. "He was a good man. He usually didn't talk much, but he was very observant at helping people. His work was flawless, he kept good relationship with all his clients. And he helped me getting out a really tricky situation a little more than five years ago, I would never forget."
+Hannah nods in agreement. "He was a good man. He usually didn't talk much, but he was very observant, very good at and willing to help people, always put everything else before himself. His work was flawless, he kept good relationship with all his clients and coworkers. And he helped me getting out a really tricky situation a little more than five years ago, I would never forget."
 
 "What happened?" Dean sits straight, turning to her.
 
-Hannah shakes her head, looking at the window's direction, lost in thought. "A very tough client, you might say. I'm afraid I can't give you the name of the company or the person, we still have company privacy restriction. Just knew that project was initially assigned to me. The client was not happy about our consulting outcome, and they got a little... aggressive. Cas took it over from me, met with the client, and faced all the threat straight on just like a hero."
+Hannah shakes her head, looking at the window's direction, lost in thought. "A very tough client, you might say. I'm afraid I can't give you the name of the company or the person, we still have the company privacy restriction. Just know that project was initially assigned to me. The client was not pleased with our consulting outcome, and they got a little... aggressive. Cas took it over from me, met with the client, and faced all the threat straight on. You could he was the hero of the story."
 
 "Threat?" Dean stares at her, sitting at the edge of the chair. "What kind of threat? Did you call the police?"
 
-"I didn't actually know how it was solved in the end. Just around that time, the client was involved in an thorough investigation, their company was announced broke, and he was sentenced guilty for something. But I always thought it was just something entirely different from our company's business, so I never asked about more details." Hannah looks down at her hands.
+"I didn't actually know how it was solved in the end. Just around that time, the client was involved in a thorough investigation, their company was announced broke, and he was sentenced guilty for something. But that was after our business contract finished, so I always thought it was just something entirely different from our company's business. We don't get nosy in our line of business, so I just never asked about more details." Hannah looks down at her hands, fingers twisting together.
 
 Dean watches her closely. "You never asked Cas about it? How many years did that client get sentenced? Did they hold grudge on him? Anything?"
 
 Hannah can't meet his eyes. "I'm sorry."
 
-"And the police? No one investigated that lead?" Dean's voice starts breaking. The bloody image of the whole family from the coroner's report comes back into his memory. He has to pinch himself in the palm to stay focused.
+"And the police? No one investigated that lead?" Dean's voice starts breaking. The bloody image of the whole family from the coroner's report comes back into his memory. He has to pinch himself to stay focused.
 
-Hannah just shakes her head. "The police asked for his working files and notes, but we didn't know anything else, or hear anything again."
+Hannah just shakes her head. "The police asked for all his working files and journal notes when he passed, but we didn't know anything else, or hear anything again. As far as I know, it was a random homicide, nothing personal with him or company."
 
-Sammandriel wipes the corners of his eyes quietly.
+Sammandriel wipes the corners of his eyes quietly. "We had a small memorial gathering for him, but that's all. I still couldn't believe it."
 
 Dean rises slowly from the chair. "Thank you," he says to them, really means it. "It means a lot to me, and to him, I'm sure, to know he's still remembered."
 
-"He is, and he always will be," Sammandriel says, a little shakenly.
+"He is, and always will be," Sammandriel says, a little shakenly.
 
 Dean shakes hands with them.
 
 He heads to the door, but pauses at the threshold, thinks for a second and turns back. Pointing at the pot plant, he asks Sammandriel, "Is that Cas's plant?"
 
-The young man is a little surprised. "Yes, I believe it is," he answers. "It's always there when I moved into this office, and I've been watering it."
+The young man is slightly surprised, looking up at him with misty eyes. "Yes, I believe it is," he answers. "It's always there since I moved into this office, and I've been watering it."
 
-Dean wets his dried lips. "Would you mind if I ask to have it? It's very important to me, and I would like to have something to remember him by."
+Dean wets his dried lips. "Would you mind if I have it? It's very important to me, and I would like to have something to remember him by."
 
 Sammandriel shares a look with Hannah. Hannah gives him an encouraging nod.
 
-The young man hesitantly strokes the leaves of the plant, before holding it up. "We all are," he says quietly, voice broken. "Sometimes I feel he's still here when I look at it, but..." he straightens his arms to hand over the pot, "you're his friend." He gives a pale smile.
+The young man hesitantly strokes the leaves of the plant, before holding the pot up. "We all are," he says quietly, voice broken. "Sometimes I feel like he's still here when I look at it, but..." he straightens his arms to hand over the pot, "you're his friend. Knowing Cas, I'm sure he'll like you to have it." He gives a faint smile.
 
 Dean almost feels too bad to take the plant, but he still does. "I'll take care of it," he promises, and leaves the office building.
 
 <br>
 
+Dean debates briefly if he should go to work or drop the plant off at home first. He never missed work for nothing or took time off for no reason before, which is how he gets promoted to the director's position in ten short years after graduation, but now he isn't sure if he wants to go to the office to join all those business meetings.
 
+He palms the steering wheel of his loyal Prius, glancing at the plant on the passenger seat. He buckled it with seat belt, and now the bee side is facing him. The leaves shake slightly when wind comes in through the half-dropped window.
+
+"Yeah, I know," Dean talks with the plant, starting the engine. "I'm thinking about him, too."
+
+He drives straight to home. Lunch and work meetings can wait, he has someone waiting for him who'd most likely want to know all those new information he just learned.
+
+Cas is more than delighted to see him, though a little surprised.
+
+"I thought you were working," the ghost hovers to the door when he opens the door with one hand. And his attention is captured by the plant in his hand immediately. "Wait, did you... Is that...?"
+
+Dean drops the key on the table, holding the plant higher, glancing at Cas with a small grin. "I know. Went to your office and found this, thought you'd probably like it."
+
+Cas's eyes gleam with light, shifting his gaze between the leaves, the bees on the pot, and Dean. "I didn't know they kept it, and it was still alive!"
+
+"Right? I know you'd be happy to see something of yours." Dean puts the plant at the center of the dining table.
+
+Cas follows him move into the room, regarding it carefully. "Did you meet some people there? Did they say anything... about me?" His voice is a little unsure at the end, like he's afraid to find out about himself.
+
+Dean pretends he's also just looking at the plant, making sure the base is set steady, but watching Cas from the corner of his eyes. "Yeah, yeah, they did. Actually you have quite many friends, and they miss you."
+
+Cas makes a soft wet sound.
+
+Dean looks up at him, meeting his eyes. "All they were saying was you are a good man, Castiel. You don't deserve any of that. No one does. It's just unfair." His eyes skim through the rusty-colored blood steins on Cas's translucent figure, dropping to the skirt of his trench coat where the bloody color fades into a shallow pink. "But I kinda feel like I already know that before they have to say it."
+
+"But you didn't know for sure," Cas answers quietly, with a small relieved smile. "And I didn't know for sure. Isn't it nice to learn about yourself when you feel like you forget everything about yourself?"
+
+"I wouldn't know," Dean realizes he's been fidgeting the leaves, so he takes his hand back, looking back at Cas.
+
+"What about the case? Did they know anything?"
+
+Dean tells him about the unfriendly, aggressive, and legally guilty client that Hannah mentioned about.
+
+"It's from five years ago, but she couldn't give me a name or anything more specific, guess I'll just have to keep digging." Dean walks toward his briefcase, taking his laptop out.
+
+"If only I can remember, or you can find my notes." Cas watches his moves, adding.
+
+"Yeah, no, they said the police took your working files and notes, afraid the office is quite clean, so is the house." Dean waves at the room briefly, sitting down to start typing again.
+
+Cas stares at him. "Are you not going to work this afternoon? I thought you said you'd only take half a day off."
+
+Dean doesn't look up, already busies himself with page-scrolling. "Well, I'm letting them know that I'm still not feeling very well, which is technically still true, every time I think about what happened to you. And I'm pretty sure they'll live just fine without me for a day or two." *But you are not.*
+
+"And I'm not 'living' at all." Cas air-quotes.
+
+Dean huffs a short laugh. "Stop protesting and come over looking at these things with me. Maybe some name here would ring a bell for you. The sooner we figure this out, the sooner --" he stops abruptly.
+
+"-- you can get rid of me?" Cas supplies tentatively, his shape flickering once.
+
+"-- get over with it." Dean says at the same time.
+
+The silence between them falls awkward. Dean sighs, swiveling in his chair to face Cas, opening his palms in a shrugging gesture. "I don't know what I'm doing, alright? I don't know anything about ghost, so I'm just learning. And, and --" he stutters a little, gesturing at Cas, "-- you don't look comfortable to stay as a ghost. I don't know, something just doesn't look right. So, no, it's not to get rid of you, I'm just trying to do something good, set something right, help people, you know, like you did."
+
+"But I don't even remember what I did," Cas answers. His shape stablizes.
+
+"That's what we'll find out," Dean spins back to the laptop. Cas leans over his shoulder.
+
+<br>
+
+#### Act 4
 
 
 
 #### draft notes
-
-> Cas getting more physical too, able to do more things, finding lost items, diagnosing bad pipe in wall, taking phone call (Dean can call home now to talk with Cas, coworkers/Adler? think he's dating/having partner), rodent problem? (more domestic life)
->
 
 Nick Vaught started a gray-area company (Morningstar Firm), borderline illegal, selling drugs/weapons/stolen objects pretended as toys/artifacts
 
@@ -1245,9 +1306,9 @@ audited by Cas, Cas found out the company's illegal not just financially, so rep
 
 Nick comes out, seeking revenge on Cas, follows him around, murders him, accidentally wakes Jimmy and finds out all Novaks are here, so goes ahead murder the whole family, then escape
 
-Dean finds about Nick (or help Cas to remember to pinpoint him), wants to kill him for Cas. Cas stops him, wants to solve it legally, because if he solves the revenge by violence, he'd be no different from Nick. But they don't have enough evidence to sue Nick or tip him off to the police, all their evidence is supernatural, so they use mental breakdown.
+Dean finds out about Nick (by interviewing his coworkers, hacking into police records, helping Cas to remember to pinpoint him), wants to kill him for Cas. Cas stops him, wants to solve it legally, because if he solves the revenge by violence, he'd be no different from Nick. But they don't have enough evidence to sue Nick or tip him off to the police, all their evidence is supernatural, so they use mental breakdown.
 
-Cas can't move out of the apartment on his own but he can if he possesses Dean (find this out by accident), so Dean lets him possess him to get out of house and follow Nick to his hideout (some dark basement place), haunts him, scares him, let him see the way Cas looked like with all the blood. Nick freaks out, believing it's ghost revenge, start some random exorcise rituals that don't have real impact.
+Cas can't move out of the apartment on his own but he can if he possesses Dean (find this out by accident), so Dean lets him possess him to get out of house and follow Nick to his hideout (some dark basement place), haunts him, scares him, let him see the way Cas looked like with all the blood. Nick freaks out, believing it's ghost revenge, start some random exorcise rituals that don't have real impact, drugging himself more.
 
 Dean and Cas want to continue but Dean notices first that the more he lets Cas possesses him and revenges on Nick, the more vengeful and violent Cas becomes, he researches and realizes revenge can turn ghost into vengeful spirit, so Dean stops Cas to continue, Cas almost wants to force possess Dean, might hurt Dean in the process, and realizes he's really turning vengeful, Cas gets scared of himself and sees Dean's point, but don't want to stop, he's not avenging himself, he's mostly avenging for his whole family. Dean promises to avenge for him.
 
@@ -1255,13 +1316,15 @@ Dean goes to Nick's place and pretends to be ghost himself (without Cas being th
 
 They talk, Cas understands killing Nick doesn't bring Novaks back, but at least the fate has its justice. Move on talking about his future now that he's finished this unfinished business. (Cas stays when Dean recovers from the injury, then stays for the ghost case in the job, just keeps staying)
 
-(Dean to retrieve Cas's ashes?)
+(Dean to retrieve Cas's ashes from the city?)
 
+> Cas getting more physical too, able to do more things, finding lost items, diagnosing bad pipe in wall, taking phone call (Dean can call home now to talk with Cas, coworkers/Adler? think he's dating/having partner), rodent problem? (more domestic life)
 
+> add a small scene Dean checks Cas's hand again, wounded from earlier (VISUAL)
 
 Dean help Cas revenge (find Nick), finish his unfinished business but Cas remain ghost, not gone or released, Dean puzzled (new unfinished business because Cas doesn't want to leave Dean alone)
 
-after Dean manages Nick Vaught, Cas's initial unfinished business is finished, Dean/Cas ready to say goodbye, but Cas not disappear, instead, he's not bound by the loft-only location, means he's not bound by that same old crime-related business, his unfinished business is something else now
+after Dean manages Nick Vaught, Cas's initial unfinished business is finished, Dean/Cas ready to say goodbye, but Cas not disappear, instead, he's not bound by the apartment-only location, means he's not bound by that same old crime-related business, his unfinished business is something else now
 
 Cas now can follow Dean around but still can't get far away from him, suggesting that new unfinished business is tied to Dean, that's how in Chap 4 he can be there helping Dean figure out P. T. Sandover's case and save him from attack, ready to sacrifice for Dean, burn with Sandover together. but Dean burns the glove in time, kill the bad ghost, save Cas
 
@@ -1275,35 +1338,39 @@ Cas now can follow Dean around but still can't get far away from him, suggesting
 >
 > a little accident with salt/iron
 
-<br>
+#### Act 1
+
+
 
 #### draft notes
 
-Dean Smith's life style trajectory change, from healthy extreme sliding towards Dean Winchester's habit, under Cas's influence (S05E14 Cas & red meat); because Cas starts remembering enjoying burger, so Dean orders burger to home, eats "with" him
+Dean Smith's life style trajectory change, from healthy extreme sliding towards Dean Winchester's habit, under Cas's influence (S05E14 Cas & red meat); because Cas starts remembering enjoying burger, so Dean orders burger to home, eats "with" him, the two have sort of like a burger dinner date at home
 
 add an accident where Dean accidentally hits ghost Cas with something iron (an iron pan? kitchen cooking time?), Cas moans & dissipates, Dean panics, rooms feels suddenly too quiet and too empty; Cas comes back the next day, unstable but there: "That was unpleasant"
 
 ### Chapter 5
 
-> Zachariah shows, Dean resigns, Zach thought it's because of Dean's hunter killing instinct, but Dean was thinking about wanting to help Cas, because he cares (Zach let this world continue, hoping to see him start killing)
+> Zachariah shows (as Mr. Adler), Dean resigns, Zach thought it's because of Dean's hunter killing instinct, but Dean was thinking about wanting to help Cas, because he cares (Zach let this world continue, hoping to see him start killing)
 >
 > Dean: has more important things to do, more purpose (he's a lover, not a killer)
 >
-> Zach makes ghost Cas disappear, Dean freak out, Zach wakes him up, remember reality
+> Zach makes ghost Cas disappear, Dean freak out, Zach wakes him up, comes back to reality
 
-<br>
+#### Act 1
+
+
 
 #### draft notes
 
-at last give a small twist: thought it's ghost Cas's unfinished business all along, actually after waking up, turns out it's Dean's unfinished business, he changes his mind and ready to jump back in to save the world again, but only if Cas is with him, he realizes he never let Cas know how important he is in his life, he's not just a random replaceable expandable angel, he care for him deeply, he has to let Cas know
+at last give a small twist: thought it's ghost Cas's unfinished business all along, actually after waking up, turns out it's Dean's unfinished business, he changes his mind and ready to jump back in to save the world again, but only if Cas is with him, he realizes he never let Cas know how important he is in his life, he's not just a random replaceable expandable angel, he care for him deeply, he has to let Cas know (and Cas actually knows, has all the memory of ghost Cas)
 
-Big question: how much does Cas know about Zachariah's AU? how much of that ghost is actually real Cas? Zachariah actually injects Cas's grace inside so it's actually Cas? (left it blank and open?)
+~~Big question: how much does Cas know about Zachariah's AU? how much of that ghost is actually real Cas? Zachariah actually injects Cas's grace inside so it's actually Cas? (left it blank and open?)~~
 
-main revelation: "You'll be who you're supposed to be, they're supposed to be together"
+the lesson Zach wants Dean to learn is "You'll always be who you're supposed to be" in any worlds, but Dean learns main revelation: "You'll always be with who you're supposed to be with, he's supposed to be with Cas together", he makes up his mind to tell Cas how much he cares for him
 
 
 
-How does Zach blow up his cover
+How does Zach blow up his cover:
 
 Zach: Why didn't you get rid of that thing in your place?
 
