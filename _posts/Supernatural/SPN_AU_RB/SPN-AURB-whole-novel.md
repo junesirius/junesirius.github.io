@@ -10,9 +10,9 @@ origin: 2025 Destiel AU Reverse Big Bang
 long_novels: 【Destiel】Hallowed Be Thy Name
 ---
 
-Tags: AU - Modern Fantasy, AU - Magic Creatures, Slow Burn, Get Together, Magic Creature Dean, Researcher Castiel, Angst, Torture, Abuse, Eventual Happy Ending, Temporary Main Character Death, Inspired by The Shape of Water
+Tags: AU - Modern Fantasy, AU - Magic Creatures, Slow Burn, Get Together, Magic Creature Dean, Researcher Castiel, Angst, Torture, Abuse, Eventual Happy Ending, Temporary Main Character Death, Inspired by *The Shape of Water*
 
-Rating: Teen and up
+Rating: Mature
 
 Warning: Graphic Depictions of Violence, Temporary Main Character Death
 
@@ -227,6 +227,12 @@ new setting for Enochian: originated from the native Amazon tribe language, once
 ### Posting
 
 #### Posting Summary
+
+Castiel thinks he's never seen anything more beautiful than this new research asset that just arrived in the facility. This wild creature was captured in the Amazon rainforest, with colors and light flowing through its veins like stars in the Milky Way. It doesn't speak human words or have a name, but it looks into his eyes like it understands.
+
+Mesmerized, Castiel decides, he'll name him "Dean", and he'll not let him die like all the others for the Project Lazarus, no matter how much it might cost him.
+
+And it costs him everything.
 
 #### Excerpt
 
