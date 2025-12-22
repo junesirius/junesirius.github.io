@@ -54,7 +54,7 @@ AU Cas's job: tax auditing manager at PwC (the Big 4 accounting firm, salary $12
 
 AU Jimmy's job: sales provider for AM radio (salary $60-70k), marketing major from UIUC (close to home, public school)
 
-Family: Jimmy (twin), Amelia (in-law), Claire (niece)
+Family: Jimmy (twin older brother), Amelia (in-law), Claire (niece)
 
 Home: Pontiac, Illinois
 
@@ -92,7 +92,7 @@ Nick comes out, seeking revenge on Cas, follows him around, murders him, acciden
 
 Dean finds about Nick (or help Cas to remember to pinpoint him), wants to kill him for Cas. Cas stops him, wants to solve it legally, because if he solves the revenge by violence, he'd be no different from Nick. But they don't have enough evidence to sue Nick or tip him off to the police, all their evidence is supernatural, so they use mental breakdown.
 
-Cas can't move out of the apartment on his own but he can if he possesses Dean (find this out by accident), so Dean lets him possess him to get out of house and follow Nick to his hideout (some dark basement place), haunts him, scares him, let him see the way Cas looked like with all the blood. Nick freaks out, believing it's ghost revenge, start some random exorcise rituals that don't have real impact.
+Cas can't move out of the apartment on his own but he can if he possesses Dean (find this out by accident), so Dean lets him possess him to get out of house and follow Nick to his hideout (some dark basement place), haunts him, scares him, let him see the way Cas looked like with all the blood. Nick freaks out, believing it's ghost revenge, start some random exorcise rituals that don't have real impact, drugging himself.
 
 Dean and Cas want to continue but Dean notices first that the more he lets Cas possesses him and revenges on Nick, the more vengeful and violent Cas becomes, he researches and realizes revenge can turn ghost into vengeful spirit, so Dean stops Cas to continue, Cas almost wants to force possess Dean, might hurt Dean in the process, and realizes he's really turning vengeful, Cas gets scared of himself and sees Dean's point, but don't want to stop, he's not avenging himself, he's mostly avenging for his whole family. Dean promises to avenge for him.
 
@@ -103,6 +103,8 @@ They talk, Cas understands killing Nick doesn't bring Novaks back, but at least 
 ### Resources
 
 Ghostfacers actual instruction video on Youtube: https://www.youtube.com/watch?v=32NFgA1MPEU
+
+BGM (from S04E17 intro): "A Well Respected Man" by *The Kinks*: https://www.youtube.com/watch?v=N8LFXEfbxdw
 
 ### Script reading notes
 
@@ -422,7 +424,7 @@ Not that he can't afford another night in the hotel, but double-paying hotel *an
 
 *This is ridiculous,* he tells himself, *what he thinks he saw couldn't be real.* They live in a world of science.
 
-Simply keeping distance from the disturbing source of trouble would sometimes make the situation look less insane and more optimistic by itself. It works the same for the calming time before quarreling couples go into divorce, as it's the same for a mysterious mischievous room. Which must be the case why Dean feels his courage growing back slowly.
+Simply keeping distance from the disturbing source of trouble would usually make the situation look less insane and more optimistic by itself. It works the same for the cool-down period before quarreling couples go into divorce, as it's the same for a mysterious mischievous room. Which must be the case why Dean feels his courage growing back slowly.
 
 He opens the door carefully, scanning the quiet room.
 
@@ -512,7 +514,7 @@ He holds back the pull at the lips, feeling the tight muscle on his shoulders st
 
 The ghost tilts his head slightly, as if in appreciation. "It's ok," he says, gentle. "It's not your fault."
 
-Dean is truly amused, this time. He walks into the room by a few steps, turning on the dining room light, taking a better look at the ghost.
+Dean is truly amused this time, having to wipe his face to hide the unavoidable chuckle. He walks into the room by a few steps, turning on the dining room light, taking a better look at the ghost.
 
 He looks pale, but Dean is not sure if he was like this all along or being a ghost would simply have the decoloring effect. His lips are thin and tight, puckering into a sad line. His hair is unraveling, his eyes are bright blue, not shadowed even by the ghostly dim. If Dean is honest with himself, the man looks quite attractive as he is, if only he's not a ghost. But the splattering blood stain on his trench coat doesn't stop reminding him.
 
@@ -522,7 +524,7 @@ The ghost nods, seriously. "I think so too." As if they're talking about some ot
 
 Dean finds it hard to ignore his eyes even if he tries to, as if the most heavy thing this ghost has, is the weight of his stare. He holds the stare for a long minute, a familiar sense of being seen, being watched, being observed, comes back.
 
-Dean swallows, suddenly realizing. "That's you hanging around, haunting me the last few days, aren't you? When I couldn't see you? Dude, it's freaking creepy! I got insomnia, and... and headache and all. You scared the shit out of me!"
+Dean swallows, suddenly realizing. "That's you hanging around, haunting me the last few days, aren't you, when I couldn't see you? Dude, it's freaking creepy! I got insomnia, and... and headache and all. You scared the shit out of me!"
 
 The ghost looks ashamed, shifting eyes, then shifting his whole shape, his figure flickering violently as if he's going to disappear just because of the shame he's bearing and radiating. "Sorry," then, "I truly didn't mean to make you comfortable." The color of the white fog that forms him start dimming, slowly showing the trend of sinking into invisible transparency.
 
@@ -536,9 +538,9 @@ Dean touches the back of his neck. Uneasy. "I mean, you'll still be here even if
 
 The ghost contemplates on it for a moment. "I guess. But I wouldn't know if I'm still me when I'm invisible, when I can't even sense my own existence. Which leads to a philosophical question: what is *being*?"
 
-"Can we not go into metaphysics and philosophy? Reading those always make my head hurt, and I only do them because of college credits," Dean protests. The ghost complies in silence, lips compressed together.
+"Can we not go into metaphysics and philosophy? Reading those always make my head hurt, and I only did them for college credits," Dean protests. The ghost complies in silence, lips compressed together.
 
-"I can use some company too, not like I have many people to talk to outside of work." He gives another quick glance around the apartment. This is a big place. Big, and full of empty space.
+"I can use some company too, not like I have many people to talk to outside work." He gives another quick glance around the apartment. This is a big place. Big, and full of empty space.
 
 "I'm happy to stay," the ghost says. "Not like I have anywhere else to go."
 
@@ -548,7 +550,7 @@ Dean raises an eyebrow. "You can't leave this place? At all?" He gestures at the
 
 Dean huffs in sympathy. "Sounds no fun. Did you try 'Beetlejuice'?"
 
-The ghost quirks his head, blank look. "I don't understand that reference."
+The ghost quirks his head, a blank look. "I don't understand that reference."
 
 Dean makes a short laughing sound. "Bad joke, sorry. A weird old movie though, watched it when I was maybe ten. But guess Tim Burton can't be a reliable ghost 101 guide."
 
@@ -558,7 +560,7 @@ Dean makes a short laughing sound. "Bad joke, sorry. A weird old movie though, w
 
 "I guess not." The thin white fog fluctuates, dissipating and reemerging on the edge like the rhythms of sea waves, like a human breathing. "What should I call you then?"
 
-"Dean," Dean says easily, clenching and unclenching his hand. "I would shake your hands if you are not... you know."
+"Dean," Dean says easily, motioning to his right hand, clenching it in the gesture of shaking hands. "I would shake your hands if you are not... you know."
 
 The ghost nods understandably. "It's okay. Hello, Dean."
 
@@ -590,7 +592,7 @@ Dean checks their website and resumes. Their experiences seem to have a solid tr
 
 Dean clicks open one of their headline how-to videos titling "Ghost Introduction." The unprofessional -- in his businessman's customary mind -- unshaped opening lines delivered by the two boys who look barely out of school make him almost want to close the page five seconds in, but curiosity makes him stay. Besides, the ghost that is right by his side looks highly concentrated on what they're going to say.
 
-Dean does not make any remark and keeps watching.
+Dean does not make any remark, just keeps watching.
 
 "The first step in any supernatural fight:" they say, then a lot more loudly together with the same words blink huge and dramatically on the center of the screen -- "Figure out what you're up against."
 
@@ -628,7 +630,7 @@ They work with what they know, which isn't a lot, but -- "Even the smallest hint
 
 "I don't know, just doing a little divergent thinking here, might give us some ideas.")
 
-*\- Can't leave house → died inside this loft?*
+*\- Can't leave house → died inside this apartment?*
 
 ("Got the idea from 'Beetlejuice' again, sorta make sense."
 
@@ -654,13 +656,15 @@ They work with what they know, which isn't a lot, but -- "Even the smallest hint
 
 <br>
 
+Dean chews the back of the pen, mindlessly drawing a circle around the word "blood". He glances at Castiel.
+
 "Come over here." Dean waves him over, tuning the floor lamp to the maximum lumination, scrutinizing the blood stains more closely, studying their distribution and shape and quantity.
 
 His brain does the automatic analysis: cutting which vein can cause a splatter like this -- a broken artery can pump the spluttering blood as high as ceiling, a vena usually drip downwards instead of upwards unless they are close to heart atrium. The amount of blood and shape and direction of the splatter means...
 
 The mind process startles Dean even himself. *How the hell does he know all those things?*
 
-"Looks like more than one victim to me," he finds his lips moving, giving the verdict of a conclusion. "And the weapon might be something sharp, blade perhaps? Stabbed right into the heart."
+"Looks like more than one victim to me," he hears his lips saying, giving the verdict of a conclusion. "And the weapon might be something sharp, blade perhaps? Stabbed right into the heart. Aimed to kill. There's something else..."
 
 He hesitates there. The ghost meets his gaze. "What?"
 
@@ -674,9 +678,9 @@ But his gut wrenches at the idea, as if merely considering the possibility has m
 
 The ghost looks greatly relieved at hearing that. "Thank you, Dean."
 
-Dean wants to say some more. *You don't look like a killer to me. You didn't actively try to murder me before I knew you were there.* But what does he know what a killer looks like? He doesn't even like watching horror movies with ghosts in it. And he certainly doesn't want to accidentally say the wrong thing that triggers the "non-killer" ghost suddenly turn into a killer one just because his inappropriate words offend him, or worse, upset him too much that he disappears.
+Dean wants to say some more. *You don't look like a killer to me. You didn't actively try to murder me before I knew you were there.* But what does he know what a killer looks like? He doesn't even like watching horror ghost movies. And he certainly doesn't want to accidentally say the wrong thing that triggers the "non-killer" ghost, making him suddenly turn into a killer one just because his inappropriate words offend him, or worse, upset him too much that he disappears.
 
-So Dean just bites his tongue, and turns back to the list he was working on, staring at it, drafting lines and circles mindlessly on the written words, adding more notes, then suddenly realizing something. He draws two circles and one line connecting "can't leave house" and "more than one death", a new arrow leading to a new thought: "past resident accidents".
+So Dean just bites his tongue, and turns back to the list he's working on, staring at it, drafting lines and circles mindlessly on the written words, adding more notes, then suddenly realizes something. He draws two circles and one line connecting "can't leave house" and "more than one death", a new arrow leading to a new thought: "past resident accidents".
 
 Dean breathes out long, relaxed like he just finished the Saturday's crosswords in the New York Times.
 
@@ -740,7 +744,7 @@ He turns to the ghost -- it's Castiel now, now that he knows his name. But he do
 
 "Hey," Dean murmurs, checking Castiel's looks. "You okay?"
 
-Castiel's ghostly shape flickers violently, like the last time he tried to think about the words too hard, or understood the situation of his own life and death -- whenever he's emotional, whenever he's thinking too hard. Dean can't help noticing the pattern. It doesn't matter his face is stoic, the flashing and flickering says enough of how many thoughts and emotions are happening inside him.
+Castiel's ghostly shape flickers violently, like the last time he tried to think about words too hard, or understood the situation of his own life and death -- whenever he's emotional, whenever he's thinking too hard. Dean can't help noticing the pattern. It doesn't matter his face is stoic, the flashing and flickering says enough of how many thoughts and emotions are happening inside him.
 
 "Hey, hey, Castiel. Don't wear yourself out. Just, breathe." Dean hurries, then kicks himself in the mind for the stupidity of the suggestion. But it seems Castiel understands his effort.
 
@@ -750,7 +754,7 @@ The shape swings and shakes, the desk lamp blinks, dimming and brightening; Cast
 
 "I'm really sorry." Dean feels terrible, and even worse, he doesn't know what to do. Should he comfort the ghost? Should he do something to help the ghost... live better? Or die better? Anything at all?
 
-"They're all dead. Even Claire. She's only ten! Who could have done that?!" Castiel looks at Dean, his eyes piercing through his skull, heated with fury and pain.
+"They're all dead. Even Claire. She's only twelve! Who could have done that?!" Castiel looks at Dean, his eyes piercing through his skull, heated with fury and pain.
 
 Dean swallows hard. "I -- I don't know, and it looks like not even the police can do anything to help figure that out."
 
@@ -780,9 +784,9 @@ Dean finds himself in the stubborn stare contest with Castiel again, unable to m
 
 "Are you going to burn my remains and make me disappear permanently?" Castiel asks quietly, not showing any sign of anger, just sad.
 
-"No!" Dean blurts out without thinking. And it's true. With all the new information he just learned about "how to handle a supernatural ghost situation", he is not remotely thinking about getting rid of Castiel who's hanging around his place (which, by the way, was his own house before), no more than three feet away from him. He finds himself not afraid of him at all, especially with his bright blue eyes locked on him. Castiel looks more human than any ghost he would imagine, except for the rare times when he's apparently having some storm of thoughts and emotions flowing through and his shape flickers, or when Dean forgets he's not human and tries to touch him, that's when he's reminded.
+"No!" Dean blurts out without thinking. And it's true. With all the new information he just learned about "how to handle a supernatural ghost situation", he is not remotely thinking about getting rid of Castiel, who's just hanging around his place (which, by the way, was his own house before), no more than three feet away from him. He finds himself not afraid of him at all, especially with his bright blue eyes locked on him. Castiel looks more human than any ghost he would imagine, except for the rare times when he's apparently having some storm of thoughts and emotions flowing through and his shape flickers, or when Dean forgets he's not human and tries to touch him, that's when he's reminded.
 
-"I think we have a bigger problem than you being a ghost," Dean explains. "I think the world would be a better place if the killer is gone, instead of you. Besides, didn't the report say you and your family were cremated? So there wouldn't be any remains to burn anyway, you'll just have to hang around here and stuck with me a bit longer while we figure this out."
+"I think we have a bigger problem than you being a ghost," Dean explains. "I think the world would be a better place if the killer is gone, instead of you. Besides, didn't the report say you and your family were cremated? So there wouldn't be any remain to burn anyway, you'll just have to hang around here and stuck with me a bit longer while we figure this out."
 
 Castiel widens his eyes. "You'll do that for me?"
 
@@ -797,6 +801,8 @@ Castiel's eyes are so big and glimmering that they would be filled with tears if
 > Dean/Cas (both) start learning about ghost 101 (iron, salt) from daily life accidents, a little bit human/ghost domestic life, start getting close
 >
 > Dean try to help Cas revenge/find peace, search evidence to pinpoint his killer
+>
+> Dean gets justice/revenge eventually for Novaks
 
 #### Act 1
 
@@ -806,7 +812,7 @@ Dean sighs, turns off the laptop, and drags himself to bed, wondering briefly if
 
 But at least now that he knows what -- who -- is out there in the dark, hanging around the apartment, and glancing at him once in a while, Dean's concern of the darkness is completely eliminated.
 
-"Would you mind not stay in my room when I'm changing or trying to sleep?" Dean says, with his eyes closed, facing the ceiling. He swears he can hear the sound of something extremely like clothes rubbing. But it might just be air flow fluttering the clothes in the closet.
+"Would you mind not stay in my room when I'm changing or trying to sleep?" Dean says, with his eyes closed, facing the ceiling. He swears he can hear the sound of something extremely like clothes rubbing. But it could also just be air flow fluttering the clothes in the closet.
 
 "Sorry," Castiel answers quickly, his voice floating farther away, moving through the bedroom wall, into the kitchen. "I'll just, stay here then."
 
@@ -852,9 +858,9 @@ Dean raises his eyebrows. "You want to help make me some coffee."
 
 That's a statement, not a question.
 
-Castiel is unsure if he should answer. He looks up, hesitant. "Yes. You agree to help find the person who killed me. I thought the least I can do is make you some coffee."
+Castiel is unsure if he should answer. He looks up, hesitant. "Y-Yes. You agreed to help find the person who killed me and my family. I thought the least I could do is to make you some coffee."
 
-Dean smiles, turning to make himself the coffee, pouring the beans into the grinder and the powder into the coffee machine. When the room starts flowing with the sweet, bitter smell of freshly brewed coffee, he says, "Thanks for the effort, Cas. But don't stress out, I won't ask you to share the rent or anything."
+Dean smiles, turning to make himself the coffee, pouring the beans into the grinder and the powder into the coffee machine. When the room starts flowing with the sweet fragrance of freshly brewed coffee, he says, "Thanks for the effort, Cas. But don't stress out, I won't ask you to share the rent or anything."
 
 Castiel simply nods. A tight smile.
 
@@ -878,7 +884,7 @@ A man knocks on his office door. "You get a minute?"
 
 Dean takes off the earphone in a hurry, standing up from behind his desk, pulling a big grin. "Yes, of course, Mr. Adler."
 
-His superior, the senior VP of the company, steps into his office. The man has so many years of experience in the industry that people can just tell from the way his forehead shines or his body holds up that starched-up suit.
+His superior, the senior VP of the company, steps into his office. The man has so many years of experience in the industry that people can just tell from the way he stands or walks. His body holds up that starched-up suit like it has been doing that exact job for eternity.
 
 "How are you setting in, Dean?" the man asks, eyes cutting into Dean like he can see through everything inside his brain. Dean feels there is nowhere to hide beneath those x-ray eyes, sharp like eagle, yet he's still just grinning warmly as if he's someone's friendly uncle. "New city, new job, hope there is no hassle?"
 
@@ -886,7 +892,7 @@ His superior, the senior VP of the company, steps into his office. The man has s
 
 "Thought I saw you looking tired last few days. Hopefully not burning out so quickly?" Mr. Adler observes, leaning in closer.
 
-Dean gives a light chuckle. "Nothing to worry about, just a new bed. It's getting a lot better now. Last night I slept like a baby."
+Dean gives a tight chuckle. "Nothing to worry about, just a new bed. It's getting a lot better now. Last night I slept like a baby."
 
 "Good to hear. Let me know if you need anything, alright?" Mr. Adler pats on his shoulder. "Good work, Dean. Really important work here."
 
@@ -902,7 +908,7 @@ Pressing the elevator button hard, marching to his Prius, driving home in the en
 
 Dean doesn't realize he's holding his breath when he turns on the light. It's not like he's expecting a partner or a cooked dinner on the table, right?
 
-But he does find Castiel standing by the window, staring outside. The river flows underneath, stretching from one side to the other, reflecting the night light from the buildings and traffic by its shores. The darkness and starry night light makes his figure look more solid, as if just a human standing by the window, enjoying the penthouse view, waiting for someone to join him.
+But he does find Castiel standing by the window, staring outside. The river flows underneath the building, stretching from one side to the other, reflecting the night light from the buildings and traffic by its shores. The darkness and starry night light makes his figure look more solid, as if just a human standing by the window, enjoying the penthouse view, waiting for someone to join him.
 
 "You're still here," Dean says with a relieved exhale, closing the door and dropping the key on the table.
 
@@ -926,7 +932,7 @@ He leans his back on the counter while waiting. Cas hovers around the fridge, lo
 
 Dean breaks the silence. "So what did you do today? Anything interesting?"
 
-"There is a bird outside of the window in the morning." Cas looks at him in the eyes now. "I was worried that would be a window strike, but it turns out the bird was just curious to see what's inside the room, I think. I wonder if it saw me."
+"There was a bird outside the window in the morning." Cas looks at him in the eyes now. "I was worried that would be a window strike, but it turned out the bird was just curious to see what was inside the room, I think. I wonder if it saw me."
 
 Dean amuses with a short laugh. "Do you think it would get frightened if it found out you're a ghost?"
 
@@ -942,15 +948,15 @@ Cas hesitates at the threshold between living room and dining room.
 
 Dean takes a bite at the dinner, noticing the stare now. Scooting over on the sofa, he leaves half the space empty. A silent invite.
 
-It turns out ghosts can sit -- or at least, make the posture that looks like so. Cas sits on the empty side of the sofa, carefully not touching the spaces taken by Dean. He looks at the TV.
+It turns out ghosts can sit -- or at least, make the posture that looks like so. Cas sits on the empty side of the sofa, carefully not touching the spaces taken by Dean. He looks at the screen.
 
 There are some baseball game playing on it right now.
 
-Dean looks at it, but soon finds he's totally not following the game. Not the points of the two sides, not even who are the two teams.
+Dean looks at it too, but soon finds he's totally not following the game. Not the points of the two sides, not even who are the two teams.
 
-He glances at Cas from the corner of his eyes. He clears his throat. "Did you use to watch games like this?"
+He glances at Cas from the corner of his eyes far too many times. Dean clears his throat. "Did you use to watch games like this?"
 
-"I don't watch sports often," Cas tells him. "My brother, Jimmy, was more interested. He used to take Amelia and Claire to live games if they happened to be in the town and they had an available weekend. I think Claire loved it too."
+"I don't watch sports often," Cas tells him, turning his head. "My brother, Jimmy, was more interested. He used to take Amelia and Claire to live games if they happened to be in the town and they had an available weekend. I think Claire loved it too."
 
 "What do you watch then?" Dean finds himself curious to know.
 
@@ -958,13 +964,13 @@ He glances at Cas from the corner of his eyes. He clears his throat. "Did you us
 
 "Yeah it does sound beautiful." Dean can't help answering, and automatically prompting more questions. "Did you use to live alone? Like having dinner alone, watching TV alone, going to bed alone?" He pauses there for a second, adding. "Sorry, I didn't mean to intrude." He lets out a short huff, embarrassed.
 
-"It's okay," Castiel answers gently. "It's not like a ghost has much privacy or secret that still worth protecting anyway." Dean opens his mouth wanting to disprove, but Castiel carries on. "Yes, I lives -- lived -- alone. But it's not bad at all, I enjoy the solitary. I'm close to my brother, but we still have our different lives."
+"It's okay," Castiel answers gently. "It's not like a ghost has much privacy or secret that still worth protecting anyway." Dean opens his mouth wanting to disprove, but Castiel carries on. "Yes, I lives -- lived -- alone, here. I got this sofa, this TV, everything in here. Used to having my dinner in front of TV just like you are. It wasn't bad at all, actually, I enjoyed the solitary. I was close to my brother, but we still had our different lives."
 
-"Yeah, I'm the same with my family," Dean tells him. "I have a little sister, Jo. Still in school, pain in the ass. We're close growing up, but now that I moved to this new city, we mostly just talk over the phone now. I'm okay with the room being quiet too, in fact sometimes I think this is the only quietness I could ever get when I finally don't have to share a room with that little monster."
+"Yeah, I'm the same with my family," Dean tells him. "I have a little sister, Jo. Still in school, pain in the ass. We're close growing up, but now that I moved to this new city, we mostly just talk over the phone now. I'm okay with the room being quiet too, in fact sometimes I think this is the only quietness I could ever get, since I finally don't have to share a room with that little monster."
 
-Castiel chuckles. "I remember when Claire was much younger, we call her little monster too. Sometimes she would quite literally tear the whole room apart, the toys would be scattered everywhere, parts by parts, but other times she was just like a small angel." His voice gets lower. Dean knows exactly what's in his mind.
+Castiel chuckles. "I remember when Claire was much younger, we called her little monster too. Sometimes she would quite literally tear the whole room apart, the toys would be scattered everywhere, parts by parts, but other times she was just like a small angel." His voice gets lower. Dean knows exactly what's in his mind.
 
-He turns to face him straight, telling him what he has already said yesterday, voice gentle but firm. "We'll find him, Cas. Whoever did this, they'll pay."
+He turns to face the ghost straight, telling him what he has already said yesterday, voice gentle but firm. "We'll find him, Cas. Whoever did this, they'll pay."
 
 Cas nods solemnly. "Thank you."
 
@@ -1004,7 +1010,7 @@ Dean gives him a quick amused glance. He's getting quite familiar with all the g
 
 They finish examining all the footages that cover the roads heading east out of the block by the time the sky is turning lighter .
 
-Dean throws himself into the bed, not even having enough strength to take off his shirt or turn off the light.
+Dean throws himself into the bed, not even having enough energy to take off his shirt or turn off the light.
 
 His bedside lamp flickers once and goes out by itself.
 
@@ -1022,13 +1028,131 @@ His bedside lamp flickers once and goes out by itself.
 >
 > Dean help Cas revenge (find Nick), finish his unfinished business but Cas remain ghost, not gone or released, Dean puzzled (new unfinished business because Cas doesn't want to leave Dean alone); continue a bit domestic life during the process
 
+For the rest of the week, they finish going through all the traffic cams they can find, and come out with zero clue.
 
+Dean closes the last video file, slumping back into the chair, pressing the heels of his palms into his eyes. He can feel his eyes sour and hot under the pressure.
+
+He heaves a sigh with closed eyes. "This might be a good thing," he says.
+
+Cas shifts beside him, the air flow rustling the notes on the desk. "How can this be a good thing? We're no closer to finding out the killer than a week ago."
+
+Dean lowers his hands. "We checked every vehicle and everyone leaving the area in the first couple hours after it happened, which means whoever the killer is, they probably didn't escape the area. Which means they probably just live here, locally, which means they probably knew you, which means, if we are lucky, you might also know them, and have run into them. Then it's not a random sociopath case, it's a targeted revenge. Then all we need to do is to find out who held a grudge on you, is it from work or from personal life. And if we figure out where you work, where you used to go or meet, chat with some of your friends, we might find them."
+
+Cas stares at him with an astonishing look, mixed with awe and amusement.
+
+Dean pauses. "What? What did I say?"
+
+"Are you sure you're just a sales manager?" Cas can't help asking. "You sound like a professional detective, or police. Are you an undercover, Dean?"
+
+Dean chuckles. "I would hope so, but nah, no." He pauses for a second, thinking over what he just said, starting to see why Cas was impressed. "But you know what, this felt so natural, like my brain just knows what to do, what to look. I might just be a natural, or something."
+
+"You would make a great detective." Cas nods.
+
+"Tell me that when we crack the case," Dean grins back, sitting straight again, typing "Castiel Novak" into the search box.
+
+"I wish I could have remembered something about me," Cas watches him searching, saying woefully. "what did I do, what was I like, who did I use to befriend with. Now I just feel like a stranger to myself."
+
+"Don't worry, we can try to re-meet you." Dean looks at him. "Isn't it nice to know yourself again, like catching up with an old friend? I know for sure I'd like to know about you, even if not for the case."
+
+"Why?" Cas blurts out.
+
+Dean blinks, only now realizing what he just said. He stutters slightly, "'Why?' I mean, isn't it... You're... hmm. You know what, I just have a feeling we could have been really good friends, you know? Apparently we have very similar taste in the apartment, for one. I like what you did to the living room wall, or kitchen counter, or that queen-sized bed in the bedroom. I mean..."
+
+He pauses and considers. "Don't take it the wrong way," he casts a fleeting look up and down Cas's figure, licking his suddenly too dry lips. "I was just thinking we might have a lot in common, or something."
+
+Cas gazes at him a moment longer before answering, "Oh."
+
+"'Oh'?" Dean raises his eyebrows, mocking gently. "That's all?"
+
+"I --" Cas frowns slightly, lowering his head to think for a long second before speaking again. "I didn't know you like the way the apartment looks. I still remember the day when I picked those sofa. The salesman kept trying to sell me the leather set, saying it was the latest trend, only that would fit my prestige. But I just couldn't quite understand why people would connect furniture with one's job or salary level. So I said no, working in one of the big four accounting firms didn't automatically make me start liking things people used to consider fancy. So I just picked the most comfortable ones."
+
+Dean's eyes brighten up so dramatically, almost cartoonishly big. "Oh my god, you just remembered it!" His fingers start frantically typing again, adding the keyword "the big four accounting firm" into the search bar.
+
+While waiting for the result to come out, he swivels in the chair, with a pleased smile. "Remember what I wrote the other day? Even before we found out your name? I knew you were in the same industry as me, sales, business, accounting. You have that look too. And the suit helps. You see, I work in sales, and you just look like the kind of people I'd work with."
+
+"But many people wear suits, not just those from the business industry," Cas counters.
+
+"Yeah, but there's just a... " Dean makes a gesture, waving his hands between the two of them, motioning to say the similarity between them, "a temperament, or, I don't know, psychics might call it an aura field, or something. Not that I believe those kind of things, but sometimes you do instinctively just can tell."
+
+The website finishes loading the information, Dean turns back to the screen.
+
+"There you are," he clicks open the company staff page of PwC, Ohio branch. Cas's name is on top of the list. Dean reads the text out loud, "Castiel Novak, tax audit manager, graduated from UIUC with accounting major, started working there twelve years ago."
+
+"Accounting major! I remember that too," Cas takes a breath, "my brother and I argued about what major to take. We were both admitted to UIUC and NYU but we decided UIUC would be closer to home. He picked marketing and became a sales provider, and I graduated to do tax auditing. Amelia used to say we should have some company of our own, since we covered all the most important business side of the work."
+
+"And I could join your company, too," Dean says immediately, pointing a finger at himself. "Business major from Stanford, I can do all the sales and marketing works, like I'm doing right now for Sandovers. If only I knew you twelve years ago..."
+
+"If only..." Cas murmurs in agreement.
+
+Dean scrolls the page down even more, to find an office address. He notes it down to his phone.
+
+"What do you say, let's pay a visit to your company tomorrow?" Dean looks hopefully at Cas. "We might find more people remember you, know what you're like, know what might have happened. So you know, you'll see you must still get friends, and you're remembered. And give us some leads for the case."
+
+Upon mentioning the case, Cas's figure falls more gloomy again, but nods and agrees quietly. "That sounds like a good idea, except... you'll have to go alone."
+
+Dean almost forgets about that again. He looks down at his phone for a second, then promises, "I'll let you know everything once I come back."
 
 <br>
 
-###### [TBC]
+The next two days are weekend, and Cas's old working place doesn't open. Which means not much investigation to do, which means for the first time in over two weeks, Dean finally gets some real rest.
+
+He wakes up to a dull raining sound outside window, the room feels dim and chilly.
+
+Dean lies on his bed for a moment longer, staring at the ceiling, feeling a little out of place. *How come he suddenly can't remember what he'd usually do when he didn't share the room with a ghost or have murder investigation to do on a lazy weekend?*
+
+Dean chuckles at himself slightly. Just little more than one week, he's already getting used to two things he didn't think he would ever have: his roommate is a ghost, and the said roommate is a dorky, hot guy who he would have be a good friend with he knew him earlier.
+
+He leaves the bed, still thinking about that second point, wondering if befriending with a ghost is still an option, or if it would just be too weird.
+
+Cas greets him good morning from the living room, standing close to the closed window.
+
+The ceiling-to-floor window's handle has a thin layer of ice covered on it, frost expanding to another few inches on the glass. Some dry water marks on the floor before the window.
+
+Dean stares at the window, then looks at Cas with a small frown. "What did you do?"
+
+Cas gestures to the outside with his left hand. "It was raining."
+
+"Yes, I can see that," Dean answers, tilting his head.
+
+"And you were sleeping. I didn't want to wake you, but the window was open, and the rain kept coming into the room." Cas rubs the white mist that should form his right hand, but right now a little dissipated. "So I closed the window."
+
+Dean's eyes land on his hand, frowning. He walks closer, saying slowly, "Is the handle made of steel?"
+
+Cas shrugs slightly. "I didn't know. But it must be some kind of metal. Stainless steel, probably. So it's not as bad as iron." He tries to hide his hand behind his back.
+
+"Let me see it." Dean stands before him, reaching a hand toward Cas.
+
+Cas sighs quietly, holding out his right hand. The white mist at the end of his right wrist isn't connected consistently, just flowing around like a small white cloud in the wind.
+
+Dean stares at it, his own fingers hovering around it, wanting to hold his wrist but not daring to touch. He feels a sick wrenching sensation in his gut again. He doesn't know what to do.
+
+"Goddammit, you hurt yourself." Dean rubs his eyes. "How the hell am I supposed to find some ghost bandage for you?"
+
+Cas takes his hand back. "I'm sure I'll be fine."
+
+"I told you you didn't have to do anything for me," Dean stares at him.
+
+"But I want to," Cas answers, quiet but firmly. "Can you not relate the feeling that someone is doing something extremely important to you but you just aren't even real enough to show how appreciated you are? The necessity to just do something, anything, to make sure you don't owe them all the kindness?"
+
+Dean swallows. He can relate. It turns out you don't need to be a ghost to relate with a ghost. But still, "Dammit Cas, you don't owe me anything, you hear me? I don't care about the window or the wet floor, I care --" He stops himself there, blinking at himself, and swallows again. "Anyway."
+
+He turns to the kitchen, brewing his coffee of the day. "Don't do that again," he calls behind his back.
+
+<br>
+
+#### Act 3
+
+
 
 #### draft notes
+
+> Dean look for more evidence, really invested in solving the crime, all in to help Cas, a little outlaw pretending thing (more and more like the real Dean out there)
+>
+> casual chats with Cas, Cas actually remember more and more about his own previous life, until he remembers Nick's look (crucial lead)
+>
+> Cas getting more physical too, able to do more things, close window when raining when Dean's away, finding lost items, diagnosing bad pipe in wall, taking phone call (Dean can call home now to talk with Cas, coworkers/Adler? think he's dating/having partner), rodent problem? (more domestic life)
+>
+> Dean help Cas revenge (find Nick), finish his unfinished business but Cas remain ghost, not gone or released, Dean puzzled (new unfinished business because Cas doesn't want to leave Dean alone); continue a bit domestic life during the process
 
 Nick Vaught started a gray-area company (Morningstar Firm), borderline illegal, selling drugs/weapons/stolen objects pretended as toys/artifacts
 
@@ -1053,6 +1177,8 @@ They talk, Cas understands killing Nick doesn't bring Novaks back, but at least 
 after Dean manages Nick Vaught, Cas's initial unfinished business is finished, Dean/Cas ready to say goodbye, but Cas not disappear, instead, he's not bound by the loft-only location, means he's not bound by that same old crime-related business, his unfinished business is something else now
 
 Cas now can follow Dean around but still can't get far away from him, suggesting that new unfinished business is tied to Dean, that's how in Chap 4 he can be there helping Dean figure out P. T. Sandover's case and save him from attack, ready to sacrifice for Dean, burn with Sandover together. but Dean burns the glove in time, kill the bad ghost, save Cas
+
+###### [TBC]
 
 ### Chapter 4
 
