@@ -230,17 +230,53 @@ new setting for Enochian: originated from the native Amazon tribe language, once
 
 Castiel thinks he's never seen anything more beautiful than this new research asset that just arrived in the facility. This wild creature was captured in the Amazon rainforest, with colors and light flowing through its veins like stars in the Milky Way. It doesn't speak human words or have a name, but it looks into his eyes like it understands.
 
-Mesmerized, Castiel decides, he'll name him "Dean", and he'll not let him die like all the others for the Project Lazarus, no matter how much it might cost him.
+He'll name him "Dean", Castiel decides, and he'll not let him die like all the others.
 
-And it costs him everything.
+#### Excerpt (300 words)
 
-#### Excerpt
+"I'm impressed," Balthazar's lazy voice comes through. Cas didn't notice when he came in or how much he heard. "He's like a puppy whenever he sees it's you; think he's good enough for a pat from someone else?"
+
+"I wouldn't recommend --" Cas starts, but Balthazar already takes a few steps into the chamber.
+
+Dean turns to him sharply, leaving Cas's side. His eyes narrow, his teeth gritting. He hisses at the newcomer, just like the way he hissed at Uriel before.
+
+Balthazar hurriedly steps back. "Alright, I get it. He's all yours -- or you're all his," he gestures at Cas, "I don't know which is which, but I have no interest in losing my fingers."
+
+Cas smiles apologetically. "He might just need another day."
+
+Balthazar edges toward the door, but his eyes still linger between Cas and the creature. "A word, Cas?"
+
+Cas hesitantly follows him out.
+
+"Don't put too much emotion on that creature, I'm telling you," Balthazar says the moment the door is closed. "I just happened to overhear Uriel talking with Zachariah just now, about what just happened, you know how persuasive Uriel can be, and he's always Zachariah's favorite. Things aren't looking good for Dean."
+
+Cas stares at the floor, not answering.
+
+"You listening to me? All I'm saying is, he's extremely likely going to just end up bloody and dead, like all the other experiments we had before. Remember JH-4785?"
+
+"She has a name!" Cas snaps his head up.
+
+"She's an 'it', and you shouldn't name her, like you shouldn't name Dean!" Balthazar retorts.
+
+"Too late for that," Cas murmurs.
+
+"They all end up the same," Balthazar reminds him.
+
+"Not this time," Cas forces the words out through his teeth. "I won't let him die."
+
+"How?" Balthazar raises an eyebrow. "How the bloody hell are you going to do that? Not to say why, I still haven't the faintest idea why he's suddenly so important."
+
+Cas doesn't answer.
 
 ### Arts
 
 #### Banner
 
+<p align="center"><a href="tumblr.com" target="_blank"><img src="https://64.media.tumblr.com/18a74175b2ce146507de31df2bb9c7ed/53f1c813ddf4670b-2b/s1280x1920/a6c3bc4f19a8114e7f1460f01e5ea7acce4b7414.jpg" alt="Banner image of Castiel holding Dean, his arms wrapped around Dean's back. Dean's veins show red and blue colors through his naked skin. They are in a dark green space, with a small lamp behind them. The title reads 'Hallowed Be Thy Name', Written by JuneSirius, Art by bucketofli" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></a></p>
+
 #### Art
+
+<p align="center"><img src="https://64.media.tumblr.com/b5205eb1a666d1f006490156e20388d6/53f1c813ddf4670b-5f/s1280x1920/68a0740f0b4971a840745029c2ae09e49051ef37.jpg" alt="Castiel wears a white shirt, a pair of glasses, and a cross necklace. His right hand reaches out to touch Dean's face, and Dean holds his hand. Dean's face is bruised, his hand is bandaged, his veins show bright colors on his cheek." style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></p>
 
 ### Editing Notes
 
@@ -278,11 +314,13 @@ a little religious hinting throughout, repeating theme of God, faith, name
 
 #### draft notes
 
-> Set up scene to introduce Cas's researcher life in the facility (top security government facility, Advanced Nonhuman Genetic Evolution Lab (ANGEL)), under heavy surveillance, very little freedom for everyone, even researchers are like prisoners in this place, let alone researching objects
+> Set up scene to introduce Cas's researcher life in the facility (top security government facility, Advanced Nonhuman Genetic Evolution Lab (ANGEL)), under heavy surveillance, very little freedom for everyone, even researchers are like prisoners in this place, let alone researching objects.
+>
+> Security protocol: Everyone is blindfolded to the facility, no one really knows where they are. No phone/text from inside the facility to outside. (foreshadowing for later)
 >
 > (early casual introduce Bal, Uriel, Zachariah)
 >
-> (show Cas loves plants and insects, have something green in his apartment and on his research table, has a cat and bees)
+> (show Cas loves plants and insects, have something green in his apartment and on his research table, has a cat and bees, foreshadowing)
 >
 > Cas's duty is to observe and record their behaviors, do experiments as instructed (not much free will to decide what to do)
 >
@@ -325,8 +363,6 @@ a little religious hinting throughout, repeating theme of God, faith, name
 > Balthazar warns Cas doesn't have much time, he overhears Uriel and Zachariah talking, Uriel is very persuasive and Zachariah's favorite, he's coming to tell Cas don't put too much emotion in this creature, he's very likely going to end up bloody and dead just like all of their previous experiment ("remember JH-4785?" "She has a name!" "She's an 'it', and you shouldn't name her, like you shouldn't name Dean" "Too late for that" "They all end up the same" Cas: "Not this time, I won't let him die", Bal: "How?" Cas can't answer)
 
 **VISUAL:** Cas wears glasses, cross necklace
-
-**VISUAL**: The chamber is green, Cas holds Dean naked (banner)
 
 Cas is religious and very scientific, very compassionate, a bit autistic, detached with most "normal" people, lonely, doesn't belong, but fine with it, but very quickly bond with Dean (who also apparently doesn't belong)
 
@@ -383,8 +419,8 @@ can include some side characters: Balthazar, Sammandriel
 > Dean notices Cas's still hurt, reach out to use his saliva/power to heal him. Cas amazed.
 >
 > Dean talks for the first time, calling Cas's name, very difficultly but trying very hard to talk. Surprise Cas even more, Cas almost crying.
->
-> Come night, it's dry and cold. Cas can't sleep, notices Dean's shivering and weaker, temperature too different from his habitat. Cas covers him with his jacket, holding him to give him warmth.
+
+> The night comes, it's dry and cold. Cas can't sleep, notices Dean's shivering and weaker, temperature too different from his habitat. Cas covers him with his jacket, holding him to give him warmth.
 >
 > When they're lying there, they look at each other. Dean touches Cas's cross necklace, clearly asking about it. Cas murmurs talking to him about himself, about his worry, his awe, his faith of God, most people's opinion about faith, this research center and project contents, his debates of leaving, his hesitation about greater good.
 >
@@ -398,7 +434,7 @@ can include some side characters: Balthazar, Sammandriel
 >
 > Dean explains he has power but he's weakened because he's out of habitant, he needs plants and trees and rainforest, even the air here is too dry and cold. Cas holds him closer.
 >
-> Cas makes up his mind to save Dean, to steal him out of the facility, to send him back Amazon rainforest.
+> Cas makes up his mind to save Dean, to steal/smuggle him out of the facility, to send him back Amazon rainforest.
 
 ### Chap 3
 
@@ -424,49 +460,47 @@ can include some side characters: Balthazar, Sammandriel
 
 #### draft notes
 
-> Cas texts Bal to bring some clothes for him the next morning (especially mask and sunglass), gives his own clothes to dress Dean (jumpers, t-shirts, jackets). Dean isn't used to cloth, a little resistant and doesn't know what to do with sleeves etc., looking very uncomfortable.
+> Cas gives his own clothes to dress Dean (jumpers, t-shirts, jackets). They're similar height/build, Cas purposefully disguises Dean to be like him, gives him his name tag, even his glass and necklace. Dean isn't used to cloth, a little resistant and doesn't know what to do with sleeves etc., looking very uncomfortable.
 >
 > Cas holds him up to dress him, patiently but anxiously telling him this is the only way he can hide him in plain sight and take him out, if he doesn't like cloth later, he can take them off once they're safe. Dean complies.
 >
-> Bal arrives to see Dean dressed in Cas's clothes and Cas naked, knows Cas's plan ("You're not thinking about doing the bloody thing I think you're thinking, are you?"), throws extra clothes to Cas. Cas dresses in Bal's clothes, Bal drags Cas aside, trying to convince him this is a very bad idea. They argue about if Dean's a thing, a creature, or a human, or a God.
+> Bal arrives to see Dean dressed in Cas's clothes and Cas naked, knows Cas's plan ("You're not thinking about doing the bloody thing I think you're thinking, are you?" He is). They find some old lab coat for Cas to dress.
+>
+> Bal drags Cas aside, trying to convince him this is a very bad idea. They argue about if Dean's a thing, a creature, or a human, or a God.
 >
 > Cas gets emotional, but Bal still isn't convinced, initially still unwilling to agree ("I'm not ruining my career for this creature"), until Cas: "He sees me" Cas thinks he's just like Dean, Dean understands his out-of-place, Bal gets touched, hushes them to leave, "What are you waiting for?"
 
-> Cas sits with Dean in the back seat, dresses him up with mask and sunglass, very anxious when they are stopped at the security checkpoint in the exit. Bal tries to talk his way out, security is suspicious, about to check the backseat passenger.
+> Cas/Bal walk Dean out, trying not to make eye contact with anyone, not raise attention, walking very quickly to the shuttle bus stop, hoping not stopped by anyone. All of them very anxious, need to time it just right.
 >
-> Zach is already in the office, calling Uriel, rushing to the lab, finds the lab empty. Zach checks security cam and notices security talking to Bal and shades of two people in the back seat, rings the checkpoint to stop them. Security goes to answer the phone, Bal breaks through the blockage and flees, breaking his car's bumper ("You'll have to reimburse my bumper later, Cassie"). Zach runs to the gate but too late.
+> Zachariah is already in the office, seeing them through the camera, calling Uriel, rushing to the lab, finds the lab empty, knows that's Cas/Bal sneaking Dean out, runs to intercept them, calling them from behind, but thinks the one with Cas's cloth is Cas, the one in old lab coat is Dean, threatening them to shoot.
 >
-> Bal helps Cas settles Dean down in his house, surrounds him with Cas's plants and humidifier. Dean can't breathe for a while, Cas worried, Dean opens his eyes again.
+> Bal runs with "Cas", saying Cas is not feeling well, needs to go home quickly. "Dean" purposefully stops, letting Zach walk slowly to him, taking his disguise off, buying them time. Zach finds they swapped cloth, knows it's trick, runs to the shuttle stop (ask Uriel to watch Cas), but too late, they are already gone. Zach wants to phone the bus driver, but the signal is blocked from inside the facility. Dean escapes with Bal, Cas is held hostage.
 >
-> Cas tends to Dean's wounds, bandages his bruised wrist, applies iodophor on cheek scratches. Dean just stares at Cas when he's doing those, clenching on the cloth he's wearing.
+> Zach/Uriel tortures/threatens Cas, wanting to know where Bal/Dean run to. It's a precious, highly classified research asset. Cas calmly defies them, say he doesn't know anything, say they can be anywhere, which is true.
+>
+> Bal settles Dean down in Cas's place, surrounds him with Cas's plants and humidifier. Dean can't breathe for a while, Bal freaks out ("Cas is gonna kill me if you died"), Dean opens his eyes again.
+
+> Cas is locked in Dean's old chamber, but not very worried, thinking at least Dean is safe.
+>
+> Dean in Cas's apartment is worried about him. Bal wants to help but no one knows where the facility is, and he can't risk going to the shuttle bus again, assuming the ANGEL already knows they smuggle Dean out.
+>
+> Dean absently touches Cas's necklace and suddenly knows, draws the map for Bal.
+>
+> Bal drives to ANGEL.
+>
+> Cas in cell, but after night hears noise, finds Bal sneaks in to break him out. Bal explains to him how wonderful Dean is and contributes to saving him. Cas proud but worried Dean is out here in danger again, Bal actually locks Dean at home safely.
+>
+> Dean/Cas reunion.
+>
+> Both notice the other's wounds, Dean uses some of his healing power to heal Cas, but making his own wounds worse. Cas notices and stops him, tends to Dean's wounds in human way, bandages his bruised wrist, applies iodophor on cheek scratches. Dean just stares at Cas when he's doing those, clenching on the cloth he's wearing.
 >
 > Cas thinks Dean doesn't want to be dressed (not having cloth when he's captured), suggests he can undress if he wants, reaches tentatively to test if he needs help undressing, but Dean doesn't want to undress now. because he smells like Cas.
 
-> They have some quiet domestic moments, and chaotic.
->
-> Bal also can't go back to the facility again ("It's all your fault"), Cas a little guilty, Bal is actually joking ("I didn't like that place anyway")
->
-> Cas goes to cook Dean something to eat, leaving Dean alone for a little bit. Comes back to find his cat meowing at Dean, furs all straighten up, tail high. Dean crawls like the cat on all fours, meowing and hissing at the cat too, still very much like a creature. Cas doesn't know if he's more amazed or worried, or just enjoy Dean as he is.
->
-> Cas gives Dean cooked meals, Dean eats a few, but not much, Cas observes him like raw food more than cooked food, tries to feed him raw salad and steak, Dean eats them. Cas goes to wash dishes, comes back finding Dean chewing plant leaves and eating bees. Cas now realizes he might was trying to eat the cat alive, so hides the cat in another room. (all showing Dean's creature side)
-
-> Cas talks to him more. Dean starts to understand more of human life, able to use more complicated human language. Dean watches TV and now can use the language more fluently, tells Cas about his life and habitant, his deity identity, his power comes from his connection to the earth, the life in the nature, in the land.
->
-> Whenever Dean's emotional (happy, fear, aroused, etc.), his blood veins lighten up. Cas is fascinated by his breath-taking beauty, worshipping/admiring him exactly like a god.
->
-> The first few times Cas can understand his emotions, but last one, he doesn't get it why, then Dean shows he's aroused. They get intimate, maybe also makes love (mature nonexplicit).
->
-> They sleep together, hold each other tight.
-
-**VISUAL** from art: Cas cupping Dean's face, Dean is wounded, veins showing (art)
-
-foreshadowing here: Dean has healing power, and other nonhuman mysterious power
+**VISUAL**: The chamber is green, Cas holds Dean naked (banner)
 
 ### Chap 4
 
-> The facility security is persistently searching for Dean, and eventually finds him at Cas's house. And Dean's health is deteriorating because he's too far from his native living place, the source of his life force. Cas is ready to set Dean free; Dean wants him to come with; they have some argument. It's painful for both of them, to make the decision, to know the parting is inevitable and close, but Cas makes the decision for the best of Dean (despite how much it pains him).
->
-> They are at the edge of the woods, saying their farewells, looking at each other lovingly, longingly, and painfully, both heartbroken to know this might be the last time they see each other if they part. Cas touches Dean's face, saying farewell and very close to confession (but still restrained himself) with teary eyes; Dean catches his hand, still insisting he can come with.
+> domestic moments
 
 *As the guards march me out to the courtyard*
 
@@ -490,21 +524,31 @@ foreshadowing here: Dean has healing power, and other nonhuman mysterious power
 
 #### draft notes
 
-> Bal rings Cas to warn him that Zach and facility security is still searching for Dean, he has to dump his car, they might notice Cas hasn't been to ANGEL and is going to search his house and finds Dean. They'd better come up with a plan quickly to hide or free Dean.
+> They have some quiet domestic moments, and chaotic.
 >
-> And Dean's health is deteriorating because he's too far from his habitat, the source of his life force. Cas's plants helped, but not enough. And he needs "real" living food from his habitat in Amazon, the bees and steaks aren't enough to keep him strong or healthy, he's fading away.
+> Bal also can't go back to the facility again ("It's all your fault"), Cas a little guilty, Bal is actually joking ("I didn't like that place anyway")
 >
-> Cas drives Dean to Yosemite national park (closest forest to the research center in Nevada). Cas is ready to set Dean free, Dean wants him to come with, they argue on their way. It's painful for both of them, to make the decision, to know the parting is inevitable and close, but Cas makes the decision for the best of Dean (despite how much it pains him). (once in the national park, Cas suggests Dean can find the way south, follow the woods to Amazon)
+> Cas goes to cook Dean something to eat, leaving Dean alone for a little bit. Comes back to find his cat meowing at Dean, furs all straighten up, tail high. Dean crawls like the cat on all fours, meowing and hissing at the cat too, still very much like a creature. Cas doesn't know if he's more amazed or worried, or just enjoy Dean as he is.
 >
-> They arrive at the park, standing at the edge of the woods, saying their farewells, looking at each other lovingly, longingly, and painfully, both heartbroken to know this might be the last time they see each other if they part. Cas touches Dean's face, saying farewell and very close to confession (but still restrained himself) with teary eyes. Dean catches his hand, still insisting he can come with.
+> Cas gives Dean cooked meals, Dean eats a few, but not much, Cas observes him like raw food more than cooked food, tries to feed him raw salad and steak, Dean eats them. Cas goes to wash dishes, comes back finding Dean chewing plant leaves and eating bees. Cas now realizes he might was trying to eat the cat alive, so hides the cat in another room. (all showing Dean's creature side)
+
+> Cas talks to him more. Dean starts to understand more of human life, able to use more complicated human language. Dean watches TV and now can use the language more fluently, tells Cas about his life and habitant, his deity identity, his power comes from his connection to the earth, the life in the nature, in the land.
 >
-> Cas is hesitating, torn apart, actually considering.
+> Whenever Dean's emotional (happy, fear, aroused, etc.), his blood veins lighten up. Cas is fascinated by his breath-taking beauty, worshipping/admiring him exactly like a god.
 >
-> Then Zach and security catch up, get into range, shooting them. Cas jumps before Dean to protect Dean, get shot.
+> The first few times Cas can understand his emotions, but last one, he doesn't get it why, then Dean shows he's aroused. They get intimate, maybe also makes love (mature nonexplicit).
+>
+> They sleep together, hold each other tight.
+
+**VISUAL**: Cas cupping Dean's face, Dean is wounded, veins showing (art)
+
+foreshadowing here: Dean has healing power, and other nonhuman mysterious power
 
 ### Chap 5
 
-> Cas is hesitating, torn apart; the chasers (Zachariah & garrison) get into range, shooting them. Cas jumps to protect Dean, gets shot; Dean outrageous, attacks them, putting many down (including the project lead), and gets shot too. They fall down together, Cas uses his last breath to touch Dean's hand and tells him he loves him and dies. Dean desperate, leans in to kiss him, and his blood veins lighten up, more bright than ever -- he's indeed a god-like creature with powers, the native Americans are right about worshipping him. His power gets triggered when he's this desperate and in love and not willing to lose Cas, and he brings Cas back and heals him. They take down all the rest of chasers, and run off to live in the woods together. Cas doesn't hesitate to follow him this time. They'll build a life together in a safe place where they won't be found or harmed, happily ever after.
+> The facility security is persistently searching for Dean, and eventually finds him at Cas's house. And Dean's health is deteriorating because he's too far from his native living place, the source of his life force. Cas is ready to set Dean free; Dean wants him to come with; they have some argument. It's painful for both of them, to make the decision, to know the parting is inevitable and close, but Cas makes the decision for the best of Dean (despite how much it pains him).
+>
+> They are at the edge of the woods, saying their farewells, looking at each other lovingly, longingly, and painfully, both heartbroken to know this might be the last time they see each other if they part. Cas touches Dean's face, saying farewell and very close to confession (but still restrained himself) with teary eyes; Dean catches his hand, still insisting he can come with.
 
 *Mark my words, believe my soul lives on*
 
@@ -512,7 +556,29 @@ foreshadowing here: Dean has healing power, and other nonhuman mysterious power
 
 *I've gone beyond to seek the truth*
 
+#### Act 1
+
+
+
 <br>
+
+#### draft notes
+
+> Bal rings Cas to warn him that Zach and facility security is still searching for Dean, he has to dump his car and hide outside, can't go back his house, his house is under monitor and has been broken in and searched, must be because they think he's the one took Dean away. They'll likely search Cas's house next and finds Dean. They'd better come up with a plan quickly to hide or free Dean.
+>
+> And Dean's health is deteriorating because he's too far from his habitat, the source of his life force. Cas's plants helped, but not enough. And he needs "real" living food from his habitat in Amazon, the bees and steaks aren't enough to keep him strong or healthy, he's fading away.
+>
+> Cas drives Dean to Yosemite national park (closest forest to the research center in Nevada). Cas is ready to set Dean free, Dean wants him to come with, they argue on their way. It's painful for both of them, to make the decision, to know the parting is inevitable and close, but Cas makes the decision for the best of Dean (despite how much it pains him). (once in the national park, Cas suggests Dean can find the way south, follow the woods to Amazon)
+
+> They arrive at the park, standing at the edge of the woods, saying their farewells, looking at each other lovingly, longingly, and painfully, both heartbroken to know this might be the last time they see each other if they part. Cas touches Dean's face, saying farewell and very close to confession (but still restrained himself) with teary eyes. Dean catches his hand, still insisting he can come with.
+>
+> Cas is hesitating, torn apart, actually considering.
+>
+> Then Zach and security catch up, get into range, shooting them. Cas jumps before Dean to protect Dean, get shot.
+
+### Chap 6
+
+> Cas is hesitating, torn apart; the chasers (Zachariah & garrison) get into range, shooting them. Cas jumps to protect Dean, gets shot; Dean outrageous, attacks them, putting many down (including the project lead), and gets shot too. They fall down together, Cas uses his last breath to touch Dean's hand and tells him he loves him and dies. Dean desperate, leans in to kiss him, and his blood veins lighten up, more bright than ever -- he's indeed a god-like creature with powers, the native Americans are right about worshipping him. His power gets triggered when he's this desperate and in love and not willing to lose Cas, and he brings Cas back and heals him. They take down all the rest of chasers, and run off to live in the woods together. Cas doesn't hesitate to follow him this time. They'll build a life together in a safe place where they won't be found or harmed, happily ever after.
 
 *When you know that your time is close at hand*
 
@@ -535,10 +601,10 @@ foreshadowing here: Dean has healing power, and other nonhuman mysterious power
 > Dean is desperate, leans in to kiss him, and his blood veins lighten up, more bright than ever -- he's indeed a god-like creature with powers, the natives are right about worshipping him. His ultimate power gets triggered when he's this desperate and in love and not willing to lose Cas, and he brings Cas back and heals him (corrects him, "My name is Dean", not some god, just Dean).
 >
 > More security guys come, see it and get scared, shooting Dean all at once. Cas is scared for Dean, but Dean is at full-power now, all brightened up, self-heal very very fast that bullets can't harm him. He takes down all of them.
+
+> Bal comes at last, following all of them, pretend to be one of the security but helps them. Dean almost attacks him too, stopped by Cas. (Bal's following them to get to Cas/Dean, thinking he might can help, but looks like they have everything handled already)
 >
-> Bal comes at last, following all of them. Dean almost attacks him too, stopped by Cas. (Bal's following them to get to Cas/Dean, thinking he might can help, but looks like they have everything handled already)
->
-> Bal says farewell to Dean, thinking Cas is coming back to him, but Cas makes his mind to go with Dean now, Dean saved him and he learns how much they both mean to each other. (Cas to Bal: "What about you?" Bal: "I'm good at starting my life anew somewhere no one knew me. I'm good at it. Don't ask.")
+> Bal says farewell to Dean, hoping Cas is coming back to him, but Cas makes his mind to go with Dean now, Dean saved him and he learns how much they both mean to each other. (Cas to Bal: "What about you?" Bal: "I'm good at starting my life anew somewhere no one knew me. I'm good at it. Don't ask." Cas hugs Bal, a little bit sad)
 >
 > Dean is still long way from Amazon and Cas can be helpful to lead him there, so they run off to the woods together. (ending in Bal's POV) He's pretty sure they'll build a life together in a safe place where they won't be found or harmed, happily ever after.
 >
