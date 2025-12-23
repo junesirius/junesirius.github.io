@@ -1166,7 +1166,7 @@ Hannah follows his line of sight, apologizing, "We -- had to replace his positio
 
 "I understand," Dean answers in a polite business tone.
 
-The room is neat -- honestly, too empty, if he has to say. The book shelf along the wall is mostly occupied by business books and journals, and the only non-working item on the table is a small pot plant. It's a cute pot that looks almost out of place among everything, with its base looking like a honey pot, overflown with honey dripping from the edge, decorated with a couple of bees. He doesn't know the name of the plant, but it's looking good, big green leaves stretching tall and straight. Dean knows immediately it must be Cas's.
+The room is neat -- honestly, too empty, if he has to say. The book shelf along the wall is mostly occupied by business books and journals. Wind comes in through a tiny slit of the opened window, stirring the white blinds and the papers on the desk gently. The only non-working item on the table is a small pot plant. It's a cute pot that looks almost out of place among everything that's so business looking, with its base looking like a cartoonish honey pot, overflown with honey dripping from the edge, decorated with a couple of bees. He doesn't know the name of the plant, but it's looking good, big green leaves stretching tall and straight. Dean knows immediately it must be Cas's.
 
 He reaches out a hand, just about to point at the plant and ask, when a young man's voice sounds up behind him. "Apologies, Hannah, I didn't know we have client visiting on-site today."
 
@@ -1286,15 +1286,247 @@ Dean huffs a short laugh. "Stop protesting and come over looking at these things
 
 "-- get over with it." Dean says at the same time.
 
-The silence between them falls awkward. Dean sighs, swiveling in his chair to face Cas, opening his palms in a shrugging gesture. "I don't know what I'm doing, alright? I don't know anything about ghost, so I'm just learning. And, and --" he stutters a little, gesturing at Cas, "-- you don't look comfortable to stay as a ghost. I don't know, something just doesn't look right. So, no, it's not to get rid of you, I'm just trying to do something good, set something right, help people, you know, like you did."
+The silence between them falls awkward. Dean sighs, swiveling in his chair to face Cas, opening his palms in a shrugging gesture. "I don't know what I'm doing, alright? I don't know anything about ghost, so I'm just learning. And, and --" he stutters a little, gesturing at Cas, "-- you don't look comfortable to stay as a ghost. I don't know, something just doesn't look right. So, no, it's not to get rid of you, I'm just trying to do something good, set things right, help people, you know, like you did."
 
-"But I don't even remember what I did," Cas answers. His shape stablizes.
+"But I don't even remember what I did," Cas answers. His figure relaxes, and his shape stabilizes.
 
-"That's what we'll find out," Dean spins back to the laptop. Cas leans over his shoulder.
+"That's what we'll find out," Dean spins back to the laptop. Cas leans over his shoulder, looking at the same screen.
+
+Their shapes almost overlap in their closeness, though in the place of the warmth of another body, all Dean feels is the chilliness of the ghostly mist. But somehow, now that he gets used to the sensation, even this feels quite reassuring.
+
+Cas's ghostly cheek is only inches away from Dean.
+
+He forces his attention back to the research.
 
 <br>
 
 #### Act 4
+
+As it turns out, the accounting firm has a way better cyber security system than average police system.
+
+It takes Dean a good chunk of afternoon's time to figure out how to even just get a list of company names that the entire PwC has served, but he can't get anything more specific, especially not the contact's names, or the personnel who worked on them, or even just the cases that were worked specifically by the Ohio office.
+
+"Goddammit," Dean curses, fingers flying, typing the keyboard hard and fast just the way they're used to when replying customer emails.
+
+He pulls out all the client company names from six years ago to four years ago, just to be safe about the coverage. But that's a list of about forty thousand names. Which is thirty-nine-thousand-nine-hundred-and-ninety-nine names too many.
+
+He tries to cross-compare with the legal system too, since Hannah mentioned the founder and owner of the company was apparently under investigation and sentenced for something, which, with his best guess, should be the one he's looking for. But then the legal files only use the individual names, he'll either have to reverse searching all the company's representative person names, or hoping the courtroom records or some background information files would happen to include the company names, which may or may not be their luck. And even if it does, he might have to spend god-knows-how-many hours to find it.
+
+Dean leans back in the chair, rubbing his temples. There gotta be an easier way.
+
+He glances at Cas, starting to pace around the living room, just trying to think if there is anything he missed.
+
+"It's getting dark," Cas says quiet.
+
+Dean looks at the window. He totally didn't notice how time flies. He hums noncommittally, not caring much.
+
+Cas hesitates. "I don't feel hungry anymore, but I would guess you do. I can try to heat something for you, if you like?"
+
+Dean pulls his mind back from the case for a moment, amused by Cas again. "As a tax auditor, you never stop surprising me, how did you do that?"
+
+Cas does a small shrugging motion with his misty shoulder. "I would like to think I'm not as boring as most people think I was."
+
+"Before or after you became a ghost?" Dean jokes.
+
+Cas seriously thinks about it. "I would hope both?"
+
+Dean chuckles slightly, can't help almost reaching out to pat his shoulder again. "Trust me on this one, you're not boring at all. You should see how people talk about me."
+
+Cas blinks. "What did they say about you?"
+
+"The 'most vanilla guy in the world', I think?" Dean's smile dies a little on his lips, quoting exactly what his ex threw at him. He swallows. "You know, perfectly normal family, perfectly normal education, perfectly normal career, climbing my corporate ladders. Even me eating salad and cleansing juice are listed on their accusing checklist. I mean, I wouldn't think of any other way, but yeah, that's just me, the possibly most boring, uninteresting guy in the world that no one would like to hang out with. Which," he makes a big waving gesture at the room, taking a breath, "leads me to this big freaking empty room with a ghost."
+
+He stops suddenly, immediately ashamed of his outburst. "Sorry," he rubs his eyes again, "sorry, I don't know what got to me. I'm not saying you're not good or anything, it's just... I don't know what I'm doing, I don't know what I want anymore. Sorry."
+
+"Dean," Cas calls him gently.
+
+Dean turns his back to him, covering his eyes with the heels of his palms.
+
+Cas calls again. "Dean, look at me." His voice shakes slightly with a quiet electrical interference.
+
+Dean turns back slowly. His eye rims are getting to a shade of red.
+
+The ghost's shape flickers as Cas tries to hold his gaze. "You're not boring, or uninteresting, or unloved, or any of that," he says firmly. "Those other people, they just couldn't see you. But funny enough, as a ghost, I think I can better see you. You are a good man, Dean W -- sorry, Smith."
+
+"You say it like you know me before," Dean answers, trying to ease his own breath.
+
+"I don't, and I don't need to. You're helping me, aren't you?" Cas tilts his head to one side, watching Dean's face in a different angle. "Would an absolutely vanilla normal uncaring person even think of doing that? It's not like living with and helping a ghost is on any house renting contract or job description."
+
+Dean chuckles in the middle of a quiet wet sound. A tight smile starts showing. "I guess I am, then. You know what, helping you, investigating this case, hell, digging into those records and footages last week? I never had so much fun in my life. I don't believe in craps like fate or destiny, but man, I'm telling you, I feel like I was meant to do these, you know. Like I'm actually good at it."
+
+Cas smiles back at him. "Yes, I believe you really are very good at it." He glances at the clock in the kitchen. "Now, dinner. Would you like me helping you to heat some of your favorite salad? Sorry about it sounding like stalking, but you haven't eaten anything since morning." Dean opens his mouth, but Cas pushes on. "And before you say anything about salt and iron, I'll be careful this time."
+
+Dean huffs a short laugh. "Buddy, microwave oven is giant big metal box, it's like a huge chunk of red-hot volcano lava right there for you. And don't think I forget, you still have your hand hurt by that window handle yesterday."
+
+"That's two days ago, and I'm fine." Cas insists.
+
+"I'll be the one to decide." Dean steps closer to him. "Come on, let me take a look."
+
+Slowly, Cas holds out his hand. And sure enough, the flowing white mist forms his intact right hand just like flesh and skin forms human's.
+
+Dean can't help reaching out too, having his palm spread and face up, as if he wants to put Cas's hand on his, just to take a closer look.
+
+He sees through the ghostly fog, and only sees his own flesh. The temperature around Cas is a couple of degrees lower than the room temperature, so a thin layer of chilly condense starts forming on his palm as he gets closer to the white mist of Cas.
+
+Dean blinks hard. He can't hold this man just like he can't hold a cloud, or a brush of wind, or an idea. There is something in it extremely upsetting and unsettling. He breathes heavily.
+
+The moment stretches quietly between them.
+
+"Looks all good now," he manages to say, forcing a tight smile.
+
+"Like I said, nothing to worry." Cas agrees, taking his hand back, as Dean retracts his.
+
+The moment passes.
+
+"Do you think that's why there's no ghost hospital?" Dean hears his tongue speaking, joking.
+
+Cas looks at him with a light confusion. "I never thought about that. But it must be."
+
+Dean chuckles quietly, rubbing his cheek, walking into the kitchen. "Alright, dinner time. What do you like?"
+
+Cas follows him, hovering at the edge of the counter. "I don't eat, Dean."
+
+"I know, just imagine you do. Pretend you can still feel hungry, what would you like to have? Or rather, what did you use to like? Just, humor me." Dean has one hand on the fridge handle, glancing inside. "Something tells me you are not a salad guy."
+
+Cas watches him. "I'm... not." He scans the content that's in the fridge -- which is to say mostly only packed salad, chicken breast, and cleansing juice. He frowns as he tries to think what is missing but used to be in there. "I think I used to favor red meat."
+
+"So like burger?" Dean closes the fridge, turning back to him.
+
+"Yes, burger." Cas nods with a small smile. "Very much."
+
+"Hmm," Dean considers, taking out his phone. "Well, I haven't had burger for like forever, I don't mind have one for a change. But ugh, we'll have to call for a delivery now, you know I don't have any of those in my fridge."
+
+<br>
+
+The burger will arrive after thirty minutes. Which is just enough time to change out of the cooperate strip shirt and tie, and settle into a set of soft comfortable home-wear shirt and flannel that Dean doesn't even know exist in his closet. Unfolding them from the drawer, his fingers swim between the fabric.
+
+"God, it's soft," Dean can't help sighing, "who would want to wear those shirt and suit pants? And the shoes? They're killing me!"
+
+He changes into the new look, which, admittedly, when staring at the mirror, doesn't quite look like himself, but the sense of comfort in those clothes makes him unwilling to take them off. It's the first time he learns about flannel shirts, and he decides he likes them.
+
+Cas regards him when he comes out of the bedroom.
+
+"You look different," he says neutrally.
+
+"Good different or bad different?" Dean sets two plates and two pairs of utensils on the dinner table. The plates are made of porcelain, the utensils plastic.
+
+Cas looks at him for even longer, can't decide. "Just different," he chooses the safe answer.
+
+"Come on, I promise I won't be mad whatever you say." Dean grins at him mischievously, turning his head back at Cas and sending him a wink while putting down the utensils.
+
+"I like your current look significantly more," Cas admits, then quickly amends, "But the other look, when you go to the office, is also fine -- good -- great. Like I said, I think both are good."
+
+Dean grins wilder. "You like this one better. Funny, so do I."
+
+Right then, the door bell rings.
+
+The fragrance of the burger permeates the room before he even opens the bag. Dean automatically swallows as the taste wafts to him.
+
+He takes two steak burgers from the bag, sets one on the plate before him, another on the plate on the opposite side. The fries, desserts, and drinks go to the center of the table.
+
+It's two people's meal.
+
+Dean sits down in his chair, staring at the burger with a fondness he doesn't even know he has.
+
+"Are you expecting someone to join?" Cas asks, lingering on the edge of the table, closer to the opposite side.
+
+"That's for you," Dean smiles at him. A goofier smile than he know he'd like to admit. "Thought you could, I don't know, at least sense the existence of the burger somehow, enjoy it whatever way you can, even if you can't eat."
+
+"That's very..." Cas starts slowly.
+
+"I know, silly, right? But come on, indulge me, I could use some company to eat dinner with. How many silly things I've already done since I met you? I don't mind adding another one to the list." Dean rushes.
+
+The opposite chair slides back a few inches, leaving a scratching noise that horror movies usually love. Cas sits in the space prepared for him. "No, I was going to say that's very sweet and considerate of you. I never thought I would have another chance of being this close to food, to the feeling of being alive." His voice chokes slightly at the tail.
+
+Dean hides his face behind his burger. "Well, here you are."
+
+He takes a bite on the burger, and lets out a long sigh of satisfaction. He chews with eyes closed.
+
+Cas watches him attentively. "Good?"
+
+Dean nods with mouth full, and tips of his lips curving fiercely upward. He opens his eyes again once he takes down the bite. "How come I never realize it's so good!" He exclaims with satisfaction. "I can't even remember why I kept on the salad routine in the first place. It's like the best food in the world. No wonder it's your favorite, I think it's my favorite too."
+
+"I'm glad you like it, Dean." Cas says, picking up the fork and knife with his ghostly fingers, using them as a handle to push his plate toward Dean. "You can have this one too. Before my presence makes it cold. I'm trying not to freeze the plate by accident."
+
+Though Dean has become far too attentive in enjoying the meal to hear him.
+
+The first burger is gone in five minutes. He debates between saving the second burger for the next day's lunch or might as well finish it now.
+
+"Damn, I barely feel anything. I'm like starving." He fondles the wrapping paper of the second burger.
+
+"I think you should have it," Cas says, with a fond smile watching him. "They are not big anyway."
+
+"I think you're right," Dean agrees delightedly, unwrapping the paper. "I'll go to gym tomorrow."
+
+The rest of the food and drinks are devoured just as quickly.
+
+And after the dessert -- which is apple pie, as it turns out, for today's specialty, apparently -- Dean has a hard time deciding which is his new favorite, the steak burger or the pie.
+
+"It's like I'm also just discovering myself, like you are." Dean wipes his mouth, satisfied. "I'm so going to gym tomorrow, for all this calorie. But this is definitely my best dinner in a long time. Not to say it's to share with you."
+
+"I didn't actually 'share' anything," Cas points out reasonably.
+
+Dean chuckles, "Still."
+
+He moves on to clean up the table. And while he's at it, he waters the little plant with a paper cup of water.
+
+"It doesn't need a lot of water, actually," Cas instructs him. "I remember one time I was a little distracted by a stressful client project I was working on, I watered it too much. The excessive water leaks out from the bottom of the pot, soaking the documents I was writing. They were the only copies of that secret investigation I was doing outside work and I didn't want anyone to see. So I had to dry them and press them in the books to straighten them up."
+
+Dean waters for another three seconds before he stops. Moving away from the plant slowly, he asks, almost as if casually, "When was that?"
+
+"I don't know, maybe five years ago?" Cas considers. "Why?"
+
+Dean turns to him fully, with glinting in his eyes, completely forgets about the plant. "Twenty bucks to say no one but you ever read those books you kept in the office, so they're probably still there. Another ten bucks that's the exact case Hannah was talking about, that's the big bad mysterious client you were so stressing out about, and I got a gut feeling that's exactly the one we've been looking for. Want to bet?"
+
+Cas blinks with a bland look. "I don't have money to bet. And we don't really know if they're big or bad."
+
+"They went to the jail for whatever they did!" Dean reminds him. "So it can't all be good, at least. Now we just need the name."
+
+"Are you going back to my old office tomorrow?"
+
+Dean considers. "I'm more thinking about tonight. A bit more freedom to check everything, you know, when no one was watching."
+
+"What about the key? How are you going to enter the building?"
+
+Dean casts a quick look at the window of his apartment.
+
+Cas gets the meaning. His figure starts flickering violently. His voice is very worried. "That's too dangerous! And illegal! And... and, what if the window is locked, are you going to break and enter?"
+
+"I thought someone just said I'm good at this, you know, detective kind of stuff, mystery-solving, case-cracking. Give me some more confidence?"
+
+Cas moves closer to Dean, raising his voice. "What if you get hurt? Or caught? What then?"
+
+"I'll be fine!" Dean insists, raising his voice too. "Stop worrying about me!"
+
+Cas takes the last step between them, standing right before Dean. The edge of his white mist flies and flows in the air, already right in Dean's face. Dean feels a chilly sensation acutely sending through his skin, from head to toe. He can't help an automatic shiver, but he doesn't back down.
+
+"What if you're dead?! What would that make me? Have you ever thought about that?! Waiting inside this hellish prison forever but you'll never come back?!" Cas's voice is so loud and high-pitched that another shiver runs down Dean's spine. The white fog that forms Cas's face is slightly distorted as he yells.
+
+Dean stares at him with wide eyes. He never thought about that. He should, but he never did.
+
+"I'm sorry, but we *need* those files!" He tries to reason. "And if I go in the morning, they might just give them to the police, who, may I remind you, didn't find a single freaking lead for two months. I can't let that happen! I have to go!"
+
+"I can't let you!" Cas yells back, reaching his hands to Dean's shoulders, as if trying to grab him, to hold him in place.
+
+Dean takes a step back from him, easily getting away from the ghostly mist, taking quick steps toward the door. "I'm sorry, but I have to."
+
+"NO!" Cas lunges at him.
+
+"Cas --" Dean barely has enough time to turn back and see what's happening, when the white shape of the ghost covers him entirely, like throwing him under water.
+
+He blinks.
+
+The next moment when he opens his eyes, he is sitting in a movie theater, looking at the screen that displays the view of his apartment. The dinner wrapping papers and the takeout bags are still on the edge of the desk.
+
+"What the hell?"
+
+Dean Smith stares at the screen, watching himself open the door, take the trash out, and head to the stairs.
+
+He starts to freak out.
+
+<br>
+
+#### Act 5
 
 
 
@@ -1320,13 +1552,11 @@ They talk, Cas understands killing Nick doesn't bring Novaks back, but at least 
 
 > Cas getting more physical too, able to do more things, finding lost items, diagnosing bad pipe in wall, taking phone call (Dean can call home now to talk with Cas, coworkers/Adler? think he's dating/having partner), rodent problem? (more domestic life)
 
-> add a small scene Dean checks Cas's hand again, wounded from earlier (VISUAL)
-
 Dean help Cas revenge (find Nick), finish his unfinished business but Cas remain ghost, not gone or released, Dean puzzled (new unfinished business because Cas doesn't want to leave Dean alone)
 
 after Dean manages Nick Vaught, Cas's initial unfinished business is finished, Dean/Cas ready to say goodbye, but Cas not disappear, instead, he's not bound by the apartment-only location, means he's not bound by that same old crime-related business, his unfinished business is something else now
 
-Cas now can follow Dean around but still can't get far away from him, suggesting that new unfinished business is tied to Dean, that's how in Chap 4 he can be there helping Dean figure out P. T. Sandover's case and save him from attack, ready to sacrifice for Dean, burn with Sandover together. but Dean burns the glove in time, kill the bad ghost, save Cas
+Cas now can follow Dean around but still can't get far away from him, suggesting that new unfinished business is tied to Dean, that's how in Chap 4 he can be there helping Dean figure out P. T. Sandover's case and save him from attack, ready to sacrifice for Dean, burn with Sandover together. but Dean burns the glove in time, kill the bad ghost, save Cas (or Dean thought Cas burns in the same fire, freaks out, in mourning mode, but Cas comes back the next day "That was unpleasant")
 
 ###### [TBC]
 
@@ -1344,9 +1574,7 @@ Cas now can follow Dean around but still can't get far away from him, suggesting
 
 #### draft notes
 
-Dean Smith's life style trajectory change, from healthy extreme sliding towards Dean Winchester's habit, under Cas's influence (S05E14 Cas & red meat); because Cas starts remembering enjoying burger, so Dean orders burger to home, eats "with" him, the two have sort of like a burger dinner date at home
-
-add an accident where Dean accidentally hits ghost Cas with something iron (an iron pan? kitchen cooking time?), Cas moans & dissipates, Dean panics, rooms feels suddenly too quiet and too empty; Cas comes back the next day, unstable but there: "That was unpleasant"
+add an accident where Dean accidentally hits ghost Cas with something iron (an iron pan? kitchen cooking time? during the fight?), Cas moans & dissipates, Dean panics, rooms feels suddenly too quiet and too empty; Cas comes back the next day, unstable but there: "That was unpleasant"
 
 ### Chapter 5
 
