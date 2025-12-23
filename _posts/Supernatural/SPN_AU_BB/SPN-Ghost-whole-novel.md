@@ -1822,15 +1822,15 @@ Dean regards himself again in the mirror, thinking his reflection looks slightly
 
 The plant shakes quietly behind him, as if Cas's looking at the same image.
 
-Dean grins, leaving the room with the pot plant in his arm.
+Dean grins, leaving the room with the pot plant in his arms.
 
-He isn't quite sure actually, if the plant possession would work the same as human, if Cas gets to come outside freely. He watches the leaves carefully as he steps outside.
+He isn't quite sure actually, if the plant possession would work the same as human, if Cas gets to follow it to come outside freely. He watches the leaves carefully as he steps outside.
 
-"Tap once for yes, if you are still here," Dean whispers to the plant.
+"Alright, tap once for yes, if you are still haunting in there," Dean whispers to the plant the minute he's outside the door.
 
-The lowest leaf shakes sideways, touching his finger where it's holding the pot, leaving a trace of wetness. The tip of the leaf is still wet from the watering he just did a moment ago.
+The lowest leaf shakes sideways, touching his finger where it's holding the pot, leaving a trace of wetness. The tip of the leaf is still covered by a thin layer of water drops from the watering he just did a moment ago before heading out.
 
-Dean amuses, but just in case it's wind. He says again, "Now tap twice for no, you're not wind, just in case."
+Dean amuses, but just in case it's wind, he says again, "Now tap twice for no, you're not wind, just in case."
 
 The top leaf shakes poutingly -- Dean swears that is a pouting shake just from the way it swings. Then the lower leaf taps his hand twice, leaning on his fingers without leaving now.
 
@@ -1842,19 +1842,21 @@ Cas loved walking along the river and through the park. Dean remembers him sayin
 
 Breathing the damp air makes his head feel clearer. Dean takes a long breath and exhales slowly.
 
-And then, in the middle of the fresh air, he smells cigarette. On second sniff, he realizes it must be something more than nicotine. Wind comes opposite the direction he comes from, blowing a mixed burning smell of leaves and chemicals right on to his face. The smell is disgusting and repulsing.
+And then, in the middle of the fresh air, he smells cigarette. On second sniff, he realizes it must be something more than nicotine, something nastier. Wind comes opposite the direction he comes from, blowing a mixed burning smell of leaves and chemicals right on to his face. The smell is disgusting and repulsing.
 
-Dean holds his breath and turns to head back.
+Dean holds his breath and turns to head back. He's reasonably sure it might even be poisonous.
 
 The plant starts shaking violently. The lower leaves wrap around his fingers, tapping and slapping him.
 
-"Ouch, stop! Stop it, Cas!" Dean tries to use one hand to free from the haunted plant's attack, but Cas is insistent. For a moment, Dean is worried if the plant would shake so violently that it would pull itself out of the soil and run away with two feet. "What is it, Cas? Come on, I can't understand if you don't say it."
+"Ouch, stop! Stop it, Cas!" Dean tries to use one hand to bat them away, freeing himself from the haunted plant's attack, but Cas is insistent. For a moment, Dean is worried if the plant might shake so violently that it would pull itself out of the soil and run away with two feet. "What is it, Cas? Come on, I can't understand when you don't speak."
 
-The top leaves change into a patterned left to right, then right to left, shaking. Looking quite clear a shaking-head motion, conveying a "No." Dean rolls his eyes. "Oh, great, now I'm doing sign language with a plant. That's a no, okay, I get it, and then what?"
+The top leaves change into a patterned shaking, left to right, then right to left. Looking quite clear a shaking-head motion, conveying a "No." Dean rolls his eyes. "Oh, great, now I'm doing sign language with a plant. That's a no, okay, I get it. What else?"
 
-The top leaves still, and the lower leaves that get to touch Dean's fingers start wiping him in one direction. From the direction they're coming from to where the wind is coming, wipe once, lift, go back to where they start, then wipe again. A one-directional urge. "I should go there, is that it?"
+The top leaves still, and the lower leaves that get to touch Dean's fingers start wiping him in one direction. From the direction they're coming from to where the wind is coming, wipe once, lift, go back to where they start, then wipe again. A one-directional urge.
 
-*One tap.*
+"I should go there, is that it?"
+
+*One tap -- yes.*
 
 "Hum," Dean glances in that direction, where a long bridge stands over the river, crossing from one side to the other, and glances at the plant again. "You better have a good reason."
 
@@ -1884,9 +1886,9 @@ That's Nick.
 
 #### Act 8
 
-> they haunt Nick
+> they attack Nick, Cas almost turn into full-on vengeful spirit, Dean persuade him not to kill Nick
 
-He has watched that photo far too many times to recognize without doubt.
+He has stared at that photo from Cas's newspaper clip far too many times to recognize in a heartbeat.
 
 The plant in his arms stills for a second, then starts shaking violently again.
 
@@ -1894,9 +1896,9 @@ Dean doesn't need Cas's urge to know he should follow Nick.
 
 The man staggers when he emerges from under the bridge. His steps stumble so much that Dean watches and thinks, fleetingly and maliciously, *It would be justice if he just tripped and fell into the river.*
 
-The thought unsettles him. Dean blinks at himself. He's not killer. He never was, and he never will be. His parent, Bob and Ellen, has taught him better than this. There gotta be a better way that can both make the justice right and not having to kill anyone. Even a cruel, pathetic one like Nick.
+The thought unsettles him. Dean blinks at himself. He's not killer. He never was, and he never will be. His parent, Bob and Ellen, has taught him better than this. There gotta be a better way that can both serve the justice and not having to kill anyone. Even a cruel, pathetic one like Nick.
 
-They follow Nick to the park and watch the man crawls into a deserted tent sitting next to the trash bin. The burning drug smell flows out again.
+They follow Nick to the park and watch the man crawl into a deserted camping tent sitting next to a trash bin. The burning drug smell flows out again.
 
 Dean stands behind the closest tree, not knowing what to do.
 
@@ -1904,25 +1906,109 @@ The ghostly mist flies out of the plant, flowing rapidly toward the tent before 
 
 "Cas! CAS!!" Dean hisses a yelling, not wanting to let anyone hear, especially not Nick. "What the hell are you doing?! Come back!"
 
-The white fog that is Cas ignores him, gliding into the tent
+The white fog that is Cas ignores him, sliding into the tent smoothly.
+
+Dean curses under his breath, glancing around. The park is dark and quiet, way past the gate closing time and there's no one around. He crouch-walks out of the shadow of the tree, sneaking closer to the tent.
+
+He hears his knees complain under the pressure and curses again. He should have exercised more, like hitting the gym once in a while. He knows sitting in office before screens all day would do that to his knees, but he hates it when it's happening now, when he needs the physicality and agility of his body the most.
+
+Dean rushes himself when he starts hearing human yelling and items flying inside the tent. The thin cloth and support of the tent rattles as the man jumps and moves inside frantically. Dean can only see a dark shape moving.
+
+He doesn't really have time for a plan or think closely. The temperature around them drops dramatically. The closer he gets to the tent, the colder the air is. Dean watches the air turning into a puff when he breathes out. It's even colder than normally he notices around Cas, bordering icy. Something is severely wrong.
+
+Dean busts into the tent.
+
+Cas is in his full shape now, looking more solid than ever in his translucent form, floating near the ceiling of the tent, all fierce and resentful. The tent is too tiny for any grown man to stand straight, so half his lower body is underground, making his shape looking even more scary.
+
+Nick is lying on his back at the farthest corner possible, and Cas is reaching to him with hands and fingers spreading in a way like he's going to grab the man or choke him.
+
+"Ghost, you're a ghost!" Nick mumbles unclearly. "I'm imagining it, you're not real!"
+
+Cas growls in a nonhuman sound, his shape glitches like a broken TV signal. Then in a blink of an eye, he disappears and reappears right before Nick's face, his fingers wrap around Nick's neck. Nick drops the cigarette in his hand, struggling violently around his neck, trying to release himself from the invisible grip. He's letting out harsh breathing sound.
+
+"Cas!" Dean yells helplessly, not knowing whether or who to help.
+
+Nick is still choking, and by the look of his face paling, he doesn't have long. But then his fingers fumble on the ground, and he finds the feet of the tent poles. He grasps forcefully and rocks it while his body trembles. The tent collapses.
+
+Dean barely has time to jump out of the collapsing tent. A painful squeaking sound echoes under the quiet night sky. When he turns around, he's just in time to see the white mist of Cas dissipate the moment the poles crash on him.
+
+The poles are made of iron.
+
+<br>
+
+"Cas!" Dean yells again, standing at the edge of the collapsed tent, panting.
+
+Nick crawls out on his hands and knees, lying down on the ground on his back, breathless. "Castiel," he murmurs in his hoarse voice, then starts laughing hysterically. "Of course."
+
+The ghost of Castiel reemerges, snarling and barging at the man. He doesn't seem to even register Dean's there. His eyes are bloody, bulging out of his face. His feature is all wrong, stretched and sharpened, looking nothing like his old self. More like... Dean's heart sinks. Cas is exactly like those vengeful spirit in the ghost movies they watched together. The desperation of revenge and killing Nick has changed him.
+
+"Cas, no, stop!" Dean positions himself between the man on the ground and Cas, spreading his arms to form a human wall, trying to block the ghost of Cas from approaching Nick. His right hand is still holding the pot plant. "You're not thinking straight, Cas! We don't kill people! We're better than this!"
+
+The vengeful spirit that can only distantly show the features of Castiel screams. He repeats in a high-pitched sound: "He has to die! Die! DIE!" Then, "He killed my family! Look at me! Blood! All the blood!"
+
+Castiel charges toward Nick. Instinctively, Dean jumps before Nick, colliding in with the ghost. The twisted long fingernails of the ghost scratches his face, and the freezing cold sensation pours down from his head. Dean sinks inside his head again, standing in the middle of the imaginary movie theater. But different from all the other times, this time, he's not alone.
+
+There is another man standing there, facing the screen. He wears a long trench coat, covering his figure. From his back, Dean can only see his shaking standing posture and tousled black hair.
+
+Dean walks to him slowly, calling. "Cas?"
+
+The man doesn't answer, and doesn't move. His body is still shaking violently like the last winter leaf on a branch in the gust of a snowstorm. He looks like about to break down any minute now.
+
+Dean reaches hesitantly, hovering his hand on the man's shoulder. For a second, he thinks when his hand lands, there will be nothing, just another ghostly mist, another shadowy imagination that he can't touch. But startlingly, his hand lands on the man's shoulder.
+
+It doesn't feel real, technically, and Dean knows it. Everything in here is probably just happening in his head. He can still vaguely see Nick crawling on his all fours from the imaginary theatre screen, fleeing from them. But right now, he decides, he's not the highest priority.
+
+"Cas." Dean winds around him, standing before the man, looking at him solidly for the first time.
+
+Castiel looks up, meeting his eyes. His eyes are filled with tears, long streaks of tears streaming down his cheeks. "I have to, I have to," he murmurs the words like a chanting. "He killed my family -- no, I killed my family. I have to do something. Anything."
+
+"Oh Cas," Dean sighs long and sad, wrapping the ghost's consciousness or whatever he is in his arms. He can't really sense the touch, but he feels an existence, a kind of fullness in his heart when he holds him, so he holds him tighter.
+
+The consciousness of Castiel leans into his arms, more tears falling. "I have to. But I know, once I'm done, I won't be here again."
+
+"Your unfinished business," Dean thinks he understands. "It will be finished and you will be free, is that it?"
+
+"No, no, I will be condemned," Cas answers through tears over his shoulder. "My consciousness, this last human bit of me, will be torn apart. Killing would break one's soul, and I don't have much left to begin with. I know, I just know, I'll just become one of those evil vengeful spirit like those horror movies we saw together. But I have to, Dean, I really have to."
+
+"No," Dean breathes deeply, still not willing to let go. "You don't. It doesn't have to be this way. Killing is wrong, whatever he did, it's wrong. You do this, then you're no different from that son of a bitch. And your consciousness or soul or anything, I won't let you break again. I just won't."
+
+Cas pulls back slowly, looking into his eyes. "What else can we do then?"
+
+Dean takes a deep breath and considers. "We don't have enough evidence to tip him off to the police or get him arrested. All we got is your memory and your words, but you can't even be a court witness... If only he could just break and turn himself in."
+
+"How?" Cas stares at him with red eyes.
+
+"Haunt him," Dean says simply, surprising himself even. The solution seems to just slip out of his lips by itself and it sounds easy. "He's probably already all drugged up and hallucinating things, we just need to make it worse for him, break him down."
+
+"Haunt him," Cas parrots slowly. "Then I can..."
+
+"No, you don't do anything," Dean cuts him off quickly. "I will. You did enough and I don't want you to accidentally get repelled or condemned or whatever. You don't think I learned a trick or two about how to haunt after living with a ghost this long?"
+
+Cas falls silent, the heaving and falling of his chest finally calms down. Then, after a beat. "It's actually not very long," he says quietly. "It's only been three weeks."
+
+"It feels long," Dean answers. "So we're good?"
+
+"If you don't let me be in the field, at least allow me to give you suggestions. After all, only one of us is professional at haunting." Cas insists.
+
+Dean chuckles slightly. "Deal."
+
+<br>
+
+#### Act 9
+
+> Dean haunts Nick while Cas possess him
+
+
 
 
 
 #### draft notes
 
-Dean/Cas find Nick, Cas becomes vengeful spirit (like Bobby), wants to kill Nick, Dean is reasonable enough to know it's wrong and something is wrong with Cas, stops Cas from killing Nick (because if he solves the revenge by violence, then he's no different from Nick)
-
-Cas is not thinking straight now, force possesses Dean, almost hurting/killing Dean. they argue, they don't have enough evidence to sue Nick or tip him off to police, all they have is Cas's words, so they use mental breakdown
-
 Cas haunts/scares Nick, let him see the bloody way Cas is with all the blood steins. Nick freaks out, believing it's ghost revenge, start random attacking
 
-Dean notices Cas is getting out of control, if he continues and especially if he really kills Nick, he'll truly become a vengeful spirit, he stops Cas, bringing plant back home, forcing Cas away from the scene (choose between revenging for him vs watching him change, which higher priority)
+Cas is not avenging himself, he's mostly avenging for his whole family. Dean avenges for him.
 
-back home, Cas realizes how vengeful and violent he becomes, Dean researches and realizes revenge can turn ghost into true vengeful spirit and no way back
-
-Dean bans Cas from continuing, Cas gets scared of himself and sees Dean's point, but don't want to stop, he's not avenging himself, he's mostly avenging for his whole family. Dean promises to avenge for him.
-
-Dean goes to Nick's tent and pretends to be ghost himself (without Cas being there), Nick breaks down, attacks, Dean gets into fight with him, Nick hurts him, but Nick truly gets crazy and kills himself. Problem solved. Dean takes a photo as proof to go back to show Cas.
+Dean goes to Nick and pretends to be ghost himself (without Cas being there), Nick breaks down, attacks, Dean gets into fight with him, Nick hurts him, but Nick truly gets crazy and kills himself. Problem solved. Dean takes a photo as proof to go back to show Cas.
 
 They talk, Cas understands killing Nick doesn't bring Novaks back, but at least the fate has its justice. Move on talking about his future now that he's finished this unfinished business. (Cas remains ghost when Dean recovers from the injury, then stays for the ghost case in the job, just keeps staying)
 
