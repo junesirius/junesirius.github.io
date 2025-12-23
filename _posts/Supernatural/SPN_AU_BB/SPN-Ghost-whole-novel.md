@@ -1886,7 +1886,7 @@ That's Nick.
 
 #### Act 8
 
-> they attack Nick, Cas almost turn into full-on vengeful spirit, Dean persuade him not to kill Nick
+> they attack Nick, Cas almost turn into full-on vengeful spirit, Dean persuade him not to kill Nick. Dean haunts Nick while Cas possess him
 
 He has stared at that photo from Cas's newspaper clip far too many times to recognize in a heartbeat.
 
@@ -1994,29 +1994,85 @@ Dean chuckles slightly. "Deal."
 
 <br>
 
-#### Act 9
+Nick doesn't get very far when Dean resurfaces into his body. Cas stays inside him, watching through his eyes. It feels weird, to know there's someone else there, but also not really there. And even weirder to think that someone is a ghost. Dean thinks he'll definitely freak out if he knows this is going to happen three weeks ago, but right now, oddly, he feels fine. In fact, he feels awesome.
 
-> Dean haunts Nick while Cas possess him
+He tucks Cas's consciousness closer inside his mind, like wrapping a falling sparrow with wet wings in a rainy day inside his coat pocket. And he says to himself, "Alright, let's finish it."
 
+Cas sits down in the front row of the movie theatre in his head.
 
+Dean follows the smoking smell in the air down the trail through the park, and then at the edge of the park, down a sewer pipe from a loosen manhole cover.
 
+Nick is sitting at the corner of a chamber where the pipes cross, his back against one side of the wall, half passing out.
 
+The floor of the pipe echoes with Dean's footsteps when he climbs down.
 
-#### draft notes
+"Nick --" Dean tries, speaking in a squeaking, high-pitched sound, as Cas instructs.
 
-Cas haunts/scares Nick, let him see the bloody way Cas is with all the blood steins. Nick freaks out, believing it's ghost revenge, start random attacking
+"Higher, and fainter," Cas suggests helpfully from inside.
 
-Cas is not avenging himself, he's mostly avenging for his whole family. Dean avenges for him.
+Dean follows his suggestion. His voice echoes between the pipe walls, the tail of the syllable colliding with the head, bumping around. It sounds like he's everywhere.
 
-Dean goes to Nick and pretends to be ghost himself (without Cas being there), Nick breaks down, attacks, Dean gets into fight with him, Nick hurts him, but Nick truly gets crazy and kills himself. Problem solved. Dean takes a photo as proof to go back to show Cas.
+Nick lifts his head, turning from his side to side, as if he's expecting someone -- or something -- coming from all the directions.
 
-They talk, Cas understands killing Nick doesn't bring Novaks back, but at least the fate has its justice. Move on talking about his future now that he's finished this unfinished business. (Cas remains ghost when Dean recovers from the injury, then stays for the ghost case in the job, just keeps staying)
+"Now make a wind sound," Cas adds.
 
-Dean proposes to retrieve Cas's ashes from the city, Cas thinks it's unimportant
+"Wooo --" Dean makes a whooshing sound between his lips.
 
-Cas remain ghost, not gone or released, Dean puzzled (new unfinished business because Cas doesn't want to leave Dean alone)
+The spooky sound fills the space, distorted by the reflection effect, making even his own hair behind the neck stand.
 
-###### [TBC]
+*That's freaking spooky alright.* Dean thinks to his mind. *Do I get a ghost certificate or what?*
+
+"I'm not aware such certificate exists," Cas answers seriously.
+
+Dean moves on, getting closer to the crossing chamber.
+
+"Nick -- remember what you did?" Dean stretches his voice, satisfied at how the distorted voice sound like.
+
+Nick drags himself up from the sitting position, but he can barely stand. He's holding a small knife of some kind in his right hand, guarded but confused. He spins from his left to his right, waving and stabbing in the empty air. "Leave me alone! Get away from me! Castiel, I know it's you! You're dead!"
+
+"You will pay --" Dean hides behind the closest turn around the chamber, watching Nick from the corner of his eyes. "That's blood debt!"
+
+Nick stabs the air repeatedly. "No, no, no! I'm not crazy! You're not real!"
+
+Dean wonders briefly what Nick is seeing in his hallucination.
+
+Cas answers inside him. "That looks disturbingly like he's trying to kill me again. In his vision. That's how he stabbed me to death."
+
+Red-hot fury bursts in Dean's chest. The thought that Cas and his whole family was murdered brutally like that, and that filthy man, even when he's trapped in his own vision, is still trying to kill Cas *again*. Dean can't hold himself any longer.
+
+He jumps out of the hiding corner, throws himself at Nick, knocking him down.
+
+"Dean!" Cas cries out inside him.
+
+Nick waves the knife, and the blade slides along his arm, tearing his shirt sleeve and skin on the forearm.
+
+Dean hisses in pain, punching the man in the face.
+
+"You bastard!" He yells, can't hold back his anger any longer. "He was a good man! Do you know that?! He worked so hard every day! He went to work and cooked dinner! He loved his family and his friend! And you killed him! You!" He punches the man again and again until Nick is bloodied and paralyzed on the floor.
+
+"Dean! I thought you said we'll not kill him!" Cas reminds him.
+
+Dean's fist is still high in the air, but hearing that, he drops the fist slowly. His face is covered by sweat and tears. "No, we're not. He'll do it himself."
+
+He pulls himself up slowly, stepping back, wobbling.
+
+Nick stares at him with swollen face and foggy eyes. "Whoa," he stares at the air, which must be where his hallucinated victim is. "this feels so real. You're right, Cas," his hand wraps around the knife he dropped earlier, raising it slowly. "I should do it myself." He stabs the knife into his own neck.
+
+His body twitches a few times, fresh blood gushing out of the wound. His body drops down and stops moving again.
+
+Dean watches from ten steps away, letting out a long breath.
+
+"You saw that?" he asks quietly, turning inside.
+
+"Yes," Cas answers equally quietly. Then, after a long pause, he looks up, and says, in a both grieving and relieved tone, "I hope you can see it too. It's done."
+
+The tone twists Dean's gut upside down, and he thinks, bitterly, *It's done. And he'll be gone now.*
+
+"I'll miss you," Dean whispers.
+
+The white mist of the ghost Castiel ascends from his body, stretching into the air, flying free.
+
+<br>
 
 ### Chapter 4
 
@@ -2032,6 +2088,12 @@ Cas remain ghost, not gone or released, Dean puzzled (new unfinished business be
 
 #### draft notes
 
+They talk, Cas understands killing Nick doesn't bring Novaks back, but at least the fate has its justice. Move on talking about his future now that he's finished this unfinished business. (Cas remains ghost when Dean recovers from the injury, then stays for the ghost case in the job, just keeps staying)
+
+Dean proposes to retrieve Cas's ashes from the city, Cas thinks it's unimportant
+
+Cas remain ghost, not gone or released, Dean puzzled (new unfinished business because Cas doesn't want to leave Dean alone)
+
 > S04E17 ghost case P. T. Sandover (died 1916), 3 weeks in
 >
 > Cas can leave apartment but has to be close to Dean, Cas go to office with Dean
@@ -2045,6 +2107,8 @@ after Dean manages Nick Vaught, Cas's initial unfinished business is finished, D
 Cas now can follow Dean around but still can't get far away from him, suggesting that new unfinished business is tied to Dean
 
 Cas getting more physical too, able to do more things, finding lost items, taking phone call (Dean can call home now to talk with Cas, coworkers/Adler? think he's dating/having partner)
+
+###### [TBC]
 
 ### Chapter 5
 
