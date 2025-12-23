@@ -12,7 +12,7 @@ long_novels: 【Destiel】Unfinished Business
 
 Tags: It's a Terrible Life AU, S04E17, Dean Smith, Non-Hunter Dean, Ghost Castiel, Amnesic Castiel, Amnesic Dean, Unconventional Domestic Life, Slow Burn, Get Together, Canon Divergent, Fluff (sort of), Very minor horror in the beginning, Hopeful Ending
 
-Warnings: Pre-Story Main Character Death, Pre-Story Minor Character Death, Pre-Story Child Death, Indicated Past Violence, Graphic Depictions of Violence (maybe?)
+Warnings: Pre-Story Main Character Death, Pre-Story Minor Character Death, Pre-Story Child Death, Indicated Past Violence, Graphic Depictions of Violence
 
 Rating: Teen and Up
 
@@ -1530,7 +1530,7 @@ He starts to freak out.
 
 #### Act 5
 
-> Cas possess Dean, go to his old office, get files, find out it's Nick, track his location, haunt him
+> Cas possess Dean, go to his old office, get files, find out it's Nick
 
 "For god's sake, what's happening?!" Dean stands up from the theater seat, clenching the back of the front row chair tight. His body is shaking.
 
@@ -1650,7 +1650,13 @@ Dean holds the door handle down quickly and steps into the stairwell. The metal 
 
 He whispers eagerly to the thin ghostly fog. "Come on, Cas. Get in me."
 
-The lunging and sinking feeling is lighter and less dizzy when it's the second time. Or maybe it's because he's prepared. Dean sits back down in the movie theater, watching Cas carry his body to the floor where his office is.
+The lunging and sinking feeling is lighter and less dizzy when it's the second time. Or maybe it's because he's prepared. Dean sits back down in the movie theater, watching Cas continue carrying his body to the floor where his office is.
+
+"Aren't we a great team?" Dean grins slightly.
+
+"In crime?" Cas retorts.
+
+Dean chokes on his laughter.
 
 The door to his office is locked. And it's not an electrical lock.
 
@@ -1670,7 +1676,7 @@ Cas jumps back in him the minute the door is open, rushing to the bookshelf with
 
 Dean makes a cheerful whistling sound as he watches from inside his own head. "That's twenty bulks for me."
 
-Cas freezes as he stares at the papers. "And another ten for you," he says.
+Cas freezes as he stares at the papers. "And another ten for you," he says gloomily.
 
 "That's him. He's the one who killed me. I remember now. I remember everything."
 
@@ -1678,17 +1684,81 @@ Cas freezes as he stares at the papers. "And another ten for you," he says.
 
 #### Act 6
 
+> Cas tells Dean everything
 
+They are back to the apartment, safe and sound. Blessingly didn't trigger any alarm or get noticed by any security personnel.
+
+Dean sits down at his desk, reading the notes they just took back and scattered on the desk.
+
+One of the newspaper clip has a photo of a man standing before the court, the title reads, "Nick Vaught, former founder of Morningstar Firm, was declared guilty of charges."
+
+"So," Dean says, leaving the rest of the sentence blank.
+
+Cas returns to his usual milky white misty form, standing before the window, looking outside. Dean can only vaguely see his back.
+
+"Nick," Cas says the name slowly, voice bitter, his body shivering. "He's the one, I know it, I remember."
+
+Dean walks closer to him, standing beside him, managing to keep his voice gentle. "Okay, alright, the name, we got the name now. What else do you remember?"
+
+Cas stares at the running river without blinking. "He and his company was once my client -- Hannah's, to start with, as she told you. But from the financial records, she found they had serious tax evasion problems. Many of the records didn't match, or were too vague to understand, or contradicted with each other. She suspected they might have bigger illegal underworld transaction, but she didn't want the company to be involved if that was the case, and meanwhile, when we were trying to delay our meeting with Nick, he threatened us if we couldn't make it right and beneficial for him, he'd do something bad. And if we dared to call police, things would be even worse. He didn't say specifically how bad or what exactly he meant."
+
+Dean listens mutedly.
+
+"Hannah got scared, she was worried about her family and her kid, saying she wanted out. That was a very stressful time. And I couldn't just watch her break down, so I said, I'd take the rest of the auditing and communicate with Nick. And I did."
+
+"What did you do?" Dean asks.
+
+"Everything Nick wanted to see, basically. To his benefit, too. He was pleased with the result," Cas answers.
+
+"What?" Dean makes a choking sound, glancing at his side profile. "But you just said..."
+
+"Just to satisfy him, of course," Cas continues. "There were way too much inconsistence in his financial records for his company to be normal or legit, and Hannah's instinct was right, there had to be illegal underworld transactions for it to make sense. So I dug deeper, after our business contract was closed on the paper. It wasn't part of my job, but it became my obsession, you might say. For about a year, I was keeping a close eye on him and collected his business information. Cross-comparing with his activity, the pattern, some jargons he would use in the documents, and the financial record from the previous year, I was confident he was smuggling and reselling for a profit, anything he could gather, stolen objects, drugs, weapons. But he was good, extremely careful during the transaction. I was trying to wait longer when I got enough proof, but I was worried he would find out my investigation and disappear, so I just reported him then. Anonymously, of course. And sent everything I collected to the police."
+
+"He was arrested, and with all the evidence I sent, his company was announced broke, and he was sentenced for a four-year imprisonment, but only for financial fraud."
+
+"Exactly this year," Dean exhales sharply.
+
+"Exactly this year," Cas echoes numbly.
+
+"It has to be a revenge then," Dean murmurs.
+
+"He must have found me when I was walking around the area," Cas's gaze is far and unfocused, "followed me to my house, broke in after we all went to sleep, and then..." He starts sobbing quietly.
+
+"Cas," Dean's voice is pained, "you don't have to..." His hand brushes over the misty shoulder. He stops caring about they can't touch. He has to let the ghost know he's here for him.
+
+"He stabbed me first, but wasn't deadly at first. He... he would have just left if Jimmy didn't hear the sound and woke up. So he killed him, right in front of me. Then Amelia. Then Claire. Oh God --" Cas covers his face with his palms. "-- he made sure I was the last to die. I -- I --" His voice breaks completely.
+
+"God," Dean whispers, wrapping his arm around the ghost's fog that starts flickering terribly again. He doesn't know what to say. Seeing the man's pain, his eyes also start to sting.
+
+"I keep thinking I'm the one that killed Jimmy and the whole family," Cas's voice comes faintly and brokenly through the shifting ghostly image. "They would be fine if they didn't visit me. They would be fine if I didn't send that anonymous tip. Or if I just ignored the whole thing. None of this would happen. It's all my fault."
+
+"What? No! Cas! None of it is your fault!" Dean tries to hold Cas's gaze, but the other just can't look up. He doesn't even seem to have enough ghostly energy to stay visible for much longer.
+
+Dean manages to squeeze in between Cas and the window, standing right before him, reaching out to cup what he hopes would be where Cas's cheeks are. "Look at me, Cas. You didn't do anything wrong! He did! We'll get you justice, I promised!"
+
+Cas gives him one last devastated look, his figure flickers again, and he disappears.
+
+Dean's hands cup around nothing in the air.
+
+He stares at where Cas was, feeling a dull pain in his chest. Cas's words are still echoing in his ear, "It's all my fault. They're all dead and it's all my fault."
+
+Dean has a sudden impulsion that he wants to have some glasses of beer to wash this ache in the chest down, to mute the voice in his ears. But his fridge refuses to supply.
+
+So he takes melatonin instead, three times more than recommended dosage, and throws himself to the bed, hoping it would have a similar effect.
+
+The prickling feeling of another existence remains in the air when he sinks into a shallow darkness. His consciousness floats in the empty, thinking, at least, Cas is still here, just exhausted himself out. That knowledge alone makes the sick feeling in his gut slightly more bearable.
+
+Dean passes out when the melatonin kicks in.
+
+<br>
+
+#### Act 7
+
+> they track Nick's location, haunt him
 
 
 
 #### draft notes
-
-Nick Vaught started a gray-area company (Morningstar Firm), borderline illegal, selling drugs/weapons/stolen objects pretended as toys/artifacts
-
-audited by Cas, Cas found out the company's illegal not just financially, so reported him anonymously to the police, causing him to be broke and imprisoned for five years
-
-Nick comes out, seeking revenge on Cas, follows him around, murders him, accidentally wakes Jimmy and finds out all Novaks are here, so goes ahead murder the whole family, then escape
 
 Dean finds out about Nick, wants to kill him for Cas. Cas stops him, wants to solve it legally, because if he solves the revenge by violence, he'd be no different from Nick. But they don't have enough evidence to sue Nick or tip him off to the police, all their evidence is supernatural, so they use mental breakdown. (can change to Cas wants to kill Nick but Dean stops him, showing vengeful spirit Cas)
 
