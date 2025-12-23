@@ -1876,7 +1876,7 @@ The man in the shadow grumbles. A lazy hoarse voice. "Why not?"
 
 The man squints at the light, using a hand to cover his eyes. "Fine."
 
-And in that split second when his face is lit. Dean stills.
+And in that split second when his face is lit, Dean sees his face and freezes.
 
 That's Nick.
 
@@ -1886,29 +1886,49 @@ That's Nick.
 
 > they haunt Nick
 
+He has watched that photo far too many times to recognize without doubt.
+
+The plant in his arms stills for a second, then starts shaking violently again.
+
+Dean doesn't need Cas's urge to know he should follow Nick.
+
+The man staggers when he emerges from under the bridge. His steps stumble so much that Dean watches and thinks, fleetingly and maliciously, *It would be justice if he just tripped and fell into the river.*
+
+The thought unsettles him. Dean blinks at himself. He's not killer. He never was, and he never will be. His parent, Bob and Ellen, has taught him better than this. There gotta be a better way that can both make the justice right and not having to kill anyone. Even a cruel, pathetic one like Nick.
+
+They follow Nick to the park and watch the man crawls into a deserted tent sitting next to the trash bin. The burning drug smell flows out again.
+
+Dean stands behind the closest tree, not knowing what to do.
+
+The ghostly mist flies out of the plant, flowing rapidly toward the tent before Dean can stop him.
+
+"Cas! CAS!!" Dean hisses a yelling, not wanting to let anyone hear, especially not Nick. "What the hell are you doing?! Come back!"
+
+The white fog that is Cas ignores him, gliding into the tent
+
 
 
 #### draft notes
 
-Dean finds out about Nick, wants to kill him for Cas. Cas stops him, wants to solve it legally, because if he solves the revenge by violence, he'd be no different from Nick. But they don't have enough evidence to sue Nick or tip him off to the police, all their evidence is supernatural, so they use mental breakdown. (can change to Cas wants to kill Nick but Dean stops him, showing vengeful spirit Cas)
+Dean/Cas find Nick, Cas becomes vengeful spirit (like Bobby), wants to kill Nick, Dean is reasonable enough to know it's wrong and something is wrong with Cas, stops Cas from killing Nick (because if he solves the revenge by violence, then he's no different from Nick)
 
-Cas can't move out of the apartment on his own but he can if he possesses Dean, so Dean lets him possess him to get out of house and follow Nick to his hideout (some dark basement place), haunts him, scares him, let him see the way Cas looked like with all the blood. Nick freaks out, believing it's ghost revenge, start some random exorcise rituals that don't have real impact, drugging himself more.
+Cas is not thinking straight now, force possesses Dean, almost hurting/killing Dean. they argue, they don't have enough evidence to sue Nick or tip him off to police, all they have is Cas's words, so they use mental breakdown
 
-Dean and Cas want to continue but Dean notices first that the more he lets Cas possesses him and revenges on Nick, the more vengeful and violent Cas becomes, he researches and realizes revenge can turn ghost into vengeful spirit, so Dean stops Cas to continue, Cas almost wants to force possess Dean, might hurt Dean in the process, and realizes he's really turning vengeful, Cas gets scared of himself and sees Dean's point, but don't want to stop, he's not avenging himself, he's mostly avenging for his whole family. Dean promises to avenge for him.
+Cas haunts/scares Nick, let him see the bloody way Cas is with all the blood steins. Nick freaks out, believing it's ghost revenge, start random attacking
 
-Dean goes to Nick's place and pretends to be ghost himself (without Cas being there), Nick gets violent and attacks, Dean gets into fight with him, Nick has gun, Dean gets hurt, but Nick truly gets crazy, and kills himself. Problem solved. Dean takes a photo as proof to go back to show Cas.
+Dean notices Cas is getting out of control, if he continues and especially if he really kills Nick, he'll truly become a vengeful spirit, he stops Cas, bringing plant back home, forcing Cas away from the scene (choose between revenging for him vs watching him change, which higher priority)
 
-They talk, Cas understands killing Nick doesn't bring Novaks back, but at least the fate has its justice. Move on talking about his future now that he's finished this unfinished business. (Cas stays when Dean recovers from the injury, then stays for the ghost case in the job, just keeps staying)
+back home, Cas realizes how vengeful and violent he becomes, Dean researches and realizes revenge can turn ghost into true vengeful spirit and no way back
 
-(Dean to retrieve Cas's ashes from the city?)
+Dean bans Cas from continuing, Cas gets scared of himself and sees Dean's point, but don't want to stop, he's not avenging himself, he's mostly avenging for his whole family. Dean promises to avenge for him.
 
-> Cas getting more physical too, able to do more things, finding lost items, diagnosing bad pipe in wall, taking phone call (Dean can call home now to talk with Cas, coworkers/Adler? think he's dating/having partner), rodent problem? (more domestic life)
+Dean goes to Nick's tent and pretends to be ghost himself (without Cas being there), Nick breaks down, attacks, Dean gets into fight with him, Nick hurts him, but Nick truly gets crazy and kills himself. Problem solved. Dean takes a photo as proof to go back to show Cas.
 
-Dean help Cas revenge (find Nick), finish his unfinished business but Cas remain ghost, not gone or released, Dean puzzled (new unfinished business because Cas doesn't want to leave Dean alone)
+They talk, Cas understands killing Nick doesn't bring Novaks back, but at least the fate has its justice. Move on talking about his future now that he's finished this unfinished business. (Cas remains ghost when Dean recovers from the injury, then stays for the ghost case in the job, just keeps staying)
 
-after Dean manages Nick Vaught, Cas's initial unfinished business is finished, Dean/Cas ready to say goodbye, but Cas not disappear, instead, he's not bound by the apartment-only location, means he's not bound by that same old crime-related business, his unfinished business is something else now
+Dean proposes to retrieve Cas's ashes from the city, Cas thinks it's unimportant
 
-Cas now can follow Dean around but still can't get far away from him, suggesting that new unfinished business is tied to Dean, that's how in Chap 4 he can be there helping Dean figure out P. T. Sandover's case and save him from attack, ready to sacrifice for Dean, burn with Sandover together. but Dean burns the glove in time, kill the bad ghost, save Cas (or Dean thought Cas burns in the same fire, freaks out, in mourning mode, but Cas comes back the next day "That was unpleasant")
+Cas remain ghost, not gone or released, Dean puzzled (new unfinished business because Cas doesn't want to leave Dean alone)
 
 ###### [TBC]
 
@@ -1926,7 +1946,19 @@ Cas now can follow Dean around but still can't get far away from him, suggesting
 
 #### draft notes
 
-add an accident where Dean accidentally hits ghost Cas with something iron (an iron pan? kitchen cooking time? during the fight?), Cas moans & dissipates, Dean panics, rooms feels suddenly too quiet and too empty; Cas comes back the next day, unstable but there: "That was unpleasant"
+> S04E17 ghost case P. T. Sandover (died 1916), 3 weeks in
+>
+> Cas can leave apartment but has to be close to Dean, Cas go to office with Dean
+>
+> Cas is there helping Dean figure out P. T. Sandover's case (direct lead with two employees dead) and save him from attack, ready to sacrifice for Dean, protect Dean, burn with Sandover together. but Dean burns the glove in time, kill the bad ghost, save Cas. but Dean thought Cas burns in the same fire (Cas moans & dissipates), Dean freaks out, in mourning mode for a bit (rooms feels suddenly too quiet and too empty), but Cas comes back the next day, unstable but there, "That was unpleasant"
+>
+> talk about how come Cas is still around, what unfinished business, reveals it's Dean, leading to Dean decides to resign
+
+after Dean manages Nick Vaught, Cas's initial unfinished business is finished, Dean/Cas ready to say goodbye, but Cas not disappear, instead, he's not bound by the apartment-only location, means he's not bound by that same old crime-related business, his unfinished business is something else now
+
+Cas now can follow Dean around but still can't get far away from him, suggesting that new unfinished business is tied to Dean
+
+Cas getting more physical too, able to do more things, finding lost items, taking phone call (Dean can call home now to talk with Cas, coworkers/Adler? think he's dating/having partner)
 
 ### Chapter 5
 
@@ -1942,7 +1974,19 @@ add an accident where Dean accidentally hits ghost Cas with something iron (an i
 
 #### draft notes
 
-at last give a small twist: thought it's ghost Cas's unfinished business all along, actually after waking up, turns out it's Dean's unfinished business, he changes his mind and ready to jump back in to save the world again, but only if Cas is with him, he realizes he never let Cas know how important he is in his life, he's not just a random replaceable expandable angel, he care for him deeply, he has to let Cas know (and Cas actually knows, has all the memory of ghost Cas)
+> Mr. Adler shows, Dean resigns, Zach blows up his cover, makes ghost Cas disappear, Dean freaks out, attacking Zach ("that's not who I am"), Zach wakes Dean up, comes back to reality (only stop when Dean seems to learn who he is)
+>
+> Zach teaches Dean lesson, thought he resigns because of Dean's hunter killing instinct ("you're who you'll always be, you're a killer"), but Dean's thinking about really full attention helping Cas, because he cares
+>
+> Dean: "has more important things to do, more purpose" ("he's a lover, not a killer")
+>
+> twist about Cas's setting in the end, Dean's realization he'll need to talk to Cas (whose unfinished business)
+>
+> Dean prays call Cas, talks with Cas, reveals Cas remembers, Dean: "not good at learning lessons, I learned a different one, I'll be with who I'll always be with. You."
+>
+> Let's go stop the freaking Apocalypse. (and he'll kill Zachariah for everything he put them through)
+
+at last give a small extra twist: thought it's ghost Cas's unfinished business all along, actually after waking up, turns out it's Dean's unfinished business, he changes his mind and ready to jump back in to save the world again, but only if Cas is with him, he realizes he never let Cas know how important he is in his life, he's not just a random replaceable expandable angel, he care for him deeply, he has to let Cas know (and Cas actually knows, has all the memory of ghost Cas)
 
 ~~Big question: how much does Cas know about Zachariah's AU? how much of that ghost is actually real Cas? Zachariah actually injects Cas's grace inside so it's actually Cas? (left it blank and open?)~~
 
