@@ -1148,7 +1148,7 @@ Dean grins widely at that.
 
 #### Act 3
 
-> Dean finds out it's Nick by interviewing Cas's coworker and learns more about how good and kind Cas is, Cas remembers these events too
+> Dean interviews Cas's coworker and learns more about how good and kind Cas is, gets a hint about Nick but still not detailed enough
 
 Dean takes half a day off on Monday morning to go to the accounting firm office. Mr. Adler isn't happy to hear the last minute meeting reschedule, and Dean messages him through the working chat that "he isn't feeling very well." Technically, it's not really a lie, he tells himself, he wouldn't be feeling very well if he doesn't help Cas figure this out, because he promised.
 
@@ -1302,6 +1302,8 @@ He forces his attention back to the research.
 
 #### Act 4
 
+> burger date, Cas possess Dean the first time
+
 As it turns out, the accounting firm has a way better cyber security system than average police system.
 
 It takes Dean a good chunk of afternoon's time to figure out how to even just get a list of company names that the entire PwC has served, but he can't get anything more specific, especially not the contact's names, or the personnel who worked on them, or even just the cases that were worked specifically by the Ohio office.
@@ -1310,7 +1312,7 @@ It takes Dean a good chunk of afternoon's time to figure out how to even just ge
 
 He pulls out all the client company names from six years ago to four years ago, just to be safe about the coverage. But that's a list of about forty thousand names. Which is thirty-nine-thousand-nine-hundred-and-ninety-nine names too many.
 
-He tries to cross-compare with the legal system too, since Hannah mentioned the founder and owner of the company was apparently under investigation and sentenced for something, which, with his best guess, should be the one he's looking for. But then the legal files only use the individual names, he'll either have to reverse searching all the company's representative person names, or hoping the courtroom records or some background information files would happen to include the company names, which may or may not be their luck. And even if it does, he might have to spend god-knows-how-many hours to find it.
+He tries to cross-compare with the legal system too, since Hannah mentioned the founder and owner of the company was apparently under investigation and sentenced for something, which, with his best guess, should be the one he's looking for. But then the legal files only use the individual names, he'll either have to reverse searching all the company's representative person names, or hoping the courtroom records or some background information files would happen to include the company name, which may or may not be their luck. And even if it does, he might have to spend god-knows-how-many hours to find it.
 
 Dean leans back in the chair, rubbing his temples. There gotta be an easier way.
 
@@ -1348,7 +1350,7 @@ Dean turns back slowly. His eye rims are getting to a shade of red.
 
 The ghost's shape flickers as Cas tries to hold his gaze. "You're not boring, or uninteresting, or unloved, or any of that," he says firmly. "Those other people, they just couldn't see you. But funny enough, as a ghost, I think I can better see you. You are a good man, Dean W -- sorry, Smith."
 
-"You say it like you know me before," Dean answers, trying to ease his own breath.
+"You say it like you know me before," Dean answers, trying to ease his own breath, too distracted to notice the misspeaking. Not even Cas notices his own words.
 
 "I don't, and I don't need to. You're helping me, aren't you?" Cas tilts his head to one side, watching Dean's face in a different angle. "Would an absolutely vanilla normal uncaring person even think of doing that? It's not like living with and helping a ghost is on any house renting contract or job description."
 
@@ -1428,13 +1430,13 @@ It's two people's meal.
 
 Dean sits down in his chair, staring at the burger with a fondness he doesn't even know he has.
 
-"Are you expecting someone to join?" Cas asks, lingering on the edge of the table, closer to the opposite side.
+"Are you expecting someone to join?" Cas asks cautiously, lingering on the edge of the table, closer to the opposite side.
 
 "That's for you," Dean smiles at him. A goofier smile than he know he'd like to admit. "Thought you could, I don't know, at least sense the existence of the burger somehow, enjoy it whatever way you can, even if you can't eat."
 
 "That's very..." Cas starts slowly.
 
-"I know, silly, right? But come on, indulge me, I could use some company to eat dinner with. How many silly things I've already done since I met you? I don't mind adding another one to the list." Dean rushes.
+"I know, silly, right? But come on, indulge me, I could use some company to eat dinner with. How many silly things have I already done since I met you? I don't mind adding another one to the list." Dean rushes.
 
 The opposite chair slides back a few inches, leaving a scratching noise that horror movies usually love. Cas sits in the space prepared for him. "No, I was going to say that's very sweet and considerate of you. I never thought I would have another chance of being this close to food, to the feeling of being alive." His voice chokes slightly at the tail.
 
@@ -1444,7 +1446,7 @@ He takes a bite on the burger, and lets out a long sigh of satisfaction. He chew
 
 Cas watches him attentively. "Good?"
 
-Dean nods with mouth full, and tips of his lips curving fiercely upward. He opens his eyes again once he takes down the bite. "How come I never realize it's so good!" He exclaims with satisfaction. "I can't even remember why I kept on the salad routine in the first place. It's like the best food in the world. No wonder it's your favorite, I think it's my favorite too."
+Dean nods with mouth full, and tips of his lips curving fiercely upward. He opens his eyes again once he takes down the bite. "Are you kidding me? How come I never realize it's so good!" He exclaims with satisfaction. "I can't even remember why I kept on that salad routine in the first place. It's like the best food in the world. No wonder it's your favorite, I think it's my favorite too."
 
 "I'm glad you like it, Dean." Cas says, picking up the fork and knife with his ghostly fingers, using them as a handle to push his plate toward Dean. "You can have this one too. Before my presence makes it cold. I'm trying not to freeze the plate by accident."
 
@@ -1460,7 +1462,7 @@ The first burger is gone in five minutes. He debates between saving the second b
 
 The rest of the food and drinks are devoured just as quickly.
 
-And after the dessert -- which is apple pie, as it turns out, for today's specialty, apparently -- Dean has a hard time deciding which is his new favorite, the steak burger or the pie.
+And after the dessert -- which is apple pie, as it turns out, from today's store specialty, apparently -- Dean has a hard time deciding which is his new favorite, the steak burger or the pie.
 
 "It's like I'm also just discovering myself, like you are." Dean wipes his mouth, satisfied. "I'm so going to gym tomorrow, for all this calorie. But this is definitely my best dinner in a long time. Not to say it's to share with you."
 
@@ -1490,7 +1492,7 @@ Dean considers. "I'm more thinking about tonight. A bit more freedom to check ev
 
 Dean casts a quick look at the window of his apartment.
 
-Cas gets the meaning. His figure starts flickering violently. His voice is very worried. "That's too dangerous! And illegal! And... and, what if the window is locked, are you going to break and enter?"
+Cas gets the meaning. His figure tenses and starts flickering violently. His voice is very worried. "That's too dangerous! And illegal! And... and, what if the window is locked, are you going to break and enter?"
 
 "I thought someone just said I'm good at this, you know, detective kind of stuff, mystery-solving, case-cracking. Give me some more confidence?"
 
@@ -1500,7 +1502,7 @@ Cas moves closer to Dean, raising his voice. "What if you get hurt? Or caught? W
 
 Cas takes the last step between them, standing right before Dean. The edge of his white mist flies and flows in the air, already right in Dean's face. Dean feels a chilly sensation acutely sending through his skin, from head to toe. He can't help an automatic shiver, but he doesn't back down.
 
-"What if you're dead?! What would that make me? Have you ever thought about that?! Waiting inside this hellish prison forever but you'll never come back?!" Cas's voice is so loud and high-pitched that another shiver runs down Dean's spine. The white fog that forms Cas's face is slightly distorted as he yells.
+"What if you're dead?! What would that make me? Have you ever thought about that?! Waiting inside this hellish prison forever but you'll never come back?!" Cas's voice is so loud and high-pitched that another shiver runs down Dean's spine for a whole different reason. The white fog that forms Cas's face is distorted as he gets emotional.
 
 Dean stares at him with wide eyes. He never thought about that. He should, but he never did.
 
@@ -1512,11 +1514,11 @@ Dean takes a step back from him, easily getting away from the ghostly mist, taki
 
 "NO!" Cas lunges at him.
 
-"Cas --" Dean barely has enough time to turn back and see what's happening, when the white shape of the ghost covers him entirely, like throwing him under water.
+"Cas --" Dean barely has enough time to turn back and see what's happening, when the white shape of the ghost covers him entirely, icy sensation pours down from his scalp like he's thrown under water.
 
 He blinks.
 
-The next moment when he opens his eyes, he is sitting in a movie theater, looking at the screen that displays the view of his apartment. The dinner wrapping papers and the takeout bags are still on the edge of the desk.
+The next moment when he opens his eyes, he is sitting in a movie theater, looking at the screen that displays the view of his apartment. The unfolded wrapping papers and the takeout bags from the dinner are still sitting on the table.
 
 "What the hell?"
 
@@ -1528,6 +1530,156 @@ He starts to freak out.
 
 #### Act 5
 
+> Cas possess Dean, go to his old office, get files, find out it's Nick, track his location, haunt him
+
+"For god's sake, what's happening?!" Dean stands up from the theater seat, clenching the back of the front row chair tight. His body is shaking.
+
+The view on the movie screen shifts from the apartment, to the stairs leading down the building, to the street. It's unstable, almost like those hand-held camera shots from some new-age Hollywood experiment movies that Dean occasionally, accidentally ran into but never quite liked.
+
+He can feel his feet step on the peddled road, walking so fast that it's almost like running, but each step uneven and rushed, like a kid newly learns how to walk. Chilly night wind brushes his skin. The air is fresh and damp.
+
+He wants to slow down, turn around, go back inside. He thinks about the motion, but his feet just keep moving on.
+
+Dean feels his heart beats fast in his chest. But he doesn't know which chest he's thinking about, the real one in his body that he has lost control of like riding a race car with a broken brake line, or the one his palm is pressed right now, inside this movie theater -- which, now that he looks at it, apart from being a dark space full of chairs and the big screen, doesn't really have anything else, especially not any door. He's about ninety-five percent sure this isn't a real place, maybe just some imaginary place in his head.
+
+"Cas?" Dean doesn't know what to do. All he can do is trying Cas's name and staring at the screen. It seems reasonable to assume this has something to do with his suddenly angry ghost friend.
+
+There is no answer.
+
+But the view shifts slower when it starts strolling down the street leading to the river. The view is actually calming and beautiful. Dean realizes he's always been enjoying the view of the river from his apartment window, from high above, he barely ever comes down here to see how it looks like up close. The water looks like rippling black mirror, sprinkled with colorful lights from the cars, lamps, and store LEDs. It's peaceful to just stand by the shore, watching the light waving gently on the surface as if the light itself is made of liquid.
+
+Cas must be seeing the same, for he stops walking, just standing there, staring at the river.
+
+"Cas?" Dean tries again, moving along the corridor at one end of the seat, walking closer to the screen. The view looks bigger and more clear.
+
+"I'm sorry," Cas's deep voice echoes in the movie theater through the theater speakers, having a bit of a surround sound effect. His voice sounds calmer now.
+
+"What -- what happened? Where am I?" Dean asks the sound.
+
+"I'm not sure." Cas drops his voice even lower, sounding guilty and ashamed. "I got emotional."
+
+Dean can almost imagine the way the ghost Cas would avoid his eyes, looking down, staring at the tip of his toes like a kid who broke a vase and waiting for his mom's scold.
+
+He almost laughs at his imagination. "You got emotional and then what? Why can't I move my legs, or my hands, or any part of my body?"
+
+His hands are raised slightly, showing up before his view. His palms face his eyes, then turns to the other side. Like his eyes are inspecting his hands, but not as a part of the whole body, but something foreign and new. His hands are lowered out of view then.
+
+It's like those game videos he sometimes saw some kid playing, Dean thinks. Those first-person-view shooting games, where you can only see part of your body, but you get to control them to run around and shoot. Except, right now he has zero control, just watching his body move with their own consciousness -- wait, not their own. Must be Cas's.
+
+"Did you... possess me, or something?" Dean asks, turning his head to one of the speakers where Cas's voice came out from.
+
+"I must be, yes. I'm sorry." Cas answers, tentatively taking a step forward. The view of the river shifts a step closer.
+
+"Whoa, don't do that," Dean yells, panicking again now that he can't see how close they're to the water. Cas quickly takes another two three steps back, the edge of the shore comes into the view.
+
+Dean takes three long deep breathes, murmuring to himself, "Okay, calm down. I'm possessed by a ghost."
+
+"I wasn't trying to harm you, Dean. I wouldn't do that." Cas speaks again.
+
+"Kinda figured that one out, yeah." Dean answers, feeling his heartbeat quieter for a few beats, but still far too much quicker than normal. "Or else you wouldn't just stand here chatting with me."
+
+"But I still can't let you go breaking the law alone, either. It's too dangerous." Cas insists, but this time, calmly. "I don't want you to get hurt, or anything worse."
+
+Dean sighs. "Looks like there's only one solution, then."
+
+"Which is?" Cas prompts. The view tilts a small degree to the side.
+
+"You're the driver now, buddy, might as well take us where we should be. I don't go there *alone*, you'd be there with me. Happy?" Dean exhales a breath.
+
+Cas's voice hesitates. "You... will let me do that? Taking over your body?"
+
+Dean shrugs, though no one can see it. "It's your case, figured it's your right to follow up anyway. And it's nice to get out of that room finally, right? Get to stretch your leg and do some outdoors."
+
+"Yes, it is very nice." Cas answers quietly, voice full of gratefulness.
+
+Dean feels a small smile starts showing on his cheek, but he's not sure if it's his or Cas's. "I'd say don't do anything freaky, but I don't think you will. I'm trusting you here, alright?"
+
+"Thank you, Dean."
+
+The view starts moving again. This time, it feels like watching a first-person-view traveling documentary. Dean picks a center seat in the movie theater and sits down.
+
+Cas walks along the street, taking turns at the crossroads, waiting for the traffic lights, moving across the city on his feet with a calming confidence. It's a weird view, but not unpleasant.
+
+"You walk to office often?" Dean can't help asking.
+
+"By bus, usually, but it's not a long distance." Cas's voice answers. "I used to enjoy walking around the city after dinner. Do you know our home is the most perfect location to both walk along the river and to the park? Though I rented it mostly for its closeness to the office."
+
+"Honestly, I don't know. I drive everywhere. It's close to my office too." Dean watches how the view shifts from one side of the street to the other, checking the merchants behind the closed shop windows. He grins quietly at how joyful Cas seems to be, like a dog getting a walk. And his heart feels warm when he remembers how Cas apparently accidentally said "our home".
+
+<br>
+
+The accounting office building is like a dark tower, when they arrive. The only light they can see through the window comes from dim green emergency light near the floor.
+
+The glass door is locked tight, with visible electrical and physical chain locks wrapped around the handle.
+
+"Dammit," Dean observes. The chain lock looks like made of iron.
+
+"I know a back door," Cas says, gesturing a hand to the side of the building.
+
+They walk along the narrow passageway between the buildings, finding a second locked door. A digital pad shines with red light next to the lock, with a small keypad of ten digit numbers.
+
+"Password lock, nice, do you happen to know the combination?" Dean asks, squinting at the pad.
+
+"I don't have to." Cas reaches a hand to the keypad.
+
+The electrical lock gives off a sizzling sound like the wires are quietly frying inside. The red light blinks a few times before it dies. The door makes a clicking sound, unlocking itself.
+
+Dean stares at the opening door with gaped mouth. "That's freaking awesome," he whispers, watching Cas control his body to sneak inside.
+
+"Ghosts can affect electricity. That's the first lesson I learned when I became a ghost," Cas explains briefly, walking quickly through the dark corridor.
+
+"Yeah, I remember. A bit difficult to forget, in fact. With those light and my printer, woof." Dean chuckles at the memory. "And what's with the water tap? I mean, not just you, the horror movies do that too. I never know leaking pipes and running tabs can be so scary."
+
+"I would guess that's unintentional side effect." Cas pauses when he reaches a door with a sign saying "stairs". He glances at the metal handle gingerly. "I hate how many things nowadays are made of iron, even alloys hurt, though not as much."
+
+He reaches a hand carefully toward the handle. It's the right hand that was wounded by the window handle before, Dean realizes. Ghost must can still feel pain, he thinks.
+
+"Hey, what if you let me go briefly and I open that door?" He calls out to Cas. "You can come back to me once it's open. Would that work?"
+
+Cas's hand hovers a few inches from the handle. "We can try."
+
+The sensation feels funny when Cas leaves temporarily. It's like wearing a thick sweater with your eyes open and head and arms stuck in the middle. You can see the light from the opening above, but your body is trying to figure out how to stick the arms into the sleeves and poke the head out of the opening. One second you can't figure out where are the sleeves and where are the arms, the next, it's all sorted out by themselves, and the sweater fits just right.
+
+Dean blinks as he surfaces. The sweater in this analogy is his own body, the sleeve his arms and legs.
+
+"Cas, you still there?" he whispers, trying to see in the dark corridor.
+
+A thin white mist surrounds him unstably, dispersing quickly, unable to answer. It looks like those ghostly mist is flowing toward the way they're coming from, too. Cas is being dragged back to the apartment, Dean realizes. When he's not possessing Dean, he still can't be out of the apartment.
+
+Dean holds the door handle down quickly and steps into the stairwell. The metal in the handle is a chilly sensation, doing no harm to his very human body.
+
+He whispers eagerly to the thin ghostly fog. "Come on, Cas. Get in me."
+
+The lunging and sinking feeling is lighter and less dizzy when it's the second time. Or maybe it's because he's prepared. Dean sits back down in the movie theater, watching Cas carry his body to the floor where his office is.
+
+The door to his office is locked. And it's not an electrical lock.
+
+*Crap*, Dean thinks, he hasn't really thought about how to handle a locked door. And he certainly has no idea of how to pick a lock.
+
+They do the separation again, so Dean can hold the metal handle and give it a nice and strong shake. The door rattles but doesn't give.
+
+The mist of Cas grows thinner by every second, Dean shakes it harder, turning his head around the place, trying desperately to find something to help.
+
+A desk near him has a box of paper clips that catch his notice.
+
+Dean doesn't really know what he's doing but he's rushing toward it, picking two clips and straightens them, pokes the thin curving ends inside the key hole and twists. The spring inside the lock clicks. The handle can now be pressed down easily, the door opens obediently.
+
+"Holy crap," Dean stares at his fingers and the two clips. If it's not that he knows Cas is outside him and unable to touch metal, he'd suspect it's someone else controlling his body.
+
+Cas jumps back in him the minute the door is open, rushing to the bookshelf with all those thick heavy business books and journals Dean saw earlier. He opens the thickest accounting book. Old newspaper clips and some handwritten notes fall out.
+
+Dean makes a cheerful whistling sound as he watches from inside his own head. "That's twenty bulks for me."
+
+Cas freezes as he stares at the papers. "And another ten for you," he says.
+
+"That's him. He's the one who killed me. I remember now. I remember everything."
+
+<br>
+
+#### Act 6
+
+
+
 
 
 #### draft notes
@@ -1538,9 +1690,9 @@ audited by Cas, Cas found out the company's illegal not just financially, so rep
 
 Nick comes out, seeking revenge on Cas, follows him around, murders him, accidentally wakes Jimmy and finds out all Novaks are here, so goes ahead murder the whole family, then escape
 
-Dean finds out about Nick (by interviewing his coworkers, hacking into police records, helping Cas to remember to pinpoint him), wants to kill him for Cas. Cas stops him, wants to solve it legally, because if he solves the revenge by violence, he'd be no different from Nick. But they don't have enough evidence to sue Nick or tip him off to the police, all their evidence is supernatural, so they use mental breakdown.
+Dean finds out about Nick, wants to kill him for Cas. Cas stops him, wants to solve it legally, because if he solves the revenge by violence, he'd be no different from Nick. But they don't have enough evidence to sue Nick or tip him off to the police, all their evidence is supernatural, so they use mental breakdown. (can change to Cas wants to kill Nick but Dean stops him, showing vengeful spirit Cas)
 
-Cas can't move out of the apartment on his own but he can if he possesses Dean (find this out by accident), so Dean lets him possess him to get out of house and follow Nick to his hideout (some dark basement place), haunts him, scares him, let him see the way Cas looked like with all the blood. Nick freaks out, believing it's ghost revenge, start some random exorcise rituals that don't have real impact, drugging himself more.
+Cas can't move out of the apartment on his own but he can if he possesses Dean, so Dean lets him possess him to get out of house and follow Nick to his hideout (some dark basement place), haunts him, scares him, let him see the way Cas looked like with all the blood. Nick freaks out, believing it's ghost revenge, start some random exorcise rituals that don't have real impact, drugging himself more.
 
 Dean and Cas want to continue but Dean notices first that the more he lets Cas possesses him and revenges on Nick, the more vengeful and violent Cas becomes, he researches and realizes revenge can turn ghost into vengeful spirit, so Dean stops Cas to continue, Cas almost wants to force possess Dean, might hurt Dean in the process, and realizes he's really turning vengeful, Cas gets scared of himself and sees Dean's point, but don't want to stop, he's not avenging himself, he's mostly avenging for his whole family. Dean promises to avenge for him.
 
