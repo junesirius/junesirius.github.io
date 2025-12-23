@@ -1754,7 +1754,137 @@ Dean passes out when the melatonin kicks in.
 
 #### Act 7
 
-> they track Nick's location, haunt him
+> they track Nick's location
+
+Dean is woke up by his phone ring.
+
+He fumbles to pick it up without opening his eyes.
+
+Mr. Adler's voice clears his foggy brain effectively. "Dean? I hope I didn't disturb you. Are you feeling better today?"
+
+"Yes," Dean tries to say. But his throat is dry and hoarse from all the exhaustion of the previous night. Which, happens to be exactly what he can use. Dean coughs to clear his throat and makes sure the other end of the phone hears every sounds of vibration. "Yes, a little better now, Mr. Adler."
+
+"Good to hear," his supervisor answers politely, then cutting straight into the topic, "I'm calling to see if you're well enough to come back to work. You see, you've been here almost three weeks now, the first week you said it's a new bed problem, the second week, what was it again? You were yawning in every single morning meeting. And now you catch a cold. Dean, is there something I need to know?"
+
+Dean drags himself up from the bed slowly, using the free hand to press the throbbing temple. "No, Sir," he answers formally. "Nothing to worry about. I'll report to office today. You can count on that."
+
+"That's good to hear," Mr. Adler says in the same business cheerful tone. "Just remember, Dean, I liked you and your work used to be great, but the next performance review? It only evaluates the last six months. You don't want to look bad on the chart. You know what I mean?"
+
+"Yes, Mr. Adler, perfectly clear." Dean answers promptly, forcing the same cheerfulness.
+
+"Good, see you in office today." The phone hangs up.
+
+He curses at the phone the minute he's sure the line is cut.
+
+It's barely seven.
+
+But no point lying back down now that he's already waken.
+
+Dean has to really drag himself to the bathroom, then kitchen, to go through all the mundane routines that used to feel so easy. He finds his brain wondering what's the point of everything he's doing now. What's point of wearing suit and tie, what's the point of drinking rice milk, what's the point of packing salad for lunch, what's the point of going to work. What's the point of all these things, instead of figuring out how to save people, hunt bad guys, when there's a murderer out there, killed four people, still hurting one of them even just to think about that. Who is his friend, who he doesn't know how he is now, who he doesn't know how to help.
+
+Dean thinks about that as he drives to the office. He thinks about that as he joins his meetings. He thinks about that as he replies emails. *There must be a reason,* the reasonable part of his brain supplies, which must also be the part that gets him to the Stanford and then gets him this job, a part that he's finding increasingly unfamiliar of. *There must be a reason all those other people are doing that, every single one of them, every single day. What makes you so special?*
+
+Dean doesn't have a good answer for that last question. So he keeps busying his hand and brain with the job. That's the only way he can keep the life running and Earth spinning, he thinks. Following this routine, just like everyone else. Because, there's nothing special about him, right?
+
+-- Well, except he happens to have a ghost roommate slash friend slash... something he doesn't know and doesn't want to think about. He's a ghost, after all.
+
+Dean feels more tired coming back home after a full day of putting on a smiley, formal, normal, businessman mask, than climbing all those stairs in the closed building to pick a lock and steal files the former night. He throws himself to the sofa, closing his eyes, not wanting to move. *What's the point of this life?* His mind is still stuck in the same loop. *What makes him so special?*
+
+He opens his eyes, and the first thing he sees is Cas's plant on the dining table. A new voice answers, *The point is to help people, and in this case, help Cas. And he's special, because he cares, and he can.*
+
+He sits up to get himself some dinner, stroking the leaves gently as he passes the table. The healthy, green leaves has a chilly, wet touch, reminding him of the ghost.
+
+Dean waits for the microwave oven to finish spinning, as he leans against the counter, calling the room tentatively, "Cas, you there?"
+
+The plant's leaves shake in a rustling sound, but the windows are all closed.
+
+Dean stares at the plant with subtle amusement. "Haunting a plant, that's a first," he murmurs, but can't help feeling his mood enlightened slightly.
+
+He finishes the dinner on the same table where the plant sits, and finds the little green thing is more interesting to watch than TV. Especially when it shakes, like it's listening when he talks to it. He knows Cas is there, somewhere, so he tells him about the work, the day, and his realizations. The little plant shakes every time he pauses. Dean smiles at it.
+
+The rest of the night is spent on continuing the search for Nick, but the progress is minimum to zero.
+
+For three days in a row, Dean manages to keep up the spirit to work, to eat, to talk to the Cas-in-a-plant, to search for Nick, and to drag himself to bed, toasted and disappointed.
+
+On Friday night, he snaps.
+
+"Okay, I have enough of this." he shuts the laptop and springs up. The plant shakes at his sudden move.
+
+"I need to get out or I'll get crazy," Dean tells the plant. "Are you coming?"
+
+The leaves rustle again consistently, almost like a sound of worry.
+
+Dean feels somehow he can see Cas's frown just through the shaking leaves. "I'll take that as a yes."
+
+He goes back to his bedroom and changes into flannel shirt and jeans, the same set he wears the other night when Cas jumped him and they went the little adventure of break and enter. This set of clothes suddenly seem to have a special meaning and connection now. As if it's giving him a different identity, finding a different him inside himself. A real him.
+
+Dean regards himself again in the mirror, thinking his reflection looks slightly more familiar now. As if he's starting to know that self better.
+
+The plant shakes quietly behind him, as if Cas's looking at the same image.
+
+Dean grins, leaving the room with the pot plant in his arm.
+
+He isn't quite sure actually, if the plant possession would work the same as human, if Cas gets to come outside freely. He watches the leaves carefully as he steps outside.
+
+"Tap once for yes, if you are still here," Dean whispers to the plant.
+
+The lowest leaf shakes sideways, touching his finger where it's holding the pot, leaving a trace of wetness. The tip of the leaf is still wet from the watering he just did a moment ago.
+
+Dean amuses, but just in case it's wind. He says again, "Now tap twice for no, you're not wind, just in case."
+
+The top leaf shakes poutingly -- Dean swears that is a pouting shake just from the way it swings. Then the lower leaf taps his hand twice, leaning on his fingers without leaving now.
+
+Dean huffs a quiet laugh and locks the door.
+
+<br>
+
+Cas loved walking along the river and through the park. Dean remembers him saying. So he takes the same track leading to the shore, strolling along the river.
+
+Breathing the damp air makes his head feel clearer. Dean takes a long breath and exhales slowly.
+
+And then, in the middle of the fresh air, he smells cigarette. On second sniff, he realizes it must be something more than nicotine. Wind comes opposite the direction he comes from, blowing a mixed burning smell of leaves and chemicals right on to his face. The smell is disgusting and repulsing.
+
+Dean holds his breath and turns to head back.
+
+The plant starts shaking violently. The lower leaves wrap around his fingers, tapping and slapping him.
+
+"Ouch, stop! Stop it, Cas!" Dean tries to use one hand to free from the haunted plant's attack, but Cas is insistent. For a moment, Dean is worried if the plant would shake so violently that it would pull itself out of the soil and run away with two feet. "What is it, Cas? Come on, I can't understand if you don't say it."
+
+The top leaves change into a patterned left to right, then right to left, shaking. Looking quite clear a shaking-head motion, conveying a "No." Dean rolls his eyes. "Oh, great, now I'm doing sign language with a plant. That's a no, okay, I get it, and then what?"
+
+The top leaves still, and the lower leaves that get to touch Dean's fingers start wiping him in one direction. From the direction they're coming from to where the wind is coming, wipe once, lift, go back to where they start, then wipe again. A one-directional urge. "I should go there, is that it?"
+
+*One tap.*
+
+"Hum," Dean glances in that direction, where a long bridge stands over the river, crossing from one side to the other, and glances at the plant again. "You better have a good reason."
+
+He holds his breath and heads to where the smell comes from. The wind is consistent in sending the new wave of smoking smell.
+
+Dean thinks he's almost fainted from the smell and suffocation when he walks closer to the place. There is a large gap under the connection where the bridge is standing on the shore. Long metal and rock forms a corner that looks like it's been repurposed to a temporary shelter. A figure of a human lies in the shadow, with a spark of light at the end of a burning cigarette. The smell comes from there.
+
+"Just a homeless, I don't see why you want me come here." Dean whispers to the plant.
+
+White smoke starts steaming out of the plant. It takes Dean a second to realize what's happening. He hisses at the mist in lowered voice, "What are you doing? Cas! Come back in! There's iron all over the place!"
+
+A man in uniform approaches the human in shadow before the ghostly mist of Cas can reach an agreement with Dean.
+
+The Uniform flashes a flashlight at the hidden corner. "Mister, you can't stay here. Go find somewhere else."
+
+The man in the shadow grumbles. A lazy hoarse voice. "Why not?"
+
+"Just can't. I'll have to fine you, or arrest you, or you go by yourself. You hear me?" The Uniform lights up the man's face.
+
+The man squints at the light, using a hand to cover his eyes. "Fine."
+
+And in that split second when his face is lit. Dean stills.
+
+That's Nick.
+
+<br>
+
+#### Act 8
+
+> they haunt Nick
 
 
 
