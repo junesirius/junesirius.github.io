@@ -2584,19 +2584,163 @@ Tears fall from the corners of his eyes again.
 
 #### Act 2
 
+"That was, a very unpleasant experience," Cas says slowly.
 
+Dean doesn't know if he wants to cry louder or laugh louder, so he does both. "Dude, that's three months ago!"
+
+He turns on the lights, examining the ghost. Cas looks tired, the misty shape thinner and more transparent than usual, but it's undoubtedly him.
+
+"I was trying to contact you, but I was too weak," Cas explains, rubbing his hands uneasily. "I couldn't talk, or 'haunt'." He air-quotes.
+
+Dean reaches to touch his foggy misty hand, feeling the chilliness touching his finger, condensing into little water drops like the water dew gathering on plant's leaves.
+
+"Sorry for making you worried," Cas watches the overlapping shape of their hands. "but I did just get burned. I have to find my own consciousness again before reaching back to you."
+
+"How did you manage that?" Dean can't help asking. But somehow, he thinks he already knows the answer.
+
+"I feel a call, here. An unfinished business," Cas says.
+
+"I know you're going to say that," Dean says, staring at their hands too.
+
+"Did you figure out what that might be? Because I have not," Cas asks curiously.
+
+Dean hesitates. "I do, actually. I wasn't sure before, but if the last three months taught me anything, I think I know now."
+
+Cas meets his eyes, querying.
+
+"I'll have to do just one more thing, and then I'll let you know," Dean tells him, making up his mind.
+
+<br>
+
+He knocks on Mr. Adler's office door, the next day. The sign on the door reads: "Edward Adler, Senior VP".
+
+The man is a little surprised to see him. It's usually him visiting Dean. Dean doesn't usually come to the VP's floor.
+
+"May I have a moment?" Dean asks politely.
+
+Mr. Adler makes a gesture at the chair before his desk.
+
+Dean closes the door behind him.
+
+"Anything I can help you with, Dean?" The man asks with a pretentious smile, like he always does.
+
+Dean takes a breath, looking into his eyes. "I'm giving my notice," he tells him. His heart beats fast in his chest, but that's for a whole different reason than nervous about the decision.
+
+Mr. Adler raises his eyebrows. "Notice?" he asks, surprised. "It's a joke, right?"
+
+"I'm resigning." Dean lets the breath out, thinking the words he prepared on his way up here. "I just recently -- very recently, actually -- realize I have something more important to me that I need to do."
+
+"Other... work? You mean like another company? We can offer a raise on the salary, Dean, that shouldn't be a problem," the man urges.
+
+Dean looks down at his hands, struggling with words. "No, no... I can't explain it. Many things happened and not many people would understand. But I've been thinking, since the event three months ago, the meaning and purpose of everything, and I finally got my answer. This isn't where I'm supposed be, or what I'm supposed to be doing."
+
+"Three months ago, you mean when you killed a ghost." The man starts smiling.
+
+Dean stares at him. "I didn't... how did you know?"
+
+The man doesn't answer, just asks, "I just have one question I don't understand: why didn't you get rid of that thing in your place? You are so good at this."
+
+"What thing?" Dean's body tenses. "You mean Cas? How did you know?" His eyes narrow. "I never told anyone."
+
+The man shrugs casually. "You didn't? Pretty sure you did. And you said it's a ghost, isn't it? Same as the old Sandover?"
+
+Dean snaps up from his chair. "*He*'s not a *thing*! And *his* name is Castiel." Scrutinizing the man's smiling face, a shivering sense of uneasiness rises from his gut.
+
+"Who are you?" Dean's tone changes. He squints at the man, alarmed and uneasy. His instinct starts giving him warning signs. "How *do* you know everything? I absolutely told no on about Cas!"
+
+"Dean, Dean, Dean." The man grins, standing up and reaching a hand, two fingers pressed together, touches him on the forehead.
+
+Dean gasps.
+
+The reality and memory comes back.
+
+<br>
+
+"What the hell --" He stumbles back, pulling distance between himself and the man. "What did you just do? What are you?"
+
+"Welcome back," the man says, that unsettling smile is still hanging on the tip of his lips.
+
+"Did I just get touched by -- you're an angel, aren't you?" Dean stares at him, fingers fumbling the back of his belts and failing to find a familiar touch of gun.
+
+"I'm Zachariah," the angel answers, "Castiel's superior."
+
+"Cas -- " Dean gasps again, taking another two steps back, absently leading himself to the door's direction. "What did you do to him?! What did you do to me?"
+
+"Just a little pocket universe, you might call it," Zachariah grins, pleased with himself. "To shake you up a little bit, considering the recent events. Seeing Castiel and Uriel unable to persuade you, I have to jump in one of these smelly things to make sure my ducks are in a row. Imagine my surprise when I see how the two of you still end up together regardless of everything."
+
+Dean glares at him, "I'm not one of your ducks! So what, I just hallucinated everything, imagined him as a ghost, and everything, is that it?"
+
+"Not at all," Zachariah meets his eyes. "Real place, real hunting. Just modified some of your memories -- all of it, actually -- you should thank me."
+
+"I have absolutely no interest of thanking you." Dean almost spits. "You made him a freaking ghost!"
+
+"Well, that part is slightly unplanned and unexpected, like things always were, when it comes to the two of you." Zachariah wrinkles his nose like he smells something filthy. "He decided to sneak into this pocket universe, to take a watch duty, as he put in. I didn't know, but it doesn't take a genius to figure out what he was thinking when he jumped in: he must have wanted to be able to contact with you, but doesn't necessarily need to be seen by you. Guess what, the best watching seat is a ghost in your apartment. The rest is all your doing."
+
+"I bet you're having fun watching everything," Dean bites bitterly. "All those meetings and checkups, that's a joke for you, isn't it?"
+
+"To prove to you that we are always right about you," Zachariah looks slightly offended. "You have to re-meet yourself, but we've always known you! You're destined to do this, you're a hunter. How long does it take to wear back that flannel, break and enter, and back on your old track, hmm? Even when you have all the decent job, no family issue, no childhood trauma, you'd still be back on this road. This is destiny! What you're meant to do!"
+
+"Angel or not, I'll stab you in the face." Dean grits his teeth.
+
+Zachariah acts as if he doesn't hear his words. "Let's face it, you'll always be who you're supposed to be. You're a killer, and you'll always be. You'll do everything you're destined to do."
+
+Dean actually almost starts laughing. "That's what you think I just learned about myself? Buddy, you're way off."
+
+He leaves the office and slams the door without looking back.
+
+<br>
+
+The world is back normal -- which is to say, it's the same Apocalypse world that they'll have to struggle to save. But before that, Dean has a promise to keep. He worries for a second that his apartment would be wiped by the dick angel, but to his relief, it still stands where it is. And Castiel too -- as an angel, just like last time he saw him when he sat next to his hospital bed.
+
+Dean swallows at the familiar view of him, feeling his tongue dry. How come it used to feel so easy when he was a ghost?
+
+"You're still here," he murmurs when he opens the apartment door.
+
+"You told me to stay here," Cas answers.
+
+"When you were still a ghost," Dean says.
+
+"Do you want me to go now?" The angel looks at him.
+
+"No, no," Dean rushes. "Not at all. I told you I have something to tell you, I'm keeping my words."
+
+The angel listens in silence.
+
+It's difficult. Dean takes a slow breath -- this seems to be one of the habit he picked up from the past three or four months. He wonders how many other habits stay behind.
+
+"The unfinished business isn't yours, it's mine." Dean starts, and once it's started, the rest comes out easy. Cas stares at him attentively, but not understanding. "I have one thing very important but never did, and I only learned that when you were gone."
+
+"I wasn't really --" Cas starts.
+
+Dean holds out a hand. "You were gone, to me. It doesn't matter what you were or are, or what I remember. All those feelings are real."
+
+Cas closes his mouth.
+
+Dean continues. "So here it is, the fact, the realization I didn't know about until now," he takes another long breath, "You are too important to me that I can't lose you. I can't imagine living in a world without you. Zachariah thought he taught me a lesson about who I am, that I am who I'll always be. But I learned a different one -- that I will be *with* who I'll always be *with*. The people I choose, I will always choose. My family, my friends, all those important people in my life. You, of them all. I'm not a killer, you see, I'm a lover. And I can only see that now."
+
+Cas swallows.
+
+"Dean," he answers. Quiet, deep, low. His eyes on Dean, so deep, so blue, so much.
+
+Dean thinks that's all the answer he needs to hear. He doesn't even need one, for the fact Cas is here, that's all the answer.
+
+"Come on, we still have an Apocalypse to save," he reaches a hand, gesturing to the door, to the world outside. The real one.
+
+"You're ready now?" Cas asks quietly, taking his hand.
+
+"Know you'll be by my side for everything? I'm ready for anything." Dean smiles, and opens the door.
+
+They step back into the world. Together.
+
+<br>
 
 #### draft notes
 
-> Dean freaks out when Cas is gone, in mourning mode for a bit (rooms feels suddenly too quiet and too empty), but Cas comes back the next day, unstable but there, "That was unpleasant"
->
-> talk about how come Cas is still around, what unfinished business, reveals it's Dean, leading to Dean decides to resign
->
-> Mr. Adler shows, Dean resigns, Zach blows up his cover, makes ghost Cas disappear, Dean freaks out, attacking Zach ("that's not who I am"), Zach wakes Dean up, comes back to reality (only stop when Dean seems to learn who he is)
+> ("that's not who I am"),
 >
 > Zach teaches Dean lesson, thought he resigns because of Dean's hunter killing instinct ("you're who you'll always be, you're a killer"), but Dean's thinking about really full attention helping Cas, because he cares
 >
-> Dean: "has more important things to do, more purpose" ("he's a lover, not a killer")
+> Dean: ("he's a lover, not a killer")
 >
 > twist about Cas's setting in the end, Dean's realization he'll need to talk to Cas (whose unfinished business)
 >
@@ -2609,20 +2753,6 @@ at last give a small extra twist: thought it's ghost Cas's unfinished business a
 ~~Big question: how much does Cas know about Zachariah's AU? how much of that ghost is actually real Cas? Zachariah actually injects Cas's grace inside so it's actually Cas? (left it blank and open?)~~
 
 the lesson Zach wants Dean to learn is "You'll always be who you're supposed to be" in any worlds, but Dean learns main revelation: "You'll always be with who you're supposed to be with, he's supposed to be with Cas together", he makes up his mind to tell Cas how much he cares for him
-
-
-
-How does Zach blow up his cover:
-
-Zach: Why didn't you get rid of that thing in your place?
-
-Dean: What thing? You mean Cas? How did you know? (suspicious) I never told anyone
-
-Zach: You didn't? Pretty sure you did. And you said it's a ghost, isn't it? Same as P. T. Sandovers?
-
-Dean: *He* is not a *thing*. And *his* name is Castiel. (alarmed enough, squint) Who are you? How *do* you know? I absolutely told no one about Cas, not even Jo.
-
-Zach: (smile, touch his head, wake him up)
 
 
 
