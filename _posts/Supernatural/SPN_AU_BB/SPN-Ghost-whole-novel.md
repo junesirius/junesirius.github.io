@@ -10,9 +10,9 @@ origin: 2025 SPN AU Big Bang
 long_novels: 【Destiel】Unfinished Business
 ---
 
-Tags: It's a Terrible Life AU, S04E17, Dean Smith, Non-Hunter Dean, Ghost Castiel, Amnesic Castiel, Amnesic Dean, Unconventional Domestic Life, Slow Burn, Get Together, Canon Divergent, Fluff (sort of), Very minor horror in the beginning, Hopeful Ending
+Tags: It's a Terrible Life AU, S04E17, Dean Smith, Non-Hunter Dean, Ghost Castiel, Amnesic Castiel, Amnesic Dean, Unconventional Domestic Life, Slow Burn, Get Together, Canon Divergent, Fluff (sort of), Very minor horror in the beginning, Hopeful Ending, Temporary Main Character Death, Minor Angst
 
-Warnings: Pre-Story Main Character Death, Pre-Story Minor Character Death, Pre-Story Child Death, Indicated Past Violence, Graphic Depictions of Violence
+Warnings: Pre-Story Main Character Death, Pre-Story Minor Character Death, Pre-Story Child Death, Indicated Past Violence, Graphic Depictions of Violence, Temporary Main Character Death
 
 Rating: Teen and Up
 
@@ -2448,15 +2448,13 @@ The air that is too quiet, too stable, too warm to show any sign of another ghos
 
 Dean stares at the place where he last stood, where he yelled Dean's name for the last time. The empty air.
 
-Tears stream down.
+His eyes burns hot. Tears stream down.
 
 Cas is gone.
 
 <br>
 
 #### draft notes
-
-
 
 Dean proposes to retrieve Cas's ashes from the city, Cas thinks it's unimportant
 
@@ -2470,8 +2468,6 @@ Cas now can follow Dean around but still can't get far away from him, suggesting
 
 Cas getting more physical too, able to do more things, finding lost items, taking phone call (Dean can call home now to talk with Cas, coworkers/Adler? think he's dating/having partner)
 
-###### [TBC]
-
 ### Chapter 5
 
 > Zachariah shows (as Mr. Adler), Dean resigns, Zach thought it's because of Dean's hunter killing instinct, but Dean was thinking about wanting to help Cas, because he cares (Zach let this world continue, hoping to see him start killing)
@@ -2481,6 +2477,112 @@ Cas getting more physical too, able to do more things, finding lost items, takin
 > Zach makes ghost Cas disappear, Dean freak out, Zach wakes him up, comes back to reality
 
 #### Act 1
+
+Dean doesn't know how he goes back to his office, or how he goes back home, that day.
+
+The rest of the day feels empty. So is his chest.
+
+He turns on the light of his apartment when he gets home. The room is deafeningly quiet. Without the existence of another being.
+
+Not like he's expecting a partner or a hot meal or anything.
+
+He finishes the heated dinner alone. He lets the TV on for a while and then turns it off.
+
+He talks with the plant on his diner table, a lot. And keeps asking it to tap once, tap twice. But the plant doesn't react to his words.
+
+Dean lies down on his bed when it's his bed time, and stares at the ceiling for long hours, listening to the sound of leaking pipe, or the dropping temperature, or the sensation of being watched. But there is nothing.
+
+He doesn't go to sleep until he exhausts himself out from rethinking everything that happened in the past three weeks. And he dreams of the man, standing in a movie theatre, wearing a trench coat.
+
+<br>
+
+He barely smiles in his working meetings now. Or smiles at all.
+
+It's almost as if a piece of him is missing, and Dean thinks, it really shouldn't affect him that much. But it does.
+
+The room is too quiet, too empty, too big.
+
+He even considers terminating the rent early. He obviously doesn't need all this space for himself.
+
+But when he sits down by the table, unconsciously placing two plates for two take-out burgers, exactly one month after he first met Cas, he decides, he'll keep living in this apartment just a little longer.
+
+Mr. Adler checks on him once, asking if he's alright.
+
+Dean has to put on the facsimile of a smile for him, saying he's just tired.
+
+He's offered a raise, and Dean thanks him.
+
+The money doesn't seem important now, nor is work, nor is everything else, really. He feels he suddenly forgets the answer to a very important question: *What's the point of all of this?*
+
+What's the point if he can't help people. What's the point if he can't even save just one of them who he cared.
+
+He thinks he knew the answer once, but he forgot now.
+
+Lying on the bed, he thinks and think, and dreams about that man again.
+
+<br>
+
+By the second month, he's fairly certain this is just going to be the rest of his boring, hollow life, waning in the nine-to-six life.
+
+But then, a pipe leaks in his bathroom.
+
+He hears the water dripping. He runs into the bathroom so quick that he bumps in the door and hurts his toe, but he doesn't care.
+
+*Drip, drip, drip...*
+
+He watches the falling water drops with such fascination that the hope almost dizzies him. The sound of the dripping water is the most beautiful music to his ear.
+
+"Cas? Is that you?" He asks the leaking pipe.
+
+The water just drops.
+
+He doesn't call maintenance for a whole week. But in the end, they say, it really is just a leaking pipe.
+
+Dean presses the bridge of his nose, thinking he's going crazy.
+
+<br>
+
+The week after that, his TV signal is disturbed by some unknown electrical disturbance. The screen shows fuzzy snowflakes briefly in the middle of a baseball game.
+
+Dean sits straight on his sofa. But then the baseball comes back.
+
+The week after, it's the printer spitting a white paper. It doesn't have any words on it, but it shouldn't just turn on and spit out the paper either.
+
+Mr. Adler comes to him again. "Are you still willing to continue working here?" he asks.
+
+"Yes, Mr. Adler," Dean tells him, tiredly but managing his best sense of respect.
+
+"Are you happy here?" he asks again. This question seems to happen quite many times now, in their regular sync-ups.
+
+Dean's lips twitch. *Happy?* He's about to forget what that feels like.
+
+"Yes," he lies.
+
+"So you don't have any other place you'd rather be, or a different life to live, perhaps?" The man raises his eyebrows.
+
+Dean shakes his head. "No, sir."
+
+Mr. Adler seems to be both pleased and displeased by his answer, leaving his office.
+
+Dean watches his back, wondering briefly what's the answer Mr. Adler was expecting to hear. And then he decides he doesn't really care what other people think.
+
+<br>
+
+He comes back home that day. Which is three months after the event, four months after he moved in the apartment.
+
+The light in the apartment flickers. All of them. Whether they were powered or not. Whether they were on or off. They flicker like stars in the sky, like eyes blinking.
+
+Dean feels his eyes sting again. The view is way too familiar, but he doesn't dare to keep his hope high.
+
+His lips quiver. "Cas?"
+
+The misty shape converges slowly, unstably, but surely, the figure of the man reemerges. "Hello, Dean."
+
+Tears fall from the corners of his eyes again.
+
+<br>
+
+#### Act 2
 
 
 
