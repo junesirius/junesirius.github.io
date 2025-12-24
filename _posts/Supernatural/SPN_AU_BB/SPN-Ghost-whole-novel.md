@@ -2084,6 +2084,212 @@ The white mist of the ghost Castiel ascends from his body, stretching into the a
 
 #### Act 1
 
+"Okay, I'm not getting it." Dean dries his newly washed hair with a towel, yelling at his bathroom mirror. "I saw you leave! I saw it with my own eyes! Then how are you still here?! Don't tell me it's Nick's ghost or whatever!"
+
+He's finally home and getting himself a clean shower, all he ever wants is to crashing down on his bed and sleeping until the two full days of the weekend is gone. But as he comes out of the bath tub, glancing at the mirror, he gasps again.
+
+The steam-covered mirror has some new haunted letters. Unlike the first time round, which Dean still has a too vivid traumatic memory when he first saw the letters "DEAD" on it, it now reads "DEAN".
+
+He stares at the mirror and curses, "I swear, if it's you, Cas, and you're telling me there're some haunting typo, I'm going to haunt you for the rest of my very human life. And you know I'm good at that now."
+
+The steamed mirror has some new letters added quickly: "Sorry, bad joke, it's me."
+
+Cas shows up then, looking innocent and normal, just like himself, hovering on the edge of the bathroom door, smiling at him.
+
+"Explain to me how you're still here. You went poof the moment Nick was dead," Dean demands, ignoring the water dropping from his hair wet his fresh carpet, storming to the living room, gesturing Cas to follow, and turning on all the light. He looks at him closely.
+
+Nothing is wrong. And nothing much is changed.
+
+Cas is still a ghost, his form is still translucent, with white mist flying around him. He's still wearing that silly tax auditing looking trench coat. And his dark hair is still all messed up. If he has to pick one thing different, then it's Cas looking more at ease, happier, now. And his eyes are bluer, gazing into Dean's attentively.
+
+"I wasn't going poof," Cas repeats Dean's words carefully, "I was indeed, freed, though. Free from the confinement of this apartment, free to leave and exist outside. So I had to test it out a little. But I'm not gone. There must be something else that kept me here, I think. It's here, calling me back."
+
+"So like, a second unfinished business?" Dean frowns at him, "Dude, how many things have you not done? I can't possibly finish *everything* for you! I got work to do!"
+
+"It's Saturday today," Cas points out matter-of-factly.
+
+Dean rolls his eyes. "You know what I mean."
+
+Cas lowers his eyes, looking down at the floor. "Do you want me to leave?" His voice sounds hurt.
+
+Dean blinks, softening his voice. "You know that's not true. I enjoyed your company. I just... I don't know, want to help you."
+
+"You're helping me." Cas meets his eyes again, encouraged. He glances at Dean's wounded arm. "By allowing me to stay. I was so worried, Dean. He hurt you. Maybe it's just, I'll have to make sure you're fine. My business might complete once you recover."
+
+A stirring sensation bubbles inside Dean's chest. The tips of his lips twitch in bewilderment, not knowing if he should laugh or feel disappointed. Secretly, Dean realizes he's hoping his arm can recover slower.
+
+"It's no big deal, actually." Dean gestures his forearm, wrapping it with bandage he kept in the first aid case above the fridge. He's learned to stop feeling surprised when his own fingers seem to know perfectly well about how to clean the cut and wrap it, even though his brain doesn't.
+
+"You can stay as long as you want, Cas," he tells his ghost friend, smiling.
+
+Cas smiles back.
+
+<br>
+
+Dean sleeps until past noon that day.
+
+This is the very first day in the last three weeks that he actually gets to sleep without stress for a whole night.
+
+When he gets up, the whole world seems to be so much brighter and lovely.
+
+He even spends some time cleaning up the rooms and doing chores. When he picks up the bloody torn flannel shirt from the bathroom floor, he hesitates.
+
+"Are you going to throw it away?" Cas asks.
+
+Dean stares at the tear, feeling oddly fond of the shirt. "Nah, I'll fix it later."
+
+He throws it into the combined in-unit washing machine, instead. And goes downstairs to the nearby department store to get a pack of needles and threads when the dryer is rolling.
+
+Cas shops with him, but stays invisible.
+
+"You can possess me if it's easier," Dean whispers, can only judging by the way air condenses to locate where Cas is. "Stay inside, nice and cozy."
+
+"I don't want to make you uncomfortable," Cas's voice is near his ear.
+
+Dean glances to his side. "I'm fairly comfortable with you in me, actually." He blushes slightly once the words are out, realizing the unintended double-meaning of the sentence, but Cas doesn't seem to notice.
+
+"I still think it's safer for me to stop possessing anything or anyone," Cas says reasonably. "I don't want to be... that *thing* again."
+
+Dean grimaces, remembering the distorted vengeful spirit that Cas almost turned into. His face drops. "You're probably right."
+
+A small voice in his head says, they don't actually know, though, if possessing or the emotions are the cause that made ghost turn into vengeful spirit. Dean has a gut instinct to agree with what Cas said, but he's also taking a mental note to get some more research done on ghost science.
+
+He wheels the shopping cart to the grocery aisles, thinking he might as well do a grocery run for the next week's meal prep. His foot stops at the frozen pizza on their way to pre-packed salad. Dean realizes he's staring at the pizza flavors.
+
+"I should quit those," he murmurs, talking to his ghost friend. Though anyone walking past him would only think he's talking to himself.
+
+"But you like it?" Cas answers.
+
+"Yeah, actually. I think I'll like it." Dean finds his hands already grabbing the pizza boxes and packing them into the cart before his brain can make a decision. "What do you think, all those running and crawling last week, that should be equivalent to a week of gym session, right?"
+
+"I don't know much about calorie or exercise," Cas says honestly. "But you should have what you like. It makes you happy."
+
+Dean grins at the air. "That should be worn on the shirt."
+
+Same happens when he's on his way to cleansing juice and happens to pass by the fridge for dessert, or the beers next to the rice milk.
+
+*Well, what can you say,* Dean checks them out while thinking, *you only live once.* He gets a feeling his ghost friend is really changing him, and he doesn't mind that at all.
+
+<br>
+
+His mood is high when he goes back to work on Monday morning.
+
+With two full days of recharging, for the first time after three weeks, Dean feels energized.
+
+And even better, now that Cas gets to be free and exist outside house, he seems to have a very strong preference of staying close by Dean, which, Dean realizes, he doesn't mind at all.
+
+So when Dean works into his office, accompanied by his ghost best friend, even the work feels more entertaining.
+
+Even Mr. Adler notices the difference.
+
+"You look, happy, Dean," the man says, sitting down in the chair opposite him. "Any good news?"
+
+Dean shrugs, but can't help smiling genuinely. "You may say that."
+
+Mr. Adler scrutinizes his face, "Let me guess, a new relationship? You met someone, don't you? Love can do that to a man."
+
+Dean barks out a laugh. "Not remotely like that, but, also in a way, not wrong."
+
+"Well, as long as you're happy." Mr. Adler glances around the office, then rises and pats his shoulder. "Anything you need, just let me know, okay? The company works the best when the employees are happy."
+
+Dean keeps the smile on as Mr. Adler leaves his room.
+
+He chuckles when he thinks back about what the man just said. Well, a new friendship is also counted a *relationship*, isn't it? So is the friendly love. He whistles briefly in a distant tune he doesn't know he remembers.
+
+Cas flashes into existence, leaning against the wall.
+
+"Dean," his tone is slightly tight. "There is something in this building, I think you should be careful."
+
+Dean's smile drops. "What thing?"
+
+"I'm not sure, but --" he closes his eyes, frowning deep, contemplating.
+
+Dean regards him, joking. "That just looks like you're pooping."
+
+Cas opens his eyes and glares at him. "I think it's another ghost."
+
+Dean whistles. "Geez, just my luck. Is that a good ghost like you or something else?"
+
+The wrinkle between Cas's eyebrows deepens. "I suspect there is probably not many like me."
+
+"I bet," Dean sighs. "Remind me to bring a poker or something metal to the office tomorrow then. And you," he pokes a finger at Cas, "stay as far away from it as you can."
+
+Cas nods quietly, still looking rather worried.
+
+<br>
+
+The answer quickly becomes clear that it's definitely not a friendly ghost when the first thing Dean sees outside the office as he parks his car, is ambulance.
+
+"What happened?" He approaches the crowd gathered around the Tech Support floor. The kitchen area is blocked by yellow tapes. Police and medics are everywhere, asking questions, busying themselves with this and that. He sees blood and flesh on the floor and wall all around a smoking microwave oven. The air still smells toasted flesh.
+
+The man fried his brain with the microwave, as it turns out. The name is Paul Dunbar.
+
+Dean goes back his office, glum and pensive. Something just doesn't feel right.
+
+Cas is staying next to his desk.
+
+"You're right about this," Dean types the deceased guy's name into the human resource portal, staring at the popped up window that says the man is going to retire in two weeks. "Who would kill themselves when they're two weeks from freedom?"
+
+"Ghost-affected guys?" Cas suggests.
+
+"That's actually a rhetorical question," Dean answers absentmindedly, knowing both of them are thinking the same. Nick ended up killing himself, too. Whatever one might say he's drugged up or guilty or anything, that's still a ghost-involved death, appeared to be suicide, just like Paul's. Not to say Cas is anything bad like this new unknown ghost, of course.
+
+"We have to stop it from hurting anyone else," Dean says firmly, typing on his laptop quickly, pulling out the the deceased's last email correspondence.
+
+"I will help," Cas answers, leaning in to look at the same screen.
+
+Paul's last email, received three days ago was asking him to report to HR, Room 1444, the next day.
+
+"HR's on seven," Dean notices immediately, starting to search the same email sender and the same room address among the whole email database in the past three days.
+
+The result comes out with two matches: the same content was sent to two other workers, Ian Johnston received it two days ago, and Steve McCaig received it yesterday.
+
+"Must be something freaky with that room, then," Dean wonders aloud.
+
+"Ian would have already been to the room, and Steve would go there today," Cas points out immediately. "And if Paul died the day after he was in that room --"
+
+"Ian would be today, dammit, let's hope we're not too late." Dean starts pressing the number on the internal phone, ringing Tech Support Division.
+
+The young man is pale and shaky when he enters Dean's office, his nerve is visibly on fire.
+
+"Ian, is it?" Dean smiles gently, trying to ease him down.
+
+"Oh my god," Ian pants breathlessly, "Did I do anything wrong? I must have done something wrong for a manager wanting to see me. Oh god, I'm so sorry. I -- I -- failed the company --"
+
+"Ian!" Dean has to raise his voice to get Ian's attention again. "Nothing is wrong. You're doing great! I just want to ask you a few questions?"
+
+Ian looks at him with sad puppy eyes. "Questions?"
+
+"Yes, questions about yesterday when you went to Room 1444. What happened in that room? What did you see?"
+
+Ian blinks. "I -- Nothing. It was empty when I went in. No one was there. I thought it must be a prank. So I just left."
+
+"Was it cold?" Dean asks.
+
+Ian stares at him. "How do you know? It was freezing in there."
+
+Dean casts a quick knowing glance at the corner behind him, where the temperature was lower, mentally sharing a look with Cas.
+
+"Mind if we take a trip up there again? Just to double check." Dean turns back at Ian.
+
+"I -- I have to go back to work," Ian stutters nervously. "I got work to do."
+
+Dean stands up and rounds the desk. "This is also very important work."
+
+"Okay, then," Ian leads the way.
+
+Dean grabs the iron poker as he walks out, and pauses at the door. Without looking back, he murmurs, as if talking to himself, "It would be best if somebody could just stay here and watch my office while I'm out."
+
+Some papers on his desk flutter in reply.
+
+Dean heads to the elevator with Ian.
+
+<br>
+
+#### Act 2
+
+A 
+
 
 
 #### draft notes
