@@ -2288,27 +2288,183 @@ Dean heads to the elevator with Ian.
 
 #### Act 2
 
-A 
+A man is at the door when they reach the room.
 
+Dean assumes he must be Steve.
 
+Ian gets more fidgety as they approach. "Oh no," he keeps saying. "I shouldn't be here. My manager will be mad, I should be at my desk."
+
+He tries to turn and get away.
+
+Dean snatches his shoulder. "I'll talk with your manager," he says in a kindly convincing voice, "I'm a director. Now, let's take a look what's in the room."
+
+As they get closer, Ian shakes so badly that it looks like he's going to faint any moment now or doing something incredibly irrational if not for Dean holding him. And knowing what happened to Paul, no way Dean's going to let him alone for a second. Whatever he doesn't remember seeing in this room must have scared the shit out of him, Dean observes, marching faster toward the room.
+
+Steve is ten steps ahead of them as they rush down the corridor.
+
+"Steve!" Dean calls at him. "Wait! Don't go inside!"
+
+The man turns his head tentatively, but his hand still unscrews the doorknob and enters the room.
+
+The door shuts behind him.
+
+"Dammit!" Dean practically drags Ian along, pounding on the door when he reaches it.
+
+The door is locked. The doorknob doesn't give when he shakes it. And a moment later, they start hearing the sound of wind, then something crashing, then Steve's screaming.
+
+"Double dammit!" Dean takes a breath and backs away two steps, kicking the old door open.
+
+A shelf falls down before their eyes, Steve is yelling "Help!" with all his life. The room is an old storeroom, filled with obsolete screens, furniture, and facilities. The shelves rattle around them, items falling and crashing like rain fall. The room is freezing cold.
+
+A misty figure flicker-appears in the middle of the room, leaning down at Steve. Electricity sparks between his devilish long and thin fingers. Steve screams louder.
+
+Dean swings the poker at the ghost. The figure is cut in half from middle and dissipates.
+
+"Give me a hand!" Dean yells at Ian, running to one side of the falling metal shelf, throwing the poker on the ground to have enough hands to hold the weight.
+
+The view of the ghost must have waken Ian up, for he snaps out of his dizzy workaholic frantic phase, rushes to the other side, helping Dean straighten the shelf.
+
+Just as they drag Steve out from the crashed boxes, the ghost reappears, wearing an old man's face and vintage clothes that looks like a hundred years old.
+
+The crinkled face leans close to Dean, his fingers reaching quickly to Dean's neck.
+
+Dean tries to punch it, and that's the second he realized he's made a big mistake -- he should never have let that iron poker out of his hand. His fist flies past the ghost's face, who grins with ugly teeth and eyes glinting with light. "Work --" A sizzling voice says.
+
+His hand fumbles quickly behind him, finding a box of nails and tools. He can't turn to look, the nails cut his fingers, and he still can't find anything useful.
+
+"Iron!" He yells, hoping Ian and Steve can be more helpful. And more ideally, it would so much easier if Cas is here, he thinks, because Cas would definitely know how to handle another one of his kind.
+
+Right as the thought passes through his mind, the evil ghost stumbles back, his ugly old face replaced by Cas's concerning frown. Cas doesn't have time to check on Dean, he grabs the old man in the shoulder and throws him away from Dean.
+
+"Go!" Cas yells behind him, fighting the old man hand-on. Unlike Dean, his punches all land on the other ghost just the way one human beating another up. Electricity sparks come back between old man's fingers, and when they touch Cas, Dean can see that Cas is visibly shocked. He flinches back from the contact, and the old man jumps on him.
+
+Dean dives to pick his dropped poker while yelling, "Cas, duck!"
+
+Cas ducks just in time when Dean waves the poker horizontal, cutting the ghost in half. He disappears.
+
+"Go, go, go!" Dean yells, dragging Ian and Steve -- who were gazing at Cas and the scene with so much shock that they both seem to freeze -- on the arms, taking them out of the room.
+
+They are all panting like they have just run a marathon once they get outside. Dean bars the room with the poker, urging all of them to leave that floor as soon as possible.
+
+He wipes his sweat in his office when Cas flashes visible, panting just like he does.
+
+"Nice timing," Dean tries to smile at him, a little sheepishly.
+
+"I thought someone told me not to go," Cas gives him a look.
+
+"Okay, I deserve this one." Dean rubs the back of his neck, reflecting on the event. "I didn't expect that one to be so... I don't know, x-man? How come he can do those freaking Thor fingers, but you can't? And the random teleport? And, the way it controlled Ian, it's like some mind control. I never see you try that!"
+
+"I couldn't," Cas admits. "It must be something he developed over the years. As I read, when we were researching, some vengeful spirit, if their intent is strong enough, can evolve into certain stronger variations. Which gives us disadvantage."
+
+"More bad news." Dean sighs. "Alright, what are we gonna do now? Following those ghost 101 tutorial again? First step, if I remember it right, is to figure out what we're dealing with."
+
+"I have an idea," Cas points at the company logo painted on the wall behind Dean's desk with the year under it. "What he wears, the style looks like from about a hundred fifty years ago. And the company is the same age. He might be in the founder's team. We can start from there."
+
+Dean claps his hand. "Finally some luck on our side. Yes, this year is the company's one hundred and fifty year anniversary. I know they have an archive display gallery, just in this floor. I bet we can find some hint there."
+
+"You'll have to find another weapon then, if we go there. You lost the poker." Cas points out sharply.
+
+Dean looks around his desk. The only metal thing big enough he can find is a stapler.
+
+He glances at Cas sheepishly. "Think this will work?"
+
+Cas gives him a stern look. "No, Dean. I don't think this will work. He might kill you!"
+
+Dean fiddles the stapler in his hand. "Maybe we won't even need any weapon. Didn't that Ghostfacers tutorial say, we have other ways to, uh --" he tries to think of a word that is not "kill" but means the same, "-- to let go of a ghost."
+
+"By burning their remains." Cas remembers just as clearly as he does.
+
+"If we are lucky enough to find," Dean says easily.
+
+Cas's frown knits tight. "I don't like it when we rely on luck for success."
+
+"I don't, either. But it's probably our best shot, right?" Dean says force-cheerfully, heading to the gallery.
+
+<br>
+
+Unsurprisingly, not many people is really interested in the company's history -- and by "not many people", he really means no one. It's quiet in the middle of the day.
+
+Dean and Cas step in the organized room, with old photos and objects from the old times, starting from the founder's photos.
+
+And the very first one has a familiar face.
+
+"P. T. Sandover, founder of the company," Dean reads out the words under the photo. "That's him, that's the ghost."
+
+The old man still wears the same vintaged shirt and coat in the photo as on the ghost.
+
+The next table has a long article introducing Mr. Sandover's life, from his life to his death.
+
+"Looks like he's cremated," Dean grimaces. "So no body to burn." His fingers wrap around a lighter he managed to find in his pocket, starting to wonder if this is a big mistake, if they are to rushed to jump in this without enough preparation.
+
+"But there might still be other genetic remains." Cas comforts him, moving on to look at the photo on the next display table.
+
+Dean hums noncommittally, moving to the second row with souvenirs and objects.
+
+He stops before a glass box with a pair of old gloves.
+
+"Cas!" Dean raises his voice. The sound echoes in the empty room ominously. Dean notices his breath becoming white misty puffs.
+
+The label says it belongs to P. T. Sandover himself.
+
+"Old man's glove. Gotta has some nails or skin or whatever in there, right?" Dean raises his arms, ready to smash the glass to get the gloves out.
+
+Right that moment, he's thrown backward, flying in the sky and crashing down on to the opposite wall. His bone in his back makes a loud crashing sound. Dean feels his head dizzies from the collision.
+
+"Dean!" Cas yells in a panicking voice.
+
+"I'm okay," Dean tries, but he can barely drag himself up.
+
+The ominous chilliness accompanying the sizzling electrical sound approaches him faster than Cas. Sandover appears before him, grinning wide and vicious, reaching for him. Dean waves his hand with the stapler. The ghost barely flinches.
+
+Dean watches his long, sparkling fingers come closer, he can only stare helplessly, thinking, he must be the world's biggest idiot to think a stapler would be enough to fight off an evil ghost.
+
+But instead of a killing blow that he's waiting for, the pressure and electricity is released from him in the next second. Cas's arms hold around Sandover's waist, dragging him backwards, away from Dean.
+
+"The gloves! Burn the gloves!" He yells.
+
+Dean pushes himself up and dashes to the displayed gloves. Sandover lets out a furious growl, wrestling with Cas. But Dean doesn't have time to watch or help, he can only see Cas struggles with the other ghost, flipping and turning on the floor, then flying to the ceiling. Whenever the old man's electrical sparks touch Cas, he flinches but he doesn't let go.
+
+Dean finds himself wondering the same question he asked the first day, *Can ghost feel pain?* And he remembers Cas's answer, *I hope not.* He realizes he's forgotten to ask Cas again.
+
+The glass is thick and hard to break. It takes Dean a while to finally manage to push the entire display table down, the glass box slides to the side, smashing broken.
+
+"Dean! Quickly! I can't hold much longer!" Cas yells desperately.
+
+Dean kneels beside the gloves, lighting the lighter. The flame catches the fabric of the gloves and starts burning.
+
+He runs back to the entangled ghosts.
+
+Sandover's ghostly form catches fire, flames leaping from his feet just as it devours the gloves. He screams in pain, and Cas screams with him.
+
+Dean watches in horror as the fire catches Cas too, burning him from the feet, moving fast upward.
+
+"Cas! Let go of him! Come on!" Dean cries, reaching out a hand desperately toward the entangled ghosts, not knowing what to do.
+
+"Dean --" Cas chokes, but that's the only syllable he manages to get out before the flame reaches his head.
+
+The air settles down slowly as the ashes of the burned gloves quietly flying in it.
+
+The air that is too quiet, too stable, too warm to show any sign of another ghost's survival.
+
+Dean stares at the place where he last stood, where he yelled Dean's name for the last time. The empty air.
+
+Tears stream down.
+
+Cas is gone.
+
+<br>
 
 #### draft notes
 
-They talk, Cas understands killing Nick doesn't bring Novaks back, but at least the fate has its justice. Move on talking about his future now that he's finished this unfinished business. (Cas remains ghost when Dean recovers from the injury, then stays for the ghost case in the job, just keeps staying)
+
 
 Dean proposes to retrieve Cas's ashes from the city, Cas thinks it's unimportant
 
-Cas remain ghost, not gone or released, Dean puzzled (new unfinished business because Cas doesn't want to leave Dean alone)
-
-> S04E17 ghost case P. T. Sandover (died 1916), 3 weeks in
->
-> Cas can leave apartment but has to be close to Dean, Cas go to office with Dean
->
-> Cas is there helping Dean figure out P. T. Sandover's case (direct lead with two employees dead) and save him from attack, ready to sacrifice for Dean, protect Dean, burn with Sandover together. but Dean burns the glove in time, kill the bad ghost, save Cas. but Dean thought Cas burns in the same fire (Cas moans & dissipates), Dean freaks out, in mourning mode for a bit (rooms feels suddenly too quiet and too empty), but Cas comes back the next day, unstable but there, "That was unpleasant"
->
-> talk about how come Cas is still around, what unfinished business, reveals it's Dean, leading to Dean decides to resign
+They talk, Cas understands killing Nick doesn't bring Novaks back, but at least the fate has its justice. Move on talking about his future now that he's finished this unfinished business. (Cas remains ghost when Dean recovers from the injury, then stays for the ghost case in the job, just keeps staying)
 
 after Dean manages Nick Vaught, Cas's initial unfinished business is finished, Dean/Cas ready to say goodbye, but Cas not disappear, instead, he's not bound by the apartment-only location, means he's not bound by that same old crime-related business, his unfinished business is something else now
+
+Cas remain ghost, not gone or released, Dean puzzled (new unfinished business because Cas doesn't want to leave Dean alone)
 
 Cas now can follow Dean around but still can't get far away from him, suggesting that new unfinished business is tied to Dean
 
@@ -2330,6 +2486,10 @@ Cas getting more physical too, able to do more things, finding lost items, takin
 
 #### draft notes
 
+> Dean freaks out when Cas is gone, in mourning mode for a bit (rooms feels suddenly too quiet and too empty), but Cas comes back the next day, unstable but there, "That was unpleasant"
+>
+> talk about how come Cas is still around, what unfinished business, reveals it's Dean, leading to Dean decides to resign
+>
 > Mr. Adler shows, Dean resigns, Zach blows up his cover, makes ghost Cas disappear, Dean freaks out, attacking Zach ("that's not who I am"), Zach wakes Dean up, comes back to reality (only stop when Dean seems to learn who he is)
 >
 > Zach teaches Dean lesson, thought he resigns because of Dean's hunter killing instinct ("you're who you'll always be, you're a killer"), but Dean's thinking about really full attention helping Cas, because he cares
