@@ -93,9 +93,11 @@ Chap 1: After each quoted section, add real-life "reader" (Metatron)'s reaction 
 
 Chap 1 main problem: don't be too boring, don't have to stick to the original too much, can diverge a bit
 
+~~Chap 1: Change to v+name, like "said Dean" (to distinguish from normal writing style "Dean says")~~
+
 Meta-narrative Dean/Cas's thoughts: every different chapter "part", increasing the tension, show involvement, don't have to be strictly following the canon
 
-When posting: different "Part" of Chap 1 post into separate AO3 characters, keep each chapter length contained
+~~When posting: different "Part" of Chap 1 post into separate AO3 chapters, keep each chapter length contained~~
 
 ~~shuffle the order? Chap 1 part one → Chap 2 → Chap 1 part two → Chap 3 ? Chap 1 a little too long too much?~~ ~~(Move original Chap 1 to new Chap 2, after the opening)~~
 
