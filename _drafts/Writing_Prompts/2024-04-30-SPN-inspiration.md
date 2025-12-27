@@ -5307,6 +5307,20 @@ S09 human Cas time, "It's expensive to be poor", you can generally buy cheaper i
 
 Dorothy in SPN is the same Dorothy in Wicked, Charlie/Dorothy is both there when Gelphie needs fix-it
 
+so now we'll have two pairs of lesbians, fighting together:
+
+![](https://64.media.tumblr.com/0389481d0a7ebfe18c11080a025b23a2/93a8eb55183159c8-5c/s1280x1920/31c31b6bf9f430fd2385f46dbd42c2eca6aa439f.pnj)
+
+![](https://64.media.tumblr.com/e2ee5a0eee87a0e4edb210e66ada0456/93a8eb55183159c8-35/s1280x1920/8a1fc07e1c4ddce7365c5de1e916760afd1f9412.jpg)
+
+![](https://64.media.tumblr.com/550e1c3ecfc5b05043a1686a51a35981/93a8eb55183159c8-a6/s1280x1920/172ebee15f732763231f29312a505488a899374a.pnj)
+
+a higher chance of survival and post-canon fix-it for all four of them (and save Charlie from canon too)
+
+what if, out of Oz is not emptiness, but through the portal to the SPN canon world
+
+what if, the emptiness out of Oz is the same Emptiness in SPN where angels/demons
+
 ### 440.【destiel】Dean ties tie for Cas
 
 Dean catches Cas trying to practice tying his tie alone but can't figure it out, Dean goes to help him.
