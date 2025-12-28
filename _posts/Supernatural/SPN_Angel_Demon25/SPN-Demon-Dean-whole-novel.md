@@ -86,7 +86,7 @@ And the ending is they reunite in the barn and start fresh.
 
 #### Visual Elements
 
-Demon Dean in a doctor's white surgercoat, holding a scalpel, operates on Cas's head when Cas lies bloody on an operating table in a hospital setting. Cas's hands are cuffed, belts locked around his body and throat.
+Demon Dean in a doctor's white surgery coat, holding a scalpel, operates on Cas's head when Cas lies bloody on an operating table in a hospital setting. Cas's hands are cuffed, belts locked around his body and throat.
 
 Demon Dean stands against Alastair to protect Cas. Both holding blades, in fighting position. Other demons surround them.
 
@@ -549,7 +549,6 @@ Dean starts to get interested in him (though initially thinks he's just weird), 
 ### Chap 4
 
 > Demons attack, more angels are high up but can't come down (including Balthazar?). Cas purely muscle memory fights (still vessel shape, still doesn't remember other things before lobotomy, not remember why they need to save Dean but he finds his own motivation/reason already, doesn't need to know it's mission). Cas uses wings to protect Dean, demon Dean can see Cas's wings, demon Dean helps Cas in fighting other demons and gets both of them out of there. Cas's palm on Dean's shoulder (burns Dean, Dean yells in pain), and flies Dean out of Hell ("Dean Winchester is saved")
->
 
 Dean lets go of Cas's hands, stumbles on the field, and gets tripped over by a skull. He kneels down where he fell, his fingers digging into the ashes underneath him. Memory of Hell rushes into his head.
 
@@ -727,7 +726,7 @@ Dean stands there, staring at the empty for a long time, feeling his heart hollo
 
 He starts walking.
 
-And the sun is rising.
+And the sun is just rising.
 
 <br>
 
@@ -765,7 +764,7 @@ Dean closes his eyes, and sinks into darkness.
 
 <br>
 
-When he opens his eyes again, he can't breathe. The coffin he's lying in is narrow and suffocating. His throat is so hoarse that he can't even yell a single "help".
+When Dean opens his eyes again, he can't breathe. The coffin he's lying in is narrow and suffocating. His throat is so hoarse that he can't even yell a single "help".
 
 He digs out of his own grave with his fingers and nails, and climbs to the earth. That is when the sun is setting.
 
