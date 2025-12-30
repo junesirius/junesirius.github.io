@@ -740,7 +740,7 @@ He doesn't expect to see Castiel so soon, after this.
 
 When the angel told him "Farewell" and gave him that last determined look, Dean thought he would prepare for an eternity without seeing those eyes again, instead of twenty-four hours.
 
-He barely walks out of the woods of Wyoming, heading in the direction of South Dakota, when the sound of wings and wind comes back.
+He barely walks out of the woods of Illinois, heading in the direction of South Dakota, when the sound of wings and wind comes back.
 
 Dean spins immediately to the source of the sound. Castiel is standing behind him, his eyes sharp and alert, the look on his face cold and distant.
 
