@@ -5341,4 +5341,20 @@ And the time is critical, S01E01 Azazel kills Jessica to pull Sam back to huntin
 
 (can be a new season rewrite, canon divergent, canon-like episode format with monsters of the week in between the main plotline)
 
-### 442.
+### 442.【destiel】勇敢者游戏世界，游戏内性转拧巴（R18, F/F sex）
+
+(inspired Black Mirror S05E01 Striking Vipers, Jumanji)
+
+Dean and Cas both pick female bodies inside the game setting (accident or by choice)
+
+Dean is Karen Gillan (cool, hot girl, the look in Jumanji, popular beautiful bisexual girl); Cas is dorky gothic girl, like Helena or Winona
+
+in the main world, Dean is internalized homophobia, (can be canon divergent or modern AU), having crush for Cas but doesn't allow himself to explore, doesn't allow himself to have sex with Cas. but inside the game, it feels fine, and they're in female bodies, it doesn't seem to have male image burden, so they have sex
+
+but then once they're in the outside real world, Dean got all messed up again, not knowing if who he loves is Cas or Cas's avatar in that world, not sure if Cas loves him or his avatar
+
+and actually female body can enjoy sex more delicately and overwhelming than male body, so they have more overwhelming and honest feelings to each other when they're inside
+
+and there will be adventures inside the Jumanji world, there'll be deadly traps and dangers, they'll die, but each will have three lives. When they each die for the first two times, Dean gets worried briefly but starts learning the rule, but once they all only have one life, he's getting really really stressed out and protective and doesn't want Cas to get into any danger. (if you die in Jumanji, you die outside) "It's a lot easier to be brave when you have lives to spare, it's a lot harder when you only have one life." Cas: "We always only have one life."
+
+### 443.
