@@ -10,7 +10,7 @@ origin: 2025 Destiel AU Reverse Big Bang
 long_novels: 【Destiel】Hallowed Be Thy Name
 ---
 
-Tags: AU - Modern Fantasy, AU - Magic Creatures, Slow Burn, Get Together, Magic Creature Dean, Researcher Castiel, Angst, Torture, Abuse, Eventual Happy Ending, Temporary Main Character Death, Minor Character Death, Inspired by *The Shape of Water*
+Tags: AU - Modern Fantasy, AU - Magic Creatures, Get Together, Magic Creature Dean, Researcher Castiel, Hurt/Comfort, Torture, Physical Abuse, Eventual Happy Ending, Temporary Main Character Death, Minor Character Death, Inspired by *The Shape of Water*
 
 Rating: Mature
 
@@ -208,71 +208,91 @@ Last sentence: "Not that I want to stop, but I really have to prepare for tomorr
 
 ### Settings
 
+#### Timeline
+
 Modern (current) timeline, modern fantasy setting
 
 Current time: The week before Easter
 
 the escape day is the Easter Day
 
-#### About project/facility
+Day 1: Jo dies (chap 1-1)
 
-Cas's research facility name: Advanced Nonhuman Genetic Evolution Lab (ANGEL)
+Day 2: Dean arrives (chap 1-2), attacks Uriel, meets Cas (chap 1-3), Cas researches on Dean (chap 1-4)
 
-location: Nevada
+Day 3: Cas brings Dean more food (chap 1-4)
 
-project name: Project Lazarus
+Day 4: Cas brings Dean plants, fights Uriel (chap 2-1), Zach decides to kill Dean (chap 2-2), Dean heals Cas (chap 2-3), Dean/Cas sleep together (chap 2-4)
 
-project topics: research about life and death, what determines a life, there isn't even a clear definition of life; what defines as a human, what's the fundamental difference between rock and human, creature and human, how to determine of an existence is sentient. ultimate: breakthrough in human resurrection
+Day 5: Bal breaks Dean out (chap 3-1), Cas gets captured (chap 3-2)
 
-project content: draw insights from native ancient legends, it turns out most of the religions have good foundations, but the gods in the religions aren't really gods, but creatures with genetic abilities very different from humans, very rare, they may have special powers like abnormal healing abilities. If human can decode their abilities, e.g. genetically, they might can decode many decease and save millions of human lives.
+Day 6: Bal saves Cas (chap 3-3), Cas cooks Dean food (chap 4-1), Dean/Cas sleep together (chap 4-2)
+
+Day 7: escape plan (chap 5-1/2, 6-1/2)
+
+#### About science project
+
+**Cas's research facility name**: Advanced Nonhuman Genetic Evolution Lab (ANGEL)
+
+**location**: Nevada
+
+**project name**: Project Lazarus
+
+**project topics**: research about life and death, what determines a life, there isn't even a clear definition of life; what defines as a human, what's the fundamental difference between rock and human, creature and human, how to determine of an existence is sentient. ultimate: breakthrough in human resurrection
+
+**project content**: draw insights from native ancient legends, it turns out most of the religions have good foundations, but the gods in the religions aren't really gods, but creatures with genetic abilities very different from humans, very rare, they may have special powers like abnormal healing abilities. If human can decode their abilities, e.g. genetically, they might can decode many decease and save millions of human lives.
 
 (Cas is also torn when the reasoning for abuse is put in that way: there might be a greater good here. But it's a Trolley Problem. "Isn't it what you wanted when you joined us? Figure out a way to save humans? When did you start caring for nonhumans?" "Why does he have to be the one to die?" Who decides who gets to live and who gets to die?)
 
+**biggest lie** of the project: they say "creatures", they name the facility "Nonhuman", but actually, most of the "creatures" are technically human or human-adjacent. (and that's exactly why Cas is so bothered)
+
 #### About Dean
 
-Dean's origin: Amazon rainforest, might be as old as the rainforest
+**Dean's origin**: Amazon rainforest, might be as old as the rainforest
 
-Dean: creature originated in Amazon rainforest, worshipped by the native tribes, called by "Iad Panpir" (Enochian "God of Life")
+**Dean**: creature originated in Amazon rainforest, worshipped by the native tribes, called by "Iad Panpir" (Enochian "God of Life")
 
-new setting for Enochian: originated from the native Amazon tribe language, once overheard by traveling American John Dee in 1580, he wrote down the language in his personal journal as angel language because they're too beautiful, and publish it as Enochian
+**new setting for Enochian**: originated from the native Amazon tribe language, once overheard by traveling American John Dee in 1580, he wrote down the language in his personal journal as angel language because they're too beautiful, and publish it as Enochian
 
-Dean's ability: healing (self & others), resurrection (self & others), can't die, sensitive sensations, psychic location
+**Dean's ability**: healing (self & others), resurrection (self & others), can't die, sensitive sensations (sharp eyes/nose/ears/touch), psychic locating
 
-Dean's preferred habitat: green, warm, humid, high oxygen saturation in air
+**Dean's preferred habitat**: green, warm, humid, high oxygen saturation in air
 
-Dean's favorite food: wild animal raw meat, insects, plantations
+**Dean's favorite food**: wild animal raw meat, insects, plantations
 
-Dean's intelligence: high-intelligent
+**Dean's intelligence**: high-intelligent, highly compassionate
 
-Dean's personality portrait: powerful, but lonely (the only one of his kind) for millions of years; can understand human emotions, but not human language (at the beginning of interaction); kind to kindness, can get scared and feral when treated with violence
+**Dean's personality portrait**: powerful, but lonely (the only one of his kind) for millions of years; can understand human emotions, but not human language (at the beginning of interaction); kind to kindness, can get scared and feral when treated with violence
 
 #### About Cas
 
-Cas's role: intern researcher
+**Cas's role**: intern researcher
 
-Zachariah: project director (report to Michael: senior director)
+**Zachariah**: project director (report to Michael: senior director)
 
-Uriel: senior staff researcher
+**Uriel**: senior staff researcher
 
-Balthazar: junior researcher (youngest/newest before Cas, but not intern)
+**Balthazar**: junior researcher (youngest/newest before Cas, but not intern)
 
-Cas's social relationships: superior = Zachariah; other researchers = Balthazar, Uriel; neighbor = Charlie Bradbury
+**Cas's social relationships**: superior = Zachariah; other researchers = Balthazar, Uriel; neighbor = Charlie Bradbury
 
-Charlie: high school dropout, freelance programmer/engineer
+**Charlie**: high school dropout, freelance programmer/engineer
 
-Cas's previous experiment: JH-4785 ("Jo") died; Dean's original index number: DW-124
+**Cas's previous experiment**: JH-4785 (Jo) died, AS-1101 (Ash) died; Dean's original index number: DW-124
 
-Cas's experience: newly graduated, very excited/passionate about researching; want the actual researching job offer in the facility, need the income (even though low)
+**Cas's experience**: newly graduated, very excited/passionate about researching; want the actual researching job offer in the facility, need the income (even though low)
 
-Cas & Bal relationship: Bal is the only one willing to spend time with him, but still can't understand him. Cas feels all alone
+**Cas & Bal relationship**: Bal is the only one willing to spend time with him, but still can't understand him. Cas feels all alone
 
-Cas & Charlie relationship: Charlie is kind to him, the two are harmony, but ultimately still too different and each have very different interested field and value of life/world
+**Cas & Charlie relationship**: Charlie is kind to him, the two are harmony, but ultimately still too different and each have very different interested field and value of life/world
 
-Cas's nervous habit of move: push/nudge up his classes (adjust it higher)
+**Cas's nervous habit of move**: push/nudge up his classes (adjust it higher)
 
-Cas's motivation to join the facility and do the research: help human, cure disease, unlock the biggest mystery of all, the secret of life (almost everyone comes here/start the path for the same reason, they have loved ones/family/friends dying/dead, want to save them). Cas's parents are gone (die of diseases, cancer), Bal's parents are gone (divorced and left). (Charlie too, car crash)
+**Cas's motivation** to join the facility and do the research: help human, cure disease, unlock the biggest mystery of all, the secret of life (almost everyone comes here/start the path for the same reason, they have loved ones/family/friends dying/dead, want to save them). Cas's parents are gone (die of diseases, cancer), Bal's parents are gone (car crash). (Charlie too, comatose)
 
-Cas's address: 918 Lazarus St., Lovelock, Nevada
+**Cas's address**: 918 Lazarus St., Lovelock, Nevada
+
+**Cas's personality traits**: too compassionate, too kind; too different from all others, too much emotions, doesn't have friends, not popular, too lonely, too dissociated with others; not good with technologies, phone/computer etc.
 
 ### Posting
 
@@ -358,33 +378,256 @@ Cas doesn't answer.
 
 #### Act 1
 
+The papers crack as the flame catches their edges. They scatter around, burning from the corners. The flame cringes the thin papers, eating up the words and pictures and the dark crimson "SECRET" sign. The case number "DW-124" on the front cover, along with the facility's official seal that reads "A.N.G.E.L.", is soon swallowed by the fire, wiped out like nothing has ever been there. So are the rest of the files. Ashes fly in the air when a thin breeze passes. The flame flickers.
+
+Two people stand there, in the shadow, just watching. Their faces are half-lit in the dancing flame.
+
+One of them breaks the silence between them, "I'd never believe you if you told me seven days ago that this is what's gonna happen."
+
+The young woman with red hair standing beside him agrees in a murmur. "It's like a dream. I still can't really believe it. They're actually gone."
+
+"We are the last two people in the world who'd ever remember -- or even just remotely know -- what has happened. I almost feel privileged," the young man answers, curving his lip to a small degree.
+
+The flame recedes quietly as the papers slowly all turn into flying ashes. They're still standing in the dark, watching the last sparkles fading away.
+
+"So what really happened? I'm afraid I might only know part of the story, but not everything from the very beginning," the red-haired woman asks.
+
+"The very beginning of the story..." the young man's voice drifts away.
+
+<br>
+
+<hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
+<br>
+
+The sound of the hurried foot steps echoes down the corridor, moving toward the lab area, accompanied by voice of two men. They are not making any effort to lower their voices.
+
+Castiel keeps his eyes on the beautiful female creature with golden hair inside the chamber before him, watching with amazement as she elegantly spreads her body to walk from one side of the chamber to the other side, then paces back. He writes down the observatory notes in his handheld note pad.
+
+The men's talking sound comes closer.
+
+"Is there any progress with JH-4785?" One of them demands in a harsh voice. Castiel recognizes it belongs to his superior, Mr. Zachariah.
+
+"No, Sir. We're working on cognitive and behavioral experiments right now, but so far, there is no new findings to report," another deep voice answers.
+
+"What about chemical and biological? More importantly, genetic progress? Anything? Uriel, we're not a zoo here!" Mr. Zachariah's voice raises. Castiel glances in the direction of the sound, worrying if their voice would be too loud to pass the glass observing window, disturbing Jo -- the name he gave to the mysterious creature before him.
+
+He forces his attention back to her, but his mind can't help wondering what his superior and his colleague are talking about. His heartbeat is already speeding up for a growing ominous feeling. After all, it wouldn't be the last time something like that ever happen around here, but it's not easy every single time.
+
+"I understand, Sir," Uriel says eagerly. "But the fact is, I'm afraid there might not *be* anything special to find for JH-4785. Maybe it is just a simple, plain creature, a normal animal."
+
+The two of them have passed the turn of the corridor, heading toward Castiel.
+
+"She's not an animal!" Castiel can't help himself, turning to them. His fingers clench on the pen and notepad hard. "She's humanoid, she's sentient, and she's intelligent. We're so far away from understanding her and her species. Genetic experiments are a slow process, and we -- I -- need more time to have a thorough study and deep understanding for their abilities and --"
+
+"But we don't have more time, or space, or resource," Mr. Zachariah cuts him off, glancing at the creature inside the lab chamber, and then turns to Uriel. "What's your conclusion? Does this one have any research value?"
+
+"From my experience and perspective, I would say no," Uriel answers simply, and Zachariah nods at that, as if he's already expecting the answer.
+
+"But we haven't even *done* all the experiments!" Castiel rushes, showing his notepad to the other two men. His notes have detailed observations about the creature's actions and movement, along with the precise time, and his understanding of those moves' sentimental meaning.
+
+Zachariah doesn't even look at his notes. "One free tip for you, intern: Sometimes in the researching world, you don't need to do *all* the experiments, you just need some intuition, like Uriel. But that's another ten, twenty years for you, intern --"
+
+"Castiel. The name is Castiel. Just like *she* also has a name, not just a number and an experiment object!" Castiel takes the notes back, grabbing it too tight, bordering on growling.
+
+"Whatever." Zachariah waves a hand carelessly. "Point is, we have an important asset coming in tomorrow. I just got the message that they captured it in Amazon rainforest, extremely rare, extremely ancient. We might actually find something valuable from that one. So we have to vacate a room. Looks like this one," he tilts his head toward the female humanoid creature before them, "just have to go. Dissect it -- if you find anything useful, record it; we can perhaps get another one next time; if not, just dump it. And you, intern --" he points a finger at Castiel, "clean up the room, make sure it's ready for the new asset. Understand?"
+
+Uriel answers quickly, "Yes, Sir."
+
+Castiel holds his glare with Zachariah, his eyes burning with fire and pain. He glances at the glass observing window. The creature doesn't know anything that's happening outside her chamber, deciding her fate. Blessingly ignorant and innocent, she's still just pacing in the small space. He swallows hard. She doesn't deserve to be captured and researched, and she certainly doesn't deserve to die.
+
+Zachariah takes a step closer to him, his voice even deeper and slower. "Are you listening? Do you understand?"
+
+Castiel drags his attention back, watching him. He can see Uriel raise his eyebrows watching him with a mocking smile. "But --" he starts. He has to try, if there's any chance he can persuade them to spare Jo's life, he has to try.
+
+"No 'but'," Zachariah breaks his sentence quickly. "The decision is final. Do you still want this job or not?"
+
+Castiel lowers his head. "Yes," he answers bitterly. "Sorry, Mr. Zachariah, my apologies. I understand."
+
+"Good. Get going then. Both of you. Get the room ready." His superior moves away from him, heading back where they come from.
+
+Castiel lifts his head, glaring at the man's back in silence. He shoves his pen and notepad into his pocket. There is no point now.
+
+"You know this is always going to happen, sooner or later, to all of them." Uriel is watching him closely. He makes a gesture referring to the other lab chambers in the area. There are some other researchers working on other objects, very dedicatedly appearing to pretend they do not hear any of their conversations. Some of them Castiel knows, some of them he doesn't. Uriel continues, "Why bother even defying the man?"
+
+"Maybe she wouldn't have to die if you didn't say she's useless!" Castiel growls at him with grudge.
+
+Uriel barely shrugs. "It doesn't matter what I say. That's just what the boss wants to hear. I can say that about whichever one, he just wants to get rid of one for the big asset tomorrow."
+
+"You don't care about them," Castiel accuses.
+
+That actually makes Uriel laugh. "God, who would care about *them*? Wake up, intern, they're just experiment objects. If some research works and we get what we want, cool; if they die, whatever. We'll always get more objects."
+
+"I have a name! It's Castiel." Castiel grits his teeth.
+
+"Yeah, yeah, I hear you," Uriel says carelessly. "*'Just like her'*, right? But guess what, I. Don't. Care. Now, do your job and clean up the room while I gut this one open. Think I'll have some luck finding anything valuable when it's dead?"
+
+Castiel clenches his fists and holds his arms so hard by his sides that his body is shaking. He has to breathe heavily to suppress the surging impulse to give Uriel a fist to his nose.
+
+"Come on, Cas, let's take a break." Someone reaches from behind, patting a hand on his shoulder.
+
+Castiel holds his stare on Uriel for a moment longer. The hand tugs him toward the exit of the corridor. Castiel finally lets himself be dragged out of the lab area.
+
+Balthazar hasn't taken off his lab coat that still has some blood steins on it when they get to the break room. He pours himself a cup of instant coffee, then gets another cup for Castiel.
+
+"You were thinking about giving him a punch on the nose just now, weren't you? If I didn't get you out and save your ass." Balthazar shoves the cup in Cas's hand.
+
+The tension on his shoulder finally loosens slightly as he starts sipping the coffee that isn't anywhere near good.
+
+"Something like that," Cas answers vaguely.
+
+"Cassie, Cassie, Cassie, why do you always have to do something so stupid?" Balthazar drags his voice lazily, like exhaling a deep breath and sighing and joking all at the same time. "You have any idea how much trouble you'd get into? That you probably already got into back there?"
+
+Cas drinks slowly, making it look like he's actually thinking about the question. "Somewhat," he says, stoically. "The worst one is I get fired, then I can't afford the rent or food, then I get homeless, then I die of starvation in some trench."
+
+Balthazar gives him a long stare. "Oh boy, you have no idea what the 'worst' can possibly. But I guess no point for playing 'Wolf's Coming', let's just hope we never get into that. Okay, now just answer me some simple questions: what level are you now?"
+
+Cas frowns at him. "Intern researcher, why?"
+
+Balthazar ignores him. "And what level is Uriel?"
+
+"Senior Staff researcher."
+
+"And Zachariah?"
+
+"Project director? I'm not really sure," Cas answers.
+
+"See my point now?" Balthazar sighs when Cas merely returns him with another confusing look. "You're just an intern! Everyone here is a higher level and maybe get a say on one thing or another, making some kind of decision, but you don't! You don't get a vote, you don't get to be in the decision room -- you might be lucky if they even tell you what the decision is. If you want to stay in the facility and do anything remotely look like a real research, you sulk it up and do the thing you're assigned! That's called survival, kid."
+
+Cas's shoulders sag. "Is that your experience here?"
+
+"Something like that," Balthazar shifts, crushing the finished paper coffee cup in his hand and dumping it in the trash bin.
+
+Cas watches his move. "Did you care?" he asks quietly. "Do you still care about them? Any of them?" He narrows his eyes on the blood steins on Balthazar's lab coat, sitting straighter. "Which one of them did you just *dissect*, like Uriel is probably doing to Jo?"
+
+Balthazar snaps his head up. "Don't you turn on me now. I'm probably the only one around here who's still stupid enough to be willing to talk to you, after that mess you made with AS-1101. I'm surprised they'd still keep you, instead of, you know, throwing you into one of the chambers, getting a good research on you or something."
+
+He chuckles half-heartedly. Cas doesn't smile.
+
+"Why are you still talking to me then, Bal? Like you said, no one else does now. I don't blame them. Not many do even before I mess up with anything." Cas looks at him, watching him lean on the breakroom chair, stretching his arms, wondering if it's a gesture to refer to the whole world, or he just wants to do something with his slim, long arms.
+
+"I'm a weirdass, just like you, alright? Happy now?" Bal sneers.
+
+"You still care," Cas says slowly.
+
+"I assure you, I very much do not." Bal mocks a cold chuckle, gesturing to his bloody lab coat. "Remember the ones on my table I just dissected? I'm no different from Uriel or Zachariah or anyone else, am I?"
+
+Cas just frowns at him like he's big piece of puzzle he can't decipher.
+
+Bal sighs again, raising his arms in a surrender gesture. "Okay, let me ask you this, why did you want to join A.N.G.E.L. in the first place? It's shitty, it's in the middle of nowhere, and you can't even brag to anyone what you're working on because everything here is top secret. Forget about your rent or food or whatever, you can definitely find a fancier place, then why did you come here?"
+
+Cas takes a long breath and starts slowly, reciting the name like it's sacred. "Advanced Nonhuman Genetic Evolution Lab. A.N.G.E.L. has the best resource and the most state-of-the-art research findings in the whole world to study the most simple, the oldest, yet the most difficult topic -- what is life. It's the best research center about life and death. I still remember asking my parents as a child, what's the definition of life, what makes a human human, what's the real fundamental difference between a creature and a human, a rock and a human. All those questions but no answer. And that's before they were taken by cancer." His voice lowers.
+
+"Mine's car crash." Bal says quietly, giving him a nod for understanding. "But here's actually more about 'how' than 'what', isn't it?"
+
+Cas nods mutedly. "I didn't know about Project Lazarus until I joined -- the ultimate research about human resurrection. I never even thought it could be possible, but it seems there are possibilities and actual proofs that nonhumans -- rare creatures, insects, old life forms that gods in old legends and religious stories are based upon -- might actually have that ability. And if we can decipher their genetic code and transfer to human, it's possible that so can we. It means..." He takes a longer breath this time. "I miss them so much. My family. I know they were already gone for too long, it's unrealistic and irrational to think bringing them back even if we succeed. But maybe, one day, when it becomes possible and reliable, it won't happen to others again. There will be no more death, no more pain or suffering in this world."
+
+Bal swallows, lowering his head for a short moment. "But no such thing as free lunch. You want to study resurrection, then you gotta kill them first. And most of the times, unfortunately, they just don't come back alive. But that's all for the greater good."
+
+"It's not fair," Cas says weakly, staring at his hands on the table, rubbing his fingers as if there are blood there that he can't get clean.
+
+Bal huffs a laugh. "You know what else is not fair?" Cas lifts his head to cast him a querying look. Bal gestures the ceilings and the walls around them. "This. This whole place isn't even fair to us. Is it just me or it feels like a cage to you, too? I mean, I know it's top security or whatever, but hello? It's not Area 51, for god's sake, we're not in *Independence Day*. Is it really necessary to blindfold everyone to take a shuttle bus? And then there's no signal inside the facility, no phone, no text, no anything; everything is so cold and metal and stiff and uncomfortable. You don't get to have friends; people you're working with, you don't get to keep in touch outside work, or else it's security breach. Security guys are everywhere, and some of them I suspect they're even military guys. God, sometimes I feel like we're just in a bigger cage than our experiment object. You do what you're told, you eat, you walk here and there, you clean up the cage, very occasionally you stand there for a whole day and do a behavioral report, and ten years later, you finally get a fun task and that's anatomy and it makes you sick for three days. Boy, if you want to complain about their welfare, I got plenty to complain about my -- our -- welfare right here."
+
+He catches a breath, getting up to grab a new cup and a full cup of clear water. He drinks half the cup in one go.
+
+Cas looks at him, slightly amused.
+
+Bal returns a challenging stare. "What?"
+
+"Sorry, I shouldn't stare, but it's so rare to see this side of you. It feels..." Cas hesitates, looking for the word, then, "real. For once in this place, I feel like I find something flesh and blood. And it's nice to know I'm not the only one here feeling I don't have any freedom or power to do anything. Everything is making me feel so powerless, I can't breathe. I would so often dream about I'm the one in the chambers and lab and sometimes even on the operating table. And I'd wake up and realize it's not even too far off."
+
+"Flesh and blood, huh," Bal huffs a laugh. "Isn't it sarcastic? Blood, right here." He points at his lab coat again but he starts taking if off and wrapping it in a wrapped ball. "Anyway, I think it's probably about time to go," he checks his watch. "You might want to clean up that lab chamber before Uriel or Zachariah come looking for you or yell at you again. Nice chat, Cas."
+
+"Bal," Cas calls after him before the other leaves the room. He turns his head back, raising one side of the eyebrows in question. Cas runs his dried lips with his tongue. Words congest in his throat, but he finally comes up with, "Thank you."
+
+Balthazar's other eyebrow is also raised.
+
+Castiel adds. "Thank you for letting me know all those, and, you know, for being my friend and I know you're still caring and, and --"
+
+He doesn't get to finish the sentence.
+
+Balthazar rolls his eyes. "I told you I don't care and I mean it, seriously, because I can't. I think that's the biggest difference between us." He points a finger at his own chest, where the heart is, "Ten years in a place like this is enough to turn this beating thing into a stone. I can watch anything get sliced open and killed and I won't flinch. I can kill anything myself. That's the only way you survive, or you get out. And you, buddy, you still have too many hearts. I don't envy you, because it's gonna hurt. Don't ask me how I know, I just do. And don't say I didn't warn you when it hurts so much that it feels like breaking. Don't worry about that, it will come back and you'll just a harder one. Good night, Cas."
+
+This time, Castiel doesn't stop him. He stands in the breakroom for a long time, alone, watching the way Balthazar disappears, and the cold, white light reflecting on the high walls along the corridor. This whole place looks like a prison, the top security one, exactly like Balthazar just said. And all of them are just prisoners.
+
+He cleans up Jo's empty chamber when he goes back to work. And he lets himself get blindfolded when he gets on the shuttlebus. It's getting late when he gets off the bus and heads back to his place.
+
+The light in the first floor of the shared house is still on. Cas tries to walk quietly on the stairs to the second floor toward his room, but the old stairs still squeak under his feet, and the door of the first floor's room is opened.
+
+A young woman with red hair stands by the door in a comfortable T-shirt and sleeping pants.
+
+"Hey, Cas!" she waves with a smile.
+
+"Charlie," Cas gives her a nod, too worn out to show more enthusiasm, even just for politeness. He wants nothing more than just throwing himself to bed and pass out, without even bothering to take care of his empty stomach. But he does manage to remember adding some words to not appear just too distant. "Sorry about waking you up," he adds, standing in the middle of the stairs, feeling awkward.
+
+"I wasn't sleeping anyway," Charlie makes a gesture to point at her room behind her shoulder. "I got too much dinner, do you mind help me to get rid of some food?"
+
+Cas is about to say "Thank you but I'm good" when his stomach very promptly makes a loud, empty sound, protesting the refusal in his mind. Charlie has "too much food" every single day, ever since she found out Cas would skip meals when he's just too tired to move or even to think properly after coming back home from a day's work, which is about every day.
+
+"That's very kind of you," Cas says instead, sincerely, moving back to the first floor, going into Charlie's room.
+
+Her room is warmer than outside -- though the end of March in Nevada isn't actually too cold any more anyway, except for the middle of the desert past midnight -- and a lot warmer than the lab. Though still not as warm as Cas's own room, but that's only because Cas has his heater and humidifier on all day and night to keep the room warm and humid for all the plants he has.
+
+Cas rolls up his jacket sleeves to the elbow and washes his hands while Charlie reheats their dinner.
+
+"Any time when you're ready!" Charlie shouts from the dining room.
+
+Only then does Cas realize he has spent way too many minutes rinsing and soaping and washing his hands, and he's rubbing his fingers too hard until they're red. He still doesn't feel they're clean. He did the same in the lab bathroom after he finished cleaning up Jo's old lab chamber and making it look as fresh and new as he possibly could. But the cleaner that room gets, the bloodier he feels his hands are, as if every brush of floor and every wipe of walls is his effort of eliminating a life's trace of existence. And when all of those are gone, then she's finally, factually, ultimately gone. He rubs his fingers harder. The flowing water looks bloody red to his eyes.
+
+Charlie turns off the sink faucet for him and hands him a clean towel like she notices nothing. "Come on, dinner is ready," she says gently.
+
+Cas sinks down the seat, realizing he's facing a table of steaming warm real food, with a bowl of rice before him.
+
+"Chinese take-outs, hope you don't mind. I couldn't cook even if my life depends on it." Charlie hands him the utensils.
+
+"It's perfect, thank you." Cas whispers, feeling his throat tight. He lets the food stuff down the lump in his throat.
+
+The air in the room feels even warmer now, so is his body. The muscle on his shoulders finally gets a chance to relax as he chops down the meal.
+
+"There's also some salad for your tomorrow's lunch, got some veggie and scrambled eggs in there." Charlie puts a plastic box down at the corner of the table as they wrap up the dinner. "You know, I got way too much food."
+
 
 
 <br>
 
 #### draft notes
 
-> Set up scene with the last subject (JH-4785, "Jo"), Cas is intern researcher mainly taking notes, Zach gives order to dissect her so they can prepare the space for the new subject arriving tomorrow. Cas protests and tries to save her, but gets forced to leave the scene, Bal urges him to get out. Uriel is the one operating the project. (early character intro: Bal, Zach, Uriel)
+> "Why are you so nice"/"Why do you care so much?"/"That's not true"
 >
-> Cas can't really revel because of reality, he's just an intern, need the job to pay rent etc., have no power in this place (foreshadowing, also patch explain why he can't defy orders)
+> "Sorry, you're right. That's not true. But that's for you anyway." "How else can we make this world a better place if we don't all care for each other?"
 >
-> Bal and Cas small talk to introduce (to audience) about their researcher life in the facility (top security government facility, Advanced Nonhuman Genetic Evolution Lab (ANGEL)), under heavy surveillance, very little freedom for everyone, even researchers are like prisoners in this place, let alone researching objects. (place wall made of iron/lead, cold, metal, stiff; they're probably in Nevada, joke about being in Area 51, reference *Independence Day*)
+> "You look sad today?"
 >
-> venting about security protocol: Everyone is blindfolded to take shuttle bus to the facility, no one really knows where they are. No phone/text from inside the facility to outside, not even to the bus. No one can keep in touch outside facility, doesn't know where each other lives, otherwise security violation. (foreshadowing)
+> "That's why?"/"I thought you said I look sad everyday"
 >
-> mentioning Cas's duty is to observe and record their behaviors, do experiments as instructed (not much free will to decide what to do)
+> "Extra sad today. What happened? Is there something with that dog you were working so hard to save didn't make it?"
 >
-> their project goal is to decode human life secret, figure out a way to stably resurrect a life, failure of experiments cause a lot of lab object's death. Bal reminds Cas of motivation.
+> Cas can't really tell Charlie anything from work, that's one of the facility's top security rules. So he might have accidentally lead Charlie to believe he's working in a vet, which, when he thinks about it, isn't too wrong. So he lets the partial truth (which is not a lie, he reasons) stay.
+>
+> "Yes," he says.
+>
+> Jo is the "dog" that he has mentioned to Charlie. But it feels so much worse now that she's not a dog at all. From any standard in Cas's eyes, she counts as a human, maybe the only visual difference is she's covered in scales and she doesn't appear to speak or understand human language. Calling her a "dog" is just wrong, but Cas can't make it right. He's just as cruel as and even more hypocritical than everyone else in the facility.
+>
+> He feels sick.
+>
+> Cas rushes to the restroom and vomits out half the meal he just ate.
+>
+> (Charlie comforts him here, Cas talks a little, Charlie makes him feel better)
+>
+> 
+>
+> Cas is upset and distressed
+>
+> Cas loves plants and insects, having green everywhere in his apartment, has a cat and bees (foreshadowing)
+>
+> showing Charlie is a good friend and encouraging, give him hope for next day, take care of next subject. passing line: share take-out and pre-packed salad+scrambled egg for Cas's next lunch (foreshadowing)
+>
+> Cas's plants (borrow from dear friend's house), Pothos (绿萝) climbing on window frame, orchids (easy to die), avocado tree, basil, Monstera (龟背竹); room always keep warm and humid for plants, like rainforest, has a certain rainforest taste/smell in the air that's different from anywhere else in the city (teased by Charlie) (foreshadowing)
+>
+> 
 >
 > mentioning Cas's religion/belief (Cas's cross necklace), quick tease, but not go deep, being mocked by Bal, but Cas states/repeats it (foreshadowing)
 >
 > Cas self-blames, already tried his best to maximize experiment efficiency, to minimize the death toll, but given the experiment's nature, it's still unavoidable. they do experiment on animals, Cas is still always very upset about having to witness the experiment fail and animal's death. far too compassionate for his job (more than an intern's responsibility)
->
-> show Bal's different, already numbed by the process, thinking of those animals as just objects, mocking him for being so sentimental. Bal is Cas's only friend, but still can't fully understand him (but will change later). very obvious to show him being too different from others, too much emotions, "too much heart", doesn't have friends, too lonely, too dissociated with others; not good with technologies, phone/computer etc. (emphasizing loneliness, foreshadowing)
->
-> Cas is upset and distressed, coming home, running into neighbor Charlie (brief character intro), showing Cas loves plants and insects, having green everywhere in his apartment (and on his research table?), has a cat and bees (foreshadowing). showing Charlie is a good friend and encouraging, give him hope for next day, take care of next subject. passing line: share take-out and pre-packed salad+scrambled egg for Cas's next lunch (foreshadowing)
->
-> Cas's plants (borrow from dear friend's house), Pothos (绿萝) climbing on window frame, orchids (easy to die), avocado tree, basil, Monstera (龟背竹); room always keep warm and humid for plants, like rainforest, has a certain rainforest taste/smell in the air that's different from anywhere else in the city (teased by Charlie) (foreshadowing)
 
 > Cas is still a bit upset/down about another previous failed experiment (JH-4785, "Jo"), internally weeping, sulking inside, when Dean arrives
 >
@@ -393,7 +636,6 @@ Cas doesn't answer.
 > Cas is assigned to be one of the two main researchers on this new project (since his previous one just finished), the other is Uriel, both supervised by Zachariah (who's technically the real power management on this project, Cas has to follow his lead, second to Uriel, just a supporting role)
 >
 > Dean is feral and untamed, aggressive, attacking, broken and beautiful, strong, his blood veins glowing faintly through translucent skin.
->
 
 > Uriel starts the first round of the experiment, Cas does the low intern job like note-taking, coffee, cleaning-up etc.
 >
@@ -424,6 +666,10 @@ Cas doesn't answer.
 Cas is religious and very scientific, very compassionate, a bit autistic, detached with most "normal" people, lonely, doesn't belong, but fine with it, but very quickly bond with Dean (who also apparently doesn't belong)
 
 can include some side characters: Balthazar, Samandriel, Charlie
+
+
+
+very obvious to show Cas being too different from all others, too much emotions, doesn't have friends, not popular, too lonely, too dissociated with others; not good with technologies, phone/computer etc. (emphasizing loneliness, foreshadowing)
 
 ###### [TBC]
 
@@ -536,6 +782,8 @@ can include some side characters: Balthazar, Samandriel, Charlie
 > Bal runs with "Cas", saying Cas is not feeling well, needs to go home quickly. "Dean" purposefully stops, letting Zach walk slowly to him, taking his disguise off, buying them time. Zach finds they swapped cloth, knows it's trick, runs to the shuttle stop (ask Uriel to watch Cas), but too late, they are already gone. Zach wants to phone the bus driver, but the signal is blocked from inside the facility. Dean escapes with Bal, Cas is held hostage.
 >
 > Zach/Uriel tortures/threatens Cas, wanting to know where Bal/Dean run to. It's a precious, highly classified research asset. Cas calmly defies them, say he doesn't know anything, say they can be anywhere, which is true (not scared of losing his job anymore, saving Dean's life more important).
+>
+> conversation with Zach: Cas is also torn when the reasoning for abuse is put in that way: there might be a greater good here. But it's a Trolley Problem. "Isn't it what you wanted when you joined us? Figure out a way to save humans? When did you start caring for nonhumans?" "Why does he have to be the one to die?" Who decides who gets to live and who gets to die?
 >
 > Bal settles Dean down in Cas's place, surrounds him with Cas's plants and humidifier, runs into Charlie. Bal worries outsider see Dean, Charlie says she already know, Cas already told him a lot about Dean. Bal laughs about Cas's defiance and security breach. Dean can't breathe for a while, Bal freaks out ("Cas is gonna kill me if you died"), Dean opens his eyes again. Both Bal/Charlie relieved.
 
@@ -685,6 +933,6 @@ foreshadowing here: Dean has healing power, and other nonhuman mysterious power
 >
 > Dean is still long way from Amazon and Cas can be helpful to lead him there (but Cas also will need help to survive in the wild, but Dean will help, so that's not a problem), so they run off to the woods together.
 >
-> Ending with Charlie/Bal chat, "Do you think they'll be fine?" "Knowing those two? Yeah I think they will. You?" "I think they'll build a little house somewhere deep deep in the woods where they won't ever get found or harmed, no phone, no laptop, no data plans, grow some plants, have some bees and a cat. Oh crap, Cas's cats --" "Guess they're ours now." "Well, that's their 'Happily ever after'." "There's probably one more thing we can do to keep them safe." Charlie raises eyebrows. "What do you say about breaking in again and wiping all the records? There will be no more experiment project DW-124 ever. No living soul will see the project files ever again. It will be only you and me." Charlie beams, "What are you waiting for?"
+> Ending with Charlie/Bal chat, "Do you think they'll be fine?" "Knowing those two? Yeah I think they will. You?" "I think they'll build a little house somewhere deep deep in the woods where they won't ever get found or harmed, no phone, no laptop, no data plans, grow some plants, have some bees and a cat. Oh crap, Cas's cats --" "Guess they're ours now." "Well, that's their 'Happily ever after'." "There's probably one more thing we can do to keep them safe." Charlie raises eyebrows. "What do you say about breaking in again and wiping all the records? There will be no more experiment project DW-124 ever. No living soul will see the project files ever again. It will be only you and me." Charlie beams, "What are you waiting for?" (complete with the very first trailer scene)
 
 ###### [END]
