@@ -5357,4 +5357,26 @@ and actually female body can enjoy sex more delicately and overwhelming than mal
 
 and there will be adventures inside the Jumanji world, there'll be deadly traps and dangers, they'll die, but each will have three lives. When they each die for the first two times, Dean gets worried briefly but starts learning the rule, but once they all only have one life, he's getting really really stressed out and protective and doesn't want Cas to get into any danger. (if you die in Jumanji, you die outside) "It's a lot easier to be brave when you have lives to spare, it's a lot harder when you only have one life." Cas: "We always only have one life."
 
-### 443.
+### 443.【destiel】The Road AU
+
+post-apocalypse world, but no major supernatural disaster source remain, all angels and demons are gone, Cas is human, they'll have to survive the humanity to move from one place to another
+
+### 444.【destiel】gay conversion AU
+
+(inspired by DJ Qualls podcast episode 9)
+
+(heavy angst)
+
+1950s timeline
+
+Dean is sent by John to the facility to "cure" his gayness
+
+the doctor is Cas, who doesn't think/know he's also gay, but his task is to "cure" the gay men sent to the facility
+
+Cas has his gay realization and the two of them save each other to escape the place
+
+(inspired by an old prompt somewhere? from other ships?)
+
+(the facility is on the second floor of a gay bar, an easy trap to coax gay men to mistakenly go to the place or sent by their family and got soft grounded)
+
+### 445.
