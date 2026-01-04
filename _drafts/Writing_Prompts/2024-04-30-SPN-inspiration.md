@@ -5379,4 +5379,20 @@ Cas has his gay realization and the two of them save each other to escape the pl
 
 (the facility is on the second floor of a gay bar, an easy trap to coax gay men to mistakenly go to the place or sent by their family and got soft grounded)
 
-### 445.
+### 445.【Death/Dean】Death loves Dean
+
+(reference: *Elisabeth* musical, my own *Death Office* story)
+
+S13E05:
+
+Dean: "No offense, but I know if you're in charge, I'm not getting back."
+
+Billie: "That doesn't sound like the Dean Winchester I know and <u>love</u>."
+
+old incarnation of Death also loves Dean, helps him so many times
+
+maybe the reason why Dean is always suicidal is because Death loves him, or the reason why Death loves him is he's suicidal
+
+maybe can write a story like *Elisabeth*?
+
+### 446.
