@@ -1312,9 +1312,9 @@ Cas explains theory of evolution? He witnesses the first fish and homo sapiens a
 
 (include examples when debating with friends: koala, female hyena)(conversation heavy, could be triggered when watching nature channel)
 
-### 130.【destiel】Time is fluid 刀河梗【WIP】
+### 130.【destiel】Time is fluid 刀河梗
 
-(inspired from S04E03/S05E13 "Time is fluid", AO3 story "A turn of the earth", DW刀河梗, recent "Agatha All Along"S01E07, Benjamin Burton)
+(inspired from S04E03/S05E13 "Time is fluid", AO3 destiel story "A turn of the earth", AO3 destiel version of Time Traveler's Wife, DW刀河梗, "Agatha All Along"S01E07, Benjamin Burton, Time Traveler's Wife)
 
 Cas can't control where to land in time stream (a curse?), has to pop in time in reverse order, remember things in reverse order with Dean but still manages to fall in love. Both keeps journal to keep up, always run short in time.
 
@@ -1330,7 +1330,40 @@ Cas moving backwards, remember him less by every time they met, Dean more
 
 "What you said to Amy, there's a worse day coming for you?" "When I first met the Doctor, a long, long time ago, he knew all about me. Think about that. Impressionable young girl and suddenly, this man just drops out of the sky. And he's clever and mad and wonderful and knows every last thing about her. Imagine what that does to a girl. Trouble is it's all back-to-front. My past is his future. We're traveling in opposite directions. Every time we meet, I know him more, he knows me less. **I live for the days when I see him**, but I know that every time I do, he'll be one step further away. And the day is coming when I'll look into that man's eyes, my Doctor, and he won't have the faintest idea who I am. And I think it's going to kill me." (S06E01)
 
-keeps delay going to the last place he knows will be their last; has 10 years to think about how to fix this, why would he give him (something) → eventually saved his life
+"I take it we are close?" "Very." (OUAT)
+
+"So all this time, you know exactly how I'd die"
+
+keeps delaying to go to the last place he knows will be their last; has 10 years to think about how to fix this, why would he give him (something) → eventually saved his life
+
+(Tags: Time Travel, Case Fic, Mutual Pining, Slow Burn, Angst, Temporary Main Character Death, Eventual Happy Ending)
+
+Title: 《Out of Order, Out of Time》（other candidates: Your first time is my last; **Time is fluid**; See you again next time, for the first time; See you again; See you soon; **See you again soon**; **You'll see me again (but I'll never see you again)**; The first time you meet me is the last time I meet you; The first time I see you is the last time you see me; a worse day coming; Heya, sweetheart/sunshine; drop out of the sky; against the river; **Against the tide**; against the time; against the clock; up the stream; **Back to Front**; upside down; My past is your future; opposite directions; the wrong direction; wrong order; live for the days to see you; one step further away everyday; the time traveler; backwards; the end comes first; **less everyday**; you know the end of our story from the beginning; upstream; **you know how it ends from the beginning**; countdown; out of time; out of order; **Out of Order, Out of Time**; **the end at the beginning**; **the ending from the beginning**; see you yesterday; where are we; spoilers; not yet）
+
+(Infinity Cake 2025 round prompt 5: Character A and Character B fall in love while A perceives linear time forward and B jumps through time several times. This means A's first meeting with B is B's last meeting with A, and A's last meeting with B is B's first meeting with A.)
+
+**Interpretation 1**: (Dean=A, Cas=B) Dean and Cas fall in love while Dean perceives linear time forward and Cas jumps through time several times. This means Dean's first meeting with Cas is Cas's last meeting with Dean, and Dean's last meeting with Cas is Cas's first meeting with Dean.
+
+Interpretation 2: (Cas=A, Dean=B) Dean and Cas fall in love while Cas perceives linear time forward and Dean jumps through time several times. This means Cas's first meeting with Dean is Dean's last meeting with Cas, and Cas's last meeting with Dean is Dean's first meeting with Cas.
+
+*Reference notes from Doctor/River:*
+
+| Doctor                                             | River                                              |
+| -------------------------------------------------- | -------------------------------------------------- |
+| S04E08/9 Silence in the Library/Forest of the Dead | S06E07 A good man goes to war                      |
+| S05E04 The time of angels/Flesh and stone          | S06E01/2 The impossible astronaut/Day of the moon  |
+| S05E12/13 The Pandorica opens/The big bang         | S06E08 Let's kill Hitler                           |
+|                                                    | S06E12 Closing time                                |
+|                                                    | S06E13 The wedding of River Song                   |
+| S06E01/2 The impossible astronaut/Day of the moon  | S06E01/2 The impossible astronaut/Day of the moon  |
+| S06E07 A good man goes to war                      | S06E07 A good man goes to war                      |
+| S06E08 Let's kill Hitler                           | S05E12/13 The Pandorica opens/The big bang         |
+| S06E12 Closing time                                | S05E04 The time of angels/Flesh and stone          |
+| S06E13 The wedding of River Song                   | S06E13The wedding of River Song                    |
+| S07E05 The angels take Manhattan                   | S07E05 The angels take Manhattan                   |
+| 2015 special: The husbands of River Song           | 2015 special: The husbands of River Song           |
+|                                                    | S04E08/9 Silence in the Library/Forest of the Dead |
+| (S07E13 The Name of the Doctor)                    | (S07E13 The Name of the Doctor)                    |
 
 ### 131.【destiel】wear a bell（R级?）
 
@@ -2421,9 +2454,9 @@ Mark of Cain时期考虑过为了甩掉Mark而换身体，但是Mark是在灵魂
 
 （可以提前在另外别的地方准备卡的备份grace？像Gabe能量可以常年一点一点被抽取转移，卡也可以一点一点抽取积累出一管，1518走之前留给丁，于是在最后这个时候尝试把卡的grace放进卡的克隆身体里，于是重新得到了一个卡）（但是总感觉有哪里不太对，好像这个无论如何也只是一个代餐卡不是本体卡）
 
-### 239.【destiel】S04E17 Dean Smith + ghost Cas【WIP】
+### ~~239.【destiel】S04E17 Dean Smith + ghost Cas【done】~~
 
-(canon-divergent? pre-S04E17->post-S04E17)
+(canon-divergent, pre-S04E17 → post-S04E17)
 
 (tag: ghost Cas, S04E17, Dean Smith)
 
@@ -2907,7 +2940,7 @@ something huge happened, the only way to save Dean's life is Cas wipe Dean's mem
 
 Cas read Dean's memory, but door can be stepped either direction, Dean start reading Cas's memory (startled Cas)
 
-### **268.【destiel】S04E01 Dean lobotomize Cas in Hell during angel rescue**【WIP】
+### ~~268.【destiel】S04E01 Dean lobotomize Cas in Hell during angel rescue【done】~~
 
 (inspired by a comment under my tumblr post mentioning Cas 0817 is lobotomized) (heavy angst, canon compliant, canon divergent)
 
@@ -2949,7 +2982,7 @@ groundhog day where the whole worlds repeat around Sam, everyone else only lives
 
 《What Is Life》
 
-(tags: Canon Divergent, Canonical Main Character Death, S12E20, post-canon, fix-it)
+(tags: Canon Divergent, Canonical Main Character Death, Temporary Death, Philosophical Death, S12E20, S10E21, Post-Canon, Fix-It, Get Together)
 
 (inspired by *Transcendence*)
 
