@@ -5428,4 +5428,14 @@ maybe the reason why Dean is always suicidal is because Death loves him, or the 
 
 maybe can write a story like *Elisabeth*?
 
-### 446.
+### 446.【Rowena&Crowley】S13E19 Rowena succeed in bringing Crowley back from Empty
+
+Jack can reach Cas in Empty to bring him back, Nick can reach Lucifer in Empty to bring him back
+
+Rowena has been very desperate in S13 to bring Crowley back, even by threatening Billie the Death
+
+maybe Rowena finds the same way Jack/Nick (accidentally) find to wake Crowley up in the Empty and bring him back, both realize they do have a very strong mother-son bond
+
+they aren't loved/cared by anyone else in the world, but they do genuinely care for each other (Crowley is shocked when he heard Rowena died and become more suicidal than ever and killed himself, Rowena is shocked when she heard Crowley died and more desperate to save him)
+
+### 447.
