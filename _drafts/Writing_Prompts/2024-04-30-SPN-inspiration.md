@@ -1689,6 +1689,14 @@ after S09E01 Cas becomes human, Crowley gets addicted to human blood and kidnapp
 
 want to see Crowley and Cas as two pure human hanging around hunting, still bickering a lot like they did in S09E10, kinda like two real hunters but still kinda like angel/demon, and of course at the end of the story they both regain their unearthly power and maybe has to fight again, but surely won't want to kill each other so much like they might do after S06E22
 
+### 166.5【crowstiel】post-S08E23 what if Dean finishes the process and turns Crowley to human
+
+Even though Sam stops the process, Dean can still continue with his blood, and they have the spell, so if Dean just continues it, Crowley would still be completely successfully turned into full human, what then
+
+Rewrite S09 with Crowley and Cas both being human?
+
+can be canon divergent plot-based case fic based rewrite, or become crowstiel, or still involve some drowley and/or moosely
+
 ### 167.【destiel】S06E22 side affect of becoming God: amnesia
 
 Chuck takes precaution for anyone closer to God's ability, as soon as Cas juice up and ganks Raphael, he forgets who he is and that he has God power. He flies away on instinct, not knowing why and how. He finds out he has power, probably uses a few to help people, freaks out a bit, Raphael's men hunt him down and get killed, takes long time but wanders back to bunker. (Then what?)
