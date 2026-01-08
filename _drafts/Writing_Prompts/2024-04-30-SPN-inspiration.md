@@ -5438,4 +5438,28 @@ maybe Rowena finds the same way Jack/Nick (accidentally) find to wake Crowley up
 
 they aren't loved/cared by anyone else in the world, but they do genuinely care for each other (Crowley is shocked when he heard Rowena died and become more suicidal than ever and killed himself, Rowena is shocked when she heard Crowley died and more desperate to save him)
 
-### 447.
+### 447.【denny】Benny character study
+
+《Nothing Else Matters》(title from Metallica song)
+
+(a sense of unrequited love)
+
+rewatch S08 Benny episodes, Benny really is absolutely trusting Dean for everything including his life
+
+he doesn't ask when Dean cuts him out, he doesn't ask when Dean asks him to sacrifice for Sam
+
+and for Dean, like he said, Benny is the *only* one who's *never* let him down, even Cas and Sam have let him down (more than once)
+
+(but the thing with "let you down", maybe it's the forgiveness that matters more in their cases)
+
+but it also makes Benny truly a different one for Dean
+
+even when S10E19 suicidal hallucination episode, when Dean's hallucinating Purgatory, his brain is letting him see Benny again
+
+Dean always forever have guilt toward Benny, and Benny knows
+
+this character study from Benny POV, should show that truly how deeply Benny trust Dean and love him with his life, and probably canon divergent from after Benny goes back to Purgatory and S15E09 when Dean's in Purgatory again. Benny isn't killed by the vampires, and the Leviathan lied. Benny is the one helped Cas escape (like he helped the first time in S08) and find the Leviathan blossom and go back to the rift in time and meet Dean again. Dean will drag him back to Earth again whether he likes it or not.
+
+still suppressed feeling, very similar to Cas's
+
+### 448.
