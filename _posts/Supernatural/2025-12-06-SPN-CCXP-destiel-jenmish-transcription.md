@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【Jenmish】CCXP25 transcription
+title: 【Cockles】CCXP25 transcription
 date: 2025-12-06 03:06
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Misha Collins"]
-tags: ["Supernatural", "destiel", "jenmish", "英文", "漫展"]
+tags: ["Supernatural", "destiel", "Cockles", "英文", "漫展"]
 pov: 第三人称
 origin: Tumblr
 ---
