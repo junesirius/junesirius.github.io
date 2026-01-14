@@ -46,6 +46,8 @@ S10E14 deleted scene, Crowley teases Castiel: "The clock's ticking again, isn't 
 
 S09E23 Crowley to Dean: "Listen to me, Dean Winchester, what you're feeling right now -- it's not death. It's life -- a new kind of life. Open your eyes, Dean. See what I see. Feel what I feel. And let's go take a howl at that moon."
 
+S11E06 Crowley to Dean: "Do you know how disturbing it was to realize that I couldn't bring myself to kill you? I've had tons of chances over the years, some you don't even know about, but, still... I made my peace with it, embraced my softer side, learned to accept that there was just too much going on between you and I -- bromance."
+
 S10E01 Crowley to Sam about Dean: "He's my best friend"
 
 **396.**【drowley】S10E01-03 summer love（R级？）
@@ -96,7 +98,7 @@ How did Crowley die the first time when he's human, and big realization of what 
 >
 > Crowley: Yes. It ended with me narrowly escaping death, by hiding in a rat.
 >
-> Mary: Wait-- a rate?
+> Mary: Wait-- a rat?
 >
 > Crowley: It wasn't so bad, really... gave me time to think. Gave me time to... (beat) I've been so angry, so focused on winning, on keeping my throne that I never realized... <u>I hated it</u>. All those sniveling, spiteful demons-- the endless moaning of damned souls-- the <u>paperwork</u>. Who wants that job?
 >
@@ -515,7 +517,7 @@ Crowley still gives him what he wants, anything and everything, and more than wh
 
 And then, it happens again.
 
-Crowley doesn't quite remember many of the things after that, he knows it's something something about Sam dying, something something about Abaddon killing everyone including himself -- the whore must die, of course, but who's the one to pay the price this time isn't a question that Crowley is used to ponder. He's more of a man -- demon -- who shoots first, asks the questions later, just like the Winchesters, which makes it very strange, actually, as to why they'd never seem to quite enjoy his way of doing things when they are just doing it exactly the same way. Crowley never could figure that part out.
+Crowley doesn't quite remember many of the things after that, he knows it's something something about Moose dying, something something about Abaddon killing everyone including himself -- the whore must die, of course, but who's the one to pay the price this time isn't a question that Crowley is used to ponder. He's more of a man -- demon, whatever -- who shoots first, asks the questions later, just like the Winchesters, which makes it very strange, actually, as to why they'd never seem to quite enjoy his way of doing things when they are just doing it exactly the same way. Crowley never could figure that part out.
 
 But then, he does regret -- somewhat -- about the Mark of Cain. As he tells Dean later, that really is an honest mistake. He doesn't know Mark would have such huge affect on a human, and he certainly doesn't expect the rumor to be true, that the dead hunter would come back a demon.
 
@@ -567,13 +569,13 @@ Dean's still watching him without blinking -- though demons don't technically ne
 
 He finally starts to make sense now, Crowley thinks. But he still hasn't quite figured out what Dean's talking about.
 
-Crowley just tilts his head and squeezes his smile a bit harder. "I know, I'm professional at sitting at ICU bedside and waiting for people like you bounce back. Part of the job description really, who doesn't like a deal for a miracle?"
+Crowley just tilts his head and squeezes his smile a bit harder. "I know, I'm professional at sitting at ICU bedside and waiting for people like you to bounce back. Part of the job description really, who doesn't like a deal for a miracle?"
 
 Dean doesn't answer, pushing himself up from the bed, his eyes scanning Crowley up and down like he's never seen him before. It's not disgust in his eyes, Crowley notices. His hands are still unconsciously clenching on the First Blade.
 
 "You have friggin' horns and wings, and... and, is that a tail?" Dean widens his eyes. "What the hell? And how am I alive?"
 
-"Oh yeah, about that, thought we'll get to that later, but now that you noticed --" Crowley makes a rough gesture of waving a hand across his head and behind his back. "There are two tails, actually, you too. And, yes, welcome to Hell. You're a demon now, Dean, so welcome to the club. Now you see me, for real, for the first time. Impressive, isn't it? But we'll talk about the fancy new attachments later, first thing first, you gotta bail, or your brother is going to charge in here in about ten minutes and shower you with a holy water shower -- I know it because that's all the patience Moose ever has for me, or any demon, why would you think he'd be any different to you?"
+"Oh yeah, about that, thought we'll get to that later, but now that you noticed --" Crowley makes a rough gesture of waving a hand across his head and behind his back. "I got *two* tails, actually, plural. So do you. And, yes, welcome to Hell. You're a demon now, Dean, so welcome to the club. Now you see me, for real, for the first time. Impressive, isn't it? But we'll talk about the fancy new attachments later, first thing first, you gotta bail, or your brother is going to charge in here in about ten minutes and shower you with a holy water shower -- I know it because that's all the patience Moose ever has for me, or any demon, why would you think he'd be any different to you?"
 
 Dean just stares at him when Crowley is talking. And then he looks down, seeing the blade he's holding in his arms, and then glances at the mark on his right arm, and then behind his back.
 
@@ -614,6 +616,8 @@ Crowley's hand touches his shoulder before he finishes the sentence, and the two
 > Crowley indulges Dean with his unreasonable demands by flying all over the world to get things for him. Apart from can't time travel, most of his abilities is like angel (Dean's absent line "Just like Cas", Crowley hurt slightly)
 >
 > S10E01 Crowley about Dean: "He's my best friend"; S10E02 Dean: "We ain't besties" "We're done" breakup
+>
+> S11E06 Crowley to Dean: "Do you know how disturbing it was to realize that I couldn't bring myself to kill you? I've had tons of chances over the years, some you don't even know about, but, still... I made my peace with it, embraced my softer side, learned to accept that there was just too much going on between you and I -- bromance."
 >
 > One time Dean insists both to wear cowboy hats, happened to be in Dodge City, having so much fun, laughing at Crowley's face. Crowley takes photo of the moment. Crowley changes from drinking fancy cocktail to drinking beer with Dean, snarky comments all the time between them, doesn't feel downgrading, having too much fun, getting affected by Dean. (take two photos, each take one, Crowley keeps his in his pocket all the time, still there as he's dying, he's sure Dean's already gone)
 >
