@@ -1,23 +1,23 @@
 ---
 layout: post
-title: 【Destiel】S12E11 What's a real, unburdened Dean like（短评）
+title: 【Destiel】S12E11 What's a real, unburdened Dean like（剧本）
 date: 2026-01-16 00:34
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Sam Winchester", "Rowena MacLeod"]
-tags: ["Supernatural", "destiel", "英文", "剧本", "短评"]
+tags: ["Supernatural", "destiel", "英文", "剧本", "摘录"]
 pov: 第三人称
 origin: Tumblr
 ---
 
 This precious precious episode gives us a Dean that's so rarely but genuinely real, carefree, and unburdened by his past, without memory of traumatized childhood, without memory of Hell, of all the terrible terrible adulthood trauma and Apocalypses over and over again. For once, he gets to smile easily and wink freely, and for once, we get to see what Dean's essential inside is like, without all those burdens and traumas.
 
-He's not "being good" *because of* the trauma and burdens. He's good because, just because.
+He's not "being good" *because of* the trauma and burdens. He's good, just because.
 
 It's just so easy to see his soul is innocent and bright and kind no matter what.
 
 All he wants to do is helping people, saving the world, getting rid of the bad guys, not because bad guys burn his mother and ruin his family, just because that's the right thing to do.
 
-From the episode, especially from the script (where there're something the show skipped), it's just so easy to see he'd want to do the right things no matter what. That's who he is, always and will forever be.
+From the episode, especially from the script (where there's something the show skipped), it's just so easy to see he'd want to do the right things no matter what. That's who he is, always and will forever be.
 
 <br>
 
@@ -67,7 +67,7 @@ About not letting people he cared about worry:
 
 When he realizes how serious this memory loss is (he forgets his own name, Bon Jovi's band members, a lamp is called a lamp), his first thought: Don't call Cas or Mom.
 
-Never stop thinking why he doesn't want them to know. Maybe doesn't want them to worry for him. Maybe doesn't want them to see him like this. Maybe he knows he might forget about them given time, and he's afraid it will hurt them.
+Never stop thinking about why he doesn't want them to know. Maybe doesn't want them to worry about him. Maybe doesn't want them to see him like this. Maybe he knows he might forget about them given time, and he's afraid it will hurt them.
 
 Have been thinking about writing a what-if canon divergent for this episode (and pretty sure a million other works have already been done on the same premise), just "what if" Cas is in this episode, seeing Dean like this, and Dean's forgetting him, what will happen then. With such an innocent and straightforward and childlike carefree Dean, would he at least be honest with his feelings or would he forget about that too?
 
@@ -99,7 +99,7 @@ When Dean forgets about witches and monsters and hunting and everything, and rel
 >
 > Dean: **Awesome.**
 
-Like Rowena says later, memory-loss Dean is really just such a sweet sweet boy. So sweet he's reminding me of the childhood Dean's memory before he's four, when he still has his mom cut out all the toast crust for him, when he has a warm soft shirt that says he loves hugs. And even then, he's already a caring boy who knows to hug his mom when she's fighting with John over the phone (like Dean commented then, John and Mary's marriage is never paradise, it's only seemingly so after Mary died. classic), and John also mentioned baby Dean would give him a hug when he comes back home. It's so difficult yet so easy to imagine how beautiful and kind and warm and sweet boy Dean would turn into if he doesn't have to live through all the crap Destiny dumps on him.
+Like Rowena says later, memory-loss Dean is really just such a sweet sweet boy. So sweet he's reminding me of the childhood Dean's memory before he was four, when he still had his mom cut out all the toast crust for him, when he had a warm soft shirt that said he loves hugs ("I wuv hugz"). And even then, he's already a caring boy who knows to hug his mom when she's fighting with John over the phone (like Dean commented then, John and Mary's marriage is never paradise, it's only seemingly so after Mary died. classic), and John also mentioned baby Dean would give him a hug when he comes back home. It's so difficult yet so easy to imagine how beautiful and kind and warm and sweet boy Dean would turn into if he didn't have to live through all the crap Destiny dumps on him.
 
 > Flashlights out, Sam leads Dean through the spooky trees following a trail of blood. Dean, loving learning this--
 >
@@ -135,17 +135,17 @@ He wants to help, he wants to be a hero.
 
 And he still has the childhood memory that angels are the good guys, like his mom told him every night, and he's so so happy and proud and amazed (again) that his (their) best friend is an angel (even if he can't remember now).
 
-So here's all the proof that he would love and *choose* to be a hunter and attracted by the fact and reality that monsters are real. He loves to learn about those things, and he's *proud* that he gets to be a hunter and save people and world. He *loves* this life, not just because hunting is the thing he knows and grows up with and good at -- he *wants* this. This is how he thinks a good and heroic life is like, helping people, hunting things.
+So here's all the proof that he would love and *choose* to be a hunter and is attracted by the fact and reality that monsters are real. He loves to learn about those things, and he's *proud* that he gets to be a hunter and save people and the world. He *loves* this life, not just because hunting is the thing he knows and grows up with and is good at -- he *wants* this. This is what he thinks a good and heroic life is like: helping people, hunting things.
 
-It peels off the burden of the family pressure and importance now, it's not about "family business", it's just about what he wants and loves and thinks is the right thing. And given another chance, even without all his past, he'd still be on this path.
+It peels off the burden of the family pressure and importance now; it's not about "family business", it's just about what he wants and loves and thinks is the right thing. And given another chance, even without all his past, he'd still be on this path.
 
 Imagine a perfectly normal life Dean, growing up in a happy family with no tragedy at all, growing to be a sweet sweet man, and then one day, something supernatural happens in his life, not necessarily to his family, but just occurs and overlaps with his life, and he just would go into that world, definitely. Just like S04E17 "It's a terrible life", but even without an angel messing with his memory while he still has some muscle memory and subconsciousness as sort of a cheat to the lesson Zachariah wants to prove, even as a blank white paper, Dean Winchester belongs to this life. For once, Zachariah is right that, this is what he is and what he's always meant to be. It's Dean's free will, and Dean belongs to the hunter life.
 
-While Sam, most of the times, doesn't really choose the life by himself, but the life chooses him. That's probably (exactly) why Sam always wants out, and Dean just can never get out. There will never be a happy retirement life for Dean where he stops being who he is, now that I really think about it, even if he's lucky and the universe favors him and he doesn't die in the job even though he's bordering Death every week, even if he grows old, he's still not going to stop hunting or doing some hunting-related jobs, he'll always always hunt for his entire life until one way or another his light's out, in natural or supernatural way. This is his only way out.
+While Sam, most of the time, didn't really choose this life by himself, but the life chose him (by dad, by demons, angels, Dean, Chuck). That's probably (exactly) why Sam always wants out, and Dean just can never get out. There will never be a happy retirement life for Dean where he stops being who he is, now that I really think about it, even if he's lucky and the universe favors him and he doesn't die in the job even though he's bordering Death every week, even if he grows old, he's still not going to stop hunting or doing some hunting-related jobs, he'll always always hunt for his entire life until one way or another his light's out, in natural or supernatural way. This is his only way out.
 
 <br>
 
-When Rowena and Sam are talking about the witches and spell, Sam sends Dean to TV to keep him quiet:
+When Rowena and Sam are talking about the witches and the spell, Sam sends Dean to the TV to keep him quiet:
 
 > Rowena: Those glyphs ye found? Are an archaic form of Celtic. Ogham Craobh. Druids used it in their rituals, called it the "Language of the Trees."
 >
@@ -165,17 +165,17 @@ When Rowena and Sam are talking about the witches and spell, Sam sends Dean to T
 
 Still loves TV, still loves Scooby Doo.
 
-Doesn't remember HBO, but remembers Cinemax, because Cinemax was from 80s and that's what he grew up with.
+Doesn't remember HBO, but remembers Cinemax, because Cinemax was from the 80s, and that's what he grew up with.
 
 Still remembers Dory the fish and loves so much.
 
-He's really just like a child's mind now, like Alzheimer's, reminding me of *Ghost Dance* (don't read it if you don't want to cry), of *Poor Things*, of *The Notebook*. Of Castiel when he went crazy near end of S7. Both of them have become child-like, but even as children, they're so different yet so similar, in the sense of innocence and kindness and still so good and pure and beautiful.
+He's really just like a child's mind now, like Alzheimer's, reminding me of *Ghost Dance* (don't read it if you don't want to cry), of *Poor Things*, of *The Notebook*. Of Castiel when he went crazy near the end of S7. Both of them have become child-like, but even as children, they're so different yet so similar, in the sense of innocence and kindness and still so good and pure and beautiful.
 
 I need some story to have crazy Cas and amnesiac Dean in the same room and have some cute innocent beautiful childlike interactions.
 
 <br>
 
-The famous famous mirror scene, still so touching, still so powerful:
+The famous famous desperate mirror scene, still so touching, still so powerful, so heartbroken:
 
 > Dean sits on the edge of the tub, struggling to process what Sam's just told him.
 >
@@ -199,11 +199,11 @@ The famous famous mirror scene, still so touching, still so powerful:
 
 The last things he's forcing himself to remember: his own name, his brother, his mother, and Cas. Cas is there, so important in his life, right next to all the most important people he holds so desperately close to his heart.
 
-Even as he forgets how to breathe or swallow, he wouldn't want to forget Cas is his best friend. But Cas never know this.
+Even as he forgets how to breathe or swallow, he wouldn't want to forget that Cas is his best friend. But Cas never really knew this (or internalized it enough to believe how important he is).
 
 <br>
 
-A final touch of wrap-up conversation:
+A final touch of the wrap-up conversation:
 
 > The boys watch the uber drive away...
 >
@@ -223,7 +223,7 @@ A final touch of wrap-up conversation:
 
 <br>
 
-Now I really need to find some (more) memory loss Dean fic to rea
+Now I really need to find some (more) memory loss Dean fic to read now.
 
 <br>
 
@@ -237,13 +237,13 @@ Now I really need to find some (more) memory loss Dean fic to rea
 >
 > Dean: Stupid question. I mean, what kind of psycho doesn't love waffles? They're fluffy, and they've got those little bitty pockets for the syrup, and then you put whipped cream on 'em? Come on... oh, <u>and</u>-- (**chocolate chips and strawberries**)
 
-Love how the script would write out lines that are skipped in the shooting.
+Love how the script would write out lines that are skipped in the filming.
 
 So there it is, with chocolate chips and strawberries.
 
 <br>
 
-**PPS:** What's actually in that camera footage when Dean can't read lips.
+**PPS:** What's actually in that camera footage when Dean can't read lips:
 
 > Dean leans in close to the laptop screen...
 >
@@ -285,11 +285,11 @@ In reality, this is Dean and Gideon's argument as it plays out in the security f
 >
 > Dean scrambles to his feet, grabs his broken phone-- he pulls his gun and runs out of frame.
 
-That finally fills in the blank how his phone is broken (which happened before the forest chase and drop!), and what's the actual words about that random "You salsa now... mittens?" near the end of the footage: so the answer is probably "Sure you weren't cookin' up a hex bag?"
+That finally fills in the blank how his phone is broken (which happened before the forest chase and drop!), and what are the actual words about that random "You salsa now... mittens?" near the end of the footage: so the answer is probably "Sure you weren't cookin' up a hex bag?"
 
 <br>
 
-**P3S:** Funny moment when Dean can't bear blood but unafraid to see a dead body.
+**P3S:** Funny moment when Dean can't bear blood but is unafraid (actually excited) to see a dead body.
 
 > Close on: A corpulent sheet-covered cadaver on a slab.
 >
@@ -359,7 +359,7 @@ And later again see the photo of dead guy's body:
 
 <br>
 
-**P4S:** Gabriel and Arthur Ketch aren't the only ones attracted by Rowena naturally, Dean would too, if their first encounter doesn't involve Rowena killing people:
+**P4S:** Gabriel and Arthur Ketch aren't the only ones attracted by Rowena naturally and physically; Dean would too, if their first encounter didn't involve Rowena killing people:
 
 > Rowena walks a circle around Dean. He eyes her.
 >
@@ -387,7 +387,7 @@ If they're just two total strangers, pretty sure Dean would be interested in a c
 
 <br>
 
-**P6S:** The comedic but rarely true hearted moments between Rowena and Dean:
+**P6S:** The comedic but rarely true-hearted moments between Rowena and Dean:
 
 > Rowena kneels, pulling everything from her carry on: herbs, crystals, spell bowls. Dean's inside a magic circle-- he's fidgety, little-kid restless-- keeps trying to leave the circle (and does so throughout the scene).
 >
@@ -509,7 +509,7 @@ How often did Rowena exchange her body for something like food and housing? Is i
 
 **P7S:** Who left the notes in the Impala and predicts Dean's moves:
 
-Always thought Rowena wouldn't be so patient to note everything but Sam wasn't there by that time, and the script makes it clear only the first two telling Dean not to leave car are from Rowena (and she's using notebook papers), all those notes in the trunk are Sam's (in Post-its)! Super duper clear and detailed and fool-proof and kid-proof. Sam knows how to work with kid, and he's going to be a really good dad one day, just know it.
+Always thought Rowena wouldn't be so patient to note everything but Sam wasn't there by that time, and the script makes it clear only the first two telling Dean not to leave the car are from Rowena (and she's using notebook papers), all those notes in the trunk are Sam's (in Post-its)! Super duper clear and detailed and fool-proof and kid-proof. Sam knows how to work with kids, and he's going to be a really good dad one day, just know it.
 
 > Dean comes to. He's disoriented. In a strange car (Baby!)-- a note-- written on notebook paper-- taped to the wheel. He reads it--
 >
