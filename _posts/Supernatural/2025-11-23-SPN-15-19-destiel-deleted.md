@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【Destiel】S15E19 all the extra pain and reciprocation in the script（短评）
+title: 【Destiel】S15E19 all the extra pain and reciprocation in the script（剧本）
 date: 2025-11-23 16:26
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Jack Kline"]
-tags: ["Supernatural", "destiel", "midam", "英文", "剧本", "短评"]
+tags: ["Supernatural", "destiel", "midam", "英文", "剧本"]
 pov: 第三人称
 origin: Tumblr
 ---

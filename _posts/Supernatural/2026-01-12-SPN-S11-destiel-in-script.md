@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【Destiel】S11 destiel subtext and texts in the script（短评）
+title: 【Destiel】S11 destiel subtext and texts in the script（剧本）
 date: 2026-01-12 21:42
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Lucifer"]
-tags: ["Supernatural", "destiel", "英文", "剧本", "短评", "摘录"]
+tags: ["Supernatural", "destiel", "英文", "剧本", "摘录"]
 pov: 第三人称
 origin: Tumblr
 ---

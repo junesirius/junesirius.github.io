@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【SPN】S05E22 EK's version of the ending
+title: 【SPN】S05E22 EK's version of the ending（脑洞）
 date: 2025-10-19 22:15
 categories: ["SPN"]
 characters: 
-tags: ["Supernatural", "英文"]
+tags: ["Supernatural", "英文", "摘录", "脑洞"]
 pov: 第三人称
 origin: Tumblr
 ---

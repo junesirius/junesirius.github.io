@@ -33,4 +33,4 @@ Jensen is right, it doesn't feel like the best writing, because... Dean just wou
 
 <br>
 
-[Tumblr post link](https://www.tumblr.com/junesirius/802447051556323328)
+([Tumblr post link](https://www.tumblr.com/junesirius/802447051556323328))

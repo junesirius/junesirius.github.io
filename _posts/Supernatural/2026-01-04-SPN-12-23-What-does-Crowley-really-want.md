@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【SPN】S12E23 What does Crowley really wants（短评）
+title: 【SPN】S12E23 What does Crowley really wants（剧本）
 date: 2026-01-04 02:53
 categories: ["SPN"]
 characters: ["Fergus MacLeod/Crowley", "Dean Winchester", "Rowena MacLeod"]
-tags: ["Supernatural", "drowley", "英文", "短评", "剧本"]
+tags: ["Supernatural", "drowley", "英文", "剧本"]
 pov: 第三人称
 origin: Tumblr
 ---
