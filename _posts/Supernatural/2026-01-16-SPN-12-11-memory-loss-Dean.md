@@ -171,6 +171,8 @@ Still remembers Dory the fish and loves so much.
 
 He's really just like a child's mind now, like Alzheimer's, reminding me of *Ghost Dance* (don't read it if you don't want to cry), of *Poor Things*, of *The Notebook*. Of Castiel when he went crazy near end of S7. Both of them have become child-like, but even as children, they're so different yet so similar, in the sense of innocence and kindness and still so good and pure and beautiful.
 
+I need some story to have crazy Cas and amnesiac Dean in the same room and have some cute innocent beautiful childlike interactions.
+
 <br>
 
 The famous famous mirror scene, still so touching, still so powerful:
@@ -218,6 +220,10 @@ A final touch of wrap-up conversation:
 > Dean: Look, was it nice dropping our baggage? Maybe. Hell, probably. But it wasn't just the crap got lost, Sammy, it was everything. It was us, what we do. It was <u>you</u>. (beat) If that's what bein' happy looks like? I'll pass.
 
 (The show cuts out the line "It was you" from the script. Guess the showrunners didn't want it to lean too much on the bromance shipping, huh?)
+
+<br>
+
+Now I really need to find some (more) memory loss Dean fic to rea
 
 <br>
 
