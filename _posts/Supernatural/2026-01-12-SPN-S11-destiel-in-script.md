@@ -6,7 +6,7 @@ categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Lucifer"]
 tags: ["Supernatural", "destiel", "英文", "剧本", "短评", "摘录"]
 pov: 第三人称
-origin: 个站
+origin: Tumblr
 ---
 
 S11E10 before Cas says yes to Lucifer:
