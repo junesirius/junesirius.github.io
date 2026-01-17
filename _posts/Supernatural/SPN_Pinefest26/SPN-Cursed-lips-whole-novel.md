@@ -27,15 +27,15 @@ current time: 2013.5.1 (S08E21)
 
 location: tiny tribe in Colorado
 
-(main divergent from canon: bc Metatron doesn't help, Crowley killed Kevin, Metatron doesn't tell them third trial, they never figure out third trial. Sam sick but not dying)
+(main divergent from canon: because Metatron doesn't help, Crowley killed Kevin, Metatron doesn't tell them third trial, they never figure out third trial. Sam sick but not dying)
 
 start with meta-narrative, reading from Chuck's books: God POV, Dean/Cas pining & lips are all real and known to Metatron, canon-divergent, basically rewrite scenes from canon shows where Dean stares at Cas's lips, naturally transit to S08E21 events
 
 background Sam bad condition after two trials
 
-they find Metatron, ask for help. Metatron doesn't care about trials or Heaven/Hell, refuses to help. Instead, he's read all spn books by Chuck "Carver Edlund" and intrigued by destiel. He tricks Dean into saying he swears on Castiel's name (do you still believe in love, then swear on the person you love the most to prove you still know what love is, Dean's threatened bc desperate to save Sam? want to swear on Sam but Metatron points out he's lying to himself bc that's responsibility), curses Dean's lips just to see a good story, and threatens Dean if he doesn't kiss Cas, Sam dies; if he does, Cas loses his grace/power; and the curse can't be reversed or interfered by angel power, or Dean dies.
+they find Metatron, ask for help. Metatron doesn't care about trials or Heaven/Hell, refuses to help. Instead, he's read all spn books by Chuck "Carver Edlund" and intrigued by destiel. He tricks Dean into saying he swears on Castiel's name (do you still believe in love, then swear on the person you love the most to prove you still know what love is, Dean's threatened because he's desperate to save Sam? want to swear on Sam but Metatron points out he's lying to himself because that's responsibility), curses Dean's lips just to see a good story, and threatens Dean if he doesn't kiss Cas, Sam dies; if he does, Cas loses his grace/power; and the curse can't be reversed or interfered by angel power, or Dean dies.
 
-Dean's devastated, more repressed to keep himself away from Cas, disguise as anger on Cas even after Cas comes back to bunker after losing angel tablet (gut open by Naomi/Crowley, not recovered as quickly as he'd wish), Cas gets pushed away by Dean's pride and anger, but Dean regrets immediately when Cas's almost pushed to leave, Dean apologizes and goes soft and asks Cas to stay, confesses the curse. they'll research on reversing the curse but lower priority than finding ways to save Sam, Cas agrees to help, but also very hesitantly express he's fine to lose his power if it saves Sam, Dean refuses, Cas mistakes as Dean doesn't want them kiss, Dean knows he misunderstand but can't correct him, more torn apart. both self-torturing and painfully mistaken
+Dean's devastated, more repressed to keep himself away from Cas, disguise as anger on Cas even after Cas comes back to bunker after losing angel tablet (gut open by Naomi/Crowley, not recovered as quickly as he'd wish), Cas gets pushed away by Dean's pride and anger, but Dean regrets immediately when Cas's almost pushed to leave, Dean apologizes and goes soft and asks Cas to stay, confesses the curse. they'll research on reversing the curse but lower priority than finding ways to save Sam, Cas agrees to help, but also very hesitantly express he's fine to lose his power if it saves Sam, Dean refuses, Cas mistakes as Dean doesn't want them kiss, Dean knows he misunderstood but can't correct him, more torn apart. both self-torturing and painfully mistaken
 
 Metatron annoyed at their slow pace, push them, drown Dean, Cas is forced to make choice, he kisses Dean to save him, loses his power to Metatron. Dean wakes up, more guilty and furious, "What have you done", finds Cas human now, promise they'll figure out how to fix him, but they'll stop Metatron and save Sam first
 
@@ -91,11 +91,11 @@ Dean's lips are cursed. If he ever kisses Castiel, Cas will lose his power.
 
 Chap 1: After each quoted section, add real-life "reader" (Metatron)'s reaction and action around it. Metatron interact with the tribe/hotel manager (Two Rivers Hotel Manager, local American) sending him books (only catch up to 1970s, but manager insisted on best sellers in this century, so Metatron jumps to read SPN first instead, breaking his own rules). Metatron goes by "Marv" here, already hinting the identity but not pointing out yet. Metatron binge-reads all the book altogether, right before they arrive, but after all the events finished (during the week between the last episode S08E20 and current time S08E21 beginning).
 
-Chap 1 main problem: don't be too boring, don't have to stick to the original too much, can diverge a bit
+~~Chap 1 main problem: don't be too boring, don't have to stick to the original too much, can diverge a bit~~
 
 ~~Chap 1: Change to v+name, like "said Dean" (to distinguish from normal writing style "Dean says")~~
 
-Meta-narrative Dean/Cas's thoughts: every different chapter "part", increasing the tension, show involvement, don't have to be strictly following the canon
+~~Meta-narrative Dean/Cas's thoughts: every different chapter "part", increasing the tension, show involvement, don't have to be strictly following the canon~~
 
 ~~When posting: different "Part" of Chap 1 post into separate AO3 chapters, keep each chapter length contained~~
 
@@ -115,11 +115,11 @@ later chaps when writing Crowley's plot: S08E22 Crowley read SPN book, quoting W
 
 > Meta-narrative: Metatron reads all about Dean/Cas lip-staring as in canon shows but all really happened to them, fast-forward their feelings (written in past tense, mimic Chuck's writing)
 
-A note is left on top of the towering pile of books waiting outside his reading room. It says: "Dear Marv, apologizes for the delay of delivery on this series. The author stopped publishing since three years ago, and it took me and the tribe everything to find all the written but unpublished books. Here are the complete collection of 169 *Supernatural* books, written by Carver Edlund. Please enjoy your reading."
+A note is left on top of the towering pile of books waiting outside his reading room. It says: "Dear Marv -- Many apologies for the delay of delivery on this series. The author stopped publishing since three years ago, and it took me and the tribe everything to find all the written but unpublished books. Here are the complete collection of 169 *Supernatural* books, written by Carver Edlund. Please enjoy your reading."
 
-The book pile must be at least ten feet tall, and the reading room barely has enough space to move around. But they are all moved inside very shortly.
+The mountain of the books must be at least ten feet tall, and the reading room barely has enough space to move around. But they are all moved inside very shortly.
 
-He who does nothing but reading, starts reading from the very first one.
+He who does nothing but reading starts reading from the very first one.
 
 And soon, when he starts the fourth series among all eight that he received, his interest intensifies on a new level.
 
@@ -135,7 +135,7 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > And Dean did. He stared at the angel intensely, eyes scanning his face, searching. "Okay. Last one opens and...?"
 >
-> Castiel stood straight slowly, looking at him directly into his eyes and his soul. His voice was even lower than before as he leaned in closer, as if speaking it out loud would make it come true, as if he wanted to keep it a secret only between them, a taboo he wasn't supposed to share with a human but he couldn't hide it from the man before him. "Lucifer walks free."
+> Castiel stood straight slowly, looking at him directly into his eyes and his soul. His voice was even lower than before as he leaned in closer, as if speaking it out loud would make it come true, as if he wanted to keep it a secret only between them, a taboo he wasn't supposed to share with a human but he couldn't hide from the man before him. "Lucifer walks free."
 >
 > Dean's eyes widened. "Lucifer?"
 >
@@ -145,7 +145,7 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > "Three days ago, you thought there was no such thing as me," Castiel answered, almost amused. The corner of his mouth twitched ever so slightly, curving up in amusement, remembering the first time they met, the blast and the blade on his chest, the awe in the human's eyes when he looked at the shadow of his wings. He wondered if he should pull that act again, just to remind him of what he was. Hopefully it was not necessary, and that Dean could just understand, just cooperate.
 >
-> Dean's eyes fell onto his curled lips, lingering there for a moment too long. He remembered the exact same moment -- there was no way they had only met for three days, did they? It felt like he had known Castiel for far longer than days, or weeks, or even months. *Forty years,* he thought painfully, wincing, *how many of them did he spend watching angels coming down for him but he couldn't remember? How many of them did Castiel spend fighting all the way down to the deepest Pit to reach him, grab him, raise him, and rebuild him? He couldn't even begin to imagine.*
+> Dean's eyes fell onto his curled lips, lingering there for a moment too long. He remembered the exact same moment -- there was no way they had only met for three days, did they? It felt like he had known Castiel for far longer than days, or weeks, or even months. *Forty years,* he thought painfully, wincing, *how many of them did he spend watching angels coming down for him but he couldn't remember now? How many of them did Castiel spend fighting all the way down to the deepest Pit to reach him, grab him, raise him, and rebuild him? He couldn't even begin to imagine.*
 >
 > *This is the angel who saved him from Hell and told him that he deserved to be saved. When no one else did. Not even himself.* Dean swallowed hard, feeling his tongue and lips too dry. He licked his lips.
 >
@@ -167,23 +167,33 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > "This one we lost." Castiel's tone turned more stern now. Dean couldn't help but scoffed again as his response -- just anything to make him look cool as cucumber, but with his heart beating like a frantic rabbit, it was getting increasingly difficult.
 >
-> Castiel was not pleased by that contemptuous expression. He took the last two steps between them in one stride, leaning so close into Dean's personal space to press the words into the air. Quietly, lethally angry. "Our numbers are not unlimited," he scolded, almost blaming him for the death of his brothers and the casualty in his garrison, even though both of them knew it wasn't entirely fair.
+> Castiel was not pleased by that contemptuous expression. He took the last two steps between them in one stride, leaning so close into Dean's personal space to press the words into the air. Quietly, lethally angry. "Our numbers are not unlimited," he scolded, as if blaming him for the death of his brothers and the casualty in his garrison, even though both of them knew it wasn't entirely fair.
 >
 > Dean was cornered. It was just the space between the angel and the damned kitchen sink at Bobby's place, but he was cornered like a caged creature, with Castiel's face inches away.
 >
-> Dean fluttered his eyes, staring down. The lips that he noticed earlier were the first things flicked into his eyes, and he found himself unable to take his gaze away from them ever again. They flipped and flapped like butterflies, like wings of celestial creatures, like flower petals with patterns of ancient tree barks, like angel feathers he caught only a glimpse at. He wondered boldly how they would taste like and was startled by the sudden thought that came from nowhere, improper and hazardous. He wished the angel wasn't reading his mind and shoved the thought down, deep down.
+> Dean fluttered his eyes, staring down. The lips that he noticed earlier were the first things flicked into his eyes, and he found himself unable to take his gaze away from them ever again. They flipped and flapped like butterflies, like wings of celestial creatures, like flower petals with patterns of ancient tree barks, like angel feathers he caught only a glimpse at. He wondered boldly how they would taste like and was startled by the sudden thought that came from nowhere, improper and hazardous. He wished the angel wasn't reading his mind and hastily shoved the thought down, deep down.
 >
 > Castiel's voice pulled his attention back to the topic, but his lips were not helping. "Six of my brothers died in the field this week. You think the armies of Heaven should just follow you around? There's a bigger picture here."
 >
-> Dean swallowed again, his tongue darting out to wet his lips.
+> *But you are following me around.* Dean thought reflexively, but not daring to say it. Castiel could be so very intimidating, and, *damnit*, it was making him so incredibly hot.
 >
-> Castiel leaned in even closer, his lips ghosting inches away from Dean. His tone was murderous, deadly, but Dean's mind already fell blank. He tried to avert his eyes but failed utterly. His eyes broke free of his mind's control, only focusing on the parts that were the sole thing that he could still see.
+> Dean swallowed again, his tongue darting out to wet his lips. He could feel his inside cringing under the skin, trying to shrink smaller under the angel's gaze, but there was nowhere to hide. The angel was staring at him, eyes on his every single move, cornering him, caging him. Everywhere Dean looked, the space was occupied by the angel -- everywhere.
 >
-> Warm breath came out from between those lips and huffed onto his skin as Castiel stretched out his sentence slowly, awe-strikingly, celestially, "You should show me some respect. I dragged you out of Hell. I can throw you back in."
+> Castiel leaned in even closer, his lips ghosting inches away from Dean. His tone was murderous, deadly, but Dean's mind already fell blank. It was impossible to focus on the world-saving crisis in moments like this, when the angel was just so, so close. He tried to avert his eyes but failed utterly. His eyes broke free of his mind's control, only focusing on the parts that were the sole thing that he could still see. Their skin could touch if his body just every so slightly swing a degree forward.
+>
+> The thought steamed Dean's brain, making his mind and eyes all dizzy and foggy, and hot.
+>
+> Warm breath came out between those lips and huffed onto his skin as Castiel stretched out his sentence slowly, awe-strikingly, celestially, "You should show me some respect. I dragged you out of Hell. I can throw you back in."
 >
 > The angel didn't blink the slightest; his stare could quite literally burn a hole on Dean's face. He waited for the words to sink in.
 >
-> And Dean didn't breathe until he realized the angel disappeared without saying goodbye. He blinked then. *Well, that hell of a speech might be the hottest threat he'd ever heard.* He thought absently, replaying the view in his head over again, especially those eyes, that nose, that shadow and light on his face, and those lips. *He's so damned.*
+> Two inches. That was the distance between the angel's lips to his neck. There was barely two inches. That was all Dean could think about.
+>
+> The last thread of reasoning in Dean's mind knew he wouldn't be able to give *any* decent answer that Castiel would be satisfied about, so he forced his tongue to stay still, and he forced his body to not swing or lean in even closer to close the last remaining distance between them, or do *anything* at all. That thin thread of reasoning was so sure if he ever moved, he would do something unbelievably stupid and crazy and got himself smitten. So he held his breath and froze completely.
+>
+> Dean didn't breathe until he realized the angel disappeared without saying goodbye. He blinked then. Slowly. As if his whole body was just slowly thawing.
+>
+> *Well, that hell of a speech might be the hottest threat he'd ever heard.* He thought absently, replaying the view in his head over again, especially those eyes, that nose, that shadow and light on his face, and those lips. *He's so damned.*
 
 <p style="text-align:right">-- <i>"Supernatural: Are You There, God? It's Me, Dean"</i> (2008) by Carver Edlund</p>
 
@@ -191,19 +201,23 @@ And soon, when he starts the fourth series among all eight that he received, his
 
 > The sun was gentle and warm for a November day. Kids were running and laughing in the playground. Dean looked at them, savoring the moment. The air beside him stirred with a light flutter of wings on the park bench. Dean didn't take his eyes away from the kids.
 >
+> There would only be one angel approaching him and sitting quietly on a bench next to him like this, and he also felt like he could almost recognize that particular wing-fluttering sound now, just like he could recognize his Baby's engine purring without looking.
+>
+> He took a breath before breaking the peaceful moment.
+>
 > "Let me guess. You're here for the I-told-you-so," he said nonchalantly.
 >
-> "No," Castiel answered simply.
+> "No," Castiel answered simply. It was hard to hear what he was thinking -- but it was so clear that he was thinking a lot. He was thinking very loudly, but the human could not parse it.
 >
-> "Well, good," said Dean, turning halfway to the angel, "'cause I'm really not that interested." The light mood of seeing the kids playing in the park vaporized.
+> "Well, good," said Dean, turning halfway to the angel, starting to look at him, "'cause I'm really not that interested." The light mood of seeing the kids playing in the park vaporized. The weight of what just happened -- almost happened -- to this town came crashing down again. The aftermath of the weight, to be more precise, it was like looking at a dusted room and staring at one particularly clean spot -- something used to be there but now removed, you just couldn't quite tell what it was from the shape it left behind. The ghost of a disaster lingered in the air -- but they couldn't figure out if the ghost would be better or worse than the disaster itself.
 >
 > "I'm not here to judge you, Dean," the angel said quietly, frowning slightly, turning to look at Dean.
 >
-> Dean realized he didn't know when he turned to face him fully, and now his gaze was fixated on Castiel's eyes again. He frowned a little, forcing his brain to focus on the conversation instead of the view. "Then why are you here?" he asked.
+> Dean realized he didn't know when but he's already turned to face him fully, and now his gaze was fixated on Castiel's eyes again, in a state he kept finding himself in lately. He frowned a little, forcing his brain to focus on the conversation instead of the view. "Then why are you here?" he asked.
 >
-> "Our orders --" Castiel started, but immediately cut off by a fed-up Dean by saying "I've had about enough of these 'orders' of yours --" He even shot the angel a challenging look with a raised eyebrow to pull a full set of irritated look.
+> "Our orders --" Castiel started, but immediately cut off by a fed-up Dean's words "I've had about enough of these 'orders' of yours --" He even shot the angel a challenging look with a raised eyebrow to pull a full set of irritated look.
 >
-> But Castiel did not give up his speech easily. He continued as if undisturbed, staring Dean down. "Our *orders*," he gritted the word, grasping the human's attention, "were not to stop the summoning of Samhain. They were to do whatever you told us to do."
+> But Castiel did not give up his speech easily. He continued as if undisturbed, staring Dean down. "Our *orders*," he gritted the word, grasping the human's attention like a clenched hand over his thoughts, dragging him back in, "were not to stop the summoning of Samhain. They were to do whatever you told us to do."
 >
 > Dean blinked dumbfoundedly, confused. *That can't be right.* "Your orders were to follow my orders?" He was almost amused by the idea. *Who was he to order two angels? To order a real angel like **Castiel** what to do?* The mere thought of that alone felt wrong. He studied the angel's face intently, hoping to see a sign of mischief, that it was a joke -- not as if he had ever found one from the angel.
 >
@@ -213,21 +227,23 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > But even Castiel allowed a small smile. Barely a facsimile of a smile, really, but the very first one closest to a smile that Dean's ever seen him. Dean found himself magnetized by it. His gaze hovered at the little curve at the tip of the angel's lips.
 >
-> *He was beautiful.* Dean found himself thinking, and had to bite on his lower lip to pull back that train of thoughts.
+> *He was beautiful.* Dean found himself thinking, and had to bite on his lower lip to pull back an instant impulse to mirror that smile and pull off a flirtatious comment. The angel would never approve or appreciate such blasphemy thoughts, Dean knew it -- he just knew. He ordered his mind to behave, before that train of thoughts could wreck somewhere.
 >
-> Castiel didn't answer to that, only stare at the grassland before them. Dean felt the obligation of filling the moment of silence between them, as well as the space between the benches they sit on. It was no more than a foot, barely a step's distance, but it felt too far, like a gap in the universe he couldn't cross to reach the angel.
+> Castiel didn't answer to that, merely staring at the grassland before them. Dean felt the obligation of filling the moment of the silence between them, as well as the space between the benches they sit on. It was no more than a foot, barely a step's distance, but it felt too far, like a gap in the universe he couldn't cross to reach the angel, like the difference between an angel and a human that would forever be there. It felt intolerable, and dangerous. So he pulled back that thread of thought too.
 >
-> Dean swallowed, forcing words to form and flow out of his throat. He took a short breath to smooth it. "So I failed your test, huh?" he started saying, thinking over what happened in the past two days, frowning deeper. "I get it. But you know what?" he paused briefly, considering his words, wetting his lips that became so quickly so dried again under the angel's eyes.
+> Dean swallowed, forcing more reasonable words to form and flow out of his throat. He took a short breath to smooth it. "So I failed your test, huh?" he started saying, thinking over what happened in the past two days, frowning deeper. A familiar feeling of failure and expectation of disappointment started sinking in his chest -- *this is good, this is familiar*. Dean thought. He always tried so, so hard to do everything right, to not fail, but so often, he would still screw up, he would fail his dad for one thing or another, he would fail his little brother -- and then there would always be some punishment. He seemed to always be a failure to someone, a disappointment to some big guy, so much that he was already feeling okay with it. It was just another failure in his long list of failed things.
 >
-> Dean continued, slow but not hesitant, "If you were to wave that magic time-traveling wand of yours and we had to do it all over again? I'd make the same call." He gave Castiel a look that was saying *"I do not regret what I did. That's who I am. So deal with it."*
+> "I get it. But you know what?" he paused briefly, considering his words, wetting his lips that became so quickly so dried again under the angel's eyes. Dean continued, slow but not hesitant, "If you were to wave that magic time-traveling wand of yours and we had to do it all over again? I'd make the same call." He gave Castiel a look that was saying *"I do not regret what I did. That's who I am. So deal with it."*
 >
-> And the angel seemed to understand. Castiel nodded quietly, waiting for Dean to finish.
+> *Let the angel call him stubborn; let the angel hate his ass and consider him not worthy of their effort; whatever.* Dean decided, he did what he believed to be right, and he would never do anything any differently.
 >
-> Dean was encouraged by the look on his face, the glistening lights in his eyes, and that ghosting hint of a smile still lingering at the corner of his lips. "'Cause I don't know what's gonna happen when these seals are broken. Hell, I don't know what's gonna happen tomorrow. But what I do know is that this here --" he gestured to the playground, the joyful kids and people, the bright sunshine above their heads, and the grass growing under their feet, "-- these kids, the swings, the trees... All of it is still here because of my brother and me." He reasoned, but the angel wasn't the only one he tried to persuade. *Did he really miss the "bigger picture" like the angels told him? Did he just make another mistake like all the other mistakes in their life, and condemned six billion human beings because he wasn't willing to sacrifice one thousand?* Dean looked at the angel, wondering what Castiel really thought of his decision, more importantly, what he thought of *him* now.
+> And surprisingly, the angel seemed to understand. Castiel nodded quietly, waiting for Dean to finish.
 >
-> Castiel turned fully to Dean, his face heavy with all the compassion and empathy. So extremely like the angels his mom told him about before bed when he was young, Dean thought.
+> Dean was encouraged by the look on his face, the glistening lights in his eyes, and that ghosting hint of a smile still lingering at the corner of his lips. "'Cause I don't know what's gonna happen when these seals are broken. Hell, I don't know what's gonna happen tomorrow. But what I do know is that this here --" he gestured to the playground, the joyful kids and people, the bright sunshine above their heads, and the grass growing under their feet, the joy and beauty of the world came back to his attention. "-- these kids, the swings, the trees... All of it is still here because of my brother and me." He reasoned, but the angel wasn't the only one he tried to persuade. *Did he really miss the "bigger picture" like the angels told him? Did he just make another mistake like all the other mistakes in their life, and condemned six billion human beings because he wasn't willing to sacrifice one thousand?* Dean looked at the angel, wondering what Castiel really thought of his decision, more importantly, what he thought of *him* now.
 >
-> His eyes returned Dean's gaze, holding him there, anchoring him. There was no disapproval or disappointment in those blue eyes, only understanding, with a sprinkle of pain. "You misunderstand me, Dean," the angel said slowly. "I'm not like you think. I was *praying* that you would choose to save the town."
+> Castiel turned fully to Dean, his face heavy with all the compassion and empathy. So extremely like the angels his mom told him about before bed when he was small, Dean thought. He reminded him of that little white angel figurine over the fireplace in his childhood house. It was there before he was born, watching over him with its kind eyes -- much like the real angel before him now. Dean wondered if that small statue was really made based on Castiel.
+>
+> "You misunderstand me, Dean," Castiel said slowly, breaking Dean's wandering thoughts. His eyes returned Dean's gaze, holding him there, anchoring him. There was no disapproval or disappointment in those blue eyes, only understanding, with a sprinkle of pain. "I'm not like you think. I was *praying* that you would choose to save the town."
 >
 > Dean was surprised. "You were?" That was something he didn't dare to have hope for, but Castiel surprised him nonetheless.
 >
@@ -235,25 +251,27 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > Dean winced under those eyes, unsure of what he read, uneased by the look of appreciation and other things that were too kind to be real because he was damn sure he didn't deserve them. He lowered his eyes, drifting down to the angel's mouth. It was as dry and parched as all those other times he saw. Dean ran his tongue over his lips, as if it could wet the lips in his view.
 >
-> "And yet, even though you stopped Samhain, the seal was broken," Castiel was still speaking. His face hardened. "And we are one step closer to Hell on Earth for all creation. And that's not an expression, Dean. It's literal. You, of all people, should appreciate what that means."
+> Castiel was either not noticing or not thinking along the line, for he just continued, "And yet, even though you stopped Samhain, the seal was broken." His face hardened. "And we are one step closer to Hell on Earth for all creation. And that's not an expression, Dean. It's literal. You, of all people, should appreciate what that means."
 >
-> Panic flickered through him like an electric wave of shock. Dean took a shallow breath, and felt his chest too tight to let that sigh out. *If the Armageddon fell on Earth, couldn't say he wasn't warned. And he would know, with all the pain and consequence for all the eternity, it might just because of the mistake they made today, because he wouldn't let a town and a thousand people die -- even knowing that, he still wouldn't.*
+> Panic flickered through him like an electric wave of shock. Dean took a shallow breath, and felt his chest too tight to let that sigh out. *If the Armageddon fell on Earth, couldn't say he wasn't warned. And he would know, with all the pain and consequence for all the eternity, it might just because of the mistake they made today, because he wouldn't let a town and a thousand people sacrifice for some greater good -- even knowing that, he still wouldn't.*
 >
 > He looked at the angel, thinking, asking silently, *What should I do, Cas?* For once, without saying it out loud, Dean thought, he was properly scared. Less scared than when he watched Sam die in his arms, more scared than when he was dragged to Hell by a Hellhound. *How do I make the right choice? If you have the answer, please tell me.*
 >
-> And as if heard the voice in his mind, Castiel said, more quietly than before, frowning deeper than before, "Can I tell you something if you promise not to tell another soul?" His tone was so careful, so trusting, that Dean swallowed again around the lump in his throat.
+> And as if heard the voice in his mind, Castiel said, more quietly than before, frowning deeper than before, "Can I tell you something if you promise not to tell another soul?" His tone was so careful, so trusting, that Dean swallowed again around the lump in his throat, feeling as if he were to be tasked to hold the angel's heart with his bare hands.
 >
-> "Okay," he squeezed the voice out.
+> "Okay," he forced his voice out, feeling his heart fluttered. *Who was he to be trusted with an angel's secret that **no other soul** would ever know? Who was he to **this** angel, to Cas to be trusted like this?* Dean thought, maybe he should be scared. But with everything happening recently, it was taking too much of his mental energy to really feel scared or worried so quickly again now.
 >
-> "I'm not a 'hammer,' as you say," the angel confessed, his eyes averted, staring at his own clenched hands. "I have questions. I have doubts." He glanced at the sky, at Heaven's direction, and he looked away, as if he couldn't even bear to think about Heaven for too long at this moment, as if he was ashamed.
+> "I'm not a 'hammer,' as you say," the angel confessed, his eyes averted, staring at his own clenched hands. "I have questions. I have doubts." He glanced at the sky, at Heaven's direction, and he looked away, as if he couldn't even bear to think about Heaven for too long at this moment, as if he was ashamed, as if he just admitted the biggest crime an angel could ever commit -- because it was, and Castiel knew it -- but Dean didn't.
 >
-> Dean watched him intently, capturing every move of his eyes, every quiver of his lips. He didn't know the pain and uncertainty he witnessed, if they were the reflection of his or Castiel's. Perhaps both.
+> Dean didn't, but he could sense something just from the way the angel hesitated and pained and averted his eyes from the sky. He could feel the undercurrent in those simple words, he just didn't know how significant it was.
+>
+> Dean watched him intently, capturing every move of his eyes, every quiver of his lips. He didn't quite know the pain and uncertainty he witnessed, if they were the reflection of his or Castiel's. Perhaps both.
 >
 > And the confession stretched on. "I don't know what is right and what is wrong anymore. Whether you passed or failed here." They shared another glance, then another stare. "But in the coming months you will have more decisions to make. I don't envy the weight that's on your shoulders, Dean. I truly don't."
 >
 > Dean clenched his jaw at that, rendered breathless by the knowledge and burden in Castiel's eyes and voice. *But at least I got you here with me, right?* He thought, not daring to say that out. He felt too small and too big at the same time. They were talking about Apocalypse and Heaven and Hell and Angel and Demon here, and how could him, a vanilla human (okay, maybe adding a bit spice and juice) get to play on this big chessboard? Even just talking with angels, with Castiel, still made his stomach flutter.
 >
-> Dean looked at the angel -- really looked at him -- thinking of the celestial being resided inside this vessel, behind the cloth and flesh, behind those lines and curves on his face, behind those eyes and lips, the being that could destroy him within a blink. And yet, at the same time, Castiel was just sitting on a park bench with him, looking nothing different from a human, telling him, even as an angel, "he wasn't a hammer," telling him things that he wouldn't share with any other soul except for Dean. Not even to another angel -- especially not to another angel.
+> Dean looked at the angel -- really looked at him -- thinking of the celestial being resided inside this vessel, behind the cloth and flesh, behind those lines and curves on his face, behind those eyes and lips, the being that could destroy him within a blink, the being that could summon lightening and thunder and spread his wings in a dimension different from their world. And yet, at the same time, Castiel was just sitting on a park bench with him, looking nothing different from a human, telling him, even as an angel, "he wasn't a hammer," telling him things that he wouldn't share with any other soul except for Dean. Not even to another angel -- *especially* not to another angel.
 >
 > So here they were, on the park bench, under the sunshine of a November morning, staring at each other, long and quiet, both thinking dazedly: *The person sitting with them was so unbelievable* and *They are going to be so screwed*.
 
@@ -273,23 +291,23 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > *If there is anything worth dying for, this is it.*
 >
-> The look on Cas's face at that moment haunted him. Dean closed his eyes and still couldn't unsee it -- a moment of hope, a beat of silence, a moment of understanding. *Maybe Cas would help,* he remembered thinking then. That deeply, deeply troubled look, the struggle, the pain, the torn-apart, the guilt, the apologies. But it wasn't enough.
+> The look on Cas's face at that moment haunted him. Dean closed his eyes and still couldn't unsee it -- a moment of hope, a beat of silence, a flicker of understanding. *Maybe Cas would help,* he remembered thinking then. That deeply, deeply troubled look, the struggle, the pain, the torn-apart, the guilt, the apologies. But it wasn't enough. *Dean* wasn't enough. Not enough to move him or really reach him, not enough to *be* the reason he might need to change.
 >
 > Dean let out a long sigh, pressing the heels of his palms into his eye sockets. He'd die for his family and friends in a heartbeat, and he really thought they were that -- family and friends. Cas helped so much in the past year, Cas *saved* him from Hell, and it shouldn't mean nothing.
 >
 > Yet still, here they were, parting on bad terms. It didn't matter that even Cas had said, "We've been through much together, you and I." Spending a year together saving the world didn't stand a chance against the brainwash of Heaven's lecture, it seemed.
 >
-> Dean started pacing again. The disappointment and hurt receded slowly in the quietness and emptiness in the room. Memory came to him like rising waves. He remembered the time when Cas told him "Just so you understand why I can't help" with that wary look in his eyes when all he did was to help him, when Cas came back from Bible Camp and saved them from demons, but the first sentence coming out of him was "I serve Heaven, I don't serve man, and I certainly don't serve you."
+> Dean started pacing again. The disappointment and hurt receded slowly in the quietness and emptiness in the room. Memory came to him like rising waves. He remembered the time when Cas told him "Just so you understand why I can't help" with that wary look in his eyes when all he did was to help him, when Cas came back from the Bible Camp and saved them from demons, and the first sentence coming out of him was "I serve Heaven, I don't serve man, and I certainly don't serve you."
 >
-> "What happened in the Bible Camp, really, Cas?" Dean stared at one of the wall paintings that had Michael slaying a big ugly dragon with long horns and tail, but he decidedly not looking into it too closely. Instead, he sent a quiet and desperate prayer. That's the only thing he was left to do in here anyway. "You helped me more than once -- Hell, you helped me every time, whenever I needed you. I was so sure you were my friend, Cas. I'm still trying to believe it. I don't have many of them, and most of them are dead. But please tell me I'm not wrong, that whatever's happening, I could at least still have you."
+> "What happened in the Bible Camp, really, Cas?" Dean murmured, staring at one of the wall paintings that had Michael slaying a big ugly dragon with long horns and tail, but he decidedly not looking into it too closely. Instead, he sent a quiet and desperate prayer. That's the only thing he was left to do in here anyway. "You helped me more than once -- Hell, you helped me every time, whenever I needed you. I was so sure you were my friend, Cas. I'm still trying to believe it. I don't have many of them, and most of them are dead. But please tell me I'm not wrong, that whatever's happening, I could at least still have you. I'm already losing Sam, don't make me lose you too."
 >
-> The room was still too quiet, too static, too dead, too fake. Everything was too fake in here, the overbright gallery light, the arts, the paintings, the beer and burgers.
+> The room was still too quiet, too static, too dead, too fake. Everything was too fake in here, the overbright gallery light, the arts, the paintings, the beer and burgers. Like the whole world was nothing more than a big delicate set for some big guy to enjoy the show -- maybe this really is what the universe is, who knows.
 >
-> Dean turned around, standing at the edge of the table, staring at the food and drink basin but not really looking. Through his mind, in his prayer, he sent more than words now: he sent over the feelings and memories and images. The chilling thrill when he realized he was still alive, the joy of life after leaving Hell; the night when they met in the barn and he saw Cas's wings, the beauty of an angel that he was too frightened to believe it was true; the day they saved a town when the Destiny decided a different, more horrible fate for all the people and kids in there, the first small smile on Cas's face, the exchange of words and confessions; when he couldn't stand to watch the demon kicking his ass, choking him down, and speaking angel exorcism, that's why he just had to pick up a crowbar and slammed it onto Alastair's head, even when the whole plan was to let angels and demons tear each other apart, he just couldn't bare to see Cas suffer like that; and so many times they looked into each other's eyes, when they shared a quiet comfortable moment, let the quiet understanding and alliance flow in the air without words. They were so bad at words anyway, but luckily, it seemed they didn't always need them -- except for now.
+> Dean turned around, standing at the edge of the table, staring at the food and drink basin but not really looking. Through his mind, in his prayer, he sent more than words now: he sent over the feelings and memories and images. The chilling thrill when he realized he was still alive, the joy of life after leaving Hell; the night when they met in the barn and he saw Cas's wings, the beauty of an angel that he was too frightened to believe it was true; the day they saved a town when the Destiny decided a different, more horrible fate for all the people and kids in there but they changed it, the first small smile on Cas's face, the exchange of words and confessions and secrets -- Cas's secrets that he never told another soul like he promised; when he couldn't stand to watch the demon kicking his ass, choking him down, and speaking angel exorcism, that's why he just had to pick up a crowbar and slammed it onto Alastair's head, even when the whole plan was to let angels and demons tear each other apart, he just couldn't bare to see Cas suffer like that; and so many times they looked into each other's eyes, when they shared a quiet comfortable moment, let the quiet understanding and alliance flow in the air without words. They were so bad at words anyway, but luckily, it seemed they didn't always need them -- except for now.
 >
-> "Cas," Dean's lips quivered. He could barely hear his own words. He was getting teary. Desperate. He took a long breath in, trying vainly to steady himself. He tried again, "Cas, listen to me. I'm not mad at you, Hell, I'm more mad at myself most of the times. And I know I'm asking a lot, alright? I know. But I have to ask. You told me to have faith, and this is me having faith in you. You said to me 'Good things do happen', and you know what? I believe you, and I think that's you -- I couldn't remember most things happening between seventeen and twenty-nine, but I remember every single moment from this past year -- you were the best thing happened to me in my whole life, did I ever tell you that? And I think -- I hope -- I could just have that a little longer. Cas, you hear me?"
+> "Cas," Dean's lips quivered. He could barely hear his own words. He was getting teary. Desperate. He took a long breath in, trying vainly to steady himself. He tried again, "Cas, listen to me. I'm not mad at you, Hell, I'm more mad at myself most of the times. And I know I'm asking a lot, alright? I know. But I have to ask. You told me to have faith, and this is me having faith in you. You said to me 'Good things do happen', and you know what? I believe you, and I think that's you -- I couldn't remember most things happening between seventeen and twenty-nine, but I remember every single moment from this past year -- you were the best thing happened to me in my whole life, did I ever tell you that? And I think -- I hope -- I could just have that a little longer. Cas, you hear me? I need you. Please--"
 >
-> He waited for two more seconds, holding his breath, listening to any flutter in the air. And he heard nothing. The air was still. All he heard was the sound of his heart and hope breaking.
+> He waited for two more seconds, holding his breath, listening to any wing-flapping sound in the air. But he heard nothing. The air was still. All he heard was the sound of his heart breaking. The very last thread of hope shattered. This was all he got, and now, he got nothing.
 >
 > *So this is it.*
 >
@@ -299,7 +317,7 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > He opened his eyes again, and the basin full of burgers and beers was the first thing came into view.
 >
-> He sighed, long and defeated. *What the Hell. He's gonna die any time anyway. Might as well go with the swing.*
+> He sighed, long and defeated. *What the Hell. He's gonna die any time now anyway. Might as well go with the swing.*
 >
 > Dean reached out to grab a paper-wrapped burger, ready to take a bite.
 >
@@ -309,21 +327,25 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > Dean was panicked for a second. He was pinned motionless; the hands holding him in place were strong; the look on the angel's face was murderous. For a split second, Dean almost thought Cas was out of his mind and was gonna kill him right then and there. He tried to struggle under Castiel's hold, but then, their eyes locked. One look, and he calmed down.
 >
+> Those eyes. So desperate, and unbelievably wide. And deep. And blue.
+>
 > Cas's eyes were vigilant and steady, not blinking when he stared into Dean's eyes, all the way boring into his soul.
 >
 > Dean didn't need words to hear him. Cas's eyes were saying, *Are you ready? Do you trust me? This is me choosing you against Heaven. We're going to die. And I'm ready to die for you. Is this what you want?*
 >
 > One look, and Dean's heart ceased to beat, but then he nodded. Soundless, but certain, he nodded. *I trust you.* He answered with his eyes and thoughts. *I trust you with my life and my brother's. I'm ready. Do it.*
 >
-> Cas released him, and Dean staggered two steps away from the wall. Cas started drawing back his trench coat sleeve, cutting his own arm with the knife. The cut was so deep that it might drain half the blood in his body within minutes; blood gurgling out from the gash, and Cas didn't pay any attention, pressing his fingers right in. He started drawing a huge angel banishing sigil on the closest wall. Dean watched him dipping two-knuckle deep into the cut to draw the sigil, wincing at the empathetic pain of knowing how much it must hurt to a human body. Blood streamed down to the floor, pooling rapidly into a puddle, and Cas didn't give a damn.
+> Cas released him, and Dean staggered two steps away from the wall quietly. Cas started drawing back his trench coat sleeve, cutting his own arm with the knife. The cut was so deep that it might drain half the blood in his body within minutes; blood gurgling out from the gash, and Cas didn't pay any attention, digging his fingers right in. He started drawing a huge angel banishing sigil on the closest wall. Dean watched him dipping two-knuckle deep into the cut to draw the sigil, wincing at the empathetic pain of knowing how much it must hurt to a human body. Blood streamed down to the floor, pooling rapidly into a puddle, but Cas didn't give a damn.
 >
 > Dean swallowed and licked his lips. *The end is right here*, Dean thought to himself, *they do this, they could all die tonight, and this might be the last time they see each other.*
 >
-> Dean drew his gaze all the way over Castiel, head to toe, top to bottom, from the crinkles between his eyebrows to the curve of his lips. He branded the image of the angel into his brain to remember at the moment of his inevitable, coming death.
+> Dean drew his gaze all the way over Castiel, head to toe, top to bottom, from the crinkles between his eyebrows to the curve of his lips. He branded the image of the angel into his brain to remember at the moment of his inevitable, coming death -- one that he was so certain would fall on him, or them both.
 >
-> *Thank you.* Dean thought, sending it through the prayer.
+> *Thank you.* Dean thought, sending it through the prayer. He meant it.
 >
-> That was before Zachariah barged into the Beautiful Room.
+> Cas didn't slow his move, but Dean knew he heard him.
+>
+> That was before Zachariah barged into the Beautiful Room and the end officially began.
 
 <p style="text-align:right">-- <i>"Supernatural: Lucifer Rising"</i> (2009) by Carver Edlund</p>
 
@@ -333,7 +355,7 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > He thumped the sink.
 >
-> The angel didn't seem to realize the problem, merely frowned slightly at his reflection, and answered with his patented greeting, flatly with his deep voice: "Hello, Dean."
+> The angel didn't seem to realize the problem, merely frowned slightly at his reflection, and answered with his patented greeting, flat with his deep voice: "Hello, Dean."
 >
 > Dean pivoted from the place by the sink where he was cleaning the bloodstains on his favorite green jacket with a damped washcloth. And there he was, Cas -- the miraculously resurrected angel of Thursday, living for eons and not understanding a thing of delicate human social rules -- standing less than half a foot away from him. His lips less than three inches.
 >
@@ -343,11 +365,11 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > Dean had to use all his brain power to tear his eyes away. He spoke, but the words coming out in a whisper as if he was incapable of talking any louder when the angel stood this close to him, afraid to disturb the air between them, between their lips specifically. "Cas, we've talked about this. Personal space?"
 >
-> Cas narrowed his eyes in confusion for a split second, eyes searching on the human's face. *What an annoying race with all the complicating rules.* But walking the Earth for little over a year, he did learn to pick up a thing or two on human emotions and facial expressions. And right now, he read "uneasy" on Dean's face, which was usually one step away from anger.
+> Cas narrowed his eyes in confusion for a split second, eyes searching the human's face. *What an annoying race with all the complicating rules.* But walking the Earth for little over a year, he did learn to pick up a thing or two on human emotions and facial expressions. And right now, he read "uneasy" on Dean's face, which was usually one step away from anger.
 >
 > Cas took a step back quickly. "My apologies." He lowered his eyes, a habit of showing obedience after taking orders.
 >
-> Dean threw him a quick glance, grabbed his jacket, and walked past the angel toward the bed, putting slightly more distance between them to hide the flutter in his lower stomach. "How did you find me? I thought I was flying below the angel radar." He gestured at his ribs to illustrate the point. He wouldn't ever forget the hilariously startled and confused looks on the faces of x-ray technicians and then the doctors. He'd find it humorous too if he wasn't the one being carved. *Just how much imprints do Castiel have to leave on him? First with the handprint on his shoulder, then the rib carving. That's a possessive son of a bitch.* He found himself thinking, then hastily amending, *Not like he owned him.* But that one, that particular thread of thought somewhat took a nosedive from unsettling to unbelievably erotic within merely a second. He swallowed the thought down.
+> Dean threw him a quick glance, grabbed his jacket, and walked past the angel toward the bed, putting slightly more distance between them to hide the flutter in his lower stomach. "How did you find me? I thought I was flying below the angel radar." He gestured at his ribs to emphasize the point. He wouldn't ever forget the hilariously startled and confused looks on the faces of x-ray technicians and doctors. He'd find it humorous too if he wasn't the one being carved. *Just how much imprints do Castiel have to leave on him? First with the handprint on his shoulder, then the rib carving. That's a possessive son of a bitch.* He found himself thinking, then hastily amending, *Not like he owned him.* But that one, that particular thread of thought somewhat took a nosedive from unsettling to unbelievably erotic within merely a second. He swallowed the thought down.
 >
 > "You are." Cas broke him out of his thoughts, and confirmed his point. Though it didn't make much difference. "Bobby told me where you were."
 >
@@ -359,31 +381,37 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > *Oh yeah, the angel just knows how to make a casual conversation with an quote-unquote easy topic.*
 >
-> Dean really, really didn't want to have that discussion at this moment. He took a minute before answering, as nonchalantly as he could manage, stretching out the minute by moving some items out of his duffel bag to put some other things in, pretending to be packing. "Me and Sam are taking separate vacations for a while." He put on his jacket as if it was a layer of armor he could protect himself with. Cas observed him quietly from two steps away, not commenting.
+> Dean really, really didn't want to have that discussion at this moment. He took a minute before answering, as nonchalantly as he could manage, stretching out the minute by moving some items out of his duffel bag to put some other things in, following the muscle memory of packing his bags. "Me and Sam are taking separate vacations for a while." He put on his jacket as if it was a layer of armor he could protect himself with. Cas observed him quietly from two steps away, not commenting.
 >
-> "So." Dean pressed, eager to switch the topic. He sorted out the collar of the newly put-on jacket, turning to the angel, putting on a sharp, annoyed look as easy as putting on the jacket. "Did you find God yet? More importantly, can I have my damn necklace back, please?"
+> "So." Dean pressed, eager to switch the topic. He sorted out the collar of the newly put-on jacket, turning to the angel, putting on a sharp, annoyed look as quickly as putting on the jacket. "Did you find God yet? More importantly, can I have my damn necklace back, please?"
 >
-> He almost felt compelled to let Cas know how that necklace never left him ever since twelve when he put it on for the first time. He didn't know what get the better of him to agree giving Cas that amulet, maybe that was the tone Cas told him "I lost everything for you, for nothing," or the fierce but broken look in his eyes. He just couldn't refuse at that time. And now it was almost like his brain and his body were all itching to have it back at the first chance. He was not lying when he told Cas he felt naked without that, and it was all the angel's fault.
+> He really was just looking for something to talk, but now he almost felt compelled to let the angel know how that necklace never left him ever since twelve when he put it on for the first time. He didn't know what get the better of him to agree giving Cas that amulet, maybe that was the tone Cas told him "I lost everything for you, for nothing," or the fierce but broken look in his eyes. He just couldn't refuse at that time. And now it was almost like his brain and his body were all itching to have it back at the first chance. He was not lying when he told Cas he felt naked without that, and it was all the angel's fault.
 >
 > "No, I haven't found him." Cas answered matter-of-factly, tilting his chin mildly, meeting his eyes straight. "That's why I'm here. I need your help."
 >
 > Dean busied himself with rolling his sleeves up so he wouldn't need to return the looks he knew Castiel was throwing at him. "With what? God hunt?" he murmured, semi-amused at the idea. "Not interested." It was easier to say no when he didn't have to meet Cas in the eyes, he learned his lesson by now.
 >
-> The rejection made Cas turn his head away, staring at the disorganized interior of the motel room. "It's not God. It's someone else." Worry started growing inside him. *He needed Dean*, the angel thought, despite his pride. But the human didn't seem to realize how big of a deal this was. Dean didn't change a bit since last year regarding how annoying he could get to, even if he might eventually agree on something, it would never be an easy persuasion.
+> The rejection made Cas turn his head away, staring at the disorganized interior of the motel room. "It's not God. It's someone else." Worry started growing inside him. *He needed Dean*, the angel realized, despite his pride. But the human didn't seem to realize how big of a deal this was, just like he wasn't aware the significance when he confessed he had doubts. Dean didn't change a bit since last year regarding how annoying and oblivious he could be, even if he might eventually agree on something, it would never be an easy persuasion.
+>
+> *Or, maybe it's just me.* Castiel thought. *I'm just an expendable and replaceable angel after all. And a fallen one now. That would explain why he and Heaven and the whole world never paid much attention whether I live or die or need anything. Which makes the case very sarcastic considering some higher force -- most likely God -- just seemed to put into some extra effort to bring me back. It had to mean something, right? I had to do something, make some meaning, with my life? Or was this all a mistake and I was just not supposed to live?*
 >
 > Cas's tone made Dean look up, fixing him with a more serious look. He paused a beat, knowing he'd regret asking but it was also so obvious Cas was in knee-deep trouble and truly, honestly, needed his help. Dean asked, "Who?"
 >
-> "It's an Archangel," Cas told him, getting increasingly more worried as he spoke, taking steps to shorten the three steps' distance between them until he stood right before Dean again, forgetting all about the personal space thing. "The one who killed me." Dean didn't know the exact details of his death, the moment when the Archangel's light fell onto him, the moment he stood in the prophet's house facing that dawning light, knowing without doubt that he'd be annihilated without a flesh from his vessel or a thread of light from his Grace left. It was so instant that there was no pain or fear. There was no goodbye, as well. His mind was on Dean at that moment, knowing he was doing the right thing, that they were saving the world, together and off-script; knowing he had seen Dean's face for the last time, and that there was no way he'd survive that, and he knew before he made the move. He felt free at that very moment before his death, and a little fluttering joy in his heart, because of Dean. He would never tell Dean any of it, of course. He never expected he'd come back seeing Dean again, and even as an angel, there were no precedential example to learn what he should do or feel after that, let alone how to handle that feeling or that human after that. So Cas just learned from what he saw from Dean, boxed everything and buried them deep down.
+> "It's an Archangel," Cas told him, getting increasingly more worried as he spoke, taking steps to shorten the three steps' distance between them until he stood right before Dean again, forgetting all about the personal space thing. "The one who killed me."
 >
-> Dean watched him intently from six inches away, arching his eyebrows. "Excuse me?" People don't usually talk about their killers so lightly -- well, *people* don't usually come back after they were killed and then talking about the ones killed them with a flat tone and a minor frown. They still didn't know how Cas came back -- not that Dean complained about that particular miracle though, he just wondered who they should send a card and flower bouquet to.
+> Dean blinked.
 >
-> The muscle on Cas's cheekbone twitched with a ghost of emotion -- not hatred, exactly, more like a mild disaffection and displeasure.  "His name is Raphael," he told Dean.
+> Cas knew Dean didn't know the exact details of his death -- and he didn't intend to tell him. There was no need to bother him with details like that moment when the Archangel's light fell onto him, the moment he stood in the prophet's house facing that dawning light, knowing without doubt that he'd be annihilated without a cell from his vessel or a thread of light from his Grace left. It was so instant that there was no pain or fear. There was no goodbye, as well. His mind was on Dean at that moment, knowing he was doing the right thing, that they were saving the world, together and off-script; knowing he had seen Dean's face for the last time, and that there was no way he'd survive this, and he knew it before he made the move in the Green Room. He felt free at that very moment before his death, and a little fluttering joy in his heart, because of Dean. There were feelings he felt only for the first time, only before his death, only when his mind was lingering on Dean -- he didn't have time to really feel them or understand them before the death arrived. And he never could find them exactly the same again after he came back. He would never tell Dean any of it, of course. He never expected he'd come back and see Dean again, after all. And even as an angel, there were no precedential example to learn what he should do or feel after a resurrection, or after a fall, or how to handle or even just to explain those unnamed feelings and tightness and joy and sadness inside his chest when he met the human again, and knew they both survived. There was just no rule or order or tutor to learn about what to do, so Cas just learned from what he saw in Dean -- not talking about any of that. *Better not talking about it,* is practically the second highest unsaid rule on Winchester's books, so Cas was doing exactly that, burying everything deep, deep down.
+>
+> Dean watched him intently from six inches away, arching his eyebrows. "Excuse me?" People don't usually talk about their killers so lightly -- well, *people* don't usually come back after they were killed and then talking about the ones killed them with a flat tone and a minor frown. They still didn't know how Cas came back -- not that Dean complained about that particular miracle though, he just wondered who they should send a card and flower bouquet to. He was thrilled to see Cas back, really, but he figured the angel might not be interested in his very human and very unimportant opinion and thoughts, so he didn't really say a thing.
+>
+> The muscle on Cas's cheekbone twitched with a ghost of emotion -- not hatred, exactly, more like a mild disaffection and displeasure. "His name is Raphael," he told Dean.
 >
 > Dean raised his amused eyebrows higher and lowered his voice, stifling a muted laugh, "You were wasted by a teenage mutant ninja angel?"
 >
-> It must be one of Dean's usual culture reference that Castiel didn't have the patience to indulge or even just humor him with a look of confusion -- he knew how much Dean just enjoyed watching him tilt his head in confusion whenever he thought he came up with something clever and knew Cas wouldn't understand. For whatever reason, it seemed to give Dean some sense of joy or satisfaction. But today wasn't one of these days, the matter was too urgent, so Cas didn't indulge him today. Instead, he cut right back to the tricky problem by hand. "I've heard whispers that he's walking the earth. This is a rare opportunity."
+> It must be one of Dean's usual culture reference that Castiel didn't have the patience to indulge or even just humor him with a look of confusion -- he knew how much Dean just enjoyed watching him tilt his head in confusion whenever Dean thought he came up with something clever and knew he wouldn't understand. For whatever reason, it seemed to give Dean some sense of joy or satisfaction. But today wasn't one of these days, the matter was too urgent, so Cas didn't indulge him today. Instead, he cut right back to the tricky problem by hand. "I've heard whispers that he's walking the earth. This is a rare opportunity."
 >
-> Dean regarded him carefully. "For what? Revenge?"
+> Dean regarded him carefully, schooling his expression. "For what? Revenge?"
 >
 > "Information," the angel corrected him flatly.
 >
@@ -395,7 +423,7 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > Cas panned out the plan, "because we are gonna trap him and interrogate him."
 >
-> Dean paused on the work in his hand that was halfway cleaning his knife, and turned back at him. "You're serious about this." The light joking tone vanished from his voice.
+> Dean's fingers paused half-way cleaning his knife. He turned back to him. "You're serious about this." The light joking tone vanished from his voice.
 >
 > Castiel turned around to face him, his face dead serious. His eyes were as steady and... deadly (which was just another term for suicidal in his case, in Dean's mind) as the day he pushed Dean to the wall of the Beautiful Room before cutting his arm open for the sigil. And Dean recognized it with a shiver through his spine.
 >
@@ -405,11 +433,11 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > That day, he could have died -- he should have; Sam could have died; and Cas actually died, before all of them were magically brought back to life. He nodded at that time, telling Cas (without himself really knowing what he's asking, or rather, he did, but he didn't want to think about it too hard): *Go, die for me.* And this unbelievable angel did.
 >
-> Dean forced his feet to move toward Cas, standing before him, frowning with disbelief. *Is today a replay of that again?* His mind asked. *Are they going to die for some big bullshit cause again?* And he didn't have to ask to know the answer. It was the same look, same whirling shadow in his dark eyes, same almost suicidal determination. Cas's blue eyes were so dark and harsh that they were almost black now, and the lines on his face were tightened. His lips thinned to a line.
+> Dean forced his feet to move toward Cas, standing before him, frowning with disbelief. *Is today a replay of that again?* His mind asked. *Are they going to die for some big bullshit cause again?* And he didn't have to ask to know the answer. It was the same look, the same whirling shadow in his deep eyes, the same suicidal, sacrificial determination. Cas's blue eyes were so dark and harsh that they were almost black now, and the lines on his face were tightened. His lips thinned to a line.
 >
-> *Why is he just always so eager to die for any cause he determined?* Dean thought, and the realization almost made him want to laugh at the sarcasm. *Why is he so extremely like him, like the Winchesters?*
+> *Why is he just always so eager to die for any cause he determined?* Dean thought, and the realization almost made him want to laugh at the sarcasm. *Why is he so extremely like them, like the Winchesters?*
 >
-> Dean's eyes flickered across his face, treading through his eyes to his lips, and he had to force out a laugh to release the weight on his chest before he was able to speak again. Dean heard himself saying, "So what, I'm Thelma and you're Louise, and we're just gonna hold hands and sail off this cliff together?" His mind decidedly *not* wandered to the fact that *Thelma and Louise*, if anything, was probably *the* most classic road movie with same-gender characters that were most definitely *not* having romantic feelings with one another. It was just a story with two people dying together at the end of a long and fucked trip -- exactly what they were, weren't they?
+> Dean's eyes flickered across his face, searching his look, treading through his eyes to his lips, and he had to force out a laugh to release the weight on his chest before he was able to speak again. Dean heard himself saying, "So what, I'm Thelma and you're Louise, and we're just gonna hold hands and sail off this cliff together?" His mind decidedly *not* wandered to the fact that *Thelma and Louise*, if anything, was probably *the* most classic road movie with same-gender characters that were most definitely *not* having romantic feelings with one another. It was just a story with two people dying together at the end of a long and fucked trip -- exactly what they were, weren't they?
 >
 > Cas just stared at him, frowning in aching confusion. Dean didn't know what he was waiting for exactly.
 >
@@ -419,11 +447,11 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > Dean was stiff for a second halfway putting the rest of his gears into his duffel bag. He looked at Cas, a flash of hurt flickering through his eyes. "Oh, so I'm your bullet shield," Dean managed, trying hard not to let disappointment seep through his forced smirking voice, but his eyes were already glistening without permission. He really didn't know what he was expecting to hear from Cas -- that *he needed him? It wasn't like a freakin' angel would really need* him *for anything, was it? He was just happened to be Michael's vessel, so fucking handy and useful.*
 >
-> He decidedly tried to look away, to move away from the angel, to push down the bubbling pressure that was rising rapidly in his chest, and that was when he sensed from the periphery of his eyes that Cas took the last step's distance he placed between them and forced him to look at him in the eyes, talking right into his face, slowly, quietly, one word at a time, "I need *your* help, because *you* are the only one who'll help me."
+> He decidedly tried to look away, to move away from the angel, to push down the bubbling pressure that was rising rapidly in his chest, and that was when he sensed from the periphery of his eyes that Cas took the last step's distance he placed between them and forced him to look at him in the eyes, talking right into his face, slowly, quietly, one word at a time, "I need *your* help, because *you* are the only one who will help me."
 >
 > The darkened eyes were so blue again when they looked into Dean's. The eyes that could express all the human language without saying a word was giving the same irresistible power, saying its own speech: *I have no one now, Dean.* His eyes were visibly pleading, *I lost everything for you. I couldn't go back to Heaven. I was hunted. I would be killed again. I need your help, because you are the only one I have. Without your help, I will lose, and I will die again. Please.*
 >
-> The angel's eyes were the sharpest blade made of broken glass, the color of glacier at the fringe of an avalanche, the shade of ocean in the eve of a storm. They were bright and dark, they were desperate and hopeful, they were bleeding and hurt, so pained and broken, yet they bored into his soul like sprouts and vines growing from the dark and reaching desperate to a hint of sunshine through a crack. Cas looked at him, as if *he*, a mere human with no power and a broken, traumatized past, was the sunshine, was the sole hope and faith of *an angel*. Dean found himself petrified by those eyes, captured by the depth and emotions in them. He was breathless under the stare. He would do anything for him just so the bleeding pain in those eyes could stop breaking his heart.
+> The angel's eyes were the sharpest blade made of broken glass, the color of glacier at the fringe of an avalanche, the shade of ocean in the eve of a storm. They were bright and dark, they were desperate and hopeful, they were bleeding and hurt, so pained and broken, yet they bored into his soul like sprouts and vines growing from the dark and reaching desperately to a hint of sunshine through a crack. Cas looked at him, as if *he*, a mere human with no power but only a broken, traumatized past, was the sunshine, was the sole hope and faith of *an angel*. Dean found himself petrified by those eyes, captured by the depth and emotions in them. He was breathless under the stare. He would do anything for him just so the bleeding pain in those eyes could stop breaking his heart.
 >
 > "Please," Cas finished, voice heavier than any time before.
 >
@@ -433,7 +461,11 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > Cas nodded appreciatively in relief, his stressed shoulders relaxed the tiniest. His eyes conveyed a quiet "Thank you" without his lips moving an inch. The curve did pull up a degree.
 >
-> Dean smiled fleetingly.
+> Dean smiled fleetingly. He wished he didn't just make the wrong choice to lead both of them back into some death trap, or make the angel a little bit more broken again.
+>
+> *I don't want him to get hurt again,* Dean had to tell himself. And going with Cas, by dutifully taking up his damned role as the freakin' archangel's vessel that he didn't want anything to do about, taking its only perk to become Cas's bullet shield, *protecting* Cas for once -- this, seemed to be the only right thing to do. *Just, being a weapon, like he always was, and always will be. And nothing more.*
+>
+> The smile was long gone by the time they headed out.
 
 <p style="text-align:right">-- <i>"Supernatural: Free to Be You and Me"</i> (2009) by Carver Edlund</p>
 
