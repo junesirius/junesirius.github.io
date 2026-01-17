@@ -231,7 +231,7 @@ Dean's reaction after knowing Cas is possessed by Lucifer and they blew Lucifer 
 
 <br>
 
-S11E17 Dean's focused on researching to save Cas before Sam drags him out to hunt:
+S11E17 Dean focuses on researching to save Cas before Sam drags him out to hunt:
 
 > We open on the Bunker. A quiet, late-morning vibe-- a far cry from the chaos in the cabin. Sam's stretched out on a couple chairs, researching on his laptop. Dean's upright, researching at a table, reading old books.
 >
@@ -297,7 +297,7 @@ S11E17 Dean's focused on researching to save Cas before Sam drags him out to hun
 
 Love the "This is PERSONAL for him" in the script, and the script specifically underlines "Lucifer" as a bigger fish problem for Dean, while Amara is in the same sentence. It's a bigger problem only because it has Cas involved and endangered. And it becomes personal and emotional and Dean just can't think about anything else.
 
-Also love the "punishing himself with fruitless research", Dean Winchester can turn anything as a sort of self-punishment. He's growing anger, but right now no one to be his outlet, so he's turning those anger inward, punishing himself, killing himself.
+Also love the "punishing himself with fruitless research", Dean Winchester can turn anything into a sort of self-punishment. He's growing anger, but right now no one to be his outlet, so he's turning that anger inward, punishing himself, killing himself.
 
 (S11E17 is a really crazy one by the way, especially right after S11E16 in the "place without time and space" Dean just saw Bobby and a vision of Sam's dead body, and here he has to see and believe Sam's dead again, and immediately goes to kill himself to deal with Billie, which, by the way, Sam doesn't know what he did even after the ending of the episode, neither does Cas. So this is a rare close-call *and* a suicide that no one really knows about except for Dean and Billie.)
 
@@ -305,7 +305,7 @@ Funny thing is Billie says "I never took you for the suicide type. Doesn't fit y
 
 <br>
 
-S11E18, the scene that's been discussed all the time that Dean is very insistent to exorcise Lucifer from Cas before letting Lucifer fight against Amara:
+S11E18, the scene that's been discussed all the time that Dean is very insistent on exorcising Lucifer from Cas before letting Lucifer fight against Amara:
 
 > (Boys are arguing with Crowley)
 >
@@ -347,7 +347,7 @@ Cas is Dean's heart choice. Not my words, Sam's.
 >
 > Dean: Well, not all the news is bad. If it works, Lucifer goes back where he belongs. **We get Cas back.** And Amara... Well, we have to figure it out.
 
-If exorcising Lucifer works, Amara is still there, they still have no way of saving the world, they'd just be in the same square one as the beginning of the season, but to Dean, that's already "not all the news is bad". He'd get Cas back, and that's all the good news he really needs and cares about. Amara and the world and such, they're forever his secondary priority.
+If exorcising Lucifer works, Amara'd still be there, they'd still have no way of saving the world, they'd just be in the same square one as the beginning of the season, but to Dean, that's already "not all the news is bad". He'd get Cas back, and that's all the good news he really needs and cares about. Amara and the world and such, they're forever his secondary priority.
 
 > Amara's eyes are fixed on Casifer, who shrinks back, trying to get to his feet, stumbling, weak.
 >
@@ -399,9 +399,9 @@ Always a big pile of empty alcohol when they're distressed.
 
 Always say they'll let one another make their own choices but the determination is still to bring him home. Of course they'll have to bring Cas home, Cas is family.
 
-If feels like Sam is always very careful around Dean this season, and every time Cas is in trouble and Dean's tamper and worry is on edge, there's always a lot of "Sam watches Dean carefully". Like a kid observing his parents carefully to evaluate what's the safest thing to say.
+If feels like Sam is always very careful around Dean this season, and every time Cas is in trouble and Dean's temper and worry are on edge, there's always a lot of "Sam watches Dean carefully". Like a kid observing his parents carefully to evaluate what's the safest thing to say.
 
-(off-topic, but that reminds me to think, Dean never sees Sam a grown man, not really, like a mother always sees her child as a baby, in Dean's eyes, Sam is probably always a kid too, that's why he's always so protective and possessive, over-controlling, which is, intolerable from Sam's POV, but quite understandable given how they grow up. But the question is, does Sam ever really see Dean as an equal brother, or he's also seeing Dean like looking up a parent who raised him up? Their position is never really equal and never will be. And if Sam's observing and watching Dean carefully to evaluate the situation, to decide how he positions himself, it really goes back to respond and suffice Dean's need to be a protector. Their roles are just tragically not growing out of their childhood model, which is utterly the root cause of the majority of their relationship catastrophe.)
+(off-topic, but that reminds me to think, Dean never sees Sam a grown man, not really, like a mother always sees her child as a baby, in Dean's eyes, Sam is probably always a kid too, that's why he's always so protective and possessive, over-controlling, which is, intolerable from Sam's POV, but quite understandable given how they grow up. But the question is, does Sam ever really see Dean as an equal brother, or he's also seeing Dean like looking up to a parent who raised him? Their position is never really equal and never will be. And if Sam's observing and watching Dean carefully to evaluate the situation, to decide how he positions himself, it really goes back to respond and suffice Dean's need to be a protector. Their roles are just tragically not growing out of their childhood model, which is utterly the root cause of the majority of their relationship catastrophes.)
 
 <br>
 
@@ -433,7 +433,7 @@ S11E20: Dean never forgets it's Cas when everyone only sees Lucifer:
 >
 > Dean nods. Works for him. He takes the shirt off the ironing board, tosses it to Sam, and they're off.
 
-Finally Sam knows what's the right thing to say that Dean would agree on.
+Finally Sam knows what the right thing is to say that Dean would agree on.
 
 > Sam and Dean sidebar by Baby, catching up.
 >
@@ -453,7 +453,7 @@ Finally Sam knows what's the right thing to say that Dean would agree on.
 >
 > Dean climbs into the car. Off Sam, worried, too...
 
-It almost sounds like prophetical now, Dean's dark hunch about Cas dying or dead, "It there's anything left to find". Deeply deeply worried and scared every single day. But it isn't this year, it's what's coming for him in four years...
+It almost sounds like prophetic now, Dean's dark hunch about Cas dying or dead, "If there's anything left to find". Deeply deeply worried and scared every single day. But it isn't this year, it's what's coming for him in four years...
 
 <br>
 
