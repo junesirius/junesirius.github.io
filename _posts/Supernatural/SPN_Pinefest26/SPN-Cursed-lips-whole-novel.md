@@ -473,13 +473,13 @@ And soon, when he starts the fourth series among all eight that he received, his
 
 > Castiel's expression had been murderous ever since they found out what plan Dean had in his mind, ever since he dumped them and ran away outside Blue Earth, Minnesota.
 >
-> Sam was the one figured out his farewell trip, and Cas was the one zapped him back to Bobby's place. The taped paper box with his farewell letter left forgotten in Cicero, Indiana, so was Baby. But they didn't have time to worry about that.
+> Sam was the one figured out his farewell trip, and Cas was the one zapped him back to Bobby's place. The taped paper box with his farewell letter left forgotten in Cicero, Indiana, so was Baby. But they didn't have time to worry about that. Not now.
 >
-> Everyone in the house glared at Dean like *he* was the Devil that was about to destroy the world. Dean tried to force a pretended lightness by some half-hearted jokes, but they did zero help saving him from the glares.
+> Everyone in the house glared at Dean like *he* was the Devil that was about to destroy the world. Dean tried to force a pretended lightness by some half-hearted jokes, but they did zero help saving him from the glares and glowers.
 >
 > He whined loudly when they threw him into Bobby's panic room, the very place he locked Sam up for his demon blood detox. *Guess you never know whose turn it was.*
 >
-> Dean was pacing in the tiny space when the metal door clanked open, Sam standing at the door, looking utterly pissed. And Cas stood three steps away outside the door, glaring at Dean like his eyes could literally burst into flames with divine wrath, torching him alive.
+> Dean was pacing in the tiny space when the metal door clanked open again, Sam standing at the door, looking utterly pissed. And Cas stood three steps away outside the door, glaring at Dean like his eyes could literally burst into flames with divine wrath, torching him alive.
 >
 > Dean never saw him like that before -- the look in Castiel's eyes were intense enough to prickle the hairs on his neck, but somehow, he was feeling bold to poke the bear. *He was gonna die sooner or later anyway, how bad it could be to upset Cas more than he already did?* He poked Bobby ten minutes ago, knowing full well how hurt his words could be, and Sam could just be the next. It became his life's goal to irritate everyone enough to make them hate him enough to not care when he died. *Sounds like a plan, right?*
 >
@@ -491,53 +491,61 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > The looks in Cas's eyes were a combination of ultimate fury and hurt. Dean wondered if the second part was just his hallucination.
 >
-> Even from ten steps away, Dean could see all the muscles on Castiel's body tightened, he was like a predator at the exact moment before swooping down on his pray. His fists clenched and flexed, itching to punch and kill. Dean knew, right then and there, Cas would tear anything down to pieces if he wasn't trying so desperately to hold himself back, not doing them any physical harm -- and more importantly, that target would have been him, if he wasn't already locked in a cage. For a brief moment, he found himself wondering if this lockdown was actually doing him a favor.
+> Even from ten steps away, Dean could see all the muscles on Castiel's body tightened, he was like a predator at the exact moment before swooping down on his pray, but also, somehow, like a homeless wet puppy in a rainy day getting kicked in the belly. The angel's fists clenched and flexed, itching to punch and kill. Dean knew, right then and there, Cas would tear anything down to pieces if he wasn't trying so desperately to hold himself back, not doing them any physical harm -- and more importantly, that target would have been him, if he wasn't already locked in a cage. For a brief moment, he found himself wondering if this lockdown was actually doing him a favor.
 >
 > He watched the lines and furrow on Cas's face crimpled in desperation and frustration as the moment between them stretched on. He wondered if all of that came from that single flirtatious joke that he found just too easy to let out. He was acting as a world-class asshole today anyway, might as well put on the act till the end, shooting everyone right to the heart with everything he knew would sting the most. The angel rolled his eyes fiercely when he choked him with a vicious "Blow me, Cas" just earlier. Dean wondered if it was taken literally back then -- not that he'd complain if it was, if that being his last fun moment before lights out.
 >
-> Dean blinked to himself at this new realization, half amused -- he'd probably be full-on stressed out if the situation was any different and if he could spare any more reasonable thoughts for the angel and feelings and everything else outside of his suicidal plan. But right now, somehow, he didn't feel too bad. *What's the saying? Death could feel like freedom? Yeah, this might be it.*
+> Dean blinked to himself at this new realization, half amused -- he'd probably be full-on stressed out if the situation was any different and if he could spare any more reasonable thoughts for the angel and his turbulent feelings and everything else outside his suicidal plan. But right now, somehow, he didn't feel too bad. *What's the saying? Death could feel like freedom? Yeah, this might be it.*
 >
 > <br>
 >
-> Castiel glared at the unbelievable human in the panic room without getting any closer to him within ten steps range, afraid he might get too furious that his grace might accidentally burst into flame and burn his eyes out. If he wasn't trying his best to control that anger burning in his chest, it might actually happen.
+> Castiel glared at the unbelievable human in the panic room without getting any closer to him than ten steps' range, afraid he might get too furious that his grace might accidentally burst into flame and burn his eyes out. If he wasn't trying his best to control that anger burning in his chest, it might actually happen.
 >
-> Dean had never lowered their shared moments and bond to anything as meaningless and purely physical as he was doing now. They were almost like having a silent, unspeakable agreement on whatever it was between them, and now Dean was breaking it. Castiel found the flame of fury burn so much worse in this body of his that he forgot how to breathe. Air caught short in his chest, and he had to remember to breathe violently to ease the tight sensation there. The aching around where his vessel's heart beat felt very physical and real.
+> Dean had never lowered their shared moments and bond to anything as meaningless and purely physical as he was doing now. They were almost like having a silent, unspeakable agreement on whatever it was between them -- as little as Castiel knew about human interaction and all the nuance in their expressions, even less when it came to Dean, but *this*, this unsaid silent agreement between them when he stared into Dean's soul and the human stared back into his vessel as if he could actually really see the real him, the real angel Castiel residing inside this vessel. This felt like something different, something special and meaningful, because, even though Dean didn't know it, they had a profound bond just from the Hell rescue mission after all -- and now Dean was breaking it, cheapening it, throwing it to the ground and stomping on it. Castiel found the flame of fury burn so much worse in this body of his that he forgot how to breathe. Air caught short in his vessel's chest, and he had to remember to breathe violently to ease the tight sensation there. The aching around where his vessel's heart was beating felt very physical and real. For once, he felt as if this vessel was really his own body, and breathing hurt as if he was a flesh-and-bone human -- maybe it had something to do with his reducing grace as well. He felt pained and weak and hurt like never before -- and it made him even angrier, both at himself and at Dean.
 >
-> It wasn't his first time to witness the suicidal side of Dean, but this time it seemed to have gone far worse than any other times, Castiel observed, forcing his head to work around the fact that Dean might deliberately try to infuriate him. He was even more frustrated to find that it was working. He didn't even understand how or why, just a sense of betrayal, a sense of hurt, like something is quietly breaking apart inside him. And as an angel, he really, really shouldn't be feeling these.
+> It wasn't his first time witnessing the suicidal side of Dean, but this time it seemed to have gone far worse than any other times, Castiel observed, forcing his head to work around the fact that Dean might deliberately try to infuriate him. He was even more frustrated to find that it was working. He didn't even understand how or why, just a sense of betrayal, a sense of hurt, like something is quietly breaking apart inside him. And as an angel -- even a fallen one -- he really, really shouldn't be feeling these.
+>
+> He felt more human than he ever was, even more than the moment he was cast out from Heaven, more than when he felt his power escaping him and not growing back. He felt vulnerable and bare, just from that single one comment of Dean's -- and he felt confused how was that even possible.
 >
 > Sam was the one giving him an out, telling him to check on Adam instead.
 >
-> Castiel gave Dean one more glare of death before slamming the door closed and storming upstairs. *Dean Winchester was the most unbelievable, unbearable, irritating human being in the world.*
+> Castiel was more than eager to leave this unbelievable human right this moment. He couldn't really hold himself back any longer before he burst out to do something far worse than he's ever done to him.
 >
-> And he tried his best not to think about why exactly everything was hurting so much -- that was a lesson he learned from the boys. *You don't think about things like "feelings", you ignore them. That's the only way one get to handle them WHILE handling a world-ending event like apocalypse.*
+> Castiel gave Dean one more glare of death before slamming the door closed with a flick of fingers and stormed upstairs. *Dean Winchester was the most unbelievable, unbearable, irritating human being in the whole world.*
 >
-> So Castiel tried to do exactly that.
+> He tried his best not to think about why exactly everything was hurting so much, then -- that was a lesson he learned from the Winchesters. *You don't think about things like "feelings", you ignore them. That's the only way one get to handle them WHILE handling a world-ending event like Apocalypse. They don't have either time or luxury to ponder their needs or what they want. Not when people are dying -- when* Dean *is dying.*
+>
+> So Castiel tried to do exactly that. Focus on the task. Focus on "more important" things.
 >
 > Though not very successfully.
 >
 > *The last person who looked at me like that... I got laid.*
 >
-> The angel had to tell himself, over and over, *This means nothing. Dean was just being... an assbutt.*
+> The angel had to tell himself, over and over, *This means nothing. Dean was just being... an assbutt. There was nothing between them, and he meant nothing to the humans anything other than a useful angelic tool, a hammer, a helper. So, stop thinking about it.*
+>
+> He swallowed down the bitterness, still couldn't quite convince himself. But he couldn't convince himself the other way either -- the way he thought they were, the way he *hoped* they were. So he just got more and more confused, and angry, and feeling his chest once again too tight and heavy to breathe.
 
-> Castiel couldn't help himself from coming back down to the stairs leading to the panic room moments later, after Sam had given up reasoning with his obstinate brother. Cas thought just maybe he could give it another try, or at the very least, checking on how Dean was doing.
+> Castiel couldn't help himself from coming back down to the stairs leading to the panic room about an hour later, after Sam had given up reasoning with his obstinate brother. Cas thought just maybe he could give it another try, or at the very least, checking on how Dean was doing.
 >
-> He heard something breaking as he treaded down the dark passageway.
+> He heard something breaking just as he treaded down the dark passageway.
 >
-> "Dean?" Cas's heart clenched. He accelerated his steps. An unsettling worry and fear for the worst grabbed his gut tightly.
+> It sounded like a broken vase, or a crashing furniture. Or a fallen body.
+>
+> "Dean?" Cas's heart clenched. He accelerated his steps. An unreasonably unsettling worry and fear for the worst grabbed his gut tightly.
 >
 > The place sounded awfully quiet when he reached the door.
 >
 > The view behind the thin slit of the barred peephole was even more perturbing. A tipped-over chair and a broken vase on the floor seemed to just prove all his worst nightmare.
 >
-> They were trying so hard to keep Dean alive, but if that stupid, stubborn human being really put his mind to it, there were still so many ways he could harm himself or even kill himself. A rope, a piece of broken glass, a hidden blade they didn't capture, name his pick.
+> They were trying so hard to keep Dean alive, but if that stupid, stubborn human being really put his mind to it, there were still so many ways he could harm himself or even kill himself. A rope, a piece of broken glass, a hidden blade they didn't find to take away, name his pick.
 >
-> *Please tell me you are this stupid. Please not that. Don't you dare...*
+> *Please tell me you aren't this stupid. Please not that. Don't you dare...*
 >
-> Castiel didn't realize his mind started praying, his hands not as stable as they normally were when he fumbled for the handle. They would have been trembling if he wasn't using his grace to force them steady enough to unlock the bars.
+> Castiel didn't realize his mind started praying, his hands not as stable as they normally were when he fumbled for the handle. They would have been trembling violently if he wasn't using his grace to force them steady enough to unlock the bars.
 >
 > "Dean!"
 >
-> His breath was caught and his heart pounded hard in a way he never knew it could, when he stepped in.
+> His breath was caught and his heart pounded hard in a way he never knew it could when he stepped in.
 >
 > The room looked utterly empty and messed up, just like he feared. Blood pounded through his veins so loudly that he could barely hear his own thoughts.
 >
@@ -559,7 +567,7 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > He was thrown ruthlessly into the dirt, bashing a muddy hole on the ground of some forest. The leaves had helped the eventual landing, but his body and grace both ached tremendously. His wings shivered behind him as he tried to push himself up from the earth. His shoulders were twisted in the wrong way, because he hit a rock, and his leg was bleeding.
 >
-> Cas staggered, and closed his eyes, forcing the already rapidly draining grace to spare a precious drop -- that he had been saving in case they had to go into a fight with angels or he needed to use it to heal Dean -- to repair the vessel and stop the distracting pain. His head buzzed with noise that was probably also a side effect of a very physical concussion as he tried to tune into angel radio.
+> Cas staggered, and closed his eyes, forcing the already rapidly draining grace to spare a precious drop -- that he had been saving in case they had to go into a fight with angels or he needed to use it to heal Dean -- to repair the vessel and stop the distracting pain. His head buzzed with noise that was probably also a side effect of a very physical concussion as he tried to tune into the angel radio.
 >
 > His body was still hurting, his head was still throbbing with dull pain, but he didn't have time for them. He already wasted a second or two to catch his breath from the crash, to drag himself up, to locate Dean from the sea of signals that he was picking up through the prayers and longings. He didn't know if he had taken too long, if Dean had already done something irreparably stupid. Fear and rage tightened his muscle and mind.
 >
@@ -569,9 +577,9 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > Fury flared inside Cas, making the pain in his wings so much easier to ignore.
 >
-> The prayer's voice echoed loudly in his head: "Dear God." *You're Dean Winchester, the one they told me about, the one chosen by our Father, our savior on Earth.*
+> The prayer's voice echoed loudly in his head as he tuned in: "Dear God." *You're Dean Winchester, the one they told me about, the one chosen by our Father, our savior on Earth.*
 >
-> Castiel flapped his wounded wings, flying through the ether that connected the land and filled in between the dimensions. He navigated through it like fish in the sea, or bird in the sky, as a better metaphor.
+> Castiel flapped his wounded wings, flying through the ether that connected the land and filled in between the dimensions. He navigated through it like fish in the sea -- or bird in the sky, as a better metaphor.
 >
 > "Our Father, who art in Heaven, hallowed be thy name --"
 >
@@ -583,29 +591,29 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > Castiel put the preacher to sleep just like he did to Bobby when he first met Dean. Dean barely had time to turn to him and gasp before he was snatched by the collar and steered into the dark back alley.
 >
-> Dean's steps stumbled by the angel's push. And he didn't even have time to protest when Cas shoved him to the dirty brick wall.
+> Dean's steps stumbled by the angel's push. And he didn't even have time to protest when Castiel shoved him to the dirty brick wall.
 >
 > Fury turned into rage, then frenzy, then frantic wrath. Cas's fist punched into Dean's cheek mercilessly, knocking him over. Blood streamed down from his broken nose in an instant.
 >
-> Dean groaned, choking out, "What, are you crazy?" But he was no match to an angel, let alone an outrageous one.
+> Dean groaned, choking out, "What, are you crazy?" But he was no match to an angel, let alone an outrageous one. He didn't even bother to block the hit -- not that would be of any help anyway.
 >
 > Castiel hauled him up by the collar, growling into his face. "I rebelled for this?! So that you could surrender to them?"
 >
-> The punches made his ears buzzing, and Dean smelled the blood. The image of Castiel's face flashed before his eyes so quickly that his mind was having trouble catching up with the words he was hearing. Only that Castiel was very, very pissed. So pissed that it looked like, without a doubt, Cas could kill him just by beating him hard enough.
+> The punches made his ears buzzing, and Dean smelled blood. The image of Castiel's face flashed before his eyes so quickly that his mind was having trouble catching up with the words he was hearing. Only that Castiel was very, very pissed. So pissed that it looked like, without a doubt, Cas could kill him just by beating him hard enough.
 >
 > The realization made Dean flinch. He'd never think he'd be killed by Cas, not after he started knowing him -- got his ass kicked by an angel, quite likely, but not by Cas.
 >
-> "Cas! Please!" Dean yelled, out of instinct.
+> "Cas! Please!" Dean yelled, out of survival instinct.
 >
-> But the beating didn't stop. Two more punches landed. And Dean could taste the sweet metal taste on his tongue, more blood dripping from the corner of his lips.
+> But the beating didn't stop. Two more punches landed. And Dean could taste the sweet metal taste on his tongue, more blood dripping from the corner of his lips. His nose must be broken, his eyes had trouble opening, and his head buzzed with pain. The pain somehow cleared his mind a little, helped Dean focus a little more on the angel's face.
 >
-> Castiel dragged him by the arms, knocking his back to the other side of the wall. Dean heard the bones on his back cracking from the impact. The angel was incredibly strong, and undoubtedly not really caring if any of it would hurt him for real -- or maybe, that was exactly his intention. Maybe after that banishing spell Dean sent his way, Cas finally decided to stand back on Heaven's side.
+> Castiel dragged him by the arms, knocking his back to the other side of the wall. Dean heard the bones on his back cracking from the impact. The angel was incredibly strong, and undoubtedly not really caring if any of it would hurt him for real -- or maybe, that was exactly his intention. Maybe after that banishing spell Dean sent his way, Cas finally decided to stand back on Heaven's side, punishing Dean for everything he's done to him, for everything Cas lost because of Dean.
 >
-> Dean's hands were trapped between their bodies, couldn't quite be useful to push Cas away, or protect himself from another blow. So instead, they clutched around the angel's trench coat, pulling himself closer to the angel. The sensation of the familiar fabric grounded him. He was intimidated, but not entirely scared.
+> Dean's hands were trapped between their bodies, couldn't quite be useful to push Cas away, or protect himself from another blow. So instead, they clutched around the angel's trench coat, pulling himself closer to the angel. The sensation of the familiar fabric grounded him. He was intimidated, but not entirely scared -- it felt right: if he had to die, what's the better way to die in the hand of his friend, in the hand of the angel who saved him from Hell? It felt right, and perfect, and Destiny. Dean stopped fighting, just looking at him now, waiting for the inevitable to happen.
 >
 > "I gave everything for you! And this is what you give to me?!" Cas roared at him, his face merely three inches away. More pure fury glowed from his eyes like his angel grace was radiating.
 >
-> Dean was dazed, and pressed to the wall motionless. So funny that this seemed to become a familiar posture between them, almost exactly like last year before Cas's death, before Cas lost everything and got cast out of Heaven, all because of him. So he really had every right to be white-hot furious.
+> Dean was dazed, and pressed to the wall motionless. So funny that this seemed to become a familiar posture between them, almost exactly like last year before Cas's death, before Cas lost everything and got cast out of Heaven, all because of him. So he really had every right to be white-hot furious. And Dean deserved every punch, every punishment, and eventually, the end of his life. *Karma is a bitch, but the bitch sometimes is right.*
 >
 > Dean stared at him in the eyes, the speed of the physical world seemed to slow down as his mind got distracted. Cas was so full of rightful rage, finally looking like a full-on biblical righteous angel, but also so pained, so torn-apart, so desperate, so very very human.
 >
@@ -615,53 +623,77 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > *I don't deserve him.*
 >
-> Dean fell silent, giving up on resisting.
+> Dean fell silent, giving up on resisting completely.
 >
-> The next punch sent him flying and crashing on the metal net, and the kick after hit him on the chest.
+> The next punch sent him flying and crashing on the metal net at the end of the alley, and the kick that followed hit him on the chest.
 >
-> Dean crashed to the ground, crawling on his all fours. Everywhere on his body hurt, some bones must be broken, his ribs too, probably. He could feel his cheeks and his lips wet. He looked up, and Cas was standing two steps away from him, fist clenched tight.
+> Dean crashed to the ground, crawling on his all fours. Everywhere in his body hurt, some bones must be broken, his ribs too, most likely. He could feel his cheeks and his lips wet. He looked up, and Cas was standing two steps away from him, fist clenched tight.
 >
-> *He could so easily kill him.* Dean's thought drifted. *He might as well do it, saving all of them the trouble of worrying about his surrender. Saving him the trouble of doing it himself.*
+> *He could so easily kill me.* Dean's thought drifted. *He might as well do it, saving all of them the trouble of worrying about my surrender. Saving me the trouble of doing it myself.*
 >
-> "Do it!" Dean choked around the mouthful of blood, watching the angel from ground, from below. He felt small, and the angel stood tall. "Just do it!" *Kill me.*
+> "Do it!" Dean choked around the mouthful of blood, watching the angel from ground, from below. He felt small, and the angel stood tall -- just like he should be, just like any angel always should be -- standing tall and high and above the cloud, and beautiful, and undisturbed and undistained by the dirt on Earth.
+>
+> "Just do it!" *Kill me.*
 >
 > *Maybe that could make Cas's sacrifice mean something. Maybe that was all they needed, as a solution. Death by his best friend's hand, it didn't sound as bad as making a decision so wrong that it would curse the whole world and his brother and likely also kill the said friend again, right?*
 >
+> *And if anyone had the right to take his life, it would be Cas. His mom and dad gave him this life, and Castiel saved his life -- it felt right that Cas would be the one to take it back.*
+>
+> Dean watched him, and almost smiled. *It felt right to die like this, by Cas's hands. Not as glorious as Butch and Sundance like he usually imagined it to be, but it felt* right *this way.*
+>
 > But the expected killing blow didn't come.
 >
-> Cas held his eyes, and eventually, slowly, unclenched his fist, letting out a defeated sigh. *How could I?* His mind answered Dean's unsaid thoughts, all too loud and clear to read.
+> Cas held his eyes, and eventually, slowly, unclenched his fist, letting out a defeated sigh. *How could I?* His mind answered Dean's unsaid thoughts, all too loud and clear to read. *I saved your life, how could I do you any harm? How could you even* think *that I'd do you any real harm, let alone take your life? Or maybe, in your eyes, I am just like any other ruthless, heartless angel who knew nothing but killing and following orders? Is that how you see me? After all these times, after I* died *for you?*
 >
-> He touched Dean on the shoulder to knock him out instead, and watched his bloodied face for a long minute before healing him -- most of the wounds, anyway, but not all, so he wouldn't drain all his limited power.
+> *But it doesn't matter now -- not really. It doesn't really matter how Dean saw him. It doesn't matter when they have bigger fish to fry -- and they always have other priority tasks than pondering those indecipherable things and thoughts.*
+>
+> Cas touched Dean on the shoulder to knock him out instead, and watched his bloodied face for a long minute before healing him -- most of the wounds, anyway, but not all, so he wouldn't drain all his limited power.
 >
 > *He shouldn't lash out like this.* Cas bit his lower lip during the healing, silently hating himself. *He didn't sacrifice because he wanted anything back. It wasn't fair to pressure Dean into thinking about him when they already had so much to worry about.*
 >
-> Cas sighed again. *If only Dean could see it, all he ever wanted is the Winchester boys safe, alive, and then, if they can, do their best to save the world. Why can't Dean just prioritize himself for one bloody second, instead of always so willing to jump into the fire?*
+> Cas sighed again. *If only Dean could see it, all he ever wanted is the Winchester boys safe, and alive, and happy, and then, if they can, do their best to save the world. Why can't Dean just prioritize himself for one bloody second, instead of always so willing to jump into the fire?*
+>
+> *But after all, who was he to demand how Dean live his life, or choose to use up his life? He was nothing more than an acquaintance broken angel who happened to be tasked to save the Righteous Man from Hell and watch over him. He couldn't even save himself -- he did a poor job following orders, he broke Heaven's single most sacred rule and rebelled, he grew human feelings and wills that he had no experience with or control over. His own existence was just as confusing as the Winchesters', who was he to decide what was the right way?*
 >
 > He pressed his fingers on Dean's forehead, tracing the furrowed lines between his eyebrows, smoothening the frown that was still there when Dean was unconscious.
 >
-> The back alley was quiet without the sound of his beating or yelling. There was no human around. The moon shined Dean Winchester's sleeping face. It almost felt like one of those peaceful nights where he stood in the corner of the room, watching him sleep. It felt almost... intimate, only belonged to them.
+> The back alley was quiet without the sound of fighting and pleading. There was no human around. The moon shined on Dean Winchester's sleeping face. It almost felt like one of those peaceful nights where he stood in the corner of the room, watching him sleep. It felt almost... intimate, only belonged to them.
 >
-> Castiel took longer than necessary to stare at Dean's wounded face, thinking, debating, swallowing, deep-breathing, before flying the two of them back to Bobby's place.
+> He wasn't the one getting kicked and punched, but he felt his heart was aching and his bones tired all the same.
+>
+> Castiel took longer than necessary to stare at Dean's wounded face, thinking, debating, swallowing, deep-breathing, before finally flying the two of them back to Bobby's place.
 
 <p style="text-align:right">-- <i>"Supernatural: Point of No Return"</i> (2010) by Carver Edlund</p>
+
+<br>
+
+"I swear to the boss upstairs," Marv -- as he is known nowadays -- mumbles, flips the pages impatiently until it reaches the last page of that unsufferable series (*Swan Song*), and throws it back into the pile of the finished books, "this is *THE* worst love story packaged inside a ghost-hunting story I've ever read, and what's with those idiotic characters? I mean, I've never seen more mentions of lip-staring in a single most cheesy romantic novel, and *still* no one made a move! All these yearning and longing and pining, I mean, *come on!* Those dumbasses! Even glaciers melt faster than this!"
+
+He stares at the author's name on the cover of the new one he just picked up (*Exile on Main St.*), and the three cheap painting of muscled military-looking dudes on it, two of them in flannel shirts, one with a black suit. "Everyone with an eye can see they'll be together sooner or later, that dumbass hunter and asshat angel -- Jesus Christ, what's wrong with you, *Carver Edlund*? You want to write them kissing the moment you put that angel into the story, then write them kissing! It's like a torture now, just watch them dance and dance and dance around each other but just stay that way forever. You got an itch, then you scratch it, for Christ's sake!"
+
+But even he has to admit, just like anyone has a guilty pleasure, he can't stop reading no matter how bad the writing and the story is -- or maybe, exactly *because* they're so bad, he can't help it. He *has to* know what's happening to them, and more importantly, if -- when -- that writer would finally grow a ball to write them kissing. Because, admit it, this just *has to* happen. It would make zero sense if that writer put all these effort into those pain-in-the-ass emotions and feelings, but just keeps chickening out on the only thing that everyone is waiting to see.
+
+Marv is both pleased and disappointed to find there are only less than half of what he's finished remains -- who knows he finished like a hundred of these *Supernatural* books in less than a week? Good thing he doesn't need to sleep or eat. So he just flips open the next one and continues reading.
+
+<br>
 
 ## Chap 1 The Book (Part Two)
 
 ### Act 6 (S06E17)
 
-> It all happened too quickly. Dean didn't even register the danger before the death could have grasped him -- or in this case, it was fate.
+> It all happened too fast. Dean didn't even register the danger before the death could have grasped him -- or in this case, it was Fate.
 >
 > The lighter caught fire the moment they opened the warehouse door leading to the gas outlets. Flame and explosion filled the space in an instant, fire and heat lunged toward their face. And then, before he could blink, he wasn't there anymore.
 >
 > The daytime sky became night now, trees grew sparsely around them, the air felt chilly.
 >
-> A too familiar low voice greeted them from behind them: "Hello, Dean. Sam."
+> A low voice that was way too familiar greeted them from behind them: "Hello, Dean. Sam."
 >
 > "Cas!" Dean spined around before he even steadied his footing, too glad to see his angel friend now. It was a close call, and very certainly, a personal gift from Fate herself.
 >
 > Sam was obviously thinking the same, still reliving that horrifying moment.
 >
-> *If Cas was one second too slow, too late, they'd already been fried extra crispy and started living their lives happily ever after in the piece of junk place called Heaven.*
+> *If Cas was one second too slow, it would be too late, they'd already been fried extra crispy and started living their lives happily ever after in the piece of junk place called Heaven.*
 >
 > "Hey, thanks man." Sam eased his breath, glancing around. "Where are we?"
 >
@@ -673,7 +705,7 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > "I'm aware," Cas answered. *Not just aware, he was on his full commission, actually. But he couldn't say it. It didn't feel right. He would tell them everything later, eventually, when the time was right.*
 >
-> "Balthazar can be impetuous," he said instead. And this wasn't entirely a lie. Nor was the one before that. He was just... missing out some certain small details.
+> "Balthazar can be impetuous," he said instead. And this wasn't entirely a lie. Nor was the one before that. He was just... missing out some certain small details -- for good reasons: to keep them safe.
 >
 > Dean didn't notice the pause, pressing on the second and more worrying question in his head: Why'd Fate try to kill them. Like he pointed out, they weren't on the Titanic.
 >
@@ -681,31 +713,33 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > But it became an easy answer now that it was thrown into their face.
 >
-> *Who could Fate hate more than the exact humans that disturbed the track of the history that Fate and Destiny and God had decided millions of years ago? Let alone going back and forth across the Veil far too many times than they'd like.*
+> *Who could Fate hate more than the exact humans that disturbed the track of the history that Fate and Destiny and God had decided millions of years ago? Let alone going back and forth across the Veil far too many times than any celestial beings would be pleased about.*
 >
-> "I imagine she harbors a certain degree of rage toward you," Cas answered. *Far more than just "a certain degree of rage" actually, but just wish the Winchesters could understand.*
+> "I imagine she harbors a certain degree of rage toward you," Cas answered carefully. *Far more than just "a certain degree of rage" actually, but just wish the Winchesters could understand.*
 >
 > And Sam Winchester had to ask, innocently, "What did we do?"
 >
-> Cas huffed out a short humorless laugh, tilting his head meaningfully. His sarcasm was perfected over the years, especially by watching and learning from the Winchesters. "Nothing of import --" he said casually, giving them both a look, lingering his eyes on Dean longer. "-- just the tiny matter of averting the Apocalypse and rendering her obsolete. I think maybe she's a little irritated about that."
+> Cas huffed out a short humorless laugh, tilting his head meaningfully. His sarcasm was perfected over the years, especially by watching and learning from the Winchesters. "Nothing of import --" he said in a pretense of a casual tone, giving them both a look, lingering his eyes on Dean longer. "-- just the tiny matter of averting the Apocalypse and rendering her obsolete. I think maybe she's a little irritated about that."
 >
-> *Yeah, a little irritated.*
+> *Yeah, just a little irritated.*
 >
-> Dean raised his eyebrows, hearing the biting tone in his voice. *Wow,* his brain exclaimed, *that's a side of Cas he didn't usually get to see. Which happened to be a side that was far too hot and right to his liking.* Dean blinked and swallowed, willing his mind to come back on track.
+> Dean raised his eyebrows, hearing the biting tone in his voice. *Wow,* his brain exclaimed, *that's a side of Cas he didn't usually get to see. Which happened to be a side that was far too hot and right to his liking. Sassy, and hot.* Dean blinked and swallowed, willing his mind to come back on track. He started to feel his lips drying quickly already.
 >
-> Cas continued, "And then you go and dangle yourselves in front of her..." *Like the way you are, just couldn't rest for a split second, just had to trudge right into the dirty water. Why is he even surprised?*
+> Cas continued without noticing, "And then you go and dangle yourselves in front of her..." *Like the way you are, just couldn't rest for a split second, just had to trudge right into the dirty water. Why is he even surprised?*
 >
 > Dean rolled his eyes, almost as if proud of himself, "So we've pissed Fate off *personally*."
 >
 > Cas could already hear the "Awesome" right on the tip of his tongue, like they haven't realized how big of a matter it was. So he had to emphasize it just a little more.
 >
-> He squinted at the brothers, glancing between them, but looking at Dean longer, more warningly. "If I know her -- and I do -- she won't stop until you're dead." So just telling the boys to be careful wouldn't help the slightest. And it pained him so much to think that, just because of their civil war up there, and because of that tactic he and Balthazar pulled, and now it's Sam and Dean who's paying the price. Especially Dean. Castiel grimaced, shifting uncomfortably.
+> He squinted at the brothers, glancing between them, but looking at Dean longer, more warningly. "If I know her -- and I do -- she won't stop until you're dead." So just telling the boys to be careful wouldn't help the slightest. And it pained him so much to think that, just because of the angel civil war up there, and because of that tactic he and Balthazar pulled, and now it's Sam and Dean who were paying the price. Especially Dean. *It's all his fault.* Castiel grimaced, shifting uncomfortably.
 >
 > "Awesome," Dean blurted out, watching Cas with eyes full of curious wonder and light hope, as if the angel had all the answers to the world. "So what do we do?"
 >
 > "Kill her," Cas answered simply. That seemed to be the only neat solution, after all. *He couldn't protect them all the time (to keep them safe), and he couldn't lose the war (also to keep them safe). Then this seemed to be the only thing they could do.*
 >
 > *So many times recently that his choices became so limited.* Cas thought, and decided he didn't like it.
+>
+> *And even worse, he was forced to get used to so many more violent and bloody solutions that, he might had to get used to it.* Cas hated it for himself, but this was the only way. So he had to do it. For Dean. For all of them.
 >
 > "Kill Fate?" Sam gasped quietly.
 >
@@ -723,7 +757,7 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > Cas returned the gaze just as intensely. "I'm trying to save the ones I have, Dean."
 >
-> *You're my only friend, and everything I'm doing is to save you.* Cas's mind supplied, but the reasonable part, the tactical strategist part of him weighed the words and blocked them from leashing out. *Dean doesn't need to know everything. Especially those... other feelings, the ones that made him stare at Dean's back for long hours when he was just sweeping the leaves in the backyard, in a house where he lived with a woman and a kid.* He felt his heart aching in a way he couldn't quite understand, but he knew already, that Dean wouldn't like it if he said too much, if he stepped out of the line. So he kept his mouth shut, and let the word "friend" filling the gap between them.
+> *You're my only friend, and everything I'm doing is to save you.* Cas's mind supplied, but the reasonable part, the tactical strategist part of him weighed the words and blocked them from leashing out. *Dean doesn't need to know everything. If he went any deeper, Dean would query, and ask why, and how, and keep digging and chasing, and eventually he would have to admit things that even he didn't quite understand. Especially those... other feelings, the ones that made him stare at Dean's back for long hours when he was just sweeping the leaves in the backyard, in a house where he lived with a woman and a kid.* He felt his heart aching in a way he couldn't understand no matter how hard he pondered, but he knew already, that Dean wouldn't like it if he said too much, if he stepped out of the line. It wasn't his position to trouble Dean with his thoughts and feelings. So he kept his mouth shut, and let the word "friend" filling the gap between them.
 >
 > Their stares stretched longer in silence. Cas didn't need to blink, and Dean looked like he couldn't even breathe. His Adam's Apple bobbed up and down, and his eyelashes fluttered when he glanced down, searching Cas's face, lingering on his lips before forcing himself to look up.
 >
@@ -731,15 +765,21 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > They both tasted the words, hearing it echoing in the empty air. *That's what they are. They're friends.*
 >
+> Cas tried very hard to remind himself that.
+>
+> And Dean, too.
+>
 > Sam made a small sound by shifting his feet on the grass.
 >
 > Cas pulled his gaze away. "We'll have to draw her out."
 >
-> He disliked the idea, again. For having to use Dean -- and Sam -- as baits to tempt fate. But it had to be done, for all of their safeties, which means he'd have to watch the brothers' every step from now on, for every single second. The saying went "Fate strikes when you least expect it," well, good thing is, they were expecting it now.
+> He disliked the idea, again. For having to use Dean -- and Sam -- as baits to tempt Fate. But it had to be done, for all of their safeties, which means he'd have to watch the brothers' every step from now on, for every single second. The saying went "Fate strikes when you least expect it," well, good thing is, they *were* expecting it now.
 >
-> Castiel was never more tense when he watched the boys walk onto the street, sniffed by the wolf-like dogs, almost bumped by every single pedestrian, walked past the flying torches, and onto the street with all the construction works. He didn't breathe, he didn't blink, he didn't glance back or look away. He couldn't. Dean and Sam's lives relied on his watch, and he'd do just that, watching them like it was the end of the world -- because to him, it was.
+> Castiel was never more tense when he watched the boys walk down the street, sniffed by the wolf-like dogs, almost bumped by every single pedestrian, walked past the flying torches, and onto the street with all the construction works. He didn't breathe, he didn't blink, he didn't glance back or look away. He couldn't. Dean and Sam's lives relied on his watch, and he'd do just that, watching them like it was the end of the world -- because to him, it was.
 >
-> And he did it again, saving their lives at the last second before Fate struck. Castiel let out a pleased and relieved breath. He saved them again, just like the very first job he was given regarding Dean: Save him. He just had to keep saving him.
+> *He couldn't lose them. He just couldn't allow that happen no matter what.*
+>
+> And he did it again, saving their lives at the last second before Fate struck. Castiel let out a pleased and relieved breath. He saved them again, just like the very first job he was given regarding Dean: Save him. He just had to keep saving him. It was the only thing mattered in the whole universe.
 
 <p style="text-align:right">-- <i>"Supernatural: My Heart Will Go On"</i> (2011) by Carver Edlund</p>
 
@@ -755,27 +795,35 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > And if he did, he'd never end up trapped inside a holy fire circle, with Dean being the one standing on the other side, staring him down.
 >
-> The fire heated the air quickly, distorting the view when they looked at each other. The heat came close to his skin. *It could actually kill him.* Cas realized with a stun. *This is the first time that Dean actually threatened him with something that could actually kill him.*
+> The fire heated the air quickly, distorting the view when they looked at each other. The heat came close to his skin. *It could actually kill him.* Cas realized with an actual flabbergastation. *This is the first time that Dean actually threatened him with something that could actually hurt him and kill him.*
 >
-> Cas's eyes swept around the room, unsettled. Panicked, if he had to admit. He wasn't ready to admit the truths -- not the deal with Crowley, not all the other things he buried down, not the way he looked at Dean, not the reason why he made the deal in the first place. Eventually, yes, but not now. He didn't think it would come so quickly.
+> He knew Dean would probably be pissed when or if he found out, but he didn't know Dean would be so angry that he might threaten to kill him with Holy fire. But after all, he had it coming. He might just deserve it for how much he hurt him, and it didn't seem to matter that he was just trying to protect him -- not like he could admit the very deep-down reason why he did it all, after all.
 >
-> "Let me go!" Cas said, eying the fire consciously, turning to them one by one. In every direction, the fire licked dangerously close, threatening to burn his clothes, then his flesh, then his grace and his true form and his wings. Dean could just be standing there, watching his wings torched to the ground. *Would Dean feel sorry for him?* Cas wondered. *Or maybe just too angry to care, especially after he found out his deal with Crowley?*
+> Cas's eyes swept around the room, unsettled. Panicked, if he had to admit. He wasn't ready to admit the truths -- not the deal with Crowley, not all the other things he buried down, not the way he looked at Dean, not the reason why he made the deal in the first place -- eventually, probably, but not now. He didn't think it would come so quickly.
 >
-> Cas looked down, bitter at the thought. The fire dyed everything in the room red, almost like bloodied.
+> "Let me go!" Cas said, eying the fire consciously, turning to them one by one. In every direction, the fire licked dangerously close, threatening to burn his clothes, then his flesh, then his grace and his true form and his wings. Dean could just be standing there, watching his wings torched to the ground, becoming a burned mark like when all these other angels died. *Would Dean feel sorry for him then? After his death?* Cas wondered. *Or maybe just too angry to care, just standing there watching, especially after he found out his deal with Crowley?*
+>
+> Cas looked down, bitter at the thought. The fire dyed everything in the room red, almost like blood. It was too dangerously distracting to think about anything when he had to be conscious about keeping all his wings inside the circle even in the ethereal plane. But he was still distracted, thinking about the Dean in his memory and the Dean standing before him, nonetheless.
 >
 > "We gotta talk," Dean said, slowly, cautiously, standing up from his sitting position, moving closer to him. There was only the fire between them now, a blockage that he could never across without being killed.
 >
-> Dean's eyes were careful, constrained, looking at the angel like approaching a caged dangerous creature, like... approaching someone he didn't know, and powerful, and dangerous.
+> Dean's eyes were careful, constrained, guarded, looking at the angel like approaching a caged dangerous creature, like... approaching someone he didn't know, and powerful, and dangerous.
 >
-> Cas read his eyes, and pained immediately. Dean never looked at him with eyes like these. Never as enemy, not since after the first day.
+> Cas read his eyes, and pained immediately. Dean never looked at him with eyes like these. Never as enemy, not since the first day, not ever.
 >
-> "About what? Let me go!" Cas tried again. But deep down, slowly, definitely, he knew it was over. One way or another, Dean would find out everything, and there would be no going back. They were friends, and he was contented as being nothing more than a friend, but now, nothing. He'd be nothing at all, or worse, enemy. Dean was trapping him and cornering him like he would to a demon, an archangel, the Devil. He had made himself their enemy. Cas found his chest tight with the aching that was growing very consistently over the years.
+> "About what? Let me go!" Cas tried again. But deep down, slowly, definitely, he knew it was over. One way or another, Dean would find out everything, and there would be no going back. They were friends, and he was contented as being nothing more than a friend, but now, nothing. He'd be nothing at all, or worse, enemy. Dean was trapping him and cornering him like he would to a demon, an archangel, the Devil. He had made himself their enemy. Cas found his chest tightened with the aching sensation that was growing very consistently over the years. He couldn't breathe, he couldn't feel his vessel's heart beating, he couldn't feel the *life* in him at this moment.
+>
+> Under Dean's guarded and alarmed look, Cas felt, he was dying a little every single second. He was being killed by the pain inside his own heart, and inside Dean's eyes. Ashes from the aching piling up his chest, blocking his breath. He wondered if the ash was just his imagination or actually his wings were already burning with the Holy fire for him being not careful enough, for hoping to stand closer to the edge of the Holy fire ring, to be closer to Dean.
+>
+> But it didn't help reducing any trace of hurt or alarm from Dean's eyes.
 >
 > The proofs were clear, and abundant. Truth was, he wasn't being as careful as he thought he was. The slipped line of Kryptonite, burning the wrong bones, the demon place being too clean. There were too many evidences, but they didn't know for sure, not yet. He might still have a chance walking out of here as their *friend*.
 >
-> "It was hard to understand. It's hard to explain." Cas wasn't lying when he tried that. It wasn't enough. It was far from enough. It was too vague, too hollow, too... hard to understand. But how could he make it any clearer, when even *he* was still trying to understand, let alone explaining? The tightness on his chest clenched harder. It felt something buried inside there, somewhere deep deep down, was trying to crawl out, trying to declare itself to the world, to the man standing before him. But he couldn't. He couldn't allow it. He just couldn't. Couldn't let it ruin what they had -- if he still had it. They were friends, after all -- hopefully still.
+> "It was hard to understand. It's hard to explain." Cas wasn't lying when he tried that. It wasn't enough. It was far from enough. It was too vague, too hollow, too... hard to understand. But how could he make it any clearer, when even *he* was still trying to understand, let alone explaining? The tightness on his chest clenched harder. It felt something buried inside there, somewhere deep deep down, was trying to crawl out ugly, trying to declare itself to the world, to the man standing before him. But he couldn't. He couldn't allow it. He just couldn't. Couldn't let it ruin what they had -- if he still had it. They were friends, after all -- hopefully still.
 >
-> "You got to look at me, man." Dean started, standing at the other side of the fire ring. Every line on his face was screaming disbelief and hurt, and pain, and aching, and something else, everything else that he couldn't quite read clearly. So Cas just read harder, watching his lips thinned, his eyebrows burrowed, his eyes watered. "You got to level with me and tell me what's going on. Look me in the eye and tell me you're not working with Crowley."
+> "You got to look at me, man," Dean started, moving as close as he could at the other side of the fire ring. Holy or not, that fire might burn him too if he moved one inch closer, but Dean didn't care. Every line on his face was screaming disbelief and hurt, and pain, and aching, and something else, everything else that Cas couldn't quite read clearly. So Cas just read harder, watching his lips thinned, his eyebrows burrowed, his eyes watered.
+>
+> "You got to level with me and tell me what's going on. Look me in the eye and tell me you're not working with Crowley."
 >
 > Cas looked at him, trapped in those eyes, trapped by the silent pleading in there. Dean was praying, he realized, inside his head, silently, probably even unconsciously. *Please, please tell me you're still my friend. Please tell me I can still trust you. Please, Cas. Tell me the truth.*
 >
@@ -785,7 +833,7 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > *Cas, please. Don't lie to me. Tell me I'm not wrong about you.*
 >
-> Cas watched fire flickering in Dean's eyes, crackling quietly, overlapping with the image of himself as if burning him there. He only had to say he wasn't working with Crowley without looking away. It should be easy. It really should. The lie would be to protect them, to protect himself, to protect the deal, the war, Heaven, and the whole world. It was for the good cause, for a good reason. He didn't do anything wrong. He just... worked with Crowley.
+> Cas watched fire flickering in Dean's eyes, crackling quietly, overlapping with the image of himself as if he was burning in there. He only had to say he wasn't working with Crowley without looking away. It should be easy. It really should. The lie would be to protect them, to protect himself, to protect the deal, the war, Heaven, and the whole world. *When humans want something really, really bad, they lie.* It was what Dean taught him, right? And he wanted Dean to trust him really, really bad. And it was for a good cause, for a good reason. He didn't do anything wrong. He just... worked with Crowley.
 >
 > He looked away.
 >
@@ -793,49 +841,71 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > And Dean understood.
 >
-> "You son of a bitch," Dean murmured. The light of hope was extinguished, relief disappeared, replaced by pain, only the indescribable pain and mountainous betrayal. The look on his face and in his eyes was so sharp, like blades, but instead of cutting into Cas's heart, it looked like they were slicing open Dean's heart, piece by piece, tearing it apart, forcing it out of his chest. And Cas had to just stand there, watching the imagined blood gushing out from Dean's chest, pained worse than getting himself stabbed and killed.
+> "You son of a bitch," Dean whispered. Cas looked back. The last thread of flickering hope in Dean's eyes was extinguished, any remnant hint of relief disappeared, all replaced by pain, only the indescribable pain and mountainous betrayal. The look on his face and in his eyes was so sharp, like blades, but instead of cutting into Cas's heart, it looked like they were slicing open Dean's heart, piece by piece, tearing it apart, forcing it out of his chest. And Cas had to just stand there, watching the imagined blood gushing out from Dean's chest, pained worse than getting himself stabbed and killed.
 >
-> "Let me explain." Cas said, but his voice shattered. The words were pale. Every single syllable felt so hollow that they fell into the fracture between them. For a second, Cas really wanted to step over the fire, reaching out to Dean, touching his shoulder, putting his palm over the handprint on Dean's shoulder, telling him everything, everything in his heart, every feeling that he shouldn't be feeling as an angel, just, absolute everything. Because he would be telling him when he stood over the fire, being burned and torched. He could die before Dean's eyes when he finished telling him everything, and never worry about the consequence.
+> *And he was the one causing all those harm to Dean.* Cas couldn't bear it.
+>
+> "Let me explain," Cas pleaded, but his voice shattered. The words were pale. Every single syllable felt so hollow that they fell into the fracture between them. For a second, Cas really wanted to step over the fire, reaching out to Dean, touching his shoulder, putting his palm over the handprint on Dean's shoulder, telling him everything -- everything in his heart, every feeling that he shouldn't be feeling as an angel, just, absolute everything. Because he would be telling him when he stood over the fire, being burned and torched. He could die before Dean's eyes when he finished telling him everything, and never worry about the consequence.
 >
 > But he didn't.
 >
-> He just told them about Raphael, about Heaven, about war, about things that seemed so big and beyond, and also... so unimportant. All the things and reasons that weren't about himself, about what he was thinking, or feeling, because... well, why would Dean even be interested in those?
+> He couldn't die yet. Not when there were still war in Heaven, when Raphael and Crowley were still out there, when there were still too many danger in this world that could hurt Dean. He had to live, as friend or enemy, he had to be there, for him, for all of them -- protecting them whatever way he can. This is the only way. Dean could hate him, but at least, he would be safe in the end.
 >
-> "I had no choice," Cas said miserably.
+> So Cas just told them about Raphael, about Heaven, about war, about things that seemed so big and beyond, and also... so unimportant. All the things and reasons that weren't about himself, that weren't trivial and delicate and emotional -- nothing about what he was thinking, or feeling, because... well, why would Dean even be interested in those?
+>
+> "I had no choice," Cas said miserably. *Dean wouldn't understand.*
 >
 > "No, you had a choice," Dean countered quietly, devastated, his eyes shining with glitter of tears. "You just made the wrong one."
 >
-> *Is it wrong to give everything to save you? Is it wrong to try to keep you safe and happy? Is it so wrong to... condemn myself so that you could get a chance to have the peace and happiness you always wanted? Wasn't it exactly what I did during the Apocalypse and when we were righting against Lucifer?*
+> *Is it wrong to give everything to save you? Is it wrong to try to keep you safe and happy and out of all this mess? Is it so wrong to... condemn myself so that you could get a chance to have the peace and happiness you always wanted? Wasn't it exactly what I did during the Apocalypse and when we were fighting against Lucifer?*
+>
+> *I had a choice during the Apocalypse and I chose you, and I died and you almost did too. I had a choice when we were fighting against Lucifer and I chose you, and I died and you almost did too. I had a choice now to fight against Raphael, and I chose you, but a different one, so that I might still die, but you wouldn't. This is my choice, Dean, it's always you. Can you not see it?*
 >
 > Cas watched Dean's eyes, watching the glitters gathering and shining like stars in the dark space, couldn't stop thinking, couldn't stop remembering.
 >
-> He was there when Dean was raking the leaves; he was there watching him making breakfast with the woman and the kid; he was there seeing him go to work in the garage, and go to pub with his coworkers. Dean was happy, and he didn't pray. Not once, for an entire year.
+> He was there when Dean was raking the leaves; he was there watching Dean making breakfast with the woman and the kid he chose to live together with in a normal life; he was there seeing him go to work in a garage, working with cars because that's what he loved, and go to pub with his coworkers. Dean was happy, and he didn't pray. Not once, for an entire year.
 >
-> *He wasn't needed anymore.* Cas had thought, swallowing, not understanding why his wings felt heavy, why his throat felt bitter.
+> Cas visited him, every single day, watching him -- watching over him. But Dean was always peaceful and happy. Content. And normal now. He wasn't in any danger that required Castiel's protection.
 >
-> He flew away without showing himself.
+> *Dean didn't need an angel anymore. I wasn't needed anymore.* Cas had thought, swallowing, not understanding why his wings felt heavy, why his throat felt bitter, why his chest felt tight.
 >
-> He came back again when his garrison failed, and again when he was beaten up be Raphael, threatened to either yield or be killed. He stood there, in the ether, watching Dean.
+> He flew away without showing himself. There was no reason to show himself.
+>
+> He came back again when his garrison failed, and again when he was beaten up by Raphael, threatened to either yield or be killed. He stood there, in the invisible ether, watching Dean.
 >
 > *I need you.* Castiel remembered thinking. And the thought scared him more than knowing he could be killed by Raphael very soon. It was unheard of in Heaven or on Earth, that an angel needed a human more than the human needing the angel.
 >
-> *How can he possibly make Dean understand how impossible and terrifyingly vulnerable that felt like? That he was even capable of* feeling *those things?*
+> *How could he possibly make Dean understand how impossible and terrifyingly vulnerable that felt like? That he was even capable of feeling those things? Dean wasn't an angel, so how could he understand what it felt like? Just like Cas wasn't a human, so how could he --?*
 >
-> There wasn't any word in Enochian for feelings, and he hadn't learned enough human language to know what those bubbling feelings inside his chest were called -- the ones that made his eyes hot when watching Dean, the ones that made his lips dry, his throat tight, his chest ache. *How is it possible, to have a word, a sentence, or a language, invented by some human some centuries ago, to describe and explain the precise feelings and thought that he was having right now?*
+> There wasn't any word in Enochian for feelings, and he hadn't learned enough human language to know what those bubbling feelings inside his chest were called -- the ones that made his eyes hot when he was watching Dean, the ones that made his lips dry, his throat tight, his chest ache, the ones that made him wet his lips and swallow and force his breath in and out. *How is it possible, to have a word, a sentence, or a language, invented by some human some centuries ago, to describe and explain the precise feelings and thoughts that he was having right now? Where did he even begin to explain?* What *is he even going to explain? Everything is too complicated -- it's just... too complicated.*
 >
 > "You don't understand. It's complicated." That was all Cas could manage. Words failed him utterly. If only he could crack open his chest and show Dean his beating heart, and like human fairytale stories usually went, with a glimpse of his heart, Dean would understand. But the reality didn't work that way.
 >
 > Dean only looked at him like he didn't know him any more, like he said the biggest, wrongest statement in the world. "No, actually, it's not, and you know that. Why else would you keep this whole thing a secret, unless you knew that it was wrong?"
 >
-> *I couldn't tell you, because I didn't know how. I wasn't ready, and I was scared.* Cas opened his mouth, but no words came out. *I couldn't tell you, because even the fighting and losing the war in Heaven and getting killed, felt easier than having to come to your doorsteps, knocking on the door of the house you shared with a family you chose, and breaking the peace and normal life that was almost impossible to have but you already found.*
+> *I couldn't tell you, because I didn't know how. I wasn't ready, and I was scared.* Cas opened his mouth, but no words came out. *I couldn't tell you, because even the fighting and losing the war in Heaven and getting killed, felt easier than having to come to your doorsteps, knocking on the door of the house you shared with a family you chose, and breaking the peace and normal life that was almost impossible to have but you already found. I couldn't tell you, because all I ever wanted, was you, being happy and content, with or without me, and I couldn't be the one that took those away from you.*
 >
 > He couldn't say anything then. And he still couldn't say anything now. Only, low and devastated, "It sounds so simple when you say it like that. Where were you when I needed to hear it?"
 >
-> "I was there. Where were you?" Dean answered, the lines on his face hardened. The squeaking sound of demons approach rapidly from the night sky, audible through the open window. They don't have much time now.
+> "I was there. Where were you?" Dean answered, the lines on his face hardened.
+>
+> Right then, the squeaking sound of demons approached rapidly from the night sky, audible through the open window, threatening their lives. They didn't have much time now.
 >
 > *I was there, too. But we just weren't there for each other.*
 >
 > *I'm sorry.*
+>
+> They both glanced at the window's direction. Demons could arrive any second now.
+>
+> *Now, go. Save yourself, and don't mind me.*
+>
+> "Run. You have to run now! Run!"
+>
+> *I can die, and I accept it. Just, be safe, Dean. That's all I ever wanted. That's why I did everything.*
+>
+> The humans ran toward the door hastily, Bobby and Sam filed out of the door, but Dean paused. And he looked back. Desperate and overwhelmingly pained, he looked back and held the gaze with the angel inside the Holy fire ring. Pain was materialized in the air between them, bleeding out from both eyes.
+>
+> There was no words.
 
 <p style="text-align:right">-- <i>"Supernatural: The Man Who Would Be King"</i> (2011) by Carver Edlund</p>
 
@@ -890,8 +960,6 @@ And soon, when he starts the fourth series among all eight that he received, his
 > 817 (+all brainwash flashback) beat up, "I need you"
 
 <br>
-
-### Act 11 (not actual act)
 
 Metatron throws the last book (*Pac-Man Fever*) into the pile that he just finished, and sighs with relief that it's the last one of the whole series, published and unpublished. No more torture to continue reading more of that crap. It's just getting increasingly frustrating to keep reading the same thing over and over and over again -- those same two morons doing the same thing for *four freaking years* without making *any* progress? It's really not a good story. It wouldn't even crack the top ten thousand of the metric ton of books he's read in his lifetime just for that fact alone.
 
