@@ -3,7 +3,7 @@ layout: post
 title: 【Destiel】I Swear On Castiel's Name
 date: 2025-08-22 02:43
 categories: ["SPN"]
-characters: ["Castiel", "Dean Winchester"]
+characters: ["Castiel", "Dean Winchester", "Fergus MacLeod/Crowley"]
 tags: ["Supernatural", "destiel", "英文", "吻"]
 pov: 第三人称
 origin: 2026 DeanCas Pinefest
@@ -1496,11 +1496,59 @@ Cas had angel tablet but then captured and tortured by Naomi and Crowley, Crowle
 
 ### Act 1
 
+Sam wakes up twelve hours later, still shaky and sick like before from his trials, but according to him, zero angel radio resonation. Which means Metatron has most definitely left the place, staying as far away from them as possible.
+
+They still did a thorough round of search in and out of the hotel, just in case. They pick the locked rooms too, but there are only books, more books, endless books.
+
+Dean feels an impulse to burn the place down, but the books didn't do anything wrong, and the tribe serving the scribe also didn't technically or directly do anything wrong.
+
+Sam pulls him into the Impala, and they head back to bunker.
+
+Dean doesn't speak a word all the time.
+
+"Talk to me," Sam finally can't stand the silence, tuning down the music. "Something happened when I blacked out. What did Metatron say?"
+
+"He wouldn't help," Dean answers coldly.
+
+"Yeah, I sorta get that," Sam wrinkles his nose. "Anything else? Why did he put me to sleep, if he's not trying to speak to you alone?"
+
+"Nothing." Dean stares at the road in front of him, hands clenching on the wheels too hard, "Just know that he's the biggest son-of-a-bitch in the world and I'll kill him next time I see him."
+
+"I sorta get that too," Sam says carefully, studying his brother's face. "Any particular reason?"
+
+"Nope, just how much I hate him," Dean thins his lips and doesn't give more reasons.
+
+Sam sighs, tuning the music back on. He knows by now there's no way he can get Dean to talk if Dean doesn't feel like it, he'll just have to wait it out.
+
+The car rolls steadily forward in the unsettling dark night. Sam's breath slowly eases as he drifts off.
+
+Dean glances at him once in a while to make sure he's still breathing. He doesn't realize he's been biting his lower lip all the way since Colorado until his lip starts bleeding. Even then, Dean still doesn't release it. It feels like a suitable punishment and reminder for those lips of his, he reasons with himself, and biting harder.
+
+The car screeches to a sharp stop when they are closing in on the road leading to the bunker, the headlight illuminating a bloodied figure laying on the asphalt like a road kill. The body covered by the trench coat stirs when the light shines brightly on his face.
+
+Dean jumps out of the car before it stops properly. "Cas?"
+
+He rushes to the figure. Sam staggers out shakily behind him.
+
+Castiel lifts his head slightly, glancing at them, saying in a hoarse voice, "A little help here?"
+
+Dean doesn't really expect to see Cas so soon after all that happened, and now he doesn't even know how to look at Cas in the eyes without hearing his whole brain shouting at him about the swear and the thing he swore on that he still believed, and the consequence of all that.
+
+Dean looks away from his face, bending down, trying to help Cas move. Only then does he see the horrifying hole in Cas's stomach, right under the ribs, the hole looks like something has been brutally poke in and drag something out, it's so deep and dark that it looks like even the organs are visible. Blood and grace leak out from the gash like this body -- Cas's body -- is just a big broken bag that can't hold the liquid in.
+
+"Oh God," Sam gasps, instinctively trying to cover Cas's wound with his trench coat, using it as a makeshift big bandage.
+
+"Don't!" Dean catches his wrist before Sam can touch Cas's wound. "Don't touch him!" *You can hurt him.* He thinks but doesn't have time to say it. "We'll need a stretcher."
+
+
+
 
 
 <br>
 
 ### draft notes
+
+Why Dean doesn't like Sam/Cas touch: Sam's power/sick from demon tablet, Cas's sick from angel tablet, don't know what could happen
 
 
 > Dean's devastated, more repressed to keep himself away from Cas, disguises as anger toward Cas even after Cas comes back to bunker after losing angel tablet (gut open by Naomi/Crowley, not recovered as quickly as he'd wish)
