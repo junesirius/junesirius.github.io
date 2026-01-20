@@ -1508,11 +1508,11 @@ Cas had angel tablet but then captured and tortured by Naomi and Crowley, Crowle
 
 ### Act 1
 
-Sam wakes up twelve hours later, still shaky and sick like before from his trials, but according to him, zero angel radio resonation. Which means Metatron has most definitely left the place, staying as far away from them as possible.
+Sam wakes up twelve hours later, still shaky and sick like before from his trials, but according to him, zero angel radio resonation. Which means Metatron has most definitely left the place, staying as far away from them as possible, reading his story from afar.
 
 They still did a thorough round of search in and out of the hotel, just in case. They pick the locked rooms too, but there are only books, more books, endless books.
 
-Dean feels an impulse to burn the place down, but the books didn't do anything wrong, and the tribe serving the scribe also didn't technically or directly do anything wrong.
+Dean feels an impulse to burn the place down, but Sam stops him, saying the books didn't do anything wrong, and the tribe serving the scribe also didn't technically or directly do anything wrong or hurt anyone. It's Metatron that they should focus on.
 
 Sam pulls him into the Impala, and they head back to bunker.
 
@@ -1524,19 +1524,21 @@ Dean doesn't speak a word all the time.
 
 "Yeah, I sorta get that," Sam wrinkles his nose. "Anything else? Why did he put me to sleep, if he's not trying to speak to you alone?"
 
-"Nothing." Dean stares at the road in front of him, hands clenching on the wheels too hard, "Just know that he's the biggest son-of-a-bitch in the world and I'll kill him next time I see him."
+"Nothing." Dean stares at the road in front of him, hands clenching on the wheels too hard. "Just know that he's the biggest son-of-a-bitch in the world and I'll kill him next time I see him."
 
 "I sorta get that too," Sam says carefully, studying his brother's face. "Any particular reason?"
 
-"Nope, just how much I hate him," Dean thins his lips and doesn't give more reasons.
+"Nope, just how much I hate him." Dean thins his lips and doesn't give more reasons.
 
-Sam sighs, tuning the music back on. He knows by now there's no way he can get Dean to talk if Dean doesn't feel like it, he'll just have to wait it out.
+Sam sighs, tuning the music back up. He knows by now there's no way he can get Dean to talk if Dean doesn't feel like it, he'll just have to wait it out.
 
 The car rolls steadily forward in the unsettling dark night. Sam's breath slowly eases as he drifts off.
 
-Dean glances at him once in a while to make sure he's still breathing. He doesn't realize he's been biting his lower lip all the way since Colorado until his lip starts bleeding. Even then, Dean still doesn't release it. It feels like a suitable punishment and reminder for those lips of his, he reasons with himself, and biting harder.
+Dean glances at him once in a while to make sure he's still breathing, just like when he's used to growing up. *Sam's responsibility.*
 
-The car screeches to a sharp stop when they are closing in on the road leading to the bunker, the headlight illuminating a bloodied figure laying on the asphalt like a road kill. The body covered by the trench coat stirs when the light shines brightly on his face.
+He doesn't realize he's been biting his lower lip all the way since heading out until his lip starts bleeding when they cross to the Kansas. Even then, Dean still doesn't release it. It feels like a suitable punishment and reminder for those lips of his since they betrayed him, Dean reasons with himself, and bites harder.
+
+The car screeches to a sharp stop when they are closing in on the small mountain road leading to the bunker, the headlight illuminating a bloodied figure laying on the asphalt like a road kill. The body covered by the trench coat stirs when the light shines brightly on his face.
 
 Dean jumps out of the car before it stops properly. "Cas?"
 
@@ -1546,25 +1548,61 @@ Castiel lifts his head slightly, glancing at them, saying in a hoarse voice, "A 
 
 Dean doesn't really expect to see Cas so soon after all that happened, and now he doesn't even know how to look at Cas in the eyes without hearing his whole brain shouting at him about the swear and the thing he swore on that he still believed, and the consequence of all that.
 
-Dean looks away from his face, bending down, trying to help Cas move. Only then does he see the horrifying hole in Cas's stomach, right under the ribs, the hole looks like something has been brutally poke in and drag something out, it's so deep and dark that it looks like even the organs are visible. Blood and grace leak out from the gash like this body -- Cas's body -- is just a big broken bag that can't hold the liquid in.
+Dean looks away from the angel's face, bending down, trying to help Cas move. Only then does he see the horrifying hole in Cas's stomach, right under the ribs. The hole looks like something has brutally poked in and something else got dragged out, it's so deep and dark that Dean thinks he can see all the guts just like that. Blood and grace leak out from the gash like this body -- Cas's body -- is just a big broken bag that can't hold anything in. Dean's hands tremble with fear, hovering over Cas's stomach, not daring to touch.
 
-"Oh God," Sam gasps, instinctively trying to cover Cas's wound with his trench coat, using it as a makeshift big bandage.
+"Oh God," Sam gasps, instinctively trying to cover Cas's wound with his trench coat, using it as a makeshift bandage.
 
-"Don't!" Dean catches his wrist before Sam can touch Cas's wound. "Don't touch him!" *You can hurt him.* He thinks but doesn't have time to say it. "I'll get the car closer, you stay with him. We can use the coat as a stretcher."
+"Don't!" Dean catches his wrist before Sam can touch Cas. "Don't touch him!" *You can hurt him. I can't let anyone hurt him. Not you, not me, not anyone.* He thinks unreasonably but doesn't have time to say it. "I'll get the car closer, you stay with him. We can use the coat as a stretcher."
 
-Sam retracts his hand in confusion but he doesn't argue.
+Sam retracts his hands and doesn't argue.
 
+It takes many adjustments to move the bloody angel bundle in the trench coat and transfers him to the back of the Impala.
 
+Cas doesn't moan no matter how they move him, but Dean knows how to listen -- Cas's breath will hitch and turn shallow when his body is bent wrong. Dean can't imagine how painful that wound is -- it reminds him of his own broken body when the hellhounds dragged him to Hell, he remembers his own screaming echoing in his ears.
+
+Cas's blood smudges everywhere on the leather seat.
+
+But Cas doesn't say anything or complain, just letting them handle him, but Dean pays attention now, and he notices them, every little change in his breath, every little flinch and frown, he notices them -- he wonders if he used to pay this much attention too, or it just started to happen because of what Metatron made him realize. But in any case, Dean tries really, really hard to make Cas comfortable. And he tries even harder to make sure himself is as far away to Cas as possible. Especially his lips.
+
+He rushes to the driver's seat the moment they get Cas into the back seat, flooring the car toward the bunker.
+
+They settle Cas in the farthest room at the end of the corridor to Dean's room. Dean said because this one is closer to the bathroom and the library. Cas doesn't comment.
+
+The angel curls up in bed like a baby in the womb when Dean finishes bandaging his stomach -- he has sent the shaky and uneven Sammy to bed the moment they got home, so it's just the two of them now.
+
+Dean never stops frowning at him during the whole time, the lines on his face and around his eyes stiff and tight. He bites his lips.
+
+It takes all the energy to keep his hands steady. So Dean just stares at the places his hands go, and avoids Cas's eyes. This is easier.
+
+Cas is half passing out when he's done with the first-aid stuff and tucks the cover around his body.
+
+"Dean --" Cas says weakly.
+
+"Whatever you got to say, it can wait till tomorrow," Dean says stiffly, throwing the scissor and remaining bandage and sterilizer and all the things they just used back into the kit, turning to his back.
+
+"I'm sorry," Cas pants, saying desperately behind him. "I'm really sorry."
+
+Dean pauses in his move, holding the little box tight. Oh, right, he's almost forgot what happened last time they saw each other, what this must look like to Cas. He was the bloody one being beaten to the ground by a brainwashed Cas last time, and that's before Cas decided he couldn't trust Dean with the angel tablet and flew away alone. They couldn't find him for more than a month, and he couldn't even call Cas when he freaked out to find out Sam was tricked by a freaking rogue reaper to be sent to Purgatory, and he had to kill the only other friend he'd call a brother. Cas wasn't there when he buried Benny. Cas wasn't there when he was confronted by Naomi and mocked for not putting up an angel ward against all angels. Everyday he didn't hear from Cas, he'd imagine he might be killed or brainwashed or tortured or worse. And now, finally with him back in the bunker, tucked under a nice fuzzy cover in the warm soft bed, Dean remembered, he should be angry. Right, anger is easy.
+
+"Like I said, tomorrow." Dean answers, still with his back to Cas. He can imagine the way Cas's eyes linger on his back, big and worried and apologetic, and he's afraid to see him like this. He's so scared. So he turns off the light instead, and moves toward the door. "Get some rest," he says, and closes the door.
+
+Dean presses his back to the wall next to the door for a long moment, feeling his breath broken and wet. This is so messed up. But he can't think of another way.
+
+At least Cas is still alive, and he's home, with them, that's what mattered. The rest, he'll figure it out -- alone.
+
+Dean waits until he can breathe normally again and can hear nothing from the other side of the door -- Cas must have fallen asleep then, he thinks. Only then is he able to leave the door and walk tiredly to the library.
+
+Bunker is quiet finally, Sam is asleep, Cas is asleep. Dean takes half a dozen glasses of beers and leaves them on the library desk, and he begins searching for books for removing curses and locating tablets and healing trial-sicknesses and healing angel-wounds. There are way too many things to research about to waste a night's time for sleeping, Dean decides, and it doesn't matter that it's been a crazy long day. And it's easier if he doesn't have to go to sleep and dream about either a dying Sam or a powerless Cas in his nightmares -- consequences of whatever he chooses. So he just drinks and reads, and drinks more, and reads more.
+
+<br>
+
+### Act 2
 
 
 
 <br>
 
 ### draft notes
-
-(continue: Cas's blood smudges everywhere on the leather seat)
-
-Why Dean doesn't like Sam/Cas touch: Sam's power/sick from demon tablet, Cas's sick from angel tablet, don't know what could happen
 
 
 > Dean's devastated, more repressed to keep himself away from Cas, disguises as anger toward Cas even after Cas comes back to bunker after losing angel tablet (gut open by Naomi/Crowley, not recovered as quickly as he'd wish)
@@ -1578,6 +1616,8 @@ Why Dean doesn't like Sam/Cas touch: Sam's power/sick from demon tablet, Cas's s
 > Dean refuses, Cas mistakes as Dean doesn't want them to kiss no matter what, Dean knows he misunderstand but can't correct him, more torn apart
 >
 > both self-torturing and painfully mistaken, a lot of miscommunication
+
+Why Dean doesn't like Sam/Cas touch: Sam's power/sick from demon tablet, Cas's sick from angel tablet, don't know what could happen
 
 ###### [TBC]
 
