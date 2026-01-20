@@ -1676,32 +1676,75 @@ Cas tilts his head, worried.
 
 "Dean --" Cas takes careful steps toward him.
 
-Dean lowers his eyes. "Please," he whispers, his voice quietly choking with a wet, sobbing sound. "Don't go. Something happened in Colorado. I should have let you know."
+Dean lowers his eyes. "Please," he whispers, his voice soft and choking with a wet, sobbing sound. "Don't go. Something happened in Colorado. I should have let you know."
 
-"Okay," Cas answers.
+"Okay," Cas answers quietly.
 
-"Okay," he says again. "I'm not going anywhere. What happened?"
+"Okay," he says again, sitting down at the kitchen table as he was told. "I'm not going anywhere. What happened?"
 
 <br>
 
-### Act 3
+"Sam and I were looking for the 'Messager of God', and we found him in Colorado." Dean sips his fresh coffee and starts.
 
+"Metatron?" Cas clarifies, sipping his share of coffee too.
 
+"Yeah, yeah, that's the son-of-a-bitch's name. And... he tricked me into a curse." Dean finds his courage draining fast just as he approaches the difficult part. The part that actually means something. The part that's his biggest revelation and biggest fear. And here he is, sitting opposite Cas, about to tell him. He puts both his hands around the coffee cup, letting the coffee's temperature warm his palms, but his hands are still freezing cold.
 
+"What's the spell?" Cas asks.
 
+Dean swallows and watches him, thinking, and debating, and thinking again. *This looks like a bad idea now.* He realizes. Not about letting Cas know what exactly does that swear mean, but about what he *knew* Cas would propose to do. Like Cas always do, when it comes to save him and Sam. It's unfair to hide it from Cas, but it's also unfair to sacrifice Cas for Sam, or the other way round -- he just can't let either of them do anything like that.
+
+So he decides, maybe just let Cas know the content of the spell, not the context, would be the right thing to do. *Just to protect him, to protect both of them. They'll understand.*
+
+"Metatron asked me to make a choice, basically," Dean answers, pointing at his own lips. "He cursed my lips, saying if I don't... uh, kiss you, then Sammy dies." His words stumble on the "kiss" part, but he's so glad he chokes it out. "But if I do, you'll lose your power and become a human. And if I try to remove the spell, I die. And we couldn't kill *him* -- believe me I tried and I wanted to do -- because with Kevin dead, he's the only one who knew the third trial and can read the tablets."
+
+Dean lets out a frustrated huff. "So he basically had thought about all the conditions. And I'm kinda just, stuck in the options."
+
+He flashes an uncomfortable glance at Cas, noticing how intense he's staring at him.
+
+"There, now you know why I got all messed up. Not as an excuse, but... it's killing me." Dean's lips twitch at the corners, trying to fake a smile but failed.
+
+"That's why you were reading spell books last night, trying to find a way to reverse the curse?" Cas asks quietly, putting down the cup that he just finished, pushing it away. "Does Sam know?"
+
+Dean shakes his head.
+
+Cas rolls his eyes. "How is it different from me trying to handle my problem alone then? And you scolded me so hard for? While you're doing *the exact same thing*?!"
+
+Dean almost chuckles. "Okay, yeah, I deserve this one."
+
+Cas's tone softens. "So did you find anything? Metatron said removing the spell might hurt you, but he didn't say anything about changing the spell or transferring it? Maybe there are some loopholes we can use. When it comes to magic, there are very often loopholes, as I learned from human fairy tales."
+
+Dean's shoulders sink down. "He... sorta also made sure about that. He said the spell is bound to my soul. So unless I actually change my mind, the curse stays. And..." he blushes slightly. "I know I'm not going to change my mind any time soon... Or ever."
+
+Cas frowns deeply. "This is making the case very tricky then. Only very fundamental spell and elements can be bound directly to the soul, and the stronger the soul, the more powerful the spell is. Of course we don't want to hurt you or your soul." He pauses meaningfully for a long beat, staring at Dean's hand for another long moment, before looking up to meet Dean's eyes. "Have you considered following the rule, picking the easier choice of the two?"
+
+"What?" Dean blinks.
+
+Cas's eyes slide down onto Dean's lips, then move back to lock the gaze. "I'm fine with losing my power," he says quietly, calmly. "I have lost most of my power and become near-human before, and it actually wasn't too bad. I can handle this."
+
+His eyes slide away and linger around Dean's lips again, and it seems to take some effort to shift his focus back. Cas touches his own lips with a fingertip. "If you're okay with this, I mean," he says quickly, "I'm fine, too. And this can save Sam, if Metatron didn't lie, then I consider it a bargain -- even with my power I couldn't heal Sam, so this is actually putting my power to a better use."
+
+"What? No! Absolutely not!" Dean says sharply. "I would never do that! Not to you!"
+
+"Not even to save Sam?" Cas's eyes turn so dark and sad. *You don't want to kiss me that much? That even saving Sam wouldn't be enough?*
+
+"No! Not like this!" Dean says without hesitation. *I can't hurt you like this, taking away your power is like taking the most special thing that makes you you. I would rather die than do this to you. Through a kiss or not, I can't do this.*
+
+Cas lowers his eyes, moving slowly away from the table to put the now-empty cups to the kitchen sink, having his back facing Dean. "What should we do then?"
+
+"You? Rest up and heal. Same for Sam. And I'll do some more research, hopefully I can find Metatron or Crowley or Naomi, and kick someone in the ass." Dean stands up from the table.
+
+"I'll help," Cas offers.
+
+Dean nods with a small smile. "Fine."
+
+He brushes Cas's shoulder on his way out. The sink isn't even on his way.
 
 <br>
 
 ### draft notes
 
-
-> Dean apologizes and goes soft and asks Cas to stay, confesses the curse
->
-> They agree they'll research on reversing the curse but it's lower priority than finding ways to save Sam, Cas agrees to help, but also very hesitantly express he's fine to lose his power, willing to sacrifice his power if it saves Sam, proposing them to kiss
->
-> Dean refuses, Cas mistakes as Dean doesn't want them to kiss no matter what, Dean knows he misunderstand but can't correct him, more torn apart
->
-> both self-torturing and painfully mistaken, a lot of miscommunication
+both self-torturing and painfully mistaken, a lot of miscommunication
 
 Why Dean doesn't like Sam/Cas touch: Sam's power/sick from demon tablet, Cas's sick from angel tablet, don't know what could happen
 
