@@ -1826,9 +1826,9 @@ Cas stares at the screen. "It's not for humans," he says thoughtfully.
 
 "Meaning?"
 
-"It's for those who can fly. Angels. It's a provocation." Cas says with heavy voice, deeply worried. "He's ready to trigger a war with Heaven by killing all these prophets."
+"It's for those who can fly. Angels. It's a war declaration." Cas says with heavy voice, deeply worried. "He's ready to trigger a war with Heaven by killing all these prophets in Hell's name."
 
-"He must got both tablets." Dean realizes. "You said he got the angel one from you, right? He still got the other half he snapped when you chopped it in half, and the last half was with Kevin, and now that he also got Kevin, he must have both tablets. How powerful are the tablets, really? I thought they're just like books, they don't give you like real combat power or whatever?"
+"He must got both tablets." Dean realizes. "You said he got the angel one from you, right? He still got the other half he snapped when you chopped the demon tablet in half, and the last half was with Kevin, and now that he also got Kevin, he must have both tablets. How powerful are the tablets, really? I thought they're just like books, they don't give you like real combat power or whatever?"
 
 Cas shakes his head. "They're touched by God and have his Words. They have real power. The angel tablet kept me sane and protected me from Heaven's control. The demon tablet, I imagine it must have similar protection effect or other powers for demons. With both? I wouldn't be surprised he might have enough power to trigger a war against Heaven."
 
@@ -1890,11 +1890,55 @@ Cas's eyes brighten up. "That's actually not a bad idea."
 
 Cas nods. "So Crowley and Metatron are like Godzilla and Mothra now this time."
 
-"Yep, and when you got those two on your ass, best to get out of their way and let them fight." Dean claps his hands with fresh new excitement. It seems like a good plan now, and as long as he has something to keep his mind busy with, he wouldn't have to think about things like curse or spell or lips or kiss, or Cas. Or any free combination of those. Yep, all good for now.
+"Yep, and when you got those two on your ass, best to get out of their way and let them fight." Dean claps his hands with fresh new excitement. It seems like a good plan now, and as long as he has something to keep his mind busy with, he wouldn't have to think about things like curse or spell or lips or kiss, or Cas. Or any free combination of those things in his mind. Yep, all good for now.
 
 <br>
 
 ### Act 2
+
+"Who the BLOODY HELL get this GENIUS idea of writing all those letters??!" Crowley roars from his throne. The demons lines up in silence under the stairs based on their ranks.
+
+"I said make something big AFTER I got all the tablets! AFTER! Not BEFORE! You MORONS!" He shouts from the top of his lung. None of the demons dare to move or make a sound.
+
+"Do I have the other half tablet now? NO, I DO NOT! Do you have ANY idea how much trouble you got me into?" Crowley glares at the demon standing in the front of the row, closest to his throne seat. "You!"
+
+The demon drops to his knees immediately. "Yes, Sire?"
+
+"Why are you still here? How possibly far can Kevin run and hide half a tablet? GO FIND IT! ALL OF YOU!" Crowley growls with pure rage.
+
+"Yes, your majesty!" The demons are way too eager to leave the throne room than they usually are. They disappear in black smokes, and the room vibrates with the change of energy shifting, the windows trembling, threatening to shatter
+
+Crowley doesn't notice, but the angel warding sigils on those windows are fading quickly.
+
+He is even more distracted to notice a thin layer of angelic light starts encircling the angel tablet he left under his throne, because his phone rings.
+
+"King of Hell," Crowley talks to the speaker.
+
+On the other side, two young demons stand under a sign of a Devil's depiction by the side of a remote country road. "I think we found it! The ground is newly covered, we just have to dig deeper."
+
+"I'll be right --" Crowley answers, and teleports to the site. "-- there."
+
+The two demons jump a little, pointing at the point directly under the sign. Crowley takes a second to enjoy the sign, the Devil on the picture has red eyes and burning with red flames.
+
+"Nice choice, Kevin," Crowley murmurs, glancing back down at the ground, and snaps his finger. The soil separates on their own, showing the other half demon tablet buried merely three feet under.
+
+Crowley picks it up and pats away the soil, regarding the ancient carvings and writings. He grins with a genuine smile, "Finally."
+
+Meanwhile, in his throne room, the light surrounding the hidden angel tablet grows stronger and stronger. A guarding demon outside the throne room notices the light from the edge of the door, knocking on the door uncertainly, "Your Majesty?"
+
+A second later, hesitantly, the guarding demon opens the door and peers inside.
+
+The light around the angel tablet grows the strongest and bursts out, throwing the demon fly backward. And when the light fades, the angel tablet is already not where it was.
+
+<br>
+
+Castiel isn't the only angel who notices the giant letters near the prophets' bodies are too big that they must be for the angels.
+
+Metatron sees them on the newspaper, and realizes the same thing -- Thanks to Carver Edlund, or, according to *The Monster at the End of This Book*, he should probably call him Chuck, too. So thanks to Chuck, and the very thorough details in the books, Metatron now not only knows who has what power, and where the sources are, and how to find them. For one, he knows perfectly well where Crowley hides his tablets, and that he's only half a step away from getting both altogether.
+
+Metatron vaguely remembers God has mentioned to him once, long time ago, that once the Words are done, the tablets would serve as a container of the Words' power. Just like Yin and Yang, Heaven and Hell, light and darkness, tablets also have their attributes. And more specifically, the angel tablet and demon tablet are exactly the matching pieces. Whoever have both of them could unleash unimaginable amount of power, that's why they should always be kept separately, and making sure no angel should own the angel tablet, and no demon should own the demon tablet, to ensure the balance of the universe.
+
+
 
 
 
@@ -1903,15 +1947,13 @@ Cas nods. "So Crowley and Metatron are like Godzilla and Mothra now this time."
 ### draft notes
 
 
-> because none of the prophets cooperate
->
-> Crowley sends out demons to look for the other half demon tablet, and is very close to get it (demons already find it, just need to dig it out to give him), which makes him about to be in possession of both angel tablet and demon tablet, which makes Metatron start to concern.
->
 > Metatron believes Crowley becomes a threat, seeks out angel tablet, steals it from Crowley (he can wipe off the angel protection sigils as his scribe's power), starting Heaven trials/that casting spell to lock Heaven up for his own safety to prevent Crowley to come. He starts the first two steps by himself (kill Nephilim, get Cubit's bow/arrow), but realizes he'll need Cas's grace to complete the spell (grace of the angel who falls for human), so he really needs the curse to work quickly.
 >
 > Metatron has been watching Dean/Cas's progress (similar to canon Chuck storyline as a writer enjoying the story), is annoyed by Dean/Cas's slow pace, decides to push them farther, so he drowns Dean, forcing Cas to make the move. Cas is forced to make the choice, he chooses to kiss Dean under water to help him breathe to save him. The curse is triggered, Cas loses his power to Metatron, becomes human. (One Visual element from here)
 >
 > Dean wakes up, more guilty and furious, yells at Cas "What have you done", finds Cas human now, blames himself to cause Cas to be human, distancing himself from Cas even more. Cas is more hurt, believing Dean is offended by the kiss and doesn't think he's useful now that he's human, tries to prove himself to Dean.
+
+the rogue demon is Delta Mendota, sixty years after work with Crowley
 
 Both Dean/Cas more aching/pining, they turn to focus on bring Metatron/Crowley down
 
