@@ -1235,7 +1235,7 @@ He would make it a better story.
 
 "Why are you even taking these weird anthropology classes in *Stanford*? Dude, I mean, it's Stanford! They gotta have more interesting classes or something." Dean walks into the only hotel in the Colorado town in the middle of mountains, still bickering with Sam.
 
-"Anthropology *is* an interesting class, and they have the best --" Sam counters, but whatever he got to say, it's disrupted by something he senses the moment they enter the hotel lobby. His hands reach up to hold his head, trying vainly to make the sudden rising pain to ease.
+"Anthropology *is* an interesting class, and they have the best --" Sam counters, but whatever he got to say, it's disrupted by something he senses the moment they enter the hotel lobby. His hands reach up to hold his head, trying vainly to make the sudden migraine to ease.
 
 "Did you hear that?" he squeezes his eyes and raises his voice, unsure if his voice can override the loud ringing tone in their surrounding.
 
@@ -1247,7 +1247,7 @@ Sam covers his ears with his palms, but it does no help. His body shakes unstead
 
 They start walking past the front desk and moving down the long carpeted corridor.
 
-Sam's steps stumble even worse the minute they get to the area with an arrow sign pointing to the rooms. Dean has to hold all his weight from the shoulder, like supporting a drunk man.
+Sam's steps stumble even worse the minute they get to the area with an arrow sign pointing to the rooms. Dean has to hold all his weight around the shoulders, like supporting a drunk man.
 
 "I -- I think it's like angel radio. The first two trials, they must've somehow changed my neuro setting or something, tuning me to the angel radio." Sam mumbles, giving up on covering his ears. His legs are as useless as jelly now, Dean has to practically haul him through the corridor.
 
@@ -1261,55 +1261,55 @@ By the fifth locked door, Dean loses his patience. "Why don't you just hang in t
 
 "I can't... but that's not the point, or maybe, it is. I mean --" Sam shakes his head hard, as if this could help him to focus.
 
-"You're not making any sense." Dean tries to reach for his lock-picking tools in his inner pocket.
+"You're not making any sense." Dean tries to reach for his lock-picking tools in his inner pocket, but Sam's elbow is blocking his way.
 
 "I mean I'm like a Metatron-EMF right now," Sam is finally focused enough to remember why they're here or what they're searching for. "The closer we get, the louder my head beeps, I think."
 
-Dean stares at him. "Huh," he considers. "That's... sort of convenient."
+Dean pauses to stare at him. "Huh," he considers. "That's... sort of convenient."
 
 Sam huffs a short laugh. "Yeah, I just hope my brain won't explode or anything once we're close enough."
 
 "Right," Dean pockets his tools again and shifts to help Sam rebalance and start moving again. "Fingers crossed."
 
-"We're in the right direction," Sam points at the end of the corridor, where a small window leaves a patch of light on the floor. "It's getting louder." He gestures to his head.
+"We're in the right direction," Sam points at the end of the corridor, where a small window leaves a patch of light on the floor. "It's getting louder." He gestures to his head then.
 
-"Why don't you stay here and I check it out?" Dean suggests. "I can come back pick you up if I find anyone or anyone there. What do you say?"
+"Why don't you stay here and I check it out?" Dean suggests. "I can come back to pick you up if I find anything or anyone there. What do you say?"
 
 Sam doesn't let go of Dean's arm around his waist. "You'll need back up. Metatron is an angel, and you and me both know the only angel we can trust is Cas. You'll need me."
 
-"Only if you don't pass out when we get there." Dean half-heartedly comments, leading them to the end of the corridor.
+"Only if you don't pass out when we get there." Dean half-heartedly comments but doesn't argue. They reach the end of the corridor.
 
-The corridor is a dead end with one room on each side. The carpet in front of the door on the right side is flattened, like it has been holding heavy weight items with rectangular flat base.
+The corridor is a dead end with one room on each side. The carpet in front of the door on the right side is flattened, like it has been holding heavy weight items with rectangular flat base for long time and only recently cleared.
 
-Dean tilts his head toward the door on the right side, whispering, "I bet this one." And Sam nods in agreement.
+Dean tilts his head toward the door on the right side, whispering, "I bet on this one." Sam nods in agreement.
 
-Dean adjusts his hold to be around his shoulder and tries the door knob with his right hand.
+Dean adjusts his hold around Sam's shoulders to free his right hand, and tries the door knob.
 
-The door opens easily, leading to the probably the most crowded home library room Dean's ever seen, and that's taking into consideration Sam's room with all the bunker books he moved into.
+The door opens easily, leading to the probably the most crowded and unorganized home library room Dean's ever seen, and that's taking into consideration Sam's room with all the bunker books he moved into.
 
-He hears the sound of a rifle's safety bolt setting off before he sees the chunky man in layered wool sweater jacket. The rifle is pointed right to his chest. Dean's finger has to pause in its way to the back of his belt for his gun.
+He hears the sound of a rifle's safety bolt setting off before he sees the chunky man in layered wool sweater jacket. The rifle is pointed right to his chest. Dean's finger has to pause on its way to the back of his belt for his gun. "Crap," he murmurs.
 
 "Who are you?" the man demands, staring at them back and forth. His rifle is steadily aiming at Dean, decidedly considering Dean the biggest threat in the room.
 
 Dean puts up his right hand in the universal surrender gesture, just in case. "Metatron?" he tries.
 
-The man looks nothing like any black-suit angel they ran into before, more like someone's old uncle of their third cousin, living alone for his entire life and never leaves his apartment. He doesn't react to the name, only observing Dean's face more alarmingly.
+The man looks nothing like any black-suit angel they ran into before, more like someone's unwelcoming old uncle of their third cousin twice removed, living alone for his entire life and never leaves his apartment. He doesn't react to the name, only observing Dean's face more alarmingly.
 
 "You're Metatron?" Dean can't help but wants to laugh. *Seriously? This guy?* He turns to Sam to look for some confirmation, "This is Metatron?"
 
-Sam is frowning deeper than before, nearly having both his eyes shut tight now, covering both his ears with his hands. "I can't hear you," he shouts back at Dean as if they're standing a football court's distance away.
+Sam is frowning deeper than before, nearly having both his eyes shut tight now, covering both his ears with his hands again. "I can't hear you," he shouts back at Dean as if they're standing a football court's distance away.
 
-"I go by Marv these days," the man answers, not admitting or denying, but it makes no difference.
+"I go by Marv these days," the man answers, not really admitting or denying, but it's already a give-away.
 
-"Marv, Metatron, hmm, close enough -- so you *are* Metatron," Dean says, slightly relieved. "Listen, we just want to talk --"
+"Marv, Metatron, is it just me or it sounds just about the same? Tip from pros, you'd probably want to make fake names as different from your real name as possible to not get caught -- trust me, I know. So you *are* Metatron," Dean says, slightly relieved. "Listen, we just want to talk --"
 
-"Sit down." Metatron waves his rifle, and in the blink of an eye, he moves out of the room, standing behind them. At the back of the room, surrounded by tons of books are two small armchairs.
+"Sit down." Metatron simply waves his rifle, and in the blink of an eye, he disappears and reappears out of the room, standing behind them. He nods at the back of the room, where, surrounded by tons of books are two small armchairs.
 
-Dean doesn't even bother to try to avoid stepping on the books -- they're just everywhere. He helps Sam to take the closest chair and takes one himself.
+Dean doesn't even bother to try to avoid stepping on the books as they walk inside -- the books are everywhere. He helps Sam to take the closest chair and takes one himself.
 
 Clapping his hands, he looks up at the man again, managing a forced smile. "Right, now we can talk --"
 
-But Metatron doesn't give him a chance to start. "Who sent you?"
+But Metatron doesn't give him a chance to take over control. "Who sent you?"
 
 "No one, we came on our own." Sam half-shouts back, leaning into the back of the armchair, as far away from Metatron as he can get, even just a few inches. "We're the Winchesters."
 
@@ -1319,21 +1319,21 @@ But Metatron doesn't give him a chance to start. "Who sent you?"
 
 "Oh great, you heard of us. That makes it easier." Dean relaxes a little.
 
-"You're the characters from that terrible book series, *Supernatural*." Metatron waves the rifle at the book pile on the ground next to the Dean side of the chair.
+"You're the characters from that terrible book series, *Supernatural*." Metatron waves the rifle at the book pile on the ground next to the Dean's side of the chair.
 
-Dean glances in that direction and moans quietly inside. There are some terrible cheesy art of two maybe three figures on the book cover, looking nothing like him and Sam, but unmistakably, those are exactly Carver Edlund's books. *Not this again.*
+Dean glances in that direction and moans quietly inside. There are some terrible cheesy art of two maybe three figures on the book cover, looking nothing like him and Sam, but unmistakably, those are exactly Carver Edlund's books. *Not this again.* He thinks.
 
 "You're not real," Metatron shifts his look between the books and the brothers. "You're just dumbass characters."
 
-Dean is offended. "Dude, first, we're not dumb, and second, we're very much real and alive and *not* characters. We have this sorted out with Chuck ages ago, son of a bitch agreed to stop writing four years ago!"
+Dean is offended. "Dude, first of all, we're not dumb, and second, we're very much real and alive and *not* characters. We have this sorted out with Chuck ages ago, son of a bitch agreed to stop writing four years ago!"
 
-"Well, as far as I can tell, the latest one my people found was from last week, Sam and Dean hang out with the Charlie girl to handle a djinn." Metatron says.
+"Well, as far as I can tell, the latest one my people found was from last week, Sam and Dean hang out with the Charlie girl to handle a djinn." Metatron breaks their bubble of hope.
 
 Sam and Dean share a pissed look.
 
-"Dammit, that's last week alright," Dean curses. "I'll call Chuck after this."
+"Dammit, that's last week alright," Dean curses. "I'll call Chuck after this and kick him in the ass."
 
-"So you really are... real?" Metatron studies them, lowering his rifle now.
+"So you really are... real?" Metatron studies them with more interest, lowering his rifle now.
 
 "Flesh and blood," Dean nods heavily. "Now can we talk about the tablet thing now?"
 
@@ -1349,43 +1349,43 @@ Dean rolls his eyes. "Yes, and yes. And Crowley, too. And Bobby, too. Any more b
 
 "I see." Metatron smiles greasily. "You want my help."
 
-Dean rolls his eyes. He hates this part. This is the part when people would realize the value of their information and everything and start asking for deals. But they don't have any other options.
+Dean rolls his eyes. He hates this part. This is the part when people -- usually and especially dicks -- would realize the value of their information and everything and start asking for deals. But they don't have any other options.
 
 "Yes, Metatron, we thought you, as an angel, might be interested in shoving the demons back to Hell," Dean puts on his negotiation mask.
 
-"Not really," Metatron says, not even bothering to pretend considering.
+"Not really interested," Metatron says, not even bothering to pretend considering.
 
-"I beg you pardon?" Dean is starting to get frustrated. And by the look of Sam's swinging, Metatron also doesn't care the slightest to help releasing his condition.
+"I beg you pardon?" Dean is starting to get frustrated. And by the look of Sam's swinging, Metatron also doesn't care the slightest to help relieving his condition.
 
-"I mean, if the books are real, like you just proved, it means Michael and Lucifer were locked in the Cage, Raphael and Gabriel were dead, God was MIA, angels are minding their own business, demons are led by a self-proclaimed king. So all in all, everything is in the right place, I don't see why I need to put my finger in the dirty water. I'm quite comfortable where I am, reading the stories."
+"I mean, if the books are real, like you just proved, it means Michael and Lucifer were locked in the Cage, Raphael and Gabriel were dead, God was MIA, angels are minding their own business, and demons are led by a self-proclaimed king. So all in all, everything is in the right place, I don't see why I need to put my finger in the dirty water. I'm quite comfortable where I am, reading the stories."
 
 "Reading the stories," Dean's anger is simmering. "That's all you do, all day every day since the dawn of time?"
 
-"You have any idea how many stories there are in the human history? Countless! I mean literally, I can not count all of them, let alone finishing reading them all! Just reading your guys took my about a week, which is, mind you, a waste of my time in my humble opinion, but some of them still manage to be more or less entertaining, so I'll tolerate them. Except I'm sure I can write them so much better --" Metatron waves his hands, gesturing at the books excitedly. "-- that reminds me, now that I can actually talk to you guys, I can actually start writing my own version."
+"You have any idea how many stories there are in the human history? Countless! I mean literally, I cannot count all of them, let alone finishing reading them all! Just reading your guys took my about a week, which is, mind you, a waste of my time in my humble opinion, but some of them still manage to be more or less entertaining, so I'll tolerate them. Except I'm sure I can write them so much better --" Metatron waves his hands, gesturing at the books excitedly. "-- and that reminds me, now that I can actually talk to you guys, I can actually start writing my own version."
 
 Dean snaps up from the armchair with fury, angel blade in his right hand. "You piece of garbage, if you think we are like your ordinary book characters, and you can manipulate and control us, then you are the biggest idiot in the universe. Ask Fate and destiny and God's plan, ask them who we are -- you read the book, you should know."
 
-Metatron simply smiles, unaffected by his lash. He flips a finger, and Dean is forced to sit back down in the chair, and when he turns to check on Sam, he finds Sam's eyes closed and breathing shallowly. His hands slip to his knees.
+Metatron simply smiles, unaffected by his lash. He flips a finger, and Dean is forced to sit back down in the chair, and Sam makes a thumping noise, crashing limply in the seat. Dean turns to check on Sam with huge startle, finding Sam's eyes closed, his breath shallow, his arms falling onto his knees.
 
-"Don't worry, he's just sleeping. I'm not that interested of him. I'm interested in you," Metatron gives him another one of his greasy smiles.
+"Don't worry, he's just sleeping. I'm not that interested in him. I'm interested in you," Metatron gives Dean another one of his greasy smiles.
 
-"Great, a freaking fan *and* a perv." Dean holds the angel blade tighter, but finds himself not able to move. It seems Metatron must have used some angel magic to constrain him to the chair. He curses silently.
+"Great, a freaking fan *and* a perv." Dean holds the angel blade tighter, but finds himself not able to move. It seems Metatron must have used some angel magic to constrain him to the chair. He curses in his mind hard again.
 
 "Dean, Dean, Dean, always so pessimistic, how do you know I won't help?" Metatron starts pacing, stroking his patchy grey beard in a pondering posture.
 
 "Alright then, will you?" Dean asks gruffly.
 
-"Of course, Dean. I wasn't satisfied with the books, but it doesn't mean I wasn't interested in some very particular story line." Metatron stops pacing, leaning disgustingly close to Dean, looking in his eyes in the same level. "Let me ask you something, do you still believe in love?"
+"Of course, Dean. I wasn't satisfied with the books, but it doesn't mean I wasn't interested in some very particular story line." Metatron stops pacing, leaning disgustingly close to Dean, looking in his eyes in the same level. "How about this, I ask you a question, and if you got it right, I give you what you want. Here's the question: do you still believe in love, Dean?"
 
 Dean rolls his eyes. "What sort of question is that? What does it have to do with anything? Yes? I don't know. No?"
 
-"This is serious, Dean," Metatron drops his smile, actually looking quite serious. "This matters, and you'll see. Think before answer, do you?"
+"This is serious, Dean," Metatron drops his smile, actually looking quite serious. "This matters, and you'll see. Think before answer, will you?"
 
-Dean is taken aback slightly, and thinks about the question that never really occurred to him. It's just... to chick-flick, isn't it? And what's the problem with the word "still"? As if Metatron is so sure that he used to believe but not anymore. Or, did he?
+Dean is taken aback slightly, and actually starts thinking about the question that has never really occurred to him. It's just... too chick-flick, isn't it? And what's the problem with the word "still"? As if Metatron is so sure that he used to believe but not anymore. Or, did he?
 
-Dean thinks for a long time, his thoughts wandering around Sam, and Cas, and Bobby, and his friends and people he knew. He tries to think of some examples to support a yes-or-no argument, it's like trying to solve the most difficult but ambiguous math problem that he is even quite sure what the question is about.
+Dean thinks for a long time, his thoughts wandering around Sam, and Cas, and Bobby, and his friends and people he knew. He tries to think of some examples to support a yes-or-no argument, it's like trying to solve the most difficult but ambiguous math problem that he isn't even quite sure what the question is about. Love isn't his expertise.
 
-Then he thinks back about Metatron. There must be a reason why Metatron asked this, right? Metatron loves reading good stories, then surely answering "yes" would satisfy his weirdass interest and possibly pleased enough to help them?
+Then he thinks back about Metatron, thinking about what the angel might want or want to achieve here -- this line of thought is so much easier, hunting and eliciting monsters' motivations, that's his expertise. There must be a reason why Metatron asked this, right? Metatron loves reading good stories, then surely answering "yes" would satisfy his weirdass interest and possibly pleased enough to help them?
 
 Dean feels proud for his train of thoughts and feels sure that this must be where the situation is leading to. He feels in control again.
 
@@ -1393,11 +1393,11 @@ Dean feels proud for his train of thoughts and feels sure that this must be wher
 
 "Then I want you to swear on it. Swear on the name of the person you love the most to prove it, and *then*, we can talk about boring things like tablet and everything else." Metatron uses a rather coaxing tone.
 
-Dean rolls his eyes for the hundredth time after he comes into this room, but he says it as he's required. "I swear on Sam's name. Done."
+Dean rolls his eyes for the hundredth time after he comes into this room. *This is just ridiculous.* But he says it anyway as he's required -- It's just words anyway, what can he lose? "I swear on Sam's name. Done."
 
-Metatron shakes his head disapprovingly. "Don't lie to me. More importantly, don't lie to yourself. Sam's your brother, he's your responsibility. That's not the love I'm asking. Think again. It's a swear, so no lying, no tricking."
+Metatron shakes his head disapprovingly. "Don't lie to me, Dean. More importantly, don't lie to yourself. Sam's your brother, he's your responsibility. That's not the love I'm asking. Think again. It's a swear, so no lying, no tricking. I asked for a real, true-hearted answer -- no truth, no help. Do you want to shut the Hell gate and heal your brother or not?"
 
-Dean glares at him. Who is he to tell him who he *loves*? Who is he to call him a liar like he can read his mind? Oh wait, maybe he can, dammit, and Metatron has read all their old books, meaning he probably does know all the ins and outs of everything.
+Dean glares at Metatron. Who is he to tell him who he *loves*? Who is he to call him a liar like he can read his mind? Oh wait, maybe he can, dammit, and Metatron has read all their life story up until last week, meaning he probably does know all the ins and outs of everything, including those thoughts at the back of their heads.
 
 Dean curses Chuck again quietly in his mind, and thinks again.
 
@@ -1405,17 +1405,21 @@ Metatron looks at him, wiggling his eyebrows, looking expectant.
 
 *Not the love I'm asking.* That's Metatron's words.
 
-Dean has a feeling where this is leading to, and just to think about that, he already feels as if his flesh is trying to crawl out of his skin, like when he was tortured and skinned in Hell. But now he feels like he'd rather stay in Hell for forty more years than thinking about that question, thinking about that... angel.
+Dean has a feeling where this is leading to, and just to think about that, he already feels as if his flesh is trying to crawl out of his skin, like when he was tortured and skinned in Hell. But now he feels like he'd rather stay in Hell for forty more years than thinking about that question, thinking about the answer to that question -- *Do you still believe in love, Dean?* -- thinking about that... angel, admitting the thing he doesn't want to acknowledge is there for so, so long. *Swear it on the name of the person you love the most. Prove it.*
 
 There really is only one answer.
 
-"Got your answer, Dean?" Metatron watches the look on Dean's face shift.
+"Got your answer, Dean?" Metatron watches the look on Dean's face with great interest.
 
-Dean glances at him, feeling his face burning up. He has a bad feeling about this, but somehow, just thinking that answer, it flutters his stomach, like the chick-flick movies sometimes would say, that weird expression of saying butterflies in the stomach. He never believed it, but it seems to hold certain level of truth.
+Dean glances at him, feeling his own face burning up. He has a bad feeling about this, but somehow, just thinking that answer, it flutters his stomach, like the chick-flick movies sometimes would say, that weird expression of having butterflies in the stomach. He never believed it, but it seems to hold certain level of truth.
+
+His gut twists and turns as he flips that thought round and round in his mind.
+
+*Do you want to save the world? Do you want to heal Sam?* He asks himself quietly. *Just say it then. It's true anyway, what can you lose just by admitting it?*
 
 "I swear on Castiel's name," Dean says quietly.
 
-He knows this is the right answer immediately. Like casting a spell, as if he just somehow completed reciting the magic words, there is instantly a heated sensation passing through his lips. Startlingly glancing down, he sees a faint silver light glinting around his lips, and receding slowly as he watches.
+He knows this is the right answer immediately. Like casting a spell, as if he just somehow completed reciting the last verse of some magic words, there is instantly a heated sensation passing through his lips, spreading from corner of his lips to the center, heating up both his upper and lower lip. Startlingly glancing down, he sees a faint silver light glinting around his lips, and receding slowly as he watches.
 
 He touches his lips instantly, but nothing out of normal that he can find.
 
@@ -1425,15 +1429,15 @@ Dean realizes he can move again, jumping up from the chair, and pointing his gun
 
 "How?!" Dean snaps. "That's a curse, isn't it? I know a curse when I see one. What did you do to me?"
 
-"Nothing," Metatron flats his palms in an innocent gesture. "You did it yourself, remember? You swore on the angel's name. So, here's the deal: Sam is dying, as we all know. So if you don't kiss Castiel, Sam dies -- But here's the twist. If you do, Castiel loses his power and becomes a human. So what's it gonna be, Dean?"
+"Nothing," Metatron flats his palms in an innocent gesture. "You did it yourself, remember? You swore on the angel's name. So, here's the deal: Sam is dying, as we all know. So if you don't kiss Castiel, Sam dies -- But here's the twist: If you do, Castiel loses his power and becomes a human. So what's it gonna be, Dean?"
 
 Dean strides toward Metatron with murderous look in his eyes. "I can kill you. Kill the spell caster, stop the curse, and we'll find another way."
 
-Metatron takes three steps back hastily as Dean takes three steps forward. "Oh, no, that's not an option. Here's the other special thing about this spell, it can't be reversed or interfered by any external force. It's linked to your soul -- because, again, don't forget I didn't make you say that, you said it yourself, and it's true and real and we both know it. That's what makes it so strong. So if you even tries to tackle with it, then you die. And if I were you, I'd be careful about killing me, unless you don't want to know about the tablet and the third trial anymore? Remember you lost your prophet? I'm your only hope now."
+Metatron takes three steps back hastily as Dean takes three steps forward. "Oh, no, that's not an option. Here's the other important thing about this spell, it can't be reversed or interfered by any external force. It's linked to your soul -- because, again, don't forget I didn't make you say that, you said it yourself, and it's true and real and we both know it. That's what makes it so strong. So if you even tries to tackle with it, then you die. And if I were you, I'd be careful about killing me, unless you don't want to know about the tablet and the third trial anymore? Or did you forget you lost your prophet? Yeah, I think so, too."
 
-Dean lowers his weapons. The goddamned Metatron has thought about everything. And he'll need some more brain power to get himself out of this mess, but Sam is angel-hypnosed and Cas is god-knows-where.
+Dean lowers his weapons. The goddamned Metatron has thought about everything. And he'll need some more brain power -- or alcohol -- to really think about what has just happened. Meanwhile, Sam is angel-hypnosed and Cas is god-knows-where, and even if they *were* here, it's not really their choice to make, isn't it? Dean is a-thousand-percent sure that both of them would just ask Dean to save the other, so at the end of the day, the choice is still Dean's, and Dean's alone.
 
-"I'll still kill you, goddammit! We'll find the next prophet in line!" Dean growls, throwing the angel blade toward the hateful face of the angel.
+"I'll still kill you, goddammit! We'll find the next prophet in line!" Dean growls, throwing the angel blade toward the darned face of the angel.
 
 Metatron gives a small wave of his hand before the blade touches his forehead.
 
@@ -1441,27 +1445,35 @@ Metatron gives a small wave of his hand before the blade touches his forehead.
 
 The blade stabs on the door at the opposite side of the corridor, making a dull sound of wood chapping.
 
-"Dammit!" Dean kicks the pile of books closest to him, sending them flying. The room and the entire hotel falls silent once the last book finished sliding down the newly formed book mountain at his feet. Dean is still furious, and now on top of that, he's making it more difficult for him and Sam to get out of the room without tripping.
+"Dammit!" Dean kicks the pile of books closest to him, sending them flying. The room and the entire hotel falls silent again, once the last book finished sliding down the newly formed book mountain at his feet. Dean is still furious, and now on top of that, he's making it more difficult for him and Sam to get out of the room without tripping.
 
-He sinks back to the empty armchair with resignation, takes out his phone, fingers hovering on a certain name but doesn't press. He just sits there, waiting for the screen to dim down and turn off on its own, waiting for Sam to wake up, waiting for a solution to present itself.
+He sinks back into the empty armchair with resignation, takes out his phone. His fingers hover on a certain name but he doesn't press. He just sits there, waiting for the screen to dim down and turn off on its own, waiting for Sam to wake up, waiting for a solution to present itself.
+
+He touches his lips, and thinks about those on the one who he just admitted to love the most. There is just no happy ending for him, for them, he should have known.
 
 <br>
 
-Meanwhile, deep down in Hell, Crowley just came back from a certain Biggerson's diner with a handful of fresh angel gut and blood, and a nice, new, equally bloody angel tablet, when Kevin grins with a winning gloat for trapping the demons and enjoying his real steak take-out.
+Meanwhile, deep down in Hell, Crowley just came back from a certain Biggerson's diner in New Mexico with a handful of fresh angel gut and blood, and a nice, new, equally bloody angel tablet, when Kevin grins with a winning gloat for trapping his demon actors and enjoying his real steak take-out.
 
-Crowley loses his patience. No one plays him like this annoying pre-college kid, Kevin has to go. It's not like he can't find another prophet down the line to crack a deal anyway -- he already had the name list, he even already had them in the same room once, it wouldn't be a problem to do it again.
+Crowley loses his patience. It's supposed to be a perfect day for him. No one plays him like this annoying pre-college kid, Kevin has to go. It's not like he can't find another prophet down the line to crack a deal anyway -- he already had the name list, he even already had them all in the same room once. The Winchesters rescued them, sure, whatever -- it wouldn't be a problem to do it again. And even better, the Winchesters wouldn't be able to save Kevin, and it would hurt them so, so much.
+
+Crowley smiles to himself at the thought how much this would hurt those increasingly annoying hunters lately. They killed his hellhound! They stole Bobby Singer's soul! Who is going to submit to him as a King if he doesn't strike back with something?
 
 Crowley slams Kevin to the wall and strangles him. "I don't need you," he tells him, one word at a time.
 
-Kevin struggles and kicks, but soon, his arms and legs limp. Crowley snaps his neck just to be sure, just like he did to Kevin's high school sweetheart.
+Kevin struggles and kicks, but soon, his arms and legs limp. Not even an angel can snap him out of Crowley's grasp now.
 
-The demon drops his body to the floor, looking down at his thin figure for a second.
+The prophet stops breathing.
 
-"It's a pity," Crowley tuts, "I'm starting to like you, but you didn't give me a chance."
+Crowley snaps his neck just to be sure, just like he did to Kevin's high school sweetheart.
 
-He claps his hands then, calling his demons over and sending them out. How difficult would it be to find half a demon tablet that Kevin hid in this part of the country when he was escaping and hiding? He has dug the demon tablet out of the Earth once before, he can do it again.
+The demon drops Kevin's body to the floor, looking down at his thin figure for a second in silence.
 
-Crowley sits back in his throne chair, petting the one angel table and half the demon tablet he has, murmuring, "One point five done, zero point five to go."
+"It's a pity, Kevin," Crowley tuts, thinking back. "I'm starting to like you, really, but you didn't give me a chance."
+
+He claps his hands then, calling his demons over and sending them out on the pursuit task. How difficult would it be to find half a demon tablet that a freaked-out kid hid in this part of the country when he was escaping and hiding and not even having much of a tool to bury things properly? He has dug the demon tablet out of Earth once before, he can do it again.
+
+Crowley sits back in his throne chair, petting the one angel table and half the demon tablet he has, murmuring as if singing lullaby to the stone babies, "One point five done, zero point five to go."
 
 <br>
 
@@ -1538,7 +1550,9 @@ Dean looks away from his face, bending down, trying to help Cas move. Only then 
 
 "Oh God," Sam gasps, instinctively trying to cover Cas's wound with his trench coat, using it as a makeshift big bandage.
 
-"Don't!" Dean catches his wrist before Sam can touch Cas's wound. "Don't touch him!" *You can hurt him.* He thinks but doesn't have time to say it. "We'll need a stretcher."
+"Don't!" Dean catches his wrist before Sam can touch Cas's wound. "Don't touch him!" *You can hurt him.* He thinks but doesn't have time to say it. "I'll get the car closer, you stay with him. We can use the coat as a stretcher."
+
+Sam retracts his hand in confusion but he doesn't argue.
 
 
 
@@ -1547,6 +1561,8 @@ Dean looks away from his face, bending down, trying to help Cas move. Only then 
 <br>
 
 ### draft notes
+
+(continue: Cas's blood smudges everywhere on the leather seat)
 
 Why Dean doesn't like Sam/Cas touch: Sam's power/sick from demon tablet, Cas's sick from angel tablet, don't know what could happen
 
