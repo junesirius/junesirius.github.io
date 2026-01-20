@@ -1582,7 +1582,7 @@ Cas is half passing out when he's done with the first-aid stuff and tucks the co
 
 "I'm sorry," Cas pants, saying desperately behind him. "I'm really sorry."
 
-Dean pauses in his move, holding the little box tight. Oh, right, he's almost forgot what happened last time they saw each other, what this must look like to Cas. He was the bloody one being beaten to the ground by a brainwashed Cas last time, and that's before Cas decided he couldn't trust Dean with the angel tablet and flew away alone. They couldn't find him for more than a month, and he couldn't even call Cas when he freaked out to find out Sam was tricked by a freaking rogue reaper to be sent to Purgatory, and he had to kill the only other friend he'd call a brother. Cas wasn't there when he buried Benny. Cas wasn't there when he was confronted by Naomi and mocked for not putting up an angel ward against all angels. Everyday he didn't hear from Cas, he'd imagine he might be killed or brainwashed or tortured or worse. And now, finally with him back in the bunker, tucked under a nice fuzzy cover in the warm soft bed, Dean remembered, he should be angry. Right, anger is easy.
+Dean pauses in his move, holding the little box tight. Oh, right, he's almost forgot what happened last time they saw each other, what this must look like to Cas. He was the bloody one being beaten to the ground by a brainwashed Cas last time, and that's before Cas decided he couldn't trust Dean with the angel tablet and flew away alone. They couldn't find him for more than a month, and he couldn't even call Cas when he freaked out to find out Sam was tricked by a freaking rogue reaper to be sent to Purgatory, and he had to kill the only other friend he'd call a brother. Cas wasn't there when he buried Benny. Cas wasn't there when he was confronted by Naomi and mocked for not putting up an angel ward against all angels. Everyday he didn't hear from Cas, he'd imagine he might be killed or brainwashed or tortured or worse. And now, finally with him back in the bunker, tucked under a nice fuzzy cover in the warm soft bed, Dean remembers, he should be pissed. Right, feeling pissed, this is easy -- *easier*.
 
 "Like I said, tomorrow." Dean answers, still with his back to Cas. He can imagine the way Cas's eyes linger on his back, big and worried and apologetic, and he's afraid to see him like this. He's so scared. So he turns off the light instead, and moves toward the door. "Get some rest," he says, and closes the door.
 
@@ -1598,6 +1598,96 @@ Bunker is quiet finally, Sam is asleep, Cas is asleep. Dean takes half a dozen g
 
 ### Act 2
 
+Dean is startled when he senses a hand on his right shoulder. His right hand reflexively reaches under his pillow, trying to grab his pistol. But he can't find the pistol. And then he realizes he doesn't have a pillow.
+
+"Dean," Cas's voice says softly next to him. "You need to lie down."
+
+Dean opens his eyes, finding his left arm numb under his head's weight. He's fallen asleep half-way reading a spell book. Half a dozen empty bottles scatter on the desk around him. Cas watches him with worried eyes.
+
+"You need to rest," Cas says again, taking his hand back. "I'm sorry to wake you, but this is bad for your spine."
+
+Dean scoffs a laugh, stretch his arms. "Now you worry about my spine? What about when you kicked me around and beat me up? Is that supposed to, what, help my spine to work out?"
+
+He heads straight to the coffee maker in the kitchen then, not wanting to see the way Cas lowers his head and looks at the floor, all guilty and ashamed. But why does he already see that in his mind's eyes?
+
+"I'm sorry," Cas says again, following him into the kitchen like a stray cat.
+
+At least Cas can walk straight again, Dean can't help noticing it in the peripheral of his eyes, as he busies himself with coffee making. Which means the angel healing is still okay, which means Cas's power is still okay. He seems to still bend a little, holding his stomach with his arms, so that hole must still be there troubling him, but it's already so much better than when they found him. Dean breathes out with a slightly easier breath than the night before, focuses on pouring the water and coffee beans into the coffee machine.
+
+When the coffee maker rumbles to work, Dean turns back, leaning on the counter, regarding Cas with frowning eyes. "You say that a lot lately, you notice that?" he says.
+
+Cas glances at him uneasily, leaning his weight on the side of the fridge. The bandage has been soaked with blood, Dean is distracted briefly by the new notice. He should probably help him get a new one soon.
+
+"Yes." Cas mumbles, and immediately says it again. "I'm sorry."
+
+"For what?" Dean crosses his arms, bracing himself. "What happened?"
+
+"Naomi and the angels found me and trapped me. And Crowley... found the tablet." Cas answers concisely, giving a vague gesture around his bleeding gut.
+
+Dean tries not to think how Cas has managed to stuff the entire rock into his gut in the first place. He's an angel, true, so the physiology might be slightly different from normal human, but his body is still a human body. It gotta hurts like fuck. Dean grimaces in the imagined empathized pain.
+
+But what comes out of his mouth is: "Why didn't you come to us?! To me?! Goddammit, Cas! You have dick angels *and* demons on your tails! Just like back then! Remember? Raphael and Crowley? Or did you just think you can beat them all by yourself? That you don't need us? We are just petty little humans who can't do anything, is that it? Are we not family? Cas, what are we to you?"
+
+Fury burns fast, especially with a rough night of lack of sleep and probably a little too much alcohol, it burns through his head in the blink of an eye like how forest fire burns the forest in California every spring. Dean raises his voice, snapping louder and faster. The more he thinks about it, the angrier he feels. The rage flashes through his whole body.
+
+Cas doesn't answer, just looking at him with sad eyes.
+
+"Why did you even come back then? If you think we're so useless and can't help? If you don't even *trust* us? Why do you even come to the way you *knew* Impala would pass then?" Dean's voice shakes, so does his body.
+
+"I'm sorry --" Cas answers with croaked voice. Pained and as shaky as Dean.
+
+"Stop saying you're sorry!" Dean yells at him, devastated.
+
+Cas shuts his mouth sharply, glancing behind him.
+
+Dean remembers for a second maybe his voice is too loud that he'd wake Sam. He listens for a second, but no footsteps in the direction of Sam's bedroom. Then he realizes that's also the direction to the door. Cas is glancing at the door, thinking about leaving.
+
+The coffee machine makes a prompt ding then.
+
+Dean takes a sharp breath, turning to his back, fumbling the machine. His fingers are trembling. He doesn't realize he has taken out two cups from the cabinet, and pours coffee in both of them. His hand shakes so much that some hot coffee spills to the counter, onto his finger. He curses under his breath.
+
+"I think --" Cas starts slowly. Dean hears the sound of his cloth rustling. "-- It's probably better if I go then."
+
+Dean closes his eyes and clenches his jaws. He turns back slowly. "Where do you think you're going?"
+
+Cas barely takes two steps away from the kitchen's entrance. His face lines with guilt and shame. He half-turns back, "I don't know. Somewhere, anywhere. It doesn't matter. I see now, that I'm not welcomed here. And you have perfectly good reasons. I understand."
+
+Dean sighs. "Cas --"
+
+"I know I had hurt you, Dean." Cas continues regardless. He isn't looking at Dean right now, and it seems, for him, this makes it easier for the words to come out. "But know that I never meant it to happen. I'm sorry. But after all, I understand I still have made too many mistakes to be forgiven. I have lost the tablet. I will try to find it and get it back. And hopefully, find the demon tablet too. And also try to find a way to help Sam to heal."
+
+"When you're still bleeding out? I don't think so." Dean gentles his voice, holding the two coffee cups and moving closer.
+
+"It doesn't matter." Cas lowers his hand, as if all of a sudden the wound stops hurting him and he isn't the dying bloody figure they picked up last night. "It will heal eventually. Goodbye, Dean." He tries to turn away again.
+
+"Don't you dare." Dean says behind him, in a dangerously broken and cracking voice. His eye rims are red. "Don't you dare walk out on me like this."
+
+Cas turns back and looks at him, surprised and confused. "I don't understand," he says.
+
+Dean offers him one of the two cups of coffee. He stares at coffee cup instead of Cas. "Come over here and sit down and drink your coffee," he says gruffly.
+
+Cas eyes the coffee carefully, then studies Dean's look. He tries so hard, but he can't decipher human expression as well as he hopes he can. He takes the coffee cup hesitantly.
+
+Dean presses a hand in his eye socket. "I fucked up, Cas," he whispers through shivering lips. "There's this curse, a spell. It messed me up so bad I can't think." He looks up, running into Cas's eyes, desperate and pleading.
+
+Cas tilts his head, worried.
+
+"I don't want you to leave. Of course I don't." Dean says quietly. "Stay. Please. And there's something I should have told you. I'm sorry, I shouldn't yell at you. I just can't seem to find a way to make sure both you and Sam are safe. I'm so worried and scared for all of us all the time."
+
+"Dean --" Cas takes careful steps toward him.
+
+Dean lowers his eyes. "Please," he whispers, his voice quietly choking with a wet, sobbing sound. "Don't go. Something happened in Colorado. I should have let you know."
+
+"Okay," Cas answers.
+
+"Okay," he says again. "I'm not going anywhere. What happened?"
+
+<br>
+
+### Act 3
+
+
+
 
 
 <br>
@@ -1605,10 +1695,6 @@ Bunker is quiet finally, Sam is asleep, Cas is asleep. Dean takes half a dozen g
 ### draft notes
 
 
-> Dean's devastated, more repressed to keep himself away from Cas, disguises as anger toward Cas even after Cas comes back to bunker after losing angel tablet (gut open by Naomi/Crowley, not recovered as quickly as he'd wish)
->
-> Cas gets pushed away by Dean's pride and angry attitude, being blamed by Dean for everything (like canon S08E21/22), but Dean regrets immediately when Cas's almost pushed to leave
->
 > Dean apologizes and goes soft and asks Cas to stay, confesses the curse
 >
 > They agree they'll research on reversing the curse but it's lower priority than finding ways to save Sam, Cas agrees to help, but also very hesitantly express he's fine to lose his power, willing to sacrifice his power if it saves Sam, proposing them to kiss
