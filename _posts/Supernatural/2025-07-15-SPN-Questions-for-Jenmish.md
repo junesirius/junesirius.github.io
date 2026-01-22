@@ -4,15 +4,17 @@ title: 【Cockles】Questions to ask Jenmish in panels
 date: 2025-07-15 11:38
 categories: ["SPN", "RPS"]
 characters: ["Jensen Ackles", "Misha Collins"]
-tags: ["Supernatural", "Cockles", "英文"]
+tags: ["Supernatural", "Cockles", "英文", "The Last of Us"]
 pov: 第三人称
 origin: Tumblr
 ---
 
 I wonder if anyone asked jenmish questions about The Last of Us. Especially that poster on Ellie's wall, if that's really them. Their letters in the game, if they had any say about the contents. Their comments on the beautiful lesbian love in season 2. Or just any imaginative scenarios, asking how they'd imagine themselves in a zombie world like that, what would they do, how'd they survive, etc.
 
-that would be a really fun topic to listen to them talking about in one of those panels
+That would be a really fun topic to listen to them talking about in one of those panels.
 
 <br>
 
-PS: S04E10 Dean picks up a crowbar to beat Alastair off Cas, he saves Cas when their original plan was to let Heaven and Hell tear each other apart. That could have been the scene that Cas is  Is that scripted or improvised?
+PS: S04E10 Dean picks up a crowbar to beat Alastair off Cas, he saves Cas when their original plan was to let Heaven and Hell tear each other apart. That could have been the scene that Cas got removed from the story. Heard that's the very early stage initial plan for Cas. But why it's changed. That feels like it's Dean that breaks the meta-verse "God" control of Cas to make sure Cas is okay. Is that scripted or improvised? Or Dean takes over the world and affects the story?
+
+PPS: Question for both Jensen and Misha: both of they have both son and daughter, did they notice anything different in raising a boy versus raising a girl? Did they ever really consciously have different methods or just simply instinctively behave different when interacting with their son versus daughter?
