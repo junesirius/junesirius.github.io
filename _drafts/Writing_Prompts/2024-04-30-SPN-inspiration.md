@@ -5470,4 +5470,16 @@ this character study from Benny POV, should show that truly how deeply Benny tru
 
 still suppressed feeling, very similar to Cas's
 
-### 448.
+### 448.【Henry】S08E12 Apocalypse!Henry goes to future, who does he meet?
+
+Apocalypse world and canon world divergent only at the point where Mary makes the deal with Azazel, so apocalypse world = the what-if world where Mary doesn't make the deal to save John and so Sam and Dean are never born and the world is not saved.
+
+Which means before this canon different point things should remain the same, which means 1958 Henry and MOL are still hunted by Abaddon, and Henry still uses the time travel spell to travel to the future (2013, S08E12 time, 55 years into future) to where his blood is (or "their next of kin"). But by 2013 John is dead and Sam and Dean are not born, who or when would he end up meeting?
+
+Apocalypse John was dead the year Mary was early pregnant with Dean, so 1978.
+
+What if Henry is time-travel sent to 1978 (precisely 20 years later) to the time right before John is killed. Maybe Henry can kill Azazel with MOL weapons? But since the world before that changing point remains the same, meaning no matter what, Henry is stuck or dead in the future. So maybe Azazel kills him too? But maybe Henry manages to save John and Sam and Dean would then be born in this world, and Henry would explain everything to John, so John wouldn't have to die thinking his father abandoned him.
+
+What if Henry is time-travel sent to 2017/18 (S12-13 timeline, almost precise 60 years later), when canon Sam and Dean are in Apocalypse world? They are *technically* still Henry's next of kin (assuming same character in different alternate worlds has same genetic information initially, fulfill the spell's need). So now Sam/Dean has a second chance to meet/save Henry. And Cas would meet Henry too. And possibly Mary would meet Henry too. But we know Henry can't go back, so maybe Henry saves Mary & Jack and gets killed by Lucifer? (could have someone say a comment about how they change from fighting Knight of Hell to fighting the very real King of Hell, comparing the two, both are dicks)
+
+### 449.
