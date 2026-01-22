@@ -4,7 +4,7 @@ title: 【情感】Misha Collins
 date: 2026-01-20 23:30
 categories: ["原创"]
 characters: ["Misha Collins", "Castiel"]
-tags: ["追星", "日志", "随记", "情感", "爱", "渴望", "亲密关系", "接触饥渴", "Supernatural", "英文"]
+tags: ["追星", "日志", "随记", "情感", "爱", "渴望", "亲密关系", "接触饥渴", "Supernatural", "Cockles", "英文"]
 pov: 第一人称视角
 origin: 个站
 ---
