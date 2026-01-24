@@ -5482,4 +5482,28 @@ What if Henry is time-travel sent to 1978 (precisely 20 years later) to the time
 
 What if Henry is time-travel sent to 2017/18 (S12-13 timeline, almost precise 60 years later), when canon Sam and Dean are in Apocalypse world? They are *technically* still Henry's next of kin (assuming same character in different alternate worlds has same genetic information initially, fulfill the spell's need). So now Sam/Dean has a second chance to meet/save Henry. And Cas would meet Henry too. And possibly Mary would meet Henry too. But we know Henry can't go back, so maybe Henry saves Mary & Jack and gets killed by Lucifer? (could have someone say a comment about how they change from fighting Knight of Hell to fighting the very real King of Hell, comparing the two, both are dicks)
 
-### 449.
+### 449.【Ajay】S08E19 Ajay collects that favor after he dies
+
+Ajay helped Sam go to Hell to finish the second trial, but got killed by Crowley before he can cash in that favor he said the Winchesters would owe him.
+
+Based on that head canon that reapers are like a kind of angel subspecies, then after reapers die, they'll end up in Empty too.
+
+So Ajay might meet Cas in the Empty after S12E23 and S15E18, he can ask for that favor then, ask Winchesters or Cas to bring him back, or deal with Cas to cooperate and mutual help
+
+he's probably very likely look like the kind of character who'd end up attracted by TFW and become on their team
+
+they can use a rogue reaper on their side wen they fight against Death
+
+Ajay might end up having to meet Billie at some point, his boss, how'd he choose? He's a little like Crowley, a little slicker, but seems to know to bet on Winchesters. Which means likely to die saving him again like so many others
+
+### 450.【Crowley】Crowley's hinted past relationships with reapers and angels, like Ajay, Billie, Naomi
+
+Crowley & Ajay: S08E19, they clearly know each other, worked together before, Ajay was afraid of him. How often do reapers work with demons/Crowley? Crowley seems to have worked with many reapers.
+
+Crowley & Billie: when Billie was still just a reaper, first time Billie in the same room with Crowley, they give each other meaningful looks, Billie specifically greeted Crowley separately "Crowley." There must be something between them in the past. S11 later part, Billie also watches the Hell door for Crowley when Dean tries to go there in the right way.
+
+Crowley & Naomi: S8 (E17?) when Crowley met Naomi, Crowley said he liked how things were between them when they were in Mesopotamia, and he said Naomi knew he was a lover, not a fighter. So Mesopotamian time, Crowley and Naomi might be lover?
+
+Naomi knows Ajay: S08E19 Naomi warns Dean about Ajay's approach to Hell is through Purgatory. Maybe through Crowley? Kinda like third wheel thing between those three?
+
+### 451.
