@@ -1772,7 +1772,9 @@ Why Dean doesn't like Sam/Cas touch: Sam's power/sick from demon tablet, Cas's s
 >
 > Crowley kills Kevin and all the next-in-line hostage prophets he can find because none of them cooperate. He sends out demons to look for the other half demon tablet, and is very close to get it (demons already find it, just need to dig it out to give him), which makes him about to be in possession of both angel tablet and demon tablet, which makes Metatron start to concern.
 >
-> Metatron believes Crowley becomes a threat, seeks out angel tablet, steals it from Crowley (he can wipe off the angel protection sigils as his scribe's power), starting Heaven trials/that casting spell to lock Heaven up for his own safety to prevent Crowley to come. He starts the first two steps by himself (kill Nephilim, get Cubit's bow/arrow), but realizes he'll need Cas's grace to complete the spell (grace of the angel who falls for human), so he really needs the curse to work quickly.
+> Crowley is changed by the tablet to be arrogant and announce war to Heaven, but he's actually still looking for the other half Demon tablet.
+>
+> Metatron notices the announcement and freaks out, wanting to stay safe, so starting the Heaven trail/casting spell to lock Heaven up for his own safety to prevent Crowley to come. He starts the first two steps by himself (kill Nephilim, get Cubit's bow/arrow), but realizes he'll need Cas's grace to complete the spell (grace of the angel who falls for human), so he really needs the curse to work quickly.
 >
 > Metatron has been watching Dean/Cas's progress (similar to canon Chuck storyline as a writer enjoying the story), is annoyed by Dean/Cas's slow pace, decides to push them farther, so he drowns Dean, forcing Cas to make the move. Cas is forced to make the choice, he chooses to kiss Dean under water to help him breathe to save him. The curse is triggered, Cas loses his power to Metatron, becomes human. (One Visual element from here)
 >
@@ -1978,8 +1980,9 @@ Metatron vaguely remembers God has mentioned to him once, long time ago, that on
 
 ### draft notes
 
-
-> Metatron believes Crowley becomes a threat, seeks out angel tablet, steals it from Crowley (he can wipe off the angel protection sigils as his scribe's power), starting Heaven trials/that casting spell to lock Heaven up for his own safety to prevent Crowley to come. He starts the first two steps by himself (kill Nephilim, get Cubit's bow/arrow), but realizes he'll need Cas's grace to complete the spell (grace of the angel who falls for human), so he really needs the curse to work quickly.
+> Crowley is changed by the tablet to be arrogant and announce war to Heaven, but he's actually still looking for the other half Demon tablet.
+>
+> Metatron notices the announcement and freaks out, wanting to stay safe, so starting the Heaven trail/casting spell to lock Heaven up for his own safety to prevent Crowley to come. He starts the first two steps by himself (kill Nephilim, get Cubit's bow/arrow), but realizes he'll need Cas's grace to complete the spell (grace of the angel who falls for human), so he really needs the curse to work quickly.
 >
 > Metatron has been watching Dean/Cas's progress (similar to canon Chuck storyline as a writer enjoying the story), is annoyed by Dean/Cas's slow pace, decides to push them farther, so he drowns Dean, forcing Cas to make the move. Cas is forced to make the choice, he chooses to kiss Dean under water to help him breathe to save him. The curse is triggered, Cas loses his power to Metatron, becomes human. (One Visual element from here)
 >
@@ -1999,11 +2002,19 @@ Both Dean/Cas more aching/pining, they turn to focus on bring Metatron/Crowley d
 
 > Dean has too much guilt thinking it's his fault that Cas becomes human, so he can't forgive himself, can't allow himself to be with Cas, but also because they have kissed, he knows how good it feels to kiss Cas, it truly messes him up, even more than when Metatron cursed him, now it's himself that doesn't allow him to be with Cas. So he continues pining, so does Cas. But they use the actual case and world-saving as distraction. Dean swears they'll figure out how to fix Cas, stop Metatron and Crowley, save Sam; Cas insists on only focusing on the latter two.
 >
-> Dean/Cas go to look for Chuck but can't find him. Cas proves himself useful by knowing the next-in-line prophet is Donatello (doesn't need to be angel to know, the knowledge of all prophets' names are branded to his memory, angel or not, "See, I can still be useful" Cas tries to prove he's still useful, thought being human is why Dean doesn't have interest in him anymore, but that's not true, and Dean knows the miscommunication, painful conflicted; also Alfie lied to Crowley when he said the next set of prophets weren't born yet to protect them; with all the other prophets killed by Crowley, Donatello is the next one)
+> Cas proves himself useful by knowing the next-in-line prophet is Donatello (doesn't need to be angel to know, the knowledge of all prophets' names are branded to his memory, angel or not, "See, I can still be useful" Cas tries to prove he's still useful, thought being human is why Dean doesn't have interest in him anymore, but that's not true, and Dean knows the miscommunication, painful conflicted; also Alfie lied to Crowley when he said the next set of prophets weren't born yet to protect them; with all the other prophets killed by Crowley, Donatello is the next one)
 >
-> Dean/Cas/Sam find Donatello before Crowley, four of them come up with a plan (Donatello agrees with/proposes it) to use him as a bait to trick Metatron and Crowley to both think the other have the more powerful tablet and is now strong enough to kill/overpower/overthrow the other side completely (Crowley has the full demon tablet now, Metatron has the angel tablet), bring them together (like S04E09, "when Godzilla and Mothra on your ass, best to get out of their way and let them fight")
+> Dean/Cas/Sam find Donatello before Crowley, four of them come up with a plan (Donatello agrees with/proposes it) to use him as a bait/misinformation to trick Metatron and Crowley to both think the other is more powerful than him. And let Metatron believe Crowley has both tablets and is a serious threat to him, especially targeting to kill/overpower/overthrow him and Heaven completely. So Metatron uses his scribe's power to wipe off Crowley's angel protection sigils and steal the angel tablet from Crowley. The moment he touches the angel tablet, he's becoming aggressive and ready to fight Crowley straight on now, he just needs to know where Crowley is.
 >
-> Crowley and Metatron fight, both tablets crush together and get destroyed, Crowley killed Metatron, almost get himself killed too.
+> Donatello lets them know the tablet says the Word's power is persuasion, but not to change idea, just make their original hesitation become strong inclination. So if they have thought about kill the other but hesitant about whether they have enough power, touching the tablet make them believe they're strong enough to kill the other, that's why Crowley/Metatron both ready to fight, cuz both believe they'll win.
+>
+> Then Crowley gets the other half of the demon tablet, and needs a prophet to make it a full tablet again. (And Crowley notices the angel tablet is gone) So Donatello exposes his location and identity to Crowley. Crowley finds them all and catches and tortures Donatello.
+>
+> Donatello deliberately prays to Metatron to ask for his help, and let him know Crowley's location, so Metatron arrives and meets Crowley. (like S04E09, "when Godzilla and Mothra on your ass, best to get out of their way and let them fight")
+>
+> As Metatron comes in, Donatello merges the two halves of demon tablet back to one, and Crowley touches it and becomes enhanced and arrogant too. And hates Metatron for stealing the angel tablet.
+>
+> So Crowley and Metatron fight, both tablets crush together and get destroyed, Crowley killed Metatron, almost get himself killed too.
 >
 > Dean risks his life getting the exploded grace from Metatron before he gets torched, feeding Cas's grace back, so Cas is angel again
 >
@@ -2027,17 +2038,25 @@ Both Dean/Cas more aching/pining, they turn to focus on bring Metatron/Crowley d
 
 > Dean has too much guilt thinking it's his fault that Cas becomes human, so he can't forgive himself, can't allow himself to be with Cas, but also because they have kissed, he knows how good it feels to kiss Cas, it truly messes him up, even more than when Metatron cursed him, now it's himself that doesn't allow him to be with Cas. So he continues pining, so does Cas. But they use the actual case and world-saving as distraction. Dean swears they'll figure out how to fix Cas, stop Metatron and Crowley, save Sam; Cas insists on only focusing on the latter two.
 >
-> Dean/Cas go to look for Chuck but can't find him. Cas proves himself useful by knowing the next-in-line prophet is Donatello (doesn't need to be angel to know, the knowledge of all prophets' names are branded to his memory, angel or not, "See, I can still be useful" Cas tries to prove he's still useful, thought being human is why Dean doesn't have interest in him anymore, but that's not true, and Dean knows the miscommunication, painful conflicted; also Alfie lied to Crowley when he said the next set of prophets weren't born yet to protect them; with all the other prophets killed by Crowley, Donatello is the next one)
+> Cas proves himself useful by knowing the next-in-line prophet is Donatello (doesn't need to be angel to know, the knowledge of all prophets' names are branded to his memory, angel or not, "See, I can still be useful" Cas tries to prove he's still useful, thought being human is why Dean doesn't have interest in him anymore, but that's not true, and Dean knows the miscommunication, painful conflicted; also Alfie lied to Crowley when he said the next set of prophets weren't born yet to protect them; with all the other prophets killed by Crowley, Donatello is the next one)
 >
-> Dean/Cas/Sam find Donatello before Crowley, four of them come up with a plan (Donatello agrees with/proposes it) to use him as a bait to trick Metatron and Crowley to both think the other have the more powerful tablet and is now strong enough to kill/overpower/overthrow the other side completely (Crowley has the full demon tablet now, Metatron has the angel tablet), bring them together (like S04E09, "when Godzilla and Mothra on your ass, best to get out of their way and let them fight")
+> Dean/Cas/Sam find Donatello before Crowley, four of them come up with a plan (Donatello agrees with/proposes it) to use him as a bait/misinformation to trick Metatron and Crowley to both think the other is more powerful than him. And let Metatron believe Crowley has both tablets and is a serious threat to him, especially targeting to kill/overpower/overthrow him and Heaven completely. So Metatron uses his scribe's power to wipe off Crowley's angel protection sigils and steal the angel tablet from Crowley. The moment he touches the angel tablet, he's becoming aggressive and ready to fight Crowley straight on now, he just needs to know where Crowley is.
 >
-> Crowley and Metatron fight, both tablets crush together and get destroyed, Crowley killed Metatron, almost get himself killed too.
+> Donatello lets them know the tablet says the Word's power is persuasion, but not to change idea, just make their original hesitation become strong inclination. So if they have thought about kill the other but hesitant about whether they have enough power, touching the tablet make them believe they're strong enough to kill the other, that's why Crowley/Metatron both ready to fight, cuz both believe they'll win.
 >
-> Dean risks his life getting the exploded grace from Metatron before he gets torched, feeding Cas's grace back, so Cas is angel again
+> Then Crowley gets the other half of the demon tablet, and needs a prophet to make it a full tablet again. (And Crowley notices the angel tablet is gone) So Donatello exposes his location and identity to Crowley. Crowley finds them all and catches and tortures Donatello.
+>
+> Donatello deliberately prays to Metatron to ask for his help, and let him know Crowley's location, so Metatron arrives and meets Crowley. (like S04E09, "when Godzilla and Mothra on your ass, best to get out of their way and let them fight")
+>
+> As Metatron comes in, Donatello merges the two halves of demon tablet back to one, and Crowley touches it and becomes enhanced and arrogant too. And hates Metatron for stealing the angel tablet.
+
+> So Crowley and Metatron fight, both tablets crush together and get destroyed, Crowley killed Metatron, almost get himself killed too.
+>
+> Dean risks his life getting the exploded grace from Metatron before he gets torched, feeding Cas's grace back, so Cas is angel again. And Cas uses his wings to protect Dean. [VISUAL HEAR]
 >
 > When two tablets crush together and the god power in the tablet are released (it's balanced power from angel/demon side, so very pure and powerful), the power wave heals Sam too (the trial sickness comes from tablet curse/sacrifice).
 >
-> They can let Crowley just die, but at the last moment they get soft and consider him still useful, so Dean asks Cas to heal Crowley, so now Crowley owes them. Crowley leaves with grudge but not as enemy.
+> They can let Crowley just die, but at the last moment they get soft and consider him still useful, so Dean asks Cas to heal Crowley, so now Crowley owes them. Crowley leaves with grudge but not as enemy (also without tablet he's more normal him and not aggressive/arrogant anymore).
 >
 > So now the world crisis is solved, Dean finally allows himself to reciprocate, revealing that he believes he should prove himself to Cas, compensate Cas, same as when Cas was human, thinking *he* should be the one to prove to Dean. The two finally use actual words (a little like *Zootopia 2* confession/communication scene, hashtag *Dean Winchester uses actual words*). Dean finally considers himself worthy of Cas's love.
 >
