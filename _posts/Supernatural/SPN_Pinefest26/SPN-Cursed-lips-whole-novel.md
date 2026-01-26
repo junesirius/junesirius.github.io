@@ -2432,19 +2432,159 @@ Cas stops listening after that first sentence, his ears are buzzing loudly, his 
 
 He doesn't realize tears are coming down his cheeks.
 
-And he doesn't realize, even with all the pain, his brain is thinking, *Okay, he can try. It's what Dean wants, then he can try.* So he answers, "Okay. Yes, Dean. I'll stop trying to watch over you. I'll stop trying to kiss you. I'll stop staring at you, too, if that's what you prefer. Would that be okay? I can't guarantee yet, but I can try. I can try..."
+And he doesn't realize, even with all the pain, his brain is thinking, *Okay, he can try. It's what Dean wants, then he can try.* So he hears his tongue answering, "Okay. Yes, Dean. I'll stop trying to watch over you. I'll stop trying to kiss you. I'll stop staring at you, too, if that's what you prefer. Would that be okay? I can't guarantee yet, but I can try. I can try..." His words break apart, falling into a series of murmurs.
 
-Dean's breath also shatters. He takes a long breath in, and the exhale is also wet. "Yeah," he says roughly, wiping the corner of his eyes with the back of a hand.
+Dean's breath also shatters. He takes a long breath in, and the exhale is just as wet. "Yeah," he says roughly, wiping the corner of his eyes with the back of a hand.
 
 "Yeah," he says again, "that sounds good."
 
-He swallows hard, can't seem to put a full sentence together coherently. "That sounds good, Cas," he says, trying to smile. But all he does is wiping harder at the corner of his eyes.
+He swallows hard, can't seem to put a full sentence together coherently. "That sounds good, Cas," he says once more, trying to smile. But all he does is wiping harder at the corner of his eyes.
 
 <br>
 
 ### Act 2
 
+They eat breakfast in silence.
 
+And soon Cas realizes, the breakfast is surprisingly good, and definitely too much. The bag has more than enough pancakes and waffles and French toasts and crepes and benedicts and omelets to feed an army.
+
+He takes them out and spreads them on the motel table, and the table isn't big enough to host all of them.
+
+He turns to Dean, genuinely curious, "Are we expecting many people to join?"
+
+Dean ducks his head, flustering. "Uh, no. Just us."
+
+"We can't eat so much food, Dean. I'm a human now," Cas points out, just in case Dean has forgotten.
+
+"I know," Dean ducks his head even lower, hiding behind his coffee cup. "Uh, your first mortal meal, this is. Sort of big, isn't it? I didn't know what you'd like, so I did some digging and found out the best breakfast place around here, and hmm, I sort of, probably, got a little carried away trying to get you a little bit of everything. Just, you know, see what you might like. It's actually not that far away, I couldn't sleep and took a walk, and they just opened, so everything is new and fresh and tasty, and..." he drifts off for a brief second, then picking it back up softly, "and I just thought you might want to enjoy some food."
+
+Cas glances back and forth between the table with the exaggeratingly abundant breakfast and Dean's slightly flushed cheek. He takes another bite on the pancake that's in front of him (with overflowing maple and honey that Dean insisted to add on top, and there are strawberries). Dean watches him chewing slowly and swallows. And Cas smiles wholeheartedly. "I like them, Dean. I like all of them. I've never known food taste like that, there are so many flavors and layers! This is the best breakfast and the best meal in my life!"
+
+Dean smiles back, stealing a bite from the table too, eating satisfactorily. "Don't say too early. We might have something else in plan to change that. That is, before we juice your angel ass back to the top league. But you'll see, being human isn't all too bad."
+
+Cas's smile dims a little. He nods briefly, and after another few bites, he says he's full.
+
+They pack the rest of the food back up for the road.
+
+They'll have a full twenty-four hours of drive ahead of them if they want to get to California to investigate the Heartless case -- though, both of them are a little hesitant if it even worth the drive. Now that they know all Metatron wanted was to get Cas's grace and he actually got it, they doubt there's anything left to be found in California. Perhaps even the Handless Cupid case was just a trap to lure them to Houston.
+
+A call to Sam also confirms there's nothing else suggesting Metatron would still be anywhere near California. And Sam's coughing sounds worse again for the last two days.
+
+They change the plan to head back to the bunker, but even that is still another twelve hours away.
+
+<br>
+
+As they drive past Oklahoma, about half-way back home, Cas starts that frowning again, the one that looks like he's receiving angel radio signals.
+
+Dean glances at him. "You are still tuning in angel radios?" he asks.
+
+Cas presses both his temples, frowning with shut eyes. "Not from angels. Prophets," he says difficultly.
+
+"I thought we lost all of them." Dean leaves only half his attention on the empty straight Oklahoma highway, watching Cas's look every other second. "Didn't Crowley kill all of them, and actually ran out of prophets to kill when he was leaving us that letter message?"
+
+"Only those he knew the names of," Cas answers. "Samandriel didn't tell him all the prophets in the future, only the current batch that he couldn't bear the torture and let out. The next batch would be born when the current ones were all gone, we just didn't know when and who until it happened."
+
+"So what, we got an baby infant prophet now? How's that gonna help us with the tablet? Oh, and we don't even have any tablet!" Dean turns his attention back to the road.
+
+"They are not biologically newly born." Cas opens his eyes now, glancing outside the window. The sun is setting slowly to their left, but the sky is still decently bright. The land to the left and right of the highway is open and wide, green everywhere they can see. The view is astoundingly refreshing. Cas loses his thought looking at the wide green land for a second. "It's the role of prophets being newly assigned. Even angels wouldn't know which ones would be the next batch until they're activated. Getting physically close to the prophet would help accelerating the resonating signal between both celestial beings."
+
+"Any chance I can get that in English again?" Dean says drily.
+
+Cas rolls his eyes slightly. "I believe our next prophet is somewhere nearby, in Oklahoma, and since I still have all the angel knowledge regardless of whether I'm currently an angel, I know now the next prophet's name is Donatello Redfield."
+
+Dean stares at a sign outside the window they just drove by just as Cas was talking. "Holy shit," he exclaims. "You gotta be kidding me."
+
+Cas frowns. "No, I was serious."
+
+"No, no, look," Dean points at the sign that just flied by and now reflecting in the rear mirror. The sign says, "Winchester, OK, 5 miles."
+
+"Is it just me or it looks like destiny now?" Dean actually grins. "Some big guy up there is trying to put a big thumb up on our way, telling us, 'Hey, Winchesters, you're doing ok, whatever you're looking for, five miles this way.'"
+
+Cas chuckles with him. "And you're going to listen to the destiny this time?" he asks softly. "Last I remembered, you weren't doing so good with the destiny sisters."
+
+Dean rolls his eyes, following the signs to exit the highway and enter the little town that bears his family name. "Alright, maybe not the destiny sisters specifically. Just a figure of speech, you know what I mean."
+
+Cas doesn't answer. He doesn't really know what Dean means, like half the times when Dean uses some pop culture references, but he lets it slip away. He has a feeling this might be one of the things that's making his heart ache when he thinks about Dean, things that he wishes he understand but it seems just so difficult to figure out, and as he's learning, the ache and pain means love, which means this is probably included in Dean's request of stopping doing. So he just simply, shuts his mouth.
+
+The town is barely five blocks big in any directions. The only remotely interesting place in the whole town is probably the casino at the north end of the town, with "duck" and "creek" in its name like any Western movies would name any casino, according to Dean. But apart from that, nothing much to see.
+
+They drive past the little road in the town, passing the houses, trying to figure out which one of them is giving Cas's head the prickling tip to hint a prophet inside. But an hour later, they have to call it a fruitless, failed search.
+
+"I was so sure I can still be useful," Cas says, resigned. He slumps in the seat, no longer actively frowning and staring at every farm house passing the window.
+
+"Hey, hey, you *are* being useful! Not that matters, but you are! You hear me, super duper helpful!" Dean gives him a squeeze on the shoulder, but Cas doesn't seem to be convinced.
+
+"What should we do? That thumb-up sign for the Winchesters from the higher power might be wrong." Cas asks.
+
+Dean considers. "Or, maybe it's just the wrong direction. We thought it must be the town that this divine thing is pointing us to, what if it's off road, like five miles east into the raw land, to a different town, maybe? You still have the bat signal radius sense, right?" Cas nods. Dean continues, more cheerfully, more hopefully, "Might as well check out the other neighboring towns then. It shouldn't take more than an hour or two. We can stay in the Winchester town for the night for luck, what do you say?"
+
+"I'm not a Winchester," Cas murmurs, "so I won't get the luck. But yes, it sounds like a good plan."
+
+"You're definitely a Winchester by now," Dean says firmly, steering off road to the east.
+
+Fifteen minutes later, they're in front of a two-level family house that stands out in the town, looking slightly more polished and modern than anything else in the whole town.
+
+"That's not suspicious at now." Dean squints at the house. "What does your spider sense say? It's this one? Shall we check it out?"
+
+"Just that we're very close, but I don't know exactly how close," Cas answers seriously.
+
+Dean parks on the opposite side of the street to the house. They move to knock on the door.
+
+Dean is so overjoyed when the man introduces himself as Donatello that he's practically trying to hug the man.
+
+"Okay, I don't always get people so happy to see me, you lads might as well come inside and tell me what's that for." Donatello leads them into the modern living room and offering them tea and coffee.
+
+Dean is the one catching him up, and Cas supplies with some details when it comes to Heaven and Hell.
+
+Donatello stares at them like they're crazy. "No, it can't be."
+
+"I'm sorry, but it's true. That ship's already sailed," Dean says.
+
+Donatello simply shakes his head.
+
+"Why not?" Cas asks.
+
+"Because I'm an atheist," the man crunches his nose. "I'm just a chemistry professor, for Christ's sake!"
+
+"Not any more." Dean tilts his head in Cas's direction, who is sitting right on his side. "He's an angel, by the way. Wings and halos and harps."
+
+Cas glances at him briefly. "Was," he corrects. "I *was* an angel. And I don't have a harp. But I could have shown you my wings and halo if I were. But not anymore."
+
+Donatello looks back and forth between them, and throws himself into the most soft and comfortable armchair in the room, drinking tea in gulps. "I'll need a minute to digest," he says with a pant.
+
+Cas glances at Dean during that minute of silence and waiting, worried and unsure. He mouths, *What do we do with him?*
+
+Dean stares attentively at his lips as he speaks, then gives a light shrug. *No idea,* he mouths back. *Bring him home with us?*
+
+*Are you sure it's a good idea?* Cas tries to say. But this time, there's a little too many words to lip-reading that Dean gets lost mid-sentence, or probably just because he's distracted staring at those lips. He blinks blankly at Cas, and shakes his head.
+
+That's about all the time they have when Donatello stands up again, putting the tea down. "Here's the thing, I'm okay with reading some tablets and ancient texts for you guys, that sounds some fun archeology or anthropology projects anyway --"
+
+Dean leans closer to Cas, whispering to his ear with a small chuckle, "Sammy would be so happy to have this guy around."
+
+Cas doesn't quite understand why, but he gives Dean a quiet nod as his response, and Dean seems to be pleased by it.
+
+"-- but I don't know anything about fighting angels or demons, so I'm afraid I can't help much with that." Donatello announces. "Is that an okay prophet job description? I mean, I wasn't even asking for a salary negotiation or anything."
+
+Dean chuckles, "We wouldn't know, I mean, I never got much of a salary from anywhere my whole life. But, uh, yeah, that sounds really good -- better than I thought, actually." He nods encouragingly at the new prophet.
+
+Donatello seems to be relieved as well. "Okay, then, I don't have much things to pack, do we go to your mysterious secret home base now?"
+
+Dean raises his eyebrows with amusement, leaning closer to Cas again. "I like this guy."
+
+They're back on road again, about ten minutes later.
+
+Cas tries to talk Dean into spending the night in the town, having some rest before driving again. But Dean insists there're only six hours of drive left, he can finish it in one run easily.
+
+Cas stares at him with thinned lips for a short moment, but doesn't say anything in the end.
+
+He spends most of the ride catching Sam up in texts (whenever there's any signal, that is), and just like Dean expected, the moment Cas repeats what the guy said about the tablet, even just through the text chains, even Cas can see Sam is happy and expectant on their arrival.
+
+<br>
+
+### Act 3
+
+They roll into the small town of Lebanon little past midnight.
 
 
 
@@ -2452,9 +2592,7 @@ He swallows hard, can't seem to put a full sentence together coherently. "That s
 
 ### draft notes
 
-> Cas tries to prove himself to Dean. Cas proves himself useful by knowing the next-in-line prophet is Donatello (doesn't need to be angel to know, the knowledge of all prophets' names are branded to his memory, angel or not, "See, I can still be useful" Cas tries to prove he's still useful, thought being human is why Dean doesn't have interest in him anymore, but that's not true, and Dean knows the miscommunication, painful conflicted; also Alfie lied to Crowley when he said the next set of prophets weren't born yet to protect them; with all the other prophets killed by Crowley, Donatello is the next one)
->
-> Dean/Cas/Sam find Donatello before Crowley, four of them come up with a plan (Donatello agrees with/proposes it) to use him as a bait/misinformation to trick Metatron and Crowley to both think the other is more powerful than him. And let Metatron believe Crowley has both tablets and is a serious threat to him, especially targeting to kill/overpower/overthrow him and Heaven completely. So Metatron uses his scribe's power to wipe off Crowley's angel protection sigils and steal the angel tablet from Crowley. The moment he touches the angel tablet, he's becoming aggressive and ready to fight Crowley straight on now, he just needs to know where Crowley is.
+> Dean/Cas/Sam four of them come up with a plan (Donatello agrees with/proposes it) to use him as a bait/misinformation to trick Metatron and Crowley to both think the other is more powerful than him. And let Metatron believe Crowley has both tablets and is a serious threat to him, especially targeting to kill/overpower/overthrow him and Heaven completely. So Metatron uses his scribe's power to wipe off Crowley's angel protection sigils and steal the angel tablet from Crowley. The moment he touches the angel tablet, he's becoming aggressive and ready to fight Crowley straight on now, he just needs to know where Crowley is.
 >
 > Donatello lets them know the tablet says the Word's power is persuasion, but not to change idea, just make their original hesitation become strong inclination. So if they have thought about kill the other but hesitant about whether they have enough power, touching the tablet make them believe they're strong enough to kill the other, that's why Crowley/Metatron both ready to fight, cuz both believe they'll win.
 >
@@ -2513,6 +2651,8 @@ Metatron sees them on the newspaper, and realizes the same thing -- Thanks to Ca
 Metatron vaguely remembers God has mentioned to him once, long time ago, that once the Words are done, the tablets would serve as a container of the Words' power. Just like Yin and Yang, Heaven and Hell, light and darkness, tablets also have their attributes. And more specifically, the angel tablet and demon tablet are exactly the matching pieces. Whoever have both of them could unleash unimaginable amount of power, that's why they should always be kept separately, and making sure no angel should own the angel tablet, and no demon should own the demon tablet, to ensure the balance of the universe.
 
 > Dean has too much guilt thinking it's his fault that Cas becomes human, so he can't forgive himself, more fury, can't allow himself to be with Cas, distancing himself more, but also because they have kissed, he knows how good it feels to kiss Cas, it truly messes him up, even more than when Metatron cursed him, now it's himself that doesn't allow him to be with Cas. So he continues pining, so does Cas.
+>
+> Cas tries to prove himself to Dean, Cas tries to prove he's still useful, thought being human is why Dean doesn't have interest in him anymore, but that's not true, and Dean knows the miscommunication, painful conflicted
 
 **VISUAL:** Some big explosion magical light comes from two crushing tablets, Dean throws himself toward Cas, both are in the slow motion of falling to the ground. While the light shows that grace is going back into Cas, Cas is has his wings spreading slowly, intuitively trying to protect Dean in the process.
 
