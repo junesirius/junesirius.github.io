@@ -2578,13 +2578,57 @@ Cas tries to talk Dean into spending the night in the town, having some rest bef
 
 Cas stares at him with thinned lips for a short moment, but doesn't say anything in the end.
 
-He spends most of the ride catching Sam up in texts (whenever there's any signal, that is), and just like Dean expected, the moment Cas repeats what the guy said about the tablet, even just through the text chains, even Cas can see Sam is happy and expectant on their arrival.
+He spends most of the ride catching Sam up in texts instead (whenever there's any signal, that is), and just like Dean expected, the moment Cas repeats what the guy said about the tablet, even just through the text chains, even Cas can see Sam is happy and expectant on their arrival. Things are looking hopeful again with a prophet on their side, and even better, a nerdy one.
 
 <br>
 
 ### Act 3
 
 They roll into the small town of Lebanon little past midnight.
+
+The town is peaceful and quiet, with only the sounds of insects chirping in the wild grasses. There is no moon on the sky, another dark new moon night.
+
+Sam is waiting for them in the war room, with a blanket over his back. He looks paler than two days ago. But he doesn't let it show, standing up and reaching out a hand to the new prophet. "I'm Sam," he says, stifling a cough half-sentence.
+
+The older man studies his face through his glasses. "Your brother and angel friend told me so much about you," he says kindly. "The honor is mine."
+
+"You should be in the bed by now," Dean nudges Sam, then turning to the rest of the group. "We all should. At least I know I'm exhausted. You can take the guest room, Donatello, Room 15."
+
+Cas opens his mouth, but no words come out. Room 15 used to be his room, even before he needed a room. And now he knows, it's a guest room, and that he doesn't have a room anymore. He stares at the floor, thinking, wondering, if it's another one of those non-spoken human social rule that he should pick on, that Dean's probably hinting something about his leaving, when he hears his name.
+
+"Cas, you can take one of the other empty bedrooms, like the Room 13 is a nice one. Or if you don't like the number, 12 is also close, whichever you like," Dean says casually. "What do you think?"
+
+"Close to... what?" Sam says quietly, glancing at him.
+
+Dean blushes. "Everything, library, kitchen, bathroom, or other people, you know, if you can't find something you can just knock at my door. Or something. I'm at 11."
+
+Cas's lips curves a small degree. "It sounds great, Dean. Thank you."
+
+They call it a night.
+
+<br>
+
+Cas ends up picking the room right next door to Dean's, Room 13.
+
+Dean finds himself flip flapping on the mattress until way too deep into the night, his body is exhausted, but his mind is still wide awake. His ears are listening to the other side of the wall, but not catching any sound.
+
+*Cas must be asleep then,* Dean thinks, staring at the ceiling.
+
+A minute later, he changes to sleeping on his side again. The darkness in the room can almost fool his mind to believe it's the motel room in Houston, the night he nearly drowned and then saved and *kissed* by the angel who saved him from Hell, who he told him explicitly *not* to love him over himself, who he finds it entirely impossible to *not* think and imagine Cas is right there, on the other side of the bed, sleeping peacefully, quietly, breathing evenly.
+
+Dean stares at the wall, the side connecting to Cas's room, and imagines he can see through the wall. His brain paints Cas's face, his flickering eyelashes, his forever chapped lips. Dean's eyelids fall heavily now. His tired, sleepy brain wonders what those lips would really taste like, when they're not under water, when he's not unconscious, when the kiss wouldn't kill or hurt anyone.
+
+And he dreams it in his dream. He dreams all of them in his dreams, modifying his memory. He sees himself standing in the barn, watching the angel barging in, with the messy trench coat and most ruffled sex hair, and he sees himself grabs the angel's coat and kisses him right there, right after he knows his name, not afraid of being smite to death. He sees himself in that dream by the sink in Bobby's place, the angel telling him about Lucifer and seals for the first time, and he sees himself intimidated but excited. Cas's face is so close to him, three inches, at most, maybe two. Just one shiver, just one impulse, he'd be kissing the angel right then, on the second day of their official encounter. Then on the park's bench, in the motel in front of the mirror, in the back alley just right before he is going to be beaten, or right before Cas is going to die for him for the first time, and certainly not the last.
+
+His brain plays their past like a tape, and he walks in them like it's a real memory retrace. And in every single one of them, he sees himself and Cas in the same room, same place, same story. And he sees the same look on Cas's face, boring into his soul, and he sees his own, aching, desperate, helpless looks, staring in this dazzling angel.
+
+"Cas..." Dean sighs in his dream, unconsciously putting his hand before his mouth. His lips kiss the concave point between his thumb and index finger, and his dream mind pictures them into the angel's most perfect lips. Surprisingly, the image does fit with the sensation just perfectly.
+
+Dean sinks into the dream, happier than he ever remembers he was, sadder than he ever remember he was.
+
+<br>
+
+
 
 
 
