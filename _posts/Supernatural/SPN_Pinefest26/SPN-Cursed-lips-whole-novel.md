@@ -2673,11 +2673,51 @@ Cas's an angel. He thinks, amazed again. As if it's the first time he realizes t
 
 "Cas..." Dean sighs in his dream, unconsciously putting his hand before his mouth. His lips kiss the soft concave spot between his thumb and index finger, and his dream mind pictures them into the angel's most perfect lips. Surprisingly, the image does fit with the sensation just perfectly.
 
-Dean sinks deeper into the dreams mixed with memories, happier than he ever remembers he was, sadder than he ever remember he was.
+Dean sinks deeper into the dreams mixed with memories, happier than he ever remembers he's been, sadder than he ever remember he's been.
 
 <br>
 
 ### Act 4
+
+They show Donatello the last email from Kevin, along with his recorded video and all his notes in the attachment, after the breakfast. The air in the room shifts quickly away from the quiet peacefulness from finishing up all the remaining Houston breakfast take-out, to the gloomiest grief.
+
+Sam goes to pick up all the print-outs he has of Kevin's notes and carries them to the library.
+
+Dean doesn't think he can bear watching it again, but he forces himself to sit right next to Donatello and Cas, watching Kevin yelling from the other side of the screen, telling them desperately, "I'm dead. I'm dead, you bastards!"
+
+The screen freezes at the last frame as Kevin murmurs nonstopingly, "I'm sorry."
+
+Dean presses a fist before his mouth, gritting his teeth. Fury bubbles in his chest, he wants to swipe something off the table again, just so that prickling impulse of beating something or killing someone could stop. *I'm sorry.* His mind tells the Kevin in the frame, miserable and quietly hating himself. It's another death in his name, another nightmare that's going to haunt him for the rest of his life. *Is everyone in their life having to end up bloody and dead? Is Cas?* He glances at Cas, and realizes Cas is watching him too. Dean looks away.
+
+Donatello takes off his glass, wipes it with the corner of his shirt, and puts it back on. "The kid said he knows it's his job," he pauses briefly in a calm tone. "I take it it's my job now. Then why don't we get on with it? Where are the tablets?"
+
+Sam slides the prints in front of him. "That's all we got."
+
+The prints have some photos of the tablet, and a large amount of Kevin's handwritten notes. Donatello looks at the pages with worried eyes. "That doesn't look good," he says, picking the first photo up, moving it closer to his eyes and then moving it farther, like a sighted man trying to find the best distance to read when he forgets to bring his glasses. "It's like reading something with someone else's eyes. And with only photos, it's like, on top of that, you're under water."
+
+"That's all we got, so make do, will you?" Dean says roughly. "Hopefully it can tell us about the last trial, or what Metatron might be doing with those bloody body parts and Cas's grace -- I got a hunch it has something to do with the tablet too. Or how to help Sam get better."
+
+Donatello presses his glass tighter on his nose bridge. "I can try, but no guarantee I can find any of that. And from what I heard, Kevin spent six months and decoded two trials, and we don't even know if that third trial and those other information is even *in* this half of the tablet."
+
+"Long shot, we know," Sam forces a humorless chuckle. "That's usually how we do things. That's all we got."
+
+"Maybe not, actually." Cas chimes in. They turn to look at him. "We don't know for sure if Crowley has found the other half demon tablet, the half that's hidden by Kevin. Maybe Kevin left some hint about that location in his notes, too? Maybe only another prophet can read and find it?"
+
+Dean pats on Donatello's shoulder. "So it's all on you now, no pressure."
+
+Donatello huffs a short laugh, starting to look at the notes more closely. "These glyphs are nearly impenetrable."
+
+"Is there anything we can get you --" Sam starts.
+
+"Chicken wings," Donatello answers quickly.
+
+"What?" Dean says, surprised, unsure if he heard it right.
+
+"Chicken wings," Donatello says again. "They're like brain food. My PhD dissertation takes about forty-eight buckets, my last publication about the half lives of the 33 arsenic isotopes, the analysis alone takes about fourteen buckets. I'd guess this is a fifty buckets or above level of task, so if you can... maybe --"
+
+"I'm on it!" Dean says eager, jumping to his feet.
+
+
 
 
 
@@ -2685,9 +2725,9 @@ Dean sinks deeper into the dreams mixed with memories, happier than he ever reme
 
 ### draft notes
 
+(Dean too eager, caretaker's )
+
 > Donatello reads Kevin's notes, find out tablets can change and strengthen their arrogance, explains Crowley's change of behavior, betting on it will do the same to Metatron (but why Cas is different, cuz Cas never look for power, he flies away only cuz he wants to keep Dean safe, so this is what's amplified) And two tablets together can unleash huge wave of power, only if angel has angel tablet and demon has demon tablet (balance)
->
-> (Donatello try to read demon tablet to find third trial (in other half demon tablet) or Metatron's spell (in angel tablet), but can't find both, so they still don't know Metatron's spell's true purpose, but doesn't matter; important: they will never find third trial, or Metatron tells them about sacrifice, so they decide to stop anyway)
 >
 > Crowley is still looking for the other half demon tablet, frustrated, personally goes to Warsaw Missouri where he finds Kevin to search
 >
@@ -2755,7 +2795,7 @@ the tablets would serve as a container of the Words' power. Just like Yin and Ya
 
 > Dean has too much guilt thinking it's his fault that Cas becomes human, so he can't forgive himself, more fury, can't allow himself to be with Cas, distancing himself more, but also because they have kissed, he knows how good it feels to kiss Cas, it truly messes him up, even more than when Metatron cursed him, now it's himself that doesn't allow him to be with Cas. So he continues pining, so does Cas.
 >
-> Cas tries to prove himself to Dean, Cas tries to prove he's still useful, thought being human is why Dean doesn't have interest in him anymore, but that's not true, and Dean knows the miscommunication, painful conflicted
+> Cas tries to prove himself to Dean, Cas tries to prove he's still useful, thought being human is why Dean doesn't have interest in him anymore, but that's not true, and Dean knows the miscommunication, painful conflicted. Cas also consciously trying to restrain himself from performing with too much love based on what he thought Dean asked of him, but also miscommunication
 
 Loophole patch: Why Metatron has some delay in casting the seal-Heaven-cast-angel spell, after getting Cas's grace, In the show it's immediately, why it's not immediately here? ~~Is there some other condition he needs to fulfill before casting the spell? Maybe he's waiting for a full moon (would take another 15 days)? Does he forget about the spell and fails the first few experiments? He forgets about the portion? Maybe Metatron is debating if he needs the angel tablet power to boost the spell strength, and maybe he really wants to seal Heaven with tablet inside Heaven, close to him.~~ He needs the angel tablet to boost his power and the spell's power to cast the spell as full-scale as he hopes
 
