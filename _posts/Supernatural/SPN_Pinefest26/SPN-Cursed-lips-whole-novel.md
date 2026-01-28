@@ -3005,15 +3005,91 @@ How difficult would it be to find a human?
 
 ### Act 7
 
+Dean hardly drives a block away from the minimart when Cas suddenly yells, "Stop!"
+
+Dean presses on the brake sharply and the car squeaks to stop.
+
+"What's wrong?" he watches Cas nervously.
+
+"Something... someone is searching for me, I think." Cas says alarming. "Location spells usually would leave a tracking trace on the target. I would pick it up quicker if I'm an angel, now I only have this very vague feeling, I don't know how to explain it."
+
+"Don't need to, I trust you -- or your gut feeling," Dean says immediately, restarting the car, pressing the accelerator as hard as he did to the brake. "We gotta get you one of those anti-tracking tattoos. Silly me, that should be the first thing come to mind, and an anti-demon-possessing tattoo, too, if you're okay with that."
+
+"I should have done a rib-carving sigil set on myself," Cas thinks aloud. "That would be the safest, like the ones I gave you and Sam."
+
+"And Adam." Dean reminds him. "It's Winchester brand now. That's fair, you should have one too, but I don't trust any angel to try that thing."
+
+"I don't either," Cas answers quickly.
+
+"So tattoo it is, then." Dean spots the tattoo shop along the street just then, he pulls the car over and shepherds a very curious but suspectable angel inside.
+
+"We need a sigil exactly like this, on him." Dean pushes the paper with Cas's new drawing of the anti-tracking sigil on it, then lowers his shirt collar to show his anti-demon-possession tattoo to the tattoo artist in the shop. "And another one, exactly like this one. It's a family thing."
+
+Dean's kinda expecting a "What's that? Cult?" question from the tattoo artist and already preparing for an answer. But the guy merely looks at the patterns and nods, and gestures Cas to sit in one of the chairs.
+
+"You don't seem surprised," Dean can't help asking.
+
+"What's to be surprised about?" The tattoo artist retorts, starting to prepare his machine and ink. "Gothic girls and people go to conventions have them all the time. We even have that one," he nods briefly at the spot little above Dean's left chest, where his tattoo is and now covered, "as preset. But I haven't seen the other one before." He gestures to the one Cas drew. "What's that, a matching one?"
+
+His eyes move back and forth between Dean and Cas briefly with an open, curious look. He doesn't really ask the question, but it's sort of obvious now.
+
+Dean's cheeks burn with blush. He stutters, "No, no, we're not... that. Just a symbol for fun, nothing else."
+
+The tattoo artist simply shrugs, "Whatever you say." He looks back at Cas, "Where do you want that on at?"
+
+Cas starts undressing his usually tidy and tight shirt buttons, showing a patch of lower stomach skin, right above his hip.
+
+Dean licks his lips, and he can't stops his imagination from running everywhere just from that small patch of skin. *Goddammit.* He kicks himself in the mind, he promised himself he'd not let this thing get wild between them, he promised himself he wouldn't let Cas be in this and continue to hurt, but he's the one finding it impossible to keep that in mind, his mind is going everywhere, especially the none-innocent territory.
+
+He swallows hard, and realizes Cas's looking at him.
+
+Dean runs his tongue over his lips again. He's too far gone, he realizes. How can this, watching Cas gets a tattoo, becoming the absolutely sexiest thing he's ever seen?
+
+Continuing staying in this goddamn tattoo shop watching that thin ink pen drawing dark lines on Cas's skin (and it's the skin right above the waistband, worst of all!) would turn him into a complete wreck, Dean realizes shortly with absolute clarity. The heat on his cheeks are extending quickly to somewhere else.
+
+"I'll get some air outside," Dean says suddenly, rushing out of the shop.
+
+Which isn't a lie or excuse, actually, considering he does really need some fresh air to cool his whole body and mind down.
+
+He gives Sam a call while waiting.
+
+<br>
+
+Cas notices his face when Dean comes back in.
+
+"What is it?" Cas lifts his head and upper body a little from the reclining chair, trying to get a better look at Dean. The tattoo artist pushes him back down and snaps at him not to move.
+
+The look on Dean's face shifts between hope and a hint of afraid.
+
+"They found something," he says briefly, glancing at the extra civilian around them, carefully picking his words. "But they also say don't keep the hope too high, it's not much."
+
+"But it's something?" Cas repeats.
+
+Dean nods quickly, hope taking over the fear now. "Yeah, yeah. Something, better than nothing, right?"
+
+Cas holds his stare and nods at him. "We'll get everything, we'll save everyone. We will."
+
+Dean grins at him, nodding in huge wave of appreciation.
+
+In the next two agonizingly long hours, Dean stays by Cas's side. Consciously, once or twice, he finds his hands have reached out and brushed against Cas's. He takes his hands back quickly whenever he realizes, but he thinks Cas probably also noticed. There's a mixed hope and sadness in his eyes. Dean's heart sinks -- *Did he mess something up again?*
+
+<br>
+
+
+
 
 
 <br>
 
 ### draft notes
 
-> Cas feels Metatron's searching effort, on their way back, get tattoo; they know Metatron is looking for angel tablet, they need to lure Metatron to Crowley, but also need to make sure they're equal, so they'll need to find the demon tablet for Crowley and make sure Metatron has the angel tablet, for them to fight
->
+(Next up: Donatello share)
+
+The tablets would serve as a physical container of the Words' power in the material plane. Just like Yin and Yang, Heaven and Hell, light and darkness, tablets also have their attributes. And more specifically, the angel tablet and demon tablet are exactly the matching pieces. Whoever have both of them could unleash unimaginable amount of power, that's why they should always be kept separately, and making sure no angel should own the angel tablet, and no demon should own the demon tablet, to ensure the balance of the universe.
+
 > Donatello reads Kevin's notes, find out tablets can change and strengthen their arrogance, explains Crowley's change of behavior, betting on it will do the same to Metatron (but why Cas is different, cuz Cas never look for power, he flies away only cuz he wants to keep Dean safe, so this is what's amplified) And two tablets together can unleash huge wave of power, only if angel has angel tablet and demon has demon tablet (balance)
+>
+> they know Metatron is looking for angel tablet, they need to lure Metatron to Crowley, but also need to make sure they're equal, so they'll need to find the demon tablet for Crowley and make sure Metatron has the angel tablet, for them to fight
 >
 > TFW go to Warsaw, Donatello resonates demon tablet, they find the other half, run into Crowley
 >
@@ -3070,8 +3146,6 @@ A second later, hesitantly, the guarding demon opens the door and peers inside.
 The light around the angel tablet grows the strongest and bursts out, throwing the demon fly backward. And when the light fades, the angel tablet is already not where it was.
 
 <br>
-
-the tablets would serve as a container of the Words' power. Just like Yin and Yang, Heaven and Hell, light and darkness, tablets also have their attributes. And more specifically, the angel tablet and demon tablet are exactly the matching pieces. Whoever have both of them could unleash unimaginable amount of power, that's why they should always be kept separately, and making sure no angel should own the angel tablet, and no demon should own the demon tablet, to ensure the balance of the universe.
 
 > Dean has too much guilt thinking it's his fault that Cas becomes human, so he can't forgive himself, more fury, can't allow himself to be with Cas, distancing himself more, but also because they have kissed, he knows how good it feels to kiss Cas, it truly messes him up, even more than when Metatron cursed him, now it's himself that doesn't allow him to be with Cas. So he continues pining, so does Cas.
 >
