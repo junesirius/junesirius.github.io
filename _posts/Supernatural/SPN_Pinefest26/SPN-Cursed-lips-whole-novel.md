@@ -2945,18 +2945,72 @@ The sun is bright outside today.
 
 ### Act 6
 
+"Sire, we have tried absolutely everything, but the tablet is simply nowhere to be found," the demon shivers as he reports to the King.
+
+Crowley is fuming and stomping, snapping at him and all the other demons in the room. "LOOK AGAIN! Think WWKD: What would Kevin do? Imagine, you're delusional, you're freaking out, possibly also on about three different painkillers and something that would OD if you just take a little bit more. Close your eyes, you're shaking, you run out of your hideout, you run and you try to hide the half demon tablet where no one would find it, but also certainly you wouldn't want to forget where you put it. WHERE WOULD YOU HIDE?"
+
+The demon simply glances at him with baffled eyes, shaking his head. "We have looked everywhere," he says shakily.
+
+All the demons are shaking their heads. Demons aren't exactly the brightest workers, after all -- the hardworking good ones usually end up not-here.
+
+"Freaking useless morons!" Crowley snarls at them on top of his lungs. "Do I have to do everything myself?"
+
+No one answers him.
+
+Crowley fidgets the half demon tablet between his fingers, letting out a short sigh, talking to the tablet, "I really have to do it myself, don't I?"
+
+As if hearing a positive answer from the tablet, he dismisses the demons, places the one and a half tablets safely inside his suit pocket, and a snap later, Crowley walks the street of Warsaw, Missouri, where he found Kevin wandering feverishly just a little more than a month ago. He reasons, if Kevin was here, the tablet has to be somewhere close.
+
+Crowley starts the searching hands-on by himself.
+
+<br>
+
+Metatron glares at the bowl before him, murmuring the spell again. It should work, it really should. But it's not working.
+
+The dazzling white space of Heaven around them is still blissfully quiet and undisturbed. Not on single door gets closed by the spell.
+
+He waits for a little while longer. A distant door is closed, but that may just be some angel leave the conference room.
+
+"Come on, come on!" Metatron murmurs, a little frustrated.
+
+He's certain the ingredients are all fresh and good -- the heart of a Nephilim, the bow of a Cupid, and the grace of Castiel. The first two are unmistaken, and the third one should also be filling the spell's requirement. Unless...
+
+Metatron considers the possibility. For the spell to work, the third ingredient has to be from the grace of an angel in love with a human. If, for whatever reason, at the time of collecting the grace or at the time of casting the spell, the angel's love is no longer sustaining, then it is *possible* that this may be the cause of failure.
+
+So the question is, *is it possible that love has disappeared?*
+
+Metatron glances at the few *Supernatural* books he carried with him to Heaven (Just so he can get something to kill time and entertain himself once this works), and decides the answer is no.
+
+He doesn't read a hundred books with those morons whining at each other to draw the wrong conclusion.
+
+Then if the ingredients are all good, it could only be the spell, then.
+
+Metatron scratches his head. As much as he believes his memory is as good as millions of years ago, it is, after all, millions of years ago. Nothing stays sharp with time, not even angel's memory.
+
+So he concludes, it is more likely he remembers the spell wrong (like maybe he mispronounced a syllable) than the idiot nerdy angel stops loving the flannel-shirt-wearing hunter.
+
+Which means he'll need the angel tablet to refresh his memory.
+
+Which also means he'll have to find the angel tablet first.
+
+Lucky for him, with all the books he's read from Carver Edlund, he knows exactly where to look. *Goodbye Stranger* is the last one he's seen the angel tablet, and by that time, Castiel had it.
+
+"Well, looks like you and I just need another reunion now, Castiel," Metatron strokes his beard, talking to air, smiling a little.
+
+He repacks the ingredients, and changing for a location spell next.
+
+How difficult would it be to find a human?
+
+<br>
+
+### Act 7
+
 
 
 <br>
 
 ### draft notes
 
-> Dean/Cas grocery run, get chicken wings, eggs, toilet paper, beer (Dean too eager to help, caretaker's instinct); Cas wants to get Dean pie but finds it running out, Cas more upset than Dean
->
-> Crowley is still looking for the other half demon tablet, frustrated, personally goes to Warsaw Missouri where he finds Kevin to search
->
-> The spell doesn't work very powerfully, Metatron needs the angel tablet to boost its power, so looking for the angel tablet (think Cas has it, 0820 spn book), trying to locate and find Cas to get the angel tablet
->
 > Cas feels Metatron's searching effort, on their way back, get tattoo; they know Metatron is looking for angel tablet, they need to lure Metatron to Crowley, but also need to make sure they're equal, so they'll need to find the demon tablet for Crowley and make sure Metatron has the angel tablet, for them to fight
 >
 > Donatello reads Kevin's notes, find out tablets can change and strengthen their arrogance, explains Crowley's change of behavior, betting on it will do the same to Metatron (but why Cas is different, cuz Cas never look for power, he flies away only cuz he wants to keep Dean safe, so this is what's amplified) And two tablets together can unleash huge wave of power, only if angel has angel tablet and demon has demon tablet (balance)
