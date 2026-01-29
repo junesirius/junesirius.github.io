@@ -2677,7 +2677,7 @@ Cas is an angel. He thinks, amazed again. As if it's the first time he realizes 
 
 "Cas..." Dean sighs in his dream, unconsciously putting his hand before his mouth. His lips kiss the soft concave spot between his thumb and index finger, and his dream mind pictures them into the angel's most perfect lips. Surprisingly, the image does fit with the sensation just perfectly.
 
-Dean sinks deeper into the dreams mixed with memories, happier than he ever remembers he's been, sadder than he ever remember he's been.
+Dean sinks deeper into the dreams, happier than he ever remembers he's been, sadder than he ever remember he's been.
 
 <br>
 
@@ -2697,7 +2697,7 @@ Cas's eyes trace down onto Dean's hands. His hand reaches in Dean's direction fo
 
 Donatello takes off his glass, wipes it with the corner of his shirt, and puts it back on. "The kid said he knows it's his job," he pauses briefly, his tone surprisingly calm. "I take it it's my job now. Then why don't we get on with it? Where are the tablets?"
 
-"The King of Hell took them," Cas answers, "one and a half, at least. We still don't know if he's found the last half."
+"The King of Hell took them," Cas answers, "one and a half of them, at least. We don't know if he has found the last half."
 
 Sam slides the prints in front of him. "This is all we got."
 
@@ -2799,7 +2799,7 @@ Sam widens his eyes, raising his voice. "Jesus Christ! When were you going to te
 
 Sam rubs his forehead, taking a deep breath. "What happened? What are you going to do?"
 
-Dean's eyes turn desperate. "Honestly? I don't know. I tried so damn hard to save you and save him, and it seems whatever I do, I screw up everything. And right now? The least I can do is to get some goddamn grocery and all the chicken wings for our prophet, and hope we can get both of you on your feet -- or on his feathery ass -- again."
+Dean's eyes turn desperate. "Honestly? I don't know. I tried so damn hard to save you and save him, and it seems whatever I do, I just screw up everything. And right now? The least I can do is to get some goddamn grocery and all the chicken wings for our prophet, and hope we can get both of you on your feet -- or on his feathery ass -- again."
 
 Cas shows up at the end of that hallway just then, moving toward them.
 
@@ -2851,7 +2851,7 @@ Cas's fingers automatically clench on the wheel, and Dean's hand tightly over hi
 
 They haven't even driven for more than ten minutes. Lebanon really is just a small town with only one small grocery shop.
 
-"Thought we'd grab something from here first." Dean explains, as he walks Cas through how to reverse park and why it's better this way (easier to get out and run away when they need to, as they often find themselves into). "To get that full fifty-bucket chicken wings shop list crossed out, we'd probably have to drive all the way to one of those bigger cities around us, Omaha, or Denver, or Kansas City. That's about three to four hours drive, I'll take it over if you're okay with it -- wouldn't want your first time driving to be night driving."
+"Thought we'd grab something from here first." Dean explains, as he walks Cas through how to reverse park and why it's better this way (easier to get out and run away when they need to, as they often find themselves into). "To get that full fifty-bucket chicken wings shop list crossed out, we'd probably have to drive all the way to one of those bigger cities around us, Omaha, or Denver, or Kansas City. That's about three to four hours drive, I'll take it over if you're okay with it -- wouldn't want your first time driving to be long-distance highway driving."
 
 Cas just finished parking the car perfectly in the center of a parking spot, turning off the ignition. "Yes, I'm quite okay with it, Dean," he answers with a nod.
 
@@ -2859,13 +2859,13 @@ Dean is surprised actually about how perfect that parking is. He'd imagined he m
 
 "Are you sure it's the first time you drive?" he raises his eyebrows.
 
-"Yes, Dean." Cas answers honestly. "Before the recent event, vehicles are a comparatively slow methods of transportation, I can usually fly to a place. So, yes, this is the first time I learn how to drive, and as you said, it is a very enjoyable human experience, thank you."
+"Yes, Dean." Cas answers honestly, and somewhat formally. "Before the recent event, vehicles are a comparatively slow methods of transportation, I can usually fly to a place. So, yes, this is the first time I learn how to drive, and as you said, it is a very enjoyable human experience, thank you."
 
 Dean smiles faintly, squeezing his shoulder slightly. "You're a natural."
 
-"It's actually just math," Cas points at the lines around the parking spot. "Once you know the angle and distance, it's very easy to do the mental calculation about where to turn."
+"It's actually just math," Cas points at the lines around the parking spot as they get out of the car. "Once you know the angle and distance, it is very easy to do the mental calculation about the predicted trajectory to decide where to turn."
 
-"Yeah, right," Dean chuckles, cutting the nerdy part off. "Let's get some actual grocery done before the night comes."
+"Yeah, right," Dean chuckles, cutting the nerdy part off short. "Let's get some actual grocery done before the night comes."
 
 The so-called local grocery shop is actually more of a minimart than anything real and comprehensive. Lucky for them, they don't quite need much for a living and used to get by everything with whatever quality.
 
@@ -2873,9 +2873,9 @@ Dean's shopping basket is soon full, piled with packs of beers and huge rolls of
 
 He's glancing and chuckling at the sexy blonde-covered magazine (something he knows the old him would be interested, but somehow not really in the mood for lately, especially not when Cas is right here with him), when he hears the alarm for the fridge goes off.
 
-"Dude!" the young high-school-looking cashier glares at them.
+"Dude!" the young high-school-boy-looking cashier glares at them.
 
-Cas is standing next to the opened fridge door, holding a carton of eggs, with one of them in his hands. Before Dean's eyes, he frowns and then cracks the egg with his bare hands. Dean forgets he's staring until the cashier yells another angry "Dude!" at them, as the broken yolk falls to the clean tile.
+Cas is standing next to the opened fridge door, holding a carton of eggs, with one of them in his hands. Before Dean's eyes, he frowns and then cracks the egg with his bare hand. Dean forgets he's staring until the cashier yells another annoyed "Dude!" at them, as the broken yolk falls to the clean tile.
 
 Dean rushes to him, hissing, "What are you doing?"
 
@@ -2883,13 +2883,13 @@ Cas puts the carton (with now eleven eggs) into his shopping basket. "I tried to
 
 Dean stares at him unbelievably, trying so hard not to burst into laugh that the effort is cracking him up inside out. "One, don't ever talk about eggs like that; and two, let's get you out of here before you get into trouble with the virgin there." He nods at the young boy cashier with a convincingly charming smile and closes the fridge door behind Cas, and the fridge alarm finally shuts off.
 
-"Why? You're not supposed to use the word 'ovum'? But that's just the Latin word for eggs." Cas looks at him, curious and confused, but follows Dean, moving away from the fridge, nonetheless.
+"Why? You're not supposed to use the word 'ovum'? But that's just the Latin word for eggs." Cas looks at him, curious and confused, but he follows Dean nonetheless, moving away from the fridge.
 
 Dean can't help letting a bark of laughter out. "Just, don't. Trust me on that."
 
-Cas hums quietly, unconvinced but drops the topic. He turns around to examine if there's anything else they might need. As he bends down on the rack of snacks with the kind of beef jerkies and peanut butter cups, he bumps into the rack right behind him unconsciously. It would certainly fall over if it's not for Dean to grab it and straightens it just on time.
+Cas hums quietly, unconvinced but drops the topic. He turns around to examine if there's anything else they might need. As he bends down before the rack of snacks with the kind of beef jerkies and peanut butter cups that Dean usually would pick, he bumps into the rack right behind him unconsciously. It would certainly fall over if it's not for Dean to grab and straightens it just on time.
 
-"Cas, Cas -- watch behind you. And around you!" Dean wraps an arm around Cas's back, steering him into bigger clearing space. "You're like one of those large creatures coming to a tiny house for the first time, bumping everything everywhere." His unsuccessfully stifled chuckles leak out of his lips.
+"Cas, Cas -- watch behind you. And around you!" Dean wraps an arm around Cas's back, steering him into a bigger clearing space. "You're like one of those large creatures coming to a tiny house for the first time, bumping everything everywhere." His unsuccessfully stifled chuckles leak out of his lips.
 
 "In a way, it does feel like that," Cas answers quietly, not smiling now.
 
@@ -2917,9 +2917,9 @@ The boy is frightened, staring at him like a mad man. "Dude! What's the problem 
 
 Cas loosens his grip as told.
 
-"Dude! You guys are crazy or something?" the boy straightens his collar, stepping back, away from the counter.
+"Dude! You guys are crazy or something?" the boy straightens his collar, stepping back, away from the counter as far as possible. "I'm calling the police!"
 
-Dean sighs quietly, turning to him and putting on a serious business face. "Kansas Health Department, anonymous inspection. We needed to make sure this place is above the hygiene criterion, business criterion, among other things."
+Dean sighs quietly, turning to him and putting on a serious business face. "Kansas Health Department, anonymous inspection. We needed to make sure this place meets the hygiene criterion, business criterion, among other things."
 
 The cashier doesn't seem convinced.
 
@@ -2929,9 +2929,9 @@ The cashier doesn't seem convinced.
 
 Dean tilts his head to Cas. "What he said."
 
-The boy looks back and forth between them. "O... Kay?"
+The boy looks back and forth between them. "O... kay?"
 
-"Anyway, we'll be on our way. Have a good day." Dean says, nudging Cas to put their non-purchase purchases into plastic bags.
+"Anyway, we'll be on our way. Have a good day," Dean says, nudging Cas to put their non-purchase purchases into plastic bags.
 
 They leave the shop with two bagful of food and daily supplies, laughing breathlessly as they put them in the trunk and slide back into the car.
 
@@ -2959,15 +2959,15 @@ No one answers him.
 
 Crowley fidgets the half demon tablet between his fingers, letting out a short sigh, talking to the tablet, "I really have to do it myself, don't I?"
 
-As if hearing a positive answer from the tablet, he dismisses the demons, places the one and a half tablets safely inside his suit pocket, and a snap later, Crowley walks the street of Warsaw, Missouri, where he found Kevin wandering feverishly just a little more than a month ago. He reasons, if Kevin was here, the tablet has to be somewhere close.
+As if hearing a positive answer from the tablet, he dismisses the demons, places the one and a half tablets safely inside his suit pocket, and a snap later, Crowley walks on the street of Warsaw, Missouri, where he found Kevin wandering feverishly just a little more than a month ago. He reasons, if Kevin was here, the tablet has to be somewhere close.
 
 Crowley starts the searching hands-on by himself.
 
 <br>
 
-Metatron glares at the bowl before him, murmuring the spell again. It should work, it really should. But it's not working.
+Metatron glares at the bowl before him, chanting the spell again. It should work, it really should. But it's not working.
 
-The dazzling white space of Heaven around them is still blissfully quiet and undisturbed. Not on single door gets closed by the spell.
+The dazzling white space of Heaven around them is still blissfully quiet and undisturbed. Not one single door gets closed by the spell.
 
 He waits for a little while longer. A distant door is closed, but that may just be some angel leave the conference room.
 
@@ -2985,9 +2985,9 @@ He doesn't read a hundred books with those morons whining at each other to draw 
 
 Then if the ingredients are all good, it could only be the spell, then.
 
-Metatron scratches his head. As much as he believes his memory is as good as millions of years ago, it is, after all, millions of years ago. Nothing stays sharp with time, not even angel's memory.
+Metatron scratches his head. As much as he believes his memory is as good as millions of years ago, it does, after all, have been millions of years. Nothing stays sharp with time, not even angel's memory.
 
-So he concludes, it is more likely he remembers the spell wrong (like maybe he mispronounced a syllable) than the idiot nerdy angel stops loving the flannel-shirt-wearing hunter.
+So he concludes, it is more likely he misremembers the spell (like maybe he mispronounced a syllable) than the idiot nerdy angel stops loving the flannel-shirt-wearing hunter.
 
 Which means he'll need the angel tablet to refresh his memory.
 
@@ -2995,9 +2995,9 @@ Which also means he'll have to find the angel tablet first.
 
 Lucky for him, with all the books he's read from Carver Edlund, he knows exactly where to look. *Goodbye Stranger* is the last one he's seen the angel tablet, and by that time, Castiel had it.
 
-"Well, looks like you and I just need another reunion now, Castiel," Metatron strokes his beard, talking to air, smiling a little.
+"Well, looks like you and I just need another reunion now, Castiel," Metatron strokes his beard, talking to the air, smiling a little.
 
-He repacks the ingredients, and changing for a location spell next.
+He packs the precious ingredients away carefully, and changing for a location spell next.
 
 How difficult would it be to find a human?
 
@@ -3007,23 +3007,23 @@ How difficult would it be to find a human?
 
 Dean hardly drives a block away from the minimart when Cas suddenly yells, "Stop!"
 
-Dean presses on the brake sharply and the car squeaks to stop.
+Dean presses on the brake sharply and the car squeaks to stop. The car behind them honks and Dean ignores them.
 
 "What's wrong?" he watches Cas nervously.
 
-"Something... someone is searching for me, I think." Cas says alarming. "Location spells usually would leave a tracking trace on the target. I would pick it up quicker if I'm an angel, now I only have this very vague feeling, I don't know how to explain it."
+"Something... someone is searching for me, I think." Cas says alarmingly. "Location spells usually would leave a tracking trace on the target. I would pick it up quicker if I'm an angel, now I only have this very vague feeling, I don't know how to explain it."
 
 "Don't need to, I trust you -- or your gut feeling," Dean says immediately, restarting the car, pressing the accelerator as hard as he did to the brake. "We gotta get you one of those anti-tracking tattoos. Silly me, that should be the first thing come to mind, and an anti-demon-possessing tattoo, too, if you're okay with that."
 
 "I should have done a rib-carving sigil set on myself," Cas thinks aloud. "That would be the safest, like the ones I gave you and Sam."
 
-"And Adam." Dean reminds him. "It's Winchester brand now. That's fair, you should have one too, but I don't trust any angel to try that thing."
+"And Adam." Dean reminds him. "It's Winchester brand now. That's fair, you should have one too, join the family officially --" he glances at Cas again, "-- but I don't trust any angel to try that thing, or get anywhere close to any of us, honestly."
 
-"I don't either," Cas answers quickly.
+"I agree," Cas answers quickly.
 
 "So tattoo it is, then." Dean spots the tattoo shop along the street just then, he pulls the car over and shepherds a very curious but suspectable angel inside.
 
-"We need a sigil exactly like this, on him." Dean pushes the paper with Cas's new drawing of the anti-tracking sigil on it, then lowers his shirt collar to show his anti-demon-possession tattoo to the tattoo artist in the shop. "And another one, exactly like this one. It's a family thing."
+"We need a sigil exactly like this, on him." Dean slides over the paper with Cas's new drawing of the anti-tracking sigil on it, then lowers his shirt collar to show his anti-demon-possession tattoo to the tattoo artist in the shop. "And another one, exactly like this one, wherever he wants. It's, uh, a family thing."
 
 Dean's kinda expecting a "What's that? Cult?" question from the tattoo artist and already preparing for an answer. But the guy merely looks at the patterns and nods, and gestures Cas to sit in one of the chairs.
 
@@ -3035,15 +3035,15 @@ His eyes move back and forth between Dean and Cas briefly with an open, curious 
 
 Dean's cheeks burn with blush. He stutters, "No, no, we're not... that. Just a symbol for fun, nothing else."
 
-The tattoo artist simply shrugs, "Whatever you say." He looks back at Cas, "Where do you want that on at?"
+The tattoo artist simply shrugs, "Whatever you say." He looks back at Cas, "Where do you want that one at?"
 
-Cas starts undressing his usually tidy and tight shirt buttons, showing a patch of lower stomach skin, right above his hip.
+Cas starts undressing his usually tidy and tight shirt buttons from bottom up, showing a patch of lower stomach skin, right above his hip.
 
-Dean licks his lips, and he can't stops his imagination from running everywhere just from that small patch of skin. *Goddammit.* He kicks himself in the mind, he promised himself he'd not let this thing get wild between them, he promised himself he wouldn't let Cas be in this and continue to hurt, but he's the one finding it impossible to keep that in mind, his mind is going everywhere, especially the none-innocent territory.
+Dean licks his lips, and he can't stop his imagination from running everywhere just from that small patch of skin. *Goddammit.* He kicks himself in the mind -- he promised himself he'd not let this thing get wild between them, he promised himself he wouldn't let Cas be in this and continue to hurt, but he's the one finding it impossible to keep that under control. His mind is going everywhere, especially the none-innocent territory.
 
 He swallows hard, and realizes Cas's looking at him.
 
-Dean runs his tongue over his lips again. He's too far gone, he realizes. How can this, watching Cas gets a tattoo, becoming the absolutely sexiest thing he's ever seen?
+Dean runs his tongue over his lips again. He's too far gone, he realizes. How can this -- watching Cas gets a tattoo -- become the absolutely sexiest thing he's ever seen?
 
 Continuing staying in this goddamn tattoo shop watching that thin ink pen drawing dark lines on Cas's skin (and it's the skin right above the waistband, worst of all!) would turn him into a complete wreck, Dean realizes shortly with absolute clarity. The heat on his cheeks are extending quickly to somewhere else.
 
@@ -3077,13 +3077,11 @@ In the next two agonizingly long hours, Dean stays by Cas's side. Consciously, o
 
 
 
-
-
 <br>
 
 ### draft notes
 
-(Next up: Donatello share)
+(Next up: Donatello share info)
 
 The tablets would serve as a physical container of the Words' power in the material plane. Just like Yin and Yang, Heaven and Hell, light and darkness, tablets also have their attributes. And more specifically, the angel tablet and demon tablet are exactly the matching pieces. Whoever have both of them could unleash unimaginable amount of power, that's why they should always be kept separately, and making sure no angel should own the angel tablet, and no demon should own the demon tablet, to ensure the balance of the universe.
 
@@ -3107,7 +3105,7 @@ The tablets would serve as a physical container of the Words' power in the mater
 
 > So Crowley and Metatron fight, both tablets crush together and get destroyed, Crowley killed Metatron, almost get himself killed too.
 >
-> Dean risks his life getting the exploded grace from Metatron before he gets torched, feeding Cas's grace back, so Cas is angel again. And Cas uses his wings to protect Dean. [VISUAL HEAR]
+> Dean risks his life getting the exploded grace from Metatron before he gets torched, feeding Cas's grace back, so Cas is angel again. And Cas uses his wings to protect Dean. [VISUAL HERE]
 >
 > When two tablets crush together and the god power in the tablet are released (it's balanced power from angel/demon side, so very pure and powerful), the power wave heals Sam too (the trial sickness comes from tablet curse/sacrifice).
 >
