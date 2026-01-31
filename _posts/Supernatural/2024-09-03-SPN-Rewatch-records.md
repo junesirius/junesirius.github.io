@@ -749,6 +749,8 @@ The symbol for Lucifer might also mean light or fallen
 >
 > Let me be a mystery to those who have fury, let me be a mystery to the sons of men
 
+其他[ref 1](https://www.tumblr.com/nerdstrings/135011340383),  [ref 2](https://www.tumblr.com/tifent/65142207093)
+
 ### S09E06
 
 Cas介绍仁慈天使的名字：
