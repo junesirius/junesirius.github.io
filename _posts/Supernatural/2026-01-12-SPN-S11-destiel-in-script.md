@@ -457,7 +457,7 @@ It almost sounds like prophetic now, Dean's dark hunch about Cas dying or dead, 
 
 <br>
 
-**PS:** It's also very enjoyable to watch the Cas inside his mind being so passive and detached compared to his usual self outside, it's rare actually:
+**PS:** It's also very enjoyable to watch the Cas inside his mind being so passive and detached compared to his usual self outside, it's rare actually: (S11E18)
 
 > INT. Cas's mind - "Men of Letters Galley" - Night
 >
@@ -465,7 +465,7 @@ It almost sounds like prophetic now, Dean's dark hunch about Cas dying or dead, 
 >
 > Wider-- And we realize the darkened room is the galley, back in the bunker. There's a soft glow behind Crowley and some soft, muffled sounds of audience reaction and voices. We hear but don't see, <u>a cheesy daytime talk show</u>.
 >
-> New angel-- As Crowley spins to see Cas, lounging against a counter, remote in hand, staring at the TV.
+> New angle-- As Crowley spins to see Cas, lounging against a counter, remote in hand, staring at the TV.
 >
 > Crowley: Castiel?
 >
@@ -504,6 +504,12 @@ It almost sounds like prophetic now, Dean's dark hunch about Cas dying or dead, 
 > Crowley: (at wit's end) Just <u>do</u> it! Now! Before it's too late!
 >
 > Lucifer (O.C.): Oh, it already is.
+>
+> Crowley spins, as:
+>
+> New angle-- <u>The actual Lucifer</u> stands in the open doorway, calmly regarding Crowley. He comes closer, as:
+>
+> Lucifer: Really Crowley? You mean to cage me up again? I'm not going anywhere. And neither are you.
 
 Cas really just doesn't listen to anyone but Dean's opinion. If it's Dean telling him to do something, he's immediately like "maybe I should". Seven years and he's still the S4 Cas sitting in that bench telling Dean his order is to listen to Dean's order, and he'd still be that way for the entire twelve years until the end.
 
