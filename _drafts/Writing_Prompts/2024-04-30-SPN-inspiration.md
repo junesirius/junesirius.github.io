@@ -1641,6 +1641,16 @@ Cas sees leviathans and everything, only way out is he juice up, so in order to 
 
 Dean insists him out too or else he'll jump back in & they'll help fix Cas's leviathan problem, Cas complies finally, drooping leviathan ooze occasionally but mostly can hold them back, goes to hell, steals Sam's soul back and fixes him, fights Raphael with his leviathan part ("rock beats scissor, leviathan beats angel"), cancels out both problems (explodes, Dean freaks out, Cas survives), problem solved, world in peace again
 
+### 161.5.【denny/dennstiel】What if Sam killed Benny, Dean turns himself a monster and go to Purgatory again to save Benny again and Cas too
+
+(a little similar to prompt 161 where Cas turns himself a monster to save Dean in Purgatory, this is Dean turn himself a monster to save Benny and Cas)
+
+S08E05-S08E10 What if Sam did kill Benny? Sam has threatened to kill Benny all the time, what if he succeeded in killing Benny (similar to Martin, but better and faster than Martin)?
+
+Dean is going to be devastated, maybe even go extreme to turn himself into a monster and die to go to Purgatory. He believes Cas would still be down there, so might as well go there again to save both Benny and Cas.
+
+And maybe Dean would run into the angel/Naomi as they are going down to retrieve Cas, and maybe Cas is trying to fight them *and* Leviathans at the same time. And Benny is already there helping him. And Dean joins them and saves Benny again, and finally when Dean confronts why Cas lets go, Cas realizes he's hurting Dean by self-punishing, finally admits he didn't think he deserve to leave and he needs self-punish, and Dean and Benny together finally make him see that he deserves it and Dean gets both of them out together. And Sam meanwhile is shocked that Dean would kill himself over Benny (from his POV, he wasn't thinking Dean's also trying to save Cas), and slowly think he might be wrong about Benny. And after seeing Dean, Benny, Cas all come back together, Sam apologizes, Dean/Sam get back on okay terms.
+
 ### 162.【destiel】S08E02 "Too much hearts is always Castiel's problem"
 
 Sammandriel: Too much hearts is always Castiel's problem
@@ -3474,6 +3484,18 @@ The monsters live with humans together in peace/balance (?)
 
 why are dogs really on Earth?
 
+### 302.5【all】S08 the Dog Sam ran into and saved is not actually a dog
+
+everything between S08 Sam and Amelia is because Sam ran over a dog and had to take the dog to Amelia's place and the two have that complicated one-year romance storyline
+
+what if that Dog is not actually a dog, like S09E05 said half-sentence "the real reason dogs were put here was to..."? So now what that dog really is? an angel? a monster? a Cupid? a skinwalker? a shapeshifter? something controlled by God/Fate/Destiny?
+
+Sam would find out about this later?
+
+canon after Sam separates with Amelia, where does the dog go? Amelia adopts the dog? Maybe that's how Amelia gets into trouble/danger, Sam has to come to save her and find out, they investigate (so it's a case fic now), and realize that real reason?
+
+Maybe can have dog Dean again? one year earlier than canon dog Dean case?
+
 ### 303.【destiel】 S05E04 what if Cas/Dean infected by Croatoan
 
 （inspired by 《The Last of Us》）
@@ -5306,11 +5328,17 @@ maybe Dean's also counseling, (new chapter, new counseling session note), feelin
 
 (can keep this going; can also write like series, each session a series? instead of chapters
 
-### 434.【Dean】suicidal Dean actively restart Hell trials
+### 434.【Dean/destiel】suicidal Dean actively restart Hell trials (after S15E18 or during MoC)
 
 MoC!Dean can go through Hell trials without dying, can have Hell sealed
 
 or post-S15E18 widower Dean can't see the light at the end of the tunnel anymore, so decides to restart the Hell trial (S08E14 quote, because Cas was his light, and now no light), so he thinks he'll die anyway, might as well make some good out of it (the trials all about sacrifice, Cas sacrificed for him, at least he can sacrifice for the world)
+
+### 434.5【destiel】post-S15E18 Dean goes through Hell trials again
+
+After Cas is gone and God problem is fixed, suicidal widower Dean pushes Dean out of his life (so Sam can have a normal life) and lies about retiring, but he actually does the Hell trails himself and actually succeeds, he finishes all three and heals a demon and successfully does seal Hell. Sam doesn't know until Dean did all that and died (maybe it's Rowena reaching out to Sam), Sam can't get Dean back and desperately prays to Cas. Cas is waken up in Empty and only now fights absolutely desperate to get out of Empty to save Dean again. Maybe they'll meet again in Heaven?
+
+Rowena might interact with them about their plan in many ways, maybe actually even help Dean achieve it and promise to hide from Sam (so that Sam wouldn't jeopardizes their process) but takes pity on Sam so tells him afterwards. Maybe Rowena even promised Dean to help cover up his death, like giving him a clone or a doll or a spell to pretend he can still take phone calls or reply messages but just avoids meeting Sam in person by all means, but in the end noticed by Sam about something seriously going wrong, so the cover-up blows up. Or not, Rowena *can* be a sorta bad guy here if she wants, like making deals, trying to get back to Earth and relive again, or maybe the deal is to get Crowley back, so the plot would get even more complicated.
 
 ### 435.【Dean】S15E20 Dean fakes his death to let Sam live a normal life, he goes to do Hell trials alone
 
@@ -5506,4 +5534,41 @@ Crowley & Naomi: S8 (E17?) when Crowley met Naomi, Crowley said he liked how thi
 
 Naomi knows Ajay: S08E19 Naomi warns Dean about Ajay's approach to Hell is through Purgatory. Maybe through Crowley? Kinda like third wheel thing between those three?
 
-### 451.
+### 451.【denny/dennstiel】S08E01 what if Dean forgets all Purgatory memory the moment he crosses the portal
+
+(Inspired by Northern Sparrow's *Forgotten*)
+
+What if S08E01 after Dean comes back from Purgatory, the moment he crosses the portal, he immediately forgets everything in Purgatory, so he has Benny in his arm but he forgets he's there, and/or he remembers/figures out this part but forgets the spell how to resurrect Benny or where Benny's tomb/bones are. Then what would he do? How would he remember Benny, *and Cas* and everything from Purgatory?
+
+Maybe something about Benny's soul inside his body but as a carryover not a possession would have some different affect on Dean's soul, what's the visual there? Maybe Benny's soul can't really do anything but slowly integrate into this vessel if he stays too long? During that process he'd be in Dean's dream and starts talking and Dean would realize he has his self-consciousness, so not a subconsciousness thing his brain created. Maybe Dean would turn to more like Benny, like in behaviors, certain wording style, personality, etc.? Have Benny's old life's memory?
+
+Cas can be part of this story to (if we go that way), maybe Cas realize the portal's affect on Dean's memory somehow somewhere from someone, maybe some monster has met Dean and got killed and Cas run into them and realize something seriously wrong (like that personality change and similarity to Benny part), so Cas would fight his ass out of Purgatory blood way, maybe turn himself into a human in order to make the Purgatory spit him out, but if he does that, he's lose memory too, so he needs to figure out a way to make himself remember before leaving Purgatory. But maybe even with the reminder notes he'd still only have partial memory, and something would still be wrong, maybe he can't find Dean or has to sacrifice a lot to find Dean and save Dean and Benny together. And Dean save Cas and Benny, and Benny for Dean and Cas. A full three-way trio saving story.
+
+### 452.【dennstiel】Benny and Cas save Dean together
+
+post-S08 after Benny and Cas are both back on Earth from Purgatory (or maybe still in Purgatory? but less fun case fic to work with), something really bad happened to Dean (likely case fic), Benny and Cas are the only two knowing about that (so maybe some other monster figure out a way to come back from Purgatory too? so it's shared Purgatory knowledge?), and Benny and Cas have to work really closely to find Dean and save him, and during the process the two get chances to talk and realize both are very determined about saving Dean, both are so deep in friendship that it's not just friendship anymore, both love Dean very very much, and Dean is a lucky son of a bitch to have them (reach agreement lol) (maybe the case fic can be centered around this point, realizing this is the only way they can save Dean) (for whatever reason Sam isn't helpful in this case fic, either he's knocked over somewhere, or his brotherhood doesn't fit the theme so just doesn't work, can't save Dean, maybe Sam is the one bring Benny and Cas together, maybe initially thought Cas alone can save Dean, but then slowly Cas realize he'll need another similarly deeply bond person with Dean to save Dean and Sam doesn't work, so Cas brings Benny in, while Sam strongly against (so this can be before S08E10 timeline when Sam is strongly pissed and biased about Benny), so the rest is just Cas and Benny saving Dean)
+
+### 453.【Crowley】S08E02 What if Crowley's bidding of his soul is accepted by Plutus during auction and becomes a soulless human
+
+What if Plutus (God of Greed) accepts Crowley's bidding of "I offer my own soul"? Crowley doesn't have a soul *at the moment*, but he might have one after canon S08E23 trial when he's "cured", the "cure" part is actually about "fixing the problem of not having a human soul", so the third trial's method can get that fixed, and the Greek Gods know how to do that. So they turn Crowley to a human using that "cure the demon" methods and takes his newly grown soul as the auction's price. And so now Crowley becomes a human for a hot minute and immediately become a soulless human, and legally owns Kevin and the demon tablet.
+
+What would the soulless human Crowley do? (borrow something from soulless other people, e.g. S06 Sam, S12 Donatello, S14 Jack etc.)
+
+Maybe soulless Crowley also wants to close Hell? because he does actually dislike Hell, and demons who hated him who want to kill him now after knowing he's become human, so this is also Crowley's self-protection
+
+so maybe soulless Crowley would team up with TFW to go through the demon tablet trials and contribute to closing Hell. being more of a douche than when he was a demon. or maybe not much difference, still same old way sarcastic and clever and sleeky, but without demon powers, with more human emotions, more like the Crowley wreck addicted to human blood
+
+### 454.**【destiel】S08E03 Dean bought a translation app to learn Enochian**
+
+S08E03 case fic Dean mentioned he bought a translation app and Sam is so surprised, because it just never happened before, and their phones are broken so easily, so any app they downloaded to a specific phone is very easily go wasted, but Dean bought a translation app nonetheless, and we only saw them using it once for that case.
+
+But what if, Dean originally bought that translation app is for learning Enochian, because he wants to understand Cas. Maybe Cas dreamtalks in Purgatory when they spent a year together, and every night when Dean hears Cas mumble in dream, Dean is thinking and wishing he'd have a translation app so he can know what Cas dream about (every time he asks Cas what he dream about, Cas just swipes it off and say he doesn't remember), so the second Dean comes back to Earth, he immediately bought one. But Cas isn't back, so he can't use it. But Dean keeps thinking Cas will be back, that's why he still get this prepared regardless.
+
+(can be a one-shot short one)
+
+can have a time jump, all the way to post finale, then established relationship, Dean and Cas are officially together and at night, Cas dream talk again, and Dean immediately remember those Purgatory nights and remember he has a translation app on his phone, and so he listens to Cas's dream talks, and all the time Cas is trying to protect and save Dean, worries about him, and Dean can recognize many parts are from their past memory, some he doesn't know (like from the S08E17 brain wash time when he has to kill many Deans), Dean's crying over Cas's dream talks, then Cas wakes up and sees the app and knows Dean know his dreams now, they hug and comfort each other. (Cas isn't very disturbed by those dreams now because he's getting used to them, but he's disturbed/pained to see Dean cry, especially cry for him.)
+
+(so hurt/comfort but sweet and domestic)
+
+### 455.
+
