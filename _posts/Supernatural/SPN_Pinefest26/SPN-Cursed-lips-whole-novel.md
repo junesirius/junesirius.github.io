@@ -11,7 +11,7 @@ long_novels: 【Destiel】I Swear On Castiel's Name
 published: false
 ---
 
-**Tags:** Canon Divergent, S8 Timeline, S08E21, Inspired by *Once Upon a Time*, Curse Fic, Emotional Repression, Mutual Pining, Angst, Yearning, Hurt/Comfort, Canon-Typical Miscommunication, Canon-Typical Anger-Control Issue, Minor Canon-Typical Suicidal Ideation, Meta-Narrative, Eventual Happy Ending, Minor Character Death
+**Tags:** Canon Divergent, S8 Timeline, S08E21, Inspired by *Once Upon a Time*, Case Fic, Curse, Emotional Repression, Mutual Pining, Angst, Yearning, Hurt/Comfort, Canon-Typical Miscommunication, Canon-Typical Anger-Control Issue, Minor Canon-Typical Suicidal Ideation, Meta-Narrative, Eventual Happy Ending
 
 **Warning:** Graphic Depictions of Violence
 
@@ -76,6 +76,26 @@ Some big explosion magical light comes from two crushing tablets, Dean throws hi
 Dean's lips are cursed. If he ever kisses Castiel, Cas will lose his power.
 
 ### Excerpt
+
+*But you are following me around.* Dean thought reflexively, but not daring to say it. Castiel could be so very intimidating, and, *damnit*, it was making him so incredibly hot.
+
+Dean swallowed again, his tongue darting out to wet his lips. He could feel his insides cringing under the skin, trying to shrink smaller under the angel's gaze, but there was nowhere to hide. The angel was staring at him, eyes on his every single move, cornering him, caging him. Everywhere Dean looked, the space was occupied by the angel -- everywhere.
+
+Castiel leaned in even closer, his lips ghosting inches away from Dean. His tone was murderous, deadly, but Dean's mind already fell blank. It was impossible to focus on the world-saving crisis in moments like this, when the angel was just so, so close. He tried to avert his eyes but failed utterly. His eyes broke free of his mind's control, only focusing on the parts that were the sole things that he could still see. Their skin could touch if his body just ever so slightly swung a degree forward.
+
+The thought steamed Dean's brain, making his mind and eyes all dizzy and foggy, and hot.
+
+Warm breath came out between those lips and huffed onto his skin as Castiel stretched out his sentence slowly, awe-strikingly, celestially, "You should show me some respect. I dragged you out of Hell. I can throw you back in."
+
+The angel didn't blink the slightest; his stare could quite literally burn a hole on Dean's face. He waited for the words to sink in.
+
+Two inches. That was the distance between the angel's lips and his neck. There were barely two inches. That was all Dean could think about.
+
+The last thread of reasoning in Dean's mind knew he wouldn't be able to give *any* decent answer that Castiel would be satisfied with, so he forced his tongue to stay still, and he forced his body to not swing or lean in even closer to close the last remaining distance between them, or do *anything* at all. That thin thread of reasoning was so sure that if he ever moved, he would do something unbelievably stupid and crazy and get himself smitten. So he held his breath and froze completely.
+
+Dean didn't breathe until he realized the angel disappeared without saying goodbye. He blinked then. Slowly. As if his whole body was just slowly thawing.
+
+*Well, that hell of a speech might be the hottest threat he'd ever heard.* He thought absently, replaying the view in his head over again, especially those eyes, that nose, that shadow and light on his face, and those lips. *He's so damned.*
 
 ## Arts
 
@@ -186,9 +206,9 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > *But you are following me around.* Dean thought reflexively, but not daring to say it. Castiel could be so very intimidating, and, *damnit*, it was making him so incredibly hot.
 >
-> Dean swallowed again, his tongue darting out to wet his lips. He could feel his inside cringing under the skin, trying to shrink smaller under the angel's gaze, but there was nowhere to hide. The angel was staring at him, eyes on his every single move, cornering him, caging him. Everywhere Dean looked, the space was occupied by the angel -- everywhere.
+> Dean swallowed again, his tongue darting out to wet his lips. He could feel his insides cringing under the skin, trying to shrink smaller under the angel's gaze, but there was nowhere to hide. The angel was staring at him, eyes on his every single move, cornering him, caging him. Everywhere Dean looked, the space was occupied by the angel -- everywhere.
 >
-> Castiel leaned in even closer, his lips ghosting inches away from Dean. His tone was murderous, deadly, but Dean's mind already fell blank. It was impossible to focus on the world-saving crisis in moments like this, when the angel was just so, so close. He tried to avert his eyes but failed utterly. His eyes broke free of his mind's control, only focusing on the parts that were the sole thing that he could still see. Their skin could touch if his body just every so slightly swing a degree forward.
+> Castiel leaned in even closer, his lips ghosting inches away from Dean. His tone was murderous, deadly, but Dean's mind already fell blank. It was impossible to focus on the world-saving crisis in moments like this, when the angel was just so, so close. He tried to avert his eyes but failed utterly. His eyes broke free of his mind's control, only focusing on the parts that were the sole things that he could still see. Their skin could touch if his body just ever so slightly swung a degree forward.
 >
 > The thought steamed Dean's brain, making his mind and eyes all dizzy and foggy, and hot.
 >
@@ -196,9 +216,9 @@ And soon, when he starts the fourth series among all eight that he received, his
 >
 > The angel didn't blink the slightest; his stare could quite literally burn a hole on Dean's face. He waited for the words to sink in.
 >
-> Two inches. That was the distance between the angel's lips to his neck. There was barely two inches. That was all Dean could think about.
+> Two inches. That was the distance between the angel's lips and his neck. There were barely two inches. That was all Dean could think about.
 >
-> The last thread of reasoning in Dean's mind knew he wouldn't be able to give *any* decent answer that Castiel would be satisfied about, so he forced his tongue to stay still, and he forced his body to not swing or lean in even closer to close the last remaining distance between them, or do *anything* at all. That thin thread of reasoning was so sure if he ever moved, he would do something unbelievably stupid and crazy and got himself smitten. So he held his breath and froze completely.
+> The last thread of reasoning in Dean's mind knew he wouldn't be able to give *any* decent answer that Castiel would be satisfied with, so he forced his tongue to stay still, and he forced his body to not swing or lean in even closer to close the last remaining distance between them, or do *anything* at all. That thin thread of reasoning was so sure that if he ever moved, he would do something unbelievably stupid and crazy and get himself smitten. So he held his breath and froze completely.
 >
 > Dean didn't breathe until he realized the angel disappeared without saying goodbye. He blinked then. Slowly. As if his whole body was just slowly thawing.
 >
@@ -3119,7 +3139,7 @@ The tablets would serve as a physical container of the Words' power in the mater
 >
 > When two tablets crush together and the god power in the tablet are released (it's balanced power from angel/demon side, so very pure and powerful), the power wave heals Sam too (the trial sickness comes from tablet curse/sacrifice).
 >
-> They can let Crowley just die, but at the last moment they get soft and consider him still useful, so Dean asks Cas to heal Crowley, so now Crowley owes them. Crowley leaves with grudge but not as enemy (also without tablet he's more normal him and not aggressive/arrogant anymore).
+> They can let Crowley just die, but right before they are about to kill Crowley, Crowley offers the deal to bring Kevin back in exchange for his life. Kevin's body is in Crowley's place, and Crowley knows Kevin is still in Vail instead of going to Heaven or Hell, so there's still a chance to stuff his soul back into his body to resurrect him. Sam still think Crowley should die (for killing all the prophets and all the people and want to start a Heaven war, and doesn't think it's a good idea in general to deal with Crowley), but Dean checks with Cas about the prophet's rule, now that Donatello is already the new prophet, even when Kevin comes back alive, Kevin wouldn't be a prophet, meaning if he's resurrected, Kevin can actually go back to normal life without being a prophet, going to school if he wants, has a second chance of normal life. Dean gets soft and agrees to Crowley's deal. Crowley is too badly hurt, so Dean asks Cas to heal Crowley, Crowley does bring Kevin back alive to keep the deal, and then leaves. (so they are in okay term with Crowley, not exactly end as enemy, kind of helpful, also without tablet, Crowley is more normal him, not so aggressive/arrogant anymore, just more of a normal douche that he is)
 >
 > So now the world crisis is solved, Dean finally allows himself to reciprocate, revealing that he believes he should prove himself to Cas, compensate Cas, same as when Cas was human, thinking *he* should be the one to prove to Dean. The two finally use actual words (a little like *Zootopia 2* confession/communication scene, hashtag *Dean Winchester uses actual words*). Dean finally considers himself worthy of Cas's love.
 >
