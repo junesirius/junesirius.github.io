@@ -5570,5 +5570,22 @@ can have a time jump, all the way to post finale, then established relationship,
 
 (so hurt/comfort but sweet and domestic)
 
-### 455.
+### 455.**【all/Ghostfacers】ghost haunting that has a scientific explanation**
 
+(inspired by [TED talk: A scientific approach to the paranormal | Carrie Poppy](https://www.youtube.com/watch?v=n8yhaFd_GpM))
+
+From the TED: The symptoms of Carbon Monoxide poisoning include a pressure on your chest, auditory hallucination, and an unexplained feeling of dread
+
+Quote speaker's story, Carrie (NOTE: change name when adapt), when she was twenty-five years, living in a guest house behind a friend's house, have a spooky feeling of being watched, but no one was there. The feeling just kept getting worse. Started to feel pressure on her chest, sort of like the feeling when you get bad news. But it started to sink lower and lower and almost hurt. And over the course of the week, this feeling got worse and worse, and she started to become convinced that something was there, haunting her. And she started to hear these sounds, this "whoosh," kind of whisper, like something passing through her. 
+
+Adapt: case fic that's not actually a Supernatural case
+
+Karla, twenty-five, living in the guest house, have the spooky feeling of being watched, convinced the house is haunted, feel pressure on her chest and getting worse, start hearing sounds like whispers, living in LA. Go online to look for help from Ghost Hunters, found Ghostfacers (Ed/Harry)'s contact, call them for help. Ghostfacers get there, investigate, EMF doesn't work, no dead person in the house, salt/iron doesn't work, can't see real ghost activity, but they did also start feeling that pressure on their chest and hearing things, especially when they stay there longer (e.g. for investigation's purpose, they stay the night and feel worse the next morning).
+
+Ghostfacers feel worse and worse and more paranoid and annoyed they can't figure out the ghost problem, but also convinced it really is a ghost case, one of them (likely Harry) have Sam/Dean's contact and call them (while Ed maybe try to stop him because he still thinks he can solve this, but some of them start getting really bad, maybe it's the girl), asking for help.
+
+Sam/Dean go into the house, do the normal check just like Ed/Harry does, but also no EMF, no dead body or violence death in the history, salt/iron doesn't help, but also feel the tight chest, hearing sound, feel they're watched. This is the first time they really feel they're stuck in a case, and it's supposed to be an easy case (ghost cases are usually easy to fix). They don't know what to do, Dean has to pray and call Cas (maybe this is S6 timeline? should be a normal easy time without major plotline, but also Cas isn't always with them), and Cas comes and checks, immediately know there is no ghost (because he can see Vail, because he's in full power), but Dean convinces him there must be something, ask him to look closer, and Sam/Dean stay longer in the house, getting worse and worse, Dean getting sick. Cas goes to check Dean's health, only then he notices abnormal Carbon Monoxide level, and heals everyone and cleanse the house of it (Cas as angel doesn't realize intuitively this "very common" chemical is fatally poisonous to human body, also there are too many molecules in the air, he didn't check all of them, and the amount in the leak is actually not too much, but accumulating can be life threatening). And Sam does the research later and confirms Carbon Monoxide poisoning can actually cause all their symptoms (paranoid, pressure on chest, auditory hallucination, unexplained feeling of dread, feeling haunted), and the girl comes in to confirm she doesn't feel haunted anymore. Cas's suggestion for Sam/Dean/Ed/Harry is to carry Carbon Monoxide detector together with EMF next time. Everyone is surprised (especially Sam/Dean) that this "haunted case" isn't a supernatural case but they all learned something.
+
+(Author's Notes after the fic: This is fully inspired by and adapted from the TED talk ([A scientific approach to the paranormal | Carrie Poppy](https://www.youtube.com/watch?v=n8yhaFd_GpM)), and it's all true that Carbon Monoxide poisoning can cause paranoid of as if being haunted. I think in real life, this is actually a very important piece of knowledge to learn that not many people would know or link the two together. Maybe our heroes didn't solve a supernatural case fic today, but I sure hope from this fic, this knowledge can be spread and save some real people in the real life.)
+
+### 456.
