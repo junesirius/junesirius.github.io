@@ -5530,9 +5530,17 @@ Crowley & Ajay: S08E19, they clearly know each other, worked together before, Aj
 
 Crowley & Billie: when Billie was still just a reaper, first time Billie in the same room with Crowley, they give each other meaningful looks, Billie specifically greeted Crowley separately "Crowley." There must be something between them in the past. S11 later part, Billie also watches the Hell door for Crowley when Dean tries to go there in the right way.
 
-Crowley & Naomi: S8 (E17?) when Crowley met Naomi, Crowley said he liked how things were between them when they were in Mesopotamia, and he said Naomi knew he was a lover, not a fighter. So Mesopotamian time, Crowley and Naomi might be lover?
+Crowley & Naomi: S08E17 when Crowley met Naomi, Crowley said he liked how things were between them when they were in Mesopotamia, and he said Naomi knew he was a lover, not a fighter. So Mesopotamian time, Crowley and Naomi might be lover?
 
 Naomi knows Ajay: S08E19 Naomi warns Dean about Ajay's approach to Hell is through Purgatory. Maybe through Crowley? Kinda like third wheel thing between those three?
+
+### 450.5【Crowley/Naomi】S08E17 "I'm a lover", Crowley & Naomi were together before, and Heaven's brainwash tool comes from Crowley
+
+Naomi's angel brainwash lobotomy tool looks somewhat similar to Crowley's angel torture tool, so maybe Naomi's tools come from or inspired by or provided by Crowley
+
+S08E17 the first time Crowley meets Naomi in canon, Crowley: "Easy, love. If you remember our time in Mesopotamia the way I do, you know I'm a lover, not a fighter." (but Naomi answers with "you cockroach", then maybe that's a nasty breakup? Or Naomi actually doesn't remember?)
+
+but what if they were indeed together back then, but Naomi is so ashamed of herself, the first thing she did after she get Crowley's lobotomy tool is to use it on herself, or ask Crowley or some other angel to use it on herself (and lobotomize those others once her own surgery is done), so she can forget this whole time her interaction with Crowley, and ever since, she's obsessed with the tool and consistently use it on herself and every angel she considered out of line, and this (having been brainwashed for so many times) have changed her personality and all aspects so much, and Crowley is the only one remembering and knowing all this.
 
 ### 451.【denny/dennstiel】S08E01 what if Dean forgets all Purgatory memory the moment he crosses the portal
 
