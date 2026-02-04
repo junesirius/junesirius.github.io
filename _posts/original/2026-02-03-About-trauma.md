@@ -9,4 +9,44 @@ pov: 第一人称视角
 origin: 个站
 ---
 
-Probably one of the biggest mysteries is: Love can't fix everything. Can't always heal trauma. Sometimes trauma comes from love, even. Sometimes, you get so so much love, but the trauma is still there, it's healing, slowly, glacially, but it's still there. Deep, old, there.
+Probably
+
+One of the biggest mysteries
+
+Love can't fix everything
+
+Can't heal trauma
+
+Not always
+
+Not all the times
+
+<br>
+
+Sometimes
+
+Trauma comes from love, even
+
+Sometimes
+
+With all the love in the world
+
+Trauma is still there
+
+<br>
+
+Healing
+
+Slowly
+
+Glacially
+
+But still there
+
+<br>
+
+Deep
+
+Old
+
+There
