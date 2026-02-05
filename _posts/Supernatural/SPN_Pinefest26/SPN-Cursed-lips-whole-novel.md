@@ -3,7 +3,7 @@ layout: post
 title: 【Destiel】I Swear On Castiel's Name
 date: 2025-08-22 02:43
 categories: ["SPN"]
-characters: ["Castiel", "Dean Winchester", "Fergus MacLeod/Crowley"]
+characters: ["Castiel", "Dean Winchester", "Fergus MacLeod/Crowley", "Sam Winchester", "Kevin Tran", "Donatello Redfield"]
 tags: ["Supernatural", "destiel", "英文", "吻"]
 pov: 第三人称
 origin: 2026 DeanCas Pinefest
@@ -132,6 +132,8 @@ later chaps when writing Crowley's plot: S08E22 Crowley read SPN book, quoting W
 Skip/remove Chap 1-10 (S08E17)? Didn't add onto the plot and write poorly.
 
 Maybe add Kevin's auto-set email/video early?
+
+pedal → gas pedal
 
 <details>
     <summary>Example for collapsibles: use this format for posting chap 1</summary>
@@ -1755,7 +1757,7 @@ Cas's tone softens. "So did you find anything? Metatron said removing the spell 
 
 Dean's shoulders sink down. "He... sorta also made sure about that. He said the spell is bound to my soul. So unless I actually change my mind, the curse stays. And..." he blushes slightly. "I know I'm not going to change my mind any time soon... Or ever." He glances at Cas.
 
-Cas frowns deeply, missing the look and glance, thinking hard on the problem. "This is making the case very tricky then. Only very fundamental spell and elements can be bound directly to the soul, and the stronger the soul is, the more powerful the spell is. Of course we don't want to hurt you or your soul," he pauses meaningfully for a long beat, staring at Dean's hand for another long moment, before looking up to meet Dean's eyes. "Have you considered following the rule, picking the easier choice of the two?"
+Cas frowns deeply, missing the look and the glance, thinking hard on the problem. "This is making the case very tricky then. Only very fundamental spell and elements can be bound directly to the soul, and the stronger the soul is, the more powerful the spell is. Of course we don't want to hurt you or your soul," he pauses meaningfully for a long beat, staring at Dean's hand for another long moment, before looking up to meet Dean's eyes. "Have you considered following the rule, picking the easier choice of the two?"
 
 "What?" Dean blinks.
 
@@ -1809,7 +1811,7 @@ Why Dean doesn't like Sam/Cas touch: Sam's power/sick from demon tablet, Cas's s
 
 ### Act 1
 
-The idea comes to Dean when he sits back down in front of laptop, with Cas flipping old research books on the other side.
+The idea comes to Dean when he sits back down in front of the laptop, with Cas flipping old research books on the other side.
 
 The screen shows a website that cumulated all the *Supernatural* books people managed to find over the years, some are published, some aren't. They seem to be not as complete as Metatron's book provider (it doesn't have the one Metatron seems to be able to find out about Charlie and the djinn last week), but already enough to make Dean frown at the so-called "wiki" page with knuckles pressed on his temples. He gets the link from Charlie, who is more than glad to share it and promise to dig around and hack to find if there are more that can help.
 
@@ -1817,7 +1819,7 @@ The screen shows a website that cumulated all the *Supernatural* books people ma
 
 "Yeah, good idea." Cas agrees absentmindedly, still reading the page he's on.
 
-Expectedly and disappointedly, no one picks up Chuck's house phone, and no one from the book agency knows what happened to him. The same publisher girl they met before answers their call to the publishing house.
+Unsurprisingly but still disappointedly, no one picks up Chuck's house phone, and no one from the book agency knows what happened to him. The same publisher girl they met before answers their call to the publishing house.
 
 Apparently, no one has ever seen him ever again since three years ago, but the books are still writing themselves and appearing on his laptop as long as it's powered on. Most people think it's a prank, like a remotely-controlled laptop kind of thing, and the new series are written by a fan. But the hacker is too good to be traced, and the stories are decent anyway to pass for a canon, so the publisher takes over the house and continues publishing them, but only exclusively to private buyers.
 
@@ -1913,7 +1915,7 @@ Dean grabs a piece of paper to write down all the letters they find so far: "HEL
 
 "Maybe because he runs out of prophets to kill? That's all the people he kidnapped last time, I believe that's all the names Samandriel told him when he was tortured."
 
-"Hum, 'runs out of prophets to kill' isn't a sentence I thought I'd hear," Dean says as he pulls out the searching engine. And there they are, the other three innocent non-prophets, other three letters: "O", "Y", "S".
+"Hmm, 'runs out of prophets to kill' isn't a sentence I thought I'd hear," Dean says as he pulls out the searching engine. And there they are, the other three innocent non-prophets, other three letters: "O", "Y", "S".
 
 "*'Hello, Boys.'* So the message is for us." Dean reads out loud, so pissed and disbelieving that he's almost laughing. He breathes in sharply then lets it out. "What's wrong with Crowley? He lost his phone or something? Couldn't just give us a call to say hi like normal people?"
 
