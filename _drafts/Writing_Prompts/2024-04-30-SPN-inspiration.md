@@ -2656,6 +2656,8 @@ Garth appear and help Benny (or other way around), the two work together, bicker
 
 S15E09 time, leviathan lies, Benny find Dean, save him from some attacking monsters, Dean ask him to find Cas (Benny: "you lost your angel again?"), Benny rally his men; Garth find Cas, save him from leviathan, destiel reunite, Benny/Garth/Dean catch up briefly, bring them back through Michael's portal, continue to live & save the world together
 
+Note: The first time Garth hears Benny's name from Dean/Sam: S08E06 Sam to Dean: "Just like you had your reasons for Benny." Garth: "Who?"
+
 ### 255.【Crowley】S09E11 search the ocean for first blade
 
 ocean is salty water, demon Crowley get sting and wounded by the sea?
@@ -5552,7 +5554,7 @@ Maybe something about Benny's soul inside his body but as a carryover not a poss
 
 Cas can be part of this story to (if we go that way), maybe Cas realize the portal's affect on Dean's memory somehow somewhere from someone, maybe some monster has met Dean and got killed and Cas run into them and realize something seriously wrong (like that personality change and similarity to Benny part), so Cas would fight his ass out of Purgatory blood way, maybe turn himself into a human in order to make the Purgatory spit him out, but if he does that, he's lose memory too, so he needs to figure out a way to make himself remember before leaving Purgatory. But maybe even with the reminder notes he'd still only have partial memory, and something would still be wrong, maybe he can't find Dean or has to sacrifice a lot to find Dean and save Dean and Benny together. And Dean save Cas and Benny, and Benny for Dean and Cas. A full three-way trio saving story.
 
-### 452.【dennstiel】Benny and Cas save Dean together
+### 452.【dennstiel】Benny and Cas help each other to get back from Empty together and to save Dean together
 
 post-S08 after Benny and Cas are both back on Earth from Purgatory (or maybe still in Purgatory? but less fun case fic to work with), something really bad happened to Dean (likely case fic), Benny and Cas are the only two knowing about that (so maybe some other monster figure out a way to come back from Purgatory too? so it's shared Purgatory knowledge?), and Benny and Cas have to work really closely to find Dean and save him, and during the process the two get chances to talk and realize both are very determined about saving Dean, both are so deep in friendship that it's not just friendship anymore, both love Dean very very much, and Dean is a lucky son of a bitch to have them (reach agreement lol) (maybe the case fic can be centered around this point, realizing this is the only way they can save Dean) (for whatever reason Sam isn't helpful in this case fic, either he's knocked over somewhere, or his brotherhood doesn't fit the theme so just doesn't work, can't save Dean, maybe Sam is the one bring Benny and Cas together, maybe initially thought Cas alone can save Dean, but then slowly Cas realize he'll need another similarly deeply bond person with Dean to save Dean and Sam doesn't work, so Cas brings Benny in, while Sam strongly against (so this can be before S08E10 timeline when Sam is strongly pissed and biased about Benny), so the rest is just Cas and Benny saving Dean)
 
@@ -5596,4 +5598,30 @@ Sam/Dean go into the house, do the normal check just like Ed/Harry does, but als
 
 (Author's Notes after the fic: This is fully inspired by and adapted from the TED talk ([A scientific approach to the paranormal | Carrie Poppy](https://www.youtube.com/watch?v=n8yhaFd_GpM)), and it's all true that Carbon Monoxide poisoning can cause paranoid of as if being haunted. I think in real life, this is actually a very important piece of knowledge to learn that not many people would know or link the two together. Maybe our heroes didn't solve a supernatural case fic today, but I sure hope from this fic, this knowledge can be spread and save some real people in the real life.)
 
-### 456.
+### 456.【all/destiel】Terminator Crossover
+
+(inspired by Jensen's answer in Norfolk comic con 2026: [link here](https://youtu.be/AuFAyaw7LYI?t=912))
+
+Q: Is there any folklore or creature you never got to fight on the show that you always wanted to?
+
+Jensen: If he (Terminator) comes back into the supernatural world, and the guys are like, "You're from where?" And then they had to figure out (how to fix that).
+
+Case Fic + Time Travel + Sci-Fi, World Saving, Savior Complex
+
+So Terminator comes into the spn world, cause deaths, become case fic, they go investigate, need to solve the mystery, figure out what he is, where it comes from, (get all nerdy and fangirl mode about the high-tech), need Cas to fly them to past/future to fix this and save the world
+
+### 457.【destiel】S08 Leave Purgatory through Hell Tunnel
+
+Dean and Cas don't have to meet Benny to escape Purgatory, they can use the Hell tunnel to go to Hell through the Hell tunnel: "Follow the stream to where three trees meet as one. Where they meet, there are rocks. Between the rocks is the portal. The portal is a back door to Hell." (Ajay, S08E19)
+
+Cas is by the stream when Dean finds him, so they're actually very close to the tunnel/portal already. Maybe Cas is planning on exploring that, maybe Cas just came back from exploring that but not sure how to tell Dean or think that portal is more dangerous than Benny's human portal, or maybe he's thinking if he tells Dean, Dean would insist he gets out too, so he can't punish himself, so he doesn't tell
+
+Maybe they run into a soul/monster/demon/human that Ajay is moonlighting with (why would Ajay sneak many others to Hell before? Why does that business even have client? Who would need that and know Ajay the reaper knows the way?), and overhear Ajay telling the client about the Hell tunnel so they follow and go into Hell
+
+Maybe that's how Cas find out the way to leave Purgatory, go to Hell and fly out, he's just back from crazy!Cas, still has his wings and all the power, he can fly just like S04E01
+
+so Dean and Cas can use Hell as a detour to leave Purgatory, and Hell is actually easier to handle than Purgatory because Cas can kill demons with his grace smiting so much easier than fighting with Leviathans. So they go to Hell, Cas fly Dean out just like S04E01, they blast Illinois just like S04E01
+
+Or maybe there are other reasons why this isn't easy so Cas knows the way but thinks it's too dangerous, meaning there are more dangers and risks in S04E01 that he didn't let Dean know. so maybe they find the way and Dean suggest them go, and Cas is just very strongly object, Dean force/push him to confess what else he sacrificed during the S04E01 rescue, about the burning wings and the bad molt, Dean is more moved by Cas and love him more. maybe that's the first time Dean realize this feeling he has for Cas is love.
+
+### 458.
