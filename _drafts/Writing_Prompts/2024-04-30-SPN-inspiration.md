@@ -5624,4 +5624,8 @@ so Dean and Cas can use Hell as a detour to leave Purgatory, and Hell is actuall
 
 Or maybe there are other reasons why this isn't easy so Cas knows the way but thinks it's too dangerous, meaning there are more dangers and risks in S04E01 that he didn't let Dean know. so maybe they find the way and Dean suggest them go, and Cas is just very strongly object, Dean force/push him to confess what else he sacrificed during the S04E01 rescue, about the burning wings and the bad molt, Dean is more moved by Cas and love him more. maybe that's the first time Dean realize this feeling he has for Cas is love.
 
-### 458.
+### 458.【Dean/destiel】S08E01 Purgatory Dean run into fake-Cas/Sam
+
+Dean comes back to meet Sam, the first instinct is to check if Sam is demon or Leviathan or shapeshifter, and to self-prove he's not these. All three of these can possess or change into a person, to fake Cas or Sam. How many times he runs into Leviathan and shapeshifter that looks like Sam and Cas in Purgatory over that year?
+
+### 459.
