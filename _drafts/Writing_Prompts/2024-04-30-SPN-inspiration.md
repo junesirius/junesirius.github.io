@@ -5674,6 +5674,12 @@ Benny, poor baby Benny, he really should have been loved back so much more. If o
 
 Now, what if, before S08E19 Dean's call asking Benny to save Sam, when he calls, he finds out Benny has already killed himself and there are some medical personnel pick up the phone and let Dean know medically Benny is diagnosed heavy depression, and that Dean is Benny's emergency contact. If there's no background storyline about demon trials, Dean can actually focus on Benny, how guilty will Dean be, what will he do trying to fix this?
 
-Benny seriously need a healing fix-it 
+Benny seriously need a healing fix-it story.
 
-### 460.
+### 460.【all】What if Leviathans' most scary ability is they can hybrid with other monsters
+
+Titans are called proto-God, maybe Leviathans can be called proto-monster. They are monsters before monsters, the earliest most primitive monster that God created but didn't know how to unmake, so God made Purgatory to lock them away. But then all the dead monsters would go to Purgatory too, get mixed with Leviathans.
+
+Just being difficult to kill (but still killable) and can shapeshift and have some high intelligence doesn't seem to be God-level scary, what if we actually never learn the Leviathan's scariest ability, what if the actual most horrifying ability of Leviathan that even scared Chuck is that Leviathan can mix their genes and abilities with any kind of monster, to make any hybrid, and once they start hybrid, they can mix with most monsters, just like super virus, they can essentially create more monsters than God has ever thought of. So it's not Leviathan's current form that scared God into building a Purgatory to lock them away, it's their potential of creating an ultimate super monster that God knows would certainly be more powerful and stronger and undefeatable and have all the perks and none of the weakness of all the monsters, and Chuck was scared of that creature's existence, so he locked Leviathans away. But by locking all the dead monsters with Leviathan, he's defeating his own purpose, and actually Leviathans are doing exactly that in Purgatory, with even more resources of monsters. So maybe, when S08 Dean/Cas/Benny, or S08E19 Sam, or S15E09 Dean/Cas are in Purgatory, they not only run into pure Leviathan, they run into evolved hybrid Leviathanized vampire, Leviathanized werewolf, Leviathanized werepire, etc. The things become so unbelievably strong and powerful and unkillable it becomes their new season-focus case, they realize S07's Leviathans are only just level 1 Leviathan, the new super monster is the real boss. Eventually they'll have Chuck turn to them for help like during S11 Darkness Amara time. They'll figure out a way to solve this one way or another.
+
+### 461.
