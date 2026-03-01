@@ -3,7 +3,7 @@ layout: post
 title: 【书信】Dear Jamie
 date: 2023-12-10 05:01
 categories: ["原创"]
-characters: ["Jamie Campbell Bower", "Vecna"]
+characters: ["Jamie Campbell Bower", "Vecna/Henry Creel"]
 tags: ["书信", "英文", "追星", "漫展", "怪奇物语", "心理", "生日"]
 pov: 第二人称
 origin: 空间

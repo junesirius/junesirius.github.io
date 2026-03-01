@@ -3,7 +3,7 @@ layout: post
 title: 【观后感】怪奇物语 S01E01（人物塑造）（弹幕）
 date: 2023-08-09 20:51
 categories: 观后感
-characters: ["Eleven"]
+characters: ["Eleven/Jane Hopper"]
 tags: ["观后感", "怪奇物语", "弹幕", "剧本"]
 pov: 第一人称视角
 origin: 个站

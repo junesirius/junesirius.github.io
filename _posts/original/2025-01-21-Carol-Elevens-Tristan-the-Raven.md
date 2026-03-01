@@ -3,7 +3,7 @@ layout: post
 title: 【OC】Full names
 date: 2025-01-21 23:58
 categories: ["原创"]
-characters: ["Carol Elevens", "Tristan the Raven", "Doctor Who", "Eleven", "11th Doctor"]
+characters: ["Carol Elevens", "Tristan the Raven", "Doctor Who", "Eleven/Jane Hopper", "11th Doctor"]
 tags: ["OC", "想象", "随记", "思维宫殿", "神秘博士", "权力的游戏", "龙之家族", "怪奇物语", "睡魔", "朋友"]
 pov: 第一人称视角
 origin: 个站

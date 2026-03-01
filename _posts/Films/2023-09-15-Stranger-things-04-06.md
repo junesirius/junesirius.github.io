@@ -3,7 +3,7 @@ layout: post
 title: 【观后感】怪奇物语 S04E06（弹幕）
 date: 2023-09-15 20:48
 categories: 观后感
-characters: ["Eleven", "Vecna"]
+characters: ["Eleven/Jane Hopper", "Vecna/Henry Creel"]
 tags: ["观后感", "怪奇物语", "弹幕"]
 pov: 第一人称视角
 origin: 个站

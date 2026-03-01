@@ -3,7 +3,7 @@ layout: post
 title: 【观后感】怪奇物语 S02E02（弹幕）
 date: 2023-08-16 22:13
 categories: 观后感
-characters: ["Eleven", "Jim Hopper"]
+characters: ["Eleven/Jane Hopper", "Jim Hopper"]
 tags: ["观后感", "怪奇物语", "弹幕"]
 pov: 第一人称视角
 origin: 个站

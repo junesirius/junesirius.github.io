@@ -3,7 +3,7 @@ layout: post
 title: 【观后感】怪奇物语 S04E09（大结局）（弹幕）
 date: 2023-09-17 21:26
 categories: 观后感
-characters: ["Eleven", "Vecna", "Eddie Munson"]
+characters: ["Eleven/Jane Hopper", "Vecna/Henry Creel", "Eddie Munson"]
 tags: ["观后感", "怪奇物语", "弹幕", "剧本"]
 pov: 第一人称视角
 origin: 个站

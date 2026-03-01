@@ -3,7 +3,7 @@ layout: post
 title: 【观后感】怪奇物语 S04E01（弹幕）
 date: 2023-09-10 20:13
 categories: 观后感
-characters: ["Eleven", "Eddie Munson"]
+characters: ["Eleven/Jane Hopper", "Eddie Munson"]
 tags: ["观后感", "怪奇物语", "弹幕"]
 pov: 第一人称视角
 origin: 个站
