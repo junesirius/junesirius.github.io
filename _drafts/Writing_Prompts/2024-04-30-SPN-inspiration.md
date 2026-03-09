@@ -5682,4 +5682,25 @@ Titans are called proto-God, maybe Leviathans can be called proto-monster. They 
 
 Just being difficult to kill (but still killable) and can shapeshift and have some high intelligence doesn't seem to be God-level scary, what if we actually never learn the Leviathan's scariest ability, what if the actual most horrifying ability of Leviathan that even scared Chuck is that Leviathan can mix their genes and abilities with any kind of monster, to make any hybrid, and once they start hybrid, they can mix with most monsters, just like super virus, they can essentially create more monsters than God has ever thought of. So it's not Leviathan's current form that scared God into building a Purgatory to lock them away, it's their potential of creating an ultimate super monster that God knows would certainly be more powerful and stronger and undefeatable and have all the perks and none of the weakness of all the monsters, and Chuck was scared of that creature's existence, so he locked Leviathans away. But by locking all the dead monsters with Leviathan, he's defeating his own purpose, and actually Leviathans are doing exactly that in Purgatory, with even more resources of monsters. So maybe, when S08 Dean/Cas/Benny, or S08E19 Sam, or S15E09 Dean/Cas are in Purgatory, they not only run into pure Leviathan, they run into evolved hybrid Leviathanized vampire, Leviathanized werewolf, Leviathanized werepire, etc. The things become so unbelievably strong and powerful and unkillable it becomes their new season-focus case, they realize S07's Leviathans are only just level 1 Leviathan, the new super monster is the real boss. Eventually they'll have Chuck turn to them for help like during S11 Darkness Amara time. They'll figure out a way to solve this one way or another.
 
-### 461.
+### 461.【Cas】angel's involvement in unusual astrophysics phenomenon
+
+Saturn has a huge Hexagon at its north pole, twice larger than Earth's size. Fun thing about "Saturn" sounds like "Satan" and Hexagon is a common shape in sigils.
+
+Other interesting astrophysics (check facts when using):
+
+- Jupiter's Polar Cyclones: stable pentagon of five cyclones surrounding one center cyclone at its South Pole, and an octagon at the North Pole
+- Saturn's "Great Eye" at the South Pole: Directly opposite the hexagon, the south pole is a sharp eye
+- Venus's Polar Dipole: a massive rotating comma-shaped structure
+- "Dark Beads" in Saturn's Atmosphere: strange dark interconnected features appear in the ionosphere directly above the hexagon
+- The "Spokes" of Saturn's Rings: transient wedge-shaped features that appear and disappear in Saturn's B-ring
+- Neptune's "Scooter" and Great Dark Spots: high-speed transient storm systems, including the short-lived "Scooter" and large dark oval vortexes that appear and dissipate over just a few years
+- Jupiter has a Great Red Spot for 300+ years, larger than Earth.
+- PSR J1719-1438 b: diamond planet
+- Hoag's Object: strangest galaxy, perfect circular ring of stars, almost nothing in the center, cosmic donut floating in darkness
+- Magnetar: strongest magnetic field
+- VY Canis Majoris: largest known star, a boiling cosmic ocean
+- Fast Radio Burst: last milliseconds, release as much energy as the Sun does in days; some repeat mysteriously, others don't
+- Fomalhaut Dust Cloud: aftermath of two giant plants colliding, the debris cloud expanded over years like a slow-motion planetary explosion
+- Cosmic Web: the universe on the largest scale form filaments and nodes like a spider web across the universe, between them are vast voids almost completely empty
+
+### 462.
