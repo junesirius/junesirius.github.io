@@ -11,7 +11,7 @@ long_novels: 【Destiel】I Swear On Castiel's Name
 published: false
 ---
 
-**Tags:** Canon Divergent, S8 Timeline, S08E21, Inspired by *Once Upon a Time*, Case Fic, Curse, Emotional Repression, Mutual Pining, Angst, Yearning, Hurt/Comfort, Canon-Typical Miscommunication, Canon-Typical Anger-Control Issue, Minor Canon-Typical Suicidal Ideation, Meta-Narrative, Eventual Happy Ending
+**Tags:** Canon Divergent, S8 Timeline, S08E21, Inspired by *Once Upon a Time*, Case Fic, Curse, Emotional Repression, Mutual Pining, Angst, Yearning, Hurt/Comfort, Canon-Typical Miscommunication, Canon-Typical Anger-Control Issue, Minor Canon-Typical Suicidal Ideation, Minor Character Death, Meta-Narrative, Eventual Happy Ending
 
 **Warning:** Graphic Depictions of Violence
 
@@ -1265,10 +1265,16 @@ He would make it a better story.
 > S08E21 real timeline (2013.5.1)
 >
 > Dean/Sam find Metatron, ask for his help. Metatron doesn't care about trials or Heaven/Hell, refuses to help. Instead, he's been reading all spn books by Chuck "Carver Edlund" and intrigued by destiel subplot. He tricks Dean into saying "I swear on Castiel's name" ("Do you still believe in love? then swear on the person you love the most to prove you still know what love is" Dean's threatened because he's desperate to save Sam. want to swear on Sam but Metatron points out he's lying to himself because that's responsibility, so Dean has to say "I swear on Castiel's name"), curses Dean's lips just to see a good story, and threatens Dean if he doesn't kiss Cas, Sam dies; if he does, Cas loses his grace/power and becomes human; and the curse can't be reversed or interfered by angel power, if Dean tries, Dean dies.
+>
+> Meanwhile, Crowley tortures and kills Kevin (because not saved by Metatron)
 
-"Why are you even taking these weird anthropology classes in *Stanford*? Dude, I mean, it's Stanford! They gotta have more interesting classes, like -- game theory or something, I heard that's just a nice name for gambling." Dean walks into the only hotel in the Colorado town in the middle of mountains, still bickering with his younger brother. His voice echoes in the empty, dusty lobby.
+"Maybe Kevin is still alive! I'm just saying, maybe that automatic email is a server error or something. Or he forgot the password, or he's in some place without internet, or he slept over the time when he needs to reset the timer. Maybe he ran away and Crowley didn't find him! I'm just saying, we don't actually know he's dead! We should still be out there looking for him! Instead of here, in the middle of god-knows-where! What's the chance we can actually find an angel in the middle of Colorado?" Dean walks into the only hotel for miles in the middle of mountains among the Indian reservation lands, still bickering with his younger brother. His voice echoes in the empty, dusty hotel lobby.
 
-"Anthropology *is* an interesting class, and they have the best professor in the whole country! And admit it, this is our only shot figuring out the third trial without Kevin. But -- " Sam counters, but whatever he planned to say next, it's disrupted by the sharp ringing sound screaming at his ear. The moment he past the heavy wooden door and step into the hotel lobby, his hands shoot up to hold his head, trying vainly to make the sudden migraine to ease. The sound is splitting his head in two.
+"Even if he's still alive, he's out there, alone, and Crowley and all the demons are looking for him! What's the odds we can run into him earlier than the demons? Dean, believe it or not, Metatron is our best shot here. If he's really here, and if we can find out the third trial and get it done, close all the Hall gates before Crowley can do anything, then *that*, that's how maybe we can still save Kevin." Sam reasons.
+
+"Does this look like the kind of place an angel would like to stay?" Dean reaches the front desk first, pressing the bell hard. It rings a rusty sound, dust flying out from under the bell.
+
+"You never know -- " Sam counters, following him into the place. But whatever he planned to say next, it's disrupted by the sharp ringing sound screaming at his ear. The moment he past the heavy wooden door and step into the hotel lobby, his hands shoot up to hold his head, trying desperately to make the sudden migraine to ease. But the effort is in vain. The sound is splitting his head in two.
 
 "Did you hear that?" he squeezes his eyes and raises his voice, unsure if his voice can override that loud ringing tone in their surrounding.
 
@@ -1501,7 +1507,7 @@ He touches his lips, and thinks about those on the one who he just admitted to l
 <hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
 <br>
 
-Meanwhile, deep down in Hell, Crowley just comes back from a certain Biggerson's diner in New Mexico with a handful of fresh angel gut and blood, and a nice, new, equally bloody angel tablet. That whole outing isn't perfect -- for one, Castiel slipped away from between his fingers again, and he lost an angel in his pocket -- but at least he got what he headed out for.
+Meanwhile, deep down in Hell, Crowley just comes back from a certain Biggerson's diner in New Mexico with a handful of fresh angel gut and blood, and a nice, new, equally bloody angel tablet. That whole outing isn't perfect -- for one, Castiel slipped away from between his fingers again, Naomi too, and he lost an angel on his paycheck -- but at least he got what he headed out for.
 
 "Aren't you a beauty?" Crowley enjoys the view of the blood smudge on the angel tablet, heading toward a very particular prisoner's cell that is transformed into the exact interior look of the little boat Fizzle's Folly.
 
@@ -1591,11 +1597,11 @@ Cas had angel tablet but then captured and tortured by Naomi and Crowley, Crowle
 
 Sam wakes up twelve hours later, still shaky and sick like before from his trials, but according to him, zero angel radio resonation. Which means Metatron has most definitely left the place, staying as far away from them as possible, reading his story from afar.
 
-They still do a thorough round of search in and out of the hotel, just in case. They pick the locked rooms too, but there are only books, more books, endless books.
+They still go through all the trouble to do a thorough round of search in and out of the hotel, just in case. They pick the locked rooms too, but there are only books -- more books, endless books, books everywhere like an apocalypse of books.
 
 Dean feels an impulse to burn the place down, but Sam stops him, saying the books didn't do anything wrong, and the tribe serving the scribe also didn't technically or directly do anything wrong or hurt anyone. It's Metatron that they should focus on.
 
-Sam pulls him into the Impala, and they head back to bunker.
+It's getting dark by the time Sam pulls him into the Impala, and they head back toward the bunker.
 
 Dean doesn't speak a word all the time.
 
@@ -1617,7 +1623,7 @@ The car rolls steadily forward in the dark night. Sam's breath slowly eases as h
 
 Dean glances at him once in a while to make sure he's still breathing, just like when he's used to growing up. *Sam is responsibility. And love is... love is...*
 
-He doesn't realize he's been biting his lower lip all the way since heading out until his lip starts bleeding when they cross the state line to the Kansas side. Even then, Dean still doesn't release it. It feels like a suitable punishment and reminder for those lips of his since they betrayed him, Dean reasons with himself, and bites harder.
+He doesn't realize he's been biting his lower lip all the way since heading out until his lip starts bleeding when they cross the state line to the Kansas side. Even then, Dean still doesn't release it. It feels like a suitable punishment and reminder for those lips of his since they betrayed him, Dean reasons with himself and bites harder.
 
 The car screeches to a sharp stop when they are closing in on the small mountain road leading to the bunker, the headlight illuminating a bloodied figure laying on the asphalt like a road kill. The body covered by the trench coat stirs when the light shines brightly on his face.
 
@@ -1627,9 +1633,9 @@ He rushes to the figure. Sam staggers out shakily behind him.
 
 Castiel lifts his head slightly, glancing at them, saying in a hoarse voice, "A little help here?"
 
-Dean doesn't really expect to see Cas so soon after all that happened, and now he doesn't even know how to look at Cas in the eyes without hearing his whole brain shouting at him about the curse and the thing he swore on that he still believed, and the consequence of all that.
+Dean doesn't really expect to see Cas so soon after all that happened, and now he doesn't even know how to look at Cas in the eyes without hearing his own brain shouting at him about the curse and the thing he swore on that he still believed, and the consequence of all that.
 
-Dean looks away from the angel's face, bending down, trying to help Cas move. Only then does he see the horrifying hole in Cas's stomach, right under the ribs. The hole looks like something has brutally poked in and something else got dragged out, it's so deep and dark that Dean thinks he can see all the guts just like that. Blood and grace leak out from the gash like this body -- Cas's body -- is just a big broken bag that can't hold anything in. Dean's hands tremble with fear, hovering over Cas's stomach, not daring to touch.
+Dean looks away from the angel's face, bending down, trying to help Cas move. Only then does he see the horrifying hole in Cas's stomach, right under the ribs. The hole looks like something has brutally poked in and something else got dragged out -- knowing it's Cas, it's probably exactly what happened. The wound is so deep and dark and bloody that Dean thinks he can see all the guts and insides just like that. Blood and grace leak out from the gash like this body -- Cas's body -- is just a big broken bag that can't hold anything in. Dean's hands tremble with fear, hovering over Cas's stomach, not daring to touch.
 
 "Oh God," Sam gasps, instinctively trying to cover Cas's wound with his trench coat, using it as a makeshift bandage.
 
@@ -1639,31 +1645,35 @@ Sam retracts his hands and doesn't argue.
 
 It takes many adjustments to move the bloody angel bundle in the trench coat and transfers him to the back of the Impala.
 
-Cas doesn't moan no matter how they move him, but Dean knows how to listen -- Cas's breath will hitch and turn shallow when his body is bent wrong. Dean can't imagine how painful that wound is -- it reminds him of his own broken body when the hellhounds dragged him to Hell, he remembers his own screaming echoing in his ears.
+Cas has tried hard not to moan no matter how they move him, but Dean finds himself suddenly knows how to listen as if he's never paid as much attention to the angel until now -- Cas's breath will hitch and turn shallow when his body is bent wrong. Dean can't imagine how painful that wound is -- it reminds him of his own broken body when the hellhounds dragged him to Hell, he remembers his own screaming echoing in his ears, his own blood dying the whole world and the vision crimson.
 
 Cas's blood smudges everywhere on the leather seat.
 
-But Cas doesn't say anything or complain, just letting them handle him, but Dean pays enough attention now to notice the things he's sure he would have missed if it were the old him -- every little change in his breath, every little flinch and frown, he notices them and they eat him up like ants biting on his heart -- he wonders why it seems it's the first time he's seen Cas so vulnerable and broken, if it's because he used to be too oblivious to how badly and how easily Cas could get hurt, and if it just started to happen because of what Metatron made him realize.
+Sam pants breathlessly as his steps start wavering again.
 
-Dean tries really, really hard to make Cas comfortable. And he tries even harder to make sure himself is as far away to Cas as possible. Especially his lips.
+"Go back to sit down, I got him," Dean says to his younger brother, who miraculously doesn't protest. The front passenger seat shakes slightly as Sam sinks down, and Dean finds himself still half-bent over the vaguely passed-out angel, watching him closely with the dim moonlight.
 
-He makes sure his fingers don't linger on Cas's bloody trench coat or pat his shoulder. He makes sure Cas is an arm's distance away almost all the time. He lets Sam handle Cas's head side, so he can be at the foot's side.
+Cas's face is all screwed and bloodied, cuts and bruises crossing his cheeks. Dean finds himself staring at this familiar face, eyes following the bruised lines and purples and blacks, watching the angel wince and flinch every time his body is moved. He doesn't know how he seems to never know this ancient, impeccable creature, the angel, is also just a fragile thing, broken and shattered under his hands, cursed in a way he doesn't even know, and the caster is right in front of him. The view eats Dean up like a million ants biting and chewing his heart -- he wonders why it seems it's the first time he really sees Cas, as vulnerable and broken as any human, any life; he wonders if it's because he used to be just too oblivious to how badly and how easily Cas could get hurt but he just was never there to see; he wonders if this new observation, the new notice, is all just starting to happen because of what Metatron messed him up with, what that swear made him realize.
 
-He doesn't meet Cas's eyes during the whole time, even when he knows the angel is wincing and squinting at him.
+Dean tries really, really hard to make Cas lay down as comfortable as he could in the Impala's back seat, all tucked in and fastened, the wound covered by his own jacket. And he tries even harder to make sure himself is as far away to Cas as possible. Especially his lips.
 
-He rushes to the driver's seat the moment they get Cas into the back seat, flooring the car toward the bunker.
+He makes sure his fingers don't linger on Cas's bloody trench coat or pat his shoulder. He makes sure Cas is an arm's distance almost all the time, hovering from his foot's side.
 
-They settle Cas in the farthest room at the end of the corridor to Dean's room. Dean says because this one is closer to the bathroom and the library. Cas doesn't comment.
+He doesn't meet Cas's eyes when the angel was still vaguely lucid, even when he knows the angel is wincing and squinting at him. And when he finally glances at him, Cas is already half passed out.
+
+Dean rushes to the driver's seat, floors the gas pedal, and still curses the Impala for being too slow.
+
+He settles Cas in the farthest room at the end of the corridor to Dean's room. Dean says because this one is closer to the bathroom and the library. Cas wakes briefly and doesn't comment.
 
 The angel curls up in the bed like a baby in the womb when Dean finishes bandaging his stomach -- he has sent the shaky and unsteady Sammy to the bed the moment they got home, so it's just the two of them now.
 
-Dean never stops frowning during the whole time, the lines on his face and around his eyes stiff and tight. He bites his lips.
+Dean never stops frowning during the whole time, the lines on his face and around his eyes stiff and tight. He bites his lips hard.
 
-The wound is too deep, too horrifying, too hideous, and it's not healing on its at all. Dean doesn't let himself think what has caused this, who has almost torn Cas's body apart like tearing apart a plastic bag, what has happened. He can't, because if he does, he'll have to imagine what would happen if he's too late, if Cas doesn't survive this, and then his hands will start shaking.
+The wound is too deep, too horrifying, too hideous, and it's not healing on its own at all. Dean doesn't let himself think what has caused this, who has almost torn Cas's body apart like tearing apart a plastic bag, what has happened. He can't, because if he does, he'll have to imagine what would happen if he's too late, if Cas doesn't survive this, and then his hands will start shaking.
 
 It takes all the energy to keep his hands steady. So Dean just stares at the places his hands and needles and bandage go, and avoids Cas's eyes. This is easier.
 
-Cas is half passing out when he's done with the first-aid stuff and tucks the cover around his body.
+Cas is half passing out again when he's done with the first-aid stuff and tucks the cover around his body.
 
 "Dean --" Cas says weakly.
 
@@ -1673,7 +1683,7 @@ Cas is half passing out when he's done with the first-aid stuff and tucks the co
 
 Dean pauses in his move, holding the little box tight. Oh, right, he's almost forgot what happened last time they saw each other, what this must look like to Cas. He was the bloody one being beaten to the ground by a brainwashed Cas last time, and that's before Cas decided he couldn't trust Dean with the angel tablet and flew away alone. They couldn't find him for more than a month, and he couldn't even call Cas when he freaked out to find out Sam was tricked by a freaking rogue reaper to be sent to Purgatory, and he had to kill the only other friend he'd call a brother. Cas wasn't there when he buried Benny. Cas wasn't there when he was confronted by Naomi and mocked for not putting up an angel ward against all angels, for still hoping and wishing for Cas to come back to him, when Naomi used a simple sentence to almost break all his will: "I only wish he felt the same way", and deep down, no matter how much he didn't want to believe, he thought, maybe Naomi was right. Everyday he didn't hear from Cas, he'd imagine he might be killed or brainwashed or tortured or worse. And now, finally with him back in the bunker, tucked under a nice fuzzy cover in the warm soft bed, Dean remembers, he should be pissed. Right, feeling pissed, this is easy -- *easier*.
 
-"Like I said, tomorrow." Dean answers stiffly, still with his back to Cas. He can imagine the way Cas's eyes linger on his back, big and worried and apologetic and sad, just from how prickling his skin feels, and he's so afraid to see him like this. He's so scared. So he turns off the light instead, and moves toward the door. "Get some rest," he says, and closes the door.
+"Like I said, tomorrow," Dean answers stiffly, still with his back to Cas. He can imagine the way Cas's eyes linger on his back, big and worried and apologetic and sad, just from how prickling his skin feels, and he's so afraid to see him like this. He's so scared. So he turns off the light instead, and moves toward the door. "Get some rest," he says, and closes the door.
 
 Dean presses his back to the wall next to the door for a long moment, feeling his breath broken and wet. This is so messed up. But he can't think of another way.
 
@@ -1691,7 +1701,7 @@ Dean is startled when he senses a hand on his right shoulder. His right hand ref
 
 "Dean," Cas's voice says softly next to him. "You need to lie down."
 
-Dean opens his eyes, finding his left arm numb under his head's weight. He's fallen asleep half-way reading a spell book. Half a dozen empty bottles scatter on the desk around him. Cas watches him with worried eyes.
+Dean opens his eyes, finding his left arm numb under his head's weight. He's fallen asleep half-way reading a spell book. Half a dozen empty bottles are scattered on the desk around him. Cas watches him with worried eyes.
 
 "You need to rest," Cas says again, taking his hand back. "I'm sorry to wake you, but this is bad for your spine."
 
@@ -1701,17 +1711,17 @@ He heads straight to the coffee maker in the kitchen then, not wanting to see th
 
 "I'm sorry," Cas says again, following him into the kitchen like a stray cat.
 
-At least Cas can walk straight again, Dean can't help noticing it in the peripheral of his eyes, as he busies himself with coffee making. Which means the angel healing is still okay, which means Cas's power is still okay. He seems to still bend a little, holding his stomach with his arms, so that hole must still be there troubling him, but it's already so much better than when they found him. Dean breathes out with a slightly easier breath than the night before, focuses on pouring the water and coffee beans into the coffee machine.
+At least Cas can walk straight again, Dean can't help noticing it in the peripheral of his eyes, as he busies himself with coffee making. Which means the angel healing is still okay, which means Cas's power is still okay. He seems to still bend a little, holding his stomach with his arms, so that hole must still be there troubling him, but it's already so much better than when they found him. Dean breathes out with a slightly easier breath than the night before, focuses on pouring the water and coffee powder into the coffee machine.
 
-When the coffee maker rumbles to work, Dean turns back, leaning on the counter, regarding Cas with frowning eyes. "You say that a lot lately, you notice that?" he says.
+When the coffee maker rumbles to work, Dean turns back, leaning on the counter, regarding Cas with frowning eyes. "You say that a lot lately, you notice that?" he remarks sharply.
 
 Cas glances at him uneasily, leaning his weight on the side of the fridge. The bandage has been soaked with blood, Dean is distracted briefly by the new notice. He should probably help him get a new one soon.
 
-"Yes." Cas mumbles, and immediately says it again. "I'm sorry."
+"Yes," Cas mumbles, and immediately says it again. "I'm sorry."
 
 "For what?" Dean crosses his arms, bracing himself. "What happened?"
 
-"Naomi and the angels found me and trapped me. And Crowley... found the tablet." Cas answers concisely, giving a vague gesture around his bleeding gut. "Inside."
+"Naomi and the angels found me and trapped me. And Crowley... found the tablet," Cas answers concisely, giving a vague gesture around his bleeding gut. "Inside."
 
 Dean stares at him. "You hid the freaking tablet *in your gut*?!"
 
@@ -1721,7 +1731,7 @@ Dean tries not to think how Cas has managed to stuff the entire rock into his gu
 
 But what comes out of his mouth becomes: "Why didn't you come to us?! To me?! Goddammit, Cas! You have dick angels *and* demons on your tails! Just like back then! Remember? Raphael and Crowley? Or did you just think you can beat them all by yourself? *Again?* That you don't need us? We are just petty little humans who can't do anything, is that it? Are we not family? Cas, what are we to you?"
 
-Fury burns fast, especially with a rough night of lack of sleep and probably a little too much alcohol, it burns through his head in the blink of an eye like how forest fire burns the forest in California every spring. Dean raises his voice, snapping louder and faster. The more he thinks about it, the angrier he feels. The rage flashes through his whole body.
+Fury burns fast, especially with a rough night of lack of sleep and probably a little too much alcohol, it burns through his head in the blink of an eye, just like wild fire burns dry woods. Dean raises his voice, snapping louder and faster. The more he thinks about it, the angrier he feels. The rage flashes through his whole body.
 
 Cas doesn't answer, just looking at him with sad eyes.
 
@@ -1761,7 +1771,7 @@ Dean offers one of the two cups of coffee, his hand reaching half-way between th
 
 Cas eyes the coffee carefully, then studies Dean's look. He tries so hard, but he can't decipher human expression as well as he hopes he can. He takes the coffee cup hesitantly.
 
-Dean presses the hand in his eye socket. "I fucked up, Cas," he whispers through shivering lips. "There's this curse, a spell. It messed me up so bad I can't think." He looks up, running into Cas's eyes, desperate and pleading.
+Dean presses the heal of his hand in his eye socket. "I fucked up, Cas," he whispers through shivering lips. "There's this curse, a spell. It messed me up so bad I can't think." He looks up, running into Cas's eyes, desperate and pleading.
 
 Cas tilts his head, worried.
 
@@ -1779,7 +1789,7 @@ Dean lowers his eyes. "Please," he whispers, his voice soft and choking with a w
 
 "Sam and I were looking for the 'Messager of God', and we found him in Colorado." Dean sips his fresh coffee and starts.
 
-"Metatron?" Cas clarifies, sipping his share of coffee too.
+"Messager of God, you mean Metatron?" Cas clarifies, sipping his share of coffee too.
 
 "Yeah, yeah, that's the son-of-a-bitch's name. And... he tricked me into a curse." Dean finds his courage draining fast just as he approaches the difficult part. The part that actually means something. The part that's his biggest revelation and biggest fear. And here he is, sitting opposite Cas, about to tell him. He puts both his hands around the coffee cup, letting the coffee's temperature warm his palms, but his hands are still freezing cold.
 
@@ -1789,7 +1799,9 @@ Dean swallows and watches him, thinking, and debating, and thinking again. *This
 
 So he decides, maybe just let Cas know the content of the spell, not the context, would be the right thing to do. *Just to protect him, to protect both of them. They'll understand.*
 
-"Metatron asked me to make a choice, basically," Dean answers, pointing at his own lips. "He cursed my lips, saying if I don't... uh, kiss you, then Sammy dies." His words stumble on the "kiss" part, but he's so glad he choked it out. "But if I do, you'll lose your power and become a human. And if I try to remove the spell, I die. And we couldn't kill *him* -- believe me I tried and I wanted to do -- because with Kevin dead, he's the only one who knows the third trial and can read the tablets -- until we find the next prophet."
+"Metatron asked me to make a choice, basically," Dean answers, pointing at his own lips. "He cursed my lips, saying if I don't... uh, kiss you, then Sammy dies." His words stumble on the "kiss" part, but he's so glad he choked it out. "But if I do, you'll lose your power and become a human. And if I try to remove the spell, I die. And we couldn't kill *him* -- believe me I tried and I wanted to do -- because, with Kevin gone -- from his email, we had to assume Crowley got him and he didn't make it, though Sam said there's still hope, I very much doubt that -- so without Kevin, Metatron is the only one who knows the third trial and can read the tablets, so we'll still need him."
+
+"Until we find the next prophet." Cas finishes his sentence.
 
 Dean lets out a frustrated huff. "So he basically had thought about all the conditions and checkmated me. And I'm kinda just, stuck in the options. Whatever I choose -- whoever I choose -- I lost."
 
@@ -1805,7 +1817,7 @@ Cas rolls his eyes. "How is it different from me trying to handle my problem alo
 
 Dean almost chuckles. "Okay, yeah, I deserve this one."
 
-Cas's tone softens. "So did you find anything? Metatron said removing the spell could kill you, but he didn't say anything about changing the spell or transferring it? Maybe there are some loopholes we can use. When it comes to magic, there are very often loopholes, as I learned from human fairy tales."
+Cas's tone softens. "So did you find anything? Metatron said removing the spell could kill you, but he didn't say anything about altering or transferring it? Is there a sigil or an enchantment that you memorized about the curse we could use? Maybe there are some loopholes we can use. When it comes to magic, there are very often loopholes, as I learned from human fairy tales."
 
 Dean's shoulders sink down. "He... sorta also made sure about that. He said the spell is bound to my soul. So unless I actually change my mind, the curse stays. And..." he blushes slightly. "I know I'm not going to change my mind any time soon... Or ever." He glances at Cas.
 
@@ -1815,7 +1827,7 @@ Cas frowns deeply, missing the look and the glance, thinking hard on the problem
 
 Cas's eyes slide down onto Dean's lips, then move back to lock the gaze. "I'm fine with losing my power," he says quietly, calmly. "I have lost most of my power and become near-human before, and it actually wasn't too bad. I can handle this."
 
-His eyes slide away and linger around Dean's lips again, and it seems to take some effort to shift his focus back. Cas touches his own lips with a fingertip. "If you're okay with this, I mean," he says quickly, "I'm fine, too. And this can save Sam, if Metatron didn't lie, then I consider it a bargain -- even with my power I couldn't heal Sam, so this is actually putting my power to a better use."
+His eyes slide away and linger around Dean's lips again, and it seems to take some effort to shift his focus back. Cas touches his own lips with a fingertip. "If you're okay with this, I mean," he says quickly. "I'm fine, too. And this can save Sam, if Metatron didn't lie, then I consider it a bargain -- even with my power I couldn't heal Sam, so this is actually putting my power to a better use."
 
 "What? No! Absolutely not!" Dean says sharply. "I would never do that! Not to you!"
 
@@ -1825,9 +1837,9 @@ His eyes slide away and linger around Dean's lips again, and it seems to take so
 
 Cas lowers his eyes, moving slowly away from the table to put the now-empty cups to the kitchen sink, having his back facing Dean. "I see. I understand."
 
-He lets the water running for a few seconds to fill the empty cup before speaking again. The sound of running water fills the silence between them for those seconds, as if filling in the blank space where words should have been but scratched out.
+He lets the water run for a few seconds to fill the empty cup before speaking again. The sound of running water fills the silence between them for those seconds, as if filling in the blank space where words should have been floating but somehow got scratched out.
 
-Turning off the tab, Cas asks, "What should we do then?"
+Turning off the tab, Cas asks, returning to the flat calming voice, "What should we do then?"
 
 "You? Rest up and heal. Same for Sam. And Me? I'll do some more research. Wish me luck on finding Metatron or Crowley or Naomi, or some reverse spell or whatever. I really need to kick someone in the ass." Dean stands up from the table.
 
@@ -1849,7 +1861,7 @@ Why Dean doesn't like Sam/Cas touch: Sam's power/sick from demon tablet, Cas's s
 
 > Both Dean/Cas more aching/pining, they turn to focus on bring Metatron/Crowley down
 >
-> Mean time, Crowley is torturing Kevin terribly mercilessly and recaptures the rest of the prophets. Without Metatron's help, Kevin isn't saved.
+> Mean time, Crowley recaptures the rest of the prophets. Without Metatron's help, Kevin isn't saved.
 >
 > Crowley kills Kevin and all the next-in-line hostage prophets he can find because none of them cooperate. He sends out demons to look for the other half demon tablet, and is very close to get it (demons already find it, just need to dig it out to give him), which makes him about to be in possession of both angel tablet and demon tablet, which makes Metatron start to concern.
 >
@@ -1865,31 +1877,31 @@ Why Dean doesn't like Sam/Cas touch: Sam's power/sick from demon tablet, Cas's s
 
 The idea comes to Dean when he sits back down in front of the laptop, with Cas flipping old research books on the other side.
 
-The screen shows a website that cumulated all the *Supernatural* books people managed to find over the years, some are published, some aren't. They seem to be not as complete as Metatron's book provider (it doesn't have the one Metatron seems to be able to find out about Charlie and the djinn last week), but already enough to make Dean frown at the so-called "wiki" page with knuckles pressed on his temples. He gets the link from Charlie, who is more than glad to share it and promise to dig around and hack to find if there are more that can help.
+The screen shows a website that cumulated all the *Supernatural* books people managed to find over the years, some are published, some aren't. They seem to be not as complete as Metatron's book provider (it doesn't have the one Metatron seems to be able to find out about Charlie and the djinn last week), but already enough to make Dean frown at the so-called "wiki" page with knuckles pressed on his temples. He gets the link from Charlie, who is more than glad to share it and promise to dig around and hack to find if there are more that she can help.
 
 "I'm gonna give Chuck a call," Dean says suddenly. "Or at least find out what happened to him, how come it's suddenly Kevin's turn but the books are still coming out. I blame Chuck for turning Metatron into our number one perv fan."
 
-"Yeah, good idea." Cas agrees absentmindedly, still reading the page he's on.
+"Yes, I think it's a good idea," Cas agrees absentmindedly, still reading the page he's on.
 
-Unsurprisingly but still disappointedly, no one picks up Chuck's house phone, and no one from the book agency knows what happened to him. The same publisher girl they met before answers their call to the publishing house.
+Unsurprisingly but still disappointedly, no one picks up Chuck's house phone, and no one from the book agency knows what exactly happened to him. The same publisher girl they met in person last time answered Dean's call to the publishing house.
 
-Apparently, no one has ever seen him ever again since three years ago, but the books are still writing themselves and appearing on his laptop as long as it's powered on. Most people think it's a prank, like a remotely-controlled laptop kind of thing, and the new series are written by a fan. But the hacker is too good to be traced, and the stories are decent anyway to pass for a canon, so the publisher takes over the house and continues publishing them, but only exclusively to private buyers.
+Apparently, no one has ever seen him ever again since three years ago, but the books are still writing themselves and appearing on his laptop as long as it's powered on. Most people think it's a prank, like a remotely-controlled laptop kind of thing, and the new series are written by a fan (who must also happen to be a great hacker). But the hacker is too good to be traced, and the stories are decent anyway to pass for a canon, so the publisher takes over the house and continues publishing them, but only exclusively to private buyers.
 
-"It can't be a prank if it still accurately wrote your life and Sam's." Cas points out the obvious.
+"It can't be a prank if it still accurately wrote your life and Sam's." Cas points out the obvious hole.
 
-Dean throws his phone back to the table in frustration. "Dead end anyway, not like we can sneak peak our future. Last I checked, the latest one just caught up on the reality up till we visited the scribe, that's why Metatron was trying to mess us up and write his own version. Dude, I hate writers."
+"Which sucks and is just useless." Dean throws his phone back to the table in frustration. "Dead end anyway, not like we can sneak peak our future. Last I checked, the latest one just caught up on the reality up till we visited the scribe, that's why Metatron was trying to mess us up and write his own version. Dude, I hate writers."
 
 "Not all writers are angels or prophets," Cas says reasonably.
 
-Dean shrugs, turning back to scrolling the webpages.
+Dean hums noncommittally, turning back to scrolling the webpages.
 
 Ding! A notification sound comes from a closed laptop on Sam's usual seat.
 
-Dean glances at it for a second, but decides Sam might be upset if he messes with his laptop.
+Dean glances at it for a second, but decides Sam might be upset if he peaks into his laptop.
 
 But then, another sound. And another.
 
-"Okay, alright, what do you get?" Dean says as he sits into Sam's seat, unlocking his laptop (Sam's password is too easy to guess).
+"Okay, alright, what do you get?" Dean says as he sits into Sam's seat, unlocking his laptop (Sam's password is just too easy to guess).
 
 The first alarm notification reads: "Luigi Ponzi -- found dead."
 
@@ -1899,7 +1911,7 @@ Dean squints at the name, "Luigi Ponzi, why does it sound so familiar?"
 
 "Yes, sent him all the way back to Rome for our trouble." Dean remembers. "The day you got top side."
 
-He clicks the news link in the same notification message, and he knows why this one comes to the news. Next to the dead body, on the plain ground, there is a huge ash-written letter: "H", visible even from the sky. The picture is taken from a drone's view.
+He clicks the news link in the same notification message, and he knows why this one came to the news. Next to the dead body, on the plain ground, there is a huge ash-written letter: "H", visible even from the sky. The picture is taken from a drone's view.
 
 The second alarm that follows closely after according to the timestamp says: "Justin Hurst -- dead."
 
@@ -1941,7 +1953,7 @@ Cas stares at the screen. "It's not for humans," he says thoughtfully.
 
 "He must got both tablets." Dean realizes. "You said he got the angel one from you, right? He still got the other half he snapped when you chopped the demon tablet in half, and the last half was with Kevin. Now that he also got Kevin, he must have both tablets. How powerful are the tablets, really? I thought they're just like books, they don't give you like real combat power or whatever?"
 
-Cas shakes his head. "They're touched by God and hold his Words. They have real power -- normal medium can't possibly hold God's Words, they'll burn instantly by the power in the Words, so the tablet must have been enhanced to contain all those Words. Think the vessel and celestial beings, the tablets are the vessel in this analogy. What I know is only that the angel tablet is capable of breaking Heavenly psychological and mental link, that's how it kept me sane and broke me out of Heaven's control. The demon tablet, I imagine it must have similar protection effect or other powers for demons. With both of the tablets, I wouldn't be surprised if he might have enough enhanced power to start -- or even win -- a war against Heaven."
+Cas shakes his head. "They're touched by God and hold his Words. They have real power -- normal medium can't possibly hold God's Words, they'll burn instantly by the pure power in the Words, so the tablet must have been enhanced to contain all those Words. Think the vessel and celestial beings, the tablets are the vessel in this analogy. What I know is only that the angel tablet is capable of breaking Heavenly psychological and mental link, that's how it kept me sane and broke me out of Heaven's control. The demon tablet, I imagine it must have similar protection effect or other powers for demons. With both of the tablets, I wouldn't be surprised if he might have enough enhanced power to start -- or even win -- a war against Heaven."
 
 "Dammit!" Dean rubs his temples hard. They are so close! So close to closing the Hell gate and lock all the demons away, but now, with Crowley having all those God-level power, he can't imagine what would happen. He looks at Cas and thinks, all they have are two wounded men and one cursed one. Fighting to save the world for this long, it looks like maybe this round is finally the round they'll have to lose.
 
@@ -1953,7 +1965,7 @@ Cas reaches to move the laptop closer to him, clicking on the other ones anyway.
 
 Just like he thought, just another news report, another letter. He really doesn't need to know who else are dead that he couldn't save.
 
-"It's not 'Hell' Crowley's spelling, this one has an 'O'." Cas points at the image.
+"It's not 'Hell' that Crowley is spelling, this one has an 'O'." Cas points at the image.
 
 And he's right.
 
@@ -1967,17 +1979,17 @@ Dean grabs a piece of paper to write down all the letters they find so far: "HEL
 
 "Maybe because he runs out of prophets to kill? That's all the people he kidnapped last time, I believe that's all the names Samandriel told him when he was tortured."
 
-"Hmm, 'runs out of prophets to kill' isn't a sentence I thought I'd hear," Dean says as he pulls out the searching engine. And there they are, the other three innocent non-prophets, other three letters: "O", "Y", "S".
+"*'Runs out of prophets to kill'*, that's not a sentence I thought I'd hear," Dean says as he pulls out the searching engine. And there they are, the other three innocent non-prophets, other three letters: "O", "Y", "S".
 
 "*'Hello, Boys.'* So the message is for us." Dean reads out loud, so pissed and disbelieving that he's almost laughing. He breathes in sharply then lets it out. "What's wrong with Crowley? He lost his phone or something? Couldn't just give us a call to say hi like normal people?"
 
-"He *is* the evil King of Hell, after all," Cas says reasonably.
+"He *is* the evil King of Hell, after all," Cas states reasonably.
 
 "What the hell did he want? He's already the King! I miss the days he's sorta on our side," Dean says tiredly, slumping deeper in the chair, turning to Cas.
 
-Too tired to continue working the case, the only thing makes him feel slightly better and sane is staring at Cas, so that's what Dean's doing. And only now does Dean realize how close they sit, their knees are brushing against each other, but it's just so natural that he doesn't even register the touch. *Are they always sitting so close? Touching so naturally? Is there any chance there can be something more between them?* But as his eyes naturally fall down to Cas's lips, even that sense of peaceful "Cas is here" thought is quickly disturbed by remembering the curse. It seems the life just wouldn't stop fucking him.
+Too tired to continue working the case, the only thing makes him feel slightly better and sane is staring at Cas, so that's what Dean's doing. And only now does Dean realize how close they sit, their knees are brushing against each other, but it's just so natural that he doesn't even register the touch. *Are they always sitting so close? Touching so naturally? Is there any chance there can be something more between them?* But as his eyes naturally fall down to Cas's lips out of habit from the years, even that sense of peaceful "Cas is here" thought is quickly disturbed by remembering the curse. It seems the life just wouldn't stop fucking him up.
 
-*Don't you dare hurt him, Dean Winchester.* He hears his own brain starts saying from the back of his head, menacing and murderous to the other unreasonably fluffy and flustering part of the brain. *Don't you dare even think about that, kissing him, no matter how much you want. Don't you dare break him again. Or I'll kill you -- me -- whatever.*
+*Don't you dare hurt him, Dean Winchester.* He hears his own brain starts snapping from the back of his head, menacing and murderous to the other unreasonably fluffy and flustering part of the brain. *Don't you dare even think about that, kissing him, no matter how much you want. Don't you dare break him again. Or I'll kill you -- me -- whatever.*
 
 Dean sighs, shifting his thoughts back to the world-saving crisis.
 
@@ -1999,7 +2011,7 @@ Cas's eyes brighten up. "That's actually not a bad idea."
 
 "I was a monster to you?" Cas says nonchalantly.
 
-"No, no, not what I mean." Dean says urgently, "I mean like, some big-time-mother-fuckers... power players! That's the word. Like... just super awesome big powerful ones -- awesome when it's you, not awesome when it's those other dudes... you know what I mean." He rubs his cheeks unconsciously.
+"No, no, not what I mean." Dean says eagerly, "I mean like, some big-time-mother-fuckers... power players! That's the word. Like... just super awesome big powerful ones -- awesome when it's you, not awesome when it's those other dudes... you know what I mean." He rubs his cheeks unconsciously.
 
 Cas nods. "So Crowley and Metatron are like Godzilla and Mothra now this time."
 
@@ -2027,15 +2039,15 @@ Crowley stops caressing the tablets, glaring at her, raising his voice. "Did I a
 
 "No, Your Excellency. We're still searching." The demon lowers her head, looking at the ground.
 
-"Then WHY are you still HERE? GO FIND IT!" Crowley growls. "How difficult can it be to find something hidden by a freaked kid in the middle of an illusion?!"
+"Then WHY are you still HERE? GO FIND IT!" Crowley growls. "How difficult can it be to find something hidden by a freaked kid in the middle of an illusion?! He doesn't even have a car!"
 
 "Yes, Your Majesty. Understood. Right away." The demon turns and rushes out of the throne room.
 
 The door closes behind her with a flicker of Crowley's finger.
 
-Crowley goes back indulging himself in the amazing feelings of touching the tablets -- and he notices distinctively, that the demon tablet gives him even better feelings than the angel one. It makes his mind and body soothing and comfortable. He can almost see how it looks like when Hell wins and demons like him can walk the Earth free, but the vision isn't consistent -- here and there, there are breaks and cracks in the image in his mind's eyes. *It must be because it's only a half. It will be his paradise when he got the other half back together. Then, that's how they'll win.*
+Crowley goes back indulging himself in the amazing feelings of touching the tablets -- and he notices distinctively, that the demon tablet gives him even better feelings than the angel one. It makes his mind and body soothing and comfortable, floating and flying, better than any drug demons used to distribute to humans. It also gives him some really clear visions in his mind's eyes; he can see how it looks like when Hell wins and demons like him walk the Earth free, but the vision isn't consistent -- here and there, there are breaks and cracks in the image in his mind's eyes. *It must be because it's only a half. It will be his paradise when he got the other half back together. Then, that's how they'll win.*
 
-He stuffs the angel tablet into the hidden locked chamber under the throne, and holds the half demon tablet to his embrace. For once, he feels really good about himself and Hell and everything. He isn't even worried about Winchesters -- he can't even quite remember why he used to worry so much about them. They're just humans, after all.
+He stuffs the angel tablet into the hidden locked chamber under the throne, and holds the half demon tablet to his embrace. For once, he feels really good about himself and Hell and everything. He isn't even worried about Winchesters -- he can't even quite remember why he used to worry so much about them. They're just humans, after all. Why did he even try to approach them as friends? They're nothing. Not even saving the Apocalypses can prove anything, and not to forget, he also personally has participated in those Apocalypses, and people nowadays are always exaggerating.
 
 The secretary demon rushes down the corridor and runs into a patrolling guard demon -- he's been guarding Crowley's throne room since forever.
 
@@ -2053,17 +2065,17 @@ They can't be. They're too big. So they must be for flying beings who can read -
 
 Metatron notices them on the newspapers -- it's pretty impossible to miss anyway, as long as you read news. And it's making him worried.
 
-Thanks to Carver Edlund -- or, according to *The Monster at the End of This Book*, he should probably call that author Chuck, too, for that's his real name -- so, thanks to Chuck, and the very thorough, detailed descriptions in the books, even though Metatron has never met this demon named Crowley before, he has a pretty good idea what that demon is like. And from what he read, being able to double-cross Lilith and Lucifer, survive the Apocalypse, twice, make deals with Castiel *and* Raphael, *and* Leviathans, and survive all of these -- this is no ordinary demon. This is no ordinary King of Hell. This demon might be as bad as Lucifer or even worse, and right now, he's killing all prophets in Hell's name like it's nothing, like God and God's servants are all nothing. He's being serious and very open about fighting against Heaven, and without any of the archangels left, and none of the tablets on their side, Metatron worries -- he doesn't think Heaven or angels can win. And if -- when -- Heaven loses, that would mean eternal torture for all the angels, which also would mean him.
+Thanks to Carver Edlund -- or, according to *The Monster at the End of This Book*, he should probably call that author Chuck, too, for that's his real name -- so, thanks to Chuck, and his agonizingly thorough and detailed descriptions in the books, even though Metatron has never met this demon named Crowley before, he has a pretty good idea what that demon is like. And from what he read, being able to double-cross Lilith and Lucifer, survive the Apocalypse, twice, make deals with Castiel *and* Raphael, *and* Leviathans, and survive all of these -- this is no ordinary demon. This is no ordinary King of Hell. This demon might be as bad as Lucifer or possibly even worse, and right now, he's killing all prophets in Hell's name like it's nothing, like God and God's servants are all nothing. He's being serious and very open about fighting against Heaven, and without any of the archangels left, and none of the tablets on their side, Metatron worries -- he doesn't think Heaven or angels can win. And if -- when -- Heaven loses, that would mean eternal torture for all the angels, which also would mean him.
 
 Metatron clutches the newspapers and crumples them into paper balls. He has to do something. There is only one way. One way to keep himself safe from all of these things on Earth and in Hell, from Crowley, safer than hiding in the rural mountain area in Colorado -- he'll need to do that spell to seal Heaven, with only him safely inside, lock the door and throw the keys so Crowley can't find him or reach him. There might be some small side effect from that spell, but that doesn't really matter.
 
-And in order to do that spell, he'll need three ingredients. Metatron hums to himself, quite pleased now. He didn't plan this ahead of the time, but everything is just fitting perfectly for the new plan like fate, like it's meant to be. The spell requires the heart of a love child of an angel and a human, angel's love symbol that would bring human together, and the grace of an angel who's in love with a human.
+And in order to do that spell, he'll need three ingredients. Metatron hums to himself, quite pleased now. He didn't plan this ahead of the time, but everything is just fitting perfectly for the new plan like fate is on his side, like everything is meant to be. The spell requires the heart of a love child of an angel and a human, angel's love symbol that would bring human together, and the grace of an angel who's in love with a human.
 
-The first two are easy enough to find -- he knows exactly where to find a Nephilim (It just so happened and such a miracle that there's a Nephilim on Earth and Heaven's alarm for Nephilim has been turned off so this one isn't eliminated yet, he wonders who's the angel who's tasked to remove this Nephilim but simply turned off the alarm without doing so -- he has a suspicion this feels exactly like Castiel's MO), and it shouldn't be too much of a trouble to find a Cupid and *persuade* them to give up the things Cupid exists for (He knows a thing or two about friendly and unfriendly persuasion). As for the third one, Dean's swear makes it just so perfectly ready; Metatron is sure Castiel's grace will be the exact right ingredient the spell needs, and he's just as sure that the kiss would happen sooner or later, it's just a matter of time, based on all that he's read about those two. Except, now he really needs it to be sooner, so he'll probably give those two a little push, just to speed things up a bit. He'll work on them later.
+The first two are easy enough to find -- he knows exactly where to find a Nephilim (It just so happened and such a miracle that there's a Nephilim on Earth and Heaven's alarm for Nephilim has been turned off so this one isn't eliminated yet, he wonders who's the angel who was tasked to remove this Nephilim but simply turned off the alarm without doing so -- he has a suspicion this feels exactly like Castiel's MO), and it shouldn't be too much of a trouble to find a Cupid and *persuade* them to give up the things Cupid exists for (He knows a thing or two about friendly and unfriendly persuasion). As for the third one, Dean's swear makes it just so perfectly ready; Metatron is sure Castiel's grace will be the exact right ingredient the spell needs, and he's just as sure that the kiss would happen sooner or later, it's just a matter of time, based on all that he's read about those two. Except, now he really needs it to be sooner, so he'll probably give those two a little push, just to speed things up a bit. He'll work on them later.
 
 The crepe at the restaurant the Nephilim works in is decent, but the fight afterward is a little unnecessarily nasty. Metatron doesn't quite enjoy anything so hands-on, but it's a means to an end. If it's to keep himself safe once and for all? Stabbing the girl and grabbing her heart from her chest isn't too big of a problem.
 
-The Nephilim is no match to him -- even though he got a punch in the face and thrown back ten feet. Metatron still manages to stab the blade right through her chest, so deep that even his hand goes through the wound. The heart is still beating when he clutches it. The Nephilim gasps and looks down, watching her heart getting torn out of her body, only then does she fall to the ground and stop breathing.
+The Nephilim is no match to him -- even though he got a punch in the face and thrown back ten feet. All she has is merely raw bestial brutal force. It's like fighting bulls, as soon as you learns their gaits, it's easy enough to maneuver and dodge. And before she knows it, Metatron manages to stab the blade right through her chest, so deep that even his hand goes through the wound. The heart is still beating when he clutches it. The Nephilim gasps and looks down, watching her heart getting torn out of her body, only then does she fall to the ground and stop breathing.
 
 Metatron wipes his bloody hand on the Nephilim's clothes and pockets the heart in his interdimensional pocket. "Just so you know, it's nothing personal and absolutely not me being unsatisfied with the crepes," he tells the body on the ground and leaves for Houston, Texas next.
 
@@ -2071,7 +2083,9 @@ The Cherubs are quite loud about their task assignment and their next target, an
 
 "I need your bow," Metatron cuts straight.
 
-"What? No!" Gail tries to break free of his hold, but Metatron has grabbed her wrist. "Let me go," she glances at the bar's direction. "I have job to do."
+"What? No!" Gail tries to break free of his hold, but Metatron has grabbed her wrist tight. As a scribe, it does come with some power perk, for example some pure angelic strength, and those extra knowledge, and also for example, the immunity to some average sigils.
+
+"Let me go," the Cupid glances at the bar's direction. "I have job to do."
 
 "Not anymore, sweetheart," Metatron grins at her. "Your job's done."
 
@@ -2083,9 +2097,9 @@ The Cupid quiets for a short while, staring at him, searching his face, not beli
 
 "Hey, that hurts. Don't judge a book by its cover!" Metatron protests, slipping the angel blade into his empty palm.
 
-"I'm not judging, I just know." Gail eyes the blade, getting hers ready too. "One tiny little unimportant thing about Cupid's special ability that no other angel master as well as we do: we work with love day in and day out, we see love in people and foster them. And you, *Scribe*, I don't see any love in you, not to Heaven, not to humans, only to yourself. You are not trying to save Heaven, you just want to save yourself. So, no, I'm not going to sacrifice *my* bow for someone like *you*."
+"I'm not judging, I just know." Gail eyes the blade, getting hers ready too in her free left hand. "One tiny little unimportant thing about Cupid's special ability that no other angel master as well as we do: we work with love day in and day out, we see love in people and foster them. And you, *Scribe*, I don't see any love in you, not to Heaven, not to humans, only to yourself. You are not trying to save Heaven, you just want to save yourself. So, no, I'm not going to sacrifice *my* bow for someone like *you*."
 
-Metatron sighs. "I really don't want this to get bloody, but you're not giving me much options."
+Metatron sighs. "I really don't want this to get bloody, but you're not giving me much choices."
 
 Gail raises her blade quickly, but Metatron strikes even faster.
 
@@ -2103,13 +2117,13 @@ Metatron cuts off her hand and throws it into the same interdimensional pocket w
 
 Dean scrolls the web pages, clicking the "next" button at the end of the search engine result over and over again, flipping the pages through. His eyes are sour from staring at the screen light for this long, but he pushes on. It's been three days, and they haven't found anything useful to bring Crowley or Metatron together, or any close to find where they are.
 
-Sam joins them today, typing on his laptop. And Cas are working through the spell books.
+Sam says he's feeling better and insists on joining them today. So he's typing and reading on his laptop, sitting opposite to Dean. And Cas is working through the spell books.
 
-Sam coughs worse than before, Dean notices. Every time Sam coughs, Dean pretends he's not looking up, but from the edge of his eyes, he sees red on the paper tissues he's using to cover his mouth. Things aren't looking good.
+Regardless of what he says, Sam coughs worse than before, and Dean surely notices. Every time Sam coughs, Dean pretends he's not looking up, but from the corner of his eyes, he sees red on the paper tissues he's using to cover his mouth. Things aren't looking good.
 
 On his right side of the table, Cas are practically bending his entire upper body on the table, probably that's the only posture he finds where the wound in his stomach doesn't hurt as much. He's still on bandage, and last Dean checked (which is last night), that hole in his gut still looks fresh and deep.
 
-He presses the "next" button again, checking the next page result of any recent angel or demon sightings.
+He presses the "next" button again, checking the next page of the searching result of any recent angel or demon sightings.
 
 "Found something," Sam announces with a hoarse voice. "Looks like a case."
 
@@ -2145,7 +2159,7 @@ Sam swallows, "The first body had her heart torn out, and the second one got her
 
 Dean does a quick brain calculation. "So it's either twenty-four-hour drive or a twelve. I vote for Houston."
 
-"We can split, covering more ground, figuring out both of them," Sam suggests, just in time for another round of terrible cough that he has to excuse himself to the bathroom.
+"We can split, covering more ground, checking out both of them," Sam suggests, just in time for another round of terrible cough that he has to excuse himself to the bathroom.
 
 "Don't even think about it." Dean points a finger at him when he wobbles back and sinks back down in the chair. "You just lie down, hole up in the home base. I need anything, I call you. I'll check out Houston first. If it's something, I can check out California later."
 
@@ -2171,13 +2185,13 @@ Cas nods with a small fleeting relieved smile.
 
 They are Special Agent Page and Plant to the Houston Police Department.
 
-They are told the body belongs to a delivery personnel for the Doc Marley's Cocktails bar, but no one see her before, and no one even knows her name. The only clue they get is from the delivery vest that Jane Doe's wearing, and that she died near the bar's crew-only back door. But both can be faked very easily, says the sheriff.
+They are told the body belongs to a delivery personnel for the Doc Marley's Cocktails bar, but no one has seen her before, and no one even knows her name. The only clue they get is from the delivery vest that Jane Doe's wearing, and that she died near the bar's crew-only back door. But both can be faked very easily, says the sheriff.
 
 Dean interviews the bartender that night, Dwight, but he knows just as much as anyone else -- jack squat. He never meets the woman, and he has an alibi from his only other regular customer that night, Rod, who says practically the exact same thing when Dean interviews him later.
 
 Dean leaves the two of them back to their soccer watching and beer sharing, going back to where Cas is investigating the ground near the back door.
 
-"I got nothing," Dean spreads his palm as he moves closer, "You?"
+"I got nothing," Dean spreads his palm as he moves closer. "You?"
 
 "It's not demon," Cas crouches closer to the wet ground. Dean bends back him, illuminating the ground with his flashlight. The pool of blood where the woman's body once was reflects black in the night under the flashlight.
 
@@ -2187,7 +2201,7 @@ Cas shakes his head. "And it's not just any one. I think he just killed a Cupid.
 
 "Like that weird naked dude a few years ago?" Dean glances at Cas, blinking. "She's not naked."
 
-"No, she's not. They... don't always choose naked vessels, though some do prefer the more 'natural' dressing that fit their job," Cas explains.
+"No, she's not. They... don't always choose naked vessels, though some do prefer the more 'natural' dressing that fit their job," Cas explains with a straight face.
 
 Dean shrugs. "Alright, whatever. Question is, why is Metatron killing Cupids? They're the good guys, right? At least, they're angels, the same side and all. More importantly, where is he *now*? We need to figure out if he's still in town."
 
@@ -2237,15 +2251,15 @@ Some church bells toll distantly at the full clocks.
 
 An hour passes by, then another. Cas stays still, just watching. He barely breathes, or blinks. Just watching the human like it's the only thing he ever wants to watch, like the world doesn't exist around him, only Dean is real and there.
 
-By the time the churches toll for eleven, Cas stands up quietly, hovering beside the bed for another long minute. He reaches out a hand, almost looking like as if he tries to fondle Dean's cheeks, but stops just an inch or two shy of touching, leaving only the shadow of his hand moving tentatively over Dean's face, then Dean's lips, then away.
+By the time the churches toll for eleven, Cas stands up quietly, hovering beside the bed for another long minute. He reaches out a hand, almost looking like as if he tries to touch Dean's cheeks, but stops just an inch or two shy of reaching, leaving only the shadow of his hand moving tentatively over Dean's face, then Dean's lips, then away.
 
-"Thank you, for everything you did for me." Cas whispers quietly to the asleep human. "Thank you for everything. I..." He pauses there for a few seconds, as if trying to be sure if Dean's still deep asleep. Dean lets out a snore just then. "I love you, Dean. And good bye," Cas finishes, with a strong heave of his chest, and then letting the held breath out slowly.
+"Thank you, for everything you did for me," Cas whispers quietly to the asleep human. "Thank you for everything. I..." He pauses there for a few seconds, as if trying to be sure if Dean's still deep asleep. Dean lets out a snore just then. "I love you, Dean. And good bye," Cas finishes, with a strong heave of his chest, and then letting the held breath out slowly.
 
 He leaves the motel quietly, bolting the door behind him.
 
-Cas checks the time, there're still some time to kill before midnight. He walks toward the center of the city on foot slowly. Houston is a bigger city than Lebanon, or most of the small rural towns they're used to stay. The lights on the street actually illuminate the roads quite brightly, leaving no dark shadowy corners for monsters to sneak around. Cars drive by the street sparsely. The air is damp and warm. He finds himself actually enjoy the city, the Earth, the world. He breathes in slowly, and breathes out.
+Cas checks the time, there're still some time to kill before midnight. He walks toward the center of the city on foot slowly. Houston is a much bigger city than Lebanon, or most of the small rural towns they're used to stay. The lights on the street actually illuminate the roads quite brightly, leaving no dark shadowy corners for monsters to sneak around. Cars drive by the street sparsely. The air is damp and warm. He finds himself actually enjoy the city, the Earth, the world. He breathes in slowly, and breathes out.
 
-He takes a turn at the main street, heading to the biggest fountain in the city. The fountain is still running, high streams of water spreading from the center in a circle like a blossoming flower. Warm orange light shines in the middle, making the fountain look almost like a real flower. Water coming down from the fountain flows down from the edge of the main base, keeping a large pool alive and fresh, waving like a small lake. He can't see how deep the pool is, but the view is surprisingly soothing.
+He takes a turn at the main street, heading to the biggest fountain in the city. The fountain is still running, high streams of water spreading from the center in a circle like a blossoming flower. Warm orange light shines in the middle, making the fountain look almost like a real flower. The sprayed fountain water flows down from the edge of the main base, keeping a large pool alive and fresh, waving like a small lake. He can't see how deep the pool is, but the view is surprisingly soothing.
 
 So Cas stands by the edge of the fountain basin, watching the water splashing and flying.
 
@@ -2253,13 +2267,13 @@ So Cas stands by the edge of the fountain basin, watching the water splashing an
 
 "Metatron." Cas turns around sharply, facing the short chubby man behind him, standing ten steps away.
 
-"Castiel," Metatron says casually, having both his hands in his pockets, as if a human feeling chilly in the midnight temperature. Even though for a early summer Houston, this isn't a chilly night in any sense. "Finally, meet you in real life, the famous Castiel, the angel on top of the Christmas tree. I read so much about you."
+"Castiel," Metatron says casually, having both his hands in his pockets, as if a human feeling chilly in the midnight temperature. Even though for an early summer in Houston, this isn't a chilly night in any sense. "Finally, meet you in real life, the famous Castiel, the angel on top of the Christmas tree. I read so much about you."
 
-"I was never on top of any Christmas tree," Cas answers, jaw tight.
+"I was never on top of any Christmas tree," Cas answers drily, jaw tight.
 
 "Well, I can make it happen, if you want. I can make anything happen, actually, in case you haven't noticed." Metatron smiles at him pretentiously.
 
-Cas ignores that comment, cutting right in, "What do you need my grace for?" He gestures his head, "I heard you, and here I am."
+Cas ignores that comment, cutting right in, "What do you need my grace for?" He gestures at his temple, "I heard you, and here I am."
 
 "Not a fan of small talks, aren't you?" Metatron rolls his eyes dramatically. "You're no fun. Here's the deal: I'm going to do so many good things with your grace, so don't worry about it. I'll save Heaven and all the angels, isn't that enough?"
 
@@ -2267,7 +2281,7 @@ Cas ignores that comment, cutting right in, "What do you need my grace for?" He 
 
 Metatron rolls his eyes again. "I told Dean it's not a curse, just a choice! And yes, yes, I'm a bit tight on schedule, so I'm ruining my own fun, I was hoping to see Dean make the better story work, but I guess I'll settle with this story now. We can't always have what we want, don't we?"
 
-"That's not a promise." Cas says sternly.
+"That's not a promise," Cas says sternly.
 
 "I promise I'll let the humpty dumpty brothers walk free. There, happy?" Metatron smiles brightly.
 
@@ -2277,17 +2291,17 @@ Metatron slides his angel blade into his palm. "Now, do you want to do the honor
 
 "I'll do it," Cas says solemnly, his own angel blade appearing in his hand, raising high and steady, close to his throat.
 
-"That's not gonna happen," Dean says, emerging from behind Metatron, grabbing the angel blade Metatron's holding and pressing it to the angel's neck. "Cas, put the knife down."
+"That's not gonna happen," Dean says, emerging from behind Metatron, grabbing the angel blade that Metatron is holding and pressing it against the angel's neck. "Cas, put the knife down."
 
-"Dean! What are you doing?!" Cas yells. His hand does follow the order immediately and lower the blade at the sight of Dean.
+"Dean! What are you doing?!" Cas yells. His hand does follow the order immediately though, and lowers the blade at the sight of Dean.
 
 "Whatever deal you made, scratch that." Dean holds one hand around Metatron's neck, locking him in place, keeping the right hand with the angel blade steady. "I knew something's up."
 
 Metatron lets out a groaning sound. "I told you to come alone, Castiel! This is cheating!"
 
-"I did!" Cas argues. "I-I thought I did!"
+"I did!" Cas argues. "I -- I thought I did!"
 
-Dean darts him a stern look, snapping, "I know you acted sketchy after that angel phone call, Cas. Good for me, you're a terrible liar."
+Dean darts him a stern look, snapping, "I knew you acted sketchy after that angel phone call, Cas. Good for me, you're a terrible liar."
 
 "I tried to protect you!" Cas raises his voice. "I do this, then you don't have to choose. I know you refused to kiss me to save Sam, so this is better for everyone!"
 
@@ -2297,13 +2311,13 @@ Dean darts him a stern look, snapping, "I know you acted sketchy after that ange
 
 He snaps his finger.
 
-Dean doesn't have time to react when a force pushes him out of Metatron's way, forcing him to drop the blade, throwing him right into the fountain pool, drowning his head under the water. His hands grab desperately at the edge of the pool, his feet struggles to stand, but an invisible force is pushing his head down, down, down. The more violently he tries to push back to get air, the faster his lungs are drained. He can feel water filling his nasal and mouth quickly.
+Dean doesn't have time to react when a force pushes him out of Metatron's way, forcing him to drop the blade, throwing him right into the fountain pool, drowning him flat under the water. There is a weight sitting on his chest, pushing him down, just like the first time when they met and Metatron forced him to sit back down. Dean's hands struggle desperately in search of the edge of the pool, splashing the water. His feet try to kick violently, but the force is just too strong to fight against, it holds his whole body down, down, down. His back is held against the cold base of the fountain pool, his neck and head stiff and unmovable. The last breath is running out quickly, bubbles floating from his mouth and nose, surfacing and breaking apart. The more violently he tries to push back to get air, the faster his lungs are drained. He can feel water filling his nasal and mouth rapidly. The water tastes like cold metallic chemicals, and it burns in his pipes.
 
-"Cas!" Dean tries to yell, but the water pours in before he gets any sound out. Air runs short quickly, and his lungs are burning.
+"Cas!" Dean tries to yell, but the water pours in before he gets any sound out. Air runs short quickly, and his lungs are burning. He can't even see much, only the colors -- the night sky is a wavering black curtain from under the water, and the orange fountain light melts in the water, floating around him like a circle of burning fire. It's like back in Hell again. It's bright and dark, it's cold and hot, it's wet just like dripping blood, and he's dying. Forty years of Hell memory unleashes, and the reality starts weaving back with the memory. Dean's heart beats frantically in the mixed reality. He forgets where he is, only that he's dying, and the suffer will last for eternity, and there is only one being, one angel, who can save him -- who had saved him, who will save him.
 
-*Cas, Cas, Cas --* His brain panics and yells automatically through the thought. *Help me, please, Cas... I can't breathe.*
+*Cas, Cas, Cas --* His brain panics and yells automatically through the thoughts and prayer. *Help me, please, Cas... I can't breathe. Save me, once more, please.*
 
-"You know what's the most amazingly beautiful coincident is?" Metatron is still gloating behind them. "This fountain, this location, everything is just so perfect and destined. In case you don't know, this is Mecom Fountain, founded by John W. and his wife Mary, no kidding. And down the road there, that's Sam's statue -- the lovely Sam Houston, but it's a Sam anyway. You see now who's not in this picture? The two of you! Isn't it beautiful and perfect for a story's plot twist?"
+"You know what's the most amazingly beautiful coincidence is?" Metatron is still gloating behind them. "This fountain, this location, everything is just so perfect and destined. In case you don't know, this is Mecom Fountain, founded by John W. and his wife Mary, no kidding. And down the road there, that's Sam's statue -- the lovely Sam Houston, but it's a Sam anyway. You see now who's not in this picture? The two of you! Isn't it beautiful and perfect for a story's plot twist?"
 
 "NO!" Cas yells, lunging at Metatron, swinging his blade at the scribe.
 
@@ -2311,9 +2325,17 @@ But before he can reach the angel, Metatron wiggles his fingers in a goodbye ges
 
 Cas's blade fans the air, making him almost lose his balance and stumble down the stairs. But Cas straightens himself quickly, dashing back to Dean.
 
-Dean's moves are slowing down drastically, only his fingers faintly pressed on the pool wall, still trying to push himself out of the water. Only small bubbles float to the surface near his head now.
+Dean's moves are slowing down drastically, only his fingers faintly pressed against the fountain base, still trying to push himself out of the water. Only small bubbles float to the surface near his head once or twice every now and then now.
 
-Cas holds Dean's head with all his force, but even with all his angel strength, he can't pull Dean out of the water. Whatever spell Metatron is using, it's stronger than him.
+Cas jumps into the pool, kneeling beside Dean, holding his head with both his hands, but even pulling with all his angelic strength, Cas can't pull him out of the water.
+
+Dean's move slows down even more. His arms fall slack at the bottom of the pool. Not any more bubbles.
+
+"Dean! DEAN!!" Cas yells his name, shaking his shoulder. He tries so desperately, trying to putting his arms under the human's body, using his own body's weight to pull him up. But whatever spell Metatron is using, it's stronger than him.
+
+It's like Dean's head and body is welded to the bottom of the water. There is nothing he can do to pull him out.
+
+"NO!!" Cas growls. The sound comes out a mixture of the low human pitch and high angel scream, almost like a wild creature's howl. He's desperate.
 
 Dean is drowning.
 
@@ -2327,9 +2349,9 @@ He holds a breath and buries his head under the water. The water in the fountain
 
 Cas holds his cheeks with both hands, shaking him slightly, but Dean doesn't react. Cas blinks one more time, looking at his unconscious face, and pressing his lips onto Dean's, pushing air into his mouth. Immediately, a glinting silvery light starts glowing from Dean's lips, passing onto Cas. Along with the light, there's a heated sensation, a warmth that's quickly heating up and turning into a burning sensation.
 
-*It's like being burned by the Holy fire.* Cas thinks, trying hard not to break the kiss and the breathing air that's flowing into Dean's mouth. But the pain is growing fast, diving into him, tugging his power, dragging his grace out.
+*It's like being burned by the Holy fire.* Cas thinks, trying hard not to break the kiss and the breathing air that's flowing into Dean's mouth. But the pain is growing fast, diving into him, tugging his power, dragging his grace out. It feels like being dissected, and he can feel the move of the blade, scraping his blood and bone, carving his grace away from this body.
 
-Angels don't need to breathe, but now, he feels breathless. He can feel his grace being pulled toward their touched lips, leaving him, flowing out, flying upwards, into the dark sky. Every second as air passes from his mouth into Dean's, his grace and power leaves him.
+Angels don't need to breathe, but now, he feels breathless. He can feel his grace being pulled toward their touched lips, leaving him, flowing out, flying upwards, into the dark sky. Every second as air passes from his mouth into Dean's, his grace and power leaves him. Everything that makes him an angel is leaving him.
 
 Cas knows, then, there are still chances to stop. He still has chance to choose to save himself. Every survival instinct of his since the dawn of his existence is telling him to stop. If he stops now, he might still have some of his power left. He might remain an angel.
 
@@ -2339,49 +2361,55 @@ It's a choice so easy and natural Cas doesn't even need to think about. It's a c
 
 Cas feels the last bit of air leaves his lung and pushes in through Dean's lips. His vessel is getting heavier and more mortal, falling onto him -- the real him -- like a skyscraper the size of a Chrysler Building crashing down on an ant.
 
-He has to get above the water, taking a huge gulp of air, and diving back down, sending them to Dean. Every second his lips are pressed onto Dean's, he feels weaker, more tiring, more breathless. He knows far too well what those sensations mean, but he forces himself to focus only on Dean. Dean's still not reacting, his eyes are still closed. Cas is so worried, he's almost biting on Dean's lips, just so he can know if Dean would react to pain and wake up.
+He has to get above the water, taking a huge gulp of air, and diving back down, sending them to Dean. Every second his lips are pressed onto Dean's, he feels weaker, more tiring, more breathless, more powerless. He knows far too well what those sensations mean, but he forces himself to focus only on Dean. Dean is still not reacting, his eyes are still closed. Cas is so worried, he's almost biting on Dean's lips, just so he can know if Dean would react to pain and wake up.
 
 The silvery light is fading now, as the light of his grace faints to mere thin thread of light, and the heated sensation recedes to the normal human body temperature, then even lower, because the midnight water is still chilly. Dean's lips are cold and unresponsive.
 
 *Come on, Dean, come back to me.* Cas holds his cheeks, pleading desperately.
 
-"Thank you, that's all I need," Metatron shows up with a flapping sound of wings, holding out a small glass vial, absorbing Cas's flying grace from the mid-air.
+"Thank you, that's all I need," Metatron shows up with a flapping sound of wings, smiling widely, holding out a small glass vial, gathering Cas's flying grace from the mid-air.
 
-Cas doesn't even have strength to pick up a blade by now, let alone throwing it at him or stabbing. He watches the last thread of his grace flying into Metatron's vial, closed with a click, and there is nothing he can do when he's still holding onto Dean.
+Cas doesn't even have strength to pull himself out of the pool now -- the wet trench coat and jacket are dragging him down, his own body is dragging him down -- let alone picking up a blade to throw it at Metatron or try the stabbing again. He watches the last thread of his grace flying into Metatron's vial, closed with a click, and there is nothing he can do as he's still holding onto Dean.
 
-When Metatron disappears one more time, Cas realizes there's no more force pushing Dean into the water. He pulls Dean out of water, and both of them fall to the ground next to the basin, dripping water from hair to shoulder.
+When Metatron disappears one more time, Cas realizes there's no more force pushing Dean into the water. He struggles to pull Dean's head out of water, wiping the dripping water from his hair away from the man's face almost frantically. Dean's eyes are still closed, water dripping from his eyelash and the tip of his nose and lips.
 
-Cas pants a few seconds to catch his breath, scrambling over to push Dean to lie on his side, patting his back to get his breath through.
+Cas tries to stand up first, but his knees buckle at the heavy weight of the wet pants, and his own feeble exhausted legs tremble too much that Cas fears he might drop Dean's head back into the water accidentally in his attempt. So he sits back down on his heels, still kneeling beside Dean, pulling the man up enough to let his lower back lean on his thigh. And slowly edging toward the wall of the pool, he manages to let Dean's upper body lean on the wall, and the hips and legs next.
 
-"Dean. Dean -- Dean!" he calls the human's name one after another, patting his back.
+Only after he makes sure Dean lays safely on the highest level of the steps outside the pool, Cas crawls out of the fountain clumsily himself. Both of them completely soaked, dripping water everywhere.
+
+Still panting breathless from all the physical struggle, Cas doesn't waste a second to catch his breath, scrambling over to push Dean to lie on his side, holding his head and patting his back to help get his breath through.
+
+"Dean. Dean -- Dean!" he calls the human's name one after another, patting his back. His voice trembles, in the mixed fear and cold. He doesn't realize his whole body is trembling.
 
 Dean spits a large mouthful of water, panting breathlessly, opening his eyes.
 
-Cas sits back on his heels with huge relief. "It worked!"
+Cas sits back on his heels with overwhelming relief. "It worked!"
 
-Both of them panting breathlessly, all shaky and shivering.
+For the many minutes followed, both of them are shaking and shivering, all they can do is panting and breathing, and suddenly it seems, having an even breath is the most difficult thing to do in the world.
 
-"You're alive!" Cas is so relieved there are almost glinting light in his eyes. He touches his lips unconsciously.
+"You're alive!" Cas is so relieved there are glinting light in his eyes. He touches his lips unconsciously.
 
-Dean stares at him, taking in his wet hair and shivering cold body. Angels don't get cold. He knows. Unless...
+Dean stares at him, taking in his wet hair, soaked clothes, and shivering cold body. Angels don't get cold. He knows. Unless...
 
-Dean touches his own lips self-consciously, putting the dots together. Instantly, guilt and fury devours him. *No, no, no--*
+Dean touches his own lips self-consciously, putting the dots together. Instantly, guilt and fury devours him. *No, no, no --*
 
-He grabs Cas on the shoulders, shaking him. "What the hell have you done?"
+He bolts up, grabs Cas on the shoulders, shaking him. "What the hell have you done?"
 
-Cas meets his furious eyes, quickly understanding, the look in his eyes turning to pained and guilty. "I'm sorry," he says quietly, flinching in Dean's raised voice.
+Cas meets his furious eyes, quickly understanding, the brief relieved look in his eyes turning to pain and guilt in less than a second. "I'm sorry," he says quietly, flinching in Dean's raised voice.
 
 "No, no, no --" Dean is shaking his head. Actually, his whole body is trembling, too, just like Cas, wet and cold and exhausted. But he ignores it all. He stares Cas in the eyes, voice so high and panicked that's nearly yelling, "Tell me you didn't do that! Tell me you are not a human now! Cas, tell me!"
 
-Heartbrokenly, Cas meets his eyes, then looks down. All he can do is to shake his head and say "I'm sorry" again and again. He can't bear the fury and pain in Dean's eyes. And disappointment, probably, if he's reading it right. He doesn't mean to hurt Dean, or violate him when he's unconscious, he really wouldn't. Cas thinks. But it seems, whatever he does, he'd upset Dean, or hurt him accidentally, or make him angry. And now, as a human, Cas realizes, Dean must think he is less useful now, which explains the disappointment -- they would have needed his angel power to save Sam and finish the trials.
+Heartbrokenly, Cas meets his eyes, then looks down. All he can do is to shake his head and say "I'm sorry" again and again. He can't bear the fury and pain in Dean's eyes. And disappointment, probably, if he's reading it right. He doesn't mean to hurt Dean, or violate him when he's unconscious, he really wouldn't. Cas thinks. But it seems, whatever he does, he'd upset Dean, or hurt him accidentally, or make him angry. And now, as a human, Cas realizes, Dean must think he is less useful now, which explains the disappointment -- they would have needed his angel power to save Sam and finish the trials and fight against Metatron and Crowley.
 
 "I can still be useful," Cas whispers carefully, his lips quivering in cold and aching. "I promise, I can still be helpful."
 
-Dean shuts his eyes painfully, his breath broken and shattered. "Cas..." he sighs deeply, pain bleeding out in each syllable. "That's not the point..." he manages, feeling his chest so tight and suffocated that for a moment he thought he's under the water again. That's not the point, being useful and helpful is never the point, but how can he make Cas see it? How can he even ask for Cas's forgiveness, when it's *his* fault, that Cas just lost all his power and became a human now? How can he even start talking about those?
+Dean shuts his eyes painfully, his breath broken and shattered. "Cas..." he sighs deeply, pain bleeding out in every syllable. "That's not the point..." he manages, feeling his chest so tight and suffocated that for a moment he thought he's under the water again. That's not the point, being useful and helpful is never the point, but how can he make Cas see it? How can he even ask for Cas's forgiveness, when it's *his* fault, that Cas just lost all his power and became a human now? How can he even start talking about those?
 
-He opens his eyes, seeing Cas, still kneeling next to him, water dripping from his wet hair onto his trench coat, looking miserable and awful. And he suspects himself might be no better.
+He opens his eyes, seeing Cas, still kneeling next to him, water dripping from his wet hair onto his trench coat, looking miserable and awful. And he suspects himself must be no better.
 
-"Just..." he starts, awfully painfully taking a breath to make the voice comes out as steady as possible. "Let's just go back first." He can't even bear to look at Cas any longer, for every minute, every look, the reminder of the fact that he's the one that has hurt Cas, doomed Cas, cursed him and drained him over and over again, would kill Dean a little more, like a dagger burying a little deeper in his chest, cutting his heart apart. He walks wobbly back, heading toward their motel.
+"Just..." he starts, awfully painfully taking a breath to make the voice comes out as steady as possible. "Let's just go back first." He can't even bear to look at Cas any longer, for every minute, every look, the reminder of the fact that he's the one that has hurt Cas, condemned Cas, cursed him and drained him over and over again, would kill Dean a little more, like a dagger burying a little deeper in his chest, cutting his heart into smaller shards.
+
+*Who is he to think he deserves to love an angel? Who is he to even dare thinking of using that word "love" to blaspheme the angel?* And now, look what he's done. He swore the love on Castiel's name, and by doing so, he pulled Cas down to the earth from the sky. Because this is what he does, he ruins and breaks everything. Dean walks wobbly, staring at the ground the whole way, heading back toward their motel, utterly quiet.
 
 Cas hears all the stiffness in his voice, and the way Dean drags himself up from the ground, shakingly heading back, not even looking back at him, not even waiting for him, not even holding him like he would when he was still an angel. Cas follows him mutedly, quietly comprehending this non-spoken human social rule. The distance between them looks far and cold, filled by chilly wet air -- salty, even, sometimes. He stares at Dean's back and thinks he understand, and this is hurting him so much worse than losing all his grace.
 
@@ -2397,7 +2425,7 @@ I have to mention that the locations I find for this chapter and the next feels 
 
 And Houston is the town where, in the canon, Cas and Dean would find the Cupid Gail and persuade her to give up her bow; the only change here I made is that Metatron is the one approached her and she ended up dead. The rest just comes together naturally.
 
-I'm really thinking there's a divine power up there somewhere, controlling me to control this story and them to be exactly where they need to be and what I need to write. The story is writing itself, and it's freaking scary.
+I'm really thinking there's a divine power up there somewhere, controlling me to piece this story and them up to be exactly where they need to be and what I need to write. The story is writing itself, and it's freaking scary.
 
 <br>
 
@@ -2445,17 +2473,19 @@ Both Dean/Cas more aching/pining, they turn to focus on bring Metatron/Crowley d
 
 In the dim dawn light before the sun is up, Cas is finally asleep. He lies on his side, facing Dean's bed. The furrow between his eyebrows are still tightly creased. The frown looks like it's never going to leave him. His hair -- Dean had to teach him how to shower when they got back and helped him drying up -- are pressed to the pillow more messily and humanly than they ever look.
 
-Dean can't sleep no matter what. All he can do is lying on his side, watching Cas's sleeping face in the mixture of half-lit skylight and the parking lot lamp. Cas's breath becomes even and deep when he falls into sleep. Dean watches him with fascination that he doesn't know he'd have. This is the first time he sees the angel falls into such a deep, humanly sleep -- the first time Cas really even needs one. Pain and guilt starts biting Dean's heart again, killing him slowly. He turns onto his back, staring at the ceiling.
+Dean can't sleep no matter what. All he can do is lying on his side, watching Cas's sleeping face in the mixture of half-lit skylight and the parking lot lamp. Cas's breath becomes even and deep when he falls into sleep. Dean watches him with fascination that he doesn't know he'd have. This is the first time he sees the angel falls into such a deep, humanly sleep -- the first time Cas really even needs one. Pain and guilt gnaws Dean's heart again, killing him slowly. He turns onto his back, staring at the ceiling.
 
 But he can still hear Cas's breathing, which means he can still imagine and see it in his mind's eyes how Cas breathes and frowns in his dreams. He wonders what Cas dreams about. Two minutes later, he turns to his side again, just to check if what he imagined is the same as what he sees, and then he can't move his eyes away from Cas again.
 
-His eyes land back on Cas's lips, the lips that are splitting slightly, shadowed to a near dark color, but Dean can still see them so clearly. Cas is breathing in through his nose, out through his mouth. Dean watches those beautiful plush lips quiver slightly as the breathing moves them, wondering with amazement how those lips were desperately saving him and kissing him just a few hours ago. His brain was floating in and out of dizziness back then, like a plank from a wrecked ship drifting on the wave, but the sensation on the skin pierces through the fog, reaching him, touching him, dragging him toward the land of life. He can't even tell if it's imagination or something really happened, but he remembers the feelings of another pair of lips touching him, caressing against his lips, pressing on him, pushing breath and air in, saving his lungs that were desperately burning in fire. The air comes between those lips are the raindrops for his lungs, his body, his whole life. Just like the hand dragging him out of Hell, it's the lips this time.
+His eyes land back on Cas's lips, the lips that are splitting slightly, shadowed to a near dark color, but Dean can still see them so clearly. Cas is breathing in through his nose, out through his mouth. Dean watches those beautiful plush lips quiver slightly as the breathing moves them, wondering with amazement how those lips were desperately saving him and kissing him just a few hours ago. His brain was floating in and out of dizziness back then, like a plank from a wrecked ship drifting on the wave, but the sensation on the skin pierces through the fog, reaching him, touching him, dragging him toward the land of life. He can't even tell if it's imagination or something really happened, but he remembers the feelings of another pair of lips touching him, caressing against his lips, pressing on him, pushing breath and air in, saving his lungs that were desperately burning in fire, breathing life into his body. The air comes between those lips are the raindrops for his lungs, his body, his whole life. Just like the hand dragging him out of Hell, it's the lips this time.
 
 *I'm the one who gripped you tight and raised you from perdition.*
 
 *I'm the one who kissed your cursed lips and gave up all my power to save your life.*
 
-Dean watches the angel on the other bed, thinking, he's never been loved like this, and *this*, this is what breaks him apart again.
+Dean watches the angel on the other bed, thinking, *he's never been loved like this*.
+
+And *this*, this is what breaks him apart again.
 
 He has to slip out of the bed and the motel room and sneaks into the car, sitting there and wiping his tears, so the breathless sobbing and choking wouldn't be heard by anyone, wouldn't wake up the exhausted angel.
 
@@ -2475,7 +2505,7 @@ He makes his decision what he'll do after.
 
 He'll probably end up alone and in pain and suffering if he does that, if he asks Cas of that, but that's just about the summary of a Winchester's life anyway. He's used to it. He can handle it. As long as it means Cas will be okay.
 
-Dean touches his lips again, closing his eyes. If this is going to be the only time he can have this, he'll indulge himself in the memory and imagination. He falls asleep remembering the green and orange-colored water waving and ripping around him, the burning in his lung, and the soft, feather-light kiss landing on his lips. He imagines it's in a different setting, he imagines there was no curse, no consequence, he imagines they were just doing that, because it's what both of them want. His eyes would be open, he imagines he'd look into those deep angelic blue eyes, and kisses back when his cheeks are held. He'd reach out and hold the angel's cheeks too, holding him tight and wrapping him in his arms then, because he needs to feel him so desperately, because he needs him, just as much as he needs air to breathe. Cas is his air. And he's drowning. He's still drowning.
+Dean touches his lips again, closing his eyes. If this is going to be the only time he can have this, he'll indulge himself in the memory and imagination. He falls asleep remembering the black-green and orange-colored water waving and ripping around him, the burning in his lung, and the soft, feather-light kiss landing on his lips. He imagines it's in a different setting, he imagines there was no curse, no consequence, he imagines they were just doing that, because it's what both of them want. His eyes would be open, he imagines he'd look into those deep angelic blue eyes, and kisses back when his cheeks are held. He'd reach out and hold the angel's cheeks too, holding him tight and wrapping him in his arms then, because he needs to feel him so desperately, because he needs him, just as much as he needs air to breathe. Cas is his air. And he's drowning. He's still drowning.
 
 Dean smiles bitterly, leaning back in the seat, eyes closed. Tears are hanging at the corner of his eyes.
 
@@ -2487,11 +2517,11 @@ The motel is quiet, only distant highway has some trunks rumbling by.
 
 Cas flips to lie on his back, staring at the sky -- no, ceiling, it's the ceiling, he corrects himself. He can't see the sky through his angelic vision now, he can't see the stars shining in the space, or spirits flickering in the Vail. He's just a human now, looking at the dirty ceiling in the motel, can't even make out the mold and stains on the wall paper because of the lack of light. He's indeed so much more useless now. Cas sighs deeply. No wonder Dean couldn't even bear looking at him now, couldn't even bear staying in the same motel room when he falls asleep, maybe couldn't even bear the idea that he even needs sleeping now.
 
-Cas can feel his heart and his stomach being twisted and wrenched, even worse than when Crowley has half his arm poking in. The wound still hurts badly, and without grace, the healing would no doubt be even slower than before. Cas climbs off the bed clumsily, starting to dress up, deciding, maybe it's best that he leaves Dean before he comes back and feels embarrassed to tell him to go. It doesn't matter Dean has told him he's family, that he needs him -- that was before he became human, and everything changed now, isn't it?
+Cas can feel his heart and his stomach being twisted and wrenched, even worse than when Crowley has half his arm poked in. The wound still hurts badly, even worse after it's soaked in the water, and without grace, the healing would no doubt be even slower than before. Cas climbs off the bed clumsily, starting to dress up, deciding, maybe it's best that he leaves Dean before he comes back and feels embarrassed to tell him to go. It doesn't matter Dean has told him he's family, that he needs him -- that was before he became human, and everything changed now, isn't it?
 
 Thinking back, Cas feels almost glad that Dean was asleep back then, before he went out to meet Metatron, when he felt it so difficult to say it but still ended up saying it, that the feeling of love he confessed about as an angel. He feels almost relieved that Dean didn't hear it, because, he realizes now, back then, when he was still an angel, he truly had no idea what love really means. It was so easy to say love when he was immortal, when he didn't have to be afraid of death or hurting or pain or aging for the majority of his life, when he had all the power to spare and so few space in his mind for feelings.
 
-And now, *now* it changes everything. Everything physical becomes weaker in this mortal body, and everything mental becomes stronger. As his lung started burning under the water, when the fresh new human instinct kicked in, his own head screaming and struggling, trying to pull him out of the water to save his own life, it was his own heart that was beating like a dying sparrow's heart that decided, no, his own life didn't quite matter, he'll use it to save this other human, he'll use it all for Dean. He could die and he wasn't afraid, he could be killed, be choked, be drown, be burned, be stabbed, be crashed by any other celestial beings like Metatron as easily as crushing an insect, and he wouldn't care, if it means he could save Dean. His heart only beats for one cause, he only breathes for one reason. He didn't quite understand love as a concept for the millions of years he lived as an angel, he understood it the first second when he turned human and when his lips were pressed on Dean Winchester's.
+And now, *now* it changes everything. Everything physical becomes weaker in this mortal body, and everything mental becomes stronger. Last night, as his lung started burning under the water, when the fresh new human instinct kicked in, his own head screaming and struggling, trying to pull him out of the water to save his own life, it was his own heart that was beating like a dying sparrow's heart that decided, *No*, his own life didn't quite matter, he'd use it to save this other human, he'd use it all for Dean. He could die and he wasn't afraid, he could be killed, choked, drown, burned, stabbed, crashed by any other celestial beings like Metatron as easily as crushing an insect, and he wouldn't care, if it means he could save Dean. His heart only beats for one cause, he only breathes for one reason. He didn't quite understand love as a concept for the millions of years he lived as an angel, he understood it the first second when he turned human and when his lips were pressed on Dean Winchester's.
 
 And in the very same second, he understood pain. The pain and bitterness and insufferable brokenness he was feeling when Dean looked at him with fury and disappointment in his eyes, when he raised his voice and yelled at him, querying about what he had done. Cas understood, then, love wasn't just a thought, a feeling, an emotion, it was physical, it was real, it happened to his entire body and his heart and his whole existence, instead of just his mind, his brain, his head. He learned then, and he learns deeper now, that love, the real meaning and the most fundamental thing about love, is pain.
 
@@ -2505,19 +2535,19 @@ He crumbles down the bed, holding his wounded stomach, wrapping himself with a n
 
 Cas doesn't even know what are the words for those feelings in his chest, that tightness, that brokenness, that breathlessness. Humans invented so many words in the thousands of years and put them into literacy and poems, but how would he know which ones were the exact same ones that his heart was feeling? How would he even begin to understand, what he's feeling? It's so confusing and overwhelming, but he doesn't even have time to pause and think. They still have a world to save, and some bad guys to fight. He's most worried about Sam's condition and what Metatron is going to do with his grace, which means he probably should stop lingering and start moving.
 
-Cas packs his duffel bag, trying his best to keep the motel room neat and organized. He makes his bed, and pauses by Dean's nearly unslept-in bed for a second, staring at the middle of the cover that sinks slightly and holds the shape of a grown man laying on top. He remembers last night too well, and he remembers Dean's sleeping face and the snore too well. Cas sighs. He'll remember every second of that, if that becomes the last time he's allowed to watch Dean sleep. He straightens the slightly rumpled cover on Dean's bed.
+Cas pauses for a second to think what he should pack, and very quickly realizes the only duffel bag in the room belongs to Dean. He didn't arrive with one and he'd never thought he'd need one. Cas decides he'll figure this out later, and just puts a roll of clean bandage in his pocket. He starts cleaning up the room, trying his best to keep the motel room neat and organized, thinking Dean might be more pleased to see a clean new room when he comes back than a messy one with the sign of his existence everywhere. He makes his bed, and pauses by Dean's nearly unslept-in bed for a second, staring at the middle of the cover that sinks slightly and holds the shape of a grown man laying on top. He remembers last night too well, and he remembers Dean's sleeping face and the snore too well. Cas sighs. He'll remember every second of that, if that becomes the last time he's allowed to watch Dean sleep. He straightens the slightly rumpled cover on Dean's bed.
 
-Dean pushes the door in when Cas is trying to bring the band of the duffel bag onto his shoulder, but the bag is a little too heavy for his worn-out body.
+Dean pushes the door in when Cas is buttoning his trench coat -- it's also something he's never done before, but his worn-out body still feels a little too cold, and he finds out wrapping the coat around the body or simply buttoning it helps.
 
 Dean's hand freezes on the door handle when he sees what he's doing. Dean stares at him with widened eyes. "Where are you going?" he blunts out so quickly the words are almost all muffled together.
 
-The fear and hurt swirl in his eyes, threatening to condense and fall.
+Fear and hurt swirls in Dean's eyes, threatening to condense and fall.
 
 Cas swallows. "Thought I'll just go," he says simply.
 
 "Where? Why?" Dean's voice is hoarse. He moves into the room slowly, turning on the light. Cas sees he's holding two paper cups of coffee in a cup carrier, with a large bag of breakfast.
 
-Cas's hand hesitates around the duffel bag's band, tangling and fidgeting the band now, not trying to lift it up again.
+Cas's hand hesitates around the next button he's supposed to work on, tangling and fidgeting it now, not trying to button it again.
 
 "I don't know." Cas admits. "Somewhere I can help with something."
 
@@ -2571,7 +2601,7 @@ Dean ducks his head, flustering. "Uh, no. Just us."
 
 Cas glances back and forth between the table with the exaggeratingly abundant breakfast and Dean's slightly flushed cheek. He takes another bite on the pancake that's in front of him (with overflowing maple and honey that Dean insisted to add on top, and there are strawberries). Dean watches him chewing slowly and swallows. And Cas smiles wholeheartedly. "I like them, Dean. I like all of them. I've never known food taste like that, there are so many flavors and layers! This is the best breakfast and the best meal in my life!"
 
-Dean smiles back, stealing a bite from the table too, eating satisfactorily. "Don't say it too early. We might have something else in plan to change that. You never tried my homecooked burgers -- even Sam loves it -- and I can do all kinds of Mexican spread, taquitos, queso, churros, and of course, all the pies you can eat. That is, before we juice your angel ass back to the top league. But you'll see, being human isn't all too bad."
+Dean smiles back, stealing a bite from the table too, eating satisfactorily. "Don't say it too early. We might have something else in plan to change that. You've never tried my homecooked burgers -- even Sam loves it -- and I can do all kinds of Mexican spread, taquitos, queso, churros, and of course, all the pies you can eat. That is, before we juice your angel ass up back into the top league. But you'll see, being human isn't all too bad."
 
 Cas's smile dims down. He nods briefly, and after another few bites, he says he's full.
 
@@ -2591,7 +2621,7 @@ So they change the plan and head back to the bunker, but even that is still anot
 
 As they drive into Oklahoma, about half-way back home, Cas starts that frowning again, the one that looks like he's receiving angel radio signals.
 
-Dean glances at him. "You are still tuning in angel radios?" he asks.
+Dean glances at him. "You are still tuning in the angel radio?" he asks.
 
 Cas presses both his temples, frowning with shut eyes. "Not from angels. Prophets," he says difficultly.
 
@@ -2613,7 +2643,7 @@ Cas frowns. "No, I was serious."
 
 "No, no, look," Dean points at the sign that just flied by and now reflecting in the rear mirror. The sign says, "Winchester, OK, 5 miles."
 
-"Is it just me or it looks like destiny now?" Dean actually grins. "Some big guy up there is trying to put a big thumb up on our way, telling us, 'Hey, Winchesters, you're doing ok, whatever you're looking for, five miles this way.'"
+"Is it just me or it looks like destiny now?" Dean actually grins. "Some big guy up there is trying to put a big thumb up on our way, telling us, 'Hey, Winchesters, you're actually doing ok, whatever you're looking for, five miles this way.'"
 
 Cas chuckles quietly with him. "And you're going to listen to the destiny this time?" he asks softly. "Last I remembered, you weren't doing so good with the destiny sisters."
 
@@ -2631,21 +2661,21 @@ They drive past all the small roads in the town, passing the farm houses, trying
 
 "What should we do now? That thumb-up sign for the Winchesters from the higher power might be wrong," Cas asks plainly.
 
-Dean considers. "Or, maybe it's just the wrong direction. We thought it must be the town following the road that this divine thing is pointing us to, what if it's off road, like five miles east into the raw land, to a different town, maybe? You still have the bat signal radius sense, right?" Cas nods. Dean continues, more cheerfully, more hopefully, "Might as well check out the other neighboring towns then. It shouldn't take more than an hour or two. We can stay in the Winchester town for the night for luck, what do you say?"
+Dean considers. "Or, maybe it's just the wrong direction. We thought it must be the town following the road, right? Because it's road sign, but what if it's actually off road, like five miles east into the raw land, to a different town, maybe? You still have the bat signal radius sense on?" Cas nods. Dean continues, more cheerfully, more hopefully, "Might as well check out the other neighboring towns then. It shouldn't take more than an hour or two. We can stay in the Winchester town for the night for luck, what do you say?"
 
 "I'm not a Winchester," Cas murmurs, "so I won't get the luck. But yes, it sounds like a good plan."
 
-"You're definitely a Winchester by now," Dean says firmly, steering off road to the east.
+"You're definitely a Winchester by now," Dean says firmly, steering off the road toward the east.
 
 Fifteen minutes later, they're in front of a two-level family house that stands out in the town, looking slightly more polished and modern than anything else in the whole town.
 
-"That's not suspicious at now." Dean squints at the house. "What does your spider sense say? It's this one? Shall we check it out?"
+"That's not suspicious at all." Dean squints at the house. "What does your spider sense say? It's this one? Shall we check it out?"
 
 "I can only feel the resonation is very strong. We are very close to the prophet now, but I don't know exactly how close," Cas answers seriously.
 
 Dean parks on the opposite side of the street to the house. They move to knock on the door.
 
-Dean is so overjoyed when the man introduces himself as Donatello that he's practically trying to hug the man.
+Dean is so overjoyed when the aging man with glasses introduces himself as Donatello that he's practically trying to hug the man.
 
 "Okay, I don't always get people so happy to see me, you lads might as well come inside and tell me what's that for." Donatello leads them into the modern living room and offering them tea and coffee.
 
@@ -2663,7 +2693,7 @@ Donatello simply shakes his head.
 
 "Not any more." Dean tilts his head in Cas's direction, who is sitting right on his side. Dean unconsciously brushes his knees against Cas's. "He's an angel, by the way. Wings and halos and harps."
 
-Cas glances at him briefly. "Was," he corrects. "I *was* an angel. And I don't have a harp. But I could have shown you my wings and halo if I were. But not anymore."
+Cas casts a glance at him briefly. "Was," he corrects. "I *was* an angel. And I didn't have a harp. But I could have shown you my wings and halo when I were. But not anymore."
 
 Donatello looks back and forth between them, and throws himself into the most soft and comfortable armchair in the room, drinking tea in gulps. "I'll need a minute to digest," he says with a pant.
 
@@ -2701,11 +2731,17 @@ Dean hums quietly with the music on their way back.
 
 <br>
 
+**Words after the chapter:**
+
+Just like last chapter, the locations in this chapter also feels so unsettlingly, startlingly destined. Donatello's canon location, Lewis, Oklahoma really is right in the middle on their way from Houston to Lebanon, and fifteen minutes away from the town named Winchester. And considering Oklahoma's short form is "OK", it's a pure coincident and just perfect to think they'll see a sign on their way north that reads "Winchester, OK, xxx miles." I bet a hundred that Dean would crack a joke about it and feels it's fate just like I'm feeling when I first found this on the map. Everything just all fits so well and so destined together that it's making me doubt the reality a little bit. Just a little bit.
+
+<br>
+
 ### Act 3
 
 They roll back into the small town of Lebanon little past midnight.
 
-The town is peaceful and quiet, with only the sounds of insects chirping in the long wild grasses by the road. There is no moon on the sky, another dark new moon night, but the stars are bright.
+The town is peaceful and quiet, with only the sounds of insects chirping in the long wild grasses on either sides of the road. There is no moon on the sky, just another dark new moon night, but the stars are bright.
 
 Sam is waiting for them in the war room, with a blanket over his back. He looks paler than before they left. But he says it's just the light. Sam stands up and reaches out a hand to the new prophet. "I'm Sam," he says, stifling a cough half-sentence.
 
@@ -2713,7 +2749,7 @@ The older man studies his face through his glasses. "Your brother and angel frie
 
 "And you should be in bed by now," Dean nudges Sam, then turning to the rest of the group. "We all should. At least I know I'm exhausted. You can take the guest room, Donatello, Room 15."
 
-Cas opens his mouth, but no words come out. Room 15 used to be his room, even before he really needed a room. And now he knows, it's a guest room -- not his, just allowing him to stay briefly -- and that he doesn't have that room anymore now with the new gust staying. He stares at the floor, thinking, wondering, if it's another one of those non-spoken human social rules that he should pick on, that Dean's probably hinting something about his leaving, when he hears his name.
+Cas opens his mouth, but no words come out. Room 15 used to be his room, even before he really needed a room. And now he knows, it's a guest room -- not his, just allowing him to stay briefly -- and that he doesn't have that room anymore now with the new guest staying. He stares at the floor, thinking, wondering, if it's another one of those non-spoken human social rules that he should pick on, that Dean's probably hinting something about his leaving, when he hears his name.
 
 "Cas, you can take one of the other empty bedrooms, like the Room 13 is a nice one. Or if you don't like the number, Room 9 is also close, whichever you like," Dean says casually. "What do you think?"
 
@@ -2721,7 +2757,7 @@ Cas opens his mouth, but no words come out. Room 15 used to be his room, even be
 
 Dean blushes. "Everything, library, kitchen, bathroom, or other people, you know, if you can't find something you can just knock at my door. Or something. I'm at 11."
 
-Cas's lips curves a small degree. "It sounds great, Dean. Thank you."
+Cas's lips curves up a small degree. "It sounds great, Dean. Thank you."
 
 They call it a night.
 
@@ -2741,7 +2777,7 @@ And he dreams it in his dream. He dreams all of them in his dreams. His memories
 
 He sees himself standing in the barn, watching the angel barging in, with the messy trench coat and most ruffled sex hair, and he sees himself grabs the angel's coat and kisses him right there, right after he knows his name, not afraid of being smite to death. And the tip of Cas's lips tilts up ever so slightly, forming the smallest and the very first smile he's ever seen on the angel.
 
-He sees himself by the sink in Bobby's place, the angel telling him about Lucifer and seals for the first time, and he sees himself intimidated but excited. Cas's face is so close to him, three inches, at most, maybe two. Just one shiver, just one impulse, he'd be kissing the angel right then, on the second day of their official encounter. He just lifts his head one tiny degree, and he'll reach those lips. He has thought about this so many times.
+He sees himself by the sink in Bobby's place, the angel telling him about Lucifer and seals for the first time, and he sees himself intimidated but excited, scared but bold. Cas's face is so close to him, three inches, at most, maybe two. Just one shiver, just one impulse, he'd be kissing the angel right then, on the second day of their official encounter. He just lifts his head one tiny degree, and he'll reach those lips. He has thought about this so many times.
 
 Then on the park's bench, then in the motel in front of the mirror, then in the back alley just right before he is going to be beaten up bloody, or right before Cas is going to die for him for the first time (and certainly not the last).
 
@@ -2751,7 +2787,7 @@ Cas is an angel. He thinks, amazed again. As if it's the first time he realizes 
 
 "Cas..." Dean sighs in his dream, unconsciously putting his hand before his mouth. His lips kiss the soft concave spot between his thumb and index finger, and his dream mind pictures them into the angel's most perfect lips. Surprisingly, the image does fit with the sensation just perfectly.
 
-Dean sinks deeper into the dreams, happier than he ever remembers he's been, sadder than he ever remember he's been.
+Dean sinks deeper into the dreams, happier than he ever remembers he's been, sadder than he ever remembers he's been.
 
 <br>
 
@@ -2763,19 +2799,19 @@ Sam goes to pick up all the print-outs he has of Kevin's notes and carries them 
 
 Dean doesn't think he can bear watching it again, but he forces himself to sit right next to Donatello and Cas, watching a past Kevin yelling from the other side of the screen, telling them desperately, "I'm dead. I'm dead, you bastards!"
 
-The screen freezes at the last frame as Kevin murmurs nonstopingly, "I'm sorry."
+The screen freezes at the last frame as Kevin murmurs nonstoppingly, "I'm sorry."
 
 Dean presses a fist before his mouth, gritting his teeth. Fury bubbles in his chest, he wants to swipe something off the table again, like this laptop, for example, just so that prickling impulse of beating something or killing someone could ease. *I'm sorry.* His mind tells the Kevin in the frame, miserable, and quietly hating himself. It's another death in his name, another nightmare that's going to haunt him for the rest of his life. *Is everyone in their life having to end up bloody and dead? Is Cas?* He glances at Cas, and realizes Cas is watching him too. Dean looks away. His fists are trembling from the force he's putting into his muscle to keep them away from damaging anything or shattering anything.
 
-Cas's eyes trace down onto Dean's hands. His hand reaches in Dean's direction for an inch, then pauses, then moves back, sitting back on his laps under the table. Dean's fists are mere inches away. But they do not touch.
+Cas's eyes trace down onto Dean's hands. His hand reaches in Dean's direction for an inch, then pauses, then moves back, sitting back on his laps under the table. Dean's fists are merely inches away. But they do not touch.
 
-Donatello takes off his glass, wipes it with the corner of his shirt, and puts it back on. "The kid said he knows it's his job," he pauses briefly, his tone surprisingly calm. "I take it it's my job now. Then why don't we get on with it? Where are the tablets?"
+Donatello takes off his glasses, wipes it with the corner of his shirt, and puts it back on. "The kid said he knows it's his job," he pauses briefly, his tone surprisingly calm. "I take it it's my job now. Then why don't we get on with it? Where are the tablets?"
 
 "The King of Hell took them," Cas answers, "one and a half of them, at least. We don't know if he has found the last half."
 
 Sam slides the prints in front of him. "This is all we got."
 
-The prints have some photos of half the demon tablet Kevin once had, and a large amount of Kevin's handwritten notes. Donatello looks at the pages with worried eyes. "That doesn't look good," he says, picking the first photo up, moving it closer to his eyes and then moving it farther, like a sighted man trying to find the best distance to read when he forgets to bring his glasses. He frowns at it for a long time, fingers pointing at the very corner symbol, then a long moment later, the one next to it. At this speed, they'll probably need years to get these things translated.
+The prints have some photos of half the demon tablet Kevin once had, and a large amount of Kevin's handwritten notes. Donatello looks at the pages with worried eyes. "That doesn't look good," he says, picking the first photo up, moving it closer to his eyes and then moving it farther, like a sighted man trying to find the best distance to read when he forgets to bring his glasses. He frowns at it for a long time, fingers pointing at the symbol at the very corner, then a long moment later, the one next to it. At this speed, they'll probably need years to get these things translated.
 
 Dean, Cas, and Sam watch him with held breath, glancing at each other.
 
@@ -2839,7 +2875,7 @@ Dean almost reaches the end of that corridor when Sam stops him.
 
 "What?" Dean raises his eyebrows, confused.
 
-"You didn't look Cas in the eyes at all the whole morning, and last night too, since you guys came back, and he wasn't even sure if you would *let him* go to a damn grocery run with you. Did you see his kicked puppy eyes? He's *afraid* of you, for Christ's sake! You two are good?" Sam frowns deeply.
+"You didn't look Cas in the eyes at all the whole morning, and last night too, since you guys came back, and he wasn't even sure if you would *let him* go to a damn grocery run with you. Did you see his kicked puppy eyes? He's *scared* of you, for Christ's sake! You two are good?" Sam frowns deeply.
 
 Dean shrugs, casually taking half a step away from Sam. "Yeah, why wouldn't we be?"
 
@@ -2869,7 +2905,7 @@ Dean sighs, finally resigned. "He's a human now, and it's all my fault." He star
 
 Sam widens his eyes, raising his voice. "Jesus Christ! When were you going to tell me, something this big?! Cas, too?! All these time last night he texted me about Donatello, and just neglected to tell me this?! I can't believe you two!"
 
-"Don't yell at him," Dean says, bordering on pleading. He glances at the way they came from where Cas was, eyes deeply troubled and pained. "Like I said, it's all my fault. It's all messed up."
+"Don't yell at him," Dean says, bordering on pleading. He glances at the way they came from, at where Cas was, eyes deeply troubled and pained. "Like I said, it's all my fault. It's all messed up."
 
 Sam rubs his forehead, taking a deep breath. "What happened? What are you going to do?"
 
@@ -2915,7 +2951,7 @@ Cas squints at him. "I..." he has many reasons why this is a bad idea: they're o
 
 It's not difficult at all, Cas soon finds out, and it is indeed fun to learn driving, with Dean's hand over his on the driving wheel. The Impala follows their command and flies forward, early summer wind blowing through the open window, and Dean *whistles* with joy. It's almost like flying.
 
-For a moment, Cas glances at Dean's side profile and those grinning lips, and he finds himself mesmerized. *Dean's so beautiful*, he finds himself thinking. And for that moment, he completely forgets about the road and the car. And the promise he made to Dean that he'd try to stop that sensation in his chest that made his heart beat with ache. *This is his Heaven.* He thinks. Right now, his heart is swelling and lightening, and he starts smiling for real, too.
+For a moment, Cas glances at Dean's side profile and those grinning lips, and he finds himself mesmerized. *Dean is so beautiful*, he finds himself thinking. And for that moment, he completely forgets about the road and the car. And the promise he made to Dean that he'd try to stop that sensation in his chest that made his heart beat with ache. *This is his Heaven.* He thinks. Right now, his heart is swelling and lightening, and he starts smiling for real, too.
 
 "The road, Cas! Eyes on the road!" Dean snaps, grabbing the wheel and swerving the car back on track, as the Impala takes a sharp shake, nearly flinging into the trench off road.
 
@@ -2925,7 +2961,7 @@ Cas's fingers automatically clench on the wheel, and Dean's hand tightly over hi
 
 They haven't even driven for more than ten minutes. Lebanon really is just a small town with only one small grocery shop.
 
-"Thought we'd grab something from here first." Dean explains, as he walks Cas through how to reverse park and why it's better this way (easier to get out and run away when they need to, situation they often find themselves into). "To get that full fifty-bucket chicken wings shop list crossed out, we'd probably have to drive all the way to one of those bigger cities around us, Omaha, or Denver, or Kansas City. That's about three to four hours drive, I'll take it over if you're okay with it -- wouldn't want your first time driving to be long-distance highway driving."
+"Thought we'd grab something from here first." Dean explains, as he walks Cas through how to reverse park and why it's better this way (easier to get out and run away when they need to, which is a situation they often find themselves into). "To get that full fifty-bucket chicken wings shop list crossed out, we'd probably have to drive all the way to one of those bigger cities around us, Omaha, or Denver, or Kansas City. That's about three to four hours drive, I'll take it over if you're okay with it -- wouldn't want your first time driving to be long-distance highway driving."
 
 Cas just finished parking the car perfectly in the center of a parking spot, turning off the ignition. "Yes, I'm quite okay with it, Dean," he answers with a nod.
 
@@ -2955,15 +2991,15 @@ Dean rushes to him, hissing, "What are you doing?"
 
 Cas puts the carton (with now eleven eggs) into his shopping basket. "I tried to make sure those eggs are healthy and nutritive. I just found out that there is no life in them as they're not fertilized. I'm a little unsure if you'd prefer to consume them as a single large reproductive cell or a developing chicken embryo," he says thoughtfully, then turns to Dean. "Do you often eat the ovum as they're unfertilized?"
 
-Dean stares at him unbelievably, trying so hard not to burst into laugh that the effort is cracking him up inside out. "One, don't ever talk about eggs like that; and two, let's get you out of here before you get into trouble with the virgin there." He nods at the young boy cashier with a convincingly charming smile and closes the fridge door behind Cas, and the fridge alarm finally shuts off.
+Dean stares at him unbelievably, trying so hard not to burst into laugh that the effort is cracking him up inside out. "One, don't ever talk about eggs like that; and two, let's get you out of here before you get into trouble with the virgin there." He nods at the young boy cashier with a convincingly charming smile and closes the fridge door behind Cas. The fridge alarm finally shuts off.
 
 "Why? You're not supposed to use the word 'ovum'? But that's just the Latin word for eggs." Cas looks at him, curious and confused, but he follows Dean nonetheless, moving away from the fridge.
 
 Dean can't help letting a bark of laughter out. "Just, don't. Trust me on that."
 
-Cas hums quietly, unconvinced but drops the topic. He turns around to examine if there's anything else they might need. As he bends down before the rack of snacks with the kind of beef jerkies and peanut butter cups that Dean usually would pick, he bumps into the rack right behind him unconsciously. It would certainly fall over if it's not for Dean to grab and straightens it just on time.
+Cas hums quietly, unconvinced but drops the topic. He turns around to examine if there's anything else they might need. As he bends down before the rack of snacks with varieties of beef jerkies and peanut butter cups that Dean usually would pick, he bumps into the rack right behind him unconsciously. It would certainly fall over if it's not for Dean to grab and straightens it just on time.
 
-"Cas, Cas -- watch behind you. And around you!" Dean wraps an arm around Cas's back, steering him into a bigger clearing space. "You're like one of those large creatures coming to a tiny house for the first time, bumping everything everywhere." His effort on stifling chuckles fails utterly.
+"Cas, Cas -- watch behind you. And around you!" Dean wraps an arm around Cas's back, steering him into a bigger clearing space. "You're like one of those large animals coming to a tiny house for the first time, bumping everything everywhere." His effort on stifling chuckles fails utterly.
 
 "In a way, it does feel like that," Cas answers quietly, not smiling now.
 
@@ -2973,13 +3009,15 @@ Cas hums quietly, unconvinced but drops the topic. He turns around to examine if
 
 "Sorry," he murmurs, feeling sick and the word pale.
 
-"Would you like some porn to read?" asks Cas right then, pointing at the magazines Dean noticed briefly before, breaking the mood. The cover model looks quite attractive -- in a way that a paper figure could be, but never comparable to a real being -- *the* real being ignorantly standing next to him.
+"Would you like some porn to read?" asks Cas right then, pointing at the magazines Dean noticed briefly before, breaking the mood easily. The cover model looks quite attractive -- in a way that a paper figure could be, but never comparable to a real being -- *the* real being ignorantly standing next to him.
 
 Dean's pulled out of that depressing mood in less than one second. "Not really," he answers, trapped in the bemused superposition state of wanting to laugh and cry at the same time. *How did Cas do that?*
 
 "How about some pie?" Cas asks again.
 
-"Yeah, pie sounds great." Dean answers automatically without looking up, rubbing the corners of his eyes roughly -- and thankfully they're dry. Even if there is, it'd be from laughing too hard, he reasons with himself. He still blinks a little too many times.
+"Yeah, pie sounds great." Dean answers automatically without looking up, rubbing the corners of his eyes roughly -- and thankfully they're dry. Even if there was any tear, it'd be from laughing too hard, he reasons with himself. He still blinks a little too many times. *Yeah, some pie would be a nice distraction right about now.*
+
+But before he can reach the pie stand, he hears Cas's outrageous growl first.
 
 "Where's the pie?!" Cas leans on the counter, growling at the empty pie stand with divine fury, reaching out to grab the cashier boy on the collar.
 
@@ -3007,9 +3045,9 @@ The boy looks back and forth between them. "O... kay?"
 
 "Anyway, we'll be on our way. Have a good day," Dean says. And Cas is already packing their non-purchased purchases into plastic bags.
 
-They leave the shop with two bagful of food and daily supplies, laughing breathlessly as they put them in the trunk and slide back into the car.
+They leave the shop with two bagful of food and daily supplies, laughing breathlessly as they put them in the Impala trunk and slide back into the car.
 
-"This is probably the hardest I've laughed in a long time." Dean bends over the wheel and still just barely stops the laugh. The smile is still hanging on his face, and Cas is staring at him. Dean knows his cheeks are heating up quickly. "I should probably take you out for a grocery run more often. Especially when, you know, the world's not going down the toilet."
+"This is probably the hardest I've laughed in a long time." Dean bends over the wheel and still just barely stops the laugh. The smile is still hanging on his face when he looks up, and Cas is staring at him. Dean knows his cheeks are heating up quickly. "I should probably take you out for a grocery run more often. Especially when, you know, the world's not going down the toilet."
 
 "I would like that," Cas nods and agrees. He's also smiling.
 
@@ -3017,7 +3055,7 @@ They leave the shop with two bagful of food and daily supplies, laughing breathl
 
 Dean stares at him harder, bursting into a second wave of laughter. "This is so you, Cas. God, I miss this."
 
-The sun is bright outside today.
+The sun is bright outside today. The sunlight shines onto their faces, dying their figures a celestial gold.
 
 <br>
 
@@ -3045,25 +3083,25 @@ Crowley starts the searching hands-on by himself.
 
 Metatron glares at the bowl before him, chanting the spell again. It should work, it really should. But it's not working.
 
-The dazzling white space of Heaven around them is still blissfully quiet and undisturbed. Not one single door within sight gets closed by the spell. Not one angel gets moved.
+The dazzling white space of Heaven around him is still blissfully quiet and undisturbed. Not one single door within sight gets closed by the spell. Not one angel gets moved.
 
-He waits for a little while longer. A distant door is closed, but that may just be some angel leave a conference room.
+He waits for a little while longer. A distant door is closed, but that may just be some angel leaving a conference room.
 
 "Come on, come on!" Metatron murmurs, a little frustrated, a lot annoyed.
 
 He's certain the ingredients are all fresh and good -- the heart of a Nephilim, the bow of a Cupid, and the grace of Castiel. The first two are unmistaken, and the third one should also be filling the spell's requirement. Unless...
 
-Metatron considers the possibility. For the spell to work, the third ingredient has to be from the grace of an angel in love with a human. If, for whatever reason, at the time of collecting the grace or at the time of casting the spell, the angel's love is no longer sustaining, then it is *possible* that this may be the cause of failure.
+Metatron considers the possibility. For the spell to work, the third ingredient has to be from the grace of an angel who is in love with a human. If, for whatever reason, at the time of collecting the grace or at the time of casting the spell, the angel's love is no longer sustaining, then it is *possible* that this may be the cause of failure.
 
 So the question is, *is it possible that such love has ceased?*
 
-Metatron glances at the few *Supernatural* books he carried with him to Heaven (Just so he can get something to kill time and entertain himself once this works, like he recognized, a guilty pleasure), and decides the answer is no.
+Metatron glances at the few *Supernatural* books he carried with him to Heaven (Just so he can get something to kill time and entertain himself with once this works, like he recognized, a guilty pleasure), and decides the answer is no. *No, it is just simply impossible that those two suddenly for whatever reason stopped loving each other, like humans can't just stop heart beating or breathing.*
 
 He doesn't read a hundred books with those morons whining at each other to draw the wrong conclusion.
 
-Then if the ingredients are all good, it could only be the spell, then.
+Then if the ingredients are all good, the problem could only be the incantation, then.
 
-Metatron scratches his head. As much as he believes his memory is as good as millions of years ago, it does, after all, have been millions of years. Nothing stays sharp with time, not even angel's memory.
+Metatron scratches his head. As much as he believes his memory is as good as millions of years ago, it does, after all, have been millions of years. Nothing stays sharp with time, not even an angel's memory.
 
 So he concludes, it is more likely he misremembers the spell (like maybe he mispronounced a syllable) than the idiot nerdy angel stops loving the flannel-shirt-wearing hunter.
 
@@ -3169,6 +3207,10 @@ In the next two agonizingly long hours, Dean stays by Cas's side. Consciously, o
 
 The tablets would serve as a physical container of the Words' power in the material plane. Just like Yin and Yang, Heaven and Hell, light and darkness, tablets also have their attributes. And more specifically, the angel tablet and demon tablet are exactly the matching pieces. Whoever have both of them could unleash unimaginable amount of power, that's why they should always be kept separately, and making sure no angel should own the angel tablet, and no demon should own the demon tablet, to ensure the balance of the universe.
 
+> Add Naomi:
+>
+> Naomi confronts M, knows his spell/plan; goes to TFW, warn them not to let M get Angel Tablet or let C get Demon Tablet, she just wants to protect Heaven from both of them, tell them M's spell; TFW doesn't believe her, but come up with the plan that does exactly opposite (give M AT and give C DT); Naomi goes back to fight M, got killed by M
+
 > Donatello reads Kevin's notes, find out tablets can change and strengthen their arrogance, explains Crowley's change of behavior, betting on it will do the same to Metatron (but why Cas is different, cuz Cas never look for power, he flies away only cuz he wants to keep Dean safe, so this is what's amplified) And two tablets together can unleash huge wave of power, only if angel has angel tablet and demon has demon tablet (balance)
 >
 > they know Metatron is looking for angel tablet, they need to lure Metatron to Crowley, but also need to make sure they're equal, so they'll need to find the demon tablet for Crowley and make sure Metatron has the angel tablet, for them to fight
@@ -3200,6 +3242,8 @@ The tablets would serve as a physical container of the Words' power in the mater
 > They have to kiss each other deep enough, trying to convince each other they don't have to prove anything, they don't need to seek forgiveness from the other because they're both forgiven, they're both worthy as they are, whatever they are like. But both still not quite convinced yet for their own part, those self-loathing self-devaluing thought goes deep, they just have to keep affirming to each other, it's still a long way to go for both of them psychologically. They're both unfamiliar with and still can't quite believe unconditional love. But receiving love helps healing. Hopeful happy ending.
 >
 > (Another small angsty twist plot in the middle of the kissing scene, they half-joke: "It really doesn't help the trauma memory that our first kiss was a curse" Dean worries it might make them hesitate when they want to kiss again, but both are actually fine. Cas: "We just have to make more memories")
+>
+> (Add a small cuddle or hint of a cuddle)
 
 The demons are way too eager to leave the throne room than they usually are. They disappear in black smokes, and the room vibrates with the change of energy shifting, the windows trembling, threatening to shatter.
 
@@ -3241,9 +3285,7 @@ Donatello's knowledge about tablet comes from Kevin's auto email and attached de
 
 
 
-**Words after the chapter:**
 
-Just like last chapter, the locations in this chapter also feels so unsettlingly, startlingly destined. Donatello's canon location, Lewis, Oklahoma really is right in the middle on their way from Houston to Lebanon, and fifteen minutes away from the town named Winchester. And considering Oklahoma's short form is "OK", it's a pure coincident and just perfect to think they'll see a sign on their way north that reads "Winchester, OK, xxx miles." I bet a hundred that Dean would crack a joke about it and feels it's fate just like I'm feeling when I first found this on the map. Everything just all fits so well and so destined together that it's making me doubt the reality a little bit. Just a little bit.
 
 ###### [TBC]
 
