@@ -139,6 +139,8 @@ pedal → gas pedal
     <summary>Example for collapsibles: use this format for posting chap 1</summary>
     <p>Real content for collapsibles: posting chap 1 acts as collapsibles</p>
 </details>
+Rewrite everything after and include Chap 5-7
+
 # Draft
 
 ## Chap 1 The Book
@@ -3457,14 +3459,124 @@ Donatello buries his face in his palms and groans loudly. Dean pats his shoulder
 
 ### Act 8
 
+So, step one, find the other half of the demon tablet.
+
+Dean claps his hands, "I'm all ears, where do we start looking?"
+
+"Why are you looking at me?" Sam raises his eyebrows.
+
+"You were always closer to him, you know nerd-to-nerd? Common language? Maybe same way how the brain is made?" Dean muses.
+
+Sam huffs. "I didn't live in his head, Dean! How am I supposed to know where he'd bury a tablet?"
+
+"I might have some idea," Cas says quietly, the brothers both turn to him promptly. "Do you remember when Kevin first became the prophet, he found the demon tablet just by instinct, driving all the way from Michigan to my hospital, without even know what he was looking for? Just the thought that it was his job to protect and read the tablet?"
+
+Dean and Sam nod slowly. It's been a long year, but that's indeed where the mystery of tablet and prophet comes from -- when Dean knocked the first tablet out of Earth, and Kevin got hit by some lightening.
+
+"Human compass to the tablet," Sam nods in agreement.
+
+They turn to Donatello, who, just opens a fresh new bucket of check wings to start devouring.
+
+"Do you have anywhere you really want to go?" Dean tries.
+
+"Told you I've always wanted to go to Missouri, I don't even know why, just feel it's like a calling." Donatello says thoughfully.
+
+"What about besides Missouri?" Dean asks.
+
+"Wait, Dean! Maybe that's exactly Missouri! Garth's boat is parked in Missouri! Kevin was gone from Missouri!" Sam stands up quickly -- but also too quickly that his vision turns dark for three seconds, his body swinging hard again, reminding everyone of the urgency of the tasks.
+
+"Which is why I thought Kevin would *not* hide it in Missouri! It would have been too easy for the demons to find. The fact that Crowley still didn't find the other half proves it must be somewhere less easy to find." Dean reasons.
+
+"Or maybe the demons are just not very good at finding things?" Cas suggests.
+
+Dean hums softly. "Alright, let's go to Missouri then," he decides.
+
+"Wow, you really are in love," Sam exclaims. "I've never seem you fold so quickly, it usually takes a whole lot to change your mind for anything. But I guess Cas is an exception now."
+
+Dean rolls his eyes. "Shut up, Sam. It's only because Cas's right."
+
+"Yeah, you keep telling yourself that." Sam grins.
+
+"I do believe I'm right," Cas states flatly.
+
+"Can we go now?" Donatello asks a little impatiently. "A world to save, remember? Lover boys and angels?"
+
+Dean blushes hard.
+
+<br>
+
+Almost out of muscle memory, Dean drives directly from bunker to Warsaw, Missouri, exactly where Garth's boat parked. The boat is still vaguely maintaining its exterior shape, but everything else around the area is almost unrecognizable. Every land that was covered by grass was dug up to six inches of soil, the trees were sliced open leaving no unexamined crevice. The deserted buildings and factories, Dean can only wonder if they were deserted before the black-eyes intruded or others.
+
+"Demons," he murmurs, stating the facts.
+
+The air in the whole area smells like Sulfur.
+
+"I guess no tablet anywhere near this now," Sam notes, "unless Kevin has ground the tablet to powder and sprayed it everywhere. Hey Cas, do you know if prophets can still fix a tablet that's ground to powder?"
+
+"Powders, probably; if it gets even smaller, atoms, scattered all over the universe, then no." Cas answers state-of-factly. "This is exactly what Anna threatened to do to your vessel when we were fighting against the Apocalypse."
+
+"What?! How?! How come I never know?" Sam is startled, so is Dean.
+
+"You never told us about that!" Dean tenses.
+
+"That was not of import." Cas glances at them, calmly. "She wouldn't actually do that. But theoretically it might be feasible, she suggested, Lucifer would bring you back alive even if she kills you, but if she scatters your cells across the universe, then Lucifer would never find you, not all of you. That was right before she time-travelled to the past --"
+
+"And you were too busy passing out, yeah I remember now." Dean grimaces, half-turning to the backseat to pat his brother on the knees. "Alright, point taken. Now where are we, Donatello, you want to tell me where your instinct tell you to go?"
+
+Donatello closes his eyes for a second, as if focusing on the incoming signal in his head. "Go ahead and follow the highway to the north, we have a few miles to go, but it's getting closer."
+
+Twenty minutes later, Donatello tells him to exit the highway.
+
+"We might need to go back a few miles, but I'm sure it's really close now," at one barren land, Donatello decides.
+
+Dean glances around. The only decent building in the visible distance is a hotpot restaurant. Its giant commercial board sticking out of the woods, showing a red-tailed dragon with words "Satan" on its head and pepper and fire shooting out of its mouth.
+
+"Huh," Dean says, glancing at the commercial board. The land under it is nothing but soft easy-to-dig soil.
+
+"Alright, let's start digging. Sam, Donatello, yell if you see any demon." Dean takes out two shovels from the trunk and throws one at Cas. "Cas and I will do the treasure-hunting."
+
+The "treasure-hunting" ends with a colliding sound when one of the shovels -- both of them insisted it's the other found it first -- hits the stone. The half demon tablet makes a dull sound and the ground shakes.
+
+Dean and Cas almost fall into the hole of their own digging, only managing to stand straight by holding each other's arms. Light comes from above, Dean finds himself trapped in between Cas's arms in the tiny small vertical hole, staring into a dusty, soily Cas, who stares back at him with just the same intensity. The ground rocks around them, loose soil and dust falls onto their head, threatening to bury them underneath. For a split second, Dean is reminded for the first few minutes after he came back from Hell, when he woke up in his coffin and had to dig through the loose soil to get topside. But at least, now he's not alone, and the thought comforts him, as if feeling reassured that even after death, even buried under ground, he can hold on to Cas.
+
+He pulls Cas closer, pretending it's just because the ground shaking too violently and this is the only distance he can stand still. Cas just stands there, dropping his shovels, meeting his eyes, glancing between Dean's eyes and lips, hesitating, waiting. Dean feels his courage draining away as quickly as high school boys when his lips leaning closer. The voice that sounds extremely like himself yells at him from the back of his head about those kisses, what happened last time they kissed, what that cost Cas. The memory gives Dean a sudden shiver like he was under the water again and Cas's warm breath ghosting on his skin as if it's the heated sensation that took away his power again. Dean closes his eyes, turning his head a small degree, simply leaning his temple against Cas's.
+
+"I got you," he murmurs at Cas's ears.
+
+"Dean, it's not even an earthquake. Just some tablet power's effect on the ground, refusing to be moved." Cas says reasonably, "We should get the tablet out and leave, now."
+
+"Yeah, right." Dean rubs the back of his neck, letting Cas go. Right then, another small wave of shake comes, he almost stumbles, reflexively reaching out a hand to find the wall of this vertical hole, only to find Cas's hand meeting his in the mid-air, holding him steady.
+
+"I got you," Cas says gently, parroting his own words.
+
+"Are you the copycat romantics?" Dean amuses.
+
+"Is it a bad thing?" Cas blinks, trying to pull away.
+
+"Not at all." Dean stifles a laugh, chuckling quietly.
+
+<br>
+
+They get the half tablet back to the surface. Donatello examines the patterns and words. The others surround him, watching him closely.
+
+Donatello pushes his glasses up his nose. And then three seconds later he pushes it again. And then again.
+
+They can all recognize the older man's habit of gestures by now.
+
+"Slow read." Dean notes.
+
+"Impossibly slow." Donatello gives up, pressing his glasses one more time. "I don't think it's possible to decipher anything before handing it over."
+
+"Who are you planning on handing it over to? I wonder?" A familiar snarky voice says.
+
 
 
 <br>
 
 ### draft notes
 
-> they know Metatron is looking for angel tablet, they need to lure Metatron to Crowley, but also need to make sure they're equal, so they'll need to find the demon tablet for Crowley and make sure Metatron has the angel tablet, for them to fight
->
+TBA: voice is Crowley, run into Crowley, make deal
+
 > TFW go to Warsaw, Donatello resonates demon tablet, they find the other half, run into Crowley
 >
 > TFW make deal with Crowley, exchange half demon tablet with angel tablet, Crowley force them to put Donatello to the deal too, they refuse, Donatello agrees, offering to put the two halves together for him
