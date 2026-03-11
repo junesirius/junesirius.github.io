@@ -3203,7 +3203,7 @@ In the next two agonizingly long hours, Dean stays by Cas's side, just idly wait
 
 ### Act 7
 
-Metatron watches the location spell to narrow down from Earth to the northern half of the sphere, to the north America, to near the center area of the north America, but just as he watches with hope and excitement to see the location circle burning the world map down, shrinking down to about two states' area, the spell vaporizes. The rest of the map cringes in the heat of the fire -- which was supposed to be extinguished when the spell finished -- and burns to the ash in the blink of an eye.
+Metatron watches the location spell to narrow down from Earth to the northern half of the sphere, to the north America, to near the center area of the north America, but just as he watches with hope and excitement to see the location circle burning the world map down, shrinking down to about two states' area around Kansas and Missouri, the spell vaporizes. The rest of the map cringes in the heat of the fire -- which was supposed to be extinguished when the spell finished -- and burns to the ash in the blink of an eye.
 
 Metatron curses under his breath. He almost finds Castiel. How's it possible a human just simply disappear from the searching spell like that? It can't possibly be somehow Castiel become an angel again all of a sudden, is it?
 
@@ -3211,7 +3211,7 @@ Metatron curses under his breath. He almost finds Castiel. How's it possible a h
 
 "I could ask you the same question," a female's voice sounds up behind him.
 
-It's those high heel sound again, walking closer to him.
+It's those high heel sound again, moving down the hallway, walking closer to him.
 
 Metatron looks skyward, without turning back. "Naomi," he recognizes.
 
@@ -3221,17 +3221,17 @@ Putting on a smiling face, he turns back slowly, hiding his hand behind his back
 
 But Metatron merely eyes her hand, not taking it. "I've heard of you," he says cautiously. "Your reputation proceeds you."
 
-"I was just doing my job, making sure Heaven is in order, as you and all the angels should," Naomi answers coldly.
+"I was just doing my job, making sure Heaven is in order, as you and all the angels should," Naomi answers neutrally.
 
 Metatron gives a little shrug. "How do you know I'm not?"
 
-Naomi's eyes study his face for a second, glancing behind him, taking in the remnant of the tools and ingredients for spells. "What do you want with Castiel?" she asks, "You were searching for him when I came in."
+Naomi's eyes study his face for a second, glancing behind him, taking in the remnant of the tools and ingredients for spells. "What do you want with Castiel?" she asks. "You were searching for him when I came in."
 
-Metatron pauses for a long second, his hands twitching behind his back, twisting and turning the blade in his hand out of sight. He answers finally, "Last I heard, you were looking for the angel tablet, and he went away with it. Thought I could give you a hand here."
+Metatron pauses for a long second, his hands twitching behind his back, twisting and turning the blade in his hand out of sight. He answers finally, "Last I heard, you were looking for the angel tablet, and he went away with it. I thought I could give you a hand here."
 
 "You were trying to locate the angel tablet by finding Castiel?" Naomi repeats prudently. "Why?"
 
-Metatron shrugs again carelessly. "Do you know that on Earth, it's usually a rule that it's the writer's right to own the book they wrote? Yeah, something like that, I was just really in a reading mood now."
+Metatron shrugs again carelessly. "Do you know that on Earth, it's usually a rule that it's the writer's right to own the book they wrote? Yeah, something like that, I was just really in a reading mood now, wanting to check some of my old books."
 
 Naomi narrows her eyes dangerously, takes a step closer to him. "And then you should know it is my duty to protect the tablet from you. No angel or demon should have this. Tell, me, exactly why you want it, or I'll just dig out all the information from that head of yours."
 
@@ -3241,7 +3241,7 @@ Metatron pretends to think for a second. "I think I'll take my chance," he says,
 
 "What a waste of manpower," Metatron glances around them, fake sighing. "Shouldn't you guys be fighting Crowley right now? Surely I'm not the only one who sees I'm not the bad guys here, when there's a demon trying to kill all our prophets and overpower Heaven and all angels? Those ash letters, that kind of provoke! Come on, how can you bear it?! Unless, of course, you already know without tablet, you can't win, so you need me. I'm your best hope to save all of you from Crowley right now."
 
-The surrounding angels change looks, glancing at Naomi uncertainly.
+The surrounding angels change uneasy looks, glancing at Naomi uncertainly. Metatron grins small, it seems he guessed it right, those message from Crowley did get through to Heaven.
 
 The look on Naomi's face wavers, but after a moment of silent debate, the suspicion and distrust dominates again. "We haven't seen you or heard from you for centuries. How do we know you're not lying? Maybe you were working with Crowley all this time! How else would he know how to find the angel tablet?"
 
@@ -3255,11 +3255,11 @@ Naomi watches him closely. "I thought you'd already know."
 
 Metatron bleaches, but he switches back to the smiley face quickly. "Well, all the more reason to have me as your savior. I know exactly how to save Heaven, how to protect all of us, all I need is the angel tablet. One quick refresh of memory, and I can seal Heaven up."
 
-Naomi gasps loudly. "No!" She takes out her angel blade and strides toward Metatron. "That's not saving, that's cursing all of us to fall!"
+Naomi gasps loudly. "No!" She takes out her angel blade and strides toward Metatron. "That's not saving, that's cursing all of us to falling!"
 
 "Oops, did I just say that out loud?" Metatron wrinkles his nose, leaning farther back on the desk. "I mean, what's safer than that for Heaven, don't you think?"
 
-All the surrounding angels stride toward Metatron at the same time, the circle shrinking.
+All the surrounding angels stride toward Metatron at the same time on Naomi's command, the circle shrinking.
 
 "I will not let that happen!" Naomi raises her voice.
 
@@ -3271,7 +3271,7 @@ Naomi turns to her heels. "NO!" And she flies away too.
 
 <br>
 
-"What did you find?" Dean and Cas rush into the library the minute they're back in the bunker, both of their hands and shoulders are full of shopping bags. The strong fragrance of chicken wings cover at least two thirds of them.
+"What did you find?" Dean and Cas rush into the library the minute they're back in the bunker, both of their hands and shoulders are submerged by shopping bags. The strong fragrance of chicken wings follow them around as they move.
 
 Donatello sniffs the air in great satisfaction. "Now we're talking." He spreads a new page of notebook in front of him, grabbing a dozen other photos of Kevin's notes to scatter around it, pointing at the unreadable symbols on them now and then.
 
@@ -3279,7 +3279,7 @@ Donatello sniffs the air in great satisfaction. "Now we're talking." He spreads 
 
 Sam, Dean, and Cas all stare at him with a synchronous nod.
 
-"Okay, so, this is actually mostly my predecessor's work. Kevin has most of the symbols translated, I just figured this, this, and this part," Donatello points out the patterns he noticed, "the shapes look similar, and smaller than others, so I cross-compare the translation together, and it turns out they're actually talking about the same thing -- the tablet itself. For once, it's not a record of the Word, but something written onto the tablet, about the tablet, to enable it to host the Words."
+"Okay, so, this is actually mostly my predecessor's work. Kevin has most of these symbols translated, I just figured this, this, and this part," Donatello points out the patterns he noticed, "the shapes look similar, and smaller than others, so I cross-compared the translation together, and it turns out they're actually talking about the same thing -- the tablet itself. For once, it's not a record of the Words, but something written onto the tablet, about the tablet, to enable it to host the Words."
 
 "What do you mean, 'enable'? Aren't they always, I don't know, just some rocks that have writings on?" Sam asks.
 
@@ -3287,15 +3287,15 @@ Donatello shakes his head. Dean speaks before him: "They're like vessels."
 
 Sam frowns at him. "What?"
 
-"Vessels," Dean says again, tilting his head toward the angel next to him, "Cas told me. You weren't here for the lecture last time. They're like the Words' vessels, so like, ultra strong and has some pure powers, we just didn't know what they could do. And more importantly, what would Crowley possibly do about it."
+"Vessels," Dean says again, tilting his head toward the angel next to him, "Cas told me. You weren't here for the lecture last time. They're apparently like the Words' vessels, so like, super strong and has some pure powers, we just didn't know what they could do. And more importantly, what would Crowley possibly do about it."
 
-Donatello glares at him. "I'm just about to talk about that."
+Donatello flashes him a slightly annoyed look for being interrupted. "I'm just about to talk about that."
 
 "Sorry," Dean murmurs quickly.
 
-"You're not wrong," Donatello pushes his glasses again, pointing to the notes. "The tablets serve as a physical container of the Words' power in the material plane. And just like Yin and Yang, Heaven and Hell, light and darkness, tablets also have their attributes. And more specifically, from my understanding, I think the angel tablet and the demon tablet are exactly the matching pieces, working as an amplifier for whoever touches it."
+"You're not wrong," Donatello pushes his glasses again, pointing out the notes. "The tablets serve as a physical container of the Words' power in the material plane. And just like Yin and Yang, Heaven and Hell, light and darkness, tablets also have their attributes. And more specifically, from my understanding, I think the angel tablet and the demon tablet are exactly the matching pieces, working as an amplifier for whoever touches it."
 
-"What kind of amplifier are we talking about?" Dean chips in. "Super power?"
+"What kind of amplifier are we talking about?" Dean can't help chipping in again. "Super power?"
 
 "More like personality kind, if I'm not mistaken. Something like, if you have some amount of arrogance in you, it turns into super ego." Donatello explains.
 
@@ -3305,45 +3305,45 @@ Dean meets Cas's eyes, and they say at the same time: "Crowley."
 
 "Told you I think Crowley isn't himself. He used to be a douche, but now a super douche." Dean nods. "So I was right."
 
-"Who still wants a war against Heaven and us. How does that help us?" Cas asks.
+"-- who still wants a war against Heaven and us. How does that help us?" Cas raises an important question.
 
-"Wait, then why didn't it change you? You touched the angel tablet too." Dean turns to Cas.
+"Wait, then why didn't it change you? You touched the angel tablet too." Dean turns to Cas, distracted by the memory.
 
-Sam tries to give Dean a glare that means "*Really?*" over the others' head.
+Sam tries to give Dean a glare that means *"Really?"* over the others' heads.
 
 Dean swallows quickly and shifts his eyes. "No offence. I'm not complaining why you didn't turn into... you know, evil. Just, curious, why didn't it affect you the way it did to Crowley."
 
-"None taken, Dean," Cas answers easily, considering. "I wonder the same, since I am aware my arrogance was not negligible and has caused us many harm. For that, I am forever sorry."
+"None taken, Dean," Cas answers easily, considering. "I wonder the same, since I am well aware my arrogance was not negligible and has caused us much harm. For that, I am forever sorry."
 
-"Because you never seek power like the demon king did," Donatello speaks. "From what I heard, you never *wanted* any power or anything for yourself, and the tablet recognized that. You left them because you wanted to stay sane and keep them safe, and that's what gets amplified."
+"Because you never seek power like the demon king did," Donatello speaks. "From what I heard, you never *wanted* any power or anything for yourself, and the tablet recognized that. It encouraged you to leave Heaven and leave them, because you wanted to stay sane and keep everyone safe, and that's what gets amplified."
 
-"So it's never your fault," Dean pats Cas's shoulder in a comforting motion. "So don't worry about it. And don't forget all the good things you did --"
+"So it's never your fault," Dean pats Cas's shoulder in a comforting motion. "So don't worry about it. And don't forget all the good things you did, they cancel out the bad --"
 
-Another idea strikes Dean, "Do they cancel out?" He asks Donatello.
+Another idea strikes Dean in the middle of his sentence. "Do they cancel out?" He asks Donatello.
 
 "I'm not following," the older man frowns.
 
-"The angel and demon tablet. You said they're like Yin and Yang, light and darkness. When you put them together, do they like, nullified each other?" Dean's eyes are bright with hope. "'Cause, you know, *that* would help us a lot when handling Crowley."
+"The angel and demon tablet. You said they're like Yin and Yang, light and darkness, or whatever. When you put them together, do they like, nullify each other?" Dean's eyes are bright with hope. "'Cause, you know, *that* would help us a lot when handling Crowley."
 
-"I... I don't know about that." Donatello touches the back of his neck. "I didn't find anything about that."
+"I... I don't know about that." Donatello touches the back of his neck uneasily. "I didn't find anything about that."
 
-"I think since we only got half the demon tablet, it sorta makes sense it doesn't write about its reaction with angel tablet." Sam thinks aloud.
+"Don't feel too bad. Since we only got half the demon tablet, it sort of makes sense it doesn't have all the information, or its potential reaction with the angel tablet." Sam thinks aloud.
 
-"In fact, they would unleash an unimaginable amount of power if the two tablets ever contact in their complete form. That is why they should always be guarded separately, to ensure the balance of the universe." A new voice speaks steadily, startling all of them, alongside a puff of wing sound.
+"In fact, they would unleash an unimaginable amount of power if the two tablets ever contact in their complete forms. That is why they should always be guarded separately, to ensure the balance of the universe." A new voice speaks steadily behind them, startling all of them, accompanied by a puff of wing sound.
 
-All of them turn sharply toward the voice. Cas is the first to pull his angel blade.
+All of them turn sharply toward the source of the voice. Cas is the first to pull his angel blade out.
 
-Naomi stays ten feet away from them, having both her hands raised up in a peace gesture. She says desperately, "I'm not here to fight. Please, you need to trust me."
+Naomi stays ten feet away from them, having both her hands raised up in a peace-offering gesture. She says desperately, "I'm not here to fight. Please, you need to trust me."
 
-Dean moves closer to Cas, pulling out his angel blade as well. "Trust you? Lady, that ship has sailed when you tried to control Cas!"
+Dean moves closer to Cas, standing shoulder to shoulder, pulling out his angel blade as well. "Trust you? Lady, that ship has sailed when you tried to control Cas!"
 
 "Why are you here?" Cas grits his teeth.
 
 "And how did you find us?" Sam asks sharply, "We're warded."
 
-Naomi nods at Donatello who stands behind the rest three. "Not the new prophet. You should be more careful."
+Naomi nods at Donatello who stands behind the three of them. "Not the new prophet. You should be more careful."
 
-"And you shouldn't be here," Dean says coldly.
+"And you shouldn't be here," Dean says coldly, taking a step forward.
 
 Naomi gives him a look, and then lowers her eyes. "I need your help."
 
@@ -3351,29 +3351,29 @@ Naomi gives him a look, and then lowers her eyes. "I need your help."
 
 "It can be a trick!" Cas snaps. "She's lying. She's always lying!"
 
-"I'm not lying!" Naomi raises her voice, and when she looks up again, there's glints of tears in her eyes. "I was just trying to do the best for Heaven, and right now, I can't do it alone, not with Crowley and Metatron out there, endangering Heaven. I beg your help, to do everything you can to stop Crowley from getting the rest of the demon tablet, and stop Metatron from getting the angel tablet, at all cost."
+"I'm not lying!" Naomi raises her voice, and when she looks up again, there're glints of tears in her eyes. "I was just trying to do the best for Heaven, and right now, I can't do it alone, not with Crowley and Metatron out there, endangering Heaven in both directions. I beg your help, to do everything you can to stop Crowley from getting the remaining of the demon tablet, and stop Metatron from getting the angel tablet, at all cost."
 
-"Why?" Dean narrows his eyes. "Don't tell me you suddenly found a consciousness."
+"Why?" Dean narrows his eyes. "Don't tell me you suddenly found a conscience."
 
-The glinting tear in her eyes shines brighter, "Because both of them want to destroy Heaven. If Crowley wins, everywhere will be living Hell."
+The glinting tear in her eyes shines brighter. It's very difficult to think it's not a genuine, sincere plead. "Because both of them want to destroy Heaven. If Crowley wins, everywhere will be living Hell."
 
-"And if Metatron wins?" Cas asks.
+"And if Metatron wins?" Cas asks coldly.
 
 "All angels get cast out of Heaven." Naomi's lips tremble.
 
 "To where? Hell?" Dean asks.
 
-"Here. Earth." Naomi tells them, devastated. "He's banishing angels out. I heard him speak out the truth, he's trying to seal the Heaven, to protect himself from Crowley! But he's doing it by casting the sealing spell. Don't you see? The three ingredients that he collected recently, the heart of a Nephilim, the bow of a Cupid, and the grace of an angel who's in love with human, those are for the sealing spell. Castiel, you *have to* stop it from happening!"
+"Here. Earth." Naomi tells them, devastated. "He's banishing angels out of Heaven. I heard him speak out the truth, I have a whole garrison of angels as witness. He's trying to seal the Heaven, to protect himself from Crowley! But he's doing it by casting the sealing spell. Don't you see? The three ingredients that he collected recently, the heart of a Nephilim, the bow of a Cupid, and the grace of an angel who's in love with human, those are for the sealing spell. Castiel, you *have to* stop it from happening!"
 
-"It's too late," Dean murmurs, with sudden realization and sunken heart. "He already got all of these. The Heartless in California and the Handless in Houston. And he got Cas's grace, because of me."
+"It's too late," Dean murmurs, with sudden realization and a sunken heart. "He already got all of these. The Heartless in California and the Handless in Houston. And he got Cas's grace, because of me."
 
-"It's not," Naomi says, voice quiet. Her eyes stay on Dean for a moment longer, then boring in Cas's. "If the doner of the grace stops loving the human, then that ingredient wouldn't work, his spell will also fail. Castiel, you have to understand, this is bigger than you or Dean, it's the entire Heaven and *all* the angels. You failed all of us once when you started murdering angels as our God, please, don't make the wrong choice again."
+"It's not too late," Naomi says, voice solemn. Her eyes stay on Dean for a moment longer, then boring in Cas's. "If the owner of the grace stops loving the human, then that ingredient wouldn't work, his spell will fail. Castiel, you have to understand, this is bigger than you or Dean, it's the entire Heaven and *all* the angels. You failed us once when you started murdering angels as our God, please, don't make the wrong choice again."
 
 Naomi flies away after that.
 
-Cas stands there, still, dumbfounded. So do Sam and Dean.
+Cas stands there, still, dumbfounded for a long moment, staring at the empty air that Naomi occupied a moment ago. So do Sam and Dean.
 
-"Cas?" Dean whispers, breaking the deadly silence in the room. "It's your choice." He can't feel his breath and he winces at the aching sensation in his chest, but he's still forcing those words out. Those are the right words to say.
+"Cas?" Dean whispers, breaking the deadly silence in the room. "This is your choice." He can't feel his breath and he winces at the aching sensation in his chest as he speaks, but he's still forcing those words out. Those are the right words to say. The choice is Cas's.
 
 Cas's eyes meet his, more pained and entangled than ever. "Naomi was lying," he says, barely audible.
 
@@ -3387,17 +3387,17 @@ Dean and Sam change a look.
 
 "Yes, you can --" Dean tries to start.
 
-"Because I didn't *choose* it, Dean!" Cas snaps, opening his eyes, glaring into this unbelievable human's amber green eyes. "I didn't *choose* to love you! Don't you understand? This is who I am! This is all of me! I'm sorry, I know you asked me to stop loving you, and I said I would try, but the truth is, I couldn't. I just... couldn't. I'm sorry."
+"Because I didn't *choose* it, Dean!" Cas yells, opening his eyes, glaring into this unbelievable human's amber green eyes. "I didn't *choose* to love you! Don't you understand? I just do! This is who I am! This is all of me! I'm sorry, I know you asked me to stop loving you, and I know I said I would try, but the truth is, I couldn't. I just... couldn't. I'm sorry."
 
 Dean gapes his mouth and eyes in a total shock, no words coming out.
 
-"Oh. My. God." Sam says slowly, totally flabbergasted. "Jesus. Is this even real? You two are idiots."
+"Oh. My. God." Sam says slowly, totally flabbergasted. "Jesus. Is this really happening? Dean, did you seriously ask Cas to 'stop loving you'? You're the biggest moron in the universe! I can't believe we're even related!"
 
-"Shut up, Sam." Dean snaps, grabbing Cas on the shoulder in such a hurry and mess that he nearly bumps everyone over, but Dean doesn't care, he just has to hold the angel, hugging him so tight he can feel their body pressed on the chest, and those heartbeat behind the ribs are beating against his. "Cas, oh Cas, come here --" he closes his eyes, losing all the ability to speak.
+"Shut up, Sam," Dean snaps, grabbing Cas on the shoulder in such a hurry and mess that he nearly bumps everyone over, but Dean doesn't care, he just has to hold the angel. He grabs Cas and hugs him so tight that he can feel their bodies pressed on the chest, and Cas's heart behind the ribs is beating against his. "Cas, oh Cas, come here --" he closes his eyes, losing all the ability to speak.
 
 Cas's hands wraps around Dean's back slowly. His body was still stiff and frozen at the arrival of Naomi, and now melting slowly under Dean's touch. He leans his cheek against Dean's head, leaning into the warmth of the hug.
 
-"Should we... leave you two alone?" Sam says unsurely, after a while. "Or are we still discussing about how to save the world?"
+"Should we... maybe leave you two alone?" Sam says unsurely, after a while. "Or are we still discussing about how to save the world?"
 
 Dean unwillingly loosens his arms, still holding Cas's hands, watching his face with wide unbelievable eyes.
 
@@ -3405,21 +3405,21 @@ Dean unwillingly loosens his arms, still holding Cas's hands, watching his face 
 
 "We'll figure this out, you told me that, remember?" Dean says with a half-smile.
 
-"Just to make you feel better," Cas lowers his head. "I'm sorry I didn't actually have a plan."
+"To make you feel better," Cas lowers his head. "I'm sorry I didn't actually have a plan."
 
-"I might," Donatello says suddenly, raising his hand like a good student in the classroom. All eyes stare at him, he clears his throat. "That unfriendly lady actually gave us all the information we needed, and a perfect plan: she said never to let Metatron get the angel tablet and Crowley get the demon tablet, and I say --"
+"I might," Donatello says suddenly, raising his hand like a good student in the classroom. All eyes turn to him, and he clears his throat. "That unfriendly lady actually gave us all the information we needed, and a perfect plan: she said never to let Metatron get the angel tablet and not let Crowley get the demon tablet, and I say --"
 
 "We do the opposite!" Sam chimes in quickly, following his thought, "We gave them exactly what they want!"
 
 "And help them destroy the world faster?" Cas asks in confusion.
 
-Dean chuckles. "And let the tablets do the rest. Didn't Naomi also just tell us, when the angel tablet touches the demon tablet, they would unleash an unimaginative amount of power? Who want to bet this is enough power to wipe them off the board?"
+Dean chuckles. "And let the tablets do the rest. Didn't Naomi also just tell us, when the two tablets touch, they would *'unleash an unimaginable amount of power'*? Who want to bet this is enough power to wipe them off the board?"
 
 "But she also said both tablets need to be 'complete and intact'. Didn't we already know the demon tablet is broken in two halves, so that would never happen?" Donatello asks.
 
-"That's not a problem. Prophets can fix the tablets, making them whole again," Cas tells him.
+"That's not a problem. Prophets can fix the tablets, making them whole again, just by touching it." Cas tells him.
 
-"I saw Kevin did it once, I can prove it really works, fixed like new," Sam adds. "Except the only thing is, you'll have to physically be there, touch the tablet yourself."
+"I saw Kevin did it once. I can prove it really works, fixed like new," Sam adds. "Except the only thing is, you'll have to physically be there, touch the tablet yourself."
 
 "Which means you'll probably be in close proximity to Crowley when this happens," Dean lowers his voice.
 
@@ -3427,7 +3427,7 @@ Dean chuckles. "And let the tablets do the rest. Didn't Naomi also just tell us,
 
 "What rule is that?" Sam gets lost slightly.
 
-"The prophet job description," Dean explains for him. "Donatello only agreed to take the job if he doesn't have to go on full-on combat with angels and demons, and apparently, we lied to him. Not knowingly."
+"The prophet job description," Dean explains for him. "Donatello only agreed to take the job if he doesn't have to go into full-on combat with angels and demons, and apparently, we lied to him. Not knowingly. Sorry."
 
 Donatello shrugs with a light hint of a laugh. "It's not like I got any salary anyway."
 
@@ -3435,17 +3435,17 @@ Donatello shrugs with a light hint of a laugh. "It's not like I got any salary a
 
 "Guys, don't forget we still need to *find* the other half demon tablet first," Sam reminds them, as if just in case they got too excited and carried away.
 
-"Alright, here's the plan," Dean bends his fingers while he speaks, by each step, he bends one more fingers:
+"Alright, here's the plan," Dean starts finger-counting while he speaks. By each step, he bends one more finger:
 
 "Step one, we find the other demon tablet;
 
 "Step two, we hand it over to Crowley but hold on making it whole again;
 
-"Step three, we somehow let Metatron gets the angel tablet from Crowley;
+"Step three, we somehow let Metatron get the angel tablet from Crowley;
 
 "Step four, Donatello makes the demon tablet whole again;
 
-"Step five, we make sure the Metatron and Crowley can just get together and make their tablet touch, and K-Boom! We hope the tablets can blow both of them up!"
+"Step five, we make sure Metatron and Crowley can just get together and make their tablet touch, and K-Boom! Hopefully, the tablets can blow both of them up!"
 
 "And Step six, we figure out a way to finish off Naomi too," Sam reminds him.
 
@@ -3453,45 +3453,45 @@ Donatello shrugs with a light hint of a laugh. "It's not like I got any salary a
 
 Donatello buries his face in his palms and groans loudly. Dean pats his shoulder.
 
-"What can possibly go wrong?" Sam says joyfully.
+"What could possibly go wrong?" Sam says force-joyfully.
 
 <br>
 
 ### Act 8
 
-So, step one, find the other half of the demon tablet.
+So, step one, find the other half of the demon tablet. The half hidden by Kevin.
 
-Dean claps his hands, "I'm all ears, where do we start looking?"
+Dean claps his hands, pointedly turning to Sam. "I'm all ears, where do we start looking?"
 
 "Why are you looking at me?" Sam raises his eyebrows.
 
-"You were always closer to him, you know nerd-to-nerd? Common language? Maybe same way how the brain is made?" Dean muses.
+"You were always closer to him, you know, fellow nerd-to-nerd? Common languages and things like that? Maybe, I don't know, you speak his language and know something we don't that can help us know how his brain wires, and figure out where to look," Dean muses.
 
 Sam huffs. "I didn't live in his head, Dean! How am I supposed to know where he'd bury a tablet?"
 
-"I might have some idea," Cas says quietly, the brothers both turn to him promptly. "Do you remember when Kevin first became the prophet, he found the demon tablet just by instinct, driving all the way from Michigan to my hospital, without even know what he was looking for? Just the thought that it was his job to protect and read the tablet?"
+"I might have some idea," Cas says quietly, the brothers both turn to him promptly. "Do you remember when Kevin first became the prophet, he found the demon tablet just by instinct, driving all the way from Michigan to the hospital I was in because you brought the tablet to my chamber, without even know what he was doing or what the tablet even was? Just the thought that it was his job to protect and read the tablet?"
 
-Dean and Sam nod slowly. It's been a long year, but that's indeed where the mystery of tablet and prophet comes from -- when Dean knocked the first tablet out of Earth, and Kevin got hit by some lightening.
+Dean and Sam nod slowly. It's been a long year, but that's indeed where the mystery of tablet and prophet comes from -- when Dean knocked the first tablet out of Earth, and Kevin got hit by some celestial lightning.
 
 "Human compass to the tablet," Sam nods in agreement.
 
-They turn to Donatello, who, just opens a fresh new bucket of check wings to start devouring.
+They turn to Donatello, who, just opens a fresh new bucket of chicken wings, ready to take a bite.
 
 "Do you have anywhere you really want to go?" Dean tries.
 
-"Told you I've always wanted to go to Missouri, I don't even know why, just feel it's like a calling." Donatello says thoughfully.
+"Told you I've always wanted to go to Missouri, I don't even know why, just feel it's like a calling," Donatello says thoughtfully.
 
-"What about besides Missouri?" Dean asks.
+"It can't possibly be so easy, right? Probably just a childhood dream vacation place or something?" Dean asks. "What about anywhere but Missouri?"
 
-"Wait, Dean! Maybe that's exactly Missouri! Garth's boat is parked in Missouri! Kevin was gone from Missouri!" Sam stands up quickly -- but also too quickly that his vision turns dark for three seconds, his body swinging hard again, reminding everyone of the urgency of the tasks.
+"Wait, Dean! Maybe that's exactly Missouri! Garth's boat is parked in Missouri! Kevin was last seen in Missouri!" Sam stands up quickly -- but also too quickly that his vision turns dark for three seconds, his body swinging hard again, reminding everyone of the urgency of the tasks. Sam leans against the table and Dean gives him a hand on the shoulder.
 
-"Which is why I thought Kevin would *not* hide it in Missouri! It would have been too easy for the demons to find. The fact that Crowley still didn't find the other half proves it must be somewhere less easy to find." Dean reasons.
+"Which is why I thought Kevin would *not* hide it in Missouri! It would have been too easy for the demons to find. The fact that Crowley still didn't find the other half proves it must be somewhere less obvious to find." Dean reasons. "And don't forget, the kid was a genius, college AP and future president and all. He gotta have a better idea than just anywhere nearby."
 
-"Or maybe the demons are just not very good at finding things?" Cas suggests.
+"Or maybe the demons are just not very good at finding things? And Kevin was in delirious fever when he left?" Cas suggests.
 
 Dean hums softly. "Alright, let's go to Missouri then," he decides.
 
-"Wow, you really are in love," Sam exclaims. "I've never seem you fold so quickly, it usually takes a whole lot to change your mind for anything. But I guess Cas is an exception now."
+"Wow, you really are in love," Sam gives an exclamation of surprise. "I've never seen you fold so quickly, it usually takes a whole lot to change your mind for anything. But I guess Cas is an exception now."
 
 Dean rolls his eyes. "Shut up, Sam. It's only because Cas's right."
 
@@ -3505,69 +3505,283 @@ Dean blushes hard.
 
 <br>
 
-Almost out of muscle memory, Dean drives directly from bunker to Warsaw, Missouri, exactly where Garth's boat parked. The boat is still vaguely maintaining its exterior shape, but everything else around the area is almost unrecognizable. Every land that was covered by grass was dug up to six inches of soil, the trees were sliced open leaving no unexamined crevice. The deserted buildings and factories, Dean can only wonder if they were deserted before the black-eyes intruded or others.
+Almost out of muscle memory, Dean drives directly from bunker to Warsaw, Missouri, exactly where Garth's boat parked. The boat is still vaguely maintaining its exterior shape, but everything else around the area is almost unrecognizable. Every land that was covered by grass was dug up to six inches of soil, the trees were sliced open leaving no unexamined crevice. For the deserted buildings and factories, Dean can only wish if they were already deserted before the black-eyes intruded, not after.
 
-"Demons," he murmurs, stating the facts.
+"Demons," he murmurs, stating the obvious.
 
-The air in the whole area smells like Sulfur.
+The air in the whole area smells Sulfur.
 
 "I guess no tablet anywhere near this now," Sam notes, "unless Kevin has ground the tablet to powder and sprayed it everywhere. Hey Cas, do you know if prophets can still fix a tablet that's ground to powder?"
 
-"Powders, probably; if it gets even smaller, atoms, scattered all over the universe, then no." Cas answers state-of-factly. "This is exactly what Anna threatened to do to your vessel when we were fighting against the Apocalypse."
+"Powders, probably; if it gets even smaller, atoms, scattered all over the universe, then no." Cas answers state-of-factly. "This is exactly what Anna threatened to do to your vessel when we were fighting against Lucifer during the Apocalypse."
 
 "What?! How?! How come I never know?" Sam is startled, so is Dean.
 
 "You never told us about that!" Dean tenses.
 
-"That was not of import." Cas glances at them, calmly. "She wouldn't actually do that. But theoretically it might be feasible, she suggested, Lucifer would bring you back alive even if she kills you, but if she scatters your cells across the universe, then Lucifer would never find you, not all of you. That was right before she time-travelled to the past --"
+"That was not of import." Cas answers, meeting their slightly frightened looks with his calm eyes. "She wouldn't actually do that. I believe it was a bluff. But theoretically it might be feasible, as she suggested, Lucifer would bring you back alive even if she kills you, but if she scatters your cells across the universe, then Lucifer would never find you, not all of you. That's how we can short-circuit his plan and four horsemen, and the Apocalypse. That was right before I told her it would never happen on my watch and she time-travelled to the past before you were born --"
 
-"And you were too busy passing out, yeah I remember now." Dean grimaces, half-turning to the backseat to pat his brother on the knees. "Alright, point taken. Now where are we, Donatello, you want to tell me where your instinct tell you to go?"
+"And then you were too busy passing out, yeah I remember now." Dean grimaces, half-turning to the backseat to pat his brother on his knees. "Alright, point taken. Now where are we, Donatello, you want to tell me where your gut tell you to go?"
 
-Donatello closes his eyes for a second, as if focusing on the incoming signal in his head. "Go ahead and follow the highway to the north, we have a few miles to go, but it's getting closer."
+Donatello closes his eyes for a second, as if focusing on some incoming signal in his head. "Go ahead and follow the highway to the north, we have a few miles to go, but it's getting closer."
 
 Twenty minutes later, Donatello tells him to exit the highway.
 
-"We might need to go back a few miles, but I'm sure it's really close now," at one barren land, Donatello decides.
+"We might need to go back a few miles, but I'm sure it's really close now," he says.
 
-Dean glances around. The only decent building in the visible distance is a hotpot restaurant. Its giant commercial board sticking out of the woods, showing a red-tailed dragon with words "Satan" on its head and pepper and fire shooting out of its mouth.
+At one barren land in the middle of nowhere, Donatello decides this is it.
 
-"Huh," Dean says, glancing at the commercial board. The land under it is nothing but soft easy-to-dig soil.
+Dean glances around. The only decent building in the visible distance is a hot pot restaurant. Its giant commercial board sticking out of the woods, showing a red-horn demon with the classic Satan look holding a glass of booze and firing pepper through its nose.
 
-"Alright, let's start digging. Sam, Donatello, yell if you see any demon." Dean takes out two shovels from the trunk and throws one at Cas. "Cas and I will do the treasure-hunting."
+"Huh, hiding demon tablet underneath the devil, who would have thought of that?" Dean huffs a laugh, glancing around the billboard. The land under it is nothing but soft soil that looks like easier to dig than graveyards. Some upturned soil shows fresh wet color, but it's hard to tell if it's recent.
 
-The "treasure-hunting" ends with a colliding sound when one of the shovels -- both of them insisted it's the other found it first -- hits the stone. The half demon tablet makes a dull sound and the ground shakes.
+"Alright, let's start digging. Sam, Donatello, keep watching and yell if you see any demon." Dean takes out two shovels from the trunk and throws one at Cas. "Cas and I will do the treasure-hunting."
 
-Dean and Cas almost fall into the hole of their own digging, only managing to stand straight by holding each other's arms. Light comes from above, Dean finds himself trapped in between Cas's arms in the tiny small vertical hole, staring into a dusty, soily Cas, who stares back at him with just the same intensity. The ground rocks around them, loose soil and dust falls onto their head, threatening to bury them underneath. For a split second, Dean is reminded for the first few minutes after he came back from Hell, when he woke up in his coffin and had to dig through the loose soil to get topside. But at least, now he's not alone, and the thought comforts him, as if feeling reassured that even after death, even buried under ground, he can hold on to Cas.
+The "treasure-hunting" ends with a colliding sound when one of the shovels -- both of them insisted it's the other found it first -- hits the stone. The half demon tablet makes a dull sound and the ground shakes, reminding Dean of the thunderstorm the night he cracked the tablet out of the clay.
 
-He pulls Cas closer, pretending it's just because the ground shaking too violently and this is the only distance he can stand still. Cas just stands there, dropping his shovels, meeting his eyes, glancing between Dean's eyes and lips, hesitating, waiting. Dean feels his courage draining away as quickly as high school boys when his lips leaning closer. The voice that sounds extremely like himself yells at him from the back of his head about those kisses, what happened last time they kissed, what that cost Cas. The memory gives Dean a sudden shiver like he was under the water again and Cas's warm breath ghosting on his skin as if it's the heated sensation that took away his power again. Dean closes his eyes, turning his head a small degree, simply leaning his temple against Cas's.
+Dean and Cas fall into the hole of their own digging, only managing to stand straight by holding each other's arms. Light comes from above, Dean finds himself trapped in between Cas's arms in the tiny small vertical hole, staring into a dusty Cas covered by soil and dust smudges, who stares back at him with just the same intensity as ever. The ground rocks around them again, loose soil and dust falls onto their heads, threatening to bury them underneath. Someone is yelling their names -- must be Sam or Donatello. For a split second, Dean is reminded of the first few minutes after he came back from Hell, when he woke up in his coffin and had to dig through the loose soil to get topside. But at least, now he's not alone, and the thought comforts him, as if feeling reassured that even buried under ground, even with the metaphor of death all around him, he's not worried the slightest as long as he can hold on to Cas.
+
+He pulls Cas closer, pretending it's just because the ground shaking too violently and this is the only way he can stand still. Cas just lets him. He stands there, dropping his shovel, meeting Dean's eyes, glancing between Dean's eyes and lips, hesitating, waiting. Dean feels his courage draining away as quickly as high school boys when his lips leaning closer. The voice that sounds extremely like himself but thousand times deeper and darker yells at him from the back of his head about those kisses, what happened last time they kissed, what that cost Cas. The memory gives Dean a sudden shiver like he was under the water again and Cas's warm breath ghosting on his skin as if it's the heated sensation that took away his power again. Dean closes his eyes, turning his head a small degree, simply leaning his temple against Cas's.
 
 "I got you," he murmurs at Cas's ears.
 
-"Dean, it's not even an earthquake. Just some tablet power's effect on the ground, refusing to be moved." Cas says reasonably, "We should get the tablet out and leave, now."
+"Dean, it's not even an earthquake. Just some tablet power's effect on the local ground, resisting to be moved," Cas says reasonably, "We should get the tablet out and leave, now."
 
-"Yeah, right." Dean rubs the back of his neck, letting Cas go. Right then, another small wave of shake comes, he almost stumbles, reflexively reaching out a hand to find the wall of this vertical hole, only to find Cas's hand meeting his in the mid-air, holding him steady.
+"Yeah, right." Dean rubs the back of his neck, letting Cas go. Right then, another small wave of shake comes, he stumbles, reflexively reaching out a hand to look for the wall of this vertical well for support, only to find Cas's hand meeting his in the mid-air, holding him steady.
 
 "I got you," Cas says gently, parroting his own words.
 
-"Are you the copycat romantics?" Dean amuses.
+"Are you a copycat romantist?" Dean amuses.
 
 "Is it a bad thing?" Cas blinks, trying to pull away.
 
 "Not at all." Dean stifles a laugh, chuckling quietly.
 
+"Just so you know, no rush up here! Take your time honeymooning down there," Sam peeps down from the edge, taunting them.
+
+"Bitch," Dean laughs, passing the half tablet out first, before helping Cas to get out and at last dragging himself up.
+
 <br>
 
-They get the half tablet back to the surface. Donatello examines the patterns and words. The others surround him, watching him closely.
+Donatello takes the tablet from Sam, and lends them a hand to get out of there.
 
-Donatello pushes his glasses up his nose. And then three seconds later he pushes it again. And then again.
+Dean and Cas barely have a chance to stand steady, when the smell of Sulfur suddenly thickens in the air.
 
-They can all recognize the older man's habit of gestures by now.
+"Well, well, look what you got. I believe you have something that belongs to me," Crowley claps his hands lazily, stepping closer, still in his fancy suits as ever.
 
-"Slow read." Dean notes.
+"Crowley," Dean grunts. "What a surprise."
 
-"Impossibly slow." Donatello gives up, pressing his glasses one more time. "I don't think it's possible to decipher anything before handing it over."
+"Why the long face, Squirrel?" Crowley smiles pretentiously. "Not happy to see me around?"
 
-"Who are you planning on handing it over to? I wonder?" A familiar snarky voice says.
+"On the contrary," Sam says, smiling back at him. "We were kinda hope you'd be here."
+
+Crowley blinks. "And why was that?"
+
+"We want to make a deal -- " Dean thumbs at half the demon tablet in Donatello's hands. "You want this? You can have it, but angel tablet comes to us."
+
+Crowley eyes the half tablet and swallows, before turning back to Dean. "You want to talk business? Sure, let's talk business. But don't take me a fool! I was born at night, but I wasn't born last night! Half a demon tablet for one angel tablet, even a five-year-old can see how unfair it is! Why would I ever want to do that?"
+
+"Just something tells me you really want this baby," Dean puts a wider smile on his face, tuning into a coaxing tone. "Just imagine, you get to be whole again. How do you like to feel complete and full? To feel you can finally hold onto something that belongs to you? It's not just power I'm talking about, it's who you really are. That's why it feels so good, isn't it? It's intoxicating."
+
+Sam gives him a funny look, and Cas just frowns with some confusion.
+
+Crowley stares at him like Dean suddenly grows a second head which is also a bird head.
+
+"Fine," the demon says after a moment, "Give me a break from the sales pitch, that's usually my job! How about this, I need you to sweeten the pot. The prophet and half the demon tablet for an angel tablet, that's maybe barely reaching my bar."
+
+"No!" Dean bites harshly. "The prophet is not part of any deal!"
+
+"Then no deal." Crowley smiles slily. "But think again, Dean. I have one and a half tablets, and you get practically nothing useful, I'm already doing you a favor by giving you that offer. One-time offer, take it."
+
+"The way I see it, you have some broken stones with funny writings you can't read, while we have a scholar with a book that has all sorts of knowledge. Now who's the upper hand now?" Dean retorts.
+
+Crowley corrects him, "Half a book, and you need maybe another year to crack them? Good luck reading it when I and the demons were already taking over Earth and Heaven."
+
+"Stop, both of you!" Donatello takes a step forward, holding half the tablet close. Dean and Crowley shut up at the same time.
+
+Donatello gives a quick glance to Dean, then swiping his look to Sam and Cas. "I'm the prophet, and this should be my decision to make. I say it's a good deal. We needed that angel tablet more than other things, more than me, I say we take it."
+
+"Donatello --" Cas starts.
+
+"You don't have to." Sam shakes his head.
+
+"That's exactly how we lost Kevin!" Dean grits his teeth under his breath. "I can't let that happen again! I'm not losing anyone now."
+
+"Stick to the plan. Don't worry, this will work, I have a good feeling this will work." Donatello smiles at them.
+
+"Stick to the plan, right." Sam nods. "Step two, check. Now remember, don't move on to Step four until we know Step three is secured. It's all on you now, the timing is critical. You can *only* fix the demon tablet *after* we know Metatron gets the angel tablet."
+
+Donatello gives them a quick nod, turning back to Crowley. "I'll take the deal, Mr. Crowley. Me and the demon tablet for the angel tablet."
+
+"Very well," Crowley grins, waving a hand at him. "Come over here then, we can sign the contract."
+
+Donatello casts one more quick glance behind him, and steps toward Crowley slowly.
+
+"Wait a second, I need to see the angel tablet first," Dean breaks the moment suddenly, raising his voice. "How do we even know you still have it?"
+
+"I have it!" Crowley rolls his eyes unbelievably. "But do you really think I'd be stupid enough to carry it with me when I'm hanging around? Especially when I'm so close to you?"
+
+"What, you don't trust me?" Dean mocks.
+
+Sam chuckles so loud that he has to put a hand before his mouth.
+
+"Seriously?" Crowley glares at him. "Tell me, among two of us, which one of us break the deals and cheat more often? Tell me a single time I didn't hold my end of the deal -- exception applies, things I can't control doesn't count. You can think of any?"
+
+Dean considers and makes a loud huffing sound. Surprisingly, Crowley's telling the truth. "Who would know, you're actually the honest one."
+
+"Like I said -- I'm a salesman, and this is Hell, not Wall Street." Crowley smiles back, "Now, can we please have the lovely prophet come over and complete the procedure?"
+
+"What do I have to do? A signature?" Donatello stops two steps short of reaching the demon.
+
+Crowley fumbles in his suit pocket, taking out the other half demon tablet and hand to Donatello. "Just hold it for me for a bit, will you?"
+
+Donatello hesitates, glancing back quickly once. "I... probably shouldn't," he eyes that half. The cracking lines fit perfectly with the one in his hands even just by a quick brain estimation.
+
+"Step three, we need it to happen, now!" Dean murmurs, staring at the event unfolding, watching it gradually -- rapidly -- getting out of control.
+
+"Crowley will make him fix the demon tablet in a minute," Sam says anxiously under his breath.
+
+"But we don't even know where the angel tablet is, or if Crowley still has it." Cas points out, worried.
+
+Before they can figure out what to do, Crowley has already lost his patience. Donatello is slowly trying to back away, but Crowley grabs his shoulder and shoves both halves of the tablets into his hands.
+
+"Just hold it! How hard can it be?" Crowley bellows at him. "It's not rocket science!"
+
+Donatello tries to move his hands away, but the merging is already starting. A thin thread of silver light flashes cross the crack, gluing the two halves together, and before anyone can blink, the light disappears and the demon tablet is whole again, as if the crack has never been there.
+
+"Oh hello there, is it just lovely?" Crowley amuses, staring at the complete demon tablet, fascinated.
+
+Donatello snaps out of it first, holding the whole tablet closely and turning around to run back toward them.
+
+Dean has his gun ready, starting to shoot at Crowley a second later.
+
+Crowley holds a palm up, and the gun flies out of Dean's hand. "Nice try," he says, with another fling of his fingers, Donatello stumbles on something, falling heavily onto the ground. The tablet tumbles out of his hands.
+
+"Donatello!" Dean yells, shifting to use angel blade again, dashing toward the older man.
+
+Sam and Cas follow right after, racing toward the prophet and the tablet.
+
+But Crowley gets there first. They watch with startle as Crowley's hand touches the demon tablet, a wave of silvery bright light ripples from the center, extending to the edge of the tablet, then radiating onto Crowley's hand and arms, then his eyes shine with the bright light for a second, and then the light dies down.
+
+"Now we're talking," Crowley says, stretching his neck and shoulder comfortably like that wave of energy just gave him the best massage ever. He turns back to them, smiling lazily. "Now where are we?" And Dean thinks he can just tell from the unsettling way he smiles, how it grows wilder, more aggressive, more predatory, that something is changed, like the demon is just a little too tipped off.
+
+"The amplifier," Dean hisses to Sam and Cas. "He hulked up."
+
+"What do we do now?" Sam hisses back.
+
+Dean desperately looks around them. His gun is thrown too far away to reach, he only gets an angel blade, Sam is unsteady on his foot, Donatello is lying face down on the grass, not moving, not knowing if he's still breathing, and Cas is edging toward him, tapping a finger on his neck to check the pulse. Four shaky human against one powered-up demon who happened to have two tablets, the odds of turning the tide is slipping down by each second. And Dean can't come up with a new plan quick enough now that they screwed their old one.
+
+Crowley stuffs the complete demon tablet back into his pocket, taking his time to straighten his suit and belt. Dean leaps toward him from his back without really thinking, Crowley turns back just in time to block his swing, knocking it off his hand, and grabs him by the neck with an air choke.
+
+Meeting Dean's furious eyes, Crowley smiles wide. "You know I can hear you, right? There is no secret plan behind my back, no anything. This is what's going to happen: I'm going to gather my army and march upwards, and you're going to watch me take control over Earth and Heaven. And then, just wait to see if I'm in a good mood, I'll decide if I'll let you live."
+
+"It's a big mistake, Crowley," Dean manages. The air choke isn't as immediately suffocating as drowning, but he's still getting breathless quickly. "You don't actually want to do this. It's not like you."
+
+"Don't speak like you know me!" Crowley growls at him, switching the air choke to the actual physical choke, his fingers tightening around Dean's neck. "You don't know anything!"
+
+"I know you're better than this." Dean tries, his fingers desperately clutch on Crowley's around his neck, his legs shaking and kicking. His vision is turning dark.
+
+"Do you know this is exactly how I killed Kevin?" Crowley sneers, holding Dean higher so his feet leave the ground. "Do you know he was still smiling and saying rubbish like how he could still win as he die? Do you know I actually thought I started liking him, but as I choke the life out of his body, I found out I enjoyed that more? I'm the King of Hell, Dean Winchester! And soon I will be the King of the World! Don't you pretend you know anything about me!"
+
+"I do." Cas speaks behind him, burying his angel blade on Crowley's back. "I know exactly how you must be feeling. That sense of power is blinding. Trust me, if we couldn't kill you, this power will kill you."
+
+Crowley turns slowly in surprise, dropping Dean to the ground. The angel blade has half its blade buried into his flesh and the other half stuck out.
+
+Dean and Cas watch in horror as the expected golden burning light doesn't show. Crowley merely twists his arm behind his back, pulling the blade out slowly, examining the hint of blood on the knife, and dropping it to the ground.
+
+"Like I said, the King of the World. You can't just kill me with an angel blade, because I'm not a demon anymore." Crowley pats his pocket where the tablet is. "Free upgrade, it's part of the package."
+
+"Please tell me it's not the God crap again," Dean moans gruffly, his pipes still labored from the choke. He scrambles hurriedly backward, pulling Cas back with him, putting some distance between them and the maddening demon. The God-Cas was bad enough, he doesn't want to imagine what a God-Crowley would be like.
+
+"Where do you think you're going?" Crowley holds out his hands again, and all four of them, Dean, Cas, Sam, and a now-slowly-waking-up Donatello find themselves losing control of their body, floating up, their feet leaving the ground, their hands tied closely to the side of their bodies. "It's not a good show without some good audience. So lucky for you, I saved some front row tickets."
+
+<br>
+
+### Act 9
+
+Crowley snaps his fingers, and all of a sudden all of them are no longer in the wild land by the highway in Colorado. Instead, it's a dark room with tiny small windows on the high walls, all barred and closed tight.
+
+They are shoved against the walls, pressed there unmovable by Crowley's power. Dean in the middle, Sam and Cas on his two sides, Donatello on the other side of Sam. Dean can't even see the rest of them with his neck also pinned down by the pure force.
+
+When his vision slowly get used to the darkness, the first thing Dean sees is the thin bloodied body lying lifeless by the door, in the familiar khaki button-down and old jeans. "Kevin," he breathes heavily.
+
+Crowley follows his eye, shrugging casually. "Told you. The little brat ruined my good mood, so I lost the temper for a bit. Don't try me."
+
+"What's this place? Hell?" Sam says. "It's not the Hell I remembered though, this is a lot quieter."
+
+"Or the one I remembered, it's colder here," Dean says.
+
+"And less crowded than last time I visited," Cas adds.
+
+"Jesus, why is everyone been to Hell?" Donatello says gruffly.
+
+"Long story," says Dean.
+
+"It's my throne room, I thought it's obvious." Crowley glares at them, irritated. He sits down on his throne chair, something underneath the seat flashing a faint golden light. He doesn't seem to notice, only taking out the demon tablet to touch the glyphs again, watching the silver ripples dancing on the surface as his fingertip moves around as if he's playing some music that only he can hear. More waves of power radiate from the tablet, washing through the powered-up demon, stretching out through the space, spreading through the air. But weirdly, it seems, every time a wave of power washes under the throne chair, something is disrupted, and the light of energy wavers and thins, until it becomes invisible by the time it reaches the bottom of the chair.
+
+Dean tries hard to turn his head to Cas's side, noticing he's also staring at the chair. Dean makes a tsk sound with his tongue, Cas immediately glances at him. Dean mouths, *Angel tablet?*
+
+Cas mouths back, *Has to be.*
+
+Dean: *Step three?*
+
+Cas: *How?*
+
+Dean: *Pray?*
+
+Cas: *Where are me?*
+
+Dean pauses and thinks, closing his eyes to focus. Sam was right, it's quiet, so quiet that the different sound outside this room is actually very distinctive. There must be a street close by, not too busy, but enough pedestrian's chatter and many vehicles passing by to indicate it's not just any small rural town. Some wet watery sound too, meaning they must be close to some shore. The chatters come with many different language and dialects, that puts the guess to the east or west shore. But he kinda gets stuck there.
+
+Dean calls out, "Hey Crowley, why would you put your throne room on Earth? And here, of all the places? Where are we anyway?"
+
+"My favorite asylum of all the places, giving me so much good memories of the good old days," Crowley answers in a nostalgic voice. "Do you know this is the exact asylum where they held the witches during the famous Salem Witch Trials? The official records said fifty got hanged, but you have no idea how many actually died and turned into demon here. It's the most natural business office for Hell, and I have to admit, people back then has a much better aesthetic taste in architecture than modern days."
+
+"Does this asylum has a name?" Sam apparently picks up what Dean is trying to do, pushing even further.
+
+"Of course. Needham Asylum," Crowley answers easily.
+
+Dean turns to Cas sharply, mouthing, *Needham Asylum, Massachusetts. Call Metatron!*
+
+Cas replies, *What do I say?*
+
+Dean mouths slowly and deliberately. *Lie! Use his ego!*
+
+Cas returns with a small nod, closing his eyes.
+
+*I pray to you, Metatron. This is Castiel. We need your help. Heaven needs you to save us from Crowley, I can see it now. I wronged you before, please forgive me. I know now that you're the only one who is powerful enough to save us. I offer you the angel tablet. I know where it is. Needham Asylum, Massachusetts. Please come hurry, before Naomi gets to it.*
+
+And a second one right after: *Naomi, Metatron has found the angel tablet. Needham Asylum, Massachusetts. Please come hurry. I'm no match. Only you can stop him now. Save the angels!*
+
+He opens his eyes, realizing Dean's watching him closely.
+
+*Done.* Cas mouths to him. *Two of them.*
+
+Dean frowns, *Two?*
+
+*Naomi, too. Three Godzillas now, is there a movie like that?*
+
+Dean chuckles silently, surprisingly better mood all things considering. *We'll see in real life now.*
+
+The window makes a cracking sound, shaking as if some strong gust is trying to force its way in but the glass is still holding strong.
+
+Crowley stops caressing the tablet, putting the tablet back in his pocket, glancing at the window's direction.
+
+"Let me guess, someone has sent some distress call?" His eyes lock on Cas.
+
+Cas meets his gaze without speaking, but a hint of uneasiness is crawling in.
+
+Crowley must have found what he's looking for in his eyes. "Castiel, Castiel. Did I forget to tell you, this place is warded against angels? No one in or out. Yet, I'm sensing someone hovering outside, peeking in. Who is it you're calling this time? I need to think of something more creative to punish you for this. Have you tried that mind hacking device? Different from Naomi's, that's my own invention, they're really the best toys -- I mean, toys for me, punishment for you."
+
+"It's not him. It's me," Dean says eagerly.
+
+Crowley eyes him with minor interest. "Very cute, protecting your boyfriend like that. Tell me who "
+
+
+
+"If I had to guess..." He closes his eyes for a brief second, reaching out a hand, making a pulling motion. A body in suit and high heels stumbles by his feet, Crowley's hand around her throat.
+
+"Naomi, love. "
 
 
 
@@ -3575,16 +3789,8 @@ They can all recognize the older man's habit of gestures by now.
 
 ### draft notes
 
-TBA: voice is Crowley, run into Crowley, make deal
+Dean: "Does everyone has a God complex?" after Metatron also upgrade
 
-> TFW go to Warsaw, Donatello resonates demon tablet, they find the other half, run into Crowley
->
-> TFW make deal with Crowley, exchange half demon tablet with angel tablet, Crowley force them to put Donatello to the deal too, they refuse, Donatello agrees, offering to put the two halves together for him
->
-> Crowley forces Donatello to put demon tablet together, Donatello shows up obedient, Crowley touches the demon tablet and is changed to be fully aggressive, beat them up, take them to Crowley's place (in Needham Asylum, Fall River, Massachusetts, with angel proof sigils)
->
-> Cas prays to Metatron (pretending it's Crowley too powerful and need Metatron's help, saying Metatron's the only power player now, make Metatron happy) to tell him where Crowley and they are, offering to give him angel tablet (actually still in Crowley's hand)
->
 > Metatron arrives, wipes the angel proof sigils, surprises Crowley, steals angel tablet from Crowley, touches the angel tablet and becomes aggressive and arrogant. Crowley is pissed, shift attention to him
 >
 > Both Metatron/Crowley has a tablet now, think they can kill/overpower/overthrow the other side completely
@@ -3644,10 +3850,6 @@ Loophole patch: Why Metatron has some delay in casting the seal-Heaven-cast-ange
 Donatello's knowledge about tablet comes from Kevin's auto email and attached decoding notes (add Kevin's video call to the plot somewhere, early or this chapter)
 
 **VISUAL:** Some big explosion magical light comes from two crushing tablets, Dean throws himself toward Cas, both are in the slow motion of falling to the ground. While the light shows that grace is going back into Cas, Cas is has his wings spreading slowly, intuitively trying to protect Dean in the process.
-
-
-
-
 
 ###### [TBC]
 
