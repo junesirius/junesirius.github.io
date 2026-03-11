@@ -3119,11 +3119,9 @@ How difficult would it be to find a human?
 
 <br>
 
-### Act 7
-
 Dean hardly drives a block away from the minimart when Cas suddenly yells, "Stop!"
 
-Dean presses on the brake sharply and the car squeaks to stop. The cars behind them honk and Dean ignores them.
+Dean presses on the brake sharply and the car squeaks to stop. The cars behind them honk noisily and Dean ignores them.
 
 "What's wrong?" he watches Cas nervously.
 
@@ -3133,7 +3131,7 @@ Dean presses on the brake sharply and the car squeaks to stop. The cars behind t
 
 "I should have done the rib-carving sigils on myself," Cas thinks aloud. "That would be the safest, like the ones I gave you and Sam."
 
-"And Adam." Dean reminds him. "It's like Winchester brand now. That's fair, you should have one too, join the family officially --" he glances at Cas again, licking his lips unconsciously. "-- but without your power, we can't exactly do that in the human way, and I don't exactly have any angel -- who's not you -- on speed dial for a rib-carving right now, not to mention I don't trust any to get anywhere close to any of us, let alone carve something on your ribs!"
+"And Adam." Dean reminds him. "It's like Winchester brand now. That's fair, you should have one too, join the family officially --" he glances at Cas again, licking his lips unconsciously. "-- but without your power, we can't exactly do that in the human way, and I don't exactly have any angel -- who's not you -- on speed dial for a rib-carving right now, not to mention I don't trust any to get anywhere close to any of us, so bye-bye rib-carving!"
 
 "I agree," Cas answers quickly.
 
@@ -3151,7 +3149,7 @@ Dean's kinda expecting a "What's that? Cult?" question from the tattoo artist an
 
 Dean follows his eyes, watching Cas considering, then landing his eyes on Dean. Dean knows the answer immediately, even before Cas saying it out loud.
 
-Cas says, "I want it the same place as his is, please."
+Cas says, "I want it the same place as he is, please."
 
 The tattoo artist's eyes move back and forth between Dean and Cas briefly with an open, curious look. He doesn't really ask the direct question, but it's sort of obvious now. He asks, "Is that like, a matching tattoo? Not my place to pry, but if it is something like that, a promise, a commitment, or something more, it might be better to let me know if you want to keep them absolutely exactly the same as yours is, for the special meanings."
 
@@ -3161,17 +3159,17 @@ The tattoo artist simply nods, "Alright." He looks back at Cas again, "Where do 
 
 Cas starts undressing his usually tidy and tight shirt buttons from bottom up, showing a patch of lower stomach skin, right above his hip. "Here," he answers openly, pointing at his bare skin on the left waist.
 
-Dean licks his lips, and he can't stop his imagination from running everywhere just from seeing that small patch of skin, like he's never seen any bare human skin before. *Goddammit.* He kicks himself in the mind -- he promised himself he'd not let this thing get wild between them, he promised himself he wouldn't let Cas be in this any longer and continue to hurt, but he's the one finding it impossible to keep that under control. His mind is going everywhere, especially the none-innocent territory about that patch of skin.
+Dean licks his lips, and he can't stop his imagination from running wild just from seeing that small patch of skin, like he's never seen any bare human skin before. *Goddammit.* He kicks himself in the mind -- he promised himself he'd not let this thing get weird between them, he promised himself he wouldn't let Cas be in this any longer or hurt any more, but he's the one finding it impossible to keep that thread of wandering thought under control now. His mind is going everywhere, especially the none-innocent territory about that patch of skin.
 
 He swallows hard, and realizes Cas's looking at him.
 
 Dean runs his tongue over his lips again. He's too far gone, he realizes. How can this -- watching Cas gets a tattoo -- become the absolutely sexiest thing he's ever seen?
 
-Continuing staying in this goddamn tattoo shop watching that thin ink pen drawing dark lines on Cas's skin (and it's the skin right above the waistband, worst of all!) would turn him into a complete wreck, Dean realizes shortly with absolute clarity. The heat on his cheeks are extending quickly to somewhere else.
+Continuing staying in this goddamn tattoo shop watching that thin ink pen drawing dark lines on Cas's skin (and it's the skin right above the waistband, worst of all!) would turn him into a complete wreck, Dean realizes shortly with absolute clarity. The heat on his cheeks are extending quickly, burning him up.
 
 "I'll get some air outside," Dean says suddenly, rushing out of the shop.
 
-Which isn't a lie or excuse, actually, considering he does really need some fresh air to cool his whole body and mind down.
+Which isn't a lie or excuse, actually, considering he does really absolutely need some fresh air to cool his whole body and mind down.
 
 He gives Sam a call while waiting.
 
@@ -3179,7 +3177,7 @@ He gives Sam a call while waiting.
 
 Cas notices his face when Dean comes back in.
 
-"What is it?" Cas lifts his head and upper body a little from the reclining chair, trying to get a better look at Dean. The tattoo artist pushes him back down and snaps at him not to move.
+"What is it?" Cas lifts his head and upper body a little from the reclining chair, trying to get a better look at Dean. The tattoo artist pushes him back down on the chest and snaps at him not to move.
 
 The look on Dean's face shifts between hope and a hint of afraid.
 
@@ -3189,13 +3187,19 @@ The look on Dean's face shifts between hope and a hint of afraid.
 
 Dean nods quickly, hope taking over the fear now. "Yeah, yeah. Something, better than nothing, right?"
 
-Cas holds his stare and nods at him. "We'll get everything, we'll save everyone. We will."
+Cas holds his stare and nods at him. "We will get everything, we will save everyone. We will."
 
 Dean grins at him, nodding in huge wave of appreciation.
 
 In the next two agonizingly long hours, Dean stays by Cas's side. Consciously, once or twice, he finds his hands have reached out and brushed against Cas's. He takes his hands back quickly whenever he realizes, but he thinks Cas probably also noticed. There's a mixed hope and sadness in his eyes. Dean's heart sinks -- *Did he mess something up again?*
 
 <br>
+
+### Act 7
+
+
+
+
 
 
 
