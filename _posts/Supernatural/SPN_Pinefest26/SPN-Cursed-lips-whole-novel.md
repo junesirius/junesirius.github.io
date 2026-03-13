@@ -4475,53 +4475,115 @@ Dean licks his lips again, finding them even drier. His heart pounds heavily in 
 
 It doesn't feel quite right to have this conversation in the hallway, standing outside their rooms -- though even Dean doesn't quite know what *this* conversation really means.
 
-"Why don't you come in here for a bit, it's getting cold," Dean says stiffly, opening the door to his room. *It's May in Kansas. It's not cold at all, even at night.*
+"Why don't you come in here for a bit, it's getting cold," Dean says stiffly, opening the door to his room. It's May in Kansas. It's not cold at all, even at night.
 
 Cas doesn't object, just following him in.
 
-Dean turns on the light
+Dean turns on the light. The lamp on the wall casts some warm orange light into the space, another lamp on the bedstand shines. The bedsheet and cover neatly spread on the mattress, staying exactly where they were when he left in the morning. So is the childhood photos on the desk, and the weapon collections displayed on the wall. The familiar scene helps him relax a little. He starts taking off his jacket.
+
+"It's a beautiful room," Cas comments quietly.
+
+"Thanks," Dean murmurs, leaving his jacket on the back of the chair, then turning back. His stomach is fluttering, his feet are shifting and moving. Dean twists his fingers, and he finally decides the collar of the jacket is acceptable and doesn't need further flattening.
+
+"So, um, how's your power?" Dean glances at Cas, who stands not far from the closed door, straight and still, exactly where he stepped in and didn't move any further inside, keeping his distance. "Is it all back? You're in full power?"
+
+"Yes, Dean, I'm fully powered. I'm an angel again." Cas's lips curl up slightly. "I realize I never said thank you. You saved me back there, three times. Thank you --"
+
+"Three times?" Dean is confused.
+
+"You pulled out the blade, saved my human life; you gave back my grace, saved my angelic life; and you gave back my memory, so that I'm me again," Cas answers gently. "So, thank you."
+
+Dean brushes the back of his neck. "Oh, yeah, don't mention it."
+
+He turns around again, searching the room, looking for something to do. He walks over to the desk, mindlessly fidgeting and adjusting the photo frames there. The room is so quiet, as if the whole bunker is falling asleep. Dean thinks he can hear Cas's breathing, and he definitely feels Cas's eyes following all his small restless moves. He walks around the desk again, moving closer to the angel.
+
+"I won't mention it then," Cas answers, taking the phrase's literal meaning.
+
+Dean chuckles slightly, feeling his heart lighter. Words and letters are crammed in his chest, stumbling against each other. How is it only now he find out he's really clumsy with words? They literally make a living for talking shit to people, cracking case by lies, words used to flow out of him without really need to think. He can chat with people for hours, how come he can't find a single right word to use now? Where does the word go?
+
+Dean looks up from under his lashes. He doesn't realize when he moved so close to Cas. He's standing just about a foot from him now, taking the trench coat, the shirt, and the tie in. And he lifts his eyes even more. There it is, among the five o'clock shadow are Cas's lips, dry and chapped, split slightly, breathing quietly. The lips that he has noticed since the beginning, that he has stared so often over the years, that he has kissed, once, and made it the worst nightmare in the world. And now, staring at them so close again, his heart beats fast. He's scared.
+
+He knows Cas is watching him, just waiting, waiting for him to speak first, waiting so infinitely patiently, like he forever was.
+
+"Listen," Dean hears himself saying, his voice barely stable, "there's something I've never told you. About that curse. The one Metatron put on my lips." *Here we go.* He thinks.
+
+"There's more to it. I should have told you earlier." *But I was scared. I still am.*
+
+He swallows. Closing his eyes. *Breathe.* He tells himself. He breathes in, and breathes out. He swallows again, his lips get even drier.
+
+"You don't have to, Dean," Cas says gently. "We already fixed it. There is no more curse now. You don't have to worry."
+
+"He asked me if I still believe in love," Dean blurts out.
+
+"What?" Cas freezes.
+
+"Metatron, he asked me to swear on it if I do. *'Swear on the name of the person I love the most to prove it'*, that's what he said. I thought if I do that, he would tell us about the trial, the tablet, he would save Sam. I was an idiot." Dean tells him, fixing his eyes on Cas's lips, on his nose, just not his eyes. He doesn't dare to. His voice starts getting wet.
+
+"I don't understand," Cas says bluntly, tilting his head a small degree. "How did that make the curse about me?"
+
+Dean closes his eyes. "I told him I do. I still believe in love. And I said, *'I swear on Castiel's name.'*"
+
+Breathe in. Breathe out. Open his eyes.
+
+Cas's eyes are wide with disbelief. His lips quiver, opening and closing uncertainly. "I -- You can't really mean... I'm not your..." Words fail him just the way they fail Dean.
+
+"Yes, yes, you are." Dean manages, forcing his eyes move higher, and more higher, finally running into the angel's eyes. Cas stares back with those blue, blue eyes, full of surprise, full of unsure, full of hope. Dean continues, "You know it's true, because the spell worked, it would only work when it's the real truth, the truth from the heart, from the soul. And it was strong, couldn't be tampered, couldn't be removed, because it's tied to my soul."
+
+Cas shakes his head slightly, breathing sharply.
+
+"Remember that day when I almost pushed you away, that morning in the kitchen, when I yelled at you, and then I told you I messed up, I told you about the spell, the saving you or saving Sam situation?" Dean asks. Cas nods small.
+
+"I couldn't tell you it's about this, about love, because then I'll have to admit how much I *want* to kiss you; because then I *know* you'd say, do it, save Sam, kiss you, you don't mind losing your power -- but I can't. I can't do that to you. But I did tell you that the curse would hold strong unless I change my mind -- and I told you, I know I'm not going to change my mind any time soon... or ever." Dean says, as he moves his hands up, holding the angel's chin, his fingers caressing his jawline ever so gently, hovering near the corner of his lips. "And I never change my mind. God, it was killing me, to think I'll never be able to kiss you."
+
+Cas leans into his touch, the uncertainty in his eyes were fading like ice melting under the sun. "I was okay losing my power," he answers. "And I did, to save you from drowning. But you were so upset, that day in Houston and after, you wouldn't look at me, you wouldn't face me, you left the room in the middle of the night and you told me to stop loving you in the morning after. I thought... I thought... I was so sorry I violated you, I forced you into this when you were unconscious. You wouldn't ever want to kiss me, so much that even saving Sam wouldn't be enough of a reason."
+
+"You gotta be kidding me." Dean rolls his eyes exaggeratedly, holding Cas closer. "You have no idea how much I do."
+
+"Why didn't you then? Before the curse, or after it's gone, when I became a human?" Cas asks, his hands moving up, wrapping around Dean's shoulder.
+
+"How could I?" Dean sighs. "I was an idiot before, I didn't even know that's true. But after, knowing that it's my lips that made your powerless? It's kissing me that condemned you? It was all my fault that you became human? I don't deserve to love you, Cas. I have to redeem myself, I have to fix this before I can ever do anything. I have to prove myself to you, bring your grace back, make you an angel again, and thank goodness I did it."
+
+Cas shakes his head unbelievably. "I thought I'm the one that need to prove I can still be useful. Angel or human, I need to be useful, or you wouldn't even want me to be around, your anger after the kiss in Houston and that morning in the kitchen both proved it. I don't deserve to be loved. That's why I need to do more, save you more, do anything you need me to do. I did everything I can to help you, to save you. I would give you anything if you ask, losing my grace for you isn't the worst thing, asking me to stop loving you is."
+
+Dean sighs again. "Come here," he says, pulling the angel over to hold him tight in a hug. "I'm so sorry I said that. I thought I was doing you a favor. Seriously, you were in such pain just because of this love thing, I thought this would make your life easier, and more importantly, safer. I'm okay with loving you but never hearing back, but I'll never forgive myself if it's because of me that you're hurt."
+
+"I learned that life is pain in Houston, and that love is pain, too." Cas's voice is slightly muffled from leaning tightly against Dean's head, pressing their cheeks together. His arms wrap around Dean's back, holding him, pull him, melting into him. But even that doesn't feel like enough, the vessel's arms don't feel enough. He needs to hold Dean even more close, more tight, more real in an angel way.
+
+With a fluster of wind and lightning and thunder, Cas's wings come into the physical world, spreading out, high and wide, dark as night, shiny as stars. He wraps his wings all around Dean, cocooning him in a sea of feathers. "You deserve to love me, Dean. More than deserve. Even if you didn't fix this, even if it really is your fault -- which it's not, it's Metatron's -- you still do. I need you to know it," he says, breathing in all the smell and taste that is Dean.
+
+"And you deserve to be loved, Cas. You don't need to be useful. I love you for who you are, exactly as you are," Dean buries into the angel's wings, telling him over his shoulder, talking into the sea of feathers.
+
+Cas freezes again at his words. Pulling back slowly, holding the wings high and tense, looking into Dean's eyes, he asks slowly, "What did you say?"
+
+Dean smiles at him, slowly, clearly, telling him again, "I said, I love you. I swear on Castiel's name that I love you. And I will say it as many times as I need, until you truly believe it, until *I* truly believe I have the right to."
+
+Cas's breath hitches.
+
+Dean leans closer, pressing his forehead on Cas's. "Can I kiss you now?" he asks with a low voice.
+
+"Yes," Cas answers breathlessly. "Yes! You don't have to ask."
+
+Dean's fingers move back to caress Cas's face, holding his cheeks. His lips move closer, merely an inch apart. Their breath mingle together in a small warm puff.
+
+Dean stays there. One inch. His heart beats fast, so fast that he thinks he might faint.
+
+Half an inch. The memory of the drowning water comes back, and then those lips pressing on his, the warmth of the lips and the cold water mixed together, and then that light starts stealing away Cas's grace. The voice at the back of his head starts screaming at him: *Don't do this! Don't you dare kissing him! Don't you hurt him again!*
+
+"It really doesn't help those traumatic memory that our first kiss was a curse, does it?" Dean says, half-jokingly.
+
+"We just have to make more memories, then," answers Cas. His hands and wings on the back of Dean's head pulls ever so slightly. Just enough to close the last half an inch, and their lips press together.
+
+Dean drowns in the waves of emotions and sensations. *It's Cas that he's kissing. It's really Cas. And it's a real kiss. No curse, no spell, no disaster. Just like he imagined, so many times, for so many years. It's dry and chapped, but also soft and gentle, warm and passionate. And best of all, Cas is kissing back.*
+
+Cas melts in the kiss, his feathers puff up all over his wings. And in his mind, he's thinking, quietly, but so firmly that it almost is like a prayer. The angel is thinking, with all his mind and heart: *I swear on Dean Winchester's name that I love you.*
 
 <br>
 
 ### draft notes
 
-*Do you still believe in love, Dean?*
-
-"Then I want you to swear on it. Swear on the name of the person you love the most to prove it, and *then*, we can talk about boring things like tablet and everything else."
-
-Dean has a feeling where this is leading to, and just to think about that, he already feels as if his flesh is trying to crawl out of his skin, like when he was tortured and skinned in Hell. But now he feels like he'd rather stay in Hell for forty more years than thinking about that question, thinking about the answer to that question -- *Do you still believe in love, Dean?* -- thinking about that... angel, admitting the thing he doesn't want to acknowledge is there for so, so long. -- *Yes.* -- It's like a corner of the room in the back of the mind he never wants to look at. And now, slowly, deliberately, he's forced to turn to that corner, to face it, to see something that he always know is there but pretends it's not. And now, he has to name it. And he has no choice. -- *Swear it on the name of the person you love the most. Prove it.*
-
-*Do you want to save the world? Do you want to heal Sam?* He asks himself quietly. *Just say it then. It's true anyway, what can you lose just by admitting it?*
-
-"I swear on Castiel's name," Dean says quietly.
-
-
-
-"Not even to save Sam?" Cas's eyes turn so dark and sad. *You don't want to kiss me that much? That even saving Sam wouldn't be enough?*
-
-"No! Not like this!" Dean says without hesitation. *I can't hurt you like this, taking away your power is like taking the most special thing that makes you you. You're an angel. I would rather die than do this to you. Through a kiss or not, I can't do this.*
-
-
-
-"Because I didn't *choose* it, Dean!" Cas yells, opening his eyes, glaring into this unbelievable human's amber green eyes. "I didn't *choose* to love you! Don't you understand? I just do! This is who I am! This is all of me! I'm sorry, I know you asked me to stop loving you, and I know I said I would try, but the truth is, I couldn't. I just... couldn't. I'm sorry."
-
-
-
-Dean think: "I don't deserve to love you" so repress his love, and ask Cas to stop loving him
-
-Cas think: "I don't deserve to be loved" so more hurt about not being loved, so love more
-
-> So now the world crisis is solved, Dean finally allows himself to reciprocate, revealing that he believes he should prove himself to Cas, compensate Cas, same as when Cas was human, thinking *he* should be the one to prove to Dean. The two finally use actual words. Dean finally considers himself worthy of Cas's love.
+> They have to kiss each other deep enough
 >
-> They have to kiss each other deep enough, trying to convince each other they don't have to prove anything, they don't need to seek forgiveness from the other because they're both forgiven, they're both worthy as they are, whatever they are like. But both still not quite convinced yet for their own part, those self-loathing self-devaluing thought goes deep, they just have to keep affirming to each other, it's still a long way to go for both of them psychologically. They're both unfamiliar with and still can't quite believe unconditional love. But receiving love helps healing. Hopeful happy ending.
->
-> (Another small angsty twist plot in the middle of the kissing scene, they half-joke: "It really doesn't help the trauma memory that our first kiss was a curse" Dean worries it might make them hesitate when they want to kiss again, but both are actually fine. Cas: "We just have to make more memories")
->
-> (Add a small cuddle or hint of a cuddle)
-
-> Dean has too much guilt thinking it's his fault that Cas becomes human, so he can't forgive himself, more fury, can't allow himself to be with Cas, distancing himself more, but also because they have kissed, he knows how good it feels to kiss Cas, it truly messes him up, even more than when Metatron cursed him, now it's himself that doesn't allow him to be with Cas. So he continues pining, so does Cas.
->
-> Cas tries to prove himself to Dean, Cas tries to prove he's still useful, thought being human is why Dean doesn't have interest in him anymore, but that's not true, and Dean knows the miscommunication, painful conflicted. Cas also consciously trying to restrain himself from performing with too much love based on what he thought Dean asked of him, but also miscommunication
+> But both still not quite convinced yet for their own part, those self-loathing self-devaluing thought goes deep, they just have to keep affirming to each other, it's still a long way to go for both of them psychologically. They're both unfamiliar with and still can't quite believe unconditional love. But receiving love helps healing. Hopeful happy ending.
 
 Loophole patch: Why Metatron has some delay in casting the seal-Heaven-cast-angel spell, after getting Cas's grace, In the show it's immediately, why it's not immediately here? ~~Is there some other condition he needs to fulfill before casting the spell? Maybe he's waiting for a full moon (would take another 15 days)? Does he forget about the spell and fails the first few experiments? He forgets about the portion? Maybe Metatron is debating if he needs the angel tablet power to boost the spell strength, and maybe he really wants to seal Heaven with tablet inside Heaven, close to him.~~ He needs the angel tablet to boost his power and the spell's power to cast the spell as full-scale as he hopes (and: he forgets the spell words, need to refer to the tablet to refresh the memory)
 
@@ -4538,9 +4600,7 @@ Donatello's knowledge about tablet comes from Kevin's auto email and attached de
 | attribute: water, cold, silvery, white, blue                 | attribute: fire, hot, gold, black, red                       |
 | when tablet attacked: cold surface got thrown hot input, think throwing red iron into cold water, white fog, golden spark | when tablet attacked: hot surface got thrown cold input, thinking throwing ice into boiling iron, black smoke, silvery ice |
 
-**VISUAL:** Some big explosion magical light comes from two crushing tablets, Dean throws himself toward Cas, both are in the slow motion of falling to the ground. While the light shows that grace is going back into Cas, Cas is has his wings spreading slowly, intuitively trying to protect Dean in the process.
-
-###### [TBC]
+**VISUAL:** ~~Some big explosion magical light comes from two crushing tablets, Dean throws himself toward Cas, both are in the slow motion of falling to the ground. While the light shows that grace is going back into Cas, Cas is has his wings spreading slowly, intuitively trying to protect Dean in the process.~~ Cas hugs Dean with arms and wings and they're kissing passionately.
 
 ## Chap 6 The Untold (Epilogue) (optional)
 
@@ -4552,7 +4612,9 @@ Donatello's knowledge about tablet comes from Kevin's auto email and attached de
 >
 > So actually, by reading the books, they eventually help them understand each other's thoughts better, see what one another was thinking back then more clearly, so they can use the books as references to learn more about each other's feelings/thoughts and what they missed/misunderstood and fix them.
 
-[TBA]
+
+
+###### [TBC]
 
 <br>
 
