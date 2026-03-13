@@ -11,7 +11,7 @@ long_novels: 【Destiel】I Swear On Castiel's Name
 published: false
 ---
 
-**Tags:** Canon Divergent, S8 Timeline, S08E21, S8 Finale Rewrite, Inspired by *Once Upon a Time*, Case Fic, Curse, Emotional Repression, Mutual Pining, Angst, Yearning, Hurt/Comfort, Canon-Typical Miscommunication, Canon-Typical Anger-Control Issue, Minor Canon-Typical Suicidal Ideation, Meta-Narrative, Eventual Happy Ending
+**Tags:** Canon Divergent, S8 Timeline, S08E21, S8 Finale Rewrite, Inspired by *Once Upon a Time*, Case Fic, Curse, Emotional Repression, Mutual Pining, Angst, Yearning, Hurt/Comfort, Canon-Typical Miscommunication, Canon-Typical Anger-Control Issue, Minor Canon-Typical Suicidal Ideation, Dean Winchester Uses Actual Words, Meta-Narrative, Eventual Happy Ending
 
 **Warning:** Graphic Depictions of Violence
 
@@ -1597,7 +1597,7 @@ Cas had angel tablet but then captured and tortured by Naomi and Crowley, Crowle
 >
 > both self-torturing and painfully mistaken, a lot of miscommunication
 
-### Act 1
+### Act 1 Come Back Home with Cas
 
 Sam wakes up twelve hours later, still shaky and sick like before from his trials, but according to him, zero angel radio resonation. Which means Metatron has most definitely left the place, staying as far away from them as possible, reading his story from afar.
 
@@ -1699,7 +1699,7 @@ Bunker is quiet finally, Sam is asleep, Cas is asleep. Dean takes out half a doz
 
 <br>
 
-### Act 2
+### Act 2 The Fight, The Admission
 
 Dean is startled when he senses a hand on his right shoulder. His right hand reflexively reaches under his pillow, trying to grab his pistol. But he can't find the pistol. And then he realizes he doesn't have a pillow.
 
@@ -1877,7 +1877,7 @@ Why Dean doesn't like Sam/Cas touch: Sam's power/sick from demon tablet, Cas's s
 >
 > Dean wakes up, more guilty and furious, yells at Cas "What have you done", finds Cas human now, blames himself to cause Cas to be human, distancing himself from Cas even more. Cas is more hurt, believing Dean is offended by the kiss and doesn't think he's useful now that he's human, tries to prove himself to Dean.
 
-### Act 1
+### Act 1 Crowley's Message ("Hello, Boys")
 
 The idea comes to Dean when he sits back down in front of the laptop, with Cas flipping old research books on the other side.
 
@@ -2023,7 +2023,7 @@ Cas nods. "So Crowley and Metatron are like Godzilla and Mothra now this time."
 
 <br>
 
-### Act 2
+### Act 2 Crowley and Metatron's Plan
 
 Crowley is sitting on his throne, palming and stroking the one and a half tablets in his hands. His fingers follow the humpy bumpy surface of the tablets, tracing the lines and carvings that form the words and letters that he can't read. It is a little annoying to not be able to read those mysterious words, Crowley thinks, but it's utterly satisfying to touch the tablet just as they are. Now he can totally see why Castiel would stuff the thing inside his vessel so he wouldn't *stop* touching it. It feels like the best feeling of kinky electricity streams radiating from the surfacing, passing onto the fingers that touch the surface, and flowing through his body. It's better than the best spa and massage he's ever done. And it makes his mind so clear now. He feels powerful and strong. With the tablets in his hands, he knows he and Hell are strong enough to take down Earth and Heaven. He just knows it.
 
@@ -2117,7 +2117,7 @@ Metatron cuts off her hand and throws it into the same interdimensional pocket w
 
 <br>
 
-### Act 3
+### Act 3 The Kiss, The Curse
 
 Dean scrolls the web pages, clicking the "next" button at the end of the search engine result over and over again, flipping the pages through. His eyes are sour from staring at the screen light for this long, but he pushes on. It's been three days, and they haven't found anything useful to bring Crowley or Metatron together, or any close to find where they are.
 
@@ -2473,7 +2473,7 @@ Both Dean/Cas more aching/pining, they turn to focus on bring Metatron/Crowley d
 >
 > (Another small angsty twist plot in the middle of the kissing scene, they half-joke: "It really doesn't help the trauma memory that our first kiss was a curse" Dean worries it might make them hesitate when they want to kiss again, but both are actually fine. Cas: "We just have to make more memories")
 
-### Act 1
+### Act 1 Sleepless Night ("I need you to stop loving me")
 
 In the dim dawn light before the sun is up, Cas is finally asleep. He lies on his side, facing Dean's bed. The furrow between his eyebrows are still tightly creased. The frown looks like it's never going to leave him. His hair -- Dean had to teach him how to shower when they got back and helped him drying up -- are pressed to the pillow more messily and humanly than they ever look.
 
@@ -2587,7 +2587,7 @@ He swallows hard, can't seem to put a full sentence together coherently. "That s
 
 <br>
 
-### Act 2
+### Act 2 Meet Donatello ("Winchester, OK")
 
 They eat breakfast in silence.
 
@@ -2741,7 +2741,7 @@ Just like last chapter, the locations in this chapter also feels so unsettlingly
 
 <br>
 
-### Act 3
+### Act 3 Dream and Memory Lane
 
 They roll back into the small town of Lebanon little past midnight.
 
@@ -2799,7 +2799,7 @@ Dean sinks deeper into the dreams, happier than he ever remembers he's been, sad
 
 <br>
 
-### Act 4
+### Act 4 Kevin's Email and Donatello
 
 They show Donatello the last email from Kevin, along with his recorded video and all his notes in the attachment, after the breakfast. The air in the room shifts quickly away from the quiet peacefulness from finishing up all the remaining Houston breakfast take-out, to the gloomiest grief.
 
@@ -2937,7 +2937,7 @@ Cas notices but he doesn't say anything, only follows him quietly to the Impala.
 
 <br>
 
-### Act 5
+### Act 5 Grocery Shopping
 
 Dean fidgets the Impala key when they get to the garage. Cas is already moving closer to the passenger's seat side.
 
@@ -3067,7 +3067,7 @@ The sun is bright outside today. The sunlight shines onto their faces, dying the
 
 <br>
 
-### Act 6
+### Act 6 Get The Tattoo
 
 "Sire, we have tried absolutely everything, but the tablet is simply nowhere to be found," the demon shivers as he reports to the King.
 
@@ -3121,7 +3121,7 @@ Lucky for him, with all the books he's read from Carver Edlund, he knows exactly
 
 "Well, looks like you and I just need another reunion again, Castiel," Metatron strokes his beard, talking to the air, smiling a little.
 
-He packs the precious ingredients away carefully, and replaces with those for a location spell next.
+He packs the precious ingredients away carefully, sending the grace back into the vial, and replaces with the ingredients for a location spell next.
 
 How difficult would it be to find a human?
 
@@ -3203,7 +3203,7 @@ In the next two agonizingly long hours, Dean stays by Cas's side, just idly wait
 
 <br>
 
-### Act 7
+### Act 7 Naomi's Tip ("I didn't choose to love you")
 
 Metatron watches the location spell to narrow down from Earth to the northern half of the sphere, to the north America, to near the center area of the north America, but just as he watches with hope and excitement to see the location circle burning the world map down, shrinking down to about two states' area around Kansas and Missouri, the spell vaporizes. The rest of the map cringes in the heat of the fire -- which was supposed to be extinguished when the spell finished -- and burns to the ash in the blink of an eye.
 
@@ -3459,7 +3459,7 @@ Donatello buries his face in his palms and groans loudly. Dean pats his shoulder
 
 <br>
 
-### Act 8
+### Act 8 Find the Half Demon Tablet
 
 So, step one, find the other half of the demon tablet. The half hidden by Kevin.
 
@@ -3699,7 +3699,7 @@ Dean and Cas watch in horror as the expected golden burning light doesn't show. 
 
 <br>
 
-### Act 9
+### Act 9 Three Godzillas
 
 Crowley snaps his fingers, and all of a sudden all of them are no longer in the wild land by the highway in Colorado. Instead, it's a dark room with tiny small windows on the high walls, all barred and closed tight.
 
@@ -3899,7 +3899,7 @@ Dean shuts his mouth.
 
 <br>
 
-### Act 10
+### Act 10 Ten Seconds
 
 Crowley paces a few steps, tilting his head to enjoy the burned wing marks in its right direction. He tsks, "I didn't ask you for a free interior redesign, but it looks like a nice lovely touch for the throne room, indeed, I have to admit. I'd never thought to add a dead angel here, and now thanks to you, everyone knows where the Head of the Heaven's Intelligence Division ended up."
 
@@ -4159,7 +4159,7 @@ Dean opens his eyes, and realizes dumbfoundedly -- They made a big mistake assum
 
 Dean takes the full second -- and some more -- to take in the reality.
 
-"Dean, are you okay? Are you hurt? Do you need healing?" Cas asks in a rush, looking into his eyes. His hair is ruffled, his eyes are warm, his trench coat is rumpled from kneeling next to Dean, but clean of blood, clean of any sign of torn or stab. One of his hands is holding Dean's, the other touching his cheek, patting gently. Thin thread of warmth seeps through the skin from where he touches, just like every time he uses the healing power.
+"Dean, are you okay? Are you hurt? Do you need healing?" Cas asks in a rush, looking into his eyes. His hair is ruffled, his eyes are warm, his trench coat is rumpled from kneeling next to Dean, but clean of blood, clean of any sign of torn or stab. One of his hands is holding Dean's, the other touching his cheek, patting gently. Thin thread of warmth seeps through the skin from where he touches, just like every time he uses the healing power. The burning pain on his hands subsides.
 
 Dean stares at him. There he is, his angel, warm, real, alive -- and a full powerful angel again, just as he wished for with all his heart.
 
@@ -4169,7 +4169,7 @@ Dean closes his eyes again, taking a long broken breath, feeling more over-joyfu
 
 <br>
 
-### Act 11
+### Act 11 The Unimaginable Power's Truth
 
 "The power of the two tablets crashing, it's not destruction power, it's creation."
 
@@ -4441,7 +4441,7 @@ Tapping on Donatello's shoulder, Cas flies him back to his home in Oklahoma firs
 
 Kevin stumbles slightly when they land, and Sam helps him steady.
 
-Dean takes a long breath in, swapping the cold bloody rusty-taste air in his lung with the familiar warm book-taste air in the bunker. He lets out a long relieving sigh: "Home sweet home."
+Dean takes a slow breath in, swapping the cold bloody rusty-taste air in his lung with the familiar warm book-taste air in the bunker. He lets out a long relieving sigh: "Home sweet home."
 
 <br>
 
@@ -4451,13 +4451,67 @@ I'm sure many Star Wars fans or MCU fans would have recognized the little salute
 
 <br>
 
-### Act 12
+### Act 12 The Confession ("I Swear On Castiel's Name")
+
+They settle Kevin in the guest room. Everyone agree they need the night off and perhaps another day or two, or a full week, to recover before doing any actual work again.
+
+Sam says a hurried "Good night" and retreats back into his room almost immediately.
+
+Dean moves slowly down the hallway, heading to his room, his legs as heavy as lead. He believes he can instantly sleep for twenty-four hours straight, but there is just one little extra thing he has to take care of, one last mess to clean up, one last piece to put into the right place to call it a win.
+
+Cas walks down the hallway in the same direction, several steps behind him.
+
+Dean deliberately walks even slower, until two of them reach their room door at about the same time. Dean at Room 11, and Cas at 9, right next door.
+
+Dean fiddles with the door handle, not in any rush to open it. He licks his lips. They're dry. He swallows, finding himself uncharacteristically nervous.
+
+Cas's hand turns the handle to his room, the door opens a crack. "Good night, Dean," he says quietly.
+
+"Hey, Cas," Dean suddenly finds his voice. "Can I talk to you for a sec?"
+
+"Of course." Cas turns to him immediately. His room door is closed again.
+
+Dean licks his lips again, finding them even drier. His heart pounds heavily in his chest. *When's the last time he's so nervous about talking to someone about something? High school, maybe?*
+
+It doesn't feel quite right to have this conversation in the hallway, standing outside their rooms -- though even Dean doesn't quite know what *this* conversation really means.
+
+"Why don't you come in here for a bit, it's getting cold," Dean says stiffly, opening the door to his room. *It's May in Kansas. It's not cold at all, even at night.*
+
+Cas doesn't object, just following him in.
+
+Dean turns on the light
 
 <br>
 
 ### draft notes
 
-> So now the world crisis is solved, Dean finally allows himself to reciprocate, revealing that he believes he should prove himself to Cas, compensate Cas, same as when Cas was human, thinking *he* should be the one to prove to Dean. The two finally use actual words (a little like *Zootopia 2* confession/communication scene, hashtag *Dean Winchester uses actual words*). Dean finally considers himself worthy of Cas's love.
+*Do you still believe in love, Dean?*
+
+"Then I want you to swear on it. Swear on the name of the person you love the most to prove it, and *then*, we can talk about boring things like tablet and everything else."
+
+Dean has a feeling where this is leading to, and just to think about that, he already feels as if his flesh is trying to crawl out of his skin, like when he was tortured and skinned in Hell. But now he feels like he'd rather stay in Hell for forty more years than thinking about that question, thinking about the answer to that question -- *Do you still believe in love, Dean?* -- thinking about that... angel, admitting the thing he doesn't want to acknowledge is there for so, so long. -- *Yes.* -- It's like a corner of the room in the back of the mind he never wants to look at. And now, slowly, deliberately, he's forced to turn to that corner, to face it, to see something that he always know is there but pretends it's not. And now, he has to name it. And he has no choice. -- *Swear it on the name of the person you love the most. Prove it.*
+
+*Do you want to save the world? Do you want to heal Sam?* He asks himself quietly. *Just say it then. It's true anyway, what can you lose just by admitting it?*
+
+"I swear on Castiel's name," Dean says quietly.
+
+
+
+"Not even to save Sam?" Cas's eyes turn so dark and sad. *You don't want to kiss me that much? That even saving Sam wouldn't be enough?*
+
+"No! Not like this!" Dean says without hesitation. *I can't hurt you like this, taking away your power is like taking the most special thing that makes you you. You're an angel. I would rather die than do this to you. Through a kiss or not, I can't do this.*
+
+
+
+"Because I didn't *choose* it, Dean!" Cas yells, opening his eyes, glaring into this unbelievable human's amber green eyes. "I didn't *choose* to love you! Don't you understand? I just do! This is who I am! This is all of me! I'm sorry, I know you asked me to stop loving you, and I know I said I would try, but the truth is, I couldn't. I just... couldn't. I'm sorry."
+
+
+
+Dean think: "I don't deserve to love you" so repress his love, and ask Cas to stop loving him
+
+Cas think: "I don't deserve to be loved" so more hurt about not being loved, so love more
+
+> So now the world crisis is solved, Dean finally allows himself to reciprocate, revealing that he believes he should prove himself to Cas, compensate Cas, same as when Cas was human, thinking *he* should be the one to prove to Dean. The two finally use actual words. Dean finally considers himself worthy of Cas's love.
 >
 > They have to kiss each other deep enough, trying to convince each other they don't have to prove anything, they don't need to seek forgiveness from the other because they're both forgiven, they're both worthy as they are, whatever they are like. But both still not quite convinced yet for their own part, those self-loathing self-devaluing thought goes deep, they just have to keep affirming to each other, it's still a long way to go for both of them psychologically. They're both unfamiliar with and still can't quite believe unconditional love. But receiving love helps healing. Hopeful happy ending.
 >
@@ -4469,7 +4523,7 @@ I'm sure many Star Wars fans or MCU fans would have recognized the little salute
 >
 > Cas tries to prove himself to Dean, Cas tries to prove he's still useful, thought being human is why Dean doesn't have interest in him anymore, but that's not true, and Dean knows the miscommunication, painful conflicted. Cas also consciously trying to restrain himself from performing with too much love based on what he thought Dean asked of him, but also miscommunication
 
-Loophole patch: Why Metatron has some delay in casting the seal-Heaven-cast-angel spell, after getting Cas's grace, In the show it's immediately, why it's not immediately here? ~~Is there some other condition he needs to fulfill before casting the spell? Maybe he's waiting for a full moon (would take another 15 days)? Does he forget about the spell and fails the first few experiments? He forgets about the portion? Maybe Metatron is debating if he needs the angel tablet power to boost the spell strength, and maybe he really wants to seal Heaven with tablet inside Heaven, close to him.~~ He needs the angel tablet to boost his power and the spell's power to cast the spell as full-scale as he hopes (and/or: he forgets the spell words, need to refer to the tablet to refresh the memory)
+Loophole patch: Why Metatron has some delay in casting the seal-Heaven-cast-angel spell, after getting Cas's grace, In the show it's immediately, why it's not immediately here? ~~Is there some other condition he needs to fulfill before casting the spell? Maybe he's waiting for a full moon (would take another 15 days)? Does he forget about the spell and fails the first few experiments? He forgets about the portion? Maybe Metatron is debating if he needs the angel tablet power to boost the spell strength, and maybe he really wants to seal Heaven with tablet inside Heaven, close to him.~~ He needs the angel tablet to boost his power and the spell's power to cast the spell as full-scale as he hopes (and: he forgets the spell words, need to refer to the tablet to refresh the memory)
 
 Donatello's knowledge about tablet comes from Kevin's auto email and attached decoding notes (add Kevin's video call to the plot somewhere, early or this chapter)
 
@@ -4497,6 +4551,10 @@ Donatello's knowledge about tablet comes from Kevin's auto email and attached de
 > (Writing note for myself: this is intentional in the writing style that, in the fake quoted parts written by Chuck, there are a large amount of thought and switch between two POVs very frequently, since it's literally God POV writing, but after those, when going back to normal narrative, the writing style should switch to mostly stable single-side POV and less straightforward thought process, more reflected from words and actions).
 >
 > So actually, by reading the books, they eventually help them understand each other's thoughts better, see what one another was thinking back then more clearly, so they can use the books as references to learn more about each other's feelings/thoughts and what they missed/misunderstood and fix them.
+
+[TBA]
+
+<br>
 
 ### Act 1 (S05E14)
 
