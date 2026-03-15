@@ -4625,11 +4625,11 @@ Dean's hands absentmindedly strokes Cas's arms and back, and he tells the angel,
 
 "What was that?"
 
-"Me -- us -- happy." Dean says slowly, one word at a time. "Remember when I said that, Sam laughed at me for being so pessimistic and couldn't believe I never imagined him and you being all healthy and well again? It's just partially true, the whole thing is, I saw myself in there, feeling worthy and loved, and I saw all of us living a happy life -- including me. I just realized, I never imagined myself in that picture before, and apparently the tablets, with all those God's creation power in them, saw it in me, or rather, saw it missing in me, and decided it was the real deepest thing that I need, so the explosion created it for me -- for us. Maybe it didn't just fix you and Sam, it fixed my stupid ass too. And I didn't realize that until now. It really gave us the thing that we deserve. Come to think about it, the Words are the best writer."
+"Me -- us -- happy." Dean says slowly, one word at a time. "Remember when I said that, Sam laughed at me for being so pessimistic and couldn't believe I never imagined him and you being all healthy and well again? It's just partially true, the whole thing is, I saw myself in there, feeling worthy and loved, and I saw all of us living a happy life -- including me. I just realized, I never imagined myself in that picture before, and apparently the tablets, with all those God's creation power in them, saw it in me, or rather, saw it missing in me, and decided it was the real deepest thing that I need, so the explosion created it for me -- for us. Maybe it didn't just fix you and Sam, it fixed my stupid ass too -- got the stick out of it, basically. And I didn't realize that until now. It really gave us the thing that we deserve. Come to think about it, the Words are the best writer."
 
 "So you're saying, the Words wrote us a happy ending?" Cas relaxes a little, leaning into Dean's touch.
 
-"Not ending, the journey, the chance of creating a life for our own." Dean adjusts his posture, propping up a little so he can look into Cas's eyes better. "Remember Chuck's books? I just suddenly remembered that, the reason why Metatron wanted to mess up with us, is because he wanted to rewrite Chuck's story, write it the way *he* wanted to see, apparently a more awful and terrible way -- which, somehow, must involve us kissing, I would never understand a psycho writer's mind. But for once, I think I can see the point, I want our life to not be a creepy supernatural haunted horror story anymore, but a fluffy chick-flick happy story."
+"Not ending, the journey, the chance of creating a life for our own." Dean adjusts his posture, propping up a little so he can look into Cas's eyes better. "Remember Chuck's books? I just suddenly remembered that, the reason why Metatron wanted to mess up with us, is because he wanted to rewrite Chuck's books, write it the way *he* wanted to see, apparently a more awful and terrible way -- which, somehow, must involve us kissing, I would never understand a psycho writer's mind. But for once, I think I can see the point, if it has to be a story, I want our life to not be a creepy supernatural haunted horror story anymore, but a fluffy chick-flick happy story."
 
 "I thought you don't like chick-flicks." Cas points out.
 
@@ -4637,7 +4637,11 @@ Dean's hands absentmindedly strokes Cas's arms and back, and he tells the angel,
 
 Cas moans happily. "I do, too," he answers, in the middle of busy returning those kisses.
 
-Dean decides he really like this story now, the story of their life, and he knows -- and he knows Cas knows -- it's just the beginning of a long happy -- happier -- story. Because this time, not Chuck, not Metatron, it's them, writing their own stories.
+Dean decides he really like this story now, the story of their life, and he knows -- and he knows Cas knows -- it's just the beginning of a long happy story. Because this time, not Chuck, not Metatron, it's them, writing their own stories.
+
+<br>
+
+**END**
 
 <br>
 
@@ -4672,23 +4676,13 @@ Donatello's knowledge about tablet comes from Kevin's auto email and attached de
 >
 > (Writing note for myself: this is intentional in the writing style that, in the fake quoted parts written by Chuck, there are a large amount of thought and switch between two POVs very frequently, since it's literally God POV writing, but after those, when going back to normal narrative, the writing style should switch to mostly stable single-side POV and less straightforward thought process, more reflected from words and actions).
 >
-> So actually, by reading the books, they eventually help them understand each other's thoughts better, see what one another was thinking back then more clearly, so they can use the books as references to learn more about each other's feelings/thoughts and what they missed/misunderstood and fix them.
+> So actually, by reading the books, that eventually help them understand each other's thoughts better, see what one another was thinking back then more clearly, so they can use the books as references to learn more about each other's feelings/thoughts and what they missed/misunderstood and fix them.
 >
 > (coincidence: both 514 and 808 start with two lovers, one or both of them died because of the love)
 
+### Act 1 "Supernatural: My Bloody Valentine" (2010) by Carver Edlund (S05E14)
 
 
-###### [TBC]
-
-<br>
-
-### Act 1 (S05E14)
-
-> 
->
-> 
-
-<p style="text-align:right">-- <i>"Supernatural: My Bloody Valentine"</i> (2010) by Carver Edlund</p>
 
 #### draft notes
 
@@ -4710,13 +4704,9 @@ Donatello's knowledge about tablet comes from Kevin's auto email and attached de
 >
 > After finish reading, Dean gets hungry and they get nostalgic, so Dean/Cas go to diner, have meal together, order burger, have fun easy time together, joke about each other's flavors
 
-### Act 2 (S08E08)
+### Act 2 "Supernatural: Hunteri Heroici" (2012) by Carver Edlund (S08E08)
 
-> 
->
-> 
 
-<p style="text-align:right">-- <i>"Supernatural: Hunteri Heroici"</i> (2012) by Carver Edlund</p>
 
 #### draft notes
 
