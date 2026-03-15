@@ -4,7 +4,7 @@ title: 【梦记】瞬移杀人
 date: 2021-01-23 12:24
 categories: ["梦记"]
 characters: ["Tom Marvolo Riddle"]
-tags: ["梦记"]
+tags: ["梦记", "好故事", "杀人", "闹钟醒"]
 pov: 第一人称视角
 origin: 个站
 ---

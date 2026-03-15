@@ -4,7 +4,7 @@ title: 【梦记】健忘人只记得的两个词（碎片）
 date: 2025-03-25 08:00
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "碎片", "墨西哥", "date"]
+tags: ["梦记", "碎片", "墨西哥", "date", "闹钟醒"]
 pov: 第一人称视角
 origin: 个站
 ---

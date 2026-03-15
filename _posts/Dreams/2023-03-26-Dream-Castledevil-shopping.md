@@ -4,7 +4,7 @@ title: 【梦记】罚夜充满生活气息的购物（很喜欢）
 date: 2023-03-26 11:33
 categories: ["梦记"]
 characters: ["Frank Castle/Punisher", "Matt Murdock/Daredevil"]
-tags: ["梦记", "Castledevil", "罚夜", "夜魔侠", "惩罚者", "生活", "好故事"]
+tags: ["梦记", "Castledevil", "罚夜", "夜魔侠", "惩罚者", "生活", "好故事", "闹钟醒"]
 pov: 第一人称视角
 origin: 个站
 ---

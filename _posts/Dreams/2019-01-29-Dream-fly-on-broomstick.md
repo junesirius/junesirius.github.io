@@ -4,7 +4,7 @@ title: 【梦记】学骑扫帚
 date: 2019-01-29
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "HP", "飞"]
+tags: ["梦记", "HP", "飞", "自然醒"]
 pov: 第一人称视角
 origin: Lofter
 ---

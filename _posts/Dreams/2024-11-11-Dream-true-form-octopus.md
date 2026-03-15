@@ -4,7 +4,7 @@ title: 【梦记】本体大章鱼（碎片，有趣）
 date: 2024-11-11 07:28
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "dreamwalk", "HP", "碎片"]
+tags: ["梦记", "dreamwalk", "HP", "碎片", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

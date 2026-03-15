@@ -4,7 +4,7 @@ title: 【梦记】迪士尼角色巡游
 date: 2023-09-07 00:44
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "奥兰多", "dreamwalk"]
+tags: ["梦记", "奥兰多", "dreamwalk", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

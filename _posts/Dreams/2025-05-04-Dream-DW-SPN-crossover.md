@@ -4,7 +4,7 @@ title: 【梦记】神秘博士是Castiel（喜欢，碎片）
 date: 2025-05-04 09:30
 categories: ["梦记"]
 characters: ["Castiel", "Doctor Who", "Dean Winchester"]
-tags: ["梦记", "crossover", "碎片", "神秘博士", "Supernatural"]
+tags: ["梦记", "crossover", "碎片", "神秘博士", "Supernatural", "闹钟醒"]
 pov: 第一人称视角
 origin: 个站
 ---

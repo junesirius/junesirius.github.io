@@ -4,7 +4,7 @@ title: 【梦记】丁温和有怪的教室（有点意思）
 date: 2024-12-05 07:40
 categories: ["梦记"]
 characters: ["Dean Winchester", "Lyra"]
-tags: ["梦记", "Supernatural", "普通故事"]
+tags: ["梦记", "Supernatural", "普通故事", "闹钟醒"]
 pov: 第一人称视角
 origin: 个站
 ---

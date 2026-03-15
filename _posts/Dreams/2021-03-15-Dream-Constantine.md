@@ -4,7 +4,7 @@ title: 【梦记】康斯坦丁
 date: 2021-03-15 10:33
 categories: ["梦记"]
 characters: ["John Constantine"]
-tags: ["梦记", "康斯坦丁"]
+tags: ["梦记", "康斯坦丁", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

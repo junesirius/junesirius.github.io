@@ -4,7 +4,7 @@ title: 【梦记】丰盛早餐（碎片）
 date: 2025-05-03 12:00
 categories: ["梦记"]
 characters: ["Will Graham"]
-tags: ["梦记", "碎片", "食物", "汉尼拔"]
+tags: ["梦记", "碎片", "食物", "汉尼拔", "闹钟醒"]
 pov: 第一人称视角
 origin: 个站
 ---

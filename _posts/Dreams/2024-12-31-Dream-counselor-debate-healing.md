@@ -4,7 +4,7 @@ title: 【梦记】议会辩论，治愈能力（还不错）
 date: 2024-12-31 09:41
 categories: ["梦记"]
 characters: ["Dick Roman", "Kate Stewart", "Jacaerys Velaryon"]
-tags: ["梦记", "dreamwalk", "血", "救世主情结", "好故事", "Supernatural", "政治", "追杀", "触感", "神秘博士", "星球大战", "龙之家族"]
+tags: ["梦记", "dreamwalk", "血", "救世主情结", "好故事", "Supernatural", "政治", "追杀", "触感", "神秘博士", "星球大战", "龙之家族", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

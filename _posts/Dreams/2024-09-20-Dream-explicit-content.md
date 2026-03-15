@@ -4,7 +4,7 @@ title: 【梦记】Explicit content（感觉很真实）
 date: 2024-09-20 07:05
 categories: ["梦记"]
 characters: ["Castiel"]
-tags: ["梦记", "性", "Castiel梦女", "亲密关系", "阿根廷", "触感"]
+tags: ["梦记", "性", "Castiel梦女", "亲密关系", "阿根廷", "触感", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

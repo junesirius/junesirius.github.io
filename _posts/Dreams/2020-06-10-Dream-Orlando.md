@@ -4,7 +4,7 @@ title: 【梦记】开花
 date: 2020-06-10
 categories: ["梦记"]
 characters: ["Orlando Bloom"]
-tags: ["梦记"]
+tags: ["梦记", "梦中梦"]
 pov: 第一人称视角
 origin: Lofter
 ---

@@ -4,7 +4,7 @@ title: 【梦记】收拾东西准备送行（担心错过时机）
 date: 2023-03-14 04:02
 categories: ["梦记"]
 characters: 
-tags: ["梦记"]
+tags: ["梦记", "焦虑", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

@@ -4,7 +4,7 @@ title: 【梦记】办公室换座位（工作日常）
 date: 2025-02-06 08:42
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "工作"]
+tags: ["梦记", "工作", "闹钟醒"]
 pov: 第一人称视角
 origin: 个站
 ---

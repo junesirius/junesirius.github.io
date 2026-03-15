@@ -4,7 +4,7 @@ title: 【梦记】血腥
 date: 2021-05-25 11:22
 categories: ["梦记"]
 characters: ["Nathaniel Barnes/Executioner", "Zari"]
-tags: ["梦记", "梦中梦", "血", "哥谭", "自杀小队", "DC"]
+tags: ["梦记", "梦中梦", "血", "哥谭", "自杀小队", "DC", "闹钟醒"]
 pov: 第一人称视角
 origin: 个站
 ---

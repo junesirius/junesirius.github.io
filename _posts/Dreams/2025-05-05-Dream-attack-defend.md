@@ -4,7 +4,7 @@ title: 【梦记】进攻和防守（喜欢，碎片）
 date: 2025-05-05 08:45
 categories: ["梦记"]
 characters: ["Carol Elevens", "Gabriel", "Michael"]
-tags: ["梦记", "碎片", "普通故事", "Supernatural", "魔戒"]
+tags: ["梦记", "碎片", "普通故事", "Supernatural", "魔戒", "闹钟醒"]
 pov: 第一人称视角
 origin: 个站
 ---

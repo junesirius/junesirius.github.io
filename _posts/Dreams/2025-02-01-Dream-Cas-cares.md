@@ -4,7 +4,7 @@ title: 【梦记】跟Cas的对话（碎片）
 date: 2025-02-01 08:20
 categories: ["梦记"]
 characters: ["Castiel"]
-tags: ["梦记", "工作", "Supernatural", "碎片", "怀孕"]
+tags: ["梦记", "工作", "Supernatural", "碎片", "怀孕", "闹钟醒"]
 pov: 第一人称视角
 origin: 个站
 ---

@@ -4,7 +4,7 @@ title: 【梦记】AL碎片；赶火车去听写（还可以）
 date: 2023-05-01 07:30
 categories: ["梦记"]
 characters: ["Aragorn", "Legolas", "Gandalf"]
-tags: ["梦记", "AL", "中土", "水", "普通故事"]
+tags: ["梦记", "AL", "中土", "水", "普通故事", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

@@ -4,7 +4,7 @@ title: 【梦记】数字密码解谜（有点喜欢）
 date: 2024-12-18 07:11
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "解谜", "数学", "密室", "通关", "普通故事", "dreamwalk"]
+tags: ["梦记", "解谜", "数学", "密室", "通关", "普通故事", "dreamwalk", "闹钟醒"]
 pov: 第一人称视角
 origin: 个站
 ---
@@ -28,4 +28,3 @@ origin: 个站
 <br>
 
 （解谜黑客破解密码：因为昨天三刷SPN又看见了Charlie第一次出场的S07E20，又跟着她想到了之前的CTF和别的密码学内容，最近工作里也经常出现encryption/decryption相关，或者因为每天日常刷的Leetcode题某种程度上也很像密码学解码题）
-

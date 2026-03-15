@@ -4,7 +4,7 @@ title: 【梦记】犹豫表白，diaper囤积（诡异惊悚，碎片）
 date: 2025-10-13 09:42
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "惊悚", "碎片", "Supernatural", "destiel", "女同"]
+tags: ["梦记", "惊悚", "碎片", "Supernatural", "destiel", "女同", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

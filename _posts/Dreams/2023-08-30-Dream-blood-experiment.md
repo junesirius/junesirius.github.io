@@ -4,7 +4,7 @@ title: 【梦记】抽血变异实验（还不错）
 date: 2023-08-30 10:20
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "血", "好故事", "dreamwalk"]
+tags: ["梦记", "血", "好故事", "dreamwalk", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

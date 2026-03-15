@@ -4,7 +4,7 @@ title: 【梦记】躲藏通缉
 date: 2020-02-01
 categories: ["梦记"]
 characters: 
-tags: ["梦记"]
+tags: ["梦记", "食物", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

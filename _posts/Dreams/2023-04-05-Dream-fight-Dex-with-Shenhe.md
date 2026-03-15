@@ -4,7 +4,7 @@ title: 【梦记】和申鹤一起打Dex
 date: 2023-04-05 09:29
 categories: ["梦记"]
 characters: ["申鹤", "Poindexter"]
-tags: ["梦记", "原神", "夜魔侠"]
+tags: ["梦记", "原神", "夜魔侠", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

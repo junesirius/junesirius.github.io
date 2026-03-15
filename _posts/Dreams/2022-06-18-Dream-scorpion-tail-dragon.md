@@ -4,7 +4,7 @@ title: 【梦记】和蝎尾宠物合体（不错）
 date: 2022-06-18 12:02
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "爱死机"]
+tags: ["梦记", "普通故事", "爱死机", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

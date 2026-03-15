@@ -4,7 +4,7 @@ title: 【梦记】Viggo（已改编）
 date: 2020-12-29
 categories: ["梦记"]
 characters: ["Viggo Mortensen"]
-tags: ["梦记", "好故事", "吻", "改编"]
+tags: ["梦记", "好故事", "吻", "改编", "自然醒"]
 pov: 第一人称视角
 origin: Lofter
 ---

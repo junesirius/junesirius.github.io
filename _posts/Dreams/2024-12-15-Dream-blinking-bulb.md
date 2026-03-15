@@ -4,7 +4,7 @@ title: 【梦记】修家里灯泡（很短感觉很真）
 date: 2024-12-15 13:23
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "碎片"]
+tags: ["梦记", "碎片", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

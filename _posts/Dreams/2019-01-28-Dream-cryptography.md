@@ -4,7 +4,7 @@ title: 【梦记】加密
 date: 2019-01-28
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "解谜"]
+tags: ["梦记", "解谜", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

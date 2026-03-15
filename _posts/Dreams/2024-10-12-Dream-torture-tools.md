@@ -4,7 +4,7 @@ title: 【梦记】折磨工具（碎片）
 date: 2024-10-12 12:30
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "血", "碎片"]
+tags: ["梦记", "血", "碎片", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

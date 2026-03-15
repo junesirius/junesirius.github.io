@@ -4,7 +4,7 @@ title: 【梦记】HP掠夺者，詹莉（喜欢）
 date: 2023-11-11 11:50
 categories: ["梦记"]
 characters: ["James Potter", "Lily Evans", "Remus Lupin", "Severus Snape", "Colin Firth"]
-tags: ["梦记", "HP", "詹莉", "亲世代", "原神", "普通故事"]
+tags: ["梦记", "HP", "詹莉", "亲世代", "原神", "普通故事", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

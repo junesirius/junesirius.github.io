@@ -4,7 +4,7 @@ title: 【梦记】酒吧看Cas和Gadreel吵架（碎片）
 date: 2024-12-20 08:43
 categories: ["梦记"]
 characters: ["Castiel", "Gadreel"]
-tags: ["梦记", "Supernatural", "碎片", "记忆"]
+tags: ["梦记", "Supernatural", "碎片", "记忆", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

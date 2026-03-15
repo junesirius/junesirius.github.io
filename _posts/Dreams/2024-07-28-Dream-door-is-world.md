@@ -4,7 +4,7 @@ title: 【梦记】出船舱即穿世界（碎片）
 date: 2024-07-28 13:00
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "碎片", "dreamwalk"]
+tags: ["梦记", "碎片", "dreamwalk", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

@@ -4,7 +4,7 @@ title: 【梦记】潘长江采访（草稿）
 date: 2023-02-18 12:17
 categories: ["梦记"]
 characters: ["Viggo Mortensen"]
-tags: ["梦记", "草稿", "政治"]
+tags: ["梦记", "草稿", "政治", "闹钟醒"]
 pov: 第一人称视角
 origin: 个站
 ---

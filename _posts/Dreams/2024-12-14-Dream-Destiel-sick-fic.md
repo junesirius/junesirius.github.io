@@ -4,7 +4,7 @@ title: 【梦记】丁卡sick fic（能代）
 date: 2024-12-14 10:50
 categories: ["梦记"]
 characters: ["Castiel", "Dean Winchester"]
-tags: ["梦记", "Supernatural", "destiel"]
+tags: ["梦记", "Supernatural", "destiel", "自然醒"]
 pov: 第一人称
 origin: 个站
 ---

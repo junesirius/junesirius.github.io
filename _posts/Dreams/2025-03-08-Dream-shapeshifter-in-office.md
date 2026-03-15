@@ -4,7 +4,7 @@ title: 【梦记】办公室对峙shapeshifter（有点喜欢）
 date: 2025-03-08 12:00
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "数学", "碎片", "Supernatural", "救世主情结", "记忆"]
+tags: ["梦记", "数学", "碎片", "Supernatural", "救世主情结", "记忆", "闹钟醒"]
 pov: 第一人称视角
 origin: 个站
 ---

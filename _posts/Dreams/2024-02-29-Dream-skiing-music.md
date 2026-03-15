@@ -4,7 +4,7 @@ title: 【梦记】滑雪场音乐摊（碎片）
 date: 2024-02-29 07:42
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "滑雪", "碎片"]
+tags: ["梦记", "滑雪", "碎片", "闹钟醒"]
 pov: 第一人称视角
 origin: 个站
 ---

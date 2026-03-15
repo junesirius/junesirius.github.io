@@ -4,7 +4,7 @@ title: 【梦记】I just want to live like a human
 date: 2021-11-25 12:05
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "平权", "好故事"]
+tags: ["梦记", "平权", "好故事", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

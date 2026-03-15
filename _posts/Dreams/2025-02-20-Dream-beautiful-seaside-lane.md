@@ -4,7 +4,7 @@ title: 【梦记】漂亮的海边小路（碎片）
 date: 2025-02-20 08:30
 categories: ["梦记"]
 characters: ["钟离"]
-tags: ["梦记", "碎片", "dreamwalk", "开车", "原神"]
+tags: ["梦记", "碎片", "dreamwalk", "开车", "原神", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

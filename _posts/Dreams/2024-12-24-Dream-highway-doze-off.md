@@ -4,7 +4,7 @@ title: 【梦记】Highway doze off（很真实感，画面感）
 date: 2024-12-24 22:10
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "dreamwalk", "真实感", "画面感"]
+tags: ["梦记", "dreamwalk", "真实感", "画面感", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

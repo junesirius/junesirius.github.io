@@ -4,7 +4,7 @@ title: 【梦记】毕业同学聚会（还不错）
 date: 2024-12-10 08:20
 categories: ["梦记"]
 characters: ["Brad Pitt", "Angelina Jolie"]
-tags: ["梦记", "记忆", "普通故事"]
+tags: ["梦记", "记忆", "普通故事", "闹钟醒"]
 pov: 第一人称视角
 origin: 个站
 ---

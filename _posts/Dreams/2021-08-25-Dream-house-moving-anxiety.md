@@ -4,7 +4,7 @@ title: 【梦记】搬家焦虑
 date: 2021-08-25 09:49
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "焦虑", "好故事", "dreamwalk"]
+tags: ["梦记", "焦虑", "好故事", "dreamwalk", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

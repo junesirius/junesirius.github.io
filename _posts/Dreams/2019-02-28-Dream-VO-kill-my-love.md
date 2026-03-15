@@ -4,7 +4,7 @@ title: 【梦记】VO杀死吾爱
 date: 2019-02-28
 categories: ["梦记"]
 characters: ["Viggo Mortensen", "Orlando Bloom"]
-tags: ["梦记", "VO", "dreamwalk"]
+tags: ["梦记", "VO", "dreamwalk", "自然醒"]
 pov: 第一人称视角
 origin: Lofter
 ---

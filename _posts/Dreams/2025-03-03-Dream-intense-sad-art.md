@@ -4,7 +4,7 @@ title: 【梦记】强烈的悲伤的艺术展（碎片但喜欢）
 date: 2025-03-03 08:20
 categories: ["梦记"]
 characters: ["Bobby Singer", "Viggo Mortensen", "三毛"]
-tags: ["梦记", "Supernatural", "悲伤", "艺术", "记忆", "疫情", "失去", "死亡", "好故事", "碎片", "童话"]
+tags: ["梦记", "Supernatural", "悲伤", "艺术", "记忆", "疫情", "失去", "死亡", "好故事", "碎片", "童话", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

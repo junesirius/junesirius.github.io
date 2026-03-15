@@ -4,7 +4,7 @@ title: 【梦记】obikin（轻松）
 date: 2023-06-01 08:43
 categories: ["梦记"]
 characters: ["Anakin Skywalker", "Obi-Wan Kenobi"]
-tags: ["梦记", "obikin", "星球大战"]
+tags: ["梦记", "obikin", "星球大战", "闹钟醒"]
 pov: 第一人称视角
 origin: 个站
 ---

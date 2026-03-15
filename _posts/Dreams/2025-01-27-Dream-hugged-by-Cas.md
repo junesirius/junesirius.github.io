@@ -4,7 +4,7 @@ title: 【梦记】被军装卡抱住（很多碎片，喜欢）
 date: 2025-01-27 04:46
 categories: ["梦记"]
 characters: ["Castiel", "Dean Winchester"]
-tags: ["梦记", "碎片", "触感", "开车", "Supernatural", "Castiel梦女", "亲密关系", "拥抱", "梦中梦", "速度恐惧", "苏丹", "改编", "西部世界"]
+tags: ["梦记", "碎片", "触感", "开车", "Supernatural", "Castiel梦女", "亲密关系", "拥抱", "梦中梦", "速度恐惧", "苏丹", "改编", "西部世界", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

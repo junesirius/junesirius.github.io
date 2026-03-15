@@ -4,7 +4,7 @@ title: 【梦记】二册，抱抱
 date: 2022-02-27 12:55
 categories: ["梦记"]
 characters: ["Reece Shearsmith", "Steve Pemberton"]
-tags: ["梦记"]
+tags: ["梦记", "自然醒"]
 pov: 第一人称视角
 origin: 个站
 ---

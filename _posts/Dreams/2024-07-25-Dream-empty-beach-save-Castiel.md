@@ -4,7 +4,7 @@ title: 【梦记】虚空海滩救Cass（喜欢）
 date: 2024-07-25 09:44
 categories: ["梦记"]
 characters: ["Sam Winchester", "Castiel", "Death"]
-tags: ["梦记", "Supernatural", "拯救", "好故事", "改编", "dreamwalk"]
+tags: ["梦记", "Supernatural", "拯救", "好故事", "改编", "dreamwalk", "自然醒"]
 pov: 第一人称
 origin: 个站
 ---

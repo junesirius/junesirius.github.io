@@ -4,7 +4,7 @@ title: 【梦记】执行任务，碟中谍风（有反转，喜欢）
 date: 2025-05-24 16:17
 categories: ["梦记"]
 characters: ["Castiel", "Dean Winchester"]
-tags: ["梦记", "Supernatural", "镇魂", "反转", "好故事", "destiel"]
+tags: ["梦记", "Supernatural", "镇魂", "反转", "好故事", "destiel", "闹钟醒"]
 pov: 第一人称
 origin: 个站
 ---

@@ -4,7 +4,7 @@ title: 【梦记】刷空间看见三次朋友动态
 date: 2023-11-09 08:15
 categories: ["梦记"]
 characters: 
-tags: ["梦记"]
+tags: ["梦记", "记忆"]
 pov: 第一人称视角
 origin: 个站
 ---
