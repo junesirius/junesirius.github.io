@@ -139,11 +139,11 @@ pedal → gas pedal
     <summary>Example for collapsibles: use this format for posting chap 1</summary>
     <p>Real content for collapsibles: posting chap 1 acts as collapsibles</p>
 </details>
-add some more foreshadowing mention about Naomi
+add some more foreshadowing mention about Naomi, that they plan to get rid of her too, not just Metatron/Crowley
 
 search "silver" and "gold", make sure angel tablet is silvery, demon tablet is golden
 
-Edit/rewrite Chap 5-10/11/12
+when posting Chap 6, post each act as "The Untold (Part One/Two/Three)" as different chapters
 
 # Draft
 
@@ -1883,7 +1883,7 @@ Why Dean doesn't like Sam/Cas touch: Sam's power/sick from demon tablet, Cas's s
 
 The idea comes to Dean when he sits back down in front of the laptop, with Cas flipping old research books on the other side.
 
-The screen shows a website that cumulated all the *Supernatural* books people managed to find over the years, some are published, some aren't. They seem to be not as complete as Metatron's book provider (it doesn't have the one Metatron seems to be able to find out about Charlie and the djinn last week), but already enough to make Dean frown at the so-called "wiki" page with knuckles pressed on his temples. He gets the link from Charlie, who is more than glad to share it and promise to dig around and hack to find if there are more that she can help.
+The screen shows a website that cumulated all the *Supernatural* books people managed to find over the years, some are published, some aren't. They seem to be not as complete as Metatron's book provider (it doesn't have the one Metatron seems to be able to find out about Charlie and the djinn last week, or the week before when Sam went to Purgatory), but already enough to make Dean frown at the so-called "wiki" page with knuckles pressed on his temples. He gets the link from Charlie, who is more than glad to share it and promise to dig around and hack to find if there are more that she can help.
 
 "I'm gonna give Chuck a call," Dean says suddenly. "Or at least find out what happened to him, how come it's suddenly Kevin's turn but the books are still coming out. I blame Chuck for turning Metatron into our number one perv fan."
 
@@ -4439,13 +4439,13 @@ Sam grins at him, almost also getting a little tearful. "Yeah, it's all real. Yo
 
 "So what's it gonna be, kid? What are you going to do?" Dean asks.
 
-Kevin thinks for a moment. "I want to go back home first. I want to find my mom."
+Kevin thinks for a moment. "I want my life back. I want to find my mom first."
 
 "I thought you said Crowley killed your mom," Dean says.
 
 "And Crowley never lies?" Kevin counters.
 
-"Good point," Dean nods.
+"Good point." Dean nods.
 
 "We can help," Sam offers.
 
@@ -4605,9 +4605,9 @@ Half an inch. The memory of the drowning water comes back, along with the memory
 
 "We just have to make more memories, then," answers Cas. His hands and wings on the back of Dean's head pull ever so slightly. Just enough to close the last half an inch, and their lips press together.
 
-Dean drowns in the waves of emotions and sensations. *It's Cas that he's kissing. It's really Cas. And it's a real kiss. No curse, no spell, no disaster. Just like he imagined, so many times, for so many years. He can finally love him so freely, kiss him the way he wants. Those lips, so dry and chapped, but also so soft and gentle, warm and passionate. And best of all, Cas is kissing back.*
+Dean drowns in the waves of emotions and sensations. *It's Cas that he's kissing. It's really Cas. And it's a real kiss. No curse, no spell, no disaster. Just like he imagined, so many times, for so many years. He can finally love him so freely, kiss him the way he wants. Those lips, so dry and chapped, but also so soft and gentle, warm and passionate. They're the best things in the world. And best of all, Cas is kissing back.*
 
-Castiel melts in the kiss, his feathers puff up all over his wings. *Dean's lips taste like true paradise, like the morning wind before the sun rises, like the starry sky when meteors fly by, like the drops of ocean that have been there since eons ago and will remain there eons later -- Dean is giving him everything. Dean is showing him the world. Dean* is *everything. He's not just a human, he's all the best things, he's the space and time, he's the universe. And how can he, a mere angel, love him enough? And best of all, Dean is loving him back.*
+Castiel melts in the kiss, his feathers puffing up all over his wings. *Dean's lips taste like true paradise, like the morning wind before the sun rises, like the starry sky when meteors fly by, like the drops of ocean that have been there since eons ago and will remain there eons later -- Dean is giving him everything. Dean is showing him the world. Dean* is *everything. He's not just a human, he's all the best things, he's the space and time, he's the universe. And how can he, a mere angel, love him enough? And best of all, Dean is loving him back.*
 
 <br>
 
@@ -4617,7 +4617,7 @@ Cas props himself up slightly, his wings draping over Dean's back. "What is it?"
 
 "So, I was thinking --" Dean starts slowly, having to look for words again, but it's not as hard as before. "Now that I really think about what I just said, all those things about feelings and love --"
 
-The muscles on Cas's shoulder start tensing again almost immediately. Dean puts his arms around him quickly, squeezing lightly. "No, no, I'm not regretting anything. I'm not taking them back. I'm just thinking, that actually really didn't sound like me. I mean, me? Talking about feelings? Having a full therapy right there? Come on. I've never done that before. Everything I said was true, sure, but don't tell me it didn't cross your mind that maybe I wasn't really myself for a sec back there."
+The muscles on Cas's shoulder start tensing again almost immediately. Dean puts his arms around him quickly, squeezing lightly. "No, no, I'm not regretting anything. I'm not taking them back -- I would never. I'm just thinking, that actually really didn't sound like me, did it? I mean, me? Talking about feelings? Having a full therapy right there? Come on. I've never done that before. Everything I said was true, sure, but don't tell me it didn't cross your mind that maybe I wasn't really myself for a sec back there."
 
 Cas squints at him, watching him closely. He asks slowly, "What are you talking about?"
 
@@ -4625,11 +4625,11 @@ Dean's hands absentmindedly strokes Cas's arms and back, and he tells the angel,
 
 "What was that?"
 
-"Me -- us -- happy." Dean says slowly, one word at a time. "Remember when I said that, Sam laughed at me for being so pessimistic and couldn't believe I never imagined him and you being all healthy and well again? It's just partially true, the whole thing is, I saw myself in there, feeling worthy and loved, and I saw all of us living a happy life -- including me. I just realized, I never imagined myself in that picture before, and apparently the tablets, with all those God's creation power in them, saw it in me, or rather, saw it missing in me, and decided it was the real deepest thing that I need, so the explosion created it for me -- for us. Maybe it didn't just fix you and Sam, it fixed my stupid ass too -- got the stick out of it, basically. And I didn't realize that until now. It really gave us the thing that we deserve. Come to think about it, the Words are the best writer."
+"Me -- us -- happy," Dean says slowly, one word at a time. Then he elaborates, "Remember when I said that, Sam laughed at me for being so pessimistic and couldn't believe I never imagined him and you being all healthy and well again? It's just partially true, the whole thing is, I saw myself in there, feeling worthy and loved, and I saw all of us living a happy life -- including me. I just realized, I never imagined myself in that picture before, and apparently the tablets, with all those God's creation power in them, saw it in me, or rather, saw it missing in me, and decided it was the real deepest thing that I need, so the explosion created it for me -- for us. Maybe it didn't just fix you and Sam, it fixed my stupid ass too -- got the stick out of it, basically. And I didn't realize that until now. It really gave us the thing that we deserve. Come to think about it, the Words are the best writer."
 
 "So you're saying, the Words wrote us a happy ending?" Cas relaxes a little, leaning into Dean's touch.
 
-"Not ending, the journey, the chance of creating a life for our own." Dean adjusts his posture, propping up a little so he can look into Cas's eyes better. "Remember Chuck's books? I just suddenly remembered that, the reason why Metatron wanted to mess up with us, is because he wanted to rewrite Chuck's books, write it the way *he* wanted to see, apparently a more awful and terrible way -- which, somehow, must involve us kissing, I would never understand a psycho writer's mind. But for once, I think I can see the point, if it has to be a story, I want our life to not be a creepy supernatural haunted horror story anymore, but a fluffy chick-flick happy story."
+"Not ending, the journey, the chance of creating a life for our own." Dean adjusts his posture, propping up a little so he can look into Cas's eyes better. "Remember Chuck's books? I just suddenly remembered that, the reason why Metatron wanted to mess up with us in the first place, is because he wanted to rewrite Chuck's books, write it the way *he* wanted to see, apparently a more awful and terrible way -- which, somehow, must involve us kissing, I would never understand a psycho writer's mind. But for once, I think I can see the point, if it has to be a story, I want our life to not be a creepy supernatural haunted horror story anymore, but a fluffy chick-flick happy story."
 
 "I thought you don't like chick-flicks." Cas points out.
 
@@ -4679,8 +4679,80 @@ Donatello's knowledge about tablet comes from Kevin's auto email and attached de
 > So actually, by reading the books, that eventually help them understand each other's thoughts better, see what one another was thinking back then more clearly, so they can use the books as references to learn more about each other's feelings/thoughts and what they missed/misunderstood and fix them.
 >
 > (coincidence: both 514 and 808 start with two lovers, one or both of them died because of the love)
+>
+> NOTE to myself: no need to follow Chap 1 format, all quote then real reaction, can be paragraphs of quotes then some reality, then some books, alternate
 
-### Act 1 "Supernatural: My Bloody Valentine" (2010) by Carver Edlund (S05E14)
+### Act 1 The Captives
+
+As promised, they start helping Kevin with the search and rescue job for his mom, after everyone catches up on some severe lack of sleep for the past few days (weeks, actually). But the researching isn't going too well.
+
+As it turns out, one can only search for missing human report for so many times, look and re-look for demon signs for so many times, and ring Crowley's number for so many times, and the King of Hell is not picking up his phone (for apparent reasons).
+
+"I got nothing," Dean sighs, rubbing his head and putting his phone down, after leaving the third voicemail for Crowley and hearing the demon's nonchalant recorded voice telling him "I'll call your back" but never did for a hundred times. "I mean, you said it yourself, Crowley said he found her and tortured her, and ultimately killed her to get to you, that's really not much to work with. For all we know, he's probably telling the truth. Why wouldn't him? He wasn't the kindest demon on Earth, especially not in the past few days or weeks, ever since he got a hand on the demon tablet, even just the half of it."
+
+"I could search Heaven and Vail for her," Cas offers. "Like I planned to do for you, when Crowley offered to bring you back."
+
+"But if I have to guess, she wouldn't be there. Crowley stashed you in Hell, maybe he'd do the same for your mom, just for his twisted idea of having fun," Dean says with a grimace.
+
+"Is that supposed to be a comfort?" Kevin raises his voice. "Isn't it more reason to find her? To save her from Crowley?! To stop the torture?!"
+
+"Are you suggesting we go to Hell to look for your mom?" Sam asks with a calm voice.
+
+Kevin doesn't answer for a moment, and when he does, his voice lowers. "I don't know. I know I can't ask this much of you. You already saved my life, gave me a second chance, but I'm not giving up on her, either. I haven't seen her body, that means she could have lived, somewhere dark and scary probably, and perhaps Crowley is still torturing her to revenge what we did to him. Maybe she's just waiting for me to find her and save her. I know she's waiting for me! I have to do this, I just have to keep looking, even if that's the last thing I do."
+
+"Kevin --" Dean sighs again. "I know how much she means for you."
+
+"She's my mother!" Kevin snaps. "Is this really so hard to understand? What would you do for your mom? Would you ever stop searching if there's even the smallest chance that she's still alive? Or she's in Hell and you have a chance of saving her?"
+
+"He has a point, Dean," Sam agrees reasonably.
+
+Dean swallows, sharing a concerned look with his brother. "Alright," he murmurs, resigned. "But seriously, at least we need a direction, otherwise we're just banging our heads on a wall and it's not going anywhere. I'm not saying we shouldn't look, but I'm not risking any of our lives --" he gives a quick look around the room, eyes landing on Sam and Cas specifically, "-- to go to Hell if we didn't have enough reason to believe she *is* there."
+
+"If only we knew exactly what happened, what day it happened, and what Crowley did," Cas says thoughtfully.
+
+"If only there's a live recording of everything, like a journal of our life." Dean's eyes widen. "You're a genius, Cas," he yells, grabbing his laptop and starts typing.
+
+Cas watches him curiously. "What did I do?"
+
+Sam and Kevin crowd in to see what Dean is typing.
+
+He types in the link Charlie sent him a few days ago, clicking open the infamous webpage that he had sworn he would never open again -- the online fan-made page that had all the latest collections of the published and unpublished *Supernatural* books.
+
+Sam lets out a loud groan. "You gotta be kidding me."
+
+"We need some write-up for what happened in our lives, right?" Dean waves at the screen. "We have them right here. Remember back in the day, it's Becky -- your crazy fan, by the way, Sam, you remember her? -- who told us it's Crowley that got the Colt, because she read the books word by word, and that helped us track down Crowley and the Colt. I mean, I know it's a pain in the ass someone was writing our lives, but what if there's something good in it too? What if it also wrote down some information we really could use and help us for once? Worth a shot, don't you think?" He looks around at the others.
+
+Sam shrugs slightly. "It's a long shot, but guess you're right. Best lead we got at the moment anyway, before Crowley answers your call -- which I very much doubt he would; maybe he's really keeping his words this time, we hurt his feelings so much that he doesn't want to see us for another two hundred years. We'll have to find out this one on our own."
+
+"Alright then," Dean writes down the link for Sam and Kevin, both of who start scrolling the pages on their own laptops. There are more than a hundred books now according to that website, it's going to take a while.
+
+"I don't own a laptop," Cas says, frowning, watching the other three all starting to work on the new task.
+
+"I can use another pair of eyes," Dean offers, scooting over a little so that Cas can sit next to him, looking at the same screen.
+
+They can't find any useful information in the books that are created in the year 2013. The last one listed there is titled *"Freaks and Geeks"* about those kids getting trained be hunters. It doesn't even have the book about the time when Kevin got captured and tortured by Crowley.
+
+"Maybe "
+
+
+
+#### draft notes
+
+why did they start looking at those books again? ~~Charlie/Crowley send some?~~ how did they suddenly ready to read again?
+
+~~Valentines day prank gift/nostalgia?~~ where did they find the copies? the online versions or physical books? ~~run into that old cupid again? the 514 cupid is the dead cupid Gil's friend and invite Cas to mourn her?~~
+
+Reading the books as research to help find Mrs. Tran and accidentally binge-reading => Find the entry in the past about Crowley keeping the mistress of a powerful Congressman (Candy was the kept woman of a powerful Congressman. Gossip blog said he worshiped the ground she walked on, literally. He, uh -- had a foot fetish. Crowley's human leverage) => search, find the storage
+
+Location: Wichita, Kansas, 3 hours from Lebanon
+
+How would they find out Crowley also had the books and read the books?
+
+###### [TBC]
+
+<br>
+
+### Act 2 "Supernatural: My Bloody Valentine" (2010) by Carver Edlund (S05E14)
 
 
 
@@ -4704,11 +4776,17 @@ Donatello's knowledge about tablet comes from Kevin's auto email and attached de
 >
 > After finish reading, Dean gets hungry and they get nostalgic, so Dean/Cas go to diner, have meal together, order burger, have fun easy time together, joke about each other's flavors
 
-### Act 2 "Supernatural: Hunteri Heroici" (2012) by Carver Edlund (S08E08)
+<br>
+
+### Act 3 "Supernatural: Hunteri Heroici" (2012) by Carver Edlund (S08E08)
+
+
 
 
 
 #### draft notes
+
+start with watching anime and start nostalgia?
 
 > 808 anime episode: fake quote from the book, rewriting the anime episode funny scenes, Cas watched TV: "I see now, it's hilarious", their talk, Cas: "If I see what I did in Heaven, I'm afraid I'll kill myself" Current Dean reads past Cas's thought, his memory of Heaven, his guilt, the real suicidal ideation, the devastation. Dean has to hug him tight, hold on to him, talk through things using real words. Dean admits past him wanted to talk more at the time if not interrupted by Sam. Cas appreciates the comfort.
 >
