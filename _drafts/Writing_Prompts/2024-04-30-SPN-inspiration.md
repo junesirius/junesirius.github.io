@@ -1723,6 +1723,8 @@ How does Gabe hide all from baby angel? prevent from being run into? embarrassed
 
 (might be a cute little kid-raising story, gabstiel pairing but no slash)
 
+（≈ prompt 402）
+
 ### 169.【all】S09E20 Godfather monster-version
 
 Chicago, five monster families start gang fighting
@@ -2584,7 +2586,7 @@ one version is Neil Gaiman style, the marriage proposal story, reading the junk 
 
 different version is two living far apart and received junk mail but thought it's real, angst, mutual pining
 
-### 250.【Gabe】《You need better friends》
+### **250.【Gabe】《You need better friends》**
 
 Gabe/Loki, Gabe/Rowena, Gabe/Kali, Gabe&Luci
 
@@ -2598,7 +2600,7 @@ Dean: "You need better friends" Gabe: "I'm protecting the ones I have" (reuse th
 
 (30min Gabe collection clip: https://www.youtube.com/watch?v=3E6DdhOkU3s)
 
-### **250.5【Gabe/Loki】wear your face**（R级）
+### **250.5【Gabe/Loki】wear your face**（R级）【WIP】
 
 title potential: 《The faces we wear》(reuse), 《In the mirror》《Wear Your Face》
 
@@ -4945,6 +4947,8 @@ we need one kid in this show that can grow up *with* a mother
 私设head canon Gabe是把Cas带大的archangel，Bal跟Cas过去关系好又在同一个garrison
 
 Gabe和Bal要给Cas做天使性启蒙，让Cas在场看他俩doi来学习，想让Cas学习了解（可能3p，可能卡脸红过于羞涩纯情所以只是旁观，可能是503之后卡去问了Gabe所以出现的教育时间）
+
+（≈ prompt 168）
 
 ### 403.【Anna/Abaddon】S04 rewrite: 亲吻（R级？）（F/F）
 
