@@ -19,7 +19,7 @@ published: false
 
 [TOC]
 
-# Main
+# Draft
 
 ## Outline
 
@@ -145,7 +145,7 @@ search "silver" and "gold", make sure angel tablet is silvery, demon tablet is g
 
 when posting Chap 6, post each act as "The Untold (Part One/Two/Three)" as different chapters
 
-# Draft
+# Main
 
 ## Chap 1 The Book
 
@@ -2119,7 +2119,7 @@ Metatron cuts off her hand and throws it into the same interdimensional pocket w
 
 <br>
 
-### Act 3 The Curse
+### Act 3 The Kiss
 
 Dean scrolls the web pages, clicking the "next" button at the end of the search engine result over and over again, flipping the pages through. His eyes are sour from staring at the screen light for this long, but he pushes on. It's been three days, and they haven't found anything useful to bring Crowley or Metatron together, or any close to find where they are.
 
@@ -2871,7 +2871,7 @@ Cas gives a small bitter smile. "It doesn't matter. I don't matter. I'm a human 
 
 Donatello rolls his eyes. "So what? I've been a human all my life."
 
-Cas shakes his head. "It's different. You're important, and very helpful. Unlike me." He glances at the clock on the wall and starts moving toward the garage's direction now. "Please, just, make it work." 
+Cas shakes his head. "It's different. You're important, and very helpful. Unlike me." He glances at the clock on the wall and starts moving toward the garage's direction now. "Please, just, make it work."
 
 Donatello looks at the angel's back, quietly shaking his head.
 
@@ -4688,7 +4688,7 @@ As promised, they start helping Kevin with the search and rescue job for his mom
 
 As it turns out, one can only search for missing human report for so many times, look and re-look for demon signs for so many times, and ring Crowley's number for so many times, and the King of Hell is not picking up his phone (for apparent reasons).
 
-"I got nothing," Dean sighs, rubbing his head and putting his phone down, after leaving the third voicemail for Crowley and hearing the demon's nonchalant recorded voice telling him "I'll call your back" but never did for a hundred times. "I mean, you said it yourself, Crowley said he found her and tortured her, and ultimately killed her to get to you, that's really not much to work with. For all we know, he's probably telling the truth. Why wouldn't him? He wasn't the kindest demon on Earth, especially not in the past few days or weeks, ever since he got a hand on the demon tablet, even just the half of it."
+"I got nothing," Dean sighs, rubbing his head and putting his phone down, after leaving the fifth voicemail for Crowley and hearing the demon's nonchalant recorded voice telling him "I'll call your back" but never did for the hundredth times. "I mean, you said it yourself, Crowley said he found her and tortured her, and ultimately killed her to get to you, that's really not much to work with. For all we know, he's probably telling the truth. Why wouldn't him? He wasn't the kindest demon on Earth, especially not in the past few months, ever since he got a hand on the demon tablet, even just the half of it."
 
 "I could search Heaven and Vail for her," Cas offers. "Like I planned to do for you, when Crowley offered to bring you back."
 
@@ -4698,19 +4698,19 @@ As it turns out, one can only search for missing human report for so many times,
 
 "Are you suggesting we go to Hell to look for your mom?" Sam asks with a calm voice.
 
-Kevin doesn't answer for a moment, and when he does, his voice lowers. "I don't know. I know I can't ask this much of you. You already saved my life, gave me a second chance, but I'm not giving up on her, either. I haven't seen her body, that means she could have lived, somewhere dark and scary probably, and perhaps Crowley is still torturing her to revenge what we did to him. Maybe she's just waiting for me to find her and save her. I know she's waiting for me! I have to do this, I just have to keep looking, even if that's the last thing I do."
+Kevin doesn't answer for a moment, and when he does, his voice lowers. "I don't know. I know I can't ask this much of you. You guys already saved my life, gave me a second chance, and I couldn't thank you enough, but I'm not giving up on her, either. I haven't seen her body, that means she could have lived, somewhere dark and scary probably, and perhaps Crowley is still using her to revenge what we did to him. Maybe she's just waiting for me to find her and save her. I know she's waiting for me! I have to do this, I just have to keep looking, even if that's the last thing I do."
 
 "Kevin --" Dean sighs again. "I know how much she means for you."
 
-"She's my mother!" Kevin snaps. "Is this really so hard to understand? What would you do for your mom? Would you ever stop searching if there's even the smallest chance that she's still alive? Or she's in Hell and you have a chance of saving her?"
+"She's my mother!" Kevin snaps. "Is this really so hard to understand? What would you do for your mom? Would you ever stop searching if there's even the smallest chance that she's still out there, alive? Or she's in Hell and you have a chance of saving her?"
 
 "He has a point, Dean," Sam agrees reasonably.
 
-Dean swallows, sharing a concerned look with his brother. "Alright," he murmurs, resigned. "But seriously, at least we need a direction, otherwise we're just banging our heads on a wall and it's not going anywhere. I'm not saying we shouldn't look, but I'm not risking any of our lives --" he gives a quick look around the room, eyes landing on Sam and Cas specifically, "-- to go to Hell if we didn't have enough reason to believe she *is* there."
+Dean swallows, sharing a concerned look with his brother. "Alright," he murmurs, resigned. "But seriously, at least we need a direction, otherwise we're just banging our heads on a wall and it's not going anywhere. I'm not saying we shouldn't look, but I'm not risking any of our lives --" he gives a quick look around the room, eyes landing on Sam and Cas specifically, "-- to go to Hell if we don't have enough reason to believe she *is* there."
 
 "If only we knew exactly what happened, what day it happened, and what Crowley did," Cas says thoughtfully.
 
-"If only there's a live recording of everything, like a journal of our life." Dean's eyes widen. "You're a genius, Cas," he yells, grabbing his laptop and starts typing.
+"If only there's a live recording of everything, like a journal of our life." Dean follows his train of thought, and then his eyes widen. "You're a genius, Cas," he yells, grabbing his laptop and starts typing rapidly.
 
 Cas watches him curiously. "What did I do?"
 
