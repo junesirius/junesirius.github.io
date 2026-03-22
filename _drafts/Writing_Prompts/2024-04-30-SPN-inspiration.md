@@ -5707,4 +5707,8 @@ Other interesting astrophysics (check facts when using):
 - Fomalhaut Dust Cloud: aftermath of two giant plants colliding, the debris cloud expanded over years like a slow-motion planetary explosion
 - Cosmic Web: the universe on the largest scale form filaments and nodes like a spider web across the universe, between them are vast voids almost completely empty
 
-### 462.
+### 462.【Dean/Cas/Benny/Garth】S08E09-10 what if Sam called Garth to check Benny, and Sam/Amelia, Dean/Benny relationship can all get fixed
+
+What if 809-810 goes differently: instead of asking crazy Martin to look over at Benny, Sam asked Garth. So now Garth can vouch for Benny, help Sam understand, help Dean/Sam reconcile, could reason with all of them about what each of them really want and not always so codependent, help them make better decision about what to do with Amelia (for Sam) and Benny (for Dean). And then Dean's there before Cas kill Samandrial, Cas break control there, Samandriel is saved, Sam goes back to Amelia (and bring Amelia into fighting together later), Dean goes to Benny (Cas flies him), three (four? including Garth) of them start fighting Naomi together, then somehow get separated, jealousy/angst macho fighting between Cas/Benny for Dean (threeway? Benny/Garth somewhere), Dean blame Benny for Cas gone, Cas get blamed for something related to Benny then Dean snapped and he flies away, run into bad angels/trouble (? Samandriel with them?) Dean goes to Sam for help: "Cas went to a hunting trip and haven't been back for two weeks"/"Cas went missing", Sam hesitate, Amelia encourage and go together with
+
+### 463.
