@@ -15,7 +15,7 @@ published: false
 
 **Warning:** Graphic Depictions of Violence
 
-**Rating:** Teen and Up
+**Rating:** General
 
 [TOC]
 
@@ -97,11 +97,31 @@ Dean didn't breathe until he realized the angel disappeared without saying goodb
 
 *Well, that hell of a speech might be the hottest threat he'd ever heard.* He thought absently, replaying the view in his head over again, especially those eyes, that nose, that shadow and light on his face, and those lips. *He's so damned.*
 
+### Excerpt (250 words)
+
+Dean swallowed again, his tongue darting out to wet his lips. He could feel his insides cringing under the skin, trying to shrink smaller under the angel's gaze, but there was nowhere to hide. The angel was staring at him, eyes on his every single move, cornering him, caging him. Everywhere Dean looked, the space was occupied by the angel -- everywhere.
+
+Castiel leaned in even closer, his lips ghosting inches away from Dean. His tone was murderous, deadly, but Dean's mind already fell blank. It was impossible to focus on the world-saving crisis in moments like this, when the angel was just so, so close. He tried to avert his eyes but failed utterly. His eyes broke free of his mind's control, only focusing on the parts that were the sole things that he could still see. Their skin could touch if his body just ever so slightly swung a degree forward.
+
+The thought steamed Dean's brain, making his mind and eyes all dizzy and foggy, and hot.
+
+Two inches. That was the distance between the angel's lips and his neck. There were barely two inches. That was all Dean could think about.
+
+Dean didn't breathe until he realized the angel had disappeared without saying goodbye. He blinked then. Slowly. As if his whole body was just slowly thawing.
+
+*Well, that hell of a speech might be the hottest threat he'd ever heard.* He thought absently, replaying the view in his head over again, especially those eyes, that nose, that shadow and light on his face, and those lips. *He's so damned.*
+
 ## Arts
 
 ### Banner
 
+<p align="center"><a href="https://www.tumblr.com/daffodilsonaprettystring/812483609315377152" target="_blank"><img src="https://64.media.tumblr.com/d15fbae5c3808f47afba50b660001425/53f1c813ddf4670b-1b/s2048x3072/dc9e5f4c20e71e2efe1e068731e012f3f157237b.pnj" alt="Banner art on a dark blue starry background, on the right side is the profile of Castiel looking up, blue-white like of grace flowing out of his mouth; on the left side is the title 'I Swear On Castiel's Name', written by June Sirius, Art by daffodilsonaprettystring" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></a></p>
+
 ### Art
+
+<p align="center"><img src="https://64.media.tumblr.com/8a3188954bf7d7370d64c52ee0848e7a/53f1c813ddf4670b-05/s2048x3072/00dffcb4af84f350499519eb7cd3a4d42e522ab5.pnj" alt="Under a dark blue starry sky, Dean lies horizontally under the water, eyes closed; Castiel cradles his face, very worried and upset, his eyes glowing blue-white, grace flowing out of him" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></p>
+
+<p align="center"><img src="https://64.media.tumblr.com/c8eb6743208f6ee1935ba89ea21f22cd/53f1c813ddf4670b-6a/s2048x3072/54eeac3e1a7ce7c1ab2a6513a3b83262fe57277e.pnj" alt="Against a dim background, Castiel has his wings out, wrapping around Dean; under his wings, his hands hug around Dean's waist, his eyes closed. Dean touches his face gently, his eyes full of emotion" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></p>
 
 ## Editing Notes
 
@@ -2064,6 +2084,8 @@ The secretary demon rushes down the corridor and runs into a patrolling guard de
 "Yeah, that's what I'm worried about," the secretary demon sighs. But she still moves on to look for the other demon tablet as she's ordered -- not like she has any choice.
 
 <br>
+<hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
+<br>
 
 Castiel isn't the only angel noticing that the giant letters near the dead prophets aren't for humans.
 
@@ -2119,7 +2141,7 @@ Metatron cuts off her hand and throws it into the same interdimensional pocket w
 
 <br>
 
-### Act 3 The Kiss
+### Act 3 The Curse of the Kiss
 
 Dean scrolls the web pages, clicking the "next" button at the end of the search engine result over and over again, flipping the pages through. His eyes are sour from staring at the screen light for this long, but he pushes on. It's been three days, and they haven't found anything useful to bring Crowley or Metatron together, or any close to find where they are.
 
