@@ -5711,4 +5711,33 @@ Other interesting astrophysics (check facts when using):
 
 What if 809-810 goes differently: instead of asking crazy Martin to look over at Benny, Sam asked Garth. So now Garth can vouch for Benny, help Sam understand, help Dean/Sam reconcile, could reason with all of them about what each of them really want and not always so codependent, help them make better decision about what to do with Amelia (for Sam) and Benny (for Dean). And then Dean's there before Cas kill Samandrial, Cas break control there, Samandriel is saved, Sam goes back to Amelia (and bring Amelia into fighting together later), Dean goes to Benny (Cas flies him), three (four? including Garth) of them start fighting Naomi together, then somehow get separated, jealousy/angst macho fighting between Cas/Benny for Dean (threeway? Benny/Garth somewhere), Dean blame Benny for Cas gone, Cas get blamed for something related to Benny then Dean snapped and he flies away, run into bad angels/trouble (? Samandriel with them?) Dean goes to Sam for help: "Cas went to a hunting trip and haven't been back for two weeks"/"Cas went missing", Sam hesitate, Amelia encourage and go together with
 
-### 463.
+### 463.【destiel】miscommunication because of word etymology of "friend" and "love"
+
+(inspiration: [tumblr post](https://www.tumblr.com/junesirius/812775533333135360))
+
+Because last time Cas walking the Earth was two thousand years ago (not counting 1901), many words have changed meanings since then; what if he still understands the modern words in their ancient meanings? Say, "friend", means "lover", in the old times, seriously.
+
+The etymology of word "friend" comes from Old English "frēond" (which literally means, "lover"; ref: [wiktionary: friend](https://en.wiktionary.org/wiki/friend), and [etymonline: friend](https://www.etymonline.com/word/friend)), and from Proto-Germanic "frijōndz" ("loved one"), and in Ancient Greek "Philoi" ("friend", and especially the type of friendship is based on the characteristically Greek value for *reciprocity*, as opposed to a friendship that exists as an end to itself; ref: [wiki: *philos*](https://en.wikipedia.org/wiki/Philoi), and [*wiki: philía*](https://en.wikipedia.org/wiki/Philia)).
+
+So actually, when Dean tells Cas, "you're my best friend," from Cas's understanding of the Old English and Ancient Greek meaning of the word "friend", he hears "lover".
+
+(Actually the inspiration comes from both the art above and recently finished reading NorthernSparrow's "Under The Midnight Sun" where when Dean asked Cas, "Are you gay?" and Cas took the old meaning of "gay" and thought he was asking if he was cheerful and carefree.)
+
+
+
+**Addendum:** six different words for "love" in ancient Greek
+
+Similarly, maybe Cas would have trouble understanding the word "love" as well, because it's just one word in English, but in ancient Greek two thousand years ago, there were at least six different words to describe different aspects of love, but nowadays they're all just "love".
+
+So maybe there will also be a scenario when Dean (post S15, or from the unmodified script version of S08E17) finally says, "I love you", there will be a conversation from Cas about: "Which love are you talking about? Is it *philía*, or *érōs*, or *agápē*, or something else?" And it would take a while for Dean to figure them out and explain. (# Canon-typical miscommunication)
+
+So for Dean's convenience, here are the six translations of love in ancient Greek (ref: [wiki](https://en.wikipedia.org/wiki/Greek_words_for_love)):
+
+- *agápē*: affection, as in "greet with affection" and "show affection for the dead". In a Christian context, it means "love: especially unconditional love, charity; the love of God for person and of person for God". *(Dean: "I'm not sure about the 'affection for the dead' part.")*
+- *érōs*: "love, mostly of the sexual passion". The Modern Greek word "*erotas*" means "intimate love". Plato: Although *eros* is initially felt for a person, with contemplation it becomes an appreciation of the beauty within that person, or and may ultimately transcend particulars to become an appreciation of beauty itself, hence the concept of platonic love to mean "without physical attraction". *(Dean: "This one! And let's forget about Plato for a minute here.")*
+- *philía*: "affectionate regard, friendship", usually "between equals". It is a dispassionate virtuous love. Aristotle: loyalty to friends ("brotherly love"), family, and community; requires virtue, equality, and familiarity. *(Cas: "I believed this might be the one you were most likely referring to?" Dean: "In the beginning, maybe? You're definitely still my best friend and it won't ever change, and yeah all in for the affectionate and loyalty and that, but definitely not 'dispassionate', believe me, I'm very passionate.")*
+- *storgē*: "love, affection" and "especially of parents and children". Almost exclusively to describe family relationships. *(Dean: "Nope, no need to know the rest of this one. Definitely not parent-children situation here.")*
+- *philautía*: "self-love", to love oneself or "proper regard for and attention to one's own happiness or well-being". Aristotle: it's the root of a general kind of love for family, friends, the enjoyment of an activity, as well as that between lovers. *(Dean: "I don't know much about philosophers, but maybe Aristotle here is making some solid points." Cas: "I met him. He's indeed very wise and has many good advice." Author here breaking the fourth wall: They both definitely need more of this love, attention to their own happiness and well-being instead of jumping into pits for each other all the time...)*
+- *xenía*: hospitality, "guest-friendship", or "ritualized friendship". *(Dean: "Think we can skip this one too.")*
+
+### 464.
