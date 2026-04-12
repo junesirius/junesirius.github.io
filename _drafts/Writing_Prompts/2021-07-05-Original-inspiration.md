@@ -96,6 +96,8 @@ Time Turner是我的Mr. Turner小铁匠
 
 ### 11. 生活在时间罅隙里的人
 
+（2021-07-07）
+
 （罅隙/夹缝？）
 
 这些罅隙都是别人掉落的时间，被他们捡去，生活在其中
@@ -105,6 +107,8 @@ Time Turner是我的Mr. Turner小铁匠
 （可参考《星际穿越》？）
 
 ### 12. 长篇小说形式灵感
+
+（2021-09-27）
 
 （灵感来自《路西法》S04孪生子、《西部世界》克隆人）
 
@@ -126,6 +130,8 @@ Time Turner是我的Mr. Turner小铁匠
 
 ### 15.《Flight that takes off second Sunday of March at two thirty AM》
 
+（2025-03-10）
+
 尼尔盖曼风格
 
 a plane takes off at a time that doesn't exist, goes to an era can't be found, e.g. 庞贝，亚特兰大，玛雅，time (& place) that is hidden from the world -> the places are still there but we think they don't, bc they're not in the time we know （像初中澹那本时间的小说）
@@ -138,6 +144,8 @@ hidden在这个time gap之后的是time travel/time flux的入口？可以直接
 
 ### 16.Soul Injector
 
+（2025-07-28）
+
 Having to work with AI, the machine doesn't have soul, adding human creativities and sparks into the story is like injecting soul into those lifeless things
 
 Imagine a job is literally "soul injector", human creator/artist/writer/people with actual creativity to inject their soul into machine/AI, give them life/thoughts/conscious/soul
@@ -147,6 +155,8 @@ Imagine a job is literally "soul injector", human creator/artist/writer/people w
 they're like god, giving machine real soul
 
 ### 17. AI storyteller游戏想法+小说设定
+
+（2025-09-18）
 
 make a game engine purely powered from audio-based story-telling AI
 
@@ -168,10 +178,24 @@ Could write a novel story based on this setting? player gets dragged into the st
 
 ### 18.毛绒玩具get life from emotion
 
+（2025-11-07）
+
 （来自自己，感觉很多人已经写过/拍过这个了）
 
 抱着睡的毛绒玩具因为被倾注了太多的感情（attachment, loneliness, fondness, fantasy, imagination/replacement for non-existed lover/partner, longing, autism, etc.）而变活了（但是因为情感太丰富/复杂而进入angst, hurt/comfort, pining状态？）
 
 （我的毛绒抱枕是猫猫，猫猫可以handle这些feeling？抱枕变成真猫猫/小猫妖/有人形的小猫妖？就像罗小黑）
 
-### 19.
+### 19. Martian scientist on Earth
+
+（2026-04-11）
+
+（mostly inspired by [TED talk](https://www.ted.com/talks/nagin_cox_what_time_is_it_on_mars) "What time is it on Mars"，also inspired by:《The Martian》（火星救援），《Project Hail Mary》 ）
+
+Martian day long is 24h 40m, 40 minutes longer than Earth time, Martian scientist works Martian hour even when they're on Earth, making their living schedule fall off sync with rest of Earth. (more details in the TED talk), they might get up at odd hours, go out to restaurants at odd hours, being seen weird by the rest of the world. their family's hours fall out of sync with them, or if they align, they fall out of sync with rest of Earth too
+
+a story with those out-of-sync Martian scientists, sci-fi maybe, real Martian living among Earthian or Earth's Martian scientist working with real Martians, or something happening during those out of sync hours
+
+no clear idea yet, mostly toying the idea of something about their out of sync living schedule
+
+### 20.
