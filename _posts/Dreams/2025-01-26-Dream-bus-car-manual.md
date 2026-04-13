@@ -4,7 +4,7 @@ title: 【梦记】公交回家，看汽车说明书（碎片）
 date: 2025-01-26 10:00
 categories: ["梦记"]
 characters: ["Baby"]
-tags: ["梦记", "碎片"]
+tags: ["梦记", "碎片", "普通故事"]
 pov: 第一人称视角
 origin: 个站
 ---

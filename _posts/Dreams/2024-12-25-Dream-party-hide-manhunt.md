@@ -4,7 +4,7 @@ title: 【梦记】同学会躲警方追捕（碎片，还行）
 date: 2024-12-25 13:30
 categories: ["梦记"]
 characters: ["沈巍", "Castiel"]
-tags: ["梦记", "追杀", "逃亡", "Supernatural", "镇魂", "碎片", "记忆"]
+tags: ["梦记", "追杀", "逃亡", "Supernatural", "镇魂", "碎片", "记忆", "好故事"]
 pov: 第一人称视角
 origin: 个站
 ---

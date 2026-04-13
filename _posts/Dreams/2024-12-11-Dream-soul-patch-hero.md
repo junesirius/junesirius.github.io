@@ -4,7 +4,7 @@ title: 【梦记】灵魂碎片复活牺牲的英雄（可以改编）
 date: 2024-12-11 07:40
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "碎片", "改编"]
+tags: ["梦记", "碎片", "改编", "Supernatural"]
 pov: 第一人称视角
 origin: 个站
 ---

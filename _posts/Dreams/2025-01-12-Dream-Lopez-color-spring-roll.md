@@ -4,7 +4,7 @@ title: 【梦记】不是女巫的Lopez，红绿灯调色，做越南脍卷（�
 date: 2025-01-12 14:59
 categories: ["梦记"]
 characters: ["Ella Lopez", "Dean Winchester"]
-tags: ["梦记", "Supernatural", "路西法", "触感", "碎片", "工作", "改编", "食物", "自然醒"]
+tags: ["梦记", "Supernatural", "路西法", "触感", "碎片", "工作", "改编", "食物", "自然醒", "好故事"]
 pov: 第一人称视角
 origin: 个站
 ---
