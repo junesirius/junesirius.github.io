@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【日志】SDRA one-shot：Wild West and supernatural creatures
+title: 【SDRA】Cypher System（Wild West and supernatural creatures）
 date: 2026-02-28
 categories: ["原创"]
 characters: 
-tags: ["日志", "RPG", "待扩充"]
+tags: ["日志", "RPG", "Supernatural", "西部", "待扩充"]
 pov: 第一人称视角
 origin: 个站
 ---
