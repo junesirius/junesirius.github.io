@@ -128,6 +128,8 @@ The doctor rounds to his side of the table, speculating on the cut he just made,
 
 #### Banner
 
+<p align="center"><a href="tumblr.com" target="_blank"><img src="https://64.media.tumblr.com/c40c4a24a2389579f337d603f60175aa/5c57449ddfc6d565-ca/s2048x3072/074d4e5643988a701f268edaa22051de3c8583ce.pnj" alt="On the bloody red background, Dean with black demon eyes holds a sharp scalpel, grinning. Cas is dishevelled, looking in his direction. The title is 'Heaven Sent, Hell Bent', by JuneSirius, illustration by Fryology" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></a></p>
+
 #### Art
 
 ### Editing Notes
