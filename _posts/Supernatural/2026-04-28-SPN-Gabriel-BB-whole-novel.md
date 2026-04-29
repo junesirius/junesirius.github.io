@@ -12,7 +12,7 @@ published: false
 
 Tags: Canon Divergent, End of S07 timeline, Brotherhood, Take Care of Each Other, Healing, Childhood Trauma, This one is too close to me, Trigger warning if you have a tough upbringing too, Broken/Crazy Castiel, Broken Gabriel, My poor baby angels, Angel Wings, Minor Dean/Castiel if you squint
 
-Rate: General
+Rating: General
 
 Warning: Graphic Depictions of Violence
 
@@ -50,21 +50,29 @@ Cas wants to protect himself from the conflict by distracting himself with games
 
 ### outline
 
-(Cas POV? switch POV?)
+(mainly Cas POV)
 
-Cas flies away from conflict, 
+End of S07 before finale, Crazy!Cas flies away from conflict (after being scolded), runs into Asmodeus, saves Gabriel. Gabriel knows exactly why Cas is so afraid of conflicts now, all from childhood trauma, "what you call Armageddon I call Sunday dinner." Gabriel takes care of crazy!Cas, heal him, comfort him; Cas takes care of wounded Gabriel. The two get out of there together and ready to go back to fight the S07 canon main plot.
 
 ### claim
+
+#### claim summary
 
 S07 during Crazy!Cas time, Cas flies away from conflict and accidentally runs into Asmodeus and finds out Gabe is still alive and captured in Hell. Crazy!Cas saves Gabe, who after two years of being tortured and losing his grace is in a bad shape but not as bad as canon S13. Cas takes care of Gabe and heals him from the minor crazy state, and Gabe takes care of crazy Cas.
 
 The two of them would talk during their mutual healing, Gabe knows exactly why Cas, after becoming broken, is so scared of conflict. The brokenness shows a person's biggest fear, for Sam it's Lucifer, for Cas it's the long-buried childhood trauma that he thought he's grown over with but never really did. Gabe knows "what you call Armageddon I can Sunday dinner", there was a lot of conflict and fight back then, and at that time Cas was just a baby angel and he was always scared and tried to distract himself with toys or running away, which is exactly what he's been doing now.
 
-Gabe knows him and tries his best to comfort him (and heal himself too). When Dean finds them, Gabe gives him the talk to help him understand, and then all of them go back to fight against Leviathan together and converge back to canon.
-
-#### claim summary
+Gabe knows him and tries his best to comfort him (and heal himself too). When they're ready to go back to Dean and others, Gabe prepares to give him the talk to help him understand Cas better, and then all of them will go back to fight against Leviathan together and converge back to canon.
 
 #### claim visual
+
+Cas lays his hands over a very wounded Gabe to heal him
+
+Gabe wing-hugs a crying Cas
+
+The two of them both have wings spread, ready to fly
+
+The two of them fight with Asmodeus
 
 ### posting
 
