@@ -320,7 +320,7 @@ Cas怎么在昏迷中用尽力气才把自己灵魂拼起来，至少可以醒�
 
 需要找到新的coping mechanism
 
-### **27.【gabstiel/destiel/Cas】S07E21/23 为什么破碎的Cas这么害怕争执《Sunday Dinner》**
+### ~~**27.【gabstiel/destiel/Cas】S07E21/23 为什么破碎的Cas这么害怕争执《Sunday Dinner》**【done】~~
 
 《Sunday Dinner》
 
@@ -330,7 +330,7 @@ Cas逃避争执不知道能做什么的时候就用游戏来平静自己内心�
 
 （see more in S07E21-23观后感）
 
-### **27.5【gabstiel】疯卡救被Asmodeus关起来的Gabe，Gabe照看疯卡**
+### ~~**27.5【gabstiel】疯卡救被Asmodeus关起来的Gabe，Gabe照看疯卡**【done】~~
 
 S07E22 一个人飞走的疯卡感应到了Gabe还活着，找到地狱里Asmodeus的监狱，这时候Gabe刚被折磨两年，还不算特别糟。疯卡找到办法救他出来，照顾Gabe从微疯状态回来，Gabe照看疯卡，互相care
 
