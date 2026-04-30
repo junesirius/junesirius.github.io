@@ -4,7 +4,7 @@ title: 【SPN】Princess Leia and a Twenty-Sided Die
 date: twenty25-07-21 23:08
 categories: ["SPN"]
 characters: ["Charlie Bradbury"]
-tags: ["Supernatural", "女同", "性", "漫展", "星球大战"]
+tags: ["Supernatural", "女同", "性", "漫展", "星球大战", "cosplay"]
 pov: 第三人称
 origin: AO3
 ---

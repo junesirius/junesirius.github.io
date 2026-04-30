@@ -10,13 +10,13 @@ origin: Gabriel Mini Bang 2026
 published: false
 ---
 
-Tags: Canon Divergent, End of S07 timeline, Brotherhood, Take Care of Each Other, Healing, Childhood Trauma, This one is too close to me, Trigger warning if you have a tough upbringing too, Broken/Crazy Castiel, Broken Gabriel, My poor baby angels, Angel Wings, Minor Dean/Castiel if you squint
+**Tags:** Canon Divergent, End of S07 timeline, Brotherhood, Take Care of Each Other, Healing, Childhood Trauma, This one is too close to me, Trigger warning if you have a tough upbringing too, Broken/Crazy Castiel, Broken Gabriel, My poor baby angels, Angel Wings, Minor Dean/Castiel if you squint
 
-Rating: General
+**Rating:** General
 
-Warning: Graphic Depictions of Violence
+**Warning:** Graphic Depictions of Violence
 
-Paring: Gabriel & Castiel
+**Paring:** Gabriel & Castiel
 
 [TOC]
 
@@ -250,7 +250,7 @@ The other cherubs started ducking down and hiding away, crying and scrambling ar
 
 He crouched down under the table, curled up by the corner, covering his ears and closing his eyes. He tried to count numbers, but he could still hear the fights and yells all so clearly. More plates were sent flying, crashing into the walls, more broken shards scattering around. The chairs were used as weapons, the furniture -- there weren't many of them to begin with -- were knocked over. No one remembered this was a dinner, and no one had any appetite anyway.
 
-*One day I'll get away from this.* He remembered thinking, when he counted to a thousand and his heart still beat as fast as a dying sparrow. He focused on the thought, seeking what little warm and hope that thought gave him. *One day when I can fly, I'll fly as far away from this and all of them as possible.*
+*One day I'll get away from this.* He remembered thinking, when he counted to a thousand and his heart still beat as fast as a hummingbird. He focused on the thought, seeking what little warm and hope that thought gave him. *One day when I can fly, I'll fly as far away from this and all of them as possible.*
 
 "So that's why you flew away, so far away you ended up here, found me," croaks the hoarse voice.
 
