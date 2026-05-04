@@ -132,6 +132,8 @@ The doctor rounds to his side of the table, speculating on the cut he just made,
 
 #### Art
 
+<p align="center"><img src="https://64.media.tumblr.com/7f84d81dfb8130b62dd300b3e9957a4c/53f1c813ddf4670b-2f/s1280x1920/e6aca3aad35e432f84a62c1ccb1ace98d482e2b4.pnj" alt="On a bloody red background, left side is Demon Dean tying Cas on the operation table and ready to operate on him; right side is Cas having his mouth wide open and screaming in pain, blood and grace flowing out of him. Illustrated by fryology" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></p>
+
 ### Editing Notes
 
 all chapters post into one-shot
