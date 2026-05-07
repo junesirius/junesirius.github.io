@@ -5740,4 +5740,10 @@ So for Dean's convenience, here are the six translations of love in ancient Gree
 - *philautía*: "self-love", to love oneself or "proper regard for and attention to one's own happiness or well-being". Aristotle: it's the root of a general kind of love for family, friends, the enjoyment of an activity, as well as that between lovers. *(Dean: "I don't know much about philosophers, but maybe Aristotle here is making some solid points." Cas: "I met him. He's indeed very wise and has many good advice." Author here breaking the fourth wall: They both definitely need more of this love, attention to their own happiness and well-being instead of jumping into pits for each other all the time...)*
 - *xenía*: hospitality, "guest-friendship", or "ritualized friendship". *(Dean: "Think we can skip this one too.")*
 
-### 464.
+### 464.【destiel】kissing scenes
+
+(guilty pleasure): destiel AI kiss blog https://www.tumblr.com/ldobbsworld
+
+has many direct canon scene to start with and turn into gentle kisses, use them as inspiration to write kissing scene
+
+### 465.
