@@ -5794,6 +5794,8 @@ A thousand miles past missing you
 
 (small snippet probably)
 
+(not crossover technically, more like movie-review type normal life snippet)
+
 destiel watch *Project Hail Mary* together, Dean gets reminded of Cas is also alien like Rocky, wonders why would Cas even have human name, is that actually just a translation like a man-made nickname, his real name sounds nothing like it in his language (Enochian and true voice), ask Cas to speak his name in his language and really want to learn to say it (like Rocky's real name in that very lyrical song-like Eridian language)
 
 Dean gets reminded of how unaccustomed Cas is to human habits and consider them weird, while Dean thinks Cas's behaviors are weird
