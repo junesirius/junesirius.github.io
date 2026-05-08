@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【原创】人类观察日记（26）Stranger Help at Car Crash
+title: 【原创】人类观察日记（27）Stranger Help at Car Crash
 date: 2026-05-02 14:12
 categories: ["原创"]
 characters: 
