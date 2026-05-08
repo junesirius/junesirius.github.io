@@ -5746,4 +5746,48 @@ So for Dean's convenience, here are the six translations of love in ancient Gree
 
 has many direct canon scene to start with and turn into gentle kisses, use them as inspiration to write kissing scene
 
-### 465.
+### 465.【destiel】《Sleepless in a hotel room》（Lyrics）
+
+(by Luke Combs) (country music)
+
+I can hear the lonely howling out my window
+
+I can feel the whiskey not doing a thing
+
+2 in the morning, TV's on and
+
+I've never felt so far from home
+
+I can hear the lonely howling out my window
+
+
+
+The morning light can't come too soon
+
+Lying here not next to you
+
+Wide awake, I dream of you
+
+Sleepless in a hotel room
+
+
+
+I wonder if you're staring at our bedroom ceiling
+
+Lying right beside a glass of wine
+
+I wonder if you're tossing, turning
+
+Wishing you were kissing me
+
+Staring at our bedroom ceiling
+
+
+
+All four walls are painted blue
+
+Sleepless in a hotel room
+
+A thousand miles past missing you
+
+### 466.
