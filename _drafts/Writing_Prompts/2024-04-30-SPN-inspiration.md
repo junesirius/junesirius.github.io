@@ -5790,4 +5790,18 @@ Sleepless in a hotel room
 
 A thousand miles past missing you
 
-### 466.
+### 466.【destiel】watch "Project Hail Mary" together
+
+(small snippet probably)
+
+destiel watch *Project Hail Mary* together, Dean gets reminded of Cas is also alien like Rocky, wonders why would Cas even have human name, is that actually just a translation like a man-made nickname, his real name sounds nothing like it in his language (Enochian and true voice), ask Cas to speak his name in his language and really want to learn to say it (like Rocky's real name in that very lyrical song-like Eridian language)
+
+Dean gets reminded of how unaccustomed Cas is to human habits and consider them weird, while Dean thinks Cas's behaviors are weird
+
+get proud and comforted that human-alien can have pure deep friendship like Rocky and Grace, gives him confidence that his relationship with Cas can be just like that
+
+think deeply about the ending, thinking about home, home is people not place, Cas is his home now; wonder if it's him, if he can abandon Earth and choose Cas, he might choose responsibility and leave Cas to die and feel guilty, Cas: "You already saved me"
+
+reveal it's post-1518 and Cas is back and saved and they're just having a normal S16 day
+
+### 467.
