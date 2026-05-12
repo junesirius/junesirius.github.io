@@ -231,4 +231,46 @@ maybe instead of only one of them have memory, make it all of them have memory o
 
 how to really fix it?
 
-### 23.
+### 23.【Stranger Things】No one left behind
+
+S05 near finale, canon divergent
+
+going through their plan, every plot point needs perfect timing, too easy to have someone left behind
+
+must-have dilemma (at every point: when leaving the Abyss, leaving the Upside-Down): if there's someone left behind (likely Eleven), do they close the door (because of the dangers and risks caused by military and Henry) or wait until the last one comes through
+
+Would they risk the world for one person?
+
+(Of course they would)
+
+### 24.【Stranger Things】S05 fix-it: fake ending is from Kali/Henry's induced illusion
+
+S05E08 canon divergent from about one hour before ending: Kali fake death (ever since Kali's shot, they're already in Kali's induced illusion; maybe not even with her consciousness, she's in coma because of the wound and dying, and her power is triggered to protect/save her and pull everyone into her created illusion that covers everyone in the world; or because Kali is in Upside-Down and when this dying leash of power gets enhanced by the dying Upside-Down and devours the Rightside-Up, therefore the whole world is covered by her illusion), or when Joyce decapitated Vecna (maybe she didn't actually, the whole decapitation scene is a whole big illusion Vecna created to pull all of them in to save himself, the biggest he's ever done, the largest illusion ever that covers the whole world and longest time period)
+
+graduation ceremony has to be fake good ending, too classically fake good, the color is too bright and yellow and forced happy
+
+(we don't leave family behind, we don't "accept" (from Hopper's talk to Mike), we get El back)
+
+It's like 15th Doctor Who's season with Belinda, it's not a happy ending if there's even just one person missing. Even if everything else looks right, it's not right to leave her behind. That's the only way Doctor can break that extra layer of fake world and get to the real one where Belinda is alive. Maybe the world doesn't have the perfect ending like they wished in the second last layer, but it's worth the risk just to get everyone home.
+
+After the graduation scene, everyone's rubbing the corner of their eyes, it's too obvious a sign of being mind controlled. Corner of eye is the lobotomy entry point. (Castiel's mind control is executed from corner of his eyes, Sister Mage lobotomizes herself through corner of her eyes too in The Boys S04.) So they have to be mind controlled, this have to be a fake good ending, they have to wake up at some point.
+
+The four bigger kids discussing their future plans and meetups and remain friends even after they all have their different futures, and meeting up in Philly, it's almost convincing, but it can't be real. It just can't. It just isn't right.
+
+The whole image color palette about the fake future is too yellow and too bright, just like the lighting and color palette when those 12 kids were in Henry's old house illusion. And when the bigger kids and everyone went up to Abyss, to Vecna's current house, there are 12 of them too (give or take). So maybe that's still only a small amount of people's illusion, just the 12 of them and imagine the rest of the world, but covers all our heroes so it feels real enough.
+
+Pretty damn sure somewhere in the middle it has become Kali or Henry's illusion world, just doesn't know where exactly.
+
+Breaking this one last layer of illusion has to rely on Mike now, because so far he's the only one still not going to let El go. Maybe Hopper's talk to ask him to move on and let go is also part of the illusion's effort. The illusion needs to stabilize itself, making sure no one realizes it's an illusion and no one tries to break it, and the easiest way is to let the convinced ones to stabilize the hesitant ones. And right now Mike is the only danger element to the illusion, so it needs to use all the resources (all those others) to convince him. But as long as his love and confidence to El is strong enough, as long as he doesn't give up trying to save El, bring El back, then they're not lost yet.
+
+The ending we saw has to be fake good ending. Max told Holly when they were trapped inside Henry's mind that there're three paths: kill yourself, accept the fate, and escape. But when Hopper has the talk with Mike, he only mentioned two paths: let the hole consume you, or accept the fate. But we don't accept, we fight, we have happy ending with El in it! Mike has to realize it's illusion and fake good ending. Even the fake alternative version he tells the rest of them, the "El goes to the place with three waterfalls" is a part of the "accept", because of the loopholes, El couldn't possibly use the power to talk to him when the power suppression machines were on, so she shouldn't even be able to walk and hide and escape; Mike shouldn't even be able to know about the wounded Kali, the distance between where Kali is dying and the gate is way too far for Kali's power to work in normal situation, let alone when she's hurt; and how can El possibly not tell anyone if she's alive, she knows how painful Hopper has always been about losing her daughter, and he's forced to witness losing a daughter again right before his eyes, and Mike's pain of losing her, those pain can't be healed or covered by any other kind of love, the wound would forever be there. It's just Mike's way of convincing himself to not go save El, to stay and accept the reality, but it's not the right way.
+
+It's as unsatisfying fake good ending as gelphie and destiel, which means: FIX-IT!!
+
+(also pretty much every single pair needs fix: except Lucas/Max, Hopper/Joyce, all other ships BE-ed, Jonathan/Nancy, Steve/Nancy, Will/Mike, Mike/Eleven.)
+
+(also, for five seasons, ten years of effort, everyone tried so hard to teach those two abused girls about them being worthy of love, deserve to be loved, at the end of the day, they still think their blood is bad and something they can't change, and the only solution is to die, so they don't deserve the good things and don't deserve to live. It just totally defeated everything everyone tried so hard for so many years.)
+
+AND, the loophole, there's not even any mention of what happened to the military or Dr. K or the rest of that bad government project.
+
+### 25.
