@@ -243,6 +243,8 @@ Would they risk the world for one person?
 
 (Of course they would)
 
+(see more in \_posts/Films/2026-02-16-Stranger-things-05-01\_08.md)
+
 ### 24.【Stranger Things】S05 fix-it: fake ending is from Kali/Henry's induced illusion
 
 S05E08 canon divergent from about one hour before ending: Kali fake death (ever since Kali's shot, they're already in Kali's induced illusion; maybe not even with her consciousness, she's in coma because of the wound and dying, and her power is triggered to protect/save her and pull everyone into her created illusion that covers everyone in the world; or because Kali is in Upside-Down and when this dying leash of power gets enhanced by the dying Upside-Down and devours the Rightside-Up, therefore the whole world is covered by her illusion), or when Joyce decapitated Vecna (maybe she didn't actually, the whole decapitation scene is a whole big illusion Vecna created to pull all of them in to save himself, the biggest he's ever done, the largest illusion ever that covers the whole world and longest time period)
@@ -273,4 +275,46 @@ It's as unsatisfying fake good ending as gelphie and destiel, which means: FIX-I
 
 AND, the loophole, there's not even any mention of what happened to the military or Dr. K or the rest of that bad government project.
 
-### 25.
+(see more in \_posts/Films/2026-02-16-Stranger-things-05-01\_08.md)
+
+### 25.【Puck/Loki】S02E08 canon divergent: husband-husband raising the child Daniel
+
+Puck is definitely in love with Loki canonically (S02E08) and even "accidentally" confessed to the Loki-disguised Morpheus. And the reason he gives why he loves Loki:
+
+> Because he's clever. And he makes me laugh. Well, I don't know about you, but I get a bit lonely being the smartest person in every room, so it's nice having someone who forces you to raise your game.
+
+and the interesting flirting that Loki uses to test if he's really in love:
+
+> Loki: I can't believe you fell for that. Or that you were so nice about me. You're not in love with me, are you?
+>
+> Puck: Not at the moment, no.
+>
+> Loki: Well, let's go home and see if I can change your mind about that.
+
+"You're not in love with you, are you?" and "Not at the moment, no", oh sweet jeez, the romantic spark and tension. Yes he is, of course Puck has already fell, isn't "not at the moment" enough of a confession? He's so deep into Loki already but he's also still Robin Goodfellow the faerie, as much as he's mischievous, he's not evil. And Puck is so torn apart now by Loki's charm and bordering evil. It's so beautiful (and painful for him).
+
+(see more in \_posts/DC/2025-12-18-Sandman-02-08.md)
+
+### **26.【Puck/Loki, Puck/Corinthian】jealous Loki, new Corinthian**
+
+(love triangle, angst, hurt/comfort)
+
+Puck tries to get together with Corinthian because he's pissed at Loki, trying to make Loki jealous or something, which, surprise to Loki, actually worked.
+
+And maybe that's even how Corinthian got reminded of his predecessor, and becomes closer to the first Corinthian and torn apart and relearn himself.
+
+And that's probably how Loki and Puck get back together and Corinthian becomes a better (worse), more complete self.
+
+(see more in \_posts/DC/2025-12-18-Sandman-02-09.md)
+
+### 27.【Puck/Loki/Corinthian】breakup curve
+
+Right after Puck breaks up with Loki and plans to go back to Faeries, Loki gets captured (after fighting and losing to Corinthian), and Puck doesn't know any of that.
+
+I wonder what Puck would think about if he's just trying to be pissed for a bit but come back only to find Loki is gone and forever imprisoned and they'd never get any chance to fix it again.
+
+Sweet sweet hurt/comfort whump angst and very likely not happy ending for them.
+
+(see more in \_posts/DC/2025-12-18-Sandman-02-09.md)
+
+### 28.
