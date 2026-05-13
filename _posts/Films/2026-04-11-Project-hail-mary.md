@@ -116,3 +116,81 @@ Just learned that from wiki, that Andy initially self-published *Project Hail Ma
 Probably the very only thing I'm really unhappy about this film, is not the film's fault at all -- its Chinese title translation. But knowing that translated title first before knowing its original title, almost ruined it for me. The very unappealing translation made it sound so boring and old weary Hollywood movie, which it's totally the opposite way. They could have done so much better.
 
 It would be so easy to just make a direct translation, but they (the distributors) just disappointingly have to choose the most unattractive and cliche and copied-from-old-success-examples one. That's definitely from someone in the business side, instead of creative side. The entertainment industry needs both sides, but it's almost always the business side endangering the creative works. Always.
+
+<br>
+
+### PS: The song "Two of Us"
+
+The very very beautiful and emotional song with the lyrics "We're going home" when Grace turns back to go to Rocky, is The Beatles' "Two of Us".
+
+The lyrics is as follows:
+
+> Two of us riding nowhere
+>
+> Spending someone's hard-earned pay
+>
+> You and me Sunday driving
+>
+> Not arriving on our way back home
+>
+> <br>
+>
+> We're on our way home
+>
+> We're on our way home
+>
+> We're going home
+>
+> <br>
+>
+> Two of us sending postcards
+>
+> Writing letters on my wall
+>
+> You and me burning matches
+>
+> Lifting latches on our way back home
+>
+> <br>
+>
+> We're on our way home
+>
+> We're on our way home
+>
+> We're going home
+>
+> <br>
+>
+> You and I have memories
+>
+> Longer than the road that stretches out ahead
+>
+> <br>
+>
+> Two of us wearing raincoats
+>
+> Standing solo in the sun
+>
+> You and me chasing paper
+>
+> Getting nowhere on our way back home
+>
+> <br>
+>
+> We're on our way home
+>
+> We're on our way home
+>
+> We're going home
+>
+> <br>
+>
+> We're going home
+>
+> <br>
+>
+> Better believe it
+>
+> Goodbye
+
+There is no better song more fitting or more beautiful or more epic than this one. It's perfect.
