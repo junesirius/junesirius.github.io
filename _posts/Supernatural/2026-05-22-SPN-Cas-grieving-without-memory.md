@@ -9,7 +9,7 @@ pov: 第三人称
 origin: Tumblr
 ---
 
-Cas stands at the edge of Heaven, looking down. Stars are falling. He watches them. Falling from underneath, from Earth, to Heaven. He knows those are souls, ascending.
+Castiel stands at the edge of Heaven, looking down. Stars are falling. He watches them. Falling from underneath, from Earth, to Heaven. He knows those are souls, ascending.
 
 He doesn't know when Balthazar stands next to him, watching him watch the stars. "Humans die," he states the simplest fact. "They are humans, you know, they do that a lot."
 
