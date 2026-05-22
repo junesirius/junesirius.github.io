@@ -3810,6 +3810,12 @@ In between the saving, because Jack would do what he thinks is the right thing t
 
 (≈ prompt 276, 377)
 
+### 327.5【destiel】Empty's deal with Jack is to remove Cas's memory of Dean
+
+so on top of everything in 327, Jack also has to remove Cas's memory of Dean when he saves him from Empty
+
+so now it's even more difficult for them (Dean and Cas) to fix things, Cas has to remember or get his memory back, Dean has to realize things were wrong, everyone save everyone
+
 ### 328.【destiel】S04E02 "I dragged you out of Hell. I can throw you back in."
 
 S4 timeline, when Dean is being too defiant, Heaven orders Cas to throw Dean back in to Hell, just to torture him more, to teach him lessons, to force him to listen to Heaven and be a good vessel
