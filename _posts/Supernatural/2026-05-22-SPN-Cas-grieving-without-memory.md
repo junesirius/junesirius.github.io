@@ -35,9 +35,9 @@ Balthazar swallows.
 
 Balthazar sighs. "Dean Winchester," he answers bitterly.
 
-Castiel continues staring at him. Still confused and sad. There is a turbulence twisting in his gut now. "Did I know him?" He hears himself asking. That sorrow feeling inside his chest is growing stronger. That powerful sense of loss, the sense of grieving that he didn't understand when he was watching the stars. Now he think, it's starting to make sense. Something is lost, and he's lost them before the stars -- the man named Dean -- falling.
+Castiel continues staring at him. Still confused and sad. There is a turbulence twisting in his gut now. "Did I know him?" He hears himself asking. That sorrowful feeling inside his chest is growing stronger. That powerful sense of loss, the sense of grieving that he didn't understand when he was watching the stars. Now he thinks, it's starting to make sense. Something is lost, and he's lost them before the stars -- the man named Dean -- falling.
 
-"Balthazar, please, answer me, do I know him?" Castiel doesn't plead, but it's the closest thing he's speaking.
+"Balthazar, please, answer me, do I know him?" Castiel doesn't plead, but it's a close thing.
 
 "Yes," Balthazar answers, not looking at him. He pinches the bridge of his nose, as if this can make the conversation easier. "As far as I know, yes, very much."
 
@@ -49,7 +49,7 @@ Balthazar turns sharply. "Yes, everything's fine. Nothing to worry about, dear G
 
 "Please, Balthazar, I told you no need to use that word, I'm still just Jack." The boy says kindly.
 
-"Of course, Jack." Balthazar answers smoothly, glancing at the other angel who seems to be not paying any attention to the arrival of their God.
+"Of course, Jack," Balthazar answers smoothly, glancing at the other angel who seems not to be paying any attention to the arrival of their God.
 
 "Right," he makes a deliberate sound, glancing between the two of them. "Guess I'll just see myself out."
 
@@ -65,7 +65,7 @@ Jack walks slowly to Castiel. "Cas," he calls him quietly.
 
 Jack hesitates. "You were, but you spent a lot of time on Earth."
 
-"Who was him to me?" Castiel asks, voice in pain. He doesn't remember anything about that name, or that man, or any life before seeing Jack, before staying in Heaven days and nights watching the Earth, but he's feeling the pain growing as if pain has a life of its own, living in his heart.
+"Who was he to me?" Castiel asks, voice in pain. He doesn't remember anything about that name, or that man, or any life before seeing Jack, before staying in Heaven days and nights watching the Earth, but he's feeling the pain growing as if pain has a life of its own, living in his heart.
 
 Jack thinks for a long time. "He is my dad, as are you, Castiel."
 
@@ -73,8 +73,8 @@ Castiel turns to him, looking into him. The young God stands there, looking noth
 
 There are too many questions, Castiel doesn't even know which one to start with. So he just stands there, feeling the hole of pain growing in his chest, devouring the part that's making him feel pain and sorrow, and so much emptiness and loss. He's grieving, he realizes, for a man he doesn't even know he knew.
 
-"Jack, tell me." Castiel whispers. Now this is a plead.
+"Jack, tell me," Castiel whispers. Now this is a plea.
 
 The pain in Jack's eyes is no less than his own. "There was a price to pay to save you, and I had to pay it. That's all I can say. I'm sorry, Cas. Please forgive me." That price was too high, but he couldn't even tell anyone, not to Cas, not to Dean. He couldn't tell him he made a deal with Empty, he couldn't tell him God's power was no use in the Empty and that deal was his only chance to save Cas's life. It cost his power and soul, and it cost Cas's memory, but that's the only way, so he did it. Empty knew he would do anything to save Cas, just like he knew Dean would, but this time, he decided to do it for him. Maybe this is better, Jack had thought. Maybe that way, all of them can finally have peace, Dean will finally find peace in Heaven, and Cas can enjoy the quiet peaceful life here too.
 
-But looking at Cas's eyes, as that brightest star falls, Jack realizes, the feeling of loss and grief doesn't need memory. Castiel can apparently still feel it, feel the loss, feel Dean's life leaving him and it pains him so much. It is only then does Jack realize, maybe he has made a mistake...
+But looking at Cas's eyes, as that brightest star falls, as light dims in his too, Jack realizes, the feeling of loss and grief doesn't need memory. Castiel can apparently still feel it, feel the loss, feel Dean's life leaving him and it pains him so much. It is only then does Jack realize, maybe he has made a mistake...
