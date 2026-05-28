@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】S01E18 What if 6-year-old Sam was killed by the Shtriga that night
+title: 【Destiel】S01E18 What if 6-year-old Sam was killed by the Shtriga that night（大纲文）
 date: 2026-05-28 00:58
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Sam Winchester", "John Winchester"]
