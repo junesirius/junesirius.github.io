@@ -10,7 +10,7 @@ origin: Gabriel Mini Bang 2026
 published: false
 ---
 
-**Tags:** Canon Divergent, End of S07 timeline, Brotherhood, Take Care of Each Other, Healing, Childhood Trauma, This one is too close to me, Trigger warning if you have a tough upbringing too, Broken/Crazy Castiel, Broken Gabriel, My poor baby angels, Angel Wings, Minor Dean/Castiel if you squint
+**Tags:** Canon Divergent, End of S07 timeline, Angel Brotherhood, Take Care of Each Other, Healing, Childhood Trauma, This one is too close to me, Trigger warning if you have a tough upbringing too, Crazy Castiel, Tortured Gabriel, My poor baby angels, Angel Wings, Minor Dean/Castiel if you squint
 
 **Rating:** General
 
@@ -58,11 +58,11 @@ End of S07 before finale, Crazy!Cas flies away from conflict (after being scolde
 
 #### claim summary
 
-S07 during Crazy!Cas time, Cas flies away from conflict and accidentally runs into Asmodeus and finds out Gabe is still alive and captured in Hell. Crazy!Cas saves Gabe, who after two years of being tortured and losing his grace is in a bad shape but not as bad as canon S13. Cas takes care of Gabe and heals him from the minor crazy state, and Gabe takes care of crazy Cas.
+S07 during Crazy!Cas time, Cas flies away from conflict and accidentally runs into Asmodeus and finds out Gabe is still alive and captured in Hell. Crazy!Cas saves Gabe, who, after two years of being tortured and losing his grace, is in bad shape but not as bad as canon S13. Cas takes care of Gabe and heals him from the minor crazy state, and Gabe takes care of crazy Cas.
 
-The two of them would talk during their mutual healing, Gabe knows exactly why Cas, after becoming broken, is so scared of conflict. The brokenness shows a person's biggest fear, for Sam it's Lucifer, for Cas it's the long-buried childhood trauma that he thought he's grown over with but never really did. Gabe knows "what you call Armageddon I can Sunday dinner", there was a lot of conflict and fight back then, and at that time Cas was just a baby angel and he was always scared and tried to distract himself with toys or running away, which is exactly what he's been doing now.
+The two of them would talk during their mutual healing. Gabe knows exactly why Cas, after becoming broken, is so scared of conflict. The brokenness shows a person's biggest fear, for Sam it's Lucifer, for Cas it's the long-buried childhood trauma that he thought he'd grown over but never really did. Gabe knows "what you call Armageddon, I can Sunday dinner." There was a lot of conflict and fighting back then, and at that time Cas was just a baby angel and he was always scared and tried to distract himself with toys or running away, which is exactly what he's been doing now.
 
-Gabe knows him and tries his best to comfort him (and heal himself too). When they're ready to go back to Dean and others, Gabe prepares to give him the talk to help him understand Cas better, and then all of them will go back to fight against Leviathan together and converge back to canon.
+Gabe knows him and tries his best to comfort him (and heal himself too), being the big brother Cas needs at. When they're ready to go back to Dean and others, Gabe prepares to give Dean the talk to help him understand Cas better, and then all of them will go back to fight against Leviathan and saving the world together, so converge back to canon and potential hopeful ending.
 
 #### claim visual
 
@@ -85,6 +85,10 @@ The two of them fight with Asmodeus
 #### Banner
 
 #### Art
+
+### Edit Notes
+
+Change ending? The very ending words feel weird.
 
 ## Main
 
