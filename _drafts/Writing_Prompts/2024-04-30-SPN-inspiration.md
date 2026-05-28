@@ -5812,9 +5812,11 @@ think deeply about the ending, thinking about home, home is people not place, Ca
 
 reveal it's post-1518 and Cas is back and saved and they're just having a normal S16 day
 
-### **467.【Dean/destiel】S01E18 What if young Sam was killed by Shtriga that night when he was 6 and Dean was out**
+### 467.【Dean/destiel】S01E18 What if young Sam was killed by Shtriga that night when he was 6 and Dean was out (long draft outline)
 
-(long canon divergent since 16 years ago, rewrite S01-S05, very likely gonna piss most reader off, piss both destiel fans and Sam's fans off, will write Sam really badly but also write a lot of Dean/Sam/John interaction, but still wind back to destiel, but not very pure destiel because of how important Sam is now to this story, so will have to write a lot of Sam and write him really evil way)
+【status: posted the outline to tumblr】
+
+(long canon divergent since 16 years ago, rewrite S01-S15, very likely gonna piss most reader off, piss both destiel fans and Sam's fans off, will write Sam really badly but also write a lot of Dean/Sam/John interaction, but still wind back to destiel, but not very pure destiel because of how important Sam is now to this story, so will have to write a lot of Sam and write him really evil way)
 
 What if Dean and John didn't come back in time before Shtriga kill/eat young Sam (16 years ago, Dean was 10 years old, Sam was 6 years old)?
 
