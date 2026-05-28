@@ -21,7 +21,7 @@ stories that don't recede when I open my eyes in this world
 
 <br>
 
-My brain is rushing, dashing, spinning
+My brain is rushing, racing, dashing, spinning
 
 too many voices, too many ideas, too many people running around,
 
@@ -33,13 +33,15 @@ like the writer from *A Tale of Graceful Ends*
 
 too many of them, ideas, stories
 
+I suffer from them,
+
 but I'm not complaining
 
 I wouldn't want a single thing to change
 
-My best treasure is my curse
+My best talent is my curse
 
-killing me when I don't allow them come out
+killing me when I don't allow them to come out
 
 leaking out from the edge of my brain
 
@@ -49,6 +51,8 @@ and I welcome them sweetly
 
 My brilliant brilliant brain
 
+The well of the ideas is overflowing, flooding
+
 my stories
 
 my worlds and my life in them
@@ -57,8 +61,8 @@ I let them devour me, take over my brain and my fingers and my body,
 
 eventually my life
 
-flow out freely as if they have life of their own
+flow out freely as if they have lives of their own
 
-as if my life from other world take over this life of mine
+as if my life from other worlds take over this life of mine
 
 and I'm not going to complain for a single second
