@@ -3,7 +3,7 @@ layout: post
 title: 【梦记】悼念爱车（重要，悲伤）
 date: 2026-05-18 10:20
 categories: ["梦记"]
-characters: 
+characters: ["Baby"]
 tags: ["梦记", "好故事", "自然醒", "悲伤", "开车", "情感", "date", "哭", "哀悼"]
 pov: 第一人称视角
 origin: 个站

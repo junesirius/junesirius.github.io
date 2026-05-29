@@ -3,8 +3,8 @@ layout: post
 title: 【Destiel】Grieving without memory
 date: 2026-05-22 00:22
 categories: ["SPN"]
-characters: ["Castiel", "Dean Winchester", "Jack Kline", "Balthazar"]
-tags: ["Supernatural", "destiel", "英文"]
+characters: ["Castiel", "Dean Winchester", "Jack Kline", "Balthazar", "Baby"]
+tags: ["Supernatural", "destiel", "英文", "情感", "哀悼"]
 pov: 第三人称
 origin: Tumblr
 ---

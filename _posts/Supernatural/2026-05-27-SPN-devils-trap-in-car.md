@@ -3,7 +3,7 @@ layout: post
 title: 【SPN】Made a Devil's Trap for my Baby
 date: 2026-05-27 15:51
 categories: ["SPN"]
-characters: ["Dean Winchester"]
+characters: ["Dean Winchester", "Baby"]
 tags: ["Supernatural", "英文"]
 pov: 第三人称
 origin: Tumblr
