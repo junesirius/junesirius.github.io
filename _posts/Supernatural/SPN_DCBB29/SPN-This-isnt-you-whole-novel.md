@@ -6,7 +6,7 @@ categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
 tags: ["Supernatural", "destiel", "英文", "天启卡"]
 pov: 第三人称
-origin: 2026 DCBB
+origin: 2029 DCBB
 published: false
 ---
 

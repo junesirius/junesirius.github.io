@@ -6,7 +6,7 @@ categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Jack Kline", "Bobby Singer"]
 tags: ["Supernatural", "destiel", "英文"]
 pov: 第三人称
-origin: 2025 Castiel Big Bang
+origin: 2027 DCBB
 long_novels: 【Destiel】The Father, The Son, and The Holy Spirit
 ---
 

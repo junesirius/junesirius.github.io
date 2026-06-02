@@ -6,7 +6,7 @@ categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Bobby Singer", "Jody Mills", "Sam Winchester"]
 tags: ["Supernatural", "destiel", "英文"]
 pov: 第三人称
-origin: 2025 DeanCas Horrorfest
+origin: 2026 DCBB
 published: false
 ---
 
@@ -547,6 +547,8 @@ at crime scene, town folks crowded & gossiping
 > fruitless, all go home, exchange info
 
 #### draft notes
+
+###### [TBC]
 
 ### Chap 4: Day Four
 

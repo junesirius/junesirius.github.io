@@ -6,7 +6,7 @@ categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Michael"]
 tags: ["Supernatural", "destiel", "英文", "黑化"]
 pov: 第三人称
-origin: 2026 SPN Angels & Demons Bang
+origin: 2028 DCBB
 long_novels: 【Destiel】Stairway to Heaven, Highway to Hell
 ---
 
