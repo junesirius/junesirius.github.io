@@ -5856,4 +5856,24 @@ At some point Chuck will have to intervene and move things forward faster (and i
 
 so basically the point is, of all the people fighting/hating/hurting/healing, Dean's the most human and loving person, and he lets everyone see the love and free will and how human way can work, that include making Cas choose human (him), making Sam turning back to human side, making Michael/Lucifer/Gabriel not destroy the world, making Chuck not destroy the world (or they find a way to kill Chuck). And maybe rewind the time to 1989 at that night when Sam was 6 and Dean was 10, Chuck make Dean goes back in earlier and John saves Sam from Shtriga, so Sam didn't die that night. And fully converge back to canon, John was so scared as if he's already lost Sam, Dean's so scared too and almost feel as if he has the hallucination of the whole alternate life where Sam died at that moment and everything went so wrong, but quickly not remembering that. John blamed him hard and Dean thinks he deserves it. John demands him to protect Sam with his life and never let him get harmed, and Dean follows the order for the rest of his life without knowing the alternative. He still feel the whole lot of loss because he doesn't remember Cas and he felt he lost something important, but then S04 timeline Cas comes to him again for the first time, and Dean feels familiar and actually smiles. Instead of the blade to the heart, Dean goes to hug him, Cas doesn't really remember but surprised, asks Dean why he did that, Dean can't explain, just think it's his gut telling him to do that, hugging him like he just found the other half of his life.
 
-### 468.
+### 468.【destiel】S15E09 something about forgive
+
+> Cas: You couldn't forgive me. And you couldn't move on. You were too angry.
+
+> Dean: I hope you can hear me... that wherever you are, it's not too late. I should've stopped you. You're my best friend, but I just let you. 'Cause it was easier than admitting I was wrong.
+>
+> I don't know why I get so angry. I just know - I know that it's - it's just always been there. And when things go bad, it just - it comes out. And I can't - I can't stop it. No matter how - how bad I want to, I just can't stop it. And - And I - I forgive you. Of course I forgive you. I'm sorry it took me so long - I'm sorry it took me till now to say it. Cas, I'm - I'm so sorry. Man, I hope you can hear me.
+
+(From 《[Grey](https://archiveofourown.org/works/978693)》 and myself)
+
+just realize how difficult it really is to truly forgive, emotionally forgive is way harder than reasonably forgive. the reasonable mind is easy to say "I forgive you", but emotionally can still be too hurt and too much pain to really forgive or be close again
+
+And the anger is a facade, a self-protection to not wanting to feel hurt, to feel vulnerable. If anger can keep yourself not thinking about how painful you were when you were hurt, when you were wronged, how powerless and vulnerable you were at those moments when you find it too difficult to forgive, then anger makes you feel powerful and safe, and so you would just so comfortably resort to anger as your handling mechanism. Anger might not always show up or be expressed the same way, some show it as violence, some might just show as distant estrangement, a silent treatment, a cold war. Anger in all forms is your way of finding the power you didn't have then but you could use now and punishing the others for the harm they caused. Even though sometimes it might not be their fault, but as long as you can find the one to blame and make yourself stay angry, then even if it's something out of control, it might just start to feel like you're in control again.
+
+Dean intuitively resorts to anger, because it's too painful to admit he's powerless and vulnerable, that he's hurt. Just the same as "not talking about feelings," it's his way of self-protection.
+
+(start understanding Dean's anger from some very first-hand recent experience, 《Grey》that I recently just finished reading also has some really good description and storyline about forgive)
+
+really need to write a story about forgive
+
+### 469.
