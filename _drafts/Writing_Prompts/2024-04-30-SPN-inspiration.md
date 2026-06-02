@@ -5866,7 +5866,7 @@ so basically the point is, of all the people fighting/hating/hurting/healing, De
 
 (From 《[Grey](https://archiveofourown.org/works/978693)》 and myself)
 
-just realize how difficult it really is to truly forgive, emotionally forgive is way harder than reasonably forgive. the reasonable mind is easy to say "I forgive you", but emotionally can still be too hurt and too much pain to really forgive or be close again
+just realize how difficult it really is to truly forgive, emotionally forgiving is way harder than reasonably forgiving. The reasonable mind is easy to say "I forgive you", but emotionally can still be too hurt and too much pain to really forgive or be close again
 
 And the anger is a facade, a self-protection to not wanting to feel hurt, to feel vulnerable. If anger can keep yourself not thinking about how painful you were when you were hurt, when you were wronged, how powerless and vulnerable you were at those moments when you find it too difficult to forgive, then anger makes you feel powerful and safe, and so you would just so comfortably resort to anger as your handling mechanism. Anger might not always show up or be expressed the same way, some show it as violence, some might just show as distant estrangement, a silent treatment, a cold war. Anger in all forms is your way of finding the power you didn't have then but you could use now and punishing the others for the harm they caused. Even though sometimes it might not be their fault, but as long as you can find the one to blame and make yourself stay angry, then even if it's something out of control, it might just start to feel like you're in control again.
 
