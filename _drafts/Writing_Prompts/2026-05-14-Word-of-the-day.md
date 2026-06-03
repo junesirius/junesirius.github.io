@@ -432,4 +432,27 @@ published: false
 11. paragon
 12. catercorner
 13. rectify
-14. imbrogllio
+14. imbroglio
+14. tortuous
+14. kiki
+14. affable
+14. vindicate
+14. demeanor
+14. cordia;
+14. lacuna
+14. fraught
+14. expedite
+14. onus
+14. sacrosanct
+14. Gordian knot
+14. benevolent
+14. ingratiate
+14. cohort
+14. unctuous
+14. permutation
+
+### 06
+
+1. palatable
+2. crux
+3. engender
