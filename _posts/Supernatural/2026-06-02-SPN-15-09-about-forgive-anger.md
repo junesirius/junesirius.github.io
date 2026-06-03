@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】About Forgiving and anger（短评）
+title: 【Destiel】About Forgiving and Anger（短评）
 date: 2026-06-02 12:21
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
@@ -22,3 +22,7 @@ Anger is a facade, a self-protection to not wanting to feel hurt, not to feel vu
 Dean intuitively resorts to anger, all this time, ever since childhood, because it's too painful to admit how powerless and vulnerable he really feels, that he's hurt. Just the same as "not talking about feelings," it's his way of self-protection. And after this many years of practice, there is no way he can let this go easily.
 
 Which makes the true tearful "I forgive you" at the verge of losing Cas and letting the anger go and moving on to not lose him again so much more powerful and touching. He's willing to feel that pain and vulnerable and powerless feeling again when the world is out of control and overwhelming, just so that he could get Cas back. Who said he doesn't do feelings? He does feelings, so deeply and profoundly, reach deep inside himself, cut himself open, because he knows what really matters. Because Cas really matters. Because Cas is the only one that he realizes he shouldn't have his self-protection on to be with, and he's willing to feel all those things if it means he can have Cas back.
+
+<br>
+
+([Tumblr post link](https://www.tumblr.com/junesirius/818338176520355840))
