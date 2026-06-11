@@ -1851,7 +1851,7 @@ could rewrite S4 to finale
 
 (≈ prompt 164, 339)
 
-### 181.【CasJimmy?destiel?】2077 AU
+### 181.【CasJimmy?/destiel?】2077 AU
 
 Johnny Silverhand/V=Cas/Jimmy
 
@@ -3080,7 +3080,7 @@ Cas goes to Dean/Sam in heaven about the issue, but this time not like Chuck, th
 
 there should be a way to build the system without god, or make a balance
 
-(≈prompt 327)
+(≈ prompt 327, 377, 471.5)
 
 ### 277.【Jack/Jesse】S05E06 anti-Christ keeps balance with God
 
@@ -3808,7 +3808,7 @@ In the end it must be how Jack sees the love between them and get changed again,
 
 In between the saving, because Jack would do what he thinks is the right thing to do, and since Cas does break his explicit rule to go down to the Earth, he'd punish Cas by locking him up. So briefly after seeing Cas again, Dean loses him again, has to figure out a way to figure out he's locked down and has to go up there to bust him out of Heaven jail and two of them save Jack together. (in order to go to Heaven, Dean might have to die again. temporary MCD unavoidable, but in the end, after Jack comes back, he can send them both back down to Earth to continue living)
 
-(≈ prompt 276, 377)
+(≈ prompt 276, 377, 471.5)
 
 ### 327.5【destiel】Empty's deal with Jack is to remove Cas's memory of Dean
 
@@ -4564,7 +4564,7 @@ S15E18-fix it (S15E20 doesn't exist) but Jack-focused, Jack is more anxious & gu
 
 Dean willing to self-sacrifice to save Cas, Jack to Dean: "I already lost one father, don't make me lose another"
 
-（→ prompt 327）
+（≈ prompt 327, 276, 377, 471.5）
 
 ### 378.【all】S01E01+S04E03 Mary didn't get out of bed, John takes care of baby Sam
 
@@ -5934,4 +5934,18 @@ At this point, it starts feeling similar to the one I'm working on right now tha
 >
 > Because Sam had died and Dean was trying to move on with his life in the best way he knew how, but he couldn't drive that car anymore because it just reminded him of his brother.
 
-### 471.
+### 471.【Chuck&/Amara】What if Chuck wasn't bad to start with, he's just used up
+
+What if Chuck wasn't bad to start with, his soul was just used up during the millions of years, worn out for the world, because creating the world requires to take some parts of him, bits and pieces. And he didn't know that, just give himself away to the world (the way a writer gives away a part of their soul writing a story, and it's literal when it's God and it's the real world). So it's almost like soulless Jack and soulless Sam situation, then Chuck becomes cruel and uncaring, and that's the part Bible and archangels start remembering. So the caring Chuck part is only at the very beginning of the creation of the universe, only the planets and very early stage of Earth have seen, way before human, before angels and archangels, maybe before any life forms too. But there was a kind and innocent and wholesome Chuck that has a soul.
+
+And the only other being that's there and knows about this side of Chuck is Amara. So the Chuck Amara knows is different from the Chuck everyone else and Bible knows. But then Chuck used himself up, and starts not caring about anything including Amara, and then obsessed with archangels and other life forms, more about his story than any relationship and connection with anyone. And then Amara gets annoyed and angry for being ignored, they start fighting, then it's the locking up part and Mark of Cain and Lucifer corruption and Rebellion and angels' Fall and Hell, and then the modern world part that we get to know.
+
+### 471.5【Jack/destiel/TFW】What if being God use up his soul a little every time he intervenes and helps, until eventually he becomes soulless and turning into almost like another Chuck
+
+What if after Jack becomes God he's also going through this process. He's wholesome and good and kind and fair to start with, and caring, but every time he has to do something kind (because he can't bear the unfair awful things when he knows he can help, even though he tries not to do as much, but still he won't be able to stop himself), he's using up some bits and pieces of himself and his soul, until eventually he'd use himself up and turning into almost like another Chuck, having ego and being unkind and unfair.
+
+Surely if destiel/TFW are still around and notice, they'd have to help him out and save him, just like S14 when they save soulless Jack, except this time it's full-on powerful soulless God. (They'll have to figure out a way to end this infinite loop, the solution shouldn't be to have a "good" God (like a good slave owner), but to get rid of the slavery altogether, maybe something almost like Good Omen S3 but not exactly)
+
+(≈ Prompt 276, 327, 377)
+
+### 472.
