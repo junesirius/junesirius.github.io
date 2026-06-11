@@ -141,8 +141,16 @@ She's been hurt so many times by men and women, human and elf, that she begins n
 (aka important people in her life)
 
 - mother: elf, living in woods with her clan
+  - Name: Elunara
+
 - father: human, missing, could be dead
+  - Name: Caelan/Caelin (short: Cae, pronounce ="K")
+  - Last name: Winwood
+  - Elf nick name (called by his love Elunara): Elaris
+
 - childhood best friend: secret unrequited love
+  - Name: Aelira/Aeloria
+
 
 stranger relationships that probably connect easily:
 
@@ -220,6 +228,10 @@ characters that are "quietly haunted observer carrying tenderness and loneliness
 - Castiel (*Supernatural*): awkward sincerity, not human, devoted to what/who he believes in
 - Merlin (*Merlin*): hidden warmth, self-sacrificing loyalty, a little weird and out of it, strong, take all the little loneliness and sadness to himself
 - Captain Hook (*Once Upon a Time*): wounded romantic loneliness, guarded wit
+
+World building reference:
+
+- J. R. R. Tolkien (in general); probably *Silmarillion* for more specifics
 
 ### More added small details and notes
 
