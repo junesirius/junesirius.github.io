@@ -22,3 +22,7 @@ PPS: Question for both Jensen and Misha: Both of they have both son and daughter
 Rob and Rich are doing a show rewatch from Pilot, and they're in around season 8 now, we'd guess Jensen and Misha haven't watched the shows, except for the phenomenon ones that are very popularly mentioned, like French Mistake and Baby, so question is, what are some of the episodes they actually sit down and watch and enjoy? If not, do they have plan to do so some time?
 
 P3S: Question to ask Misha: He's writing a fantasy novel, is he writing in current present tense, or in past tense? I'm a writer and reader, and I notice screen scripts and many fanfics would use current tense, to make a feeling of urgency and presence, including most of my own writings, while most novels would tell the story in past tense because it's a story that already happened. I wonder what tense he's using in his novel writing, just curious.
+
+P4S: Question to ask Jensen: If he says his acting for Dean to Cas is always family/friend, and he's been saying Misha is a very important friend to him, did he ever feel like when he's acting Dean's feelings/interactions with Cas the way he as Jensen would to Misha. In other words, during the acting, did he borrow his connection with Misha to the way Dean sees his connection with Cas?
+
+(If he says yes, then proves destiel is the fault of jenmish; if he says no, then one of the two ships have to be more than what he says they were)
