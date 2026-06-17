@@ -5948,4 +5948,14 @@ Surely if destiel/TFW are still around and notice, they'd have to help him out a
 
 (≈ Prompt 276, 327, 377)
 
-### 472.
+### 472.【destiel】401 It's Dean's soul that burned Cas's wings
+
+What if, when 401 we saw Cas's wings burned and he's wounded, what if that's not burned by Hell, but burned by how hot Dean's soul is. It physically would hurt Cas to grab Dean and fly him out of Hell, and all other angels know that, so they stalled and didn't try hard enough to reach Dean, but Cas didn't mind. He saw how bright Dean's soul is, and how much he deserves to be saved, so he grabs his soul, ignoring the pain and wound his soul brings him, ignoring his wings burning from that heat, until he finally gets Dean out of Hell.
+
+### 473.【destiel】angst: Dean reciprocates the love but can't allow himself to be in relationship with Cas
+
+(from myself)
+
+Dean reciprocates the love but refuses to be in relationship with Cas, because he's too sure they wouldn't work out, and he'd eventually lose Cas, so he'd rather them keep being friends and stay friends forever, if it means he wouldn't ever risk losing him.
+
+### 474.
