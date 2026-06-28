@@ -4580,7 +4580,7 @@ S15E18-fix it (S15E20 doesn't exist) but Jack-focused, Jack is more anxious & gu
 
 (inspired by 《[ascend](https://archiveofourown.org/works/27823678)》)
 
-Dean willing to self-sacrifice to save Cas, Jack to Dean: "I already lost one father, don't make me lose another"
+Dean willing to self-sacrifice to save Cas, Jack to Dean: **"I already lost one father, don't make me lose another"**
 
 （≈ prompt 327, 276, 377, 471.5）
 
@@ -5976,4 +5976,32 @@ What if, when 401 we saw Cas's wings burned and he's wounded, what if that's not
 
 Dean reciprocates the love but refuses to be in relationship with Cas, because he's too sure they wouldn't work out, and he'd eventually lose Cas, so he'd rather them keep being friends and stay friends forever, if it means he wouldn't ever risk losing him.
 
-### 474.
+### **474.【destiel】S14E09 what if Jack or Dumah slipped, so Dean knows about Cas's deal with Empty**
+
+(angst)
+
+Everyone forgot Dumah was also there when Cas made the deal with Empty to save Jack, Cas made Jack promise to not tell Sam and Dean, but there's still chance that Dumah (when she's possessed by Empty, she might still can hear/see/know everything that's happening) might let Dean know. Or maybe it's just Jack accidentally slipped his tongue. One way or another, Dean knows about the deal, what is he going to do now to save Cas?
+
+Cas would try to avoid the question when Dean asks him what his happiness is. Maybe he just doesn't know it himself yet too, so he couldn't really answer. He might try to convince Dean he wouldn't be happy anyway, so there's nothing to worry about, the deal would never be cashed in. But Dean remembers it all the time now. Every time they have some kind of a win, or they are enjoying some relatively casual down time, like just watching movies together, Cas drinking beer with them, Dean would observe them quietly/gingerly, super tense now, not wanting Cas not be happy, but also scared to death that Empty would just come at that moment. Maybe Cas would notice, maybe Dean would just ask out of blue (way too many times) if he's happy, and Cas's laughter/relaxed posture would be tense again (and Dean would kick himself in his head for asking, but he'd do that again, he's just too worried), and Cas would try to comfort him he's not happy and so he's safe, Dean doesn't have to worry about it. But Dean's not convinced, he would try really really hard to understand why Cas isn't happy (but Dean would think he looks relaxed/pleased enough).
+
+At some point Cas might have to confess when Dean is just pushing too hard or too distressed by this, Cas just wants him to not worry so much, so Cas just tells him he loves him, but since Dean doesn't reciprocate, so he believes he'd never be happy, so he'd be safe. Dean's super super torn, wants to reciprocate so much, scared to death to do that, not want his reciprocation to be Cas's death call.
+
+(They'll have to get rid of Empty eventually one way or another and eventually Dean'll get his chance to reciprocate)
+
+Or maybe Dean accidentally let it slip out that he loves Cas back too without really meaning to, and Cas is stunned and suddenly happy, and Dean freaks out, "No, no, no, no, no." And Empty black goo just comes out and takes Cas. Dean goes into shocking grief immediately, guilty and self-blame and hate himself and all that, thinking his love for Cas is the worst thing that has happened to Cas.
+
+And the rest fix-it is pretty similar to usual S15E18-fix it. They'd have to find a way to get to Empty and get Cas back and reunite and all that.
+
+The PTSD is that after this finished, Dean is super extremely self-conscious of reciprocating or expressing love (even though Cas already knows). They might start doing little things that's almost like in a relationship, but Dean just couldn't get over it to tell Cas he loves him no matter what, too scared of losing him. Cas would hold him close and repeated trying to tell him he wouldn't lose him, it all ended, they won. Dean has a hard time believing it, just keep holding onto Cas.
+
+And then one day maybe Dean slips again, doing something else absent-mindedly and too distracted to know what he's talking about or what they're discussing, or maybe they're fighting/bickering about something very small and trivial (the kind of situation that they don't think the love confession would come out), and then Dean somehow just slipped tongue and says he loves him again. And he's stunned and in shock and immediately shaking and scared again, immediately holding Cas, freaking out thinking he'd lose him again. But nothing happens, Cas just holds him back, leaning into him, the touch comforts both. Dean keeps murmuring something inaudible. Maybe Cas would encourage him it's okay to say it, they're safe. So Dean tries again, saying a lot of times how much he loves him, keep asking if Cas is happy. And Cas is really really happy, and nothing bad happens. Dean's freaked-out heartbeat finally calms down and believes Cas. And they kiss.
+
+### **475.【destiel】S15E18 fix-it but with a twist: "How sure are you what you get back is 100% pure Cas?"**
+
+post-finale, almost like S16 beginning
+
+Dean gets Cas back from Empty, but like S2 ending when he got Sam back from Hell, he got taunted by Azazel: "How sure are you what you get back is 100% pure Cas?" (the Sam back from Hell is more cruel and demon-like and Dean does almost waver by the thought, maybe Sam is changed a little, maybe the Sam coming back isn't really exactly his brother when he lost him; same here)
+
+Dean keeps tiptoeing around Cas, suspecting maybe he's actually Empty in disguise (because Cas has told him Empty can take the shape of anyone), every time Cas did something slightly out of character (like some open display of affection, more outward straightforward showing his love), Dean freaks out, thinking he's right and Cas is fake, because he thinks real Cas wouldn't do/say that to him like that. But then Sam reassures him that Cas was exactly like that before, do/say those things all the time but Dean just didn't realize them. So Dean just only now starts realizing how oblivious he's been all this time, he's only starting to notice and realize Cas is indeed in love with him all these years.
+
+### 476.
