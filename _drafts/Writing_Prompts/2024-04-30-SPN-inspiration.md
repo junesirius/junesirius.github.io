@@ -6004,4 +6004,22 @@ Dean gets Cas back from Empty, but like S2 ending when he got Sam back from Hell
 
 Dean keeps tiptoeing around Cas, suspecting maybe he's actually Empty in disguise (because Cas has told him Empty can take the shape of anyone), every time Cas did something slightly out of character (like some open display of affection, more outward straightforward showing his love), Dean freaks out, thinking he's right and Cas is fake, because he thinks real Cas wouldn't do/say that to him like that. But then Sam reassures him that Cas was exactly like that before, do/say those things all the time but Dean just didn't realize them. So Dean just only now starts realizing how oblivious he's been all this time, he's only starting to notice and realize Cas is indeed in love with him all these years.
 
-### 476.
+##### 476.【all?】S09E22 Why is six afraid of seven? Because seven ate (eight) nine
+
+> "Why is six afraid of seven"
+>
+> Cas: "because seven is a prime number, and prime numbers can be intimidating"
+>
+> Sam: "It's because seven ate (eight) nine."
+
+Inspired by the joke/pun/riddle, "seven ate nine", what if this is actually real and literal, (in one of Chuck's other universes,) numbers are really monsters, and Seven *is* scariest, because it *is* a prime (minister of) numbers and it did eat Nine, and so there's every reason Six is scared of Seven.
+
+(might be a goofy mini episode story, or like Scoobynatural, comedic and silly, but also with our main characters)
+
+something like Six gets so scared it calls monster hunters and TFW has to investigate why Six is so scared and find out Seven is a monster and Nine was the victim (almost like a monster of the week episode), and they'll have to save Six from Seven.
+
+Cas: "Like I told you, prime numbers can be intimidating"
+
+Dean: "Yeah, yeah. Whatever."
+
+### 477.
