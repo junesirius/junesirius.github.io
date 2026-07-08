@@ -471,3 +471,26 @@ published: false
 3. gamut
 3. wifty
 3. acquiesce
+3. indomitable
+3. longueur
+3. assiduous
+3. cavalcade
+3. quail
+3. pantheon
+3. jaundiced
+3. symbiosis
+3. oracular
+3. gainsay
+3. umami
+3. bereft
+
+### 07
+
+1. nabob
+2. sagacious
+3. corrode
+4. semiquincentennial
+5. acquisitive
+6. deepfake
+7. perfunctory
+8. gambol
