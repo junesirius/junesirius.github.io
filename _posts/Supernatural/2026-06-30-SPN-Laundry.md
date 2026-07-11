@@ -6,7 +6,7 @@ categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
 tags: ["Supernatural", "destiel", "英文"]
 pov: 第三人称
-origin: Tumblr
+origin: AO3, Tumblr
 ---
 
 It's just a normal laundry day. Dean isn't thinking much when he scans his room for dirty clothes and spots Cas's trench coat hanging in his closet. Cas is in Dean's T-shirt (the one with the ACDC symbol in the middle) and a pair of soft wore-in sweatpants today, sitting on their bed reading a book. Dean realizes he can't quite remember when's the last time he saw Cas in the trench coat -- before the last end-of-the-world event, probably, and that's been quite some time now.
@@ -17,7 +17,7 @@ He's already standing before it and checking the pockets when Cas looks up, cons
 
 Dean nods, "About time to give it a wash then." He takes it off the hanger. "You got anything in the pockets you want to take out?" There's nothing in the coat pockets he just checked, but then he remembers something, and he goes on checking the inside of the sleeves.
 
-"Dean, there is no pocket in the sleeves." Cas tilts his head a little, watching him, and then he realizes. "Angel blade is never *in* the sleeves. I have to manifest it, it's in the same plane where my wings are."
+"Dean, there is no pocket in the sleeves." Cas tilts his head a little, watching him, and then he realizes. "Angel Blade is never *in* the sleeves. I have to manifest it, it's in the same plane where my wings are."
 
 Dean frowns at the empty sleeve, his move slowing down. "Then why did you bring that out that time," he swallows, wanting to look up at Cas but can't quite bring himself to, he settles with still staring at the coat in his hands, "... that time, you know, when I was bad, I coulda kill you. I almost did." His throat dries fast.
 
@@ -101,10 +101,10 @@ He kisses back just as hard, holding him just as tight and close. They'll do the
 
 <br><br>
 
-Notes:
+### Notes:
 
-The conversation about 10x22 why Cas manifests angel blade, knowing he wouldn't use it but Dean could use it to kill, he's allowing Dean to kill him but trusts Dean wouldn't, inspired by a random Tumblr post that I can't find now, I'll add it if I can find it again.
+The conversation about 10x22 why Cas manifests his angel blade, knowing he wouldn't use it but Dean could use it to kill, he's allowing Dean to kill him but trusts Dean wouldn't, is inspired by a Tumblr post that I saw a few days ago but I can't find it now, I'll add it if I can find it again.
 
-The "Swimming for the both of them" line is inspired by sobsicles' "[oh sooner or later it all comes down to faith](https://archiveofourown.org/works/29782401)" (which is increamazing, everyone should read it).
+The "Cas can swim for the both of them" line is inspired by sobsicles' "[oh sooner or later it all comes down to faith](https://archiveofourown.org/works/29782401)" (which is incredible, everyone should read it).
 
-[Tumblr post link]()
+[Tumblr post link](https://www.tumblr.com/junesirius/821785738184114176)
