@@ -59,7 +59,7 @@ Dean's painful for losing Cas, but he *can't meet Jack's eyes*. Dean is not the 
 
 (When Sam and Dean are inside the diner)
 
-<video src="https://youtu.be/tQA4DO6z9qU" playsinline poster="https://i.ytimg.com/vi/tQA4DO6z9qU/maxresdefault.jpg" autoplay type="video/mp4"></video>
+<video src="https://youtu.be/tQA4DO6z9qU" playsinline poster="https://i.ytimg.com/vi/tQA4DO6z9qU/maxresdefault.jpg" autoplay controls type="video/mp4"></video>
 
 <br><br>
 ![](https://64.media.tumblr.com/ec518862b74f048365da5061d4a4a34b/a9cd622c0cacefee-dd/s640x960/06dc8c3e1399ee95baad72da0c3bd1f3ca4ff5dd.gifv)
@@ -153,7 +153,7 @@ And when he's hiding out alone to not get noticed by his Father, who says he's n
 
 (Day 3 after losing Cas)
 
-<video src="https://youtu.be/6fTfooFTle0" playsinline poster="https://i.ytimg.com/vi/6fTfooFTle0/maxresdefault.jpg" autoplay type="video/mp4"></video>
+<video src="https://youtu.be/6fTfooFTle0" playsinline poster="https://i.ytimg.com/vi/6fTfooFTle0/maxresdefault.jpg" autoplay controls type="video/mp4"></video>
 
 <br><br>
 ![](https://64.media.tumblr.com/0585f4d68f371fff003b5ad2a299ce54/a9cd622c0cacefee-4a/s640x960/8b3f02b3fb86df3abbcf062c71b5fb68a3f0e709.gifv)
@@ -337,7 +337,7 @@ It's just too much pain to bear. It's no victory at all.
 
 (When it's only Sam and Dean going home, alone, just the two of them)
 
-<video src="https://youtu.be/1x5LlmDwnq8" playsinline poster="https://i.ytimg.com/vi/1x5LlmDwnq8/maxresdefault.jpg" autoplay type="video/mp4"></video>
+<video src="https://youtu.be/1x5LlmDwnq8" playsinline poster="https://i.ytimg.com/vi/1x5LlmDwnq8/maxresdefault.jpg" autoplay controls type="video/mp4"></video>
 
 <br><br>
 ![](https://64.media.tumblr.com/cd8338140fb9010430e3507e04b0334f/a9cd622c0cacefee-7d/s640x960/3911da7cb47fdcef3a679931fd15b79d313ac849.gifv)
