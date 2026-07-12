@@ -6072,7 +6072,7 @@ One more time x4 (stare/laugh quick cut)
 
 (Dean POV)
 
-I miss you, took time but I admit it (717 Dean return trench coat)
+I miss you, took time but I admit it (717 Dean return trench coat, 1306 hug)
 
 It still hurts even after all these years (quick cut: 423 Cas before Raphael light, 523 Cas explode, 702 Cas dying, 703 Cas in river, 1223 wing mark)
 
@@ -6095,5 +6095,11 @@ I don't wanna wait to do this one more time (1518 Cas "I love you")
 
 
 One more time x10 (each time a flashback cut of all the touching/longing stare)
+
+
+
+(Dean POV)
+
+I miss you (1520 Bobby said "Cas helped" Dean's bitter smile)
 
 ### 478.
