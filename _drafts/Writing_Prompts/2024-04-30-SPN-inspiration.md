@@ -6022,4 +6022,78 @@ Cas: "Like I told you, prime numbers can be intimidating"
 
 Dean: "Yeah, yeah. Whatever."
 
-### 477.
+### **477.《One More Time》（Lyrics）**
+
+(Blink 182)
+
+(Dean POV)
+
+Strangers, from strangers into brothers (401 blade in chest => 503 laugh after coming out of brothel)
+
+From brothers into strangers once again (619 Cas in fire)
+
+We saw the whole world (Dean in Heaven/Hell/Purgatory quick cut)
+
+But I couldn't see the meaning (409? Dean look up pray)
+
+I couldn't even recognize my friends (623 Dean godstiel look)
+
+
+
+(Cas POV)
+
+Older, but nothing's any different (620 Cas quick cut view of human history)
+
+Right now feels the same, I wonder why (401 Cas view smirk, 409 Cas first time smile)
+
+I wish they told us (509 Cas look up asking for God, 620 Cas look at sky asking God)
+
+It shouldn't take a sickness (509 Cas learned God is gone yelling at sky, drunk headache outside whore of Babylon)
+
+Or airplanes falling out the sky (823 angels falling, Cas falling)
+
+
+
+(Cas POV)
+
+Do I have to die to hear you miss me? (703 Dean take Cas trench coat from water)
+
+Do I have to die to hear you say goodbye? (1301 Dean wrap Cas body, stand before pyre)
+
+I don't wanna act like there's tomorrow (423 Cas ready to die for Dean, the questioning look)
+
+I don't wanna wait to do this one more time (1212 Cas "I love you")
+
+
+
+One more time x4 (stare/laugh quick cut)
+
+
+
+(Dean POV)
+
+I miss you, took time but I admit it (717 Dean return trench coat)
+
+It still hurts even after all these years (quick cut: 423 Cas before Raphael light, 523 Cas explode, 702 Cas dying, 703 Cas in river, 1223 wing mark)
+
+And I know that next time, ain't always gonna happen (1509 Dean kneel in Purgatory)
+
+I gotta say, "I love you" while we're here (1518 Dean "Don't do this")
+
+
+
+(Cas POV)
+
+Do I have to die to hear you miss me? (1518 Dean grief on ground)
+
+Do I have to die to hear you say goodbye? (1518 black goo cover Cas)
+
+I don't wanna act like there's tomorrow (1518 Cas crying leading to "I love you")
+
+I don't wanna wait to do this one more time (1518 Cas "I love you")
+
+
+
+One more time x10 (each time a flashback cut of all the touching/longing stare)
+
+### 478.
