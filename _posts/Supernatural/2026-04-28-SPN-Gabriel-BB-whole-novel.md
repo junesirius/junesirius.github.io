@@ -10,7 +10,7 @@ origin: Gabriel Mini Bang 2026
 published: false
 ---
 
-**Tags:** Canon Divergent, End of S07 timeline, Angel Brotherhood, Take Care of Each Other, Healing, Childhood Trauma, This one is too close to me, Trigger warning if you have a tough upbringing too, Crazy Castiel, Tortured Gabriel, My poor baby angels, Angel Wings, Minor Dean/Castiel if you squint
+**Tags:** Canon Divergent, End of S07 timeline, Angel Brotherhood, Take Care of Each Other, Healing, Childhood Trauma, This one is too close to me, Trigger warning if you have a tough upbringing too, Crazy Castiel, Broken Castiel, Tortured Gabriel, My poor baby angels, Angel Wings, Minor Dean/Castiel if you squint, Hopeful Ending
 
 **Rating:** General
 
@@ -40,13 +40,23 @@ Cas逃避争执不知道能做什么的时候就用游戏来平静自己内心�
 
 #### translation
 
-Main plot: S07E22 timeline, after Dean yelled at Cas, Cas fly away randomly, when he's bypassing Hell, he sensed Gabe, managed to find Gabe in Asmodeus's cell, Gabe was tortured for two years but not super super bad and Asmodeus not so strong yet, and there's still Leviathan out there distracting. crazy Cas find Gabe and rescue them, both of them kill Asmodeus together, Cas take care of traumatized Gabe and help him get better, Gabe take care of crazy Cas. until Dean finds them both and insert back into main plot, Gabe yell at Dean for not treating Cas well, Dean knows about Cas's childhood for the first time from Gabe (or would Gabe ask Dean to ask Cas himself?)
+Main plot: S07E22 timeline, after Dean yelled at Cas, Cas fly away randomly, when he's bypassing Hell, he sensed Gabe, managed to find Gabe in Asmodeus's cell, Gabe was tortured for two years but not in super super bad shape yet and Asmodeus not so strong yet, and there's still Leviathan out there distracting. crazy Cas find Gabe and rescue them, both of them kill Asmodeus together, Cas take care of traumatized Gabe and help him get better, Gabe take care of crazy Cas. until Dean finds them both and insert back into main plot, Gabe yell at Dean for not treating Cas well, Dean knows about Cas's childhood for the first time from Gabe (or would Gabe ask Dean to ask Cas himself?)
 
 Talk about their past during the mutual healing: Cas is scared of conflict, run away when he's yelled at or he sense the other one is angry, very upset and think it's his fault, curl up in the corner to play games to distract himself: exactly what he did when he was a child and get childhood trauma and domestic abuse, all the raising voice and angry yelling reminds him of terrible childhood.
 
-Gabe: "What you call Armageddon, I call Sunday dinner." Gabe doesn't want to keep watching them fight so he runs away, but younger kids angels like Cas, has to watch his elder brothers fight and argue and throw things or get beaten for just being there, or sit in the kid's table and hold his ears, not wanting to hear, but the furniture and glass and smashing sounds can still be heard. Scared they'd turn to him, scared the fight would tear the family apart. Growing up in that family, turn into a decent Seraph, buried all those awful childhood memory, not telling anyone even Dean (his only close friend). He thought he's already grown, passed the age of panicking over others' conflicts and argue and fight and quarrel and bicker, but being broken brings all those back. In the worst time, he's almost like that new-born Cherub again, shiver at the corner, or hide in his room, pretending to be playing games, forcing himself to focus on the game and toys, hoping that can help him not hearing anything outside. That's why conflict and anger is so triggering.
+Gabe: "What you call Armageddon, I call Sunday dinner." Gabe doesn't want to keep watching them fight so he runs away, but younger kids angels like Cas, has to watch his elder brothers fight and argue and throw things or get beaten for just being there, or sit in the kid's table and hold his ears, not wanting to hear, but the furniture and glass and smashing sounds can still be heard. Scared they'd turn to him, scared the fight would tear the family apart. Growing up in that family, turn into a decent Seraph, buried all those awful childhood memory, not telling anyone even Dean (his only close friend, S07 timeline actually really his only friend, Cas and Sam aren't friend yet). He thought he's already grown, passed the age of panicking over others' conflicts and argue and fight and quarrel and bicker, but being broken brings all those back. In the worst time, he's almost like that new-born Cherub again, shiver at the corner, or hide in his room, pretending to be playing games, forcing himself to focus on the game and toys, hoping that can help him not hearing anything outside. That's why conflict and anger is so triggering.
 
-Cas wants to protect himself from the conflict by distracting himself with games, is it because his souls can break if he's triggered. Like Sam's broken during soulless time is old memory, Cas's memory is intact, but like toy block building, he can only keep it in shape when he's calm. He knows how hard it is to keep it, "took everything to get here", and he knows if he's triggered by conflict, the table holding the building blocks got shaken, and everything he put together (that's already the best he can get) will break apart again. So the only thing he can do is to run away, run to the safe corner to protect himself. But Dean knows nothing. But Gabe knows.
+Cas wants to protect himself from the conflict by distracting himself with games, is it because his soul (/essence/grace/sense/whatever that forms the real him) can break if he's triggered. Like Sam's brokenness during soulless time is old memory, Cas's memory is intact, but that vulnerable intactness is like toy block building, he can only keep it in shape when he's calm. He knows how hard it is to keep it, "took everything to get here", and he knows if he's triggered by conflict, the table holding the building blocks got shaken, and everything he put together (that's already the best he can get) will break apart again. So the only thing he can do is to run away, run to the safe corner to protect himself. But Dean knows nothing. But Gabe knows.
+
+#### character study and a little continuation
+
+Gabe would be there for him to take care of him, helping him get over it, keeping him calm and help him feel safe. Cas never really feel safe, even when he's Seraph he only thought the sense of security (or rather, insecurity) doesn't matter, it's just his job to keep others safe, he shouldn't even need anyone to give *him* a sense of security. but when he's broken and his mind is like kid again, his need of sense of security and comfort skyrockets, he gets frightened easily, so he turns to source of comfort easily (even Meg becomes his source of comfort, and Dean becomes his source of fear, but here Gabe being the familiar older brother who used to be the only close brother, is his real source of sense of security). Gabe knows the inside kid/baby angel/cherub in him because he remembers the kid him, Gabe is the only one in the world who'd remotely possibly understand the real him, and Gabe is there for him.
+
+(what Cas need: no need to hold everything together himself, someone to take care of him, sense of safety, have family)
+
+Gabe himself needs comfort and healing too, being hurt and feel powerless from Asmodeus, he needs to feel power again, taking care of Cas helps him to feel he's needed again, he can take off the joker mask because in the whole world, Cas is the only one he doesn't need mask to be around, like the episode with Metatron version of Gabe (imagine that's the real Gabe), Gabe has been a real warm bigger brother to Cas, lead him, guide him, comfort him, hug him, take care of him, and Gabe enjoys being taken seriously too, he's only too afraid to do so before everyone else because he's the youngest archangel and the other his bigger brothers never take him seriously, being joker is his only way of surviving in that family dynamic, but in front of Cas, Gabe can feel being important and responsible and serious again, he can be his real self. Gabe may has the joker side of personality intrinsically, but he's also struggling to find his true self, he also wants to be taken seriously, so only before Cas, he can be free and himself. He likes being looked up and respected and getting protective over Cas, being relied upon, being trusted, being important, having family.
+
+(what Gabe need: someone take him seriously, consider him important, he's needed, he can be himself, feel powerful again, have family)
 
 ### outline
 
@@ -60,9 +70,9 @@ End of S07 before finale, Crazy!Cas flies away from conflict (after being scolde
 
 S07 during Crazy!Cas time, Cas flies away from conflict and accidentally runs into Asmodeus and finds out Gabe is still alive and captured in Hell. Crazy!Cas saves Gabe, who, after two years of being tortured and losing his grace, is in bad shape but not as bad as canon S13. Cas takes care of Gabe and heals him from the minor crazy state, and Gabe takes care of crazy Cas.
 
-The two of them would talk during their mutual healing. Gabe knows exactly why Cas, after becoming broken, is so scared of conflict. The brokenness shows a person's biggest fear, for Sam it's Lucifer, for Cas it's the long-buried childhood trauma that he thought he'd grown over but never really did. Gabe knows "what you call Armageddon, I can Sunday dinner." There was a lot of conflict and fighting back then, and at that time Cas was just a baby angel and he was always scared and tried to distract himself with toys or running away, which is exactly what he's been doing now.
+The two of them would talk during their mutual healing. Gabe knows exactly why Cas, after becoming broken, is so scared of conflict. The brokenness shows a person's biggest fear, for Sam it's Lucifer, for Cas it's the long-buried childhood trauma that he thought he'd grown over but never really did. Gabe knows "what you call Armageddon, I call Sunday dinner." There was a lot of conflict and fighting back then, and at that time Cas was just a baby angel and he was always scared and tried to distract himself with toys or running away, which is exactly what he's been doing now.
 
-Gabe knows him and tries his best to comfort him (and heal himself too), being the big brother Cas needs at. When they're ready to go back to Dean and others, Gabe prepares to give Dean the talk to help him understand Cas better, and then all of them will go back to fight against Leviathan and saving the world together, so converge back to canon and potential hopeful ending.
+Gabe knows him and tries his best to comfort him (and heal himself too), being the big brother Cas needs. When they're ready to go back to Dean and others, Gabe prepares to give Dean the talk to help him understand Cas better, and then all of them will go back to fight against Leviathan and saving the world together, so converge back to canon and potential hopeful ending.
 
 #### claim visual
 
@@ -78,17 +88,35 @@ The two of them fight with Asmodeus
 
 #### posting summary
 
-#### excerpts
+When Gabriel said, "What you call Armageddon, I call Sunday dinner," he meant it literally. That was exactly what those Sunday dinners were like back then, and he's not the only one hating it and hasn't entirely grown out of its shadow.
+
+When Castiel, broken and child-like, runs away from conflicts that reminded him way too much of the childhood memory that he thought he'd buried deep down, he runs into the older brother he thought he'd lost, trapped by demons and under torture. He has to save him.
+
+They don't realize how much they need each other to heal all those traumas and wounds until they start talking and bonding again.
+
+#### excerpts (200-250 words)
+
+
 
 ### Arts
 
 #### Banner
 
+bigger version:
+
+<p align="center"><a href="tumblr.com" target="_blank"><img src="https://i.imgur.com/KFEk3UB.jpg" alt="Art of Gabriel and Castiel holding hands with both their wings spreading out, the view is from their back. Gabriel has three pairs of golden wings; Castiel has a pair of black wings. The title reads 'Sunday Dinner', written by June Sirius, art by thestarsmakemedream" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></a></p>
+
+smaller version:
+
+<p align="center"><a href="tumblr.com" target="_blank"><img src="https://i.imgur.com/22dgcVk.jpg" alt="Art of Gabriel and Castiel holding hands with both their wings spreading out, the view is from their back. Gabriel has three pairs of golden wings; Castiel has a pair of black wings. The title reads 'Sunday Dinner', written by June Sirius, art by thestarsmakemedream" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></a></p>
+
 #### Art
+
+<p align="center"><img src="https://i.imgur.com/sYjimXt.jpg" alt="Asmodeus, in a white suit, is choking Castiel; Gabriel stands behind Asmodeus, having three pairs of golden wings spreading out, and he's glowing in golden light, still wearing prisoner clothes" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></p>
 
 ### Edit Notes
 
-Change ending? The very ending words feel weird.
+~~Change ending? The very ending wording feels too weird.~~
 
 ## Main
 
