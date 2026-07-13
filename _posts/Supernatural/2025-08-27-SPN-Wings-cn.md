@@ -14,7 +14,6 @@ origin: 七夕24h合志
 Summary: 这个故事从Castiel失去他的翅膀开始，到他找到了某样东西结束。这是一个关于翅膀的故事。
 
 <br>
-
 <hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
 <br>
 

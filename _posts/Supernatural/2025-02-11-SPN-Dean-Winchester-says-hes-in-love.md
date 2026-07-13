@@ -53,7 +53,7 @@ Dean nods at him, reaching forward to pat Cas on the shoulder once. "Thanks, bud
 
 "Tell him to prepare dinner for four, okay?" Dean says, thinking twice, smiling to himself. "Actually, make it five. Jamie has a sister, I might help make the two of them a pair too, you know, the less attractive siblings, that's kinda cute, right?"
 
-"I don't think--" Cas hesitates, but Dean's already turning around, grabbing the book and impala keys from the desk.
+"I don't think--" Cas hesitates, but Dean's already turning around, grabbing the book and Impala keys from the desk.
 
 "Where are you going?"
 
