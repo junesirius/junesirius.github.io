@@ -204,7 +204,7 @@ Balthazar直接脱口而出称呼Cas是Sam的boyfriend了，Sam甚至也极自�
 
 （see more in S06E10-11观后感）
 
-### 17.【destiel】天使猫猫
+### ~~17.【destiel】天使猫猫【done】~~
 
 就像尼尔盖曼那篇他家黑猫其实是天使的故事，Cas可以是温家天使猫，keep the monsters outside，但是把自己弄得伤痕累累。
 
@@ -6004,7 +6004,7 @@ Dean gets Cas back from Empty, but like S2 ending when he got Sam back from Hell
 
 Dean keeps tiptoeing around Cas, suspecting maybe he's actually Empty in disguise (because Cas has told him Empty can take the shape of anyone), every time Cas did something slightly out of character (like some open display of affection, more outward straightforward showing his love), Dean freaks out, thinking he's right and Cas is fake, because he thinks real Cas wouldn't do/say that to him like that. But then Sam reassures him that Cas was exactly like that before, do/say those things all the time but Dean just didn't realize them. So Dean just only now starts realizing how oblivious he's been all this time, he's only starting to notice and realize Cas is indeed in love with him all these years.
 
-##### 476.【all?】S09E22 Why is six afraid of seven? Because seven ate (eight) nine
+### 476.【all?】S09E22 Why is six afraid of seven? Because seven ate (eight) nine
 
 > "Why is six afraid of seven"
 >
