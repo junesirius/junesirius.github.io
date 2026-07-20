@@ -17,7 +17,9 @@ origin: 个站
 
 ## 1990.3.2 Hilly birthday
 
-Hillydad is a cop, Hillymom stays at home ([src](https://lasvegasweekly.com/news/2008/jul/03/hillywood-shows-sisters-grim/))
+Hillydad is a cop, Hillymom stays at home ([src: Las Vegas Weekly](https://lasvegasweekly.com/news/2008/jul/03/hillywood-shows-sisters-grim/))
+
+Both Hilly and Hannah are home-schooled
 
 # Early Sketches (2006-2008)
 
@@ -65,7 +67,9 @@ Blooper: 2007.4.6
 
 ### 2007.6.7 Hillywood show Ep6
 
-(the episode unavailable on youtube)
+(youtube unavilable)
+
+watch on [vimeo](https://vimeo.com/6694072), uploaded: 2009.9.21
 
 Blooper: 2007.6.7
 
@@ -87,19 +91,32 @@ Blooper: 2007.12.17
 
 (Hilly: 18y, Hannah: 22y)
 
-2008.? Hilly changes her professional name from Hillary to Hilly (source TBA)
-
-### 2008.? Hillywood show Ep10-11
-
-Blooper Ep10-11: 2008.4.20
-
-Blooper Ep12-13: 2008.8.31
-
-### 2008.6.1 Hillywood show Ep12
+### 2008.3.22 Hillywood show Ep10
 
 (youtube video unavailable)
 
-[source](https://hillywoodshow.livejournal.com/1228.html)
+watch on [vimeo](https://vimeo.com/showcase/75863), uploaded: 2008.3.22
+
+Blooper: 2008.4.20
+
+### 2008.2.17 Hillywood show Ep11
+
+(youtube video unavailable)
+
+watch on [vimeo](https://vimeo.com/showcase/75863), uploaded: 2008.2.17
+
+- Hannah as Mrs. Lovett kissing Hilly as Sweeney Todd on the cheek: [gif](https://i283.photobucket.com/albums/kk290/jmltc86/thsmoodtheme/grateful.gif) ([src: livejournal](https://hillywoodshow.livejournal.com/8541.html)), multiple times, but all fake-kissing, never really touched Hilly's cheek
+- marriage scene between Todd and Lovett (Hilly/Hannah dressed as bride/groom, ready for kissing)
+
+Blooper: 2008.4.20
+
+### 2008.3.19 Hillywood show Ep12
+
+(youtube video unavailable)
+
+watch on [vimeo](https://vimeo.com/showcase/75863), uploaded: 2008.3.19
+
+[src: livejournal](https://hillywoodshow.livejournal.com/1228.html)
 
 Blooper: 2008.8.31
 
@@ -111,29 +128,59 @@ Blooper: 2008.8.31
 
 (youtube unavailable)
 
-[source](https://hillywoodshow.livejournal.com/3479.html)
+[src: livejournal](https://hillywoodshow.livejournal.com/3479.html)
 
 ### 2008.6.30 Hilly win 1st Place for Best Comedy (Acting) at Access Broadway's National Competition
 
-[source](https://hillywoodshow.livejournal.com/3778.html)
+[src: livejournal](https://hillywoodshow.livejournal.com/3778.html)
 
 ### 2008.7.3 Hilly work as webmaster for a MySpace page, Hannah teaches dance at the Dance Zone in Henderson
 
-Hannah did an interview for Las Vegas Weekly: [source](https://lasvegasweekly.com/news/2008/jul/03/hillywood-shows-sisters-grim/)
+Hannah did an interview for Las Vegas Weekly: [src: Las Vegas Weekly](https://lasvegasweekly.com/news/2008/jul/03/hillywood-shows-sisters-grim/)
 
-Hannah's dance studio Dance Zone and her girls won "Best Studio 2008" ([source](https://hillywoodshow.livejournal.com/3909.html))
+Hannah's dance studio Dance Zone and her girls won "Best Studio 2008" ([src: livejournal](https://hillywoodshow.livejournal.com/3909.html))
 
 ### 2008.8.1 Hillywood show Ep13
 
 (youtube unavailable)
 
-[source](https://hillywoodshow.livejournal.com/5086.html)
+watch on [vimeo](https://vimeo.com/10220519), uploaded: 2010.3.16
 
-### 2008.7.24-7.27 Hillywood at SDCC
+[src: livejournal](https://hillywoodshow.livejournal.com/5086.html)
+
+Blooper: 2008.8.31
+
+### 2008.7.24-7.27 Hilly/Hannah at SDCC
 
 (youtube unavailable)
 
-[source](https://hillywoodshow.livejournal.com/6387.html), [src](https://hillywoodshow.livejournal.com/6615.html)
+[src: livejournal](https://hillywoodshow.livejournal.com/6387.html), [src: livejournal](https://hillywoodshow.livejournal.com/6615.html)
+
+interview by Housewife In Hollywood, report published: 2008.8.17 ([src: Housewife In Hollywood](https://web.archive.org/web/20110721014818/http://housewifeinhollywood.com/the-hillywood-show/), mentioned in [src: livejournal](https://hillywoodshow.livejournal.com/7788.html))
+
+### 2008.8.24-8.30 Hilly/Hannah filming Hillywood show Ep14
+
+[src: livejournal](https://hillywoodshow.livejournal.com/8307.html), [src: livejournal](https://hillywoodshow.livejournal.com/8709.html#cutid1)
+
+### 2008.9.30 Hillywood show Ep14
+
+Teaser trailor: 2008.9.11 (youtube unavailable, [src: livejournal](https://hillywoodshow.livejournal.com/10425.html))
+
+Blooper: 2009.1.8
+
+youtube re-upload: 2008.12.26
+
+### 2008.10.12 Hilly/Hannah at Sunset Park, Las Vegas
+
+[src: livejournal](https://hillywoodshow.livejournal.com/12463.html)
+
+"The Age of Chivalry" Renaissance Festival at Las Vegas, NV
+
+public appearance, Hilly dress as Jack Sparrow, Hannah as Will Turner, taking fan photos
+
+### 2008.10.15 Hilly/Hannah gets interview with InArtMedia
+
+[src: livejournal](https://hillywoodshow.livejournal.com/12773.html)
 
 ### 2008.10.26 Hillyween
 
@@ -143,45 +190,174 @@ Blooper: 2009.1.8
 
 ### 2008.12.20 Christmas Sketch
 
-###### [TBC: youtube watch progress #24/340]
-
-### 2008.12.26 Hillywood show Ep14
-
-Blooper: 2009.1.8
-
 # Early Parodies (2009-2012)
 
 ## 2009
 
 (Hilly: 19y, Hannah: 23y)
 
+### 2009.1 Hilly/Hannah filming Twilight Parody
+
+[src: livejournal](https://hillywoodshow.livejournal.com/13845.html)
+
+### 2009.1.31 Hillywood show Ep16 original planned release date (never happen)
+
+original planned release date: 2009.1.31 ([src: livejournal](https://hillywoodshow.livejournal.com/14782.html))
+
+Sneak peak: 2009.1.15 (youtube unavailable) ([src: livejournal](https://hillywoodshow.livejournal.com/15026.html))
+
+delayed planned release date: 2009.3.31 ([src: livejournal](https://hillywoodshow.livejournal.com/15026.html), [src: livejournal](https://hillywoodshow.livejournal.com/15699.html))
+
+### 2009.2.8 Hilly/Hannah interviewed by TwiFans
+
+TwiFans (Twilight Fan Community)
+
+[src: livejournal](https://hillywoodshow.livejournal.com/15430.html)
+
 ### 2009.2.12 Twilight Parody
+
+- Hilly first time credit as "Hilly", changing professional name from "Hillary" to "Hilly"
+- Drew Lorentz act as Jasper, Hannah act as Alice, the two has hand-holding and a little dancing scene together
+
+Casting Call: 2008.12.13 ([src: livejournal](https://hillywoodshow.livejournal.com/13845.html))
+
+Filming time: 2009.1 ([src: livejournal](https://hillywoodshow.livejournal.com/13845.html))
 
 Sneak Peek: 2009.1.21
 
+Behind the Scenes: 2009.8.20 (youtube unavailable)
+
 Director's commentary: 2015.2.6
 
-### 2010.1.3 New Moon Parody
+### 2009.2.20-2.22 Hilly/Hannah at Creation Twilight Convention, San Francisco
 
-Sneak Peek: 2009.6.18
+[photo](https://mytwicastpix.wordpress.com/public-appearances/p-a-cast/twilight-conventions/creation-entertainments-twitour-2009-salute-to-twilight-convention-day-2-3/) published: 2010.10.6
 
-### 2009.10.6 Hannah+Drew photo for Creation Twilight Convention
+[more photo](https://mytwicastpix.wordpress.com/public-appearances/p-a-cast/twilight-conventions/creation-entertainments-twitour-2009-salute-to-twilight-convention-day-2/) published: 2010.10.6
 
-[link](https://mytwicastpix.wordpress.com/public-appearances/p-a-cast/twilight-conventions/creation-entertainments-twitour-2009-salute-to-twilight-convention-day-2/)
+Hilly as Bela, Jacob as Edward, Hannah as Alice, Drew as Jasper: Hannah/Drew holding each other close
 
-[more photo](https://mytwicastpix.wordpress.com/public-appearances/p-a-cast/twilight-conventions/creation-entertainments-twitour-2009-salute-to-twilight-convention-day-2-3/)
+### 2009.2.30 Hilly/Hannah live chat on BlogTV
+
+[src: LJ](https://hillywoodshow.livejournal.com/15699.html) 
+
+### 2009.4.3-4.5 Hilly/Hannah at AccioCon, Orlando, FL
+
+[src: LJ](https://hillywoodshow.livejournal.com/15965.html)
+
+### 2009.5.15 Hilly/Hannah live chat on BlogTV
+
+[src: LJ](https://hillywoodshow.livejournal.com/16695.html)
+
+together with Drew/Jacob
+
+about Twilight
+
+### 2009.5.29 The Dark Knight (\~ Hillywood Show Ep16)
+
+(youtube unavailable)
+
+watch on [vimeo](https://vimeo.com/4872694), uploaded: 2009.3.27
+
+The DeLorean (time traveling car)'s owner has been deployed to Iraq ([src: LJ](https://hillywoodshow.livejournal.com/16943.html))
+
+Hilly/Hannah live chat on BlogTV about "The Dark Knight": 2009.6.12 ([src: LJ](https://hillywoodshow.livejournal.com/17703.html), with Drew/Jacob/Brent)
+
+- Drew play as Two Face, Hannah as Harley Quinn, Hilly as Joker, Jacob as The Clown Dealer, Brent Hegwood as Scarecrow
+
+Behind The Scenes: 2010.2.10 (youtube unavailable) ([src: LJ](https://hillywoodshow.livejournal.com/20732.html))
+
+### 2009.6.28-6.29 Hilly/Hannah at Summer School in Forks (lit fan event), Forks, WA
+
+[src: LJ](https://hillywoodshow.livejournal.com/15965.html)
+
+### 2009.7.10-7.12 Hilly/Hannah at Creation Twilight Convention, Alanta, GA
+
+[src: LJ](https://hillywoodshow.livejournal.com/15965.html)
+
+### 2009.7.18-7.19 Hilly/Hannah at Creation Twilight Convention, Minnepolis, MN
+
+[src: LJ](https://hillywoodshow.livejournal.com/15965.html)
+
+#### 2009.7.23-7.26 Hilly/Hannah at SDCC, San Diego, CA
+
+[Day1 src: LJ](https://hillywoodshow.livejournal.com/18408.html), [Day2 src: LJ](https://hillywoodshow.livejournal.com/18677.html)
+
+with Jacob/Drew (Drew is definitely there, Jacob unsure), all went as Twilight personas
+
+### 2009.7.30-8.2 Hilly/Hannah at TwiCon, Dallas, TX
+
+[src: LJ](https://hillywoodshow.livejournal.com/15965.html)
+
+### 2009.8.10 Drew Lorentz has twitter
+
+[src: LJ](https://hillywoodshow.livejournal.com/18690.html) call Drew "Hannah's bb boi"
+
+### 2009.8.14-8.16 Hilly/Hannah at Creation Twilight Convention, Phoenix, AZ
+
+[src: LJ](https://hillywoodshow.livejournal.com/15965.html)
+
+### 2009.8.22-8.23 Hilly/Hannah at MegaCon, Orlando
+
+[src: LJ](https://hillywoodshow.livejournal.com/19160.html)
+
+### 2009.8.28-8.30 Hilly/Hannah at Creation Twilight Convention, Parsipanny, NJ
+
+[src: LJ](https://hillywoodshow.livejournal.com/15965.html)
+
+### 2009.10.2-10.4 Hilly/Hannah at Creation Twilight Convention, Chicago, IL
+
+[src: LJ](https://hillywoodshow.livejournal.com/15965.html)
+
+### 2009.10.7 The Hillywood tribute
+
+watch on [vimeo](https://vimeo.com/6945228)
 
 ### 2009.10.31 Hillyween
 
+filming New Moon Parody in progress; DeLorean owner is deployed so Jack Sparrow is not coming back and Hillywood show episodes gonna wait
+
 ### 2009.12.25 Christmas Sketch
+
+youtube and [vimeo](https://vimeo.com/8379673)
 
 ## 2010
 
 (Hilly: 20y, Hannah: 24y)
 
+### 2010.1-2014.1 Kyle Dayton at Creation Twilight Conventions
+
+Kyle Dayton (as Jacob in Hillywood Twilight Parodies) appear and host for Convention Twilight conventions ([src: Linkedin](https://www.linkedin.com/in/kyle-dayton/details/experience/))
+
+by extension: likely Hilly/Hannah are in Creation Twilight Convention during 2010.1-2014.1, too
+
+### 2010.1.3 New Moon Parody
+
+###### [TBC: youtube watch progress #32/340]
+
+Sneak Peek: 2009.6.18 (youtube and [vimeo](https://vimeo.com/5229736))
+
+Behind The Scene (extras POV): 2010.1.3 ([youtube](https://youtu.be/aBGBmHhQUTg?si=K7F2kOaFDUzPcAaA))
+
+### 2010.1.8-1.10 Hilly/Hannah at Twilight Convention, Miami, FL
+
+with Drew/Jacob/Kyle
+
+[src: LJ](https://hillywoodshow.livejournal.com/19772.html)
+
 ### 2010.6.29 The Runaways Parody
 
 Blooper: 2011.1.4
+
+### 2010.10.1-10.3 Hilly/Hannah at Creation Twilight Convention, Portland
+
+Exclusive interview with Hilly/Hannah/Drew/Jacob/Kyle: 2010.10.25 ([src](https://novelnovicetwilight.wordpress.com/2010/10/25/exclusive-interview-with-the-cast-of-the-hillywood-show/), [interview video](https://youtu.be/EPanqDaGn68))
+
+- Hannah/Drew holding hands in the interview photo
+- Drew answers how he first met them: answered an open call for the Sweeney Todd episode, acting as an extra, then more episodes as Terminator, Dark Knight, etc.
+- Eclipse Parody progress: still filming and editting
+- Next parody they really want to do after Eclipse: Alice in Wonderland (but never happened)
+- flash question about if they can trade place with one person for a single day, who would it be: Hannah very quickly points at Drew (for him to answer)
 
 ### 2010.11.11 Eclipse Parody
 
@@ -191,21 +367,71 @@ Contest: 2010.11.7
 
 Contest winner: 2010.12.4
 
+### 2010.11.13-11.14 Creation Twilight Convention, Dallas, TX
+
+[src: youtube](https://www.youtube.com/watch?v=b_k_SQyv5-k)
+
 ### 2010.10.31 Hillyween
 
 ### 2010.12.7 Christmas Sketch
+
+### 2010.12.10-12.12 Hilly/Hannah at Creation Twilight Convetion, Orlando
+
+interviewed by Teen Groove On The Move: [interview](https://www.youtube.com/watch?v=b_k_SQyv5-k) published 2010.12.18
+
+- photoshot: Drew holding Hannah, Hannah trying to kiss Drew, as Alice/Jasper; Hilly in the same photo with Jacob as Bela/Edward
+- photos of Hilly/Hannah/Jacob/Drew/Kyle in convention panel
+- interview question about how does the rest three come to the show: Hilly answers the initial idea is Hilly as Edward, Hannah as Bela, but that might be weird, so changing to Jacob as Edward
+- Hannah does the make-ups
+- all five of them are from Las Vegas, so pretty close to each other
+- Been doing the Creation Twilight Convention for the second year
+- Drew was already studying Theatre in college when he first met them, probably picked up the hobby in high school
 
 ## 2011
 
 (Hilly: 21y, Hannah: 25y)
 
+### 2011.1.22-1.23 Creation Twilight Convention, Seattle, WA
+
+[src: youtube](https://www.youtube.com/watch?v=b_k_SQyv5-k)
+
+### 2011.2.4-2.6 Creation Twilight Convention, San Francisco, CA
+
+[src: youtube](https://www.youtube.com/watch?v=b_k_SQyv5-k)
+
 ### 2011.2.21 The Vampire Diaries Parody
 
+chatting Vampire Diaries Parody: [vimeo](https://vimeo.com/160688313) uploaded 2016.3.28
+
+### 2011.3.11-3.13 Hilly/Hannah at Creation Twilight Convention, Nashville
+
+[interview](https://www.youtube.com/watch?v=TDuo-Oaj73g) published: 2011.3.19
+
+### 2011.3.4-3.6 Creation Twilight Convention, Los Angeles, CA
+
+[src: youtube](https://www.youtube.com/watch?v=b_k_SQyv5-k)
+
+### 2011.3.11-3.13 Creation Twilight Convention, Nashville, TN
+
+[src: youtube](https://www.youtube.com/watch?v=b_k_SQyv5-k)
+
 ### 2011.4.13 Ian Somerhalder & Paul Wesley talk about Hillywood
+
+### 2011.4.15-4.17 Creation Twilight Convention, Arlington, Virginia
+
+[src: youtube](https://www.youtube.com/watch?v=b_k_SQyv5-k)
 
 ### 2011.4.27 HP and The Order of Umbridge
 
 Blooper: 2011.5.23
+
+### 2011.5.14-5.15 Creation Twilight Convention, Hartford, CT
+
+[src: youtube](https://www.youtube.com/watch?v=b_k_SQyv5-k)
+
+### 2011.6.25-6.26 Creation Twilight Convention, Chicago, IL
+
+[src: youtube](https://www.youtube.com/watch?v=b_k_SQyv5-k)
 
 ### 2011.6.30 HP Friday Parody
 
@@ -213,9 +439,29 @@ The Making of: 2011.8.6
 
 Contest winner: 2011.9.13
 
+### 2011.7.29-7.31 Creation Twilight Convention, Parsippany, NJ
+
+[src: youtube](https://www.youtube.com/watch?v=b_k_SQyv5-k)
+
+### 2011.8.19-8.21 Creation Twilight Convention, Boston, MA
+
+[src: youtube](https://www.youtube.com/watch?v=b_k_SQyv5-k)
+
+### 2011.8.27-8.28 Creation Twilight Convention, Cincinnati, OH
+
+[src: youtube](https://www.youtube.com/watch?v=b_k_SQyv5-k)
+
+### 2011.10.8-10.9 Creation Twilight Convention, Baltimore, MD
+
+[src: youtube](https://www.youtube.com/watch?v=b_k_SQyv5-k)
+
 ### 2011.10.17 Hillyween
 
 The Making of: 2012.2.28
+
+### 2011.10.22-10.23 Creation Twilight Convention, Raleigh-Durham, NC
+
+[src: youtube](https://www.youtube.com/watch?v=b_k_SQyv5-k)
 
 ## 2012
 
@@ -232,6 +478,10 @@ The Making of: 2013.2.20
 ### 2012.4.2 The Hunger Games Parody
 
 Behind The Scenes: 2024.3.26
+
+### 2012.6-7 Kyle hosting for Night ItaCon
+
+Kyle Dayton (as Jacob in Hillywood Twilight Parodies) as special guest/convention Host, in Fantasy Events Italy ([src](https://www.linkedin.com/in/kyle-dayton/details/experience/))
 
 ### 2012.7.27 Saturday Night
 
@@ -520,6 +770,12 @@ Long Beach Comic Con time: 2015.9.12-9.13
 ### 2016.2.12 Hillywood at Salt Lake Comic Con (Vlog)
 
 Salt Lake Comic Con time: 2015.9.24-9.26
+
+### 2016.3.28 fan-uploaded old Hillywood videos
+
+The Hillywood Show dancing: [vimeo](https://vimeo.com/160688972)
+
+The Hillywood Show at Charlotte Twilight Convention: [vimeo](https://vimeo.com/160688989)
 
 ### 2016.3.30 HP Studio Tour 2015 (Vlog)
 
