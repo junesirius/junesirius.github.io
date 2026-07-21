@@ -13,7 +13,7 @@ origin: Tumblr
 
 literally in the middle of nowhere, with all the space around them,
 
-<video src="https://64.media.tumblr.com/d569c2842a2d9600f1d7e36f3ecbc392/1a441e784ad7aca4-b9/s720/4dadade661e2782a5039a264984507c36262d354.mov" playsinline poster="https://44.media.tumblr.com/d569c2842a2d9600f1d7e36f3ecbc392/1a441e784ad7aca4-b9/s1280x720_f1/be226f386c4df9374d08ef35aabafbb3f72fe052.jpg" autoplay controls type="video/mp4"></video>
+<video src="https://64.media.tumblr.com/d569c2842a2d9600f1d7e36f3ecbc392/1a441e784ad7aca4-b9/s720/4dadade661e2782a5039a264984507c36262d354.mov" playsinline poster="https://44.media.tumblr.com/d569c2842a2d9600f1d7e36f3ecbc392/1a441e784ad7aca4-b9/s1280x720_f1/be226f386c4df9374d08ef35aabafbb3f72fe052.jpg" autoplay controls type="video/mp4" style="width: 100%"></video>
 
 they just have to walk so close as to brush shoulders
 

@@ -9,7 +9,7 @@ pov: 第三人称
 origin: Tumblr, Youtube
 ---
 
-<video src="https://64.media.tumblr.com/4f96a7c68aef5aa7845452b929e4088e/90bbebf812bd051d-3c/s720/e5f66bc9aff10e2e89cc9b924f4c725db5ccc4d7.mov" playsinline poster="https://i3.ytimg.com/vi/gTexUeEmWyE/maxresdefault.jpg" autoplay controls type="video/mp4"></video>
+<video src="https://64.media.tumblr.com/4f96a7c68aef5aa7845452b929e4088e/90bbebf812bd051d-3c/s720/e5f66bc9aff10e2e89cc9b924f4c725db5ccc4d7.mov" playsinline poster="https://i3.ytimg.com/vi/gTexUeEmWyE/maxresdefault.jpg" autoplay controls type="video/mp4" style="width: 100%"></video>
 
 (source: [youtube](https://youtu.be/gTexUeEmWyE))
 

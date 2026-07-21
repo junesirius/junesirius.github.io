@@ -9,7 +9,7 @@ pov: 第三人称
 origin: Tumblr
 ---
 
-<video src="https://64.media.tumblr.com/e7b4bb2c23d8943f9bf46261f95e096c/34dca6420ea1d29b-f1/s720/0e8320158c31012d32fe1640310e4139038085c1.mov" playsinline poster="https://44.media.tumblr.com/e7b4bb2c23d8943f9bf46261f95e096c/34dca6420ea1d29b-f1/s1280x720_f1/2f52267be320576b2db986bd56771772cd94f0a2.jpg" autoplay controls type="video/mp4"></video>
+<video src="https://64.media.tumblr.com/e7b4bb2c23d8943f9bf46261f95e096c/34dca6420ea1d29b-f1/s720/0e8320158c31012d32fe1640310e4139038085c1.mov" playsinline poster="https://44.media.tumblr.com/e7b4bb2c23d8943f9bf46261f95e096c/34dca6420ea1d29b-f1/s1280x720_f1/2f52267be320576b2db986bd56771772cd94f0a2.jpg" autoplay controls type="video/mp4" style="width: 100%"></video>
 
 Dean is canonically scared of snakes and spiders...
 

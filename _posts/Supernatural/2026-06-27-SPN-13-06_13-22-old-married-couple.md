@@ -11,7 +11,7 @@ origin: Tumblr
 
 There's the saying, don't listen to what they say, watch what they do. Okay, this is what they do:
 
-<video src="https://64.media.tumblr.com/429903763e1fd388892b66cf39b101c1/d9dd3ee71bee33a7-13/s720/8a1844f957159bbb39765a139b36ed3ffb8979ae.mov" playsinline poster="https://44.media.tumblr.com/429903763e1fd388892b66cf39b101c1/d9dd3ee71bee33a7-13/s1280x720_f1/2b51837dfca79f3b1a274c647ca38eb9c7d90730.jpg" autoplay controls type="video/mp4"></video>
+<video src="https://64.media.tumblr.com/429903763e1fd388892b66cf39b101c1/d9dd3ee71bee33a7-13/s720/8a1844f957159bbb39765a139b36ed3ffb8979ae.mov" playsinline poster="https://44.media.tumblr.com/429903763e1fd388892b66cf39b101c1/d9dd3ee71bee33a7-13/s1280x720_f1/2b51837dfca79f3b1a274c647ca38eb9c7d90730.jpg" autoplay controls type="video/mp4" style="width: 100%"></video>
 
 The only other time I see someone being so comfortable around someone else is between my parents... like when my mom gets something from my dad's bag without needing to ask where it is, or my dad gestures something without having to look up and my mom would just get it...
 
