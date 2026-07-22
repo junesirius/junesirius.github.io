@@ -3082,13 +3082,15 @@ there should be a way to build the system without god, or make a balance
 
 (≈ prompt 327, 377, 471.5)
 
-### 277.【Jack/Jesse】S05E06 anti-Christ keeps balance with God
+### **277.【Jack/Jesse+TFW】S05E06 anti-Christ keeps balance with God; or TFW raise God+Antichrist up together**
 
 demon's son & devil's son, Jack finds Jesse in Australia, bring him back to his family, the two become besties, hang out together, enjoy the life
 
 whenever one goes bad, the other keep balance, they're the only one powerful enough for the other
 
 what if both of them come up with a bad boy joke (just like all teen boys) and go for it, make a terrible mistake, the parents (TFW) get pissed, save the world together again
+
+(basically, Jesse is the new Darkness, except he's not really "dark"; Jesse needs a chance to grow up normally like a kid, he was 11y in S05, so ~21y in S15 timeline, Jack is physically about the same age; but Jesse has been living alone in Australia without seeing his parents for the past ten years, or maybe he mostly lives in his own created bubble world, almost like djinn world/WandaVision world, with an imagined version of his parents and family, raising himself up but not really growing, so he stays ~11y forever. Jack notices something wrong in Australia and finds Jesse this way. TFW feel guilty for Jesse and raise Jesse/Jack up together. background destiel, raising kids up plot inspired by sobsicles' [let's take a drive](https://archiveofourown.org/works/32581027) raise up four-year-old Jack)
 
 ### 278.【Michean/Micifer】S05E01 Michael goes gentle/friendly on Dean
 
@@ -6144,4 +6146,10 @@ Dean gets attracted by the radio host and his low voice, and music choice. He li
 
 When there's chance calling into the station to actually talk with Cas for real, Dean initially hesitated, but maybe got encouraged by Sam, calls in and talks with Cas and starts having connection. Then the same angst as the movie "Sleepless in Seattle" (but change the city Seattle to some other Midwest small town) about whether to meet or not, if they meet, there's probably some initial misunderstanding of their life and they get discouraged. But then give each other second chance, enough courage and trust in each other to run to Empire State Building, almost miss each other but at last moment they run into each other and finally meet and immediately know they're in love.
 
-### 480.
+### 480.【Adam/Jesse】Antichrist meets antichrist (Good Omens xover)
+
+(inspired by GO3 finale ending where Adam hang out with Jesus, so it's Antichrist hanging out with Christ, combine with idea in prompt 277, Jesse can hang out with Jack, what if those two pairs crossover, then antichrist meet antichrist, Adam meet Jesse)
+
+Adam's power can turn anything he imagines into reality, and Jesse is basically the same, the funny part is as similar aged boys, their curiosity and imagination is similar in theme but different in appearance (Adam imagines about space, alien, nuclear; Jesse about monsters, tooth fairy, toys can actually function), if they meet, they might have idea collision and have even crazier reality than either of them can imagine alone, or they may cancel each other out. but nothing they do is really evil, they're just kids having fun and imagining things kids like to imagine. but there'd still likely be collateral damage/harm to real people. Jack/TFW/Adam's friends/family would need to interfere and rein them in.
+
+### 481.
