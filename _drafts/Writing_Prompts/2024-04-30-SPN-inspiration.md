@@ -6134,4 +6134,14 @@ The tension keeps growing like that, until to the point Dean thinks he won't be 
 
 So they get together, and they'll figure out their boundary and other things together.
 
-### 479.
+(That "something happened" can be other different incidents, like something related to Dean's homeland security background and Cas gets involved, something angsty, Dean has to get out of his way to stick his neck out for Cas, both would start realizing they'd be willing to give more for each other than they normally would for anyone else, and start realizing for themselves and for others that they're falling for each other)
+
+### 479.【destiel】西雅图不眠夜AU
+
+(inspired by FM94.9 morning host British Ian Camfield) (a little cliche/cheesy romantic probably)
+
+Dean gets attracted by the radio host and his low voice, and music choice. He listens to radio a lot in midnight, especially when he's driving, and he hates it when he drives out of range and the voice cuts off, so he finds himself going back to the same region more often than any other areas, wondering where Cas really is.
+
+When there's chance calling into the station to actually talk with Cas for real, Dean initially hesitated, but maybe got encouraged by Sam, calls in and talks with Cas and starts having connection. Then the same angst as the movie "Sleepless in Seattle" (but change the city Seattle to some other Midwest small town) about whether to meet or not, if they meet, there's probably some initial misunderstanding of their life and they get discouraged. But then give each other second chance, enough courage and trust in each other to run to Empire State Building, almost miss each other but at last moment they run into each other and finally meet and immediately know they're in love.
+
+### 480.
