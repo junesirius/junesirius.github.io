@@ -10,9 +10,9 @@ origin: AO3
 published: false
 ---
 
-**Tags:** John Winchester's A+ Parenting, Kid Fic, Kid Dean, Five-year-old Dean, Baby Sam, One-year-old Sam, Weechesters, Dean has never seen a cat before, cat is not really a cat, I didn't know Cas is gonna be in this story before writing but he is, I didn't know it's gonna be a destiel story before writing but it is, hunger is a constant theme, childhood trauma but they don't know it yet, Main Character Temporary Death, Case Fic, Growing Up, Canon Divergent
+**Tags:** John Winchester's A+ Parenting, Kid Fic, Kid Dean, Five-year-old Dean, Baby Sam, One-year-old Sam, Weechesters, Dean has never seen a cat before, cat is not really a cat, I didn't know Cas is gonna be in this story before writing down the first word but he is, I didn't know it's gonna be a destiel story before started writing but it is, hunger is a constant theme, childhood trauma but they don't know it yet, Main Character Temporary Death, Case Fic, Growing Up, Cat Castiel, Prayers, Canon Divergent
 
-**Pairing:** Castiel & Dean Winchester
+**Pairing:** Castiel & Dean Winchester, Castiel/Dean Winchester
 
 **Rating:** General
 
@@ -22,7 +22,33 @@ published: false
 
 ## Draft
 
-### Posting Summary
+### Claim
+
+#### Summary
+
+Dean's five years old, Sam's one year old. They've never seen a cat before in their life. And so when they hear something moving under their motel bed, and a blue-eyed black furry creature that they've never seen before pops out, they get scared, thinking it's a monster. Only to learn later that this is called a "cat".
+
+Dean's allergic to cats, but he loves it (it's a "he" to him, named him Cat) immediately and begs to his Dad for keeping him. The cat lives with them, helps them and protects them in ways they don't know possible (but they also don't know if it's normal or not, since he's the first cat they've ever seen).
+
+Dean tries very hard to protect and feed his brother, but John's away a lot, and the boys are often hungry (hunger is a constant theme here), and the cat would help feed them. When there are case fic dangers, the cat protects them (including some reference from canon flashback cases, like the Shtriga case that almost kills Sam, and a few more).
+
+The cat basically grows up with the boys, helping make their childhood slightly better than what would have been. Fast-forward to the canon timeline (brief mentions), when Sam's in college and John's solo-hunting, Dean's hunting with the cat; when Dean takes the deal to save Sam and only has one year to live, the cat is devastated and desperate trying to save him. Right before the hellhounds get to Dean, the last thing Dean asks of Sam is to take care of the cat for him. And the first thing he asks Bobby and Sam when he comes back is where his cat is. But the cat has been gone since the day he went to Hell.
+
+Only when Cas shows up in human vessel and meets him for the first time does Dean know the cat has been Cas all along. Cas has an explicit order that they can't interfere and they're forbidden to "set foot on Earth", but he thinks technically he's only "set paws on Earth", so he didn't violate the order. He wanted to make sure Dean's okay because he's Dean's guardian angel, and he's been there for him all this time as his guardian angel cat. Converge back to canon as they fight together for the apocalypse and save the world again, but they wouldn't have to have the slow initial "get to know each other" to learn to trust each other phase, because they've known each other for twenty years already. Dean's known him for basically all his life. And he loves him whatever form he's in, whether a cat or a human.
+
+#### Visuals
+
+Kid Dean hugs a black cat and falls asleep. (in the same scene but optional to include: little baby Sam is also sleeping right next to them.)
+
+The cat is wounded, kid Dean takes care of him, applying meds on his paws and wraps up for him.
+
+In the Impala, the cat sits on Dean's lap. (in the same scene but optional to include: little Sam sits next to them, John's driving.)
+
+The boys and the cat share food: a pizza box on the table between kid Dean and baby Sam, a dead rat before the cat.
+
+### Posting
+
+#### Summary
 
 There's a monster under the bed, and it says, "Meow".
 
@@ -32,33 +58,45 @@ Or, how would a five-year-old and a one-year-old know a cat is a cat, when they'
 
 Just a story of little boys and a cat.
 
+#### Snippets
+
+(TBA)
+
+### Arts
+
+#### Banner
+
+#### Art
+
 ### Words before the work
 
-Just keep in mind that this story is written in Dean POV, and Dean's five years old, and a five-year-old isn't always the most reliable source of truth when retelling what happened. So maybe some of the things aren't what he thinks are happening, or are they?
+Just keep in mind that this story is written in Dean POV, and Dean's five years old when the story starts, and a five-year-old isn't always the most reliable source of truth when retelling what happened. So maybe some of the things aren't what he thinks are happening (or are they?).
 
 ### Words after the work
 
-This story's initial idea was inspired by a very cute video of my dear friend BucketOfLi's cat (and very much is like a monster under the bed). But then, as I write mindlessly, after Dean saw the cat for the first time in his life (that's where I originally thought would be the ending of the story), when Dean starts thinking about giving the cat a name, I lost control of the story, the story itself just continued growing from there. Everything after that point is sorta entirely inspired by Neil Gaiman's black cat story "The Price" (or what's left of it that I still remembered), but I'd say even Gaiman's story idea probably isn't very novel, in a way -- there gotta be more people having thought that cats are angels, and what better angel/cat can it be other than Cas for little Dean and baby Sammy to grow up with.
+This story's initial idea was inspired by a very cute video of my dear friend BucketOfLi's cat (which is very much like a monster under the bed, in a good way). But then, as I write mindlessly, after Dean saw the cat for the first time in his life (that's where I originally thought would be the ending of the story), when Dean starts thinking about giving the cat a name, I lost control of the story, the story itself just continued growing from there. Everything after that point is sorta entirely inspired by Neil Gaiman's black cat story "The Price" (or what's left of it that I still remembered), but I'd say even Gaiman's story idea probably isn't very novel, in a way -- there gotta be more people having thought that cats are angels, and what better angel/cat can it be other than Cas for little Dean and baby Sammy to grow up with.
 
-If I have to credit another work that's a stretch but still quite some inspiration for the story construction: that's "CJ7", an 2008 movie. Really quite some stretch, but I remember it so dearly that I can *feel* its impact on the way this story forms and leads to the ending.
+If I have to credit another work that's a stretch but still quite some inspiration for the story construction: that's "CJ7", a 2008 movie. Really quite some stretch, but I remember it so dearly when watching as a child that I can *feel* its impact on the way this story forms and grows. Oh, and another one I loooove so much (not just love it, I *luve* it, *loove* it, *loooove it*) that I just *have to* nominate, and I think its impact is perhaps mostly on a subconscious level and so much impact nonetheless: *How (thanks to Gabriel) Dean and Castiel (accidentally) raised each other (and Sam)*. It's literally my first enlightenment of how to write kid fic.
 
 It should be pretty obvious since the beginning, but I'll still add redundantly here that, when you read this story, feel free to read as if all the "Cat" is exactly "Cas". You have no idea how many times my muscle memory has mistyped that during the writing. My brain knows it's Cas, my fingers know it's Cas, but I have to write Cat for the story's sake, and this is a discrepancy that messed with my eyes quite a lot. I did try very hard to insert "Cas" early on but just can't convince myself if there's a right place; there's just no good reason for the kid Dean to name the cat "Cas" when he first ran into him, so "Cat" is the next best thing I can do.
 
-I wrote this in the middle of a night in the middle of a tough week and my eyes were half-closed most of the time, and after re-reading, I realize the Sammy in my head is most definitely a bit (a lot) older than one year old to be able to talk that much and read and reason and be so mature (in a word, just too much like the normal adult Sam that I've got used to writing; in many ways, so are Dean and Cas in this story, pretty sure the Dean I'm writing is more intelligent and thoughtful and mature than any average five-year-old and the cat I'm writing isn't like any cat, but I'd pretend those are probably smaller problem than a one-year-old speaking long sentences and understanding the situation around him and comforting his older brother), I'll pretend it's because the demon blood in him makes him grow faster and ultra clever, and Dean doesn't freak out because he doesn't know what normal baby's learning and growing speed normally should be like, and John doesn't freak out because he isn't there long enough to notice, or maybe he noticed and freaked out and that's why he ran away so much. (This is mostly an after-thought patch, but my picky brain accepts the explanation, so I hope it works with you guys too.)
+I started writing this story in the middle of a night in the middle of a tough week and my eyes were half-closed most of the time, and after re-reading, I realize the Sammy in my head is most definitely ~~a bit~~ a lot older than one year old to be able to talk that much and read and reason and be so mature (in a word, just too much like the normal adult Sam that I've got used to writing; in many ways, so are Dean and Cas in this story, pretty sure the Dean I'm writing is more intelligent and thoughtful and mature than any average five-year-old and the cat I'm writing isn't like any cat, but I'd pretend those are probably smaller problem than a one-year-old speaking long sentences and understanding the situation around him and comforting his older brother), I'll pretend it's because the demon blood in him makes him grow faster and ultra clever, and Dean doesn't freak out because he doesn't know what normal baby's learning and growing speed normally should be like, and John doesn't freak out because he isn't there long enough to notice, or maybe he noticed and freaked out and that's why he ran away so much. (This is mostly an after-thought patch, but my picky brain accepts the explanation, so I hope it works with you guys too.)
 
-And, I feel like I should apologize for writing John Winchester's A+ parenting and writing him so very awful and probably triggering (in order to make the story make sense), as much as I know the fandom hates John Winchester even more than Chuck, the hatred and resent isn't the main focus and emotional theme for this story, (because... it's five-year-old Dean's POV, and five-year-old Dean loves and admires his Dad too much and can't see anything wrong, but also doesn't have as much emotional burden and weight as the grown-up Dean. He's only have one year of childhood trauma, not twenty, but that's not saying it's okay. He's five, Jesus.) Still, just wanting to say, let's pretend that's just the functional premise for the story, let's focus more on that cute powerful amazing black cat and those awesome little humans, sounds good?
+And, I feel like I should apologize for writing John Winchester's A+ parenting and writing him so very god-awful and probably triggering (in order to make the story make sense), as much as I know the fandom hates John Winchester even more than Chuck, the hatred and resent isn't the main focus and emotional theme for this story, (because... it's five-year-old Dean's POV, and five-year-old Dean loves and admires his Dad too much and can't see anything wrong, but also doesn't have as much emotional burden and weight as the grown-up Dean. He's only have one year of childhood trauma, not twenty, but that's not saying it's okay. He's five, Jesus.) Still, just wanting to say, let's pretend that's just the functional premise for the story, let's focus more on that cute powerful amazing black cat and those awesome little humans, sounds good?
 
 ### Editing Notes
 
-When posting: all separated parts with Day-stamps all publish together as one fic. The separators just to help jump around when writing.
+When posting: all separated parts with date-stamps all publish together as one fic. The separators just to help jump around when writing.
+
+The day they met Cat: It's Thursday, not Sunday (change that fortune cookie: date is 6.7). Every time Cat comes back: it's a Thursday, start seeing patterns
 
 ## Main
 
-### (Day 1)
+### (1984.6.7 Thursday, Day 1)
 
-> (Dean 1979, Sam 1983)
+> (Dean 1979.1.24, Sam 1983.5.2) (Mary die 1983.11.2)
 >
-> 1984 (Dean 5y, Sam 1y)
+> 1984.6.7 Thursday (Dean 5y, Sam 1y)
 >
 > Town 1
 >
@@ -74,7 +112,7 @@ He checks under the bed. There're spiders and cobwebs everywhere he can see, a p
 
 Sam just covers his ears with the bedcover, eyes closed. "There is, I can still hear it," he insists.
 
-If Dad's here, he'll know what to do. Dean thinks. But Dad went out a couple of hours ago, said he'd be back for dinner, but it's way past dinner time now. It's dark outside, and Sammy said he was hungry three hours ago. Dean found some cookies in the bag Dad left on the motel desk. Dean knew his Dad doesn't like him opening and checking that bag, he knew there were things in there that he wasn't supposed to touch (yet) -- the guns, specifically. He knew what they are, Dad said he'd teach him when he's six, so that's six months to go. But he had to; Sammy was hungry, what else was he suppose to do? Let him starve? If Dad yells at him later, then he'd just listen but knowing he wouldn't do anything any differently. It's not like there were enough for both of them anyway, just a small handful of fortune cookies, probably from the Chinese take-out they had the previous day. So he gave them all to Sammy.
+If Dad's here, he'll know what to do. Dean thinks. But Dad went out a couple of hours ago, said he'd be back for dinner, but it's way past dinner time now. It's dark outside, and Sammy said he was hungry three hours ago. Dean found some cookies in the bag Dad left on the motel desk. Dean knew his Dad doesn't like him opening and checking that bag, he knew there were things in there that he wasn't supposed to touch (yet) -- the guns, specifically. He knew what they are, Dad said he'd teach him when he's six, so that's seven months to go. But he had to; Sammy was hungry, what else was he suppose to do? Let him starve? If Dad yells at him later, then he'd just listen but knowing he wouldn't do anything any differently. It's not like there were enough for both of them anyway, just a small handful of fortune cookies, probably from the Chinese take-out they had the previous day. So he gave them all to Sammy.
 
 The kid read the little "daily fortune" on the fortune papers inside the cookies as if they really could bring them luck, so Dean pretended too. On the back of each paper, there's a Chinese word on them, teaching you how to speak Chinese. Dean wondered if anyone really learned Chinese that way, but for one-year-old Sammy, he'd settle with anything remotely book-adjacent to read, and that included those tinny little paper strips. So before the kid tired himself out, they both learned how to scribble the words for "please" and "stew" in Chinese, or at least they believed they did a decent job with those strokes in the scribbles.
 
@@ -148,7 +186,7 @@ He drifts asleep eventually as well, folding over the little thing. The creature
 
 Dean learns it's called a "cat", the next day, when his Dad comes back. And that it's *not* a monster (unless it's not *just* a cat), after a series of test his Dad conducted, including silver, iron and salt. The creature -- the cat -- doesn't particularly like the touch of various metals, probably because they're cold, but it appears curious about salt and tries to taste some, which makes Dean chuckle and reassures his Dad that it means it's "clean". Dean is very glad.
 
-He gets a speech from his Dad, not unexpectedly, about how he should be able to test whether the creature is a monster or just a creature -- especially when it's a new thing he's never seen before (though "cat" is actually a quite common creature, according to his Dad, they just haven't got a chance to run into one for Dean to acquaintance in his five short years of life) -- all by himself. He's surprised, though, that instead of being scolded for rummaging the duffle bag and taking the gun, his Dad puts a hand on his shoulder with a proud look, and tells him that this is the right thing to do; that if there is something coming to them, it's the right thing to do to protect Sammy and make his kid brother feel safe; and that if he wants, maybe they can start the lesson for that earlier than planned. Dean feels proud.
+He gets a speech from his Dad, not unexpectedly, about how he should be able to test whether the creature is a monster or just a creature -- especially when it's a new thing he's never seen before (though "cat" is actually a quite common creature, according to his Dad, they just haven't got a chance to run into one for Dean to acquaintance in his five short years of life) -- all by himself. He's surprised, though, that instead of being scolded for rummaging the duffle bag and taking the gun, his Dad puts a hand on his shoulder with a proud look, and tells him that this is the right thing to do; that if there is something coming to them, it's always the first and the most important thing to do to protect Sammy, to make sure his kid brother is safe; and that if he wants, maybe they can start the lesson for that earlier than planned. Dean feels proud.
 
 Even better, with his Dad's permission -- though not without quite some persuasion and begging, and Dean thinks the hesitant nod is probably mostly due to it being a reward for what he's done right, and Dad's in a not too bad mood this morning -- Dean gets to take the cat with him when they leave the motel and get moving again. Despite his very constant sneezing when he's too close to the cat -- which is only just a little inconvenience, Dean doesn't really mind -- he finds he's rather attached to the little thing, feeling all warm and fuzzy and *safe* when his hands are rubbing its fur. So his hands don't stop petting it when they sit in the car. The cat doesn't seem to mind at all either, curling up on his lap, purring comfortably.
 
@@ -158,7 +196,7 @@ And after a few tries, Dean manages to make Cat remember and react to the name. 
 
 <br>
 
-### (Day 2)
+### (1984.6.8 Friday, Day 2)
 
 > Day 2: Dean know Cat is cat
 >
@@ -176,13 +214,13 @@ Dean lowers his head. "Yes, Sir." And not saying anything else.
 
 The Impala drives away from the parking lot.
 
-His kid brother sits on the bed, watching the daytime TV. Dean glances at the TV, half expecting there to just play some random commercial, but noticing it's "Scooby-doo" on the screen. His mood lifts a bit.
+His kid brother sits on the bed, watching the daytime TV. Dean glances at the TV, half expecting there to just play some random commercial, but noticing it's "Scooby-Doo" on the screen. His mood lifts a bit.
 
 "Scoot over, I want to watch that too," Dean crawls onto the bed next to his little brother, leaning back on the headboard. He adjusts his sitting posture, and then realizes he's missing the furry weight on his lap -- he's getting used to it after just one day.
 
 "Cat?" He calls out, frowning. The cat was right there a minute ago when they came into the room, but Dean doesn't see him now.
 
-"Please don't tell me you ran away, please." Dean murmurs, climbing back down the bed, forgetting about the Scooby-doo episode that's playing and he's already missing the opening scene.
+"Please don't tell me you ran away, please." Dean murmurs, climbing back down the bed, forgetting about the Scooby-Doo episode that's playing and he's already missing the opening scene.
 
 "Maybe he's under the bed again?" Sammy suggests, eyes still on the TV, goofy ghostly music ringing out as the episode rolls.
 
@@ -190,15 +228,15 @@ Dean crawls down to his knees on the carpet, peeking under the bed. It's as dark
 
 "Cat?" He whispers again.
 
-The crunchy sound pauses a second, and then the blue eyes emerge. There's a dead rat between his teeth, the limbs and tail limping around his mouth. Cat meets Dean's eyes, wide and blue, and then right before his eyes, he drops the rat and pushes it closer to Dean with his paws.
+The crunchy sound pauses a second, and then the blue eyes emerge. There's a dead rat between his teeth, the limbs and tail limp around his mouth. Cat meets Dean's eyes, wide and blue, and then right before his eyes, he drops the rat and pushes it closer to Dean with his paws.
 
 Dean blinks. "You're hungry." He realizes and immediately starts feeling bad. They never really have enough food, he can barely keep Sammy not to starve, let alone himself, how would he be able to feed Cat now? He completely forgot to think about the food shortage problem when he got excited with the idea that he got to keep Cat with him. Their life isn't exactly a perfect life for a creature to live with. And apparently, Cat is hungry now, and he can't do anything to help.
 
 Dean ducks his head shamefully. "I'm so sorry, buddy. I forgot about your dinner, that you have to scrap it yourself." He eyes the dead rat, which, actually looks not too bad, for a cat, at least it looks juicy and full of protein and meaty, which means nutrition. He can't even guarantee all that for Sammy's food all the time, much less for his own.
 
-He nods at the rat, talking to Cat again. "And sorry for interrupting your dinner. You can get on with it. Just wipe it clean before you come join us for TV, alright?" He makes a gesture of wiping his own mouth, feeling a little silly talking with the cat about manner like he can understand. But in the way the cat looks back at him, he thinks he really can. He wonders if Dad just forgot to tell him that the most important thing about this cat creature is that they can understand humans, or it's just Cat. He gets a feeling that Cat is different, unique, special.
+He nods at the rat, talking to Cat again. "And sorry for interrupting your dinner. You can get on with it. Just wipe it clean before you come join us for TV, alright?" He makes a gesture of wiping his own mouth, feeling a little silly talking with the cat about table manners like he can understand. But in the way the cat looks back at him, he thinks he really can. He wonders if Dad just forgot to tell him that the most important thing about this cat creature is that they can understand humans, or it's just Cat. He gets a feeling that Cat is different, unique, special.
 
-Cat tilts his head, pushing the dead rat again with his right front paw, moving it closer to Dean. Dean eyes the rat again, and then Cat, then back to the rat. "You... want to give it to me?"
+Cat tilts his head, pushing the dead rat forward again with his right front paw, moving it closer to Dean. Dean glances at the rat again, and then Cat, then back to the rat. "You... want to give it to me?"
 
 Cat lets out a quiet "meow" as answer.
 
@@ -208,7 +246,7 @@ Cat doesn't seem very convinced, but he does eventually lowers his head to bite 
 
 Dean doesn't realize he's just staring at Cat until Sammy calls for him, "Dean, this episode is ending if you don't come to watch quickly."
 
-Dean breaks the gaze and scrambles up, crawling back onto the bed, right in time to watch Scooby-Doo does his impressive acrobatic movies and defeats the bad guys without any of them even see it coming. He has a sudden feeling that Cat can do all these too, with his teeth and paws and all that, kicking the baddies on the butt and sending them to police.
+Dean breaks the gaze and scrambles up, crawling back onto the bed, right in time to watch Scooby-Doo does his impressive acrobatic moves and defeats the bad guys without any of them even see it coming. He has a sudden feeling that Cat can do all these too, with his teeth and paws and all that, kicking the baddies on the butt and sending them to police.
 
 "They should make TV for cats too, not just dogs," Dean comments suddenly. Little Sammy gives him a funny look.
 
@@ -294,7 +332,7 @@ Dean warned him not to get under the bed or go outside at least for the night be
 
 <br>
 
-### (Day 3)
+### (1984.6.9 Saturday, Day 3)
 
 > Day 3: John throws Cat away
 
@@ -374,7 +412,7 @@ Dean crashes down on the chair, crying.
 
 <br>
 
-### (Day 4)
+### (1984.6.10 Sunday, Day 4)
 
 > (Day 3)
 >
@@ -388,7 +426,7 @@ Dean crashes down on the chair, crying.
 
 His Dad comes back after two hours, face icy cold. "Pack your things, we're leaving," he demands.
 
-Dean doesn't say anything, just follows the order like he's been doing in the past year. He misses his Mom, he misses home, he misses toast for breakfast and pie for dinner, and he's so tired of sitting in cars all days and having to stay in motel rooms all nights. But he already learned his lesson better not to tell his Dad all that, and he can't talk to his toddler brother yet. So he keeps all that to himself, staring outside the window as they move to the next unknown little town, knowing the rest of the day wouldn't be much different.
+Dean doesn't say anything, just follows the order like he's been doing in the past seven months. He misses his Mom, he misses home, he misses toast for breakfast and pie for dinner, and he's so tired of sitting in cars all days and having to stay in motel rooms all nights. But he already learned his lesson better not to tell his Dad all that, and he can't talk to his toddler brother yet. So he keeps all that to himself, staring outside the window as they move to the next unknown little town, knowing the rest of the day wouldn't be much different.
 
 But the rest of the day is a little different. His Dad teaches him how to use a gun for the first time. It's scary, to start with. Dean doesn't realize how loud it is when he pulls the trigger, and the recoil almost hits his face and eyes. He's glad the car is parked far away to the woods where Dad's letting him to practice, but also close enough that they can still keep an eye on. Dean doesn't like it that he has to leave Sammy in the car alone while him and Dad are out here, but he'd be even more worried if Sammy is anywhere near this dangerous thing in his hand. He's very glad that that night when he tried to find the monster under the bed, he didn't touch anywhere near the trigger or accidentally fire it. He would hate it -- he would hate himself so so much -- if that thing happened to be pointing anywhere near Sammy or Cat.
 
@@ -486,17 +524,39 @@ The poor motel electricity takes three seconds and many blinks to turn the light
 
 (Dean stick his neck out for Cat, rebel against John for the first time. "If you kick him out again, you'll leave me here too." John actually leaves. Dean panics but no regrets, he walks on street for miles and sits by the road. They're in South Dakota, Jody (20y, patrol officer) finds him and takes care of him. Jody gets John back, scolds him, makes him take Dean and Cat, and John obeys. Cat sorta just starts living with them due to Dean's strong insistence and that's one thing John can't do anything to change his mind.)
 
-### (1989)
+### (1986)
 
-> 1989 (Dean 10y, Sam 6y)
+> 1986 (Dean 7y, Sam 3y)
+>
+> play in Impala
+>
+> Sam cram green army man in a backseat ashtray
+>
+> Dean play with Legos
+>
+> carve initials on the wood passenger tray underneath the backwindow
+>
+> sit on the hood, watching star (Cat bring Dean a constellation book, meow at "Cassiopeia", Dean rename him Cas because of that?)
+>
+> Cat bring Dean/Sam books, basically homeschool both of them
+
+### (1988)
+
+> 1988 (Dean 9y, Sam 5y)
+>
+> Dean's first case is before 9y (because Sam use that to convince Dean to take him with Sam's 9y)
+
+### (1989.4.6 Thursday)
+
+> 1989.4.6 Thursday (Dean 10y, Sam 6y)
 >
 > Fort Douglas, Wisconsin
 >
 > Shtriga case, Cat save Sam, Dean hungry looking for food (Cat got Shtriga, John not sending boys to Pastor Jim; Cat 1 died, Dean mourn and heartbroken, Cat 2 come back for him)
 
-### (1989)
+### (1989.5.2 Tuesday)
 
-> 1989 (Dean 10y, Sam 6y)
+> 1989.5.2 Tuesday (Dean 10y, Sam 6y) (Sam's birthday)
 >
 > Sioux Falls, South Dakota
 >
@@ -504,9 +564,9 @@ The poor motel electricity takes three seconds and many blinks to turn the light
 >
 > Dean at Bobby's, "supposed to practice double-barrel", Bobby play throw ball
 
-### (1989)
+### (1989.10.31 Tuesday)
 
-> 1989 (Dean 10y, Sam 6y)
+> 1989.10.31 Tuesday, Halloween (Dean 10y, Sam 6y)
 >
 > meet Fred Jones (50y), John's contact, psychokinetic (Dean: "Like Jean Grey"), call Sam "Scrawny one"
 >
@@ -514,9 +574,17 @@ The poor motel electricity takes three seconds and many blinks to turn the light
 >
 > (how does John have a psychokinetic contact?) (case fic? Fred gets a sense on Cat, but can't read mind, but can change reality with his mind, Cat freaks out around him; something went wrong with psychokinetic, Cat 2 died protecting Dean? Cat 3 comes back?)
 
-### (1990)
+### (1990.1.9)
 
-> 1990 (Dean 11y, Sam 7y)
+> 1990.1.9 (Dean 11y, Sam 7y)
+>
+> Windom, Minnesota, ghoul case
+>
+> John meets Adam's mom Kate Milligan (are the boys around too?)
+
+### (1990.1.24 Wednesday)
+
+> 1990.1.24 Wednesday (Dean 11y, Sam 7y) (Dean's birthday)
 >
 > Dean's favorite burger, sea-side shack in Delaware (because hunger+sea)
 >
@@ -524,9 +592,9 @@ The poor motel electricity takes three seconds and many blinks to turn the light
 >
 > (classic plain white hamburger bun, soft, slightly wrinkled, tightly packed; thin flat wide beef patties, irregular edges; melted yellow American/cheddar cheese, draped directly over the meat; white wax/greaseproof paper wraps)
 
-### (1991)
+### (1990.9.3 Monday)
 
-> 1991 (Dean 12y, Sam 8y)
+> 1990.9.3 Monday (Dean 11y, Sam 7y)
 >
 > Dean make his first sawed-off shotgun (John keeps it in storage forever)
 >
@@ -534,20 +602,56 @@ The poor motel electricity takes three seconds and many blinks to turn the light
 >
 > (something happened at school? case fic again? ghost like the one Sam remember at school? Cat 3 died, Cat 4 come back? legend that black cat can see through veil, Dean believing)
 
-### (1991)
+### (1991.12.24 Tuesday)
 
-> 1991 (Dean 12y, Sam 8y)
+> 1991 Tuesday (Dean 12y, Sam 8y)
 >
 > Broken Bow, Nebraska
 >
-> Christmas, Sam give Dean God amulet
+> Christmas, Sam give Dean God amulet, it's warm (angels have been touched by God, amulet grows hot around God or God-sourced power)
+>
+> (Sam believe Mom die in car accident)
+>
+> Cat steal them gifts, Dean steal them gifts, dress Cat up
 
-### (2009)
+### (fast-forward)
 
-> fast-forward, different Cats accompany Dean grow up, always scare him so much to lose each of them and keep losing, not know how much he can take, don't know how they deserve Cat, still don't know if there's anything strange/supernatural/powerful about Cat, still could be all just natural cat
+> **1992 (Dean 13y, Sam 9y)**: Sam has imaginary friend Sully, Dean/John hunt without Sam, Dean promise will talk to John about letting Sam join hunt (Dean ask Cat to be with Sam)
+>
+> **1993.1 (Dean 14y, Sam 10y)**: Rooster Sunrise Motel, Wadsworth, Ohio; Baba Yaga case (Caitlin, Travis Johnson)
+>
+> 1994 summer (Dean 15y, Sam 11y (6th grade)): Mayflower Motel, Housatonic, Massachusetts (John gone for 2 weeks), Sam/Dean taken care of by maid Donna
+>
+> **1995 (Dean 16y, Sam 12y)**: Dean crossbow hits werewolf with silver-tipped arrow in heart, (with John) take it into the woods to burn, Dean injured from the werewolf hunt
+>
+> **1995 summer (Dean 16y, Sam 12y)**: Dean get caught stealing food, sent to Sonny's boys home for 2 months (where did Cat go? forced separation? Sam/Bobby take care of Cat for him?), meet Robin; Sam sent to live with Bobby
+>
+> 1995 (Dean 16y, Sam 12y): Sam (at school?) win a Division Championship Soccer trophy
+>
+> **1996.7.4 (Dean 17y, Sam 13y)**: Fourth of July fireworks (a full box), accidentally burn down the field
+>
+> **1997 summer (Dean 18y, Sam 14y)**: Dean/Sam hunt a werewolf
+>
+> 1997.11 (Dean 18y, Sam 14y): Truman High School, Fairfax, Indiana, Dean girlfriend Amanda Heckerling, Sam fight bully
+>
+> **1997? (Dean 18y, Sam 14y)**: Sam run away on Dean's watch, Flagstaff, Arizona, for 2 weeks and adopt a dog  Bones, live on junk food; Dean think Sam's dead (Cat help find Sam)
+>
+> 1998 (Dean 19y, Sam 15y): Dean/John hunt a kitsune with Sam's help (Sam at school)
+>
+> 1998 (Dean 19y, Sam 15y): Sam is a Mathlete in high school (Sam at school)
+>
+> 1998/1999 (Dean 19y, Sam 15y): Sam/John in Orlando banshee case, Dean solo trip in Lisa's place (Cicero, Indiana)
+>
+> **2001-2005 (Dean 22-26y, Sam 18-22y)**: Stanford era, Dean date Cassie (because of Cat?), Athens, Ohio; solo hunt a pair of vetala, voodoo in New Orleans
+
+### (2008.9.18 Thursday)
+
+> fast-forward, different Cats accompany Dean grow up, always scare him so much to lose each of them and keep losing, not know how much he can take, don't know how they deserve Cat, still don't know if there's anything strange/supernatural/powerful about Cat, still could be all just natural cat (Dean gets teased because he's like "witch with a black cat")
 >
 > 101 Sam see Dean's solo hunting but still with Cat, "You still kept him?" "Where else would he go? -- Where else would *I* go without him?"
 >
 > S3 Cat desperately try to save Dean but can't, crying before Hell hound gets him. Dean last word ask Sam to take care of Cat
 >
-> 401 Dean finds Bobby/Sam, first thing asking about Cat, but both say Cat's missing. Dean can't find him anywhere. Until Cas come and tell him he occupied different vessels. Dean realize it's Cas all along, saving him, growing up with him, has died for him so many times already, hugging him, thanking him. Cas from 401 isn't hammer angel at all, he's been living/growing up with Dean for the past 25y, it feels longer than his entire existence. (cat is a strong spirit creature that can connect to holy power without combust for a few year, but would still eventually deteriorate, "That's why you had to keep jumping around"; Jimmy was born 1973, 6y older than Dean, when they first met Dean was 5y, Jimmy was 11y, Cas can either choose cat or wait until Jimmy is ready at 36y, he chose cat.) They still have an apocalypse coming, but they have each other to fight against it. (Dean to Cas: "I'm so sorry everything my dad put you through" Cas: "I'm so sorry for everything he put *you* through. I tried to help, but there's only so much can a cat do. My vessel has very strong instinct most of times that they overwhelm me." Dean: "I know you're an angel" "You do?" "All cats are, but you, more so than any")
+> 401 Dean finds Bobby/Sam, first thing asking about Cat, but both say Cat's missing. Dean can't find him anywhere. Until Cas come and tell him he occupied different vessels. Dean realize it's Cas all along, saving him, growing up with him, has died for him so many times already, hugging him, thanking him. Cas from 401 isn't hammer angel at all, he's been living/growing up with Dean for the past 25y, it feels longer than his entire existence. (cat is a strong spirit creature that can connect to holy power without combust for a few year, but would still eventually deteriorate, "That's why you had to keep jumping around"; Jimmy was born 1973, 6y older than Dean, when they first met Dean was 5y, Jimmy was 11y, Cas can either choose cat or wait until Jimmy is ready at 36y, he chose cat. The order forbids them to "walk the earth" or "set foot on earth", Cas: "they didn't say I can't set paws on Earth", Cas knows it's always destined to be Dean, he just wants to be there to make sure he's safe) They still have an apocalypse coming, but they have each other to fight against it.
+>
+> (Dean to Cas: "I'm so sorry everything my dad put you through" Cas: "I'm so sorry for everything he put *you* through. I tried to help, but there's only so much can a cat do. My vessel has very strong instinct most of times that they overwhelm me." Dean: "I know you're an angel" "You do?" "All cats are, but you, more so than any")
