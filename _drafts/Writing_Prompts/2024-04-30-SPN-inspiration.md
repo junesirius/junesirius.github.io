@@ -134,6 +134,8 @@ Gabe把Cas困在电视里，就像S03E11给Sam的lesson一样，让卡一遍遍�
 
 （see more in S05E08观后感）
 
+(→ prompt 483)
+
 ### 7.【destiel】S05E12 灵魂交换梗（R级）
 
 如果是Dean和Sam换了灵魂，或者Dean和Cas（跟天使换魂这件事风险似乎很大的样子），第一件事说不定（对Dean来说99.999%的肯定）会先探索自己的身体，然后，咳，如果是凹三同人的话就可以直接开始吃肉了///（然后就会发现好像很难区分到底是D/C还是C/D了，对那些介意前后顺序的洁癖来说大概会是最麻烦的AU了）
@@ -6154,4 +6156,46 @@ When there's chance calling into the station to actually talk with Cas for real,
 
 Adam's power can turn anything he imagines into reality, and Jesse is basically the same, the funny part is as similar aged boys, their curiosity and imagination is similar in theme but different in appearance (Adam imagines about space, alien, nuclear; Jesse about monsters, tooth fairy, toys can actually function), if they meet, they might have idea collision and have even crazier reality than either of them can imagine alone, or they may cancel each other out. but nothing they do is really evil, they're just kids having fun and imagining things kids like to imagine. but there'd still likely be collateral damage/harm to real people. Jack/TFW/Adam's friends/family would need to interfere and rein them in.
 
-### 481.
+### 481.【Rowena/Patrick】S05E07 What if Rowena meet Patrick the witch
+
+What if Rowena meets Patrick the witch
+
+Rowena is three hundred years old, Patrick is nine hundred years old
+
+both are charming, pretty sure they'd get attracted by each other
+
+what if Patrick's girlfriend in this episode is actually Rowena (instead of S08, she starts showing from S05), she wouldn't get so devastated about living forever, she's old too but not as old as Patrick, which would be more reason for her to be charmed by Patrick
+
+Sam about Patrick's girlfriend Lia: "For a witch, you're so nice, it's actually kind of creepy." but if it's Rowena, she wouldn't be "so nice," she would be evil (unless she starts having ideas messing with Sam by showing up friendly first, so it could also be Rowena/Sam canon divergent)
+
+if Patrick was there in S15, he might be able to give Rowena years to save her? (He's bullet-proof (could be bluffing?) and apparently not worried about death, and can offer that to anyone he likes)
+
+### 482.【Dean/destiel】what if S10E22 MoC Dean wants to die and ask Cas to kill him after he outlives Sam and everyone he loves, like S05E07 Patrick's girlfriend Lia
+
+> Lia plays Patrick and purposely loses, since she is no longer able to cope with having outlived her daughter and all those she loves (-- S05 Official Companion Book P44)
+
+Lia wants to die when all those she loves died (not including Patrick, which hurts Patrick a lot), does that mean MoC!Dean might act that way very similarly as well? When Sam (=Lia's daughter) and all those he loves (=Bobby and everyone) has died, like when Cas said in S10E22 "Sam, and everyone you know, everyone you love... they could be long dead. Everyone except me. I'm the one who will have to watch you murder the world." maybe by that time, instead of killing the world, Dean would want to die just like Lia did, he'd ask Cas to kill him. (but Cas can't) (and it hurts so much to know he's not included in the "everyone he loves" and he's not enough reason for Dean to want to keep fighting/living)
+
+### **483.【all】S05E08 What if existing in TV land does hide/protect Sam/Dean from being found by Michael/Lucifer**
+
+What if Gabriel's "Changing Channels" TV land does hide Sam/Dean(/Cas) from Michael/Lucifer, it's like a pocket universe/dimension that only Gabriel has access to, as long as Michael/Lucifer can't find Gabriel or the TV land dimension, they can't find/use/force Sam/Dean to be their vessels. They can use their non-ideal vessels, but neither of them feel confident enough to win the fight in the less-ideal vessel, so they hesitate/procrastinate in starting Apocalypse before finding them. So it's like Gabriel single-handedly paused the Apocalypse just by jerking around without himself really realizing how big of a deal what he did is.
+
+So if "Changing Channels" timeline Sam/Dean didn't catch Gabriel and Gabriel holds his promise of "keeping the two of them in the TV land forever, 300 channels and nothing is on", when they're suffering in the TV land (but not really suffering the same as they're in the real world), on the outside, Michael/Lucifer is frustrated and trying to find/attack their way in, and in order to do that the two of them work together brotherly. Gabe can't really fight against the two of them combined, but he's good at hiding and running and doing tricks, so he does that, and as long as Michael/Lucifer can't find him/the dimension, or think they find it but realize it's just a layer wrapping over the real one, the real Sam/Dean are in lower/higher layers (like in *Inception*). And with Cas inside the TV land, also serving as some power supply to fight against the outsider attack from inside, supporting Gabe, so basically like Cas/Gabe fight side-by-side (without knowing they're really allying, but Gabe does need him, and Cas knows now that he's protecting Sam/Dean this way, and then Gabe realizes belatedly that's what's happening too, not exactly what he planned, but seems to work, and become what he wanted too, let Michael/Lucifer work together).
+
+(→ prompt 6)
+
+### 484.【Michael/Dean, Lucifer/Sam】S05E13 angels/demons killing Sam/Dean, Michael/Lucifer has to protect them
+
+Similar to Anna's idea of killing Sam permanently and scatter his remains until no one can piece him together (does that mean every time anyone is resurrected, the new body is always recollected their old cells and reuse them, never building the new body, not Ship of Theseus, it's always the same old body. That means when Cas puts Dean back together, all the cells are recollected from his old body when Hell Hounds tear him apart, Cas must have spent a lot of time finding each cell), there are too many other angels want to do that to Sam and demons do that to Dean, so that they can make sure their side wins. In order to prevent that from happening, Michael has to constantly protect/save Dean, Lucifer does the same for Sam, and transitioning into almost looking as if genuinely caring and worrying about them → gradually causing Dean to trust Michael more (in the same way canon Dean trusting Cas slowly gradually based on how much Cas did for him) because of how many times Michael save him from demons, and even Sam starts to trust Lucifer more because of how many times Lucifer save him from angels. And maybe that eventually leads to Dean willing to say yes to Michael (maybe in order to save him), and Sam intrinsically willing to say yes to Lucifer (maybe also in order to save him some way).
+
+kinda like the meme/prompt just recently run into again in qzone: the most attractive woman in the town announce if anyone can get a hold of the key on her cat's neck and open her door, she'd marry them. But the cat is too clever and quick to be captured by any attempt or trap or force. But the simple easiest, most straightforward way is to get friendly with the cat, getting close, earning the trust, befriending the cat, until the cat willing to be close and snuggle and allow you to take the key. Plot twist: the woman is a shapeshifter, she *is* the cat.
+
+so this is practically the "getting close to earn trust" for angels and their vessels. guess the pairing would be: Michael/Dean, Lucifer/Sam. (a little unconventional and less reader, probably)
+
+### 485.【destiel】S05E13 Dean say yes to Cas except it's Michael in disguise
+
+If there's anyone that Dean would say yes to, that would be Cas. Maybe it's a scenario like in S05E13 where Cas passes out, deeply wounded, has to leave his body/vessel, and Dean, thinking that's the only way saving Cas and he doesn't want to lose him, say yes to let Cas in, except that's actually Michael in disguise. Michael tricks Dean to say yes by pretending to be Cas in the same way Lucifer pretends to be Jessica for Sam, Nick's wife for Nick, and Vince Vincente's girlfriend for Vince. Michael doesn't usually do trick things like Lucifer but he's getting desperate too, and the only one that Dean would say yes to be willingly possessed is Cas, so Michael exploits it.
+
+[tumblr post](https://www.tumblr.com/junesirius/823412547385491456)
+
+### 486.
