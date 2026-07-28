@@ -1143,3 +1143,6 @@ drop announcement (Short): 2026.6.27, 2026.7.1, 2026.7.3
 special words from Rich, Matt & Tessa (Short): 2026.7.2
 
 Behind The Scenes: 2026.7.4
+
+*"To be frank, the relationship that you have with your brother seems dangerously co-dependent. I think a little time apart will do you both good." (SPN S05E11) can be applied to Hilly/Hannah too. They've done everything, every project together since young. They're almost practically as co-dependent as the Winchesters. This is the first project Hilly has ever done without her sister. It's scary.*
+
