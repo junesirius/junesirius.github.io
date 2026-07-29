@@ -6,7 +6,7 @@ categories: ["SPN"]
 characters: ["Dean Winchester", "Sam Winchester", "Castiel", "John Winchester", "Bobby Singer"]
 tags: ["Supernatural", "英文", "destiel"]
 pov: 第三人称
-origin: AO3
+origin: 2026 DCBB
 published: false
 ---
 

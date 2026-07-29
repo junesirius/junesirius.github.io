@@ -6,7 +6,7 @@ categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Bobby Singer", "Jody Mills", "Sam Winchester"]
 tags: ["Supernatural", "destiel", "英文"]
 pov: 第三人称
-origin: 2026 DCBB
+origin: 2027 DCBB
 published: false
 ---
 
