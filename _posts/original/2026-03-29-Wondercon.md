@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【日志】Wondercon 漫展
+title: 【漫展】Wondercon 漫展
 date: 2026-03-29 23:59
 categories: ["原创"]
 characters: 
