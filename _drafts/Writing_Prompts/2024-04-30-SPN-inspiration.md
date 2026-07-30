@@ -6202,4 +6202,48 @@ S05E13 when Cas passed out flying them back in time and spitting blood everywher
 
 [tumblr post](https://www.tumblr.com/junesirius/823412547385491456)
 
-### 486.
+### 486.【destiel】Make out with angel/demon can make one clean/dirty, so Cas has to do that to clean Sam, Dean's jealous/aching/pining
+
+inspired by:
+
+S04E09 Sam describes to Dean about how him and Ruby make out and begin to have sex.
+
+> Dean: Too much information.
+>
+> Sam: I told you I was coming clean.
+>
+> Dean: Yeah, but now I feel **dirty**.
+
+S06E10 Meg kisses Cas and Cas kisses back
+
+> Meg: What was that?
+>
+> Cas: I learned that from the pizza man.
+>
+> Meg: Well, A+ for you. I feel so... **clean**.
+
+What if it's literal: making out with a demon can make a human dirty, and making out with an angel can make them clean?
+
+If in S05 timeline Dean thinks this might be one of the ways to purify Sam's demon blood, make him clean, or maybe Sam wants it, and they think it might be worth a try, so they propose that Cas needs to make out with Sam. Both Cas and Sam are a little uncomfortable at the thought, but it's strategic, so for Sam's sake (and maybe potentially, they think, by helping Sam get rid of the demon blood, he wouldn't be the ideal vessel for Lucifer, then they could solve the Lucifer problem and prevent the Apocalypse, so basically maybe this is the solution to save the world), they have to kiss. And Dean doesn't realize how uncomfortable this makes *him* to see and he doesn't understand why, just secretly having a gay panic moment, rationalizing it as just because it's his friend and his brother, and they have the manly rule of not talking about these kinds of intimate activities or relationships. But Dean knows it's not any relationship, just a strategic move, but he's still so unsettled by it. He doesn't know it's jealousy.
+
+But they can't tell if it works or not. Sam doesn't feel any difference. Cas can still see Sam looks different (Anna has said Sam looks different after drinking so much demon blood, it changed him, angels can see demons' true faces when they're in the vessels (separate thoughts: that might mean demon-blood-drinking Sam might can also vaguely see Cas's true face, and it looks different from the vessel, and Sam mentions that to Dean in some casual talk, like "Did you notice Cas looks different", Dean doesn't, then as Sam elaborates, Dean realizes something must be wrong with Sam and he gets worried but also secretly jealous that he gets to see Cas's true face but Dean doesn't, that even makes Dean has a split second of thought wanting to try some demon blood just to see what Cas's true face looks like but he doesn't, of course.)), so it could be because Sam has been changed by the demon blood and demon sex too much that simply kissing isn't enough to fix/reverse/purify him, they have the horrifying realization that they might need angel sex. All of them are uncomfortable at the idea at first, but once again, this is strategic, so Cas is onboard first (which surprised Dean because this is probably not too long after S05E03 and he's seen how flattered Cas can get around the idea of sex and he's "never has the chance", but somehow right now he's agreeing so quickly. Dean doesn't realize he's annoyed/upset too, for no good reason.). Sam would be bitching a lot, but Dean would be like, some meds taste bitter but good for your health; you should've thought about this before you went to have sex with a demon; he's sure this can be worse, having sex with Cas can't possibly be worse than demon blood rehab. So they went to some motel room to do that; Dean's in the separate room feeling overwhelmed and aching and agonizing and just a mess, and he doesn't understand why, thinking maybe it's just because he's worried about Sam.
+
+And they come out, Cas says he thinks this is working; he can see less demon blood in Sam, but it still exists; they should continue doing this until Sam is purified. Dean has no way but to agree (and keep aching so damn much). Sam isn't happy but stops complaining.
+
+So they do that until Cas announces Sam's clean; Lucifer is officially pissed that Sam's no longer his ideal vessel; they basically reversed all of Azazel's effort from all these years ago. Dean's glad (that Sam's safe now) and relieved (that he doesn't have to think about Cas and Sam doing that again) and still a bit devastated (that "you're not going to die a virgin on my watch" but Cas's first time isn't with him), and he's startled to realize he's actually thinking that (hoping his first time is with him without realizing), and he starts to understand that's jealousy that he's feeling and he doesn't know what to do about it, and he doesn't know what Cas thinks about this whole thing with Sam (nothing, actually, Cas really only does it for practical outcome) or feels about it.
+
+More aching and pining from Dean, maybe even thinking Cas loves Sam, and slowly realizes he's fallen for Cas, until he can't take it anymore and one day just bursts out miserably (something bitter, like maybe Cas was just in the middle of talking about something random, then similar to S06E03 Sam's bitter "You like him better or what", it's now Dean asking Cas if he likes Sam better or what, Cas answers very plainly, no, he and Dean share a more profound bond, then Dean huffs and snorts and blurts out bitterly, "Then why did you do it with Sam not me?" Cas gets surprised and thinks he's being unreasonable, be like, "You don't have demon blood in you that needs my cleaning." Dean's like, "You don't know that, maybe I do. How would you know, you didn't check." Just being ridiculous with each other. And Sam watching this exchange and has the sudden realization of, "Oh my God, Holy, you're in love with him." Dean's like, "What are you talking about. Shut up." Cas: "Are you?" Dean can't answer and stutters, and yeah he's really so in love and miserable this whole time. Cas doesn't realize that until now, and goes with a straight face, "Okay, I can do that with you too. If you want. Just to check. In case." Which is kinda uncharacteristically babbling and he's nervous, almost like in the brothel again, but he's watching Dean. And that startles Dean so much he wouldn't believe it. But things just, sort of, get sorted out automatically.) Then Dean just goes into the motel room with Cas and smirks at Sam as he closes the door, being so unimaginably happy. Sam just sighs, they're idiots.
+
+([tumblr post](https://www.tumblr.com/junesirius/823516262634274817))
+
+### 487.【megstiel】S06E10 Cas is okay kissing Meg even though he sees Meg's true face
+
+Angels and demons can see each other's true faces even when they're in the vessels
+
+S10 demon!Dean can see Cas's true face
+
+S05 demon-blood-drinking Sam can vaguely see Cas's true face (from prompt 486)
+
+Meg and Cas can see each other's true faces when they're kissing in S06E10, so it's the true Meg that Cas's kissing, that means even though demons have hideous face (S04E16 first time Anna saw Ruby she freaked out, asking "What's wrong with her face"; S07E17 first time Emmanuel!Cas saw Meg's face he also freaked out, asking about her face; S13E12 Rowena freaked out about Lucifer's true face "Before he crushed my skull, he showed me his face. His true face." Sam saw it too.), somehow Cas can get over it for Meg and still has no problem kissing her. Meaning it's more than just imitating the pizzaman porn, he's also actively choosing to kiss Meg (at that moment), not disgusted by her true face
+
+### 488.
