@@ -6246,4 +6246,14 @@ S05 demon-blood-drinking Sam can vaguely see Cas's true face (from prompt 486)
 
 Meg and Cas can see each other's true faces when they're kissing in S06E10, so it's the true Meg that Cas's kissing, that means even though demons have hideous face (S04E16 first time Anna saw Ruby she freaked out, asking "What's wrong with her face"; S07E17 first time Emmanuel!Cas saw Meg's face he also freaked out, asking about her face; S13E12 Rowena freaked out about Lucifer's true face "Before he crushed my skull, he showed me his face. His true face." Sam saw it too.), somehow Cas can get over it for Meg and still has no problem kissing her. Meaning it's more than just imitating the pizzaman porn, he's also actively choosing to kiss Meg (at that moment), not disgusted by her true face
 
-### 488.
+### **488.【destiel】S15E18 Dean mourns Cas exact same way as John mourns Mary**
+
+(inspired by "John Winchester's Journal", case fic)
+
+John has tried every seance, ritual, summoning to get to Mary, to see/hear her again, to talk to her, to ask her if she knows who killed her. (But he doesn't try to get her back.)
+
+After S15E18, Dean would also try to reach Cas every way possible. And since he's had the habit to turn to John's journal when he used to run into case trouble back when he was young, he goes back to the journal again to see if he can find anything he hasn't tried but John has tried. And he'd try these, the summoning sigil that requires a blood sacrifice (and Dean pulls out his fingernail like it's nothing) gets Cas's face in a fire but only for a few seconds (P8);; goes to a shaman that can pull some spirit to let him ask some questions (if he can't get Cas back, he'd at least have to ask him questions about the confession, let him know the requisition) but it goes wrong and turn evil and physical that killed the shaman and get away and Dean has to track it down and kill it, even though his first thought is he's too tired and he doesn't want to go, then gets reminded of the exact same thing that has happened to John and back then Dean's the one ask what if the manitou hurt other people, so he goes out hunting it down and killing it again (P44); try seance again, like the one Pamela did, try to talk to/reach Cas again (P50).
+
+Slowly Dean realizes he's mourning Cas exact same way John grieves/avenges Mary all these years ago, and he suddenly gets strong stricken that Cas means to him just like what Mary means to John, the love of his life, and he'd try everything to save him/get him back, no matter the cost. He suddenly very well understands John.
+
+### 489.
