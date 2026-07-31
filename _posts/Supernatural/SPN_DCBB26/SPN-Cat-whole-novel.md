@@ -600,6 +600,32 @@ The poor motel electricity takes three seconds and many blinks to turn the light
 
 (Dean stick his neck out for Cat, rebel against John for the first time. "If you kick him out again, you'll leave me here too." John actually leaves. Dean panics but no regrets, he walks on street for miles and sits by the road. They're in South Dakota, Jody (20y, patrol officer) finds him and takes care of him. Jody gets John back, scolds him, makes him take Dean and Cat, and John obeys. Cat sorta just starts living with them due to Dean's strong insistence and that's one thing John can't do anything to change his mind.)
 
+> The cat looks normal and doesn't have any supernatural power but protects them, saves them, helps them, with all that a cat can do. He can get wounded easily too. They don't know if he's just a cat or not, but Dean doesn't care, already loves him.
+>
+> They find out the cat helps with the nightmare.
+>
+> They live through some cases together, the cat helps a lot. (This is also the part that he dies a lot but comes back every time as different but very similar black cat.)
+>
+> One night the cat in Dean's dream starts talking (probably something critical that he has to use words to express, Dean gets frustrated with his meows because he can't understand), so now they can talk. The cat tells him his real name is Cas. Their talks also help Dean to not always keep everything inside, it helps his mental health a lot.
+>
+> Dean thinks most of time it's just dream, until one time something gets really tense and cat in real world actually talks, Dean realizes it's not just in his dream.
+>
+> Dean's scared of him for a bit, thinking he's a monster (again) that he doesn't know, but also still keeps this as a secret from John, protects Cas from John and other dangers intuitively. So kinda more like arguing time, not really fighting or enemy/stranger time. And finally Dean decides to accept him whatever he is, they're back to normal.
+>
+> Then Cas asks Dean what he'd feel if he's not a cat, but can't tell him why he's asking, just want to know. Dean decides he'll accept him as any form. Cas thanks him.
+>
+> Things happen mostly normally and the boys grow up. Cas be there for them all the time (unless when he's dead and before he comes back, Dean still mourns every time).
+>
+> Somewhere in the middle Dean gets fed up with Cas or Cas accidentally did something very wrong, Dean yells at him and says don't want him anymore, Cas leaves hurt. Then Dean feels awful and prays for Cas to come back, and Cas comes back.
+>
+> When Sam's in college and John's solo hunting, Dean's hunting with cat!Cas; when Dean takes the deal to save Sam and only has one year to live, cat!Cas is devastated and desperate trying to save him.
+>
+> Then converge to canon S03 Dean has the one-year deal and hell hounds come for him. Cas protect him but can't fight them off as cat, Dean asks Sam to take care of cat, but Cas lets hellhounds tear him apart too to distract them from hurting Dean too much, jumps into Hell with Dean (but Dean doesn't know the last part).
+>
+> Dean in Hell sees the cat but doesn't know if he's hallucinating or not. Demons have ways to confine vessel with angel, so Cas can't talk or escape the vessel like he planned to, but Dean recognizes him. Dean gets tortured but stays strong because he knows Cas is there to keep him hope, then Alastair starts torturing Cas, Dean gives in. Then Dean finds chance to unbind Cas, Cas escapes cat form and flies Dean out of Hell.
+>
+> Back on Earth, Dean wakes up but Cas wipes/covers/masks his Hell memory, Dean only remembers pieces of his cat screaming. Dean goes to Bobby/Sam to look for cat and knows it's not hallucination that Cas's been with him in Hell. Dean goes to Pamela for Seance but already knows name and other info, just to ask Cas to come back, whichever form. Pamela passes words about time/address to meet. S04E01 barn, Cas comes in as human. Dean hugs him like he's known him all his life because he has. It feels so good to touch him as a human, though Dean misses the cat form too. They'll skip the getting familiar part and go to save Apocalypse together.
+
 ### (1985.1.24 Thursday) (books) √
 
 > 1985.1.24 (Dean 6y, Sam 2y) Dean's bday
@@ -728,7 +754,7 @@ The poor motel electricity takes three seconds and many blinks to turn the light
 >
 > (classic plain white hamburger bun, soft, slightly wrinkled, tightly packed; thin flat wide beef patties, irregular edges; melted yellow American/cheddar cheese, draped directly over the meat; white wax/greaseproof paper wraps)
 
-### (1990.9.3 Monday) (sawed-of shotgun)
+### (1990.9.3 Monday) (sawed-off shotgun)
 
 > 1990.9.3 Monday (Dean 11y, Sam 7y)
 >
@@ -798,13 +824,13 @@ The poor motel electricity takes three seconds and many blinks to turn the light
 >
 > 1996.1.24 (Dean 17y, Sam 13y): Dean's first solo hunt, the haunting nuns
 >
-> **1996? (Dean 17y, Sam 13y)**: Sam run away on Dean's watch, Flagstaff, Arizona, for 2 weeks and adopt a dog  Bones, live on junk food; Dean think Sam's dead (Cat help find Sam)
+> **1996? (Dean 17y, Sam 13y)**: Sam run away on Dean's watch, Flagstaff, Arizona, for 2 weeks and adopt a dog called Bones, live on junk food; Dean think Sam's dead (Cat help find Sam)
 >
 > **1996.7.4 (Dean 17y, Sam 13y)**: Fourth of July fireworks (a full box), accidentally burn down the field
 >
 > 1997.1.24 (Dean 18y, Sam 14y): John give Dean the Impala
 >
-> **1997 summer (Dean 18y, Sam 14y)**: Dean/Sam hunt a werewolf
+> 1997 summer (Dean 18y, Sam 14y): Dean/Sam hunt a werewolf
 >
 > 1997.6.16: Dean graduated high school
 >
@@ -826,11 +852,11 @@ The poor motel electricity takes three seconds and many blinks to turn the light
 >
 > 2003.6.13: Dean solo hunt succubus in Brooklyn
 >
-> **2002-2005 (Dean 23-26y, Sam 19-22y)**: Stanford era, Dean solo hunt a pair of vetala, voodoo in New Orleans
+> 2002-2005 (Dean 23-26y, Sam 19-22y): Stanford era, Dean solo hunt a pair of vetala, voodoo in New Orleans
 >
 > 
 >
-> From "John Winchester's Journal": "Cats sometimes also hidden in walls, also horse skulls. Forklore of both is that they would ward away familiars or see things that humans can't. Powerful wards. Sometimes shoes also used as spell traps, concealed within walls or floors."
+> From "John Winchester's Journal": "Cats sometimes also hidden in walls, also horse skulls. Fork lore of both is that they would ward away familiars or see things that humans can't. Powerful wards. Sometimes shoes also used as spell traps, concealed within walls or floors."
 >
 > A small instance about John teaching Dean how to fix car and Dean learning. And Dean working on cars later.
 >
