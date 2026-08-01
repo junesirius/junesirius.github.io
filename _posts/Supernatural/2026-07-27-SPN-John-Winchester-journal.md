@@ -333,7 +333,7 @@ Never knew about Stull Cemetery's lore. Maybe there *is* a grave of Devil's chil
 
 ### 1.24
 
-> <u>Dean's sixth birthday. It's been more than a year since he saw me kill a shape-shifter. He doesn't ask about it anymore. And he stopped asking when he's going to go to school.</u> I tried to do it last fall, but I couldn't. I just couldn't risk it. Maybe this year, now that he's a little older, now that he knows a little more about htings. I've been teaching him. Not the worst stuff, but enough so he knows that there are things that go bump in the night.
+> <u>Dean's sixth birthday. It's been more than a year since he saw me kill a shape-shifter. He doesn't ask about it anymore. And he stopped asking when he's going to go to school.</u> I tried to do it last fall, but I couldn't. I just couldn't risk it. Maybe this year, now that he's a little older, now that he knows a little more about things. I've been teaching him. Not the worst stuff, but enough so he knows that there are things that go bump in the night.
 
 Six-year-old Dean stopped asking when he's going to go to school... John fucked up big. Dean knows he's *supposed to* be able to go to school. And he also already learned that he'd never be going to school...
 
@@ -467,7 +467,7 @@ take writer's notes of fantastic expression: "It was the sound cancer would make
 
 ### 5.2
 
-> Tahlequah, OK. Sammy is three years old. We celebrated with an ice-cream cake. He was still weraing most of it when he fell asleep. Dean's sleeping too, the two of them in the bed. The room only has one bed. I'll sleep on the floor, if I sleep at all. Some nights it's enough to watch them sleep, and know that if they start to have a nightmare I'll be right there to stop it.
+> Tahlequah, OK. Sammy is three years old. We celebrated with an ice-cream cake. He was still wearing most of it when he fell asleep. Dean's sleeping too, the two of them in the bed. The room only has one bed. I'll sleep on the floor, if I sleep at all. Some nights it's enough to watch them sleep, and know that if they start to have a nightmare I'll be right there to stop it.
 
 Every year when it's Sammy's birthday, John writes down where they are and what they did to celebrate, even just little thing, ice cream. But Dean doesn't get the same things on his birthday. He gets shooting lessons.
 
@@ -553,7 +553,7 @@ Already, John's having the soldier's mindset for Dean. Dean's forced to think an
 
 > Portland, Maine
 
-> I don't know if I wold have won, because the spirit let go of its form, animated Fowler's body, and went out through the basement window. I got the hell out of there and picked up the boys. We were almost to the New Hampshire state line and <u>I'd told Dean a little about what had happened</u>, because I was so frustrated and ashamed that I had to talk to someone. Sammy was asleep the whole time.
+> I don't know if I would have won, because the spirit let go of its form, animated Fowler's body, and went out through the basement window. I got the hell out of there and picked up the boys. We were almost to the New Hampshire state line and <u>I'd told Dean a little about what had happened</u>, because I was so frustrated and ashamed that I had to talk to someone. Sammy was asleep the whole time.
 >
 > <u>Then Dean asked me one of those killer questions that little kids come up with. "Dad," he says. "Won't the manitou go after other people now?"</u>
 
@@ -887,7 +887,7 @@ And the boys are left with Bobby. I'd guess this is the time Bobby chose to play
 >
 > God.
 >
-> Things got worse from there because Sammy told me he'd gotten up, wanting to come after me and Dean, and found the man in the black Seville outside Bobby's house. HE rode in the Seville to the trialhead, and found us from there. I don't even know how to get my head around that. I feel like I should punish him somehow, but the truth is I should be punishing myself.
+> Things got worse from there because Sammy told me he'd gotten up, wanting to come after me and Dean, and found the man in the black Seville outside Bobby's house. He rode in the Seville to the trialhead, and found us from there. I don't even know how to get my head around that. I feel like I should punish him somehow, but the truth is I should be punishing myself.
 
 Sammy, 7 years old, shoot a gun to kill a deer, because he thinks the deer is going to hurt Dean. Probably Sammy's first time shooting a gun. First time seeing Sammy's protective instinct for Dean instead of just the other way around. He's seven.
 
@@ -905,7 +905,7 @@ Second time seeing words written in blood but the boys intact. Weird, too weird.
 
 > Been on the run, running harder even than usual. The driver of the Seville called himself Anderson, said he was a hunter... and he was hunting Sam. He said Sam had killed Silas, but there's no way that can be true. No little boy could have done what I saw in there. But Anderson wouldn't listen, and now in the last twenty-four hours I've committed kidnapping, grand theft auto (well, semi), and murder. That's five hunters I've killed, if you count H -- but who really knows what he was? And I don't know that Anderson was what he said he was, either. He passed up two chances to take Sammy out. I didn't give him a third. And I didn't give any of three Dowry brothers a chance at all.
 >
-> <u>It was Dean who killed Anderson. Myoldest son is blooded.</u> All I ever write about is death. Because all I ever see is death, and you know what? I did that to myself. It's got to end, but it can't end until I settle what happened to Mary.
+> <u>It was Dean who killed Anderson. My oldest son is blooded.</u> All I ever write about is death. Because all I ever see is death, and you know what? I did that to myself. It's got to end, but it can't end until I settle what happened to Mary.
 
 Oh God, Dean's first kill. And it's a human. It's a human. It's a hunter. And, just like moments ago, one of my theories, this man gets to the same conclusion as mine, that Sammy is the suspicious dangerous one. And this man hasn't even done anything wrong yet, he could have hurt Sammy two times but he didn't. He couldn't do it to an eight-year-old. But the Winchesters killed him for just thinking that.
 
@@ -1024,7 +1024,7 @@ Beings include: werewolf, vampire, kitsune (Japanese fox spirit), tanuki (Japane
 
 ### 6.21
 
-> Last night, Sammy woke up in the middle fo the night elling me he was afraid of the thing in the closet. I went and looked. There was nothing in the closet, but I've seen too much not to believe that there could be. So I handed Sammy the .45 and told him the next time he saw the thing in the closet, he knew what to ddo. I don't think I'll win any awards from parenting organizations, but five nights running now Sammy has slept without nightmares. Sometimes a .45 under your pillow is all you need.
+> Last night, Sammy woke up in the middle of the night telling me he was afraid of the thing in the closet. I went and looked. There was nothing in the closet, but I've seen too much not to believe that there could be. So I handed Sammy the .45 and told him the next time he saw the thing in the closet, he knew what to ddo. I don't think I'll win any awards from parenting organizations, but five nights running now Sammy has slept without nightmares. Sometimes a .45 under your pillow is all you need.
 
 The infamous "Dad gave me a .45 when I was afraid of the thing in the closet"
 
@@ -1080,7 +1080,7 @@ Seance is a gate, suddenly give me some thought about Dean's Seance for Cas.
 
 followed by hunting notes about Bloody Mary and lores about mirror traping spirits, hookman, vanishing hichhiker (woman in white)
 
-## DEcember
+## December
 
 ### 12.25
 
@@ -1172,7 +1172,7 @@ something must will happen later
 
 ### 5.2
 
-> Sammy is twelve years old today. HE's a handful. Spends all of his time onthe computer, unless he's arguing with me. I can't understand him, and he doesn't try to understand me. Typical father-son trouble, but it feels worse because neither one of us can talk about what happened to his mother. He wants to be in one place, live a normal life. The older he gets, the more he wants it. But the older he gets, the more I'm going to need him to help on the hunt. He's got to understand that. We will finish this quest, and he's going to be a part of it.
+> Sammy is twelve years old today. He's a handful. Spends all of his time onthe computer, unless he's arguing with me. I can't understand him, and he doesn't try to understand me. Typical father-son trouble, but it feels worse because neither one of us can talk about what happened to his mother. He wants to be in one place, live a normal life. The older he gets, the more he wants it. But the older he gets, the more I'm going to need him to help on the hunt. He's got to understand that. We will finish this quest, and he's going to be a part of it.
 
 Twelve years old, Sammy wants out, and John has to force him to stay.
 
@@ -1210,7 +1210,7 @@ He's proud, but he doesn't let himself get proud or let Sammy get out. He just c
 
 ### 1.24
 
-> Dean turns seventeen today. <u>We went shooting. Then I sent him out on his first hunt. I've let him take the lead before, but I've always been there to back him up. This time he's on his own. Partly it's a test, and partly I watned some time with Sammy. Should be no problem for Dean.</u> Ghosts of two nuns haunting St. Stephen's Indian Mission in Riverton, Wyonming. Simple salt-and-burn mission. Nuns in love with each other, then discovered. Killed themselves. We scoped the situation out, figured that something must be left behind that's now a focus for the haunting. Bible, rosary beads, some small article that's hidden somewhere in their room. <u>I figured Dean would take care of it no problem, but I still stayed close by with Sammy.</u>
+> Dean turns seventeen today. <u>We went shooting. Then I sent him out on his first hunt. I've let him take the lead before, but I've always been there to back him up. This time he's on his own. Partly it's a test, and partly I wanted some time with Sammy. Should be no problem for Dean.</u> Ghosts of two nuns haunting St. Stephen's Indian Mission in Riverton, Wyonming. Simple salt-and-burn mission. Nuns in love with each other, then discovered. Killed themselves. We scoped the situation out, figured that something must be left behind that's now a focus for the haunting. Bible, rosary beads, some small article that's hidden somewhere in their room. <u>I figured Dean would take care of it no problem, but I still stayed close by with Sammy.</u>
 
 Seventeen, 1996.1.24, John sends Dean to his first solo hunting. Two nuns in love with each other, that's his first case.
 
@@ -1679,6 +1679,8 @@ The real Winchester Mystery House!! I had read most of it before this. The very 
 > Dean turns twenty-five today. There was a report on CNN this morning, of a vampire, strigoi, dug up and its heart burned, in Romania less than a month ago.
 
 Literally the only line related to Dean is just, he's 25y today. Then absolutely nothing, nothing about how he's been, where they're, nothing. Wow. Good job, dad, way to go.
+
+Oh wait, the CNN vampire, that's Dean's job, isn't it? John doesn't know where Dean is but figures it out based on the case on TV, so he's still keeping tab on Dean's whereabouts. Okay, fine, one point for you.
 
 ## May
 
