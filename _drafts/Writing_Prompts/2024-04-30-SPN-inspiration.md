@@ -5136,6 +5136,14 @@ the fix is to destroy the machineries
 
 but Dean can't destroy the Impala, he has to save her, they have to figure out how to work around/solve it
 
+### 413.5【all】Impala POV, any story
+
+(maybe inspired by or related to prompt 413, but don't have to, just a beginning, can fit it into any story)
+
+"Let me tell you a story. Actually, let me tell you a riddle fist. -- *Actually*, let me just tell you this: There was once a father, and then there was a son. The son had a brother, and the brother had a son. All of them loved wearing black and good with guns. All of them travelled far with me, and none of live lived as long as I do. Do you know who they are and what I am?
+
+"Okay, let me rewind a bit and start with the intro first. Heya there, I'm Impala 67, and this is my story."
+
 ### **414.【destiel】djinn: Cas suicide when Dean confesses because he thinks it's a dream and he needs to wake up**
 
 (inspired by "['Til Dreams Do Us Part](https://archiveofourown.org/works/17876885)")
@@ -6266,4 +6274,34 @@ Seance is the gate. What if angels wouldn't have had way to come to Earth, not u
 
 Maybe that's also how he fixed S15E18, using Seance to open the gat
 
-### 490.
+### 490.【destiel】start with established relationship but ready to get divorce, end with getting back together, old man yaoi
+
+(canon divergent)
+
+Sam: "Really? Really??! How many years it took to get you two together? Twelve? Then, what, twenty years after wedding you want a divorce now?"
+
+Cas: "It's okay. It happens."
+
+Sam: "You love each other! Don't even try to tell me you don't or he doesn't, 'cause that's bullshit. Not even end of world can change that."
+
+Cas: "We still love each other, yes, but we can't be together anymore. It's okay. As far as I know, it happens all the time."
+
+Sam actually laughs, a little hysterically: "A divorce, that really is a divorce, isn't it? And I'm still the adult child in a divorced family. I'm fifty-eight, Jesus Christ, and I *still* have to watch my brother and his idiot angel go through an idiotic divorce, God, why is this happening to me?"
+
+Cas: "This has nothing to do with Jack. It's a decision fully made from Dean and my own autonomy."
+
+Sam: "Even worse. You two aren't in any place of making decision when it comes to each other! I should know. I got twelve years of that and twenty years of proving it's still like that! He's no different at sixty-two from twenty-two."
+
+Cas: "A hundred and two, actually, including time in Hell."
+
+Sam groans: "Oh God. And you're, a what, a million? A gazillion? Eon?"
+
+Cas just hums without giving an accurate number for his age, because there is no accurate number for his age.
+
+Sam suffers horribly internally. Life isn't fair.
+
+<br>
+
+(something something, divorce therapy style, someone might trigger another end of world for them to work together on, and they get it done, save the world, get back together, canon divergent, a little rom-com style probably)
+
+### 491.
