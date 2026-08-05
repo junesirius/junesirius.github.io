@@ -6,7 +6,7 @@ categories: ["原创"]
 characters: 
 tags: ["心理", "写作", "想象"]
 pov: 第一人称
-origin: 个站
+origin: Substack
 ---
 
 I'm itching out of my skin again. It's getting familiar, that feeling as if something is growing under my skin, crawling and stretching, like those old *Alien* movies, it's like something alive impregnated inside me, swelling and growing, like a life coming to be from a seed. I can't possibly imagine what pregnancy is like, but right now, somehow, I can relate. That thing is coming into shape, coming to be something that can move around inside me, waiting for a chance to bite a tear on my skin to crawl out, and I can do nothing to stop it or control what time it decides to come out. It crawls out of my skin of its own will, only because I wanted to put it off for longer than it's pleased with.

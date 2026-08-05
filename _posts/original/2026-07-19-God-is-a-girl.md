@@ -6,7 +6,7 @@ categories: ["原创"]
 characters: ["God", "上帝"]
 tags: ["女性", "英文"]
 pov: 第三人称
-origin: Tumblr, 空间, substack
+origin: Tumblr, 空间, Substack
 ---
 
 On the first day, God thinks she needs to create light. But she feels a minor discomfort in her stomach, so she decides to take it easy and do it tomorrow.
