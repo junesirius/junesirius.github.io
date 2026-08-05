@@ -3,7 +3,7 @@ layout: post
 title: 【观后感】《The Odyssey》
 date: 2026-08-02 17:00
 categories: 观后感
-characters: ["Homer", "Christopher Nolan", "Matt Damon", "Tom Holland", "Anne Hathaway", "Robert Pattinson", "Zendaya", "Jon Bernthal"]
+characters: ["Homer", "Christopher Nolan", "Matt Damon", "Tom Holland", "Anne Hathaway", "Robert Pattinson", "Zendaya", "Jon Bernthal", "Odysseus"]
 tags: ["观后感", "奥德赛"]
 pov: 第一人称视角
 origin: 个站
