@@ -43,6 +43,12 @@ And the season 1 went by so much faster than expected. It's almost as if spendin
 
 ## S02
 
+### S02E04
+
+He basically hit 2 cars in 40 minutes time. In the same episode. And all he really does is curse into the camera, and then the life moves on. Can't imagine how much that would cost, but from the way he doesn't seem really care that much, as if that's not even a scratch in his vast fortune, the utter uncaring of any expense and financial loss is becoming envious. We've long known the man is rich, but not really *how* rich. And this is basically him answering, *very*.
+
+Hate the scene about him almost cutting his finger off peeling potato, because... well, that's basically me, and I know it's destined to happen before it really happened. Because... every time I use that thing it would happen, and if he's also one of those clumsy people like me who doesn't know how to work my way around the kitchen, then, yeah, it's just destined to happen. And the camera just *had to* show a closeup of the bloody finger and the surgery immediately afterwards is just uncomfortable. Remind me to skip this part next time I rewatch this episode again.
+
 <br>
 
 ## S03
