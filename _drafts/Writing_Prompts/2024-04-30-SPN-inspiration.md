@@ -162,6 +162,8 @@ Gabe把Cas困在电视里，就像S03E11给Sam的lesson一样，让卡一遍遍�
 
 ### 10.【destiel】新衣服
 
+（短打）
+
 感觉Cas的风衣好像很容易弄脏弄破损，S05E13吐血的时候第一反应就在想“糟了风衣要弄脏了”，S04E01一见面也是直接当胸一枪，Cas人没事但是风衣怕是破了吧。不知道会是用天使力补衣服还是手动补？感觉两个都很好笑很可爱。
 
 脑了一个Dean带着Cas逛商场买新衣服（突然变成小情侣日常），虽然很可能“新”衣服也只是新的二手衣服，比如在thrift store之类的地方淘白菜价的质量不错的二手服装。
@@ -1270,7 +1272,7 @@ Another time when Dean feels guilty about jump started Apocalypse, Cas finds the
 
 ### 123.【destiel】human Cas' first Christmas
 
-（源自童年记忆的圣诞礼物）
+（源自童年记忆的圣诞礼物）（短打）
 
 人类卡的第一次圣诞，丁给卡床脚准备了圣诞礼物，坚称圣诞老人是真的，卡本来很确定圣诞老人不存在，但是丁看起来太认真了他真的有点动摇然后信了
 
@@ -1284,7 +1286,7 @@ Another time when Dean feels guilty about jump started Apocalypse, Cas finds the
 
 ### 124.【destiel】松果
 
-（来自生活）
+（来自生活）（短打）
 
 Cas grows into habit of bringing back a pine cone every time he goes for a walk in the woods (or when walk the dog Miracle). He says because they're beautiful, and smells like oil. Like a squirrel. So cute and adorable Dean can't stand. Dean fake whines and complains but actually it's just too much adorability he doesn't know how to handle. (post-1520)
 
@@ -6320,19 +6322,31 @@ Sam suffers horribly internally. Life isn't fair.
 
 (something something, divorce therapy style, someone might trigger another end of world for them to work together on, and they get it done, save the world, get back together, canon divergent, a little rom-com style probably)
 
-### 491.【destiel】S15E18 fix-it: Cas leaves vessel when Empty comes, vessel has direct connection with angel; or Cas possess Dean; or Dean puts Cas in vial and wears him
+### 491.【destiel】S15E18 fix-it: Cas leaves vessel when Empty comes
 
 When Empty comes, right before it takes Cas, Cas leaves his vessel. Cas's original plan might be so that Empty only takes him without taking his body, and his body still belongs to Jimmy, maybe Claire would want it back so that they can give Jimmy a proper funeral.
 
-Maybe Empty takes Cas's true form and leaves his vessel behind, and Dean stares at the empty vessel and it messes him up so much. But true vessel and the angel has direct link, so maybe that's exactly how Dean saves Cas back, by using his body like a telephone, talking to Cas into the vessel's ears and Cas can hear wherever he is, that's how he wakes up and finds his way back.
+a few different ways this setting can lead to: prompt 491.1, 491.2, 491.3, 491.4
+
+### 491.1【destiel】vessel has direct link with angel
+
+Maybe Empty takes Cas's true form and leaves his vessel behind, and Dean stares at the empty vessel and it messes him up so much. 
+
+But true vessel and the angel has direct link, so maybe that's exactly how Dean saves Cas back, by using his body like a telephone, talking to Cas into the vessel's ears and Cas can hear wherever he is, that's how he wakes up and finds his way back.
+
+### 491.2【destiel】Cas possess Dean
 
 Maybe right before Empty takes Cas's true form, Cas possesses Dean. Even if Cas didn't think about it as a solution, Dean would want him to, but Cas might worry this would risk putting Dean in danger too, like he worries Empty would take Dean with him if he's inside Dean so he refuses.
 
+### 491.3【destiel】Dean puts Cas's light in small vial and wears him around
+
 Maybe the compromise of that is Dean hides Cas (in his grace light form) into a small glass vial, with some spell work to disguise him, so then Empty would recognize this form/this light is Cas, so Cas could be safe inside the vial for a bit. Dean wears the vial around his neck, takes him wherever he goes. Dean would touch the vial and talks to it, not knowing if Cas can hear him from inside (he can), but it oddly makes it so much easier for Dean to speak his heart and confesses, maybe Dean doesn't even realize he's confessing, just telling Cas how important he is to him and all the normal things he felt and he can't lose him and he'll fix this before letting him out and he misses him but still "I don't know if you can hear me, Cas". And Cas hears all of that and knows his love is reciprocated and happy but also scared to feel happy. Empty didn't come when he's inside the vial, so he's slightly feeling safer now, just feeling Dean's body warmth from the vial wall. It's tiny inside the vial, very clausphobic, but as long as he can be safe and close to Dean (and hear his words and feel his warmth and hear his heartbeat), he's okay staying in there.
+
+### 491.4【destiel】Cas escaped as grace form but Dean thinks he died
 
 Or maybe in order to escape Empty (because Cas thinks it's important to stay and help Dean fix the rest of world-saving problem), right after Empty comes and kills Billie, Cas leaves vessel and Empty takes the vessel, Cas flies away in his grace light form, all Dean sees is Empty comes and takes Cas ('s body) and kills Death and there's bright light similar to the light when Cas was stabbed to death in S12E23, so Dean freaks out, going into panic/mourning/grieving/pining phase again, thinking Cas is dead (especially with all this speech of confession and farewell, even if he's not really dead, with all this effort, it's too easy to believe he's dead, probably the easiest trick for pretended death, see Sherlock). All the pain and aching (inspired by "[Aching in the absence of you](https://archiveofourown.org/works/31832977)")
 
-#### 492.【destiel】Groundhog day but S15E18, Dean repeatedly trying to save Cas and every time Cas confess and dies, Dean wakes to the morning of that day when Cas was still alive
+### 492.【destiel】Groundhog day but S15E18
 
 like S03E08, groundhog day, but around S15E18
 
@@ -6368,4 +6382,10 @@ Sculpture Dean opens his eyes for the first time, breathes for the first time.
 
 Architect Cas is the first thing he sees. And his creator smiles at him: "Hello, Dean."
 
-### 495.
+### 495.【Bobby】post-S15E20 Bobby raises Sam's son up
+
+If Bobby is still alive when Sam's son (Dean Jr.) is born, Bobby becomes little Dean Jr.'s favorite grandpa. Bobby playing catch with the kid. like if Sam and Eileen had to get away for hunting job to help other hunters temporarily together and Bobby helps take care of their kid. Sam realizes that's how he and Dean got (something of a) childhood, the childhood he doesn't remember much. They would be even worse if Bobby isn't there.
+
+(inspired by Jim Beaver's comic con answer about if John isn't around and Bobby is the one raising Sam/Dean up, would they be better: [link](https://junesirius.github.io/2026/07/11/SPN-Bobby))
+
+### 496.
