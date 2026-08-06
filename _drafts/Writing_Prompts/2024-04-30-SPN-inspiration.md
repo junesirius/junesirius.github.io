@@ -6320,4 +6320,28 @@ Sam suffers horribly internally. Life isn't fair.
 
 (something something, divorce therapy style, someone might trigger another end of world for them to work together on, and they get it done, save the world, get back together, canon divergent, a little rom-com style probably)
 
-### 491.
+### 491.【destiel】S15E18 fix-it: Cas leaves vessel when Empty comes, vessel has direct connection with angel; or Cas possess Dean; or Dean puts Cas in vial and wears him
+
+When Empty comes, right before it takes Cas, Cas leaves his vessel. Cas's original plan might be so that Empty only takes him without taking his body, and his body still belongs to Jimmy, maybe Claire would want it back so that they can give Jimmy a proper funeral.
+
+Maybe Empty takes Cas's true form and leaves his vessel behind, and Dean stares at the empty vessel and it messes him up so much. But true vessel and the angel has direct link, so maybe that's exactly how Dean saves Cas back, by using his body like a telephone, talking to Cas into the vessel's ears and Cas can hear wherever he is, that's how he wakes up and finds his way back.
+
+Maybe right before Empty takes Cas's true form, Cas possesses Dean. Even if Cas didn't think about it as a solution, Dean would want him to, but Cas might worry this would risk putting Dean in danger too, like he worries Empty would take Dean with him if he's inside Dean so he refuses.
+
+Maybe the compromise of that is Dean hides Cas (in his grace light form) into a small glass vial, with some spell work to disguise him, so then Empty would recognize this form/this light is Cas, so Cas could be safe inside the vial for a bit. Dean wears the vial around his neck, takes him wherever he goes. Dean would touch the vial and talks to it, not knowing if Cas can hear him from inside (he can), but it oddly makes it so much easier for Dean to speak his heart and confesses, maybe Dean doesn't even realize he's confessing, just telling Cas how important he is to him and all the normal things he felt and he can't lose him and he'll fix this before letting him out and he misses him but still "I don't know if you can hear me, Cas". And Cas hears all of that and knows his love is reciprocated and happy but also scared to feel happy. Empty didn't come when he's inside the vial, so he's slightly feeling safer now, just feeling Dean's body warmth from the vial wall. It's tiny inside the vial, very clausphobic, but as long as he can be safe and close to Dean (and hear his words and feel his warmth and hear his heartbeat), he's okay staying in there.
+
+Or maybe in order to escape Empty (because Cas thinks it's important to stay and help Dean fix the rest of world-saving problem), right after Empty comes and kills Billie, Cas leaves vessel and Empty takes the vessel, Cas flies away in his grace light form, all Dean sees is Empty comes and takes Cas ('s body) and kills Death and there's bright light similar to the light when Cas was stabbed to death in S12E23, so Dean freaks out, going into panic/mourning/grieving/pining phase again, thinking Cas is dead (especially with all this speech of confession and farewell, even if he's not really dead, with all this effort, it's too easy to believe he's dead, probably the easiest trick for pretended death, see Sherlock). All the pain and aching (inspired by "[Aching in the absence of you](https://archiveofourown.org/works/31832977)")
+
+#### 492.【destiel】Groundhog day but S15E18, Dean repeatedly trying to save Cas and every time Cas confess and dies, Dean wakes to the morning of that day when Cas was still alive
+
+like S03E08, groundhog day, but around S15E18
+
+Dean makes himself a time loop on the day of Cas's death, so at the end of S15E18, when he wakes up again, it will be the morning of that day again and Cas would still be alive, and Dean would try all kinds of ways to keep Cas alive for the day, waiting to get Cas alive through the day, but whatever he does, everything always leads to Cas confesses and dies (in many of them Dean also reciprocates; in the later times Dean would start off with the confession, but making Cas happy would also trigger the deal; Dean tried making Cas miserable or fight with him, make the two of them go separate ways on that day, but even if he did that (and it pained him so much), Cas would still end up dead, so basically nothing helps), and Dean goes desperate
+
+(How does he fix this?)
+
+### 493.【destiel】S06 Cas doesn't go to Dean because that's his way of protecting Dean
+
+Maybe S06 Cas doesn't come to them often is because he's afraid Raphael would find them this way. They're hidden from angels but Cas isn't, S06E03 Raphael's man followed him and heard Bal's name and appeared in the same room as Sam/Dean, meaning they can very easily follow/track him to get to Dean/Sam. And Cas's worried Raphael might harm them or use them as bait or hostage to get to him, so by staying away, making sure they're hidden from angels and not exposed by his proximity, that's Cas's way of protecting them, but they don't know.
+
+### 494.
