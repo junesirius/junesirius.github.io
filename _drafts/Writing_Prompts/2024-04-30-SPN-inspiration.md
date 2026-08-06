@@ -250,6 +250,8 @@ Cas的天堂是“the eternal Tuesday afternoon of an autistic man who drowned i
 
 Cas提到了是他把soulless Sam从关Michael & Lucifer的Cage里捞上来的，所以他是怎么做到的呢，冒险进到Cage里的时候会不会被Michael和Lucifer打一顿？还要在把Sam捞出来的同时阻止Michael和Lucifer出去，他自己都说了难度超级大的，所以到底发生了什么，怎么做到的，他自己是不是也受了不轻的伤才做到的但是把过程都一句话带过了。
 
+(=prompt 65)
+
 （see more in S06E17-22观后感）
 
 ### 22.【DW x SPN】S07E03 Amy Pond
@@ -742,6 +744,8 @@ Cas can read mind, so he actually knows what happened and that Dean's been think
 
 How did Cas get Sam out of the Cage, how did he handle Lucifer/Michael/Adam, how to explain to Adam he has to leave him behind, how he decide to leave Sam's soul behind
 
+(=prompt 21)
+
 ### 66.【Cas】S06E15 find weapons
 
 How Bal & Cas finally find/get weapons while keep an eye on Sam/Dean
@@ -942,9 +946,21 @@ established relationship?
 
 (≈ prompt 321)
 
-### 89.【all】What if 601-1520 all in Sam's brain only
+### 89.【all】S05E22 What if everything after Cage (S06E01-S1520) is all in Sam's brain only
 
-What if that's all Sam's imagination from his craziness, he's still in Cage
+What if that's all Sam's imagination from his craziness, he's still in Cage.
+
+After Sam jumps into the Cage, everything after that is Sam's Hell or Lucifer illusion. The canon is Sam as unreliable narrative. Real Cas didn't come back, real Bobby didn't resurrect, real Dean didn't go to live with Lisa and Ben, but that's the version Sam sees/hopes as soon as he jumps into the Cage.
+
+S05E22 canon divergent, real Dean is bloody on the ground, real Cas is a bloody exploded mist, real Bobby has his neck snapped. Dean can go to Chuck, maybe need help from Jesse (the antichrist), or call Death for a favor.
+
+Chuck is God but already gone, Dean gets to Chuck's place and sees the ending, but he knows Cas and Bobby didn't come back, not like what Chuck wrote on the script (the version still narrated in the canon), so he knows the part after Sam's gone never come true, for the first time Chuck is wrong, but since Chuck!God vanished/gone, Chuck!God doesn't know that he's already lost control of Dean's world.
+
+Dean scoop together Cas's bloody mist? it's gonna be a terrifying thing to do, but he does that for Cas
+
+Dean calls Death, maybe Death doesn't help, or give vague hint, or make him choose, between Sam, Cas and Bobby, he can bring back one of them, but not all of them, and he'll have to live with it, live with the choice he made knowing that he sacrificed the other two for the one he chose. Dean would undoubtedly choose Sam, but then he'll have to work with Sam to bring back Cas, maybe get Jesse (Jesse is almost like Jack in this new story), but something wrong with Jesse, or angels/demons find him because of Dean, they'll have to protect/hide him, or he actually gets rid of Heaven/Hell with a thought just like they feared.
+
+Chuck has to come back to face Jesse? Because Jesse can possibly destroy the whole world with a thought. The final boss fight becomes Death/Chuck/Jesse? Almost just like S15E18/20 now.
 
 ### 90.【Cas&Jimmy】S10E20 What if 419-1520 all in Jimmy's brain only
 
@@ -5844,7 +5860,7 @@ reveal it's post-1518 and Cas is back and saved and they're just having a normal
 
 ### 467.【Dean/destiel】S01E18 What if young Sam was killed by Shtriga that night when he was 6 and Dean was out (long draft outline)
 
-【status: posted the outline to tumblr】
+【status: posted the outline to [Tumblr](https://www.tumblr.com/junesirius/817847250671878144)】
 
 (long canon divergent since 16 years ago, rewrite S01-S15, very likely gonna piss most reader off, piss both destiel fans and Sam's fans off, will write Sam really badly but also write a lot of Dean/Sam/John interaction, but still wind back to destiel, but not very pure destiel because of how important Sam is now to this story, so will have to write a lot of Sam and write him really evil way)
 
