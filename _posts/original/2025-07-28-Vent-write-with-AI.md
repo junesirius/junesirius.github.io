@@ -17,6 +17,7 @@ It's like rewiring a brain onto a pile of wires and hope it works and can genera
 
 If you want to know the visual in my head, check DW204 "The Girl in the Fireplace." This is what I'm talking about:
 
+<br>
 ![](https://d2thvodm3xyo6j.cloudfront.net/media/2023/09/6411c99161331adc-600x338.jpg)
 
 It's just a wired eye, I'm thinking a wired human brain. The idea is the same.

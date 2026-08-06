@@ -26,7 +26,6 @@ Karen和Joyce也一直是双线平行，Joyce跟Jonathan拥抱，Karen跟Mike拥
 Joyce从一开始就坚持相信Will活着，相信看起来疯了的偏执理论，不管别人怎么想；Hopper敢直接各种手段多管齐下去探去挖。没有他俩就不会有后面任何剧情
 
 <br>
-
 ![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/others/2026-02-17-ST-0103-1.jpg)
 
 开局小孩子11刚出来眼睛亮亮地探索Mike家房子，学各种词汇，这么好奇，这么强的求生欲，到最后还是向死了，越想最后结局越难过了
@@ -54,13 +53,11 @@ homophobia可能不可避免就是时间线设定回80年代的直接后果，�
 ### S01E08
 
 <br>
-
 ![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/others/2026-02-18-ST-0108-1.jpg)
 
 108小11的道别就是最后一句“Goodbye Mike”然后消失不见一整年，到508一点没变
 
 <br>
-
 ![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/others/2026-02-18-ST-0108-2.jpg)
 
 三小只围在床边叽叽喳喳跟刚醒的Will说话，这个镜头完全明显的致敬魔戒
@@ -106,7 +103,6 @@ Dustin一直以来也是喜欢Nancy吧，虽然是platonic的对姐姐式的，�
 205-207对11的关键词就是“Home”，离家出走这么久，找到了妈妈以为找到了Home，但是终究还是因为小姨一个电话被推开；找到了小8以为找到了Home，终究还是因为Hopper和Mike和朋友们理解了他们才是Home。
 
 <br>
-
 ![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/others/2026-02-19-ST-0208-1.jpg)
 
 208 Bob overwrite四位数密码是用BASIC进入四重for循环硬解，1982年确实大概是BASIC的时代，这个怀旧的电脑确实好有时代感。
@@ -140,7 +136,6 @@ S03剧情又是像S01一样解谜走的三四条支线，每条支线追踪一�
 Ohhh，S04孩子们从初中升到高中了，稍微有种重新从Level 1开始了的感觉，就像S01 middle school刚开始一样。新环境新开始，但是旧的噩梦还在继续……
 
 <br>
-
 ![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/others/2026-02-23-ST-0401-1.jpg)
 
 401暂停仔细看突然笑了，剧组你不能假装所有人都不会高一数学啊（这还是高一么

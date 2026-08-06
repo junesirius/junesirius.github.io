@@ -55,6 +55,7 @@ Luneth: comes from Luna, means moon; also indicating "lunatic", a little crazy
 - speaks softly
 - sea salt on boots
 
+<br>
 ![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/AI_Generated_Images/2026-05-07-Sylvane-Luneth.jpg)
 
 ### Origin story and past experience

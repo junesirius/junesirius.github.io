@@ -20,7 +20,6 @@ The only other time I see someone being so comfortable around someone else is be
 \# old married couples
 
 <br>
-
 ![](https://64.media.tumblr.com/d4967577e1e304edd3e43176bdc7cca5/d9dd3ee71bee33a7-af/s640x960/a51e47e7ee466432fd66299d385ccdb06fd785c5.gifv)
 <br>
 ![](https://64.media.tumblr.com/037fd6c967b435d13085cecd2a3c9fb7/d9dd3ee71bee33a7-47/s640x960/cd429405b34f5c9115574163f719f4a1ee4cdd60.gifv)

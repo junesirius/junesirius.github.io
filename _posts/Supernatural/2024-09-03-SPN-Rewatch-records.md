@@ -513,10 +513,12 @@ Sam lives a normal life and has a son named Dean, and dies peacefully at an old 
 
 ### S05E02
 
+<br>
 ![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/SPN/S05/2024-04-26-SPN-0502-1.jpg)
 
 翻译（[ref](https://monicawoe.livejournal.com/204926.html)）：
 
+<br>
 ![](https://ic.pics.livejournal.com/monicawoe/8710205/174480/174480_600.jpg)
 
 > **Raphael/Air:**
@@ -699,10 +701,12 @@ Trial 1杀了地狱犬之后Dean&Sam念的咒语、Trial 2救完Bobby之后Sam�
 
 Cas给自己腰上纹的angel warding sigil纹身：
 
+<br>
 ![](https://external-preview.redd.it/ut3nwgecYnBNXR-ajioDmba1tXtZZ1tghJoiUSvZfqU.jpg?auto=webp&s=260c1e0100ae723364de58ad167b22adf9423cfb)
 
 更清晰的文字版：
 
+<br>
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmYjyyyRWDZrFCSWM7bOVfDRmV9eApO96Cbw&s)
 
 中央最大的符号：对应Lucifer
@@ -781,6 +785,7 @@ impala车身上Abaddon刀刻的enochian给Crowley的留言（配图TBA）：
 
 ### S11E21
 
+<br>
 ![](https://raw.githubusercontent.com/junesirius/junesirius.github.io/master/assets/images/SPN/S11/2024-06-24-SPN-1121-10.jpg)
 
 字符对应：

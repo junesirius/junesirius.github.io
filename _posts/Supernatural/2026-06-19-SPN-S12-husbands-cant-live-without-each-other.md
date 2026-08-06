@@ -11,6 +11,7 @@ origin: Tumblr
 
 Dean when Cas isn't around:
 
+<br>
 ![](https://64.media.tumblr.com/8af9334442a3664d2c1c217dcffff675/ec57a47d110309fc-05/s1280x1920/f2fcd4417e1c2e86dc9dff1e643d3181ec799fdc.jpg)
 <br>
 ![](https://64.media.tumblr.com/d3034b681efafbd8d5f9262c63d0ba3f/ec57a47d110309fc-98/s1280x1920/b6892b3a20921aab3d367621fca98d1b6b85540d.jpg)
@@ -27,6 +28,7 @@ Dean when Cas isn't around:
 
 Cas when Dean isn't around:
 
+<br>
 ![](https://64.media.tumblr.com/4087a8dd120167e6f115fcb169a691a7/ec57a47d110309fc-7b/s2048x3072/22e55bc3859e5e264ede489aaa9936f32d1e29dd.jpg)
 
 (S12E09)
