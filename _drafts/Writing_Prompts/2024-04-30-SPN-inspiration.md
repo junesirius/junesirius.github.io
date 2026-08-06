@@ -6388,4 +6388,56 @@ If Bobby is still alive when Sam's son (Dean Jr.) is born, Bobby becomes little 
 
 (inspired by Jim Beaver's comic con answer about if John isn't around and Bobby is the one raising Sam/Dean up, would they be better: [link](https://junesirius.github.io/2026/07/11/SPN-Bobby))
 
-### 496.
+### 496.【all】spn x Sherlock xover
+
+Dean meets Sherlock:
+
+"Seriously? You're a character from a book! Or movie! Or show! Whatever."
+
+"Says by a character from a book." Sherlock takes out a copy of Supernatural.
+
+"Fucking Chuck! That's not... that writer is the God!" Dean huffs grudgingly. "Wait, don't tell me Conan Doyle is Chuck too, I'd kill him, again."
+
+"I don't think Chuck's writing is that good, honestly."
+
+Dean's relieved for a second. But tense again quickly. "Shit, he killed you off too, but then brought you back. How's that not Chuck?"
+
+"Writer's common problem then."
+
+"Enough flirting and get to the case!" someone yells.
+
+"We are not --!" "I would never --!" Both of them turn at the same time and glare at the source of the voice.
+
+<br>
+
+"Is that really that difficult to accept Sherlock Holmes is real and breathing?"
+
+"You're telling me you don't find it ridiculous? How ridiculous is our life?" Dean huffs again.
+
+"Well, you've met Scooby-doo, lived inside the TV, been to alien space ship, met Dorothy and had a friend who's been to Oz and back, your boyfriend is an angel, you killed Death. Do you want me to keep going? And you think meeting Sherlock Holmes is the most ridiculous thing in your life, seriously?"
+
+"Uh," Dean shrugs. "Whatever. I don't like the dude."
+
+"You don't like him because he's smart or because he's sassy?"
+
+"He... he looks at me weird." Dean says weakly.
+
+"You're being ridiculous."
+
+"He's not like the book," Dean settles with that.
+
+Sam considers. "Alright, I'll take that one. But can we please focus on the case for now?"
+
+<br>
+
+"Why they need us? What's British hunters doing? Having burgers and watching TVs all day?"
+
+"British doesn't have monsters for ten years, remember what British Man of Letters said? They eliminated their monsters the moment they arrive their land, so I wouldn't be surprised hunters turn to other careers..."
+
+"... until we kicked the asshat man of letters in the butt, yeah I remember." Dean grimaces, not wanting to think this is their fault, but truth be told, maybe it is -- to some degree, at least.
+
+"We can train them, just a handful to be around to get the knowledge out. But now, let's solve this one first."
+
+<br>
+
+(case fic. the case is ghost, but working with man, Sherlock can pinpoint the man, but can't figure out how did the man do it because he has alibi all the time to prove he's innocent. Dean figures out the ghost part, Sherlock is forced to try to find a way to explain supernatural with science (e.g., haunted house is CO creating haunted effect, Cas confirm he's right; ref: https://www.smithsonianmag.com/smart-news/five-scientific-explanations-spooky-sensations-180973436/))
