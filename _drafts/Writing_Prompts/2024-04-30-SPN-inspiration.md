@@ -6388,13 +6388,15 @@ If Bobby is still alive when Sam's son (Dean Jr.) is born, Bobby becomes little 
 
 (inspired by Jim Beaver's comic con answer about if John isn't around and Bobby is the one raising Sam/Dean up, would they be better: [link](https://junesirius.github.io/2026/07/11/SPN-Bobby))
 
-### 496.【all】spn x Sherlock xover
+### 496.【destiel】spn x Sherlock xover
+
+【status: posted teaser on [Tumblr](https://www.tumblr.com/junesirius/824177318379569152)】
 
 Dean meets Sherlock:
 
 "Seriously? You're a character from a book! Or movie! Or show! Whatever."
 
-"Says by a character from a book." Sherlock takes out a copy of Supernatural.
+"Says a character from a book." Sherlock takes out a copy of Supernatural.
 
 "Fucking Chuck! That's not... that writer is the God!" Dean huffs grudgingly. "Wait, don't tell me Conan Doyle is Chuck too, I'd kill him, again."
 
@@ -6414,13 +6416,13 @@ Dean's relieved for a second. But tense again quickly. "Shit, he killed you off 
 
 "You're telling me you don't find it ridiculous? How ridiculous is our life?" Dean huffs again.
 
-"Well, you've met Scooby-doo, lived inside the TV, been to alien space ship, met Dorothy and had a friend who's been to Oz and back, your boyfriend is an angel, you killed Death. Do you want me to keep going? And you think meeting Sherlock Holmes is the most ridiculous thing in your life, seriously?"
+"Well, you've met Scooby-doo, lived inside the TV, been abducted to an alien spaceship, met Dorothy and had a friend who's been to Oz and back, your boyfriend is an angel, you killed Death. Do you want me to keep going? And you think meeting Sherlock Holmes is the most ridiculous thing in your life, seriously?"
 
 "Uh," Dean shrugs. "Whatever. I don't like the dude."
 
 "You don't like him because he's smart or because he's sassy?"
 
-"He... he looks at me weird." Dean says weakly.
+"He... he looks at me weird," Dean says weakly.
 
 "You're being ridiculous."
 
@@ -6430,9 +6432,9 @@ Sam considers. "Alright, I'll take that one. But can we please focus on the case
 
 <br>
 
-"Why they need us? What's British hunters doing? Having burgers and watching TVs all day?"
+"Why do they need us? What're British hunters doing? Having burgers and watching TVs all day?"
 
-"British doesn't have monsters for ten years, remember what British Man of Letters said? They eliminated their monsters the moment they arrive their land, so I wouldn't be surprised hunters turn to other careers..."
+"The British don't have monsters for ten years, remember what British Man of Letters said? They eliminated their monsters the moment they arrived on their land, so I wouldn't be surprised all hunters turn to other careers..."
 
 "... until we kicked the asshat man of letters in the butt, yeah I remember." Dean grimaces, not wanting to think this is their fault, but truth be told, maybe it is -- to some degree, at least.
 
@@ -6441,3 +6443,7 @@ Sam considers. "Alright, I'll take that one. But can we please focus on the case
 <br>
 
 (case fic. the case is ghost, but working with man, Sherlock can pinpoint the man, but can't figure out how did the man do it because he has alibi all the time to prove he's innocent. Dean figures out the ghost part, Sherlock is forced to try to find a way to explain supernatural with science (e.g., haunted house is CO creating haunted effect, Cas confirm he's right; ref: https://www.smithsonianmag.com/smart-news/five-scientific-explanations-spooky-sensations-180973436/))
+
+(inspired by Hillywood Parody, parody list include SPN parody and Sherlock Parody and Hilly performed as Dean and Sherlock and both are really good, get my inspiration brain cross-wired)
+
+### 3
