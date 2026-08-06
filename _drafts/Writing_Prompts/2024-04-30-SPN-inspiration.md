@@ -6344,4 +6344,28 @@ Dean makes himself a time loop on the day of Cas's death, so at the end of S15E1
 
 Maybe S06 Cas doesn't come to them often is because he's afraid Raphael would find them this way. They're hidden from angels but Cas isn't, S06E03 Raphael's man followed him and heard Bal's name and appeared in the same room as Sam/Dean, meaning they can very easily follow/track him to get to Dean/Sam. And Cas's worried Raphael might harm them or use them as bait or hostage to get to him, so by staying away, making sure they're hidden from angels and not exposed by his proximity, that's Cas's way of protecting them, but they don't know.
 
-### 494.
+### 494.【destiel】canon multiverse AU: architect Cas x sculpture Dean
+
+canon multiverse, one of the other verses: architect Cas creating a sculpture Dean, has dreams where Dean is real and alive, thought just his imagination of his sculpture, actually dreamed about the canon Cas's world with canon Dean, think he's pathetic to be in love with an idea but it's also his best creation, he's not ashamed of loving him with all his heart
+
+Then Chuck comes to destroy his world, Jack opens the door and canon TFW saves him. architect Cas meets real canon Dean for the first time, and notice canon Cas looks at canon Dean just the way he looks at his creation, he realizes this human Dean is also like his creation, canon Cas is appreciating his work just like he does
+
+They talk, but also realize that might be different. Architect Cas isn't in love with canon Dean, but he lived canon Cas's life in his dream, so he feels like he is him.
+
+canon angel Cas offers to put life into the sculpture Dean, but architect Cas says he needs time to think, he's always loved his Dean the way he is, the sculpture and art he is, he pretends he has life and soul, but he also knows he doesn't, and that comforts him too. Now that he realizes his sculpture might really be alive, he panics, thinking he's not made him perfect enough, sculpture would resent him for what he did to him
+
+canon angel Cas: "Most parents feel the same way about their children."
+
+architect Cas: "Do you feel that when you built him?"
+
+canon angel Cas: "I didn't build him, I just gave him back what he was, and what he was is always perfect."
+
+architect Cas looks at his sculpture and tries to convince himself his art is already perfect, that Dean is perfect, then tell canon angel Cas he's ready.
+
+Canon angel Cas breathes life into his Dean. Canon Dean realizes he must be breathing life into him the same way when he save him from Hell.
+
+Sculpture Dean opens his eyes for the first time, breathes for the first time.
+
+Architect Cas is the first thing he sees. And his creator smiles at him: "Hello, Dean."
+
+### 495.
