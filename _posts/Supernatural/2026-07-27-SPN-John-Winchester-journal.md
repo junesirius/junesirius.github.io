@@ -585,7 +585,7 @@ They don't have a picture. I wonder the other pictures Dean had in later years, 
 
 ### 1.24
 
-> Dean turns nine today. We're on the move, <u>so he might not finish third grade. He calls himself the New Kid all the time. HE's been in three schools already this year.</u> Who knows how mnay more?
+> Dean turns nine today. We're on the move, <u>so he might not finish third grade. He calls himself the New Kid all the time. He's been in three schools already this year.</u> Who knows how many more?
 
 It's still January and he's already in three schools. And he's probably not going to finish third grade. He's nine.
 
@@ -667,7 +667,7 @@ But!!! Dean would have seen these two symbols here, knowing they're for summonin
 
 ### 1.24
 
-> <u>Dean turns ten today.</u> Reagan out of office. A crazy hunter told me a couple of years ago that Reagan was an avtar of the Antichrist because each of his names has six letters: Ronald Wilson Reagan. Reagan also lived at 666 St. Cloud Road.
+> <u>Dean turns ten today.</u> Reagan out of office. A crazy hunter told me a couple of years ago that Reagan was an avatar of the Antichrist because each of his names has six letters: Ronald Wilson Reagan. Reagan also lived at 666 St. Cloud Road.
 
 very up-to-date news, very realistic feeling.
 
@@ -677,7 +677,7 @@ I wonder who that crazy hunter is, I'm thinking crazy Martin.
 
 ### 5.2
 
-> Sammy is six years old today. He'll start kindergarten in the fall. Wherever we are. HE's such a different kid than Dean. Quiet, watchful. He's learned that there are things to fear in the world, but <u>where Dean wants to fight them</u>, you get the sense that Sammy watches, learns. He's figuring something out. But when Sammy does ask a question, it's a good one.
+> Sammy is six years old today. He'll start kindergarten in the fall. Wherever we are. He's such a different kid than Dean. Quiet, watchful. He's learned that there are things to fear in the world, but <u>where Dean wants to fight them</u>, you get the sense that Sammy watches, learns. He's figuring something out. But when Sammy does ask a question, it's a good one.
 
 John's always comparing the boys, finding their difference. Dean's the fighter, the killer, Sam's the watcher, the observer. And John's the one decides Sammy is the clever one, and that's why Dean thinks that and considers himself the less clever one. That's so messed up... Feel so sorry for Dean, baby's 10 years old... He's clever, he knows things, he learns things greedily, just because Sammy is quiet and watchful doesn't automatically means he's smarter or Dean's less so. John, come on. That's absolutely totally your fault to mess Dean up there for that.
 
@@ -755,7 +755,7 @@ Seecamp LWS .32 automatic: 6+1 capacity, 4.25 inch in overall length, 3.25 inch 
 
 ### 5.2
 
-> Sammy is seven today. I think we're going to get him through the first grade this year. He's a smart little kid, but we've moved around so much that he's a little behind in school.  And I haven't been doing the stuff I need to do with him on that front. I need to be better about reading to him -- stuff other than field manuals and weird newspaper headlines. He's okay at math, and he knows some scientific sutff, becuase he's seen people doing some weird experiments at the roadhouse and Pastor Jim's, but he needs your basic little kid school stuff. <u>I'd ask Dean to do it, but there's only so much you can pile on a kid. Having Sammy's life in his hands is enough for Dean; he can't be responsible for home-schooling Sammy too.</u> God. This is one more time I'm reminded how much we need Mary.
+> Sammy is seven today. I think we're going to get him through the first grade this year. He's a smart little kid, but we've moved around so much that he's a little behind in school. And I haven't been doing the stuff I need to do with him on that front. I need to be better about reading to him -- stuff other than field manuals and weird newspaper headlines. He's okay at math, and he knows some scientific stuff, becuase he's seen people doing some weird experiments at the roadhouse and Pastor Jim's, but he needs your basic little kid school stuff. <u>I'd ask Dean to do it, but there's only so much you can pile on a kid. Having Sammy's life in his hands is enough for Dean; he can't be responsible for home-schooling Sammy too.</u> God. This is one more time I'm reminded how much we need Mary.
 
 Sammy's birthday, and John remembers school stuff. And Dean's birthday, it's almost always about guns and shooting. John cares that Sammy's behind at school, but not Dean having to change three school in the first month of the year. And you blame Dean for dropping out of high school and Sammy goes to Stanford? And say Dean's not the smart one in the family when it's him home-schooling Sammy? How's that fair? Life is not fair.
 
@@ -1098,7 +1098,7 @@ The funny thing is (actually not that funny), Misha's mom taught him how to stea
 
 ### 1.24
 
-> Dean turns fifteen today. <u>A week ago he helped me take out a spirit haunting a grocery owned by an Indian family in Erie, Pennsylvania</u>. It was like any other spirit -- you find the remains, you salt, you burn. But also it wasn't. I'm learning that all spirits have some things in coomon, but it matters who they're haunting. It matters what their traditions were when they were alive. Have been reading about Indian mythology. Gods upon gods, thousands of them, and each of them has attendant monsters and demons. Some of the ones that keep popping up, not so much mythology as folklore, are pishacha and acheri.
+> Dean turns fifteen today. <u>A week ago he helped me take out a spirit haunting a grocery owned by an Indian family in Erie, Pennsylvania</u>. It was like any other spirit -- you find the remains, you salt, you burn. But also it wasn't. I'm learning that all spirits have some things in common, but it matters who they're haunting. It matters what their traditions were when they were alive. Have been reading about Indian mythology. Gods upon gods, thousands of them, and each of them has attendant monsters and demons. Some of the ones that keep popping up, not so much mythology as folklore, are pishacha and acheri.
 
 Erie, Pennsylvania, 1994.1.17. Dean helped John on a case of spirit haunting. Looks like it's about time he's practically full-time hunting now. Almost like a grown-up. He's fifteen.
 
@@ -1172,7 +1172,7 @@ something must will happen later
 
 ### 5.2
 
-> Sammy is twelve years old today. He's a handful. Spends all of his time onthe computer, unless he's arguing with me. I can't understand him, and he doesn't try to understand me. Typical father-son trouble, but it feels worse because neither one of us can talk about what happened to his mother. He wants to be in one place, live a normal life. The older he gets, the more he wants it. But the older he gets, the more I'm going to need him to help on the hunt. He's got to understand that. We will finish this quest, and he's going to be a part of it.
+> Sammy is twelve years old today. He's a handful. Spends all of his time on the computer, unless he's arguing with me. I can't understand him, and he doesn't try to understand me. Typical father-son trouble, but it feels worse because neither one of us can talk about what happened to his mother. He wants to be in one place, live a normal life. The older he gets, the more he wants it. But the older he gets, the more I'm going to need him to help on the hunt. He's got to understand that. We will finish this quest, and he's going to be a part of it.
 
 Twelve years old, Sammy wants out, and John has to force him to stay.
 
@@ -1210,11 +1210,11 @@ He's proud, but he doesn't let himself get proud or let Sammy get out. He just c
 
 ### 1.24
 
-> Dean turns seventeen today. <u>We went shooting. Then I sent him out on his first hunt. I've let him take the lead before, but I've always been there to back him up. This time he's on his own. Partly it's a test, and partly I wanted some time with Sammy. Should be no problem for Dean.</u> Ghosts of two nuns haunting St. Stephen's Indian Mission in Riverton, Wyonming. Simple salt-and-burn mission. Nuns in love with each other, then discovered. Killed themselves. We scoped the situation out, figured that something must be left behind that's now a focus for the haunting. Bible, rosary beads, some small article that's hidden somewhere in their room. <u>I figured Dean would take care of it no problem, but I still stayed close by with Sammy.</u>
+> Dean turns seventeen today. <u>We went shooting. Then I sent him out on his first hunt. I've let him take the lead before, but I've always been there to back him up. This time he's on his own. Partly it's a test, and partly I wanted some time with Sammy. Should be no problem for Dean.</u> Ghosts of two nuns haunting St. Stephen's Indian Mission in Riverton, Wyoming. Simple salt-and-burn mission. Nuns in love with each other, then discovered. Killed themselves. We scoped the situation out, figured that something must be left behind that's now a focus for the haunting. Bible, rosary beads, some small article that's hidden somewhere in their room. <u>I figured Dean would take care of it no problem, but I still stayed close by with Sammy.</u>
 
 Seventeen, 1996.1.24, John sends Dean to his first solo hunting. Two nuns in love with each other, that's his first case.
 
-> The boys are old enough now that we can start spending a little more time in one place. Thinking California, maybe. When I need to fly solo, <u>they're big enough to stay home by themselves for a while without me worrying. When we go on a hunt together, they can bring their homework.</u> That's what I watnted to talk to Sammy about. It's going to be hard enough getting his bullheaded self through adolescence without also having to fight every other day about how he wants to be Jimmy Normal. We can make this work if we do it together -- but he's going to have to know that everyone pulls their weight. Mary comes first.
+> The boys are old enough now that we can start spending a little more time in one place. Thinking California, maybe. When I need to fly solo, <u>they're big enough to stay home by themselves for a while without me worrying. When we go on a hunt together, they can bring their homework.</u> That's what I wanted to talk to Sammy about. It's going to be hard enough getting his bullheaded self through adolescence without also having to fight every other day about how he wants to be Jimmy Normal. We can make this work if we do it together -- but he's going to have to know that everyone pulls their weight. Mary comes first.
 
 So the boys are still going to schools and have homework. And John didn't use to leave them alone just by themselves before 1996, before Dean's seventeen and Sam's thirteen. Means he must always have babysitter or some hunter watching over them. That's not so bad then. Not as bad as purely alone, still bad.
 
@@ -1262,7 +1262,7 @@ followed by hunting notes about soloman's seals, golems, Abbes.
 
 ### 1.24
 
-> <u>I gave Dean the Impala today for his eighteenth birthday</u> The car is 30 years old now, amazing it runs as well as it does. <u>I've taught Dean a lot of what I know about working on cars, which was everything until 1983.</u> Haven't kept up since then, all the computers and emissions spaghetti drives me nuts. Give me a fat 327, no electronics, just pistons, crankshaft, and a gas pedal. That's a car. And now it's my son's. He knows I'll still be driving it, but he's a man now, and since he's already made his share of kills, this was the only rite of passage I could think of. <u>He goddamn well better take care of it.</u>
+> <u>I gave Dean the Impala today for his eighteenth birthday.</u> The car is 30 years old now, amazing it runs as well as it does. <u>I've taught Dean a lot of what I know about working on cars, which was everything until 1983.</u> Haven't kept up since then, all the computers and emissions spaghetti drives me nuts. Give me a fat 327, no electronics, just pistons, crankshaft, and a gas pedal. That's a car. <u>And now it's my son's.</u> He knows I'll still be driving it, but he's a man now, and since he's already made his share of kills, this was the only rite of passage I could think of. <u>He goddamn well better take care of it.</u>
 
 Dean gets Impala, 1997.1.24, eighteenth birthday.
 
@@ -1294,7 +1294,7 @@ then symbols for seven archangels: Michael, Gabriel, Sameal, Raphael, Sachiel, B
 
 ### 5.2
 
-> Sammy is fourteen years old today. He's been having strange dreams again. I've tried to keep an eye out for any signs that he's more than a regular kid, but I don't see them. He's sensitive, has a lot of imagination, but that's about it. Plus now that he's hitting adolescence, he's agiant pain in the ass. <u>Dean just chased girls and snuck around with beers in his coat pockets.</u> That was teenage trouble I could understand. But Sammy just shuts down sometimes. Won't talk to anyone, and when he does, it's only because he wants to argue about something. He's got all the willpower us Winchesters are known for, but in him it sits quietly. You don't notice it's there until he decides he feels strongly enough about something that he won't compromise. Then you might as well wrestle angels.
+> Sammy is fourteen years old today. He's been having strange dreams again. I've tried to keep an eye out for any signs that he's more than a regular kid, but I don't see them. He's sensitive, has a lot of imagination, but that's about it. Plus now that he's hitting adolescence, he's a giant pain in the ass. <u>Dean just chased girls and snuck around with beers in his coat pockets.</u> That was teenage trouble I could understand. But Sammy just shuts down sometimes. Won't talk to anyone, and when he does, it's only because he wants to argue about something. He's got all the willpower us Winchesters are known for, but in him it sits quietly. You don't notice it's there until he decides he feels strongly enough about something that he won't compromise. Then you might as well wrestle angels.
 
 Actually the ironic part is, Dean's practically having a normal teenager life, girls and beers, not much school. He's even closer to a normal life than Sammy is, even though Sammy apparently wants more and stronger.
 
@@ -1348,9 +1348,9 @@ Dean's war is only worse, with real Hell and everything. Every horror and death 
 
 ### 5.2
 
-> Sammy is fifteen today. He'll start high school this fall. Next spring he'll have a driver's license. Can't wait to have the boys fighting over the Impala. It's a little easier with Sammy lately. He seems more committed. Maybe that's because he's able to have more contorl over being in school, having a friend here and there. I try not to tell him what I really think, which is that he's shirking sometimes. Winchesters don't quit. I don't think he's quitting, but he gets stubborn, and then he won't listen to anything I say. <u>He and Dean don't get along as well as they used to.</u> Could be Sammy's getting tired of being the little brother, and always having Dean take the lead.
+> Sammy is fifteen today. He'll start high school this fall. Next spring he'll have a driver's license. Can't wait to have the boys fighting over the Impala. It's a little easier with Sammy lately. He seems more committed. Maybe that's because he's able to have more control over being in school, having a friend here and there. I try not to tell him what I really think, which is that he's shirking sometimes. Winchesters don't quit. I don't think he's quitting, but he gets stubborn, and then he won't listen to anything I say. <u>He and Dean don't get along as well as they used to.</u> Could be Sammy's getting tired of being the little brother, and always having Dean take the lead.
 >
-> Could be it's time for Sammy to go out on his first solo. I should look around for something simple, <u>like I did for Dean</u>. Don't know why I'm so worried, really. Sammy's never hestitated when push came to shove.
+> Could be it's time for Sammy to go out on his first solo. I should look around for something simple, <u>like I did for Dean</u>. Don't know why I'm so worried, really. Sammy's never hesitated when push came to shove.
 
 Is Dean calling Sam Sammy because John calls him that or the other way round? Been waiting for John to stop calling him Sammy but Sam, but at least up until fifteen it's still "Sammy".
 
@@ -1442,7 +1442,7 @@ Oh Jesus Christ, you call it raise him right? Being scam artist and ladies' man?
 
 ### 5.2
 
-> Sammy is seventeen years old today. I'm going to guess that he's the only sophomore in the United States who has read the *Clavicula Solomonis* and made parts of it work. Bought him a new computer. HE's a zealot about having a Macintosh. Also he's a walking dictionary of the occult and esoteric. There's a lot of his mother in Sammy. God, I wish he had some way to know that other than me telling him.
+> Sammy is seventeen years old today. I'm going to guess that he's the only sophomore in the United States who has read the *Clavicula Solomonis* and made parts of it work. Bought him a new computer. He's a zealot about having a Macintosh. Also he's a walking dictionary of the occult and esoteric. There's a lot of his mother in Sammy. God, I wish he had some way to know that other than me telling him.
 
 John's so proud of Sammy's intelligence. I bet that's exactly what's drilling into Dean's mind about he's the clever one, which means Dean's the dumb one, and Dean just takes it in and accepts it. Oh God I'm so pissed and sad about it.
 
@@ -1476,7 +1476,7 @@ Oh hell, I just realize. At the beginning when John said he felt something is wa
 
 ### 5.2
 
-> Sammy is eighteen years old today. Surprised he didn't take off. We're not getting along too well. He hunts when we need him to, <u>but he's never committed himself the way Dean did.</u> <u>Dean's never known any other way to live, or if he has, he doesn't act like it. He's playing the role he was born to play.</u> Sammy's the younger brother. He doesn't know what his role is, even though I can tell him until I'm blue in the face and we're both ready to kill each other. HE's got one more year of school and then I'm drfting him full-time into the family business. <u>I've given him more slack than I ever gave Dean, more than I would have ever gotten from my dad.</u> He needed it. Now he's a grown man, or almost. Time for him to step into what's expected of him. <u>Dean never even thought about college. We used to joke about it once in a while.</u> But Sammy still believes he can have a normal life, but they're both more useful to the world as hunters than... what, lawyers? Dentists? Sammy's convinced himself that smart kids have to go to college. Part of my job is to convince him that college would be a waste of his smarts. And I gotta hand it to him on the brain front: there's nothing he can't find on the computer. I still dig around in actual books, libraries, newspapers. It's all keystrokes and search words for Sammy. He's done a good job hiding ourtrail on all the credit cards.
+> Sammy is eighteen years old today. Surprised he didn't take off. We're not getting along too well. He hunts when we need him to, <u>but he's never committed himself the way Dean did.</u> <u>Dean's never known any other way to live, or if he has, he doesn't act like it. He's playing the role he was born to play.</u> Sammy's the younger brother. He doesn't know what his role is, even though I can tell him until I'm blue in the face and we're both ready to kill each other. He's got one more year of school and then I'm drafting him full-time into the family business. <u>I've given him more slack than I ever gave Dean, more than I would have ever gotten from my dad.</u> He needed it. Now he's a grown man, or almost. Time for him to step into what's expected of him. <u>Dean never even thought about college. We used to joke about it once in a while.</u> But Sammy still believes he can have a normal life, but they're both more useful to the world as hunters than... what, lawyers? Dentists? Sammy's convinced himself that smart kids have to go to college. Part of my job is to convince him that college would be a waste of his smarts. And I gotta hand it to him on the brain front: there's nothing he can't find on the computer. I still dig around in actual books, libraries, newspapers. It's all keystrokes and search words for Sammy. He's done a good job hiding our trail on all the credit cards.
 
 Believe me, Dean's thought about other lives too. The summer at Sonny's place. That's right there his dream crushed. And then he stops dreaming about getting out. By going back in, by choosing Sammy and this life, he's given away his whole life and future, because he doesn't think he's important, he only thinks he has a role to play, Sammy's big brother, and he plays it.
 
@@ -1746,7 +1746,7 @@ Still thinking Dean isn't as bright as Sam. Piss me off every time. (Did I write
 
 ### 5.2
 
-> Sammy is twenty-two today. Saw in Colorado paper that a couple of hikers have gone missing at a plce called Blackwater Ridge. Twenty years ago, maybe, eight people were killed up there. Cops called it grizzly attack.
+> Sammy is twenty-two today. Saw in Colorado paper that a couple of hikers have gone missing at a place called Blackwater Ridge. Twenty years ago, maybe, eight people were killed up there. Cops called it grizzly attack.
 
 Only one sentence dedicated to Sammy now. The rest is the case the boys would later solve. But they wouldn't get to it until September, which means getting to a case four months after the paper comes out isn't that much of a deal... what's the matter with waiting on taking cases slowly then. They don't always have to rush to cases, looks like. Though, obviously hot cases would have more leads and must be easier to solve and fix.
 
