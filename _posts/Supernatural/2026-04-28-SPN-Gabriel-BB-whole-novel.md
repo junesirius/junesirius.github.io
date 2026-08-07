@@ -116,11 +116,11 @@ Gabriel laughs. "Touché."
 
 bigger version:
 
-<p align="center"><a href="tumblr.com" target="_blank"><img src="https://i.imgur.com/KFEk3UB.jpg" alt="Art of Gabriel and Castiel holding hands with both their wings spreading out, the view is from their back. Gabriel has three pairs of golden wings; Castiel has a pair of black wings. The title reads 'Sunday Dinner', written by June Sirius, art by thestarsmakemedream" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></a></p>
+<p align="center"><a href="https://www.tumblr.com/thestarsmakemedream-art/824322121073344512" target="_blank"><img src="https://i.imgur.com/KFEk3UB.jpg" alt="Art of Gabriel and Castiel holding hands with both their wings spreading out, the view is from their back. Gabriel has three pairs of golden wings; Castiel has a pair of black wings. The title reads 'Sunday Dinner', written by June Sirius, art by thestarsmakemedream" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></a></p>
 
 smaller version:
 
-<p align="center"><a href="tumblr.com" target="_blank"><img src="https://i.imgur.com/22dgcVk.jpg" alt="Art of Gabriel and Castiel holding hands with both their wings spreading out, the view is from their back. Gabriel has three pairs of golden wings; Castiel has a pair of black wings. The title reads 'Sunday Dinner', written by June Sirius, art by thestarsmakemedream" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></a></p>
+<p align="center"><a href="https://www.tumblr.com/thestarsmakemedream-art/824322121073344512" target="_blank"><img src="https://i.imgur.com/22dgcVk.jpg" alt="Art of Gabriel and Castiel holding hands with both their wings spreading out, the view is from their back. Gabriel has three pairs of golden wings; Castiel has a pair of black wings. The title reads 'Sunday Dinner', written by June Sirius, art by thestarsmakemedream" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></a></p>
 
 #### Art
 
