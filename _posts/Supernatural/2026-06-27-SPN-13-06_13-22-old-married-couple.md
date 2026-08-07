@@ -4,7 +4,7 @@ title: 【Destiel】S13E06,E22 Old Married Couple（动图）
 date: 2026-06-27 21:06
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
-tags: ["Supernatural", "destiel", "英文", "动图"]
+tags: ["Supernatural", "destiel", "英文", "动图", "视频"]
 pov: 第三人称
 origin: Tumblr
 ---
