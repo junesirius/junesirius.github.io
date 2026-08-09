@@ -6446,4 +6446,26 @@ Sam considers. "Alright, I'll take that one. But can we please focus on the case
 
 (inspired by Hillywood Parody, parody list include SPN parody and Sherlock Parody and Hilly performed as Dean and Sherlock and both are really good, get my inspiration brain cross-wired)
 
-### 497.
+### 497.【Dean】S06E05 reverse-transform from vampire to human has side effect
+
+(inspired by whumptober 2025 prompt "painful transformation")
+
+What if S06E05 the formula/potion/spell (whatever that is) that transformed Dean back from vampire to human has some side effect that they didn't know before? Similarly, what if S12E16 when Claire transformed into werewolf, the spell that transformed her back also has some side effect that they didn't know? In both cases, it's a spell/potion/magic that they didn't know would even work, had never worked on other experiment, and they wouldn't have known if there's any side effect, or they'd likely just die.
+
+But in the cases they didn't die, what if the side effect affects their memory? Dean becomes amnesiac for things before S06, or about very certain specific things related to one person (e.g. Sam, or John, or Cas)
+
+What if the side effect makes him still want to/need to eat/drink blood? (but not as fatal as vampire and doesn't have other vampire problems) like when Claire transforms back, she still craves raw meat for a while.
+
+What if the side effect makes him blind, or mute, or deaf? (don't really want to write disability, but if one day I want to try, this can be a way)
+
+### 498.【Dean/destiel】child Dean to John: "You've been looking for demons for so long and you found it, why don't you start looking for angels now?"
+
+(inspired by S05 SPN DVD additional material where people got interviewed to talk about real supernatural things they experienced)
+
+The man talked about himself as single father moved into a house with two boys and a daughter, and the house has a poltergeist. And also one day when his ex-wife knocks on the door with a black shadow behind her and her eyes turn black, his two cats hiss at the door frantically, he was originally about to open the door but didn't, turns out the ex-wife had a gun behind her back and was planning to shoot him that day because shadows in her dreams tell her to kill him. He spent years frightened to be killed and his kids harmed, but when finally all is said and done and he's unharmed, and kids grow up alive and unharmed, when he talks about those with his kids, his youngest son look at him in the eyes and tells him: "You've been looking for demons for so long and you found it, why don't you start looking for angels now?"
+
+very apt for John, almost perfectly same, can use "John Winchester's Journal" as reference to see how many times he got frightened and there were actually demon involved, can very easily imagine Dean tells John exactly the same and very literally true to every word: "You've been looking for demons for so long and you found it, why don't you start looking for angels now?"
+
+can be destiel too potentially (but don't have to be), with maybe John actually starting to try to find angels and find Cas early on and Cas meets with Dean as child, almost like "[How (thanks to Gabriel) Dean and Castiel (accidentally) raised each other (and Sam).](https://archiveofourown.org/works/540915)" again
+
+### 499.
