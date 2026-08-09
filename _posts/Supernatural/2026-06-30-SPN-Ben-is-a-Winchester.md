@@ -4,7 +4,7 @@ title: 【Destiel】Ben is a Winchester
 date: 2026-06-30 20:47
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Ben Braeden"]
-tags: ["Supernatural", "destiel", "英文"]
+tags: ["Supernatural", "destiel", "英文", "待扩充"]
 pov: 第三人称
 origin: AO3
 ---
@@ -242,3 +242,7 @@ Wind continues to bellow outside the car like a monster waiting in the shadow. B
 "It's okay, Ben, you're okay," he talks to himself, imagining the voice comes from the imagined Dean. "You'll be fine. I'll take care of you."
 
 He imagines the man that might be his dad strong and fearless. He'd feel safe wherever he is, as long as Dean is there -- isn't it what most people feel at the presence of their father? Ben wipes his eyes again, harder this time. He doesn't know how that would feel like, safe, because in his memory, he never had a dad, or a father.
+
+<br>
+
+(draft notes: Cas suddenly realizes S06 Dean protective of Ben is the same as S14 Cas protective of Jack, it's father instinct. Dean has father/parental instinct before Cas understands/realizes, and Cas has hurt him for that, and be angry with him later for not doing right with Jack.)
