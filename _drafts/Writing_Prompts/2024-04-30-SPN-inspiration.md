@@ -6472,4 +6472,58 @@ can be destiel too potentially (but don't have to be), with maybe John actually 
 
 What if Adam isn't John's, like Ben isn't Dean's, even though they sorta assumed he is all this time. Maybe someone along the line made a mistake (or make it purposely) or swapped the kid (like GO Crowley), angels didn't even know, John didn't know. When S05 Michael gets into Adam and Adam starts deteriorating quickly (like Lucifer in Nick) and Michael realizes he can't use Adam to go into the fight with Lucifer, what will S05E22 become?
 
-### 500.
+### **500.【destiel】shorts idea list compilation**
+
+(with first sentences)
+
+> There's always a secret, sacred moment between parking the car in the lot and hopping into a motel room.
+
+(Dean'd sit in the car for longer. If there's someone else rides with him, he'd let them go into the room first. Sam would go like he asked. But Cas would sit with him.)
+
+(inspired by life)
+
+06/20/2026 21:38
+
+> The day Dean puts on the red shirt, he gives everyone a heart attack.
+
+(reminds them of the MoC/demon!Dean time. reactions from Sam/Cas. maybe lead to shopping?)
+
+(inspired by S10 MoC/demon!Dean)
+
+06/21/2026 14:27
+
+> Cas has an obsession of watching Dean sleep.
+
+(They watch *Project Hail Mary* together? Cas can very easily relate with Rocky about the need to watch him sleep)
+
+(Dean surprised Cas, letting him know he did too when Cas was human (S05 "Ain't him a little angel", S09E06 overnight after Nora's house), so basically he's like Grace watching over Rocky when Rocky's dying/recovering)
+
+(inspired by *Project Hail Mary*)
+
+06/24/2026 09:50
+
+(might related to next one)
+
+> Cas starts to really enjoy sleeping. He still doesn't *need* to sleep, but Dean asks him if he *wants*. And Cas realizes, if he allows himself to want, he really does want to.
+>
+> (He just never did that before, allowing himself to get what he *wants*, not just *needs*.)
+
+(inspired by life)
+
+> Sometimes when Cas forgets, he turns into stone
+
+(He has to consciously make his skin flesh soft)
+
+(inspired by S04E22)
+
+07/07/2026 06:49
+
+> Dean's in a car crash.
+
+Dean's in a normal non-supernatural car crash. The other driver's full fault and basically a kid, very scared and shocked, called his dad, want to call police, going through insurance and normal procedures. Dean did his best to insist not calling police. And real-life non-supernatural accident is actually even trickier than he's ever known, and it exhausts him so much.
+
+(inspired by life)
+
+07/12/2026 13:34
+
+### 501.
