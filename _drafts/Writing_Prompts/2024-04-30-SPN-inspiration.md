@@ -6468,4 +6468,8 @@ very apt for John, almost perfectly same, can use "John Winchester's Journal" as
 
 can be destiel too potentially (but don't have to be), with maybe John actually starting to try to find angels and find Cas early on and Cas meets with Dean as child, almost like "[How (thanks to Gabriel) Dean and Castiel (accidentally) raised each other (and Sam).](https://archiveofourown.org/works/540915)" again
 
-### 499.
+### 499.【all】S05 What if Adam isn't John's
+
+What if Adam isn't John's, like Ben isn't Dean's, even though they sorta assumed he is all this time. Maybe someone along the line made a mistake (or make it purposely) or swapped the kid (like GO Crowley), angels didn't even know, John didn't know. When S05 Michael gets into Adam and Adam starts deteriorating quickly (like Lucifer in Nick) and Michael realizes he can't use Adam to go into the fight with Lucifer, what will S05E22 become?
+
+### 500.
