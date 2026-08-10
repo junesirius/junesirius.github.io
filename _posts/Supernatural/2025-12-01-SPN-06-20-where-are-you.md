@@ -37,3 +37,7 @@ And I think Dean only realizes Cas really does love him and is in love with him 
 For some reason the past me has always thought the real "in love" feeling thing doesn't come for either of them until after or around S08, especially because of S05 Cas's "I don't have the same faith in you that Sam does" (I still believe lack of faith is kinda a big deal to an angel, like Benny said in S08E07 "Aren't you guys all about faith", and if he can't have enough faith in Dean, I wasn't convinced we can talk about love yet), but then S06E20 proved me wrong. Maybe this does start happening around that time, some time before the very finale of S05, before Cas's second resurrection, maybe exactly as he realized Dean would do things right (S05E21 "You are not the burnt and broken shell of a man that I believed you to be."), he realized Dean is worth his faith, so he really started putting all his faith in Dean (he already did once when S04 he believed Dean could have a chance to stop the Apocalypse so he went ahead rebelling and throwing away everything he believed and everything he was, but the failure might cause some little withdraw and hesitation, but then after everything in S05, he's completely gone for Dean), and that's when he really started falling (from Heaven and in love).
 
 God, I really need more Cas POV episodes and stories.
+
+<br>
+
+([Tumblr post link](https://www.tumblr.com/junesirius/824531043992371200))
