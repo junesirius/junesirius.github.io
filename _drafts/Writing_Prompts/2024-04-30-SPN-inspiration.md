@@ -1284,7 +1284,9 @@ Another time when Dean feels guilty about jump started Apocalypse, Cas finds the
 
 哪怕后来卡知道了这是玩笑也仍然最爱这个圣诞礼物（时间线可以从s5开始拉到s9再到s15），非常温暖可爱的回忆
 
-### 124.【destiel】松果
+### ~~124.【destiel】松果【done】~~
+
+(used in "The Body is a Temple")
 
 （来自生活）（短打）
 
