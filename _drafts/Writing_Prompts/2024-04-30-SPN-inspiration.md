@@ -6578,4 +6578,10 @@ Dean after S15E18: a bottle of nothing, emptiness
 
 other bottle candidates: a bottle of wine, champagne, wish stars, feathers, coke, juice, milk, candies, some food, sluggish muddy liquid (Empty/S12E12 black goo/S07E03 Leviathan goo), honey, beetles, trapped flying cicada, glowing shrimp in sea water, fireflies, sand, shells, falling petal (osmanthus), falling leaves, seeds, dry nuts, tears, tree branch/twigs, little bones, ice
 
-### 502.
+### 502.【destiel+Rowena/Crowley】Rowena needs to get Crowley from Empty too, work with Dean to get Cas back
+
+Rowena has risked getting attention from Death, trying to get Crowley back after knowing Crowley is dead. Billie doesn't cooperate. Because Crowley's death isn't Billie's job, Crowley is in Empty, but Rowena doesn't know that. But she's desperate enough to try to get Crowley back.
+
+After S15E18 when Dean is desperate to get Cas back, somehow someone slips and lets Rowena know dead demons and dead angels all end up in Empty (Ruby was there), and she knows Dean would try to get into Empty. Now Rowena also has hope again to save Crowley, so she teams up with Dean to get into Empty to save Cas+Crowley together. As Queen of Hell, Rowena is a really strong help. Meanwhile Cas+Crowley would work together/meet and bicker too.
+
+### 503.
