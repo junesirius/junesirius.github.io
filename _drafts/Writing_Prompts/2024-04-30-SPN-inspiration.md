@@ -6528,4 +6528,54 @@ Dean's in a normal non-supernatural car crash. The other driver's full fault and
 
 07/12/2026 13:34
 
-### 501.
+> It's been so long that they almost forgot phone call and prayer aren't the only ways to reach an angel. There is also the summoning spell.
+
+When Cas doesn't pick up his phone and they really get a good reason need him there, they could summon him. It's rude, but they could, like the way they summoned Balthazar ("Boys boys boys, whatever can I do for you?", S06E17 Titanic episode) or Cas summoned Crowley (to ask for his help getting ingredients for Rowena's spell that includes something Rowena loves, "Who summons anymore? Can't you call?", S10)
+
+They'd grab Cas in like that. Cas gets bitchy.
+
+(inspired by the spells/sigils/rituals that humans can use to control angels: summoning spell, angel banishing sigil, holy fire. it's not fair, angels can't fight that)
+
+08/13/2026 00:33
+
+### 501.【destiel】if they are all bottles
+
+(will be a visual/art for tumblr post)
+
+If they are all bottles:
+
+S04E01 before meeting Dean, Cas is a bottle of lightning
+
+Dean is a bottle of sea with trapped shrunk Blackpearl
+
+S05 Cas is a bottle of underwater coral bush with little fish and shrimp living inside
+
+S05E04 endverse Cas is a bottle of unsent letter soaked by sea, thrown to waves to float to someone that it will never reach and sink into the sea before ever having any hope of reaching
+
+S06 badass Cas is a bottle of fire under water
+
+S07 crazy broken Cas is a bottle of Lego pieces
+
+S08 brainwashed Cas is a bottle of little trapped tin man
+
+S09 human Cas is a bottle of sealing wax
+
+S10 dying Cas is a bottle of blood
+
+Moc!/demon Dean is a bottle of broken glass shards
+
+S11 Lucifer!Cas is a bottle of black smoke
+
+S12 Jack-mindcontrolled Cas is a bottle of little green eco system that looks like paradise in the dream
+
+S13E01-05 Dean is a bottle of ash
+
+S13-15 Cas is a bottle of desert plant dying from lack of air
+
+Dean after S15E18: a bottle of nothing, emptiness
+
+
+
+other bottle candidates: a bottle of wine, champagne, wish stars, feathers, coke, juice, milk, candies, some food, sluggish muddy liquid (Empty/S12E12 black goo/S07E03 Leviathan goo), honey, beetles, trapped flying cicada, glowing shrimp in sea water, fireflies, sand, shells, falling petal (osmanthus), falling leaves, seeds, dry nuts, tears, tree branch/twigs, little bones, ice
+
+### 502.
