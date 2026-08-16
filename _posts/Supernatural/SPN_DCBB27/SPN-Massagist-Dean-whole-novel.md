@@ -11,13 +11,13 @@ long_novels: 【Destiel】The Body is a Temple
 published: false
 ---
 
-**Tags:** Alternate Universe - Human, Massagist Dean, Depressed Cas, Severe Depression Behavior Mentioned, Self-Harm Behavior and Ideation Mentioned, Past Homeless Cas, Angst, Hurt/Comfort, Slow Burn, Hopeful Ending, Chuck's A+ Parenting, Dean is wholesome, Dean and Sam raised by Bobby and Ellen, Massage as Therapy
+**Tags:** Alternate Universe - Human, Massagist Dean, Depressed Cas, Severe Depression Behavior Mentioned, Self-Harm Behavior and Ideation Mentioned, Past Homeless Cas, Angst, Hurt/Comfort, Slow Burn, Eventual Hopeful Ending, Chuck's A+ Parenting, Dean is wholesome, Dean and Sam raised by Bobby and Ellen, Massage as Therapy
 
 **Rating:** Teen and Up
 
 **Warning:** Self-Harm Behavior and Ideation Mentioned
 
-**Pairing:** Dean Winchester/Castiel, past Castiel/Meg Masters, background Sam Winchester/Jessica Moore, background unrequited Ruby/Sam Winchester, Bobby/Ellen, background Charlie Bradbury/Jo Harvelle
+**Pairing:** Dean Winchester/Castiel, past Castiel/Meg Masters, background Sam Winchester/Jessica Moore, background unrequited Ruby/Sam Winchester, Bobby Singer/Ellen Harvelle, background Charlie Bradbury/Jo Harvelle
 
 [TOC]
 
@@ -77,9 +77,11 @@ relationship with your body
 
 (my recent struggle, realization, efforts, progresses)
 
-"Your body is your temple" (from Bible 1 Corinthians 6:19)
+"Your body is your temple" (from 1 Corinthians 6:19 "Do you not know that your bodies are temples of the Holy Spirit, who is in you, whom you have received from God? You are not your own; you were bought at a price. Therefore honor God with your bodies")
 
 ### Timeline
+
+#### before beginning of the story
 
 Now: 2008 spring (~ April)
 
@@ -98,6 +100,26 @@ Cas: birthday 1976, homeless 1990, NYU college (English) 1994, meet Meg 1997, co
 Meg: birthday 1979, NYU college (journalism) 1997, college graduate 2001, journalist for papers 2001-, marry 2003 (now: 29y, manipulative)
 
 Ruby: birthday 1983, Stanford college (law) 2001, Stanford Law school start 2005, law school graduate 2008 (now: 25y, last year of law school, Sam's classmate, work against him while secretly pursue him)
+
+#### during story
+
+2008 April: Cas goes to massage for the first time and meets Dean
+
+2008 May: Cas files divorce against Meg to court (need 6-month cooldown from state law about divorce)
+
+2008 June: Sam/Jess graduate from law school
+
+2008 July: Sam/Jess take bar exam
+
+2008 August:
+
+2008 September:
+
+2008 October: Sam/Jess bar exam result comes out, both pass; Sam propose to Jess, they get engaged
+
+2008 November: Cas/Meg divorce case settled in the court, Sam is his lawyer
+
+2009 summer: Sam/Jess wedding, then honeymoon
 
 ### Dean
 
@@ -223,7 +245,7 @@ And then when Dean's spiraling a little about what went wrong, Cas is with Charl
 
 Dean goes back to the room to check if Cas can get to continue with therapy and any medication if he needs. Cas doesn't want Dean to worry so much about him, doesn't want to trouble him, doesn't want to feel like he owes him (Cas's spiral again), Dean knows when to not let his support be too much pressure and back down, but suddenly has the idea that he could probably use a divorce lawyer, and that's exactly Sam's major, Sam's going to be a divorce lawyer. Cas says he can't possibly afford that, that's also why Meg gets to do so much things but still gets to get away, she has better divorce lawyer (Crowley, no need to mention name; also know enough about it herself because that's Ruby's major too) to work against him to *prevent* him from really getting divorce done. Dean says that's perfect because Sam's still pre-law and he isn't allowed to charge people otherwise he'd get revoked before getting his license, but he's allowed to give suggestions and advice and read through materials for him, just as a friend, just to help. Cas really does need that, and he doesn't really have a good reason to say no, so that's settled. Dean would check with Sam and they settle a day to meet up to help Cas gets through the materials to get the divorce done. After Cas leaves, Charlie wiggles her eyebrows suggestively, but Dean goes "Don't", he doesn't really have enough capacity to think that knowing Cas is going to get divorced, this might be his chance, but he also doesn't know if Cas even swings that way, his main focus is just to help Cas out and cheer him up. (Charlie/Dean both see Meg as the manipulative bitch that she is but they can't really just point it out to Cas.)
 
-Dean gets home and sees Jo waiting outside his door, Dean moans it's bad timing but Jo's happy to see him, so Dean has no way but to let Jo crash at his guest room. Dean calls Sam to let him know Cas has this situation and that he can use Sam's professional knowledge help and Sam says of course, then Dean slips Cas's wife's name is Meg and Sam gasps ("You gotta be kidding me", "World is a small place") because Sam recognizes the name and knows she's Ruby's older sister and they have already met (but Sam has never mentioned Meg to Dean by her name and didn't think it's important; Cas never mentioned Ruby's name when referring to Meg's sister also because didn't think it's important), and knows a lot must be going on messily with Meg too seeing how the things fall out with Ruby (could also be because Meg fails to control Ruby anymore so she's taking it all out on Cas and treats him even more badly to compensate her anger/loss), but Sam says he thinks he can figure out some strategy to help the divorce case, he has seen cases like that in his class and thinks he has ideas of handling people like Meg (and their last fight back with Meg/Ruby gives him more confidence). Mostly done by bad guys but they can utilize that too. Dean urges him to do whatever he needs to do quickly because he can't bare to think Cas has to endure this longer. Sam teases him similar to what Charlie did, which annoys Dean a little but he does actually feel more hopeful for his chance to be with Cas (but he also still knows too well that this isn't really time for that yet).
+Dean gets home and sees Jo waiting outside his door, Dean moans it's bad timing but Jo's happy to see him, so Dean has no way but to let Jo crash at his guest room. Dean calls Sam to let him know Cas has this situation and that he can use Sam's professional knowledge help and Sam says of course, then Dean slips Cas's wife's name is Meg and Sam gasps ("You gotta be kidding me", "World is a small place") because Sam recognizes the name and knows she's Ruby's older sister and they have already met (but Sam has never mentioned Meg to Dean by her name and didn't think it's important; Cas never mentioned Ruby's name when referring to Meg's sister also because didn't think it's important), and knows a lot must be going on messily with Meg already seeing how the things fall out with Ruby (could also be because Meg fails to control Ruby anymore so she's taking it all out on Cas and treats him even more badly to compensate her anger/loss), but Sam says he thinks he can figure out some strategy to help the divorce case, he has seen cases like that in his class and thinks he has ideas of handling people like Meg (and their last fight back with Meg/Ruby gives him more confidence). Mostly done by bad guys but they can utilize that too. Dean urges him to do whatever he needs to do quickly because he can't bare to think Cas has to endure this longer. Sam teases him similar to what Charlie did, which annoys Dean a little but he does actually feel more hopeful for his chance to be with Cas (but he also still knows too well that this isn't really time for that yet).
 
 \-\-\-
 
@@ -238,6 +260,10 @@ When Cas calms down, Dean doesn't ask what happened, just asks him if he's hungr
 
 
 ###### [TBA here]
+
+> order of events: Jo/Charlie meets first and gets familiar quickly, then Meg kicks Cas out, Cas stays in his car before Dean finds out, Dean suggests Cas stay at his place, Jo is already with Charlie at this point and okay with staying at Charlie's place (topic gets raised in the massage place)
+>
+> Dean blurts out he's gay to clarify he and Jo aren't together to avoid miscommunication with Cas (When does Cas come out as bi? At the same time? To reassure Dean he's not phobic?)
 
 ### Outline draft & reference
 
@@ -261,6 +287,8 @@ fluff casual events Dean/Cas can do to help Cas heal and the two get familiar (d
 - wants to have a pet but doesn't think he's ready, doesn't believe he's capable of taking care of other life, same reason as why he can't get it over to think about having child (slow healing process, takes time) (start with plants) (Dean knows he can work well with kids, he's seen the way Cas interact with those kids in the library, but he'd let Cas mentally accepts it and allows himself to be open and unafraid again by himself, so he doesn't rush.)
 - A wedding scene: Sam and Jessica get married a year after graduation and pass bar exam ("It's Attorney Winchester now." "Still Sammy to me."), Dean/Cas/Jo/Ellen/Bobby/Charlie/Pamela all there (Dean/Pamela meets for the first time, Pamela insists not as Cas's therapist, she's invited by Bobby because she and Bobby know each other back before Pamela starts doing therapy, Pamela wanders past Roadhouse back then doing spiritual rituals for people to calm them down, which is essentially same as therapy outcome; Ellen bickers with Pamela a lot, partially probably because Bobby gets too close with her; Cas talks about Pamela: "She sees me." (canon easter egg ref)). But Meg/Ruby try to crash the wedding (both come uninvited, Meg reasons she's Cas's ex-wife, Ruby as Sam's classmate). Dean as Sam's best man, Jo as Jessica's bridesmaid (Jessica has no family?). Jokes about marriage as divorce lawyer. Cas is at a lost and a little overwhelmed by the situation (happy for Sam/Jess, sure, but he still gets emotionally overwhelmed). Dean can't find Cas in the hall after a while and finds him in the backyard garden gazebo alone in their rented wedding location (he already knows him well enough to know where to look for him) and the two of them just spend time together there away from the crowd (Cas urges Dean to go back in because surely Sam would want his brother in his most important day, Dean says Sam now has his most important woman in his life now he doesn't need him as much as used to, but Cas still doesn't have a different "best friend" than Dean so Dean's staying for him; talk about "best friend"? phrase it differently? to indicate their relationship are moving toward something more too, Cas wants that too but he's still not fully ready, still in the healing process, Dean's willing to wait). Sam/Jessica honeymoon (Italy or Brazil)
 - (General and frequent) Dean supports Cas through his panic attacks and regression time when Cas wants to harm himself again; Dean watches out for him when Cas doesn't have energy or mindset to self care or doesn't think himself deserve to be treated kindly (Cas gets more anxious when he's treated kindly, because he expects to be treated badly because he's used to it, so he's waiting for bad things to happen, but Dean lets him feel more relaxed and comfortable when he's treated kindly, a lot of times is through massage)
+- About sex: Maybe they'll talk about/mention the topic of sex or porn, but this story isn't about sex (at least not now, Cas isn't ready, might be in hopeful ending's future), it's about relationship with your body.
+- About marriage: Dean knows Cas must have PTSD about marriage from Meg so he never brings it up, just waits for Cas to heal and gives him all the time and space, until one day Cas brings it up to him hesitantly asking why he never brings it up, Dean answers it's not to make him uncomfortable or think maybe he's just like Meg, Cas asks if Dean wants it, Dean's like whatever Cas wants, he's okay with or without it because it doesn't really matter to him, Cas asks if Dean would be even happier if they marry, Dean answers only if that makes Cas happy too. They talk about it and really discuss it and come up with a plan or agreement to do it whatever they're comfortable with at the time and pace that they're comfortable with. They might come back to the old topic again about Cas's trauma from Meg/first marriage/all those old things, feeling trapped and no choice etc., Dean: "I don't own you and will never. I'm freeing you by love." (1 Corinthians 13:4: "Love is patient, love is kind. It does not envy, it does not boast, it is not proud. It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs. Love does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.")
 
 behaviors/symptoms that show Cas doesn't have a good relationship with his body (doesn't have to emphasize all of them, but Dean's helping him change these by doing the opposite because Dean notices them even though Cas doesn't):
 
@@ -285,17 +313,12 @@ Side plots:
 
 - (Jo/Charlie): Jo comes to work at the store and gets close with Charlie, eventually get together with Charlie, deciding to stay. Charlie invites Jo as part of her start-up (invites Dean too, she can use a good business brain, Dean agrees to consult but not full time).
 - (Meg/Ruby): Besides manipulating Cas, Meg tries to (and has been) manipulate Ruby too, and Sam, wanting Sam to choose Ruby over Jessica, wanting Ruby to gets the job that Sam/Jessica is so close to getting. Sam/Jessica recognize Meg's manipulation schema effort, making Ruby sees Meg for what she is, Ruby gives up on Sam and disowns Meg (because Ruby also wants her life back instead of always being controlled by Meg as her little sister). Meg for once is actually hurt because she thinks Ruby as the only one she really cared about and did well and basically raised her up (but Ruby is as selfish and bad as Meg because she learns from the best (the worst)), and from Ruby, Meg sees herself and starts realizing for the first time maybe she's doing things wrong and maybe she is a bad person, and starts having a little bit of remorse (but still not too much, she still finds it easier to blame others, hates Sam/Jessica for turning Ruby against her).
-- (Sam/Jessica): Beginning of story (2008 spring), Sam/Jessica last year in law school, prepare for exam/graduation. Sam is studying for divorce lawyer, Jessica/Ruby for criminal lawyer. Ruby mostly only focuses on hurting Jess because she's trying to steal Sam, like trying to steal Jess's job offer (from a professor's firm) before graduation, speaking ill of Jess before professors, spreading her rumors, trying to damage her credit and reputation among people; Ruby plays "jokes" on Jessica by messing with her things, pretending want to be Jess's friend, taking out screws on Jess's car, could have killed her if Sam didn't happened to see it. Sam/Jessica handled the situations together, gather evidences, prepares to sue Ruby, agrees to negotiate for terms if Ruby is willing to pay for compensation and agree to a long list of items. Ruby backs off knowing she'd legally lose the lawsuit if they really mean seriously and bring it to court with all the evidences they gathered and that would ruin all her career preparation and basically whole future. So Ruby gives it up and actually most of the things aren't her idea, it's Meg telling her that she has to do. Sam/Jessica gets Ruby to turn against Meg. Sam/Jess graduation (2008 June), bar exam (2008 July), bar exam result come out (2008 October), Sam propose/engage (2008 November), Cas's divorce settled when Sam actually has license to perform law and present as his lawyer (2008 November, need 6-month cooldown from state law about divorce, started 2008 May and finally settled), wedding (2009 summer), honeymoon (Italy or Brazil?)
+- (Sam/Jessica): Beginning of story (2008 spring), Sam/Jessica last year in law school, prepare for exam/graduation. Sam is studying for divorce lawyer, Jessica/Ruby for criminal lawyer. Ruby mostly only focuses on hurting Jess because she's trying to steal Sam, like trying to steal Jess's job offer (from a professor's firm) before graduation, speaking ill of Jess before professors, spreading her rumors, trying to damage her credit and reputation among people; Ruby plays "jokes" on Jessica by messing with her things, pretending want to be Jess's friend, taking out screws on Jess's car, could have killed her if Sam didn't happened to see it. Sam/Jessica handled the situations together, gather evidences, prepares to sue Ruby, agrees to negotiate for terms if Ruby is willing to pay for compensation and agree to a long list of items. Ruby backs off knowing she'd legally lose the lawsuit if they really mean seriously and bring it to court with all the evidences they gathered and that would ruin all her career preparation and basically whole future. So Ruby gives it up and actually most of the things aren't her idea, it's Meg telling her that she has to do. Sam/Jessica gets Ruby to turn against Meg. Sam/Jess graduation (2008 June), bar exam (2008 July), bar exam result come out (2008 October), Sam propose/engage (2008 October), Cas's divorce settled when Sam actually has license to perform law and present as his lawyer (2008 November, need 6-month cooldown from state law about divorce, started 2008 May and finally settled), wedding (2009 summer), honeymoon (Italy or Brazil?)
 
 random quotes from Dean:
 
 - Dean: "People don't usually realize this, but your body controls your mind, like, literally, physically. And your mind commands your body too, it's a two-way street. If your muscles are relaxed, it's hard to keep your mind stressed out, didn't they say if you pretend to smile, you'll feel happier? Same thing."
-
-order of events: Jo/Charlie meets first and gets familiar quickly, then Meg kicks Cas out, Cas stays in his car before Dean finds out, Dean suggests Cas stay at his place, Jo is already with Charlie at this point and okay with staying at Charlie's place (topic gets raised in the massage place)
-
-Dean blurts out he's gay to clarify he and Jo aren't together to avoid miscommunication with Cas (When does Cas come out as bi? At the same time? To reassure Dean he's not phobic?)
-
-About sex: Maybe they'll talk about/mention the topic of sex or porn, but this story isn't about sex (at least not now, Cas isn't ready, might be in hopeful ending's future), it's about relationship with your body.
+- about getting Cas out of the marriage: "It's like breaking jail, it's breaking you free."
 
 ## Claim
 
@@ -318,3 +341,5 @@ About sex: Maybe they'll talk about/mention the topic of sex or porn, but this s
 ## Editing notes
 
 # Main
+
+## Ch 1
