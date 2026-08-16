@@ -6,7 +6,8 @@ categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Sam Winchester", "Charlie Bradbury", "Jo Harvelle", "Jessica Moore", "Bobby Singer", "Ellen Harvelle", "Pamela Barnes", "Meg Masters"]
 tags: ["Supernatural", "destiel", "英文"]
 pov: 第三人称
-origin: 个站
+origin: 2027 DCBB
+long_novels: 【Destiel】The Body is a Temple
 published: false
 ---
 
@@ -238,7 +239,7 @@ When Cas calms down, Dean doesn't ask what happened, just asks him if he's hungr
 
 ###### [TBA here]
 
-### other outline drafts/materials/reference
+### Outline draft & reference
 
 major shits related to Meg and the divorce case:
 
@@ -296,17 +297,17 @@ Dean blurts out he's gay to clarify he and Jo aren't together to avoid miscommun
 
 About sex: Maybe they'll talk about/mention the topic of sex or porn, but this story isn't about sex (at least not now, Cas isn't ready, might be in hopeful ending's future), it's about relationship with your body.
 
-## claim
+## Claim
 
-### claim summary
+### Claim summary
 
-### claim visual
+### Claim visual
 
-## posting
+## Posting
 
-### posting summary
+### Posting summary
 
-### snippet
+### Snippet
 
 ## Arts
 
