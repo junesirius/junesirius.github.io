@@ -6584,4 +6584,10 @@ Rowena has risked getting attention from Death, trying to get Crowley back after
 
 After S15E18 when Dean is desperate to get Cas back, somehow someone slips and lets Rowena know dead demons and dead angels all end up in Empty (Ruby was there), and she knows Dean would try to get into Empty. Now Rowena also has hope again to save Crowley, so she teams up with Dean to get into Empty to save Cas+Crowley together. As Queen of Hell, Rowena is a really strong help. Meanwhile Cas+Crowley would work together/meet and bicker too.
 
-### 503.
+### 503.【destiel】Dean becomes angel killer to bleed their grace to save dying Cas
+
+In a world where angels are real and Cas as an angel is dying from bleeding out grace, established relationship, Dean knows him and loves him, hunts/kills angels for him to feed their grace to him to save him, and gets the fame of angel killer (as a human)
+
+(inspired by S10E03 Crowley kills angel to feed their grace to Cas and tells him his hand is clean; and Gotham Mr. Freeze who kills people to save his wife; and maybe my vampire AU VO outline that's not done yet but has similar idea)
+
+### 504.
