@@ -10,7 +10,7 @@ origin: 2026 DCBB
 published: false
 ---
 
-**Tags:** John Winchester's A+ Parenting, Kid Fic, Kid Dean, Five-year-old Dean, Baby Sam, One-year-old Sam, Weechesters, Dean has never seen a cat before, cat is not really a cat, I didn't know Cas is gonna be in this story before writing down the first word but he is, I didn't know it's gonna be a destiel story before started writing but it is, hunger is a constant theme, childhood trauma but they don't know it yet, Main Character Temporary Death, Case Fic, Growing Up, Slow Burn, Cat Castiel, Prayers, Canon Divergent
+**Tags:** John Winchester's A+ Parenting, Kid Fic, Kid Dean, Five-year-old Dean, Baby Sam, One-year-old Sam, Weechesters, Dean has never seen a cat before, Cat is not really a cat, I didn't know Cas is gonna be in this story before writing down the first word but he is, I didn't know it's gonna be a destiel story before started writing but it is, Hunger is a constant theme, Childhood trauma warning,  But could have been worse, Cat helped, Main Character Temporary Death, Case Fic, Growing Up, Slow Burn, Cat Castiel, Prayers, Canon Divergent, Eventual Hopeful Ending
 
 **Pairing:** Castiel & Dean Winchester, Castiel/Dean Winchester
 
@@ -36,6 +36,16 @@ published: false
 "The way I see it, every life is a pile of good things and bad things. The good things don't always soften the bad things, but vice versa, the bad things don't necessarily spoil the good things and make them unimportant." (DW S05E10 Van Gogh)
 
 Because Cas was there, Dean doesn't have to take everything on his shoulder. He gets to take care of himself a bit more, or allow himself to be taken care of or loved by others. So that taught him the lesson that he's deserved and loved before the self-unworthiness thought gets too deep. Because Cas was there, Dean's a little bit less messed up.
+
+#### world setting
+
+angels, demons, monsters exist, but the hunters only know about demons/monsters, don't know about angels until 2008 Cas comes
+
+Cas/angel/Heaven rule: can't let them know about angels, can't interfere, can't show them his ability, can't make noticeable changes that risk him being found out by Heaven, will have punish (but Cas will gradually rebel a little for them to break the rule to help them where necessary and where he can find the loophole of the rule)
+
+Cas can't use his powers or he'd be found, but he can probably use other ways to help
+
+cat rule: cat has 9 lives (so Cas comes back 8 times between 1984-2008, the last one he jumps into Hell with Dean)
 
 #### Cas POV
 
@@ -103,6 +113,28 @@ He's alerted to cat but Dean insists so he gives into keep him, but claims as so
 
 Not much difference about the rest for John. (Not focus on him, don't depict too godawful, just reasonably awful with good reason)
 
+#### main plot points about cat
+
+(extended ideas, changed the initial setting, adding a story arc about Dean/Cas relationship, giving Cas more sensible part and communication ability and ways to express himself)
+
+1. Cas helps with nightmare
+2. Cas helps with case, dies, comes back as another cat (makes kid Dean wants to be a vet in the future)
+3. Cas in Dean's dream talking
+4. Cas in real world talking
+5. Dean thinks Cas is a monster (again), scared of him => accepts himi
+6. John learns about Cas talking, shoot/cut/kill the cat, Cas comes back again as another cat (die and come back 8 times in total in the whole story, not counting S03 Hell jump)
+7. Dean protest, gets sent to Bobby's
+8. Cas protects Dean
+9. Bobby vouch for Cas, John gets forced to accept Cas
+10. More cases where Cas saves them, almost die or really die, come back (8 times in total)
+11. Case where John/Sam almost die, Dean begs Cas to save them, Cas violate rule to help, exhaust himself
+12. Cas get taken back to Heaven, come back again hurt, muted, redo some process, re-remember them again (Naomi's treatment)
+13. Some case goes wrong, Dean blames Cas, take it out on him, Cas leaves; Dean regrets, ask him back, Cas back. (this Dean is older now, maybe near 18y or slightly above 18y)
+14. Stanford era, Dean hunt with Cas
+15. S01-S03 timeline, Sam/Dean hunt with Cas, Cas try to save Dean from the deal
+16. Hell, Cas be there with Dean, Dean breaks for Cas, Cas flies Dean out of Hell, saves him
+17. S04E01, Dean looks for Cas, seance; Cas come back as human
+
 ### Claim
 
 #### Summary
@@ -149,11 +181,15 @@ Just a story of little boys and a cat.
 
 #### Art
 
-### Words before the work
+### Editing Notes
+
+posting the below "words before/after the work" when posting
+
+#### Words before the work
 
 Just keep in mind that this story is written in Dean POV, and Dean's five years old when the story starts, and a five-year-old isn't always the most reliable source of truth when retelling what happened. So maybe some of the things aren't what he thinks are happening (or are they?).
 
-### Words after the work
+#### Words after the work
 
 This story's initial idea was inspired by a very cute video of my dear friend BucketOfLi's cat (which is very much like a monster under the bed, in a good way). But then, as I write mindlessly, after Dean saw the cat for the first time in his life (that's where I originally thought would be the ending of the story), when Dean starts thinking about giving the cat a name, I lost control of the story, the story itself just continued growing from there. Everything after that point is sorta entirely inspired by Neil Gaiman's black cat story "The Price" (or what's left of it that I still remembered), but I'd say even Gaiman's story idea probably isn't very novel, in a way -- there gotta be more people having thought that cats are angels, and what better angel/cat can it be other than Cas for little Dean and baby Sammy to grow up with.
 
@@ -164,20 +200,6 @@ It should be pretty obvious since the beginning, but I'll still add redundantly 
 I started writing this story in the middle of a night in the middle of a tough week and my eyes were half-closed most of the time, and after re-reading, I realize the Sammy in my head is most definitely ~~a bit~~ a lot older than one year old to be able to talk that much and read and reason and be so mature (in a word, just too much like the normal adult Sam that I've got used to writing; in many ways, so are Dean and Cas in this story, pretty sure the Dean I'm writing is more intelligent and thoughtful and mature than any average five-year-old and the cat I'm writing isn't like any cat, but I'd pretend those are probably smaller problem than a one-year-old speaking long sentences and understanding the situation around him and comforting his older brother), I'll pretend it's because the demon blood in him makes him grow faster and ultra clever, and Dean doesn't freak out because he doesn't know what normal baby's learning and growing speed normally should be like, and John doesn't freak out because he isn't there long enough to notice, or maybe he noticed and freaked out and that's why he ran away so much. (This is mostly an after-thought patch, but my picky brain accepts the explanation, so I hope it works with you guys too.)
 
 And, I feel like I should apologize for writing John Winchester's A+ parenting and writing him so very god-awful and probably triggering (in order to make the story make sense), as much as I know the fandom hates John Winchester even more than Chuck, the hatred and resent isn't the main focus and emotional theme for this story, (because... it's five-year-old Dean's POV, and five-year-old Dean loves and admires his Dad too much and can't see anything wrong, but also doesn't have as much emotional burden and weight as the grown-up Dean. He's only have one year of childhood trauma, not twenty, but that's not saying it's okay. He's five, Jesus.) Still, just wanting to say, let's pretend that's just the functional premise for the story, let's focus more on that cute powerful amazing black cat and those awesome little humans, sounds good?
-
-### Editing Notes
-
-~~When posting: all separated parts with date-stamps all publish together as one fic. The separators just to help jump around when writing.~~
-
-~~The day they met Cat: It's Thursday, not Sunday (change that fortune cookie: date is 6.7). Every time Cat comes back: it's a Thursday, start seeing patterns~~
-
-#### Deleted Scene
-
-(write as if an epilogue but title it as "Deleted Scene" because can't put it in but like the idea, so still write it)
-
-an idea: what if future Dean/Sam/Cas time travel to one time point for a time-related case fic, keep kid!Dean POV, but see Cas in trench coat first time, adult!Dean amused how young he was and he remembers the cat!Cas, but maybe adult!Dean can pretend he's not future Dean, just some hunter popping in to help, so kid!Dean doesn't know he's seen future self, so timeline intact, but from adult!Dean, kid!Dean knows the cat's name is Cas and angel is watching him (but adult!Dean can't tell him cat is angel yet because he's not supposed to know until he's back from Hell, to protect timeline), but he can't meet his angel yet until he's 29. Normal timeline, he's devastated when he's 28 and made the deal, realize he'd never be 29, and he thought he'd never meet Cas ever again, he doesn't think he can resurrect, only to think that future version is a lie and never will be true. But then he really meets Cas like S04E01 does.
-
-adult!Dean/Sam self-intro as Mr. Smith and Mr. Smith, kid!Dean: "Like Agent Smith from *Matrix*?" (after 1999), adult!Dean: "Nah, I'm not as good-looking as Hugo Weaving." kid!Dean: "I think you are." adult!Dean to adult!Sam amused: "Kid has good eyes." adult!Sam rolls his eyes incredibly
 
 ## Main
 
@@ -949,6 +971,8 @@ He closes the door behind him, still holding Cat in his arms because no way is h
 
 
 
+
+
 ###### [TBC]
 
 (Dean panics but no regrets, he walks on street for miles and sits by the road. They're in South Dakota, Jody (20y, patrol officer) finds him and takes care of him. Jody gets John back, scolds him, makes him take Dean and Cat, and John obeys. Cat sorta just starts living with them due to Dean's strong insistence and that's one thing John can't do anything to change his mind.)
@@ -1047,11 +1071,19 @@ He closes the door behind him, still holding Cat in his arms because no way is h
 
 ### (1987.11.2 Monday) (ask about Mary) √
 
-> (P46)
+> (Dean 8y, Sam 4y) (P46)
 >
 > Dean asks what Mary looks like. John doesn't have picture. Just that she was beautiful and kind and she love him and Sammy more than anything in the world. John hurts and gets drunk
 >
 > Dean miss mom, Cat comfort him
+
+> little Dean/Sam wait in the car, play in the car
+>
+> Sam cram green army man in a backseat ashtray
+>
+> Dean play with Legos
+>
+> carve initials on the wood passenger tray underneath the back window
 
 ### (1988.5.2 Monday) (skinwalker dog) √
 
@@ -1062,6 +1094,16 @@ He closes the door behind him, still holding Cat in his arms because no way is h
 > ("John Winchester's Journal" P48)
 >
 > Sam almost died, it's Dean's fault. Dean couldn't pull the trigger. The monster is an African witch skinwalker, keep magical stones in their stomach, eat their victims' souls slowly, causing the victim to waste away and die, can turn into dogs, called *Hausa*
+
+### (1988) (teach Dean driving) √
+
+> 1988 (Dean 9y, Sam 5y)
+>
+> John teaches Dean how to drive so next time he's hurt or they need a quick exit, he can leave Dean in the car waiting and they leave quickly
+>
+> teach Dean always reverse parking and how to pick the parking spot in the motel parking lot that's easiest for emergency leaving (and how to pick safest motel room, how to leave from bathroom window, how to hot wire)
+>
+> (probably after a small case where John nearly too wounded to drive and they almost get caught by police)
 
 ### (1989.4.6 Thursday) (Shtriga) √
 
@@ -1161,9 +1203,13 @@ He closes the door behind him, still holding Cat in his arms because no way is h
 
 > (1991 is turning point John turns from Matt Cohen version to Jeffery Dean Morgan version)
 >
+> **somewhere** along the line: John gives Dean sleep/wake reflective training. Startle wake him enough times to make sure he's alert enough even in his sleep so that he can reflexively fire gun even when he's just startled awake (very messed up parenting, like military training)
+>
 > **1992 (Dean 13y, Sam 9y)**: Sam has imaginary friend Sully, Dean/John hunt without Sam, Dean promise will talk to John about letting Sam join hunt (Dean ask Cat to be with Sam)
 >
-> **1992.6.21 (Dean 13y, Sam 9y):** Sammy was afraid of the thing in the closet, John gave him a .45 and told him to shoot it the next time he 
+> **1992.6.21 (Dean 13y, Sam 9y):** Sammy was afraid of the thing in the closet, John gave him a .45 and told him to shoot it the next time he saw the thing in the closet, he knew what to do
+>
+> 1992 (Dean 13y, Sam 9y): John teaches Sam how to drive (or John asks Dean to teach Sam). Dean knows how to drive at nine, so Sam needs to. They could second backup in case they're too wounded/tired to drive, need a way out quickly.
 >
 > **1993.1 (Dean 14y, Sam 10y)**: Rooster Sunrise Motel, Wadsworth, Ohio; Baba Yaga case (Caitlin, Travis Johnson)
 >
@@ -1205,31 +1251,18 @@ He closes the door behind him, still holding Cat in his arms because no way is h
 >
 > 2002.6.13: Sam graduated high school
 >
-> 2002.8.31: Sam left to Stanford
+> **2002.8.31**: Sam left to Stanford (worst day in Dean's life, Dean only has Cat now with him, he'd hold him and cry)
 >
 > 2003.5.2: Dean broke up with Cassie (because of Cat?), Athens, Ohio
 >
 > 2003.6.13: Dean solo hunt succubus in Brooklyn
 >
 > 2002-2005 (Dean 23-26y, Sam 19-22y): Stanford era, Dean solo hunt a pair of vetala, voodoo in New Orleans
->
-> 
->
+
 > From "John Winchester's Journal": "Cats sometimes also hidden in walls, also horse skulls. Fork lore of both is that they would ward away familiars or see things that humans can't. Powerful wards. Sometimes shoes also used as spell traps, concealed within walls or floors."
 >
-> A small instance about John teaching Dean how to fix car and Dean learning. And Dean working on cars later.
+> passing lines about John teaching Dean how to fix car and Dean learning. And Dean working on cars later.
 >
-> Sam knows how to drive at nine, Dean probably similar, and probably does drive
->
-> 
->
-> play in Impala
->
-> Sam cram green army man in a backseat ashtray
->
-> Dean play with Legos
->
-> carve initials on the wood passenger tray underneath the back window
 
 ### (2008.9.18 Thursday)
 
@@ -1237,13 +1270,13 @@ He closes the door behind him, still holding Cat in his arms because no way is h
 >
 > 101 Sam see Dean's solo hunting but still with Cat, "You still kept him?" "Where else would he go? -- Where else would *I* go without him?"
 >
-> S3 Cat desperately try to save Dean but can't, crying before Hell hound gets him. Dean last word ask Sam to take care of Cat. Cat fight hounds and get taken to Hell too.
+> S3 Cat desperately try to save Dean but can't, crying before Hell hound gets him. Dean last word ask Sam to take care of Cat. Cat fight hounds and get taken to Hell too. (Dean figures out Cat has 9 lives too, and counts 8 times already before S3, so S3 Cat is also on his last life, Dean just knows that if Cat dies this time he'll really die, and senses Cat wants to die with him, asks Sam to get Cat to somewhere safe, but Cat jumps in with him anyway. The death of both of them are their rebirth.)
 >
 > Dean in Hell sees the cat but doesn't know if he's hallucinating or not. Demons have ways to confine vessel with angel, so Cas can't talk or escape the vessel like he planned to, but Dean recognizes him. Dean gets tortured but stays strong because he knows Cas is there to keep him hope, then Alastair starts torturing Cas, Dean gives in. Then Dean finds chance to unbind Cas, Cas escapes cat form and flies Dean out of Hell.
 >
 > 401 Dean finds Bobby/Sam, first thing asking about Cat, but both say Cat's missing. Dean can't find him anywhere. Dean goes to Pamela for Seance but already knows name and other info, just to ask Cas to come back, whichever form. Pamela passes words about time/address to meet.
 >
-> Barn scene: Cas come and tell him he occupied different vessels. Dean realize it's Cas all along, saving him, growing up with him, has died for him so many times already, hugging him, thanking him. Cas from 401 isn't hammer angel at all, he's been living/growing up with Dean for the past 25y, it feels longer than his entire existence.
+> Barn scene: Cas come and tell him he occupied different vessels. Dean realize it's Cas all along, saving him, growing up with him, has died for him so many times already, hugging/kissing him, thanking him. Cas from 401 isn't hammer angel at all, he's been living/growing up with Dean for the past 25y, it feels longer than his entire existence.
 >
 > (cat is a strong spirit creature that can connect to holy power without combust for a few year, but would still eventually deteriorate, "That's why you had to keep jumping around"; Jimmy was born 1973, 6y older than Dean, when they first met Dean was 5y, Jimmy was 11y, Cas can either choose cat or wait until Jimmy is ready at 36y, he chose cat. The order forbids them to "walk the earth" or "set foot on earth", Cas: "they didn't say I can't set paws on Earth", Cas knows it's always destined to be Dean, he just wants to be there to make sure he's safe)
 >
@@ -1252,3 +1285,11 @@ He closes the door behind him, still holding Cat in his arms because no way is h
 > Dean hugs him like he's known him all his life because he has. It feels so good to touch him as a human, though Dean misses the cat form too. They'll skip the getting familiar part and go to save Apocalypse together.
 >
 > (Dean to Cas: "I'm so sorry everything my dad put you through" Cas: "I'm so sorry for everything he put *you* through. I tried to help, but there's only so much can a cat do. My vessel has very strong instinct most of times that they overwhelm me." Dean: "I know you're an angel" "You do?" "All cats are, but you, more so than any")
+
+### Deleted Scene
+
+> (write as if an epilogue but title it as "Deleted Scene" because can't put it in but like the idea, so still write it)
+>
+> an idea: what if future Dean/Sam/Cas time travel to one time point for a time-related case fic, keep kid!Dean POV, but see Cas in trench coat first time, adult!Dean amused how young he was and he remembers the cat!Cas, but maybe adult!Dean can pretend he's not future Dean, just some hunter popping in to help, so kid!Dean doesn't know he's seen future self, so timeline intact, but from adult!Dean, kid!Dean knows the cat's name is Cas and angel is watching him (but adult!Dean can't tell him cat is angel yet because he's not supposed to know until he's back from Hell, to protect timeline), but he can't meet his angel yet until he's 29. Normal timeline, he's devastated when he's 28 and made the deal, realize he'd never be 29, and he thought he'd never meet Cas ever again, he doesn't think he can resurrect, only to think that future version is a lie and never will be true. But then he really meets Cas like S04E01 does
+>
+> adult!Dean/Sam self-intro as Mr. Smith and Mr. Smith, kid!Dean: "Like Agent Smith from *Matrix*?" (after 1999), adult!Dean: "Nah, I'm not as good-looking as Hugo Weaving." kid!Dean: "I think you are." adult!Dean to adult!Sam amused: "Kid has good eyes." adult!Sam rolls his eyes incredibly

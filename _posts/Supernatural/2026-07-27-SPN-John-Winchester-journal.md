@@ -1024,7 +1024,7 @@ Beings include: werewolf, vampire, kitsune (Japanese fox spirit), tanuki (Japane
 
 ### 6.21
 
-> Last night, Sammy woke up in the middle of the night telling me he was afraid of the thing in the closet. I went and looked. There was nothing in the closet, but I've seen too much not to believe that there could be. So I handed Sammy the .45 and told him the next time he saw the thing in the closet, he knew what to ddo. I don't think I'll win any awards from parenting organizations, but five nights running now Sammy has slept without nightmares. Sometimes a .45 under your pillow is all you need.
+> Last night, Sammy woke up in the middle of the night telling me he was afraid of the thing in the closet. I went and looked. There was nothing in the closet, but I've seen too much not to believe that there could be. So I handed Sammy the .45 and told him the next time he saw the thing in the closet, he knew what to do. I don't think I'll win any awards from parenting organizations, but five nights running now Sammy has slept without nightmares. Sometimes a .45 under your pillow is all you need.
 
 The infamous "Dad gave me a .45 when I was afraid of the thing in the closet"
 
