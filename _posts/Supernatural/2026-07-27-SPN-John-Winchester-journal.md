@@ -962,7 +962,7 @@ P83-86 has tremendous amount of research about Death, very good reference materi
 >
 > But he's not going to read it tonight, because here we are, Christmas night, and there's two hundred miles of scrub prairie and desert between me and them. No Christmas tree, no carrots and milk for Santa and the reindeer. A couple of days ago I handed them presents, and <u>they gave me a set of night-vision goggles that Dean must have pinched from a gun show we passed through in Amarillo a couple of months ago</u>. They're growing up without me. And they're both starting to act out a little, because we're apart so much. Sam gets resentful and has some trouble handling his temper. <u>Dean tries to fix everything and keep us together as a team.</u> Neither of them should have to do those things.
 >
-> After this year... the succubi and Ms. Lyle (Lilith?), Silas... this has been a rough one. They came after my boys. We made it, but they're going to keep coming. This enmy doesn't quit until they're dead, and I don't even know who's sending them. How do I fight them?
+> After this year... the succubi and Ms. Lyle (Lilith?), Silas... this has been a rough one. They came after my boys. We made it, but they're going to keep coming. This enemy doesn't quit until they're dead, and I don't even know who's sending them. How do I fight them?
 >
 > And how do I avoid this question: Would the boys be better off somewhere else, with someone else, living normal lives?
 >
