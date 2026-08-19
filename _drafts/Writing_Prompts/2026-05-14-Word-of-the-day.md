@@ -494,3 +494,47 @@ published: false
 6. deepfake
 7. perfunctory
 8. gambol
+8. tacit
+8. effulgence
+8. xeric
+8. fulcrum
+8. implacable
+8. yaw
+8. loquacious
+8. bibelot
+8. obdurate
+8. quid pro quo
+8. accentuate
+8. raffish
+8. dog days
+8. stalwart
+8. maverick
+8. itinerant
+8. vituperate
+8. aerie
+8. parochial
+8. kludge
+8. inveigle
+8. sultry
+8. comely
+
+### 08
+
+1. spindrift
+2. highfalutin
+3. mitigate
+4. elan
+5. colloquial
+6. torpor
+7. invidious
+8. nurture
+9. anecdote
+10. pedogogical
+11. baptism of fire
+12. gnomic
+13. salvo
+14. vacuous
+15. circumscribe
+16. zeugma
+17. lackadaisical
+18. oxymoron
