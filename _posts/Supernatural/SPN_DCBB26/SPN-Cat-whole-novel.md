@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】There's a monster under the bed -- and it says "Meow"
+title: 【Destiel】There is a monster under the bed -- and it says "Meow"
 date: 2026-07-05 16:45
 categories: ["SPN"]
 characters: ["Dean Winchester", "Sam Winchester", "Castiel", "John Winchester", "Bobby Singer"]
@@ -171,19 +171,37 @@ Or, how would a five-year-old and a one-year-old know a cat is a cat, when they'
 
 Just a story of little boys and a cat.
 
-#### Snippets
+#### Snippets (300-500 words)
 
-(TBA)
+There's something under the bed. Sammy hears it first and curls himself into a ball under the covers. He says that's the sound of a creature breathing, a monster living in the shadow, under the bed, waiting to come out and eat them once they turn off the lights and fall asleep.
+
+Dean holds his breath. His heart beats heavily inside his chest. He doesn't really know what to do with the gun in his hand, but he finds it useful to poke; the barrel is long enough to reach places where his hands can't.
+
+He focuses, and he thinks he can hear that purring sound now too. His heart beats fast and loud.
+
+And then, the gun muzzle touches something. The purring turns into a hissing. Dean's blood turns cold. There *is* a monster under the bed. It probably would bite him.
+
+He wants to retract, but then as he adjusts the grip, the gun -- too heavy and too long for his hands to hold steady -- pokes that thing again, soft and fleshy. The source of that hissing sound makes a loud scratching sound, like something sharp digging into the wooden floor. Dean feels a force trying to grab the gun from the other end and tug it away from him under the bed.
+
+He gasps and yells, both hands holding the gun with full force now and snatching it back. The force on the other end loosens. The momentum costs him his balance. Dean falls back onto his butt and lands on his back, the gun still grasped tight. The monster jumps out of the darkness from under the bed, staring at him with big round eyes. It's a creature with black fur, and teeth, and paws. Its chest rises and falls as it breathes heavily, its fur messy as if something just exploded. It's so close to him that Dean stops breathing. All he can see is its eyes. Dean stares at it with startled, wide eyes as it stares back. Its long beard shakes as it tilts its head, studying him.
+
+It actually looks kinda cute -- if Dean has to be completely honest, despite his surge of fear and startle -- the way its ears twitching and its tail batting, those eyes fierce and unblinking, but Dean's still freaking out. He doesn't know what it is or what it can do. He's never seen it before, black and furry and paws and ears. Its shape looks like a dog, with two eyes and one nose and one mouth with teeth, but the face looks different, so he'd guess it's some species close to a dog, a relative of some sort, judging by everything he knows. But he doesn't know much; he's only five.
+
+The monster moves its paw cautiously, taking one step closer to him, some pointy teeth flashing by between its lips as if it's going to speak. Dean holds his breath, his body shaking with fear and nerves.
+
+The creature opens its mouth, and says, "Meow."
 
 ### Arts
 
 #### Banner
 
+<p align="center"><a href="http://www.tumblr.com" target="_blank"><img src="https://64.media.tumblr.com/99e6ed38b528e73f0638bef1f3128f3f/53f1c813ddf4670b-c2/s1280x1920/719472a0a8c464bb16fe15cf3ea2af43090a5e29.jpg" alt="Image combined by two parts, left side is a black cat, right side is a screenshot from the canon S03E08 A Very Supernatural Christmas with young Dean sitting on the motel bed. The title reads 'There is a monster under the bed -- and it says “Meow”', story by June Sirius, art by QuQ" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></a></p>
+
 #### Art
 
 ### Editing Notes
 
-posting the below "words before/after the work" when posting
+don't forget to post the following "words before/after the work" when posting
 
 #### Words before the work
 
@@ -267,7 +285,7 @@ And then, the gun muzzle touches something. The purring turns into a hissing. De
 
 He wants to retract his hand and the gun, but then as he adjusts the grip, the gun -- too heavy and too long for his hands to hold stead -- pokes that thing again, soft and fleshy. The source of that hissing sound makes a loud scratching sound, like something sharp digging into the wooden floor. Dean feels a force trying to grab the gun from the other end and tug it away from him under the bed.
 
-He gasps and yells, both hands holding the gun with full force now and snatching it back. The force on the other end loosens. The momentum makes him lose his balance, falling back onto his butt and back. The monster jumps out of the darkness from under the bed, staring at him with big round eyes. It's a creature with black furs and teeth and paws. Its chest rises and falls as it breathes heavily, its furs messy as if something just exploded. It's so close to him that Dean stops breathing. All he can see is its eyes. Dean stares at it with startled wide eyes as it stares back. Its long beard shakes as it tilts its head studying him.
+He gasps and yells, both hands holding the gun with full force now and snatching it back. The force on the other end loosens. The momentum makes him lose his balance, falling back onto his butt and back. The monster jumps out of the darkness from under the bed, staring at him with big round eyes. It's a creature with black fur and teeth and paws. Its chest rises and falls as it breathes heavily, its fur messy as if something just exploded. It's so close to him that Dean stops breathing. All he can see is its eyes. Dean stares at it with startled wide eyes as it stares back. Its long beard shakes as it tilts its head studying him.
 
 It actually looks kinda cute -- if Dean has to be completely honest, despite his surge of fear and startle -- the way its ears twitching and its tail batting the ground, those eyes fierce and unblinking, but Dean's still freaking out. He doesn't know what it is or how dangerous it is, whether it's deciding to attack him or eat him, if it will jump onto the bed and attack Sammy there. He's never seen something like it before, black and furry with four legs and paws and ears. Its face looks a little like a dog, as in it has eyes and nose and what must be its mouth where the teeth are, but also different, so he'd guess it's some species similar to a dog, a relative of some sort, judging by everything he knows. But he doesn't know much, he's only five.
 
@@ -285,7 +303,7 @@ Dean blinks.
 
 Sammy has emerged from under the cover, peeking from the edge of the bed, looking at the scene carefully. Dean meets his eyes, shaking his head slightly, willing him to move back under the cover into the middle of the bed, where it's the safest. But the kid looks more curious than frightened now, which is a good sign.
 
-Dean turns over to his knees, crawling closer very carefully to the "monster under the bed". The creature doesn't seem to notice or care that he closes their distance. Its pink tongue finishes licking its furs on its back, moving to lick its front paw. Its head moves up and down as it licks. The furs on top of its head look more ruffled than anywhere else, poking out messily in all directions like a bird nest. Dean guesses it's either the underside of the bed or his gun that messed it up.
+Dean turns over to his knees, crawling closer very carefully to the "monster under the bed". The creature doesn't seem to notice or care that he closes their distance. Its pink tongue finishes licking its fur on its back, moving to lick its front paw. Its head moves up and down as it licks. The fur on top of its head look more ruffled than anywhere else, poking out messily in all directions like a bird nest. Dean guesses it's either the underside of the bed or his gun that messed it up.
 
 He puts the gun down, reaching a hesitant hand out very, very carefully, still having his heart in his throat. Seeing the creature still not reacting to any of his movements, Dean gathers a little more confidence and enough of his courage to put his palm on its head between its ears. The creature rubs its head into his hand with a satisfied purr. Dean is surprised. This is not what he'd imagine. He chuckles quietly, moving his hand along its head, flattening the messy fur there.
 
@@ -547,7 +565,7 @@ Cat hisses in pain with his teeth showing, and the paw in Dean's hand twitches l
 
 "Should I distract him with food?" Sammy proposes behind them.
 
-Dean doesn't look back. "Nah, I'm almost done. He's doing great." He glances up and meets Cat's eyes. Cat quiets down and his paw stays in Dean's hand as he was told, though some of his furs on his back and head look like just exploded again; Dean figures that's probably the global "I'm scared/I don't like it" signal for cats, and he chuckles quietly because it makes Cat look twice as bigger and puffier, but less fierce.
+Dean doesn't look back. "Nah, I'm almost done. He's doing great." He glances up and meets Cat's eyes. Cat quiets down and his paw stays in Dean's hand as he was told, though some of his fur on his back and head look like just exploded again; Dean figures that's probably the global "I'm scared/I don't like it" signal for cats, and he chuckles quietly because it makes Cat look twice as bigger and puffier, but less fierce.
 
 "You're doing great," Dean tells Cat again when he finishes tapping the potion around that paw to cover all the wounded skin and nails. He's not so sure what to do with the worn nails, too afraid to make it worse than already is, so he just leaves it. He lifts the finished paw up to his lips, pressing a kiss on top of the fur, like he'd do when helping with Sammy's accidental hurt before (like a hand or a knee grazed on the ground when first learning how to walk; he'd never forget Sammy's first step was walking toward him, so that should be the perfect reason to do anything and everything after that), he'd press his lips on the tip of that hand or side of leg just out of habit once finished patching up, for luck or soothing, he doesn't really know -- Dean can't quite remember where the habit comes from, maybe Mom used to do that for him? He doesn't remember if Dad ever does that. But at least Sammy seems to get used to it and enjoy it, and Cat just looks at him like he's trying to figure him out. The cat's eyes are round and black with a thin blue edge, looking mysteriously celestial. Dean thinks that thread of blue looks brighter and wider today, but maybe Cat just stares with wider eyes today, or they are staring each other in a closer distance. Dean feels as if he's thoroughly dissected by those eyes and those looks, he shifts a little as if to dodge the eyes and rubs his nose, and that earns him one hell of a sneeze. Cat relaxes down, lying down on the table on his side, giving him an easier access to all his paws. If Dean doesn't know better, he'd even say Cat might be huffing a laughter.
 
@@ -651,7 +669,7 @@ He's sure he would never see Cat again. Dean doesn't know -- and he doesn't want
 
 "Dad's probably just driving him back to that motel we left yesterday," Sammy says quietly from the bed. "You know, maybe that's his home; he belongs there. We shouldn't have taken him away from his home."
 
-Dean knows the kid only tries to help, he wants to give him an appreciated smile but fails miserably; his face is all salty with tear and his heart bitter with pain. He's pretty sure that awful dirty motel room they first met wasn't Cat's home, but he doesn't know why he's so sure. It just doesn't feel right. It feels *right* when they found him, it feels *right* when he curled on his lap or slept in his arms. The little purring sound against his chest is the best thing he's ever heard. He doesn't even mind sneezing if it means he can press his lips on top of his head, ruffling the furs he just smoothened, and earning himself a little squinted glare. And he just *knows* Dad isn't driving Cat back to the last town they left behind the day before.
+Dean knows the kid only tries to help, he wants to give him an appreciated smile but fails miserably; his face is all salty with tear and his heart bitter with pain. He's pretty sure that awful dirty motel room they first met wasn't Cat's home, but he doesn't know why he's so sure. It just doesn't feel right. It feels *right* when they found him, it feels *right* when he curled on his lap or slept in his arms. The little purring sound against his chest is the best thing he's ever heard. He doesn't even mind sneezing if it means he can press his lips on top of his head, ruffling the fur he just smoothened, and earning himself a little squinted glare. And he just *knows* Dad isn't driving Cat back to the last town they left behind the day before.
 
 Dean crashes down on the chair, crying.
 
@@ -793,7 +811,7 @@ Cat traces his eyes across Dean's face as if reading his lips slowly. That feeli
 
 "Cat," Dean urges him, as if trying to remind him how wounded he is, as if Cat has forgotten all the pain the moment he reaches Dean's door. "We need to make you better, but you'll have to let me go."
 
-Dean puts Cat in the bathtub (because the sink is too tall for him to reach), loosening his left hand, but his right hand can't really move because of that tail -- well, technically, he can. If he tugs slightly, Cat would have to let him go before some of the wounds getting torn worse and that would definitely hurt him worse, but Dean's not gonna do that to him. Dean doesn't even so much as dare to pat his furs between his ears, in case there are some wounds there among the crusted blood that might hurt him even more.
+Dean puts Cat in the bathtub (because the sink is too tall for him to reach), loosening his left hand, but his right hand can't really move because of that tail -- well, technically, he can. If he tugs slightly, Cat would have to let him go before some of the wounds getting torn worse and that would definitely hurt him worse, but Dean's not gonna do that to him. Dean doesn't even so much as dare to pat his fur between his ears, in case there are some wounds there among the crusted blood that might hurt him even more.
 
 Dean forces his breath to calm down a little, closing his eyes then reopening them, to make sure this isn't a dream, that Cat really is in front of him. And the Cat before him is still there when he opens his eyes again.
 
@@ -807,7 +825,7 @@ Cat hisses in pain when he starts, but then after two or three, it only becomes 
 
 "Please don't die," Dean says as he finishes and closes the bottle again. It's almost empty. He'll have to figure out some way to explain to his father what he's used it for. He doesn't know how easy or how hard it is to get some more. He realizes he doesn't even care about what his father would say to him now. He's so worried, and all he can think about is, "Please don't die."
 
-Cat is practically covered by a mixture of red and purple. Some of the open wounds are still bleeding, and the mixture of blood and the potion only messes up his furs that Dean just cleaned.
+Cat is practically covered by a mixture of red and purple. Some of the open wounds are still bleeding, and the mixture of blood and the potion only messes up his fur that Dean just cleaned.
 
 It's so apparently what he can do is too little for the cat. Dean doesn't know a thing about how to fix a wounded cat.
 
