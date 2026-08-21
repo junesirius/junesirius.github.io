@@ -291,5 +291,5 @@ So does Dean, without nightmares.
 
 Two quiet rhythms of breathing, in a beautiful, normal night.
 
-<br><br>
-![](https://64.media.tumblr.com/58db2f6f154a9ea6631f531e186cfceb/4f9743d6bf18af41-40/s2048x3072/cb86c535f2d18f67358058e3607c5e15cc385b19.jpg)
+<br>
+<p align="center"><img src="https://64.media.tumblr.com/58db2f6f154a9ea6631f531e186cfceb/4f9743d6bf18af41-40/s2048x3072/cb86c535f2d18f67358058e3607c5e15cc385b19.jpg" alt="Illustration of Dean and Castiel sleeping together peacefully, hands held together. The whole image is beautiful starry blue, decorated with oil paint-texture small white stars. The top right corner is night black. The title reads 'Fear of Sleep' in white on the top right, a logo of '5K By 5 May' on the bottom left, and texts saying 'Story by June Sirius, Banner by bucketofli'" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></p>
