@@ -201,7 +201,7 @@ Sam and Dean have spent the day in the library, trying to find if there is anyth
 
 "I don't think it's a good idea," Dean hisses back, glancing in the direction where Cas is.
 
-They don't really know how human Cas is now, or what any chemicals or medications would do to him. The pills might be too much, or too little, or... Dean already starts thinking about all the random news he has seen on TV about how someone's liver failed and died or something like that. He pitches the bridge of his nose. "No pills. I'll come up with something."
+They don't really know how human Cas is now, or what any chemicals or medications would do to him. The pills might be too much, or too little, or... Dean already starts thinking about all the random news he has seen on TV about how someone's liver failed and died or something like that. He pinches the bridge of his nose. "No pills. I'll come up with something."
 
 He puts a forced smile on, patting Sam on the shoulder even if he's too tall for that gesture to be comfortable. "I had to coax you to eat and sleep when you were a baby, Sammy, bet I can do the same job for an angel."
 
