@@ -6478,6 +6478,8 @@ What if Adam isn't John's, like Ben isn't Dean's, even though they sorta assumed
 
 (with first sentences)
 
+#### 500.1 sacred moment in car
+
 > There's always a secret, sacred moment between parking the car in the lot and hopping into a motel room.
 
 (Dean'd sit in the car for longer. If there's someone else rides with him, he'd let them go into the room first. Sam would go like he asked. But Cas would sit with him.)
@@ -6486,6 +6488,8 @@ What if Adam isn't John's, like Ben isn't Dean's, even though they sorta assumed
 
 06/20/2026 21:38
 
+#### 500.2 Dean in red shirt
+
 > The day Dean puts on the red shirt, he gives everyone a heart attack.
 
 (reminds them of the MoC/demon!Dean time. reactions from Sam/Cas. maybe lead to shopping?)
@@ -6493,6 +6497,8 @@ What if Adam isn't John's, like Ben isn't Dean's, even though they sorta assumed
 (inspired by S10 MoC/demon!Dean)
 
 06/21/2026 14:27
+
+#### 500.3 Cas watch Dean sleep and vice versa and Project Hail Mary
 
 > Cas has an obsession of watching Dean sleep.
 
@@ -6506,11 +6512,15 @@ What if Adam isn't John's, like Ben isn't Dean's, even though they sorta assumed
 
 (might related to next one)
 
+#### 500.5 Cas grumpy sleeper
+
 > Cas starts to really enjoy sleeping. He still doesn't *need* to sleep, but Dean asks him if he *wants*. And Cas realizes, if he allows himself to want, he really does want to.
 >
 > (He just never did that before, allowing himself to get what he *wants*, not just *needs*.)
 
 (inspired by life)
+
+#### 500.6 Cas turn into stone when he forgets
 
 > Sometimes when Cas forgets, he turns into stone
 
@@ -6520,6 +6530,8 @@ What if Adam isn't John's, like Ben isn't Dean's, even though they sorta assumed
 
 07/07/2026 06:49
 
+#### 500.7 Dean in a un-supernatural car crash
+
 > Dean's in a car crash.
 
 Dean's in a normal non-supernatural car crash. The other driver's full fault and basically a kid, very scared and shocked, called his dad, want to call police, going through insurance and normal procedures. Dean did his best to insist not calling police. And real-life non-supernatural accident is actually even trickier than he's ever known, and it exhausts him so much.
@@ -6527,6 +6539,8 @@ Dean's in a normal non-supernatural car crash. The other driver's full fault and
 (inspired by life)
 
 07/12/2026 13:34
+
+#### 500.8 they use summoning spell when Cas not answering phone
 
 > It's been so long that they almost forgot phone call and prayer aren't the only ways to reach an angel. There is also the summoning spell.
 
@@ -6537,6 +6551,22 @@ They'd grab Cas in like that. Cas gets bitchy.
 (inspired by the spells/sigils/rituals that humans can use to control angels: summoning spell, angel banishing sigil, holy fire. it's not fair, angels can't fight that)
 
 08/13/2026 00:33
+
+#### 500.9 Cas become whatever Dean needs him to be
+
+> "Cas, are you God?"
+>
+> "Do you wish I was?"
+>
+> I will be whatever you need to be. If you need me to be God, then I will.
+
+canon divergent S05 after finale conversation
+
+Cas will be whatever Dean needs him to be. Dean needs him to be God to save Sam and be powerful for him, so Cas turns himself into God to save Sam and all that he asked for, for Dean. so Cas becomes God at S06 finale, for him.
+
+=> inspire prompt 504
+
+08/17/2026 09:38
 
 ### 501.【destiel】if they are all bottles
 
@@ -6590,4 +6620,14 @@ In a world where angels are real and Cas as an angel is dying from bleeding out 
 
 (inspired by S10E03 Crowley kills angel to feed their grace to Cas and tells him his hand is clean; and Gotham Mr. Freeze who kills people to save his wife; and maybe my vampire AU VO outline that's not done yet but has similar idea)
 
-### 504.
+### 504.【destiel】S05E22 what if the only way to save Sam from Cage is Cas become God
+
+canon divergent from S05E22, inspired by prompt 500.9
+
+S06 rewrite
+
+canon after S05E22, Cas goes down to Cage immediately and gets Sam's body out of Cage but fail to get his soul when both Lucifer/Michael are there preventing him. What if Cas isn't even strong enough to get Sam's body out when he tries, Michael/Lucifer aren't willing to let any part of Sam/Adam out of Cage, Cas tries and fails and realize the only way to get Sam out is to have more power and become God.
+
+Maybe in this canon divergent version Cas will turn to Dean for help, and S06 instead of Cas hiding from Dean to become God, Dean might help him to get more power, because he also wants so desperately to get Sam back, but he's also worried Cas might hurt himself or there's too much risk for this to go wrong that makes him lose Cas, he's already lost Sam, the question becomes is he willing to risk Cas to get Sam back. He'll really tear himself apart, but they'll still do it. Even if Dean doesn't want him to, Cas would still offer, because Cas knows Dean does really want Sam back. So they sorta fight sorta work together to go through events in S06 that still leads to Cas become God, except instead of Sam stabbing him when he becomes God, the first thing he'd do is to go to Cage to get Sam out and heal him. Maybe because Dean is there with him all this time, they'll do enough research to figure out there're Leviathans in Purgatory, so they'll start getting prepared before Cas take all the power. (Maybe Crowley will still be in the image somehow in some way, but not major plot point.) Maybe when Cas goes to Cage, he'll try to dump the Leviathans in there so they'd still be locked up (and locked up with Lucifer/Michael; he might manage to save Adam from Cage too). Maybe he will succeed, then most problem in S07 gets solved; but if he fails, Leviathans are too strong of a hold onto him, or Cas starts turning bad again, maybe Dean and Cas would already talk about it and think about some backup plan to handle it, maybe they'll get Dean enough power too to balance Cas out so that even if Cas gets bad it's not going to be monocratic disaster, Dean can reign him in. Maybe they'll split devouring souls from Purgatory and go to Cage to fight Michael/Lucifer together (almost sarcastic, there are Michael!Dean and Lucifer!Cas in the canon, and here fighting scene will be Michael fight Dean, Lucifer fight Cas), Dean/Cas will win and get Sam/Adam out. But Leviathans will be in both Dean/Cas and they both turn a little bad, maybe they become monster husbands killing the world together, S07 beginning becomes both of them bloody kill people and angels and demons; maybe two Leviathan bosses in them start getting into fight before they butcher the world (it's easier to fail when there are two big guys than one, let them fight out first), maybe the Leviathan in Dean (Edgar) and in Cas (Dick Roman) will fight it out and Dean/Cas have been plotting together to make this happen, Edgar/Dick think they're using Dean/Cas and make them fight, but they're actually doing exactly what Dean/Cas want them to do. Edgar/Dick too eager to be the sole ruler of all Leviathans and they want to throw the other one back into Purgatory so they end up both get locked back in Purgatory. Maybe Dean/Cas would both get stuck in Purgatory again like after S07 finale (so looks like it's S06+07 rewrite but might just converge back to S08 the same as canon, but the change is Sam doesn't experience the soulless and dying/broken period). They'll figure out a way to get back out of Purgatory. Maybe because Dean has been with him all this time and Cas doesn't have so much guilt, Cas wouldn't deliberately stay in Purgatory as penance, so they'll just get out together without much problem. No Naomi in the story. And things go back to normal once they get out. (Because Dick Roman never gets chance to start digging the tablet when he's too busy fighting Edgar, the tablet plot doesn't start, the Metatron storyline can't start, so the problems of S08-09 and beyond are saved.) World is saved and in peace and no new douchebag unleashed. (Jush Crowley is still outside and free and do his thing, like always. And they'll just let him be.)
+
+### 505.
