@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【日志】Phantom of the Opera
+title: 【日志】Phantom of the Opera（二刷）
 date: 2026-08-23 23:25
 categories: ["音乐剧"]
 characters: ["The Phantom", "Christine Daaé", "Raoul", "Lyra"]
-tags: ["日志", "随记", "生活", "英文", "音乐剧", "剧院魅影", "情感", "回忆", "百老汇", "纽约"]
+tags: ["日志", "随记", "生活", "英文", "音乐剧", "剧院魅影", "情感", "回忆", "百老汇", "纽约", "二刷"]
 pov: 第一人称视角
 origin: 个站
 ---
