@@ -3272,6 +3272,8 @@ something something, S5 rewrite, still manage to put Lucifer to cage (with Sam i
 
 (there was a similar fic, high kudo, fanfav, demon Dean+angel Cas S4/5 rewrite save the apocalypse, well-written, title?)
 
+(~ prompt 500.10)
+
 ### ~~287.【destiel】在索多玛蛾摩拉受折磨的天使（R级）【done】~~
 
 (inspired by 《[Clipped and Unbound](https://archiveofourown.org/works/1567589)》slaved angel world + ND_Tardis的《[罪恶之城](https://archiveofourown.org/works/19430962)》)
@@ -6474,7 +6476,7 @@ can be destiel too potentially (but don't have to be), with maybe John actually 
 
 What if Adam isn't John's, like Ben isn't Dean's, even though they sorta assumed he is all this time. Maybe someone along the line made a mistake (or make it purposely) or swapped the kid (like GO Crowley), angels didn't even know, John didn't know. When S05 Michael gets into Adam and Adam starts deteriorating quickly (like Lucifer in Nick) and Michael realizes he can't use Adam to go into the fight with Lucifer, what will S05E22 become?
 
-### **500.【destiel】shorts idea list compilation**
+### **500.【destiel】shorts idea list compilation with one-sentence beginning**
 
 (with first sentences)
 
@@ -6568,6 +6570,20 @@ Cas will be whatever Dean needs him to be. Dean needs him to be God to save Sam 
 
 08/17/2026 09:38
 
+#### 500.10 MoC!Dean becomes the King of Hell
+
+>Dean is so tired of his job.
+>
+>But he's the King of Hell. So he can't exactly just flip his table and quit his job.
+>
+>Well, technically, he *can* -- he's the King of Hell, so he *technically* can do whatever he wants -- but it doesn't feel right. There's a very annoying thing called consciousness buried deep, deep at the back of his head that doesn't allow him doing whatever he wants, he finds out, that's still trying to tug him doing the right thing, as if he was still that good-hearted human hunter from the good old days. The mark on his arm tugs him on the other direction, and his black-eyes make sure his position still remains to belong to the Hell.
+
+inspired by S10 MoC!Dean, canon divergent, Dean having fun with Crowley, and Dean accepts (willingly or unwillingly) Crowley's proposal and one way or another he becomes the King of Hell and Crowley is either his sidekick or died. But Dean doesn't like the job, just like the way S12 Crowley is tired of his job too, it's actually not so much fun. And BSMF Dean is somewhat like S10 bad ass Cain, very cool, very killer vibe, very good at fighting/killing, demons scared of him, follow him obediently (demons are generally good at following orders and *need* to have someone they can follow; the line borrowed from how Metatron comment on angels, low-level demons usually don't have very good sense of good will either, and if they do, or Dean change/influence them into having free will, maybe Dean would even raise Hell to Earth and lead demons to fight against Heaven/angels, and defeat Metatron, and they'll figure out where to go from there, basically Dean's like the new version of Lucifer but doing it better than Lucifer, not evil way (or maybe occasionally in minor things), but not constrained to be good, being "bad" guy is very freeing, not constrained by morality, grey area)). Maybe Dean will fight against God/Chuck too in his King of Hell role and it works out better, he has more power and they win easier, and it matches to old tale of Lucifer fighting God, it's ironic that Dean's almost turning into the new Lucifer but God is the villain and Dean's doing the right thing knocking Chuck off ladder.
+
+this can be canon divergent, from S09 or S10, what if Charlie's decode doesn't complete in time or doesn't send out in time before she's killed (maybe they'll find out from the remnant of her laptop later; but if it's the case they'd find the decode later and can fix Dean again, maybe they never find out), so Dean's MoC doesn't get healed. And that could make him immortal too, fit back into Cas's fear in S10E21 about "Everyone else Dean knows would die, Cas would be the only one watching Dean burn the world," but this version, Dean's "burning the world" isn't about killing humans, he'd be raising angel-demon Apocalypse war against God like Lucifer (hard to say if it's better or worse)
+
+~ prompt 286
+
 ### 501.【destiel】if they are all bottles
 
 (will be a visual/art for tumblr post)
@@ -6576,7 +6592,7 @@ If they are all bottles:
 
 S04E01 before meeting Dean, Cas is a bottle of lightning
 
-Dean is a bottle of sea with trapped shrunk Blackpearl
+Dean is a bottle of sea with trapped shrunk Black Pearl
 
 S05 Cas is a bottle of underwater coral bush with little fish and shrimp living inside
 
@@ -6630,4 +6646,14 @@ canon after S05E22, Cas goes down to Cage immediately and gets Sam's body out of
 
 Maybe in this canon divergent version Cas will turn to Dean for help, and S06 instead of Cas hiding from Dean to become God, Dean might help him to get more power, because he also wants so desperately to get Sam back, but he's also worried Cas might hurt himself or there's too much risk for this to go wrong that makes him lose Cas, he's already lost Sam, the question becomes is he willing to risk Cas to get Sam back. He'll really tear himself apart, but they'll still do it. Even if Dean doesn't want him to, Cas would still offer, because Cas knows Dean does really want Sam back. So they sorta fight sorta work together to go through events in S06 that still leads to Cas become God, except instead of Sam stabbing him when he becomes God, the first thing he'd do is to go to Cage to get Sam out and heal him. Maybe because Dean is there with him all this time, they'll do enough research to figure out there're Leviathans in Purgatory, so they'll start getting prepared before Cas take all the power. (Maybe Crowley will still be in the image somehow in some way, but not major plot point.) Maybe when Cas goes to Cage, he'll try to dump the Leviathans in there so they'd still be locked up (and locked up with Lucifer/Michael; he might manage to save Adam from Cage too). Maybe he will succeed, then most problem in S07 gets solved; but if he fails, Leviathans are too strong of a hold onto him, or Cas starts turning bad again, maybe Dean and Cas would already talk about it and think about some backup plan to handle it, maybe they'll get Dean enough power too to balance Cas out so that even if Cas gets bad it's not going to be monocratic disaster, Dean can reign him in. Maybe they'll split devouring souls from Purgatory and go to Cage to fight Michael/Lucifer together (almost sarcastic, there are Michael!Dean and Lucifer!Cas in the canon, and here fighting scene will be Michael fight Dean, Lucifer fight Cas), Dean/Cas will win and get Sam/Adam out. But Leviathans will be in both Dean/Cas and they both turn a little bad, maybe they become monster husbands killing the world together, S07 beginning becomes both of them bloody kill people and angels and demons; maybe two Leviathan bosses in them start getting into fight before they butcher the world (it's easier to fail when there are two big guys than one, let them fight out first), maybe the Leviathan in Dean (Edgar) and in Cas (Dick Roman) will fight it out and Dean/Cas have been plotting together to make this happen, Edgar/Dick think they're using Dean/Cas and make them fight, but they're actually doing exactly what Dean/Cas want them to do. Edgar/Dick too eager to be the sole ruler of all Leviathans and they want to throw the other one back into Purgatory so they end up both get locked back in Purgatory. Maybe Dean/Cas would both get stuck in Purgatory again like after S07 finale (so looks like it's S06+07 rewrite but might just converge back to S08 the same as canon, but the change is Sam doesn't experience the soulless and dying/broken period). They'll figure out a way to get back out of Purgatory. Maybe because Dean has been with him all this time and Cas doesn't have so much guilt, Cas wouldn't deliberately stay in Purgatory as penance, so they'll just get out together without much problem. No Naomi in the story. And things go back to normal once they get out. (Because Dick Roman never gets chance to start digging the tablet when he's too busy fighting Edgar, the tablet plot doesn't start, the Metatron storyline can't start, so the problems of S08-09 and beyond are saved.) World is saved and in peace and no new douchebag unleashed. (Jush Crowley is still outside and free and do his thing, like always. And they'll just let him be.)
 
-### 505.
+### 505.【destiel】S15E09 what if Empty got summoned into Purgatory when Cas allow Dean finish confession
+
+> Dean: "Cas, I need to say something."
+
+That's Dean trying to confess but canon Cas didn't let him finish
+
+What if Cas lets him finish saying it, and if Dean confesses first then and there, and Cas gets his happiness in the Purgatory, and that summons Empty into Purgatory. Then both of them jump back to the Earth and the portal close behind them (they only have like 2 minutes or so left at that time when they hug (if I remember correctly, Dean checked his watch right before he finds out Cas's already got to the portal), Dean's confession might take most of those remaining time, so when Empty comes they'd run out of time or very close to time), meaning they could have locked Empty in the Purgatory and the deal doesn't kill Cas.
+
+They'll have to figure out how to defeat Billie in S15E18, but this can be an easy fix-it solution to defeat Empty.
+
+### 506.
