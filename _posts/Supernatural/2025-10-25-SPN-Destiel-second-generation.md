@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【Destiel】Second Generation destiel（短评）
+title: 【Destiel】Second Generation destiel（短评脑洞）
 date: 2025-10-25 01:03
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
-tags: ["Supernatural", "destiel", "英文"]
+tags: ["Supernatural", "destiel", "英文", "脑洞", "短评"]
 pov: 第三人称
 origin: Tumblr
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SPN】Different Time Flow in Different Locations
+title: 【SPN】Different Time Flow in Different Locations（短评）
 date: 2025-07-27 15:28
 categories: ["SPN"]
 characters: 

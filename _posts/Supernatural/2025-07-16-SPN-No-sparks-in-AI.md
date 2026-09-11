@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【SPN】No sparks in AI
+title: 【SPN】No sparks in AI（短评）
 date: 2025-07-16 13:33
 categories: ["SPN"]
 characters: ["Charlie Bradbury"]
-tags: ["Supernatural", "AI", "英文"]
+tags: ["Supernatural", "AI", "英文", "短评"]
 pov: 第三人称
 origin: Tumblr
 ---

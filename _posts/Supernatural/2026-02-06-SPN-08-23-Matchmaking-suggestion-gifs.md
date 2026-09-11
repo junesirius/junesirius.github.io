@@ -4,7 +4,7 @@ title: 【Destiel】S08E23 Matchmaking Suggestion（动图）
 date: 2026-02-06 04:15
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
-tags: ["Supernatural", "destiel", "英文", "动图"]
+tags: ["Supernatural", "destiel", "英文", "动图", "脑洞"]
 pov: 第三人称
 origin: Tumblr
 ---

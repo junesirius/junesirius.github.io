@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】Dry Humor
+title: 【Destiel】Dry Humor（短评）
 date: 2025-07-22 04:14
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]

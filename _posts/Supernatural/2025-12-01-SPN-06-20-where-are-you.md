@@ -9,8 +9,8 @@ pov: 第三人称
 origin: Tumblr
 ---
 
-<br>
-![](https://64.media.tumblr.com/20bdbd3a9ff16e66a0ccd5212ec07877/c1ea02f5394d885e-1e/s540x810/48628da141098267455238b7b6c4b47a943984e3.gifv)
+<br><br>
+<img src="https://64.media.tumblr.com/20bdbd3a9ff16e66a0ccd5212ec07877/c1ea02f5394d885e-1e/s540x810/48628da141098267455238b7b6c4b47a943984e3.gifv" style="width: 100%; height: auto; display: block">
 
 Rewatching S06E20 and realizing this episode is so fundamental and revealing in destiel's feelings and their separate POVs (We need Cas POV so desperately awww, give me more)
 

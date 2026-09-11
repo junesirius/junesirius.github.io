@@ -4,7 +4,7 @@ title: 【Destiel】S04E01 What if it's Dean who burned Cas（短评）
 date: 2026-06-16 20:41
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
-tags: ["Supernatural", "destiel", "英文", "短评"]
+tags: ["Supernatural", "destiel", "英文", "短评", "物理"]
 pov: 第三人称
 origin: Tumblr
 ---

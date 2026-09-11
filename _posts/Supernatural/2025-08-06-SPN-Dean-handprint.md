@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】Why Dean doesn't have many sexual experience after S4
+title: 【Destiel】Why Dean doesn't have many sexual experience after S4（短评）
 date: 2025-08-06 01:09
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]

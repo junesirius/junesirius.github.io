@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】《快乐王子》代餐
+title: 【Destiel】《快乐王子》代餐（读后感）
 date: 2025-07-18 03:38
 categories: ["其他"]
 characters: ["Castiel", "Dean Winchester", "奥斯卡·王尔德"]

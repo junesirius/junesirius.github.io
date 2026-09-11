@@ -4,7 +4,7 @@ title: 【Destiel】S13E14 Cas protect people he loves（视频）
 date: 2026-08-06 14:24
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
-tags: ["Supernatural", "destiel", "英文", "视频"]
+tags: ["Supernatural", "destiel", "英文", "视频", "短评"]
 pov: 第三人称
 origin: Tumblr
 ---

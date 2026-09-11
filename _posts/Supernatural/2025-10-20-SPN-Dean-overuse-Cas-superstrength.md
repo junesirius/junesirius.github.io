@@ -4,7 +4,7 @@ title: 【Destiel】Dean overuse Cas's Super Strength（短评）
 date: 2025-10-20 09:45
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
-tags: ["Supernatural", "destiel", "英文"]
+tags: ["Supernatural", "destiel", "英文", "短评"]
 pov: 第三人称
 origin: Tumblr
 ---

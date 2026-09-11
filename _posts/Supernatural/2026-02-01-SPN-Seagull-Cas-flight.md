@@ -44,7 +44,7 @@ AND THEN!! When I saw this beautiful beautiful creature on the beach today, with
 <br><br>
 ![](https://64.media.tumblr.com/c6018059a2be445c2d7a2cb1394813aa/42687d823409f691-79/s1280x1920/409fb359b8cef65d133a113b4d4b852218d3fc32.jpg)
 <br>
-![](https://64.media.tumblr.com/8c651e7db803577bed7510a4e6a4c2a1/42687d823409f691-a6/s1280x1920/c1519a90c9bebcfa96e9732f1957a5e005f816bc.gifv)
+<img src="https://64.media.tumblr.com/8c651e7db803577bed7510a4e6a4c2a1/42687d823409f691-a6/s1280x1920/c1519a90c9bebcfa96e9732f1957a5e005f816bc.gifv" style="width: 100%; height: auto; display: block">
 <br>
 ![](https://64.media.tumblr.com/da8c95a884808712beb881169afe1cd2/42687d823409f691-a5/s1280x1920/c4999b0312446a07fd84350f738b01b5b42f3158.jpg)
 <br>

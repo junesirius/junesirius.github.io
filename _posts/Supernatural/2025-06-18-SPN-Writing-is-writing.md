@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【SPN】Writing is writing
+title: 【SPN】Writing is writing（短评）
 date: 2025-06-18 00:44
 categories: ["SPN"]
 characters: 
-tags: ["Supernatural", "英文", "写作", "摘录"]
+tags: ["Supernatural", "英文", "写作", "摘录", "短评"]
 pov: 第三人称
 origin: Tumblr
 ---

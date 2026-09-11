@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SPN】Everyone gets assigned a demon
+title: 【SPN】Everyone gets assigned a demon（短评）
 date: 2025-07-29 20:53
 categories: ["SPN"]
 characters: 

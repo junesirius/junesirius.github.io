@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SPN】Bobby's relationships
+title: 【SPN】Bobby's relationships（短评）
 date: 2025-08-05 18:03
 categories: ["SPN"]
 characters: ["Bobby Singer", "Jody Mills", "Fergus MacLeod/Crowley", "Ellen Harvelle"]

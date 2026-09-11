@@ -4,7 +4,7 @@ title: 【Destiel】S15E19 all the extra pain and reciprocation in the script（
 date: 2025-11-23 16:26
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Jack Kline"]
-tags: ["Supernatural", "destiel", "midam", "英文", "剧本"]
+tags: ["Supernatural", "destiel", "midam", "英文", "剧本", "视频", "动图"]
 pov: 第三人称
 origin: Tumblr
 ---
@@ -62,15 +62,15 @@ Dean's painful for losing Cas, but he *can't meet Jack's eyes*. Dean is not the 
 <video src="https://youtu.be/tQA4DO6z9qU" playsinline poster="https://i.ytimg.com/vi/tQA4DO6z9qU/maxresdefault.jpg" autoplay controls type="video/mp4" style="width: 100%"></video>
 
 <br><br>
-![](https://64.media.tumblr.com/ec518862b74f048365da5061d4a4a34b/a9cd622c0cacefee-dd/s640x960/06dc8c3e1399ee95baad72da0c3bd1f3ca4ff5dd.gifv)
+<img src="https://64.media.tumblr.com/ec518862b74f048365da5061d4a4a34b/a9cd622c0cacefee-dd/s640x960/06dc8c3e1399ee95baad72da0c3bd1f3ca4ff5dd.gifv" style="width: 100%; height: auto; display: block">
 <br>
-![](https://64.media.tumblr.com/695e2e6ec1a745798cbe9f41c359c39c/a9cd622c0cacefee-54/s640x960/88ada0759588a4ff6b1159dad5e24b62398d329b.gifv)
+<img src="https://64.media.tumblr.com/695e2e6ec1a745798cbe9f41c359c39c/a9cd622c0cacefee-54/s640x960/88ada0759588a4ff6b1159dad5e24b62398d329b.gifv" style="width: 100%; height: auto; display: block">
 <br>
-![](https://64.media.tumblr.com/cefdc827c10fa1b3f0a4e0fef814ff8c/a9cd622c0cacefee-01/s640x960/e3c05c963a4feada5e81da4151a4ccfa275318d7.gifv)
+<img src="https://64.media.tumblr.com/cefdc827c10fa1b3f0a4e0fef814ff8c/a9cd622c0cacefee-01/s640x960/e3c05c963a4feada5e81da4151a4ccfa275318d7.gifv" style="width: 100%; height: auto; display: block">
 <br>
-![](https://64.media.tumblr.com/77d3b2a833e32933854b29a7b56b6698/a9cd622c0cacefee-1d/s640x960/f3518b08e273c47afc85e6dabecc8229263d450d.gifv)
+<img src="https://64.media.tumblr.com/77d3b2a833e32933854b29a7b56b6698/a9cd622c0cacefee-1d/s640x960/f3518b08e273c47afc85e6dabecc8229263d450d.gifv" style="width: 100%; height: auto; display: block">
 <br>
-![](https://64.media.tumblr.com/547de23c89fc1d078146b5a05716d25e/a9cd622c0cacefee-70/s640x960/38fd2765a47250f7315af4fd6c9fad8d8d1d7c81.gifv)
+<img src="https://64.media.tumblr.com/547de23c89fc1d078146b5a05716d25e/a9cd622c0cacefee-70/s640x960/38fd2765a47250f7315af4fd6c9fad8d8d1d7c81.gifv" style="width: 100%; height: auto; display: block">
 <br>
 
 > JACK-- Surrounded by empty silence as we MOVE IN to discover he's PRAYING.
@@ -156,9 +156,9 @@ And when he's hiding out alone to not get noticed by his Father, who says he's n
 <video src="https://youtu.be/6fTfooFTle0" playsinline poster="https://i.ytimg.com/vi/6fTfooFTle0/maxresdefault.jpg" autoplay controls type="video/mp4" style="width: 100%"></video>
 
 <br><br>
-![](https://64.media.tumblr.com/0585f4d68f371fff003b5ad2a299ce54/a9cd622c0cacefee-4a/s640x960/8b3f02b3fb86df3abbcf062c71b5fb68a3f0e709.gifv)
+<img src="https://64.media.tumblr.com/0585f4d68f371fff003b5ad2a299ce54/a9cd622c0cacefee-4a/s640x960/8b3f02b3fb86df3abbcf062c71b5fb68a3f0e709.gifv" style="width: 100%; height: auto; display: block">
 <br>
-![](https://64.media.tumblr.com/1af299eff3e52c91d1b4a56c95812e30/a9cd622c0cacefee-4c/s640x960/144a4d3d31cff5b4e7dc30d8c3a02cefa54da2ad.gifv)
+<img src="https://64.media.tumblr.com/1af299eff3e52c91d1b4a56c95812e30/a9cd622c0cacefee-4c/s640x960/144a4d3d31cff5b4e7dc30d8c3a02cefa54da2ad.gifv" style="width: 100%; height: auto; display: block">
 <br>
 
 > INT. Men of Letters - Library - Day
@@ -340,13 +340,13 @@ It's just too much pain to bear. It's no victory at all.
 <video src="https://youtu.be/1x5LlmDwnq8" playsinline poster="https://i.ytimg.com/vi/1x5LlmDwnq8/maxresdefault.jpg" autoplay controls type="video/mp4" style="width: 100%"></video>
 
 <br><br>
-![](https://64.media.tumblr.com/cd8338140fb9010430e3507e04b0334f/a9cd622c0cacefee-7d/s640x960/3911da7cb47fdcef3a679931fd15b79d313ac849.gifv)
+<img src="https://64.media.tumblr.com/cd8338140fb9010430e3507e04b0334f/a9cd622c0cacefee-7d/s640x960/3911da7cb47fdcef3a679931fd15b79d313ac849.gifv" style="width: 100%; height: auto; display: block">
 <br>
-![](https://64.media.tumblr.com/728312cc3e1c54fede11b2369509a523/a9cd622c0cacefee-67/s640x960/e1a41e6d9c42d8b7d546c042d6446932c3b786ad.gifv)
+<img src="https://64.media.tumblr.com/728312cc3e1c54fede11b2369509a523/a9cd622c0cacefee-67/s640x960/e1a41e6d9c42d8b7d546c042d6446932c3b786ad.gifv" style="width: 100%; height: auto; display: block">
 <br>
-![](https://64.media.tumblr.com/cc1983e3fe5d173bd35f6ddefe6ceaae/a9cd622c0cacefee-4c/s640x960/a3afc63c666b522d32024ad012b92fc1a8694872.gifv)
+<img src="https://64.media.tumblr.com/cc1983e3fe5d173bd35f6ddefe6ceaae/a9cd622c0cacefee-4c/s640x960/a3afc63c666b522d32024ad012b92fc1a8694872.gifv" style="width: 100%; height: auto; display: block">
 <br>
-![](https://64.media.tumblr.com/8d71278baa79cdbfaabc1141bd133bca/a9cd622c0cacefee-d9/s640x960/233bf404ed69a54b8a92dce9d940aa78a5c6d135.gifv)
+<img src="https://64.media.tumblr.com/8d71278baa79cdbfaabc1141bd133bca/a9cd622c0cacefee-d9/s640x960/233bf404ed69a54b8a92dce9d940aa78a5c6d135.gifv" style="width: 100%; height: auto; display: block">
 <br>
 
 > INT. Men of Letters - Library - Night

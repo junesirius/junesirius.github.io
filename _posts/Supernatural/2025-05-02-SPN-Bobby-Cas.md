@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】Bobby-Cas relationship
+title: 【Destiel】Bobby-Cas relationship（短评）
 date: 2025-05-02 09:32
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester", "Bobby Singer"]

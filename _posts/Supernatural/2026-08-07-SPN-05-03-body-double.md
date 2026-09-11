@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【Destiel】S05E03 Boby doubles（视频）
+title: 【Destiel】S05E03 Body doubles（视频）
 date: 2026-08-07 12:10
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
-tags: ["Supernatural", "destiel", "英文", "视频"]
+tags: ["Supernatural", "destiel", "英文", "视频", "短评"]
 pov: 第三人称
 origin: Tumblr
 ---

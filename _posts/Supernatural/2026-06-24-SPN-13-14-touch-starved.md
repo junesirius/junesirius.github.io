@@ -4,7 +4,7 @@ title: 【Destiel】S13E14 Touch Starved（动图）
 date: 2026-06-24 03:42
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
-tags: ["Supernatural", "destiel", "英文", "动图", "视频"]
+tags: ["Supernatural", "destiel", "英文", "动图", "视频", "短评"]
 pov: 第三人称
 origin: Tumblr
 ---

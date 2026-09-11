@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】Perspectives
+title: 【Destiel】Perspectives（短评）
 date: 2025-04-11 18:30
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
