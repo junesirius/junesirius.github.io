@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【Dean】S13E08 Dean scared of spiders and snakes（动图）
+title: 【Dean】S13E08 Dean scared of spiders and snakes（视频）
 date: 2026-06-24 19:52
 categories: ["SPN"]
 characters: ["Dean Winchester"]
-tags: ["Supernatural", "英文", "动图"]
+tags: ["Supernatural", "英文", "视频"]
 pov: 第三人称
 origin: Tumblr
 ---
