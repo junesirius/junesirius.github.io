@@ -19,4 +19,4 @@ and I can't possibly imagine what she would think or feel about the fact that, h
 
 <br>
 
-[Tumblr post link](https://www.tumblr.com/junesirius/802529297663426560)
+([Tumblr post link](https://www.tumblr.com/junesirius/802529297663426560))

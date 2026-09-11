@@ -119,4 +119,4 @@ In any case, it's so good to see Misha and Kathryn interact so well and close, a
 
 (source: [youtube.com](https://www.youtube.com/live/52oz2JSL3NM))
 
-[Tumblr post link](https://www.tumblr.com/junesirius/802176828246802432)
+([Tumblr post link](https://www.tumblr.com/junesirius/802176828246802432))

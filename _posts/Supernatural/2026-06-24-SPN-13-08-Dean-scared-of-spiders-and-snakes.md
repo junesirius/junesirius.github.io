@@ -20,4 +20,4 @@ And that's not even your "Yellow Fever" Dean from S04 that's scared of everythin
 
 <br>
 
-[Tumblr post link](https://www.tumblr.com/junesirius/820359695960260608)
+([Tumblr post link](https://www.tumblr.com/junesirius/820359695960260608))

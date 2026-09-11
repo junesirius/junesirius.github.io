@@ -20,4 +20,4 @@ Kripke, sir, I know what you are. Look what you've done to me.
 
 <br>
 
-[Tumblr post link](https://www.tumblr.com/junesirius/822257612449054720)
+([Tumblr post link](https://www.tumblr.com/junesirius/822257612449054720))

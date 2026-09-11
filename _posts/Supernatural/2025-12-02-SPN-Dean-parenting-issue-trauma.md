@@ -19,4 +19,4 @@ I just have to keep the hope up.
 
 <br>
 
-[Tumblr post link](https://www.tumblr.com/junesirius/801855481395167232)
+([Tumblr post link](https://www.tumblr.com/junesirius/801855481395167232))

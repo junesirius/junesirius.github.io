@@ -39,4 +39,4 @@ In fact, everything in this sequence is just way too adorable and domestic, I ca
 
 <br>
 
-[Tumblr post link](https://www.tumblr.com/junesirius/820298661346066432)
+([Tumblr post link](https://www.tumblr.com/junesirius/820298661346066432))

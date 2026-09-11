@@ -33,4 +33,4 @@ Dean cracks so hard that all arguments are forgotten. The only thing he sees is 
 
 <br>
 
-[Tumblr post link](https://www.tumblr.com/junesirius/822557827809853440)
+([Tumblr post link](https://www.tumblr.com/junesirius/822557827809853440))

@@ -26,4 +26,4 @@ The only other time I see someone being so comfortable around someone else is be
 
 <br>
 
-[Tumblr post link](https://www.tumblr.com/junesirius/820636113013211136)
+([Tumblr post link](https://www.tumblr.com/junesirius/820636113013211136))

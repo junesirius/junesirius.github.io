@@ -13,4 +13,4 @@ Do you think Dean would rewrite his memory of Cas's confession and last sacrific
 
 <br>
 
-[Tumblr post link](https://www.tumblr.com/junesirius/822060345496633344)
+([Tumblr post link](https://www.tumblr.com/junesirius/822060345496633344))

@@ -107,4 +107,4 @@ The conversation about 10x22 why Cas manifests his angel blade, knowing he would
 
 The "Cas can swim for the both of them" line is inspired by sobsicles' "[oh sooner or later it all comes down to faith](https://archiveofourown.org/works/29782401)" (which is incredible, everyone should read it).
 
-[Tumblr post link](https://www.tumblr.com/junesirius/821785738184114176)
+([Tumblr post link](https://www.tumblr.com/junesirius/821785738184114176))

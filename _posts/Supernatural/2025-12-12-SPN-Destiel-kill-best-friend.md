@@ -25,4 +25,4 @@ Imagine post-canon, everything is all good and solved, and Cas is back and Dean 
 
 <br>
 
-[Tumblr post link](https://www.tumblr.com/junesirius/802762597452611584)
+([Tumblr post link](https://www.tumblr.com/junesirius/802762597452611584))

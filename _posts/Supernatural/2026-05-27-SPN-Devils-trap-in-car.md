@@ -37,4 +37,4 @@ It only took a little more than two hours last night to make it. Funny thing how
 
 <br>
 
-[Original Tumblr post link](https://www.tumblr.com/junesirius/817807814661685248)
+([Tumblr post link](https://www.tumblr.com/junesirius/817807814661685248))

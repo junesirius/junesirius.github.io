@@ -467,4 +467,4 @@ One last note: by the way, that fan-edit video at the end is really awesome inde
 
 (source: [youtube.com](https://www.youtube.com/live/52oz2JSL3NM))
 
-[Tumblr post link](https://www.tumblr.com/junesirius/802180781186383872)
+([Tumblr post link](https://www.tumblr.com/junesirius/802180781186383872))
