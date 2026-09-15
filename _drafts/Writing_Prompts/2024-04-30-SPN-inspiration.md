@@ -6656,4 +6656,16 @@ What if Cas lets him finish saying it, and if Dean confesses first then and ther
 
 They'll have to figure out how to defeat Billie in S15E18, but this can be an easy fix-it solution to defeat Empty.
 
-### 506.
+### 506.【destiel】"Purgatory" is a bar
+
+"Purgatory" is a bar name, something bad happen there
+
+(inspired by World Con panel "Knik after Dark", Cecilia Tan's reading: set in NY, "Purgatory" is a night club/sex slave club/BDSM club; inspired by Mermaid sex slave Cas/Hunter Dean destiel fic)
+
+Dean always wants to own a bar
+
+something happens in this new bar, the bar as a setting, and this bar is "Purgatory", mirroring the canon Purgatory about how bad that is, this bar is also where bad things happen
+
+modern/fantasy AU? not canon divergent/compliant
+
+### 507.
