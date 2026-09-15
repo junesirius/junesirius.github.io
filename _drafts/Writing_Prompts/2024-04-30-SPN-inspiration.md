@@ -1867,11 +1867,33 @@ reaper is a kind of angel, what if Cas is a reaper, meets Dean first time when h
 
 Cas being reaper would probably freak Dean out more than he being an angel already is, dagger in heart but doesn't do him any harm
 
-Cas rebel to Death to protect Dean when he needs to be reaped, Death more understanding than God (or not, like Billie)
+Cas rebel for Death to protect Dean when he needs to be reaped, Death more understanding than God (or not, like Billie)
 
 could rewrite S4 to finale
 
 (≈ prompt 164, 339)
+
+### 180.5【destiel】Cas is a reaper/Death 《till Death do us part》 (not canon-divergent)
+
+inspired by BucketOfLi's art [post](https://www.tumblr.com/bucketofli/827848246236987392)
+
+Dean can see Cas when he takes away everyone close to him
+
+Dean is devastated losing everyone
+
+until all he has is only Cas
+
+Dean begs for Cas to take him too, but Cas can't, tells him it's not time yet
+
+Dean maybe would try to see Cas by trying to kill himself many times, so they'll have little moments of seeing each other and falling in love, but Cas insists it's not time and always bring him back, and medically Dean always gets rescued and resurrected, though having done it too many times, there are long term impact on his health, so he knows he won't live very long, which he is actually glad (depressed Dean, suicidal Dean)
+
+Cas is also longing/yearning for Dean (inspired by my own "Death Office") and wants to secretly see Dean, even though he knows it's dangerous and not allowed. and when he sees Dean from far distance, it already becomes too dangerous for Dean that Dean almost runs into accident and dies again. Cas regrets immediately and leaves, they'll meet briefly when Dean's in emergency care. They'll want to kiss but they can't.
+
+(some reference from "Elizabeth" musical, since it inspired my old "Death Office")
+
+Only when Dean really dies at age 41 (1979-2020, use canon age), they can kill one last time.
+
+But then Cas sits at Dean's tomb, devast
 
 ### 181.【CasJimmy?/destiel?】2077 AU
 
@@ -5604,7 +5626,7 @@ So Ajay might meet Cas in the Empty after S12E23 and S15E18, he can ask for that
 
 he's probably very likely look like the kind of character who'd end up attracted by TFW and become on their team
 
-they can use a rogue reaper on their side wen they fight against Death
+they can use a rogue reaper on their side when they fight against Death
 
 Ajay might end up having to meet Billie at some point, his boss, how'd he choose? He's a little like Crowley, a little slicker, but seems to know to bet on Winchesters. Which means likely to die saving him again like so many others
 
@@ -5705,6 +5727,8 @@ Maybe that's how Cas find out the way to leave Purgatory, go to Hell and fly out
 so Dean and Cas can use Hell as a detour to leave Purgatory, and Hell is actually easier to handle than Purgatory because Cas can kill demons with his grace smiting so much easier than fighting with Leviathans. So they go to Hell, Cas fly Dean out just like S04E01, they blast Illinois just like S04E01
 
 Or maybe there are other reasons why this isn't easy so Cas knows the way but thinks it's too dangerous, meaning there are more dangers and risks in S04E01 that he didn't let Dean know. so maybe they find the way and Dean suggest them go, and Cas is just very strongly object, Dean force/push him to confess what else he sacrificed during the S04E01 rescue, about the burning wings and the bad molt, Dean is more moved by Cas and love him more. maybe that's the first time Dean realize this feeling he has for Cas is love.
+
+(It's like a loophole, it's easier to get into Purgatory than into Hell (from Earth); but it's easier to get out of Hell than Purgatory (to Earth); and it's very easy to go back and forth between Purgatory and Hell. Why wouldn't Leviathans find out this and go into Hell? Why none of the King of Hell ever find out about this? Otherwise Crowley could directly go into Purgatory without asking for Cas's help in S6. they don't know Purgatory even exists or its location or its entrance until the later part of S6. How does Ajay find out that secret passageway between Purgatory and Hell? Who creates that hole? That passageway looks like a hole someone tear between the two realms, instead of a built-in design.)
 
 ### 458.【Dean/destiel】S08E01 Purgatory Dean run into fake-Cas/Sam
 
@@ -6668,4 +6692,4 @@ something happens in this new bar, the bar as a setting, and this bar is "Purgat
 
 modern/fantasy AU? not canon divergent/compliant
 
-### 507.
+### 507.【destiel】
