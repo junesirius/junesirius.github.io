@@ -1877,6 +1877,8 @@ could rewrite S4 to finale
 
 inspired by BucketOfLi's art [post](https://www.tumblr.com/bucketofli/827848246236987392)
 
+<img src="https://64.media.tumblr.com/27477b33f27ea5fda03b5d0255d34ab6/b2616e23bec71da5-12/s2048x3072/f626623c562422705e79286bff21784a88b2a054.jpg" style="width:40%">
+
 Dean can see Cas when he takes away everyone close to him
 
 Dean is devastated losing everyone
@@ -1893,7 +1895,9 @@ Cas is also longing/yearning for Dean (inspired by my own "Death Office") and wa
 
 Only when Dean really dies at age 41 (1979-2020, use canon age), they can kill one last time.
 
-But then Cas sits at Dean's tomb, devast
+But then Cas sits at Dean's tomb, devastated.
+
+(A different/even more devastated version of this:) Death Cas dies trying to save Dean. And when human Dean dies, Cas is already gone and not coming back. Dean when he's dying and waiting but Cas didn't show up: "I always thought I'd see you when this day comes. But you're already gone." (this is basically canon)
 
 ### 181.【CasJimmy?/destiel?】2077 AU
 
@@ -6009,6 +6013,22 @@ At this point, it starts feeling similar to the one I'm working on right now tha
 > And Dean's standing there holding the motorcycle helmet next to the motorcycle. And then he gets on the motorcycle and he drives the opposite direction. Because he doesn't need a passenger seat anymore.
 >
 > Because Sam had died and Dean was trying to move on with his life in the best way he knew how, but he couldn't drive that car anymore because it just reminded him of his brother.
+
+### 470.5【destiel/jenmish】Dean&Jensen dream about each other's life, saving Cas&Misha
+
+(inspired by Jensen's dream of Dean's ending, post-canon, multiverse setting)
+
+starting with writing Jensen's dream vision, Dean lets go of Baby, riding away in motorcycle. Then dream wake up, shows it's Jensen dreaming about Dean, the real life of Jensen is he needs to go to comic con, and there's Misha, and they talk about the dream, and Jensen feels dazed. Then dream wake up again, it's Dean dreaming about Jensen's life, the real-life is Dean's normal life, he's hunting (or retired), it's post-1520 timeline, Cas isn't there, Dean's grieving.
+
+The Jensen in this story can be real-world Jensen or S06E15 Jensen, where the reality doesn't have Misha, this could be the day Misha got stabbed by the angel and gone, and Jensen is grieving his weird dorky good friend too.
+
+Structure can be just two worlds where Dean and Jensen just alternate dreaming about each other's life, but commonality is they both have lost Misha/Cas and are grieving (or reality Jensen has Misha but Dean doesn't have Cas), or could be like *Inception* where there are three layers, one world dream about a world deeper (reality Jensen dream about Dean dream about S06E15 Jensen).
+
+multiverse converge/collide? Dean help Jensen find Misha, then Jensen help Dean get Cas back? They can only get one back and Jensen/Dean have to decide if they want Misha or Cas back?
+
+inspire by/borrow from: DW 11th's *Amy's Choice* (S05E07) "If this is the real world, I don't want it"; my own VO story of world A/B when they thought they have to choose between two people's ideal worlds but none are ideal, the happy ending soon become bad ending for both of them, then jump out to find out a real real-world.
+
+can only get out of the dream world by death, dead Misha/Cas actually in the outside world? outside Empty is the waking world outside that dream world? switching between Jensen/Dean POV and Misha/Cas POV?
 
 ### 471.【Chuck&/Amara】What if Chuck wasn't bad to start with, he's just used up
 
