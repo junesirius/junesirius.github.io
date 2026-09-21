@@ -6,7 +6,7 @@ categories: ["原创"]
 characters: 
 tags: ["情感", "成长", "心结", "疼痛", "自由", "独立意识", "英文", "疏离", "创伤"]
 pov: 第二人称
-origin: 个站
+origin: 个站, Substack
 ---
 
 We've been holding hands, all this time, since the dawn of time.
@@ -161,3 +161,6 @@ The pain grows. And it will never go away. I just know. It's okay. It's not.
 
 I let myself go.
 
+<br>
+
+([Substack post link](https://junesirius.substack.com/p/holding-hands))

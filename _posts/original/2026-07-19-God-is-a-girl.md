@@ -26,3 +26,7 @@ On the seventh day, she wakes up feeling good because there is no work waiting f
 <br>
 
 God is a girl, and she has menstruation during the week of creation.
+
+<br>
+
+([Substack post link](https://junesirius.substack.com/p/god-is-a-girl))

@@ -24,3 +24,7 @@ We move, burning down one land then the next, as the sun rises and sets. We move
 The battlefield moves backward when we are too tired to move forward. The bodies lie down when we are too tired to fight. This happens with or without our will. We move on, or we get left behind, forever. Lying among the bodies, becoming someone else's long-forgotten dream.
 
 Every day is a battlefield. So is every yesterday, but they will pass; they always do. All of them lie under our feet. As long as we are moving, as long as we are standing, we are moving forward, toward where the sun rises. We have nothing but tomorrow.
+
+<br>
+
+([Substack post link](https://junesirius.substack.com/p/life-of-battlefield))
