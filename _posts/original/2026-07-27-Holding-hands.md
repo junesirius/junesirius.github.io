@@ -15,7 +15,7 @@ We'll hold hands forever, I thought -- I think both of us thought that.
 
 Until one day I start loosening my hold.
 
-And everyday after that.
+And every day after that.
 
 "Let me go," I say.
 
@@ -25,11 +25,11 @@ But the hold is still strong, so strong, so tight.
 
 So incredibly warm that it's scorching.
 
-It used to be the warmth and heat in snowy days.
+It used to be the warmth and heat on snowy days.
 
 So unbelievably tight that it's suffocating.
 
-It used to be the support and the splint in storm days.
+It used to be the support and the splint on stormy days.
 
 I loosen even more.
 
@@ -49,7 +49,7 @@ We're still holding hands.
 
 We're still walking together.
 
-You used to be the one walking faster than me, slowed down to keep me held.
+You used to be the one walking faster than me, getting slowed down to keep me held.
 
 I walk faster now, and oh so selfish of me, I want to go so fast that you won't be able to catch.
 
@@ -63,13 +63,13 @@ I want it different. So different that I know it would never happen. It just wou
 
 You don't let go.
 
-You never will. I know you never will. I thought I know you never will. Even though you can't keep up, you try. But it's not good enough. Just, not.
+You never will. I know you never will. I thought I knew you never would. Even though you can't keep up, you try. But it's not good enough. Just, not.
 
 It's not your fault. It's not mine.
 
 I wrench my hand back, hard. It hurts. It hurts so fucking much that I could die. I didn't. It turns into aching that never stops. It's mourning grief for the sabotaged wound.
 
-I didn't know it's not just holding hands. The hands were grown together. I was already dying a little everyday. Or I could just endure the pain and agony this once, and feel this same ache the rest of the life.
+I didn't know it wasn't just holding hands. The hands were grown together. I was already dying a little every day. Or I could just endure the pain and agony this once, and feel this same ache the rest of my life.
 
 I'll never know which pains less, for I have already chosen.
 
@@ -77,19 +77,19 @@ The pain grows.
 
 The wound scars, but never heals.
 
-You stumble as I pull back, you stare at me, pained, hurt. I hurt you. Bad, this time. Like never before.
+You stumble as I pull back; you stare at me, pained, hurt. I hurt you. Bad, this time. Like never before.
 
-I never intend to, but I did.
+I never intended to, but I did.
 
 Like you never intended to, but you did. Had been. Has been. Ongoing.
 
 What now? I ask, without really asking.
 
-You crumble down. I realize maybe you need the holding hands more than me, long before, you needed me to hold you, and I didn't know. I didn't want to know.
+You crumble down. I realize maybe you need the holding hands more than me, since long ago; you needed me to hold you, and I didn't know. I didn't want to know.
 
 What now?
 
-The pain is too strong that I can't bear keep watching you. I turn around.
+The pain is too strong that I can't bear to keep watching you. I turn around.
 
 What now?
 
@@ -97,7 +97,7 @@ What now?
 
 Yes. No. I've been leaving long before this. I've been leaving even when we hold hands.
 
-I have place to go where you can't follow. I want to say, I don't know how to.
+I have places to go where you can't follow. I want to say, I don't know how to.
 
 It sounds like something you would say to me, one day. Not the other way around.
 
@@ -113,7 +113,7 @@ Do I really want to go. Alone. Far.
 
 Yes. No.
 
-Running away from pain, yes. Like retract from touching fire.
+Running away from pain, yes. Like retracting from touching fire.
 
 Bleeding. Pain.
 
@@ -141,7 +141,7 @@ We never will be. Not really. Not ever. Never have been. I know.
 
 But this is okay.
 
-"Don't die," you never say that, I heard.
+"Don't die." You never say that, I heard.
 
 Bitter, sad. I answer, "This isn't your job anymore."
 
@@ -160,3 +160,4 @@ I start walking. Leave you behind. Hands empty. Bleeding. Hollow. Pained.
 The pain grows. And it will never go away. I just know. It's okay. It's not.
 
 I let myself go.
+
