@@ -4640,6 +4640,8 @@ Dean willing to self-sacrifice to save Cas, Jack to Dean: **"I already lost one 
 
 Dean timetravel back to warn Mary don't get out of bed that night, what if she remembered, or just canon-wise John didn't sleep in sofa before TV that night, John's woken by Sam's cry or Mary asked John to go, anyway, John goes to Sam, runs into Azazel, John fights Azazel before Sam is fed demon blood, what will happen next?
 
+(someone else already wrote this, canon divergent from S01E01 rewrite the whole show: [Let it Be](https://archiveofourown.org/works/8606395) and very well-written, and it's destiel fic)
+
 ### 379.【destiel】old man destiel ideas
 
 s16 destiel, retired destiel, aging elegantly like fine wine destiel, painful angsty old Alzheimer/amnesiac or sick human destiel, destiel raising kid/new baby, old married couple bickering, more angsty aging alone mourning widower; both immortal, "I'm the one who will have to watch you murder the world.", MoC!Dean+angel!Cas
