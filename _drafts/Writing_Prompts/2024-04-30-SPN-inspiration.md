@@ -6808,4 +6808,18 @@ Dean back to Cas: "How are we gonna go back then, if you don't let me do whateve
 
 And when they land back in the current timeline, Cas spits blood and really pale and passes out again. Dean sighs: "I know it!" Princess-carries Cas to the bed pretty gently and watches his sleeping/passed-out face: "You idiots." Sam observes them quietly: "You really do love him." Dean doesn't look at him: "Shut up." Sam gentle: "It's nothing to shame about. It's okay." Dean looks up at him, pained: "It's all his fault. He loved me first, hell, he *saved* me from Hell first, what am I supposed to do about that?" Sam realizes: "That's why you have to save him back." Dean goes back to stare at Cas: "Yeah, yeah, that's why I have to. What else do we have? Just you, me, and this crazy, idiot angel, fighting against the world." Sam: "That gotta be enough, right?" Dean sighs: "Yeah , it gotta be." He sits down on the bedside, still watching the angel, waiting for him to wake up. And Sam watches the two of them. Yeah, that gotta be enough.
 
-### 509.
+### 509.【sad teddy/Zanna】S04E08 sad talking teddy & S11E08 imaginary friend
+
+saddest thing & the most real thing in the entire show: S04E08 the sad teddy bear
+
+you wake up in the morning, and you realize you're alive when you're not supposed to be
+
+and you look at the news, and realize what a terrible world this is
+
+you ask, "Look at that, can you believe that crap? Why am I here?" And all that can answer you is a little girl telling you, "For tea parties!" And you get desperate and depressed, "Is that all that is?"
+
+This is probably the most realistic adult life reflection on the show: In this terrible world, is that all that is?
+
+a thought: what if the teddy bear meets S11E08 Sully, talking teddy is basically the little girl Audre's imaginary friend, so the sad teddy can probably find a new job as a Zanna, or gets comforted by another Zanna, like that Zanna "Sparkles" enjoys having tea party with his charge, teddy maybe can learn that from Sparkles or get comforted by Sully, healing his depression, find the meaning of his life
+
+### 510.
