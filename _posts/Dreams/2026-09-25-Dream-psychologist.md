@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【梦记】心理医生足够了解像我这样的人（普通）
+title: 【梦记】足够了解我的心理医生（普通）
 date: 2026-09-25 08:45
 categories: ["梦记"]
 characters: 
@@ -17,7 +17,7 @@ origin: 个站
 
 别的人陆陆续续也在进来，我担心会没什么好座位，就很快地走到第一排挑了很中间的位置坐下了。然后之前那个问过我下一个活动要去哪里的人也进来了（忘了是谁），看见我以后感觉有点意外，因为显然我之前说的不是这里，所以看起来好像我之前说谎了，我就有点别扭，因为我之前回答时候也不知道我会到这里来的，这是临时改的主意，不是故意说谎的，但是感觉好像解释不清，所以索性也没有跟他/她说话解释，只是在左右转头时候在余光看见，感觉他/她旁边也有别的人是一起来的，他们在一起说话，所以他/她也没有过来跟我打招呼，所以我就有点尴尬地转回去看前面，继续假装好像没看见他/她。
 
-然后我的现同事Sidra也进来了，坐在我同一排的右边，不是很远，但也没有坐我旁边的位置，中间隔了几个空位，我们也没有说话。可能点头打了招呼，大概也就这样了，有种不生不熟的感觉。
+然后我的现同事S也进来了，坐在我同一排的右边，不是很远，但也没有坐我旁边的位置，中间隔了几个空位，我们也没有说话。可能点头打了招呼，大概也就这样了，有种不生不熟的感觉。
 
 更多的人陆续进来了，坐在我周围和后面的座位上，不过没人坐在紧靠我座位的左边和右边（我还挺喜欢这样的）。座位可能每排不超过20个，总共四五排。所以不会超过100个人，那些座位也没有都坐满。整个房间看起来也没有很挤。（整个房间看起来可能就像一个普通教室那么大，但是长宽横过来了，所以宽边超过长边。）
 
@@ -31,7 +31,7 @@ origin: 个站
 
 In a big building group, some big events like convention is happening, a lot of people are here, some are old schoolmates, some are colleagues. I plan to go to one room, someone asked me where I'm going, I answered that room. But then on my way there, I see another room hosting another seemingly more important event, something like closing ceremony or something similar that's ceremony-like, so I changed my route and go in there.
 
-The room looks like a stage with several rows of seats, not many chairs, all chairs are small foldable ones with back. The stage is just a rectangle-shaped clearing, but very apparently cleared and pre-prepared to allow people go there and act or something similar. Very clearly decorated and carefully planned. Behind the stage there's a screen or some background. People are coming in. I worry there won't be any good seat left, so I go to the front row quickly and sit in one of the center seats. The person asked me earlier comes in too, and seemingly surprised that they see me here, because previously my answer was somewhere else, and I feel a little bad as if I lied earlier, but I didn't plan to come earlier, it's just on a whim. Then my current colleague Sidra also comes in, sitting somewhere to my right, not immediately adjacent to my seat, but in the same row and not too far away. I can see her and I think we greeted, but we didn't talk much. More people come in later and take the seats around and behind me. But the total seats aren't too many, think at most twenty seats per row and no more than four five rows, so perhaps maximum a hundred people in the room (the room itself doesn't look too big, almost like a repurposed classroom, but did it horizontally, so wider than length, and doesn't look very crowded with all these people coming in).
+The room looks like a stage with several rows of seats, not many chairs, all chairs are small foldable ones with back. The stage is just a rectangle-shaped clearing, but very apparently cleared and pre-prepared to allow people go there and act or something similar. Very clearly decorated and carefully planned. Behind the stage there's a screen or some background. People are coming in. I worry there won't be any good seat left, so I go to the front row quickly and sit in one of the center seats. The person asked me earlier comes in too, and seemingly surprised that they see me here, because previously my answer was somewhere else, and I feel a little bad as if I lied earlier, but I didn't plan to come earlier, it's just on a whim. Then my current colleague S also comes in, sitting somewhere to my right, not immediately adjacent to my seat, but in the same row and not too far away. I can see her and I think we greeted, but we didn't talk much. More people come in later and take the seats around and behind me. But the total seats aren't too many, think at most twenty seats per row and no more than four five rows, so perhaps maximum a hundred people in the room (the room itself doesn't look too big, almost like a repurposed classroom, but did it horizontally, so wider than length, and doesn't look very crowded with all these people coming in).
 
 Then I go to another room, a bit dimmer, probably smaller too but not too small. Less people there. A woman that looks very professional and good at reading people talks to me for a bit. I think/I believe the dream-me knows her as a psychologist (just finished my ADHD assessment two days ago and it's still constantly on my mind, and I talk a lot about psychologist and therapist in my usual chats with friends these days), and we talk, and in the middle of the conversation, I think she looks like very knowing about people like me, so I say, "So you see a lot of people like me? You know what to do with people like me?" When I said "people like me," I was thinking about messed up, confused, ADHD-trait-heavy, autism-trait-heavy, social awkward, a lot of trauma and heavy psychological burden, and just very complicated cases. And she's like, "Yes, of course," and I feel like she really does know people like me pretty well and probably has worked with people like me a lot in the past, and she has a lot of techniques to help people like me.
 
