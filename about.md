@@ -9,7 +9,7 @@ title: 关于
 <p>Dreamer, writer, engineer.</p>
 <hr style="border-top:1px solid #36165a; opacity: 0.8"/>
 
-<h3>What do I Write About?</h3>
+<h3>What do I Dream About?</h3>
 <p>Subconsciousness is a funny thing.</p>
 <p>Dreaming -- it's an out-of-body, otherworldly experience, truly.</p>
 <p>When I say I dream about something, I literally mean I go to sleep, and I have a dream. In my dream, new worlds unfold themselves in front of me, and I stumble in them, travel among them, like a baby, new to the world every time, new to the life every night.</p>
