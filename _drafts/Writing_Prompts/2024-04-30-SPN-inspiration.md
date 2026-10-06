@@ -6822,4 +6822,20 @@ This is probably the most realistic adult life reflection on the show: In this t
 
 a thought: what if the teddy bear meets S11E08 Sully, talking teddy is basically the little girl Audre's imaginary friend, so the sad teddy can probably find a new job as a Zanna, or gets comforted by another Zanna, like that Zanna "Sparkles" enjoys having tea party with his charge, teddy maybe can learn that from Sparkles or get comforted by Sully, healing his depression, find the meaning of his life
 
-### 510.
+### 510.【all/destiel】S03E08 "There is no Santa" + DW 2014 "Last Christmas"
+
+inspired by S03E08 "There is no Santa" and DW 2014 Christmas special "Last Christmas" where they keep going into deeper layer of nightmare caused by this nightmare creature, and saved by Santa Clause, because their subconsciousness would all conjure a Santa, that's how they know it's dream, but also still wish it's true.
+
+Dean tells kid Sam there is no Santa, everyone *knows* there is no Santa
+
+but then they run into Santa (or Santa comes to them), and they're so startled (there can be some funny moment), don't believe it, but then reveal they're in nightmare and everyone dying; trying to get out and think they're out, but actually still in another layer of dream (like the one Doctor and Clara both think they're out and happy and don't want to break it because of grief/seeing someone they lost, and the person they lost also try to save them because they know they're already gone in their subconscious too), and then someone break them out again (by breaking the happy dream).
+
+tag warning canon character death (or temporary character death), can be Dean grieving mom post S12/14 but Cas get him out; or Dean grieving Cas post S07/12 but Sam drags him out (but then need to bring Cas back); or Dean grieving Sam post S05 but Cas get him out
+
+also inspired by Rowena's Christmas dream/nightmare where Santa is actually Lucifer. so this can also be Lucifer!Santa messing up with their head
+
+the DW dream creature can be djinn, or also still a dream monster
+
+(They used to think angels aren't real before S04 but it's real, Dean used to think vampires aren't real before S01 but it's real, why can't Santa also be something they thought aren't real but actually real just different from what they thought)
+
+### 511.
