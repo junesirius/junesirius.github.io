@@ -111,5 +111,3 @@ Jesus Christ, I know it. I know you'd be back. You always do. Of course you'd co
 \# journaling as therapy
 
 \# grief
-
-\# canon character death
