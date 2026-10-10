@@ -4,7 +4,7 @@ title: 【读后感】《The Boy, the Mole, the Fox and the Horse》
 date: 2026-10-09 23:55
 categories: 读后感
 characters: ["Charlie Mackesy", "Lyra"]
-tags: ["读后感", "漫画", "心理", "英文", "观后感", "爱", "被爱", "二刷", "date"]
+tags: ["读后感", "漫画", "心理", "英文", "观后感", "爱", "被爱", "二刷", "创伤", "治愈", "date", "男孩、鼹鼠、狐狸和马"]
 pov: 第一人称视角
 origin: 个站
 ---
