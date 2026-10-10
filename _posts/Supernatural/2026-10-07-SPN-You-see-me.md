@@ -102,6 +102,8 @@ The way you see me, the way you see the good in me, the little part that's not b
 
 Jesus Christ, I know it. I know you'd be back. You always do. Of course you'd come back. Of course you hear me again wherever you are. I don't think I need this journal now. You bastard. Don't do that again.
 
+[There is no more journal after this]
+
 <br>
 
 \# Dean Winchester's journal
