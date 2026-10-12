@@ -1,25 +1,35 @@
 ---
 layout: post
-title: 【梦记】治疗时间紊乱（好故事）
+title: 【梦记】把时间紊乱调回来（喜欢）
 date: 2026-10-11 12:30
 categories: ["梦记"]
 characters: 
-tags: ["梦记", "好故事", "自然醒", "时间"]
+tags: ["梦记", "好故事", "自然醒", "时间", "时间旅行", "时间逆转", "记忆", "碎片"]
 pov: 第一人称视角
 origin: 个站
 ---
 
-<br>
+（感觉有很多碎片场景，现在记得的部分很难组合成一个完整有逻辑的剧情，但是感觉要是没有遗忘中间的那些碎片，它本来应该是有完整逻辑的，只不过我记得的都是些很边角的碎片，所以才拼不起来，中间大的部分我都忘记了。）
 
-草稿：
+记得一条很长的走廊，半室内，感觉在一幢很大的教学楼里，教学楼是回形，中间有镂空的露天空地，每条环绕的走廊靠中间的那侧都是空的，连通这块空地。这个教学楼感觉可能像以前初中学校里会有的楼，但是不记得了。这条走廊现在很暗，很直很长，我知道在走廊尽头连着另一条向右的走廊，我的教室和大部分别的差不多的教室都是在那条右边的走廊上。走廊还没到尽头的地方左边有一块凹进去的空地，空地远离走廊的地方有扇窗，像一个药房服务台或者门票服务台那种，空地上有些人，零散地坐在地板上。大概五个人左右，感觉没到是个。
 
-走廊，周杨，疫苗
+我一开始在这条走廊起始的地方，在往走廊尽头方向跑，感觉是着急往尽头连着的右边走廊和教室方向去。在我经过还没到尽头的左边那小片空地是哦户注意到了其中一个是高中同学Mickee，在最靠近走廊尽头的位置。可能其中一个坐在地上的是Amy，但是不是特别确定。在这片空地上的这些人基本上都是用右手按着他们的左上臂，就像刚打过针。Mickee看见我的时候就叫住我，我就停下来跟他说话。他问我有没有打过疫苗。然后我才注意到那个小窗，感觉像记忆里小时候的医院抽血窗口，理解了一下这应该现在就变成了打疫苗的窗口（因为下周预约了打流感疫苗）。我说我没有。Mickee看起来就很担心又有点紧张。我的感知是我们在说的不是普通流感疫苗那种，我们这个世界可能有点像《Last of Us》或者SPN S05E04里那种有僵尸病毒，不打疫苗就代表我很可能很容易被僵尸病毒感染。我倒没有特别担心。但是很明显对他和这个世界其他人来说这都是一件很严重的事。
 
-“怎么把时间紊乱调回来”，信任的人，粉红色拖鞋，追上时间，同步
+下一个记得的场景是另一条很长很直的走廊，但是光线更亮了，从各个方向都感觉照明更好了，而且完全是室内。而且感觉这条走廊跟我一开始的相对位置方向是在我的左前方（就像拍摄的时候，摄像机视角在新介绍一个场景时候都会有缓慢移动直到把整个场景露出来，这条新走廊就是从左边慢慢移到变成正对面的，之前那条暗一点的走廊是在右边。但是没有摄像机，所以这里就是我自己的POV）。有另一个人在我前面一点，跟我差不多年纪的样子，也差不多身高、身材、头发，从后面看起来差不多就像是另一个我，我知道她是我可以信任的人（但是我不知道她到底是谁或者对应现实里的谁，我只看见她的背影，只知道她让我很有安全感，我知道我可以信任和依赖她的）。我知道我有时间紊乱问题，有点像《时间旅行者的妻子》里那种时间穿梭综合征，我前前后后穿梭时间太多次了，所以我现在没办法跟真实的时间对齐，我的时间总是要么比周围世界的快，要么慢；要么是我没法跟上周围世界，要么是周围世界跟不上我。这让我过得很艰难。（感觉这前面应该还有很多类似设定的剧情，具体表现了我到底是怎么suffer的，但是都忘记了。很像是我block掉了不好的traumatic的记忆，就像现实的我也block掉了大量过去记忆导致大部分记忆都是空白、有太多断片导致没法完整叙事一样。）
 
-教室，考试，手表，时间还是会倒退，15秒
+然后现在在这里，在这条走廊上，这是我们找到了一个解决方案。我一边在听或者可能是在心里给自己默默复述我们找到的办法，一边在按照办法里的指示做。指示是这样的：我一开始要在这条走廊的起始位置，不管我当前的时间是比周围世界快还是慢都没关系，然后让我信任的人在我前面五到十步的距离，慢慢往前走，我要尽全力地朝她跑，追上她。她手里会拿着一双粉红色拖鞋。等她把拖鞋放到地上的瞬间，我应该要正好在那里，正好在拖鞋也在的地方，穿上拖鞋。如果我能成功做到，这就能表示在这个瞬间我的时间就跟周围世界的时间协调统一了，这样从这个时刻开始我的时间紊乱就好了。
 
-录取UCSC和UCD，犹豫，都不是最想去的，时间也不好
+所以我们就按照指示做。她拿着粉红色拖鞋慢慢往前走，我在她后面一点距离很努力地朝她跑。我不确定我的时间现在是比她慢还是快还是会间歇性后退，反正就是走得很紊乱，有可能是间歇性这些全都会有，所以在我的视角看起来就好像是这个世界会跳帧，就算我知道她只是在慢慢往前走，在我看来是我在连贯地往前跑，但是她会有时往前有时往后。所以虽然我跑得很快很努力，还是很难追上她。我们之间的距离确实在慢慢缩短，但是我还是在她后面距离太远了。
+
+这条走廊看起来就像刚才那条一样也是在一幢教学楼里，但是完全是在室内，两边都是白色的干净的墙，右边每间隔一些距离就有一扇门通往一间教室。在她停下来的时候她右边就有一扇开着的门，看起来好像她准备在把这个跟我的事情做完以后就走到那间教室去。然后她慢慢把拖鞋往下放。我从她停下来开始就知道她要放拖鞋了，但是我还是距离太远了。我有点恐慌地想着我看起来是赶不到了的。她应该是看不见我的，也不知道我这时候到底距离她有多远，只是凭感觉地往下放，她要信任我能追上，我也要信任她所以才请她帮我对齐时间的。
+
+她放下的动作非常非常慢，在我看起来好像慢动作，但我不确定这是因为她确实就是放得很慢还是我的时间突然走快了。在她从停下脚步到放下拖鞋之间我几乎可以赶上了，在她放下拖鞋的那个瞬间，我还差最后三步。我没办法跑过那三步然后跳进拖鞋里（按照指示我应该要穿上拖鞋才算成功），但是我来不及了，所以就往前一扑，变成把手套进了拖鞋里面，整个人都趴在了地上。我不知道这算我们的时间调回来成功了没有，但是我觉得在我碰到拖鞋的瞬间，她终于可以看见我了。我觉得她看见我的第一眼是我这么不雅观地整个人趴在地上，应该笑了一下或者挑了下眉之类的。然后我就在想，她能看见我了，这应该就算是成功了。
+
+然后她走进了右边那间教室，我也跟着她进去了。里面就是间普通四四方方的教室。感觉是在考试。我们坐在教室很后面的位置，我大概是靠门第四列倒数第二排，她在我左边一列后面一排。我前面还有些别的空桌椅，但是正前方这列里都没有别人，右前方和general的后面余光里感觉有别的人，也有男生，但是都没怎么特别留意。因为我正前方这列里都没有别的人，所以我能直接看见坐在讲台右边的监考老师。是个女老师，不熟，不确定是不是以前认识的老师，没什么印象，但是我感知里觉得我不是很喜欢她。觉得她给我的印象更像是不好的宿管那种，而不是真的老师。
+
+我把我的手表（感觉应该是很久以前有过的也用过很久的手表，金属表带，很柔软但是如果按照一个特定方向折起来，可以把表带折成大概三角形结构，让手表立在桌上，以前考试前我为了方便看时间很多时候都会把手表这样立在面前一抬眼就能看见的地方）折起来立在面前。桌上有些考卷，但是我基本没在看考卷，大部分注意力都在观察我的手表指针，然后我看到指针里的秒针仍然是很紊乱的，时不时就会在到40秒左右的地方突然往前跳了15秒，然后紊乱一会儿，然后又往回跳。我意识到我的时间紊乱问题仍然没好，我跟周围世界仍然是没对齐的。我就朝我左后方我的朋友转过去，有点无奈有点失望地想告诉她这件事，想说我们刚才费这么大劲做的协调对齐时间终究还是没成功。然后她把她的手表转过来给我看，我看到她的手表秒针也跟我的一样往前往后15秒地跳，也是紊乱的，但是紊乱得跟我的是一致的。所以我意识到我们两个互相之间时间sync了，所以刚才的对齐还是成功了的，但是我们两个跟剩下的世界还是没对齐。我们想跟监考老师说这件事，说我们的时间是错的，要是考试时间按照世界时间来算对我们就不公平。但是就算我们站起来说话，感觉那个监考老师也没注意到我们，没听见看见我们，我想象里从她的世界时间线来看，我们仍然都是好好坐着还在做考卷，因为我们时间没对齐所以她看不见我们现在的动作的。虽然知道这也是expected，还是觉得有点frustrated。
+
+下一个记得的场景，我拿到了一些录取通知，是UCSC和UCD的。我在那想这两个学校缩写分别对应的全名是什么，于是就在心里默念：“UC Santa Clara和UC Davies”（差点想成Santa Clause，因为最近在听的SPN ASMR里有这句台词，最近反反复复听的次数实在太多了），然后觉得有点失望，因为我差点把SC和D混起来看错成SD了，然后意识到不是以为的UCSD。我在想这两个在我想要去的theater或者writing的项目里不算很好，现在的时间也不好，我还要再等五年等visa事情都解决了以后才可以上，所以我就决定两个都不去了。（然后就醒了，醒的时候有音乐广播在放音乐，但是应该不是被音乐闹醒的，应该就是我自己醒了。）
 
 （以上中文翻译自以下英文原版）
 
@@ -43,4 +53,5 @@ She walked into that classroom, I walked in after her. It was like an exam happe
 
 I had my watch folded right before me on my desk. I got the exam paper spread out in front of me, but I was not paying much attention to the papers, mostly to the watch. And I notice the pointer for the second was still jumping ahead and back a lot, every time it was like jumping 15 seconds ahead, and a short while later moving back the time it jumped. I realized the time turbulence around me was possibly still messed up, I still had that time traveling/time turning disorder problem. I turned to her to my left-back side, a little desperate, wanted to tell her I still wasn't synced. But then I think she showed me her watch, was also jumping ahead and back about 15 seconds, and I realized we were synced, that's why she could stably still see me, but we weren't synced with the rest of the world. We wanted to raise attention to the teacher, wanted to say something about the time was wrong, but she didn't pay us much attention, as if we weren't there or weren't standing or talking. Which wasn't very unexpected, knowing our time wasn't synced with the world.
 
-Cut to I got some admission result, and I got two offers from UCSC and UCD, I think the program was something like theater or writing. I was trying to remember what those two school names' full names were, so I was reciting to myself: "UC Santa Clause and UC Davies", and I remember feeling a bit disappointed, because I realized it wasn't UCSD that I thought it was, apparently I confused those two with letters being so similar to UCSD, but they were not what I wanted. I remember thinking those two weren't really good schools for the programs I wanted to go, and then thinking the timing wasn't really good anyway, my original plan would be wait for another five years when the visa problem was finally solved to go, so I decided to not take either of the offers. (Then I woke up naturally, the radio station was playing music in the background, but it wasn't the sound that woke me up, I woke up by myself.)
+Cut to I got some admission result, and I got two offers from UCSC and UCD, I think the program was something like theater or writing. I was trying to remember what those two school names' full names were, so I was reciting to myself: "UC Santa Clara and UC Davies" (almost said Santa Clause because I listened to that transcription from my recent ASMR over and over again for way too many times), and I remember feeling a bit disappointed, because I realized it wasn't UCSD that I thought it was, apparently I confused those two with letters being so similar to UCSD, but they were not what I wanted. I remember thinking those two weren't really good schools for the programs I wanted to go, and then thinking the timing wasn't really good anyway, my original plan would be wait for another five years when the visa problem was finally solved to go, so I decided to not take either of the offers. (Then I woke up naturally, the radio station was playing music in the background, but it wasn't the sound that woke me up, I woke up by myself.)
+
