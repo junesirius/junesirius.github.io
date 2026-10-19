@@ -4,7 +4,7 @@ title: 【Destiel】You see me
 date: 2026-10-07 03:07
 categories: ["SPN"]
 characters: ["Dean Winchester", "Castiel"]
-tags: ["Supernatural", "destiel", "英文", "心理", "情感", "被爱", "被看见", "哀悼"]
+tags: ["Supernatural", "destiel", "英文", "心理", "情感", "被爱", "被看见", "亲密关系", "哀悼"]
 pov: 第一人称
 origin: S15E18 6th anniversary
 ---
