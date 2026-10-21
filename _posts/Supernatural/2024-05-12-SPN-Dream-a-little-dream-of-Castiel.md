@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SPN】Dream a Little Dream of Castiel
+title: 【Cas】Dream a Little Dream of Castiel
 date: 2024-05-12 17:07
 categories: ["SPN"]
 characters: ["Castiel"]
