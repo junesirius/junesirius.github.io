@@ -6949,4 +6949,18 @@ I guess I never told you
 
 I am so happy that you're mine
 
-### 51
+### 514.【destiel】S05E04 2014!Cas as a mortal can still see Dean's soul
+
+How does 2014!Cas as human so quickly tell 2009!Dean isn't the now Dean?
+
+He can still see Dean's soul through his eyes. He's mortal but he still sees/knows Dean to the soul
+
+Which means he can also see 2014!Dean's soul. See how it ages and battered and broken and pained. But even that doesn't scare him away. He knows how much Dean's soul has changed and dimmed from old time, he still loves him for that.
+
+But when 2009!Dean comes, 2014!Cas gets so blinded by the dazzling untarnished bright light of his soul, he hasn't seen that bright soul for five years now, so he's mesmerized and can't move his eyes away and "I like the old you". He's helplessly attracted to Dean without his own control (and he didn't want to control it at all anyway)
+
+2014!Cas would let 2009!Dean know this at some point.
+
+which means S09E03 human!Cas can also still see Dean's soul. So when Dean comes to look for him at Gas N' Sip, Cas can also see the light and hope and yearning in Dean's soul, that's why he'd agree to go to the case with him and later in S09E06 he'd go to case by himself because he thinks Dean likes to see him working the job and he likes making Dean see what he expects him to be.
+
+### 515.
