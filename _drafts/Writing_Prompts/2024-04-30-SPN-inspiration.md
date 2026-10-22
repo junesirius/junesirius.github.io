@@ -6985,4 +6985,16 @@ Mary has to help Dean to figure out how to bring Cas back. (Crowley helps too, m
 
 Mary fully treats Cas like one of her sons + son-in-law. Maybe Dean still wouldn't tell Cas how much he means to him with Cas back, but Mary would tell Cas what she sees, what Dean's like when Cas isn't around, Mary gets surprised that Cas/Dean aren't together. Mary helps them together as her penance/remedy for causing Dean pain and for killing Cas. Dean might still have difficulty forgiving Mary but Cas would already forgive her, then slowly they'd try to heal the trauma and work on that forgiveness. Dean might initiate a very small thing as his first step to thank Mary. And Mary is relieved and glad and that first step is a good enough start for her.
 
-### 516.
+### 516.【destiel】what if Metatron's pop culture download is like pirate movies with wrong/bad/confusing commentaries
+
+What id the books/movies downloaded to Cas's head by Metatron are all from Metatron's interpretation/annotation. Everyone reads/watches things and remembers them from their perspectives and their own personal takes.
+
+What if that's the case with Cas's angelic pop culture download, except they're all skewed/tainted by Metatron's personal input, and Dean finds out about it when they get into conversation later with references and Cas gets it weird and wrong because Metatron got it weird and wrong, and Dean has to reeducate/reintroduce him to these things.
+
+"Is there a way to wipe those? It's even worse than not knowing. You're like human brain downloaded with pirate versions of those movies with weirdass commentaries."
+
+"Dean. You only watch pirate versions. But... actually that's not too far from what's happening in my head."
+
+There might be viruses downloaded in his head too? Something bad from Metatron, some thoughts he embedded in Cas's head, trying to infect him even when Metatron is gone. They find out and they'll have to get rid of that from Cas's head, but worry about affecting Cas's normal memory. Maybe they'll have to walk into Cas's head again. (Something I already wrote about in "Glimpses Amid Tears")
+
+### 517.
