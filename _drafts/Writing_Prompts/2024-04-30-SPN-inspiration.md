@@ -6913,4 +6913,40 @@ In the midnight you wake up and hear white noise and see light flickering, what 
   - If Mary comes alone => Mary die
   - If John/Mary come together => can decide how long to fight and who to live/die
 
-### 513.
+### 513.【destiel】《Always on My Mind》（Lyrics）
+
+(by Pet Shop Boys)
+
+Maybe I didn't treat you / Quite as good as I should
+
+Maybe I didn't love you / Quite as often as I could
+
+Little things I should have siad and done
+
+I never took the time
+
+You were always on my mind
+
+
+
+Maybe I didn't hold you / All those lonely, lonely times
+
+And I guess I never told you / I am so happy that you're mine
+
+If I made you feel second best / I'm so sorry I was blind
+
+You were always on my mind
+
+
+
+Tell me, tell me that your sweet love hasn't died
+
+Give me / One more chance to keep you satisfied
+
+You were always on my mind
+
+I guess I never told you
+
+I am so happy that you're mine
+
+### 51
