@@ -6963,4 +6963,26 @@ But when 2009!Dean comes, 2014!Cas gets so blinded by the dazzling untarnished b
 
 which means S09E03 human!Cas can also still see Dean's soul. So when Dean comes to look for him at Gas N' Sip, Cas can also see the light and hope and yearning in Dean's soul, that's why he'd agree to go to the case with him and later in S09E06 he'd go to case by himself because he thinks Dean likes to see him working the job and he likes making Dean see what he expects him to be.
 
-### 515.
+### **515.【destiel】S12E12 what if Cas really dies**
+
+What if Cas really dies (Crowley didn't figure it out in time), May witness Dean grieve
+
+Sam: Dean's just like how John grieved Mary (Mary assumed Dean and Cas are already together, this just further proved it for her)
+
+Dean can't hate Mary but he can't *not* hate Mary either.
+
+Mary hates himself, realizing what she's done, how much losing Cas hurts Dean.
+
+They find out about BMOL, Dean takes it all out on it.
+
+Dean acts/looks like S12E23 all the time after Cas's gone, look like the world is dead to him.
+
+Dean tries to kill himself in a case similar to S13E05 again.
+
+Mary tries to talk to Dean, tries to let him see the light and find will to live again, but Dean doesn't have that without Cas.
+
+Mary has to help Dean to figure out how to bring Cas back. (Crowley helps too, maybe Mick helps too, BMOL still in picture, Ketch might do something too; this fic is gonna have too many Brits since it's in S12.) S15 Cas manages to make himself almost die to go into Empty to talk to dead Ruby, so maybe they can make some angel/demon (e.g. Crowley) "almost die" to go to Empty to find Cas and wake him up and take him back.
+
+Mary fully treats Cas like one of her sons + son-in-law. Maybe Dean still wouldn't tell Cas how much he means to him with Cas back, but Mary would tell Cas what she sees, what Dean's like when Cas isn't around, Mary gets surprised that Cas/Dean aren't together. Mary helps them together as her penance/remedy for causing Dean pain and for killing Cas. Dean might still have difficulty forgiving Mary but Cas would already forgive her, then slowly they'd try to heal the trauma and work on that forgiveness. Dean might initiate a very small thing as his first step to thank Mary. And Mary is relieved and glad and that first step is a good enough start for her.
+
+### 516.
