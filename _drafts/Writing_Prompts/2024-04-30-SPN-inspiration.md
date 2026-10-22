@@ -4640,7 +4640,7 @@ Dean willing to self-sacrifice to save Cas, Jack to Dean: **"I already lost one 
 
 Dean timetravel back to warn Mary don't get out of bed that night, what if she remembered, or just canon-wise John didn't sleep in sofa before TV that night, John's woken by Sam's cry or Mary asked John to go, anyway, John goes to Sam, runs into Azazel, John fights Azazel before Sam is fed demon blood, what will happen next?
 
-(someone else already wrote this, canon divergent from S01E01 rewrite the whole show: [Let it Be](https://archiveofourown.org/works/8606395) and very well-written, and it's destiel fic)
+(someone else already wrote this, canon divergent from S01E01 rewrite the whole show: [Let it Be](https://archiveofourown.org/works/8606395) and very well-written, and it's destiel fic; ≈ prompt 512)
 
 ### 379.【destiel】old man destiel ideas
 
@@ -6880,4 +6880,37 @@ Mary brings John back to bunker, gives him some talk to prepare him for the chan
 
 Then Cas comes back, act very comfortably around Dean. John wants to comment but he asks Mary first, Mary talks him through to make him understand/accept, say Dean's happy around Cas. John observes and finds out Mary's right, Dean's so relaxed with Cas. So when Dean gets nervous again when he realizes John caught him in the middle of a very comfortable, close interaction with Cas (could be just the two of them watching movie together in the Dean Cave and maybe share popcorn or something). Dean gets tense, but John surprises him by saying his support. Dean's almost suspect John's possessed or fake or illusion, Mary appears to support and explain. John accepts Cas (for Mary's sake). They're a happy family and they're going to work together to figure out the next tough thing (find Kelly).
 
-### 512.
+### 512.【all】if S01E01 is a RPG game
+
+(inspired by destiel fic [Let it Be](https://archiveofourown.org/works/8606395) where Mary is the one survive, ≈ prompt 378)
+
+there could be many directions for how the S01E01 events (the one when Sam's six months old and Azazel feeds him blood and John/Mary/Dean might find him, and some of them might burn in fire) would turn out/change, who would survive, depending on every one of them making their choices, kinda like a RPG game with all of them being a character
+
+In the midnight you wake up and hear white noise and see light flickering, what do you do:
+
+- If you are Dean:
+  - If you check on Sam and see an adult near the cub:
+    - If you run to him => Dean dies
+    - If you think it's your dad and go back to your room => depend on John/Mary's choices
+      - If no one intervenes => Sam turn into complete full-on demon
+    - If you go to get your mom or dad => depend on John/Mary's choices
+  - If you stay on the bed => depend on John/Mary's choices
+- If you are John:
+  - If you wake up before the TV by yourself, or Dean wakes you up:
+    - If you ignores the signals because you don't know about monster => depend on Mary's choice
+    - If you're waken by Dean and ignores him => depend on Dean's choice
+      - If Dean run to demon by himself => Dean dies
+      - If Dean goes to get Mary => depend on Mary's choice
+    - If you run to demon => John dies, Mary has to raise to kids ("Let it be")
+    - If you go get Mary to face demon together => depend on Azazel's choice, one of John/Mary may die or maybe all of you live and start hunting together, or too slow and Sam gets turned full-on demon (or roll dice to find your luck)
+- If you are Mary:
+  - If you wake up by yourself, or Dean wakes you up:
+    - If you check on Sam alone => Mary dies (canon)
+    - If you find John downstairs and wake him up and go to Sam together => a chance to all survive, depend on Azazel's choice (or roll dice to find your luck)
+- If you are Azazel:
+  - If Dean come to you alone => you can decide if you kill him/let him live/mute him/turn him too
+  - If John comes alone => John die
+  - If Mary comes alone => Mary die
+  - If John/Mary come together => can decide how long to fight and who to live/die
+
+### 513.
