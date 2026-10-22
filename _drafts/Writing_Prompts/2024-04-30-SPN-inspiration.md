@@ -6997,4 +6997,34 @@ What if that's the case with Cas's angelic pop culture download, except they're 
 
 There might be viruses downloaded in his head too? Something bad from Metatron, some thoughts he embedded in Cas's head, trying to infect him even when Metatron is gone. They find out and they'll have to get rid of that from Cas's head, but worry about affecting Cas's normal memory. Maybe they'll have to walk into Cas's head again. (Something I already wrote about in "Glimpses Amid Tears")
 
-### 517.
+### **517.【destiel】猫身猫面像**
+
+inspired by cat picture in qzone, just a normal cat, but sit straight and has a serene look, almost look like an Egyptian sculpture in front of Pyramid, like all those other different sculptures with different creature heads and bodies
+
+there's a Pharaoh (Cas, "I'll interrogate the cat") who loves cats so much that he made a cat-head cat-body (just cat) sculpture for himself (Egyptian setting again)
+
+others would think he's so weird, the future historian and architects would think this so weird
+
+it'd be even weirder when they realize he's still alive
+
+maybe Dean's the future historian/architects/adventurist/explorer who visits this "tomb" with this weirdass sculpture, but turns out to be Cas's hermit dormitory, hiding in there because he doesn't want to continue bother with the fight the external war, pretending to be dead to get peace and doesn't know how much thousand years has passed
+
+the tomb has its built-in mechanisms to protect it against any tomb-thieves, so the other explorers coming with Dean all get tripped over by those mechanisms, all almost die or scared and leave, but Dean survives all those and gets inside and find Cas, both get so surprised (Cas didn't build these mechanisms and don't like the idea those would harm people, but that's the tradition and that fits his status, others build them for him when constructing the tomb, he has to fake death so he doesn't get much say about it, so it remains there)
+
+Dean would mock him for the cat sculpture he puts out there
+
+Cas: "I'm a king, you should show me some respect"
+
+Dean show Cas around the new world, Cas tell him about things of the old world. slow burn, get to know each other, fall for each other, get attracted by each other, get together
+
+Cas: "The world has become a better place than thousands of years ago"
+
+Dean: "You sure about that?"
+
+Cas: (look at Dean) "Without a doubt"
+
+they'll have at least a cat together when they start living the modern domestic life
+
+Dean will help make sure Cas's sculpture doesn't get affected by more explorers/adventurers/etc., but Cas doesn't care much anymore, he already gets a real cat that he's gonna raise together with Dean, why would he worry about a stone cat still?
+
+### 518.
