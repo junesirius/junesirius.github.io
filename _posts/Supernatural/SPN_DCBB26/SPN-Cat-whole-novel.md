@@ -63,7 +63,7 @@ Then one day things get too intense in real world and Cas accidentally talks as 
 
 Dean's scared of him for a bit, thinking he's a monster he doesn't know, but also still keep as secret from John, protect Cas from John and other dangers intuitively. So kinda more like arguing time, not real stranger time. And Dean decides to accept him whatever he is, they're back to normal.
 
-~~Then Cas asks Dean what he feels if he's not a cat. Also still can't tell him why he's asking, just want to know. Dean decides he'll accept him as any form. Cas thanks him.~~ (hint angel, foreshadowing human form)
+~~Then Cas asks Dean what he feels if he's not a cat. Also still can't tell him why he's asking, just want to know. Dean decides he'll accept him as any form. Cas thanks him.~~ (hint angel, foreshadowing human form, maybe skip, a bit forced)
 
 Things happen normally and the boys grow up. Cas be there for them all the time (unless he's unavailable and has to go find another vessel). (There will be time in the middle when Dean gets fed up with Cas and yells at him and says doesn't want him anymore and Cas leaves. Then Dean feels awful, and asks for Cas to come back, and Cas comes back.)
 
@@ -89,7 +89,9 @@ Dean thinks most of time it's just dream, until one time something gets really t
 
 Dean's scared of him for a bit, thinking he's a monster (again) that he doesn't know, but also still keeps this as a secret from John, protects Cas from John and other dangers intuitively. So kinda more like arguing time, not really fighting or enemy/stranger time. And finally Dean decides to accept him whatever he is, they're back to normal.
 
-Then Cas asks Dean what he'd feel if he's not a cat, but can't tell him why he's asking, just want to know. Dean decides he'll accept him as any form. Cas thanks him.
+~~Then Cas asks Dean what he'd feel if he's not a cat, but can't tell him why he's asking, just want to know. Dean decides he'll accept him as any form. Cas thanks him.~~
+
+John knows about cat being weird/monster-like, force take it away from Dean and shoots him regardless of his protest (Japanese folk lore: black cat "**Bakeneko**" (bad, believed to take its power when cutting its tail, can bewitch human, power come from Moon, should kill on the spot when cat looks up at the Moon) or "**Kuroneko**" (good)), Dean devastated and hates John, protest by not talking/eating, make himself ill. John leaves Dean at Bobby's, cat comes to Bobby's. something happens, cat saves Dean, Bobby vouch for cat (assumed he's **Kuroneko**)
 
 Things happen mostly normally and the boys grow up. Cas be there for them all the time (unless when he's dead and before he comes back, Dean still mourns every time).
 
@@ -150,6 +152,102 @@ Meg to Dean: "You name your cat Cas? That's cute." Dean: "I didn't *name* him an
 15. S01-S03 timeline, Sam/Dean hunt with Cas, Cas try to save Dean from the deal (rewrite some key episodes: S02E22, S03E01, S03E16; S01E09 Missouri senses Cas)
 16. Hell, Cas be there with Dean, Dean breaks for Cas, Cas flies Dean out of Hell, saves him
 17. S04E01, Dean looks for Cas, seance; Cas come back as human (best friend lost & back), Dean doesn't accept him as human for a bit, assume cat form (get too used to it); Cas: "It's still me. Please see me." (DW 11th), Cas consider take cat form again (but apocalypse coming, he's allowed to take human form now, and it's more convenient to talk/move/save them in human form), Dean accept him, they hug
+
+### Folklore
+
+#### Black cat (western)
+
+(source: wiki)
+
+Most black cats have golden irises due to their high melanin pigment content.
+
+Often associated with witches and good or bad luck in European folklore
+
+A cat having black fur with white roots is known as a "black smoke".
+
+Black cats can also "rust" in sunlight, the coat turning a lighter brownish-red shade.
+
+Positive omen in Britain and Ireland (Celtic nations).
+
+Black cats historically considered bad luck in Europe. Often a symbol of Halloween or witchcraft. The association with witchcraft likely comes from Pope Gregory IX describes a demonic ritual involving a black cat.
+
+Sailors keep a black "ship's cat" for good luck. Fishermen's wives keep black cats at home to protect their husbands at sea.
+
+#### Bakeneko (Japanese, bad)
+
+(source: monster wiki)
+
+Japanese = "Monster Cat"
+
+a cat with supernatural abilities akin to the kitsune or tanuki.
+
+a cat may become a bakeneko in a number of ways: it may reach a certain age, be kept for a certain number of years (more than 12-13 years), grow to a certain size, belong to a deceased person, or be allowed to keep a long tail. A cat may also become a bakeneko in order to aid a human to whom it owed a favor.
+
+A bakeneko might resemble an ordinary cat, except walking about on two feet. It could also take the form of a human, and sometimes it was said to have three or seven tails. When the tail forks in two, the bakeneko is then called a nekomata (猫又, "forked cat")
+
+A bakeneko will haunt any household it is kept in, creating ghostly fireballs, menacing sleepers, walking on its hind legs, changing its shape into that of a human, and even devouring its own mistress in order to shapeshift and take her place. If allowed into a room with a fresh corpse: they're believe to be capable of reanimating a body by jumping over it.
+
+folklore story of a bakeneko belonged to man named Takasu Genbei, the pet cat of many years went missing just as his mother's personality changed completely, he finds her mom's bones hidden under tatami mats, gnawed clean of flesh (cat eats his mother and takes her form)
+
+(source: wiki)
+
+cat characteristics: eye pupils change shape depending on the time of day, their fur can seem to cause sparks when they are petted, they sometimes lick blood, they can walk without making a sound, their wild nature that remains despite the gentleness they can show, they are difficult to control, their sharp claws and teeth, nocturnal habits, their speed and agility.
+
+It is said that a cat raised for seven years or longer will kill the one that raised it. Depending on the area, there are stories in which cats that were brutally killed by humans would become bakeneko and curse that human/revenge against cruel humans.
+
+Abilities: **shapeshift into humans**, wear a towel or napkin on the head and dance, **speak human words**, curse humans, manipulate dead people, **possess humans**, lurk in the mountains and take wolves with them to attack travelers.
+
+Folk belief that cats with long tails like snakes could bewitch people. In some areas, it is said that a cat that had been raised by humans for three years would start bewitching them. Their ability to bewitch humans is said to come from taking in the spiritual energy of the Moon, it is said that when a cat looks up at the Moon, it should be killed on the spot, whether its tail has been cut or not.
+
+(my note: if it's similar to kitsune, can kill by stabbing through heart)
+
+#### Nekomata (Japanese, bad)
+
+(source: wiki)
+
+Japanese = "Forked cat", 猫又
+
+Two very different types: those that live in the mountains and domestic cats that have grown old and transformed into yokai
+
+Different from bakeneko: Nekomata have multiple tails, bakeneko have one. Bakeneko are often seen as mischievous and playful, nekomata far more malicious.
+
+A nekomata may become a bakeneko after living a bit longer, but sometimes this order of transformation is reversed. (from monster wiki)
+
+Mountain nekomata: "They have eyes like a cat, and have a large body like a dog." said to have killed and eaten several people in one night. Shapeshift into humans. Their roar echoes throughout the mountain, they can be seen as big as a lion or leopard.
+
+Domestic nekomata: Pet cats grow old, transform, and eat and abduct people. Domestic cats turn into nekomata as they grow old, mountainous nekomata are cats that have run away to live in the mountains. May cause poltergeist activities.
+
+In Japan, cats are often associated with death, and this particular spirit is usually blamed. Nekomata is said to have powers of necromancy, and upon raising the dead, will control them with ritualistic dances, gesturing with paw and tail. They are associated with strange fires and other inexplicable occurrences. The older and more abused a cat is before its transformation, the more power the nekomata is said to have. To gain revenge against those who wronged it, the spirit may haunt humans with visitations from their deceased relatives. Some tales state that these demons, like bakeneko, assume human appearances, usually appearing as older women, misbehaving in public, and bringing gloom and malevolence wherever they travel. Due to these beliefs, sometimes kittens' tails were cut off based on the assumption that if the tails could not fork, the cats could not become nekomata.
+
+Nekomata have been considered devilish. Lore comes from fears and folk beliefs such as the dead resurrecting at a funeral or that seven generations would be cursed due to killing a cat. As carnivores, cats have a keen sense of detecting the smell of rot, so it was believed that they had a habit of approaching corpses (lore says they steal corpses sometimes).
+
+(my note: take its power by cutting its tails)
+
+#### Maneki-neko (Japanese, good)
+
+(source: wiki)
+
+Japanese = "Beckoning Cat", sometimes referred to as "lucky cats", or "calling cats"
+
+common Japanese figurine which is often believed to bring good luck to the owner
+
+common colors are white, black, red, and gold
+
+folklore stories: a cat brought prosperity to the temple; a cat help a warlord turn the tide and win the war; a cat come to old poor woman's dream telling her to make an ornament of the cat and be blessed with good luck; woman cut off pet cat's head due to rumour of her bewitched by a demonic cat but the cat's severed head bit a giant snake, saving her life; an impoverished shop operator took in a starving stray cat, cat sat in front of the store to beckon customers, bringing prosperity as a reward to the charitable proprietor.
+
+Beliefs: beckon customer into shops, bring good fortune and prosperity into households, an embodiment of "fertile, life-enhancing feline energies"
+
+#### Kuroneko (Japanese, good)
+
+Japanese = "Black Cat" (kuro=black, neko=cat)
+
+(1968 Japanese horror movie title, movie about tragic victim turn into vengeful spirits that take forms of black cats to revenge (actually good sad movie))
+
+(source: plato pet treats .com)
+
+symbol of good luck, prosperity, protection, romance
+
+believed to: repel evil spirits, demons, negative energy from household, ward off evil; protect against illness, good for health and healing; help single women attract sincere and high-quality romantic partners, good for romance and suitors; sailors kept black cats aboard ships to ensure safe passage and calm seas, as sailor guardians
 
 ### Claim
 
@@ -1019,8 +1117,6 @@ He closes the door behind him, still holding Cat in his arms because no way is h
 > Dean's scared of him for a bit, thinking he's a monster (again) that he doesn't know, but also still keeps this as a secret from John, protects Cas from John and other dangers intuitively. So kinda more like arguing time, not really fighting or enemy/stranger time. And finally Dean decides to accept him whatever he is, they're back to normal.
 >
 > Then Cas asks Dean what he'd feel if he's not a cat, but can't tell him why he's asking, just want to know. Dean decides he'll accept him as any form. Cas thanks him.
->
-> John knows about cat being weird/monster-like, force take it away from Dean and shoots him regardless of his protest (Japanese folk lore: black cat "Bakeneko" (bad, believed to take its power when cutting its tail, can bewitch human, power come from Moon, should kill on the spot when cat looks up at the Moon) or "Kuroneko" (good)), Dean devastated and hates John, protest by not talking/eating, make himself ill. John leaves Dean at Bobby's, cat comes to Bobby's. something happens, cat saves Dean, Bobby vouch for cat (assumed he's Kuroneko)
 >
 > Things happen mostly normally and the boys grow up. Cas be there for them all the time (unless when he's dead and before he comes back, Dean still mourns every time).
 >
