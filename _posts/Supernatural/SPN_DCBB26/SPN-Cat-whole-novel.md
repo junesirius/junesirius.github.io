@@ -10,7 +10,7 @@ origin: 2026 DCBB
 published: false
 ---
 
-**Tags:** John Winchester's A+ Parenting, Kid Fic, Kid Dean, Five-year-old Dean, Baby Sam, One-year-old Sam, Weechesters, Dean has never seen a cat before, Cat is not really a cat, I didn't know Cas is gonna be in this story before writing down the first word but he is, I didn't know it's gonna be a destiel story before started writing but it is, Hunger is a constant theme, Childhood trauma warning,  But could have been worse, Cat helped, Main Character Temporary Death, Case Fic, Growing Up, Slow Burn, Cat Castiel, Prayers, Canon Divergent, Eventual Hopeful Ending
+**Tags:** John Winchester's A+ Parenting, Kid Fic, Kid Dean, Five-year-old Dean, Baby Sam, One-year-old Sam, Weechesters, Dean has never seen a cat before, Cat is not really a cat, Hunger is a constant theme, Childhood trauma warning,  But could have been worse, Cas helped, Main Character Temporary Death, Case Fic, Canon-Typical Violence, Growing Up, Slow Burn, Cat Castiel, Prayers, Minor Angst, Platonic Love, Canon Divergent, Eventual Hopeful Ending
 
 **Pairing:** Castiel & Dean Winchester, Castiel/Dean Winchester
 
@@ -29,49 +29,49 @@ published: false
 - Cas: find out he's falling for Dean, gradually realize he's willing to rebel for Dean (before S04)
 - Dean: grow up; find out what Cas really is, gradually to learn about Cas; grow to learn to take care of himself, not focusing everything on Sammy as he's taught to
 - Sam: grow up; learn what he wants, get out of life
-- John: grow older; think he's always protecting boys
+- John: grow older; try his best to protect boys from real danger but screw up bad, don't know how to love, love too much it hurts them, handle fear
 
 #### main theme
 
-"The way I see it, every life is a pile of good things and bad things. The good things don't always soften the bad things, but vice versa, the bad things don't necessarily spoil the good things and make them unimportant." (DW S05E10 Van Gogh)
+**"The way I see it, every life is a pile of good things and bad things. The good things don't always soften the bad things, but vice versa, the bad things don't necessarily spoil the good things and make them unimportant."** (DW S05E10 Van Gogh)
 
-Because Cas was there, Dean doesn't have to take everything on his shoulder. He gets to take care of himself a bit more, or allow himself to be taken care of or loved by others. So that taught him the lesson that he's deserved and loved before the self-unworthiness thought gets too deep. Because Cas was there, Dean's a little bit less messed up.
+Because Cas was there, Dean doesn't have to take everything on his shoulder. He gets to take care of himself a bit more, or allow himself to be taken care of or loved by others. So that taught him the lesson that he's deserved and loved before the self-unworthiness thought gets too deep. **Because Cas was there, Dean's a little bit less messed up.**
 
 #### world setting
 
-angels, demons, monsters exist, but the hunters only know about demons/monsters, don't know about angels until 2008 Cas comes
+angels, demons, monsters exist, but the hunters only know about demons/monsters, don't know about angels until 2008 Cas comes (=canon)
 
-Cas/angel/Heaven rule: can't let them know about angels, can't interfere, can't show them his ability, can't make noticeable changes that risk him being found out by Heaven, will have punish (but Cas will gradually rebel a little for them to break the rule to help them where necessary and where he can find the loophole of the rule)
+Cas/angel/Heaven rule: can't let them know about angels, can't interfere, can't show them his ability, can't make noticeable changes that risk him being found out by Heaven, will have punishment if found (but Cas will gradually rebel a little for them to break the rule to help them where necessary and where he can find the loophole of the rule)
 
-Cas can't use his powers or he'd be found, but he can probably use other ways to help
+Cas can't use his powers or he'd be found, but he can probably use other ways to help (he'll still try, and he'll get punished)
 
 cat rule: cat has 9 lives (so Cas comes back 8 times between 1984-2008, the last one he jumps into Hell with Dean)
 
 #### Cas POV
 
-Cas as an angel knows he's assigned to be Dean's guardian angel but not allowed to go to Earth or take human vessel or let them know angels are real until he's allowed (until Dean's saved from Hell). But Dean accidentally prays to him and Cas hears and has to come to him, to not violate the order, he comes in Cat vessel and not allowed to demonstrate and super power, but he's allowed to protect them as any cat will.
+Cas as an angel knows he's assigned to be Dean's guardian angel but not allowed to go to Earth or take human vessel or let them know angels are real until he's allowed/until time comes (until Dean's saved from Hell). But Dean accidentally prays to him (chap 1) and Cas hears and has to come to him, to not violate the order, he comes in Cat vessel and not allowed to demonstrate any super power, but he's allowed to protect them as any cat will.
 
-So Cas as cat, as all of angel's knowledge, emotion, intelligence, but not allowed to use or demonstrate angel power. If he's wounded, he has to let the wound heal naturally. If his vessel is killed, he has to leave the body and find another.
+So Cas as cat, has all of angel's knowledge, emotion, intelligence, but not allowed to use or demonstrate angel power. If he's wounded, he has to let the wound heal naturally. If his vessel is killed, he has to leave the body and find another.
 
 He considers interfering with their nightmares don't count as intervention, so he does that for them.
 
 He witnesses Dean/Sam grow up and accompanies them all the time as cat. (But his vessel is too vulnerable and dies a lot, he has to leave and finds new vessel to come back every time. Nothing is fatal, but he has to keep changing cat vessel.)
 
-Cas slowly grows in love with Dean and sometimes can't help himself want to talk to Dean for real. So show up as talking cat in Dean's dream, for easier communication, to let him get out all the frustrations and thoughts, to not have to bottle everything up. This is also where Cas can let Dean know his real name.
+Cas slowly grows in love with Dean (platonic) and sometimes can't help himself want to talk to Dean for real. So show up as talking cat in Dean's dream, for easier communication, to let him get out all the frustrations and thoughts, to not have to bottle everything up. This is also where Cas can let Dean know his real name.
 
 Then one day things get too intense in real world and Cas accidentally talks as cat, helps out the situation, but Dean gets puzzled/suspicious, confronts him, Cas as cat in real world has to admit he's the same in his dream, but he can't tell him yet what he is, or he'll have to leave him.
 
 Dean's scared of him for a bit, thinking he's a monster he doesn't know, but also still keep as secret from John, protect Cas from John and other dangers intuitively. So kinda more like arguing time, not real stranger time. And Dean decides to accept him whatever he is, they're back to normal.
 
-Then Cas asks Dean what he feels if he's not a cat. Also still can't tell him why he's asking, just want to know. Dean decides he'll accept him as any form. Cas thanks him.
+~~Then Cas asks Dean what he feels if he's not a cat. Also still can't tell him why he's asking, just want to know. Dean decides he'll accept him as any form. Cas thanks him.~~ (hint angel, foreshadowing human form)
 
 Things happen normally and the boys grow up. Cas be there for them all the time (unless he's unavailable and has to go find another vessel). (There will be time in the middle when Dean gets fed up with Cas and yells at him and says doesn't want him anymore and Cas leaves. Then Dean feels awful, and asks for Cas to come back, and Cas comes back.)
 
-Maybe this is also the process of Cas's rebellion. Cas as cat is because he strictly want to/need to follow the order, so he doesn't use human vessel, which violates the order. But he can show up as human in Dean's dream as human, which still uses the loophole, they interact as human form in dream where no one knows.
+Maybe this is also the process of Cas's rebellion. Cas as cat is because he strictly want to/need to follow the order, so he doesn't use human vessel, which violates the order. But he can show up as human in Dean's dream as human, which still uses the loophole, they interact as human form in dream ~~where no one knows~~. (Dreams aren't safe either, other angels monitor dreams, so even in dreams, Cas can't speak freely, but still more free than reality. Most times he's still in cat form in Dean's dream, but they'd talk about vessel in the dream sometimes, then Cas show as human vessel sometimes when Dean ask for too many times, but Cas is always stressed/worried, it's safer as cat, so Dean stops pushing.)
 
-Cas can't risk getting punished right now, or even getting noticed by management, because he can't risk not being the one to save Dean from Hell, because he knows this will always happen. And he lets hellhound tears his cat form when protecting Dean and goes to Hell with Dean (but Dean doesn't know). (This makes Cas go directly into Hell with Dean (and cat can go through veil easily), so it takes him less time to find Dean. Dean'd be less scared to be in Hell with Cas as cat being there with him. Demons torture Cas in front of him and Dean's suffered more than he gets tortured himself, so he still breaks the first seal. Dean finds the chance to break some binding sigil that stops Cas leaving the cat vessel, Cas comes out as true form, brings Dean back on Earth).
+Cas can't risk getting punished right now, or even getting noticed by management, because he can't risk not being the one to save Dean from Hell, because he knows this will always happen. And he lets hellhound tears his cat form when protecting Dean and goes to Hell with Dean (but Dean doesn't know). (This makes Cas go directly into Hell with Dean (and cat can go through veil easily), so it takes him less time to find Dean. Dean would be less scared to be in Hell with Cas as cat being there with him. Demons torture Cas in front of him and Dean's suffered more than he gets tortured himself. But as much as he wants to give in to Alastair to save Cas, Cas desperately tells him don't, Dean doesn't want to disappoint him so he doesn't (this Dean also has less self-hatred than canon Dean because he grows up with Cas). Dean finds the chance to break some binding sigil that stops Cas leaving the cat vessel, Cas comes out as true form, brings Dean back on Earth; leave handprint, same as canon).
 
-Converge back to canon, Dean wakes up but Cas wipes his Hell memory, Dean only remembers Cas's angel grace form, wants to find the cat but can't, goes to Pamela for Seance but already knows name and other info, just to ask Cas to come back, whichever form. Pamela passes words about time/address to meet. S04E01 barn, Cas comes in as human. Dean hugs him like he's known him all his life because he has. It feels so good to touch him as a human, though Dean misses the cat form too. They'll skip the getting familiar part and go to save Apocalypse together.
+Converge back to canon, Dean wakes up in his own grave, cat not there, only a little bit of car fur next to him, Cas wiped/suppressed his Hell memory to protect him (put behind a wall, blocked out), Dean only remembers Cas's angel grace form, wants to find the cat but can't, goes to Pamela for Seance but already knows name and other info, just to ask Cas to come back, whichever form. Pamela passes words to Cas in Veil about time/address to meet (without looking at him, not burned out her eyes). S04E01 barn, Cas comes in as human. Dean isn't used to his human form for a bit (get too used to the cat form), Cas: "It's still me. Please see me." (=DW 11th to Clara. Cas consider taking cat form again, but easier to fight Apocalypse in human form). Dean accepts him, hugs him like he's known him all his life because he has. It feels so good to touch him as a human, though Dean misses the cat form too. They'll skip the getting familiar part and go to save Apocalypse together.
 
 #### Dean POV
 
@@ -99,29 +99,45 @@ When Sam's in college and John's solo hunting, Dean's hunting with cat!Cas; when
 
 Then converge to canon S03 Dean has the one-year deal and hell hounds come for him. Cas protect him but can't fight them off as cat, Dean asks Sam to take care of cat, but Cas lets hellhounds tear him apart too to distract them from hurting Dean too much, jumps into Hell with Dean (but Dean doesn't know the last part).
 
-Dean in Hell sees the cat but doesn't know if he's hallucinating or not. Demons have ways to confine vessel with angel, so Cas can't talk or escape the vessel like he planned to, but Dean recognizes him. Dean gets tortured but stays strong because he knows Cas is there to keep him hope, then Alastair starts torturing Cas, Dean gives in. Then Dean finds chance to unbind Cas, Cas escapes cat form and flies Dean out of Hell.
+Dean in Hell sees the cat but doesn't know if he's hallucinating or not. Demons have ways to confine vessel with angel, so Cas can't talk or escape the vessel like he planned to, but Dean recognizes him. Dean gets tortured but stays strong because he knows Cas is there to keep him hope, then Alastair starts torturing Cas, Dean fights harder for Cas than for himself (Dean doesn't give in because Cas wants him strong, and he stays strong for him, just like he used to believe Mary wants him strong). Then Dean finds chance to unbind Cas, Cas escapes cat form and flies Dean out of Hell.
 
 Back on Earth, Dean wakes up but Cas wipes/covers/masks his Hell memory, Dean only remembers pieces of his cat screaming. Dean goes to Bobby/Sam to look for cat and knows it's not hallucination that Cas's been with him in Hell. Dean goes to Pamela for Seance but already knows name and other info, just to ask Cas to come back, whichever form. Pamela passes words about time/address to meet. S04E01 barn, Cas comes in as human. Dean hugs him like he's known him all his life because he has. It feels so good to touch him as a human, though Dean misses the cat form too. They'll skip the getting familiar part and go to save Apocalypse together.
 
 #### John POV
 
+(TODO: Add more actual John POV real case fic content, add plot point, fill in blanks, why John does what he does, he actually always has good reasons, when does he find out about Sam's demon blood and demons chasing them, what's actually happening in the background that John has been protecting them from, even though his way hurts them; he has tried his best protecting them from things even worse and death; he'd rather them survive and hate him than love him and die, but he could have done so much better if he tries. He's too broken after Mary to do the right things.)
+
 John's awful but only because there're demons trying to get to the boys. He wants to avenge Mary, but also mainly to keep the boys alive, so he doesn't have luxury to care about other things, including food, school, mental health.
 
 He trains them, offers other things the best he can manage but usually not good enough. The times he's away because he has to get drunk to handle or PTSD or have case leads that he needs to follow up to solve the hunting.
 
-He's alerted to cat but Dean insists so he gives into keep him, but claims as soon as cat acts suspicious he'd act. Cas as cat consistently protects the boys, so John allows it to live with them.
+He's alerted to cat but Dean insists so he gives in, allow Dean to keep him, but claims as soon as cat acts suspicious he'd act. Cas as cat consistently protects the boys, so John allows it to live with them.
 
 Not much difference about the rest for John. (Not focus on him, don't depict too godawful, just reasonably awful with good reason)
 
-#### main plot points about cat
+#### Demon POV
+
+(Meg, Azazel, Alastair)
+
+There are demons in the story during their grow-up, earlier than S01. Meg is already there (the demon when Sam's 14 is Meg).
+
+Meg recognizes cat!Cas is not a cat, fear/curious about him.
+
+Demons never see an angel for two thousand years, so Meg doesn't recognize Cas is an angel, just can sense/see he's different. But Azazel does.
+
+Azazel/Meg catch Cas during S02E022, so when Dean thinks Sam is dead and Cas isn't there to help him, he has no other way, so he makes the deal. (or Cas is there but trapped by demons, can see Dean but can't do anything, Dean doesn't see him. or Azazel exorcises Cas (like Alastair in S04) back to Heaven, so Cas is trapped in Heaven during the time Dean makes the deal.) When Cas comes back in S03E01, Dean's already made the deal
+
+Meg to Dean: "You name your cat Cas? That's cute." Dean: "I didn't *name* him anything. That *is* his name."
+
+#### main plot points about cat (17 points)
 
 (extended ideas, changed the initial setting, adding a story arc about Dean/Cas relationship, giving Cas more sensible part and communication ability and ways to express himself)
 
 1. Cas helps with nightmare
-2. Cas helps with case, dies, comes back as another cat (makes kid Dean wants to be a vet in the future)
+2. Cas helps with case, dies, comes back as another cat (makes kid Dean wants to be a vet in the future) (after first time Cas dies)
 3. Cas in Dean's dream talking
 4. Cas in real world talking
-5. Dean thinks Cas is a monster (again), scared of him => accepts himi
+5. Dean thinks Cas is a monster (again), scared of him => accepts him
 6. John learns about Cas talking, shoot/cut/kill the cat, Cas comes back again as another cat (die and come back 8 times in total in the whole story, not counting S03 Hell jump)
 7. Dean protest, gets sent to Bobby's
 8. Cas protects Dean
@@ -131,9 +147,9 @@ Not much difference about the rest for John. (Not focus on him, don't depict too
 12. Cas get taken back to Heaven, come back again hurt, muted, redo some process, re-remember them again (Naomi's treatment)
 13. Some case goes wrong, Dean blames Cas, take it out on him, Cas leaves; Dean regrets, ask him back, Cas back. (this Dean is older now, maybe near 18y or slightly above 18y)
 14. Stanford era, Dean hunt with Cas
-15. S01-S03 timeline, Sam/Dean hunt with Cas, Cas try to save Dean from the deal
+15. S01-S03 timeline, Sam/Dean hunt with Cas, Cas try to save Dean from the deal (rewrite some key episodes: S02E22, S03E01, S03E16; S01E09 Missouri senses Cas)
 16. Hell, Cas be there with Dean, Dean breaks for Cas, Cas flies Dean out of Hell, saves him
-17. S04E01, Dean looks for Cas, seance; Cas come back as human
+17. S04E01, Dean looks for Cas, seance; Cas come back as human (best friend lost & back), Dean doesn't accept him as human for a bit, assume cat form (get too used to it); Cas: "It's still me. Please see me." (DW 11th), Cas consider take cat form again (but apocalypse coming, he's allowed to take human form now, and it's more convenient to talk/move/save them in human form), Dean accept him, they hug
 
 ### Claim
 
@@ -201,23 +217,18 @@ The creature opens its mouth, and says, "Meow."
 
 ### Editing Notes
 
-don't forget to post the following "words before/after the work" when posting
+~~don't forget to post the following "words before/after the work" when posting~~
 
-#### Words before the work
+<details>
+<summary>After finish</summary>
+see if it's possible to adapt into original story to query for publishing
+</details>
 
-Just keep in mind that this story is written in Dean POV, and Dean's five years old when the story starts, and a five-year-old isn't always the most reliable source of truth when retelling what happened. So maybe some of the things aren't what he thinks are happening (or are they?).
-
-#### Words after the work
-
-This story's initial idea was inspired by a very cute video of my dear friend BucketOfLi's cat (which is very much like a monster under the bed, in a good way). But then, as I write mindlessly, after Dean saw the cat for the first time in his life (that's where I originally thought would be the ending of the story), when Dean starts thinking about giving the cat a name, I lost control of the story, the story itself just continued growing from there. Everything after that point is sorta entirely inspired by Neil Gaiman's black cat story "The Price" (or what's left of it that I still remembered), but I'd say even Gaiman's story idea probably isn't very novel, in a way -- there gotta be more people having thought that cats are angels, and what better angel/cat can it be other than Cas for little Dean and baby Sammy to grow up with.
-
-If I have to credit another work that's a stretch but still quite some inspiration for the story construction: that's "CJ7", a 2008 movie. Really quite some stretch, but I remember it so dearly when watching as a child that I can *feel* its impact on the way this story forms and grows. Oh, and another one I loooove so much (not just love it, I *luve* it, *loove* it, *loooove it*) that I just *have to* nominate, and I think its impact is perhaps mostly on a subconscious level and so much impact nonetheless: *[How (thanks to Gabriel) Dean and Castiel (accidentally) raised each other (and Sam)](https://archiveofourown.org/works/540915)*. It's literally my first enlightenment of how to write kid fic. Honorary mention: my absolute all-time favorite cat movie series: "The Legends of Hei." It's just too beautiful to miss.
-
-It should be pretty obvious since the beginning, but I'll still add redundantly here that, when you start reading this story, feel free to read as if all the "Cat" is exactly "Cas". You have no idea how many times my muscle memory has mistyped that during the writing. My brain knows it's Cas, my fingers know it's Cas, but I have to write Cat for the story's sake, and this is a discrepancy that messed with my eyes quite a lot. I did try very hard to insert "Cas" early on but just can't convince myself if there's a right place; there's just no good reason for the kid Dean to name the cat "Cas" when he first ran into him, so "Cat" is the next best thing I can do.
-
-I started writing this story in the middle of a night in the middle of a tough week and my eyes were half-closed most of the time, and after re-reading, I realize the Sammy in my head is most definitely ~~a bit~~ a lot older than one year old to be able to talk that much and read and reason and be so mature (in a word, just too much like the normal adult Sam that I've got used to writing; in many ways, so are Dean and Cas in this story, pretty sure the Dean I'm writing is more intelligent and thoughtful and mature than any average five-year-old and the cat I'm writing isn't like any cat, but I'd pretend those are probably smaller problem than a one-year-old speaking long sentences and understanding the situation around him and comforting his older brother), I'll pretend it's because the demon blood in him makes him grow faster and ultra clever, and Dean doesn't freak out because he doesn't know what normal baby's learning and growing speed normally should be like, and John doesn't freak out because he isn't there long enough to notice, or maybe he noticed and freaked out and that's why he ran away so much. (This is mostly an after-thought patch, but my picky brain accepts the explanation, so I hope it works with you guys too.)
-
-And, I feel like I should apologize for writing John Winchester's A+ parenting and writing him so very god-awful and probably triggering (in order to make the story make sense), as much as I know the fandom hates John Winchester even more than Chuck, the hatred and resent isn't the main focus and emotional theme for this story, (because... it's five-year-old Dean's POV, and five-year-old Dean loves and admires his Dad too much and can't see anything wrong, but also doesn't have as much emotional burden and weight as the grown-up Dean. He's only have one year of childhood trauma, not twenty, but that's not saying it's okay. He's five, Jesus.) Still, just wanting to say, let's pretend that's just the functional premise for the story, let's focus more on that cute powerful amazing black cat and those awesome little humans, sounds good?
+<details>
+<summary>Words before the work (deleted)</summary>
+~~Just keep in mind that this story is written mostly in Dean POV, and Dean's five years old when the story starts, and a five-year-old isn't always the most reliable source of truth when retelling what happened. So maybe some of the things aren't what he thinks are happening (or are they?).~~
+</details>
+If didn't mention "cat has 9 lives" setting in the story, add that to the "Acknowledgement" (the last part, writer's notes)
 
 ## Main
 
@@ -1304,10 +1315,28 @@ He closes the door behind him, still holding Cat in his arms because no way is h
 >
 > (Dean to Cas: "I'm so sorry everything my dad put you through" Cas: "I'm so sorry for everything he put *you* through. I tried to help, but there's only so much can a cat do. My vessel has very strong instinct most of times that they overwhelm me." Dean: "I know you're an angel" "You do?" "All cats are, but you, more so than any")
 
-### Deleted Scene
+### Deleted Scene (Not a Chapter)
 
 > (write as if an epilogue but title it as "Deleted Scene" because can't put it in but like the idea, so still write it)
 >
 > an idea: what if future Dean/Sam/Cas time travel to one time point for a time-related case fic, keep kid!Dean POV, but see Cas in trench coat first time, adult!Dean amused how young he was and he remembers the cat!Cas, but maybe adult!Dean can pretend he's not future Dean, just some hunter popping in to help, so kid!Dean doesn't know he's seen future self, so timeline intact, but from adult!Dean, kid!Dean knows the cat's name is Cas and angel is watching him (but adult!Dean can't tell him cat is angel yet because he's not supposed to know until he's back from Hell, to protect timeline), but he can't meet his angel yet until he's 29. Normal timeline, he's devastated when he's 28 and made the deal, realize he'd never be 29, and he thought he'd never meet Cas ever again, he doesn't think he can resurrect, only to think that future version is a lie and never will be true. But then he really meets Cas like S04E01 does
 >
 > adult!Dean/Sam self-intro as Mr. Smith and Mr. Smith, kid!Dean: "Like Agent Smith from *Matrix*?" (after 1999), adult!Dean: "Nah, I'm not as good-looking as Hugo Weaving." kid!Dean: "I think you are." adult!Dean to adult!Sam amused: "Kid has good eyes." adult!Sam rolls his eyes incredibly
+
+### Acknowledgement (Not a Chapter)
+
+This story's initial idea was inspired by a very cute video of my dear friend BucketOfLi's cat (which is very much like a monster under the bed, in a good way). At that moment, I didn't know Cas is gonna be in this story at all, or it's gonna turn into a destiel story. But then, as I started writing, a few thousands words later, after five-year-old kid Dean saw a cat (*the* cat) for the first time in his life (that's where I originally thought would be the end of the story), when Dean started thinking about giving the cat a name (no wonder people say names are magical and once you name something, it becomes yours) and the cat turns out to have blue eyes (totally didn't plan that in the first place), I lost control of the story; more and more ideas and plot twists poured in, and the story just continued growing and growing and became a gigantic thing (biggest story structure I've ever written, and you have no idea how many pages of outline I got). The main idea of the story is sorta inspired by a black cat story "The Price" (or what's left of it that I still remembered), but I'd say even that story idea probably isn't very novel, in a way -- there gotta be more people having thought that cats are angels, and what better angel/cat can it be other than Cas for little Dean and baby Sammy to grow up with.
+
+If I have to credit another work that's a stretch but still quite some inspiration for the story construction: that's "CJ7", a 2008 movie. Really quite some stretch, but I remember it so dearly when watching as a child that I can *feel* its impact on the way this story forms and grows. Oh, and another one I loooove so much (not just love it, I *luve* it, *loove* it, *loooove it*) that I just *have to* nominate, and I think its impact is perhaps mostly on a subconscious level and so much impact nonetheless: *[How (thanks to Gabriel) Dean and Castiel (accidentally) raised each other (and Sam)](https://archiveofourown.org/works/540915)*. It's literally my first enlightenment of how to write kid fic. Honorary mention: my absolute all-time favorite cat movie series: "The Legends of Hei." It's just too beautiful to miss.
+
+It should be pretty obvious since the beginning, but I'll still add redundantly here that, when you start reading this story, feel free to read as if all the "Cat" is exactly "Cas". You have no idea how many times my muscle memory has mistyped that during the writing. I never realize how powerful muscle memory is. My brain knows it's Cas, my fingers know it's Cas, but I have to write Cat for the story's sake, and this is a discrepancy that messed with my eyes quite a lot. I did try very hard to insert "Cas" early on but just can't convince myself that's the right place; there's just no good reason for the kid Dean to name the cat "Cas" when he first ran into him, so "Cat" is the next best thing I can do. In a very early draft before I came up with the idea to let Cas talk, he'd remain as "Cat" until near the end where S04 happens. But it would so definitely kill me if I had to write however many thousands of words of destiel without even typing "Cas" in any of the sentences. Glad I fixed that.
+
+I started writing this story in the middle of a night in the middle of a tough week and my eyes were half-closed most of the time, and after re-reading the first five chapters days later, I realize the Sammy in my head is most definitely ~~a bit~~ a lot older than one year old to be able to talk that much and read and reason and be so mature (in a word, just too much like the normal adult Sam that I've got used to writing; in many ways, so are Dean and Cas in this story, pretty sure the Dean I'm writing is more intelligent and thoughtful and mature than any average five-year-old and the cat I'm writing isn't like any cat, but I'd pretend those are probably smaller problem than a one-year-old speaking long sentences and understanding the situation around him and comforting his older brother. For my defense, I haven't been with many young kids for a long while until very recently, which is exactly when I started realizing that's a huge issue). But it's also a bit too late that I can't rewrite everything without the story falling apart, I do need them to interact and have intelligent conversation, while also make it (slightly) convincing that they're at an age too young to recognize cat as a creature. So the only explanation (aka patch) I can think of this: I'll pretend it's because the demon blood in Sam that makes him grow faster and ultra clever, and Dean doesn't freak out because he doesn't know what normal baby's learning and growing speed normally should be like, and John doesn't freak out because he isn't there long enough to notice, or maybe he noticed and freaked out and that's why he ran away so much to look for an answer or explanation for everything abnormal in their life. (This is mostly an after-thought patch, but my picky brain accepts the explanation, so I hope it works with you guys too.)
+
+And, I feel like I should apologize for writing John Winchester's A+ parenting and writing him so very god-awful and probably triggering (in order to make the story make sense), and then try to make those make sense (make sense doesn't make them okay though). As much as I know the fandom hates John Winchester even more than Chuck, the hatred and resentment aren't the main focus and emotional theme for this story, though it can get very complicated, and at some places it may even sound like the writing is trying to give him excuses, because... it starts off from five-year-old Dean's POV, and five-year-old Dean loves and admires his Dad too much and can't understand everything, just trying to make sense of the world in the way his little kid brain can handle, but also because the kid doesn't have as much emotional burden and weight as the grown-up Dean. He's only got one year of childhood trauma, not twenty, but that's not saying it's okay. He's five, Jesus. Still, just wanting to say, sorry about putting you through all the bullshit and complication of John Winchester, let's pretend that's just the functional premise for the story to help us get a story for Dean and Cas. Let's not argue whether John did the right thing or not, does he deserve forgiveness or not, etc., better to just focus on that cute powerful amazing black cat and those awesome little humans, deal?
+
+I can't thank enough for my artist, mods who worked so hard for every year's DCBB, the source of my inspiration, my friends who encourage me all the way through my writing and my life (especially this!), and of course, for all the lovely readers who get this far. You have my whole-hearted love. You are the ones who make the world a beautiful place and life something worth look forward to. May we have more love and destiel in the world and in our lives. Thank you for being here!
+
+Cheers,
+
+J. S.
