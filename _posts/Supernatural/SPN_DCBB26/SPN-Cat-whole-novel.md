@@ -47,6 +47,8 @@ Cas can't use his powers or he'd be found, but he can probably use other ways to
 
 cat rule: cat has 9 lives (so Cas comes back 8 times between 1984-2008, the last one he jumps into Hell with Dean)
 
+Cas cat type: domestic shorthair (when Dean first find him, about 1y, similar to Sam's age), blue eyes (suspected species *Ojos Azules*, "Blue Eyes", or maybe still kitten, because all kittens are blue eyes; Dean doesn't know that; Dean doesn't know gender until chap 6)
+
 #### Cas POV
 
 Cas as an angel knows he's assigned to be Dean's guardian angel but not allowed to go to Earth or take human vessel or let them know angels are real until he's allowed/until time comes (until Dean's saved from Hell). But Dean accidentally prays to him (chap 1) and Cas hears and has to come to him, to not violate the order, he comes in Cat vessel and not allowed to demonstrate any super power, but he's allowed to protect them as any cat will.
@@ -95,7 +97,9 @@ John knows about cat being weird/monster-like, force take it away from Dean and 
 
 Things happen mostly normally and the boys grow up. Cas be there for them all the time (unless when he's dead and before he comes back, Dean still mourns every time).
 
-Somewhere in the middle Dean gets fed up with Cas or Cas accidentally did something very wrong, Dean yells at him and says don't want him anymore, Cas leaves hurt. Then Dean feels awful and prays for Cas to come back, and Cas comes back.
+Somewhere in the middle Dean gets fed up with Cas or Cas accidentally did something very wrong, Dean yells at him and says don't want him anymore, Cas leaves hurt. Then Dean feels awful and prays for Cas to come back, and Cas comes back. (Dean's ~18y here)
+
+Somewhere in the middle after Cas's first death, Dean grieves, then dream about Cas again and get told his name, Sam insist it's Dean's own consciousness here, Dean's convinced it's really Cas, then Cas come back, Dean is proved he's right
 
 When Sam's in college and John's solo hunting, Dean's hunting with cat!Cas; when Dean takes the deal to save Sam and only has one year to live, cat!Cas is devastated and desperate trying to save him.
 
@@ -564,6 +568,10 @@ see if it's possible to adapt into original story to query for publishing
 ~~Just keep in mind that this story is written mostly in Dean POV, and Dean's five years old when the story starts, and a five-year-old isn't always the most reliable source of truth when retelling what happened. So maybe some of the things aren't what he thinks are happening (or are they?).~~
 </details>
 If didn't mention "cat has 9 lives" setting in the story, add that to the "Acknowledgement" (the last part, writer's notes)
+
+Edit chap 1-5: Dean doesn't know cat's gender until chap 6
+
+Edit chap 1-5: cat already came into Dean's dream (rewrite the night before, add dream stuff, foreshadow)
 
 ## Main
 
@@ -1341,9 +1349,13 @@ He closes the door behind him, still holding Cat in his arms because no way is h
 
 He doesn't think his father would actually leave when he said that. But he did.
 
-The cat is meowing quietly in 
+The cat is meowing quietly in his arms, as if urging him not do that, it's not worth it defying his dad's wrath for him, as if telling Dean to just leave him, let him be -- let him die, if it means it pleases his father. Dean's not having any of it. He doesn't know where the courage comes from, the sudden rising desire in his chest is as strong as that night, the worst night of his life -- when he has his little brother in his arms, he wants to protect him with his life, and now, with the black cat in his arms, he wants to protect him with his life, too.
 
-(Dean panics but no regrets, he walks on street for miles and sits by the road. They're in South Dakota, Jody (20y, patrol officer) finds him and takes care of him. Jody gets John back, scolds him, makes him take Dean and Cat, and John obeys. Cat sorta just starts living with them due to Dean's strong insistence and that's one thing John can't do anything to change his mind.)
+(Dean panics but no regrets, he walks on street for miles and sits by the road. They're in South Dakota, Jody (20y, patrol officer) finds him and takes care of him. Dean doesn't want to give Jody John's number initially, Jody takes him and cat to vet to take care of both of them first. Dean gets food and grateful, then talks. Jody gets John back, scolds him, makes him take Dean and Cat, and John obeys. Cat sorta just starts living with them due to Dean's strong insistence and that's one thing John can't do anything to change his mind.)
+
+Dean doesn't know cat gender until he meets vet here, and breed/age (Cas ~1y, domestic shorthair, "Ojos Azules", Spanish for Blue Eyes); vet name Lucas (Latino)
+
+Dean try to ask/suggest if human can eat cat food (vet warning not)
 
 ### (1985.1.24 Thursday) (books) √
 
@@ -1537,6 +1549,14 @@ The cat is meowing quietly in
 >
 > Cat steal them gifts, Dean steal them gifts, dress Cat up
 
+### (original cases/events)
+
+> wishing well case: kid Dean wish for cat to speak, so he can ask cat's name, and Cas told him in the dream (like S04E08)
+>
+> wiccan+familiar case: Dean wonders if Cas is a familiar, if that makes him a wiccan, they/John use cat as disguise for the case (like S08E15)
+>
+> animal case: monster/bad human aiming specifically animals to hurt, maybe specifically cats; Cas become victim, suffer, e.g. get high by catnip (like S09E05)
+
 ### (fast-forward)
 
 > (1991 is turning point John turns from Matt Cohen version to Jeffery Dean Morgan version)
@@ -1595,7 +1615,7 @@ The cat is meowing quietly in
 >
 > 2003.6.13: Dean solo hunt succubus in Brooklyn
 >
-> 2002-2005 (Dean 23-26y, Sam 19-22y): Stanford era, Dean solo hunt a pair of vetala, voodoo in New Orleans
+> 2002-2005 (Dean 23-26y, Sam 19-22y): Stanford era, Dean solo hunt a pair of vetala, voodoo in New Orleans; Dean+John handle poltergeist for Jerry Panowski (S01E04)
 
 > From "John Winchester's Journal": "Cats sometimes also hidden in walls, also horse skulls. Fork lore of both is that they would ward away familiars or see things that humans can't. Powerful wards. Sometimes shoes also used as spell traps, concealed within walls or floors."
 >
