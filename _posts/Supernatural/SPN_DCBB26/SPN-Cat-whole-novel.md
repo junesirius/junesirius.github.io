@@ -249,6 +249,243 @@ symbol of good luck, prosperity, protection, romance
 
 believed to: repel evil spirits, demons, negative energy from household, ward off evil; protect against illness, good for health and healing; help single women attract sincere and high-quality romantic partners, good for romance and suitors; sailors kept black cats aboard ships to ensure safe passage and calm seas, as sailor guardians
 
+### Cat knowledge base
+
+(source: cat wiki)
+
+#### cat anatomy
+
+chest, withers, back, tail base, tail, forelegs, paw, hindlegs, hock, feet, toes, primordial pouch & belly, rump
+
+brain, spinal column, lungs, liver, stomach, kidney, colon, larynx, trachea, esophagus, heart, gallbladder, spleen, bladder, anus, urethra, small intestine
+
+have scent glands along the tail, on each side of their head, on their lips, base of their tail, chin, near their sex organs, between their front paws
+
+righting reflex: ability to land on their feet with little or no injury. do this more easily than other animals due to their flexible spine and lack of a collar bone. (do not always land unharmed, they can break bones or die from excessive falls)
+
+#### cat communication
+
+Cats hiss, purr, growl, snarl.
+
+Communication methods include postures, movement, auditory and chemical signals.
+
+- meowing:
+  - don't meow to each other; only meow to people
+  - meow to greet people, or ask for food or attention
+  - can make 16+ different meows, different tones to demand food or attention, register complaints, and convey bewilderment.
+  - Occasionally vocalize to one another with purrs, growls, and screeches, generally communicate with one another through body language. When preparing to fight an adversary or to frighten one away, cats can emit long, articulated meows.
+- chattering/chirping: chatter their teeth when they're frustrated, e.g. can't catch the bird right outside the window; when observing prey, maybe as a threatening sound, an expression of excitement or frustration, or an attempt to replicate a bird-call or a bird's prey. a rehearsal behavior in which the cat anticipates or practice the killing of prey, because the sound usually accompanies a biting movement similar to the one they use to kill their prey.
+- hissing/spitting: as a warning to scare off any potential threat
+- growl/hiss: angered/threatened, as a warning to the offending party. If the warning is not heeded, a more or less serious attach may follow. Some may engage in nipping behavior or batting with their paws, either with claws extended or retracted
+- yowling: when they're angry. Feral cats yowl at one another to defend their territory or fight for mates
+- snore: exhale sharply, after a determined effort to catch something has fallen short
+- chirrup/chudder: a form of greeting
+- grunt while purring: when given physical attention
+- soft humming sound: similar to sighs, when petted
+- caterwaul: cry of a cat in heat
+- purring:
+  - when they're content and/or happy and relaxed. but also purr when they are sick, injured, hurt, sad, stressed, in need of company, extreme distress, during tense, traumatic, or painful moments, purr to alleviate the tension.
+  - A purr is a low buzzing sound a cat makes when it's content. The sound may sometimes be very hard to hear, though it's quite distinctive. Sometimes, they're fairly loud.
+  - Developed from kittenhood to gain attention. Some purr when people stroke them or pet their fur to show they feel comforted. Sometimes purr to express the need for attention or food, or to communicate with other cats that are nearby.
+
+emotions:
+
+- greeting: a particular sort of vocalization, e.g. a low meow or chirp, possibly with simultaneous purring
+- distress: mewing is a plea for help or attention often made by kittens. two basic types: one more loud and frantic, one more high-pitched. old cats more of a panicky repeated meow.
+- attention: often simple meows and mews in both older cats and young kittens. commanding meow is a command for attention, food, or to be let out
+- protest: whining meows
+- frustration: strong sigh or exhaled snort
+- happy: meow that starts low then goes up and comes back down
+- watching/interest: **chatter/chirrup** on seeing something of interest
+
+#### cat intelligence
+
+definition: capacity of learning, thinking, problem solving, reasoning, adaptability. demonstrated by the capacity to develop and use tools, learn new behavior techniques, apply previously acquired knowledge to new situations, communicate needs and desires within social groups, respond to training cues
+
+realistically they could do: inventing and using a tool, opening doors and windows, retrieving items from hard to reach places, using the toilet, playing fetch, communication, training and tricks
+
+Although cats don't socialize in the same way that dogs do, they still associate themselves strongly with specific other animals (including humans) and are probably even more attached to place and routine than dogs or their human owners. Cats may tend to communicate more indirectly, that is if they want their owner to open a door or pick up a favorite toy, they will often stare at the object intently with only occasional looks to the owner, until the owner, noting the focus of the cat, will look to where the cat is looking.
+
+Cats are traditionally hard to train, mainly because cats appear to only assume such behavior in exchange for a direct benefit, unlike dogs which respond well to emotional reassurance. Also there is the belief that cats are harder to train than dogs owing to impatience and boredom with the training exercise. Like dogs and people, many cats have active minds that thrive on stimulation, exploration and learning. (my notes: almost like ADHD traits, it's saying most cats tend to have more ADHD traits than most dogs)
+
+Many of the same basic methods of training a dog -- shaping behavior, giving reinforcement in the form of treats, lavish praise or attention for correct responses -- work extremely well when training a cat.
+
+#### cat senses
+
+Cats have acute sight, hearing and smell, and their sense of touch is enhanced by long whiskers that protrude from their heads and bodies. Allow them to hunt effectively in dim light or at night.
+
+- Sight:
+  - greater at night in comparison to humans, and inferior in daylight
+  - Many cats have a visual field of view estimated at 200°, versus 180° in humans, with a binocular fields narrower than that of humans.
+  - can see some colors, can tell the difference between red, blue, and yellow lights, and between red and gree lights
+  - can distinguish between blues and violets better than between colors near the red end of the spectrum
+  - have a third eyelid, the nictitating membrane, a thin cover that closes from the side and appears when the cat's eyelid opens. partially closes if the cat sick, or visible when cat is sleepy and content.
+  - do not need to blink their eyes on a regular basis to keep their eyes lubricated (with tears). Unblinking eyes are probably an advantage when hunting. Cats will **"squint"** their eyes, usually as a form of communication. Cat owners can often entice their pets to squint or even fully close their eyes just by talking to them in a soothing or pleasing manner. **Many cats will also squint in response to seeing their owners squint.** When a cat does blink, it's a slower blink than in humans, so it will typically blink one eye at a time so it can still see from the other eye. When the cat is looking at someone while doing this, it gives the impression that the cat is **winking** at them.
+  - wide variation in eye color, most typical colors: golden, green, orange. **Blue eyes** are usually associated with the Siamese breed, also found in white cats and kittens. **All kittens have blue eyes.**
+- Hearing:
+  - similar range of hearing on the low end of scale as humans, can hear much higher-pitched sounds, up to 64 kHz, 1.6 octaves above the range of a human, 1 octave above the range of a dog.
+  - When listening for something, cat's ears will swivel in that direction
+  - cat's ear flaps (pinnae) can independently point backwards as well as forwards and sideways to pinpoint the source of the sound
+  - can judge within three inches the location of a sound being made one yard away
+- Smell:
+  - fourteen times as strong as a human's
+  - have twice as many receptors in the olfactory epithelium (i.e. smell-sensitive cells in their noses) as humans do, = more acute sense of smell than humans
+  - have a scent organ in the roof of mouth (vomeronasal organ). When wrinkles its muzzle, lowers its chin, lets its tongue hang a bit, it's opening the passage to that. called gaping, sneering, snake mouth, or flehming. = Flehmen response in other animals like dogs, horses
+- Touch:
+  - has about 24 movable vibrissae ("whiskers"), in four rows on each upper lip on either side of its nose (some have more). Also a few on each cheek, tufts over the eyes, bristles on the chin, the cat's inner "wrists", and at the back of the legs.
+  - touch sensation from the whiskers, get environmental information. aid navigation
+  - upper two rows of whiskers can be moved independently from the lower two rows for greater precision during measurement. whiskers are more than twice as thick as ordinary cat hears, roots three times deeper in the cat's tissue than other hairs. numerous nerve endings at their base, give cats extraordinarily detailed information about nearby air movements and objects with which they make physical contact.
+  - aid in hunting. when prey too close to mouth and can't see, whiskers move so as to forma basket shape around its muzzle to precisely detect the prey's location.
+  - whiskers may also help detect scents more readily by directly air currents to their nose and mouth
+  - whiskers are also indication of cat's attitude. whiskers point forward: inquisitive, friendly; lie flat on the face: defensive/aggressive
+- Taste:
+  - the whole cat family lack the gene for protein required for sweetness sensory receptor, so all cat can't taste sweetness. root of the cat family's extremely specialized evolutionary niche as a hunter and carnivore. Their modified sense of taste cause them to some degree to ignore plants, a large part of whose taste appeal derived from their high sugar content, in favor of a high-protein carnivorous diet.
+
+#### cat body language
+
+- arch their backs: signal of fear or aggression
+- slowly blinking: relaxation
+- lie with its stomach and chest exposed: happiness, trust, comfort
+- roll on its side or back: to be able to defend itself with all four sets of claws (be aware that rolling onto the back is not always  in invitation to rub its belly)
+- ears and whiskers folded backwards: overall humor
+- flattened ears: feel threatened, may attack
+- mouth open and no teeth exposed: playfulness
+- tail hold high: confidence or happiness, or greeting towards human beings or other cats (usually close relatives)
+- half-raised tail: less pleasure
+- tail hold low: unhappy
+- tail wag or move rapidly: state of conflict
+- tail hold high and twitching: excitement, but often mistaken for anger
+- twitch the tips of their tails: when hunting, or when irritated
+- larger twitch of the tips of their tails: displeasure
+- curl its tail beneath the belly: fear, to make themself appear as small as possible (may flatten itself to the ground, base of the spine curling)
+- twitch tail: when playing
+- puff up its tail: scared or surprised, also the hair along its back may stand straight up, the cat will turn its body sideways to a threat, in order to increase its apparent size
+- touch nose: friendly gretting for cats
+- lowered head: sign of submission
+- rub face with human's cheek/hands/ankles: friendly greeting or sign of affection, sometimes also a way of marking their territory, leaving a scent from the scent glands located in the cat's cheeks
+- head bonk/bunting: bump someone with the front part of their heads, to express affection
+- lick each other/owner: groom one other and to bond (between cats that know each other very well), including licking human, wanting to "groom" people and to show them care and affection.
+- licking consistently in the same spot: show you that an area is itching, hurting, infected, or sick. lack of grooming can too
+- gentle nose bop (from mother cat to kitten): tell the kitten to stop, or just a simple "No". She will try never to be more forceful than that, otherwise would be if something very serious has happened.
+- mewl: a kitten is lost or stranded when calling for their mother
+- kneading:
+  - paw the human or a soft object on which they may be sitting with a kneading motion, also called padding, pitter-pattering, pacing, kneading dough, happy feet, treading, needle paws, marching in place, marking biscuits, cat-baking
+  - when they are happy, feel at ease
+  - While kneading, cats sweat through their paws leaving a scent for other cats.
+  - This along with purring to show contentment and affection for their companions.
+  - Can also indicate curiosity.
+  - May also do this when in pain or dying, as a method of comforting itself.
+  - also: mark territory
+- head rubbing: mark territory, ownership over the person. jawline and ears also source of scent.
+- body outstretched, relaxed, lying on his side, tail down: contented
+- body upright, relaxed stance, ears up, moderate/brisk walking pace: relaxed, confident
+- controlled, vigilant pose, slowly walking forward in a slightly crouched manner: hunting/approaching a potential threat
+- tense muscles, low crouch, ears back, tail tucked up and under: anxious
+- arched back, fur raised (piloerection), bottle brush tail, all fluffed out and curled into a downward U/tucked away to avoid injury: fearful, likely to attack defensively if challenged, cornered, picked up
+- tense, rolled onto his back to expose his belly (very different from the relaxed and happy cat that's rolling around in the sunshine/a nice warm bed): aroused, preparing to attack with all five of his defensive weapons - four sets of claws and his teeth; not being defensive
+- tall, tense, raised rump, tail extended, forward-pointing ears, stiff forwardly extended whiskers, constricted pupils: confident, intimidating
+
+emotions:
+
+- disgust: lifting or constant shaking of a paw or paws. The more times the paw is shaken, the stronger the cat's feeling. Sometimes can be a four paw affair with each paw being lifted and shaken in turn. show this after stepping into water
+- displeasure: move ears back and rapidly **swishing** the tail
+- agitation/aggression: swishing or sweeping of the tail in a wide swath, in mid-air or against a person. Tail flicking indicates inner conflict, while wide tail swishing shows external conflict. Further irritation may result in the cat moving/leaving the room and even physical aggression.
+- contentedness: kneading (most cats for about ten minutes, some may all night)
+- relaxation: **sprawling** on the side or back and possibly rolling about. Sometimes shake their paws in the air.
+- **affection**: pressing its face or top of the head against a person's body (**head rubbing, nuzzling**), leaving a scent to mark the cat's territory; or **rubbing** in quick succession. may also blink slowly as an expression of affection or security. many also use a question mark-shaped tail to show desire to greet someone they are fond of. also stretch to show they are content with their surroundings. may also lick the human to show affection.
+- submission: upon being approached, fall down on its side, indicating it's not seeking attention and is unwilling to put up a fight
+- interest and rejection: position of the ears = degree of desire to engage with the situation around them. Ears up and moved slightly forward = real interest in what's going on; ears moved backward = distaste and desire to not engage with the situation. show disapproval by moving ears back, equivalent of a human frown. also **crouch** and turn their back to the situation to indicate disinterest or unhappiness. either move a little or give a faint "meow" if it does not want to be picked up.
+- desire for attention: attention for food or affection from humans, will rub their bodies against the human's legs with back arched and tail raised. Less often, may reach out and touch a human with its forepaw to get attention.
+- stressed: panting
+
+#### cat fight
+
+physical clash between two cats to fight with every right as a natural instinct between any animals should
+
+**growl, spit, hiss, swat**
+
+How to handle a cat fight:
+
+- distinguish between cats playing and genuine fight: real fight has ears down (threatened), vigorous screaming and one cat is overly dominant (playfight they usually switch roles, and neither cat receiving actual physical damager); though in real fight, cats rarely do more damage than a few scratches
+- reasons why cats don't get along: undersocialization, territorial, feline personality clash, social maturation
+- other types of aggression: maternal aggression (**hiss, growl, chase, swat, bite**), play aggression (**stalk, chase, sneak, pounce, swat, kick, scratch, ambush, attack, bite**; switch role, ears forward, claws may be out but don't cause damage, body lean forward not back)
+- Never let the cats "fight it out." Cats don't resolve their issues through fighting, and fighting usually just gets much worse. Interrupt aggression with a fair clap of your hands, throwing an object, yelling really loud, stomping your feet, or spraying from a water gun or bucket.
+- Separate their resources. Provide additional perches. Reward desired behavior. Try pheromones.
+- Don't try to calm or soothe your aggressive cat, just leave them alone and give them space. If you come close, they could turn and redirect their aggression toward you. (my notes: everything in this section sounds good advice how to handle neurodivergent people, or just people in general)
+- help reduce **domineering** cat's aggression and **skittish** cat's fear
+
+#### catnip
+
+Nepeta, known as catnip/catmint, pleasantly stimulates cats' pheromone receptors, typically resulting in temporary euphoria or a state of happiness. also used in herbal medicine for their mild sedative effect on humans.
+
+When cats encounter catnip, behaviors: **rolling, rubbing, purring, jumping**, playful activity. Some cats may become more vocal or engage in seemingly euphoric behaviors, such as **leaping, frolicking**. show heightened curiosity and explore their surroundings with increased enthusiasm. triggered by the scent of catnip as cats actively **sniff, lick, or chew** on the plant.
+
+Effect is temporary and typically lasts for about 10-15 minutes. After this period, cats may lose interest in the catnip or exhibit a more subdued behavior. 50% cats have strong reaction, others may show little to no response.
+
+#### cat food
+
+manufactured cat foods:
+
+- wet cat food: crude protein min 11%, crude fat min 8%, crude fiber max 1.5%, moisture max 75%, ash max 2.5%
+- dry cat food: at least 40-50% crude protein (min 32%), crude fat 15-20% (min 10%), crude fiber 2-5%, raw ash min 2%, moisture max 10%
+
+Cats are obligate carnivores, should always have food with protein sources from animals and with a very low percentage of vegetable proteins and carbohydrates. Lack enzyme that digests vegetables and a food full of carbs will pass right through them. (should be very high in meat content, grain-free, sugar-free, with no preservatives, additives, or artificial colors, low in carbohydrates, with an optimal taurine content and has added the necessary vitamins and minerals)
+
+Animal protein sources, including poultry or fish, should head the list of dry-food ingredients or, in canned food, immediately follow water.
+
+homemade cat food recipe:
+
+- chicken and rice (shredded cooked chicken, cooked rice, low-sodium chicken broth)
+- sweet potato and salmon (small sweet potato, salmon, olive oil)
+
+what cat food can human safely eat:
+
+- most commercial cat food, human can technically eat without dying (but has potential risk of bacterial contamination, vitamin overload toxicity (e.g. vitamin A toxicity cause liver damage and neurological issues), rendered meat sickness, digestive distress (stomach cramps, nausea, vomiting))
+
+what human food can cat safely eat:
+
+- cooked meat (chicken, turkey, lean beef, lamb, fish, eggs)
+- cooked grain (oatmeal, oats, rice, barley)
+- vegetable, fruit (small portion)
+
+what human food cat should always avoid (toxic or harmful):
+
+- onion, garlic, chives, leeks: destroy red blood cells, cause severe anemia
+- chocolate, caffeine, alcohol: extremely toxic
+- grapes, raisin: can cause sudden kidney failure
+- dairy products: lactose intolerant (milk and cheese can cause diarrhea and upset stomach)
+- raw dough, yeasts: expands in the stomach, produce dangerous alcohol/gas
+- raw meat/fish/egg: parasite risk
+
+#### cat toys
+
+expensive options/fancier toys sold in stores:
+
+- fake mice with little bells attached to them
+- fake bird making chirping sounds that cat can play with
+- dangling toy waved around by humans that cat will go crazy to catch
+- cat aquarium
+
+homemade toys:
+
+- dangling mouse
+- balls, bells, boxes, hairbands, lanyards, paper towel rolls, rope/ribbon, rubber bands, toilet paper rolls, socks, sponges, string
+
+#### cat bed
+
+- simple bed: cardboard box with an old towel
+- other places to rest/sleep: chairs, sofas, tables, human's lap
+- Beds make them feel safe and protected, especially high ones.
+- Cats tend to love comfy beds over baskets and other cramped areas and beds. also tend to purr in beds
+- bed should be soft and comfortable to sleep on, should be in a peaceful room that cat has easy access
+
+#### cat habit
+
+- In the wild, cats naturally excrete in soft/sandy soil for easy burial.
+- most economical carrier: simple cardboard carrier, often available from vet or pet shop
+- Cats have an inherent distrust for predator species such as humans, and often seek to minimize any contact with people they do not perceive as trustworthy. Feline shyness and aggression around people with cat social skills is often a result of lack of socialization, abuse or neglect.
+- Cats have a strong "escape" instinct. Attempts to corner, capture or herd a cat can thus provoke powerful fear-based escape behavior.
+
 ### Claim
 
 #### Summary
@@ -1102,35 +1339,11 @@ He closes the door behind him, still holding Cat in his arms because no way is h
 
 ###### [TBC]
 
-(Dean panics but no regrets, he walks on street for miles and sits by the road. They're in South Dakota, Jody (20y, patrol officer) finds him and takes care of him. Jody gets John back, scolds him, makes him take Dean and Cat, and John obeys. Cat sorta just starts living with them due to Dean's strong insistence and that's one thing John can't do anything to change his mind.)
+He doesn't think his father would actually leave when he said that. But he did.
 
-> The cat looks normal and doesn't have any supernatural power but protects them, saves them, helps them, with all that a cat can do. He can get wounded easily too. They don't know if he's just a cat or not, but Dean doesn't care, already loves him.
->
-> They find out the cat helps with the nightmare.
->
-> They live through some cases together, the cat helps a lot. (This is also the part that he dies a lot but comes back every time as different but very similar black cat.)
->
-> One night the cat in Dean's dream starts talking (probably something critical that he has to use words to express, Dean gets frustrated with his meows because he can't understand), so now they can talk. The cat tells him his real name is Cas. Their talks also help Dean to not always keep everything inside, it helps his mental health a lot.
->
-> Dean thinks most of time it's just dream, until one time something gets really tense and cat in real world actually talks, Dean realizes it's not just in his dream.
->
-> Dean's scared of him for a bit, thinking he's a monster (again) that he doesn't know, but also still keeps this as a secret from John, protects Cas from John and other dangers intuitively. So kinda more like arguing time, not really fighting or enemy/stranger time. And finally Dean decides to accept him whatever he is, they're back to normal.
->
-> Then Cas asks Dean what he'd feel if he's not a cat, but can't tell him why he's asking, just want to know. Dean decides he'll accept him as any form. Cas thanks him.
->
-> Things happen mostly normally and the boys grow up. Cas be there for them all the time (unless when he's dead and before he comes back, Dean still mourns every time).
->
-> In one of the cases, John/Sam almost dying, Dean begs Cas to save him. Cas has to violate rule but he did. No cat for a long time, Dean devastated again. Cas sneaks back (after got Naomi treatment).
->
-> Somewhere in the middle Dean gets fed up with Cas or Cas accidentally did something very wrong, Dean yells at him and says don't want him anymore, Cas leaves hurt. Then Dean feels awful and prays for Cas to come back, and Cas comes back.
->
-> When Sam's in college and John's solo hunting, Dean's hunting with cat!Cas; when Dean takes the deal to save Sam and only has one year to live, cat!Cas is devastated and desperate trying to save him.
->
-> Then converge to canon S03 Dean has the one-year deal and hell hounds come for him. Cas protect him but can't fight them off as cat, Dean asks Sam to take care of cat, but Cas lets hellhounds tear him apart too to distract them from hurting Dean too much, jumps into Hell with Dean (but Dean doesn't know the last part).
->
-> Dean in Hell sees the cat but doesn't know if he's hallucinating or not. Demons have ways to confine vessel with angel, so Cas can't talk or escape the vessel like he planned to, but Dean recognizes him. Dean gets tortured but stays strong because he knows Cas is there to keep him hope, then Alastair starts torturing Cas, Dean gives in. Then Dean finds chance to unbind Cas, Cas escapes cat form and flies Dean out of Hell.
->
-> Back on Earth, Dean wakes up but Cas wipes/covers/masks his Hell memory, Dean only remembers pieces of his cat screaming. Dean goes to Bobby/Sam to look for cat and knows it's not hallucination that Cas's been with him in Hell. Dean goes to Pamela for Seance but already knows name and other info, just to ask Cas to come back, whichever form. Pamela passes words about time/address to meet. S04E01 barn, Cas comes in as human. Dean hugs him like he's known him all his life because he has. It feels so good to touch him as a human, though Dean misses the cat form too. They'll skip the getting familiar part and go to save Apocalypse together.
+The cat is meowing quietly in 
+
+(Dean panics but no regrets, he walks on street for miles and sits by the road. They're in South Dakota, Jody (20y, patrol officer) finds him and takes care of him. Jody gets John back, scolds him, makes him take Dean and Cat, and John obeys. Cat sorta just starts living with them due to Dean's strong insistence and that's one thing John can't do anything to change his mind.)
 
 ### (1985.1.24 Thursday) (books) √
 
