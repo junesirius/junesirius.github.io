@@ -27,9 +27,9 @@ published: false
 #### main story arc
 
 - Cas: find out he's falling for Dean, gradually realize he's willing to rebel for Dean (before S04)
-- Dean: grow up; find out what Cas really is, gradually to learn about Cas; grow to learn to take care of himself, not focusing everything on Sammy as he's taught to
+- Dean: grow up; find out what Cas really is, gradually to learn about Cas; grow to learn to take care of himself, not focusing everything on Sammy as he's taught to ("I've never been a child." Cas makes sure he does.)
 - Sam: grow up; learn what he wants, get out of life
-- John: grow older; try his best to protect boys from real danger but screw up bad, don't know how to love, love too much it hurts them, handle fear
+- John: grow older; try his best to protect boys from real danger but screw up bad, don't know how to love, love too much it hurts them, handle fear; still always in grief, struggle in the life
 
 #### main theme
 
@@ -629,7 +629,7 @@ Dean hesitates near Dad's bag again, seriously considering. He really really doe
 
 "Do you know where exactly it is?" Dean asks. His breath swings a loose cobweb and startles the nearest spider. Dean watches it crawling into the deeper darkness until it's out of his sight.
 
-"It's right there, under the bed, under me. It's making a 'prrr' sound now. Can you not hear it?" Sammy's voice is muffled by the beddings, but Dean can still hear him and the vibration sound of his tongue and lips.
+"It's right there, under the bed, under me. It's making a 'prrr' sound now. Can't you hear it?" Sammy's voice is muffled by the beddings, but Dean can still hear him and the vibration sound of his tongue and lips.
 
 Dean holds his breath. His heart beats heavily inside his chest. He doesn't really know what to do with the gun in his hand, but he finds it useful to poke in a little; the barrel is long enough to reach places where his hands can't (and really really wouldn't want to get to). He wishes the spiders won't crawl onto his hand as he reaches in, and he really hates the sticky feeling of cobwebs tangling onto his skin.
 
@@ -707,7 +707,7 @@ His Dad throws him a slightly displeased look. "Since when did you pick the habi
 
 "Yesterday..." Dean starts, but he doesn't get very far.
 
-His Dad answers quickly, "Yesterday was an accident, I didn't know there were three --" he cuts himself off, shaking his head. "It doesn't matter. It won't happen again tonight. I promise. Before I come back, you look after Sammy, don't go anywhere, can you do that?"
+His Dad answers quickly, "Yesterday was an accident, I didn't know that little town could be so --" he cuts himself off, shaking his head. "It doesn't matter. It won't happen again tonight. I promise. Before I come back, you look after Sammy, don't go anywhere, can you do that?"
 
 Dean lowers his head. "Yes, Sir." And not saying anything else.
 
@@ -1301,17 +1301,17 @@ Dean instantly holds Cat closer, flinching. He wants to stop himself from taking
 
 "Something's wrong. What the hell did this thing do to you?" John bites harshly, taking another step toward him.
 
-Dean holds Cat as close as possible without hurt his wounds. But there must be some wounds cracking open again. He can feel stream of warmth trickling down his shirt, dying more red on top of the mess that it already became.
+Dean holds Cat as close as possible without squeezing his wounds. But there must be some wounds cracking open again. He can feel stream of warmth trickling down his shirt, dying more red on top of the mess that it already became.
 
 "Please, Dad," he says, not crying this time, but still begging. "If you are going to kick him out again, you'll leave me here too." He raises his chin in defiance.
 
-John glares at him, nostrils flaring. He looks at him like he doesn't know his son. Waves of fury seep out of him, freezing the air around him.
+John glares at him, nostrils flaring. He looks at him with eyes cold, as if looking at a stranger. Waves of fury seep out of him, freezing the air around him.
 
 All Dean can feel is fear. So much fear. Cold and sticky along his spine, crawling behind his neck, covering the back of his head. It's worse than any horror movie they've ever seen. He doesn't know what he's gotten himself into, and he's scared of his father now a hundred times more than the monsters he's starting to learn lurking in the darkness. The air is immobilizing to breath, as if it will explode if he as much as twitch a finger.
 
-"Fine," John says, finally, after long horrifying pause. Cold and without emotion. "Stay here, be with the monster, whatever, I don't care," he says with narrowed eyes. "You're telling me you choose this thing over your *brother*, over your father, and over the mission for your *mother*. I don't know what else to say then. I don't know how I can fail you so completely. But I failed you. I don't even know if you're my son anymore. But you go ahead do what you want. Stay then, if you want. I hope this thing is worth it."
+"Fine," John says, finally, after long, horrifying pause. Cold and without emotion. "Stay here, be with the monster, whatever, I don't give a damn," he says with narrowed eyes. "You're telling me you choose this thing over your *brother*, over your father, and over the memory of your *mother*. I don't know what else to say then. I don't know how I can fail you so completely. But I failed you. I don't even know if you're my son anymore. But you go ahead do what you want. Stay then, if you want. I hope this thing is worth it."
 
-There is no anger in his voice anymore. But his voice has been even more horrifying and dangerous than when there is.
+There is no anger in his voice anymore. But his voice has been even more horrifying and dangerous than when there is. His voice sounds dead.
 
 Dean can't move. He holds the cat and stands in the bathroom, and watches his father pack, and watches his little brother ask why Dean's not coming, and then watches them leave the motel room, slamming the door. Then there is the sound of the Impala's engine starting, followed by its leaving.
 
@@ -1323,11 +1323,11 @@ His father actually left. Along with his brother.
 
 Only because Dean wants to save the cat. The magical black cat that brings his mom's memory to his dream and brings him peace at night like nothing and no one has ever done before.
 
-Dean stares out of the window for a long time. Until the cat in his arms calls him -- it's still just "meow", but Dean thinks he's calling him, so he looks down and sighs. Cat is still wounded and bleeding. Right. And he promised him to take him to the vet.
+Dean stares out of the window for a long time. Until the cat in his arms calls him -- it's still just a weak "meow", but Dean thinks he's calling him, so he looks down and sighs. Cat is still wounded and bleeding. Right. And he promised him to take him to the vet.
 
 He doesn't know how he's going to do that, but he's going to do that.
 
-Dean packs his things in his little bag, with his little clothing and his toothbrush, leaves the motel room at the middle of the day.
+Dean packs his things in his little bag, with his little clothing and his toothbrush, leaving the motel room at the middle of the day.
 
 He closes the door behind him, still holding Cat in his arms because no way is he going to let Cat walk by himself again until he gets better. And just like all the road trip movie he's seen (but unlike any of them), Dean Winchester, five years old, with a black cat, sets out onto the road.
 
@@ -1341,17 +1341,147 @@ He closes the door behind him, still holding Cat in his arms because no way is h
 >
 > Day 4: Dean takes Cat walking
 
+The motel is not too far from a highway. Dean follows the arrow pointing toward the road, and he walks along the highway.
+
+The blue sign by the side of the road tells him he's two miles from a place called "Sioux Falls". Dean decides that's as good a destination for him and Cat as any, so he walks toward it.
+
+The number on the sign changes to one after a while. Dean loses track of time already, focusing only on his steps, getting heavier and more tiring by the minute, but he doesn't slow down. Cat sits quietly in his arms, licking his palm where it holds close to his head, leaving a small tingling, wet feeling.
+
+The exit of the highway appears, and it leads to a small town not too different from any other little towns they've been staying. The streets are quiet with only very occasionally one car or two passing by. There are barely any pedestrians walking on the street.
+
+The sun is getting too hot overhead. Dean can feel his skin getting sweaty and sticky, small streams of sweat trickling down his forehead, but he doesn't have extra hand to wipe it, not without risking dropping Cat. So Dean just lets it be.
+
+There are a few stores having the sign "open" blinking lazily behind the window.
+
+Dean walks along the street, glancing left and right, trying so hard to find one that says something like "animal hospital" in his imagination. He murmurs it under his breath, willing it to show up before him magically.
+
+But he doesn't see any. So he keeps walking.
+
+He passes by a burger place, where incredibly delicious smile creeping out of the opened door. Dean swallows hard, ignoring the protest from his stomach. He doesn't have any money, and he doesn't have time for food, not when Cat is still weak and hurt in his arms. He'll figure something out later.
+
+Then there's a grocery shop near a crossroad. Then a Chinese diner place.
+
+Dean can feel the hunger crawling in his stomach like a tangible thing, like a hungry snake swimming inside him, demanding his attention. He swallows again, and decidedly pretends he doesn't hear the joyful bell sound inside those diners that he knows means some food is ready in the kitchen and some people are ready to be served. Some people that is not him. These food has nothing to do with him. He tells himself firmly. He shouldn't get distracted, no matter how much he wants to push those doors open and tell the grownups in there to give him some food.
+
+He just walks on, eyes searching for the right place that can help Cat.
+
+Another car or two drive past him slowly under the glaring sun.
+
+He's also thirsty. And his steps heavier and heavier. He can use some drink, and his feet want nothing more than to give up and lie down somewhere.
+
+Dean ignores them. He ignores the soreness in his shoulders and arms that hold the weight of Cat, the dullness in his feet and legs, the tension on his back where his small bag is, the dryness in his throat. He ignores them all. He looks at the little thing in his arms.
+
+Cat is looking at him without blinking, eyes blue and round. If he's a human, Dean imagines that almost like a look of someone mesmerized by what he sees, staring so attentively that he can't move his eyes away. He wonders if it's just Cat or all cats stare like that, or have eyes as beautiful as his.
+
+"Hey, buddy," Dean says in a gentle voice, realizing his throat is dryer than he realizes, but he ignores it again. He doesn't realize his heart is lighter just by meeting Cat's eyes. He's so beautiful just like that, Dean thinks. "You alright? Hang in there, okay? We'll find something for you real soon, I know it."
+
+Cat's ears twitch slightly, turning forward, pointing directly at him, like two radar stations just tuned in to the most interesting source of sound, like he's enjoying the sound of Dean's voice. Almost as if he can understand him.
+
+Dean chuckles softly, feeling less tired now just like that. He catches up his pace, looking around the street again.
+
+There's an old book store, then a record store. His eyes skip past them, looking as far as he can.
+
+Another car drives by him, but this one doesn't drive on like the rest of them. It slows down almost to the same speed of his walking pace, following him for half a block.
+
+Dean doesn't notice it until he reaches the end of that block, waiting at a crossroad. The car parks next to him, turning on the blinking turning lights.
+
+A new wave of panic hits him, different from the one he felt when his father left him. This is the first time he realizes he's only in this world now, and there are other humans and other things out there, in the world, and now he's in the middle of the "out there", he's in the middle of everything else. Like the fairy tale stories he used to hear his Mom telling, like those lost princesses in the deep of a dark woods, and even though he's in a small town instead of woods, he knows what can lurk out there, he knows monsters can look like humans just from the appearance, he knows because he has once seen his father shot one man on the head, and his father told him, that's a monster disguised as a human. He believed him. Because the alternative would be even more horrifying to think.
+
+He clings to Cat even closer, feeling the temperature of his own hands and feet getting cold suddenly.
+
+The car opens a door from the driver side. Dean scans the road around him. The crossroad still has red light in front of him; the car is parked by the street right to his left; he doesn't want to go back the way he came because he knows there is no vet there; so maybe he can run down the road to his right?
+
+He's still deciding his options when the voice calls out to him. "Hey, kid! You alright there?"
+
+Dean has no option but to look up.
+
+The woman walking off the car wears a police suit. Only now does Dean see the word "Police" inked on the side of the car. He tenses even more, worried that he's in real trouble now.
+
+She looks younger than Dean ever remembers his Mom looks like, only in the old photos when she shows him. Black hair curls around her shoulders. She has a kind smile.
+
+"Yes, Ma'am," Dean answers reflexively, holding Cat even closer, hunching over him as if he tries to hide him from the view with his body.
+
+The policewoman still sees the cat. Dean can see the way her eyes glance down into the furry black ball in his arms, widening and growing more interested. Dean lowers his eyes, staring at the ground before him, waiting. Waiting for another grownup trying to take Cat away from him, just like Dad.
+
+The policewoman crouches down in front of him so she's about the same as him, trying to catch his eyes again. "Hey, uh, what's your name? What are you doing here alone with this little thing? Where are your parents?"
+
+There are too many questions and Dean doesn't even know where to start -- or if there is anything he really can say, considering all the warnings Dad has given him about secrets in the family. So he doesn't even try. He licks his lips, staying silent.
+
+The policewoman waits for a moment before letting out a short breath. "I'll give you my name and you can give me yours, how about this? I'm patrol officer Mills, but you can call me Jody." She reaches behind her and takes out a badge to show before his eyes. Dean takes a quick glance. The badge does read "Jody Mills" right there, with a small photo of the same policewoman staring back at him, but he has also seen many badges looking just like that in the trunk of Impala with his Dad's name on it, and he knows as a fact his Dad is not really a policeman. So that doesn't really mean anything. Dean lowers his eyes again, biting his lips.
+
+She puts the badge back into her pocket. "What about his name? This little thing." She reaches a finger toward Cat, almost touching him. Dean takes a quick step back, turning his body a little to hide Cat from the officer. "Very protective, I see." Jody lowers her hand, doesn't seem to be annoyed. "At least you can tell me what his name is?"
+
+"Cat," Dean answers with a small voice. This much should be okay to tell people know.
+
+"Yeah, I can see that." Jody smiles a little.
+
+"The name." Dean raises his voice a little. "His name is Cat."
+
+"Oh, Cat." Jody blinks. "Nice name. And how's Cat doing here?" She looks down at Cat, as if she's actually talking with the cat. A small warmth grows in Dean, anyone who is willing to directly talk with Cat wouldn't be a bad person, isn't it?
+
+Cat meows softly in a voice, as if a greeting. His head turns slightly in Dean's arms, his ears pointing toward the policewoman, looking quiet and friendly.
+
+"Oh, really?" Jody talks with the cat, as if she understands what Cat just said, as if there is a conversation between them that Dean's missing. *Wait, could she really understand Cat?*
+
+"What did he say?" Dean asks, watching them, can't help himself.
+
+Jody looks back at him with a glint of mischievous light in her eyes. "He said you are lost. He wanted me to take care of you and find your family for you."
+
+"That's not true," Dean corrects her with a frown. "I'm not lost. He's hurt, I'm looking for a vet for him." He opens his arms a little, nodding at the little wrapped paws in his cradle.
+
+Jody watches closely, then turns to point out a direct. "The vet is down this street at the corner. I can take you there in my car if you want."
+
+Dean looks in the direction she points. "No, thank you. I can walk."
+
+"I can walk with you," she offers kindly.
+
+Dean doesn't know what to do about it. As much as he starts liking this kind, young police officer, he still remembers the lesson his Dad taught him about never trusting any stranger, no matter how kind they appear to be, because monsters can appear nice and friendly too before they start eating people, better safe than sorry.
+
+He hesitates.
+
+Cat purrs quietly in his arms, licking his hand to catch his attention. And when Dean looks down, Cat moves his head deliberately up and down, looking just like a nod.
+
+"What? You saying it's okay?" Dean asks him quietly.
+
+Cat nods again. And this time, there's even a slow wink, one eye at a time. The meaning is unmistaken.
+
+"Fine, then, I guess," Dean tells Jody. "My cat thinks it's okay."
+
+Jody chuckles quietly. "I'm glad your cat seems to like me." She straightens up and starts walking down the street. Dean follows a few steps behind her.
+
+They pass a taco stand on their way.
+
+The warm, nice smell makes Dean swallow again. He's not even tall enough to see what's on that table, but the smell already promises something nice and would ease the grumbling in his stomach. He forces himself to stare at the road before his feet.
+
+Jody slows down her pace.
+
+The man behind the stand waves at her. "Hey, Jody! How's the work? Busy?"
+
+Jody answers easily with a smile, "Quiet enough for a Sunday. Only one accident on the highway five miles back, I just came back from there." She nods over the shoulder toward Dean, "Just in time to pick up a duckling and a cat."
+
+The man glances over the table to where Dean stands, then looks back at her, hands reaching the bags of ingredients as he asks, "I bet you haven't got time for some lunch, then."
+
+"You know me too well," Jody answers, giving Dean another quick glance. "Actually, make it two."
+
+"Sure thing." The man pulls out two more taco shells and reaches for more ingredients.
+
+Dean shifts his feet uneasily, drawing small circles with the tip of his shoes. "I'm not hungry," he lies, talking to the road before him.
+
+"Sure," Jody says. Dean lifts his head just in time to see her throwing him a funny look. "I'll keep it for later then." She tells the taco maker, "Pack the other two to go, will ya?"
+
+Dean's shoes draw out even larger circles on the ground. He doesn't know what to do with that fuzzy, warm feeling inside him. That's almost the same feeling when he fell asleep with Cat. That's the second time in the short week he's sensing it, Dean thinks with a daze, *Since when does the life suddenly get easier?*
+
 
 
 
 
 ###### [TBC]
 
+(Dean panics but no regrets, he walks on street for miles and sits by the road. They're in South Dakota, Jody (20y, patrol officer) finds him and takes care of him. Dean doesn't want to give Jody John's number initially, Jody takes him and cat to vet to take care of both of them first. Dean gets food and grateful, then talks. Jody gets John back, scolds him, makes him take Dean and Cat, and John obeys. Cat sorta just starts living with them due to Dean's strong insistence and that's one thing John can't do anything to change his mind.)
+
 He doesn't think his father would actually leave when he said that. But he did.
 
 The cat is meowing quietly in his arms, as if urging him not do that, it's not worth it defying his dad's wrath for him, as if telling Dean to just leave him, let him be -- let him die, if it means it pleases his father. Dean's not having any of it. He doesn't know where the courage comes from, the sudden rising desire in his chest is as strong as that night, the worst night of his life -- when he has his little brother in his arms, he wants to protect him with his life, and now, with the black cat in his arms, he wants to protect him with his life, too.
-
-(Dean panics but no regrets, he walks on street for miles and sits by the road. They're in South Dakota, Jody (20y, patrol officer) finds him and takes care of him. Dean doesn't want to give Jody John's number initially, Jody takes him and cat to vet to take care of both of them first. Dean gets food and grateful, then talks. Jody gets John back, scolds him, makes him take Dean and Cat, and John obeys. Cat sorta just starts living with them due to Dean's strong insistence and that's one thing John can't do anything to change his mind.)
 
 Dean doesn't know cat gender until he meets vet here, and breed/age (Cas ~1y, domestic shorthair, "Ojos Azules", Spanish for Blue Eyes); vet name Lucas (Latino)
 
