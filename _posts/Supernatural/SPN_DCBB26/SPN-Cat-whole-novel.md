@@ -3,7 +3,7 @@ layout: post
 title: 【Destiel】There is a monster under the bed -- and it says "Meow"
 date: 2026-07-05 16:45
 categories: ["SPN"]
-characters: ["Dean Winchester", "Sam Winchester", "Castiel", "John Winchester", "Bobby Singer"]
+characters: ["Dean Winchester", "Sam Winchester", "Castiel", "John Winchester", "Bobby Singer", "Jody Mills", "Sean Mills", "Ellen Harvelle", "Bill Harvelle", "Jo Harvelle"]
 tags: ["Supernatural", "英文", "destiel"]
 pov: 第三人称
 origin: 2026 DCBB
@@ -16,7 +16,7 @@ published: false
 
 **Rating:** General
 
-**Warning:** No Archive Warning Applies
+**Warning:** Graphic Depictions of Violence
 
 [TOC]
 
@@ -120,6 +120,28 @@ He trains them, offers other things the best he can manage but usually not good 
 He's alerted to cat but Dean insists so he gives in, allow Dean to keep him, but claims as soon as cat acts suspicious he'd act. Cas as cat consistently protects the boys, so John allows it to live with them.
 
 Not much difference about the rest for John. (Not focus on him, don't depict too godawful, just reasonably awful with good reason)
+
+(revised:)
+
+still always grieve, keep thinking about Mary
+
+still very head-strong on revenge
+
+still learning about hunting (he's still beginning to hunt); a lot of rookies' mistakes in hunting
+
+try to do the right thing with the boys but doesn't know how to
+
+flashback of war time, time with Mary/boys, nightmare, dreams of monsters
+
+Cas helps his dreams too
+
+John POV first time (chap 1-4): try to get money from pool/poker but isn't very good at it, doesn't win, no money for food, doesn't know how to credit scam yet, hungry himself, feel sorry for boys, breakdown alone; try to apply for credit car, no mailing address, struggle for money, try writing journal, last entry is May 17, 6th anniversary, Sam first step is toward Dean.
+
+Then next night, try his luck in next town, got some money, take them out eating steak as celebration, doesn't tell them because doesn't want them to know about money situation.
+
+Third night, case, animal shapeshifter (kitsune?), suspect it's Cas, paranoid, kill him.
+
+When Cas comes back again, scared, it's already a different cat, John keeps distance to observe, on purpose to leave Dean with Jody, want to see what Cas really is/wants to do with Dean when it thinks John's not there, but doesn't see anything malicious.
 
 #### Demon POV
 
