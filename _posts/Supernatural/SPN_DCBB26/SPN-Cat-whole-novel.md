@@ -1669,13 +1669,79 @@ He closes his eyes. "Thank you," he answers. "And good night."
 
 <br>
 
+His Dad comes knocking first thing in the morning. Dean isn't fully awake at the time. Cat shifts in his arms, nuzzling and licking his chin.
 
+Dean tries to protest with his eyes closed. "Cat," he grumbles. "Come on, let me sleep."
 
+Then his brain catches up. His eyes snap open. "Cat!" He stares at the little black fur ball in his arms, full of energy and none of the grogginess from yesterday. "You look good!"
 
+Cat answers with another bout of enthusiastic licking, making his face all wet. If it's not for the gauze around his body, Dean would never know he's even wounded.
+
+Dean chuckles happily. "Good morning to you too, Cat."
+
+That's when he hears the sound of door opening and a man's voice coming through, low as it is, there is no mistake who the owner of the voice is.
+
+"I'm here for my son," his Dad says.
+
+There is a second voice answering, quieter, a woman's voice. Officer Jody, Dean remembers, climbing off the bed and putting on his clothes as quietly and quickly as possible. He realizes his old clothes from yesterday are all clean and dry, too, smelling faintly like a fresh detergent. The smell isn't a familiar flavor, but at least it's clean.
+
+Jody has talked for a long minute, the air in the room feeling so quiet that it's almost suffocating. Dean tries to open the door to a small opening and peaks outside. Unmistakably, his Dad stands outside the door, looking annoyed, but also... maybe a little impressed? Dean hasn't seen that face very often to know for sure what that look means.
+
+Jody has her back to him. Dean can only see her waving one hand in the air, the other clenching into a tight fist, sitting stiffly next to her, as if it's taking all her will not to throw that hand onto the face of the man she's talking with. Dean can't help wondering what she's saying, but if he opens the room door any wider, his Dad would for sure notice him.
+
+When Jody finally finishes, his Dad nods a few times. Dean watches with fascination that they even shake hands, and then Jody starts walking toward the room he's in.
+
+He rushes back into the room, pretending to pack his small bag (which isn't even opened since yesterday), put it onto his back, and pick up Cat.
+
+Jody opens the door right at the moment when he's ready.
+
+"Your Dad's here," she tells him, showing no sign of knowing that he's been trying to eavesdropping. "He won't give Cat any trouble."
+
+Dean nods quietly, still in amazement that she's managed to do that. "Thank you."
+
+Jody squats down, then, making herself the same height as Dean. "Call me if you need anything, okay? I don't know everything, but I know this, life is hard, and based on what you told me, it's even harder for you and your family. I know I can't do much, but I hope you can find what little joy you can find, like, Cat makes you happy, then hold on to it. It's not going to make the bad things go away, but the bad things can't take away the good things, either. Remember this."
+
+Dean doesn't fully understand that. Not yet, anyway. Not until a very long time after this. But he does remember.
+
+Dean nods again.
+
+Jody stands up and presses a kiss on top of his head. "Have a wonderful life, Dean," she says.
+
+Dean walks out of the room, toward his Dad. His arms instinctively hold tighter around Cat, as if bracing himself.
+
+His Dad looks him up and down, his eyes lingering on the cat for a moment too long. Dean's heart is trapped in his chest.
+
+"I'm..." his Dad starts, then falters. "I see there is no way I can make you give up that cat, is it?"
+
+Dean shakes his head, waiting, waiting for what the worst thing he's feared about to happen.
+
+His Dad sighs heavily. "You're just as stubborn as I am. Guess I shouldn't be surprised, you really are my son."
+
+Dean frowns.
+
+John starts walking down the steps. Dean isn't sure if he should move, if he's allowed to follow. He glances back at Jody, unsure.
+
+John looks back at him over his shoulder. "What are you waiting for? Sammy's asking for you since yesterday. You better show up before he throws a tantrum again. We can grab some breakfast before I have to get some work done."
+
+Dean moves to the top of the stairs outside the door. "And Cat?" he ventures, with all his courage. He tries not to keep the hope high. "He can stay?"
+
+John's eyes scan the cat again, up and down, as if trying to find something evil hidden in him but fails. He turns back, continuing heading toward the parked car. "For now," he says. "If he acts funny and does anything, we'll see about that."
+
+That's not exactly a comforting promise. Dean thinks. But after all, that's probably the best he can get from his Dad already.
+
+He whispers to his cat, "You're not gonna act funny, are you? You'll stay with me?"
+
+Cat meows softly, raising a paw to touch his hand.
+
+"I'll take that as an yes." Dean kisses the tip of that paw, following his Dad to the car.
+
+His little brother is the most cheerful little thing on Earth to see him. Dean forgets about the arguments with his Dad and all the misery since yesterday for the moment when his kid brother babbles and wobbles toward him on the back seat.
+
+He sits into the car, crowded by his little brother and his black cat, feeling he's at home again.
+
+<b>
 
 ###### [TBC]
-
-makes him take Dean and Cat, and John obeys. Cat sorta just starts living with them due to Dean's strong insistence and that's one thing John can't do anything to change his mind.)
 
 He doesn't think his father would actually leave when he said that. But he did.
 
