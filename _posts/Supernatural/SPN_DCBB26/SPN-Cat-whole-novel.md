@@ -1407,7 +1407,7 @@ The policewoman crouches down in front of him so she's about the same as him, tr
 
 There are too many questions and Dean doesn't even know where to start -- or if there is anything he really can say, considering all the warnings Dad has given him about secrets in the family. So he doesn't even try. He licks his lips, staying silent.
 
-The policewoman waits for a moment before letting out a short breath. "I'll give you my name and you can give me yours, how about this? I'm patrol officer Mills, but you can call me Jody." She reaches behind her and takes out a badge to show before his eyes. Dean takes a quick glance. The badge does read "Jody Mills" right there, with a small photo of the same policewoman staring back at him, but he has also seen many badges looking just like that in the trunk of Impala with his Dad's name on it, and he knows as a fact his Dad is not really a policeman. So that doesn't really mean anything. Dean lowers his eyes again, biting his lips.
+The policewoman waits for a moment before letting out a short breath. "I'll give you my name and you can give me yours, how about this? I'm patrol officer Rhodes, but you can call me Jody." She reaches behind her and takes out a badge to show before his eyes. Dean takes a quick glance. The badge does read "Jody Rhodes" right there, with a small photo of the same policewoman staring back at him, but he has also seen many badges looking just like that in the trunk of Impala with his Dad's name on it, and he knows as a fact his Dad is not really a policeman. So that doesn't really mean anything. Dean lowers his eyes again, biting his lips.
 
 She puts the badge back into her pocket. "What about his name? This little thing." She reaches a finger toward Cat, almost touching him. Dean takes a quick step back, turning his body a little to hide Cat from the officer. "Very protective, I see." Jody lowers her hand, doesn't seem to be annoyed. "At least you can tell me what his name is?"
 
@@ -1467,9 +1467,207 @@ The man glances over the table to where Dean stands, then looks back at her, han
 
 Dean shifts his feet uneasily, drawing small circles with the tip of his shoes. "I'm not hungry," he lies, talking to the road before him.
 
-"Sure," Jody says. Dean lifts his head just in time to see her throwing him a funny look. "I'll keep it for later then." She tells the taco maker, "Pack the other two to go, will ya?"
+"Sure," Jody says. Dean lifts his head just in time to see her throwing him a funny look. "I'll keep it for later then."
 
-Dean's shoes draw out even larger circles on the ground. He doesn't know what to do with that fuzzy, warm feeling inside him. That's almost the same feeling when he fell asleep with Cat. That's the second time in the short week he's sensing it, Dean thinks with a daze, *Since when does the life suddenly get easier?*
+She tells the taco maker, "Pack the other two to go, will ya?"
+
+Dean draws out even larger circles on the ground. He doesn't know what to do with that fuzzy, warm feeling inside him. That's almost the same feeling when he fell asleep with Cat. That's the second time in the short week he's sensing it, Dean thinks with a daze, *Since when does the life suddenly get easier?*
+
+<br>
+
+They arrives at the vet place shortly after. Jody pulls the door over for him and Dean follows in quietly.
+
+The place is cozy little place. Dean realizes he's been imagining a place with overbright light and stiff white wall, like the hospital in his impression, but this place is more like a pet home than a pet hospital. The walls are decorated with colorful pictures of cute little animals, some he recognizes, some he doesn't. Cats, dogs, rabbits, and birds are the most common ones he sees.
+
+Jody walks up to the counter while he's still taking everything in.
+
+After a short while, a young man walks around the front desk, edging closer to him, crouching down in front of him. "Hey, buddy. Mind if I take a look at Cat?" he says, voice gentle.
+
+Dean looks down at Cat, asking for his opinion. He's learnt to trust Cat's intuition by now.
+
+The little whiskers next to Cat's nose twitch as he turns his head toward the man, sniffing the air between them. The man waits patiently with a hand reaching closer for Cat to examine.
+
+"Aren't you a pretty little thing?" The man smiles quietly as Cat finishes sniffing and gives his nod just the same way he approves Jody. Dean feels a sense of proud bubbling up in his chest as if the praise is for him.
+
+"He's the most beautiful thing I've seen," Dean murmurs an agreement.
+
+"Look at his eyes. I've never seen any black cat that's not a kitten has such blue eyes." The man exhales, as if trying to hold himself back from more exciting comments, to not startle Cat or Dean.
+
+"Is it rare?" Dean's curiosity is intrigued.
+
+"Rare enough around here, at least." The man smiles, reaching both hands toward Cat, looking like he wants to take him off Dean's arms. "I think he's probably a 'Ojos Azules', literally 'Blue Eyes', but I need to take a closer look to be sure. Jody also said you want his wounds looked at, right? May I?"
+
+It takes everything in him to let the man take Cat. Cat licks the back of his hand, giving him a soft meow as if telling him it's okay, this man can be trusted. That's the only way Dean can make himself watch the man take Cat and move toward a small door behind the front desk.
+
+"Can I come?" Dean follows him, without being told so.
+
+"I see there's no way to keep you away from him, isn't it?" The man chuckles softly.
+
+Dean shakes his head.
+
+"Come on in, then. Ain't no secret in here. I'm just gonna give him some check-up." The man asks, while leading them into a small room that's not too different from a dentist's office, except in the place of a terrifying chair-bed, it's a long table with clean table cloth. Some tool boxes stacked at the end of the table and on the shelf near the corner. "When's the last time you have him looked at? Did he get the bug checked? Anything I need to know about?"
+
+Dean realizes he hasn't let any of them know that he didn't really know Cat, not until three days ago; he doesn't even know if Cat is a "he", he just thought it fits. He has no idea what kind of cat he is, or how old he is, or really, anything at all. All he ever knows is that Cat appeared out of nowhere when he and Sammy got scared, and he wished so hard that his Dad was there, or, just, anything that can keep them safe could be there. It can't be a coincidence that that's when Cat showed up, right? But still, he feels so bad that he has no answer to any of his questions.
+
+He shakes his head and feels almost angry about himself out of nowhere. All he knows is -- "He's hurt. His... hands and feet," Dean says, gesturing at his own hands. Before realizing that's probably not the right words -- "I mean paws. His paws were hurt from trying to bring us food. I tried to help him, but that's not enough. And..." he bites his tongue for a second, hesitating, before adding, "... and I think Dad did something to him, I don't really know what, but it's bad. Really bad. I thought..." He can't complete his sentence. He doesn't want to think about the emptiness in his stomach when he opened the door and found Cat bloody, so weak but still so desperate to come back to him. He still doesn't want to think about what happened between Dad took him away and he came back. The only thing important is he's here now, and he's alive.
+
+"Yeah, that's... that's about it," he concludes.
+
+The vet and Jody exchange a look. The man speaks first, "Don't worry, I'll check him up." He starts unwrapping the messy bandages Dean did the night before. "It might be a while, though," he says while he works, "you might want to take a seat. You can still see him from there."
+
+Dean glances around. Against the wall at the corner, there are two chairs sitting side by side, but judging by the distance, he doubts he'd be able to see Cat whine or twitch if he feels pain. He doesn't want to be so far away.
+
+"I'll just be here," he says, trying to be polite.
+
+Jody walks over to the chairs without a word, and brings them with her, placing them right behind him. One for him, and one for herself. "Sit, kid, and eat your taco. You heard the Doc, it might be a while, but Cat is in good hands. God knows how many animals he's saved. Aren't you, Doctor Mills?"
+
+The doctor chuckles quietly. "Told you to call me Sean, Jody. 'Doctor Mills' sounds like the ones doing cardiology surgeries in medical drama shows."
+
+"What's the problem with that? You do cardio surgery too. You saved my dog, remember?" Jody raises one side of eyebrow.
+
+"Hard to forget," Sean answers without looking back, hands busy treating the wounds on Cat. "The problem is, those shows always make these doctors pretty faces but no idea how to even hold a knife the right way."
+
+"Well, at least they make good romance shows. Who looks at how they hold their knives any way."
+
+"Apparently I do."
+
+Tension wears off from his shoulder slightly listening to their exchange of arguments. Dean finds himself does exactly what the officer Rhodes told him to do, the same way he would have done if it's his Mom telling him what to do. Even their demeanor doesn't look too different, in a way. For a second, Dean even thinks he has fallen into a trance and all this, the small town, the long highway walk, the midafternoon sun of a hot summer day, has all been a dream. He's in a room decorated with cute creatures, with his Mom taking care of him and his pet. Everything is peaceful and quiet.
+
+Dean squeezes his eyes shut, hard, and opens them. The light of the room comes back to him, and the policewoman, Jody, is watching him carefully, with a concerned look that's not unfamiliar by now, and the opened box of taco holding out to him. It's not a dream because it's not his Mom. And behind the operation desk, taking care of his cat, that's not his Dad. They are not his family, but strangely, he feels the same kind of sense of safe when he's with his family. Maybe even more so, considering the fear he felt around his Dad this morning and many other times.
+
+"Thank you," Dean says, sitting down and taking the food box. The tacos don't feel too hot now, but they still smell like Heaven. He gets a feeling it's not something people usually would be allowed to do, eating in a place, but if the doctor is not stopping him, he's not gonna point it out.
+
+"No problem," Jody tells him, voice soothing.
+
+Dean puts the box on his lap, his hands fidgeting the edge of the plastic box, his eyes switching between the quiet black cat on the table and Jody. Then he says quietly, "Dean. My name is Dean."
+
+He sees a small smile bloom at the corner of her mouth from the peripheral of his eyes.
+
+"Nice to meet you, Dean. I'm Jody," Jody says formally, reaching out a hand for shaking. "Thank you for letting me know."
+
+Dean hesitates another second before shaking it. Her hand is warm and gentle. Almost reminds him of his Mom again. Dean thrusts a taco into his mouth to stop himself from thinking. He doesn't want to accidentally start crying there -- he doesn't want to look like a little kid anymore, or weak, that's what his Dad would say.
+
+The food tastes amazing. He doesn't know what meat or sauce was in there, but everything tastes amazing. He wonders if it's because he hasn't really eat much lately. Then he remembers Sammy hasn't eat much lately either. He puts down his hands that almost reach and grab the second one. He closes the plastic box, making sure each corner is locked in place.
+
+Jody watches him. "Save for later?"
+
+"For my brother. I think he'll like it," Dean answers, wondering where Sammy would be now, and that thought quickly leads to, where Dad would be now. His heart sinks.
+
+"Where is he now?" Jody asks.
+
+"With my Dad."
+
+"And where's your Dad?"
+
+"He... left." Dean winces.
+
+"What happened?" Jody shifts on her chair, positioning directly toward him.
+
+But Dean can't bring himself to find what might be behind her eyes when she's looking at him. So he keeps staring at the floor before the chair where his feet can't reach, his fingers fidgeting the closed box. He tells her about the fight they have over Cat, what he said about he'd never let anything happen to Cat, and what his Dad said before he left with Sammy.
+
+He didn't plan to tell her everything initially, but then, once it started, he finds words piling out of his mouth, as if his brain is just eager to get them out, as if, if he has to hold everything in for any longer, playing and replaying in his head, seeing the angry face of his Dad, hearing his voice getting colder and icier by each sentence, he'd burst into flame made of pain, burning alive until he's nothing but a pile of bitter ash.
+
+Tear blurs his vision. He puts his hands between his knees to hold them in place, so they would stop shaking.
+
+He hears loud sigh next to him when he finishes.
+
+Then he hears the sound of cloth shuffling, before the officer moves into his space, holding out her arms to pull him into a hug. One he misses so much from his Mom, one that he never gets from his Dad, not after the day of the fire, one he felt similar warmth when he hold Cat close. And now, he's getting another one.
+
+He leans into the hug, hands clinging onto Jody's arms, closing his eyes. For a second, he can pretend everything is okay and normal and just like before.
+
+"Now, tell me your Dad's number so I can kick his ass," Jody says, after Dean finally looses his fingers and she pulls away slowly.
+
+Dean's first thought is, Dad will be pissed at him for giving away his number to other people, especially a police officer. He chews his lips before telling Jody exactly that.
+
+"Well, he'll have to suck it up," the young officer answers sharply. "He's the one screwed up big and left you. What kind of father do that? I'm not a mom and I already know you don't treat your kids like that. You don't have to go to parent school to know not to do anything like that! The numbers."
+
+Dean gives her the numbers. He has to really make an effort to recall every digit to make sure he doesn't get it wrong. That's the one Dad used to have before the fire and Mom made him memorize. The digits don't look familiar, and he's worried he might get it wrong. He doesn't really remember ever dialing it to call his Dad. He doesn't even know if his Dad still keeps that old number, after the accident.
+
+Jody walks to the corridor to call. Dean goes back to twiddling the edge of the plastic box on his hip, bordering break it off.
+
+Jody's voice raises after a few sentences. It looks like she's already tried so hard to not raise her voice too much, by the look of her hand covering the mouth piece of the phone, but the voice still becomes loud enough to hear from where he sits.
+
+"What are you even thinking?! He's a good kid! And that cat is damn good cat!" Jody snaps at the phone.
+
+A short pause later. "No, sir, with respect, shut up and listen! Either you come back and pick your boy and the cat up, and APOLOGIZE to him, or I swear, I'll find you and you probably don't want to know what I can do in my power. But I assure you, you wouldn't like any of it." Jody gives up pretending she's not angry, waving her free arm as if she is wishing to drag the man she's talking to out of phone and give him a punch. If the topic isn't about him or if he doesn't know the person she's talking to is his father, Dean thinks he might find it amusing, almost reminds him of some comic his Mom once let him read where the characters have fuming smoke over their head when they are really angry.
+
+Another few seconds' pause later, the fuming seems to ease a little, and Jody spells out an address across the phone. Dean assumes she's telling his Dad where to find them. His heart lifts and sinks at the same time: lifts for not having to be alone again, for he can see his little brother again and know he'd be okay; sinks for having to stay with his Dad again, not knowing what he'd do or say when he sees him, not knowing if he'd allow Cat to stay. What if they have the same argument again and Dad tries to take Cat away from him again? What can these kind people, officer Jody Rhodes and doctor Sean Mills, really do to help?
+
+He doesn't realize he's breathing hard and shallow again, his heart beating fast in his chest.
+
+Jody walks back into the room, waving her phone in victory. "He'll be back for you and your cat, don't worry. He promised." She smiles.
+
+Dean gapes at her in awe. "How did you do that?"
+
+As far as he remembers, no one could really tell his Dad what to do and how to do things. Not since Mom.
+
+"I imagine it's her charm," Sean chimes in, while putting away his tools and taking off his gloves.
+
+Dean shoots up from his seat, rushing toward the table, his attention completely taken away by Cat again. "How is he?"
+
+Cat is dozing off on the desk, his eyes blinking lazily, showing more layers of eyelids than usual. His paws and all the open wounds are now cleaned and covered under new gauze, which takes up so much of his little body that Dean feels his chest tight.
+
+"All patched up," Sean tells him cheerfully. "Nothing serious, most of them are just awful to look, that's all. Give it a few weeks and it's gonna be all fresh and healed. I gave him a small dose to make my work easier, so he might be sleepy for the rest of the day. Be careful when the patches start itching, stop him from scratching if you can. Other than that, the only thing I would pay attention to is some nutrition balance. He's a little bit underweight for a one-year-old, but not too severely. As long as you give him regular food, the wet and dry ones, he'll be all good."
+
+Dean's eyes brighten up as he listens to the doctor's advice, but as the last words sink in, his face falls. The food. Cat is underweight, but he doesn't even have any idea how to get him regular food, let alone "wet and dry ones" that he has no idea of what they are. He can't imagine diner burgers would work, even if he and Sammy could have enough to share between them in the first place.
+
+"I got some cans in my office to spare if you want." Sean must notice the change of his mood and he suggests quickly.
+
+"I..." Dean doesn't know how to tell him that it wouldn't really matter anyway. Even if Dad would allow him to keep Cat and take those cans, they wouldn't last forever.
+
+Jody puts a gentle hand on his shoulder, a soothing weight. "Take it. I'll talk to your Dad about that if you worry about it. It will be fine."
+
+*It will be fine.* Dean repeats it in his head, trying to convince himself too.
+
+He nods small. "Thank you."
+
+Sean helps him wrap Cat up and Dean holds him close. Cat smells clean now, no longer the overwhelming smell of blood and fear. Dean relaxes a little. Everything really does look better now.
+
+Jody asks them to wait at the front desk while she walks back to grab her car. Dean almost forgets they left the police car a block away.
+
+When Jody pulls up outside the clinic, it doesn't take much persuasion for Dean to climb into the passenger seat. Sean loads a full bag of cat food in the trunk.
+
+Jody waves him goodbye before driving down the road. The sky is getting darker now.
+
+Dean is surprised when Jody stops in front of a two-story house.
+
+"Where are we?" He glances out of the window gingerly.
+
+"My place." Jody stops the engine, watching him. "Why, you thinking we're going to the station?"
+
+"We are not?" Dean wonders aloud.
+
+"Nah, I already called in, telling them I'm handling something." Jody gets out of the car, going around the car to grab the things in the trunk. "What's there to see anyway? It's not like they have a bed and a shower there. I bet you're exhausted. No place like home, am I right?"
+
+Dean nods mutedly. *No place like home.* But he doesn't have a home anymore, does he?
+
+He follows Jody to get into the house, hovering near the entrance to the living room.
+
+"When is my Dad going to be here?" Dean asks, watching Jody changing shoes. He doesn't want to get too comfortable in this place and immediately has to leave again. Maybe Dad didn't leave for too long or drive too far away; maybe he'd be here real soon.
+
+"Tomorrow morning, he said," she answers, glancing at him with a sorry look. "Guess he's somewhere out of state or something."
+
+"Oh," Dean says, lowering his head. Well, shouldn't have hoped, he tells himself.
+
+He lets himself get led to the guest room and settles down there. All the rest of the night, the shower, the change, the climbing into the bed, are all autopilot.
+
+He really is exhausted, like Jody said. And Cat is sleeping since they left the vet. Dean doesn't even get the joy of nuzzling with him, which makes his mood even more glum.
+
+"I'll see if I can find some cardboard box for him." Jody gestures at Cat when she checks in on him once he's ready for bed.
+
+"He can stay with me," Dean says reflexively, then realizes it's not the motel bed they're talking about. The warm, soft sheet on the guest bed may not appreciate Cat. Dean ducks his head, feeling bad. "If... if it's okay. I... want him here with me." He tries very hard not to say how much better his sleep would be with Cat close to him, because it would really make him sound like he's just one year old, but he's five now. He's a big boy and he shouldn't want that. Dean chews his tongue, waiting for the officer to tell him as such just like the way he know his Dad would comment.
+
+"Of course," Jody answers easily. "Be careful not to squash him, though. You don't want those patches to split again."
+
+In surprise and relief, Dean pulls the cover over Cat, making sure he lies close enough to Cat to feel his body warmth, but not so close to actually touch his fresh gauzes.
+
+Jody turns off the light. "Good night, Dean," she says softly.
+
+Dean waits a beat, then he realizes the woman is not going to tuck him in or tell him angel is watching over him, realizes just once more that she is not his Mom, just someone friendly and warm enough to remind him the concept of family again.
+
+He closes his eyes. "Thank you," he answers. "And good night."
+
+<br>
 
 
 
@@ -1477,7 +1675,7 @@ Dean's shoes draw out even larger circles on the ground. He doesn't know what to
 
 ###### [TBC]
 
-(Dean panics but no regrets, he walks on street for miles and sits by the road. They're in South Dakota, Jody (20y, patrol officer) finds him and takes care of him. Dean doesn't want to give Jody John's number initially, Jody takes him and cat to vet to take care of both of them first. Dean gets food and grateful, then talks. Jody gets John back, scolds him, makes him take Dean and Cat, and John obeys. Cat sorta just starts living with them due to Dean's strong insistence and that's one thing John can't do anything to change his mind.)
+makes him take Dean and Cat, and John obeys. Cat sorta just starts living with them due to Dean's strong insistence and that's one thing John can't do anything to change his mind.)
 
 He doesn't think his father would actually leave when he said that. But he did.
 
