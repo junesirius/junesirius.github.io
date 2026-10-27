@@ -3,20 +3,21 @@ layout: post
 title: 【Destiel】There is a monster under the bed -- and it says "Meow"
 date: 2026-07-05 16:45
 categories: ["SPN"]
-characters: ["Dean Winchester", "Sam Winchester", "Castiel", "John Winchester", "Bobby Singer", "Jody Mills", "Sean Mills", "Ellen Harvelle", "Bill Harvelle", "Jo Harvelle"]
+characters: ["Dean Winchester", "Sam Winchester", "Castiel", "John Winchester", "Jody Mills", "Sean Mills"]
 tags: ["Supernatural", "英文", "destiel"]
 pov: 第三人称
 origin: 2026 DCBB
+long_novels: 【Destiel】There is a monster under the bed -- and it says "Meow"
 published: false
 ---
 
-**Tags:** John Winchester's A+ Parenting, Kid Fic, Kid Dean, Five-year-old Dean, Baby Sam, One-year-old Sam, Weechesters, Dean has never seen a cat before, Cat is not really a cat, Hunger is a constant theme, Childhood trauma warning,  But could have been worse, Cas helped, Main Character Temporary Death, Case Fic, Canon-Typical Violence, Growing Up, Slow Burn, Cat Castiel, Prayers, Minor Angst, Platonic Love, Canon Divergent, Eventual Hopeful Ending
+**Tags:** John Winchester's A+ Parenting, Kid Fic, Kid Dean, Five-year-old Dean, Baby Sam, One-year-old Sam, Weechesters, Dean has never seen a cat before, Cat is not really a cat, Hunger is a constant theme, Childhood trauma warning,  But could have been worse, Cas helped, Growing Up, Cat Castiel, Platonic Love, Canon Divergent, Eventual Hopeful Ending
 
 **Pairing:** Castiel & Dean Winchester, Castiel/Dean Winchester
 
 **Rating:** General
 
-**Warning:** Graphic Depictions of Violence
+**Warning:** No Archive Warning Applies
 
 [TOC]
 
@@ -615,11 +616,11 @@ He checks under the bed. There're spiders and cobwebs everywhere he can see, a p
 
 "There's nothing there. I checked. We're safe. You can sleep, I promise." Dean tells him, climbing onto the bed next to the kid.
 
-Sammy just covers his ears with the bedcover, eyes closed. "There is, I can still hear it," he insists.
+Sammy just covers his ears with the bedcover, eyes closed. "There is. I can still hear it," he insists.
 
-If Dad's here, he'll know what to do. Dean thinks. But Dad went out a couple of hours ago, said he'd be back for dinner, but it's way past dinner time now. It's dark outside, and Sammy said he was hungry three hours ago. Dean found some cookies in the bag Dad left on the motel desk. Dean knew his Dad doesn't like him opening and checking that bag, he knew there were things in there that he wasn't supposed to touch (yet) -- the guns, specifically. He knew what they are, Dad said he'd teach him when he's six, so that's seven months to go. But he had to; Sammy was hungry, what else was he suppose to do? Let him starve? If Dad yells at him later, then he'd just listen but knowing he wouldn't do anything any differently. It's not like there were enough for both of them anyway, just a small handful of fortune cookies, probably from the Chinese take-out they had the day before. So he gave them all to Sammy.
+If Dad's here, he'll know what to do. Dean thinks. But Dad went out a couple of hours ago, said he'd be back for dinner, but it's way past dinner time now. It's dark outside, and Sammy said he was hungry three hours ago. Dean found some cookies in the bag Dad left on the motel desk. Dean knew his Dad didn't like him opening and checking that bag; he knew there were things in there that he wasn't supposed to touch (yet) -- the guns, specifically. He knew what they were; Dad said he'd teach him when he's six, so that's seven months to go. But he had to; Sammy was hungry; what else was he supposed to do? Let him starve? If Dad yells at him later, then he'd just listen, but knowing he wouldn't do anything any differently. It's not like there were enough for both of them anyway, just a small handful of fortune cookies, probably from the Chinese take-out they had the day before. So he gave them all to Sammy.
 
-The kid asked him to read the little "daily fortune" on the fortune papers inside the cookies to him, as if they really could bring them luck, so Dean pretended too. On the back of each paper, there's a Chinese word on it, teaching you how to speak and spell some Chinese. Dean wondered if anyone really learned Chinese that way, but for one-year-old Sammy, he'd settle with anything remotely book-adjacent to read (meaning, to listen to someone read it to him), and that included those tinny little paper strips. So before the kid tired himself out, they both learned how to scribble the words for "please" and "stew" in Chinese, or at least they believed they did a decent job with those strokes in the scribbles.
+The kid asked him to read the little "daily fortune" on the fortune papers inside the cookies to him, as if they really could bring them luck, so Dean pretended too. On the back of each paper, there's a Chinese word on it, teaching you how to speak and spell some Chinese. Dean wondered if anyone really learned Chinese that way, but for one-year-old Sammy, he'd settle for anything remotely book-adjacent to read (meaning, to listen to someone read it to him), and that included those tinny little paper strips. So before the kid tired himself out, they both learned how to scribble the words for "please" and "stew" in Chinese, or at least they believed they did a decent job with those strokes in the scribbles.
 
 There's a strip of fortune paper that reads, "Today's lucky number is seven." Dean read it out to his little brother.
 
@@ -627,19 +628,19 @@ There's a strip of fortune paper that reads, "Today's lucky number is seven." De
 
 Maybe Dad would come back at seven, then. Dean had thought. Though it doesn't look very likely.
 
-Sammy looked around him, waving his chubby arms a little, searching the room. "Do we have a seven somewhere?" He looked Dean with those hopeful large eyes that probably only ever belong to little babies his age.
+Sammy looked around him, waving his chubby arms a little, searching the room. "Do we have a seven somewhere?" He looked at Dean with those hopeful large eyes that probably only ever belong to little babies his age.
 
-Dean rubbed his face and thought hard. "Uh, it's Thursday today, I think. No seven there. But, hey I know one, it's the seventh day of the month today!" he told his little brother, "We got a seven."
+Dean rubbed his face and thought hard. "Uh, it's Thursday today, I think. No seven there. But, hey, I know one, it's the seventh day of the month today!" he told his little brother. "We got a seven."
 
 The one-year-old was satisfied. "We'll be lucky today," he smiled brightly, announcing. And Dean chose to believe him.
 
 When the bedside alarm clock ticks past ten, Dean starts urging the kid to sleep. That's when Sammy starts informing him about the monster under the bed.
 
-Dean already checked under the bed twice, but without flashlight, he really couldn't see anything at all. And he couldn't find flashlight in the bag. Dad must have taken it with him.
+Dean had already checked under the bed twice, but without a flashlight, he really couldn't see anything at all. And he couldn't find a flashlight in the bag. Dad must have taken it with him.
 
-"I'll leave the light on then, and sit right here next to you and I promise I won't fall asleep, so if anything comes out, I'll know immediately and I'll get them away. I'll protect you. So you can sleep. How about that?" Dean tries, stifling a yawn. His own eyelids feel lead-heavy too at this time -- it's close to *his* usual bedtime too, regardless of the four years older in the age he gets, he needs just as much sleep as the kid. But he can stay awake for his little brother and keep him safe until Dad gets back. He can do that.
+"I'll leave the light on then, and sit right here next to you, and I promise I won't fall asleep, so if anything comes out, I'll know immediately and I'll chase them away. I'll protect you. So you can sleep. How about that?" Dean tries, stifling a yawn. His own eyelids feel lead-heavy too at this time -- it's close to *his* usual bedtime too, regardless of the four years older in the age he gets, he needs just as much sleep as the kid. But he can stay awake for his little brother and keep him safe until Dad gets back. He can do that.
 
-But he's also hoping so prayerfully that Dad's here. Or Mom. Someone. But he learns not to think about that too much now. It's pointless. And it hurts too much. It makes him feel better when he focuses on his little brother instead. No one is going to be there for them, he learns that by now after six months, after everything happened last year and this year, only he'd be here for his little brother.
+But he's also hoping so prayerfully that Dad's here. Or Mom. Someone. But he learns not to think about that too much now. It's pointless. And it hurts too much. It makes him feel better when he focuses on his little brother instead. No one is going to be there for them; he learns that by now after six months, after everything happened last year and this year, only he'd be here for his little brother.
 
 The kid just shakes his head under the cover. Dean can only see the tip of his hair shifting at the edge of the cover and the lump under the cover squirming a little. He sighs, climbing off the bed again.
 
@@ -647,43 +648,43 @@ The kid just shakes his head under the cover. Dean can only see the tip of his h
 
 The lump of cover nods.
 
-Dean hesitates near Dad's bag again, seriously considering. He really really doesn't want to break Dad's rules. He'll get into so much more trouble for touching the gun than searching the bag and taking the cookies. But his little brother is scared and there is something under the bed. What else is he supposed to do? He crawls on top of the chair in order to reach deep inside the duffle bag, taking the gun with two hands. The metal feels chilly in his hand. The gun isn't as heavy as he thought, but it's still a big one. Too big for his hands. He climbs back down the chair and walks back to the side of the bed, kneeling down and peeking under it.
+Dean hesitates near Dad's bag again, seriously considering. He really really doesn't want to break Dad's rules. He'll get into so much more trouble for touching the gun than searching the bag and taking the cookies. But his little brother is scared and there is something under the bed. What else is he supposed to do? He crawls on top of the chair in order to reach deep inside the duffle bag, taking the gun with two hands. The metal feels chilly in his hand. The gun isn't as heavy as he thought, but it's still a big one. Too big for his hands. He climbs back down from the chair and walks back to the side of the bed, kneeling down and peeking under it.
 
 "Do you know where exactly it is?" Dean asks. His breath swings a loose cobweb and startles the nearest spider. Dean watches it crawling into the deeper darkness until it's out of his sight.
 
-"It's right there, under the bed, under me. It's making a 'prrr' sound now. Can't you hear it?" Sammy's voice is muffled by the beddings, but Dean can still hear him and the vibration sound of his tongue and lips.
+"It's right there, under the bed, under me. It's making a 'prrr' sound now. Can't you hear it?" Sammy's voice is muffled by the bedding, but Dean can still hear him and the vibrating sound of his tongue and lips.
 
-Dean holds his breath. His heart beats heavily inside his chest. He doesn't really know what to do with the gun in his hand, but he finds it useful to poke in a little; the barrel is long enough to reach places where his hands can't (and really really wouldn't want to get to). He wishes the spiders won't crawl onto his hand as he reaches in, and he really hates the sticky feeling of cobwebs tangling onto his skin.
+Dean holds his breath. His heart beats heavily inside his chest. He doesn't really know what to do with the gun in his hand, but he finds it useful to poke in a little; the barrel is long enough to reach places where his hands can't (and really really wouldn't want to get to). He wishes the spiders wouldn't crawl onto his hand as he reaches in, and he really hates the sticky feeling of cobwebs tangling onto his skin.
 
 He focuses, and he thinks he can hear that purring sound now too. His heart beats fast and loud.
 
 And then, the gun muzzle touches something. The purring turns into a hissing. Dean's blood turns cold. There *is* a monster under the bed. It probably would bite him.
 
-He wants to retract his hand and the gun, but then as he adjusts the grip, the gun -- too heavy and too long for his hands to hold stead -- pokes that thing again, soft and fleshy. The source of that hissing sound makes a loud scratching sound, like something sharp digging into the wooden floor. Dean feels a force trying to grab the gun from the other end and tug it away from him under the bed.
+He wants to retract his hand and the gun, but then as he adjusts the grip, the gun -- too heavy and too long for his hands to hold steady -- pokes that thing again, soft and fleshy. The source of that hissing sound makes a loud scratching sound, like something sharp digging into the wooden floor. Dean feels a force trying to grab the gun from the other end and tug it away from him under the bed.
 
-He gasps and yells, both hands holding the gun with full force now and snatching it back. The force on the other end loosens. The momentum makes him lose his balance, falling back onto his butt and back. The monster jumps out of the darkness from under the bed, staring at him with big round eyes. It's a creature with black fur and teeth and paws. Its chest rises and falls as it breathes heavily, its fur messy as if something just exploded. It's so close to him that Dean stops breathing. All he can see is its eyes. Dean stares at it with startled wide eyes as it stares back. Its long beard shakes as it tilts its head studying him.
+He gasps and yells, both hands holding the gun with full force now and snatching it back. The force on the other end loosens. The momentum makes him lose his balance, falling back onto his butt and back. The monster jumps out of the darkness from under the bed, staring at him with big round eyes. It's a creature with black fur and teeth and paws. Its chest rises and falls as it breathes heavily, its fur messy as if something just exploded. It's so close to him that Dean stops breathing. All he can see is its eyes. Dean stares at it with startled, wide eyes as it stares back. Its long beard shakes as it tilts its head, studying him.
 
-It actually looks kinda cute -- if Dean has to be completely honest, despite his surge of fear and startle -- the way its ears twitching and its tail batting the ground, those eyes fierce and unblinking, but Dean's still freaking out. He doesn't know what it is or how dangerous it is, whether it's deciding to attack him or eat him, if it will jump onto the bed and attack Sammy there. He's never seen something like it before, black and furry with four legs and paws and ears. Its face looks a little like a dog, as in it has eyes and nose and what must be its mouth where the teeth are, but also different, so he'd guess it's some species similar to a dog, a relative of some sort, judging by everything he knows. But he doesn't know much, he's only five.
+It actually looks kinda cute -- if Dean has to be completely honest, despite his surge of fear and startle -- the way its ears twitching and its tail batting the ground, those eyes fierce and unblinking, but Dean's still freaking out. He doesn't know what it is or how dangerous it is, whether it's deciding to attack him or eat him, or if it will jump onto the bed and attack Sammy there. He's never seen something like it before, black and furry with four legs and paws and ears. Its face looks a little like a dog, as in it has eyes and a nose and what must be its mouth where the teeth are, but also different, so he'd guess it's some species similar to a dog, a relative of some sort, judging by everything he knows. But he doesn't know much; he's only five.
 
-Dean scrambles himself up a little, elbows propping on the floor to stay in a half-leaning, half-sitting posture. His hands still grab the gun barrel, far away from any button or lock or trigger (just so that he wouldn't accidently touch anything he shouldn't and hurt anything he doesn't intend to). Just enough to defend himself like a blocker in case the thing/the monster/the creature decides to attack him.
+Dean scrambles himself up a little, elbows propping on the floor to stay in a half-leaning, half-sitting posture. His hands still grab the gun barrel, far away from any button or lock or trigger (just so that he wouldn't accidentally touch anything he shouldn't and hurt anything he doesn't intend to). Just enough to defend himself like a blocker in case the thing/the monster/the creature decides to attack him.
 
-The thing moves its paw cautiously, taking one step closer to him, some pointy teeth flashing by between its lips as if it's going to speak. Dean holds his breath, his body shaking with fear and nerve.
+The thing moves its paw cautiously, taking one step closer to him, some pointy teeth flashing by between its lips as if it's going to speak. Dean holds his breath, his body shaking with fear and nerves.
 
 The creature opens its mouth, and says, "Meow."
 
-The little five-year-old Dean makes a startled yelp at the sound, shifting back some more by his elbows and butt, eying it with thumping heart. His hands are shaking, his palm sweating.
+The little five-year-old Dean makes a startled yelp at the sound, shifting back some more by his elbows and butt, eying it with a thumping heart. His hands are shaking, his palm sweating.
 
-The thing looks like as if that settles all the unsurety it previously had, determining Dean as not dangerous at all at this point. It makes a lazy yawn as if it's bored of the tension, turning its head back to lick its back with full attention.
+The thing looks like as if that settles all the uncertainty it previously had, determining Dean as not dangerous at all at this point. It makes a lazy yawn as if it's bored of the tension, turning its head back to lick its back with full attention.
 
 Dean blinks.
 
 Sammy has emerged from under the cover, peeking from the edge of the bed, looking at the scene carefully. Dean meets his eyes, shaking his head slightly, willing him to move back under the cover into the middle of the bed, where it's the safest. But the kid looks more curious than frightened now, which is a good sign.
 
-Dean turns over to his knees, crawling closer very carefully to the "monster under the bed". The creature doesn't seem to notice or care that he closes their distance. Its pink tongue finishes licking its fur on its back, moving to lick its front paw. Its head moves up and down as it licks. The fur on top of its head look more ruffled than anywhere else, poking out messily in all directions like a bird nest. Dean guesses it's either the underside of the bed or his gun that messed it up.
+Dean turns over to his knees, crawling closer very carefully to the "monster under the bed". The creature doesn't seem to notice or care that he closes the distance between them. Its pink tongue finishes licking its fur on its back, moving to lick its front paw. Its head moves up and down as it licks. The fur on top of its head looks more ruffled than anywhere else, poking out messily in all directions like a bird nest. Dean guesses it's either the underside of the bed or his gun that messed it up.
 
 He puts the gun down, reaching a hesitant hand out very, very carefully, still having his heart in his throat. Seeing the creature still not reacting to any of his movements, Dean gathers a little more confidence and enough of his courage to put his palm on its head between its ears. The creature rubs its head into his hand with a satisfied purr. Dean is surprised. This is not what he'd imagine. He chuckles quietly, moving his hand along its head, flattening the messy fur there.
 
-"I told you there's a monster under the bed," Sammy whispers to him, his head emerged from the cover entirely, studying them.
+"I told you there's a monster under the bed," Sammy whispers to him, his head emerging from the cover entirely, studying them.
 
 "You're right," Dean whispers back, not daring to talk any louder. "But it's actually not so bad. It's kinda cute."
 
@@ -691,23 +692,23 @@ He puts the gun down, reaching a hesitant hand out very, very carefully, still h
 
 Dean shrugs a little. "I have no idea. I'll ask Dad when he comes back. Are you okay with going to sleep now? No other monster under the bed if this is the only one and we got it?"
 
-The kid tilts his head and listens and considers. "Okay," he agrees finally, lying back down.
+The kid tips his head and listens and considers. "Okay," he agrees finally, lying back down.
 
-Dean lets out a relieved little breath. He rubs his nose unconsciously then, with the same hand that he forgot he was using to rub the creature's fur. His nose itches immediately, and he sneezes. The creature gives him an offended glare, as if blaming him for getting the flying saliva onto its freshly licked fur when he sneezed. Dean realizes it has a thin circle of blue edge around its pupil when it looks at him attentively, and it's actually looking pretty cool. He thinks he can almost tell its mood by looking into its eyes, like right now, the thing looks a little annoyed.
+Dean lets out a relieved little breath. He rubs his nose unconsciously then, with the same hand that he forgot he was using to rub the creature's fur. His nose itches immediately, and he sneezes. The creature gives him an offended glare, as if blaming him for getting the flying saliva onto its freshly licked fur when he sneezed. Dean realizes it has a thin circle of blue around its pupil when it looks at him attentively, and it's actually looking pretty cool. He thinks he can almost tell its mood by looking into its eyes; like right now, the thing looks a little annoyed.
 
-Dean murmurs a quick "Sorry," feeling genuinely apologetically, so he compensates by petting and flattening its fur on the back as well. The creature's eyes drift close shortly, edging into him closer, nuzzling into his hand at one point, and ends up curling up between his spread legs and uses his lap as pillow to fall asleep. Its breath evens out, and the purr turns into a quiet sound. Dean realizes one can really hear the sound of breathing if they listen closely enough.
+Dean murmurs a quick "Sorry," feeling genuinely apologetic, so he compensates by petting and flattening its fur on the back as well. The creature's eyes drift close shortly, edging into him closer, nuzzling into his hand at one point, and ends up curling up between his spread legs and using his lap as a pillow to fall asleep. Its breath evens out, and the purr turns into a quiet sound. Dean realizes one can really hear the sound of breathing if they listen closely enough.
 
 He drifts asleep eventually as well, folding over the little thing. The creature is warm and furry, like the softest mattress and pillow and furry blanket all combined, actually quite comfortable to lean into.
 
 He wakes up with the thing's tail wrapping over his back.
 
-Dean learns it's called a "cat", the next day, when his Dad comes back. And that it's *not* a monster (unless it's not *just* a cat), after a series of test his Dad conducted, including silver, iron and salt. The creature -- the cat -- doesn't particularly like the touch of various metals, probably because they're cold, but it appears curious about salt and tries to taste some, licking Dean's finger with its pink tongue, which makes Dean chuckle, which also reassures his Dad that it means it's "clean". Dean is very glad.
+Dean learns it's called a "cat", the next day, when his Dad comes back. And that it's *not* a monster (unless it's not *just* a cat), after a series of tests his Dad conducted, including silver, iron and salt. The creature -- the cat -- doesn't particularly like the touch of various metals, probably because they're cold, but it appears curious about salt and tries to taste some, licking Dean's finger with its pink tongue, which makes Dean chuckle, which also reassures his Dad that it means it's "clean". Dean is very glad.
 
-He gets a speech from his Dad, not unexpectedly, about how he should be able to test whether the creature is a monster or just a creature -- especially when it's a new thing he's never seen before (though "cat" is actually a quite common creature, according to his Dad, they just haven't got a chance to run into one for Dean to acquaintance in his five short years of life) -- all by himself. He's surprised, though, that instead of being scolded for rummaging the duffle bag and taking the gun, his Dad puts a hand on his shoulder with a proud look, and tells him that this is the right thing to do; that if there is something coming to them, it's always the first and the most important thing to do to protect Sammy, to make sure his kid brother is safe; and that if he wants, maybe they can start the lesson for that earlier than planned. Dean feels proud.
+He gets a speech from his Dad, not unexpectedly, about how he should be able to test whether the creature is a monster or just a creature -- especially when it's a new thing he's never seen before (though "cat" is actually quite a common creature, according to his Dad, they just haven't got a chance to run into one for Dean to acquaint with in his five short years of life) -- all by himself. He's surprised, though, that instead of being scolded for rummaging through the duffle bag and taking the gun, his Dad puts a hand on his shoulder with a proud look, and tells him that this is the right thing to do; that if there is something coming to them, it's always the first and the most important thing to do to protect Sammy, to make sure his kid brother is safe; and that if he wants, maybe they can start the lesson for that earlier than planned. Dean feels proud.
 
 Even better, with his Dad's permission -- though not without quite some persuasion and begging, and Dean thinks the hesitant nod is probably mostly due to it being a reward for what he's done right, and Dad's in a not too bad mood this morning -- Dean gets to take the cat with him when they leave the motel and get moving again. Despite his very constant sneezing when he's too close to the cat -- which is only just a little inconvenience, Dean doesn't really mind -- he finds he's rather attached to the little thing, feeling all warm and fuzzy and *safe* when his hands are rubbing its fur. So his hands don't stop petting it when they sit in the car. The cat doesn't seem to mind at all either, curling up on his lap, purring comfortably.
 
-When Sammy asks him what name he wants to give to the cat, Dean finds himself debating between just plain "Cat", "Monster Under The Bed", "Lucky" (since they were just talking about fortune that night right before running into this little thing, and it feels like luck to him), and "Thursday" (which is the day they met). But somehow Dean just knows Dad wouldn't appreciate the name "Lucky", the same way he doesn't like it when Dean drinks water with a straw; and Sammy would say "Monster Under The Bed" is too long a name for a cat and it might give him nightmares; and he decides against "Thursday" himself because it sounds as if to say the little thing is just plain normal like any day of a week while it's all so very special. So he ends up settling on just simple, straightforward, "Cat". Cat doesn't seem to mind that either.
+When Sammy asks him what name he wants to give to the cat, Dean finds himself debating between just plain "Cat", "Monster Under The Bed", "Lucky" (since they were just talking about fortune that night right before running into this little thing, and it feels like luck to him), and "Thursday" (which is the day they met). But somehow Dean just knows Dad wouldn't appreciate the name "Lucky", the same way he doesn't like it when Dean drinks water with a straw; and Sammy would say "Monster Under The Bed" is too long a name for a cat and it might give him nightmares; and he decides against "Thursday" himself because it sounds as if to say the little thing is just plain normal like any day of the week while it's all so very special. So he ends up settling on just simple, straightforward, "Cat". Cat doesn't seem to mind that either.
 
 And after a few tries, Dean manages to make Cat remember and react to the name. He strokes its head a few times while calling it -- he thinks it's a "he", actually, the way it looks at him almost looks like a person -- and Cat learns to raise his head to glance at him with a questioning look before returning to whatever he's doing before that, nuzzling Dean's shirt or licking his paws or chewing his tail. Dean giggles, feeling bubbles of joy in his chest. He holds Cat close.
 
@@ -721,23 +722,23 @@ And after a few tries, Dean manages to make Cat remember and react to the name. 
 >
 > Night 2: hungry, Cat gives them pizza
 
-Dad went out again after they rolled into the next town. It looks almost exactly like the last one, two-way streets with one lane each way, small shops along the street with signs fading in color; the motel has dirty yellow stains on all the walls and ceilings. Dad told them to wait in the room and don't go anywhere, and he'd be back around dinner time.
+Dad went out again after they rolled into the next town. It looks almost exactly like the last one: two-way streets with one lane each way, small shops along the street with signs fading in color; the motel has dirty yellow stains on all the walls and ceilings. Dad told them to wait in the room and not go anywhere, and he'd be back around dinner time.
 
 Dean's stomach tosses uncomfortably. "Do we have cookies or something?" He follows his Dad to the door, asking unsurely.
 
-His Dad throws him a slightly displeased look. "Since when did you pick the habit of eating snacks between meals? I said I'll be back at dinner time."
+His Dad throws him a slightly displeased look. "Since when did you pick up the habit of eating snacks between meals? I said I'll be back at dinner time."
 
 "Yesterday..." Dean starts, but he doesn't get very far.
 
-His Dad answers quickly, "Yesterday was an accident, I didn't know that little town could be so --" he cuts himself off, shaking his head. "It doesn't matter. It won't happen again tonight. I promise. Before I come back, you look after Sammy, don't go anywhere, can you do that?"
+His Dad answers quickly, "Yesterday was an accident; I didn't know that little town could be so --" he cuts himself off, shaking his head. "It doesn't matter. It won't happen again tonight. I promise. Before I come back, you look after Sammy, and don't go anywhere, can you do that?"
 
 Dean lowers his head. "Yes, Sir." And not saying anything else.
 
 The Impala drives away from the parking lot.
 
-His kid brother sits on the bed, watching the daytime TV. Dean glances at the TV, half expecting there to just play some random commercial, but noticing it's "Scooby-Doo" on the screen. His mood lifts a bit.
+His kid brother sits on the bed, watching the daytime TV. Dean glances at the TV, half expecting it to just play some random commercial, but noticing it's "Scooby-Doo" on the screen. His mood lifts a bit.
 
-"Scoot over, I want to watch that too," Dean crawls onto the bed next to his little brother, leaning back on the headboard. He adjusts his sitting posture, and then realizes he's missing the furry weight on his lap -- he's getting used to it after just one day.
+"Scoot over, I want to watch that too." Dean crawls onto the bed next to his little brother, leaning back on the headboard. He adjusts his sitting posture, and then realizes he's missing the furry weight on his lap -- he's getting used to it after just one day.
 
 "Cat?" He calls out, frowning. The cat was right there a minute ago when they came into the room, but Dean doesn't see him now.
 
@@ -745,55 +746,55 @@ His kid brother sits on the bed, watching the daytime TV. Dean glances at the TV
 
 "Maybe he's under the bed again?" Sammy suggests, eyes still on the TV. The beaty, groovy "Scooby-Dooby-Doo, where are you" music rings out as the episode starts rolling, pulling at both of their attention.
 
-Dean sighs and crawls down to his knees on the carpet, peeking under the bed. It's as dark and dirty as the last place, full of cobwebs and dead bugs, and not much to see in the blackness there. But taking from that previous experience, Dean tilts his head to focus on the sound. And unmistakably, he hears a quiet breathing and some crunchy sound.
+Dean sighs and crawls down to his knees on the carpet, peeking under the bed. It's as dark and dirty as the last place, full of cobwebs and dead bugs, and not much to see in the blackness there. But taking from that previous experience, Dean tilts his head to focus on the sound. And unmistakably, he hears quiet breathing and some crunchy sound.
 
 "Cat?" He whispers again.
 
-The crunchy sound pauses a second, and then a pair of eyes emerge from the blackness before his body crawls out. There's a dead rat between Cat's teeth, limbs and tail bloody and limp. Cat meets Dean's eyes, wide and round, as if getting caught doing something he's not supposed to, and then right before his eyes, he drops the rat and pushes it closer to Dean with his paws.
+The crunchy sound pauses for a second, and then a pair of eyes emerge from the blackness before his body crawls out. There's a dead rat between Cat's teeth, limbs and tail bloody and limp. Cat meets Dean's eyes, wide and round, as if getting caught doing something he's not supposed to, and then right before his eyes, he drops the rat and pushes it closer to Dean with his paws.
 
-Dean blinks. "You're hungry." He realizes and immediately starts feeling bad. They never really have enough food, he can barely keep Sammy not to starve, let alone himself, how would he be able to feed Cat now? He completely forgot to think about the food shortage problem when he got excited with the idea that he got to keep Cat with him. Their life isn't exactly a perfect life for a creature to live with. And apparently, Cat is hungry now, and he can't do anything to help.
+Dean blinks. "You're hungry." He realizes and immediately starts feeling bad. They never really have enough food. He can barely keep Sammy from starving, let alone himself; how would he be able to feed Cat now? He completely forgot to think about the food shortage problem when he got excited with the idea that he got to keep Cat with him. Their life isn't exactly a perfect life for a creature to live with. And apparently, Cat is hungry now, and he can't do anything to help.
 
-Dean ducks his head shamefully. "I'm so sorry, buddy. I forgot about your dinner, that you have to scrap it yourself." He eyes the dead rat, which, actually looks not too bad, for a cat, at least it looks juicy and meaty and full of protein, which means good nutrition. He can't even guarantee all that for Sammy's food all the time, much less for his own.
+Dean ducks his head shamefully. "I'm so sorry, buddy. I forgot about your dinner. So sorry that you had to scrap it yourself." He eyes the dead rat, which, actually doesn't look too bad, for a cat; at least it looks juicy and meaty and full of protein, which means good nutrition. He can't even guarantee all that for Sammy's food all the time, much less for his own.
 
-He nods at the rat, talking to Cat again. "And sorry for interrupting your dinner. You can get on with it. Just wipe your mouth before you come join us for TV, alright?" He makes a gesture of wiping his own mouth, feeling a little silly talking with the cat about table manners like he can understand. But in the way the cat looks back at him, he thinks he really can. He wonders if Dad just forgot to tell him that the most important thing about this cat creature is that they can understand humans, or it's just Cat. He gets a feeling that Cat is different. Unique. Special. The only one in the world able to do any of that, and that makes Dean the only one who gets to see that. Which oddly makes Dean feel so special and happy too.
+He nods at the rat, talking to Cat again. "And sorry for interrupting your dinner. You can get on with it. Just wipe your mouth before you come join us for TV, alright?" He makes a gesture of wiping his own mouth, feeling a little silly talking with the cat about table manners as if he can understand. But in the way the cat looks back at him, he thinks he really can. He wonders if Dad just forgot to tell him that the most important thing about this cat creature is that they can understand humans, or it's just Cat. He gets a feeling that Cat is different. Unique. Special. The only one in the world able to do any of that, and that makes Dean the only one who gets to see that. Which oddly makes Dean feel so special and happy too.
 
 Cat tilts his head, pushing the dead rat forward again with his right front paw, moving it closer to Dean, then opens his mouth and closes it, making a biting motion. Dean glances at the rat again, and then Cat, then back to the rat. "You... want to share it with me to eat?"
 
-Cat lets out a quiet "meow" as answer, eyes looking down, pointedly staring at where Dean's stomach is.
+Cat lets out a quiet "meow" as an answer, eyes looking down, pointedly staring at where Dean's stomach is.
 
-Dean's stomach makes a prompt little sound that means he's hungry. They only stopped once for food today. Dad drove them into this new town a little earlier than the lunch hour, and the diner was still serving breakfast menu. They got pancakes and waffles and bacons and eggs, which was a really good meal, considering how hungry they were the night before, so Dean had eaten a lot. But that was many hours ago.
+Dean's stomach makes a prompt little sound that means he's hungry. They only stopped once for food today. Dad drove them into this new town a little earlier than the lunch hour, and the diner was still serving the breakfast menu. They got pancakes and waffles and bacon and eggs, which was a really good meal, considering how hungry they were the night before, so Dean had eaten a lot. But that was many hours ago.
 
-"Ah, I'm not hungry," Dean says reflexively -- the words slipping out of him so easy now without much thinking.
+"Ah, I'm not hungry," Dean says reflexively -- the words slipping out of him so easily now without much thinking.
 
-Cat tilts his head, looking up at him, almost as if judgingly.
+Cat cocks his head, looking up at him, almost as if judgingly.
 
-Dean chuckles at his look and makes a vague gesture as if to push the rat back but didn't actually touch it. "Really. Thanks, buddy, but, uh, that's not really for me -- or Sammy. We'll be fine, don't worry. Um, Bon Appetite?"
+Dean chuckles at his look and makes a vague gesture as if to push the rat back but doesn't actually touch it. "Really. Thanks, buddy, but, uh, that's not really for me -- or Sammy. We'll be fine, don't worry. Um, Bon Appétit?"
 
-Cat doesn't seem very convinced, but he does eventually lowers his head to bite on the rat again until the whole body disappears in his mouth. Dean hears the sound of bones crushing between his teeth, can't help but wondering what else can his teeth crush. Dean hasn't thought about the possibility that Cat might bite him since the first half-hour they met, and he gets the feeling that Cat wouldn't, but *could* him, if he wants?
+Cat doesn't seem very convinced, but he does eventually lower his head to bite on the rat again until the whole body disappears in his mouth. Dean hears the sound of bones crushing between his teeth, can't help but wonder what else his teeth can crush. Dean hasn't thought about the possibility that Cat might bite him since the first half-hour they met, and he gets the feeling that Cat wouldn't, but *could* him, if he wanted to?
 
 Dean doesn't realize he's just staring at Cat until Sammy calls for him, "Dean, this episode is ending if you don't come to watch quickly."
 
-Dean breaks the gaze and scrambles up, crawling back onto the bed, right in time to watch Scooby-Doo and the gang do their impressive acrobatic moves, punching some weird-looking creatures with purple skins, only to tearing down their masks and costumes to show it's just a grumpy old man -- unsurprisingly but also satisfyingly. The episode rolls the credit in a cheerful tune. He stares at the screen where Scooby-Doo's head fading out in a little circle, having a sudden feeling that Cat can do all these too, jumping onto those unsteady surfaces, throwing punches, kicking the bad guys around, sending them to the police. He even wants to bet Cat is better than any of them, with his teeth (so strong that can tear open and crunch the bones) and paws (that can hold the gun and scratch the floor board) and laser eyes (that might just straightforwardly scare them away by staring them hard enough) and ghostly steps (that allows him show up anywhere without anyone know he's there, traveling in the shadow as if he has the super power of invisibility), he'd be the best to solve the Scooby-Doo mysteries. He'd be a celebrity, then.
+Dean breaks the gaze and scrambles up, crawling back onto the bed, right in time to watch Scooby-Doo and the gang do their impressive acrobatic moves, punching some weird-looking creatures with purple skin, only to tear down their masks and costumes to show it's just a grumpy old man -- unsurprisingly but also satisfyingly. The episode rolls the credits in a cheerful tune. He stares at the screen where Scooby-Doo's head is fading out in a little circle, having a sudden feeling that Cat can do all these too, jumping onto those unsteady surfaces, throwing punches, kicking the bad guys around, sending them to the police. He even wants to bet Cat is better than any of them, with his teeth (so strong that can tear open and crunch the bones) and paws (that can hold the gun and scratch the floorboard) and laser eyes (that might just straightforwardly scare them away by staring them hard enough) and ghostly steps (that allow him to show up anywhere without anyone knowing he's there, traveling in the shadow as if he has the super power of invisibility), he'd be the best to solve the Scooby-Doo mysteries. He'd be a celebrity, then.
 
 "They should make TV for cats too, not just dogs," Dean comments suddenly. Little Sammy gives him a funny look.
 
-Dean adds, "You know, at least so that kids can know all about cats, instead of just dogs. Like us! Otherwise they might just run into cats some day and not know what they are, like we did. Someone might accidentally hurt them! It's just not fair."
+Dean adds, "You know, at least so that kids can know all about cats, instead of just dogs. Like us! Otherwise they might just run into cats someday and not know what they are, like we did. Someone might accidentally hurt them! It's just not fair."
 
-Sammy laughs hard, and Dean chuckles, too. He glances in Cat's direction as he shifts again and keeps his legs spread comfortably with plenty space before him. Cat is rubbing his face and mouth with his paws. He even wipes his ears, as diligently as Dean showed him. Dean chuckles louder and turns back to the screen.
+Sammy laughs hard, and Dean chuckles, too. He glances in Cat's direction as he shifts again and keeps his legs spread comfortably with plenty of space before him. Cat is rubbing his face and mouth with his paws. He even wipes his ears, as diligently as Dean showed him. Dean chuckles louder and turns back to the screen.
 
-The TV automatically moves on to the next episode. Cat jumps onto the bed and half-lays on Dean's leg about ten minutes in. Dean heaves him up so he can cradle and comb his back while leaning back on the headboard comfortably. Cat purrs happily as Dean smoothens his fur. The three of them finish watching that episode and the one after that in companionable silence.
+The TV automatically moves on to the next episode. Cat jumps onto the bed and half-lies on Dean's leg about ten minutes in. Dean heaves him up so he can cradle and comb his back while leaning back on the headboard comfortably. Cat purrs happily as Dean smooths his fur. The three of them finish watching that episode and the one after that in companionable silence.
 
 And then Sammy says, "I'm hungry."
 
 Dean sighs heavily, looking outside the window. The sun is setting. The clock says it's near six. Dad isn't back yet and they have no idea when he would come back exactly.
 
-He rummages the same duffle bag Dad left behind that he searched yesterday. There is no more cookie left. He regrets eating up all of them yesterday with Sammy. He should have thought about it and kept a few left for today, just in case. His stomach tangles up, half in the same familiar hunger, half feeling awful that he can't find anything to feed his little brother.
+He rummages through the same duffle bag Dad left behind that he searched yesterday. There are no more cookies left. He regrets eating up all of them yesterday with Sammy. He should have thought about it and kept a few left for today, just in case. His stomach tangles up, half in the same familiar hunger, half feeling awful that he can't find anything to feed his little brother.
 
 "I'm sorry --" Dean starts, hating himself for even having to say the words, that he has to disappoint Sam.
 
-Dean glances at the window again. Dad said not to go outside, told him to stay with his brother, but Dad also said to look after Sammy. And Dean's pretty sure making sure the kid isn't starving is part of that "look after" job, too. What if he just sneaks out a little bit, just a blink of time to figure out where he can find some food, just enough for an one-year-old, and come back before Dad notice, maybe he can get away with Dad's anger? He wouldn't have enough time to find more food for himself, though, probably, but that's fine.
+Dean glances at the window again. Dad said not to go outside, told him to stay with his brother, but Dad also said to look after Sammy. And Dean's pretty sure making sure the kid isn't starving is part of that "look after" job, too. What if he just sneaks out a little bit, just a blink of time to figure out where he can find some food, just enough for a one-year-old, and come back before Dad notices; maybe he can get away with Dad's anger? He wouldn't have enough time to find more food for himself, though, probably, but that's fine.
 
-Just as he's thinking, Dean feels a tug at the bottom of his pants. Cat is pawing his pants, dragging him in the direction of the door. Dean frowns at him. "What?"
+Just as he's thinking, Dean feels a tug at the bottom of his pants. Cat is pawing at his pants, dragging him in the direction of the door. Dean frowns at him. "What?"
 
 Cat lets him go, skimming before him to reach the door, then turning to scratch the motel door.
 
@@ -801,41 +802,41 @@ Cat lets him go, skimming before him to reach the door, then turning to scratch 
 
 Cat looks at him and mewls -- sounds like a "Yes".
 
-Dean feels his stomach drops. His Dad just left, and now his cat doesn't want to stay with him either after just one day. The creature must be intelligent enough to have figured out staying with them isn't the best way to spend his life, and Dean really can't blame him for it. Cat only *just* had to catch a rat and swallow it after all, to not starve, and even that got interrupted by a very ignorant and confusing Dean, thinking Dean might want to steal his dinner -- and he's generous enough to be okay with sharing. Can't blame him for wanting to leave now.
+Dean feels his stomach drop. His Dad just left, and now his cat doesn't want to stay with him either after just one day. The creature must be intelligent enough to have figured out staying with them isn't the best way to spend his life, and Dean really can't blame him for it. Cat only *just* had to catch a rat and swallow it after all, to not starve, and even that got interrupted by a very ignorant and confusing Dean, thinking Dean might want to steal his dinner -- and he's generous enough to be okay with sharing. Can't blame him for wanting to leave now.
 
 Dean swallows, moving to the door slowly. As unwilling as he is, if Cat wants to leave, Dean thinks it's not his place to keep him here if he's not happy.
 
-The handle of the door is a little too high for a five-year-old. Dean has to stand on his tiptoes to reach the handle and struggles to keep balance. Cat mewls quietly behind him that doesn't quite sound like a rush, almost as if to remind him to be careful, but Dean thinks he must be imagining it now. He manages to open the door eventually.
+The handle of the door is a little too high for a five-year-old. Dean has to stand on his tiptoes to reach the handle and struggles to keep his balance. Cat mewls quietly behind him, which doesn't quite sound like a rush, almost as if to remind him to be careful, but Dean thinks he must be imagining it now. He manages to open the door eventually.
 
-Cat dashes out like an arrow on the bow as soon as the door opens a slit, his black body blurring like a shadow.
+Cat dashes out like an arrow from a bow as soon as the door opens a slit, his black body blurring like a shadow.
 
-Dean stares at the direction he went, losing track of the little black figure in a heartbeat. He thinks his eyes start to sting. It doesn't make sense, and Dad would sneer at him for having tears if he were here ("Tears are for dead people," Dad would say.) So Dean wipes his eyes messily with the back of his hand, just standing there, heartbroken and pensive, wondering if Cat would live a better life out there, if he would run into other cats and get into some fight, if he would win those fights (he's pretty sure Cat will win, but still), if he would find enough food out there that's better than a dead rat so he wouldn't be hungry.
+Dean stares in the direction he went, losing track of the little black figure in a heartbeat. He thinks his eyes start to sting. It doesn't make sense, and Dad would sneer at him for having tears if he were here ("Tears are for dead people," Dad would say.) So Dean wipes his eyes messily with the back of his hand, just standing there, heartbroken and pensive, wondering if Cat would live a better life out there, if he would run into other cats and get into some fight, if he would win those fights (he's pretty sure Cat will win, but still), if he would find enough food out there that's better than a dead rat so he wouldn't be hungry.
 
-At that, his mind comes back to Sammy. His little brother is still hungry. So is he, but that doesn't matter. Crap, he thinks, maybe he still needs to leave his little brother behind, alone now, without even the company from Cat, and go find him some real food. He has no idea where or how, he has no money or anything, he doesn't know anyone. He doesn't even know where they are.
+At that, his mind comes back to Sammy. His little brother is still hungry. So is he, but that doesn't matter. Crap, he thinks, maybe he still needs to leave his little brother behind, alone now, without even the company of Cat, and go find him some real food. He has no idea where or how; he has no money or anything; he doesn't know anyone. He doesn't even know where they are.
 
-Dean doesn't know how long he's been standing there, thinking and worrying, and hearing his own mind telling him, in his Dad's voice, that he doesn't have time to waste, that every moment he stands there doing nothing is a moment his brother being hungry and uncomfortable, that he has to really do something to fix that.
+Dean doesn't know how long he's been standing there, thinking and worrying, and hearing his own mind telling him, in his Dad's voice, that he doesn't have time to waste, that every moment he stands there doing nothing is a moment his brother is hungry and uncomfortable, that he has to really do something to fix that.
 
-He steps out hesitantly. The sky isn't dark yet but the clouds are closing in. The wind is a little chilly even for a summer day. He closes the door behind him, feeling his heart jumping rapidly. He presses his back on the door, breathing hard. There is a whole world in front of him, and his home is behind his back, behind that closed door. And he can't go back until he finds some food for his little brother, and he needs to do that quickly.
+He steps out hesitantly. The sky isn't dark yet but the clouds are closing in. The wind is a little chilly even for a summer day. He closes the door behind him, feeling his heart jumping rapidly. He presses his back against the door, breathing hard. There is a whole world in front of him, and his home is behind his back, behind that closed door. And he can't go back until he finds some food for his little brother, and he needs to do that quickly.
 
-Dean breathes deep a few times and starts walking along the doorway -- not toward the parking lot, but along the door of other motel rooms, to the end that looks like leading to a different hall. He's hoping he'd have some luck there. What kind of luck does he need exactly, he has absolutely no idea. Only the thought that he'd need something keeps him moving.
+Dean breathes deep a few times and starts walking along the doorway -- not toward the parking lot, but along the door of other motel rooms, to the end that looks like it leads to a different hall. He's hoping he'll have some luck there. What kind of luck does he need exactly, he has absolutely no idea. Only the thought that he'd need something keeps him moving.
 
-The end of the passageway has a little turn, and at the corner of that turn has a food vending machine. The little five years old Dean is more than delighted. The blinking lights show rows and columns of little wrapped food there, each has some blinking number before it. But he's separated from the thing by a long, steady class door.
+The end of the passageway has a little turn, and at the corner of that turn is a food vending machine. The little five-year-old Dean is more than delighted. The blinking lights show rows and columns of little wrapped food there; each has some blinking number before it. But he's separated from the thing by a long, steady glass door.
 
-The machine has a number pad that's way too tall for his height, and he has no idea what to do with this thing and all its blinking red lights and shining input slits. Dean just stares at the chocolate bars and bags of Cheetos behind the glass, pressing his palms on it, thinking, he's so close to the food, food that he can feed his baby brother with so that he wouldn't hungry, but food he can't really reach and get for him. He pats the glass a little desperately, wishing it can just miraculously appear on the other side of the glass so he can take it.
+The machine has a number pad that's way too tall for his height, and he has no idea what to do with this thing and all its blinking red lights and shining input slits. Dean just stares at the chocolate bars and bags of Cheetos behind the glass, pressing his palms on it, thinking, he's so close to the food, food that he can feed his baby brother with so that he wouldn't be hungry, but food he can't really reach and get for him. He pats the glass a little desperately, wishing it could just miraculously disappear so he can take the food.
 
-"Hoy, kid! What are you doing?" A woman's voice raises behind him, startling Dean.
+"Hoy, kid! What are you doing?" A woman's voice rises behind him, startling Dean.
 
-He jumps and swivels around. Only now does he realizes there's a small front desk window at the other end of the corridor. A lady that looks a little younger than his Dad stands behind the window, chewing gums.
+He jumps and swivels around. Only now does he realize there's a small front desk window at the other end of the corridor. A lady that looks a little younger than his Dad stands behind the window, chewing gum.
 
-Dean looks around him a little consciously, as if to make sure she's not talking to anyone else.
+Dean looks around him, feeling self-conscious, trying to make sure there is no one else there for her to talk to.
 
 "Yes, you." The lady nods at him, raising her eyebrows. "What are you doing?"
 
-Dean leaves the vending machine (unwillingly, as if he's leaving those food), walking toward the desk slowly. "Food," he says simply. That should be enough of an answer.
+Dean leaves the vending machine (unwillingly, as if he's leaving that food), walking toward the desk slowly. "Food," he says simply. That should be enough of an answer.
 
-"You're the kid in the Room 14?" she asks.
+"You're the kid in Room 14?" she asks.
 
-Dean doesn't really know. He forgets to check the number when he leaves Sammy there. He starts to feel panic rising. He doesn't know if he can get back to the same room. He realizes he's thinking he really shouldn't have left, he shouldn't leave Sammy alone in the room. Oh God, he didn't lock the door -- he doesn't know how to. What if someone gets into the room when he's away; what if Sammy's crying for him and he can't hear him right now. Dean's breath hitches.
+Dean doesn't really know. He forgets to check the number when he leaves Sammy there. He starts to feel panic rising. He doesn't know if he can get back to the same room. He realizes he's thinking he really shouldn't have left; he shouldn't leave Sammy alone in the room. Oh God, he didn't lock the door -- he doesn't know how to. What if someone gets into the room when he's away? What if Sammy's crying for him and he can't hear him right now? Dean's breath hitches.
 
 "I should go back," he says eagerly.
 
@@ -853,25 +854,25 @@ Dean half-turns to point at the vending machine. "What about something from ther
 
 The lady's eyes widen. "Jesus," she says. "And how old are you?"
 
-"Five," Dean answers honestly, before suddenly remembers Dad had told him not to trust any strangers, don't talk to them, don't take anything they give you, and certainly don't eat anything they hand to you; don't tell them your name, or your address, or your age, or that you have a brother. *Just keep your mouth shut and your eyes sharp.* That's what Dad has taught him and made him remember. And he's breaking the rules. He winces terribly, knowing perfectly well what would happen if Dad finds out. He's made big mistakes.
+"Five," Dean answers honestly, before suddenly remembering Dad had told him not to trust any strangers, don't talk to them, don't take anything they give you, and certainly don't eat anything they hand to you; don't tell them your name, or your address, or your age, or that you have a brother. *Just keep your mouth shut and your eyes sharp.* That's what Dad has taught him and made him remember. And he's breaking the rules. He winces terribly, knowing perfectly well what would happen if Dad finds out. He's made big mistakes.
 
 He steps back from the front desk quickly before the lady can answer. "Actually, I'm going back now," he says hastily. "Sorry for troubling you, Ma'am. Bye."
 
-"Wait, kid," the lady calls at him as Dean turns and ready to run all the way back to the room, just to know Sammy is okay, that nothing has happened to him when he's away. He realizes he doesn't even know how long he's been away.
+"Wait, kid," the lady calls out to him as Dean turns and is ready to run all the way back to the room, just to know Sammy is okay, that nothing has happened to him while he's away. He realizes he doesn't even know how long he's been away.
 
-But he still pauses and glances back. The lady is holding a chocolate bar at him, the other hand still fumbling her pocket.
+But he still pauses and glances back. The lady is holding a chocolate bar out to him, the other hand still fumbling in her pocket.
 
-"That's all I got." She gives him another one of her small shrugs. "Just my afternoon stack. No big deal. Take it. But probably not for your brother, though. Sorry I don't know what one-year-olds can eat, but you can probably have it yourself."
+"That's all I got." She gives him another one of her small shrugs. "Just my afternoon stack. No big deal. Take it. But probably not for your brother, though. Sorry I dunno what one-year-olds can eat, but you can probably have it yourself."
 
-Dean eyes the bar in her hand gingerly. Debating. *Don't eat anything strangers give you.* But also, his brother is hungry. Well, she did say Sammy couldn't eat it, right? That sounds like a problem solved. It doesn't matter that *he* can have it and *he* is hungry too. Dad has taught him well, it doesn't matter.
+Dean eyes the bar in her hand gingerly. Debating. *Don't eat anything strangers give you.* But also, his brother is hungry. Well, she did say Sammy couldn't eat it, right? That sounds like a problem solved. It doesn't matter that *he* can have it and *he* is hungry too. Dad has taught him well -- it doesn't matter.
 
 "No, thank you," Dean answers, making his decision. "I should go."
 
-He runs back the way he comes without looking back.
+He runs back the way he came without looking back.
 
-The door opens easily, and the room remains exactly the same. Sammy remains where he left him last, half buried in all the blankets on the bed, watching the TV. He glances at the door as Dean comes in, meeting his eyes. Everything is normal and fine, just the way it should be. Dean doesn't know why he thinks it might not; he doesn't know why he's not breathing until he's inside the room again. Well, actually, he does know, Dad has told him every day that Sammy is his responsibility, it's his job to take care of his brother, and he almost failed the job in the last however long he left -- how long, really? He glances at the TV, it's still playing the same episode of the Scooby-Doo as he left, which means it must be less than twenty minutes. God, that feels like an eternity. Anything could happen in that twenty minutes, Dad has made sure he remembers that and understands that, something bad could happen. He doesn't know what "bad" that his Dad keeps talking about, nothing as bad as the fire that took his Mom, but sometimes small things that Dad didn't warn him about feels just as bad. Like right now.
+The door opens easily, and the room remains exactly the same. Sammy remains where he left him last, half buried in all the blankets on the bed, watching the TV. He glances at the door as Dean comes in, meeting his eyes. Everything is normal and fine, just the way it should be. Dean doesn't know why he thinks it might not be; he doesn't know why he's not breathing until he's inside the room again. Well, actually, he does know. Dad has told him every day that Sammy is his responsibility; it's his job to take care of his brother, and he almost failed the job in the last however long he left -- how long, really? He glances at the TV; it's still playing the same episode of Scooby-Doo as he left, which means it must be less than twenty minutes. God, that feels like an eternity. Anything could happen in those twenty minutes. Dad has made sure he remembers that and understands that -- something bad could happen. He doesn't know what "bad" that his Dad keeps talking about, nothing as bad as the fire that took his Mom, but sometimes small things that Dad didn't warn him about feel just as bad. Like right now.
 
-Dean closes the door behind him, leaning his back on the door, panting, exhausted. And Sammy says, again, "I'm hungry."
+Dean closes the door behind him, leaning his back against the door, panting, exhausted. And Sammy says, again, "I'm hungry."
 
 Dean suddenly remembers the reason why he left the room in the first place, and realizes with horror realization that he comes back with two empty hands. He looks down at his hands, feeling ashamed. "I'm sorry," he says, and he hates the way his voice cracks. "I'll get you some water. It helps."
 
@@ -885,11 +886,11 @@ Dean crawls onto the bed next to Sammy, leaning back on the pillows, rubbing his
 
 He stares at the TV without actually watching, too distracted by thinking, perhaps he should have taken that chocolate bar. But then he hates the thought immediately. If Sammy doesn't get to eat anything, then he shouldn't, either.
 
-He only wishes his father comes back earlier tonight. And with food. When Mom was there, when they were back home, he doesn't remember ever feeling so worried and hungry. He misses his mom so much, but he can't even tell anyone. Not to his little brother who doesn't remember anything, not to his father who gets upset every time he does, so he stops doing that.
+He only wishes his father would come back earlier tonight. And with food. When Mom was there, when they were back home, he doesn't remember ever feeling so worried and hungry. He misses his mom so much, but he can't even tell anyone. Not to his little brother, who doesn't remember anything, and not to his father, because he gets so upset every time he does and he'd walk out of the room in silence, so he stops doing that.
 
 He stares at the window more often than the TV.
 
-Then, when the sky gets fully dark, in the dim lamp light of the motel parking lot, he spots a small black figure moving slowly in his direction. At the first glimpse he thinks it might be Cas. But it can't be. The shape looks too odd to be any creature. It's round in the front and square in the back, but maybe the lower part is just the shadow from the lamp? He can't really tell its body from its shadow apart, because it's all too dark and the shape is as black as its shadow.
+Then, when the sky gets fully dark, in the dim lamp light of the motel parking lot, he spots a small black figure moving slowly in his direction. At the first glimpse, he thinks it might be Cas. But it can't be. The shape looks too odd to be any creature. It's round in the front and square in the back, but maybe the lower part is just the shadow from the lamp? He can't really tell its body from its shadow apart, because it's all too dark and the shape is as black as its shadow.
 
 Dean jumps off the bed to stand right behind the window. But the window has too much of a reflection from everything inside the room, the TV screen flashing on it, mixing the image from inside and outside. So he gets to the door and stands on the frame.
 
@@ -897,33 +898,33 @@ The shape moves slowly, but it shifts closer and closer in labored moves. When i
 
 Dean jumps off the steps outside the motel room and runs toward his cat, more eager and cheerful than he's been in quite some time now without himself realizing. Cat pauses at his hard work when Dean approaches him, just staying there in the parking lot, breathing heavily. And Dean finds out what he's dragging is an unbelievably large pizza box, longer and wider than Cat's full body size. He looks completely exhausted carrying it.
 
-Dean stares at him incredibly. "How... where did you even get that??!" There is no pizza place within the view, and the box is way too clean to be something coming from a trash bin. If they live in the animation world, Dean might even guess Cat actually walked into a diner and laid down the money and ordered the pizza as take-out, like any normal human would, something Scooby-Doo would do. Dean blinks and wonders if this is a dream, maybe he's fallen asleep watching the TV?
+Dean stares at him incredulously. "How... where did you even get that??!" There is no pizza place within view, and the box is way too clean to be something coming from a trash bin. If they live in the animation world, Dean might even guess Cat actually walked into a diner and laid down the money and ordered the pizza as take-out, like any normal human would, something Scooby-Doo would do. Dean blinks and wonders if this is a dream, maybe he's fallen asleep watching the TV?
 
-Cat just meows quietly as his answer that Dean can't decipher, letting go of the pizza box, stiffly retracting and stretching his limbs that appear to get numbed from staying in the same position for too long, and starts licking his worn paws.
+Cat just meows quietly as his answer that Dean can't decipher, letting go of the pizza box, stiffly retracting and stretching his limbs that appear to get numb from staying in the same position for too long, and starts licking his worn paws.
 
 The sound breaks Dean out of his haze. He chuckles briefly, picking up the pizza box -- which is heavier than he thought and he needs two hands to hold it, and definitely heavier than possible to be carried by a cat -- and moving back toward their room. Cat still sits there resting for a few more moments.
 
-Dean glances back and pauses. "You coming? Or do you want me carry you too?" That's meant to be a joke.
+Dean glances back and pauses. "You coming? Or do you want me to carry you too?" That's meant to be a joke.
 
 Cat makes another sound from his throat that almost sounds like human grunting, and then starts limping behind him.
 
-Dean scrutinizes the way he lands each step, and it only takes him a second to decide walking back and scooping the cat up, setting him on top of the pizza box, and moving back into the room together.
+Dean scrutinizes the way he lands each step, and it only takes him a second to decide to walk back, scoop the cat up, set him on top of the pizza box, and move back into the room together.
 
 The smell of the pizza alone wins a cheerful sound from Sam, but Dean has to put it down and take a quick examination of Cat first before getting to open the box and grab a piece for the kid.
 
-Cat doesn't like his paws to be held and checked, Dean finds out, but when he insists, Cat gives up resisting. The bottom of his paws have abrasions, worse for the two back legs. But both front paws have a line of pinky shallow wear in the middle of his palm, looking like more like a scrap than a scratch. Dean guesses that's probably from holding the edge of the box for too long -- those edges aren't exactly sharp, but they can still be coarse for skin. Most of the nails have some wear, and the worst one almost flips upside -- looking like it gets caught between something in the wrong angle, and Dean wouldn't have to think to hard to guess it's the paw sitting between the box and the gravelly ground, dragging it toward their room one step at a time.
+Cat doesn't like his paws to be held and checked, Dean finds out, but when he insists, Cat gives up resisting. The bottom pads of his paws have abrasions, worse on the two back legs. But both front paws have a line of pinky shallow wear in the middle of his palm, looking more like a scrap than a scratch. Dean guesses that's probably from holding the edge of the box for too long -- those edges aren't exactly sharp, but they can still be coarse for skin. Most of the nails have some wear, and the worst one almost flips upside down -- looking like it gets caught between something at the wrong angle, and Dean wouldn't have to think too hard to guess it's the paw sitting between the box and the gravelly ground, dragging it toward their room one step at a time.
 
-Cat looks like an exhausted traveler after walking too long distance while carrying heavy weight all the way -- which is probably true.
+Cat looks like an exhausted traveler after walking too long a distance while carrying heavy weight all the way -- which is probably true.
 
-None of the injury looks like terribly awful wound or anything scary, but it doesn't look pretty either. Dean has no knowledge of cat anatomy -- he only just heard about "cat" as a species for one day and met one for two -- but he'd guess it's not too different from humans getting bruises and scratches. He has quite a lot of them in the early years, even more this year, but his pain tolerance has increased a lot this year too -- he thinks it might be because he's getting older. His skin at five years old has to be tougher than four years old, right? He wonders how old Cat is.
+None of the injury looks like terribly awful wound or anything scary, but it doesn't look pretty either. Dean has no knowledge of cat anatomy -- he only just heard about "cat" as a species for one day and met one for two -- but he'd guess it's not too different from humans getting bruises and scratches. He has quite a lot of them in the early years, even more this year, but his pain tolerance has increased a lot this year too -- he thinks it might be because he's getting older. His skin at five years old has to be tougher than at four years old, right? He wonders how old Cat is.
 
-Cat hisses a little when Dean mindlessly touches the abraded skin with the soft side of his finger, his nails extending out like hidden blades popping out of the sheath, dragging Dean out of his thought.
+Cat hisses a little when Dean mindlessly touches the abraded skin with the soft side of his finger, his nails extending out like hidden blades popping out of the sheath, dragging Dean out of his thoughts.
 
 "Sorry, sorry!" Dean apologizes, loosening his fingers. The nails slowly shrink back inside his palms.
 
-He's guessing the pain level might be somewhere between itchy uncomfortable and hurting to use for anything for a while, from the look of it.
+He's guessing the pain level might be somewhere between an uncomfortable itch and too hurt to use for anything for a while, from the look of it.
 
-"I think Dad has some meds for that, hold on." Dean busies himself searching the bag again and finds what he's looking for. The purple bottle that he saw Dad applied on him and Sammy when they tripped over something and frazzled their skin, or when Dad came back hurt, he'd get some on some of his shallow wounds too -- not the scary-looking deep ones though, these other ones need needles and threads that Dean's not sure how they work yet, but Dad has said he'll teach him one day, when he's old enough. He always wonders how old is old enough.
+"I think Dad has some meds for that, hold on." Dean busies himself searching the bag again and finds what he's looking for. The purple bottle that he saw Dad apply to him and Sammy when they tripped over something and frazzled their skin, or when Dad came back hurt, he'd get some on some of his shallow wounds too -- not the scary-looking deep ones, though; these other ones need needles and threads that Dean's not sure how they work yet, but Dad has said he'll teach him one day, when he's old enough. He always wonders how old is old enough.
 
 Dean can't quite read the very long name on its label yet, but he knows it would sting a little, but also that it would help; where it's applied, the hurting part would heal pretty soon. He can only wish that would work the same for Cat too.
 
@@ -935,21 +936,21 @@ Dean can't quite read the very long name on its label yet, but he knows it would
 
 Cat stares at him without blinking. Dean figures he can't really expect Cat to nod or answer "Yes," then this stare should be good enough. He drips a few drops of the potion on Cat's abraded tender skin.
 
-Cat hisses in pain with his teeth showing, and the paw in Dean's hand twitches like he really wants to take it back and claw at Dean at the same time but is trying really hard to not do either. His eyes squeeze in discomfort.
+Cat hisses in pain with his teeth showing, and the paw in Dean's hand twitches like he really wants to take it back and claw at Dean at the same time but is trying really hard not to do either. His eyes squeeze in discomfort.
 
 "Shhh, shhh --" Dean hastily shushes him gently, keeping hold of his paw, not letting go, lowering his head to blow some cool air onto his wound to release the pain -- something he's used to do for Sammy. "I'm sorry, but it's almost done. It's good for you, I promise." The little paw twitches a little again, but Cat doesn't look as uncomfortable as before now, more like surprised.
 
 "Should I distract him with food?" Sammy proposes behind them.
 
-Dean doesn't look back. "Nah, I'm almost done. He's doing great." He glances up and meets Cat's eyes. Cat quiets down and his paw stays in Dean's hand as he was told, though some of his fur on his back and head look like just exploded again; Dean figures that's probably the global "I'm scared/I don't like it" signal for cats, and he chuckles quietly because it makes Cat look twice as bigger and puffier, but less fierce.
+Dean doesn't look back. "Nah, I'm almost done. He's doing great." He glances up and meets Cat's eyes. Cat quiets down and his paw stays in Dean's hand as he was told, though some of the fur on his back and head looks like it just exploded again; Dean figures that's probably the global "I'm scared/I don't like it" signal for cats, and he chuckles quietly because it makes Cat look twice as big and puffier, but less fierce.
 
-"You're doing great," Dean tells Cat again when he finishes tapping the potion around that paw to cover all the wounded skin and nails. He's not so sure what to do with the worn nails, too afraid to make it worse than already is, so he just leaves it. He lifts the finished paw up to his lips, pressing a kiss on top of the fur, like he'd do when helping with Sammy's accidental hurt before (like a hand or a knee grazed on the ground when first learning how to walk; he'd never forget Sammy's first step was walking toward him, so that should be the perfect reason to do anything and everything after that), he'd press his lips on the tip of that hand or side of leg just out of habit once finished patching up, for luck or soothing, he doesn't really know -- Dean can't quite remember where the habit comes from, maybe Mom used to do that for him? He doesn't remember if Dad ever does that. But at least Sammy seems to get used to it and enjoy it, and Cat just looks at him like he's trying to figure him out. The cat's eyes are round and black with a thin blue edge, looking mysteriously celestial. Dean thinks that thread of blue looks brighter and wider today, but maybe Cat just stares with wider eyes today, or they are staring each other in a closer distance. Dean feels as if he's thoroughly dissected by those eyes and those looks, he shifts a little as if to dodge the eyes and rubs his nose, and that earns him one hell of a sneeze. Cat relaxes down, lying down on the table on his side, giving him an easier access to all his paws. If Dean doesn't know better, he'd even say Cat might be huffing a laughter.
+"You're doing great," Dean tells Cat again when he finishes tapping the potion around that paw to cover all the wounded skin and nails. He's not so sure what to do with the worn nails, too afraid to make it worse than it already is, so he just leaves it. He lifts the finished paw up to his lips, pressing a kiss on top of the fur, like he'd do when helping with Sammy's accidental hurt before (like a hand or a knee grazed on the ground when first learning how to walk; he'd never forget Sammy's first step was walking toward him, so that should be the perfect reason to do anything and everything after that), he'd press his lips on the tip of that hand or side of leg just out of habit once finished patching up, for luck or soothing, he doesn't really know -- Dean can't quite remember where the habit comes from, maybe Mom used to do that for him? He doesn't remember if Dad ever did that. But at least Sammy seems to get used to it and enjoy it, and Cat just looks at him like he's trying to figure him out. The cat's eyes are round and black with a thin blue edge, looking mysteriously celestial. Dean thinks that thread of blue looks brighter and wider today, but maybe Cat just stares with wider eyes today, or they are staring at each other from a closer distance. Dean feels as if he's thoroughly dissected by those eyes and those looks; he shifts a little as if to dodge the eyes and rubs his nose, and that earns him one hell of a sneeze. Cat relaxes down, lying down on the table on his side, giving him easier access to all his paws. If Dean didn't know better, he'd even say Cat might be huffing a laugh.
 
 He finishes tending to the other three paws for Cat shortly, before pizza gets cold.
 
 Dean goes to bed with a contented not-empty stomach -- not too full either, he's conscious enough to not eat too much or get too full so that he can save a few for the next day, just in case. But it's good enough -- it's better than yesterday at least -- he's warm and full when he crawls into the bed. Cat curls at his feet.
 
-Dean warned him not to get under the bed or go outside at least for the night before going to bed, so it looks like Cat finds the perfect spot that fits all his requirement. He wasn't sure if Cat could really understand him or if he'd really listen, and his stomach still lurches when he thinks back at the look when Cat dashed out of the door without looking back, and he didn't know Cat would ever come back; that left an awful taste in his mouth. "Never do that again," Dean points a finger at him with a glare and a frown, and then at the door. Cat tilts his head, glancing between him and the door, and tilts his head some more, looking confused. Dean sighs. He'll have to learn how to speak cat one day.
+Dean warned him not to get under the bed or go outside at least for the night before going to bed, so it looks like Cat finds the perfect spot that fits all his requirements. He wasn't sure if Cat could really understand him or if he'd really listen, and his stomach still lurches when he thinks back to the look on Cat's face when Cat dashed out of the door without looking back, and he didn't know Cat would ever come back; that left an awful taste in his mouth. "Never do that again," Dean points a finger at him with a glare and a frown, and then at the door. Cat tilts his head, glancing between him and the door, and tilts his head some more, looking confused. Dean sighs. He'll have to learn how to speak cat one day.
 
 <br>
 
@@ -1763,15 +1764,15 @@ He sits into the car, crowded by his little brother and his black cat, feeling h
 
 <br>
 
-###### [TBC]
+#### draft notes
 
 He doesn't think his father would actually leave when he said that. But he did.
 
 The cat is meowing quietly in his arms, as if urging him not do that, it's not worth it defying his dad's wrath for him, as if telling Dean to just leave him, let him be -- let him die, if it means it pleases his father. Dean's not having any of it. He doesn't know where the courage comes from, the sudden rising desire in his chest is as strong as that night, the worst night of his life -- when he has his little brother in his arms, he wants to protect him with his life, and now, with the black cat in his arms, he wants to protect him with his life, too.
 
-Dean doesn't know cat gender until he meets vet here, and breed/age (Cas ~1y, domestic shorthair, "Ojos Azules", Spanish for Blue Eyes); vet name Lucas (Latino)
-
-Dean try to ask/suggest if human can eat cat food (vet warning not)
+> Dean doesn't know cat gender until he meets vet here, and breed/age (Cas ~1y, domestic shorthair, "Ojos Azules", Spanish for Blue Eyes); vet name ~~Lucas (Latino)~~ Sean (Jody's future husband, young, ~4y older than Jody, flirting; Jody's maiden name Rhodes)
+>
+> Dean try to ask/suggest if human can eat cat food (vet warning not)
 
 ### (1985.1.24 Thursday) (books) √
 
@@ -2320,10 +2321,12 @@ It should be pretty obvious since the beginning, but I'll still add redundantly 
 
 I started writing this story in the middle of a night in the middle of a tough week and my eyes were half-closed most of the time, and after re-reading the first five chapters days later, I realize the Sammy in my head is most definitely ~~a bit~~ a lot older than one year old to be able to talk that much and read and reason and be so mature (in a word, just too much like the normal adult Sam that I've got used to writing; in many ways, so are Dean and Cas in this story, pretty sure the Dean I'm writing is more intelligent and thoughtful and mature than any average five-year-old and the cat I'm writing isn't like any cat, but I'd pretend those are probably smaller problem than a one-year-old speaking long sentences and understanding the situation around him and comforting his older brother. For my defense, I haven't been with many young kids for a long while until very recently, which is exactly when I started realizing that's a huge issue). But it's also a bit too late that I can't rewrite everything without the story falling apart, I do need them to interact and have intelligent conversation, while also make it (slightly) convincing that they're at an age too young to recognize cat as a creature. So the only explanation (aka patch) I can think of this: I'll pretend it's because the demon blood in Sam that makes him grow faster and ultra clever, and Dean doesn't freak out because he doesn't know what normal baby's learning and growing speed normally should be like, and John doesn't freak out because he isn't there long enough to notice, or maybe he noticed and freaked out and that's why he ran away so much to look for an answer or explanation for everything abnormal in their life. (This is mostly an after-thought patch, but my picky brain accepts the explanation, so I hope it works with you guys too.)
 
-And, I feel like I should apologize for writing John Winchester's A+ parenting and writing him so very god-awful and probably triggering (in order to make the story make sense), and then try to make those make sense (make sense doesn't make them okay though). As much as I know the fandom hates John Winchester even more than Chuck, the hatred and resentment aren't the main focus and emotional theme for this story, though it can get very complicated, and at some places it may even sound like the writing is trying to give him excuses, because... it starts off from five-year-old Dean's POV, and five-year-old Dean loves and admires his Dad too much and can't understand everything, just trying to make sense of the world in the way his little kid brain can handle, but also because the kid doesn't have as much emotional burden and weight as the grown-up Dean. He's only got one year of childhood trauma, not twenty, but that's not saying it's okay. He's five, Jesus. Still, just wanting to say, sorry about putting you through all the bullshit and complication of John Winchester, let's pretend that's just the functional premise for the story to help us get a story for Dean and Cas. Let's not argue whether John did the right thing or not, does he deserve forgiveness or not, etc., better to just focus on that cute powerful amazing black cat and those awesome little humans, deal?
+And, I feel like I should apologize for writing so much of John Winchester's A+ parenting and writing him so very god-awful and probably triggering (in order to make the story make sense). As much as I know the fandom hates John Winchester even more than Chuck, the hatred and resentment aren't the main focus and emotional theme for this story. And don't forget, the story is mainly from a five-year-old's POV, who just lost his mother and only has his father to look up to, and so this five-year-old Dean loves and admires his Dad too much; even though he can't understand everything happening around him and in the world, he's just trying to make sense of the world in the way his little kid brain can handle; but also because the kid doesn't have as much emotional burden and weight as the grown-up Dean, so the emotions are (relatively) simpler. He's only got one year of childhood trauma, not twenty, but that's not saying it's okay. He's *five*, Jesus. Still, just wanting to say, sorry about putting you through all the bullshit and complication of John Winchester, let's pretend that's just the functional premise for the story to help us get a story for Dean and Cas. Let's not argue whether John did the right thing or not, does he deserve forgiveness or not, etc., better to just focus on that cute little black cat and those awesome little humans, deal?
 
 I can't thank enough for my artist, mods who worked so hard for every year's DCBB, the source of my inspiration, my friends who encourage me all the way through my writing and my life (especially this!), and of course, for all the lovely readers who get this far. You have my whole-hearted love. You are the ones who make the world a beautiful place and life something worth look forward to. May we have more love and destiel in the world and in our lives. Thank you for being here!
 
 Cheers,
 
 J. S.
+
+(P.S.: In the process of writing this story, I started having more and more ideas of what might be happening in the background outside Dean's POV, like, what's *really* happening that only the John POV and/or Cas POV can make sense. That's when I start adding more and more plots into the outline, making it potentially a much larger story, but I don't want to mess up with the original story idea that's cuter and simpler, so I'm going to keep both published and put them into a second version of the story, call it a "revised" or "extended" version if you like, or something like a "director's cut". Check it out here: [LINK TBA])
