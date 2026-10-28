@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【SPN】Very Earliest Draft of "Pivot"（摘录）
+title: 【SPN】Very Earliest Draft of &#34;Pivot&#34;（摘录）
 date: 2025-08-01 01:11
 categories: ["SPN"]
 characters: ["Sam Winchester", "Dean Winchester"]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】"love someone doesn't mean you should stick around"（动图）
+title: 【Destiel】&#34;love someone doesn't mean you should stick around&#34;（动图）
 date: 2026-09-11 00:21
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]

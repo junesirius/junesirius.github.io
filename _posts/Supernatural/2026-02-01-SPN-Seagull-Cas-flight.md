@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】Seagull Cas from "Flight"
+title: 【Destiel】Seagull Cas from &#34;Flight&#34;
 date: 2026-02-01 00:55
 categories: ["SPN"]
 characters: ["Castiel", "Northern Sparrow"]

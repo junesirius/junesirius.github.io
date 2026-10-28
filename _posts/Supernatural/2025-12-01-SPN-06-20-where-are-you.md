@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【Destiel】S06E20 "Where were you when I needed you?" "I was there, where were you?"（短评）
+title: 【Destiel】S06E20 Where were you when I needed you? I was there, where were you?（短评）
 date: 2025-12-01 20:02
 categories: ["SPN"]
 characters: ["Castiel", "Dean Winchester"]
