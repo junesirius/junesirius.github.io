@@ -2329,7 +2329,7 @@ Oh, and another one I loooove so much (not just love it, I *luve* it, *loove* it
 
 One last honorary mention: my absolute all-time favorite cat movie series: "The Legends of Hei." It's just too beautiful to miss. (It's more like a cat movie/series recommendation time now.) But I'm not gonna lie, when I visualize black cat Cas as I write, sometimes I'd see the image of "Hei" in my head instead. By the way, that's a cat that's not really a cat, either, with some big, mysterious identity background that I'm not going to spoil. My dear friend BucketofLi even drew an extremely cute crossover art between Hei and Cas as well, [check it out here](https://www.tumblr.com/bucketofli/790779751395688448?source=share). (By the way, "Hei" means "black" in Chinese, just for your information.)
 
-\---
+<br>
 
 It should be pretty obvious since the beginning, but I'll still add redundantly here that, when you start reading this story, feel free to read as if all the "Cat" is exactly "Cas". You have no idea how many times my muscle memory has mistyped that during the writing. I never realize how powerful muscle memory is. My brain knows it's Cas, my fingers know it's Cas, but I have to write Cat for the story's sake, and this is a discrepancy that messed with my eyes quite a lot. I did try very hard to insert "Cas" early on but just can't convince myself that's the right place; there's just no good reason for the kid Dean to name the cat "Cas" when he first ran into him, so "Cat" is the next best thing I can do. But that's Cas all the time anyway; everyone knows it (except Dean, but he sorta thinks of Cat as an angel anyway, because, like I added near the end, "all cats are angels", isn't it).
 
@@ -2339,12 +2339,12 @@ And, I feel like I should apologize for writing so much of John Winchester's A+ 
 
 I can't thank enough my artist, mods who worked so hard for every year's DCBB, the source of my inspiration, my friends who encourage me all the way through my writing and my life (especially this!), and of course, all the lovely readers who get this far. You have my whole-hearted love. You are the ones who make the world a beautiful place and life something worth looking forward to. May we have more love and destiel in the world and in our lives. Thank you for being here!
 
- 
+<br>
 
 Cheers,
 
 J. S.
 
- 
+<br>
 
 P.S.:  In the process of writing this story, I started having more and more ideas of what might be happening in the background outside Dean's POV, like, what's *really* happening that only the John POV and/or Cas POV can make sense, what's John *really* doing during those nights he's not there for the boys, why can't they have enough food or money, what happened to Cas between each time Dean sees him, what's Cas thinking about when he meets Dean. And more importantly, the whole blank twenty years as they grow up: how many things and dangers could have happened, how exactly Cas helps them have an easier life compared to if he's not there. That's when I started adding more and more plots and ideas into the original outline, making it potentially a much, much larger story (the biggest one that I've ever tried, so far), but I don't want to mess up with the original story that's cuter and simpler (and there's a deadline to catch), so I posted the short and cute one here first for DCBB, and I'm planning on putting all those new ideas into a second version of the story. I haven't decided whether to call it a "revised" or "extended" version, or maybe something like a "director's cut". And I'm thinking about posting that maybe semi-regularly just to force myself not to give it up (because I know me, if there's no deadline and no one pushing, the chance of that getting done would be much, much lower). But I've also never done anything like that before, to have a regular posting routine for a long fic, but I'd love to see how it would go. And I'd very much love to invite you to be along that journey and witness a story to form. See you in the next one.
