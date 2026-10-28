@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 【日志】How to Get Rid of AI from Your Search Engine
+title: 【随记】How to Get Rid of AI from Your Search Engine
 date: 2026-10-28 12:46
 categories: ["原创"]
 characters: 
-tags: ["日志", "教程", "AI", "Anti-AI", "世界", "英文"]
+tags: ["随记", "教程", "AI", "Anti-AI", "世界", "英文"]
 pov: 第一人称
 origin: Tumblr
 ---

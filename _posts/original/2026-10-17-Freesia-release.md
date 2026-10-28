@@ -23,4 +23,4 @@ Anyway，push了这么就，Demo也算是终于生出来了。
 
 <br>
 
-[Link to the game](https://store.steampowered.com/app/4526960/_/)
+([Link to the game](https://store.steampowered.com/app/4526960/_/))
