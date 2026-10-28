@@ -11,7 +11,7 @@ long_novels: 【Destiel】There is a monster under the bed -- and it says "Meow"
 published: false
 ---
 
-**Tags:** John Winchester's A+ Parenting, Kid Fic, Kid Dean, Five-year-old Dean, Baby Sam, One-year-old Sam, Weechesters, Dean has never seen a cat before, Cat is not really a cat, Hunger is a constant theme, Childhood trauma warning,  But could have been worse, Cas helped, Growing Up, Cat Castiel, Platonic Love, Canon Divergent, Eventual Hopeful Ending
+**Tags:** John Winchester's A+ Parenting, Kid Fic, Kid Dean, Five-year-old Dean, Baby Sam, One-year-old Sam, Weechesters, Dean has never seen a cat before, Cat is not really a cat, Hunger is a constant theme, Childhood trauma warning, But could have been worse, Cas helped, Growing Up, Cat Castiel, Platonic Love, Canon Divergent, Eventual Hopeful Ending
 
 **Pairing:** Castiel & Dean Winchester, Castiel/Dean Winchester
 
@@ -591,10 +591,6 @@ see if it's possible to adapt into original story to query for publishing
 ~~Just keep in mind that this story is written mostly in Dean POV, and Dean's five years old when the story starts, and a five-year-old isn't always the most reliable source of truth when retelling what happened. So maybe some of the things aren't what he thinks are happening (or are they?).~~
 </details>
 If didn't mention "cat has 9 lives" setting in the story, add that to the "Acknowledgement" (the last part, writer's notes)
-
-Edit chap 1-5: Dean doesn't know cat's gender until chap 6
-
-Edit chap 1-5: cat already came into Dean's dream (rewrite the night before, add dream stuff, foreshadow)
 
 ## Main
 
