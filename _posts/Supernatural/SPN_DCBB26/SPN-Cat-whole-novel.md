@@ -1372,7 +1372,7 @@ He closes the door behind him, still holding Cat in his arms because no way is h
 >
 > Day 4: Dean takes Cat walking
 
-The motel is not too far from a highway. Dean follows the arrow pointing toward the road, and he walks along the highway.
+The motel is not too far from a highway. Dean follows the arrow outside the motel pointing toward the highway, and he walks along the curb.
 
 The blue sign by the side of the road tells him he's two miles from a place called "Sioux Falls". Dean decides that's as good a destination for him and Cat as any, so he walks toward it.
 
@@ -1402,7 +1402,7 @@ He's also thirsty. And his steps heavier and heavier. He can use some drink, and
 
 Dean ignores them. He ignores the soreness in his shoulders and arms that hold the weight of Cat, the dullness in his feet and legs, the tension on his back where his small bag is, the dryness in his throat. He ignores them all. He looks at the little thing in his arms.
 
-Cat is looking at him without blinking, eyes blue and round. If he's a human, Dean imagines that almost like a look of someone mesmerized by what he sees, staring so attentively that he can't move his eyes away. He wonders if it's just Cat or all cats stare like that, or have eyes as beautiful as his.
+Cat is looking at him without blinking, eyes blue and round. If he's a human, Dean imagines that almost like a look of someone mesmerized by what he sees, staring so attentively that he can't move his eyes away. He wonders if it's just Cat or if all cats stare like that, or have eyes as beautiful as his.
 
 "Hey, buddy," Dean says in a gentle voice, realizing his throat is dryer than he realizes, but he ignores it again. He doesn't realize his heart is lighter just by meeting Cat's eyes. He's so beautiful just like that, Dean thinks. "You alright? Hang in there, okay? We'll find something for you real soon, I know it."
 
@@ -1416,7 +1416,7 @@ Another car drives by him, but this one doesn't drive on like the rest of them. 
 
 Dean doesn't notice it until he reaches the end of that block, waiting at a crossroad. The car parks next to him, turning on the blinking turning lights.
 
-A new wave of panic hits him, different from the one he felt when his father left him. This is the first time he realizes he's only in this world now, and there are other humans and other things out there, in the world, and now he's in the middle of the "out there", he's in the middle of everything else. Like the fairy tale stories he used to hear his Mom telling, like those lost princesses in the deep of a dark woods, and even though he's in a small town instead of woods, he knows what can lurk out there, he knows monsters can look like humans just from the appearance, he knows because he has once seen his father shot one man on the head, and his father told him, that's a monster disguised as a human. He believed him. Because the alternative would be even more horrifying to think.
+A new wave of panic hits him, different from the one he felt when his father left him. This is the first time he realizes he's alone in this world now, and there are other humans and other things out there, in the world, and now he's in the middle of the "out there", he's in the middle of everything else. Like the fairy tale stories he used to hear his Mom telling, like those lost princesses in the deep of a dark woods, and even though he's in a small town instead of woods, he knows what can lurk out there, he knows monsters can look like humans just from the appearance, he knows because he has once seen his father shot one man on the head, and his father told him, that's a monster disguised as a human. He believed him. Because the alternative would be even more horrifying to think.
 
 He clings to Cat even closer, feeling the temperature of his own hands and feet getting cold suddenly.
 
@@ -1428,7 +1428,7 @@ Dean has no option but to look up.
 
 The woman walking off the car wears a police suit. Only now does Dean see the word "Police" inked on the side of the car. He tenses even more, worried that he's in real trouble now.
 
-She looks younger than Dean ever remembers his Mom looks like, only in the old photos when she shows him. Black hair curls around her shoulders. She has a kind smile.
+She looks younger than Dean ever remembers his Mom looked, only in the old photos when she shows him. Black hair curls around her shoulders. She has a kind smile.
 
 "Yes, Ma'am," Dean answers reflexively, holding Cat even closer, hunching over him as if he tries to hide him from the view with his body.
 
@@ -1460,7 +1460,7 @@ Jody looks back at him with a glint of mischievous light in her eyes. "He said y
 
 "That's not true," Dean corrects her with a frown. "I'm not lost. He's hurt, I'm looking for a vet for him." He opens his arms a little, nodding at the little wrapped paws in his cradle.
 
-Jody watches closely, then turns to point out a direct. "The vet is down this street at the corner. I can take you there in my car if you want."
+Jody watches closely, then turns to point out a direction. "The vet is down this street at the corner. I can take you there in my car if you want."
 
 Dean looks in the direction she points. "No, thank you. I can walk."
 
@@ -1490,25 +1490,27 @@ The man behind the stand waves at her. "Hey, Jody! How's the work? Busy?"
 
 Jody answers easily with a smile, "Quiet enough for a Sunday. Only one accident on the highway five miles back, I just came back from there." She nods over the shoulder toward Dean, "Just in time to pick up a duckling and a cat."
 
-The man glances over the table to where Dean stands, then looks back at her, hands reaching the bags of ingredients as he asks, "I bet you haven't got time for some lunch, then."
+The man glances over the table to where Dean stands, then looks back at her, hands already reaching toward the bags of ingredients as he asks, "I bet you haven't got time for some lunch, then."
 
 "You know me too well," Jody answers, giving Dean another quick glance. "Actually, make it two."
 
 "Sure thing." The man pulls out two more taco shells and reaches for more ingredients.
 
-Dean shifts his feet uneasily, drawing small circles with the tip of his shoes. "I'm not hungry," he lies, talking to the road before him.
+Dean shifts his feet uneasily, drawing small circles with the tip of his shoes. "I'm not hungry," he says, out of habit, talking to the road before him.
 
 "Sure," Jody says. Dean lifts his head just in time to see her throwing him a funny look. "I'll keep it for later then."
 
 She tells the taco maker, "Pack the other two to go, will ya?"
 
-Dean draws out even larger circles on the ground. He doesn't know what to do with that fuzzy, warm feeling inside him. That's almost the same feeling when he fell asleep with Cat. That's the second time in the short week he's sensing it, Dean thinks with a daze, *Since when does the life suddenly get easier?*
+Dean draws out even larger circles on the ground. He doesn't know what to do with that fuzzy, warm feeling inside him. That's almost the same feeling when he fell asleep with Cat. That's the second time in the short week he's sensed it, Dean thinks with a daze, *Since when does the life suddenly get easier?*
+
+Since Cat came. That is.
 
 <br>
 
 They arrives at the vet place shortly after. Jody pulls the door over for him and Dean follows in quietly.
 
-The place is cozy little place. Dean realizes he's been imagining a place with overbright light and stiff white wall, like the hospital in his impression, but this place is more like a pet home than a pet hospital. The walls are decorated with colorful pictures of cute little animals, some he recognizes, some he doesn't. Cats, dogs, rabbits, and birds are the most common ones he sees.
+It's a cozy little place. Dean realizes he's been imagining a place with overbright light and stiff white wall, like the hospital in his impression, but this place is more like a pet home than a pet hospital. The walls are decorated with colorful pictures of cute little animals, some he recognizes, some he doesn't. Cats, dogs, rabbits, and birds are the most common ones he sees.
 
 Jody walks up to the counter while he's still taking everything in.
 
@@ -1538,9 +1540,9 @@ Dean shakes his head.
 
 "Come on in, then. Ain't no secret in here. I'm just gonna give him some check-up." The man asks, while leading them into a small room that's not too different from a dentist's office, except in the place of a terrifying chair-bed, it's a long table with clean table cloth. Some tool boxes stacked at the end of the table and on the shelf near the corner. "When's the last time you have him looked at? Did he get the bug checked? Anything I need to know about?"
 
-Dean realizes he hasn't let any of them know that he didn't really know Cat, not until three days ago; he doesn't even know if Cat is a "he", he just thought it fits. He has no idea what kind of cat he is, or how old he is, or really, anything at all. All he ever knows is that Cat appeared out of nowhere when he and Sammy got scared, and he wished so hard that his Dad was there, or, just, anything that can keep them safe could be there. It can't be a coincidence that that's when Cat showed up, right? But still, he feels so bad that he has no answer to any of his questions.
+Dean realizes he hasn't let any of them know that he didn't really know Cat, not until three days ago; he doesn't even know if Cat is a "he", he just thought it fits. He has no idea what kind of cat he is, or how old he is, or really, anything at all. All he ever knows is that Cat appeared out of nowhere when he and Sammy got scared, and he wished so hard that his Dad was there, or, just, anything that could keep them safe could be there. It can't be a coincidence that that's when Cat showed up, right? But still, he feels so bad that he has no answer to any of his questions.
 
-He shakes his head and feels almost angry about himself out of nowhere. All he knows is -- "He's hurt. His... hands and feet," Dean says, gesturing at his own hands. Before realizing that's probably not the right words -- "I mean paws. His paws were hurt from trying to bring us food. I tried to help him, but that's not enough. And..." he bites his tongue for a second, hesitating, before adding, "... and I think Dad did something to him, I don't really know what, but it's bad. Really bad. I thought..." He can't complete his sentence. He doesn't want to think about the emptiness in his stomach when he opened the door and found Cat bloody, so weak but still so desperate to come back to him. He still doesn't want to think about what happened between Dad took him away and he came back. The only thing important is he's here now, and he's alive.
+He shakes his head and feels almost angry about himself out of nowhere. All he knows is -- "He's hurt. His... hands and feet," Dean says, gesturing at his own hands. Before realizing that's probably not the right words -- "I mean paws. His paws were hurt from trying to bring us food. And then something bad happened. I tried to help him, but that's not enough. And..." he bites his tongue for a second, hesitating, before adding, "... and I think Dad did something to him, I don't really know what, but it's bad. Really bad. I thought..." He can't complete his sentence. He doesn't want to think about the emptiness in his stomach when he opened the door and found Cat bloody, so weak but still so desperate to come back to him. He still doesn't want to think about what happened between Dad took him away and he came back. The only thing important is he's here now, and he's alive.
 
 "Yeah, that's... that's about it," he concludes.
 
@@ -1550,7 +1552,7 @@ Dean glances around. Against the wall at the corner, there are two chairs sittin
 
 "I'll just be here," he says, trying to be polite.
 
-Jody walks over to the chairs without a word, and brings them with her, placing them right behind him. One for him, and one for herself. "Sit, kid, and eat your taco. You heard the Doc, it might be a while, but Cat is in good hands. God knows how many animals he's saved. Aren't you, Doctor Mills?"
+Jody walks over to the chairs without a word and brings them with her, placing them right behind him. One for him, and one for herself. "Sit, kid, and eat your taco. You heard the Doc, it might be a while, but Cat is in good hands. God knows how many animals he's saved. Aren't you, Doctor Mills?"
 
 The doctor chuckles quietly. "Told you to call me Sean, Jody. 'Doctor Mills' sounds like the ones doing cardiology surgeries in medical drama shows."
 
@@ -1576,13 +1578,13 @@ He sees a small smile bloom at the corner of her mouth from the peripheral of hi
 
 "Nice to meet you, Dean. I'm Jody," Jody says formally, reaching out a hand for shaking. "Thank you for letting me know."
 
-Dean hesitates another second before shaking it. Her hand is warm and gentle. Almost reminds him of his Mom again. Dean thrusts a taco into his mouth to stop himself from thinking. He doesn't want to accidentally start crying there -- he doesn't want to look like a little kid anymore, or weak, that's what his Dad would say.
+Dean hesitates another second before shaking it. Her hand is warm and gentle. Almost reminds him of his Mom again. Dean thrusts a taco into his mouth to stop himself from thinking. He doesn't want to accidentally start crying there -- he doesn't want to look like a little kid anymore, or weak; that's what his Dad would say.
 
-The food tastes amazing. He doesn't know what meat or sauce was in there, but everything tastes amazing. He wonders if it's because he hasn't really eat much lately. Then he remembers Sammy hasn't eat much lately either. He puts down his hands that almost reach and grab the second one. He closes the plastic box, making sure each corner is locked in place.
+The food tastes amazing. He doesn't know what meat or sauce was in there, but everything tastes amazing. He wonders if it's because he hasn't really eat much lately. Then he remembers Sammy hasn't eaten much lately either. He puts down his hands that almost reach and grab the second one. He closes the plastic box, making sure each corner is locked in place.
 
 Jody watches him. "Save for later?"
 
-"For my brother. I think he'll like it," Dean answers, wondering where Sammy would be now, and that thought quickly leads to, where Dad would be now. His heart sinks.
+"For my brother. I think he'll like it," Dean answers, wondering where Sammy would be now, and that thought quickly leads to -- where Dad would be now. His heart sinks.
 
 "Where is he now?" Jody asks.
 
@@ -1594,7 +1596,7 @@ Jody watches him. "Save for later?"
 
 "What happened?" Jody shifts on her chair, positioning directly toward him.
 
-But Dean can't bring himself to find what might be behind her eyes when she's looking at him. So he keeps staring at the floor before the chair where his feet can't reach, his fingers fidgeting the closed box. He tells her about the fight they have over Cat, what he said about he'd never let anything happen to Cat, and what his Dad said before he left with Sammy.
+But Dean can't bring himself to find what might be behind her eyes when she's looking at him. So he keeps staring at the floor before the chair where his feet can't reach, his fingers fidgeting with the closed box. He tells her about the fight they have over Cat, what he said about he'd never let anything happen to Cat, and what his Dad said before he left with Sammy.
 
 He didn't plan to tell her everything initially, but then, once it started, he finds words piling out of his mouth, as if his brain is just eager to get them out, as if, if he has to hold everything in for any longer, playing and replaying in his head, seeing the angry face of his Dad, hearing his voice getting colder and icier by each sentence, he'd burst into flame made of pain, burning alive until he's nothing but a pile of bitter ash.
 
@@ -1602,7 +1604,7 @@ Tear blurs his vision. He puts his hands between his knees to hold them in place
 
 He hears loud sigh next to him when he finishes.
 
-Then he hears the sound of cloth shuffling, before the officer moves into his space, holding out her arms to pull him into a hug. One he misses so much from his Mom, one that he never gets from his Dad, not after the day of the fire, one he felt similar warmth when he hold Cat close. And now, he's getting another one.
+Then he hears the sound of cloth shuffling, before the officer moves into his space, holding out her arms to pull him into a hug. One he misses so much from his Mom, one that he never gets from his Dad, not after the day of the fire, one he felt similar warmth when he held Cat close. And now, he's getting another one.
 
 He leans into the hug, hands clinging onto Jody's arms, closing his eyes. For a second, he can pretend everything is okay and normal and just like before.
 
@@ -1610,15 +1612,15 @@ He leans into the hug, hands clinging onto Jody's arms, closing his eyes. For a 
 
 Dean's first thought is, Dad will be pissed at him for giving away his number to other people, especially a police officer. He chews his lips before telling Jody exactly that.
 
-"Well, he'll have to suck it up," the young officer answers sharply. "He's the one screwed up big and left you. What kind of father do that? I'm not a mom and I already know you don't treat your kids like that. You don't have to go to parent school to know not to do anything like that! The numbers."
+"Well, he'll have to suck it up," the young officer answers sharply. "He's the one screwed up big and left you. What kind of father do that? I'm not a mom, and I already know you don't treat your kids like that. You don't have to go to parent school to know not to do anything like that! Now, the numbers."
 
 Dean gives her the numbers. He has to really make an effort to recall every digit to make sure he doesn't get it wrong. That's the one Dad used to have before the fire and Mom made him memorize. The digits don't look familiar, and he's worried he might get it wrong. He doesn't really remember ever dialing it to call his Dad. He doesn't even know if his Dad still keeps that old number, after the accident.
 
 Jody walks to the corridor to call. Dean goes back to twiddling the edge of the plastic box on his hip, bordering break it off.
 
-Jody's voice raises after a few sentences. It looks like she's already tried so hard to not raise her voice too much, by the look of her hand covering the mouth piece of the phone, but the voice still becomes loud enough to hear from where he sits.
+Jody's voice rises after a few sentences. It looks like she's already tried so hard to not raise her voice too much, by the look of her hand covering the mouth piece of the phone, but the voice still becomes loud enough to hear from where he sits.
 
-"What are you even thinking?! He's a good kid! And that cat is damn good cat!" Jody snaps at the phone.
+"What are you even thinking?! He's a good kid! And that cat is a damn good cat!" Jody snaps at the phone.
 
 A short pause later. "No, sir, with respect, shut up and listen! Either you come back and pick your boy and the cat up, and APOLOGIZE to him, or I swear, I'll find you and you probably don't want to know what I can do in my power. But I assure you, you wouldn't like any of it." Jody gives up pretending she's not angry, waving her free arm as if she is wishing to drag the man she's talking to out of phone and give him a punch. If the topic isn't about him or if he doesn't know the person she's talking to is his father, Dean thinks he might find it amusing, almost reminds him of some comic his Mom once let him read where the characters have fuming smoke over their head when they are really angry.
 
@@ -1638,7 +1640,7 @@ Dean shoots up from his seat, rushing toward the table, his attention completely
 
 Cat is dozing off on the desk, his eyes blinking lazily, showing more layers of eyelids than usual. His paws and all the open wounds are now cleaned and covered under new gauze, which takes up so much of his little body that Dean feels his chest tight.
 
-"All patched up," Sean tells him cheerfully. "Nothing serious, most of them are just awful to look, that's all. Give it a few weeks and it's gonna be all fresh and healed. I gave him a small dose to make my work easier, so he might be sleepy for the rest of the day. Be careful when the patches start itching, stop him from scratching if you can. Other than that, the only thing I would pay attention to is some nutrition balance. He's a little bit underweight for a one-year-old, but not too severely. As long as you give him regular food, the wet and dry ones, he'll be all good."
+"All patched up," Sean tells him cheerfully. "Nothing serious, most of them are just awful to look at, that's all. Give it a few weeks, and it's gonna be all fresh and healed. I gave him a small dose to make my work easier, so he might be sleepy for the rest of the day. Be careful when the patches start itching; stop him from scratching if you can. Other than that, the only thing I would pay attention to is some nutrition balance. He's a little bit underweight for a one-year-old, but not too severely. As long as you give him regular food, the wet and dry ones, he'll be all good."
 
 Dean's eyes brighten up as he listens to the doctor's advice, but as the last words sink in, his face falls. The food. Cat is underweight, but he doesn't even have any idea how to get him regular food, let alone "wet and dry ones" that he has no idea of what they are. He can't imagine diner burgers would work, even if he and Sammy could have enough to share between them in the first place.
 
@@ -1670,7 +1672,7 @@ Dean is surprised when Jody stops in front of a two-story house.
 
 "Nah, I already called in, telling them I'm handling something." Jody gets out of the car, going around the car to grab the things in the trunk. "What's there to see anyway? It's not like they have a bed and a shower there. I bet you're exhausted. No place like home, am I right?"
 
-Dean nods mutedly. *No place like home.* But he doesn't have a home anymore, does he?
+Dean nods mutely. *No place like home.* But he doesn't have a home anymore, does he? His Dad told him exactly that when he asked when they're coming back, as the car drove away from Lawrence, Kansas. Dad said they don't have a home anymore. Dad said they're never coming back. He remembers staring out of the window until it was all dark and he couldn't see anything anymore.
 
 He follows Jody to get into the house, hovering near the entrance to the living room.
 
@@ -1720,7 +1722,7 @@ Jody has talked for a long minute, the air in the room feeling so quiet that it'
 
 Jody has her back to him. Dean can only see her waving one hand in the air, the other clenching into a tight fist, sitting stiffly next to her, as if it's taking all her will not to throw that hand onto the face of the man she's talking with. Dean can't help wondering what she's saying, but if he opens the room door any wider, his Dad would for sure notice him.
 
-When Jody finally finishes, his Dad nods a few times. Dean watches with fascination that they even shake hands, and then Jody starts walking toward the room he's in.
+When Jody finally finishes, his Dad nods a few times. Dean watches with fascination, amazed that they'd even shake hands, and then Jody starts walking toward the room he's in.
 
 He rushes back into the room, pretending to pack his small bag (which isn't even opened since yesterday), put it onto his back, and pick up Cat.
 
@@ -1730,7 +1732,7 @@ Jody opens the door right at the moment when he's ready.
 
 Dean nods quietly, still in amazement that she's managed to do that. "Thank you."
 
-Jody squats down, then, making herself the same height as Dean. "Call me if you need anything, okay? I don't know everything, but I know this, life is hard, and based on what you told me, it's even harder for you and your family. I know I can't do much, but I hope you can find what little joy you can find, like, Cat makes you happy, then hold on to it. It's not going to make the bad things go away, but the bad things can't take away the good things, either. Remember this."
+Jody squats down, then, making herself the same height as Dean. "Call me if you need anything, okay? I don't know everything, but I know this: life is hard, and based on what you told me, it's even harder for you and your family. I know I can't do much, but I hope you can find what little joy you can find, like, Cat makes you happy, then hold on to it. It's not going to make the bad things go away, but the bad things can't take away the good things, either. Remember this."
 
 Dean doesn't fully understand that. Not yet, anyway. Not until a very long time after this. But he does remember.
 
@@ -2071,7 +2073,7 @@ Dean hasn't seen him in two years, and Sammy has grown even taller since the las
 
 "Dean?! What are you doing here?" When Sam finally sees who he is, he sounds even more startled than he might be if he's a mere burglar.
 
-Dean tries to give him a smile but he's not feeling it. "I need your help," he says, his voice coming out too thick, too raspy.
+Dean tries to give him a smile, but he's not feeling it. "I need your help," he says, his voice coming out too thick, too raspy.
 
 Sam looks at him, frown creeping up his forehead. "What's wrong?" he asks, dead serious. All the playfulness from a moment ago gone.
 
@@ -2087,7 +2089,7 @@ Sam shakes his head unbelievably. "I don't know. I just didn't realize you still
 
 "Yeah." Sam chuckles quietly, rubbing the back of his head. "For like twenty years. I didn't know cats can live this long."
 
-"He's your age," Dean reminds him. "So yeah, twenty-two now. He's always special anyway. Doctor said they never saw a black cat with eyes so blue, not when they grow out of kitten."
+"He's your age," Dean reminds him. "So yeah, twenty-two now. He's always special anyway. Doctor said they never saw a black cat with eyes so blue, not when they grow out of kittenhood."
 
 "Yeah, my point." Sam agrees.
 
@@ -2097,7 +2099,7 @@ Sam shakes his head unbelievably. "I don't know. I just didn't realize you still
 
 Sam's got a way out of his league, apparently. And Dean makes sure this girl, Jessica, knows that exactly.
 
-Dean also tries to keep it vague in front of the girl. "We just have some family business to talk about." He smiles at Jessica, as if him showing up at the middle of night isn't enough sign to show how distressed he is right now.
+Dean also tries to keep it vague in front of the girl. "We just have some family business to talk about." He smiles at Jessica, as if him showing up in the middle of the night isn't enough of a sign to show how distressed he is right now.
 
 Sam glances between him and his girl, taking a step toward her. "Anything you want to tell me, you can speak in front of her."
 
@@ -2105,9 +2107,9 @@ Liar.
 
 Dean narrows his eyes. "Like I said, Cat is missing, and I'm worried."
 
-"So he might get out to stretch his legs, what's the big deal? He'll come back." Sam shrugs.
+"So he might get out to stretch his legs; what's the big deal? He'll come back." Sam shrugs.
 
-Dean takes a step closer to his brother, suppressing the urge to grab his collar and shake him to make him understand. "No, you're not listening to me. Cat is *missing*. He never leaves me like that, ever, and you know that. All this years, he never left. And now he's not here. Something's wrong."
+Dean takes a step closer to his brother, suppressing the urge to grab his collar and shake him to make him understand. "No, you're not listening to me. Cat is *missing*. He never leaves me like that, ever, and you know that. All these years, he never left. And now he's not here. Something's wrong."
 
 Sam watches him closely, lips thin, still unmoved.
 
@@ -2119,17 +2121,17 @@ Dean throws his glance at Jessica before looking back at his brother, choosing h
 
 "Jessica, excuse us." Sam lets his arms that were circled around his girl's waist drop, not even looking at her anymore. He walks straight to Dean. "Talk to me."
 
-So, that's how it begins, again. Or rather, when Dean thinks back, that's how it starts to end. The day he dragged his brother out of the school, the day he couldn't find his cat, the cat that grew up with him all of twenty years, the day his Dad went missing.
+So, that's how it begins, again. Or rather, when Dean thinks back, that's how it starts to end. The day he dragged his brother out of the school, the day he couldn't find his cat, the cat that grew up with him all of twenty-two years, the day his Dad went missing. Something big was coming, except none of them saw it until way too late.
 
 One thing leads to another, then leads to another thousand things.
 
 He found his Dad one year after that and immediately lost him, and he found his Cat after he lost his brother, and after he made the deal to trade his life for his brother's.
 
-When he comes back to Bobby's place, when Sam's patched back and doesn't remember his own death, when Dean can't think of anything other than one last year of his own life, there he is, a black cat sits outside Bobby's place.
+When he comes back to Bobby's place, when Sam's patched back up and doesn't remember his own death, when Dean can't think of anything other than one last year of his own life, there he is -- a black cat sits outside Bobby's place.
 
-Dean stares at him, reminding himself it can't be Cat again. There are too many black cats in the world, maybe this is just a stray cat that happens to be here, and happens to be all black.
+Dean stares at him, reminding himself it can't be Cat again. There are too many black cats in the world; maybe this is just a stray cat that happens to be here, and happens to be all black.
 
-Then the cat looks up, eyes blue, and meows at him, in the most familiar way he knows by heart. Dean calls him: "Cat?"
+Then the cat looks up, eyes blue, and meows at him, in the most familiar way he knows by heart. Dean calls him in a cry: "Cat?"
 
 And the black cat leaps toward him, almost throwing him to the ground.
 
@@ -2163,11 +2165,11 @@ That's when Hellhounds start bumping against the door, when the wind blasts the 
 
 Dean never expects to breathe the air on Earth again. Not after everything he's been through, everything he remembers. But again, since when is their life anything expected?
 
-The grave he climbed out looks like the scene of some kind of exploration. Nothing makes sense.
+The grave he climbed out of looks like the scene of some kind of exploration. Nothing makes sense.
 
 In the deserted gas station, against the bathroom window, Dean feels the sharp burning sensation on his shoulder. He gasps at the red burning mark printed on his flesh when he sees it. The shape of the print, is a cat's paw. He stares at the reflection for a long moment, fingers tracing the swollen flesh. He'd recognize that little paw from anywhere.
 
-"Cat." Dean breathes. It's as if things are filling into places, but there's just one little piece missing, the most important piece, one that's preventing him from putting everything together.
+"Cat." Dean breathes. It's as if things are falling into place, but there's just one little piece missing, the most important piece, one that's preventing him from putting everything together.
 
 He knocks on Bobby's door when he finally hitchhikes there. Bobby welcomes him with a bucket of holy water.
 
@@ -2175,7 +2177,7 @@ He knocks on Bobby's door when he finally hitchhikes there. Bobby welcomes him w
 
 Bobby stares at him, frozen like a statue.
 
-Dean tries to ignore the panicking feeling emerging in his chest. He takes a step closer to the old man that's the closest thing he has to a father, raising his voice. "Bobby, where's Cat?"
+Dean tries to ignore the panicking feeling emerging in his chest. He takes a step closer to the old man who's the closest thing he has to a father that he wished to have, raising his voice. "Bobby, where's Cat?"
 
 Bobby swallows, then looks away. "No one's ever seen him since... since you were gone."
 
@@ -2183,7 +2185,7 @@ Bobby swallows, then looks away. "No one's ever seen him since... since you were
 
 "When... you were taken, Cat's missing too."
 
-"No," Dean exhale sharply. "No, no, no, it can't be. I told Sam! I specifically *told him* to take care of Cat!"
+"No," Dean exhales sharply. "No, no, no, it can't be. I told Sam! I specifically *told him* to take care of Cat!"
 
 He paces in Bobby's room before barging out of the door.
 
@@ -2193,11 +2195,11 @@ He finds Sam in the hotel room with a demon. And Sam doesn't give him any new in
 
 Dean pulls his hair until his scalp complains. It doesn't make sense.
 
-He shows them the paw print on his shoulder. "I know it's Cat, it has to be," he tells them, swearing on his soul.
+He shows them the paw print on his shoulder. "I know it's Cat. It has to be," he tells them, swearing on his soul.
 
-"Dean, it doesn't make sense," Bobby tells him in a tone that says he's crazy. Sam says the same thing. "Why would Cat burn you? Why would Cat has anything to do with Hell? He's just a cat. He didn't show any supernatural power for twenty years, nothing we have any solid proof anyway. He might be special, but he's not powerful."
+"Dean, it doesn't make sense," Bobby tells him in a tone that says he's crazy. Sam says the same thing. "Why would Cat burn you? Why would Cat have anything to do with Hell? He's just a cat. He didn't show any supernatural power for twenty years, nothing we have any solid proof of anyway. He might be special, but he's not powerful."
 
-Dean doesn't have answer for any of that. He just *knows* it has to be.
+Dean doesn't have an answer for any of that. He just *knows* it has to be.
 
 Pamela finds the first hint of the beginning of an answer. She finds a name.
 
@@ -2205,15 +2207,15 @@ Pamela finds the first hint of the beginning of an answer. She finds a name.
 
 "Stop telling me not to look," Pamela snaps to the void. Dean watches, amazed. It's like listening to one side of a phone call.
 
-"Okay," she says then, quieter, lowering her head. "Okay, I'll tell him." Dean waits with a gnawing in his chest. He wonders if that "him" means him. He wonders if Pamela really is talking to Cat. He wonders what Cat might want to say to him. After all this years, everything he's wondered, if there's finally an answer, an explanation. If things and their life would finally start making sense.
+"Okay," she says then, quieter, lowering her head. "Okay, I'll tell him." Dean waits with a gnawing in his chest. He wonders if that "him" means him. He wonders if Pamela really is talking to Cat. He wonders what Cat might want to say to him. After all these years, everything he's wondered about, if there's finally an answer, an explanation. If things and their life would finally start making sense.
 
-Pamela breaks the connection when the candles burns out. Everyone stares at her, waiting. She only looks back at Dean.
+Pamela breaks the connection when the candles burn out. Everyone stares at her, waiting. She only looks back at Dean.
 
-"He said his name is Castiel, not Cat, though he doesn't dislike it; in fact, he's pretty fond of that name you gave him," Pamela says, with a small smile. "And he says not to worry about him, you'll see him very soon. Tomorrow midnight, at this address, he said you'll recognize the place when you get there. And he said he looks forward to seeing you, again. That's all."
+"He said his name is Castiel, not Cat, though he doesn't dislike it; in fact, he's pretty fond of that name you gave him," Pamela says, with a small smile. "And he says not to worry about him; you'll see him very soon. Tomorrow at midnight, at this address, he said you'll recognize the place when you get there. And he said he looks forward to seeing you, again. That's all."
 
 She writes down an address. It looks like nothing more than a small town in the middle of nowhere, when they search it on the map.
 
-"I don't understand," Bobby voices the baffle in everyone's head.
+"I don't understand," Bobby voices the bafflement in everyone's head.
 
 Dean's reaching for his car key already. "Whatever, I'm going."
 
@@ -2227,55 +2229,55 @@ Dean's already turning on the engine. He can't wait for one second.
 
 <br>
 
-The motel looks... just like any other motel he's stayed in for all his life. Cramped dirty little place, bad hygiene, cheap price, ugly decorations and crippling furniture.
+The motel looks... just like any other motel he's stayed in for all his life. Cramped, dirty little place, bad hygiene, low price, ugly decorations, and crippling furniture.
 
-He doesn't really recognize the place, per say, but something about this place keeps nagging his subconsciousness, like it's somewhere his memory should know, but he can't quite put his fingers on.
+He doesn't really recognize the place, per se, but something about this place keeps nagging at his subconscious, like it's somewhere his memory should know, but he can't quite put his fingers on.
 
-He arrives the town twelve hours before the time Pamela told him, too fidgety to really do anything. He practically paces the small motel room for the entire time until the night falls and midnight arrives.
+He arrives in the town twelve hours before the time Pamela told him, too fidgety to really do anything. He practically paces the small motel room for the entire time until the night falls and midnight arrives.
 
-He has holy water by his left hand, and his shot gun in his right. When the distant bell rings twelve times for the midnight, he holds his breath, staring at the door.
+He has holy water by his left hand, and his shotgun in his right. When the distant bell rings twelve times for midnight, he holds his breath, staring at the door.
 
-The motel door bursts open as the light inside the room flashes and burns out. Lightning shines brightly even though there is no rain in the town; the sound of thunder rolls over his head; the window glass shatters in the wind that comes from nowhere. Dean raises a hand to protect his eyes when a man walk in, wearing suit and a trench coat, with the most tousled black hair. Dean splatters the holy water onto him but nothing happens. He holds onto the shot gun, but his fingers are not on the trigger.
+The motel door bursts open as the light inside the room flashes and burns out. Lightning shines brightly even though there is no rain in the town; the sound of thunder rolls over his head; the window glass shatters in the wind that comes from nowhere. Dean raises a hand to protect his eyes when a man walks in, wearing a trench coat with suits and a blue tie, with the most tousled black hair. Dean splatters the holy water onto him out of instinct, but nothing happens. He holds onto the shotgun, but his fingers are not on the trigger.
 
-"Who are you?!" He yells at the man, but he already knows the answer. His mind is just having a difficult time recognizing the answer he's been looking all his life.
+"Who are you?!" He yells at the man, but he already knows the answer. His mind is just having a difficult time recognizing the answer he's been looking for all his life.
 
 "Castiel. I'm an Angel of the Lord," the man answers, with a deep voice. He walks toward Dean as if not seeing the shotgun at all. "I'm the one who gripped you tight and raised you from Perdition."
 
-Dean takes a step back, then another, still holding the shotgun in a way as if it's a rod instead of gun for his defense. Then he trips over the motel chair, landing ungracefully on his butt.
+Dean takes a step back, then another, still holding the shotgun in a way as if it's a rod instead of a gun for his defense. Then he trips over the motel chair, landing ungracefully on his butt.
 
-Dean curses under his breath, still can't take his eyes away from the being before him. He's staring him back, with his dazzling blue eyes, the same shade of blue that Dean's looked for twenty years.
+Dean curses under his breath, still unable to take his eyes off the being before him. He's staring him back, with his dazzling blue eyes, the same shade of blue that Dean's looked for twenty-two years.
 
-The man who calls himself Castiel squats down in front of him, leveling their eyes. "I told you, you'll recognize this place," he says. Dean finds it very difficult to focus on his words when his eyes are staring right into him, as if piercing through his soul. Dean holds the shotgun in two hands to help himself keep balance. Castiel nods at the gun in his hands, smiling small. "You used the same gun poking my head the first time we met, and you tripped, too, back then. It appears nothing changed over twenty years."
+The man who calls himself Castiel squats down in front of him, leveling their eyes. "I told you, you'll recognize this place," he says. Dean finds it very difficult to focus on his words when his eyes are staring right into him, as if piercing through his soul. Dean holds the shotgun in two hands to help himself keep balance. Castiel nods at the gun in his hands, smiling small. "You used the same gun poking my head the first time we met, and you tripped, too, back then. It appears nothing changed over two decades."
 
 "Cat," Dean breathes, can't move his eyes away.
 
 "Technically, that's just a vessel." Castiel stands up, gesturing the full length of his body. "So is this. But feel free to use that name if it's easier for you."
 
-"You possessing some poor bastard?" Dean manages to scramble up, studying his trench coat without hiding the way his eyes measuring all the places. "Wait, more importantly, you *possessed* that poor kitten? Why?"
+"You possessing some poor bastard?" Dean manages to scramble up, studying his trench coat without hiding the way his eyes measure all the places. "Wait, more importantly, you *possessed* that poor kitten? Why?"
 
-Castiel tilts his head slightly, turning his ear up. Dean's promptly reminded of the way Cat would always turn his ears to him when he's talking or making a sound. He doesn't realize he's already dropped the shotgun and moves closer, can't help himself the impulsion of ruffling his hair, the same way he's always petted Cat's furs.
+Castiel tilts his head slightly, turning his ear to one side. Dean's promptly reminded of the way Cat would always turn his ears to him when he's talking or making a sound. He doesn't realize he's already dropped the shotgun and moves closer, can't help himself the impulsion of ruffling his hair, the same way he's always petted Cat's furs.
 
-"He's a devout man, he actually asked for this." Castiel gestures his body up and down one more time as way of explanation. "And cats are the rare creatures besides human that have enough free will to give consent; among them, black cats are the best and closest to the Veil to sense ethereal entities. So it's just easier for me."
+"He's a devout man; he actually asked for this." Castiel gestures his body up and down one more time as a way of explanation. "And cats are the rare creatures besides humans that have enough free will to give consent; among them, black cats are the best and closest to the Veil to sense ethereal entities. So it's just easier for me."
 
-Dean's moved closer to him now as he speaks, mesmerized like a moth attracted by the light of flame. There's maybe two steps' distance between them now.
+Dean has moved closer to him now as he speaks, mesmerized like a moth attracted by the light of flame. There's maybe two steps' distance between them now.
 
-"But why cats? This *devout* man," he says, trying not to think too hard on the morality of the suggestion, "can't you be human all this time. You've been a cat for twenty years and can't speak and eat dead rats, Jesus, Cas, why?"
+"But why cats? This *devout* man," he says, trying not to think too hard about the morality of the suggestion, "can't you be human all this time? You've been a cat for twenty years, can't speak, and... and eat dead rats every day, Jesus, Cas, why?"
 
-Castiel returns the stare, unwavering. "Because there are orders forbidding us set foot on Earth, and we can't interfere. I've known you'd be my charge since twenty years ago, and I wanted to make sure you're okay." The corner of his lips tips up slightly. "But they didn't say I can't set *paws* on Earth. So I didn't break any rule, technically, as long as I don't use any of my power."
+Castiel returns the stare, unwavering. "Because there are orders forbidding us to set foot on Earth, and we can't interfere. I've known you'd be my charge since twenty-two years ago, and I wanted to make sure you're okay." The corner of his lips tips up slightly. "But they didn't say I can't set *paws* on Earth. So I didn't break any rule, technically, as long as I don't use any of my power."
 
-Dean laughs so hard he can't breathes. Or maybe he can't breathe for a whole different reason. When he stops laughing, there's tear at the corner of his eyes. He pretends it's because of the laugh.
+Dean laughs so hard he can't breathe. Or maybe he can't breathe for a whole different reason. When he stops laughing, there're tears at the corner of his eyes. He pretends it's because of the laugh.
 
-"Cat, I mean, Cas, god you're a genius. Sorry, it might take me a while to change that, I'm way too used to the old name." Dean waves a hand helplessly, as if trying to gesture how unlike a cat he is now.
+"Cat -- I mean, Cas -- god, you're a genius. Sorry, it might take me a while to change that; I'm way too used to the old name." Dean waves a hand helplessly, as if trying to gesture how unlike a cat he is now.
 
-"It's alright, Dean," Castiel answers easily, moving a step closer. "It might take some time for me to adjust, too. I've been probably over-used to licking your face or whatever other cat behaviors that the vessel has made me tune into."
+"It's alright, Dean," Castiel answers easily, moving a step closer. "It might take some time for me to adjust, too. I've probably been overly used to licking your face or whatever other cat behaviors that the vessel has made me tune into, and I understand it's no longer acceptable in a human vessel."
 
-"I'd miss snuggling next to the little fur ball every night. It's very hard to sleep alone now." Dean fake complains, closing the last step of distance between them. They are right into each other's distance now, close enough to brush their noses if they so wish too.
+"I'd miss snuggling next to the little fur ball every night. It's very hard to sleep alone now." Dean fake complains, closing the last step of distance between them. They are right in each other's space now, close enough to brush their noses if they so wish to.
 
-"I'm sorry for not having furs any more, but I'm still capable of everything else. If you wish," Castiel answers.
+"I'm sorry for not having furs anymore, but I'm still capable of everything else. If you wish," Castiel answers.
 
 "Yeah?" Dean raises his eyebrows, spreading his arms to pull the angel in. "This okay?"
 
-"Yes, Dean, this is very much okay," the angel-slash-his-pet-cat answers, leaning in and wrapping his arms around Dean's back too.
+"Yes, Dean, this is very much okay," the angel-slash-his-pet-cat answers, leaning in and wrapping his arms around Dean's back too, the same way the little black cat wrapped his tail around his wrist all these years ago, holding onto him tight.
 
 Dean leans his head over the angel's shoulder, taking in his existence. "I'm so sorry for everything my Dad put you through," he says quietly.
 
@@ -2283,27 +2285,27 @@ Dean leans his head over the angel's shoulder, taking in his existence. "I'm so 
 
 "You helped, Cas, plenty," Dean tells him. "I don't know how these twenty years would be like without you. I think I know you're an angel all along."
 
-"You do?" Cas asks, and Dean can feel the questioning tilt of his head against his cheek.
+"You do?" Cas asks, and Dean can feel the questioning tilt of his head against his cheek without looking.
 
 Dean chuckles softly. "Yeah, I think... I think all the cats must be angels. But you, you are the most cat-angel of them all."
 
 Cas grumbles, "That doesn't make any sense at all."
 
-Dean's chuckles turn into a full-on laughter. "Yeah it does."
+Dean's chuckles turn into full-on laughter. "Yeah it does."
 
 They don't separate until Dean finally puts himself back together. He still watches the angel gingerly, barely blinking his eyes.
 
-"I'm not going to disappear, Dean," Cas tells him, staring right back without blinking. "Or turn back into cat."
+"I'm not going to disappear, Dean," Cas tells him, staring right back without blinking. "Or turn back into a cat. Not unless you want me to."
 
-"I know," Dean answers, absent-mindedly. "I'm just thinking, it's so nice to finally meet you, Cas, after all these years. It's so weird, it's like we just met but I've already known you."
+"I know," Dean answers, absent-mindedly. "I'm just thinking, it's so nice to finally meet you, Cas, after all these years. It's so weird, it's like we just met, but I've already known you."
 
 Castiel smiles warmly at him. "It's so very nice to finally meet you, too, Dean. I had a lovely twenty years' life being a cat with you."
 
-"And more years as human with me now, I hope?" Dean asks, full of hope.
+"And more years being a human with me now, I hope?" Dean asks, full of hope.
 
 "Yes, Dean. Of course." Cas agrees easily.
 
-That's the moment when Dean finally remembers, this is the exact motel room he first ran into the black cat, when he was five year old, before he knew what a cat is. He didn't realize then and he only realizes now, that this is also the motel that he first ran into an angel, when he's twenty-nine, before he knows what an angel is. He knows both now.
+That's the moment when Dean finally remembers: this is the exact motel room where he first ran into the black cat, when he was five years old, before he knew what a cat was. He didn't realize then and he only realizes now, that this is also the motel where he first ran into an angel, when he's twenty-nine, before he knows what an angel is. He knows both now.
 
 ###### [END]
 
@@ -2317,20 +2319,36 @@ That's the moment when Dean finally remembers, this is the exact motel room he f
 
 ### Writer's Notes (Not a Chapter)
 
-This story's initial idea was inspired by a very cute video of my dear friend BucketOfLi's cat (which is very much like a monster under the bed, in a good way). At that moment, I didn't know Cas is gonna be in this story at all, or it's gonna turn into a destiel story. But then, as I started writing, a few thousands words later, after five-year-old kid Dean saw a cat (*the* cat) for the first time in his life (that's where I originally thought would be the end of the story), when Dean started thinking about giving the cat a name (no wonder people say names are magical and once you name something, it becomes yours) and the cat turns out to have blue eyes (totally didn't plan that in the first place), I lost control of the story; more and more ideas and plot twists poured in, and the story just continued growing and growing and became a gigantic thing (biggest story structure I've ever written, and you have no idea how many pages of outline I got). The main idea of the story is sorta inspired by a black cat story "The Price" (or what's left of it that I still remembered), but I'd say even that story idea probably isn't very novel, in a way -- there gotta be more people having thought that cats are angels, and what better angel/cat can it be other than Cas for little Dean and baby Sammy to grow up with.
+This story's very initial idea was inspired by an incredibly cute video of my dear friend [BucketOfLi](https://archiveofourown.org/users/bucketofli)'s cat (which charges out from under the bed, very much looks like a "monster" for a good second). At that time, I didn't know Cas was gonna be in this story at all, or that it was gonna turn into a destiel story. I just got a cute little idea about kid Dean and a cat and started writing. I thought it was gonna be a one-shot. But then, as I wrote, a few thousand words later, after five-year-old kid Dean saw a cat (*the* cat) for the first time in his life (that's where I originally thought would be the end of the story), when Dean started thinking about giving the cat a name (no wonder people say names are magical and once you name something, it becomes yours) and the cat turns out to have blue eyes (totally didn't plan that in the first place, it just happened), I lost control of the story; more and more ideas and plot twists poured in, and the story just continued growing and growing like Jack's magic beans.
 
-If I have to credit another work that's a stretch but still quite some inspiration for the story construction: that's "CJ7", a 2008 movie. Really quite some stretch, but I remember it so dearly when watching as a child that I can *feel* its impact on the way this story forms and grows. Oh, and another one I loooove so much (not just love it, I *luve* it, *loove* it, *loooove it*) that I just *have to* nominate, and I think its impact is perhaps mostly on a subconscious level and so much impact nonetheless: *[How (thanks to Gabriel) Dean and Castiel (accidentally) raised each other (and Sam)](https://archiveofourown.org/works/540915)*. It's literally my first enlightenment of how to write kid fic. Honorary mention: my absolute all-time favorite cat movie series: "The Legends of Hei." It's just too beautiful to miss.
+And then Jody comes in (a huge surprise that I didn't plan), and then Sean comes in without me doing anything and starts flirting with Jody (guess my surprise when I realize I have to find a maiden name for Jody since that's before they get married; but I'm so happy that I gotta write some cute interaction between these two that I've never done before in any of my other stories). And then it's Dean who decided that the reason why he goes to find Sam and pull him out of school is not because of Dad missing, but because of Cat -- that suddenly makes so much sense! And it's Cas who decided that the place they're gonna meet again is the same old motel from the first chapter (yep I didn't know that either until it happened).
 
-It should be pretty obvious since the beginning, but I'll still add redundantly here that, when you start reading this story, feel free to read as if all the "Cat" is exactly "Cas". You have no idea how many times my muscle memory has mistyped that during the writing. I never realize how powerful muscle memory is. My brain knows it's Cas, my fingers know it's Cas, but I have to write Cat for the story's sake, and this is a discrepancy that messed with my eyes quite a lot. I did try very hard to insert "Cas" early on but just can't convince myself that's the right place; there's just no good reason for the kid Dean to name the cat "Cas" when he first ran into him, so "Cat" is the next best thing I can do. In a very early draft before I came up with the idea to let Cas talk, he'd remain as "Cat" until near the end where S04 happens. But it would so definitely kill me if I had to write however many thousands of words of destiel without even typing "Cas" in any of the sentences. Glad I fixed that.
+So, truly, this story writes itself from beginning to the end like no other story I've ever done. (Which, of course, also caused quite some trouble for me; I'll talk about that later.)
 
-I started writing this story in the middle of a night in the middle of a tough week and my eyes were half-closed most of the time, and after re-reading the first five chapters days later, I realize the Sammy in my head is most definitely ~~a bit~~ a lot older than one year old to be able to talk that much and read and reason and be so mature (in a word, just too much like the normal adult Sam that I've got used to writing; in many ways, so are Dean and Cas in this story, pretty sure the Dean I'm writing is more intelligent and thoughtful and mature than any average five-year-old and the cat I'm writing isn't like any cat, but I'd pretend those are probably smaller problem than a one-year-old speaking long sentences and understanding the situation around him and comforting his older brother. For my defense, I haven't been with many young kids for a long while until very recently, which is exactly when I started realizing that's a huge issue). But it's also a bit too late that I can't rewrite everything without the story falling apart, I do need them to interact and have intelligent conversation, while also make it (slightly) convincing that they're at an age too young to recognize cat as a creature. So the only explanation (aka patch) I can think of this: I'll pretend it's because the demon blood in Sam that makes him grow faster and ultra clever, and Dean doesn't freak out because he doesn't know what normal baby's learning and growing speed normally should be like, and John doesn't freak out because he isn't there long enough to notice, or maybe he noticed and freaked out and that's why he ran away so much to look for an answer or explanation for everything abnormal in their life. (This is mostly an after-thought patch, but my picky brain accepts the explanation, so I hope it works with you guys too.)
+Continue talking about the inspiration of the story: *maybe* some part of the original story idea can be attributed to being inspired by a black cat story called "The Price" (or what's left of it that I still remembered) where there is a cat and the cat fights off the demons at night without the humans knowing, and the owner (the "I" who tells the story) thinks that cat is an angel. But I'd say even that story idea probably isn't very novel, in a way -- there gotta be more people who've thought that cats are angels, and what better angel/cat can it be other than Cas for little Dean and baby Sammy to grow up with.
 
-And, I feel like I should apologize for writing so much of John Winchester's A+ parenting and writing him so very god-awful and probably triggering (in order to make the story make sense). As much as I know the fandom hates John Winchester even more than Chuck, the hatred and resentment aren't the main focus and emotional theme for this story. And don't forget, the story is mainly from a five-year-old's POV, who just lost his mother and only has his father to look up to, and so this five-year-old Dean loves and admires his Dad too much; even though he can't understand everything happening around him and in the world, he's just trying to make sense of the world in the way his little kid brain can handle; but also because the kid doesn't have as much emotional burden and weight as the grown-up Dean, so the emotions are (relatively) simpler. He's only got one year of childhood trauma, not twenty, but that's not saying it's okay. He's *five*, Jesus. Still, just wanting to say, sorry about putting you through all the bullshit and complication of John Winchester, let's pretend that's just the functional premise for the story to help us get a story for Dean and Cas. Let's not argue whether John did the right thing or not, does he deserve forgiveness or not, etc., better to just focus on that cute little black cat and those awesome little humans, deal?
+Honorary mention: If I have to credit another work that affects my storytelling from a young age, there's one that I'd love to mention that's maybe kind of a stretch now (considering how this story eventually writes itself in a very different way), but emotionally I can still find many similarities: a 2008 Hong Kong movie called "CJ7". I remember it so dearly from when I watched it as a child that I can *feel* its impact on me subconsciously in all my writings and stories, including the way this story forms and grows. Both have a cute little pet for a kid with a tough life, the kids growing up with all that hope that this little thing is more than it is, but even if it doesn't, the kid would still love it wholeheartedly. But then, when it *really* matters, when something *really* bad happens, of course it would turn out that this little thing isn't just a normal thing; it has never been.
 
-I can't thank enough for my artist, mods who worked so hard for every year's DCBB, the source of my inspiration, my friends who encourage me all the way through my writing and my life (especially this!), and of course, for all the lovely readers who get this far. You have my whole-hearted love. You are the ones who make the world a beautiful place and life something worth look forward to. May we have more love and destiel in the world and in our lives. Thank you for being here!
+Oh, and another one I loooove so much (not just love it, I *luve* it, *loove* it, *loooove it*) that I just *have to* nominate, and I think its impact is perhaps mostly on a subconscious level and so much impact nonetheless: *[How (thanks to Gabriel) Dean and Castiel (accidentally) raised each other (and Sam)](https://archiveofourown.org/works/540915)*. It's literally my first enlightenment of how to write a kid fic, the very first kid fic I've ever read that shattered my world about how to compose a story about growing up. I wouldn't have even tried to attempt that had I never read that one.
+
+One last honorary mention: my absolute all-time favorite cat movie series: "The Legends of Hei." It's just too beautiful to miss. (It's more like a cat movie/series recommendation time now.) But I'm not gonna lie, when I visualize black cat Cas as I write, sometimes I'd see the image of "Hei" in my head instead. By the way, that's a cat that's not really a cat, either, with some big, mysterious identity background that I'm not going to spoil. My dear friend BucketofLi even drew an extremely cute crossover art between Hei and Cas as well, [check it out here](https://www.tumblr.com/bucketofli/790779751395688448?source=share). (By the way, "Hei" means "black" in Chinese, just for your information.)
+
+\---
+
+It should be pretty obvious since the beginning, but I'll still add redundantly here that, when you start reading this story, feel free to read as if all the "Cat" is exactly "Cas". You have no idea how many times my muscle memory has mistyped that during the writing. I never realize how powerful muscle memory is. My brain knows it's Cas, my fingers know it's Cas, but I have to write Cat for the story's sake, and this is a discrepancy that messed with my eyes quite a lot. I did try very hard to insert "Cas" early on but just can't convince myself that's the right place; there's just no good reason for the kid Dean to name the cat "Cas" when he first ran into him, so "Cat" is the next best thing I can do. But that's Cas all the time anyway; everyone knows it (except Dean, but he sorta thinks of Cat as an angel anyway, because, like I added near the end, "all cats are angels", isn't it).
+
+I started writing this story in the middle of a night in the middle of a tough week and my eyes were half-closed most of the time, and after re-reading the first five chapters a few days later, I realize the Sammy in my head is most definitely ~~a bit~~ a lot older than one year old to be able to talk that much and read and reason and be so mature (in a word, just too much like the normal adult Sam that I've got used to writing; in many ways, so are Dean and Cas in this story, pretty sure the Dean I'm writing is way more intelligent and thoughtful and mature than any average five-year-old and the cat I'm writing isn't like any cat, but I'd pretend those are probably smaller problem than a one-year-old speaking long sentences and understanding the situation around him and comforting his older brother. For my defense, I haven't been with many young kids for a long while until very recently, which is exactly when I started realizing that's a huge issue). But it's also already a bit too late down the road; I can't rewrite everything without the story falling apart. I do need them to interact and have intelligent conversation, while also making it (slightly) convincing that they're at an age too young to recognize a cat as a creature. So the only explanation (aka patch) I can think of is this: I'll pretend it's because the demon blood in Sam that makes him grow faster and ultra smart, and Dean doesn't freak out because he doesn't know what normal babies' learning and growing speed normally should be like, and John doesn't freak out because he isn't there long enough to notice, or maybe he noticed and freaked out, and that's why he ran away so much to look for an answer or explanation for everything abnormal in their life. (This is mostly an afterthought patch, but my picky brain accepts the explanation, so I hope it works with you guys too.)
+
+And, I feel like I should apologize for writing so much of John Winchester's A+ parenting and writing him so very god-awful and probably triggering (in order to make the story make sense). As much as I know the fandom hates John Winchester even more than Chuck, the hatred and resentment aren't the main focus or emotional theme for this story. And don't forget, the story is mainly from a five-year-old's POV, who just lost his mother and only has his father to look up to, and so this five-year-old Dean loves and admires his Dad too much regardless of what John does or how he treats them; he doesn't hate his father and he wouldn't. Even though he can't understand everything happening around him and out in the world, he's just trying to make sense of the world in the way his little kid brain can handle; but also because the kid doesn't have as much emotional burden and weight as the grown-up Dean, so the emotions are (relatively) simpler. He's only got six months of childhood trauma, not twenty years, but that's not saying it's okay. He's *five*, Jesus. Still, just wanting to say, sorry about putting you through all the bullshit and complications of John Winchester; let's pretend that's just the functional premise for the story to help us get a story for Dean and Cas. Let's not argue whether John did the right thing or not, does he deserve forgiveness or not, etc., better to just focus on that cute little black cat and those awesome little humans, deal?
+
+I can't thank enough my artist, mods who worked so hard for every year's DCBB, the source of my inspiration, my friends who encourage me all the way through my writing and my life (especially this!), and of course, all the lovely readers who get this far. You have my whole-hearted love. You are the ones who make the world a beautiful place and life something worth looking forward to. May we have more love and destiel in the world and in our lives. Thank you for being here!
+
+ 
 
 Cheers,
 
 J. S.
 
-(P.S.: In the process of writing this story, I started having more and more ideas of what might be happening in the background outside Dean's POV, like, what's *really* happening that only the John POV and/or Cas POV can make sense. That's when I start adding more and more plots into the outline, making it potentially a much larger story, but I don't want to mess up with the original story idea that's cuter and simpler, so I'm going to keep both published and put them into a second version of the story, call it a "revised" or "extended" version if you like, or something like a "director's cut". Check it out here: [LINK TBA])
+ 
+
+P.S.:  In the process of writing this story, I started having more and more ideas of what might be happening in the background outside Dean's POV, like, what's *really* happening that only the John POV and/or Cas POV can make sense, what's John *really* doing during those nights he's not there for the boys, why can't they have enough food or money, what happened to Cas between each time Dean sees him, what's Cas thinking about when he meets Dean. And more importantly, the whole blank twenty years as they grow up: how many things and dangers could have happened, how exactly Cas helps them have an easier life compared to if he's not there. That's when I started adding more and more plots and ideas into the original outline, making it potentially a much, much larger story (the biggest one that I've ever tried, so far), but I don't want to mess up with the original story that's cuter and simpler (and there's a deadline to catch), so I posted the short and cute one here first for DCBB, and I'm planning on putting all those new ideas into a second version of the story. I haven't decided whether to call it a "revised" or "extended" version, or maybe something like a "director's cut". And I'm thinking about posting that maybe semi-regularly just to force myself not to give it up (because I know me, if there's no deadline and no one pushing, the chance of that getting done would be much, much lower). But I've also never done anything like that before, to have a regular posting routine for a long fic, but I'd love to see how it would go. And I'd very much love to invite you to be along that journey and witness a story to form. See you in the next one.
