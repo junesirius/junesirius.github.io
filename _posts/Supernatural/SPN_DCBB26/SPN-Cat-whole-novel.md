@@ -668,7 +668,7 @@ The thing moves its paw cautiously, taking one step closer to him, some pointy t
 
 The creature opens its mouth, and says, "Meow."
 
-The little five-year-old Dean makes a startled yelp at the sound, shifting back some more by his elbows and butt, eying it with a thumping heart. His hands are shaking, his palm sweating.
+The little five-year-old Dean makes a startled yelp at the sound, shifting back some more by his elbows and butt, eyeing it with a thumping heart. His hands are shaking, his palm sweating.
 
 The thing looks like as if that settles all the uncertainty it previously had, determining Dean as not dangerous at all at this point. It makes a lazy yawn as if it's bored of the tension, turning its head back to lick its back with full attention.
 
