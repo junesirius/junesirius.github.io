@@ -2063,7 +2063,7 @@ He sits into the car, crowded by his little brother and his black cat, feeling h
 >
 > (Dean to Cas: "I'm so sorry everything my dad put you through" Cas: "I'm so sorry for everything he put *you* through. I tried to help, but there's only so much can a cat do. My vessel has very strong instinct most of times that they overwhelm me." Dean: "I know you're an angel" "You do?" "All cats are, but you, more so than any")
 
-Days are long but years are short. One day you may wake up and realize twenty years have passed. Not within a blink, but after so many blinks, you'd stop counting. That's Dean, twenty years later, thinking back, when he sneaks into his younger brother's college dormitory, getting himself caught up in a playfight after waking him up.
+Days are long but years are short. One day you may wake up and realize twenty years have passed. Not within a blink, but after so many blinks, you'd stop counting. That's Dean, more than twenty years later, thinking back, when he sneaks into his younger brother's college dormitory, getting himself caught up in a playfight after waking him up.
 
 Dean hasn't seen him in two years, and Sammy has grown even taller since the last time.
 
@@ -2193,7 +2193,7 @@ Dean pulls his hair until his scalp complains. It doesn't make sense.
 
 He shows them the paw print on his shoulder. "I know it's Cat. It has to be," he tells them, swearing on his soul.
 
-"Dean, it doesn't make sense," Bobby tells him in a tone that says he's crazy. Sam says the same thing. "Why would Cat burn you? Why would Cat have anything to do with Hell? He's just a cat. He didn't show any supernatural power for twenty years, nothing we have any solid proof of anyway. He might be special, but he's not powerful."
+"Dean, it doesn't make sense," Bobby tells him in a tone that says he's crazy. Sam says the same thing. "Why would Cat burn you? Why would Cat have anything to do with Hell? He's just a cat. He didn't show any supernatural power for two decades, nothing we have any solid proof of anyway. He might be special, but he's not powerful."
 
 Dean doesn't have an answer for any of that. He just *knows* it has to be.
 
@@ -2241,7 +2241,7 @@ The motel door bursts open as the light inside the room flashes and burns out. L
 
 Dean takes a step back, then another, still holding the shotgun in a way as if it's a rod instead of a gun for his defense. Then he trips over the motel chair, landing ungracefully on his butt.
 
-Dean curses under his breath, still unable to take his eyes off the being before him. He's staring him back, with his dazzling blue eyes, the same shade of blue that Dean's looked for twenty-two years.
+Dean curses under his breath, still unable to take his eyes off the being before him. He's staring him back, with his dazzling blue eyes, the same shade of blue that Dean's looked for more than twenty years.
 
 The man who calls himself Castiel squats down in front of him, leveling their eyes. "I told you, you'll recognize this place," he says. Dean finds it very difficult to focus on his words when his eyes are staring right into him, as if piercing through his soul. Dean holds the shotgun in two hands to help himself keep balance. Castiel nods at the gun in his hands, smiling small. "You used the same gun poking my head the first time we met, and you tripped, too, back then. It appears nothing changed over two decades."
 
@@ -2257,9 +2257,9 @@ Castiel tilts his head slightly, turning his ear to one side. Dean's promptly re
 
 Dean has moved closer to him now as he speaks, mesmerized like a moth attracted by the light of flame. There's maybe two steps' distance between them now.
 
-"But why cats? This *devout* man," he says, trying not to think too hard about the morality of the suggestion, "can't you be human all this time? You've been a cat for twenty years, can't speak, and... and eat dead rats every day, Jesus, Cas, why?"
+"But why cats? This *devout* man," he says, trying not to think too hard about the morality of the suggestion, "can't you be human all this time? You've been a cat for like twenty years, can't speak, and... and eat dead rats every day, Jesus, Cas, why?"
 
-Castiel returns the stare, unwavering. "Because there are orders forbidding us to set foot on Earth, and we can't interfere. I've known you'd be my charge since twenty-two years ago, and I wanted to make sure you're okay." The corner of his lips tips up slightly. "But they didn't say I can't set *paws* on Earth. So I didn't break any rule, technically, as long as I don't use any of my power."
+Castiel returns the stare, unwavering. "Because there are orders forbidding us to set foot on Earth, and we can't interfere. I've known you'd be my charge since twenty-five years ago, and I wanted to make sure you're okay." The corner of his lips tips up slightly. "But they didn't say I can't set *paws* on Earth. So I didn't break any rule, technically, as long as I don't use any of my power."
 
 Dean laughs so hard he can't breathe. Or maybe he can't breathe for a whole different reason. When he stops laughing, there're tears at the corner of his eyes. He pretends it's because of the laugh.
 
@@ -2279,7 +2279,7 @@ Dean leans his head over the angel's shoulder, taking in his existence. "I'm so 
 
 "I'm so sorry for everything he put *you* through because of me," Castiel replies. "I tried to help, to make your life easier, to suffer less, to have food and everything you needed, but there's only so much a cat can do. My vessel had very limited strength, but fortunately very strong will."
 
-"You helped, Cas, plenty," Dean tells him. "I don't know how these twenty years would be like without you. I think I know you're an angel all along."
+"You helped, Cas, plenty," Dean tells him. "I don't know how these twenty-something years would be like without you. I think I know you're an angel all along."
 
 "You do?" Cas asks, and Dean can feel the questioning tilt of his head against his cheek without looking.
 
@@ -2295,7 +2295,7 @@ They don't separate until Dean finally puts himself back together. He still watc
 
 "I know," Dean answers, absent-mindedly. "I'm just thinking, it's so nice to finally meet you, Cas, after all these years. It's so weird, it's like we just met, but I've already known you."
 
-Castiel smiles warmly at him. "It's so very nice to finally meet you, too, Dean. I had a lovely twenty years' life being a cat with you."
+Castiel smiles warmly at him. "It's so very nice to finally meet you, too, Dean. I had a lovely twenty-five years' life being a cat with you."
 
 "And more years being a human with me now, I hope?" Dean asks, full of hope.
 
