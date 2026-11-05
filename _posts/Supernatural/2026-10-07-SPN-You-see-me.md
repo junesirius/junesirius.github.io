@@ -6,7 +6,7 @@ categories: ["SPN"]
 characters: ["Dean Winchester", "Castiel"]
 tags: ["Supernatural", "destiel", "英文", "心理", "情感", "被爱", "被看见", "亲密关系", "哀悼"]
 pov: 第一人称
-origin: S15E18 6th anniversary
+origin: S15E18 6th anniversary, Tumblr, AO3
 ---
 
 **Summary:**
@@ -109,7 +109,6 @@ Jesus Christ, I know it. I know you'd be back. You always do. Of course you'd co
 [There is no more journal after this]
 
 <br>
-
 <hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
 <br>
 **Tags:** Dean Winchester's journal, destiel is canon after Nov. 5 2020, journaling as therapy, grief, Dean Winchester POV
@@ -121,3 +120,7 @@ I didn't plan on writing this thing *at all*. It's just one random night, way to
 <p align="center"><a href="https://www.tumblr.com/bucketofli/829631288431493121/" target="_blank"><img src="https://64.media.tumblr.com/58344cfdd8b1e81bf458d04a4ff12c28/1afa4d4343d836bb-25/s2048x3072/290b045af1d2562be9ae4b006cd171cd0528d16c.jpg" alt="art with words: 'Last night, we were on a boat. It was a very sunny day and we brought a lunchbox. The lake looks familiar. I laughed at you, cause you were still dressing like a tax accountant for our date... And you, and you...'" style="display:block; margin-left:auto; margin-right:auto; padding-bottom:10px; max-width:100%;" /></a></p>
 
 and I started dumping my thoughts on the page, feeling overwhelmingly related to Dean. And it turned out to be something like half diary and half essay. It's nothing like my usual planned-out stories; this is so much more personal and very therapeutic. I apologize for it probably not being very very close to character, because as I write, most times I can feel the Dean in me, but sometimes my own feelings and thoughts would get too loud and I forget about Dean for a second, and the voice just becomes my own. I beg for mercy and that the comments please don't be too harsh on that regard. I'll try to do better in writing real stories next time. I devote this one to myself.
+
+<br>
+
+([Tumblr Post Link](https://www.tumblr.com/junesirius/832430466607054848))
