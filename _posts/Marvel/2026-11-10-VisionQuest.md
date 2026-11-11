@@ -33,7 +33,7 @@ Forget to add: the storytelling is so beautiful too in this series, the way they
 
 <br>
 
-**PS:**
+### PS:
 
 Proof that it's still 2015 this year: you still get to see Vision fighting Ultron on the screen
 
@@ -42,3 +42,23 @@ Proof that it's been more than a decade since 2015: Wanda and Vision just starte
 <br>
 
 ([Tumblr post link](https://www.tumblr.com/junesirius/832970298825539584))
+
+<br>
+
+### PPS:
+
+<br>
+![](https://64.media.tumblr.com/9d9448b93834ca8205c5add86982ba9c/a15e76a1afa099ce-ca/s2048x3072/930ba01852c2ca3bf4061297155aade2ffdc6043.pnj)
+
+<br>
+![](https://64.media.tumblr.com/aa35b506af347bd569a1cf49aa75ee7a/a15e76a1afa099ce-11/s2048x3072/cf0addc51af1dce489ef2d8b54e15585fe00570f.pnj)
+
+<br>
+![](https://64.media.tumblr.com/0a6530556dc3a442465ea854ef7fff2c/a15e76a1afa099ce-c6/s2048x3072/1b99f5256953268352ae488d402e9f377fdcc69c.pnj)
+
+<br>
+![](https://64.media.tumblr.com/1a6c14988191badd941b8696d1582994/a15e76a1afa099ce-d4/s1280x1920/19fce081e9d422c7f2ec0036f9486a00a934714a.pnj)
+
+<br>
+
+([Tumblr post link](https://www.tumblr.com/junesirius/833017324523159552))
