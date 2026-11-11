@@ -4,7 +4,7 @@ title: 【观后感】《雷霆特攻队》
 date: 2025-07-04 22:47
 categories: ["漫威", "观后感"]
 characters: ["Bucky Barns", "Yelena Belova"]
-tags: ["观后感", "心理", "抑郁"]
+tags: ["观后感", "心理", "抑郁", "雷霆特攻队"]
 pov: 第一人称视角
 origin: 个站
 ---

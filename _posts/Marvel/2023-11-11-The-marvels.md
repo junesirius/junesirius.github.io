@@ -4,7 +4,7 @@ title: 【观后感】《惊奇队长2》
 date: 2023-11-11 17:35
 categories: ["漫威", "观后感"]
 characters: ["Carol Danvers"]
-tags: ["观后感"]
+tags: ["观后感", "惊奇队长"]
 pov: 第一人称视角
 origin: 空间
 ---
