@@ -111,7 +111,7 @@ Jesus Christ, I know it. I know you'd be back. You always do. Of course you'd co
 <br>
 <hr style="border: 1.5px solid; color: #36165a; opacity: 0.8;">
 <br>
-**Tags:** Dean Winchester's journal, destiel is canon after Nov. 5 2020, journaling as therapy, grief, Dean Winchester POV
+**Tags:** Dean Winchester's Journal, destiel Becoming Canon On 5 November 2020, journaling as therapy, grief, POV Dean Winchester
 
 **Notes after the work:**
 
