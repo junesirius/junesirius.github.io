@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 【观后感】《Spider-man: Brand New Day》
+title: 【观后感】《Spider-man：Brand New Day》
 date: 2026-11-08 22:01
 categories: ["漫威", "观后感"]
 characters: ["Peter Parker", "Jean Grey", "Frank Castle/Punisher"]
